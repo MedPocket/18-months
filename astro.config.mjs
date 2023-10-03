@@ -3,8 +3,10 @@ import starlight from '@astrojs/starlight'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://medpocket.github.io',
-  base: '18-months/',
+  site: process.env.CI
+    ? 'https://medpocket.github.io'
+    : 'http://localhost:4321',
+  base: process.env.CI ? '18-months/' : undefined,
   integrations: [
     starlight({
       title: '18 Months',
