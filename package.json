@@ -1,0 +1,21 @@
+{
+  "name": "18-months",
+  "version": "0.0.1",
+  "description": "18 months is the time for me to find myself.",
+  "scripts": {
+    "build": "astro build",
+    "dev": "astro dev",
+    "preview": "astro preview",
+    "start": "astro dev"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.10.4",
+    "astro": "^3.2.1",
+    "sharp": "^0.32.6"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.3",
+    "prettier-plugin-astro": "^0.12.0"
+  },
+  "packageManager": "pnpm@8.8.0"
+}
