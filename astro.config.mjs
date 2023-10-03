@@ -3,7 +3,8 @@ import starlight from '@astrojs/starlight'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://18-months.vercel.app',
+  site: 'https://medpocket.github.io',
+  base: '18-months/',
   integrations: [
     starlight({
       title: '18 Months',
