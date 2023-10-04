@@ -6,7 +6,7 @@ export default defineConfig({
   site: process.env.CI
     ? 'https://medpocket.github.io'
     : 'http://localhost:4321',
-  base: process.env.CI ? '/18-months' : undefined,
+  base: '/18-months',
   integrations: [
     starlight({
       title: '18 Months',
