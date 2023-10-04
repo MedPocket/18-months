@@ -18,15 +18,5 @@
   "page.lastUpdated": "Cập nhật lần cuối:",
   "page.previousLink": "Tiếp",
   "page.nextLink": "Trước",
-  "404.text": "Không tìm thấy trang. Kiểm tra URL hoặc thử sử dụng thanh tìm kiếm.",
-  "pagefind.clear_search": "Xóa",
-  "pagefind.load_more": "Nhiều kết quả hơn",
-  "pagefind.search_label": "Tìm kiến trên trang này",
-  "pagefind.filters_label": "Bộ lọc",
-  "pagefind.zero_results": "Không tìm thấy kết quả cho [SEARCH_TERM]",
-  "pagefind.many_results": "[COUNT] kết quả cho [SEARCH_TERM]",
-  "pagefind.one_result": "[COUNT] kết quả cho [SEARCH_TERM]",
-  "pagefind.alt_search": "Không có kết quả cho [SEARCH_TERM]. Hiển thị kết quả cho [DIFFERENT_TERM] thay thế",
-  "pagefind.search_suggestion": "Không có kết quả cho [SEARCH_TERM]. Thử một trong các tìm kiếm:",
-  "pagefind.searching": "Đang tìm kiếm cho [SEARCH_TERM]..."
+  "404.text": "Không tìm thấy trang. Kiểm tra URL hoặc thử sử dụng thanh tìm kiếm."
 }
