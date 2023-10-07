@@ -10,9 +10,6 @@ export default defineConfig({
   integrations: [
     starlight({
       title: '18 Months',
-      logo: {
-        src: './src/assets/logo.svg',
-      },
       social: {
         github: 'https://github.com/MedPocket/18-months',
       },
@@ -22,8 +19,8 @@ export default defineConfig({
           autogenerate: { directory: 'nhat-ky' },
         },
         {
-          label: 'Công Việc',
-          autogenerate: { directory: 'cong-viec' },
+          label: 'Kiến Thức',
+          autogenerate: { directory: 'kien-thuc' },
         },
       ],
       pagination: false,
