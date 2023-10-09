@@ -9,7 +9,7 @@
     "start": "astro dev"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.10.4",
+    "@astrojs/starlight": "^0.11.0",
     "astro": "^3.2.3",
     "sharp": "^0.32.6"
   },
