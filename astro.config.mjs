@@ -19,8 +19,8 @@ export default defineConfig({
           autogenerate: { directory: 'nhat-ky' },
         },
         {
-          label: 'Kiến Thức',
-          autogenerate: { directory: 'kien-thuc' },
+          label: 'Ghi Chú',
+          autogenerate: { directory: 'ghi-chu' },
         },
       ],
       pagination: false,

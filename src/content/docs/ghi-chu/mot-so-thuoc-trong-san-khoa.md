@@ -41,7 +41,7 @@ lastUpdated: 2023-10-07
 - Biệt dược - hàm lượng: Duphaston 10mg
 - Dạng: Viên
 - Đường dùng: Uống
-- Liều dùng: [1](https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/san-phu-khoa-va-ho-tro-sinh-san/cach-su-dung-thuoc-noi-tiet-duphaston-toan/)
+- Liều dùng: [1](https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/san-phu-khoa-va-ho-tro-sinh-san/cach-su-dung-thuoc-noi-tiet-duphaston-toan/) (Đơn thường kê 02 viên/lần x 02 lần/ngày)
 - Tác dụng: Thuốc nội tiết
 
 ## Amlodipin
@@ -140,7 +140,7 @@ lastUpdated: 2023-10-07
 
 ## Drotaverin
 
-- Biệt dược - hàm lượng: No- Biệt dược - hàm lượng:spa 40mg/2ml
+- Biệt dược - hàm lượng: No-spa 40mg/2ml
 - Dạng: Ống
 - Đường dùng: Tiêm
 
@@ -165,14 +165,26 @@ lastUpdated: 2023-10-07
 - Đường dùng: Tiêm
 - Tác dụng: Phòng và điều trị chảy máu sau sinh
 
-## Atosiban
+## Tractocile
 
-- Biệt dược - hàm lượng: Tractocile 37.5mg/5ml
+- Biệt dược - hàm lượng: Atosiban 37.5mg/5ml
 - Dạng: Lọ
 - Đường dùng: Tiêm
 - Liều: [1](https://www.vinmec.com/vi/thuoc/atosiban-33/)
 - Tác dụng: Thuốc chống sinh non
 
-## Meza
+## Alverin citrat
 
-- Biệt dược - hàm lượng: [WIP]
+- Biệt dược - hàm lượng: Mezaverin 120mg
+- Dạng: Viên nang
+- Đường dùng: Uống
+- Liều: Đơn thường kê 1 viên/lần x 2 lần/ngày
+- Tác dụng: Chống co thắt cơ trơn loại papaverine
+
+## Progesterone
+
+- Biệt dược - hàm lượng: Utrogestan 200mg
+- Dạng: Viên đặt âm đạo
+- Đường dùng: Đặt âm đạo
+- Liều: [1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/thuoc-utrogestan-200mg-co-tac-dung-gi/) (Đơn thường dùng 1 viên/lần x 2 lần/ngày đặt âm đạo)
+- Tác dụng: Progesterone nội tiết dạng mịn
