@@ -221,7 +221,10 @@ lastUpdated: 2023-10-07
 
 ### Sắt
 
-[WIP]
+- Biệt dược - hàm lượng: Ferlatum 40mg.
+- Dạng: Ống uống.
+- Tác dụng: Bổ sung sắt.
+- Liều: [1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/cong-dung-cua-thuoc-ferlatum/) [WIP]
 
 ### Propess
 
