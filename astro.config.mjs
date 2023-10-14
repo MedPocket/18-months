@@ -2,6 +2,8 @@ import { defineConfig } from 'astro/config'
 import starlight from '@astrojs/starlight'
 import tailwind from '@astrojs/tailwind'
 
+import tailwind from '@astrojs/tailwind'
+
 // https://astro.build/config
 export default defineConfig({
   site: process.env.CI
