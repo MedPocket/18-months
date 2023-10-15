@@ -27,14 +27,14 @@ lastUpdated: 2023-10-07
 - Biệt dược - hàm lượng: Duphaston 10 mg.
 - Dạng: Viên uống.
 - Tác dụng: Thuốc nội tiết.
-- Liều dùng: [1](https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/san-phu-khoa-va-ho-tro-sinh-san/cach-su-dung-thuoc-noi-tiet-duphaston-toan/) Đơn thường kê 02 viên/lần x 02 lần/ngày, sáng/chiều.
+- Liều dùng: Đơn thường kê 02 viên/lần x 02 lần/ngày, sáng/chiều. [Link 1](https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/san-phu-khoa-va-ho-tro-sinh-san/cach-su-dung-thuoc-noi-tiet-duphaston-toan/).
 
 ### Progesterone (đặt âm đạo/hậu môn)
 
 - Biệt dược - hàm lượng: Utrogestan 200 mg.
 - Dạng: Viên đặt âm đạo/hậu môn.
 - Tác dụng: Progesterone nội tiết dạng mịn.
-- Liều: [1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/thuoc-utrogestan-200 mg-co-tac-dung-gi/) Liều từ 200-800mg/ngày. Đơn thường dùng 1 viên/lần x 2 lần/ngày đặt âm đạo, sáng/chiều.
+- Liều: Liều từ 200-800mg/ngày. Đơn thường dùng 1 viên/lần x 2 lần/ngày đặt âm đạo, sáng/chiều. [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/thuoc-utrogestan-200mg-co-tac-dung-gi/).
 
 ### Progesterone (đặt âm đạo/hậu môn)
 
@@ -73,7 +73,7 @@ lastUpdated: 2023-10-07
 - Biệt dược - hàm lượng: Atosiban 37.5 mg/5ml.
 - Dạng: Lọ tiêm.
 - Tác dụng: Thuốc chống sinh non.
-- Liều: [1](https://www.vinmec.com/vi/thuoc/atosiban-33/).
+- Liều: [Link 1](https://www.vinmec.com/vi/thuoc/atosiban-33/).
 
 ## Tăng co
 
@@ -87,8 +87,9 @@ lastUpdated: 2023-10-07
 
 - Biệt dược - hàm lượng: Heraprostol 200 mg.
 - Dạng: Viên uống
-- Tác dụng: 4 công dụng chính sau: khởi phát chuyển dạ, phòng và điều trị băng huyết sau sinh (BHSS), sảy thai tự nhiên và phá thai.
-- Liều dùng: [1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/dung-thuoc-misoprostol-trong-san-khoa/)
+- Tác dụng: 4 công dụng chính sau là khởi phát chuyển dạ, phòng và điều trị băng huyết sau sinh (BHSS), sảy thai tự nhiên và phá thai.
+- Liều dùng: [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/dung-thuoc-misoprostol-trong-san-khoa/).
+- Tác dụng phụ: Có thể gây run, sốt. Qua được hàng rào nhau thai nên không được sử dụng cho con bú. Trường hợp dùng khởi phát chuyển dạ phải lưu ý với những trường hợp có vết mổ đẻ cũ.
 
 ### Carbetocin
 
@@ -103,7 +104,7 @@ lastUpdated: 2023-10-07
 - Biệt dược - hàm lượng: Midatin 875 mg + 125 mg.
 - Dạng: Viên uống.
 - Tác dụng: Kháng sinh.
-- Liều dùng: [1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/cong-dung-thuoc-midantin/)
+- Liều dùng: [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/cong-dung-thuoc-midantin/).
 
 ### Ceftizoxim
 
@@ -123,7 +124,7 @@ lastUpdated: 2023-10-07
 - Biệt dược - hàm lượng: Metronidazol 250 mg.
 - Dạng: Viên uống.
 - Tác dụng: Thuốc kháng sinh.
-- Liều dùng: [1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/luu-y-ve-lieu-dung-thuoc-metronidazol/). Lưu ý đây là thuốc không dùng cho mẹ cho con bú hoặc phụ nữ có thai [WIP].
+- Liều dùng: Lưu ý đây là thuốc không dùng cho mẹ cho con bú hoặc phụ nữ có thai. [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/luu-y-ve-lieu-dung-thuoc-metronidazol/).
 
 ### Metronidazol (tiêm)
 
@@ -137,7 +138,7 @@ lastUpdated: 2023-10-07
 - Biệt dược - hàm lượng: Cordaflex 20 mg.
 - Dạng: Viên uống.
 - Tác dụng: Thuốc hạ áp chẹn kênh Calci.
-- Liều dùng: [1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/cordaflex-20mg-la-thuoc-gi/). Thường được dùng để hạ áp trong trường hợp tăng huyết áp cấp (Đơn thường dùng ngậm dưới lưỡi 3 viên, mỗi lần 1 viên, cách nhau 30 phút) hoặc sử dụng để giảm co trong trường hợp dọa sinh non (Đơn thường sử dụng ngậm dưới lưỡi 3 viên/ngày, mỗi lần 1 viên, cách nhau 8h).
+- Liều dùng: Thường được dùng để hạ áp trong trường hợp tăng huyết áp cấp (Đơn thường dùng ngậm dưới lưỡi 3 viên, mỗi lần 1 viên, cách nhau 30 phút) hoặc sử dụng để giảm co trong trường hợp dọa sinh non (Đơn thường sử dụng ngậm dưới lưỡi 3 viên/ngày, mỗi lần 1 viên, cách nhau 8h). [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/cordaflex-20mg-la-thuoc-gi/).
 
 ### Nicardipin
 
@@ -174,13 +175,20 @@ lastUpdated: 2023-10-07
 
 ## Thuốc kiểm soát đường huyết
 
-### Novorapid
+### NovoRapid
 
-[WIP]
+- Dạng: Tiêm dưới da.
+- Tác dụng: Insuline tác dụng nhanh. NovoRapid khởi phát tác dụng trong vòng 10 - 20 phút sau khi tiêm dưới da và đạt hiệu quả tối đa khoảng từ 1 - 3 giờ sau tiêm, thời gian kéo dài tác dụng khoảng 3-5 giờ.
 
-### Levemir
+### Levemir Flexpen
 
-[WIP]
+- Dạng: Tiêm dưới da.
+- Tác dụng: Insuline nền, tác dụng kéo dài lên tới 24 giờ.
+
+### Scilin (30/70)
+
+- Dạng: Tiêm dưới da.
+- Tác dụng: Insuline trộn. Tiêm trước bữa ăn 30 phút. Thuốc có tác dụng hạ đường huyết trong vòng 1giờ , hiệu quả tối đa đạt được sau 3- 10 giờ tiêm . Tác dụng thuốc được kéo dài trong 24 giờ.
 
 ## Thuốc khác
 
@@ -221,12 +229,15 @@ lastUpdated: 2023-10-07
 
 ### Sắt
 
-[WIP]
+- Biệt dược - hàm lượng: Ferlatum 40mg/15ml.
+- Dạng: Ống uống.
+- Tác dụng: Bổ sung sắt.
+- Liều: ![Liều sắt theo ACOG](../../../assets/ghi-chu/mot-so-thuoc-trong-san-khoa/sat.png)
+  [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/cong-dung-cua-thuoc-ferlatum/)
 
 ### Propess
 
-[WIP]
-
-### Thuốc giảm đau
-
-[WIP]
+- Biệt dược - hàm lượng: 10mg Dinoprostone, hay còn gọi là Prostaglandin E2 (PGE2).
+- Dạng: Đặt âm đạo.
+- Tác dụng: Khởi phát chuyển dạ.
+- Liều dùng: 1 viên 10 mg được thiết kế để giải phóng ở mức xấp xỉ 0,3 mg / giờ trong khoảng thời gian 12 giờ.

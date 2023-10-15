@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config'
 import starlight from '@astrojs/starlight'
+import tailwind from '@astrojs/tailwind'
 
 // https://astro.build/config
 export default defineConfig({
@@ -10,20 +11,28 @@ export default defineConfig({
   integrations: [
     starlight({
       title: '18 Months',
+      customCss: ['./src/styles/global.css'],
       social: {
         github: 'https://github.com/MedPocket/18-months',
       },
       sidebar: [
         {
           label: 'Nhật Ký',
-          autogenerate: { directory: 'nhat-ky' },
+          autogenerate: {
+            directory: 'nhat-ky',
+          },
         },
         {
           label: 'Ghi Chú',
-          autogenerate: { directory: 'ghi-chu' },
+          autogenerate: {
+            directory: 'ghi-chu',
+          },
         },
       ],
       pagination: false,
+    }),
+    tailwind({
+      applyBaseStyles: false,
     }),
   ],
 })
