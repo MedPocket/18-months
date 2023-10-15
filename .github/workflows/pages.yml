@@ -30,23 +30,8 @@ jobs:
         uses: actions/setup-node@v3
       - name: Install pnpm
         uses: pnpm/action-setup@v2
-      - name: Restore Astro cache
-        uses: actions/cache@v3
-        with:
-          path: |
-            dist
-          key: ${{ runner.os }}-astro-build-${{ hashFiles('dist', '**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-astro-build-
-
-      - name: Install dependencies
-        run: pnpm install
-      - name: Build with Astro
-        run: pnpm build
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: dist
+      - name: Install, build, and upload your site
+        uses: withastro/action@v1
 
   deploy:
     environment:
