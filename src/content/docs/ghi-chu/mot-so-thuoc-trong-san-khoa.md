@@ -6,149 +6,150 @@ lastUpdated: 2023-10-07
 
 ## Giảm đau, hạ sốt
 
-### Paracetamol
+### Tatanol 500mg
 
-- Biệt dược - hàm lượng: Tatanol 500 mg.
+- Hoạt chất - hàm lượng: Paracetamol 500 mg.
 - Dạng: Viên uống.
 - Tác dụng: Thuốc hạ sốt.
 - Liều dùng: Tối đa của paracetamol cho người lớn là 1g/lần và 4g (4000 mg)/ngày. Hoặc không quá 75 mg/kg trong vòng 24 giờ.
 
-### Diclofenac
+### Elaria 100 mg
 
-- Biệt dược - hàm lượng: Elaria 100 mg.
+- Hoạt chất - hàm lượng: Diclofenac 100 mg.
 - Dạng: Viên đặt hậu môn.
 - Tác dụng: Giảm đau NSAIDs.
 - Liều dùng: 1 viên/ngày.
 
 ## Nội tiết - Giảm co
 
-### Dydrogesteron
+### Duphaston 10 mg
 
-- Biệt dược - hàm lượng: Duphaston 10 mg.
+- Hoạt chất - hàm lượng: Dydrogesteron 10 mg.
 - Dạng: Viên uống.
 - Tác dụng: Thuốc nội tiết.
 - Liều dùng: Đơn thường kê 02 viên/lần x 02 lần/ngày, sáng/chiều. [Link 1](https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/san-phu-khoa-va-ho-tro-sinh-san/cach-su-dung-thuoc-noi-tiet-duphaston-toan/).
 
-### Progesterone (đặt âm đạo/hậu môn)
+### Utrogestan 200 mg
 
-- Biệt dược - hàm lượng: Utrogestan 200 mg.
+- Hoạt chất - hàm lượng: Progesterone 200 mg.
 - Dạng: Viên đặt âm đạo/hậu môn.
 - Tác dụng: Progesterone nội tiết dạng mịn.
 - Liều: Liều từ 200-800mg/ngày. Đơn thường dùng 1 viên/lần x 2 lần/ngày đặt âm đạo, sáng/chiều. [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/thuoc-utrogestan-200mg-co-tac-dung-gi/).
 
-### Progesterone (đặt âm đạo/hậu môn)
+### Cyclogest 400mg
 
-- Biệt dược - hàm lượng: Cyclogest 400mg.
+- Hoạt chất - hàm lượng: Progesterone 400mg.
 - Dạng: Viên đặt âm đạo/hậu môn.
 - Tác dụng: Progesterone nội tiết.
 - Liều: Tương tự Utrogestan nhưng ra ít dịch nhày hơn so với Utrogestan, bù lại có giá thành cao hơn.
 
-### Alverin citrat
+### Mezaverin 120 mg
 
-- Biệt dược - hàm lượng: Mezaverin 120 mg.
+- Hoạt chất - hàm lượng: Alverin citrat 120 mg.
 - Dạng: Viên nang uống
 - Tác dụng: Chống co thắt cơ trơn loại papaverine.
 - Liều: Đơn thường dùng 1 viên/lần x 2 lần/ngày, sáng/chiều.
 
-### Drotaverin
+### No-spa 40 mg/2ml
 
-- Biệt dược - hàm lượng: No-spa 40 mg/2ml.
+- Hoạt chất - hàm lượng: Drotaverin 40 mg/2ml.
 - Dạng: Ống tiêm.
 - Tác dụng: Chống co thắt cơ trơn loại papaverine.
 
-### Atropin sulphat
+### Atropin sulphat 0.25 mg/ml
 
-- Biệt dược - hàm lượng: Atropin sulphat 0.25 mg/ml.
+- Hoạt chất - hàm lượng: Atropin sulphat 0.25 mg/ml.
 - Dạng: Ống tiêm
 - Tác dụng: Kháng acetylcholin (ức chế đối giao cảm). Chống co thắt.
 
-### Neostigmin
+### Neostigmin 0.5 mg
 
-- Biệt dược - hàm lượng: Neostigmine 0.5 mg.
+- Hoạt chất - hàm lượng: Neostigmine 0.5 mg.
 - Dạng: Ống tiêm.
 - Tác dụng: Thuốc giống đối giao cảm, giãn cơ.
 
-### Tractocile
+### Atosiban 37.5 mg/5ml
 
-- Biệt dược - hàm lượng: Atosiban 37.5 mg/5ml.
+- Hoạt chất - hàm lượng: Tractocile 37.5 mg/5ml.
 - Dạng: Lọ tiêm.
 - Tác dụng: Thuốc chống sinh non.
 - Liều: [Link 1](https://www.vinmec.com/vi/thuoc/atosiban-33/).
 
 ## Tăng co
 
-### Oxytocin
+### Oxytocin 5IU/ml hoặc 10IU/ml
 
-- Biệt dược - hàm lượng: Oxytocin 5IU/1ml.
+- Hoạt chất - hàm lượng: Oxytocin 5IU/ml.
 - Dạng: Ống tiêm bắp/Truyền tĩnh mạch.
-- Tác dụng: Tăng co tử cung
+- Tác dụng: Tăng co tử cung.
 
-### Misoprostol
+### Heraprostol 200 mg
 
-- Biệt dược - hàm lượng: Heraprostol 200 mg.
+- Hoạt chất - hàm lượng: Misoprostol 200 mg.
 - Dạng: Viên uống
 - Tác dụng: 4 công dụng chính sau là khởi phát chuyển dạ, phòng và điều trị băng huyết sau sinh (BHSS), sảy thai tự nhiên và phá thai.
 - Liều dùng: [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/dung-thuoc-misoprostol-trong-san-khoa/).
 - Tác dụng phụ: Có thể gây run, sốt. Qua được hàng rào nhau thai nên không được sử dụng cho con bú. Trường hợp dùng khởi phát chuyển dạ phải lưu ý với những trường hợp có vết mổ đẻ cũ.
 
-### Carbetocin
+### Carbetocin 100 mg
 
-- Biệt dược - hàm lượng: Hemotocin 100 mg.
+- Hoạt chất - hàm lượng: Hemotocin 100 mg.
 - Dạng: Lọ tiêm.
 - Tác dụng: Thuốc co hồi tử cung.
+- Liều dùng: Tiêm tĩnh mạch chậm 1 ống (sau sinh nếu tử cung co hồi kém).
 
 ## Kháng sinh
 
-### Amoxiciline
+### Midatin 875 mg + 125 mg
 
-- Biệt dược - hàm lượng: Midatin 875 mg + 125 mg.
+- Hoạt chất - hàm lượng: Amoxiciline 875 mg + 125 mg.
 - Dạng: Viên uống.
 - Tác dụng: Kháng sinh.
 - Liều dùng: [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/cong-dung-thuoc-midantin/).
 
-### Ceftizoxim
+### Ceftibiotiz 1g
 
-- Biệt dược - hàm lượng: Ceftibiotiz 1g.
+- Hoạt chất - hàm lượng: Ceftizoxim 1g.
 - Dạng: Lọ pha tiêm.
 - Tác dụng: Kháng sinh.
 - Liều dùng: Đơn thường dùng 1 lọ/lần x 2 lần/ngày, tiêm sáng/chiều.
 
-### Cefotaxim
+### Cefvidi
 
-- Biệt dược - hàm lượng: Cefvidi 1g.
+- Hoạt chất - hàm lượng: Cefotaxim 1g.
 - Dạng: Lọ tiêm.
 - Tác dụng: Kháng sinh.
 
-### Metronidazol (uống)
+### Metronidazol 250 mg
 
-- Biệt dược - hàm lượng: Metronidazol 250 mg.
+- Hoạt chất - hàm lượng: Metronidazol 250 mg.
 - Dạng: Viên uống.
 - Tác dụng: Thuốc kháng sinh.
 - Liều dùng: Lưu ý đây là thuốc không dùng cho mẹ cho con bú hoặc phụ nữ có thai. [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/luu-y-ve-lieu-dung-thuoc-metronidazol/).
 
-### Metronidazol (tiêm)
+### Moretel 500 mg/100ml
 
-- Biệt dược - hàm lượng: Moretel 500 mg/100ml.
+- Hoạt chất - hàm lượng: Metronidazol 500 mg/100ml.
 - Dạng: Chia/lọ tiêm truyền.
 
 ## Hạ áp
 
-### Amlodipin
+### Cordaflex 20 mg
 
-- Biệt dược - hàm lượng: Cordaflex 20 mg.
+- Hoạt chất - hàm lượng: Amlodipin 20 mg.
 - Dạng: Viên uống.
 - Tác dụng: Thuốc hạ áp chẹn kênh Calci.
 - Liều dùng: Thường được dùng để hạ áp trong trường hợp tăng huyết áp cấp (Đơn thường dùng ngậm dưới lưỡi 3 viên, mỗi lần 1 viên, cách nhau 30 phút) hoặc sử dụng để giảm co trong trường hợp dọa sinh non (Đơn thường sử dụng ngậm dưới lưỡi 3 viên/ngày, mỗi lần 1 viên, cách nhau 8h). [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/cordaflex-20mg-la-thuoc-gi/).
 
-### Nicardipin
+### Vincardipin 10 mg/10ml
 
-- Biệt dược - hàm lượng: Vincardipin 10 mg/10ml.
+- Hoạt chất - hàm lượng: Nicardipin 10 mg/10ml.
 - Dạng: Ống tiêm.
 - Tác dụng: Thuốc hạ áp.
 
-### Methyldopa
+### Methyldopa 250 mg
 
-- Biệt dược - hàm lượng: Dopegyt 250 mg.
+- Hoạt chất - hàm lượng: Dopegyt 250 mg.
 - Dạng: Viên uống.
 - Tác dụng: Thuốc hạ áp.
 - Liều khởi đầu: 250 mg/ lần x 2 - 3 lần/ngày. Liều duy trì: 0,5 - 2g/ ngày. Không quá 3g/ngày.
@@ -157,19 +158,19 @@ lastUpdated: 2023-10-07
 
 ### Dexamethason
 
-- Biệt dược - hàm lượng: Dexamethason 4 mg/1ml
+- Hoạt chất - hàm lượng: Dexamethason 4 mg/1ml
 - Dạng: Ống tiêm.
 
-### Betamethasone
+### Diprospan
 
-- Biệt dược - hàm lượng: Diprospan 5 mg/ml + 2 mg/ml (Betamethasone 12 mg).
+- Hoạt chất - hàm lượng: Betamethasone 5 mg/ml + 2 mg/ml (Betamethasone 12 mg).
 - Dạng: Ống tiêm.
 - Tác dụng: Corticoid.
 - Liều dùng: Đơn thường dùng x 1 ống/lần x tiêm lúc 8h00.
 
-### Methyprednisolon
+### Vinsolon 40 mg
 
-- Biệt dược - hàm lượng: Vinsolon 40 mg.
+- Hoạt chất - hàm lượng: Methyprednisolon 40 mg.
 - Dạng: Ống tiêm.
 - Tác dụng: Corticoid.
 
@@ -177,59 +178,69 @@ lastUpdated: 2023-10-07
 
 ### NovoRapid
 
+- Hoạt chất: Insuline.
 - Dạng: Tiêm dưới da.
 - Tác dụng: Insuline tác dụng nhanh. NovoRapid khởi phát tác dụng trong vòng 10 - 20 phút sau khi tiêm dưới da và đạt hiệu quả tối đa khoảng từ 1 - 3 giờ sau tiêm, thời gian kéo dài tác dụng khoảng 3-5 giờ.
 
 ### Levemir Flexpen
 
+- Hoạt chất: Insuline.
 - Dạng: Tiêm dưới da.
 - Tác dụng: Insuline nền, tác dụng kéo dài lên tới 24 giờ.
 
 ### Scilin (30/70)
 
+- Hoạt chất: Insuline.
 - Dạng: Tiêm dưới da.
 - Tác dụng: Insuline trộn. Tiêm trước bữa ăn 30 phút. Thuốc có tác dụng hạ đường huyết trong vòng 1giờ , hiệu quả tối đa đạt được sau 3- 10 giờ tiêm . Tác dụng thuốc được kéo dài trong 24 giờ.
 
 ## Thuốc khác
 
-### Estradiol valerat
+### Progynova Tab 2mg
 
-- Biệt dược - hàm lượng: Progynova Tab 2mg.
+- Hoạt chất - hàm lượng: Estradiol valerat 2mg.
 - Dạng: Viên uống.
 - Tác dụng: Estrogen gắt sữa sau sảy, hút thai.
 - Liều: Đơn thường dùng 2 viên/lần x 2 lần/ngày uống sáng, chiều.
 
-### Calci clorid
+### Calci clorid 0.5g/5ml
 
-- Biệt dược - hàm lượng: Calci clorid 0.5g/5ml.
+- Hoạt chất - hàm lượng: Calci clorid 0.5g/5ml.
 - Dạng: Ống tiêm.
 
-### Diphenhydramin
+### Dimedrol 10 mg
 
-- Biệt dược - hàm lượng: Dimedrol 10 mg.
+- Hoạt chất - hàm lượng: Diphenhydramin 10 mg.
 - Dạng: Ống tiêm.
 - Tác dụng: Chống dị ứng.
 
-### Furosemid
+### Vinzix 100 mg
 
-- Biệt dược - hàm lượng: Vinzix 100 mg.
+- Hoạt chất - hàm lượng: Furosemid 100 mg.
 - Dạng: Ống tiêm.
 
-### Tranexamic acid
+### Tranexamic 500 mg
 
-- Biệt dược - hàm lượng: Haemostop 500 mg.
+- Hoạt chất - hàm lượng: Tranexamic acid 500 mg.
+- Dạng: Ống tiêm.
+- Tác dụng: Cầm máu.
+- Liều dùng: Đơn thường dùng 02 viên/lần x 02 lần/ngày.
+
+### Haemostop 500 mg
+
+- Hoạt chất - hàm lượng: Tranexamic acid 500 mg.
 - Dạng: Ống tiêm.
 - Tác dụng: Cầm máu.
 
-### Methylergometrin
+### Vigomin 0.2 mg/ml
 
-- Biệt dược - hàm lượng: Vigomin 0.2 mg/1ml.
+- Hoạt chất - hàm lượng: Methylergometrin 0.2 mg/ml.
 - Dạng: Ống tiêm.
 - Tác dụng: Phòng và điều trị chảy máu sau sinh.
 
-### Sắt
+### Ferlatum 40mg/15ml
 
-- Biệt dược - hàm lượng: Ferlatum 40mg/15ml.
+- Hoạt chất - hàm lượng: Sắt 40mg/15ml.
 - Dạng: Ống uống.
 - Tác dụng: Bổ sung sắt.
 - Liều: ![Liều sắt theo ACOG](../../../assets/ghi-chu/mot-so-thuoc-trong-san-khoa/sat.png)
@@ -237,7 +248,16 @@ lastUpdated: 2023-10-07
 
 ### Propess
 
-- Biệt dược - hàm lượng: 10mg Dinoprostone, hay còn gọi là Prostaglandin E2 (PGE2).
+- Hoạt chất - hàm lượng: Dinoprostone 10mg, hay còn gọi là Prostaglandin E2 (PGE2).
 - Dạng: Đặt âm đạo.
 - Tác dụng: Khởi phát chuyển dạ.
 - Liều dùng: 1 viên 10 mg được thiết kế để giải phóng ở mức xấp xỉ 0,3 mg / giờ trong khoảng thời gian 12 giờ.
+
+### Mifestad 200
+
+- Hoạt chất - hàm lượng: Mifepristone 200mg.
+- Dạng: Viên uống.
+- Tác dụng: Tác động làm cho niêm mạc tử cung không được phát triển thuận lợi cho việc làm tổ của trứng đã được thụ tinh. Dùng kết hợp với Misopristol để phá thai nội khoa.
+- Liều dùng: Tùy thuộc vào tuổi thai.
+  - Tuổi thai < 9 tuần thường dùng 1 viên Mifepristone 200mg và Misopristol với liều 800 mcg sau đó 48 giờ.
+  - Tuổi thai 9-12 tuần thường dùng 1 viên Mifepristone 200mg và Misopristol với liều 800 mcg sau đó 36-48 giờ. Sau liều đầu có thể thêm Misopristol 400 mcg, tối đa 1600 mcg.
