@@ -16,7 +16,7 @@ Chia làm 2 nhóm lớn
 
 ## Tầm soát đái tháo đường thai kỳ
 
-Bằng nghiệm pháp dung nạp đường huyết. Điều kiện thai phụ phải nhịn ăn ít nhất 8 h, sau đó uống 75 g đường khan pha với nước, xét nghiệm đường huyết đói, sau 1 h và sau 2 h.
+Bằng nghiệm pháp dung nạp đường huyết. Tầm soát từ tuần 24-28 của thai kỳ (Các thời gian khác nhất là sau 28 tuần vẫn có thể làm nghiệm pháp). Điều kiện thai phụ phải nhịn ăn ít nhất 8-10 giờ, sau đó uống 75 g đường khan pha với nước, xét nghiệm đường huyết đói, sau 1 giờ và sau 2 giờ.
 
 ![Nghiệm pháp dung nạp đường](../../../assets/ghi-chu/dai-thao-duong-thai-ky/nghiem-phap-dung-nap-duong.png)
 
@@ -28,7 +28,7 @@ Bằng nghiệm pháp dung nạp đường huyết. Điều kiện thai phụ ph
 
 ### Ở con
 
-- Tần suất thai to (thai >= 4000g) tăng cao.
+- Tần suất thai to (thai >= 4000 g) tăng cao.
 - Tỷ lệ đột tử của thai tăng.
 - Thai có thể bị giới hạn tăng trưởng trong buồng tử cung.
 - Chậm trưởng thành các cơ quan như phổi dẫn đến suy hô hấp.
