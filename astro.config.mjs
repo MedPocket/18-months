@@ -17,15 +17,15 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Nhật Ký',
-          autogenerate: {
-            directory: 'nhat-ky',
-          },
-        },
-        {
           label: 'Ghi Chú',
           autogenerate: {
             directory: 'ghi-chu',
+          },
+        },
+        {
+          label: 'Nhật Ký',
+          autogenerate: {
+            directory: 'nhat-ky',
           },
         },
       ],
