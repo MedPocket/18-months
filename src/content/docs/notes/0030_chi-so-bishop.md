@@ -4,7 +4,7 @@ description: Chỉ số Bishop.
 lastUpdated: 2023-10-10
 ---
 
-![Chỉ số Bishop](../../../assets/ghi-chu/chi-so-bishop/chi-so-bishop.jpg)
+![Chỉ số Bishop](../../../assets/notes/chi-so-bishop/chi-so-bishop.jpg)
 
 Nếu tổng điểm:
 

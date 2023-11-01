@@ -23,7 +23,7 @@ HIP được chia làm 2 nhóm lớn:
 
 ## Tiêu chuẩn chẩn đoán đái tháo đường thực thụ
 
-![Tiêu chuẩn chẩn đoán](../../../assets/ghi-chu/dai-thao-duong-thai-ky/tieu-chuan-chan-doan.png)
+![Tiêu chuẩn chẩn đoán](../../../assets/notes/dai-thao-duong-thai-ky/tieu-chuan-chan-doan.png)
 
 ## Tầm soát đái tháo đường thai kỳ
 
@@ -31,11 +31,11 @@ Bằng nghiệm pháp dung nạp đường huyết, từ tuần 24-28 của thai
 
 Theo FIGO 2018, kết quả được đánh giá như sau:
 
-![Nghiệm pháp dung nạp đường](../../../assets/ghi-chu/dai-thao-duong-thai-ky/nghiem-phap-dung-nap-duong.png)
+![Nghiệm pháp dung nạp đường](../../../assets/notes/dai-thao-duong-thai-ky/nghiem-phap-dung-nap-duong.png)
 
 ## Mục tiêu điều trị
 
-![Mục tiêu điều trị](../../../assets/ghi-chu/dai-thao-duong-thai-ky/muc-tieu-dieu-tri.png)
+![Mục tiêu điều trị](../../../assets/notes/dai-thao-duong-thai-ky/muc-tieu-dieu-tri.png)
 
 ## Phương pháp thay đổi đường huyết
 
@@ -106,7 +106,7 @@ thai phụ cần điều trị insulin.
 
 Mức đường huyết trong chuyển dạ > 140 đến 180 mg/dL (7.8 đến 10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm cetone acid ở mẹ.
 
-![Khuyến cáo về chấm dứt thai kỳ](../../../assets/ghi-chu/dai-thao-duong-thai-ky/khuyen-cao-ve-cham-dut-thai-ky.png)
+![Khuyến cáo về chấm dứt thai kỳ](../../../assets/notes/dai-thao-duong-thai-ky/khuyen-cao-ve-cham-dut-thai-ky.png)
 
 ## Kết cục sản khoa
 

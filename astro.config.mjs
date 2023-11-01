@@ -19,13 +19,13 @@ export default defineConfig({
         {
           label: 'Ghi Chú',
           autogenerate: {
-            directory: 'ghi-chu',
+            directory: 'notes',
           },
         },
         {
           label: 'Nhật Ký',
           autogenerate: {
-            directory: 'nhat-ky',
+            directory: 'diary',
           },
         },
       ],
