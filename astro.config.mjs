@@ -17,17 +17,29 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Ghi Chú',
+          label: 'Bệnh Học',
           autogenerate: {
-            directory: 'notes',
+            directory: 'benh-hoc',
           },
         },
         {
-          label: 'Nhật Ký',
+          label: 'Case Study',
           autogenerate: {
-            directory: 'diary',
+            directory: 'case-study',
           },
         },
+        {
+          label: 'Ghi Chú',
+          autogenerate: {
+            directory: 'ghi-chu',
+          },
+        },
+        // {
+        //   label: 'Nhật Ký',
+        //   autogenerate: {
+        //     directory: 'diary',
+        //   },
+        // },
       ],
       pagination: false,
     }),

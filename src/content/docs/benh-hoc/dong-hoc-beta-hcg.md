@@ -26,9 +26,9 @@ lastUpdated: 2023-11-01
 - **Trước 6 tuần**, nồng độ **hCG tăng gấp đôi mỗi 2 ngày** và đạt đỉnh ở tuần 8-10, có thể vào khoảng 100.000 mUI/mL.
 - Sau đó, nồng độ hCG sẽ giảm dần và **đạt cực tiểu tại thời điểm 16-20 tuần rồi giữ ổn định** ở mức này đển cuối thai kỳ.
 
-![Động học beta hCG](../../../assets/notes/dong-hoc-beta-hcg/dong-hoc-beta-hcg.png)
+![Động học beta hCG](../../../assets/benh-hoc/dong-hoc-beta-hcg/dong-hoc-beta-hcg.png)
 
-![Bảng nồng độ beta hCG](../../../assets/notes/dong-hoc-beta-hcg/bang-nong-do-beta-hcg.png)
+![Bảng nồng độ beta hCG](../../../assets/benh-hoc/dong-hoc-beta-hcg/bang-nong-do-beta-hcg.png)
 
 ## β-hCG và tình trạng thai
 
