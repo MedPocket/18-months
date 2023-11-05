@@ -17,9 +17,9 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Bệnh Học',
+          label: 'Bệnh Học Sản Khoa',
           autogenerate: {
-            directory: 'benh-hoc',
+            directory: 'benh-hoc-san-khoa',
           },
         },
         {
@@ -34,12 +34,12 @@ export default defineConfig({
             directory: 'ghi-chu',
           },
         },
-        // {
-        //   label: 'Nhật Ký',
-        //   autogenerate: {
-        //     directory: 'diary',
-        //   },
-        // },
+        {
+          label: 'Nhật Ký',
+          autogenerate: {
+            directory: 'nhat-ky',
+          },
+        },
       ],
       pagination: false,
     }),

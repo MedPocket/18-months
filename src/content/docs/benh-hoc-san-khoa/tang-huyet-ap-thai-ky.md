@@ -15,7 +15,7 @@ Giả thiết do nhiều nguyên nhân phối hợp dẫn tới tổn thương n
 
 **Bánh nhau đóng vai trò then chốt trong sự phát triển và thoái lui của tiền sản giật.** Bánh nhau, không phải thai, là điều kiện cần trong sự phát triển tiền sản giật.
 
-![Sơ đồ cơ chế](../../../assets/benh-hoc/tang-huyet-ap-thai-ky/so-do-co-che.png)
+![Sơ đồ cơ chế](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/so-do-co-che.png)
 
 Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai trò then chốt trong cơ chế bệnh sinh của tiền sản giật. Do đó khảo sát sFlt-1 và PlGF có thể giúp tiên đoán tiền sản giật. Khoảng 5 tuần trước khi tiền sản giật xuất hiện trên lâm sàng, tỷ số sFlt-1/PlGF tăng cao ở nhóm sau này bị tiền sản giật.
 
@@ -50,7 +50,7 @@ Tăng huyết áp trong thai kỳ phân thành 4 loại:
 
 ## Tiêu chuẩn chẩn đoán tiền sản giật
 
-![Tiêu chuẩn chẩn đoán tiền sản giật](../../../assets/benh-hoc/tang-huyet-ap-thai-ky/tieu-chuan-chan-doan-tien-san-giat.png)
+![Tiêu chuẩn chẩn đoán tiền sản giật](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/tieu-chuan-chan-doan-tien-san-giat.png)
 
 ### Phân loại tiền sản giật
 
@@ -138,7 +138,7 @@ Nếu tăng huyết áp nặng dùng đường tiêm tĩnh mạch sau chuyển s
 
 ### Tổng quan
 
-![Thuốc chống tăng huyết áp](../../../assets/benh-hoc/tang-huyet-ap-thai-ky/thuoc-chong-tang-huyet-ap.png)
+![Thuốc chống tăng huyết áp](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/thuoc-chong-tang-huyet-ap.png)
 
 ### Lợi tiểu và ức chế men chuyển
 
@@ -237,7 +237,7 @@ MgSO4 thường được dùng bằng đường truyền tĩnh mạch. Hiếm kh
 Luôn chú ý đến dấu ngộ độc MgSO4 khi dùng MgSO4. Trong điều trị, phải duy trì nồng độ ion Mg++ đạt ngưỡng điều trị, nhưng thấp hơn ngưỡng ngộ độc. Để đạt được hiệu quả điều trị, nồng độ Mg++ phải ở trong khoảng 4-6 mEq/L. Khi nồng độ Mg++ bắt đầu vượt ngưỡng điều trị, dấu hiệu mất phản
 xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cần theo dõi phản xạ gân xương bánh chè như một chỉ báo là nồng độ Mg++ đã vượt ngưỡng điều trị và cần phải ngưng ngay việc dùng thêm MgSO4.
 
-![Nồng độ MgSO4](../../../assets/benh-hoc/tang-huyet-ap-thai-ky/nong-do-mgso4.png)
+![Nồng độ MgSO4](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/nong-do-mgso4.png)
 
 Ngộ độc MgSO4 được xử lý bằng calcium gluconate. Calcium gluconate được dùng với liều 10mL calcium gluconate 10% tiêm mạch trong thời gian không dưới 10 phút và đặt nội khí quản nếu bệnh nhân ngưng thở.
 
@@ -329,7 +329,7 @@ Tại thời điểm xuất viện, đa số bệnh nhân có huyết áp trở 
 
 ## Dự phòng tăng huyết áp thai kỳ
 
-![Bảng đánh giá nguy cơ](../../../assets/benh-hoc/tang-huyet-ap-thai-ky/du-phong-tien-san-giat.png)
+![Bảng đánh giá nguy cơ](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/du-phong-tien-san-giat.png)
 
 WHO khuyến cáo dùng Aspirin liều thấp 60-80 mg/ngày để dự phòng tiền sản giật ở các phụ nữ có nguy cơ cao. Các thai phụ với ít nhất một đặc điểm tiền căn sau được xếp vào nhóm có nguy cao tiền sản giật:
 
