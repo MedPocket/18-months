@@ -8,9 +8,6 @@ export default defineConfig({
     ? 'https://medpocket.github.io'
     : 'http://localhost:4321',
   base: '/18-months',
-  experimental: {
-    contentCollectionCache: true,
-  },
   integrations: [
     starlight({
       title: '18 Months',
