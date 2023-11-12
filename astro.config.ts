@@ -11,7 +11,9 @@ export default defineConfig({
   integrations: [
     starlight({
       title: '18 Months',
-      customCss: ['./src/styles/globals.css'],
+      customCss: [
+        'src/styles/globals.css',
+      ],
       social: {
         github: 'https://github.com/MedPocket/18-months',
       },
@@ -34,12 +36,12 @@ export default defineConfig({
             directory: 'ghi-chu',
           },
         },
-        {
+        /* {
           label: 'Nhật Ký',
           autogenerate: {
             directory: 'nhat-ky',
           },
-        },
+        }, */
       ],
       pagination: false,
     }),

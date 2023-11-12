@@ -1,13 +1,13 @@
 # 18 months
 
-> 18 months is the time for me to find myself.
+> The time for me to find myself.
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
 ## Getting Started
 
 ```sh
-git clone --depth=1 https://github.com/MedPocket/18-months
+git clone https://github.com/MedPocket/18-months --depth=1
 cd 18-months
 pnpm install
 pnpm dev

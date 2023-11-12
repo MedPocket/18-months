@@ -137,3 +137,4 @@ Nhiều thai phụ đái tháo đường **không cần thiết điều trị in
 ## Nguồn tham khảo
 
 - TEAM-BASED LEARNING. Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- [Bài giảng đái tháo đường thai kỳ - TS. Lê Quang Toàn](https://www.youtube.com/watch?v=WV4g4cJdMCo)
