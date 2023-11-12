@@ -1,16 +1,16 @@
 ---
 title: Đẻ non / Dọa đẻ non
 description: Đẻ non / Dọa đẻ non
-lastUpdated: 2023-11-23
+lastUpdated: 2023-11-10
 ---
 
 ## Định nghĩa
 
-Trẻ sanh non được định nghĩa là trẻ được sinh ra trước khi tuổi thai được 37 tuần 0/7.
+Trẻ sinh non được định nghĩa là trẻ được sinh ra trước khi tuổi thai được 37 tuần 0/7.
 
 - Sơ sinh **đủ tháng** được định nghĩa là sơ sinh với tuổi thai lúc sinh là từ 37 đến 42 tuần.
 - **Thai kỳ kéo dài quá ngày dự sinh (thai già tháng)** được định nghĩa khi thai kỳ kéo dài > 42 tuần vô kinh.
-- **Trẻ sanh non** được định nghĩa là trẻ được sinh ra trước 37 tuần 0/7.
+- **Trẻ sinh non** được định nghĩa là trẻ được sinh ra trước 37 tuần 0/7.
 
 ## Phân loại
 
@@ -21,23 +21,23 @@ Trẻ sanh non được định nghĩa là trẻ được sinh ra trước khi t
 
 ## Bệnh học
 
-Có 2 nhóm nguyên nhân lớn của sanh non:
+Có 2 nhóm nguyên nhân lớn của sinh non:
 
-- Cuộc sanh được chỉ định vì một lý do y khoa như **tiền sản giật, nhau tiền đạo, thai với giới hạn tăng trưởng trong tử cung nặng gây suy thai**. Nhóm này chiếm khoảng 20%.
-- Sanh non **tự phát**, chiếm khoảng 80% các trường hợp còn lại, đa phần liên quan đến **chuyển dạ sanh non** hoặc **ối vỡ non** trên thai non tháng (Preterm Premature Rupture Of Membranes - PPROM). Chúng ta **không thể tìm được nguyên nhân hoặc yếu tố nguy cơ** của chuyển dạ sanh non.
+- Cuộc sinh được chỉ định vì một lý do y khoa như **tiền sản giật, nhau tiền đạo, thai với giới hạn tăng trưởng trong tử cung nặng gây suy thai**. Nhóm này chiếm khoảng 20%.
+- Sinh non **tự phát**, chiếm khoảng 80% các trường hợp còn lại, đa phần liên quan đến **chuyển dạ sinh non** hoặc **ối vỡ non** trên thai non tháng (Preterm Premature Rupture Of Membranes - PPROM). Chúng ta **không thể tìm được nguyên nhân hoặc yếu tố nguy cơ** của chuyển dạ sinh non.
 
-Chuyển dạ sanh non là một hội chứng có liên quan đến nhiều cơ chế bệnh sinh khác nhau:
+Chuyển dạ sinh non là một hội chứng có liên quan đến nhiều cơ chế bệnh sinh khác nhau:
 
-- (1) Hoạt hóa trục hạ đồi-tuyến yên-tuyến thượng thận ở mẹ hoặc thai nhi do stress, **liên quan corticoid**.
-- (2) **Nhiễm trùng** (màng đệm, màng rụng hoặc toàn thân) và khuẩn hệ âm đạo bệnh lý. Loạn khuẩn âm đạo nên được **điều trị sớm trước tuần 20**, do có thể làm giảm tần suất sanh non, nhờ làm **giảm vỡ ối**.
-- (3) **Giảm tưới máu màng rụng và xuất huyết** tại lớp màng rụng (bong nhau).
-- (4) Căng dãn tử cung quá mức do **đa thai, đa ối, hay di tử cung dị dạng (tử cung đôi)**.
+1. Hoạt hóa trục hạ đồi-tuyến yên-tuyến thượng thận ở mẹ hoặc thai nhi do stress, **liên quan corticoid**.
+2. **Nhiễm trùng** (màng đệm, màng rụng hoặc toàn thân) và khuẩn hệ âm đạo bệnh lý. Loạn khuẩn âm đạo nên được **điều trị sớm trước tuần 20**, do có thể làm giảm tần suất sinh non, nhờ làm **giảm vỡ ối**.
+3. **Giảm tưới máu màng rụng và xuất huyết** tại lớp màng rụng (bong nhau).
+4. Căng dãn tử cung quá mức do **đa thai, đa ối, hay di tử cung dị dạng (tử cung đôi)**.
 
 ## Yếu tố nguy cơ
 
-Các thai phụ có các đặc điểm sau được xem là có yếu tố nguy cơ cao sanh non:
+Các thai phụ có các đặc điểm sau được xem là có yếu tố nguy cơ cao sinh non:
 
-- **Tiền căn** có sanh non, chuyển dạ sinh non, ối vỡ non.
+- **Tiền căn** có sinh non, chuyển dạ sinh non, ối vỡ non.
 - **Hở eo cổ tử cung** nguyên phát hoặc thứ phát sau can thiệp y khoa như sau khoét chóp cổ tử cung.
 - **Nhiễm trùng** như nhiễm trùng tiểu, loạn khuẩn âm đạo, nhiễm trùng màng ối.
 - **Căng dãn tử cung quá mức** như đa thai, đa ối.
@@ -57,7 +57,7 @@ Các thai phụ có các đặc điểm sau được xem là có yếu tố nguy
 
 ### Hình dạng lỗ trong và ngoài
 
-Các cổ tử cung có dạng U, dạng Y được biết đến như là những dạng có nguy cơ cao sanh non. Dạng I thường có tiên lượng tốt hơn.
+Các cổ tử cung có dạng U, dạng Y được biết đến như là những dạng có nguy cơ cao sinh non. Dạng I thường có tiên lượng tốt hơn.
 
 ![Hình dạng lỗ tử cung](../../../assets/benh-hoc-san-khoa/de-non/hinh-dang-lo-tu-cung.png)
 
@@ -69,12 +69,12 @@ Khi thực hiện fFN, người ta thường chỉ sử dụng giá trị dự b
 
 Việc khảo sát sự gia tăng bất thường của nồng độ PAMG-1 trong dịch tiết cổ tử cung sẽ giúp tầm soát các trường hợp có vỡ non các màng ối.
 
-fFN, PAMG-1 có cùng giá trị dự báo âm, nhưng khả dĩ dương có chuyển dạ sanh non khi có PAMG-1 (+) cao khả dĩ dương có chuyển dạ sanh non khi có fFN (+) dương gấp 4 lần.
+fFN, PAMG-1 có cùng giá trị dự báo âm, nhưng khả dĩ dương có chuyển dạ sinh non khi có PAMG-1 (+) cao khả dĩ dương có chuyển dạ sinh non khi có fFN (+) dương gấp 4 lần.
 
 ### Nguyên tắc đánh giá nguy cơ sinh non
 
 - **Tuổi thai** được đánh giá bằng các thông tin có được từ đầu thai kỳ.
-- Cổ tử cung được **khám bằng mỏ vịt, qua siêu âm hoặc bằng tay**. Lưu ý rằng, **khám bằng tay có thể vô tình làm tăng nguy cơ sanh non do vô tình tách các màng ối**.
+- Cổ tử cung được **khám bằng mỏ vịt, qua siêu âm hoặc bằng tay**. Lưu ý rằng, **khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do vô tình tách các màng ối**.
 - Chiều dài và tình trạng kênh tử cung sẽ được **đánh giá qua siêu âm khảo sát kênh cổ tử cung**. Thay đổi tình trạng cổ tử cung giúp ta chẩn đoán và theo dõi đáp ứng điều trị.
 - **Siêu âm** giúp kiểm định lại tuổi thai, phát triển bào thai, lượng dịch ối, ngôi thai, và vị trí bánh nhau, cũng như khảo sát dị tật của thai nhi.
 - Theo dõi bằng **monitor sản khoa** để đánh giá tần số và cường độ cơn gò.
@@ -86,7 +86,7 @@ fFN, PAMG-1 có cùng giá trị dự báo âm, nhưng khả dĩ dương có chu
 
 Corticoidsteroid liệu pháp nhằm mục đích dự phòng hội chứng suy hô hấp cấp ở sơ sinh.
 
-Nếu thực hiện corticosteroid liệu pháp cho chuyển dạ sanh non xảy ra ở một **thai có khả năng nuôi sống được (ở Việt Nam, dù rằng một vài cơ sở định mốc sống là 24 tuần, nhưng mốc nuôi sống phổ biến vẫn là khoảng 28 tuần)** và có **tuổi thai dưới 34 tuần** vô kinh. Corticoid liệu pháp là **không cần thiết sau 34 tuần**.
+Nếu thực hiện corticosteroid liệu pháp cho chuyển dạ sinh non xảy ra ở một **thai có khả năng nuôi sống được (ở Việt Nam, dù rằng một vài cơ sở định mốc sống là 24 tuần, nhưng mốc nuôi sống phổ biến vẫn là khoảng 28 tuần)** và có **tuổi thai dưới 34 tuần** vô kinh. Corticoid liệu pháp là **không cần thiết sau 34 tuần**.
 
 Chỉ thực hiện duy nhất một đợt corticosteroid cho thai phụ đang **có nguy cơ trực tiếp của sinh non trong vòng 7 ngày, hiện đang ở giữa tuần thai 24 và 34.**
 
@@ -106,7 +106,7 @@ Có 3 nhóm dược chất lớn có thể được dùng cho mục đích khố
 
 ### Bảo vệ thần kinh thai bằng Magnesium Sulfate
 
-Magnesium sulfate có vai trò bảo vệ thần kinh cho thai rất non, dưới 32 tuần. MgSO4 vẫn được dùng với các liều dùng phổ biến cho điều trị tiền sản giật có dấu hiệu nặng hay liều giảm co tử cung.
+Magnesium sulfate có vai trò bảo vệ thần kinh cho thai rất non, dưới 32 tuần. $MgSO_4$ vẫn được dùng với các liều dùng phổ biến cho điều trị tiền sản giật có dấu hiệu nặng hay liều giảm co tử cung.
 
 ## Dự phòng (Điều trị) dọa đẻ non
 
@@ -118,11 +118,11 @@ Magnesium sulfate có vai trò bảo vệ thần kinh cho thai rất non, dướ
 
 ### Progesterone
 
-Có thể dùng progesterone để dự phòng sanh non cho thai phụ có **tiền căn sanh non** và hiện có **kênh tử cung ngắn dưới 25 mm**.
+Có thể dùng progesterone để dự phòng sinh non cho thai phụ có **tiền căn sinh non** và hiện có **kênh tử cung ngắn dưới 25 mm**.
 
 ### Khâu vòng cổ tử cung
 
-Có thể khâu vòng cổ tử cung để dự phòng sanh non cho thai phụ có **hở eo tử cung** và hiện có **kênh tử cung ngắn < 25mm.**
+Có thể khâu vòng cổ tử cung để dự phòng sinh non cho thai phụ có **hở eo tử cung** và hiện có **kênh tử cung ngắn < 25mm.**
 
 Những trường hợp có cổ tử cung ngắn nhưng **không có tiền căn sinh non** thì **không thấy lợi ích nào** khi tiến hành thủ thuật này. Ở những trường hợp **song thai**, khi khâu cổ tử cung sẽ làm **tăng nguy cơ chuyển dạ sinh non**.
 

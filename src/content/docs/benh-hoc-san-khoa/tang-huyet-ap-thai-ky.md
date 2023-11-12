@@ -102,7 +102,7 @@ Hội chứng HELLP là một biến chứng nặng của tiền sản giật v�
   - Hạn chế nước vào < 100 mL/h.
   - Dự trù 2 đơn vị hồng cầu và tiểu cầu. Truyền tiểu cầu khi dưới 50 T/L (chỉnh từ 6-10 đơn vị).
   - Theo dõi tim thai, monitoring.
-  - Theo dõi ngộ độc MgSO4 (phản xạ gân xương bánh chè).
+  - Theo dõi ngộ độc $MgSO_4$ (phản xạ gân xương bánh chè).
 
 ## Biến chứng tăng huyết áp thai kỳ
 
@@ -207,7 +207,7 @@ mg / 4-6 giờ (tối đa không quá 120 mg mỗi ngày) để duy trì huyết
 
 Tác dụng không mong muốn nói chung bao gồm tim đập nhanh, nhức đầu và hồi hộp.
 
-Ion Mg++ có khả năng cạnh tranh với ion Ca++ nên phối hợp nifedipin và MgSO4 có thể dẫn đến tụt huyết áp.
+Ion Mg++ có khả năng cạnh tranh với ion Ca++ nên phối hợp nifedipin và $MgSO_4$ có thể dẫn đến tụt huyết áp.
 
 #### Nicardipin
 
@@ -226,22 +226,22 @@ Chống chỉ định của nicardipin gồm cơn đau thắt ngực không ổn
 
 **Trong tiền sản giật, không dùng diazepam hay pheyltoin**. Khi được dùng trong tiền sản giật, chúng có hiệu quả kém, do sản giật là một bệnh lý mà cơ chế sinh co giật hoàn toàn khác với động kinh. Hơn nữa, chúng có thể có ảnh hưởng xấu trên thai nhi.
 
-**MgSO4 được dùng để phòng ngừa co giật. MgSO4 làm cho co giật không thể xảy ra chứ không điều trị bệnh sinh của tiền sản giật.** Tại các bản đệm thần kinh-cơ, ion Mg++ trong MgSO4 cạnh tranh với ion Ca++, do đó ngăn cản co giật xuất hiện. MgSO4 còn kích hoạt giãn mạch máu não, làm giảm thiếu máu cục bộ bởi sự co thắt mạch máu não trong cơn sản giật.
+**$MgSO_4$ được dùng để phòng ngừa co giật. $MgSO_4$ làm cho co giật không thể xảy ra chứ không điều trị bệnh sinh của tiền sản giật.** Tại các bản đệm thần kinh-cơ, ion Mg++ trong $MgSO_4$ cạnh tranh với ion Ca++, do đó ngăn cản co giật xuất hiện. $MgSO_4$ còn kích hoạt giãn mạch máu não, làm giảm thiếu máu cục bộ bởi sự co thắt mạch máu não trong cơn sản giật.
 
-Cách dùng MgSO4: Liều khởi đầu: 4-6 gram MgSO4 trong 20 phút (6 g MgSO4 pha trong 100 mL Glucose 5%). Duy trì: 2 g MgSO4 mỗi giờ (tương đương 40 g trong 1 L Lactated Ringer chảy 50 mL/giờ hoặc 20 g trong 1 L Lactated Ringer chảy 100 mL/giờ), trong chuyển dạ và sau sanh 12-24 giờ. Ngưng MgSO4 sau sinh 24 giờ, hoặc trong trường hợp có biểu hiện ngộ độc MgSO4.
+Cách dùng $MgSO_4$: Liều khởi đầu: 4-6 gram $MgSO_4$ trong 20 phút (6 g $MgSO_4$ pha trong 100 mL Glucose 5%). Duy trì: 2 g $MgSO_4$ mỗi giờ (tương đương 40 g trong 1 L Lactated Ringer chảy 50 mL/giờ hoặc 20 g trong 1 L Lactated Ringer chảy 100 mL/giờ), trong chuyển dạ và sau sanh 12-24 giờ. Ngưng $MgSO_4$ sau sinh 24 giờ, hoặc trong trường hợp có biểu hiện ngộ độc $MgSO_4$.
 
-**Chỉ dùng MgSO4 cho tiền sản giật có biệu hiện nặng.**
+**Chỉ dùng $MgSO_4$ cho tiền sản giật có biệu hiện nặng.**
 
-MgSO4 thường được dùng bằng đường truyền tĩnh mạch. Hiếm khi dùng MgSO4 qua đường tiêm bắp do đau và có thể gây áp xe vùng chích.
+$MgSO_4$ thường được dùng bằng đường truyền tĩnh mạch. Hiếm khi dùng $MgSO_4$ qua đường tiêm bắp do đau và có thể gây áp xe vùng chích.
 
-Luôn chú ý đến dấu ngộ độc MgSO4 khi dùng MgSO4. Trong điều trị, phải duy trì nồng độ ion Mg++ đạt ngưỡng điều trị, nhưng thấp hơn ngưỡng ngộ độc. Để đạt được hiệu quả điều trị, nồng độ Mg++ phải ở trong khoảng 4-6 mEq/L. Khi nồng độ Mg++ bắt đầu vượt ngưỡng điều trị, dấu hiệu mất phản
-xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cần theo dõi phản xạ gân xương bánh chè như một chỉ báo là nồng độ Mg++ đã vượt ngưỡng điều trị và cần phải ngưng ngay việc dùng thêm MgSO4.
+Luôn chú ý đến dấu ngộ độc $MgSO_4$ khi dùng $MgSO_4$. Trong điều trị, phải duy trì nồng độ ion Mg++ đạt ngưỡng điều trị, nhưng thấp hơn ngưỡng ngộ độc. Để đạt được hiệu quả điều trị, nồng độ Mg++ phải ở trong khoảng 4-6 mEq/L. Khi nồng độ Mg++ bắt đầu vượt ngưỡng điều trị, dấu hiệu mất phản
+xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cần theo dõi phản xạ gân xương bánh chè như một chỉ báo là nồng độ Mg++ đã vượt ngưỡng điều trị và cần phải ngưng ngay việc dùng thêm $MgSO_4$.
 
-![Nồng độ MgSO4](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/nong-do-mgso4.png)
+![Nồng độ $MgSO_4$](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/nong-do-$MgSO_4$.png)
 
-Ngộ độc MgSO4 được xử lý bằng calcium gluconate. Calcium gluconate được dùng với liều 10mL calcium gluconate 10% tiêm mạch trong thời gian không dưới 10 phút và đặt nội khí quản nếu bệnh nhân ngưng thở.
+Ngộ độc $MgSO_4$ được xử lý bằng calcium gluconate. Calcium gluconate được dùng với liều 10mL calcium gluconate 10% tiêm mạch trong thời gian không dưới 10 phút và đặt nội khí quản nếu bệnh nhân ngưng thở.
 
-**Xem xét tạm ngưng liều duy trì MgSO4 khi có thiểu niệu.** Vì MgSO4 chỉ bài tiết qua thận ở những thai phụ bị tiền sản giật nặng mà nước tiểu dưới 30 mL mỗi giờ thì cần ngưng dùng khi cung lượng nước tiểu ở dưới ngưỡng này.
+**Xem xét tạm ngưng liều duy trì $MgSO_4$ khi có thiểu niệu.** Vì $MgSO_4$ chỉ bài tiết qua thận ở những thai phụ bị tiền sản giật nặng mà nước tiểu dưới 30 mL mỗi giờ thì cần ngưng dùng khi cung lượng nước tiểu ở dưới ngưỡng này.
 
 ## Xử trí sản giật
 
@@ -253,9 +253,9 @@ Ngộ độc MgSO4 được xử lý bằng calcium gluconate. Calcium gluconate
   - Cần mở đường truyền tĩnh mạch.
 - Co giật thường tự giới hạn. Không cần phải dùng đến các thuốc chống co giật:
   - Dùng các thuốc chống co giật như barbiturate hay các zepam là không cần thiết, có thể gây khó khăn cho theo dõi sau sản giật.
-  - Chỉ có MgSO4 là cần thiết trong trường hợp có sản giật.
-- Mục tiêu của điều trị MgSO4 là để phòng ngừa các cơn co giật có khả năng sẽ xảy ra sau đó. Nếu bệnh nhân bị sản giật dù đang được truyền MgSO4, cần tiêm tĩnh mạch chậm thêm 2 gram MgSO4 nữa, sau đó định lượng ion Mg++ trong máu.
-- Cần đặt ống thông Foley để theo dõi chính xác lượng nuớc tiểu và đồng thời để giúp quyết định điều trị với MgSO4. Nếu có thiểu niệu, cần truyền nhanh 1 lít dung dịch Glucose 5% trong 30 phút. Cảnh giác với phù phổi khi truyền nhanh. Nếu bài niệu vẫn không cải thiện, có thể đã có hoại tử ống thận cấp. Trong trường hợp này, cần phải được chăm sóc tại chuyên khoa hồi sức tích cực nội khoa.
+  - Chỉ có $MgSO_4$ là cần thiết trong trường hợp có sản giật.
+- Mục tiêu của điều trị $MgSO_4$ là để phòng ngừa các cơn co giật có khả năng sẽ xảy ra sau đó. Nếu bệnh nhân bị sản giật dù đang được truyền $MgSO_4$, cần tiêm tĩnh mạch chậm thêm 2 gram $MgSO_4$ nữa, sau đó định lượng ion Mg++ trong máu.
+- Cần đặt ống thông Foley để theo dõi chính xác lượng nuớc tiểu và đồng thời để giúp quyết định điều trị với $MgSO_4$. Nếu có thiểu niệu, cần truyền nhanh 1 lít dung dịch Glucose 5% trong 30 phút. Cảnh giác với phù phổi khi truyền nhanh. Nếu bài niệu vẫn không cải thiện, có thể đã có hoại tử ống thận cấp. Trong trường hợp này, cần phải được chăm sóc tại chuyên khoa hồi sức tích cực nội khoa.
 
 ### Sau cơn sản giật
 
@@ -303,7 +303,7 @@ Trong trường đặc biệt là bệnh nhân không muốn chấm dứt thai, 
 
 Trong giai đoạn này, mẹ vẫn ưu tiên hơn con.
 
-Nếu quyết định kéo dài thai kỳ được đặt ra thì có thể cân nhắc corticosteroids liệu pháp dự phòng suy hô hấp cấp và MgSO4 liệu pháp dự phòng tổn thương não.
+Nếu quyết định kéo dài thai kỳ được đặt ra thì có thể cân nhắc corticosteroids liệu pháp dự phòng suy hô hấp cấp và $MgSO_4$ liệu pháp dự phòng tổn thương não.
 
 ### Khi tuổi thai từ 33-34 tuần 6 ngày
 
@@ -321,7 +321,7 @@ Thông thường, người ta cố gắng khởi phát chuyển dạ để chấ
 
 Sau khi đã chấm dứt thai kỳ, nguy cơ xảy ra sản giật và hội chứng HELLP vẫn còn đó.
 
-Nếu bệnh nhân đang dùng MgSO4 thì điều trị này phải được tiếp tục kéo dài 12-24 giờ sau sanh.
+Nếu bệnh nhân đang dùng $MgSO_4$ thì điều trị này phải được tiếp tục kéo dài 12-24 giờ sau sanh.
 
 Không nên kê toa thuốc kháng viêm không steroid để giảm đau hậu sản đối với bệnh nhân tiền sản giật nặng.
 

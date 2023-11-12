@@ -11,7 +11,7 @@ lastUpdated: 2023-10-07
 - Hoạt chất - hàm lượng: Paracetamol 500 mg.
 - Dạng: Viên uống.
 - Tác dụng: Thuốc hạ sốt.
-- Liều dùng: Tối đa của paracetamol cho người lớn là 1g/lần và 4g (4000 mg)/ngày. Hoặc không quá 75 mg/kg trong vòng 24 giờ.
+- Liều dùng: Tác dụng giảm đau trong vòng 5-10 phút sau khi bắt đầu dùng thuốc, hiệu quả giảm đau cao đạt được trong 1 giờ và thời gian tác dụng thường là 4-6 giờ. Tác dụng hạ sốt trong vòng 30 phút sau khi bắt đầu dùng thuốc với thời gian tác dụng hạ sốt tối thiểu 6 giờ. Tối đa của paracetamol cho người lớn là 1g/lần và 4g (4000 mg)/ngày hoặc không quá 75 mg/kg trong vòng 24 giờ.
 
 ### Elaria 100 mg
 
@@ -34,7 +34,7 @@ lastUpdated: 2023-10-07
 - Hoạt chất - hàm lượng: Progesterone 200 mg.
 - Dạng: Viên đặt âm đạo/hậu môn.
 - Tác dụng: Progesterone nội tiết dạng mịn.
-- Liều: Liều từ 200-800mg/ngày. Đơn thường dùng 1 viên/lần x 2 lần/ngày đặt âm đạo, sáng/chiều. [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/thuoc-utrogestan-200mg-co-tac-dung-gi/).
+- Liều: Thường dùng 1 viên/lần x 2 lần/ngày đặt âm đạo, sáng/chiều. Tối đa 800 mg/ngày. [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/thuoc-utrogestan-200mg-co-tac-dung-gi/).
 
 ### Cyclogest 400mg
 
@@ -47,6 +47,13 @@ lastUpdated: 2023-10-07
 
 - Hoạt chất - hàm lượng: Alverin citrat 120 mg.
 - Dạng: Viên nang uống
+- Tác dụng: Chống co thắt cơ trơn loại papaverine.
+- Liều: Đơn thường dùng 1 viên/lần x 2 lần/ngày, sáng/chiều.
+
+### No-spa 80 mg
+
+- Hoạt chất - hàm lượng: Drotaverin 80 mg.
+- Dạng: Viên.
 - Tác dụng: Chống co thắt cơ trơn loại papaverine.
 - Liều: Đơn thường dùng 1 viên/lần x 2 lần/ngày, sáng/chiều.
 
@@ -73,7 +80,7 @@ lastUpdated: 2023-10-07
 - Hoạt chất - hàm lượng: Tractocile 37.5 mg/5ml.
 - Dạng: Lọ tiêm.
 - Tác dụng: Thuốc chống sinh non.
-- Liều: [Link 1](https://www.vinmec.com/vi/thuoc/atosiban-33/).
+- Liều: Liệu trình có chống co cường co dùng 4 lọ. 1 lọ pha 45 ml NaCl 0.9% truyền bơm kim điện bolus 9ml, truyền 24 ml/h trong 3h đầu, 8 ml/h trong những giờ tiếp theo.
 
 ## Tăng co
 
