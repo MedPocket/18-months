@@ -237,7 +237,7 @@ $MgSO_4$ thường được dùng bằng đường truyền tĩnh mạch. Hiếm
 Luôn chú ý đến dấu ngộ độc $MgSO_4$ khi dùng $MgSO_4$. Trong điều trị, phải duy trì nồng độ ion Mg++ đạt ngưỡng điều trị, nhưng thấp hơn ngưỡng ngộ độc. Để đạt được hiệu quả điều trị, nồng độ Mg++ phải ở trong khoảng 4-6 mEq/L. Khi nồng độ Mg++ bắt đầu vượt ngưỡng điều trị, dấu hiệu mất phản
 xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cần theo dõi phản xạ gân xương bánh chè như một chỉ báo là nồng độ Mg++ đã vượt ngưỡng điều trị và cần phải ngưng ngay việc dùng thêm $MgSO_4$.
 
-![Nồng độ $MgSO_4$](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/nong-do-$MgSO_4$.png)
+![Nồng độ MgSO4](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/nong-do-mgso4.png)
 
 Ngộ độc $MgSO_4$ được xử lý bằng calcium gluconate. Calcium gluconate được dùng với liều 10mL calcium gluconate 10% tiêm mạch trong thời gian không dưới 10 phút và đặt nội khí quản nếu sản phụ ngưng thở.
 
