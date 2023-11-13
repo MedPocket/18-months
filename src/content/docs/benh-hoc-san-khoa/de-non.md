@@ -78,7 +78,7 @@ fFN, PAMG-1 có cùng giá trị dự báo âm, nhưng khả dĩ dương có chu
 - Chiều dài và tình trạng kênh tử cung sẽ được **đánh giá qua siêu âm khảo sát kênh cổ tử cung**. Thay đổi tình trạng cổ tử cung giúp ta chẩn đoán và theo dõi đáp ứng điều trị.
 - **Siêu âm** giúp kiểm định lại tuổi thai, phát triển bào thai, lượng dịch ối, ngôi thai, và vị trí bánh nhau, cũng như khảo sát dị tật của thai nhi.
 - Theo dõi bằng **monitor sản khoa** để đánh giá tần số và cường độ cơn gò.
-- Theo dõi **tình trạng xuất huyết** của bệnh nhân, vì nhau bong non và nhau tiền đạo có liên quan đến chuyển dạ sinh non.
+- Theo dõi **tình trạng xuất huyết** của sản phụ, vì nhau bong non và nhau tiền đạo có liên quan đến chuyển dạ sinh non.
 
 ## Điều trị đẻ non
 
@@ -138,4 +138,4 @@ Tiết dịch âm đạo bất thường là than phiền hay gặp nhất ở n
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING. Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.

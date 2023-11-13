@@ -25,5 +25,5 @@ SDP (Single-deepest pocket measurement) là độ sâu của khoang ối lớn n
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING. Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
 - [Chỉ số nước ối AFI là gì và có ý nghĩa như thế nào?](https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/chi-so-nuoc-oi-afi-la-gi-va-co-y-nghia-nhu-the-nao/) - Vinmec

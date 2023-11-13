@@ -50,7 +50,11 @@ Chế độ dinh dưỡng nội khoa (Medical Nutrition Treatment - MNT) cần �
 
 #### Chế độ ăn và theo dõi
 
-Người đang thực hiện MNT nên ăn 5-7 bữa trong ngày. Các bữa ăn không hoàn toàn giống nhau.
+Đến 80% sản phụ đái tháo đường thai kỳ kiểm soát đường huyết đường huyết bằng chế độ ăn và tập luyện.
+
+Tổng Calo phân bố: Carbohydrate 35-45%, protid 20-25%, lipid 35-40%.
+
+Người đang thực hiện MNT nên ăn 5-7 bữa trong ngày (bao gồm 3 bữa chính và 2-4 bữa phụ). Các bữa ăn không hoàn toàn giống nhau.
 
 Trong giai đoạn đầu khi thực hiện MNT, khuyến khích thai phụ tự theo dõi thường xuyên đường huyết đói cũng
 như đường huyết 3-4 lần/ngày:
@@ -59,21 +63,35 @@ như đường huyết 3-4 lần/ngày:
 - Đường huyết sau ăn: sau ăn 1-2 giờ, 2-3 lần/ ngày, xoay vòng cho các bữa ăn khác nhau trong tuần.
 - Ít nhất cũng cần theo dõi đường huyết 1 lần/ngày và phải ghi nhận tương quan với thời điểm bữa ăn.
 
+Ưu tiên thực phẩm có chỉ số đường huyết thấp (<55) hoặc trung bình (56-69).
+
 Khi đã đảm bảo đạt được mục tiêu về đường huyết bằng MNT, việc theo dõi đường huyết có thể được nới lỏng hơn. Nếu thực hiện tốt MNT, rất nhiều thai phụ mắc GDM không cần thiết phải dùng thuốc hạ đường huyết và có kết cục chu sinh tốt.
 
 #### Vận động thể lực
 
 Ngoài thay đổi chế độ ăn, thai phụ mắc GDM nên có chế độ vận động phù hợp với từng cá nhân:
 
-- Vận động khoảng 30 phút/ngày.
-- Đi bộ nhanh hoặc tập thể dục vùng cánh tay khi ngồi ghế trong 10 phút sau mỗi bữa ăn.
+- Vận động khoảng 30 phút/ngày. Nhịp tim tăng từ 10-20% nhịp tim cơ bản của sản phụ.
+- Đi bộ nhanh hoặc tập thể dục vùng cánh tay khi ngồi ghế trong 15-20 phút sau ăn 1h mỗi bữa ăn nếu không chống chỉ định.
+- Chống chỉ định vận động với: Dọa đẻ non, ối vỡ sớm, hở eo tử cung, xuất hiện 3 tháng giữa/3 tháng cuối thai kỳ, rau tiền đạo, tiền sản giật.
 - Những thai phụ vận động tích cực trước khi mang thai được khuyến khích duy trì chế độ vận động của họ trong thai kỳ.
 
 Có thể tham khảo chi tiết [Hướng dẫn điều chỉnh lối sống](./huong-dan-dieu-chinh-loi-song-benh-nhan-dai-duong-thai-ky.docx) và [Phiếu theo dõi đường huyết](./phieu-theo-doi-duong-huyet.docx).
 
 ### Thuốc kiểm soát đường huyết
 
-Thuốc hạ đường huyết được chỉ định khi MNT thất bại.
+**Bộ Y tế Việt Nam chưa cho phép việc dùng Metformin trong thai kỳ cho DIP/GDM.** Thuốc hạ đường huyết được chỉ định khi MNT thất bại là insulin.
+
+#### Chỉ định dùng Insulin
+
+- Đái tháo đường trước khi có thai.
+- Đái tháo đường thai kỳ:
+  - Đái tháo đường thai kỳ chẩn đoán trước tuần 24.
+  - Đường máu đói >7 mmol/l.
+  - Đường máu bất kỳ > 11.1 mmol/l.
+  - Đường máu làm dung nạp đường huyết > 11.1 mmol/l.
+
+#### Liều dùng Insulin
 
 Liều insulin thay đổi tùy theo giai đoạn của thai kỳ. Insulin được dùng 2 lần trong ngày. Mỗi lần cần phối hợp NPH insulin (tác dụng kéo dài) và regular insulin (thường).
 
@@ -81,9 +99,14 @@ Liều insulin thay đổi tùy theo giai đoạn của thai kỳ. Insulin đư�
 - Tam cá nguyệt 2: 0.8-1.0 U/kg/ngày
 - Tam cá nguyệt 3: 0.9-1.2 U/kg/ngày
 
-Tổng liều insulin sẽ được chia ra như sau: 2/3 buổi sáng và 1/3 buổi tối. **Tuy nhiên chỉnh liều insulin còn phụ thuộc vào từng bệnh nhân.**
+Tổng liều insulin sẽ được chia ra như sau: 2/3 buổi sáng và 1/3 buổi tối. **Tuy nhiên chỉnh liều insulin còn phụ thuộc vào từng sản phụ.**
 
-**Bộ Y tế Việt Nam chưa cho phép việc dùng Metformin trong thai kỳ cho DIP/GDM.**
+#### Biến chứng tiêm Insulin
+
+- Hạ đường huyết.
+- Loạn dưỡng mỡ tại vị trí tiêm.
+- Kháng insulin.
+- Dị ứng.
 
 ## Theo dõi trong thai kỳ
 
@@ -107,6 +130,24 @@ thai phụ cần điều trị insulin.
 Mức đường huyết trong chuyển dạ > 140 đến 180 mg/dL (7.8 đến 10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm cetone acid ở mẹ.
 
 ![Khuyến cáo về chấm dứt thai kỳ](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/khuyen-cao-ve-cham-dut-thai-ky.png)
+
+## Biến chứng hạ đường huyết cấp tính
+
+### Chẩn đoán
+
+- Hạ đường huyết nhẹ (3.3-3.6 mmol/l): Sản phụ tỉnh, run tay, cồn cào, hoa mắt, nhịp tim nhanh, hồi hộp trống ngực, vã mồ hôi.
+- Hạ đường huyết trung bình (2.8-3.3 mmol/l): Sản phụ có biểu hiện thần kinh như nhìn mờ, giảm khả năng tập trung, lơ mơ.
+- Hạ đường huyết nặng (<2.8 mmol/l): Mất định hướng, loạn thần, co giật, hôn mê.
+
+### Xử trí
+
+- Ngừng tất cả thuốc liên quan hạ đường huyết.
+- Xét nghiệm lại đường máu.
+- Nếu sản phụ tỉnh (mức độ nhẹ/trung bình):
+  - Cho uống nước đường hoặc ăn đồ chứa đường.
+- Nếu sản phụ hôn mê (nặng):
+  - Truyền tĩnh mạch nhanh 50 ml glucose 20% hoặc 30%. Lặp lại nếu sản phụ chưa tỉnh. Nếu tỉnh điều chỉnh theo kết quả đường huyết.
+  - Duy trì gluocse 5% để đường huyết 5.5-7 mmol/l.
 
 ## Kết cục sản khoa
 
@@ -136,5 +177,6 @@ Nhiều thai phụ đái tháo đường **không cần thiết điều trị in
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING. Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA 2022 - Bệnh viện Từ Dũ.
 - [Bài giảng đái tháo đường thai kỳ - TS. Lê Quang Toàn](https://www.youtube.com/watch?v=WV4g4cJdMCo)

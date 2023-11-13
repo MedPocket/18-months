@@ -58,7 +58,7 @@ Tiền sản giật được phân loại thành tiền sản giật không có 
 
 Dấu hiệu nặng của tiền sản giật:
 
-1. Huyết áp tâm thu &ge; 160 mmHg hoặc huyết áp tâm trương &ge; 110 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ khi bệnh nhân đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó)
+1. Huyết áp tâm thu &ge; 160 mmHg hoặc huyết áp tâm trương &ge; 110 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó)
 2. Giảm tiểu cầu: tiểu cầu <100,000/µL.
 3. Suy giảm chức năng gan: men gan tăng (gấp đôi so với bình thường), đau nhiều ở hạ sườn phải hoặc đau thượng vị không đáp ứng với thuốc và không có nguyên nhân khác.
 4. Suy thận tiến triển (creatinin huyết thanh > 1.1 mg/dL hoặc gấp đôi nồng độ creatinin huyết thanh bình thường mà không do bệnh lý thận khác)
@@ -71,7 +71,7 @@ Mốc 34 tuần để tiên lượng tiền sản giật. Tiền sản giật tr
 
 ### Sản giật
 
-Chẩn đoán sản giật đòi hỏi phải có sự hiện diện của 3 yếu tố (1) những cơn co giật và (2) hôn mê (3) xảy ra trên một bệnh nhân có hội chứng tiền sản giật.
+Chẩn đoán sản giật đòi hỏi phải có sự hiện diện của 3 yếu tố (1) những cơn co giật và (2) hôn mê (3) xảy ra trên một sản phụ có hội chứng tiền sản giật.
 
 ## Hội chứng HELLP
 
@@ -189,10 +189,10 @@ Thường được dùng chung với hydralazin để bù trừ lại những t�
 Cơ chế của thuốc là ức chế thụ thể β giao cảm ở tim và mạch máu ngoại vi, do đó làm chậm nhịp tim và hạ huyết áp. Cơ chế này làm cho thuốc thường được dùng chung với hydralazin. Thuốc bắt đầu tác dụng sau tiêm tĩnh mạch 5 phút, và mất 1-2 giờ để đạt nồng độ đỉnh trong máu. Labetalol có khởi phát tác dụng nhanh hơn và giảm nguy cơ bị nhịp nhanh so với hydralazin.
 
 Liều lượng và cách dùng labetalol: Liều boluses 20-80 mg (tối đa 220 mg), sau đó duy trì bằng đường uống 200 mg x 3 lần mỗi ngày, tối đa 800
-mg trong 8 giờ. Sau 2-3 ngày điều trị, điều chỉnh tùy vào từng bệnh nhân, thường là 200-400 mg mỗi ngày. Dạng thuốc và hàm lượng: Viên nén
+mg trong 8 giờ. Sau 2-3 ngày điều trị, điều chỉnh tùy vào từng sản phụ, thường là 200-400 mg mỗi ngày. Dạng thuốc và hàm lượng: Viên nén
 100 mg, 200 mg, 300 mg, Ống tiêm 5 mg / 1mL. Dung dịch tiêm truyền 100 mg / 20mL.
 
-Chống chỉ định ở bệnh nhân suy tim sung huyết, hen suyễn và nhịp chậm xoang.
+Chống chỉ định ở sản phụ suy tim sung huyết, hen suyễn và nhịp chậm xoang.
 
 ### Thuốc ức chế kênh calcium: Nifedipin và Nicardipin
 
@@ -216,7 +216,7 @@ tác dụng lên co bóp tim, nên ít làm tăng nhịp tim phản xạ. Nicard
 
 Liều lượng và cách dùng nicardipin: Uống 20 mg x 3 lần mỗi ngày. Hoặc truyền tĩnh mạch với liều bolus 0.5-1 mg, sau đó duy trì 2 mg mỗi
 giờ (pha 1 ống nicardipin trong 40 mL dung dịch Glucose 5%, dùng bơm tiêm điện truyền với tốc độ 10 mL mỗi giờ), chỉnh liều theo huyết áp
-bệnh nhân. Dạng thuốc và hàm lượng: Viên nang 20 mg, 30 mg. Viên nang tác dụng kéo dài 30 mg, 40 mg, 45 mg, 60 mg. Dung dịch tiêm 10 mg / 10 mL.
+sản phụ. Dạng thuốc và hàm lượng: Viên nang 20 mg, 30 mg. Viên nang tác dụng kéo dài 30 mg, 40 mg, 45 mg, 60 mg. Dung dịch tiêm 10 mg / 10 mL.
 
 Tác dụng phụ đau đầu, chóng mặt, buồn nôn, nôn, đau dạ dày. Nicardipin ít qua sữa mẹ.
 
@@ -239,7 +239,7 @@ xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cầ
 
 ![Nồng độ $MgSO_4$](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/nong-do-$MgSO_4$.png)
 
-Ngộ độc $MgSO_4$ được xử lý bằng calcium gluconate. Calcium gluconate được dùng với liều 10mL calcium gluconate 10% tiêm mạch trong thời gian không dưới 10 phút và đặt nội khí quản nếu bệnh nhân ngưng thở.
+Ngộ độc $MgSO_4$ được xử lý bằng calcium gluconate. Calcium gluconate được dùng với liều 10mL calcium gluconate 10% tiêm mạch trong thời gian không dưới 10 phút và đặt nội khí quản nếu sản phụ ngưng thở.
 
 **Xem xét tạm ngưng liều duy trì $MgSO_4$ khi có thiểu niệu.** Vì $MgSO_4$ chỉ bài tiết qua thận ở những thai phụ bị tiền sản giật nặng mà nước tiểu dưới 30 mL mỗi giờ thì cần ngưng dùng khi cung lượng nước tiểu ở dưới ngưỡng này.
 
@@ -254,7 +254,7 @@ Ngộ độc $MgSO_4$ được xử lý bằng calcium gluconate. Calcium glucon
 - Co giật thường tự giới hạn. Không cần phải dùng đến các thuốc chống co giật:
   - Dùng các thuốc chống co giật như barbiturate hay các zepam là không cần thiết, có thể gây khó khăn cho theo dõi sau sản giật.
   - Chỉ có $MgSO_4$ là cần thiết trong trường hợp có sản giật.
-- Mục tiêu của điều trị $MgSO_4$ là để phòng ngừa các cơn co giật có khả năng sẽ xảy ra sau đó. Nếu bệnh nhân bị sản giật dù đang được truyền $MgSO_4$, cần tiêm tĩnh mạch chậm thêm 2 gram $MgSO_4$ nữa, sau đó định lượng ion Mg++ trong máu.
+- Mục tiêu của điều trị $MgSO_4$ là để phòng ngừa các cơn co giật có khả năng sẽ xảy ra sau đó. Nếu sản phụ bị sản giật dù đang được truyền $MgSO_4$, cần tiêm tĩnh mạch chậm thêm 2 gram $MgSO_4$ nữa, sau đó định lượng ion Mg++ trong máu.
 - Cần đặt ống thông Foley để theo dõi chính xác lượng nuớc tiểu và đồng thời để giúp quyết định điều trị với $MgSO_4$. Nếu có thiểu niệu, cần truyền nhanh 1 lít dung dịch Glucose 5% trong 30 phút. Cảnh giác với phù phổi khi truyền nhanh. Nếu bài niệu vẫn không cải thiện, có thể đã có hoại tử ống thận cấp. Trong trường hợp này, cần phải được chăm sóc tại chuyên khoa hồi sức tích cực nội khoa.
 
 ### Sau cơn sản giật
@@ -281,7 +281,7 @@ Theo dõi tăng cường là nội dung chủ yếu của tiền sản giật kh
 Tần suất khám 2 lần một tuần nếu không có dấu hiệu nặng.
 
 Về phía mẹ gồm nghỉ ngơi nhiều, chế độ ăn giàu đạm, rau cải, theo dõi huyết áp tại nhà với nhật ký ghi lại diễn biến huyết áp 2 lần mỗi ngày hay gần hơn. Không được dùng thuốc lợi tiểu, an thần. Không có chỉ định dùng thuốc chống tăng huyết áp cho tiền sản giật không có dấu hiệu
-nặng. Hướng dẫn bệnh nhân phát hiện dấu hiệu nặng.
+nặng. Hướng dẫn sản phụ phát hiện dấu hiệu nặng.
 
 Về phía con cũng là một theo dõi tăng cường, hướng dẫn đếm cử động thai hàng ngày, lượng giá sức khỏe thai bằng BPP biến đổi như một test tầm soát. Non-stress test được thực hiện 2 lần mỗi tuần. Siêu âm sinh trắc và đo chỉ số ối (AFI) 3 tuần một lần, ngoại trừ khi cần theo dõi gần hơn.
 
@@ -297,7 +297,7 @@ Do thai nhi (1) hầu như không có triển vọng sống, (2) thời gian ch�
 
 Chuyển dạ được khởi phát bằng prostaglandin E2 (PGE2) đặt âm đạo, theo sau bằng oxytocin.
 
-Trong trường đặc biệt là bệnh nhân không muốn chấm dứt thai, muốn giữ thai bằng mọi giá, thì có thể chấp nhận theo dõi tiếp nhưng phải tư vấn một cách chi tiết về nguy cơ rất cao của mẹ, dự hậu rất xấu của thai và tương lai bất định của trẻ.
+Trong trường đặc biệt là sản phụ không muốn chấm dứt thai, muốn giữ thai bằng mọi giá, thì có thể chấp nhận theo dõi tiếp nhưng phải tư vấn một cách chi tiết về nguy cơ rất cao của mẹ, dự hậu rất xấu của thai và tương lai bất định của trẻ.
 
 #### Khi tuổi thai không quá non, từ 23-32 tuần 6 ngày
 
@@ -321,11 +321,11 @@ Thông thường, người ta cố gắng khởi phát chuyển dạ để chấ
 
 Sau khi đã chấm dứt thai kỳ, nguy cơ xảy ra sản giật và hội chứng HELLP vẫn còn đó.
 
-Nếu bệnh nhân đang dùng $MgSO_4$ thì điều trị này phải được tiếp tục kéo dài 12-24 giờ sau sanh.
+Nếu sản phụ đang dùng $MgSO_4$ thì điều trị này phải được tiếp tục kéo dài 12-24 giờ sau sanh.
 
-Không nên kê toa thuốc kháng viêm không steroid để giảm đau hậu sản đối với bệnh nhân tiền sản giật nặng.
+Không nên kê toa thuốc kháng viêm không steroid để giảm đau hậu sản đối với sản phụ tiền sản giật nặng.
 
-Tại thời điểm xuất viện, đa số bệnh nhân có huyết áp trở về trị số bình thường. Nếu huyết áp vẫn còn cao, cần duy trì thuốc chống tăng huyết áp, và đánh giá lại sau 1 tuần.
+Tại thời điểm xuất viện, đa số sản phụ có huyết áp trở về trị số bình thường. Nếu huyết áp vẫn còn cao, cần duy trì thuốc chống tăng huyết áp, và đánh giá lại sau 1 tuần.
 
 ## Dự phòng tăng huyết áp thai kỳ
 
@@ -344,4 +344,4 @@ Theo ACOG, Aspirin nên được khởi động từ 12 - 28 tuần (tốt nhấ
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING. Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
