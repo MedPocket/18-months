@@ -21,11 +21,42 @@ HIP được chia làm 2 nhóm lớn:
 - Đường huyết cao được chẩn đoán lần đầu trong thai kỳ
 - Có thể phát hiện ở bất kỳ thời điểm nào trong thai kỳ nhưng hầu hết **sau 24 tuần**
 
-## Tiêu chuẩn chẩn đoán đái tháo đường thực thụ
+## Bệnh sinh
+
+1. Kháng Insulin kết hợp từ 2 yếu tố chính:
+
+- Kháng Insulin của thai nghén bắt đầu từ nửa sau (tuần thứ 20) đến cuối thai kỳ nhằm giảm tiêu thụ glucose, chuyển glucose cho thai.
+- Kháng Insulin mạn tính từ trước đó.
+
+2. Khiếm khuyết chức năng tế bào beta không bù đủ sự gia tăng của kháng Insulin.
+
+![Thay đổi về nhu cầu Insulin](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/thay-doi-ve-nhu-cau-Insuline.png)
+
+## Yếu tố nguy cơ
+
+1. Người trưởng thành có BMI &ge; 23 $kg/m^2$ và có 1 trong các nguy cơ sau:
+
+- Gia đình có người mắc đái tháo đường thế hệ cận kề.
+- Tiền sử bệnh tim mạch do sơ vữa.
+- Tăng huyết áp (huyết áp tâm thu &ge; 140 mmHg hoặc huyết áp tâm trương &ge; 90 mmHg hay điều trị thước tăng huyết áp).
+- Nồng độ HDL-C trong máu < 0.9 mmol/L và/hoặc Triglycerid > 2.82 mmol/L.
+- Phụ nữ bị buồng trứng đa nang.
+- Ít vận động thể lực.
+- Có dấu hiệu đề kháng Insulin.
+
+2. Phụ nữ đã mắc đái tháo đường thai kỳ.
+3. HbA1C &ge; 5.7%, rối loạn glucose huyết đói hay rối loạn dung nạp glucose ở lần xét nghiệm trước đó.
+4. Người thực bắt đầu thực hiện xét nghiệm phát hiện đái tháo đường từ 45 tuổi.
+
+## Tiêu chuẩn chẩn đoán
+
+### Tiêu chuẩn chẩn đoán đái tháo đường trong thai kỳ
+
+Dựa trên tiêu chuẩn của đái tháo đường thực thụ, BN có thể mắc đái tháo đường từ trước nhưng khi có thai mới phát hiện đái tháo đường.
 
 ![Tiêu chuẩn chẩn đoán](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/tieu-chuan-chan-doan.png)
 
-## Tầm soát đái tháo đường thai kỳ
+### Tiêu chuẩn chẩn đoán đái tháo đường thai kỳ
 
 Bằng nghiệm pháp dung nạp đường huyết, từ tuần 24-28 của thai kỳ (Các thời gian khác nhất là sau 28 tuần vẫn có thể làm nghiệm pháp). Điều kiện thai phụ phải nhịn ăn ít nhất 8-10 giờ, sau đó uống 75 g đường khan pha với nước, xét nghiệm đường huyết đói, sau 1 giờ và sau 2 giờ.
 
@@ -36,6 +67,17 @@ Theo FIGO 2018, kết quả được đánh giá như sau:
 ## Mục tiêu điều trị
 
 ![Mục tiêu điều trị](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/muc-tieu-dieu-tri.png)
+
+**HbA1c ít có giá trị với đái tháo đường thai kỳ** vì đái tháo đường thai kỳ xuất hiện từ nửa sau thai kỳ (khoảng 4 tháng cuối) trong khi HbA1c có giá trị đánh giá trong vòng 3 tháng. Ngoài ra còn chịu ảnh hưởng của nhiều yếu tố như đời sống hồng cầu ngắn lại, máu pha loãng.
+
+![Mức độ tăng cân](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/muc-do-tang-can.png)
+
+## Nguyên tắc điều trị
+
+1. Cung cấp đủ năng lượng và các chất dinh dưỡng cho mẹ và thai nhi.
+2. Đạt mục tiêu về đường máu (tránh tăng đường máu sau ăn và hạ đường máu xa bữa ăn).
+3. Đạt cân nặng hợp lý.
+4. Phù hợp thói quen ăn uống, điều kiện kinh tế, không quá khó thực hiện.
 
 ## Phương pháp thay đổi đường huyết
 
@@ -80,7 +122,7 @@ Có thể tham khảo chi tiết [Hướng dẫn điều chỉnh lối sống](.
 
 ### Thuốc kiểm soát đường huyết
 
-**Bộ Y tế Việt Nam chưa cho phép việc dùng Metformin trong thai kỳ cho DIP/GDM.** Thuốc hạ đường huyết được chỉ định khi MNT thất bại là insulin.
+**Bộ Y tế Việt Nam chưa cho phép việc dùng Metformin trong thai kỳ cho DIP/GDM.** Thuốc hạ đường huyết được chỉ định khi MNT thất bại là Insulin.
 
 #### Chỉ định dùng Insulin
 
@@ -90,22 +132,34 @@ Có thể tham khảo chi tiết [Hướng dẫn điều chỉnh lối sống](.
   - Đường máu đói >7 mmol/l.
   - Đường máu bất kỳ > 11.1 mmol/l.
   - Đường máu làm dung nạp đường huyết > 11.1 mmol/l.
+- Đường máu đói và/hoặc đường máu sau ăn không đạt mục tiêu trong 20% số lần đo trong 1-2 tuần áp dụng điều chỉnh chế độ ăn.
+- Xem xét điều trị Insuline trong trường hợp đường đói 5.6-5.8 mmol/L kết hợp điều chỉnh chế độ ăn và tập luyện.
+
+#### Phân loại Insulin
+
+![Các loại Insulin](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/cac-loai-Insulin.png)
+_Khoanh màu đỏ là Insulin được cấp phép sử dụng cho phụ nữ có thai._
 
 #### Liều dùng Insulin
 
-Liều insulin thay đổi tùy theo giai đoạn của thai kỳ. Insulin được dùng 2 lần trong ngày. Mỗi lần cần phối hợp NPH insulin (tác dụng kéo dài) và regular insulin (thường).
+Liều Insulin thay đổi tùy theo giai đoạn của thai kỳ. Insulin được dùng 2 lần trong ngày. Mỗi lần cần phối hợp NPH Insulin (tác dụng kéo dài) và regular Insulin (thường).
 
 - Tam cá nguyệt 1: 0.7-0.8 U/kg/ngày
 - Tam cá nguyệt 2: 0.8-1.0 U/kg/ngày
 - Tam cá nguyệt 3: 0.9-1.2 U/kg/ngày
 
-Tổng liều insulin sẽ được chia ra như sau: 2/3 buổi sáng và 1/3 buổi tối. **Tuy nhiên chỉnh liều insulin còn phụ thuộc vào từng sản phụ.**
+Tổng liều Insulin sẽ được chia ra như sau: 2/3 buổi sáng và 1/3 buổi tối. **Tuy nhiên chỉnh liều Insulin còn phụ thuộc vào từng sản phụ.**
+
+#### Phác đồ minh họa
+
+![Phác đồ minh họa](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/phac-do-Insulin-1.png)
+![Phác đồ minh họa](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/phac-do-Insulin-2.png)
 
 #### Biến chứng tiêm Insulin
 
 - Hạ đường huyết.
 - Loạn dưỡng mỡ tại vị trí tiêm.
-- Kháng insulin.
+- Kháng Insulin.
 - Dị ứng.
 
 ## Theo dõi trong thai kỳ
@@ -125,7 +179,7 @@ Cần lưu ý những điểm mốc trong chăm sóc thai kỳ với đái tháo
 ## Theo dõi trong chuyển dạ
 
 Mức đường huyết được cho là hợp lý trong quá trình chuyển dạ là tử > 70 và < 126 mg/dL (> 3.9 và <7 mmol/L), vì ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những
-thai phụ cần điều trị insulin.
+thai phụ cần điều trị Insulin.
 
 Mức đường huyết trong chuyển dạ > 140 đến 180 mg/dL (7.8 đến 10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm cetone acid ở mẹ.
 
@@ -153,11 +207,12 @@ Mức đường huyết trong chuyển dạ > 140 đến 180 mg/dL (7.8 đến 1
 
 ### Đối với mẹ
 
-- Tiền sản giật.
+- Tăng huyết áp, tiền sản giật, nguy cơ nhiễm độc thai nghén.
 - Đa ối dẫn tới rau bong non, chuyển dạ sinh non, đờ tử cung.
-- Nhiễm trùng.
-- Mổ lấy thai.
+- Tăng nguy cơ mổ lấy thai.
 - Chuyển sang đái tháo đường thực thụ.
+- Nhiễm trùng.
+- Nguy cơ mắc đái tháo đường những lần sau.
 
 ### Đối với con
 
@@ -169,11 +224,36 @@ Mức đường huyết trong chuyển dạ > 140 đến 180 mg/dL (7.8 đến 1
 - Nguy cơ trong chuyển dạ như kẹt vai.
 - Lâu dài nguy cơ mắc đái tháo đường, thiểu năng tâm thần - thần kinh.
 
+Nhìn chung tăng đường huyết thai kỳ:
+
+- 3 tháng đầu nguy cơ dị tật thai kỳ.
+- 3 tháng giữa gây phát triển hành vi và thần kinh.
+- 3 tháng cuối thường thay đổi thể trạng như thai to.
+
 ## Theo dõi hậu sản
 
-**Kiểm tra lại đường huyết 6-12 tuần sau sinh.** Lặp lại tối thiểu mỗi 3 năm/lần. Nếu mắc đái tháo đường cần điều trị bằng thay đổi lỗi sống hoặc thuốc (Metformin).
+Nhiều thai phụ đái tháo đường **không cần thiết điều trị Insulin** trong 48 đến 72 giờ đầu sau sinh. Đường máu đói sau đẻ &ge; 7 mmol/L và/hoặc đường máu sau ăn &ge; 11.1 mmol/L cần điều trị Insulin. Cần dùng Insulin trong trường hợp có đường huyết tăng với liều khởi đầu sẽ bằng **2/3 liều trước khi mang thai**.
 
-Nhiều thai phụ đái tháo đường **không cần thiết điều trị insulin** trong 48 đến 72 giờ đầu sau sinh. Cần theo dõi đường huyết để có quyết định điều trị thích hợp. Cần dùng insulin trong trường hợp có đường huyết tăng với liều khởi đầu sẽ bằng **2/3 liều trước khi mang thai**.
+Làm lại nghiệm pháp dung nạp đường với 2 thời điểm (đói và 2h sau ăn) trong vòng 4-12 tuần sau đẻ.
+
+- Nếu đái tháo đường cần điều trị ngay.
+- Nếu tiền đái tháo đường (đường máu sau 2h từ 7-8.1 mmol/L) cần điều trị. Nếu đang cho con bú thì cần dùng Insulin mà không dùng thuốc khác. Nếu không cho con bú có thể cân nhắc dùng Metformin.
+- Nếu bình thường. Lặp lại tối thiểu mỗi 3 năm/lần. Nếu mắc đái tháo đường cần điều trị bằng thay đổi lỗi sống hoặc thuốc (Metformin).
+
+## Chuẩn bị trước mang thai
+
+![Chuẩn bị mang thai](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/chuan-bi-mang-thai-1.png)
+
+![Chuẩn bị mang thai](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/chuan-bi-mang-thai-2.png)
+
+Aspirin dự phòng đối với đái tháo đường thực sự khi mang thai liều từ 60-150 mg/ngày trong 3 tháng cuối thai thứ nhất để giảm nguy cơ tiền sản giật.
+
+## Câu hỏi thường gặp
+
+1. Đường huyết mao mạch sau ăn 2 giờ thường được tính như nào?
+   <br>Tính từ lúc bắt đầu bữa ăn (không phải khi ăn xong như mọi người lầm tưởng).
+2. Tiêm Insuline như thế nào?
+   <br>[Hướng dẫn sử dụng bút tiêm Insulin điều trị tiểu đường](https://youtu.be/u5PhTN2VT14?si=lvxC8YfaKneSvl5Q)
 
 ## Nguồn tham khảo
 
