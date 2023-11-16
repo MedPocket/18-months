@@ -152,8 +152,8 @@ Tổng liều Insulin sẽ được chia ra như sau: 2/3 buổi sáng và 1/3 b
 
 #### Phác đồ minh họa
 
-![Phác đồ minh họa](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/phac-do-Insulin-1.png)
-![Phác đồ minh họa](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/phac-do-Insulin-2.png)
+![Phác đồ minh họa](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/phac-do-insulin-1.png)
+![Phác đồ minh họa](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/phac-do-insulin-2.png)
 
 #### Biến chứng tiêm Insulin
 
