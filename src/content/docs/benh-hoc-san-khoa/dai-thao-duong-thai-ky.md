@@ -30,7 +30,7 @@ HIP được chia làm 2 nhóm lớn:
 
 2. Khiếm khuyết chức năng tế bào beta không bù đủ sự gia tăng của kháng Insulin.
 
-![Thay đổi về nhu cầu Insulin](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/thay-doi-ve-nhu-cau-Insulin.png)
+![Thay đổi về nhu cầu Insulin](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/thay-doi-ve-nhu-cau-insulin.png)
 
 ## Yếu tố nguy cơ
 
