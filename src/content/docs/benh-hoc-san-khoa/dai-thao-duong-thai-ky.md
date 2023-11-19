@@ -30,7 +30,7 @@ HIP được chia làm 2 nhóm lớn:
 
 2. Khiếm khuyết chức năng tế bào beta không bù đủ sự gia tăng của kháng Insulin.
 
-![Thay đổi về nhu cầu Insulin](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/thay-doi-ve-nhu-cau-insuline.png)
+![Thay đổi về nhu cầu Insulin](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/thay-doi-ve-nhu-cau-Insulin.png)
 
 ## Yếu tố nguy cơ
 
@@ -133,11 +133,11 @@ Có thể tham khảo chi tiết [Hướng dẫn điều chỉnh lối sống](.
   - Đường máu bất kỳ > 11.1 mmol/l.
   - Đường máu làm dung nạp đường huyết > 11.1 mmol/l.
 - Đường máu đói và/hoặc đường máu sau ăn không đạt mục tiêu trong 20% số lần đo trong 1-2 tuần áp dụng điều chỉnh chế độ ăn.
-- Xem xét điều trị Insuline trong trường hợp đường đói 5.6-5.8 mmol/L kết hợp điều chỉnh chế độ ăn và tập luyện.
+- Xem xét điều trị Insulin trong trường hợp đường đói 5.6-5.8 mmol/L kết hợp điều chỉnh chế độ ăn và tập luyện.
 
 #### Phân loại Insulin
 
-![Các loại Insulin](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/cac-loai-Insulin.png)
+![Các loại Insulin](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/cac-loai-insulin.png)
 _Khoanh màu đỏ là Insulin được cấp phép sử dụng cho phụ nữ có thai._
 
 #### Liều dùng Insulin
@@ -252,7 +252,7 @@ Aspirin dự phòng đối với đái tháo đường thực sự khi mang thai
 
 1. Đường huyết mao mạch sau ăn 2 giờ thường được tính như nào?
    <br>Tính từ lúc bắt đầu bữa ăn (không phải khi ăn xong như mọi người lầm tưởng).
-2. Tiêm Insuline như thế nào?
+2. Tiêm Insulin như thế nào?
    <br>[Hướng dẫn sử dụng bút tiêm Insulin điều trị tiểu đường](https://youtu.be/u5PhTN2VT14?si=lvxC8YfaKneSvl5Q)
 
 ## Nguồn tham khảo
