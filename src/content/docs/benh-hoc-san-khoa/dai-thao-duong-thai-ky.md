@@ -150,10 +150,28 @@ Liều Insulin thay đổi tùy theo giai đoạn của thai kỳ. Insulin đư�
 
 Tổng liều Insulin sẽ được chia ra như sau: 2/3 buổi sáng và 1/3 buổi tối. **Tuy nhiên chỉnh liều Insulin còn phụ thuộc vào từng sản phụ.**
 
-#### Phác đồ minh họa
+#### Phác đồ điều chỉnh cho từng trường hợp
 
-![Phác đồ minh họa](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/phac-do-insulin-1.png)
-![Phác đồ minh họa](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/phac-do-insulin-2.png)
+**Trường hợp 1: Chỉ đường máu đói sáng cao**
+
+- Insulin trung gian lúc đi ngủ 0.1-0.2 đơn vị/kg.
+- Chỉnh liều 2-3 ngày/lần, mỗi 1-2 đơn vị cho đến khi đạt mục tiêu.
+
+**Trường hợp 2: Chỉ đường máu sau ăn cao**
+
+- Insulin nhanh, liều 0.1 đơn vị/kg/bữa ăn; 1-3 mũi trước bữa ăn có đường máu tăng sau ăn (hoặc 1,5 đơn vị/10g carbohydrate vào bữa sáng, 1 đơn vị/10g carbohydrate vào bữa trưa và tối).
+- Chỉnh liều 2-3 ngày/lần, mỗi 1-2 đơn vị cho đến khi đạt mục tiêu.
+
+**Trường hợp 3: Cả đường máu đói và sau ăn cao**
+
+- 4-5 mũi Insulin/ngày.
+- Liều ban đầu 0,2-0,3 đơn vị/kg/ngày:
+  - 50-70% insulin nhanh (chia 3 bữa ăn)
+  - 30-50% insulin nền chia 1-2 mũi.
+- Thử đường máu mao mạch nhiều lần/ngày đói buổi sáng, 1 hoặc 2 giờ sau ăn, căn cứ chỉnh liều:
+  - Căn cứ đường máu đói buổi sáng để chỉnh liều insuline nền buổi tối.
+  - Căn cứ đường máu sau mỗi bữa ăn để chỉnh liều insulin trước mỗi bữa ăn.
+- Tiếp tục theo dõi đường máu hàng ngày để chỉnh liều, nhu cầu insulin tăng dần cho đến trước khi đẻ.
 
 #### Biến chứng tiêm Insulin
 
@@ -242,11 +260,18 @@ Làm lại nghiệm pháp dung nạp đường với 2 thời điểm (đói và
 
 ## Chuẩn bị trước mang thai
 
-![Chuẩn bị mang thai](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/chuan-bi-mang-thai-1.png)
-
-![Chuẩn bị mang thai](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/chuan-bi-mang-thai-2.png)
-
-Aspirin dự phòng đối với đái tháo đường thực sự khi mang thai liều từ 60-150 mg/ngày trong 3 tháng cuối thai thứ nhất để giảm nguy cơ tiền sản giật.
+- Mục tiêu lý tưởng HbA1c < 6.5% an toàn (không có hạ đường huyết) để tránh dị tật thai nhi, tiền sản giật, thai to, đẻ non và các biến chứng khác.
+- Đái tháo đường type 2 cần chuyển sang insulin và đạt mục tiêu HbA1c trước khi có thai.
+- Ngừng các thuốc hạ đường huyết khác insulin khi có thai. Nên sử dụng insulin nhiều mũi hoặc tiêm dưới da liên tục.
+- Đối với đái tháo đường type 1:
+  - Bắt đầu với liều trước mang thai và chỉnh theo nhu cầu của thời gian mang thai.
+  - Insulin nhanh 50-60% tổng liều/ngày, chia 3 bữa.
+  - Insulin nền 40-50%, chia 1-2 lần.
+- Đối với đái tháo đường type 2:
+  - Bắt đầu với liều 0.4-0.5 đơn vị/kg/ngày.
+  - Chỉnh liều tăng dần từ tuần 13: 0.8 đơn vị/kg từ tuần 13-26, 0.9 đơn vị/kg từ 26-36 và 1 đơn vị/kg từ tuần 36-khi đẻ.
+  - Sản phụ béo phì cần liều khởi đầu cao hơn 1-2 đơn vị/kg/ngày.
+- Aspirin dự phòng đối với đái tháo đường thực sự khi mang thai liều từ 60-150 mg/ngày trong 3 tháng cuối thai thứ nhất để giảm nguy cơ tiền sản giật.
 
 ## Câu hỏi thường gặp
 
