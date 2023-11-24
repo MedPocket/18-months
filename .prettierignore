@@ -1,3 +1,5 @@
+**/*.min.js
+**/*.min.css
 dist/
 node_modules/
 pnpm-lock.yaml
