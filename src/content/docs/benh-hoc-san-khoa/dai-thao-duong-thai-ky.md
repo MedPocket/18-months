@@ -196,7 +196,7 @@ Cần lưu ý những điểm mốc trong chăm sóc thai kỳ với đái tháo
 
 ## Theo dõi trong chuyển dạ
 
-Mức đường huyết được cho là hợp lý trong quá trình chuyển dạ là tử > 70 và < 126 mg/dL (> 3.9 và <7 mmol/L), vì ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những
+Mức đường huyết được cho là hợp lý trong quá trình chuyển dạ là từ > 70 và < 126 mg/dL (> 3.9 và <7 mmol/L), vì ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những
 thai phụ cần điều trị Insulin.
 
 Mức đường huyết trong chuyển dạ > 140 đến 180 mg/dL (7.8 đến 10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm cetone acid ở mẹ.
