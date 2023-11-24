@@ -209,7 +209,7 @@ lastUpdated: 2023-10-07
 
 - Hoạt chất - hàm lượng: Estradiol valerat 2mg.
 - Dạng: Viên uống.
-- Tác dụng: Estrogen gắt sữa sau sảy, hút thai.
+- Tác dụng: Estrogen cắt sữa sau sảy, hút thai.
 - Liều: Đơn thường dùng 2 viên/lần x 2 lần/ngày uống sáng, chiều.
 
 #### Calci clorid 0.5g/5ml
@@ -282,7 +282,7 @@ lastUpdated: 2023-10-07
 3. Lidocain 40 mg/2 ml x 02 ống, pha 10 ml nước cất, tê tầng sinh môn
 4. Vitamin K1 (Vinphyton 1 mg/ml) 1 mg/ml x 01 ống, tiêm bắp con
 
-#### Sau đẻ 15 phút
+#### 15 phút sau đẻ
 
 1. Oxytocin 10 UI/ml x 01 ống, pha 01 chai Glucose 5% 500ml x 01 chai, truyền tĩnh mạch 60 giọt/phút
 2. Methyl ergomettrin maleat (Vingomin) 0.2 mg/ml x 01 ống, tiêm bắp
@@ -335,9 +335,21 @@ lastUpdated: 2023-10-07
 3. Tranexamic 500 mg x 01 ống, tiêm bắp
 4. Lidocain 40 mg/2 ml x 01 ống, tiêm bắp
 
-#### Sau nạo 15 phút
+#### 15 phút sau nạo
 
 1. Oxytocin 10 UI/ml x 01 ống, pha 01 chai Glucose 5% 500ml x 01 chai, truyền tĩnh mạch 60 giọt/phút
 2. Amoxicilin 875 mg + Acid clavulanic 125 mg x 01 viên, uống
 3. Metronidazol 250mg x 02 viên, uống
 4. Misopriston 400 mcg x 02 viên, đặt âm đạo
+
+#### Ngày 1 sau nạo
+
+1. Amoxicilin 875 mg + Acid clavulanic 125 mg x 02 viên, uống 01 viên/lần x 02 lần/ngày, sáng/chiều
+2. Metronidazol 250mg x 04 viên, uống 02 viên/lần x 02 lần/ngày, sáng/chiều
+3. Misopriston 400 mcg x 02 viên, đặt dưới lưỡi 01 viên/lần x 02 lần/ngày, sáng/chiều
+
+#### Thuốc ra viện
+
+1. Amoxicilin 875 mg + Acid clavulanic 125 mg x 10 viên, uống 01 viên/lần x 02 lần/ngày, sáng/chiều
+2. Metronidazol 250mg x 20 viên, uống 02 viên/lần x 02 lần/ngày, sáng/chiều
+3. Estradiol valerat (Progynova Tab) 2mg x 20 viên, uống 02 viên/lần x 02 lần/ngày, sáng/chiều
