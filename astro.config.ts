@@ -21,6 +21,9 @@ export default defineConfig({
       social: {
         github: 'https://github.com/MedPocket/18-months',
       },
+      editLink: {
+        baseUrl: 'https://github.com/MedPocket/18-months/tree/main',
+      },
       sidebar: [
         {
           label: 'Bệnh Học Sản Khoa',
