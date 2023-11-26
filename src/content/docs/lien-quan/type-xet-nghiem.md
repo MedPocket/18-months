@@ -6,6 +6,4 @@ lastUpdated: 2023-10-09
 
 ![Type xét nghiệm](../../../assets/lien-quan/type-xet-nghiem/type-xet-nghiem.jpg)
 
-:::note
-Thường lấy khoảng 2ml máu mỗi type xét nghiệm.
-:::
+_Thường lấy khoảng 2ml máu mỗi type xét nghiệm._
