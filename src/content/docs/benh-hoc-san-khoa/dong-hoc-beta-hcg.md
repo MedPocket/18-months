@@ -39,4 +39,4 @@ lastUpdated: 2023-11-01
 ## Nguồn tham khảo
 
 - TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
-- [Nồng độ beta HCG thay đổi theo tuổi thai như thế nào?](https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/san-phu-khoa-va-ho-tro-sinh-san/nong-do-beta-hcg-thay-doi-theo-tuoi-thai-nhu-nao/) - Vinmec
+- [Nồng độ beta HCG thay đổi theo tuổi thai như thế nào?](https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/san-phu-khoa-va-ho-tro-sinh-san/nong-do-beta-hcg-thay-doi-theo-tuoi-thai-nhu-nao/) - Vinmec.

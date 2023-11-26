@@ -252,7 +252,7 @@ lastUpdated: 2023-10-07
 - Hoạt chất - hàm lượng: Sắt 40mg/15ml.
 - Dạng: Ống uống.
 - Tác dụng: Bổ sung sắt.
-- Liều: ![Liều sắt theo ACOG](../../../assets/ghi-chu/mot-so-thuoc-trong-san-khoa/sat.png)
+- Liều: ![Liều sắt theo ACOG](../../../assets/lien-quan/mot-so-thuoc-trong-san-khoa/sat.png)
   [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/cong-dung-cua-thuoc-ferlatum/)
 
 #### Propess

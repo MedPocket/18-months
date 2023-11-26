@@ -38,9 +38,9 @@ export default defineConfig({
           },
         },
         {
-          label: 'Ghi Chú',
+          label: 'Liên Quan',
           autogenerate: {
-            directory: 'ghi-chu',
+            directory: 'lien-quan',
           },
         },
         /* {

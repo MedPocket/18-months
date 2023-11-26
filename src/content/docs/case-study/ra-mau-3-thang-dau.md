@@ -89,4 +89,4 @@ sản phụ cần được loại bỏ thai trứng sớm để tránh nguy cơ 
 
 ## Nguồn tham khảo
 
-- [Chảy máu trong nửa đầu thời kỳ mang thai](https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/san-phu-khoa-va-ho-tro-sinh-san/chay-mau-trong-nua-dau-thoi-ky-mang-thai/) - Vinmec
+- [Chảy máu trong nửa đầu thời kỳ mang thai](https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/san-phu-khoa-va-ho-tro-sinh-san/chay-mau-trong-nua-dau-thoi-ky-mang-thai/) - Vinmec.
