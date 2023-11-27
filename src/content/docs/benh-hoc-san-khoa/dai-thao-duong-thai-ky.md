@@ -189,7 +189,7 @@ Cần lưu ý những điểm mốc trong chăm sóc thai kỳ với đái tháo
 - 20 tuần: **Siêu âm hình thái thai** đặc biệt **siêu âm tim**.
 - 28 tuần: **Siêu âm** đánh giá **sự phát triển thai và AFI**. **Khám mắt** đối với các trường hợp đái tháo đường trước thai kỳ.
 - 32 tuần: Tương tự như lúc khám thai 28 tuần.
-- 36 tuần: **Siêu âm** đánh giá sự phát triển thai và AFI. Ngoài ra, sẽ cung cấp và thảo luận về thời điểm, cách thức, xử trí lúc sanh, phương pháp vô cảm, thay đổi điều trị tăng đường huyết trong và sau sinh, chăm sóc bé sau sinh, ngừa thai và theo dõi.
+- 36 tuần: **Siêu âm** đánh giá sự phát triển thai và AFI. Ngoài ra, sẽ cung cấp và thảo luận về thời điểm, cách thức, xử trí lúc sinh, phương pháp vô cảm, thay đổi điều trị tăng đường huyết trong và sau sinh, chăm sóc bé sau sinh, ngừa thai và theo dõi.
 - 37-38 tuần: **Khởi phát chuyển dạ hay mổ lấy thai** nếu có chỉ định.
 - 38 tuần: Thực hiện **test đánh giá sức khỏe thai**.
 - 39 tuần: Thực hiện **test đánh giá sức khỏe thai**, lên kế hoạch chấm dứt thai kỳ. Phụ nữ có đái tháo đường thai kỳ **không nên kéo dài quá 40 tuần 6 ngày**.

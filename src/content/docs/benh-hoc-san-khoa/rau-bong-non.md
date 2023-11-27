@@ -6,7 +6,7 @@ lastUpdated: 2023-11-26
 
 ## Định nghĩa
 
-rau bong non là trường hợp rau bám đúng vị trí nhưng bị bong sớm trước khi thai sổ ra ngoài.
+Rau bong non là trường hợp rau bám đúng vị trí nhưng bị bong sớm trước khi thai sổ ra ngoài.
 
 ## Cơ chế bệnh sinh
 
@@ -37,8 +37,7 @@ xoắn, gây bất thường ở các mạch này, là một trong những yếu
 
 ### Triệu chứng lâm sàng
 
-Lâm sàng của rau bong non thường là **đau bụng khởi phát đột ngột, ra huyết âm đạo và cơn co tử cung cường
-tính** hay tăng trương lực cơ bản, có thể có kèm theo suy thai hoặc thai lưu.
+Lâm sàng của rau bong non thường là **đau bụng khởi phát đột ngột, ra huyết âm đạo và cơn co tử cung cường tính hay tăng trương lực cơ bản**, có thể có kèm theo suy thai hoặc thai lưu.
 
 ![EFM rau bong non](../../../assets/benh-hoc-san-khoa/rau-bong-non/EFM-rau-bong-non.png)
 
@@ -111,11 +110,11 @@ Mục đích:
 
 Tuỳ thuộc vào tình trạng lâm sàng, tuổi thai và lượng mất máu.
 
-Ngoại trừ những trường hợp mà lượng máu mất vào khối máu tụ rất ít, **đa số các trường hợp rau bong non thường phải cho sanh càng sớm càng tốt.**
+Ngoại trừ những trường hợp mà lượng máu mất vào khối máu tụ rất ít, **đa số các trường hợp rau bong non thường phải cho sinh càng sớm càng tốt.**
 
 **Tia ối sớm luôn luôn có lợi trong rau bong non, và cần được thực hiện trong mọi trường hợp.** Tia ối giúp làm giảm áp lực giữa các khoảng gian gai rau, giúp làm giảm chảy máu sau rau và giảm sự phóng thích thromboplastin vào tuần hoàn mẹ, hơn nữa còn có thể thúc quá trình chuyển dạ xảy ra nhanh hơn.
 
-Với các tình huống rau bong non và thai có khả năng sống và không đủ điều kiện sanh ngã âm đạo một cách nhanh chóng thì **mổ lấy thai là biện pháp ưu tiên.** Nếu thai đã mất hoặc thai không có khả năng sống, có thể **xem xét khả năng ưu tiên cho sanh ngả âm đạo,** độ nặng của các vấn đề sốc giảm thể tích và DIC được xem là các yếu tố giúp quyết định cuộc sanh.
+Với các tình huống rau bong non và thai có khả năng sống và không đủ điều kiện sinh ngã âm đạo một cách nhanh chóng thì **mổ lấy thai là biện pháp ưu tiên.** Nếu thai đã mất hoặc thai không có khả năng sống, có thể **xem xét khả năng ưu tiên cho sinh ngả âm đạo,** độ nặng của các vấn đề sốc giảm thể tích và DIC được xem là các yếu tố giúp quyết định cuộc sinh.
 
 **Một nguyên tắc là rau bong non càng để lâu thì càng mất máu và tình trạng DIC-tiêu sợi huyết càng tiến triển xa.**
 

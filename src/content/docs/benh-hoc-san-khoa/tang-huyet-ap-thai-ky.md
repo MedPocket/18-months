@@ -228,7 +228,7 @@ Chống chỉ định của nicardipin gồm cơn đau thắt ngực không ổn
 
 **$MgSO_4$ được dùng để phòng ngừa co giật. $MgSO_4$ làm cho co giật không thể xảy ra chứ không điều trị bệnh sinh của tiền sản giật.** Tại các bản đệm thần kinh-cơ, ion Mg++ trong $MgSO_4$ cạnh tranh với ion Ca++, do đó ngăn cản co giật xuất hiện. $MgSO_4$ còn kích hoạt giãn mạch máu não, làm giảm thiếu máu cục bộ bởi sự co thắt mạch máu não trong cơn sản giật.
 
-Cách dùng $MgSO_4$: Liều khởi đầu: 4-6 gram $MgSO_4$ trong 20 phút (6 g $MgSO_4$ pha trong 100 mL Glucose 5%). Duy trì: 2 g $MgSO_4$ mỗi giờ (tương đương 40 g trong 1 L Lactated Ringer chảy 50 mL/giờ hoặc 20 g trong 1 L Lactated Ringer chảy 100 mL/giờ), trong chuyển dạ và sau sanh 12-24 giờ. Ngưng $MgSO_4$ sau sinh 24 giờ, hoặc trong trường hợp có biểu hiện ngộ độc $MgSO_4$.
+Cách dùng $MgSO_4$: Liều khởi đầu: 4-6 gram $MgSO_4$ trong 20 phút (6 g $MgSO_4$ pha trong 100 mL Glucose 5%). Duy trì: 2 g $MgSO_4$ mỗi giờ (tương đương 40 g trong 1 L Lactated Ringer chảy 50 mL/giờ hoặc 20 g trong 1 L Lactated Ringer chảy 100 mL/giờ), trong chuyển dạ và sau sinh 12-24 giờ. Ngưng $MgSO_4$ sau sinh 24 giờ, hoặc trong trường hợp có biểu hiện ngộ độc $MgSO_4$.
 
 **Chỉ dùng $MgSO_4$ cho tiền sản giật có biệu hiện nặng.**
 
@@ -263,7 +263,7 @@ Nếu mẹ có tăng huyết áp nhiều, thiểu niệu, dấu hiệu rối lo�
 
 Theo dõi liên tục điện tim bằng monitor. Sản giật thường làm nhịp tim thai thay đổi thoáng qua, thường tự giới hạn trong vòng 15 phút. Dấu hiệu lo ngại là khi biến động tim thai kéo dài hơn 20 phút mà chưa hồi phục. Điều này thể hiện hệ đệm của thai đã cạn kiệt, không còn đủ khả năng đệm khi đã xảy ra toan hô hấp.
 
-Chỉ định chấm dứt thai kỳ thường phải được thực hiện trong vòng 12 giờ sau khi kiểm soát được sản giật. Khởi phát chuyển dạ bằng oxytocin nếu tình trạng cổ tử cung thuận lợi. Mổ lấy thai là biện pháp thích hợp, do tránh được stress do qua trình chuyển dạ và rút ngắn được thời gian nguy cơ xảy ra các cơn giật kế tiếp. Khi mổ có thể gây mê toàn thân hoặc gây tê ngoài màng cứng với điều kiện là không có rối loạn đông máu. Không được dùng ergot alkaloids (ergometrin) để dự phòng hay điều trị băng huyết sau sanh trong tiền sản giậtsản giật vì chúng làm tăng nguy cơ co giật và tai biến mạch máu não.
+Chỉ định chấm dứt thai kỳ thường phải được thực hiện trong vòng 12 giờ sau khi kiểm soát được sản giật. Khởi phát chuyển dạ bằng oxytocin nếu tình trạng cổ tử cung thuận lợi. Mổ lấy thai là biện pháp thích hợp, do tránh được stress do qua trình chuyển dạ và rút ngắn được thời gian nguy cơ xảy ra các cơn giật kế tiếp. Khi mổ có thể gây mê toàn thân hoặc gây tê ngoài màng cứng với điều kiện là không có rối loạn đông máu. Không được dùng ergot alkaloids (ergometrin) để dự phòng hay điều trị băng huyết sau sinh trong tiền sản giậtsản giật vì chúng làm tăng nguy cơ co giật và tai biến mạch máu não.
 
 ## Chấm dứt thai kỳ
 
@@ -315,13 +315,13 @@ Cần cân nhắc tình trạng mẹ có cho phép kéo dài thêm 48 giờ cho 
 
 Việc kéo dài thêm thai kỳ hoàn toàn không có lợi, mà chỉ dẫn đến làm tăng nguy cơ cho mẹ và con. Ở tuổi thai này, có thể chấm dứt thai kỳ vô điều kiện.
 
-Thông thường, người ta cố gắng khởi phát chuyển dạ để chấm dứt thai kỳ. **Chỉ nên mổ lấy thai trong trường hợp khởi phát chuyển dạ thất bại hoặc trong các trường hợp mà tính mạng mẹ hoặc thai đang nguy kịch, cần chấm dứt ngay.** Thai phụ này có nguy cơ cao băng huyết sau sanh, và cũng dung nạp rất kém băng huyết sau sanh do không có sự tăng thỏa đáng của dự trữ thể tích máu trong thai kỳ, hậu quả của thoát mạch và cô đặc máu.
+Thông thường, người ta cố gắng khởi phát chuyển dạ để chấm dứt thai kỳ. **Chỉ nên mổ lấy thai trong trường hợp khởi phát chuyển dạ thất bại hoặc trong các trường hợp mà tính mạng mẹ hoặc thai đang nguy kịch, cần chấm dứt ngay.** Thai phụ này có nguy cơ cao băng huyết sau sinh, và cũng dung nạp rất kém băng huyết sau sinh do không có sự tăng thỏa đáng của dự trữ thể tích máu trong thai kỳ, hậu quả của thoát mạch và cô đặc máu.
 
 ## Theo dõi sau sinh
 
 Sau khi đã chấm dứt thai kỳ, nguy cơ xảy ra sản giật và hội chứng HELLP vẫn còn đó.
 
-Nếu sản phụ đang dùng $MgSO_4$ thì điều trị này phải được tiếp tục kéo dài 12-24 giờ sau sanh.
+Nếu sản phụ đang dùng $MgSO_4$ thì điều trị này phải được tiếp tục kéo dài 12-24 giờ sau sinh.
 
 Không nên kê toa thuốc kháng viêm không steroid để giảm đau hậu sản đối với sản phụ tiền sản giật nặng.
 
@@ -333,7 +333,7 @@ Tại thời điểm xuất viện, đa số sản phụ có huyết áp trở v
 
 WHO khuyến cáo dùng Aspirin liều thấp 60-80 mg/ngày để dự phòng tiền sản giật ở các phụ nữ có nguy cơ cao. Các thai phụ với ít nhất một đặc điểm tiền căn sau được xếp vào nhóm có nguy cao tiền sản giật:
 
-- Có tiền sản giật trong thai kỳ trước đó, nhất là có tiền căn bị tiền sản giật khởi phát sớm và sanh non trước khi tuổi thai đạt 34 tuần.
+- Có tiền sản giật trong thai kỳ trước đó, nhất là có tiền căn bị tiền sản giật khởi phát sớm và sinh non trước khi tuổi thai đạt 34 tuần.
 - Đái tháo đường.
 - Tăng huyết áp mạn.
 - Bệnh lý thận.

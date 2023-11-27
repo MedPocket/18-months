@@ -39,14 +39,14 @@ Nội mạc tử cung của mẹ gọi là màng rụng và chia làm 3 phần (
 
 Biến đổi của màng rụng rau:
 
-- Lá nuôi hợp bào làm xói mòn những vùng mô màng rụng rau → khoảng gian rau gai có kích thước không đồng đều.
+- Lá nuôi hợp bào làm xói mòn những vùng mô màng rụng rau &rarr; khoảng gian rau gai có kích thước không đồng đều.
 - Phần còn lại là các vách rau, vách rau nhô vào khoang gai rau chia thành nhiều khoang, mỗi khoang chứa 1 múi rau gồm vài gai rau gốc, 1 rau: 10-38 múi rau.
 - Phần rau thuộc mẹ và phần rau thuộc con được neo giữ do những nhung mao bám (gai rau bám) vào đĩa đáy/vách ra.
 
 Biến đổi của màng rụng tử cung:
 
-- Phản ứng màng rụng: các tế bào liên kết tích trữ chất dinh dưỡng → trương to → tế bào rụng → lớp đặc.
-- Lớp sâu: các tuyến bị ép dẹt → lớp xốp.
+- Phản ứng màng rụng: các tế bào liên kết tích trữ chất dinh dưỡng &rarr; trương to &rarr; tế bào rụng &rarr; lớp đặc.
+- Lớp sâu: các tuyến bị ép dẹt &rarr; lớp xốp.
 
 Biến đổi của màng rụng trứng:
 

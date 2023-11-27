@@ -26,9 +26,9 @@ Siêu âm đầu dò âm đạo phân loại nhau tiền đạo dùng đơn vị
 ## Yếu tố nguy cơ
 
 - Nhau tiền đạo ở thai kỳ trước.
-- Sanh nhiều lần.
+- Sinh nhiều lần.
 - Mẹ lớn tuổi.
-- Tiền căn mổ sanh hoặc đã chịu các phẫu thuật khác trên tử cung như bóc nhân xơ tử cung.
+- Tiền căn mổ sinh hoặc đã chịu các phẫu thuật khác trên tử cung như bóc nhân xơ tử cung.
 - Các yếu tố khác như sử dụng cocaine, hút thuốc lá.
 
 ## Chẩn đoán
@@ -47,7 +47,7 @@ Cộng hưởng từ (MRI) có thể có ích trong khảo sát nhau cài răng 
 
 **Máu chảy ra** ngoài trong nhau tiền đạo là **máu mẹ**.
 
-**Khả năng tự cầm máu sau sanh của cuộc sanh với nhau tiền đạo rất kém.** Cơ chế cầm máu bình thường sau sổ nhau trong các trường hợp nhau bám ở thân tử cung là do các thớ **cơ đan chéo** siết chặt các mạch máu bị hở ra sau sanh ở các hồ máu. Trong nhau tiền đạo, do các hồ máu có vị trí là ở đoạn dưới tử cung, **không có các lớp cơ đan chéo**, nên các mạch máu này không được siết lại sau khi sanh.
+**Khả năng tự cầm máu sau sinh của cuộc sinh với nhau tiền đạo rất kém.** Cơ chế cầm máu bình thường sau sổ nhau trong các trường hợp nhau bám ở thân tử cung là do các thớ **cơ đan chéo** siết chặt các mạch máu bị hở ra sau sinh ở các hồ máu. Trong nhau tiền đạo, do các hồ máu có vị trí là ở đoạn dưới tử cung, **không có các lớp cơ đan chéo**, nên các mạch máu này không được siết lại sau khi sinh.
 
 **Phân biệt ra máu 3 tháng cuối thai kỳ giữa rau tiền đạo, rau bong non và vỡ tử cung.** Vỡ tử cung có những dấu hiệu riêng. Có thể chẩn đoán phân biệt rau tiền đạo và rau bong non qua bảng sau:
 
