@@ -4,6 +4,8 @@ description: Rau bong non.
 lastUpdated: 2023-11-26
 ---
 
+Rau bong non là một cấp cứu sản khoa nghiêm trọng.
+
 ## Định nghĩa
 
 Rau bong non là trường hợp rau bám đúng vị trí nhưng bị bong sớm trước khi thai sổ ra ngoài.

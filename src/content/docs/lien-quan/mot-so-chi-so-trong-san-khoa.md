@@ -1,10 +1,14 @@
 ---
-title: Chỉ số ối
-description: Chỉ số ối.
-lastUpdated: 2023-10-10
+title: Một số chỉ số trong Sản khoa
+description: Một số chỉ số trong Sản khoa.
+lastUpdated: 2023-11-29
 ---
 
-## AFI
+Chi tiết về một số chỉ số trong sản khoa.
+
+## Chỉ số ối
+
+### AFI
 
 AFI (Amniotic Fluid Index) chỉ số ối, thường dùng bách phân vị theo tuổi thai để đánh giá. Nếu lớn hơn bách phân vị thứ 95 là dư ối, nhỏ hơn bách phân vị thứ 5 là thiểu ối. Dưới đây là chỉ số ối tham khảo:
 
@@ -14,7 +18,7 @@ AFI (Amniotic Fluid Index) chỉ số ối, thường dùng bách phân vị the
 - AFI = 13-25 cm dư ối.
 - AFI > 25 cm đa ối.
 
-## SDP
+### SDP
 
 SDP (Single-deepest pocket measurement) là độ sâu của khoang ối lớn nhất. Dùng các điểm cắt sau để đánh giá:
 
@@ -22,6 +26,17 @@ SDP (Single-deepest pocket measurement) là độ sâu của khoang ối lớn n
 - SDP = 1-2 cm ối cận biên.
 - SPD = 2-8 cm ối bình thường.
 - SPD > 8 cm dư ối.
+
+## Chỉ số Bishop
+
+![Chỉ số Bishop](../../../assets/lien-quan/mot-so-chi-so-trong-san-khoa/chi-so-bishop.jpg)
+
+Đánh giá:
+
+- < 5 khả năng khởi phát chuyển dạ thất bại.
+- 5-6 khởi phát chuyển dạ dè dặt.
+- 7-9 khởi phát chuyển dạ trong vòng 8 giờ.
+- &#62; 10 khởi phát chuyển dạ trong 2-3 giờ.
 
 ## Nguồn tham khảo
 

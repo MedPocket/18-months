@@ -1,6 +1,6 @@
 ---
 title: Vỡ tử cung
-description: Vỡ tử cung
+description: Vỡ tử cung.
 lastUpdated: 2023-11-23
 ---
 

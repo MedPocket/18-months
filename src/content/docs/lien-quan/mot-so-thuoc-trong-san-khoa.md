@@ -1,8 +1,10 @@
 ---
 title: Một số thuốc trong Sản khoa
-description: Một số thuốc trong Sản khoa
+description: Một số thuốc trong Sản khoa.
 lastUpdated: 2023-10-07
 ---
+
+Chi tiết về một số thuốc thường dùng trong sản khoa.
 
 ## Các nhóm thuốc thường dùng
 

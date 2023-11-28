@@ -1,6 +1,6 @@
 ---
 title: Các type xét nghiệm
-description: Các type xét nghiệm
+description: Các type xét nghiệm.
 lastUpdated: 2023-10-09
 ---
 

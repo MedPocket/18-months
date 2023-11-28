@@ -1,8 +1,10 @@
 ---
 title: Tăng huyết áp thai kỳ
-description: Tăng huyết áp thai kỳ
+description: Tăng huyết áp thai kỳ.
 lastUpdated: 2023-10-25
 ---
+
+Thai kỳ với tăng huyết áp là một nhóm lớn các bệnh lý với bệnh sinh không thuần nhất, đòi hỏi các kế hoạch quản lý khác nhau.
 
 ## Cơ chế bệnh sinh
 

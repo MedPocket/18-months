@@ -1,8 +1,10 @@
 ---
 title: Đái tháo đường thai kỳ (HIP)
-description: Đái tháo đường thai kỳ (HIP - hyperglycemia in pregnancy)
+description: Đái tháo đường thai kỳ (HIP - hyperglycemia in pregnancy).
 lastUpdated: 2023-10-22
 ---
+
+Theo Liên đoàn các nhà Sản Phụ khoa Thế giới (FIGO), HIP (hypergylcemia in pregnancy) là thuật ngữ dùng để chỉ mọi tình trạng rối loạn về biến dưỡng đường xảy ra khi mang thai.
 
 ## Phân loại
 

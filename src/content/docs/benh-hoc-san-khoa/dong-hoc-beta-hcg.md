@@ -1,8 +1,11 @@
 ---
 title: Động học beta hCG (β-hCG)
-description: Động học beta hCG (Human Chorionic Gonadotropin)
+description: Động học beta hCG (Human Chorionic Gonadotropin).
 lastUpdated: 2023-11-01
 ---
+
+human Chorionic Gonadotropin (hCG) là một glycoprotein có trọng lượng phân tử 36000-40000 Da. Đây là hormone
+có chứa nhiều liên kết carbonhydrate nhất trong các hormone ở loài người.
 
 ## Nguồn gốc
 

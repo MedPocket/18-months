@@ -1,6 +1,6 @@
 ---
 title: Ra máu 3 tháng đầu thai kỳ
-description: Tiếp cận sản phụ ra máu 3 tháng đầu thai kỳ
+description: Tiếp cận sản phụ ra máu 3 tháng đầu thai kỳ.
 lastUpdated: 2023-11-01
 ---
 

@@ -1,8 +1,10 @@
 ---
-title: Đẻ non / Dọa đẻ non
-description: Đẻ non / Dọa đẻ non
+title: Đẻ non/Dọa đẻ non
+description: Đẻ non/Dọa đẻ non.
 lastUpdated: 2023-11-10
 ---
+
+Đẻ non cùng với các hậu quả khác của nó là nguyên nhân gây tử vong sơ sinh hàng đầu.
 
 ## Định nghĩa
 
