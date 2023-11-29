@@ -1,92 +1,66 @@
 ---
 title: Ra máu 3 tháng đầu thai kỳ
 description: Tiếp cận sản phụ ra máu 3 tháng đầu thai kỳ.
-lastUpdated: 2023-11-01
+lastUpdated: 2023-11-30
 ---
 
-Ra máu trong 3 tháng đầu có thể do một số nguyên nhân sau:
+Ra máu trong 3 tháng đầu có thể do 1 số nguyên nhân sau:
 
+- Xuất huyết không liên quan đến thai kỳ (rối loạn phóng noãn, xuất huyết tử cung do tổn thương thực thể,...).
 - Dấu hiệu thai làm tổ trong buồng tử cung.
-- Dọa sảy thai.
-- Sảy thai.
+- Thai nghén thất bại (Dọa sảy thai/Sảy thai).
 - Thai ngoài tử cung.
 - Chửa trứng.
 
-## Tiếp cận sản phụ
+## Hỏi bệnh và tiền sử
 
-- Ra máu sảy ra trong hoàn cảnh nào? Ra máu tự nhiên hay sau sang chấn.
-- Máu ra có tính chất gì? Máu âm đạo có thể đỏ tươi, đỏ sẫm hoặc màu đen.
-- Lượng máu ra bao nhiêu? Nhiều hoặc ra ít, kéo dài.
-- Triệu chứng kèm theo khi chảy máu? Đau bụng âm ỉ hoặc từng cơn, đau bụng khu trú hoặc toàn bộ vùng hạ vị.
+- **Ra huyết âm đạo đương nhiên là triệu chứng cơ năng quan trọng nhất:** Hoàn cảnh ra máu (ra máu tự nhiên hay sau sang chấn), máu ra có tính chất gì (đỏ tươi, đỏ sẫm hoặc màu đen), lượng máu ra bao nhiêu (nhiều hoặc ra ít, kéo dài). Triệu chứng kèm theo khi chảy máu (Đau bụng âm ỉ hoặc từng cơn, đau bụng khu trú hoặc toàn bộ vùng hạ vị). **Ra huyết mang tính chất cấp tính** với lượng nhiều liên quan đến 1 tình trạng sẩy thai đang có chiều hướng diễn tiến, có thể là thai thường hay thai trứng.
+- **Đặc tính của lần hành kinh cuối cùng và các lần hành kinh bình thường gần nhất:** giúp hướng đến chẩn đoán có thai và phân biệt với **chảy máu không liên quan đến thai kỳ do đặc điểm tiền sử và bệnh sử (xuất huyết tử cung cơ năng do rối loạn phóng noãn, xuất huyết tử cung do tổn thương thực thể như khối u xơ tử cung, xuất huyết do dùng thuốc nội tiết ngoại lai như dùng thuốc tránh thai nội tiết sai, dùng tránh thai khẩn cấp...)**. **Test nhanh nước tiểu định tính β-hCG sẽ là cần thiết cho việc loại bỏ khả năng của các xuất huyết không liên quan đến thai kỳ.**
+- **Hỏi tiền sử nhằm tầm soát và tìm hiểu các yếu tố nguy cơ:** **Các yếu tố nguy cơ của một tình trạng thai nghén thất bại sớm** như lớn tuổi, tiền căn đã từng có nhiều lần thai nghén bị thất bại sớm liên tiếp hay lặp lại, hay tiền căn đã từng có thai bị lệch bội, hay tình trạng có chuyển đoạn Robertson đã biết, tử cung bất thường. **Các yếu tố nguy cơ của thai ngoài tử cung** như tiền sử viêm vùng chậu cấp hay kinh niên, tiền sử từng có thai ngoài tử cung, tiền sử có can thiệp phẫu thuật tạo hình trên ống dẫn trứng, các phương pháp tránh thai đã dùng,...
+- **Triệu chứng cơ năng khác:** Tình trạng nghén rất nặng có thể do 1 hoạt động nguyên bào nuôi gia tăng trong đa thai hay thai trứng. Tình trạng nghén biến mất 1 cách đột ngột thể hiện sự giảm bất thường gợi ý một thai nghén thất bại sớm.
 
-## Thai làm tổ trong buồng tử cung
+## Triệu chứng thực thể
 
-Phần lớn các trường hợp là **chảy máu nhẹ**, không phải trường hợp bệnh lý.
+Phần lớn các trường hợp, triệu chứng lâm sàng **thường rất nghèo nàn,** nhiều khi ra huyết và biết có thai là những triệu chứng duy nhất.
 
-Thường **xuất hiện ở tháng thứ 2** dạng **những đốm máu nhỏ màu nâu hoặc hơi hồng**, đây có thể là dấu hiệu trứng đã thụ tinh vào làm tổ trong tử cung.
+Một số trường hợp điển hình như trong trường hợp của sẩy thai trứng, sẩy thai đang diễn tiến, xuất huyết nội do thai ngoài tử cung vỡ,...
 
-## Dọa sảy thai
+## Siêu âm là biện pháp tiếp cận sơ cấp
 
-Thường gặp ở những phụ nữ có bất thường tại tử cung như sản phụ có **u xơ tử cung, tử cung hai sừng, tử cung đôi.** Tình trạng thai còn sống, bị bong một phần khỏi niêm mạc tử cung.
+So với siêu âm thực hiện qua đường bụng (Transabdominal Ultrasound Scan - TAS), siêu âm thực hiện qua đường âm đạo (Transvaginal Ultrasound Scan - TVS) có độ phân giải hình ảnh tốt hơn, cho phép phân biệt các chi tiết có kích thước cỡ milimet (mm). Tuy nhiên TVS lại có tầm nhìn hạn chế hơn TAS.
 
-**Triệu chứng chậm kinh và có các dấu hiệu của có thai**, ra **máu âm đạo đỏ tươi, tức bụng dưới hoặc đau âm ỉ vùng hạ vị**. Khám thực thể thấy **cổ tử cung dài, đóng kín; tử cung tương ứng với tuổi thai**. Cận lâm sàng có **hCG dương tính, siêu âm thấy hình ảnh có thai trong buồng tử cung, có thể có tim thai.**
+**2 thông tin mà TVS có thể cung cấp tốt nhất là:**
 
-Điều trị sản phụ cần **nghỉ ngơi, tránh vận động mạnh, ăn nhẹ, chống táo bón**. Xử trí bằng các **thuốc giãn cơ trơn, kháng sinh chống nhiễm khuẩn, các thuốc hormone như Progesterone, Dydrogesterone, v.v** để dưỡng thai. Tìm các nguyên nhân dọa sảy thai để điều trị như **bệnh toàn thân, u xơ tử cung, hở eo tử cung, di truyền, nội tiết, v.v**
+1. Sinh tồn trứng.
+2. Hình ảnh túi thai trong tử cung.
 
-## Sảy thai
+**Sự hiện diện của túi thai trong tử cung** hướng hẳn chẩn đoán về phía thai nghén thất bại sớm, ngoại trừ trường hợp của hình ảnh túi thai giả, hay song thai một trong tử cung và một ở ngoài tử cung.
 
-### Đang sảy thai
+**Khi túi thai không được nhìn thấy,** chỉ có thể kết luận là không nhìn thấy túi thai qua TVS, mà không được kết luận là thai ngoài tử cung, ngoại trừ trường hợp hiếm hoi thấy được túi thai bên ngoài tử cung với quầng nguyên bào nuôi, yolk-sac, có hay không có phôi thai với hoạt động tim phôi.
 
-Thường gặp khi thai 13 tuần ra máu.
+**Hình ảnh điển hình của thai trứng trên siêu âm là hình ảnh tổ ong** của các gai nhau bị thoái hóa nước. **Chẩn đoán sẽ khó khăn hơn trong trường hợp thai trứng bán phần,** do hình ảnh không còn điển hình lại kèm với hình ảnh của thai, có thể là thai sống và tiến triển. **Thai lưu với nhau thoái hóa có thể cho hình ảnh tương tự thai trứng.**
 
-**Triệu chứng đau bụng nhiều từng cơn vùng hạ vị, máu ra ngày càng nhiều, máu đỏ lẫn máu cục, có thể bị choáng vì mất máu nhiều.** Khám âm đạo, **cổ tử cung đã xóa, mở, có thể thấy rau, thai hoặc cổ tử cung hình con quay** vì lỗ trong và phần trên cổ tử cung đã giãn rộng, phình to do khối thai đã xuống đoạn dưới.
+## Định lượng β-hCG là tiếp cận thứ cấp
 
-Xử trí bằng **nạo bỏ thai càng sớm càng tốt**, cho sử dụng các thuốc co hồi tử cung (Oxytocin, Ergometrin) để cầm máu, kháng sinh để chống nhiễm trùng, truyền các dung dịch đẳng trương (NaCl 0.9% hoặc Ringer lactat) để chống sốc.
+Trong vài tuần đầu của thai trong tử cung bình thường (66% trường hợp) β-hCG sẽ tăng gấp đôi trong mỗi 2 ngày và không bao giờ tăng < 53% mỗi 2 ngày.
 
-### Sảy hoàn toàn
+**β-hCG tăng không được đến 53% trong mỗi 2 ngày, thì nên nghĩ đến 1 trong 2 khả năng:**
 
-Thường gặp khi sẩy thai trong **6 tuần đầu**.
+1. Có thai trong tử cung với diễn biến bất thường.
+2. Có thai ngoài tử cung.
 
-**Sau khi đau bụng, sản phụ ra máu, thai ra cả bọc sau đó máu ít dần.** Khám thực thể thấy cổ tử cung đóng, tử cung nhỏ hơn tuổi thai.
+**Sau khi sẩy thai tự nhiên,** β-hCG huyết thanh sẽ **giảm ít nhất 21-35% mỗi 2 ngày.** Nếu **β-hCG huyết thanh giảm chậm, dưới 20% mỗi 2 ngày thì có nhiều khả năng là 1 trong 2 tình trạng:**
 
-Khi siêu âm, nếu buồng tử cung đã sạch thì không cần hút, cho sản phụ uống kháng sinh nếu có nguy cơ nhiễm khuẩn.
+1. Còn tồn tại sản phẩm thụ thai.
+2. Có thai ngoài tử cung.
 
-### Sảy không hoàn toàn
+**Ngưỡng β-hCG thường dùng là 1.500-2.000 mUI/mL để có thể thấy túi đơn thai trong lòng tử cung và ngưỡng này tăng lên 3000 mUI/mL đối với song thai.** Khi không thấy hình ảnh túi thai trong buồng tử cung và nồng độ hCG trên ngưỡng phân biệt, thì phải nghĩ đến khả năng có thai ngoài tử cung,
 
-**Sót nhau là sau khi sẩy thai, sản phụ ra máu kéo dài, còn đau bụng.** Khám thấy **cổ tử cung mở và tử cung còn to.**
+## Lược đồ tiếp cận với siêu âm
 
-Điều trị bằng **kháng sinh.** Nếu trong buồng tử cung còn nhiều âm vang bất thường thì sử dụng thuốc Misoprotol (cứ 3-4 giờ cho ngậm dưới lưỡi 200mcg, tối đa 3 lần). Ngày hôm sau nếu siêu âm lại tình hình không cải thiện thì hút buồng tử cung, tiêm bắp một ống Oxytocin 5UI trước khi hút.
-
-### Sảy đã chết
-
-Tình trạng thai chết ở tuổi **thai dưới 22 tuần, lưu lại trong tử cung.**
-
-**Có triệu chứng có thai, sau đó ra máu âm đạo, hết nghén, vú có thể tiết sữa non, không thấy thai máy, không thấy hoạt động tim thai.** Khám thấy **cổ tử cung đóng kín, có máu đen, tử cung nhỏ hơn tuổi thai.** Xét nghiệm **hCG âm tính nếu thai đã chết từ lâu, siêu âm thấy bờ túi ối méo mó, không có hoạt động tim thai.**
-
-Xử trí bằng Misoprotol, hút thai, và sử dụng kháng sinh sau thủ thuật. Các dấu hiệu sinh tồn, chảy máu được theo dõi chặt chẽ.
-
-### Sảy nhiễm khuẩn
-
-Phá thai không đảm bảo vô khuẩn hoặc do sẩy thai sót rau. Khám thấy **tử cung mềm, ấn đau, cổ tử cung mở.** sản phụ **sốt, mệt mỏi, khó chịu, tim đập nhanh, ra máu âm đạo kéo dài, có mùi hôi đôi khi có mủ.**
-
-Xử trí bằng kháng sinh liều cao. Nếu chảy máu nhiều, sẽ tiến hành hồi sức và hút thai. Nếu máu ra ít, dùng kháng sinh cho sản phụ 4-6 giờ, sau đó hút rau còn sót lại trong tử cung. Tiêm bắp thuốc co hồi tử cung Oxytocin trước khi hút. Trường hợp chảy máu và nhiễm khuẩn nặng, có thể phải cắt toàn bộ tử cung.
-
-## Thai ngoài tử cung
-
-Đây là tình trạng **cấp cứu ngoại khoa nguy hiểm.** Nếu thai ngoài tử cung vỡ có thể gây chảy máu trong nửa đầu thai kỳ nghiêm trọng, sản phụ có thể choáng, thậm chí tử vong nếu không được can thiệp kịp thời.
-
-**Triệu chứng chậm kinh hoặc rối loạn kinh nguyệt, có thể có triệu chứng nghén. Đau bụng âm ỉ ở vùng bụng dưới, đau về bên vòi tử cung có phôi làm tổ, thỉnh thoảng có cơn đau nhói. Rong huyết, máu ra ít một kép dài ở âm đạo với đặc điểm máu đen, lợn cợn như bã cà phê, ra rả rích nhiều lần trong ngày. hCG dương tính, siêu âm thì không thấy hình ảnh túi ối hoặc âm vang trong buồng tử cung mà có thể thấy những âm vang thất thường ở một bên cạnh tử cung.**
-
-Nếu đã vỡ, **đau dữ dội, đột ngột, có thể sốc do mất máu, bụng chướng nhẹ, có phản ứng thành bụng và cảm ứng phúc mạc, gõ đục vùng thấp.** **Cổ tử cung đóng có ít máu theo tay, các túi cùng đầy, đau, tử cung di động như đang bơi trong nước.**
-
-Xử trí thai ngoài tử cung tùy vào tình trạng mà có thể điều trị nội khoa hoặc ngoại khoa.
-
-## Chửa trứng
-
-**Triệu chứng mất kinh như những thai nghén khác, tình trạng nghén nặng hơn bình thường, chảy máu âm đạo ít một, máu đen, dai dẳng nhiều ngày, ban đêm máu ra thường nhiều hơn ba ngày. Khám tử cung thấy to nhanh hơn tuổi thai, mềm, không nắn thấy các phần của thai nhi, không nghe thấy tim thai, xét nghiệm hCG tăng cao, siêu âm thấy có hình ảnh ruột bánh mỳ, sản phụ có thể bị phù, huyết áp cao, protein niệu.**
-
-sản phụ cần được loại bỏ thai trứng sớm để tránh nguy cơ chảy máu do sảy trứng.
+![Lược đồ tiếp cận xuất huyết 3 tháng đầu với siêu âm](../../../assets/case-study/xuat-huyet-3-thang-dau/luoc-do-xuat-huyet-3-thang-dau-theo-sieu-am.png)
 
 ## Nguồn tham khảo
 
+- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
 - [Chảy máu trong nửa đầu thời kỳ mang thai](https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/san-phu-khoa-va-ho-tro-sinh-san/chay-mau-trong-nua-dau-thoi-ky-mang-thai/) - Vinmec.

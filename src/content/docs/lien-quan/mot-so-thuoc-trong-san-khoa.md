@@ -279,79 +279,81 @@ Chi tiết về một số thuốc thường dùng trong sản khoa.
 
 #### Trong đẻ
 
-1. Fentanyl 50 mcg/ml x 2 ml x 01 ống, pha 10 ml nước cất x 01 ống, tiêm tĩnh mạch chậm
-2. Oxytocin 10 UI/ml x 01 ống, tiêm bắp
-3. Lidocain 40 mg/2 ml x 02 ống, pha 10 ml nước cất, tê tầng sinh môn
-4. Vitamin K1 (Vinphyton 1 mg/ml) 1 mg/ml x 01 ống, tiêm bắp con
+1. Fentanyl 50 mcg/ml x 2 ml x 01 ống, pha 10 ml nước cất x 01 ống, tiêm tĩnh mạch chậm.
+2. Oxytocin 10 UI/ml x 01 ống, tiêm bắp.
+3. Lidocain 40 mg/2 ml x 02 ống, pha 10 ml nước cất, tê tầng sinh môn.
+4. Vitamin K1 (Vinphyton 1 mg/ml) 1 mg/ml x 01 ống, tiêm bắp con.
 
 #### 15 phút sau đẻ
 
-1. Oxytocin 10 UI/ml x 01 ống, pha 01 chai Glucose 5% 500ml x 01 chai, truyền tĩnh mạch 60 giọt/phút
-2. Methyl ergomettrin maleat (Vingomin) 0.2 mg/ml x 01 ống, tiêm bắp
-3. Amoxicilin 875 mg + Acid clavulanic 125 mg x 01 viên, uống
-4. Diclofenac (Diclovat) 100mg x 01 viên, đặt hậu môn
+1. Oxytocin 10 UI/ml x 01 ống, pha 01 chai Glucose 5% 500ml x 01 chai, truyền tĩnh mạch 60 giọt/phút.
+2. Methyl ergomettrin maleat (Vingomin) 0.2 mg/ml x 01 ống, tiêm bắp.
+3. Amoxicilin 875 mg + Acid clavulanic 125 mg x 01 viên, uống.
+4. Diclofenac (Diclovat) 100mg x 01 viên, đặt hậu môn.
 
 #### Ngày 1 sau đẻ
 
-1. Amoxicilin 875 mg + Acid clavulanic 125 mg x 02 viên, uống 01 viên/lần x 02 lần/ngày
-2. Diclofenac (Diclovat) 100mg x 01 viên, đặt hậu môn
+1. Amoxicilin 875 mg + Acid clavulanic 125 mg x 02 viên, uống 01 viên/lần x 02 lần/ngày.
+2. Diclofenac (Diclovat) 100mg x 01 viên, đặt hậu môn.
 
 #### Ngày 2 sau đẻ
 
-1. Amoxicilin 875 mg + Acid clavulanic 125 mg x 02 viên, uống 01 viên/lần x 02 lần/ngày
+1. Amoxicilin 875 mg + Acid clavulanic 125 mg x 02 viên, uống 01 viên/lần x 02 lần/ngày.
 
 ### Đẻ mổ
 
 #### Dùng Duratocin
 
-1. Carbetocin (Hemotocin) 100 mg x 01 ống, tiêm tĩnh mạch chậm
+1. Carbetocin (Hemotocin) 100 mg x 01 ống, tiêm tĩnh mạch chậm.
 
 #### Sau đẻ 4h
 
-1. Oxytocin 10 UI/ml x 01 ống, pha Glucose 5% 500ml x 01 chai, truyền tĩnh mạch 60 giọt/phút
-2. Natri Clorid 0.9% 500ml x 01 chai, truyền tĩnh mạch 60 giọt/phút
-3. Diclofenac (Diclovat) 100mg x 01 viên, đặt hậu môn
-4. Vitamin K1 (Vinphyton 1 mg/ml) 1 mg/ml x 01 ống, tiêm bắp con
+1. Oxytocin 10 UI/ml x 01 ống, pha Glucose 5% 500ml x 01 chai, truyền tĩnh mạch 60 giọt/phút.
+2. Natri Clorid 0.9% 500ml x 01 chai, truyền tĩnh mạch 60 giọt/phút.
+3. Diclofenac (Diclovat) 100mg x 01 viên, đặt hậu môn.
+4. Vitamin K1 (Vinphyton 1 mg/ml) 1 mg/ml x 01 ống, tiêm bắp con.
 
 #### Ngày 2 sau đẻ
 
-1. Ceftibiotic 1000mg x 02 lọ, pha ống nước cất 10ml x 02 ống, tiêm tĩnh mạch sáng/chiều
-2. Oxytocin 10 UI/ml x 02 ống, tiêm bắp, sáng/chiều
-3. Diclofenac (Diclovat) 100mg x 02 viên, đặt hậu môn, 1 viên sáng và 1/2 viên tối
+1. Ceftibiotic 1000mg x 02 lọ, pha ống nước cất 10ml x 02 ống, tiêm tĩnh mạch sáng/chiều.
+2. Oxytocin 10 UI/ml x 02 ống, tiêm bắp, sáng/chiều.
+3. Diclofenac (Diclovat) 100mg x 02 viên, đặt hậu môn, 1 viên sáng và 1/2 viên tối.
 
 #### Ngày 3 sau đẻ
 
-1. Ceftibiotic 1000mg x 02 lọ, pha ống nước cất 10ml x 02 ống, tiêm tĩnh mạch sáng/chiều
-2. Diclofenac (Diclovat) 100mg x 01 viên, đặt hậu môn
+1. Ceftibiotic 1000mg x 02 lọ, pha ống nước cất 10ml x 02 ống, tiêm tĩnh mạch sáng/chiều.
+2. Diclofenac (Diclovat) 100mg x 01 viên, đặt hậu môn.
 
 #### Ngày 4 và 5 sau đẻ
 
-1. Ceftibiotic 1000mg x 02 lọ, pha ống nước cất 10ml x 02 ống, tiêm tĩnh mạch sáng/chiều
+1. Ceftibiotic 1000mg x 02 lọ, pha ống nước cất 10ml x 02 ống, tiêm tĩnh mạch sáng/chiều.
 
 ### Nạo hút thai
 
 #### Trong nạo
 
-1. Fentanyl 50 mcg/ml x 2 ml x 01 ống, pha 10 ml nước cất x 01 ống, tiêm tĩnh mạch chậm
-2. Oxytocin 10 UI/ml x 01 ống, tiêm bắp
-3. Tranexamic 500 mg x 01 ống, tiêm bắp
-4. Lidocain 40 mg/2 ml x 01 ống, tiêm bắp
+1. Fentanyl 50 mcg/ml x 2 ml x 01 ống, pha 10 ml nước cất x 01 ống, tiêm tĩnh mạch chậm.
+2. Oxytocin 10 UI/ml x 01 ống, tiêm bắp.
+3. Tranexamic 500 mg x 01 ống, tiêm bắp.
+4. Lidocain 40 mg/2 ml x 01 ống, tiêm bắp.
 
 #### 15 phút sau nạo
 
-1. Oxytocin 10 UI/ml x 01 ống, pha 01 chai Glucose 5% 500ml x 01 chai, truyền tĩnh mạch 60 giọt/phút
-2. Amoxicilin 875 mg + Acid clavulanic 125 mg x 01 viên, uống
-3. Metronidazol 250mg x 02 viên, uống
-4. Misopriston 400 mcg x 02 viên, đặt âm đạo
+1. Oxytocin 10 UI/ml x 01 ống, pha 01 chai Glucose 5% 500ml x 01 chai, truyền tĩnh mạch 60 giọt/phút.
+2. Amoxicilin 875 mg + Acid clavulanic 125 mg x 01 viên, uống.
+3. Metronidazol 250mg x 02 viên, uống.
+4. Misopriston 400 mcg x 02 viên, đặt âm đạo.
 
 #### Ngày 1 sau nạo
 
-1. Amoxicilin 875 mg + Acid clavulanic 125 mg x 02 viên, uống 01 viên/lần x 02 lần/ngày, sáng/chiều
-2. Metronidazol 250mg x 04 viên, uống 02 viên/lần x 02 lần/ngày, sáng/chiều
-3. Misopriston 400 mcg x 02 viên, đặt dưới lưỡi 01 viên/lần x 02 lần/ngày, sáng/chiều
+1. Amoxicilin 875 mg + Acid clavulanic 125 mg x 02 viên, uống 01 viên/lần x 02 lần/ngày, sáng/chiều.
+2. Metronidazol 250mg x 04 viên, uống 02 viên/lần x 02 lần/ngày, sáng/chiều.
+3. Misopriston 400 mcg x 02 viên, đặt dưới lưỡi 01 viên/lần x 02 lần/ngày, sáng/chiều.
 
 #### Thuốc ra viện
 
-1. Amoxicilin 875 mg + Acid clavulanic 125 mg x 10 viên, uống 01 viên/lần x 02 lần/ngày, sáng/chiều
-2. Metronidazol 250mg x 20 viên, uống 02 viên/lần x 02 lần/ngày, sáng/chiều
-3. Estradiol valerat (Progynova Tab) 2mg x 20 viên, uống 02 viên/lần x 02 lần/ngày, sáng/chiều
+1. Amoxicilin 875 mg + Acid clavulanic 125 mg x 10 viên, uống 01 viên/lần x 02 lần/ngày, sáng/chiều.
+2. Metronidazol 250mg x 20 viên, uống 02 viên/lần x 02 lần/ngày, sáng/chiều.
+3. Estradiol valerat (Progynova Tab) 2mg x 28 viên, uống 02 viên/lần x 02 lần/ngày, sáng/chiều.
+4. Ferlatum 40 mg x 20 ống, uống 01 ống/ngày.
+5. Misoprotol 200 mg x 10 viên, uống 01 viên/lần x 02 lần/ngày, sáng/chiều.
