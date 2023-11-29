@@ -47,6 +47,13 @@ Chi tiết về một số thuốc thường dùng trong sản khoa.
 - Tác dụng: Progesterone nội tiết.
 - Liều: Tương tự Utrogestan nhưng ra ít dịch nhày hơn so với Utrogestan, bù lại có giá thành cao hơn.
 
+#### Progesteron 25mg
+
+- Hoạt chất - hàm lượng: Progesterone 25mg.
+- Dạng: Ống.
+- Tác dụng: Progesterone nội tiết.
+- Liều: Thường dùng tiêm bắp 1 ống/lần x 2 lần/ngày, sáng/chiều. Dùng trong trường hợp dọa sảy có ra máu âm đạo.
+
 #### Mezaverin 120 mg
 
 - Hoạt chất - hàm lượng: Alverin citrat 120 mg.
