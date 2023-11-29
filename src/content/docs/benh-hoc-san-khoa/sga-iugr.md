@@ -45,11 +45,15 @@ Trong khi đó với SGA/FGR **xuất hiện muộn trong tam cá nguyệt thứ
 
 ### Nguy cơ trẻ sơ sinh
 
-- Hạ đường huyết. Việc bổ sung bằng sữa công thức là cần thiết, do sữa mẹ hoàn toàn không thể đảm bảo nhu cầu về năng lượng của các trẻ này.
-- Hoạt động còn non kém của hệ thần kinh như **Hạ thân nhiệt** do nhiều yếu tố kết hợp. **Các rối loạn hô hấp** kiểu các cơn ngưng thở khá phổ biến. Có thể có co giật sơ sinh.
-- **Đa hồng cầu** là hệ quả của đáp ứng với thiếu oxy trường diễn.
-- Tăng bilirubin máu và vàng da sơ sinh nặng.
-- Dễ bị nhiễm trùng.
+Hạ đường huyết. Việc bổ sung bằng sữa công thức là cần thiết, do sữa mẹ hoàn toàn không thể đảm bảo nhu cầu về năng lượng của các trẻ này.
+
+Hoạt động còn non kém của hệ thần kinh như **Hạ thân nhiệt** do nhiều yếu tố kết hợp. **Các rối loạn hô hấp** kiểu các cơn ngưng thở khá phổ biến. Có thể có co giật sơ sinh.
+
+**Đa hồng cầu** là hệ quả của đáp ứng với thiếu oxy trường diễn.
+
+Tăng bilirubin máu và vàng da sơ sinh nặng.
+
+Dễ bị nhiễm trùng.
 
 ### Bảng cân nặng và chiều dài thai nhi
 

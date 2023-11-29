@@ -16,6 +16,8 @@ Trẻ sinh non được định nghĩa là trẻ được sinh ra trước khi t
 
 ## Phân loại
 
+Phân loại dọa đẻ non:
+
 - Tuổi thai dưới 28 tuần 0/7: được gọi là sơ sinh cực non. Chiếm khoảng 5% các trường hợp.
 - Tuổi thai từ 28 tuần 0/7 đến 31 tuần 6/7: được gọi là sơ sinh rất non. Chiếm khoảng 15% các trường hợp.
 - Tuổi thai từ 32 tuần 0/7 đến 33 tuần 6/7. Chiếm khoảng 20% các trường hợp.
@@ -51,9 +53,11 @@ Các thai phụ có các đặc điểm sau được xem là có yếu tố nguy
 
 ### Chiều dài cổ tử cung
 
-- Chiều dài kênh cổ tử cung được hiểu là khoảng cách đo được từ lổ cổ tử cung ngoài đến lổ cổ tử cung trong. Đo trên siêu âm. **Bình thường**, trong giai đoạn giữa của thai kỳ, cổ tử cung dài khoảng **30-40 mm**.
-- Vào **tuần lễ 24 của thai kỳ**, trên một thai phụ **không có triệu chứng**, nếu chiều dài **cổ tử cung ngắn < 25 mm** thì nguy cơ sinh non sẽ tăng lên. Ngược lại, nếu **có các cơn gò tử cung** nhưng **cổ tử cung vẫn còn dài hơn 30 mm** thì nguy cơ có sinh non trong vòng 7 ngày kế tiếp chỉ là 1%.
-- Năm 2015, FIGO **khuyến cáo** thực hiện việc **khảo sát chiều dài kênh cổ tử cung thường qui ở tuổi thai 19-23 tuần +6/7**.
+Chiều dài kênh cổ tử cung được hiểu là khoảng cách đo được từ lổ cổ tử cung ngoài đến lổ cổ tử cung trong. Đo trên siêu âm. **Bình thường**, trong giai đoạn giữa của thai kỳ, cổ tử cung dài khoảng **30-40 mm**.
+
+Vào **tuần lễ 24 của thai kỳ**, trên một thai phụ **không có triệu chứng**, nếu chiều dài **cổ tử cung ngắn < 25 mm** thì nguy cơ sinh non sẽ tăng lên. Ngược lại, nếu **có các cơn gò tử cung** nhưng **cổ tử cung vẫn còn dài hơn 30 mm** thì nguy cơ có sinh non trong vòng 7 ngày kế tiếp chỉ là 1%.
+
+Năm 2015, FIGO **khuyến cáo** thực hiện việc **khảo sát chiều dài kênh cổ tử cung thường qui ở tuổi thai 19-23 tuần +6/7**.
 
 ![Chiều dài cổ tử cung](../../../assets/benh-hoc-san-khoa/de-non/chieu-dai-co-tu-cung.png)
 
@@ -75,12 +79,17 @@ fFN, PAMG-1 có cùng giá trị dự báo âm, nhưng khả dĩ dương có chu
 
 ### Nguyên tắc đánh giá nguy cơ sinh non
 
-- **Tuổi thai** được đánh giá bằng các thông tin có được từ đầu thai kỳ.
-- Cổ tử cung được **khám bằng mỏ vịt, qua siêu âm hoặc bằng tay**. Lưu ý rằng, **khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do vô tình tách các màng ối**.
-- Chiều dài và tình trạng kênh tử cung sẽ được **đánh giá qua siêu âm khảo sát kênh cổ tử cung**. Thay đổi tình trạng cổ tử cung giúp ta chẩn đoán và theo dõi đáp ứng điều trị.
-- **Siêu âm** giúp kiểm định lại tuổi thai, phát triển bào thai, lượng dịch ối, ngôi thai, và vị trí bánh nhau, cũng như khảo sát dị tật của thai nhi.
-- Theo dõi bằng **monitor sản khoa** để đánh giá tần số và cường độ cơn gò.
-- Theo dõi **tình trạng xuất huyết** của sản phụ, vì nhau bong non và nhau tiền đạo có liên quan đến chuyển dạ sinh non.
+**Tuổi thai** được đánh giá bằng các thông tin có được từ đầu thai kỳ.
+
+Cổ tử cung được **khám bằng mỏ vịt, qua siêu âm hoặc bằng tay**. Lưu ý rằng, **khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do vô tình tách các màng ối**.
+
+Chiều dài và tình trạng kênh tử cung sẽ được **đánh giá qua siêu âm khảo sát kênh cổ tử cung**. Thay đổi tình trạng cổ tử cung giúp ta chẩn đoán và theo dõi đáp ứng điều trị.
+
+**Siêu âm** giúp kiểm định lại tuổi thai, phát triển bào thai, lượng dịch ối, ngôi thai, và vị trí bánh nhau, cũng như khảo sát dị tật của thai nhi.
+
+Theo dõi bằng **monitor sản khoa** để đánh giá tần số và cường độ cơn gò.
+
+Theo dõi **tình trạng xuất huyết** của sản phụ, vì nhau bong non và nhau tiền đạo có liên quan đến chuyển dạ sinh non.
 
 ## Điều trị đẻ non
 

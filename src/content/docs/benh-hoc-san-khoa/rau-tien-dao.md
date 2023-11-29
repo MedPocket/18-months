@@ -12,9 +12,11 @@ Nhau tiền đạo được định nghĩa là khi nhau bám ở đoạn dưới
 
 ## Phân loại
 
-1. Nhau tiền đạo toàn phần (trung tâm) (complete) khi bánh nhau bám lan tới và che hết cổ trong cổ tử cung
-2. Nhau tiền đạo một phần (bán phần) (partial) khi bánh nhau chỉ bám qua một phần lổ trong cổ tử cung
-3. Nhau bám mép (marginal) khi mép dưới của bánh nhau bám sát tới bờ lổ cổ tử cung
+Phân loại rau tiền đạo
+
+1. Nhau tiền đạo toàn phần (trung tâm) (complete) khi bánh nhau bám lan tới và che hết cổ trong cổ tử cung.
+2. Nhau tiền đạo một phần (bán phần) (partial) khi bánh nhau chỉ bám qua một phần lổ trong cổ tử cung.
+3. Nhau bám mép (marginal) khi mép dưới của bánh nhau bám sát tới bờ lổ cổ tử cung.
 4. Nhau bám thấp (low lying) là khi bánh nhau bám ở đoạn dưới của tử cung nhưng mép dưới của nó chưa lan tới lổ trong cổ tử cung.
 
 ![Phân loại rau tiền đạo](../../../assets/benh-hoc-san-khoa/rau-tien-dao/phan-loai-rau-tien-dao.png)
@@ -27,11 +29,15 @@ Siêu âm đầu dò âm đạo phân loại nhau tiền đạo dùng đơn vị
 
 ## Yếu tố nguy cơ
 
-- Nhau tiền đạo ở thai kỳ trước.
-- Sinh nhiều lần.
-- Mẹ lớn tuổi.
-- Tiền căn mổ sinh hoặc đã chịu các phẫu thuật khác trên tử cung như bóc nhân xơ tử cung.
-- Các yếu tố khác như sử dụng cocaine, hút thuốc lá.
+Nhau tiền đạo ở thai kỳ trước.
+
+Sinh nhiều lần.
+
+Mẹ lớn tuổi.
+
+Tiền căn mổ sinh hoặc đã chịu các phẫu thuật khác trên tử cung như bóc nhân xơ tử cung.
+
+Các yếu tố khác như sử dụng cocaine, hút thuốc lá.
 
 ## Chẩn đoán
 
@@ -71,10 +77,13 @@ Tỉ lệ nhau cài răng lược vào khoảng 1:2500 thai kỳ, nhưng tăng m
 
 ## Diễn biến
 
-- Phải sinh mổ: Nếu khảo sát ở tuổi thai trên 35 tuần cho thấy mép bánh nhau bám chưa đến lổ cổ tử cung và khoảng cách này trên 20 mm.
-- Chảy máu: Đợt chảy máu âm đạo đầu tiên thường tự ổn định trong vòng 1-2 giờ, nếu như nó không quá nghiêm trọng để có chỉ dịnh chấm dứt thai kỳ. Nếu chảy máu là trầm trọng hoặc thai nhi đã trưởng thành thì chấm dứt thai kỳ là lựa chọn. **Số đợt xuất hiện chảy máu không có mối liên quan đến độ nặng của nhau tiền đạo cũng như kết cục của thai nhi.**
-- Quyết định chấm dứt thai kỳ phải dựa vào tuổi thai và tình trạng lâm sàng của thai phụ. Trong điều kiện bệnh nhân ổn định, **mổ lấy thai thường được chỉ định ở tuổi thai 37-38 tuần**. Đôi khi phải chấm dứt thai kỳ **sớm hơn nếu chảy máu nhiều hoặc thai phụ đi vào chuyển dạ sinh non.**
-- Về phương pháp vô cảm lúc mổ lấy thai: Trong phần lớn trường hợp, gây tê vùng là lựa chọn khi mổ lấy thai nhau tiền đạo. Tuy nhiên, trong trường hợp dự đoán cuộc mổ kéo dài hay khó khăn như trong trường hợp của nhau cài răng lược thì **gây mê nội khí quản** sẽ được chọn lựa.
+Phải sinh mổ: Nếu khảo sát ở tuổi thai trên 35 tuần cho thấy mép bánh nhau bám chưa đến lổ cổ tử cung và khoảng cách này trên 20 mm.
+
+Chảy máu: Đợt chảy máu âm đạo đầu tiên thường tự ổn định trong vòng 1-2 giờ, nếu như nó không quá nghiêm trọng để có chỉ dịnh chấm dứt thai kỳ. Nếu chảy máu là trầm trọng hoặc thai nhi đã trưởng thành thì chấm dứt thai kỳ là lựa chọn. **Số đợt xuất hiện chảy máu không có mối liên quan đến độ nặng của nhau tiền đạo cũng như kết cục của thai nhi.**
+
+Quyết định chấm dứt thai kỳ phải dựa vào tuổi thai và tình trạng lâm sàng của thai phụ. Trong điều kiện bệnh nhân ổn định, **mổ lấy thai thường được chỉ định ở tuổi thai 37-38 tuần**. Đôi khi phải chấm dứt thai kỳ **sớm hơn nếu chảy máu nhiều hoặc thai phụ đi vào chuyển dạ sinh non.**
+
+Về phương pháp vô cảm lúc mổ lấy thai: Trong phần lớn trường hợp, gây tê vùng là lựa chọn khi mổ lấy thai nhau tiền đạo. Tuy nhiên, trong trường hợp dự đoán cuộc mổ kéo dài hay khó khăn như trong trường hợp của nhau cài răng lược thì **gây mê nội khí quản** sẽ được chọn lựa.
 
 ## Nguồn tham khảo
 

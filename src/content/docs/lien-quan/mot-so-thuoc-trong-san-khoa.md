@@ -262,7 +262,7 @@ Chi tiết về một số thuốc thường dùng trong sản khoa.
 - Hoạt chất - hàm lượng: Dinoprostone 10mg, hay còn gọi là Prostaglandin E2 (PGE2).
 - Dạng: Đặt âm đạo.
 - Tác dụng: Khởi phát chuyển dạ.
-- Liều dùng: 1 viên 10 mg được thiết kế để giải phóng ở mức xấp xỉ 0,3 mg / giờ trong khoảng thời gian 12 giờ.
+- Liều dùng: 1 viên 10 mg được thiết kế để giải phóng ở mức xấp xỉ 0,3 mg/giờ trong khoảng thời gian 12 giờ.
 
 #### Mifestad 200
 

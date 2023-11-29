@@ -20,11 +20,15 @@ Có 2 tình huống vỡ tử cung:
 
 ## Yếu tố nguy cơ
 
-1. Sẹo mổ cũ (mổ lấy thai, mổ bóc nhân xơ, v.v).
-2. Đa sản, ngôi sinh khó như ngôi trán, ngôi mặt, ngôi ngang, bất xứng đầu chậu.
-3. Các yếu tố nguy cơ khác ít gặp hơn như sinh giúp khi không đủ điều kiện hay sai kỹ thuật, khối u ở vị trí tiền đạo.
-4. Tăng co bằng oxytocin được xem là một yếu tố nguy cơ, nhất là khi không được thực hiện tốt hay thực hiện trên thai phụ đa sản.
-5. Một số trường hợp vỡ tử cung được ghi nhận có liên quan đến khởi phát chuyển dạ bằng misoprostol, cả ở người con so và con rạ. _Do nguy cơ này, Bộ Y tế nước ta không cho phép dùng misoprostol để phát khởi chuyển dạ trên thai sống và đủ tháng._
+Sẹo mổ cũ (mổ lấy thai, mổ bóc nhân xơ, v.v).
+
+Đa sản, ngôi sinh khó như ngôi trán, ngôi mặt, ngôi ngang, bất xứng đầu chậu.
+
+Các yếu tố nguy cơ khác ít gặp hơn như sinh giúp khi không đủ điều kiện hay sai kỹ thuật, khối u ở vị trí tiền đạo.
+
+Tăng co bằng oxytocin được xem là một yếu tố nguy cơ, nhất là khi không được thực hiện tốt hay thực hiện trên thai phụ đa sản.
+
+Một số trường hợp vỡ tử cung được ghi nhận có liên quan đến khởi phát chuyển dạ bằng misoprostol, cả ở người con so và con rạ. _Do nguy cơ này, Bộ Y tế nước ta không cho phép dùng misoprostol để phát khởi chuyển dạ trên thai sống và đủ tháng._
 
 ## Dấu hiệu lâm sàng
 

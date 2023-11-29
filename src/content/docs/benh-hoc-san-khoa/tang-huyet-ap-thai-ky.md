@@ -33,6 +33,8 @@ Nguồn gốc xuất hiện tiền sản giật bắt đầu từ bánh nhau nh�
 
 ## Một số yếu tố nguy cơ
 
+Một số yếu tố nguy cơ tăng huyết áp trong thai kỳ:
+
 - Con so.
 - Béo phì.
 - Đa thai.
@@ -87,28 +89,33 @@ Hội chứng HELLP là một biến chứng nặng của tiền sản giật v�
 
 ### Tiêu chuẩn chẩn đoán
 
-- Lâm sàng:
-  - Xuất huyết dưới da, niêm mạc.
-  - Đau hạ sườn phải.
-- Cận lâm sàng:
-  - LDH > 600 IU/L.
-  - Bilirubin toàn phần > 12 mg/dL.
-  - AST > 70 IU/L.
-  - Giảm Haptoglobin.
+Lâm sàng:
+
+- Xuất huyết dưới da, niêm mạc.
+- Đau hạ sườn phải.
+
+Cận lâm sàng:
+
+- LDH > 600 IU/L.
+- Bilirubin toàn phần > 12 mg/dL.
+- AST > 70 IU/L.
+- Giảm Haptoglobin.
 
 ### Chấm dứt thai kỳ
 
-- Phụ thuộc tình trạng của sản phụ (cá thể hóa điều trị).
-- Ổn định cho mẹ trước khi chấm dứt thai kỳ:
-  - Theo dõi huyết áp, mạch, nước tiểu, nhịp thở.
-  - Hạn chế nước vào < 100 mL/h.
-  - Dự trù 2 đơn vị hồng cầu và tiểu cầu. Truyền tiểu cầu khi dưới 50 T/L (chỉnh từ 6-10 đơn vị).
-  - Theo dõi tim thai, monitoring.
-  - Theo dõi ngộ độc $MgSO_4$ (phản xạ gân xương bánh chè).
+Phụ thuộc tình trạng của sản phụ (cá thể hóa điều trị).
+
+Ổn định cho mẹ trước khi chấm dứt thai kỳ:
+
+- Theo dõi huyết áp, mạch, nước tiểu, nhịp thở.
+- Hạn chế nước vào < 100 mL/h.
+- Dự trù 2 đơn vị hồng cầu và tiểu cầu. Truyền tiểu cầu khi dưới 50 T/L (chỉnh từ 6-10 đơn vị).
+- Theo dõi tim thai, monitoring.
+- Theo dõi ngộ độc $MgSO_4$ (phản xạ gân xương bánh chè).
 
 ## Biến chứng tăng huyết áp thai kỳ
 
-### Về phía mẹ
+Về phía mẹ:
 
 - Sản giật.
 - Hoại tử tế bào gan.
@@ -119,7 +126,7 @@ Hội chứng HELLP là một biến chứng nặng của tiền sản giật v�
 - Rau bong nong.
 - Băng huyết sau sinh.
 
-### Về phía con
+Về phía con:
 
 - Tử vong chu sinh.
 - Đẻ non.
@@ -152,7 +159,7 @@ Nếu tăng huyết áp nặng dùng đường tiêm tĩnh mạch sau chuyển s
 
 #### Lợi tiểu quai Henlé: Furosemide
 
-Thuốc lợi tiểu được dùng trong trường hợp tiền sản giật rất nặng với thiểu niệu / vô niệu / suy thận, để cứu mẹ.
+Thuốc lợi tiểu được dùng trong trường hợp tiền sản giật rất nặng với thiểu niệu/vô niệu/suy thận, để cứu mẹ.
 
 Sử dụng thuốc lợi tiểu được đặt ra trong trường hợp thiểu niệu hoặc vô niệu (nước tiểu 24 giờ < 800 mL, đặc biệt trong trường hợp nước tiểu 24 giờ < 400 mL), đe dọa phù phổi cấp, phù não, v.v.
 
@@ -164,7 +171,7 @@ Alpha methyldopa là thuốc được xem là an toàn nhất trong suốt thai 
 
 Cơ chế tác dụng của alpha methyldopa chưa được hiểu thấu đáo. Do thuốc ức chế dẫn truyền dopaminergic, nên gây ra tê liệt dẫn truyền thần kinh ngoại vi điều hòa giao cảm. Thuốc còn có tác dụng trung ương.
 
-Liều lượng và cách dùng alpha methyldopa, viên 250 mg: Khởi đầu 1-3 viên mỗi ngày, liều tối đa 8 viên mỗi ngày. Dạng thuốc và hàm lượng: Viên nén: 125 mg, 250 mg và 500 mg. Hỗn dịch uống: 250 mg / 5 mL.
+Liều lượng và cách dùng alpha methyldopa, viên 250 mg: Khởi đầu 1-3 viên mỗi ngày, liều tối đa 8 viên mỗi ngày. Dạng thuốc và hàm lượng: Viên nén: 125 mg, 250 mg và 500 mg. Hỗn dịch uống: 250 mg/5 mL.
 
 Tác dụng phụ alpha methyldopa có thể gây ra tác dụng phụ gồm trầm cảm, buồn ngủ, chóng mặt, thay đổi chức năng gan.
 
@@ -178,7 +185,7 @@ Cơ chế thuốc gây giãn mạch trực tiếp, tác động trên các tiể
 
 Liều lượng và cách dùng hydralazin: Hydralazin được dùng đường tiêm mạch chậm với liều đầu 5 mg trong 1-2 phút, nếu sau 15-20 phút không
 đạt được hạ áp, cho 5-10 mg tĩnh mạch chậm tiếp. Nếu sau tổng liều 25 mg mà vẫn không kiểm soát được huyết áp thì nên dùng thuốc khác. Như
-vậy tổng liều tối đa không quá 25 mg. Dạng thuốc và hàm lượng: Viên nén: 10 mg, 25 mg và 50 mg. Ống tiêm 25 mg / 1 mL.
+vậy tổng liều tối đa không quá 25 mg. Dạng thuốc và hàm lượng: Viên nén: 10 mg, 25 mg và 50 mg. Ống tiêm 25 mg/1 mL.
 
 Tác dụng không mong muốn quan trọng nhất là hạ huyết áp đột ngột có thể gây suy thai.
 
@@ -192,7 +199,7 @@ Cơ chế của thuốc là ức chế thụ thể β giao cảm ở tim và m�
 
 Liều lượng và cách dùng labetalol: Liều boluses 20-80 mg (tối đa 220 mg), sau đó duy trì bằng đường uống 200 mg x 3 lần mỗi ngày, tối đa 800
 mg trong 8 giờ. Sau 2-3 ngày điều trị, điều chỉnh tùy vào từng sản phụ, thường là 200-400 mg mỗi ngày. Dạng thuốc và hàm lượng: Viên nén
-100 mg, 200 mg, 300 mg, Ống tiêm 5 mg / 1mL. Dung dịch tiêm truyền 100 mg / 20mL.
+100 mg, 200 mg, 300 mg, Ống tiêm 5 mg/1mL. Dung dịch tiêm truyền 100 mg/20mL.
 
 Chống chỉ định ở sản phụ suy tim sung huyết, hen suyễn và nhịp chậm xoang.
 
@@ -204,8 +211,8 @@ Các chất chẹn kênh calcium là thuốc dùng trong những trường hợp
 
 Cơ chế ức chế kênh calcium loại 2, tức là ức chế chọn lọc dòng canxi đi vào trong cơ trơn mạch máu dẫn đến giãn mạch và hạ huyết áp. Nifedipin tác động trên cả các mạch máu trung bình, nên nó khởi phát tác dụng nhanh hơn hydralazin.
 
-Liều lượng và cách dùng nifedipin: Liều điều trị của nifedipin là 10-20 mg / 20-30 phút (viên uống tác dụng nhanh), tối đa 50 mg. Sau đó 10-20
-mg / 4-6 giờ (tối đa không quá 120 mg mỗi ngày) để duy trì huyết áp ở mức mong muốn. Có thể dùng nifedipin viên uống tác dụng kéo dài. Dạng thuốc và hàm lượng: Viên nang mềm: 10 mg, có thể dùng uống, đặt dưới lưỡi. Viên nén bao phim tác dụng chậm 20 mg. Viên phóng thích kéo dài 30 mg hoặc 60 mg.
+Liều lượng và cách dùng nifedipin: Liều điều trị của nifedipin là 10-20 mg/20-30 phút (viên uống tác dụng nhanh), tối đa 50 mg. Sau đó 10-20
+mg/4-6 giờ (tối đa không quá 120 mg mỗi ngày) để duy trì huyết áp ở mức mong muốn. Có thể dùng nifedipin viên uống tác dụng kéo dài. Dạng thuốc và hàm lượng: Viên nang mềm: 10 mg, có thể dùng uống, đặt dưới lưỡi. Viên nén bao phim tác dụng chậm 20 mg. Viên phóng thích kéo dài 30 mg hoặc 60 mg.
 
 Tác dụng không mong muốn nói chung bao gồm tim đập nhanh, nhức đầu và hồi hộp.
 
@@ -218,7 +225,7 @@ tác dụng lên co bóp tim, nên ít làm tăng nhịp tim phản xạ. Nicard
 
 Liều lượng và cách dùng nicardipin: Uống 20 mg x 3 lần mỗi ngày. Hoặc truyền tĩnh mạch với liều bolus 0.5-1 mg, sau đó duy trì 2 mg mỗi
 giờ (pha 1 ống nicardipin trong 40 mL dung dịch Glucose 5%, dùng bơm tiêm điện truyền với tốc độ 10 mL mỗi giờ), chỉnh liều theo huyết áp
-sản phụ. Dạng thuốc và hàm lượng: Viên nang 20 mg, 30 mg. Viên nang tác dụng kéo dài 30 mg, 40 mg, 45 mg, 60 mg. Dung dịch tiêm 10 mg / 10 mL.
+sản phụ. Dạng thuốc và hàm lượng: Viên nang 20 mg, 30 mg. Viên nang tác dụng kéo dài 30 mg, 40 mg, 45 mg, 60 mg. Dung dịch tiêm 10 mg/10 mL.
 
 Tác dụng phụ đau đầu, chóng mặt, buồn nôn, nôn, đau dạ dày. Nicardipin ít qua sữa mẹ.
 
