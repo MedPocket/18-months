@@ -10,10 +10,10 @@
     "start": "astro dev"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.13.1",
+    "@astrojs/starlight": "^0.14.0",
     "@astrojs/starlight-tailwind": "^2.0.1",
     "@astrojs/tailwind": "^5.0.2",
-    "astro": "^3.6.3",
+    "astro": "^3.6.4",
     "astro-embed": "^0.6.1",
     "rehype-katex": "^7.0.0",
     "remark-math": "^6.0.0",
