@@ -6,6 +6,10 @@ lastUpdated: 2023-10-07
 
 Chi tiết về một số thuốc thường dùng trong sản khoa.
 
+:::caution
+Amoxiciline khuyến cáo không dùng trong thai kỳ do nguy cơ loạn sản ruột ở thai nhi nhưng trong điều kiện dưới đây vẫn đang sử dụng cho phép.
+:::
+
 ## Các nhóm thuốc thường dùng
 
 ### Giảm đau, hạ sốt
@@ -309,13 +313,13 @@ Chi tiết về một số thuốc thường dùng trong sản khoa.
 
 ### Đẻ mổ
 
-#### Dùng Duratocin
+#### Đờ tử cung sau đẻ
 
-1. Carbetocin (Hemotocin) 100 mg x 01 ống, tiêm tĩnh mạch chậm.
+1. Carbetocin (Hemotocin) 100 mg x 01 ống, tiêm tĩnh mạch.
 
 #### Sau đẻ 4h
 
-1. Oxytocin 10 UI/ml x 01 ống, pha Glucose 5% 500ml x 01 chai, truyền tĩnh mạch 60 giọt/phút.
+1. Oxytocin 10 UI/ml x 02 ống, pha Glucose 5% 500ml x 02 chai, truyền tĩnh mạch 60 giọt/phút.
 2. Natri Clorid 0.9% 500ml x 01 chai, truyền tĩnh mạch 60 giọt/phút.
 3. Diclofenac (Diclovat) 100mg x 01 viên, đặt hậu môn.
 4. Vitamin K1 (Vinphyton 1 mg/ml) 1 mg/ml x 01 ống, tiêm bắp con.
@@ -364,3 +368,8 @@ Chi tiết về một số thuốc thường dùng trong sản khoa.
 3. Estradiol valerat (Progynova Tab) 2mg x 28 viên, uống 02 viên/lần x 02 lần/ngày, sáng/chiều.
 4. Ferlatum 40 mg x 20 ống, uống 01 ống/ngày.
 5. Misoprotol 200 mg x 10 viên, uống 01 viên/lần x 02 lần/ngày, sáng/chiều.
+
+### Thai lưu
+
+1. Amoxicilin 875 mg + Acid clavulanic 125 mg x 2 viên, uống 01 viên/lần x 02 lần/ngày, sáng/chiều.
+2. Transenamic 500 mg x 01 ống, tiêm bắp.
