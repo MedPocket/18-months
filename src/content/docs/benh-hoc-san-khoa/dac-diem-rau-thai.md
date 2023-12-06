@@ -4,7 +4,7 @@ description: Đặc điểm của rau thai.
 lastUpdated: 2023-11-26
 ---
 
-## Nguồn gốc
+Nguồn gốc bánh rau:
 
 1. Rau thuộc thai: Màng đệm có nhung mao.
 2. Rau thuộc mẹ: Màng rụng rau.

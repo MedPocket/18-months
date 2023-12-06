@@ -4,33 +4,29 @@ description: Đẻ non/Dọa đẻ non.
 lastUpdated: 2023-11-10
 ---
 
-Đẻ non cùng với các hậu quả khác của nó là nguyên nhân gây tử vong sơ sinh hàng đầu.
-
-## Định nghĩa
-
-Trẻ sinh non được định nghĩa là trẻ được sinh ra trước khi tuổi thai được 37 tuần 0/7.
+Trẻ sinh non được định nghĩa là trẻ được sinh ra trước khi tuổi thai được 37 tuần.
 
 - Sơ sinh **đủ tháng** được định nghĩa là sơ sinh với tuổi thai lúc sinh là từ 37 đến 42 tuần.
 - **Thai kỳ kéo dài quá ngày dự sinh (thai già tháng)** được định nghĩa khi thai kỳ kéo dài > 42 tuần vô kinh.
-- **Trẻ sinh non** được định nghĩa là trẻ được sinh ra trước 37 tuần 0/7.
+- **Trẻ sinh non** được định nghĩa là trẻ được sinh ra trước 37 tuần.
 
 ## Phân loại
 
 Phân loại dọa đẻ non:
 
-- Tuổi thai dưới 28 tuần 0/7: được gọi là sơ sinh cực non. Chiếm khoảng 5% các trường hợp.
-- Tuổi thai từ 28 tuần 0/7 đến 31 tuần 6/7: được gọi là sơ sinh rất non. Chiếm khoảng 15% các trường hợp.
-- Tuổi thai từ 32 tuần 0/7 đến 33 tuần 6/7. Chiếm khoảng 20% các trường hợp.
-- Tuổi thai từ 34 tuần 0/7 đến 36 tuần 6/7. Chiếm khoảng 60% các trường hợp.
+- Tuổi thai dưới 28 tuần: được gọi là sơ sinh cực non. Chiếm khoảng 5% các trường hợp.
+- Tuổi thai từ 28 tuần đến 31 tuần 6 ngày: được gọi là sơ sinh rất non. Chiếm khoảng 15% các trường hợp.
+- Tuổi thai từ 32 tuần đến 33 tuần 6 ngày. Chiếm khoảng 20% các trường hợp.
+- Tuổi thai từ 34 tuần đến 36 tuần 6 ngày. Chiếm khoảng 60% các trường hợp.
 
 ## Bệnh học
 
 Có 2 nhóm nguyên nhân lớn của sinh non:
 
-- Cuộc sinh được chỉ định vì một lý do y khoa như **tiền sản giật, nhau tiền đạo, thai với giới hạn tăng trưởng trong tử cung nặng gây suy thai**. Nhóm này chiếm khoảng 20%.
+- Cuộc sinh được chỉ định vì 1 lý do y khoa như **tiền sản giật, nhau tiền đạo, thai với giới hạn tăng trưởng trong tử cung nặng gây suy thai**. Nhóm này chiếm khoảng 20%.
 - Sinh non **tự phát**, chiếm khoảng 80% các trường hợp còn lại, đa phần liên quan đến **chuyển dạ sinh non** hoặc **ối vỡ non** trên thai non tháng (Preterm Premature Rupture Of Membranes - PPROM). Chúng ta **không thể tìm được nguyên nhân hoặc yếu tố nguy cơ** của chuyển dạ sinh non.
 
-Chuyển dạ sinh non là một hội chứng có liên quan đến nhiều cơ chế bệnh sinh khác nhau:
+Chuyển dạ sinh non là 1 hội chứng có liên quan đến nhiều cơ chế bệnh sinh khác nhau:
 
 1. Hoạt hóa trục hạ đồi-tuyến yên-tuyến thượng thận ở mẹ hoặc thai nhi do stress, **liên quan corticoid**.
 2. **Nhiễm trùng** (màng đệm, màng rụng hoặc toàn thân) và khuẩn hệ âm đạo bệnh lý. Loạn khuẩn âm đạo nên được **điều trị sớm trước tuần 20**, do có thể làm giảm tần suất sinh non, nhờ làm **giảm vỡ ối**.
@@ -55,9 +51,9 @@ Các thai phụ có các đặc điểm sau được xem là có yếu tố nguy
 
 Chiều dài kênh cổ tử cung được hiểu là khoảng cách đo được từ lổ cổ tử cung ngoài đến lổ cổ tử cung trong. Đo trên siêu âm. **Bình thường**, trong giai đoạn giữa của thai kỳ, cổ tử cung dài khoảng **30-40 mm**.
 
-Vào **tuần lễ 24 của thai kỳ**, trên một thai phụ **không có triệu chứng**, nếu chiều dài **cổ tử cung ngắn < 25 mm** thì nguy cơ sinh non sẽ tăng lên. Ngược lại, nếu **có các cơn gò tử cung** nhưng **cổ tử cung vẫn còn dài hơn 30 mm** thì nguy cơ có sinh non trong vòng 7 ngày kế tiếp chỉ là 1%.
+Vào **tuần lễ 24 của thai kỳ**, trên 1 thai phụ **không có triệu chứng**, nếu chiều dài **cổ tử cung ngắn < 25 mm** thì nguy cơ sinh non sẽ tăng lên. Ngược lại, nếu **có các cơn gò tử cung** nhưng **cổ tử cung vẫn còn dài hơn 30 mm** thì nguy cơ có sinh non trong vòng 7 ngày kế tiếp chỉ là 1%.
 
-Năm 2015, FIGO **khuyến cáo** thực hiện việc **khảo sát chiều dài kênh cổ tử cung thường qui ở tuổi thai 19-23 tuần +6/7**.
+Năm 2015, FIGO **khuyến cáo** thực hiện việc **khảo sát chiều dài kênh cổ tử cung thường qui ở tuổi thai 19-23 tuần +6 ngày**.
 
 ![Chiều dài cổ tử cung](../../../assets/benh-hoc-san-khoa/de-non/chieu-dai-co-tu-cung.png)
 
@@ -97,9 +93,9 @@ Theo dõi **tình trạng xuất huyết** của sản phụ, vì nhau bong non 
 
 Corticoidsteroid liệu pháp nhằm mục đích dự phòng hội chứng suy hô hấp cấp ở sơ sinh.
 
-Nếu thực hiện corticosteroid liệu pháp cho chuyển dạ sinh non xảy ra ở một **thai có khả năng nuôi sống được (ở Việt Nam, dù rằng một vài cơ sở định mốc sống là 24 tuần, nhưng mốc nuôi sống phổ biến vẫn là khoảng 28 tuần)** và có **tuổi thai dưới 34 tuần** vô kinh. Corticoid liệu pháp là **không cần thiết sau 34 tuần**.
+Nếu thực hiện corticosteroid liệu pháp cho chuyển dạ sinh non xảy ra ở 1 **thai có khả năng nuôi sống được (ở Việt Nam, dù rằng 1 vài cơ sở định mốc sống là 24 tuần, nhưng mốc nuôi sống phổ biến vẫn là khoảng 28 tuần)** và có **tuổi thai dưới 34 tuần** vô kinh. Corticoid liệu pháp là **không cần thiết sau 34 tuần**.
 
-Chỉ thực hiện duy nhất một đợt corticosteroid cho thai phụ đang **có nguy cơ trực tiếp của sinh non trong vòng 7 ngày, hiện đang ở giữa tuần thai 24 và 34.**
+Chỉ thực hiện duy nhất 1 đợt corticosteroid cho thai phụ đang **có nguy cơ trực tiếp của sinh non trong vòng 7 ngày, hiện đang ở giữa tuần thai 24 và 34.**
 
 Corticosteroid liệu pháp **có khả năng gây tác hại cho hệ thần kinh thai nhi khi bị lạm dụng.**
 
