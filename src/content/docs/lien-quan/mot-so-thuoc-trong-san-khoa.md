@@ -95,7 +95,7 @@ Amoxiciline khuyến cáo không dùng trong thai kỳ do nguy cơ loạn sản 
 - Hoạt chất - hàm lượng: Tractocile 37.5 mg/5ml.
 - Dạng: Lọ tiêm.
 - Tác dụng: Thuốc chống sinh non.
-- Liều: Liệu trình có chống co cường co dùng 4 lọ. 1 lọ pha 45 ml NaCl 0.9% truyền bơm kim điện bolus 9ml, truyền 24 ml/h trong 3h đầu, 8 ml/h trong những giờ tiếp theo.
+- Liều: Liệu trình có chống cường co thường dùng 4 lọ. 1 lọ pha 45 ml NaCl 0.9% truyền bơm kim điện bolus 9ml, truyền 24 ml/h trong 3h đầu, 8 ml/h trong những giờ tiếp theo.
 
 ### Tăng co
 
