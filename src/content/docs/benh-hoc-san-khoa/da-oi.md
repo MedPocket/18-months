@@ -52,12 +52,13 @@ Khám âm đạo có dấu hiệu cục đá.
 
 Siêu âm:
 
-- Chỉ số ối (Amniotic fluid index - AFI) &ge; 22cm ở 3 tháng giữa và &ge; 25cm ở 3 tháng cuối.
+- Chỉ số ối (Amniotic fluid index - AFI) &ge; 22 cm ở 3 tháng giữa và &ge; 25 cm ở 3 tháng cuối.
 - Khoang ối sâu nhất (Single deepest pocket measurement - SDP - SDP) &ge; 8 cm. SDP &ge; 16 cm là đa ối nặng.
-  | Mức độ | Nhẹ | Trung bình | Nặng |
+
+  | Mức độ | Nhẹ       | Trung bình | Nặng       |
   | ------ | --------- | ---------- | ---------- |
-  | AFI | 25-30 cm | 30.1-35 cm | > 35 cm |
-  | SDP | 8-11.9 cm | 12-15.9 cm | &ge; 16 cm |
+  | AFI    | 25-30 cm  | 30.1-35 cm | > 35 cm    |
+  | SDP    | 8-11.9 cm | 12-15.9 cm | &ge; 16 cm |
 
 Siêu âm hình thái thai nhi, đo chiều dài cổ tử cung.
 
@@ -85,7 +86,7 @@ Những tuần thai sớm có thể thấy bất thường karyotype thai, TORCH
 
 Điều trị triệu chứng:
 
-- Giảm ối nếu có quá tải dịch (khó thở, tim nhanh, đau bụng) tốc độ < 1l/20 phút.
+- Giảm ối nếu có quá tải dịch (khó thở, tim nhanh, đau bụng) tốc độ < 1 l/20 phút.
 - Điều trị Indomethasone:
   - Chỉ định: Đa ối vô căn, thai nhi chưa trưởng thành.
   - Liều 25 mg (uống), 4 lần/ngày, nếu AFI không giảm trong 2-3 này có thể tăng 3 mg/kg/ngày. Giảm hoặc ngưng AFI trước 34 tuần.
@@ -106,9 +107,13 @@ Liệu pháp Corticosteroids thường quy.
 ## Biến chứng
 
 Sinh non.
+
 Ối vỡ non.
+
 Sa dây rốn.
+
 Ngôi bất thường.
+
 Băng huyết sau sinh do đờ tử cung.
 
 ## Nguồn tham khảo

@@ -316,7 +316,7 @@ Nếu quyết định kéo dài thai kỳ được đặt ra thì có thể cân
 
 ### Khi tuổi thai từ 33-34 tuần 6 ngày
 
-Cần cân nhắc tình trạng mẹ có cho phép kéo dài thêm 48 giờ cho corticoids liệu pháp dự phòng suy hô hấp cấp hay không?
+Cần cân nhắc tình trạng mẹ có cho phép kéo dài thêm 48 giờ cho Corticosteroids liệu pháp dự phòng suy hô hấp cấp hay không?
 
 2 điều kiện tiên quyết để thực hiện corticoisteroids liệu pháp là (1) tình trạng mẹ phải đảm bảo cho việc kéo dài thai kỳ thêm 48 giờ mà không ảnh hưởng xấu đến mẹ, và (2) tình trạng tuần hoàn tử cung-nhau và dự trữ kiềm của con phải đảm bảo chịu đựng cuộc sống trong tử cung thêm 48 giờ.
 

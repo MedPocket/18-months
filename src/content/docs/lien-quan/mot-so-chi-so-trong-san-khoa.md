@@ -17,6 +17,14 @@ Chi tiết về một số chỉ số trong sản khoa.
 - 7-9 khởi phát chuyển dạ trong vòng 8 giờ.
 - &#62; 10 khởi phát chuyển dạ trong 2-3 giờ.
 
+## Bề cao tử cung
+
+Công thức tính bề cao tử cung: **Tuổi của thai nhi (tháng) = (Bề cao tử cung : 4 ) + 1**
+
+## Cân nặng thai nhi
+
+Công thức tính cân nặng thai nhi: **Trọng lượng thai nhi (g) =[(chiều cao tử cung (cm) + chu vi bụng (cm)] x 100) : 4**
+
 ## Nguồn tham khảo
 
 - TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
