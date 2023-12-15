@@ -43,12 +43,6 @@ export default defineConfig({
             directory: 'lien-quan',
           },
         },
-        /* {
-          label: 'Nhật Ký',
-          autogenerate: {
-            directory: 'nhat-ky',
-          },
-        }, */
       ],
       pagination: false,
     }),
