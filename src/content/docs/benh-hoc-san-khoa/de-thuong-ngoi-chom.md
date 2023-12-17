@@ -57,15 +57,15 @@ Giai đoạn cần hỗ trợ để cuộc sinh an toàn (e đến h). Chỉ đ�
 2. Ngôi đã sẵn sàng để sổ, ở vị trí +3 làm căng phồng tầng sinh môn, âm hộ nhìn về phía trần nhà.
 3. Hai âm môi bé tách rộng ra.
 
-Người đỡ sinh dùng ba ngón tay giữa của tay phải đè vào vùng thượng chẩm để cho đầu cúi thêm, cho tới khi hạ chẩm ra đến bờ dưới khớp vệ. Song song với giúp đầu cúi bằng tay phải, người đỡ sinh tay trái đè vào vùng tầng sinh môn tránh rách thêm tầng sinh môn.
+Người đỡ sinh dùng 3 ngón tay giữa của tay phải đè vào vùng thượng chẩm để cho đầu cúi thêm, cho tới khi hạ chẩm ra đến bờ dưới khớp vệ. Song song với giúp đầu cúi bằng tay phải, người đỡ sinh tay trái đè vào vùng tầng sinh môn tránh rách thêm tầng sinh môn.
 
 Khi hạ chẩm ra đến bờ dưới khớp vệ, bắt đầu dùng tay phải kiểm soát tốc độ ngửa của đầu khi thực hiện sổ trán. Tay còn lại giữ tầng sinh môn. Nếu tầng sinh môn quá căng thì có thể thực hiện cắt tầng sinh môn lúc này.
 
-Khi đầu đã sổ, nếu thấy dây rốn quấn cổ lỏng, tháo dây rốn qua đầu thai ngay. Nếu dây rốn quấn cổ chặt quấn chặt thì kẹp cắt dây rốn ngay tại vùng cổ thai.
+Khi đầu đã sổ, nếu thấy dây rốn quấn cổ lỏng, tháo dây rốn qua đầu thai ngay. Nếu dây rốn quấn cổ chặt thì kẹp cắt dây rốn ngay tại vùng cổ thai.
 
 ![Đẻ thường ngôi chỏm e-f](../../../assets/benh-hoc-san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-e-f.png)
 
-Sau khi đầu sổ hoàn toàn, để đầu tự xoay ngoài về vị trí nguyên thủy của nó (xoay ngoài thì 1st), chờ thêm để cho cơn co tự nhiên đưa vai lọt vào tiểu khung. Khi vai đã lọt, đường kính lưỡng mỏm vai đi vào đường kính chéo của eo trên và xoay. Vai xoay trong sẽ làm cho đầu xoay ngoài thêm một thì nữa, gọi là xoay ngoài thì 2nd. Cuối thì này, vai đã vào đến đường kính trước sau eo dưới, đầu có vị trí chẩm ngang. Người đỡ sinh có thể giúp thai hoàn thành thì xoay ngoài thứ nhì, rồi bắt đầu đỡ vai.
+Sau khi đầu sổ hoàn toàn, để đầu tự xoay ngoài về vị trí nguyên thủy của nó (xoay ngoài thì 1st), chờ thêm để cho cơn co tự nhiên đưa vai lọt vào tiểu khung. Khi vai đã lọt, đường kính lưỡng mỏm vai đi vào đường kính chéo của eo trên và xoay. Vai xoay trong sẽ làm cho đầu xoay ngoài thêm một thì nữa, gọi là xoay ngoài thì 2nd. Cuối thì này, vai đã vào đến đường kính trước sau eo dưới, đầu có vị trí chẩm ngang. Người đỡ sinh có thể giúp thai hoàn thành thì xoay ngoài thứ 2nd, rồi bắt đầu đỡ vai.
 
 - Đỡ vai trước: người đỡ sinh dùng hai tay ôm hai bên đầu thai nhi, vùng đỉnh, kéo đầu thai về phía chân mình và hơi xuống phía dưới để mỏm vai trước ra hẳn cho đến khi bờ dưới cơ delta tì dưới khớp vệ. **Nhớ chú ý giữ đúng phương kéo để tránh gãy xương đòn.**
 - Đỡ vai sau: sau khi vai trước đã sổ hoàn toàn, người đỡ kéo ngược thai lên trên, vai trước sát vùng tiền đình, thân thai nhi sẽ cong lại và vai sau sẽ sổ nhẹ nhàng, không làm rách âm tầng sinh môn. **Nhớ chú ý giữ tầng sinh môn khi sổ vai sau.**
@@ -73,10 +73,10 @@ Sau khi đầu sổ hoàn toàn, để đầu tự xoay ngoài về vị trí ng
 ![Đẻ thường ngôi chỏm g-h](../../../assets/benh-hoc-san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-g-h.png)
 
 Phần còn lại của thai và mông sẽ dễ dàng. Bàn tay trái đỡ cổ thai nhi, bàn tay phải vuốt dọc lưng thai
-nhi tới chân, nắm hai chân bằng cách cầm hai bàn chân bằng ba ngón cái, trỏ và giữa bàn tay phải. Sau sổ thai, cần giữ đầu thai nhi thấp hơn bàn sinh.
+nhi tới chân, nắm hai chân bằng cách cầm hai bàn chân bằng 3 ngón cái, trỏ và giữa bàn tay phải. Sau sổ thai, cần giữ đầu thai nhi thấp hơn bàn sinh.
 
-**Thủ thuật cắt tầng sinh môn là cần thiết nhưng không phải là một can thiệp thường qui.** Trong khi đỡ sinh, sau khi đã giúp cho đầu cúi tối đa, hạ chẩm đã ra đến bờ dưới khớp vệ, có thể bắt đầu cho đầu thai ngửa dần làm thoát âm các phần của đầu thai với đường kính ngày càng lớn đi qua tầng sinh môn. **Nên cắt tầng sinh môn khi quá căng để mở rộng chủ động ở lối ra của đường sinh, nhằm tránh các tổn thương không kiểm soát được.**
-Việc cắt tầng sinh môn không phải luôn luôn cần thiết. Một số tình huống mà trong đó việc cắt tầng sinh môn sẽ có lợi như sinh con to, sinh thủ thuật. Con so không phải là một tình huống mà trong đó việc cắt tầng môn được thực hiện thường qui.
+**Thủ thuật cắt tầng sinh môn là cần thiết nhưng không phải là một can thiệp thường quy.** Trong khi đỡ sinh, sau khi đã giúp cho đầu cúi tối đa, hạ chẩm đã ra đến bờ dưới khớp vệ, có thể bắt đầu cho đầu thai ngửa dần làm thoát âm các phần của đầu thai với đường kính ngày càng lớn đi qua tầng sinh môn. **Nên cắt tầng sinh môn khi quá căng để mở rộng chủ động ở lối ra của đường sinh, nhằm tránh các tổn thương không kiểm soát được.**
+Việc cắt tầng sinh môn không phải luôn luôn cần thiết. Một số tình huống mà trong đó việc cắt tầng sinh môn sẽ có lợi như sinh con to, sinh thủ thuật. Con so không phải là một tình huống mà trong đó việc cắt tầng môn được thực hiện thường quy.
 Cần lưu ý rằng cắt tầng sinh môn không giúp rút ngắn giai đoạn rặn sổ thai, không làm cho sản phụ sinh nhanh hơn.
 
 ![Cắt tầng sinh môn](../../../assets/benh-hoc-san-khoa/de-thuong-ngoi-chom/cat-tang-sinh-mon.png)
