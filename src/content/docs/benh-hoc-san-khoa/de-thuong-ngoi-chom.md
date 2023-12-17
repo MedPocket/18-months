@@ -26,7 +26,7 @@ Trong thực tế, các hiện tượng trên xảy ra kế tiếp nhau, hiện 
 
 **Ngôi gọi là lọt** khi đường kính lọt của ngôi đã đi qua được măt phẳng của eo trên 12.75 cm. **Đường kính lọt lý thuyết của ngôi chỏm là đường kính hạ chẩm-thóp trước (9.5 cm).** **Trên lâm sàng, người ta dùng đường kính lưỡng đỉnh (9.5cm) thay vì dùng đường kính hạ chẩm-thóp trước.** **Chẩn đoán hiện tượng lọt qua** khám bụng và khám âm đạo.
 
-- Khám bụng: Phần đầu thai nhi còn trên xương vệ tương ứng độ rộng bao nhiêu ngón tay khép lại sẽ tương ứng với độ lọt bao nhiêu phần năm. Nếu toàn bộ đầu thai nhi nằm trên xương vệ, tương ứng với chiều rộng của năm ngón tay khi khép lại, ta nói đầu ở vị trí 5/5. Nếu toàn bộ thai nhi đã xuống dưới xương vệ, ta nói đầu ở vị trí 0/5.** Ngôi thai lọt sẽ có vị trí khoảng 2/5.**
+- Khám bụng: Phần đầu thai nhi còn trên xương vệ tương ứng độ rộng bao nhiêu ngón tay khép lại sẽ tương ứng với độ lọt bao nhiêu phần năm. Nếu toàn bộ đầu thai nhi nằm trên xương vệ, tương ứng với chiều rộng của năm ngón tay khi khép lại, ta nói đầu ở vị trí 5/5. Nếu toàn bộ thai nhi đã xuống dưới xương vệ, ta nói đầu ở vị trí 0/5. **Ngôi thai lọt sẽ có vị trí khoảng 2/5.**
 - Khám âm đạo: Khi ngôi thai chưa lọt, phần thấp nhất của xương đầu vẫn còn ở trên vị trí của gai hông, được đánh giá -1, -2, -3. Khi ngôi thai đã lọt, phần thấp nhất của xương đầu (phần xương cứng) đã vượt khỏi vị trí của gai hông, được đánh giá +1, +2, +3.
 
 ![Độ lọt ngôi thai](../../../assets/benh-hoc-san-khoa/de-thuong-ngoi-chom/do-lot-ngoi-thai.png)
