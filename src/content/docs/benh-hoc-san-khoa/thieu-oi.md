@@ -19,16 +19,23 @@ Thuốc như ức chế men chuyển, ức chế tổng hợp Prostagladin, Tras
 _Thiểu ối có nguồn gốc do thai chỉ xuất hiện sau 17-20 tuần._
 
 Bất thường nhiễm sắc thể.
+
 Bất thường bẩm sinh, đặc biệt là đường tiết niệu.
+
 Thai chậm tăng trưởng.
+
 Thai lưu.
+
 Thai quá ngày.
+
 Ối vỡ sớm, ối vỡ non.
 
 ### Từ phần phụ của thai
 
 Rau bong non.
+
 Truyền máu song thai.
+
 Nhồi máu hoặc thuyên tắc rau thai.
 
 ## Chẩn đoán
