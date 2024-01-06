@@ -46,9 +46,11 @@ export default defineConfig({
         },
       ],
       pagination: false,
-      plugins: [starlightLinksValidator({
-        errorOnRelativeLinks: false,
-      })],
+      plugins: [
+        starlightLinksValidator({
+          errorOnRelativeLinks: false,
+        }),
+      ],
     }),
     tailwind({
       applyBaseStyles: false,
