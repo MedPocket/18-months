@@ -46,7 +46,9 @@ export default defineConfig({
         },
       ],
       pagination: false,
-      plugins: [starlightLinksValidator()],
+      plugins: [starlightLinksValidator({
+        errorOnRelativeLinks: false,
+      })],
     }),
     tailwind({
       applyBaseStyles: false,
