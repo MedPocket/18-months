@@ -25,7 +25,7 @@ Phân loại dọa đẻ non:
 
 Có 2 nhóm nguyên nhân lớn của sinh non:
 
-- Cuộc sinh được chỉ định vì 1 lý do y khoa như **tiền sản giật, nhau tiền đạo, thai với giới hạn tăng trưởng trong tử cung nặng gây suy thai**. Nhóm này chiếm khoảng 20%.
+- Cuộc sinh được chỉ định vì 1 lý do y khoa như **tiền sản giật, rau tiền đạo, thai với giới hạn tăng trưởng trong tử cung nặng gây suy thai**. Nhóm này chiếm khoảng 20%.
 - Sinh non **tự phát**, chiếm khoảng 80% các trường hợp còn lại, đa phần liên quan đến **chuyển dạ sinh non** hoặc **ối vỡ non** trên thai non tháng (Preterm Premature Rupture Of Membranes - PPROM). Chúng ta **không thể tìm được nguyên nhân hoặc yếu tố nguy cơ** của chuyển dạ sinh non.
 
 Chuyển dạ sinh non là 1 hội chứng có liên quan đến nhiều cơ chế bệnh sinh khác nhau:
@@ -49,7 +49,7 @@ Chuyển dạ sinh non là 1 hội chứng có liên quan đến nhiều cơ ch�
 
 **Tử cung bị biến dạng** do u xơ-cơ trơn tử cung, tử cung có vách ngăn hay các dị tật cấu trúc khác của tử cung.
 
-**Bất thường bánh nhau**: nhau bong non, nhau tiền đạo.
+**Bất thường bánh nhau**: nhau bong non, rau tiền đạo.
 
 **Thời gian giữa 2 lần mang thai ngắn** (< 6 tháng).
 
@@ -111,7 +111,7 @@ Chiều dài và tình trạng kênh tử cung sẽ được **đánh giá qua s
 
 Theo dõi bằng **monitor sản khoa** để đánh giá tần số và cường độ cơn gò.
 
-Theo dõi **tình trạng xuất huyết** của sản phụ, vì nhau bong non và nhau tiền đạo có liên quan đến chuyển dạ sinh non.
+Theo dõi **tình trạng xuất huyết** của sản phụ, vì nhau bong non và rau tiền đạo có liên quan đến chuyển dạ sinh non.
 
 ## Chẩn đoán
 

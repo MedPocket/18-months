@@ -45,7 +45,7 @@ export default defineConfig({
           },
         },
       ],
-      pagination: false,
+      pagination: true,
       plugins: [
         starlightLinksValidator({
           errorOnRelativeLinks: false,

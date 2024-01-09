@@ -6,7 +6,7 @@ lastUpdated: 2023-11-23
 
 ## Rau tiền đạo
 
-Chỉ được phép xác lập chẩn đoán nhau tiền đạo kể từ sau khi tuổi thai đạt 28 tuần lễ tròn vô kinh.
+Chỉ được phép xác lập chẩn đoán rau tiền đạo kể từ sau khi tuổi thai đạt 28 tuần lễ tròn vô kinh.
 
 Chẩn đoán dựa trên siêu âm.
 
