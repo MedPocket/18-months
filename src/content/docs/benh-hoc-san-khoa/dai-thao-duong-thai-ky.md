@@ -30,7 +30,7 @@ HIP được chia làm 2 nhóm lớn:
 - Kháng Insulin của thai nghén bắt đầu từ nửa sau (tuần thứ 20) đến cuối thai kỳ nhằm giảm tiêu thụ glucose, chuyển glucose cho thai.
 - Kháng Insulin mạn tính từ trước đó.
 
-2. Khiếm khuyết chức năng tế bào beta không bù đủ sự gia tăng của kháng Insulin.
+2. Khiếm khuyết chức năng tế bào β không bù đủ sự gia tăng của kháng Insulin.
 
 ![Thay đổi về nhu cầu Insulin](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/thay-doi-ve-nhu-cau-insulin.png)
 

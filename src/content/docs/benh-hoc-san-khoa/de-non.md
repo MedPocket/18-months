@@ -93,7 +93,7 @@ Các cổ tử cung có dạng U, dạng Y được biết đến như là nhữ
 
 Khi thực hiện fFN, người ta thường chỉ sử dụng giá trị dự báo âm, mà không sử dụng giá trị dự báo dương.
 
-### Placental alpha microglobulin-1
+### Placental α-microglobulin-1
 
 Việc khảo sát sự gia tăng bất thường của nồng độ PAMG-1 trong dịch tiết cổ tử cung sẽ giúp tầm soát các trường hợp có vỡ non các màng ối.
 
@@ -141,7 +141,7 @@ Siêu âm đường âm đạo đo chiều dài cổ tử cung.
 
 Xét nghiệm Fetal fibronectin (fFN).
 
-Partosure: Xét nghiệm sự hiện diện của placental alpha microglobulin-1 (PAMG-1).
+Partosure: Xét nghiệm sự hiện diện của placental α-microglobulin-1 (PAMG-1).
 
 ## Điều trị đẻ non
 
@@ -170,8 +170,8 @@ Phối hợp bác sĩ sơ sinh để chăm sóc trẻ.
 Có 3 nhóm dược chất lớn có thể được dùng cho mục đích khống chế tạm thời các cơn co tử cung:
 
 1. Thuốc đối vận với thụ thể oxytocin
-2. Các chất đồng vận beta-adrenergic
-3. Các chất ức chế kênh calcium
+2. Các chất đồng vận β-Adrenergic
+3. Các chất ức chế kênh Calcium
 
 ![Thuốc cắt cơn co tử cung](../../../assets/benh-hoc-san-khoa/de-non/thuoc-cat-con-co-tu-cung.png)
 
