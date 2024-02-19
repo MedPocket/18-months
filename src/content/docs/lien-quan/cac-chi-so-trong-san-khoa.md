@@ -1,14 +1,14 @@
 ---
-title: Một số chỉ số trong Sản khoa
-description: Một số chỉ số trong Sản khoa.
+title: Các chỉ số trong Sản khoa
+description: Các chỉ số trong Sản khoa.
 lastUpdated: 2023-11-29
 ---
 
-Chi tiết về một số chỉ số trong sản khoa.
+Chi tiết về 1 số chỉ số trong sản khoa.
 
 ## Chỉ số Bishop
 
-![Chỉ số Bishop](../../../assets/lien-quan/mot-so-chi-so-trong-san-khoa/chi-so-bishop.jpg)
+![Chỉ số Bishop](../../../assets/lien-quan/cac-chi-so-trong-san-khoa/chi-so-bishop.jpg)
 
 Đánh giá:
 

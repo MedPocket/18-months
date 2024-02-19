@@ -24,4 +24,4 @@ Hội chứng vượt trở ngại: cơn co tachysystole, dấu hiệu vòng Ban
 
 Khi vỡ có biểu hiện sốc do đau và mất máu. Sờ thấy các phần thai trong ổ bụng.
 
-Có các yếu tố nguy cơ như sẹo mổ cũ, đa thai, tăng co bằng oxytocin.
+Có các yếu tố nguy cơ như sẹo mổ cũ, đa thai, tăng co bằng Oxytocin.

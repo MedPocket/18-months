@@ -24,13 +24,13 @@ Kế đến, **dùng mỏ vịt** được tiệt trùng tốt để khảo sát
 
 ### Test Nitrazine
 
-**Dựa trên cơ sở là dịch tiết của âm đạo và nước tiểu có tính acid, trong khi nước ối có tính kiềm.** Giữ mẫu giấy nitrazine bằng một kẹp Kelly và nhúng nó vào dịch đọng lại ở lưỡi mỏ vịt. Dịch có tính kiềm (hiện
-diện của nước ối) sẽ được thể hiện bằng sự đổi màu của giấy thử, từ màu vàng thành màu xanh lơ. **Lưu ý: Máu và một số nhiễm trùng âm đạo có thể cho kết quả dương tính giả.**
+**Dựa trên cơ sở là dịch tiết của âm đạo và nước tiểu có tính acid, trong khi nước ối có tính kiềm.** Giữ mẫu giấy nitrazine bằng 1 kẹp Kelly và nhúng nó vào dịch đọng lại ở lưỡi mỏ vịt. Dịch có tính kiềm (hiện
+diện của nước ối) sẽ được thể hiện bằng sự đổi màu của giấy thử, từ màu vàng thành màu xanh lơ. **Lưu ý: Máu và 1 số nhiễm trùng âm đạo có thể cho kết quả dương tính giả.**
 
 ### Test dương sỉ
 
 Test lá dương xỉ dựa trên đặc tính kết tinh tạo tinh thể hình lá dương xỉ của muối chlorure natri trong môi
-trường có mặt estrogen (dịch ối). Trải một ít dịch cần khảo sát lên trên một lam kính và để nó khô, sau đó
+trường có mặt estrogen (dịch ối). Trải 1 ít dịch cần khảo sát lên trên 1 lam kính và để nó khô, sau đó
 xem dưới kinh hiển vi. Nước ối sẽ kết tinh và có thể tạo nên các cấu trúc có hình lá dương xỉ. Âm tính giả
 rất thường gặp.
 
@@ -46,7 +46,7 @@ Xử trí ối vỡ non tùy thuộc 2 yếu tố chủ chốt:
 Nếu có dấu hiệu nhiễm trùng (sốt, dịch âm đạo có mùi hôi), cho kháng sinh như trong điều trị nhiễm trùng ối và phải chấm dứt thai kỳ bất chấp tuổi thai.
 
 - Khi đã có nhiễm trùng thì không được trì hoãn chấm dứt thai kỳ vì bất cứ lý do gì.
-- Không được dùng Corticosteroids trong trường hợp có dấu hiệu nhiễm trùng, bất chấp tuổi thai.
+- Không được dùng Corticosteroid trong trường hợp có dấu hiệu nhiễm trùng, bất chấp tuổi thai.
 
 ### Không có nhiễm trùng ối
 
@@ -55,22 +55,22 @@ Nếu có dấu hiệu nhiễm trùng (sốt, dịch âm đạo có mùi hôi), 
 Cho **kháng sinh để giảm nguy cơ nhiễm trùng** ở mẹ và ở sơ sinh và trì hoãn cuộc sinh: thường là kháng sinh
 nhắm vào Streptococcus nhóm B. **Dùng Ampicillin, đường tĩnh mạch, 2 gram mỗi 6 giờ hoặc Penicillin G, đường tĩnh mạch, 2 triệu đơn vị mỗi 6 giờ, cho đến lúc sinh. Với ối vỡ non, thai non tháng lưu ý rằng phức bộ [Amoxicillin + Acid Clavulanic] bị chống chỉ định do khả năng gây viêm ruột hoại tử ở sơ sinh.**
 
-**Dùng corticosteroids** cho mẹ để giảm khả năng xảy ra hội chứng suy hô hấp cấp ở sơ sinh.
+**Dùng Corticosteroid** cho mẹ để giảm khả năng xảy ra hội chứng suy hô hấp cấp ở sơ sinh.
 
 #### Từ 34 tuần trở lên
 
-Đánh giá tình trạng cổ tử cung và **khởi phát chuyển dạ bằng oxytocin.**
+Đánh giá tình trạng cổ tử cung và **khởi phát chuyển dạ bằng Oxytocin.**
 
 **Nếu màng ối đã vỡ hơn 12 giờ, dùng kháng sinh dự phòng,** với mục đích giúp giảm nguy cơ nhiễm Streptococcus nhóm B cho trẻ sơ sinh. Nếu sau khi sinh xong mà không có dấu hiệu nhiễm trùng, ngưng kháng sinh.
 
 ### Nhiễm trùng ối
 
-Nhiễm trùng ối là một nhiễm trùng ngoại khoa. Khi có nhiễm trùng ối, buộc phải giải quyết ổ nhiễm, tức là nước ối, màng ối. Điều trị gồm có:
+Nhiễm trùng ối là 1 nhiễm trùng ngoại khoa. Khi có nhiễm trùng ối, buộc phải giải quyết ổ nhiễm, tức là nước ối, màng ối. Điều trị gồm có:
 
 1. Kháng sinh.
 2. Chấm dứt thai kỳ.
 
-Một khi đã có nhiễm trùng ối, nếu không chấm dứt thai kỳ, **tình trạng nhiễm trùng sẽ diễn tiến nặng dần,**
+1 khi đã có nhiễm trùng ối, nếu không chấm dứt thai kỳ, **tình trạng nhiễm trùng sẽ diễn tiến nặng dần,**
 đưa đến nhiễm trùng huyết và tử vong.
 
 **Sử dụng kháng sinh phổ rộng và phối hợp** đến sau sinh và đã kiểm soát được nhiễm trùng, ít nhất là đã được **48 giờ liên tục không dấu nhiễm trùng.**

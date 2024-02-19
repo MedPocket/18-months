@@ -18,15 +18,15 @@ Ra máu trong 3 tháng đầu có thể do 1 số nguyên nhân sau:
 
 **Đặc tính của lần hành kinh cuối cùng và các lần hành kinh bình thường gần nhất:** giúp hướng đến chẩn đoán có thai và phân biệt với **chảy máu không liên quan đến thai kỳ do đặc điểm tiền sử và bệnh sử (xuất huyết tử cung cơ năng do rối loạn phóng noãn, xuất huyết tử cung do tổn thương thực thể như khối u xơ tử cung, xuất huyết do dùng thuốc nội tiết ngoại lai như dùng thuốc tránh thai nội tiết sai, dùng tránh thai khẩn cấp...)**. **Test nhanh nước tiểu định tính β-hCG sẽ là cần thiết cho việc loại bỏ khả năng của các xuất huyết không liên quan đến thai kỳ.**
 
-**Hỏi tiền sử nhằm tầm soát và tìm hiểu các yếu tố nguy cơ:** **Các yếu tố nguy cơ của một tình trạng thai nghén thất bại sớm** như lớn tuổi, tiền căn đã từng có nhiều lần thai nghén bị thất bại sớm liên tiếp hay lặp lại, hay tiền căn đã từng có thai bị lệch bội, hay tình trạng có chuyển đoạn Robertson đã biết, tử cung bất thường. **Các yếu tố nguy cơ của thai ngoài tử cung** như tiền sử viêm vùng chậu cấp hay kinh niên, tiền sử từng có thai ngoài tử cung, tiền sử có can thiệp phẫu thuật tạo hình trên ống dẫn trứng, các phương pháp tránh thai đã dùng,...
+**Hỏi tiền sử nhằm tầm soát và tìm hiểu các yếu tố nguy cơ:** **Các yếu tố nguy cơ của 1 tình trạng thai nghén thất bại sớm** như lớn tuổi, tiền căn đã từng có nhiều lần thai nghén bị thất bại sớm liên tiếp hay lặp lại, hay tiền căn đã từng có thai bị lệch bội, hay tình trạng có chuyển đoạn Robertson đã biết, tử cung bất thường. **Các yếu tố nguy cơ của thai ngoài tử cung** như tiền sử viêm vùng chậu cấp hay kinh niên, tiền sử từng có thai ngoài tử cung, tiền sử có can thiệp phẫu thuật tạo hình trên ống dẫn trứng, các phương pháp tránh thai đã dùng,...
 
-**Triệu chứng cơ năng khác:** Tình trạng nghén rất nặng có thể do 1 hoạt động nguyên bào nuôi gia tăng trong đa thai hay thai trứng. Tình trạng nghén biến mất 1 cách đột ngột thể hiện sự giảm bất thường gợi ý một thai nghén thất bại sớm.
+**Triệu chứng cơ năng khác:** Tình trạng nghén rất nặng có thể do 1 hoạt động nguyên bào nuôi gia tăng trong đa thai hay thai trứng. Tình trạng nghén biến mất 1 cách đột ngột thể hiện sự giảm bất thường gợi ý 1 thai nghén thất bại sớm.
 
 ## Triệu chứng thực thể
 
 Phần lớn các trường hợp, triệu chứng lâm sàng **thường rất nghèo nàn,** nhiều khi ra huyết và biết có thai là những triệu chứng duy nhất.
 
-Một số trường hợp điển hình như trong trường hợp của sẩy thai trứng, sẩy thai đang diễn tiến, xuất huyết nội do thai ngoài tử cung vỡ,...
+1 số trường hợp điển hình như trong trường hợp của sẩy thai trứng, sẩy thai đang diễn tiến, xuất huyết nội do thai ngoài tử cung vỡ,...
 
 ## Siêu âm là biện pháp tiếp cận sơ cấp
 
@@ -37,7 +37,7 @@ So với siêu âm thực hiện qua đường bụng (Transabdominal Ultrasound
 1. Sinh tồn trứng.
 2. Hình ảnh túi thai trong tử cung.
 
-**Sự hiện diện của túi thai trong tử cung** hướng hẳn chẩn đoán về phía thai nghén thất bại sớm, ngoại trừ trường hợp của hình ảnh túi thai giả, hay song thai một trong tử cung và một ở ngoài tử cung.
+**Sự hiện diện của túi thai trong tử cung** hướng hẳn chẩn đoán về phía thai nghén thất bại sớm, ngoại trừ trường hợp của hình ảnh túi thai giả, hay song thai 1 trong tử cung và 1 ở ngoài tử cung.
 
 **Khi túi thai không được nhìn thấy,** chỉ có thể kết luận là không nhìn thấy túi thai qua TVS, mà không được kết luận là thai ngoài tử cung, ngoại trừ trường hợp hiếm hoi thấy được túi thai bên ngoài tử cung với quầng nguyên bào nuôi, yolk-sac, có hay không có phôi thai với hoạt động tim phôi.
 

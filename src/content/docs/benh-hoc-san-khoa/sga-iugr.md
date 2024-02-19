@@ -12,17 +12,17 @@ Thai nhỏ so với tuổi thai (Small-for-Gestational Age - SGA) và thai với
 
 Các thai nhi với kích cỡ nhỏ hơn bình thường được phân ra các nhóm khác nhau:
 
-1. Thai nhỏ nhưng là một thai bình thường (constitutionally).
+1. Thai nhỏ nhưng là 1 thai bình thường (constitutionally).
 2. Thai với tăng trưởng trong tử cung bị giới hạn không do nguyên nhân nhau thai như bất thường nhiễm sắc thể, bất thường chuyển hóa hay nhiễm trùng bào thai.
 3. Thai với tăng trưởng trong tử cung bị giới hạn do nguyên nhân trao đổi qua nhau bất thường.
 
-### Một số yếu tố ảnh hưởng tăng trưởng của thai
+### Yếu tố ảnh hưởng tăng trưởng của thai
 
 Vận chuyển qua nhau của các dưỡng chất như **trọng lượng trước khi có thai thấp, mẹ dinh dưỡng kém, nghiện thuốc hay thiếu máu nặng.**
 
-Một số tình trạng bệnh lý có thể ảnh hưởng đến sự hình thành và phát triển của nhau thai và hệ thống giường mạch máu của nhau thai như **tiền sản giật, các bệnh tự miễn kiểu hội chứng kháng phospholipid, bệnh ưa chảy máu, bệnh lý thận, tiểu đường hay cao huyết áp mạn tính.**
+1 số tình trạng bệnh lý có thể ảnh hưởng đến sự hình thành và phát triển của nhau thai và hệ thống giường mạch máu của nhau thai như **tiền sản giật, các bệnh tự miễn kiểu hội chứng kháng phospholipid, bệnh ưa chảy máu, bệnh lý thận, tiểu đường hay cao huyết áp mạn tính.**
 
-### Một số thuật ngữ liên quan
+### Thuật ngữ liên quan
 
 **Thai nhỏ so với tuổi thai** là trọng lượng thai ước tính (EFW) hay chu vi vòng bụng (AC) nằm dưới **10th percentile.**
 
@@ -33,7 +33,7 @@ Các thăm dò cần phải được tiến hành từ ngay thời điểm mà c
 ### Quản lý thai SGA và IUGR
 
 **Trước tiên** là loại trừ khả năng có các **bất thường về di truyền (lệch bội, đột biến gien…) hay
-dị tật nghiêm trọng ở bào thai.** Xác nhận thông qua một hay nhiều test tiền sản và tầm soát đã được thực hiện sớm trong đầu thai kỳ như test huyết thanh (double-test, triple test), khảo sát hình ảnh (NT, soft-markers), NIPT hay test xâm lấn chẩn đoán (CVS, chọc ối karyotype), các khảo sát huyết thanh nhiễm trùng bào thai như Rubella hay CMV…
+dị tật nghiêm trọng ở bào thai.** Xác nhận thông qua 1 hay nhiều test tiền sản và tầm soát đã được thực hiện sớm trong đầu thai kỳ như test huyết thanh (double-test, triple test), khảo sát hình ảnh (NT, soft-markers), NIPT hay test xâm lấn chẩn đoán (CVS, chọc ối karyotype), các khảo sát huyết thanh nhiễm trùng bào thai như Rubella hay CMV…
 
 **Chấm dứt thai kỳ,** nếu đã loại trừ các yếu tố bất thường về dị tật hay di truyền cũng như nhiễm trùng bào thai, theo dõi SGA/FGR là **cân bằng** giữa lợi ích của việc kéo dài việc nuôi dưỡng thai phát triển trong tử cung cho đến khi sơ sinh có khả năng sống sót khi được đưa ra sống môi trường mới ngoài tử cung và nguy cơ của việc kéo dài cuộc sống trong tử cung với mối đe dọa thiếu hụt về trao đổi chất và khí máu dẫn đến toan hóa máu thai và tử vong của thai nhi trong tử cung.
 
@@ -41,7 +41,7 @@ Các khảo sát thông dụng gồm theo dõi tim thai và cơn co tử cung (n
 test), khảo sát động học các dòng chảy với hiệu ứng Doppler, trắc đồ sinh vật lý của Manning hay trắc đồ sinh vật lý biến đổi. Trong SGS/FGR **xuất hiện sớm, vai trò của velocimetry Doppler là quan trọng.**
 Trong khi đó với SGA/FGR **xuất hiện muộn trong tam cá nguyệt thứ ba, vai trò của EFM lại quan trọng hơn.**
 
-Đối với SGA/FGR, **chỉ định của corticosteroids liệu pháp cần phải mở rộng thêm đến 36 tuần vô kinh** hay hơn nữa, mà không dừng lại ở 34 tuần vô kinh.
+Đối với SGA/FGR, **chỉ định của Corticosteroid liệu pháp cần phải mở rộng thêm đến 36 tuần vô kinh** hay hơn nữa, mà không dừng lại ở 34 tuần vô kinh.
 
 ### Nguy cơ trẻ sơ sinh
 
@@ -87,7 +87,7 @@ IUGR xuất hiện muộn, trong **nửa sau của thai kỳ** thường liên q
 
 **Thiếu oxygen trường diễn** dẫn đến chậm tăng trưởng của thai trong tử cung (thể hiện qua các thông số sinh trắc), gây suy giảm hệ đệm **(thể hiện qua bất thường trong cử động thai, EFM)**. Khi tình trạng đã **tiến triển xa**, bắt đầu xuất hiện các dấu hiệu của tái phân bố tuần hoàn gồm co mạch thận và các cơ quan ngoại vi để dồn máu cho não **(thể hiện qua giảm cung xuất nước tiểu tức tình trạng thiểu ối và tình trạng bất thường trong động học các dòng chảy).**
 
-Một số yếu tố khác cũng có liên quan đến IUGR gồm **nhiễm trùng bào thai do CMV hay do Rubella hay liên quan đến tăng cân của mẹ trong thai kỳ.**
+1 số yếu tố khác cũng có liên quan đến IUGR gồm **nhiễm trùng bào thai do CMV hay do Rubella hay liên quan đến tăng cân của mẹ trong thai kỳ.**
 
 ### Chẩn đoán
 
@@ -106,7 +106,7 @@ Thiết lập chẩn đoán IUGR bao gồm 3 nội dung:
 
 Thai nhỏ hơn bình thường trong trường hợp song thai không đồng nghĩa với các thai này có giới hạn tăng trưởng trong tử cung.
 
-Một số không nhỏ thai nhi song thai chỉ là SGA. Một số khác lại có vấn đề thật sự liên quan đến IUGR cấp máu qua nhau không đủ cho nhiều thai nhi tăng trưởng đồng thời một cách bình thường, hay **hội chứng truyền máu trong song thai 1 trứng.**
+1 số không nhỏ thai nhi song thai chỉ là SGA. 1 số khác lại có vấn đề thật sự liên quan đến IUGR cấp máu qua nhau không đủ cho nhiều thai nhi tăng trưởng đồng thời 1 cách bình thường, hay **hội chứng truyền máu trong song thai 1 trứng.**
 
 ## Nguồn tham khảo
 

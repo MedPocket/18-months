@@ -153,9 +153,9 @@ Nghỉ ngơi tại giường không được khuyến cáo do chưa có bằng c
 
 Ăn hợp lý, đầy đủ dinh dưỡng, ăn nhiều trái cây, ăn rau xanh, ngũ cốc tránh táo bón.
 
-Liệu pháp Corticosteroids trước sinh.
+Liệu pháp Corticosteroid trước sinh.
 
-Dùng thuốc cắt cơn ngắn hạn để đủ thời gian cho liệu pháp Corticosteroids.
+Dùng thuốc cắt cơn ngắn hạn để đủ thời gian cho liệu pháp Corticosteroid.
 
 Dùng Magnesium sulfate bảo vệ não trẻ sinh non.
 
@@ -169,7 +169,7 @@ Phối hợp bác sĩ sơ sinh để chăm sóc trẻ.
 
 Có 3 nhóm dược chất lớn có thể được dùng cho mục đích khống chế tạm thời các cơn co tử cung:
 
-1. Thuốc đối vận với thụ thể oxytocin
+1. Thuốc đối vận với thụ thể Oxytocin
 2. Các chất đồng vận β-Adrenergic
 3. Các chất ức chế kênh Calcium
 
@@ -205,18 +205,18 @@ Có 3 nhóm dược chất lớn có thể được dùng cho mục đích khố
 | Salbutamol | - Mẹ bị bệnh tim, đái tháo đường đang điều trị Insulin, bệnh tuyến giáp, dị ứng với thuốc.<br> - Đa thai          | - Truyền tĩnh mạch 5 mg/5 mL pha trong Glucose 5% (nồng độ 10 mcg/mL), tốc độ 60 mL/giờ (20 giọt/phút, 10 mcg/phút), tăng thêm 20 mL/giờ (7 giọt/phút, 3.3 mcg/phút) mỗi 30 phút đến khi cắt cơn gò hoặc nhịp tim mẹ &ge; 120 nhịp/phút hoặc tốc độ truyền tối đa 180 mL/giờ (60 giọt/phút, 30 mcg/phút).<br> - Dùng bơm tiêm điện pha 5 mg/5 mL trong 95 mL NaCl 0.9%, bơm 12 mL/giờ (10 mcg/phút), tăng 4 mL/giờ (3,3 mcg/phút) mỗi 30 phút đến khi cắt cơn gò hoặc nhịp tim mẹ &ge; 120 nhịp/phút hoặc tốc độ truyền tối đa 36 mL/giờ (30 mcg/phút). | - Mẹ tăng nhịp tim, hạ áp, run hoặc phù phổi cấp (3%), tăng đường huyết, hạ kali máu.<br> - Thai tăng nhịp tim, hạ đường huyết, hạ kali máu.                                                | - Theo dõi mạch, huyết áp mẹ sau dùng thuốc mỗi 15 phút trong giờ đầu và sau đó mỗi 4 giờ liều kế tiếp.<br> - Xét nghiệm ure, điện giải, Hct mỗi 24 giờ. Đo đường huyết mỗi 4 giờ.<br> - Theo dõi tim thai - cơn co trên monitor trong 1 giờ liều đầu và mỗi 6 giờ trong liều duy trì. |
 | Antosiban  | Mẹ bị dị ứng với thuốc.                                                                                           | - Bước 1: Liều tấn công lọ 1 (37.5 mg/5 mL) lấy 6.75 mg (0.9 mL) pha trong 10 mL Ringer lactate tiêm tĩnh mạch chậm > 1 phút (còn 4.1 mL).<br> - Bước 2: Liều duy trì: lọ 1 còn 30.75 mg (4.1 mL) pha 36.9 mL Ringer lactate truyền bơm tiêm điện 24 mL/giờ. Sau đó pha lọ 2 (37.5 mg/5 mL) trong 45 mL Ringer lactate truyền bơm tiêm điện 24 mL/giờ trong 3 giờ đầu. <br> - Bước 3 lọ 2 còn 19 mL ở bước 2 truyền bơm tiêm điện 8 mL/giờ. Từ lọ 3 pha 45 mL Ringer lactate được 50 mL truyền với tốc độ 8 mL/giờ. Thời gian dùng tối đa là 45 giờ.    | Thường nhẹ như buồn nôn, nhức đầu, chóng mặt, bừng nóng, nôn, nhịp tim nhanh, dị ứng thuốc.                                                                                                 | Theo dõi tim thai, cơ gò trên monitor trong 1 giờ đầu điều trị.                                                                                                                                                                                                                        |
 
-### Corticosteroids liệu pháp dự phòng
+### Corticosteroid liệu pháp dự phòng
 
 _Liệu pháp Corticoidsteroid nhằm mục đích dự phòng hội chứng suy hô hấp cấp ở sơ sinh._
 
-_Nếu thực hiện liệu pháp Corticosteroids cho chuyển dạ sinh non xảy ra ở 1 thai có khả năng nuôi sống được (ở Việt Nam, dù rằng 1 vài cơ sở định mốc sống là 24 tuần, nhưng mốc nuôi sống phổ biến vẫn là khoảng 28 tuần) và có tuổi thai dưới 34 tuần vô kinh. Không cần thiết sau 34 tuần_.
+_Nếu thực hiện liệu pháp Corticosteroid cho chuyển dạ sinh non xảy ra ở 1 thai có khả năng nuôi sống được (ở Việt Nam, dù rằng 1 vài cơ sở định mốc sống là 24 tuần, nhưng mốc nuôi sống phổ biến vẫn là khoảng 28 tuần) và có tuổi thai dưới 34 tuần vô kinh. Không cần thiết sau 34 tuần_.
 
-**Chỉ định:** Chỉ thực hiện duy nhất 1 đợt Corticosteroids cho thai phụ đang có nguy cơ trực tiếp của sinh non trong vòng 7 ngày, hiện đang ở giữa tuần thai 24 và 34.
+**Chỉ định:** Chỉ thực hiện duy nhất 1 đợt Corticosteroid cho thai phụ đang có nguy cơ trực tiếp của sinh non trong vòng 7 ngày, hiện đang ở giữa tuần thai 24 và 34.
 
 - Thường quy cho thai từ 28 đến 38 tuần 6 ngày.
 - Cân nhắc với trường hợp trước 28 tuần.
 - Cân nhắc lặp lại khi thai < 34 tuần, có nguy cơ sinh non trong vòng 7 ngày và cách đợt điều trị đầu tiên 7-14 ngày (phác đồ Bệnh viện Từ Dũ).
-- Sử dụng ngay cả khi không chắc chắn có thể hoàn thành đủ liều Corticosteroids.
+- Sử dụng ngay cả khi không chắc chắn có thể hoàn thành đủ liều Corticosteroid.
 
 **Liều dùng** 1 trong 2 phương pháp sau:
 

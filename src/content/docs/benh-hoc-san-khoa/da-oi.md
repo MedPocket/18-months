@@ -92,7 +92,7 @@ Những tuần thai sớm có thể thấy bất thường karyotype thai, TORCH
   - Liều 25 mg (uống), 4 lần/ngày, nếu AFI không giảm trong 2-3 này có thể tăng 3 mg/kg/ngày. Giảm hoặc ngưng AFI trước 34 tuần.
   - Tác dụng phụ lo ngại nhất là nguy cơ đóng ống động mạch sớm ở thai vì thế cần theo dõi Doppler thai mỗi 2 ngày kèm siêu âm. Ngoài ra mẹ có thể trào ngược, nôn ói, viêm dạ dày,...
 
-Liệu pháp Corticosteroids thường quy.
+Liệu pháp Corticosteroid thường quy.
 
 **Chỉ định chấm dứt thai kỳ:**
 

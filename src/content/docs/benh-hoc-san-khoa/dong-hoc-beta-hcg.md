@@ -4,7 +4,7 @@ description: Động học beta hCG (Human Chorionic Gonadotropin).
 lastUpdated: 2023-11-01
 ---
 
-human Chorionic Gonadotropin (hCG) là một glycoprotein có trọng lượng phân tử 36000-40000 Da. Đây là hormone
+human Chorionic Gonadotropin (hCG) là 1 glycoprotein có trọng lượng phân tử 36000-40000 Da. Đây là hormone
 có chứa nhiều liên kết carbonhydrate nhất trong các hormone ở loài người.
 
 ## Nguồn gốc
@@ -13,9 +13,9 @@ có chứa nhiều liên kết carbonhydrate nhất trong các hormone ở loài
 
 Khi thai dưới 5 tuần tuổi, β-hCG được sản xuất ở cả nguyên bào nuôi và hội bào nuôi. Đến khi nồng độ β-hCG trong huyết tương mẹ đạt đỉnh, β-hCG chỉ còn được sản xuất bởi các hội bào nuôi.
 
-Ngoài bánh nhau, **thận, tuyến yên** và một số mô khác của thai cũng có thể sản xuất ra β-hCG. Điều này giải thích trong bệnh lý tăng sản tuyến thượng thận, tuyến yên có thể xét nghiệm β-hCG tăng cao.
+Ngoài bánh nhau, **thận, tuyến yên** và 1 số mô khác của thai cũng có thể sản xuất ra β-hCG. Điều này giải thích trong bệnh lý tăng sản tuyến thượng thận, tuyến yên có thể xét nghiệm β-hCG tăng cao.
 
-Tìm thấy với một nồng độ rất nhỏ ở đàn ông và phụ nữ không có thai, có lẽ chủ yếu sản sinh ở tuyến yên trước. β-hCG cũng được tìm thấy trong bệnh lý tân sinh nguyên bào nuôi hoặc trong các bệnh lý ác tính không liên quan đến nguyên bào nuôi.
+Tìm thấy với 1 nồng độ rất nhỏ ở đàn ông và phụ nữ không có thai, có lẽ chủ yếu sản sinh ở tuyến yên trước. β-hCG cũng được tìm thấy trong bệnh lý tân sinh nguyên bào nuôi hoặc trong các bệnh lý ác tính không liên quan đến nguyên bào nuôi.
 
 ## Chức năng
 
@@ -45,7 +45,7 @@ Sau đó, nồng độ hCG sẽ giảm dần và **đạt cực tiểu tại th�
 
 ## β-hCG và tình trạng thai
 
-β-hCG đạt mức 1500 mIU/mL có thể thấy được hình ảnh túi thai trong buồng tử cung qua siêu âm đầu dò âm đạo. **Nếu không thấy được hình ảnh túi thai** cần nghĩ đến thai ngoài tử cung, thai ngưng tiến triển hoặc đã sẩy hay giai đoạn sớm của một trường hợp đa thai.
+β-hCG đạt mức 1500 mIU/mL có thể thấy được hình ảnh túi thai trong buồng tử cung qua siêu âm đầu dò âm đạo. **Nếu không thấy được hình ảnh túi thai** cần nghĩ đến thai ngoài tử cung, thai ngưng tiến triển hoặc đã sẩy hay giai đoạn sớm của 1 trường hợp đa thai.
 
 β-hCG trên 4000 mIU/mL trên siêu âm có thể thấy được hình ảnh phôi thai với hoạt động tim phôi.
 

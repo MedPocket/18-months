@@ -1,14 +1,10 @@
 ---
-title: Một số thuốc trong Sản khoa
-description: Một số thuốc trong Sản khoa.
+title: Các thuốc trong Sản khoa
+description: Các thuốc trong Sản khoa.
 lastUpdated: 2023-10-07
 ---
 
-Chi tiết về một số thuốc thường dùng trong sản khoa.
-
-:::caution
-Amoxiciline khuyến cáo không dùng trong thai kỳ do nguy cơ loạn sản ruột ở thai nhi nhưng trong điều kiện dưới đây vẫn đang sử dụng cho phép.
-:::
+Chi tiết về 1 số thuốc thường dùng trong sản khoa.
 
 ## Các nhóm thuốc thường dùng
 
@@ -128,6 +124,10 @@ Amoxiciline khuyến cáo không dùng trong thai kỳ do nguy cơ loạn sản 
 - Dạng: Viên uống.
 - Tác dụng: Kháng sinh.
 - Liều dùng: [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/cong-dung-thuoc-midantin/).
+
+:::caution
+Amoxiciline khuyến cáo không dùng trong thai kỳ do nguy cơ loạn sản ruột ở thai nhi nhưng trong điều kiện dưới đây vẫn đang sử dụng cho phép.
+:::
 
 #### Ceftibiotiz 1g
 
@@ -265,7 +265,7 @@ Amoxiciline khuyến cáo không dùng trong thai kỳ do nguy cơ loạn sản 
 - Hoạt chất - hàm lượng: Sắt 40mg/15ml.
 - Dạng: Ống uống.
 - Tác dụng: Bổ sung sắt.
-- Liều: ![Liều sắt theo ACOG](../../../assets/lien-quan/mot-so-thuoc-trong-san-khoa/sat.png)
+- Liều: ![Liều sắt theo ACOG](../../../assets/lien-quan/cac-thuoc-trong-san-khoa/sat.png)
   [Link 1](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/cong-dung-cua-thuoc-ferlatum/)
 
 #### Propess
@@ -284,7 +284,7 @@ Amoxiciline khuyến cáo không dùng trong thai kỳ do nguy cơ loạn sản 
   - Tuổi thai < 9 tuần thường dùng 1 viên Mifepristone 200mg và Misopristol với liều 800 mcg sau đó 48 giờ.
   - Tuổi thai 9-12 tuần thường dùng 1 viên Mifepristone 200mg và Misopristol với liều 800 mcg sau đó 36-48 giờ. Sau liều đầu có thể thêm Misopristol 400 mcg, tối đa 1600 mcg.
 
-## Đơn thuốc trong một số trường hợp
+## Đơn thuốc trong 1 số trường hợp
 
 ### Đẻ thường
 

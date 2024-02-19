@@ -45,7 +45,7 @@ Về chức năng tuyến giáp của thai, **trước 10 tuần không có iod 
 1. Do những thuốc này qua được rau dễ dàng, nên khi điều trị với những thuốc này có thể gây ra bướu giáp và nhược giáp ở thai. Mặc dù không có bằng chứng chắc chắn rằng PTU gây ra chứng đần độn hay bất thường về phát triển tâm thần vận động ở thai nhi, nhưng khoảng 1-5% trẻ em có tiếp xúc với PTU trong tử cung có bướu giáp. Vì lý do này mà thuốc điều trị kháng giáp được sử dụng ở liều tối thiểu nhằm duy trì $FT_4$ ở giới hạn cao của mức bình thường. Nồng độ $FT_4$ được kiểm tra mỗi 2-4 tuần và thuốc kháng giáp thường được ngưng sau 30 tuần vô kinh.
 2. PTU có thể làm tăng tác dụng ngăn chuyển $T_4$ thành $T_3$ và methimazole có thể gây dị tật dạ dày ruột ở thai nhi.
 3. PTU bài tiết qua sữa rất ít và không có bất kỳ sự thay đổi chức năng tuyến giáp nào ở trẻ sơ sinh được ghi nhận.
-4. Điều trị ngoại khoa vì cường giáp trong tam cá nguyệt thứ hai chỉ được sử dụng nếu điều trị nội khoa thất bại.
+4. Điều trị ngoại khoa vì cường giáp trong tam cá nguyệt thứ 2 chỉ được sử dụng nếu điều trị nội khoa thất bại.
 
 ### Cơn bão giáp trạng
 
@@ -68,7 +68,7 @@ Do kháng thể kích thích tuyến giáp có thể truyền qua rau, thoáng q
 
 ### Suy giáp trong thai kỳ
 
-**Nguyên nhân thường gặp nhất của nhược giáp ở phụ nữ** trong độ tuổi sinh đẻ là viêm giáp Hashimoto, phẫu thuật cắt bỏ tuyến giáp và xạ trị do ung thư tuyến giáp, ngoài ra còn có một số bệnh lý khác như đái tháo đường type 1,...
+**Nguyên nhân thường gặp nhất của nhược giáp ở phụ nữ** trong độ tuổi sinh đẻ là viêm giáp Hashimoto, phẫu thuật cắt bỏ tuyến giáp và xạ trị do ung thư tuyến giáp, ngoài ra còn có 1 số bệnh lý khác như đái tháo đường type 1,...
 
 Phụ nữ mang thai bị nhược giáp nếu được điều trị thay thế thích hợp có thể có 1 kết cục thai kỳ bình thường. Tuy nhiên, nếu **tình trạng nhược giáp của thai phụ không được điều trị sẽ làm tăng nguy cơ sẩy thai, tiền sản giật, thai lưu, cân nặng lúc sanh thấp, giảm chỉ số thông minh của trẻ.**
 

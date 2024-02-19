@@ -57,10 +57,10 @@ Biến đổi của màng rụng trứng:
 
 ## Vai trò
 
-Rau thai là một trong những phần phụ của thai:
+Rau thai là 1 trong những phần phụ của thai:
 
 - Nơi trao đổi chất dinh dưỡng, nước, oxy, kháng thể, hormon,... từ mẹ sang thai hay các chất dị hoá, nước, carbonic,.. từ thai sang mẹ.
-- Bài tiết một số hormon như: hCG (human chrionic gonadotropin), estrogen, progesteron,...
+- Bài tiết 1 số hormon như: hCG (human chrionic gonadotropin), estrogen, progesteron,...
 - Miễn dịch thụ động kháng thể từ máu mẹ qua hàng rào rau sang thai.
 
 ## Nguồn tham khảo
