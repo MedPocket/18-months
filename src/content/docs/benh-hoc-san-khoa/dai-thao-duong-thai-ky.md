@@ -25,18 +25,18 @@ HIP được chia làm 2 nhóm lớn:
 
 ## Bệnh sinh
 
-1. Kháng Insulin kết hợp từ 2 yếu tố chính:
+Kháng Insulin kết hợp từ 2 yếu tố chính:
 
 - Kháng Insulin của thai nghén bắt đầu từ nửa sau (tuần thứ 20) đến cuối thai kỳ nhằm giảm tiêu thụ glucose, chuyển glucose cho thai.
 - Kháng Insulin mạn tính từ trước đó.
 
-2. Khiếm khuyết chức năng tế bào β không bù đủ sự gia tăng của kháng Insulin.
+Khiếm khuyết chức năng tế bào β không bù đủ sự gia tăng của kháng Insulin.
 
 ![Thay đổi về nhu cầu Insulin](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/thay-doi-ve-nhu-cau-insulin.png)
 
 ## Yếu tố nguy cơ
 
-1. Người trưởng thành có BMI &ge; 23 $kg/m^2$ và có 1 trong các nguy cơ sau:
+Người trưởng thành có BMI &ge; 23 $kg/m^2$ và có 1 trong các nguy cơ sau:
 
 - Gia đình có người mắc đái tháo đường thế hệ cận kề.
 - Tiền sử bệnh tim mạch do sơ vữa.
@@ -46,9 +46,11 @@ HIP được chia làm 2 nhóm lớn:
 - Ít vận động thể lực.
 - Có dấu hiệu đề kháng Insulin.
 
-2. Phụ nữ đã mắc đái tháo đường thai kỳ.
-3. HbA1C &ge; 5.7%, rối loạn glucose huyết đói hay rối loạn dung nạp glucose ở lần xét nghiệm trước đó.
-4. Người thực bắt đầu thực hiện xét nghiệm phát hiện đái tháo đường từ 45 tuổi.
+Phụ nữ đã mắc đái tháo đường thai kỳ.
+
+HbA1C &ge; 5.7%, rối loạn glucose huyết đói hay rối loạn dung nạp glucose ở lần xét nghiệm trước đó.
+
+Người thực bắt đầu thực hiện xét nghiệm phát hiện đái tháo đường từ 45 tuổi.
 
 ## Tiêu chuẩn chẩn đoán
 
