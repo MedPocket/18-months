@@ -6,12 +6,4 @@ export default {
   singleQuote: true,
   endOfLine: 'lf',
   plugins: ['prettier-plugin-astro', 'prettier-plugin-tailwindcss'],
-  overrides: [
-    {
-      files: '*.astro',
-      options: {
-        parser: 'astro',
-      },
-    },
-  ],
 }
