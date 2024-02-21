@@ -8,7 +8,7 @@ lastUpdated: 2024-02-21
 
 Tình trạng **tưới máu bánh nhau bị giảm sút và thai nhi bị toan hóa máu thì cử động thai cũng giảm**. Đây là cơ sở cho việc thực hiện đếm cử động thai (fetal movement count).
 
-## Giá trị
+## Giá trị của đếm cử động thai
 
 **Thai kỳ có nguy cơ (high risk pregnancies) thì sự kiện cử động thai giảm có liên quan với việc tăng tỷ lệ các thai kỳ với kết cục xấu** như **tử vong thai, thai chậm tăng trưởng, điểm số apgar thấp, cần mổ lấy thai cấp cứu...**
 
