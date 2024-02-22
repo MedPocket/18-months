@@ -385,7 +385,7 @@ Lưu ý:
 **Chỉ định:**
 
 - Huyết áp tâm thu &ge; 150 mmHg
-- hoặc Huyết áp tâm trường &ge; 100 mmHg
+- hoặc Huyết áp tâm trương &ge; 100 mmHg
 
 **Huyết áp đạt sau điều trị:**
 
