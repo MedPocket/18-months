@@ -184,7 +184,7 @@ Nhập viện và chấm dứt thai kỳ khi:
 Nếu chưa có chỉ định chấm dứt thai kỳ có thể theo dõi nội trú hoặc ngoại trú:
 
 - Thai:
-  - Đểm cử động thai.
+  - Đếm cử động thai.
   - Siêu âm Doppler đánh giá tăng trưởng thai và lượng ối 1 lần/tuần.
   - Non-stress test (NST): 1 lần/tuần nếu mẹ bị tăng huyết áp, 2 lần/tuần nếu mẹ bị tiền sản giật.
 - Mẹ:
