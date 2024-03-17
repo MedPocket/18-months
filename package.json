@@ -13,7 +13,7 @@
     "@astrojs/starlight": "^0.21.1",
     "@astrojs/starlight-tailwind": "^2.0.1",
     "@astrojs/tailwind": "^5.1.0",
-    "astro": "^4.4.15",
+    "astro": "^4.5.5",
     "lite-youtube-embed": "^0.3.2",
     "rehype-katex": "^7.0.0",
     "remark-math": "^6.0.0",
