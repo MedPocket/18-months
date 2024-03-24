@@ -10,14 +10,14 @@
     "start": "astro dev"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.21.1",
+    "@astrojs/starlight": "^0.21.2",
     "@astrojs/starlight-tailwind": "^2.0.1",
     "@astrojs/tailwind": "^5.1.0",
-    "astro": "^4.5.5",
+    "astro": "^4.5.9",
     "lite-youtube-embed": "^0.3.2",
     "rehype-katex": "^7.0.0",
     "remark-math": "^6.0.0",
-    "sharp": "^0.33.2",
+    "sharp": "^0.33.3",
     "tailwindcss": "^3.4.1"
   },
   "devDependencies": {
@@ -25,7 +25,7 @@
     "prettier-plugin-astro": "^0.13.0",
     "prettier-plugin-tailwindcss": "^0.5.12",
     "starlight-links-validator": "^0.6.0",
-    "typescript": "^5.4.2"
+    "typescript": "^5.4.3"
   },
   "packageManager": "pnpm@8.15.5"
 }
