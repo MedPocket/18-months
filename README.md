@@ -9,8 +9,8 @@
 ```sh
 git clone https://github.com/MedPocket/18-months --depth=1
 cd 18-months
-pnpm install
-pnpm dev
+bun install
+bun dev
 ```
 
 ## Want to learn more?
