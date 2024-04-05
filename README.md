@@ -10,7 +10,7 @@
 git clone https://github.com/MedPocket/18-months --depth=1
 cd 18-months
 bun install
-bun dev
+bun run dev
 ```
 
 ## Want to learn more?
