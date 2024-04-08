@@ -1,9 +1,10 @@
 import { defineConfig } from 'astro/config'
 import starlight from '@astrojs/starlight'
 import tailwind from '@astrojs/tailwind'
-import starlightLinksValidator from 'starlight-links-validator'
 import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex'
+import starlightLinksValidator from 'starlight-links-validator'
+
 
 // https://astro.build/config
 export default defineConfig({
@@ -18,7 +19,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: '18 Months',
-      customCss: ['./src/styles/globals.css', './src/styles/katex.min.css'],
+      customCss: ['./src/styles/globals.css', './node_modules/katex/dist/katex.min.css'],
       social: {
         github: 'https://github.com/MedPocket/18-months',
       },
