@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "description": "The time for me to find myself.",
   "scripts": {
-    "build": "bunx --bun astro build",
-    "dev": "bunx --bun astro dev",
+    "build": "astro build",
+    "dev": "astro dev",
     "format": "prettier -w . --cache",
-    "preview": "bunx --bun astro preview",
-    "start": "bunx --bun astro dev"
+    "preview": "astro preview",
+    "start": "astro dev"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.21.2",
