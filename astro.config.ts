@@ -5,7 +5,6 @@ import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex'
 import starlightLinksValidator from 'starlight-links-validator'
 
-
 // https://astro.build/config
 export default defineConfig({
   site: process.env.CI
@@ -19,7 +18,10 @@ export default defineConfig({
   integrations: [
     starlight({
       title: '18 Months',
-      customCss: ['./src/styles/globals.css', './node_modules/katex/dist/katex.min.css'],
+      customCss: [
+        './src/styles/globals.css',
+        './node_modules/katex/dist/katex.min.css',
+      ],
       social: {
         github: 'https://github.com/MedPocket/18-months',
       },
