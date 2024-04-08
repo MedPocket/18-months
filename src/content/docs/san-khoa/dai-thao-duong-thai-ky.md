@@ -221,11 +221,14 @@ Mức đường huyết trong chuyển dạ > 140 đến 180 mg/dL (7.8 đến 1
 
 ## Biến chứng hạ đường huyết cấp tính
 
-Chẩn đoán hạ đường huyết:
+:::note[Tiêu chuẩn chẩn đoán]
+Hạ đường huyết:
 
 - Hạ đường huyết nhẹ (3.3-3.6 mmol/l): Sản phụ tỉnh, run tay, cồn cào, hoa mắt, nhịp tim nhanh, hồi hộp trống ngực, vã mồ hôi.
 - Hạ đường huyết trung bình (2.8-3.3 mmol/l): Sản phụ có biểu hiện thần kinh như nhìn mờ, giảm khả năng tập trung, lơ mơ.
 - Hạ đường huyết nặng (<2.8 mmol/l): Mất định hướng, loạn thần, co giật, hôn mê.
+
+:::
 
 Xử trí khi hạ đường huyết:
 

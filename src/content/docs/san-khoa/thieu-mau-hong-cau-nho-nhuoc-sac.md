@@ -39,10 +39,13 @@ Hệ quả của thiếu máu thiếu sắt, thiếu máu thiếu acid folic
 
 ### Chẩn đoán
 
+:::note[Tiêu chuẩn chẩn đoán]
 **Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic** trong thai kỳ **dựa trên huyết đồ và dựa trên nồng độ ferritin huyết thanh:**
 
 - Lâm sàng: **Thiếu máu nhẹ,** thai phụ thường than **chóng mặt, hoa mắt, nhức đầu, ù tai, khó thở khi gắng sức, tim đập nhanh.** **Thiếu máu trung bình, nặng,** khám sẽ phát hiện **da khô, niêm nhạt, môi khô, lưỡi nứt nẻ, âm thổi thâm thu ở mỏm tim, tổn thương thần kinh.**
 - Cận lâm sàng: Huyết đồ cho thấy nồng độ **Hb < 11 g/dL, HCt < 30%, MCV (mean cell volume) < 80 fL, MCH (mean cell hemoglobin) < 28 pg, MCHC (mean cell hemoglobin concentration) < 32 g/dL.** **Ferritin huyết thanh < 10-50 µg/L. Ferritin huyết thanh < 10 µg/L trong trường hợp nặng.**
+
+:::
 
 ### Điều trị
 

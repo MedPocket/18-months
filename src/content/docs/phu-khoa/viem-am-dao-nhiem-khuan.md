@@ -1,6 +1,6 @@
 ---
-title: Viêm âm đạo
-description: Viêm âm đạo.
+title: Viêm âm đạo nhiễm khuẩn
+description: Viêm âm đạo nhiễm khuẩn.
 lastUpdated: 2024-04-08
 ---
 
@@ -33,7 +33,7 @@ Dùng đường uống hay đặt âm đạo:
 - Dequalinium clorid 10mg x 1 lần/ngày x 6 ngày (đặt âm đạo), hoặc
 - Policresulen 90g x 1 lần/ngày x 6 ngày (đặt âm đạo)
 
-Vệ sinh tại chỗ
+Vệ sinh tại chỗ:
 
 - Povidon iodin 10%.
 - Acid lactic + Lactoserum atomisat.
