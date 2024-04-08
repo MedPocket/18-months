@@ -52,25 +52,31 @@ HbA1C &ge; 5.7%, rối loạn glucose huyết đói hay rối loạn dung nạp 
 
 Người thực bắt đầu thực hiện xét nghiệm phát hiện đái tháo đường từ 45 tuổi.
 
-## Tiêu chuẩn chẩn đoán
+## Chẩn đoán
 
-### Tiêu chuẩn chẩn đoán đái tháo đường trong thai kỳ
+### Tiêu chuẩn chẩn đoán đái tháo đường
 
 Dựa trên tiêu chuẩn của đái tháo đường thực thụ, BN có thể mắc đái tháo đường từ trước nhưng khi có thai mới phát hiện đái tháo đường.
 
+:::note[Tiêu chuẩn chẩn đoán]
 ![Tiêu chuẩn chẩn đoán](../../../assets/san-khoa/dai-thao-duong-thai-ky/tieu-chuan-chan-doan.png)
+:::
 
 ### Tiêu chuẩn chẩn đoán đái tháo đường thai kỳ
 
 Bằng nghiệm pháp dung nạp đường huyết, từ tuần 24-28 của thai kỳ (Các thời gian khác nhất là sau 28 tuần vẫn có thể làm nghiệm pháp). Điều kiện thai phụ phải nhịn ăn ít nhất 8-10 giờ, sau đó uống 75 g đường khan pha với nước, xét nghiệm đường huyết đói, sau 1 giờ và sau 2 giờ.
 
+:::note[Tiêu chuẩn chẩn đoán]
 Theo FIGO 2018, kết quả được đánh giá như sau:
 
 ![Nghiệm pháp dung nạp đường](../../../assets/san-khoa/dai-thao-duong-thai-ky/nghiem-phap-dung-nap-duong.png)
+:::
 
 ## Mục tiêu điều trị
 
+:::note[Mục tiêu điều trị]
 ![Mục tiêu điều trị](../../../assets/san-khoa/dai-thao-duong-thai-ky/muc-tieu-dieu-tri.png)
+:::
 
 **HbA1c ít có giá trị với đái tháo đường thai kỳ** vì đái tháo đường thai kỳ xuất hiện từ nửa sau thai kỳ (khoảng 4 tháng cuối) trong khi HbA1c có giá trị đánh giá trong vòng 3 tháng. Ngoài ra còn chịu ảnh hưởng của nhiều yếu tố như đời sống hồng cầu ngắn lại, máu pha loãng.
 

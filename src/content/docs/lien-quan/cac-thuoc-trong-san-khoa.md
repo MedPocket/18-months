@@ -135,8 +135,8 @@ Chi tiết về 1 số thuốc thường dùng trong sản khoa.
 - Tác dụng: Kháng sinh.
 - Liều và cách dùng: [Tham khảo thêm](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/cong-dung-thuoc-midantin/).
 
-:::caution
-Amoxiciline khuyến cáo không dùng trong thai kỳ do nguy cơ loạn sản ruột ở thai nhi nhưng trong điều kiện dưới đây vẫn đang sử dụng cho phép.
+:::caution[Khuyến cáo]
+Acid clavunalic khuyến cáo không dùng trong thai kỳ do nguy cơ loạn sản ruột ở thai nhi.
 :::
 
 #### Ceftibiotiz 1g
@@ -157,7 +157,10 @@ Amoxiciline khuyến cáo không dùng trong thai kỳ do nguy cơ loạn sản 
 - Hoạt chất - hàm lượng: Metronidazol 250 mg.
 - Dạng: Viên uống.
 - Tác dụng: Thuốc kháng sinh.
-- Liều và cách dùng: Lưu ý đây là thuốc không dùng cho mẹ cho con bú hoặc phụ nữ có thai. [Tham khảo thêm](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/luu-y-ve-lieu-dung-thuoc-metronidazol/).
+
+:::danger[Lưu ý]
+Thuốc không dùng cho mẹ cho con bú hoặc phụ nữ có thai. [Tham khảo thêm](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/luu-y-ve-lieu-dung-thuoc-metronidazol/).
+:::
 
 #### Moretel 500 mg/100ml
 

@@ -18,14 +18,19 @@ Kế đến, **dùng mỏ vịt** được tiệt trùng tốt để khảo sát
 
 **Đặt băng vệ sinh âm hộ và kiểm tra** miếng băng vệ sinh 1 giờ sau bằng cách nhìn và đánh giá mùi.
 
+:::note[Tiêu chuẩn chẩn đoán]
 ![Ối vỡ non](../../../assets/san-khoa/oi-vo-non/oi-vo-non.png)
+:::
 
 ## Test kiểm tra nước ối
 
 ### Test Nitrazine
 
 **Dựa trên cơ sở là dịch tiết của âm đạo và nước tiểu có tính acid, trong khi nước ối có tính kiềm.** Giữ mẫu giấy nitrazine bằng 1 kẹp Kelly và nhúng nó vào dịch đọng lại ở lưỡi mỏ vịt. Dịch có tính kiềm (hiện
-diện của nước ối) sẽ được thể hiện bằng sự đổi màu của giấy thử, từ màu vàng thành màu xanh lơ. **Lưu ý: Máu và 1 số nhiễm trùng âm đạo có thể cho kết quả dương tính giả.**
+diện của nước ối) sẽ được thể hiện bằng sự đổi màu của giấy thử, từ màu vàng thành màu xanh lơ.
+:::caution[Lưu ý]
+Máu và 1 số nhiễm trùng âm đạo có thể cho kết quả dương tính giả.
+:::
 
 ### Test dương sỉ
 

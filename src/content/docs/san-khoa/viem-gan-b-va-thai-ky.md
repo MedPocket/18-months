@@ -47,11 +47,14 @@ Phụ nữ mắc **viêm gan B mạn tính trong độ tuổi sinh đẻ** có k
   - Tổn thương tế bào gan: AST, ALT > 2 lần bình thường và/hoặc xơ hóa gan F &ge; 2.
   - Virus đang tăng sinh HBV DNA &ge; $10^5$ copies/mL nếu HBeAg (+), HBV DNA &ge; $10^4$ copies/mL nếu HBeAg (-).
 
-1 số lưu ý khi điều trị:
+:::caution[Lưu ý]
+Khi điều trị:
 
 - Đối với **phụ nữ đang điều trị viêm gan B mạn muốn có thai,** nếu đang điều trị bằng thuốc không phải TDF thì **chuyển sang TDF trước khi dự kiến có thai ít nhất 2 tháng.**
 - Đối với **phụ nữ mới phát hiện có thai trong khi đang điều trị kháng virus,** **tiếp tục điều trị TDF,** nếu đang điều trị thuốc **không phải TDF thì chuyển sang TDF.**
 - **Không chống chỉ định nuôi con bằng sữa mẹ** ở những người mẹ có HBsAg (+) và mẹ đang sử dụng TDF để điều trị bệnh hoặc điều trị dự phòng.
+
+:::
 
 **Tất cả phụ nữ mang thai khi phát hiện nhiễm HIV** đều được điều trị thuốc kháng virus ngay sau khi phát hiện nhiễm HIV. Phác đồ ưu tiên điều trị là phác đồ phối hợp liều cố định TDF+3TC+EFV. Phác đồ điều trị này chứa 2 loại thuốc là TDF và 3TC vừa có tác dụng điều trị HIV vừa có tác dụng điều trị viêm gan virus B cũng như điều trị dự phòng lây truyền HBV và HIV từ mẹ sang con.
 
@@ -70,7 +73,7 @@ Mẹ có viêm gan B. Dù trẻ có được nuôi bằng sữa mẹ hay không 
 1. Tiêm globulin sớm trong những giờ đầu sau sinh.
 2. Tiêm vaccin dự phòng viêm gan cho trẻ.
 
-Nên **Tiêm huyết thanh viêm gan B cho con từ 11 - 12 giờ đầu sau sinh, cần tiêm phòng trước 24 giờ để đảm bảo tỷ lệ lây nhiễm thấp nhất phối hợp tiêm vaccin mũi đầu tiên.** Nên tiêm cùng thời điểm nhưng ở 2 vị trí khác nhau. Sau đó, tiếp tục **tiêm 3 mũi vacxin viêm gan B theo đúng chương trình tiêm chủng mở rộng tháng thứ 2, 3 và 4.** **Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng tuổi** để đánh giá tình trạng nhiễm HBV.
+Nên **tiêm huyết thanh viêm gan B cho con từ 11 - 12 giờ đầu sau sinh, cần tiêm phòng trước 24 giờ để đảm bảo tỷ lệ lây nhiễm thấp nhất phối hợp tiêm vaccin mũi đầu tiên.** Nên tiêm cùng thời điểm nhưng ở 2 vị trí khác nhau. Sau đó, tiếp tục **tiêm 3 mũi vacxin viêm gan B theo đúng chương trình tiêm chủng mở rộng tháng thứ 2, 3 và 4.** **Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng tuổi** để đánh giá tình trạng nhiễm HBV.
 
 ## Nguồn tham khảo
 

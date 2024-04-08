@@ -42,10 +42,13 @@ Nhồi máu hoặc thuyên tắc rau thai.
 
 Chủ yếu dựa trên siêu âm. Trên lâm sàng có thể thấy bề cao tử cung nhỏ hơn tuổi thai.
 
+:::note[Tiêu chuẩn chẩn đoán]
 Siêu âm:
 
 - Chỉ số ối (Amniotic fluid index - AFI) &le; 5cm hoặc xoang ối lớn nhất (Single deepest pocket measurement - SDP) &le; 2 cm.
 - SDP &le; 1 cm là thiểu ối nặng. Tương đương AFI &le; 3 cm.
+
+:::
 
 Có thể thấy **ối rỉ, ối vỡ** là dấu hiệu quan trọng. Khi đó test Nitrazine sẽ dương tính.
 

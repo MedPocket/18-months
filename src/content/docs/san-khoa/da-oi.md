@@ -50,15 +50,18 @@ Sờ bụng có dấu hiệu sóng vỗ.
 
 Khám âm đạo có dấu hiệu cục đá.
 
+:::note[Tiêu chuẩn chẩn đoán]
 Siêu âm:
 
 - Chỉ số ối (Amniotic fluid index - AFI) &ge; 22 cm ở 3 tháng giữa và &ge; 25 cm ở 3 tháng cuối.
 - Khoang ối sâu nhất (Single deepest pocket measurement - SDP - SDP) &ge; 8 cm. SDP &ge; 16 cm là đa ối nặng.
 
-  | Mức độ | Nhẹ       | Trung bình | Nặng       |
-  | ------ | --------- | ---------- | ---------- |
-  | AFI    | 25-30 cm  | 30.1-35 cm | > 35 cm    |
-  | SDP    | 8-11.9 cm | 12-15.9 cm | &ge; 16 cm |
+:::
+
+| Mức độ | Nhẹ       | Trung bình | Nặng       |
+| ------ | --------- | ---------- | ---------- |
+| AFI    | 25-30 cm  | 30.1-35 cm | > 35 cm    |
+| SDP    | 8-11.9 cm | 12-15.9 cm | &ge; 16 cm |
 
 Siêu âm hình thái thai nhi, đo chiều dài cổ tử cung.
 

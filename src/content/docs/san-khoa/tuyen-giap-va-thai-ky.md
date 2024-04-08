@@ -26,8 +26,9 @@ Về chức năng tuyến giáp của thai, **trước 10 tuần không có iod 
 
 **Bệnh Graves** là 1 bệnh lý tự miễn do có kháng thể kích thích tuyến giáp và là nguyên nhân thường gặp nhất của cường giáp. 1 số nguyên nhân khác trong thai kỳ như thai trứng và nhân giáp độc. Bệnh nhân bị Graves có khuynh hướng giảm trong thai kỳ và trầm trọng hơn trong thời kỳ hậu sản.
 
-### Chẩn đoán cường giáp
+### Chẩn đoán
 
+:::note[Tiêu chuẩn chẩn đoán]
 **Các triệu chứng lâm sàng giúp định hướng chẩn đoán cường giáp:**
 
 - Mạch lúc nghỉ > 100 lần/phút và giảm đi thành mạch chậm sau thủ thuật Valsava.
@@ -36,16 +37,20 @@ Về chức năng tuyến giáp của thai, **trước 10 tuần không có iod 
 - Không chịu được nóng.
 - Tăng $FT_4$ và giảm TSH là các khảo sát cận lâm sàng cho phép thiết lập chẩn đoán.
 
-### Điều trị cường giáp
+:::
+
+### Điều trị
 
 Điều trị cường giáp trong thai kỳ là **điều trị bằng kháng giáp,** liều tối thiểu nhằm duy trì $FT_4$ ở giới hạn cao của mức bình thường. **Iod phóng xạ bị chống chỉ định trong thai kỳ.** **Thioamides** là thuốc kháng giáp chính dùng trong điều trị, nó ngăn chặn sự tổng hợp nhưng không làm giảm hormone tuyến giáp. **Propylthiouracil (PTU) và methimazole (Tapazole)** có thể được sử dụng hoán đổi cho rau.
 
-**Lưu ý về thuốc kháng giáp trạng:**
+:::caution[Lưu ý]
 
-1. Do những thuốc này qua được rau dễ dàng, nên khi điều trị với những thuốc này có thể gây ra bướu giáp và nhược giáp ở thai. Mặc dù không có bằng chứng chắc chắn rằng PTU gây ra chứng đần độn hay bất thường về phát triển tâm thần vận động ở thai nhi, nhưng khoảng 1-5% trẻ em có tiếp xúc với PTU trong tử cung có bướu giáp. Vì lý do này mà thuốc điều trị kháng giáp được sử dụng ở liều tối thiểu nhằm duy trì $FT_4$ ở giới hạn cao của mức bình thường. Nồng độ $FT_4$ được kiểm tra mỗi 2-4 tuần và thuốc kháng giáp thường được ngưng sau 30 tuần vô kinh.
+1. Do những điều trị cường giáp qua được rau dễ dàng, nên khi điều trị với những thuốc này có thể gây ra bướu giáp và nhược giáp ở thai. Mặc dù không có bằng chứng chắc chắn rằng PTU gây ra chứng đần độn hay bất thường về phát triển tâm thần vận động ở thai nhi, nhưng khoảng 1-5% trẻ em có tiếp xúc với PTU trong tử cung có bướu giáp. Vì lý do này mà thuốc điều trị kháng giáp được sử dụng ở liều tối thiểu nhằm duy trì $FT_4$ ở giới hạn cao của mức bình thường. Nồng độ $FT_4$ được kiểm tra mỗi 2-4 tuần và thuốc kháng giáp thường được ngưng sau 30 tuần vô kinh.
 2. PTU có thể làm tăng tác dụng ngăn chuyển $T_4$ thành $T_3$ và methimazole có thể gây dị tật dạ dày ruột ở thai nhi.
 3. PTU bài tiết qua sữa rất ít và không có bất kỳ sự thay đổi chức năng tuyến giáp nào ở trẻ sơ sinh được ghi nhận.
 4. Điều trị ngoại khoa vì cường giáp trong tam cá nguyệt thứ 2 chỉ được sử dụng nếu điều trị nội khoa thất bại.
+
+:::
 
 ### Cơn bão giáp trạng
 

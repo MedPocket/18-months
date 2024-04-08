@@ -45,22 +45,25 @@ Nguồn gốc xuất hiện tiền sản giật bắt đầu từ bánh nhau nh�
 
 ## Phân loại tăng huyết áp thai kỳ
 
-Tăng huyết áp trong thai kỳ phân thành 4 loại:
+:::caution[Tăng huyết áp trong thai kỳ phân thành 4 loại:]
 
 1. Hội chứng tiền sản giật-sản giật = Tăng huyết áp + Đạm niệu + Từ tuần thứ 20 của thai kỳ.
 2. Tăng huyết áp thai kỳ = Tăng huyết áp + Không đạm niệu + Từ tuần thứ 20 của thai kỳ và huyết áp trở về bình thường sau sinh.
 3. Tăng huyết áp mạn (do bất cứ nguyên nhân nào) = Tăng huyết áp + Trước tuần thứ 20 của thai kỳ và kéo dài 12 tuần hậu sản.
 4. Tiền sản giật ghép trên tăng huyết áp mạn = Tăng huyết áp mạn không đạm niệu + Từ tuần thứ 20 của thai kỳ có đạm niệu = Tăng huyết áp mạn có đạm niệu + Từ tuần thứ 20 có dấu hiệu tăng nặng (tăng thuốc điều trị, tăng men gan, giảm tiểu cầu, đau vụng vùng hạ sườn phải, phù phổi).
+   :::
 
-## Tiêu chuẩn chẩn đoán tiền sản giật
+## Chẩn đoán
 
+:::note[Tiêu chuẩn chẩn đoán]
 ![Tiêu chuẩn chẩn đoán tiền sản giật](../../../assets/san-khoa/tang-huyet-ap-thai-ky/tieu-chuan-chan-doan-tien-san-giat.png)
+:::
 
 ### Phân loại tiền sản giật
 
 Tiền sản giật được phân loại thành tiền sản giật không có dấu hiệu nặng và tiền sản giật có dấu hiệu nặng.
 
-Dấu hiệu nặng của tiền sản giật (bất kỳ dấu hiệu nào):
+:::caution[Dấu hiệu nặng của tiền sản giật (bất kỳ dấu hiệu nào):]
 
 1. Huyết áp tâm thu &ge; 160 mmHg hoặc huyết áp tâm trương &ge; 110 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
 2. Giảm tiểu cầu: tiểu cầu <100,000/µL.
@@ -68,6 +71,8 @@ Dấu hiệu nặng của tiền sản giật (bất kỳ dấu hiệu nào):
 4. Suy thận tiến triển (creatinin huyết thanh > 1.1 mg/dL hoặc gấp đôi nồng độ creatinin huyết thanh bình thường mà không do bệnh lý thận khác).
 5. Phù phổi.
 6. Các triệu chứng của não và thị giác: rối loạn thị giác (hoa mắt, ám điểm, mù vỏ não, co thắt mạch máu võng mạc); nhức đầu nhiều, nhức đầu dai dẳng, tăng lên, không đáp ứng thuốc giảm đau, thay đổi tri giác.
+
+:::
 
 ### Tiên lượng tiền sản giật
 
@@ -93,8 +98,9 @@ Hội chứng HELLP là 1 biến chứng nặng của tiền sản giật và s�
 
 Hội chứng HELLP không điển hình khi có 1 hoặc 2 triệu chứng trên.
 
-### Tiêu chuẩn chẩn đoán
+### Chẩn đoán
 
+:::note[Tiêu chuẩn chẩn đoán]
 Lâm sàng:
 
 - Xuất huyết dưới da, niêm mạc.
@@ -106,6 +112,7 @@ Cận lâm sàng:
 - Bilirubin toàn phần > 12 mg/dL.
 - AST > 70 IU/L.
 - Giảm Haptoglobin.
+  :::
 
 ## Biến chứng tăng huyết áp thai kỳ
 
@@ -236,7 +243,7 @@ Nếu tình trạng mẹ - thai ổn định, trong vòng 48 giờ chấm dứt 
 
 ![Lưu đồ xử trí tiền sản giật khi có dấu hiệu nặng](../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
 
-Một số lưu ý:
+:::caution[Lưu ý]
 
 - Quyết định chấm dứt thai kỳ không dựa vào yếu tố đạm niệu.
 - Chỉ định dùng thuốc chống tăng huyết áp khi HA tâm thu &gt; 150 mmHg hoặc HA tâm trương &gt; 100 mmHg.
@@ -249,6 +256,8 @@ Một số lưu ý:
   - Đếm cử động thai mỗi ngày, NST 3 ngày/lần.
   - Theo dõi cân nặng và Doppler não/rốn mỗi tuần.
   - Phương pháp chấm dứt thai kỳ tùy thuộc tuổi thai, ngôi thai, cổ tử cung, tình trạng mẹ - thai.
+
+:::
 
 ##### Khi xảy ra tình trạng nặng và tuổi thai dưới 23 tuần
 
@@ -362,7 +371,7 @@ Chấm dứt thai kỳ khi có chẩn đoán mà không đợi tác dụng của
   - Pha 6 g $MgSO_4$ 15% vào chai Glucose 5% 500 mL truyền tĩnh mạch XXX giọt/phút hoặc
   - Bơm tiêm điện pha 6 g $MgSO_4$ 15% bơm tiêm điện 6.7 mL/giờ.
 
-Lưu ý:
+:::caution[Lưu ý]
 
 - Luôn chú ý đến dấu ngộ độc $MgSO_4$ khi dùng. Trong điều trị, phải duy trì nồng độ ion $Mg^{2+}$ đạt ngưỡng điều trị, nhưng thấp hơn ngưỡng ngộ độc.
   ![Nồng độ MgSO4](../../../assets/san-khoa/tang-huyet-ap-thai-ky/nong-do-mgso4.png)
@@ -377,6 +386,8 @@ Lưu ý:
   - Dùng Calcium Gluconate 10% 10 mL, tiêm tĩnh mạch 1 g trong 10 phút.
   - Cân nhắc dùng Furosemide 80 mg để tăng đào thải $MgSO_4$.
   - Đặt nội khí quản và thông khí nếu có suy hô hấp, ngừng thở.
+
+:::
 
 ### Thuốc chống tăng huyết áp
 
