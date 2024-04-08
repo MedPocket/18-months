@@ -18,7 +18,7 @@ Kế đến, **dùng mỏ vịt** được tiệt trùng tốt để khảo sát
 
 **Đặt băng vệ sinh âm hộ và kiểm tra** miếng băng vệ sinh 1 giờ sau bằng cách nhìn và đánh giá mùi.
 
-![Ối vỡ non](../../../assets/benh-hoc-san-khoa/oi-vo-non/oi-vo-non.png)
+![Ối vỡ non](../../../assets/san-khoa/oi-vo-non/oi-vo-non.png)
 
 ## Test kiểm tra nước ối
 

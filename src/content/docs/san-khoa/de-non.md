@@ -81,13 +81,13 @@ Vào **tuần lễ 24 của thai kỳ**, trên 1 thai phụ **không có triệu
 
 Năm 2015, FIGO **khuyến cáo** thực hiện việc **khảo sát chiều dài kênh cổ tử cung thường qui ở tuổi thai 19-23 tuần 6 ngày**.
 
-![Chiều dài cổ tử cung](../../../assets/benh-hoc-san-khoa/de-non/chieu-dai-co-tu-cung.png)
+![Chiều dài cổ tử cung](../../../assets/san-khoa/de-non/chieu-dai-co-tu-cung.png)
 
 ### Hình dạng lỗ trong và ngoài
 
 Các cổ tử cung có dạng U, dạng Y được biết đến như là những dạng có nguy cơ cao sinh non. Dạng I thường có tiên lượng tốt hơn.
 
-![Hình dạng lỗ tử cung](../../../assets/benh-hoc-san-khoa/de-non/hinh-dang-lo-tu-cung.png)
+![Hình dạng lỗ tử cung](../../../assets/san-khoa/de-non/hinh-dang-lo-tu-cung.png)
 
 ### Fetal Fibronectin (fFN)
 
@@ -173,7 +173,7 @@ Có 3 nhóm dược chất lớn có thể được dùng cho mục đích khố
 2. Các chất đồng vận β-Adrenergic
 3. Các chất ức chế kênh Calcium
 
-![Thuốc cắt cơn co tử cung](../../../assets/benh-hoc-san-khoa/de-non/thuoc-cat-con-co-tu-cung.png)
+![Thuốc cắt cơn co tử cung](../../../assets/san-khoa/de-non/thuoc-cat-con-co-tu-cung.png)
 
 **Lưu ý không sử dụng thuốc cắt cơn:**
 
@@ -276,7 +276,7 @@ Có thể khâu vòng cổ tử cung để dự phòng sinh non cho thai phụ c
 
 Những trường hợp có cổ tử cung ngắn nhưng **không có tiền căn sinh non** thì **không thấy lợi ích nào** khi tiến hành thủ thuật này. Ở những trường hợp **song thai**, khi khâu cổ tử cung sẽ làm **tăng nguy cơ chuyển dạ sinh non**.
 
-![Khâu vòng cổ tử cung](../../../assets/benh-hoc-san-khoa/de-non/khau-vong-co-tu-cung.png)
+![Khâu vòng cổ tử cung](../../../assets/san-khoa/de-non/khau-vong-co-tu-cung.png)
 
 ### Vòng nâng cổ tử cung (cerclage pessary)
 
@@ -284,7 +284,7 @@ _Giảm số trường hợp sinh non dưới 34 tuần và cả dưới 37 tu�
 
 _Tiết dịch âm đạo bất thường là than phiền hay gặp nhất ở những thai phụ sử dụng dụng cụ nâng đỡ cổ tử cung._
 
-![Vòng nâng cổ tử cung](../../../assets/benh-hoc-san-khoa/de-non/vong-nang-co-tu-cung.png)
+![Vòng nâng cổ tử cung](../../../assets/san-khoa/de-non/vong-nang-co-tu-cung.png)
 
 **Chỉ định:** Khi có chỉ định khâu vòng nhưng không thỏa mãn điều kiện (rau tiền đạo, sản phụ từ chối khâu, thai >20 tuần).
 
@@ -315,7 +315,7 @@ _Tiết dịch âm đạo bất thường là than phiền hay gặp nhất ở 
 
 ### Phác đồ dự phòng sinh non đơn thai
 
-![Phác đồ dự phòng sinh non đơn thai](../../../assets/benh-hoc-san-khoa/de-non/phac-do-du-phong-sinh-non-don-thai.png)
+![Phác đồ dự phòng sinh non đơn thai](../../../assets/san-khoa/de-non/phac-do-du-phong-sinh-non-don-thai.png)
 
 ## Nguồn tham khảo
 

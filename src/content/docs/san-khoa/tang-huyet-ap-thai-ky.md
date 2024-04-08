@@ -17,7 +17,7 @@ Giả thiết do nhiều nguyên nhân phối hợp dẫn tới tổn thương n
 
 **Bánh nhau đóng vai trò then chốt trong sự phát triển và thoái lui của tiền sản giật.** Bánh nhau, không phải thai, là điều kiện cần trong sự phát triển tiền sản giật.
 
-![Sơ đồ cơ chế](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/so-do-co-che.png)
+![Sơ đồ cơ chế](../../../assets/san-khoa/tang-huyet-ap-thai-ky/so-do-co-che.png)
 
 Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai trò then chốt trong cơ chế bệnh sinh của tiền sản giật. Do đó khảo sát sFlt-1 và PlGF có thể giúp tiên đoán tiền sản giật. Khoảng 5 tuần trước khi tiền sản giật xuất hiện trên lâm sàng, tỷ số sFlt-1/PlGF tăng cao ở nhóm sau này bị tiền sản giật.
 
@@ -54,7 +54,7 @@ Tăng huyết áp trong thai kỳ phân thành 4 loại:
 
 ## Tiêu chuẩn chẩn đoán tiền sản giật
 
-![Tiêu chuẩn chẩn đoán tiền sản giật](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/tieu-chuan-chan-doan-tien-san-giat.png)
+![Tiêu chuẩn chẩn đoán tiền sản giật](../../../assets/san-khoa/tang-huyet-ap-thai-ky/tieu-chuan-chan-doan-tien-san-giat.png)
 
 ### Phân loại tiền sản giật
 
@@ -152,7 +152,7 @@ Về phía con:
 
 ### Dự phòng
 
-![Bảng đánh giá nguy cơ](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/du-phong-tien-san-giat.png)
+![Bảng đánh giá nguy cơ](../../../assets/san-khoa/tang-huyet-ap-thai-ky/du-phong-tien-san-giat.png)
 
 WHO khuyến cáo dùng **Aspirin liều thấp 81-162 mg/ngày, từ 1-2 viên (hàm lượng 81 mg) hoặc 1.5 gói hàm lượng 100 mg (uống trước khi đi ngủ, sau ăn 15-30 phút)** để dự phòng tiền sản giật ở các phụ nữ có nguy cơ cao. **Bắt đầu điều trị khi tính nguy cơ theo FMF > 1/100.**
 
@@ -160,7 +160,7 @@ Theo ACOG, Aspirin nên được khởi động từ 12-28 tuần (tốt nhất 
 
 **Thời điểm ngừng sử dụng Aspirin là thai 36 tuần.**
 
-![Lưu đồ tầm soát tiền sản giật 3 tháng đầu](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
+![Lưu đồ tầm soát tiền sản giật 3 tháng đầu](../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
 
 ## Xử trí tiền sản giật và sản giật
 
@@ -193,7 +193,7 @@ Nếu chưa có chỉ định chấm dứt thai kỳ có thể theo dõi nội t
 - Chế độ ăn hợp lý: nhiều đạm, rau xanh, trái cây.
 - Tư vấn các dấu hiệu nặng như nhìn mờ, đau đầu nhiều, đau thượng vị,...
 
-![Lưu đồ xử trí tiền sản giật không dấu hiệu nặng](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-khong-co-dau-hieu-nang.png)
+![Lưu đồ xử trí tiền sản giật không dấu hiệu nặng](../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-khong-co-dau-hieu-nang.png)
 
 ### Tiền sản giật có dấu hiệu nặng
 
@@ -234,7 +234,7 @@ Nếu tình trạng mẹ - thai ổn định, trong vòng 48 giờ chấm dứt 
 - Thiểu ối (AFI < 5 cm) (siêu âm 2 lần cách nhau 24 giờ).
 - Bắt đầu suy thận hoặc suy thận nặng thêm.
 
-![Lưu đồ xử trí tiền sản giật khi có dấu hiệu nặng](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
+![Lưu đồ xử trí tiền sản giật khi có dấu hiệu nặng](../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
 
 Một số lưu ý:
 
@@ -365,7 +365,7 @@ Chấm dứt thai kỳ khi có chẩn đoán mà không đợi tác dụng của
 Lưu ý:
 
 - Luôn chú ý đến dấu ngộ độc $MgSO_4$ khi dùng. Trong điều trị, phải duy trì nồng độ ion $Mg^{2+}$ đạt ngưỡng điều trị, nhưng thấp hơn ngưỡng ngộ độc.
-  ![Nồng độ MgSO4](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/nong-do-mgso4.png)
+  ![Nồng độ MgSO4](../../../assets/san-khoa/tang-huyet-ap-thai-ky/nong-do-mgso4.png)
 - Theo dõi phản xạ gân xương, nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4 giờ). Khi nồng độ $Mg^{2+}$ bắt đầu vượt ngưỡng điều trị, dấu hiệu mất phản xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cần theo dõi phản xạ gân xương bánh chè như 1 chỉ báo là nồng độ $Mg^{2+}$ đã vượt ngưỡng điều trị và cần phải ngưng ngay việc dùng thêm $MgSO_4$.
 - Đo nồng độ $MgSO_4$ huyết thanh khi cần thiết và điều chỉnh giữ nồng độ $MgSO_4$ 4-7 mEg/L (5-9 mg/dL; 2-3.5 mmol/L).
 - Người bệnh suy thận mức độ trung bình (Creatinine 1-1.5 mg/dL) hoặc thiểu niệu (< 30 mL nước tiểu/giờ trong 4 giờ) sau khi dùng liều tấn công cần duy trì liều thấp 1 g/giờ.
@@ -407,7 +407,7 @@ Lưu ý:
 
 Nếu tăng huyết áp nặng dùng đường tiêm tĩnh mạch sau chuyển sang dạng uống.
 
-![Thuốc chống tăng huyết áp](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/thuoc-chong-tang-huyet-ap.png)
+![Thuốc chống tăng huyết áp](../../../assets/san-khoa/tang-huyet-ap-thai-ky/thuoc-chong-tang-huyet-ap.png)
 
 #### Lợi tiểu và ức chế men chuyển
 
@@ -486,7 +486,7 @@ Cơ chế tác dụng của Nicardipin tương đối giống với Nifedipin nh
 
 **Chống chỉ định:** của Nicardipin gồm cơn đau thắt ngực không ổn định hoặc cấp tính, sốc tim, hẹp van động mạch chủ giai đoạn muộn, thận trọng khi dùng trong 2 tam cá nguyệt đầu, có thể dùng trong tam cá nguyệt 3.
 
-![Dùng thuốc tăng huyết áp](../../../assets/benh-hoc-san-khoa/tang-huyet-ap-thai-ky/dung-thuoc-tang-huyet-ap.png)
+![Dùng thuốc tăng huyết áp](../../../assets/san-khoa/tang-huyet-ap-thai-ky/dung-thuoc-tang-huyet-ap.png)
 
 ## Theo dõi sau sinh
 

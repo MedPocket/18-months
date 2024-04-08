@@ -102,7 +102,7 @@ Liệu pháp Corticosteroid thường quy.
 
 ### Phác đồ xử trí đa ối đơn thuần
 
-![Phác đồ xử trí đa ối đơn thuần](../../../assets/benh-hoc-san-khoa/da-oi/phac-do-da-oi-don-thuan.png)
+![Phác đồ xử trí đa ối đơn thuần](../../../assets/san-khoa/da-oi/phac-do-da-oi-don-thuan.png)
 
 ## Biến chứng
 

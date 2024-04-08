@@ -32,7 +32,7 @@ Kháng Insulin kết hợp từ 2 yếu tố chính:
 
 Khiếm khuyết chức năng tế bào β không bù đủ sự gia tăng của kháng Insulin.
 
-![Thay đổi về nhu cầu Insulin](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/thay-doi-ve-nhu-cau-insulin.png)
+![Thay đổi về nhu cầu Insulin](../../../assets/san-khoa/dai-thao-duong-thai-ky/thay-doi-ve-nhu-cau-insulin.png)
 
 ## Yếu tố nguy cơ
 
@@ -58,7 +58,7 @@ Người thực bắt đầu thực hiện xét nghiệm phát hiện đái thá
 
 Dựa trên tiêu chuẩn của đái tháo đường thực thụ, BN có thể mắc đái tháo đường từ trước nhưng khi có thai mới phát hiện đái tháo đường.
 
-![Tiêu chuẩn chẩn đoán](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/tieu-chuan-chan-doan.png)
+![Tiêu chuẩn chẩn đoán](../../../assets/san-khoa/dai-thao-duong-thai-ky/tieu-chuan-chan-doan.png)
 
 ### Tiêu chuẩn chẩn đoán đái tháo đường thai kỳ
 
@@ -66,15 +66,15 @@ Bằng nghiệm pháp dung nạp đường huyết, từ tuần 24-28 của thai
 
 Theo FIGO 2018, kết quả được đánh giá như sau:
 
-![Nghiệm pháp dung nạp đường](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/nghiem-phap-dung-nap-duong.png)
+![Nghiệm pháp dung nạp đường](../../../assets/san-khoa/dai-thao-duong-thai-ky/nghiem-phap-dung-nap-duong.png)
 
 ## Mục tiêu điều trị
 
-![Mục tiêu điều trị](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/muc-tieu-dieu-tri.png)
+![Mục tiêu điều trị](../../../assets/san-khoa/dai-thao-duong-thai-ky/muc-tieu-dieu-tri.png)
 
 **HbA1c ít có giá trị với đái tháo đường thai kỳ** vì đái tháo đường thai kỳ xuất hiện từ nửa sau thai kỳ (khoảng 4 tháng cuối) trong khi HbA1c có giá trị đánh giá trong vòng 3 tháng. Ngoài ra còn chịu ảnh hưởng của nhiều yếu tố như đời sống hồng cầu ngắn lại, máu pha loãng.
 
-![Mức độ tăng cân](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/muc-do-tang-can.png)
+![Mức độ tăng cân](../../../assets/san-khoa/dai-thao-duong-thai-ky/muc-do-tang-can.png)
 
 ## Nguyên tắc điều trị
 
@@ -145,7 +145,7 @@ Các chỉ định dùng Insulin:
 
 #### Phân loại Insulin
 
-![Các loại Insulin](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/cac-loai-insulin.png)
+![Các loại Insulin](../../../assets/san-khoa/dai-thao-duong-thai-ky/cac-loai-insulin.png)
 _Khoanh màu đỏ là Insulin được cấp phép sử dụng cho phụ nữ có thai._
 
 #### Liều dùng Insulin
@@ -211,7 +211,7 @@ thai phụ cần điều trị Insulin.
 
 Mức đường huyết trong chuyển dạ > 140 đến 180 mg/dL (7.8 đến 10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm cetone acid ở mẹ.
 
-![Khuyến cáo về chấm dứt thai kỳ](../../../assets/benh-hoc-san-khoa/dai-thao-duong-thai-ky/khuyen-cao-ve-cham-dut-thai-ky.png)
+![Khuyến cáo về chấm dứt thai kỳ](../../../assets/san-khoa/dai-thao-duong-thai-ky/khuyen-cao-ve-cham-dut-thai-ky.png)
 
 ## Biến chứng hạ đường huyết cấp tính
 

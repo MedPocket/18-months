@@ -23,15 +23,15 @@ Trong thai kỳ bình thường, **động mạch tử cung có trở kháng th�
 
 **Trong thai kỳ bệnh lý, động mạch tử cung có trở kháng cao với tồn tại của khuyết đầu tâm trương (notch).** _Trong các thai kỳ với bệnh lý trong đó có sự xâm nhập không hoàn toàn của tế bào nuôi vào hệ thống mạch máu màng rụng (tăng huyết áp, thai chậm tăng trưởng trong tử cung), các mạch máu không bị phá hủy hoàn toàn, vẫn còn giữ khẩu kính rất hẹp, làm cho trở kháng của toàn hệ thống động mạch tử cung không giảm._
 
-![Thay đổi của Doppler động mạch tử cung](../../../assets/benh-hoc-san-khoa/dong-hoc-sieu-am-doppler/thay-doi-doppler-dong-mach-tu-cung.png)
+![Thay đổi của Doppler động mạch tử cung](../../../assets/san-khoa/dong-hoc-sieu-am-doppler/thay-doi-doppler-dong-mach-tu-cung.png)
 
 Khảo sát động học dòng chảy bằng Doppler là 1 khảo sát **có giá trị dự báo cao khi được thực hiện trên dân số có nguy cơ cao của biến chứng liên quan đến suy yếu bánh nhau (như tăng huyết áp mãn tính, thai chậm tăng trưởng trong buồng tử cung).** Thời điểm **thực hiện khảo sát vào khoảng 17-22 tuần tuổi thai, cùng với siêu âm hình thái. Khi tầm soát bằng Doppler bất thường thì nên khảo sát thêm alpha feto-protein và free β-hCG ở thời điểm thai dưới 18 tuần, trong khuôn khổ của 1 triple test. Cũng nên thực hiện lại Doppler động mạch tử cung lúc thai 24-26 tuần.** Khi khảo sát lần thứ hai vẫn cho thấy bất thường thì việc quản lý thai kỳ tiếp theo nên được diễn ra ở các trung tâm chăm sóc chuyên biệt. Nếu thực hiện khảo sát dòng chảy bằng Doppler phát hiện thấy trở kháng động mạch tử cung cao bất thường và/hoặc có ngấn tiền tâm trương sau 26 tuần, thì khả năng có tăng huyết áp thai kỳ, thai chậm tăng trưởng trong tử cung sẽ tăng cao hơn gấp 4 đến 8 lần.
 
-![PI trung bình của động mạch tử cung](../../../assets/benh-hoc-san-khoa/dong-hoc-sieu-am-doppler/pi-trung-binh-cua-dong-mach-tu-cung.png)
+![PI trung bình của động mạch tử cung](../../../assets/san-khoa/dong-hoc-sieu-am-doppler/pi-trung-binh-cua-dong-mach-tu-cung.png)
 
 Các chỉ định siêu âm Doppler khảo sát dòng chảy động mạch tử cung lúc thai 17-22 tuần.
 
-![Chỉ định Doppler động mạch tử cung tuần 17-22](../../../assets/benh-hoc-san-khoa/dong-hoc-sieu-am-doppler/chi-dinh-doppler-dong-mach-tu-cung-tuan-17-22.png)
+![Chỉ định Doppler động mạch tử cung tuần 17-22](../../../assets/san-khoa/dong-hoc-sieu-am-doppler/chi-dinh-doppler-dong-mach-tu-cung-tuan-17-22.png)
 
 Tầm soát bằng phổ Doppler động mạch tử cung được xem là **bất thường khi chỉ số kháng (RI) > 0.57, chỉ số đập (PI) > 95th percentile và/hoặc hiện diện notch ở động mạch tử cung.**
 
@@ -46,15 +46,15 @@ Trong thai kỳ bình thường, **lưu thông máu qua động mạch rốn tha
 Các bệnh lý như tăng huyết áp thai kỳ, thai chậm tăng trưởng trong tử cung sẽ gây nên sự suy thoái chức năng
 tuần hoàn nhau thai do hậu quả của kết tập tiểu cầu, lắng đọng fibrin hay xơ hóa bánh nhau. Bệnh lý trên của các đơn vị mạch máu trong bánh nhau sẽ được biểu hiện bằng sự tăng trở kháng dòng chảy của tuần hoàn rốn. **Các chỉ số đo được trên phổ Doppler sẽ bất thường như tăng tỷ lệ vận tốc giữa tâm thu và tâm trương (S/D), chỉ số kháng (RI) hoặc chỉ số đập (PI) cao hơn bách phân vị 95th.**
 
-![PI trung bình của động mạch tử ron](../../../assets/benh-hoc-san-khoa/dong-hoc-sieu-am-doppler/pi-trung-binh-cua-dong-mach-ron.png)
+![PI trung bình của động mạch tử ron](../../../assets/san-khoa/dong-hoc-sieu-am-doppler/pi-trung-binh-cua-dong-mach-ron.png)
 
 Nên sử dụng khảo sát dòng chảy động mạch rốn bằng Doppler để **đánh giá chức năng tuần hoàn nhau thai ở những thai kỳ nghi ngờ có sự suy yếu chức năng bánh nhau (tăng huyết áp, thai chậm tăng trưởng trong buồng tử cung).**
 
 Trở kháng động mạch rốn tăng cao, **cuối cùng dẫn đến tình trạng rất nặng là hiện tượng mất dòng chảy cuối tâm trương hoặc đảo ngược dòng chảy cuối tâm trương.** **Khi xuất hiện sự giảm, mất hoặc đảo ngược dòng chảy cuối tâm trương trên Doppler động mạch rốn cần xem xét cụ thể các yếu tố còn lại trên lâm sàng để quyết định chấm dứt thai kỳ hay tiếp tục theo dõi đánh giá thai kỳ 1 cách chặt chẽ.**
 
-![Vắng mặt dòng chảy trong tâm trương động mạch rốn](../../../assets/benh-hoc-san-khoa/dong-hoc-sieu-am-doppler/vang-mat-dong-chay-trong-tam-truong-dong-mach-ron.png)
+![Vắng mặt dòng chảy trong tâm trương động mạch rốn](../../../assets/san-khoa/dong-hoc-sieu-am-doppler/vang-mat-dong-chay-trong-tam-truong-dong-mach-ron.png)
 
-![Đảo ngược dòng chảy trong tâm trương động mạch rốn](../../../assets/benh-hoc-san-khoa/dong-hoc-sieu-am-doppler/dao-nguoc-dong-chay-trong-tam-truong-dong-mach-ron.png)
+![Đảo ngược dòng chảy trong tâm trương động mạch rốn](../../../assets/san-khoa/dong-hoc-sieu-am-doppler/dao-nguoc-dong-chay-trong-tam-truong-dong-mach-ron.png)
 
 ## Phổ Doppler động mạch não giữa
 

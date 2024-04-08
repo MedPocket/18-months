@@ -27,9 +27,15 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: 'Bệnh Học Sản Khoa',
+          label: 'Sản Khoa',
           autogenerate: {
-            directory: 'benh-hoc-san-khoa',
+            directory: 'san-khoa',
+          },
+        },
+        {
+          label: 'Phụ Khoa',
+          autogenerate: {
+            directory: 'phu-khoa',
           },
         },
         {

@@ -10,7 +10,7 @@ Trong thai kỳ, chức năng tuyến giáp của mẹ bị thay đổi. Điều
 
 Sự tăng lọc cầu thận trong thai kỳ làm thận tăng thải iod, do đó làm giảm nồng độ iod vô cơ trong huyết thanh.
 
-![Bảng chức năng tuyến giáp](../../../assets/benh-hoc-san-khoa/tuyen-giap-va-thai-ky/bang-chuc-nang-tuyen-giap.png)
+![Bảng chức năng tuyến giáp](../../../assets/san-khoa/tuyen-giap-va-thai-ky/bang-chuc-nang-tuyen-giap.png)
 
 **Free $T_4$ (free thyroxine - $FT_4$) là phương pháp đánh giá chức năng tuyến giáp chính xác duy nhất** khi có sự thay đổi của TBG (Thyroxin Binding Globulin) vì nồng độ của $T_3$ (total triiodothyronin) và $T_4$ tăng trong suốt thai kỳ.
 

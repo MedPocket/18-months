@@ -91,7 +91,7 @@ Tư vấn tình trạng thai.
 
 ### Phác đồ thiểu ối đơn thuần
 
-![Phác đồ thiểu ối](../../../assets/benh-hoc-san-khoa/thieu-oi/phac-do-thieu-oi-don-thuan.png)
+![Phác đồ thiểu ối](../../../assets/san-khoa/thieu-oi/phac-do-thieu-oi-don-thuan.png)
 
 ## Nguồn tham khảo
 

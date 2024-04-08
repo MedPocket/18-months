@@ -25,7 +25,7 @@ Sau khi thụ tinh 4 ngày, hợp tử chia thành phôi nang với các tế b�
 
 **Cuối tuần 3** tế bào trung mô màng đệm ở trục của gai rau sẽ biệt hoá tạo ra các mạch máu, các mạch máu này sẽ hình thành nên hệ thống động mạch, mao mạch, tĩnh mạch liên hệ với mạch máu trong màng đệm rồi liên hệ mạch máu nằm trong dây rốn và đi vào trong phôi thai tạo thành **gai rau bậc 3 là gai rau chính thức.**
 
-![Hình thành rau thai](../../../assets/benh-hoc-san-khoa/dac-diem-rau-thai/hinh-thanh-rau-thai.png)
+![Hình thành rau thai](../../../assets/san-khoa/dac-diem-rau-thai/hinh-thanh-rau-thai.png)
 
 ### Từ phía mẹ
 
@@ -35,7 +35,7 @@ Nội mạc tử cung của mẹ gọi là màng rụng và chia làm 3 phần (
 2. Màng rụng trứng: xen giữa phôi và khoang tử cung.
 3. Màng rụng tử cung: phần còn lại.
 
-![Màng rụng và thành tử cung](../../../assets/benh-hoc-san-khoa/dac-diem-rau-thai/mang-rung-va-thanh-tu-cung.png)
+![Màng rụng và thành tử cung](../../../assets/san-khoa/dac-diem-rau-thai/mang-rung-va-thanh-tu-cung.png)
 
 Biến đổi của màng rụng rau:
 

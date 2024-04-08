@@ -19,7 +19,7 @@ Phân loại rau tiền đạo
 3. Rau bám mép (marginal) khi mép dưới của bánh rau bám sát tới bờ lỗ cổ tử cung.
 4. Rau bám thấp (low lying) là khi bánh rau bám ở đoạn dưới của tử cung nhưng mép dưới của nó chưa lan tới lỗ trong cổ tử cung.
 
-![Phân loại rau tiền đạo](../../../assets/benh-hoc-san-khoa/rau-tien-dao/phan-loai-rau-tien-dao.png)
+![Phân loại rau tiền đạo](../../../assets/san-khoa/rau-tien-dao/phan-loai-rau-tien-dao.png)
 
 Siêu âm đầu dò âm đạo phân loại rau tiền đạo dùng đơn vị là milimet (mm) để miêu tả khoảng cách giữa mép bánh rau và lỗ cổ trong cổ tử cung.
 
@@ -83,7 +83,7 @@ _Theo nghiên cứu, khảo sát mép bánh rau bám lan qua lỗ trong cổ t�
 
 **Phân biệt ra máu 3 tháng cuối thai kỳ giữa rau tiền đạo, rau bong non và vỡ tử cung.** Vỡ tử cung có những dấu hiệu riêng. Có thể chẩn đoán phân biệt rau tiền đạo và rau bong non qua bảng sau:
 
-![Phân biệt rau tiền đạo và rau cài răng lược](../../../assets/benh-hoc-san-khoa/rau-tien-dao/phan-biet-rau-tien-dao-va-rau-cai-rang-luoc.png)
+![Phân biệt rau tiền đạo và rau cài răng lược](../../../assets/san-khoa/rau-tien-dao/phan-biet-rau-tien-dao-va-rau-cai-rang-luoc.png)
 
 ## Xử trí
 

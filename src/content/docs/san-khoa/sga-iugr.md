@@ -57,7 +57,7 @@ Dễ bị nhiễm trùng.
 
 ### Bảng cân nặng và chiều dài thai nhi
 
-![Bảng cân nặng và chiều dài thai nhi theo WHO](../../../assets/benh-hoc-san-khoa/sga-iugr/can-nang-chieu-dai-thai-nhi-theo-who.webp)
+![Bảng cân nặng và chiều dài thai nhi theo WHO](../../../assets/san-khoa/sga-iugr/can-nang-chieu-dai-thai-nhi-theo-who.webp)
 
 ## Thai chậm tăng trưởng trong buồng tử cung
 
@@ -71,7 +71,7 @@ IUGR xuất hiện sớm gồm các trường hợp **từ trong những tuần 
 
 IUGR xuất hiện sớm liên quan đến các **bất thường về cấu trúc hay lệch bội ở bào thai.** Do liên quan đến bất thường cấu trúc hay lệch bội, nên **có tiên lượng rất xấu.**
 
-![Doppler IUGR sớm](../../../assets/benh-hoc-san-khoa/sga-iugr/doppler-iugr-som.png)
+![Doppler IUGR sớm](../../../assets/san-khoa/sga-iugr/doppler-iugr-som.png)
 _Vắng mặt dòng tâm trương rất phổ biến trong IUGR sớm_
 
 #### IUGR xuất hiện muộn

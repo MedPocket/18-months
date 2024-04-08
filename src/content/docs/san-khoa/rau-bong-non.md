@@ -14,7 +14,7 @@ Rau bong non được định nghĩa là trường hợp rau bám đúng vị tr
 
 **Máu chảy ra giữa lớp cơ tử cung và các màng thai bị giam cầm trong khối máu tụ.** Khi tụ máu lớn dần, cùng với áp lực tăng lên sẽ gây ra rò rỉ máu ra ngoài qua lỗ cổ tử cung, gây nên tình trạng **xuất huyết âm đạo.**
 
-![Khối máu tụ](../../../assets/benh-hoc-san-khoa/rau-bong-non/khoi-mau-tu.png)
+![Khối máu tụ](../../../assets/san-khoa/rau-bong-non/khoi-mau-tu.png)
 
 ### Nguồn chảy máu
 
@@ -37,7 +37,7 @@ xoắn, gây bất thường ở các mạch này, là 1 trong những yếu t�
 
 Lâm sàng của rau bong non thường là **đau bụng khởi phát đột ngột, ra huyết âm đạo và cơn co tử cung cường tính hay tăng trương lực cơ bản**, có thể có kèm theo suy thai hoặc thai lưu.
 
-![EFM rau bong non](../../../assets/benh-hoc-san-khoa/rau-bong-non/EFM-rau-bong-non.png)
+![EFM rau bong non](../../../assets/san-khoa/rau-bong-non/EFM-rau-bong-non.png)
 
 **Siêu âm không thấy khối máu tụ sau rau không giúp loại trừ chẩn đoán rau bong non.** Tuy nhiên, **siêu âm giúp phân biệt rau tiền đạo thường gặp của rau bong non.**
 
@@ -82,7 +82,7 @@ Máu từ khối máu tụ sẽ thẩm lậu vào thành cơ tử cung. Tẩm nh
 mạc. Trường hợp nặng, sự tẩm nhuận này có thể lan tới thanh mạc của vòi trứng, dây chằng rộng, buồng trứng.
 **Tuy nhiên, tử cung Couvelaire không phải là chỉ định cắt tử cung.**
 
-![Tử cung Couvelaire](../../../assets/benh-hoc-san-khoa/rau-bong-non/tu-cung-couvelaire.png)
+![Tử cung Couvelaire](../../../assets/san-khoa/rau-bong-non/tu-cung-couvelaire.png)
 
 ## Điều trị
 

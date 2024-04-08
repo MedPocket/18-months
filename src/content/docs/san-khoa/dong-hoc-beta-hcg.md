@@ -39,9 +39,9 @@ hCG có thể **tìm thấy trước khi trễ kinh**, tăng dần đến **đ�
 
 Sau đó, nồng độ hCG sẽ giảm dần và **đạt cực tiểu tại thời điểm 16-20 tuần rồi giữ ổn định** ở mức này đển cuối thai kỳ.
 
-![Động học β-hCG](../../../assets/benh-hoc-san-khoa/dong-hoc-beta-hcg/dong-hoc-beta-hcg.png)
+![Động học β-hCG](../../../assets/san-khoa/dong-hoc-beta-hcg/dong-hoc-beta-hcg.png)
 
-![Bảng nồng độ β-hCG](../../../assets/benh-hoc-san-khoa/dong-hoc-beta-hcg/bang-nong-do-beta-hcg.png)
+![Bảng nồng độ β-hCG](../../../assets/san-khoa/dong-hoc-beta-hcg/bang-nong-do-beta-hcg.png)
 
 ## β-hCG và tình trạng thai
 

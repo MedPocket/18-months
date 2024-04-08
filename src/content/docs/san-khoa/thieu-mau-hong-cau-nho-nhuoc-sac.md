@@ -10,7 +10,7 @@ Một cách tổng quát, thiếu máu trong thai kỳ ảnh hưởng đến c�
 
 Thể tích huyết thanh **tăng từ tuần thứ 6 trong thai kì và ổn định ở tuần 28-30. Tổng lượng huyết thanh tăng khoảng 1250 ml đến cuối thai kì.** Lượng huyết thanh tăng trong thai kỳ liên quan đến cân nặng của thai và số thai hơn là cân nặng của sản phụ trước sanh.
 
-![Thay đổi thể tích huyết thanh và hồng cầu trong thai kỳ](../../../assets/benh-hoc-san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thay-doi-the-tich-huyet-thanh-va-huyet-cau-trong-thai-ky.png)
+![Thay đổi thể tích huyết thanh và hồng cầu trong thai kỳ](../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thay-doi-the-tich-huyet-thanh-va-huyet-cau-trong-thai-ky.png)
 
 **Với thai phụ,** thiếu máu làm tăng tỷ lệ tử vong khi sanh, tăng nguy cơ băng huyết sau sanh, nhiễm trùng hậu sản...
 
@@ -35,7 +35,7 @@ Thể tích huyết thanh **tăng từ tuần thứ 6 trong thai kì và ổn đ
 
 Hệ quả của thiếu máu thiếu sắt, thiếu máu thiếu acid folic
 
-![Hệ quả của thiếu máu thiếu sắt, thiếu acid folic](../../../assets/benh-hoc-san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thieu-mau-thieu-sat-thieu-acid-folic-va-he-qua.png)
+![Hệ quả của thiếu máu thiếu sắt, thiếu acid folic](../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thieu-mau-thieu-sat-thieu-acid-folic-va-he-qua.png)
 
 ### Chẩn đoán
 
@@ -56,7 +56,7 @@ Hệ quả của thiếu máu thiếu sắt, thiếu máu thiếu acid folic
 
 ACOG đề nghị bổ sung sắt nguyên tố cho thai phụ trong suốt thai kỳ, với liều lượng tùy tình trạng thiếu máu:
 
-![Bổ sung sắt trong thai kỳ](../../../assets/benh-hoc-san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/bo-sung-sat-trong-thai-ky.png)
+![Bổ sung sắt trong thai kỳ](../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/bo-sung-sat-trong-thai-ky.png)
 
 WHO đề nghị phụ nữ nên bổ sung **60 mg sắt nguyên tố và 200 mcg acid folic ngay từ khi mang thai cho đến suốt thai kỳ** nhằm phòng ngừa thiếu máu thiếu sắt trong thai kỳ.
 
@@ -95,7 +95,7 @@ Gồm 4 thể tùy thuộc vào số gene bị mất.
 - Không có chuỗi α, cả 4 chuỗi Hb đều là chuỗi γ. Chuỗi γ có ái lực cực mạnh với oxy, và do đó hầu như không phóng thích oxy cho mô thai. Thai nhi bị phù, tràn dịch đa màng.
 - Thường tử vong từ tuần 30 cho đến ngay sau sanh với đặc điểm lâm sàng gồm thiếu máu nặng, gan lách to, phù toàn thân, suy tim kèm các dị tật bẩm sinh khác.
 
-![Thai phù trong hội chứng Bart](../../../assets/benh-hoc-san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thai-phu-trong-hoi-chung-Bart.png)
+![Thai phù trong hội chứng Bart](../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thai-phu-trong-hoi-chung-Bart.png)
 
 **Bệnh Hemoglobin H** do mất 3 gene α-globin. Thiếu máu hồng cầu nhỏ nhược sắc, lách to, nồng độ HbA2 bình thường hoặc tăng nhẹ.
 
@@ -126,15 +126,15 @@ Bước 2. Phân biệt với thiếu máu thiếu sắt bằng định lượng
 
 Bước 3. Định hướng phân loại Thalassemia bằng **điện di Hb.**
 
-![Kết quả điện di Hb ở người trưởng thành](../../../assets/benh-hoc-san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
+![Kết quả điện di Hb ở người trưởng thành](../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
 
 Bước 4. Xác định kiểu đột biến gien Thalassemia ở 2 vợ chồng bằng **khảo sát di truyền nhằm xác định nguy cơ Thalassemia thể nặng trên thai.**
 
 Bước 5. **Khảo sát di truyền trên thai (sinh thiết gai nhau, chọc ối, lấy máu cuống rốn)** nếu thai có nguy cơ bị Thalassemia thể nặng.
 
-![Chiến lược tầm soát Thalassemia](../../../assets/benh-hoc-san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/chien-luoc-tam-soat-Thalassemia-1.png)
+![Chiến lược tầm soát Thalassemia](../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/chien-luoc-tam-soat-Thalassemia-1.png)
 
-![Chiến lược tầm soát Thalassemia](../../../assets/benh-hoc-san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/chien-luoc-tam-soat-Thalassemia-2.png)
+![Chiến lược tầm soát Thalassemia](../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/chien-luoc-tam-soat-Thalassemia-2.png)
 
 ### Quản lý các thai phụ có đồng hợp tử β-Thalassemia
 
