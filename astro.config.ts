@@ -32,24 +32,28 @@ export default defineConfig({
         },
         {
           label: 'Sản Khoa',
+          collapsed: true,
           autogenerate: {
             directory: 'san-khoa',
           },
         },
         {
           label: 'Phụ Khoa',
+          collapsed: true,
           autogenerate: {
             directory: 'phu-khoa',
           },
         },
         {
           label: 'Case Study',
+          collapsed: true,
           autogenerate: {
             directory: 'case-study',
           },
         },
         {
           label: 'Liên Quan',
+          collapsed: true,
           autogenerate: {
             directory: 'lien-quan',
           },
