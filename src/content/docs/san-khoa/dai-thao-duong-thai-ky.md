@@ -12,16 +12,16 @@ HIP được chia làm 2 nhóm lớn:
 
 1. Đái tháo đường trong thai kỳ (diabetes in pregnancy - DIP):
 
-- Đái tháo đường lần đầu được chẩn đoán trong thai kỳ
+- Đái tháo đường lần đầu được chẩn đoán trong thai kỳ.
   <br>hoặc<br>
-- Đường huyết cao được chẩn đoán lần đầu trong thai kỳ và **thoả các tiêu chuẩn chẩn đoán đái tháo đường ở người không mang thai của WHO**
-- Có thể phát hiện ở bất kỳ thời điểm nào trong thai kỳ kể cả ở **tam cá nguyệt 1**
+- Đường huyết cao được chẩn đoán lần đầu trong thai kỳ và thoả các tiêu chuẩn chẩn đoán đái tháo đường ở người không mang thai của WHO.
+- Có thể phát hiện ở bất kỳ thời điểm nào trong thai kỳ kể cả ở tam cá nguyệt 1.
 
 2. Đái tháo đường thai kỳ (gestational diabetes mellitus - GDM):
 
-- Đường huyết cao trong thai kỳ nhưng **không phải là đái tháo đường thực sự**
-- Đường huyết cao được chẩn đoán lần đầu trong thai kỳ
-- Có thể phát hiện ở bất kỳ thời điểm nào trong thai kỳ nhưng hầu hết **sau 24 tuần**
+- Đường huyết cao trong thai kỳ nhưng không phải là đái tháo đường thực sự.
+- Đường huyết cao được chẩn đoán lần đầu trong thai kỳ.
+- Có thể phát hiện ở bất kỳ thời điểm nào trong thai kỳ nhưng hầu hết sau 24 tuần.
 
 ## Bệnh sinh
 
@@ -78,7 +78,7 @@ Theo FIGO 2018, kết quả được đánh giá như sau:
 ![Mục tiêu điều trị](../../../assets/san-khoa/dai-thao-duong-thai-ky/muc-tieu-dieu-tri.png)
 :::
 
-**HbA1c ít có giá trị với đái tháo đường thai kỳ** vì đái tháo đường thai kỳ xuất hiện từ nửa sau thai kỳ (khoảng 4 tháng cuối) trong khi HbA1c có giá trị đánh giá trong vòng 3 tháng. Ngoài ra còn chịu ảnh hưởng của nhiều yếu tố như đời sống hồng cầu ngắn lại, máu pha loãng.
+HbA1c ít có giá trị với đái tháo đường thai kỳ vì đái tháo đường thai kỳ xuất hiện từ nửa sau thai kỳ (khoảng 4 tháng cuối) trong khi HbA1c có giá trị đánh giá trong vòng 3 tháng. Ngoài ra còn chịu ảnh hưởng của nhiều yếu tố như đời sống hồng cầu ngắn lại, máu pha loãng.
 
 ![Mức độ tăng cân](../../../assets/san-khoa/dai-thao-duong-thai-ky/muc-do-tang-can.png)
 
@@ -162,7 +162,7 @@ Liều Insulin thay đổi tùy theo giai đoạn của thai kỳ. Insulin đư�
 - Tam cá nguyệt 2: 0.8-1.0 U/kg/ngày
 - Tam cá nguyệt 3: 0.9-1.2 U/kg/ngày
 
-Tổng liều Insulin sẽ được chia ra như sau: 2/3 buổi sáng và 1/3 buổi tối. **Tuy nhiên chỉnh liều Insulin còn phụ thuộc vào từng sản phụ.**
+Tổng liều Insulin sẽ được chia ra như sau: 2/3 buổi sáng và 1/3 buổi tối. Tuy nhiên chỉnh liều Insulin còn phụ thuộc vào từng sản phụ.
 
 #### Phác đồ điều chỉnh cho từng trường hợp
 
@@ -200,15 +200,15 @@ Biến chứng tiêm Insulin:
 
 Cần lưu ý những điểm mốc trong chăm sóc thai kỳ với đái tháo đường:
 
-- 10 tuần: Tư vấn cũng như đánh giá các biến chứng của đái tháo đường: **khám mắt và thận** nếu chưa được đánh giá cách 03 tháng. **Khám nội tiết cách 1-2 tuần** trong thai kỳ. **Đo HbA1C** để đánh giá nguy cơ. Hướng dẫn cách tự **theo dõi đường huyết cũng như thực hiện OGTT** đối với thai phụ có tiền căn đái tháo đường thai kỳ càng sớm càng tốt trong tam cá nguyệt 1. **Siêu âm thai** xác định tuổi thai và độ sinh tồn thai.
-- 16 tuần: **Khám mắt**. **Tự theo dõi đường huyết và OGTT** nếu đến khám lần đầu lúc tam cá nguyệt 2.
-- 20 tuần: **Siêu âm hình thái thai** đặc biệt **siêu âm tim**.
-- 28 tuần: **Siêu âm** đánh giá **sự phát triển thai và AFI**. **Khám mắt** đối với các trường hợp đái tháo đường trước thai kỳ.
+- 10 tuần: Tư vấn cũng như đánh giá các biến chứng của đái tháo đường: khám mắt và thận nếu chưa được đánh giá cách 03 tháng. Khám nội tiết cách 1-2 tuần trong thai kỳ. Đo HbA1C để đánh giá nguy cơ. Hướng dẫn cách tự theo dõi đường huyết cũng như thực hiện OGTT đối với thai phụ có tiền căn đái tháo đường thai kỳ càng sớm càng tốt trong tam cá nguyệt 1. Siêu âm thai xác định tuổi thai và độ sinh tồn thai.
+- 16 tuần: Khám mắt. Tự theo dõi đường huyết và OGTT nếu đến khám lần đầu lúc tam cá nguyệt 2.
+- 20 tuần: Siêu âm hình thái thai đặc biệt siêu âm tim.
+- 28 tuần: Siêu âm đánh giá sự phát triển thai và AFI. Khám mắt đối với các trường hợp đái tháo đường trước thai kỳ.
 - 32 tuần: Tương tự như lúc khám thai 28 tuần.
-- 36 tuần: **Siêu âm** đánh giá sự phát triển thai và AFI. Ngoài ra, sẽ cung cấp và thảo luận về thời điểm, cách thức, xử trí lúc sinh, phương pháp vô cảm, thay đổi điều trị tăng đường huyết trong và sau sinh, chăm sóc bé sau sinh, ngừa thai và theo dõi.
-- 37-38 tuần: **Khởi phát chuyển dạ hay mổ lấy thai** nếu có chỉ định.
-- 38 tuần: Thực hiện **test đánh giá sức khỏe thai**.
-- 39 tuần: Thực hiện **test đánh giá sức khỏe thai**, lên kế hoạch chấm dứt thai kỳ. Phụ nữ có đái tháo đường thai kỳ **không nên kéo dài quá 40 tuần 6 ngày**.
+- 36 tuần: Siêu âm đánh giá sự phát triển thai và AFI. Ngoài ra, sẽ cung cấp và thảo luận về thời điểm, cách thức, xử trí lúc sinh, phương pháp vô cảm, thay đổi điều trị tăng đường huyết trong và sau sinh, chăm sóc bé sau sinh, ngừa thai và theo dõi.
+- 37-38 tuần: Khởi phát chuyển dạ hay mổ lấy thai nếu có chỉ định.
+- 38 tuần: Thực hiện test đánh giá sức khỏe thai.
+- 39 tuần: Thực hiện test đánh giá sức khỏe thai, lên kế hoạch chấm dứt thai kỳ. Phụ nữ có đái tháo đường thai kỳ không nên kéo dài quá 40 tuần 6 ngày.
 
 ## Theo dõi trong chuyển dạ
 
@@ -269,7 +269,7 @@ Nhìn chung tăng đường huyết thai kỳ:
 
 ## Theo dõi hậu sản
 
-Nhiều thai phụ đái tháo đường **không cần thiết điều trị Insulin** trong 48 đến 72 giờ đầu sau sinh. Đường máu đói sau đẻ &ge; 7 mmol/L và/hoặc đường máu sau ăn &ge; 11.1 mmol/L cần điều trị Insulin. Cần dùng Insulin trong trường hợp có đường huyết tăng với liều khởi đầu sẽ bằng **2/3 liều trước khi mang thai**.
+Nhiều thai phụ đái tháo đường không cần thiết điều trị Insulin trong 48 đến 72 giờ đầu sau sinh. Đường máu đói sau đẻ &ge; 7 mmol/L và/hoặc đường máu sau ăn &ge; 11.1 mmol/L cần điều trị Insulin. Cần dùng Insulin trong trường hợp có đường huyết tăng với liều khởi đầu sẽ bằng 2/3 liều trước khi mang thai.
 
 Làm lại nghiệm pháp dung nạp đường với 2 thời điểm (đói và 2h sau ăn) trong vòng 4-12 tuần sau đẻ.
 

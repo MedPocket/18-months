@@ -158,7 +158,7 @@ Acid clavunalic khuyến cáo không dùng trong thai kỳ do nguy cơ loạn s�
 - Dạng: Viên uống.
 - Tác dụng: Thuốc kháng sinh.
 
-:::danger[Lưu ý]
+:::caution[Lưu ý]
 Thuốc không dùng cho mẹ cho con bú hoặc phụ nữ có thai. [Tham khảo thêm](https://www.vinmec.com/vi/thong-tin-duoc/su-dung-thuoc-toan/luu-y-ve-lieu-dung-thuoc-metronidazol/).
 :::
 

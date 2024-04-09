@@ -4,7 +4,7 @@ description: Rau cài răng lược.
 lastUpdated: 2023-12-20
 ---
 
-**Rau cài răng lược** là trường hợp bánh rau bám sâu 1 cách bất thường vào thành cơ của tử cung. Rau cài răng lược làm tăng nguy cơ chảy máu, và là mối đe dọa đến sinh mạng của thai phụ.
+Rau cài răng lược là trường hợp bánh rau bám sâu 1 cách bất thường vào thành cơ của tử cung. Rau cài răng lược làm tăng nguy cơ chảy máu, và là mối đe dọa đến sinh mạng của thai phụ.
 
 ## Phân loại
 

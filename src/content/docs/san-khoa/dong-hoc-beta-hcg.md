@@ -9,11 +9,11 @@ có chứa nhiều liên kết carbonhydrate nhất trong các hormone ở loài
 
 ## Nguồn gốc
 
-β-hCG được sản xuất chủ yếu bởi các **hội bào nuôi** và thường là dấu hiệu có thai sinh hóa.
+β-hCG được sản xuất chủ yếu bởi các hội bào nuôi và thường là dấu hiệu có thai sinh hóa.
 
 Khi thai dưới 5 tuần tuổi, β-hCG được sản xuất ở cả nguyên bào nuôi và hội bào nuôi. Đến khi nồng độ β-hCG trong huyết tương mẹ đạt đỉnh, β-hCG chỉ còn được sản xuất bởi các hội bào nuôi.
 
-Ngoài bánh nhau, **thận, tuyến yên** và 1 số mô khác của thai cũng có thể sản xuất ra β-hCG. Điều này giải thích trong bệnh lý tăng sản tuyến thượng thận, tuyến yên có thể xét nghiệm β-hCG tăng cao.
+Ngoài bánh nhau, thận, tuyến yên và 1 số mô khác của thai cũng có thể sản xuất ra β-hCG. Điều này giải thích trong bệnh lý tăng sản tuyến thượng thận, tuyến yên có thể xét nghiệm β-hCG tăng cao.
 
 Tìm thấy với 1 nồng độ rất nhỏ ở đàn ông và phụ nữ không có thai, có lẽ chủ yếu sản sinh ở tuyến yên trước. β-hCG cũng được tìm thấy trong bệnh lý tân sinh nguyên bào nuôi hoặc trong các bệnh lý ác tính không liên quan đến nguyên bào nuôi.
 
@@ -31,13 +31,13 @@ Chức năng sinh học được biết rõ nhất của β-hCG là biến hoàn
 
 Đối với phụ nữ không mang thai, nồng độ β-hCG dưới 5 mUI/ml, phụ nữ có thai nồng độ β-hCG là trên 25 mUI/ml. Que thử thai thường có độ nhạy từ 20-25 mUI/ml.
 
-hCG có thể **tìm thấy trước khi trễ kinh**, tăng dần đến **đỉnh ở tuần thứ 8-10** của thai kỳ sau đó giảm dần.
+hCG có thể tìm thấy trước khi trễ kinh, tăng dần đến đỉnh ở tuần thứ 8-10 của thai kỳ sau đó giảm dần.
 
-Ở thai kỳ bình thường có thể phát hiện hCG **sau đỉnh LH 9-11** ngày tức là khoảng 8 ngày sau phóng noãn, và chỉ 1 ngày sau khi phôi làm tổ.
+Ở thai kỳ bình thường có thể phát hiện hCG sau đỉnh LH 9-11 ngày tức là khoảng 8 ngày sau phóng noãn, và chỉ 1 ngày sau khi phôi làm tổ.
 
-**Trước 6 tuần**, nồng độ **hCG tăng gấp đôi mỗi 2 ngày** và đạt đỉnh ở tuần 8-10, có thể vào khoảng 100.000 mUI/mL.
+Trước 6 tuần, nồng độ hCG tăng gấp đôi mỗi 2 ngày và đạt đỉnh ở tuần 8-10, có thể vào khoảng 100.000 mUI/mL.
 
-Sau đó, nồng độ hCG sẽ giảm dần và **đạt cực tiểu tại thời điểm 16-20 tuần rồi giữ ổn định** ở mức này đển cuối thai kỳ.
+Sau đó, nồng độ hCG sẽ giảm dần và đạt cực tiểu tại thời điểm 16-20 tuần rồi giữ ổn định ở mức này đển cuối thai kỳ.
 
 ![Động học β-hCG](../../../assets/san-khoa/dong-hoc-beta-hcg/dong-hoc-beta-hcg.png)
 
@@ -45,7 +45,7 @@ Sau đó, nồng độ hCG sẽ giảm dần và **đạt cực tiểu tại th�
 
 ## β-hCG và tình trạng thai
 
-β-hCG đạt mức 1500 mIU/mL có thể thấy được hình ảnh túi thai trong buồng tử cung qua siêu âm đầu dò âm đạo. **Nếu không thấy được hình ảnh túi thai** cần nghĩ đến thai ngoài tử cung, thai ngưng tiến triển hoặc đã sẩy hay giai đoạn sớm của 1 trường hợp đa thai.
+β-hCG đạt mức 1500 mIU/mL có thể thấy được hình ảnh túi thai trong buồng tử cung qua siêu âm đầu dò âm đạo. Nếu không thấy được hình ảnh túi thai cần nghĩ đến thai ngoài tử cung, thai ngưng tiến triển hoặc đã sẩy hay giai đoạn sớm của 1 trường hợp đa thai.
 
 β-hCG trên 4000 mIU/mL trên siêu âm có thể thấy được hình ảnh phôi thai với hoạt động tim phôi.
 

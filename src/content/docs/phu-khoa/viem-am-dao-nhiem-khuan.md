@@ -38,7 +38,7 @@ Vệ sinh tại chỗ:
 - Povidon iodin 10%.
 - Acid lactic + Lactoserum atomisat.
 
-:::danger[Lưu ý]
+:::caution[Lưu ý]
 Metronidazole không dùng trong 3 tháng đầu thai kỳ.
 :::
 

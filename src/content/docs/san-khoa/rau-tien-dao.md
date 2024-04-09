@@ -45,9 +45,9 @@ Các yếu tố khác như sử dụng cocaine, hút thuốc lá.
 
 #### Cơ năng
 
-**Không có triệu chứng đặc biệt, chỉ có thể phát hiện qua siêu âm.**
+Không có triệu chứng đặc biệt, chỉ có thể phát hiện qua siêu âm.
 
-**Ra huyết âm đạo đột ngột,** lượng thay đổi, không kèm đau bụng trong **3 tháng giữa hoặc 3 tháng cuối.**
+Ra huyết âm đạo đột ngột, lượng thay đổi, không kèm đau bụng trong 3 tháng giữa hoặc 3 tháng cuối.
 
 Tử cung mềm, không đau căng (phân biệt với rau bong non và vỡ tử cung).
 
@@ -57,13 +57,13 @@ Ngôi bất thường (ngôi ngang, ngôi mông), ngôi đầu cao.
 
 Tim thai không thay đổi, bất thường khi có choáng mất máu, bóc tách bánh rau hay biến chứng dây rốn.
 
-**Đặt mỏ vịt thấy máu đỏ tươi từ lỗ trong cổ tử cung.**
+Đặt mỏ vịt thấy máu đỏ tươi từ lỗ trong cổ tử cung.
 
-Khám âm đạo chỉ thực hiện tại phòng mổ khi có huyết ra nhiều hoặc cần chấm dứt thai kỳ. **Các trường hợp khác không khám âm đạo.**
+Khám âm đạo chỉ thực hiện tại phòng mổ khi có huyết ra nhiều hoặc cần chấm dứt thai kỳ. Các trường hợp khác không khám âm đạo.
 
 ### Cận lâm sàng
 
-Siêu âm xác định vị trí bám của bánh rau sẽ thay đổi cùng với tiến trình lớn lên của thai nhi. **Chỉ được phép xác lập chẩn đoán rau tiền đạo kể từ sau khi tuổi thai đạt 28 tuần lễ tròn vô kinh.**
+Siêu âm xác định vị trí bám của bánh rau sẽ thay đổi cùng với tiến trình lớn lên của thai nhi. Chỉ được phép xác lập chẩn đoán rau tiền đạo kể từ sau khi tuổi thai đạt 28 tuần lễ tròn vô kinh.
 
 Siêu âm đầu dò âm đạo là công cụ giúp chẩn đóan rau tiền đạo.
 
@@ -75,19 +75,19 @@ _Theo nghiên cứu, khảo sát mép bánh rau bám lan qua lỗ trong cổ t�
 
 ## Bệnh sinh
 
-**Xuất huyết âm đạo trong 3 tháng cuối thai kỳ không kèm theo đau bụng** là 1 dấu hiệu điển hình của rau tiền đạo.
+Xuất huyết âm đạo trong 3 tháng cuối thai kỳ không kèm theo đau bụng là 1 dấu hiệu điển hình của rau tiền đạo.
 
-**Máu chảy ra** ngoài trong rau tiền đạo là **máu mẹ**. Đợt chảy máu âm đạo đầu tiên thường tự ổn định trong vòng 1-2 giờ, nếu như nó không quá nghiêm trọng để có chỉ dịnh chấm dứt thai kỳ. Nếu chảy máu là trầm trọng hoặc thai nhi đã trưởng thành thì chấm dứt thai kỳ là lựa chọn. **Số đợt xuất hiện chảy máu không có mối liên quan đến độ nặng của rau tiền đạo cũng như kết cục của thai nhi.**
+Máu chảy ra ngoài trong rau tiền đạo là máu mẹ. Đợt chảy máu âm đạo đầu tiên thường tự ổn định trong vòng 1-2 giờ, nếu như nó không quá nghiêm trọng để có chỉ dịnh chấm dứt thai kỳ. Nếu chảy máu là trầm trọng hoặc thai nhi đã trưởng thành thì chấm dứt thai kỳ là lựa chọn. Số đợt xuất hiện chảy máu không có mối liên quan đến độ nặng của rau tiền đạo cũng như kết cục của thai nhi.
 
-**Khả năng tự cầm máu sau sinh của cuộc sinh với rau tiền đạo rất kém.** Cơ chế cầm máu bình thường sau sổ rau trong các trường hợp rau bám ở thân tử cung là do các thớ **cơ đan chéo** siết chặt các mạch máu bị hở ra sau sinh ở các hồ máu. Trong rau tiền đạo, do các hồ máu có vị trí là ở đoạn dưới tử cung, **không có các lớp cơ đan chéo**, nên các mạch máu này không được siết lại sau khi sinh.
+Khả năng tự cầm máu sau sinh của cuộc sinh với rau tiền đạo rất kém. Cơ chế cầm máu bình thường sau sổ rau trong các trường hợp rau bám ở thân tử cung là do các thớ cơ đan chéo siết chặt các mạch máu bị hở ra sau sinh ở các hồ máu. Trong rau tiền đạo, do các hồ máu có vị trí là ở đoạn dưới tử cung, không có các lớp cơ đan chéo, nên các mạch máu này không được siết lại sau khi sinh.
 
-**Phân biệt ra máu 3 tháng cuối thai kỳ giữa rau tiền đạo, rau bong non và vỡ tử cung.** Vỡ tử cung có những dấu hiệu riêng. Có thể chẩn đoán phân biệt rau tiền đạo và rau bong non qua bảng sau:
+Phân biệt ra máu 3 tháng cuối thai kỳ giữa rau tiền đạo, rau bong non và vỡ tử cung. Vỡ tử cung có những dấu hiệu riêng. Có thể chẩn đoán phân biệt rau tiền đạo và rau bong non qua bảng sau:
 
 ![Phân biệt rau tiền đạo và rau cài răng lược](../../../assets/san-khoa/rau-tien-dao/phan-biet-rau-tien-dao-va-rau-cai-rang-luoc.png)
 
 ## Xử trí
 
-Quyết định chấm dứt thai kỳ phải dựa vào tuổi thai và tình trạng lâm sàng của thai phụ. Trong điều kiện bệnh nhân ổn định, **mổ lấy thai thường được chỉ định ở tuổi thai 37-38 tuần**. Đôi khi phải chấm dứt thai kỳ **sớm hơn nếu chảy máu nhiều hoặc thai phụ đi vào chuyển dạ sinh non.**
+Quyết định chấm dứt thai kỳ phải dựa vào tuổi thai và tình trạng lâm sàng của thai phụ. Trong điều kiện bệnh nhân ổn định, mổ lấy thai thường được chỉ định ở tuổi thai 37-38 tuần. Đôi khi phải chấm dứt thai kỳ sớm hơn nếu chảy máu nhiều hoặc thai phụ đi vào chuyển dạ sinh non.
 
 ### Rau tiền đạo không triệu chứng
 
@@ -111,13 +111,13 @@ Xác định độ trưởng thành phổi. Cố gắng dưỡng thai đến 32-
 
 Liệu pháp Corticosteroid từ tuần 28 đến trước 34 tuần.
 
-**Truyền máu khi Hb < 10 g/dL.**
+Truyền máu khi Hb < 10 g/dL.
 
-**Có thể xuất viện trong vòng 48 giờ không kèm theo yếu tố nguy cơ nào khác.**
+Có thể xuất viện trong vòng 48 giờ không kèm theo yếu tố nguy cơ nào khác.
 
 Chấm dứt thai kỳ:
 
-- **Có thể sinh đường âm đạo nếu rau bám thấp và ngôi đầu** nếu khảo sát ở tuổi thai trên 35 tuần cho thấy mép bánh rau bám chưa đến lỗ cổ tử cung và khoảng cách này trên 20 mm. Thai có thể thiếu oxy (suy thai) do rau bong non hay biến chứng dây rốn như sa dây rốn, chèn ép dây rốn. Nên cần theo dõi sát tim thai để mổ lấy thai ngay, ngoại trừ đang rặn sinh.
+- Có thể sinh đường âm đạo nếu rau bám thấp và ngôi đầu nếu khảo sát ở tuổi thai trên 35 tuần cho thấy mép bánh rau bám chưa đến lỗ cổ tử cung và khoảng cách này trên 20 mm. Thai có thể thiếu oxy (suy thai) do rau bong non hay biến chứng dây rốn như sa dây rốn, chèn ép dây rốn. Nên cần theo dõi sát tim thai để mổ lấy thai ngay, ngoại trừ đang rặn sinh.
 - Mổ lấy thai trong các trường hợp khác.
 
 Cầm máu vị trí rau bám:
@@ -128,7 +128,7 @@ Cầm máu vị trí rau bám:
 
 #### Chảy máu âm đạo nhiều
 
-**Là cấp cứu sản khoa cần mổ lấy thai cấp cứu.**
+Là cấp cứu sản khoa cần mổ lấy thai cấp cứu.
 
 Cần lập 1-2 đường truyền tĩnh mạch. Truyền Ringer lactated hoặc NaCl 0.9% nhằm duy trì huyết động, có nước tiểu, ít nhất 30 mL/h.
 
@@ -136,7 +136,7 @@ Xét nghiệm nhóm máu, dự trù 2-4 đơn vị máu. Truyền khi lượng m
 
 Theo dõi huyết áp mẹ, nước tiểu mỗi giờ bằng sonde tiểu. Ước lượng máu mất bằng bằng vệ sinh.
 
-**Phương pháp vô cảm lúc mổ lấy thai:** Trong phần lớn trường hợp, gây tê vùng là lựa chọn khi mổ lấy thai rau tiền đạo. Tuy nhiên, trong trường hợp dự đoán cuộc mổ kéo dài hay khó khăn như trong trường hợp của rau cài răng lược thì **gây mê nội khí quản** sẽ được chọn lựa.
+Phương pháp vô cảm lúc mổ lấy thai: Trong phần lớn trường hợp, gây tê vùng là lựa chọn khi mổ lấy thai rau tiền đạo. Tuy nhiên, trong trường hợp dự đoán cuộc mổ kéo dài hay khó khăn như trong trường hợp của rau cài răng lược thì gây mê nội khí quản sẽ được chọn lựa.
 
 ## Biến chứng
 

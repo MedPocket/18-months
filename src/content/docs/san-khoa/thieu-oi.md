@@ -50,7 +50,7 @@ Siêu âm:
 
 :::
 
-Có thể thấy **ối rỉ, ối vỡ** là dấu hiệu quan trọng. Khi đó test Nitrazine sẽ dương tính.
+Có thể thấy ối rỉ, ối vỡ là dấu hiệu quan trọng. Khi đó test Nitrazine sẽ dương tính.
 
 Công thức máu mẹ phát hiện nhiễm trùng gồm Toxoplasma gondii, Rubella, CMV, HSV.
 
@@ -80,14 +80,14 @@ Truyền ối khi có chỉ định:
 
 Tư vấn tình trạng thai.
 
-**Chỉ định chấm dứt thai kỳ:**
+Chỉ định chấm dứt thai kỳ:
 
 - SDP &le; 1 cm.
   - &ge; 34 tuần: Mổ lấy thai.
   - &lt; 34 tuần: Điều trị mong đợi.
 - 1 &lt; SDP &le; 2 cm: Thai 37 tuần sinh thường hoặc mổ lấy thai.
 
-**Liệu pháp Cortisteroids:**
+Liệu pháp Cortisteroids:
 
 - Thường quy từ 28 tuần đến 33 tuần 6 ngày.
 - Cân nhắc trường hợp từ 24 tuần đến 27 tuần 6 ngày.

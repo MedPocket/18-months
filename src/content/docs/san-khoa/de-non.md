@@ -6,9 +6,9 @@ lastUpdated: 2023-11-10
 
 Trẻ sinh non được định nghĩa là trẻ được sinh ra trước khi tuổi thai được 37 tuần.
 
-- Sơ sinh **đủ tháng** được định nghĩa là sơ sinh với tuổi thai lúc sinh là từ 37 đến 42 tuần.
-- **Thai kỳ kéo dài quá ngày dự sinh (thai già tháng)** được định nghĩa khi thai kỳ kéo dài > 42 tuần vô kinh.
-- **Trẻ sinh non** được định nghĩa là trẻ được sinh ra trước 37 tuần.
+- Sơ sinh đủ tháng được định nghĩa là sơ sinh với tuổi thai lúc sinh là từ 37 đến 42 tuần.
+- Thai kỳ kéo dài quá ngày dự sinh (thai già tháng) được định nghĩa khi thai kỳ kéo dài > 42 tuần vô kinh.
+- Trẻ sinh non được định nghĩa là trẻ được sinh ra trước 37 tuần.
 
 ## Phân loại
 
@@ -25,35 +25,35 @@ Phân loại dọa đẻ non:
 
 Có 2 nhóm nguyên nhân lớn của sinh non:
 
-- Cuộc sinh được chỉ định vì 1 lý do y khoa như **tiền sản giật, rau tiền đạo, thai với giới hạn tăng trưởng trong tử cung nặng gây suy thai**. Nhóm này chiếm khoảng 20%.
-- Sinh non **tự phát**, chiếm khoảng 80% các trường hợp còn lại, đa phần liên quan đến **chuyển dạ sinh non** hoặc **ối vỡ non** trên thai non tháng (Preterm Premature Rupture Of Membranes - PPROM). Chúng ta **không thể tìm được nguyên nhân hoặc yếu tố nguy cơ** của chuyển dạ sinh non.
+- Cuộc sinh được chỉ định vì 1 lý do y khoa như tiền sản giật, rau tiền đạo, thai với giới hạn tăng trưởng trong tử cung nặng gây suy thai. Nhóm này chiếm khoảng 20%.
+- Sinh non tự phát, chiếm khoảng 80% các trường hợp còn lại, đa phần liên quan đến chuyển dạ sinh non hoặc ối vỡ non trên thai non tháng (Preterm Premature Rupture Of Membranes - PPROM). Chúng ta không thể tìm được nguyên nhân hoặc yếu tố nguy cơ của chuyển dạ sinh non.
 
 Chuyển dạ sinh non là 1 hội chứng có liên quan đến nhiều cơ chế bệnh sinh khác nhau:
 
-1. Hoạt hóa trục hạ đồi-tuyến yên-tuyến thượng thận ở mẹ hoặc thai nhi do stress, **liên quan Corticoids**.
-2. **Nhiễm trùng** (màng đệm, màng rụng hoặc toàn thân) và khuẩn hệ âm đạo bệnh lý. Loạn khuẩn âm đạo nên được **điều trị sớm trước tuần 20**, do có thể làm giảm tần suất sinh non, nhờ làm **giảm vỡ ối**.
-3. **Giảm tưới máu màng rụng và xuất huyết** tại lớp màng rụng (bong nhau).
-4. Căng dãn tử cung quá mức do **đa thai, đa ối, hay di tử cung dị dạng (tử cung đôi)**.
+1. Hoạt hóa trục hạ đồi-tuyến yên-tuyến thượng thận ở mẹ hoặc thai nhi do stress, liên quan Corticoids.
+2. Nhiễm trùng (màng đệm, màng rụng hoặc toàn thân) và khuẩn hệ âm đạo bệnh lý. Loạn khuẩn âm đạo nên được điều trị sớm trước tuần 20, do có thể làm giảm tần suất sinh non, nhờ làm giảm vỡ ối.
+3. Giảm tưới máu màng rụng và xuất huyết tại lớp màng rụng (bong nhau).
+4. Căng dãn tử cung quá mức do đa thai, đa ối, hay di tử cung dị dạng (tử cung đôi).
 
 ## Yếu tố nguy cơ
 
 ### Từ phía mẹ
 
-**Tiền căn** có sinh non, chuyển dạ sinh non, ối vỡ non.
+Tiền căn có sinh non, chuyển dạ sinh non, ối vỡ non.
 
-**Hở eo cổ tử cung nguyên phát hoặc thứ phát, chiều dài cổ tử cung ngắn, chấn thương cổ tử cung (khoét chóp), phá thai to.**
+Hở eo cổ tử cung nguyên phát hoặc thứ phát, chiều dài cổ tử cung ngắn, chấn thương cổ tử cung (khoét chóp), phá thai to.
 
-**Nhiễm trùng** như nhiễm trùng tiểu, loạn khuẩn âm đạo, nhiễm trùng màng ối.
+Nhiễm trùng như nhiễm trùng tiểu, loạn khuẩn âm đạo, nhiễm trùng màng ối.
 
-**Căng dãn tử cung quá mức** như đa thai, đa ối.
+Căng dãn tử cung quá mức như đa thai, đa ối.
 
-**Tử cung bị biến dạng** do u xơ-cơ trơn tử cung, tử cung có vách ngăn hay các dị tật cấu trúc khác của tử cung.
+Tử cung bị biến dạng do u xơ-cơ trơn tử cung, tử cung có vách ngăn hay các dị tật cấu trúc khác của tử cung.
 
-**Bất thường bánh nhau**: nhau bong non, rau tiền đạo.
+Bất thường bánh nhau: nhau bong non, rau tiền đạo.
 
-**Thời gian giữa 2 lần mang thai ngắn** (< 6 tháng).
+Thời gian giữa 2 lần mang thai ngắn (< 6 tháng).
 
-Mẹ hút **thuốc lá**. **Tuổi mẹ** < 17 hay > 35 tuổi.
+Mẹ hút thuốc lá. Tuổi mẹ < 17 hay > 35 tuổi.
 
 Kinh tế xã hội thấp.
 
@@ -75,11 +75,11 @@ Rau tiền đạo, rau bong non.
 
 ### Chiều dài cổ tử cung
 
-Chiều dài kênh cổ tử cung được hiểu là khoảng cách đo được từ lổ cổ tử cung ngoài đến lổ cổ tử cung trong. Đo trên siêu âm. **Bình thường**, trong giai đoạn giữa của thai kỳ, cổ tử cung dài khoảng **30-40 mm**.
+Chiều dài kênh cổ tử cung được hiểu là khoảng cách đo được từ lổ cổ tử cung ngoài đến lổ cổ tử cung trong. Đo trên siêu âm. Bình thường, trong giai đoạn giữa của thai kỳ, cổ tử cung dài khoảng 30-40 mm.
 
-Vào **tuần lễ 24 của thai kỳ**, trên 1 thai phụ **không có triệu chứng**, nếu chiều dài **cổ tử cung ngắn < 25 mm** thì nguy cơ sinh non sẽ tăng lên. Ngược lại, nếu **có các cơn gò tử cung** nhưng **cổ tử cung vẫn còn dài hơn 30 mm** thì nguy cơ có sinh non trong vòng 7 ngày kế tiếp chỉ là 1%.
+Vào tuần lễ 24 của thai kỳ, trên 1 thai phụ không có triệu chứng, nếu chiều dài cổ tử cung ngắn < 25 mm thì nguy cơ sinh non sẽ tăng lên. Ngược lại, nếu có các cơn gò tử cung nhưng cổ tử cung vẫn còn dài hơn 30 mm thì nguy cơ có sinh non trong vòng 7 ngày kế tiếp chỉ là 1%.
 
-Năm 2015, FIGO **khuyến cáo** thực hiện việc **khảo sát chiều dài kênh cổ tử cung thường qui ở tuổi thai 19-23 tuần 6 ngày**.
+Năm 2015, FIGO khuyến cáo thực hiện việc khảo sát chiều dài kênh cổ tử cung thường qui ở tuổi thai 19-23 tuần 6 ngày.
 
 ![Chiều dài cổ tử cung](../../../assets/san-khoa/de-non/chieu-dai-co-tu-cung.png)
 
@@ -101,23 +101,23 @@ fFN, PAMG-1 có cùng giá trị dự báo âm, nhưng khả dĩ dương có chu
 
 ### Nguyên tắc đánh giá nguy cơ sinh non
 
-**Tuổi thai** được đánh giá bằng các thông tin có được từ đầu thai kỳ.
+Tuổi thai được đánh giá bằng các thông tin có được từ đầu thai kỳ.
 
-Cổ tử cung được **khám bằng mỏ vịt, qua siêu âm hoặc bằng tay**. Lưu ý rằng, **khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do vô tình tách các màng ối**.
+Cổ tử cung được khám bằng mỏ vịt, qua siêu âm hoặc bằng tay. Lưu ý rằng, khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do vô tình tách các màng ối.
 
-Chiều dài và tình trạng kênh tử cung sẽ được **đánh giá qua siêu âm khảo sát kênh cổ tử cung**. Thay đổi tình trạng cổ tử cung giúp ta chẩn đoán và theo dõi đáp ứng điều trị.
+Chiều dài và tình trạng kênh tử cung sẽ được đánh giá qua siêu âm khảo sát kênh cổ tử cung. Thay đổi tình trạng cổ tử cung giúp ta chẩn đoán và theo dõi đáp ứng điều trị.
 
-**Siêu âm** giúp kiểm định lại tuổi thai, phát triển bào thai, lượng dịch ối, ngôi thai, và vị trí bánh nhau, cũng như khảo sát dị tật của thai nhi.
+Siêu âm giúp kiểm định lại tuổi thai, phát triển bào thai, lượng dịch ối, ngôi thai, và vị trí bánh nhau, cũng như khảo sát dị tật của thai nhi.
 
-Theo dõi bằng **monitor sản khoa** để đánh giá tần số và cường độ cơn gò.
+Theo dõi bằng monitor sản khoa để đánh giá tần số và cường độ cơn gò.
 
-Theo dõi **tình trạng xuất huyết** của sản phụ, vì nhau bong non và rau tiền đạo có liên quan đến chuyển dạ sinh non.
+Theo dõi tình trạng xuất huyết của sản phụ, vì nhau bong non và rau tiền đạo có liên quan đến chuyển dạ sinh non.
 
 ## Chẩn đoán
 
 ### Lâm sàng
 
-Đối với đơn thai: **Cơn co tử cung đều đặn (4 cơn trong 2 phút hoặc 8 cơn trong 60 phút)** và:
+Đối với đơn thai: Cơn co tử cung đều đặn (4 cơn trong 2 phút hoặc 8 cơn trong 60 phút) và:
 
 - Cổ tử cung &ge; 3 cm, hoặc
 - Chiều dài cổ tử cung theo siêu âm đường âm đạo **< 20 mm**, hoặc
@@ -223,7 +223,7 @@ _Nếu thực hiện liệu pháp Corticosteroid cho chuyển dạ sinh non xả
 - **Betamethasone (12 mg) tiêm bắp, 2 liều, cách 24 giờ**
 - **Dexamethasone (6 mg) tiêm bắp, 4 liều, cách 12 giờ.**
 
-Corticosteroid liệu pháp **có khả năng gây tác hại cho hệ thần kinh thai nhi khi bị lạm dụng.**
+Corticosteroid liệu pháp có khả năng gây tác hại cho hệ thần kinh thai nhi khi bị lạm dụng.
 
 ### Bảo vệ thần kinh thai bằng Magnesium sulfate
 
@@ -268,13 +268,13 @@ Hạn chế số lượng phôi chuyển ở phụ nữ có hỗ trợ sinh sả
 
 ### Progesterone
 
-Có thể dùng progesterone để dự phòng sinh non cho thai phụ có **tiền căn sinh non** và hiện có **kênh tử cung ngắn dưới 25 mm**.
+Có thể dùng progesterone để dự phòng sinh non cho thai phụ có tiền căn sinh non và hiện có kênh tử cung ngắn dưới 25 mm.
 
 ### Khâu vòng cổ tử cung
 
-Có thể khâu vòng cổ tử cung để dự phòng sinh non cho thai phụ có **hở eo tử cung** và hiện có **kênh tử cung ngắn < 25mm.**
+Có thể khâu vòng cổ tử cung để dự phòng sinh non cho thai phụ có hở eo tử cung và hiện có kênh tử cung ngắn < 25mm.
 
-Những trường hợp có cổ tử cung ngắn nhưng **không có tiền căn sinh non** thì **không thấy lợi ích nào** khi tiến hành thủ thuật này. Ở những trường hợp **song thai**, khi khâu cổ tử cung sẽ làm **tăng nguy cơ chuyển dạ sinh non**.
+Những trường hợp có cổ tử cung ngắn nhưng không có tiền căn sinh non thì không thấy lợi ích nào khi tiến hành thủ thuật này. Ở những trường hợp song thai, khi khâu cổ tử cung sẽ làm tăng nguy cơ chuyển dạ sinh non.
 
 ![Khâu vòng cổ tử cung](../../../assets/san-khoa/de-non/khau-vong-co-tu-cung.png)
 

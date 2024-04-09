@@ -54,7 +54,7 @@ Vệ sinh tại chỗ:
 - Povidon iodin 10%.
 - Natri hydrocarbonat 5g pha rửa âm hộ.
 
-:::danger[Lưu ý]
+:::caution[Lưu ý]
 Chỉ điều trị cho bạn tình khi có 1 trong các triệu chứng sau:
 
 - Viêm ngứa quy đầu.

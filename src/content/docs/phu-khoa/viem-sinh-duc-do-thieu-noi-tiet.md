@@ -1,0 +1,36 @@
+---
+title: Viêm âm đạo do thiếu nội tiết
+description: Viêm âm đạo do thiếu nội tiết.
+lastUpdated: 2024-04-09
+---
+
+Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh làm cho niêm mạc âm đạo dễ mất lớp bề mặt và trung gian trở nên rất mỏng, dễ tổn thương và nhiễm trùng.
+
+## Chẩn đoán
+
+:::note[Tiêu chuẩn chẩn đoán]
+Lâm sàng
+
+- Viêm không đặc hiệu, khí hư ít, có mủ, có thể lẫn máu.
+- Cảm giác đau tức hạ vị, nóng rát âm hộ, âm đạo.
+- Niêm mạc nhợt nhạt, có thể viêm đỏ với nhiều chấm xuất huyết. Đau khi thăm khám.
+- CÓ những rói loạn đường tiểu như tiểu buốt, tiểu dắt.
+
+Cận lâm sàng soi dịch âm đạo thấy tế bào trung gian.
+:::
+
+## Điều trị
+
+Tại chỗ:
+
+- Cream Estrogen bôi âm đạo, hoặc
+- Estriol 0.5mg đặt âm đạo 1 viên/đêm x 20 đêm
+- Promestrien 10mg đặt âm đạo 1 viên/ngày x 20 ngày
+- Cream Promestrien bôi âm hộ, âm đạo 1 lần/ngày x 2 tuần.
+- Clorquinaldol + Promestrien (200mg + 10mg) đặt âm đạo 1 viên/ngày x 18 ngày.
+
+Kháng sinh thích hợp.
+
+## Nguồn tham khảo
+
+- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA 2022 - Bệnh viện Từ Dũ.
