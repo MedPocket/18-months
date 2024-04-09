@@ -27,6 +27,10 @@ export default defineConfig({
       },
       sidebar: [
         {
+          label: 'Trang chủ',
+          link: '/',
+        },
+        {
           label: 'Sản Khoa',
           autogenerate: {
             directory: 'san-khoa',
