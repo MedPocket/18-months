@@ -18,10 +18,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: '18 Months',
-      customCss: [
-        './src/styles/globals.css',
-        './node_modules/katex/dist/katex.min.css',
-      ],
+      customCss: ['./src/styles/globals.css', 'katex/dist/katex.min.css'],
       social: {
         github: 'https://github.com/MedPocket/18-months',
       },
