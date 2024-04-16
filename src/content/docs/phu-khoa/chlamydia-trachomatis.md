@@ -16,7 +16,7 @@ Viêm nhiễm phần phụ ở nữ, viêm mào tinh hoàn ở nam gây vô sinh
 
 Gây sinh non ở phụ nữ có thai.
 
-Trẻ sinh ra có nguy cơ viêm kết mạc, viêm mũi họng, viêm phỏi.
+Trẻ sinh ra có nguy cơ viêm kết mạc, viêm mũi họng, viêm phổi.
 
 ## Chẩn đoán
 
