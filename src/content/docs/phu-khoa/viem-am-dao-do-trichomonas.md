@@ -1,6 +1,6 @@
 ---
-title: Viêm sinh dục do Trichomonas
-description: Viêm sinh dục do Trichomonas.
+title: Viêm âm đạo do Trichomonas
+description: Viêm âm đạo do Trichomonas.
 lastUpdated: 2024-04-09
 ---
 
