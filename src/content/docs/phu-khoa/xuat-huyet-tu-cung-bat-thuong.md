@@ -19,13 +19,13 @@ AUB mạn tính: chảy máu trong lòng tử cung trong 6 tháng gần nhất v
 
 AUB cấp tính: chảy máu ở phụ nữ trong tuổi sinh sản, không có thai, mức độ nặng, cần can thiệp nhanh để hạn chế lượng máu mất.
 
-| Đặc điểm                                         | Bình thường                                                        | Bất thường                                                                          |
-| ------------------------------------------------ | ------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| Tần suất                                         | &ge;24 và &le;28 ngày                                              | Vô kinh<br>Chảy máu không thường xuyên(>38 ngày)<br>Chảy máu thường xuyên(<24 ngày) |
-| Thời gian                                        | &le;8 ngày                                                         | Kéo dài >8 ngày                                                                     |
-| Sự đều đặn (sự thay đổi về độ dài giữa 2 chu kỳ) | Đều (18-25 tuổi và 42-45 tuổi: &le;9 ngày; 26-41 tuổi;&le; 7 ngày) | Không đều (sự thay đổi &ge; 8-10 ngày)                                              |
-| Thể tích máu (theo đánh giá của người bệnh)      | 5-80ml                                                             | Ít <5mL<br> Nhiều >80mL                                                             |
-| Xuất huyết giữa chu kỳ                           | Không có                                                           | Chảy máu bất thường giữa 2 chu kỳ (đầu, giữa, cuối)                                 |
+| Đặc điểm                                         | Bình thường                                                        | Bất thường                                                                            |
+| ------------------------------------------------ | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| Tần suất                                         | &ge;24 và &le;28 ngày                                              | Vô kinh<br>Chảy máu không thường xuyên (>38 ngày)<br>Chảy máu thường xuyên (<24 ngày) |
+| Thời gian                                        | &le;8 ngày                                                         | Kéo dài >8 ngày                                                                       |
+| Sự đều đặn (sự thay đổi về độ dài giữa 2 chu kỳ) | Đều (18-25 tuổi và 42-45 tuổi: &le;9 ngày; 26-41 tuổi;&le; 7 ngày) | Không đều (sự thay đổi &ge; 8-10 ngày)                                                |
+| Thể tích máu (theo đánh giá của người bệnh)      | 5-80ml                                                             | Ít <5mL<br> Nhiều >80mL                                                               |
+| Xuất huyết giữa chu kỳ                           | Không có                                                           | Chảy máu bất thường giữa 2 chu kỳ (đầu, giữa, cuối)                                   |
 
 ### Theo nguyên nhân (PALM - COEIN)
 
@@ -37,16 +37,16 @@ a. Nguyên nhân về cấu trúc
 
 **L**eiomyomas (AUB-L) - U xơ tử cung.
 
-**Ma**alignancy & Hyperplasia (AUB-M) - Bệnh lý ác tính và tăng sinh nội mạc tử cung.
+**M**alignancy & Hyperplasia (AUB-M) - Bệnh lý ác tính và tăng sinh nội mạc tử cung.
 
 ![Phân loại u xơ tử cung theo FIGO 2011](../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong/phan-loai-u-xo-tu-cung-figo-2011.jpg)
 _Phân loại u xơ tử cung theo FIGO 2011_
 
-| Vị trí u xơ   | Đặc điểm                                                                                                                               |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Dưới niêm mạc | 0 dưới niêm mạc có cuống<br>1 <50% trong cơ<br>2 &le; 50% trong cơ<br>3 100% trong cơ                                                  |
-| Vị trí khác   | 4 trong cơ<br>5 dưới thanh mạc &le; 50% trong cơ<br>6 dưới thanh mạc <50%<br>7 dưới thanh mạc có cuống<br>8 cổ tử cung, dây chằng rộng |
-| H-hybrid      | 2-5 <50% dưới thanh mạc và <50% dưới niêm mạc                                                                                          |
+| Vị trí u xơ   | Đặc điểm                                                                                                                                         |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Dưới niêm mạc | 0 - dưới niêm mạc có cuống<br>1 <50% trong cơ<br>2 - &le; 50% trong cơ<br>3 - 100% trong cơ                                                      |
+| Vị trí khác   | 4 - trong cơ<br>5 - dưới thanh mạc &le; 50% trong cơ<br>6 - dưới thanh mạc <50%<br>7 - dưới thanh mạc có cuống<br>8 - cổ tử cung, dây chằng rộng |
+| H-hybrid      | 2-5 - <50% dưới thanh mạc và <50% dưới niêm mạc                                                                                                  |
 
 b. Nguyên nhân không thuộc cấu trúc
 
