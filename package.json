@@ -1,7 +1,7 @@
 {
   "name": "@medpocket/18-months",
   "version": "0.1.0",
-  "description": "The time for me to find myself.",
+  "description": "Getting started with 18 months.",
   "scripts": {
     "build": "astro build",
     "dev": "astro dev",
