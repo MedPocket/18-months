@@ -25,6 +25,9 @@ export default defineConfig({
       editLink: {
         baseUrl: 'https://github.com/MedPocket/18-months/tree/main',
       },
+      components: {
+        Head: './src/components/Head.astro',
+      },
       sidebar: [
         {
           label: 'Trang chủ',
