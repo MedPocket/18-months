@@ -10,10 +10,10 @@
     "start": "astro dev"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.21.5",
+    "@astrojs/starlight": "^0.22.1",
     "@astrojs/starlight-tailwind": "^2.0.2",
     "@astrojs/tailwind": "^5.1.0",
-    "astro": "^4.7.0",
+    "astro": "^4.7.1",
     "astro-og-canvas": "^0.5.0",
     "katex": "^0.16.10",
     "lite-youtube-embed": "^0.3.2",
