@@ -4,7 +4,7 @@ import Default from '@astrojs/starlight/components/Head.astro'
 
 const ogImageUrl = new URL(
   `/18-months/og/${Astro.props.id.replace(/\.\w+$/, '.png')}`,
-  Astro.site,
+  Astro.url,
 )
 ---
 

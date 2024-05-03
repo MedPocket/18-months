@@ -1,30 +1,21 @@
-// Add Open Graph images to Starlight: https://hideoo.dev/notes/starlight-og-images
+// Reference from: https://hideoo.dev/notes/starlight-og-images
 
 import { getCollection } from 'astro:content'
 import { OGImageRoute } from 'astro-og-canvas'
 
-// Get all entries from the `docs` content collection.
 const entries = await getCollection('docs')
 
-// Map the entry array to an object with the page ID as key and the
-// frontmatter data as value.
 const pages = Object.fromEntries(entries.map(({ data, id }) => [id, { data }]))
 
 export const { getStaticPaths, GET } = OGImageRoute({
-  // Pass down the documentation pages.
   pages,
-  // Define the name of the parameter used in the endpoint path, here `route`
-  // as the file is named `[...route].ts`.
   param: 'route',
-  // Define a function called for each page to customize the generated image.
   getImageOptions: (_path, page: (typeof pages)[number]) => {
     return {
-      // Use the page title and description as the image title and description.
       title: page.data.title,
       description: page.data.description,
-      // Customize various colors and add a border.
-      bgGradient: [[24, 24, 27]],
-      border: { color: [63, 63, 70], width: 20 },
+      bgGradient: [[34, 193, 195]],
+      border: { color: [255, 255, 255], width: 20 },
       padding: 120,
     }
   },
