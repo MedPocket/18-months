@@ -16,7 +16,9 @@ export const { getStaticPaths, GET } = OGImageRoute({
       description: page.data.description,
       border: { width: 32, side: 'inline-start' },
       padding: 80,
-      bgGradient: [[34, 193, 195]],
+      bgImage: {
+        path: `./src/pages/og/_background-image.png`,
+      },
       font: {
         title: {
           families: ['Inter'],
