@@ -17,6 +17,17 @@ export const { getStaticPaths, GET } = OGImageRoute({
       bgGradient: [[34, 193, 195]],
       border: { color: [255, 255, 255], width: 20 },
       padding: 120,
+      font: {
+        title: {
+          families: ['Inter'],
+        },
+        description: {
+          families: ['Inter'],
+        },
+      },
+      fonts: [
+        'https://cdn.jsdelivr.net/npm/inter-font@3.19.0/ttf/Inter-Regular.ttf',
+      ],
     }
   },
 })
