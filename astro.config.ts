@@ -8,9 +8,8 @@ import starlightLinksValidator from 'starlight-links-validator'
 // https://astro.build/config
 export default defineConfig({
   site: process.env.CI
-    ? 'https://medpocket.github.io'
+    ? 'https://medpocket.github.io/18-months'
     : 'http://localhost:4321',
-  base: '/18-months',
   markdown: {
     remarkPlugins: [remarkMath],
     rehypePlugins: [rehypeKatex],
