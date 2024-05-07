@@ -97,7 +97,7 @@ Phẫu thuật gồm:
 
 Nắm rõ phân bố mạch máu tử cung và các nhánh nối liên quan, cấu trúc giải phẫu và mạch máu vùng chậu để giảm mất máu và tránh tổn thương và biến chứng.
 
-Dự đoán và đánh giá khó khắn trước và trong lúc phẫu thuật, đặc biệt là đánh giá vị trí và mức xâm lấn của bánh rau.
+Dự đoán và đánh giá khó khăn trước và trong lúc phẫu thuật, đặc biệt là đánh giá vị trí và mức xâm lấn của bánh rau.
 
 ## Nguồn tham khảo
 

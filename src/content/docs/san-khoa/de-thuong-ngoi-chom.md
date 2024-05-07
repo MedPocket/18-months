@@ -81,6 +81,24 @@ Cần lưu ý rằng cắt tầng sinh môn không giúp rút ngắn giai đoạ
 
 ![Cắt tầng sinh môn](../../../assets/san-khoa/de-thuong-ngoi-chom/cat-tang-sinh-mon.png)
 
+## Cách thở và rặn trong cuộc đẻ
+
+### Cách thở
+
+Dựa theo tính chất chu kỳ của cơn gò tử cung, sản phụ sẽ chú ý, tập trung vào hơi thở:
+
+- Khi bắt đầu cảm nhận đau, nghĩa là khi bắt đầu thì co, có cơn co xuất hiện thai phụ nên tập trung vào hơi thở để tập thở nhanh dần. Hít vào bằng mũi và thở ra bằng miệng. Cơn đau càng tăng thì thở càng nhanh hơn và nông hơn, tần suất nhịp thở tăng dần ở thì kéo dài. Cảm nhận đau càng nhiều thì thở càng nhanh hơn. Ở thì thở ra làm sao tạo được tiếng rít gần như tiếng rít, tiếng huýt sáo nhỏ. Đến khi cảm nhận bớt đau thì thở chậm lại và thở sâu hơn, tần suất nhịp thở giảm dần.
+- Ở thì nghỉ giữa các cơn co tử cung, thai phụ nên thở sâu và nhẹ nhàng bình thường để lấy lại năng lượng đã bị mất đi khi thở nhanh, nông ở thì co và tích trữ năng lượng cho lần thở của cơn đau kế tiếp. Nên thư giãn toàn thân là tốt nhất.
+
+Khi rặn, thai phụ nên tập rặn đúng cách thì mới có hiệu quả đẩy thai ra khỏi bụng mẹ và ống sinh dục được. Rặn không hiệu quả, giai đoạn xổ thai kéo dài sẽ làm mất sức người mẹ và em bé có thể bị ngạt ngay khi chưa kịp sinh ra.
+
+### Cách rặn
+
+Khi cảm nhận được cơn co tử cung (bụng gò cứng dần và xuất hiện cơn đau): thai phụ nên hít vào 1 hơi thở thất sâu. Sau đó nín thở, miệng ngậm chặt, 2 tay nắm chặt vào 2 thành của bàn sinh, 2 chân đạp mạnh vào 2 ống treo cổ chân của bàn sanh, dồn hơi rặn mạnh để đẩy hơi xuống vùng bụng dưới giúp tống xuất thai nhi ra ngoài. Khi cảm thấy sắp hết hơi nhưng vẫn còn đau có thể hít vào 1 hơi khác và rặn tiếp tục cho đến khi hết cảm thấy đau bụng nữa. Chú ý là trong khi rặn, thai phụ phải giữ sao cho lưng thẳng, áp sát vào bề mặt bàn sanh và phần mông phải cong lên phía trước. Đặt biệt là phải giữ để khi rặn thì miệng không được phát ra bất cứ âm thanh nào.
+
+Giữa 2 cơn co tử cung, hết đau thì thở sâu điều hòa, dưỡng sức để tập trung vào đợt rặn kế tiếp.
+
 ## Nguồn tham khảo
 
 - TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- [Cách thở và rặn sanh trong cuộc chuyển dạ](https://tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/cach-tho-va-ran-sanh-trong-cuoc-chuyen-da/) - Bệnh viện Từ Dũ.

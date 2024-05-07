@@ -80,7 +80,7 @@ VIêm cổ tử cung như lậu, Herpes simplex, Trichomonas vaginalis, lao, Myc
 Viêm hậu môn - trực tràng như lậu, Herpes simplex, giang mai...
 
 :::caution[Lưu ý]
-Lậu và C. trachomatis thường đồng nhiễm trên lâm sàng vì thế cần tiến hành xét nghiệm lậu cho tất cả bệnh nhân nhiễm Chlamydia.
+Lậu và C. Trachomatis thường đồng nhiễm trên lâm sàng vì thế cần tiến hành xét nghiệm lậu cho tất cả bệnh nhân nhiễm Chlamydia.
 :::
 
 ## Điều trị

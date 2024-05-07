@@ -122,7 +122,7 @@ Thuốc bổ trợ:
 - Oxytocin 5 IU x tiêm bắp 02 lần/ngày.
 - Tranexamic 500mg uống 1 viên/lần x 2 lần/ngày x 5 ngày.
 
-Hạn chế vận đọng và nên nằm nghỉ ngơi.
+Hạn chế vận động và nên nằm nghỉ ngơi.
 
 c. Theo dõi ngoại trú
 
@@ -177,7 +177,7 @@ Chỉ định thai &le; 8 tuần.
   - Sử dụng Karman 1 van và ống hút số 6.
   - Chừa 1 ít mô rau ở vị trí vết mổ cũ, không cố gắng hút hết hay hút sạch vì nguy cơ tổn thương tử cung gây chảy máu.
   - Thuốc co tử cung oxytocin 5 đơn vị, 2 ống tiêm bắp và Misoprostol 200mcg x 3 viên đặt trực tràng.
-  - Nếu tihf trạng ổn sau 48h được xuất viện điều trị ngoại trú.
+  - Nếu tình trạng ổn sau 48h được xuất viện điều trị ngoại trú.
 - Theo dõi ngoại trú:
   - Tái khám mỗi 3 tuần đầu, sau đó 1 tháng cho đến khi mất khối thai, beta hCG âm tính, không có tăng sinh mạch máu.
   - Dặn dò người bệnh không làm việc nặng, không đi lại nhiều, không giao hợp.

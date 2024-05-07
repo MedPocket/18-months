@@ -183,7 +183,7 @@ Tổng liều Insulin sẽ được chia ra như sau: 2/3 buổi sáng và 1/3 b
   - 50-70% insulin nhanh (chia 3 bữa ăn)
   - 30-50% insulin nền chia 1-2 mũi.
 - Thử đường máu mao mạch nhiều lần/ngày đói buổi sáng, 1 hoặc 2 giờ sau ăn, căn cứ chỉnh liều:
-  - Căn cứ đường máu đói buổi sáng để chỉnh liều insuline nền buổi tối.
+  - Căn cứ đường máu đói buổi sáng để chỉnh liều insulin nền buổi tối.
   - Căn cứ đường máu sau mỗi bữa ăn để chỉnh liều insulin trước mỗi bữa ăn.
 - Tiếp tục theo dõi đường máu hàng ngày để chỉnh liều, nhu cầu insulin tăng dần cho đến trước khi đẻ.
 
@@ -238,7 +238,7 @@ Xử trí khi hạ đường huyết:
   - Cho uống nước đường hoặc ăn đồ chứa đường.
 - Nếu sản phụ hôn mê (nặng):
   - Truyền tĩnh mạch nhanh 50 ml glucose 20% hoặc 30%. Lặp lại nếu sản phụ chưa tỉnh. Nếu tỉnh điều chỉnh theo kết quả đường huyết.
-  - Duy trì gluocse 5% để đường huyết 5.5-7 mmol/l.
+  - Duy trì glucose 5% để đường huyết 5.5-7 mmol/l.
 
 ## Kết cục sản khoa
 

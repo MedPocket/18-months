@@ -65,7 +65,7 @@ Khám âm đạo chỉ thực hiện tại phòng mổ khi có huyết ra nhiề
 
 Siêu âm xác định vị trí bám của bánh rau sẽ thay đổi cùng với tiến trình lớn lên của thai nhi. Chỉ được phép xác lập chẩn đoán rau tiền đạo kể từ sau khi tuổi thai đạt 28 tuần lễ tròn vô kinh.
 
-Siêu âm đầu dò âm đạo là công cụ giúp chẩn đóan rau tiền đạo.
+Siêu âm đầu dò âm đạo là công cụ giúp chẩn đoán rau tiền đạo.
 
 Cộng hưởng từ (MRI) có thể có ích trong khảo sát rau cài răng lược.
 
@@ -77,7 +77,7 @@ _Theo nghiên cứu, khảo sát mép bánh rau bám lan qua lỗ trong cổ t�
 
 Xuất huyết âm đạo trong 3 tháng cuối thai kỳ không kèm theo đau bụng là 1 dấu hiệu điển hình của rau tiền đạo.
 
-Máu chảy ra ngoài trong rau tiền đạo là máu mẹ. Đợt chảy máu âm đạo đầu tiên thường tự ổn định trong vòng 1-2 giờ, nếu như nó không quá nghiêm trọng để có chỉ dịnh chấm dứt thai kỳ. Nếu chảy máu là trầm trọng hoặc thai nhi đã trưởng thành thì chấm dứt thai kỳ là lựa chọn. Số đợt xuất hiện chảy máu không có mối liên quan đến độ nặng của rau tiền đạo cũng như kết cục của thai nhi.
+Máu chảy ra ngoài trong rau tiền đạo là máu mẹ. Đợt chảy máu âm đạo đầu tiên thường tự ổn định trong vòng 1-2 giờ, nếu như nó không quá nghiêm trọng để có chỉ định chấm dứt thai kỳ. Nếu chảy máu là trầm trọng hoặc thai nhi đã trưởng thành thì chấm dứt thai kỳ là lựa chọn. Số đợt xuất hiện chảy máu không có mối liên quan đến độ nặng của rau tiền đạo cũng như kết cục của thai nhi.
 
 Khả năng tự cầm máu sau sinh của cuộc sinh với rau tiền đạo rất kém. Cơ chế cầm máu bình thường sau sổ rau trong các trường hợp rau bám ở thân tử cung là do các thớ cơ đan chéo siết chặt các mạch máu bị hở ra sau sinh ở các hồ máu. Trong rau tiền đạo, do các hồ máu có vị trí là ở đoạn dưới tử cung, không có các lớp cơ đan chéo, nên các mạch máu này không được siết lại sau khi sinh.
 

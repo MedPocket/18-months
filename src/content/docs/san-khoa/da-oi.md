@@ -75,8 +75,8 @@ Những tuần thai sớm có thể thấy bất thường karyotype thai, TORCH
 
 Điều trị ngoại trú:
 
-- < 34 tuần: Tái khám mỗi 2 tuần đo chiều dài cổ tử cung, cân nhặc Coritisteroids trước sinh.
-- &ge; 34 tuần: Siêu âm Doppler, nonstress test mỗi tuần.
+- < 34 tuần: Tái khám mỗi 2 tuần đo chiều dài cổ tử cung, cân nhắc Coritisteroids trước sinh.
+- &ge; 34 tuần: Siêu âm Doppler, non-stress test mỗi tuần.
 
 **Tiêu chuẩn nhập viện:**
 
