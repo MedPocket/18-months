@@ -61,7 +61,7 @@ Trong vài tuần đầu của thai trong tử cung bình thường (66% trườ
 
 ## Lược đồ tiếp cận với siêu âm
 
-![Lược đồ tiếp cận xuất huyết 3 tháng đầu với siêu âm](../../../assets/case-study/xuat-huyet-3-thang-dau/luoc-do-xuat-huyet-3-thang-dau-theo-sieu-am.png)
+![Lược đồ tiếp cận xuất huyết 3 tháng đầu với siêu âm](../../../assets/san-khoa/xuat-huyet-3-thang-dau/luoc-do-xuat-huyet-3-thang-dau-theo-sieu-am.png)
 
 ## Nguồn tham khảo
 

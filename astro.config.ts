@@ -48,13 +48,6 @@ export default defineConfig({
           },
         },
         {
-          label: 'Case Study',
-          collapsed: true,
-          autogenerate: {
-            directory: 'case-study',
-          },
-        },
-        {
           label: 'Liên Quan',
           collapsed: true,
           autogenerate: {
