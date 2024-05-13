@@ -28,7 +28,7 @@ Nguồn gốc xuất hiện tiền sản giật bắt đầu từ bánh nhau nh�
   - Cô đặc máu, tăng Hematocrit do mất đạm, giảm áp lực keo, nặng có thể gây sốc tim.
   - Tiêu thụ tiểu cầu ngoài lòng mạch.
 - Gan: nhồi máu, hoại tử và xuất huyết trong nhu mô, gây rối loạn chức năng tế bào gan và làm tiến triển thêm các rối loạn đông máu.
-- Thận: Tổn thương tế bào nội mô của thận làm tổn hại nghiêm trong chức năng lọc vi cầu thận. Độ lọc cầu thận giảm tới 40% so với bình thường, hệ quả là gây tăng creatinin máu, tăng acid uric máu và xuất hiện đạm niệu.
+- Thận: Tổn thương tế bào nội mô của thận làm tổn hại nghiêm trong chức năng lọc vi cầu thận. Độ lọc cầu thận giảm tới 40% so với bình thường, hệ quả là gây tăng creatinine máu, tăng acid uric máu và xuất hiện đạm niệu.
 - Não: Tổn thương nội mô ở não gây các triệu chứng thần kinh, phù não và xuất huyết trong nhu mô não.
 
 ## Yếu tố nguy cơ
@@ -69,7 +69,7 @@ Tiền sản giật được phân loại thành tiền sản giật không có 
 1. Huyết áp tâm thu &ge; 160 mmHg hoặc huyết áp tâm trương &ge; 110 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
 2. Giảm tiểu cầu: tiểu cầu <100,000/µL.
 3. Suy giảm chức năng gan: men gan tăng (gấp đôi so với bình thường), đau nhiều ở hạ sườn phải hoặc đau thượng vị không đáp ứng với thuốc và không có nguyên nhân khác.
-4. Suy thận tiến triển (creatinin huyết thanh > 1.1 mg/dL hoặc gấp đôi nồng độ creatinin huyết thanh bình thường mà không do bệnh lý thận khác).
+4. Suy thận tiến triển (creatinine huyết thanh > 1.1 mg/dL hoặc gấp đôi nồng độ creatinine huyết thanh bình thường mà không do bệnh lý thận khác).
 5. Phù phổi.
 6. Các triệu chứng của não và thị giác: rối loạn thị giác (hoa mắt, ám điểm, mù vỏ não, co thắt mạch máu võng mạc); nhức đầu nhiều, nhức đầu dai dẳng, tăng lên, không đáp ứng thuốc giảm đau, thay đổi tri giác.
 

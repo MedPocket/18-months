@@ -30,7 +30,7 @@ Phần lớn các trường hợp, triệu chứng lâm sàng **thường rất 
 
 ## Siêu âm là biện pháp tiếp cận sơ cấp
 
-So với siêu âm thực hiện qua đường bụng (Transabdominal Ultrasound Scan - TAS), siêu âm thực hiện qua đường âm đạo (Transvaginal Ultrasound Scan - TVS) có độ phân giải hình ảnh tốt hơn, cho phép phân biệt các chi tiết có kích thước cỡ milimet (mm). Tuy nhiên TVS lại có tầm nhìn hạn chế hơn TAS.
+So với siêu âm thực hiện qua đường bụng (Transabdominal Ultrasound Scan - TAS), siêu âm thực hiện qua đường âm đạo (Transvaginal Ultrasound Scan - TVS) có độ phân giải hình ảnh tốt hơn, cho phép phân biệt các chi tiết có kích thước cỡ millimes (mm). Tuy nhiên TVS lại có tầm nhìn hạn chế hơn TAS.
 
 **2 thông tin mà TVS có thể cung cấp tốt nhất là:**
 

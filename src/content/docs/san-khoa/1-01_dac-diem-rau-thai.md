@@ -59,8 +59,8 @@ Rau được coi như đã hoàn thành sau tháng thứ 4 với cấu tạo hì
 
 Rau thai là 1 trong những phần phụ của thai:
 
-- Nơi trao đổi chất dinh dưỡng, nước, oxy, kháng thể, hormon,... từ mẹ sang thai hay các chất dị hoá, nước, carbonic,.. từ thai sang mẹ.
-- Bài tiết 1 số hormon như: hCG (human chrionic gonadotropin), estrogen, progesteron,...
+- Nơi trao đổi chất dinh dưỡng, nước, oxy, kháng thể, hormone,... từ mẹ sang thai hay các chất dị hoá, nước, carbonic,.. từ thai sang mẹ.
+- Bài tiết 1 số hormone như: hCG (human chronic gonadotropin), estrogen, progesterone,...
 - Miễn dịch thụ động kháng thể từ máu mẹ qua hàng rào rau sang thai.
 
 ## Nguồn tham khảo
