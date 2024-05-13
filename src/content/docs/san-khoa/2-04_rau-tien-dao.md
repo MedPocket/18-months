@@ -21,7 +21,7 @@ Phân loại rau tiền đạo
 
 ![Phân loại rau tiền đạo](../../../assets/san-khoa/rau-tien-dao/phan-loai-rau-tien-dao.png)
 
-Siêu âm đầu dò âm đạo phân loại rau tiền đạo dùng đơn vị là milimet (mm) để miêu tả khoảng cách giữa mép bánh rau và lỗ cổ trong cổ tử cung.
+Siêu âm đầu dò âm đạo phân loại rau tiền đạo dùng đơn vị là millimes (mm) để miêu tả khoảng cách giữa mép bánh rau và lỗ cổ trong cổ tử cung.
 
 - Trong trường hợp mép bánh rau nằm ngay ở lỗ trong cổ tử cung thì khoảng cách này được mô tả là 0 mm.
 - Nếu mép bánh rau bám chưa lan tới lỗ trong cổ tử cung thì sẽ mô tả khoảng cách từ lỗ trong cổ tử cung đến mép bánh rau.
@@ -122,7 +122,7 @@ Chấm dứt thai kỳ:
 
 Cầm máu vị trí rau bám:
 
-- Dùng thuốc co hồi tử cung: Oxytocin, Carbetocin, Methylergotamine (maleat), Prostagladin.
+- Dùng thuốc co hồi tử cung: Oxytocin, Carbetocin, Methylergotamine (maleat), Prostaglandin.
 - Thắt động mạch tử cung khi cần.
 - Có thể phải cắt tử cung toàn phần đặc biệt trường hợp rau cài răng lược.
 

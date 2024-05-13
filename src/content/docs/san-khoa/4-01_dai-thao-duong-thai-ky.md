@@ -41,7 +41,7 @@ Người trưởng thành có BMI &ge; 23 $kg/m^2$ và có 1 trong các nguy cơ
 - Gia đình có người mắc đái tháo đường thế hệ cận kề.
 - Tiền sử bệnh tim mạch do sơ vữa.
 - Tăng huyết áp (huyết áp tâm thu &ge; 140 mmHg hoặc huyết áp tâm trương &ge; 90 mmHg hay điều trị thước tăng huyết áp).
-- Nồng độ HDL-C trong máu < 0.9 mmol/L và/hoặc Triglycerid > 2.82 mmol/L.
+- Nồng độ HDL-C trong máu < 0.9 mmol/L và/hoặc Triglyceride > 2.82 mmol/L.
 - Phụ nữ bị buồng trứng đa nang.
 - Ít vận động thể lực.
 - Có dấu hiệu đề kháng Insulin.
@@ -100,7 +100,7 @@ Chế độ dinh dưỡng nội khoa (Medical Nutrition Treatment - MNT) cần �
 1. Ổn định được đường huyết ở mức mục tiêu.
 2. Cung cấp đủ năng lượng đảm bảo sức khoẻ cho mẹ và giúp thai phụ tăng cân hợp lý trong thai kỳ.
 3. Đảm bảo được sức khoẻ của thai.
-4. Ngăn ngừa tình trạng nhiễm cetone.
+4. Ngăn ngừa tình trạng nhiễm Ketone.
 
 #### Chế độ ăn và theo dõi
 
@@ -215,7 +215,7 @@ Cần lưu ý những điểm mốc trong chăm sóc thai kỳ với đái tháo
 Mức đường huyết được cho là hợp lý trong quá trình chuyển dạ là từ > 70 và < 126 mg/dL (> 3.9 và <7 mmol/L), vì ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những
 thai phụ cần điều trị Insulin.
 
-Mức đường huyết trong chuyển dạ > 140 đến 180 mg/dL (7.8 đến 10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm cetone acid ở mẹ.
+Mức đường huyết trong chuyển dạ > 140 đến 180 mg/dL (7.8 đến 10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm ketone acid ở mẹ.
 
 ![Khuyến cáo về chấm dứt thai kỳ](../../../assets/san-khoa/dai-thao-duong-thai-ky/khuyen-cao-ve-cham-dut-thai-ky.png)
 

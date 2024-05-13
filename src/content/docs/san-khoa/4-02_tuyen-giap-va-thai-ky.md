@@ -12,7 +12,7 @@ Sự tăng lọc cầu thận trong thai kỳ làm thận tăng thải iod, do �
 
 ![Bảng chức năng tuyến giáp](../../../assets/san-khoa/tuyen-giap-va-thai-ky/bang-chuc-nang-tuyen-giap.png)
 
-Free $T_4$ (free thyroxine - $FT_4$) là phương pháp đánh giá chức năng tuyến giáp chính xác duy nhất khi có sự thay đổi của TBG (Thyroxin Binding Globulin) vì nồng độ của $T_3$ (total triiodothyronin) và $T_4$ tăng trong suốt thai kỳ.
+Free $T_4$ (free thyroxine - $FT_4$) là phương pháp đánh giá chức năng tuyến giáp chính xác duy nhất khi có sự thay đổi của TBG (Thyroxine Binding Globulin) vì nồng độ của $T_3$ (total triiodothyronin) và $T_4$ tăng trong suốt thai kỳ.
 
 Về chức năng tuyến giáp của thai, trước 10 tuần không có iod hữu cơ trong tuyến giáp thai nhi. Từ tuần 11 đến tuần 12, tuyến giáp thai nhi có thể sản xuất được iodothyronine và $T_4$. Nồng độ TSH của thai nhi, $T_4$ và $FT_4$ đã chứng tỏ sự trưởng thành và khả năng hoạt động độc lập của trục tuyến giáp-tuyến yên.
 

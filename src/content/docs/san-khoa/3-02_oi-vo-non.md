@@ -44,7 +44,7 @@ Máu và 1 số nhiễm trùng âm đạo có thể cho kết quả dương tín
 
 #### Test dương sỉ
 
-Test lá dương xỉ dựa trên đặc tính kết tinh tạo tinh thể hình lá dương xỉ của muối chlorure natri trong môi trường có mặt estrogen (dịch ối). Trải 1 ít dịch cần khảo sát lên trên 1 lam kính và để nó khô, sau đó xem dưới kinh hiển vi. Nước ối sẽ kết tinh và có thể tạo nên các cấu trúc có hình lá dương xỉ. Âm tính giả rất thường gặp.
+Test lá dương xỉ dựa trên đặc tính kết tinh tạo tinh thể hình lá dương xỉ của muối NaCl trong môi trường có mặt estrogen (dịch ối). Trải 1 ít dịch cần khảo sát lên trên 1 lam kính và để nó khô, sau đó xem dưới kinh hiển vi. Nước ối sẽ kết tinh và có thể tạo nên các cấu trúc có hình lá dương xỉ. Âm tính giả rất thường gặp.
 
 #### Siêu âm
 
@@ -54,7 +54,7 @@ Test lá dương xỉ dựa trên đặc tính kết tinh tạo tinh thể hình
 
 Công thức máu và CRP đánh giá dấu hiệu nhiễm trùng.
 
-CTG hoặc nonstress test nếu cần.
+CTG hoặc Non-stress test nếu cần.
 
 Liên cầu nhóm B (GBS) nếu cần.
 
@@ -90,11 +90,11 @@ Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh v
   - Cephalexin 500 mg (uống) mỗi 6 giờ trong 5 ngày.
 - Trường hợp nguy cơ cao phản ứng phản vệ với Penicillin:
   - Azithromycin 1 g (uống) ngay khi nhập viện, và
-  - Clindamycin 900 mg (truyền tĩnh mạch) mỗi 8 giờ trong 48 giờ + Gentamycin 5 mg/kg (truyền tĩnh mạch) mỗi 24 giờ trong 48 giờ, sau đó
+  - Clindamycin 900 mg (truyền tĩnh mạch) mỗi 8 giờ trong 48 giờ + Gentamicin 5 mg/kg (truyền tĩnh mạch) mỗi 24 giờ trong 48 giờ, sau đó
   - Clindamycin 300 mg (uống) mỗi 8 giờ trong 5 ngày.
 - Trường hợp dị ứng nặng với Penicillin, GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ:
   - Azithromycin 1 g (uống) ngay khi nhập viện, và
-  - Vancomycin 20 mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24 giờ trong 48 giờ. Lưu ý xét nghiệm creatinin trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành ba nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy > 15mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
+  - Vancomycin 20 mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24 giờ trong 48 giờ. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành ba nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy > 15mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
 
 Dùng Corticosteroid cho mẹ để giảm khả năng xảy ra hội chứng suy hô hấp cấp ở sơ sinh. Dùng ngay cả khi không chắc có đủ thời gian để hoàn thành đủ liều Corticosteroids.
 
@@ -110,7 +110,7 @@ Cân nhắc điều trị ngoại trú, tái khám sau 1 tuần nếu:
 
 - Ối vỡ non không ra thêm nước sau 7 ngày điều trị kháng sinh dự phòng.
 - Lượng nước ối bình thường trên siêu âm.
-- Sản phụ ký tư vấn đồng thuận về lợi ích và nguyw cơ của việc điều trị mong đợi.
+- Sản phụ ký tư vấn đồng thuận về lợi ích và nguy cơ của việc điều trị mong đợi.
 - Hướng dẫn sản phụ tự đo nhiệt độ 2 lần/ngày, các dấu hiệu cần tái khám như sốt, ra nước âm đạo, dịch âm đạo hôi, thai máy ít,...
 
 #### Chấm dứt thai kỳ
@@ -130,7 +130,7 @@ Dùng Magnesium sulfate bảo vệ não ở trẻ sinh non:
 - Thường quy từ 28 đến < 32 tuần. Cân nhắc trường hợp 24 đến < 28 tuần.
 - Chống chỉ định khi mẹ bị nhược cơ.
 - Thận trọng khi mẹ có tiền căn thiếu máu cơ tim, rối loạn dẫn truyền.
-- Trường hợp mẹ tăng huyết áp hay tiền sản giật sử dụng theo phác đồ [Tăng huyết áp thai kỳ](../tang-huyet-ap-thai-ky#magnesium-sulfate).
+- Trường hợp mẹ tăng huyết áp hay tiền sản giật sử dụng theo phác đồ [Tăng huyết áp thai kỳ](../4-01_tang-huyet-ap-thai-ky#magnesium-sulfate).
 - Liều Magnesium sulfate 4.5 g liều duy nhất, truyền tĩnh mạch chậm trong 20-30 phút. Giảm liều khi BN có thiểu niệu hay suy thận.
 - Khi có chỉ định chấm dứt thai kỳ, Magnesium sulfate được chỉ định lý tưởng nhất trước sinh 4 giờ.
 
@@ -158,7 +158,7 @@ Sử dụng kháng sinh phổ rộng và phối hợp đến sau sinh và đã k
 
 Đánh giá tình trạng cổ tử cung trước khởi phát chuyển dạ. Cuộc mổ có thể là nguy hiểm hơn cuộc sinh, do khả năng vấy bẩn phúc mạc. Cần cân nhắc lợi ích và nguy cơ của sinh ngả âm đạo và sinh mổ.
 
-Xem thêm [Nhiễm trùng ối](../nhiem-trung-oi).
+Xem thêm [Nhiễm trùng ối](../3-03_nhiem-trung-oi).
 
 ## Nguồn tham khảo
 

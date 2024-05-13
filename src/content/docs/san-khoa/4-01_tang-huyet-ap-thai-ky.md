@@ -197,7 +197,7 @@ Nếu chưa có chỉ định chấm dứt thai kỳ có thể theo dõi nội t
   - Non-stress test (NST): 1 lần/tuần nếu mẹ bị tăng huyết áp, 2 lần/tuần nếu mẹ bị tiền sản giật.
 - Mẹ:
   - Theo dõi huyết áp 2 lần/tuần.
-  - Xét nghiệm công thức máu, Creatinin huyết thanh, LDH, AST, ALT 1-2 lần/tuần. Nếu tăng huyết áp thai kỳ cần xét nghiệm thêm đạm niệu.
+  - Xét nghiệm công thức máu, Creatinine huyết thanh, LDH, AST, ALT 1-2 lần/tuần. Nếu tăng huyết áp thai kỳ cần xét nghiệm thêm đạm niệu.
 - Chế độ ăn hợp lý: nhiều đạm, rau xanh, trái cây.
 - Tư vấn các dấu hiệu nặng như nhìn mờ, đau đầu nhiều, đau thượng vị,...
 
@@ -322,9 +322,9 @@ Nguyên tắc:
 
 #### Dự phòng co giật
 
-Sử dụng $MgSO_4$ để dự phòng cơn giật. Liều tấn công 4-6 g $MgSO_4$ tiêm tĩnh mạch chậm. Duy trì 1-2 g $MgSO_4$ mỗi giờ trong chuyển dạ và sau sinh 12-24 giờ. Ngưng $MgSO_4$ sau sinh 24 giờ, hoặc trong trường hợp có biểu hiện ngộ độc $MgSO_4$. Chỉ dùng $MgSO_4$ cho tiền sản giật có biệu hiện nặng, [chi tiết tại đây](#magnesium-sulfate).
+Sử dụng $MgSO_4$ để dự phòng cơn giật. Liều tấn công 4-6 g $MgSO_4$ tiêm tĩnh mạch chậm. Duy trì 1-2 g $MgSO_4$ mỗi giờ trong chuyển dạ và sau sinh 12-24 giờ. Ngưng $MgSO_4$ sau sinh 24 giờ, hoặc trong trường hợp có biểu hiện ngộ độc $MgSO_4$. Chỉ dùng $MgSO_4$ cho tiền sản giật có biểu hiện nặng, [chi tiết tại đây](#magnesium-sulfate).
 
-Trong tiền sản giật, không dùng Diazepam hay Pheyltoin. Khi được dùng trong tiền sản giật, chúng có hiệu quả kém, do sản giật là 1 bệnh lý mà cơ chế sinh co giật hoàn toàn khác với động kinh. Hơn nữa, chúng có thể có ảnh hưởng xấu trên thai nhi.
+Trong tiền sản giật, không dùng Diazepam hay Phenytoin. Khi được dùng trong tiền sản giật, chúng có hiệu quả kém, do sản giật là 1 bệnh lý mà cơ chế sinh co giật hoàn toàn khác với động kinh. Hơn nữa, chúng có thể có ảnh hưởng xấu trên thai nhi.
 
 #### Khi có cơn sản giật
 
@@ -341,7 +341,7 @@ Co giật thường tự giới hạn. Không cần phải dùng đến các thu
 
 Mục tiêu của điều trị $MgSO_4$ là để phòng ngừa các cơn co giật có khả năng sẽ xảy ra sau đó. Nếu sản phụ bị sản giật dù đang được truyền $MgSO_4$, cần tiêm tĩnh mạch chậm thêm 2-4 g $MgSO_4$ nữa, sau đó định lượng ion $Mg^{2+}$ trong máu. Nếu không đáp ứng với $MgSO_4$ (co giật sau 20 phút sau tiêm liều tải $MgSO_4$, sản giật tái phát &gt; 2 lần), có thể sử dụng Midazolam 1-2 mg (tĩnh mạch chậm) hoặc Lorazepan 4 mg (tĩnh mạch chậm), đặt nội khí quản và hỗ trợ thông khí. Trong trường hợp co giật không đáp ứng với $MgSO_4$, cân nhắc chụp CT hoặc MRI não vì đa số có bất thường hình ảnh não.
 
-Cần đặt ống thông Foley để theo dõi chính xác lượng nuớc tiểu và đồng thời để giúp quyết định điều trị với $MgSO_4$. Nếu có thiểu niệu, cần truyền nhanh 1 L dung dịch Glucose 5% trong 30 phút. Cảnh giác với phù phổi khi truyền nhanh. Nếu bài niệu vẫn không cải thiện, có thể đã có hoại tử ống thận cấp. Trong trường hợp này, cần phải được chăm sóc tại chuyên khoa hồi sức tích cực nội khoa.
+Cần đặt ống thông Foley để theo dõi chính xác lượng nước tiểu và đồng thời để giúp quyết định điều trị với $MgSO_4$. Nếu có thiểu niệu, cần truyền nhanh 1 L dung dịch Glucose 5% trong 30 phút. Cảnh giác với phù phổi khi truyền nhanh. Nếu bài niệu vẫn không cải thiện, có thể đã có hoại tử ống thận cấp. Trong trường hợp này, cần phải được chăm sóc tại chuyên khoa hồi sức tích cực nội khoa.
 
 #### Sau cơn sản giật
 
@@ -434,9 +434,9 @@ Thuốc lợi tiểu được dùng trong trường hợp tiền sản giật r�
 
 Sử dụng thuốc lợi tiểu được đặt ra trong trường hợp thiểu niệu hoặc vô niệu (nước tiểu 24 giờ < 800 mL, đặc biệt trong trường hợp nước tiểu 24 giờ < 400 mL), đe dọa phù phổi cấp, phù não, v.v.
 
-Liều và cách dùng: Furosemid 20 mg x 8 ống, tiêm tĩnh mạch chậm.
+Liều và cách dùng: Furosemide 20 mg x 8 ống, tiêm tĩnh mạch chậm.
 
-Trong các trường hợp tiền sản giật rất nặng này, thai phụ thường có biểu hiện suy thận kèm Ure và Creatinin tăng và độ thanh thải của thận giảm. Khi đó, tính mạng của mẹ là ưu tiên và phải dùng thuốc để cứu thai phụ.
+Trong các trường hợp tiền sản giật rất nặng này, thai phụ thường có biểu hiện suy thận kèm Ure và Creatinine tăng và độ thanh thải của thận giảm. Khi đó, tính mạng của mẹ là ưu tiên và phải dùng thuốc để cứu thai phụ.
 
 #### Thuốc hủy giao cảm: α-Methyldopa
 
@@ -450,23 +450,23 @@ Tác dụng phụ: Trầm cảm, buồn ngủ, chóng mặt, thay đổi chức 
 
 Chống chỉ định: Viêm gan cấp tính, mạn tính hoặc xơ gan, tiền sử viêm gan do thuốc, thiếu máu tán huyết, trầm cảm trầm trọng.
 
-#### Thuốc tác dụng trực tiếp trên cơ trơn thành mạch: Hydralazin
+#### Thuốc tác dụng trực tiếp trên cơ trơn thành mạch: Hydralazine
 
 Hydralazin thường là thuốc chống tăng huyết áp được lựa chọn đầu tay do đánh trực tiếp vào cơ chế bệnh sinh.
 
-Cơ chế thuốc gây giãn mạch trực tiếp, tác động trên các tiểu động mạch ngoại vi, là xuất phát điểm của bệnh sinh của tiền sản giật. Tác dụng của Hydralazin nhanh và ngắn, huyết áp sẽ hạ sau 10-30 phút và kéo dài trong 2-4 giờ. Tác dụng ngoại ý khác là nhịp tim nhanh, đánh trống ngực, đau thắt ngực, bồn chồn, khó ngủ, tiêu chảy, táo bón, buồn nôn, nhức đầu, rối loạn tạo máu, nổi mẫn, ớn lạnh, v.v. Kết hợp Hydralazin và Labetalol là 1 kết hợp có thể khắc phục được các nhược điểm của Hydralazin.
+Cơ chế thuốc gây giãn mạch trực tiếp, tác động trên các tiểu động mạch ngoại vi, là xuất phát điểm của bệnh sinh của tiền sản giật. Tác dụng của Hydralazine nhanh và ngắn, huyết áp sẽ hạ sau 10-30 phút và kéo dài trong 2-4 giờ. Tác dụng ngoại ý khác là nhịp tim nhanh, đánh trống ngực, đau thắt ngực, bồn chồn, khó ngủ, tiêu chảy, táo bón, buồn nôn, nhức đầu, rối loạn tạo máu, nổi mẫn, ớn lạnh, v.v. Kết hợp Hydralazine và Labetalol là 1 kết hợp có thể khắc phục được các nhược điểm của Hydralazine.
 
-Liều lượng và cách dùng: Hydralazin được dùng đường tiêm tĩnh mạch chậm với liều đầu 5 mg trong 1-2 phút, nếu sau 15-20 phút không đạt được hạ áp, cho 5-10 mg tĩnh mạch chậm tiếp. Nếu sau tổng liều 25 mg mà vẫn không kiểm soát được huyết áp thì nên dùng thuốc khác. Như vậy tổng liều tối đa không quá 25 mg.
+Liều lượng và cách dùng: Hydralazine được dùng đường tiêm tĩnh mạch chậm với liều đầu 5 mg trong 1-2 phút, nếu sau 15-20 phút không đạt được hạ áp, cho 5-10 mg tĩnh mạch chậm tiếp. Nếu sau tổng liều 25 mg mà vẫn không kiểm soát được huyết áp thì nên dùng thuốc khác. Như vậy tổng liều tối đa không quá 25 mg.
 
 Tác dụng không mong muốn: Quan trọng nhất là hạ huyết áp đột ngột có thể gây suy thai, hạ áp mẹ, đau đầu.
 
-Chống chỉ định: Trong các trường hợp quá mẫn với Hydralazin, cũng như các bệnh lý mà thay đổi huyết động đột ngột có thể gây nguy hiểm như bệnh động mạch vành, van 2 lá do thấp, phình động mạch chủ cấp. Không dùng Hydralazin trong trường hợp có lupus ban đỏ.
+Chống chỉ định: Trong các trường hợp quá mẫn với Hydralazine, cũng như các bệnh lý mà thay đổi huyết động đột ngột có thể gây nguy hiểm như bệnh động mạch vành, van 2 lá do thấp, phình động mạch chủ cấp. Không dùng Hydralazine trong trường hợp có lupus ban đỏ.
 
 #### Thuốc phong tỏa α, β Adrenergic: Labetalol
 
-Thường được dùng chung với Hydralazin để bù trừ lại những tác dụng không mong muốn do giãn mạch nhanh và mạnh của Hydralazin.
+Thường được dùng chung với Hydralazine để bù trừ lại những tác dụng không mong muốn do giãn mạch nhanh và mạnh của Hydralazine.
 
-Cơ chế của thuốc là ức chế thụ thể β giao cảm ở tim và mạch máu ngoại vi, do đó làm chậm nhịp tim và hạ huyết áp. Cơ chế này làm cho thuốc thường được dùng chung với Hydralazin. Thuốc bắt đầu tác dụng sau tiêm tĩnh mạch 5 phút, và mất 1-2 giờ để đạt nồng độ đỉnh trong máu. Labetalol có khởi phát tác dụng nhanh hơn và giảm nguy cơ bị nhịp nhanh so với Hydralazin.
+Cơ chế của thuốc là ức chế thụ thể β giao cảm ở tim và mạch máu ngoại vi, do đó làm chậm nhịp tim và hạ huyết áp. Cơ chế này làm cho thuốc thường được dùng chung với Hydralazine. Thuốc bắt đầu tác dụng sau tiêm tĩnh mạch 5 phút, và mất 1-2 giờ để đạt nồng độ đỉnh trong máu. Labetalol có khởi phát tác dụng nhanh hơn và giảm nguy cơ bị nhịp nhanh so với Hydralazine.
 
 Liều lượng và cách dùng: Liều boluses 10-20 mg sau đó 20-80 mg mỗi 10-30 phút (tối đa 300 mg), sau đó duy trì bằng đường uống 200 mg x 3 lần mỗi ngày, tối đa 800 mg trong 8 giờ. Sau 2-3 ngày điều trị, điều chỉnh tùy vào từng sản phụ, thường là 200-400 mg mỗi ngày.
 
@@ -474,29 +474,29 @@ Liều lượng và cách dùng: Liều boluses 10-20 mg sau đó 20-80 mg mỗi
 
 Chống chỉ định: Ở sản phụ suy tim sung huyết, hen suyễn và nhịp chậm xoang, block.
 
-#### Thuốc ức chế kênh Calcium: Nifedipin và Nicardipin
+#### Thuốc ức chế kênh Calcium: Nifedipine và Nicardipine
 
 Các chất chẹn kênh Calcium là thuốc dùng trong những trường hợp tăng huyết áp nặng.
 
-##### Nifedipin
+##### Nifedipine
 
-Cơ chế ức chế kênh Calcium loại 2, tức là ức chế chọn lọc dòng Calci đi vào trong cơ trơn mạch máu dẫn đến giãn mạch và hạ huyết áp. Nifedipin tác động trên cả các mạch máu trung bình, nên nó khởi phát tác dụng nhanh hơn Hydralazin.
+Cơ chế ức chế kênh Calcium loại 2, tức là ức chế chọn lọc dòng Calcium đi vào trong cơ trơn mạch máu dẫn đến giãn mạch và hạ huyết áp. Nifedipine tác động trên cả các mạch máu trung bình, nên nó khởi phát tác dụng nhanh hơn Hydralazine.
 
-Liều lượng và cách dùng: Liều điều trị của Nifedipin là 10-20 mg/20-30 phút (viên uống tác dụng nhanh), tối đa 50 mg. Sau đó 10-20 mg/2-6 giờ (tối đa không quá 180 mg mỗi ngày) để duy trì huyết áp ở mức mong muốn. Thời gian tác dụng sau 5-10 phút. Có thể dùng Nifedipin viên uống tác dụng kéo dài với liều 30-120 mg/ngày, khởi đầu với liều 30-60 mg x 01 lần/ngày, không dùng ngậm dưới lưỡi, tránh dùng khi có nhịp tim nhanh.
+Liều lượng và cách dùng: Liều điều trị của Nifedipine là 10-20 mg/20-30 phút (viên uống tác dụng nhanh), tối đa 50 mg. Sau đó 10-20 mg/2-6 giờ (tối đa không quá 180 mg mỗi ngày) để duy trì huyết áp ở mức mong muốn. Thời gian tác dụng sau 5-10 phút. Có thể dùng Nifedipine viên uống tác dụng kéo dài với liều 30-120 mg/ngày, khởi đầu với liều 30-60 mg x 01 lần/ngày, không dùng ngậm dưới lưỡi, tránh dùng khi có nhịp tim nhanh.
 
 Tác dụng không mong muốn: Gồm tim đập nhanh, nhức đầu và hồi hộp.
 
-Ion $Mg^{2+}$ có khả năng cạnh tranh với ion $Ca^{2+}$ nên phối hợp Nifedipin và $MgSO_4$ có thể dẫn đến tụt huyết áp.
+Ion $Mg^{2+}$ có khả năng cạnh tranh với ion $Ca^{2+}$ nên phối hợp Nifedipine và $MgSO_4$ có thể dẫn đến tụt huyết áp.
 
-##### Nicardipin
+##### Nicardipine
 
-Cơ chế tác dụng của Nicardipin tương đối giống với Nifedipin như đã nói ở trên. Tác dụng chọn lọc lên mạch máu, đồng thời ít tác dụng lên co bóp tim, nên ít làm tăng nhịp tim phản xạ. Nicardipin có thời gian bắt đầu tác dụng khoảng 10 phút. Đạt nồng độ đỉnh sau 30-120 phút, tác dụng kéo dài 8 giờ.
+Cơ chế tác dụng của Nicardipine tương đối giống với Nifedipine như đã nói ở trên. Tác dụng chọn lọc lên mạch máu, đồng thời ít tác dụng lên co bóp tim, nên ít làm tăng nhịp tim phản xạ. Nicardipine có thời gian bắt đầu tác dụng khoảng 10 phút. Đạt nồng độ đỉnh sau 30-120 phút, tác dụng kéo dài 8 giờ.
 
-Liều lượng và cách dùng: Uống 20 mg x 3 lần mỗi ngày. Hoặc truyền tĩnh mạch với liều bolus 0.5-1 mg, sau đó duy trì 1-3 mg/giờ (pha 1 ống Nicardipin 10 mL trong 40 mL dung dịch Glucose 5%, dùng bơm tiêm điện truyền với tốc độ 5-15 mL/giờ), chỉnh liều theo huyết áp sản phụ.
+Liều lượng và cách dùng: Uống 20 mg x 3 lần mỗi ngày. Hoặc truyền tĩnh mạch với liều bolus 0.5-1 mg, sau đó duy trì 1-3 mg/giờ (pha 1 ống Nicardipine 10 mL trong 40 mL dung dịch Glucose 5%, dùng bơm tiêm điện truyền với tốc độ 5-15 mL/giờ), chỉnh liều theo huyết áp sản phụ.
 
-Tác dụng phụ: Đau đầu, chóng mặt, buồn nôn, nôn, đau dạ dày. Nicardipin ít qua sữa mẹ.
+Tác dụng phụ: Đau đầu, chóng mặt, buồn nôn, nôn, đau dạ dày. Nicardipine ít qua sữa mẹ.
 
-Chống chỉ định: của Nicardipin gồm cơn đau thắt ngực không ổn định hoặc cấp tính, sốc tim, hẹp van động mạch chủ giai đoạn muộn, thận trọng khi dùng trong 2 tam cá nguyệt đầu, có thể dùng trong tam cá nguyệt 3.
+Chống chỉ định: của Nicardipine gồm cơn đau thắt ngực không ổn định hoặc cấp tính, sốc tim, hẹp van động mạch chủ giai đoạn muộn, thận trọng khi dùng trong 2 tam cá nguyệt đầu, có thể dùng trong tam cá nguyệt 3.
 
 ![Dùng thuốc tăng huyết áp](../../../assets/san-khoa/tang-huyet-ap-thai-ky/dung-thuoc-tang-huyet-ap.png)
 

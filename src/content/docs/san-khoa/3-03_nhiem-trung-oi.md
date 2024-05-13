@@ -88,7 +88,7 @@ Clindamycin 900 mg truyền tĩnh mạch 8 giờ hoặc Vancomycin 1 g truyền 
 
 Vancomycin chỉ nên sử dụng trong trường hợp:
 
-- Người bệnh nhiễm GBS và đề kháng với Clidamycin hoặc Erythromycin, hoặc
+- Người bệnh nhiễm GBS và đề kháng với Clindamycin hoặc Erythromycin, hoặc
 - Người bệnh nhiễm GBS và không có kết quả kháng sinh đồ.
 
 :::
@@ -96,6 +96,7 @@ Vancomycin chỉ nên sử dụng trong trường hợp:
 #### Nếu không đáp ứng với kháng sinh trên
 
 Piperacillin - Tazobactam 4.5 g truyền tĩnh mạch mỗi 8 giờ, hoặc
+
 Ertapenem 1 g truyền tĩnh mạch mỗi 24 giờ.
 
 ### Hạ sốt
@@ -120,7 +121,7 @@ Nhiễm khuẩn huyết, rối loạn đông máu, hội chứng suy hô hấp, 
 
 Cấp: Viêm phổi sơ sinh, viêm màng não, nhiễm khuẩn huyết, tử vong.
 
-Lâu dài: Loán ản phế quản phổi, bại não.
+Lâu dài: Loạn sản phế quản phổi, bại não.
 
 :::caution[Lưu ý]
 Cần thảo luận với bác sĩ sơ sinh đánh giá và điều trị trẻ sơ sinh khi chẩn đoán nghi ngờ/xác định nhiễm trùng ối.

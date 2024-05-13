@@ -5,7 +5,7 @@ lastUpdated: 2023-11-01
 ---
 
 human Chorionic Gonadotropin (hCG) là 1 glycoprotein có trọng lượng phân tử 36000-40000 Da. Đây là hormone
-có chứa nhiều liên kết carbonhydrate nhất trong các hormone ở loài người.
+có chứa nhiều liên kết carbohydrate nhất trong các hormone ở loài người.
 
 ## Nguồn gốc
 

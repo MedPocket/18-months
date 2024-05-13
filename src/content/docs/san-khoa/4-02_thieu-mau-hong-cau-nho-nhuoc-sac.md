@@ -121,7 +121,7 @@ Với mẹ:
 
 ### Chẩn đoán tiền Thalassemia
 
-Các bước của chiến lược tầm soát Thalassemie hiện nay:
+Các bước của chiến lược tầm soát Thalassemia hiện nay:
 
 Bước 1. Nhận diện một tình trạng thiếu máu nhược sắc hồng cầu nhỏ bằng huyết đồ. Huyết đồ cho thấy thiếu máu hồng cầu nhỏ, nhược sắc: nồng độ Hb < 11 g/dL, MCV < 80 fL, MCH < 27 pg.
 
@@ -157,13 +157,13 @@ Sàng lọc tiểu đường trên tất cả sản phụ khi thai 16 tuần, n�
 
 Siêu âm từ 24-26 tuần, sau đó mỗi 4 tuần để đánh giá phát triển của thai.
 
-Nhu cầu axit folic tăng do xương tăng hoạt động. Cho acid folic hàng ngày (5 mg) để ngăn ngừa thiếu máu hồng cầu to.
+Nhu cầu acid folic tăng do xương tăng hoạt động. Cho acid folic hàng ngày (5 mg) để ngăn ngừa thiếu máu hồng cầu to.
 
 Chống chỉ định uống sắt trong thai kì. Nếu chức năng tim xấu hơn trong thai kì nên sử dụng DFO, nguy cơ dị tật thai khi sử dụng DFO còn đang nghi ngờ.
 
 Trong chuyển dạ, nếu thai kì không có biến chứng có thể theo dõi sanh thường. Khuyến cáo sử dụng gây tê ngoài màng cứng để mổ sanh và hạn chế gây mê nội khí quản do bất thường phát triển hàm mặt. Sản phụ nên cho con bú trừ trường hợp bị các bệnh lí lây truyền mẹ con.
 
-Các phương pháp tránh thai: Không sử dụng ngừa thai bằng dụng cụ tử cung vì tăng nguy cơ nhiễm trùng, không sử dụng thuốc ngừa thai phối hợp vì tăng nguy cơ thuyên tắc mạch, trong hầu hết trường hợp nên ngừa thai bằng các phương pháp tránh thai chỉ chứa progestogen hoặc bao cao su.
+Các phương pháp tránh thai: Không sử dụng ngừa thai bằng dụng cụ tử cung vì tăng nguy cơ nhiễm trùng, không sử dụng thuốc ngừa thai phối hợp vì tăng nguy cơ thuyên tắc mạch, trong hầu hết trường hợp nên ngừa thai bằng các phương pháp tránh thai chỉ chứa progesterone hoặc bao cao su.
 
 Ngày nay, mong muốn tránh không mang thai và sanh ra những thai nhi có khả năng bị Thalassemia năng là khả thi. Phôi thu được từ thụ tinh trong ống nghiệm sẽ được nuôi đến giai đoạn phôi nang. Thực hiện sinh thiết phôi nang, khảo sát với các probes của Thalassemia theo phương pháp chẩn đoán di truyền trước khi làm tổ PGD, rồi mới được chuyển vào lòng tử cung. Tế bào máu cuống rốn của trẻ sơ sinh sẽ được giữ lưu trữ lại và nuôi cấy để cấy ghép cho các bệnh nhân.
 

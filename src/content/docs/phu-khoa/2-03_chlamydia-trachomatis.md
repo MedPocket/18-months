@@ -53,7 +53,7 @@ Tổn thương hậu môn trực tràng có thể biểu hiện viêm hậu môn
 
 Nuôi cấy dùng để chẩn đoán nhưng ứng dụng không cao vì đắt tiền và kỹ thuật cao.
 
-Xét nghiệm khuếch đại axit nucleic (Nucleic acid amplification tests - NAATs):
+Xét nghiệm khuếch đại acid nucleic (Nucleic acid amplification tests - NAATs):
 
 - Độ nhạy, độ đặc hiệu cao và có thể áp dụng với nhiều loại bệnh phẩm (dịch âm hộ, âm đạo, cổ tử cung, niệu đạo, nước tiểu).
 - Có thể áp dụng tại tuyến cơ sở. Phát hiện kháng nguyên, độ nhạy cao hơn so với nuôi cấy.
@@ -73,9 +73,9 @@ Nếu không đủ xét nghiệm có thể dựa vào lâm sàng hoặc dịch t
 
 ### Chẩn đoán phân biệt
 
-Viêm đường sinh dục - tiết niệu do N. gonorrhoeae, Trichomonas vaginalis, Mycoplasma genitalium...
+Viêm đường sinh dục - tiết niệu do N. Gonorrhea, Trichomoniasis vaginalis, Mycoplasma genitalium...
 
-VIêm cổ tử cung như lậu, Herpes simplex, Trichomonas vaginalis, lao, Mycoplasma, Ureaplasma Cytomegalovirus và liên cầu tan huyết beta nhóm B.
+VIêm cổ tử cung như lậu, Herpes simplex, Trichomoniasis vaginalis, lao, Mycoplasma, Ureaplasma Cytomegalovirus và liên cầu tan huyết beta nhóm B.
 
 Viêm hậu môn - trực tràng như lậu, Herpes simplex, giang mai...
 
@@ -102,11 +102,11 @@ a. Nhiễm Chlamydia sinh dục - tiết niệu không biến chứng
 Lựa chọn 1 trong các phác đồ ưu tiên sau:
 
 - Azithromycin 1g, uống liều duy nhất, hoặc
-- Doxycyclin 100mg, uống 2 lần/ngày x 7 ngày.
+- Doxycycline 100mg, uống 2 lần/ngày x 7 ngày.
 
 Phác đồ thay thế:
 
-- Tetracyclin 500mg, uống 4 lần/ngày x 7 ngày, hoặc
+- Tetracycline 500mg, uống 4 lần/ngày x 7 ngày, hoặc
 - Erythromycin 500mg, uống 4 lần/ngày x 7 ngày, hoặc
 - Ofloxacin 200-400mg, uống 2 lần/ngày x 7 ngày.
 
@@ -114,20 +114,20 @@ b. Nhiễm Chlamydia hậu môn - trực tràng
 
 Lựa chọn phác đồ ưu tiên theo thứ tự sau:
 
-- Doxycyclin 100mg, uống 2 lần/ngày x 7 ngày, hoặc
+- Doxycycline 100mg, uống 2 lần/ngày x 7 ngày, hoặc
 - Azithromycin 1g, uống liều duy nhất.
 
 c. Bệnh hột xoài (LGV)
 
 Lựa chọn phác đồ ưu tiên theo thứ tự sau:
 
-- Doxycyclin 100mg, uống 2 lần/ngày x 21 ngày, hoặc
+- Doxycycline 100mg, uống 2 lần/ngày x 21 ngày, hoặc
 - Azithromycin 1g, uống 1 lần/tuần trong 3 tuần.
 
 Khi cả 2 loại trên đều không thể sử dụng có thể thay bằng Erythromycin 500mg, uống 4 lần/ngày x 7 ngày.
 
 :::caution[Lưu ý]
-Doxycyclin, Tetracyclin, Ofloxacin không dùng cho phụ nữ có thai.
+Doxycyclin, Tetracycline, Ofloxacin không dùng cho phụ nữ có thai.
 
 Metronidazole không dùng trong 3 tháng đầu thai kỳ.
 :::

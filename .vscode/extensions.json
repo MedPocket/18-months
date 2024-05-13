@@ -3,6 +3,8 @@
     "astro-build.astro-vscode",
     "bradlc.vscode-tailwindcss",
     "esbenp.prettier-vscode",
+    "streetsidesoftware.code-spell-checker-vietnamese",
+    "streetsidesoftware.code-spell-checker",
     "unifiedjs.vscode-mdx"
   ]
 }

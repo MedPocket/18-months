@@ -4,11 +4,11 @@ description: Viêm âm đạo do Trichomonas.
 lastUpdated: 2024-04-09
 ---
 
-Bệnh lây truyền qua đường tình dục do trùng roi Trichomonas vaginalis.
+Bệnh lây truyền qua đường tình dục do trùng roi Trichomoniasis vaginalis.
 
 ## Nguyên nhân
 
-Trùng roi Trichomonas vaginalis.
+Trùng roi Trichomoniasis vaginalis.
 
 ## Chẩn đoán
 
@@ -24,7 +24,7 @@ Cận lâm sàng soi tươi trùng roi di động và nhiều bạch cầu.
 
 ## Điều trị
 
-Metronidazole/Secbudazike/Tinidazole 2g uống 1 liều duy nhất, hoặc
+Metronidazole/Secnidazole/Tinidazole 2g uống 1 liều duy nhất, hoặc
 
 Metronidazole 500mg x 2 lần/ngày x 7 ngày (uống trong bữa ăn)
 

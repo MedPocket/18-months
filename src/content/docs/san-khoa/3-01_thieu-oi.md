@@ -12,7 +12,7 @@ Thiểu ối được định nghĩa là tình trạng dịch ối ít hơn so v
 
 Bệnh lý nội khoa ảnh hưởng tuần hoàn như động kinh, tăng huyết áp mạn, bệnh lý collagen, bệnh lý thận, rối loạn đông máu,...
 
-Thuốc như ức chế men chuyển, ức chế tổng hợp Prostagladin, Trastuzumad,...
+Thuốc như ức chế men chuyển, ức chế tổng hợp Prostaglandin, Trastuzumab,...
 
 ### Từ phía thai
 
@@ -87,7 +87,7 @@ Chỉ định chấm dứt thai kỳ:
   - &lt; 34 tuần: Điều trị mong đợi.
 - 1 &lt; SDP &le; 2 cm: Thai 37 tuần sinh thường hoặc mổ lấy thai.
 
-Liệu pháp Cortisteroids:
+Liệu pháp Corticosteroids:
 
 - Thường quy từ 28 tuần đến 33 tuần 6 ngày.
 - Cân nhắc trường hợp từ 24 tuần đến 27 tuần 6 ngày.

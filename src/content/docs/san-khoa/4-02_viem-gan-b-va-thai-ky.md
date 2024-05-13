@@ -11,7 +11,7 @@ Tầm soát trong thai kỳ tình trạng nhiễm HBV được khuyến cáo th�
 Markers của virus viêm gan B:
 
 - HbsAg: Kháng nguyên bề mặt, xuất hiện sớm trong huyết thanh sau khi nhiễm HBV. HbsAg (+) khẳng định chắc chắn bệnh nhân nhiễm HBV.
-- Anti HBs: Kháng nguyên trung hòa. Anti HBs (+) ở BN đang điều trị chứng tỏ bệnh nhân đang phục hồi, loại trừ được HBV. Anti HBs (+) đơn độc gặp ở người đã tiêm vacxin viêm gan B.
+- Anti HBs: Kháng nguyên trung hòa. Anti HBs (+) ở BN đang điều trị chứng tỏ bệnh nhân đang phục hồi, loại trừ được HBV. Anti HBs (+) đơn độc gặp ở người đã tiêm vaccine viêm gan B.
 - HBcAg: Kháng nguyên lõi chỉ có mặt trong tế bào gan, không có trong huyết tương.
 - Anti HBcAg: Kháng nguyên hình thành đầu tiên sau nhiễm HBV. Anti HBcAg IgM xuất hiện trong viêm gan cấp, đợt cấp của viêm gan mạn, Anti HBcAg IgG gặp trong viêm gan mạn.
 - HBeAg: Xác nhận virus đang sao chép trong cơ thể và bệnh có nguy cơ lây nhiễm cao.
@@ -71,9 +71,9 @@ Kiểm soát tải lượng virus cho phép hạn chế tối đa lây truyền 
 Mẹ có viêm gan B. Dù trẻ có được nuôi bằng sữa mẹ hay không thì vẫn phải thực hiện 2 biện pháp để bảo vệ cho trẻ:
 
 1. Tiêm globulin sớm trong những giờ đầu sau sinh.
-2. Tiêm vaccin dự phòng viêm gan cho trẻ.
+2. Tiêm vaccine dự phòng viêm gan cho trẻ.
 
-Nên tiêm huyết thanh viêm gan B cho con từ 11 - 12 giờ đầu sau sinh, cần tiêm phòng trước 24 giờ để đảm bảo tỷ lệ lây nhiễm thấp nhất phối hợp tiêm vaccin mũi đầu tiên. Nên tiêm cùng thời điểm nhưng ở 2 vị trí khác nhau. Sau đó, tiếp tục tiêm 3 mũi vacxin viêm gan B theo đúng chương trình tiêm chủng mở rộng tháng thứ 2, 3 và 4. Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng tuổi để đánh giá tình trạng nhiễm HBV.
+Nên tiêm huyết thanh viêm gan B cho con từ 11 - 12 giờ đầu sau sinh, cần tiêm phòng trước 24 giờ để đảm bảo tỷ lệ lây nhiễm thấp nhất phối hợp tiêm vaccine mũi đầu tiên. Nên tiêm cùng thời điểm nhưng ở 2 vị trí khác nhau. Sau đó, tiếp tục tiêm 3 mũi vaccine viêm gan B theo đúng chương trình tiêm chủng mở rộng tháng thứ 2, 3 và 4. Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng tuổi để đánh giá tình trạng nhiễm HBV.
 
 ## Nguồn tham khảo
 

@@ -194,7 +194,7 @@ Có 3 nhóm dược chất lớn có thể được dùng cho mục đích khố
 
 - Thai suy dinh dưỡng trong buồng tử cung.
 - Đái tháo đường phụ thuộc Insulin (có thể dùng Antosiban).
-- Đa thai (tăng thể tích huyết tương, cường Aldosteron) nguy cơ tác dụng nặng lên tim mạch, phù phổi cấp không nên dùng Nifedipine, có thể dùng Antosiban.
+- Đa thai (tăng thể tích huyết tương, cường Aldosterone) nguy cơ tác dụng nặng lên tim mạch, phù phổi cấp không nên dùng Nifedipine, có thể dùng Antosiban.
 - Ối vỡ non ở thai non tháng.
 
 #### Thuốc, liều dùng
@@ -207,7 +207,7 @@ Có 3 nhóm dược chất lớn có thể được dùng cho mục đích khố
 
 ### Corticosteroid liệu pháp dự phòng
 
-_Liệu pháp Corticoidsteroid nhằm mục đích dự phòng hội chứng suy hô hấp cấp ở sơ sinh._
+_Liệu pháp Corticosteroid nhằm mục đích dự phòng hội chứng suy hô hấp cấp ở sơ sinh._
 
 _Nếu thực hiện liệu pháp Corticosteroid cho chuyển dạ sinh non xảy ra ở 1 thai có khả năng nuôi sống được (ở Việt Nam, dù rằng 1 vài cơ sở định mốc sống là 24 tuần, nhưng mốc nuôi sống phổ biến vẫn là khoảng 28 tuần) và có tuổi thai dưới 34 tuần vô kinh. Không cần thiết sau 34 tuần_.
 

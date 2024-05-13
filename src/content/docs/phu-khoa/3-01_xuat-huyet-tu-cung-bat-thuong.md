@@ -68,7 +68,7 @@ Cận lâm sàng:
 
 - beta-hCG để loại trừ có thai.
 - Tổng phân tích tế bào máu.
-- Nội tiết: tùy theo dấu hiệu và thăm khám gồm chức năng tuyến giáp (FT3, FT4, TSH), prolaction, testosterone, FSH hay LH, estrogen.
+- Nội tiết: tùy theo dấu hiệu và thăm khám gồm chức năng tuyến giáp (FT3, FT4, TSH), prolactin, testosterone, FSH hay LH, estrogen.
 - Đông máu khuyến cáo cho các trường hợp AUB nặng tuổi dậy thì, bản thân và gia đình có tiền sử bất thường.
 - Tầm soát ung thư cổ tử cung.
 - Sinh thiết nội mạc tử cung.
