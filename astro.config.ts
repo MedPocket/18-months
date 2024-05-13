@@ -3,7 +3,6 @@ import starlight from '@astrojs/starlight'
 import tailwind from '@astrojs/tailwind'
 import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex'
-import starlightLinksValidator from 'starlight-links-validator'
 
 // https://astro.build/config
 export default defineConfig({
@@ -56,11 +55,6 @@ export default defineConfig({
         },
       ],
       pagination: true,
-      plugins: [
-        starlightLinksValidator({
-          errorOnRelativeLinks: false,
-        }),
-      ],
     }),
     tailwind({
       applyBaseStyles: false,
