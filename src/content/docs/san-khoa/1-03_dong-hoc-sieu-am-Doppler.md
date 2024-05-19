@@ -44,11 +44,11 @@ Trong thai kỳ bình thường, lưu thông máu qua động mạch rốn thai 
 Không nên tầm soát thường qui bằng Doppler động mạch rốn ở những thai kỳ khỏe mạnh, phát triển bình thường. Do chưa chứng minh được lợi ích và ngược lại gây nhiễm cho đối tượng được tầm soát.
 
 Các bệnh lý như tăng huyết áp thai kỳ, thai chậm tăng trưởng trong tử cung sẽ gây nên sự suy thoái chức năng
-tuần hoàn nhau thai do hậu quả của kết tập tiểu cầu, lắng đọng fibrin hay xơ hóa bánh nhau. Bệnh lý trên của các đơn vị mạch máu trong bánh nhau sẽ được biểu hiện bằng sự tăng trở kháng dòng chảy của tuần hoàn rốn. Các chỉ số đo được trên phổ Doppler sẽ bất thường như tăng tỷ lệ vận tốc giữa tâm thu và tâm trương (S/D), chỉ số kháng (RI) hoặc chỉ số đập (PI) cao hơn bách phân vị 95th.
+tuần hoàn rau thai do hậu quả của kết tập tiểu cầu, lắng đọng fibrin hay xơ hóa bánh nhau. Bệnh lý trên của các đơn vị mạch máu trong bánh nhau sẽ được biểu hiện bằng sự tăng trở kháng dòng chảy của tuần hoàn rốn. Các chỉ số đo được trên phổ Doppler sẽ bất thường như tăng tỷ lệ vận tốc giữa tâm thu và tâm trương (S/D), chỉ số kháng (RI) hoặc chỉ số đập (PI) cao hơn bách phân vị 95th.
 
 ![PI trung bình của động mạch tử rốn](../../../assets/san-khoa/dong-hoc-sieu-am-doppler/pi-trung-binh-cua-dong-mach-ron.png)
 
-Nên sử dụng khảo sát dòng chảy động mạch rốn bằng Doppler để đánh giá chức năng tuần hoàn nhau thai ở những thai kỳ nghi ngờ có sự suy yếu chức năng bánh nhau (tăng huyết áp, thai chậm tăng trưởng trong buồng tử cung).
+Nên sử dụng khảo sát dòng chảy động mạch rốn bằng Doppler để đánh giá chức năng tuần hoàn rau thai ở những thai kỳ nghi ngờ có sự suy yếu chức năng bánh nhau (tăng huyết áp, thai chậm tăng trưởng trong buồng tử cung).
 
 Trở kháng động mạch rốn tăng cao, cuối cùng dẫn đến tình trạng rất nặng là hiện tượng mất dòng chảy cuối tâm trương hoặc đảo ngược dòng chảy cuối tâm trương. Khi xuất hiện sự giảm, mất hoặc đảo ngược dòng chảy cuối tâm trương trên Doppler động mạch rốn cần xem xét cụ thể các yếu tố còn lại trên lâm sàng để quyết định chấm dứt thai kỳ hay tiếp tục theo dõi đánh giá thai kỳ 1 cách chặt chẽ.
 

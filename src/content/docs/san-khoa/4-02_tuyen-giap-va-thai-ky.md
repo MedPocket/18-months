@@ -22,7 +22,7 @@ Iod tự do có thể đi qua bánh rau nhưng TSH thì không. Đặc điểm n
 
 ### Cường giáp trong thai kỳ
 
-Cường giáp thường đi kèm với tăng nguy cơ sanh non, IUGR, tiền sản giật, thai lưu và tăng bệnh suất và tử suất sơ sinh.
+Cường giáp thường đi kèm với tăng nguy cơ sinh non, IUGR, tiền sản giật, thai lưu và tăng bệnh suất và tử suất sơ sinh.
 
 Bệnh Graves là 1 bệnh lý tự miễn do có kháng thể kích thích tuyến giáp và là nguyên nhân thường gặp nhất của cường giáp. 1 số nguyên nhân khác trong thai kỳ như thai trứng và nhân giáp độc. Bệnh nhân bị Graves có khuynh hướng giảm trong thai kỳ và trầm trọng hơn trong thời kỳ hậu sản.
 
@@ -75,7 +75,7 @@ Do kháng thể kích thích tuyến giáp có thể truyền qua rau, thoáng q
 
 Nguyên nhân thường gặp nhất của nhược giáp ở phụ nữ trong độ tuổi sinh đẻ là viêm giáp Hashimoto, phẫu thuật cắt bỏ tuyến giáp và xạ trị do ung thư tuyến giáp, ngoài ra còn có 1 số bệnh lý khác như đái tháo đường type 1,...
 
-Phụ nữ mang thai bị nhược giáp nếu được điều trị thay thế thích hợp có thể có 1 kết cục thai kỳ bình thường. Tuy nhiên, nếu tình trạng nhược giáp của thai phụ không được điều trị sẽ làm tăng nguy cơ sẩy thai, tiền sản giật, thai lưu, cân nặng lúc sanh thấp, giảm chỉ số thông minh của trẻ.
+Phụ nữ mang thai bị nhược giáp nếu được điều trị thay thế thích hợp có thể có 1 kết cục thai kỳ bình thường. Tuy nhiên, nếu tình trạng nhược giáp của thai phụ không được điều trị sẽ làm tăng nguy cơ sẩy thai, tiền sản giật, thai lưu, cân nặng lúc sinh thấp, giảm chỉ số thông minh của trẻ.
 
 ### Chẩn đoán và điều trị suy giáp
 

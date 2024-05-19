@@ -95,11 +95,11 @@ Khi rặn, thai phụ nên tập rặn đúng cách thì mới có hiệu quả 
 
 ### Cách rặn
 
-Khi cảm nhận được cơn co tử cung (bụng gò cứng dần và xuất hiện cơn đau): thai phụ nên hít vào 1 hơi thở thất sâu. Sau đó nín thở, miệng ngậm chặt, 2 tay nắm chặt vào 2 thành của bàn sinh, 2 chân đạp mạnh vào 2 ống treo cổ chân của bàn sanh, dồn hơi rặn mạnh để đẩy hơi xuống vùng bụng dưới giúp tống xuất thai nhi ra ngoài. Khi cảm thấy sắp hết hơi nhưng vẫn còn đau có thể hít vào 1 hơi khác và rặn tiếp tục cho đến khi hết cảm thấy đau bụng nữa. Chú ý là trong khi rặn, thai phụ phải giữ sao cho lưng thẳng, áp sát vào bề mặt bàn sanh và phần mông phải cong lên phía trước. Đặt biệt là phải giữ để khi rặn thì miệng không được phát ra bất cứ âm thanh nào.
+Khi cảm nhận được cơn co tử cung (bụng gò cứng dần và xuất hiện cơn đau): thai phụ nên hít vào 1 hơi thở thất sâu. Sau đó nín thở, miệng ngậm chặt, 2 tay nắm chặt vào 2 thành của bàn sinh, 2 chân đạp mạnh vào 2 ống treo cổ chân của bàn sinh, dồn hơi rặn mạnh để đẩy hơi xuống vùng bụng dưới giúp tống xuất thai nhi ra ngoài. Khi cảm thấy sắp hết hơi nhưng vẫn còn đau có thể hít vào 1 hơi khác và rặn tiếp tục cho đến khi hết cảm thấy đau bụng nữa. Chú ý là trong khi rặn, thai phụ phải giữ sao cho lưng thẳng, áp sát vào bề mặt bàn sinh và phần mông phải cong lên phía trước. Đặt biệt là phải giữ để khi rặn thì miệng không được phát ra bất cứ âm thanh nào.
 
 Giữa 2 cơn co tử cung, hết đau thì thở sâu điều hòa, dưỡng sức để tập trung vào đợt rặn kế tiếp.
 
 ## Nguồn tham khảo
 
 - TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
-- [Cách thở và rặn sanh trong cuộc chuyển dạ](https://tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/cach-tho-va-ran-sanh-trong-cuoc-chuyen-da/) - Bệnh viện Từ Dũ.
+- [Cách thở và rặn sinh trong cuộc chuyển dạ](https://tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/cach-tho-va-ran-sinh-trong-cuoc-chuyen-da/) - Bệnh viện Từ Dũ.

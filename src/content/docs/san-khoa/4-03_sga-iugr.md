@@ -13,14 +13,14 @@ Thai nhỏ so với tuổi thai (Small-for-Gestational Age - SGA) và thai với
 Các thai nhi với kích cỡ nhỏ hơn bình thường được phân ra các nhóm khác nhau:
 
 1. Thai nhỏ nhưng là 1 thai bình thường (constitutionally).
-2. Thai với tăng trưởng trong tử cung bị giới hạn không do nguyên nhân nhau thai như bất thường nhiễm sắc thể, bất thường chuyển hóa hay nhiễm trùng bào thai.
+2. Thai với tăng trưởng trong tử cung bị giới hạn không do nguyên nhân rau thai như bất thường nhiễm sắc thể, bất thường chuyển hóa hay nhiễm trùng bào thai.
 3. Thai với tăng trưởng trong tử cung bị giới hạn do nguyên nhân trao đổi qua nhau bất thường.
 
 ### Yếu tố ảnh hưởng tăng trưởng của thai
 
 Vận chuyển qua nhau của các dưỡng chất như trọng lượng trước khi có thai thấp, mẹ dinh dưỡng kém, nghiện thuốc hay thiếu máu nặng.
 
-1 số tình trạng bệnh lý có thể ảnh hưởng đến sự hình thành và phát triển của nhau thai và hệ thống giường mạch máu của nhau thai như tiền sản giật, các bệnh tự miễn kiểu hội chứng kháng phospholipid, bệnh ưa chảy máu, bệnh lý thận, tiểu đường hay cao huyết áp mạn tính.
+1 số tình trạng bệnh lý có thể ảnh hưởng đến sự hình thành và phát triển của rau thai và hệ thống giường mạch máu của rau thai như tiền sản giật, các bệnh tự miễn kiểu hội chứng kháng phospholipid, bệnh ưa chảy máu, bệnh lý thận, tiểu đường hay cao huyết áp mạn tính.
 
 ### Thuật ngữ liên quan
 

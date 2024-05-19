@@ -8,11 +8,11 @@ Một cách tổng quát, thiếu máu trong thai kỳ ảnh hưởng đến c�
 
 ## Thay đổi huyết học, tuần hoàn trong thai kỳ
 
-Thể tích huyết thanh tăng từ tuần thứ 6 trong thai kì và ổn định ở tuần 28-30. Tổng lượng huyết thanh tăng khoảng 1250 ml đến cuối thai kì. Lượng huyết thanh tăng trong thai kỳ liên quan đến cân nặng của thai và số thai hơn là cân nặng của sản phụ trước sanh.
+Thể tích huyết thanh tăng từ tuần thứ 6 trong thai kì và ổn định ở tuần 28-30. Tổng lượng huyết thanh tăng khoảng 1250 ml đến cuối thai kì. Lượng huyết thanh tăng trong thai kỳ liên quan đến cân nặng của thai và số thai hơn là cân nặng của sản phụ trước sinh.
 
 ![Thay đổi thể tích huyết thanh và hồng cầu trong thai kỳ](../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thay-doi-the-tich-huyet-thanh-va-huyet-cau-trong-thai-ky.png)
 
-Với thai phụ, thiếu máu làm tăng tỷ lệ tử vong khi sanh, tăng nguy cơ băng huyết sau sanh, nhiễm trùng hậu sản...
+Với thai phụ, thiếu máu làm tăng tỷ lệ tử vong khi sinh, tăng nguy cơ băng huyết sau sinh, nhiễm trùng hậu sản...
 
 Với thai nhi, thiếu máu làm tăng nguy cơ sẩy thai, thai chậm tăng trưởng trong tử cung, tăng tỷ lệ chết chu sinh. Riêng Thalassemia ở thai nhi có thể ảnh hưởng đến thai nhi ở các mức độ khác nhau, từ không đe dọa đến đe dọa nặng nề hay gây tử vong cho thai nhi/sơ sinh.
 
@@ -53,7 +53,7 @@ Thiếu máu thiếu sắt nhẹ-trung bình cần được điều trị với 
 
 Thiếu máu do thiếu acid folic cần được điều trị với 2-5mg acid folic/ngày, uống.
 
-Thiếu máu thiếu sắt nặng cần được truyền máu và bổ sung sắt bằng đường truyền tĩnh mạch hoặc tiêm tĩnh mạch chậm dung dịch Iron Dextran Injection (50 mL). Sau 1 tuần cần xét nghiệm huyết đồ, nếu Hb tăng 0.8 g/dL và HCt tăng 1% mỗi ngày sau 1 tuần là điều trị có đáp ứng. Vẫn tiếp tục điều trị duy trì cùng liều này cho đến lúc sanh, sau sanh và cho con bú.
+Thiếu máu thiếu sắt nặng cần được truyền máu và bổ sung sắt bằng đường truyền tĩnh mạch hoặc tiêm tĩnh mạch chậm dung dịch Iron Dextran Injection (50 mL). Sau 1 tuần cần xét nghiệm huyết đồ, nếu Hb tăng 0.8 g/dL và HCt tăng 1% mỗi ngày sau 1 tuần là điều trị có đáp ứng. Vẫn tiếp tục điều trị duy trì cùng liều này cho đến lúc sinh, sau sinh và cho con bú.
 
 ### Dự phòng
 
@@ -96,7 +96,7 @@ Gồm 4 thể tùy thuộc vào số gene bị mất.
 Hội chứng thai nước (Hb Bart’s) do mất hết cùng lúc cả 4 gene α-globulin:
 
 - Không có chuỗi α, cả 4 chuỗi Hb đều là chuỗi γ. Chuỗi γ có ái lực cực mạnh với oxy, và do đó hầu như không phóng thích oxy cho mô thai. Thai nhi bị phù, tràn dịch đa màng.
-- Thường tử vong từ tuần 30 cho đến ngay sau sanh với đặc điểm lâm sàng gồm thiếu máu nặng, gan lách to, phù toàn thân, suy tim kèm các dị tật bẩm sinh khác.
+- Thường tử vong từ tuần 30 cho đến ngay sau sinh với đặc điểm lâm sàng gồm thiếu máu nặng, gan lách to, phù toàn thân, suy tim kèm các dị tật bẩm sinh khác.
 
 ![Thai phù trong hội chứng Bart](../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thai-phu-trong-hoi-chung-Bart.png)
 
@@ -109,7 +109,7 @@ Người mang gien bệnh mất 1 gene α-globin, hoàn toàn không có triệu
 
 ### Trẻ và mẹ với Thalassemia
 
-Với trẻ: Trẻ với Thalassemia nặng có thể không sống sót sau sanh. Do thai có thể không thích ứng với cuộc sống ngoài tử cung trong trường hợp nặng, nên nếu tầm soát Thalassemia phát hiện ra các thể rất nặng như Hb Bart’s, có thể cân nhắc thảo luận chấm dứt thai kỳ.
+Với trẻ: Trẻ với Thalassemia nặng có thể không sống sót sau sinh. Do thai có thể không thích ứng với cuộc sống ngoài tử cung trong trường hợp nặng, nên nếu tầm soát Thalassemia phát hiện ra các thể rất nặng như Hb Bart’s, có thể cân nhắc thảo luận chấm dứt thai kỳ.
 
 Với mẹ:
 
@@ -161,11 +161,11 @@ Nhu cầu acid folic tăng do xương tăng hoạt động. Cho acid folic hàng
 
 Chống chỉ định uống sắt trong thai kì. Nếu chức năng tim xấu hơn trong thai kì nên sử dụng DFO, nguy cơ dị tật thai khi sử dụng DFO còn đang nghi ngờ.
 
-Trong chuyển dạ, nếu thai kì không có biến chứng có thể theo dõi sanh thường. Khuyến cáo sử dụng gây tê ngoài màng cứng để mổ sanh và hạn chế gây mê nội khí quản do bất thường phát triển hàm mặt. Sản phụ nên cho con bú trừ trường hợp bị các bệnh lí lây truyền mẹ con.
+Trong chuyển dạ, nếu thai kì không có biến chứng có thể theo dõi sinh thường. Khuyến cáo sử dụng gây tê ngoài màng cứng để mổ sinh và hạn chế gây mê nội khí quản do bất thường phát triển hàm mặt. Sản phụ nên cho con bú trừ trường hợp bị các bệnh lí lây truyền mẹ con.
 
 Các phương pháp tránh thai: Không sử dụng ngừa thai bằng dụng cụ tử cung vì tăng nguy cơ nhiễm trùng, không sử dụng thuốc ngừa thai phối hợp vì tăng nguy cơ thuyên tắc mạch, trong hầu hết trường hợp nên ngừa thai bằng các phương pháp tránh thai chỉ chứa progesterone hoặc bao cao su.
 
-Ngày nay, mong muốn tránh không mang thai và sanh ra những thai nhi có khả năng bị Thalassemia năng là khả thi. Phôi thu được từ thụ tinh trong ống nghiệm sẽ được nuôi đến giai đoạn phôi nang. Thực hiện sinh thiết phôi nang, khảo sát với các probes của Thalassemia theo phương pháp chẩn đoán di truyền trước khi làm tổ PGD, rồi mới được chuyển vào lòng tử cung. Tế bào máu cuống rốn của trẻ sơ sinh sẽ được giữ lưu trữ lại và nuôi cấy để cấy ghép cho các bệnh nhân.
+Ngày nay, mong muốn tránh không mang thai và sinh ra những thai nhi có khả năng bị Thalassemia năng là khả thi. Phôi thu được từ thụ tinh trong ống nghiệm sẽ được nuôi đến giai đoạn phôi nang. Thực hiện sinh thiết phôi nang, khảo sát với các probes của Thalassemia theo phương pháp chẩn đoán di truyền trước khi làm tổ PGD, rồi mới được chuyển vào lòng tử cung. Tế bào máu cuống rốn của trẻ sơ sinh sẽ được giữ lưu trữ lại và nuôi cấy để cấy ghép cho các bệnh nhân.
 
 ## Nguồn tham khảo
 
