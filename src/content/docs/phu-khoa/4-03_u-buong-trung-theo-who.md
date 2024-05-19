@@ -6,9 +6,9 @@ lastUpdated: 2024-05-24
 
 Phân loại các khối u buồng trứng của Tổ chức Y tế Thế giới (2014) được dựa trên cơ sở mô và phôi học của các tân sinh gồm:
 
-- Các cấu trúc cơ năng của buồng trứng.
-- Các cấu trúc không tân lập tại phần phụ.
-- Các cấu trúc tân lập tại phần phụ.
+1. Các cấu trúc cơ năng của buồng trứng.
+2. Các cấu trúc không tân lập tại phần phụ.
+3. Các cấu trúc tân lập tại phần phụ.
 
 ## Các cấu trúc cơ năng của buồng trứng
 
