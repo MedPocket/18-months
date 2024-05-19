@@ -46,13 +46,6 @@ export default defineConfig({
             directory: 'phu-khoa',
           },
         },
-        {
-          label: 'Liên Quan',
-          collapsed: true,
-          autogenerate: {
-            directory: 'lien-quan',
-          },
-        },
       ],
       pagination: true,
     }),
