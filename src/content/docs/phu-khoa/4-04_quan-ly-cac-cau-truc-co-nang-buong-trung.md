@@ -86,7 +86,7 @@ Bệnh cảnh thường thấy nhất là nang hoàng tuyến trong thai trứng
 ![Nang hoàng tuyến](../../../assets/phu-khoa/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-hoang-tuyen.png)
 _Khối u đặc tạo bởi các thành phần tế bào vỏ-hạt bị kích thích mạnh bởi hCG. Sẽ tự thoái triển khi nguồn cấp hCG bị cắt đứt._
 
-Do tất cả các cấu trúc noãn nang đều bị kích thích nên nang hoàng tuyến thường gặp cùng lúc ở cả 2 buồng trứng. Các cấu trúc noãn nang phì đại, tạo ra một cấu trúc dạng hỗn hợp, rất to. Nang hoàng tuyến sẽ tự thoái triển khi kích thích bằng hCG kết thúc.
+Do tất cả các cấu trúc noãn nang đều bị kích thích nên nang hoàng tuyến thường gặp cùng lúc ở cả 2 buồng trứng. Các cấu trúc noãn nang phì đại, tạo ra 1 cấu trúc dạng hỗn hợp, rất to. Nang hoàng tuyến sẽ tự thoái triển khi kích thích bằng hCG kết thúc.
 
 ## Nguồn tham khảo
 
