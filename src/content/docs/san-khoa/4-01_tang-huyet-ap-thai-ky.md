@@ -45,7 +45,7 @@ Nguồn gốc xuất hiện tiền sản giật bắt đầu từ bánh nhau nh�
 
 ## Phân loại tăng huyết áp thai kỳ
 
-:::caution[Tăng huyết áp trong thai kỳ phân thành 4 loại:]
+:::note[Tăng huyết áp trong thai kỳ phân thành 4 loại:]
 
 1. Hội chứng tiền sản giật-sản giật = Tăng huyết áp + Đạm niệu + Từ tuần thứ 20 của thai kỳ.
 2. Tăng huyết áp thai kỳ = Tăng huyết áp + Không đạm niệu + Từ tuần thứ 20 của thai kỳ và huyết áp trở về bình thường sau sinh.
@@ -64,7 +64,7 @@ Nguồn gốc xuất hiện tiền sản giật bắt đầu từ bánh nhau nh�
 
 Tiền sản giật được phân loại thành tiền sản giật không có dấu hiệu nặng và tiền sản giật có dấu hiệu nặng.
 
-:::caution[Dấu hiệu nặng của tiền sản giật (bất kỳ dấu hiệu nào):]
+:::note[Dấu hiệu nặng của tiền sản giật (bất kỳ dấu hiệu nào):]
 
 1. Huyết áp tâm thu &ge; 160 mmHg hoặc huyết áp tâm trương &ge; 110 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
 2. Giảm tiểu cầu: tiểu cầu <100,000/µL.
@@ -452,7 +452,7 @@ Chống chỉ định: Viêm gan cấp tính, mạn tính hoặc xơ gan, tiền
 
 #### Thuốc tác dụng trực tiếp trên cơ trơn thành mạch: Hydralazine
 
-Hydralazin thường là thuốc chống tăng huyết áp được lựa chọn đầu tay do đánh trực tiếp vào cơ chế bệnh sinh.
+Hydralazine thường là thuốc chống tăng huyết áp được lựa chọn đầu tay do đánh trực tiếp vào cơ chế bệnh sinh.
 
 Cơ chế thuốc gây giãn mạch trực tiếp, tác động trên các tiểu động mạch ngoại vi, là xuất phát điểm của bệnh sinh của tiền sản giật. Tác dụng của Hydralazine nhanh và ngắn, huyết áp sẽ hạ sau 10-30 phút và kéo dài trong 2-4 giờ. Tác dụng ngoại ý khác là nhịp tim nhanh, đánh trống ngực, đau thắt ngực, bồn chồn, khó ngủ, tiêu chảy, táo bón, buồn nôn, nhức đầu, rối loạn tạo máu, nổi mẫn, ớn lạnh, v.v. Kết hợp Hydralazine và Labetalol là 1 kết hợp có thể khắc phục được các nhược điểm của Hydralazine.
 
