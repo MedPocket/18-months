@@ -35,7 +35,7 @@ Cử động thai không liên quan đến bữa ăn. Hút thuốc lá làm gi�
 
 ## Cách đếm cử động thai
 
-Có nhiều cách đếm cử động thai. _Phương pháp Cardiff được báo cáo đầu tiên bởi Pearson đề nghị nên đếm tới 10 cử động trong một thời gian nhất định. Những nghiên cứu ban đầu đòi hỏi đếm cử động thai trong 12 giờ, sau đó được thay đổi còn trong 6 giờ theo Liston hay 2 giờ theo Moore. Phương pháp Sadovsky đề nghị đếm cử động thai trong một khoảng thời gian nhất định thường từ 30 phút đến 2 giờ._
+Có nhiều cách đếm cử động thai. _Phương pháp Cardiff được báo cáo đầu tiên bởi Pearson đề nghị nên đếm tới 10 cử động trong 1 thời gian nhất định. Những nghiên cứu ban đầu đòi hỏi đếm cử động thai trong 12 giờ, sau đó được thay đổi còn trong 6 giờ theo Liston hay 2 giờ theo Moore. Phương pháp Sadovsky đề nghị đếm cử động thai trong 1 khoảng thời gian nhất định thường từ 30 phút đến 2 giờ._
 
 Hiệp hội các nhà Sản Phụ khoa Canada (SOGC) khuyến cáo thai phụ nên được hướng dẫn đếm cho tới 6 cử động thai riêng biệt. Nếu điều này không đạt được trong vòng 2 giờ thì cần thực hiện thêm những phương pháp lượng giá sức khỏe thai khác. Cần lưu ý là ta nên thông tin cho thai phụ biết ở những trường hợp dương tính (< 6 cử động trong 2 giờ) có tỷ lệ dương giả khá cao, và kết cục thai kỳ sau đó thường là tốt.
 
@@ -43,7 +43,7 @@ Hiệp hội các nhà Sản Phụ khoa Canada (SOGC) khuyến cáo thai phụ n
 
 NST và siêu âm là 2 test đầu tay khi ghi nhận có giảm cử động thai.
 
-Test hỗ trợ phải được thực hiện càng sớm càng tốt (trong vòng 1-12 giờ sau giảm cử động thai) theo sau một bất thường của đếm cử động thai.
+Test hỗ trợ phải được thực hiện càng sớm càng tốt (trong vòng 1-12 giờ sau giảm cử động thai) theo sau 1 bất thường của đếm cử động thai.
 
 Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lượng nước ối, đánh giá sinh trắc thai...
 

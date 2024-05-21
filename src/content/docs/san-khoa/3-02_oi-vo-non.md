@@ -50,7 +50,7 @@ Test lá dương xỉ dựa trên đặc tính kết tinh tạo tinh thể hình
 
 Đánh giá lượng nước ối, ngôi thai, tăng trưởng thai.
 
-#### Một số xét nghiệm khác
+#### 1 số xét nghiệm khác
 
 Công thức máu và CRP đánh giá dấu hiệu nhiễm trùng.
 

@@ -32,8 +32,8 @@ Các thăm dò cần phải được tiến hành từ ngay thời điểm mà c
 
 ### Quản lý thai SGA và IUGR
 
-Trước tiên là loại trừ khả năng có các bất thường về di truyền (lệch bội, đột biến gien…) hay
-dị tật nghiêm trọng ở bào thai. Xác nhận thông qua 1 hay nhiều test tiền sản và tầm soát đã được thực hiện sớm trong đầu thai kỳ như test huyết thanh (double-test, triple test), khảo sát hình ảnh (NT, soft-markers), NIPT hay test xâm lấn chẩn đoán (CVS, chọc ối karyotype), các khảo sát huyết thanh nhiễm trùng bào thai như Rubella hay CMV…
+Trước tiên là loại trừ khả năng có các bất thường về di truyền (lệch bội, đột biến gien...) hay
+dị tật nghiêm trọng ở bào thai. Xác nhận thông qua 1 hay nhiều test tiền sản và tầm soát đã được thực hiện sớm trong đầu thai kỳ như test huyết thanh (double-test, triple test), khảo sát hình ảnh (NT, soft-markers), NIPT hay test xâm lấn chẩn đoán (CVS, chọc ối karyotype), các khảo sát huyết thanh nhiễm trùng bào thai như Rubella hay CMV...
 
 Chấm dứt thai kỳ, nếu đã loại trừ các yếu tố bất thường về dị tật hay di truyền cũng như nhiễm trùng bào thai, theo dõi SGA/FGR là cân bằng giữa lợi ích của việc kéo dài việc nuôi dưỡng thai phát triển trong tử cung cho đến khi sơ sinh có khả năng sống sót khi được đưa ra sống môi trường mới ngoài tử cung và nguy cơ của việc kéo dài cuộc sống trong tử cung với mối đe dọa thiếu hụt về trao đổi chất và khí máu dẫn đến toan hóa máu thai và tử vong của thai nhi trong tử cung.
 
@@ -81,7 +81,7 @@ IUGR xuất hiện muộn, trong nửa sau của thai kỳ thường liên quan 
 1. Mọi bệnh lý gây bất thường của trao đổi tử cung-nhau.
 2. Mọi bệnh lý gây thiếu oxygen trường diễn ở mẹ hoặc giảm khả năng vận chuyển oxygen đến thai.
 
-Các bệnh lý gây bất thường của trao đổi tử cung-nhau dẫn đến tình trạng thiếu oxygen trường diễn ở bào thai như tăng huyết áp, đái tháo đường có trước thai kỳ kèm theo tổn thương cơ quan đích, Lupus đỏ hệ thống, hội chứng kháng phospholipid…
+Các bệnh lý gây bất thường của trao đổi tử cung-nhau dẫn đến tình trạng thiếu oxygen trường diễn ở bào thai như tăng huyết áp, đái tháo đường có trước thai kỳ kèm theo tổn thương cơ quan đích, Lupus đỏ hệ thống, hội chứng kháng phospholipid...
 
 Các bệnh lý gây thiếu oxygen trường diễn ở mẹ hoặc giảm khả năng vận chuyển oxygen đến thai như thiếu máu nặng, bệnh lý hemoglobin (hồng cầu hình liềm), các bệnh có thể gây thiếu oxygen trường diễn ở mẹ như bệnh hô hấp tắc nghẽn mạn, hen phế quản trong thai kỳ, mẹ hút thuốc lá...
 
