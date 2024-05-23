@@ -7,10 +7,10 @@
 ## Getting Started
 
 ```sh
-git clone https://github.com/MedPocket/18-months --depth=1
+git clone https://github.com/MedPocket/18-months
 cd 18-months
 bun install
-bun run dev
+bun dev
 ```
 
 ## Want to learn more?

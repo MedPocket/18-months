@@ -11,21 +11,17 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.23.1",
-    "@astrojs/starlight-tailwind": "^2.0.2",
-    "@astrojs/tailwind": "^5.1.0",
     "astro": "^4.8.6",
     "astro-og-canvas": "^0.5.0",
     "katex": "^0.16.10",
     "lite-youtube-embed": "^0.3.2",
     "rehype-katex": "^7.0.0",
     "remark-math": "^6.0.0",
-    "sharp": "^0.33.4",
-    "tailwindcss": "^3.4.3"
+    "sharp": "^0.33.4"
   },
   "devDependencies": {
     "prettier": "^3.2.5",
     "prettier-plugin-astro": "^0.13.0",
-    "prettier-plugin-tailwindcss": "^0.5.14",
     "typescript": "^5.4.5"
   }
 }

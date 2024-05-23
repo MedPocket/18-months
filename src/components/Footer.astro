@@ -1,0 +1,21 @@
+---
+import Default from '@astrojs/starlight/components/Footer.astro'
+import type { Props } from '@astrojs/starlight/props'
+---
+
+<style>
+  p {
+    border-top: 1px solid var(--sl-color-gray-5);
+    margin-top: 5rem !important;
+    padding-top: 1rem;
+  }
+  a {
+    color: var(--sl-color-accent);
+  }
+</style>
+
+<Default {...Astro.props} />
+<p>
+  made with ❤️ by
+  <a href="https://github.com/MedPocket">MedPocket</a>
+</p>
