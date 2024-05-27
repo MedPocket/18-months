@@ -22,7 +22,7 @@ Trẻ sinh ra có nguy cơ viêm kết mạc, viêm mũi họng, viêm phổi.
 
 ### Lâm sàng
 
-a. Nhiễm Chlamydia không biến chứng
+#### Nhiễm Chlamydia không biến chứng
 
 70% không có biểu hiện triệu chứng lâm sàng.
 
@@ -33,7 +33,7 @@ Nhiễm ngoài sinh dục:
 - Trực tràng phần lớn không có biểu hiện lâm sàng, 1 số trường hợp có tiết dịch, đau và máu có trong phần.
 - Hầu họng hiếm có triệu chứng, viêm họng, đau họng nhẹ.
 
-b. Nhiễm Chlamydia có biến chứng
+#### Nhiễm Chlamydia có biến chứng
 
 Nữ giới có viêm tiểu khung, viêm vòi trứng, ống dẫn trứng, có thể vô sinh, thai ngoài tử cung.
 
@@ -41,7 +41,7 @@ Phụ nữ có thai sinh non và/hoặc trẻ thiếu cân.
 
 Trẻ sơ sinh viêm kết mạc (tiết dịch, sưng mí mắt), viêm họng, viêm phổi.
 
-c. Biểu hiện bệnh hột xoài (Lymphogranuloma venereum - LGV)
+#### Biểu hiện bệnh hột xoài (Lymphogranuloma venereum - LGV)
 
 Do các biến thể L1-3 xâm nhập sâu đến tổ chức dưới niêm mạc và hạch lân cận.
 
@@ -97,7 +97,7 @@ Còn triệu chứng sau hoàn thành phác đồ cần tái khám.
 
 ### Điều trị cụ thể
 
-a. Nhiễm Chlamydia sinh dục - tiết niệu không biến chứng
+#### Nhiễm Chlamydia sinh dục - tiết niệu không biến chứng
 
 Lựa chọn 1 trong các phác đồ ưu tiên sau:
 
@@ -110,14 +110,14 @@ Phác đồ thay thế:
 - Erythromycin 500mg, uống 4 lần/ngày x 7 ngày, hoặc
 - Ofloxacin 200-400mg, uống 2 lần/ngày x 7 ngày.
 
-b. Nhiễm Chlamydia hậu môn - trực tràng
+#### Nhiễm Chlamydia hậu môn - trực tràng
 
 Lựa chọn phác đồ ưu tiên theo thứ tự sau:
 
 - Doxycycline 100mg, uống 2 lần/ngày x 7 ngày, hoặc
 - Azithromycin 1g, uống liều duy nhất.
 
-c. Bệnh hột xoài (LGV)
+#### Bệnh hột xoài (LGV)
 
 Lựa chọn phác đồ ưu tiên theo thứ tự sau:
 

@@ -36,7 +36,7 @@ Khoảng 50% không có triệu chứng, chỉ phát hiện qua siêu âm.
 
 ### Cận lâm sàng
 
-a. Siêu âm ngả âm đạo kết hợp với Doppler
+#### Siêu âm ngả âm đạo kết hợp với Doppler
 
 Túi thai nằm giữa bàng quang và phần trước đoạn eo tử cung, lớp cơ tử cung giữa bàng quang và túi thai có hay rất mỏng (1-3mm).
 
@@ -56,9 +56,11 @@ Phân nhóm thai ở sẹo mổ cũ trong hình ảnh siêu âm 3 tháng đầu 
 
 ![Mối liên hệ thai và sẹo mổ lấy thai](../../../assets/phu-khoa/chua-vet-mo-lay-thai/moi-lien-he-giua-tui-thai-va-seo-mo-lay-thai.png)
 
-b. beta hCG dương tính.
+#### Xét nghiệm khác
 
-c. Siêu âm 3D và MRI trong trường hợp khó phân biệt.
+beta hCG dương tính.
+
+Siêu âm 3D và MRI trong trường hợp khó phân biệt.
 
 ### Chẩn đoán phân biệt
 
@@ -101,19 +103,19 @@ Không can thiệt ban đầu bằng nong và nạo vì nguy cơ xuất huyết 
 
 #### Điều trị MTX
 
-a. Chỉ định
+Chỉ định
 
-Các trường hợp thai < 14 tuần, huyết động ổn định và không chống chỉ định MTX.
+- Các trường hợp thai < 14 tuần, huyết động ổn định và không chống chỉ định MTX.
 
-Thai lưu &le; 8 tuần, beta hCG tăng: MTX 50mg, tiêm bắp.
+- Thai lưu &le; 8 tuần, beta hCG tăng: MTX 50mg, tiêm bắp.
 
-Thai chưa có tim thai: dưới hướng dẫn siêu âm ngả âm đạo hút trọn phôi thai, hút hết nước ối và tiêm MTX 25mg quanh túi thai và 25mg tiêm bắp (tổng 50mg/$m^2$ diện tích da).
+- Thai chưa có tim thai: dưới hướng dẫn siêu âm ngả âm đạo hút trọn phôi thai, hút hết nước ối và tiêm MTX 25mg quanh túi thai và 25mg tiêm bắp (tổng 50mg/$m^2$ diện tích da).
 
-Thai có hoạt động tim thai: hủy thai bằng hút trọn phôi thai (thai < 9 tuần) hoặc hút mô buồng tim thai (thai > 9 tuần) hoặc tiêm bắp MTX 25mg (hoặc KCl) và tim thai, phối hợp MTX 25mg tiêm vị trí bánh rau. Sau 60-90 phút siêu âm lại kiểm tra đã mất hay chưa và xem có xuất huyết tại chỗ không, tiêm bắp 25mg MTX (tổng liều 75mg MTX).
+- Thai có hoạt động tim thai: hủy thai bằng hút trọn phôi thai (thai < 9 tuần) hoặc hút mô buồng tim thai (thai > 9 tuần) hoặc tiêm bắp MTX 25mg (hoặc KCl) và tim thai, phối hợp MTX 25mg tiêm vị trí bánh rau. Sau 60-90 phút siêu âm lại kiểm tra đã mất hay chưa và xem có xuất huyết tại chỗ không, tiêm bắp 25mg MTX (tổng liều 75mg MTX).
 
-b. Chống chỉ định và xét nghiệm theo dõi như thai ngoài tử cung.
+Chống chỉ định và xét nghiệm theo dõi như thai ngoài tử cung.
 
-c. Sau thủ thuật cần chú ý kháng sinh, thuốc tăng co và cầm máu.
+#### Sau thủ thuật cần chú ý kháng sinh, thuốc tăng co và cầm máu
 
 Ceftriaxone 1g/lọ x 2 lần tiêm tĩnh mạch 2 ngày, sau đó chuyển sang Cephalosporin thế hệ 3 phối hợp Metronidazole 250mg x 2 viên (uống) x 2 lần/ngày x 7 ngày.
 
@@ -124,7 +126,7 @@ Thuốc bổ trợ:
 
 Hạn chế vận động và nên nằm nghỉ ngơi.
 
-c. Theo dõi ngoại trú
+#### Theo dõi ngoại trú
 
 Theo dõi beta hCG và siêu âm Doppler
 
@@ -134,7 +136,7 @@ Theo dõi beta hCG và siêu âm Doppler
   - Đường kính khối thai >7cm hoặc tăng cần nhập viện phối hợp thuyên tắc chọn lọc động mạch tử cung nuôi khối thai hay phẫu thuật.
   - Nếu tăng sinh mạch nhiều cần nhập viện phối hợp thuyên tắc động mạch tử cung chọn lọc.
 
-d. Tư vấn
+#### Tư vấn
 
 Không được vận động mạnh, không quan hệ tình dục, hạn chế đi lại cho đến khi khối chửa tiêu hoàn toàn.
 

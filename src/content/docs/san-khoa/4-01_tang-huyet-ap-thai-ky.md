@@ -260,7 +260,7 @@ Nếu tình trạng mẹ - thai ổn định, trong vòng 48 giờ chấm dứt 
 
 :::
 
-##### Khi xảy ra tình trạng nặng và tuổi thai dưới 23 tuần
+#### Khi xảy ra tình trạng nặng và tuổi thai dưới 23 tuần
 
 Tính mạng của mẹ là quan trọng, tình trạng thai là không có hy vọng. Xử lý hợp lý nhất là chấm dứt thai kỳ để cứu mẹ. Do thai nhi (1) hầu như không có triển vọng sống, (2) thời gian chờ đợi đến khi có khả năng sống quá dài, (3) nếu sống cũng có khả năng khuyết tật cao, và (4) tình trạng mẹ không cho phép chờ đợi, nên xử lý hợp lý nhất là chấm dứt thai kỳ để cứu mẹ.
 
@@ -268,19 +268,19 @@ Chuyển dạ được khởi phát bằng prostaglandin E2 (PGE2) đặt âm đ
 
 Trong trường đặc biệt là sản phụ không muốn chấm dứt thai, muốn giữ thai bằng mọi giá, thì có thể chấp nhận theo dõi tiếp nhưng phải tư vấn 1 cách chi tiết về nguy cơ rất cao của mẹ, dự hậu rất xấu của thai và tương lai bất định của trẻ.
 
-##### Khi tuổi thai không quá non, từ 23-32 tuần 6 ngày
+#### Khi tuổi thai không quá non, từ 23-32 tuần 6 ngày
 
 Trong giai đoạn này, mẹ vẫn ưu tiên hơn con.
 
 Nếu quyết định kéo dài thai kỳ được đặt ra thì có thể cân nhắc Corticosteroid liệu pháp dự phòng suy hô hấp cấp và $MgSO_4$ liệu pháp dự phòng tổn thương não.
 
-##### Khi tuổi thai từ 33-34 tuần 6 ngày
+#### Khi tuổi thai từ 33-34 tuần 6 ngày
 
 Cần cân nhắc tình trạng mẹ có cho phép kéo dài thêm 48 giờ cho Corticosteroid liệu pháp dự phòng suy hô hấp cấp hay không?
 
 2 điều kiện tiên quyết để thực hiện Corticosteroids liệu pháp là (1) tình trạng mẹ phải đảm bảo cho việc kéo dài thai kỳ thêm 48 giờ mà không ảnh hưởng xấu đến mẹ, và (2) tình trạng tuần hoàn tử cung-nhau và dự trữ kiềm của con phải đảm bảo chịu đựng cuộc sống trong tử cung thêm 48 giờ.
 
-##### Khi thai trên 34 tuần
+#### Khi thai trên 34 tuần
 
 Việc kéo dài thêm thai kỳ hoàn toàn không có lợi, mà chỉ dẫn đến làm tăng nguy cơ cho mẹ và con. Ở tuổi thai này, có thể chấm dứt thai kỳ vô điều kiện.
 
@@ -478,7 +478,7 @@ Chống chỉ định: Ở sản phụ suy tim sung huyết, hen suyễn và nh�
 
 Các chất chẹn kênh Calcium là thuốc dùng trong những trường hợp tăng huyết áp nặng.
 
-##### Nifedipine
+**Nifedipine**
 
 Cơ chế ức chế kênh Calcium loại 2, tức là ức chế chọn lọc dòng Calcium đi vào trong cơ trơn mạch máu dẫn đến giãn mạch và hạ huyết áp. Nifedipine tác động trên cả các mạch máu trung bình, nên nó khởi phát tác dụng nhanh hơn Hydralazine.
 
@@ -488,7 +488,7 @@ Tác dụng không mong muốn: Gồm tim đập nhanh, nhức đầu và hồi 
 
 Ion $Mg^{2+}$ có khả năng cạnh tranh với ion $Ca^{2+}$ nên phối hợp Nifedipine và $MgSO_4$ có thể dẫn đến tụt huyết áp.
 
-##### Nicardipine
+**Nicardipine**
 
 Cơ chế tác dụng của Nicardipine tương đối giống với Nifedipine như đã nói ở trên. Tác dụng chọn lọc lên mạch máu, đồng thời ít tác dụng lên co bóp tim, nên ít làm tăng nhịp tim phản xạ. Nicardipine có thời gian bắt đầu tác dụng khoảng 10 phút. Đạt nồng độ đỉnh sau 30-120 phút, tác dụng kéo dài 8 giờ.
 

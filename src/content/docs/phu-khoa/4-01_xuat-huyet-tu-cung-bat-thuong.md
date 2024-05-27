@@ -29,7 +29,7 @@ AUB cấp tính: chảy máu ở phụ nữ trong tuổi sinh sản, không có 
 
 ### Theo nguyên nhân (PALM - COEIN)
 
-a. Nguyên nhân về cấu trúc
+#### Nguyên nhân về cấu trúc
 
 **P**olyps (AUB-P).
 
@@ -39,7 +39,7 @@ a. Nguyên nhân về cấu trúc
 
 **M**alignancy & Hyperplasia (AUB-M) - Bệnh lý ác tính và tăng sinh nội mạc tử cung.
 
-![Phân loại u xơ tử cung theo FIGO 2011](../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong/phan-loai-u-xo-tu-cung-figo-2011.jpg)
+![Phân loại u xơ tử cung theo FIGO 2011](../../../assets/phu-khoa/u-xo-tu-cung/phan-loai-u-xo-tu-cung-figo-2011.jpg)
 _Phân loại u xơ tử cung theo FIGO 2011_
 
 | Vị trí u xơ   | Đặc điểm                                                                                                                                         |
@@ -48,7 +48,7 @@ _Phân loại u xơ tử cung theo FIGO 2011_
 | Vị trí khác   | 4 - trong cơ<br>5 - dưới thanh mạc &le; 50% trong cơ<br>6 - dưới thanh mạc <50%<br>7 - dưới thanh mạc có cuống<br>8 - cổ tử cung, dây chằng rộng |
 | H-hybrid      | 2-5 - <50% dưới thanh mạc và <50% dưới niêm mạc                                                                                                  |
 
-b. Nguyên nhân không thuộc cấu trúc
+#### Nguyên nhân không thuộc cấu trúc
 
 **C**oagulopathy (AUB-C) - Bệnh lý về đông máu.
 
