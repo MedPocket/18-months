@@ -10,7 +10,7 @@
     "start": "astro dev"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.23.4",
+    "@astrojs/starlight": "^0.24.0",
     "astro": "^4.9.3",
     "astro-og-canvas": "^0.5.0",
     "katex": "^0.16.10",
