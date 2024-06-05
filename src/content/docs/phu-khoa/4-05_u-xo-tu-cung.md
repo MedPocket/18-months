@@ -40,7 +40,7 @@ Hoạt động thể chất thường xuyên.
 
 ### Lâm sàng
 
-a. Triệu chứng cơ năng
+#### Triệu chứng cơ năng
 
 Bụng to lên, sờ thấy khối u trên bụng.
 
