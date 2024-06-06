@@ -1,7 +1,6 @@
 ---
 title: Đẻ thường ngôi chỏm
 description: Đẻ thường ngôi chỏm.
-lastUpdated: 2023-12-23
 ---
 
 Ngôi chỏm là 1 ngôi mà trong phần lớn các trường hợp sẽ sinh được qua đường âm đạo.

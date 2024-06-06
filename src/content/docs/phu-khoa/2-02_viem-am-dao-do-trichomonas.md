@@ -1,7 +1,6 @@
 ---
-title: Viêm âm đạo do Trichomonas
-description: Viêm âm đạo do Trichomonas.
-lastUpdated: 2024-04-09
+title: Viêm âm đạo do Trichomonad
+description: Viêm âm đạo do Trichomonad.
 ---
 
 Bệnh lây truyền qua đường tình dục do trùng roi Trichomoniasis vaginalis.

@@ -1,7 +1,6 @@
 ---
 title: Nhiễm trùng ối
 description: Nhiễm trùng ối.
-lastUpdated: 2024-04-28
 ---
 
 Nhiễm trùng ối (intra-amniotic infection - IAI) được xác định khi nhiễm trùng 1 trong các yếu tố dịch ối, thai, dây rốn, bánh rau, màng ối, màng đệm.

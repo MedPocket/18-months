@@ -1,7 +1,6 @@
 ---
 title: Phương tiện tiếp cận khối u buồng trứng
 description: Phương tiện tiếp cận khối u buồng trứng.
-lastUpdated: 2024-05-08
 ---
 
 Phương tiện tiếp cận khối u buồng trứng gồm siêu âm, cộng hưởng từ, chỉ báo sinh học khối u.

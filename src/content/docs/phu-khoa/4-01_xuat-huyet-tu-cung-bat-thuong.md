@@ -1,7 +1,6 @@
 ---
 title: Xuất huyết tử cung bất thường ở phụ nữ trong độ tuổi sinh sản
 description: Xuất huyết tử cung bất thường ở phụ nữ trong độ tuổi sinh sản.
-lastUpdated: 2024-04-26
 ---
 
 Xuất huyết tử cung bất thường (Abnormal uterine bleeding - AUB) hay gặp ở phụ nữ trong độ tuổi sinh sản.

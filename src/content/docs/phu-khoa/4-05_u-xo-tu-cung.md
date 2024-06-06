@@ -1,7 +1,6 @@
 ---
 title: U xơ tử cung
 description: U xơ tử cung.
-lastUpdated: 2024-05-27
 ---
 
 U xơ cơ tử cung (Leiomyoma), thường được gọi là u xơ tử cung là khối u lành tính không rõ nguyên nhân do sự phát triển quá mức cơ trơn và mô liên kết ở tử cung.

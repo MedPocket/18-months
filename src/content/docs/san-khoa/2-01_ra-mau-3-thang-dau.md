@@ -1,7 +1,6 @@
 ---
 title: Ra máu 3 tháng đầu thai kỳ
 description: Tiếp cận sản phụ ra máu 3 tháng đầu thai kỳ.
-lastUpdated: 2023-11-30
 ---
 
 Ra máu trong 3 tháng đầu có thể do 1 số nguyên nhân sau:

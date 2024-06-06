@@ -1,7 +1,6 @@
 ---
 title: Thiếu máu hồng cầu nhỏ nhược sắc
 description: Thiếu máu hồng cầu nhỏ nhược sắc.
-lastUpdated: 2024-02-27
 ---
 
 1 cách tổng quát, thiếu máu trong thai kỳ ảnh hưởng đến cả mẹ và con.

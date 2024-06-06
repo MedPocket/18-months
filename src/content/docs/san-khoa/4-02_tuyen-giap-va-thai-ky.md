@@ -1,7 +1,6 @@
 ---
 title: Tuyến giáp và thai kỳ
 description: Tuyến giáp và thai kỳ.
-lastUpdated: 2024-01-06
 ---
 
 Trong thai kỳ, chức năng tuyến giáp của mẹ bị thay đổi. Điều này có ảnh hưởng tới cả mẹ và con.
@@ -12,7 +11,7 @@ Sự tăng lọc cầu thận trong thai kỳ làm thận tăng thải iod, do �
 
 ![Bảng chức năng tuyến giáp](../../../assets/san-khoa/tuyen-giap-va-thai-ky/bang-chuc-nang-tuyen-giap.png)
 
-Free $T_4$ (free thyroxine - $FT_4$) là phương pháp đánh giá chức năng tuyến giáp chính xác duy nhất khi có sự thay đổi của TBG (Thyroxine Binding Globulin) vì nồng độ của $T_3$ (total triiodothyronin) và $T_4$ tăng trong suốt thai kỳ.
+Free $T_4$ (free thyroxine - $FT_4$) là phương pháp đánh giá chức năng tuyến giáp chính xác duy nhất khi có sự thay đổi của TBG (Thyroxine Binding Globulin) vì nồng độ của $T_3$ (total triiodothyronine) và $T_4$ tăng trong suốt thai kỳ.
 
 Về chức năng tuyến giáp của thai, trước 10 tuần không có iod hữu cơ trong tuyến giáp thai nhi. Từ tuần 11 đến tuần 12, tuyến giáp thai nhi có thể sản xuất được iodothyronine và $T_4$. Nồng độ TSH của thai nhi, $T_4$ và $FT_4$ đã chứng tỏ sự trưởng thành và khả năng hoạt động độc lập của trục tuyến giáp-tuyến yên.
 
@@ -64,7 +63,7 @@ Xử trí bão giáp gồm:
 
 - Chặn tiết hormone tuyến giáp bằng sodium iodide 1g tiêm mạch, ngăn chặn sự tổng hợp hormone tuyến giáp.
 - Chặn sự chuyển $T_4$ thành $T_3$ bằng 1200-1800 mg PTU chia làm nhiều liều.
-- Ngăn chặn về sau sự nitơ hóa $T_4$ thành $T_3$ bằng dexamethasone 8 mg/ngày.
+- Ngăn chặn về sau sự nito hóa $T_4$ thành $T_3$ bằng dexamethasone 8 mg/ngày.
 - Điều trị triệu chứng cường giao cảm bằng block β-Adrenergic như propranolol 20–80 mg/6 giờ, cung cấp đủ dịch và hạ thân nhiệt.
 
 Do kháng thể kích thích tuyến giáp có thể truyền qua rau, thoáng qua và duy trì ít nhất 2-3 tháng ở thai nên khoảng 1% phụ nữ bị Graves có con bị ngộ độc giáp, làm tăng tỉ lệ tử vong sơ sinh lên 16%. Nghi ngờ nhiễm độc giáp ở thai khi tim thai cơ bản hằng định trên 160 lần/phút. Bướu giáp thai có thể xác định được trên siêu âm.
@@ -79,7 +78,7 @@ Phụ nữ mang thai bị nhược giáp nếu được điều trị thay thế
 
 ### Chẩn đoán và điều trị suy giáp
 
-Tiêu chuẩn quan trọng nhất để chẩn đoán nhược giáp là tăng TSH, ngoài ra có thể thấy $FT_3$ và $FT_4$ giảm. Chẩn đoán được nhược giáp thì phải điều trị ngay với levothyroxin và kiểm tra nồng độ TSH mỗi tháng để chỉnh liều levothyroxin phù hợp.
+Tiêu chuẩn quan trọng nhất để chẩn đoán nhược giáp là tăng TSH, ngoài ra có thể thấy $FT_3$ và $FT_4$ giảm. Chẩn đoán được nhược giáp thì phải điều trị ngay với levothyroxine và kiểm tra nồng độ TSH mỗi tháng để chỉnh liều levothyroxine phù hợp.
 
 ### Kết cục sản khoa của suy giáp
 

@@ -1,7 +1,6 @@
 ---
 title: Động học siêu âm Doppler
 description: Động học siêu âm Doppler.
-lastUpdated: 2024-02-16
 ---
 
 Trong sản khoa, khảo sát động học dòng chảy trong các mạch máu cho phép có ý niệm về trở kháng của các mạch máu được khảo sát, thông qua việc khảo sát tốc độ dòng chảy.

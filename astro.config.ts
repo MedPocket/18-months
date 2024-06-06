@@ -71,6 +71,7 @@ export default defineConfig({
         },
       ],
       pagination: true,
+      lastUpdated: true,
     }),
   ],
 })

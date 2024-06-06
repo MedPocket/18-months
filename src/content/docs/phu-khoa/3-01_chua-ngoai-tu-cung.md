@@ -1,7 +1,6 @@
 ---
 title: Chửa ngoài tử cung
 description: Chửa ngoài tử cung.
-lastUpdated: 2024-04-16
 ---
 
 Chửa ngoài tử cung là trứng làm tổ và phát triển ở vị trí ngoài tử cung.

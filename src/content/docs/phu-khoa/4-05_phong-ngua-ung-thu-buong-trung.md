@@ -1,7 +1,6 @@
 ---
 title: Phòng ngừa ung thư buồng trứng
 description: Phòng ngừa ung thư buồng trứng.
-lastUpdated: 2024-05-24
 ---
 
 Chẩn đoán 1 khối tân lập ở buồng trứng luôn luôn phải đi kèm với dự đoán về khả năng lành tính hay không lành tính của khối này.

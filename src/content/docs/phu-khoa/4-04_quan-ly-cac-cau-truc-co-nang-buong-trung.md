@@ -1,7 +1,6 @@
 ---
 title: Quản lý các cấu trúc cơ năng tại buồng trứng
 description: Quản lý các cấu trúc cơ năng tại buồng trứng.
-lastUpdated: 2024-05-22
 ---
 
 Các cấu trúc cơ năng của buồng trứng là các cấu trúc của buồng trứng, hình thành do các hoạt động chức năng của buồng trứng.

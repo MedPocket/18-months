@@ -1,7 +1,6 @@
 ---
 title: Chửa ở vết mổ lấy thai
 description: Chửa ở vết mổ lấy thai (Thai ở sẹo mổ lấy thai).
-lastUpdated: 2024-04-21
 ---
 
 Chửa ở vết mổ lấy thai (Thai ở sẹo mổ lấy thai) là 1 dạng thai ngoài tử cung do thai làm tổ trên sẹo cơ tử cung.

@@ -1,7 +1,6 @@
 ---
 title: SGA & IUGR
 description: Thai nhỏ so với tuổi thai (SGA). Thai với tăng trưởng trong tử cung bị giới hạn (FGR)(IUGR).
-lastUpdated: 2023-11-13
 ---
 
 Thai nhỏ so với tuổi thai (Small-for-Gestational Age - SGA) và thai với tăng trưởng trong tử cung bị giới hạn (Fetal Growth Restriction - FGR)(Intra-Uterine Growth Retardation - IUGR) có ảnh hưởng không nhỏ tới sức khỏe thai.

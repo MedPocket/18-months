@@ -1,7 +1,6 @@
 ---
 title: Rau tiền đạo
 description: Rau tiền đạo.
-lastUpdated: 2023-12-20
 ---
 
 Rau tiền đạo (Placenta Previa) là 1 vấn đề lớn mà các nhà sản khoa phải đối mặt, do những thai phụ với rau tiền đạo có thể phải được nằm bệnh viện theo dõi dài hạn, tăng nguy cơ truyền máu, sinh non, tỉ lệ cắt tử cung vì băng huyết tăng cao (đến 5.3%), dẫn đến tử suất của mẹ cao.

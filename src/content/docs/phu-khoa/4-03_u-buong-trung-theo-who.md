@@ -1,7 +1,6 @@
 ---
 title: U buồng trứng phân loại theo WHO
 description: U buồng trứng phân loại theo WHO.
-lastUpdated: 2024-05-24
 ---
 
 Phân loại các khối u buồng trứng của Tổ chức Y tế Thế giới (2014) được dựa trên cơ sở mô và phôi học của các tân sinh gồm:

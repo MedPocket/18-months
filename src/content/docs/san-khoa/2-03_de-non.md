@@ -1,7 +1,6 @@
 ---
 title: Đẻ non/Dọa đẻ non
 description: Đẻ non/Dọa đẻ non.
-lastUpdated: 2023-11-10
 ---
 
 Trẻ sinh non được định nghĩa là trẻ được sinh ra trước khi tuổi thai được 37 tuần.
@@ -30,7 +29,7 @@ Có 2 nhóm nguyên nhân lớn của sinh non:
 
 Chuyển dạ sinh non là 1 hội chứng có liên quan đến nhiều cơ chế bệnh sinh khác nhau:
 
-1. Hoạt hóa trục hạ đồi-tuyến yên-tuyến thượng thận ở mẹ hoặc thai nhi do stress, liên quan Corticoids.
+1. Hoạt hóa trục hạ đồi-tuyến yên-tuyến thượng thận ở mẹ hoặc thai nhi do stress, liên quan Corticosteroids.
 2. Nhiễm trùng (màng đệm, màng rụng hoặc toàn thân) và khuẩn hệ âm đạo bệnh lý. Loạn khuẩn âm đạo nên được điều trị sớm trước tuần 20, do có thể làm giảm tần suất sinh non, nhờ làm giảm vỡ ối.
 3. Giảm tưới máu màng rụng và xuất huyết tại lớp màng rụng (bong nhau).
 4. Căng dãn tử cung quá mức do đa thai, đa ối, hay di tử cung dị dạng (tử cung đôi).

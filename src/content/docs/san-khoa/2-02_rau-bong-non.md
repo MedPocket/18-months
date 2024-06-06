@@ -1,7 +1,6 @@
 ---
 title: Rau bong non
 description: Rau bong non.
-lastUpdated: 2023-11-26
 ---
 
 Rau bong non được định nghĩa là trường hợp rau bám đúng vị trí nhưng bị bong sớm trước khi thai sổ ra ngoài.

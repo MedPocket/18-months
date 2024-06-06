@@ -1,7 +1,6 @@
 ---
 title: Viêm âm đạo do thiếu nội tiết
 description: Viêm âm đạo do thiếu nội tiết.
-lastUpdated: 2024-04-09
 ---
 
 Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh làm cho niêm mạc âm đạo dễ mất lớp bề mặt và trung gian trở nên rất mỏng, dễ tổn thương và nhiễm trùng.

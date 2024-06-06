@@ -1,7 +1,6 @@
 ---
 title: Nhiễm Chlamydia trachomatis
 description: Nhiễm Chlamydia trachomatis.
-lastUpdated: 2024-04-09
 ---
 
 Nhiễm Chlamydia sinh dục - tiết niệu là 1 trong những nhiễm khuẩn lây truyền qua đường tình dục hay gặp.

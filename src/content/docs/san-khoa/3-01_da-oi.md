@@ -1,7 +1,6 @@
 ---
 title: Đa ối
 description: Đa ối.
-lastUpdated: 2023-12-07
 ---
 
 Đa ối được định nghĩa là tình trạng dịch ối nhiều hơn so với tuổi thai tương ứng và được chẩn đoán qua siêu âm.

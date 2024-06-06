@@ -1,7 +1,6 @@
 ---
 title: Vỡ tử cung
 description: Vỡ tử cung.
-lastUpdated: 2023-11-23
 ---
 
 Vỡ tử cung là 1 tình trạng cấp cứu hiếm gặp nhưng rất nguy hiểm, gây ra kết cục rất xấu cho cả mẹ và thai.

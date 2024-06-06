@@ -1,7 +1,6 @@
 ---
 title: Viêm gan B và thai kỳ
-description: Viêm gan B 2à thai k15
-lastUpdated: 2023-12-15
+description: Viêm gan B và thai kỳ
 ---
 
 Tầm soát trong thai kỳ tình trạng nhiễm HBV được khuyến cáo thực hiện cho mọi thai phụ.

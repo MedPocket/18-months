@@ -1,7 +1,6 @@
 ---
 title: U phần phụ
 description: U phần phụ.
-lastUpdated: 2024-05-08
 ---
 
 Phần phụ là thuật ngữ dùng để chỉ tất cả các cấu trúc nằm trong khoang giữa thành chậu và thân tử cung.

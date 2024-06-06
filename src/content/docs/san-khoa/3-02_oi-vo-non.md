@@ -1,7 +1,6 @@
 ---
 title: Ối vỡ non
 description: Ối vỡ non.
-lastUpdated: 2023-12-23
 ---
 
 Ối vỡ non được định nghĩa tình trạng không toàn vẹn của các màng đệm và màng ối, dẫn đến chảy nước ối ra ngoài, xảy ra khi thai phụ chưa có chuyển dạ.

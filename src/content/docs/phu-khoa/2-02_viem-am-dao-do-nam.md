@@ -1,7 +1,6 @@
 ---
 title: Viêm âm đạo do nấm
 description: Viêm âm đạo do nấm.
-lastUpdated: 2024-04-08
 ---
 
 Nhiễm khuẩn do nấm chiếm đa số ở phụ nữ.

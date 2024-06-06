@@ -1,7 +1,6 @@
 ---
 title: Đếm cử động thai
 description: Đếm cử động thai.
-lastUpdated: 2024-02-21
 ---
 
 Đếm cử động thai là 1 ý tưởng khá hấp dẫn vì phương pháp này luôn có thể thực hiện ở mọi thai phụ và không tốn kém tiền bạc.

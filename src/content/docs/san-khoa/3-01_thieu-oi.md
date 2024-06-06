@@ -1,7 +1,6 @@
 ---
 title: Thiểu ối
 description: Thiểu ối.
-lastUpdated: 2023-12-07
 ---
 
 Thiểu ối được định nghĩa là tình trạng dịch ối ít hơn so với tuổi thai tương ứng và được chẩn đoán qua siêu âm.

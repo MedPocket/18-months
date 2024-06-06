@@ -1,7 +1,6 @@
 ---
 title: Bệnh học sản khoa
 description: Bệnh học sản khoa.
-lastUpdated: 2024-01-01
 ---
 
 Bệnh học sản khoa là 1 lĩnh vực trong y học chuyên về việc nghiên cứu, chẩn đoán và điều trị các bệnh liên quan đến thai nghén và phụ khoa. Đây là 1 chủ đề quan trọng và nhạy cảm trong y học, vì sức khỏe của người phụ nữ trong giai đoạn mang thai và sau khi sinh có tác động lớn đến cả mẹ và thai nhi.

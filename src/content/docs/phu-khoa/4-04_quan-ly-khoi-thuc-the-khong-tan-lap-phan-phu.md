@@ -1,7 +1,6 @@
 ---
 title: Quản lý khối thực thể không tân lập ở phần phụ
 description: Quản lý khối thực thể không tân lập ở phần phụ.
-lastUpdated: 2024-05-22
 ---
 
 Các khối thực thể không tân lập tại phần phụ là thuật ngữ tổng quát dùng để chỉ mọi cấu trúc dạng khối bất thường ở phần phụ, với cấu trúc mô học không mang các đặc điểm của tân sinh.

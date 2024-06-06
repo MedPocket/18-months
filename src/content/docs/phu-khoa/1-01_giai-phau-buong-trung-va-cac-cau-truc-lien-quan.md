@@ -1,7 +1,6 @@
 ---
 title: Giải phẫu buồng trứng và các cấu trúc liên quan
 description: Giải phẫu buồng trứng và các cấu trúc liên quan.
-lastUpdated: 2024-05-14
 ---
 
 Buồng trứng là 1 tuyến kép, đảm nhận đồng thời 2 vai trò nội tiết và ngoại tiết:

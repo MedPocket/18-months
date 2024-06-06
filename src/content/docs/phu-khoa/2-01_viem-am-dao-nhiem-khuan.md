@@ -1,7 +1,6 @@
 ---
 title: Viêm âm đạo nhiễm khuẩn
 description: Viêm âm đạo nhiễm khuẩn.
-lastUpdated: 2024-04-08
 ---
 
 Nhiễm khuẩn âm đạo là hội chứng do rối loạn vi khuẩn âm đạo: giảm sút nồng độ Lactobacilli và gia tăng vi khuẩn yếm khí.

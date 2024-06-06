@@ -1,7 +1,6 @@
 ---
 title: Đặc điểm của rau thai
 description: Đặc điểm của rau thai.
-lastUpdated: 2023-11-26
 ---
 
 Nguồn gốc bánh rau:
