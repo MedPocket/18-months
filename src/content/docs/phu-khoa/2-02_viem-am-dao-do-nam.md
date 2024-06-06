@@ -8,8 +8,9 @@ Nhiễm khuẩn do nấm chiếm đa số ở phụ nữ.
 
 ## Yếu tố nguy cơ
 
-- Dùng kháng sinh phổ rộng.
-- Gia tăng glycogen âm đạo: thai kỳ, đái tháo đường, thuốc ngừa thai chứa estrogen liều cao, suy giảm miễn dịch, môi trường âm đạo ẩm ướt.
+Dùng kháng sinh phổ rộng.
+
+Gia tăng glycogen âm đạo: thai kỳ, đái tháo đường, thuốc ngừa thai chứa estrogen liều cao, suy giảm miễn dịch, môi trường âm đạo ẩm ướt.
 
 ## Nguyên nhân
 
