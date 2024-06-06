@@ -1,7 +1,10 @@
 import { defineConfig } from 'astro/config'
 import starlight from '@astrojs/starlight'
+import { rehypeHeadingIds } from '@astrojs/markdown-remark'
+import rehypeAutolinkHeadings from 'rehype-autolink-headings'
 import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex'
+import rehypeExternalLinks from 'rehype-external-links'
 
 // https://astro.build/config
 export default defineConfig({
@@ -11,7 +14,20 @@ export default defineConfig({
   base: '/18-months',
   markdown: {
     remarkPlugins: [remarkMath],
-    rehypePlugins: [rehypeKatex],
+    rehypePlugins: [
+      rehypeHeadingIds,
+      [rehypeAutolinkHeadings, { behavior: 'append' }],
+      rehypeKatex,
+      [
+        rehypeExternalLinks,
+        {
+          target: '_blank',
+          rel: ['nofollow', 'noopener'],
+          content: { type: 'text', value: '↗' },
+          contentProperties: { 'aria-hidden': true, class: 'no-select' },
+        },
+      ],
+    ],
   },
   experimental: {
     contentCollectionCache: true,
@@ -19,7 +35,11 @@ export default defineConfig({
   integrations: [
     starlight({
       title: '18 Months',
-      customCss: ['./src/styles/globals.css', 'katex/dist/katex.min.css'],
+      customCss: [
+        './src/styles/globals.css',
+        'katex/dist/katex.min.css',
+        './src/styles/headings.css',
+      ],
       social: {
         github: 'https://github.com/MedPocket/18-months',
       },

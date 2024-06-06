@@ -1,0 +1,17 @@
+.sl-markdown-content :is(h1, h2, h3, h4, h5, h6) {
+  a {
+    text-decoration: none;
+    color: var(--sl-color-white);
+    line-height: var(--sl-line-height-headings);
+    font-weight: 600;
+    color: transparent !important;
+  }
+
+  &:hover a {
+    text-shadow: 0 0 0 var(--sl-color-text-accent);
+  }
+
+  .icon.icon-link::after {
+    content: '🔗';
+  }
+}
