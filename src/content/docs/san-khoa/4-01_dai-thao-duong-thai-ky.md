@@ -73,9 +73,7 @@ Theo FIGO 2018, kết quả được đánh giá như sau:
 
 ## Mục tiêu điều trị
 
-:::note[Mục tiêu điều trị]
 ![Mục tiêu điều trị](../../../assets/san-khoa/dai-thao-duong-thai-ky/muc-tieu-dieu-tri.png)
-:::
 
 HbA1c ít có giá trị với đái tháo đường thai kỳ vì đái tháo đường thai kỳ xuất hiện từ nửa sau thai kỳ (khoảng 4 tháng cuối) trong khi HbA1c có giá trị đánh giá trong vòng 3 tháng. Ngoài ra còn chịu ảnh hưởng của nhiều yếu tố như đời sống hồng cầu ngắn lại, máu pha loãng.
 

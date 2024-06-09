@@ -33,9 +33,7 @@ Tiền căn nhiễm trùng ối.
 
 ## Chẩn đoán
 
-:::note[Chẩn đoán nhiễm trùng ối]
 ![Chẩn đoán nhiễm trùng ối](../../../assets/san-khoa/nhiem-trung-oi/chan-doan-nhiem-trung-oi.png)
-:::
 
 :::caution[Lưu ý]
 Chẩn đoán nhiễm trùng ối chủ yếu dựa vào lâm sàng để xử trí tích cực, tiêu chuẩn chọc ối/giải phẫu bệnh chỉ có giá trị nghiên cứu và không giúp cải thiện xử trí trong và sau sinh.

@@ -44,14 +44,12 @@ Nguồn gốc xuất hiện tiền sản giật bắt đầu từ bánh nhau nh�
 
 ## Phân loại tăng huyết áp thai kỳ
 
-:::note[Tăng huyết áp trong thai kỳ phân thành 4 loại:]
+Tăng huyết áp trong thai kỳ phân thành 4 loại:
 
 1. Hội chứng tiền sản giật-sản giật = Tăng huyết áp + Đạm niệu + Từ tuần thứ 20 của thai kỳ.
 2. Tăng huyết áp thai kỳ = Tăng huyết áp + Không đạm niệu + Từ tuần thứ 20 của thai kỳ và huyết áp trở về bình thường sau sinh.
 3. Tăng huyết áp mạn (do bất cứ nguyên nhân nào) = Tăng huyết áp + Trước tuần thứ 20 của thai kỳ và kéo dài 12 tuần hậu sản.
 4. Tiền sản giật ghép trên tăng huyết áp mạn = Tăng huyết áp mạn không đạm niệu + Từ tuần thứ 20 của thai kỳ có đạm niệu = Tăng huyết áp mạn có đạm niệu + Từ tuần thứ 20 có dấu hiệu tăng nặng (tăng thuốc điều trị, tăng men gan, giảm tiểu cầu, đau vụng vùng hạ sườn phải, phù phổi).
-
-:::
 
 ## Chẩn đoán
 
@@ -63,7 +61,7 @@ Nguồn gốc xuất hiện tiền sản giật bắt đầu từ bánh nhau nh�
 
 Tiền sản giật được phân loại thành tiền sản giật không có dấu hiệu nặng và tiền sản giật có dấu hiệu nặng.
 
-:::note[Dấu hiệu nặng của tiền sản giật (bất kỳ dấu hiệu nào):]
+Dấu hiệu nặng của tiền sản giật (bất kỳ dấu hiệu nào):
 
 1. Huyết áp tâm thu &ge; 160 mmHg hoặc huyết áp tâm trương &ge; 110 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
 2. Giảm tiểu cầu: tiểu cầu <100,000/µL.
@@ -71,8 +69,6 @@ Tiền sản giật được phân loại thành tiền sản giật không có 
 4. Suy thận tiến triển (creatinine huyết thanh > 1.1 mg/dL hoặc gấp đôi nồng độ creatinine huyết thanh bình thường mà không do bệnh lý thận khác).
 5. Phù phổi.
 6. Các triệu chứng của não và thị giác: rối loạn thị giác (hoa mắt, ám điểm, mù vỏ não, co thắt mạch máu võng mạc); nhức đầu nhiều, nhức đầu dai dẳng, tăng lên, không đáp ứng thuốc giảm đau, thay đổi tri giác.
-
-:::
 
 ### Tiên lượng tiền sản giật
 
