@@ -1,10 +1,10 @@
-import { defineConfig } from 'astro/config'
 import starlight from '@astrojs/starlight'
-import { rehypeHeadingIds } from '@astrojs/markdown-remark'
-import rehypeAutolinkHeadings from 'rehype-autolink-headings'
-import remarkMath from 'remark-math'
+import { defineConfig } from 'astro/config'
 import rehypeKatex from 'rehype-katex'
+import rehypeSlug from 'rehype-slug'
+import remarkMath from 'remark-math'
 import rehypeExternalLinks from 'rehype-external-links'
+import { rehypeAutolink } from './plugins/rehype-autolink'
 
 // https://astro.build/config
 export default defineConfig({
@@ -15,8 +15,8 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [remarkMath],
     rehypePlugins: [
-      rehypeHeadingIds,
-      [rehypeAutolinkHeadings, { behavior: 'append' }],
+      rehypeSlug,
+      ...rehypeAutolink(),
       rehypeKatex,
       [
         rehypeExternalLinks,
