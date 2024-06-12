@@ -46,7 +46,7 @@ Hoạt động thể chất thường xuyên.
 
 ![Vị trí u xơ tử cung theo FIGO 2011](../../../assets/phu-khoa/u-xo-tu-cung/vi-tri-u-xo-tu-cung-figo-2011.png)
 
-## Chẩn đoán
+## Chẩn đoán xác định
 
 ### Lâm sàng
 
@@ -177,7 +177,7 @@ Phân định leiomyosarcoma và u xơ-cơ tử cung là rất khó khăn bằng
 ![Leiomyosarcoma trên MRI](../../../assets/phu-khoa/u-xo-tu-cung/leiomyosarcoma-tren-mri.png)
 _Hình ảnh dị thường của khối u tạo ra do đậm độ tín hiệu rất dị biệt, đến từ sự dị biệt của đậm độ proton của thành phần u._
 
-### Chẩn đoán phân biệt
+## Chẩn đoán phân biệt
 
 Bệnh tuyến cơ tử cung (Adenomyosis).
 

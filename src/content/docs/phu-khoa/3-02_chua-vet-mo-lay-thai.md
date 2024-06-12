@@ -21,7 +21,7 @@ Thụ tinh trong ống nghiệm.
 
 Tiền sử nạo phá thai nhiều lần.
 
-## Chẩn đoán
+## Chẩn đoán xác định
 
 ### Lâm sàng
 
@@ -61,7 +61,7 @@ beta hCG dương tính.
 
 Siêu âm 3D và MRI trong trường hợp khó phân biệt.
 
-### Chẩn đoán phân biệt
+## Chẩn đoán phân biệt
 
 Thai trong buồng tử cung.
 

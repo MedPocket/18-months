@@ -32,7 +32,7 @@ Nguyên nhân gây tắc tia sữa.
 
 Tình trạng suy giảm miễn dịch.
 
-## Chẩn đoán
+## Chẩn đoán xác định
 
 ### Lâm sàng
 
@@ -57,7 +57,7 @@ Siêu âm vú.
 
 Cấy mủ.
 
-### Chẩn đoán phân biệt
+## Chẩn đoán phân biệt
 
 Cương tức tuyến vú.
 
