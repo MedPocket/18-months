@@ -54,7 +54,7 @@ Sau khi dậy thì và vào tuổi hoạt động sinh sản, cơ quan sinh dụ
 
 Với lộ tuyến cổ tử cung, SCJ nguyên thủy nằm ở cổ ngoài cổ tử cung và cách xa lỗ ngoài cổ tử cung. Hiện tượng lộ tuyến cổ tử cung thường gặp trong quá trình mang thai.
 
-## Lộ tuyến cổ tử cung
+## Chuyển sản và lộ tuyến cổ tử cung
 
 Lộ tuyến cổ tử cung (endocervical ectropion) là hiện tượng biểu mô trụ nằm ở trong kênh cổ tử cung bị lộn ra trên cổ ngoài cổ tử cung.
 
@@ -106,7 +106,7 @@ Tiến trình chuyển sản đôi khi không hoàn hảo. Trong trường hợp
 
 ## Điều trị viêm lộ tuyến
 
-Do là một tiến trình sinh lý, nên thông thường, không có chỉ định điều trị lộ tuyến cổ tử cung không có triệu chứng lâm sàng.
+Do là 1 tiến trình sinh lý, nên thông thường, không có chỉ định điều trị lộ tuyến cổ tử cung không có triệu chứng lâm sàng.
 
 Trong 1 số trường hợp, có thể cần can thiệp nhằm kiểm soát sự lan rộng của mô lộ tuyến. Can thiệp có thể là trên hoạt động nội tiết nội sinh hay ngoại lai (như ngưng dùng thuốc ngừa thai nội tiết), cũng có thể là điều trị phá hủy mô lộ tuyến bằng đốt điện hoặc áp.
 
