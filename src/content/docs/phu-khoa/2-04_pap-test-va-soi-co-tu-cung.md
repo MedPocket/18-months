@@ -17,11 +17,6 @@ Pap’s test quy ước rẻ hơn, nhưng cả Se và Sp đều thấp. Pap’s 
 
 ![So sánh 2 kỹ thuật thực hiện Pap's test](../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/so-sanh-ky-thuat-thuc-hien-pap.png)
 
-### Chiến lược tầm soát ung thư cổ tử cung
-
-![Chiến lược tầm soát ung thư cổ tử cung](../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/chien-luoc-tam-soat-ung-thu-co-tu-cung.png)
-_\* Các khuyến cáo dựa theo: American Cancer Society (ACS), The American Society for Colposcopy and Cervical Pathology (ASCCP), và The American Society for Clinical Pathology (ASCP). A: khuyến cáo mạnh, chứng cứ rõ ràng, hằng định. B: khuyến cáo trung bình, chứng cứ không hằng định. C: theo kinh nghiệm.<br>** Ưu tiên.<br>\*** Chấp nhận được nhưng không phải là lựa chọn tối ưu.<br>\*\*\*\* Kết quả tầm soát âm tính đầy đủ được định nghĩa là có 3 kết quả tầm soát tế bào học âm tính chính thức hoặc có 2 kết quả co-testing chính thức âm tính trong vòng 10 năm trước, kết quả gần nhất phải được thực hiện trong 5 năm trước._
-
 ### Điều kiện thực hiện
 
 Để đảm bảo test đủ tiêu chuẩn, Pap’s test phải được thực hiện khi đảm bảo những điều kiện cần thiết để lấy đủ và đúng tế bào:
@@ -61,6 +56,14 @@ _Cách lấy mẫu (từ trái sang)<br>1. Cytobrush: Lấy ở kênh tử cung,
 
 ![Cách trải lame](../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/cach-trai-lame.png)
 _Cách trải lame:<br>1. Chổi lớn: kéo để trải.<br>2. Cytobrush: lăn tròn để trải.<br>3. Que Ayre: kéo để trải._
+
+### HPV testing
+
+HPV testing thường được thực hiện cùng lúc với phết tế bào học cổ tử cung, gọi là co-testing.
+
+Các xét nghiệm HPV cần định rõ các type nguy cơ cao. Các khảo sát các genotypes HPV nguy cơ thấp có giá trị rất thấp, do không có ý nghĩa trong tầm soát ung thư.
+
+Xem thêm tại [HPV](../2-05_hpv).
 
 ### Phân loại tế bào học theo Bethesda 2014
 
@@ -162,29 +165,10 @@ Tổn thương trong biểu mô gai mức độ cao (HSIL):
 - CIN 3
 - Ung thư tại chỗ
 
-### HPV testing
-
-Ngày nay, HPV testing thường được thực hiện cùng lúc với phết tế bào học cổ tử cung, gọi là co-testing.
-
-Các xét nghiệm HPV cần định rõ các type nguy cơ cao. Các khảo sát các genotypes HPV nguy cơ thấp có giá trị rất thấp, do không có ý nghĩa trong tầm soát ung thư.
-
-Chỉ định HPV testing gồm:
-
-1. Xác định sự cần thiết phải soi cổ tử cung ở phụ nữ có kết quả tế bào học là ASC-US (reflex testing).
-2. Sử dụng như xét nghiệm thêm vào cùng với xét nghiệm tế bào học trong tầm soát ung thư cổ tử cung cho phụ nữ từ 30-65 tuổi hoặc lớn hơn (co-testing).
-3. Sau khi có kết quả kết quả tế bào học là ASCUS, LSIL và sau điều trị HSIL.
-4. Gần đây, xuất hiện khuynh hướng tầm soát dùng HPV testing như test đầu tay (tiếp cận sơ cấp) cho phụ nữ từ 25 tuổi trở lên.
-
 ### Quản lý tế bào học
 
 ![Quản lý tế bào học bất thường](../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/quan-ly-bat-thuong-te-bao-hoc-co-tu-cung.png)
 _Các khuyến cáo dựa theo: American Cancer Society, The American Society for Colposcopy and Cervical Pathology, và The American Society for Clinical Pathology. A: khuyến cáo mạnh, chứng cứ rõ ràng, hằng định. B: khuyến cáo trung bình, chứng cứ không hằng định. C: theo kinh nghiệm._
-
-Lựa chọn 1.
-![Sơ đồ 1](../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/ket-qua-te-bao-hoc-va-hpv-1.png)
-
-Lựa chọn 2.
-![Sơ đồ 2](../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/ket-qua-te-bao-hoc-va-hpv-2.png)
 
 ![ASC-US](../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/asc-us.png)
 _ASC-US - Tế bào biểu mô gai kém trưởng thành hơn bình thường, với nhân to trong các tế bào hồng rộng. Nhiều tế bào trong số này có nhân đôi bất thường. Các nhân rộng với bờ kém rõ. ASC-US đòi hỏi phải có quản lý riêng, như là 1 tổn thương có tiềm năng chuyển biến thành ung thư._

@@ -210,7 +210,7 @@ _Quản lý HSIL theo hướng dẫn của ASCCP 2012._
 
 #### Đặc điểm
 
-AIS (Adenocarcinoma in situ) tổn thương tại chỗ cổ tử cung tần suất nhưng có chiều hướng tăng. HPV được tìm thấy trong hơn 95% các trường hợp AIS.
+AIS (Adenocarcinoma in situ) tổn thương tại chỗ cổ tử cung nhưng có tần suất chiều hướng tăng. HPV được tìm thấy trong hơn 95% các trường hợp AIS.
 
 Các thương tổn trên soi cổ tử cung đối với AIS có thể rất nhỏ và AIS thường lan vào trong kênh cổ tử cung, vì vậy để xác định giới hạn của sang thương có thể gặp khó khăn, quyết định lựa chọn độ rộng và độ sâu phù hợp khi thực hiện thủ thuật cắt bỏ mô bệnh khi điều trị khó chính xác. Hơn nữa, tổn thương AIS có thể đa ổ và không liên tục, do đó bờ phẫu thuật dù không còn tế bào bất thường cũng không đảm bảo chắc chắn là mô bệnh đã được loại bỏ hoàn toàn.
 
