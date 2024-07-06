@@ -5,8 +5,6 @@ description: Ung thư cổ tử cung.
 
 Ung thư cổ tử cung là ung thư phổ biến thứ 4 ở phụ nữ và phổ biến thứ 2 ở phụ nữ trong độ tuổi sinh sản, sau ung thư vú.
 
-Nhiễm Human Papillomavirus (HPV) là nguyên nhân chính gây ưng thư cổ tử cung bởi các type nguy cơ cao bao gồm 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 66, 68. Trong đó type 16, 18 gây nên > 70% các trường hợp ung thư cổ tử cung.
-
 ## Chiến lược tầm soát ung thư cổ tử cung
 
 ![Chiến lược tầm soát ung thư cổ tử cung](../../../assets/phu-khoa/ung-thu-co-tu-cung/chien-luoc-tam-soat-ung-thu-co-tu-cung.png)

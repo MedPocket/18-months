@@ -3,6 +3,8 @@ title: Tổn thương biểu mô lát cổ tử cung
 description: Tổn thương biểu mô lát cổ tử cung.
 ---
 
+Cổ tử cung có thể tổn thương ở nhiều mức độ khác nhau.
+
 ## Các luận điểm về diễn biến của tân sinh biểu mô cổ tử cung
 
 ### Luận điểm cổ điển
