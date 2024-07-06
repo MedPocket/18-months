@@ -77,7 +77,7 @@ Tiếp tục nuôi con bằng sữa mẹ hay vắt sữa (cắt sữa trong trư
 
 ### Nội khoa
 
-Kháng sinh - chống viêm - giảm đau/
+Kháng sinh - chống viêm - giảm đau.
 
 Nguyên tắc dùng kháng sinh:
 
@@ -85,7 +85,7 @@ Nguyên tắc dùng kháng sinh:
 - Chỉnh theo kháng sinh đồ.
 - Điều trị kháng sinh trước và duy trì 10-14 ngày sau dẫn lưu ổ mủ.
 
-Nhiễm trùng nhẹ
+Nhiễm trùng nhẹ:
 
 - Dicloxacillin hoặc Cloxacillin 500mg 1 viên x 4 lần/ngày, uống trong 10-14 ngày
 - Không đáp ứng trong 24-48h chuyển sang Cephalexin 500mg 1 viên x 4 lần/ngày, uống trong 10-14 ngày
