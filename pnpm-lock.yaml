@@ -15,8 +15,8 @@ importers:
         specifier: ^4.11.5
         version: 4.11.5(typescript@5.5.3)
       astro-og-canvas:
-        specifier: ^0.5.2
-        version: 0.5.2(astro@4.11.5(typescript@5.5.3))
+        specifier: ^0.5.3
+        version: 0.5.3(astro@4.11.5(typescript@5.5.3))
       hast-util-to-string:
         specifier: ^3.0.0
         version: 3.0.0
@@ -745,8 +745,8 @@ packages:
     peerDependencies:
       astro: ^4.0.0-beta || ^3.3.0
 
-  astro-og-canvas@0.5.2:
-    resolution: {integrity: sha512-EH+GSgRlY0OgLSAUHq6JMKvA5PAOG1O5eAeC4/gbZmsRj1OQKxtdBXnHKbyCrmxCOKVu+nfXYMtsNiDKW9AlyA==}
+  astro-og-canvas@0.5.3:
+    resolution: {integrity: sha512-xy4k3D/fq4vq71B8CKsqBRuAd2kRJjMaeOMH9EFVtPPqudrDGXG2k87SdxPr5FATvttWpIjYplqK/vYJAoZ2DA==}
     engines: {node: '>=18.14.1'}
     peerDependencies:
       astro: ^3.0.0 || ^4.0.0
@@ -2746,7 +2746,7 @@ snapshots:
       astro: 4.11.5(typescript@5.5.3)
       rehype-expressive-code: 0.35.3
 
-  astro-og-canvas@0.5.2(astro@4.11.5(typescript@5.5.3)):
+  astro-og-canvas@0.5.3(astro@4.11.5(typescript@5.5.3)):
     dependencies:
       astro: 4.11.5(typescript@5.5.3)
       canvaskit-wasm: 0.39.1
