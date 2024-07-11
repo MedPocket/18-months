@@ -66,7 +66,7 @@ Xử trí bão giáp gồm:
 - Ngăn chặn về sau sự nito hóa $T_4$ thành $T_3$ bằng dexamethasone 8 mg/ngày.
 - Điều trị triệu chứng cường giao cảm bằng block β-Adrenergic như propranolol 20–80 mg/6 giờ, cung cấp đủ dịch và hạ thân nhiệt.
 
-Do kháng thể kích thích tuyến giáp có thể truyền qua rau, thoáng qua và duy trì ít nhất 2-3 tháng ở thai nên khoảng 1% phụ nữ bị Graves có con bị ngộ độc giáp, làm tăng tỉ lệ tử vong sơ sinh lên 16%. Nghi ngờ nhiễm độc giáp ở thai khi tim thai cơ bản hằng định trên 160 lần/phút. Bướu giáp thai có thể xác định được trên siêu âm.
+Do kháng thể kích thích tuyến giáp có thể truyền qua rau, thoáng qua và duy trì ít nhất 2-3 tháng ở thai nên khoảng 1% phụ nữ bị Graves có con bị ngộ độc giáp, làm tăng tỷ lệ tử vong sơ sinh lên 16%. Nghi ngờ nhiễm độc giáp ở thai khi tim thai cơ bản hằng định trên 160 lần/phút. Bướu giáp thai có thể xác định được trên siêu âm.
 
 ## Suy giáp
 
@@ -83,7 +83,7 @@ Tiêu chuẩn quan trọng nhất để chẩn đoán nhược giáp là tăng T
 ### Kết cục sản khoa của suy giáp
 
 Thiếu hormone tuyến giáp trong thai kỳ và giai đoạn sơ sinh sớm sẽ gây ra chậm phát triển tâm thần.
-Tỉ lệ mới mắc của nhược giáp bẩm sinh là khoảng 1:4000. Nguyên nhân là do loạn sản tuyến giáp, rối loạn chức năng tuyến giáp, suy giáp do thuốc. Nguyên nhân thường gặp nhất của bướu giáp sơ sinh là do mẹ dùng iod có trong si rô ho. Dạng bướu giáp này thường to và gây tắc nghẽn; khác với dạng bướu giáp do mẹ dùng
+Tỷ lệ mới mắc của nhược giáp bẩm sinh là khoảng 1:4000. Nguyên nhân là do loạn sản tuyến giáp, rối loạn chức năng tuyến giáp, suy giáp do thuốc. Nguyên nhân thường gặp nhất của bướu giáp sơ sinh là do mẹ dùng iod có trong si rô ho. Dạng bướu giáp này thường to và gây tắc nghẽn; khác với dạng bướu giáp do mẹ dùng
 PTU.
 
 ## Nguồn tham khảo

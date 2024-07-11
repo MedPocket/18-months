@@ -37,7 +37,7 @@ Những cấu trúc u dạng nang của buồng trứng kiểu II đa phần là
 
 Đa số những cấu trúc u dạng nang hay đặc của buồng trứng kiểu III, với đặc điểm có khối phản âm sáng hay đường phản âm sáng bên trong là những u nang dạng bì.
 
-Đa số những u có phân loại hình ảnh siêu âm thang xám từ kiểu I đến kiểu III có tỉ lệ ung thư rất thấp, gần bằng 0.
+Đa số những u có phân loại hình ảnh siêu âm thang xám từ kiểu I đến kiểu III có tỷ lệ ung thư rất thấp, gần bằng 0.
 
 Các khối u có phân loại hình ảnh siêu âm thang xám các kiểu IV, V, VI có liên quan đến khả năng có ung thư, nhưng giá trị dự báo dương (PPV) không đủ cao. Chỉ có các hình ảnh siêu âm kiểu VI mới có có giá trị dự đoán ung thư buồng trứng với độ đặc hiệu đủ cao, tức trên 90%.
 

@@ -24,7 +24,7 @@ Virus viêm gan B có thể được lây truyền dọc từ mẹ sang con (Mot
 _Cơ sở dữ liệu bằng chứng từ 8 RCT lớn cho thấy:_
 
 - _Trong trường hợp thực hiện đầy đủ các biện pháp phòng tránh, không có sự khác biệt về MTCT giữa nhóm có nuôi con bằng sữa mẹ và bằng sữa công thức, với Odds ratio là 0.86 (95% CI, 0.51-1.45).<br>_
-- _Cũng không có sự khác biệt về tỉ lệ trẻ có HBsAg dương 6-12 tháng sau sinh giữa 2 nhóm trẻ bú sữa công thức và nhóm trẻ bú mẹ, với Odds ratio là 0.98 (95% CI, 0.69-1.40).<br>_
+- _Cũng không có sự khác biệt về tỷ lệ trẻ có HBsAg dương 6-12 tháng sau sinh giữa 2 nhóm trẻ bú sữa công thức và nhóm trẻ bú mẹ, với Odds ratio là 0.98 (95% CI, 0.69-1.40).<br>_
 - _Không có bất cứ sự kiện hay biến chứng nào xảy ra ở nhóm trẻ được nuôi con bằng sữa mẹ._
 
 ## Viêm gan B trong thai kỳ

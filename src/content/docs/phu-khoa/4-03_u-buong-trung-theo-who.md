@@ -135,7 +135,7 @@ Hầu hết các u tế bào sáng là ác tính. Có sự liên quan chặt ch�
 Khối u này có dạng đặc vì chứa nhiều mô đệm và mô xơ bao quanh lớp tế bào biểu mô. U Brenner hiếm khi ác tính. Đây là 1 dạng tân sinh biểu mô lành tính hiếm gặp của buồng trứng. U Brenner thường gặp hơn ở phụ nữ lớn tuổi và có thể có mối liên quan với u dịch nhầy tại buồng trứng. U Brenner đơn độc phát hiện được thường tương đối nhỏ, so với những khối u dịch trong và đặc biệt là u nhầy.
 
 ![U Brenner](../../../assets/phu-khoa/u-buong-trung-theo-who/u-brenner.png)
-_Vi thể: Ghi nhận tỉ lệ cao mô đệm. Đây là u có dạng đặc._
+_Vi thể: Ghi nhận tỷ lệ cao mô đệm. Đây là u có dạng đặc._
 
 ### U xuất phát từ tế bào mầm
 
@@ -154,7 +154,7 @@ Do được hình thành sau phân bào giảm nhiễm, với thoái giáng tr�
 
 U quái trưởng thành (teratoma) lành tính là dạng thường thấy nhất (95%) của các u nghịch phôi lành tính của buồng trứng. U quái trưởng thành có thể là đơn mô hay đa mô.
 
-U quái đa mô có tỉ lệ ác tính rất thấp, có thể có tân sinh ác tính xuất hiện thứ phát từ u quái dạng bọc trưởng thành. U quái trưởng thành lành tính là khối u buồng trứng thường gặp nhất, từ 10-30 tuổi. U có bề mặt trơn láng, tổn thương chứa mô ngoại bì, trung bì hoặc nội bì đã trưởng thành (răng, da, tóc, nang, tuyến mồ hôi và tuyến bã). Nang được lót bởi thượng bì và cấu trúc phụ của nó, nên còn gọi là u bọc bì. Về vi thể, các mô đều trưởng thành.
+U quái đa mô có tỷ lệ ác tính rất thấp, có thể có tân sinh ác tính xuất hiện thứ phát từ u quái dạng bọc trưởng thành. U quái trưởng thành lành tính là khối u buồng trứng thường gặp nhất, từ 10-30 tuổi. U có bề mặt trơn láng, tổn thương chứa mô ngoại bì, trung bì hoặc nội bì đã trưởng thành (răng, da, tóc, nang, tuyến mồ hôi và tuyến bã). Nang được lót bởi thượng bì và cấu trúc phụ của nó, nên còn gọi là u bọc bì. Về vi thể, các mô đều trưởng thành.
 
 ![U bì buồng trứng](../../../assets/phu-khoa/u-buong-trung-theo-who/u-bi-buong-trung.png)
 
@@ -169,7 +169,7 @@ U quái giáp đơn mô có tiềm năng ác tính cao. Đôi khi cường giáp
 
 Nếu tế bào sau phân bào I giảm nhiễm bị thoái giáng nhưng không biệt hóa theo hướng các cấu trúc phôi, mà lại biệt hóa theo hướng các cấu trúc ngoài phôi kiểu lá nuôi hoặc kiểu túi noãn hoàng (yolk-sac), ta sẽ các khối u nghịch phôi với thành phần là các cấu trúc ngoài phôi. Phần lớn các u nghịch phôi theo hướng cấu trúc ngoài phôi là các u ác tính. Thường thấy là choriocarcinoma không thai kỳ và u túi noãn hoàng.
 
-U yolk-sac là loại u tế bào mầm có tỉ lệ tử vong cao nhất. Là 1 trong các u nghịch phôi phát triển theo chiều hướng ngoài phôi, u yolk-sac chiếm 20% u tế bào mầm (thường gặp thứ 2) và có tiềm năng ác tính cao nhất trong tất cả u tế bào mầm. U có độ tuổi chẩn đoán trung bình là 19. U thường 1 bên.
+U yolk-sac là loại u tế bào mầm có tỷ lệ tử vong cao nhất. Là 1 trong các u nghịch phôi phát triển theo chiều hướng ngoài phôi, u yolk-sac chiếm 20% u tế bào mầm (thường gặp thứ 2) và có tiềm năng ác tính cao nhất trong tất cả u tế bào mầm. U có độ tuổi chẩn đoán trung bình là 19. U thường 1 bên.
 
 Choriocarcinoma không thai kỳ là 1 u tế bào mầm hiếm gặp, không liên quan đến thai kỳ. Các tế bào nuôi ở đây có nguồn gốc từ thoái giáng theo chiều hướng ngoài phôi của các tế bào mầm đã qua phân bào I giảm nhiễm. Trong choriocarcinoma không thai kỳ vẫn có tăng hCG, nhưng tăng ít. hCG tăng dẫn đến hệ quả kích thích buồng trứng, gây nên các động nội tiết của buồng trứng và từ đó gây dậy thì sớm, chảy máu tử cung hoặc vô kinh. Vi thể u gồm nguyên bào nuôi, nguyên bào nuôi trung gian và hợp bào nuôi. Độ ác tính thường cao.
 
@@ -275,7 +275,7 @@ Khối u buồng trứng không thoái hóa ác tính. Chỉ có các khối u b
 Các khối u buồng trứng di động, có tỷ trọng lớn có nhiều khả năng bị xoắn.
 
 ![Khối u buồng trứng xoắn trong thai kỳ](../../../assets/phu-khoa/u-buong-trung-theo-who/u-buong-trung-xoan.png)
-_Ảnh chụp 1 u buồng trứng bị xoắn ở 1 thai phụ có thai ở tam cá nguyệt thứ nhì. Khi tử cung to lên, khối u sẽ lọt ra khỏi vùng chậu. Lúc này, với tỉ trọng lớn và khoảng không gian rộng, các khối u buồng trứng sẽ rất dễ bị xoắn. Trường hợp này u buồng trứng xoắn bị mổ muộn, với buồng trứng hoại tử tím đen._
+_Ảnh chụp 1 u buồng trứng bị xoắn ở 1 thai phụ có thai ở tam cá nguyệt thứ nhì. Khi tử cung to lên, khối u sẽ lọt ra khỏi vùng chậu. Lúc này, với tỷ trọng lớn và khoảng không gian rộng, các khối u buồng trứng sẽ rất dễ bị xoắn. Trường hợp này u buồng trứng xoắn bị mổ muộn, với buồng trứng hoại tử tím đen._
 
 Buồng trứng là 1 cơ quan tự do trong xoang phúc mạc, chỉ được cố định bằng mạc treo buồng trứng, dây chằng thắt lưng buồng trứng, dây chằng tử cung buồng trứng. Cả 3 cấu trúc này rất lỏng lẻo, làm cho buồng trứng là cơ quan rất dễ thay đổi vị trí.
 

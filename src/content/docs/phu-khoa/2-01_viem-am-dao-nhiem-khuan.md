@@ -71,7 +71,7 @@ Có 2 trong 3 tiêu chuẩn:
 
 Đa số tình trạng loạn khuẩn âm đạo có thể tự khỏi mà không cần bất cứ can thiệp nào. Điều này xác nhận rằng khuẩn hệ có khả năng tự điều chỉnh để thích nghi với các biến động bất lợi của môi trường âm đạo.
 
-Khi cần điều trị, có 2 kháng sinh được đưa ra để lựa chọn là metronidazole (uống hay gel âm đạo) hoặc clindamycin (kem âm đạo). Loạn khuẩn âm đạo đáp ứng rất tốt với điều trị. Tuy nhiên, tỉ lệ tái phát của loạn khuẩn âm đạo rất cao, kể cả ngắn hạn (dưới 3 tháng) (15-30%) và trung hạn (dưới 1 năm) (đến 70%).
+Khi cần điều trị, có 2 kháng sinh được đưa ra để lựa chọn là metronidazole (uống hay gel âm đạo) hoặc clindamycin (kem âm đạo). Loạn khuẩn âm đạo đáp ứng rất tốt với điều trị. Tuy nhiên, tỷ lệ tái phát của loạn khuẩn âm đạo rất cao, kể cả ngắn hạn (dưới 3 tháng) (15-30%) và trung hạn (dưới 1 năm) (đến 70%).
 
 ![Điều trị loạn khuẩn âm đạo CDC 2010](../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/dieu-tri-loan-khuan-theo-cdc-2010.png)
 _Điều trị loạn khuẩn âm đạo theo CDC 2010._
