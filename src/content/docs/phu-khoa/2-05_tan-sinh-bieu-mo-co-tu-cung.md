@@ -1,6 +1,6 @@
 ---
-title: Tổn thương biểu mô lát cổ tử cung
-description: Tổn thương biểu mô lát cổ tử cung.
+title: Tân sinh biểu trong biểu mô cổ tử cung
+description: Tân sinh biểu trong biểu mô cổ tử cung.
 ---
 
 Cổ tử cung có thể tổn thương ở nhiều mức độ khác nhau.
@@ -11,7 +11,7 @@ Cổ tử cung có thể tổn thương ở nhiều mức độ khác nhau.
 
 Tân sinh trong biểu mô cổ tử cung bắt đầu từ các thay đổi rất nhẹ của biểu mô lát, tiến triển dần thành các tổn thương trong biểu mô có mức độ cao hơn, cuối cùng là ung thư.
 
-![Luận điểm cổ điển về tiến triển tự nhiên của tổn thương biểu mô cổ tử cung](../../../assets/phu-khoa/ton-thuong-bieu-mo-lat-co-tu-cung/luan-diem-co-dien-ve-tien-trien-tu-nhien-bieu-mo-co-tu-cung.png)
+![Luận điểm cổ điển về tiến triển tự nhiên của tổn thương biểu mô cổ tử cung](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/luan-diem-co-dien-ve-tien-trien-tu-nhien-bieu-mo-co-tu-cung.png)
 _Luận điểm cổ điển về tiến triển tự nhiên của tổn thương biểu mô cổ tử cung._
 
 Cổ điển, dựa trên các biến đổi mô bệnh học quan sát thấy trên bệnh phẩm sinh thiết, người ta phân biệt 3 mức độ tổn thương của tân sinh trong biểu mô cổ tử cung CIN 1, 2, 3:
@@ -27,7 +27,7 @@ Cổ điển, căn cứ vào tính chất bất thường của các tế bào b
 - Tổn thương mức độ thấp (LSIL).
 - Tổn thương mức độ cao (HSIL).
 
-![Phân chia cổ điển](../../../assets/phu-khoa/ton-thuong-bieu-mo-lat-co-tu-cung/phan-chia-co-dien.png)
+![Phân chia cổ điển](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/phan-chia-co-dien.png)
 _Phân chia cổ điển.<br>CIN mô tả theo bệnh học của mô lát. Tế bào học quan tâm đến các tế bào bề mặt. Ghi nhận sự biến đổi song hành của tổn thương tế bào bề mặt và tế bào đáy. Khi tế bào dưới đáy bị thay đổi thì sẽ kéo theo các thay đổi thấy được trên bề mặt._
 
 ### Luận điểm hiện đại
@@ -53,7 +53,7 @@ Các trường hợp nhiễm HPV cấp thường biểu hiện bằng tân sinh 
 
 Có thể xem CIN 1 được xem là biểu hiện cấp tính của nhiễm HPV thoáng qua. Phần lớn CIN 1 có thể tự thoái triển. Chỉ khoảng 10% CIN 1 tiến triển thành CIN 2 và CIN 3 sau 2 năm. CIN 3 được coi là 1 tổn thương tiền ung thư thực sự việc phát triển thành tổn thương mức độ cao phụ thuộc vào type HPV. Type 16 gây CIN 2, 3 ở độ tuổi sớm hơn so với các type HPV gây ung thư khác. Việc định type HPV có vai trò quan trọng trong việc tiên liệu 1 tổn thương sẽ thoái triển hay tiến triển.
 
-![Luận điểm hiện đại về tiến triển không theo trình tự cổ điển](../../../assets/phu-khoa/ton-thuong-bieu-mo-lat-co-tu-cung/luan-diem-hien-dai-ve-tien-trien-tu-nhien-bieu-mo-co-tu-cung.png)
+![Luận điểm hiện đại về tiến triển không theo trình tự cổ điển](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/luan-diem-hien-dai-ve-tien-trien-tu-nhien-bieu-mo-co-tu-cung.png)
 _Mọi trường hợp nhiễm HPV đều có thể thoái triển hay tiến triển. Sự tiến triển có thể là trực tiếp mà không thông qua các mức độ trung gian. Vì thế, chiến lược quản lý tổn thương trong biểu mô cổ tử cung phải tập trung vào các đặc điểm sinh học hơn là chỉ tập trung vào phân loại tổn thương._
 
 ## Dị sản cổ tử cung
@@ -72,12 +72,12 @@ HPV ức chế các hoạt động apoptosis của tế bào chuyển sản và 
 
 Các tế bào thoát khỏi apoptosis (do E6) và bị kích hoạt tăng trưởng không kiểm soát (do E7) sẽ trở thành tế bào dị sản ở các mức độ khác nhau, tùy theo mức độ bị chi phối.
 
-![E6 và E7 trong cơ chế sinh ung thư của HPV type 16](../../../assets/phu-khoa/ton-thuong-bieu-mo-lat-co-tu-cung/e6-va-e7-trong-co-che-gay-ung-thu-cua-hpv.png)
+![E6 và E7 trong cơ chế sinh ung thư của HPV type 16](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/e6-va-e7-trong-co-che-gay-ung-thu-cua-hpv.png)
 _E6 và E7 trong cơ chế sinh ung của HPV type 16.<br>Các tế bào thoát khỏi apoptosis (do E6 bất hoạt p53) và bị kích hoạt tăng trưởng không kiểm soát (do E7 gắn với pRb giải phóng E2F) sẽ trở thành tế bào dị sản ở các mức độ khác nhau, tùy theo mức độ bị chi phối._
 
 Tuy là điều kiện cần, nhưng nếu chỉ có nhiễm HPV thì chưa phải là điều kiện đủ để gây dị sản và ung thư. Các đáp ứng miễn dịch, đặc biệt là miễn dịch thích nghi qua tế bào (CMI) có vai trò quan trọng trong việc điều chỉnh tải lượng HPV và có thể làm đảo ngược quá trình. Sự đảo ngược tiến trình dị sản có thể xảy ra trong 80% các trường hợp. Tuy nhiên, trong 1 số trường hợp khác, khoảng 10%, diễn tiến của tế bào dị sản là đi đến ung thư.
 
-![Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3, cũng như chiều hướng tiến triển của chúng](../../../assets/phu-khoa/ton-thuong-bieu-mo-lat-co-tu-cung/su-khac-biet-ve-sinh-hoc-cin-1-2-3-va-chieu-huong-cua-chung.png)
+![Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3, cũng như chiều hướng tiến triển của chúng](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/su-khac-biet-ve-sinh-hoc-cin-1-2-3-va-chieu-huong-cua-chung.png)
 _Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3, cũng như chiều hướng tiến triển của chúng.<br>Sơ đồ về tiềm năng sinh học của các tế bào này căn cứ vào khả năng kết hợp của DNA virus vào tế bào chủ, khả năng tẩy sạch virus, khả năng điều hòa chu trình tế bào... cho thấy vì sao CIN 1 được xem như biểu hiện cấp tính của nhiễm HPV thoáng qua. Ngược lại, CIN 3 thường được coi là 1 tiền ung thư thực sự._
 
 ### Các yếu tố nguy cơ
@@ -113,7 +113,7 @@ Diễn tiến tự nhiên của ASC-US sau 24 tháng:
 - Tiến triển thành HSIL : 7%.
 - Tiến triển thành ung thư xâm lấn: 0.25%.
 
-#### Quản lý ASC-US (ASCCP 2012)
+#### Quản lý ASC-US
 
 Nguyên tắc của quản lý ASC-US là thiên về theo dõi hơn là điều trị, tránh xử trí quá mức có thể gây hại.
 
@@ -124,7 +124,7 @@ Các bệnh nhân có kết quả tế bào học cổ tử cung là ASCUS nên 
 - Nếu HPV âm tính, thực hiện co-testing sau 3 năm.
 - Nếu HPV dương tính, thực hiện soi cổ tử cung ngay hoặc làm lại tế bào học sau 1 năm.
 
-![Quản lý ASC-US theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/ton-thuong-bieu-mo-lat-co-tu-cung/quan-ly-asc-us-asccp-2012.png)
+![Quản lý ASC-US theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-asc-us-asccp-2012.png)
 _Quản lý ASC-US theo hướng dẫn của ASCCP 2012 ở dân số chung._
 
 Phụ nữ trẻ dưới 24 tuổi với ASC-US, cần có 1 quản lý riêng, do đối với trẻ vị thành niên, nguy cơ tiến triển thành ung thư xâm lấn gần như là 0% và tỉ lệ thanh thải virus HPV cao. Có thể thực hiện xét nghiệm tế bào học lại sau 1 năm:
@@ -133,7 +133,7 @@ Phụ nữ trẻ dưới 24 tuổi với ASC-US, cần có 1 quản lý riêng, 
 - Nếu kết quả tế bào học bình thường, thực hiện lại tế bào học sau 1 năm.
 - Nếu tế bào sau 2 năm bình thường, có thể cho bệnh nhân quay lại tầm soát thường quy, nếu bất thường thì soi cổ tử cung.
 
-hoặc có thể làm test HPV ngay
+hoặc có thể làm test HPV ngay:
 
 - Nếu HPV dương tính, làm lại tế bào học sau 12 và 24 tháng như trên.
 - Nếu HPV âm tính, cho bệnh nhân tầm soát thường quy định kỳ theo lịch.
@@ -144,6 +144,9 @@ Quản lý ASC-US ở phụ nữ có thai giống như quản lý ở phụ nữ
 
 - Chống chỉ định nạo kênh cổ tử cung ở phụ nữ có thai.
 - Có thể chấp nhận trì hoãn soi cổ tử cung cho đến hết 6 tuần hậu sản.
+
+![Quản lý ASC-US theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-asc-us-benh-vien-tu-du.jpeg)
+_Quản lý ASC-US theo Bệnh viện Từ Dũ._
 
 ### LSIL
 
@@ -163,7 +166,7 @@ Về tiến triển của LSIL, các nghiên cứu cho thấy:
 
 Dù rằng nhiễm HPV cũng là 1 yếu tố ảnh hưởng đến thời gian thoái triển của LSIL, tuy nhiên do có hơn 90% tổn thương LSIL có HPV (+), nên việc dùng test HPV để phân tầng theo dõi đối với tổn thương LSIL là ít có giá trị.
 
-#### Quản lý LSIL (ASCCP 2012)
+#### Quản lý LSIL
 
 Các bệnh nhân có LSIL cần được soi cổ tử cung và xử lý theo kết quả soi và sinh thiết cổ tử cung.
 
@@ -179,8 +182,11 @@ LSIL trên dân số đặc biệt:
   - Nếu HPV dương tính hoặc tế bào học làm lại &ge; ASC, thì phải thực hiện soi cổ tử cung.
   - Có thể quay lại tầm soát thường quy nếu có xét nghiệm tế bào học âm tính 2 lần liên tiếp.
 
-![Quản lý LSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/ton-thuong-bieu-mo-lat-co-tu-cung/quan-ly-lsil-asccp-2012.png)
+![Quản lý LSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-lsil-asccp-2012.png)
 _Quản lý LSIL theo hướng dẫn của ASCCP 2012._
+
+![Quản lý LSIL theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-lsil-benh-vien-tu-du.jpeg)
+_Quản lý LSIL theo Bệnh viện Từ Dũ._
 
 ### HSIL
 
@@ -200,13 +206,65 @@ Diễn tiến của HSIL sau 24 tháng:
 
 Trong các kết quả tế bào học là HSIL, có gần 70% các trường hợp được báo cáo là có CIN 2 hoặc CIN 3, và 1-2% trường hợp có ung thư xâm lấn. Vì vậy, tổn thương HSIL nên được soi cổ tử cung ngay và sinh thiết thương tổn nhìn thấy được. Nạo kênh cổ tử cung ở các bệnh nhân không đang mang thai. Nên khám toàn bộ âm đạo, nhất là khi tổn thương không tương ứng với kết quả tế bào học. Cắt bằng vòng điện (LEEP) có thể thực hiện ngay cùng lúc với soi cổ tử cung, sinh thiết cổ tử cung có thể bỏ qua và có thể đánh giá kênh cổ tử cung sau khi làm LEEP.
 
-#### Quản lý HSIL (ASCCP 2012)
+#### Quản lý HSIL
 
 Soi cổ tử cung ở bất cứ độ tuổi nào của bệnh nhân.<br>
 hoặc<br>
 Khoét chóp ngay (ngoại trừ bệnh nhân còn trẻ dưới 25 tuổi hoặc phụ nữ có thai).
-![Quản lý HSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/ton-thuong-bieu-mo-lat-co-tu-cung/quan-ly-hsil-asccp-2012.png)
+![Quản lý HSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-hsil-asccp-2012.png)
 _Quản lý HSIL theo hướng dẫn của ASCCP 2012._
+
+![Quản lý HSIL theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-hsil-benh-vien-tu-du.jpeg)
+_Quản lý HSIL theo Bệnh viện Từ Dũ._
+
+### ASC-H
+
+#### Đặc điểm
+
+ASC-H (Atypical squamous cells - cannot exclude high grade squamous intraepithelial lesion) tế bào vảy không điển hình, không thể loại trừ HSIL. Kết quả giáp biên, nhưng thực sự có thể bao gồm các tổn thương mức độ cao.
+
+#### Quản lý ASC-H
+
+![Quản lý ASC-H theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-asc-h-benh-vien-tu-du.jpeg)
+_Quản lý ASC-H theo Bệnh viện Từ Dũ._
+
+### AGC hoặc AG-US
+
+#### Đặc điểm
+
+AGC (Atypical glandular cells) tế bào tuyến không điển hình hoặc AGUS (Atypical glandular cells of undetermined significance) tế bào tuyến không điển hình có ý nghĩa chưa xác định. Chẩn đoán có nghĩa rằng cần cân nhắc sự thay đổi ở những tế bào tuyến này ở mức độ tổn thương tiền ung thư và ung thư.
+
+#### Quản lý AGC hoặc AGUS
+
+![Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-agc-agus-benh-vien-tu-du.jpeg)
+_Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ._
+
+![Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-agc-huong-ve-tang-san-tuyen-benh-vien-tu-du.jpeg)
+_Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ._
+
+### CIN 1
+
+#### Đặc điểm
+
+Đa số các trường hợp CIN 1 hầu hết sẽ thoái triển tự nhiên sau đó. Tỉ lệ CIN 1 không điều trị tiến triển thành CIN 2 hoặc CIN 3 sau 2 năm là 13%. Do đó, quyết định điều trị hay theo dõi là tuỳ thuộc vào thảo luận với bệnh nhân. Theo dõi là biện pháp tốt nhất giúp cân bằng giữa lợi ích và nguy cơ.
+
+#### Quản lý CIN 1
+
+![Quản lý CIN 1 theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-cin-1-benh-vien-tu-du.jpeg)
+_Quản lý CIN 1 theo Bệnh viện Từ Dũ._
+
+### CIN 2 và CIN 3
+
+#### Đặc điểm
+
+CIN 2, CIN 3 được xem là các tổn thương tiền ung thư. Phương pháp cắt mô hoặc hủy mô được khuyến nghị ở phụ nữ không đang mang thai, trừ 1 số trường hợp đặc biệt.
+
+Có gần 40% các CIN 2 thoái triển tự nhiên về bình thường sau 2 năm. Ngược lại, rất hiếm khi CIN 3 tự thoái triển.
+
+#### Quản lý
+
+![Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-agc-agus-benh-vien-tu-du.jpeg)
+_Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ._
 
 ### AIS
 
@@ -216,7 +274,7 @@ AIS (Adenocarcinoma in situ) tổn thương tại chỗ cổ tử cung nhưng c�
 
 Các thương tổn trên soi cổ tử cung đối với AIS có thể rất nhỏ và AIS thường lan vào trong kênh cổ tử cung, vì vậy để xác định giới hạn của sang thương có thể gặp khó khăn, quyết định lựa chọn độ rộng và độ sâu phù hợp khi thực hiện thủ thuật cắt bỏ mô bệnh khi điều trị khó chính xác. Hơn nữa, tổn thương AIS có thể đa ổ và không liên tục, do đó bờ phẫu thuật dù không còn tế bào bất thường cũng không đảm bảo chắc chắn là mô bệnh đã được loại bỏ hoàn toàn.
 
-#### Quản lý AIS (ASCCP 2012)
+#### Quản lý AIS
 
 Cắt tử cung được lựa chọn đối với bệnh nhân đủ con. Điều trị bảo tồn tử cung là lựa chọn có thể chấp nhận ở bệnh nhân còn mong con, với các điều kiện theo dõi nghiêm ngặt và dài hạn sau đó.
 
@@ -224,9 +282,15 @@ Do các đặc điểm bệnh học trên: nằm sâu, đa ổ và không thể 
 
 Đối với AIS, khoét chóp bằng dao lạnh được ưa dùng hơn LEEP vì cắt bằng dao lạnh có thể đánh giá tốt bờ phẫu thuật tốt, giúp cho việc lên kế hoạch điều trị tiếp theo. Nếu bờ phẫu thuật còn tế bào bất thường hoặc mô nạo kênh có CIN hoặc AIS, có thể cắt lại (ưu tiên) hoặc theo dõi đánh giá lại sau 6 tháng (chấp nhận).
 
-![ Quản lý AIS theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/ton-thuong-bieu-mo-lat-co-tu-cung/quan-ly-ais-asccp-2012.png)
+![Quản lý AIS theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-ais-asccp-2012.png)
 _Quản lý AIS theo hướng dẫn của ASCCP 2012._
+
+### Nghi ngờ ung thư cổ tử cung trong thai kỳ
+
+![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky-benh-vien-tu-du.jpeg)
+_Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
 - TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA 2022 - Bệnh viện Từ Dũ.
