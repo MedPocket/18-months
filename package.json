@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "@types/html-escaper": "^3.0.2",
+    "canvaskit-wasm": "^0.39.1",
     "prettier": "^3.3.2",
     "prettier-plugin-astro": "^0.14.0",
     "typescript": "^5.5.3"

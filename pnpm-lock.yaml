@@ -51,6 +51,9 @@ importers:
       '@types/html-escaper':
         specifier: ^3.0.2
         version: 3.0.2
+      canvaskit-wasm:
+        specifier: ^0.39.1
+        version: 0.39.1
       prettier:
         specifier: ^3.3.2
         version: 3.3.2
