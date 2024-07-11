@@ -52,7 +52,8 @@ Bình thường âm đạo có tiết dịch. Dịch tiết âm đạo có ngu�
 
 ## Sơ đồ xử trí tiết dịch âm đạo bất thường
 
-![Sơ đồ xử trí tiết dịch âm đạo bất thường](../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/so-do-tiet-dich-am-dao-bat-thuong.png)
+![Sơ đồ xử trí tiết dịch âm đạo bất thường theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/so-do-tiet-dich-am-dao-bat-thuong.jpeg)
+_Sơ đồ xử trí tiết dịch âm đạo bất thường theo Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
