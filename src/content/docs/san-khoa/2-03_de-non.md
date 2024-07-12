@@ -78,7 +78,7 @@ Chiều dài kênh cổ tử cung được hiểu là khoảng cách đo đượ
 
 Vào tuần lễ 24 của thai kỳ, trên 1 thai phụ không có triệu chứng, nếu chiều dài cổ tử cung ngắn < 25 mm thì nguy cơ sinh non sẽ tăng lên. Ngược lại, nếu có các cơn gò tử cung nhưng cổ tử cung vẫn còn dài hơn 30 mm thì nguy cơ có sinh non trong vòng 7 ngày kế tiếp chỉ là 1%.
 
-Năm 2015, FIGO khuyến cáo thực hiện việc khảo sát chiều dài kênh cổ tử cung thường qui ở tuổi thai 19-23 tuần 6 ngày.
+Năm 2015, FIGO khuyến cáo thực hiện việc khảo sát chiều dài kênh cổ tử cung thường quy ở tuổi thai 19-23 tuần 6 ngày.
 
 ![Chiều dài cổ tử cung](../../../assets/san-khoa/de-non/chieu-dai-co-tu-cung.png)
 

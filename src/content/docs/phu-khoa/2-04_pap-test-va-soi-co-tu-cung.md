@@ -46,7 +46,7 @@ Phải cung cấp đủ thông tin cần thiết cho người đọc tế bào c
 
 Pap’s test quy ước: thực hiện 2 lame phết tế bào cổ ngoài và cổ trong. Trên lame có ghi bằng bút chì đầy đủ tên, tuổi, và vị trí lấy bệnh phẩm là cổ tử cung ngoài hay cổ tử cung trong) bằng viết chì. Pap’s test Thin Prep, làm tương tự với lọ đựng mẫu tế bào thu thập được.
 
-Tế bào lấy ra được cố định bằng dung dịch cồn $95^o$ hoặc keo phun (Pap’s test qui ước) hoặc bằng môi trường của Thin Prep (Pap’s test nhúng dịch).
+Tế bào lấy ra được cố định bằng dung dịch cồn $95^o$ hoặc keo phun (Pap’s test quy ước) hoặc bằng môi trường của Thin Prep (Pap’s test nhúng dịch).
 
 ![Dụng cụ làm Pap's test](../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/dung-cu-lam-pap.png)
 _Dụng cụ để làm Pap’s test (từ trái sang):<br>1. Cytobrush dùng cho kênh cổ tử cung.<br>2. Que Ayre dùng cho Pap’s test quy ước.<br>3. Chổi lớn thường dùng cho Pap’s test Thin Prep._

@@ -47,7 +47,7 @@ Hệ thống phân loại Tokyo cho phép đánh giá được 1 cách đáng ti
 
 Cũng như mọi tân sinh ác tính khác, các cấu trúc tân lập ác tính của buồng trứng có hiện tượng tân tạo mạch. Tân tạo mạch làm giảm trở kháng các dòng chảy, và trở thành 1 đặc điểm bổ sung quan trọng nhằm mục tiêu cải thiện dự báo dương có ác tính của khối tân lập. So với siêu âm thang xám đơn độc, việc kết hợp của siêu âm Doppler và siêu âm thang xám cải thiện rõ rệt độ chuyện biệt cũng như giá trị dự báo dương có ung thư buồng trứng, với Pooled Specificity lên đến 0.78.
 
-Hệ thống phân tích IOTA (International Ovarian Tumor Analysis) được Timmerman 2010 trình bày vào năm 2010, sử dụng thêm các đặc điểm siêu âm Doppler. Các kết quả báo cáo cho thấy độ nhạy với ung thư buồng trứng là 91% và độ chuyên biệt lên đến 95%. Do đạt được 1 độ chuyên biệt chấp nhận được nên hệ thống IOTA cho phép việc phân chia hình ảnh thành các qui tắc lành tính (B1-B5) và các qui tắc ác tính (M1-M5):
+Hệ thống phân tích IOTA (International Ovarian Tumor Analysis) được Timmerman 2010 trình bày vào năm 2010, sử dụng thêm các đặc điểm siêu âm Doppler. Các kết quả báo cáo cho thấy độ nhạy với ung thư buồng trứng là 91% và độ chuyên biệt lên đến 95%. Do đạt được 1 độ chuyên biệt chấp nhận được nên hệ thống IOTA cho phép việc phân chia hình ảnh thành các quy tắc lành tính (B1-B5) và các quy tắc ác tính (M1-M5):
 
 - Các quy tắc của lành tính (B-rules) gồm:
   - B1: U chỉ gồm 1 thùy đơn độc.
