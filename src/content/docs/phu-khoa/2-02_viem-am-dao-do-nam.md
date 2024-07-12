@@ -74,7 +74,7 @@ Theo CDC 2010, VVC được chia làm 2 dạng không biến chứng và có bi�
 
 ### Nguyên tắc điều trị
 
-Việc tự điều trị bằng thuốc không cần kê toa (tự điều trị) đối với phụ nữ có VVC có thể an toàn và hiệu quả. Tuy nhiên bất kỳ sự không đáp ứng với thuốc hoặc bị tái phát sớm sau điều trị cần phải được khám xét bởi bác sĩ lâm sàng để cho 1 chẩn đoán đáng tin cậy. Những bệnh nhân tự điều trị được khuyên ngưng thuốc ba ngày trước khi khám lại.
+Việc tự điều trị bằng thuốc không cần kê toa (tự điều trị) đối với phụ nữ có VVC có thể an toàn và hiệu quả. Tuy nhiên bất kỳ sự không đáp ứng với thuốc hoặc bị tái phát sớm sau điều trị cần phải được khám xét bởi bác sĩ lâm sàng để cho 1 chẩn đoán đáng tin cậy. Những bệnh nhân tự điều trị được khuyên ngưng thuốc 3 ngày trước khi khám lại.
 
 Điều trị VVC tùy thuộc trước tiên vào nhóm nhiễm nào có hay không có biến chứng.
 

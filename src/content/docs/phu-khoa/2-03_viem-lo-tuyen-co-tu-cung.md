@@ -78,7 +78,7 @@ Trong môi trường acid của âm đạo và do đáp ứng với thay đổi 
 Vùng SCJ mới được hình thành giữa biểu mô chuyển sản lát non mới và biểu mô trụ bị đẩy dần về phía cổ ngoài cổ tử cung. Ở những phụ nữ từ tuổi sinh sản đến quanh mãn kinh, vị trí của SCJ mới tiến triển hướng về cổ ngoài cổ tử cung. Do vậy, SCJ mới có nhiều vị trí khác nhau trên cổ ngoài cổ tử cung. Vị trí này lệ thuộc vào kết quả của tiến triển của biểu mô lát non trên vùng biểu mô trụ nằm ở cổ ngoài cổ tử cung. Tiến trình xảy ra từ giai đoạn tuổi sinh sản đến tuổi quanh mãn kinh của người phụ nữ. Vùng ranh giới lát trụ mới cũng như vùng chuyển sản có thể được quan sát thấy khi đặt mỏ vịt. Tuy nhiên, có 15% phụ nữ có vùng chuyển tiếp nằm sâu trong kênh cổ tử cung và không quan sất được khi đặt mỏ vịt.
 
 ![Vùng chuyển sản](../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/vung-chuyen-san-1.png)
-_Trên hình, ta quan sát được trọn vẹn toàn bộ các điểm mốc quan trọng. Biểu mô lát nguyên thủy màu hồng sậm ở ngoài cùng, kế tiếp bằng vùng chuyển sản màu hồng tái. Giữa hai vùng này là SCJ nguyên thủy. Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới. Có thể thấy được 1 vài cửa tuyến trên vùng chuyển sản._
+_Trên hình, ta quan sát được trọn vẹn toàn bộ các điểm mốc quan trọng. Biểu mô lát nguyên thủy màu hồng sậm ở ngoài cùng, kế tiếp bằng vùng chuyển sản màu hồng tái. Giữa 2 vùng này là SCJ nguyên thủy. Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới. Có thể thấy được 1 vài cửa tuyến trên vùng chuyển sản._
 
 Khi vào giai đoạn quanh mãn kinh và bắt đầu mãn kinh, do thiếu hụt estrogen, cổ tử cung thu nhỏ lại làm cho SCJ mới di chuyển vào trong kênh cổ tử cung. Đến giai đoạn mãn kinh, SCJ mới không quan sát được qua khám mỏ vịt nữa.
 

@@ -242,7 +242,7 @@ Ung thư đại tràng, ung thư dạ dày các là ung thư được nhắc đ�
 trưng.
 
 ![U Krukenberg](../../../assets/phu-khoa/u-buong-trung-theo-who/u-krukenberg.png)
-_Đại thể: u đặc, có thể 1 hay hai bên. Vi thể: Các tế bào hình nhẫn (signet ring cell) kinh điển trong u Krukenberg di căn từ dạ dày._
+_Đại thể: u đặc, có thể 1 hay 2 bên. Vi thể: Các tế bào hình nhẫn (signet ring cell) kinh điển trong u Krukenberg di căn từ dạ dày._
 
 ### Biểu hiện lâm sàng các khối u tân lập
 

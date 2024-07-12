@@ -133,7 +133,7 @@ Các khối lạc nội mạc tử cung buồng trứng lớn có thể chèn é
 
 Adenomyosis có ảnh hưởng trên khả năng mang thai cũng kết cục của thai kỳ:
 
-- Thai ngoài tử cung xảy ra với tần xuất cao hơn bình thường trên bệnh nhân có adenomyosis, ngay cả trên bệnh nhân đã bị cắt bỏ hai vòi Fallope. Người ta giả định rằng các nhu động nghịch thường của adenomyosis có xu hướng gây ra các dòng vận chuyển ngược dòng về phía vòi Fallope.
+- Thai ngoài tử cung xảy ra với tần xuất cao hơn bình thường trên bệnh nhân có adenomyosis, ngay cả trên bệnh nhân đã bị cắt bỏ 2 vòi Fallope. Người ta giả định rằng các nhu động nghịch thường của adenomyosis có xu hướng gây ra các dòng vận chuyển ngược dòng về phía vòi Fallope.
 - Nhau tiền đạo và nhau cài răng lược cũng thường gặp hơn trong các thai kỳ ở bệnh nhan có adenomyosis.
 
 ### Cận lâm sàng
@@ -281,7 +281,7 @@ Do tính chất lan tỏa của tổn thương, nên khi dùng HIFU cho adenomyo
 
 #### Phẫu thuật giảm khối (phẫu thuật Osada)
 
-Phẫu thuật Osada nhằm vào hai mục tiêu chính: (1) lấy bỏ 1 phần tổn thương adenomyosis, nhằm tái lập lại cấu trúc giải phẫu bình thường của tử cung, và (2) giảm nhẹ các hỗn loạn bệnh sinh gây ra bởi tiến trình viêm.
+Phẫu thuật Osada nhằm vào 2 mục tiêu chính: (1) lấy bỏ 1 phần tổn thương adenomyosis, nhằm tái lập lại cấu trúc giải phẫu bình thường của tử cung, và (2) giảm nhẹ các hỗn loạn bệnh sinh gây ra bởi tiến trình viêm.
 
 Phẫu thuật Osada là 1 phẫu thuật khó khăn, do đặc tính của tổn thương là không có giới hạn rõ rệt. Khó nhận định chính xác được vùng tổn thương phải lấy bỏ và các nguy cơ khác trong phẫu thuật, bao gồm cả việc phải chuyển sang phẫu thuật cắt tử cung.
 
