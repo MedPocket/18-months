@@ -3,9 +3,9 @@ title: Giải phẫu và mô học tuyến vú
 description: Giải phẫu và mô học tuyến vú.
 ---
 
-## Giải phẫu
-
 Vú được cấu tạo bởi 2 thành phần là mô tuyến vú và mô mỡ-liên kết.
+
+## Giải phẫu
 
 Tuyến vú được xem như 1 phần phụ của da, có chức năng sản xuất sữa. Tuyến vú là 1 tuyến lớn, nằm trên thành ngực, phía trên các cơ ngực lớn và bé. Tuyến vú được cố định bằng 1 hệ thống cân mạc và dây chằng lỏng lẻo đi từ da đến thành ngực.
 
