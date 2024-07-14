@@ -49,7 +49,7 @@ Mô hình bệnh học vi sang chấn và tái tạo (TIAR) là thuyết đượ
 
 Vi sang chấn → xâm nhập → viêm → cường estrogen → đề kháng progesterone → co thắt nghịch thường→ tăng nặng vi sang chấn.
 
-Adenomyosis được hình thành do các chấn thương vi thể tại màng đáy của nội mạc tử cung. Các chấn thương vi thể này có thể có nguồn gốc đa dạng, tự nhiên (các hoạt động co thắt nghịch thường của tử cung) hay thụ đắc (tổn thương màng đáy của nội mạc do sanh đẻ hay thủ thuật).
+Adenomyosis được hình thành do các chấn thương vi thể tại màng đáy của nội mạc tử cung. Các chấn thương vi thể này có thể có nguồn gốc đa dạng, tự nhiên (các hoạt động co thắt nghịch thường của tử cung) hay thụ đắc (tổn thương màng đáy của nội mạc do sinh đẻ hay thủ thuật).
 
 Tổn thương màng đáy của nội mạc nội mạc tạo điều kiện cho sự xâm nhập vào mô đệm bên dưới của các tế bào gốc. Tế bào xâm nhập lạc vị là các tế bào gốc trung mô. Tùy theo đáp ứng miễn nhiễm của cơ thể, sự xâm nhập này có thể bị loại trừ, những cá thể không mắc adenomyosis, cơ chế miễn nhiễm đóng vai trò quan trọng trong việc "dọn sạch" các tế bào xâm nhập. Ở những cá thể mắc adenomyosis, cơ chế miễn nhiễm đã thất bại trong việc loại trừ các tế bào xâm nhập. Giả thuyết về bất thường trong kiểm soát chu trình tế bào, viêm... thông qua các micro-RNA là giả thuyết được chấp nhận nhiều nhất hiện nay. Các bất thường của mi-RNA profiling liên quan chủ yếu đến các mi-RNA kiểm soát chu trình chết tế bào, tạo mạch và viêm. Dưới bất thường của kiểm soát mi-RNA. Tế bào trở thành tế bào "bất tử". Vì lý do này mà mi-RNA profiling được xem như 1 khảo sát hứa hẹn cho tầm soát và nhận diện các endometriosis dưới lâm sàng.
 

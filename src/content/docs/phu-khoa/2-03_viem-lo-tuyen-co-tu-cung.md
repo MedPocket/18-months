@@ -16,7 +16,7 @@ Tử cung được chia ra 2 phần: phần trên là thân tử cung và phần
 Từ ngoài vào trong, cổ tử cung lần lượt gồm:
 
 - Cổ ngoài cổ tử cung (ectocervix hoặc exocervix) là phần thấp nhất của cổ tử cung tiếp xúc với âm đạo. Cổ ngoài được giới hạn bởi vòm âm đạo trước và sau. Cổ ngoài có hình dạng lồi hoặc dạng ellipse và được chia thành mép trước và mép sau cổ tử cung.
-- Lỗ ngoài cổ tử cung (external os) là phần mở của cổ tử cung vào trong âm đạo. Lỗ ngoài này nằm ở trung tâm của cổ tử cung, có hình tròn (ở người chưa sanh con) và hình dẹt (ở phụ nữ đã sanh con).
+- Lỗ ngoài cổ tử cung (external os) là phần mở của cổ tử cung vào trong âm đạo. Lỗ ngoài này nằm ở trung tâm của cổ tử cung, có hình tròn (ở người chưa sinh con) và hình dẹt (ở phụ nữ đã sinh con).
 - Kênh cổ tử cung (cervical canal) là 1 kênh nằm bên trong cổ tử cung, nối từ lỗ ngoài cổ tử cung đến lỗ trong cổ tử cung. Kênh cổ tử cung có những gờ và rãnh, các nếp này xếp giống dạng bật lửa nên có thể giữ cho kênh cổ tử cung đóng kín.
 - Lỗ trong cổ tử cung (internal os) là phần mở của cổ tử cung vào khoang tử cung (buồng tử cung).
 
@@ -46,7 +46,7 @@ Vùng ranh giới nằm giữa biểu mô lát tầng của cổ ngoài và bi�
 ![Ranh giới lát trụ](../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/ranh-gioi-lat-tru.png)
 _Ranh giới lát trụ._
 
-Vị trí của ranh giới lát trụ so với lỗ ngoài cổ tử cung thay đổi theo suốt cuộc sống người phụ nữ, phụ thuộc vào các yếu tố như tuổi, số lần sanh con, tình trạng hormone sinh lý liên quan đến hoạt động chu kỳ buồng trứng hay mang thai, hay ngoại lai (dùng thuốc ngừa thai uống),...
+Vị trí của ranh giới lát trụ so với lỗ ngoài cổ tử cung thay đổi theo suốt cuộc sống người phụ nữ, phụ thuộc vào các yếu tố như tuổi, số lần sinh con, tình trạng hormone sinh lý liên quan đến hoạt động chu kỳ buồng trứng hay mang thai, hay ngoại lai (dùng thuốc ngừa thai uống),...
 
 SCJ mà ta quan sát thấy ở các bé gái mới sinh, sau khi dậy thì, giai đoạn đầu tuổi hoạt động sinh sản, tuổi quanh mãn kinh, gọi là SCJ nguyên thủy (original SCJ). SCJ nguyên thủy là 1 đường nối giữa biểu mô trụ và biểu mô lát nguyên thủy xuất hiện từ giai đoạn phôi thai trong tử cung. SCJ nguyên thủy nằm sát lỗ ngoài cổ tử cung.
 

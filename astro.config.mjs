@@ -1,5 +1,6 @@
 import starlight from '@astrojs/starlight'
 import { defineConfig } from 'astro/config'
+import starlightThemeRapide from 'starlight-theme-rapide'
 import rehypeKatex from 'rehype-katex'
 import rehypeSlug from 'rehype-slug'
 import remarkMath from 'remark-math'
@@ -69,6 +70,7 @@ export default defineConfig({
           },
         },
       ],
+      plugins: [starlightThemeRapide()],
       pagination: true,
       lastUpdated: true,
     }),

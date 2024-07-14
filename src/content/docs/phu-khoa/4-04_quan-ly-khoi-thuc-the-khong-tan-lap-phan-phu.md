@@ -59,7 +59,7 @@ Trong trường hợp này, nang lạc tuyến nội mạc tử cung đơn thu�
 
 Không có điều trị nội khoa nào làm thoái triển các nang lạc tuyến nội mạc tử cung ở buồng trứng. Nếu bệnh nhân hoàn toàn không đau, không có vấn đề về hiếm muộn, và nang lạc tuyến nội mạc tử cung được đánh giá là nguy cơ thấp có ác tính thì không có chỉ định điều trị nội khoa. Nếu bệnh nhân không có ý định có thai, có thể dùng COCs nhằm mục đích không làm cho nang lạc tuyến nội mạc tử cung lớn thêm, đồng thời tránh 1 thai kỳ ngoài ý muốn.
 
-Chỉ chỉ định phẫu thuật vì lý do khối u đơn thuần khi không thể loại trừ được 1 khả năng ác tính, dù rất hiếm, như trên siêu âm có các nguyên tắc của ác tính (M-rules, IOTA), hay khi có diễn biến bất thường của CA125, hay khi nang to nhanh bất thường, hay khi nang có kích thước to, đường kính nang > 5-6 cm. Tuy nhiên, cần cân nhắc mọi yếu tố tùy hành như tình trạng hôn nhân, kế hoạch sanh con, triệu chứng đau...
+Chỉ chỉ định phẫu thuật vì lý do khối u đơn thuần khi không thể loại trừ được 1 khả năng ác tính, dù rất hiếm, như trên siêu âm có các nguyên tắc của ác tính (M-rules, IOTA), hay khi có diễn biến bất thường của CA125, hay khi nang to nhanh bất thường, hay khi nang có kích thước to, đường kính nang > 5-6 cm. Tuy nhiên, cần cân nhắc mọi yếu tố tùy hành như tình trạng hôn nhân, kế hoạch sinh con, triệu chứng đau...
 
 #### Lạc tuyến nội mạc gây đau
 

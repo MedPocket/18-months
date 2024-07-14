@@ -15,7 +15,7 @@ Việc lấy mẫu Pap’s test được chấp nhận trong tầm soát ung th�
 
 Pap’s test quy ước rẻ hơn, nhưng cả Se và Sp đều thấp. Pap’s test nhúng dịch đắt tiền hơn, nhưng do không bị mất tế bào và chất lượng cũng phết tốt hơn nên cả Se và Sp đều cao hơn.
 
-![So sánh 2 kỹ thuật thực hiện Pap's test](../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/so-sanh-ky-thuat-thuc-hien-pap.png)
+![So sánh 2 kỹ thuật thực hiện Pap's test](../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/so-sinh-ky-thuat-thuc-hien-pap.png)
 
 ### Điều kiện thực hiện
 

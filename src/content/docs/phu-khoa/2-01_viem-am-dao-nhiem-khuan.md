@@ -100,7 +100,7 @@ Metronidazole không dùng trong 3 tháng đầu thai kỳ.
 
 #### Khi nào cần phải điều trị loạn khuẩn âm đạo?
 
-Tuy rằng tiêu chuẩn chẩn đoán không rõ ràng, nhưng với các bằng chứng về sự kiên quan đến kết cục xấu trên thai kỳ hay trên các thủ thuật, phẫu thuật sản phụ khoa của các trường hợp "loạn khuẩn âm đạo không triệu chứng", nên việc điều trị các tình trạng này trong bối cảnh nhất định như thai phụ có nguy cơ cao sanh non hay trước phẫu thuật cắt tử cung có thể được xem như là cần thiết.
+Tuy rằng tiêu chuẩn chẩn đoán không rõ ràng, nhưng với các bằng chứng về sự kiên quan đến kết cục xấu trên thai kỳ hay trên các thủ thuật, phẫu thuật sản phụ khoa của các trường hợp "loạn khuẩn âm đạo không triệu chứng", nên việc điều trị các tình trạng này trong bối cảnh nhất định như thai phụ có nguy cơ cao sinh non hay trước phẫu thuật cắt tử cung có thể được xem như là cần thiết.
 
 #### Phải điều trị loạn khuẩn âm đạo như thế nào?
 
@@ -111,7 +111,7 @@ Việc bổ sung các Lactobacillus có thể làm giảm tần xuất tái phá
 Điều trị chọn lọc khi loạn khuẩn âm đạo không triệu chứng, có 2 khả năng: (1) hoặc người này thuộc kiểu trạng thái khuẩn hệ không Lactobacillus với ưu thế yếm khí, (2) hoặc người này có khuẩn hệ bị rối loạn, nhưng bảo tồn về chức năng do đáp ứng thích nghi của khuẩn hệ. Trong tình huống này, nếu không có triệu chứng lâm sàng thì không có chỉ định can thiệp điều trị. Tuy nhiên, với nhóm đặc biệt này, sẽ cần phải điều trị khi:
 
 1. Phải thực hiện phẫu thuật phụ khoa, can thiệp qua đường âm đạo như cắt tử cung, đặt dụng cụ tử cung...
-2. Có thai và thuộc nhóm có nguy cơ cao sanh non. Trong trường hợp này, việc can thiệp sớm vào tình trạng loạn khuẩn âm đạo không triệu chứng có thể là có ích trong việc làm giảm nguy cơ sanh non, do khắc phục được tiến trình viêm mạn ở màng bào thai. Lưu ý rằng khi can thiệp cho loạn khuẩn âm đạo ở dạng chỉ định này, can thiệp chỉ có hiệu quả dự phòng sanh non nếu được thực hiện sớm, tức trước tuần thứ 20th, trước khi các cơ chế bệnh sinh của sanh non bị khởi động. Trong chỉ định này, dường như Clindamycin sẽ có hiệu quả hơn Metronidazole.
+2. Có thai và thuộc nhóm có nguy cơ cao sinh non. Trong trường hợp này, việc can thiệp sớm vào tình trạng loạn khuẩn âm đạo không triệu chứng có thể là có ích trong việc làm giảm nguy cơ sinh non, do khắc phục được tiến trình viêm mạn ở màng bào thai. Lưu ý rằng khi can thiệp cho loạn khuẩn âm đạo ở dạng chỉ định này, can thiệp chỉ có hiệu quả dự phòng sinh non nếu được thực hiện sớm, tức trước tuần thứ 20th, trước khi các cơ chế bệnh sinh của sinh non bị khởi động. Trong chỉ định này, dường như Clindamycin sẽ có hiệu quả hơn Metronidazole.
 
 ## Nguồn tham khảo
 

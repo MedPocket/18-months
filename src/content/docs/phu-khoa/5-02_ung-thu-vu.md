@@ -131,6 +131,189 @@ Không đủ bằng chứng về hiệu quả của việc thực hiện đơn t
 
 ## Ung thư vú
 
+### Yếu tố nguy cơ
+
+Các yếu tố nguy cơ của ung thư vú:
+
+- Tiền sử gia đình: ung thư vú, ung thư buồng trứng hoặc các loại ung thư có nguồn gốc từ tế bào mầm (ung thư tiền liệt tuyến, ung thư tụy). 20-30% số trường hợp ung thư vú được phát hiện có yếu tố tiền căn gia đình bị ung thư vú.
+- Xác định có đột biến gen. Đột biến thường gặp nhất là đột biến ở gene BRCA1 và hoặc gene BRCA2. Người mang gene đột biến BRCA có nguy cơ ung thư vú tăng 4% mỗi năm, nguy cơ mắc ung thư vú 35-85% và nguy cơ mắc ung thư vú đối bên 65%. Đột biến gene BRCA1 còn liên quan đến ung thư buồng trứng và ung thư tiền liệt tuyến. Đột biến gene BRCA2 liên quan đến ung thư vú nam giới và ung thư tiền liệt tuyến. Các đối tượng rơi vào trong 1 trong các trường hợp sau nên được thực hiện khảo sát đột biến gene BRCA:
+  - Bệnh nhân có ≥ 3 người thân được chẩn đoán ung thư vú hoặc ung thư buồng trứng, trong đó có 1 người dưới < 50 tuổi.
+  - 2 người thân thế hệ 1 hoặc 2 bị ung thư vú hoặc ung thư buồng trứng.
+  - Có người thân bị ung thư vú nam giới.
+  - Bệnh nhân được chẩn đoán ung thư trước 50 tuổi.
+  - Người thân bị ung thư vú và ung thư buồng trứng nên xét nghiệm BRCA.
+- Kết quả giải phẫu bệnh bất thường.
+  - Tăng sản không điển hình (tiểu thuỳ/ống dẫn sữa).
+  - Ung thư tiểu thuỳ tại chỗ.
+- Dậy thì sớm. Mãn kinh muộn. Dậy sớm và mãn kinh muộn làm tăng nguy cơ ung thư vú khi chúng kéo dài thời gian tiếp xúc với estrogen và progesterone. Phụ nữ dậy thì sớm trước 11 tuổi hoặc mãn kinh trễ sau 55 tuổi có nguy cơ ung thư vú tăng hơn 2-3 lần.
+- Chưa từng sinh con. Phụ nữ chưa từng sinh con và phụ nữ có giai đoạn sinh sản dài có liên quan với tăng nguy cơ dương tính với thụ thể nội tiết.
+- Lớn tuổi khi sinh con đầu tiên. Tuổi lúc mang thai đầu tiên ảnh hưởng đến nguy cơ tương đối của ung thư vú do tình trạng thai kỳ làm biến đổi các tế bào nhu mô vú sang trạng thái ổn định hơn, làm giảm tăng sinh trong nửa sau của chu kỳ kinh nguyệt. Kết quả là, thai kỳ đầu tiên mang lại 1 số bảo vệ. Phụ nữ có con đầu tiên sau 30 tuổi có nguy cơ cao gấp đôi phụ nữ sinh đứa con đầu lòng dưới 20 tuổi. sinh con muộn sau 35 tuổi có nguy cơ ung thư vú tăng hơn 3 lần.
+- Điều trị nột tiết tố gồm estrogen phối hợp với progestin. Yếu tố nguy cơ của ung thư vú là nguy cơ dương tính với thụ thể nội tiết (hormone receptor-positive breast cancer). Điều trị liệu pháp nội tiết tố kết hợp lâu dài (hơn 5 năm) sau khi mãn kinh có liên quan với sự gia tăng đáng kể nguy cơ ung thư vú. Tuy nhiên, các phương pháp điều trị ngắn hạn hơn vẫn có thể liên quan với người có tiền sử gia đình. Nghiên cứu thử nghiệm lâm sàng có nhóm chứng, phụ nữ mãn kinh sử dụng phối hợp estrogen và progestin có nguy cơ bị ung thư vú cao hơn so với phụ nữ mãn kinh đã cắt tử cung và chỉ dùng estrogen đơn thuần. Có sự gia tăng 24% nguy cơ ung thư vú cả trong thời gian sử dụng thuốc ngừa thai dạng viên kết hợp và kéo dài đến 10 năm sau khi ngưng.
+- Không cho con bú mẹ. Sinh con nhiều lần và cho con bú mẹ có liên quan đến việc giảm nguy cơ dương tính thụ thể nội tiết, đồng thời âm tính với 3 nhóm thụ thể estrogen, progesterone và ERBB2 (HER2/Neu).
+- Phụ nữ lớn tuổi. Chỉ 1% ung thư vú xảy ra ở phụ nữ dưới 25 tuổi. Sau 30 tuổi, tỷ lệ ung thư vú tăng đột ngột. Nguy cơ ung thư vú tăng gấp đôi sau mỗi 10 năm tuổi.
+- Chủng tộc (phụ nữ Do Thái Askenazi có nguy cơ cao bị đột biến BRCA).
+- Chỉ số khối cơ thể lớn. Uống rượu. Thuốc lá.
+- Mật độ mô vú dày trên nhũ ảnh. Phụ nữ có tiền căn bệnh lý vú có nguy cơ mắc ung thư vú ở vú đối bên dưới lâm sàng là 50% và là 20-30% với ung thư vú lâm sàng.
+- Tiếp xúc với tia xạ cường độ cao lúc trẻ (10-30 tuổi). Phụ nữ được điều trị ung thư hạch Hodgkin bằng liệu pháp xạ trị ngực ở tuổi từ 10 đến 30 (và có thể là muộn nhất là 45 tuổi) có nguy cơ gia tăng ung thư vú. Các bé gái từ 10 – 14 tuổi được điều trị dường như có nhiều nguy cơ bị ung thư vú trong tương lai.
+
+### Đặc điểm bệnh học
+
+Tổn thương bệnh học của ung thư vú được xếp theo:
+
+- Mức độ biệt hóa. Có 3 mức độ biệt hóa:
+  - Độ 1 có mức biệt hóa tốt.
+  - Độ 2 có mức biệt hóa trung bình.
+  - Độ 3 có mức biệt hóa kém.
+- Dạng ung thư vú. Có 2 dạng ung thư thường gặp là:
+  - Ung thư ống xâm lấn.
+  - Ung thư tiểu thùy xâm lấn.
+- Các chỉ báo. Các chỉ báo thường dùng gồm:
+  - Steroid receptor ER và PR. Được phân ra dương tính hay âm tính với thụ thể steroid.
+  - Her/neu (HER2). HER2 (viết tắt của Her/neu) cũng được báo cáo theo kiểu dương tính hay âm tính. Ung thư với HER2 dương tính có nhiều HER2 hơn. Ung thư với HER2 dương tính có xu hướng phát triển nhanh.
+
+Tốc độ phát triển của ung thư vú thay đổi tùy cá nhân, đặc điểm và giai đoạn. Tốc độ nhân đôi thay đổi từ vài tuần đến vài tháng. Thời gian tiềm ẩn dưới lâm sàng của ung thư vú thường dài, tạo cơ hội cho tầm soát phát hiện và được điều trị sớm, trước khi có biểu hiện lâm sàng.
+
+Ung thư vú có khuynh hướng xâm lấn và di căn sớm. Ung thư vú có thể cho di căn đến tất cả các cơ quan, thường nhất là di căn xương, phổi, gan.
+
+### Phân chia giai đoạn
+
+![Giai đoạn TNM](../../../assets/phu-khoa/ung-thu-vu/giai-doan-tnm.jpeg)
+
+### Điều trị
+
+#### Đánh giá trước phẫu thuật
+
+Đánh giá trước phẫu thuật được căn cứ trên kết quả của nhũ ảnh 2 bên, kết quả sinh thiết lõi (hay sinh thiết), X-quang ngực, huyết đồ, sinh hóa máu.
+
+Kết quả sinh thiết lõi có ý nghĩa xác nhận ung thư, đồng thời cho biết định hướng điều trị trước phẫu thuật nếu cần. CT scan, MRI, xạ hình xương không cần thiết trừ khi có triệu chứng hoặc bất thường sinh hóa máu.
+
+![Hình ảnh ung thư vú trên nhũ ảnh](../../../assets/phu-khoa/ung-thu-vu/ung-thu-vu-tren-nhu-anh.png)
+_Hình ảnh ung thư vú trên nhũ ảnh._
+
+![Hình ảnh ung thư vú trên nhũ ảnh, kèm đóng vôi vi thể](../../../assets/phu-khoa/ung-thu-vu/ung-thu-vu-tren-nhu-anh-kem-dong-voi.png)
+_Hình ảnh ung thư vú trên nhũ ảnh, kèm đóng vôi vi thể._
+
+Phẫu thuật trước tiên nếu thỏa các yếu tố:
+
+1. U nhỏ.
+2. Lâm sàng không phát hiện hạch.
+3. Không có bằng chứng di căn xa.
+
+Nếu lâm sàng nghi ngờ là ung thư giai đoạn II hay có hạch, thì cần chuẩn bị thêm xạ hình xương, CT scan bụng. PET scan được chỉ định thêm nếu lâm sàng nghi ngờ ở giai đoạn III hoặc IV.
+
+Các phẫu thuật gồm có:
+
+- Phẫu thuật bảo tồn vú.
+- Phẫu thuật đoạn nhũ.
+
+#### Phẫu thuật bảo tồn vú
+
+Phẫu thuật bảo tồn vú cắt bỏ khối u và thêm 1 cm mô vú bình thường xung quanh.
+
+Phẫu thuật bảo tồn vú được chỉ định trong sang thương đơn độc trên nhũ ảnh và lâm sàng, u &le; 4 cm hoặc > 4 cm trên vú lớn, không di căn hạch và di căn xa.
+
+Sau phẫu thuật bảo tồn vú, các yếu tố tiên lượng tái phát tại chỗ gồm:
+
+- Dương tính ở bờ phẫu thuật.
+- Tuổi trẻ hơn 35 tuổi.
+- Xâm lấn mạch máu và bạch huyết.
+- Mô học grade II và III.
+- Thành phần dư thừa tại chỗ.
+
+Không có sự khác biệt đáng kể về tiên lượng sống còn sau 20 năm và tái phát tại chỗ giữa 2 phương pháp phẫu thuật đoạn nhũ và phẫu thuật bảo tồn vú.
+
+#### Phẫu thuật đoạn nhũ
+
+Phẫu thuật đoạn nhũ tận gốc (phẫu thuật Halsted) căt bỏ toàn bộ vú, cơ ngực bên dưới và nạo hạch nách toàn bộ. Do tử suất của phẫu thuật Halsted rất cao, nhiều di chứng nặng nề nên ngày nay, người ta không còn thực hiện phẫu thuật đoạn nhũ tận gốc nữa, ngoại trừ trường hợp khối u đã xâm lấn rộng vào cơ ngực.
+
+Hiện nay, người ta thực hiện các biến thể của phẫu thuật
+đoạn nhũ gồm:
+
+- Phẫu thuật đoạn nhũ (simple mastectomy) cắt bỏ mô vú, núm vú, quầng vú, không cắt cơ ngực. Nạo hạch 1/4 trên ngoài vú và hạch nách dưới.
+- Phẫu thuật đoạn nhũ tận gốc cải tiến bảo tồn cơ ngực. Phẫu thuật đoạn nhũ tiết kiệm da và núm vú thường chỉ định trên những bệnh nhân ung thư vú nhỏ giai đoạn sớm hoặc cắt vú dự phòng do đột biến gene hoặc sang thương nguy cơ cao.
+
+Chỉ định đoạn nhũ được căn cứ trên tính chất của sang thương trung tâm, u > 4 cm, đa sang thương trên nhũ ảnh và lâm sàng và có chú ý đến yêu cầu của bệnh nhân.
+
+![Đoạn nhũ](../../../assets/phu-khoa/ung-thu-vu/doan-nhu.png)
+_Đoạn nhũ đơn giản (Simple mastectomy) đòi hỏi phải cắt bỏ mô vú, núm vú, quầng vú, không cắt cơ ngực. Nạo hạch 1/4 trên ngoài vú và hạch nách dưới.<br>Đoạn nhũ tận gốc biến đổi (Modified radical mastectomy) cho phép bảo tồn cả 2 cơ ngực lớn và ngực bé, nhưng đòi hỏi nạo hạch mức I và II. Không nạo hạch nách trên.<br>Đoạn nhũ tận gốc (Radical mastectomy: Halsted) lấy bỏ toàn bộ vú, các cơ ngực và nạo hạch nách toàn bộ. Tử suất cao. Ngày nay không còn được thực hiện._
+
+#### Theo dõi sau phẫu thuật
+
+Biến chứng sau mổ thường gặp là tụ dịch, nhiễm trùng, hoại tử vạt da.
+
+Sau mổ, việc theo dõi được thực hiện chủ yếu bằng nhũ ảnh. Nhũ ảnh được thực hiện hàng năm.
+
+Không đủ chứng cứ để khuyến cáo rằng sau phẫu thuật ung thư vú, việc theo dõi bằng MRI phối hợp với nhũ ảnh sẽ tốt hơn bằng nhũ ảnh đơn thuần. Vì thế MRI không được xem là nội dung theo dõi thường quy sau phẫu thuật ung thư vú để theo dõi vú đối bên.
+
+Nhũ ảnh gặp khó khăn trong trường hợp sẹo lớn sau phẫu thuật hay sau phẫu thuật bảo tồn. Lúc này MRI và siêu âm có thể giúp ích cho chẩn đoán.
+
+Khám lâm sàng hàng năm trong 5 năm đầu đối với đoạn nhũ và 5-10 năm đối với phẫu thuật bảo tồn vú.
+
+### Tiên lượng tái phát và xạ trị
+
+Yếu tố tiên lượng tái phát tại chỗ sau đoạn nhũ gồm:
+
+- Di căn hạch nách.
+- Ung thư xâm lấn mạch máu và mạch bạch huyết.
+- Ung thư grade III.
+- Khối u &ge; 4 cm.
+- Các thụ thể ER, PR.
+- Các biomarker như HER2.
+
+![Yếu tố nguy cơ tái phát](../../../assets/phu-khoa/ung-thu-vu/nguy-co-tai-phat.png)
+_Yếu tố nguy cơ tái phát._
+
+ACS khuyến cáo xạ trị sau đoạn nhũ trên những bệnh nhân có u nguyên phát > 5 cm, và có &ge; 4 hạch nách. Biến chứng thường gặp của xạ trị gồm có phản ứng da, dãn mao mạch, viêm phổi phóng xạ, hoại tử da-xương do phóng xạ...
+
+### Liệu pháp hỗ trợ
+
+Liệu pháp hỗ trợ toàn thân nhằm loại bỏ những di căn nằm sâu trong giai đoạn hậu phẫu sớm và giảm nguy cơ tái phát tại chỗ và tái phát xa ở bệnh nhân:
+
+- Bệnh nhân có nguy cơ cao.
+- Hạch dương tính.
+- Dấu ấn sinh học không thuận lợi như Her-2/neu dương tính.
+
+Liệu pháp hỗ trợ toàn thân gồm:
+
+1. Hóa trị. Hóa trị có nguy cơ sụt giảm nhận thức thần kinh. Liệu pháp nội tiết với Tamoxifen làm tăng nguy cơ ung thư tử cung, khô âm đạo và bốc hỏa. Liệu pháp nội tiết với aromatase inhibitors liên quan với loãng xương và triệu chứng cơ xương.
+2. Liệu pháp nội tiết.
+
+Do có nhiều tác dụng phụ, nên lựa chọn liệu pháp hỗ trợ trên những bệnh nhân có nguy cơ tái phát 10% trong vòng 10 năm.
+
+## Ung thư vú và thai kỳ
+
+Ung thư vú thai kỳ là ung thư vú xảy ra trong thời kỳ mang thai và trong 1 năm sau sinh.
+
+Ung thư vú thai kỳ chiếm khoảng 1-2% tổng số ung thư vú. 25% ung thư vú ở phụ nữ dưới 35 tuổi có liên quan đến thai kỳ, con số này là 15% ở phụ nữ tuổi trên 40. Không có bằng chứng chứng minh ung thư vú thai kỳ xâm lấn hơn ung thư vú, tuy nhiên ung thư vú thai kỳ thường phát hiện trễ do tuyến vú phát triển to trong thai kỳ. 65% ung thư vú và thai kỳ có xâm lấn hạch nách.
+
+Ung thư vú thai kỳ phát hiện ở tam cá nguyệt I và II của thai kỳ được chỉ định đoạn nhũ.
+
+Ung thư vú thai kỳ phát hiện ở tam cá nguyệt III có thể phẫu thuật ngay hoặc theo dõi khối u.
+
+Xạ trị bị chống chỉ định do tình trạng mang thai. Hóa trị có thể được chỉ định nhưng có nguy cơ gây tổn thương thai, đặc biệt là khi hóa được thực hiện ở tam cá nguyệt I.
+
+Việc chấm dứt thai kỳ được đặt ra nếu tuổi thai đạt mức đủ sống (tức 30-32 tuần).
+
+Chấm dứt thai kỳ theo sau bằng tiếp tục điều trị ung thư vú
+sau sinh.
+
+Trong thời gian theo dõi, nếu u tăng kích thước có thể phải phẫu thuật hoặc hóa trị trước sinh.
+
+Khuyến cáo thực hiện tránh thai sau điều trị ung thư vú. Thời gian tránh thai được khuyến nghị là 2-3 năm. Lý do của khuyến cáo này là do 80% các ung thư tái phát đều xảy ra trong 2 năm đầu tiên sau mổ.
+
+Phụ nữ có tiền căn phẫu thuật bảo tồn ung thư vú vẫn có thể cho con bú.
+
+## Bệnh Paget núm vú
+
+Bệnh Paget vú là 1 ung thư ở da vùng núm vú và quầng vú. Hầu hết các bệnh nhân có Paget vú đều có kèm theo 1 hay nhiều ung thư của mô vú bên dưới, tức tuyến vú cùng bên, có thể là DCIS hay LCIS hay ung thư xâm lấn. Bệnh Paget chiếm 1-2 % ung thư vú.
+
+Bệnh Paget có biểu hiện đầu tiên bên ngoài như là 1 thay đổi dạng chàm ở núm vú. Cảm giác ngứa và nóng khó chịu kèm theo biến đổi dạng chàm. Khi tiến triển hơn, sẽ kèm chảy dịch và thay đổi ở núm vú, như tụt núm vú vào trong. Do biểu hiện không điển hình, rất giống như chàm, nên thường được chẩn đoán trễ. Chẩn đoán được xác nhận qua sinh thiết với hiện diện của các tế bào Paget.
+
+![Bệnh Paget](../../../assets/phu-khoa/ung-thu-vu/benh-paget.png)
+_Bệnh Paget thường bị chẩn đoán trễ do biểu hiện bên ngoài hết sức "hiền lành" như 1 tổn thương chàm, cảm giác ngứa và nóng khó chịu._
+
+Việc điều trị tùy thuộc trước tiên vào sự hiện diện hay vắng mặt của ung thư ở mô bên dưới. Nếu có ung thư của mô bên dưới, việc điều trị được thực hiện giống như cho ung thư ở mô bên dưới. Tuy nhiên, nếu bệnh Paget không kèm theo khối u ở mô bên dưới xác nhận qua nhũ ảnh thì phẫu thuật cắt u bảo tồn, kèm theo lấy bỏ bắt buộc núm vú và quầng vú và kèm theo bắt buộc điều trị chiếu xạ toàn vú sau phẫu thuật cũng được xem là 1 lựa chọn an toàn.
+
 ## Nguồn tham khảo
 
 - TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.

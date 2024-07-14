@@ -360,7 +360,7 @@ UPA cũng có thể gây ra các biến đổi trên nội mạc tử cung làm 
 
 So với GnRHa, liệu pháp với UPA ít tác dụng phụ hơn như đau đầu, căng ngực, đau bụng, dày nội mạc tử cung, bốc hỏa,... và mang lại 1 hiệu quả kéo dài hơn.
 
-![So sánh UPA và GnRHa](../../../assets/phu-khoa/u-xo-tu-cung/so-sanh-upa-va-gnrha.png)
+![So sánh UPA và GnRHa](../../../assets/phu-khoa/u-xo-tu-cung/so-sinh-upa-va-gnrha.png)
 
 :::caution[Lưu ý khi dùng UPA]
 Thực hiện xét nghiệm chức năng gan:
