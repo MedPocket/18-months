@@ -52,7 +52,7 @@ export default defineConfig({
       },
       sidebar: [
         {
-          label: '✨Trang chủ',
+          label: 'Trang chủ',
           link: '/',
         },
         {
