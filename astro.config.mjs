@@ -37,8 +37,8 @@ export default defineConfig({
       title: '18 Months',
       customCss: [
         './src/styles/globals.css',
-        'katex/dist/katex.min.css',
         './src/styles/headings.css',
+        'katex/dist/katex.min.css',
       ],
       social: {
         github: 'https://github.com/MedPocket/18-months',
