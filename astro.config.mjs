@@ -1,11 +1,11 @@
 import starlight from '@astrojs/starlight'
 import { defineConfig } from 'astro/config'
-import starlightThemeRapide from 'starlight-theme-rapide'
 import rehypeKatex from 'rehype-katex'
 import rehypeSlug from 'rehype-slug'
 import remarkMath from 'remark-math'
 import rehypeExternalLinks from 'rehype-external-links'
 import { rehypeAutolink } from './plugins/rehype-autolink'
+import { remarkReadingTime } from './plugins/remark-reading-time'
 
 // https://astro.build/config
 export default defineConfig({
@@ -14,7 +14,7 @@ export default defineConfig({
     : 'http://localhost:4321',
   base: '/18-months',
   markdown: {
-    remarkPlugins: [remarkMath],
+    remarkPlugins: [remarkMath, remarkReadingTime],
     rehypePlugins: [
       rehypeSlug,
       ...rehypeAutolink(),
@@ -49,6 +49,7 @@ export default defineConfig({
       components: {
         Head: './src/components/Head.astro',
         Footer: './src/components/Footer.astro',
+        PageTitle: './src/components/PageTitle.astro',
       },
       sidebar: [
         {
@@ -70,7 +71,6 @@ export default defineConfig({
           },
         },
       ],
-      plugins: [starlightThemeRapide()],
       pagination: true,
       lastUpdated: true,
     }),

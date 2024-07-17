@@ -32,6 +32,12 @@ importers:
       katex:
         specifier: ^0.16.11
         version: 0.16.11
+      mdast-util-to-string:
+        specifier: ^4.0.0
+        version: 4.0.0
+      reading-time:
+        specifier: ^1.5.0
+        version: 1.5.0
       rehype-autolink-headings:
         specifier: ^7.1.0
         version: 7.1.0
@@ -50,9 +56,6 @@ importers:
       sharp:
         specifier: ^0.33.4
         version: 0.33.4
-      starlight-theme-rapide:
-        specifier: ^0.1.1
-        version: 0.1.1(@astrojs/starlight@0.25.1(astro@4.11.5(typescript@5.5.3)))
     devDependencies:
       '@types/html-escaper':
         specifier: ^3.0.2
@@ -1692,6 +1695,9 @@ packages:
     resolution: {integrity: sha512-hOS089on8RduqdbhvQ5Z37A0ESjsqz6qnRcffsMU3495FuTdqSm+7bhJ29JvIOsBDEEnan5DPu9t3To9VRlMzA==}
     engines: {node: '>=8.10.0'}
 
+  reading-time@1.5.0:
+    resolution: {integrity: sha512-onYyVhBNr4CmAxFsKS7bz+uTLRakypIe4R+5A824vBSkQy/hB3fZepoVEf8OVAxzLvK+H/jm9TzpI3ETSm64Kg==}
+
   rehype-autolink-headings@7.1.0:
     resolution: {integrity: sha512-rItO/pSdvnvsP4QRB1pmPiNHUskikqtPojZKJPPPAVx9Hj8i8TwMBhofrrAYRhYOOBZH9tgmG5lPqDLuIWPWmw==}
 
@@ -1846,12 +1852,6 @@ packages:
 
   sprintf-js@1.0.3:
     resolution: {integrity: sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==}
-
-  starlight-theme-rapide@0.1.1:
-    resolution: {integrity: sha512-jVACnhIAVcdnlgIC0VceECMLWxn5rpqg3Ei+YfYigrAzCHdulMma/DIO7X7mH8193kVIoSphUl1z6DJ00a0lUQ==}
-    engines: {node: '>=18'}
-    peerDependencies:
-      '@astrojs/starlight': '>=0.23.0'
 
   stdin-discarder@0.2.2:
     resolution: {integrity: sha512-UhDfHmA92YAlNnCfhmq0VeNL5bDbiZGg7sZ2IvPsXubGkiNa9EC+tUTsjBRsYUAz87btI6/1wf4XoVvQ3uRnmQ==}
@@ -4170,6 +4170,8 @@ snapshots:
     dependencies:
       picomatch: 2.3.1
 
+  reading-time@1.5.0: {}
+
   rehype-autolink-headings@7.1.0:
     dependencies:
       '@types/hast': 3.0.4
@@ -4456,10 +4458,6 @@ snapshots:
   space-separated-tokens@2.0.2: {}
 
   sprintf-js@1.0.3: {}
-
-  starlight-theme-rapide@0.1.1(@astrojs/starlight@0.25.1(astro@4.11.5(typescript@5.5.3))):
-    dependencies:
-      '@astrojs/starlight': 0.25.1(astro@4.11.5(typescript@5.5.3))
 
   stdin-discarder@0.2.2: {}
 

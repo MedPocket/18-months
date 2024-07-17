@@ -1,0 +1,37 @@
+---
+/*
+ * Implement the source code according to Astro Docs:
+ * https://github.com/withastro/docs/blob/main/src/components/starlight/PageTitle.astro
+ */
+
+import type { Props } from '@astrojs/starlight/props'
+
+const { data } = Astro.props.entry
+const { entry } = Astro.props
+const { remarkPluginFrontmatter } = await entry.render()
+---
+
+<div class="wrapper">
+  <h1 id="_top">
+    <>
+      <span>{data.title}</span>
+    </>
+  </h1>
+  <p>{remarkPluginFrontmatter.minutesRead}</p>
+</div>
+
+<style>
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  h1 {
+    display: flex;
+    flex-wrap: wrap;
+    color: var(--sl-color-white);
+    font-size: var(--sl-text-h1);
+    font-weight: 600;
+    line-height: var(--sl-line-height-headings);
+  }
+</style>
