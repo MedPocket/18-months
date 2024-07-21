@@ -123,16 +123,6 @@ Thường gặp nhất ở độ tuổi 20-50.
 
 53% có thay đổi về mặt mô học. Thường thấy nhất là 1 biến thể của sự thoái triển nhu mô vú theo hướng phát triển quá mức mô sợi hoặc xơ hóa khu trú, tạo ra 2 nhóm bệnh học: (1) bệnh lí xơ hóa tuyến vú (sclerosing adenosis) và (2) tổn thương xơ phức tạp hay sẹo hình sao (complex sclerosing lesion or radial scar). Khoảng 50% bệnh nhân có thay đổi sợi bọc ở vú có biểu hiện lâm sàng, với biểu hiện đau vú 2 bên, nặng căng vú theo chu kỳ, sờ thấy khối u. Khám thấy mô vú đậm đặc hơn, cảm giác có nhiều mô nốt hoặc hạt, có thể có tiết dịch núm vú tự nhiên.
 
-## Tiết dịch núm vú
-
-Phần lớn nguyên nhân gây tiết dịch núm vú là lành tính.
-
-Dịch thường thấy nhất là tiết sữa. Trong trường hợp này khai thác bệnh sử về dùng thuốc như hướng thần kinh, thuốc chống trầm cảm hay ức chế bơm proton... có thể cho biết nguyên nhân do dùng thuốc của tăng tiết sữa gây tăng prolactin.
-
-Khảo sát nội tiết để tìm các nguyên nhân xa hơn như microadenoma tuyến yên hay nhược giáp là cần thiết. Kích thích núm vú quá mức cũng thường gặp.
-
-Trong trường hợp tiết dịch tự phát, 1 bên, có máu, cần lưu ý khả năng có bướu nhú hay các carcinoma khác và trong ống tuyến vú.
-
 ## Nguồn tham khảo
 
 - TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
