@@ -116,7 +116,7 @@ Cân nhắc điều trị ngoại trú, tái khám sau 1 tuần nếu:
 
 Chấm dứt thai kỳ khi:
 
-- Thai &ge; 34 tuần hoặc < 24 tuần.
+- Thai ≥ 34 tuần hoặc < 24 tuần.
 - Chuyển dạ thực sự.
 - Sa dây rốn.
 - Rau bong nong.
@@ -141,7 +141,7 @@ Các phương pháp chấm dứt thai kỳ:
 
 - Ưu tiên sinh đường âm đạo, mổ lấy thai khi có chỉ định.
 - Theo dõi sinh đường âm đạo: không có dấu hiệu nhiễm trùng, không có dấu hiệu de dọa mẹ và thai, có thể theo dõi sau 12 giờ nếu không có chuyển dạ tự nhiên, khởi phát chuyển dạ dựa trên Bishop:
-  - Bishop &ge; 6 khởi phát bằng Oxytocin.
+  - Bishop ≥ 6 khởi phát bằng Oxytocin.
   - Bishop < 6 gây chín muồi cổ tử cung bằng PGE2 trước khi dùng Oxytocin.
 
 ## Nhiễm trùng ối

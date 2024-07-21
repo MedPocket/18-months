@@ -43,8 +43,8 @@ Phụ nữ mang thai mắc viêm gan B mạn có chỉ định điều trị nh�
 - Đối với trường hợp xơ gan còn bù hoặc mất bù điều trị khi tải lượng HBV DNA trên ngưỡng bất kể nồng độ ALT và tình trạng HBeAg.
 
 - Đối với trường hợp không xơ gan điều trị viêm gan B mạn cho người bệnh khi đáp ứng cả 2 tiêu chuẩn:
-  - Tổn thương tế bào gan: AST, ALT > 2 lần bình thường và/hoặc xơ hóa gan F &ge; 2.
-  - Virus đang tăng sinh HBV DNA &ge; $10^5$ copies/mL nếu HBeAg (+), HBV DNA &ge; $10^4$ copies/mL nếu HBeAg (-).
+  - Tổn thương tế bào gan: AST, ALT > 2 lần bình thường và/hoặc xơ hóa gan F ≥ 2.
+  - Virus đang tăng sinh HBV DNA ≥ $10^5$ copies/mL nếu HBeAg (+), HBV DNA ≥ $10^4$ copies/mL nếu HBeAg (-).
 
 :::caution[Lưu ý]
 Khi điều trị:

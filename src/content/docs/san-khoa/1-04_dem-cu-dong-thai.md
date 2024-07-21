@@ -22,7 +22,7 @@ Hầu hết thai phụ nhận biết cử động thai đều đặn sau 24 tu�
 - Phát hiện các bất thường về tình trạng thai và có can thiệp cứu sống thai khi tình trạng sức khỏe thai bất thường.
 - Việc can thiệp cho sinh ở những thai cực non cũng không giúp cứu sống trẻ sau đó, nên phương pháp này không được xem là cần thiết để thực hiện trước thời điểm sơ sinh có thể sống sót được (viable).
 
-Thai nhi khỏe mạnh thường có khoảng 10 cử động trong 20 phút. Chu kỳ ngủ của bé có thể kéo dài từ 20 đến 40 phút. Sadovsky, Moore và Neldam đề nghị &le; 3 cử động/giờ là bất thường. Ở thai nhi khỏe mạnh, chu kỳ ngủ không bao giờ kéo dài quá 90 phút.
+Thai nhi khỏe mạnh thường có khoảng 10 cử động trong 20 phút. Chu kỳ ngủ của bé có thể kéo dài từ 20 đến 40 phút. Sadovsky, Moore và Neldam đề nghị ≤ 3 cử động/giờ là bất thường. Ở thai nhi khỏe mạnh, chu kỳ ngủ không bao giờ kéo dài quá 90 phút.
 
 Tư thế nằm là tư thế đếm cử động thai được nhận biết tốt hơn.
 

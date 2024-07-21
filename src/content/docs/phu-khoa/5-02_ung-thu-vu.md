@@ -7,7 +7,7 @@ Ung thư vú là bệnh lý ác tính thường gặp nhất ở phụ nữ, chi
 
 ## Tầm soát ung thư vú
 
-Khả năng sống còn sau 5 năm của ung thư vú tùy thuộc vào giai đoạn ung thư lúc phẫu thuật. Vì thế, tầm soát ung thư vú đóng vai trò quan trọng trong phát hiện và điều trị sớm ung thư vú. Khả năng này là 98% nếu ung thư vú được phát hiện ở giai đoạn sớm, còn khu trú ở vú và điều trị bằng phẫu thuật kèm nạo hạch. 89% trường hợp u &le; 1 cm điều trị bằng đoạn nhũ và nạo hạch không phát hiện di căn sau 18 năm.
+Khả năng sống còn sau 5 năm của ung thư vú tùy thuộc vào giai đoạn ung thư lúc phẫu thuật. Vì thế, tầm soát ung thư vú đóng vai trò quan trọng trong phát hiện và điều trị sớm ung thư vú. Khả năng này là 98% nếu ung thư vú được phát hiện ở giai đoạn sớm, còn khu trú ở vú và điều trị bằng phẫu thuật kèm nạo hạch. 89% trường hợp u ≤ 1 cm điều trị bằng đoạn nhũ và nạo hạch không phát hiện di căn sau 18 năm.
 
 ### Công cụ tầm soát
 
@@ -16,7 +16,7 @@ Công cụ tầm soát ung thư vú gồm 2 phương tiện:
 1. Nhũ ảnh.
 2. Cộng hưởng từ vú.
 
-Tự khám vú không được Hiệp hội Ung thư Hoa Kỳ xem như biện pháp tầm soát ung thư, nhưng hội vẫn khuyến cáo mọi phụ nữ &ge; 20 tuổi nên thực hiện tự khám vú. Khoảng 1/2 số ung thư vú được phát hiện qua tự khám vú.
+Tự khám vú không được Hiệp hội Ung thư Hoa Kỳ xem như biện pháp tầm soát ung thư, nhưng hội vẫn khuyến cáo mọi phụ nữ ≥ 20 tuổi nên thực hiện tự khám vú. Khoảng 1/2 số ung thư vú được phát hiện qua tự khám vú.
 
 Siêu âm không được xem là biện pháp hình ảnh thích hợp cho tầm soát ung thư vú.
 
@@ -68,8 +68,8 @@ Nhũ ảnh là phương tiện tầm soát đầu tay cho mọi phụ nữ với
 
 Nhũ ảnh là 1 phương tiện tầm soát có giá trị. Khi thực hiện tầm soát bằng nhũ ảnh cho đối tượng nguy cơ bình quân, nhũ ảnh thường quy sẽ:
 
-- Làm giảm được 16-35% tử vong do ung thư vú ở phụ nữ &ge; 50 tuổi.
-- Làm giảm được 15-20% tử vong do ung thư vú ở phụ nữ &ge; 40-49 tuổi. Lý do của hiện tượng nhũ ảnh có hiệu quả giảm tử suất do ung thư vú kém hơn ở tuổi trẻ so với tuổi lớn là do tần suất mắc thấp hơn của ung thư vú ở lứa tuổi này, do các khối u thường phát triển nhanh hơn và đậm độ mô vú dầy làm giảm giá trị của nhũ ảnh.
+- Làm giảm được 16-35% tử vong do ung thư vú ở phụ nữ ≥ 50 tuổi.
+- Làm giảm được 15-20% tử vong do ung thư vú ở phụ nữ ≥ 40-49 tuổi. Lý do của hiện tượng nhũ ảnh có hiệu quả giảm tử suất do ung thư vú kém hơn ở tuổi trẻ so với tuổi lớn là do tần suất mắc thấp hơn của ung thư vú ở lứa tuổi này, do các khối u thường phát triển nhanh hơn và đậm độ mô vú dầy làm giảm giá trị của nhũ ảnh.
 
 Việc xử lý kết quả tầm soát có thể dựa trên gợi ý của hệ thống BI-RADS (Breast Imaging-Reporting and Data System):
 
@@ -210,7 +210,7 @@ Các phẫu thuật gồm có:
 
 Phẫu thuật bảo tồn vú cắt bỏ khối u và thêm 1 cm mô vú bình thường xung quanh.
 
-Phẫu thuật bảo tồn vú được chỉ định trong sang thương đơn độc trên nhũ ảnh và lâm sàng, u &le; 4 cm hoặc > 4 cm trên vú lớn, không di căn hạch và di căn xa.
+Phẫu thuật bảo tồn vú được chỉ định trong sang thương đơn độc trên nhũ ảnh và lâm sàng, u ≤ 4 cm hoặc > 4 cm trên vú lớn, không di căn hạch và di căn xa.
 
 Sau phẫu thuật bảo tồn vú, các yếu tố tiên lượng tái phát tại chỗ gồm:
 
@@ -256,14 +256,14 @@ Yếu tố tiên lượng tái phát tại chỗ sau đoạn nhũ gồm:
 - Di căn hạch nách.
 - Ung thư xâm lấn mạch máu và mạch bạch huyết.
 - Ung thư grade III.
-- Khối u &ge; 4 cm.
+- Khối u ≥ 4 cm.
 - Các thụ thể ER, PR.
 - Các biomarker như HER2.
 
 ![Yếu tố nguy cơ tái phát](../../../assets/phu-khoa/ung-thu-vu/nguy-co-tai-phat.png)
 _Yếu tố nguy cơ tái phát._
 
-ACS khuyến cáo xạ trị sau đoạn nhũ trên những bệnh nhân có u nguyên phát > 5 cm, và có &ge; 4 hạch nách. Biến chứng thường gặp của xạ trị gồm có phản ứng da, dãn mao mạch, viêm phổi phóng xạ, hoại tử da-xương do phóng xạ...
+ACS khuyến cáo xạ trị sau đoạn nhũ trên những bệnh nhân có u nguyên phát > 5 cm, và có ≥ 4 hạch nách. Biến chứng thường gặp của xạ trị gồm có phản ứng da, dãn mao mạch, viêm phổi phóng xạ, hoại tử da-xương do phóng xạ...
 
 ### Liệu pháp hỗ trợ
 

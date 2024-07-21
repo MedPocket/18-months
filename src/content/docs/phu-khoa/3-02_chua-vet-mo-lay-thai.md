@@ -106,7 +106,7 @@ Chỉ định
 
 - Các trường hợp thai < 14 tuần, huyết động ổn định và không chống chỉ định MTX.
 
-- Thai lưu &le; 8 tuần, beta hCG tăng: MTX 50mg, tiêm bắp.
+- Thai lưu ≤ 8 tuần, beta hCG tăng: MTX 50mg, tiêm bắp.
 
 - Thai chưa có tim thai: dưới hướng dẫn siêu âm ngả âm đạo hút trọn phôi thai, hút hết nước ối và tiêm MTX 25mg quanh túi thai và 25mg tiêm bắp (tổng 50mg/$m^2$ diện tích da).
 
@@ -164,7 +164,7 @@ Khi có chảy máu trung bình/nhiều đặt bóng chèn bơm 20-30mL nước 
 
 #### Đặt foley kết hợp hút thai
 
-Chỉ định thai &le; 8 tuần.
+Chỉ định thai ≤ 8 tuần.
 
 Đặt foley để đẩy khối thai tách khỏi vết mổ:
 
@@ -192,7 +192,7 @@ Chỉ định thai &le; 8 tuần.
 
 Chỉ định khi có 1 trong 3 yếu tố:
 
-- Tuổi thai &ge; 14 tuần.
+- Tuổi thai ≥ 14 tuần.
 - Người bệnh > 40 tuổi và không có nguyện vọng sinh sản.
 - Huyết động không ổn định, xuất huyết nhiều, có thể có choáng hay không.
 

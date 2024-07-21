@@ -52,15 +52,15 @@ Khám âm đạo có dấu hiệu cục đá.
 :::note[Tiêu chuẩn chẩn đoán]
 Siêu âm:
 
-- Chỉ số ối (Amniotic fluid index - AFI) &ge; 22 cm ở 3 tháng giữa và &ge; 25 cm ở 3 tháng cuối.
-- Khoang ối sâu nhất (Single deepest pocket measurement - SDP - SDP) &ge; 8 cm. SDP &ge; 16 cm là đa ối nặng.
+- Chỉ số ối (Amniotic fluid index - AFI) ≥ 22 cm ở 3 tháng giữa và ≥ 25 cm ở 3 tháng cuối.
+- Khoang ối sâu nhất (Single deepest pocket measurement - SDP - SDP) ≥ 8 cm. SDP ≥ 16 cm là đa ối nặng.
 
 :::
 
-| Mức độ | Nhẹ       | Trung bình | Nặng       |
-| ------ | --------- | ---------- | ---------- |
-| AFI    | 25-30 cm  | 30.1-35 cm | > 35 cm    |
-| SDP    | 8-11.9 cm | 12-15.9 cm | &ge; 16 cm |
+| Mức độ | Nhẹ       | Trung bình | Nặng    |
+| ------ | --------- | ---------- | ------- |
+| AFI    | 25-30 cm  | 30.1-35 cm | > 35 cm |
+| SDP    | 8-11.9 cm | 12-15.9 cm | ≥ 16 cm |
 
 Siêu âm hình thái thai nhi, đo chiều dài cổ tử cung.
 
@@ -75,13 +75,13 @@ Những tuần thai sớm có thể thấy bất thường karyotype thai, TORCH
 Điều trị ngoại trú:
 
 - < 34 tuần: Tái khám mỗi 2 tuần đo chiều dài cổ tử cung, cân nhắc Corticosteroids trước sinh.
-- &ge; 34 tuần: Siêu âm Doppler, non-stress test mỗi tuần.
+- ≥ 34 tuần: Siêu âm Doppler, non-stress test mỗi tuần.
 
 **Tiêu chuẩn nhập viện:**
 
 - Xuất hiện quá tải dịch.
 - Dấu hiệu dọa đẻ non.
-- Thai &ge; 39 tuần.
+- Thai ≥ 39 tuần.
 - CTG nhóm II trở lên hoặc siêu âm Doppler màu bất thường.
 
 Điều trị nguyên nhân (nếu có).
@@ -98,8 +98,8 @@ Liệu pháp Corticosteroid thường quy.
 
 **Chỉ định chấm dứt thai kỳ:**
 
-- Thai &ge; 39 tuần có đa ối nhẹ đến trung bình.
-- Thai &ge; 37 tuần có đa ối nặng.
+- Thai ≥ 39 tuần có đa ối nhẹ đến trung bình.
+- Thai ≥ 37 tuần có đa ối nặng.
 - Thai 34-37 tuần có quá tải dịch nặng và đã dùng Corticosteroids.
 
 ### Phác đồ xử trí đa ối đơn thuần

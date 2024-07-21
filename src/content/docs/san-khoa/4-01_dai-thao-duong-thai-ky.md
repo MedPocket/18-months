@@ -35,11 +35,11 @@ Khiếm khuyết chức năng tế bào β không bù đủ sự gia tăng của
 
 ## Yếu tố nguy cơ
 
-Người trưởng thành có BMI &ge; 23 $kg/m^2$ và có 1 trong các nguy cơ sau:
+Người trưởng thành có BMI ≥ 23 $kg/m^2$ và có 1 trong các nguy cơ sau:
 
 - Gia đình có người mắc đái tháo đường thế hệ cận kề.
 - Tiền sử bệnh tim mạch do sơ vữa.
-- Tăng huyết áp (huyết áp tâm thu &ge; 140 mmHg hoặc huyết áp tâm trương &ge; 90 mmHg hay điều trị thước tăng huyết áp).
+- Tăng huyết áp (huyết áp tâm thu ≥ 140 mmHg hoặc huyết áp tâm trương ≥ 90 mmHg hay điều trị thước tăng huyết áp).
 - Nồng độ HDL-C trong máu < 0.9 mmol/L và/hoặc Triglyceride > 2.82 mmol/L.
 - Phụ nữ bị buồng trứng đa nang.
 - Ít vận động thể lực.
@@ -47,7 +47,7 @@ Người trưởng thành có BMI &ge; 23 $kg/m^2$ và có 1 trong các nguy cơ
 
 Phụ nữ đã mắc đái tháo đường thai kỳ.
 
-HbA1C &ge; 5.7%, rối loạn glucose huyết đói hay rối loạn dung nạp glucose ở lần xét nghiệm trước đó.
+HbA1C ≥ 5.7%, rối loạn glucose huyết đói hay rối loạn dung nạp glucose ở lần xét nghiệm trước đó.
 
 Người thực bắt đầu thực hiện xét nghiệm phát hiện đái tháo đường từ 45 tuổi.
 
@@ -266,7 +266,7 @@ Nhìn chung tăng đường huyết thai kỳ:
 
 ## Theo dõi hậu sản
 
-Nhiều thai phụ đái tháo đường không cần thiết điều trị Insulin trong 48 đến 72 giờ đầu sau sinh. Đường máu đói sau đẻ &ge; 7 mmol/L và/hoặc đường máu sau ăn &ge; 11.1 mmol/L cần điều trị Insulin. Cần dùng Insulin trong trường hợp có đường huyết tăng với liều khởi đầu sẽ bằng 2/3 liều trước khi mang thai.
+Nhiều thai phụ đái tháo đường không cần thiết điều trị Insulin trong 48 đến 72 giờ đầu sau sinh. Đường máu đói sau đẻ ≥ 7 mmol/L và/hoặc đường máu sau ăn ≥ 11.1 mmol/L cần điều trị Insulin. Cần dùng Insulin trong trường hợp có đường huyết tăng với liều khởi đầu sẽ bằng 2/3 liều trước khi mang thai.
 
 Làm lại nghiệm pháp dung nạp đường với 2 thời điểm (đói và 2h sau ăn) trong vòng 4-12 tuần sau đẻ.
 
