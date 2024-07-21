@@ -122,7 +122,7 @@ Phẫu thuật có thể có lợi ở những bệnh nhân 1 điểm đau cụ 
 
 Đối với chứng đau vú lan toả, không khuyến cáo phẫu thuật cắt bỏ vú4. Nếu bệnh nhân đề nghị phẫu thuật cắt bỏ vú để tái tạo, cần đánh giá tâm lý của khách hàng 1 cách cẩn thận trước khi đồng ý phẫu thuật. Khách hàng cần được thông báo về các biến chứng có thể có của phẫu thuật tạo hình và cảnh báo rằng trong 50% trường hợp đau vú của họ sẽ không được cải thiện sau phẫu thuật.
 
-## Phác đồ đánh giá và xử trí đau vú
+## Phác đồ đánh giá và xử trí
 
 ![Đánh giá và xử trí đau vú](../../../assets/phu-khoa/dau-vu/danh-gia-va-xu-tri-dau-vu.png)
 _Đánh giá và xử trí đau vú._
