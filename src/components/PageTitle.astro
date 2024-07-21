@@ -6,16 +6,14 @@
 
 import type { Props } from '@astrojs/starlight/props'
 
-const { data } = Astro.props.entry
 const { entry } = Astro.props
+const { title } = entry.data
 const { remarkPluginFrontmatter } = await entry.render()
 ---
 
 <div class="wrapper">
   <h1 id="_top">
-    <>
-      <span>{data.title}</span>
-    </>
+    <span>{title}</span>
   </h1>
   <p>{remarkPluginFrontmatter.minutesRead}</p>
 </div>
