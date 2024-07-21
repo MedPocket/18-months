@@ -1,13 +1,15 @@
 ---
-title: Hình ảnh học tuyến vú
-description: Hình ảnh học tuyến vú.
+title: Cận lâm sàng tuyến vú
+description: Cận lâm sàng tuyến vú.
 ---
 
-Tuyến vú có thể được khảo sát bằng:
+Tuyến vú có thể được khảo sát bằng các xét nghiệm chuyên khoa:
 
 1. Siêu âm.
 2. Nhũ ảnh.
 3. Cộng hưởng từ.
+4. Chọc hút tế bào bằng kim nhỏ.
+5. Sinh thiết lõi.
 
 ## Nhũ ảnh
 
@@ -21,7 +23,7 @@ Các tư thế tiêu chuẩn, bắt buộc và quan trọng nhất là các phim
 
 Phim CC đạt yêu cầu phải cho thấy được toàn bộ tuyến vú. Phía sau của phim phải thấy được cơ ngực lớn, mô mỡ sau vú (túi Chassaignac). 2 bên là phần bên ngoài cùng của tuyến vú. Phía trước phải nhìn rõ được toàn bộ núm vú. Phim MLO đạt yêu cầu phải cho thấy được cơ ngực. Phần cơ ngực lớn nhìn thấy xác định khối lượng mô vú thấy được trên phim. Quan sát cơ ngực quyết định chất lượng phim chụp, và làm giảm âm tính giả của nhũ ảnh. Hơn nữa, phần lớn các tổn thương ung thư vú xuất hiện ở 1/4 trên ngoài, nên vùng này bắt buộc phải quan sát 1 cách rõ ràng trên phim MLO.
 
-![Nhũ ảnh, phim MLO (trái) và phim CC (phải).](../../../assets/phu-khoa/hinh-anh-hoc-tuyen-vu/nhu-anh.png)
+![Nhũ ảnh, phim MLO (trái) và phim CC (phải).](../../../assets/phu-khoa/can-lam-sang-tuyen-vu/nhu-anh.png)
 _Nhũ ảnh, phim MLO (trái) và phim CC (phải).<br>Phim MLO (trái) cho thấy toàn bộ mô vú. Cơ ngực là tiêu chuẩn quan trọng nhất để đánh giá chất lượng phim MLO. 1 phim tốt sẽ cho thấy được mô vú ở mức độ tối da, đồng thời quan sát rõ được 1/4 trên ngoài của vú, nơi xuất phát của 1 phần quan trọng các ung thư vú. Trên phim CC (phải), về phía sau phải trình bày cho thấy được cơ ngực lớn và túi Chassaignac, về phía trước là phức bộ núm-quầng vú. 2 bên biên phải thấy trọn tuyến vú._
 
 Hình ảnh gây chú ý nhiều nhất trên nhũ ảnh là hình ảnh đóng vôi. Đóng vôi ở vú là kết quả của lắng đọng calcium trong chủ mô tuyến vú. Đóng vôi thường rất nhỏ để cảm nhận qua khám vú, nhưng lại là hình ảnh thường thấy nhất qua nhũ ảnh. Chúng là các đốm sáng nhỏ:
@@ -29,10 +31,10 @@ Hình ảnh gây chú ý nhiều nhất trên nhũ ảnh là hình ảnh đóng 
 1. Đóng vôi có thể là hình ảnh của 1 vấn đề lành tính trong đa phần các trường hợp. Thường gặp sau mãn kinh, nhiễm trùng cũ ở vú, phẫu thuật vú.
 2. Đóng vôi có thể là dấu hiệu rất sớm của ác tính. Vì thế, phân tích đặc tính của đóng vôi, nhất là đóng vôi vi thể có thể giúp phát hiện sớm ung thư vú.
 
-![Lắng đọng vôi bình thường ở các thể Montgomery](../../../assets/phu-khoa/hinh-anh-hoc-tuyen-vu/lang-dong-voi-binh-thuong-o-cac-the-montgomery.png)
+![Lắng đọng vôi bình thường ở các thể Montgomery](../../../assets/phu-khoa/can-lam-sang-tuyen-vu/lang-dong-voi-binh-thuong-o-cac-the-montgomery.png)
 _Lắng đọng vôi bình thường ở các thể Montgomery.<br> Tại quầng vú có thể có hình ảnh đóng vôi. Các điểm rất phân tán, chỉ thấy duy nhất ở quầng vú._
 
-![Đóng vôi trong tổn thương ác tính](../../../assets/phu-khoa/hinh-anh-hoc-tuyen-vu/dong-voi-lon-va-nho-trong-ton-thuong-ac-tinh.png)
+![Đóng vôi trong tổn thương ác tính](../../../assets/phu-khoa/can-lam-sang-tuyen-vu/dong-voi-lon-va-nho-trong-ton-thuong-ac-tinh.png)
 _(Trái) Đóng vôi lớn và nhỏ trong 1 thương tổn ác tính.<br>Đóng vôi có thể xuất hiện như những hạt rất mịn mũi tên kép, dưới). Đóng vôi cũng có thể xuất hiện dưới dạng đóng vôi to (mũi tên đơn, trên). Giải phẫu bệnh của 2 thương tổn này là carcinoma in-situ ống tuyến vú.<br>(Phải, trên) Ảnh nhìn qua kính lúp 1 đóng vôi nhỏ của 1 carcinoma vi xâm lấn.<br>(Phải, dưới) Đóng vôi có thể xuất hiện như những hạt rất mịn. Ảnh nhìn qua kính lúp 1 đóng vôi nhỏ của 1 carcinoma in situ._
 
 Đóng vôi có thể là lớn (macrocalcification) hay nhỏ (microcalcification). Cả 2 đều thường là lành tính, nhưng cả 2 cùng có thể thấy trong ác tính. Tuy nhiên, so với đóng vôi lớn, thì đóng vôi vi thể thường đòi hỏi 1 đánh giá rất thận trọng. Các thương tổn đóng vôi sẽ được phân ra:
@@ -47,7 +49,7 @@ _(Trái) Đóng vôi lớn và nhỏ trong 1 thương tổn ác tính.<br>Đóng
 Siêu âm tuyến vú dùng các sóng âm tần số cao, 7-12 MHz, nhằm có được hình ảnh cự ly gần với mức phân giải cao. Siêu âm tuyến vú không có vị trí trong 1 tầm soát ung thư vú theo đúng nghĩa của từ này. Không dùng cho tầm soát thường quy ở người trên 45 tuổi. Chỉ có thể xem siêu âm tuyến vú như biện pháp "khám tuyến vú" sơ cấp cho người độ tuổi 30, có đậm độ mô vú dầy, và khi nhũ ảnh chưa phải là nội dung tầm soát thường quy ở lứa tuổi này. Siêu âm tuyến vú thường được dùng để kết hợp với nhũ ảnh để thực hiện chẩn đoán khi kết quả nhũ ảnh không xác định, hoặc để hướng dẫn sinh thiết. Siêu âm Doppler tuyến vú giúp khảo sát dòng chảy mạch máu ở vùng nghi ngờ. Siêu âm hữu ích trong mô tả tính chất của nang: (1) số
 lượng nang, (2) hình dáng và tính chất bờ: bờ trơn láng và mỏng hay thành dầy với chồi trong nang, (3) phản âm bên trong trống, đồng nhất hay là u đặc.
 
-![Siêu âm tuyến vú](../../../assets/phu-khoa/hinh-anh-hoc-tuyen-vu/sieu-am-vu.png)
+![Siêu âm tuyến vú](../../../assets/phu-khoa/can-lam-sang-tuyen-vu/sieu-am-vu.png)
 _(Trái) Siêu âm vú thường được dùng cho "khám tầm soát" ở người trẻ, hay hỗ trợ cho chẩn đoán. Hình cho thấy 2 cấu trúc nang ở vú trên siêu âm, với cấu tạo âm học khác nhau, 1 phản âm hỗn hợp (trái) và 1 phản âm trống (phải).<br>(Phải) Sinh thiết nang vú hướng dẫn bởi siêu âm._
 
 Siêu âm tuyến vú được thực hiện ở tư thế nằm ngửa. Các chùm sóng được gửi đến thẳng đứng với bề mặt da. Lần lượt thực hiện các lát cắt:
@@ -56,7 +58,7 @@ Siêu âm tuyến vú được thực hiện ở tư thế nằm ngửa. Các ch
 2. Các lát cắt hình nan hoa và theo phương tiếp tuyến.
 3. Khảo sát hạch nách.
 
-![Các lát cắt khảo sát trên siêu âm](../../../assets/phu-khoa/hinh-anh-hoc-tuyen-vu/cac-lat-cat-khao-sat-tren-sieu-am.png)
+![Các lát cắt khảo sát trên siêu âm](../../../assets/phu-khoa/can-lam-sang-tuyen-vu/cac-lat-cat-khao-sat-tren-sieu-am.png)
 _Các lát cắt khảo sát trên siêu âm._
 
 ## Cộng hưởng từ
@@ -82,8 +84,31 @@ Chỉ định chính của MRI là phối hợp để chẩn đoán, cùng với
 - Đánh giá các khối u đa ổ.
 - Đánh giá hiệu quả của hóa trị liệu.
 
-![Cộng hưởng từ tuyến vú](../../../assets/phu-khoa/hinh-anh-hoc-tuyen-vu/cong-huong-tu-tuyen-vu.png)
+![Cộng hưởng từ tuyến vú](../../../assets/phu-khoa/can-lam-sang-tuyen-vu/cong-huong-tu-tuyen-vu.png)
 _MRI cung cấp các hình ảnh rất chi tiết về cấu trúc mô tuyến vú. MRI này chụp ở 1 đối tượng nguy cơ rất cao của ung thư vú._
+
+## Chọc hút tế bào bằng kim nhỏ (FNA)
+
+Được chỉ định khi:
+
+- BIRADS ≥ nhóm III.
+- Nang vú không điển hình.
+- Tình huống lâm sàng cần chẩn đoán tế bào học hỗ trợ hoặc giảm áp nang vú.
+
+## Sinh thiết lõi (core biopsy)
+
+Chỉ định khi:
+
+- Tổn thương dạng đặc cần chẩn đoán mô học, kích thước > 15 mm.
+- Khi FNA nghi ngờ ác tính.
+- Tình huống lâm sàng cần chẩn đoán mô học hỗ trợ.
+
+## Sinh thiết mở (open biopsy)
+
+Chỉ định khi:
+
+- Core biopsy không thực hiện được.
+- Không có sự tương đồng giữa kết quả chẩn đoán hình ảnh và lâm sàng.
 
 ## GENE BRCA
 
@@ -102,3 +127,4 @@ Không phải mọi người đều phải khảo sát đột biến BRCA. Khả
 ## Nguồn tham khảo
 
 - TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA 2022 - Bệnh viện Từ Dũ.

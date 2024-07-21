@@ -1,6 +1,6 @@
 ---
-title: Tiếp cận đau vú
-description: Tiếp cận đau vú.
+title: Đau vú
+description: Đau vú.
 ---
 
 Đau vú (mastalgia) là 1 triệu chứng thường gặp và là nguyên nhất chủ yếu khiến người phụ nữ đến khám vú.
@@ -21,7 +21,7 @@ Khoảng 50% phụ nữ đến khám vú là do đau vú. Có khoảng 60-70% ph
 
 Đau vú theo chu kỳ có liên quan đến chu kỳ kinh, thường xảy ra trước khi hành kinh 1-2 tuần, thường xảy ra quanh độ tuổi 30-40.
 
-Đau thường là đau lan toả ở 2 bên, không xác định rõ vị trí. 1 số trường hợp có thể đau nhiều ở 1 bên vú hơn so với bên vú còn lại. Người phụ nữ than phiền về cảm giác nặng, sưng, đau lan ra nách hoặc cánh tay. Đau vú theo chu kỳ thường khỏi tự nhiên khi bắt đầu ra máu kinh. Đau vú theo chu kỳ có thể tự khỏi sau 1 số hoàn cảnh đặc biệt như: thai kỳ, mãn kinh. Tuy nhiên, 1 số trường hợp vẫn tồn tại đau vú sau mãn kinh.
+Đau thường là đau lan toả ở 2 bên, không xác định rõ vị trí. Có trường hợp có thể đau nhiều ở 1 bên vú hơn so với bên vú còn lại. Người phụ nữ than phiền về cảm giác nặng, sưng, đau lan ra nách hoặc cánh tay. Đau vú theo chu kỳ thường khỏi tự nhiên khi bắt đầu ra máu kinh. Đau vú theo chu kỳ có thể tự khỏi sau 1 số hoàn cảnh đặc biệt như: thai kỳ, mãn kinh. Tuy nhiên, 1 số trường hợp vẫn tồn tại đau vú sau mãn kinh.
 
 #### Cơ chế
 
@@ -103,10 +103,9 @@ Tamoxifen với liều 10 mg mỗi ngày làm giảm từ 70-90% phụ nữ bị
 
 Danazol là dẫn xuất testosterone, có tính đối kháng gonadotropin, và có tác dụng androgenic nhẹ. Danazol gắn kết với các thụ thể progesterone và androgen. Cơ chế điều trị đau vú của Danazol chưa được rõ, nhưng Danazol làm giảm triệu chứng ở 70% phụ nữ đau vú theo chu kỳ và 31% trường hợp đau vú không theo chu kỳ. Tỷ lệ tái phát là 50% sau khi ngưng điều trị.
 
-Danazol là 1 liệu pháp với nhiều tác dụng phụ, đặc biệt liên quan đến nam hóa. Các tác dụng phụ thường gặp với Danazol là mọc tóc, rậm lông, mụn trứng cá, tăng cân và rối loạn kinh nguyệt. Thay đổi âm vực của giọng nói xảy ra sau Danazol có thể không hồi phục, nên cần phải rất cân nhắc khi quyết định
-sử dụng liệu pháp này cho đau vú. Danazol có thể gây trầm cảm, làm giảm hiệu quả của thuốc viên ngừa thai kết hợp. Người dùng cần phải được tư vấn dùng thêm bao cao su để tránh thai. Danazol có thể gây quái thai. Do tác dụng phụ, nên Danazol chỉ dùng cho các trường hợp đau vú nặng, thất bại sau 3-6 tháng điều trị với Tamoxifen.
+Danazol là 1 liệu pháp với nhiều tác dụng phụ, đặc biệt liên quan đến nam hóa. Các tác dụng phụ thường gặp với Danazol là mọc tóc, rậm lông, mụn trứng cá, tăng cân và rối loạn kinh nguyệt. Thay đổi âm vực của giọng nói xảy ra sau Danazol có thể không hồi phục, nên cần phải rất cân nhắc khi quyết định sử dụng liệu pháp này cho đau vú. Danazol có thể gây trầm cảm, làm giảm hiệu quả của thuốc viên ngừa thai kết hợp. Người dùng cần phải được tư vấn dùng thêm bao cao su để tránh thai. Danazol có thể gây quái thai. Do tác dụng phụ, nên Danazol chỉ dùng cho các trường hợp đau vú nặng, thất bại sau 3-6 tháng điều trị với Tamoxifen.
 
-Danazol với liều 200 mg hàng ngày là thuốc duy nhất được FDA công nhận trong điều trị đau vú. Điều trị thường 3-6 tháng rồi giảm liều sau đó ngưng điều trị. Tuy nhiên, tại Ấn Độ, liều khởi đầu 50 mg mỗi ngày 1 lần và sau đó tăng lên 50 mg hai lần mỗi ngày nếu không đáp ứng điều trị. 1 khi có đáp ứng, duy trì liều trong ít nhất 3 tháng; tại các nước phương tây, khuyến cáo liều duy trì là 100 mg mỗi ngày. Các nghiên cứu gần đây, cho thấy Danazol có hiệu quả trong điều trị đau vú khi được dùng sử dụng trong pha hoàng thể (ngày 12 đến ngày 28 của chu kỳ kinh).
+Danazol với liều 200 mg hàng ngày là thuốc duy nhất được FDA công nhận trong điều trị đau vú. Điều trị thường 3-6 tháng rồi giảm liều sau đó ngưng điều trị. Tuy nhiên, tại Ấn Độ, liều khởi đầu 50 mg mỗi ngày 1 lần và sau đó tăng lên 50 mg hai lần mỗi ngày nếu không đáp ứng điều trị. Khi có đáp ứng, duy trì liều trong ít nhất 3 tháng; tại các nước phương tây, khuyến cáo liều duy trì là 100 mg mỗi ngày. Các nghiên cứu gần đây, cho thấy Danazol có hiệu quả trong điều trị đau vú khi được dùng sử dụng trong pha hoàng thể (ngày 12 đến ngày 28 của chu kỳ kinh).
 
 #### Bromocriptine
 
@@ -114,7 +113,7 @@ Bromocriptine là 1 chất đồng vận dopamine. Bromocriptine và kích thíc
 
 Liều 5 mg ngày giúp 47-88% phụ nữ giảm đau vú đáng kể. Bromocriptine làm giảm điểm số đau vú trung bình 16.31 so với nhóm dùng giả dược. Bromocriptine gây ra 1 tác dụng phụ nghiêm trọng, phổ biến nhất là buồn nôn, nôn và chóng mặt. Chính các tác dụng phụ này thường khiến khách hàng ngưng sử dụng thuốc.
 
-![Điều trị đau vú theo phác đồ Cardiff, 2009](../../../assets/phu-khoa/tiep-can-dau-vu/dieu-tri-dau-vu-theo-phac-do-cardiff.png)
+![Điều trị đau vú theo phác đồ Cardiff, 2009](../../../assets/phu-khoa/dau-vu/dieu-tri-dau-vu-theo-phac-do-cardiff.png)
 _Điều trị đau vú theo phác đồ Cardiff, 2009._
 
 ### Phẫu thuật
@@ -126,3 +125,4 @@ Phẫu thuật có thể có lợi ở những bệnh nhân 1 điểm đau cụ 
 ## Nguồn tham khảo
 
 - TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA 2022 - Bệnh viện Từ Dũ.
