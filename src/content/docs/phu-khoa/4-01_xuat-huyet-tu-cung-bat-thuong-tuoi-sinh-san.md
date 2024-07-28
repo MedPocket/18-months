@@ -1,6 +1,6 @@
 ---
-title: Xuất huyết tử cung bất thường ở phụ nữ trong độ tuổi sinh sản
-description: Xuất huyết tử cung bất thường ở phụ nữ trong độ tuổi sinh sản.
+title: Xuất huyết tử cung bất thường trong độ tuổi sinh sản
+description: Xuất huyết tử cung bất thường trong độ tuổi sinh sản.
 ---
 
 Xuất huyết tử cung bất thường (Abnormal uterine bleeding - AUB) hay gặp ở phụ nữ trong độ tuổi sinh sản.
@@ -74,7 +74,7 @@ Cận lâm sàng:
 - Xét nghiệm hình ảnh: Siêu âm đầu dò bụng - âm đạo, siêu âm bơm nước buồng tử cung, MRI,...
 - Nội soi buồng chẩn đoán.
 
-![Sơ đồ tiếp cận AUB mạn tính](../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong/so-do-tiep-can-AUB-man-tinh.png)
+![Sơ đồ tiếp cận AUB mạn tính](../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-AUB-man-tinh.png)
 
 ## Nguồn tham khảo
 
