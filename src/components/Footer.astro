@@ -1,28 +1,33 @@
 ---
+import { Icon } from '@astrojs/starlight/components'
 import Default from '@astrojs/starlight/components/Footer.astro'
 import type { Props } from '@astrojs/starlight/props'
 ---
 
+<Default {...Astro.props} />
+
+<section class="sl-flex">
+  <a href="https://github.com/MedPocket" class="sl-flex">
+    <Icon name="heart" size="1.2em" /> by MedPocket
+  </a>
+</section>
+
 <style>
-  .credits {
+  section {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 0.5rem 1.5rem;
+    font-size: var(--sl-text-sm);
+  }
+
+  a {
     align-items: center;
-    gap: 0.5em;
-    font-size: var(--sl-text-xs);
     text-decoration: none;
-    border-top: 1px solid var(--sl-color-gray-5);
-    margin-top: 5rem !important;
-    padding-top: 1rem;
+    gap: 0.5rem;
+    color: var(--sl-color-gray-3);
   }
-  .credits a {
-    color: var(--sl-color-accent-high);
-  }
-  .credits a:hover {
+
+  a:hover {
     color: var(--sl-color-white);
   }
 </style>
-
-<Default {...Astro.props} />
-<p class="credits sl-flex">
-  made with ❤️ by
-  <a href="https://github.com/MedPocket">MedPocket</a>
-</p>

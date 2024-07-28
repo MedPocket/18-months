@@ -24,7 +24,6 @@ export default defineConfig({
         {
           target: '_blank',
           rel: ['nofollow', 'noopener'],
-          content: { type: 'text', value: ' ↗' },
         },
       ],
     ],
