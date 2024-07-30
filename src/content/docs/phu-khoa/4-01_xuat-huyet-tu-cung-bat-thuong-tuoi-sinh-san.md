@@ -48,8 +48,8 @@ Khảo sát cận lâm sàng sơ cấp nhằm loại trừ xuất huyết tử c
 ![Sơ đồ tiếp cận AUB mạn tính](../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.jpeg)
 _Sơ đồ tiếp cận AUB mạn tính theo Bệnh viện Từ Dũ._
 
-![Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp xuất huyết tử cung bất thường](../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/tom-luoc-khao-sat-va-chan-doan-1-so-truong-hop.jpeg)
-_Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp xuất huyết tử cung bất thường._
+![Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường](../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/tom-luoc-khao-sat-va-chan-doan-1-so-truong-hop.jpeg)
+_Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường._
 
 ## Xử trí AUB
 
@@ -76,7 +76,7 @@ Các điều trị nội khoa chủ yếu cho mục đích cầm máu là điề
 - Estrogen gây phát triển nội mạc.
 - Progestogen gây phân tiết nội mạc.
 
-Cần lưu ý rằng progestogen chỉ có thể có tác dụng nếu như nội mạc trước đó đã nhận được estrogen nội sinh hay ngoại sinh. Steroid sinh dục có thể được dùng đơn độc từng loại steroid hay phối hợp cả hai steroid sinh dục. Chúng có thể dùng bằng nhiều đường khác nhau.
+Cần lưu ý rằng progestogen chỉ có thể có tác dụng nếu như nội mạc trước đó đã nhận được estrogen nội sinh hay ngoại sinh. Steroid sinh dục có thể được dùng đơn độc từng loại steroid hay phối hợp cả 2 steroid sinh dục. Chúng có thể dùng bằng nhiều đường khác nhau.
 
 Các điều trị nội khoa cho mục đích điều trị nguyên nhân thường là các nội tiết có tác động chuyên biệt:
 

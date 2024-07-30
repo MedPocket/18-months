@@ -1,6 +1,6 @@
 ---
-title: Xuất huyết tử cung bất thường ở tuổi quanh mãn kinh
-description: Xuất huyết tử cung bất thường ở tuổi quanh mãn kinh.
+title: Xuất huyết tử cung bất thường quanh mãn kinh
+description: Xuất huyết tử cung bất thường quanh mãn kinh.
 ---
 
 ## Nguồn tham khảo

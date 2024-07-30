@@ -171,7 +171,7 @@ Cố định tử cung/mỏm cắt vào mỏm nhô bằng chỉ không tan hoặ
 
 Cố định tử cung/mỏm cắt vào dây chằng cùng - gai bằng chỉ không tan hoặc mảnh ghép tổng hợp.
 
-May ngắn dây chằng tử cung cùng hai bên bằng chỉ không tan (may trong phúc mạc).
+May ngắn dây chằng tử cung cùng 2 bên bằng chỉ không tan (may trong phúc mạc).
 
 Cố định mỏm cắt vào dây chằng tử cung - cùng.
 
