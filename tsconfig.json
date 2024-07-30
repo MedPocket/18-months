@@ -9,6 +9,5 @@
     "jsx": "react-jsx",
     "jsxImportSource": "react"
   },
-  "include": ["./src/env.d.ts", "**/*.ts", "**/*.tsx", "astro.config.mjs"],
   "exclude": ["dist"]
 }
