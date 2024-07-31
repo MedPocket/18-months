@@ -4,6 +4,7 @@
  * https://github.com/withastro/docs/blob/main/src/components/starlight/PageTitle.astro
  */
 
+import { Icon } from '@astrojs/starlight/components'
 import type { Props } from '@astrojs/starlight/props'
 
 const { entry } = Astro.props
@@ -15,7 +16,10 @@ const { remarkPluginFrontmatter } = await entry.render()
   <h1 id="_top">
     <span>{title}</span>
   </h1>
-  <p>{remarkPluginFrontmatter.minutesRead}</p>
+  <p class="sl-flex">
+    <Icon name="seti:clock" size="1.2em" />
+    {remarkPluginFrontmatter.minutesRead}
+  </p>
 </div>
 
 <style>
@@ -31,5 +35,11 @@ const { remarkPluginFrontmatter } = await entry.render()
     font-size: var(--sl-text-h1);
     font-weight: 600;
     line-height: var(--sl-line-height-headings);
+  }
+  p {
+    gap: 0.5rem;
+    align-items: center;
+    text-decoration: none;
+    color: var(--sl-color-gray-3);
   }
 </style>
