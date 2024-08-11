@@ -66,7 +66,7 @@ Soi buồng tử cung:
 - Có thể thấy những hình ảnh như nội mạc tử cung dày lên, có những đường viền, rãnh xung huyết, những nhú nội mạc bờ dày không đều. Tăng sinh nội mạc tử cung có 2 dạng:
   - Tăng sinh khu trú.
   - Tăng sinh toàn diện: toàn bộ nội mạc tử cung dầy.
-- Soi buồng tử cung có thể giúp hướng dẫn việc nạo sinh thiết 1 cách chính xác.
+- Soi buồng tử cung có thể giúp hướng dẫn việc nạo sinh thiết chính xác.
 
 ## Xử trí
 

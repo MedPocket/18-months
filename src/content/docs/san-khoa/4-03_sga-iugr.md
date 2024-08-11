@@ -105,7 +105,7 @@ Thiết lập chẩn đoán IUGR bao gồm 3 nội dung:
 
 Thai nhỏ hơn bình thường trong trường hợp song thai không đồng nghĩa với các thai này có giới hạn tăng trưởng trong tử cung.
 
-1 số không nhỏ thai nhi song thai chỉ là SGA. 1 số khác lại có vấn đề thật sự liên quan đến IUGR cấp máu qua nhau không đủ cho nhiều thai nhi tăng trưởng đồng thời 1 cách bình thường, hay hội chứng truyền máu trong song thai 1 trứng.
+1 số không nhỏ thai nhi song thai chỉ là SGA. 1 số khác lại có vấn đề thật sự liên quan đến IUGR cấp máu qua nhau không đủ cho nhiều thai nhi tăng trưởng đồng thời bình thường, hay hội chứng truyền máu trong song thai 1 trứng.
 
 ## Nguồn tham khảo
 

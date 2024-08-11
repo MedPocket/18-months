@@ -45,7 +45,7 @@ _Là các tế bào biểu mô có nhiều vi khuẩn hình cầu bám dính tr�
 
 ### Điểm Nugent
 
-Điểm Nugent là công cụ khác để chẩn đoán loạn khuẩn âm đạo, chỉ căn cứ 1 cách đơn thuần vào hình thái học vi sinh, căn cứ trên:
+Điểm Nugent là công cụ khác để chẩn đoán loạn khuẩn âm đạo, chỉ căn cứ đơn thuần vào hình thái học vi sinh, căn cứ trên:
 
 1. Sự hiện diện của các vi khuẩn hình que lớn (Lactobacillus): càng nhiều thì điểm càng nhỏ, từ 0-4.
 2. Sự hiện diện của các vi khuẩn hình que nhỏ (Gardnerella vaginalis, Prevotella, Porphyromonas, và Peptostreptococcus), hiện diện càng nhiều thì điểm càng lớn, từ 0-4.

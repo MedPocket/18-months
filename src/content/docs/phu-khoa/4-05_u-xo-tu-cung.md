@@ -483,7 +483,7 @@ Phụ nữ có thai và có u xơ mà có triệu chứng đau cần nhập vi�
 
 ### Lựa chọn bóc u xơ trong mổ lấy thai
 
-Không nên phẫu thuật bóc u xơ trong mổ lấy thai 1 cách thường quy.
+Không nên phẫu thuật bóc u xơ trong mổ lấy thai thường quy.
 
 Cần đánh giá nguy cơ và lợi ích cũng như cân nhắc kỹ năng và kinh nghiệm của phẫu thuật viên, lượng máu dự trù, số lượng, vị trí và kích thước của u xơ tử cung.
 
@@ -513,7 +513,7 @@ Quyết định can thiệp tùy theo vị trí, kích thước và qus trình �
 
 Sarcoma cơ trơn thân tử cung là 1 tình trạng hiếm gặp.
 
-Thử thách nan giải nhất là thực tế về việc không thể phân định 1 cách rạch ròi và đáng tin cậy 1 u xơ-cơ tử cung với sarcoma cơ trơn thân tử cung bởi bất cứ kỹ thuật hình ảnh nào.
+Thử thách nan giải nhất là thực tế về việc không thể phân định rạch ròi và đáng tin cậy 1 u xơ-cơ tử cung với sarcoma cơ trơn thân tử cung bởi bất cứ kỹ thuật hình ảnh nào.
 
 Hơn nữa, cho đến nay, người ta vẫn không thể biết được là liệu sarcoma thân tử cung là 1 bệnh lý phát triển từ 1 u xơ-cơ tử cung hay là 1 bệnh lý độc lập.
 

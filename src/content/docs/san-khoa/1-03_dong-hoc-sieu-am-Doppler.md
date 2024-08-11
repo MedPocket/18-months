@@ -49,7 +49,7 @@ tuần hoàn rau thai do hậu quả của kết tập tiểu cầu, lắng đ�
 
 Nên sử dụng khảo sát dòng chảy động mạch rốn bằng Doppler để đánh giá chức năng tuần hoàn rau thai ở những thai kỳ nghi ngờ có sự suy yếu chức năng bánh nhau (tăng huyết áp, thai chậm tăng trưởng trong buồng tử cung).
 
-Trở kháng động mạch rốn tăng cao, cuối cùng dẫn đến tình trạng rất nặng là hiện tượng mất dòng chảy cuối tâm trương hoặc đảo ngược dòng chảy cuối tâm trương. Khi xuất hiện sự giảm, mất hoặc đảo ngược dòng chảy cuối tâm trương trên Doppler động mạch rốn cần xem xét cụ thể các yếu tố còn lại trên lâm sàng để quyết định chấm dứt thai kỳ hay tiếp tục theo dõi đánh giá thai kỳ 1 cách chặt chẽ.
+Trở kháng động mạch rốn tăng cao, cuối cùng dẫn đến tình trạng rất nặng là hiện tượng mất dòng chảy cuối tâm trương hoặc đảo ngược dòng chảy cuối tâm trương. Khi xuất hiện sự giảm, mất hoặc đảo ngược dòng chảy cuối tâm trương trên Doppler động mạch rốn cần xem xét cụ thể các yếu tố còn lại trên lâm sàng để quyết định chấm dứt thai kỳ hay tiếp tục theo dõi đánh giá thai kỳ chặt chẽ.
 
 ![Vắng mặt dòng chảy trong tâm trương động mạch rốn](../../../assets/san-khoa/dong-hoc-sieu-am-doppler/vang-mat-dong-chay-trong-tam-truong-dong-mach-ron.png)
 

@@ -26,7 +26,7 @@ Chức năng sinh học được biết rõ nhất của β-hCG là biến hoàn
 
 β-hCG cũng kích thích hoàng thể sản xuất ra relaxin giúp giảm co thắt cơ trơn tử cung.
 
-## Động học trong thai kỳ
+## Động học β-hCG
 
 Đối với phụ nữ không mang thai, nồng độ β-hCG dưới 5 mUI/ml, phụ nữ có thai nồng độ β-hCG là trên 25 mUI/ml. Que thử thai thường có độ nhạy từ 20-25 mUI/ml.
 
@@ -42,9 +42,9 @@ Sau đó, nồng độ hCG sẽ giảm dần và đạt cực tiểu tại thờ
 
 ![Bảng nồng độ β-hCG](../../../assets/san-khoa/dong-hoc-beta-hcg/bang-nong-do-beta-hcg.png)
 
-## β-hCG và tình trạng thai
+## Ngưỡng β-hCG
 
-β-hCG đạt mức 1500 mIU/mL có thể thấy được hình ảnh túi thai trong buồng tử cung qua siêu âm đầu dò âm đạo. Nếu không thấy được hình ảnh túi thai cần nghĩ đến thai ngoài tử cung, thai ngưng tiến triển hoặc đã sẩy hay giai đoạn sớm của 1 trường hợp đa thai.
+β-hCG đạt mức 1500 mIU/mL có thể thấy được hình ảnh túi thai trong buồng tử cung qua siêu âm đầu dò âm đạo và 3000 mIU/mL đối với song thai. Nếu không thấy được hình ảnh túi thai cần nghĩ đến thai ngoài tử cung, thai ngưng tiến triển hoặc đã sẩy hay giai đoạn sớm của 1 trường hợp đa thai.
 
 β-hCG trên 4000 mIU/mL trên siêu âm có thể thấy được hình ảnh phôi thai với hoạt động tim phôi.
 

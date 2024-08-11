@@ -12,7 +12,7 @@ Xuất huyết tử cung bất thường được định nghĩa là xuất huy�
 Theo FIGO 2018 chia làm 2 hệ thống:
 
 - Hệ thống 1: Theo định nghĩa xuất huyết tử cung bất thường.
-- Hệ thống 2: Theo nguyên nhân gây xuất huyết (PALM - COEIN)
+- Hệ thống 2: Theo nguyên nhân gây xuất huyết (PALM - COEIN).
 
 ### Theo định nghĩa
 
@@ -99,7 +99,7 @@ Các hệ thống phóng thích steroid tác dụng dài, đặc biệt là dụ
 
 Nội soi buồng tử cung thường được dùng để cắt đốt polyp nội mạc tử cung hay nhân xơ dưới niêm mạc.
 
-Trong trường hợp cần thiết và bệnh nhân không còn ý định sinh thêm con, các biện pháp mang tính phá hủy như đốt phá hủy nội mạc tử cung hay cắt nội mạc tử cung qua nội soi buồng tử cung, hay thuyên tắc động mạch tử cung để ngưng hay giảm xuất huyết tử cung 1 cách lâu dài. Bệnh nhân phải được tư vấn rằng đây là các biện pháp không hồi phục.
+Trong trường hợp cần thiết và bệnh nhân không còn ý định sinh thêm con, các biện pháp mang tính phá hủy như đốt phá hủy nội mạc tử cung hay cắt nội mạc tử cung qua nội soi buồng tử cung, hay thuyên tắc động mạch tử cung để ngưng hay giảm xuất huyết tử cung lâu dài. Bệnh nhân phải được tư vấn rằng đây là các biện pháp không hồi phục.
 
 Chỉ nên xem xét đến cắt tử cung trong trường hợp thất bại với tất cả các điều trị khác. Nhớ rằng thuyên tắc động mạch tử cung có ý nghĩa ngang với cắt tử cung.
 

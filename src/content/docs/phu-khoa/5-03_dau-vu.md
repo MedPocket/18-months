@@ -81,7 +81,7 @@ Liệu pháp không thuốc như chọn lựa loại áo ngực phù hợp, li�
 - Thử nghiệm cho thấy hiệu quả giảm đau của thoa dầu thảo dược lên vú vào buổi tối. Tuy nhiên, phân tích gộp cho thấy lợi ích giảm đau tương tự như lợi ích của giả dược. 1 số bác sĩ vẫn thích sử dụng dầu thảo dược buổi tối để giảm đau ngực.
 - Chế độ ăn ít béo được cho là có thể làm giảm 1 số nội tiết như prolactin, và do đó được thực hiện trong làm giảm đau vú. Ngoài ra, béo phì có liên quan đến nồng độ cao estrogens ở phụ nữ sau mãn kinh. Về mặt lý thuyết, việc giảm trọng lượng cơ thể ở những người béo phì có thể làm giảm khả năng bị đau vú. Tuy nhiên, thiếu bằng chứng trực tiếp để chứng minh cho giả thuyết này. Cần có thêm nghiên cứu để đánh giá vấn đề này.
 - Caffeine thường được xem như là 1 yếu tố có liên quan đến đau vú. Mặc dù mối liên quan giữa caffeine và đau vú đã được chứng minh, nhưng các tác giả tìm thấy việc loại bỏ chất methylxanthine (chất có trong trà, cà phê, Coca và chocolate) đưa đến các kết quả với các bằng chứng trái ngược nhau.
-- Tập thể dục cũng làm giảm nồng độ estrogen và điều này cũng có thể là 1 cách thay đổi lối sống. Tuy nhiên, chưa có đủ bằng chứng trực tiếp cho thấy việc tập thể dục như là 1 điều trị cho đau vú.
+- Tập thể dục cũng làm giảm nồng độ estrogen và điều này cũng có thể là thay đổi lối sống. Tuy nhiên, chưa có đủ bằng chứng trực tiếp cho thấy việc tập thể dục như là 1 điều trị cho đau vú.
 
 ### Điều trị đau vú bằng các nội tiết tố
 
@@ -120,7 +120,7 @@ _Điều trị đau vú theo phác đồ Cardiff, 2009._
 
 Phẫu thuật có thể có lợi ở những bệnh nhân 1 điểm đau cụ thể. Ở những người này, triệu chứng đau có thể được giảm bớt bằng cách cắt bỏ các vùng bị đau.
 
-Đối với chứng đau vú lan toả, không khuyến cáo phẫu thuật cắt bỏ vú4. Nếu bệnh nhân đề nghị phẫu thuật cắt bỏ vú để tái tạo, cần đánh giá tâm lý của khách hàng 1 cách cẩn thận trước khi đồng ý phẫu thuật. Khách hàng cần được thông báo về các biến chứng có thể có của phẫu thuật tạo hình và cảnh báo rằng trong 50% trường hợp đau vú của họ sẽ không được cải thiện sau phẫu thuật.
+Đối với chứng đau vú lan toả, không khuyến cáo phẫu thuật cắt bỏ vú4. Nếu bệnh nhân đề nghị phẫu thuật cắt bỏ vú để tái tạo, cần đánh giá tâm lý của khách hàng cẩn thận trước khi đồng ý phẫu thuật. Khách hàng cần được thông báo về các biến chứng có thể có của phẫu thuật tạo hình và cảnh báo rằng trong 50% trường hợp đau vú của họ sẽ không được cải thiện sau phẫu thuật.
 
 ## Phác đồ đánh giá và xử trí
 

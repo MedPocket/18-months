@@ -20,9 +20,9 @@ Siêu âm thang xám có thể được thực hiện qua ngả bụng hay qua n
 
 Siêu âm thang xám thực hiện qua ngả bụng sử dụng sóng âm có tần số thấp nên có tầm quan sát rộng, cho phép có được nhận định tổng quát về vùng chậu, đánh giá được các khối u rất to, và đánh giá sự lan tràn của ung thư trong khoang phúc mạc. Hạn chế của siêu âm thang xám đường bụng là chất lượng chi tiết hình ảnh không cao do tần số sóng âm thấp.
 
-Siêu âm thang xám thực hiện qua đường âm đạo sử dụng sóng âm tần số cao, cung cấp hình ảnh có độ phân giải cao, cho phép đánh giá chi tiết cấu trúc u và giúp đánh giá khả năng lành tính của khối u là cao hay thấp. Hạn chế của siêu âm thang xám đường âm đạo là phạm vi quan sát bị giới hạn. Trong phần lớn các trường hợp với kích thước u nhỏ hay trung bình, người ta dùng siêu âm qua đường âm đạo để khảo sát và phân loại hình ảnh học 1 cách chi tiết.
+Siêu âm thang xám thực hiện qua đường âm đạo sử dụng sóng âm tần số cao, cung cấp hình ảnh có độ phân giải cao, cho phép đánh giá chi tiết cấu trúc u và giúp đánh giá khả năng lành tính của khối u là cao hay thấp. Hạn chế của siêu âm thang xám đường âm đạo là phạm vi quan sát bị giới hạn. Trong phần lớn các trường hợp với kích thước u nhỏ hay trung bình, người ta dùng siêu âm qua đường âm đạo để khảo sát và phân loại hình ảnh học chi tiết.
 
-Việc mô tả 1 cách chi tiết các đặc điểm hình ảnh học của khối u đóng vai trò quan trọng trong việc phân định khả năng lành tính cao và ít có khả năng là lành tính. Các đặc điểm có ý nghĩa, và thường được dùng là:
+Việc mô tả chi tiết các đặc điểm hình ảnh học của khối u đóng vai trò quan trọng trong việc phân định khả năng lành tính cao và ít có khả năng là lành tính. Các đặc điểm có ý nghĩa, và thường được dùng là:
 
 1. Cấu trúc dạng nang hay dạng đặc.
 2. Tính chất của phản âm bên trong.
@@ -41,7 +41,7 @@ Những cấu trúc u dạng nang của buồng trứng kiểu II đa phần là
 
 Các khối u có phân loại hình ảnh siêu âm thang xám các kiểu IV, V, VI có liên quan đến khả năng có ung thư, nhưng giá trị dự báo dương (PPV) không đủ cao. Chỉ có các hình ảnh siêu âm kiểu VI mới có có giá trị dự đoán ung thư buồng trứng với độ đặc hiệu đủ cao, tức trên 90%.
 
-Hệ thống phân loại Tokyo cho phép đánh giá được 1 cách đáng tin cậy về triển vọng lành tính của khối u buồng trứng. Giá trị dự báo âm (negative predictive value) (NPV) của ung thư buồng trứng khi được khảo sát bằng siêu âm thang xám qua đường âm đạo gần tuyệt đối, khoảng 91-100%. Trái lại, giá trị dự báo dương (positive predictive value) (PPV) của của ung thư buồng trứng khi được khảo sát bằng siêu âm thang xám qua đường âm đạo chỉ từ 35-75%.
+Hệ thống phân loại Tokyo cho phép đánh giá được đáng tin cậy về triển vọng lành tính của khối u buồng trứng. Giá trị dự báo âm (negative predictive value) (NPV) của ung thư buồng trứng khi được khảo sát bằng siêu âm thang xám qua đường âm đạo gần tuyệt đối, khoảng 91-100%. Trái lại, giá trị dự báo dương (positive predictive value) (PPV) của của ung thư buồng trứng khi được khảo sát bằng siêu âm thang xám qua đường âm đạo chỉ từ 35-75%.
 
 ### Siêu âm Doppler và hệ thống IOTA 2010
 
@@ -128,7 +128,7 @@ hCG là 1 glycoprotein được sản xuất chủ yếu bởi các hợp bào n
 
 ### Các chỉ báo khối u khác
 
-LDH, steroid... được thực hiện 1 cách chọn lọc.
+LDH, steroid... được thực hiện chọn lọc.
 
 ## Khảo sát các đột biến gene
 

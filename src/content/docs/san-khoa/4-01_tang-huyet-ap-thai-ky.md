@@ -261,7 +261,7 @@ Tính mạng của mẹ là quan trọng, tình trạng thai là không có hy v
 
 Chuyển dạ được khởi phát bằng prostaglandin E2 (PGE2) đặt âm đạo, theo sau bằng Oxytocin.
 
-Trong trường đặc biệt là sản phụ không muốn chấm dứt thai, muốn giữ thai bằng mọi giá, thì có thể chấp nhận theo dõi tiếp nhưng phải tư vấn 1 cách chi tiết về nguy cơ rất cao của mẹ, dự hậu rất xấu của thai và tương lai bất định của trẻ.
+Trong trường đặc biệt là sản phụ không muốn chấm dứt thai, muốn giữ thai bằng mọi giá, thì có thể chấp nhận theo dõi tiếp nhưng phải tư vấn chi tiết về nguy cơ rất cao của mẹ, dự hậu rất xấu của thai và tương lai bất định của trẻ.
 
 #### Khi tuổi thai không quá non, từ 23-32 tuần 6 ngày
 
