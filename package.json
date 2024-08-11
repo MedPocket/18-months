@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.25.4",
-    "astro": "^4.13.2",
+    "astro": "^4.13.3",
     "astro-og-canvas": "^0.5.3",
     "canvaskit-wasm": "^0.39.1",
     "hast-util-to-string": "^3.0.0",
@@ -33,5 +33,5 @@
     "prettier-plugin-astro": "^0.14.1",
     "typescript": "^5.5.4"
   },
-  "packageManager": "pnpm@9.6.0"
+  "packageManager": "pnpm@9.7.0"
 }
