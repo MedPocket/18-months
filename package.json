@@ -10,7 +10,7 @@
     "start": "astro dev"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.25.4",
+    "@astrojs/starlight": "^0.25.5",
     "astro": "^4.13.3",
     "astro-og-canvas": "^0.5.3",
     "canvaskit-wasm": "^0.39.1",
