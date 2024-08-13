@@ -78,7 +78,7 @@ Mốc 34 tuần để tiên lượng tiền sản giật. Tiền sản giật tr
 
 Sản giật là biến chứng nặng có thể sảy ra trước sinh, trong khi chuyển dạ và sau sinh 48-72 giờ.
 
-Chẩn đoán sản giật đòi hỏi phải có sự hiện diện của **3 yếu tố (1) những cơn co giật và (2) hôn mê (3) xảy ra trên 1 sản phụ có hội chứng tiền sản giật.**
+Chẩn đoán sản giật đòi hỏi phải có sự hiện diện của 3 yếu tố (1) những cơn co giật và (2) hôn mê (3) xảy ra trên 1 sản phụ có hội chứng tiền sản giật.
 
 Sản giật có thể có dấu hiệu kích thích não như đau đầu nhiều, mờ tầm nhìn, sợ ánh sáng, thay đổi tâm trạng. Tuy nhiên cũng có trường hợp không có dấu hiệu báo trước (20-38%).
 
@@ -473,7 +473,7 @@ Chống chỉ định: Ở sản phụ suy tim sung huyết, hen suyễn và nh�
 
 Các chất chẹn kênh Calcium là thuốc dùng trong những trường hợp tăng huyết áp nặng.
 
-**Nifedipine**
+Nifedipine
 
 Cơ chế ức chế kênh Calcium loại 2, tức là ức chế chọn lọc dòng Calcium đi vào trong cơ trơn mạch máu dẫn đến giãn mạch và hạ huyết áp. Nifedipine tác động trên cả các mạch máu trung bình, nên nó khởi phát tác dụng nhanh hơn Hydralazine.
 
@@ -483,7 +483,7 @@ Tác dụng không mong muốn: Gồm tim đập nhanh, nhức đầu và hồi 
 
 Ion $Mg^{2+}$ có khả năng cạnh tranh với ion $Ca^{2+}$ nên phối hợp Nifedipine và $MgSO_4$ có thể dẫn đến tụt huyết áp.
 
-**Nicardipine**
+Nicardipine
 
 Cơ chế tác dụng của Nicardipine tương đối giống với Nifedipine như đã nói ở trên. Tác dụng chọn lọc lên mạch máu, đồng thời ít tác dụng lên co bóp tim, nên ít làm tăng nhịp tim phản xạ. Nicardipine có thời gian bắt đầu tác dụng khoảng 10 phút. Đạt nồng độ đỉnh sau 30-120 phút, tác dụng kéo dài 8 giờ.
 

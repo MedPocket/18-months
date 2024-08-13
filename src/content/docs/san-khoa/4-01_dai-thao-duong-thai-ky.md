@@ -131,7 +131,7 @@ Có thể tham khảo chi tiết [Hướng dẫn điều chỉnh lối sống](.
 
 ### Thuốc kiểm soát đường huyết
 
-**Bộ Y tế Việt Nam chưa cho phép việc dùng Metformin trong thai kỳ cho DIP/GDM.** Thuốc hạ đường huyết được chỉ định khi MNT thất bại là Insulin.
+Bộ Y tế Việt Nam chưa cho phép việc dùng Metformin trong thai kỳ cho DIP/GDM. Thuốc hạ đường huyết được chỉ định khi MNT thất bại là Insulin.
 
 #### Chỉ định dùng Insulin
 
@@ -163,17 +163,17 @@ Tổng liều Insulin sẽ được chia ra như sau: 2/3 buổi sáng và 1/3 b
 
 #### Phác đồ điều chỉnh cho từng trường hợp
 
-**Trường hợp 1: Chỉ đường máu đói sáng cao**
+Trường hợp 1: Chỉ đường máu đói sáng cao
 
 - Insulin trung gian lúc đi ngủ 0.1-0.2 đơn vị/kg.
 - Chỉnh liều 2-3 ngày/lần, mỗi 1-2 đơn vị cho đến khi đạt mục tiêu.
 
-**Trường hợp 2: Chỉ đường máu sau ăn cao**
+Trường hợp 2: Chỉ đường máu sau ăn cao
 
 - Insulin nhanh, liều 0.1 đơn vị/kg/bữa ăn; 1-3 mũi trước bữa ăn có đường máu tăng sau ăn (hoặc 1,5 đơn vị/10g carbohydrate vào bữa sáng, 1 đơn vị/10g carbohydrate vào bữa trưa và tối).
 - Chỉnh liều 2-3 ngày/lần, mỗi 1-2 đơn vị cho đến khi đạt mục tiêu.
 
-**Trường hợp 3: Cả đường máu đói và sau ăn cao**
+Trường hợp 3: Cả đường máu đói và sau ăn cao
 
 - 4-5 mũi Insulin/ngày.
 - Liều ban đầu 0,2-0,3 đơn vị/kg/ngày:
