@@ -14,7 +14,7 @@ Khi thai dưới 5 tuần tuổi, β-hCG được sản xuất ở cả nguyên 
 
 Ngoài bánh nhau, thận, tuyến yên và 1 số mô khác của thai cũng có thể sản xuất ra β-hCG. Điều này giải thích trong bệnh lý tăng sản tuyến thượng thận, tuyến yên có thể xét nghiệm β-hCG tăng cao.
 
-Tìm thấy với 1 nồng độ rất nhỏ ở đàn ông và phụ nữ không có thai, có lẽ chủ yếu sản sinh ở tuyến yên trước. β-hCG cũng được tìm thấy trong bệnh lý tân sinh nguyên bào nuôi hoặc trong các bệnh lý ác tính không liên quan đến nguyên bào nuôi.
+Tìm thấy với nồng độ rất nhỏ ở đàn ông và phụ nữ không có thai, có lẽ chủ yếu sản sinh ở tuyến yên trước. β-hCG cũng được tìm thấy trong bệnh lý tân sinh nguyên bào nuôi hoặc trong các bệnh lý ác tính không liên quan đến nguyên bào nuôi.
 
 ## Chức năng
 
@@ -64,4 +64,4 @@ Sau đó, nồng độ hCG sẽ giảm dần và đạt cực tiểu tại thờ
 ## Nguồn tham khảo
 
 - TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
-- [Nồng độ beta HCG thay đổi theo tuổi thai như thế nào?](https://www.vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/san-phu-khoa-va-ho-tro-sinh-san/nong-do-beta-hcg-thay-doi-theo-tuoi-thai-nhu-nao/) - Vinmec.
+- [Early Fetal Development](https://americanpregnancy.org/healthy-pregnancy/pregnancy-health-wellness/early-fetal-development) - American Pregnancy Association.
