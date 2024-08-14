@@ -38,9 +38,7 @@ Trước 6 tuần, nồng độ hCG tăng gấp đôi mỗi 2 ngày và đạt �
 
 Sau đó, nồng độ hCG sẽ giảm dần và đạt cực tiểu tại thời điểm 16-20 tuần rồi giữ ổn định ở mức này đển cuối thai kỳ.
 
-![Động học β-hCG](../../../assets/san-khoa/dong-hoc-beta-hcg/dong-hoc-beta-hcg.png)
-
-![Bảng nồng độ β-hCG](../../../assets/san-khoa/dong-hoc-beta-hcg/bang-nong-do-beta-hcg.png)
+![Biến thiên nồng độ β-hCG giai đoạn đầu thai kỳ](../../../assets/san-khoa/dong-hoc-beta-hcg/bien-thien-nong-do-beta-hcg-giai-doan-dau-thai-ky.jpg)
 
 ## Ngưỡng β-hCG
 
@@ -49,6 +47,19 @@ Sau đó, nồng độ hCG sẽ giảm dần và đạt cực tiểu tại thờ
 β-hCG trên 4000 mIU/mL trên siêu âm có thể thấy được hình ảnh phôi thai với hoạt động tim phôi.
 
 β-hCG đạt mức 5000-6000 mIU/mL có thể thấy hình ảnh túi thai qua siêu âm đầu dò bụng.
+
+| Tuổi thai               | Nồng độ HCG theo tuổi thai |
+| ----------------------- | -------------------------- |
+| 3 tuần                  | 5-50 mIU/ml                |
+| 4 tuần                  | 5-426 mIU/ml               |
+| 5 tuần                  | 18-7.340 mIU/ml            |
+| 6 tuần                  | 1.080-56.500 mIU/ml        |
+| 7-8 tuần                | 7.650-229.000 mIU/ml       |
+| 9-12 tuần               | 25.700-288.000 mIU/ml      |
+| 13-16 tuần              | 13.300-254.000 mIU/ml      |
+| 17-24 tuần              | 4.060-165.400 mIU/ml       |
+| Từ 25 tuần đến lúc sinh | 3.640-117.000 mIU/ml       |
+| Sau sinh 4-6 tuần       | dưới 5 mIU/ml              |
 
 ## Nguồn tham khảo
 
