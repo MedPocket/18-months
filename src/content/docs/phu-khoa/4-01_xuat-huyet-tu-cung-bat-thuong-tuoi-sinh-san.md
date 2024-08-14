@@ -41,7 +41,7 @@ Khảo sát cận lâm sàng sơ cấp nhằm loại trừ xuất huyết tử c
 - Pap’s test để loại trừ chảy máu từ cổ tử cung, tầm soát ung thư cổ tử cung.
 - Sinh thiết nội mạc tử cung được xem xét cho các phụ nữ bị xuất huyết tử cung bất thường trên 45 tuổi, hay phụ nữ trẻ dưới 45 tuổi có xuất huyết tử cung bất thường không đáp ứng điều trị nội, hay có nguy cơ ung thư nội mạc tử cung.
 - Chẩn đoán hình ảnh và soi buồng tử cung cung cấp thêm thông tin để đánh giá và điều trị xuất huyết tử cung bất thường:
-  - Siêu âm ngả âm đạo là khảo sát hình ảnh đầu tay cho xuất huyết tử cung bất thường.
+  - Siêu âm đường âm đạo là khảo sát hình ảnh đầu tay cho xuất huyết tử cung bất thường.
   - Siêu âm bơm nước buồng tử cung (SIS) hay nội soi buồng tử cung thường được sử dụng khi nghi ngờ có bất thường của lòng tử cung như nhân xơ tử cung dưới niêm mạc hay polyp nội mạc tử cung.
   - Cộng hưởng từ (MRI bụng-chậu) có thể có ích trong bệnh tuyến cơ tử cung và các chẩn đoán phân biệt của nó, hay trong trường hợp có khối u tuyến yên tiết prolactin (MRI sọ não).
 

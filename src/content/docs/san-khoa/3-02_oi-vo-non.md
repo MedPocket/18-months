@@ -155,7 +155,7 @@ Khi đã có nhiễm trùng ối, nếu không chấm dứt thai kỳ, tình tr�
 
 Sử dụng kháng sinh phổ rộng và phối hợp đến sau sinh và đã kiểm soát được nhiễm trùng, ít nhất là đã được 48 giờ liên tục không dấu nhiễm trùng.
 
-Đánh giá tình trạng cổ tử cung trước khởi phát chuyển dạ. Cuộc mổ có thể là nguy hiểm hơn cuộc sinh, do khả năng vấy bẩn phúc mạc. Cần cân nhắc lợi ích và nguy cơ của sinh ngả âm đạo và sinh mổ.
+Đánh giá tình trạng cổ tử cung trước khởi phát chuyển dạ. Cuộc mổ có thể là nguy hiểm hơn cuộc sinh, do khả năng vấy bẩn phúc mạc. Cần cân nhắc lợi ích và nguy cơ của sinh đường âm đạo và sinh mổ.
 
 Xem thêm [Nhiễm trùng ối](../3-03_nhiem-trung-oi).
 

@@ -115,7 +115,7 @@ Ngoại trừ những trường hợp mà lượng máu mất vào khối máu t
 
 Tia ối sớm luôn luôn có lợi trong rau bong non, và cần được thực hiện trong mọi trường hợp. Tia ối giúp làm giảm áp lực giữa các khoảng gian gai rau, giúp làm giảm chảy máu sau rau và giảm sự phóng thích thromboplastin vào tuần hoàn mẹ, hơn nữa còn có thể thúc quá trình chuyển dạ xảy ra nhanh hơn.
 
-Với các tình huống rau bong non và thai có khả năng sống và không đủ điều kiện sinh ngã âm đạo nhanh chóng thì mổ lấy thai là biện pháp ưu tiên. Nếu thai đã mất hoặc thai không có khả năng sống, có thể xem xét khả năng ưu tiên cho sinh ngả âm đạo, độ nặng của các vấn đề sốc giảm thể tích và DIC được xem là các yếu tố giúp quyết định cuộc sinh.
+Với các tình huống rau bong non và thai có khả năng sống và không đủ điều kiện sinh đường âm đạo nhanh chóng thì mổ lấy thai là biện pháp ưu tiên. Nếu thai đã mất hoặc thai không có khả năng sống, có thể xem xét khả năng ưu tiên cho sinh đường âm đạo, độ nặng của các vấn đề sốc giảm thể tích và DIC được xem là các yếu tố giúp quyết định cuộc sinh.
 
 1 nguyên tắc là rau bong non càng để lâu thì càng mất máu và tình trạng DIC-tiêu sợi huyết càng tiến triển xa.
 

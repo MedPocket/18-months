@@ -119,7 +119,7 @@ Sử dụng nội tiết estrogen tại chỗ (dạng viên đặt âm đạo ha
 
 Tập vật lý trị liệu phục hồi sàn chậu: tự tập, tập với máy tập sàn chậu, kích thích điện cơ sàn chậu.
 
-Vòng nâng bàng quang, tử cung, trực tràng ngả âm đạo và điều trị tiểu không kiểm soát khi gắng sức.
+Vòng nâng bàng quang, tử cung, trực tràng đường âm đạo và điều trị tiểu không kiểm soát khi gắng sức.
 
 ### Ngoại khoa
 
@@ -153,7 +153,7 @@ Sa tạng chậu từ độ 2 theo POP-Q, có triệu chứng hay biến hứng,
 
 #### Sa thành trước
 
-Sa bàng quang: Nâng bàng quang bằng mảnh ghép tổng hợp polypropylene, may phục hồi cân ngang bàng quang-cổ tử cung qua ngả âm đạo/nội soi ổ bụng/mổ hở (repair of paravaginal defect) khi sa bàng quang bên < độ 2, may gấp nếp cân bàng quang - cổ tử cung khi sa bàng quang thể trung tâm < độ 2.
+Sa bàng quang: Nâng bàng quang bằng mảnh ghép tổng hợp polypropylene, may phục hồi cân ngang bàng quang-cổ tử cung qua đường âm đạo/nội soi ổ bụng/mổ hở (repair of paravaginal defect) khi sa bàng quang bên < độ 2, may gấp nếp cân bàng quang - cổ tử cung khi sa bàng quang thể trung tâm < độ 2.
 
 Niệu đạo: Đặt sling dưới niệu đạo (đặt TOT, mini sling hoặc TVT trong trường hợp tiểu không kiểm soát khi gắng sức nặng nghi do suy cơ thắt niệu đạo với nghiệm pháp Bonney (-), thất bại với TOT trước đó). phẫu thuật Burch nội soi/mổ bụng hở trường hợp không thực hiện được hoặc thất bại ≥ 2 lần phẫu thuật đặt sling dưới niệu đạo.
 
@@ -198,9 +198,9 @@ Phẫu thuật đặt mảnh ghép tổng hợp là phẫu thuật ưu thế tro
   - Cắt tử cung kèm theo lúc mổ.
   - Vết thương ở niệu đạo, bàng quang, trực tràng trong lúc mổ.
   - Niêm mạc âm đạo còn quá ít để che phủ mảnh ghép.
-  - Chọn lựa phẫu thuật điều trị sa tạng chậu ngả âm đạo hay ngả bụng.
+  - Chọn lựa phẫu thuật điều trị sa tạng chậu đường âm đạo hay ngả bụng.
 
-#### Chỉ định phẫu thuật ngả âm đạo khi
+#### Chỉ định phẫu thuật đường âm đạo khi
 
 BN lớn tuổi (> 70 tuổi).
 
@@ -218,11 +218,11 @@ BN trẻ ≤ 60 tuổi hoặc BN ≤ 70 tuổi mong muốn phẫu thuật ngả 
 
 Sa tử cung/mỏm cắt độ 3-4, sa lộn toàn bộ thành trước sau âm đạo cần phẫu thuật cố định tử cung/mỏm cắt/sàn chậu vào mỏm nhô.
 
-Thất bại với phẫu thuật điều trị sa tạng chậu ngả âm đạo trước đó.
+Thất bại với phẫu thuật điều trị sa tạng chậu đường âm đạo trước đó.
 
-#### Chỉ định phẫu thuật kết hợp ngả bụng và ngả âm đạo khi
+#### Chỉ định phẫu thuật kết hợp ngả bụng và đường âm đạo khi
 
-Kỹ năng phẫu thuật viên không thể thực hiện các phẫu thuật phục hồi sa tạng chậu khó qua ngả bụng như nội soi ổ bụng treo tử cung vào mỏm nhô và đặt mảnh ghép nâng bàng quang - trực tràng, khi đó cần kết hợp ngả âm đạo để đặt mảnh ghép nâng bàng quang-trực tràng, tăng hiệu quả điều trị.
+Kỹ năng phẫu thuật viên không thể thực hiện các phẫu thuật phục hồi sa tạng chậu khó qua ngả bụng như nội soi ổ bụng treo tử cung vào mỏm nhô và đặt mảnh ghép nâng bàng quang - trực tràng, khi đó cần kết hợp đường âm đạo để đặt mảnh ghép nâng bàng quang-trực tràng, tăng hiệu quả điều trị.
 
 Sa tử cung ≥ độ 2 kèm sa các tạng chậu khác nhưng tình trạng BN không cho phép phẫu thuật hoặc gây mê kéo dài > 2 giờ.
 
@@ -234,8 +234,8 @@ _Phác đồ chẩn đoán và xử trí sa tạng chậu._
 ![Phẫu thuật ngả bụng](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-bung.jpeg)
 _Phẫu thuật ngả bụng._
 
-![Phẫu thuật ngả âm đạo](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-am-dao.png)
-_Phẫu thuật ngả âm đạo._
+![Phẫu thuật đường âm đạo](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-am-dao.png)
+_Phẫu thuật đường âm đạo._
 
 ## Nguồn tham khảo
 

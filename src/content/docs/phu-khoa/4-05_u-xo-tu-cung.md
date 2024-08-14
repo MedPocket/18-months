@@ -82,7 +82,7 @@ U xơ thoái hóa hoặc xoắn gây đau vùng chậu xuất hiện kèm sốt 
 
 #### Siêu âm thang xám (grey-scale)
 
-Siêu âm ngả âm đạo, siêu âm ngả bụng đánh giá tổng quát vùng chậu, biến chứng chèn ép niệu quản, bàng quang, trực tràng. Đối với u xơ-cơ tử cung, siêu âm thang xám (grey-scale) có giá trị chẩn đoán rất cao, với độ nhạy 95-100%.
+Siêu âm đường âm đạo, siêu âm ngả bụng đánh giá tổng quát vùng chậu, biến chứng chèn ép niệu quản, bàng quang, trực tràng. Đối với u xơ-cơ tử cung, siêu âm thang xám (grey-scale) có giá trị chẩn đoán rất cao, với độ nhạy 95-100%.
 
 Hình ảnh điển hình của u xơ-cơ tử cung trên siêu âm thang xám là ổ hồi âm kém hoặc không đồng nhất, có giảm âm phía sau, giới hạn rõ, phân biệt rõ với mô chung quanh.
 
@@ -454,7 +454,7 @@ Chỉ định:
 Phương pháp:
 
 - Phẫu thuật nội soi ổ bụng cắt tử cung khi kích thước ≤ 16 tuần.
-- Phẫu thuật mở bụng cắt u xơ khi u xơ quá lớn, lan tỏa, nhiều nhân xơ hoặc chống chỉ định cắt tử cung ngả âm đạo hoặc nội soi.
+- Phẫu thuật mở bụng cắt u xơ khi u xơ quá lớn, lan tỏa, nhiều nhân xơ hoặc chống chỉ định cắt tử cung đường âm đạo hoặc nội soi.
 - Phẫu thuật cắt tử cung đường âm đạo, hiện nay được chỉ định hạn chế cần cân nhắc nguy cơ và biến chứng.
 
 Thuốc cầm máu trong phẫu thuật:

@@ -53,7 +53,7 @@ Siêu âm có vai trò quan trọng, được dùng như tiếp cận sơ cấp,
 
 Sự hiện diện của túi thai trong tử cung hướng hẳn chẩn đoán về phía thai nghén thất bại sớm, ngoại trừ trường hợp của hình ảnh túi thai giả, hay song thai 1 trong tử cung và 1 ở ngoài tử cung. Tuổi thai định qua siêu âm phải được so sánh với tuổi thai ước tính bằng các dữ kiện lâm sàng. Cân nhắc giá trị của siêu âm và độ tin cậy của dữ liệu lâm sàng sẽ giúp có ý niệm tốt nhất về tuổi thai, sinh tồn trứng và vị trí thai. Khi có chênh lệch về tuổi thai trên siêu âm và trên lâm sàng, buộc phải làm sáng tỏ về sinh tồn thai lẫn tuổi thai. Ở tuổi thai đã được xác định là 5.5-6 tuần, nếu siêu âm không thấy túi thai trong tử cung phải nghĩ đến thai ngoài tử cung.
 
-Khi túi thai không được nhìn thấy, chỉ có thể kết luận là không nhìn thấy túi thai qua TVS, mà không được kết luận là thai ngoài tử cung, ngoại trừ trường hợp hiếm hoi thấy được túi thai bên ngoài tử cung với quầng nguyên bào nuôi, yolk-sac, có hay không có phôi thai với hoạt động tim phôi.
+Khi túi thai không được nhìn thấy, chỉ có thể kết luận là không nhìn thấy túi thai qua TVS, mà không được kết luận là thai ngoài tử cung, ngoại trừ trường hợp hiếm hoi thấy được túi thai bên ngoài tử cung với quầng nguyên bào nuôi, yolk-sac, có hay không có phôi thai với hoạt động tim phôi. Túi thai thường được nhìn thấy ở tuần thứ 5, túi noãn hoàng ở 5 1∕2 tuần và phôi có nhịp tim ở tuần thứ 6 khi sử dụng siêu âm qua đường âm đạo.
 
 Ngoài ra, siêu âm có thể phát hiện các trường hợp thai bất thường khác như thai trứng và các dạng thức của bệnh nguyên bào nuối thai kỳ. Hình ảnh điển hình của thai trứng trên siêu âm là hình ảnh tổ ong của các gai nhau bị thoái hóa nước. Chẩn đoán sẽ khó khăn hơn trong trường hợp thai trứng bán phần, do hình ảnh không còn điển hình lại kèm với hình ảnh của thai, có thể là thai sống và tiến triển. Thai lưu với nhau thoái hóa có thể cho hình ảnh tương tự thai trứng.
 
@@ -66,25 +66,7 @@ Khảo sát β-hCG tĩnh và động học β-hCG là các khảo sát thứ c�
 
 β-hCG có ý nghĩa quan trọng trong tiên lượng tình trạng thai ở các giai đoạn rất sớm. Ngược lại, vai trò của β-hCG không còn nữa khi siêu âm đã ghi nhận túi thai có phôi và hoạt động tim thai trong tử cung.
 
-### Động học β-hCG
-
-Khái niệm thứ nhất liên quan đến β-hCG là sự diễn biến của β-hCG theo thời gian, hay nói cách khác là động học β-hCG.
-
-Khái niệm động học β-hCG có ích lợi trong 6 tuần đầu thai kỳ khi siêu âm chưa phát hiện vị trí túi thai và chưa xác nhận phôi và hoạt động tim thai:
-
-- β-hCG tăng phù hợp cho biết thai sống trong tử cung. 99.9% thai sống trong tử cung có β-hCG tăng trên 53% mỗi 48 giờ. Tuy nhiên, vẫn có khoảng 21% thai ngoài tử cung có kiểu tăng β-hCG như trên.
-- β-hCG bình nguyên hay tăng ít, dưới 53% mỗi 48 giờ gợi ý đi tìm tình trạng thai ngoài tử cung hay thai trong tử cung có diễn biến bất thường.
-- β-hCG giảm gợi ý khả năng là thai trong tử cung nhưng có thể là thai lưu, túi thai trống. β-hCG không cho phép loại trừ khả năng có thai ngoài tử cung.
-- Sau khi sẩy thai tự nhiên, β-hCG huyết thanh sẽ giảm ít nhất 21-35% mỗi 2 ngày. Nếu β-hCG huyết thanh giảm chậm, dưới 20% mỗi 2 ngày thì có nhiều khả năng là 1 trong 2 tình trạng còn tồn tại sản phẩm thụ thai hoặc có thai ngoài tử cung.
-
-### Ngưỡng β-hCG
-
-Trong xuất huyết 3 tháng đầu thai kỳ, vấn đề thử thách, tức câu hỏi lớn nhất là vị trí làm tổ của thai. Vì thế, ngưỡng phân định được thiết lập, sao cho cùng lúc phải thỏa mãn 2 kỳ vọng:
-
-1. Nếu nồng độ của β-hCG huyết thanh bên trên ngưỡng này, khả năng tìm thấy hình ảnh của túi thai trong tử cung có độ đặc hiệu cao (Sp: specificity cao).
-2. Nếu nồng độ của β-hCG huyết thanh ở bên dưới ngưỡng này thì khả năng bỏ sót thai ngoài tử cung là rất thấp (Se: sensitivity cao).
-
-Thai trong tử cung bình thường, khi nồng độ β-hCG huyết thanh ở trên ngưỡng cắt này thì phải thấy được hình ảnh của thai trong tử cung. Ngưỡng β-hCG thường dùng là 1.500-2.000 mUI/mL để có thể thấy túi đơn thai trong lòng tử cung và ngưỡng này tăng lên 3000 mUI/mL đối với song thai. Khi không thấy hình ảnh túi thai trong buồng tử cung và nồng độ hCG trên ngưỡng phân biệt, thì phải nghĩ đến khả năng có thai ngoài tử cung, với giá trị dự báo dương (Positive Predictive Value) (PPV) rất cao.
+Đọc thêm về [β-hCG](../1-02_beta-hcg).
 
 ## Lược đồ tiếp cận với siêu âm
 

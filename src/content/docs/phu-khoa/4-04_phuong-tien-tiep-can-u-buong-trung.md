@@ -16,7 +16,7 @@ Các phương pháp hình ảnh được dùng cho khảo sát và đánh giá k
 
 ### Siêu âm thang xám và hệ thống Tokyo
 
-Siêu âm thang xám có thể được thực hiện qua ngả bụng hay qua ngả âm đạo.
+Siêu âm thang xám có thể được thực hiện qua ngả bụng hay qua đường âm đạo.
 
 Siêu âm thang xám thực hiện qua ngả bụng sử dụng sóng âm có tần số thấp nên có tầm quan sát rộng, cho phép có được nhận định tổng quát về vùng chậu, đánh giá được các khối u rất to, và đánh giá sự lan tràn của ung thư trong khoang phúc mạc. Hạn chế của siêu âm thang xám đường bụng là chất lượng chi tiết hình ảnh không cao do tần số sóng âm thấp.
 
@@ -47,7 +47,7 @@ Hệ thống phân loại Tokyo cho phép đánh giá được đáng tin cậy 
 
 O- RADS, hệ thống phân loại và xử trí các khối u buồng trứng dựa trên siêu âm đồng thuận hướng dẫn của American College of Radiology (ACR) Ovarian Adnexal Reporting và Data System Committee. Đối với phân tầng nguy cơ, O-RADS US chia thành 6 nhóm (ORADS 0-5), từ bình thường đến nguy cơ ác tính cao nhất:
 
-- O-RADS 0: Đánh giá không đầy đủ do các yếu tố kỹ thuật như hơi ruột, sang thương kích thước lớn, vị trí của phần phụ, hoặc không thể chịu được siêu âm ngã âm đạo.
+- O-RADS 0: Đánh giá không đầy đủ do các yếu tố kỹ thuật như hơi ruột, sang thương kích thước lớn, vị trí của phần phụ, hoặc không thể chịu được siêu âm đường âm đạo.
 - O-RADS 1: Nhóm sang thương sinh lý liên quan đến độ tuổi sinh sản, bao gồm nang noãn và nang hoàng thể.
   ![O-RADS 1](../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-1.png)
 - O-RADS 2: Nhóm gần như chắc chắn lành (<1% nguy cơ ác), gồm phần lớn các nang đơn thùy dưới 10 cm. Nhóm này bao gồm nang đơn giản, nang đơn thùy loại không đơn giản thành trơn láng, và các nang được mô tả như những sang thương lành kinh điển mà có đường kính lớn nhất dưới 10 cm. Những sang thương lành kinh điển là những sang thương có thể được chẩn đoán chính xác khi có ít nhất 1 đặc điểm nhận diện đặc hiệu theo O-RADS US mà không có đặc điểm đáng nghi ngờ nào khác. Chúng bao gồm nang xuất huyết điển hình, nang bì, u lạc nội mạc, nang cạnh buồng trứng, nang vùi phúc mạc, và ứ dịch tai vòi. Khi có thể, chẩn đoán sang thương lành kinh điển sử dụng các mô tả đặc trưng liên quan của chúng nên luôn ưu tiên hơn việc dùng các-mô tả sử dụng các đặc điểm chung cho mọi khối u.

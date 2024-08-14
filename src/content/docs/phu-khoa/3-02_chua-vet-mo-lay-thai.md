@@ -35,7 +35,7 @@ Khoảng 50% không có triệu chứng, chỉ phát hiện qua siêu âm.
 
 ### Cận lâm sàng
 
-#### Siêu âm ngả âm đạo kết hợp với Doppler
+#### Siêu âm đường âm đạo kết hợp với Doppler
 
 Túi thai nằm giữa bàng quang và phần trước đoạn eo tử cung, lớp cơ tử cung giữa bàng quang và túi thai có hay rất mỏng (1-3mm).
 
@@ -108,7 +108,7 @@ Chỉ định
 
 - Thai lưu ≤ 8 tuần, beta hCG tăng: MTX 50mg, tiêm bắp.
 
-- Thai chưa có tim thai: dưới hướng dẫn siêu âm ngả âm đạo hút trọn phôi thai, hút hết nước ối và tiêm MTX 25mg quanh túi thai và 25mg tiêm bắp (tổng 50mg/$m^2$ diện tích da).
+- Thai chưa có tim thai: dưới hướng dẫn siêu âm đường âm đạo hút trọn phôi thai, hút hết nước ối và tiêm MTX 25mg quanh túi thai và 25mg tiêm bắp (tổng 50mg/$m^2$ diện tích da).
 
 - Thai có hoạt động tim thai: hủy thai bằng hút trọn phôi thai (thai < 9 tuần) hoặc hút mô buồng tim thai (thai > 9 tuần) hoặc tiêm bắp MTX 25mg (hoặc KCl) và tim thai, phối hợp MTX 25mg tiêm vị trí bánh rau. Sau 60-90 phút siêu âm lại kiểm tra đã mất hay chưa và xem có xuất huyết tại chỗ không, tiêm bắp 25mg MTX (tổng liều 75mg MTX).
 
