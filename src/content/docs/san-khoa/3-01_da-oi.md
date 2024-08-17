@@ -94,13 +94,13 @@ Tiêu chuẩn nhập viện:
   - Liều 25 mg (uống), 4 lần/ngày, nếu AFI không giảm trong 2-3 này có thể tăng 3 mg/kg/ngày. Giảm hoặc ngưng AFI trước 34 tuần.
   - Tác dụng phụ lo ngại nhất là nguy cơ đóng ống động mạch sớm ở thai vì thế cần theo dõi Doppler thai mỗi 2 ngày kèm siêu âm. Ngoài ra mẹ có thể trào ngược, nôn ói, viêm dạ dày,...
 
-Liệu pháp Corticosteroid thường quy.
+Liệu pháp corticosteroid thường quy.
 
 Chỉ định chấm dứt thai kỳ:
 
 - Thai ≥ 39 tuần có đa ối nhẹ đến trung bình.
 - Thai ≥ 37 tuần có đa ối nặng.
-- Thai 34-37 tuần có quá tải dịch nặng và đã dùng Corticosteroids.
+- Thai 34-37 tuần có quá tải dịch nặng và đã dùng corticosteroid.
 
 ### Phác đồ xử trí đa ối đơn thuần
 

@@ -69,7 +69,7 @@ Chỉ định MRI khi siêu âm không phù hợp với lâm sàng hoặc/và si
 ### Thời điểm chấm dứt thai kỳ
 
 - Cá thể hóa từng trường hợp.
-- Khuyến cáo chấm dứt thai kỳ từ 34-36 tuần sau liệu pháp Corticosteroid trước sinh.
+- Khuyến cáo chấm dứt thai kỳ từ 34-36 tuần sau liệu pháp corticosteroid trước sinh.
 
 ### Chuẩn bị trước phẫu thuật
 

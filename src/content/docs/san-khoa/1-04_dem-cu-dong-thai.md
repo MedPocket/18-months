@@ -30,7 +30,7 @@ Thời điểm được lựa chọn để đếm cử động thai là đầu b
 vào việc này.
 
 Cử động thai không liên quan đến bữa ăn. Hút thuốc lá làm giảm cử động thai thoáng qua do tăng nồng
-độ $CO_2$ máu và giảm tưới máu thận. Hầu hết các loại thuốc thường dùng không làm giảm cử động thai, ngoại trừ các thuốc hướng thần kinh như thuốc điều trị trầm cảm và thuốc mê. Liệu pháp Corticosteroids trước sinh cũng làm giảm cử động thai thoáng qua trong khoảng 2 ngày.
+độ $CO_2$ máu và giảm tưới máu thận. Hầu hết các loại thuốc thường dùng không làm giảm cử động thai, ngoại trừ các thuốc hướng thần kinh như thuốc điều trị trầm cảm và thuốc mê. Liệu pháp corticosteroids trước sinh cũng làm giảm cử động thai thoáng qua trong khoảng 2 ngày.
 
 ## Cách đếm cử động thai
 

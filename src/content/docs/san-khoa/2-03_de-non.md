@@ -154,7 +154,7 @@ Nghỉ ngơi tại giường không được khuyến cáo do chưa có bằng c
 
 Liệu pháp corticosteroid trước sinh.
 
-Dùng thuốc cắt cơn ngắn hạn để đủ thời gian cho liệu pháp Corticosteroid.
+Dùng thuốc cắt cơn ngắn hạn để đủ thời gian cho liệu pháp corticosteroid.
 
 Dùng Magnesium sulfate bảo vệ não trẻ sinh non.
 

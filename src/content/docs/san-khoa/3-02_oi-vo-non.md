@@ -69,7 +69,7 @@ Xử trí ối vỡ non tùy thuộc 2 yếu tố chủ chốt:
 Nếu có dấu hiệu nhiễm trùng (sốt, dịch âm đạo có mùi hôi), cho kháng sinh như trong điều trị nhiễm trùng ối và phải chấm dứt thai kỳ bất chấp tuổi thai.
 
 - Khi đã có nhiễm trùng thì không được trì hoãn chấm dứt thai kỳ vì bất cứ lý do gì.
-- Không được dùng Corticosteroid trong trường hợp có dấu hiệu nhiễm trùng, bất chấp tuổi thai.
+- Không được dùng corticosteroid trong trường hợp có dấu hiệu nhiễm trùng, bất chấp tuổi thai.
 
 ### Không có dấu hiệu nhiễm trùng
 
@@ -95,7 +95,7 @@ Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh v
   - Azithromycin 1 g (uống) ngay khi nhập viện, và
   - Vancomycin 20 mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24 giờ trong 48 giờ. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành 3 nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy > 15mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
 
-Dùng Corticosteroid cho mẹ để giảm khả năng xảy ra hội chứng suy hô hấp cấp ở sơ sinh. Dùng ngay cả khi không chắc có đủ thời gian để hoàn thành đủ liều Corticosteroids.
+Dùng corticosteroid cho mẹ để giảm khả năng xảy ra hội chứng suy hô hấp cấp ở sơ sinh. Dùng ngay cả khi không chắc có đủ thời gian để hoàn thành đủ liều corticosteroids.
 
 Xét nghiệm máu mỗi 48 giờ hoặc khi nghi ngờ có dấu hiệu nhiễm trùng.
 

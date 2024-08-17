@@ -98,7 +98,7 @@ Giảm nguy cơ chảy máu:
 - Không khám âm đạo.
 - Có cơn gò tử cung hoặc ra máu cần nhập viện ngay.
 
-Liệu pháp Corticosteroid từ tuần 28 đến trước 34 tuần.
+Liệu pháp corticosteroid từ tuần 28 đến trước 34 tuần.
 
 Mổ chủ động từ tuần thai 36-37.
 
@@ -108,7 +108,7 @@ Mổ chủ động từ tuần thai 36-37.
 
 Xác định độ trưởng thành phổi. Cố gắng dưỡng thai đến 32-34 tuần. Sau 34 tuần cần cân nhắc lợi ích giữa mẹ và thai với nguy cơ mất máu.
 
-Liệu pháp Corticosteroid từ tuần 28 đến trước 34 tuần.
+Liệu pháp corticosteroid từ tuần 28 đến trước 34 tuần.
 
 Truyền máu khi Hb < 10 g/dL.
 
