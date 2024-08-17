@@ -36,7 +36,7 @@ Tăng sinh nội mạc tử cung là bệnh lý tiền ung thư của nội mạ
 Khảo sát nội mạc tử cung trong các trường hợp xuất huyết tử cung bất thường có liên quan ác tính hay tiền ác tính là bắt buộc. Khảo sát nội mạc tử cung có thể được thực hiện bằng các
 phương pháp xâm nhập hay các phương pháp không xâm nhập. Các phương pháp xâm nhập gồm: (1) nong nạo buồng tử cung (D&C), (2) sinh thiết nội mạc tử cung và (3) nội soi buồng tử cung.
 
-Các phương pháp không xâm nhập gồm (1) siêu âm với đầu dò âm đạo qui ước, (2) siêu âm bơm nước buồng tử cung và (3) các phương pháp khảo sát hình ảnh không thường qui hay chuyên biệt khác.
+Các phương pháp không xâm nhập gồm (1) siêu âm với đầu dò âm đạo quy ước, (2) siêu âm bơm nước buồng tử cung và (3) các phương pháp khảo sát hình ảnh không thường quy hay chuyên biệt khác.
 
 #### Nạo sinh thiết
 
@@ -56,7 +56,7 @@ Nội soi buồng tử cung cho phép nhìn trực tiếp buồng tử cung, cho
 
 Siêu âm qua đường âm đạo là tiếp cận sơ cấp, cho phép quyết định các chiến lược tiếp cận thứ cấp đi theo sau đó.
 
-Siêu âm qua đường âm đạo thường là siêu âm thang xám (grey-scale) thực hiện nhằm khảo sát độ dầy của nội mạc tử cung và các hình ảnh bất thường của nội mạc tử cung. Độ dầy nội mạc tử cung được xem như mốc qui chiếu để thực hiện các khảo sát không xâm lấn (SIS) hay xâm lấn khác (nội soi buồng tử cung).
+Siêu âm qua đường âm đạo thường là siêu âm thang xám (grey-scale) thực hiện nhằm khảo sát độ dầy của nội mạc tử cung và các hình ảnh bất thường của nội mạc tử cung. Độ dầy nội mạc tử cung được xem như mốc quy chiếu để thực hiện các khảo sát không xâm lấn (SIS) hay xâm lấn khác (nội soi buồng tử cung).
 
 #### Siêu âm bơm nước buồng tử cung
 

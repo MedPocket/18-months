@@ -61,7 +61,7 @@ Như vậy, các bước cần làm cụ thể sẽ là:
 
 Trong xử trí, cần chú trọng đến việc hạn chế gây thêm xáo trộn, tổn thương hệ trục hạ đồi-yên-buồng trứng còn non nớt, chưa trường thành. Xuất huyết tử cung cơ năng tuổi dậy thì thường sẽ tự ổn định sau 2-3 năm. Tiên lượng của xuất huyết tử cung cơ năng tuổi dậy thì thường tốt và ổn định sau vài năm xáo trộn đầu tiên. Sau khoảng 2 năm chu kỳ kinh nguyệt trở nên đều đặn. Việc theo dõi gồm nhật ký kinh nguyệt, liệu pháp bổ sung sắt và đo lường mức độ thiếu máu. Đối với tất cả các trường hợp phải đảm bảo bổ sung sắt đầy đủ cùng với theo dõi bằng lịch kinh nguyệt (menstrual calendar) có thể giúp ích trong thời gian chờ đợi sự trưởng thành về hoạt động của trục.
 
-Xử trí tùy thuộc vào mức độ mất máu và ảnh hưởng đến dời sống của bé gái. Nếu ra huyết không gây ảnh hưởng đến việc học hành và sinh hoạt thường ngày của bé gái, thì việc can thiệp bằng nội tiết là không cần thiết, thậm chí gây hại cho hệ sinh sản còn non nớt. Nếu tình trạng chảy máu cần phải phải được điều trị thì có thể cân nhắc đến liệu pháp nội tiết. Liệu pháp này nhằm vào mục tiêu duy nhất là củng cố tình trạng nội mạc tử cung bị ảnh hưởng bất lợi từ việc chỉ bị phơi bày duy nhất với estrogen.
+Xử trí tùy thuộc vào mức độ mất máu và ảnh hưởng đến đời sống của bé gái. Nếu ra huyết không gây ảnh hưởng đến việc học hành và sinh hoạt thường ngày của bé gái, thì việc can thiệp bằng nội tiết là không cần thiết, thậm chí gây hại cho hệ sinh sản còn non nớt. Nếu tình trạng chảy máu cần phải phải được điều trị thì có thể cân nhắc đến liệu pháp nội tiết. Liệu pháp này nhằm vào mục tiêu duy nhất là củng cố tình trạng nội mạc tử cung bị ảnh hưởng bất lợi từ việc chỉ bị phơi bày duy nhất với estrogen.
 
 ### Liệu pháp progestogen
 
@@ -86,6 +86,8 @@ Nếu sau 2-3 năm, tính chất của xuất huyết vẫn không thay đổi, 
 
 ![Tóm lược hoạt tính của các progestin](../../../assets/phu-khoa/xuat-huyet-tu-cung-o-tuoi-day-thi/tom-luoc-hoat-tinh-cua-cac-progestin.jpeg)
 _Tóm lược hoạt tính của ác progestin._
+
+Xem thêm tại điều trị "Xuất huyết tử cung do cơ năng".
 
 ## Nguồn tham khảo
 

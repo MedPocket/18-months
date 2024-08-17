@@ -76,7 +76,7 @@ Các điều trị nội khoa chủ yếu cho mục đích cầm máu là điề
 - Estrogen gây phát triển nội mạc.
 - Progestogen gây phân tiết nội mạc.
 
-Cần lưu ý rằng progestogen chỉ có thể có tác dụng nếu như nội mạc trước đó đã nhận được estrogen nội sinh hay ngoại sinh. Steroid sinh dục có thể được dùng đơn độc từng loại steroid hay phối hợp cả 2 steroid sinh dục. Chúng có thể dùng bằng nhiều đường khác nhau.
+Cần lưu ý rằng progestogen chỉ có thể có tác dụng nếu như nội mạc trước đó đã nhận được estrogen nội sinh hay ngoại sinh. Steroid sinh dục có thể được dùng đơn độc từng loại steroid hay phối hợp cả 2 steroid sinh dục. Chúng có thể dùng bằng nhiều đường khác nhau. Xem thêm tại điều trị "Xuất huyết tử cung do cơ năng".
 
 Các điều trị nội khoa cho mục đích điều trị nguyên nhân thường là các nội tiết có tác động chuyên biệt:
 
@@ -85,9 +85,9 @@ Các điều trị nội khoa cho mục đích điều trị nguyên nhân thư�
 - SPRM.
 - Các LASDS.
 
-Đồng vận GnRH kéo dài gây 1 tình trạng "cắt tuyến yên nội khoa". Thường được dùng cho điều trị u-xơ cơ tử cung hay bệnh tuyến-cơ tử cung, thông qua triệt nguồn cung cấp estrogen từ buồng trứng của nhân xơ hay của bệnh tuyến cơ tử cung.
+Đồng vận GnRH kéo dài gây tình trạng "cắt tuyến yên nội khoa". Thường được dùng cho điều trị u-xơ cơ tử cung hay bệnh tuyến-cơ tử cung, thông qua triệt nguồn cung cấp estrogen từ buồng trứng của nhân xơ hay của bệnh tuyến cơ tử cung.
 
-Selective Estrogen Receptor Modulator (SERM) gây phóng noãn trong những hợp có rối loạn kiểu chu kỳ không phóng noãn (đa nang buồng trứng).
+Selective Estrogen Receptor Modulator (SERM) gây phóng noãn trong những hợp có rối loạn kiểu chu kỳ không phóng noãn (buồng trứng đa nang).
 
 Selective Progesterone Receptor Modulator (SPRM) có tác động trên các u-xơ cơ tử cung, là các khối lệ thuộc progesterone.
 
