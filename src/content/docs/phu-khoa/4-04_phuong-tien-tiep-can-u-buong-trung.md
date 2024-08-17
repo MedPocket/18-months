@@ -101,19 +101,19 @@ MRI có hiệu quả trong mục tiêu (1) mô tả các các khối u vùng b�
 
 Giá trị của các chỉ báo khối u trước mổ vẫn chưa được khẳng định. Vị trí quan trọng nhất của các chỉ báo khối u vẫn là theo dõi sau phẫu thuật ung thư buồng trứng.
 
-### CA 125
+### CA125
 
-CA 125 (carcinoma antigen 125) (hay MUC16) là 1 glycoprotein giống mucin. Trong thời kỳ bào thai, CA 125 có nguồn gốc từ thượng mô phúc mạc nguyên thủy (fetal coelomic epithelia) là nguồn gốc của màng lót hệ Mullerian và biểu mô sơ khai bề mặt ụ sinh dục nguyên thủy. Tương tự, ở người trưởng thành, CA 125 có nguồn gốc từ các biểu mô có nguồn gốc trung bì như màng bụng, màng phổi, màng ngoài tim, và các biểu mô của các cơ quan nguồn gốc Mullerian: vòi trứng, nội mạc tử cung và cổ trong cổ tử cung.
+CA125 (carcinoma antigen 125) (hay MUC16) là 1 glycoprotein giống mucin. Trong thời kỳ bào thai, CA125 có nguồn gốc từ thượng mô phúc mạc nguyên thủy (fetal coelomic epithelia) là nguồn gốc của màng lót hệ Mullerian và biểu mô sơ khai bề mặt ụ sinh dục nguyên thủy. Tương tự, ở người trưởng thành, CA125 có nguồn gốc từ các biểu mô có nguồn gốc trung bì như màng bụng, màng phổi, màng ngoài tim, và các biểu mô của các cơ quan nguồn gốc Mullerian: vòi trứng, nội mạc tử cung và cổ trong cổ tử cung.
 
-CA 125 cao thấy trong các bệnh lý ác tính khác như ung thư buồng trứng, vú, phổi, tụy, đại tràng và tiêu hóa khác. Tuy nhiên, nhiều tình trạng không tân sinh, nhưng có kích thích các biểu mô này cũng gây nên tình trạng tăng của nồng độ CA 125. CA 125 tăng trong 1 số trạng thái sinh lý như thai kỳ, lạc nội mạc tử cung, khi hành kinh. CA 125 cũng tăng trong 1 số bệnh lý lành tính như tràn dịch màng bụng và/hoặc màng phổi do lao, suy tim, hội chứng thận hư...
+CA125 cao thấy trong các bệnh lý ác tính khác như ung thư buồng trứng, vú, phổi, tụy, đại tràng và tiêu hóa khác. Tuy nhiên, nhiều tình trạng không tân sinh, nhưng có kích thích các biểu mô này cũng gây nên tình trạng tăng của nồng độ CA125. CA125 tăng trong 1 số trạng thái sinh lý như thai kỳ, lạc nội mạc tử cung, khi hành kinh. CA125 cũng tăng trong 1 số bệnh lý lành tính như tràn dịch màng bụng và/hoặc màng phổi do lao, suy tim, hội chứng thận hư...
 
 Hiện nay, trị số 35 IU/mL thường được dùng là giá trị ngưỡng phân biệt (cut-off point) bình thường với bất thường. Tuy nhiên, đối với những người đã mãn kinh hoặc đã cắt tử cung kèm 2 buồng trứng thì nên chọn giá trị ngưỡng thấp hơn. Ngưỡng cắt được đặt ở 20-26 IU/mL.
 
-Trong các ung thư buồng trứng có nguồn gốc biểu mô nguyên thủy, CA 125 thường tăng trong u thanh dịch hơn là trong u nhầy, tế bào sáng hoặc bướu giáp biên ác.
+Trong các ung thư buồng trứng có nguồn gốc biểu mô nguyên thủy, CA125 thường tăng trong u thanh dịch hơn là trong u nhầy, tế bào sáng hoặc bướu giáp biên ác.
 
-CA 125 thay đổi tùy theo giai đoạn của ung thư. Vì thế CA 125 không được dùng để chẩn đoán và tầm soát sơ cấp các giai đoạn sớm của ung thư buồng trứng. Độ nhạy của CA 125 cho tầm soát ung thư buồng trứng không triệu chứng chỉ là 10%, với độ đặc hiệu là 30%. Độ nhạy của tầm soát ung thư buồng trứng bằng CA 125 không cao hơn 50% trong ung thư buồng trứng giai đoạn sớm. Độ nhạy của tầm soát ung thư buồng trứng bằng CA 125 có tăng lên, đạt đến 85% khi ung thư đã tiến triển xa. Tuy nhiên, điều này không giúp nâng cao vị trí của CA 125, do khi ung thư đã tiến triển xa thì các phương tiện hình ảnh vẫn có 1 giá trị cao hơn CA 125 rất nhiều.
+CA125 thay đổi tùy theo giai đoạn của ung thư. Vì thế CA125 không được dùng để chẩn đoán và tầm soát sơ cấp các giai đoạn sớm của ung thư buồng trứng. Độ nhạy của CA125 cho tầm soát ung thư buồng trứng không triệu chứng chỉ là 10%, với độ đặc hiệu là 30%. Độ nhạy của tầm soát ung thư buồng trứng bằng CA125 không cao hơn 50% trong ung thư buồng trứng giai đoạn sớm. Độ nhạy của tầm soát ung thư buồng trứng bằng CA125 có tăng lên, đạt đến 85% khi ung thư đã tiến triển xa. Tuy nhiên, điều này không giúp nâng cao vị trí của CA125, do khi ung thư đã tiến triển xa thì các phương tiện hình ảnh vẫn có 1 giá trị cao hơn CA125 rất nhiều.
 
-CA 125 là chỉ báo cho mục đích phát hiện sớm tái phát của các loại ung thư buồng trứng có nguồn gốc biểu mô. Trong mục đích phát hiện sớm tái phát, độ nhạy của CA 125 lên đến 60%. Độ nhạy cao là ưu thế của CA 125 trong theo dõi, bất chấp độ chuyên biệt của test rất thấp trong mục đích này, chỉ có 20%.
+CA125 là chỉ báo cho mục đích phát hiện sớm tái phát của các loại ung thư buồng trứng có nguồn gốc biểu mô. Trong mục đích phát hiện sớm tái phát, độ nhạy của CA125 lên đến 60%. Độ nhạy cao là ưu thế của CA125 trong theo dõi, bất chấp độ chuyên biệt của test rất thấp trong mục đích này, chỉ có 20%.
 
 ### HE4
 
@@ -123,13 +123,13 @@ HE4 được nhận biết tại biểu mô phần xa mào tinh và được cho
 
 HE4 tăng cao trong 93% u tuyến dịch trong, 100% u dạng nội mạc tử cung và 50% u tế bào sáng của buồng trứng. Trái lại, HE4 tăng ít trong u tuyến dịch nhầy.
 
-Tương tự CA 125, HE4 cũng thay đổi theo tuổi và nhiều tình trạng khác. Độ nhạy của HE4 cho mục tiêu chẩn đoán ung thư buồng trứng khoảng 67%. Độ chuyên biệt cho mục tiêu chẩn đoán ung thư buồng trứng của HE4 có thể lên đến trên 90%. Do các tính chất này, FDA công nhận HE4 là chỉ báo sinh học dùng để theo dõi sự tái phát, phát triển của các loại ung thư buồng trứng có nguồn gốc biểu mô.
+Tương tự CA125, HE4 cũng thay đổi theo tuổi và nhiều tình trạng khác. Độ nhạy của HE4 cho mục tiêu chẩn đoán ung thư buồng trứng khoảng 67%. Độ chuyên biệt cho mục tiêu chẩn đoán ung thư buồng trứng của HE4 có thể lên đến trên 90%. Do các tính chất này, FDA công nhận HE4 là chỉ báo sinh học dùng để theo dõi sự tái phát, phát triển của các loại ung thư buồng trứng có nguồn gốc biểu mô.
 
-HE4 thường được thực hiện chung với CA 125, với kết quả diễn giải nguy cơ có được nhờ 1 toán đồ gọi là ROMA test.
+HE4 thường được thực hiện chung với CA125, với kết quả diễn giải nguy cơ có được nhờ 1 toán đồ gọi là ROMA test.
 
 ### ROMA test
 
-ROMA test là 1 toán đồ sử dụng cùng 1 lúc 2 chỉ báo khối u là CA 125 và HE4, kết hợp với đặc điểm cá nhân và tiền sử bệnh nhân.
+ROMA test là 1 toán đồ sử dụng cùng 1 lúc 2 chỉ báo khối u là CA125 và HE4, kết hợp với đặc điểm cá nhân và tiền sử bệnh nhân.
 
 ROMA test cho phép phân tầng các bệnh nhân có khối u vùng chậu ra 2 nhóm: (1) nhóm bệnh nhân có nguy cơ cao và (2) nhóm bệnh nhân có nguy cơ thấp của ung thư có nguồn gốc biểu mô của buồng trứng. Có sự khác biệt về điểm cắt (cut-off) ở 2 dân số khác nhau: (1) nhóm trước mãn kinh và (2) nhóm sau mãn kinh.
 

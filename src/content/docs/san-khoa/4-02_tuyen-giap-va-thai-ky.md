@@ -76,11 +76,11 @@ Nguyên nhân thường gặp nhất của nhược giáp ở phụ nữ trong �
 
 Phụ nữ mang thai bị nhược giáp nếu được điều trị thay thế thích hợp có thể có 1 kết cục thai kỳ bình thường. Tuy nhiên, nếu tình trạng nhược giáp của thai phụ không được điều trị sẽ làm tăng nguy cơ sẩy thai, tiền sản giật, thai lưu, cân nặng lúc sinh thấp, giảm chỉ số thông minh của trẻ.
 
-### Chẩn đoán và điều trị suy giáp
+### Chẩn đoán và điều trị
 
 Tiêu chuẩn quan trọng nhất để chẩn đoán nhược giáp là tăng TSH, ngoài ra có thể thấy $FT_3$ và $FT_4$ giảm. Chẩn đoán được nhược giáp thì phải điều trị ngay với levothyroxine và kiểm tra nồng độ TSH mỗi tháng để chỉnh liều levothyroxine phù hợp.
 
-### Kết cục sản khoa của suy giáp
+### Kết cục sản khoa của
 
 Thiếu hormone tuyến giáp trong thai kỳ và giai đoạn sơ sinh sớm sẽ gây ra chậm phát triển tâm thần.
 Tỷ lệ mới mắc của nhược giáp bẩm sinh là khoảng 1:4000. Nguyên nhân là do loạn sản tuyến giáp, rối loạn chức năng tuyến giáp, suy giáp do thuốc. Nguyên nhân thường gặp nhất của bướu giáp sơ sinh là do mẹ dùng iod có trong si rô ho. Dạng bướu giáp này thường to và gây tắc nghẽn; khác với dạng bướu giáp do mẹ dùng

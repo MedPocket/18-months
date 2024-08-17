@@ -28,9 +28,6 @@ export default defineConfig({
       ],
     ],
   },
-  experimental: {
-    contentCollectionCache: true,
-  },
   integrations: [
     starlight({
       title: '18 Months',
