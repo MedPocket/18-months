@@ -333,7 +333,7 @@ Có thể lựa chọn điều trị dụng cụ tử cung có nội tiết levo
 
 #### Phẫu thuật trong lạc nội mạc tử cung gây đau và hiếm muộn-vô sinh
 
-Thực hiện nội soi gỡ dính, cắt bỏ hoặc phá hủy tổn (sang) thương lạc nội mạc tử cung, bóc nang lạc nội mạc tử cung... làm giảm đau và cải thiện tỉ lệ có thai, không nên chỉ là nội soi chẩn đoán ở phụ nữ có vô sinh kèm lạc nội mạc tử cung độ I-II (theo phân độ AFS/ASRM có sửa đổi).
+Thực hiện nội soi gỡ dính, cắt bỏ hoặc phá hủy tổn (sang) thương lạc nội mạc tử cung, bóc nang lạc nội mạc tử cung... làm giảm đau và cải thiện tỷ lệ có thai, không nên chỉ là nội soi chẩn đoán ở phụ nữ có vô sinh kèm lạc nội mạc tử cung độ I-II (theo phân độ AFS/ASRM có sửa đổi).
 
 Cần tư vấn nguy cơ suy giảm chức năng buồng trứng sau phẫu thuật và mất buồng trứng; quyết định phẫu thuật phải cân nhắc và thận trọng nếu có tiền sử phẫu thuật buồng trứng trước đó.
 
@@ -405,17 +405,17 @@ Cần tư vấn cho người bệnh có nang lạc nội mạc tử cung hiểu 
 
 #### Các kỹ thuật điều trị
 
-Lạc nội mạc tử cung phúc mạc: nội soi ổ bụng gỡ dính, cắt bỏ hoặc đốt phá hủy tổn (sang) thương lạc nội mạc tử cung... làm cải thiện tỉ lệ có thai ở lạc nội mạc tử cung độ I-II, không nên chỉ là nội soi chẩn đoán.
+Lạc nội mạc tử cung phúc mạc: nội soi ổ bụng gỡ dính, cắt bỏ hoặc đốt phá hủy tổn (sang) thương lạc nội mạc tử cung... làm cải thiện tỷ lệ có thai ở lạc nội mạc tử cung độ I-II, không nên chỉ là nội soi chẩn đoán.
 
-Lạc nội mạc tử cung ở buồng trứng: nội soi gỡ dính và bóc nang lạc nội mạc tử cung làm cải thiện tỉ lệ có thai và giảm tái phát nang, thay vì chỉ dẫn lưu hoặc đốt mặt trong nang lạc nội mạc tử cung.
+Lạc nội mạc tử cung ở buồng trứng: nội soi gỡ dính và bóc nang lạc nội mạc tử cung làm cải thiện tỷ lệ có thai và giảm tái phát nang, thay vì chỉ dẫn lưu hoặc đốt mặt trong nang lạc nội mạc tử cung.
 
 #### Điều trị nội tiết sau phẫu thuật
 
-Không điều trị nội tiết sau phẫu thuật để cải thiện tỉ lệ có thai tự nhiên.
+Không điều trị nội tiết sau phẫu thuật để cải thiện tỷ lệ có thai tự nhiên.
 
 #### Điều trị bằng phương pháp bơm tinh trùng vào buồng tử cung (IUI)
 
-Phụ nữ vô sinh có lạc nội mạc tử cung độ I - II có thể thực hiện kích thích buồng trứng và làm IUI để tăng tỉ lệ có thai sinh sống, thay vì chờ có thai tự nhiên.
+Phụ nữ vô sinh có lạc nội mạc tử cung độ I - II có thể thực hiện kích thích buồng trứng và làm IUI để tăng tỷ lệ có thai sinh sống, thay vì chờ có thai tự nhiên.
 
 Cân nhắc cẩn trọng việc thực hiện kích thích buồng trứng và IUI trong vòng 6 tháng sau phẫu thuật ở người bệnh có lạc nội mạc tử cung độ I - II.
 
@@ -427,7 +427,7 @@ Chỉ định kháng sinh dự phòng khi chọc hút trứng trên buồng tr�
 
 Phẫu thuật điều trị lạc nội mạc tử cung trước khi thực hiện ART:
 
-- Không có bằng chứng về phẫu thuật bóc nang lạc nội mạc tử cung có kích thước ≥ 3 cm trước khi thực hiện hỗ trợ sinh sản giúp cải thiện tỉ lệ có thai.
+- Không có bằng chứng về phẫu thuật bóc nang lạc nội mạc tử cung có kích thước ≥ 3 cm trước khi thực hiện hỗ trợ sinh sản giúp cải thiện tỷ lệ có thai.
 
 - Cân nhắc chỉ định phẫu thuật bóc nang lạc nội mạc tử cung trước khi thực hiện hỗ trợ sinh sản, nếu có chỉ định phẫu thuật chỉ để cải thiện triệu chứng đau hoặc để dễ tiếp cận noãn nang sau đó.
 

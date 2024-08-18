@@ -89,9 +89,9 @@ Nếu niêm mạc tử cung > 10mm, có thể sử dụng progestins 2 viên/ng�
 
 Biệt dược trên thị trường:
 
-- Estrogen: Progynova, Valiera, Provames.
-- Progesterone: Utrogestan, Duphaston.
-- Thuốc tránh thai kết hợp: Marvelon, Regulon, Rigevidon, Microgynon.
+- Estrogen: Progynova®, Valiera®, Provames®.
+- Progesterone: Utrogestan®, Duphaston®.
+- Thuốc tránh thai kết hợp: Marvelon®, Regulon®, Rigevidon®, Microgynon®.
 
 ### Ngoại khoa
 

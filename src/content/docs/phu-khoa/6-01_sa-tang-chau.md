@@ -179,7 +179,7 @@ Cắt tử cung và cố định mỏm cắt.
 
 ### Chỉ định và chống chỉ định đặt mảnh ghép tổng hợp
 
-Phẫu thuật đặt mảnh ghép tổng hợp là phẫu thuật ưu thế trong việc đạt hiệu quả giải phẫu ngay sau mổ và giữ cho hiệu quả phẫu thuật kéo dài hơn, giảm tỉ lệ tái phát so với phẫu thuật cắt tử cung hoặc may gấp nếp âm đạo sửa hội âm kinh điển:
+Phẫu thuật đặt mảnh ghép tổng hợp là phẫu thuật ưu thế trong việc đạt hiệu quả giải phẫu ngay sau mổ và giữ cho hiệu quả phẫu thuật kéo dài hơn, giảm tỷ lệ tái phát so với phẫu thuật cắt tử cung hoặc may gấp nếp âm đạo sửa hội âm kinh điển:
 
 - Mảnh ghép được chỉ định trong trường hợp: Sa tạng chậu nặng từ độ 3, sa tái phát, sa mỏm cắt, tình trạng BN không cho phép phẫu thuật kéo dài hoặc gây mê toàn thân.
 - Chống chỉ định tuyệt đối đặt mảnh ghép tổng hợp

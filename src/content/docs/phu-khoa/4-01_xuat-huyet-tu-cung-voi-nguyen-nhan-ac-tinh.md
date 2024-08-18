@@ -5,11 +5,43 @@ description: Xuất huyết tử cung bất thường với nguyên nhân ác t�
 
 Các tình trạng ác tính hay tiền ác tính là nguyên nhân quan trọng gây ra xuất huyết tử cung bất thường.
 
-Các xuất huyết tử cung bất thường do bệnh lý ác tính hay tiền ác tính thường xảy ra ở phụ nữ lớn tuổi nhưng cũng có thể xảy ra ở các phụ nữ trẻ tuổi có các nguy cơ của ung thư nội mạc tử cung. Trong các nguyên nhân của xuất huyết tử cung bất thường liên quan đến ác tính, có ba bệnh lý ác tính hay tiền ác tính thường gặp nhất là:
+Các xuất huyết tử cung bất thường do bệnh lý ác tính hay tiền ác tính thường xảy ra ở phụ nữ lớn tuổi nhưng cũng có thể xảy ra ở các phụ nữ trẻ tuổi có các nguy cơ của ung thư nội mạc tử cung. Trong các nguyên nhân của xuất huyết tử cung bất thường liên quan đến ác tính, có 3 bệnh lý tiền ác tính hay ác tính thường gặp nhất là:
 
-1. Ung thư nội mạc tử cung (endometrial carcinoma).
-2. Sarcoma thân tử cung (uterine sarcoma).
-3. Tăng sinh nội mạc tử cung (endometrial hyperplasia).
+1. Tăng sinh nội mạc tử cung (endometrial hyperplasia).
+2. Ung thư nội mạc tử cung (endometrial carcinoma).
+3. Sarcoma thân tử cung (uterine sarcoma).
+
+## Các bệnh lý thường gặp
+
+### Tăng sinh nội mạc tử cung
+
+Tăng sinh nội mạc tử cung là bệnh lý tiền ung thư của nội mạc tử cung, thường do nội mạc tử cung bị kích thích liên tục của estrogen mà không có progesterone đối kháng. Tăng sinh nội mạc tử cung là tổn thương tiền ung thư. Nguy cơ tiến triển thành ung thư nội mạc tử cung thay đổi tùy theo đặc tính giải phẫu bệnh học của tăng sinh nội mạc tử cung.
+
+Tăng sinh nội mạc tử cung theo tổ chức y tế thế giới (WHO) dựa vào 2 yếu tố chính:
+
+- Thành phần cấu trúc tuyến/mô đệm (đơn giản hay phức tạp).
+- Có sự hiện diện của nhân không điển hình (điển hình hay không điển hình).
+
+Do đó tăng sinh nội mạc tử cung được chia thành 4 nhóm:
+
+1. Tăng sinh tuyến nội mạc tử cung đơn giản điển hình. Nguy cơ tiến triển thành ung thư nội mạc tử cung khoảng 1%. Tăng sinh tuyến nội mạc tử cung đơn giản điển hình là tăng sinh biểu mô tuyến nội mạc tử cung ở mức độ nhẹ, nhân tế bào bình thường. Tăng sinh tuyến nội mạc tử cung đơn giản điển hình là kết quả của tình trạng phơi bày quá đáng với kích thích estrogen. Các yếu tố thuận lợi gồm béo phì, hội chứng buồng trứng đa nang, estrogen ngoại sinh và mọi trạng thái cường estrogen khác.
+2. Tăng sinh tuyến nội mạc tử cung phức tạp điển hình. Nguy cơ tiến triển thành ung thư nội mạc tử cung khoảng 3%. Tăng sinh tuyến nội mạc tử cung phức tạp điển hình có hình ảnh bệnh học là mô tuyến nội mạc tử cung tăng sinh nhiều, thay đổi mạnh tỷ lệ tuyến:mô đệm, với thành phần tuyến chiếm trên 50%, các tuyến nội mạc tử cung sắp xếp lộn xộn. Tuy nhiên, nhân tế bào bình thường.
+3. Tăng sinh nội mạc tử cung đơn giản không điển hình. Nguy cơ tiến triển thành ung thư nội mạc tử cung là 8%. Tăng sinh tuyến nội mạc tử cung đơn giản không điển hình được đặc trưng bằng mô tuyến tăng sinh nhẹ, tuy nhiên, các tuyến nội mạc tử cung được lót bởi lớp tế bào có nhân to, dị dạng, tăng sắc.
+4. Tăng sinh nội mạc tử cung phức tạp không điển hình. Nguy cơ tiến triển thành ung thư nội mạc tử cung là 29%. Tăng sinh tuyến nội mạc tử cung phức tạp không điển hình có đặc trưng trên mộ bệnh học là các tuyến tăng sinh nhiều, sắp xếp lộn xộn, lòng tuyến được lót bởi các tế bào nhân to, dị dạng và tăng sắc.
+
+Ta thường gặp tăng sinh nội mạc tử cung ở các nhóm có yếu tố nguy cơ sau:
+
+- Tuổi dậy thì (do chu kỳ không phóng noãn).
+- Phụ nữ trẻ, tiền mãn kinh, quanh mãn kinh (do suy giảm progesterone của hoàng thể):
+  - Nội sinh: phụ nữ béo phì, bướu buồng trứng sản xuất estrogen, thiểu năng buồng trứng, hội chứng buồng trứng đa nang.
+  - Ngoại sinh: điều trị nội tiết estrogen đơn thuần.
+  - Các bệnh lý đi kèm như tiểu đường, tăng huyết áp.
+- Hậu mãn kinh:
+  - Điều trị nội tiết estrogen đơn thuần trong thời kỳ hậu mãn kinh.
+  - Cũng có thể do estrogen nội sinh.
+  - Do thuốc: Tamoxifen.
+
+### Ung thư nội mạc tử cung
 
 Ung thư nội mạc tử cung là nguyên nhân của khoảng 5-10% các trường hợp xuất huyết tử cung bất thường sau mãn kinh. Tế bào ung thư xuất phát từ nội mạc tử cung (endometrial carcinoma). Ung thư nội mạc tử cung có các yếu tố nguy cơ sau:
 
@@ -20,21 +52,15 @@ Ung thư nội mạc tử cung là nguyên nhân của khoảng 5-10% các trư�
 - Đái tháo đường.
 - Ung thư đại trực tràng không phải dạng polyp có di truyền.
 
+### Sarcoma thân tử cung
+
 Sarcoma thân tử cung chiếm 3-5% các loại u ở tử cung. Sarcoma thân tử cung có thể hiện diện ở phụ nữ xuất huyết tử cung bất thường sau mãn kinh. Sarcoma thân tử cung có thể phát triển từ mô đệm nội mạc tử cung (endometrial stromal sarcomas) hay từ cơ tử cung (uterine sarcoma). Vấn đề khó khăn nhất của sarcoma thân tử cung là nó cho hình ảnh giống u xơ-cơ tử cung lành tính qua khám lâm sàng, cho kết quả sinh thiết nội mạc tử cung bình thường về mô học. Chẩn đoán sarcoma thân tử cung chỉ được thực hiện bằng giải phẫu bệnh lý sau khi cắt tử cung.
-
-Tăng sinh nội mạc tử cung là bệnh lý tiền ung thư của nội mạc tử cung, thường do nội mạc tử cung bị kích thích liên tục của estrogen mà không có progesterone đối kháng. Tăng sinh nội mạc tử cung là tổn thương tiền ung thư. Nguy cơ tiến triển thành ung thư nội mạc tử cung thay đổi tùy theo đặc tính giải phẫu bệnh học của tăng sinh nội mạc tử cung. Gồm các dạng sau:
-
-1. Tăng sinh tuyến nội mạc tử cung đơn giản điển hình. Nguy cơ tiến triển thành ung thư nội mạc tử cung khoảng 1%. Tăng sinh tuyến nội mạc tử cung đơn giản điển hình là tăng sinh biểu mô tuyến nội mạc tử cung ở mức độ nhẹ, nhân tế bào bình thường. Tăng sinh tuyến nội mạc tử cung đơn giản điển hình là kết quả của tình trạng phơi bày quá đáng với kích thích estrogen. Các yếu tố thuận lợi gồm béo phì, hội chứng buồng trứng đa nang, estrogen ngoại sinh và mọi trạng thái cường estrogen khác.
-2. Tăng sinh tuyến nội mạc tử cung phức tạp điển hình. Nguy cơ tiến triển thành ung thư nội mạc tử cung khoảng 3%. Tăng sinh tuyến nội mạc tử cung phức tạp điển hình có hình ảnh bệnh học là mô tuyến nội mạc tử cung tăng sinh nhiều, thay đổi mạnh tỉ lệ tuyến:mô đệm, với thành phần tuyến chiếm trên 50%, các tuyến nội mạc tử cung sắp xếp lộn xộn. Tuy nhiên, nhân tế bào bình thường.
-3. Tăng sinh nội mạc tử cung đơn giản không điển hình. Nguy cơ tiến triển thành ung thư nội mạc tử cung là 8%. Tăng sinh tuyến nội mạc tử cung đơn giản không điển hình được đặc trưng bằng mô tuyến tăng sinh nhẹ, tuy nhiên, các tuyến nội mạc tử cung được lót bởi lớp tế bào có nhân to, dị dạng, tăng sắc.
-4. Tăng sinh nội mạc tử cung phức tạp không điển hình. Nguy cơ tiến triển thành ung thư nội mạc tử cung là 29%. Tăng sinh tuyến nội mạc tử cung phức tạp không điển hình có đặc trưng trên mộ bệnh học là các tuyến tăng sinh nhiều, sắp xếp lộn xộn, lòng tuyến được lót bởi các tế bào nhân to, dị dạng và tăng sắc.
 
 ## Hướng tiếp cận
 
 ### Phương tiện khảo sát
 
-Khảo sát nội mạc tử cung trong các trường hợp xuất huyết tử cung bất thường có liên quan ác tính hay tiền ác tính là bắt buộc. Khảo sát nội mạc tử cung có thể được thực hiện bằng các
-phương pháp xâm nhập hay các phương pháp không xâm nhập. Các phương pháp xâm nhập gồm: (1) nong nạo buồng tử cung (D&C), (2) sinh thiết nội mạc tử cung và (3) nội soi buồng tử cung.
+Khảo sát nội mạc tử cung trong các trường hợp xuất huyết tử cung bất thường có liên quan ác tính hay tiền ác tính là bắt buộc. Khảo sát nội mạc tử cung có thể được thực hiện bằng các phương pháp xâm nhập hay các phương pháp không xâm nhập. Các phương pháp xâm nhập gồm: (1) nong nạo buồng tử cung (D&C), (2) sinh thiết nội mạc tử cung và (3) nội soi buồng tử cung.
 
 Các phương pháp không xâm nhập gồm (1) siêu âm với đầu dò âm đạo quy ước, (2) siêu âm bơm nước buồng tử cung và (3) các phương pháp khảo sát hình ảnh không thường quy hay chuyên biệt khác.
 
@@ -44,9 +70,11 @@ Nong nạo buồng tử cung (D&C) thường được gọi là nạo sinh thi�
 
 Nạo sinh thiết từng phần là tiêu chuẩn vàng cho khảo sát nội mạc tử cung trước khi có Pipelle. Hiện nay, nạo sinh thiết từng phần nội mạc tử cung không còn là kỹ thuật đầu tay trong lấy mẫu nội mạc tử cung vì kỹ thuật mù, có sai số và nguy cơ biến chứng như nhiễm trùng, thủng tử cung.
 
+Nạo sinh thiết không phải luôn luôn cho chẩn đoán chính xác. Có 1 số ung thư nội mạc tử cung biệt hóa cao không chẩn đoán được qua nạo sinh thiết (cùng tồn tại với tăng sinh nội mạc tử cung không điển hình).
+
 #### Sinh thiết nội mạc tử cung
 
-Sinh thiết nội mạc tử cung là thủ thuật lấy mẫu nội mạc tử cung bằng 1 ống hút nhỏ (Pipelle®). Lấy mẫu qua Pipelle được chứng minh là có tỉ lệ phát hiện ung thư nội mạc tử cung chính xác tương đương với phương pháp nong và nạo buồng tử cung. So với D&C, sinh thiết bằng Pipelle đơn giản hơn, không cần nong cổ tử cung, không cần vô cảm, có thể thực hiện tại phòng khám.
+Sinh thiết nội mạc tử cung là thủ thuật lấy mẫu nội mạc tử cung bằng 1 ống hút nhỏ (Pipelle®). Lấy mẫu qua Pipelle được chứng minh là có tỷ lệ phát hiện ung thư nội mạc tử cung chính xác tương đương với phương pháp nong và nạo buồng tử cung. So với D&C, sinh thiết bằng Pipelle đơn giản hơn, không cần nong cổ tử cung, không cần vô cảm, có thể thực hiện tại phòng khám.
 
 #### Nội soi buồng tử cung
 
@@ -56,7 +84,9 @@ Nội soi buồng tử cung cho phép nhìn trực tiếp buồng tử cung, cho
 
 Siêu âm qua đường âm đạo là tiếp cận sơ cấp, cho phép quyết định các chiến lược tiếp cận thứ cấp đi theo sau đó.
 
-Siêu âm qua đường âm đạo thường là siêu âm thang xám (grey-scale) thực hiện nhằm khảo sát độ dầy của nội mạc tử cung và các hình ảnh bất thường của nội mạc tử cung. Độ dầy nội mạc tử cung được xem như mốc quy chiếu để thực hiện các khảo sát không xâm lấn (SIS) hay xâm lấn khác (nội soi buồng tử cung).
+Siêu âm qua đường âm đạo thường là siêu âm thang xám (grey-scale) thực hiện nhằm khảo sát độ dầy của nội mạc tử cung và các hình ảnh bất thường của nội mạc tử cung. Độ dầy nội mạc tử cung được xem như mốc quy chiếu để thực hiện các khảo sát không xâm lấn (SIS) hay xâm lấn khác (nội soi buồng tử cung). Tăng sinh nội mạc tử cung tạo ra vùng echo dày, đồng nhất, bờ nhẵn trong buồng tử cung, có độ dày ≥ 4mm (mãn kinh) và đầu chu kỳ kinh > 9 mm.
+
+Có thể phát hiện u nang buồng trứng, buồng trứng đa nang.
 
 #### Siêu âm bơm nước buồng tử cung
 
@@ -75,8 +105,8 @@ Các phương pháp chẩn đoán hình ảnh khác (chụp cắt lớp bụng c
 Các chỉ định của lấy mẫu nội mạc tử cung để chẩn đoán mô bệnh học gồm:
 
 1. Xuất huyết tử cung bất thường ở các đối tượng nguy cơ cao có ung thư tuyến nội mạc tử cung.
-2. Phụ nữ hậu mãn kinh có độ dầy nội mạc tử cung trên 4 mm, nhưng không kèm theo xuất huyết thì việc nạo sinh thiết nội mạc tử cung thường quy không được khuyết cáo. Chỉ nên sinh thiết nội mạc tử cung ở các đối tượng này nếu nội mạc tử cung dày trên 11 mm hoặc có các hình ảnh nghi ngờ ác tính như kèm theo tăng sinh mạch máu, dày không đều hoặc có ứ dịch lòng tử cung.
-3. Nguy cơ cao ung thư nội mạc tử cung (Điều trị với tamoxifen, hội chứng Lynch, hội chứng Cowden).
+2. Phụ nữ hậu mãn kinh có độ dầy nội mạc tử cung > 4 mm, nhưng không kèm theo xuất huyết thì việc nạo sinh thiết nội mạc tử cung thường quy không được khuyết cáo. Chỉ nên sinh thiết nội mạc tử cung ở các đối tượng này nếu nội mạc tử cung dày > 11 mm hoặc có các hình ảnh nghi ngờ ác tính như kèm theo tăng sinh mạch máu, dày không đều hoặc có ứ dịch lòng tử cung.
+3. Nguy cơ cao ung thư nội mạc tử cung (điều trị với tamoxifen, hội chứng Lynch, hội chứng Cowden).
 4. Tăng sinh nội mạc tử cung ở phụ nữ không phóng noãn và có kèm vô kinh trên 6 tháng.
 5. Theo dõi điều trị tăng sinh nội mạc tử cung.
 6. Bất thường tế bào học cổ tử cung: AGS và bệnh nhân có nguy cơ cao ung thư tuyến nội mạc tử cung.
@@ -85,7 +115,7 @@ Xuất huyết tử cung bất thường ở các đối tượng nguy cơ cao c
 
 Đối với xuất tử cung bất thường hậu mãn kinh, chỉ định được đặt ra cho mọi trường hợp xuất huyết bất chấp kiểu và lượng xuất huyết như thế nào (xuất huyết điểm hay vết).
 
-Đối với xuất tử cung bất thường ở phụ nữ từ 45 tuổi đến mãn kinh, chỉ định được đặt ra cho mọi trường hợp xuất huyết, bất chấp kiểu xuất huyết, bao gồm: xuất huyết giữa hai kỳ kinh ở các phụ nữ có phóng noãn, xuất huyết tử cung thường xuyên (khoảng cách giữa hai lần hành kinh dưới 21 ngày), xuất huyết nặng (lượng máu mất trên 80 mL) hay kéo dài (số ngày hành kinh nhiều hơn 7 ngày).
+Đối với xuất tử cung bất thường ở phụ nữ từ 45 tuổi đến mãn kinh, chỉ định được đặt ra cho mọi trường hợp xuất huyết, bất chấp kiểu xuất huyết, bao gồm: xuất huyết giữa 2 kỳ kinh ở các phụ nữ có phóng noãn, xuất huyết tử cung thường xuyên (khoảng cách giữa 2 lần hành kinh dưới 21 ngày), xuất huyết nặng (lượng máu mất trên 80 mL) hay kéo dài (số ngày hành kinh nhiều hơn 7 ngày).
 
 Đối với xuất tử cung bất thường ở phụ nữ trẻ hơn 45 tuổi, chỉ định được đặt ra cho xuất huyết tử cung bất thường tồn tại, xảy ra ở cơ địa tiếp xúc với estrogen kéo dài mà không có đối kháng của progesterone (béo phì, không phóng noãn mạn tính) hay thất bại với điều trị nội khoa.
 
@@ -95,7 +125,7 @@ Xuất huyết tử cung bất thường ở các đối tượng nguy cơ cao c
 
 1. Xử trí dựa trên kết quả giải phẫu bệnh lý của mô nội mạc tử cung.
 2. Progestogen (progestin) là liệu pháp nội khoa chủ yếu do hoạt tính kháng estrogenic cực mạnh.
-3. Điều trị ngoại khoa là liệu pháp triệt để, khi không có nhu cầu sanh thêm con.
+3. Điều trị ngoại khoa là liệu pháp triệt để, khi không có nhu cầu sinh thêm con.
 4. Việc theo dõi điều trị được thực hiện qua sinh thiết từng phần.
 
 Đối với ung thư tuyến nội mạc tử cung, điều trị chủ yếu là phẫu thuật. Bắt buộc phải xác định giai đoạn. Tùy theo chẩn đoán giai đoạn, phẫu thuật có thể kết hợp xạ trị hay hóa trị.
@@ -112,9 +142,7 @@ Các phương pháp điều trị tăng sinh nội mạc tử cung bao gồm:
 - Cắt tử cung là giải pháp điều trị triệt để.
 - Điều trị nội tiết. Nội tiết được chọn là các progestins.
 
-Theo dõi điều trị bằng cách nạo sinh thiết từng phần để kiểm tra sau điều trị. Nhịp điệu nạo sinh thiết thay đổi tùy theo mức độ tổn thương. Đối với tăng sinh tuyến nội mạc tử cung đơn giản điển hình, sinh thiết kiểm tra điều trị được đề nghị thực hiện 1 lần sau mỗi 3 đến 6 tháng. Việc kiểm tra được tiếp tục cho đến khi kết quả giải phẫu bệnh trở về bình thường. Đối với tăng sinh tuyến nội mạc tử cung không điển hình, theo dõi điều trị bằng sinh thiết nội mạc tử cung sau 3
-tháng kể từ khi bắt đầu điều trị với progestin. Nếu bệnh vẫn tồn tạị, tăng liều progestin. Sinh thiết nội mạc tử cung lặp lại lần nữa sau 3 tháng. Việc kiểm tra được thực hiện với
-nhịp điệu 1 lần 3 tháng.
+Nhiều loại tăng sinh nội mạc tử cung khác nhau có thể cùng hiện diện ở nội mạc và cùng đi kèm với ung thư nội mạc tử cung. Điều kiện đầu tiên trong điều trị bảo tồn là mẫu nạo sinh thiết đã được lấy cẩn thận không bỏ sót tổn thương. Có thể điều trị ở tất cả thời điểm vì điều trị ở giai đoạn sớm tình trạng tăng sinh nội mạc tử cung không điển hình cũng có thể thoái triển.
 
 ## Liệu pháp progestin
 
@@ -130,22 +158,39 @@ Tiếp xúc với progestin cũng làm giảm thụ thể estrogen và progester
 
 Progestin là liệu pháp được khuyến cáo trong điều trị tăng sinh nội mạc tử cung điển hình. Trong tăng sinh nội mạc tử cung điển hình, phẫu thuật không phải là giải pháp nên chọn lựa hàng đầu.
 
-Sau điều trị progestin, tỉ lệ thoái triển của tăng sinh tuyến nội mạc tử cung đơn giản điển hình có thể đạt đến 80%. Tương tự, sau điều trị progestin, tỉ lệ thoái triển của tăng sinh tuyến nội mạc tử cung phức tạp điển hình có thể đạt đến 71%.
+Sau điều trị progestin, tỷ lệ thoái triển của tăng sinh tuyến nội mạc tử cung đơn giản điển hình có thể đạt đến 80%. Tương tự, sau điều trị progestin, tỷ lệ thoái triển của tăng sinh tuyến nội mạc tử cung phức tạp điển hình có thể đạt đến 71%.
 
 Progestin có thể là MPA hay LNG:
 
-1. Medroxyprogesterone acetate (MPA) đường uống (Provera®) 10 mg uống mỗi ngày trong 3 tháng hoặc 10 mg uống mỗi ngày, 12-14 ngày mỗi tháng trong 3 tháng; hay đường tiêm bắp sử dụng dạng kho phóng thích chậm trong mô (depot-MPA) (DMPA) (Depo-Provera®) 150 mg tiêm bắp sâu, 1 lần mỗi 3 tháng.
-2. Levonorgestrel (LNG) phóng thích chậm qua đặt tại chỗ trong buồng tử cung. Dụng cụ tử cung phóng thích hằng định 15-20 µg LNG mỗi ngày. Thời hạn tác dụng 5 năm cho Mirena® hay 3 năm với Liletta®.
-3. Riêng với tăng sinh tuyến nội mạc tử cung đơn giản điển hình, có thể dùng micronized progesterone. Micronized progesterone không phải là 1 progestin. Dược chất này là progesterone thiên nhiên, do đó tác dụng kháng estrogen của nó yếu hơn progestin khác. (Utrogestan®, Cyclogest®) 100-200 mg đặt âm đạo mỗi ngày, 14 ngày mỗi tháng, trong 3 tháng.
+1. Medroxyprogesterone acetate (MPA) đường uống (Provera®) 10 mg uống/ngày trong 3 tháng đến 6 tháng hoặc 10 mg uống/ngày, 12-14 ngày/tháng trong 3 tháng đến 6 tháng; hay đường tiêm bắp sử dụng dạng kho phóng thích chậm trong mô (depot-MPA) (DMPA) (Depo-Provera®) 150 mg tiêm bắp sâu 1 lần/3 tháng đến 6 tháng.
+2. Levonorgestrel (LNG) phóng thích chậm qua đặt tại chỗ trong buồng tử cung. Dụng cụ tử cung phóng thích hằng định 15-20 µg LNG/ngày. Thời hạn tác dụng 5 năm cho Mirena® hay 3 năm với Liletta®.
+3. Riêng với tăng sinh tuyến nội mạc tử cung đơn giản điển hình, có thể dùng micronized progesterone không phải là 1 progestin, dược chất này là progesterone thiên nhiên, do đó tác dụng kháng estrogen của nó yếu hơn progestin khác, có thể dùng 200 mg/ngày trong 12-14 ngày/tháng trong 3 tháng đến 6 tháng.
+4. Utrogestan®, Cyclogest® 100-200 mg đặt âm đạo/ngày, 14 ngày/tháng, trong 3 tháng đến 6 tháng.
+
+Sau điều trị:
+
+- Sinh thiết kiểm tra điều trị được đề nghị thực hiện 1 lần sau mỗi 3 đến 6 tháng. Việc kiểm tra được tiếp tục cho đến khi kết quả giải phẫu bệnh trở về bình thường.
+- Sinh thiết nội mạc tử cung khi có xuất huyết tử cung bất thường.
+- Theo dõi các biểu hiện trở lại bình thường của chu kỳ kinh nguyệt và rụng trứng.
+- Nếu muốn có thai kích thích phóng noãn.
 
 ### Tăng sinh nội mạc tử cung không điển hình
 
 Trong tăng sinh tuyến nội mạc tử cung không điển hình, người ta có xu hướng dùng liên tục các progestin, không có khoảng nghỉ sinh lý, nhằm đạt được mục tiêu khống chế thường trực ảnh hưởng của cường estrogen. Micronized progesterone không phải là thuốc được chọn trong tăng sinh phức tạp không điển hình tuyến nội mạc tử cung, do hoạt tính kháng estrogen không cao như MPA hay LNG.
 
-Sau điều trị progestin, tỉ lệ thoái triển của tăng sinh tuyến nội mạc tử cung không điển hình có thể đạt đến 86%. Tuy nhiên, tỉ lệ tái phát có thể lên đến 26% với thời gian theo dõi là 11-77 tháng.
+Sinh thiết nội mạc tử cung đánh giá điều trị sau 3 tháng, nếu bệnh lý còn tồn tại tăng liều cao hơn. Thời gian thoái triển trung bình khi điều trị progestin được ghi nhận khoảng 9 tháng. Nếu bệnh lý vẫn còn tồn tại sau 7-9 tháng điều trị, tiên lượng điều trị nội khoa thất bại cao (có chỉ định cắt tử cung).
 
-Cắt tử cung là phương pháp điều trị triệt để đối với các trường hợp tăng sinh tuyến nội mạc tử cung không điển hình. Chỉ định cắt tử cung được cân nhắc trong các trường hợp mà người phụ nữ đã mãn kinh hay phụ nữ đã đủ con và không còn nguyện vọng sanh thêm con.
+Sau điều trị progestin, tỷ lệ thoái triển của tăng sinh tuyến nội mạc tử cung không điển hình có thể đạt đến 86%. Tuy nhiên, tỷ lệ tái phát có thể lên đến 26% với thời gian theo dõi là 11-77 tháng.
+
+Khi mẫu sinh thiết không còn dấu hiệu bệnh, khuyên người bệnh có thai sớm. Nếu chưa muốn có thai cần tiếp tục duy trì điều trị và sinh thiết nội mạc tử cung mỗi 6-12 tháng.
+
+Cắt tử cung là phương pháp điều trị triệt để đối với các trường hợp tăng sinh tuyến nội mạc tử cung không điển hình. Chỉ định cắt tử cung được cân nhắc trong các trường hợp:
+
+- Người phụ nữ đã mãn kinh hay phụ nữ đã đủ con và không còn nguyện vọng sinh thêm con.
+- Người bệnh không muốn hoặc không thể theo dõi bằng phương pháp nội khoa và sinh thiết nội mạc tử cung theo lịch hẹn.
+- Xuất huyết tử cung trầm trọng.
 
 ## Nguồn tham khảo
 
 - TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA - Bệnh viện Từ Dũ.
