@@ -10,8 +10,8 @@
     "start": "astro dev"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.26.1",
-    "astro": "^4.14.5",
+    "@astrojs/starlight": "^0.26.2",
+    "astro": "^4.15.2",
     "astro-og-canvas": "^0.5.3",
     "canvaskit-wasm": "^0.39.1",
     "hast-util-to-string": "^3.0.0",
@@ -33,5 +33,5 @@
     "prettier-plugin-astro": "^0.14.1",
     "typescript": "^5.5.4"
   },
-  "packageManager": "pnpm@9.8.0"
+  "packageManager": "pnpm@9.9.0"
 }
