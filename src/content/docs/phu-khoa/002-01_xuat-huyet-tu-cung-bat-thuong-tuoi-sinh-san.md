@@ -76,7 +76,7 @@ Các điều trị nội khoa chủ yếu cho mục đích cầm máu là điề
 - Estrogen gây phát triển nội mạc.
 - Progestogen gây phân tiết nội mạc.
 
-Cần lưu ý rằng progestogen chỉ có thể có tác dụng nếu như nội mạc trước đó đã nhận được estrogen nội sinh hay ngoại sinh. Steroid sinh dục có thể được dùng đơn độc từng loại steroid hay phối hợp cả 2 steroid sinh dục. Chúng có thể dùng bằng nhiều đường khác nhau. Xem thêm tại điều trị "Xuất huyết tử cung do cơ năng".
+Cần lưu ý rằng progestogen chỉ có thể có tác dụng nếu như nội mạc trước đó đã nhận được estrogen nội sinh hay ngoại sinh. Steroid sinh dục có thể được dùng đơn độc từng loại steroid hay phối hợp cả 2 steroid sinh dục. Chúng có thể dùng bằng nhiều đường khác nhau. Xem thêm tại "Xuất huyết tử cung do cơ năng".
 
 Các điều trị nội khoa cho mục đích điều trị nguyên nhân thường là các nội tiết có tác động chuyên biệt:
 

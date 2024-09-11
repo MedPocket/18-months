@@ -63,7 +63,7 @@ HPV testing thường được thực hiện cùng lúc với phết tế bào h
 
 Các xét nghiệm HPV cần định rõ các type nguy cơ cao. Các khảo sát các genotypes HPV nguy cơ thấp có giá trị rất thấp, do không có ý nghĩa trong tầm soát ung thư.
 
-Xem thêm tại [HPV](../2-05_hpv).
+Xem thêm tại "HPV".
 
 ### Phân loại tế bào học theo Bethesda 2014
 

@@ -157,7 +157,7 @@ Sử dụng kháng sinh phổ rộng và phối hợp đến sau sinh và đã k
 
 Đánh giá tình trạng cổ tử cung trước khởi phát chuyển dạ. Cuộc mổ có thể là nguy hiểm hơn cuộc sinh, do khả năng vấy bẩn phúc mạc. Cần cân nhắc lợi ích và nguy cơ của sinh đường âm đạo và sinh mổ.
 
-Xem thêm [Nhiễm trùng ối](../3-03_nhiem-trung-oi).
+Xem thêm tại "Nhiễm trùng ối".
 
 ## Nguồn tham khảo
 
