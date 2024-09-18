@@ -62,11 +62,9 @@ Xét nghiệm phát hiện kháng nguyên như huỳnh quang phát hiện kháng
 
 ### Chẩn đoán xác định
 
-:::note[Tiêu chuẩn chẩn đoán]
+:::note[Tiêu chuẩn chẩn đoán nhiễm Chlamydia Trachomatis]
 Dựa vào khuếch đại gen hoặc xét nghiệm kháng nguyên.
-:::
 
-:::caution[Lưu ý]
 Nếu không đủ xét nghiệm có thể dựa vào lâm sàng hoặc dịch tễ.
 :::
 

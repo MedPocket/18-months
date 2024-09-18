@@ -57,7 +57,7 @@ Người thực bắt đầu thực hiện xét nghiệm phát hiện đái thá
 
 Dựa trên tiêu chuẩn của đái tháo đường thực thụ, BN có thể mắc đái tháo đường từ trước nhưng khi có thai mới phát hiện đái tháo đường.
 
-:::note[Tiêu chuẩn chẩn đoán]
+:::note[Tiêu chuẩn chẩn đoán đái tháo đường]
 ![Tiêu chuẩn chẩn đoán](../../../assets/san-khoa/dai-thao-duong-thai-ky/tieu-chuan-chan-doan.png)
 :::
 
@@ -65,9 +65,7 @@ Dựa trên tiêu chuẩn của đái tháo đường thực thụ, BN có thể
 
 Bằng nghiệm pháp dung nạp đường huyết, từ tuần 24-28 của thai kỳ (Các thời gian khác nhất là sau 28 tuần vẫn có thể làm nghiệm pháp). Điều kiện thai phụ phải nhịn ăn ít nhất 8-10 giờ, sau đó uống 75 g đường khan pha với nước, xét nghiệm đường huyết đói, sau 1 giờ và sau 2 giờ.
 
-:::note[Tiêu chuẩn chẩn đoán]
-Theo FIGO 2018, kết quả được đánh giá như sau:
-
+:::note[Tiêu chuẩn chẩn đoán đái tháo đường thai kỳ theo FIGO 2018]
 ![Nghiệm pháp dung nạp đường](../../../assets/san-khoa/dai-thao-duong-thai-ky/nghiem-phap-dung-nap-duong.png)
 :::
 
@@ -195,7 +193,7 @@ Biến chứng tiêm Insulin:
 
 ## Theo dõi trong thai kỳ
 
-Cần lưu ý những điểm mốc trong chăm sóc thai kỳ với đái tháo đường:
+Những điểm mốc trong chăm sóc thai kỳ với đái tháo đường:
 
 - 10 tuần: Tư vấn cũng như đánh giá các biến chứng của đái tháo đường: khám mắt và thận nếu chưa được đánh giá cách 03 tháng. Khám nội tiết cách 1-2 tuần trong thai kỳ. Đo HbA1C để đánh giá nguy cơ. Hướng dẫn cách tự theo dõi đường huyết cũng như thực hiện OGTT đối với thai phụ có tiền căn đái tháo đường thai kỳ càng sớm càng tốt trong tam cá nguyệt 1. Siêu âm thai xác định tuổi thai và độ sinh tồn thai.
 - 16 tuần: Khám mắt. Tự theo dõi đường huyết và OGTT nếu đến khám lần đầu lúc tam cá nguyệt 2.
@@ -218,10 +216,10 @@ Mức đường huyết trong chuyển dạ > 140 đến 180 mg/dL (7.8 đến 1
 
 ## Biến chứng hạ đường huyết cấp tính
 
-:::note[Tiêu chuẩn chẩn đoán]
+:::note[Tiêu chuẩn chẩn đoán hạ đường huyết]
 Hạ đường huyết:
 
-- Hạ đường huyết nhẹ (3.3-3.6 mmol/l): Sản phụ tỷnh, run tay, cồn cào, hoa mắt, nhịp tim nhanh, hồi hộp trống ngực, vã mồ hôi.
+- Hạ đường huyết nhẹ (3.3-3.6 mmol/l): Sản phụ tỉnh, run tay, cồn cào, hoa mắt, nhịp tim nhanh, hồi hộp trống ngực, vã mồ hôi.
 - Hạ đường huyết trung bình (2.8-3.3 mmol/l): Sản phụ có biểu hiện thần kinh như nhìn mờ, giảm khả năng tập trung, lơ mơ.
 - Hạ đường huyết nặng (<2.8 mmol/l): Mất định hướng, loạn thần, co giật, hôn mê.
 
@@ -231,10 +229,10 @@ Xử trí khi hạ đường huyết:
 
 - Ngừng tất cả thuốc liên quan hạ đường huyết.
 - Xét nghiệm lại đường máu.
-- Nếu sản phụ tỷnh (mức độ nhẹ/trung bình):
+- Nếu sản phụ tỉnh (mức độ nhẹ/trung bình):
   - Cho uống nước đường hoặc ăn đồ chứa đường.
 - Nếu sản phụ hôn mê (nặng):
-  - Truyền tĩnh mạch nhanh 50 ml glucose 20% hoặc 30%. Lặp lại nếu sản phụ chưa tỷnh. Nếu tỷnh điều chỉnh theo kết quả đường huyết.
+  - Truyền tĩnh mạch nhanh 50 ml glucose 20% hoặc 30%. Lặp lại nếu sản phụ chưa tỉnh. Nếu tỉnh điều chỉnh theo kết quả đường huyết.
   - Duy trì glucose 5% để đường huyết 5.5-7 mmol/l.
 
 ## Kết cục sản khoa

@@ -9,7 +9,9 @@ Dịch thường thấy nhất là tiết sữa. Trong trường hợp này khai
 
 Khảo sát nội tiết để tìm các nguyên nhân xa hơn như microadenoma tuyến yên hay nhược giáp là cần thiết. Kích thích núm vú quá mức cũng thường gặp.
 
-Trong trường hợp tiết dịch tự phát, 1 bên, có máu, cần lưu ý khả năng có bướu nhú hay các carcinoma khác và trong ống tuyến vú.
+:::caution[Lưu ý]
+Trong trường hợp tiết dịch tự phát, 1 bên, có máu, khả năng có bướu nhú hay các carcinoma khác và trong ống tuyến vú.
+:::
 
 ## Tiết sữa
 

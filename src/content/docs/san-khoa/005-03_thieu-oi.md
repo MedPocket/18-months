@@ -41,7 +41,7 @@ Nhồi máu hoặc thuyên tắc rau thai.
 
 Chủ yếu dựa trên siêu âm. Trên lâm sàng có thể thấy bề cao tử cung nhỏ hơn tuổi thai.
 
-:::note[Tiêu chuẩn chẩn đoán]
+:::note[Tiêu chuẩn chẩn đoán thiểu ối]
 Siêu âm:
 
 - Chỉ số ối (Amniotic fluid index - AFI) ≤ 5cm hoặc xoang ối lớn nhất (Single deepest pocket measurement - SDP) ≤ 2 cm.

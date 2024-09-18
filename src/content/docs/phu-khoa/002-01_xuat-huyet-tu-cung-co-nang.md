@@ -47,7 +47,11 @@ Các xét nghiệm cận lâm sàng chủ yếu để loại trừ các nguyên 
 ![Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng](../../../assets/phu-khoa/xuat-huyet-tu-cung-co-nang/cac-xet-nghiem-can-nhac-khi-xuat-huyet-tu-cung.png)
 _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng._
 
-Siêu âm đầu dò âm đạo là chỉ định đầu tay. Siêu âm có thể được thực hiện với siêu âm quy ước. Siêu âm giúp khảo sát các đặc điểm của nội mạc tử cung gồm độ dầy, phản âm và các cấu trúc bất thường lòng tử cung. Cũng cần lưu ý đến các hình ảnh có thể giúp định hướng cho các tiếp cận sau đó như u xơ-cơ tử cung, buồng trứng đa nang... Siêu âm với bơm nước lòng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương trong buồng tử cung.
+Siêu âm đầu dò âm đạo là chỉ định đầu tay. Siêu âm có thể được thực hiện với siêu âm quy ước. Siêu âm giúp khảo sát các đặc điểm của nội mạc tử cung gồm độ dầy, phản âm và các cấu trúc bất thường lòng tử cung.
+
+:::caution[Lưu ý]
+Các hình ảnh có thể giúp định hướng cho các tiếp cận sau đó như u xơ-cơ tử cung, buồng trứng đa nang... Siêu âm với bơm nước lòng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương trong buồng tử cung.
+:::
 
 Sinh thiết nội mạc tử cung được sử dụng như là 1 test chẩn đoán của xuất huyết tử cung chức năng. Kết quả mô học của nội mạc tử cung cho biết tác động của estrogen kéo dài và thiếu tác động đối kháng của progesterone trong các trường hợp xuất huyết tử cung chức năng. Sinh thiết nội mạc tử cung có thể được quyết định sau khi đã có kết quả siêu âm gợi ý sự cần thiết của sinh thiết. Các trường hợp sau nên được chỉ định sinh thiết nội mạc tử cung do nguy cơ ác tính cao ở các nhóm này:
 
@@ -81,7 +85,11 @@ Sử dụng các thuốc tăng co hồi tử cung, cầm máu và kháng sinh l�
 - Ergometrin 0.2 mg 1-2 ống/ngày, tiêm bắp.
 - Tranexamic và calci clorid tiêm tĩnh mạch cầm máu.
 
-Thuốc viên tránh thai estrogen-progestogen phối hợp được dùng với mục đích làm giảm sự phát triển nội mạc tử cung, tái tạo lại chu kỳ kinh bình thường, giảm lượng máu kinh và giảm nguy cơ thiếu máu thiếu sắt. Lưu ý rằng chỉ có các loại thuốc tránh thai estrogen-progestogen phối hợp hàm lượng tiêu chuẩn mới được dùng cho mục đích này. Không dùng các thuốc có hàm lượng ethinyl estradiol dưới 20 µg cho mục đích này. Thường sử dụng 2-3 viên/ngày tối đa lên đến 4 viên/ngày đến khi hết ra máu 2 ngày thì giảm dần xuống 1 viên/ngày, duy trì trong 26 ngày từ khi bắt đầu uống thuốc. Khi giảm liều nếu ra máu phải tăng liều lại và giảm liều như cũ. Thường uống vào buổi tối vào 1 giờ cố định để tránh các tác dụng phụ như buồn nôn, hoa mắt, chóng mặt.
+Thuốc viên tránh thai estrogen-progestogen phối hợp được dùng với mục đích làm giảm sự phát triển nội mạc tử cung, tái tạo lại chu kỳ kinh bình thường, giảm lượng máu kinh và giảm nguy cơ thiếu máu thiếu sắt.
+
+:::caution[Lưu ý]
+Chỉ có các loại thuốc tránh thai estrogen-progestogen phối hợp hàm lượng tiêu chuẩn mới được dùng cho mục đích này. Không dùng các thuốc có hàm lượng ethinyl estradiol dưới 20 µg cho mục đích này. Thường sử dụng 2-3 viên/ngày tối đa lên đến 4 viên/ngày đến khi hết ra máu 2 ngày thì giảm dần xuống 1 viên/ngày, duy trì trong 26 ngày từ khi bắt đầu uống thuốc. Khi giảm liều nếu ra máu phải tăng liều lại và giảm liều như cũ. Thường uống vào buổi tối vào 1 giờ cố định để tránh các tác dụng phụ như buồn nôn, hoa mắt, chóng mặt.
+:::
 
 Nếu niêm mạc tử cung < 5mm, có thể sử dụng thuốc tránh thai kết hợp như trên và dùng estrogen 1-2 viên/ngày đến khi hết ra máu. Estrogen thường được dùng trong những trường hợp xuất huyết tử cung kéo dài làm nội mạc tử cung bị mỏng đi nhằm phục hồi nội mạc tử cung và cầm máu trước tiên, giúp tái tạo sự phát triển nội mạc tử cung nhanh chóng. Tuy nhiên, mọi nội mạc tử cung có được nhờ điều trị với estrogen đơn thuần phải được tiếp tục với progestogen.
 

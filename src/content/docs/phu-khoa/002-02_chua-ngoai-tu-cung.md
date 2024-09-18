@@ -243,7 +243,7 @@ Rụng tóc (hiếm gặp).
 
 Viêm phổi.
 
-### Lưu ý khi điều trị MTX
+### Chú ý khi điều trị MTX
 
 Tránh hoạt động thể lực mạng và không quan hệ tình dục đến khi điều trị khỏi
 

@@ -46,7 +46,7 @@ Các xét nghiệm kết tụ latex (latex agglutination tests) có thể đư�
 
 ### Chẩn đoán
 
-:::note[Tiêu chuẩn chẩn đoán]
+:::note[Tiêu chuẩn chẩn đoán viêm âm đạo do nấm]
 Lâm sàng:
 
 - Ngứa âm đạo, âm hộ.

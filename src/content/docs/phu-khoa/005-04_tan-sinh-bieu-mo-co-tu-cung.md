@@ -140,10 +140,15 @@ hoặc có thể làm test HPV ngay:
 
 Phụ nữ trẻ ≤ 20 tuổi, ngẫu nhiên có thực hiện Pap’s test, và có kết quả ASC-US thì nên được theo dõi giống như ở độ tuổi từ 21- 24 tuổi.
 
-Quản lý ASC-US ở phụ nữ có thai giống như quản lý ở phụ nữ không có thai. Tuy nhiên, cần lưu ý 2 điểm:
+Quản lý ASC-US ở phụ nữ có thai giống như quản lý ở phụ nữ không có thai.
+
+:::caution[Lưu ý]
+Ghi nhớ 2 điểm sau:
 
 - Chống chỉ định nạo kênh cổ tử cung ở phụ nữ có thai.
 - Có thể chấp nhận trì hoãn soi cổ tử cung cho đến hết 6 tuần hậu sản.
+
+:::
 
 ![Quản lý ASC-US theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-asc-us-benh-vien-tu-du.jpeg)
 _Quản lý ASC-US theo Bệnh viện Từ Dũ._
@@ -176,7 +181,7 @@ LSIL trên dân số đặc biệt:
 
 - Phụ nữ 21-24 tuổi với LSIL, do cơ hội thoái triển cao, nên chọn làm lại tế bào học sau 12 và 24 tháng giống như quản lý ASC-US.
 - Phụ nữ trẻ ≤ 20 tuổi với LSIL, cũng do tỷ lệ thoái triển về bình thường cao ở nhóm này nên các bệnh nhân này nên được theo dõi giống như ở độ tuổi từ 21-24.
-- Phụ nữ có thai giống như quản lý ở phụ nữ không có thai. Tương tự ASC-US, cần lưu ý 2 điểm chống chỉ định nạo kênh tử cung ở phụ nữ có thai và có thể chấp nhận trì hoãn soi cổ tử cung cho đến hết 6 tuần hậu sản.
+- Phụ nữ có thai giống như quản lý ở phụ nữ không có thai. Tương tự ASC-US, 2 điểm chống chỉ định nạo kênh tử cung ở phụ nữ có thai và có thể chấp nhận trì hoãn soi cổ tử cung cho đến hết 6 tuần hậu sản.
 - Phụ nữ mãn kinh có thể có nhiều lựa chọn khác nhau: làm test HPV, hoặc làm lại tế bào học sau 6 tháng và 12 tháng, hoặc soi cổ tử cung ngay:
   - Nếu HPV âm tính hoặc không có tổn thương CIN khi soi cổ tử cung, làm lại tế bào học sau 12 tháng.
   - Nếu HPV dương tính hoặc tế bào học làm lại ≥ ASC, thì phải thực hiện soi cổ tử cung.

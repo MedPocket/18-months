@@ -17,7 +17,7 @@ Hội chứng buồng trứng đa nang là tập hợp các triệu chứng liê
 
 Hội chứng buồng trứng đa nang là tập hợp của nhiều triệu chứng, do đó, không có tiêu chuẩn đơn lẻ nào có đủ giá trị cho chẩn đoán lâm sàng. Các rối loạn hay bệnh lý khác có thể có các triệu chứng giống hội chứng buồng trứng đa nang cần được loại trừ như tăng sản tuyến thượng thận bẩm sinh, các loại u chế tiết androgen, hội chứng Cushing...
 
-:::note[Tiêu chuẩn chẩn đoán]
+:::note[Tiêu chuẩn chẩn đoán theo Rotterdam 2003]
 Hội chứng buồng trứng đa nang được chẩn đoán khi người bệnh có 2 trong 3 tiêu chuẩn:
 
 1. Rối loạn phóng noãn hay không phóng noãn.
@@ -52,14 +52,17 @@ Công thức tính FTI như sau: FTI = Testosterone toàn phần / SHBG x 100 (S
 
 Hình ảnh buồng trứng đa nang được xem là 1 trong những tiêu chuẩn để chẩn đoán hội chứng buồng trứng đa nang. Dựa trên các bằng chứng y học hiện có, tiêu chuẩn siêu âm sau đây được xem là "sự hiện diện của ≥ 12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL)".
 
-Lưu ý khi siêu âm đánh giá hình ảnh buồng trứng đa nang:
+:::caution[Lưu ý]
+Khi siêu âm đánh giá hình ảnh buồng trứng đa nang:
 
 1. Đặc điểm phân bố của các nang ở vùng ngoại vi buồng trứng, tăng thể tích và độ dày trên siêu âm của mô đệm buồng trứng không còn được quan tâm như trước đây. Chỉ 1 buồng trứng thỏa yêu cầu cũng đủ để chẩn đoán hình ảnh buồng trứng đa nang.
 2. Người phụ nữ không sử dụng thuốc ngừa thai, thuốc kích thích buồng trứng 3 tháng trước đó.
 3. Nếu có 1 nang > 10mm trên buồng trứng, thực hiện siêu âm lại vào chu kỳ sau.
 4. Thời điểm siêu âm vào ngày 3-5 ở những phụ nữ có chu kỳ kinh đều. Những phụ nữ có kinh thưa hay vô kinh có thể được siêu âm bất kỳ thời điểm nào hay vào ngày 3-5 sau khi gây ra huyết âm đạo bằng progestin.
 5. Thể tích buồng trứng được tính bằng (0.5 x chiều dài x chiều rộng x độ dày).
-6. 1 phụ nữ chỉ có hình ảnh buồng trứng đa nang trên siêu âm mà không có rối loạn phóng noãn hay triệu chứng cường androgen (buồng trứng đa nang "không triệu chứng") không nên được xem là có hội chứng buồng trứng đa nang cho đến khi có các biểu hiện lâm sàng khác.
+6. Khi chỉ có hình ảnh buồng trứng đa nang trên siêu âm mà không có rối loạn phóng noãn hay triệu chứng cường androgen (buồng trứng đa nang "không triệu chứng") không nên được xem là có hội chứng buồng trứng đa nang cho đến khi có các biểu hiện lâm sàng khác.
+
+:::
 
 ## Các vấn đề của buồng trứng đa nang
 
@@ -99,11 +102,14 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này là rối 
 
 Điều trị rối loạn kinh nguyệt cho người bệnh hội chứng buồng trứng đa nang bằng cách sử dụng progestogen hay viên tránh thai kết hợp dạng uống có thành phần ethinyl estradiol và các loại progestogen có tính kháng androgen (cyproterone, drospirenone). Cách điều trị này giúp điều hòa kinh nguyệt, do đó, làm giảm nguy cơ ung thư nội mạc tử cung.
 
-Lưu ý khi điều trị rối loạn kinh nguyệt:
+:::caution[Lưu ý]
+Khi điều trị rối loạn kinh nguyệt:
 
 - Điều trị progestogen cần kéo dài tối thiểu 12 ngày để có hiệu quả giảm nguy cơ tăng sinh nội mạc tử cung hay ung thư nội mạc tử cung.
 
 - Gây bong nội mạc tử cung bằng thuốc viên ngừa thai phối hợp không nên liên tục mà chỉ thực hiện mỗi 3-4 tháng/lần vì các lo ngại về tác động của thành phần ethinyl estradiol trên 1 cơ địa béo phì và rối loạn chuyển hóa của hội chứng buồng trứng đa nang.
+
+:::
 
 #### Ngừa thai
 

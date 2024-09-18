@@ -53,7 +53,7 @@ Tăng huyết áp trong thai kỳ phân thành 4 loại:
 
 ## Chẩn đoán
 
-:::note[Tiêu chuẩn chẩn đoán]
+:::note[Tiêu chuẩn chẩn đoán tiền sản giật]
 ![Tiêu chuẩn chẩn đoán tiền sản giật](../../../assets/san-khoa/tang-huyet-ap-thai-ky/tieu-chuan-chan-doan-tien-san-giat.png)
 :::
 
@@ -96,7 +96,7 @@ Hội chứng HELLP không điển hình khi có 1 hoặc 2 triệu chứng trê
 
 ### Chẩn đoán
 
-:::note[Tiêu chuẩn chẩn đoán]
+:::note[Tiêu chuẩn chẩn đoán hội chứng HELLP]
 Lâm sàng:
 
 - Xuất huyết dưới da, niêm mạc.

@@ -56,7 +56,9 @@ Trong kiểu tác động không qua gene, hormone gắn vào thụ thể kiểu
 
 Đặc điểm của kiểu tác động không qua gene là nhanh chóng, lệ thuộc liều, chuyên biệt thấp, có thể đảo ngược. Tác động không qua gene lệ thuộc mạnh vào nồng độ của hormone, và thường đòi hỏi các nồng độ tương đối cao (ở mức micromol) của hormone hay chất tương tự.
 
-Cần lưu ý rằng dù phức bộ ligand-thụ thể không trực tiếp gắn lên các đoạn gene chuyên biệt, nhưng các dòng thác tín hiệu thứ cấp vẫn có thể tạo ảnh hưởng đến tiến trình điều hòa biểu hiện gene.
+:::caution[Lưu ý]
+Dù phức bộ ligand-thụ thể không trực tiếp gắn lên các đoạn gene chuyên biệt, nhưng các dòng thác tín hiệu thứ cấp vẫn có thể tạo ảnh hưởng đến tiến trình điều hòa biểu hiện gene.
+:::
 
 ### Tác động qua gene
 

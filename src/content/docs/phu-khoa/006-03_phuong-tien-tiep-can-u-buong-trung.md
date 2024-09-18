@@ -135,7 +135,9 @@ ROMA test cho phép phân tầng các bệnh nhân có khối u vùng chậu ra 
 
 ROMA test có giá trị dự báo âm rất cao, lên đến 99%. 94% trong tổng số các ung thư biểu mô buồng trứng đã được nhận diện vào nhóm nguy cơ cao khi sử dụng ROMA test.
 
-Lưu ý rằng ROMA test không được dùng cho mục đích tầm soát ung thư biểu mô buồng trứng.
+:::caution[Lưu ý]
+ROMA test không được dùng cho mục đích tầm soát ung thư biểu mô buồng trứng.
+:::
 
 ### Alpha-fetoprotein (AFP)
 

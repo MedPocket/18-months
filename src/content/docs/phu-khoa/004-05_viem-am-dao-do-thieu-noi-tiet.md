@@ -7,7 +7,7 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh làm cho niêm mạc �
 
 ## Chẩn đoán
 
-:::note[Tiêu chuẩn chẩn đoán]
+:::note[Tiêu chuẩn chẩn đoán viêm âm đạo do thiếu nội tiết]
 Lâm sàng
 
 - Viêm không đặc hiệu, khí hư ít, có mủ, có thể lẫn máu.

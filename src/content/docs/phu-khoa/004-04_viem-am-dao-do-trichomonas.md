@@ -11,7 +11,7 @@ Trùng roi Trichomoniasis vaginalis.
 
 ## Chẩn đoán
 
-:::note[Tiêu chuẩn chẩn đoán]
+:::note[Tiêu chuẩn chẩn đoán viêm âm đạo do Trichomonad]
 Lâm sàng
 
 - Huyết trắng nhiều, màu vàng hay xanh loãng, có bọt, có mùi tanh.

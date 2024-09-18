@@ -104,7 +104,7 @@ Thăm khám toàn thân nên bao gồm các triệu chứng gợi ý về nguyê
 - Mụn trứng cá, rậm lông, và thay đổi giọng nói: tăng quá mức nội tiết tố nam.
 - Đối với bệnh nhân vô kinh thứ phát, bốc hỏa, khô âm đạo, rối loạn giấc ngủ, dễ gãy xương và giảm ham muốn: Suy chức năng buồng trứng.
 
-Tiền sử y khoa cần lưu ý đến những yếu tố nguy cơ sau:
+Tiền sử y khoa cần quan tâm đến những yếu tố nguy cơ sau:
 
 - Vô kinh vùng dưới đồi chức năng, chẳng hạn như căng thẳng; bệnh mạn tính; thuốc mới; thay đổi gần đây về cân nặng, chế độ ăn uống hoặc cường độ tập thể dục; và tiền sử hoặc các triệu chứng rối loạn ăn uống hiện tại.
 - Sẹo nội mạc tử cung (hội chứng Asherman), có thể xảy ra ở những bệnh nhân có tiền sử nong và nạo (đặc biệt là nếu họ cũng bị nhiễm trùng tử cung), triệt đốt nội mạc tử cung, viêm nội mạc tử cung, chấn thương sản khoa, phẫu thuật tử cung.
@@ -123,7 +123,7 @@ Tiền sử gia đình cần phải bao gồm bất kỳ trường hợp dậy t
 
 ### Thăm khám
 
-Lưu ý các sinh hiệu và tính toán chỉ số khối cơ thể (BMI).
+Quan tâm các sinh hiệu và tính toán chỉ số khối cơ thể (BMI).
 
 Nếu phát triển tuổi dậy thì có thể bất thường, các đặc điểm sinh dục thứ phát sẽ được đánh giá; phát triển vú và lông mu được phân giai đoạn bằng phương pháp Tanner (xem Sự trưởng thành về giới tính). Nếu có lông nách và lông mu, tăng hormone tuyến thượng thận có thể xảy ra.
 

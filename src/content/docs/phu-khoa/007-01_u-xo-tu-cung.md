@@ -362,7 +362,7 @@ So với GnRHa, liệu pháp với UPA ít tác dụng phụ hơn như đau đ�
 
 ![So sánh UPA và GnRHa](../../../assets/phu-khoa/u-xo-tu-cung/so-sanh-upa-va-gnrha.png)
 
-:::caution[Lưu ý khi dùng UPA]
+:::caution[Lưu ý]
 Thực hiện xét nghiệm chức năng gan:
 
 - Trước khi điều trị, nếu AST và ALT tăng > 2 lần giá trị bình thường, không chỉ định UPA.
@@ -386,7 +386,9 @@ Phân tích gộp (2013) trên 11 RCT cho phép khuyến nghị 1 liệu trình 
 
 Có nhận định cho rằng mifepristone có thể gây tăng sinh không điển hình của tuyến nội mạc tử cung (atypical endometrial hyperplasia). Tuy nhiên, các biến đổi này có thể hồi phục hoàn toàn sau liệu trình.
 
-Cần lưu ý Mifepristone không được đăng ký chính thức điều trị u xơ.
+:::caution[Lưu ý]
+Mifepristone không được đăng ký chính thức điều trị u xơ.
+:::
 
 ### Thuốc có hiệu quả nhưng không nên dùng
 

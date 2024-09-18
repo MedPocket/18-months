@@ -27,7 +27,7 @@ Không được thực hiện khám âm đạo bằng tay vì điều này khôn
 
 Đặt băng vệ sinh âm hộ và kiểm tra miếng băng vệ sinh 1 giờ sau bằng cách nhìn và đánh giá mùi.
 
-:::note[Tiêu chuẩn chẩn đoán]
+:::note[Tiêu chuẩn chẩn đoán ối vỡ non]
 ![Ối vỡ non](../../../assets/san-khoa/oi-vo-non/oi-vo-non.png)
 :::
 
@@ -77,7 +77,10 @@ Nếu có dấu hiệu nhiễm trùng (sốt, dịch âm đạo có mùi hôi), 
 
 Đối với thai < 34 tuần không có nhiễm trùng, không đe dọa mẹ và thai, cần điều trị mong đợi, tư vấn về nguy cơ và lợi ích.
 
-Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh và trì hoãn cuộc sinh: thường là kháng sinh nhắm vào Streptococcus nhóm B. Dùng Ampicillin, đường tĩnh mạch, 2 g mỗi 6 giờ hoặc Penicillin G, đường tĩnh mạch, 2 triệu đơn vị mỗi 6 giờ, cho đến lúc sinh. Với ối vỡ non, thai non tháng lưu ý rằng phức bộ [Amoxicillin + Acid Clavulanic] bị chống chỉ định do khả năng gây viêm ruột hoại tử ở sơ sinh. Cụ thể:
+Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh và trì hoãn cuộc sinh: thường là kháng sinh nhắm vào Streptococcus nhóm B. Dùng Ampicillin, đường tĩnh mạch, 2 g mỗi 6 giờ hoặc Penicillin G, đường tĩnh mạch, 2 triệu đơn vị mỗi 6 giờ, cho đến lúc sinh.
+
+:::caution[Lưu ý]
+Với ối vỡ non, thai non tháng phức bộ [Amoxicillin + Acid Clavulanic] bị chống chỉ định do khả năng gây viêm ruột hoại tử ở sơ sinh. Cụ thể:
 
 - Lựa chọn 1:
   - Azithromycin 1 g (uống) ngay khi nhập viện, và
@@ -94,6 +97,8 @@ Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh v
 - Trường hợp dị ứng nặng với Penicillin, GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ:
   - Azithromycin 1 g (uống) ngay khi nhập viện, và
   - Vancomycin 20 mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24 giờ trong 48 giờ. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành 3 nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy > 15mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
+
+:::
 
 Dùng corticosteroid cho mẹ để giảm khả năng xảy ra hội chứng suy hô hấp cấp ở sơ sinh. Dùng ngay cả khi không chắc có đủ thời gian để hoàn thành đủ liều corticosteroids.
 

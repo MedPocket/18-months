@@ -94,7 +94,10 @@ Do đặc điểm trên, trên lâm sàng Hamartoma là 1 khối rất rõ. Trê
 ![Nhũ ảnh của Hamartoma vú, phim LMO vú phải và phim CC](../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/benh-hamartoma.png)
 _Nhũ ảnh của Hamartoma vú, phim LMO vú phải và phim CC.<br>Vỏ bao mỏng có mô thấu quang và cản quang xen kẽ nhau, hình ảnh "Breast within Breast"._
 
-Xử trí là bằng phẫu thuật cắt bỏ u. Cần lưu ý rằng đa Hamartoma (Hamartoma cùng lúc ở nhiều cơ quan) là thành phần của hội chứng Cowden và của hội chứng BannayanRiley-Ruvalcaba, là biểu hiện của đột biến gene PTEN. Chỉ trong trường hợp có các hội chứng này, thì mới phải có chính sách tầm soát như đối tượng nguy cơ cao.
+Xử trí là bằng phẫu thuật cắt bỏ u.
+:::caution[Lưu ý]
+Đa Hamartoma (Hamartoma cùng lúc ở nhiều cơ quan) là thành phần của hội chứng Cowden và của hội chứng BannayanRiley-Ruvalcaba, là biểu hiện của đột biến gene PTEN. Chỉ trong trường hợp có các hội chứng này, thì mới phải có chính sách tầm soát như đối tượng nguy cơ cao.
+:::
 
 ## Bệnh Mondor
 
@@ -110,7 +113,7 @@ Lâm sàng là khối u đơn độc, mềm và di động. Trên vi thể u m�
 
 Tuyến vú phụ hoặc núm vú phụ được tìm thấy ở khoảng 1-5% phụ nữ. Tuyến vú phụ thường gặp hơn núm vú phụ. Vị trí phát triển của các tuyến vú phụ là dọc theo đường sữa.
 
-Vị trí thường gặp nhất của núm vú phụ là dưới vú bình thường. Vị trí thường gặp nhất của tuyến vú phụ là ở nách. Núm vú phụ và tuyến vú phụ chỉ điều trị khi có vấn đề thẩm mỹ. Lưu ý rằng mô vú phụ vẫn có thể mắc những bệnh lý như mô vú bình thường.
+Vị trí thường gặp nhất của núm vú phụ là dưới vú bình thường. Vị trí thường gặp nhất của tuyến vú phụ là ở nách. Núm vú phụ và tuyến vú phụ chỉ điều trị khi có vấn đề thẩm mỹ. Mô vú phụ vẫn có thể mắc những bệnh lý như mô vú bình thường.
 
 ![Tuyến vú phụ](../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/tuyen-vu-phu.png)
 _(Trái) Tuyến vú phụ ở nách. (Phải) Đường sữa._
