@@ -40,7 +40,7 @@ _Thai ngưng phát triển được xác định khi siêu âm có hình ảnh t
 So với tiêu chuẩn theo CRL, thì tiêu chuẩn dùng để xác định trứng trống là kém rõ ràng hơn. Trong 1 thai kỳ bình thường, chỉ quan sát thấy hình ảnh của yolk-sac và của phôi vài ngày sau khi thấy hình ảnh túi thai. Do đó, hiện diện của túi thai chưa có yolk-sac hay phôi là chưa đủ mạnh để xác lập chẩn đoán trứng trống. Phải có thêm các tiêu chuẩn để hạn chế sai sót trong chẩn đoán trứng không phôi. Không được kết luận trứng trống khi không thấy hiện diện của cả yolk-sac lẫn phôi thai nhưng MSD chưa đủ 25 mm.
 
 ![Trứng trống](../../../assets/san-khoa/thai-nghen-that-bai-som/trung-trong.png)
-_Trứng trống (trứng không phôi) (blighted ovum)<br>.Chẩn đoán trứng trống được xác lập khi không thấy hiện diện của cả yolk-sac lẫn phôi thai khi MSD đã đạt được kích thước ≥ 25 mm._
+_Trứng trống (trứng không phôi) (blighted ovum).<br>Chẩn đoán trứng trống được xác lập khi không thấy hiện diện của cả yolk-sac lẫn phôi thai khi MSD đã đạt được kích thước ≥ 25 mm._
 
 Các tình huống khác nhau có thể thấy:
 

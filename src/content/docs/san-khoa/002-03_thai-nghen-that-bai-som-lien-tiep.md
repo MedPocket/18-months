@@ -15,19 +15,32 @@ Có sự phân biệt giữa RPL nguyên phát và RPL thứ phát:
 
 ## Yếu tố nguy cơ
 
-Lớn tuổi luôn luôn là một yếu tố nguy cơ trong sản khoa, liên quan mật thiết đến nhiều vấn đề: vô sinh, dị tật thai, thai chết lưu, biến chứng sản khoa... Có nhiều chứng cứ cho thấy phụ nữ dưới 30 tuổi có nhiều cơ hội thành công sau RPL hơn phụ nữ trên 30 tuổi. Phụ nữ trên 35 tuổi tăng gấp đôi nguy cơ mất thai sau RPL và trên 35 tuổi được xác định là mốc có ý nghĩa thống kê về nguy cơ bất thường nhiễm sắc thể ở RPL thường xuyên và tái phát. Tuổi cha có mối liên quan với sảy thai tuy nhiên không có chứng cứ trực tiếp cho thấy mối liên quan này với RPL. European Society of Human Reproduction and Embryology (ESHRE) khuyến cáo như sau (chứng cứ mức độ mạnh) Phụ nữ cần được thông báo rằng nguy cơ mất thai ít nhất ở độ tuổi 20-35. Nguy cơ mất thai tăng cao sau 40 tuổi.
+### Tuổi
+
+Lớn tuổi luôn luôn là một yếu tố nguy cơ trong sản khoa, liên quan mật thiết đến nhiều vấn đề: vô sinh, dị tật thai, thai chết lưu, biến chứng sản khoa...
+
+Có nhiều chứng cứ cho thấy phụ nữ dưới 30 tuổi có nhiều cơ hội thành công sau RPL hơn phụ nữ trên 30 tuổi. Phụ nữ trên 35 tuổi tăng gấp đôi nguy cơ mất thai sau RPL và trên 35 tuổi được xác định là mốc có ý nghĩa thống kê về nguy cơ bất thường nhiễm sắc thể ở RPL thường xuyên và tái phát.
+
+Tuổi cha có mối liên quan với sảy thai tuy nhiên không có chứng cứ trực tiếp cho thấy mối liên quan này với RPL. European Society of Human Reproduction and Embryology (ESHRE) khuyến cáo như sau (chứng cứ mức độ mạnh) Phụ nữ cần được thông báo rằng nguy cơ mất thai ít nhất ở độ tuổi 20-35. Nguy cơ mất thai tăng cao sau 40 tuổi.
+
+### Stress
 
 Stress có liên quan đến RPL nhưng stress không được xác định là nguyên nhân trực tiếp gây ra RPL.
 
-Môi trường và nghề nghiệp: hiện tại chỉ có vài nghiên cứu nhỏ chỉ ra rằng các yếu tố nghề nghiệp và môi trường tiếp xúc (thuốc trừ sâu, kim loại nặng, thiếu vi chất) làm tăng RPL tuy nhiên chưa có đủ chứng cứ chống lại các yếu tố nghề nghiệp và môi trường phơi nhiễm.
+### Môi trường và nghề nghiệp
 
-Viêm mạn nội mạc tử cung: có nhiều nghiên cứu chỉ ra mối liên quan giữa viêm mạn nội mạc tử cung và tăng nguy cơ RPL tuy nhiên cần có thêm nhiều nghiên cứu quan sát cũng như đối chứng ngẫu nhiên trước khi tiến hành tầm soát thường quy cho RPL. Các nghiên cứu về microbiota của buồng tử cung cũng ủng
-hộ luận điểm này.
+Hiện tại chỉ có vài nghiên cứu nhỏ chỉ ra rằng các yếu tố nghề nghiệp và môi trường tiếp xúc (thuốc trừ sâu, kim loại nặng, thiếu vi chất) làm tăng RPL tuy nhiên chưa có đủ chứng cứ chống lại các yếu tố nghề nghiệp và môi trường phơi nhiễm.
+
+### Viêm mạn nội mạc tử cung
+
+Có nhiều nghiên cứu chỉ ra mối liên quan giữa viêm mạn nội mạc tử cung và tăng nguy cơ RPL tuy nhiên cần có thêm nhiều nghiên cứu quan sát cũng như đối chứng ngẫu nhiên trước khi tiến hành tầm soát thường quy cho RPL. Các nghiên cứu về microbiota của buồng tử cung cũng ủng hộ luận điểm này.
 
 Bất thường màng rụng hóa nội mạc tử cung: cơ chế thay đổi nội mạc tử cung trong giai đoạn sớm của thai kì cũng như trong suốt chu kì kinh nguyệt chưa được hiểu thấu đáo. Các tế bào nội mạc tử cung dường như tạo thành một trạm kiểm soát chất lượng phôi dẫn đến quá trình làm tổ thành công ở các phôi bình thường và sự sụp đổ nhanh chóng ở các trường hợp phôi bất thường. Quan sát gần đây trên các trường hợp RPL cho rằng
 nội mạc tử cung có thể nhạy cảm quá mức trong việc kiểm soát làm tổ của phôi (bất thường trạm kiểm soát) nhưng cần nghiên cứu thêm trước khi có kết luận hoặc xây dựng các khuyến cáo cho lâm sàng.
 
-Hút thuốc lá, béo phì và uống rượu làm giảm cơ hội có trẻ sinh sống và ảnh hưởng tiêu cực đến kết cục của thai kì.
+### Hút thuốc lá, béo phì và uống rượu
+
+Làm giảm cơ hội có trẻ sinh sống và ảnh hưởng tiêu cực đến kết cục của thai kì.
 
 ## Tiếp cận
 
@@ -88,6 +101,8 @@ Khảo sát giải phẫu học tử cung được khuyến cáo thực hiện t
 Lựa chọn đầu tay là siêu âm 3D vì độ nhạy và độ chuyên tốt, phân biệt được vách ngăn tử cung và tử cung đôi mà có 1 cổ tử cung.
 
 Siêu âm bơm nước buồng tử cung (SIS) chính xác hơn HSG khi khảo sát bất thường tử cung, có thể kết hợp khảo sát hai vòi trứng, lựa chọn nếu không có sẵn siêu âm 3D. Nếu có dị dạng tử cung nên kết hợp khảo sát thêm hệ niệu. Nếu không có siêu âm 3D có thể lựa chọn thay thế bằng MRI.
+
+### Lược đồ tiếp cận
 
 ![Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp](../../../assets/san-khoa/thai-nghen-that-bai-som-lien-tiep/luoc-do-tiep-can-thai-nghen-that-bai-som-lien-tiep.png)
 _Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp._
