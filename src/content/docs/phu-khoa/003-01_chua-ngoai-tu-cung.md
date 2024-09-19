@@ -285,7 +285,7 @@ Chỉ định phẫu thuật kèm đoạn sản, cắt ống dẫn trứng bị 
 
 ### Phẫu thuật nội soi lấy khối thai hoặc xẻ/cắt xén góc tử cung trường hợp khối thai ở đoạn kẽ
 
-### Phẫu thuật khi BN có choáng mất máu phải mở bụng, không thực hiện nội soi.
+### Phẫu thuật khi BN có choáng mất máu phải mở bụng, không thực hiện nội soi
 
 ## Nguồn tham khảo
 
