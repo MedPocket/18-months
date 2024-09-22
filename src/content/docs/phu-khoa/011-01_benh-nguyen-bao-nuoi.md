@@ -224,7 +224,7 @@ Khi có GTD ác tính, việc phân loại là quan trọng. Phân loại giúp 
 _Hệ thống đánh giá nguy cơ theo FIGO._
 
 ![Bảng điểm tiên lượng của u nguyên bào nuôi theo FIGO và WHO 2006](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/bang-diem-tien-luong-cua-u-nguyen-bao-nuoi-figo-who-2006.png)
-_Bảng điểm tiên lượng của u nguyên bào nuôi theo FIGO và WHO 2006.<br>Nguy cơ thấp ≤6 điểm:<br>-Giai đoạn I (không di căn).<br>-Giai đoạn II và III <7 điểm.<br>Nguy cơ cao ≥7 điểm:<br>-Giai đoạn II và III ≥7 điểm.<br>-Giai đoạn IV._
+_Bảng điểm tiên lượng của u nguyên bào nuôi theo FIGO và WHO 2006.<br>Nguy cơ thấp ≤6 điểm:<br>- Giai đoạn I (không di căn).<br>- Giai đoạn II và III <7 điểm.<br>Nguy cơ cao ≥7 điểm:<br>- Giai đoạn II và III ≥7 điểm.<br>- Giai đoạn IV._
 
 ![Phân loại theo NIH](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/phan-loai-gtd-theo-nih.png)
 _Phân giai đoạn theo NIH._
