@@ -31,6 +31,10 @@ export default defineConfig({
   integrations: [
     starlight({
       title: '18 Months',
+      logo: {
+        src: '/src/assets/logo.png',
+        replacesTitle: true,
+      },
       customCss: [
         './src/styles/globals.css',
         './src/styles/headings.css',
