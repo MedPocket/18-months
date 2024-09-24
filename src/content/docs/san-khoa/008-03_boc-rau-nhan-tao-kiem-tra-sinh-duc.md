@@ -71,7 +71,7 @@ _Thủ thuật bóc rau nhân tạo._
 
 ### Tai biến
 
-Shock vagal. Ngất do phản xạ phế vị xảy ra do 1 phần của hệ thần kinh (phần điều hòa nhịp tim, huyết áp) bị kích thích bởi 1 tác nhân gây ra, chẳng hạn như nhìn thấy máu. Nhịp tim của bạn sẽ bị giảm, mạch máu ở chi bị giãn (đặc biệt hai chân). Làm máu bị ứ trệ ở ngoại vi, gây hạ huyết áp
+Shock vagal. Ngất do phản xạ phế vị xảy ra do 1 phần của hệ thần kinh (phần điều hòa nhịp tim, huyết áp) bị kích thích bởi 1 tác nhân gây ra, chẳng hạn như nhìn thấy máu. Nhịp tim của bạn sẽ bị giảm, mạch máu ở chi bị giãn (đặc biệt hai chân). Làm máu bị ứ trệ ở ngoại vi, gây hạ huyết áp.
 
 Nhiễm trùng hậu sản.
 
@@ -189,8 +189,11 @@ Nguyên tắc khâu phải đảm bảo đúng lớp, không để khoảng ở 
 ### Phân độ rách tầng sinh môn
 
 Độ I: Rách niêm mạc âm đạo và da.
+
 Độ II: Độ I + cân, cơ.
+
 Độ III: Độ II + cơ vòng hậu môn.
+
 Độ IV: Độ III + niêm mạc trực tràng.
 
 ## Nguồn tham khảo
