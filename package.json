@@ -11,10 +11,10 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.28.2",
-    "astro": "^4.15.8",
+    "astro": "^4.15.9",
     "astro-og-canvas": "^0.5.3",
     "canvaskit-wasm": "^0.39.1",
-    "hast-util-to-string": "^3.0.0",
+    "hast-util-to-string": "^3.0.1",
     "hastscript": "^9.0.0",
     "html-escaper": "^3.0.3",
     "katex": "^0.16.11",
