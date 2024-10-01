@@ -12,7 +12,8 @@ Giả thiết do nhiều nguyên nhân phối hợp dẫn tới tổn thương n
 1. Làm tổ bánh nhau với sự xâm nhập bất thường của các nguyên bào nuôi vào động mạch xoắn.
 2. Sự không tương hợp giữa mẹ, bố (bánh nhau) và mô thai, Cơ thể mẹ thích nghi kém với những thay đổi về tim mạch và đáp ứng viêm trong thai kỳ.
 3. Các yếu tố về di truyền.
-4. Giả thuyết được chấp nhận nhiều nhất hiện nay là làm tổ bánh nhau với sự xâm nhập bất thường của các nguyên bào nuôi vào động mạch xoắn.
+
+Giả thuyết được chấp nhận nhiều nhất hiện nay là làm tổ bánh nhau với sự xâm nhập bất thường của các nguyên bào nuôi vào động mạch xoắn.
 
 Bánh nhau đóng vai trò then chốt trong sự phát triển và thoái lui của tiền sản giật. Bánh nhau, không phải thai, là điều kiện cần trong sự phát triển tiền sản giật.
 
