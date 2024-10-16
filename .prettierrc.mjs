@@ -6,4 +6,12 @@ export default {
   singleQuote: true,
   endOfLine: 'lf',
   plugins: ['prettier-plugin-astro'],
+  overrides: [
+    {
+      files: ['*.md', '*.mdx'],
+      options: {
+        printWidth: 80,
+      },
+    },
+  ],
 }
