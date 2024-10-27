@@ -10,13 +10,13 @@ importers:
     dependencies:
       '@astrojs/starlight':
         specifier: ^0.28.3
-        version: 0.28.3(astro@4.16.6(rollup@4.24.0)(typescript@5.6.3))
+        version: 0.28.3(astro@4.16.7(rollup@4.24.0)(typescript@5.6.3))
       astro:
-        specifier: ^4.16.6
-        version: 4.16.6(rollup@4.24.0)(typescript@5.6.3)
+        specifier: ^4.16.7
+        version: 4.16.7(rollup@4.24.0)(typescript@5.6.3)
       astro-og-canvas:
         specifier: ^0.5.4
-        version: 0.5.4(astro@4.16.6(rollup@4.24.0)(typescript@5.6.3))
+        version: 0.5.4(astro@4.16.7(rollup@4.24.0)(typescript@5.6.3))
       canvaskit-wasm:
         specifier: ^0.39.1
         version: 0.39.1
@@ -171,11 +171,6 @@ packages:
   '@babel/highlight@7.25.7':
     resolution: {integrity: sha512-iYyACpW3iW8Fw+ZybQK+drQre+ns/tKpXbNESfrhNnPLIklLbXr7MYJ6gPEd0iETGLOK+SxMjVvKb/ffmk+FEw==}
     engines: {node: '>=6.9.0'}
-
-  '@babel/parser@7.25.7':
-    resolution: {integrity: sha512-aZn7ETtQsjjGG5HruveUK06cU3Hljuhd9Iojm4M8WWv3wLE6OkE5PWbDUkItmMgegmccaITudyuW5RPYrYlgWw==}
-    engines: {node: '>=6.0.0'}
-    hasBin: true
 
   '@babel/parser@7.25.8':
     resolution: {integrity: sha512-HcttkxzdPucv3nNFmfOOMfFf64KgdJVqm1KaCm25dPGMLElo9nsLvXeJECQg8UzPuBGLyTSA0ZzqCtDSzKTEoQ==}
@@ -716,6 +711,11 @@ packages:
     engines: {node: '>=0.4.0'}
     hasBin: true
 
+  acorn@8.13.0:
+    resolution: {integrity: sha512-8zSiw54Oxrdym50NlZ9sUusyO1Z1ZchgRLWRaK6c86XJFClyCgFKetdowBg5bKxyp/u+CDBJG4Mpp0m3HLZl9w==}
+    engines: {node: '>=0.4.0'}
+    hasBin: true
+
   ansi-align@3.0.1:
     resolution: {integrity: sha512-IOfwwBF5iczOjp/WeY4YxyjqAFMQoZufdQWDd19SEExbVLNXqvpzSJ/M7Za4/sCPmQ0+GRquoA7bGcINcxew6w==}
 
@@ -766,8 +766,8 @@ packages:
     peerDependencies:
       astro: ^3.0.0 || ^4.0.0
 
-  astro@4.16.6:
-    resolution: {integrity: sha512-LMMbjr+4aN26MOyJzTdjM+Y+srpAIkx7IX9IcdF3eHQLGr8PgkioZp+VQExRfioDIyA2HY6ottVg3QccTzJqYA==}
+  astro@4.16.7:
+    resolution: {integrity: sha512-nON+8MUEkWTFwXbS4zsQIq4t0Fs42eulM4x236AL+qNnWfqNAOOqAnFxO1dxfJ1q+XopIBbbT9Mtev+0zH47PQ==}
     engines: {node: ^18.17.1 || ^20.3.0 || >=21.0.0, npm: '>=9.6.5', pnpm: '>=7.1.0'}
     hasBin: true
 
@@ -1834,8 +1834,8 @@ packages:
     resolution: {integrity: sha512-QjVjwdXIt408MIiAqCX4oUKsgU2EqAGzs2Ppkm4aQYbjm+ZEWEcW4SfFNTr4uMNZma0ey4f5lgLrkB0aX0QMow==}
     engines: {node: '>=4'}
 
-  tinyexec@0.3.0:
-    resolution: {integrity: sha512-tVGE0mVJPGb0chKhqmsoosjsS+qUnJVGJpZgsHYQcGoPlG3B51R3PouqTgEGH2Dc9jjFyOqOpix6ZHNMXp1FZg==}
+  tinyexec@0.3.1:
+    resolution: {integrity: sha512-WiCJLEECkO18gwqIp6+hJg0//p23HXp4S+gGtAKu3mI2F2/sXC4FvHvXvB0zJVVaTPhx1/tOwdbRsa1sOBIKqQ==}
 
   to-fast-properties@2.0.0:
     resolution: {integrity: sha512-/OaKK0xYrs3DmxRYqL/yDc+FxFUVYhDlXMhRmv3z915w2HF1tnN1omB354j8VUGO/hbRzyD6Y3sA7v7GS/ceog==}
@@ -2070,12 +2070,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/mdx@3.1.7(astro@4.16.6(rollup@4.24.0)(typescript@5.6.3))':
+  '@astrojs/mdx@3.1.7(astro@4.16.7(rollup@4.24.0)(typescript@5.6.3))':
     dependencies:
       '@astrojs/markdown-remark': 5.2.0
       '@mdx-js/mdx': 3.0.1
       acorn: 8.12.1
-      astro: 4.16.6(rollup@4.24.0)(typescript@5.6.3)
+      astro: 4.16.7(rollup@4.24.0)(typescript@5.6.3)
       es-module-lexer: 1.5.4
       estree-util-visit: 2.0.0
       gray-matter: 4.0.3
@@ -2100,15 +2100,15 @@ snapshots:
       stream-replace-string: 2.0.0
       zod: 3.23.8
 
-  '@astrojs/starlight@0.28.3(astro@4.16.6(rollup@4.24.0)(typescript@5.6.3))':
+  '@astrojs/starlight@0.28.3(astro@4.16.7(rollup@4.24.0)(typescript@5.6.3))':
     dependencies:
-      '@astrojs/mdx': 3.1.7(astro@4.16.6(rollup@4.24.0)(typescript@5.6.3))
+      '@astrojs/mdx': 3.1.7(astro@4.16.7(rollup@4.24.0)(typescript@5.6.3))
       '@astrojs/sitemap': 3.2.0
       '@pagefind/default-ui': 1.1.1
       '@types/hast': 3.0.4
       '@types/mdast': 4.0.4
-      astro: 4.16.6(rollup@4.24.0)(typescript@5.6.3)
-      astro-expressive-code: 0.35.6(astro@4.16.6(rollup@4.24.0)(typescript@5.6.3))
+      astro: 4.16.7(rollup@4.24.0)(typescript@5.6.3)
+      astro-expressive-code: 0.35.6(astro@4.16.7(rollup@4.24.0)(typescript@5.6.3))
       bcp-47: 2.1.0
       hast-util-from-html: 2.0.3
       hast-util-select: 6.0.2
@@ -2229,10 +2229,6 @@ snapshots:
       chalk: 2.4.2
       js-tokens: 4.0.0
       picocolors: 1.1.0
-
-  '@babel/parser@7.25.7':
-    dependencies:
-      '@babel/types': 7.25.8
 
   '@babel/parser@7.25.8':
     dependencies:
@@ -2623,7 +2619,7 @@ snapshots:
 
   '@types/babel__core@7.20.5':
     dependencies:
-      '@babel/parser': 7.25.7
+      '@babel/parser': 7.25.8
       '@babel/types': 7.25.8
       '@types/babel__generator': 7.6.8
       '@types/babel__template': 7.4.4
@@ -2635,7 +2631,7 @@ snapshots:
 
   '@types/babel__template@7.4.4':
     dependencies:
-      '@babel/parser': 7.25.7
+      '@babel/parser': 7.25.8
       '@babel/types': 7.25.8
 
   '@types/babel__traverse@7.20.6':
@@ -2694,6 +2690,8 @@ snapshots:
 
   acorn@8.12.1: {}
 
+  acorn@8.13.0: {}
+
   ansi-align@3.0.1:
     dependencies:
       string-width: 4.2.3
@@ -2722,19 +2720,19 @@ snapshots:
 
   astring@1.9.0: {}
 
-  astro-expressive-code@0.35.6(astro@4.16.6(rollup@4.24.0)(typescript@5.6.3)):
+  astro-expressive-code@0.35.6(astro@4.16.7(rollup@4.24.0)(typescript@5.6.3)):
     dependencies:
-      astro: 4.16.6(rollup@4.24.0)(typescript@5.6.3)
+      astro: 4.16.7(rollup@4.24.0)(typescript@5.6.3)
       rehype-expressive-code: 0.35.6
 
-  astro-og-canvas@0.5.4(astro@4.16.6(rollup@4.24.0)(typescript@5.6.3)):
+  astro-og-canvas@0.5.4(astro@4.16.7(rollup@4.24.0)(typescript@5.6.3)):
     dependencies:
-      astro: 4.16.6(rollup@4.24.0)(typescript@5.6.3)
+      astro: 4.16.7(rollup@4.24.0)(typescript@5.6.3)
       canvaskit-wasm: 0.39.1
       deterministic-object-hash: 2.0.2
       entities: 4.5.0
 
-  astro@4.16.6(rollup@4.24.0)(typescript@5.6.3):
+  astro@4.16.7(rollup@4.24.0)(typescript@5.6.3):
     dependencies:
       '@astrojs/compiler': 2.10.3
       '@astrojs/internal-helpers': 0.4.1
@@ -2747,7 +2745,7 @@ snapshots:
       '@rollup/pluginutils': 5.1.2(rollup@4.24.0)
       '@types/babel__core': 7.20.5
       '@types/cookie': 0.6.0
-      acorn: 8.12.1
+      acorn: 8.13.0
       aria-query: 5.3.2
       axobject-query: 4.1.0
       boxen: 8.0.1
@@ -2786,7 +2784,7 @@ snapshots:
       rehype: 13.0.2
       semver: 7.6.3
       shiki: 1.22.0
-      tinyexec: 0.3.0
+      tinyexec: 0.3.1
       tsconfck: 3.1.4(typescript@5.6.3)
       unist-util-visit: 5.0.0
       vfile: 6.0.3
@@ -3437,7 +3435,7 @@ snapshots:
 
   magicast@0.3.5:
     dependencies:
-      '@babel/parser': 7.25.7
+      '@babel/parser': 7.25.8
       '@babel/types': 7.25.8
       source-map-js: 1.2.1
 
@@ -4409,7 +4407,7 @@ snapshots:
     dependencies:
       has-flag: 3.0.0
 
-  tinyexec@0.3.0: {}
+  tinyexec@0.3.1: {}
 
   to-fast-properties@2.0.0: {}
 
