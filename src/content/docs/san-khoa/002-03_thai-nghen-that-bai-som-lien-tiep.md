@@ -17,7 +17,7 @@ Có sự phân biệt giữa RPL nguyên phát và RPL thứ phát:
 
 ### Tuổi
 
-Lớn tuổi luôn luôn là một yếu tố nguy cơ trong sản khoa, liên quan mật thiết đến nhiều vấn đề: vô sinh, dị tật thai, thai chết lưu, biến chứng sản khoa...
+Lớn tuổi luôn luôn là yếu tố nguy cơ trong sản khoa, liên quan mật thiết đến nhiều vấn đề: vô sinh, dị tật thai, thai chết lưu, biến chứng sản khoa...
 
 Có nhiều chứng cứ cho thấy phụ nữ dưới 30 tuổi có nhiều cơ hội thành công sau RPL hơn phụ nữ trên 30 tuổi. Phụ nữ trên 35 tuổi tăng gấp đôi nguy cơ mất thai sau RPL và trên 35 tuổi được xác định là mốc có ý nghĩa thống kê về nguy cơ bất thường nhiễm sắc thể ở RPL thường xuyên và tái phát.
 
@@ -35,7 +35,7 @@ Hiện tại chỉ có vài nghiên cứu nhỏ chỉ ra rằng các yếu tố 
 
 Có nhiều nghiên cứu chỉ ra mối liên quan giữa viêm mạn nội mạc tử cung và tăng nguy cơ RPL tuy nhiên cần có thêm nhiều nghiên cứu quan sát cũng như đối chứng ngẫu nhiên trước khi tiến hành tầm soát thường quy cho RPL. Các nghiên cứu về microbiota của buồng tử cung cũng ủng hộ luận điểm này.
 
-Bất thường màng rụng hóa nội mạc tử cung: cơ chế thay đổi nội mạc tử cung trong giai đoạn sớm của thai kì cũng như trong suốt chu kì kinh nguyệt chưa được hiểu thấu đáo. Các tế bào nội mạc tử cung dường như tạo thành một trạm kiểm soát chất lượng phôi dẫn đến quá trình làm tổ thành công ở các phôi bình thường và sự sụp đổ nhanh chóng ở các trường hợp phôi bất thường. Quan sát gần đây trên các trường hợp RPL cho rằng
+Bất thường màng rụng hóa nội mạc tử cung: cơ chế thay đổi nội mạc tử cung trong giai đoạn sớm của thai kì cũng như trong suốt chu kì kinh nguyệt chưa được hiểu thấu đáo. Các tế bào nội mạc tử cung dường như tạo thành trạm kiểm soát chất lượng phôi dẫn đến quá trình làm tổ thành công ở các phôi bình thường và sự sụp đổ nhanh chóng ở các trường hợp phôi bất thường. Quan sát gần đây trên các trường hợp RPL cho rằng
 nội mạc tử cung có thể nhạy cảm quá mức trong việc kiểm soát làm tổ của phôi (bất thường trạm kiểm soát) nhưng cần nghiên cứu thêm trước khi có kết luận hoặc xây dựng các khuyến cáo cho lâm sàng.
 
 ### Hút thuốc lá, béo phì và uống rượu
@@ -52,7 +52,7 @@ Có 2 loại bất thường phổ biến nhất trong thời kì thai sớm: b�
 
 Bất thường di truyền bố mẹ chỉ chiếm 1.9-3.5% các cặp vợ chồng có RPL. Các bất thường quan trọng là chuyển đoạn Robertson, đảo đoạn, vi mất đoạn, mất đoạn, đột biến...
 
-Karyotype bố mẹ không được khuyến cáo thường quy, chỉ làm khi có yếu tố nguy cơ từ bố, mẹ: có tiền sử sanh con bị dị tật bẩm sinh, phát hiện mất cân bằng bộ nhiễm sắc thể ở những đứa trẻ trong gia đình hoặc phát hiện chuyển đoạn trong mô thai bị mất. Các cặp vợ chồng nên được thông báo hạn chế của làm karyotype: không tiên lượng được chuyển đoạn cho thai kì tiếp theo, dù bất thường được tìm ra thì cơ hội có 1 đứa
+Karyotype bố mẹ không được khuyến cáo thường quy, chỉ làm khi có yếu tố nguy cơ từ bố, mẹ: có tiền sử sinh con bị dị tật bẩm sinh, phát hiện mất cân bằng bộ nhiễm sắc thể ở những đứa trẻ trong gia đình hoặc phát hiện chuyển đoạn trong mô thai bị mất. Các cặp vợ chồng nên được thông báo hạn chế của làm karyotype: không tiên lượng được chuyển đoạn cho thai kì tiếp theo, dù bất thường được tìm ra thì cơ hội có 1 đứa
 trẻ khỏe mạnh là hoàn toàn khả thi..., để các cặp vợ chồng cân nhắc việc tiếp tục cố gắng thụ thai, ngừng cố gắng hay lựa chọn các xét nghiệm xâm lấn tiền làm tổ (PGT).
 
 Bất thường vật chất di truyền của giao tử là nguyên nhân trực tiếp, xảy ra trong meiosis tạo giao tử. Tầm soát bất thường di truyền giao tử và phôi thể hiện qua hợp tử, và có thể phát hiện bằng khảo sát tiền làm tổ (PGT):

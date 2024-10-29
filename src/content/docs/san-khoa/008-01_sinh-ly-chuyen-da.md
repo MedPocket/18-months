@@ -90,8 +90,8 @@ Pha hoạt động: là giai đoạn cổ tử cung mở nhanh, thành lập đo
 
 Để chuyển dạ diễn tiến bình thường cần có sự phối hợp hài hòa của 3 thành tố là (được gọi là 3P của chuyển dạ):
 
-1. Cơn co tử cung (power). Cơn co tử cung là động lực của chuyển dạ vì nó tạo ra sự xóa mở cổ tử cung và sự tiến triển của ngôi thai trong đường sanh. Trong giai đoạn sớm, dưới tác dụng của cơn co, kênh cổ tử cung ngắn dần, đoạn dưới tử cung được thành lập gây xóa cổ tử cung. Bên cạnh đó, cơn co tử cung cùng với sự đi xuống của ngôi thai và trương lực của đầu ối làm cổ tử cung mở và bị nong rộng. Cơn co tử cung hài hòa tạo nên vector hợp lực thúc đẩy ngôi thai tiến triển trong đường sanh ở những thời điểm thích hợp.
-2. Ngôi thai (passenger). Ngôi thai tác động đến chuyển dạ bằng nhiều phương thức. Ngôi thai tiến triển trong đường sanh dưới ảnh hưởng của hệ tổng hợp lực phức tạp tạo bởi cơn co, phản lực và lực cản. Ngôi thai có thể là ngôi sanh dễ, sanh khó hay không có cơ chế sanh. Kích thước các đường kính của ngôi thai trình trước các eo của khung chậu là những số đo tuyệt đối, có liên quan tương ứng với các đường kính của đường sanh, số đo xảy ra sau biến hình để cố gắng vượt qua đường sanh.
+1. Cơn co tử cung (power). Cơn co tử cung là động lực của chuyển dạ vì nó tạo ra sự xóa mở cổ tử cung và sự tiến triển của ngôi thai trong đường sanh. Trong giai đoạn sớm, dưới tác dụng của cơn co, kênh cổ tử cung ngắn dần, đoạn dưới tử cung được thành lập gây xóa cổ tử cung. Bên cạnh đó, cơn co tử cung cùng với sự đi xuống của ngôi thai và trương lực của đầu ối làm cổ tử cung mở và bị nong rộng. Cơn co tử cung hài hòa tạo nên vector hợp lực thúc đẩy ngôi thai tiến triển trong đường sinh ở những thời điểm thích hợp.
+2. Ngôi thai (passenger). Ngôi thai tác động đến chuyển dạ bằng nhiều phương thức. Ngôi thai tiến triển trong đường sinh dưới ảnh hưởng của hệ tổng hợp lực phức tạp tạo bởi cơn co, phản lực và lực cản. Ngôi thai có thể là ngôi sinh dễ, sinh khó hay không có cơ chế sanh. Kích thước các đường kính của ngôi thai trình trước các eo của khung chậu là những số đo tuyệt đối, có liên quan tương ứng với các đường kính của đường sanh, số đo xảy ra sau biến hình để cố gắng vượt qua đường sanh.
 3. Khung chậu (passage). Để ra ngoài, thai nhi phải trải qua hành trình khó khăn vượt qua khung xương cứng. Khung chậu là con đường với lối vào bằng xương, đường tiến là ống tròn có góc uốn cong $90^o$, thành không đều và kích thước tương đối của nó có thể thay đổi. Khung chậu tạo ra phản lực, tham gia phức tạp vào hệ momen lực tạo bởi cơn co và các lực này, tác động lên ngôi thai.
 
 Trong chuyển dạ, các thành tố có sự tương tác chặt chẽ với nhau: cơn co tử cung là động lực của cuộc chuyển dạ, trao đổi khí máu thai chịu ảnh hưởng của cơn co tử cung. Tình trạng nước ối phản ánh 1 phần sức khỏe thai. Ngôi thai tiến triển với động lực là cơn co, khi gặp khó khăn ngôi sẽ biến dạng. Cơn co tử cung và tiến triển của ngôi thai gây xóa mở cổ tử cung. Các thuốc dùng cho thai phụ có thể
@@ -101,7 +101,7 @@ Nội dung cụ thể của theo dõi chuyển dạ gồm:
 
 1. Cơn co tử cung.
 2. Sự xóa mở của cổ tử cung.
-3. Sự tiến triển trong đường sanh và biến dạng của ngôi thai.
+3. Sự tiến triển trong đường sinh và biến dạng của ngôi thai.
 4. Nhịp tim thai và các biến động của nhịp tim thai theo cơn co tử cung.
 5. Màu sắc và tính chất của nước ối.
 6. Ghi nhận lại các thuốc dùng trong chuyển dạ.

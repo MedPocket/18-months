@@ -7,7 +7,7 @@ Ngôi, thế kiểu thế là cách dùng để mô tả tư thế, vị trí t�
 
 ## Ngôi
 
-Ngôi được định nghĩa là phần của thai nhi trình diện trước eo trên để qua đó ngôi sẽ lọt và tiến triển theo cơ chế sanh của nó:
+Ngôi được định nghĩa là phần của thai nhi trình diện trước eo trên để qua đó ngôi sẽ lọt và tiến triển theo cơ chế sinh của nó:
 
 - Ngôi có thể là ngôi dọc. Trong ngôi dọc, trục dọc của thai song song với trục của của cơ thể người mẹ. Ngôi dọc có thể là ngôi đầu hoặc ngôi mông.
 - Ngôi cũng có thể là ngôi ngang. Trong ngôi ngang, trục của thai nhi vuông góc với trục của cơ thể người mẹ. Đôi khi, trục của thai nhi hợp với trục mẹ thai nhi nằm xéo, không ổn định và sẽ định hình trở thành ngôi dọc hoặc ngôi ngang khi vào chuyển dạ.
@@ -96,7 +96,7 @@ Trong ngôi chỏm và ngôi mông, tim thai nghe rõ nhất ở phía lưng tha
 
 ### Siêu âm
 
-Đôi khi việc thăm khám qua thành bụng hay qua khám âm đạo không phải lúc nào cũng dễ dàng, ví dụ như sản phụ quá mập, thành bụng quá dày, quá chắc, nước ối quá nhiều. Trong trường hợp này, siêu âm là một biện pháp an toàn, được sử dụng cho chẩn đoán ngôi và thế.
+Đôi khi việc thăm khám qua thành bụng hay qua khám âm đạo không phải lúc nào cũng dễ dàng, ví dụ như sản phụ quá mập, thành bụng quá dày, quá chắc, nước ối quá nhiều. Trong trường hợp này, siêu âm là biện pháp an toàn, được sử dụng cho chẩn đoán ngôi và thế.
 
 ## Nguồn tham khảo
 

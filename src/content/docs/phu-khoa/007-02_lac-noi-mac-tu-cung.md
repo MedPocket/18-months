@@ -132,9 +132,9 @@ Adenomyosis gây hiếm muộn, đồng thời cũng ảnh hưởng đến kết
 Cần khám thành bụng, âm hộ, âm đạo, tầng sinh môn/ khám trực tràng, nhất là khi có triệu chứng gợi ý trên. Các dấu hiệu thực thể (gợi ý lạc nội mạc tử cung và vị trí lạc nội mạc tử cung):
 
 - Lạc nội mạc tử cung sâu: vách âm đạo trực tràng, 2 dây chằng tử cung cùng nề cứng khi khám bằng tay có kết hợp khám trực tràng; hoặc nhìn thấy các nốt xanh tím trong vùng cùng đồ sau khi khám bằng mỏ vịt hoặc đặt van âm đạo, sờ chạm có thể đau.
-- Lạc nội mạc tử cung vào buồng trứng: khám âm đạo hay trực tràng thấy có khối cạnh tử cung ở một hoặc 2 bên, kém di động.
+- Lạc nội mạc tử cung vào buồng trứng: khám âm đạo hay trực tràng thấy có khối cạnh tử cung ở 1 hoặc 2 bên, kém di động.
 - Bệnh tuyến cơ tử cung: khám phụ khoa thấy tử cung có kích thước lớn, dày không đều như khối cầu (nếu là lạc nội mạc tử cung thể lan tỏa), có thể kém di động.
-- Một số vị trí lạc nội mạc tử cung khác: sờ được khối cứng chắc gợi ý lạc nội mạc tử cung, cương và đau theo kỳ kinh, nằm tại thành bụng quanh vùng sẹo mổ lấy thai, hoặc vùng tầng sinh môn...
+- Vị trí lạc nội mạc tử cung khác: sờ được khối cứng chắc gợi ý lạc nội mạc tử cung, cương và đau theo kỳ kinh, nằm tại thành bụng quanh vùng sẹo mổ lấy thai, hoặc vùng tầng sinh môn...
 - Thực tiễn khám lâm sàng có thể không ghi nhận gì bất thường dù có triệu chứng cơ năng gợi ý lạc nội mạc tử cung.
 
 Các khối lạc nội mạc tử cung buồng trứng lớn có thể chèn ép trực tràng, bàng quang gây tiểu khó, tiểu rắt, đi tiểu đau, tiểu ra máu, chảy máu trực tràng, táo bón...
@@ -259,7 +259,7 @@ Dienogest có thể được dùng như điều trị empirical hay dùng như �
 
 Dụng cụ tử cung phóng thích LNG (IUS-LNG) phóng thích tại chỗ các lượng nhỏ levonorgestrel, làm giảm cường kinh, giảm đau, chỉ định trong bệnh tuyến cơ tử cung có triệu chứng.
 
-Norethisterone acetate có thể được sử dụng để giảm đau trong lạc nội mạc tử cung, tuy nhiên dữ liệu lâm sàng còn hạn chế và kém hiệu quả trong một số trường hợp đau do lạc nội mạc tử cung.
+Norethisterone acetate có thể được sử dụng để giảm đau trong lạc nội mạc tử cung, tuy nhiên dữ liệu lâm sàng còn hạn chế và kém hiệu quả trong 1 số trường hợp đau do lạc nội mạc tử cung.
 
 Danazol là dẫn chất tổng hợp của ethinyl testosterone, mang đặc tính chuyển hóa và androgen yếu nhưng không có tác dụng estrogen và progestogen. Danazol do có nhiều tác dụng phụ và có các tác dụng phụ không hồi phục. Medroxyprogesterone acetate dạng tiêm có ảnh hưởng mật độ xương. Do vậy không khuyến cáo điều trị giảm đau với thuốc nhóm danazol và medroxyprogesterone acetate, trừ khi không còn lựa chọn nào khác.
 

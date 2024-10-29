@@ -81,7 +81,7 @@ _4 dạng khung chậu theo Caldwell-Moloy._
 
 Khung chậu dạng phụ (gynecoid) là dạng khung chậu thường thấy nhất ở phụ nữ (50.6%). Là dạng khung chậu thuận lợi nhất cho cuộc sanh.
 
-Khung chậu dạng hầu (andropoid) giống như khung chậu ở loài khỉ (22.7%). Tỉ lệ sanh bằng dụng cụ rất cao với dạng khung chậu này.
+Khung chậu dạng hầu (andropoid) giống như khung chậu ở loài khỉ (22.7%). Tỉ lệ sinh bằng dụng cụ rất cao với dạng khung chậu này.
 
 Khung chậu dạng nam (android) giống khung chậu đàn ông (22.4%). Dạng này gây nhiều khó khăn cho cuộc sanh.
 
