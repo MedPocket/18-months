@@ -60,7 +60,7 @@ _Mọi trường hợp nhiễm HPV đều có thể thoái triển hay tiến tr
 
 ### Quá trình dị sản
 
-Chuyển sản (metaplasia) được định nghĩa là 1 sự chuyển đổi từ 1 dạng tế bào đã trưởng thành thành các dạng tế bào trưởng thành khác nhau. Tại cổ tử cung, chuyển sản lát thay thế biểu mô tuyến của lộ tuyến cổ tử cung bằng biểu mô lát tầng không sừng hóa. Hiểu hơn về quá trình này có thể tham khảo [Viêm lộ tuyến cổ tử cung](./005-01_viem-lo-tuyen-co-tu-cung).
+Chuyển sản (metaplasia) được định nghĩa là 1 sự chuyển đổi từ 1 dạng tế bào đã trưởng thành thành các dạng tế bào trưởng thành khác nhau. Tại cổ tử cung, chuyển sản lát thay thế biểu mô tuyến của lộ tuyến cổ tử cung bằng biểu mô lát tầng không sừng hóa. Hiểu hơn về quá trình này có thể tham khảo [Viêm lộ tuyến cổ tử cung](/005-01_viem-lo-tuyen-co-tu-cung).
 
 Dị sản là kết quả của tác động bên ngoài vào các tế bào non nớt của quá trình chuyển sản sinh lý, chẳng hạn hóa chất, tia xạ, virus (đặc biệt là HPV) sẽ gây ra dị sản (dysplasia) tức tân sinh trong biểu mô cổ tử cung (CIN).
 
