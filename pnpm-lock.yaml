@@ -56,6 +56,9 @@ importers:
       sharp:
         specifier: ^0.33.5
         version: 0.33.5
+      starlight-links-validator:
+        specifier: ^0.13.0
+        version: 0.13.0(@astrojs/starlight@0.28.5(astro@4.16.8(rollup@4.24.0)(typescript@5.6.3)))(astro@4.16.8(rollup@4.24.0)(typescript@5.6.3))
     devDependencies:
       '@types/html-escaper':
         specifier: ^3.0.2
@@ -695,6 +698,9 @@ packages:
   '@types/node@17.0.45':
     resolution: {integrity: sha512-w+tIMs3rq2afQdsPJlODhoUEKzFP1ayaoyl1CcnwtIlsVe7K7bA1NGm4s3PraqTLlXnbIN84zuBlxBWo1u9BLw==}
 
+  '@types/picomatch@2.3.3':
+    resolution: {integrity: sha512-Yll76ZHikRFCyz/pffKGjrCwe/le2CDwOP5F210KQo27kpRE46U2rDnzikNlVn6/ezH3Mhn46bJMTfeVTtcYMg==}
+
   '@types/sax@1.2.7':
     resolution: {integrity: sha512-rO73L89PJxeYM3s3pPPjiPgVVcymqU490g0YO5n5By0k2Erzj6tay/4lr1CHAAU4JyOWd1rpQ8bCf6cZfHU96A==}
 
@@ -1080,6 +1086,9 @@ packages:
 
   hast-util-from-html-isomorphic@2.0.0:
     resolution: {integrity: sha512-zJfpXq44yff2hmE0XmwEOzdWin5xwH+QIhMLOScpX91e/NSGPsAzNCvLQDIEPyO2TXi+lBmU6hjLIhV8MwP2kw==}
+
+  hast-util-from-html@2.0.1:
+    resolution: {integrity: sha512-RXQBLMl9kjKVNkJTIO6bZyb2n+cUH8LFaSSzo82jiLT6Tfc+Pt7VQCS+/h3YwG4jaNE2TA2sdJisGWR+aJrp0g==}
 
   hast-util-from-html@2.0.3:
     resolution: {integrity: sha512-CUSRHXyKjzHov8yKsQjGOElXy/3EKpyX56ELnkHH34vDVw1N1XSQ1ZcAvTyAPtGqLTuKP/uxM+aLkSPqF/EtMw==}
@@ -1780,6 +1789,13 @@ packages:
 
   sprintf-js@1.0.3:
     resolution: {integrity: sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==}
+
+  starlight-links-validator@0.13.0:
+    resolution: {integrity: sha512-+kG/SO3j5190k7du5dd1Lcj9ZWvrjk9dhpsedEFC8AhfujkwuSkYm0b3u/jl3Yu9mA6zYA2JPlizAr9GtQssRg==}
+    engines: {node: '>=18.14.1'}
+    peerDependencies:
+      '@astrojs/starlight': '>=0.15.0'
+      astro: '>=4.0.0'
 
   stdin-discarder@0.2.2:
     resolution: {integrity: sha512-UhDfHmA92YAlNnCfhmq0VeNL5bDbiZGg7sZ2IvPsXubGkiNa9EC+tUTsjBRsYUAz87btI6/1wf4XoVvQ3uRnmQ==}
@@ -2673,6 +2689,8 @@ snapshots:
 
   '@types/node@17.0.45': {}
 
+  '@types/picomatch@2.3.3': {}
+
   '@types/sax@1.2.7':
     dependencies:
       '@types/node': 17.0.45
@@ -3108,6 +3126,15 @@ snapshots:
       hast-util-from-dom: 5.0.0
       hast-util-from-html: 2.0.3
       unist-util-remove-position: 5.0.0
+
+  hast-util-from-html@2.0.1:
+    dependencies:
+      '@types/hast': 3.0.4
+      devlop: 1.1.0
+      hast-util-from-parse5: 8.0.1
+      parse5: 7.1.2
+      vfile: 6.0.3
+      vfile-message: 4.0.2
 
   hast-util-from-html@2.0.3:
     dependencies:
@@ -4349,6 +4376,20 @@ snapshots:
   space-separated-tokens@2.0.2: {}
 
   sprintf-js@1.0.3: {}
+
+  starlight-links-validator@0.13.0(@astrojs/starlight@0.28.5(astro@4.16.8(rollup@4.24.0)(typescript@5.6.3)))(astro@4.16.8(rollup@4.24.0)(typescript@5.6.3)):
+    dependencies:
+      '@astrojs/starlight': 0.28.5(astro@4.16.8(rollup@4.24.0)(typescript@5.6.3))
+      '@types/picomatch': 2.3.3
+      astro: 4.16.8(rollup@4.24.0)(typescript@5.6.3)
+      github-slugger: 2.0.0
+      hast-util-from-html: 2.0.1
+      hast-util-has-property: 3.0.0
+      is-absolute-url: 4.0.1
+      kleur: 4.1.5
+      mdast-util-to-string: 4.0.0
+      picomatch: 4.0.2
+      unist-util-visit: 5.0.0
 
   stdin-discarder@0.2.2: {}
 

@@ -6,6 +6,7 @@ import remarkMath from 'remark-math'
 import rehypeExternalLinks from 'rehype-external-links'
 import { rehypeAutolink } from './plugins/rehype-autolink'
 import { remarkReadingTime } from './plugins/remark-reading-time'
+import starlightLinksValidator from 'starlight-links-validator'
 
 // https://astro.build/config
 export default defineConfig({
@@ -73,6 +74,7 @@ export default defineConfig({
       ],
       pagination: true,
       lastUpdated: true,
+      plugins: [starlightLinksValidator()],
     }),
   ],
 })
