@@ -66,7 +66,7 @@ Khảo sát β-hCG tĩnh và động học β-hCG là các khảo sát thứ c�
 
 β-hCG có ý nghĩa quan trọng trong tiên lượng tình trạng thai ở các giai đoạn rất sớm. Ngược lại, vai trò của β-hCG không còn nữa khi siêu âm đã ghi nhận túi thai có phôi và hoạt động tim thai trong tử cung.
 
-Đọc thêm về [β-hCG](/phu-khoa/001-04_hcg).
+Đọc thêm về [β-hCG](/18-months/phu-khoa/001-04_hcg/).
 
 ## Lược đồ tiếp cận với siêu âm
 

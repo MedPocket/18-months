@@ -1,5 +1,5 @@
-import starlight from '@astrojs/starlight'
 import { defineConfig } from 'astro/config'
+import starlight from '@astrojs/starlight'
 import rehypeKatex from 'rehype-katex'
 import rehypeSlug from 'rehype-slug'
 import remarkMath from 'remark-math'

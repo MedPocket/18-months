@@ -134,7 +134,7 @@ Dùng Magnesium sulfate bảo vệ não ở trẻ sinh non:
 - Thường quy từ 28 đến < 32 tuần. Cân nhắc trường hợp 24 đến < 28 tuần.
 - Chống chỉ định khi mẹ bị nhược cơ.
 - Thận trọng khi mẹ có tiền căn thiếu máu cơ tim, rối loạn dẫn truyền.
-- Trường hợp mẹ tăng huyết áp hay tiền sản giật sử dụng theo phác đồ [Tăng huyết áp thai kỳ](/007-02_tang-huyet-ap-thai-ky#magnesium-sulfate).
+- Trường hợp mẹ tăng huyết áp hay tiền sản giật sử dụng theo phác đồ [Tăng huyết áp thai kỳ](/18-months/san-khoa/007-02_tang-huyet-ap-thai-ky/#magnesium-sulfate).
 - Liều Magnesium sulfate 4.5 g liều duy nhất, truyền tĩnh mạch chậm trong 20-30 phút. Giảm liều khi BN có thiểu niệu hay suy thận.
 - Khi có chỉ định chấm dứt thai kỳ, Magnesium sulfate được chỉ định lý tưởng nhất trước sinh 4 giờ.
 

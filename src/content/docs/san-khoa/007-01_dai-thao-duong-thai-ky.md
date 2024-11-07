@@ -125,7 +125,7 @@ Ngoài thay đổi chế độ ăn, thai phụ mắc GDM nên có chế độ v�
 - Chống chỉ định vận động với: Dọa đẻ non, ối vỡ sớm, hở eo tử cung, xuất hiện 3 tháng giữa/3 tháng cuối thai kỳ, rau tiền đạo, tiền sản giật.
 - Những thai phụ vận động tích cực trước khi mang thai được khuyến khích duy trì chế độ vận động của họ trong thai kỳ.
 
-Có thể tham khảo chi tiết [Hướng dẫn điều chỉnh lối sống](/huong-dan-dieu-chinh-loi-song-benh-nhan-dai-duong-thai-ky.docx) và [Phiếu theo dõi đường huyết](/phieu-theo-doi-duong-huyet.docx).
+Có thể tham khảo chi tiết [Hướng dẫn điều chỉnh lối sống](/18-months/san-khoa/007-01_dai-thao-duong-thai-ky/huong-dan-dieu-chinh-loi-song-benh-nhan-dai-duong-thai-ky.docx) và [Phiếu theo dõi đường huyết](/18-months/san-khoa/007-01_dai-thao-duong-thai-ky/phieu-theo-doi-duong-huyet.docx).
 
 ### Thuốc kiểm soát đường huyết
 
