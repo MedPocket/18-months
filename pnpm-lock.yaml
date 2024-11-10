@@ -57,8 +57,8 @@ importers:
         specifier: ^0.33.5
         version: 0.33.5
       starlight-links-validator:
-        specifier: ^0.13.0
-        version: 0.13.0(@astrojs/starlight@0.29.0(astro@4.16.10(rollup@4.24.4)(typescript@5.6.3)))(astro@4.16.10(rollup@4.24.4)(typescript@5.6.3))
+        specifier: ^0.13.2
+        version: 0.13.2(@astrojs/starlight@0.29.0(astro@4.16.10(rollup@4.24.4)(typescript@5.6.3)))(astro@4.16.10(rollup@4.24.4)(typescript@5.6.3))
     devDependencies:
       '@types/html-escaper':
         specifier: ^3.0.2
@@ -1787,8 +1787,8 @@ packages:
   sprintf-js@1.0.3:
     resolution: {integrity: sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==}
 
-  starlight-links-validator@0.13.0:
-    resolution: {integrity: sha512-+kG/SO3j5190k7du5dd1Lcj9ZWvrjk9dhpsedEFC8AhfujkwuSkYm0b3u/jl3Yu9mA6zYA2JPlizAr9GtQssRg==}
+  starlight-links-validator@0.13.2:
+    resolution: {integrity: sha512-BP6vf+fj91LnQXPnggWVhZXhcSF1x6SHof0GRg+IGgY0idSbIU7OHE2SvLggs2fRZ5SflVqpCTpK0pQcOmYcDg==}
     engines: {node: '>=18.14.1'}
     peerDependencies:
       '@astrojs/starlight': '>=0.15.0'
@@ -4367,7 +4367,7 @@ snapshots:
 
   sprintf-js@1.0.3: {}
 
-  starlight-links-validator@0.13.0(@astrojs/starlight@0.29.0(astro@4.16.10(rollup@4.24.4)(typescript@5.6.3)))(astro@4.16.10(rollup@4.24.4)(typescript@5.6.3)):
+  starlight-links-validator@0.13.2(@astrojs/starlight@0.29.0(astro@4.16.10(rollup@4.24.4)(typescript@5.6.3)))(astro@4.16.10(rollup@4.24.4)(typescript@5.6.3)):
     dependencies:
       '@astrojs/starlight': 0.29.0(astro@4.16.10(rollup@4.24.4)(typescript@5.6.3))
       '@types/picomatch': 2.3.3
