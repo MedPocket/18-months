@@ -107,7 +107,7 @@ Khi điều trị rối loạn kinh nguyệt:
 
 - Điều trị progestogen cần kéo dài tối thiểu 12 ngày để có hiệu quả giảm nguy cơ tăng sinh nội mạc tử cung hay ung thư nội mạc tử cung.
 
-- Gây bong nội mạc tử cung bằng thuốc viên ngừa thai phối hợp không nên liên tục mà chỉ thực hiện mỗi 3-4 tháng/lần vì các lo ngại về tác động của thành phần ethinyl estradiol trên 1 cơ địa béo phì và rối loạn chuyển hóa của hội chứng buồng trứng đa nang.
+- Gây bong nội mạc tử cung bằng thuốc viên ngừa thai phối hợp không nên liên tục mà chỉ thực hiện mỗi 3-4 tháng/lần vì các lo ngại về tác động của thành phần ethinyl estradiol trên cơ địa béo phì và rối loạn chuyển hóa của hội chứng buồng trứng đa nang.
 
 :::
 

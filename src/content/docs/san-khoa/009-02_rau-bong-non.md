@@ -46,7 +46,7 @@ Sự gia tăng nồng độ D-dimer cũng có thể gợi ý cho chẩn đoán.
 
 Chẩn đoán rau bong non thể nặng thường dễ dàng do các triệu chứng rõ ràng. Tuy nhiên, các trường hợp rau bong non thể nhẹ hoặc thể vừa chẩn đoán thường khó khăn và không chắc chắn.
 
-:::caution
+:::caution[Lưu ý]
 Rau bong non là 1 chẩn đoán loại trừ.
 :::
 

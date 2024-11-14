@@ -92,7 +92,7 @@ Nếu sau 2-3 năm, tính chất của xuất huyết vẫn không thay đổi, 
 ![Tóm lược hoạt tính của các progestin](../../../assets/phu-khoa/xuat-huyet-tu-cung-o-tuoi-day-thi/tom-luoc-hoat-tinh-cua-cac-progestin.jpeg)
 _Tóm lược hoạt tính của ác progestin._
 
-Xem thêm tại điều trị "Xuất huyết tử cung do cơ năng".
+Xem thêm tại điều trị [Xuất huyết tử cung do cơ năng](/18-months/phu-khoa/002-01_xuat-huyet-tu-cung-co-nang/).
 
 ## Nguồn tham khảo
 
