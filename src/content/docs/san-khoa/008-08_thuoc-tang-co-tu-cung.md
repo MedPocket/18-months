@@ -93,7 +93,7 @@ Mẹ:
 Con:
 
 - Tim thai giảm (ngạt do acidose).
-- Cơn co cường tính ảnh hưởng tưới máu tử cung-nhau, dẫn đến tử vong.
+- Cơn co cường tính ảnh hưởng tưới máu tử cung-rau, dẫn đến tử vong.
 - Tăng bilirubin/máu.
 
 #### Liều dùng

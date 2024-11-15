@@ -13,11 +13,11 @@ Các thai nhi với kích cỡ nhỏ hơn bình thường được phân ra các
 
 1. Thai nhỏ nhưng là 1 thai bình thường (constitutionally).
 2. Thai với tăng trưởng trong tử cung bị giới hạn không do nguyên nhân rau thai như bất thường nhiễm sắc thể, bất thường chuyển hóa hay nhiễm trùng bào thai.
-3. Thai với tăng trưởng trong tử cung bị giới hạn do nguyên nhân trao đổi qua nhau bất thường.
+3. Thai với tăng trưởng trong tử cung bị giới hạn do nguyên nhân trao đổi qua rau bất thường.
 
 ### Yếu tố ảnh hưởng tăng trưởng của thai
 
-Vận chuyển qua nhau của các dưỡng chất như trọng lượng trước khi có thai thấp, mẹ dinh dưỡng kém, nghiện thuốc hay thiếu máu nặng.
+Vận chuyển qua rau của các dưỡng chất như trọng lượng trước khi có thai thấp, mẹ dinh dưỡng kém, nghiện thuốc hay thiếu máu nặng.
 
 1 số tình trạng bệnh lý có thể ảnh hưởng đến sự hình thành và phát triển của rau thai và hệ thống giường mạch máu của rau thai như tiền sản giật, các bệnh tự miễn kiểu hội chứng kháng phospholipid, bệnh ưa chảy máu, bệnh lý thận, tiểu đường hay cao huyết áp mạn tính.
 
@@ -77,10 +77,10 @@ _Vắng mặt dòng tâm trương rất phổ biến trong IUGR sớm_
 
 IUGR xuất hiện muộn, trong nửa sau của thai kỳ thường liên quan đến 1 trong 2 tình trạng:
 
-1. Mọi bệnh lý gây bất thường của trao đổi tử cung-nhau.
+1. Mọi bệnh lý gây bất thường của trao đổi tử cung-rau.
 2. Mọi bệnh lý gây thiếu oxygen trường diễn ở mẹ hoặc giảm khả năng vận chuyển oxygen đến thai.
 
-Các bệnh lý gây bất thường của trao đổi tử cung-nhau dẫn đến tình trạng thiếu oxygen trường diễn ở bào thai như tăng huyết áp, đái tháo đường có trước thai kỳ kèm theo tổn thương cơ quan đích, Lupus đỏ hệ thống, hội chứng kháng phospholipid...
+Các bệnh lý gây bất thường của trao đổi tử cung-rau dẫn đến tình trạng thiếu oxygen trường diễn ở bào thai như tăng huyết áp, đái tháo đường có trước thai kỳ kèm theo tổn thương cơ quan đích, Lupus đỏ hệ thống, hội chứng kháng phospholipid...
 
 Các bệnh lý gây thiếu oxygen trường diễn ở mẹ hoặc giảm khả năng vận chuyển oxygen đến thai như thiếu máu nặng, bệnh lý hemoglobin (hồng cầu hình liềm), các bệnh có thể gây thiếu oxygen trường diễn ở mẹ như bệnh hô hấp tắc nghẽn mạn, hen phế quản trong thai kỳ, mẹ hút thuốc lá...
 

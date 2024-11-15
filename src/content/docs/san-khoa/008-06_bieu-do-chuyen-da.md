@@ -62,7 +62,7 @@ Chỉ trong rất ít trường hợp trong đó (1) các kích thước của t
 
 Suy thai trong chuyển dạ là hệ quả của hoạt động dồn dập với tần số và cường độ cao của cơ tử cung.
 
-Cơn co tử cung với tần số và cường độ cao, kèm theo tăng trương lực căn bản dẫn đến suy giảm nghiêm trọng trong trao đổi tử cung-nhau. Ngưng cấp máu trong cơn co tử cung, khoảng nghỉ ngắn không cho phép bù đắp tình trạng thiếu oxy trong cơn co làm suy giảm nhanh chóng khả năng bù trừ của hệ đệm với tình trạng toan hóa hô hấp. Tình trạng này kéo dài sẽ dẫn đến khả năng mất bù trừ và nhiễm toan chuyển hóa, với các di chứng trên hệ thần kinh thai.
+Cơn co tử cung với tần số và cường độ cao, kèm theo tăng trương lực căn bản dẫn đến suy giảm nghiêm trọng trong trao đổi tử cung-rau. Ngưng cấp máu trong cơn co tử cung, khoảng nghỉ ngắn không cho phép bù đắp tình trạng thiếu oxy trong cơn co làm suy giảm nhanh chóng khả năng bù trừ của hệ đệm với tình trạng toan hóa hô hấp. Tình trạng này kéo dài sẽ dẫn đến khả năng mất bù trừ và nhiễm toan chuyển hóa, với các di chứng trên hệ thần kinh thai.
 
 #### Hội chứng vượt trở ngại - Dọa vỡ tử cung - Vỡ tử cung
 
@@ -83,7 +83,7 @@ Bộ các triệu chứng gồm:
 
 Vỡ tử cung là hệ quả cuối cùng của chuyển dạ tắc nghẽn, với nhiều hệ quả nghiêm trọng. Khi tiến triển xa hơn nữa, cơn co tử cung sẽ dẫn đến việc tống xuất thai nhi vượt qua nơi có trở kháng yếu nhất trên đường sanh. Lúc này, nơi có trở kháng kém nhất chính là đoạn dưới tử cung. Dưới tác dụng của cơn co tử cung, ngôi thai xé toạc đoạn dưới tử cung và rơi vào trong ổ bụng.
 
-Tình trạng vỡ tử cung thường kèm theo (1) tổn thương các mạch máu chủ yếu cấp máu cho tử cung và gây chảy máu nghiêm trọng và nhanh chóng dẫn đến tử vong mẹ, (2) tồng xuất thai nhi ra ngoài, bong nhau và chấm dứt trao đổi tử cung-nhau trong khi thai vẫn chưa tiếp xúc với khí trời gây tử vong thai nhanh chóng.
+Tình trạng vỡ tử cung thường kèm theo (1) tổn thương các mạch máu chủ yếu cấp máu cho tử cung và gây chảy máu nghiêm trọng và nhanh chóng dẫn đến tử vong mẹ, (2) tồng xuất thai nhi ra ngoài, bong rau và chấm dứt trao đổi tử cung-rau trong khi thai vẫn chưa tiếp xúc với khí trời gây tử vong thai nhanh chóng.
 
 #### Các đường dò sinh dục
 

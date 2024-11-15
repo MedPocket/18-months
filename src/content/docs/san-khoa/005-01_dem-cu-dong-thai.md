@@ -5,7 +5,7 @@ description: Đếm cử động thai.
 
 Đếm cử động thai là 1 ý tưởng khá hấp dẫn vì phương pháp này luôn có thể thực hiện ở mọi thai phụ và không tốn kém tiền bạc.
 
-Tình trạng tưới máu bánh nhau bị giảm sút và thai nhi bị toan hóa máu thì cử động thai cũng giảm. Đây là cơ sở cho việc thực hiện đếm cử động thai (fetal movement count).
+Tình trạng tưới máu bánh rau bị giảm sút và thai nhi bị toan hóa máu thì cử động thai cũng giảm. Đây là cơ sở cho việc thực hiện đếm cử động thai (fetal movement count).
 
 ## Giá trị của đếm cử động thai
 

@@ -27,7 +27,7 @@ Các nang noãn dùng androgen để tổng hợp estrogen. Hiện tượng này
 - Estrone là sản phẩm trực tiếp của tiến trình thơm hóa tiền chất của nó là androstenedione. Tiến trình thơm hóa diễn ra tại tế bào hạt, với sự tham gia của aromatase P450. Hoạt động thơm hóa androstenedione để tạo ra estrone chịu ảnh hưởng gián tiếp của FSH. Estrone có là 1 estrogen yếu. Estrone sẽ được chuyển đổi thuận nghịch thành estradiol.
 - Estradiol là 1 estrogen rất mạnh, quan trọng nhất trong các estrogen. Estradiol đảm nhận các chức năng trọng yếu của các cơ quan có nguồn gốc ống Müller.
 
-Estriol là sản phẩn chuyển hóa (tại gan, nhau thai) của cả estrone và estradiol.
+Estriol là sản phẩn chuyển hóa (tại gan, rau thai) của cả estrone và estradiol.
 
 ### Progesterone
 
