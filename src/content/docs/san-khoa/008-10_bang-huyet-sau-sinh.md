@@ -134,16 +134,16 @@ Dự phòng băng huyết sau sinh có thể là dự phòng sơ cấp (primary)
 
 ### Đờ tử cung
 
-Xử trí tích cực giai đoạn 3 chuyển dạ giúp làm giảm lượng máu mất sau sinh. Về dự phòng đờ tử cung, xử trí tích cực giai đoạn 3 của chuyển dạ có làm giảm tỷ lệ BHSS do đờ tử cung. Theo đó, oxytocin được sử dụng sau khi đã sổ vai trước của thai nhi, kéo dây rốn nhẹ nhàng có kiểm soát và xoa đáy tử cung sau sanh là những điểm chính yếu của việc xử trí tích cực này. Việc cho bú mẹ sớm sau sanh cũng làm tử cung co hồi tốt hơn và qua đó làm giảm mất máu sau sanh. Luôn thực hiện xoa bóp tử cung bằng tay.
+Xử trí tích cực giai đoạn 3 chuyển dạ giúp làm giảm lượng máu mất sau sinh. Về dự phòng đờ tử cung, xử trí tích cực giai đoạn 3 của chuyển dạ có làm giảm tỷ lệ băng huyết sau sinh do đờ tử cung. Theo đó, oxytocin được sử dụng sau khi đã sổ vai trước của thai nhi, kéo dây rốn nhẹ nhàng có kiểm soát và xoa đáy tử cung sau sanh là những điểm chính yếu của việc xử trí tích cực này. Việc cho bú mẹ sớm sau sanh cũng làm tử cung co hồi tốt hơn và qua đó làm giảm mất máu sau sanh. Luôn thực hiện xoa bóp tử cung bằng tay.
 
 Trong băng huyết sau sinh do đờ tử cung, oxytocin là lựa chọn đầu tay. Ergot alkaloids và prostaglandin là lựa chọn hàng 2nd. Vì hầu hết các trường hợp băng huyết sau sinh là do đờ tử cung, do đó cần sờ nắn tử cung qua thành bụng xem tử cung có mềm nhão không. Nếu băng huyết sau sinh là do đờ tử cung thì nhất thiết phải dùng oxytocin ở liều thích hợp và xem xét sử dụng thêm ergometrin hay prostaglandin nếu chảy máu vẫn tiếp tục:
 
-- Oxytocin được sử dụng khá rộng rãi trong dự phòng BHSS như đã đề cập, trong trường hợp đờ tử cung thì oxytocin thường được tăng liều lượng và phối hợp với các tác nhân gây co hồi tử cung khác.
+- Oxytocin được sử dụng khá rộng rãi trong dự phòng băng huyết sau sinh như đã đề cập, trong trường hợp đờ tử cung thì oxytocin thường được tăng liều lượng và phối hợp với các tác nhân gây co hồi tử cung khác.
 - Methylergonovine là tác nhân gây co hồi tử cung mạnh, đạt hiệu quả trong vài phút. Đường sử dụng luôn luôn là tiêm bắp vì tiêm mạch có thể gây ra tình trạng tăng huyết áp nguy hiểm, và cũng vì lý do đó nó không được sử dụng trên những sản phụ bị rối loạn tăng huyết áp.
 - 15 methyl prostaglandin $F_{2α}$ có thể sử dụng tiêm bắp hoặc tiêm trực tiếp vào cơ tử cung và hết sức thận trọng hoặc không nên dùng ở những sản phụ bị các rối loạn về tim, phổi, gan và thận.
 - Misoprostol và dinoprostone đặt hậu môn cũng giúp làm co hồi tử cung hiệu quả.
 
-Khi tử cung gò chắc thì các tác nhân này tỏ ra không còn hiệu quả nữa khi đó các nguyên nhân khác gây ra BHSS cần được kiểm tra cẩn thận.
+Khi tử cung gò chắc thì các tác nhân này tỏ ra không còn hiệu quả nữa khi đó các nguyên nhân khác gây ra băng huyết sau sinh cần được kiểm tra cẩn thận.
 
 :::tip[Câu có thể giúp đánh giá nhanh tình hình hiện tại]
 
@@ -262,7 +262,7 @@ _Tử cung sau khâu mũi B-Lynch._
 
 ### Tổn thương đường sinh dục
 
-Tổn thương đường sinh dục dưới gây BHSS thường ít gặp hơn so với đờ tử cung, tuy nhiên nó cũng có thể nặng nề và đòi hỏi cần phải sửa chữa ngay lập tức.
+Tổn thương đường sinh dục dưới gây băng huyết sau sinh thường ít gặp hơn so với đờ tử cung, tuy nhiên nó cũng có thể nặng nề và đòi hỏi cần phải sửa chữa ngay lập tức.
 
 :::caution[Xử trí tổn thương đường sinh dục]
 Mục tiêu của xử lý tổn thương đường sinh dục là phẫu thuật cầm máu và phục hồi tổn thương.
