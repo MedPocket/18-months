@@ -129,6 +129,7 @@ Theo dõi đáp ứng huyết động đối với tình trạng mất máu sẽ
 Bất cứ cuộc sinh bình thường nào cũng luôn có chảy máu trong giai đoạn sổ rau và cầm máu. Số lượng máu mất bình quân trong cuộc sinh có thể đến vài trăm mL. Tuy nhiên, do các biến đổi sinh lý trong nửa sau thai kỳ đã làm thể tích máu tăng đáng kể, khoảng 30-60%, tương ứng với 1000-2000 mL máu vào những tháng cuối của thai kỳ, nên đa số sản phụ có thể dung nạp được với tình trạng mất máu trong giai đoạn 3 mà không ảnh hưởng đến tổng trạng.
 
 Lượng máu mất được tính theo công thức $EBV\frac{H_0 - H_f}{H_0}$. Trong đó $H_0$ là hematocrit ban đầu, $H_f$ là hematocrit cuối cùng. EBV là lượng máu ước tính; trọng lượng (kg) × thể tích máu trung bình. Dựa trên tuổi, giá trị thể tích máu trung bình được sử dụng để tính EBV như sau:
+
 - Trẻ sơ sinh đẻ non: 95-100 mL/kg.
 - Trẻ sơ sinh đủ tháng: 85-90 mL/kg.
 - Trẻ em: 80 mL/kg.
