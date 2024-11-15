@@ -132,7 +132,7 @@ Bước 3. Định hướng phân loại Thalassemia bằng điện di Hb.
 
 Bước 4. Xác định kiểu đột biến gien Thalassemia ở 2 vợ chồng bằng khảo sát di truyền nhằm xác định nguy cơ Thalassemia thể nặng trên thai.
 
-Bước 5. Khảo sát di truyền trên thai (sinh thiết gai nhau, chọc ối, lấy máu cuống rốn) nếu thai có nguy cơ bị Thalassemia thể nặng.
+Bước 5. Khảo sát di truyền trên thai (sinh thiết gai rau, chọc ối, lấy máu cuống rốn) nếu thai có nguy cơ bị Thalassemia thể nặng.
 
 ![Chiến lược tầm soát Thalassemia](../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/chien-luoc-tam-soat-Thalassemia-1.png)
 
@@ -148,7 +148,7 @@ Thai chậm tăng trưởng có thể do thai thiếu oxy mãn do mẹ thiếu m
 
 Điều trị truyền máu tiếp tục trong suốt thai kì nhưng ferritin không nên tăng hơn 10%.
 
-Thai và bánh nhau có khả năng giữ sắt nên thai thường không bị thiếu máu.
+Thai và bánh rau có khả năng giữ sắt nên thai thường không bị thiếu máu.
 
 Đánh giá chức năng tim bằng siêu âm tim, gan, tuyến giáp mỗi tam cá nguyệt.
 

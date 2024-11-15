@@ -13,7 +13,7 @@ Trong chuyển dạ, đau được cảm nhận qua các đoạn đoạn thần 
 
 Trong giai đoạn II của chuyển dạ, kích thích đau của cổ tử cung mở hoàn toàn đã giảm nhưng phần trình diện của ngôi thai làm căng các cấu trúc nhạy cảm đau ở khung chậu và tầng sinh môn, sự căng phồng các cấu trúc kế cận như niệu đạo, bàng quang, lớp cân và cơ của tiểu khung, phúc mạc và dây chằng tử cung.
 
-Đau trong cuối giai đoạn II và giai đoạn III của chuyển dạ phản ánh kích thích đau đi kèm theo lúc thai xuống và nhau bong. Tình trạng tăng cảm giác đau ngoại vi và trung ương lúc sinh thường có thể giảm khi tổn thương tạng đã phục hồi. Tăng cảm giác đau cơ học (do sợi Aδ dẫn đầu), có thể kéo dài ngày sau khi cắt tầng sinh môn.
+Đau trong cuối giai đoạn II và giai đoạn III của chuyển dạ phản ánh kích thích đau đi kèm theo lúc thai xuống và rau bong. Tình trạng tăng cảm giác đau ngoại vi và trung ương lúc sinh thường có thể giảm khi tổn thương tạng đã phục hồi. Tăng cảm giác đau cơ học (do sợi Aδ dẫn đầu), có thể kéo dài ngày sau khi cắt tầng sinh môn.
 
 ## Yếu tố ảnh hưởng
 

@@ -9,19 +9,19 @@ Thai kỳ với tăng huyết áp là 1 nhóm lớn các bệnh lý với bệnh
 
 Giả thiết do nhiều nguyên nhân phối hợp dẫn tới tổn thương não, gan, thận và hệ thống mạch máu (tim, mắt):
 
-1. Làm tổ bánh nhau với sự xâm nhập bất thường của các nguyên bào nuôi vào động mạch xoắn.
-2. Sự không tương hợp giữa mẹ, bố (bánh nhau) và mô thai, Cơ thể mẹ thích nghi kém với những thay đổi về tim mạch và đáp ứng viêm trong thai kỳ.
+1. Làm tổ bánh rau với sự xâm nhập bất thường của các nguyên bào nuôi vào động mạch xoắn.
+2. Sự không tương hợp giữa mẹ, bố (bánh rau) và mô thai, Cơ thể mẹ thích nghi kém với những thay đổi về tim mạch và đáp ứng viêm trong thai kỳ.
 3. Các yếu tố về di truyền.
 
-Giả thuyết được chấp nhận nhiều nhất hiện nay là làm tổ bánh nhau với sự xâm nhập bất thường của các nguyên bào nuôi vào động mạch xoắn.
+Giả thuyết được chấp nhận nhiều nhất hiện nay là làm tổ bánh rau với sự xâm nhập bất thường của các nguyên bào nuôi vào động mạch xoắn.
 
-Bánh nhau đóng vai trò then chốt trong sự phát triển và thoái lui của tiền sản giật. Bánh nhau, không phải thai, là điều kiện cần trong sự phát triển tiền sản giật.
+bánh rau đóng vai trò then chốt trong sự phát triển và thoái lui của tiền sản giật. bánh rau, không phải thai, là điều kiện cần trong sự phát triển tiền sản giật.
 
 ![Sơ đồ cơ chế](../../../assets/san-khoa/tang-huyet-ap-thai-ky/so-do-co-che.png)
 
 Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai trò then chốt trong cơ chế bệnh sinh của tiền sản giật. Do đó khảo sát sFlt-1 và PlGF có thể giúp tiên đoán tiền sản giật. Khoảng 5 tuần trước khi tiền sản giật xuất hiện trên lâm sàng, tỷ số sFlt-1/PlGF tăng cao ở nhóm sau này bị tiền sản giật.
 
-Nguồn gốc xuất hiện tiền sản giật bắt đầu từ bánh nhau nhưng cơ quan đích là các tế bào nội mô của mẹ dẫn đến:
+Nguồn gốc xuất hiện tiền sản giật bắt đầu từ bánh rau nhưng cơ quan đích là các tế bào nội mô của mẹ dẫn đến:
 
 - Huyết áp: Co mạch làm tăng huyết áp.
 - Mạch máu: Tổn thương nội mô gây thoát quản các thành phần huyết tương và huyết cầu:
@@ -274,7 +274,7 @@ Nếu quyết định kéo dài thai kỳ được đặt ra thì có thể cân
 
 Cần cân nhắc tình trạng mẹ có cho phép kéo dài thêm 48 giờ cho corticosteroid liệu pháp dự phòng suy hô hấp cấp hay không?
 
-2 điều kiện tiên quyết để thực hiện Corticosteroids liệu pháp là (1) tình trạng mẹ phải đảm bảo cho việc kéo dài thai kỳ thêm 48 giờ mà không ảnh hưởng xấu đến mẹ, và (2) tình trạng tuần hoàn tử cung-nhau và dự trữ kiềm của con phải đảm bảo chịu đựng cuộc sống trong tử cung thêm 48 giờ.
+2 điều kiện tiên quyết để thực hiện Corticosteroids liệu pháp là (1) tình trạng mẹ phải đảm bảo cho việc kéo dài thai kỳ thêm 48 giờ mà không ảnh hưởng xấu đến mẹ, và (2) tình trạng tuần hoàn tử cung-rau và dự trữ kiềm của con phải đảm bảo chịu đựng cuộc sống trong tử cung thêm 48 giờ.
 
 #### Khi thai trên 34 tuần
 
@@ -388,7 +388,7 @@ Liều dùng:
 
 ### Thuốc chống tăng huyết áp
 
-Mục tiêu: Giữ cho huyết áp ổn định ở mức 140-150/90-100 mmHg chứ không phải đưa huyết áp trở về bình thường vì việc đó sẽ dẫn tới giảm tưới máu tử cung-nhau, ảnh hưởng đến thai.
+Mục tiêu: Giữ cho huyết áp ổn định ở mức 140-150/90-100 mmHg chứ không phải đưa huyết áp trở về bình thường vì việc đó sẽ dẫn tới giảm tưới máu tử cung-rau, ảnh hưởng đến thai.
 
 Chỉ định:
 
@@ -421,7 +421,7 @@ Nếu tăng huyết áp nặng dùng đường tiêm tĩnh mạch sau chuyển s
 
 Thuốc lợi tiểu và thuốc ức chế men chuyển không được dùng để kiểm soát huyết áp trong điều trị tiền sản giật:
 
-- Thuốc lợi tiểu làm giảm $Na^+$ và thể tích dịch lưu hành, dẫn đến suy giảm tuần hoàn tử cung-nhau. Nó chỉ được dùng khi có chỉ đặc biệt như suy thận-vô niệu trong sản giật hay hội chứng HELLP.
+- Thuốc lợi tiểu làm giảm $Na^+$ và thể tích dịch lưu hành, dẫn đến suy giảm tuần hoàn tử cung-rau. Nó chỉ được dùng khi có chỉ đặc biệt như suy thận-vô niệu trong sản giật hay hội chứng HELLP.
 - Không dùng thuốc ức chế men chuyển do nguy cơ gây dị tật thai nhi.
 
 #### Lợi tiểu quai Henlé: Furosemide

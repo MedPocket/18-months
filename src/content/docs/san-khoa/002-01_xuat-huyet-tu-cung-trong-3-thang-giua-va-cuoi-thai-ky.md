@@ -26,4 +26,4 @@ Xét nghiệm hemoglobin/hematocrit và xét nghiệm đông máu ngay nếu b�
 
 ## Siêu âm
 
-Siêu âm giúp đánh giá tình trạng thai, các đặc tính về vị trí nhau bám (nhau tiền đạo) hay nhau bong non, chiều dài và hình dạng kênh-lỗ trong cổ tử cung.
+Siêu âm giúp đánh giá tình trạng thai, các đặc tính về vị trí rau bám (rau tiền đạo) hay rau bong non, chiều dài và hình dạng kênh-lỗ trong cổ tử cung.

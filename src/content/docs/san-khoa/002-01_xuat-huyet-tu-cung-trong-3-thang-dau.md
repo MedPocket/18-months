@@ -55,7 +55,7 @@ Sự hiện diện của túi thai trong tử cung hướng hẳn chẩn đoán 
 
 Khi túi thai không được nhìn thấy, chỉ có thể kết luận là không nhìn thấy túi thai qua TVS, mà không được kết luận là thai ngoài tử cung, ngoại trừ trường hợp hiếm hoi thấy được túi thai bên ngoài tử cung với quầng nguyên bào nuôi, yolk-sac, có hay không có phôi thai với hoạt động tim phôi. Túi thai thường được nhìn thấy ở tuần thứ 5, túi noãn hoàng ở 5 1∕2 tuần và phôi có nhịp tim ở tuần thứ 6 khi sử dụng siêu âm qua đường âm đạo.
 
-Ngoài ra, siêu âm có thể phát hiện các trường hợp thai bất thường khác như thai trứng và các dạng thức của bệnh nguyên bào nuối thai kỳ. Hình ảnh điển hình của thai trứng trên siêu âm là hình ảnh tổ ong của các gai nhau bị thoái hóa nước. Chẩn đoán sẽ khó khăn hơn trong trường hợp thai trứng bán phần, do hình ảnh không còn điển hình lại kèm với hình ảnh của thai, có thể là thai sống và tiến triển. Thai lưu với nhau thoái hóa có thể cho hình ảnh tương tự thai trứng.
+Ngoài ra, siêu âm có thể phát hiện các trường hợp thai bất thường khác như thai trứng và các dạng thức của bệnh nguyên bào nuối thai kỳ. Hình ảnh điển hình của thai trứng trên siêu âm là hình ảnh tổ ong của các gai rau bị thoái hóa nước. Chẩn đoán sẽ khó khăn hơn trong trường hợp thai trứng bán phần, do hình ảnh không còn điển hình lại kèm với hình ảnh của thai, có thể là thai sống và tiến triển. Thai lưu với rau thoái hóa có thể cho hình ảnh tương tự thai trứng.
 
 ## Định lượng β-hCG là tiếp cận thứ cấp
 

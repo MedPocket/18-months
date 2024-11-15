@@ -147,7 +147,7 @@ Giá trị bình thường của AFP < 5.4 ng/mL. AFP thường tăng trong các
 
 ### Human Chorionic Gonadotropin (hCG)
 
-hCG là 1 glycoprotein được sản xuất chủ yếu bởi các hợp bào nuôi do nhau thai tiết ra. Nồng độ hCG tăng cao khi có thai hoặc các bệnh lý tân sinh nguyên bào nuôi hoặc các bệnh lý ác tính không liên quan đến nguyên bào nuôi như trường hợp bướu tế bào mầm.
+hCG là 1 glycoprotein được sản xuất chủ yếu bởi các hợp bào nuôi do rau thai tiết ra. Nồng độ hCG tăng cao khi có thai hoặc các bệnh lý tân sinh nguyên bào nuôi hoặc các bệnh lý ác tính không liên quan đến nguyên bào nuôi như trường hợp bướu tế bào mầm.
 
 ### Các chỉ báo khối u khác
 

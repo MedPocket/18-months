@@ -15,7 +15,7 @@ Phân loại theo FIGO 2002:
 - U nguyên bào nuôi:
   - Thai trứng xâm lấn.
   - Ưng thư nguyên bào nuôi.
-  - U nguyên bào nuôi nơi nhau bám.
+  - U nguyên bào nuôi nơi rau bám.
   - U nguyên bào nuôi dạng biểu mô.
 
 ## Thai trứng (Hydatiform mole)
@@ -24,7 +24,7 @@ Thai trứng (hydatiform moles) là dùng để chỉ tình trạng thai nghén 
 
 Thai trứng toàn phần (complete mole) không chứa mô của thai nhi, toàn bộ gai rau đều thoái hóa thành các bọc (túi) trứng.
 
-Thai trứng bán phần (partial mole) mô của thai nhi (mô thai hoặc phôi hoặc thai nhi thường chết, teo đét) cùng tồn tại với mô nhau thoái hóa nước.
+Thai trứng bán phần (partial mole) mô của thai nhi (mô thai hoặc phôi hoặc thai nhi thường chết, teo đét) cùng tồn tại với mô rau thoái hóa nước.
 
 Tần suất của thai trứng thay đổi tùy chủng tộc. Ở người Âu, tần suất của thai trứng khá thấp, chỉ vào khoảng 1:1000 trường hợp sinh sống. Với người Việt Nam, tần suất này khoảng 1:200 trường hợp sinh sống. Tuy tần suất không cao lắm, nhưng nhận biết được thai trứng đóng vai trò quan trọng, do khả năng diễn tiến thành choriocarcinoma. Ở Việt Nam, có khoảng 5% số trường hợp thai trứng sẽ tiến triển thành choriocarcinoma.
 
@@ -38,13 +38,13 @@ Trong thai trứng bán phần, cấu trúc bộ nhiễm sắc thể là 69 ho�
 
 ### Mô bệnh học
 
-Đại thể của thai trứng là mô nhau bị thoái hóa thành các túi nước nhỏ hình chùm nho. Về mặt vi thể, các túi nước này được bọc bởi các nguyên bào nuôi tăng sinh.
+Đại thể của thai trứng là mô rau bị thoái hóa thành các túi nước nhỏ hình chùm nho. Về mặt vi thể, các túi nước này được bọc bởi các nguyên bào nuôi tăng sinh.
 
 ![Hình ảnh đại thể của thai trứng](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-dai-the-cua-thai-trung.png)
-_Hình ảnh đại thể của thai trứng.<br> Đại thể của thai trứng là mô nhau bị thoái hóa thành các túi nước nhỏ hình chùm nho._
+_Hình ảnh đại thể của thai trứng.<br> Đại thể của thai trứng là mô rau bị thoái hóa thành các túi nước nhỏ hình chùm nho._
 
 ![Hình ảnh vi thể của thai trứng](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-vi-the-cua-thai-trung.png)
-_Hình ảnh vi thể của thai trứng.<br> Về mặt vi thể, các túi nước này là những lông nhau thoái hóa nước, bên ngoài được bọc bởi các nguyên bào nuôi tăng sinh._
+_Hình ảnh vi thể của thai trứng.<br> Về mặt vi thể, các túi nước này là những lông rau thoái hóa nước, bên ngoài được bọc bởi các nguyên bào nuôi tăng sinh._
 
 ### Diễn biến
 
@@ -73,7 +73,7 @@ Hình ảnh điển hình của thai trứng toàn phần trên siêu âm là h�
 ![Hình ảnh siêu âm thai trứng toàn phần](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-toan-phan.png)
 _Hình ảnh siêu âm của thai trứng toàn phần.<br> Hình ảnh điển hình của thai trứng trên siêu âm là hình ảnh tổ ong. Trong thai trứng toàn phần, hình ảnh này là điển hình._
 
-Hình ảnh của thai trứng bán phần không đặc trưng. Chẩn đoán sẽ khó khăn hơn do hình ảnh không còn điển hình lại kèm với hình ảnh của 1 thai, có thể là thai sống và tiến triển. Thai lưu với nhau thoái hóa có thể cho hình ảnh tương tự thai trứng.
+Hình ảnh của thai trứng bán phần không đặc trưng. Chẩn đoán sẽ khó khăn hơn do hình ảnh không còn điển hình lại kèm với hình ảnh của 1 thai, có thể là thai sống và tiến triển. Thai lưu với rau thoái hóa có thể cho hình ảnh tương tự thai trứng.
 
 ![Hình ảnh siêu âm thai trứng bán phần](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-ban-phan.png)
 _Hình ảnh siêu âm của thai trứng bán phần.<br> Chẩn đoán sẽ khó khăn hơn trong trường hợp thai trứng bán phần, do hình ảnh không còn điển hình lại kèm với hình ảnh của 1 thai, có thể là thai sống và tiến triển._
@@ -191,9 +191,9 @@ U nguyên bào nuôi xuất hiện sau thai trứng (60%), thai lưu/sảy thai 
 
 Thai trứng xâm lấn (invasive mole) thể hiện tình trạng các tổ chức nguyên bào nuôi tăng sinh xâm lấn tại chỗ, tức xâm nhập vào thành cơ tử cung, gây ra các biến chứng đặc trưng của sự xâm nhập nguyên bào nuôi là vỡ và chảy máu. Xuất độ thai trứng diễn biến thành thai trứng xâm lấn là khoảng 15% trường hợp. Thai trứng xâm lấn có thể gây xuất huyết nặng do việc xâm thực vào trong cơ tử cung, làm vỡ các mạch máu, xuất huyết nghiêm trọng, và có thể gây thủng tử cung. Chẩn đoán dựa vào β-hCG thường cao 20000-30000 mIU/mL, siêu khối tăng sinh mạch máu trong cơ tử cung, sau cắt tử cung làm giải phẫu bệnh có nhiều nang trứng trong cơ tử cung.
 
-U nguyên bào nuôi tại vị trí nhau bám (Placental Site Trophoblastic Tumour - PSTT) thể hiện sự hiện diện khối u của các tổ chức nguyên bào nuôi tại vị trí nhau bám trước đây(thường xảy ra sau sinh). PSTT không phải lúc nào cũng có nguồn gốc là sau thai trứng. PSTT có thể xảy ra cả sau thai thường sống, hoặc sau thai ngưng phát triển. Dù không mang các đặc trưng của ác tính điển hình, nhưng PSTT không phải lúc nào cũng lành tính. Không ít trường hợp bệnh nguyên bào nuôi tồn tại có thể dẫn đến tử vong do di căn. β-hCG thường thấp 16-400 mIU/mL.
+U nguyên bào nuôi tại vị trí rau bám (Placental Site Trophoblastic Tumour - PSTT) thể hiện sự hiện diện khối u của các tổ chức nguyên bào nuôi tại vị trí rau bám trước đây(thường xảy ra sau sinh). PSTT không phải lúc nào cũng có nguồn gốc là sau thai trứng. PSTT có thể xảy ra cả sau thai thường sống, hoặc sau thai ngưng phát triển. Dù không mang các đặc trưng của ác tính điển hình, nhưng PSTT không phải lúc nào cũng lành tính. Không ít trường hợp bệnh nguyên bào nuôi tồn tại có thể dẫn đến tử vong do di căn. β-hCG thường thấp 16-400 mIU/mL.
 
-Ung thư nguyên bào nuôi (choriocarcinoma) dùng mô tả tân lập ác tính từ mô nhau. Ung thư nguyên bào nuôi có thể có xuất phát điểm là thai trứng, hoặc là thai thường (sinh sống hay ngưng phát triển). Ngoài ra, ung thư nguyên bào nuôi có thể có nguồn gốc không liên quan đến thai kỳ, mà có bản chất là 1 u tế bào dòng sinh dục của buồng trứng, trong đó tế bào dòng sinh dục phân chia bất thường, không theo con đường giảm nhiễm, mà theo con đường nguyên nhiễm, rồi phân bào nguyên nhiễm tiếp tục để thành ung thư. Trong trường hợp này ta có bệnh nguyên bào nuôi không liên quan đến thai kỳ (non-gestational choriocarcinoma). Choriocarcinoma có thể cho di căn nhiều nơi như âm đạo, phổi, não... hoặc bị vỡ.
+Ung thư nguyên bào nuôi (choriocarcinoma) dùng mô tả tân lập ác tính từ mô rau. Ung thư nguyên bào nuôi có thể có xuất phát điểm là thai trứng, hoặc là thai thường (sinh sống hay ngưng phát triển). Ngoài ra, ung thư nguyên bào nuôi có thể có nguồn gốc không liên quan đến thai kỳ, mà có bản chất là 1 u tế bào dòng sinh dục của buồng trứng, trong đó tế bào dòng sinh dục phân chia bất thường, không theo con đường giảm nhiễm, mà theo con đường nguyên nhiễm, rồi phân bào nguyên nhiễm tiếp tục để thành ung thư. Trong trường hợp này ta có bệnh nguyên bào nuôi không liên quan đến thai kỳ (non-gestational choriocarcinoma). Choriocarcinoma có thể cho di căn nhiều nơi như âm đạo, phổi, não... hoặc bị vỡ.
 
 ### Chẩn đoán
 

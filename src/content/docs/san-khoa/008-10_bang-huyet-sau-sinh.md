@@ -95,15 +95,15 @@ Thuyên tắc ối là biến chứng có ti lệ tử vong rất cao.
 
 ### Sót rau
 
-Sót mô nhau đôi khi gây ra chảy máu ồ ạt.
+Sót mô rau đôi khi gây ra chảy máu ồ ạt.
 
-Thông thường, sau khi sanh sự co hồi của tử cung sẽ làm cho bánh nhau bong tróc và tống xuất ra ngoài. Khi quá trình bong nhau hoặc tống xuất bánh nhau diễn ra không hoàn toàn sẽ dẫn tới sót nhau.
+Thông thường, sau khi sanh sự co hồi của tử cung sẽ làm cho bánh rau bong tróc và tống xuất ra ngoài. Khi quá trình bong rau hoặc tống xuất bánh rau diễn ra không hoàn toàn sẽ dẫn tới sót rau.
 
-Những yếu tố nguy cơ có thể kể ra bao gồm tiền căn mổ lấy thai, u xơ tử cung, tiền căn hút nạo lòng tử cung, bánh nhau phụ... Mô nhau bị sót trong tử cung sẽ làm cho tử cung co hồi kém, đờ tử cung và chảy máu ồ ạt.
+Những yếu tố nguy cơ có thể kể ra bao gồm tiền căn mổ lấy thai, u xơ tử cung, tiền căn hút nạo lòng tử cung, bánh rau phụ... mô rau bị sót trong tử cung sẽ làm cho tử cung co hồi kém, đờ tử cung và chảy máu ồ ạt.
 
-Sót nhau đôi khi gây ra bởi bất thường của bánh nhau bám vào thành tử cung, khi đó bánh nhau có thể bám tới bề mặt của cơ tử cung, hoặc bám vào cơ tử cung hoặc đôi khi bám xuyên qua hết lớp cơ của tử cung. Nếu sự bất thường này xảy ra ở toàn bộ bề mặt bánh nhau thì toàn bộ nhau sẽ bị cầm tù, không thể bong tróc được.
+sót rau đôi khi gây ra bởi bất thường của bánh rau bám vào thành tử cung, khi đó bánh rau có thể bám tới bề mặt của cơ tử cung, hoặc bám vào cơ tử cung hoặc đôi khi bám xuyên qua hết lớp cơ của tử cung. Nếu sự bất thường này xảy ra ở toàn bộ bề mặt bánh rau thì toàn bộ rau sẽ bị cầm tù, không thể bong tróc được.
 
-Khi sự bám bất thường chỉ xảy ra ở 1 phần thì bánh nhau sẽ bong tróc 1 phần và phần còn lại nằm trong tử cung. Những trường hợp này có thể dẫn đến chảy máu ồ ạt đe dọa nghiêm trọng sinh mạng của sản phụ.
+Khi sự bám bất thường chỉ xảy ra ở 1 phần thì bánh rau sẽ bong tróc 1 phần và phần còn lại nằm trong tử cung. Những trường hợp này có thể dẫn đến chảy máu ồ ạt đe dọa nghiêm trọng sinh mạng của sản phụ.
 
 ### Lộn tử cung
 
@@ -155,7 +155,7 @@ Khi tử cung gò chắc thì các tác nhân này tỏ ra không còn hiệu qu
 
 :::tip[Câu có thể giúp đánh giá nhanh tình hình hiện tại]
 
-1. Nhau đã sổ chưa? Nếu đã sổ thì bánh nhau có sổ tự nhiên và đầy đủ hay không? (sót nhau?)
+1. Rau đã sổ chưa? Nếu đã sổ thì bánh rau có sổ tự nhiên và đầy đủ hay không? (sót rau?)
 2. Cuộc sanh diễn biến ra sao? Có can thiệp giúp sanh bằng dụng cụ hay không? (tổn thương đường sanh?)
 3. Có sanh thai to, sanh khó hay sanh quá nhanh hay không? (đờ tử cung?)
 4. Đã được kiểm tra tổn thương đường sinh dục chưa?
@@ -183,7 +183,7 @@ Thực hiện tốt cuộc sanh.
 :::tip[Các biện pháp cần tuân thủ trong cuộc sanh]
 
 1. Cân nhắc kỹ lưỡng khi quyết định giúp sanh.
-2. Đảm bảo nhau được sổ toàn vẹn.
+2. Đảm bảo rau được sổ toàn vẹn.
 3. Tránh kéo dây rốn quá mức.
 4. Xử trí tích cực giai đoạn 3 chuyển dạ.
 5. Kiểm tra đủ và đúng đường sanh, tránh sót tổn thương.
@@ -216,7 +216,7 @@ Băng huyết sau sanh là cấp cứu sản khoa. Cần được tổ chức t�
 5. Đánh giá đông cầm máu.
 6. Xem lại lâm sàng tìm nguyên nhân có thể gây băng huyết sau sinh:
 
-- Có khó khăn khi lấy bánh nhau không?
+- Có khó khăn khi lấy bánh rau không?
 - Có sử dụng forceps không?
 - Những yếu tố nguy cơ khác?
 
@@ -224,11 +224,11 @@ Băng huyết sau sanh là cấp cứu sản khoa. Cần được tổ chức t�
 8. Đánh giá tình trạng huyết động.
 9. Khám bằng 2 tay, đánh giá đờ tử cung:
 
-- Có thể giúp phát hiện sót nhau.
+- Có thể giúp phát hiện sót rau.
 - Có thể giúp phát hiện vỡ tử cung.
 - Thăm khám tầng sinh môn, âm hộ, âm đạo, cổ tử cung. Nhờ thêm người hỗ trợ.
 - Xác định khối máu tụ, rách?
-- Kiểm tra lại sự toàn vẹn bánh nhau.
+- Kiểm tra lại sự toàn vẹn bánh rau.
 - Can thiệp nguyên nhân: Xử trí băng huyết sau sinh sau đó cần dựa vào từng nguyên nhân cụ thể.
 
 :::
@@ -298,7 +298,7 @@ Những khối máu tụ dưới 5 cm đường kính và không phát triển l
 - Dẫn lưu hoặc chèn ép âm đạo có thể được sử dụng cho việc ngăn chặn tụ máu sau đó.
 - Các tụ máu lượng lớn có thể bóc tách, len lõi giữa các lớp mô, đặc biệt là hố ngồi trực tràng làm cho chẩn đoán trở nên khó khăn. Khi đó việc theo dõi sát tình trạng huyết động của sản phụ có thể giúp ích phát hiện những trường hợp chảy máu kín đáo này.
 
-Vỡ tử cung phức tạp thường phải cắt tử cung để cứu mẹ. Cần phân biệt 2 dạng vỡ tử cung là vỡ tử cung hoàn toàn và vỡ tử cung dưới phúc mạc do tiên lượng trên lâm sàng là rất khác nhau. Vỡ tử cung hoàn toàn thường kèm theo tỷ lệ bệnh suất và tử vong cao hơn hẳn dạng còn lại. Vỡ tử cung có thể xuất hiện ở sẹo mổ lấy thai lần trước hoặc lên quan với chấn thương, thủ thuật bóc nhau bằng tay thô bạo, hoặc xảy ra tự phát. Điều trị vỡ tử cung là phẫu thuật, khâu lại đường vỡ bảo tồn tử cung khi có thể. Việc điều trị phụ thuộc nhiều vào vị trí vỡ, mức độ vỡ, tình trạng lâm sàng cũng như mong muốn sinh sản của bệnh nhân. Ngoài ra, cần xem xét cẩn thận sự tổn thương các cơ quan lân cận như bàng quang, niệu quản, dây chằng tròn, mạch máu ở chu cung có hay không? Khi tình trạng bệnh nhân là nguy kịch do đường vỡ phức tạp thì cắt tử cung là biện pháp được chọn lựa bất chấp mong muốn bảo tồn tử cung của bệnh nhân.
+Vỡ tử cung phức tạp thường phải cắt tử cung để cứu mẹ. Cần phân biệt 2 dạng vỡ tử cung là vỡ tử cung hoàn toàn và vỡ tử cung dưới phúc mạc do tiên lượng trên lâm sàng là rất khác nhau. Vỡ tử cung hoàn toàn thường kèm theo tỷ lệ bệnh suất và tử vong cao hơn hẳn dạng còn lại. Vỡ tử cung có thể xuất hiện ở sẹo mổ lấy thai lần trước hoặc lên quan với chấn thương, thủ thuật bóc rau bằng tay thô bạo, hoặc xảy ra tự phát. Điều trị vỡ tử cung là phẫu thuật, khâu lại đường vỡ bảo tồn tử cung khi có thể. Việc điều trị phụ thuộc nhiều vào vị trí vỡ, mức độ vỡ, tình trạng lâm sàng cũng như mong muốn sinh sản của bệnh nhân. Ngoài ra, cần xem xét cẩn thận sự tổn thương các cơ quan lân cận như bàng quang, niệu quản, dây chằng tròn, mạch máu ở chu cung có hay không? Khi tình trạng bệnh nhân là nguy kịch do đường vỡ phức tạp thì cắt tử cung là biện pháp được chọn lựa bất chấp mong muốn bảo tồn tử cung của bệnh nhân.
 
 ![Các tụ máu](../../../assets/san-khoa/bang-huyet-sau-sinh/cac-tu-mau-tang-sinh-mon.png)
 _Các tụ máu._
@@ -317,20 +317,20 @@ Mục tiêu của xử lý rối loạn đông máu là khôi phục tình trạ
 
 ### Sót rau
 
-Sót mô nhau đôi khi gây ra chảy máu ồ ạt.
+Sót mô rau đôi khi gây ra chảy máu ồ ạt.
 
 :::caution[Xử trí sót rau]
-Mục tiêu của xử lý sót nhau là làm trống buồng tử cung.
+Mục tiêu của xử lý sót rau là làm trống buồng tử cung.
 
-1. Lấy nhau bằng tay, xử trí đờ tử cung như trên. Có thể dùng siêu âm để đảm bảo bánh nhau đã được lấy hết.
+1. Lấy rau bằng tay, xử trí đờ tử cung như trên. Có thể dùng siêu âm để đảm bảo bánh rau đã được lấy hết.
 2. Hút nạo lòng tử cung, có thể làm dưới hướng dẫn của siêu âm. Lưu ý: hút nạo buồng tử cung trong giai đoạn có thể gây nhiều biến chứng.
-3. Nếu nghi ngờ nhau cài răng lược, cần thiết có những can thiệp đặc hiệu.
+3. Nếu nghi ngờ rau cài răng lược, cần thiết có những can thiệp đặc hiệu.
 
 :::
 
-Việc cần thiết sau khi sổ nhau là kiểm tra kỹ bánh nhau để đảo bảo không bị sót mô nhau trong lòng tử cung. Khi kiểm tra thấy thiếu múi nhau hoặc khi chảy máu nhiều nghi sót nhau nên tiến hành soát lòng tử cung bằng tay. Siêu âm có thể được sử dụng trong các trường hợp khó khăn. Khi cần hút nạo để lấy hết mô nhau bị sót cần tiến hành cẩn thận tránh thủng tử cung cũng như những biến chứng về sau như dính lòng tử cung làm ảnh hưởng đến chu kỳ kinh và khả năng sinh sản về sau.
+Việc cần thiết sau khi sổ rau là kiểm tra kỹ bánh rau để đảo bảo không bị sót mô rau trong lòng tử cung. Khi kiểm tra thấy thiếu múi rau hoặc khi chảy máu nhiều nghi sót rau nên tiến hành soát lòng tử cung bằng tay. Siêu âm có thể được sử dụng trong các trường hợp khó khăn. Khi cần hút nạo để lấy hết mô rau bị sót cần tiến hành cẩn thận tránh thủng tử cung cũng như những biến chứng về sau như dính lòng tử cung làm ảnh hưởng đến chu kỳ kinh và khả năng sinh sản về sau.
 
-Nếu chỉ sót 1 phần bánh nhau thì các biện pháp nhằm lấy hết mô nhau sót như hút nạo lòng tử cung, khâu chèn ép, thắt động mạch tử cung có thể được xem xét cẩn thận nhằm bảo tồn chức năng sinh sản cho người phụ nữ về sau. Đôi khi có thể phải cắt tử cung nếu cần thiết.
+Nếu chỉ sót 1 phần bánh rau thì các biện pháp nhằm lấy hết mô rau sót như hút nạo lòng tử cung, khâu chèn ép, thắt động mạch tử cung có thể được xem xét cẩn thận nhằm bảo tồn chức năng sinh sản cho người phụ nữ về sau. Đôi khi có thể phải cắt tử cung nếu cần thiết.
 
 ### Lộn tử cung
 

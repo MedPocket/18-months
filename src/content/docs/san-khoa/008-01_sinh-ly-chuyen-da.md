@@ -67,13 +67,13 @@ Quá trình chuyển dạ được chia làm 3 giai đoạn:
 
 1. Xóa mở cổ tử cung.
 2. Sổ thai.
-3. Sổ nhau và cầm máu.
+3. Sổ rau và cầm máu.
 
 Giai đoạn xóa mở cổ tử cung, thường được gọi là giai đoạn một của chuyển dạ, được tính từ khi bắt đầu chuyển dạ cho đến khi cổ tử cung xóa và mở hoàn toàn.
 
 Giai đoạn sổ thai, thường được gọi là giai đoạn hai của chuyển dạ, được tính từ khi cổ tử cung đã xóa mở hoàn toàn đến khi thai được tống xuất ra ngoài.
 
-Giai đoạn sổ nhau, thường được gọi là giai đoạn ba của chuyển dạ, được tính kể từ khi thai được tống xuất hoàn toàn.
+Giai đoạn sổ rau, thường được gọi là giai đoạn ba của chuyển dạ, được tính kể từ khi thai được tống xuất hoàn toàn.
 
 Giai đoạn xóa mở cổ tử cung lại được phân ra thành 2 pha:
 

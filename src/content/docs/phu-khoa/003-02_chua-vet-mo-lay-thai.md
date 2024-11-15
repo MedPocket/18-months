@@ -158,7 +158,7 @@ Nong nạo không nên là điều trị đầu tiên vì nguy cơ thủng tử 
 
 Cần tư vấn nguy cơ thủng tử cung, tổn thương bàng quang, niệu quản phải chuyển phẫu thuật nếu cần thiết, chuẩn bị máu, dịch truyền.
 
-Kỹ thuật: Dùng Karman 1 van, đặt ống số 6 hay số 8 tại phía trên vết mổ cũ, hút nhẹ nhàng (tránh hút ngay vết mổ vì nguy cơ tổn thương vết mổ cũ vốn mỏng và nhau xâm lấn nhiều), hút vừa đủ mô (mục tiêu giảm thể tích khối thai không cố gắng lấy hết toàn bộ).
+Kỹ thuật: Dùng Karman 1 van, đặt ống số 6 hay số 8 tại phía trên vết mổ cũ, hút nhẹ nhàng (tránh hút ngay vết mổ vì nguy cơ tổn thương vết mổ cũ vốn mỏng và rau xâm lấn nhiều), hút vừa đủ mô (mục tiêu giảm thể tích khối thai không cố gắng lấy hết toàn bộ).
 
 Khi có chảy máu trung bình/nhiều đặt bóng chèn bơm 20-30mL nước muối sinh lý có hiệu quả cầm máu. Rút bóng chèn sau 12-24h.
 
