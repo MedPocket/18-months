@@ -53,7 +53,7 @@ Có sự liên quan nhất định giữa điểm số APGAR và tử vong sơ s
 
 - < 3: tình trạng ngạt nguy kịch, phải hồi sức tích cực.
 - 4-7: trẻ bị ngạt, cần được hồi sức tốt.
-- > 7: tình trạng tốt, chỉ cần theo dõi, chưa cần hồi sức.
+- &gt; 7: tình trạng tốt, chỉ cần theo dõi, chưa cần hồi sức.
 
 Do tình trạng ngạt có thể đã bắt đầu từ trong tử cung và tiếp tục trong giai đoạn sơ sinh, nên để giảm thiểu các tổn thương não do ngạt gây ra, cần tiến hành hồi sức ngay khi có bằng chứng cho thấy trẻ thở không hiệu quả.
 
@@ -74,8 +74,7 @@ thương gồm:
 Ngừng thở được phân ra:
 
 1. Ngừng thở nguyên phát: Khi trẻ bị thiếu $O_2$, ban đầu sẽ nỗ lực thở nhanh, kế đó là ngừng thở nguyên phát, nhịp tim giảm. Ngưng thở nguyên phát sẽ cải thiện khi kích thích da.
-2. Ngừng thở thứ phát: Nếu trẻ tiếp tục thiếu $O_2$, ngừng thở thứ phát sẽ xảy ra, kèm theo giảm nhịp tim và tụt huyết áp. Ngừng thở thứ phát không thể phục hồi khi kích thích,
-   mà cần phải thông khí hỗ trợ. Bắt đầu thông khí áp lực dương hiệu quả khi ngừng thở thứ phát thường cải thiện nhịp tim nhanh chóng.
+2. Ngừng thở thứ phát: Nếu trẻ tiếp tục thiếu $O_2$, ngừng thở thứ phát sẽ xảy ra, kèm theo giảm nhịp tim và tụt huyết áp. Ngừng thở thứ phát không thể phục hồi khi kích thích, mà cần phải thông khí hỗ trợ. Bắt đầu thông khí áp lực dương hiệu quả khi ngừng thở thứ phát thường cải thiện nhịp tim nhanh chóng.
 
 ## Quy trình tiếp đón thường quy trẻ sơ sinh tại phòng sinh
 
