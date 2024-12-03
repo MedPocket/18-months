@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.29.2",
-    "astro": "^4.16.16",
+    "astro": "^5.0.1",
     "astro-og-canvas": "^0.5.4",
     "canvaskit-wasm": "^0.39.1",
     "hast-util-to-string": "^3.0.1",
