@@ -9,14 +9,14 @@ importers:
   .:
     dependencies:
       '@astrojs/starlight':
-        specifier: ^0.29.2
-        version: 0.29.2(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2))
+        specifier: ^0.29.3
+        version: 0.29.3(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2))
       astro:
-        specifier: ^5.0.1
-        version: 5.0.1(rollup@4.26.0)(typescript@5.7.2)
+        specifier: ^5.0.5
+        version: 5.0.5(rollup@4.26.0)(typescript@5.7.2)
       astro-og-canvas:
-        specifier: ^0.5.4
-        version: 0.5.4(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2))
+        specifier: ^0.5.5
+        version: 0.5.5(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2))
       canvaskit-wasm:
         specifier: ^0.39.1
         version: 0.39.1
@@ -30,8 +30,8 @@ importers:
         specifier: ^3.0.3
         version: 3.0.3
       katex:
-        specifier: ^0.16.11
-        version: 0.16.11
+        specifier: ^0.16.15
+        version: 0.16.15
       mdast-util-to-string:
         specifier: ^4.0.0
         version: 4.0.0
@@ -57,15 +57,15 @@ importers:
         specifier: ^0.33.5
         version: 0.33.5
       starlight-links-validator:
-        specifier: ^0.13.3
-        version: 0.13.3(@astrojs/starlight@0.29.2(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2)))(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2))
+        specifier: ^0.13.4
+        version: 0.13.4(@astrojs/starlight@0.29.3(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2)))(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2))
     devDependencies:
       '@types/html-escaper':
         specifier: ^3.0.2
         version: 3.0.2
       prettier:
-        specifier: ^3.4.1
-        version: 3.4.1
+        specifier: ^3.4.2
+        version: 3.4.2
       prettier-plugin-astro:
         specifier: ^0.14.1
         version: 0.14.1
@@ -84,8 +84,8 @@ packages:
   '@astrojs/markdown-remark@5.3.0':
     resolution: {integrity: sha512-r0Ikqr0e6ozPb5bvhup1qdWnSPUvQu6tub4ZLYaKyG50BXZ0ej6FhGz3GpChKpH7kglRFPObJd/bDyf2VM9pkg==}
 
-  '@astrojs/markdown-remark@6.0.0':
-    resolution: {integrity: sha512-Tabo7xM44Pz2Yf9qpdaCCgxRmtaypi2YCinqTUNefDrWUa+OyKW62OuNeCaGwNh/ys+QAd9FUWN5/3HgPWjP4Q==}
+  '@astrojs/markdown-remark@6.0.1':
+    resolution: {integrity: sha512-CTSYijj25NfxgZi15TU3CwPwgyD1/7yA3FcdcNmB9p94nydupiUbrIiq3IqeTp2m5kCVzxbPZeC7fTwEOaNyGw==}
 
   '@astrojs/mdx@3.1.9':
     resolution: {integrity: sha512-3jPD4Bff6lIA20RQoonnZkRtZ9T3i0HFm6fcDF7BMsKIZ+xBP2KXzQWiuGu62lrVCmU612N+SQVGl5e0fI+zWg==}
@@ -104,8 +104,8 @@ packages:
   '@astrojs/sitemap@3.2.1':
     resolution: {integrity: sha512-uxMfO8f7pALq0ADL6Lk68UV6dNYjJ2xGUzyjjVj60JLBs5a6smtlkBYv3tQ0DzoqwS7c9n4FUx5lgv0yPo/fgA==}
 
-  '@astrojs/starlight@0.29.2':
-    resolution: {integrity: sha512-xv9AhWkP3fxCB6EF6MlT4yEbxzye3aMSbuVbFEGbQh8G/w1MPhdNCnQakIHpmIwwyxwG9cW3mQdAZum4oOO39w==}
+  '@astrojs/starlight@0.29.3':
+    resolution: {integrity: sha512-dzKuGBA7sodGV2dCzpby6UKMx/4b7WrhcYDYlhfX5Ntxh8DCdGU1hIu8jHso/LeFv/jNAfi7m6C7+w/PNSYRgA==}
     peerDependencies:
       astro: ^4.14.0
 
@@ -724,6 +724,9 @@ packages:
   '@types/html-escaper@3.0.2':
     resolution: {integrity: sha512-A8vk09eyYzk8J/lFO4OUMKCmRN0rRzfZf4n3Olwapgox/PtTiU8zPYlL1UEkJ/WeHvV6v9Xnj3o/705PKz9r4Q==}
 
+  '@types/js-yaml@4.0.9':
+    resolution: {integrity: sha512-k4MGaQl5TGo/iipqb2UDG2UwjXziSWkh0uysQelTlJpX1qGlpUZYm8PnO4DxG1qBomtJUdYJ6qR6xdIah10JLg==}
+
   '@types/katex@0.16.7':
     resolution: {integrity: sha512-HMwFiRujE5PjrgwHQ25+bsLJgowjGjm5Z8FVSf0N6PwgJrwxH0QxzHYDcKsTfV3wva0vzrpqMTJS2jXPr5BMEQ==}
 
@@ -810,14 +813,14 @@ packages:
     peerDependencies:
       astro: ^4.0.0-beta || ^5.0.0-beta || ^3.3.0
 
-  astro-og-canvas@0.5.4:
-    resolution: {integrity: sha512-bKopjX5DZ0WZH3kmUl82EVBhGzoCQwH5Ja4YdB5MO1EtWFZpWzvKWWptsOKGhjz+Kn85+gD/kgw25ebrvYufSg==}
+  astro-og-canvas@0.5.5:
+    resolution: {integrity: sha512-dbZ7voJAmvy8Zyv5zFsgENs9G4uhcCJ4nVuUPb7ymu8+Vp/jr/fdQDKPrLYUG2TSi/1HejYRnzkXcSv6ntlDTA==}
     engines: {node: '>=18.14.1'}
     peerDependencies:
-      astro: ^3.0.0 || ^4.0.0
+      astro: ^3.0.0 || ^4.0.0 || ^5.0.0
 
-  astro@5.0.1:
-    resolution: {integrity: sha512-7XzFq3eFdSkeT/aCNealVv4klwmKoOYb6LZymbyZQrdUA9vEoUCKFcujVo4YbJJ8WXyEm515ZHPCxHTdDneEug==}
+  astro@5.0.5:
+    resolution: {integrity: sha512-xfptdmurDsQcj/Anc7mU+eKlcyV7ppJIlmaSwhX3ZWwK5N/0rGKVmUqnuILgR6MB0XVJiIfublNzDGoyj4Q6BQ==}
     engines: {node: ^18.17.1 || ^20.3.0 || >=22.0.0, npm: '>=9.6.5', pnpm: '>=7.1.0'}
     hasBin: true
 
@@ -1261,8 +1264,8 @@ packages:
     resolution: {integrity: sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==}
     hasBin: true
 
-  katex@0.16.11:
-    resolution: {integrity: sha512-RQrI8rlHY92OLf3rho/Ts8i/XvjgguEjOkO1BEXcU3N8BqPpSzBNwV/G0Ukr+P/l3ivvJUE/Fa/CwbS6HesGNQ==}
+  katex@0.16.15:
+    resolution: {integrity: sha512-yE9YJIEAk2aZ+FL/G8r+UGw0CTUzEA8ZFy6E+8tc3spHUKq3qBnzCkI1CQwGoI9atJhVyFPEypQsTY7mJ1Pi9w==}
     hasBin: true
 
   kind-of@6.0.3:
@@ -1584,8 +1587,8 @@ packages:
     resolution: {integrity: sha512-RiBETaaP9veVstE4vUwSIcdATj6dKmXljouXc/DDNwBSPTp8FRkLGDSGFClKsAFeeg+13SB0Z1JZvbD76bigJw==}
     engines: {node: ^14.15.0 || >=16.0.0}
 
-  prettier@3.4.1:
-    resolution: {integrity: sha512-G+YdqtITVZmOJje6QkXQWzl3fSfMxFwm1tjTyo9exhkmWSqC4Yhd1+lug++IlR2mvRVAxEDDWYkQdeSztajqgg==}
+  prettier@3.4.2:
+    resolution: {integrity: sha512-e9MewbtFo+Fevyuxn/4rrcDAaq0IYxPGLvObpQjiZBMAzB9IGmzlnG9RZy3FFas+eBMu2vA0CszMeduow5dIuQ==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -1762,8 +1765,8 @@ packages:
   sprintf-js@1.0.3:
     resolution: {integrity: sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==}
 
-  starlight-links-validator@0.13.3:
-    resolution: {integrity: sha512-bwTrEwTH9wL6OlP2rUtWrmkbQCbSa71L+n/7nVWYQ0u6k8wq020XSrcrzyni8ZSv1up0zKHm9DO0l2YoLpIF5A==}
+  starlight-links-validator@0.13.4:
+    resolution: {integrity: sha512-LdmLbJyPHVrSUhcuxiP3pJNnW8zRcOg/32C996Ic0LOCKbB8vylqHLvAMdIhT67FvEV4eAROun+2wTVU2J156A==}
     engines: {node: '>=18.14.1'}
     peerDependencies:
       '@astrojs/starlight': '>=0.15.0'
@@ -2023,7 +2026,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/markdown-remark@6.0.0':
+  '@astrojs/markdown-remark@6.0.1':
     dependencies:
       '@astrojs/prism': 3.2.0
       github-slugger: 2.0.0
@@ -2047,12 +2050,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/mdx@3.1.9(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2))':
+  '@astrojs/mdx@3.1.9(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2))':
     dependencies:
       '@astrojs/markdown-remark': 5.3.0
       '@mdx-js/mdx': 3.1.0(acorn@8.14.0)
       acorn: 8.14.0
-      astro: 5.0.1(rollup@4.26.0)(typescript@5.7.2)
+      astro: 5.0.5(rollup@4.26.0)(typescript@5.7.2)
       es-module-lexer: 1.5.4
       estree-util-visit: 2.0.0
       gray-matter: 4.0.3
@@ -2081,15 +2084,16 @@ snapshots:
       stream-replace-string: 2.0.0
       zod: 3.23.8
 
-  '@astrojs/starlight@0.29.2(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2))':
+  '@astrojs/starlight@0.29.3(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2))':
     dependencies:
-      '@astrojs/mdx': 3.1.9(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2))
+      '@astrojs/mdx': 3.1.9(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2))
       '@astrojs/sitemap': 3.2.1
       '@pagefind/default-ui': 1.2.0
       '@types/hast': 3.0.4
+      '@types/js-yaml': 4.0.9
       '@types/mdast': 4.0.4
-      astro: 5.0.1(rollup@4.26.0)(typescript@5.7.2)
-      astro-expressive-code: 0.38.3(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2))
+      astro: 5.0.5(rollup@4.26.0)(typescript@5.7.2)
+      astro-expressive-code: 0.38.3(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2))
       bcp-47: 2.1.0
       hast-util-from-html: 2.0.3
       hast-util-select: 6.0.3
@@ -2561,6 +2565,8 @@ snapshots:
 
   '@types/html-escaper@3.0.2': {}
 
+  '@types/js-yaml@4.0.9': {}
+
   '@types/katex@0.16.7': {}
 
   '@types/mdast@4.0.4':
@@ -2621,23 +2627,23 @@ snapshots:
 
   astring@1.9.0: {}
 
-  astro-expressive-code@0.38.3(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2)):
+  astro-expressive-code@0.38.3(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2)):
     dependencies:
-      astro: 5.0.1(rollup@4.26.0)(typescript@5.7.2)
+      astro: 5.0.5(rollup@4.26.0)(typescript@5.7.2)
       rehype-expressive-code: 0.38.3
 
-  astro-og-canvas@0.5.4(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2)):
+  astro-og-canvas@0.5.5(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2)):
     dependencies:
-      astro: 5.0.1(rollup@4.26.0)(typescript@5.7.2)
+      astro: 5.0.5(rollup@4.26.0)(typescript@5.7.2)
       canvaskit-wasm: 0.39.1
       deterministic-object-hash: 2.0.2
       entities: 4.5.0
 
-  astro@5.0.1(rollup@4.26.0)(typescript@5.7.2):
+  astro@5.0.5(rollup@4.26.0)(typescript@5.7.2):
     dependencies:
       '@astrojs/compiler': 2.10.3
       '@astrojs/internal-helpers': 0.4.2
-      '@astrojs/markdown-remark': 6.0.0
+      '@astrojs/markdown-remark': 6.0.1
       '@astrojs/telemetry': 3.2.0
       '@oslojs/encoding': 1.1.0
       '@rollup/pluginutils': 5.1.3(rollup@4.26.0)
@@ -3296,7 +3302,7 @@ snapshots:
     dependencies:
       argparse: 2.0.1
 
-  katex@0.16.11:
+  katex@0.16.15:
     dependencies:
       commander: 8.3.0
 
@@ -3620,7 +3626,7 @@ snapshots:
     dependencies:
       '@types/katex': 0.16.7
       devlop: 1.1.0
-      katex: 0.16.11
+      katex: 0.16.15
       micromark-factory-space: 2.0.1
       micromark-util-character: 2.1.1
       micromark-util-symbol: 2.0.1
@@ -3934,10 +3940,10 @@ snapshots:
   prettier-plugin-astro@0.14.1:
     dependencies:
       '@astrojs/compiler': 2.10.3
-      prettier: 3.4.1
+      prettier: 3.4.2
       sass-formatter: 0.7.9
 
-  prettier@3.4.1: {}
+  prettier@3.4.2: {}
 
   prismjs@1.29.0: {}
 
@@ -4027,7 +4033,7 @@ snapshots:
       '@types/katex': 0.16.7
       hast-util-from-html-isomorphic: 2.0.0
       hast-util-to-text: 4.0.2
-      katex: 0.16.11
+      katex: 0.16.15
       unist-util-visit-parents: 6.0.1
       vfile: 6.0.3
 
@@ -4264,11 +4270,11 @@ snapshots:
 
   sprintf-js@1.0.3: {}
 
-  starlight-links-validator@0.13.3(@astrojs/starlight@0.29.2(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2)))(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2)):
+  starlight-links-validator@0.13.4(@astrojs/starlight@0.29.3(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2)))(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2)):
     dependencies:
-      '@astrojs/starlight': 0.29.2(astro@5.0.1(rollup@4.26.0)(typescript@5.7.2))
+      '@astrojs/starlight': 0.29.3(astro@5.0.5(rollup@4.26.0)(typescript@5.7.2))
       '@types/picomatch': 2.3.3
-      astro: 5.0.1(rollup@4.26.0)(typescript@5.7.2)
+      astro: 5.0.5(rollup@4.26.0)(typescript@5.7.2)
       github-slugger: 2.0.0
       hast-util-from-html: 2.0.1
       hast-util-has-property: 3.0.0
