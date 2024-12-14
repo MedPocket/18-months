@@ -2,7 +2,7 @@
 export default {
   printWidth: 80,
   tabWidth: 2,
-  semi: false,
+  semi: true,
   singleQuote: true,
   endOfLine: 'lf',
   plugins: ['prettier-plugin-astro'],
@@ -14,4 +14,4 @@ export default {
       },
     },
   ],
-}
+};
