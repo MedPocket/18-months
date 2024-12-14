@@ -1,11 +1,11 @@
 // Reference from: https://hideoo.dev/notes/starlight-og-images
 
-import { getCollection } from 'astro:content'
-import { OGImageRoute } from 'astro-og-canvas'
+import { getCollection } from 'astro:content';
+import { OGImageRoute } from 'astro-og-canvas';
 
-const entries = await getCollection('docs')
+const entries = await getCollection('docs');
 
-const pages = Object.fromEntries(entries.map(({ data, id }) => [id, { data }]))
+const pages = Object.fromEntries(entries.map(({ data, id }) => [id, { data }]));
 
 export const { getStaticPaths, GET } = OGImageRoute({
   pages,
@@ -30,6 +30,6 @@ export const { getStaticPaths, GET } = OGImageRoute({
       fonts: [
         'https://cdn.jsdelivr.net/npm/inter-font@3.19.0/ttf/Inter-Regular.ttf',
       ],
-    }
+    };
   },
-})
+});
