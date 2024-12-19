@@ -10,14 +10,14 @@
     "format": "biome format --write ."
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.30.2",
-    "astro": "^5.0.8",
+    "@astrojs/starlight": "^0.30.3",
+    "astro": "^5.1.0",
     "astro-og-canvas": "^0.5.5",
     "canvaskit-wasm": "^0.39.1",
     "hast-util-to-string": "^3.0.1",
     "hastscript": "^9.0.0",
     "html-escaper": "^3.0.3",
-    "katex": "^0.16.15",
+    "katex": "^0.16.18",
     "mdast-util-to-string": "^4.0.0",
     "reading-time": "^1.5.0",
     "rehype-autolink-headings": "^7.1.0",
@@ -26,7 +26,7 @@
     "rehype-slug": "^6.0.0",
     "remark-math": "^6.0.0",
     "sharp": "^0.33.5",
-    "starlight-links-validator": "^0.13.4"
+    "starlight-links-validator": "^0.14.0"
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.4",
