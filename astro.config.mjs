@@ -1,4 +1,5 @@
 // @ts-check
+
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import rehypeKatex from 'rehype-katex';
@@ -9,12 +10,15 @@ import { rehypeAutolink } from './plugins/rehype-autolink';
 import { remarkReadingTime } from './plugins/remark-reading-time';
 import starlightLinksValidator from 'starlight-links-validator';
 
+// https://docs.netlify.com/configure-builds/environment-variables/#read-only-variables
+const site =
+  process.env.CONTEXT !== 'production' && process.env.DEPLOY_PRIME_URL
+    ? process.env.DEPLOY_PRIME_URL
+    : 'https://18-months.netlify.app';
+
 // https://astro.build/config
 export default defineConfig({
-  site: process.env.CI
-    ? 'https://medpocket.github.io'
-    : 'http://localhost:4321',
-  base: '/18-months',
+  site,
   markdown: {
     remarkPlugins: [remarkMath, remarkReadingTime],
     rehypePlugins: [

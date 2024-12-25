@@ -3,18 +3,19 @@
  * Implement the source code according to Astro Docs:
  * https://github.com/withastro/docs/blob/main/src/components/starlight/PageTitle.astro
  */
+
 import { render } from 'astro:content';
 import { Icon } from '@astrojs/starlight/components';
 import type { Props } from '@astrojs/starlight/props';
 
 const { entry } = Astro.props;
-const { title } = entry.data;
+const { data } = Astro.props.entry;
 const { remarkPluginFrontmatter } = await render(entry);
 ---
 
 <div class='wrapper'>
   <h1 id='_top'>
-    <span>{title}</span>
+    <span>{data.title}</span>
   </h1>
   <p class='sl-flex'>
     <Icon name='seti:clock' size='1.2em' />
