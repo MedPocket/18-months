@@ -33,5 +33,5 @@
     "@types/html-escaper": "^3.0.2",
     "typescript": "^5.7.2"
   },
-  "packageManager": "pnpm@9.15.1"
+  "packageManager": "pnpm@9.15.2"
 }
