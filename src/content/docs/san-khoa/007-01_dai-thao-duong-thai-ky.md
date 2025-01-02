@@ -65,7 +65,7 @@ Người trưởng thành có BMI ≥ 23 $kg/m^2$ và có 1 trong các nguy cơ 
 - Tiền sử sản khoa bất thường thai chết lưu không rõ nguyên nhân, con bị dị tật bẩm sinh, tiền sản giật, sinh non.
 - Tiền sử bệnh tim mạch do sơ vữa.
 - Tăng huyết áp (huyết áp tâm thu ≥ 140 mmHg hoặc huyết áp tâm trương ≥ 90 mmHg hay điều trị thước tăng huyết áp).
-- Nồng độ HDL-C trong máu < 0.9 mmol/L và/hoặc Triglyceride > 2.82 mmol/L.
+- Nồng độ HDL-C trong máu <0.9 mmol/L và/hoặc Triglyceride >2.82 mmol/L.
 - Phụ nữ bị buồng trứng đa nang.
 - Ít vận động thể lực.
 - Có dấu hiệu đề kháng Insulin.
@@ -87,15 +87,15 @@ Trên thế giới có hai mô hình tầm soát chính là tầm soát đại t
 ||Nguy cơ cao|
 |---|---|
 |1|BMI thừa cân và có thêm 1 yếu tố: tiền sử gia đình có đái tháo đường thế hệ 1, chủng tộc, tim mạch, tăng huyết áp, HDL <0,9, TG >2,82, PCOs, ít vận động, dấu gai đen.|
-|2|HbA1C > 5,7% hoặc tiền đái tháo đường (IGT / IGF).|
+|2|HbA1C >5,7% hoặc tiền đái tháo đường (IGT / IGF).|
 |3|Tiền sử đái tháo đường thai kỳ.|
-|4|Tuổi > 35.|
+|4|Tuổi >35.|
 |5|Suy giảm miễn dịch mắc phải (HIV).|
 
 ||Nguy cơ thấp|
 |---|---|
-|1|Tuổi < 25.|
-|2|BMI < 23.|
+|1|Tuổi <25.|
+|2|BMI <23.|
 |3|Không có tiền sử gia đình đái tháo đường thế hệ 1.|
 |4|Không có tiền sử rối loạn dung nạp Glucose hoặc đái tháo đường thai kỳ|
 
@@ -121,7 +121,7 @@ Nhóm thai phụ có nguy cơ cao cần được xét nghiệm glucose huyết t
 
 :::
 
-Y văn ghi nhận tăng HbA1C trong 3 tháng đầu thai kỳ làm tăng nguy cơ dị tật thai (thai vô sọ, tật đầu nhỏ, dị tật tim...). Những thai phụ có HbA1C > 6.5% là có tăng nguy cơ dị tật thai. Chuyên khoa Sản lưu ý nguy cơ dị tật và tư vấn sàng lọc dị tật (đặc biệt dị tật tim thai).
+Y văn ghi nhận tăng HbA1C trong 3 tháng đầu thai kỳ làm tăng nguy cơ dị tật thai (thai vô sọ, tật đầu nhỏ, dị tật tim...). Những thai phụ có HbA1C >6.5% là có tăng nguy cơ dị tật thai. Chuyên khoa Sản lưu ý nguy cơ dị tật và tư vấn sàng lọc dị tật (đặc biệt dị tật tim thai).
 
 Dựa trên tiêu chuẩn của đái tháo đường thực thụ, BN có thể mắc đái tháo đường từ trước nhưng khi có thai mới phát hiện đái tháo đường.
 
@@ -145,9 +145,9 @@ BN có triệu chứng điển hình của tăng đường huyết hay các cơn
 
 ### 3 tháng giữa thai kỳ
 
-Thực hiện tầm soát ĐTĐTK cho mọi thai phụ từ tuần thứ 24-28 của tuổi thai và thời điểm này được xem là thời điểm chuẩn, tốt nhất cho phát hiện bất thường chuyển hóa carbohydrate trong thai kỳ với nghiệm pháp dung nạp 75gram glucose.
+Thực hiện tầm soát đái tháo đường thai kỳ cho mọi thai phụ từ tuần thứ 24-28 của tuổi thai và thời điểm này được xem là thời điểm chuẩn, tốt nhất cho phát hiện bất thường chuyển hóa carbohydrate trong thai kỳ với nghiệm pháp dung nạp 75gram glucose.
 
-Khi thai kỳ bước vào tuần thứ 24-28, cần tư vấn cho thai phụ về tầm soát ĐTĐTK, phát tờ rơi về những thông tin liên quan ĐTĐTK và hướng dẫn ăn uống hợp lý để thực hiện nghiệm pháp dung nạp glucose 75 gram - 2h vào lần khám thai định kỳ tiếp theo, ghi chú vào sổ khám thai ngày tái khám.
+Khi thai kỳ bước vào tuần thứ 24-28, cần tư vấn cho thai phụ về tầm soát đái tháo đường thai kỳ, phát tờ rơi về những thông tin liên quan đái tháo đường thai kỳ và hướng dẫn ăn uống hợp lý để thực hiện nghiệm pháp dung nạp glucose 75 gram - 2h vào lần khám thai định kỳ tiếp theo, ghi chú vào sổ khám thai ngày tái khám.
 
 Hướng dẫn chuẩn bị trước khi thực hiện sàng lọc: 3 ngày trước khi tiến hành nghiệm pháp chẩn đoán, không ăn chế độ ăn có quá nhiều glucid cũng như không ăn kiêng nhằm tránh ảnh hưởng nghiệm pháp.
 
@@ -196,6 +196,40 @@ Nguyên tắc điều trị đái tháo đường thai kỳ:
 2. Đạt mục tiêu về đường máu (tránh tăng đường máu sau ăn và hạ đường máu xa bữa ăn).
 3. Đạt cân nặng hợp lý.
 4. Phù hợp thói quen ăn uống, điều kiện kinh tế, không quá khó thực hiện.
+
+## Quản lý đái tháo đường trong giai đoạn mang thai
+
+### Theo dõi tiền sản
+
+Glucose huyết tương tĩnh mạch dùng để chẩn đoán, glucose huyết tương mao mạch dùng để theo dõi.
+
+Khuyến cáo phụ nữ bị đái tháo đường thai kỳ kiểm soát glucose huyết tương mao mạch đạt mục tiêu hoặc càng gần bình thường càng tốt, nhưng không có nguy cơ hoặc không gây hạ glucose huyết tương.
+
+Khuyến cáo xử trí ban đầu đái tháo đường thai kỳ nên bao gồm: điều chỉnh chế độ ăn và tập luyện ở mức vừa phải trong 30 phút/ngày hoặc hơn.
+
+Khuyến cáo dùng các biện pháp làm hạ glucose huyết tương mao mạch, nếu việc thay đổi lối sống không đủ để duy trì glucose huyết tương mao mạch đạt mục tiêu ở các phụ nữ bị đái tháo đường thai kỳ.
+
+Bên cạnh quản lý chỉ số đường huyết, cần lưu ý tăng cân hợp lý trong thai kỳ-liên quan tỷ lệ thuận với tăng trưởng thai nhi.
+
+Xử trí sản khoa như thai kỳ bình thường nếu đường huyết ổn định.
+
+|BMI trước khi mang thai|Tăng cân (kg)|Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần)|
+|---|---|---|
+|Thiếu năng lượng trường diễn (BMI<18.5 kg/$m^2$)|12.5-18|0.51 (0.44-0.58)|
+|Bình thường (BMI 18.5-22.9 kg/$m^2$)|11.5-16|0.42 (0.35-0.50)|
+|Thừa cân (BMI 23.0-24.9 kg/$m^2$)|7-11.5|0.28 (0.23-0.33)|
+|Béo phì (BMI >24.9 kg/$m^2$)|5-9|0.22 (0.17-0.27)|
+
+_Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)._
+
+## Theo dõi trong chuyển dạ
+
+Mức đường huyết được cho là hợp lý trong quá trình chuyển dạ là từ >70 và <126 mg/dL (> 3.9 và <7 mmol/L), vì ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những
+thai phụ cần điều trị Insulin.
+
+Mức đường huyết trong chuyển dạ >140 đến 180 mg/dL (7.8 đến 10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm ketone acid ở mẹ.
+
+![Khuyến cáo về chấm dứt thai kỳ](../../../assets/san-khoa/dai-thao-duong-thai-ky/khuyen-cao-ve-cham-dut-thai-ky.png)
 
 ## Phương pháp thay đổi đường huyết
 
@@ -250,8 +284,8 @@ Các chỉ định dùng Insulin:
 - Đái tháo đường thai kỳ:
   - Đái tháo đường thai kỳ chẩn đoán trước tuần 24.
   - Đường máu đói >7 mmol/l.
-  - Đường máu bất kỳ > 11.1 mmol/l.
-  - Đường máu làm dung nạp đường huyết > 11.1 mmol/l.
+  - Đường máu bất kỳ >11.1 mmol/l.
+  - Đường máu làm dung nạp đường huyết >11.1 mmol/l.
 - Đường máu đói và/hoặc đường máu sau ăn không đạt mục tiêu trong 20% số lần đo trong 1-2 tuần áp dụng điều chỉnh chế độ ăn.
 - Xem xét điều trị Insulin trong trường hợp đường đói 5.6-5.8 mmol/L kết hợp điều chỉnh chế độ ăn và tập luyện.
 
@@ -302,28 +336,6 @@ Biến chứng tiêm Insulin:
 - Kháng Insulin.
 - Dị ứng.
 
-## Theo dõi trong thai kỳ
-
-Những điểm mốc trong chăm sóc thai kỳ với đái tháo đường:
-
-- 10 tuần: Tư vấn cũng như đánh giá các biến chứng của đái tháo đường: khám mắt và thận nếu chưa được đánh giá cách 03 tháng. Khám nội tiết cách 1-2 tuần trong thai kỳ. Đo HbA1C để đánh giá nguy cơ. Hướng dẫn cách tự theo dõi đường huyết cũng như thực hiện OGTT đối với thai phụ có tiền căn đái tháo đường thai kỳ càng sớm càng tốt trong tam cá nguyệt 1. Siêu âm thai xác định tuổi thai và độ sinh tồn thai.
-- 16 tuần: Khám mắt. Tự theo dõi đường huyết và OGTT nếu đến khám lần đầu lúc tam cá nguyệt 2.
-- 20 tuần: Siêu âm hình thái thai đặc biệt siêu âm tim.
-- 28 tuần: Siêu âm đánh giá sự phát triển thai và AFI. Khám mắt đối với các trường hợp đái tháo đường trước thai kỳ.
-- 32 tuần: Tương tự như lúc khám thai 28 tuần.
-- 36 tuần: Siêu âm đánh giá sự phát triển thai và AFI. Ngoài ra, sẽ cung cấp và thảo luận về thời điểm, cách thức, xử trí lúc sinh, phương pháp vô cảm, thay đổi điều trị tăng đường huyết trong và sau sinh, chăm sóc bé sau sinh, ngừa thai và theo dõi.
-- 37-38 tuần: Khởi phát chuyển dạ hay mổ lấy thai nếu có chỉ định.
-- 38 tuần: Thực hiện test đánh giá sức khỏe thai.
-- 39 tuần: Thực hiện test đánh giá sức khỏe thai, lên kế hoạch chấm dứt thai kỳ. Phụ nữ có đái tháo đường thai kỳ không nên kéo dài quá 40 tuần 6 ngày.
-
-## Theo dõi trong chuyển dạ
-
-Mức đường huyết được cho là hợp lý trong quá trình chuyển dạ là từ > 70 và < 126 mg/dL (> 3.9 và <7 mmol/L), vì ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những
-thai phụ cần điều trị Insulin.
-
-Mức đường huyết trong chuyển dạ > 140 đến 180 mg/dL (7.8 đến 10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm ketone acid ở mẹ.
-
-![Khuyến cáo về chấm dứt thai kỳ](../../../assets/san-khoa/dai-thao-duong-thai-ky/khuyen-cao-ve-cham-dut-thai-ky.png)
 
 ## Kết cục sản khoa
 
@@ -382,9 +394,9 @@ Hạ đường huyết ở trẻ sơ sinh.
 
 Nguy cơ trong chuyển dạ như kẹt vai.
 
-Dị tật bẩm sinh ở thời điểm thụ thai của người mẹ bị mắc bệnh đái tháo đường, nếu lượng glucose huyết tương không được kiểm soát tốt thì tỷ lệ dị tật bẩm sinh của trẻ sơ sinh sẽ rất cao từ 8-13%, gấp 2-4 lần nhóm không bị đái tháo đường. Tương quan thuận giữa mức HbA1C và tỷ lệ dị tật thai. Trong 3 tháng đầu thai kỳ, khi HbA1C > 6,5% nguy cơ dị tật thai tăng.
+Dị tật bẩm sinh ở thời điểm thụ thai của người mẹ bị mắc bệnh đái tháo đường, nếu lượng glucose huyết tương không được kiểm soát tốt thì tỷ lệ dị tật bẩm sinh của trẻ sơ sinh sẽ rất cao từ 8-13%, gấp 2-4 lần nhóm không bị đái tháo đường. Tương quan thuận giữa mức HbA1C và tỷ lệ dị tật thai. Trong 3 tháng đầu thai kỳ, khi HbA1C >6,5% nguy cơ dị tật thai tăng.
 
-Tăng hồng cầu là tình trạng thường gặp ở trẻ sơ sinh của các thai phụ có đái tháo đường thai kỳ, nồng độ hemoglobin trong máu tĩnh mạch trung tâm > 20g/dl hay dung tích hồng cầu > 65%.
+Tăng hồng cầu là tình trạng thường gặp ở trẻ sơ sinh của các thai phụ có đái tháo đường thai kỳ, nồng độ hemoglobin trong máu tĩnh mạch trung tâm >20g/dl hay dung tích hồng cầu >65%.
 
 Vàng da sơ sinh tăng hủy hemoglobin dẫn đến tăng bilirubin huyết tương gây vàng da sơ sinh, xảy ra khoảng 25% ở các thai phụ có đái tháo đường thai kỳ.
 
@@ -408,7 +420,7 @@ Hiệp hội sản phụ khoa Hoa Kỳ khuyến cáo làm lại nghiệm pháp d
 
 ## Chuẩn bị trước mang thai
 
-Mục tiêu lý tưởng HbA1c < 6.5% an toàn (không có hạ đường huyết) để tránh dị tật thai nhi, tiền sản giật, thai to, đẻ non và các biến chứng khác.
+Mục tiêu lý tưởng HbA1c <6.5% an toàn (không có hạ đường huyết) để tránh dị tật thai nhi, tiền sản giật, thai to, đẻ non và các biến chứng khác.
 
 Đái tháo đường type 2 cần chuyển sang insulin và đạt mục tiêu HbA1c trước khi có thai.
 
