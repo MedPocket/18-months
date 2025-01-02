@@ -3,23 +3,23 @@ title: Băng huyết sau sinh
 description: Băng huyết sau sinh.
 ---
 
-Ước tính có khoảng 140.000 phụ nữ tử vong vì băng huyết sau sanh trên thế giới mỗi năm. Có nghĩa là cứ mỗi 4 phút thì có 1 trường hợp tử vong vì băng huyết sau sanh (Post-Partum Hemorrhage) (PPH) trên thế giới, với hơn phân nửa số tử vong này là xảy ra trong vòng 24 giờ đầu sau sanh. Băng huyết sau sanh còn đưa đến nhiều hậu quả nặng nề khác như suy hô hấp, bệnh lý về đông cầm máu, sốc, mất khả năng sinh sản, hoại tử tuyến yên...
+Ước tính có khoảng 140.000 phụ nữ tử vong vì băng huyết sau sanh trên thế giới mỗi năm. Có nghĩa là cứ mỗi 4 phút thì có 1 trường hợp tử vong vì băng huyết sau sanh (Post-Partum Hemorrhage) (PPH) trên thế giới, với hơn phân nửa số tử vong này là xảy ra trong vòng 24h đầu sau sanh. Băng huyết sau sanh còn đưa đến nhiều hậu quả nặng nề khác như suy hô hấp, bệnh lý về đông cầm máu, sốc, mất khả năng sinh sản, hoại tử tuyến yên...
 
 ## Băng huyết sau sinh
 
 :::note[Định nghĩa băng huyết sau sinh]
-Băng huyết sau sinh được định nghĩa là chảy máu ≥ 500 mL, trong vòng 24 giờ sau sổ thai, từ bất kỳ nơi nào trên đường sinh.
+Băng huyết sau sinh được định nghĩa là chảy máu ≥ 500 mL, trong vòng 24h sau sổ thai, từ bất kỳ nơi nào trên đường sinh.
 :::
 
-Bất kể nguyên nhân, tốc độ mất máu trong băng huyết sau sinh là rất nhanh. Tình trạng mất máu có thể lên đến vài trăm mL mỗi phút, và tổng lượng mất máu trong vòng vài giờ có thể lên đến nhiều nghìn mL. Đây là tình trạng mất máu cấp với hệ quả trước tiên và chết người là choáng giảm thể tích. Đi sau choáng giảm thể tích, việc mất lượng lớn huyết cầu sẽ dẫn đến những vấn đề liên quan đến thiếu oxy mô.
+Bất kể nguyên nhân, tốc độ mất máu trong băng huyết sau sinh là rất nhanh. Tình trạng mất máu có thể lên đến vài trăm mL mỗi phút, và tổng lượng mất máu trong vòng vàih có thể lên đến nhiều nghìn mL. Đây là tình trạng mất máu cấp với hệ quả trước tiên và chết người là choáng giảm thể tích. Đi sau choáng giảm thể tích, việc mất lượng lớn huyết cầu sẽ dẫn đến những vấn đề liên quan đến thiếu oxy mô.
 
 Mốc thiết lập định nghĩa là 500 mL thực ra rất tương đối, lệ thuộc vào nhiều yếu tố như căn cứ vào cảm tính chủ quan, lượng máu mất lẫn với dịch ối hay các thứ dung dịch chăm sóc, lượng máu mất vào champ phủ phẫu trường... Cần lưu ý rằng số lượng máu mất mà ta ước lượng thường chỉ bằng nửa lượng máu mất thật sự, do đó việc phải đo lường lượng máu mất tin cậy, khách quan. Vài nghiên cứu ghi nhận gần 50% sản phụ sinh ngả âm đạo bị mất tượng máu kể trên, mổ lấy thai mất khoảng 1000 mL máu. Vì thế, nếu định ngưỡng định nghĩa băng huyết sau sinh ở mức 500 mL thì có thể sẽ có các chăm sóc vượt mức cần thiết. Tuy nhiên, nếu đặt mốc định nghĩa băng huyết sau sinh lên cao hơn thì can thiệp có thể bị trễ và gây ra nguy hiểm cho sản phụ. Vì thế, nhà sản khoa cần đánh giá từng trường hợp lâm sàng cụ thể để can thiệp đúng mức và kịp
 thời.
 
 Cho mục đích mô tả, băng huyết sau sinh có thể chia thành:
 
-1. Băng huyết sau sinh sớm, khi xảy ra trong vòng 24 giờ đầu sau sanh.
-2. Băng huyết sau sinh muộn, khi xảy ra từ 24 giờ đến 12 tuần sau sanh.
+1. Băng huyết sau sinh sớm, khi xảy ra trong vòng 24h đầu sau sanh.
+2. Băng huyết sau sinh muộn, khi xảy ra từ 24h đến 12 tuần sau sanh.
 
 ## Yếu tố nguy cơ
 
@@ -240,8 +240,8 @@ Mục tiêu của điều trị đờ tử cung là đảm bảo gò tử cung t
 2. Dùng thuốc co hồi tử cung, với sự thận trọng cần thiết.
 
 - Oxytocin truyền tĩnh mạch (Oxytocin PIV: 10-40 IU trong 1 L NaCl 0.9% hoặc LR).
-- Ergometrin (Methylergonovine IM: 0.2 mg, có thể lặp lại trong 2-4 giờ).
-- 15-Methyl $PGF_{2α}$ hay Dinoprostone (Dinoprostone đặt hậu môn 20 mg mỗi 2 giờ hay 15-Methyl $PGF_{2α}$ IM 0.25 mg mỗi 15-90 ph, tối đa 8 liều).
+- Ergometrin (Methylergonovine IM: 0.2 mg, có thể lặp lại trong 2-4h).
+- 15-Methyl $PGF_{2α}$ hay Dinoprostone (Dinoprostone đặt hậu môn 20 mg mỗi 2h hay 15-Methyl $PGF_{2α}$ IM 0.25 mg mỗi 15-90 ph, tối đa 8 liều).
 - Misoprostol (800-1000 µg đặt hậu môn 1 liều trong trường hợp không có sẵn $PGF_{2α}$).
 
 3. Dùng bóng chèn. Đây là phương pháp tạm thời.
@@ -286,7 +286,7 @@ Mục tiêu của xử lý tổn thương đường sinh dục là phẫu thuậ
 
 Việc kiểm tra đường sanh bằng dụng cụ rất cần thiết đối với các sản phụ mất máu nhiều sau sanh nhưng khám thấy tử cung co hồi rất tốt.
 
-Khi kiểm tra âm đạo, cổ tử cung thường cần thêm người phụ sẽ giúp bộc lộ vùng tổn thương rõ ràng hơn và giúp việc khâu phục hồi sau đó cũng trở nên dễ dàng hơn. Lưu ý những trường hợp tổn thương quanh niệu đạo sẽ làm phù nề mô xung quanh, hẹp niệu đạo dẫn tới nước tiểu bị ứ đọng. Vì thế, sau khi khâu phục hồi tầng sinh môn nên thực hiện việc lưu thông tiểu 12-24 giờ theo khuyến cáo.
+Khi kiểm tra âm đạo, cổ tử cung thường cần thêm người phụ sẽ giúp bộc lộ vùng tổn thương rõ ràng hơn và giúp việc khâu phục hồi sau đó cũng trở nên dễ dàng hơn. Lưu ý những trường hợp tổn thương quanh niệu đạo sẽ làm phù nề mô xung quanh, hẹp niệu đạo dẫn tới nước tiểu bị ứ đọng. Vì thế, sau khi khâu phục hồi tầng sinh môn nên thực hiện việc lưu thông tiểu 12-24h theo khuyến cáo.
 
 Khối máu tụ có thể xuất hiện mọi nơi trong đường sinh dục dưới do sang chấn trong quá trình sanh gây ra như ở âm hộ, âm đạo, vết cắt tầng sinh môn, vết rách ở đáy chậu... đôi khi khối máu tụ xảy ra không kèm theo tổn thương niêm mạc âm đạo nên dễ bị bỏ sót khi thăm khám. Tìm ra được điểm chảy máu là chìa khóa cho việc điều trị khối máu tụ.
 

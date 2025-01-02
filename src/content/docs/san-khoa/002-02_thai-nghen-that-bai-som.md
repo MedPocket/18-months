@@ -166,7 +166,7 @@ Misoprostol là prostaglandin E1 có khả năng gây co bóp tử cung mạnh. 
 
 Không khuyến cáo dùng phối hợp Selective Progesterone Receptor Modulator (SPRM) với misoprostol trong điều trị thai nghén thất bại sớm vì hiệu quả không rõ ràng, và tăng chi phí điều trị. Trong tuyệt đại đa số các trường hợp, có thể đạt được kết quả tống xuất mong muốn mà không cần phải phối hợp với SPRM.
 
-Xử lý thai nghén thất bại sớm bằng nội khoa giúp gây sẩy thai nhanh hơn chọn lựa theo dõi. Chảy máu và đau bụng có thể xuất hiện trong vòng 2-6 giờ sau khi bắt đầu dùng thuốc, nhưng triệu chứng này sẽ tự ổn định sau 3-5 giờ.
+Xử lý thai nghén thất bại sớm bằng nội khoa giúp gây sẩy thai nhanh hơn chọn lựa theo dõi. Chảy máu và đau bụng có thể xuất hiện trong vòng 2-6h sau khi bắt đầu dùng thuốc, nhưng triệu chứng này sẽ tự ổn định sau 3-5h.
 
 ### Hút lòng tử cung
 

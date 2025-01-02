@@ -7,12 +7,12 @@ Hậu quả của chuyển dạ kéo dài rất nặng nề. Hầu hết các bi
 
 ## Chuyển dạ kéo dài
 
-Chuyển dạ kéo dài được hiểu là chuyển dạ kéo dài trên 24 giờ. Chuyển dạ giai đoạn hoạt động trên 12 giờ là kéo dài.
+Chuyển dạ kéo dài được hiểu là chuyển dạ kéo dài trên 24h. Chuyển dạ giai đoạn hoạt động trên 12h là kéo dài.
 
 Do giai đoạn xóa mở cổ tử cung của chuyển dạ gồm 2 giai đoạn liên tiếp, nên có thể phân biệt:
 
 1. Chuyển dạ giai đoạn tiềm thời kéo dài: thường khó xác định, do khó biết được khởi đầu của chuyển dạ.
-2. Chuyển dạ giai đoạn hoạt động kéo dài: khi độ dài của giai đoạn hoạt động kéo dài trên 12 giờ.
+2. Chuyển dạ giai đoạn hoạt động kéo dài: khi độ dài của giai đoạn hoạt động kéo dài trên 12h.
 
 Có 3 yếu tố gây bất thường trong chuyển dạ 3P:
 
@@ -111,7 +111,7 @@ _Sản đồ WHO 1993._
 
 ### Đặc điểm
 
-Trung tâm của sản đồ model WHO là đường báo động, thuộc về phần biểu đồ ghi lại diễn tiến cổ tử cung. Đường báo động là đường thẳng xuất phát tử tung độ mở cổ tử cung là 3 cm, và hoành độ thời gian là giờ thứ 8 sau khi bắt đầu. Hệ số góc của đường này là 1, ứng với tốc độ mở cổ tử cung là 1cm mỗi giờ, trùng với tốc độ mở cổ tử cung ở bách phân vị thứ 10 của dân số khảo sát bởi Philpott và các khảo sát trước đó của WHO. Điều này có nghĩa là khi tốc độ mở cổ tử cung là chậm hơn đường báo động, tức sản đồ ở bên phải của đường báo động, thì cũng đồng nghĩa với cổ tử cung đang diễn tiến như người có mở cổ tử cung chậm trong dân số khảo sát, cũng đồng nghĩa với việc chuyển dạ có nguy cơ trở thành chuyển dạ kéo dài, nếu không được nhận diện hay can thiệp thích hợp.
+Trung tâm của sản đồ model WHO là đường báo động, thuộc về phần biểu đồ ghi lại diễn tiến cổ tử cung. Đường báo động là đường thẳng xuất phát tử tung độ mở cổ tử cung là 3 cm, và hoành độ thời gian làh thứ 8 sau khi bắt đầu. Hệ số góc của đường này là 1, ứng với tốc độ mở cổ tử cung là 1cm mỗih, trùng với tốc độ mở cổ tử cung ở bách phân vị thứ 10 của dân số khảo sát bởi Philpott và các khảo sát trước đó của WHO. Điều này có nghĩa là khi tốc độ mở cổ tử cung là chậm hơn đường báo động, tức sản đồ ở bên phải của đường báo động, thì cũng đồng nghĩa với cổ tử cung đang diễn tiến như người có mở cổ tử cung chậm trong dân số khảo sát, cũng đồng nghĩa với việc chuyển dạ có nguy cơ trở thành chuyển dạ kéo dài, nếu không được nhận diện hay can thiệp thích hợp.
 
 Trong sản đồ model 1993 của WHO, độ dài của pha tiềm thời là bất định. Điều này phản ánh những khó khăn trong việc xác định thời điểm bắt đầu chuyển dạ.
 

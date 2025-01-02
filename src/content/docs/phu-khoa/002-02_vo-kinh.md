@@ -21,7 +21,7 @@ Vô kinh có thể được phân loại dựa trên 1 số tiêu chí khác nha
 
 ### Vô kinh do rối loạn chức năng rụng trứng
 
-Vô kinh do rối loạn chức năng rụng trứng thường là thứ phát nhưng có thể là nguyên phát nếu quá trình rụng trứng không bao giờ bắt đầu – ví dụ: do rối loạn di truyền. Nếu sự rụng trứng không bao giờ bắt đầu, thường dẫn đến dậy thì muộn và sự phát triển của các đặc tính sinh dục thứ phát là bất thường. Các rối loạn di truyền liên quan nhiễm sắc thể Y làm tăng nguy cơ ung thư tế bào mầm của buồng trứng.
+Vô kinh do rối loạn chức năng rụng trứng thường là thứ phát nhưng có thể là nguyên phát nếu quá trình rụng trứng không baoh bắt đầu – ví dụ: do rối loạn di truyền. Nếu sự rụng trứng không baoh bắt đầu, thường dẫn đến dậy thì muộn và sự phát triển của các đặc tính sinh dục thứ phát là bất thường. Các rối loạn di truyền liên quan nhiễm sắc thể Y làm tăng nguy cơ ung thư tế bào mầm của buồng trứng.
 
 Các nguyên nhân phổ biến nhất của rối loạn chức năng rụng trứng liên quan đến sự gián đoạn của trục hạ đồi-tuyến yên-buồng trứng. Do đó, nguyên nhân bao gồm:
 

@@ -76,13 +76,13 @@ Tần suất giảm dung nạp đường và đái tháo đường type II khá 
 
 Có 3 trong 5 tiêu chuẩn
 
-| Yếu tố nguy cơ                                              | Ngưỡng bất thường                                    |
-| ----------------------------------------------------------- | ---------------------------------------------------- |
-| 1. Béo phì ở bụng (đo vòng eo)                              | > 80cm                                               |
-| 2. Triglycerides                                            | ≥ 150 mg/dL                                          |
-| 3. HDL–C                                                    | < 50 mg/dL                                           |
-| 4. Huyết áp                                                 | ≥ 130 / ≥ 85 mmHg                                    |
-| 5. Đường huyết lúc đói và 2 giờ sau làm test dung nạp đường | 110-126 mg/dL và/hay glucose sau 2 giờ 140-199 mg/dL |
+| Yếu tố nguy cơ                                           | Ngưỡng bất thường                                 |
+| -------------------------------------------------------- | ------------------------------------------------- |
+| 1. Béo phì ở bụng (đo vòng eo)                           | > 80cm                                            |
+| 2. Triglycerides                                         | ≥ 150 mg/dL                                       |
+| 3. HDL–C                                                 | < 50 mg/dL                                        |
+| 4. Huyết áp                                              | ≥ 130 / ≥ 85 mmHg                                 |
+| 5. Đường huyết lúc đói và 2h sau làm test dung nạp đường | 110-126 mg/dL và/hay glucose sau 2h 140-199 mg/dL |
 
 :::
 
@@ -129,7 +129,7 @@ Chế độ ăn giảm năng lượng (giảm chất béo, tăng chất xơ) và
 
 Clomiphene citrate là lựa chọn đầu tay cho những phụ nữ hội chứng buồng trứng đa nang hiếm muộn, không có các yếu tố đi kèm khác như bất thường tinh trùng hay tổn thương, tắc ống dẫn trứng. Các yếu tố chính tiên lượng kết quả điều trị với CC là béo phì, cường androgen và tuổi của người phụ nữ. Đề kháng CC xảy ra trong 30% các người bệnh hội chứng buồng trứng đa nang.
 
-Liều đầu của CC thường là 50 mg/ngày trong 5 ngày, bắt đầu từ ngày 2-5 của chu kỳ. Liều tối đa được khuyến cáo là 150 mg/ngày, không có bằng chứng y học cho thấy hiệu quả gây phóng noãn đạt được nếu sử dụng liều cao hơn. Thời gian điều trị nên giới hạn tới 6 chu kỳ gây phóng noãn, không bao giờ vượt quá 12 chu kỳ trong suốt cuộc đời sinh sản và cần có thời gian nghỉ giữa 3 chu kỳ kích thích buồng trứng liên tục. Nếu vẫn không có kết quả, nên cân nhắc sử dụng phương pháp khác gây phóng noãn như gonadotropin hay nội soi đốt điểm buồng trứng đa nang.
+Liều đầu của CC thường là 50 mg/ngày trong 5 ngày, bắt đầu từ ngày 2-5 của chu kỳ. Liều tối đa được khuyến cáo là 150 mg/ngày, không có bằng chứng y học cho thấy hiệu quả gây phóng noãn đạt được nếu sử dụng liều cao hơn. Thời gian điều trị nên giới hạn tới 6 chu kỳ gây phóng noãn, không baoh vượt quá 12 chu kỳ trong suốt cuộc đời sinh sản và cần có thời gian nghỉ giữa 3 chu kỳ kích thích buồng trứng liên tục. Nếu vẫn không có kết quả, nên cân nhắc sử dụng phương pháp khác gây phóng noãn như gonadotropin hay nội soi đốt điểm buồng trứng đa nang.
 
 Đề kháng với Clomiphene citrate được định nghĩa là những bệnh nhân không phóng noãn sau 3-6 chu kỳ điều trị với Clomiphene citrate.
 

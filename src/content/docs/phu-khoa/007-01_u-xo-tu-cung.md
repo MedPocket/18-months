@@ -197,7 +197,7 @@ Chảy máu lượng nhiều (cường kinh) và có kinh kéo dài (rong kinh) 
 
 Cơ chế của chảy máu lượng nhiều vẫn chưa được giải thích hoàn toàn thỏa đáng. Các giải thích được chấp nhận nhiều nhất là tăng qua đáng diện tích bề mặt niêm mạc, bất thường cấu trúc mạch máu tử cung cả về vi thể lẫn đại thể, và suy yếu hệ thống cầm máu tại chỗ của nội mạc tử cung.
 
-Mức độ xuất huyết phụ thuộc vào vị trí hơn là kích thước u xơ-cơ. U xơ-cơ tử cung dưới niêm mạc dù nhỏ nhưng vẫn có thể gây cường kinh nhiều. U xơ-cơ tử cung hiếm khi gây chảy máu bất chợt, và càng không bao giờ gây chảy máu hậu mãn kinh. Do đó, bắt buộc phải đi tìm các nguyên nhân khác, không phải là u xơ-cơ tử cung, để lý giải các chảy máu này, nhất là xuất huyết tử cung bất thường hậu mãn kinh. Cường kinh và rong kinh có thể dẫn đến thiếu máu, giảm năng suất làm việc, giảm chất lượng cuộc sống.
+Mức độ xuất huyết phụ thuộc vào vị trí hơn là kích thước u xơ-cơ. U xơ-cơ tử cung dưới niêm mạc dù nhỏ nhưng vẫn có thể gây cường kinh nhiều. U xơ-cơ tử cung hiếm khi gây chảy máu bất chợt, và càng không baoh gây chảy máu hậu mãn kinh. Do đó, bắt buộc phải đi tìm các nguyên nhân khác, không phải là u xơ-cơ tử cung, để lý giải các chảy máu này, nhất là xuất huyết tử cung bất thường hậu mãn kinh. Cường kinh và rong kinh có thể dẫn đến thiếu máu, giảm năng suất làm việc, giảm chất lượng cuộc sống.
 
 ### Chèn ép
 
@@ -479,7 +479,7 @@ Tiêu hủy u xơ bằng sóng cao tần (Radiofrequency Myolysis).
 Phụ nữ có thai và có u xơ mà có triệu chứng đau cần nhập viện điều trị:
 
 - Ban đầu: Hỗ trợ và giảm đau bằng Acetaminophen.
-- Những thuốc giảm đau bằng Opioid liều chuẩn hoặc giảm đau Non-steroids kéo dài trong 48 giờ có thể dùng nếu như các biện pháp khác không hiệu quả.
+- Những thuốc giảm đau bằng Opioid liều chuẩn hoặc giảm đau Non-steroids kéo dài trong 48h có thể dùng nếu như các biện pháp khác không hiệu quả.
 - Giảm đau với Ibuprofen, Indomethacin chỉ nên dùng với thai nhỏ hơn 32 tuần do nguy cơ gây đóng ống động mạch sớm, tăng áp phổi sơ sinh, đa ối và thậm chí rối loạn chức năng tiểu cầu thai nhi.
 - Mổ lấy thai trên thai phụ có u xơ chỉ nên thực hiện khi có chỉ định sản khoa (u xơ tiền đạo) hoặc chỉ định liên quan đến thai (ngôi bất thường, chuyển dạ ngưng tiến triển, suy thai cấp).
 
