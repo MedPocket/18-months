@@ -110,7 +110,7 @@ Nếu sau 3 ngày khám thấy tử cung còn to do ứ dịch lòng nhiều hay
 
 #### Cắt tử cung
 
-Người bệnh ≥ 40 tuổi, đủ con, có chẩn đoán thai trứng nguy cơ cao.
+Người bệnh ≥40 tuổi, đủ con, có chẩn đoán thai trứng nguy cơ cao.
 
 Băng huyết hay không kiểm soát được tình trạng chảy máu nặng từ tử cung.
 
@@ -200,8 +200,8 @@ Ung thư nguyên bào nuôi (choriocarcinoma) dùng mô tả tân lập ác tín
 :::note[Tiêu chuẩn chẩn đoán theo FIGO 2002]
 Có ít nhất 1 trong những tiêu chuẩn sau (U nguyên bào nuôi nơi rau bám không xếp vào trong nhóm này):
 
-- β-hCG bình nguyên (± 10%) sau 4 lần đo trong ≥ 3 tuần (ngày 1, 7, 14, 21).
-- β-hCG tăng (> 10%) sau 3 lần đo liên tiếp trong ≥ 2 tuần (ngày 1, 7, 14).
+- β-hCG bình nguyên (± 10%) sau 4 lần đo trong ≥3 tuần (ngày 1, 7, 14, 21).
+- β-hCG tăng (> 10%) sau 3 lần đo liên tiếp trong ≥2 tuần (ngày 1, 7, 14).
 - Có giải phẫu bệnh là choriocarcinoma.
 - β-hCG tồn tại sau 6 tháng theo dõi.
 
@@ -300,8 +300,8 @@ Phác đồ lặp lại mỗi 2 tuần. Lặp lại thêm 3-4 chu kỳ sau khi �
 :::caution[Lưu ý]
 Tiêu chuẩn để hóa trị:
 
-- Ngày 1 và 2: Bạch cầu ≥ 3000/$mm^3$, bạch cầu đa nhân trung tính ≥ 1500/$mm^3$.
-- Ngày 8. Bạch cầu ≥ 2000/$mm^3$, bạch cầu đa nhân trung tính ≥ 1000/$mm^3$.
+- Ngày 1 và 2: Bạch cầu ≥3000/$mm^3$, bạch cầu đa nhân trung tính ≥1500/$mm^3$.
+- Ngày 8. Bạch cầu ≥2000/$mm^3$, bạch cầu đa nhân trung tính ≥1000/$mm^3$.
 
 :::
 
@@ -380,8 +380,8 @@ Phẫu thuật cắt tử cung toàn phần. Nạo hạch (chủ-chậu) nếu c
 Chỉ định cắt tử cung toàn phần:
 
 - Chủ yếu cho người bệnh không muốn thêm con.
-- Tuổi ≥ 40.
-- Tuổi<40 mà có ≥ 3 con, hay không muốn có con.
+- Tuổi ≥40.
+- Tuổi<40 mà có ≥3 con, hay không muốn có con.
 - Băng huyết.
 - Vỡ nhân chorio.
 - Cầm máu khó khăn khi bóc nhân chorio.

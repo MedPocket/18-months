@@ -26,7 +26,7 @@ Tiền sử gia đình có người bị u xơ tử cung.
 
 Yếu tố di truyền như 1 số gen (MED12, HMGA2, CYP1A1 và CYP1B1) và các bất thường nhiễm sắc thể (trisomy 12, đảo đoạn 12q, 6p, 10q, 13q và mất đoạn 7q, 3q, 1p).
 
-Khoảng cách giữa 2 lần sinh con ≥ 5 năm.
+Khoảng cách giữa 2 lần sinh con ≥5 năm.
 
 Giai đoạn tiền mãn kinh có nguy cơ ư xơ cao hơn 10 lần mãn kinh.
 
@@ -455,7 +455,7 @@ Chỉ định:
 
 Phương pháp:
 
-- Phẫu thuật nội soi ổ bụng cắt tử cung khi kích thước ≤ 16 tuần.
+- Phẫu thuật nội soi ổ bụng cắt tử cung khi kích thước ≤16 tuần.
 - Phẫu thuật mở bụng cắt u xơ khi u xơ quá lớn, lan tỏa, nhiều nhân xơ hoặc chống chỉ định cắt tử cung đường âm đạo hoặc nội soi.
 - Phẫu thuật cắt tử cung đường âm đạo, hiện nay được chỉ định hạn chế cần cân nhắc nguy cơ và biến chứng.
 

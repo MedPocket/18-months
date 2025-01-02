@@ -45,7 +45,7 @@ Ta thường gặp tăng sinh nội mạc tử cung ở các nhóm có yếu t�
 
 Ung thư nội mạc tử cung là nguyên nhân của khoảng 5-10% các trường hợp xuất huyết tử cung bất thường sau mãn kinh. Tế bào ung thư xuất phát từ nội mạc tử cung (endometrial carcinoma). Ung thư nội mạc tử cung có các yếu tố nguy cơ sau:
 
-- Tuổi người phụ nữ ≥ 45 tuổi.
+- Tuổi người phụ nữ ≥45 tuổi.
 - Béo phì BMI>30 $kg/m^2$.
 - Chưa từng có thai.
 - Hội chứng buồng trứng đa nang.
@@ -84,7 +84,7 @@ Nội soi buồng tử cung cho phép nhìn trực tiếp buồng tử cung, cho
 
 Siêu âm qua đường âm đạo là tiếp cận sơ cấp, cho phép quyết định các chiến lược tiếp cận thứ cấp đi theo sau đó.
 
-Siêu âm qua đường âm đạo thường là siêu âm thang xám (grey-scale) thực hiện nhằm khảo sát độ dầy của nội mạc tử cung và các hình ảnh bất thường của nội mạc tử cung. Độ dầy nội mạc tử cung được xem như mốc quy chiếu để thực hiện các khảo sát không xâm lấn (SIS) hay xâm lấn khác (nội soi buồng tử cung). Tăng sinh nội mạc tử cung tạo ra vùng echo dày, đồng nhất, bờ nhẵn trong buồng tử cung, có độ dày ≥ 4mm (mãn kinh) và đầu chu kỳ kinh>9 mm.
+Siêu âm qua đường âm đạo thường là siêu âm thang xám (grey-scale) thực hiện nhằm khảo sát độ dầy của nội mạc tử cung và các hình ảnh bất thường của nội mạc tử cung. Độ dầy nội mạc tử cung được xem như mốc quy chiếu để thực hiện các khảo sát không xâm lấn (SIS) hay xâm lấn khác (nội soi buồng tử cung). Tăng sinh nội mạc tử cung tạo ra vùng echo dày, đồng nhất, bờ nhẵn trong buồng tử cung, có độ dày ≥4mm (mãn kinh) và đầu chu kỳ kinh>9 mm.
 
 Có thể phát hiện u nang buồng trứng, buồng trứng đa nang.
 

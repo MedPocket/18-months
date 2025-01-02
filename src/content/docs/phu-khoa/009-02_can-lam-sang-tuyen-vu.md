@@ -91,7 +91,7 @@ _MRI cung cấp các hình ảnh rất chi tiết về cấu trúc mô tuyến v
 
 Được chỉ định khi:
 
-- BIRADS ≥ nhóm III.
+- BIRADS ≥nhóm III.
 - Nang vú không điển hình.
 - Tình huống lâm sàng cần chẩn đoán tế bào học hỗ trợ hoặc giảm áp nang vú.
 

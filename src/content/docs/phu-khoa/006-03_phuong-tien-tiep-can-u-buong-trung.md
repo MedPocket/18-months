@@ -58,7 +58,7 @@ O- RADS, hệ thống phân loại và xử trí các khối u buồng trứng d
 - O-RADS 4: Đề cập đến nhóm nguy cơ ác tính trung gian (10% đến <50% nguy cơ ác) bao gồm các mô tả có mức ước đoán ác tính cao. Nhóm gồm các nang đa thùy ≥ 10 cm, hoặc có thành trong hoặc vách không đều (phần đặc< 3mm chiều cao), nang đơn thùy và đa thùy bất kể kích thước có thành phần đặc hoặc CS 4, và sang thương đặc bờ trơn láng (>80% đặc) với CS 2-3. Cần chú ý rằng nhú là dạng của thành phần đặc với chiều cao từ 3mm trở lên xuất phát từ thành nang hoặc vách và nhô vào trong nang.
   ![O-RADS 4](../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-4a.png)
   ![O-RADS 4](../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-4b.png)
-- O-RADS 5: Nhóm nguy cơ ác tính cao (≥ 50% ác tính), bao gồm các mô tả mà độ ước đoán ác tính cao như sang thương đặc bờ không đều và nang đa thùy với thành phần đặc và có CS cao. Sự hiện diện của báng bụng và/hoặc nốt phúc mạc được xem là O-RADS 5 trừ khi có báng bụng liên quan với nang chức năng hoặc hầu như sang thương chắc chắn lành (xem O-RADS 2), khi đó các nguyên nhân khác gây báng bụng cần được xem xét.
+- O-RADS 5: Nhóm nguy cơ ác tính cao (≥50% ác tính), bao gồm các mô tả mà độ ước đoán ác tính cao như sang thương đặc bờ không đều và nang đa thùy với thành phần đặc và có CS cao. Sự hiện diện của báng bụng và/hoặc nốt phúc mạc được xem là O-RADS 5 trừ khi có báng bụng liên quan với nang chức năng hoặc hầu như sang thương chắc chắn lành (xem O-RADS 2), khi đó các nguyên nhân khác gây báng bụng cần được xem xét.
   ![O-RADS 5](../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-5.png)
 
 ![Phác đồ xử trí và phân loại O-RADS](../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-xu-tri-va-phan-loai.png)
@@ -161,7 +161,7 @@ LDH, steroid... được thực hiện chọn lọc.
 
 Đột biến gene BRCA1, BRCA2 làm mất khả năng sản xuất các protein bảo vệ và sửa chữa DNA. Đột biến các gene BRCA1, BRCA2 là khảo sát được khuyến cáo cho các đối tượng có nguy cơ có liên quan đến ung thư vú, ung thư buồng trứng. Không phải mọi người đều phải khảo sát đột biến BRCA. Khảo sát đột biến BRCA thường được chỉ định khi có tiền căn gia đình gợi ý:
 
-- Có ≥ 3 người trong gia đình được chẩn đoán ung thư vú hoặc ung thư buồng trứng, trong đó có 1 người dưới 50 tuổi.
+- Có ≥3 người trong gia đình được chẩn đoán ung thư vú hoặc ung thư buồng trứng, trong đó có 1 người dưới 50 tuổi.
 - Có 2 người trong gia đình thế hệ thứ nhất hoặc thế hệ thứ hai bị ung thư vú hoặc ung thư buồng trứng.
 - Có người trong gia đình bị ung thư vú nam giới.
 - Bệnh nhân được chẩn đoán ung thư trước 50 tuổi.

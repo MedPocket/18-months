@@ -77,16 +77,16 @@ Các bé gái được đánh giá vô kinh nguyên phát nếu không có kinh 
 
 Các bé gái và phụ nữ trong độ tuổi sinh đẻ nên được đánh giá về tình trạng vô kinh thứ phát nếu trước đó họ có kinh nguyệt và có:
 
-- Mất chu kỳ kinh nguyệt ≥ 3 tháng nếu trước đây họ có chu kỳ kinh nguyệt đều hoặc ≥ 6 tháng nếu trước đó họ có chu kỳ kinh nguyệt không đều.
+- Mất chu kỳ kinh nguyệt ≥3 tháng nếu trước đây họ có chu kỳ kinh nguyệt đều hoặc ≥6 tháng nếu trước đó họ có chu kỳ kinh nguyệt không đều.
 -<9 kỳ kinh/năm hoặc chu kỳ dài>38 ngày (thiểu kinh).
 - Thay đổi kiểu kinh nguyệt mới và liên tục (tần suất, khối lượng, thời lượng).
 
 Tiền sử bệnh hiện tại bao gồm các câu hỏi về chức năng kinh nguyệt:
 
 - Ngày đầu tiên của kỳ kinh nguyệt cuối cùng.
-- Tần số chu kỳ (bình thường ≥ 24 đến ≤ 38 ngày).
-- Chu kỳ đều đặn trong 3 đến 12 tháng qua và liệu các chu kỳ có đều đặn không (bình thường ≤ 7 đến 9 ngày).
-- Thời gian chảy máu (bình thường ≤ 8 ngày ra máu mỗi chu kỳ).
+- Tần số chu kỳ (bình thường ≥24 đến ≤38 ngày).
+- Chu kỳ đều đặn trong 3 đến 12 tháng qua và liệu các chu kỳ có đều đặn không (bình thường ≤7 đến 9 ngày).
+- Thời gian chảy máu (bình thường ≤8 ngày ra máu mỗi chu kỳ).
 - Lượng máu ra. Về mặt lâm sàng, việc đo lường chính xác lượng máu ra là không khả thi. Đánh giá lượng máu ra dựa trên mô tả của bệnh nhân (nhẹ, bình thường, nặng). Đôi khi ước tính bằng cách hỏi xem có bao nhiêu miếng băng vệ sinh hoặc nút vệ sinh thấm đẫm theo thời gian (có khả năng là ra máu nhiều nếu bệnh nhân thấm đẫm 1 miếng băng vệ sinh hoặc nút vệ sinh trong vòng từ 3 tiếng trở xuống và/hoặc nếu họ ra cục máu đông có đường kính lớn hơn 2.5 cm).
 
 Các câu hỏi về các triệu chứng hoặc yếu tố liên quan bao gồm:

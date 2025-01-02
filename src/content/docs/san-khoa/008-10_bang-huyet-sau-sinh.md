@@ -8,7 +8,7 @@ description: Băng huyết sau sinh.
 ## Băng huyết sau sinh
 
 :::note[Định nghĩa băng huyết sau sinh]
-Băng huyết sau sinh được định nghĩa là chảy máu ≥ 500 mL, trong vòng 24h sau sổ thai, từ bất kỳ nơi nào trên đường sinh.
+Băng huyết sau sinh được định nghĩa là chảy máu ≥500 mL, trong vòng 24h sau sổ thai, từ bất kỳ nơi nào trên đường sinh.
 :::
 
 Bất kể nguyên nhân, tốc độ mất máu trong băng huyết sau sinh là rất nhanh. Tình trạng mất máu có thể lên đến vài trăm mL mỗi phút, và tổng lượng mất máu trong vòng vàih có thể lên đến nhiều nghìn mL. Đây là tình trạng mất máu cấp với hệ quả trước tiên và chết người là choáng giảm thể tích. Đi sau choáng giảm thể tích, việc mất lượng lớn huyết cầu sẽ dẫn đến những vấn đề liên quan đến thiếu oxy mô.

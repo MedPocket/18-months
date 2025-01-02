@@ -7,7 +7,7 @@ Hội chứng buồng trứng đa nang (PCOS - Polycystic Ovary Syndrome) là r�
 
 ## Định nghĩa
 
-Buồng trứng đa nang trên siêu âm là buồng trứng có sự hiện diện của ≥ 12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL).
+Buồng trứng đa nang trên siêu âm là buồng trứng có sự hiện diện của ≥12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL).
 
 Hội chứng buồng trứng đa nang là tập hợp các triệu chứng liên quan đến hội chứng như rối loạn phóng noãn, cường androgen, buồng trứng đa nang trên siêu âm.
 
@@ -50,7 +50,7 @@ Công thức tính FTI như sau: FTI = Testosterone toàn phần / SHBG x 100 (S
 
 ### Hình ảnh buồng trứng đa nang
 
-Hình ảnh buồng trứng đa nang được xem là 1 trong những tiêu chuẩn để chẩn đoán hội chứng buồng trứng đa nang. Dựa trên các bằng chứng y học hiện có, tiêu chuẩn siêu âm sau đây được xem là "sự hiện diện của ≥ 12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL)".
+Hình ảnh buồng trứng đa nang được xem là 1 trong những tiêu chuẩn để chẩn đoán hội chứng buồng trứng đa nang. Dựa trên các bằng chứng y học hiện có, tiêu chuẩn siêu âm sau đây được xem là "sự hiện diện của ≥12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL)".
 
 :::caution[Lưu ý]
 Khi siêu âm đánh giá hình ảnh buồng trứng đa nang:
@@ -79,9 +79,9 @@ Có 3 trong 5 tiêu chuẩn
 | Yếu tố nguy cơ                                           | Ngưỡng bất thường                                 |
 | -------------------------------------------------------- | ------------------------------------------------- |
 | 1. Béo phì ở bụng (đo vòng eo)                           |>80cm                                            |
-| 2. Triglycerides                                         | ≥ 150 mg/dL                                       |
+| 2. Triglycerides                                         | ≥150 mg/dL                                       |
 | 3. HDL–C                                                 |<50 mg/dL                                        |
-| 4. Huyết áp                                              | ≥ 130 / ≥ 85 mmHg                                 |
+| 4. Huyết áp                                              | ≥130 / ≥85 mmHg                                 |
 | 5. Đường huyết lúc đói và 2h sau làm test dung nạp đường | 110-126 mg/dL và/hay glucose sau 2h 140-199 mg/dL |
 
 :::

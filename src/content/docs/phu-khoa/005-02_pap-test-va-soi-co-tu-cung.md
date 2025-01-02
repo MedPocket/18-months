@@ -90,7 +90,7 @@ Kết quả tầm soát âm tính khi không có bằng chứng về mặt tế 
 
 #### Khác
 
-Ở phụ nữ ≥ 45 tuổi, phải báo cáo về hình thái tế bào học lành tính của tế bào nội mạc tử cung.
+Ở phụ nữ ≥45 tuổi, phải báo cáo về hình thái tế bào học lành tính của tế bào nội mạc tử cung.
 
 #### Bất thường tế bào biểu mô
 
