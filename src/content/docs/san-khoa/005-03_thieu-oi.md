@@ -44,8 +44,8 @@ Chủ yếu dựa trên siêu âm. Trên lâm sàng có thể thấy bề cao t�
 :::note[Tiêu chuẩn chẩn đoán thiểu ối]
 Siêu âm:
 
-- Chỉ số ối (Amniotic fluid index - AFI) ≤ 5cm hoặc xoang ối lớn nhất (Single deepest pocket measurement - SDP) ≤ 2 cm.
-- SDP ≤ 1 cm là thiểu ối nặng. Tương đương AFI ≤ 3 cm.
+- Chỉ số ối (Amniotic fluid index - AFI) ≤5cm hoặc xoang ối lớn nhất (Single deepest pocket measurement - SDP) ≤2 cm.
+- SDP ≤1 cm là thiểu ối nặng. Tương đương AFI ≤3 cm.
 
 :::
 
@@ -81,10 +81,10 @@ Tư vấn tình trạng thai.
 
 Chỉ định chấm dứt thai kỳ:
 
-- SDP ≤ 1 cm.
-  - ≥ 34 tuần: Mổ lấy thai.
+- SDP ≤1 cm.
+  - ≥34 tuần: Mổ lấy thai.
   - &lt; 34 tuần: Điều trị mong đợi.
-- 1 &lt; SDP ≤ 2 cm: Thai 37 tuần sinh thường hoặc mổ lấy thai.
+- 1 &lt; SDP ≤2 cm: Thai 37 tuần sinh thường hoặc mổ lấy thai.
 
 Liệu pháp Corticosteroids:
 

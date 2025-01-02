@@ -91,7 +91,7 @@ Ngay sau khi sinh, trẻ cần được chăm sóc theo 3 bước:
 
 Các bước này nên thực hiện trong vòng phút đầu tiên của cuộc sống. Ít có khả năng sống sót khi chỉ số Apgar là 0 vào phút thứ 10.
 
-Tiêu chuẩn đánh giá kết quả hồi sức tốt bao gồm tiêu chuẩn lâm sàng và xét nghiệm sinh hóa. Các tiêu chuẩn lâm sàng đánh giá hiệu quả của hồi sức gồm trẻ tự thở đều và sâu, hết tím tái, nhịp tim đều và rõ trên 100 lần/phút, các phản xạ thần kinh hành não tốt, trương lực cơ bình thường. Các tiêu chuẩn sinh hóa gồm ổn định được tình trạng toan chuyển hóa, với pH máu ≥ 7.3, $PaCO_2$<40 mmHg, $PaO_2$ = 60-70 mmHg.
+Tiêu chuẩn đánh giá kết quả hồi sức tốt bao gồm tiêu chuẩn lâm sàng và xét nghiệm sinh hóa. Các tiêu chuẩn lâm sàng đánh giá hiệu quả của hồi sức gồm trẻ tự thở đều và sâu, hết tím tái, nhịp tim đều và rõ trên 100 lần/phút, các phản xạ thần kinh hành não tốt, trương lực cơ bình thường. Các tiêu chuẩn sinh hóa gồm ổn định được tình trạng toan chuyển hóa, với pH máu ≥7.3, $PaCO_2$<40 mmHg, $PaO_2$ = 60-70 mmHg.
 
 ## Lưu đồ hồi sức sơ sinh
 

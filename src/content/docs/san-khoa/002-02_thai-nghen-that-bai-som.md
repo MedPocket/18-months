@@ -24,23 +24,23 @@ Triệu chứng lâm sàng nói chung của thai nghén thất bại sớm thư�
 :::note[Tiêu chuẩn chẩn đoán thai nghén thất bại sớm theo The Society of Radiologists in Ultrasound Multispecialty Panel]
 Khuyến cáo các phát hiện chẩn đoán thai kỳ thất bại khi siêu âm qua đường âm đạo bao ít nhất 1 trong các tiêu chuẩn sau:
 
-1. Chiều dài từ đỉnh đầu đến mông (CRL) ≥ 7mm mà không có tim thai.
-2. Đường kính túi trung bình (MSD) ≥ 25 mm mà không có phôi.
-3. Không có phôi có nhịp tim ≥ 14 ngày sau khi siêu âm cho thấy túi thai không có túi noãn hoàng (york-sac).
-4. Không có phôi có nhịp tim ≥ 11 ngày sau khi siêu âm cho thấy túi thai có túi noãn hoàng.
+1. Chiều dài từ đỉnh đầu đến mông (CRL) ≥7mm mà không có tim thai.
+2. Đường kính túi trung bình (MSD) ≥25 mm mà không có phôi.
+3. Không có phôi có nhịp tim ≥14 ngày sau khi siêu âm cho thấy túi thai không có túi noãn hoàng (york-sac).
+4. Không có phôi có nhịp tim ≥11 ngày sau khi siêu âm cho thấy túi thai có túi noãn hoàng.
 
 :::
 
-Tiêu chuẩn rõ ràng nhất là CRL ≥ 7 mm và không thấy hoạt động tim thai. Không được kết luận thai nghén thất bại sớm khi
+Tiêu chuẩn rõ ràng nhất là CRL ≥7 mm và không thấy hoạt động tim thai. Không được kết luận thai nghén thất bại sớm khi
 không thấy hoạt động tim thai nhưng CRL chưa đủ 7 mm.
 
 ![Thai ngưng phát triển](../../../assets/san-khoa/thai-nghen-that-bai-som/thai-ngung-phat-trien.png)
-_Thai ngưng phát triển được xác định khi siêu âm có hình ảnh túi thai, bên trong có phôi thai với CRL ≥ 7 mm không hoạt động tim phôi. Hoạt động tim thai phải được xác nhận bằng phổ Doppler (phía dưới)._
+_Thai ngưng phát triển được xác định khi siêu âm có hình ảnh túi thai, bên trong có phôi thai với CRL ≥7 mm không hoạt động tim phôi. Hoạt động tim thai phải được xác nhận bằng phổ Doppler (phía dưới)._
 
 So với tiêu chuẩn theo CRL, thì tiêu chuẩn dùng để xác định trứng trống là kém rõ ràng hơn. Trong 1 thai kỳ bình thường, chỉ quan sát thấy hình ảnh của yolk-sac và của phôi vài ngày sau khi thấy hình ảnh túi thai. Do đó, hiện diện của túi thai chưa có yolk-sac hay phôi là chưa đủ mạnh để xác lập chẩn đoán trứng trống. Phải có thêm các tiêu chuẩn để hạn chế sai sót trong chẩn đoán trứng không phôi. Không được kết luận trứng trống khi không thấy hiện diện của cả yolk-sac lẫn phôi thai nhưng MSD chưa đủ 25 mm.
 
 ![Trứng trống](../../../assets/san-khoa/thai-nghen-that-bai-som/trung-trong.png)
-_Trứng trống (trứng không phôi) (blighted ovum).<br>Chẩn đoán trứng trống được xác lập khi không thấy hiện diện của cả yolk-sac lẫn phôi thai khi MSD đã đạt được kích thước ≥ 25 mm._
+_Trứng trống (trứng không phôi) (blighted ovum).<br>Chẩn đoán trứng trống được xác lập khi không thấy hiện diện của cả yolk-sac lẫn phôi thai khi MSD đã đạt được kích thước ≥25 mm._
 
 Các tình huống khác nhau có thể thấy:
 
@@ -74,8 +74,8 @@ Thuật ngữ thai lưu là thuật ngữ thể hiện sự lưu lại trong bu�
 
 Siêu âm xác nhận thai lưu khi:
 
-1. CRL ≥ 7 mm và không thấy hoạt động tim thai.
-2. MSD ≥ 25 mm và không thấy phôi thai.
+1. CRL ≥7 mm và không thấy hoạt động tim thai.
+2. MSD ≥25 mm và không thấy phôi thai.
 3. Không thấy phôi sau 14 ngày mà trước đó đã được siêu âm xác nhận đã có túi thai không có yolk-sac.
 4. Xác nhận tình trạng không có hoạt động tim thai sau 1 loạt siêu âm (ít nhất 2 lần, cách nhau 7-10 ngày).
 

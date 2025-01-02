@@ -13,7 +13,7 @@ Theo Liên đoàn các nhà Sản Phụ khoa Thế giới (FIGO), HIP (hypergylc
 
 Đái tháo đường type 2 đặc trưng bởi tình trạng thiếu insulin tương đối kèm đề kháng insulin ngoại biên.
 
-Tiền Đái tháo đường là tình trạng rối loạn chuyển hóa glucose bao gồm rối loạn glucose lúc đói (Impaired Fasting Glucose - IFG), rối loạn dung nạp glucose (Impaired Glucose Tolerance - IGT) và giá trị HbA1c từ 5,7 - 6,4%.
+Tiền đái tháo đường là tình trạng rối loạn chuyển hóa glucose bao gồm rối loạn glucose lúc đói (Impaired Fasting Glucose - IFG), rối loạn dung nạp glucose (Impaired Glucose Tolerance - IGT) và giá trị HbA1c từ 5,7 - 6,4%.
 
 Đái tháo đường mang thai, hay còn gọi là đái tháo đường rõ (overt diabetes) có mức glucose huyết tương đạt mức chẩn đoán đái tháo đường tiêu chuẩn (WHO, 2006), trong khi đái tháo đường thai kỳ có mức glucose huyết tương thấp hơn.
 
@@ -25,9 +25,7 @@ HIP được chia làm 2 nhóm lớn:
 
 1. Đái tháo đường mang thai (diabetes in pregnancy - DIP):
 
-- Đái tháo đường lần đầu được chẩn đoán trong thai kỳ.
-  <br>hoặc<br>
-- Đường huyết cao được chẩn đoán lần đầu trong thai kỳ và thoả các tiêu chuẩn chẩn đoán đái tháo đường ở người không mang thai của WHO.
+- Đái tháo đường lần đầu được chẩn đoán trong thai kỳ hoặc đường huyết cao được chẩn đoán lần đầu trong thai kỳ và thoả các tiêu chuẩn chẩn đoán đái tháo đường ở người không mang thai của WHO.
 - Có thể phát hiện ở bất kỳ thời điểm nào trong thai kỳ kể cả ở tam cá nguyệt 1.
 
 2. Đái tháo đường thai kỳ (gestational diabetes mellitus - GDM):
@@ -109,7 +107,7 @@ Nhóm thai phụ có nguy cơ cao cần được xét nghiệm glucose huyết t
 - Bình thường:
 
   - Glucose huyết tương tĩnh mạch khi đói 70 - 90 mg/dL (3,9-5,0 mmol/L).
-  - Glucose huyết tương tĩnh mạch bất kỳ ≤ 199 mg/dL (11 mmol/L).
+  - Glucose huyết tương tĩnh mạch bất kỳ ≤199 mg/dL (11 mmol/L).
   - Nhóm này cũng vẫn thực hiện xét nghiệm sàng lọc khi 24-28 tuần.
 
 - Nghi ngờ:
@@ -288,9 +286,29 @@ Chấm dứt thai kỳ nên xem xét theo từng trường hợp cụ thể, c�
 
 ### Theo dõi trong và chuyển dạ
 
-Mức đường huyết được cho là hợp lý trong quá trình chuyển dạ là từ >70 và <126 mg/dL (> 3.9 và <7 mmol/L), vì ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những thai phụ cần điều trị insulin.
+#### Trong cuộc chuyển dạ
 
-Mức đường huyết trong chuyển dạ >140 đến 180 mg/dL (7.8 đến 10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm ketone acid ở mẹ.
+Cần kiểm soát glucose mao mạch mẹ trong suốt cuộc chuyển dạ và sinh (tốt nhất dao động từ 70-100 mg/dl hay 3.9-5.6 mmol/l). Ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những thai phụ cần điều trị insulin. Mức đường huyết trong chuyển dạ >140 đến 180 mg/dL (7.8 đến 10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm ketone acid ở mẹ.
+
+Nếu thai phụ không dùng insulin, theo dõi glucose huyết tương mao mạch 4-6 giờ/lần.
+
+Nếu thai phụ dùng insulin theo dõi, glucose mao mạch 1-2 giờ/lần hoặc theo chỉ định của chuyên khoa Nội tiết.
+
+Theo dõi các yếu tố chuyển dạ.
+
+Sau sổ nhau, nếu đang dùng insulin phải cân nhắc giảm liều thích hợp vì sau khi lấy hết bánh rau, mất hiện tượng kháng insulin có thể gây hạ glucose máu. Theo dõi chặt chỉ số đường huyết để điều chỉnh thuốc cho phù hợp.
+
+Theo dõi sát trẻ sơ sinh trong vòng 3 ngày đầu sau sinh để phát hiện và xử trí kịp thời các biến chứng như: hạ glucose huyết, hạ calci, đa hồng cầu, tăng bilirubin máu, hội chứng suy hô hấp cấp chu sinh, nhiễm khuẩn sơ sinh.
+
+Cho trẻ tiếp xúc da kề da với mẹ ít nhất ngày đầu sau sinh, hướng dẫn sản phụ cho trẻ bú sớm ngay trong vòng 1h đầu sau sinh.
+
+#### Theo dõi sau sinh
+
+Nếu đang dùng insulin, cần giảm liều.
+
+Tư vấn về các biện pháp tránh thai như sử dụng bao cao su, dụng cụ tử cung, viên thuốc ngừa thai kết hợp hàm lượng thấp.
+
+Cần thực hiện Đánh giá chuyển hóa glucose sau sinh cho các phụ nữ có ĐTĐTK 4-12 tuần: làm lại nghiệm pháp dung nạp 75 gram glucose uống-2h, nếu kết quả bình thường, tầm soát định kỳ 1 năm/lần, nếu kết quả xét nghiệm bất thường giới thiệu sản phụ khám chuyên khoa Nội tiết.
 
 ![Khuyến cáo về chấm dứt thai kỳ](../../../assets/san-khoa/dai-thao-duong-thai-ky/khuyen-cao-ve-cham-dut-thai-ky.png)
 

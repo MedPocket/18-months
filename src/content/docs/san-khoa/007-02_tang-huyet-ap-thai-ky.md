@@ -64,7 +64,7 @@ Tiền sản giật được phân loại thành tiền sản giật không có 
 
 Dấu hiệu nặng của tiền sản giật (bất kỳ dấu hiệu nào):
 
-1. Huyết áp tâm thu ≥ 160 mmHg hoặc huyết áp tâm trương ≥ 110 mmHg qua 2 lần đo cách nhau ít nhất 4h khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
+1. Huyết áp tâm thu ≥160 mmHg hoặc huyết áp tâm trương ≥110 mmHg qua 2 lần đo cách nhau ít nhất 4h khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
 2. Giảm tiểu cầu: tiểu cầu <100,000/µL.
 3. Suy giảm chức năng gan: men gan tăng (gấp đôi so với bình thường), đau nhiều ở hạ sườn phải hoặc đau thượng vị không đáp ứng với thuốc và không có nguyên nhân khác.
 4. Suy thận tiến triển (creatinine huyết thanh>1.1 mg/dL hoặc gấp đôi nồng độ creatinine huyết thanh bình thường mà không do bệnh lý thận khác).
@@ -392,8 +392,8 @@ Mục tiêu: Giữ cho huyết áp ổn định ở mức 140-150/90-100 mmHg ch
 
 Chỉ định:
 
-- Huyết áp tâm thu ≥ 150 mmHg
-- hoặc Huyết áp tâm trương ≥ 100 mmHg
+- Huyết áp tâm thu ≥150 mmHg
+- hoặc Huyết áp tâm trương ≥100 mmHg
 
 Huyết áp đạt sau điều trị:
 
