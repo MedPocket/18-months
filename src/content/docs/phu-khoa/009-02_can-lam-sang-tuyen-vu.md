@@ -99,7 +99,7 @@ _MRI cung cấp các hình ảnh rất chi tiết về cấu trúc mô tuyến v
 
 Chỉ định khi:
 
-- Tổn thương dạng đặc cần chẩn đoán mô học, kích thước > 15 mm.
+- Tổn thương dạng đặc cần chẩn đoán mô học, kích thước>15 mm.
 - Khi FNA nghi ngờ ác tính.
 - Tình huống lâm sàng cần chẩn đoán mô học hỗ trợ.
 

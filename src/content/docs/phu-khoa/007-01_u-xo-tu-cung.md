@@ -365,7 +365,7 @@ So với GnRHa, liệu pháp với UPA ít tác dụng phụ hơn như đau đ�
 :::caution[Lưu ý]
 Thực hiện xét nghiệm chức năng gan:
 
-- Trước khi điều trị, nếu AST và ALT tăng > 2 lần giá trị bình thường, không chỉ định UPA.
+- Trước khi điều trị, nếu AST và ALT tăng>2 lần giá trị bình thường, không chỉ định UPA.
 - Trong 2 đợt điều trị đầu, xét nghiệm 1 lần/tháng.
 - Trước khi điều trị đợt tiếp hoặc khi có triệu chứng lâm sàng.
 - Sau 2-4 tuần kết thúc mỗi đợt điều trị.
@@ -438,8 +438,8 @@ Chỉ định:
 
 Phương pháp bóc:
 
-- Phẫu thuật nội soi buồng tử cung các trường hợp u xơ dưới niêm mạc L0, L1, L2 có biến chứng gây xuất huyết nặng, vô sinh, sảy thai liên tiếp và kích thước < 5 cm.
-- Phẫu thuật nội soi ổ bụng bóc u xơ tử cung với u xơ dưới thanh mạc, trong cơ có biến chứng, kích thước < 10 cm (tùy kinh nghiệm phẫu thuật viên).
+- Phẫu thuật nội soi buồng tử cung các trường hợp u xơ dưới niêm mạc L0, L1, L2 có biến chứng gây xuất huyết nặng, vô sinh, sảy thai liên tiếp và kích thước<5 cm.
+- Phẫu thuật nội soi ổ bụng bóc u xơ tử cung với u xơ dưới thanh mạc, trong cơ có biến chứng, kích thước<10 cm (tùy kinh nghiệm phẫu thuật viên).
 - Phẫu thuật mở bụng bóc u xơ.
 
 #### Cắt tử cung
@@ -451,7 +451,7 @@ Chỉ định:
 - Trong khi bóc mà không kiểm soát được chảy máu.
 - Phụ nữ lớn tuổi và đủ con.
 - Bệnh lý kèm theo như bệnh tuyến cơ tử cung hoặc bệnh lý cổ tử cung.
-- Nên cắt 2 buồng trứng nếu bệnh nhân > 50 tuổi (cần tư vấn cho bệnh nhân).
+- Nên cắt 2 buồng trứng nếu bệnh nhân>50 tuổi (cần tư vấn cho bệnh nhân).
 
 Phương pháp:
 
@@ -503,11 +503,11 @@ Quyết định can thiệp tùy theo vị trí, kích thước và qus trình �
 
 - U dưới niêm mạc (FIGO L0-1-2) gây biến dạng lòng tử cung làm giảm khả năng có thai:
   - FIGO L0-1-2 nội soi buồng tử cung bóc u xơ dưới niêm mạc trước khi điều trị hỗ trợ sinh sản.
-  - FIGO L2, nếu kích thước > 3 cm, nội soi buồng bóc u xơ.
+  - FIGO L2, nếu kích thước>3 cm, nội soi buồng bóc u xơ.
   - Cần tư vấn cho bệnh nhân nguy cơ tổn thường tử cung, dính lòng tử cung trước khi phẫu thuật.
 - U xơ trong cơ tử cung (FIGO L3-5) nếu có:
   - Thất bại chuyển phôi nhiều chu kỳ thụ tinh ống nghiệm mặc dù phôi tốt hay kết cục thai kỳ xấu (sảy thai, sinh non): bóc u xơ (nội soi hay mổ mở).
-  - U xơ có kích thước to, vị trí cản trở quá trình chọc hút thụ tinh ống nghiệm có thể được xem xét bóc u xơ trước khi điều trị. Nếu vị trí không cản trở chọc hút trưng và người bệnh > 35 tuổi, cân nhắc kích thích buồng trứng, tạo phôi, trữ phôi rồi bóc u xơ, chờ 1 năm chuyển phôi.
+  - U xơ có kích thước to, vị trí cản trở quá trình chọc hút thụ tinh ống nghiệm có thể được xem xét bóc u xơ trước khi điều trị. Nếu vị trí không cản trở chọc hút trưng và người bệnh>35 tuổi, cân nhắc kích thích buồng trứng, tạo phôi, trữ phôi rồi bóc u xơ, chờ 1 năm chuyển phôi.
 
 ## Bệnh lý ác tính thân tử cung
 

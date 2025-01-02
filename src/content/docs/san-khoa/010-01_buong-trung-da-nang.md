@@ -28,7 +28,7 @@ Hội chứng buồng trứng đa nang được chẩn đoán khi người bện
 
 ### Rối loạn phóng noãn
 
-Rối loạn phóng noãn được chẩn đoán trên lâm sàng thông qua các biểu hiện của rối loạn kinh nguyệt. Rối loạn kinh nguyệt thường theo kiểu kinh thưa (chu kỳ kinh nguyệt > 35 ngày hay có kinh < 8 lần/năm) hay vô kinh (không có kinh > 6 tháng).
+Rối loạn phóng noãn được chẩn đoán trên lâm sàng thông qua các biểu hiện của rối loạn kinh nguyệt. Rối loạn kinh nguyệt thường theo kiểu kinh thưa (chu kỳ kinh nguyệt>35 ngày hay có kinh<8 lần/năm) hay vô kinh (không có kinh>6 tháng).
 
 ### Cường androgen
 
@@ -40,11 +40,11 @@ Mụn trứng cá cũng được xem là 1 dấu hiệu của cường androgen,
 
 Hói đầu kiểu nam giới cũng là 1 chỉ điểm của cường androgen, nhưng lại được nghiên cứu ít hơn các dấu hiệu khác. Ngoài ra, hói đầu đơn thuần có vẻ không đủ mạnh để chẩn đoán cường androgen, ngoại trừ ở các người bệnh có rối loạn phóng noãn.
 
-Béo phì cũng là 1 biểu hiện lâm sàng của cường androgen, thường được đề cập ở người mắc hội chứng buồng trứng đa nang, nhất là ở khu vực Châu Âu và Mỹ. Béo phì ở người bị hội chứng buồng trứng đa nang thường theo kiểu trung tâm, được đánh giá bằng cách sử dụng chỉ số khối cơ thể (Body Mass Index - BMI), chỉ số vòng bụng hay tỉ số eo hông (Waist-hip ratio - WHR). BMI > 23 $kg/m^2$ được chẩn đoán thừa cân và > 25 $kg/m^2$ được chẩn đoán béo phì. WHR > 0.82-0.85 hay chỉ số vòng bụng > 80cm được xem là béo phì kiểu trung tâm (WHO, 2000).
+Béo phì cũng là 1 biểu hiện lâm sàng của cường androgen, thường được đề cập ở người mắc hội chứng buồng trứng đa nang, nhất là ở khu vực Châu Âu và Mỹ. Béo phì ở người bị hội chứng buồng trứng đa nang thường theo kiểu trung tâm, được đánh giá bằng cách sử dụng chỉ số khối cơ thể (Body Mass Index - BMI), chỉ số vòng bụng hay tỉ số eo hông (Waist-hip ratio - WHR). BMI>23 $kg/m^2$ được chẩn đoán thừa cân và>25 $kg/m^2$ được chẩn đoán béo phì. WHR>0.82-0.85 hay chỉ số vòng bụng>80cm được xem là béo phì kiểu trung tâm (WHO, 2000).
 
 #### Cận lâm sàng
 
-Chẩn đoán cường androgen trên cận lâm sàng được thực hiện bằng cách định lượng testosterone trong máu. Định lượng testosterone tự do có giá trị dự báo cao hơn, nhưng có nhiều khó khăn trong phương pháp định lượng trực tiếp testosterone tự do. Do đó, hiện nay, chỉ số testosterone tự do (Free Testosterone Index - FTI) được khuyến cáo sử dụng để chẩn đoán cường androgen. FTI > 6 được chẩn đoán là cường androgen.
+Chẩn đoán cường androgen trên cận lâm sàng được thực hiện bằng cách định lượng testosterone trong máu. Định lượng testosterone tự do có giá trị dự báo cao hơn, nhưng có nhiều khó khăn trong phương pháp định lượng trực tiếp testosterone tự do. Do đó, hiện nay, chỉ số testosterone tự do (Free Testosterone Index - FTI) được khuyến cáo sử dụng để chẩn đoán cường androgen. FTI>6 được chẩn đoán là cường androgen.
 
 Công thức tính FTI như sau: FTI = Testosterone toàn phần / SHBG x 100 (SHBG - Sex Hormone Binding Globulin).
 
@@ -57,7 +57,7 @@ Khi siêu âm đánh giá hình ảnh buồng trứng đa nang:
 
 1. Đặc điểm phân bố của các nang ở vùng ngoại vi buồng trứng, tăng thể tích và độ dày trên siêu âm của mô đệm buồng trứng không còn được quan tâm như trước đây. Chỉ 1 buồng trứng thỏa yêu cầu cũng đủ để chẩn đoán hình ảnh buồng trứng đa nang.
 2. Người phụ nữ không sử dụng thuốc ngừa thai, thuốc kích thích buồng trứng 3 tháng trước đó.
-3. Nếu có 1 nang > 10mm trên buồng trứng, thực hiện siêu âm lại vào chu kỳ sau.
+3. Nếu có 1 nang>10mm trên buồng trứng, thực hiện siêu âm lại vào chu kỳ sau.
 4. Thời điểm siêu âm vào ngày 3-5 ở những phụ nữ có chu kỳ kinh đều. Những phụ nữ có kinh thưa hay vô kinh có thể được siêu âm bất kỳ thời điểm nào hay vào ngày 3-5 sau khi gây ra huyết âm đạo bằng progestin.
 5. Thể tích buồng trứng được tính bằng (0.5 x chiều dài x chiều rộng x độ dày).
 6. Khi chỉ có hình ảnh buồng trứng đa nang trên siêu âm mà không có rối loạn phóng noãn hay triệu chứng cường androgen (buồng trứng đa nang "không triệu chứng") không nên được xem là có hội chứng buồng trứng đa nang cho đến khi có các biểu hiện lâm sàng khác.
@@ -78,9 +78,9 @@ Có 3 trong 5 tiêu chuẩn
 
 | Yếu tố nguy cơ                                           | Ngưỡng bất thường                                 |
 | -------------------------------------------------------- | ------------------------------------------------- |
-| 1. Béo phì ở bụng (đo vòng eo)                           | > 80cm                                            |
+| 1. Béo phì ở bụng (đo vòng eo)                           |>80cm                                            |
 | 2. Triglycerides                                         | ≥ 150 mg/dL                                       |
-| 3. HDL–C                                                 | < 50 mg/dL                                        |
+| 3. HDL–C                                                 |<50 mg/dL                                        |
 | 4. Huyết áp                                              | ≥ 130 / ≥ 85 mmHg                                 |
 | 5. Đường huyết lúc đói và 2h sau làm test dung nạp đường | 110-126 mg/dL và/hay glucose sau 2h 140-199 mg/dL |
 

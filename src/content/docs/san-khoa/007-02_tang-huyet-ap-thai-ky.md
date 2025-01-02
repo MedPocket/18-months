@@ -67,7 +67,7 @@ Dấu hiệu nặng của tiền sản giật (bất kỳ dấu hiệu nào):
 1. Huyết áp tâm thu ≥ 160 mmHg hoặc huyết áp tâm trương ≥ 110 mmHg qua 2 lần đo cách nhau ít nhất 4h khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
 2. Giảm tiểu cầu: tiểu cầu <100,000/µL.
 3. Suy giảm chức năng gan: men gan tăng (gấp đôi so với bình thường), đau nhiều ở hạ sườn phải hoặc đau thượng vị không đáp ứng với thuốc và không có nguyên nhân khác.
-4. Suy thận tiến triển (creatinine huyết thanh > 1.1 mg/dL hoặc gấp đôi nồng độ creatinine huyết thanh bình thường mà không do bệnh lý thận khác).
+4. Suy thận tiến triển (creatinine huyết thanh>1.1 mg/dL hoặc gấp đôi nồng độ creatinine huyết thanh bình thường mà không do bệnh lý thận khác).
 5. Phù phổi.
 6. Các triệu chứng của não và thị giác: rối loạn thị giác (hoa mắt, ám điểm, mù vỏ não, co thắt mạch máu võng mạc); nhức đầu nhiều, nhức đầu dai dẳng, tăng lên, không đáp ứng thuốc giảm đau, thay đổi tri giác.
 
@@ -105,9 +105,9 @@ Lâm sàng:
 
 Cận lâm sàng:
 
-- LDH > 600 IU/L.
-- Bilirubin toàn phần > 12 mg/dL.
-- AST > 70 IU/L.
+- LDH>600 IU/L.
+- Bilirubin toàn phần>12 mg/dL.
+- AST>70 IU/L.
 - Giảm Haptoglobin.
   :::
 
@@ -149,16 +149,16 @@ Tầm soát từ tuổi thai 11 tuần đến 13 tuần 6 ngày kết hợp vớ
   - Đái tháo đường type 1 hoặc type 2.
   - Lupus ban đỏ hệ thống.
   - Hội chứng kháng phospholipid.
-- Tiền căn sản khoa: Con so (không có lần nào sinh con tuổi thai > 24 tuần), hoặc con rạ (ít nhất 1 lần sinh con tuổi thai > 24 tuần).
+- Tiền căn sản khoa: Con so (không có lần nào sinh con tuổi thai>24 tuần), hoặc con rạ (ít nhất 1 lần sinh con tuổi thai>24 tuần).
 - Đo các chỉ số thai: Tuổi thai 11 tuần - 13 tuần 6 ngày (chiều dài đầu mông từ 45-84mm).
 - Đo huyết áp động mạch trung bình: $HADMTT= \frac{HAtthu + 2 x HAttr}{3}$
-- Tính nguy cơ tiền sản giật [dùng thuật toán của FMF (The Fetal Medicine Foundation)](https://fetalmedicine.org/research/assess/preeclampsia/first-trimester). Nguy cơ cao khi thuật toán xác định > 1/100.
+- Tính nguy cơ tiền sản giật [dùng thuật toán của FMF (The Fetal Medicine Foundation)](https://fetalmedicine.org/research/assess/preeclampsia/first-trimester). Nguy cơ cao khi thuật toán xác định>1/100.
 
 ### Dự phòng
 
 ![Bảng đánh giá nguy cơ](../../../assets/san-khoa/tang-huyet-ap-thai-ky/du-phong-tien-san-giat.png)
 
-WHO khuyến cáo dùng Aspirin liều thấp 81-162 mg/ngày, từ 1-2 viên (hàm lượng 81 mg) hoặc 1.5 gói hàm lượng 100 mg (uống trước khi đi ngủ, sau ăn 15-30 phút) để dự phòng tiền sản giật ở các phụ nữ có nguy cơ cao. Bắt đầu điều trị khi tính nguy cơ theo FMF > 1/100.
+WHO khuyến cáo dùng Aspirin liều thấp 81-162 mg/ngày, từ 1-2 viên (hàm lượng 81 mg) hoặc 1.5 gói hàm lượng 100 mg (uống trước khi đi ngủ, sau ăn 15-30 phút) để dự phòng tiền sản giật ở các phụ nữ có nguy cơ cao. Bắt đầu điều trị khi tính nguy cơ theo FMF>1/100.
 
 Theo ACOG, Aspirin nên được khởi động từ 12-28 tuần (tốt nhất trước 16 tuần) cho đến khi sinh.
 
@@ -183,7 +183,7 @@ Nhập viện và chấm dứt thai kỳ khi:
 - Thai &gt; 34 tuần và có bất kỳ triệu chứng sau:
   - Chuyển dạ hoặc vỡ ối.
   - Siêu âm ước lượng trọng lượng thai nhỏ hơn bách phân vị thứ 5.
-  - Thiểu ối AFI < 5 cm ở 2 lần siêu âm liên tiếp cách nhau 24h.
+  - Thiểu ối AFI<5 cm ở 2 lần siêu âm liên tiếp cách nhau 24h.
 
 Nếu chưa có chỉ định chấm dứt thai kỳ có thể theo dõi nội trú hoặc ngoại trú:
 
@@ -215,7 +215,7 @@ Chấm dứt thai kỳ khi tiền sản giật nặng xuất hiện trước 25 
 - Siêu âm Doppler động mạch rốn: mất hoặc đảo ngược sóng tâm trương.
 - Thai lưu.
 
-Điều trị mong đợi với thai < 34 tuần với tình trạng mẹ và thai ổn định, có thể tiếp tục theo dõi.
+Điều trị mong đợi với thai<34 tuần với tình trạng mẹ và thai ổn định, có thể tiếp tục theo dõi.
 
 Liệu pháp Corticosteroids trước sinh khi thai &lt; 34 tuần. Tuy nhiên không đợi đủ thời gian mà chấm dứt thai kỳ ngay khi:
 
@@ -232,10 +232,10 @@ Nếu tình trạng mẹ - thai ổn định, trong vòng 48h chấm dứt thai 
 
 - Vỡ ối.
 - Chuyển dạ.
-- Tiểu cầu < 100 G/L.
+- Tiểu cầu<100 G/L.
 - Men gan tăng kéo dài (&gt; 2 lần bình thường).
 - Thai chậm tăng trưởng trong tử cung (cân nặng nhỏ hơn bách phân vị thứ 5).
-- Thiểu ối (AFI < 5 cm) (siêu âm 2 lần cách nhau 24h).
+- Thiểu ối (AFI<5 cm) (siêu âm 2 lần cách nhau 24h).
 - Bắt đầu suy thận hoặc suy thận nặng thêm.
 
 ![Lưu đồ xử trí tiền sản giật khi có dấu hiệu nặng](../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
@@ -293,7 +293,7 @@ Mẹ:
 - Đột quỵ.
 - Nhồi máu cơ tim.
 - Hội chứng HELLP.
-- Suy giảm chức năng thận mới khởi phát hoặc trầm trọng hơn (nồng độ Creatinine/huyết thanh > 1.1 mg/dL hoặc tăng gấp đôi nồng độ Creatinine huyết thanh).
+- Suy giảm chức năng thận mới khởi phát hoặc trầm trọng hơn (nồng độ Creatinine/huyết thanh>1.1 mg/dL hoặc tăng gấp đôi nồng độ Creatinine huyết thanh).
 - Phù phổi.
 - Sản giật.
 - Nghi ngờ rau bong non hoặc huyết âm đạo nhiều ở những trường hợp có rau tiền đạo.
@@ -343,7 +343,7 @@ Cần đặt ống thông Foley để theo dõi chính xác lượng nước ti�
 
 Nếu mẹ có tăng huyết áp nhiều, thiểu niệu, dấu hiệu rối loạn về tim mạch thì nên cân nhắc đặt Catheter tĩnh mạch trung tâm.
 
-Theo dõi liên tục điện tim bằng monitor. Sản giật thường làm nhịp tim thai thay đổi thoáng qua, thường tự giới hạn trong vòng 15 phút. Dấu hiệu lo ngại là khi biến động tim thai kéo dài hơn 20 phút mà chưa hồi phục. Điều này thể hiện hệ đệm của thai đã cạn kiệt, không còn đủ khả năng đệm khi đã xảy ra toan hô hấp. Nhịp tim thai chậm kéo dài 3-5 phút thường trong và sau cơn giật, nếu kéo dài > 5 phút cần mổ lấy thai cấp cứu.
+Theo dõi liên tục điện tim bằng monitor. Sản giật thường làm nhịp tim thai thay đổi thoáng qua, thường tự giới hạn trong vòng 15 phút. Dấu hiệu lo ngại là khi biến động tim thai kéo dài hơn 20 phút mà chưa hồi phục. Điều này thể hiện hệ đệm của thai đã cạn kiệt, không còn đủ khả năng đệm khi đã xảy ra toan hô hấp. Nhịp tim thai chậm kéo dài 3-5 phút thường trong và sau cơn giật, nếu kéo dài>5 phút cần mổ lấy thai cấp cứu.
 
 Sản giật không phải chỉ định mổ lấy thai tuyệt đối, phương thức chấm dứt thai kỳ phụ thuộc vào tuổi thai, kiểu thế, tình trạng cổ tử cung, chỉ số Bishop,... Chỉ định chấm dứt thai kỳ thường phải được thực hiện trong vòng 12h sau khi kiểm soát được sản giật. Khởi phát chuyển dạ bằng Oxytocin nếu tình trạng cổ tử cung thuận lợi. Mổ lấy thai là biện pháp thích hợp, do tránh được stress do qua trình chuyển dạ và rút ngắn được thời gian nguy cơ xảy ra các cơn giật kế tiếp. Khi mổ có thể gây mê toàn thân hoặc gây tê ngoài màng cứng với điều kiện là không có rối loạn đông máu. Không được dùng Ergot Alkaloids (Ergometrin) để dự phòng hay điều trị băng huyết sau sinh trong tiền sản giật vì chúng làm tăng nguy cơ co giật và tai biến mạch máu não.
 
@@ -375,7 +375,7 @@ Liều dùng:
 - Theo dõi phản xạ gân xương, nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4h). Khi nồng độ $Mg^{2+}$ bắt đầu vượt ngưỡng điều trị, dấu hiệu mất phản xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cần theo dõi phản xạ gân xương bánh chè như 1 chỉ báo là nồng độ $Mg^{2+}$ đã vượt ngưỡng điều trị và cần phải ngưng ngay việc dùng thêm $MgSO_4$.
 - Đo nồng độ $MgSO_4$ huyết thanh khi cần thiết và điều chỉnh giữ nồng độ $MgSO_4$ 4-7 mEg/L (5-9 mg/dL; 2-3.5 mmol/L).
 - Người bệnh suy thận mức độ trung bình (Creatinine 1-1.5 mg/dL) hoặc thiểu niệu (< 30 mL nước tiểu/h trong 4h) sau khi dùng liều tấn công cần duy trì liều thấp 1 g/h.
-- Người suy thận cần định lượng $MgSO_4$ huyết thanh mỗi 4h, nếu $MgSO_4$ huyết thanh > 9.6 mg/dL (8 mEg/L) cần ngưng truyền và định lượng $MgSO_4$ mỗi 2h, tái dùng khi $MgSO_4$ < 8.4 mg/dL (7 mEq/L).
+- Người suy thận cần định lượng $MgSO_4$ huyết thanh mỗi 4h, nếu $MgSO_4$ huyết thanh>9.6 mg/dL (8 mEg/L) cần ngưng truyền và định lượng $MgSO_4$ mỗi 2h, tái dùng khi $MgSO_4$<8.4 mg/dL (7 mEq/L).
 - Khi có chỉ định $MgSO_4$ cần dùng trước, trong và duy trì tối thiểu 24h sau sinh/mổ, nếu chỉ định mổ lấy thai cần duy trì $MgSO_4$ trong lúc mổ.
 - Nguy cơ băng huyết sau sinh, giảm dao động nội tại tim thai.
 - Xử trí ngộ độc $MgSO_4$:
@@ -428,7 +428,7 @@ Thuốc lợi tiểu và thuốc ức chế men chuyển không được dùng �
 
 Thuốc lợi tiểu được dùng trong trường hợp tiền sản giật rất nặng với thiểu niệu/vô niệu/suy thận/phù phổi cấp, để cứu mẹ.
 
-Sử dụng thuốc lợi tiểu được đặt ra trong trường hợp thiểu niệu hoặc vô niệu (nước tiểu 24h < 800 mL, đặc biệt trong trường hợp nước tiểu 24h < 400 mL), đe dọa phù phổi cấp, phù não, v.v.
+Sử dụng thuốc lợi tiểu được đặt ra trong trường hợp thiểu niệu hoặc vô niệu (nước tiểu 24h<800 mL, đặc biệt trong trường hợp nước tiểu 24h<400 mL), đe dọa phù phổi cấp, phù não, v.v.
 
 Liều và cách dùng: Furosemide 20 mg x 8 ống, tiêm tĩnh mạch chậm.
 

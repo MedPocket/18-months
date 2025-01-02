@@ -134,7 +134,7 @@ Hóa trị dự phòng với Methotrexate (MTX) hoặc Dacticin:
 Không sử dụng hóa trị khi:
 
 - Bạch cầu <3000/$mm^3$, bạch cầu đa nhân trung tính <1500/$mm^3$, tiểu cầu <100000/$mm^3$.
-- Men gan AST, ALT > 100 IU/L.
+- Men gan AST, ALT>100 IU/L.
 
 :::
 
@@ -149,7 +149,7 @@ Tác dụng phụ gồm có:
   - Truyền dịch và bù điện giải.
 - Nhiễm độc da: rụng tóc, tăng dị ứng mẫn cảm.
 - Sử dụng kháng Histamin và Corticoid nếu có dị ứng:
-  - Ngưng hóa trị nếu men gan > 100 IU/L.
+  - Ngưng hóa trị nếu men gan>100 IU/L.
   - Thuốc bảo vệ tế bào gan: Biphenyl dimethyl dicarrboxylat.
 
 #### Tránh thai
@@ -239,7 +239,7 @@ Khi so sánh 2 hệ thống phân loại của FIGO và NIH, ta có thể thấy
 Hóa điều trị bệnh nguyên bào nuôi ác tính dựa trên bảng phân loại theo NIH:
 
 1. Hóa trị liệu cho GTD ác tính ở bệnh nhân không có di căn có tỉ lệ khỏi bệnh lên đến gần 100%, có hay không kèm phẫu thuật cắt tử cung. Tuy nhiên, nếu bệnh nhân đã đủ con, phẫu thuật cắt tử cung sẽ làm giảm tổng khối tế bào ung thư, rút ngắn thời gian trở về bình thường của β-hCG.
-2. Ở bệnh nhân có di căn và có tiên lượng tốt: có thể khởi đầu bằng đơn hoá trị, kèm phẫu thuật cắt tử cung. Tỉ lệ tái phát < 5%.
+2. Ở bệnh nhân có di căn và có tiên lượng tốt: có thể khởi đầu bằng đơn hoá trị, kèm phẫu thuật cắt tử cung. Tỉ lệ tái phát<5%.
 3. Ở bệnh nhân có di căn và có tiên lượng xấu: cần đa hoá trị với MAC hoặc EMA/CO. Tỉ lệ sống còn có thể lên đến 84%. Ở các bệnh nhân này, phẫu thuật cắt tử cung có vẻ như không giúp cải thiện tiên lượng.
 
 #### U nguyên bào nuôi nguy cơ thấp
@@ -263,9 +263,9 @@ hoặc Dacticin:
 
 Yếu tố liên quan:
 
-- Tuổi > 35.
-- β-hCG trước điều trị > 100000 mIU/mL.
-- FIGO > 4 điểm.
+- Tuổi>35.
+- β-hCG trước điều trị>100000 mIU/mL.
+- FIGO>4 điểm.
 - Không có tiền căn thai trứng.
 - Có di căn âm đạo lớn.
 - Giải phẫu bệnh choriocarcinoma.
@@ -274,8 +274,8 @@ Yếu tố liên quan:
 Xử trí:
 
 - MTX 50 mg/$m^2$ da thất bại → MTX 0.4 mg/kg tiêm bắp 5 ngày hoặc Dacticin 12 mcg/kg tiêm bắp 5 ngày.
-- β-hCG < 100 IU/L → Dacticin 5 ngày (87%).
-- β-hCG > 100 IU/L → EMA-CO (99%).
+- β-hCG<100 IU/L → Dacticin 5 ngày (87%).
+- β-hCG>100 IU/L → EMA-CO (99%).
 - Kháng MTX → Dacticin.
 
 #### U nguyên bào nuôi nguy cơ cao
@@ -381,7 +381,7 @@ Chỉ định cắt tử cung toàn phần:
 
 - Chủ yếu cho người bệnh không muốn thêm con.
 - Tuổi ≥ 40.
-- Tuổi < 40 mà có ≥ 3 con, hay không muốn có con.
+- Tuổi<40 mà có ≥ 3 con, hay không muốn có con.
 - Băng huyết.
 - Vỡ nhân chorio.
 - Cầm máu khó khăn khi bóc nhân chorio.

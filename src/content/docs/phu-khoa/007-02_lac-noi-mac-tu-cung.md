@@ -345,7 +345,7 @@ HIFU không hiệu quả và kém an toàn.
 
 Do tính chất lan tỏa của tổn thương, nên khi dùng HIFU cho adenomyosis, phải đối diện với việc lựa chọn tiêu cự của chùm sóng, và điều này có thể ảnh hưởng nguy hiểm, gây tổn thương cho các cấu trúc đường tiêu hóa hay tiết niệu bị dính chặt vào vùng chậu do hiện tượng viêm.
 
-Áp dụng khi có đủ điều kiện sau: phụ nữ tiền mãn kinh có khối u ở tử cung, đủ con, không nghi ngờ dính vùng chậu, tiền căn không phẫu thuật bụng dưới, cân nặng < 100kg, thành bụng dày < 5cm, kích thước lạc nội mạc 3-10 cm.
+Áp dụng khi có đủ điều kiện sau: phụ nữ tiền mãn kinh có khối u ở tử cung, đủ con, không nghi ngờ dính vùng chậu, tiền căn không phẫu thuật bụng dưới, cân nặng<100kg, thành bụng dày<5cm, kích thước lạc nội mạc 3-10 cm.
 
 #### Phẫu thuật giảm khối (phẫu thuật Osada)
 

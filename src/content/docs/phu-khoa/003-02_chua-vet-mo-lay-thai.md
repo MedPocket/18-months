@@ -5,7 +5,7 @@ description: Chửa ở vết mổ lấy thai (Thai ở sẹo mổ lấy thai).
 
 Chửa ở vết mổ lấy thai (Thai ở sẹo mổ lấy thai) là 1 dạng thai ngoài tử cung do thai làm tổ trên sẹo cơ tử cung.
 
-Chiếm 1/1800-1/2500 tổng số sinh. Chiếm < 1% các trường hợp thai ngoài tử cung.
+Chiếm 1/1800-1/2500 tổng số sinh. Chiếm<1% các trường hợp thai ngoài tử cung.
 
 ## Yếu tố nguy cơ
 
@@ -104,13 +104,13 @@ Không can thiệt ban đầu bằng nong và nạo vì nguy cơ xuất huyết 
 
 Chỉ định
 
-- Các trường hợp thai < 14 tuần, huyết động ổn định và không chống chỉ định MTX.
+- Các trường hợp thai<14 tuần, huyết động ổn định và không chống chỉ định MTX.
 
 - Thai lưu ≤ 8 tuần, beta hCG tăng: MTX 50mg, tiêm bắp.
 
 - Thai chưa có tim thai: dưới hướng dẫn siêu âm đường âm đạo hút trọn phôi thai, hút hết nước ối và tiêm MTX 25mg quanh túi thai và 25mg tiêm bắp (tổng 50mg/$m^2$ diện tích da).
 
-- Thai có hoạt động tim thai: hủy thai bằng hút trọn phôi thai (thai < 9 tuần) hoặc hút mô buồng tim thai (thai > 9 tuần) hoặc tiêm bắp MTX 25mg (hoặc KCl) và tim thai, phối hợp MTX 25mg tiêm vị trí bánh rau. Sau 60-90 phút siêu âm lại kiểm tra đã mất hay chưa và xem có xuất huyết tại chỗ không, tiêm bắp 25mg MTX (tổng liều 75mg MTX).
+- Thai có hoạt động tim thai: hủy thai bằng hút trọn phôi thai (thai<9 tuần) hoặc hút mô buồng tim thai (thai>9 tuần) hoặc tiêm bắp MTX 25mg (hoặc KCl) và tim thai, phối hợp MTX 25mg tiêm vị trí bánh rau. Sau 60-90 phút siêu âm lại kiểm tra đã mất hay chưa và xem có xuất huyết tại chỗ không, tiêm bắp 25mg MTX (tổng liều 75mg MTX).
 
 Chống chỉ định và xét nghiệm theo dõi như thai ngoài tử cung.
 
@@ -129,9 +129,9 @@ Hạn chế vận động và nên nằm nghỉ ngơi.
 
 Theo dõi beta hCG và siêu âm Doppler
 
-- beta hCG giảm > 15% theo dõi mỗi tuần trong 3 tuần liên tiếp, sau đó mỗi tháng đến khi beta hCG âm tính. Nếu giảm < 15% cần nhập viện tiêm MTX liều 2.
+- beta hCG giảm>15% theo dõi mỗi tuần trong 3 tuần liên tiếp, sau đó mỗi tháng đến khi beta hCG âm tính. Nếu giảm<15% cần nhập viện tiêm MTX liều 2.
 - Siêu âm khối thai và tăng sinh mạch mỗi tuần trong 3 tuần, sau đó siêu âm mỗi tháng đến khi kích thước túi thai không quan sát được và chỉ số tưới máu giảm:
-  - Đường kính khối thai < 5-7cm đến khi không còn.
+  - Đường kính khối thai<5-7cm đến khi không còn.
   - Đường kính khối thai >7cm hoặc tăng cần nhập viện phối hợp thuyên tắc chọn lọc động mạch tử cung nuôi khối thai hay phẫu thuật.
   - Nếu tăng sinh mạch nhiều cần nhập viện phối hợp thuyên tắc động mạch tử cung chọn lọc.
 
@@ -151,7 +151,7 @@ Thăm khám nhẹ nhàng tránh làm khối thai vỡ và gây xuất huyết �
 
 Chỉ định:
 
-- 1 số ít trường hợp beta hCG < 2000 mIU/mL sau điều trị MTX, chảy máu khối thai sảy hoặc khối thai không giảm kích thước.
+- 1 số ít trường hợp beta hCG<2000 mIU/mL sau điều trị MTX, chảy máu khối thai sảy hoặc khối thai không giảm kích thước.
 - Phân độ trên siêu âm là COS-2-
 
 Nong nạo không nên là điều trị đầu tiên vì nguy cơ thủng tử cung và xuất huyết ồ ạt cần phẫu thuật.
@@ -193,7 +193,7 @@ Chỉ định thai ≤ 8 tuần.
 Chỉ định khi có 1 trong 3 yếu tố:
 
 - Tuổi thai ≥ 14 tuần.
-- Người bệnh > 40 tuổi và không có nguyện vọng sinh sản.
+- Người bệnh>40 tuổi và không có nguyện vọng sinh sản.
 - Huyết động không ổn định, xuất huyết nhiều, có thể có choáng hay không.
 
 Phẫu thuật thường khó khăn vì khối rau có thể xâm lấn bàng quang. Cần tư vấn nguy cơ tổn thường bàng quang, niệu quản. Chuẩn bị máu, dịch truyền.
@@ -216,7 +216,7 @@ Có hiệu quả trong các trường hợp khối thai to nhiều mạch máu. 
 
 #### Chờ đợi không can thiệp và theo dõi
 
-Thai lưu < 8 tuần, toàn trạng ổn, beta hCG < 1000mIU/mL giảm đều, chỉ cần theo dõi, không can thiệp, khối thai sẽ tự hủy theo thời gian vài tuần hoặc vài tháng.
+Thai lưu<8 tuần, toàn trạng ổn, beta hCG<1000mIU/mL giảm đều, chỉ cần theo dõi, không can thiệp, khối thai sẽ tự hủy theo thời gian vài tuần hoặc vài tháng.
 
 Nếu beta hCG tăng lại hay không giảm cần can thiệp nội khoa hoặc ngoại khoa.
 

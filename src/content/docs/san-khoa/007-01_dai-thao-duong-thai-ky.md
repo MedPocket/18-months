@@ -1,5 +1,5 @@
 ---
-title: Đái tháo đường thai kỳ (HIP)
+title: Đái tháo đường thai kỳ
 description: Đái tháo đường thai kỳ (HIP - hyperglycemia in pregnancy).
 ---
 
@@ -54,7 +54,7 @@ Khiếm khuyết chức năng tế bào β không bù đủ sự gia tăng của
 | Thiểu cân   | <18,5              | <18,5                                  |
 | Bình thường | 18,5 - 24,9        | 18,5 - 22,9                            |
 | Thừa cân    | 25 - 29,9          | 23 - 24,9                              |
-| Béo phì     | > 30               | > 25                                   |
+| Béo phì     |>30               |>25                                   |
 
 _Bảng phân loại BMI theo tiêu chuẩn của WHO và theo Châu Á._
 
@@ -242,7 +242,7 @@ Kết hợp vận động trong thai kỳ. Khuyến cáo hoạt động thể ch
 - Đi bộ hoặc tập tay lúc ngồi trong 10 phút sau ăn.
 - Trước khi mang thai tích cực tập luyện cần duy trì tập luyện trong thai kỳ.
 
-### Điều trị insulin đối với ĐTĐTK (hoặc ĐTĐ và thai kỳ)-không biến chứng cấp
+#### Điều trị insulin đối với ĐTĐTK (hoặc ĐTĐ và thai kỳ)-không biến chứng cấp
 
 Khám và sử dụng liều insulin theo ý kiến của chuyên khoa Nội tiết.
 
@@ -286,7 +286,7 @@ Dinh dưỡng theo tư vấn của khoa Dinh dưỡng.
 
 Chấm dứt thai kỳ nên xem xét theo từng trường hợp cụ thể, cần cân nhắc đánh giá khả năng trưởng thành phổi thai (nếu được).
 
-## Theo dõi trong chuyển dạ
+### Theo dõi trong và chuyển dạ
 
 Mức đường huyết được cho là hợp lý trong quá trình chuyển dạ là từ >70 và <126 mg/dL (> 3.9 và <7 mmol/L), vì ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những thai phụ cần điều trị insulin.
 
