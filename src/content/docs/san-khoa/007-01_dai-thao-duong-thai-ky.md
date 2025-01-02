@@ -50,8 +50,8 @@ Khiếm khuyết chức năng tế bào β không bù đủ sự gia tăng của
 | Phân loại   | Tiêu chuẩn của WHO | Tiêu chuẩn của người châu A (IDI&WPRO) |
 | ----------- | ------------------ | -------------------------------------- |
 | Thiểu cân   | <18,5              | <18,5                                  |
-| Bình thường | 18,5 - 24,9        | 18,5 - 22,9                            |
-| Thừa cân    | 25 - 29,9          | 23 - 24,9                              |
+| Bình thường | 18,5-24,9        | 18,5-22,9                            |
+| Thừa cân    | 25-29,9          | 23-24,9                              |
 | Béo phì     |>30               |>25                                   |
 
 _Bảng phân loại BMI theo tiêu chuẩn của WHO và theo Châu Á._
@@ -95,7 +95,7 @@ Trên thế giới có hai mô hình tầm soát chính là tầm soát đại t
 | 1   | Tuổi <25.                                                              |
 | 2   | BMI <23.                                                               |
 | 3   | Không có tiền sử gia đình đái tháo đường thế hệ 1.                     |
-| 4   | Không có tiền sử rối loạn dung nạp Glucose hoặc đái tháo đường thai kỳ |
+| 4   | Không có tiền sử rối loạn dung nạp glucose hoặc đái tháo đường thai kỳ |
 
 Ngay lần khám thai đầu tiên, tiến hành đánh giá các yếu tố nguy cơ của đái tháo đường chung.
 
@@ -106,7 +106,7 @@ Nhóm thai phụ có nguy cơ cao cần được xét nghiệm glucose huyết t
 
 - Bình thường:
 
-  - Glucose huyết tương tĩnh mạch khi đói 70 - 90 mg/dL (3,9-5,0 mmol/L).
+  - Glucose huyết tương tĩnh mạch khi đói 70-90 mg/dL (3,9-5,0 mmol/L).
   - Glucose huyết tương tĩnh mạch bất kỳ ≤199 mg/dL (11 mmol/L).
   - Nhóm này cũng vẫn thực hiện xét nghiệm sàng lọc khi 24-28 tuần.
 
@@ -146,22 +146,22 @@ BN có triệu chứng điển hình của tăng đường huyết hay các cơn
 
 ### 3 tháng giữa thai kỳ
 
-Thực hiện tầm soát đái tháo đường thai kỳ cho mọi thai phụ từ tuần thứ 24-28 của tuổi thai và thời điểm này được xem là thời điểm chuẩn, tốt nhất cho phát hiện bất thường chuyển hóa carbohydrate trong thai kỳ với nghiệm pháp dung nạp 75gram glucose.
+Thực hiện tầm soát đái tháo đường thai kỳ cho mọi thai phụ từ tuần thứ 24-28 của tuổi thai và thời điểm này được xem là thời điểm chuẩn, tốt nhất cho phát hiện bất thường chuyển hóa carbohydrate trong thai kỳ với nghiệm pháp dung nạp 75g glucose.
 
-Khi thai kỳ bước vào tuần thứ 24-28, cần tư vấn cho thai phụ về tầm soát đái tháo đường thai kỳ, phát tờ rơi về những thông tin liên quan đái tháo đường thai kỳ và hướng dẫn ăn uống hợp lý để thực hiện nghiệm pháp dung nạp glucose 75 gram - 2h vào lần khám thai định kỳ tiếp theo, ghi chú vào sổ khám thai ngày tái khám.
+Khi thai kỳ bước vào tuần thứ 24-28, cần tư vấn cho thai phụ về tầm soát đái tháo đường thai kỳ, phát tờ rơi về những thông tin liên quan đái tháo đường thai kỳ và hướng dẫn ăn uống hợp lý để thực hiện nghiệm pháp dung nạp glucose 75g - 2h vào lần khám thai định kỳ tiếp theo, ghi chú vào sổ khám thai ngày tái khám.
 
 Hướng dẫn chuẩn bị trước khi thực hiện sàng lọc: 3 ngày trước khi tiến hành nghiệm pháp chẩn đoán, không ăn chế độ ăn có quá nhiều glucid cũng như không ăn kiêng nhằm tránh ảnh hưởng nghiệm pháp.
 
-- Nhịn đói ít nhất 8h trước khi làm nghiệm pháp (Có thể uống nước lọc).
+- Nhịn đói ít nhất 8h trước khi làm nghiệm pháp (có thể uống nước lọc).
 - Lấy 1-2ml máu tĩnh mạch, định lượng glucose trong huyết tương lúc đói, trước khi làm nghiệm pháp.
 - Uống ly nước đường hoặc dung dịch pha sẵn 75g glucose, uống trong vòng 5 phút.
 - Lấy 1-2ml máu tĩnh mạch, định lượng glucose trong huyết tương ở 2 thời điểm 1h và 2h sau uống nước glucose.
 - Trong thời gian làm nghiệm pháp thai phụ không ăn uống gì thêm, được ngồi nghỉ ngơi trong phòng làm nghiệm pháp hoặc đi lại nhẹ nhàng trong khuôn viên bệnh viện trong thời gian làm nghiệm pháp.
 
 :::note[Tiêu chuẩn chẩn đoán đái tháo đường thai kỳ]
-Tham số Glucose huyết tương trong nghiệm pháp 75gram Glucose 2h:
+Tham số Glucose huyết tương trong nghiệm pháp 75g glucose 2h:
 
-| h   | Glucose huyết tương tĩnh mạch (mg/dl hay mg%) | Glucose huyết tương tĩnh mạch (mmol/l) |
+| Giờ   | Glucose huyết tương tĩnh mạch (mg/dl hay mg%) | Glucose huyết tương tĩnh mạch (mmol/l) |
 | --- | --------------------------------------------- | -------------------------------------- |
 | Đói | ≥92                                           | ≥5.1                                   |
 | 1h  | ≥180                                          | ≥10.0                                  |
@@ -176,28 +176,31 @@ Không có chống chỉ định khi thực hiện sàng lọc trong 3 tháng cu
 ![Sàng lọc Đái tháo đường thai kỳ](../../../assets/san-khoa/dai-thao-duong-thai-ky/sang-loc-dai-thao-duong-thai-ky.webp)
 _Sàng lọc Đái tháo đường thai kỳ._
 
-## Mục tiêu điều trị
+## Nguyên tắc và mục tiêu điều trị
 
+### Nguyên tắc điều trị
+
+Cung cấp đủ năng lượng và các chất dinh dưỡng cho mẹ và thai nhi.
+
+Đạt mục tiêu về đường máu (tránh tăng đường máu sau ăn và hạ đường máu xa bữa ăn). Khuyến cáo phụ nữ bị đái tháo đường thai kỳ kiểm soát glucose huyết tương mao mạch đạt mục tiêu hoặc càng gần bình thường càng tốt, nhưng không có nguy cơ hoặc không gây hạ glucose huyết tương.
+
+Đạt cân nặng hợp lý.
+
+Phù hợp thói quen ăn uống, điều kiện kinh tế, không quá khó thực hiện.
+
+### Mục tiêu điều trị
+
+:::note[Glucose huyết tương mao mạch mục tiêu]
 | Thời điểm | Glucose (mg/dL) | Glucose (mmol/l) |
 | --------- | --------------- | ---------------- |
 | Lúc đói   | <95             | <5,3             |
 | Sau ăn 1h | <140            | <7,8             |
 | Sau ăn 2h | <120            | <6,7             |
 
-_Glucose huyết tương mao mạch mục tiêu._
+Lưu ý HbA1C < 6% (kiểm tra 1 tháng 1 lần) và không có biểu hiện hạ đường máu.
+:::
 
 HbA1c ít có giá trị với đái tháo đường thai kỳ vì đái tháo đường thai kỳ xuất hiện từ nửa sau thai kỳ (khoảng 4 tháng cuối) trong khi HbA1c có giá trị đánh giá trong vòng 3 tháng. Ngoài ra còn chịu ảnh hưởng của nhiều yếu tố như đời sống hồng cầu ngắn lại, máu pha loãng.
-
-![Mức độ tăng cân](../../../assets/san-khoa/dai-thao-duong-thai-ky/muc-do-tang-can.png)
-
-## Nguyên tắc điều trị
-
-Nguyên tắc điều trị đái tháo đường thai kỳ:
-
-1. Cung cấp đủ năng lượng và các chất dinh dưỡng cho mẹ và thai nhi.
-2. Đạt mục tiêu về đường máu (tránh tăng đường máu sau ăn và hạ đường máu xa bữa ăn).
-3. Đạt cân nặng hợp lý.
-4. Phù hợp thói quen ăn uống, điều kiện kinh tế, không quá khó thực hiện.
 
 ## Quản lý đái tháo đường trong giai đoạn mang thai
 
@@ -205,15 +208,23 @@ Nguyên tắc điều trị đái tháo đường thai kỳ:
 
 Glucose huyết tương tĩnh mạch dùng để chẩn đoán, glucose huyết tương mao mạch dùng để theo dõi.
 
-Khuyến cáo phụ nữ bị đái tháo đường thai kỳ kiểm soát glucose huyết tương mao mạch đạt mục tiêu hoặc càng gần bình thường càng tốt, nhưng không có nguy cơ hoặc không gây hạ glucose huyết tương.
+Theo dõi glucose huyết tương mao mạch trong 2 tuần có hướng dẫn chế độ ăn cho thai phụ đái tháo đường thai kỳ. Thời điểm thử cách 3 ngày 1 lần, thời điểm lúc đói và 2h sau ăn. Mỗi tuần chọn 1 bữa ăn, bữa ăn này có dựa vào kết quả của thử nghiệm 75g-2h. Qua thực tiễn, chỉ cần trong 2 tuần có 4 lần thử, nghĩa là sau 2 bữa ăn. Hướng dẫn thai phụ đếm cử động thai hàng ngày, ghi vào sổ khám thai. Theo dõi cân nặng, chiều cao tử cung và đo và ghi nhận nhịp tim thai trong mỗi lần khám cho thai phụ:
 
-Khuyến cáo xử trí ban đầu đái tháo đường thai kỳ nên bao gồm: điều chỉnh chế độ ăn và tập luyện ở mức vừa phải trong 30 phút/ngày hoặc hơn.
+- Nếu cả 4 lần thử glucose huyết tương trong 2 tuần đạt mục tiêu, cử động thai và các thăm khám không ghi nhận bất thường, hướng dẫn thai phụ tiếp tục duy trì chế độ ăn giống như phác đồ hướng dẫn và theo dõi thai kỳ thông thường.
 
-Khuyến cáo dùng các biện pháp làm hạ glucose huyết tương mao mạch, nếu việc thay đổi lối sống không đủ để duy trì glucose huyết tương mao mạch đạt mục tiêu ở các phụ nữ bị đái tháo đường thai kỳ.
-
-Bên cạnh quản lý chỉ số đường huyết, cần lưu ý tăng cân hợp lý trong thai kỳ-liên quan tỷ lệ thuận với tăng trưởng thai nhi.
-
-Xử trí sản khoa như thai kỳ bình thường nếu đường huyết ổn định.
+- Nếu có nhiều hơn 4/8 trị số thử glucose huyết tương mao mạch trong 2 tuần lớn hơn glucose huyết tương mao mạch mục tiêu:
+  - Thực hiện chế độ ăn khi nhập viện đối với thai phụ, cần có cán bộ được đào tạo về dinh dưỡng và có khoa Dinh dưỡng tiết chế.
+  - Theo dõi glucose huyết tương mao mạch trong vòng 5 ngày. Trong số ít trường hợp cần kiểm soát chặt chẽ, có thể sử dụng thiết bị theo dõi glucose liên tục (Continouse Glucose Monitor-CGM).
+  - Hướng dẫn thai phụ đếm cử động thai hàng ngày, đo nhịp tim thai với monitor sản khoa (khi thai >30 tuần), đánh giá chỉ số ối qua siêu âm.
+  - Nếu có điều kiện đánh giá tuần hoàn rau thai qua siêu âm Doppler velocimetry (trong khoảng 28-34 tuần).
+  - Thai phụ đáp ứng với điều trị các khảo sát tại nhiều đơn vị có đến hơn 80% thai phụ đạt glucose huyết tương mục tiêu sau 5 ngày điều trị:
+    - Tình trạng thai nhi trong giới hạn bình thường, cho thai phụ xuất viện và hướng dẫn thai phụ tiếp tục áp dụng chế độ ăn đang thực hiện, theo dõi đường huyết (mao mạch), đếm cử động thai và ghi vào sổ khám thai.
+    - Hẹn khám lại.
+  - Thai phụ không đáp ứng với điều trị:
+    - Glucose huyết tương không đạt mục tiêu sau 5 ngày, thăm khám phối hợp giữa bác sĩ chuyên khoa sản và bác sĩ chuyên khoa nội tiết.
+    - Điều chỉnh liều insulin cho đến khi đạt đường huyết mục tiêu. Hướng dẫn thai phụ có khả năng tự theo dõi được đường huyết mao mạch và tự tiêm được insulin.
+    - Khi glucose huyết tương đã ổn định với insulin. Cho thai phụ xuất viện, hướng dẫn thai phụ tiếp tục áp dụng chế độ ăn đang thực hiện, theo dõi cử động thai và ghi vào sổ khám thai.
+    - Hẹn khám lại.
 
 | BMI trước khi mang thai                          | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
 | ------------------------------------------------ | ------------- | ------------------------------------------------------------------------ |
@@ -224,11 +235,11 @@ Xử trí sản khoa như thai kỳ bình thường nếu đường huyết ổn
 
 _Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)._
 
-#### Điều trị tiết chế đối với ĐTĐTK:
+#### Điều trị tiết chế
 
 Dinh dưỡng và vận động theo chế độ dành cho thai phụ có ĐTĐTK.
 
-Theo dõi với glucose huyết tương mao mạch: khi đói và sau ăn 1 hoặc 2h, hướng dẫn cách ghi kết quả-có phiếu theo dõi đường huyết.
+Theo dõi với glucose huyết tương mao mạch khi đói và sau ăn 1 hoặc 2h, hướng dẫn cách ghi kết quả-có phiếu theo dõi đường huyết.
 
 Hướng dẫn thai phụ cách đếm và theo dõi cử động thai mỗi ngày.
 
@@ -240,7 +251,7 @@ Kết hợp vận động trong thai kỳ. Khuyến cáo hoạt động thể ch
 - Đi bộ hoặc tập tay lúc ngồi trong 10 phút sau ăn.
 - Trước khi mang thai tích cực tập luyện cần duy trì tập luyện trong thai kỳ.
 
-#### Điều trị insulin đối với ĐTĐTK (hoặc ĐTĐ và thai kỳ)-không biến chứng cấp
+#### Điều trị insulin-không biến chứng cấp
 
 Khám và sử dụng liều insulin theo ý kiến của chuyên khoa Nội tiết.
 
@@ -252,21 +263,21 @@ Hội chẩn lại chuyên khoa Nội tiết khi glucose huyết tương mao m�
 
 Hướng dẫn thai phụ cách đếm và theo dõi cử động thai mỗi ngày.
 
-Đánh giá tình trạng thai nhi bằng Non stress test (NST) mỗi tuần 1 lần nếu thai cử động đều, hoặc 2 lần mỗi tuần khi thai cử động yếu từ 31 tuần tuổi thai. Có thể kết hợp: Non stress test với xem lượng ối qua siêu âm (BPP cải biên)
+Đánh giá tình trạng thai nhi bằng Non stress test (NST) mỗi tuần 1 lần nếu thai cử động đều, hoặc 2 lần mỗi tuần khi thai cử động yếu từ 31 tuần tuổi thai. Có thể kết hợp Non stress test với xem lượng ối qua siêu âm (BPP cải biên).
 
-Dinh dưỡng và vận động theo chế độ dành cho thai phụ có ĐTĐTK (do bệnh viện hướng dẫn và cung cấp).
+Dinh dưỡng và vận động theo chế độ dành cho thai phụ có ĐTĐTK.
 
-Nếu glucose huyết tương ổn định: Chấm dứt thai kỳ ở tuổi thai 39 tuần hoặc khi có chỉ định sản khoa.
+Nếu glucose huyết tương ổn định chấm dứt thai kỳ ở tuổi thai 39 tuần hoặc khi có chỉ định sản khoa.
 
-Nếu glucose huyết tương không ổn định: Cân nhắc chấm dứt thai kỳ sớm hơn 39 tuần hoặc khi có chỉ định sản khoa.
+Nếu glucose huyết tương không ổn định cân nhắc chấm dứt thai kỳ sớm hơn 39 tuần hoặc khi có chỉ định sản khoa.
 
-:::note[Lưu ý]
+:::caution[Lưu ý]
 Trong đái tháo đường thai kỳ nguy cơ trẻ sơ sinh suy hô hấp cao hơn thai ký bình thường do trưởng thành phổi thai muộn hơn.
 
 Dùng Corticoides có thể làm tăng glucose huyết tương.
 :::
 
-#### Điều trị insulin đối với ĐTĐTK (hoặc ĐTĐ và thai kỳ)-có biến chứng cấp (nhiễm toan cetone, tăng áp lực thẩm thấu máu, hạ đường huyết...)
+#### Điều trị insulin-có biến chứng cấp
 
 Biến chứng có thể được chẩn đoán trước nhập viện hoặc trong quá trình theo dõi điều trị nội trú.
 
@@ -288,7 +299,7 @@ Chấm dứt thai kỳ nên xem xét theo từng trường hợp cụ thể, c�
 
 #### Trong cuộc chuyển dạ
 
-Cần kiểm soát glucose mao mạch mẹ trong suốt cuộc chuyển dạ và sinh (tốt nhất dao động từ 70-100 mg/dl hay 3.9-5.6 mmol/l). Ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những thai phụ cần điều trị insulin. Mức đường huyết trong chuyển dạ >140 đến 180 mg/dL (7.8 đến 10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm ketone acid ở mẹ.
+Cần kiểm soát glucose mao mạch mẹ trong suốt cuộc chuyển dạ và sinh (tốt nhất dao động từ 70-100 mg/dl hay 3.9-5.6 mmol/l). Ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những thai phụ cần điều trị insulin. Mức đường huyết trong chuyển dạ >140-180 mg/dL (7.8-10 mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm ketone acid ở mẹ.
 
 Nếu thai phụ không dùng insulin, theo dõi glucose huyết tương mao mạch 4-6 giờ/lần.
 
@@ -298,7 +309,7 @@ Theo dõi các yếu tố chuyển dạ.
 
 Sau sổ nhau, nếu đang dùng insulin phải cân nhắc giảm liều thích hợp vì sau khi lấy hết bánh rau, mất hiện tượng kháng insulin có thể gây hạ glucose máu. Theo dõi chặt chỉ số đường huyết để điều chỉnh thuốc cho phù hợp.
 
-Theo dõi sát trẻ sơ sinh trong vòng 3 ngày đầu sau sinh để phát hiện và xử trí kịp thời các biến chứng như: hạ glucose huyết, hạ calci, đa hồng cầu, tăng bilirubin máu, hội chứng suy hô hấp cấp chu sinh, nhiễm khuẩn sơ sinh.
+Theo dõi sát trẻ sơ sinh trong vòng 3 ngày đầu sau sinh để phát hiện và xử trí kịp thời các biến chứng như hạ glucose huyết, hạ calci, đa hồng cầu, tăng bilirubin máu, hội chứng suy hô hấp cấp chu sinh, nhiễm khuẩn sơ sinh.
 
 Cho trẻ tiếp xúc da kề da với mẹ ít nhất ngày đầu sau sinh, hướng dẫn sản phụ cho trẻ bú sớm ngay trong vòng 1h đầu sau sinh.
 
@@ -308,66 +319,148 @@ Nếu đang dùng insulin, cần giảm liều.
 
 Tư vấn về các biện pháp tránh thai như sử dụng bao cao su, dụng cụ tử cung, viên thuốc ngừa thai kết hợp hàm lượng thấp.
 
-Cần thực hiện Đánh giá chuyển hóa glucose sau sinh cho các phụ nữ có ĐTĐTK 4-12 tuần: làm lại nghiệm pháp dung nạp 75 gram glucose uống-2h, nếu kết quả bình thường, tầm soát định kỳ 1 năm/lần, nếu kết quả xét nghiệm bất thường giới thiệu sản phụ khám chuyên khoa Nội tiết.
+Cần thực hiện Đánh giá chuyển hóa glucose sau sinh cho các phụ nữ có ĐTĐTK 4-12 tuần làm lại nghiệm pháp dung nạp 75g glucose uống-2h, nếu kết quả bình thường, tầm soát định kỳ 1 năm/lần, nếu kết quả xét nghiệm bất thường giới thiệu sản phụ khám chuyên khoa Nội tiết.
 
 ![Khuyến cáo về chấm dứt thai kỳ](../../../assets/san-khoa/dai-thao-duong-thai-ky/khuyen-cao-ve-cham-dut-thai-ky.png)
 
-## Phương pháp thay đổi đường huyết
+## Điều chỉnh lối sống
 
-### Liệu pháp dinh dưỡng nội khoa
+Để phòng ngừa đái tháo đường thai kỳ, phụ nữ có thai đặc biệt các thai phụ có nguy cơ cao như đã sinh con từ 4000g, trên 35 tuổi, thừa cân, béo phì... cần điều chỉnh lối sống (ăn tiết chế, tăng cường vận động) để phòng chống bệnh ĐTĐTK:
 
-Chế độ dinh dưỡng nội khoa (Medical Nutrition Treatment - MNT) cần đáp ứng được các mục tiêu sau:
+- Lựa chọn thực phẩm lành mạnh: Chế độ ăn uống hợp lý, lành mạnh và hoạt động thể chất là biện pháp chính để phòng chống ĐTĐTK. Thai phụ cần được tư vấn về dinh dưỡng để giúp cho họ chọn đúng về số lượng và chất lượng thực phẩm. Thai phụ cần biết cách lựa chọn thực phẩm lành mạnh, để hạn chế sự tăng cân quá mức và phòng ĐTĐTK.
+- Kiểm soát sự tăng cân trong thai kỳ: Tăng cân là biểu hiện tích cực cho thấy sự phát triển của thai nhi, tăng cân của người mẹ lúc mang thai phụ thuộc vào giai đoạn thai kỳ và tình trạng dinh dưỡng trước khi mang thai. Tùy theo tình trạng dinh dưỡng (chỉ số khối cơ thể BMI) trước khi có thai của người mẹ, tăng cân nên được quan tâm chú ý theo khuyến cáo về mức tăng cân trong thai kỳ. Ngoài ra để giảm nguy cơ ĐTĐTK, khuyến cáo cần giảm cân cho đối tượng bị thừa cân, béo phì trước khi mang thai.
+- Hạn chế sử dụng muối: Giảm ăn mặn nhất là đối với những thai phụ có phù, tăng huyết áp hoặc bị nhiễm độc thai nghén để tránh tai biến khi sinh. Nên sử dụng dưới 5g muối/ngày và nên sử dụng muối iốt.
+- Hạn chế sử dụng rượu bia, thuốc lá và chất kích thích: Không nên dùng các loại đồ uống chứa chất kích thích như rượu, cà phê, thuốc lá, nước chè đặc... Giảm ăn các loại gia vị như ớt, hạt tiêu, tỏi.
+- Hoạt động thể chất: Hoạt động thể chất giúp phòng ngừa ĐTĐTK, giảm sự đề kháng insulin, kiểm soát glucose huyết tương và rối loạn chuyển hóa lipid máu... Nên theo dõi hoạt động của thai nhi và lượng đường trong máu trước và sau khi tập thể dục.
 
-1. Ổn định được đường huyết ở mức mục tiêu.
-2. Cung cấp đủ năng lượng đảm bảo sức khoẻ cho mẹ và giúp thai phụ tăng cân hợp lý trong thai kỳ.
-3. Đảm bảo được sức khoẻ của thai.
-4. Ngăn ngừa tình trạng nhiễm Ketone.
+## Liệu pháp dinh dưỡng
 
-#### Chế độ ăn và theo dõi
+Liệu pháp dinh dưỡng bao gồm việc cá nhân hóa chế độ ăn tối ưu để kiểm soát glucose huyết tương. Liệu pháp dinh dưỡng được xây dựng dựa trên thói quen ăn uống, hoạt động thể lực, glucose huyết tương và tình trạng dinh dưỡng của bà mẹ:
+- Cung cấp đủ năng lượng, các chất dinh dưỡng, vitamin và chất khoáng cho bà mẹ và sự phát triển của thai nhi.
+- Hỗ trợ kiểm soát glucose huyết tương: không làm tăng glucose huyết tương sau ăn nhiều, không làm hạ glucose huyết tương lúc xa bữa ăn, giảm nồng độ HbA1C trong máu.
 
-Đến 80% sản phụ đái tháo đường thai kỳ kiểm soát đường huyết đường huyết bằng chế độ ăn và tập luyện.
+Duy trì được hoạt động thể lực bình thường của bà mẹ hàng ngày.
 
-Tổng Calo phân bố: Carbohydrate 35-45%, protid 20-25%, lipid 35-40%.
+Duy trì được mức tăng cân phù hợp với từng giai đoạn của thai kỳ.
 
-Người đang thực hiện MNT nên ăn 5-7 bữa trong ngày (bao gồm 3 bữa chính và 2-4 bữa phụ). Các bữa ăn không hoàn toàn giống nhau.
+Hỗ trợ điều chỉnh rối loạn chuyển hóa lipid máu, các rối loạn chức năng thận, tăng huyết áp....
 
-Trong giai đoạn đầu khi thực hiện MNT, khuyến khích thai phụ tự theo dõi thường xuyên đường huyết đói cũng như đường huyết 3-4 lần/ngày:
+Phòng các biến chứng của đái tháo đường thai nghén cho bà mẹ và thai nhi như sinh non, đa ối, sẩy thai, thai chết lưu, nhiễm khuẩn đường tiết niệu...
 
-- Đường huyết đói: 1 lần/ ngày, sau khi nhịn đói ít nhất 8h.
-- Đường huyết sau ăn: sau ăn 1-2h, 2-3 lần/ ngày, xoay vòng cho các bữa ăn khác nhau trong tuần.
-- Ít nhất cũng cần theo dõi đường huyết 1 lần/ngày và phải ghi nhận tương quan với thời điểm bữa ăn.
+### Thai phụ có nguy cơ bị đái tháo đường
 
-Ưu tiên thực phẩm có chỉ số đường huyết thấp (<55) hoặc trung bình (56-69).
+Chế độ ăn Glucid chiếm khoảng 55%-60% năng lượng khẩu phần, nên sử dụng thực phẩm có chỉ số glucose huyết tương thấp và trung bình.
 
-Khi đã đảm bảo đạt được mục tiêu về đường huyết bằng MNT, việc theo dõi đường huyết có thể được nới lỏng hơn. Nếu thực hiện tốt MNT, rất nhiều thai phụ mắc GDM không cần thiết phải dùng thuốc hạ đường huyết và có kết cục chu sinh tốt.
+Nên sử dụng ngũ cốc nguyên hạt, gạo lức, gạo lật nảy mầm thay thế cho gạo trắng có chỉ số glucose huyết tương cao.
 
-#### Vận động thể lực
+Sử dụng trên 400g rau/ngày, nên ăn rau có nhiều chất xơ làm hạn chế mức độ tăng glucose huyết tương sau ăn.
 
-Ngoài thay đổi chế độ ăn, thai phụ mắc GDM nên có chế độ vận động phù hợp với từng cá nhân:
+Nên ăn nhiều bữa trong ngày để không làm tăng glucose huyết tương quá nhiều sau ăn, và hạ glucose huyết tương quá nhanh lúc xa bữa ăn.
 
-- Vận động khoảng 30 phút/ngày. Nhịp tim tăng từ 10-20% nhịp tim cơ bản của sản phụ.
-- Đi bộ nhanh hoặc tập thể dục vùng cánh tay khi ngồi ghế trong 15-20 phút sau ăn 1h mỗi bữa ăn nếu không chống chỉ định.
-- Chống chỉ định vận động với: Dọa đẻ non, ối vỡ sớm, hở eo tử cung, xuất hiện 3 tháng giữa/3 tháng cuối thai kỳ, rau tiền đạo, tiền sản giật.
-- Những thai phụ vận động tích cực trước khi mang thai được khuyến khích duy trì chế độ vận động của họ trong thai kỳ.
+Nên ăn nhiều loại thực phẩm (15-20 loại/ngày, mỗi bữa có trên 10 loại thực phẩm) để cung cấp đầy đủ chất dinh dưỡng cho cơ thể.
 
-Có thể tham khảo chi tiết [Hướng dẫn điều chỉnh lối sống](/san-khoa/007-01_dai-thao-duong-thai-ky/huong-dan-dieu-chinh-loi-song-benh-nhan-dai-duong-thai-ky.docx) và [Phiếu theo dõi đường huyết](/san-khoa/007-01_dai-thao-duong-thai-ky/phieu-theo-doi-duong-huyet.docx).
+Nên ăn thịt nạc, cá nạc, đậu phụ, sữa chua, sữa, phô mai (ít béo, không đường).
 
-### Thuốc kiểm soát đường huyết
+Hạn chế tối đa các thực phẩm có chỉ số đường huyết cao làm tăng cao glucose huyết tương sau ăn như bánh, kẹo, kem, chè, trái cây sấy... trái cây khô là các loại thức ăn có trên 20% glucid.
+
+Giảm ăn các thực phẩm nhiều chất béo gây tăng mỡ máu.
+
+Giảm ăn mặn và các thực phẩm chế biến sẵn nhiều muối để phòng ngừa tăng huyết áp.
+
+Giảm uống rượu, bia, nước ngọt.
+
+Không nên dùng đường trắng.
+
+Đối với thai phụ bị thừa cân, béo phì hoặc tăng cân quá nhiều trong thời kỳ mang thai nên ăn các thực phẩm luộc, bỏ lò hơn là các món rán, không nên ăn thịt mỡ, ăn cá và thịt gia cầm thay cho thịt đỏ, ăn bơ tách chất béo và các thực phẩm khác nhau có hàm lượng chất béo thấp.
+
+Duy trì chế độ luyện tập tối thiểu 30 phút/ ngày để phòng chống ĐTĐTK nếu thai phụ không có các nguy cơ như nhau tiền đạo, dọa sinh non, tiền sản giật...
+
+### Thai phụ bị đái tháo đường
+
+Chế độ ăn và luyện tập là giải pháp trị liệu chính, trong trường hợp cần thiết sẽ kê thêm thuốc điều trị.
+
+#### Năng lượng
+
+Hạn chế năng lượng ăn vào là giải pháp để kiểm soát sự tăng cân, glucose huyết tương và thai to. Đối với thai phụ bị thừa cân, béo phì, tổng năng lượng nên giảm khoảng 33%, không thấp hơn 1600-1800 kcal giúp kiểm soát sự tăng cân và không làm tăng ceton máu.
+
+Tuy nhiên tùy vào tình trạng dinh dưỡng, tình trạng lâm sàng, xét nghiệm sinh hóa, năng lượng ăn vào có thể được điều chỉnh theo từng giai đoạn. Khuyến cáo năng lượng ăn vào cho thai phụ bị đái tháo đường như sau:
+- 35-40 kcal/kg cân nặng/ngày: Với những thai phụ trước khi mang thai bị thiếu năng lượng trường diễn.
+- 30-35 kcal/kg cân nặng/ngày: Với những thai phụ trước khi mang thai có tình trạng dinh dưỡng bình thường.
+- 20-30 kcal/kg cân nặng/ngày: Với những thai phụ trước khi mang thai bị thừa cân, béo phì.
+
+#### Tỷ lệ các chất sinh năng lượng
+
+Protein:
+- Nên phối hợp giữa protein động vật và thực vật, yêu cầu tỷ lệ protein động vật từ 35% trở lên.
+- Bệnh thận do ĐTĐ, protein giảm 0.6-0.8 g/kg cân nặng lý tưởng.
+
+Lipid:
+- Lượng lipid chiếm khoảng 20-30% tổng năng lượng, yêu cầu tỷ lệ lipid động vật/lipid tổng số không nên vượt quá 60%. Nên tăng cường sử dụng các loại dầu thực vật và hạn chế tiêu thụ các loại mỡ động vật.
+- Nếu thai phụ có rối loạn chuyển hóa cholesterol máu tổng lượng cholesterol máu <200mg/ngày.
+- Đối với thai phụ có rối loạn chuyển hóa lipid máu, tăng cân nhanh cần chú ý đến khẩu phần chất béo để kiểm soát chuyển hóa rối loạn lipid máu:
+  - Tăng cường các món ăn luộc hấp hơn là món rán.
+  - Ăn tăng thêm cá và thịt gia cầm thay cho thịt đỏ.
+  - Sử dụng sữa và chế phẩm sữa có hàm lượng chất béo thấp hoặc đã được tách béo.
+
+Glucid:
+- Tất cả các thai phụ bị ĐTĐ không kể ĐTĐ type 1 hay type 2 đều phải tuân thủ chế độ ăn giảm glucid (35-40 % năng lượng khẩu phần). Glucid nên được chia suốt cả ngày trong 3 bữa ăn chính và 2-3 bữa ăn phụ. Nên sử dụng tối thiểu 175g glucid/ngày.
+- Nếu thai phụ bị ĐTĐ muốn sử dụng các thực phẩm ngũ cốc khác thì nên ăn các loại ngũ cốc nguyên hạt hoặc chế phẩm của ngũ cốc nguyên hạt như ngô, bánh mỳ đen...
+- Thai phụ ĐTĐ có thể ăn:
+  - Không hạn chế đối với các thức ăn có ≤5% glucid.
+  - Ăn có mức độ đối với các loại thức ăn có 10-20% glucid.
+  - Hạn chế tối đa đối với các loại đường hấp thu nhanh như đường trắng, mứt, kẹo, bánh ngọt và nước ngọt có ga, trái cây sấy khô... Đây là các loại thức ăn có trên 20% glucid.
+
+Chất xơ:
+- Nhu cầu khuyến nghị chất xơ của phụ nữ có thai là 28g/ngày. 
+- Đặc biệt với thai phụ bị ĐTĐ thì chất xơ có vai trò quan trọng đặc biệt trong kiểm soát glucose huyết tương và phòng biến chứng của ĐTĐ. Thai phụ bị đái tháo đường cần ăn ít nhất 400g rau củ quả một ngày. Nên chọn rau củ quả có nhiều chất xơ như rau muống, rau ngót, rau bắp cải...
+
+Vitamin và chất khoáng:
+- Đáp ứng đủ nhu cầu vitamin và chất khoáng theo nhu cầu khuyến nghị cho bà mẹ có thai.
+
+Sữa và chế phẩm sữa:
+- Không chỉ là nguồn cung cấp calci quan trọng cho bà mẹ trong những giai đoạn đặc biệt này mà còn là những thực phẩm có đầy đủ các chất dinh dưỡng thiết yếu và ở tỷ lệ cân đối rất tốt cho sức khỏe bà mẹ và trẻ em:
+  - Phụ nữ có thai 3 tháng đầu: Nên sử dụng 3 đơn vị sữa/ngày (mỗi đơn vị sữa tương đương 100 mg calci, tương đương 1 miếng phô mai, 1 hộp sữa chua, 100 ml sữa dạng lỏng).
+  - Phụ nữ có thai 3 tháng giữa: Tăng thêm 2 đơn vị so với 3 tháng đầu, sử dụng 5 đơn vị sữa và chế phẩm sữa/ngày.
+  - Phụ nữ có thai 3 tháng cuối: Tăng thêm 1 đơn vị so với 3 tháng giữa, sử dụng 6 đơn vị sữa và chế phẩm sữa/ngày.
+- Nên sử dụng sữa và chế phẩm sữa không đường hoặc sử dụng thực phẩm dinh dưỡng y học cho người đái tháo đường theo sự chỉ dẫn của bác sỹ, nhân viên y tế hoặc chuyên gia dinh dưỡng.
+
+#### Thực phẩm
+
+Lựa chọn các thực phẩm: thực phẩm nhiều chất xơ như ngũ cốc nguyên hạt, rau củ..., thực phẩm có nhiều chất béo không no từ các nguồn thực vật, cá..., các thực phẩm có nhiều vitamin như quả chín, hạn chế các thực phẩm nhiều chất béo bão hòa (mỡ động vật, thịt nhiều mỡ...), hạn chế các thực phẩm nhiều cholesterol, các thực phẩm có nhiều đường đơn, đường đôi. Hạn chế chế biến dưới dạng nướng, chiên xào ở nhiệt độ cao.
+
+Nên ăn cá, tối thiểu 2-3 bữa/tuần, ưu tiên những thực phẩm giàu acid béo omega 3 (mỡ cá, cá hồi).
+
+Các thực phẩm dinh dưỡng y học cho người đái tháo đường cung cấp đầy đủ các dưỡng chất thiết yếu ở tỷ lệ cân đối, có chỉ số glucose huyết thanh thấp, và đã được chứng minh lâm sàng giúp kiểm soát tốt đường huyết ở phụ nữ ĐTĐTK, cũng là một chọn lựa tốt để bổ sung dinh dưỡng cho phụ nữ ĐTĐTK.
+
+#### Phân bố bữa ăn
+
+Chia nhỏ bữa ăn đóng vai trò rất quan trọng trong điều hòa glucose huyết tương để tránh tăng glucose huyết tương nhiều sau ăn, nên ăn 3 bữa chính và 2-3 bữa phụ. Bữa ăn nhẹ buổi tối giúp ngăn chặn tình trạng ceton máu.
+
+Nếu ăn 6 bữa, số lượng mỗi bữa ăn như sau:
+- Bữa sáng: 20%
+- Bữa phụ buổi sáng: 10%
+- Bữa trưa: 30%
+- Bữa phụ buổi chiều: 10%
+- Bữa tối: 20%
+- Bữa phụ vào buổi tối: 10%.
+
+Nếu ăn 5 bữa, số lượng mỗi bữa ăn như sau:
+- Bữa sáng: 25%
+- Bữa phụ buổi sáng: 10%
+- Bữa trưa: 30%
+- Bữa tối: 25%
+- Bữa phụ vào buổi tối: 10%
+
+## Thuốc kiểm soát đường huyết
 
 Bộ Y tế Việt Nam chưa cho phép việc dùng Metformin trong thai kỳ cho DIP/GDM. Thuốc hạ đường huyết được chỉ định khi MNT thất bại là insulin.
 
-#### Chỉ định dùng insulin
+### Chỉ định dùng insulin
 
 Các chỉ định dùng insulin:
-
-- Đái tháo đường trước khi có thai.
-- Đái tháo đường thai kỳ:
-  - Đái tháo đường thai kỳ chẩn đoán trước tuần 24.
-  - Đường máu đói >7 mmol/l.
-  - Đường máu bất kỳ >11.1 mmol/l.
-  - Đường máu làm dung nạp đường huyết >11.1 mmol/l.
-- Đường máu đói và/hoặc đường máu sau ăn không đạt mục tiêu trong 20% số lần đo trong 1-2 tuần áp dụng điều chỉnh chế độ ăn.
-- Xem xét điều trị insulin trong trường hợp đường đói 5.6-5.8 mmol/L kết hợp điều chỉnh chế độ ăn và tập luyện.
+- Glucose huyết tương không đạt mục tiêu điều trị sau 1 đến 2 tuần áp dụng chế độ dinh dưỡng và tập luyện hợp lý (trên 50% số mẫu xét nghiệm không đạt mục tiêu điều trị); hoặc
+- Glucose huyết tương cao. Mức glucose huyết tương lúc đói >126 mg/dL hoặc glucose huyết tương bất kỳ >200 mg/dL cần xem xét điều trị ngay; hoặc
+- Thai to hơn so với tuổi thai: trong 3 tháng giữa thai kỳ có thể lưu ý khi chu vi bụng thai nhi ở 28-32 tuần có bách phân vị >75th. Những ngày trước sinh kích thước thai trên siêu âm với chu vi bụng >370 mm hoặc bách phân vị >95th (cân nặng ước lượng > bách phân vị 95 của tuổi thai hay chu vi vòng bụng >bách phân vị 95 của tuổi thai).
 
 #### Phân loại insulin
 
