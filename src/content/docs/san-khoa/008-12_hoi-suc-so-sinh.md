@@ -51,7 +51,7 @@ _Bảng điểm apgar._
 
 Có sự liên quan nhất định giữa điểm số APGAR và tử vong sơ sinh nếu đánh giá thật đúng. Tuy nhiên, liên quan giữa APGAR với dự hậu lâu dài là không rõ ràng.
 
-- < 3: tình trạng ngạt nguy kịch, phải hồi sức tích cực.
+-<3: tình trạng ngạt nguy kịch, phải hồi sức tích cực.
 - 4-7: trẻ bị ngạt, cần được hồi sức tốt.
 - &gt; 7: tình trạng tốt, chỉ cần theo dõi, chưa cần hồi sức.
 
@@ -91,7 +91,7 @@ Ngay sau khi sinh, trẻ cần được chăm sóc theo 3 bước:
 
 Các bước này nên thực hiện trong vòng phút đầu tiên của cuộc sống. Ít có khả năng sống sót khi chỉ số Apgar là 0 vào phút thứ 10.
 
-Tiêu chuẩn đánh giá kết quả hồi sức tốt bao gồm tiêu chuẩn lâm sàng và xét nghiệm sinh hóa. Các tiêu chuẩn lâm sàng đánh giá hiệu quả của hồi sức gồm trẻ tự thở đều và sâu, hết tím tái, nhịp tim đều và rõ trên 100 lần/phút, các phản xạ thần kinh hành não tốt, trương lực cơ bình thường. Các tiêu chuẩn sinh hóa gồm ổn định được tình trạng toan chuyển hóa, với pH máu ≥ 7.3, $PaCO_2$ < 40 mmHg, $PaO_2$ = 60-70 mmHg.
+Tiêu chuẩn đánh giá kết quả hồi sức tốt bao gồm tiêu chuẩn lâm sàng và xét nghiệm sinh hóa. Các tiêu chuẩn lâm sàng đánh giá hiệu quả của hồi sức gồm trẻ tự thở đều và sâu, hết tím tái, nhịp tim đều và rõ trên 100 lần/phút, các phản xạ thần kinh hành não tốt, trương lực cơ bình thường. Các tiêu chuẩn sinh hóa gồm ổn định được tình trạng toan chuyển hóa, với pH máu ≥ 7.3, $PaCO_2$<40 mmHg, $PaO_2$ = 60-70 mmHg.
 
 ## Lưu đồ hồi sức sơ sinh
 
@@ -103,9 +103,9 @@ Những điểm quan trọng trong lưu đồ hồi sức sơ sinh.
 - Thông khí là thủ thuật quan trọng nhất trong hồi sức sơ sinh.
 - Thông khí áp lực dương hiệu quả trong ngừng thở thứ phát thường sẽ giúp cải thiện nhịp tim.
 - Nếu nhịp tim không tăng, có thể là thông khí không đầy đủ và/hoặc cần thiết phải ấn ngực và cho epinephrine.
-- Nhịp tim < 60 lần/ph cần các bước hỗ trợ.
-- Nhịp tim > 60 lần/ph có thể ngừng ấn ngực.
-- Nhịp tim > 100 lần/ph và tự thở có thể ngừng thông khí áp lực dương.
+- Nhịp tim<60 lần/ph cần các bước hỗ trợ.
+- Nhịp tim>60 lần/ph có thể ngừng ấn ngực.
+- Nhịp tim>100 lần/ph và tự thở có thể ngừng thông khí áp lực dương.
 - Giới hạn thời gian: nếu không cải thiện sau 30 giây, chuyển sang bước tiếp theo.
 - Có thể xem xét đặt nội khí quản ở 1 số bước.
 

@@ -30,7 +30,7 @@ Bệnh Graves là bệnh lý tự miễn do có kháng thể kích thích tuyế
 :::note[Tiêu chuẩn chẩn đoán cường giáp]
 Các triệu chứng lâm sàng giúp định hướng chẩn đoán cường giáp:
 
-- Mạch lúc nghỉ > 100 lần/phút và giảm đi thành mạch chậm sau thủ thuật Valsava.
+- Mạch lúc nghỉ>100 lần/phút và giảm đi thành mạch chậm sau thủ thuật Valsava.
 - Thay đổi ở mắt.
 - Giảm cân, không tăng cân dù tăng lượng thức ăn.
 - Không chịu được nóng.

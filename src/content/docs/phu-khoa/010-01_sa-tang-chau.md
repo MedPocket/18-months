@@ -42,10 +42,10 @@ Phân độ:
 
 - Độ 0: không sa tạng chậu.<br>
   Aa, Ba, Ap, Bp: 3 cm nằm trên màng trinh.<br>
-  Điểm C hay D: tvl -2cm < C, D ≤ tvl.
-- Độ I: B > 1cm trên màng trinh.
+  Điểm C hay D: tvl -2cm<C, D ≤ tvl.
+- Độ I: B>1cm trên màng trinh.
 - Độ II: B trong khoảng ± 1cm trên dưới màng trinh.
-- Độ III: B > 1 cm dưới màng trinh đến (tvl-2) cm.
+- Độ III: B>1 cm dưới màng trinh đến (tvl-2) cm.
 - Độ IV: sa toàn bộ, B ≥ (tvl-2) cm.
 
 ![Sơ đồ chẩn đoán sa tạng chậu](../../../assets/phu-khoa/sa-tang-chau/so-do-chan-doan-sa-tang-chau.jpg)
@@ -153,7 +153,7 @@ Sa tạng chậu từ độ 2 theo POP-Q, có triệu chứng hay biến hứng,
 
 #### Sa thành trước
 
-Sa bàng quang: Nâng bàng quang bằng mảnh ghép tổng hợp polypropylene, may phục hồi cân ngang bàng quang-cổ tử cung qua đường âm đạo/nội soi ổ bụng/mổ hở (repair of paravaginal defect) khi sa bàng quang bên < độ 2, may gấp nếp cân bàng quang - cổ tử cung khi sa bàng quang thể trung tâm < độ 2.
+Sa bàng quang: Nâng bàng quang bằng mảnh ghép tổng hợp polypropylene, may phục hồi cân ngang bàng quang-cổ tử cung qua đường âm đạo/nội soi ổ bụng/mổ hở (repair of paravaginal defect) khi sa bàng quang bên<độ 2, may gấp nếp cân bàng quang - cổ tử cung khi sa bàng quang thể trung tâm<độ 2.
 
 Niệu đạo: Đặt sling dưới niệu đạo (đặt TOT, mini sling hoặc TVT trong trường hợp tiểu không kiểm soát khi gắng sức nặng nghi do suy cơ thắt niệu đạo với nghiệm pháp Bonney (-), thất bại với TOT trước đó). phẫu thuật Burch nội soi/mổ bụng hở trường hợp không thực hiện được hoặc thất bại ≥ 2 lần phẫu thuật đặt sling dưới niệu đạo.
 
@@ -204,7 +204,7 @@ Phẫu thuật đặt mảnh ghép tổng hợp là phẫu thuật ưu thế tro
 
 BN lớn tuổi (> 70 tuổi).
 
-Tình trạng BN không cho phép gây mê kéo dài > 2h.
+Tình trạng BN không cho phép gây mê kéo dài>2h.
 
 BN có tiền sử vết mổ cũ trên bụng nhiều lần (≥ 2 lần), hoặc tiền sử nhiễm trùng vết mổ.
 
@@ -224,7 +224,7 @@ Thất bại với phẫu thuật điều trị sa tạng chậu đường âm �
 
 Kỹ năng phẫu thuật viên không thể thực hiện các phẫu thuật phục hồi sa tạng chậu khó qua ngả bụng như nội soi ổ bụng treo tử cung vào mỏm nhô và đặt mảnh ghép nâng bàng quang - trực tràng, khi đó cần kết hợp đường âm đạo để đặt mảnh ghép nâng bàng quang-trực tràng, tăng hiệu quả điều trị.
 
-Sa tử cung ≥ độ 2 kèm sa các tạng chậu khác nhưng tình trạng BN không cho phép phẫu thuật hoặc gây mê kéo dài > 2h.
+Sa tử cung ≥ độ 2 kèm sa các tạng chậu khác nhưng tình trạng BN không cho phép phẫu thuật hoặc gây mê kéo dài>2h.
 
 ## Phác đồ chẩn đoán và xử trí sa tạng chậu
 

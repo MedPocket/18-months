@@ -19,8 +19,8 @@ Với thai nhi, thiếu máu làm tăng nguy cơ sẩy thai, thai chậm tăng t
 
 Phân loại thiếu máu theo CDC:
 
-- Hb < 10.5 g/dL trong 3 tháng giữa.
-- Hb < 11 g/dL trong 3 tháng đầu và 3 tháng cuối.
+- Hb<10.5 g/dL trong 3 tháng giữa.
+- Hb<11 g/dL trong 3 tháng đầu và 3 tháng cuối.
 
 Có 3 nhóm nguyên nhân gây thiếu máu trong thai kỳ:
 
@@ -42,7 +42,7 @@ Hệ quả của thiếu máu thiếu sắt, thiếu máu thiếu acid folic
 Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic trong thai kỳ dựa trên huyết đồ và dựa trên nồng độ ferritin huyết thanh:
 
 - Lâm sàng: Thiếu máu nhẹ, thai phụ thường than chóng mặt, hoa mắt, nhức đầu, ù tai, khó thở khi gắng sức, tim đập nhanh. Thiếu máu trung bình, nặng, khám sẽ phát hiện da khô, niêm nhạt, môi khô, lưỡi nứt nẻ, âm thổi thâm thu ở mỏm tim, tổn thương thần kinh.
-- Cận lâm sàng: Huyết đồ cho thấy nồng độ Hb < 11 g/dL, HCt < 30%, MCV (mean cell volume) < 80 fL, MCH (mean cell hemoglobin) < 28 pg, MCHC (mean cell hemoglobin concentration) < 32 g/dL. Ferritin huyết thanh < 10-50 µg/L. Ferritin huyết thanh < 10 µg/L trong trường hợp nặng.
+- Cận lâm sàng: Huyết đồ cho thấy nồng độ Hb<11 g/dL, HCt<30%, MCV (mean cell volume)<80 fL, MCH (mean cell hemoglobin)<28 pg, MCHC (mean cell hemoglobin concentration)<32 g/dL. Ferritin huyết thanh<10-50 µg/L. Ferritin huyết thanh<10 µg/L trong trường hợp nặng.
 
 :::
 
@@ -82,7 +82,7 @@ Thể nặng do đồng hợp tử 1 đột biến hay dị hợp tử kép 2 đ
 
 - Bệnh biểu hiện sớm khi trẻ mới sinh hoặc vài tháng tuổi.
 - Đặc điểm lâm sàng của thể nặng là thiếu máu nặng, vàng da, gan lách to,...
-- Đứa trẻ cần được truyền máu thải sắt để duy trì sự sống. Đặc điểm huyết học của thể nặng là số lượng hồng cầu giảm, nồng độ Hb < 70 g/l, MCV, MCH giảm, ferritin bình thường hoặc tăng. Điện di Hb: HbF và HbA2 tăng.
+- Đứa trẻ cần được truyền máu thải sắt để duy trì sự sống. Đặc điểm huyết học của thể nặng là số lượng hồng cầu giảm, nồng độ Hb<70 g/l, MCV, MCH giảm, ferritin bình thường hoặc tăng. Điện di Hb: HbF và HbA2 tăng.
 
 Thể trung gian do kết hợp 2 đột biến $β^+$ hoặc kết hợp 1 đột biến $β^+$ và 1 đột biến $β^0$. Tình trạng thiếu máu nhẹ hơn, bệnh biểu hiện muộn hơn.
 
@@ -122,7 +122,7 @@ Với mẹ:
 
 Các bước của chiến lược tầm soát Thalassemia hiện nay:
 
-Bước 1. Nhận diện tình trạng thiếu máu nhược sắc hồng cầu nhỏ bằng huyết đồ. Huyết đồ cho thấy thiếu máu hồng cầu nhỏ, nhược sắc: nồng độ Hb < 11 g/dL, MCV < 80 fL, MCH < 27 pg.
+Bước 1. Nhận diện tình trạng thiếu máu nhược sắc hồng cầu nhỏ bằng huyết đồ. Huyết đồ cho thấy thiếu máu hồng cầu nhỏ, nhược sắc: nồng độ Hb<11 g/dL, MCV<80 fL, MCH<27 pg.
 
 Bước 2. Phân biệt với thiếu máu thiếu sắt bằng định lượng ferritin. Ferritin bình thường hoặc cao là chỉ định của điện di hemoglobin.
 

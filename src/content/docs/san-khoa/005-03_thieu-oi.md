@@ -71,7 +71,7 @@ Tư vấn tình trạng thai.
 
 Truyền ối khi có chỉ định:
 
-- Tuổi thai > 16 tuần.
+- Tuổi thai>16 tuần.
 - Lấy ối làm xét nghiệm nhiễm sắc thể, TORCH,...
 - Hỗ trợ siêu âm tầm soát hình thái học thai nhi.
 

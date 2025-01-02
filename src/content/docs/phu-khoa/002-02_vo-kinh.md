@@ -78,7 +78,7 @@ Các bé gái được đánh giá vô kinh nguyên phát nếu không có kinh 
 Các bé gái và phụ nữ trong độ tuổi sinh đẻ nên được đánh giá về tình trạng vô kinh thứ phát nếu trước đó họ có kinh nguyệt và có:
 
 - Mất chu kỳ kinh nguyệt ≥ 3 tháng nếu trước đây họ có chu kỳ kinh nguyệt đều hoặc ≥ 6 tháng nếu trước đó họ có chu kỳ kinh nguyệt không đều.
-- < 9 kỳ kinh/năm hoặc chu kỳ dài > 38 ngày (thiểu kinh).
+-<9 kỳ kinh/năm hoặc chu kỳ dài>38 ngày (thiểu kinh).
 - Thay đổi kiểu kinh nguyệt mới và liên tục (tần suất, khối lượng, thời lượng).
 
 Tiền sử bệnh hiện tại bao gồm các câu hỏi về chức năng kinh nguyệt:
@@ -129,7 +129,7 @@ Nếu phát triển tuổi dậy thì có thể bất thường, các đặc đi
 
 Khám vú cần phải được thực hiện để kiểm tra chứng tiết sữa (tình trạng tiết sữa của vú không liên quan tạm thời đến việc sinh con); nó có thể được phân biệt với các loại dịch tiết núm vú khác bằng cách tìm các hạt mỡ trong dịch đó bằng kính hiển vi năng lượng thấp.
 
-Khám vùng chậu được thực hiện để kiểm tra mức độ phì đại của tử cung (có thể là do mang thai hoặc khối u), buồng trứng và âm vật (âm vật to). Khám khung chậu cũng giúp xác định xem có thiếu hụt estrogen hay không. Ở phụ nữ trong độ tuổi sinh sản, sự hiện diện của chất nhầy cổ tử cung với chất nhầy spinnbarkeit (chất lượng dai, giống như sợi dây) thường cho thấy đủ lượng estrogen; niêm mạc âm đạo mỏng, nhợt nhạt, không có vảy và pH > 6.0 chứng tỏ thiếu hụt estrogen. Ở bé gái hoặc phụ nữ trẻ, khám có thể phát hiện các bất thường về giải phẫu của cơ quan sinh dục (ví dụ: màng trinh không lỗ, vách ngăn âm đạo, bất sản âm đạo, bất sản cổ tử cung hoặc bất sản tử cung). Màng trinh căng phồng có thể do tích kinh nguyệt âm đạo, gợi ý tắc nghẽn đường sinh dục.
+Khám vùng chậu được thực hiện để kiểm tra mức độ phì đại của tử cung (có thể là do mang thai hoặc khối u), buồng trứng và âm vật (âm vật to). Khám khung chậu cũng giúp xác định xem có thiếu hụt estrogen hay không. Ở phụ nữ trong độ tuổi sinh sản, sự hiện diện của chất nhầy cổ tử cung với chất nhầy spinnbarkeit (chất lượng dai, giống như sợi dây) thường cho thấy đủ lượng estrogen; niêm mạc âm đạo mỏng, nhợt nhạt, không có vảy và pH>6.0 chứng tỏ thiếu hụt estrogen. Ở bé gái hoặc phụ nữ trẻ, khám có thể phát hiện các bất thường về giải phẫu của cơ quan sinh dục (ví dụ: màng trinh không lỗ, vách ngăn âm đạo, bất sản âm đạo, bất sản cổ tử cung hoặc bất sản tử cung). Màng trinh căng phồng có thể do tích kinh nguyệt âm đạo, gợi ý tắc nghẽn đường sinh dục.
 
 Khám tổng quát tập trung vào bằng chứng nam hóa, bao gồm rậm lông, hói tạm thời, mụn trứng cá, giọng trầm, tăng khối lượng cơ và khử nữ tính (giảm các đặc điểm sinh dục thứ phát bình thường trước đây, chẳng hạn như giảm kích thước vú và teo âm đạo). Nam hóa là do tuyến thượng thận hoặc buồng trứng tăng sản sinh androgen. Chứng tăng lông tóc (lông mọc quá mức ở tứ chi, đầu và lưng), phổ biến ở 1 số gia đình, được phân biệt với chứng rậm lông thực sự, được đặc trưng bởi lông quá mức ở môi trên, cằm và giữa 2 vú.
 
@@ -149,7 +149,7 @@ Xét nghiệm các hormon nội tiết như:
 - FSH: 5‒20 IU/L.
 - LH: 5‒40 IU/L.
 - Karyotype (nữ): 46, XX.
-- Prolactin: 50 ng/mL. Prolactin 50–100 ng/mL được coi là tăng nhẹ và thường là do sử dụng thuốc. Prolactin > 100 ng/mL được coi là cao và có nhiều khả năng là do khối u.
+- Prolactin: 50 ng/mL. Prolactin 50–100 ng/mL được coi là tăng nhẹ và thường là do sử dụng thuốc. Prolactin>100 ng/mL được coi là cao và có nhiều khả năng là do khối u.
 - Testosterone: 20-80 ng/dL (0,7-2,8 nmol/L).
 
 Vô kinh với nồng độ hormone kích thích nang trứng (FSH) cao (hypergonadotropic hypogonadism) gợi ý rối loạn chức năng buồng trứng. Vô kinh với nồng độ FSH thấp (giảm năng tuyến sinh dục thiểu năng sinh dục) gợi ý rối loạn chức năng vùng dưới đồi hoặc rối loạn chức năng tuyến yên.
