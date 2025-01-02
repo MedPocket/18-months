@@ -51,20 +51,20 @@ Khiếm khuyết chức năng tế bào β không bù đủ sự gia tăng của
 
 |Phân loại|Tiêu chuẩn của WHO|Tiêu chuẩn của người châu A (IDI&WPRO)|
 |---|---|---|
-|Thiểu cân|< 18,5|< 18,5|
+|Thiểu cân|<18,5|<18,5|
 |Bình thường|18,5 - 24,9|18,5 - 22,9|
 |Thừa cân|25 - 29,9|23 - 24,9|
 |Béo phì|> 30|> 25|
 
 _Bảng phân loại BMI theo tiêu chuẩn của WHO và theo Châu Á._
 
-Người trưởng thành có BMI ≥ 23 $kg/m^2$ và có 1 trong các nguy cơ sau:
+Người trưởng thành có BMI ≥23 $kg/m^2$ và có 1 trong các nguy cơ sau:
 
 - Gia đình có người mắc đái tháo đường thế hệ cận kề, chiếm 50-60% so với nhóm tiền sử gia đình không có người đái tháo đường.
-- Tiền sử sinh con to cân nặng trẻ sơ sinh to ≥ 4000 gam vừa là hậu quả của đái tháo đường, vừa là yếu tố nguy cơ cho mẹ ở những lần mang thai sau.
+- Tiền sử sinh con to cân nặng trẻ sơ sinh to ≥4000 gam vừa là hậu quả của đái tháo đường, vừa là yếu tố nguy cơ cho mẹ ở những lần mang thai sau.
 - Tiền sử sản khoa bất thường thai chết lưu không rõ nguyên nhân, con bị dị tật bẩm sinh, tiền sản giật, sinh non.
 - Tiền sử bệnh tim mạch do sơ vữa.
-- Tăng huyết áp (huyết áp tâm thu ≥ 140 mmHg hoặc huyết áp tâm trương ≥ 90 mmHg hay điều trị thước tăng huyết áp).
+- Tăng huyết áp (huyết áp tâm thu ≥140 mmHg hoặc huyết áp tâm trương ≥90 mmHg hay điều trị thước tăng huyết áp).
 - Nồng độ HDL-C trong máu <0.9 mmol/L và/hoặc Triglyceride >2.82 mmol/L.
 - Phụ nữ bị buồng trứng đa nang.
 - Ít vận động thể lực.
@@ -72,7 +72,7 @@ Người trưởng thành có BMI ≥ 23 $kg/m^2$ và có 1 trong các nguy cơ 
 
 Phụ nữ đã mắc đái tháo đường thai kỳ.
 
-HbA1C ≥ 5.7%, rối loạn glucose huyết đói hay rối loạn dung nạp glucose ở lần xét nghiệm trước đó.
+HbA1C ≥5.7%, rối loạn glucose huyết đói hay rối loạn dung nạp glucose ở lần xét nghiệm trước đó.
 
 Glucose niệu dương tính cũng là yếu tố nguy cơ cao đối với đái tháo đường thai kỳ. Tuy nhiên, có khoảng 10 - 15% thai phụ có glucose niệu dương tính mà không phải do mắc đái tháo đường thai kỳ.
 
@@ -115,8 +115,8 @@ Nhóm thai phụ có nguy cơ cao cần được xét nghiệm glucose huyết t
   - Thực hiện xét nghiệm sàng lọc ngay.
 
 - Đái tháo đường mang thai:
-  - Glucose huyết tương tĩnh mạch khi đói ≥ 126 mg/dL (7.0 mmol/L). Cần làm 2 thời điểm khác nhau hoặc kèm thêm HbA1C bất thường.
-  - Glucose huyết tương tĩnh mạch bất kỳ ≥ 200 mg/dL (11.1 mmol/L) kèm các triệu chứng của tăng gluces huyết điển hình hoặc cơn tăng glucose huyết cấp.
+  - Glucose huyết tương tĩnh mạch khi đói ≥126 mg/dL (7.0 mmol/L). Cần làm 2 thời điểm khác nhau hoặc kèm thêm HbA1C bất thường.
+  - Glucose huyết tương tĩnh mạch bất kỳ ≥200 mg/dL (11.1 mmol/L) kèm các triệu chứng của tăng gluces huyết điển hình hoặc cơn tăng glucose huyết cấp.
   - Giới thiệu khám chuyên khoa Nội tiết.
 
 :::
@@ -126,19 +126,19 @@ Y văn ghi nhận tăng HbA1C trong 3 tháng đầu thai kỳ làm tăng nguy c�
 Dựa trên tiêu chuẩn của đái tháo đường thực thụ, BN có thể mắc đái tháo đường từ trước nhưng khi có thai mới phát hiện đái tháo đường.
 
 :::note[Tiêu chuẩn chẩn đoán đái tháo đường]
-Đường huyết đói ≥ 126 mg/dL (7.0 mmol/L)
+Đường huyết đói ≥126 mg/dL (7.0 mmol/L)
 
 hoặc
 
-Đường huyết sau ăn 2h uống đường ≥ 200 mg/dL (11.1 mmol/L) trong test OGTT*
+Đường huyết sau ăn 2h uống đường ≥200 mg/dL (11.1 mmol/L) trong test OGTT*
 
 hoặc
 
-A1C ≥ 6.5%*
+A1C ≥6.5%*
 
 hoặc
 
-BN có triệu chứng điển hình của tăng đường huyết hay các cơn tăng đường huyết, đường huyết bất kỳ ≥ 200 mg/dL (11.1 mmol/L)
+BN có triệu chứng điển hình của tăng đường huyết hay các cơn tăng đường huyết, đường huyết bất kỳ ≥200 mg/dL (11.1 mmol/L)
 
 \* Cần thực hiện lại xét nghiệm nếu không có triệu chứng tăng đường huyết rõ ràng trên lâm sàng.
 :::
@@ -162,9 +162,9 @@ Tham số Glucose huyết tương trong nghiệm pháp 75gram Glucose 2h:
 
 |Giờ|Glucose huyết tương tĩnh mạch (mg/dl hay mg%)|Glucose huyết tương tĩnh mạch (mmol/l)|
 |---|---|---|
-|Đói|≥ 92|≥ 5.1|
-|1h|≥ 180|≥ 10.0|
-|2h|≥ 153|≥ 8.5|
+|Đói|≥92|≥5.1|
+|1h|≥180|≥10.0|
+|2h|≥153|≥8.5|
 :::
 
 ### 3 tháng cuối thai kỳ
@@ -178,9 +178,9 @@ _Sàng lọc Đái tháo đường thai kỳ._
 
 |Thời điểm|Glucose (mg/dL)|Glucose (mmol/l)|
 |---|---|---|
-|Lúc đói|< 95|< 5,3|
-|Sau ăn 1 giờ|< 140|< 7,8|
-|Sau ăn 2 giờ|< 120|< 6,7|
+|Lúc đói|<95|<5,3|
+|Sau ăn 1 giờ|<140|<7,8|
+|Sau ăn 2 giờ|<120|<6,7|
 
 _Glucose huyết tương mao mạch mục tiêu._
 
@@ -382,7 +382,7 @@ Nguy cơ mắc đái tháo đường những lần sau.
 
 ### Đối với con
 
-Tần suất thai to (thai >= 4000 g) tăng cao.
+Tần suất thai to (thai ≥4000 g) tăng cao.
 
 Tỷ lệ đột tử của thai tăng.
 
@@ -410,7 +410,7 @@ Nhìn chung tăng đường huyết thai kỳ:
 
 ## Theo dõi hậu sản
 
-Nhiều thai phụ đái tháo đường không cần thiết điều trị Insulin trong 48 đến 72h đầu sau sinh. Đường máu đói sau đẻ ≥ 7 mmol/L và/hoặc đường máu sau ăn ≥ 11.1 mmol/L cần điều trị Insulin. Cần dùng Insulin trong trường hợp có đường huyết tăng với liều khởi đầu sẽ bằng 2/3 liều trước khi mang thai.
+Nhiều thai phụ đái tháo đường không cần thiết điều trị Insulin trong 48 đến 72h đầu sau sinh. Đường máu đói sau đẻ ≥7 mmol/L và/hoặc đường máu sau ăn ≥11.1 mmol/L cần điều trị Insulin. Cần dùng Insulin trong trường hợp có đường huyết tăng với liều khởi đầu sẽ bằng 2/3 liều trước khi mang thai.
 
 Hiệp hội sản phụ khoa Hoa Kỳ khuyến cáo làm lại nghiệm pháp dung nạp đường với 2 thời điểm (đói và 2h sau ăn) trong vòng 4-12 tuần sau đẻ.
 
