@@ -15,8 +15,7 @@
       "**/pnpm-lock.yaml",
       "**/.netlify/",
       "**/.astro/",
-      "**/.github/",
-      "**/*.mdx"
+      "**/.github/"
     ]
   },
   "organizeImports": { "enabled": true },

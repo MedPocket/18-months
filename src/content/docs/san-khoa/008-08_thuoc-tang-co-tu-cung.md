@@ -86,7 +86,7 @@ Mẹ:
 
 - Cơn co cường tính, gây vỡ tử cung.
 - Ngộ độc nước trong trường hợp sử dụng liều cao trong thời gian dài thì nên tăng nồng độ hơn tăng tốc độ, dùng dung dịch Lactate Ringer hay muối đẳng trương.
-- Ảnh hường lê tim mạch khi dùng liều cao > 45mIU/phút hay tiêm tĩnh mạch trực tiếp có thể gây biến chứng tụt huyết áp, giảm tưới máu động mạch vành, ngưng tim.
+- Ảnh hường lê tim mạch khi dùng liều cao>45mIU/phút hay tiêm tĩnh mạch trực tiếp có thể gây biến chứng tụt huyết áp, giảm tưới máu động mạch vành, ngưng tim.
 - Dị ứng ít thấy.
 - Tác dụng kháng lợi tiểu do giống cấu trúc ADH, nên dùng liều lớn có thể có tác dụng kháng lợi niệu (ứ nước, hạ natri, hôn mêm, co giật tử cung).
 

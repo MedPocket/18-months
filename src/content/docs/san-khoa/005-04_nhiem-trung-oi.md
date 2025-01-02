@@ -53,11 +53,11 @@ Sử dụng kháng sinh khi mẹ chẩn đoán số đơn thuần trong chuyển
 
 Chấm dứt thai kỳ khi có chẩn đoán nghi ngờ hoặc xác định nhiễm trùng ối, ưu tiên sinh đường âm đạo.
 
-Khởi phát chuyển dạ hoặc can thiệp để rút ngắn thời gian chuyển dạ (từ lúc nghi ngờ hoặc xác định đến lúc sinh không kéo dài quá 12 giờ).
+Khởi phát chuyển dạ hoặc can thiệp để rút ngắn thời gian chuyển dạ (từ lúc nghi ngờ hoặc xác định đến lúc sinh không kéo dài quá 12h).
 
 Mổ lấy thai khi có chỉ định. Mổ lấy thai làm tăng nguy cơ nhiễm trùng vết thường, viêm nội mạc tử cung, huyết khối mạch máu,...
 
-Duy trì kháng sinh sau sinh/sau mô đến khi hết sốt ít nhất 24 giờ.
+Duy trì kháng sinh sau sinh/sau mô đến khi hết sốt ít nhất 24h.
 
 Xác định nhiễm trùng lan rộng bao gồm nhiễm trùng vùng chậu, nhiễm trùng huyết, nhiễm trùng toàn thân,... Khi có nhiễm trùng lan rộng cần điều trị tích cực theo mức độ nhiễm trùng.
 
@@ -67,19 +67,19 @@ Xác định nhiễm trùng lan rộng bao gồm nhiễm trùng vùng chậu, nh
 
 Chọn 1 trong các kháng sinh sau đây:
 
-- Ampicillin 2 g tiêm tĩnh mạch mỗi 6 giờ + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24 giờ (sau mổ lấy thai, thêm Clindamycin 900 mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8 giờ), hoặc
-- Ampicillin - sulbactam 3 g tiêm tĩnh mạch mỗi 6 giờ, hoặc
-- Cefoxitin 2 g tiêm tĩnh mạch mỗi 8 giờ, hoặc
-- Cefotetan 2 g tiêm tĩnh mạch mỗi 12 giờ, hoặc
-- Mezlocillin 4 g tiêm tĩnh mạch mỗi 6 giờ.
+- Ampicillin 2 g tiêm tĩnh mạch mỗi 6h + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24h (sau mổ lấy thai, thêm Clindamycin 900 mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h), hoặc
+- Ampicillin - sulbactam 3 g tiêm tĩnh mạch mỗi 6h, hoặc
+- Cefoxitin 2 g tiêm tĩnh mạch mỗi 8h, hoặc
+- Cefotetan 2 g tiêm tĩnh mạch mỗi 12h, hoặc
+- Mezlocillin 4 g tiêm tĩnh mạch mỗi 6h.
 
 #### Lựa chọn 2: Nếu dị ứng nhẹ với Penicillin
 
-Cefazolin 2 g tiêm tĩnh mạch mỗi 8 giờ + + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24 giờ (sau mổ lấy thai, thêm Clindamycin 900 mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8 giờ).
+Cefazolin 2 g tiêm tĩnh mạch mỗi 8h + + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24h (sau mổ lấy thai, thêm Clindamycin 900 mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h).
 
 #### Lựa chọn 3: Nếu dị ứng nặng với Penicillin
 
-Clindamycin 900 mg truyền tĩnh mạch 8 giờ hoặc Vancomycin 1 g truyền tĩnh mạch mỗi 12 giờ và Gentamicin truyền tĩnh mạch 5 mg/kg truyền tĩnh mạch mỗi 24 giờ.
+Clindamycin 900 mg truyền tĩnh mạch 8h hoặc Vancomycin 1 g truyền tĩnh mạch mỗi 12h và Gentamicin truyền tĩnh mạch 5 mg/kg truyền tĩnh mạch mỗi 24h.
 
 :::caution[Lưu ý]
 
@@ -92,9 +92,9 @@ Vancomycin chỉ nên sử dụng trong trường hợp:
 
 #### Nếu không đáp ứng với kháng sinh trên
 
-Piperacillin - Tazobactam 4.5 g truyền tĩnh mạch mỗi 8 giờ, hoặc
+Piperacillin - Tazobactam 4.5 g truyền tĩnh mạch mỗi 8h, hoặc
 
-Ertapenem 1 g truyền tĩnh mạch mỗi 24 giờ.
+Ertapenem 1 g truyền tĩnh mạch mỗi 24h.
 
 ### Hạ sốt
 

@@ -31,7 +31,7 @@ _Cơ sở dữ liệu bằng chứng từ 8 RCT lớn cho thấy:_
 
 Tất cả các phụ nữ mang thai cần được làm xét nghiệm tầm soát viêm gan B trong quý 1 thai kì.
 
-Nếu HBsAg (+), HBeAg (+) và HBV DNA > $10^6$ copies/ml (200.000 IU/mL) hoặc HBsAg định lượng > $10^4$ IU/mL:
+Nếu HBsAg (+), HBeAg (+) và HBV DNA>$10^6$ copies/ml (200.000 IU/mL) hoặc HBsAg định lượng>$10^4$ IU/mL:
 
 - Điều trị dự phòng với Tenofovir disoproxil fumarate (TDF) 300mg/viên/ngày từ tuần 24 - 28 của thai kỳ. Nếu muộn hơn nên bắt đầu ít nhất 4 tuần trước sinh và liên tục đến 4 - 12 tuần sau sinh (chú ý điều chỉnh liều theo mức lọc cầu thận).
 - Theo dõi tình trạng của mẹ gồm triệu chứng lâm sàng, AST, ALT mỗi 4 - 12 tuần, tải lượng HBV DNA trong vòng 24 tuần sau sinh để phát hiện viêm gan B bùng phát. Xét nghiệm lại HBV DNA sau sinh 3 tháng để quyết định ngừng thuốc hay tiếp tục điều trị nếu mẹ đủ tiêu chuẩn điều trị.
@@ -43,8 +43,8 @@ Phụ nữ mang thai mắc viêm gan B mạn có chỉ định điều trị nh�
 - Đối với trường hợp xơ gan còn bù hoặc mất bù điều trị khi tải lượng HBV DNA trên ngưỡng bất kể nồng độ ALT và tình trạng HBeAg.
 
 - Đối với trường hợp không xơ gan điều trị viêm gan B mạn cho người bệnh khi đáp ứng cả 2 tiêu chuẩn:
-  - Tổn thương tế bào gan: AST, ALT > 2 lần bình thường và/hoặc xơ hóa gan F ≥ 2.
-  - Virus đang tăng sinh HBV DNA ≥ $10^5$ copies/mL nếu HBeAg (+), HBV DNA ≥ $10^4$ copies/mL nếu HBeAg (-).
+  - Tổn thương tế bào gan: AST, ALT>2 lần bình thường và/hoặc xơ hóa gan F ≥2.
+  - Virus đang tăng sinh HBV DNA ≥$10^5$ copies/mL nếu HBeAg (+), HBV DNA ≥$10^4$ copies/mL nếu HBeAg (-).
 
 :::caution[Lưu ý]
 Khi điều trị:
@@ -69,10 +69,10 @@ Kiểm soát tải lượng virus cho phép hạn chế tối đa lây truyền 
 
 Mẹ có viêm gan B. Dù trẻ có được nuôi bằng sữa mẹ hay không thì vẫn phải thực hiện 2 biện pháp để bảo vệ cho trẻ:
 
-1. Tiêm globulin sớm trong những giờ đầu sau sinh.
+1. Tiêm globulin sớm trong nhữngh đầu sau sinh.
 2. Tiêm vaccine dự phòng viêm gan cho trẻ.
 
-Nên tiêm huyết thanh viêm gan B cho con từ 11 - 12 giờ đầu sau sinh, cần tiêm phòng trước 24 giờ để đảm bảo tỷ lệ lây nhiễm thấp nhất phối hợp tiêm vaccine mũi đầu tiên. Nên tiêm cùng thời điểm nhưng ở 2 vị trí khác nhau. Sau đó, tiếp tục tiêm 3 mũi vaccine viêm gan B theo đúng chương trình tiêm chủng mở rộng tháng thứ 2, 3 và 4. Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng tuổi để đánh giá tình trạng nhiễm HBV.
+Nên tiêm huyết thanh viêm gan B cho con từ 11 - 12h đầu sau sinh, cần tiêm phòng trước 24h để đảm bảo tỷ lệ lây nhiễm thấp nhất phối hợp tiêm vaccine mũi đầu tiên. Nên tiêm cùng thời điểm nhưng ở 2 vị trí khác nhau. Sau đó, tiếp tục tiêm 3 mũi vaccine viêm gan B theo đúng chương trình tiêm chủng mở rộng tháng thứ 2, 3 và 4. Xét nghiệm HBsAg và anti-HBs cho trẻ>12 tháng tuổi để đánh giá tình trạng nhiễm HBV.
 
 ## Nguồn tham khảo
 
