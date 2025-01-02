@@ -69,10 +69,10 @@ Kiểm soát tải lượng virus cho phép hạn chế tối đa lây truyền 
 
 Mẹ có viêm gan B. Dù trẻ có được nuôi bằng sữa mẹ hay không thì vẫn phải thực hiện 2 biện pháp để bảo vệ cho trẻ:
 
-1. Tiêm globulin sớm trong những giờ đầu sau sinh.
+1. Tiêm globulin sớm trong nhữngh đầu sau sinh.
 2. Tiêm vaccine dự phòng viêm gan cho trẻ.
 
-Nên tiêm huyết thanh viêm gan B cho con từ 11 - 12 giờ đầu sau sinh, cần tiêm phòng trước 24 giờ để đảm bảo tỷ lệ lây nhiễm thấp nhất phối hợp tiêm vaccine mũi đầu tiên. Nên tiêm cùng thời điểm nhưng ở 2 vị trí khác nhau. Sau đó, tiếp tục tiêm 3 mũi vaccine viêm gan B theo đúng chương trình tiêm chủng mở rộng tháng thứ 2, 3 và 4. Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng tuổi để đánh giá tình trạng nhiễm HBV.
+Nên tiêm huyết thanh viêm gan B cho con từ 11 - 12h đầu sau sinh, cần tiêm phòng trước 24h để đảm bảo tỷ lệ lây nhiễm thấp nhất phối hợp tiêm vaccine mũi đầu tiên. Nên tiêm cùng thời điểm nhưng ở 2 vị trí khác nhau. Sau đó, tiếp tục tiêm 3 mũi vaccine viêm gan B theo đúng chương trình tiêm chủng mở rộng tháng thứ 2, 3 và 4. Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng tuổi để đánh giá tình trạng nhiễm HBV.
 
 ## Nguồn tham khảo
 

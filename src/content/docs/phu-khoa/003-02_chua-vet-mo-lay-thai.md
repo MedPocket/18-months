@@ -182,7 +182,7 @@ Chỉ định thai ≤ 8 tuần.
 - Theo dõi ngoại trú:
   - Tái khám mỗi 3 tuần đầu, sau đó 1 tháng cho đến khi mất khối thai, beta hCG âm tính, không có tăng sinh mạch máu.
   - Dặn dò người bệnh không làm việc nặng, không đi lại nhiều, không giao hợp.
-  - Tái khám theo hẹn hoặc khi đau bụng nhiều hoặc ra huyết âm đạo nhiều (2 băng vệ sinh mỗi giờ trong 2h).
+  - Tái khám theo hẹn hoặc khi đau bụng nhiều hoặc ra huyết âm đạo nhiều (2 băng vệ sinh mỗih trong 2h).
 - Dấu hiệu người bệnh phải nhập viện:
   - beta hCG tăng.
   - Kích thước khối echo hỗn âm ở sẹo mổ tăng.

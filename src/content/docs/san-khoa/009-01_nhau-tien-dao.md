@@ -76,7 +76,7 @@ _Theo nghiên cứu, khảo sát mép bánh rau bám lan qua lỗ trong cổ t�
 
 Xuất huyết âm đạo trong 3 tháng cuối thai kỳ không kèm theo đau bụng là 1 dấu hiệu điển hình của rau tiền đạo.
 
-Máu chảy ra ngoài trong rau tiền đạo là máu mẹ. Đợt chảy máu âm đạo đầu tiên thường tự ổn định trong vòng 1-2 giờ, nếu như nó không quá nghiêm trọng để có chỉ định chấm dứt thai kỳ. Nếu chảy máu là trầm trọng hoặc thai nhi đã trưởng thành thì chấm dứt thai kỳ là lựa chọn. Số đợt xuất hiện chảy máu không có mối liên quan đến độ nặng của rau tiền đạo cũng như kết cục của thai nhi.
+Máu chảy ra ngoài trong rau tiền đạo là máu mẹ. Đợt chảy máu âm đạo đầu tiên thường tự ổn định trong vòng 1-2h, nếu như nó không quá nghiêm trọng để có chỉ định chấm dứt thai kỳ. Nếu chảy máu là trầm trọng hoặc thai nhi đã trưởng thành thì chấm dứt thai kỳ là lựa chọn. Số đợt xuất hiện chảy máu không có mối liên quan đến độ nặng của rau tiền đạo cũng như kết cục của thai nhi.
 
 Khả năng tự cầm máu sau sinh của cuộc sinh với rau tiền đạo rất kém. Cơ chế cầm máu bình thường sau sổ rau trong các trường hợp rau bám ở thân tử cung là do các thớ cơ đan chéo siết chặt các mạch máu bị hở ra sau sinh ở các hồ máu. Trong rau tiền đạo, do các hồ máu có vị trí là ở đoạn dưới tử cung, không có các lớp cơ đan chéo, nên các mạch máu này không được siết lại sau khi sinh.
 
@@ -112,7 +112,7 @@ Liệu pháp corticosteroid từ tuần 28 đến trước 34 tuần.
 
 Truyền máu khi Hb < 10 g/dL.
 
-Có thể xuất viện trong vòng 48 giờ không kèm theo yếu tố nguy cơ nào khác.
+Có thể xuất viện trong vòng 48h không kèm theo yếu tố nguy cơ nào khác.
 
 Chấm dứt thai kỳ:
 
@@ -133,7 +133,7 @@ Cần lập 1-2 đường truyền tĩnh mạch. Truyền Ringer lactated hoặc
 
 Xét nghiệm nhóm máu, dự trù 2-4 đơn vị máu. Truyền khi lượng máu mất quá 30% (xuất huyết độ III) hoặc Hb < 10 g/dL.
 
-Theo dõi huyết áp mẹ, nước tiểu mỗi giờ bằng sonde tiểu. Ước lượng máu mất bằng bằng vệ sinh.
+Theo dõi huyết áp mẹ, nước tiểu mỗih bằng sonde tiểu. Ước lượng máu mất bằng bằng vệ sinh.
 
 Phương pháp vô cảm lúc mổ lấy thai: Trong phần lớn trường hợp, gây tê vùng là lựa chọn khi mổ lấy thai rau tiền đạo. Tuy nhiên, trong trường hợp dự đoán cuộc mổ kéo dài hay khó khăn như trong trường hợp của rau cài răng lược thì gây mê nội khí quản sẽ được chọn lựa.
 

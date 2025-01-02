@@ -204,7 +204,7 @@ Phẫu thuật đặt mảnh ghép tổng hợp là phẫu thuật ưu thế tro
 
 BN lớn tuổi (> 70 tuổi).
 
-Tình trạng BN không cho phép gây mê kéo dài > 2 giờ.
+Tình trạng BN không cho phép gây mê kéo dài > 2h.
 
 BN có tiền sử vết mổ cũ trên bụng nhiều lần (≥ 2 lần), hoặc tiền sử nhiễm trùng vết mổ.
 
@@ -224,7 +224,7 @@ Thất bại với phẫu thuật điều trị sa tạng chậu đường âm �
 
 Kỹ năng phẫu thuật viên không thể thực hiện các phẫu thuật phục hồi sa tạng chậu khó qua ngả bụng như nội soi ổ bụng treo tử cung vào mỏm nhô và đặt mảnh ghép nâng bàng quang - trực tràng, khi đó cần kết hợp đường âm đạo để đặt mảnh ghép nâng bàng quang-trực tràng, tăng hiệu quả điều trị.
 
-Sa tử cung ≥ độ 2 kèm sa các tạng chậu khác nhưng tình trạng BN không cho phép phẫu thuật hoặc gây mê kéo dài > 2 giờ.
+Sa tử cung ≥ độ 2 kèm sa các tạng chậu khác nhưng tình trạng BN không cho phép phẫu thuật hoặc gây mê kéo dài > 2h.
 
 ## Phác đồ chẩn đoán và xử trí sa tạng chậu
 

@@ -7,12 +7,12 @@ Hậu quả của chuyển dạ kéo dài rất nặng nề. Hầu hết các bi
 
 ## Chuyển dạ kéo dài
 
-Chuyển dạ kéo dài được hiểu là chuyển dạ kéo dài trên 24 giờ. Chuyển dạ giai đoạn hoạt động trên 12 giờ là kéo dài.
+Chuyển dạ kéo dài được hiểu là chuyển dạ kéo dài trên 24h. Chuyển dạ giai đoạn hoạt động trên 12h là kéo dài.
 
 Do giai đoạn xóa mở cổ tử cung của chuyển dạ gồm 2 giai đoạn liên tiếp, nên có thể phân biệt:
 
 1. Chuyển dạ giai đoạn tiềm thời kéo dài: thường khó xác định, do khó biết được khởi đầu của chuyển dạ.
-2. Chuyển dạ giai đoạn hoạt động kéo dài: khi độ dài của giai đoạn hoạt động kéo dài trên 12 giờ.
+2. Chuyển dạ giai đoạn hoạt động kéo dài: khi độ dài của giai đoạn hoạt động kéo dài trên 12h.
 
 Có 3 yếu tố gây bất thường trong chuyển dạ 3P:
 
@@ -96,7 +96,7 @@ Trong những nỗ lực vượt qua trở ngại, các cơn co tử cung thúc 
 1. Tử cung co thắt làm thay đổi áp suất trong buồng tử cung có chu kỳ, có tác động như bơm tống nước ối sạch từ tử cung vào âm đạo, và hút nước ối/dịch âm đạo có vi khuẩn vào buồng ối. Thời gian càng chuyển dạ có vỡ ối càng kéo dài, hoạt độ tử cung càng mạnh thì nguy cơ vấy bẩn buồng ối do xâm nhập ngược dòng càng cao.
 2. Chuyển dạ kéo dài làm tăng 1 cách không mong muốn số lần khám, dẫn đến việc đưa vi khuẩn âm đạo xâm nhập vào buồng ối khi thực hiện thao tác khám.
 
-Nhiễm trùng ối là tình trạng nhiễm trùng rất nặng, ảnh hưởng nghiêm trọng đến sơ sinh. Nhiễm khuẩn ối được định nghĩa là nhiễm khuẩn của nước ối và các màng ối. Vi khuẩn tìm thấy ở nước ối 1 môi trường nuôi cấy và phát triển lý tưởng, và gây nên nhiễm khuẩn nước ối sau 6 giờ. Nhiễm khuẩn của nước ối kéo theo hệ quả trực tiếp là nhiễm khuẩn thai nhi, do thai nhi uống và hít thở nước ối. Nhiễm trùng sơ sinh là hệ quả trực tiếp của nhiễm khuẩn ối. Nhiễm khuẩn này càng nặng nề hơn nếu tác nhân gây bệnh là Streptococcus B. Nhiễm khuẩn nước ối làm thay đổi tính chất của dịch ối, dịch ối trở nên hôi. Sơ sinh tống xuất phân su do cả tình trạng thiếu oxy kéo dài lẫm tình trạng nhiễm trùng dẫn đến đổi màu nước ối. Do lúc này, vi khuẩn còn chưa tấn công người mẹ, nên vẫn chưa có biểu hiện lâm sàng về phía mẹ.
+Nhiễm trùng ối là tình trạng nhiễm trùng rất nặng, ảnh hưởng nghiêm trọng đến sơ sinh. Nhiễm khuẩn ối được định nghĩa là nhiễm khuẩn của nước ối và các màng ối. Vi khuẩn tìm thấy ở nước ối 1 môi trường nuôi cấy và phát triển lý tưởng, và gây nên nhiễm khuẩn nước ối sau 6h. Nhiễm khuẩn của nước ối kéo theo hệ quả trực tiếp là nhiễm khuẩn thai nhi, do thai nhi uống và hít thở nước ối. Nhiễm trùng sơ sinh là hệ quả trực tiếp của nhiễm khuẩn ối. Nhiễm khuẩn này càng nặng nề hơn nếu tác nhân gây bệnh là Streptococcus B. Nhiễm khuẩn nước ối làm thay đổi tính chất của dịch ối, dịch ối trở nên hôi. Sơ sinh tống xuất phân su do cả tình trạng thiếu oxy kéo dài lẫm tình trạng nhiễm trùng dẫn đến đổi màu nước ối. Do lúc này, vi khuẩn còn chưa tấn công người mẹ, nên vẫn chưa có biểu hiện lâm sàng về phía mẹ.
 
 Nhiễm trùng nội mạc tử cung, tử cung, du khuẩn huyết và nhiễm trùng huyết là hệ quả tiếp theo của nhiễm trùng ối. Đích đến kế đó của vi khuẩn sẽ là màng ối và màng đệm. Vi khuẩn nhanh chóng vượt qua các màng bào thai để vào đến tử cung và hệ tuần hoàn mẹ. Nhiễm trùng của màng rụng, lớp cơ tử cung, du khuẩn huyết, tiếp theo bằng huyết nhiễm trùng là các mức độ tuần tự tăng dần của nhiễm trùng ối. Lúc này, đã có các triệu chứng toàn thân ở mẹ. Biến đổi trong công thức bạch cầu, CRP là nhiễm dấu chứng của tình trạng nhiễm trùng ối đã xâm nhập vào tuần hoàn mẹ. Co thắt tử cung mạnh và liên tục tạo điều kiện thuận lợi hơn cho du khuẩn huyết và nhiễm trùng huyết.
 
@@ -111,7 +111,7 @@ _Sản đồ WHO 1993._
 
 ### Đặc điểm
 
-Trung tâm của sản đồ model WHO là đường báo động, thuộc về phần biểu đồ ghi lại diễn tiến cổ tử cung. Đường báo động là đường thẳng xuất phát tử tung độ mở cổ tử cung là 3 cm, và hoành độ thời gian là giờ thứ 8 sau khi bắt đầu. Hệ số góc của đường này là 1, ứng với tốc độ mở cổ tử cung là 1cm mỗi giờ, trùng với tốc độ mở cổ tử cung ở bách phân vị thứ 10 của dân số khảo sát bởi Philpott và các khảo sát trước đó của WHO. Điều này có nghĩa là khi tốc độ mở cổ tử cung là chậm hơn đường báo động, tức sản đồ ở bên phải của đường báo động, thì cũng đồng nghĩa với cổ tử cung đang diễn tiến như người có mở cổ tử cung chậm trong dân số khảo sát, cũng đồng nghĩa với việc chuyển dạ có nguy cơ trở thành chuyển dạ kéo dài, nếu không được nhận diện hay can thiệp thích hợp.
+Trung tâm của sản đồ model WHO là đường báo động, thuộc về phần biểu đồ ghi lại diễn tiến cổ tử cung. Đường báo động là đường thẳng xuất phát tử tung độ mở cổ tử cung là 3 cm, và hoành độ thời gian làh thứ 8 sau khi bắt đầu. Hệ số góc của đường này là 1, ứng với tốc độ mở cổ tử cung là 1cm mỗih, trùng với tốc độ mở cổ tử cung ở bách phân vị thứ 10 của dân số khảo sát bởi Philpott và các khảo sát trước đó của WHO. Điều này có nghĩa là khi tốc độ mở cổ tử cung là chậm hơn đường báo động, tức sản đồ ở bên phải của đường báo động, thì cũng đồng nghĩa với cổ tử cung đang diễn tiến như người có mở cổ tử cung chậm trong dân số khảo sát, cũng đồng nghĩa với việc chuyển dạ có nguy cơ trở thành chuyển dạ kéo dài, nếu không được nhận diện hay can thiệp thích hợp.
 
 Trong sản đồ model 1993 của WHO, độ dài của pha tiềm thời là bất định. Điều này phản ánh những khó khăn trong việc xác định thời điểm bắt đầu chuyển dạ.
 

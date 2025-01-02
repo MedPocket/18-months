@@ -64,7 +64,7 @@ Tiền sản giật được phân loại thành tiền sản giật không có 
 
 Dấu hiệu nặng của tiền sản giật (bất kỳ dấu hiệu nào):
 
-1. Huyết áp tâm thu ≥ 160 mmHg hoặc huyết áp tâm trương ≥ 110 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
+1. Huyết áp tâm thu ≥ 160 mmHg hoặc huyết áp tâm trương ≥ 110 mmHg qua 2 lần đo cách nhau ít nhất 4h khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
 2. Giảm tiểu cầu: tiểu cầu <100,000/µL.
 3. Suy giảm chức năng gan: men gan tăng (gấp đôi so với bình thường), đau nhiều ở hạ sườn phải hoặc đau thượng vị không đáp ứng với thuốc và không có nguyên nhân khác.
 4. Suy thận tiến triển (creatinine huyết thanh > 1.1 mg/dL hoặc gấp đôi nồng độ creatinine huyết thanh bình thường mà không do bệnh lý thận khác).
@@ -77,7 +77,7 @@ Mốc 34 tuần để tiên lượng tiền sản giật. Tiền sản giật tr
 
 ### Sản giật
 
-Sản giật là biến chứng nặng có thể sảy ra trước sinh, trong khi chuyển dạ và sau sinh 48-72 giờ.
+Sản giật là biến chứng nặng có thể sảy ra trước sinh, trong khi chuyển dạ và sau sinh 48-72h.
 
 Chẩn đoán sản giật đòi hỏi phải có sự hiện diện của 3 yếu tố (1) những cơn co giật và (2) hôn mê (3) xảy ra trên 1 sản phụ có hội chứng tiền sản giật.
 
@@ -168,7 +168,7 @@ Thời điểm ngừng sử dụng Aspirin là thai 36 tuần.
 
 ## Xử trí tiền sản giật và sản giật
 
-Theo dõi huyết áp đến 72 giờ sau sinh cho tất cả các trường hợp và theo dõi huyết áp 7-10 ngày sau sinh tại địa phương.
+Theo dõi huyết áp đến 72h sau sinh cho tất cả các trường hợp và theo dõi huyết áp 7-10 ngày sau sinh tại địa phương.
 
 ### Tiền sản giật không có dấu hiệu nặng
 
@@ -183,7 +183,7 @@ Nhập viện và chấm dứt thai kỳ khi:
 - Thai &gt; 34 tuần và có bất kỳ triệu chứng sau:
   - Chuyển dạ hoặc vỡ ối.
   - Siêu âm ước lượng trọng lượng thai nhỏ hơn bách phân vị thứ 5.
-  - Thiểu ối AFI < 5 cm ở 2 lần siêu âm liên tiếp cách nhau 24 giờ.
+  - Thiểu ối AFI < 5 cm ở 2 lần siêu âm liên tiếp cách nhau 24h.
 
 Nếu chưa có chỉ định chấm dứt thai kỳ có thể theo dõi nội trú hoặc ngoại trú:
 
@@ -211,7 +211,7 @@ Chấm dứt thai kỳ khi tiền sản giật nặng xuất hiện trước 25 
 - Giảm tiểu cầu.
 - Đông máu nội mạch lan tỏa.
 - Các triệu chứng dai dẳng.
-- Non-stress test không đáp ứng (2 lần liên tiếp cách 4-6 giờ ở tuổi thai 28-32 tuần).
+- Non-stress test không đáp ứng (2 lần liên tiếp cách 4-6h ở tuổi thai 28-32 tuần).
 - Siêu âm Doppler động mạch rốn: mất hoặc đảo ngược sóng tâm trương.
 - Thai lưu.
 
@@ -228,14 +228,14 @@ Liệu pháp Corticosteroids trước sinh khi thai &lt; 34 tuần. Tuy nhiên k
 - Hội chứng HELLP.
 - Thai lưu.
 
-Nếu tình trạng mẹ - thai ổn định, trong vòng 48 giờ chấm dứt thai kỳ khi có bất kỳ dấu hiệu sau:
+Nếu tình trạng mẹ - thai ổn định, trong vòng 48h chấm dứt thai kỳ khi có bất kỳ dấu hiệu sau:
 
 - Vỡ ối.
 - Chuyển dạ.
 - Tiểu cầu < 100 G/L.
 - Men gan tăng kéo dài (&gt; 2 lần bình thường).
 - Thai chậm tăng trưởng trong tử cung (cân nặng nhỏ hơn bách phân vị thứ 5).
-- Thiểu ối (AFI < 5 cm) (siêu âm 2 lần cách nhau 24 giờ).
+- Thiểu ối (AFI < 5 cm) (siêu âm 2 lần cách nhau 24h).
 - Bắt đầu suy thận hoặc suy thận nặng thêm.
 
 ![Lưu đồ xử trí tiền sản giật khi có dấu hiệu nặng](../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
@@ -245,8 +245,8 @@ Nếu tình trạng mẹ - thai ổn định, trong vòng 48 giờ chấm dứt 
 - Quyết định chấm dứt thai kỳ không dựa vào yếu tố đạm niệu.
 - Chỉ định dùng thuốc chống tăng huyết áp khi HA tâm thu &gt; 150 mmHg hoặc HA tâm trương &gt; 100 mmHg.
 - Mẹ:
-  - Sinh hiệu mỗi giờ/lần.
-  - Bilan dịch vào và ra mỗi 8 giờ/lần.
+  - Sinh hiệu mỗih/lần.
+  - Bilan dịch vào và ra mỗi 8h/lần.
   - Dấu hiệu chuyển dạ.
   - Xét nghiệm bilan tiền sản giật 1-2 ngày hoặc sớm hơn tùy diễn biến nặng của tiền sản giật.
 - Thai:
@@ -272,9 +272,9 @@ Nếu quyết định kéo dài thai kỳ được đặt ra thì có thể cân
 
 #### Khi tuổi thai từ 33-34 tuần 6 ngày
 
-Cần cân nhắc tình trạng mẹ có cho phép kéo dài thêm 48 giờ cho corticosteroid liệu pháp dự phòng suy hô hấp cấp hay không?
+Cần cân nhắc tình trạng mẹ có cho phép kéo dài thêm 48h cho corticosteroid liệu pháp dự phòng suy hô hấp cấp hay không?
 
-2 điều kiện tiên quyết để thực hiện Corticosteroids liệu pháp là (1) tình trạng mẹ phải đảm bảo cho việc kéo dài thai kỳ thêm 48 giờ mà không ảnh hưởng xấu đến mẹ, và (2) tình trạng tuần hoàn tử cung-rau và dự trữ kiềm của con phải đảm bảo chịu đựng cuộc sống trong tử cung thêm 48 giờ.
+2 điều kiện tiên quyết để thực hiện Corticosteroids liệu pháp là (1) tình trạng mẹ phải đảm bảo cho việc kéo dài thai kỳ thêm 48h mà không ảnh hưởng xấu đến mẹ, và (2) tình trạng tuần hoàn tử cung-rau và dự trữ kiềm của con phải đảm bảo chịu đựng cuộc sống trong tử cung thêm 48h.
 
 #### Khi thai trên 34 tuần
 
@@ -318,7 +318,7 @@ Nguyên tắc:
 
 #### Dự phòng co giật
 
-Sử dụng $MgSO_4$ để dự phòng cơn giật. Liều tấn công 4-6 g $MgSO_4$ tiêm tĩnh mạch chậm. Duy trì 1-2 g $MgSO_4$ mỗi giờ trong chuyển dạ và sau sinh 12-24 giờ. Ngưng $MgSO_4$ sau sinh 24 giờ, hoặc trong trường hợp có biểu hiện ngộ độc $MgSO_4$. Chỉ dùng $MgSO_4$ cho tiền sản giật có biểu hiện nặng, [chi tiết tại đây](#magnesium-sulfate).
+Sử dụng $MgSO_4$ để dự phòng cơn giật. Liều tấn công 4-6 g $MgSO_4$ tiêm tĩnh mạch chậm. Duy trì 1-2 g $MgSO_4$ mỗih trong chuyển dạ và sau sinh 12-24h. Ngưng $MgSO_4$ sau sinh 24h, hoặc trong trường hợp có biểu hiện ngộ độc $MgSO_4$. Chỉ dùng $MgSO_4$ cho tiền sản giật có biểu hiện nặng, [chi tiết tại đây](#magnesium-sulfate).
 
 Trong tiền sản giật, không dùng Diazepam hay Phenytoin. Khi được dùng trong tiền sản giật, chúng có hiệu quả kém, do sản giật là 1 bệnh lý mà cơ chế sinh co giật hoàn toàn khác với động kinh. Hơn nữa, chúng có thể có ảnh hưởng xấu trên thai nhi.
 
@@ -345,7 +345,7 @@ Nếu mẹ có tăng huyết áp nhiều, thiểu niệu, dấu hiệu rối lo�
 
 Theo dõi liên tục điện tim bằng monitor. Sản giật thường làm nhịp tim thai thay đổi thoáng qua, thường tự giới hạn trong vòng 15 phút. Dấu hiệu lo ngại là khi biến động tim thai kéo dài hơn 20 phút mà chưa hồi phục. Điều này thể hiện hệ đệm của thai đã cạn kiệt, không còn đủ khả năng đệm khi đã xảy ra toan hô hấp. Nhịp tim thai chậm kéo dài 3-5 phút thường trong và sau cơn giật, nếu kéo dài > 5 phút cần mổ lấy thai cấp cứu.
 
-Sản giật không phải chỉ định mổ lấy thai tuyệt đối, phương thức chấm dứt thai kỳ phụ thuộc vào tuổi thai, kiểu thế, tình trạng cổ tử cung, chỉ số Bishop,... Chỉ định chấm dứt thai kỳ thường phải được thực hiện trong vòng 12 giờ sau khi kiểm soát được sản giật. Khởi phát chuyển dạ bằng Oxytocin nếu tình trạng cổ tử cung thuận lợi. Mổ lấy thai là biện pháp thích hợp, do tránh được stress do qua trình chuyển dạ và rút ngắn được thời gian nguy cơ xảy ra các cơn giật kế tiếp. Khi mổ có thể gây mê toàn thân hoặc gây tê ngoài màng cứng với điều kiện là không có rối loạn đông máu. Không được dùng Ergot Alkaloids (Ergometrin) để dự phòng hay điều trị băng huyết sau sinh trong tiền sản giật vì chúng làm tăng nguy cơ co giật và tai biến mạch máu não.
+Sản giật không phải chỉ định mổ lấy thai tuyệt đối, phương thức chấm dứt thai kỳ phụ thuộc vào tuổi thai, kiểu thế, tình trạng cổ tử cung, chỉ số Bishop,... Chỉ định chấm dứt thai kỳ thường phải được thực hiện trong vòng 12h sau khi kiểm soát được sản giật. Khởi phát chuyển dạ bằng Oxytocin nếu tình trạng cổ tử cung thuận lợi. Mổ lấy thai là biện pháp thích hợp, do tránh được stress do qua trình chuyển dạ và rút ngắn được thời gian nguy cơ xảy ra các cơn giật kế tiếp. Khi mổ có thể gây mê toàn thân hoặc gây tê ngoài màng cứng với điều kiện là không có rối loạn đông máu. Không được dùng Ergot Alkaloids (Ergometrin) để dự phòng hay điều trị băng huyết sau sinh trong tiền sản giật vì chúng làm tăng nguy cơ co giật và tai biến mạch máu não.
 
 ### Hội chứng HELLP
 
@@ -364,19 +364,19 @@ Cách dùng: Truyền tĩnh mạch, tiêm tĩnh mạch hoặc tiêm bắp (ít d
 Liều dùng:
 
 - Liều tấn công: 4.5 g (4-6 g) $MgSO_4$ 15%/50 mL tiêm tĩnh mạch chậm.
-- Liều duy trì 1g/giờ (1-2 g/giờ) truyền tĩnh mạch:
+- Liều duy trì 1g/h (1-2 g/h) truyền tĩnh mạch:
   - Pha 6 g $MgSO_4$ 15% vào chai Glucose 5% 500 mL truyền tĩnh mạch XXX giọt/phút hoặc
-  - Bơm tiêm điện pha 6 g $MgSO_4$ 15% bơm tiêm điện 6.7 mL/giờ.
+  - Bơm tiêm điện pha 6 g $MgSO_4$ 15% bơm tiêm điện 6.7 mL/h.
 
 :::caution[Lưu ý]
 
 - Luôn chú ý đến dấu ngộ độc $MgSO_4$ khi dùng. Trong điều trị, phải duy trì nồng độ ion $Mg^{2+}$ đạt ngưỡng điều trị, nhưng thấp hơn ngưỡng ngộ độc.
   ![Nồng độ MgSO4](../../../assets/san-khoa/tang-huyet-ap-thai-ky/nong-do-mgso4.png)
-- Theo dõi phản xạ gân xương, nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4 giờ). Khi nồng độ $Mg^{2+}$ bắt đầu vượt ngưỡng điều trị, dấu hiệu mất phản xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cần theo dõi phản xạ gân xương bánh chè như 1 chỉ báo là nồng độ $Mg^{2+}$ đã vượt ngưỡng điều trị và cần phải ngưng ngay việc dùng thêm $MgSO_4$.
+- Theo dõi phản xạ gân xương, nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4h). Khi nồng độ $Mg^{2+}$ bắt đầu vượt ngưỡng điều trị, dấu hiệu mất phản xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cần theo dõi phản xạ gân xương bánh chè như 1 chỉ báo là nồng độ $Mg^{2+}$ đã vượt ngưỡng điều trị và cần phải ngưng ngay việc dùng thêm $MgSO_4$.
 - Đo nồng độ $MgSO_4$ huyết thanh khi cần thiết và điều chỉnh giữ nồng độ $MgSO_4$ 4-7 mEg/L (5-9 mg/dL; 2-3.5 mmol/L).
-- Người bệnh suy thận mức độ trung bình (Creatinine 1-1.5 mg/dL) hoặc thiểu niệu (< 30 mL nước tiểu/giờ trong 4 giờ) sau khi dùng liều tấn công cần duy trì liều thấp 1 g/giờ.
-- Người suy thận cần định lượng $MgSO_4$ huyết thanh mỗi 4 giờ, nếu $MgSO_4$ huyết thanh > 9.6 mg/dL (8 mEg/L) cần ngưng truyền và định lượng $MgSO_4$ mỗi 2 giờ, tái dùng khi $MgSO_4$ < 8.4 mg/dL (7 mEq/L).
-- Khi có chỉ định $MgSO_4$ cần dùng trước, trong và duy trì tối thiểu 24 giờ sau sinh/mổ, nếu chỉ định mổ lấy thai cần duy trì $MgSO_4$ trong lúc mổ.
+- Người bệnh suy thận mức độ trung bình (Creatinine 1-1.5 mg/dL) hoặc thiểu niệu (< 30 mL nước tiểu/h trong 4h) sau khi dùng liều tấn công cần duy trì liều thấp 1 g/h.
+- Người suy thận cần định lượng $MgSO_4$ huyết thanh mỗi 4h, nếu $MgSO_4$ huyết thanh > 9.6 mg/dL (8 mEg/L) cần ngưng truyền và định lượng $MgSO_4$ mỗi 2h, tái dùng khi $MgSO_4$ < 8.4 mg/dL (7 mEq/L).
+- Khi có chỉ định $MgSO_4$ cần dùng trước, trong và duy trì tối thiểu 24h sau sinh/mổ, nếu chỉ định mổ lấy thai cần duy trì $MgSO_4$ trong lúc mổ.
 - Nguy cơ băng huyết sau sinh, giảm dao động nội tại tim thai.
 - Xử trí ngộ độc $MgSO_4$:
   - Ngừng truyền $MgSO_4$.
@@ -397,7 +397,7 @@ Chỉ định:
 
 Huyết áp đạt sau điều trị:
 
-- HA trung bình sau 2 giờ không giảm quá 25% so với ban đầu.
+- HA trung bình sau 2h không giảm quá 25% so với ban đầu.
 - HA tâm thu ở mức 130-150 mmHg.
 - HA tâm trường ở mức 80-100 mmHg.
 
@@ -428,7 +428,7 @@ Thuốc lợi tiểu và thuốc ức chế men chuyển không được dùng �
 
 Thuốc lợi tiểu được dùng trong trường hợp tiền sản giật rất nặng với thiểu niệu/vô niệu/suy thận/phù phổi cấp, để cứu mẹ.
 
-Sử dụng thuốc lợi tiểu được đặt ra trong trường hợp thiểu niệu hoặc vô niệu (nước tiểu 24 giờ < 800 mL, đặc biệt trong trường hợp nước tiểu 24 giờ < 400 mL), đe dọa phù phổi cấp, phù não, v.v.
+Sử dụng thuốc lợi tiểu được đặt ra trong trường hợp thiểu niệu hoặc vô niệu (nước tiểu 24h < 800 mL, đặc biệt trong trường hợp nước tiểu 24h < 400 mL), đe dọa phù phổi cấp, phù não, v.v.
 
 Liều và cách dùng: Furosemide 20 mg x 8 ống, tiêm tĩnh mạch chậm.
 
@@ -450,7 +450,7 @@ Chống chỉ định: Viêm gan cấp tính, mạn tính hoặc xơ gan, tiền
 
 Hydralazine thường là thuốc chống tăng huyết áp được lựa chọn đầu tay do đánh trực tiếp vào cơ chế bệnh sinh.
 
-Cơ chế thuốc gây giãn mạch trực tiếp, tác động trên các tiểu động mạch ngoại vi, là xuất phát điểm của bệnh sinh của tiền sản giật. Tác dụng của Hydralazine nhanh và ngắn, huyết áp sẽ hạ sau 10-30 phút và kéo dài trong 2-4 giờ. Tác dụng ngoại ý khác là nhịp tim nhanh, đánh trống ngực, đau thắt ngực, bồn chồn, khó ngủ, tiêu chảy, táo bón, buồn nôn, nhức đầu, rối loạn tạo máu, nổi mẫn, ớn lạnh, v.v. Kết hợp Hydralazine và Labetalol là 1 kết hợp có thể khắc phục được các nhược điểm của Hydralazine.
+Cơ chế thuốc gây giãn mạch trực tiếp, tác động trên các tiểu động mạch ngoại vi, là xuất phát điểm của bệnh sinh của tiền sản giật. Tác dụng của Hydralazine nhanh và ngắn, huyết áp sẽ hạ sau 10-30 phút và kéo dài trong 2-4h. Tác dụng ngoại ý khác là nhịp tim nhanh, đánh trống ngực, đau thắt ngực, bồn chồn, khó ngủ, tiêu chảy, táo bón, buồn nôn, nhức đầu, rối loạn tạo máu, nổi mẫn, ớn lạnh, v.v. Kết hợp Hydralazine và Labetalol là 1 kết hợp có thể khắc phục được các nhược điểm của Hydralazine.
 
 Liều lượng và cách dùng: Hydralazine được dùng đường tiêm tĩnh mạch chậm với liều đầu 5 mg trong 1-2 phút, nếu sau 15-20 phút không đạt được hạ áp, cho 5-10 mg tĩnh mạch chậm tiếp. Nếu sau tổng liều 25 mg mà vẫn không kiểm soát được huyết áp thì nên dùng thuốc khác. Như vậy tổng liều tối đa không quá 25 mg.
 
@@ -462,9 +462,9 @@ Chống chỉ định: Trong các trường hợp quá mẫn với Hydralazine, 
 
 Thường được dùng chung với Hydralazine để bù trừ lại những tác dụng không mong muốn do giãn mạch nhanh và mạnh của Hydralazine.
 
-Cơ chế của thuốc là ức chế thụ thể β giao cảm ở tim và mạch máu ngoại vi, do đó làm chậm nhịp tim và hạ huyết áp. Cơ chế này làm cho thuốc thường được dùng chung với Hydralazine. Thuốc bắt đầu tác dụng sau tiêm tĩnh mạch 5 phút, và mất 1-2 giờ để đạt nồng độ đỉnh trong máu. Labetalol có khởi phát tác dụng nhanh hơn và giảm nguy cơ bị nhịp nhanh so với Hydralazine.
+Cơ chế của thuốc là ức chế thụ thể β giao cảm ở tim và mạch máu ngoại vi, do đó làm chậm nhịp tim và hạ huyết áp. Cơ chế này làm cho thuốc thường được dùng chung với Hydralazine. Thuốc bắt đầu tác dụng sau tiêm tĩnh mạch 5 phút, và mất 1-2h để đạt nồng độ đỉnh trong máu. Labetalol có khởi phát tác dụng nhanh hơn và giảm nguy cơ bị nhịp nhanh so với Hydralazine.
 
-Liều lượng và cách dùng: Liều boluses 10-20 mg sau đó 20-80 mg mỗi 10-30 phút (tối đa 300 mg), sau đó duy trì bằng đường uống 200 mg x 3 lần mỗi ngày, tối đa 800 mg trong 8 giờ. Sau 2-3 ngày điều trị, điều chỉnh tùy vào từng sản phụ, thường là 200-400 mg mỗi ngày.
+Liều lượng và cách dùng: Liều boluses 10-20 mg sau đó 20-80 mg mỗi 10-30 phút (tối đa 300 mg), sau đó duy trì bằng đường uống 200 mg x 3 lần mỗi ngày, tối đa 800 mg trong 8h. Sau 2-3 ngày điều trị, điều chỉnh tùy vào từng sản phụ, thường là 200-400 mg mỗi ngày.
 
 Ít gây mạch nhanh, ít tác dụng phụ.
 
@@ -478,7 +478,7 @@ Nifedipine
 
 Cơ chế ức chế kênh Calcium loại 2, tức là ức chế chọn lọc dòng Calcium đi vào trong cơ trơn mạch máu dẫn đến giãn mạch và hạ huyết áp. Nifedipine tác động trên cả các mạch máu trung bình, nên nó khởi phát tác dụng nhanh hơn Hydralazine.
 
-Liều lượng và cách dùng: Liều điều trị của Nifedipine là 10-20 mg/20-30 phút (viên uống tác dụng nhanh), tối đa 50 mg. Sau đó 10-20 mg/2-6 giờ (tối đa không quá 180 mg mỗi ngày) để duy trì huyết áp ở mức mong muốn. Thời gian tác dụng sau 5-10 phút. Có thể dùng Nifedipine viên uống tác dụng kéo dài với liều 30-120 mg/ngày, khởi đầu với liều 30-60 mg x 01 lần/ngày, không dùng ngậm dưới lưỡi, tránh dùng khi có nhịp tim nhanh.
+Liều lượng và cách dùng: Liều điều trị của Nifedipine là 10-20 mg/20-30 phút (viên uống tác dụng nhanh), tối đa 50 mg. Sau đó 10-20 mg/2-6h (tối đa không quá 180 mg mỗi ngày) để duy trì huyết áp ở mức mong muốn. Thời gian tác dụng sau 5-10 phút. Có thể dùng Nifedipine viên uống tác dụng kéo dài với liều 30-120 mg/ngày, khởi đầu với liều 30-60 mg x 01 lần/ngày, không dùng ngậm dưới lưỡi, tránh dùng khi có nhịp tim nhanh.
 
 Tác dụng không mong muốn: Gồm tim đập nhanh, nhức đầu và hồi hộp.
 
@@ -486,9 +486,9 @@ Ion $Mg^{2+}$ có khả năng cạnh tranh với ion $Ca^{2+}$ nên phối hợp
 
 Nicardipine
 
-Cơ chế tác dụng của Nicardipine tương đối giống với Nifedipine như đã nói ở trên. Tác dụng chọn lọc lên mạch máu, đồng thời ít tác dụng lên co bóp tim, nên ít làm tăng nhịp tim phản xạ. Nicardipine có thời gian bắt đầu tác dụng khoảng 10 phút. Đạt nồng độ đỉnh sau 30-120 phút, tác dụng kéo dài 8 giờ.
+Cơ chế tác dụng của Nicardipine tương đối giống với Nifedipine như đã nói ở trên. Tác dụng chọn lọc lên mạch máu, đồng thời ít tác dụng lên co bóp tim, nên ít làm tăng nhịp tim phản xạ. Nicardipine có thời gian bắt đầu tác dụng khoảng 10 phút. Đạt nồng độ đỉnh sau 30-120 phút, tác dụng kéo dài 8h.
 
-Liều lượng và cách dùng: Uống 20 mg x 3 lần mỗi ngày. Hoặc truyền tĩnh mạch với liều bolus 0.5-1 mg, sau đó duy trì 1-3 mg/giờ (pha 1 ống Nicardipine 10 mL trong 40 mL dung dịch Glucose 5%, dùng bơm tiêm điện truyền với tốc độ 5-15 mL/giờ), chỉnh liều theo huyết áp sản phụ.
+Liều lượng và cách dùng: Uống 20 mg x 3 lần mỗi ngày. Hoặc truyền tĩnh mạch với liều bolus 0.5-1 mg, sau đó duy trì 1-3 mg/h (pha 1 ống Nicardipine 10 mL trong 40 mL dung dịch Glucose 5%, dùng bơm tiêm điện truyền với tốc độ 5-15 mL/h), chỉnh liều theo huyết áp sản phụ.
 
 Tác dụng phụ: Đau đầu, chóng mặt, buồn nôn, nôn, đau dạ dày. Nicardipine ít qua sữa mẹ.
 
@@ -500,7 +500,7 @@ Chống chỉ định: của Nicardipine gồm cơn đau thắt ngực không �
 
 Sau khi đã chấm dứt thai kỳ, nguy cơ xảy ra sản giật và hội chứng HELLP vẫn còn.
 
-Nếu sản phụ đang dùng $MgSO_4$ thì điều trị này phải được tiếp tục kéo dài 12-24 giờ sau sinh.
+Nếu sản phụ đang dùng $MgSO_4$ thì điều trị này phải được tiếp tục kéo dài 12-24h sau sinh.
 
 Không nên kê toa thuốc kháng viêm không steroid để giảm đau hậu sản đối với sản phụ tiền sản giật nặng.
 
