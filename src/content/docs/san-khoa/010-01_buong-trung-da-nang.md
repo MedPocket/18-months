@@ -8,6 +8,7 @@ Hội chứng buồng trứng đa nang (PCOS - Polycystic Ovary Syndrome) là r�
 ## Định nghĩa
 
 Buồng trứng đa nang trên siêu âm là buồng trứng có sự hiện diện của ≥12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL).
+Buồng trứng đa nang trên siêu âm là buồng trứng có sự hiện diện của ≥12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL).
 
 Hội chứng buồng trứng đa nang là tập hợp các triệu chứng liên quan đến hội chứng như rối loạn phóng noãn, cường androgen, buồng trứng đa nang trên siêu âm.
 
@@ -29,6 +30,7 @@ Hội chứng buồng trứng đa nang được chẩn đoán khi người bện
 ### Rối loạn phóng noãn
 
 Rối loạn phóng noãn được chẩn đoán trên lâm sàng thông qua các biểu hiện của rối loạn kinh nguyệt. Rối loạn kinh nguyệt thường theo kiểu kinh thưa (chu kỳ kinh nguyệt>35 ngày hay có kinh<8 lần/năm) hay vô kinh (không có kinh>6 tháng).
+Rối loạn phóng noãn được chẩn đoán trên lâm sàng thông qua các biểu hiện của rối loạn kinh nguyệt. Rối loạn kinh nguyệt thường theo kiểu kinh thưa (chu kỳ kinh nguyệt>35 ngày hay có kinh<8 lần/năm) hay vô kinh (không có kinh>6 tháng).
 
 ### Cường androgen
 
@@ -45,11 +47,13 @@ Béo phì cũng là biểu hiện lâm sàng của cường androgen, thường 
 #### Cận lâm sàng
 
 Chẩn đoán cường androgen trên cận lâm sàng được thực hiện bằng cách định lượng testosterone trong máu. Định lượng testosterone tự do có giá trị dự báo cao hơn, nhưng có nhiều khó khăn trong phương pháp định lượng trực tiếp testosterone tự do. Do đó, hiện nay, chỉ số testosterone tự do (Free Testosterone Index - FTI) được khuyến cáo sử dụng để chẩn đoán cường androgen. FTI>6 được chẩn đoán là cường androgen.
+Chẩn đoán cường androgen trên cận lâm sàng được thực hiện bằng cách định lượng testosterone trong máu. Định lượng testosterone tự do có giá trị dự báo cao hơn, nhưng có nhiều khó khăn trong phương pháp định lượng trực tiếp testosterone tự do. Do đó, hiện nay, chỉ số testosterone tự do (Free Testosterone Index - FTI) được khuyến cáo sử dụng để chẩn đoán cường androgen. FTI>6 được chẩn đoán là cường androgen.
 
 Công thức tính FTI như sau: FTI = Testosterone toàn phần / SHBG x 100 (SHBG - Sex Hormone Binding Globulin).
 
 ### Hình ảnh buồng trứng đa nang
 
+Hình ảnh buồng trứng đa nang được xem là 1 trong những tiêu chuẩn để chẩn đoán hội chứng buồng trứng đa nang. Dựa trên các bằng chứng y học hiện có, tiêu chuẩn siêu âm sau đây được xem là "sự hiện diện của ≥12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL)".
 Hình ảnh buồng trứng đa nang được xem là 1 trong những tiêu chuẩn để chẩn đoán hội chứng buồng trứng đa nang. Dựa trên các bằng chứng y học hiện có, tiêu chuẩn siêu âm sau đây được xem là "sự hiện diện của ≥12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL)".
 
 :::caution[Lưu ý]
@@ -57,6 +61,7 @@ Khi siêu âm đánh giá hình ảnh buồng trứng đa nang:
 
 1. Đặc điểm phân bố của các nang ở vùng ngoại vi buồng trứng, tăng thể tích và độ dày trên siêu âm của mô đệm buồng trứng không còn được quan tâm như trước đây. Chỉ 1 buồng trứng thỏa yêu cầu cũng đủ để chẩn đoán hình ảnh buồng trứng đa nang.
 2. Người phụ nữ không sử dụng thuốc ngừa thai, thuốc kích thích buồng trứng 3 tháng trước đó.
+3. Nếu có 1 nang>10mm trên buồng trứng, thực hiện siêu âm lại vào chu kỳ sau.
 3. Nếu có 1 nang>10mm trên buồng trứng, thực hiện siêu âm lại vào chu kỳ sau.
 4. Thời điểm siêu âm vào ngày 3-5 ở những phụ nữ có chu kỳ kinh đều. Những phụ nữ có kinh thưa hay vô kinh có thể được siêu âm bất kỳ thời điểm nào hay vào ngày 3-5 sau khi gây ra huyết âm đạo bằng progestin.
 5. Thể tích buồng trứng được tính bằng (0.5 x chiều dài x chiều rộng x độ dày).
@@ -76,6 +81,13 @@ Tần suất giảm dung nạp đường và đái tháo đường type II khá 
 
 Có 3 trong 5 tiêu chuẩn
 
+| Yếu tố nguy cơ                                           | Ngưỡng bất thường                                 |
+| -------------------------------------------------------- | ------------------------------------------------- |
+| 1. Béo phì ở bụng (đo vòng eo)                           |>80cm                                            |
+| 2. Triglycerides                                         | ≥150 mg/dL                                       |
+| 3. HDL–C                                                 |<50 mg/dL                                        |
+| 4. Huyết áp                                              | ≥130 / ≥85 mmHg                                 |
+| 5. Đường huyết lúc đói và 2h sau làm test dung nạp đường | 110-126 mg/dL và/hay glucose sau 2h 140-199 mg/dL |
 | Yếu tố nguy cơ                                           | Ngưỡng bất thường                                 |
 | -------------------------------------------------------- | ------------------------------------------------- |
 | 1. Béo phì ở bụng (đo vòng eo)                           |>80cm                                            |
@@ -129,6 +141,7 @@ Chế độ ăn giảm năng lượng (giảm chất béo, tăng chất xơ) và
 
 Clomiphene citrate là lựa chọn đầu tay cho những phụ nữ hội chứng buồng trứng đa nang hiếm muộn, không có các yếu tố đi kèm khác như bất thường tinh trùng hay tổn thương, tắc ống dẫn trứng. Các yếu tố chính tiên lượng kết quả điều trị với CC là béo phì, cường androgen và tuổi của người phụ nữ. Đề kháng CC xảy ra trong 30% các người bệnh hội chứng buồng trứng đa nang.
 
+Liều đầu của CC thường là 50 mg/ngày trong 5 ngày, bắt đầu từ ngày 2-5 của chu kỳ. Liều tối đa được khuyến cáo là 150 mg/ngày, không có bằng chứng y học cho thấy hiệu quả gây phóng noãn đạt được nếu sử dụng liều cao hơn. Thời gian điều trị nên giới hạn tới 6 chu kỳ gây phóng noãn, không baoh vượt quá 12 chu kỳ trong suốt cuộc đời sinh sản và cần có thời gian nghỉ giữa 3 chu kỳ kích thích buồng trứng liên tục. Nếu vẫn không có kết quả, nên cân nhắc sử dụng phương pháp khác gây phóng noãn như gonadotropin hay nội soi đốt điểm buồng trứng đa nang.
 Liều đầu của CC thường là 50 mg/ngày trong 5 ngày, bắt đầu từ ngày 2-5 của chu kỳ. Liều tối đa được khuyến cáo là 150 mg/ngày, không có bằng chứng y học cho thấy hiệu quả gây phóng noãn đạt được nếu sử dụng liều cao hơn. Thời gian điều trị nên giới hạn tới 6 chu kỳ gây phóng noãn, không baoh vượt quá 12 chu kỳ trong suốt cuộc đời sinh sản và cần có thời gian nghỉ giữa 3 chu kỳ kích thích buồng trứng liên tục. Nếu vẫn không có kết quả, nên cân nhắc sử dụng phương pháp khác gây phóng noãn như gonadotropin hay nội soi đốt điểm buồng trứng đa nang.
 
 Đề kháng với Clomiphene citrate được định nghĩa là những bệnh nhân không phóng noãn sau 3-6 chu kỳ điều trị với Clomiphene citrate.
