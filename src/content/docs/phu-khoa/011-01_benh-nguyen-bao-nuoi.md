@@ -32,7 +32,7 @@ Tần suất của thai trứng thay đổi tùy chủng tộc. Ở người Âu
 
 Thai trứng là kết quả của thụ tinh bất thường. Bất chấp dạng thai trứng, bất thường luôn có nguồn gốc tinh trùng (paternal).
 
-Trong thai trứng toàn phần, cấu trúc bộ nhiễm sắc thể là 46 nhiễm sắc thể. Trứng thụ tinh là 1 trứng không nhân. Vật chất di truyền đến từ 2 tinh trùng khác nhau. Trong trường hợp trứng không nhân bị xâm nhập bởi 1 tinh trùng, thì tinh trùng sẽ nhân đôi.
+Trong thai trứng toàn phần, cấu trúc bộ nhiễm sắc thể là 46 nhiễm sắc thể. Trứng thụ tinh là trứng không nhân. Vật chất di truyền đến từ 2 tinh trùng khác nhau. Trong trường hợp trứng không nhân bị xâm nhập bởi 1 tinh trùng, thì tinh trùng sẽ nhân đôi.
 
 Trong thai trứng bán phần, cấu trúc bộ nhiễm sắc thể là 69 hoặc 92 nhiễm sắc thể, với trứng thụ tinh là 1 trứng có nhân. Vật chất di truyền sẽ đến từ 2 tinh trùng khác nhau. Trong trường hợp trứng có nhân bị xâm nhập bởi 1 tinh trùng, thì tinh trùng sẽ nhân đôi.
 
@@ -73,7 +73,7 @@ Hình ảnh điển hình của thai trứng toàn phần trên siêu âm là h�
 ![Hình ảnh siêu âm thai trứng toàn phần](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-toan-phan.png)
 _Hình ảnh siêu âm của thai trứng toàn phần.<br> Hình ảnh điển hình của thai trứng trên siêu âm là hình ảnh tổ ong. Trong thai trứng toàn phần, hình ảnh này là điển hình._
 
-Hình ảnh của thai trứng bán phần không đặc trưng. Chẩn đoán sẽ khó khăn hơn do hình ảnh không còn điển hình lại kèm với hình ảnh của 1 thai, có thể là thai sống và tiến triển. Thai lưu với rau thoái hóa có thể cho hình ảnh tương tự thai trứng.
+Hình ảnh của thai trứng bán phần không đặc trưng. Chẩn đoán sẽ khó khăn hơn do hình ảnh không còn điển hình lại kèm với hình ảnh của thai, có thể là thai sống và tiến triển. Thai lưu với rau thoái hóa có thể cho hình ảnh tương tự thai trứng.
 
 ![Hình ảnh siêu âm thai trứng bán phần](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-ban-phan.png)
 _Hình ảnh siêu âm của thai trứng bán phần.<br> Chẩn đoán sẽ khó khăn hơn trong trường hợp thai trứng bán phần, do hình ảnh không còn điển hình lại kèm với hình ảnh của 1 thai, có thể là thai sống và tiến triển._

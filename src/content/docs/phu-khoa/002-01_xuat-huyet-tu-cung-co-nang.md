@@ -23,7 +23,7 @@ Thiếu hụt giai đoạn hoàng thể cũng có thể gây ra xuất huyết t
 
 Hội chứng buồng trứng đa nang và tăng prolactin máu là 2 trạng thái rối loạn nội tiết có thể gây ra xuất huyết tử cung chức năng thường gặp:
 
-- Tăng prolactin máu ức chế hoạt động tuyến yên, và do đó gây rối loạn hoạt động của buồng trứng. Tăng prolactin máu có thể là do nguyên nhân thực thể là 1 microadenoma tuyến yên hay do nguyên nhân cơ năng do dùng các thuốc có tác động hướng thần kinh hay nhiều thuốc khác. Thuốc chống say tàu xe, thuốc kháng bơm proton trong điều trị loét dạ dày-tá tràng, các thuốc điều trị tâm thần... có thể gây ra các tình trạng tăng prolactin máu.
+- Tăng prolactin máu ức chế hoạt động tuyến yên, và do đó gây rối loạn hoạt động của buồng trứng. Tăng prolactin máu có thể là do nguyên nhân thực thể là microadenoma tuyến yên hay do nguyên nhân cơ năng do dùng các thuốc có tác động hướng thần kinh hay nhiều thuốc khác. Thuốc chống say tàu xe, thuốc kháng bơm proton trong điều trị loét dạ dày-tá tràng, các thuốc điều trị tâm thần... có thể gây ra các tình trạng tăng prolactin máu.
 - Hội chứng buồng trứng đa nang là hội chứng do rất nhiều nguyên nhân khác nhau, có chung đặc điểm là các nang noãn không phát triển được, không đi đến hình thành các nang vượt trội, và do đó không có phóng noãn. Các chu kỳ không phóng noãn là nguyên nhân của xuất huyết tử cung chức năng ở hội chứng buồng trứng đa nang.
 
 Xuất huyết tử cung chức năng do sử dụng nội tiết ngoại lai là tình trạng rất thường gặp:

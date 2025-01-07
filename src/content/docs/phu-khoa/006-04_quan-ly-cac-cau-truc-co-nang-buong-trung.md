@@ -41,12 +41,12 @@ Không phóng noãn kèm chế tiết steroid bất thường dẫn đến bất
 
 Đa số các u nang noãn tự biến mất trong vòng 6 tuần, mà không cần bất cứ can thiệp điều trị nào. Không có can thiệp nào có thể làm mất nang noãn nang.
 
-Trong trường hợp nang noãn nang, có thể chỉ định thuốc tránh thai estrogen-progestogen phối hợp (COC). COC không làm nang noãn nang biến mất. Mục tiêu của việc dùng COC là ngăn không cho các nang noãn thuộc 1 đoàn hệ noãn mới phát triển, nhằm tránh hình thành 1 nang noãn nang mới, trong khi chờ đợi nang noãn nang cũ thoái triển.
+Trong trường hợp nang noãn nang, có thể chỉ định thuốc tránh thai estrogen-progestogen phối hợp (COC). COC không làm nang noãn nang biến mất. Mục tiêu của việc dùng COC là ngăn không cho các nang noãn thuộc 1 đoàn hệ noãn mới phát triển, nhằm tránh hình thành nang noãn nang mới, trong khi chờ đợi nang noãn nang cũ thoái triển.
 
 ![Nang noãn nang](../../../assets/phu-khoa/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-noan-nang.png)
 _Nang đơn, 5-8 cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ._
 
-Nếu 1 nang đã được chẩn đoán là nang noãn nang mà vẫn tồn tại qua nhiều chu kỳ, thì việc nghĩ đến 1 loại nang hay tân sinh và phải được đánh giá chuyên sâu hơn qua hình ảnh hoặc các thăm dò khác.
+Nếu nang đã được chẩn đoán là nang noãn nang mà vẫn tồn tại qua nhiều chu kỳ, thì việc nghĩ đến loại nang hay tân sinh và phải được đánh giá chuyên sâu hơn qua hình ảnh hoặc các thăm dò khác.
 
 ## Nang hoàng thể
 
@@ -63,7 +63,7 @@ Bất thường của hoàng thể có thể từ:
 
 Hội chứng hoàng thể tồn lưu (Halban disease), hoàng thể phì đại nhẹ, tiếp tục sản xuất progesterone dài ngày hơn so với thông thường. Tuy nhiên, sản xuất progesterone từ hoàng thể tồn lưu không ổn định, do kích thích LH không đầy đủ. Sản xuất progesterone kéo dài gây trễ kinh, hoàng thể phì đại gây đau bụng âm ỉ ở dưới bụng cùng bên, nồng độ biến động và không đủ cao của progesterone gây rong huyết, thăm khám vùng chậu thấy có khối ở phần phụ, mật độ mềm, có dạng nang hoặc đặc. Như vậy, triệu chứng lâm sàng của hội chứng hoàng thể tồn lưu là trễ kinh, đau bụng, ra huyết âm đạo bất thường và khối cạnh tử cung, rất giống như thai ngoài tử cung. Khác biệt duy nhất giữa hội chứng Halban và thai ngoài tử cung là kết quả định lượng hCG âm tính trong hội chứng hoàng thể tồn lưu.
 
-Nguyên nhân của hội chứng hoàng thể tồn lưu là bất thường của feed-back âm của progesterone trên hạ đồi. Nguyên nhân gây bất thường của feed-back có thể là ngắn hạn nhưng cũng có thể là tồn tại kéo dài và gây ra tình trạng lặp lại của tồn tạ kéo dài hoàng thể qua nhiều chu kỳ. COC có thể là giải pháp tạm thời, giúp trục hạ đồi-yên được tạm nghỉ trong 1 thời gian để có thể hồi phục.
+Nguyên nhân của hội chứng hoàng thể tồn lưu là bất thường của feed-back âm của progesterone trên hạ đồi. Nguyên nhân gây bất thường của feed-back có thể là ngắn hạn nhưng cũng có thể là tồn tại kéo dài và gây ra tình trạng lặp lại của tồn tạ kéo dài hoàng thể qua nhiều chu kỳ. COC có thể là giải pháp tạm thời, giúp trục hạ đồi-yên được tạm nghỉ trong thời gian để có thể hồi phục.
 
 ### Hoàng thể xuất huyết
 

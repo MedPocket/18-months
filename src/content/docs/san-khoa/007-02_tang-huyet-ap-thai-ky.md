@@ -483,7 +483,7 @@ Chống chỉ định: Viêm gan cấp tính, mạn tính hoặc xơ gan, tiền
 
 Hydralazine thường là thuốc chống tăng huyết áp được lựa chọn đầu tay do đánh trực tiếp vào cơ chế bệnh sinh.
 
-Cơ chế thuốc gây giãn mạch trực tiếp, tác động trên các tiểu động mạch ngoại vi, là xuất phát điểm của bệnh sinh của tiền sản giật. Tác dụng của Hydralazine nhanh và ngắn, huyết áp sẽ hạ sau 10-30 phút và kéo dài trong 2-4h. Tác dụng ngoại ý khác là nhịp tim nhanh, đánh trống ngực, đau thắt ngực, bồn chồn, khó ngủ, tiêu chảy, táo bón, buồn nôn, nhức đầu, rối loạn tạo máu, nổi mẫn, ớn lạnh, v.v. Kết hợp Hydralazine và Labetalol là 1 kết hợp có thể khắc phục được các nhược điểm của Hydralazine.
+Cơ chế thuốc gây giãn mạch trực tiếp, tác động trên các tiểu động mạch ngoại vi, là xuất phát điểm của bệnh sinh của tiền sản giật. Tác dụng của Hydralazine nhanh và ngắn, huyết áp sẽ hạ sau 10-30 phút và kéo dài trong 2-4h. Tác dụng ngoại ý khác là nhịp tim nhanh, đánh trống ngực, đau thắt ngực, bồn chồn, khó ngủ, tiêu chảy, táo bón, buồn nôn, nhức đầu, rối loạn tạo máu, nổi mẫn, ớn lạnh, v.v. Kết hợp Hydralazine và Labetalol là kết hợp có thể khắc phục được các nhược điểm của Hydralazine.
 
 Liều lượng và cách dùng: Hydralazine được dùng đường tiêm tĩnh mạch chậm với liều đầu 5 mg trong 1-2 phút, nếu sau 15-20 phút không đạt được hạ áp, cho 5-10 mg tĩnh mạch chậm tiếp. Nếu sau tổng liều 25 mg mà vẫn không kiểm soát được huyết áp thì nên dùng thuốc khác. Như vậy tổng liều tối đa không quá 25 mg.
 

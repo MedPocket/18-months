@@ -44,7 +44,7 @@ Dụng cụ:
 
 Thuốc:
 
-- Atropin 0.25mg 1 ống tiêm dưới da hay tiêm tĩnh mạch chậm phòng ngừa shock vagal.
+- Atropin 0.25mg x 1 ống tiêm dưới da hay tiêm tĩnh mạch chậm phòng ngừa shock vagal.
 - Thuốc giảm đau: Dolargan 100mg x 1/2 ống tiêm tĩnh mạch chậm, Morphin 100mg x 1 ống tiêm bắp, Seduxen 10mg x 1 ống tiêm bắp.
 
 BN nằm tư thế sản khoa đầu hơi cao.

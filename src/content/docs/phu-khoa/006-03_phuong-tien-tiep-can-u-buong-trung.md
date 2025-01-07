@@ -164,8 +164,8 @@ LDH, steroid... được thực hiện chọn lọc.
 
 Đột biến gene BRCA1, BRCA2 làm mất khả năng sản xuất các protein bảo vệ và sửa chữa DNA. Đột biến các gene BRCA1, BRCA2 là khảo sát được khuyến cáo cho các đối tượng có nguy cơ có liên quan đến ung thư vú, ung thư buồng trứng. Không phải mọi người đều phải khảo sát đột biến BRCA. Khảo sát đột biến BRCA thường được chỉ định khi có tiền căn gia đình gợi ý:
 
-- Có ≥3 người trong gia đình được chẩn đoán ung thư vú hoặc ung thư buồng trứng, trong đó có 1 người dưới 50 tuổi.
-- Có ≥3 người trong gia đình được chẩn đoán ung thư vú hoặc ung thư buồng trứng, trong đó có 1 người dưới 50 tuổi.
+- Có ≥3 người trong gia đình được chẩn đoán ung thư vú hoặc ung thư buồng trứng, trong đó có người dưới 50 tuổi.
+- Có ≥3 người trong gia đình được chẩn đoán ung thư vú hoặc ung thư buồng trứng, trong đó có người dưới 50 tuổi.
 - Có 2 người trong gia đình thế hệ thứ nhất hoặc thế hệ thứ hai bị ung thư vú hoặc ung thư buồng trứng.
 - Có người trong gia đình bị ung thư vú nam giới.
 - Bệnh nhân được chẩn đoán ung thư trước 50 tuổi.

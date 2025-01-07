@@ -43,7 +43,7 @@ Máu và 1 số nhiễm trùng âm đạo có thể cho kết quả dương tín
 
 #### Test dương sỉ
 
-Test lá dương xỉ dựa trên đặc tính kết tinh tạo tinh thể hình lá dương xỉ của muối NaCl trong môi trường có mặt estrogen (dịch ối). Trải 1 ít dịch cần khảo sát lên trên lam kính và để nó khô, sau đó xem dưới kinh hiển vi. Nước ối sẽ kết tinh và có thể tạo nên các cấu trúc có hình lá dương xỉ. Âm tính giả rất thường gặp.
+Test lá dương xỉ dựa trên đặc tính kết tinh tạo tinh thể hình lá dương xỉ của muối NaCl trong môi trường có mặt estrogen (dịch ối). Trải ít dịch cần khảo sát lên trên lam kính và để nó khô, sau đó xem dưới kinh hiển vi. Nước ối sẽ kết tinh và có thể tạo nên các cấu trúc có hình lá dương xỉ. Âm tính giả rất thường gặp.
 
 #### Siêu âm
 

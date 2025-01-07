@@ -3,7 +3,7 @@ title: Vô kinh
 description: Vô kinh.
 ---
 
-Vô kinh là hiện tượng không hành kinh qua 1 thời gian quy định. Thời gian ấy là 18 tuổi đối với vô kinh nguyên phát, là 3 tháng nếu đã từng hành kinh đều, hoặc 6 tháng nếu đã từng hành kinh không đều trong tiền sử, đối với vô kinh thứ phát.
+Vô kinh là hiện tượng không hành kinh qua thời gian quy định. Thời gian ấy là 18 tuổi đối với vô kinh nguyên phát, là 3 tháng nếu đã từng hành kinh đều, hoặc 6 tháng nếu đã từng hành kinh không đều trong tiền sử, đối với vô kinh thứ phát.
 
 ## Sinh lý bệnh
 

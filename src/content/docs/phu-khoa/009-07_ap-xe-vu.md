@@ -99,7 +99,7 @@ Nhiễm trùng nhẹ:
 Nhiễm trùng nặng:
 
 - Vancomycin (15 mg/kg truyền tĩnh mạch mỗi 12h).
-- Có thể phối hợp Cephalosporin thế hệ 3 hoặc beta-lactam/chất ức chế beta-lactamase).
+- Có thể phối hợp Cephalosporin thế hệ 3 hoặc beta-lactam/chất ức chế beta-lactamase.
 
 :::caution[Lưu ý]
 Cloxacillin có thể gây viêm gan, vàng da ứ mật, nhưng có thể xuất hiện chậm. Chỉ dùng Cloxacillin trong thời kỳ mang thai khi thật cần thiết. Cloxacillin phân bố vào sữa mẹ, thận trọng khi dùng cho phụ nữ cho con bú.

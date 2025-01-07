@@ -26,7 +26,7 @@ Trường hợp rau bong non xảy ra sau chấn thương (chấn thương vùng
 Ngoại trừ trong vài trường hợp như chấn thương, trong phần lớn các trường hợp, nguyên nhân trực tiếp dẫn đến rau bong non còn chưa được hiểu rõ.
 
 Tiền sản giật, do hệ quả của việc xâm nhập không hoàn toàn của các tế bào nuôi vào các tiểu động mạch
-xoắn, gây bất thường ở các mạch này, là 1 trong những yếu tố thuận lợi của rau bong non.
+xoắn, gây bất thường ở các mạch này, là những yếu tố thuận lợi của rau bong non.
 
 Tình trạng viêm hoặc nhiễm trùng cũng có thể thúc đẩy góp phần gây ra rau bong non.
 

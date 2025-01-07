@@ -74,7 +74,7 @@ Nạo sinh thiết không phải luôn luôn cho chẩn đoán chính xác. Có 
 
 #### Sinh thiết nội mạc tử cung
 
-Sinh thiết nội mạc tử cung là thủ thuật lấy mẫu nội mạc tử cung bằng 1 ống hút nhỏ (Pipelle®). Lấy mẫu qua Pipelle được chứng minh là có tỷ lệ phát hiện ung thư nội mạc tử cung chính xác tương đương với phương pháp nong và nạo buồng tử cung. So với D&C, sinh thiết bằng Pipelle đơn giản hơn, không cần nong cổ tử cung, không cần vô cảm, có thể thực hiện tại phòng khám.
+Sinh thiết nội mạc tử cung là thủ thuật lấy mẫu nội mạc tử cung bằng ống hút nhỏ (Pipelle®). Lấy mẫu qua Pipelle được chứng minh là có tỷ lệ phát hiện ung thư nội mạc tử cung chính xác tương đương với phương pháp nong và nạo buồng tử cung. So với D&C, sinh thiết bằng Pipelle đơn giản hơn, không cần nong cổ tử cung, không cần vô cảm, có thể thực hiện tại phòng khám.
 
 #### Nội soi buồng tử cung
 

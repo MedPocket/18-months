@@ -115,7 +115,7 @@ Chảy máu do lộn tử cung có đặc diểm là đột ngột và thường
 
 Băng huyết sau sinh là cấp cứu sản khoa.
 
-Bệnh sinh của băng huyết sau sinh là tình trạng mất đột ngột 1 khối lượng lớn thể tích tuần hoàn và 1 lượng lớn huyết cầu có khả năng vận chuyển oxy.
+Bệnh sinh của băng huyết sau sinh là tình trạng mất đột ngột khối lượng lớn thể tích tuần hoàn và lượng lớn huyết cầu có khả năng vận chuyển oxy.
 
 Cùng lượng máu mất nhưng ảnh hưởng trên những cá thể khác nhau là không giống nhau (ví dụ 1 người cân nặng 40 kg so với người cân nặng 60 kg, người có thiếu máu trước đó so với người không có thiếu máu trước đó, đơn thai so với đa thai...). Vì lẽ đó, trên lâm sàng băng huyết sau sinh có thể xác định dựa vào các yếu tố khách quan hơn như những biến động về mạch, huyết áp, nước tiểu, hematocrit...
 

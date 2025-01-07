@@ -8,7 +8,6 @@ Hội chứng buồng trứng đa nang (PCOS - Polycystic Ovary Syndrome) là r�
 ## Định nghĩa
 
 Buồng trứng đa nang trên siêu âm là buồng trứng có sự hiện diện của ≥12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL).
-Buồng trứng đa nang trên siêu âm là buồng trứng có sự hiện diện của ≥12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL).
 
 Hội chứng buồng trứng đa nang là tập hợp các triệu chứng liên quan đến hội chứng như rối loạn phóng noãn, cường androgen, buồng trứng đa nang trên siêu âm.
 
@@ -54,14 +53,12 @@ Công thức tính FTI như sau: FTI = Testosterone toàn phần / SHBG x 100 (S
 ### Hình ảnh buồng trứng đa nang
 
 Hình ảnh buồng trứng đa nang được xem là 1 trong những tiêu chuẩn để chẩn đoán hội chứng buồng trứng đa nang. Dựa trên các bằng chứng y học hiện có, tiêu chuẩn siêu âm sau đây được xem là "sự hiện diện của ≥12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL)".
-Hình ảnh buồng trứng đa nang được xem là 1 trong những tiêu chuẩn để chẩn đoán hội chứng buồng trứng đa nang. Dựa trên các bằng chứng y học hiện có, tiêu chuẩn siêu âm sau đây được xem là "sự hiện diện của ≥12 nang noãn có kích thước 2-9mm trên 1 mặt cắt và/hay tăng thể tích buồng trứng (> 10mL)".
 
 :::caution[Lưu ý]
 Khi siêu âm đánh giá hình ảnh buồng trứng đa nang:
 
 1. Đặc điểm phân bố của các nang ở vùng ngoại vi buồng trứng, tăng thể tích và độ dày trên siêu âm của mô đệm buồng trứng không còn được quan tâm như trước đây. Chỉ 1 buồng trứng thỏa yêu cầu cũng đủ để chẩn đoán hình ảnh buồng trứng đa nang.
 2. Người phụ nữ không sử dụng thuốc ngừa thai, thuốc kích thích buồng trứng 3 tháng trước đó.
-3. Nếu có 1 nang>10mm trên buồng trứng, thực hiện siêu âm lại vào chu kỳ sau.
 3. Nếu có 1 nang>10mm trên buồng trứng, thực hiện siêu âm lại vào chu kỳ sau.
 4. Thời điểm siêu âm vào ngày 3-5 ở những phụ nữ có chu kỳ kinh đều. Những phụ nữ có kinh thưa hay vô kinh có thể được siêu âm bất kỳ thời điểm nào hay vào ngày 3-5 sau khi gây ra huyết âm đạo bằng progestin.
 5. Thể tích buồng trứng được tính bằng (0.5 x chiều dài x chiều rộng x độ dày).

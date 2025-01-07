@@ -9,7 +9,7 @@ Theo Liên đoàn các nhà Sản Phụ khoa Thế giới (FIGO), HIP (hypergylc
 
 Đái tháo đường là nhóm những rối loạn chuyển hóa không đồng nhất gồm tăng glucose huyết tương và rối loạn dung nạp glucose do thiếu insulin, giảm tác dụng của insulin hoặc cả hai.
 
-Đái tháo đường type 1 có sự phá hủy tế bào beta và thiếu insulin tuyệt đối, được chia làm hai thể do cơ chế tự miễn và không do tự miễn. Theo hướng dẫn của Bộ Y tế 2021 Đái tháo đường type 1 là 1 bệnh tự miễn.
+Đái tháo đường type 1 có sự phá hủy tế bào beta và thiếu insulin tuyệt đối, được chia làm hai thể do cơ chế tự miễn và không do tự miễn. Theo hướng dẫn của Bộ Y tế 2021 Đái tháo đường type 1 là bệnh tự miễn.
 
 Đái tháo đường type 2 đặc trưng bởi tình trạng thiếu insulin tương đối kèm đề kháng insulin ngoại biên.
 

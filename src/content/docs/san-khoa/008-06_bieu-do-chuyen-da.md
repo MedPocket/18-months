@@ -70,7 +70,7 @@ Cơn co tử cung với tần số và cường độ cao, kèm theo tăng trư�
 
 Dọa vỡ tử cung là đỉnh điểm của hội chứng vượt trở ngại, xảy ra ngay trước khi thành tử cung bị xé toạc do thai phải tìm được lối ra khỏi ống sinh bị tắc nghẽn.
 
-Trong nhiều trường hợp, tử cung co thắt mãnh liệt. Cơ tử cung ở vùng thân càng lúc càng dầy thêm, trong khi đoạn dưới bị kéo dài và trở nên mỏng quá mức. Tử cung có thắt mạnh với lớp cơ dầy làm đáy tử cung bị dịch lên cao, căng kéo hai dây chằng tròn (dấu hiệu Frommel). Ranh giới giữa vùng thân và vùng đoạn dưới trở nên rõ rệt, có hình dạng như 1 vòng thắt tạo cho tử cung có dạng quả bầu (vòng Bandl).
+Trong nhiều trường hợp, tử cung co thắt mãnh liệt. Cơ tử cung ở vùng thân càng lúc càng dầy thêm, trong khi đoạn dưới bị kéo dài và trở nên mỏng quá mức. Tử cung có thắt mạnh với lớp cơ dầy làm đáy tử cung bị dịch lên cao, căng kéo hai dây chằng tròn (dấu hiệu Frommel). Ranh giới giữa vùng thân và vùng đoạn dưới trở nên rõ rệt, có hình dạng như vòng thắt tạo cho tử cung có dạng quả bầu (vòng Bandl).
 
 :::note[Chẩn đoán dọa vỡ tử cung]
 Bộ các triệu chứng gồm:

@@ -48,7 +48,7 @@ Nên thông tin cho thai phụ biết ở những trường hợp dương tính 
 
 NST và siêu âm là 2 test đầu tay khi ghi nhận có giảm cử động thai.
 
-Test hỗ trợ phải được thực hiện càng sớm càng tốt (trong vòng 1-12h sau giảm cử động thai) theo sau 1 bất thường của đếm cử động thai.
+Test hỗ trợ phải được thực hiện càng sớm càng tốt (trong vòng 1-12h sau giảm cử động thai) theo sau bất thường của đếm cử động thai.
 
 Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lượng nước ối, đánh giá sinh trắc thai...
 

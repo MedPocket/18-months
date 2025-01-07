@@ -9,7 +9,7 @@ Chẩn đoán khối tân lập ở buồng trứng luôn luôn phải đi kèm 
 
 Tất cả các cấu trúc tân lập ở buồng trứng đều phải được điều trị bằng ngoại khoa. Điểm quan trọng nhất khi tiến hành điều trị ngoại khoa các khối tân lập ở buồng trứng là cố gắng ước đoán đến mức chính xác nhất có thể được về khả năng lành tính hay ác tính của khối tân lập, bằng các phương tiện gồm tiền sử, lâm sàng, hình ảnh, chỉ báo khối u...
 
-Đối với các cấu trúc có khả năng lành tính cao: thuộc dân số nguy cơ thấp, thỏa các quy tắc lành tính IOTA, ROMA thấp... thì có thể chỉ định phẫu thuật nội soi bảo tồn. Qua nội soi, 1 lần nữa đánh giá lại khả năng lành-ác của u qua đại thể quan sát được trước khi thực hiện bóc u bảo tồn mô lành ở người trẻ. Phẫu thuật phải ở mức sang chấn thấp nhất có thể, nhằm tránh ảnh hưởng xấu đến dự trữ buồng trứng. Đối với người lớn tuổi, phẫn thuật cắt phần phụ được khuyến cáo thay vì phẫu thuật bảo tồn.
+Đối với các cấu trúc có khả năng lành tính cao: thuộc dân số nguy cơ thấp, thỏa các quy tắc lành tính IOTA, ROMA thấp... thì có thể chỉ định phẫu thuật nội soi bảo tồn. Qua nội soi, lần nữa đánh giá lại khả năng lành-ác của u qua đại thể quan sát được trước khi thực hiện bóc u bảo tồn mô lành ở người trẻ. Phẫu thuật phải ở mức sang chấn thấp nhất có thể, nhằm tránh ảnh hưởng xấu đến dự trữ buồng trứng. Đối với người lớn tuổi, phẫn thuật cắt phần phụ được khuyến cáo thay vì phẫu thuật bảo tồn.
 
 Đối với các cấu trúc có khả năng lành tính thấp, hay nghi ngờ ác tính, mang các đặc tính của các quy tắc ác tính IOTA, ROMA cao... thì phải được đánh giá qua mở bụng. Việc thám sát cẩn trọng tình trạng ở bụng là đòi hỏi tiên quyết:
 
