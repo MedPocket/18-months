@@ -15,7 +15,7 @@ Free $T_4$ (free thyroxine - $FT_4$) là phương pháp đánh giá chức năng
 
 Về chức năng tuyến giáp của thai, trước 10 tuần không có iod hữu cơ trong tuyến giáp thai nhi. Từ tuần 11 đến tuần 12, tuyến giáp thai nhi có thể sản xuất được iodothyronine và $T_4$. Nồng độ TSH của thai nhi, $T_4$ và $FT_4$ đã chứng tỏ sự trưởng thành và khả năng hoạt động độc lập của trục tuyến giáp-tuyến yên.
 
-Iod tự do có thể đi qua bánh rau nhưng TSH thì không. Đặc điểm này cho phép 1 lượng $T_4$ giới hạn có thể qua bánh rau và đóng vai trò quan trọng trong việc phát triển hệ thần kinh thai trong 3 tháng đầu thai kỳ trước khi chức năng tuyến giáp của thai bắt đầu hoạt động. Những đồng vận của hormone tuyến giáp như propylthiouracil (PTU) và methimazole với trọng lượng phân tử thấp hơn có thể qua hàng rào rau và có thể gây ra nhược giáp ở thai. TRH (Thyroid Releasing Hormone) có thể qua hàng rào rau, nhưng không có ý nghĩa vì nồng độ chất này lưu thông qua rau rất thấp.
+Iod tự do có thể đi qua bánh rau nhưng TSH thì không. Đặc điểm này cho phép lượng $T_4$ giới hạn có thể qua bánh rau và đóng vai trò quan trọng trong việc phát triển hệ thần kinh thai trong 3 tháng đầu thai kỳ trước khi chức năng tuyến giáp của thai bắt đầu hoạt động. Những đồng vận của hormone tuyến giáp như propylthiouracil (PTU) và methimazole với trọng lượng phân tử thấp hơn có thể qua hàng rào rau và có thể gây ra nhược giáp ở thai. TRH (Thyroid Releasing Hormone) có thể qua hàng rào rau, nhưng không có ý nghĩa vì nồng độ chất này lưu thông qua rau rất thấp.
 
 ## Cường giáp
 
@@ -23,7 +23,7 @@ Iod tự do có thể đi qua bánh rau nhưng TSH thì không. Đặc điểm n
 
 Cường giáp thường đi kèm với tăng nguy cơ sinh non, IUGR, tiền sản giật, thai lưu và tăng bệnh suất và tử suất sơ sinh.
 
-Bệnh Graves là 1 bệnh lý tự miễn do có kháng thể kích thích tuyến giáp và là nguyên nhân thường gặp nhất của cường giáp. 1 số nguyên nhân khác trong thai kỳ như thai trứng và nhân giáp độc. Bệnh nhân bị Graves có khuynh hướng giảm trong thai kỳ và trầm trọng hơn trong thời kỳ hậu sản.
+Bệnh Graves là bệnh lý tự miễn do có kháng thể kích thích tuyến giáp và là nguyên nhân thường gặp nhất của cường giáp. 1 số nguyên nhân khác trong thai kỳ như thai trứng và nhân giáp độc. Bệnh nhân bị Graves có khuynh hướng giảm trong thai kỳ và trầm trọng hơn trong thời kỳ hậu sản.
 
 ### Chẩn đoán
 
@@ -74,7 +74,7 @@ Do kháng thể kích thích tuyến giáp có thể truyền qua rau, thoáng q
 
 Nguyên nhân thường gặp nhất của nhược giáp ở phụ nữ trong độ tuổi sinh đẻ là viêm giáp Hashimoto, phẫu thuật cắt bỏ tuyến giáp và xạ trị do ung thư tuyến giáp, ngoài ra còn có 1 số bệnh lý khác như đái tháo đường type 1,...
 
-Phụ nữ mang thai bị nhược giáp nếu được điều trị thay thế thích hợp có thể có 1 kết cục thai kỳ bình thường. Tuy nhiên, nếu tình trạng nhược giáp của thai phụ không được điều trị sẽ làm tăng nguy cơ sẩy thai, tiền sản giật, thai lưu, cân nặng lúc sinh thấp, giảm chỉ số thông minh của trẻ.
+Phụ nữ mang thai bị nhược giáp nếu được điều trị thay thế thích hợp có thể có kết cục thai kỳ bình thường. Tuy nhiên, nếu tình trạng nhược giáp của thai phụ không được điều trị sẽ làm tăng nguy cơ sẩy thai, tiền sản giật, thai lưu, cân nặng lúc sinh thấp, giảm chỉ số thông minh của trẻ.
 
 ### Chẩn đoán và điều trị
 

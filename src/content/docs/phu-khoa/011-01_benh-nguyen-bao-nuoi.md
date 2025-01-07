@@ -30,7 +30,7 @@ Tần suất của thai trứng thay đổi tùy chủng tộc. Ở người Âu
 
 ### Nguồn gốc
 
-Thai trứng là kết quả của 1 thụ tinh bất thường. Bất chấp dạng thai trứng, bất thường luôn có nguồn gốc tinh trùng (paternal).
+Thai trứng là kết quả của thụ tinh bất thường. Bất chấp dạng thai trứng, bất thường luôn có nguồn gốc tinh trùng (paternal).
 
 Trong thai trứng toàn phần, cấu trúc bộ nhiễm sắc thể là 46 nhiễm sắc thể. Trứng thụ tinh là 1 trứng không nhân. Vật chất di truyền đến từ 2 tinh trùng khác nhau. Trong trường hợp trứng không nhân bị xâm nhập bởi 1 tinh trùng, thì tinh trùng sẽ nhân đôi.
 
@@ -118,7 +118,7 @@ Băng huyết hay không kiểm soát được tình trạng chảy máu nặng 
 
 Với hậu thai trứng nguy cơ cao, hoá dự phòng làm giảm nguy cơ GTD ác tính, nhưng làm tăng nguy cơ GTD kháng thuốc.
 
-Cần nhấn mạnh rằng việc thực hiện hoá dự phòng không làm thay đổi các phác đồ theo dõi hậu thai trứng. Đối với nhóm hậu thai trứng nguy cơ cao, hoá dự phòng với methotrexate làm giảm 1 cách có ý nghĩa nguy cơ xảy ra bệnh nguyên bào nuôi hậu thai trứng, từ 47.4% xuống còn 14.3%.
+Cần nhấn mạnh rằng việc thực hiện hoá dự phòng không làm thay đổi các phác đồ theo dõi hậu thai trứng. Đối với nhóm hậu thai trứng nguy cơ cao, hoá dự phòng với methotrexate làm giảm có ý nghĩa nguy cơ xảy ra bệnh nguyên bào nuôi hậu thai trứng, từ 47.4% xuống còn 14.3%.
 
 Ngược lại, với nhóm nguy cơ thấp thì không có hiệu quả. Tuy nhiên, cần phải lưu ý rằng trong số bệnh nhân đã được dùng hoá dự phòng nhưng vẫn bị nguyên bào nuôi hậu thai trứng thì nguy cơ kháng thuốc nhiều hơn nhóm không điều trị hoá dự phòng.
 
@@ -154,7 +154,7 @@ Tác dụng phụ gồm có:
 
 #### Tránh thai
 
-Trong quá trình theo dõi hậu thai trứng, bệnh nhân bị buộc phải áp dụng 1 phương pháp ngừa thai hiệu quả. Lý do là không để xuất hiện những triệu chứng lâm sàng, những thông tin về hCG và hình ảnh học của thai kỳ mới làm nhiễu loạn việc theo dõi thai trứng:
+Trong quá trình theo dõi hậu thai trứng, bệnh nhân bị buộc phải áp dụng phương pháp ngừa thai hiệu quả. Lý do là không để xuất hiện những triệu chứng lâm sàng, những thông tin về hCG và hình ảnh học của thai kỳ mới làm nhiễu loạn việc theo dõi thai trứng:
 
 1. Condom là lựa chọn tốt, do phương pháp này hoàn toàn không có ảnh hưởng trên diễn biến tự nhiên của hậu thai trứng hay các triệu chứng theo dõi như rong huyết, nhức đầu... Nhược điểm lớn nhất của condom là hiệu quả tránh thai không thật sự cao.
 2. Dụng cụ tử cung tránh thai (Intra Uterine Devices) (IUD) là lựa chọn tốt vì có hiệu quả tránh thai rất cao. Tuy nhiên, các tác dụng phụ của IUD lại là những thông tin gây nhiễu. Quan trọng nhất là rong huyết. Rong huyết dưới IUD làm cho chẩn đoán phân biệt với các thể GTD không kèm tăng cao của hCG như trong trường hợp của bệnh nguyên bào nuôi tồn tại (Persistent Trophoblastic Disease) (PTD) hay PSTT.
@@ -193,7 +193,7 @@ Thai trứng xâm lấn (invasive mole) thể hiện tình trạng các tổ ch�
 
 U nguyên bào nuôi tại vị trí rau bám (Placental Site Trophoblastic Tumour - PSTT) thể hiện sự hiện diện khối u của các tổ chức nguyên bào nuôi tại vị trí rau bám trước đây(thường xảy ra sau sinh). PSTT không phải lúc nào cũng có nguồn gốc là sau thai trứng. PSTT có thể xảy ra cả sau thai thường sống, hoặc sau thai ngưng phát triển. Dù không mang các đặc trưng của ác tính điển hình, nhưng PSTT không phải lúc nào cũng lành tính. Không ít trường hợp bệnh nguyên bào nuôi tồn tại có thể dẫn đến tử vong do di căn. β-hCG thường thấp 16-400 mIU/mL.
 
-Ung thư nguyên bào nuôi (choriocarcinoma) dùng mô tả tân lập ác tính từ mô rau. Ung thư nguyên bào nuôi có thể có xuất phát điểm là thai trứng, hoặc là thai thường (sinh sống hay ngưng phát triển). Ngoài ra, ung thư nguyên bào nuôi có thể có nguồn gốc không liên quan đến thai kỳ, mà có bản chất là 1 u tế bào dòng sinh dục của buồng trứng, trong đó tế bào dòng sinh dục phân chia bất thường, không theo con đường giảm nhiễm, mà theo con đường nguyên nhiễm, rồi phân bào nguyên nhiễm tiếp tục để thành ung thư. Trong trường hợp này ta có bệnh nguyên bào nuôi không liên quan đến thai kỳ (non-gestational choriocarcinoma). Choriocarcinoma có thể cho di căn nhiều nơi như âm đạo, phổi, não... hoặc bị vỡ.
+Ung thư nguyên bào nuôi (choriocarcinoma) dùng mô tả tân lập ác tính từ mô rau. Ung thư nguyên bào nuôi có thể có xuất phát điểm là thai trứng, hoặc là thai thường (sinh sống hay ngưng phát triển). Ngoài ra, ung thư nguyên bào nuôi có thể có nguồn gốc không liên quan đến thai kỳ, mà có bản chất là u tế bào dòng sinh dục của buồng trứng, trong đó tế bào dòng sinh dục phân chia bất thường, không theo con đường giảm nhiễm, mà theo con đường nguyên nhiễm, rồi phân bào nguyên nhiễm tiếp tục để thành ung thư. Trong trường hợp này ta có bệnh nguyên bào nuôi không liên quan đến thai kỳ (non-gestational choriocarcinoma). Choriocarcinoma có thể cho di căn nhiều nơi như âm đạo, phổi, não... hoặc bị vỡ.
 
 ### Chẩn đoán
 

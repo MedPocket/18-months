@@ -40,7 +40,7 @@ Không đặc hiệu:
 
 #### Siêu âm
 
-Tam cá nguyệt thứ nhất, có 1 số dậu hiệu tùy từng giai đoạn sớm (6-9 tuần) hoặc muộn (11-14 tuần):
+Tam cá nguyệt thứ nhất, có 1 số dấu hiệu tùy từng giai đoạn sớm (6-9 tuần) hoặc muộn (11-14 tuần):
 
 - Túi thai bám thấp được định nghĩa là túi rau làm tổ đoạn dưới tử cung, trong hay gần khuyết sẹo mổ lấy thai.
 - Túi thai nằm thấp và làm tổ ở thành trước đoạn dưới tử cung, cơ tử cung đoạn dưới thành trước mỏng < 3mm so với thành sau.

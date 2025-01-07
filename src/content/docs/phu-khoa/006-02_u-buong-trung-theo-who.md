@@ -19,15 +19,15 @@ Các nang cơ năng của buồng trứng hình thành do hoạt động chức 
 
 ### Nang noãn
 
-Nang noãn nang hình thành khi 1 nang noãn không vỡ trong quá trình trưởng thành nang, sự phóng noãn không xảy ra.
+Nang noãn nang hình thành khi nang noãn không vỡ trong quá trình trưởng thành nang, sự phóng noãn không xảy ra.
 
 Các dấu hiệu có thể đi kèm gồm kéo dài giai đoạn phát triển nang noãn của chu kỳ kinh nguyệt, vô kinh thứ phát thoáng qua. Dịch trong nang giàu estrogen. Đa số các nang noãn nang tự biến mất trong vòng 6 tuần. Ức chế phóng thích gonadotropin bằng viên tránh thai chứa estrogen-progestogen phối hợp không làm mất hay làm giảm kích thước của nang noãn nang tuy nhiên sẽ làm giảm hình thành nang noãn mới.
 
-Nếu 1 khối u đã được chẩn đoán là nang noãn nang mà vẫn tồn tại dù đã trải qua các liệu pháp điều trị, thì chẩn đoán về 1 loại nang hay 1 cấu trúc khối tân lập khác nên được nghĩ đến và phải được đánh giá chuyên sâu hơn qua hình ảnh.
+Nếu khối u đã được chẩn đoán là nang noãn nang mà vẫn tồn tại dù đã trải qua các liệu pháp điều trị, thì chẩn đoán về 1 loại nang hay 1 cấu trúc khối tân lập khác nên được nghĩ đến và phải được đánh giá chuyên sâu hơn qua hình ảnh.
 
 ### Nang hoàng thể
 
-Khi đường kính hoàng thể vượt quá 3 cm nó được nhận dạng như là 1 loại nang chứ không còn là hoàng thể đơn thuần. Có 2 loại được ghi nhận là nang hoàng thể tồn lưu và nang hoàng thể xuất huyết.
+Khi đường kính hoàng thể vượt quá 3 cm nó được nhận dạng như là loại nang chứ không còn là hoàng thể đơn thuần. Có 2 loại được ghi nhận là nang hoàng thể tồn lưu và nang hoàng thể xuất huyết.
 
 Nang hoàng thể tồn lưu là nang hoàng thể phì đại nhẹ, có thể vẫn tiếp tục sản xuất progesterone dài ngày hơn so với thông thường, kỳ kinh nguyệt bị trì hoàn từ vài ngày đến vài tuần, thông thường là trong vòng 2 tuần so với chu kỳ đã lỡ.
 
@@ -53,20 +53,20 @@ Mọi cấu trúc hình thành do viêm đều có thể tạo ra các khối �
 
 ### Buồng trứng đa nang
 
-Đa nang buồng trứng là 1 hội chứng phổ biến, xuất hiện ở trên 20% phụ nừ tuổi sinh đẻ. Tình trạng mà trong đó các nang noãn không phát triển đến trưởng thành được, hình thành các cấu trúc nang thứ cấp muộn có kích thước nhỏ tại lớp vỏ buồng trứng. Các nang này không hoàn thành được tiến trình phát triển, tiết ra chủ yếu là androgen. Đa nang buồng trứng là nguyên nhân gây ra cường androgen, rối loạn kinh nguyệt với hình ảnh điển hình của buồng trứng với các nang nhỏ xếp thành chuỗi ở ngoại vi trên siêu âm. Cường androgen có thể rất nặng đến mức gây rậm lông (hirsutism).
+Đa nang buồng trứng là hội chứng phổ biến, xuất hiện ở trên 20% phụ nừ tuổi sinh đẻ. Tình trạng mà trong đó các nang noãn không phát triển đến trưởng thành được, hình thành các cấu trúc nang thứ cấp muộn có kích thước nhỏ tại lớp vỏ buồng trứng. Các nang này không hoàn thành được tiến trình phát triển, tiết ra chủ yếu là androgen. Đa nang buồng trứng là nguyên nhân gây ra cường androgen, rối loạn kinh nguyệt với hình ảnh điển hình của buồng trứng với các nang nhỏ xếp thành chuỗi ở ngoại vi trên siêu âm. Cường androgen có thể rất nặng đến mức gây rậm lông (hirsutism).
 
 ![Buồng trứng đa nang qua nội soi](../../../assets/phu-khoa/u-buong-trung-theo-who/buong-trung-da-nang-qua-noi-soi.png)
 
 ### Lạc tuyến nội mạc tử cung
 
-Lạc tuyến nội mạc tử cung tại buồng trứng là 1 cấu trúc không tân lập lành tính, gây đau vùng chậu và hiếm muộn.
+Lạc tuyến nội mạc tử cung tại buồng trứng là cấu trúc không tân lập lành tính, gây đau vùng chậu và hiếm muộn.
 
-Nang lạc nội mạc tử cung được hình thành do sự cấy ghép lên bề mặt buồng trứng của mô nội mạc tử cung bình thường có nguồn gốc từ máu kinh trào ngược. Khi có bất thường về khả năng đáp ứng miễn dịch (có thể do liên quan đến các đột biến gene), cấy ghép bất thường sẽ thành công dẫn đến hình thành các tuyến nội mạc tử cung lạc vị, vẫn còn hoạt động chức năng trên bề mặt buồng trứng. Xuất huyết kinh làm cho các nang bịt này lớn dần lên do chứa đầy máu “kinh” không có đường thoát, gây ra 1 cấu trúc nang, với đặc trưng là viêm, với tân mạch và tàn phá cấu trúc vùng chậu.
+Nang lạc nội mạc tử cung được hình thành do sự cấy ghép lên bề mặt buồng trứng của mô nội mạc tử cung bình thường có nguồn gốc từ máu kinh trào ngược. Khi có bất thường về khả năng đáp ứng miễn dịch (có thể do liên quan đến các đột biến gene), cấy ghép bất thường sẽ thành công dẫn đến hình thành các tuyến nội mạc tử cung lạc vị, vẫn còn hoạt động chức năng trên bề mặt buồng trứng. Xuất huyết kinh làm cho các nang bịt này lớn dần lên do chứa đầy máu “kinh” không có đường thoát, gây ra cấu trúc nang, với đặc trưng là viêm, với tân mạch và tàn phá cấu trúc vùng chậu.
 
 ![Nang lạc nội mạc tử cung](../../../assets/phu-khoa/u-buong-trung-theo-who/nang-lac-noi-mac-tu-cung.png)
 _Nang chứa dịch chocolate hình thành do ứ máu “kinh” trong bề mặt buồng trứng. Viêm là hiện tượng đi kèm rất phổ biến, gây dính vùng chậu, với hệ quả là hiếm muộn._
 
-Khả năng ác tính của nang lạc nội mạc tử cung tại buồng trứng là rất thấp, nhưng không thể loại trừ. Chẩn đoán phân biệt quan trọng nhất của nang lạc nội mạc tử cung tại buồng trứng là [u tân sinh dạng nội mạc tử cung của buồng trứng](#u-dạng-nội-mạc-tử-cung-endometroid-tumour), là 1 tân lập, với tế bào giống tế bào nội mạc, nhưng không có mô đệm tùy hành, có liên quan mạnh đến ác tính.
+Khả năng ác tính của nang lạc nội mạc tử cung tại buồng trứng là rất thấp, nhưng không thể loại trừ. Chẩn đoán phân biệt quan trọng nhất của nang lạc nội mạc tử cung tại buồng trứng là [u tân sinh dạng nội mạc tử cung của buồng trứng](#u-dạng-nội-mạc-tử-cung-endometroid-tumour), là tân lập, với tế bào giống tế bào nội mạc, nhưng không có mô đệm tùy hành, có liên quan mạnh đến ác tính.
 
 ## Các cấu trúc tân lập tại phần phụ
 
@@ -115,14 +115,14 @@ _Đại thể: ghi nhận các chồi nhú ở mặt trong u._
 
 Lòng u được lát bởi các tế bào trụ cao tiết nhầy, giống như tế bào của biểu mô lát kênh cổ tử cung. Có thể lành tính, ác tính và giáp biên ác.
 
-Chiếm 60% các trường hợp u buồng trứng. U tuyến dịch nhầy thường khá lớn, đôi khi lấp đầy khoang chậu và chèn ép vào khoang bụng. Thường có nhiều vách và phân thùy. 15% các u tuyến dịch nhầy là ác tính. U tuyến dịch nhầy giáp biên ác có thể thể hiện dưới 1 dạng thức đặc biệt, được gọi không chính xác là viêm phúc mạc giả nhầy (pseudomyxoma peritonei).
+Chiếm 60% các trường hợp u buồng trứng. U tuyến dịch nhầy thường khá lớn, đôi khi lấp đầy khoang chậu và chèn ép vào khoang bụng. Thường có nhiều vách và phân thùy. 15% các u tuyến dịch nhầy là ác tính. U tuyến dịch nhầy giáp biên ác có thể thể hiện dưới dạng thức đặc biệt, được gọi không chính xác là viêm phúc mạc giả nhầy (pseudomyxoma peritonei).
 
 ![U tuyến dịch nhày buồng trứng](../../../assets/phu-khoa/u-buong-trung-theo-who/u-tuyen-dich-nhay-buong-trung.png)
-_Đại thể: là 1 khối rất to, nhiều thùy, bên trong chứa chất nhầy. Vi thể: thành nang lót bởi tế bào trụ tiết nhầy giống tế bào kênh tử cung._
+_Đại thể: là khối rất to, nhiều thùy, bên trong chứa chất nhầy. Vi thể: thành nang lót bởi tế bào trụ tiết nhầy giống tế bào kênh tử cung._
 
 #### U dạng nội mạc tử cung (endometroid tumour)
 
-Lòng u được lát bởi các tế bào giống như tế bào của tuyến nội mạc tử cung. Không giống như trường hợp của nang lạc nội mạc tử cung (nang thực thể không tân lập, gồm vỏ là nội mạc tử cung và mô đệm tùy hành), nang dạng nội mạc tử cung là 1 tân lập, chỉ gồm tế bào tương tự tế bào nội mạc tử cung, hoàn toàn không kèm theo mô đệm tùy hành.
+Lòng u được lát bởi các tế bào giống như tế bào của tuyến nội mạc tử cung. Không giống như trường hợp của nang lạc nội mạc tử cung (nang thực thể không tân lập, gồm vỏ là nội mạc tử cung và mô đệm tùy hành), nang dạng nội mạc tử cung là tân lập, chỉ gồm tế bào tương tự tế bào nội mạc tử cung, hoàn toàn không kèm theo mô đệm tùy hành.
 
 Hầu hết u dạng nội mạc tử cung là ác tính. Những u này có hình ảnh mô học tương tự với ung thư nội mạc tử cung thường đi kèm với ung thư nội mạc tử cung, và trong 15% trường hợp có kèm theo lạc nội mạc tử cung. Vì thế, chẩn đoán phân biệt giữa u dạng nội mạc tử cung với [nang lạc tuyến nội mạc tử cung ở buồng trứng](#lạc-tuyến-nội-mạc-tử-cung) là rất quan trọng và rất khó khăn.
 
@@ -132,7 +132,7 @@ Hầu hết các u tế bào sáng là ác tính. Có sự liên quan chặt ch�
 
 #### U Brenner (Brenner tumour)
 
-Khối u này có dạng đặc vì chứa nhiều mô đệm và mô xơ bao quanh lớp tế bào biểu mô. U Brenner hiếm khi ác tính. Đây là 1 dạng tân sinh biểu mô lành tính hiếm gặp của buồng trứng. U Brenner thường gặp hơn ở phụ nữ lớn tuổi và có thể có mối liên quan với u dịch nhầy tại buồng trứng. U Brenner đơn độc phát hiện được thường tương đối nhỏ, so với những khối u dịch trong và đặc biệt là u nhầy.
+Khối u này có dạng đặc vì chứa nhiều mô đệm và mô xơ bao quanh lớp tế bào biểu mô. U Brenner hiếm khi ác tính. Đây là dạng tân sinh biểu mô lành tính hiếm gặp của buồng trứng. U Brenner thường gặp hơn ở phụ nữ lớn tuổi và có thể có mối liên quan với u dịch nhầy tại buồng trứng. U Brenner đơn độc phát hiện được thường tương đối nhỏ, so với những khối u dịch trong và đặc biệt là u nhầy.
 
 ![U Brenner](../../../assets/phu-khoa/u-buong-trung-theo-who/u-brenner.png)
 _Vi thể: Ghi nhận tỷ lệ cao mô đệm. Đây là u có dạng đặc._
@@ -171,7 +171,7 @@ Nếu tế bào sau phân bào I giảm nhiễm bị thoái giáng nhưng không
 
 U yolk-sac là loại u tế bào mầm có tỷ lệ tử vong cao nhất. Là 1 trong các u nghịch phôi phát triển theo chiều hướng ngoài phôi, u yolk-sac chiếm 20% u tế bào mầm (thường gặp thứ 2) và có tiềm năng ác tính cao nhất trong tất cả u tế bào mầm. U có độ tuổi chẩn đoán trung bình là 19. U thường 1 bên.
 
-Choriocarcinoma không thai kỳ là 1 u tế bào mầm hiếm gặp, không liên quan đến thai kỳ. Các tế bào nuôi ở đây có nguồn gốc từ thoái giáng theo chiều hướng ngoài phôi của các tế bào mầm đã qua phân bào I giảm nhiễm. Trong choriocarcinoma không thai kỳ vẫn có tăng hCG, nhưng tăng ít. hCG tăng dẫn đến hệ quả kích thích buồng trứng, gây nên các động nội tiết của buồng trứng và từ đó gây dậy thì sớm, chảy máu tử cung hoặc vô kinh. Vi thể u gồm nguyên bào nuôi, nguyên bào nuôi trung gian và hợp bào nuôi. Độ ác tính thường cao.
+Choriocarcinoma không thai kỳ là u tế bào mầm hiếm gặp, không liên quan đến thai kỳ. Các tế bào nuôi ở đây có nguồn gốc từ thoái giáng theo chiều hướng ngoài phôi của các tế bào mầm đã qua phân bào I giảm nhiễm. Trong choriocarcinoma không thai kỳ vẫn có tăng hCG, nhưng tăng ít. hCG tăng dẫn đến hệ quả kích thích buồng trứng, gây nên các động nội tiết của buồng trứng và từ đó gây dậy thì sớm, chảy máu tử cung hoặc vô kinh. Vi thể u gồm nguyên bào nuôi, nguyên bào nuôi trung gian và hợp bào nuôi. Độ ác tính thường cao.
 
 ![Choriocarcinoma không thai kỳ](../../../assets/phu-khoa/u-buong-trung-theo-who/choriocarcinoma-khong-thai-ky.png)
 
@@ -192,13 +192,13 @@ U xuất phát từ mô đệm hay từ dây giới bào, xuất hiện đơn th
 
 #### U mô đệm đơn thuần: u sợi và hội chứng Meigs (fibroma)
 
-Hội chứng Meigs gồm tam chứng (1) u sợi buồng trứng, (2) báng bụng và (3) tràn dịch màng phổi. U sợi buồng trứng trong hội chứng Meigs là khối u lành tính 1 bên. Là 1 hội chứng hiếm và khá đặc biệt, trong đó bệnh nhân đến khám không phải vì khối u buồng trứng mà là vì 1 tình trạng nội khoa khác là báng bụng và tràn dịch màng phổi. Bệnh học của hội chứng được giải thích bằng các yếu tố tăng trưởng nội mạc mạc máu (VEGF) làm tăng tính thấm mao mạch. Bệnh thoái lui sau khi cắt bỏ khối u buồng trứng.
+Hội chứng Meigs gồm tam chứng (1) u sợi buồng trứng, (2) báng bụng và (3) tràn dịch màng phổi. U sợi buồng trứng trong hội chứng Meigs là khối u lành tính 1 bên. Là hội chứng hiếm và khá đặc biệt, trong đó bệnh nhân đến khám không phải vì khối u buồng trứng mà là vì tình trạng nội khoa khác là báng bụng và tràn dịch màng phổi. Bệnh học của hội chứng được giải thích bằng các yếu tố tăng trưởng nội mạc mạc máu (VEGF) làm tăng tính thấm mao mạch. Bệnh thoái lui sau khi cắt bỏ khối u buồng trứng.
 
 ![U sợi buồng trứng](../../../assets/phu-khoa/u-buong-trung-theo-who/u-soi-buong-trung.png)
 
 #### U mô đệm đơn thuần: u tế bào vỏ (Thecoma)
 
-Hầu hết các u tế bào vỏ là lành tính. Hầu hết các khối u tế bào vỏ xuất hiện ở tuổi mãn kinh. U tế bào vỏ chế tiết estrogen. Rất hiếm khi u tế bào vỏ chế tiết androgen. Trên đại thể, u là 1 u đặc. Tổn thương dạng sợi, màu vàng điển hình do hormones steroid. Do chế tiết steroid, nên xuất huyết tử cung do cường estrogen và tăng sinh nội mạc tử cung là các biểu hiện thường gặp.
+Hầu hết các u tế bào vỏ là lành tính. Hầu hết các khối u tế bào vỏ xuất hiện ở tuổi mãn kinh. U tế bào vỏ chế tiết estrogen. Rất hiếm khi u tế bào vỏ chế tiết androgen. Trên đại thể, u là u đặc. Tổn thương dạng sợi, màu vàng điển hình do hormones steroid. Do chế tiết steroid, nên xuất huyết tử cung do cường estrogen và tăng sinh nội mạc tử cung là các biểu hiện thường gặp.
 
 ![U tế bào vỏ](../../../assets/phu-khoa/u-buong-trung-theo-who/u-te-bao-vo.png)
 
@@ -223,22 +223,22 @@ _Tiềm năng ác tính rất thấp, thường khu trú ở 1 buồng trứng v
 ![U tế bào hạt](../../../assets/phu-khoa/u-buong-trung-theo-who/u-te-bao-hat.png)
 _Vi thể đặc trưng bởi các thể “Call-Exner”._
 
-Các dấu hiệu lâm sàng là các dấu hiệu của hiện diện bất thường estrogen. Các triệu chứng liên quan với cường estrogen với khối u ở bụng, tăng sinh nội mạc tử cung, xuất huyết bất thường. Dậy thì sớm, rong huyết đôi khi xuất hiện đơn độc, như 1 chỉ báo khối u. Đau do vỡ u không thường gặp.
+Các dấu hiệu lâm sàng là các dấu hiệu của hiện diện bất thường estrogen. Các triệu chứng liên quan với cường estrogen với khối u ở bụng, tăng sinh nội mạc tử cung, xuất huyết bất thường. Dậy thì sớm, rong huyết đôi khi xuất hiện đơn độc, như chỉ báo khối u. Đau do vỡ u không thường gặp.
 
 #### U tế bào Sertoli (Sertoli cell tumour)
 
-U tế bào Sertoli là 1 tân sinh xuất phát từ dây giới bào biệt hóa theo hướng nam. Là 1 u hiếm, với ác tính thấp. U thường xảy ra ở người dưới 30 tuổi, và chế tiết trong hơn 95% trường hợp. U Sertoli đơn thuần thường có xu hướng chế tiết estrogen. U gây nam hóa, và vì thế dễ được phát hiện sớm ở giai đoạn I.
+U tế bào Sertoli là tân sinh xuất phát từ dây giới bào biệt hóa theo hướng nam. Là u hiếm, với ác tính thấp. U thường xảy ra ở người dưới 30 tuổi, và chế tiết trong hơn 95% trường hợp. U Sertoli đơn thuần thường có xu hướng chế tiết estrogen. U gây nam hóa, và vì thế dễ được phát hiện sớm ở giai đoạn I.
 
 #### U hỗn hợp mô đệm và dây giới bào: u tế bào SertoliLeydig (Sertoli-Leydig cell tumour) hay (androblastoma)
 
-U tế bào Sertoli-Leydig là 1 u hiếm. Do chế tiết androgen nên u này còn có tên gọi là Androsblastoma. Nhìn chung, là 1 u với ác tính thấp, nhưng còn lệ thuộc vào độ biệt hóa tế bào. Loại u này chế tiết androgen. 40-60% bệnh nhân có biểu hiện rậm lông, vú teo, phì đại âm vật. U cũng gây dậy thì sớm, gây rong huyết ở trẻ gái mắc bệnh. Với u Sertoli-Leydig, các khảo sát như testosterone, androstenedione, và tiền chất 17-hydroxy progesterone có thể có giá trị.
+U tế bào Sertoli-Leydig là u hiếm. Do chế tiết androgen nên u này còn có tên gọi là Androsblastoma. Nhìn chung, là u với ác tính thấp, nhưng còn lệ thuộc vào độ biệt hóa tế bào. Loại u này chế tiết androgen. 40-60% bệnh nhân có biểu hiện rậm lông, vú teo, phì đại âm vật. U cũng gây dậy thì sớm, gây rong huyết ở trẻ gái mắc bệnh. Với u Sertoli-Leydig, các khảo sát như testosterone, androstenedione, và tiền chất 17-hydroxy progesterone có thể có giá trị.
 
 ![U tế bào Sertoli-Leydig](../../../assets/phu-khoa/u-buong-trung-theo-who/u-tebao-sertili-leydig.png)
 _Bé gái, 14 tuổi, khám vì mọc ria mép và lông ngực. Bé đã được phẫu thuật cắt u buồng trứng loại tế bào Sertoli-Leydig. Hình trái và hình giữa là ảnh chụp trước mổ của bé. Hình trên cùng bên phải là ảnh chụp 6 tháng sau khi mổ cắt buồng trứng có u._
 
 ### U tân sinh di căn đến buồng trứng
 
-Ung thư đại tràng, ung thư dạ dày các là ung thư được nhắc đến nhiều nhất về khả năng cho di căn buồng trứng, dưới tên gọi u Krukenberg. Khi phẫu thuật 1 u buồng trứng có dạng u Krukenberg, buộc phải đi tìm khối u nguyên phát, đôi khi nằm ở tầng trên mạc treo đại tràng ngang, thậm chí nằm ngoài ổ bụng. Mô học của u Krukenberg có các tế bào hình nhẫn rất đặc
+Ung thư đại tràng, ung thư dạ dày các là ung thư được nhắc đến nhiều nhất về khả năng cho di căn buồng trứng, dưới tên gọi u Krukenberg. Khi phẫu thuật u buồng trứng có dạng u Krukenberg, buộc phải đi tìm khối u nguyên phát, đôi khi nằm ở tầng trên mạc treo đại tràng ngang, thậm chí nằm ngoài ổ bụng. Mô học của u Krukenberg có các tế bào hình nhẫn rất đặc
 trưng.
 
 ![U Krukenberg](../../../assets/phu-khoa/u-buong-trung-theo-who/u-krukenberg.png)
@@ -268,18 +268,18 @@ Phần lớn các khối u buồng trứng được phát hiện tình cờ khi 
 
 #### Bản chất của hiện tượng hóa ác
 
-Khối u buồng trứng không thoái hóa ác tính. Chỉ có các khối u buồng trứng có bản chất ác tính nhưng bị bỏ sót, không được nhận ra. Đặc điểm bệnh học của các ung thư buồng trứng là rất khó nhận biết lành-ác. Vấn đề khó khăn là khối u tiến triển âm thầm làm cho chẩn đoán khó khăn hoặc dễ bỏ sót chẩn đoán. Phân định lành-ác của tân lập ở buồng trứng là rất khó khăn khi dựa trên lâm sàng, hình ảnh học. Khó khăn trong phân định lành-ác cũng cũng gặp cả trên giải phẫu bệnh. Đôi khi, trên cả khối u, chỉ có 1 vài vùng mang các đặc điểm bệnh học điển hình của ác tính. Bỏ sót thương tổn làm cho nhận định sai về tình trạng ác tính sẵn có của khối u.
+Khối u buồng trứng không thoái hóa ác tính. Chỉ có các khối u buồng trứng có bản chất ác tính nhưng bị bỏ sót, không được nhận ra. Đặc điểm bệnh học của các ung thư buồng trứng là rất khó nhận biết lành-ác. Vấn đề khó khăn là khối u tiến triển âm thầm làm cho chẩn đoán khó khăn hoặc dễ bỏ sót chẩn đoán. Phân định lành-ác của tân lập ở buồng trứng là rất khó khăn khi dựa trên lâm sàng, hình ảnh học. Khó khăn trong phân định lành-ác cũng cũng gặp cả trên giải phẫu bệnh. Đôi khi, trên cả khối u, chỉ có vài vùng mang các đặc điểm bệnh học điển hình của ác tính. Bỏ sót thương tổn làm cho nhận định sai về tình trạng ác tính sẵn có của khối u.
 
 #### Xoắn khối u buồng trứng
 
 Các khối u buồng trứng di động, có tỷ trọng lớn có nhiều khả năng bị xoắn.
 
 ![Khối u buồng trứng xoắn trong thai kỳ](../../../assets/phu-khoa/u-buong-trung-theo-who/u-buong-trung-xoan.png)
-_Ảnh chụp 1 u buồng trứng bị xoắn ở 1 thai phụ có thai ở tam cá nguyệt thứ nhì. Khi tử cung to lên, khối u sẽ lọt ra khỏi vùng chậu. Lúc này, với tỷ trọng lớn và khoảng không gian rộng, các khối u buồng trứng sẽ rất dễ bị xoắn. Trường hợp này u buồng trứng xoắn bị mổ muộn, với buồng trứng hoại tử tím đen._
+_Ảnh chụp u buồng trứng bị xoắn ở thai phụ có thai ở tam cá nguyệt thứ nhì. Khi tử cung to lên, khối u sẽ lọt ra khỏi vùng chậu. Lúc này, với tỷ trọng lớn và khoảng không gian rộng, các khối u buồng trứng sẽ rất dễ bị xoắn. Trường hợp này u buồng trứng xoắn bị mổ muộn, với buồng trứng hoại tử tím đen._
 
-Buồng trứng là 1 cơ quan tự do trong xoang phúc mạc, chỉ được cố định bằng mạc treo buồng trứng, dây chằng thắt lưng buồng trứng, dây chằng tử cung buồng trứng. Cả 3 cấu trúc này rất lỏng lẻo, làm cho buồng trứng là cơ quan rất dễ thay đổi vị trí.
+Buồng trứng là cơ quan tự do trong xoang phúc mạc, chỉ được cố định bằng mạc treo buồng trứng, dây chằng thắt lưng buồng trứng, dây chằng tử cung buồng trứng. Cả 3 cấu trúc này rất lỏng lẻo, làm cho buồng trứng là cơ quan rất dễ thay đổi vị trí.
 
-Xoắn khối u buồng trứng thường có khởi phát bằng đau đột ngột và dữ dội vùng bụng, có thể có sốc do đau. Thăm khám thấy 1 khối cạnh tử cung rất đau. Phúc mạc bị kích thích gây nôn ói. Tuy nhiên bụng vẫn mềm nếu khối u không bị vỡ.
+Xoắn khối u buồng trứng thường có khởi phát bằng đau đột ngột và dữ dội vùng bụng, có thể có sốc do đau. Thăm khám thấy khối cạnh tử cung rất đau. Phúc mạc bị kích thích gây nôn ói. Tuy nhiên bụng vẫn mềm nếu khối u không bị vỡ.
 
 Điều trị ngoại khoa là bắt buộc. Việc chẩn đoán và can thiệp phải được tiến hành càng sớm càng tốt, nhằm mục đích bảo tồn buồng trứng. Nếu tưới máu được hồi phục tốt thì phẫu thuật được tiếp theo bằng bóc khối u như trong các điều kiện thông thường. Phẫu thuật bảo tồn có thể được thực hiện qua nội soi ổ bụng hay mở bụng hở. Nếu không có đủ bằng chứng đảm bảo khả năng lành tính của khối u, phẫu thuật được thực hiện bằng cách mở bụng cắt bỏ trọn phần phụ bị xoắn.
 

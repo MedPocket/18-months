@@ -17,7 +17,7 @@ Về mặt sinh lý, giai đoạn sổ rau được chia ra 3 thì:
 
 Thì bong rau là khoảng thời gian từ sau khi sổ thai đến khi rau bong hoàn toàn khỏi vị trí bám trên tử cung.
 
-Sau khi thai sổ, lòng tử cung trở nên trống, tử cung co lại. Cùng lúc đó, do bánh rau không có tính đàn hồi, nên nó sẽ bị bóp nhăn nhúm lại và bong tróc 1 phần khỏi vị trí bám của nó trên buồng tử cung. Tại vị trí bong tróc nguyên khởi này, các mạch máu của mẹ sẽ bị hở ra, gây chảy máu vào các khoảng trống tạo ra do bong tróc. Máu chảy ra bị giới hạn bởi sự bám của bánh rau sẽ tạo thành 1 khối máu tụ sau rau. Máu tiếp tục chảy, làm khối máu tụ này to dần, và lan rộng dần, lần lượt tách các phần rau còn lại tách khỏi vị trí bám, cho đến khi rau bong hoàn toàn khỏi thành tử cung.
+Sau khi thai sổ, lòng tử cung trở nên trống, tử cung co lại. Cùng lúc đó, do bánh rau không có tính đàn hồi, nên nó sẽ bị bóp nhăn nhúm lại và bong tróc 1 phần khỏi vị trí bám của nó trên buồng tử cung. Tại vị trí bong tróc nguyên khởi này, các mạch máu của mẹ sẽ bị hở ra, gây chảy máu vào các khoảng trống tạo ra do bong tróc. Máu chảy ra bị giới hạn bởi sự bám của bánh rau sẽ tạo thành khối máu tụ sau rau. Máu tiếp tục chảy, làm khối máu tụ này to dần, và lan rộng dần, lần lượt tách các phần rau còn lại tách khỏi vị trí bám, cho đến khi rau bong hoàn toàn khỏi thành tử cung.
 
 ![Thì bong rau](../../../assets/san-khoa/xu-tri-tich-cuc-giai-doan-3/bong-rau.png)
 _Thì bong rau._

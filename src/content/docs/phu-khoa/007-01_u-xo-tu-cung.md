@@ -10,9 +10,9 @@ _Các nhân xơ là các khối u có vỏ bọc giả, gồm mô cơ-sợi, m�
 
 ## Bệnh học u xơ tử cung
 
-Các tế bào của u xơ-cơ là các tế bào chịu ảnh hưởng của các steroids sinh dục. U xơ-cơ tử cung sở hữu những đặc tính sinh học quan trọng. Các thụ thể của estrogen (ER) và của progesterone (PR) được tìm thấy trên các tế bào của u xơ-cơ tử cung. Dưới ảnh hưởng của steroid sinh dục, chúng phát triển với 1 tốc độ chậm. Khi bị cắt nguồn cung cấp steroid, hầu hết các u xơ-cơ tử cung sẽ có chiều hướng thoái triển.
+Các tế bào của u xơ-cơ là các tế bào chịu ảnh hưởng của các steroids sinh dục. U xơ-cơ tử cung sở hữu những đặc tính sinh học quan trọng. Các thụ thể của estrogen (ER) và của progesterone (PR) được tìm thấy trên các tế bào của u xơ-cơ tử cung. Dưới ảnh hưởng của steroid sinh dục, chúng phát triển với tốc độ chậm. Khi bị cắt nguồn cung cấp steroid, hầu hết các u xơ-cơ tử cung sẽ có chiều hướng thoái triển.
 
-Estrogen tác động thông qua thụ thể ER-α để tạo ra PR. PR đóng vai trò cốt lõi trong phát triển của u xơ-cơ tử cung. Progesterone là yếu tố thiết yếu cho phát triển của u xơ-cơ tử cung. Progesterone thúc đẩy phân bào nguyên nhiễm tại khối u, đồng thời đảm bảo thiết lập và duy trì thể khối của cấu trúc matrix ngoại bào. Khi vắng mặt thụ thể PR, 1 mình ER-α không đủ khả năng để gây ra sự phát triển của u xơ-cơ tử cung.
+Estrogen tác động thông qua thụ thể ER-α để tạo ra PR. PR đóng vai trò cốt lõi trong phát triển của u xơ-cơ tử cung. Progesterone là yếu tố thiết yếu cho phát triển của u xơ-cơ tử cung. Progesterone thúc đẩy phân bào nguyên nhiễm tại khối u, đồng thời đảm bảo thiết lập và duy trì thể khối của cấu trúc matrix ngoại bào. Khi vắng mặt thụ thể PR, ER-α không đủ khả năng để gây ra sự phát triển của u xơ-cơ tử cung.
 
 Các yếu tố tăng trưởng (growth factor) với hoạt tính thúc đẩy phân bào nguyên nhiễm như epidermal growth factor (EGF), và insulin-like growth factor-I (ILGF-1)... đều tăng trong u xơ-cơ tử cung.
 
@@ -87,7 +87,7 @@ Siêu âm đường âm đạo, siêu âm ngả bụng đánh giá tổng quát 
 Hình ảnh điển hình của u xơ-cơ tử cung trên siêu âm thang xám là ổ hồi âm kém hoặc không đồng nhất, có giảm âm phía sau, giới hạn rõ, phân biệt rõ với mô chung quanh.
 
 ![U xơ tử cung trên siêu âm](../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-tren-sieu-am.png)
-_U xơ-cơ tử cung thể hiện bằng hình ảnh 1 khối phản âm kém, có giới hạn rõ. Độ hồi âm độ không giống với độ hồi âm của tử cung, có bóng giảm âm phía sau._
+_U xơ-cơ tử cung thể hiện bằng hình ảnh khối phản âm kém, có giới hạn rõ. Độ hồi âm độ không giống với độ hồi âm của tử cung, có bóng giảm âm phía sau._
 
 Trong u xơ-cơ tử cung, chẩn đoán phân biệt khó khăn nhất về mặt hình ảnh học khi sử dụng siêu âm thang xám là với adenomyosis và với leiomyosarcoma. Cấu trúc âm của adenomyosis kém đồng nhất, giới hạn không rõ. Do cấu trúc kém đồng nhất, nên vùng giảm âm phía sau có dạng sọc dưa. Leiomyosarcoma có các tính chất âm học hầu như không thể phân biệt với u xơ-cơ tử cung.
 
@@ -130,7 +130,7 @@ Khi có cấu trúc trong lòng tử cung trên SIS, cần phân biệt:
 1. Giữa u xơ-cơ tử cung FIGO 0 với polyps lòng tử cung.
 2. Giữa polyps chân rộng với u xơ-cơ tử cung FIGO 1.
 
-Đôi khi các u xơ-cơ dưới niêm mạc có cuống (FIGO 0) có thể bị nhầm với polyp nội mạc tử cung, và ngược lại polyp nội mạc tử cung chân rộng sẽ dễ lầm với u xơ-cơ. Do 2 bệnh lý này có ý nghĩa cũng như cách xử lý khác nhau nên cần phải nhờ vào Doppler để phân định. Trong u xơ-cơ dưới niêm mạc, Doppler cho thấy có hình ảnh tưới máu quanh u. Trong khi đó, do polyp nội mạc xuất phát hoàn toàn từ nội mạc, nên chỉ có 1 mạch máu duy nhất đi vào trung tâm của polyp.
+Đôi khi các u xơ-cơ dưới niêm mạc có cuống (FIGO 0) có thể bị nhầm với polyp nội mạc tử cung, và ngược lại polyp nội mạc tử cung chân rộng sẽ dễ lầm với u xơ-cơ. Do 2 bệnh lý này có ý nghĩa cũng như cách xử lý khác nhau nên cần phải nhờ vào Doppler để phân định. Trong u xơ-cơ dưới niêm mạc, Doppler cho thấy có hình ảnh tưới máu quanh u. Trong khi đó, do polyp nội mạc xuất phát hoàn toàn từ nội mạc, nên chỉ có mạch máu duy nhất đi vào trung tâm của polyp.
 
 ![Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler](../../../assets/phu-khoa/u-xo-tu-cung/phan-biet-polyp-va-u-xo-tu-cung-figo-1-bang-doppler.png)
 _1 mạch máu duy nhất đi thẳng từ nội mạc vào trung tâm của polyp._
@@ -165,7 +165,7 @@ Trường hợp u xơ không điển hình, không thể chẩn đoán xác đ�
 ![Hình ảnh MRI của adenomyosis và u xơ tử cung](../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-u-xo-tu-cung-tren-mri.png)
 _Trong adenomyosis, trên T2W, các ổ xuất huyết nhỏ thể hiện bằng các điểm tăng tín hiệu. Các u xơ-cơ tử cung có biểu hiện trên MRI như các vùng có tín hiệu kém._
 
-JZ dầy là đặc trưng của adenomyosis. Bình thường, độ dầy của JZ không vượt quá 40% độ dầy của thành tử cung. JZ dầy trên 40% là 1 dấu hiệu gợi ý của adenomyosis.
+JZ dầy là đặc trưng của adenomyosis. Bình thường, độ dầy của JZ không vượt quá 40% độ dầy của thành tử cung. JZ dầy trên 40% là dấu hiệu gợi ý của adenomyosis.
 
 ![JZ trong adenomyosis](../../../assets/phu-khoa/u-xo-tu-cung/jz-trong-adenomyosis.png)
 _JZ thể hiện trên T2W là vùng tín hiệu kém nằm giữa nội mạc ử cung chức năng có tín hiệu mạnh và cơ tử cung có tín hiệu yếu._
@@ -211,17 +211,17 @@ U xơ-cơ rất to chèn ép mạnh tĩnh mạch chủ dưới, gây ra phù và
 
 ### Thoái hóa và đau
 
-Đau trong u xơ-cơ tử cung trước tiên liên quan đến sự thoái hóa của u xơ-cơ tử cung. Đau cũng có thể do xoắn 1 u xơ-cơ tử cung có cuống. Đau của u xơ-cơ tử cung không đáp ứng với điều trị là 1 chỉ định của phẫu thuật cho u xơ-cơ tử cung.
+Đau trong u xơ-cơ tử cung trước tiên liên quan đến sự thoái hóa của u xơ-cơ tử cung. Đau cũng có thể do xoắn u xơ-cơ tử cung có cuống. Đau của u xơ-cơ tử cung không đáp ứng với điều trị là chỉ định của phẫu thuật cho u xơ-cơ tử cung.
 
 Thoái hóa của u xơ-cơ có thể do u xơ-cơ phát triển nhanh và không được cấp máu đầy đủ. Đau vùng hạ vị, kèm sốt nhẹ, tăng bạch cầu, đau tử cung khi chạm, và có thể có dấu hiệu cảm ứng phúc mạc. Các triệu chứng này đáp ứng tốt với các thuốc giảm đau không steroid (NSAIDs), và thường tự giới hạn. Chẩn đoán thoái hóa có thể được xác lập nhờ vào MRI.
 
-Đau bụng cấp và đột ngột có thể do xoắn 1 u xơ-cơ tử cung có cuống.
+Đau bụng cấp và đột ngột có thể do xoắn u xơ-cơ tử cung có cuống.
 
-Mặc dù thống kinh không phải là hiếm gặp trên phụ nữ có u xơ-cơ tử cung, nhưng thống kinh trên 1 tử cung to có thể có nguyên nhân là adenomyosis. Adenomyosis là chẩn đoán phân biệt quan trọng nhất của thống kinh trên bệnh nhân có u xơ-cơ tử cung.
+Mặc dù thống kinh không phải là hiếm gặp trên phụ nữ có u xơ-cơ tử cung, nhưng thống kinh trên tử cung to có thể có nguyên nhân là adenomyosis. Adenomyosis là chẩn đoán phân biệt quan trọng nhất của thống kinh trên bệnh nhân có u xơ-cơ tử cung.
 
-Đau của u xơ-cơ tử cung không đáp ứng với điều trị là 1 chỉ định của phẫu thuật cho u xơ-cơ tử cung. Trước khi có chỉ định phẫu thuật, buộc phải loại trừ nguyên nhân của đau là do các bệnh lý khác gồm adenomyosis, lạc nội mạc tử cung thâm nhiễm sâu (deeply infiltrating endometriosis) (DIE), sỏi tiết niệu hoặc các bệnh lý ngoại khoa khác.
+Đau của u xơ-cơ tử cung không đáp ứng với điều trị là chỉ định của phẫu thuật cho u xơ-cơ tử cung. Trước khi có chỉ định phẫu thuật, buộc phải loại trừ nguyên nhân của đau là do các bệnh lý khác gồm adenomyosis, lạc nội mạc tử cung thâm nhiễm sâu (deeply infiltrating endometriosis) (DIE), sỏi tiết niệu hoặc các bệnh lý ngoại khoa khác.
 
-U xơ-cơ tử cung có gây giao hợp đau hay không vẫn là điều còn tranh cãi. 1 điều chắc chắn rằng gần 1/2 số phụ nữ biết có u xơ-cơ tử cung than phiền về chất lượng của cuộc sống tình
+U xơ-cơ tử cung có gây giao hợp đau hay không vẫn là điều còn tranh cãi. Điều chắc chắn rằng gần 1/2 số phụ nữ biết có u xơ-cơ tử cung than phiền về chất lượng của cuộc sống tình
 dục. Kích thước, số lượng của u xơ-cơ tử cung có vẻ không ảnh hưởng đến xuất độ và cường độ của giao hợp đau. Tuy nhiên, trong số những phụ nữ có u xơ-cơ tử cung và đồng thời có giao hợp đau thì u xơ-cơ tử cung ở mặt trước và ở đáy tử cung liên quan đến đau khi giao hợp nhiều hơn so với u xơ-cơ tử cung ở các vị trí khác.
 
 ### Hiếm muộn
@@ -268,7 +268,7 @@ Tác dụng phụ thống kinh, nôn ói, buồn nôn.
 
 Trong pha noãn, estrogen có tác dụng điều hòa lên (upregulation) trên cả thụ thể estrogen (ER) lẫn thụ thể progesterone (PR). Điều này dẫn đến hệ quả là thúc đẩy phân chia nguyên nhiễm của các tế bào nhạy cảm với steroid sinh dục trong pha hoàng thể. Trên cơ sở đó, tất cả mọi liệu pháp nội tiết đều nhắm vào 2 steroids sinh dục này.
 
-Không có bằng chứng để nói rằng các thuốc tránh thai nội tiết estrogen-progestogen đường uống (COC) thúc đẩy u xơ-cơ tử cung phát triển thêm. Hiện diện của u xơ-cơ tử cung không phải là chống chỉ định của COC. Hơn nữa, COC có thể tạm thời giúp làm giảm lượng máu hành kinh, với 1 điều trị ngắn hạn, và có thể trì hoãn sự phát triển của u xơ-cơ tử cung nhờ vào sự có mặt của progestin trong công thức.
+Không có bằng chứng để nói rằng các thuốc tránh thai nội tiết estrogen-progestogen đường uống (COC) thúc đẩy u xơ-cơ tử cung phát triển thêm. Hiện diện của u xơ-cơ tử cung không phải là chống chỉ định của COC. Hơn nữa, COC có thể tạm thời giúp làm giảm lượng máu hành kinh, với điều trị ngắn hạn, và có thể trì hoãn sự phát triển của u xơ-cơ tử cung nhờ vào sự có mặt của progestin trong công thức.
 
 Chỉ định điều trị xuất huyết tử cung nặng liên quan đến u xơ tử cung.
 
@@ -312,7 +312,7 @@ Các chế phẩm đồng vận của GnRH hiện có gồm xịt mũi, tiêm d�
 
 Đối vận của GnRH đường tiêm cũng gây tình trạng thiếu hụt estrogen, nhưng với thời gian bắt đầu có hiệu quả nhanh hơn.
 
-Đối vận của Gonadotropin-Releasing Hormone (GnRH antagonist) tác dụng bằng cách cạnh tranh với GnRH trên thụ thể của nó tại tuyến yên. Sự cạnh tranh này làm cho thụ thể không còn tiếp nhận GnRH hạ đồi. Hệ quả là 1 tình trạng tê liệt trong phóng thích cả 2 loại gonadotropin tuyến yên (FSH và LH). Không có FSH, buồng trứng không thể sản xuất được estrogen từ các noãn nang.
+Đối vận của Gonadotropin-Releasing Hormone (GnRH antagonist) tác dụng bằng cách cạnh tranh với GnRH trên thụ thể của nó tại tuyến yên. Sự cạnh tranh này làm cho thụ thể không còn tiếp nhận GnRH hạ đồi. Hệ quả là tình trạng tê liệt trong phóng thích cả 2 loại gonadotropin tuyến yên (FSH và LH). Không có FSH, buồng trứng không thể sản xuất được estrogen từ các noãn nang.
 
 Ưu điểm quan trọng nhất của điều trị u xơ-cơ tử cung với GnRH anta đường tiêm cổ điển là tránh được hiệu ứng dội flare-up (GnRHa gây đáp ứng tăng tiết FSH và LH ngay sau tiêm các liều đầu, trước khi làm cho các thụ thể của nó ở tế bào tuyến yên rơi vào tình trạng nội hóa. Tiến trình giải mẫn cảm tuyến yên bằng GnRHa chỉ có thể hoàn tất sau khoảng 10-14 ngày GnRHa) xảy ra khi bắt đầu GnRH a. Do tránh được thời gian hiệu ứng dội, về mặt lý thuyết, điều trị bằng GnRH anta sẽ bắt đầu có tác dụng sớm hơn nếu so với GnRHa. Ngoài khác biệt về thời điểm bắt đầu có hiệu quả, mọi vấn đề khác liên quan đến việc điều trị u xơ-cơ tử cung bằng GnRH anta đường tiêm cổ điển không khác biệt so với điều trị bằng GnRHa.
 
@@ -320,7 +320,7 @@ Khác biệt quan trọng nhất giữa GnRH đồng vận và đối vận là 
 
 ### Triệt tiêu Estrogen bằng chất ức chế Aromatase
 
-Aromatase P450 là 1 enzyme quan trọng trong chu trình sinh tổng hợp steroid tại nang noãn. Dưới tác dụng của FSH, tại tế bào hạt, aromatase P450 xúc tiến quá trình thơm hóa dihydroepiandrostenedione (đến từ tế bào vỏ ở lớp ngoài nang noãn) thành estrone. Estrone sau đó sẽ được chuyển đổi thuận nghịch thành estradiol, 1 estrogen chủ lực.
+Aromatase P450 là enzyme quan trọng trong chu trình sinh tổng hợp steroid tại nang noãn. Dưới tác dụng của FSH, tại tế bào hạt, aromatase P450 xúc tiến quá trình thơm hóa dihydroepiandrostenedione (đến từ tế bào vỏ ở lớp ngoài nang noãn) thành estrone. Estrone sau đó sẽ được chuyển đổi thuận nghịch thành estradiol, estrogen chủ lực.
 
 Buồng trứng là nguồn cung cấp chủ yếu estrogen. Ức chế hoạt động chuyển đổi tổng hợp estrogen tại buồng trứng sẽ làm cho estrogen lưu hành gần như bị triệt tiêu. Nghiên cứu trên chính các tế bào cơ trơn tử cung còn cho thấy rằng tự thân các tế bào cơ trơn cũng sản xuất estrogen thông qua hoạt động của aromatase P450 để đảm cho sự tăng trưởng của chúng.
 
@@ -336,7 +336,7 @@ Khối u xơ-cơ tử cung tăng trưởng nhiều nhất trong giai đoạn ph�
 
 Các chất điều hòa thụ thể progesterone (SPRMs) có khả năng gắn kết rất mạnh trên PR và có thể mang lại các tác dụng đồng vận, đối kháng, hay hỗn hợp trên các mô đích khác nhau của progesterone.
 
-SPRMs được nghiên cứu rất nhiều cho điều trị u xơ-cơ tử cung là Mifepristone và Ulipristal acetate (UPA). Mifepristone hầu như sở hữu đơn thuần hoạt tính kháng progesterone, thì trái lại các SPRMs khác như UPA lại sở hữu 1 hoạt tính hỗn hợp giữa đồng vận và đối kháng với progesterone.
+SPRMs được nghiên cứu rất nhiều cho điều trị u xơ-cơ tử cung là Mifepristone và Ulipristal acetate (UPA). Mifepristone hầu như sở hữu đơn thuần hoạt tính kháng progesterone, thì trái lại các SPRMs khác như UPA lại sở hữu hoạt tính hỗn hợp giữa đồng vận và đối kháng với progesterone.
 
 #### Ulipristal acetate (UPA)
 
@@ -358,7 +358,7 @@ Chổng chỉ định khi có thai, xuất huyết âm đạo bất thường ch
 
 UPA cũng có thể gây ra các biến đổi trên nội mạc tử cung làm cho các nhà giải phẫu bệnh học nhầm lẫn với tăng sinh không điển hình tuyến nội mạc tử cung. Các biến đổi này có thể hồi phục hoàn toàn sau liệu trình.
 
-So với GnRHa, liệu pháp với UPA ít tác dụng phụ hơn như đau đầu, căng ngực, đau bụng, dày nội mạc tử cung, bốc hỏa,... và mang lại 1 hiệu quả kéo dài hơn.
+So với GnRHa, liệu pháp với UPA ít tác dụng phụ hơn như đau đầu, căng ngực, đau bụng, dày nội mạc tử cung, bốc hỏa,... và mang lại hiệu quả kéo dài hơn.
 
 ![So sánh UPA và GnRHa](../../../assets/phu-khoa/u-xo-tu-cung/so-sanh-upa-va-gnrha.png)
 
@@ -376,13 +376,13 @@ Nội mạc tử cung dày liên quan đến UPA được ghi nhận có thể d
 
 #### Mifepristone
 
-Mifepristone là 1 SPRM có tác dụng đơn thuần đối vận với progesterone. Mifepristone làm giảm số lượng PR tại mô cơ trơn tử cung và u xơ-cơ tử cung. Cơ chế chính xác vì sao mifepristone làm giảm thể khối của u xơ-cơ tử cung vẫn còn chưa sáng tỏ.
+Mifepristone là SPRM có tác dụng đơn thuần đối vận với progesterone. Mifepristone làm giảm số lượng PR tại mô cơ trơn tử cung và u xơ-cơ tử cung. Cơ chế chính xác vì sao mifepristone làm giảm thể khối của u xơ-cơ tử cung vẫn còn chưa sáng tỏ.
 
 Khuyến cáo khi u xơ tử cung có xuất huyết tử cung bất thường, trần nặng hạ vị, thiếu máu và thống kinh.
 
 Chống chỉ định sử dụng trong thai kỳ và người đang điều trị steroids trong 3 tháng trước đó.
 
-Phân tích gộp (2013) trên 11 RCT cho phép khuyến nghị 1 liệu trình từ 3 đến 6 tháng với liều dùng hàng ngày 2.5 mg mifepristone.
+Phân tích gộp (2013) trên 11 RCT cho phép khuyến nghị liệu trình từ 3 đến 6 tháng với liều dùng hàng ngày 2.5 mg mifepristone.
 
 Có nhận định cho rằng mifepristone có thể gây tăng sinh không điển hình của tuyến nội mạc tử cung (atypical endometrial hyperplasia). Tuy nhiên, các biến đổi này có thể hồi phục hoàn toàn sau liệu trình.
 
@@ -394,7 +394,7 @@ Mifepristone không được đăng ký chính thức điều trị u xơ.
 
 #### Danazol
 
-Danazol là 1 androgen, dẫn xuất của 17-α ethinyl testosterone. Danazol cạnh tranh với các steroid sinh dục và không sinh dục trên các thụ thể của chúng ở các mức độ khác nhau thuộc trục.
+Danazol là androgen, dẫn xuất của 17-α ethinyl testosterone. Danazol cạnh tranh với các steroid sinh dục và không sinh dục trên các thụ thể của chúng ở các mức độ khác nhau thuộc trục.
 
 Tương tự như COC, danazol làm giảm sản xuất estrogen từ buồng trứng bằng cách làm giảm gonadotropin tuyến yên. Danazol có thể làm giảm thể khối u đến 20-25%. Tác dụng dài hạn của danazol cũng chỉ ở mức trung bình, và không vượt trội hơn so với các điều trị khác. Tuy nhiên, vấn đề quan trọng nhất của danazol là tác dụng phụ. Tác dụng nam hóa của danazol là rất nhiều, trong đó có khàn giọng không hồi phục.
 
@@ -513,19 +513,19 @@ Quyết định can thiệp tùy theo vị trí, kích thước và qus trình �
 
 ### Sarcoma cơ trơn thân tử cung (leiomyosarcomas)
 
-Sarcoma cơ trơn thân tử cung là 1 tình trạng hiếm gặp.
+Sarcoma cơ trơn thân tử cung là tình trạng hiếm gặp.
 
-Thử thách nan giải nhất là thực tế về việc không thể phân định rạch ròi và đáng tin cậy 1 u xơ-cơ tử cung với sarcoma cơ trơn thân tử cung bởi bất cứ kỹ thuật hình ảnh nào.
+Thử thách nan giải nhất là thực tế về việc không thể phân định rạch ròi và đáng tin cậy u xơ-cơ tử cung với sarcoma cơ trơn thân tử cung bởi bất cứ kỹ thuật hình ảnh nào.
 
-Hơn nữa, cho đến nay, người ta vẫn không thể biết được là liệu sarcoma thân tử cung là 1 bệnh lý phát triển từ 1 u xơ-cơ tử cung hay là 1 bệnh lý độc lập.
+Hơn nữa, cho đến nay, người ta vẫn không thể biết được là liệu sarcoma thân tử cung là bệnh lý phát triển từ u xơ-cơ tử cung hay là bệnh lý độc lập.
 
-Khối u xơ-cơ tử cung đã biết từ trước đột ngột phát triển gia tăng kích thước trên người phụ nữ đã mãn kinh, hay u mới xuất hiện khi đã mãn kinh là 1 chỉ báo rất mạnh của ác tính.
+Khối u xơ-cơ tử cung đã biết từ trước đột ngột phát triển gia tăng kích thước trên người phụ nữ đã mãn kinh, hay u mới xuất hiện khi đã mãn kinh là chỉ báo rất mạnh của ác tính.
 
 ### Các u cơ trơn với khuynh hướng ác tính không xác định (smooth muscle tumours of uncertain malignant potential - STUMP)
 
-Các u cơ trơn với khuynh hướng ác tính không xác định (STUMP) là 1 khái niệm được Tổ chức Y tế Thế giới đưa vào hệ thống phân loại vào năm 2003.
+Các u cơ trơn với khuynh hướng ác tính không xác định (STUMP) là khái niệm được Tổ chức Y tế Thế giới đưa vào hệ thống phân loại vào năm 2003.
 
-Khái niệm này thể hiện, về mặt hình thái mô-bệnh học, 1 phổ các khối u cơ trơn tử cung nằm giữa các tiêu chuẩn của u xơ-cơ tử cung lành tính có tiên lượng tốt và các sarcoma cơ trơn thân tử cung có tiên lượng xấu.
+Khái niệm này thể hiện, về mặt hình thái mô-bệnh học, phổ các khối u cơ trơn tử cung nằm giữa các tiêu chuẩn của u xơ-cơ tử cung lành tính có tiên lượng tốt và các sarcoma cơ trơn thân tử cung có tiên lượng xấu.
 
 ## Nguồn tham khảo
 

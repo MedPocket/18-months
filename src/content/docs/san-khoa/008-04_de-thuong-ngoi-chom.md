@@ -3,7 +3,7 @@ title: Đẻ thường ngôi chỏm
 description: Đẻ thường ngôi chỏm.
 ---
 
-Ngôi chỏm là 1 ngôi mà trong phần lớn các trường hợp sẽ sinh được qua đường âm đạo.
+Ngôi chỏm là ngôi mà trong phần lớn các trường hợp sẽ sinh được qua đường âm đạo.
 
 ## Cơ chế đẻ thường ngôi chỏm
 
@@ -74,8 +74,8 @@ Sau khi đầu sổ hoàn toàn, để đầu tự xoay ngoài về vị trí ng
 Phần còn lại của thai và mông sẽ dễ dàng. Bàn tay trái đỡ cổ thai nhi, bàn tay phải vuốt dọc lưng thai
 nhi tới chân, nắm 2 chân bằng cách cầm 2 bàn chân bằng 3 ngón cái, trỏ và giữa bàn tay phải. Sau sổ thai, cần giữ đầu thai nhi thấp hơn bàn sinh.
 
-Thủ thuật cắt tầng sinh môn là cần thiết nhưng không phải là 1 can thiệp thường quy. Trong khi đỡ sinh, sau khi đã giúp cho đầu cúi tối đa, hạ chẩm đã ra đến bờ dưới khớp vệ, có thể bắt đầu cho đầu thai ngửa dần làm thoát âm các phần của đầu thai với đường kính ngày càng lớn đi qua tầng sinh môn. Nên cắt tầng sinh môn khi quá căng để mở rộng chủ động ở lối ra của đường sinh, nhằm tránh các tổn thương không kiểm soát được.
-Việc cắt tầng sinh môn không phải luôn luôn cần thiết. 1 số tình huống mà trong đó việc cắt tầng sinh môn sẽ có lợi như sinh con to, sinh thủ thuật. Con so không phải là 1 tình huống mà trong đó việc cắt tầng môn được thực hiện thường quy.
+Thủ thuật cắt tầng sinh môn là cần thiết nhưng không phải là can thiệp thường quy. Trong khi đỡ sinh, sau khi đã giúp cho đầu cúi tối đa, hạ chẩm đã ra đến bờ dưới khớp vệ, có thể bắt đầu cho đầu thai ngửa dần làm thoát âm các phần của đầu thai với đường kính ngày càng lớn đi qua tầng sinh môn. Nên cắt tầng sinh môn khi quá căng để mở rộng chủ động ở lối ra của đường sinh, nhằm tránh các tổn thương không kiểm soát được.
+Việc cắt tầng sinh môn không phải luôn luôn cần thiết. 1 số tình huống mà trong đó việc cắt tầng sinh môn sẽ có lợi như sinh con to, sinh thủ thuật. Con so không phải là tình huống mà trong đó việc cắt tầng môn được thực hiện thường quy.
 
 :::caution[Lưu ý]
 Cắt tầng sinh môn không giúp rút ngắn giai đoạn rặn sổ thai, không làm cho sản phụ sinh nhanh hơn.

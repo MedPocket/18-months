@@ -171,7 +171,7 @@ Tổn thương trong biểu mô gai mức độ cao (HSIL):
 _Các khuyến cáo dựa theo: American Cancer Society, The American Society for Colposcopy and Cervical Pathology, và The American Society for Clinical Pathology. A: khuyến cáo mạnh, chứng cứ rõ ràng, hằng định. B: khuyến cáo trung bình, chứng cứ không hằng định. C: theo kinh nghiệm._
 
 ![ASC-US](../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/asc-us.png)
-_ASC-US - Tế bào biểu mô gai kém trưởng thành hơn bình thường, với nhân to trong các tế bào hồng rộng. Nhiều tế bào trong số này có nhân đôi bất thường. Các nhân rộng với bờ kém rõ. ASC-US đòi hỏi phải có quản lý riêng, như là 1 tổn thương có tiềm năng chuyển biến thành ung thư._
+_ASC-US - Tế bào biểu mô gai kém trưởng thành hơn bình thường, với nhân to trong các tế bào hồng rộng. Nhiều tế bào trong số này có nhân đôi bất thường. Các nhân rộng với bờ kém rõ. ASC-US đòi hỏi phải có quản lý riêng, như ltổn thương có tiềm năng chuyển biến thành ung thư._
 
 ![LSIL](../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/lsil.png)
 _LSIL - Các tế bào với nhân rộng gấp 5 lần so với nhân bình thường của các tế bào trung gian. Hầu hết các LSIL có liên quan đến HPV._
@@ -184,7 +184,7 @@ _Carcinoma in situ - Các tế bào bất thường sát nhập lại tạo thà
 
 ## Soi cổ tử cung
 
-Soi cổ tử cung là kỹ thuật thực hiện quan sát cổ tử cung dưới 1 hệ thống phóng đại quang học (máy soi cổ tử cung), nhằm đánh giá các tổn thương ở cổ tử cung về kích thước, vị trí, đặc điểm, đồng thời hướng dẫn sinh thiết cổ tử cung và/hoặc nạo kênh cổ tử cung (endocervical curettage) (ECC) để thiết lập chẩn đoán xác định tổn thương cổ tử cung ở mức độ mô học.
+Soi cổ tử cung là kỹ thuật thực hiện quan sát cổ tử cung dưới hệ thống phóng đại quang học (máy soi cổ tử cung), nhằm đánh giá các tổn thương ở cổ tử cung về kích thước, vị trí, đặc điểm, đồng thời hướng dẫn sinh thiết cổ tử cung và/hoặc nạo kênh cổ tử cung (endocervical curettage) (ECC) để thiết lập chẩn đoán xác định tổn thương cổ tử cung ở mức độ mô học.
 
 ### Điều kiện và dụng cụ
 

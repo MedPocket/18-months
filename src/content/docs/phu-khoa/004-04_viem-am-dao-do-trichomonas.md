@@ -23,12 +23,12 @@ Cận lâm sàng soi tươi trùng roi di động và nhiều bạch cầu.
 
 ## Điều trị
 
-Metronidazole/Secnidazole/Tinidazole 2g uống 1 liều duy nhất, hoặc
+Metronidazole/Secnidazole/Tinidazole 2g uống liều duy nhất, hoặc
 
 Metronidazole 500mg x 2 lần/ngày x 7 ngày (uống trong bữa ăn)
 
 :::caution[Lưu ý]
-Luôn điều trị cho bạn tình Metronidazole 2g uống 1 liều duy nhất.
+Luôn điều trị cho bạn tình Metronidazole 2g uống liều duy nhất.
 
 Metronidazole không dùng trong 3 tháng đầu thai kỳ.
 :::

@@ -45,13 +45,13 @@ Tùy theo khả năng sinh ung mà các Human Papilloma Virus được chia làm
 
 Nhiễm HPV genotype nguy cơ cao sinh ung thư là điều kiện cần nhưng không phải điều kiện đủ để phát triển thành ung thư cổ tử cung. HPV type 16 có khả năng gây ung thư cao nhất, chịu trách nhiệm trong khoảng 55-60% tất cả những ca ung thư cổ tử cung trên toàn thế giới. HPV type 18 là genotype sinh ung thư cao thứ nhì, chiếm 10-15% ung thư cổ tử cung. Khoảng 12 genotype khác có nguy cơ cao gây ung thư cổ tử cung.
 
-Genotype của HPV và đáp ứng miễn dịch để thanh thải HPV đóng vai trò quan trọng trong bệnh sinh của ung thư cổ tử cung sau khi nhiễm HPV. Hầu hết các trường hợp nhiễm HPV thoáng qua và ít nguy cơ tiến triển tiếp tục thành ung thư. Chỉ 1 số ít nhiễm HPV kéo dài, từ 1 đến 2 năm sau lần nhiễm đầu tiên, mới dẫn đến tăng nguy cơ phát triển thành tân sinh trong biểu mô cổ tử cung hoặc ung thư cổ tử cung sau này, bất kể tuổi của người phụ nữ. Các yếu tố thuận lợi khác được biết đến là hút thuốc lá, suy giảm miễn dịch, và nhiễm virus HIV. Chúng có điểm chung là làm suy yếu khả năng thanh thải HPV.
+Genotype của HPV và đáp ứng miễn dịch để thanh thải HPV đóng vai trò quan trọng trong bệnh sinh của ung thư cổ tử cung sau khi nhiễm HPV. Hầu hết các trường hợp nhiễm HPV thoáng qua và ít nguy cơ tiến triển tiếp tục thành ung thư. Chỉ số ít nhiễm HPV kéo dài, từ 1 đến 2 năm sau lần nhiễm đầu tiên, mới dẫn đến tăng nguy cơ phát triển thành tân sinh trong biểu mô cổ tử cung hoặc ung thư cổ tử cung sau này, bất kể tuổi của người phụ nữ. Các yếu tố thuận lợi khác được biết đến là hút thuốc lá, suy giảm miễn dịch, và nhiễm virus HIV. Chúng có điểm chung là làm suy yếu khả năng thanh thải HPV.
 
 Nhiễm HPV thường gặp nhất ở trẻ gái tuổi vị thành niên và phụ nữ ở tuổi 20. Tỷ lệ mắc giảm dần theo tuổi. Tuy nhiên, hầu hết các phụ nữ trẻ, đặc biệt là trước 21 tuổi, có đáp ứng miễn dịch mạnh mẽ. Các đối tượng này có khả năng thanh thải HPV trong thời gian khoảng 8 tháng, ở khoảng 85-90% trong số họ, tải lượng virus có thể đạt đến mức không còn phát hiện được sau 8-24 tháng. Cùng với việc giải quyết thải HPV, hầu hết tân sinh cổ tử cung cũng được thoái triển tự nhiên ở nhóm dân số này. Tiến trình nhiễm tự nhiên HPV không thay đổi ở nhóm dân số từ 30-65 tuổi, do nhiễm HPV ở phụ nữ trên 30 tuổi thường tồn tại lâu, nên cùng với độ tuổi, tỷ lệ HSIL sẽ cao hơn.
 
-Các trường hợp nhiễm HPV cấp thường biểu hiện bằng tân sinh trong biểu mô mức độ thấp (CIN 1). Trong giai đoạn này, không có sự tích hợp gene của virus vào genome của tế bào. Virus có khả năng bị thanh thải. CIN 1 có 1 tỷ lệ cao sẽ thoái triển trở về bình thường. Vì thế, với CIN 1, các khuyến cáo thường đề nghị tiếp tục theo dõi hơn là can thiệp điều trị. Trong CIN 2, bắt đầu có hiện tượng tích hợp của virus vào genome của tế bào. Tiên lượng CIN 2 là sự hỗn hợp giữa tổn thương mức độ thấp và tổn thương mức độ cao, không dễ dàng phân biệt được bằng mô học. Trong CIN 3, vốn gene của virus đã hoàn thành việc tích hợp vào genome của tế bào. Vì thế, khả năng thoái triển trở về các độ tổn thương thấp hơn là rất thấp. Nguy cơ diễn tiến thành ung thư cổ tử cung là rất có ý nghĩa ở nhóm CIN 3. Theo 1 nghiên cứu đoàn hệ, đối với bệnh nhân bị CIN 3, nguy cơ diễn tiến thành ung thư xâm lấn cộng dồn sau 30 năm là 30.1%.
+Các trường hợp nhiễm HPV cấp thường biểu hiện bằng tân sinh trong biểu mô mức độ thấp (CIN 1). Trong giai đoạn này, không có sự tích hợp gene của virus vào genome của tế bào. Virus có khả năng bị thanh thải. CIN 1 có tỷ lệ cao sẽ thoái triển trở về bình thường. Vì thế, với CIN 1, các khuyến cáo thường đề nghị tiếp tục theo dõi hơn là can thiệp điều trị. Trong CIN 2, bắt đầu có hiện tượng tích hợp của virus vào genome của tế bào. Tiên lượng CIN 2 là sự hỗn hợp giữa tổn thương mức độ thấp và tổn thương mức độ cao, không dễ dàng phân biệt được bằng mô học. Trong CIN 3, vốn gene của virus đã hoàn thành việc tích hợp vào genome của tế bào. Vì thế, khả năng thoái triển trở về các độ tổn thương thấp hơn là rất thấp. Nguy cơ diễn tiến thành ung thư cổ tử cung là rất có ý nghĩa ở nhóm CIN 3. Theo 1 nghiên cứu đoàn hệ, đối với bệnh nhân bị CIN 3, nguy cơ diễn tiến thành ung thư xâm lấn cộng dồn sau 30 năm là 30.1%.
 
-Có thể xem CIN 1 được xem là biểu hiện cấp tính của nhiễm HPV thoáng qua. Phần lớn CIN 1 có thể tự thoái triển. Chỉ khoảng 10% CIN 1 tiến triển thành CIN 2 và CIN 3 sau 2 năm. CIN 3 được coi là 1 tổn thương tiền ung thư thực sự việc phát triển thành tổn thương mức độ cao phụ thuộc vào type HPV. Type 16 gây CIN 2, 3 ở độ tuổi sớm hơn so với các type HPV gây ung thư khác. Việc định type HPV có vai trò quan trọng trong việc tiên liệu 1 tổn thương sẽ thoái triển hay tiến triển.
+Có thể xem CIN 1 được xem là biểu hiện cấp tính của nhiễm HPV thoáng qua. Phần lớn CIN 1 có thể tự thoái triển. Chỉ khoảng 10% CIN 1 tiến triển thành CIN 2 và CIN 3 sau 2 năm. CIN 3 được coi là tổn thương tiền ung thư thực sự việc phát triển thành tổn thương mức độ cao phụ thuộc vào type HPV. Type 16 gây CIN 2, 3 ở độ tuổi sớm hơn so với các type HPV gây ung thư khác. Việc định type HPV có vai trò quan trọng trong việc tiên liệu tổn thương sẽ thoái triển hay tiến triển.
 
 ![Luận điểm hiện đại về tiến triển không theo trình tự cổ điển](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/luan-diem-hien-dai-ve-tien-trien-tu-nhien-bieu-mo-co-tu-cung.png)
 _Mọi trường hợp nhiễm HPV đều có thể thoái triển hay tiến triển. Sự tiến triển có thể là trực tiếp mà không thông qua các mức độ trung gian. Vì thế, chiến lược quản lý tổn thương trong biểu mô cổ tử cung phải tập trung vào các đặc điểm sinh học hơn là chỉ tập trung vào phân loại tổn thương._
@@ -60,15 +60,15 @@ _Mọi trường hợp nhiễm HPV đều có thể thoái triển hay tiến tr
 
 ### Quá trình dị sản
 
-Chuyển sản (metaplasia) được định nghĩa là 1 sự chuyển đổi từ 1 dạng tế bào đã trưởng thành thành các dạng tế bào trưởng thành khác nhau. Tại cổ tử cung, chuyển sản lát thay thế biểu mô tuyến của lộ tuyến cổ tử cung bằng biểu mô lát tầng không sừng hóa. Hiểu hơn về quá trình này có thể tham khảo [Viêm lộ tuyến cổ tử cung](/phu-khoa/005-01_viem-lo-tuyen-co-tu-cung/).
+Chuyển sản (metaplasia) được định nghĩa là sự chuyển đổi từ dạng tế bào đã trưởng thành thành các dạng tế bào trưởng thành khác nhau. Tại cổ tử cung, chuyển sản lát thay thế biểu mô tuyến của lộ tuyến cổ tử cung bằng biểu mô lát tầng không sừng hóa. Hiểu hơn về quá trình này có thể tham khảo [Viêm lộ tuyến cổ tử cung](/phu-khoa/005-01_viem-lo-tuyen-co-tu-cung/).
 
 Dị sản là kết quả của tác động bên ngoài vào các tế bào non nớt của quá trình chuyển sản sinh lý, chẳng hạn hóa chất, tia xạ, virus (đặc biệt là HPV) sẽ gây ra dị sản (dysplasia) tức tân sinh trong biểu mô cổ tử cung (CIN).
 
 HPV ức chế các hoạt động apoptosis của tế bào chuyển sản và can thiệp trên điều hòa tăng trưởng của các tế bào này. Như vậy, HPV là điều cần để gây dị sản và ung thư. HPV xâm nhập thành công vào tế bào chủ sẽ giải mã các đoạn gene E6 và E7. E6 của HPV sẽ bất hoạt p53, còn E7 của HPV sẽ bất hoạt pRb.
 
-- p53 là 1 protein có tính năng ngăn chặn ung thư của tế bào. p53 hoạt động bằng cơ chế ức chế hiện tượng kích hoạt DNA, giữ cho tế bào ở G1-G2, và đảm nhận nhiệm vụ điều hòa cái chết chương trình của tế bào (apoptosis). E6 của HPV sẽ kết hợp với p53 và gây ra thoái giáng của p53. Tế bào mất khả năng ức chế phát triển, không còn tuân theo cái chết chương
+- p53 là protein có tính năng ngăn chặn ung thư của tế bào. p53 hoạt động bằng cơ chế ức chế hiện tượng kích hoạt DNA, giữ cho tế bào ở G1-G2, và đảm nhận nhiệm vụ điều hòa cái chết chương trình của tế bào (apoptosis). E6 của HPV sẽ kết hợp với p53 và gây ra thoái giáng của p53. Tế bào mất khả năng ức chế phát triển, không còn tuân theo cái chết chương
   trình và trở thành tế bào bất tử.
-- Protein Rb là 1 protein ức chế sinh ung. Ở tế bào lành mạnh, pRb gắn với yếu tố giải mã E2F1 và ngăn không cho yếu tố này tương tác với hệ thống sao mã tế bào. Khi vắng mặt pRb, E2F1 kích hoạt E2F1 gene và chuyển đổi tế bào từ G1 thành S. E7 của HPV sẽ gắn với pRb và làm bất hoạt pRb, giải phóng E2F1 và biến tế bào thành tế bào bị kích hoạt.
+- Protein Rb là protein ức chế sinh ung. Ở tế bào lành mạnh, pRb gắn với yếu tố giải mã E2F1 và ngăn không cho yếu tố này tương tác với hệ thống sao mã tế bào. Khi vắng mặt pRb, E2F1 kích hoạt E2F1 gene và chuyển đổi tế bào từ G1 thành S. E7 của HPV sẽ gắn với pRb và làm bất hoạt pRb, giải phóng E2F1 và biến tế bào thành tế bào bị kích hoạt.
 
 Các tế bào thoát khỏi apoptosis (do E6) và bị kích hoạt tăng trưởng không kiểm soát (do E7) sẽ trở thành tế bào dị sản ở các mức độ khác nhau, tùy theo mức độ bị chi phối.
 
@@ -78,7 +78,7 @@ _E6 và E7 trong cơ chế sinh ung của HPV type 16.<br>Các tế bào thoát 
 Tuy là điều kiện cần, nhưng nếu chỉ có nhiễm HPV thì chưa phải là điều kiện đủ để gây dị sản và ung thư. Các đáp ứng miễn dịch, đặc biệt là miễn dịch thích nghi qua tế bào (CMI) có vai trò quan trọng trong việc điều chỉnh tải lượng HPV và có thể làm đảo ngược quá trình. Sự đảo ngược tiến trình dị sản có thể xảy ra trong 80% các trường hợp. Tuy nhiên, trong 1 số trường hợp khác, khoảng 10%, diễn tiến của tế bào dị sản là đi đến ung thư.
 
 ![Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3, cũng như chiều hướng tiến triển của chúng](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/su-khac-biet-ve-sinh-hoc-cin-1-2-3-va-chieu-huong-cua-chung.png)
-_Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3, cũng như chiều hướng tiến triển của chúng.<br>Sơ đồ về tiềm năng sinh học của các tế bào này căn cứ vào khả năng kết hợp của DNA virus vào tế bào chủ, khả năng tẩy sạch virus, khả năng điều hòa chu trình tế bào... cho thấy vì sao CIN 1 được xem như biểu hiện cấp tính của nhiễm HPV thoáng qua. Ngược lại, CIN 3 thường được coi là 1 tiền ung thư thực sự._
+_Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3, cũng như chiều hướng tiến triển của chúng.<br>Sơ đồ về tiềm năng sinh học của các tế bào này căn cứ vào khả năng kết hợp của DNA virus vào tế bào chủ, khả năng tẩy sạch virus, khả năng điều hòa chu trình tế bào... cho thấy vì sao CIN 1 được xem như biểu hiện cấp tính của nhiễm HPV thoáng qua. Ngược lại, CIN 3 thường được coi là tiền ung thư thực sự._
 
 ### Các yếu tố nguy cơ
 
@@ -127,7 +127,7 @@ Các bệnh nhân có kết quả tế bào học cổ tử cung là ASCUS nên 
 ![Quản lý ASC-US theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-asc-us-asccp-2012.png)
 _Quản lý ASC-US theo hướng dẫn của ASCCP 2012 ở dân số chung._
 
-Phụ nữ trẻ dưới 24 tuổi với ASC-US, cần có 1 quản lý riêng, do đối với trẻ vị thành niên, nguy cơ tiến triển thành ung thư xâm lấn gần như là 0% và tỷ lệ thanh thải virus HPV cao. Có thể thực hiện xét nghiệm tế bào học lại sau 1 năm:
+Phụ nữ trẻ dưới 24 tuổi với ASC-US, cần có quản lý riêng, do đối với trẻ vị thành niên, nguy cơ tiến triển thành ung thư xâm lấn gần như là 0% và tỷ lệ thanh thải virus HPV cao. Có thể thực hiện xét nghiệm tế bào học lại sau 1 năm:
 
 - Nếu kết quả tế bào học sau 1 năm là ASC-H, AGC, hoặc HSIL, thực hiện soi cổ tử cung.
 - Nếu kết quả tế bào học bình thường, thực hiện lại tế bào học sau 1 năm.
@@ -161,7 +161,7 @@ Thuật ngữ LSIL (Low-grade squamous intraepithelial lesions) thể hiện cá
 
 LSIL bao gồm các tổn thương dị sản mức độ nhẹ hoặc nghi ngờ tổn thương CIN 1 trên mô học hoặc nhiễm HPV type nguy cơ cao.
 
-Tế bào trong LSIL có nhân to hơn ≥ 3 lần so với nhân của tế bào trung gian bình thường. Tỷ lệ nhân:bào tương ≤ 1/3. Đa nhân không phải là dấu hiệu hiếm. Nhân đậm với phân bố nhiễm sắc chất đều. Ở các tổn thương LSIL, hoạt động của HPV còn rất rõ ràng. Có 1 sự liên quan mật thiết giữa tổn thương LSIL và kết quả HPV-DNA dương tính.
+Tế bào trong LSIL có nhân to hơn ≥ 3 lần so với nhân của tế bào trung gian bình thường. Tỷ lệ nhân:bào tương ≤ 1/3. Đa nhân không phải là dấu hiệu hiếm. Nhân đậm với phân bố nhiễm sắc chất đều. Ở các tổn thương LSIL, hoạt động của HPV còn rất rõ ràng. Có sự liên quan mật thiết giữa tổn thương LSIL và kết quả HPV-DNA dương tính.
 
 Về tiến triển của LSIL, các nghiên cứu cho thấy:
 
@@ -169,7 +169,7 @@ Về tiến triển của LSIL, các nghiên cứu cho thấy:
 - 20% tiến triển thành HSIL.
 - 0.15% tiến triển thành ung thư xâm lấn sau 24 tháng.
 
-Dù rằng nhiễm HPV cũng là 1 yếu tố ảnh hưởng đến thời gian thoái triển của LSIL, tuy nhiên do có hơn 90% tổn thương LSIL có HPV (+), nên việc dùng test HPV để phân tầng theo dõi đối với tổn thương LSIL là ít có giá trị.
+Dù rằng nhiễm HPV cũng là yếu tố ảnh hưởng đến thời gian thoái triển của LSIL, tuy nhiên do có hơn 90% tổn thương LSIL có HPV (+), nên việc dùng test HPV để phân tầng theo dõi đối với tổn thương LSIL là ít có giá trị.
 
 #### Quản lý LSIL
 
@@ -283,7 +283,7 @@ Các thương tổn trên soi cổ tử cung đối với AIS có thể rất nh
 
 Cắt tử cung được lựa chọn đối với bệnh nhân đủ con. Điều trị bảo tồn tử cung là lựa chọn có thể chấp nhận ở bệnh nhân còn mong con, với các điều kiện theo dõi nghiêm ngặt và dài hạn sau đó.
 
-Do các đặc điểm bệnh học trên: nằm sâu, đa ổ và không thể loại trừ hoàn toàn ung thư xâm lấn nên cắt tử cung toàn phần là 1 lựa chọn điều trị tốt nếu bệnh nhân đã đủ con. Đối với bệnh nhân còn mong con, điều trị bảo tồn là 1 lựa chọn có thể chấp nhận, tuy nhiên nguy cơ AIS còn tồn tại là 10% và có 1 nguy cơ nhỏ sẽ diễn tiến thành nguy cơ ung thư xâm lấn ngay cả khi bờ phẫu thuật âm tính. Cũng giống như bờ phẫu thuật, nạo kênh trong lúc thực hiện thủ thuật cắt bỏ mô bệnh ở cổ tử cung và test HPV sau điều trị có ý nghĩa trong tiên đoán khả năng tồn tại của AIS.
+Do các đặc điểm bệnh học trên: nằm sâu, đa ổ và không thể loại trừ hoàn toàn ung thư xâm lấn nên cắt tử cung toàn phần là lựa chọn điều trị tốt nếu bệnh nhân đã đủ con. Đối với bệnh nhân còn mong con, điều trị bảo tồn là lựa chọn có thể chấp nhận, tuy nhiên nguy cơ AIS còn tồn tại là 10% và có nguy cơ nhỏ sẽ diễn tiến thành nguy cơ ung thư xâm lấn ngay cả khi bờ phẫu thuật âm tính. Cũng giống như bờ phẫu thuật, nạo kênh trong lúc thực hiện thủ thuật cắt bỏ mô bệnh ở cổ tử cung và test HPV sau điều trị có ý nghĩa trong tiên đoán khả năng tồn tại của AIS.
 
 Đối với AIS, khoét chóp bằng dao lạnh được ưa dùng hơn LEEP vì cắt bằng dao lạnh có thể đánh giá tốt bờ phẫu thuật tốt, giúp cho việc lên kế hoạch điều trị tiếp theo. Nếu bờ phẫu thuật còn tế bào bất thường hoặc mô nạo kênh có CIN hoặc AIS, có thể cắt lại (ưu tiên) hoặc theo dõi đánh giá lại sau 6 tháng (chấp nhận).
 
@@ -321,20 +321,20 @@ _Áp lạnh cổ tử cung với đầu áp lạnh được nối với nguồn 
 
 Đốt laser (laser vaporization) là phương pháp dùng nhiệt năng của laser để phá hủy tế bào.
 
-Đây cũng là 1 phương pháp dễ thực hiện, có thể thực hiện cho bệnh nhân ngoại trú. Mức độ mô bị phá huỷ phụ thuộc vào nhiều yếu tố: cách cài đặt các mức năng lượng, kích thước của chùm tia laser và thời gian tiếp xúc mô.
+Đây cũng là phương pháp dễ thực hiện, có thể thực hiện cho bệnh nhân ngoại trú. Mức độ mô bị phá huỷ phụ thuộc vào nhiều yếu tố: cách cài đặt các mức năng lượng, kích thước của chùm tia laser và thời gian tiếp xúc mô.
 
 Ưu điểm của đốt laser là phá huỷ mô rất chính xác. Có thể lấy hết toàn bộ tổn thương với độ sâu phù hợp. Có thể điều trị các tổn thương tiền xâm lấn ở âm hộ-âm đạo hiện diện đồng thời. Bất lợi của phương pháp laser là chi phí cao, gây nhiều
 khó chịu cho bệnh nhân và nguy cơ chảy máu.
 
 ### Nạo kênh cổ tử cung
 
-Thủ thuật trong đó niêm mạc ống cổ tử cung được nạo bằng 1 dụng cụ hình thìa gọi là curette. Có thể thực hiện tại phòng khám và không cần gây mê. Có thể có 1 số ít trường hợp đau bụng có thắt và chảy máu sau khi làm thủ thuật.
+Thủ thuật trong đó niêm mạc ống cổ tử cung được nạo bằng dụng cụ hình thìa gọi là curette. Có thể thực hiện tại phòng khám và không cần gây mê. Có thể có 1 số ít trường hợp đau bụng có thắt và chảy máu sau khi làm thủ thuật.
 
 ### Khoét chóp bằng dao lạnh
 
 Khoét chóp bằng dao lạnh (cold knife conization) là kỹ thuật kinh điển, cho phép đánh giá đầy đủ tổn thương.
 
-Khoét chóp cổ tử cung bằng dao lạnh là lấy đi toàn bộ phần hình nón chứa vùng bị bệnh của cổ tử cung, với 1 phần mô lành. Bệnh phẩm có hình nón này sẽ được đánh dấu vị trí. Khảo sát mô học chi tiết sau đó sẽ được thực hiện nhằm đánh giá tổn thương, sự xâm nhập của tổn thương và dương tính bờ phẫu thuật. Khó khăn của khoét chóp là cầm máu đúng kỹ thuật mà không gây hẹp kênh cổ tử cung về sau.
+Khoét chóp cổ tử cung bằng dao lạnh là lấy đi toàn bộ phần hình nón chứa vùng bị bệnh của cổ tử cung, với phần mô lành. Bệnh phẩm có hình nón này sẽ được đánh dấu vị trí. Khảo sát mô học chi tiết sau đó sẽ được thực hiện nhằm đánh giá tổn thương, sự xâm nhập của tổn thương và dương tính bờ phẫu thuật. Khó khăn của khoét chóp là cầm máu đúng kỹ thuật mà không gây hẹp kênh cổ tử cung về sau.
 
 Khoét chóp bằng dao điện có ưu điểm là nhanh, kiểm soát chảy máu dễ dàng, kỹ thuật cầm máu cổ tử cung đơn giản. Nhược điểm lớn nhất của khoét chóp bằng dao điện là rất khó đánh giá dương tính tế bào ở bờ phẫu thuật, do mô bị cháy bởi dòng điện cao tần. Ưu điểm của khoét chóp là có thể chủ động cắt mô với nhiều hình dạng và kích thước khác nhau. Ưu điểm quan trọng nhất của khoét chóp bằng dao lạnh là khả năng khảo sát tình trạng dương tính hay âm tính ở bờ phẫu thuật, do phương pháp này không làm cháy mô ở bờ phẫu thuật.
 

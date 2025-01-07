@@ -21,7 +21,7 @@ Trong giai đoạn II của chuyển dạ, kích thích đau của cổ tử cun
 
 Thai nghén có kết hợp với sự chịu đựng cảm thụ đau tăng lên liên quan đến sự gia tăng nồng độ endorphin trong huyết tương.
 
-Thuốc kháng vận nghiện naltrexone đảo ngược tác dụng này. Nồng độ chất P trong huyết tương thấp cũng có thể góp phần vào thay đổi chiu đựng đau lúc có thai. Thêm vào đó, progesterone thay đổi sự bất hoạt chất P bằng 1 endorphin. Trên lâm sàng, người phụ nữ có thai cần lượng thuốc tê ít hơn khoảng 30% để gây tê ngoài màng cứng giảm đau so với người không mang thai. Mặc dù 1 vài tác dụng này có liên quan đến sự tăng nhạy cảm đối với thuốc tê, 1 vài tác dụng cũng có thể liên quan đến sự thay đổi dung nạp đau kết hợp với thai nghén.
+Thuốc kháng vận nghiện naltrexone đảo ngược tác dụng này. Nồng độ chất P trong huyết tương thấp cũng có thể góp phần vào thay đổi chiu đựng đau lúc có thai. Thêm vào đó, progesterone thay đổi sự bất hoạt chất P bằng endorphin. Trên lâm sàng, người phụ nữ có thai cần lượng thuốc tê ít hơn khoảng 30% để gây tê ngoài màng cứng giảm đau so với người không mang thai. Mặc dù 1 vài tác dụng này có liên quan đến sự tăng nhạy cảm đối với thuốc tê, 1 vài tác dụng cũng có thể liên quan đến sự thay đổi dung nạp đau kết hợp với thai nghén.
 
 ### Tăng nhạy cảm trong thai nghén
 
@@ -103,7 +103,7 @@ Ngoài ra các biến chứng lâu dài khác hiếm gặp thường thoáng qua
 
 Hiệu quả giảm đau giữa tê ngoài màng cứng và tê tủy sống là tương đương. Có khác biệt quan trọng trên lâm sàng. Gây tê ngoài màng cứng và gây tê tủy sống khác biệt nhau ở nhiều điểm:
 
-1. Cơ chế phong bế: Tê tủy sống được thực hiện bằng cách bơm thuốc tê vào dịch não tủy, liều thuốc và tỷ trọng của dịch thuốc là 2 yếu tố quyết định thời gian và độ rộng của phong bế. Với tê ngoài màng cứng là bơm thuốc vào khoang ngoài màng cứng, tỷ trọng không phải là 1 yếu tố quan trọng, mà thể tích và tổng liều của thuốc bơm mới ảnh hưởng đến độ rộng và độ sâu của phong bế.
+1. Cơ chế phong bế: Tê tủy sống được thực hiện bằng cách bơm thuốc tê vào dịch não tủy, liều thuốc và tỷ trọng của dịch thuốc là 2 yếu tố quyết định thời gian và độ rộng của phong bế. Với tê ngoài màng cứng là bơm thuốc vào khoang ngoài màng cứng, tỷ trọng không phải là yếu tố quan trọng, mà thể tích và tổng liều của thuốc bơm mới ảnh hưởng đến độ rộng và độ sâu của phong bế.
 2. Hiệu quả: Tê ngoài màng cứng đòi hỏi nhiều thời gian và phương tiện hơn tê tủy sống, thời gian từ lúc dẫn đầu đến mất cảm giác đau thường dài hơn tê tủy sống, nhưng có thể kéo dài thời gian phong bế cảm giác đau nhờ bơm thuốc liên tục đến sau sinh, nên phương pháp này thường áp dụng cho giảm đau sản khoa. Với sự lựa chọn thuốc tê cẩn thận và dùng thêm thuốc phụ, thì thời gian tác dụng ở tê ngoài màng cứng ngắn nhất cũng là 10 phút. Tê ngoài màng cứng có thể dẫn đầu và duy trì bằng ống thông, nên nó vẫn là kỹ thuật thích hợp nhất khi cần sự uyển chuyển và kéo dài. Do tác dụng nhanh, nên tê tủy sống thường hay áp dụng cho các trường hợp mổ lấy thai vì giảm cảm giác đau nhanh hơn và thời gian chăm sóc bệnh nhân tại phòng mổ ngắn hơn. Tê tủy sống có nhiều thuận lợi, nhưng giới hạn lớn nhất là thời gian tác dụng bị giới hạn.
 
 ## Nguồn tham khảo

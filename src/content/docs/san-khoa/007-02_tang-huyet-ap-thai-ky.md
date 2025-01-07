@@ -3,7 +3,7 @@ title: Tăng huyết áp thai kỳ
 description: Tăng huyết áp thai kỳ.
 ---
 
-Thai kỳ với tăng huyết áp là 1 nhóm lớn các bệnh lý với bệnh sinh không thuần nhất, đòi hỏi các kế hoạch quản lý khác nhau.
+Thai kỳ với tăng huyết áp là nhóm lớn các bệnh lý với bệnh sinh không thuần nhất, đòi hỏi các kế hoạch quản lý khác nhau.
 
 ## Cơ chế bệnh sinh
 
@@ -79,7 +79,7 @@ Mốc 34 tuần để tiên lượng tiền sản giật. Tiền sản giật tr
 
 Sản giật là biến chứng nặng có thể sảy ra trước sinh, trong khi chuyển dạ và sau sinh 48-72 giờ.
 
-Chẩn đoán sản giật đòi hỏi phải có sự hiện diện của 3 yếu tố (1) những cơn co giật và (2) hôn mê (3) xảy ra trên 1 sản phụ có hội chứng tiền sản giật.
+Chẩn đoán sản giật đòi hỏi phải có sự hiện diện của 3 yếu tố (1) những cơn co giật và (2) hôn mê (3) xảy ra trên sản phụ có hội chứng tiền sản giật.
 
 Sản giật có thể có dấu hiệu kích thích não như đau đầu nhiều, mờ tầm nhìn, sợ ánh sáng, thay đổi tâm trạng. Tuy nhiên cũng có trường hợp không có dấu hiệu báo trước (20-38%).
 
@@ -87,7 +87,7 @@ Sản giật có thể có dấu hiệu kích thích não như đau đầu nhi�
 
 ### Định nghĩa
 
-Hội chứng HELLP là 1 biến chứng nặng của tiền sản giật và sản giật, thể hiện mọi đặc điểm của tổn thương nội mô đa cơ quan, đặc trưng bởi:
+Hội chứng HELLP là biến chứng nặng của tiền sản giật và sản giật, thể hiện mọi đặc điểm của tổn thương nội mô đa cơ quan, đặc trưng bởi:
 
 1. Tán huyết (Hemolysis).
 2. Tăng men gan (Elevated Liver Enzyme).
@@ -320,7 +320,7 @@ Nguyên tắc:
 
 Sử dụng $MgSO_4$ để dự phòng cơn giật. Liều tấn công 4-6 g $MgSO_4$ tiêm tĩnh mạch chậm. Duy trì 1-2 g $MgSO_4$ mỗi giờ trong chuyển dạ và sau sinh 12-24 giờ. Ngưng $MgSO_4$ sau sinh 24 giờ, hoặc trong trường hợp có biểu hiện ngộ độc $MgSO_4$. Chỉ dùng $MgSO_4$ cho tiền sản giật có biểu hiện nặng, [chi tiết tại đây](#magnesium-sulfate).
 
-Trong tiền sản giật, không dùng Diazepam hay Phenytoin. Khi được dùng trong tiền sản giật, chúng có hiệu quả kém, do sản giật là 1 bệnh lý mà cơ chế sinh co giật hoàn toàn khác với động kinh. Hơn nữa, chúng có thể có ảnh hưởng xấu trên thai nhi.
+Trong tiền sản giật, không dùng Diazepam hay Phenytoin. Khi được dùng trong tiền sản giật, chúng có hiệu quả kém, do sản giật là bệnh lý mà cơ chế sinh co giật hoàn toàn khác với động kinh. Hơn nữa, chúng có thể có ảnh hưởng xấu trên thai nhi.
 
 #### Khi có cơn sản giật
 
@@ -372,7 +372,7 @@ Liều dùng:
 
 - Luôn chú ý đến dấu ngộ độc $MgSO_4$ khi dùng. Trong điều trị, phải duy trì nồng độ ion $Mg^{2+}$ đạt ngưỡng điều trị, nhưng thấp hơn ngưỡng ngộ độc.
   ![Nồng độ MgSO4](../../../assets/san-khoa/tang-huyet-ap-thai-ky/nong-do-mgso4.png)
-- Theo dõi phản xạ gân xương, nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4 giờ). Khi nồng độ $Mg^{2+}$ bắt đầu vượt ngưỡng điều trị, dấu hiệu mất phản xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cần theo dõi phản xạ gân xương bánh chè như 1 chỉ báo là nồng độ $Mg^{2+}$ đã vượt ngưỡng điều trị và cần phải ngưng ngay việc dùng thêm $MgSO_4$.
+- Theo dõi phản xạ gân xương, nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4 giờ). Khi nồng độ $Mg^{2+}$ bắt đầu vượt ngưỡng điều trị, dấu hiệu mất phản xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cần theo dõi phản xạ gân xương bánh chè như chỉ báo là nồng độ $Mg^{2+}$ đã vượt ngưỡng điều trị và cần phải ngưng ngay việc dùng thêm $MgSO_4$.
 - Đo nồng độ $MgSO_4$ huyết thanh khi cần thiết và điều chỉnh giữ nồng độ $MgSO_4$ 4-7 mEg/L (5-9 mg/dL; 2-3.5 mmol/L).
 - Người bệnh suy thận mức độ trung bình (Creatinine 1-1.5 mg/dL) hoặc thiểu niệu (< 30 mL nước tiểu/giờ trong 4 giờ) sau khi dùng liều tấn công cần duy trì liều thấp 1 g/giờ.
 - Người suy thận cần định lượng $MgSO_4$ huyết thanh mỗi 4 giờ, nếu $MgSO_4$ huyết thanh > 9.6 mg/dL (8 mEg/L) cần ngưng truyền và định lượng $MgSO_4$ mỗi 2 giờ, tái dùng khi $MgSO_4$ < 8.4 mg/dL (7 mEq/L).
@@ -450,7 +450,7 @@ Chống chỉ định: Viêm gan cấp tính, mạn tính hoặc xơ gan, tiền
 
 Hydralazine thường là thuốc chống tăng huyết áp được lựa chọn đầu tay do đánh trực tiếp vào cơ chế bệnh sinh.
 
-Cơ chế thuốc gây giãn mạch trực tiếp, tác động trên các tiểu động mạch ngoại vi, là xuất phát điểm của bệnh sinh của tiền sản giật. Tác dụng của Hydralazine nhanh và ngắn, huyết áp sẽ hạ sau 10-30 phút và kéo dài trong 2-4 giờ. Tác dụng ngoại ý khác là nhịp tim nhanh, đánh trống ngực, đau thắt ngực, bồn chồn, khó ngủ, tiêu chảy, táo bón, buồn nôn, nhức đầu, rối loạn tạo máu, nổi mẫn, ớn lạnh, v.v. Kết hợp Hydralazine và Labetalol là 1 kết hợp có thể khắc phục được các nhược điểm của Hydralazine.
+Cơ chế thuốc gây giãn mạch trực tiếp, tác động trên các tiểu động mạch ngoại vi, là xuất phát điểm của bệnh sinh của tiền sản giật. Tác dụng của Hydralazine nhanh và ngắn, huyết áp sẽ hạ sau 10-30 phút và kéo dài trong 2-4 giờ. Tác dụng ngoại ý khác là nhịp tim nhanh, đánh trống ngực, đau thắt ngực, bồn chồn, khó ngủ, tiêu chảy, táo bón, buồn nôn, nhức đầu, rối loạn tạo máu, nổi mẫn, ớn lạnh, v.v. Kết hợp Hydralazine và Labetalol là kết hợp có thể khắc phục được các nhược điểm của Hydralazine.
 
 Liều lượng và cách dùng: Hydralazine được dùng đường tiêm tĩnh mạch chậm với liều đầu 5 mg trong 1-2 phút, nếu sau 15-20 phút không đạt được hạ áp, cho 5-10 mg tĩnh mạch chậm tiếp. Nếu sau tổng liều 25 mg mà vẫn không kiểm soát được huyết áp thì nên dùng thuốc khác. Như vậy tổng liều tối đa không quá 25 mg.
 

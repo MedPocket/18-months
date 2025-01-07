@@ -112,7 +112,7 @@ Với trẻ: Trẻ với Thalassemia nặng có thể không sống sót sau sin
 
 Với mẹ:
 
-- Vỡ hồng cầu gây ứ đọng sắt. Lách to nhiều do phải làm việc quá sức để phá hủy 1 lượng lớn hồng cầu có hemoglobin bất thường.
+- Vỡ hồng cầu gây ứ đọng sắt. Lách to nhiều do phải làm việc quá sức để phá hủy lượng lớn hồng cầu có hemoglobin bất thường.
 - Nhiễm trùng. Nguy cơ nhiễm trùng càng tăng cao ở các phụ nữ đã cắt lách vì cường lách.
 - Biến dạng xương do tủy xương phải tăng cường hoạt động sản xuất hồng cầu để bù lại lượng hồng cầu bị vỡ, dẫn đến biến dạng xương, xương xốp hơn, dễ gãy hơn (thường gặp ở thể nặng).
 - Bệnh lý tim có thể gặp ở thể nặng do ứ đọng sắt quá mức ở cơ tim, gây ra suy tim xung huyết và rối loạn nhịp tim.
@@ -122,7 +122,7 @@ Với mẹ:
 
 Các bước của chiến lược tầm soát Thalassemia hiện nay:
 
-Bước 1. Nhận diện 1 tình trạng thiếu máu nhược sắc hồng cầu nhỏ bằng huyết đồ. Huyết đồ cho thấy thiếu máu hồng cầu nhỏ, nhược sắc: nồng độ Hb < 11 g/dL, MCV < 80 fL, MCH < 27 pg.
+Bước 1. Nhận diện tình trạng thiếu máu nhược sắc hồng cầu nhỏ bằng huyết đồ. Huyết đồ cho thấy thiếu máu hồng cầu nhỏ, nhược sắc: nồng độ Hb < 11 g/dL, MCV < 80 fL, MCH < 27 pg.
 
 Bước 2. Phân biệt với thiếu máu thiếu sắt bằng định lượng ferritin. Ferritin bình thường hoặc cao là chỉ định của điện di hemoglobin.
 

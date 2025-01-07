@@ -3,7 +3,7 @@ title: Vỡ tử cung
 description: Vỡ tử cung.
 ---
 
-Vỡ tử cung là 1 tình trạng cấp cứu hiếm gặp nhưng rất nguy hiểm, gây ra kết cục rất xấu cho cả mẹ và thai.
+Vỡ tử cung là tình trạng cấp cứu hiếm gặp nhưng rất nguy hiểm, gây ra kết cục rất xấu cho cả mẹ và thai.
 
 ## Phân loại
 
@@ -14,8 +14,8 @@ Có 2 dạng thức vỡ tử cung:
 
 Có 2 tình huống vỡ tử cung:
 
-1. Trên 1 tử cung nguyên vẹn, vỡ tử cung thường thấy trong chuyển dạ, với các triệu chứng thường là điển hình trong đa phần các trường hợp: chuyển dạ bất thường &rarr; vượt trở ngại &rarr; dọa vỡ tử cung &rarr; vỡ tử cung. Trên tử cung nguyên vẹn, vỡ tử cung tự phát hiếm khi xảy ra ngoài chuyển dạ, ngoại trừ trường hợp bất thường bẩm sinh của hệ Muller.
-2. Trên 1 tử cung có sẹo mổ cũ trước đó (mổ sinh hay bóc nhân xơ...) tần suất vỡ tử cung tự phát ngoài chuyển dạ có cao hơn, nhưng chủ yếu vẫn là vỡ trong chuyển dạ.
+1. Trên tử cung nguyên vẹn, vỡ tử cung thường thấy trong chuyển dạ, với các triệu chứng thường là điển hình trong đa phần các trường hợp: chuyển dạ bất thường &rarr; vượt trở ngại &rarr; dọa vỡ tử cung &rarr; vỡ tử cung. Trên tử cung nguyên vẹn, vỡ tử cung tự phát hiếm khi xảy ra ngoài chuyển dạ, ngoại trừ trường hợp bất thường bẩm sinh của hệ Muller.
+2. Trên tử cung có sẹo mổ cũ trước đó (mổ sinh hay bóc nhân xơ...) tần suất vỡ tử cung tự phát ngoài chuyển dạ có cao hơn, nhưng chủ yếu vẫn là vỡ trong chuyển dạ.
 
 ## Yếu tố nguy cơ
 
@@ -25,7 +25,7 @@ Sẹo mổ cũ (mổ lấy thai, mổ bóc nhân xơ, v.v).
 
 Các yếu tố nguy cơ khác ít gặp hơn như sinh giúp khi không đủ điều kiện hay sai kỹ thuật, khối u ở vị trí tiền đạo.
 
-Tăng co bằng Oxytocin được xem là 1 yếu tố nguy cơ, nhất là khi không được thực hiện tốt hay thực hiện trên thai phụ đa sản.
+Tăng co bằng Oxytocin được xem là yếu tố nguy cơ, nhất là khi không được thực hiện tốt hay thực hiện trên thai phụ đa sản.
 
 1 số trường hợp vỡ tử cung được ghi nhận có liên quan đến khởi phát chuyển dạ bằng misoprostol, cả ở người con so và con rạ. _Do nguy cơ này, Bộ Y tế nước ta không cho phép dùng misoprostol để phát khởi chuyển dạ trên thai sống và đủ tháng._
 

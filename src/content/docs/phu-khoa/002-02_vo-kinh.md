@@ -52,7 +52,7 @@ Vô kinh cũng có thể xảy ra nếu bệnh nhân có những bất thường
 Tắc nghẽn bất thường gây vô kinh nguyên phát và thường đi kèm với chức năng nội tiết tố bình thường. Sự tắc nghẽn như vậy có thể dẫn đến:
 
 - Bế kinh (ứ máu kinh trong âm đạo) làm cho âm đạo phồng lên.
-- Tích huyết tử cung (tích tụ máu trong tử cung), có thể gây phình tử cung có thể bị ghi nhận là 1 khối vùng chậu hoặc phình cổ tử cung.
+- Tích huyết tử cung (tích tụ máu trong tử cung), có thể gây phình tử cung có thể bị ghi nhận là khối vùng chậu hoặc phình cổ tử cung.
 
 Vì chức năng buồng trứng bình thường nên các cơ quan sinh dục ngoài và các đặc điểm tình dục thứ phát khác phát triển bình thường. Rối loạn bẩm sinh (ví dụ, những bệnh kèm theo dị tật âm đạo hay bất sản âm đạo hoặc vách âm đạo) cũng gây ra các chứng tiểu tiện và các rối loạn về khung chậu.
 
@@ -204,6 +204,6 @@ Vòng kinh nhân tạo là phương pháp dùng estrogen và progesterone theo t
 
 ## Nguồn tham khảo
 
-- Bài giảng vô kinh (không hành kinh - https://www.dieutri.vn/bgsanphukhoa/bai-giang-vo-kinh-khong-hanh-kinh
+- Bài giảng vô kinh không hành kinh - https://www.dieutri.vn/bgsanphukhoa/bai-giang-vo-kinh-khong-hanh-kinh
 
 - Vô kinh - https://www.msdmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea

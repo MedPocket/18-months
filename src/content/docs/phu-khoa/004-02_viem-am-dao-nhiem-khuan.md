@@ -7,7 +7,7 @@ Nhiễm khuẩn âm đạo (loạn khuẩn âm đạo) là hội chứng do rố
 
 ## Định nghĩa và biểu hiện
 
-Loạn khuẩn âm đạo (bacterial vaginosis) (BV) là 1 tình trạng rối loạn vi khuẩn rất thường gặp ở phụ nữ trong độ tuổi sinh sản.
+Loạn khuẩn âm đạo (bacterial vaginosis) (BV) là tình trạng rối loạn vi khuẩn rất thường gặp ở phụ nữ trong độ tuổi sinh sản.
 
 Biểu hiện lâm sàng chính của loạn khuẩn âm đạo là tiết dịch âm đạo nặng mùi.
 
@@ -37,7 +37,7 @@ Các yếu tố nguy cơ mạnh nhất của loạn khuẩn âm đạo gồm:
 3. pH dịch âm đạo > 4.5.
 4. Dịch âm đạo mùi "cá thối", trước hay sau test KOH.
 
-Cần 3/4 tiêu chuẩn để xác lập chẩn đoán. Sensitivity) (Se) và Specificity (Sp) của tiêu chuẩn Amsel là 70 và 94% khi so với các test khác.
+Cần 3/4 tiêu chuẩn để xác lập chẩn đoán. Sensitivity (Se) và Specificity (Sp) của tiêu chuẩn Amsel là 70 và 94% khi so với các test khác.
 :::
 
 ![Clue cells](../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/clue-cells.png)

@@ -15,7 +15,7 @@ Tuyến vú có thể được khảo sát bằng các xét nghiệm chuyên kho
 
 Trong các khảo sát hình ảnh được dùng cho tuyến vú, nhũ ảnh có vai trò nổi bật nhất, do lãnh vực áp dụng của nhũ ảnh rất rộng, gồm cả tầm soát lẫn chẩn đoán.
 
-Nhũ ảnh (mammography) khảo sát tuyến vú bằng tia X, dùng năng lượng thấp. Nhũ ảnh kỹ thuật số (digital mammography) có giá trị (accuracy) cao hơn do chất lượng xử lý hình ảnh tốt hơn, không gian quan sát mở rộng và có thể cung cấp các thông tin bổ sung khi cần thiết bằng cách xử lý thông tin số. Ngày nay, nhũ ảnh kỹ thuật số toàn trường (Full Field Digital Mammography) (FFDM) là 1 chuẩn mực của kỹ thuật nhũ ảnh.
+Nhũ ảnh (mammography) khảo sát tuyến vú bằng tia X, dùng năng lượng thấp. Nhũ ảnh kỹ thuật số (digital mammography) có giá trị (accuracy) cao hơn do chất lượng xử lý hình ảnh tốt hơn, không gian quan sát mở rộng và có thể cung cấp các thông tin bổ sung khi cần thiết bằng cách xử lý thông tin số. Ngày nay, nhũ ảnh kỹ thuật số toàn trường (Full Field Digital Mammography) (FFDM) là chuẩn mực của kỹ thuật nhũ ảnh.
 
 Thực hiện thường quy và định kỳ nhũ ảnh đóng vai trò cực kỳ quan trọng trong tầm soát ung thư vú. Nhũ ảnh là tầm soát thường quy bắt buộc cho mọi thăm khám phụ khoa từ thời điểm 45 tuổi. Siêu âm không thay được cho nhũ ảnh ở tuổi trên 45 tuổi.
 
@@ -28,16 +28,16 @@ _Nhũ ảnh, phim MLO (trái) và phim CC (phải).<br>Phim MLO (trái) cho th�
 
 Hình ảnh gây chú ý nhiều nhất trên nhũ ảnh là hình ảnh đóng vôi. Đóng vôi ở vú là kết quả của lắng đọng calcium trong chủ mô tuyến vú. Đóng vôi thường rất nhỏ để cảm nhận qua khám vú, nhưng lại là hình ảnh thường thấy nhất qua nhũ ảnh. Chúng là các đốm sáng nhỏ:
 
-1. Đóng vôi có thể là hình ảnh của 1 vấn đề lành tính trong đa phần các trường hợp. Thường gặp sau mãn kinh, nhiễm trùng cũ ở vú, phẫu thuật vú.
+1. Đóng vôi có thể là hình ảnh của vấn đề lành tính trong đa phần các trường hợp. Thường gặp sau mãn kinh, nhiễm trùng cũ ở vú, phẫu thuật vú.
 2. Đóng vôi có thể là dấu hiệu rất sớm của ác tính. Vì thế, phân tích đặc tính của đóng vôi, nhất là đóng vôi vi thể có thể giúp phát hiện sớm ung thư vú.
 
 ![Lắng đọng vôi bình thường ở các thể Montgomery](../../../assets/phu-khoa/can-lam-sang-tuyen-vu/lang-dong-voi-binh-thuong-o-cac-the-montgomery.png)
 _Lắng đọng vôi bình thường ở các thể Montgomery.<br> Tại quầng vú có thể có hình ảnh đóng vôi. Các điểm rất phân tán, chỉ thấy duy nhất ở quầng vú._
 
 ![Đóng vôi trong tổn thương ác tính](../../../assets/phu-khoa/can-lam-sang-tuyen-vu/dong-voi-lon-va-nho-trong-ton-thuong-ac-tinh.png)
-_(Trái) Đóng vôi lớn và nhỏ trong 1 thương tổn ác tính.<br>Đóng vôi có thể xuất hiện như những hạt rất mịn mũi tên kép, dưới). Đóng vôi cũng có thể xuất hiện dưới dạng đóng vôi to (mũi tên đơn, trên). Giải phẫu bệnh của 2 thương tổn này là carcinoma in-situ ống tuyến vú.<br>(Phải, trên) Ảnh nhìn qua kính lúp 1 đóng vôi nhỏ của 1 carcinoma vi xâm lấn.<br>(Phải, dưới) Đóng vôi có thể xuất hiện như những hạt rất mịn. Ảnh nhìn qua kính lúp 1 đóng vôi nhỏ của 1 carcinoma in situ._
+_(Trái) Đóng vôi lớn và nhỏ trong thương tổn ác tính.<br>Đóng vôi có thể xuất hiện như những hạt rất mịn mũi tên kép, dưới). Đóng vôi cũng có thể xuất hiện dưới dạng đóng vôi to (mũi tên đơn, trên). Giải phẫu bệnh của 2 thương tổn này là carcinoma in-situ ống tuyến vú.<br>(Phải, trên) Ảnh nhìn qua kính lúp đóng vôi nhỏ của carcinoma vi xâm lấn.<br>(Phải, dưới) Đóng vôi có thể xuất hiện như những hạt rất mịn. Ảnh nhìn qua kính lúp đóng vôi nhỏ của carcinoma in situ._
 
-Đóng vôi có thể là lớn (macrocalcification) hay nhỏ (microcalcification). Cả 2 đều thường là lành tính, nhưng cả 2 cùng có thể thấy trong ác tính. Tuy nhiên, so với đóng vôi lớn, thì đóng vôi vi thể thường đòi hỏi 1 đánh giá rất thận trọng. Các thương tổn đóng vôi sẽ được phân ra:
+Đóng vôi có thể là lớn (macrocalcification) hay nhỏ (microcalcification). Cả 2 đều thường là lành tính, nhưng cả 2 cùng có thể thấy trong ác tính. Tuy nhiên, so với đóng vôi lớn, thì đóng vôi vi thể thường đòi hỏi đánh giá rất thận trọng. Các thương tổn đóng vôi sẽ được phân ra:
 
 1. Lành tính.
 2. Có khả năng lành tính.
@@ -46,7 +46,7 @@ _(Trái) Đóng vôi lớn và nhỏ trong 1 thương tổn ác tính.<br>Đóng
 
 ## Siêu âm
 
-Siêu âm tuyến vú dùng các sóng âm tần số cao, 7-12 MHz, nhằm có được hình ảnh cự ly gần với mức phân giải cao. Siêu âm tuyến vú không có vị trí trong 1 tầm soát ung thư vú theo đúng nghĩa của từ này. Không dùng cho tầm soát thường quy ở người trên 45 tuổi. Chỉ có thể xem siêu âm tuyến vú như biện pháp "khám tuyến vú" sơ cấp cho người độ tuổi 30, có đậm độ mô vú dầy, và khi nhũ ảnh chưa phải là nội dung tầm soát thường quy ở lứa tuổi này. Siêu âm tuyến vú thường được dùng để kết hợp với nhũ ảnh để thực hiện chẩn đoán khi kết quả nhũ ảnh không xác định, hoặc để hướng dẫn sinh thiết. Siêu âm Doppler tuyến vú giúp khảo sát dòng chảy mạch máu ở vùng nghi ngờ. Siêu âm hữu ích trong mô tả tính chất của nang: (1) số
+Siêu âm tuyến vú dùng các sóng âm tần số cao, 7-12 MHz, nhằm có được hình ảnh cự ly gần với mức phân giải cao. Siêu âm tuyến vú không có vị trí trong tầm soát ung thư vú theo đúng nghĩa của từ này. Không dùng cho tầm soát thường quy ở người trên 45 tuổi. Chỉ có thể xem siêu âm tuyến vú như biện pháp "khám tuyến vú" sơ cấp cho người độ tuổi 30, có đậm độ mô vú dầy, và khi nhũ ảnh chưa phải là nội dung tầm soát thường quy ở lứa tuổi này. Siêu âm tuyến vú thường được dùng để kết hợp với nhũ ảnh để thực hiện chẩn đoán khi kết quả nhũ ảnh không xác định, hoặc để hướng dẫn sinh thiết. Siêu âm Doppler tuyến vú giúp khảo sát dòng chảy mạch máu ở vùng nghi ngờ. Siêu âm hữu ích trong mô tả tính chất của nang: (1) số
 lượng nang, (2) hình dáng và tính chất bờ: bờ trơn láng và mỏng hay thành dầy với chồi trong nang, (3) phản âm bên trong trống, đồng nhất hay là u đặc.
 
 ![Siêu âm tuyến vú](../../../assets/phu-khoa/can-lam-sang-tuyen-vu/sieu-am-vu.png)
@@ -65,7 +65,7 @@ _Các lát cắt khảo sát trên siêu âm._
 
 Cộng hưởng từ là phương pháp khảo sát hình ảnh được dùng cho các đối tượng đặc biệt, có nguy cơ cao.
 
-Kỹ thuật cộng hưởng từ (MRI) cho phép tạo ra những hình ảnh chi tiết nhất của mô vú. Tuy nhiên MRI không được xem là biện pháp tương đồng với nhũ ảnh cho tầm soát ung thư vú ở các đối tượng nguy cơ trung bình hay thấp. Do ở đối tượng nguy cơ thấp, cộng hưởng từ không mang lại kết quả tầm soát tốt hơn. Vì thế, nó được dùng như 1 biện pháp tầm soát ở đối tượng có nguy cơ cao. Hội ung thư Hoa kỳ (ACS) khuyến cáo thực hiện MRI vú hàng năm cho các đối tượng chuyên biệt, là các phụ nữ:
+Kỹ thuật cộng hưởng từ (MRI) cho phép tạo ra những hình ảnh chi tiết nhất của mô vú. Tuy nhiên MRI không được xem là biện pháp tương đồng với nhũ ảnh cho tầm soát ung thư vú ở các đối tượng nguy cơ trung bình hay thấp. Do ở đối tượng nguy cơ thấp, cộng hưởng từ không mang lại kết quả tầm soát tốt hơn. Vì thế, nó được dùng như biện pháp tầm soát ở đối tượng có nguy cơ cao. Hội ung thư Hoa kỳ (ACS) khuyến cáo thực hiện MRI vú hàng năm cho các đối tượng chuyên biệt, là các phụ nữ:
 
 - Có đột biết BRCA1 hay BRCA2.
 - Có người thân trực hệ bị ung thư vú.
@@ -85,7 +85,7 @@ Chỉ định chính của MRI là phối hợp để chẩn đoán, cùng với
 - Đánh giá hiệu quả của hóa trị liệu.
 
 ![Cộng hưởng từ tuyến vú](../../../assets/phu-khoa/can-lam-sang-tuyen-vu/cong-huong-tu-tuyen-vu.png)
-_MRI cung cấp các hình ảnh rất chi tiết về cấu trúc mô tuyến vú. MRI này chụp ở 1 đối tượng nguy cơ rất cao của ung thư vú._
+_MRI cung cấp các hình ảnh rất chi tiết về cấu trúc mô tuyến vú. MRI này chụp ở đối tượng nguy cơ rất cao của ung thư vú._
 
 ## Chọc hút tế bào bằng kim nhỏ (FNA)
 
@@ -116,7 +116,7 @@ BRCA là từ viết tắt của Breast Cancer. BRCA thể hiện các gene và 
 
 Không phải mọi người đều phải khảo sát đột biến BRCA. Khảo sát này được chỉ định khi có tiền căn gia đình gợi ý:
 
-- Có ≥ 3 người trong gia đình được chẩn đoán ung thư vú hoặc ung thư buồng trứng trong đó có 1 người dưới 50 tuổi.
+- Có ≥ 3 người trong gia đình được chẩn đoán ung thư vú hoặc ung thư buồng trứng trong đó có người dưới 50 tuổi.
 - Có 2 người trong gia đình thế hệ thứ nhất hoặc thế hệ thứ nhì bị ung thư vú hoặc ung thư buồng trứng.
 - Có người trong gia đình bị ung thư vú nam giới.
 - Cá nhân được chẩn đoán ung thư trước 50 tuổi.

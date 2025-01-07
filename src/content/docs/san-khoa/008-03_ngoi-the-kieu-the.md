@@ -72,7 +72,7 @@ Thủ thuật thứ hai: Nắn nhẹ nhàng nhưng sâu ở 2 bên bụng để 
 
 Thủ thuật thứ ba: Người khám dùng ngón cái và các ngón còn lại của bàn tay phải nắn vùng trên xương vệ của sản phụ để xác định lại tên của phần thai nằm ở đoạn dưới của tử cung. Trên hình là cực đầu ở đoạn dưới tử cung.
 
-Thủ thuật thứ tư: người khám xoay người lại, mặt hướng về phía chân sản phụ. Dùng các đầu ngón tay ấn sâu trên xương vệ theo hướng trục của eo trên. Nếu là ngôi đầu, 1 bàn tay sẽ bị chặn lại bởi 1 khối u tròn (ụ đầu), trong khi bàn tay kia xuống được sâu hơn. Trên hình là ngôi chỏm với đầu cao chưa lọt, bàn tay hội tụ, hướng chụm vào nhau. Ụ đầu cùng bên với chi trong ngôi chỏm và ngược bên với chi trong ngôi mặt. Khi đầu chưa lọt, 2 bàn tay sẽ có hướng hội tụ, do có thể ôm được đầu thai dễ dàng. Đầu càng xuống thấp trong tiểu khung, sờ ụ đầu càng khó. Khi đầu đã lọt, 2 bàn tay có hướng phân kỳ ra ngoài, vì không ôm được chỏm đã xuống sâu trong tiểu khung.
+Thủ thuật thứ tư: người khám xoay người lại, mặt hướng về phía chân sản phụ. Dùng các đầu ngón tay ấn sâu trên xương vệ theo hướng trục của eo trên. Nếu là ngôi đầu, 1 bàn tay sẽ bị chặn lại bởi khối u tròn (ụ đầu), trong khi bàn tay kia xuống được sâu hơn. Trên hình là ngôi chỏm với đầu cao chưa lọt, bàn tay hội tụ, hướng chụm vào nhau. Ụ đầu cùng bên với chi trong ngôi chỏm và ngược bên với chi trong ngôi mặt. Khi đầu chưa lọt, 2 bàn tay sẽ có hướng hội tụ, do có thể ôm được đầu thai dễ dàng. Đầu càng xuống thấp trong tiểu khung, sờ ụ đầu càng khó. Khi đầu đã lọt, 2 bàn tay có hướng phân kỳ ra ngoài, vì không ôm được chỏm đã xuống sâu trong tiểu khung.
 
 ### Thăm khám âm đạo
 

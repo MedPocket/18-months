@@ -74,7 +74,7 @@ _Theo nghiên cứu, khảo sát mép bánh rau bám lan qua lỗ trong cổ t�
 
 ## Bệnh sinh
 
-Xuất huyết âm đạo trong 3 tháng cuối thai kỳ không kèm theo đau bụng là 1 dấu hiệu điển hình của rau tiền đạo.
+Xuất huyết âm đạo trong 3 tháng cuối thai kỳ không kèm theo đau bụng là dấu hiệu điển hình của rau tiền đạo.
 
 Máu chảy ra ngoài trong rau tiền đạo là máu mẹ. Đợt chảy máu âm đạo đầu tiên thường tự ổn định trong vòng 1-2 giờ, nếu như nó không quá nghiêm trọng để có chỉ định chấm dứt thai kỳ. Nếu chảy máu là trầm trọng hoặc thai nhi đã trưởng thành thì chấm dứt thai kỳ là lựa chọn. Số đợt xuất hiện chảy máu không có mối liên quan đến độ nặng của rau tiền đạo cũng như kết cục của thai nhi.
 

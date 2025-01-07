@@ -3,7 +3,7 @@ title: Bóc rau nhân tạo và kiểm tra sinh dục
 description: Bóc rau nhân tạo và kiểm tra sinh dục.
 ---
 
-Trong 1 cuộc chuyển dạ và sinh đường âm đạo sau sổ thai cần:
+Trong cuộc chuyển dạ và sinh đường âm đạo sau sổ thai cần:
 
 - Hạ đầu thấp.
 - Đo lại mạch, huyết áp.
@@ -148,7 +148,7 @@ BN nằm tư thế sản khoa. Sát trùng âm đạo. Trải săng vô khuẩn.
 
 1 người ấn đáy tử cung và 1 người giữ valve âm đạo.
 
-Dùng 1 kìm hình tim vị trí 12h làm mốc. Kìm thứ 2 kẹp vị trí 1-2h và kiểm tra giữa 2 kìm này xem có rách, có chảy máu gì không? Kế tiếp dùng kìm hình tim thứ 3 kẹp vị trí 3-4h và kiểm tra giữa kìm thứ 2 và 3. Tháo kìm thứ 2, di chuyển tới vị trí 5-6h, lại kiểm tra giữa 2 kìm này. Cứ làm như vậy theo chiều kim đồng hồ đến khi về vị trí 12h thì ngưng. Trong khi làm người phụ xoay valve sao cho thấy rõ vùng đang kiểm tra.
+Dùng kìm hình tim vị trí 12h làm mốc. Kìm thứ 2 kẹp vị trí 1-2h và kiểm tra giữa 2 kìm này xem có rách, có chảy máu gì không? Kế tiếp dùng kìm hình tim thứ 3 kẹp vị trí 3-4h và kiểm tra giữa kìm thứ 2 và 3. Tháo kìm thứ 2, di chuyển tới vị trí 5-6h, lại kiểm tra giữa 2 kìm này. Cứ làm như vậy theo chiều kim đồng hồ đến khi về vị trí 12h thì ngưng. Trong khi làm người phụ xoay valve sao cho thấy rõ vùng đang kiểm tra.
 
 Các vết rách < 2cm được xem là điều khó tránh khi sinh. Các vết rách thế lành nhanh và khi lành làm biến đổi hình dạng cổ tử cung.
 

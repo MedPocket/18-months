@@ -9,7 +9,7 @@ Rau bong non được định nghĩa là trường hợp rau bám đúng vị tr
 
 ### Cơ chế
 
-Khởi đầu của rau bong non là sự xuất huyết trong màng rụng đáy và hình thành khối máu tụ ở màng rụng. Cấu trúc của màng rụng bị đứt gãy ở 1 vị trí, và gây chảy máu do sự phá vỡ các tiểu động mạch xoắn của màng rụng. Diện tích xuất huyết tăng dần, hình thành 1 khối máu tụ ở màng rụng, tách màng đệm khỏi lớp cơ tử cung. Khối máu tụ này lớn dần lên, gây bóc tách lan rộng và chèn ép vào mô rau lân cận, kết quả là rau bị bong 1 phần hoặc bong toàn bộ.
+Khởi đầu của rau bong non là sự xuất huyết trong màng rụng đáy và hình thành khối máu tụ ở màng rụng. Cấu trúc của màng rụng bị đứt gãy ở 1 vị trí, và gây chảy máu do sự phá vỡ các tiểu động mạch xoắn của màng rụng. Diện tích xuất huyết tăng dần, hình thành khối máu tụ ở màng rụng, tách màng đệm khỏi lớp cơ tử cung. Khối máu tụ này lớn dần lên, gây bóc tách lan rộng và chèn ép vào mô rau lân cận, kết quả là rau bị bong 1 phần hoặc bong toàn bộ.
 
 Máu chảy ra giữa lớp cơ tử cung và các màng thai bị giam cầm trong khối máu tụ. Khi tụ máu lớn dần, cùng với áp lực tăng lên sẽ gây ra rò rỉ máu ra ngoài qua lỗ cổ tử cung, gây nên tình trạng xuất huyết âm đạo.
 
@@ -19,11 +19,11 @@ Máu chảy ra giữa lớp cơ tử cung và các màng thai bị giam cầm tr
 
 Trường hợp rau bong non tự phát (không do chấn thương) thì hầu hết máu trong khối máu tụ sau rau là máu của mẹ, do tình trạng xuất huyết xảy ra do đổ vỡ các mạch máu xoắn, gây xuất huyết và bóc tách trong lớp màng rụng mẹ, đồng thời các gai rau vẫn còn nguyên vẹn.
 
-Trường hợp rau bong non xảy ra sau 1 chấn thương (chấn thương vùng tử cung, chạm thương do thủ thuật chẩn đoán, gắng sức quá mức...) máu thai có thể bị mất đáng kể, do các gai rau có thể bị rách, vỡ xảy ra đồng thời cùng với sự bong tróc của lớp màng rụng.
+Trường hợp rau bong non xảy ra sau chấn thương (chấn thương vùng tử cung, chạm thương do thủ thuật chẩn đoán, gắng sức quá mức...) máu thai có thể bị mất đáng kể, do các gai rau có thể bị rách, vỡ xảy ra đồng thời cùng với sự bong tróc của lớp màng rụng.
 
 ## Nguyên nhân và các yếu tố nguy cơ
 
-Ngoại trừ trong 1 vài trường hợp như chấn thương, trong phần lớn các trường hợp, nguyên nhân trực tiếp dẫn đến rau bong non còn chưa được hiểu rõ.
+Ngoại trừ trong vài trường hợp như chấn thương, trong phần lớn các trường hợp, nguyên nhân trực tiếp dẫn đến rau bong non còn chưa được hiểu rõ.
 
 Tiền sản giật, do hệ quả của việc xâm nhập không hoàn toàn của các tế bào nuôi vào các tiểu động mạch
 xoắn, gây bất thường ở các mạch này, là 1 trong những yếu tố thuận lợi của rau bong non.
@@ -47,7 +47,7 @@ Sự gia tăng nồng độ D-dimer cũng có thể gợi ý cho chẩn đoán.
 Chẩn đoán rau bong non thể nặng thường dễ dàng do các triệu chứng rõ ràng. Tuy nhiên, các trường hợp rau bong non thể nhẹ hoặc thể vừa chẩn đoán thường khó khăn và không chắc chắn.
 
 :::caution[Lưu ý]
-Rau bong non là 1 chẩn đoán loại trừ.
+Rau bong non lchẩn đoán loại trừ.
 :::
 
 ## Rau bong non là cấp cứu sản khoa
@@ -60,13 +60,13 @@ Biến chứng phổ biến của rau bong non gồm:
 
 ### Sốc giảm thể tích
 
-Lượng máu bị kềm giữ trong khối tụ máu sau rau có thể lớn hơn rất nhiều so với lượng máu chảy ra ngoài âm đạo quan sát được. Vì thế, 1 tình trạng sốc giảm thể tích có thể xuất hiện nhanh chóng dù lượng máu mất qua đường âm đạo không đáng kể.
+Lượng máu bị kềm giữ trong khối tụ máu sau rau có thể lớn hơn rất nhiều so với lượng máu chảy ra ngoài âm đạo quan sát được. Vì thế, tình trạng sốc giảm thể tích có thể xuất hiện nhanh chóng dù lượng máu mất qua đường âm đạo không đáng kể.
 
 Trong các trường hợp nặng, sốc giảm thể tích thậm chí có thể dẫn đến suy thận cấp và hội chứng Sheehan (suy tuyến yên sau mất máu cấp) nếu tình trạng mất máu không được đánh giá đúng mức và điều trị kịp thời.
 
 ### Rối loạn đông máu
 
-Sự hình thành khối tụ máu sau rau dẫn đến tiêu thụ 1 lượng lớn yếu tố đông máu. Thêm vào đó, các
+Sự hình thành khối tụ máu sau rau dẫn đến tiêu thụ lượng lớn yếu tố đông máu. Thêm vào đó, các
 Thromboplastin từ màng rụng và rau thai được phóng thích vào tuần hoàn mẹ sẽ phát khởi tình trạng đông máu
 nội mạch lan toả (Disseminated Intravascular Coagulation - DIC), gây hệ quả là giảm các yếu tố tiền đông máu do tăng tiêu thụ.
 

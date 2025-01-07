@@ -3,7 +3,7 @@ title: Đếm cử động thai
 description: Đếm cử động thai.
 ---
 
-Đếm cử động thai là 1 ý tưởng khá hấp dẫn vì phương pháp này luôn có thể thực hiện ở mọi thai phụ và không tốn kém tiền bạc.
+Đếm cử động thai là ý tưởng khá hấp dẫn vì phương pháp này luôn có thể thực hiện ở mọi thai phụ và không tốn kém tiền bạc.
 
 Tình trạng tưới máu bánh rau bị giảm sút và thai nhi bị toan hóa máu thì cử động thai cũng giảm. Đây là cơ sở cho việc thực hiện đếm cử động thai (fetal movement count).
 
@@ -34,7 +34,7 @@ Cử động thai không liên quan đến bữa ăn. Hút thuốc lá làm gi�
 
 ## Cách đếm cử động thai
 
-Có nhiều cách đếm cử động thai. _Phương pháp Cardiff được báo cáo đầu tiên bởi Pearson đề nghị nên đếm tới 10 cử động trong 1 thời gian nhất định. Những nghiên cứu ban đầu đòi hỏi đếm cử động thai trong 12 giờ, sau đó được thay đổi còn trong 6 giờ theo Liston hay 2 giờ theo Moore. Phương pháp Sadovsky đề nghị đếm cử động thai trong 1 khoảng thời gian nhất định thường từ 30 phút đến 2 giờ._
+Có nhiều cách đếm cử động thai. _Phương pháp Cardiff được báo cáo đầu tiên bởi Pearson đề nghị nên đếm tới 10 cử động trong thời gian nhất định. Những nghiên cứu ban đầu đòi hỏi đếm cử động thai trong 12 giờ, sau đó được thay đổi còn trong 6 giờ theo Liston hay 2 giờ theo Moore. Phương pháp Sadovsky đề nghị đếm cử động thai trong khoảng thời gian nhất định thường từ 30 phút đến 2 giờ._
 
 Hiệp hội các nhà Sản Phụ khoa Canada (SOGC) khuyến cáo thai phụ nên được hướng dẫn đếm cho tới 6 cử động thai riêng biệt. Nếu điều này không đạt được trong vòng 2 giờ thì cần thực hiện thêm những phương pháp lượng giá sức khỏe thai khác.
 :::caution[Lưu ý]
@@ -45,7 +45,7 @@ Nên thông tin cho thai phụ biết ở những trường hợp dương tính 
 
 NST và siêu âm là 2 test đầu tay khi ghi nhận có giảm cử động thai.
 
-Test hỗ trợ phải được thực hiện càng sớm càng tốt (trong vòng 1-12 giờ sau giảm cử động thai) theo sau 1 bất thường của đếm cử động thai.
+Test hỗ trợ phải được thực hiện càng sớm càng tốt (trong vòng 1-12 giờ sau giảm cử động thai) theo sau bất thường của đếm cử động thai.
 
 Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lượng nước ối, đánh giá sinh trắc thai...
 

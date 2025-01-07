@@ -5,7 +5,7 @@ description: Xuất huyết tử cung bất thường trong độ tuổi sinh s�
 
 Xuất huyết tử cung bất thường (Abnormal uterine bleeding - AUB) hay gặp ở phụ nữ trong độ tuổi sinh sản.
 
-Xuất huyết tử cung bất thường được định nghĩa là xuất huyết từ tử cung nhưng thay đổi so với chu kỳ kinh ở bất kỳ 1 trong các hình thức sau: thay đổi về tính chu kỳ, số ngày hành kinh, lượng máu kinh và triệu chứng đi kèm.
+Xuất huyết tử cung bất thường được định nghĩa là xuất huyết từ tử cung nhưng thay đổi so với chu kỳ kinh ở bất kỳ trong các hình thức sau: thay đổi về tính chu kỳ, số ngày hành kinh, lượng máu kinh và triệu chứng đi kèm.
 
 ## Phân loại AUB
 

@@ -14,7 +14,7 @@ Chúng cùng có chung nguồn gốc là cholesterol. Các nhánh bên của cho
 Androgen có nguồn gốc từ các nang noãn chưa lệ thuộc gonadotropin.
 
 Sau khi được chiêu mộ, các nang noãn tiền hốc và nang hốc nhỏ là các nang noãn chưa lệ thuộc gonadotropin. DHEA và androstenedione là các sản phẩm chính của các nang noãn này.
-Tại các nang noãn chưa lệ thuộc gonadotropin, androgen có vai trò chuẩn bị cho nang noãn có đủ khả năng để đi vào các giai đoạn phát triển sau đó. Ở giai đoạn này, androgen là 1 thành phần trong hệ thống androgen-AMH-FSH-estrogen. Mục tiêu là tạo ra các thụ thể gonadotropin trên tế bào tùy hành, đồng thời giữ cho nang noãn không trở nên lệ thuộc gonadotropin quá sớm.
+Tại các nang noãn chưa lệ thuộc gonadotropin, androgen có vai trò chuẩn bị cho nang noãn có đủ khả năng để đi vào các giai đoạn phát triển sau đó. Ở giai đoạn này, androgen là thành phần trong hệ thống androgen-AMH-FSH-estrogen. Mục tiêu là tạo ra các thụ thể gonadotropin trên tế bào tùy hành, đồng thời giữ cho nang noãn không trở nên lệ thuộc gonadotropin quá sớm.
 
 ### Estrogen
 
@@ -24,8 +24,8 @@ Các nang noãn dùng androgen để tổng hợp estrogen. Hiện tượng này
 
 - Tế bào vỏ của nang noãn sử dụng pregnenolone làm nguyên liệu để tổng hợp androstenedione qua phân tử trung gian là dehydroepiandrosterone (DHEA).
 - Tại các nang hốc lớn, tế bào hạt của chúng sử dụng hầu hết lượng androstenedione từ tế bào vỏ cho hoạt động thơm hóa steroid, để tổng hợp estrone và estradiol. Vì thế, chúng phóng thích rất ít androgen vào máu ngoại vi.
-- Estrone là sản phẩm trực tiếp của tiến trình thơm hóa tiền chất của nó là androstenedione. Tiến trình thơm hóa diễn ra tại tế bào hạt, với sự tham gia của aromatase P450. Hoạt động thơm hóa androstenedione để tạo ra estrone chịu ảnh hưởng gián tiếp của FSH. Estrone có là 1 estrogen yếu. Estrone sẽ được chuyển đổi thuận nghịch thành estradiol.
-- Estradiol là 1 estrogen rất mạnh, quan trọng nhất trong các estrogen. Estradiol đảm nhận các chức năng trọng yếu của các cơ quan có nguồn gốc ống Müller.
+- Estrone là sản phẩm trực tiếp của tiến trình thơm hóa tiền chất của nó là androstenedione. Tiến trình thơm hóa diễn ra tại tế bào hạt, với sự tham gia của aromatase P450. Hoạt động thơm hóa androstenedione để tạo ra estrone chịu ảnh hưởng gián tiếp của FSH. Estrone có là estrogen yếu. Estrone sẽ được chuyển đổi thuận nghịch thành estradiol.
+- Estradiol là estrogen rất mạnh, quan trọng nhất trong các estrogen. Estradiol đảm nhận các chức năng trọng yếu của các cơ quan có nguồn gốc ống Müller.
 
 Estriol là sản phẩn chuyển hóa (tại gan, rau thai) của cả estrone và estradiol.
 
@@ -37,7 +37,7 @@ Sau phóng noãn, các tế bào tùy hành của noãn nang được hoàng th�
 
 Các tế bào hoàng thể tiếp tục sản xuất estradiol, đồng thời cũng sản xuất progesterone từ pregnenolone. Progesterone cùng với estradiol đảm nhận các chức năng trọng yếu của các cơ quan có nguồn gốc ống Müller.
 
-17α-hydroxy progesterone là sản phẩm chuyển hóa từ 17α-hydroxy pregnenolone. 17α-hydroxy progesterone có thể có nguồn gốc hoàng thể, nhưng nó được biết đến như là 1 progesterone có nguồn gốc thượng thận. Phân tử này là phân tử gốc của các glucocorticoids.
+17α-hydroxy progesterone là sản phẩm chuyển hóa từ 17α-hydroxy pregnenolone. 17α-hydroxy progesterone có thể có nguồn gốc hoàng thể, nhưng nó được biết đến như là progesterone có nguồn gốc thượng thận. Phân tử này là phân tử gốc của các glucocorticoids.
 
 ## Cơ chế tác động
 

@@ -14,7 +14,7 @@ Phổi của bào thai là cơ quan không có hoạt động sinh lý thực th
 
 Máu bão hòa oxygen từ hồ máu của rau sẽ theo tĩnh mạch rốn về tâm nhĩ phải. Do trở kháng cao của tiểu tuần hoàn và do sự hiện diện của lỗ bầu dục (Botal) nên máu bão hòa oxygen sẽ đi theo đường từ tâm nhĩ phải qua lỗ Botal vào tâm nhĩ trái mà không đi qua tâm thất phải và động mạch phổi để lên phổi. Lúc này phổi chỉ được nuôi dưỡng bằng nguồn máu ít ỏi đến dược nó thông qua động mạch phổi. 1 phần lượng máu qua động mạch phổi lại theo ống động mạch để quay về đại tuần hoàn.
 
-Từ tâm nhĩ trái, máu sẽ đi theo động mạch chủ để nuôi dưỡng các cơ quan của bào thai. Máu mang $CO_2$ sẽ theo tĩnh mạch rốn về rau và thực hiện trao đổi khí tại hồ máu. giường rau (placental bed) là 1 hệ thống hồ máu với các vi shunt giữa các động mạch và tĩnh mạch nhỏ tạo nên 1 hệ thống trở kháng thấp. Như vậy, tuần hoàn bào thai có các đặc điểm sau:
+Từ tâm nhĩ trái, máu sẽ đi theo động mạch chủ để nuôi dưỡng các cơ quan của bào thai. Máu mang $CO_2$ sẽ theo tĩnh mạch rốn về rau và thực hiện trao đổi khí tại hồ máu. giường rau (placental bed) là hệ thống hồ máu với các vi shunt giữa các động mạch và tĩnh mạch nhỏ tạo nên hệ thống trở kháng thấp. Như vậy, tuần hoàn bào thai có các đặc điểm sau:
 
 1. Tiểu tuần hoàn không chức năng với trở kháng cao.
 2. Tồn tại các shunt phải-trái chức năng là lỗ Botal và ống động mạch.
@@ -61,7 +61,7 @@ Nhịp tim là thông số khác của điểm APGAR, với giá trị thể hi�
 
 ## Các trẻ cần hồi sức
 
-Hầu hết trẻ sơ sinh đều khỏe mạnh khi sinh. Chỉ khoảng 10% trẻ sơ sinh là cần hỗ trợ sau sanh. Tuy nhiên, chỉ có khoảng 1% trẻ sơ sinh là cần các biện pháp hồi sức tích cực để được cứu sống. Các trẻ này sẽ cần đặt nội khí quản, ấn ngực, và/hoặc thuốc. Phải lưu ý 1 điều quan trọng là mọi trẻ sinh ra phải được đánh giá, xem xét có cần can thiệp hồi sức hay không. Các dấu hiệu cho phép nhận diện một trẻ sơ sinh bị tổn
+Hầu hết trẻ sơ sinh đều khỏe mạnh khi sinh. Chỉ khoảng 10% trẻ sơ sinh là cần hỗ trợ sau sanh. Tuy nhiên, chỉ có khoảng 1% trẻ sơ sinh là cần các biện pháp hồi sức tích cực để được cứu sống. Các trẻ này sẽ cần đặt nội khí quản, ấn ngực, và/hoặc thuốc. Phải lưu ý quan trọng là mọi trẻ sinh ra phải được đánh giá, xem xét có cần can thiệp hồi sức hay không. Các dấu hiệu cho phép nhận diện một trẻ sơ sinh bị tổn
 thương gồm:
 
 - Trương lực cơ giảm.

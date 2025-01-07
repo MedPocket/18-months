@@ -3,7 +3,7 @@ title: Chửa ở vết mổ lấy thai
 description: Chửa ở vết mổ lấy thai (Thai ở sẹo mổ lấy thai).
 ---
 
-Chửa ở vết mổ lấy thai (Thai ở sẹo mổ lấy thai) là 1 dạng thai ngoài tử cung do thai làm tổ trên sẹo cơ tử cung.
+Chửa ở vết mổ lấy thai (Thai ở sẹo mổ lấy thai) là dạng thai ngoài tử cung do thai làm tổ trên sẹo cơ tử cung.
 
 Chiếm 1/1800-1/2500 tổng số sinh. Chiếm < 1% các trường hợp thai ngoài tử cung.
 
@@ -176,7 +176,7 @@ Chỉ định thai ≤ 8 tuần.
 - Sử dụng kháng sinh ngay sau đặt foley.
 - Sau 24h rút foley và hút thai dưới siêu âm:
   - Sử dụng Karman 1 van và ống hút số 6.
-  - Chừa 1 ít mô rau ở vị trí vết mổ cũ, không cố gắng hút hết hay hút sạch vì nguy cơ tổn thương tử cung gây chảy máu.
+  - Chừa ít mô rau ở vị trí vết mổ cũ, không cố gắng hút hết hay hút sạch vì nguy cơ tổn thương tử cung gây chảy máu.
   - Thuốc co tử cung oxytocin 5 đơn vị, 2 ống tiêm bắp và Misoprostol 200mcg x 3 viên đặt trực tràng.
   - Nếu tình trạng ổn sau 48h được xuất viện điều trị ngoại trú.
 - Theo dõi ngoại trú:

@@ -35,7 +35,7 @@ Không được thực hiện khám âm đạo bằng tay vì điều này khôn
 
 #### Test Nitrazine
 
-Dựa trên cơ sở là dịch tiết của âm đạo và nước tiểu có tính acid, trong khi nước ối có tính kiềm. Giữ mẫu giấy nitrazine bằng 1 kẹp Kelly và nhúng nó vào dịch đọng lại ở lưỡi mỏ vịt. Dịch có tính kiềm (hiện diện của nước ối) sẽ được thể hiện bằng sự đổi màu của giấy thử, từ màu vàng thành màu xanh lơ.
+Dựa trên cơ sở là dịch tiết của âm đạo và nước tiểu có tính acid, trong khi nước ối có tính kiềm. Giữ mẫu giấy nitrazine bằnkẹp Kelly và nhúng nó vào dịch đọng lại ở lưỡi mỏ vịt. Dịch có tính kiềm (hiện diện của nước ối) sẽ được thể hiện bằng sự đổi màu của giấy thử, từ màu vàng thành màu xanh lơ.
 
 :::caution[Lưu ý]
 Máu và 1 số nhiễm trùng âm đạo có thể cho kết quả dương tính giả.
@@ -43,13 +43,13 @@ Máu và 1 số nhiễm trùng âm đạo có thể cho kết quả dương tín
 
 #### Test dương sỉ
 
-Test lá dương xỉ dựa trên đặc tính kết tinh tạo tinh thể hình lá dương xỉ của muối NaCl trong môi trường có mặt estrogen (dịch ối). Trải 1 ít dịch cần khảo sát lên trên 1 lam kính và để nó khô, sau đó xem dưới kinh hiển vi. Nước ối sẽ kết tinh và có thể tạo nên các cấu trúc có hình lá dương xỉ. Âm tính giả rất thường gặp.
+Test lá dương xỉ dựa trên đặc tính kết tinh tạo tinh thể hình lá dương xỉ của muối NaCl trong môi trường có mặt estrogen (dịch ối). Trải 1 ít dịch cần khảo sát lên trên lam kính và để nó khô, sau đó xem dưới kinh hiển vi. Nước ối sẽ kết tinh và có thể tạo nên các cấu trúc có hình lá dương xỉ. Âm tính giả rất thường gặp.
 
 #### Siêu âm
 
 Đánh giá lượng nước ối, ngôi thai, tăng trưởng thai.
 
-#### 1 số xét nghiệm khác
+#### Các xét nghiệm khác
 
 Công thức máu và CRP đánh giá dấu hiệu nhiễm trùng.
 
@@ -151,7 +151,7 @@ Các phương pháp chấm dứt thai kỳ:
 
 ## Nhiễm trùng ối
 
-Nhiễm trùng ối là 1 nhiễm trùng ngoại khoa. Khi có nhiễm trùng ối, buộc phải giải quyết ổ nhiễm, tức là nước ối, màng ối. Điều trị gồm có:
+Nhiễm trùng ối là nhiễm trùng ngoại khoa. Khi có nhiễm trùng ối, buộc phải giải quyết ổ nhiễm, tức là nước ối, màng ối. Điều trị gồm có:
 
 1. Kháng sinh.
 2. Chấm dứt thai kỳ.

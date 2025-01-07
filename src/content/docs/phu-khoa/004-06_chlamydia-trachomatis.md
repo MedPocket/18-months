@@ -3,7 +3,7 @@ title: Chlamydia trachomatis
 description: Chlamydia trachomatis.
 ---
 
-Nhiễm Chlamydia sinh dục - tiết niệu là 1 trong những nhiễm khuẩn lây truyền qua đường tình dục hay gặp.
+Nhiễm Chlamydia sinh dục - tiết niệu là những nhiễm khuẩn lây truyền qua đường tình dục hay gặp.
 
 ## Nguyên nhân
 
@@ -96,7 +96,7 @@ Còn triệu chứng sau hoàn thành phác đồ cần tái khám.
 
 #### Nhiễm Chlamydia sinh dục - tiết niệu không biến chứng
 
-Lựa chọn 1 trong các phác đồ ưu tiên sau:
+Lựa chọn trong các phác đồ ưu tiên sau:
 
 - Azithromycin 1g, uống liều duy nhất, hoặc
 - Doxycycline 100mg, uống 2 lần/ngày x 7 ngày.

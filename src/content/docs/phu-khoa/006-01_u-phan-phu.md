@@ -45,8 +45,8 @@ Thuật toán ước tính nguy cơ ác tính ung thư buồng trứng (ROMA val
 Mọi vấn đề liên quan đến các khối ở phần phụ đều liên quan đến các câu hỏi chính sau:
 
 - Khối ở phần phụ này có nguồn gốc từ cấu trúc nào của phần phụ?
-- Nếu là của buồng trứng thì đây là 1 cấu trúc cơ năng hay thực thể?
-- Nếu là cấu trúc thực thể thì đây là 1 cấu trúc tân lập hay không tân lập?
+- Nếu là của buồng trứng thì đây là cấu trúc cơ năng hay thực thể?
+- Nếu là cấu trúc thực thể thì đây là cấu trúc tân lập hay không tân lập?
 - Nếu là cấu trúc tân lập thì cấu trúc này là lành tính hay ác tính?
 
 Khám lâm sàng toàn bộ vùng chậu là cần thiết trong đánh giá bệnh lý phần phụ.

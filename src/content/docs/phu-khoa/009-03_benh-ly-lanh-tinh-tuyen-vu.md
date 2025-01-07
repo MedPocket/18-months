@@ -22,7 +22,7 @@ Bướu sợi-tuyến của tuyến vú thường gặp nhất ở phụ nữ 20
 không đau. Bướu có vị trí thường gặp nhất là ở 1/4 trên ngoài của vú, có dạng hình cầu, mật độ chắc, giới hạn rõ, rất di động, không dính mô xung quanh, kích thước bướu thay đổi từ
 1-5cm. Bướu thường đơn độc, ít khi có nhiều khối.
 
-Biểu hiện trên siêu âm của bướu sợi-tuyến gồm bờ đều đặn hay có múi, thành trước dày, tăng âm phía sau vừa phải, phản âm bên trong đồng nhất ở mức thấp (đôi khi dày). Trên nhũ ảnh, bướu sợi-tuyến có đặc điểm chung của 1 sang thương dạng cục đơn độc lành tính của vú: bướu hình tròn hay bầu dục, bờ đều, có thùy, không xâm lấn, thường có 1 lớp mỏng mỡ thấu quang xung quanh bướu, và hiếm khi kèm theo những thay đổi thứ phát của vú. Có khi trong mô bướu có mật độ đồng nhất có 1 vùng thấu quang, đó là mô mỡ nằm trong bướu.
+Biểu hiện trên siêu âm của bướu sợi-tuyến gồm bờ đều đặn hay có múi, thành trước dày, tăng âm phía sau vừa phải, phản âm bên trong đồng nhất ở mức thấp (đôi khi dày). Trên nhũ ảnh, bướu sợi-tuyến có đặc điểm chung của sang thương dạng cục đơn độc lành tính của vú: bướu hình tròn hay bầu dục, bờ đều, có thùy, không xâm lấn, thường có 1 lớp mỏng mỡ thấu quang xung quanh bướu, và hiếm khi kèm theo những thay đổi thứ phát của vú. Có khi trong mô bướu có mật độ đồng nhất có vùng thấu quang, đó là mô mỡ nằm trong bướu.
 
 ![Bướu sợi tuyến](../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/buou-soi-tuyen.png)
 _(Trái, trên) Siêu âm bướu sợi-tuyến. Bướu có giới hạn rõ, đồng nhất, bờ đa cung.<br>(Trái, dưới) MRI bướu sợi-tuyến. Bướu có giới hạn rõ, đồng nhất. Bên trong của bướu này có thoái hóa.<br>(Giữa) Nhũ ảnh bướu sợi-tuyến, phim MLO. Nhìn thấy 1 lớp mỡ mỏng quanh u.<br>Bướu sợi tuyến-tuyến vú trên đại thể. Đại thể: bướu có thùy và vỏ bao rõ.<br>Bướu sợi tuyến-tuyến vú trên đại thể. Mặt cắt ngang cho thấy 1 mặt cắt phồng, đồng nhất._
@@ -38,7 +38,7 @@ Bướu diệp thể gồm 3 loại: lành (60%), giáp biên (20%) và ác (20%
 Bướu thường thấy ở bệnh nhân trên 40 tuổi. Bướu thường có kích thước to, phát triển nhanh. Da trên bướu căng, bóng, mỏng. Có thể thấy giãn tĩnh mạch do bướu đè sát vào da. Loét da có thể xảy ra do căng và đè ép gây thiếu máu. Núm vú có thể bị ảnh hưởng nhưng rất ít bị xâm lấn hay co kéo. Hạch vùng nách có thể to và sờ thấy trong 20% trường hợp. Bướu diệp thể hiếm khi có di căn. Chỉ thấy có di căn trong
 khoảng 5% trường hợp.
 
-Trên siêu âm, bướu diệp thể hiện diện như là 1 khối giảm âm, giới hạn rõ, có thể có rải rác vài vùng hóa nang. Khi hình ảnh siêu âm là hình ảnh có vùng hóa nang và khe rãnh, khả năng chẩn đoán thường là bướu diệp thể. Tuy nhiên, dễ nhầm giữa bướu sợi-tuyến với bướu diệp thể lành và ác.
+Trên siêu âm, bướu diệp thể hiện diện như là khối giảm âm, giới hạn rõ, có thể có rải rác vài vùng hóa nang. Khi hình ảnh siêu âm là hình ảnh có vùng hóa nang và khe rãnh, khả năng chẩn đoán thường là bướu diệp thể. Tuy nhiên, dễ nhầm giữa bướu sợi-tuyến với bướu diệp thể lành và ác.
 
 Trên nhũ ảnh, bướu diệp thể thường là 1 khối lớn giới hạn rõ, hình tròn, bầu dục hay chia thành nhiều thùy có thể có vôi hóa.
 
@@ -57,9 +57,9 @@ Phẫu thuật đoạn nhũ nên thực hiện khi bướu quá lớn so với k
 
 Bướu nhú (còn gọi là bướu gai) trong ống dẫn sữa là tổn thương thường gặp khi có tiết dịch núm vú dạng máu hoặc huyết thanh-máu. Tần suất của tổn thương này là 60-80% khi có tiết dịch núm vú dạng máu hoặc huyết thanh-máu.
 
-Đây là 1 tổn thương lành tính, đơn độc, thường chỉ thấy ở 1 bên vú, ở trong vòng 1 cm quanh quầng vú. U phát xuất từ tế bào biểu mô của ống tuyến và tạo nên những tăng sinh dạng nhú làm căng phồng ống. Bướu nhú trong ống tuyến sẽ được phân biệt với tổn thương dạng nhú khác của vú như bệnh nhú, đa bướu nhú và đặc biệt là carcinoma dạng nhú.
+Đây là tổn thương lành tính, đơn độc, thường chỉ thấy ở 1 bên vú, ở trong vòng 1cm quanh quầng vú. U phát xuất từ tế bào biểu mô của ống tuyến và tạo nên những tăng sinh dạng nhú làm căng phồng ống. Bướu nhú trong ống tuyến sẽ được phân biệt với tổn thương dạng nhú khác của vú như bệnh nhú, đa bướu nhú và đặc biệt là carcinoma dạng nhú.
 
-Trên siêu âm, có 3 dạng hình ảnh được nhìn thấy: dạng trong ống tuyến, dạng trong nang, và dạng đặc. Nếu bướu nhú quá nhỏ, chỉ nhìn thấy được ống tuyến giãn. Hầu hết các trường hợp đều không thấy bất thường trên nhũ ảnh, trừ khi có kết hợp với 1 u có thể nhìn thấy.
+Trên siêu âm, có 3 dạng hình ảnh được nhìn thấy: dạng trong ống tuyến, dạng trong nang, và dạng đặc. Nếu bướu nhú quá nhỏ, chỉ nhìn thấy được ống tuyến giãn. Hầu hết các trường hợp đều không thấy bất thường trên nhũ ảnh, trừ khi có kết hợp với u có thể nhìn thấy.
 
 ![Bướu nhú](../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/buou-nhu.png)
 _(Trái) Sơ đồ vị trí 1 u nhú gây tiết dịch-máu ở vú 60-80% tiết dịch núm vú dạng máu này là các u nhú.<br>(Phải) Chụp cản quang ống tuyến vú với hình ảnh u nhú trong ống tuyến._
@@ -85,16 +85,17 @@ Nếu chọc hút có máu, cần phải phẫu thuật để sinh thiết.
 
 ## Bệnh Hamartoma (Fibroadenolipoma)
 
-Hamartoma có thể xảy ra ở nhiều vị trí khác nhau trên cơ thể. Hamartoma là 1 tình trạng lành tính, khu trú, tương tự như tân sinh, nằm trong mô xuất phát của Hamartoma. Các Hamartoma thường phát triển với cùng tốc độ của mô nguyên thủy mà từ đó Hamartoma xuất hiện. Hamartoma được cấu tạo bởi các thành phần giống hệt như mô xuất phát, nhưng chỉ có rối loạn về cấu trúc và phân bố. Các Hamartoma thường không có triệu chứng.
+Hamartoma có thể xảy ra ở nhiều vị trí khác nhau trên cơ thể. Hamartoma là tình trạng lành tính, khu trú, tương tự như tân sinh, nằm trong mô xuất phát của Hamartoma. Các Hamartoma thường phát triển với cùng tốc độ của mô nguyên thủy mà từ đó Hamartoma xuất hiện. Hamartoma được cấu tạo bởi các thành phần giống hệt như mô xuất phát, nhưng chỉ có rối loạn về cấu trúc và phân bố. Các Hamartoma thường không có triệu chứng.
 
 Hamartoma ở vú có cấu tạo gồm mô tuyến và sợi bao quanh bởi mô mỡ và 1 vỏ bao. Có thể nhầm lẫn với bướu sợi tuyến.
 
-Do đặc điểm trên, trên lâm sàng Hamartoma là 1 khối rất rõ. Trên nhũ ảnh, Hamartoma vú cho hình ảnh "vú trong vú" với vỏ bao mỏng bao quanh mô thấu quang và cản quang xen kẽ nhau.
+Do đặc điểm trên, trên lâm sàng Hamartoma là khối rất rõ. Trên nhũ ảnh, Hamartoma vú cho hình ảnh "vú trong vú" với vỏ bao mỏng bao quanh mô thấu quang và cản quang xen kẽ nhau.
 
 ![Nhũ ảnh của Hamartoma vú, phim LMO vú phải và phim CC](../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/benh-hamartoma.png)
 _Nhũ ảnh của Hamartoma vú, phim LMO vú phải và phim CC.<br>Vỏ bao mỏng có mô thấu quang và cản quang xen kẽ nhau, hình ảnh "Breast within Breast"._
 
 Xử trí là bằng phẫu thuật cắt bỏ u.
+
 :::caution[Lưu ý]
 Đa Hamartoma (Hamartoma cùng lúc ở nhiều cơ quan) là thành phần của hội chứng Cowden và của hội chứng BannayanRiley-Ruvalcaba, là biểu hiện của đột biến gene PTEN. Chỉ trong trường hợp có các hội chứng này, thì mới phải có chính sách tầm soát như đối tượng nguy cơ cao.
 :::
@@ -124,7 +125,7 @@ Nguyên nhân của bệnh vú thay đổi sợi bọc được cho rằng do li
 
 Thường gặp nhất ở độ tuổi 20-50.
 
-53% có thay đổi về mặt mô học. Thường thấy nhất là 1 biến thể của sự thoái triển nhu mô vú theo hướng phát triển quá mức mô sợi hoặc xơ hóa khu trú, tạo ra 2 nhóm bệnh học: (1) bệnh lí xơ hóa tuyến vú (sclerosing adenosis) và (2) tổn thương xơ phức tạp hay sẹo hình sao (complex sclerosing lesion or radial scar). Khoảng 50% bệnh nhân có thay đổi sợi bọc ở vú có biểu hiện lâm sàng, với biểu hiện đau vú 2 bên, nặng căng vú theo chu kỳ, sờ thấy khối u. Khám thấy mô vú đậm đặc hơn, cảm giác có nhiều mô nốt hoặc hạt, có thể có tiết dịch núm vú tự nhiên.
+53% có thay đổi về mặt mô học. Thường thấy nhất là biến thể của sự thoái triển nhu mô vú theo hướng phát triển quá mức mô sợi hoặc xơ hóa khu trú, tạo ra 2 nhóm bệnh học: (1) bệnh lí xơ hóa tuyến vú (sclerosing adenosis) và (2) tổn thương xơ phức tạp hay sẹo hình sao (complex sclerosing lesion or radial scar). Khoảng 50% bệnh nhân có thay đổi sợi bọc ở vú có biểu hiện lâm sàng, với biểu hiện đau vú 2 bên, nặng căng vú theo chu kỳ, sờ thấy khối u. Khám thấy mô vú đậm đặc hơn, cảm giác có nhiều mô nốt hoặc hạt, có thể có tiết dịch núm vú tự nhiên.
 
 ## Nguồn tham khảo
 

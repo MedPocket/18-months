@@ -31,7 +31,7 @@ _Trên đại thể, mặt cắt của adenomyosis không đều, do có các c�
 ![Cộng hưởng từ của adenomyosis](../../../assets/phu-khoa/lac-noi-mac-tu-cung/hinh-anh-cong-huong-tu-adenomyosis.png)
 _Adenomyosis được biểu hiện bằng các cấu trúc tuyến cho tín hiệu mạnh trên T2W (mũi tên đỏ), mô đệm cho tín hiệu yếu hơn. Các sợi cơ tăng dưỡng và tăng sản làm cho tử cung to không đều ở các mặt (mũi tên xanh lá). Có thể thấy hình ảnh các u xơ-cơ tử cung kèm theo (mũi tên xanh). Không có ranh giới với mô cơ tử cung lân cận._
 
-Tổn thương tăng dưỡng và tăng sản cơ của adenomyosis có thể là khu trú tại 1 vùng trên tử cung và tạo cho hình ảnh tương tự nhân xơ tử cung. Trong nhiều trường hợp, adenomyosis có thể kèm theo u xơ-cơ tử cung làm chẩn đoán khó khăn.
+Tổn thương tăng dưỡng và tăng sản cơ của adenomyosis có thể là khu trú tại vùng trên tử cung và tạo cho hình ảnh tương tự nhân xơ tử cung. Trong nhiều trường hợp, adenomyosis có thể kèm theo u xơ-cơ tử cung làm chẩn đoán khó khăn.
 
 Tùy theo thành phần cấu tạo chủ yếu là tuyến hay là cơ, adenomyosis sẽ có đặc tính hình ảnh học khác biệt.
 
@@ -108,7 +108,7 @@ Biểu hiện lâm sàng của adenomyosis là các biểu hiện của viêm, c
 Thống kinh là than phiền thường thấy nhất của adenomyosis. Lúc đầu là đau do viêm, sau đó là viêm thần kinh sinh mạch và cuối cùng là đau do nhạy cảm trung ương đặc điểm:
 
 - Đau thường bắt đầu ngay từ trước khi hành kinh, và kéo dài trong suốt thời gian hành kinh và không chấm dứt hoàn toàn sau khi sạch kinh. Có thể đau không có tính chu kỳ, đau sau giao hợp. Đau khu trú theo kỳ kinh tại sẹo mổ lấy thai, vùng tầng sinh môn,...
-- Đau bụng kéo dài, mức độ nặng, kèm theo tử cung to, cứng chắc, di động kém, chạm đau gợi ý tình trạng thống kinh do adenomyosis, chứ không phải 1 trường hợp đau bụng kinh thông thường.
+- Đau bụng kéo dài, mức độ nặng, kèm theo tử cung to, cứng chắc, di động kém, chạm đau gợi ý tình trạng thống kinh do adenomyosis, chứ không phải trường hợp đau bụng kinh thông thường.
 - Thống kinh trong adenomyosis khởi đầu bằng viêm, thông qua trung gian của IL-1β, của COX-2 và của PGE2.
 - Sau đó, thống kinh có xu hướng tăng nặng dần do sự hiện diện của viêm thần kinh-sinh mạch hệ quả của cường estrogen, chuyển dạng các macrophage, tân tạo mạch và sinh thần kinh hướng về tổn thương.
 - Cuối cùng, sau thời gian dài bị kích thích bởi đau, đau trong adenomyosis trở thành đau với nhạy cảm trung ương. Lúc này, kích thích nhỏ cũng đủ để gây ra tình trạng đau dữ dội.
@@ -393,7 +393,7 @@ Nếu phụ nữ bị hiếm muộn-vô sinh, có giảm dự trữ buồng tr�
 
 Không điều trị nội tiết (nội tiết tránh thai, progestins, GnRH đồng vận hoặc Danazol) ức chế chức năng buồng trứng để cải thiện điều trị hiếm muộn-vô sinh có kèm tối thiểu và nhẹ.
 
-Trong điều trị hiếm muộn có adenomyosis, GnRHa được dùng để tạo ra giai đoạn tạm ổn định để chuẩn bị cho 1 điều trị khác như chuyển phôi trong thụ tinh trong ống nghiệm. Điều trị nội khoa adenomyosis bằng GnRHa dài ngày trước trước thụ tinh trong ống nghiệm cải thiện đáng kể kết quả thành công của thụ tinh trong ống nghiệm ở những phụ nữ hiếm muộn có kèm adenomyosis.
+Trong điều trị hiếm muộn có adenomyosis, GnRHa được dùng để tạo ra giai đoạn tạm ổn định để chuẩn bị cho điều trị khác như chuyển phôi trong thụ tinh trong ống nghiệm. Điều trị nội khoa adenomyosis bằng GnRHa dài ngày trước trước thụ tinh trong ống nghiệm cải thiện đáng kể kết quả thành công của thụ tinh trong ống nghiệm ở những phụ nữ hiếm muộn có kèm adenomyosis.
 
 ### Ngoại khoa
 
@@ -403,7 +403,7 @@ Phẫu thuật chỉ có hiệu quả rõ khi người bệnh hiếm muộn-vô 
 
 Chỉ định phẫu thuật nang lạc nội mạc tử cung vào buồng trứng khi có triệu chứng chèn ép cơ quan lân cận, hoặc nghi ngờ ác tính, hoặc có yêu cầu cần thiết từ quá trình điều trị hiếm muộn-vô sinh, hỗ trợ sinh sản...
 
-Nguy cơ của phẫu thuật bóc nang lạc nội mạc tử cung: phẫu thuật không cải thiện rõ rệt khả năng có thai, nhưng có thể làm giảm dự trữ buồng trứng, làm mất cơ hội có thai, suy tuyến buồng trứng sớm... nhất là khi phẫu thuật lặp lại nhiều lần trên 1 người bệnh.
+Nguy cơ của phẫu thuật bóc nang lạc nội mạc tử cung: phẫu thuật không cải thiện rõ rệt khả năng có thai, nhưng có thể làm giảm dự trữ buồng trứng, làm mất cơ hội có thai, suy tuyến buồng trứng sớm... nhất là khi phẫu thuật lặp lại nhiều lần trên người bệnh.
 
 Nếu cần thiết phải phẫu thuật đối với nang lạc nội mạc tử cung trên người bệnh bị hiếm muộn-vô sinh, hoặc chưa đủ con... thì phẫu thuật phải được thực hiện bởi phẫu thuật viên có kinh nghiệm, tôn trọng nguyên tắc phẫu thuật thực hành nhằm hạn chế tối đa các tổn (sang) thương cho mô buồng trứng còn lại.
 

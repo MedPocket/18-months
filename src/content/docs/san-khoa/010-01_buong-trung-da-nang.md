@@ -34,13 +34,13 @@ Rối loạn phóng noãn được chẩn đoán trên lâm sàng thông qua cá
 
 #### Lâm sàng
 
-Rậm lông được xem là 1 chỉ điểm lâm sàng chính của cường androgen. Rậm lông thường ít biểu hiện ở phụ nữ gốc Đông Á so với các dân số khác.
+Rậm lông được xem là chỉ điểm lâm sàng chính của cường androgen. Rậm lông thường ít biểu hiện ở phụ nữ gốc Đông Á so với các dân số khác.
 
-Mụn trứng cá cũng được xem là 1 dấu hiệu của cường androgen, mặc dù, trong các nghiên cứu, tần suất chính xác của cường androgen ở những người bệnh có mụn trứng cá rất khác nhau, chủ yếu do chưa có sự thống nhất trong cách đánh giá mụn trứng cá.
+Mụn trứng cá cũng được xem là dấu hiệu của cường androgen, mặc dù, trong các nghiên cứu, tần suất chính xác của cường androgen ở những người bệnh có mụn trứng cá rất khác nhau, chủ yếu do chưa có sự thống nhất trong cách đánh giá mụn trứng cá.
 
-Hói đầu kiểu nam giới cũng là 1 chỉ điểm của cường androgen, nhưng lại được nghiên cứu ít hơn các dấu hiệu khác. Ngoài ra, hói đầu đơn thuần có vẻ không đủ mạnh để chẩn đoán cường androgen, ngoại trừ ở các người bệnh có rối loạn phóng noãn.
+Hói đầu kiểu nam giới cũng là hỉ điểm của cường androgen, nhưng lại được nghiên cứu ít hơn các dấu hiệu khác. Ngoài ra, hói đầu đơn thuần có vẻ không đủ mạnh để chẩn đoán cường androgen, ngoại trừ ở các người bệnh có rối loạn phóng noãn.
 
-Béo phì cũng là 1 biểu hiện lâm sàng của cường androgen, thường được đề cập ở người mắc hội chứng buồng trứng đa nang, nhất là ở khu vực Châu Âu và Mỹ. Béo phì ở người bị hội chứng buồng trứng đa nang thường theo kiểu trung tâm, được đánh giá bằng cách sử dụng chỉ số khối cơ thể (Body Mass Index - BMI), chỉ số vòng bụng hay tỉ số eo hông (Waist-hip ratio - WHR). BMI > 23 $kg/m^2$ được chẩn đoán thừa cân và > 25 $kg/m^2$ được chẩn đoán béo phì. WHR > 0.82-0.85 hay chỉ số vòng bụng > 80cm được xem là béo phì kiểu trung tâm (WHO, 2000).
+Béo phì cũng là biểu hiện lâm sàng của cường androgen, thường được đề cập ở người mắc hội chứng buồng trứng đa nang, nhất là ở khu vực Châu Âu và Mỹ. Béo phì ở người bị hội chứng buồng trứng đa nang thường theo kiểu trung tâm, được đánh giá bằng cách sử dụng chỉ số khối cơ thể (Body Mass Index - BMI), chỉ số vòng bụng hay tỉ số eo hông (Waist-hip ratio - WHR). BMI > 23 $kg/m^2$ được chẩn đoán thừa cân và > 25 $kg/m^2$ được chẩn đoán béo phì. WHR > 0.82-0.85 hay chỉ số vòng bụng > 80cm được xem là béo phì kiểu trung tâm (WHO, 2000).
 
 #### Cận lâm sàng
 
@@ -113,7 +113,7 @@ Khi điều trị rối loạn kinh nguyệt:
 
 #### Ngừa thai
 
-Những phụ nữ có hội chứng buồng trứng đa nang nhưng không mong muốn có thai không có chống chỉ định ngừa thai bằng bất kỳ biện pháp nào. Tuy nhiên, 1 vài đặc điểm của hội chứng buồng trứng đa nang như béo phì và kháng insulin có thể là chống chỉ định đối với viên tránh thai kết hợp dạng uống.
+Những phụ nữ có hội chứng buồng trứng đa nang nhưng không mong muốn có thai không có chống chỉ định ngừa thai bằng bất kỳ biện pháp nào. Tuy nhiên, vài đặc điểm của hội chứng buồng trứng đa nang như béo phì và kháng insulin có thể là chống chỉ định đối với viên tránh thai kết hợp dạng uống.
 
 ### Người bệnh mong muốn có thai
 
@@ -143,17 +143,17 @@ Liều dùng: Metformin 500mg, 3 lần/ngày trong 1 tháng Metformin 500mg, 2 l
 
 #### Chất ức chế men thơm hóa
 
-Chất ức chế men thơm hóa, chủ yếu là Letrozole, chưa được công nhận là 1 loại thuốc sử dụng cho kích thích rụng trứng và cho những người mắc hội chứng buồng trứng đa nang. Do đó, loại thuốc này không nên được sử dụng như lựa chọn đầu tay cho những người bệnh vô sinh có hội chứng buồng trứng đa nang. Sự an toàn của thuốc cho thai chưa được chứng minh.
+Chất ức chế men thơm hóa, chủ yếu là Letrozole, chưa được công nhận là loại thuốc sử dụng cho kích thích rụng trứng và cho những người mắc hội chứng buồng trứng đa nang. Do đó, loại thuốc này không nên được sử dụng như lựa chọn đầu tay cho những người bệnh vô sinh có hội chứng buồng trứng đa nang. Sự an toàn của thuốc cho thai chưa được chứng minh.
 
 #### Gây phóng noãn bằng gonadotropin
 
 Gây phóng noãn với gonadotropin được xem là lựa chọn thứ hai sau CC ở những người bệnh thất bại với CC.
 
-Phác đồ tăng liều dần (Step-up protocol): Nguyên lý của phác đồ này là sử dụng liều đầu FSH rất thấp, sau đó tăng dần để đạt được nồng độ ngưỡng FSH vừa đủ gây sự phát triển đơn noãn. Liều đầu FSH sử dụng được khuyến cáo từ 37.5-50 IU/ngày trong 14 ngày). Liều điều chỉnh bằng 1 nửa liều đang sử dụng, nghĩa là từ 25-37.5 IU/ngày trong 5 ngày. Ở người Việt Nam có BMI thấp, liều đầu có thể giảm xuống ở mức 25 IU/ngày và liều điều chỉnh là 25 IU/ngày .
+Phác đồ tăng liều dần (Step-up protocol): Nguyên lý của phác đồ này là sử dụng liều đầu FSH rất thấp, sau đó tăng dần để đạt được nồng độ ngưỡng FSH vừa đủ gây sự phát triển đơn noãn. Liều đầu FSH sử dụng được khuyến cáo từ 37.5-50 IU/ngày trong 14 ngày. Liều điều chỉnh bằng 1 nửa liều đang sử dụng, nghĩa là từ 25-37.5 IU/ngày trong 5 ngày. Ở người Việt Nam có BMI thấp, liều đầu có thể giảm xuống ở mức 25 IU/ngày và liều điều chỉnh là 25 IU/ngày.
 
 #### Nội soi đốt điểm buồng trứng đa nang
 
-Cũng là chọn lựa cho những người bệnh kháng CC. Chỉ có 1 chỉ định chính của đốt điểm buồng trứng đa nang là những người bệnh vô sinh kháng CC.
+Cũng là chọn lựa cho những người bệnh kháng CC. Chỉ có chỉ định chính của đốt điểm buồng trứng đa nang là những người bệnh vô sinh kháng CC.
 
 Đốt điểm buồng trứng đa nang không được chỉ định cho các người bệnh không đáp ứng hay đáp ứng quá nhiều với gonadotropin. Ngoài ra, đốt điểm buồng trứng đa nang cũng không được chỉ định cho các nguyên nhân ngoài vô sinh.
 

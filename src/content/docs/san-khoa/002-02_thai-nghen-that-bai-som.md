@@ -11,7 +11,7 @@ Khái niệm thai sinh hóa (biochemical pregnancy) dùng để chỉ các tình
 
 Khái niệm thai lâm sàng (clinical pregnancy) dùng để chỉ các thai kỳ được nhận diện qua khám lâm sàng hay qua khảo sát hình ảnh. Thai sinh hóa có thể tiếp tục phát triển bình thường và trở thành thai lâm sàng. Thai lâm sàng có thể tiếp tục tiến triển thành công và kết cục bằng trẻ sinh sống (live birth). Hoặc thai lâm sàng có thể gặp thất bại trong việc tiếp tục tiến triển, được gọi là thai nghén thất bại sớm. Thai lâm sàng liên quan đến phát triển phôi sau làm tổ.
 
-Khái niệm trứng trống (blighted ovum), còn gọi là trứng không phôi, chỉ sự hiện diện của 1 túi thai nhưng bên trong túi thai này không chứa phôi thai.
+Khái niệm trứng trống (blighted ovum), còn gọi là trứng không phôi, chỉ sự hiện diện của túi thai nhưng bên trong túi thai này không chứa phôi thai.
 
 Khái niệm thai ngưng phát triển sớm chỉ sự hiện diện của túi thai với phôi thai nhìn thấy trên hình ảnh, nhưng không có biểu hiện của sinh tồn trứng (vitality), tức không có tim thai.
 
@@ -37,7 +37,7 @@ không thấy hoạt động tim thai nhưng CRL chưa đủ 7 mm.
 ![Thai ngưng phát triển](../../../assets/san-khoa/thai-nghen-that-bai-som/thai-ngung-phat-trien.png)
 _Thai ngưng phát triển được xác định khi siêu âm có hình ảnh túi thai, bên trong có phôi thai với CRL ≥ 7 mm không hoạt động tim phôi. Hoạt động tim thai phải được xác nhận bằng phổ Doppler (phía dưới)._
 
-So với tiêu chuẩn theo CRL, thì tiêu chuẩn dùng để xác định trứng trống là kém rõ ràng hơn. Trong 1 thai kỳ bình thường, chỉ quan sát thấy hình ảnh của yolk-sac và của phôi vài ngày sau khi thấy hình ảnh túi thai. Do đó, hiện diện của túi thai chưa có yolk-sac hay phôi là chưa đủ mạnh để xác lập chẩn đoán trứng trống. Phải có thêm các tiêu chuẩn để hạn chế sai sót trong chẩn đoán trứng không phôi. Không được kết luận trứng trống khi không thấy hiện diện của cả yolk-sac lẫn phôi thai nhưng MSD chưa đủ 25 mm.
+So với tiêu chuẩn theo CRL, thì tiêu chuẩn dùng để xác định trứng trống là kém rõ ràng hơn. Trong thai kỳ bình thường, chỉ quan sát thấy hình ảnh của yolk-sac và của phôi vài ngày sau khi thấy hình ảnh túi thai. Do đó, hiện diện của túi thai chưa có yolk-sac hay phôi là chưa đủ mạnh để xác lập chẩn đoán trứng trống. Phải có thêm các tiêu chuẩn để hạn chế sai sót trong chẩn đoán trứng không phôi. Không được kết luận trứng trống khi không thấy hiện diện của cả yolk-sac lẫn phôi thai nhưng MSD chưa đủ 25 mm.
 
 ![Trứng trống](../../../assets/san-khoa/thai-nghen-that-bai-som/trung-trong.png)
 _Trứng trống (trứng không phôi) (blighted ovum).<br>Chẩn đoán trứng trống được xác lập khi không thấy hiện diện của cả yolk-sac lẫn phôi thai khi MSD đã đạt được kích thước ≥ 25 mm._
@@ -68,7 +68,7 @@ Thai nghén thất bại sớm có thể được phân ra:
 
 ### Thai lưu
 
-Thuật ngữ thai lưu là thuật ngữ thể hiện sự lưu lại trong buồng tử cung của 1 thai đã được xác định rằng đã ngừng phát triển.
+Thuật ngữ thai lưu là thuật ngữ thể hiện sự lưu lại trong buồng tử cung của thai đã được xác định rằng đã ngừng phát triển.
 
 :::note[Tiêu chuẩn chẩn đoán thai lưu]
 
@@ -77,7 +77,7 @@ Siêu âm xác nhận thai lưu khi:
 1. CRL ≥ 7 mm và không thấy hoạt động tim thai.
 2. MSD ≥ 25 mm và không thấy phôi thai.
 3. Không thấy phôi sau 14 ngày mà trước đó đã được siêu âm xác nhận đã có túi thai không có yolk-sac.
-4. Xác nhận tình trạng không có hoạt động tim thai sau 1 loạt siêu âm (ít nhất 2 lần, cách nhau 7-10 ngày).
+4. Xác nhận tình trạng không có hoạt động tim thai sau loạt siêu âm (ít nhất 2 lần, cách nhau 7-10 ngày).
 
 :::
 
@@ -133,9 +133,9 @@ _Cấu trúc phản âm hỗn hợp, không định dạng trong buồng tử cu
 
 ### Sảy thai trọn
 
-Thuật ngữ sẩy thai trọn thể hiện sự tống xuất các vật phẩm của thụ thai ra khỏi buồng tử cung 1 cách hoàn toàn.
+Thuật ngữ sẩy thai trọn thể hiện sự tống xuất các vật phẩm của thụ thai ra khỏi buồng tử cung hoàn toàn.
 
-Thai phụ có bệnh sử ra huyết nhiều và nhận thấy có 1 khối mô được tống xuất khỏi tử cung. Khám lâm sàng phát hiện âm đạo có thể vẫn còn ra huyết rỉ rả, cổ tử cung đóng. Siêu âm không thấy khối mô lòng tử cung hoặc chỉ thấy ít dịch lòng tử cung.
+Thai phụ có bệnh sử ra huyết nhiều và nhận thấy có khối mô được tống xuất khỏi tử cung. Khám lâm sàng phát hiện âm đạo có thể vẫn còn ra huyết rỉ rả, cổ tử cung đóng. Siêu âm không thấy khối mô lòng tử cung hoặc chỉ thấy ít dịch lòng tử cung.
 
 ![Sẩy thai trọn](../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-tron.jpeg)
 _Lòng tử cung trống hoàn toàn sau sẩy thai._

@@ -7,7 +7,7 @@ Khoảng 10% dân số phụ nữ trên 18 tuổi xác nhận rằng đã trải
 
 ## Nguyên nhân
 
-Candida sp là vi nấm hạt men, gồm có nhiều chủng khác nhau. Trong các chủng Candida sp, Candida albicans là chủng phổ biến nhất. Các chủng khác có thể thấy là Candida glabrata, Candida tropicalis, hoặc Torulopsis glabrata. Candida albicans có hiện diện trong khuẩn hệ, và được biết đến như là 1 thành phần của khuẩn hệ âm đạo bình thường.
+Candida sp là vi nấm hạt men, gồm có nhiều chủng khác nhau. Trong các chủng Candida sp, Candida albicans là chủng phổ biến nhất. Các chủng khác có thể thấy là Candida glabrata, Candida tropicalis, hoặc Torulopsis glabrata. Candida albicans có hiện diện trong khuẩn hệ, và được biết đến như là thành phần của khuẩn hệ âm đạo bình thường.
 
 Glucose và sucrose là điều kiện cần cho sự phát triển của
 Candida albicans. Chỉ trong trường hợp mà Candida albicans phát triển quá mức thì người phụ nữ mới có các biểu hiện lâm sàng của nhiễm Candida. Cơ chế mà Candida albicans từ trong điều kiện cộng sinh bình thường trong âm đạo chuyển đổi thành tác nhân gây bệnh vẫn chưa được biết rõ.
@@ -64,7 +64,7 @@ Theo CDC 2010, VVC được chia làm 2 dạng không biến chứng và có bi�
   - Triệu chứng từ nhẹ tới trung bình.
   - Nghi ngờ nhiễm Candida albicans.
   - Phụ nữ không suy giảm miễn dịch.
-- VVC được xếp vào nhóm có biến chứng khi rơi vào 1 trong các tình huống sau:
+- VVC được xếp vào nhóm có biến chứng khi rơi vào trong các tình huống sau:
   - Tái phát ≥ 4 lần/năm.
   - Triệu chứng mức độ nặng.
   - Nghi ngờ hoặc có bằng chứng nhiễm nấm không phải Candida albicans.
@@ -74,7 +74,7 @@ Theo CDC 2010, VVC được chia làm 2 dạng không biến chứng và có bi�
 
 ### Nguyên tắc điều trị
 
-Việc tự điều trị bằng thuốc không cần kê toa (tự điều trị) đối với phụ nữ có VVC có thể an toàn và hiệu quả. Tuy nhiên bất kỳ sự không đáp ứng với thuốc hoặc bị tái phát sớm sau điều trị cần phải được khám xét bởi bác sĩ lâm sàng để cho 1 chẩn đoán đáng tin cậy. Những bệnh nhân tự điều trị được khuyên ngưng thuốc 3 ngày trước khi khám lại.
+Việc tự điều trị bằng thuốc không cần kê toa (tự điều trị) đối với phụ nữ có VVC có thể an toàn và hiệu quả. Tuy nhiên bất kỳ sự không đáp ứng với thuốc hoặc bị tái phát sớm sau điều trị cần phải được khám xét bởi bác sĩ lâm sàng để cho chẩn đoán đáng tin cậy. Những bệnh nhân tự điều trị được khuyên ngưng thuốc 3 ngày trước khi khám lại.
 
 Điều trị VVC tùy thuộc trước tiên vào nhóm nhiễm nào có hay không có biến chứng.
 
@@ -88,14 +88,14 @@ lại ảnh hưởng tiêu cực đến cân bằng microbiome.
 - Các -imidazole.
 - Nystatin.
 
-Điều trị chính đối với VVC là 1 trong các loại Imidazoles tổng hợp như miconazole, clotrimazole, butoconazole, tioconazole và terconazole dạng cream hoặc viên dùng qua đường đặt âm đạo. Cụ thể:
+Điều trị chính đối với VVC là các loại Imidazoles tổng hợp như miconazole, clotrimazole, butoconazole, tioconazole và terconazole dạng cream hoặc viên dùng qua đường đặt âm đạo. Cụ thể:
 
 - Các nhóm thuốc azole đường uống có liên quan đến nguy cơ tăng men gan.
 - Liệu pháp đơn liều với 150 mg fluconazole cũng được sử dụng rộng rãi.
 - Liều thấp của fluconazole là an toàn trong thai kỳ. Ghi nhận liều cao hàng ngày của fluconazole (400-800 mg mỗi ngày) có liên quan đến khuyết tật lúc sinh.
 - Nystatin cũng được sử dụng trong thai kỳ.
 
-Mặc dù các loại kháng nấm thông dụng cho 1 tỷ lệ khỏi bệnh cao, khoảng 20-30% bệnh nhân sẽ bị tái phát sau 1 tháng điều trị. Lúc này, liệu pháp uống fluconazole mỗi tuần 1 lần trong 6 tháng có hiệu quả trong ngăn ngừa tái phát ở 50% phụ nữ. Liệu pháp thuốc đặt âm đạo mỗi tuần hoặc 2 lần 1 tuần cũng được sử dụng để phòng ngừa.
+Mặc dù các loại kháng nấm thông dụng cho tỷ lệ khỏi bệnh cao, khoảng 20-30% bệnh nhân sẽ bị tái phát sau 1 tháng điều trị. Lúc này, liệu pháp uống fluconazole mỗi tuần 1 lần trong 6 tháng có hiệu quả trong ngăn ngừa tái phát ở 50% phụ nữ. Liệu pháp thuốc đặt âm đạo mỗi tuần hoặc 2 lần 1 tuần cũng được sử dụng để phòng ngừa.
 
 Nếu bạn tình không có triệu chứng lâm sàng thì không có chỉ định điều trị cho bạn tình. Ngoại trừ điều trị theo kinh nghiệm cho bạn tình của người bị VVC tái phát nhiều lần mà không có bất cứ yếu tố nào khác được nhận diện.
 
@@ -106,13 +106,13 @@ Candida glabrata đề kháng với tất cả các -imidazoles. Khi đó có th
 VVC tái phát nhiều lần, cần tìm yếu tố nguy cơ. Trong trường hợp cần thiết, nên cấy định danh loại Candida và làm kháng sinh đồ nấm. Bệnh nhân bị tái phát thường xuyên nên cẩn thận đánh giá các yếu tố nguy cơ như đái tháo đường hoặc suy giảm
 miễn dịch.
 
-Liệu pháp dự phòng tại chỗ với 1 thuốc kháng nấm nên được xem xét khi bệnh nhân đang dùng kháng sinh toàn thân. Việc điều trị phòng ngừa với fluconazole 150 mg 1 viên mỗi tuần trong 6 tháng có thể giúp đỡ hạn chế tái phát.
+Liệu pháp dự phòng tại chỗ với thuốc kháng nấm nên được xem xét khi bệnh nhân đang dùng kháng sinh toàn thân. Việc điều trị phòng ngừa với fluconazole 150 mg 1 viên mỗi tuần trong 6 tháng có thể giúp đỡ hạn chế tái phát.
 
 #### Điều trị hệ vi khuẩn âm đạo
 
 Tác dụng của điều trị Probiotics không được chứng minh. Các điều trị với probiotics chỉ được dùng theo kinh nghiệm cho những trường hợp VVC có biến chứng.
 
-Tuy nhiên, 1 trong các nguyên nhân của VVC có biến chứng là suy yếu hệ thống miễn dịch, mà vấn đề này lại là 1 chống chỉ định của điều trị với probiotics.
+Tuy nhiên, trong các nguyên nhân của VVC có biến chứng là suy yếu hệ thống miễn dịch, mà vấn đề này lại là chống chỉ định của điều trị với probiotics.
 
 ![Thuốc kháng nấm](../../../assets/phu-khoa/viem-am-dao-do-nam/thuoc-khang-nam.png)
 

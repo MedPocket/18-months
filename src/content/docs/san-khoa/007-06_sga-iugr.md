@@ -11,7 +11,7 @@ Thai nhỏ so với tuổi thai (Small-for-Gestational Age - SGA) và thai với
 
 Các thai nhi với kích cỡ nhỏ hơn bình thường được phân ra các nhóm khác nhau:
 
-1. Thai nhỏ nhưng là 1 thai bình thường (constitutionally).
+1. Thai nhỏ nhưng là thai bình thường (constitutionally).
 2. Thai với tăng trưởng trong tử cung bị giới hạn không do nguyên nhân rau thai như bất thường nhiễm sắc thể, bất thường chuyển hóa hay nhiễm trùng bào thai.
 3. Thai với tăng trưởng trong tử cung bị giới hạn do nguyên nhân trao đổi qua rau bất thường.
 
@@ -99,7 +99,7 @@ Thiết lập chẩn đoán IUGR bao gồm 3 nội dung:
 Điều kiện thiết yếu để đảm bảo tính tin cậy của việc xác định 1 thai nhỏ gồm 2 vấn đề:
 
 1. Phải biết rõ các thông tin về tuổi thai.
-2. Phải có 1 biểu đồ tăng trưởng từ 1 dân số phù hợp.
+2. Phải có biểu đồ tăng trưởng từ dân số phù hợp.
 
 ### IUGR trong song thai
 

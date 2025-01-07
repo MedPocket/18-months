@@ -9,13 +9,13 @@ Khung chậu được cấu tạo bởi 4 xương: phía trước và 2 bên là
 
 Tiểu khung là phần quan trọng nhất vì ngôi thai phải vượt qua tiểu khung để đi ra ngoài qua ngã âm đạo. Trên đoạn đường đi từ trong ra ngoài này, thai nhi phải lần lượt vượt qua các vòng eo hẹp, có thể được cấu tạo bằng xương, hay bằng xương và cân-cơ, đó là eo trên, eo giữa và eo dưới.
 
-Khi nhìn ngang, lòng tiểu khung có dạng 1 ống cong về phía trước với 2 thành trước và sau không đều nhau. Thành trước ngắn khoảng 4 cm tương ứng với măt sau khớp vệ. Thành sau dài 12-15 cm tương ứng mặt trước xương cùng và xương cụt.
+Khi nhìn ngang, lòng tiểu khung có dạng ống cong về phía trước với 2 thành trước và sau không đều nhau. Thành trước ngắn khoảng 4 cm tương ứng với măt sau khớp vệ. Thành sau dài 12-15 cm tương ứng mặt trước xương cùng và xương cụt.
 
 Khi ngôi thai đi qua eo trên gọi là thì lọt, đi từ eo trên đến eo dưới thì gọi là thì xuống; ra khỏi eo dưới gọi là thì sổ.
 
 ## Eo trên
 
-Eo trên được giới hạn ở phía sau là mỏm nhô của xương cùng, ở 2 bên là 2 đường vô danh của 2 xương cánh chậu, ở phía trước là mặt sau của khớp vệ. Như vậy, eo trên là 1 vòng xương cứng, có số đo bất biến trong chuyển dạ.
+Eo trên được giới hạn ở phía sau là mỏm nhô của xương cùng, ở 2 bên là 2 đường vô danh của 2 xương cánh chậu, ở phía trước là mặt sau của khớp vệ. Như vậy, eo trên là vòng xương cứng, có số đo bất biến trong chuyển dạ.
 
 Kích thước của eo trên được thể hiện qua các đường kính (diameter). Các đường kính quan trọng là đường kính trước-sau, đường kính chéo, đường kính ngang hữu dụng:
 
@@ -33,11 +33,11 @@ _Các đường kính eo trên._
 
 ## Eo giữa
 
-Eo giữa là mặt phẳng tưởng tượng được dựng bằng 1 điểm là mặt sau của khớp vệ, và 2 điểm khác là 2 gai hông. Mặt phẳng tưởng tượng này sẽ cắt mặt trước của xương cùng khoảng giữa đốt sống S4 và S5.
+Eo giữa là mặt phẳng tưởng tượng được dựng bằng điểm là mặt sau của khớp vệ, và 2 điểm khác là 2 gai hông. Mặt phẳng tưởng tượng này sẽ cắt mặt trước của xương cùng khoảng giữa đốt sống S4 và S5.
 
-Xương cùng có dạng cong, và tạo ra 1 hõm trước xương cùng. Hõm này tạo ra 1 khúc quanh, như "khúc cua cùi chỏ trên đèo" mà thai phải vượt qua. Ở hõm này, ngôi sẽ phải xoay sở để có thể đi tiếp qua khúc quanh.
+Xương cùng có dạng cong, và tạo ra hõm trước xương cùng. Hõm này tạo ra khúc quanh, như "khúc cua cùi chỏ trên đèo" mà thai phải vượt qua. Ở hõm này, ngôi sẽ phải xoay sở để có thể đi tiếp qua khúc quanh.
 
-Eo giữa có cấu tạo phía sau là 1 vách xương cứng. 2 bên là 2 gai hông, tạo ra điểm nhô hẳn vào lòng của eo giữa và thắt hẹp eo này. Phần còn lại là các cơ-mạc.
+Eo giữa có cấu tạo phía sau là vách xương cứng. 2 bên là 2 gai hông, tạo ra điểm nhô hẳn vào lòng của eo giữa và thắt hẹp eo này. Phần còn lại là các cơ-mạc.
 
 Do các đặc điểm vừa kể nên khi nói đến eo giữa, ta thường nói đến đường kính ngang và độ cong xương cùng:
 
@@ -54,7 +54,7 @@ _Tiểu khung trên thiết đồ đứng dọc._
 Eo dưới tạo bởi 2 tam giác không đồng phẳng, 1 bằng xương ở phía trước và 1 bằng cân-cơ-màng ở phía sau:
 
 1. Tam giác xương ở phía trước được tạo bởi bờ dưới khớp vệ và 2 bên là 2 nhánh tọa của xương chậu.
-2. Tam giác cân-cơ-màng ở phía sau có đáy là 2 ụ ngồi, và đỉnh là đỉnh xương cụt. Dây chằng tọa-cùng được xem như 2 cạnh bên của tam giác sau của eo dưới. Do khớp cùng-cụt là 1 khớp bán động nên đỉnh xương cụt có thể bị đẩy ra sau khi ngôi thai đi ngang qua đó, nên kích thước của tam giác sau là có thể biến đổi trong cuộc sinh.
+2. Tam giác cân-cơ-màng ở phía sau có đáy là 2 ụ ngồi, và đỉnh là đỉnh xương cụt. Dây chằng tọa-cùng được xem như 2 cạnh bên của tam giác sau của eo dưới. Do khớp cùng-cụt là khớp bán động nên đỉnh xương cụt có thể bị đẩy ra sau khi ngôi thai đi ngang qua đó, nên kích thước của tam giác sau là có thể biến đổi trong cuộc sinh.
 
 Do đặc tính không đồng phẳng, cấu tạo cứng ở phía trước và cân mạc phía sau, nên trong đa số các trường hợp, eo dưới không phải là trở ngại thực sự trên đường sinh:
 
@@ -68,7 +68,7 @@ Trên lâm sàng, khám khung chậu cung cấp ý niệm về đường sinh (g
 Khám khung chậu được tiến hành khi sản phụ bắt đầu có dấu hiệu chuyển dạ sinh hay khi thai đã đủ trưởng thành.
 
 - Các đường kính có thể đo đạc được gồm: (1) đường kính mỏm nhô-hạ vệ: đo được bằng thước Beaudelocque, (2) đường kính ngang eo giữa: đo được bằng thước De Lee và (3) đường kính ngang eo dưới đo được bằng thước dây hay thước Beaudelocque.
-- Các đường kính có thể khám và đánh giá được gồm: (1) đường kính ngang eo trên: cảm nhận qua độ dài của phần gờ vô danh sờ thấy được, bình thường chỉ sờ được khoảng 1/2 của gờ vô danh, (2) độ cong xương cùng chỉ có thể cảm nhận 1 cách tương đối, và (3) độ rộng hẹp của góc tạo bởi 2 ngành ngồi-mu.
+- Các đường kính có thể khám và đánh giá được gồm: (1) đường kính ngang eo trên: cảm nhận qua độ dài của phần gờ vô danh sờ thấy được, bình thường chỉ sờ được khoảng 1/2 của gờ vô danh, (2) độ cong xương cùng chỉ có thể cảm nhận tương đối, và (3) độ rộng hẹp của góc tạo bởi 2 ngành ngồi-mu.
 
 Quang kích chậu phương pháp dùng X-quang để đo đạc các kích thước của khung chậu, nhằm có được trị số chính xác của các đường kính khung chậu.
 
