@@ -76,7 +76,7 @@ Chỉ định MRI khi siêu âm không phù hợp với lâm sàng hoặc/và si
 Cần chuẩn bị kỹ trước mổ:
 
 - Khi có chẩn đoán nghi ngờ cần tư vấn cho sản phụ và người nhà nguy cơ, phương pháp mổ và các nguy cơ như con non tháng, băng huyết sau sinh, truyền máu, cắt tử cung, nhiễm trùng, chăm sóc đặc biệt do tổn thương đường niệu, ruột, phẫu thuật nhiều lần, thậm chí tử vong mẹ.
-- Điều trị thiếu máu, thiếu sắt (nếu có). Duy trì Hb>11 g/dL trước phẫu thuật (trừ cấp cứu).
+- Điều trị thiếu máu, thiếu sắt (nếu có). Duy trì Hb>11g/dL trước phẫu thuật (trừ cấp cứu).
 - Liệu pháp Corticosteroids trước sinh từ 28-33 tuần 6 ngày.
 - Tùy vòa tình trạng người bệnh xác định thời điểm nhập viện (tối thiểu 1 tuần trước thời điểm chấm dứt thai kỳ).
 - Điều trị tại cơ sở y tế đầy đủ phương tiện hồi sức mẹ và sơ sinh, ngân hàng máu.

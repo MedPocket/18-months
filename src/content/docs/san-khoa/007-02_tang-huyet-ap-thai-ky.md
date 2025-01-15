@@ -388,8 +388,8 @@ Cách dùng: Truyền tĩnh mạch, tiêm tĩnh mạch hoặc tiêm bắp (ít d
 Liều dùng:
 
 - Liều tấn công: 4.5 g (4-6 g) $MgSO_4$ 15%/50 mL tiêm tĩnh mạch chậm.
-- Liều duy trì 1g/h (1-2 g/h) truyền tĩnh mạch:
-- Liều duy trì 1g/h (1-2 g/h) truyền tĩnh mạch:
+- Liều duy trì 1g/h (1-2g/h) truyền tĩnh mạch:
+- Liều duy trì 1g/h (1-2g/h) truyền tĩnh mạch:
   - Pha 6 g $MgSO_4$ 15% vào chai Glucose 5% 500 mL truyền tĩnh mạch XXX giọt/phút hoặc
   - Bơm tiêm điện pha 6 g $MgSO_4$ 15% bơm tiêm điện 6.7 mL/h.
   - Bơm tiêm điện pha 6 g $MgSO_4$ 15% bơm tiêm điện 6.7 mL/h.
@@ -399,11 +399,11 @@ Liều dùng:
 - Luôn chú ý đến dấu ngộ độc $MgSO_4$ khi dùng. Trong điều trị, phải duy trì nồng độ ion $Mg^{2+}$ đạt ngưỡng điều trị, nhưng thấp hơn ngưỡng ngộ độc.
   ![Nồng độ MgSO4](../../../assets/san-khoa/tang-huyet-ap-thai-ky/nong-do-mgso4.png)
 - Theo dõi phản xạ gân xương, nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4h). Khi nồng độ $Mg^{2+}$ bắt đầu vượt ngưỡng điều trị, dấu hiệu mất phản xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cần theo dõi phản xạ gân xương bánh chè như chỉ báo là nồng độ $Mg^{2+}$ đã vượt ngưỡng điều trị và cần phải ngưng ngay việc dùng thêm $MgSO_4$.
-- Đo nồng độ $MgSO_4$ huyết thanh khi cần thiết và điều chỉnh giữ nồng độ $MgSO_4$ 4-7 mEg/L (5-9 mg/dL; 2-3.5 mmol/L).
-- Người bệnh suy thận mức độ trung bình (Creatinine 1-1.5 mg/dL) hoặc thiểu niệu (< 30 mL nước tiểu/h trong 4h) sau khi dùng liều tấn công cần duy trì liều thấp 1 g/h.
+- Đo nồng độ $MgSO_4$ huyết thanh khi cần thiết và điều chỉnh giữ nồng độ $MgSO_4$ 4-7 mEg/L (5-9 mg/dL; 2-3.5mmol/L).
+- Người bệnh suy thận mức độ trung bình (Creatinine 1-1.5 mg/dL) hoặc thiểu niệu (< 30 mL nước tiểu/h trong 4h) sau khi dùng liều tấn công cần duy trì liều thấp 1g/h.
 - Người suy thận cần định lượng $MgSO_4$ huyết thanh mỗi 4h, nếu $MgSO_4$ huyết thanh>9.6 mg/dL (8 mEg/L) cần ngưng truyền và định lượng $MgSO_4$ mỗi 2h, tái dùng khi $MgSO_4$<8.4 mg/dL (7 mEq/L).
 - Khi có chỉ định $MgSO_4$ cần dùng trước, trong và duy trì tối thiểu 24h sau sinh/mổ, nếu chỉ định mổ lấy thai cần duy trì $MgSO_4$ trong lúc mổ.
-- Người bệnh suy thận mức độ trung bình (Creatinine 1-1.5 mg/dL) hoặc thiểu niệu (< 30 mL nước tiểu/h trong 4h) sau khi dùng liều tấn công cần duy trì liều thấp 1 g/h.
+- Người bệnh suy thận mức độ trung bình (Creatinine 1-1.5 mg/dL) hoặc thiểu niệu (< 30 mL nước tiểu/h trong 4h) sau khi dùng liều tấn công cần duy trì liều thấp 1g/h.
 - Người suy thận cần định lượng $MgSO_4$ huyết thanh mỗi 4h, nếu $MgSO_4$ huyết thanh>9.6 mg/dL (8 mEg/L) cần ngưng truyền và định lượng $MgSO_4$ mỗi 2h, tái dùng khi $MgSO_4$<8.4 mg/dL (7 mEq/L).
 - Khi có chỉ định $MgSO_4$ cần dùng trước, trong và duy trì tối thiểu 24h sau sinh/mổ, nếu chỉ định mổ lấy thai cần duy trì $MgSO_4$ trong lúc mổ.
 - Nguy cơ băng huyết sau sinh, giảm dao động nội tại tim thai.
