@@ -98,8 +98,8 @@ Nhiễm trùng nhẹ:
 
 Nhiễm trùng nặng:
 
-- Vancomycin (15 mg/kg truyền tĩnh mạch mỗi 12 giờ).
-- Có thể phối hợp Cephalosporin thế hệ 3 hoặc beta-lactam/chất ức chế beta-lactamase).
+- Vancomycin (15 mg/kg truyền tĩnh mạch mỗi 12h).
+- Có thể phối hợp Cephalosporin thế hệ 3 hoặc beta-lactam/chất ức chế beta-lactamase.
 
 :::caution[Lưu ý]
 Cloxacillin có thể gây viêm gan, vàng da ứ mật, nhưng có thể xuất hiện chậm. Chỉ dùng Cloxacillin trong thời kỳ mang thai khi thật cần thiết. Cloxacillin phân bố vào sữa mẹ, thận trọng khi dùng cho phụ nữ cho con bú.
@@ -113,11 +113,11 @@ Amoxicillin an toàn cho các bà mẹ đang nuôi con bằng sữa mẹ.
 
 ### Ngoại khoa
 
-Đường kính ổ áp xe < 3 cm chọc hút bằng kim 18-19G + Bơm rửa bằng NaCl 0.9% dưới hướng dẫn của siêu âm. Chọc hút tối đa 3 lần. Nếu không đáp ứng rạch dẫn lưu.
+Đường kính ổ áp xe<3 cm chọc hút bằng kim 18-19G + Bơm rửa bằng NaCl 0.9% dưới hướng dẫn của siêu âm. Chọc hút tối đa 3 lần. Nếu không đáp ứng rạch dẫn lưu.
 
 Đường kính ổ áp xe từ 3-5 cm chọc hút + dẫn lưu bằng catheter dưới hướng dẫn của siêu âm.
 
-Đường kính > 5 cm rạch dẫn lưu.
+Đường kính>5 cm rạch dẫn lưu.
 
 ## Theo dõi
 

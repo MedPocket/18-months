@@ -23,10 +23,10 @@ Cận lâm sàng soi dịch âm đạo thấy tế bào trung gian.
 Tại chỗ:
 
 - Cream Estrogen bôi âm đạo, hoặc
-- Estriol 0.5mg đặt âm đạo 1 viên/đêm x 20 đêm
-- Promestriene 10mg đặt âm đạo 1 viên/ngày x 20 ngày
-- Cream Promestriene bôi âm hộ, âm đạo 1 lần/ngày x 2 tuần.
-- Chlorquinaldol + Promestriene (200mg + 10mg) đặt âm đạo 1 viên/ngày x 18 ngày.
+- Estriol 0.5mg đặt âm đạo x 1 viên/đêm x 20 đêm
+- Promestriene 10mg đặt âm đạo x 1 viên/ngày x 20 ngày
+- Cream Promestriene bôi âm hộ, âm đạo x 1 lần/ngày x 2 tuần.
+- Chlorquinaldol + Promestriene (200mg + 10mg) đặt âm đạo x 1 viên/ngày x 18 ngày.
 
 Kháng sinh thích hợp.
 

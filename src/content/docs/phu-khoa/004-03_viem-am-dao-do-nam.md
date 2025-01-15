@@ -9,8 +9,7 @@ Khoảng 10% dân số phụ nữ trên 18 tuổi xác nhận rằng đã trải
 
 Candida sp là vi nấm hạt men, gồm có nhiều chủng khác nhau. Trong các chủng Candida sp, Candida albicans là chủng phổ biến nhất. Các chủng khác có thể thấy là Candida glabrata, Candida tropicalis, hoặc Torulopsis glabrata. Candida albicans có hiện diện trong khuẩn hệ, và được biết đến như là thành phần của khuẩn hệ âm đạo bình thường.
 
-Glucose và sucrose là điều kiện cần cho sự phát triển của
-Candida albicans. Chỉ trong trường hợp mà Candida albicans phát triển quá mức thì người phụ nữ mới có các biểu hiện lâm sàng của nhiễm Candida. Cơ chế mà Candida albicans từ trong điều kiện cộng sinh bình thường trong âm đạo chuyển đổi thành tác nhân gây bệnh vẫn chưa được biết rõ.
+Glucose và sucrose là điều kiện cần cho sự phát triển của Candida albicans. Chỉ trong trường hợp mà Candida albicans phát triển quá mức thì người phụ nữ mới có các biểu hiện lâm sàng của nhiễm Candida. Cơ chế mà Candida albicans từ trong điều kiện cộng sinh bình thường trong âm đạo chuyển đổi thành tác nhân gây bệnh vẫn chưa được biết rõ.
 
 ## Yếu tố nguy cơ
 
@@ -106,7 +105,7 @@ Candida glabrata đề kháng với tất cả các -imidazoles. Khi đó có th
 VVC tái phát nhiều lần, cần tìm yếu tố nguy cơ. Trong trường hợp cần thiết, nên cấy định danh loại Candida và làm kháng sinh đồ nấm. Bệnh nhân bị tái phát thường xuyên nên cẩn thận đánh giá các yếu tố nguy cơ như đái tháo đường hoặc suy giảm
 miễn dịch.
 
-Liệu pháp dự phòng tại chỗ với thuốc kháng nấm nên được xem xét khi bệnh nhân đang dùng kháng sinh toàn thân. Việc điều trị phòng ngừa với fluconazole 150 mg 1 viên mỗi tuần trong 6 tháng có thể giúp đỡ hạn chế tái phát.
+Liệu pháp dự phòng tại chỗ với thuốc kháng nấm nên được xem xét khi bệnh nhân đang dùng kháng sinh toàn thân. Việc điều trị phòng ngừa với fluconazole 150 mg x 1 viên mỗi tuần trong 6 tháng có thể giúp đỡ hạn chế tái phát.
 
 #### Điều trị hệ vi khuẩn âm đạo
 
@@ -120,18 +119,18 @@ Tuy nhiên, trong các nguyên nhân của VVC có biến chứng là suy yếu 
 
 Thuốc đặt âm đạo:
 
-- Nystatin 100.000 đơn vị đặt âm đạo 1 viên/ngày x 14 ngày, hoặc
-- Metronidazole hay Clotrimazole 100mg đặt âm đạo 1 viên/ngày x 7 ngày, hoặc
-- Metronidazole hay Clotrimazole 200mg đặt âm đạo 1 viên/ngày x 3 ngày, hoặc
-- Clotrimazole 500mg đặt âm đạo 1 viên duy nhất, hoặc
-- Econazole 150mg đặt âm đạo 1 viên/ngày x 3 ngày, hoặc
-- Econazole nitrate 150mg (vi hạt) đặt âm đạo 1 viên/12h x 1 ngày, hoặc
-- Metronidazole 1200mg đặt âm đạo 1 viên duy nhất.
+- Nystatin 100.000 đơn vị đặt âm đạo x 1 viên/ngày x 14 ngày, hoặc
+- Metronidazole hay Clotrimazole 100mg đặt âm đạo x 1 viên/ngày x 7 ngày, hoặc
+- Metronidazole hay Clotrimazole 200mg đặt âm đạo x 1 viên/ngày x 3 ngày, hoặc
+- Clotrimazole 500mg đặt âm đạo x 1 viên duy nhất, hoặc
+- Econazole 150mg đặt âm đạo x 1 viên/ngày x 3 ngày, hoặc
+- Econazole nitrate 150mg (vi hạt) đặt âm đạo x 1 viên/12h x 1 ngày, hoặc
+- Metronidazole 1200mg đặt âm đạo x 1 viên duy nhất.
 
 Thuốc uống:
 
-- Fluconazole 150mg uống 1 viên duy nhất, hoặc
-- Itraconazole 100mg uống 2 viên/ngày x 3 ngày.
+- Fluconazole 150mg uống x 1 viên duy nhất, hoặc
+- Itraconazole 100mg uống x 2 viên/ngày x 3 ngày.
 
 Thuốc bôi:
 

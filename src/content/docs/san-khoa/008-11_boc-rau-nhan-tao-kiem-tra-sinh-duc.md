@@ -17,7 +17,7 @@ Chờ rau bong hoàn toàn, tuy nhiên nhiều trường hợp cần bóc rau nh
 
 ### Chỉ định
 
-Rau chưa sổ mà mất > 300g máu.
+Rau chưa sổ mà mất>300g máu.
 
 Quá 30 phút kể từ khi sổ thai mà rau chưa bong.
 
@@ -44,7 +44,7 @@ Dụng cụ:
 
 Thuốc:
 
-- Atropin 0.25mg 1 ống tiêm dưới da hay tiêm tĩnh mạch chậm phòng ngừa shock vagal.
+- Atropin 0.25mg x 1 ống tiêm dưới da hay tiêm tĩnh mạch chậm phòng ngừa shock vagal.
 - Thuốc giảm đau: Dolargan 100mg x 1/2 ống tiêm tĩnh mạch chậm, Morphin 100mg x 1 ống tiêm bắp, Seduxen 10mg x 1 ống tiêm bắp.
 
 BN nằm tư thế sản khoa đầu hơi cao.
@@ -150,7 +150,7 @@ BN nằm tư thế sản khoa. Sát trùng âm đạo. Trải săng vô khuẩn.
 
 Dùng kìm hình tim vị trí 12h làm mốc. Kìm thứ 2 kẹp vị trí 1-2h và kiểm tra giữa 2 kìm này xem có rách, có chảy máu gì không? Kế tiếp dùng kìm hình tim thứ 3 kẹp vị trí 3-4h và kiểm tra giữa kìm thứ 2 và 3. Tháo kìm thứ 2, di chuyển tới vị trí 5-6h, lại kiểm tra giữa 2 kìm này. Cứ làm như vậy theo chiều kim đồng hồ đến khi về vị trí 12h thì ngưng. Trong khi làm người phụ xoay valve sao cho thấy rõ vùng đang kiểm tra.
 
-Các vết rách < 2cm được xem là điều khó tránh khi sinh. Các vết rách thế lành nhanh và khi lành làm biến đổi hình dạng cổ tử cung.
+Các vết rách<2cm được xem là điều khó tránh khi sinh. Các vết rách thế lành nhanh và khi lành làm biến đổi hình dạng cổ tử cung.
 
 Rách cổ thường ở vị trí 3h và 9h vì vùng này ít mô xơ và mô sợi.
 

@@ -43,14 +43,14 @@ Không đặc hiệu:
 Tam cá nguyệt thứ nhất, có 1 số dấu hiệu tùy từng giai đoạn sớm (6-9 tuần) hoặc muộn (11-14 tuần):
 
 - Túi thai bám thấp được định nghĩa là túi rau làm tổ đoạn dưới tử cung, trong hay gần khuyết sẹo mổ lấy thai.
-- Túi thai nằm thấp và làm tổ ở thành trước đoạn dưới tử cung, cơ tử cung đoạn dưới thành trước mỏng < 3mm so với thành sau.
+- Túi thai nằm thấp và làm tổ ở thành trước đoạn dưới tử cung, cơ tử cung đoạn dưới thành trước mỏng<3mm so với thành sau.
 - Ở giai đoạn muộn, thai bám sẹo mổ lấy thai có xu hướng di chuyển lên đáy tử cung nên dấu hiệu túi thai bám thấp không còn nhưng vẫn còn ở khuyết sẹo mổ lấy thai.
 
 Tam cá nguyệt thứ 2 siêu âm ngả bụng và đường âm đạo. Siêu âm ngả bụng cần có 1 phần nước tiểu:
 
 - Lacunae: bánh rau có nhiều xoang mạch máu đa hình nên hình ảnh bánh rau không đồng nhất, có dạng "moth-eaten".
 - Cơ tử cung vùng đoạn dưới vết mổ cũ mỏng hoặc biến mất và được thay thế bằng mạch máu tăng sinh.
-- Bất thường mặt phân cách tử cung - rau: mất đường echo kém ranh giới giữa cơ tử cung và bánh rau, cơ tử cung vùng sau rau mỏng < 1mm.
+- Bất thường mặt phân cách tử cung - rau: mất đường echo kém ranh giới giữa cơ tử cung và bánh rau, cơ tử cung vùng sau rau mỏng<1mm.
 - Thành bàng quang mất liên tục do sự xâm lấn của chồi rau và mạch máu tăng sinh.
 - Bất thường bờ tử cung - lồi rau, mô rau xâm lấn làm cơ tử cung yếu và bờ ngoài tử cung bị biến dạng tạo thành hình lồi rau ("placetal bulge"), thanh mạc tử cung và bàng quang nguyên vẹn.
 - Chồi rau, mô rau phá vỡ lớp thanh mạc tử cung và xâm lấn ra ngoài, đặc hiệu thể perceta.
@@ -76,7 +76,7 @@ Chỉ định MRI khi siêu âm không phù hợp với lâm sàng hoặc/và si
 Cần chuẩn bị kỹ trước mổ:
 
 - Khi có chẩn đoán nghi ngờ cần tư vấn cho sản phụ và người nhà nguy cơ, phương pháp mổ và các nguy cơ như con non tháng, băng huyết sau sinh, truyền máu, cắt tử cung, nhiễm trùng, chăm sóc đặc biệt do tổn thương đường niệu, ruột, phẫu thuật nhiều lần, thậm chí tử vong mẹ.
-- Điều trị thiếu máu, thiếu sắt (nếu có). Duy trì Hb > 11 g/dL trước phẫu thuật (trừ cấp cứu).
+- Điều trị thiếu máu, thiếu sắt (nếu có). Duy trì Hb>11g/dL trước phẫu thuật (trừ cấp cứu).
 - Liệu pháp Corticosteroids trước sinh từ 28-33 tuần 6 ngày.
 - Tùy vòa tình trạng người bệnh xác định thời điểm nhập viện (tối thiểu 1 tuần trước thời điểm chấm dứt thai kỳ).
 - Điều trị tại cơ sở y tế đầy đủ phương tiện hồi sức mẹ và sơ sinh, ngân hàng máu.

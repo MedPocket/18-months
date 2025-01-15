@@ -7,12 +7,14 @@ Hậu quả của chuyển dạ kéo dài rất nặng nề. Hầu hết các bi
 
 ## Chuyển dạ kéo dài
 
-Chuyển dạ kéo dài được hiểu là chuyển dạ kéo dài trên 24 giờ. Chuyển dạ giai đoạn hoạt động trên 12 giờ là kéo dài.
+Chuyển dạ kéo dài được hiểu là chuyển dạ kéo dài trên 24h. Chuyển dạ giai đoạn hoạt động trên 12h là kéo dài.
+Chuyển dạ kéo dài được hiểu là chuyển dạ kéo dài trên 24h. Chuyển dạ giai đoạn hoạt động trên 12h là kéo dài.
 
 Do giai đoạn xóa mở cổ tử cung của chuyển dạ gồm 2 giai đoạn liên tiếp, nên có thể phân biệt:
 
 1. Chuyển dạ giai đoạn tiềm thời kéo dài: thường khó xác định, do khó biết được khởi đầu của chuyển dạ.
-2. Chuyển dạ giai đoạn hoạt động kéo dài: khi độ dài của giai đoạn hoạt động kéo dài trên 12 giờ.
+2. Chuyển dạ giai đoạn hoạt động kéo dài: khi độ dài của giai đoạn hoạt động kéo dài trên 12h.
+2. Chuyển dạ giai đoạn hoạt động kéo dài: khi độ dài của giai đoạn hoạt động kéo dài trên 12h.
 
 Có 3 yếu tố gây bất thường trong chuyển dạ 3P:
 
@@ -68,7 +70,7 @@ Cơn co tử cung với tần số và cường độ cao, kèm theo tăng trư�
 
 Dọa vỡ tử cung là đỉnh điểm của hội chứng vượt trở ngại, xảy ra ngay trước khi thành tử cung bị xé toạc do thai phải tìm được lối ra khỏi ống sinh bị tắc nghẽn.
 
-Trong nhiều trường hợp, tử cung co thắt mãnh liệt. Cơ tử cung ở vùng thân càng lúc càng dầy thêm, trong khi đoạn dưới bị kéo dài và trở nên mỏng quá mức. Tử cung có thắt mạnh với lớp cơ dầy làm đáy tử cung bị dịch lên cao, căng kéo hai dây chằng tròn (dấu hiệu Frommel). Ranh giới giữa vùng thân và vùng đoạn dưới trở nên rõ rệt, có hình dạng như 1 vòng thắt tạo cho tử cung có dạng quả bầu (vòng Bandl).
+Trong nhiều trường hợp, tử cung co thắt mãnh liệt. Cơ tử cung ở vùng thân càng lúc càng dầy thêm, trong khi đoạn dưới bị kéo dài và trở nên mỏng quá mức. Tử cung có thắt mạnh với lớp cơ dầy làm đáy tử cung bị dịch lên cao, căng kéo hai dây chằng tròn (dấu hiệu Frommel). Ranh giới giữa vùng thân và vùng đoạn dưới trở nên rõ rệt, có hình dạng như vòng thắt tạo cho tử cung có dạng quả bầu (vòng Bandl).
 
 :::note[Chẩn đoán dọa vỡ tử cung]
 Bộ các triệu chứng gồm:
@@ -111,16 +113,19 @@ _Sản đồ WHO 1993._
 
 ### Đặc điểm
 
-Trung tâm của sản đồ model WHO là đường báo động, thuộc về phần biểu đồ ghi lại diễn tiến cổ tử cung. Đường báo động là đường thẳng xuất phát tử tung độ mở cổ tử cung là 3 cm, và hoành độ thời gian là giờ thứ 8 sau khi bắt đầu. Hệ số góc của đường này là 1, ứng với tốc độ mở cổ tử cung là 1cm mỗi giờ, trùng với tốc độ mở cổ tử cung ở bách phân vị thứ 10 của dân số khảo sát bởi Philpott và các khảo sát trước đó của WHO. Điều này có nghĩa là khi tốc độ mở cổ tử cung là chậm hơn đường báo động, tức sản đồ ở bên phải của đường báo động, thì cũng đồng nghĩa với cổ tử cung đang diễn tiến như người có mở cổ tử cung chậm trong dân số khảo sát, cũng đồng nghĩa với việc chuyển dạ có nguy cơ trở thành chuyển dạ kéo dài, nếu không được nhận diện hay can thiệp thích hợp.
+Trung tâm của sản đồ model WHO là đường báo động, thuộc về phần biểu đồ ghi lại diễn tiến cổ tử cung. Đường báo động là đường thẳng xuất phát tử tung độ mở cổ tử cung là 3 cm, và hoành độ thời gian làh thứ 8 sau khi bắt đầu. Hệ số góc của đường này là 1, ứng với tốc độ mở cổ tử cung là 1cm mỗih, trùng với tốc độ mở cổ tử cung ở bách phân vị thứ 10 của dân số khảo sát bởi Philpott và các khảo sát trước đó của WHO. Điều này có nghĩa là khi tốc độ mở cổ tử cung là chậm hơn đường báo động, tức sản đồ ở bên phải của đường báo động, thì cũng đồng nghĩa với cổ tử cung đang diễn tiến như người có mở cổ tử cung chậm trong dân số khảo sát, cũng đồng nghĩa với việc chuyển dạ có nguy cơ trở thành chuyển dạ kéo dài, nếu không được nhận diện hay can thiệp thích hợp.
+Trung tâm của sản đồ model WHO là đường báo động, thuộc về phần biểu đồ ghi lại diễn tiến cổ tử cung. Đường báo động là đường thẳng xuất phát tử tung độ mở cổ tử cung là 3 cm, và hoành độ thời gian làh thứ 8 sau khi bắt đầu. Hệ số góc của đường này là 1, ứng với tốc độ mở cổ tử cung là 1cm mỗih, trùng với tốc độ mở cổ tử cung ở bách phân vị thứ 10 của dân số khảo sát bởi Philpott và các khảo sát trước đó của WHO. Điều này có nghĩa là khi tốc độ mở cổ tử cung là chậm hơn đường báo động, tức sản đồ ở bên phải của đường báo động, thì cũng đồng nghĩa với cổ tử cung đang diễn tiến như người có mở cổ tử cung chậm trong dân số khảo sát, cũng đồng nghĩa với việc chuyển dạ có nguy cơ trở thành chuyển dạ kéo dài, nếu không được nhận diện hay can thiệp thích hợp.
 
 Trong sản đồ model 1993 của WHO, độ dài của pha tiềm thời là bất định. Điều này phản ánh những khó khăn trong việc xác định thời điểm bắt đầu chuyển dạ.
 
-Động tác tịnh tiến lên đường báo động có ý nghĩa quan trọng, vì nó thể hiện việc bắt đầu so sánh với diễn tiến tối thiểu khi chuyển dạ đã vào giai đoạn hoạt động. Điểm đánh dấu pha hoạt động của sản đồ model 1993 của WHO được set là ≥ 3 cm. Đường hành động là đường song song với đường báo động và cách đường báo động 4 đơn vị hoành độ về phía phải. Đường này cảnh báo đã hết thời hạn để thực hiện các điều chỉnh, có ý nghĩa phân định giữa chờ đợi và hành động tích cực. Biểu đồ chạm đường hành động là thời điểm buộc phải tiến hành các can thiệp có tính quyết đoán, nhưng không hoàn toàn đồng nghĩa với chấm dứt chuyển dạ.
+Động tác tịnh tiến lên đường báo động có ý nghĩa quan trọng, vì nó thể hiện việc bắt đầu so sánh với diễn tiến tối thiểu khi chuyển dạ đã vào giai đoạn hoạt động. Điểm đánh dấu pha hoạt động của sản đồ model 1993 của WHO được set là ≥3 cm. Đường hành động là đường song song với đường báo động và cách đường báo động 4 đơn vị hoành độ về phía phải. Đường này cảnh báo đã hết thời hạn để thực hiện các điều chỉnh, có ý nghĩa phân định giữa chờ đợi và hành động tích cực. Biểu đồ chạm đường hành động là thời điểm buộc phải tiến hành các can thiệp có tính quyết đoán, nhưng không hoàn toàn đồng nghĩa với chấm dứt chuyển dạ.
+Động tác tịnh tiến lên đường báo động có ý nghĩa quan trọng, vì nó thể hiện việc bắt đầu so sánh với diễn tiến tối thiểu khi chuyển dạ đã vào giai đoạn hoạt động. Điểm đánh dấu pha hoạt động của sản đồ model 1993 của WHO được set là ≥3 cm. Đường hành động là đường song song với đường báo động và cách đường báo động 4 đơn vị hoành độ về phía phải. Đường này cảnh báo đã hết thời hạn để thực hiện các điều chỉnh, có ý nghĩa phân định giữa chờ đợi và hành động tích cực. Biểu đồ chạm đường hành động là thời điểm buộc phải tiến hành các can thiệp có tính quyết đoán, nhưng không hoàn toàn đồng nghĩa với chấm dứt chuyển dạ.
 
 Sau model 1993, WHO có nhiều cải tiến trong sản đồ. Cải tiến gần nhất (2002) là:
 
 - Bỏ phần ghi giai đoạn tiềm thời và việc tịnh tiến, cùng lúc với việc chỉ bắt đầu ghi trong giai đoạn hoạt động.
-- Giai đoạn hoạt động, tức thời điểm bắt đầu có thể ghi sản đồ được điều chỉnh là ≥ 4 cm, nhằm tránh những can thiệp khi chưa thực sự bắt đầu giai đoạn hoạt động.
+- Giai đoạn hoạt động, tức thời điểm bắt đầu có thể ghi sản đồ được điều chỉnh là ≥4 cm, nhằm tránh những can thiệp khi chưa thực sự bắt đầu giai đoạn hoạt động.
+- Giai đoạn hoạt động, tức thời điểm bắt đầu có thể ghi sản đồ được điều chỉnh là ≥4 cm, nhằm tránh những can thiệp khi chưa thực sự bắt đầu giai đoạn hoạt động.
 
 ### Ý nghĩa
 

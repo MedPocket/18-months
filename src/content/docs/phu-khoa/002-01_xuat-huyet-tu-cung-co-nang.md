@@ -23,7 +23,7 @@ Thiếu hụt giai đoạn hoàng thể cũng có thể gây ra xuất huyết t
 
 Hội chứng buồng trứng đa nang và tăng prolactin máu là 2 trạng thái rối loạn nội tiết có thể gây ra xuất huyết tử cung chức năng thường gặp:
 
-- Tăng prolactin máu ức chế hoạt động tuyến yên, và do đó gây rối loạn hoạt động của buồng trứng. Tăng prolactin máu có thể là do nguyên nhân thực thể là 1 microadenoma tuyến yên hay do nguyên nhân cơ năng do dùng các thuốc có tác động hướng thần kinh hay nhiều thuốc khác. Thuốc chống say tàu xe, thuốc kháng bơm proton trong điều trị loét dạ dày-tá tràng, các thuốc điều trị tâm thần... có thể gây ra các tình trạng tăng prolactin máu.
+- Tăng prolactin máu ức chế hoạt động tuyến yên, và do đó gây rối loạn hoạt động của buồng trứng. Tăng prolactin máu có thể là do nguyên nhân thực thể là microadenoma tuyến yên hay do nguyên nhân cơ năng do dùng các thuốc có tác động hướng thần kinh hay nhiều thuốc khác. Thuốc chống say tàu xe, thuốc kháng bơm proton trong điều trị loét dạ dày-tá tràng, các thuốc điều trị tâm thần... có thể gây ra các tình trạng tăng prolactin máu.
 - Hội chứng buồng trứng đa nang là hội chứng do rất nhiều nguyên nhân khác nhau, có chung đặc điểm là các nang noãn không phát triển được, không đi đến hình thành các nang vượt trội, và do đó không có phóng noãn. Các chu kỳ không phóng noãn là nguyên nhân của xuất huyết tử cung chức năng ở hội chứng buồng trứng đa nang.
 
 Xuất huyết tử cung chức năng do sử dụng nội tiết ngoại lai là tình trạng rất thường gặp:
@@ -91,9 +91,9 @@ Thuốc viên tránh thai estrogen-progestogen phối hợp được dùng với
 Chỉ có các loại thuốc tránh thai estrogen-progestogen phối hợp hàm lượng tiêu chuẩn mới được dùng cho mục đích này. Không dùng các thuốc có hàm lượng ethinyl estradiol dưới 20 µg cho mục đích này. Thường sử dụng 2-3 viên/ngày tối đa lên đến 4 viên/ngày đến khi hết ra máu 2 ngày thì giảm dần xuống 1 viên/ngày, duy trì trong 26 ngày từ khi bắt đầu uống thuốc. Khi giảm liều nếu ra máu phải tăng liều lại và giảm liều như cũ. Thường uống vào buổi tối vào 1h cố định để tránh các tác dụng phụ như buồn nôn, hoa mắt, chóng mặt.
 :::
 
-Nếu niêm mạc tử cung < 5mm, có thể sử dụng thuốc tránh thai kết hợp như trên và dùng estrogen 1-2 viên/ngày đến khi hết ra máu. Estrogen thường được dùng trong những trường hợp xuất huyết tử cung kéo dài làm nội mạc tử cung bị mỏng đi nhằm phục hồi nội mạc tử cung và cầm máu trước tiên, giúp tái tạo sự phát triển nội mạc tử cung nhanh chóng. Tuy nhiên, mọi nội mạc tử cung có được nhờ điều trị với estrogen đơn thuần phải được tiếp tục với progestogen.
+Nếu niêm mạc tử cung<5mm, có thể sử dụng thuốc tránh thai kết hợp như trên và dùng estrogen 1-2 viên/ngày đến khi hết ra máu. Estrogen thường được dùng trong những trường hợp xuất huyết tử cung kéo dài làm nội mạc tử cung bị mỏng đi nhằm phục hồi nội mạc tử cung và cầm máu trước tiên, giúp tái tạo sự phát triển nội mạc tử cung nhanh chóng. Tuy nhiên, mọi nội mạc tử cung có được nhờ điều trị với estrogen đơn thuần phải được tiếp tục với progestogen.
 
-Nếu niêm mạc tử cung > 10mm, có thể sử dụng progestins 2 viên/ngày trong vòng 10-15 ngày. Progestins có thể được dùng đơn độc trong điều trị lâu dài các xuất huyết tử cung chức năng cần nội mạc tử cung được tiếp xúc với progestins có chu kỳ và liên tục. Progestogen kéo dài đối kháng lại tác dụng của việc phơi bày dài ngày với estrogen, là liệu pháp chính trong các trường hợp có tăng sinh đơn giản điển hình của nội mạc tử cung.
+Nếu niêm mạc tử cung>10mm, có thể sử dụng progestins 2 viên/ngày trong vòng 10-15 ngày. Progestins có thể được dùng đơn độc trong điều trị lâu dài các xuất huyết tử cung chức năng cần nội mạc tử cung được tiếp xúc với progestins có chu kỳ và liên tục. Progestogen kéo dài đối kháng lại tác dụng của việc phơi bày dài ngày với estrogen, là liệu pháp chính trong các trường hợp có tăng sinh đơn giản điển hình của nội mạc tử cung.
 
 Biệt dược trên thị trường:
 

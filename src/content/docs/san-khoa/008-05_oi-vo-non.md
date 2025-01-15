@@ -25,7 +25,7 @@ Chẩn đoán vỡ ối được xác định dễ dàng khi thấy nước ối
 
 Không được thực hiện khám âm đạo bằng tay vì điều này không giúp gì cho việc thực hiện chẩn đoán và có thể dẫn đến tình trạng nhiễm trùng.
 
-Đặt băng vệ sinh âm hộ và kiểm tra miếng băng vệ sinh 1 giờ sau bằng cách nhìn và đánh giá mùi.
+Đặt băng vệ sinh âm hộ và kiểm tra miếng băng vệ sinh 1h sau bằng cách nhìn và đánh giá mùi.
 
 :::note[Tiêu chuẩn chẩn đoán ối vỡ non]
 ![Ối vỡ non](../../../assets/san-khoa/oi-vo-non/oi-vo-non.png)
@@ -43,7 +43,7 @@ Máu và 1 số nhiễm trùng âm đạo có thể cho kết quả dương tín
 
 #### Test dương sỉ
 
-Test lá dương xỉ dựa trên đặc tính kết tinh tạo tinh thể hình lá dương xỉ của muối NaCl trong môi trường có mặt estrogen (dịch ối). Trải 1 ít dịch cần khảo sát lên trên lam kính và để nó khô, sau đó xem dưới kinh hiển vi. Nước ối sẽ kết tinh và có thể tạo nên các cấu trúc có hình lá dương xỉ. Âm tính giả rất thường gặp.
+Test lá dương xỉ dựa trên đặc tính kết tinh tạo tinh thể hình lá dương xỉ của muối NaCl trong môi trường có mặt estrogen (dịch ối). Trải ít dịch cần khảo sát lên trên lam kính và để nó khô, sau đó xem dưới kinh hiển vi. Nước ối sẽ kết tinh và có thể tạo nên các cấu trúc có hình lá dương xỉ. Âm tính giả rất thường gặp.
 
 #### Siêu âm
 
@@ -75,36 +75,36 @@ Nếu có dấu hiệu nhiễm trùng (sốt, dịch âm đạo có mùi hôi), 
 
 #### Điều trị mong đợi
 
-Đối với thai < 34 tuần không có nhiễm trùng, không đe dọa mẹ và thai, cần điều trị mong đợi, tư vấn về nguy cơ và lợi ích.
+Đối với thai<34 tuần không có nhiễm trùng, không đe dọa mẹ và thai, cần điều trị mong đợi, tư vấn về nguy cơ và lợi ích.
 
-Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh và trì hoãn cuộc sinh: thường là kháng sinh nhắm vào Streptococcus nhóm B. Dùng Ampicillin, đường tĩnh mạch, 2 g mỗi 6 giờ hoặc Penicillin G, đường tĩnh mạch, 2 triệu đơn vị mỗi 6 giờ, cho đến lúc sinh.
+Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh và trì hoãn cuộc sinh: thường là kháng sinh nhắm vào Streptococcus nhóm B. Dùng Ampicillin, đường tĩnh mạch, 2 g mỗi 6h hoặc Penicillin G, đường tĩnh mạch, 2 triệu đơn vị mỗi 6h, cho đến lúc sinh.
 
 :::caution[Lưu ý]
 Với ối vỡ non, thai non tháng phức bộ [Amoxicillin + Acid Clavulanic] bị chống chỉ định do khả năng gây viêm ruột hoại tử ở sơ sinh. Cụ thể:
 
 - Lựa chọn 1:
   - Azithromycin 1 g (uống) ngay khi nhập viện, và
-  - Ampicillin 2 g (tĩnh mạch chậm) mỗi 6 giờ trong 48 giờ, sau đó
-  - Amoxicillin 500 mg (uống) mỗi 8 giờ trong 5 ngày.
+  - Ampicillin 2 g (tĩnh mạch chậm) mỗi 6h trong 48h, sau đó
+  - Amoxicillin 500 mg (uống) mỗi 8h trong 5 ngày.
 - Lựa chọn 2:
   - Ampicillin 1 g (uống) ngay khi nhập viện, và
-  - Cefazolin 1 g (tĩnh mạch chậm) mỗi 8 giờ trong 48 giờ, sau đó
-  - Cephalexin 500 mg (uống) mỗi 6 giờ trong 5 ngày.
+  - Cefazolin 1 g (tĩnh mạch chậm) mỗi 8h trong 48h, sau đó
+  - Cephalexin 500 mg (uống) mỗi 6h trong 5 ngày.
 - Trường hợp nguy cơ cao phản ứng phản vệ với Penicillin:
   - Azithromycin 1 g (uống) ngay khi nhập viện, và
-  - Clindamycin 900 mg (truyền tĩnh mạch) mỗi 8 giờ trong 48 giờ + Gentamicin 5 mg/kg (truyền tĩnh mạch) mỗi 24 giờ trong 48 giờ, sau đó
-  - Clindamycin 300 mg (uống) mỗi 8 giờ trong 5 ngày.
+  - Clindamycin 900 mg (truyền tĩnh mạch) mỗi 8h trong 48h + Gentamicin 5 mg/kg (truyền tĩnh mạch) mỗi 24h trong 48h, sau đó
+  - Clindamycin 300 mg (uống) mỗi 8h trong 5 ngày.
 - Trường hợp dị ứng nặng với Penicillin, GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ:
   - Azithromycin 1 g (uống) ngay khi nhập viện, và
-  - Vancomycin 20 mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24 giờ trong 48 giờ. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành 3 nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy > 15mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
+  - Vancomycin 20 mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24h trong 48h. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành 3 nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy>15mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
 
 :::
 
 Dùng corticosteroid cho mẹ để giảm khả năng xảy ra hội chứng suy hô hấp cấp ở sơ sinh. Dùng ngay cả khi không chắc có đủ thời gian để hoàn thành đủ liều corticosteroids.
 
-Xét nghiệm máu mỗi 48 giờ hoặc khi nghi ngờ có dấu hiệu nhiễm trùng.
+Xét nghiệm máu mỗi 48h hoặc khi nghi ngờ có dấu hiệu nhiễm trùng.
 
-Siêu âm kiểm tra chỉ số ối mỗi 48 giờ nếu ối bình thường, mỗi ngày nếu thiểu ối hoặc nghi ngờ ra nước âm đạo nhiều.
+Siêu âm kiểm tra chỉ số ối mỗi 48h nếu ối bình thường, mỗi ngày nếu thiểu ối hoặc nghi ngờ ra nước âm đạo nhiều.
 
 Đặt mỏ vịt đánh giá tính chất nước ối mỗi 3 ngày.
 
@@ -121,7 +121,7 @@ Cân nhắc điều trị ngoại trú, tái khám sau 1 tuần nếu:
 
 Chấm dứt thai kỳ khi:
 
-- Thai ≥ 34 tuần hoặc < 24 tuần.
+- Thai ≥34 tuần hoặc<24 tuần.
 - Chuyển dạ thực sự.
 - Sa dây rốn.
 - Rau bong nong.
@@ -130,24 +130,24 @@ Chấm dứt thai kỳ khi:
 
 Dùng Magnesium sulfate bảo vệ não ở trẻ sinh non:
 
-- Chỉ định thai 24 tuần đến < 32 tuần có nguy cơ sinh non trong vòng 24 giờ, áp dụng đơn thai và đa thai.
-- Thường quy từ 28 đến < 32 tuần. Cân nhắc trường hợp 24 đến < 28 tuần.
+- Chỉ định thai 24 tuần đến<32 tuần có nguy cơ sinh non trong vòng 24h, áp dụng đơn thai và đa thai.
+- Thường quy từ 28 đến<32 tuần. Cân nhắc trường hợp 24 đến<28 tuần.
 - Chống chỉ định khi mẹ bị nhược cơ.
 - Thận trọng khi mẹ có tiền căn thiếu máu cơ tim, rối loạn dẫn truyền.
 - Trường hợp mẹ tăng huyết áp hay tiền sản giật sử dụng theo phác đồ [Tăng huyết áp thai kỳ](/san-khoa/007-02_tang-huyet-ap-thai-ky/#magnesium-sulfate).
 - Liều Magnesium sulfate 4.5 g liều duy nhất, truyền tĩnh mạch chậm trong 20-30 phút. Giảm liều khi BN có thiểu niệu hay suy thận.
-- Khi có chỉ định chấm dứt thai kỳ, Magnesium sulfate được chỉ định lý tưởng nhất trước sinh 4 giờ.
+- Khi có chỉ định chấm dứt thai kỳ, Magnesium sulfate được chỉ định lý tưởng nhất trước sinh 4h.
 
-Khi có chuyển dạ, đánh giá tiến triển cuộc chuyển dạ mỗi 4 giờ ở giai đoạn tiềm tàng và 1-2 giờ ở giai đoạn hành động, đánh giá các dấu hiệu nhiễm trùng ối.
+Khi có chuyển dạ, đánh giá tiến triển cuộc chuyển dạ mỗi 4h ở giai đoạn tiềm tàng và 1-2h ở giai đoạn hành động, đánh giá các dấu hiệu nhiễm trùng ối.
 
-Nếu màng ối đã vỡ hơn 12 giờ, dùng kháng sinh dự phòng, với mục đích giúp giảm nguy cơ nhiễm Streptococcus nhóm B cho trẻ sơ sinh. Nếu sau khi sinh xong mà không có dấu hiệu nhiễm trùng, ngưng kháng sinh.
+Nếu màng ối đã vỡ hơn 12h, dùng kháng sinh dự phòng, với mục đích giúp giảm nguy cơ nhiễm Streptococcus nhóm B cho trẻ sơ sinh. Nếu sau khi sinh xong mà không có dấu hiệu nhiễm trùng, ngưng kháng sinh.
 
 Các phương pháp chấm dứt thai kỳ:
 
 - Ưu tiên sinh đường âm đạo, mổ lấy thai khi có chỉ định.
-- Theo dõi sinh đường âm đạo: không có dấu hiệu nhiễm trùng, không có dấu hiệu de dọa mẹ và thai, có thể theo dõi sau 12 giờ nếu không có chuyển dạ tự nhiên, khởi phát chuyển dạ dựa trên Bishop:
-  - Bishop ≥ 6 khởi phát bằng Oxytocin.
-  - Bishop < 6 gây chín muồi cổ tử cung bằng PGE2 trước khi dùng Oxytocin.
+- Theo dõi sinh đường âm đạo: không có dấu hiệu nhiễm trùng, không có dấu hiệu de dọa mẹ và thai, có thể theo dõi sau 12h nếu không có chuyển dạ tự nhiên, khởi phát chuyển dạ dựa trên Bishop:
+  - Bishop ≥6 khởi phát bằng Oxytocin.
+  - Bishop<6 gây chín muồi cổ tử cung bằng PGE2 trước khi dùng Oxytocin.
 
 ## Nhiễm trùng ối
 
@@ -158,7 +158,7 @@ Nhiễm trùng ối là nhiễm trùng ngoại khoa. Khi có nhiễm trùng ối
 
 Khi đã có nhiễm trùng ối, nếu không chấm dứt thai kỳ, tình trạng nhiễm trùng sẽ diễn tiến nặng dần, đưa đến nhiễm trùng huyết và tử vong.
 
-Sử dụng kháng sinh phổ rộng và phối hợp đến sau sinh và đã kiểm soát được nhiễm trùng, ít nhất là đã được 48 giờ liên tục không dấu nhiễm trùng.
+Sử dụng kháng sinh phổ rộng và phối hợp đến sau sinh và đã kiểm soát được nhiễm trùng, ít nhất là đã được 48h liên tục không dấu nhiễm trùng.
 
 Đánh giá tình trạng cổ tử cung trước khởi phát chuyển dạ. Cuộc mổ có thể là nguy hiểm hơn cuộc sinh, do khả năng vấy bẩn phúc mạc. Cần cân nhắc lợi ích và nguy cơ của sinh đường âm đạo và sinh mổ.
 

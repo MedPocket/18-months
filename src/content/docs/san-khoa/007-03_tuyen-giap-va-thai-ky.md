@@ -30,7 +30,7 @@ Bệnh Graves là bệnh lý tự miễn do có kháng thể kích thích tuyế
 :::note[Tiêu chuẩn chẩn đoán cường giáp]
 Các triệu chứng lâm sàng giúp định hướng chẩn đoán cường giáp:
 
-- Mạch lúc nghỉ > 100 lần/phút và giảm đi thành mạch chậm sau thủ thuật Valsava.
+- Mạch lúc nghỉ>100 lần/phút và giảm đi thành mạch chậm sau thủ thuật Valsava.
 - Thay đổi ở mắt.
 - Giảm cân, không tăng cân dù tăng lượng thức ăn.
 - Không chịu được nóng.
@@ -64,7 +64,7 @@ Xử trí bão giáp gồm:
 - Chặn tiết hormone tuyến giáp bằng sodium iodide 1g tiêm mạch, ngăn chặn sự tổng hợp hormone tuyến giáp.
 - Chặn sự chuyển $T_4$ thành $T_3$ bằng 1200-1800 mg PTU chia làm nhiều liều.
 - Ngăn chặn về sau sự nito hóa $T_4$ thành $T_3$ bằng dexamethasone 8 mg/ngày.
-- Điều trị triệu chứng cường giao cảm bằng block β-Adrenergic như propranolol 20–80 mg/6 giờ, cung cấp đủ dịch và hạ thân nhiệt.
+- Điều trị triệu chứng cường giao cảm bằng block β-Adrenergic như propranolol 20–80 mg/6h, cung cấp đủ dịch và hạ thân nhiệt.
 
 Do kháng thể kích thích tuyến giáp có thể truyền qua rau, thoáng qua và duy trì ít nhất 2-3 tháng ở thai nên khoảng 1% phụ nữ bị Graves có con bị ngộ độc giáp, làm tăng tỷ lệ tử vong sơ sinh lên 16%. Nghi ngờ nhiễm độc giáp ở thai khi tim thai cơ bản hằng định trên 160 lần/phút. Bướu giáp thai có thể xác định được trên siêu âm.
 

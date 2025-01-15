@@ -32,7 +32,7 @@ Tần suất của thai trứng thay đổi tùy chủng tộc. Ở người Âu
 
 Thai trứng là kết quả của thụ tinh bất thường. Bất chấp dạng thai trứng, bất thường luôn có nguồn gốc tinh trùng (paternal).
 
-Trong thai trứng toàn phần, cấu trúc bộ nhiễm sắc thể là 46 nhiễm sắc thể. Trứng thụ tinh là 1 trứng không nhân. Vật chất di truyền đến từ 2 tinh trùng khác nhau. Trong trường hợp trứng không nhân bị xâm nhập bởi 1 tinh trùng, thì tinh trùng sẽ nhân đôi.
+Trong thai trứng toàn phần, cấu trúc bộ nhiễm sắc thể là 46 nhiễm sắc thể. Trứng thụ tinh là trứng không nhân. Vật chất di truyền đến từ 2 tinh trùng khác nhau. Trong trường hợp trứng không nhân bị xâm nhập bởi 1 tinh trùng, thì tinh trùng sẽ nhân đôi.
 
 Trong thai trứng bán phần, cấu trúc bộ nhiễm sắc thể là 69 hoặc 92 nhiễm sắc thể, với trứng thụ tinh là 1 trứng có nhân. Vật chất di truyền sẽ đến từ 2 tinh trùng khác nhau. Trong trường hợp trứng có nhân bị xâm nhập bởi 1 tinh trùng, thì tinh trùng sẽ nhân đôi.
 
@@ -73,7 +73,7 @@ Hình ảnh điển hình của thai trứng toàn phần trên siêu âm là h�
 ![Hình ảnh siêu âm thai trứng toàn phần](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-toan-phan.png)
 _Hình ảnh siêu âm của thai trứng toàn phần.<br> Hình ảnh điển hình của thai trứng trên siêu âm là hình ảnh tổ ong. Trong thai trứng toàn phần, hình ảnh này là điển hình._
 
-Hình ảnh của thai trứng bán phần không đặc trưng. Chẩn đoán sẽ khó khăn hơn do hình ảnh không còn điển hình lại kèm với hình ảnh của 1 thai, có thể là thai sống và tiến triển. Thai lưu với rau thoái hóa có thể cho hình ảnh tương tự thai trứng.
+Hình ảnh của thai trứng bán phần không đặc trưng. Chẩn đoán sẽ khó khăn hơn do hình ảnh không còn điển hình lại kèm với hình ảnh của thai, có thể là thai sống và tiến triển. Thai lưu với rau thoái hóa có thể cho hình ảnh tương tự thai trứng.
 
 ![Hình ảnh siêu âm thai trứng bán phần](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-ban-phan.png)
 _Hình ảnh siêu âm của thai trứng bán phần.<br> Chẩn đoán sẽ khó khăn hơn trong trường hợp thai trứng bán phần, do hình ảnh không còn điển hình lại kèm với hình ảnh của 1 thai, có thể là thai sống và tiến triển._
@@ -110,7 +110,7 @@ Nếu sau 3 ngày khám thấy tử cung còn to do ứ dịch lòng nhiều hay
 
 #### Cắt tử cung
 
-Người bệnh ≥ 40 tuổi, đủ con, có chẩn đoán thai trứng nguy cơ cao.
+Người bệnh ≥40 tuổi, đủ con, có chẩn đoán thai trứng nguy cơ cao.
 
 Băng huyết hay không kiểm soát được tình trạng chảy máu nặng từ tử cung.
 
@@ -134,7 +134,7 @@ Hóa trị dự phòng với Methotrexate (MTX) hoặc Dacticin:
 Không sử dụng hóa trị khi:
 
 - Bạch cầu <3000/$mm^3$, bạch cầu đa nhân trung tính <1500/$mm^3$, tiểu cầu <100000/$mm^3$.
-- Men gan AST, ALT > 100 IU/L.
+- Men gan AST, ALT>100 IU/L.
 
 :::
 
@@ -149,7 +149,7 @@ Tác dụng phụ gồm có:
   - Truyền dịch và bù điện giải.
 - Nhiễm độc da: rụng tóc, tăng dị ứng mẫn cảm.
 - Sử dụng kháng Histamin và Corticoid nếu có dị ứng:
-  - Ngưng hóa trị nếu men gan > 100 IU/L.
+  - Ngưng hóa trị nếu men gan>100 IU/L.
   - Thuốc bảo vệ tế bào gan: Biphenyl dimethyl dicarrboxylat.
 
 #### Tránh thai
@@ -200,8 +200,8 @@ Ung thư nguyên bào nuôi (choriocarcinoma) dùng mô tả tân lập ác tín
 :::note[Tiêu chuẩn chẩn đoán theo FIGO 2002]
 Có ít nhất 1 trong những tiêu chuẩn sau (U nguyên bào nuôi nơi rau bám không xếp vào trong nhóm này):
 
-- β-hCG bình nguyên (± 10%) sau 4 lần đo trong ≥ 3 tuần (ngày 1, 7, 14, 21).
-- β-hCG tăng (> 10%) sau 3 lần đo liên tiếp trong ≥ 2 tuần (ngày 1, 7, 14).
+- β-hCG bình nguyên (± 10%) sau 4 lần đo trong ≥3 tuần (ngày 1, 7, 14, 21).
+- β-hCG tăng (> 10%) sau 3 lần đo liên tiếp trong ≥2 tuần (ngày 1, 7, 14).
 - Có giải phẫu bệnh là choriocarcinoma.
 - β-hCG tồn tại sau 6 tháng theo dõi.
 
@@ -239,7 +239,7 @@ Khi so sánh 2 hệ thống phân loại của FIGO và NIH, ta có thể thấy
 Hóa điều trị bệnh nguyên bào nuôi ác tính dựa trên bảng phân loại theo NIH:
 
 1. Hóa trị liệu cho GTD ác tính ở bệnh nhân không có di căn có tỉ lệ khỏi bệnh lên đến gần 100%, có hay không kèm phẫu thuật cắt tử cung. Tuy nhiên, nếu bệnh nhân đã đủ con, phẫu thuật cắt tử cung sẽ làm giảm tổng khối tế bào ung thư, rút ngắn thời gian trở về bình thường của β-hCG.
-2. Ở bệnh nhân có di căn và có tiên lượng tốt: có thể khởi đầu bằng đơn hoá trị, kèm phẫu thuật cắt tử cung. Tỉ lệ tái phát < 5%.
+2. Ở bệnh nhân có di căn và có tiên lượng tốt: có thể khởi đầu bằng đơn hoá trị, kèm phẫu thuật cắt tử cung. Tỉ lệ tái phát<5%.
 3. Ở bệnh nhân có di căn và có tiên lượng xấu: cần đa hoá trị với MAC hoặc EMA/CO. Tỉ lệ sống còn có thể lên đến 84%. Ở các bệnh nhân này, phẫu thuật cắt tử cung có vẻ như không giúp cải thiện tiên lượng.
 
 #### U nguyên bào nuôi nguy cơ thấp
@@ -263,9 +263,9 @@ hoặc Dacticin:
 
 Yếu tố liên quan:
 
-- Tuổi > 35.
-- β-hCG trước điều trị > 100000 mIU/mL.
-- FIGO > 4 điểm.
+- Tuổi>35.
+- β-hCG trước điều trị>100000 mIU/mL.
+- FIGO>4 điểm.
 - Không có tiền căn thai trứng.
 - Có di căn âm đạo lớn.
 - Giải phẫu bệnh choriocarcinoma.
@@ -274,8 +274,8 @@ Yếu tố liên quan:
 Xử trí:
 
 - MTX 50 mg/$m^2$ da thất bại → MTX 0.4 mg/kg tiêm bắp 5 ngày hoặc Dacticin 12 mcg/kg tiêm bắp 5 ngày.
-- β-hCG < 100 IU/L → Dacticin 5 ngày (87%).
-- β-hCG > 100 IU/L → EMA-CO (99%).
+- β-hCG<100 IU/L → Dacticin 5 ngày (87%).
+- β-hCG>100 IU/L → EMA-CO (99%).
 - Kháng MTX → Dacticin.
 
 #### U nguyên bào nuôi nguy cơ cao
@@ -300,8 +300,8 @@ Phác đồ lặp lại mỗi 2 tuần. Lặp lại thêm 3-4 chu kỳ sau khi �
 :::caution[Lưu ý]
 Tiêu chuẩn để hóa trị:
 
-- Ngày 1 và 2: Bạch cầu ≥ 3000/$mm^3$, bạch cầu đa nhân trung tính ≥ 1500/$mm^3$.
-- Ngày 8. Bạch cầu ≥ 2000/$mm^3$, bạch cầu đa nhân trung tính ≥ 1000/$mm^3$.
+- Ngày 1 và 2: Bạch cầu ≥3000/$mm^3$, bạch cầu đa nhân trung tính ≥1500/$mm^3$.
+- Ngày 8. Bạch cầu ≥2000/$mm^3$, bạch cầu đa nhân trung tính ≥1000/$mm^3$.
 
 :::
 
@@ -380,8 +380,8 @@ Phẫu thuật cắt tử cung toàn phần. Nạo hạch (chủ-chậu) nếu c
 Chỉ định cắt tử cung toàn phần:
 
 - Chủ yếu cho người bệnh không muốn thêm con.
-- Tuổi ≥ 40.
-- Tuổi < 40 mà có ≥ 3 con, hay không muốn có con.
+- Tuổi ≥40.
+- Tuổi<40 mà có ≥3 con, hay không muốn có con.
 - Băng huyết.
 - Vỡ nhân chorio.
 - Cầm máu khó khăn khi bóc nhân chorio.

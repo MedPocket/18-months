@@ -16,7 +16,7 @@ _Phân loại bệnh lý tuyến vú theo mô học._
 
 ## Bướu sợi tuyến
 
-Bướu sợi tuyến là loại bướu có sự tăng sản của biểu mô và mô đệm, xuất phát từ những ống và mô đệm của phần cuối của hệ thống ống của tuyến vú (đơn vị tuyến tận) và có thể được xem như 1 tiểu thùy phát triển to lên.
+Bướu sợi tuyến là loại bướu có sự tăng sản của biểu mô và mô đệm, xuất phát từ những ống và mô đệm của phần cuối của hệ thống ống của tuyến vú (đơn vị tuyến tận) và có thể được xem như tiểu thùy phát triển to lên.
 
 Bướu sợi-tuyến của tuyến vú thường gặp nhất ở phụ nữ 20-30 tuổi. Bướu thường được phát hiện tình cờ do bệnh nhân sờ thấy,
 không đau. Bướu có vị trí thường gặp nhất là ở 1/4 trên ngoài của vú, có dạng hình cầu, mật độ chắc, giới hạn rõ, rất di động, không dính mô xung quanh, kích thước bướu thay đổi từ
@@ -29,7 +29,7 @@ _(Trái, trên) Siêu âm bướu sợi-tuyến. Bướu có giới hạn rõ, �
 
 Chẩn đoán phân biệt với ung thư vú. Bướu sợi-tuyến có đóng vôi bao quanh ngoại vi, trong khi ung thư sẽ có hình ảnh can-xi hóa li ti ở trung tâm bướu (microcalcification). Cũng cần chẩn đoán phân biệt với nang vú. Chọc hút bằng kim nhỏ là phương tiên hữu ích giúp chẩn đoán phân biệt.
 
-Phẫu thuật là phương pháp hiệu quả duy nhất. Nên mổ lấy bướu để biết bản chất mô học, vì 1 số bướu được cho là bướu sợi-tuyến điển hình nhưng lại có kết quả giải phẫu bệnh là loại bệnh lý lành tính khác, hay đôi khi là ung thư.
+Phẫu thuật là phương pháp hiệu quả duy nhất. Nên mổ lấy bướu để biết bản chất mô học, vì bướu được cho là bướu sợi-tuyến điển hình nhưng lại có kết quả giải phẫu bệnh là loại bệnh lý lành tính khác, hay đôi khi là ung thư.
 
 ## Bướu diệp thể
 
@@ -40,12 +40,12 @@ khoảng 5% trường hợp.
 
 Trên siêu âm, bướu diệp thể hiện diện như là khối giảm âm, giới hạn rõ, có thể có rải rác vài vùng hóa nang. Khi hình ảnh siêu âm là hình ảnh có vùng hóa nang và khe rãnh, khả năng chẩn đoán thường là bướu diệp thể. Tuy nhiên, dễ nhầm giữa bướu sợi-tuyến với bướu diệp thể lành và ác.
 
-Trên nhũ ảnh, bướu diệp thể thường là 1 khối lớn giới hạn rõ, hình tròn, bầu dục hay chia thành nhiều thùy có thể có vôi hóa.
+Trên nhũ ảnh, bướu diệp thể thường là khối lớn giới hạn rõ, hình tròn, bầu dục hay chia thành nhiều thùy có thể có vôi hóa.
 
 FNA kém tin cậy trong bướu diệp thể. Do tính chất không đồng nhất của các thành phần của bướu diệp thể, nên khó phân biệt bướu diệp thể lành, ác với bướu sợi tuyến.
 
 ![Bướu diệp thể](../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/buou-diep-the.png)
-_Bướu diệp thể là khối u rất to và lớn nhanh.<br>Siêu âm bướu diệp thể với hình ảnh đặc trưng hình ảnh có vùng hóa nang và khe rãnh.<br>Nhũ ảnh bướu diệp thể là 1 khối lớn giới hạn rõ, hình tròn, bầu dục hay chia thành nhiều thùy có thể có vôi hóa.<br>Đại thể bướu diệp thể._
+_Bướu diệp thể là khối u rất to và lớn nhanh.<br>Siêu âm bướu diệp thể với hình ảnh đặc trưng hình ảnh có vùng hóa nang và khe rãnh.<br>Nhũ ảnh bướu diệp thể là khối lớn giới hạn rõ, hình tròn, bầu dục hay chia thành nhiều thùy có thể có vôi hóa.<br>Đại thể bướu diệp thể._
 
 Phẫu thuật cắt rộng là phương pháp điều trị chủ yếu của bướu diệp thể lành.
 
@@ -62,7 +62,7 @@ Bướu nhú (còn gọi là bướu gai) trong ống dẫn sữa là tổn thư
 Trên siêu âm, có 3 dạng hình ảnh được nhìn thấy: dạng trong ống tuyến, dạng trong nang, và dạng đặc. Nếu bướu nhú quá nhỏ, chỉ nhìn thấy được ống tuyến giãn. Hầu hết các trường hợp đều không thấy bất thường trên nhũ ảnh, trừ khi có kết hợp với u có thể nhìn thấy.
 
 ![Bướu nhú](../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/buou-nhu.png)
-_(Trái) Sơ đồ vị trí 1 u nhú gây tiết dịch-máu ở vú 60-80% tiết dịch núm vú dạng máu này là các u nhú.<br>(Phải) Chụp cản quang ống tuyến vú với hình ảnh u nhú trong ống tuyến._
+_(Trái) Sơ đồ vị trí u nhú gây tiết dịch-máu ở vú 60-80% tiết dịch núm vú dạng máu này là các u nhú.<br>(Phải) Chụp cản quang ống tuyến vú với hình ảnh u nhú trong ống tuyến._
 
 Khi có bướu nhú, cần sinh thiết trọn sang thương. Sau đó điều trị theo kết quả mô học có được. Có thể thay thế sinh thiết mở bằng sinh thiết định vị dưới siêu âm. Siêu âm hướng dẫn việc định vị sang thương trong ống tuyến bằng kim định vị quy ước, nhằm phẫu thuật lấy chính xác tổn thương và tránh lấy nhiều mô vú không cần thiết. Chọc hút bằng kim nhỏ có thể không thể phân biệt được với các loại tổn thương thay đổi sợi bọc, bướu nhú, bệnh nhú, carcinoma tại chỗ hoặc xâm lấn. Đa số cần phải sinh thiết trọn.
 
@@ -87,7 +87,7 @@ Nếu chọc hút có máu, cần phải phẫu thuật để sinh thiết.
 
 Hamartoma có thể xảy ra ở nhiều vị trí khác nhau trên cơ thể. Hamartoma là tình trạng lành tính, khu trú, tương tự như tân sinh, nằm trong mô xuất phát của Hamartoma. Các Hamartoma thường phát triển với cùng tốc độ của mô nguyên thủy mà từ đó Hamartoma xuất hiện. Hamartoma được cấu tạo bởi các thành phần giống hệt như mô xuất phát, nhưng chỉ có rối loạn về cấu trúc và phân bố. Các Hamartoma thường không có triệu chứng.
 
-Hamartoma ở vú có cấu tạo gồm mô tuyến và sợi bao quanh bởi mô mỡ và 1 vỏ bao. Có thể nhầm lẫn với bướu sợi tuyến.
+Hamartoma ở vú có cấu tạo gồm mô tuyến và sợi bao quanh bởi mô mỡ và vỏ bao. Có thể nhầm lẫn với bướu sợi tuyến.
 
 Do đặc điểm trên, trên lâm sàng Hamartoma là khối rất rõ. Trên nhũ ảnh, Hamartoma vú cho hình ảnh "vú trong vú" với vỏ bao mỏng bao quanh mô thấu quang và cản quang xen kẽ nhau.
 
