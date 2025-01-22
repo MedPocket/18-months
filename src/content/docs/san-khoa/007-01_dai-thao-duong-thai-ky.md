@@ -49,9 +49,9 @@ Khiếm khuyết chức năng tế bào β không bù đủ sự gia tăng của
 
 | Phân loại   | Tiêu chuẩn của WHO | Tiêu chuẩn của người châu A (IDI&WPRO) |
 | ----------- | ------------------ | -------------------------------------- |
-| Thiểu cân   | <18,5              | <18,5                                  |
-| Bình thường | 18,5-24,9        | 18,5-22,9                            |
-| Thừa cân    | 25-29,9          | 23-24,9                              |
+| Thiểu cân   | <18.5              | <18.5                                  |
+| Bình thường | 18.5-24.9        | 18.5-22.9                            |
+| Thừa cân    | 25-29.9          | 23-24.9                              |
 | Béo phì     |>30               |>25                                   |
 
 _Bảng phân loại BMI theo tiêu chuẩn của WHO và theo Châu Á._
