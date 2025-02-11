@@ -49,7 +49,7 @@ Các tình huống khác nhau có thể thấy:
 3. Không thấy phôi thai với hoạt động tim phôi trong vòng 7-10 ngày, được tính từ thời điểm có siêu âm xác nhận đã có túi thai và có yolk-sac.
 4. Không có hình ảnh của phôi thai sau 6 tuần hoặc hơn, kể từ ngày kinh cuối.
 5. Không có màng ối.
-6. Yolk-sac giãn rộng,>7 mm.
+6. Yolk-sac giãn rộng >7 mm.
 7. Túi thai nhỏ so với CRL (hiệu MSD và CRL<5 mm).
 
 Khi đó, chỉ được phép nghi ngờ khả năng xảy ra tình trạng này, và phải chờ xác nhận ở các lần kiểm tra sau.
