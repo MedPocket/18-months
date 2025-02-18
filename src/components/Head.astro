@@ -8,7 +8,7 @@ const ogImageUrl = new URL(
 );
 ---
 
-<Default {...Astro.props}><slot /></Default>
+<Default {...Astro.props} />
 
-<meta property="og:image" content={ogImageUrl} />
-<meta name="twitter:image" content={ogImageUrl} />
+<meta property='og:image' content={ogImageUrl} />
+<meta name='twitter:image' content={ogImageUrl} />
