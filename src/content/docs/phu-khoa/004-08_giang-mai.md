@@ -41,7 +41,7 @@ Giang mai thời kỳ II:
 
 Giang mai kín (giang mai tiềm ẩn):
 - Không có dấu hiệu, triệu chứng lâm sàng. Vì thế, chỉ có thể phát hiện bằng xét nghiệm huyết thanh.
-- Được chia làm 2 giai đoạn: giang mai kín sớm (thời gian mắc £ 2 năm) và giang mai kín muộn (thời gian mắc >2 năm). Những bệnh nhân không biết chắc chắn thời gian nhiễm bệnh nên được điều trị theo phác đồ giang mai kín muộn. Giang mai lây truyền qua đường tình dục thường chỉ xảy ra ở giang mai thời kỳ I, thời kỳ II và giang mai kín sớm. Tuy nhiên, lây truyền từ mẹ sang con thì có thể xảy ra sau nhiều năm kể từ thời điểm nhiễm khuẩn ban đầu.
+- Được chia làm 2 giai đoạn: giang mai kín sớm (thời gian mắc <2 năm) và giang mai kín muộn (thời gian mắc >2 năm). Những bệnh nhân không biết chắc chắn thời gian nhiễm bệnh nên được điều trị theo phác đồ giang mai kín muộn. Giang mai lây truyền qua đường tình dục thường chỉ xảy ra ở giang mai thời kỳ I, thời kỳ II và giang mai kín sớm. Tuy nhiên, lây truyền từ mẹ sang con thì có thể xảy ra sau nhiều năm kể từ thời điểm nhiễm khuẩn ban đầu.
 - Nếu không được chẩn đoán và điều trị, hầu hết bệnh nhân vẫn ở giai đoạn giang mai kín. Khoảng 25% bệnh nhân sẽ tiến triển thành giang mai thời kỳ III.
 
 Giang mai thời kỳ III:
