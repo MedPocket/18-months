@@ -60,9 +60,15 @@ importers:
         specifier: ^0.14.3
         version: 0.14.3(@astrojs/starlight@0.32.2(astro@5.5.2(rollup@4.30.1)(typescript@5.8.2)))
     devDependencies:
+      '@area44/biome-config':
+        specifier: ^0.2.0
+        version: 0.2.0
       '@biomejs/biome':
         specifier: ^1.9.4
         version: 1.9.4
+      '@types/hast':
+        specifier: ^3.0.4
+        version: 3.0.4
       '@types/html-escaper':
         specifier: ^3.0.4
         version: 3.0.4
@@ -71,6 +77,9 @@ importers:
         version: 5.8.2
 
 packages:
+
+  '@area44/biome-config@0.2.0':
+    resolution: {integrity: sha512-+tr2iWZ8mGt2ARG1bZfF35ERQbMpBNZlLk9afs6a+PY1qexqeEVwClWQz6ftpG20yvkSyoOgFgQU369oJbesMg==}
 
   '@astrojs/compiler@2.11.0':
     resolution: {integrity: sha512-zZOO7i+JhojO8qmlyR/URui6LyfHJY6m+L9nwyX5GiKD78YoRaZ5tzz6X0fkl+5bD3uwlDHayf6Oe8Fu36RKNg==}
@@ -1881,6 +1890,8 @@ packages:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
 
 snapshots:
+
+  '@area44/biome-config@0.2.0': {}
 
   '@astrojs/compiler@2.11.0': {}
 

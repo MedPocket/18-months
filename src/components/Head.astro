@@ -1,8 +1,8 @@
 ---
-import Default from '@astrojs/starlight/components/Head.astro';
+import Default from "@astrojs/starlight/components/Head.astro";
 
 const ogImageUrl = new URL(
-  `/og/${Astro.locals.starlightRoute.id.replace(/\.\w+$/, '.png')}`,
+  `/og/${Astro.locals.starlightRoute.id.replace(/\.\w+$/, ".png")}`,
   Astro.url,
 );
 ---

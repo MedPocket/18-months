@@ -1,23 +1,20 @@
 ---
-/*
- * Implement the source code according to Astro Docs:
- * https://github.com/withastro/docs/blob/main/src/components/starlight/PageTitle.astro
- */
+// For details, see: https://github.com/withastro/docs/blob/main/src/components/starlight/PageTitle.astro
 
-import { render } from 'astro:content';
-import { Icon } from '@astrojs/starlight/components';
+import { render } from "astro:content";
+import { Icon } from "@astrojs/starlight/components";
 
 const { entry } = Astro.locals.starlightRoute;
 const { data } = Astro.locals.starlightRoute.entry;
 const { remarkPluginFrontmatter } = await render(entry);
 ---
 
-<div class='wrapper'>
-  <h1 id='_top'>
+<div class="wrapper">
+  <h1 id="_top">
     <span>{data.title}</span>
   </h1>
-  <p class='sl-flex'>
-    <Icon name='seti:clock' size='1.2em' />
+  <p class="sl-flex">
+    <Icon name="seti:clock" size="1.2em" />
     {remarkPluginFrontmatter.minutesRead}
   </p>
 </div>
