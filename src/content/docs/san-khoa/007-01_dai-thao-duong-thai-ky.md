@@ -200,7 +200,6 @@ Phù hợp thói quen ăn uống, điều kiện kinh tế, không quá khó th�
 :::caution[Lưu ý]
 HbA1C < 6% (kiểm tra 1 tháng 1 lần) và không có biểu hiện hạ đường máu.
 :::
-:::
 
 HbA1c ít có giá trị với đái tháo đường thai kỳ vì đái tháo đường thai kỳ xuất hiện từ nửa sau thai kỳ (khoảng 4 tháng cuối) trong khi HbA1c có giá trị đánh giá trong vòng 3 tháng. Ngoài ra còn chịu ảnh hưởng của nhiều yếu tố như đời sống hồng cầu ngắn lại, máu pha loãng.
 
