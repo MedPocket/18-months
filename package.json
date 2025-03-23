@@ -10,8 +10,8 @@
     "format": "biome format --write ."
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.32.2",
-    "astro": "^5.5.2",
+    "@astrojs/starlight": "^0.32.4",
+    "astro": "^5.5.4",
     "astro-og-canvas": "^0.7.0",
     "canvaskit-wasm": "^0.39.1",
     "hast-util-to-string": "^3.0.1",
@@ -35,5 +35,5 @@
     "@types/html-escaper": "^3.0.4",
     "typescript": "^5.8.2"
   },
-  "packageManager": "pnpm@10.6.3"
+  "packageManager": "pnpm@10.6.5"
 }
