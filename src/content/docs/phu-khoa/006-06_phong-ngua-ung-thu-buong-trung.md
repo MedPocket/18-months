@@ -47,7 +47,7 @@ Giai đoạn II: ung thư 1 hay 2 buồng trứng có di căn vùng chậu
 Giai đoạn III: ung thư 1 hay 2 buồng trứng lan ra ngoài vùng chậu và/hoặc có hạch sau phúc mạc, hạch bẹn, di căn bề mặt gan, di căn vi thể mạc nối lớn, mạc treo ruột non
 
 - IIIa: không di căn hạch nhưng có di căn phúc mạc vi thể
-- IIIb: có di căn phúc mạc bụng đại thể>2cm, không di căn hạch
+- IIIb: có di căn phúc mạc bụng đại thể >2cm, không di căn hạch
 - IIIc: IIIb và/hoặc có di căn hạch sau phúc mạc hay hạch bẹn
 
 Giai đoạn IV: di căn xa, tràn dịch màng phổi, di căn nhu mô gan.

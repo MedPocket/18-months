@@ -75,7 +75,7 @@ Nếu có dấu hiệu nhiễm trùng (sốt, dịch âm đạo có mùi hôi), 
 
 #### Điều trị mong đợi
 
-Đối với thai<34 tuần không có nhiễm trùng, không đe dọa mẹ và thai, cần điều trị mong đợi, tư vấn về nguy cơ và lợi ích.
+Đối với thai <34 tuần không có nhiễm trùng, không đe dọa mẹ và thai, cần điều trị mong đợi, tư vấn về nguy cơ và lợi ích.
 
 Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh và trì hoãn cuộc sinh: thường là kháng sinh nhắm vào Streptococcus nhóm B. Dùng Ampicillin, đường tĩnh mạch, 2 g mỗi 6h hoặc Penicillin G, đường tĩnh mạch, 2 triệu đơn vị mỗi 6h, cho đến lúc sinh.
 
@@ -85,18 +85,18 @@ Với ối vỡ non, thai non tháng phức bộ [Amoxicillin + Acid Clavulanic]
 - Lựa chọn 1:
   - Azithromycin 1 g (uống) ngay khi nhập viện, và
   - Ampicillin 2 g (tĩnh mạch chậm) mỗi 6h trong 48h, sau đó
-  - Amoxicillin 500 mg (uống) mỗi 8h trong 5 ngày.
+  - Amoxicillin 500mg (uống) mỗi 8h trong 5 ngày.
 - Lựa chọn 2:
   - Ampicillin 1 g (uống) ngay khi nhập viện, và
   - Cefazolin 1 g (tĩnh mạch chậm) mỗi 8h trong 48h, sau đó
-  - Cephalexin 500 mg (uống) mỗi 6h trong 5 ngày.
+  - Cephalexin 500mg (uống) mỗi 6h trong 5 ngày.
 - Trường hợp nguy cơ cao phản ứng phản vệ với Penicillin:
   - Azithromycin 1 g (uống) ngay khi nhập viện, và
-  - Clindamycin 900 mg (truyền tĩnh mạch) mỗi 8h trong 48h + Gentamicin 5 mg/kg (truyền tĩnh mạch) mỗi 24h trong 48h, sau đó
-  - Clindamycin 300 mg (uống) mỗi 8h trong 5 ngày.
+  - Clindamycin 900mg (truyền tĩnh mạch) mỗi 8h trong 48h + Gentamicin 5mg/kg (truyền tĩnh mạch) mỗi 24h trong 48h, sau đó
+  - Clindamycin 300mg (uống) mỗi 8h trong 5 ngày.
 - Trường hợp dị ứng nặng với Penicillin, GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ:
   - Azithromycin 1 g (uống) ngay khi nhập viện, và
-  - Vancomycin 20 mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24h trong 48h. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành 3 nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy>15mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
+  - Vancomycin 20mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24h trong 48h. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành 3 nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy >15mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
 
 :::
 
@@ -121,7 +121,7 @@ Cân nhắc điều trị ngoại trú, tái khám sau 1 tuần nếu:
 
 Chấm dứt thai kỳ khi:
 
-- Thai ≥34 tuần hoặc<24 tuần.
+- Thai ≥34 tuần hoặc <24 tuần.
 - Chuyển dạ thực sự.
 - Sa dây rốn.
 - Rau bong nong.
@@ -130,8 +130,8 @@ Chấm dứt thai kỳ khi:
 
 Dùng Magnesium sulfate bảo vệ não ở trẻ sinh non:
 
-- Chỉ định thai 24 tuần đến<32 tuần có nguy cơ sinh non trong vòng 24h, áp dụng đơn thai và đa thai.
-- Thường quy từ 28 đến<32 tuần. Cân nhắc trường hợp 24 đến<28 tuần.
+- Chỉ định thai 24 tuần đến <32 tuần có nguy cơ sinh non trong vòng 24h, áp dụng đơn thai và đa thai.
+- Thường quy từ 28 đến <32 tuần. Cân nhắc trường hợp 24 đến <28 tuần.
 - Chống chỉ định khi mẹ bị nhược cơ.
 - Thận trọng khi mẹ có tiền căn thiếu máu cơ tim, rối loạn dẫn truyền.
 - Trường hợp mẹ tăng huyết áp hay tiền sản giật sử dụng theo phác đồ [Tăng huyết áp thai kỳ](/san-khoa/007-02_tang-huyet-ap-thai-ky/#magnesium-sulfate).

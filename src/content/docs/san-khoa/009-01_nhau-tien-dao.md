@@ -110,7 +110,7 @@ Xác định độ trưởng thành phổi. Cố gắng dưỡng thai đến 32-
 
 Liệu pháp corticosteroid từ tuần 28 đến trước 34 tuần.
 
-Truyền máu khi Hb<10g/dL.
+Truyền máu khi Hb <10g/dL.
 
 Có thể xuất viện trong vòng 48h không kèm theo yếu tố nguy cơ nào khác.
 
@@ -129,11 +129,11 @@ Cầm máu vị trí rau bám:
 
 Là cấp cứu sản khoa cần mổ lấy thai cấp cứu.
 
-Cần lập 1-2 đường truyền tĩnh mạch. Truyền Ringer lactated hoặc NaCl 0.9% nhằm duy trì huyết động, có nước tiểu, ít nhất 30 mL/h.
+Cần lập 1-2 đường truyền tĩnh mạch. Truyền Ringer lactated hoặc NaCl 0.9% nhằm duy trì huyết động, có nước tiểu, ít nhất 30mL/h.
 
-Xét nghiệm nhóm máu, dự trù 2-4 đơn vị máu. Truyền khi lượng máu mất quá 30% (xuất huyết độ III) hoặc Hb<10g/dL.
+Xét nghiệm nhóm máu, dự trù 2-4 đơn vị máu. Truyền khi lượng máu mất quá 30% (xuất huyết độ III) hoặc Hb <10g/dL.
 
-Theo dõi huyết áp mẹ, nước tiểu mỗih bằng sonde tiểu. Ước lượng máu mất bằng bằng vệ sinh.
+Theo dõi huyết áp mẹ, nước tiểu mỗi giờ bằng sonde tiểu. Ước lượng máu mất bằng bằng vệ sinh.
 
 Phương pháp vô cảm lúc mổ lấy thai: Trong phần lớn trường hợp, gây tê vùng là lựa chọn khi mổ lấy thai rau tiền đạo. Tuy nhiên, trong trường hợp dự đoán cuộc mổ kéo dài hay khó khăn như trong trường hợp của rau cài răng lược thì gây mê nội khí quản sẽ được chọn lựa.
 

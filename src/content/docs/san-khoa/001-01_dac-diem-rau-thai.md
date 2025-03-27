@@ -52,7 +52,7 @@ Biến đổi của màng rụng trứng:
 - Tháng thứ 4: sát với màng rụng tử cung làm mất khoang tử cung, biểu mô sát nhập và tiêu đi.
 - Nửa sau thai kỳ: 4 màng (màng ối, màng đệm, màng rụng trứng, màng rụng tử cung) nhập lại tạo thành màng bọc thai.
 
-Rau được coi như đã hoàn thành sau tháng thứ 4 với cấu tạo hình đĩa, đường kính ≈ 20 cm, trọng lượng ≈ 500 g.
+Rau được coi như đã hoàn thành sau tháng thứ 4 với cấu tạo hình đĩa, đường kính ≈ 20cm, trọng lượng ≈ 500 g.
 
 ## Vai trò
 

@@ -80,9 +80,9 @@ Giai đoạn xóa mở cổ tử cung lại được phân ra thành 2 pha:
 1. Pha tiềm thời.
 2. Pha hoạt động.
 
-Pha tiềm thời: là giai đoạn chuẩn bị cổ tử cung và ngôi thai. Thường kéo dài và bất định. Trong pha này, cổ tử cung trở nên mềm, xóa và hướng trục, ngôi thai sẽ định hướng và bình chỉnh, cơn co tử cung thưa và ngắn. Pha tiềm thời được xác định khi có chuyển dạ và độ mở cổ tử cung<3 cm.
+Pha tiềm thời: là giai đoạn chuẩn bị cổ tử cung và ngôi thai. Thường kéo dài và bất định. Trong pha này, cổ tử cung trở nên mềm, xóa và hướng trục, ngôi thai sẽ định hướng và bình chỉnh, cơn co tử cung thưa và ngắn. Pha tiềm thời được xác định khi có chuyển dạ và độ mở cổ tử cung <3cm.
 
-Pha hoạt động: là giai đoạn cổ tử cung mở nhanh, thành lập đoạn dưới và ngôi thai tiến triển. Thường diễn ra nhanh, kéo dài tối đa 12h. Trong pha này, cổ tử cung hoàn tất xóa và mở nhanh, ngôi thai sẽ đi xuống và biến dạng, cơn co tử cung nhiều, dài, có cường độ mạnh và biên độ lớn. Pha hoạt động được xác định khi độ mở cổ tử cung ≥3 cm.
+Pha hoạt động: là giai đoạn cổ tử cung mở nhanh, thành lập đoạn dưới và ngôi thai tiến triển. Thường diễn ra nhanh, kéo dài tối đa 12h. Trong pha này, cổ tử cung hoàn tất xóa và mở nhanh, ngôi thai sẽ đi xuống và biến dạng, cơn co tử cung nhiều, dài, có cường độ mạnh và biên độ lớn. Pha hoạt động được xác định khi độ mở cổ tử cung ≥3cm.
 
 ![So sánh pha tiềm thời và pha hoạt động](../../../assets/san-khoa/sinh-ly-chuyen-da/so-sanh-pha-tiem-thoi-va-pha-hoat-dong.png)
 

@@ -39,7 +39,7 @@ CT scan nếu BN chống chỉ định chụp MRI.
 
 Tùy theo nguyên nhân.
 
-Điều trị tăng prolactin máu bằng Bromocriptine 2.5 mg. Liều khởi đầu 1.25-2.5 mg/ngày, sau đó tăng thêm 2.5 mg mỗi 2-7 ngày. Liều duy trì 2.5-15 mg/ngày. Theo dõi trong khoảng 3 tháng, nếu hết tiết sữa thì ngưng thuốc.
+Điều trị tăng prolactin máu bằng Bromocriptine 2.5mg. Liều khởi đầu 1.25-2.5mg/ngày, sau đó tăng thêm 2.5mg mỗi 2-7 ngày. Liều duy trì 2.5-15mg/ngày. Theo dõi trong khoảng 3 tháng, nếu hết tiết sữa thì ngưng thuốc.
 
 ## Tiết dịch bệnh lý
 

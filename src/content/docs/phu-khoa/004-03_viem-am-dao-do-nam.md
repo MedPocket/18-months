@@ -90,8 +90,8 @@ lại ảnh hưởng tiêu cực đến cân bằng microbiome.
 Điều trị chính đối với VVC là các loại Imidazoles tổng hợp như miconazole, clotrimazole, butoconazole, tioconazole và terconazole dạng cream hoặc viên dùng qua đường đặt âm đạo. Cụ thể:
 
 - Các nhóm thuốc azole đường uống có liên quan đến nguy cơ tăng men gan.
-- Liệu pháp đơn liều với 150 mg fluconazole cũng được sử dụng rộng rãi.
-- Liều thấp của fluconazole là an toàn trong thai kỳ. Ghi nhận liều cao hàng ngày của fluconazole (400-800 mg mỗi ngày) có liên quan đến khuyết tật lúc sinh.
+- Liệu pháp đơn liều với 150mg fluconazole cũng được sử dụng rộng rãi.
+- Liều thấp của fluconazole là an toàn trong thai kỳ. Ghi nhận liều cao hàng ngày của fluconazole (400-800mg mỗi ngày) có liên quan đến khuyết tật lúc sinh.
 - Nystatin cũng được sử dụng trong thai kỳ.
 
 Mặc dù các loại kháng nấm thông dụng cho tỷ lệ khỏi bệnh cao, khoảng 20-30% bệnh nhân sẽ bị tái phát sau 1 tháng điều trị. Lúc này, liệu pháp uống fluconazole mỗi tuần 1 lần trong 6 tháng có hiệu quả trong ngăn ngừa tái phát ở 50% phụ nữ. Liệu pháp thuốc đặt âm đạo mỗi tuần hoặc 2 lần 1 tuần cũng được sử dụng để phòng ngừa.
@@ -105,7 +105,7 @@ Candida glabrata đề kháng với tất cả các -imidazoles. Khi đó có th
 VVC tái phát nhiều lần, cần tìm yếu tố nguy cơ. Trong trường hợp cần thiết, nên cấy định danh loại Candida và làm kháng sinh đồ nấm. Bệnh nhân bị tái phát thường xuyên nên cẩn thận đánh giá các yếu tố nguy cơ như đái tháo đường hoặc suy giảm
 miễn dịch.
 
-Liệu pháp dự phòng tại chỗ với thuốc kháng nấm nên được xem xét khi bệnh nhân đang dùng kháng sinh toàn thân. Việc điều trị phòng ngừa với fluconazole 150 mg x 1 viên mỗi tuần trong 6 tháng có thể giúp đỡ hạn chế tái phát.
+Liệu pháp dự phòng tại chỗ với thuốc kháng nấm nên được xem xét khi bệnh nhân đang dùng kháng sinh toàn thân. Việc điều trị phòng ngừa với fluconazole 150mg x 1 viên mỗi tuần trong 6 tháng có thể giúp đỡ hạn chế tái phát.
 
 #### Điều trị hệ vi khuẩn âm đạo
 

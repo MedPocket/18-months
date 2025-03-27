@@ -9,7 +9,7 @@ Lộ tuyến cổ tử cung (endocervical ectropion) là hiện tượng biểu 
 
 ### Giải phẫu
 
-Tử cung được chia ra 2 phần: phần trên là thân tử cung và phần dưới là cổ tử cung, nối với rau bằng eo tử cung. Cổ tử cung lại được chia làm 2 phần, ở phía trên âm đạo và tiếp xúc với âm đạo. Nhìn từ phía âm đạo, cổ tử cung có đường kính khoảng 2.5-3 cm.
+Tử cung được chia ra 2 phần: phần trên là thân tử cung và phần dưới là cổ tử cung, nối với rau bằng eo tử cung. Cổ tử cung lại được chia làm 2 phần, ở phía trên âm đạo và tiếp xúc với âm đạo. Nhìn từ phía âm đạo, cổ tử cung có đường kính khoảng 2.5-3cm.
 
 ![Các điểm mốc nhận diện quan trọng trong bệnh học cổ tử cung](../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/cac-moc-nhan-dien-benh-hoc-co-tu-cung.png)
 

@@ -9,7 +9,7 @@ Khung chậu được cấu tạo bởi 4 xương: phía trước và 2 bên là
 
 Tiểu khung là phần quan trọng nhất vì ngôi thai phải vượt qua tiểu khung để đi ra ngoài qua ngã âm đạo. Trên đoạn đường đi từ trong ra ngoài này, thai nhi phải lần lượt vượt qua các vòng eo hẹp, có thể được cấu tạo bằng xương, hay bằng xương và cân-cơ, đó là eo trên, eo giữa và eo dưới.
 
-Khi nhìn ngang, lòng tiểu khung có dạng ống cong về phía trước với 2 thành trước và sau không đều nhau. Thành trước ngắn khoảng 4 cm tương ứng với măt sau khớp vệ. Thành sau dài 12-15 cm tương ứng mặt trước xương cùng và xương cụt.
+Khi nhìn ngang, lòng tiểu khung có dạng ống cong về phía trước với 2 thành trước và sau không đều nhau. Thành trước ngắn khoảng 4cm tương ứng với măt sau khớp vệ. Thành sau dài 12-15cm tương ứng mặt trước xương cùng và xương cụt.
 
 Khi ngôi thai đi qua eo trên gọi là thì lọt, đi từ eo trên đến eo dưới thì gọi là thì xuống; ra khỏi eo dưới gọi là thì sổ.
 
@@ -23,13 +23,13 @@ Kích thước của eo trên được thể hiện qua các đường kính (di
 _Các đường kính eo trên._
 
 - Các đường kính trước sau:
-  - Đường kính mỏm nhô-thượng vệ 11 cm.
-  - Đường kính mỏm nhô-hạ vệ 12 cm là đường kính duy nhất của eo trên có thể đo được bằng tay, nhưng lại chỉ phản ánh gián tiếp đường kính trước-sau hữu dụng của eo trên.
-  - Đường kính mỏm nhô-hậu vệ 10.5 cm là đường kính quan trọng nhất vì là đường kính thật sự mà ngôi thai phải vượt qua, nên còn gọi là đường kính hữu dụng.
-- Các đường kính chéo: Các đường kính chéo đi từ khớp cùng-chậu 1 bên (ở phía sau) đến gai mào chậu lược bên đối diện (ở phía trước) có trị số bình thường 12.75 cm.
+  - Đường kính mỏm nhô-thượng vệ 11cm.
+  - Đường kính mỏm nhô-hạ vệ 12cm là đường kính duy nhất của eo trên có thể đo được bằng tay, nhưng lại chỉ phản ánh gián tiếp đường kính trước-sau hữu dụng của eo trên.
+  - Đường kính mỏm nhô-hậu vệ 10.5cm là đường kính quan trọng nhất vì là đường kính thật sự mà ngôi thai phải vượt qua, nên còn gọi là đường kính hữu dụng.
+- Các đường kính chéo: Các đường kính chéo đi từ khớp cùng-chậu 1 bên (ở phía sau) đến gai mào chậu lược bên đối diện (ở phía trước) có trị số bình thường 12.75cm.
 - Các đường kính ngang:
-  - Đường kính ngang tối đa 13.5 cm là khoảng cách xa nhất giữa 2 đường vô danh. Tuy là đường kính lớn nhất, nhưng ngôi thai không thể sử dụng được đường kính này, do đường kính này nằm quá gần với mỏm nhô. Đường kính này không có giá trị về mặt sản khoa.
-  - Đường kính ngang hữu dụng 12.5 cm là đường kính ngang tưởng tượng, đi ngang qua trung điểm của đường kính trước-sau, có trị số khoảng 12.5 cm. Tuy là đường kính hữu dụng nhưng nó lại không đo được trên lâm sàng.
+  - Đường kính ngang tối đa 13.5cm là khoảng cách xa nhất giữa 2 đường vô danh. Tuy là đường kính lớn nhất, nhưng ngôi thai không thể sử dụng được đường kính này, do đường kính này nằm quá gần với mỏm nhô. Đường kính này không có giá trị về mặt sản khoa.
+  - Đường kính ngang hữu dụng 12.5cm là đường kính ngang tưởng tượng, đi ngang qua trung điểm của đường kính trước-sau, có trị số khoảng 12.5cm. Tuy là đường kính hữu dụng nhưng nó lại không đo được trên lâm sàng.
 
 ## Eo giữa
 
@@ -44,10 +44,10 @@ Do các đặc điểm vừa kể nên khi nói đến eo giữa, ta thường n
 ![Tiểu khung trên thiết đồ đứng dọc](../../../assets/san-khoa/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
 _Tiểu khung trên thiết đồ đứng dọc._
 
-- Đường kính trước sau của eo giữa 11.5 cm. Đường kính này không có ý nghĩa trên lâm sàng.
-- Đường kính ngang của eo giữa là khoảng cách giữa 2 gai hông 10.5 cm. Đường kính có ý nghĩa quan trọng, và là đường
+- Đường kính trước sau của eo giữa 11.5cm. Đường kính này không có ý nghĩa trên lâm sàng.
+- Đường kính ngang của eo giữa là khoảng cách giữa 2 gai hông 10.5cm. Đường kính có ý nghĩa quan trọng, và là đường
   kính có đo thể được trực tiếp trên lâm sàng.
-- Đường kính dọc sau là phần đường kính trước sau đi từ giao điểm với đường kính ngang qua 2 gai hông đến mặt trước xương cùng. Trị số bình thường của nó là 4.5 cm. Đường kính này phản ánh gián tiếp độ cong của xương cùng, và như vậy phản ánh gián tiếp những khó khăn mà thai có thể gặp trong hành trình vượt eo giữa.
+- Đường kính dọc sau là phần đường kính trước sau đi từ giao điểm với đường kính ngang qua 2 gai hông đến mặt trước xương cùng. Trị số bình thường của nó là 4.5cm. Đường kính này phản ánh gián tiếp độ cong của xương cùng, và như vậy phản ánh gián tiếp những khó khăn mà thai có thể gặp trong hành trình vượt eo giữa.
 
 ## Eo dưới
 
@@ -58,8 +58,8 @@ Eo dưới tạo bởi 2 tam giác không đồng phẳng, 1 bằng xương ở 
 
 Do đặc tính không đồng phẳng, cấu tạo cứng ở phía trước và cân mạc phía sau, nên trong đa số các trường hợp, eo dưới không phải là trở ngại thực sự trên đường sinh:
 
-- Đường kính trước sau của eo dưới 9.5-11.5 cm. Đường kính này không có ý nghĩa lâm sàng, do tính không đồng phẳng của eo dưới.
-- Đường kính ngang 11 cm là khoảng cách giữa 2 ụ ngồi, có trị số cố định, đo đạc được trên lâm sàng, có ý nghĩa nhất định, nhưng không mạnh vì eo dưới thực sự không phải là trở ngại lớn trên đường sinh.
+- Đường kính trước sau của eo dưới 9.5-11.5cm. Đường kính này không có ý nghĩa lâm sàng, do tính không đồng phẳng của eo dưới.
+- Đường kính ngang 11cm là khoảng cách giữa 2 ụ ngồi, có trị số cố định, đo đạc được trên lâm sàng, có ý nghĩa nhất định, nhưng không mạnh vì eo dưới thực sự không phải là trở ngại lớn trên đường sinh.
 
 ## Đánh giá khung chậu
 

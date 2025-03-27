@@ -16,7 +16,7 @@ Buồng trứng là cơ quan nằm trong ổ bụng và không được thanh m�
 
 Có 2 buồng trứng, 1 bên phải và 1 bên trái nằm áp vào thành bên của chậu hông, phía sau dây chằng rộng.
 
-Buồng trứng có hình hạt đậu dẹt, nặng từ 4-8 gram, kích thước khoảng 2 cm x 3 cm x 3 cm. Buồng trứng có
+Buồng trứng có hình hạt đậu dẹt, nặng từ 4-8g, kích thước khoảng 2cm x 3cm x 3cm. Buồng trứng có
 màu hồng nhạt, bề mặt buồng trứng thường nhẵn cho tới lúc dậy thì, sau đó càng ngày càng sần sùi vì hiện tượng phóng noãn tạo thành những vết sẹo trên bề mặt.
 
 Buồng trứng có 2 mặt: mặt trong và mặt ngoài. Mặt trong lồi, tiếp xúc với các tua của phễu vòi tử cung và các quai ruột. Mặt ngoài áp vào phúc mạc của thành bên chậu hông nằm trong hố lõm gọi là hố buồng trứng.

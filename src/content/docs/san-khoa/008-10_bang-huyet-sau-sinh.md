@@ -8,12 +8,12 @@ description: Băng huyết sau sinh.
 ## Băng huyết sau sinh
 
 :::note[Định nghĩa băng huyết sau sinh]
-Băng huyết sau sinh được định nghĩa là chảy máu ≥500 mL, trong vòng 24h sau sổ thai, từ bất kỳ nơi nào trên đường sinh.
+Băng huyết sau sinh được định nghĩa là chảy máu ≥500mL, trong vòng 24h sau sổ thai, từ bất kỳ nơi nào trên đường sinh.
 :::
 
-Bất kể nguyên nhân, tốc độ mất máu trong băng huyết sau sinh là rất nhanh. Tình trạng mất máu có thể lên đến vài trăm mL mỗi phút, và tổng lượng mất máu trong vòng vàih có thể lên đến nhiều nghìn mL. Đây là tình trạng mất máu cấp với hệ quả trước tiên và chết người là choáng giảm thể tích. Đi sau choáng giảm thể tích, việc mất lượng lớn huyết cầu sẽ dẫn đến những vấn đề liên quan đến thiếu oxy mô.
+Bất kể nguyên nhân, tốc độ mất máu trong băng huyết sau sinh là rất nhanh. Tình trạng mất máu có thể lên đến vài trămmL mỗi phút, và tổng lượng mất máu trong vòng vàih có thể lên đến nhiều nghìnmL. Đây là tình trạng mất máu cấp với hệ quả trước tiên và chết người là choáng giảm thể tích. Đi sau choáng giảm thể tích, việc mất lượng lớn huyết cầu sẽ dẫn đến những vấn đề liên quan đến thiếu oxy mô.
 
-Mốc thiết lập định nghĩa là 500 mL thực ra rất tương đối, lệ thuộc vào nhiều yếu tố như căn cứ vào cảm tính chủ quan, lượng máu mất lẫn với dịch ối hay các thứ dung dịch chăm sóc, lượng máu mất vào champ phủ phẫu trường... Cần lưu ý rằng số lượng máu mất mà ta ước lượng thường chỉ bằng nửa lượng máu mất thật sự, do đó việc phải đo lường lượng máu mất tin cậy, khách quan. Vài nghiên cứu ghi nhận gần 50% sản phụ sinh ngả âm đạo bị mất tượng máu kể trên, mổ lấy thai mất khoảng 1000 mL máu. Vì thế, nếu định ngưỡng định nghĩa băng huyết sau sinh ở mức 500 mL thì có thể sẽ có các chăm sóc vượt mức cần thiết. Tuy nhiên, nếu đặt mốc định nghĩa băng huyết sau sinh lên cao hơn thì can thiệp có thể bị trễ và gây ra nguy hiểm cho sản phụ. Vì thế, nhà sản khoa cần đánh giá từng trường hợp lâm sàng cụ thể để can thiệp đúng mức và kịp
+Mốc thiết lập định nghĩa là 500mL thực ra rất tương đối, lệ thuộc vào nhiều yếu tố như căn cứ vào cảm tính chủ quan, lượng máu mất lẫn với dịch ối hay các thứ dung dịch chăm sóc, lượng máu mất vào champ phủ phẫu trường... Cần lưu ý rằng số lượng máu mất mà ta ước lượng thường chỉ bằng nửa lượng máu mất thật sự, do đó việc phải đo lường lượng máu mất tin cậy, khách quan. Vài nghiên cứu ghi nhận gần 50% sản phụ sinh ngả âm đạo bị mất tượng máu kể trên, mổ lấy thai mất khoảng 1000mL máu. Vì thế, nếu định ngưỡng định nghĩa băng huyết sau sinh ở mức 500mL thì có thể sẽ có các chăm sóc vượt mức cần thiết. Tuy nhiên, nếu đặt mốc định nghĩa băng huyết sau sinh lên cao hơn thì can thiệp có thể bị trễ và gây ra nguy hiểm cho sản phụ. Vì thế, nhà sản khoa cần đánh giá từng trường hợp lâm sàng cụ thể để can thiệp đúng mức và kịp
 thời.
 
 Cho mục đích mô tả, băng huyết sau sinh có thể chia thành:
@@ -126,15 +126,15 @@ Theo dõi đáp ứng huyết động đối với tình trạng mất máu sẽ
 - Khi mất đến 30% thể tích máu thì nhịp tim, nhịp thở tăng nhiều hơn nữa, tụt huyết áp thấy rõ.
 - Mất trên 40% đến 50% thể tích sẽ làm thiểu niệu, shock, hôn mê, thậm chí là tử vong.
 
-Bất cứ cuộc sinh bình thường nào cũng luôn có chảy máu trong giai đoạn sổ rau và cầm máu. Số lượng máu mất bình quân trong cuộc sinh có thể đến vài trăm mL. Tuy nhiên, do các biến đổi sinh lý trong nửa sau thai kỳ đã làm thể tích máu tăng đáng kể, khoảng 30-60%, tương ứng với 1000-2000 mL máu vào những tháng cuối của thai kỳ, nên đa số sản phụ có thể dung nạp được với tình trạng mất máu trong giai đoạn 3 mà không ảnh hưởng đến tổng trạng.
+Bất cứ cuộc sinh bình thường nào cũng luôn có chảy máu trong giai đoạn sổ rau và cầm máu. Số lượng máu mất bình quân trong cuộc sinh có thể đến vài trămmL. Tuy nhiên, do các biến đổi sinh lý trong nửa sau thai kỳ đã làm thể tích máu tăng đáng kể, khoảng 30-60%, tương ứng với 1000-2000mL máu vào những tháng cuối của thai kỳ, nên đa số sản phụ có thể dung nạp được với tình trạng mất máu trong giai đoạn 3 mà không ảnh hưởng đến tổng trạng.
 
 Lượng máu mất được tính theo công thức $EBV\frac{H_0 - H_f}{H_0}$. Trong đó $H_0$ là hematocrit ban đầu, $H_f$ là hematocrit cuối cùng. EBV là lượng máu ước tính; trọng lượng (kg) × thể tích máu trung bình. Dựa trên tuổi, giá trị thể tích máu trung bình được sử dụng để tính EBV như sau:
 
-- Trẻ sơ sinh đẻ non: 95-100 mL/kg.
-- Trẻ sơ sinh đủ tháng: 85-90 mL/kg.
-- Trẻ em: 80 mL/kg.
-- Đàn ông trưởng thành: 70-75 mL/kg.
-- Phụ nữ trưởng thành: 65-70 mL/kg.
+- Trẻ sơ sinh đẻ non: 95-100mL/kg.
+- Trẻ sơ sinh đủ tháng: 85-90mL/kg.
+- Trẻ em: 80mL/kg.
+- Đàn ông trưởng thành: 70-75mL/kg.
+- Phụ nữ trưởng thành: 65-70mL/kg.
 
 ## Điều trị và phòng ngừa
 
@@ -240,8 +240,8 @@ Mục tiêu của điều trị đờ tử cung là đảm bảo gò tử cung t
 2. Dùng thuốc co hồi tử cung, với sự thận trọng cần thiết.
 
 - Oxytocin truyền tĩnh mạch (Oxytocin PIV: 10-40 IU trong 1 L NaCl 0.9% hoặc LR).
-- Ergometrin (Methylergonovine IM: 0.2 mg, có thể lặp lại trong 2-4h).
-- 15-Methyl $PGF_{2α}$ hay Dinoprostone (Dinoprostone đặt hậu môn 20 mg mỗi 2h hay 15-Methyl $PGF_{2α}$ IM 0.25 mg mỗi 15-90 ph, tối đa 8 liều).
+- Ergometrin (Methylergonovine IM: 0.2mg, có thể lặp lại trong 2-4h).
+- 15-Methyl $PGF_{2α}$ hay Dinoprostone (Dinoprostone đặt hậu môn 20mg mỗi 2h hay 15-Methyl $PGF_{2α}$ IM 0.25mg mỗi 15-90 ph, tối đa 8 liều).
 - Misoprostol (800-1000 µg đặt hậu môn 1 liều trong trường hợp không có sẵn $PGF_{2α}$).
 
 3. Dùng bóng chèn. Đây là phương pháp tạm thời.
@@ -290,7 +290,7 @@ Khi kiểm tra âm đạo, cổ tử cung thường cần thêm người phụ s
 
 Khối máu tụ có thể xuất hiện mọi nơi trong đường sinh dục dưới do sang chấn trong quá trình sanh gây ra như ở âm hộ, âm đạo, vết cắt tầng sinh môn, vết rách ở đáy chậu... đôi khi khối máu tụ xảy ra không kèm theo tổn thương niêm mạc âm đạo nên dễ bị bỏ sót khi thăm khám. Tìm ra được điểm chảy máu là chìa khóa cho việc điều trị khối máu tụ.
 
-Những khối máu tụ dưới 5 cm đường kính và không phát triển lớn ra thêm có thể chưa cần can thiệp, theo dõi sát kích thước của khối máu tụ, sinh hiệu của sản phụ, lượng nước tiểu là cần thiết. Khi khối máu tụ này lớn ra thì cần thiết can thiệp bằng ngoại khoa:
+Những khối máu tụ dưới 5cm đường kính và không phát triển lớn ra thêm có thể chưa cần can thiệp, theo dõi sát kích thước của khối máu tụ, sinh hiệu của sản phụ, lượng nước tiểu là cần thiết. Khi khối máu tụ này lớn ra thì cần thiết can thiệp bằng ngoại khoa:
 
 - Nếu khối máu tụ ở vị trí vết cắt tầng sinh môn thì cần tháo bỏ chỉ khâu cũ, tìm điểm chảy máu và cột/may cầm máu vị trí này.
 - Nếu khối máu tụ không nằm ở vị trí vết cắt tầng sinh môn thì cũng nên mở khối máu tụ này ra và tìm điểm chảy máu.

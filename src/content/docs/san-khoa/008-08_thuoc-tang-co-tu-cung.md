@@ -65,7 +65,7 @@ Ngôi mông. Trên thực tế nhiều bác sĩ sản khoa vẫn sử dụng thu
 | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------ | ---------------- |
 | Oxytocin                                                          | Dạng ống tiêm 5IU (tiêm bắp hoặc tĩnh mạch)                                        | x                            | x                                          | Tác dụng ngắn    |
 | Chất tương đồng oxytocin (Carbetocin: Duratocin®)                |                                                                                    |                              | x                                          | Tác dụng kéo dài |
-| Ergot alkaloids (Ergonovine hoặc Methylergonovine)                | Dạng ống 0.2 mg tiêm bắp                                                           |                              | x                                          | Tác dụng kéo dài |
+| Ergot alkaloids (Ergonovine hoặc Methylergonovine)                | Dạng ống 0.2mg tiêm bắp                                                           |                              | x                                          | Tác dụng kéo dài |
 | Syntometrine (5IU oxytocin + 0.5mg ergometrine maleate)           | Dạng ống 1mL (tiêm bắp hay tĩnh mạch)                                              |                              | x                                          | Tác dụng kéo dài |
 | Prostaglandin F2α (Carboprost, Prostodin, Sulprostone, Nalador®) | Lọ 1mL 125mcg và 250mcg (tiêm bắp)<br>Lọ bột pha tiêm 500mcg (tiêm bắp, tĩnh mạch) |                              | x                                          | Tác dụng kéo dài |
 | Prostaglandin E1 (Misoprostol: Cytotec®, Alsoben®)              | Dạng 200mcg uống, ngậm dưới lưỡi, áp má, đặt âm đạo hay trong trực tràng           | x                            | x                                          | Tác dụng kéo dài |
@@ -86,7 +86,7 @@ Mẹ:
 
 - Cơn co cường tính, gây vỡ tử cung.
 - Ngộ độc nước trong trường hợp sử dụng liều cao trong thời gian dài thì nên tăng nồng độ hơn tăng tốc độ, dùng dung dịch Lactate Ringer hay muối đẳng trương.
-- Ảnh hường lê tim mạch khi dùng liều cao>45mIU/phút hay tiêm tĩnh mạch trực tiếp có thể gây biến chứng tụt huyết áp, giảm tưới máu động mạch vành, ngưng tim.
+- Ảnh hường lê tim mạch khi dùng liều cao >45mIU/phút hay tiêm tĩnh mạch trực tiếp có thể gây biến chứng tụt huyết áp, giảm tưới máu động mạch vành, ngưng tim.
 - Dị ứng ít thấy.
 - Tác dụng kháng lợi tiểu do giống cấu trúc ADH, nên dùng liều lớn có thể có tác dụng kháng lợi niệu (ứ nước, hạ natri, hôn mêm, co giật tử cung).
 

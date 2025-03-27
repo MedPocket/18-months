@@ -67,7 +67,7 @@ Xác định nhiễm trùng lan rộng bao gồm nhiễm trùng vùng chậu, nh
 
 Chọn 1 trong các kháng sinh sau đây:
 
-- Ampicillin 2 g tiêm tĩnh mạch mỗi 6h + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24h (sau mổ lấy thai, thêm Clindamycin 900 mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h), hoặc
+- Ampicillin 2 g tiêm tĩnh mạch mỗi 6h + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24h (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h), hoặc
 - Ampicillin - sulbactam 3 g tiêm tĩnh mạch mỗi 6h, hoặc
 - Cefoxitin 2 g tiêm tĩnh mạch mỗi 8h, hoặc
 - Cefotetan 2 g tiêm tĩnh mạch mỗi 12h, hoặc
@@ -75,11 +75,11 @@ Chọn 1 trong các kháng sinh sau đây:
 
 #### Lựa chọn 2: Nếu dị ứng nhẹ với Penicillin
 
-Cefazolin 2 g tiêm tĩnh mạch mỗi 8h + + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24h (sau mổ lấy thai, thêm Clindamycin 900 mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h).
+Cefazolin 2 g tiêm tĩnh mạch mỗi 8h + + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24h (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h).
 
 #### Lựa chọn 3: Nếu dị ứng nặng với Penicillin
 
-Clindamycin 900 mg truyền tĩnh mạch 8h hoặc Vancomycin 1 g truyền tĩnh mạch mỗi 12h và Gentamicin truyền tĩnh mạch 5 mg/kg truyền tĩnh mạch mỗi 24h.
+Clindamycin 900mg truyền tĩnh mạch 8h hoặc Vancomycin 1 g truyền tĩnh mạch mỗi 12h và Gentamicin truyền tĩnh mạch 5mg/kg truyền tĩnh mạch mỗi 24h.
 
 :::caution[Lưu ý]
 

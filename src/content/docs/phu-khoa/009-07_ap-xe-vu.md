@@ -89,16 +89,16 @@ Nhiễm trùng nhẹ:
 
 - Dicloxacillin hoặc Cloxacillin 500mg x 1 viên x 4 lần/ngày, uống trong 10-14 ngày
 - Không đáp ứng trong 24-48h chuyển sang Cephalexin 500mg x 1 viên x 4 lần/ngày, uống trong 10-14 ngày
-  <br>Hoặc Cefadroxyl 500mg 2 viên x 2 lần/ngày, uống 10-14 ngày
+  <br>Hoặc Cefadroxyl 500mg x 2 viên x 2 lần/ngày, uống 10-14 ngày
   <br>Hoặc Amoxicillin-clavulanate 625mg x 1 viên x 3 lần/ngày, uống 10-14 ngày.
 - Nếu nghi ngờ vi khuẩn kị khí (áp xe dưới quầng vú) phối hợp thêm Clindamycin 300mg x 1 viên x 4 lần/ngày, uống 10-14 ngày.
   <br>Hoặc Metronidazole 250mg 2 viên x 2 lần/ngày, uống 10-14 ngày.
-- Nếu nghi ngờ tụ cầu kháng Methicillin (MRSA): Trimethoprim/Sulfamethoxazole 160 mg/800 mg x 1 viên x 2 lần/ngày, uống 10-14 ngày.
-  <br> Hoặc Clindamycin 300mg x 1 viên x 4 lần/ngày, uống 10-14 ngày.
+- Nếu nghi ngờ tụ cầu kháng Methicillin (MRSA): Trimethoprim/Sulfamethoxazole 160mg/800mg x 1 viên x 2 lần/ngày, uống 10-14 ngày.
+  <br>Hoặc Clindamycin 300mg x 1 viên x 4 lần/ngày, uống 10-14 ngày.
 
 Nhiễm trùng nặng:
 
-- Vancomycin (15 mg/kg truyền tĩnh mạch mỗi 12h).
+- Vancomycin (15mg/kg truyền tĩnh mạch mỗi 12h).
 - Có thể phối hợp Cephalosporin thế hệ 3 hoặc beta-lactam/chất ức chế beta-lactamase.
 
 :::caution[Lưu ý]
@@ -113,11 +113,11 @@ Amoxicillin an toàn cho các bà mẹ đang nuôi con bằng sữa mẹ.
 
 ### Ngoại khoa
 
-Đường kính ổ áp xe<3 cm chọc hút bằng kim 18-19G + Bơm rửa bằng NaCl 0.9% dưới hướng dẫn của siêu âm. Chọc hút tối đa 3 lần. Nếu không đáp ứng rạch dẫn lưu.
+Đường kính ổ áp xe <3cm chọc hút bằng kim 18-19G + Bơm rửa bằng NaCl 0.9% dưới hướng dẫn của siêu âm. Chọc hút tối đa 3 lần. Nếu không đáp ứng rạch dẫn lưu.
 
-Đường kính ổ áp xe từ 3-5 cm chọc hút + dẫn lưu bằng catheter dưới hướng dẫn của siêu âm.
+Đường kính ổ áp xe từ 3-5cm chọc hút + dẫn lưu bằng catheter dưới hướng dẫn của siêu âm.
 
-Đường kính>5 cm rạch dẫn lưu.
+Đường kính >5cm rạch dẫn lưu.
 
 ## Theo dõi
 

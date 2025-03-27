@@ -46,7 +46,7 @@ Ta thường gặp tăng sinh nội mạc tử cung ở các nhóm có yếu t�
 Ung thư nội mạc tử cung là nguyên nhân của khoảng 5-10% các trường hợp xuất huyết tử cung bất thường sau mãn kinh. Tế bào ung thư xuất phát từ nội mạc tử cung (endometrial carcinoma). Ung thư nội mạc tử cung có các yếu tố nguy cơ sau:
 
 - Tuổi người phụ nữ ≥45 tuổi.
-- Béo phì BMI>30 $kg/m^2$.
+- Béo phì BMI >30 $kg/m^2$.
 - Chưa từng có thai.
 - Hội chứng buồng trứng đa nang.
 - Đái tháo đường.
@@ -84,7 +84,7 @@ Nội soi buồng tử cung cho phép nhìn trực tiếp buồng tử cung, cho
 
 Siêu âm qua đường âm đạo là tiếp cận sơ cấp, cho phép quyết định các chiến lược tiếp cận thứ cấp đi theo sau đó.
 
-Siêu âm qua đường âm đạo thường là siêu âm thang xám (grey-scale) thực hiện nhằm khảo sát độ dầy của nội mạc tử cung và các hình ảnh bất thường của nội mạc tử cung. Độ dầy nội mạc tử cung được xem như mốc quy chiếu để thực hiện các khảo sát không xâm lấn (SIS) hay xâm lấn khác (nội soi buồng tử cung). Tăng sinh nội mạc tử cung tạo ra vùng echo dày, đồng nhất, bờ nhẵn trong buồng tử cung, có độ dày ≥4mm (mãn kinh) và đầu chu kỳ kinh>9 mm.
+Siêu âm qua đường âm đạo thường là siêu âm thang xám (grey-scale) thực hiện nhằm khảo sát độ dầy của nội mạc tử cung và các hình ảnh bất thường của nội mạc tử cung. Độ dầy nội mạc tử cung được xem như mốc quy chiếu để thực hiện các khảo sát không xâm lấn (SIS) hay xâm lấn khác (nội soi buồng tử cung). Tăng sinh nội mạc tử cung tạo ra vùng echo dày, đồng nhất, bờ nhẵn trong buồng tử cung, có độ dày ≥4mm (mãn kinh) và đầu chu kỳ kinh >9 mm.
 
 Có thể phát hiện u nang buồng trứng, buồng trứng đa nang.
 
@@ -105,7 +105,7 @@ Các phương pháp chẩn đoán hình ảnh khác (chụp cắt lớp bụng c
 Các chỉ định của lấy mẫu nội mạc tử cung để chẩn đoán mô bệnh học gồm:
 
 1. Xuất huyết tử cung bất thường ở các đối tượng nguy cơ cao có ung thư tuyến nội mạc tử cung.
-2. Phụ nữ hậu mãn kinh có độ dầy nội mạc tử cung>4 mm, nhưng không kèm theo xuất huyết thì việc nạo sinh thiết nội mạc tử cung thường quy không được khuyết cáo. Chỉ nên sinh thiết nội mạc tử cung ở các đối tượng này nếu nội mạc tử cung dày>11 mm hoặc có các hình ảnh nghi ngờ ác tính như kèm theo tăng sinh mạch máu, dày không đều hoặc có ứ dịch lòng tử cung.
+2. Phụ nữ hậu mãn kinh có độ dầy nội mạc tử cung >4 mm, nhưng không kèm theo xuất huyết thì việc nạo sinh thiết nội mạc tử cung thường quy không được khuyết cáo. Chỉ nên sinh thiết nội mạc tử cung ở các đối tượng này nếu nội mạc tử cung dày >11 mm hoặc có các hình ảnh nghi ngờ ác tính như kèm theo tăng sinh mạch máu, dày không đều hoặc có ứ dịch lòng tử cung.
 3. Nguy cơ cao ung thư nội mạc tử cung (điều trị với tamoxifen, hội chứng Lynch, hội chứng Cowden).
 4. Tăng sinh nội mạc tử cung ở phụ nữ không phóng noãn và có kèm vô kinh trên 6 tháng.
 5. Theo dõi điều trị tăng sinh nội mạc tử cung.
@@ -115,7 +115,7 @@ Xuất huyết tử cung bất thường ở các đối tượng nguy cơ cao c
 
 Đối với xuất tử cung bất thường hậu mãn kinh, chỉ định được đặt ra cho mọi trường hợp xuất huyết bất chấp kiểu và lượng xuất huyết như thế nào (xuất huyết điểm hay vết).
 
-Đối với xuất tử cung bất thường ở phụ nữ từ 45 tuổi đến mãn kinh, chỉ định được đặt ra cho mọi trường hợp xuất huyết, bất chấp kiểu xuất huyết, bao gồm: xuất huyết giữa 2 kỳ kinh ở các phụ nữ có phóng noãn, xuất huyết tử cung thường xuyên (khoảng cách giữa 2 lần hành kinh dưới 21 ngày), xuất huyết nặng (lượng máu mất trên 80 mL) hay kéo dài (số ngày hành kinh nhiều hơn 7 ngày).
+Đối với xuất tử cung bất thường ở phụ nữ từ 45 tuổi đến mãn kinh, chỉ định được đặt ra cho mọi trường hợp xuất huyết, bất chấp kiểu xuất huyết, bao gồm: xuất huyết giữa 2 kỳ kinh ở các phụ nữ có phóng noãn, xuất huyết tử cung thường xuyên (khoảng cách giữa 2 lần hành kinh dưới 21 ngày), xuất huyết nặng (lượng máu mất trên 80mL) hay kéo dài (số ngày hành kinh nhiều hơn 7 ngày).
 
 Đối với xuất tử cung bất thường ở phụ nữ trẻ hơn 45 tuổi, chỉ định được đặt ra cho xuất huyết tử cung bất thường tồn tại, xảy ra ở cơ địa tiếp xúc với estrogen kéo dài mà không có đối kháng của progesterone (béo phì, không phóng noãn mạn tính) hay thất bại với điều trị nội khoa.
 
@@ -162,10 +162,10 @@ Sau điều trị progestin, tỷ lệ thoái triển của tăng sinh tuyến n
 
 Progestin có thể là MPA hay LNG:
 
-1. Medroxyprogesterone acetate (MPA) đường uống (Provera®) 10 mg uống/ngày trong 3 tháng đến 6 tháng hoặc 10 mg uống/ngày, 12-14 ngày/tháng trong 3 tháng đến 6 tháng; hay đường tiêm bắp sử dụng dạng kho phóng thích chậm trong mô (depot-MPA) (DMPA) (Depo-Provera®) 150 mg tiêm bắp sâu 1 lần/3 tháng đến 6 tháng.
+1. Medroxyprogesterone acetate (MPA) đường uống (Provera®) 10mg uống/ngày trong 3 tháng đến 6 tháng hoặc 10mg uống/ngày, 12-14 ngày/tháng trong 3 tháng đến 6 tháng; hay đường tiêm bắp sử dụng dạng kho phóng thích chậm trong mô (depot-MPA) (DMPA) (Depo-Provera®) 150mg tiêm bắp sâu 1 lần/3 tháng đến 6 tháng.
 2. Levonorgestrel (LNG) phóng thích chậm qua đặt tại chỗ trong buồng tử cung. Dụng cụ tử cung phóng thích hằng định 15-20 µg LNG/ngày. Thời hạn tác dụng 5 năm cho Mirena® hay 3 năm với Liletta®.
-3. Riêng với tăng sinh tuyến nội mạc tử cung đơn giản điển hình, có thể dùng micronized progesterone không phải là progestin, dược chất này là progesterone thiên nhiên, do đó tác dụng kháng estrogen của nó yếu hơn progestin khác, có thể dùng 200 mg/ngày trong 12-14 ngày/tháng trong 3 tháng đến 6 tháng.
-4. Utrogestan®, Cyclogest® 100-200 mg đặt âm đạo/ngày, 14 ngày/tháng, trong 3 tháng đến 6 tháng.
+3. Riêng với tăng sinh tuyến nội mạc tử cung đơn giản điển hình, có thể dùng micronized progesterone không phải là progestin, dược chất này là progesterone thiên nhiên, do đó tác dụng kháng estrogen của nó yếu hơn progestin khác, có thể dùng 200mg/ngày trong 12-14 ngày/tháng trong 3 tháng đến 6 tháng.
+4. Utrogestan®, Cyclogest® 100-200mg đặt âm đạo/ngày, 14 ngày/tháng, trong 3 tháng đến 6 tháng.
 
 Sau điều trị:
 

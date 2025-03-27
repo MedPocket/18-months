@@ -52,7 +52,7 @@ Khiếm khuyết chức năng tế bào β không bù đủ sự gia tăng của
 | Thiểu cân   | <18.5              | <18.5                                  |
 | Bình thường | 18.5-24.9        | 18.5-22.9                            |
 | Thừa cân    | 25-29.9          | 23-24.9                              |
-| Béo phì     |>30               |>25                                   |
+| Béo phì     | >30              | >25                                  |
 
 _Bảng phân loại BMI theo tiêu chuẩn của WHO và theo Châu Á._
 
@@ -106,18 +106,18 @@ Nhóm thai phụ có nguy cơ cao cần được xét nghiệm glucose huyết t
 
 - Bình thường:
 
-  - Glucose huyết tương tĩnh mạch khi đói 70-90 mg/dL (3,9-5,0mmol/L).
-  - Glucose huyết tương tĩnh mạch bất kỳ ≤199 mg/dL (11mmol/L).
+  - Glucose huyết tương tĩnh mạch khi đói 70-90mg/dL (3,9-5,0mmol/L).
+  - Glucose huyết tương tĩnh mạch bất kỳ ≤199mg/dL (11mmol/L).
   - Nhóm này cũng vẫn thực hiện xét nghiệm sàng lọc khi 24-28 tuần.
 
 - Nghi ngờ:
 
-  - Glucose huyết tương tĩnh mạch khi đói 91-125 mg/dL (5.1-6.9mmol/L) và/ hoặc HbA1c 5,7%-6,4%.
+  - Glucose huyết tương tĩnh mạch khi đói 91-125mg/dL (5.1-6.9mmol/L) và/ hoặc HbA1c 5,7%-6,4%.
   - Thực hiện xét nghiệm sàng lọc ngay.
 
 - Đái tháo đường mang thai:
-  - Glucose huyết tương tĩnh mạch khi đói ≥126 mg/dL (7.0mmol/L). Cần làm 2 thời điểm khác nhau hoặc kèm thêm HbA1C bất thường.
-  - Glucose huyết tương tĩnh mạch bất kỳ ≥200 mg/dL (11.1mmol/L) kèm các triệu chứng của tăng gluces huyết điển hình hoặc cơn tăng glucose huyết cấp.
+  - Glucose huyết tương tĩnh mạch khi đói ≥126mg/dL (7.0mmol/L). Cần làm 2 thời điểm khác nhau hoặc kèm thêm HbA1C bất thường.
+  - Glucose huyết tương tĩnh mạch bất kỳ ≥200mg/dL (11.1mmol/L) kèm các triệu chứng của tăng gluces huyết điển hình hoặc cơn tăng glucose huyết cấp.
   - Giới thiệu khám chuyên khoa Nội tiết.
 
 :::
@@ -127,11 +127,11 @@ Y văn ghi nhận tăng HbA1C trong 3 tháng đầu thai kỳ làm tăng nguy c�
 Dựa trên tiêu chuẩn của đái tháo đường thực thụ, BN có thể mắc đái tháo đường từ trước nhưng khi có thai mới phát hiện đái tháo đường.
 
 :::note[Tiêu chuẩn chẩn đoán đái tháo đường]
-Đường huyết đói ≥126 mg/dL (7.0mmol/L)
+Đường huyết đói ≥126mg/dL (7.0mmol/L)
 
 hoặc
 
-Đường huyết sau 2h uống đường ≥200 mg/dL (11.1mmol/L) trong test OGTT\*
+Đường huyết sau 2h uống đường ≥200mg/dL (11.1mmol/L) trong test OGTT\*
 
 hoặc
 
@@ -139,7 +139,7 @@ A1C ≥6.5%\*
 
 hoặc
 
-BN có triệu chứng điển hình của tăng đường huyết hay các cơn tăng đường huyết, đường huyết bất kỳ ≥200 mg/dL (11.1mmol/L)
+BN có triệu chứng điển hình của tăng đường huyết hay các cơn tăng đường huyết, đường huyết bất kỳ ≥200mg/dL (11.1mmol/L)
 
 \* Cần thực hiện lại xét nghiệm nếu không có triệu chứng tăng đường huyết rõ ràng trên lâm sàng.
 :::
@@ -161,7 +161,7 @@ Hướng dẫn chuẩn bị trước khi thực hiện sàng lọc: 3 ngày trư
 :::note[Tiêu chuẩn chẩn đoán đái tháo đường thai kỳ]
 Tham số glucose huyết tương trong nghiệm pháp 75g glucose 2h:
 
-| Giờ   | Glucose huyết tương tĩnh mạch (mg/dl hay mg%) | Glucose huyết tương tĩnh mạch (mmol/l) |
+| Giờ   | Glucose huyết tương tĩnh mạch (mg/dl haymg%) | Glucose huyết tương tĩnh mạch (mmol/l) |
 | --- | --------------------------------------------- | -------------------------------------- |
 | Đói | ≥92                                           | ≥5.1                                   |
 | 1h  | ≥180                                          | ≥10.0                                  |
@@ -303,7 +303,7 @@ _Tóm tắt thời điểm và chỉ định cách sinh._
 
 ### Theo dõi trong chuyển dạ
 
-Cần kiểm soát glucose mao mạch mẹ trong suốt cuộc chuyển dạ và sinh (tốt nhất dao động từ 70-100 mg/dl hay 3.9-5.6mmol/L). Ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những thai phụ cần điều trị insulin. Mức đường huyết trong chuyển dạ >140-180 mg/dL (7.8-10mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm ketone acid ở mẹ.
+Cần kiểm soát glucose mao mạch mẹ trong suốt cuộc chuyển dạ và sinh (tốt nhất dao động từ 70-100mg/dl hay 3.9-5.6mmol/L). Ngưỡng đường huyết này ghi nhận không đưa đến tình trạng hạ đường huyết sơ sinh ở những thai phụ cần điều trị insulin. Mức đường huyết trong chuyển dạ >140-180mg/dL (7.8-10mmol/L) liên quan mật thiết đến tình trạng hạ đường huyết sơ sinh và làm tăng nguy cơ nhiễm ketone acid ở mẹ.
 
 Nếu thai phụ không dùng insulin, theo dõi glucose huyết tương mao mạch 4-6h/lần.
 
@@ -413,7 +413,7 @@ Vitamin và chất khoáng:
 
 Sữa và chế phẩm sữa:
 - Không chỉ là nguồn cung cấp calci quan trọng cho bà mẹ trong những giai đoạn đặc biệt này mà còn là những thực phẩm có đầy đủ các chất dinh dưỡng thiết yếu và ở tỷ lệ cân đối rất tốt cho sức khỏe bà mẹ và trẻ em:
-  - Phụ nữ có thai 3 tháng đầu: Nên sử dụng 3 IU sữa/ngày (mỗi IU sữa tương đương 100 mg calci, tương đương 1 miếng phô mai, 1 hộp sữa chua, 100 ml sữa dạng lỏng).
+  - Phụ nữ có thai 3 tháng đầu: Nên sử dụng 3 IU sữa/ngày (mỗi IU sữa tương đương 100mg calci, tương đương 1 miếng phô mai, 1 hộp sữa chua, 100 ml sữa dạng lỏng).
   - Phụ nữ có thai 3 tháng giữa: Tăng thêm 2 IU so với 3 tháng đầu, sử dụng 5 IU sữa và chế phẩm sữa/ngày.
   - Phụ nữ có thai 3 tháng cuối: Tăng thêm 1 IU so với 3 tháng giữa, sử dụng 6 IU sữa và chế phẩm sữa/ngày.
 - Nên sử dụng sữa và chế phẩm sữa không đường hoặc sử dụng thực phẩm dinh dưỡng y học cho người đái tháo đường theo sự chỉ dẫn của bác sỹ, nhân viên y tế hoặc chuyên gia dinh dưỡng.
@@ -453,7 +453,7 @@ Bộ Y tế Việt Nam chưa cho phép việc dùng Metformin trong thai kỳ ch
 
 Các chỉ định dùng insulin:
 - Glucose huyết tương không đạt mục tiêu điều trị sau 1-2 tuần áp dụng chế độ dinh dưỡng và tập luyện hợp lý (trên 50% số mẫu xét nghiệm không đạt mục tiêu điều trị); hoặc
-- Glucose huyết tương cao. Mức glucose huyết tương lúc đói >126 mg/dL (>7mmol/L) hoặc glucose huyết tương bất kỳ >200 mg/dL (11.1mmol/L) cần xem xét điều trị ngay; hoặc
+- Glucose huyết tương cao. Mức glucose huyết tương lúc đói >126mg/dL (>7mmol/L) hoặc glucose huyết tương bất kỳ >200mg/dL (11.1mmol/L) cần xem xét điều trị ngay; hoặc
 - Thai to hơn so với tuổi thai: trong 3 tháng giữa thai kỳ có thể lưu ý khi chu vi bụng thai nhi ở 28-32 tuần có bách phân vị > 75th. Những ngày trước sinh kích thước thai trên siêu âm với chu vi bụng >370 mm hoặc bách phân vị > 95th (cân nặng ước lượng > 95th của tuổi thai hay chu vi vòng bụng > 95th của tuổi thai).
 
 ### Liều dùng insulin
@@ -462,11 +462,11 @@ Liều lượng insulin và số mũi tiêm insulin phụ thuộc vào mức tă
 
 - Nếu người bệnh chỉ tăng glucose huyết tương buổi sáng lúc đói thì phác đồ sử dụng insulin nền được khuyến cáo. Có thể sử dụng insulin NPH hoặc insulin tác dụng kéo dài (Detemir). Liều khởi đầu 0.1 IU/kg/ngày (trọng lượng thực) nếu glucose huyết tương buổi sáng lúc đói thường xuyên bằng hoặc trên 5.3mmol/L (95mg/L) và dưới 7mmol/L (180mg/dL). Chỉnh liều insulin cứ 2-3 ngày/lần, mỗi lần thêm 1-2 IU cho đến khi đạt mục tiêu điều trị.
 
-- Nếu glucose huyết tương sau ăn tăng (bằng hoặc trên 7.8mmol/L (140 mg/dL) sau ăn 1h, hoặc bằng hoặc trên 6,7mmol/L (120 mg/dL) sau ăn 2h và dưới 11.1mmol/L (200 mg/dL)) thì sử dụng insulin nhanh (regular, lispro, aspart) tiêm trước các bữa ăn. Số mũi tiêm phụ thuộc vào số các bữa ăn có tăng glucose huyết tương, có thể tiêm từ 1-3 mũi tiêm. Liều khởi đầu từ =< 0.1 IU/kg/bữa ăn. Chỉnh liều insulin 2-3 ngày/lần, mỗi lần tăng 1-2 IU cho đến khi glucose huyết tương đạt mục tiêu.
+- Nếu glucose huyết tương sau ăn tăng (bằng hoặc trên 7.8mmol/L (140mg/dL) sau ăn 1h, hoặc bằng hoặc trên 6,7mmol/L (120mg/dL) sau ăn 2h và dưới 11.1mmol/L (200mg/dL)) thì sử dụng insulin nhanh (regular, lispro, aspart) tiêm trước các bữa ăn. Số mũi tiêm phụ thuộc vào số các bữa ăn có tăng glucose huyết tương, có thể tiêm từ 1-3 mũi tiêm. Liều khởi đầu từ ≤0.1 IU/kg/bữa ăn. Chỉnh liều insulin 2-3 ngày/lần, mỗi lần tăng 1-2 IU cho đến khi glucose huyết tương đạt mục tiêu.
 
 - Nếu glucose huyết tương tăng cả lúc đói và sau ăn, thì phác đồ tiêm insulin nền-phóng (basal-bolus) được sử dụng. Liều lượng và chỉnh liều tương tự trên.
 
-- Nếu glucose huyết tương lúc đói của bệnh ≥7mmol/L (126 mg/dL) và/hoặc glucose huyết tương sau ăn ≥11.1mmol/L (200 mg/dL)- đái tháo đường thực sự, thì chuyển bệnh nhân sang bác sỹ chuyên khoa Nội tiết để theo dõi điều trị.
+- Nếu glucose huyết tương lúc đói của bệnh ≥7mmol/L (126mg/dL) và/hoặc glucose huyết tương sau ăn ≥11.1mmol/L (200mg/dL)- đái tháo đường thực sự, thì chuyển bệnh nhân sang bác sỹ chuyên khoa Nội tiết để theo dõi điều trị.
 
 Thời gian chỉnh liều insulin phụ thuộc vào mức độ tăng glucose huyết tương, có thể chỉnh liều sau 1-3 ngày điều trị.
 
@@ -603,9 +603,9 @@ Thực hiện sau sinh 4-12 tuần với xét nghiệm 75 ram glucose uống 2h.
 
 |Glucose huyết tương tĩnh mạch|Tiền đái tháo đường|đái tháo đường|
 |---|---|---|
-|Khi đói|100-125 mg/dL (5.6-6.9mmol/L)|≥126 mg/dL (≥7mmol/L)|
-|Sau uống 2h|140-199 mg/dL (7.8-11mmol/L)|≥200 mg/dL (≥11.1mmol/L)|
-_Giá trị glucose huyết tương tĩnh mạch nghiệm pháp 75gram 2h sau sinh._
+|Khi đói|100-125mg/dL (5.6-6.9mmol/L)|≥126mg/dL (≥7mmol/L)|
+|Sau uống 2h|140-199mg/dL (7.8-11mmol/L)|≥200mg/dL (≥11.1mmol/L)|
+_Giá trị glucose huyết tương tĩnh mạch nghiệm pháp 75g sau sinh 2h._
 
 Kết quả:
 
@@ -634,7 +634,7 @@ Ngừng các thuốc hạ đường huyết khác insulin khi có thai. Nên s�
 - Bắt đầu với liều 0.4-0.5 IU/kg/ngày.
 - Chỉnh liều tăng dần từ tuần 13: 0.8 IU/kg từ tuần 13-26, 0.9 IU/kg từ 26-36 và 1 IU/kg từ tuần 36 khi đẻ.
 - Sản phụ béo phì cần liều khởi đầu cao hơn 1-2 IU/kg/ngày.
-- Aspirin dự phòng đối với đái tháo đường thực sự khi mang thai liều từ 60-150 mg/ngày trong 3 tháng thai thứ nhất để giảm nguy cơ tiền sản giật.
+- Aspirin dự phòng đối với đái tháo đường thực sự khi mang thai liều từ 60-150mg/ngày trong 3 tháng thai thứ nhất để giảm nguy cơ tiền sản giật.
 
 ## Nguồn tham khảo
 

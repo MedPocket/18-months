@@ -3,7 +3,7 @@ title: Xử trí tích cực giai đoạn 3
 description: Xử trí tích cực giai đoạn 3.
 ---
 
-Giai đoạn 3 của chuyển dạ, còn gọi là thời kỳ sổ rau và cầm máu, là khoảng thời gian từ sau khi sổ thai đến khi rau bong và được đẩy ra ngoài âm đạo. Thời gian trung bình của toàn bộ thời kỳ sổ rau và cầm máu vào khoảng 6-30 phút nếu không có các can thiệp từ bên ngoài. Tổng lượng máu mất trung bình trong giai đoạn 3 của chuyển dạ thường khoảng 300 gram.
+Giai đoạn 3 của chuyển dạ, còn gọi là thời kỳ sổ rau và cầm máu, là khoảng thời gian từ sau khi sổ thai đến khi rau bong và được đẩy ra ngoài âm đạo. Thời gian trung bình của toàn bộ thời kỳ sổ rau và cầm máu vào khoảng 6-30 phút nếu không có các can thiệp từ bên ngoài. Tổng lượng máu mất trung bình trong giai đoạn 3 của chuyển dạ thường khoảng 300g.
 
 ## Sinh lý giai đoạn 3
 
@@ -56,7 +56,7 @@ Cần lưu ý rằng các sợi cơ đan chéo chỉ hiện diện ở phần th
 
 ## Xử trí tích cực
 
-Can thiệp tích cực giai đoạn 3 có làm giảm tổng lượng máu mất có ý nghĩa thống kê, nhưng lượng máu mất giảm được lại không có ý nghĩa lâm sàng (< 100 mL). Can thiệp tích cực giai đoạn 3 không làm giảm có ý nghĩa tần suất của băng huyết sau sinh.
+Can thiệp tích cực giai đoạn 3 có làm giảm tổng lượng máu mất có ý nghĩa thống kê, nhưng lượng máu mất giảm được lại không có ý nghĩa lâm sàng (< 100mL). Can thiệp tích cực giai đoạn 3 không làm giảm có ý nghĩa tần suất của băng huyết sau sinh.
 
 Hiện nay, WHO vẫn khuyến khích thực hiện can thiệp tích cực giai đoạn 3 có điều kiện. Điều kiện quan trọng nhất mà WHO đưa ra để thực hiện can thiệp tích cực giai đoạn 3 là có nhân sự được huấn luyện để có thực hiện đúng kỹ thuật này.
 

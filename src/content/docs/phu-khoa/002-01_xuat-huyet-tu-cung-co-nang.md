@@ -82,7 +82,7 @@ Việc chọn lựa biện pháp xử trí xuất huyết tử cung bất thư�
 Sử dụng các thuốc tăng co hồi tử cung, cầm máu và kháng sinh là cần thiết:
 
 - Oxytocin tiêm bắp hay truyền tĩnh mạch tăng co hồi tử cung.
-- Ergometrin 0.2 mg 1-2 ống/ngày, tiêm bắp.
+- Ergometrin 0.2mg 1-2 ống/ngày, tiêm bắp.
 - Tranexamic và calci clorid tiêm tĩnh mạch cầm máu.
 
 Thuốc viên tránh thai estrogen-progestogen phối hợp được dùng với mục đích làm giảm sự phát triển nội mạc tử cung, tái tạo lại chu kỳ kinh bình thường, giảm lượng máu kinh và giảm nguy cơ thiếu máu thiếu sắt.

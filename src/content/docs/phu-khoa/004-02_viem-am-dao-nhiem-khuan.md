@@ -34,7 +34,7 @@ Các yếu tố nguy cơ mạnh nhất của loạn khuẩn âm đạo gồm:
 
 1. Tiết dịch âm đạo đồng chất, trắng xám, nặng mùi và không có biểu hiện viêm.
 2. Sự có mặt của tế bào "clue cells" trên phiến âm đạo.
-3. pH dịch âm đạo>4.5.
+3. pH dịch âm đạo >4.5.
 4. Dịch âm đạo mùi "cá thối", trước hay sau test KOH.
 
 Cần 3/4 tiêu chuẩn để xác lập chẩn đoán. Sensitivity (Se) và Specificity (Sp) của tiêu chuẩn Amsel là 70 và 94% khi so với các test khác.

@@ -44,13 +44,13 @@ _Trứng trống (trứng không phôi) (blighted ovum).<br>Chẩn đoán trứn
 
 Các tình huống khác nhau có thể thấy:
 
-1. Có phôi thai CRL<7 mm, không hoạt động tim phôi.
+1. Có phôi thai CRL <7 mm, không hoạt động tim phôi.
 2. MSD 16-24 mm và không có phôi thai.
 3. Không thấy phôi thai với hoạt động tim phôi trong vòng 7-10 ngày, được tính từ thời điểm có siêu âm xác nhận đã có túi thai và có yolk-sac.
 4. Không có hình ảnh của phôi thai sau 6 tuần hoặc hơn, kể từ ngày kinh cuối.
 5. Không có màng ối.
 6. Yolk-sac giãn rộng >7 mm.
-7. Túi thai nhỏ so với CRL (hiệu MSD và CRL<5 mm).
+7. Túi thai nhỏ so với CRL (hiệu MSD và CRL <5 mm).
 
 Khi đó, chỉ được phép nghi ngờ khả năng xảy ra tình trạng này, và phải chờ xác nhận ở các lần kiểm tra sau.
 
@@ -96,15 +96,15 @@ Triệu chứng lâm sàng khá nghèo nàn, thường là ra máu, đau bụng 
 Dấu hiệu siêu âm có giá trị dự báo cao tình trạng thai nghén có nhiều khả năng sẽ thất bại sớm nhưng không cho phép kết luận thai nghén thất bại sớm:
 
 1. Không thấy phôi thai sau 6 tuần vô kinh.
-2. Yolk-sac dãn rộng>7 mm.
-3. Túi thai nhỏ và phôi thai nhỏ<5 mm.
-4. Túi thai nhỏ, không tròn, không căng, hiệu số của MSD-CRL<5 mm.
-5. Tim thai chậm<80-90 nhịp/phút.
+2. Yolk-sac dãn rộng >7 mm.
+3. Túi thai nhỏ và phôi thai nhỏ <5 mm.
+4. Túi thai nhỏ, không tròn, không căng, hiệu số của MSD-CRL <5 mm.
+5. Tim thai chậm <80-90 nhịp/phút.
 6. Xuất huyết rộng dưới màng nuôi.
 7. Xoang ối dãn rộng (expanded amnion sign).
 
 ![Dọa sảy thai lưu](../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-1.png)
-_Doạ sẩy thai lưu: túi thai rất nhỏ, hiệu (MSD-CRL)<5 mm. Túi thai rất nhỏ, (MSD-CRL)<5 mm, có tụ máu dưới màng đệm._
+_Doạ sẩy thai lưu: túi thai rất nhỏ, hiệu (MSD-CRL) <5 mm. Túi thai rất nhỏ, (MSD-CRL) <5 mm, có tụ máu dưới màng đệm._
 
 ![Dọa sảy thai lưu](../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-2.png)
 _Doạ sẩy thai lưu: xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm._

@@ -27,7 +27,7 @@ Nếu khối u đã được chẩn đoán là nang noãn nang mà vẫn tồn t
 
 ### Nang hoàng thể
 
-Khi đường kính hoàng thể vượt quá 3 cm nó được nhận dạng như là loại nang chứ không còn là hoàng thể đơn thuần. Có 2 loại được ghi nhận là nang hoàng thể tồn lưu và nang hoàng thể xuất huyết.
+Khi đường kính hoàng thể vượt quá 3cm nó được nhận dạng như là loại nang chứ không còn là hoàng thể đơn thuần. Có 2 loại được ghi nhận là nang hoàng thể tồn lưu và nang hoàng thể xuất huyết.
 
 Nang hoàng thể tồn lưu là nang hoàng thể phì đại nhẹ, có thể vẫn tiếp tục sản xuất progesterone dài ngày hơn so với thông thường, kỳ kinh nguyệt bị trì hoàn từ vài ngày đến vài tuần, thông thường là trong vòng 2 tuần so với chu kỳ đã lỡ.
 
@@ -101,7 +101,7 @@ Thường xảy ra trong độ tuổi sinh đẻ. Chiếm 30% các u buồng tr�
 ![U tuyến thanh dịch lành tính](../../../assets/phu-khoa/u-buong-trung-theo-who/u-tuyen-thanh-dich-lanh-tinh.png)
 _Đại thể: khối u có thể to, mặt nhẵn. Trên bề mặt lòng nang không thấy các chồi nhú. Vi thể: thành nang lót bởi tế bào trụ thấp giống tế bào vòi Fallope._
 
-U giáp biên không phải là u lành vì đặc tính tái phát. U giáp biên không phải là u ác vì không xâm lấn và không di căn. Đặc điểm tế bào có các đặc điểm của ác tính. U tuyến thanh dịch giáp biên chiếm khoảng 10% các u tuyến thanh dịch. Tuổi trung bình của u thanh dịch giáp biên ác là 40. 30% các u thanh dịch giáp biên ác là 2 bên. U có thể đạt đến kích thước to đến 25 cm. Về mặt vi thể, các cấu trúc u nhú được tạo bởi các lớp tế bào thượng mô xếp tầng với nhân không điển hình ở những mức độ khác nhau, có sự tăng phân bào nhưng không có xâm lấn.
+U giáp biên không phải là u lành vì đặc tính tái phát. U giáp biên không phải là u ác vì không xâm lấn và không di căn. Đặc điểm tế bào có các đặc điểm của ác tính. U tuyến thanh dịch giáp biên chiếm khoảng 10% các u tuyến thanh dịch. Tuổi trung bình của u thanh dịch giáp biên ác là 40. 30% các u thanh dịch giáp biên ác là 2 bên. U có thể đạt đến kích thước to đến 25cm. Về mặt vi thể, các cấu trúc u nhú được tạo bởi các lớp tế bào thượng mô xếp tầng với nhân không điển hình ở những mức độ khác nhau, có sự tăng phân bào nhưng không có xâm lấn.
 
 ![U thanh dịch giáp biên ác](../../../assets/phu-khoa/u-buong-trung-theo-who/u-thanh-dich-giap-bien-ac.png)
 _Đại thể: ghi nhận các chồi nhú ở mặt trong u. Vi thể: ghi nhận tế bào tăng sinh, với nhân bất thường, tạo các nhú._
@@ -158,7 +158,7 @@ U quái đa mô có tỷ lệ ác tính rất thấp, có thể có tân sinh á
 
 ![U bì buồng trứng](../../../assets/phu-khoa/u-buong-trung-theo-who/u-bi-buong-trung.png)
 
-Các u quái không trưởng thành luôn luôn ác tính. Đây là nhóm u tế bào mầm thường gặp thứ 3 (15%). Độ tuổi trung bình là 19. Về đại thể, u có đường kính trung bình 18 cm, bề mặt trơn láng, mặt cắt chủ yếu là phần đặc và cấu trúc nang. Về vi thể, cấu trúc của khối u bao gồm gồm những mô tương tự mô phôi, ở nhiều mức độ biệt hóa tế bào khác nhau ở cả 3 lá mầm, thường thấy mô thần kinh chưa trưởng thành.
+Các u quái không trưởng thành luôn luôn ác tính. Đây là nhóm u tế bào mầm thường gặp thứ 3 (15%). Độ tuổi trung bình là 19. Về đại thể, u có đường kính trung bình 18cm, bề mặt trơn láng, mặt cắt chủ yếu là phần đặc và cấu trúc nang. Về vi thể, cấu trúc của khối u bao gồm gồm những mô tương tự mô phôi, ở nhiều mức độ biệt hóa tế bào khác nhau ở cả 3 lá mầm, thường thấy mô thần kinh chưa trưởng thành.
 
 ![U quái không trưởng thành](../../../assets/phu-khoa/u-buong-trung-theo-who/u-quai-khong-truong-thanh.png)
 _Không thấy các cấu trúc trưởng thành. Các mô của các lá phôi chỉ thấy trên vi thể với mức biệt hóa khác nhau._
@@ -212,7 +212,7 @@ U xuất phát từ dây giới bào thường là các u chế tiết steroid. 
 
 U tế bào hạt là loại u có mức ác tính thấp. U có đặc trưng vi thể của tế bào hạt và chế tiết estrogen.
 
-U thường xảy ra ở 1 bên, kích thước trung bình 15 cm. U có dạng nang, mật độ mềm hoặc chắc. Nhìn mặt cắt của khối u giống với u tuyến nhầy, nhưng chứa đầy dịch máu. U có đặc trưng vi thể của tế bào hạt. Mô bệnh học của u này được đặc trưng bởi thể Call-Exner. U có mức ác tính thấp, 80-90% bệnh nhân được chẩn đoán ở giai đoạn I. 95% type mô học trưởng thành, xảy ra vào những năm đầu sau mãn kinh (adult granulosa tumour). 5% type mô học trẻ xảy ra giữa dậy thì và những năm đầu thời kì sinh sản (juvenile granulosa tumour).
+U thường xảy ra ở 1 bên, kích thước trung bình 15cm. U có dạng nang, mật độ mềm hoặc chắc. Nhìn mặt cắt của khối u giống với u tuyến nhầy, nhưng chứa đầy dịch máu. U có đặc trưng vi thể của tế bào hạt. Mô bệnh học của u này được đặc trưng bởi thể Call-Exner. U có mức ác tính thấp, 80-90% bệnh nhân được chẩn đoán ở giai đoạn I. 95% type mô học trưởng thành, xảy ra vào những năm đầu sau mãn kinh (adult granulosa tumour). 5% type mô học trẻ xảy ra giữa dậy thì và những năm đầu thời kì sinh sản (juvenile granulosa tumour).
 
 ![U tế bào hạt thể người lớn](../../../assets/phu-khoa/u-buong-trung-theo-who/u-te-bao-hat-the-nguoi-lon.png)
 _U có mặt cắt nhìn giống như u dịch nhầy, với xuất huyết._

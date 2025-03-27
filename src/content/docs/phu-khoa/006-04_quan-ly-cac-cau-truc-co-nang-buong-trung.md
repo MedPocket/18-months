@@ -31,7 +31,7 @@ Bất thường nang noãn nang do nang tiếp tục lớn lên với hoạt đ�
 
 Nguyên nhân của không phóng noãn dẫn đến hình thành nang noãn nang là mọi nguyên nhân làm triệt tiêu các phản hồi của steroid trên trục hạ đồi-yên hay làm cho phản hồi này không hiệu quả. Dậy thì, quanh mãn kinh là các thời điểm sinh lý thường quan sát thấy nang noãn nang, do hoạt động bất ổn của trục trong khoảng thời gian này. Steroid ngoại sinh hay stress là các nguyên nhân thường thấy của hình thành nang noãn nang.
 
-Thành của nang noãn nang được lót bởi nhiều lớp tế bào hạt. Bên ngoài của tế bào hạt là các tế bào vỏ. Bên trong lòng nang là dịch nang, chứa estrogen. Đôi khi, các tế bào tróc ra, và chỉ còn trơ lại các tế bào vỏ. Do không bị vỡ, các nang noãn nang tiếp tục lớn lên trong thời gian dài sau đó, có thể đạt đến kích thước 5-8 cm, và tồn tại trong nhi u chu kỳ kinh.
+Thành của nang noãn nang được lót bởi nhiều lớp tế bào hạt. Bên ngoài của tế bào hạt là các tế bào vỏ. Bên trong lòng nang là dịch nang, chứa estrogen. Đôi khi, các tế bào tróc ra, và chỉ còn trơ lại các tế bào vỏ. Do không bị vỡ, các nang noãn nang tiếp tục lớn lên trong thời gian dài sau đó, có thể đạt đến kích thước 5-8cm, và tồn tại trong nhi u chu kỳ kinh.
 
 Không phóng noãn kèm chế tiết steroid bất thường dẫn đến bất thường của kinh nguyệt trong lần hành kinh kế tiếp. Chu kỳ không phóng noãn, bất thường chu kỳ kinh và hình thành cấu trúc nang tại buồng trứng là các đặc điểm của nang noãn nang.
 
@@ -44,7 +44,7 @@ Không phóng noãn kèm chế tiết steroid bất thường dẫn đến bất
 Trong trường hợp nang noãn nang, có thể chỉ định thuốc tránh thai estrogen-progestogen phối hợp (COC). COC không làm nang noãn nang biến mất. Mục tiêu của việc dùng COC là ngăn không cho các nang noãn thuộc 1 đoàn hệ noãn mới phát triển, nhằm tránh hình thành nang noãn nang mới, trong khi chờ đợi nang noãn nang cũ thoái triển.
 
 ![Nang noãn nang](../../../assets/phu-khoa/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-noan-nang.png)
-_Nang đơn, 5-8 cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ._
+_Nang đơn, 5-8cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ._
 
 Nếu nang đã được chẩn đoán là nang noãn nang mà vẫn tồn tại qua nhiều chu kỳ, thì việc nghĩ đến loại nang hay tân sinh và phải được đánh giá chuyên sâu hơn qua hình ảnh hoặc các thăm dò khác.
 
@@ -67,7 +67,7 @@ Nguyên nhân của hội chứng hoàng thể tồn lưu là bất thường c�
 
 ### Hoàng thể xuất huyết
 
-Ở thời điểm thành lập hoàng thể, nang noãn vỡ ra, sau đó là các mạch máu từ phía ngoài sẽ xâm nhập lòng nang và hoàng thể hóa các tế bào vỏ hạt. Hiện tượng xuất huyết bên trong lòng hoàng thể là phổ biến. Thông thường, xuất huyết trong nang sẽ tự cầm. Trong 1 vài trường hợp, xuất huyết hoàng thể không tự giới hạn, làm hoàng thể to nhanh. Kích thước hoàng thể to hơn 3 cm, với xuất huyết trong lòng.
+Ở thời điểm thành lập hoàng thể, nang noãn vỡ ra, sau đó là các mạch máu từ phía ngoài sẽ xâm nhập lòng nang và hoàng thể hóa các tế bào vỏ hạt. Hiện tượng xuất huyết bên trong lòng hoàng thể là phổ biến. Thông thường, xuất huyết trong nang sẽ tự cầm. Trong 1 vài trường hợp, xuất huyết hoàng thể không tự giới hạn, làm hoàng thể to nhanh. Kích thước hoàng thể to hơn 3cm, với xuất huyết trong lòng.
 
 Nếu chảy máu vẫn không tự cầm, hoàng thể có thể bị vỡ và gây ra xuất huyết nội do vỡ nang hoàng thể. Nếu chảy máu tự cầm, nhưng hoàng thể chứa máu bị căng, sẽ có khối ở phần phụ gây đau.
 

@@ -7,8 +7,8 @@ Ung thư vú là bệnh lý ác tính thường gặp nhất ở phụ nữ, chi
 
 ## Tầm soát ung thư vú
 
-Khả năng sống còn sau 5 năm của ung thư vú tùy thuộc vào giai đoạn ung thư lúc phẫu thuật. Vì thế, tầm soát ung thư vú đóng vai trò quan trọng trong phát hiện và điều trị sớm ung thư vú. Khả năng này là 98% nếu ung thư vú được phát hiện ở giai đoạn sớm, còn khu trú ở vú và điều trị bằng phẫu thuật kèm nạo hạch. 89% trường hợp u ≤1 cm điều trị bằng đoạn nhũ và nạo hạch không phát hiện di căn sau 18 năm.
-Khả năng sống còn sau 5 năm của ung thư vú tùy thuộc vào giai đoạn ung thư lúc phẫu thuật. Vì thế, tầm soát ung thư vú đóng vai trò quan trọng trong phát hiện và điều trị sớm ung thư vú. Khả năng này là 98% nếu ung thư vú được phát hiện ở giai đoạn sớm, còn khu trú ở vú và điều trị bằng phẫu thuật kèm nạo hạch. 89% trường hợp u ≤1 cm điều trị bằng đoạn nhũ và nạo hạch không phát hiện di căn sau 18 năm.
+Khả năng sống còn sau 5 năm của ung thư vú tùy thuộc vào giai đoạn ung thư lúc phẫu thuật. Vì thế, tầm soát ung thư vú đóng vai trò quan trọng trong phát hiện và điều trị sớm ung thư vú. Khả năng này là 98% nếu ung thư vú được phát hiện ở giai đoạn sớm, còn khu trú ở vú và điều trị bằng phẫu thuật kèm nạo hạch. 89% trường hợp u ≤1cm điều trị bằng đoạn nhũ và nạo hạch không phát hiện di căn sau 18 năm.
+Khả năng sống còn sau 5 năm của ung thư vú tùy thuộc vào giai đoạn ung thư lúc phẫu thuật. Vì thế, tầm soát ung thư vú đóng vai trò quan trọng trong phát hiện và điều trị sớm ung thư vú. Khả năng này là 98% nếu ung thư vú được phát hiện ở giai đoạn sớm, còn khu trú ở vú và điều trị bằng phẫu thuật kèm nạo hạch. 89% trường hợp u ≤1cm điều trị bằng đoạn nhũ và nạo hạch không phát hiện di căn sau 18 năm.
 
 ### Công cụ tầm soát
 
@@ -62,8 +62,8 @@ Các dấu hiệu bất thường có thể nhận thấy khi tự khám vú bu�
 - Khối u: Khối u ở vú phát hiện được có thể là (1) khối u mới, đơn độc hoặc (2) khối u mới xuất hiện ở vùng mô lổn nhổn trước đó. Đôi khi, không hẳn là cảm nhận khối u mà là cảm nhận vùng mô lổn nhổn, không đối xứng ở phụ nữ tiền mãn kinh hay đã mãn kinh. Tình trạng viêm hay áp-xe vú không đáp ứng với điều trị cũng là triệu chứng buộc người phụ nữ phải đi khám để không bỏ sót ác tính ẩn mình phía sau biểu hiện bên ngoài là áp-xe hay viêm.
 - Phì đại hạch nách hay hạch đòn: Mọi hạch nách phì đại mới phát hiện cần được đánh giá cẩn thận, vì có thể là hình ảnh của di căn đến từ vú.
 - Đau: Cần mô tả tính chất đau, vị trí, mức độ đau, tính chu kỳ. Đau vú (1) có hay không kèm theo khối u, (2) các trường hợp đau vú nhiều, ảnh hưởng đến chức lượng cuộc sống của người bệnh, (3) đau vú liên tục không có tính chu kỳ, (4) đau vú không đáp ứng với giảm đau hay các progesterone điều trị đau căng vú (mastodynia), (5) đau chỉ khu trú ở 1 bên vú, (6) đau vú ở phụ nữ đã mãn kinh đều là triệu chứng cần chú ý.
-- Tiết dịch núm vú: Nên ấn quầng vú và núm vú để tìm tiết dịch bất thường. Cần nhận định tiết dịch là 1 hay 2 bên, màu và độ quánh của dịch. Các tiết dịch có thể là nghiêm trọng gồm (1) tiết dịch ở phụ nữ ≥50 tuổi, (2) tiết dịch 1 bên ở phụ nữ<50 tuổi, (3) tiết dịch lẫn máu, (4) tiết dịch kèm co rút hay biến dạng núm vú...
-- Tiết dịch núm vú: Nên ấn quầng vú và núm vú để tìm tiết dịch bất thường. Cần nhận định tiết dịch là 1 hay 2 bên, màu và độ quánh của dịch. Các tiết dịch có thể là nghiêm trọng gồm (1) tiết dịch ở phụ nữ ≥50 tuổi, (2) tiết dịch 1 bên ở phụ nữ<50 tuổi, (3) tiết dịch lẫn máu, (4) tiết dịch kèm co rút hay biến dạng núm vú...
+- Tiết dịch núm vú: Nên ấn quầng vú và núm vú để tìm tiết dịch bất thường. Cần nhận định tiết dịch là 1 hay 2 bên, màu và độ quánh của dịch. Các tiết dịch có thể là nghiêm trọng gồm (1) tiết dịch ở phụ nữ ≥50 tuổi, (2) tiết dịch 1 bên ở phụ nữ <50 tuổi, (3) tiết dịch lẫn máu, (4) tiết dịch kèm co rút hay biến dạng núm vú...
+- Tiết dịch núm vú: Nên ấn quầng vú và núm vú để tìm tiết dịch bất thường. Cần nhận định tiết dịch là 1 hay 2 bên, màu và độ quánh của dịch. Các tiết dịch có thể là nghiêm trọng gồm (1) tiết dịch ở phụ nữ ≥50 tuổi, (2) tiết dịch 1 bên ở phụ nữ <50 tuổi, (3) tiết dịch lẫn máu, (4) tiết dịch kèm co rút hay biến dạng núm vú...
 
 ### Hình ảnh học tầm soát ung thư vú
 
@@ -213,10 +213,10 @@ Các phẫu thuật gồm có:
 
 #### Phẫu thuật bảo tồn vú
 
-Phẫu thuật bảo tồn vú cắt bỏ khối u và thêm 1 cm mô vú bình thường xung quanh.
+Phẫu thuật bảo tồn vú cắt bỏ khối u và thêm 1cm mô vú bình thường xung quanh.
 
-Phẫu thuật bảo tồn vú được chỉ định trong sang thương đơn độc trên nhũ ảnh và lâm sàng, u ≤4 cm hoặc>4 cm trên vú lớn, không di căn hạch và di căn xa.
-Phẫu thuật bảo tồn vú được chỉ định trong sang thương đơn độc trên nhũ ảnh và lâm sàng, u ≤4 cm hoặc>4 cm trên vú lớn, không di căn hạch và di căn xa.
+Phẫu thuật bảo tồn vú được chỉ định trong sang thương đơn độc trên nhũ ảnh và lâm sàng, u ≤4cm hoặc >4cm trên vú lớn, không di căn hạch và di căn xa.
+Phẫu thuật bảo tồn vú được chỉ định trong sang thương đơn độc trên nhũ ảnh và lâm sàng, u ≤4cm hoặc >4cm trên vú lớn, không di căn hạch và di căn xa.
 
 Sau phẫu thuật bảo tồn vú, các yếu tố tiên lượng tái phát tại chỗ gồm:
 
@@ -238,8 +238,8 @@ Hiện nay, người ta thực hiện các biến thể của phẫu thuật
 - Phẫu thuật đoạn nhũ (simple mastectomy) cắt bỏ mô vú, núm vú, quầng vú, không cắt cơ ngực. Nạo hạch 1/4 trên ngoài vú và hạch nách dưới.
 - Phẫu thuật đoạn nhũ tận gốc cải tiến bảo tồn cơ ngực. Phẫu thuật đoạn nhũ tiết kiệm da và núm vú thường chỉ định trên những bệnh nhân ung thư vú nhỏ giai đoạn sớm hoặc cắt vú dự phòng do đột biến gene hoặc sang thương nguy cơ cao.
 
-Chỉ định đoạn nhũ được căn cứ trên tính chất của sang thương trung tâm, u>4 cm, đa sang thương trên nhũ ảnh và lâm sàng và có chú ý đến yêu cầu của bệnh nhân.
-Chỉ định đoạn nhũ được căn cứ trên tính chất của sang thương trung tâm, u>4 cm, đa sang thương trên nhũ ảnh và lâm sàng và có chú ý đến yêu cầu của bệnh nhân.
+Chỉ định đoạn nhũ được căn cứ trên tính chất của sang thương trung tâm, u >4cm, đa sang thương trên nhũ ảnh và lâm sàng và có chú ý đến yêu cầu của bệnh nhân.
+Chỉ định đoạn nhũ được căn cứ trên tính chất của sang thương trung tâm, u >4cm, đa sang thương trên nhũ ảnh và lâm sàng và có chú ý đến yêu cầu của bệnh nhân.
 
 ![Đoạn nhũ](../../../assets/phu-khoa/ung-thu-vu/doan-nhu.png)
 _Đoạn nhũ đơn giản (Simple mastectomy) đòi hỏi phải cắt bỏ mô vú, núm vú, quầng vú, không cắt cơ ngực. Nạo hạch 1/4 trên ngoài vú và hạch nách dưới.<br>Đoạn nhũ tận gốc biến đổi (Modified radical mastectomy) cho phép bảo tồn cả 2 cơ ngực lớn và ngực bé, nhưng đòi hỏi nạo hạch mức I và II. Không nạo hạch nách trên.<br>Đoạn nhũ tận gốc (Radical mastectomy: Halsted) lấy bỏ toàn bộ vú, các cơ ngực và nạo hạch nách toàn bộ. Tử suất cao. Ngày nay không còn được thực hiện._
@@ -263,16 +263,16 @@ Yếu tố tiên lượng tái phát tại chỗ sau đoạn nhũ gồm:
 - Di căn hạch nách.
 - Ung thư xâm lấn mạch máu và mạch bạch huyết.
 - Ung thư grade III.
-- Khối u ≥4 cm.
-- Khối u ≥4 cm.
+- Khối u ≥4cm.
+- Khối u ≥4cm.
 - Các thụ thể ER, PR.
 - Các biomarker như HER2.
 
 ![Yếu tố nguy cơ tái phát](../../../assets/phu-khoa/ung-thu-vu/nguy-co-tai-phat.png)
 _Yếu tố nguy cơ tái phát._
 
-ACS khuyến cáo xạ trị sau đoạn nhũ trên những bệnh nhân có u nguyên phát>5 cm, và có ≥4 hạch nách. Biến chứng thường gặp của xạ trị gồm có phản ứng da, dãn mao mạch, viêm phổi phóng xạ, hoại tử da-xương do phóng xạ...
-ACS khuyến cáo xạ trị sau đoạn nhũ trên những bệnh nhân có u nguyên phát>5 cm, và có ≥4 hạch nách. Biến chứng thường gặp của xạ trị gồm có phản ứng da, dãn mao mạch, viêm phổi phóng xạ, hoại tử da-xương do phóng xạ...
+ACS khuyến cáo xạ trị sau đoạn nhũ trên những bệnh nhân có u nguyên phát >5cm, và có ≥4 hạch nách. Biến chứng thường gặp của xạ trị gồm có phản ứng da, dãn mao mạch, viêm phổi phóng xạ, hoại tử da-xương do phóng xạ...
+ACS khuyến cáo xạ trị sau đoạn nhũ trên những bệnh nhân có u nguyên phát >5cm, và có ≥4 hạch nách. Biến chứng thường gặp của xạ trị gồm có phản ứng da, dãn mao mạch, viêm phổi phóng xạ, hoại tử da-xương do phóng xạ...
 
 ### Liệu pháp hỗ trợ
 
