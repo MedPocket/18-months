@@ -46,9 +46,13 @@ export default defineConfig({
         "./src/styles/headings.css",
         "katex/dist/katex.min.css",
       ],
-      social: {
-        github: "https://github.com/MedPocket/18-months",
-      },
+      social: [
+        {
+          icon: "github",
+          label: "GitHub",
+          href: "https://github.com/MedPocket/18-months",
+        },
+      ],
       editLink: {
         baseUrl: "https://github.com/MedPocket/18-months/tree/main",
       },
