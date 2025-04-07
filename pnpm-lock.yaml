@@ -56,6 +56,9 @@ importers:
       sharp:
         specifier: ^0.34.0
         version: 0.34.0
+      starlight-image-zoom:
+        specifier: ^0.11.1
+        version: 0.11.1(@astrojs/starlight@0.33.0(astro@5.6.1(rollup@4.39.0)(typescript@5.8.3)))
       starlight-links-validator:
         specifier: ^0.15.0
         version: 0.15.0(@astrojs/starlight@0.33.0(astro@5.6.1(rollup@4.39.0)(typescript@5.8.3)))
@@ -1740,6 +1743,12 @@ packages:
 
   space-separated-tokens@2.0.2:
     resolution: {integrity: sha512-PEGlAwrG8yXGXRjW32fGbg66JAlOAwbObuqVoJpv/mRgoWDQfgH1wDPvtzWyUSNAXBGSk8h755YDbbcEy3SH2Q==}
+
+  starlight-image-zoom@0.11.1:
+    resolution: {integrity: sha512-TmnAyS+MWWV6h1fjuezrMFA36REd+7QzcjDFFFyC4ws5FDMoHsjQn0MlHM0cUaHEKfQ9y1PpL9LijCvRFuGbuw==}
+    engines: {node: '>=18'}
+    peerDependencies:
+      '@astrojs/starlight': '>=0.32.0'
 
   starlight-links-validator@0.15.0:
     resolution: {integrity: sha512-NZeb9WF5Skdz1dQnALFtxU2sQW9mSMqudDUG7B2w3NCe4xDAwKEdBOOSn7hfJtzziFWksZXobvUgEBhR4S5eXA==}
@@ -4301,6 +4310,16 @@ snapshots:
   source-map@0.7.4: {}
 
   space-separated-tokens@2.0.2: {}
+
+  starlight-image-zoom@0.11.1(@astrojs/starlight@0.33.0(astro@5.6.1(rollup@4.39.0)(typescript@5.8.3))):
+    dependencies:
+      '@astrojs/starlight': 0.33.0(astro@5.6.1(rollup@4.39.0)(typescript@5.8.3))
+      mdast-util-mdx-jsx: 3.2.0
+      rehype-raw: 7.0.0
+      unist-util-visit: 5.0.0
+      unist-util-visit-parents: 6.0.1
+    transitivePeerDependencies:
+      - supports-color
 
   starlight-links-validator@0.15.0(@astrojs/starlight@0.33.0(astro@5.6.1(rollup@4.39.0)(typescript@5.8.3))):
     dependencies:

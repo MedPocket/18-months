@@ -2,6 +2,7 @@
   "name": "@medpocket/18-months",
   "version": "0.1.0",
   "description": "Getting started with 18 months.",
+  "author": "MedPocket",
   "scripts": {
     "build": "astro build",
     "dev": "astro dev",
@@ -26,6 +27,7 @@
     "rehype-slug": "^6.0.0",
     "remark-math": "^6.0.0",
     "sharp": "^0.34.0",
+    "starlight-image-zoom": "^0.11.1",
     "starlight-links-validator": "^0.15.0"
   },
   "devDependencies": {

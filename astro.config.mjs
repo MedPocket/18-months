@@ -9,6 +9,7 @@ import rehypeExternalLinks from "rehype-external-links";
 import { rehypeAutolink } from "./plugins/rehype-autolink";
 import { remarkReadingTime } from "./plugins/remark-reading-time";
 import starlightLinksValidator from "starlight-links-validator";
+import starlightImageZoom from "starlight-image-zoom";
 
 // https://docs.netlify.com/configure-builds/environment-variables/#read-only-variables
 const site =
@@ -83,7 +84,7 @@ export default defineConfig({
       ],
       pagination: true,
       lastUpdated: true,
-      plugins: [starlightLinksValidator()],
+      plugins: [starlightImageZoom(), starlightLinksValidator()],
     }),
   ],
 });
