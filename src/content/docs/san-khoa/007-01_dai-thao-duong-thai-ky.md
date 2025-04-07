@@ -62,7 +62,7 @@ Người trưởng thành có BMI ≥23 $kg/m^2$ và có 1 trong các nguy cơ s
 - Tiền sử sinh con to cân nặng trẻ sơ sinh to ≥4000 gam vừa là hậu quả của đái tháo đường, vừa là yếu tố nguy cơ cho mẹ ở những lần mang thai sau.
 - Tiền sử sản khoa bất thường thai chết lưu không rõ nguyên nhân, con bị dị tật bẩm sinh, tiền sản giật, sinh non.
 - Tiền sử bệnh tim mạch do sơ vữa.
-- Tăng huyết áp (huyết áp tâm thu ≥140 mmHg hoặc huyết áp tâm trương ≥90 mmHg hay điều trị thước tăng huyết áp).
+- Tăng huyết áp (huyết áp tâm thu ≥140mmHg hoặc huyết áp tâm trương ≥90mmHg hay điều trị thước tăng huyết áp).
 - Nồng độ HDL-C trong máu <0.9mmol/L và/hoặc Triglyceride >2.82mmol/L.
 - Phụ nữ bị buồng trứng đa nang.
 - Ít vận động thể lực.
@@ -454,7 +454,7 @@ Bộ Y tế Việt Nam chưa cho phép việc dùng Metformin trong thai kỳ ch
 Các chỉ định dùng insulin:
 - Glucose huyết tương không đạt mục tiêu điều trị sau 1-2 tuần áp dụng chế độ dinh dưỡng và tập luyện hợp lý (trên 50% số mẫu xét nghiệm không đạt mục tiêu điều trị); hoặc
 - Glucose huyết tương cao. Mức glucose huyết tương lúc đói >126mg/dL (>7mmol/L) hoặc glucose huyết tương bất kỳ >200mg/dL (11.1mmol/L) cần xem xét điều trị ngay; hoặc
-- Thai to hơn so với tuổi thai: trong 3 tháng giữa thai kỳ có thể lưu ý khi chu vi bụng thai nhi ở 28-32 tuần có bách phân vị > 75th. Những ngày trước sinh kích thước thai trên siêu âm với chu vi bụng >370 mm hoặc bách phân vị > 95th (cân nặng ước lượng > 95th của tuổi thai hay chu vi vòng bụng > 95th của tuổi thai).
+- Thai to hơn so với tuổi thai: trong 3 tháng giữa thai kỳ có thể lưu ý khi chu vi bụng thai nhi ở 28-32 tuần có bách phân vị > 75th. Những ngày trước sinh kích thước thai trên siêu âm với chu vi bụng >370mm hoặc bách phân vị > 95th (cân nặng ước lượng > 95th của tuổi thai hay chu vi vòng bụng > 95th của tuổi thai).
 
 ### Liều dùng insulin
 

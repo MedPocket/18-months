@@ -83,14 +83,14 @@ Có 3 trong 5 tiêu chuẩn
 | 1. Béo phì ở bụng (đo vòng eo)                           |>80cm                                            |
 | 2. Triglycerides                                         | ≥150mg/dL                                       |
 | 3. HDL–C                                                 |<50mg/dL                                        |
-| 4. Huyết áp                                              | ≥130 / ≥85 mmHg                                 |
+| 4. Huyết áp                                              | ≥130 / ≥85mmHg                                 |
 | 5. Đường huyết lúc đói và 2h sau làm test dung nạp đường | 110-126mg/dL và/hay glucose sau 2h 140-199mg/dL |
 | Yếu tố nguy cơ                                           | Ngưỡng bất thường                                 |
 | -------------------------------------------------------- | ------------------------------------------------- |
 | 1. Béo phì ở bụng (đo vòng eo)                           |>80cm                                            |
 | 2. Triglycerides                                         | ≥150mg/dL                                       |
 | 3. HDL–C                                                 |<50mg/dL                                        |
-| 4. Huyết áp                                              | ≥130 / ≥85 mmHg                                 |
+| 4. Huyết áp                                              | ≥130 / ≥85mmHg                                 |
 | 5. Đường huyết lúc đói và 2h sau làm test dung nạp đường | 110-126mg/dL và/hay glucose sau 2h 140-199mg/dL |
 
 :::

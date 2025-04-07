@@ -64,8 +64,8 @@ Tiền sản giật được phân loại thành tiền sản giật không có 
 
 Dấu hiệu nặng của tiền sản giật (bất kỳ dấu hiệu nào):
 
-1. Huyết áp tâm thu ≥160 mmHg hoặc huyết áp tâm trương ≥110 mmHg qua 2 lần đo cách nhau ít nhất 4h khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
-1. Huyết áp tâm thu ≥160 mmHg hoặc huyết áp tâm trương ≥110 mmHg qua 2 lần đo cách nhau ít nhất 4h khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
+1. Huyết áp tâm thu ≥160mmHg hoặc huyết áp tâm trương ≥110mmHg qua 2 lần đo cách nhau ít nhất 4h khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
+1. Huyết áp tâm thu ≥160mmHg hoặc huyết áp tâm trương ≥110mmHg qua 2 lần đo cách nhau ít nhất 4h khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
 2. Giảm tiểu cầu: tiểu cầu <100,000/µL.
 3. Suy giảm chức năng gan: men gan tăng (gấp đôi so với bình thường), đau nhiều ở hạ sườn phải hoặc đau thượng vị không đáp ứng với thuốc và không có nguyên nhân khác.
 4. Suy thận tiến triển (creatinine huyết thanh >1.1mg/dL hoặc gấp đôi nồng độ creatinine huyết thanh bình thường mà không do bệnh lý thận khác).
@@ -259,7 +259,7 @@ Nếu tình trạng mẹ - thai ổn định, trong vòng 48h chấm dứt thai 
 :::caution[Lưu ý]
 
 - Quyết định chấm dứt thai kỳ không dựa vào yếu tố đạm niệu.
-- Chỉ định dùng thuốc chống tăng huyết áp khi HA tâm thu &gt; 150 mmHg hoặc HA tâm trương &gt; 100 mmHg.
+- Chỉ định dùng thuốc chống tăng huyết áp khi HA tâm thu &gt; 150mmHg hoặc HA tâm trương &gt; 100mmHg.
 - Mẹ:
   - Sinh hiệu 1h/lần.
   - Bilan dịch vào và ra mỗi 8h/lần.
@@ -417,21 +417,21 @@ Liều dùng:
 
 ### Thuốc chống tăng huyết áp
 
-Mục tiêu: Giữ cho huyết áp ổn định ở mức 140-150/90-100 mmHg chứ không phải đưa huyết áp trở về bình thường vì việc đó sẽ dẫn tới giảm tưới máu tử cung-rau, ảnh hưởng đến thai.
+Mục tiêu: Giữ cho huyết áp ổn định ở mức 140-150/90-100mmHg chứ không phải đưa huyết áp trở về bình thường vì việc đó sẽ dẫn tới giảm tưới máu tử cung-rau, ảnh hưởng đến thai.
 
 Chỉ định:
 
-- Huyết áp tâm thu ≥150 mmHg
-- hoặc Huyết áp tâm trương ≥100 mmHg
-- Huyết áp tâm thu ≥150 mmHg
-- hoặc Huyết áp tâm trương ≥100 mmHg
+- Huyết áp tâm thu ≥150mmHg
+- hoặc Huyết áp tâm trương ≥100mmHg
+- Huyết áp tâm thu ≥150mmHg
+- hoặc Huyết áp tâm trương ≥100mmHg
 
 Huyết áp đạt sau điều trị:
 
 - HA trung bình sau 2h không giảm quá 25% so với ban đầu.
 - HA trung bình sau 2h không giảm quá 25% so với ban đầu.
-- HA tâm thu ở mức 130-150 mmHg.
-- HA tâm trường ở mức 80-100 mmHg.
+- HA tâm thu ở mức 130-150mmHg.
+- HA tâm trường ở mức 80-100mmHg.
 
 Chống chỉ định:
 

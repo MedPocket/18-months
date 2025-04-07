@@ -22,7 +22,7 @@ Phân loại rau tiền đạo
 
 Siêu âm đầu dò âm đạo phân loại rau tiền đạo dùng đơn vị là millimes (mm) để miêu tả khoảng cách giữa mép bánh rau và lỗ cổ trong cổ tử cung.
 
-- Trong trường hợp mép bánh rau nằm ngay ở lỗ trong cổ tử cung thì khoảng cách này được mô tả là 0 mm.
+- Trong trường hợp mép bánh rau nằm ngay ở lỗ trong cổ tử cung thì khoảng cách này được mô tả là 0mm.
 - Nếu mép bánh rau bám chưa lan tới lỗ trong cổ tử cung thì sẽ mô tả khoảng cách từ lỗ trong cổ tử cung đến mép bánh rau.
 - Khi mép bánh rau bám lan qua lỗ trong cổ tử cung thì mô tả khoảng mà mép bánh rau đã bám lan qua lỗ cổ tử cung.
 
@@ -70,7 +70,7 @@ Cộng hưởng từ (MRI) có thể có ích trong khảo sát rau cài răng l
 
 Soi bàng quang khi nghi ngờ rau cài răng lược xâm lấn bàng quang qua chẩn đoán hình ảnh kèm tiểu máu.
 
-_Theo nghiên cứu, khảo sát mép bánh rau bám lan qua lỗ trong cổ tử cung 23 mm ở tuổi thai 11-14 tuần thấy chỉ có khoảng 8% số này là có rau tiền đạo lúc sinh. Nếu mép bánh rau bám lan qua lỗ trong cổ tử cung với khoảng cách nhỏ hơn 10 mm ở tuổi thai 9-16 tuần thì rất ít khả năng xuất hiện rau tiền đạo sau đó. Rau tiền đạo gần như bằng 0 nếu khảo sát trước đó cho thấy mép bánh rau chưa lan qua lỗ trong cổ tử cung. Nếu mép bánh rau vượt qua lỗ trong cổ tử cung với khoảng cách lớn hơn 25 mm thì khả năng có rau tiền đạo lúc sinh là rất lớn, đạt đến 40-100%._
+_Theo nghiên cứu, khảo sát mép bánh rau bám lan qua lỗ trong cổ tử cung 23mm ở tuổi thai 11-14 tuần thấy chỉ có khoảng 8% số này là có rau tiền đạo lúc sinh. Nếu mép bánh rau bám lan qua lỗ trong cổ tử cung với khoảng cách nhỏ hơn 10mm ở tuổi thai 9-16 tuần thì rất ít khả năng xuất hiện rau tiền đạo sau đó. Rau tiền đạo gần như bằng 0 nếu khảo sát trước đó cho thấy mép bánh rau chưa lan qua lỗ trong cổ tử cung. Nếu mép bánh rau vượt qua lỗ trong cổ tử cung với khoảng cách lớn hơn 25mm thì khả năng có rau tiền đạo lúc sinh là rất lớn, đạt đến 40-100%._
 
 ## Bệnh sinh
 
@@ -116,7 +116,7 @@ Có thể xuất viện trong vòng 48h không kèm theo yếu tố nguy cơ nà
 
 Chấm dứt thai kỳ:
 
-- Có thể sinh đường âm đạo nếu rau bám thấp và ngôi đầu nếu khảo sát ở tuổi thai trên 35 tuần cho thấy mép bánh rau bám chưa đến lỗ cổ tử cung và khoảng cách này trên 20 mm. Thai có thể thiếu oxy (suy thai) do rau bong non hay biến chứng dây rốn như sa dây rốn, chèn ép dây rốn. Nên cần theo dõi sát tim thai để mổ lấy thai ngay, ngoại trừ đang rặn sinh.
+- Có thể sinh đường âm đạo nếu rau bám thấp và ngôi đầu nếu khảo sát ở tuổi thai trên 35 tuần cho thấy mép bánh rau bám chưa đến lỗ cổ tử cung và khoảng cách này trên 20mm. Thai có thể thiếu oxy (suy thai) do rau bong non hay biến chứng dây rốn như sa dây rốn, chèn ép dây rốn. Nên cần theo dõi sát tim thai để mổ lấy thai ngay, ngoại trừ đang rặn sinh.
 - Mổ lấy thai trong các trường hợp khác.
 
 Cầm máu vị trí rau bám:

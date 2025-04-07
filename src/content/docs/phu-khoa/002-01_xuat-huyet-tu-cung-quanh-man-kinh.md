@@ -57,7 +57,7 @@ Hình ảnh trên siêu âm phụ thuộc vào thời điểm trong chu kỳ kin
 :::
 
 ![Tăng sinh nội mạc tử cung trên siêu âm](../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/hinh-anh-sieu-am-tang-sinh-noi-mac-tu-cung.png)
-_Tăng sinh nội mạc tử cung.<br> Nội mạc tử cung có bề dầy 21.6 mm đầu chu kỳ là bất thường. Không thể thiết lập chẩn đoán xuất huyết tử cung cơ năng khi có hình ảnh này._
+_Tăng sinh nội mạc tử cung.<br> Nội mạc tử cung có bề dầy 21.6mm đầu chu kỳ là bất thường. Không thể thiết lập chẩn đoán xuất huyết tử cung cơ năng khi có hình ảnh này._
 
 ![Siêu âm bơm nước buồng tử cung](../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/sieu-am-bom-nuoc-buong-tu-cung.png)
 _Siêu âm bơm nước buồng tử cung (SIS).<br> Hình ảnh polyps lòng tử cung. Không thể thiết lập chẩn đoán xuất huyết tử cung cơ năng khi có hình ảnh này._

@@ -126,7 +126,7 @@ Do nguy cơ xảy ra kháng thuốc, đối với bệnh nhân có khả năng h
 
 Hóa trị dự phòng với Methotrexate (MTX) hoặc Dacticin:
 
-- MTX 5 ngày: MTX 0.4 mmg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
+- MTX 5 ngày: MTX 0.4mmg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
 - MTX 8 ngày (MTX/FA): MTX 1mg/kg hoặc MTX 50mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0.1mg/kg tiêm bắp hoặc uống 15mg sau liều MTX 24-30h vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
 - Dacticin: 12 mcg/kg (10-13 mcg/kg) hoặc 0.5mg/ngày tĩnh mạch x 5 ngày liên tục. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
 
@@ -246,7 +246,7 @@ Hóa điều trị bệnh nguyên bào nuôi ác tính dựa trên bảng phân 
 
 Hóa trị dự phòng với Methotrexate (MTX):
 
-- MTX 5 ngày: MTX 0.4 mmg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
+- MTX 5 ngày: MTX 0.4mmg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
 - MTX 8 ngày (MTX/FA): MTX 1mg/kg hoặc MTX 50mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0.1mg/kg tiêm bắp hoặc uống 15mg sau liều MTX 24-30h vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
 - MTX tuần: MTX 30-50mg/$m^2$ da tĩnh mạch/tuần.
 - MTX 100mg/$m^2$ da tĩnh mạch, sau đó 200mg/$m^2$ da pha trong Glucose 5% 500mL truyền tĩnh mạch trong 12h. 24h sau, Folinic acid 15mg tĩnh mạch/uống x 4 lần/12h. Lặp lại chu kỳ mỗi 18 ngày hoặc khi cần.
@@ -323,7 +323,7 @@ Nếu kháng EMA-CO:
     - Paclitaxel 135mg/$m^2$ da + 250mL NaCl 0.9% truyền trong 3h.
     - Mannitol 10% truyền trong 1h.
     - Cisplatin 60mg/$m^2$ da pha 1000mL NaCl 0.9% truyền trong 3h.
-    - Sau khi truyền thuốc, truyền tĩnh mạch 1000mL NaCl 0.9% + KCl 20 mmol + 1 g $MgSO_4$ truyền trong 2h.
+    - Sau khi truyền thuốc, truyền tĩnh mạch 1000mL NaCl 0.9% + KCl 20mmol + 1 g $MgSO_4$ truyền trong 2h.
   - Ngày 15:
     - Dexamethasone 20mg uống trước liều Paclitaxel 12h.
     - Dexamethasone 20mg uống trước liều Paclitaxel 6h.

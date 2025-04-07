@@ -74,15 +74,15 @@ Hệ thống phân tích IOTA (International Ovarian Tumor Analysis) được Ti
 
 - Các quy tắc của lành tính (B-rules) gồm:
   - B1: U chỉ gồm 1 thùy đơn độc.
-  - B2: Hiện diện của thành phần rắn, kích thước tối đa không vượt quá 7 mm.
+  - B2: Hiện diện của thành phần rắn, kích thước tối đa không vượt quá 7mm.
   - B3: Hiện diện bóng âm.
-  - B4: Khối u nhiều thùy, trơn láng, kích thước tối đa không vượt quá 100 mm.
+  - B4: Khối u nhiều thùy, trơn láng, kích thước tối đa không vượt quá 100mm.
   - B5: Không có dòng chảy (điểm màu 1).
 - Các quy tắc của ác tính (M-rules) gồm:
   - M1: Khối u đặc không thuần nhất.
   - M2: Có dịch báng bụng.
   - M3: Có ít nhất 4 cấu trúc chồi nhú.
-  - M4: U đặc đa thùy không thuần nhất, kích thước tối và vượt quá 100 mm.
+  - M4: U đặc đa thùy không thuần nhất, kích thước tối và vượt quá 100mm.
   - M5: Dòng chảy rất mạnh (điểm màu 4).
 
 ![Phân loại u buồng trứng theo IOTA](../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-IOTA.jpeg)
