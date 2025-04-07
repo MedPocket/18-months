@@ -186,7 +186,7 @@ Phẫu thuật đặt mảnh ghép tổng hợp là phẫu thuật ưu thế tro
   - Bệnh lý rối loạn đông cầm máu, dùng kháng đông kéo dài, xơ gan, suy gan.
   - Hiện tại hoặc tiền sử huyết khối/thuyên tắc tĩnh mạch, động mạch.
   - Đái tháo đường chưa điều trị ổn, không kiểm soát tốt đường huyết.
-  - Tình trạng suy giảm miễn dịch, dùng corticosteroid kéo dài.
+  - Tình trạng suy giảm miễn dịch, dùng corticosteroids kéo dài.
   - Nghiện thuốc lá nặng.
   - Tình trạng teo, khiếm khuyết niêm mạc âm đạo, hệ thống cân cơ dây chằng quá nhiều.
   - Tổn thương tiền ung thư âm hộ, âm đạo, cổ tử cung chưa điều trị dứt.

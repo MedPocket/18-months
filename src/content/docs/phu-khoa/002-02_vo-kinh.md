@@ -115,7 +115,7 @@ Tiền sử dùng thuốc cần phải bao gồm các câu hỏi cụ thể về
 - Hóa trị ung thư (ví dụ: các thuốc alkyl hóa như bendamustine, cyclophosphamide và ifosfamide; busulfan; chlorambucil)
 - Các nội tiết tố có thể gây nam hóa (ví dụ: các androgen, các progestin có tính androgen liều cao, steroid đồng hóa không kê đơn [OTC]).
 - Thuốc tránh thai nội tiết.
-- Corticosteroid hệ thống.
+- corticosteroids hệ thống.
 - Các sản phẩm và thực phẩm chức năng OTC, trong đó có chứa nội tiết tố bò.
 - Lạm dụng chất gây nghiện, bao gồm lạm dụng thuốc phiện, có thể ảnh hưởng đến việc tiết hormone tuyến yên và dẫn đến thiểu kinh hoặc vô kinh.
 
@@ -146,11 +146,11 @@ Cần phải xét nghiệm thử thai, ngay cả trước khi bắt đầu lần
 Xét nghiệm các hormon nội tiết như:
 
 - DHEAS: 250-300 ng/dL (0.7-0.8 mcmol/L).
-- FSH: 5‒20 IU/L.
-- LH: 5‒40 IU/L.
+- FSH: 5‒20IU/L.
+- LH: 5‒40IU/L.
 - Karyotype (nữ): 46, XX.
 - Prolactin: 50 ng/mL. Prolactin 50–100 ng/mL được coi là tăng nhẹ và thường là do sử dụng thuốc. Prolactin >100 ng/mL được coi là cao và có nhiều khả năng là do khối u.
-- Testosterone: 20-80 ng/dL (0,7-2,8 nmol/L).
+- Testosterone: 20-80 ng/dL (0.7-2.8nmol/L).
 
 Vô kinh với nồng độ hormone kích thích nang trứng (FSH) cao (hypergonadotropic hypogonadism) gợi ý rối loạn chức năng buồng trứng. Vô kinh với nồng độ FSH thấp (giảm năng tuyến sinh dục thiểu năng sinh dục) gợi ý rối loạn chức năng vùng dưới đồi hoặc rối loạn chức năng tuyến yên.
 
@@ -200,7 +200,7 @@ Các vấn đề phổ biến liên quan đến vô kinh cũng có thể cần �
 
 ### Vòng kinh nhân tạo
 
-Vòng kinh nhân tạo là phương pháp dùng estrogen và progesterone theo trình tự trong giai đoạn đầu chỉ có estrogen và giai đoạn sau có cá estrogen và progesterone giống như vòng kinh tự nhiên. Sau khi ngừng thuốc, kinh nguyệt sẽ xảy ra. Mục đích của dùng vòng kinh nhân tạo nhằm thay thế hormone sinh dục nữ dang bị thiêu hụt, giúp cho niêm mạc tử cung phát triển giống như sinh lý bình thường, có thể chuẩn bị cho trứng làm tổ trong những vòng kinh sau. Cũng còn có mục đích gây chảy huyết kinh để kiểm tra sự toàn vẹn của tử cung, nhất là của buồng tử cung. Vòng kinh nhân tạo gồm estriol (biệt dược Ovestin®) 1mg/ ngày × 14 ngày, sau đó dùng thuốc tránh thai viên kết hợp Regulon (hoặc Marvelon®) mỗi ngày 1 viên × 12 ngày. Sau khi uống hết 26 ngày thuốc, ngừng thuốc được 2 ngày người bệnh sẽ hành kinh, vòng kinh như vậy sẽ là 28 ngày.Nếu cần cho vòng kinh nhân tạo thứ hai thì chờ bệnh nhân sạch kinh mới bắt đầu cho thuốc lại. Nếu người bệnh hành kinh 3 ngày mới sạch mà tạo vòng kinh như trên thì vòng kinh thứ hai sẽ dài 28 + 3 = 31 ngày. Sự thay đổi chu kỳ từ 28 đến 31 ngày không có gì đáng quan ngại, mà ngược lại, còn có lợi là chờ cho niêm mạc tử cung mọc chồng lên nhau, gây nên quá sản niêm mạc tử cung nếu phải điều trị lâu dài.
+Vòng kinh nhân tạo là phương pháp dùng estrogen và progesterone theo trình tự trong giai đoạn đầu chỉ có estrogen và giai đoạn sau có cá estrogen và progesterone giống như vòng kinh tự nhiên. Sau khi ngừng thuốc, kinh nguyệt sẽ xảy ra. Mục đích của dùng vòng kinh nhân tạo nhằm thay thế hormone sinh dục nữ dang bị thiêu hụt, giúp cho niêm mạc tử cung phát triển giống như sinh lý bình thường, có thể chuẩn bị cho trứng làm tổ trong những vòng kinh sau. Cũng còn có mục đích gây chảy huyết kinh để kiểm tra sự toàn vẹn của tử cung, nhất là của buồng tử cung. Vòng kinh nhân tạo gồm estriol (biệt dược Ovestin®) 1mg/ngày × 14 ngày, sau đó dùng thuốc tránh thai viên kết hợp Regulon (hoặc Marvelon®) mỗi ngày 1 viên × 12 ngày. Sau khi uống hết 26 ngày thuốc, ngừng thuốc được 2 ngày người bệnh sẽ hành kinh, vòng kinh như vậy sẽ là 28 ngày.Nếu cần cho vòng kinh nhân tạo thứ hai thì chờ bệnh nhân sạch kinh mới bắt đầu cho thuốc lại. Nếu người bệnh hành kinh 3 ngày mới sạch mà tạo vòng kinh như trên thì vòng kinh thứ hai sẽ dài 28 + 3 = 31 ngày. Sự thay đổi chu kỳ từ 28 đến 31 ngày không có gì đáng quan ngại, mà ngược lại, còn có lợi là chờ cho niêm mạc tử cung mọc chồng lên nhau, gây nên quá sản niêm mạc tử cung nếu phải điều trị lâu dài.
 
 ## Nguồn tham khảo
 

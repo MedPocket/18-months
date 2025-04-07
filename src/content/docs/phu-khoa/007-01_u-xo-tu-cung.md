@@ -248,7 +248,7 @@ Theo dõi sự phát triển của kích thước khối u qua siêu âm mỗi 6
 
 Theo dõi sự phát triển về kích thước, tính chất của khối u qua siêu âm mỗi 3-6 tháng. Chú ý khả năng hóa ác khi khối u to nhanh, hình ảnh hoại tử trong lòng khối u.
 
-Do khả năng u sẽ thoái triển khi vào mãn kinh, nên có thể căn cứ vào mức độ biểu hiện của vấn đề chủ mà người phụ nữ có thể chọn lựa chờ đợi đến thời điểm bắt đầu mãn kinh để quyết định có điều trị hay không. 3-7% các u xơ-cơ tử cung quan sát thấy ở độ tuổi tiền mãn kinh sẽ thoái triển sau 6 tháng đến 3 năm.
+Do khả năng u sẽ thoái triển khi vào mãn kinh, nên có thể căn cứ vào mức độ biểu hiện của vấn đề chủ mà người phụ nữ có thể chọn lựa chờ đợi đến thời điểm bắt đầu mãn kinh để quyết định có điều trị hay không. 3-7% các u xơ-cơ tử cung quan sát thấy ở độ tuổi tiền mãn kinh sẽ thoái triển sau 6-3 năm.
 
 ## Điều trị nội khoa
 

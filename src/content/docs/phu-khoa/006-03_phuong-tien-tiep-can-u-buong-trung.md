@@ -109,7 +109,7 @@ CA125 (carcinoma antigen 125) (hay MUC16) là glycoprotein giống mucin. Trong 
 
 CA125 cao thấy trong các bệnh lý ác tính khác như ung thư buồng trứng, vú, phổi, tụy, đại tràng và tiêu hóa khác. Tuy nhiên, nhiều tình trạng không tân sinh, nhưng có kích thích các biểu mô này cũng gây nên tình trạng tăng của nồng độ CA125. CA125 tăng trong số trạng thái sinh lý như thai kỳ, lạc nội mạc tử cung, khi hành kinh. CA125 cũng tăng trong số bệnh lý lành tính như tràn dịch màng bụng và/hoặc màng phổi do lao, suy tim, hội chứng thận hư...
 
-Hiện nay, trị số 35 IU/mL thường được dùng là giá trị ngưỡng phân biệt (cut-off point) bình thường với bất thường. Tuy nhiên, đối với những người đã mãn kinh hoặc đã cắt tử cung kèm 2 buồng trứng thì nên chọn giá trị ngưỡng thấp hơn. Ngưỡng cắt được đặt ở 20-26 IU/mL.
+Hiện nay, trị số 35IU/mL thường được dùng là giá trị ngưỡng phân biệt (cut-off point) bình thường với bất thường. Tuy nhiên, đối với những người đã mãn kinh hoặc đã cắt tử cung kèm 2 buồng trứng thì nên chọn giá trị ngưỡng thấp hơn. Ngưỡng cắt được đặt ở 20-26IU/mL.
 
 Trong các ung thư buồng trứng có nguồn gốc biểu mô nguyên thủy, CA125 thường tăng trong u thanh dịch hơn là trong u nhầy, tế bào sáng hoặc bướu giáp biên ác.
 

@@ -162,14 +162,14 @@ Sau điều trị progestin, tỷ lệ thoái triển của tăng sinh tuyến n
 
 Progestin có thể là MPA hay LNG:
 
-1. Medroxyprogesterone acetate (MPA) đường uống (Provera®) 10mg uống/ngày trong 3 tháng đến 6 tháng hoặc 10mg uống/ngày, 12-14 ngày/tháng trong 3 tháng đến 6 tháng; hay đường tiêm bắp sử dụng dạng kho phóng thích chậm trong mô (depot-MPA) (DMPA) (Depo-Provera®) 150mg tiêm bắp sâu 1 lần/3 tháng đến 6 tháng.
+1. Medroxyprogesterone acetate (MPA) đường uống (Provera®) 10mg uống/ngày trong 3-6 tháng hoặc 10mg uống/ngày, 12-14 ngày/tháng trong 3-6 tháng; hay đường tiêm bắp sử dụng dạng kho phóng thích chậm trong mô (depot-MPA) (DMPA) (Depo-Provera®) 150mg tiêm bắp sâu 1 lần/3-6 tháng.
 2. Levonorgestrel (LNG) phóng thích chậm qua đặt tại chỗ trong buồng tử cung. Dụng cụ tử cung phóng thích hằng định 15-20 µg LNG/ngày. Thời hạn tác dụng 5 năm cho Mirena® hay 3 năm với Liletta®.
-3. Riêng với tăng sinh tuyến nội mạc tử cung đơn giản điển hình, có thể dùng micronized progesterone không phải là progestin, dược chất này là progesterone thiên nhiên, do đó tác dụng kháng estrogen của nó yếu hơn progestin khác, có thể dùng 200mg/ngày trong 12-14 ngày/tháng trong 3 tháng đến 6 tháng.
-4. Utrogestan®, Cyclogest® 100-200mg đặt âm đạo/ngày, 14 ngày/tháng, trong 3 tháng đến 6 tháng.
+3. Riêng với tăng sinh tuyến nội mạc tử cung đơn giản điển hình, có thể dùng micronized progesterone không phải là progestin, dược chất này là progesterone thiên nhiên, do đó tác dụng kháng estrogen của nó yếu hơn progestin khác, có thể dùng 200mg/ngày trong 12-14 ngày/tháng trong 3-6 tháng.
+4. Utrogestan®, Cyclogest® 100-200mg đặt âm đạo/ngày, 14 ngày/tháng, trong 3-6 tháng.
 
 Sau điều trị:
 
-- Sinh thiết kiểm tra điều trị được đề nghị thực hiện 1 lần sau mỗi 3 đến 6 tháng. Việc kiểm tra được tiếp tục cho đến khi kết quả giải phẫu bệnh trở về bình thường.
+- Sinh thiết kiểm tra điều trị được đề nghị thực hiện 1 lần sau mỗi 3-6 tháng. Việc kiểm tra được tiếp tục cho đến khi kết quả giải phẫu bệnh trở về bình thường.
 - Sinh thiết nội mạc tử cung khi có xuất huyết tử cung bất thường.
 - Theo dõi các biểu hiện trở lại bình thường của chu kỳ kinh nguyệt và rụng trứng.
 - Nếu muốn có thai kích thích phóng noãn.
