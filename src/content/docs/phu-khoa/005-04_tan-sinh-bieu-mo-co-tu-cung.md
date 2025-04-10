@@ -294,7 +294,7 @@ _Quản lý AIS theo hướng dẫn của ASCCP 2012._
 
 ### Nghi ngờ ung thư cổ tử cung trong thai kỳ
 
-![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky.png)
+![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-tan-sinh-bieu-mo-co-tu-cung-va-thai-ky.png)
 _Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ._
 
 ## Điều trị trong tân sinh biểu mô cổ tử cung
@@ -316,7 +316,7 @@ Hủy mô chỉ thích hợp cho tổn thương thỏa các điều kiện:
 
 Có thể sử dụng nitrogen hoặc carbon dioxide để làm lạnh. Đầu áp lạnh có nhiều loại khác nhau để phù hợp với hình dạng và kích thước của tổn thương. Dù là phương pháp ra đời từ lâu, nhưng hiện nay vẫn còn phổ biến vì tính đơn giản, dễ thực hiện, ít gây khó chịu cho bệnh nhân, và có thể thực hiện đối với bệnh nhân ngoại trú hoặc ở phòng tiểu phẫu. Có thể dùng lidocaine tê tại chỗ để giảm đau cho bệnh nhân trong khi làm thủ thuật.
 
-![Áp lạnh cổ tử cung](../../../assets/phu-khoa/ung-thu-co-tu-cung/ap-lanh-co-tu-cung.png)
+![Áp lạnh cổ tử cung](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/ap-lanh-co-tu-cung.png)
 _Áp lạnh cổ tử cung với đầu áp lạnh được nối với nguồn nitrogen lỏng hay CO2 lỏng, áp vào cổ tử cung. Lựa chọn đầu áp tùy theo tổn thương (dưới, phải). Áp lạnh không cho phép điều chỉnh độ sâu của điều trị. Áp lạnh cũng không cho phép phá hủy chính xác tổn thương (dưới, trái)._
 
 ### Huỷ mô bằng đốt laser (laser vaporization)
@@ -340,14 +340,14 @@ Khoét chóp cổ tử cung bằng dao lạnh là lấy đi toàn bộ phần h�
 
 Khoét chóp bằng dao điện có ưu điểm là nhanh, kiểm soát chảy máu dễ dàng, kỹ thuật cầm máu cổ tử cung đơn giản. Nhược điểm lớn nhất của khoét chóp bằng dao điện là rất khó đánh giá dương tính tế bào ở bờ phẫu thuật, do mô bị cháy bởi dòng điện cao tần. Ưu điểm của khoét chóp là có thể chủ động cắt mô với nhiều hình dạng và kích thước khác nhau. Ưu điểm quan trọng nhất của khoét chóp bằng dao lạnh là khả năng khảo sát tình trạng dương tính hay âm tính ở bờ phẫu thuật, do phương pháp này không làm cháy mô ở bờ phẫu thuật.
 
-![Khoét chóp cổ tử cung bằng dao lạnh](../../../assets/phu-khoa/ung-thu-co-tu-cung/khoet-chop-bang-dao-lanh.png)
+![Khoét chóp cổ tử cung bằng dao lạnh](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/khoet-chop-bang-dao-lanh.png)
 _Khoét chóp bằng dao lạnh._
 
 ### Cắt bỏ mô tổn thương với vòng điện LEEP và LLETZ
 
 Cắt bằng vòng điện (loop electrosurgical excision procedure) (LEEP) hay vòng cắt rộng (large loop excision of the transformation zone) (LLETZ) là các kỹ thuật cắt vùng chuyển tiếp bằng vòng điện. Kĩ thuật này đã trở thành sự lựa chọn của nhiều nhà lâm sàng do đơn giản. Nhược điểm lớn nhất của phương pháp này là không được các nhà khảo sát mô học ưa chuộng, vì rất khó đánh giá dương tính bờ phẫu thuật. Cắt bằng dao laser (laser conization) đang dần bị thay thế vì chi phí cao và vì tính ứng dụng ngày càng rộng của LEEP.
 
-![LEEP](../../../assets/phu-khoa/ung-thu-co-tu-cung/leep.png)
+![LEEP](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/leep.png)
 _LEEP và các vòng cắt khác nhau._
 
 ## Nguồn tham khảo
