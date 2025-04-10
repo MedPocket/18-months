@@ -92,7 +92,7 @@ Liệu pháp corticosteroids:
 - Cân nhắc trường hợp từ 24 tuần đến 27 tuần 6 ngày.
 
 ![Phác đồ xử trí thiểu ối đơn thuần bệnh viện Từ Dũ](../../../assets/san-khoa/thieu-oi/phac-do-xu-tri-thieu-oi-don-thuan.png)
-_Phác đồ xử trí thiểu ối đơn thuần bệnh viện Từ Dũ._
+_Phác đồ xử trí thiểu ối đơn thuần Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 

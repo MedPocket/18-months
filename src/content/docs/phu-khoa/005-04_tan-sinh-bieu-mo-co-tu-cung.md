@@ -110,7 +110,7 @@ Thường thì ASC-US là những thay đổi của tế bào do phản ứng v�
 Diễn tiến tự nhiên của ASC-US sau 24 tháng:
 
 - Thoái lui về bình thường: 65%.
-- Tiến triển thành HSIL : 7%.
+- Tiến triển thành HSIL: 7%.
 - Tiến triển thành ung thư xâm lấn: 0.25%.
 
 #### Quản lý ASC-US
@@ -148,10 +148,9 @@ Ghi nhớ 2 điểm sau:
 
 - Chống chỉ định nạo kênh cổ tử cung ở phụ nữ có thai.
 - Có thể chấp nhận trì hoãn soi cổ tử cung cho đến hết 6 tuần hậu sản.
-
 :::
 
-![Quản lý ASC-US theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-asc-us-benh-vien-tu-du.jpeg)
+![Quản lý ASC-US theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-us.jpeg)
 _Quản lý ASC-US theo Bệnh viện Từ Dũ._
 
 ### LSIL
@@ -193,7 +192,7 @@ LSIL trên dân số đặc biệt:
 ![Quản lý LSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-lsil-asccp-2012.png)
 _Quản lý LSIL theo hướng dẫn của ASCCP 2012._
 
-![Quản lý LSIL theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-lsil-benh-vien-tu-du.jpeg)
+![Quản lý LSIL theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-lsil.jpeg)
 _Quản lý LSIL theo Bệnh viện Từ Dũ._
 
 ### HSIL
@@ -222,7 +221,7 @@ Khoét chóp ngay (ngoại trừ bệnh nhân còn trẻ dưới 25 tuổi hoặ
 ![Quản lý HSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-hsil-asccp-2012.png)
 _Quản lý HSIL theo hướng dẫn của ASCCP 2012._
 
-![Quản lý HSIL theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-hsil-benh-vien-tu-du.jpeg)
+![Quản lý HSIL theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-hsil.jpeg)
 _Quản lý HSIL theo Bệnh viện Từ Dũ._
 
 ### ASC-H
@@ -233,7 +232,7 @@ ASC-H (Atypical squamous cells - cannot exclude high grade squamous intraepithel
 
 #### Quản lý ASC-H
 
-![Quản lý ASC-H theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-asc-h-benh-vien-tu-du.jpeg)
+![Quản lý ASC-H theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-h.jpeg)
 _Quản lý ASC-H theo Bệnh viện Từ Dũ._
 
 ### AGC hoặc AG-US
@@ -244,10 +243,10 @@ AGC (Atypical glandular cells) tế bào tuyến không điển hình hoặc AGU
 
 #### Quản lý AGC hoặc AGUS
 
-![Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-agc-agus-benh-vien-tu-du.jpeg)
+![Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-agc-agus.jpeg)
 _Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ._
 
-![Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-agc-huong-ve-tang-san-tuyen-benh-vien-tu-du.jpeg)
+![Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-huong-ve-tang-san-tuyen.jpeg)
 _Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ._
 
 ### CIN 1
@@ -258,7 +257,7 @@ _Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ._
 
 #### Quản lý CIN 1
 
-![Quản lý CIN 1 theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-cin-1-benh-vien-tu-du.jpeg)
+![Quản lý CIN 1 theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-cin-1.jpeg)
 _Quản lý CIN 1 theo Bệnh viện Từ Dũ._
 
 ### CIN 2 và CIN 3
@@ -271,7 +270,7 @@ Có gần 40% các CIN 2 thoái triển tự nhiên về bình thường sau 2 n
 
 #### Quản lý
 
-![Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-agc-agus-benh-vien-tu-du.jpeg)
+![Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-agus.jpeg)
 _Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ._
 
 ### AIS
@@ -295,7 +294,7 @@ _Quản lý AIS theo hướng dẫn của ASCCP 2012._
 
 ### Nghi ngờ ung thư cổ tử cung trong thai kỳ
 
-![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky-benh-vien-tu-du.jpeg)
+![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky.jpeg)
 _Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ._
 
 ## Điều trị trong tân sinh biểu mô cổ tử cung

@@ -236,8 +236,8 @@ Thai lưu<8 tuần, toàn trạng ổn, β-hCG <1000mIU/mL giảm đều, chỉ 
 
 Nếu β-hCG tăng lại hay không giảm cần can thiệp nội khoa hoặc ngoại khoa.
 
-![Phác đồ điều trị thai ở sẹo mổ lấy thai bệnh viện Từ Dũ.](../../../assets/phu-khoa/chua-vet-mo-lay-thai/phac-do-xu-tri-thai-o-seo-mo-lay-thai.jpg)
-_Phác đồ điều trị thai ở sẹo mổ lấy thai bệnh viện Từ Dũ._
+![Phác đồ điều trị thai ở sẹo mổ lấy thai Bệnh viện Từ Dũ.](../../../assets/phu-khoa/chua-vet-mo-lay-thai/phac-do-xu-tri-thai-o-seo-mo-lay-thai.jpg)
+_Phác đồ điều trị thai ở sẹo mổ lấy thai Bệnh viện Từ Dũ._
 
 ## Tai biến theo phương pháp điều trị
 
