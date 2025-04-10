@@ -161,7 +161,7 @@ Thuật ngữ LSIL (Low-grade squamous intraepithelial lesions) thể hiện cá
 
 LSIL bao gồm các tổn thương dị sản mức độ nhẹ hoặc nghi ngờ tổn thương CIN 1 trên mô học hoặc nhiễm HPV type nguy cơ cao.
 
-Tế bào trong LSIL có nhân to hơn ≥ 3 lần so với nhân của tế bào trung gian bình thường. Tỷ lệ nhân:bào tương ≤ 1/3. Đa nhân không phải là dấu hiệu hiếm. Nhân đậm với phân bố nhiễm sắc chất đều. Ở các tổn thương LSIL, hoạt động của HPV còn rất rõ ràng. Có sự liên quan mật thiết giữa tổn thương LSIL và kết quả HPV-DNA dương tính.
+Tế bào trong LSIL có nhân to hơn ≥3 lần so với nhân của tế bào trung gian bình thường. Tỷ lệ nhân:bào tương ≤ 1/3. Đa nhân không phải là dấu hiệu hiếm. Nhân đậm với phân bố nhiễm sắc chất đều. Ở các tổn thương LSIL, hoạt động của HPV còn rất rõ ràng. Có sự liên quan mật thiết giữa tổn thương LSIL và kết quả HPV-DNA dương tính.
 
 Về tiến triển của LSIL, các nghiên cứu cho thấy:
 

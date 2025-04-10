@@ -149,7 +149,7 @@ Tác dụng phụ gồm có:
   - Truyền dịch và bù điện giải.
 - Nhiễm độc da: rụng tóc, tăng dị ứng mẫn cảm.
 - Sử dụng kháng Histamin và Corticoid nếu có dị ứng:
-  - Ngưng hóa trị nếu men gan>100IU/L.
+  - Ngưng hóa trị nếu men gan >100IU/L.
   - Thuốc bảo vệ tế bào gan: Biphenyl dimethyl dicarrboxylat.
 
 #### Tránh thai
