@@ -226,16 +226,14 @@ Kỹ năng phẫu thuật viên không thể thực hiện các phẫu thuật p
 
 Sa tử cung ≥độ 2 kèm sa các tạng chậu khác nhưng tình trạng BN không cho phép phẫu thuật hoặc gây mê kéo dài >2h.
 
-## Phác đồ chẩn đoán và xử trí sa tạng chậu
+![Phác đồ chẩn đoán và xử trí sa tạng chậu Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
+_Phác đồ chẩn đoán và xử trí sa tạng chậu Bệnh viện Từ Dũ._
 
-![Phác đồ chẩn đoán và xử trí sa tạng chậu](../../../assets/phu-khoa/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
-_Phác đồ chẩn đoán và xử trí sa tạng chậu._
+![Phẫu thuật ngả bụng Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-bung.jpeg)
+_Phẫu thuật ngả bụng Bệnh viện Từ Dũ._
 
-![Phẫu thuật ngả bụng](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-bung.jpeg)
-_Phẫu thuật ngả bụng._
-
-![Phẫu thuật đường âm đạo](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-am-dao.png)
-_Phẫu thuật đường âm đạo._
+![Phẫu thuật đường âm đạo Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-am-dao.png)
+_Phẫu thuật đường âm đạo Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
