@@ -294,7 +294,7 @@ _Quản lý AIS theo hướng dẫn của ASCCP 2012._
 
 ### Nghi ngờ ung thư cổ tử cung trong thai kỳ
 
-![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-tan-sinh-bieu-mo-co-tu-cung-va-thai-ky.png)
+![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky.png)
 _Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ._
 
 ## Điều trị trong tân sinh biểu mô cổ tử cung
