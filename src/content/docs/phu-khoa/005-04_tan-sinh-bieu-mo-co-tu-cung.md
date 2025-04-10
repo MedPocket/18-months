@@ -124,7 +124,7 @@ Các bệnh nhân có kết quả tế bào học cổ tử cung là ASCUS nên 
 - Nếu HPV âm tính, thực hiện co-testing sau 3 năm.
 - Nếu HPV dương tính, thực hiện soi cổ tử cung ngay hoặc làm lại tế bào học sau 1 năm.
 
-![Quản lý ASC-US theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-asc-us-asccp-2012.png)
+![Quản lý ASC-US theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-asc-us.png)
 _Quản lý ASC-US theo hướng dẫn của ASCCP 2012 ở dân số chung._
 
 Phụ nữ trẻ dưới 24 tuổi với ASC-US, cần có quản lý riêng, do đối với trẻ vị thành niên, nguy cơ tiến triển thành ung thư xâm lấn gần như là 0% và tỷ lệ thanh thải virus HPV cao. Có thể thực hiện xét nghiệm tế bào học lại sau 1 năm:
@@ -189,7 +189,7 @@ LSIL trên dân số đặc biệt:
   - Nếu HPV dương tính hoặc tế bào học làm lại ≥ASC, thì phải thực hiện soi cổ tử cung.
   - Có thể quay lại tầm soát thường quy nếu có xét nghiệm tế bào học âm tính 2 lần liên tiếp.
 
-![Quản lý LSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-lsil-asccp-2012.png)
+![Quản lý LSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-lsil.png)
 _Quản lý LSIL theo hướng dẫn của ASCCP 2012._
 
 ![Quản lý LSIL theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-lsil.jpeg)
@@ -218,7 +218,7 @@ Trong các kết quả tế bào học là HSIL, có gần 70% các trường h�
 Soi cổ tử cung ở bất cứ độ tuổi nào của bệnh nhân.<br>
 hoặc<br>
 Khoét chóp ngay (ngoại trừ bệnh nhân còn trẻ dưới 25 tuổi hoặc phụ nữ có thai).
-![Quản lý HSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-hsil-asccp-2012.png)
+![Quản lý HSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-hsil.png)
 _Quản lý HSIL theo hướng dẫn của ASCCP 2012._
 
 ![Quản lý HSIL theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-hsil.jpeg)
@@ -243,7 +243,7 @@ AGC (Atypical glandular cells) tế bào tuyến không điển hình hoặc AGU
 
 #### Quản lý AGC hoặc AGUS
 
-![Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-agc-agus.jpeg)
+![Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-agus.jpeg)
 _Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ._
 
 ![Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-huong-ve-tang-san-tuyen.jpeg)
@@ -257,7 +257,7 @@ _Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ._
 
 #### Quản lý CIN 1
 
-![Quản lý CIN 1 theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-cin-1.jpeg)
+![Quản lý CIN 1 theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-cin-1.jpeg)
 _Quản lý CIN 1 theo Bệnh viện Từ Dũ._
 
 ### CIN 2 và CIN 3
@@ -289,12 +289,12 @@ Do các đặc điểm bệnh học trên: nằm sâu, đa ổ và không thể 
 
 Đối với AIS, khoét chóp bằng dao lạnh được ưa dùng hơn LEEP vì cắt bằng dao lạnh có thể đánh giá tốt bờ phẫu thuật tốt, giúp cho việc lên kế hoạch điều trị tiếp theo. Nếu bờ phẫu thuật còn tế bào bất thường hoặc mô nạo kênh có CIN hoặc AIS, có thể cắt lại (ưu tiên) hoặc theo dõi đánh giá lại sau 6 tháng (chấp nhận).
 
-![Quản lý AIS theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-ais-asccp-2012.png)
+![Quản lý AIS theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-ais.png)
 _Quản lý AIS theo hướng dẫn của ASCCP 2012._
 
 ### Nghi ngờ ung thư cổ tử cung trong thai kỳ
 
-![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky.jpeg)
+![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky.png)
 _Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ._
 
 ## Điều trị trong tân sinh biểu mô cổ tử cung
