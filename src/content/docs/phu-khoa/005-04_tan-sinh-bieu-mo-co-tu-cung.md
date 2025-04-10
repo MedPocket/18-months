@@ -110,7 +110,7 @@ Thường thì ASC-US là những thay đổi của tế bào do phản ứng v�
 Diễn tiến tự nhiên của ASC-US sau 24 tháng:
 
 - Thoái lui về bình thường: 65%.
-- Tiến triển thành HSIL : 7%.
+- Tiến triển thành HSIL: 7%.
 - Tiến triển thành ung thư xâm lấn: 0.25%.
 
 #### Quản lý ASC-US
@@ -124,7 +124,7 @@ Các bệnh nhân có kết quả tế bào học cổ tử cung là ASCUS nên 
 - Nếu HPV âm tính, thực hiện co-testing sau 3 năm.
 - Nếu HPV dương tính, thực hiện soi cổ tử cung ngay hoặc làm lại tế bào học sau 1 năm.
 
-![Quản lý ASC-US theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-asc-us-asccp-2012.png)
+![Quản lý ASC-US theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-asc-us.png)
 _Quản lý ASC-US theo hướng dẫn của ASCCP 2012 ở dân số chung._
 
 Phụ nữ trẻ dưới 24 tuổi với ASC-US, cần có quản lý riêng, do đối với trẻ vị thành niên, nguy cơ tiến triển thành ung thư xâm lấn gần như là 0% và tỷ lệ thanh thải virus HPV cao. Có thể thực hiện xét nghiệm tế bào học lại sau 1 năm:
@@ -148,10 +148,9 @@ Ghi nhớ 2 điểm sau:
 
 - Chống chỉ định nạo kênh cổ tử cung ở phụ nữ có thai.
 - Có thể chấp nhận trì hoãn soi cổ tử cung cho đến hết 6 tuần hậu sản.
-
 :::
 
-![Quản lý ASC-US theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-asc-us-benh-vien-tu-du.jpeg)
+![Quản lý ASC-US theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-us.jpeg)
 _Quản lý ASC-US theo Bệnh viện Từ Dũ._
 
 ### LSIL
@@ -162,7 +161,7 @@ Thuật ngữ LSIL (Low-grade squamous intraepithelial lesions) thể hiện cá
 
 LSIL bao gồm các tổn thương dị sản mức độ nhẹ hoặc nghi ngờ tổn thương CIN 1 trên mô học hoặc nhiễm HPV type nguy cơ cao.
 
-Tế bào trong LSIL có nhân to hơn ≥ 3 lần so với nhân của tế bào trung gian bình thường. Tỷ lệ nhân:bào tương ≤ 1/3. Đa nhân không phải là dấu hiệu hiếm. Nhân đậm với phân bố nhiễm sắc chất đều. Ở các tổn thương LSIL, hoạt động của HPV còn rất rõ ràng. Có sự liên quan mật thiết giữa tổn thương LSIL và kết quả HPV-DNA dương tính.
+Tế bào trong LSIL có nhân to hơn ≥3 lần so với nhân của tế bào trung gian bình thường. Tỷ lệ nhân:bào tương ≤ 1/3. Đa nhân không phải là dấu hiệu hiếm. Nhân đậm với phân bố nhiễm sắc chất đều. Ở các tổn thương LSIL, hoạt động của HPV còn rất rõ ràng. Có sự liên quan mật thiết giữa tổn thương LSIL và kết quả HPV-DNA dương tính.
 
 Về tiến triển của LSIL, các nghiên cứu cho thấy:
 
@@ -190,10 +189,10 @@ LSIL trên dân số đặc biệt:
   - Nếu HPV dương tính hoặc tế bào học làm lại ≥ASC, thì phải thực hiện soi cổ tử cung.
   - Có thể quay lại tầm soát thường quy nếu có xét nghiệm tế bào học âm tính 2 lần liên tiếp.
 
-![Quản lý LSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-lsil-asccp-2012.png)
+![Quản lý LSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-lsil.png)
 _Quản lý LSIL theo hướng dẫn của ASCCP 2012._
 
-![Quản lý LSIL theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-lsil-benh-vien-tu-du.jpeg)
+![Quản lý LSIL theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-lsil.jpeg)
 _Quản lý LSIL theo Bệnh viện Từ Dũ._
 
 ### HSIL
@@ -219,10 +218,10 @@ Trong các kết quả tế bào học là HSIL, có gần 70% các trường h�
 Soi cổ tử cung ở bất cứ độ tuổi nào của bệnh nhân.<br>
 hoặc<br>
 Khoét chóp ngay (ngoại trừ bệnh nhân còn trẻ dưới 25 tuổi hoặc phụ nữ có thai).
-![Quản lý HSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-hsil-asccp-2012.png)
+![Quản lý HSIL theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-hsil.png)
 _Quản lý HSIL theo hướng dẫn của ASCCP 2012._
 
-![Quản lý HSIL theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-hsil-benh-vien-tu-du.jpeg)
+![Quản lý HSIL theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-hsil.jpeg)
 _Quản lý HSIL theo Bệnh viện Từ Dũ._
 
 ### ASC-H
@@ -233,7 +232,7 @@ ASC-H (Atypical squamous cells - cannot exclude high grade squamous intraepithel
 
 #### Quản lý ASC-H
 
-![Quản lý ASC-H theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-asc-h-benh-vien-tu-du.jpeg)
+![Quản lý ASC-H theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-h.jpeg)
 _Quản lý ASC-H theo Bệnh viện Từ Dũ._
 
 ### AGC hoặc AG-US
@@ -244,10 +243,10 @@ AGC (Atypical glandular cells) tế bào tuyến không điển hình hoặc AGU
 
 #### Quản lý AGC hoặc AGUS
 
-![Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-agc-agus-benh-vien-tu-du.jpeg)
+![Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-agus.jpeg)
 _Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ._
 
-![Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-agc-huong-ve-tang-san-tuyen-benh-vien-tu-du.jpeg)
+![Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-huong-ve-tang-san-tuyen.jpeg)
 _Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ._
 
 ### CIN 1
@@ -258,7 +257,7 @@ _Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ._
 
 #### Quản lý CIN 1
 
-![Quản lý CIN 1 theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-cin-1-benh-vien-tu-du.jpeg)
+![Quản lý CIN 1 theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-cin-1.jpeg)
 _Quản lý CIN 1 theo Bệnh viện Từ Dũ._
 
 ### CIN 2 và CIN 3
@@ -271,7 +270,7 @@ Có gần 40% các CIN 2 thoái triển tự nhiên về bình thường sau 2 n
 
 #### Quản lý
 
-![Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-agc-agus-benh-vien-tu-du.jpeg)
+![Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-agus.jpeg)
 _Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ._
 
 ### AIS
@@ -290,12 +289,12 @@ Do các đặc điểm bệnh học trên: nằm sâu, đa ổ và không thể 
 
 Đối với AIS, khoét chóp bằng dao lạnh được ưa dùng hơn LEEP vì cắt bằng dao lạnh có thể đánh giá tốt bờ phẫu thuật tốt, giúp cho việc lên kế hoạch điều trị tiếp theo. Nếu bờ phẫu thuật còn tế bào bất thường hoặc mô nạo kênh có CIN hoặc AIS, có thể cắt lại (ưu tiên) hoặc theo dõi đánh giá lại sau 6 tháng (chấp nhận).
 
-![Quản lý AIS theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-ais-asccp-2012.png)
+![Quản lý AIS theo hướng dẫn của ASCCP 2012](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-ais.png)
 _Quản lý AIS theo hướng dẫn của ASCCP 2012._
 
 ### Nghi ngờ ung thư cổ tử cung trong thai kỳ
 
-![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky-benh-vien-tu-du.jpeg)
+![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky.png)
 _Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ._
 
 ## Điều trị trong tân sinh biểu mô cổ tử cung
@@ -317,7 +316,7 @@ Hủy mô chỉ thích hợp cho tổn thương thỏa các điều kiện:
 
 Có thể sử dụng nitrogen hoặc carbon dioxide để làm lạnh. Đầu áp lạnh có nhiều loại khác nhau để phù hợp với hình dạng và kích thước của tổn thương. Dù là phương pháp ra đời từ lâu, nhưng hiện nay vẫn còn phổ biến vì tính đơn giản, dễ thực hiện, ít gây khó chịu cho bệnh nhân, và có thể thực hiện đối với bệnh nhân ngoại trú hoặc ở phòng tiểu phẫu. Có thể dùng lidocaine tê tại chỗ để giảm đau cho bệnh nhân trong khi làm thủ thuật.
 
-![Áp lạnh cổ tử cung](../../../assets/phu-khoa/ung-thu-co-tu-cung/ap-lanh-co-tu-cung.png)
+![Áp lạnh cổ tử cung](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/ap-lanh-co-tu-cung.png)
 _Áp lạnh cổ tử cung với đầu áp lạnh được nối với nguồn nitrogen lỏng hay CO2 lỏng, áp vào cổ tử cung. Lựa chọn đầu áp tùy theo tổn thương (dưới, phải). Áp lạnh không cho phép điều chỉnh độ sâu của điều trị. Áp lạnh cũng không cho phép phá hủy chính xác tổn thương (dưới, trái)._
 
 ### Huỷ mô bằng đốt laser (laser vaporization)
@@ -341,14 +340,14 @@ Khoét chóp cổ tử cung bằng dao lạnh là lấy đi toàn bộ phần h�
 
 Khoét chóp bằng dao điện có ưu điểm là nhanh, kiểm soát chảy máu dễ dàng, kỹ thuật cầm máu cổ tử cung đơn giản. Nhược điểm lớn nhất của khoét chóp bằng dao điện là rất khó đánh giá dương tính tế bào ở bờ phẫu thuật, do mô bị cháy bởi dòng điện cao tần. Ưu điểm của khoét chóp là có thể chủ động cắt mô với nhiều hình dạng và kích thước khác nhau. Ưu điểm quan trọng nhất của khoét chóp bằng dao lạnh là khả năng khảo sát tình trạng dương tính hay âm tính ở bờ phẫu thuật, do phương pháp này không làm cháy mô ở bờ phẫu thuật.
 
-![Khoét chóp cổ tử cung bằng dao lạnh](../../../assets/phu-khoa/ung-thu-co-tu-cung/khoet-chop-bang-dao-lanh.png)
+![Khoét chóp cổ tử cung bằng dao lạnh](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/khoet-chop-bang-dao-lanh.png)
 _Khoét chóp bằng dao lạnh._
 
 ### Cắt bỏ mô tổn thương với vòng điện LEEP và LLETZ
 
 Cắt bằng vòng điện (loop electrosurgical excision procedure) (LEEP) hay vòng cắt rộng (large loop excision of the transformation zone) (LLETZ) là các kỹ thuật cắt vùng chuyển tiếp bằng vòng điện. Kĩ thuật này đã trở thành sự lựa chọn của nhiều nhà lâm sàng do đơn giản. Nhược điểm lớn nhất của phương pháp này là không được các nhà khảo sát mô học ưa chuộng, vì rất khó đánh giá dương tính bờ phẫu thuật. Cắt bằng dao laser (laser conization) đang dần bị thay thế vì chi phí cao và vì tính ứng dụng ngày càng rộng của LEEP.
 
-![LEEP](../../../assets/phu-khoa/ung-thu-co-tu-cung/leep.png)
+![LEEP](../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/leep.png)
 _LEEP và các vòng cắt khác nhau._
 
 ## Nguồn tham khảo

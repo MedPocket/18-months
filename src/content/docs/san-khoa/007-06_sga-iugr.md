@@ -40,7 +40,7 @@ Các khảo sát thông dụng gồm theo dõi tim thai và cơn co tử cung (n
 test), khảo sát động học các dòng chảy với hiệu ứng Doppler, trắc đồ sinh vật lý của Manning hay trắc đồ sinh vật lý biến đổi. Trong SGS/FGR xuất hiện sớm, vai trò của velocimetry Doppler là quan trọng.
 Trong khi đó với SGA/FGR xuất hiện muộn trong tam cá nguyệt thứ ba, vai trò của EFM lại quan trọng hơn.
 
-Đối với SGA/FGR, chỉ định của corticosteroid liệu pháp cần phải mở rộng thêm đến 36 tuần vô kinh hay hơn nữa, mà không dừng lại ở 34 tuần vô kinh.
+Đối với SGA/FGR, chỉ định của corticosteroids liệu pháp cần phải mở rộng thêm đến 36 tuần vô kinh hay hơn nữa, mà không dừng lại ở 34 tuần vô kinh.
 
 ### Nguy cơ trẻ sơ sinh
 

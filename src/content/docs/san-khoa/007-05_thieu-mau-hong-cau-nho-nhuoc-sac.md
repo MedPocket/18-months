@@ -69,7 +69,7 @@ WHO đề nghị phụ nữ nên bổ sung 60mg sắt nguyên tố và 200 mcg a
 
 Thalassemia là bệnh lý thiếu máu do sự giảm sản xuất chọn lọc chuỗi globulin. Thalassemia là bệnh hemoglobin di truyền đơn gene thể lặn trên nhiễm sắc thể thường theo quy luật Mendel.
 
-Ở Việt Nam, hàng năm có 1,700 trẻ sinh ra bị Thalassemia. Cá thể mắc bệnh có thể bị phù thai, thai lưu, hoặc thiếu máu nặng sau sinh. Cho đến nay, điều trị chủ yếu vẫn là truyền máu và thải sắt khiến bệnh lí này trở thành gánh nặng cho gia đình và xã hội. Việc sàng lọc người lành mang gien bệnh và chẩn đoán tiền sản là biện pháp kiểm soát bệnh và giảm tỷ lệ bệnh hiệu quả nhất.
+Ở Việt Nam, hàng năm có 1700 trẻ sinh ra bị Thalassemia. Cá thể mắc bệnh có thể bị phù thai, thai lưu, hoặc thiếu máu nặng sau sinh. Cho đến nay, điều trị chủ yếu vẫn là truyền máu và thải sắt khiến bệnh lí này trở thành gánh nặng cho gia đình và xã hội. Việc sàng lọc người lành mang gien bệnh và chẩn đoán tiền sản là biện pháp kiểm soát bệnh và giảm tỷ lệ bệnh hiệu quả nhất.
 
 Khi không có 1 chuỗi Hb, thì chuỗi còn lại sẽ không thể giữ được phân tử Hb ổn định. Phân tử bị tan rã và gây ra các tác hại.
 

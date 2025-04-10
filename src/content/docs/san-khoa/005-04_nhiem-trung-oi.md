@@ -33,10 +33,36 @@ Tiền căn nhiễm trùng ối.
 
 ## Chẩn đoán
 
-![Chẩn đoán nhiễm trùng ối](../../../assets/san-khoa/nhiem-trung-oi/chan-doan-nhiem-trung-oi.png)
+:::note[Chẩn đoán nhiễm trùng ối]
+|Chẩn đoán|Đặc điểm|
+|---|---|
+|Mẹ sốt đơn thuần|Nhiệt độ mẹ sốt từ 38 $^oC$ - 38.9 $^oC$ không có nguyên nhân khác, tình trạng sốt có thể kéo dài hoặc không.|
+|Nghi ngờ nhiễm trùng ối|Sốt không có nguyên nhân cụ thể, kết hợp 1 hoặc các yếu tố sau:<br>1. Tim thai cơ bản >160 lần/phút trong ≥10 phút.<br>2. Bạch cầu máu mẹ >15 000/$mm^3$, không điều trị corticosteroids, công thức bạch cầu chuyển trái (trường hợp dùng corticosteroids liều cao có thể xét nghiệm lại 48h sau liều cuối cùng).<br>3. Dịch đục chảy ra từ lỗ ngoài cổ tử cung qua đặt mỏ vịt.|
+|Xác định nhiễm trùng ối|Dấu hiệu nghi ngờ nhiễm trùng ối kết hợp với 1 hoặc nhiều kết quả xét nghiệm dịch ối sau:<br>1. Nhuộm Gram dịch ối có vi khuẩn.<br>2. Giảm nồng độ glucose ≤14mg/dL.<br>3. Tăng bạch cầu dịch ối > 30 tế bào/$mm^3$ (không lẫn máu).|
+:::
 
 :::caution[Lưu ý]
 Chẩn đoán nhiễm trùng ối chủ yếu dựa vào lâm sàng để xử trí tích cực, tiêu chuẩn chọc ối/giải phẫu bệnh chỉ có giá trị nghiên cứu và không giúp cải thiện xử trí trong và sau sinh.
+:::
+
+## Biến chứng
+
+### Mẹ
+
+Làm tăng nguy cơ chuyển dạ bất thường, tỷ lệ mổ lấy thai, đờ tử cung, băng huyết sau sinh, cần truyền máu.
+
+Nhiễm trùng tại chỗ, tăng nguy cơ viêm nội mạc tử cung, nhiễm khuẩn vùng chậu, nhiễm trùng vết mổ.
+
+Nhiễm khuẩn huyết, rối loạn đông máu, hội chứng suy hô hấp, tử vong.
+
+### Con
+
+Cấp: Viêm phổi sơ sinh, viêm màng não, nhiễm khuẩn huyết, tử vong.
+
+Lâu dài: Loạn sản phế quản phổi, bại não.
+
+:::caution[Lưu ý]
+Cần thảo luận với bác sĩ sơ sinh đánh giá và điều trị trẻ sơ sinh khi chẩn đoán nghi ngờ/xác định nhiễm trùng ối.
 :::
 
 ## Xử trí
@@ -67,62 +93,39 @@ Xác định nhiễm trùng lan rộng bao gồm nhiễm trùng vùng chậu, nh
 
 Chọn 1 trong các kháng sinh sau đây:
 
-- Ampicillin 2 g tiêm tĩnh mạch mỗi 6h + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24h (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h), hoặc
-- Ampicillin - sulbactam 3 g tiêm tĩnh mạch mỗi 6h, hoặc
-- Cefoxitin 2 g tiêm tĩnh mạch mỗi 8h, hoặc
-- Cefotetan 2 g tiêm tĩnh mạch mỗi 12h, hoặc
-- Mezlocillin 4 g tiêm tĩnh mạch mỗi 6h.
+- Ampicillin 2g tiêm tĩnh mạch mỗi 6h + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24h (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h), hoặc
+- Ampicillin - sulbactam 3g tiêm tĩnh mạch mỗi 6h, hoặc
+- Cefoxitin 2g tiêm tĩnh mạch mỗi 8h, hoặc
+- Cefotetan 2g tiêm tĩnh mạch mỗi 12h, hoặc
+- Mezlocillin 4g tiêm tĩnh mạch mỗi 6h.
 
 #### Lựa chọn 2: Nếu dị ứng nhẹ với Penicillin
 
-Cefazolin 2 g tiêm tĩnh mạch mỗi 8h + + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24h (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h).
+Cefazolin 2g tiêm tĩnh mạch mỗi 8h + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24h (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h).
 
 #### Lựa chọn 3: Nếu dị ứng nặng với Penicillin
 
-Clindamycin 900mg truyền tĩnh mạch 8h hoặc Vancomycin 1 g truyền tĩnh mạch mỗi 12h và Gentamicin truyền tĩnh mạch 5mg/kg truyền tĩnh mạch mỗi 24h.
+Clindamycin 900mg truyền tĩnh mạch 8h hoặc Vancomycin 1g truyền tĩnh mạch mỗi 12h và Gentamicin truyền tĩnh mạch 5mg/kg truyền tĩnh mạch mỗi 24h.
 
 :::caution[Lưu ý]
-
 Vancomycin chỉ nên sử dụng trong trường hợp:
 
 - Người bệnh nhiễm GBS và đề kháng với Clindamycin hoặc Erythromycin, hoặc
 - Người bệnh nhiễm GBS và không có kết quả kháng sinh đồ.
-
 :::
 
 #### Nếu không đáp ứng với kháng sinh trên
 
-Piperacillin - Tazobactam 4.5 g truyền tĩnh mạch mỗi 8h, hoặc
+Piperacillin - Tazobactam 4.5g truyền tĩnh mạch mỗi 8h, hoặc
 
-Ertapenem 1 g truyền tĩnh mạch mỗi 24h.
+Ertapenem 1g truyền tĩnh mạch mỗi 24h.
 
 ### Hạ sốt
 
 Dùng theo chỉ định
 
-### Lưu đồ xử trí
-
-![Lưu đồ xử trí nhiễm trùng ối](../../../assets/san-khoa/nhiem-trung-oi/luu-do-xu-tri-nhiem-trung-oi.png)
-
-## Biến chứng
-
-### Mẹ
-
-Làm tăng nguy cơ chuyển dạ bất thường, tỷ lệ mổ lấy thai, đờ tử cung, băng huyết sau sinh, cần truyền máu.
-
-Nhiễm trùng tại chỗ, tăng nguy cơ viêm nội mạc tử cung, nhiễm khuẩn vùng chậu, nhiễm trùng vết mổ.
-
-Nhiễm khuẩn huyết, rối loạn đông máu, hội chứng suy hô hấp, tử vong.
-
-### Con
-
-Cấp: Viêm phổi sơ sinh, viêm màng não, nhiễm khuẩn huyết, tử vong.
-
-Lâu dài: Loạn sản phế quản phổi, bại não.
-
-:::caution[Lưu ý]
-Cần thảo luận với bác sĩ sơ sinh đánh giá và điều trị trẻ sơ sinh khi chẩn đoán nghi ngờ/xác định nhiễm trùng ối.
-:::
+![Lưu đồ xử trí nhiễm trùng ối](../../../assets/san-khoa/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)
+_Lưu đồ xử trí nhiễm trùng ối._
 
 ## Nguồn tham khảo
 

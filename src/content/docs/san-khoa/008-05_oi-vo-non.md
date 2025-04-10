@@ -69,7 +69,7 @@ Xử trí ối vỡ non tùy thuộc 2 yếu tố chủ chốt:
 Nếu có dấu hiệu nhiễm trùng (sốt, dịch âm đạo có mùi hôi), cho kháng sinh như trong điều trị nhiễm trùng ối và phải chấm dứt thai kỳ bất chấp tuổi thai.
 
 - Khi đã có nhiễm trùng thì không được trì hoãn chấm dứt thai kỳ vì bất cứ lý do gì.
-- Không được dùng corticosteroid trong trường hợp có dấu hiệu nhiễm trùng, bất chấp tuổi thai.
+- Không được dùng corticosteroids trong trường hợp có dấu hiệu nhiễm trùng, bất chấp tuổi thai.
 
 ### Không có dấu hiệu nhiễm trùng
 
@@ -77,30 +77,30 @@ Nếu có dấu hiệu nhiễm trùng (sốt, dịch âm đạo có mùi hôi), 
 
 Đối với thai <34 tuần không có nhiễm trùng, không đe dọa mẹ và thai, cần điều trị mong đợi, tư vấn về nguy cơ và lợi ích.
 
-Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh và trì hoãn cuộc sinh: thường là kháng sinh nhắm vào Streptococcus nhóm B. Dùng Ampicillin, đường tĩnh mạch, 2 g mỗi 6h hoặc Penicillin G, đường tĩnh mạch, 2 triệu đơn vị mỗi 6h, cho đến lúc sinh.
+Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh và trì hoãn cuộc sinh: thường là kháng sinh nhắm vào Streptococcus nhóm B. Dùng Ampicillin, đường tĩnh mạch, 2g mỗi 6h hoặc Penicillin G, đường tĩnh mạch, 2 triệu đơn vị mỗi 6h, cho đến lúc sinh.
 
 :::caution[Lưu ý]
 Với ối vỡ non, thai non tháng phức bộ [Amoxicillin + Acid Clavulanic] bị chống chỉ định do khả năng gây viêm ruột hoại tử ở sơ sinh. Cụ thể:
 
 - Lựa chọn 1:
-  - Azithromycin 1 g (uống) ngay khi nhập viện, và
-  - Ampicillin 2 g (tĩnh mạch chậm) mỗi 6h trong 48h, sau đó
+  - Azithromycin 1g (uống) ngay khi nhập viện, và
+  - Ampicillin 2g (tĩnh mạch chậm) mỗi 6h trong 48h, sau đó
   - Amoxicillin 500mg (uống) mỗi 8h trong 5 ngày.
 - Lựa chọn 2:
-  - Ampicillin 1 g (uống) ngay khi nhập viện, và
-  - Cefazolin 1 g (tĩnh mạch chậm) mỗi 8h trong 48h, sau đó
+  - Ampicillin 1g (uống) ngay khi nhập viện, và
+  - Cefazolin 1g (tĩnh mạch chậm) mỗi 8h trong 48h, sau đó
   - Cephalexin 500mg (uống) mỗi 6h trong 5 ngày.
 - Trường hợp nguy cơ cao phản ứng phản vệ với Penicillin:
-  - Azithromycin 1 g (uống) ngay khi nhập viện, và
+  - Azithromycin 1g (uống) ngay khi nhập viện, và
   - Clindamycin 900mg (truyền tĩnh mạch) mỗi 8h trong 48h + Gentamicin 5mg/kg (truyền tĩnh mạch) mỗi 24h trong 48h, sau đó
   - Clindamycin 300mg (uống) mỗi 8h trong 5 ngày.
 - Trường hợp dị ứng nặng với Penicillin, GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ:
-  - Azithromycin 1 g (uống) ngay khi nhập viện, và
+  - Azithromycin 1g (uống) ngay khi nhập viện, và
   - Vancomycin 20mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24h trong 48h. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành 3 nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy >15mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
 
 :::
 
-Dùng corticosteroid cho mẹ để giảm khả năng xảy ra hội chứng suy hô hấp cấp ở sơ sinh. Dùng ngay cả khi không chắc có đủ thời gian để hoàn thành đủ liều corticosteroids.
+Dùng corticosteroids cho mẹ để giảm khả năng xảy ra hội chứng suy hô hấp cấp ở sơ sinh. Dùng ngay cả khi không chắc có đủ thời gian để hoàn thành đủ liều corticosteroids.
 
 Xét nghiệm máu mỗi 48h hoặc khi nghi ngờ có dấu hiệu nhiễm trùng.
 
@@ -135,7 +135,7 @@ Dùng Magnesium sulfate bảo vệ não ở trẻ sinh non:
 - Chống chỉ định khi mẹ bị nhược cơ.
 - Thận trọng khi mẹ có tiền căn thiếu máu cơ tim, rối loạn dẫn truyền.
 - Trường hợp mẹ tăng huyết áp hay tiền sản giật sử dụng theo phác đồ [Tăng huyết áp thai kỳ](/san-khoa/007-02_tang-huyet-ap-thai-ky/#magnesium-sulfate).
-- Liều Magnesium sulfate 4.5 g liều duy nhất, truyền tĩnh mạch chậm trong 20-30 phút. Giảm liều khi BN có thiểu niệu hay suy thận.
+- Liều Magnesium sulfate 4.5g liều duy nhất, truyền tĩnh mạch chậm trong 20-30 phút. Giảm liều khi BN có thiểu niệu hay suy thận.
 - Khi có chỉ định chấm dứt thai kỳ, Magnesium sulfate được chỉ định lý tưởng nhất trước sinh 4h.
 
 Khi có chuyển dạ, đánh giá tiến triển cuộc chuyển dạ mỗi 4h ở giai đoạn tiềm tàng và 1-2h ở giai đoạn hành động, đánh giá các dấu hiệu nhiễm trùng ối.

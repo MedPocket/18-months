@@ -13,7 +13,7 @@ Theo Liên đoàn các nhà Sản Phụ khoa Thế giới (FIGO), HIP (hypergylc
 
 Đái tháo đường type 2 đặc trưng bởi tình trạng thiếu insulin tương đối kèm đề kháng insulin ngoại biên.
 
-Tiền đái tháo đường là tình trạng rối loạn chuyển hóa glucose bao gồm rối loạn glucose lúc đói (Impaired Fasting Glucose-IFG), rối loạn dung nạp glucose (Impaired Glucose Tolerance-IGT) và giá trị HbA1c từ 5,7-6,4%.
+Tiền đái tháo đường là tình trạng rối loạn chuyển hóa glucose bao gồm rối loạn glucose lúc đói (Impaired Fasting Glucose-IFG), rối loạn dung nạp glucose (Impaired Glucose Tolerance-IGT) và giá trị HbA1c từ 5.7-6.4%.
 
 Đái tháo đường mang thai, hay còn gọi là đái tháo đường rõ (overt diabetes) có mức glucose huyết tương đạt mức chẩn đoán đái tháo đường tiêu chuẩn (WHO, 2006), trong khi đái tháo đường thai kỳ có mức glucose huyết tương thấp hơn.
 
@@ -84,8 +84,8 @@ Trên thế giới có hai mô hình tầm soát chính là tầm soát đại t
 
 |     | Nguy cơ cao                                                                                                                                                            |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | BMI thừa cân và có thêm 1 yếu tố: tiền sử gia đình có đái tháo đường thế hệ 1, chủng tộc, tim mạch, tăng huyết áp, HDL <0,9, TG >2,82, PCOs, ít vận động, dấu gai đen. |
-| 2   | HbA1C >5,7% hoặc tiền đái tháo đường (IGT / IGF).                                                                                                                      |
+| 1   | BMI thừa cân và có thêm 1 yếu tố: tiền sử gia đình có đái tháo đường thế hệ 1, chủng tộc, tim mạch, tăng huyết áp, HDL <0.9, TG >2.82, PCOs, ít vận động, dấu gai đen. |
+| 2   | HbA1C >5.7% hoặc tiền đái tháo đường (IGT / IGF).                                                                                                                      |
 | 3   | Tiền sử đái tháo đường thai kỳ.                                                                                                                                        |
 | 4   | Tuổi >35.                                                                                                                                                              |
 | 5   | Suy giảm miễn dịch mắc phải (HIV).                                                                                                                                     |
@@ -106,13 +106,13 @@ Nhóm thai phụ có nguy cơ cao cần được xét nghiệm glucose huyết t
 
 - Bình thường:
 
-  - Glucose huyết tương tĩnh mạch khi đói 70-90mg/dL (3,9-5,0mmol/L).
+  - Glucose huyết tương tĩnh mạch khi đói 70-90mg/dL (3.9-5.0mmol/L).
   - Glucose huyết tương tĩnh mạch bất kỳ ≤199mg/dL (11mmol/L).
   - Nhóm này cũng vẫn thực hiện xét nghiệm sàng lọc khi 24-28 tuần.
 
 - Nghi ngờ:
 
-  - Glucose huyết tương tĩnh mạch khi đói 91-125mg/dL (5.1-6.9mmol/L) và/ hoặc HbA1c 5,7%-6,4%.
+  - Glucose huyết tương tĩnh mạch khi đói 91-125mg/dL (5.1-6.9mmol/L) và/ hoặc HbA1c 5.7%-6.4%.
   - Thực hiện xét nghiệm sàng lọc ngay.
 
 - Đái tháo đường mang thai:
@@ -193,12 +193,12 @@ Phù hợp thói quen ăn uống, điều kiện kinh tế, không quá khó th�
 :::note[Glucose huyết tương mao mạch mục tiêu]
 | Thời điểm | Glucose (mg/dL) | Glucose (mmol/l) |
 | --------- | --------------- | ---------------- |
-| Lúc đói   | <95             | <5,3             |
-| Sau ăn 1h | <140            | <7,8             |
-| Sau ăn 2h | <120            | <6,7             |
+| Lúc đói   | <95             | <5.3             |
+| Sau ăn 1h | <140            | <7.8             |
+| Sau ăn 2h | <120            | <6.7             |
 
 :::caution[Lưu ý]
-HbA1C < 6% (kiểm tra 1 tháng 1 lần) và không có biểu hiện hạ đường máu.
+HbA1C < 6% (kiểm tra 1 lần/tháng) và không có biểu hiện hạ đường máu.
 :::
 
 HbA1c ít có giá trị với đái tháo đường thai kỳ vì đái tháo đường thai kỳ xuất hiện từ nửa sau thai kỳ (khoảng 4 tháng cuối) trong khi HbA1c có giá trị đánh giá trong vòng 3 tháng. Ngoài ra còn chịu ảnh hưởng của nhiều yếu tố như đời sống hồng cầu ngắn lại, máu pha loãng.
@@ -367,7 +367,7 @@ Không nên dùng đường trắng.
 
 Đối với thai phụ bị thừa cân, béo phì hoặc tăng cân quá nhiều trong thời kỳ mang thai nên ăn các thực phẩm luộc, bỏ lò hơn là các món rán, không nên ăn thịt mỡ, ăn cá và thịt gia cầm thay cho thịt đỏ, ăn bơ tách chất béo và các thực phẩm khác nhau có hàm lượng chất béo thấp.
 
-Duy trì chế độ luyện tập tối thiểu 30 phút/ ngày để phòng chống đái tháo đường thai kỳ nếu thai phụ không có các nguy cơ như nhau tiền đạo, dọa sinh non, tiền sản giật...
+Duy trì chế độ luyện tập tối thiểu 30 phút/ngày để phòng chống đái tháo đường thai kỳ nếu thai phụ không có các nguy cơ như nhau tiền đạo, dọa sinh non, tiền sản giật...
 
 ### Thai phụ bị đái tháo đường
 
@@ -460,9 +460,9 @@ Các chỉ định dùng insulin:
 
 Liều lượng insulin và số mũi tiêm insulin phụ thuộc vào mức tăng glucose huyết tương, hình thái tăng glucose huyết tương, tuổi thai, tình trạng kháng insulin, stress, nhiễm trùng... Nếu người bệnh chỉ bị tăng glucose huyết tương lúc đói thì chỉ cần tiêm insulin nền (basal) tác dụng kéo dài hoặc bán chậm là đủ. Nếu người bệnh chỉ bị tăng glucose huyết tương sau ăn thì cần tiêm mũi insulin tác dụng nhanh (phóng hay bolus) trước các bữa ăn có glucose tăng cao. Nếu người bệnh bị tăng cả glucose huyết tương lúc đói và sau ăn thì phải phối hợp tiêm cả mũi Insulin nên và phóng trước các bữa ăn. Như vậy, tùy tình trạng tăng glucose huyết tương mà có thể tiêm cho bệnh nhân từ 1 mũi cho đến 4 mũi, thậm chí 5 mũi tiêm insulin trong ngày:
 
-- Nếu người bệnh chỉ tăng glucose huyết tương buổi sáng lúc đói thì phác đồ sử dụng insulin nền được khuyến cáo. Có thể sử dụng insulin NPH hoặc insulin tác dụng kéo dài (Detemir). Liều khởi đầu 0.1 IU/kg/ngày (trọng lượng thực) nếu glucose huyết tương buổi sáng lúc đói thường xuyên bằng hoặc trên 5.3mmol/L (95mg/L) và dưới 7mmol/L (180mg/dL). Chỉnh liều insulin cứ 2-3 ngày/lần, mỗi lần thêm 1-2 IU cho đến khi đạt mục tiêu điều trị.
+- Nếu người bệnh chỉ tăng glucose huyết tương buổi sáng lúc đói thì phác đồ sử dụng insulin nền được khuyến cáo. Có thể sử dụng insulin NPH hoặc insulin tác dụng kéo dài (Detemir). Liều khởi đầu 0.1IU/kg/ngày (trọng lượng thực) nếu glucose huyết tương buổi sáng lúc đói thường xuyên bằng hoặc trên 5.3mmol/L (95mg/L) và dưới 7mmol/L (180mg/dL). Chỉnh liều insulin cứ 2-3 ngày/lần, mỗi lần thêm 1-2 IU cho đến khi đạt mục tiêu điều trị.
 
-- Nếu glucose huyết tương sau ăn tăng (bằng hoặc trên 7.8mmol/L (140mg/dL) sau ăn 1h, hoặc bằng hoặc trên 6,7mmol/L (120mg/dL) sau ăn 2h và dưới 11.1mmol/L (200mg/dL)) thì sử dụng insulin nhanh (regular, lispro, aspart) tiêm trước các bữa ăn. Số mũi tiêm phụ thuộc vào số các bữa ăn có tăng glucose huyết tương, có thể tiêm từ 1-3 mũi tiêm. Liều khởi đầu từ ≤0.1 IU/kg/bữa ăn. Chỉnh liều insulin 2-3 ngày/lần, mỗi lần tăng 1-2 IU cho đến khi glucose huyết tương đạt mục tiêu.
+- Nếu glucose huyết tương sau ăn tăng (bằng hoặc trên 7.8mmol/L (140mg/dL) sau ăn 1h, hoặc bằng hoặc trên 6.7mmol/L (120mg/dL) sau ăn 2h và dưới 11.1mmol/L (200mg/dL)) thì sử dụng insulin nhanh (regular, lispro, aspart) tiêm trước các bữa ăn. Số mũi tiêm phụ thuộc vào số các bữa ăn có tăng glucose huyết tương, có thể tiêm từ 1-3 mũi tiêm. Liều khởi đầu từ ≤0.1IU/kg/bữa ăn. Chỉnh liều insulin 2-3 ngày/lần, mỗi lần tăng 1-2 IU cho đến khi glucose huyết tương đạt mục tiêu.
 
 - Nếu glucose huyết tương tăng cả lúc đói và sau ăn, thì phác đồ tiêm insulin nền-phóng (basal-bolus) được sử dụng. Liều lượng và chỉnh liều tương tự trên.
 
@@ -527,7 +527,7 @@ Xử trí khi hạ đường huyết:
 
 Tăng huyết áp, tiền sản giật, nguy cơ nhiễm độc thai nghén, tai biến mạch máu não, suy gan, suy thận.
 
-Đa ối dẫn tỷ lệ cao gấp 4 lần so với các thai phụ bình thường tới rau bong non, chuyển dạ sinh non, đờ tử cung. Thai phụ bị đái tháo đường thai kỳ làm tăng nguy cơ sinh non so với các thai phụ không bị đái tháo đường thai kỳ. Tỷ lệ sinh non ở phụ nữ đái tháo đường thai kỳ là 26%, trong khi ở nhóm thai phụ bình thường là 9,7%.
+Đa ối dẫn tỷ lệ cao gấp 4 lần so với các thai phụ bình thường tới rau bong non, chuyển dạ sinh non, đờ tử cung. Thai phụ bị đái tháo đường thai kỳ làm tăng nguy cơ sinh non so với các thai phụ không bị đái tháo đường thai kỳ. Tỷ lệ sinh non ở phụ nữ đái tháo đường thai kỳ là 26%, trong khi ở nhóm thai phụ bình thường là 9.7%.
 
 Tăng nguy cơ mổ lấy thai.
 
@@ -551,7 +551,7 @@ Hạ đường huyết ở trẻ sơ sinh.
 
 Nguy cơ trong chuyển dạ như kẹt vai.
 
-Dị tật bẩm sinh ở thời điểm thụ thai của người mẹ bị mắc bệnh đái tháo đường, nếu lượng glucose huyết tương không được kiểm soát tốt thì tỷ lệ dị tật bẩm sinh của trẻ sơ sinh sẽ rất cao từ 8-13%, gấp 2-4 lần nhóm không bị đái tháo đường. Tương quan thuận giữa mức HbA1C và tỷ lệ dị tật thai. Trong 3 tháng đầu thai kỳ, khi HbA1C >6,5% nguy cơ dị tật thai tăng.
+Dị tật bẩm sinh ở thời điểm thụ thai của người mẹ bị mắc bệnh đái tháo đường, nếu lượng glucose huyết tương không được kiểm soát tốt thì tỷ lệ dị tật bẩm sinh của trẻ sơ sinh sẽ rất cao từ 8-13%, gấp 2-4 lần nhóm không bị đái tháo đường. Tương quan thuận giữa mức HbA1C và tỷ lệ dị tật thai. Trong 3 tháng đầu thai kỳ, khi HbA1C >6.5% nguy cơ dị tật thai tăng.
 
 Tăng hồng cầu là tình trạng thường gặp ở trẻ sơ sinh của các thai phụ có đái tháo đường thai kỳ, nồng độ hemoglobin trong máu tĩnh mạch trung tâm >20g/dl hay dung tích hồng cầu >65%.
 
@@ -589,13 +589,13 @@ Theo dõi tình trạng thân nhiệt, tim mạch, hô hấp (cần phát hiện
 
 Ngay sau sinh không cần dùng insulin vì glucose huyết tương thường trở về bình thường.
 
-Kiểm tra glucose huyết tương đói trong vòng 24h sau sinh. Nếu đang dùng insulin: ngưng tiêm và theo dõi glucose máu bất kỳ; khi glucose ≥11,1mmol/L, giảm liều đang dùng 50%.
+Kiểm tra glucose huyết tương đói trong vòng 24h sau sinh. Nếu đang dùng insulin: ngưng tiêm và theo dõi glucose máu bất kỳ; khi glucose ≥11.1mmol/L, giảm liều đang dùng 50%.
 
 #### Đối với đái tháo đường và thai kỳ (đái tháo đường thực sự)
 
-Sau sinh nếu glucose huyết tương bất kỳ ≥11,1mmol/L phải sử dụng insulin cho mẹ.
+Sau sinh nếu glucose huyết tương bất kỳ ≥11.1mmol/L phải sử dụng insulin cho mẹ.
 
-Nếu đang dùng insulin, ngưng. Kiểm tra nếu glucose huyết tương bất kỳ ≥11,1mmol/L, dùng insulin với liều insulin giảm 50% so với liều trong thời gian mang thai, ngay sau sinh. Giới thiệu khám chuyên khoa Nội Tiết sau khi xuất viện.
+Nếu đang dùng insulin, ngưng. Kiểm tra nếu glucose huyết tương bất kỳ ≥11.1mmol/L, dùng insulin với liều insulin giảm 50% so với liều trong thời gian mang thai, ngay sau sinh. Giới thiệu khám chuyên khoa Nội Tiết sau khi xuất viện.
 
 ### Đánh giá rối loạn chuyển hóa đường
 
@@ -631,9 +631,9 @@ Ngừng các thuốc hạ đường huyết khác insulin khi có thai. Nên s�
 
 Đối với đái tháo đường type 2:
 
-- Bắt đầu với liều 0.4-0.5 IU/kg/ngày.
-- Chỉnh liều tăng dần từ tuần 13: 0.8 IU/kg từ tuần 13-26, 0.9 IU/kg từ 26-36 và 1 IU/kg từ tuần 36 khi đẻ.
-- Sản phụ béo phì cần liều khởi đầu cao hơn 1-2 IU/kg/ngày.
+- Bắt đầu với liều 0.4-0.5IU/kg/ngày.
+- Chỉnh liều tăng dần từ tuần 13: 0.8IU/kg từ tuần 13-26, 0.9IU/kg từ 26-36 và 1IU/kg từ tuần 36 khi đẻ.
+- Sản phụ béo phì cần liều khởi đầu cao hơn 1-2IU/kg/ngày.
 - Aspirin dự phòng đối với đái tháo đường thực sự khi mang thai liều từ 60-150mg/ngày trong 3 tháng thai thứ nhất để giảm nguy cơ tiền sản giật.
 
 ## Nguồn tham khảo

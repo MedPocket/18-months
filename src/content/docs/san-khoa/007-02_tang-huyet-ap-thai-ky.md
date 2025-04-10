@@ -33,15 +33,19 @@ Nguồn gốc xuất hiện tiền sản giật bắt đầu từ bánh rau như
 
 ## Yếu tố nguy cơ
 
-1 số yếu tố nguy cơ tăng huyết áp trong thai kỳ:
+Con so.
 
-- Con so.
-- Béo phì.
-- Đa thai.
-- Mẹ lớn tuổi (&gt; 35 tuổi).
-- Tiền căn từng bị tiền sản giật trong lần mang thai trước.
-- Tăng huyết áp mạn, đái tháo đường, bệnh thận, Lupus.
-- Tiền sử gia đình có mẹ hoặc chị em gái bị tiền sản giật.
+Béo phì.
+
+Đa thai.
+
+Mẹ lớn tuổi (≥35 tuổi).
+
+Tiền căn từng bị tiền sản giật trong lần mang thai trước.
+
+Tăng huyết áp mạn, đái tháo đường, bệnh thận, Lupus.
+
+Tiền sử gia đình có mẹ hoặc chị em gái bị tiền sản giật.
 
 ## Phân loại tăng huyết áp thai kỳ
 
@@ -66,7 +70,7 @@ Dấu hiệu nặng của tiền sản giật (bất kỳ dấu hiệu nào):
 
 1. Huyết áp tâm thu ≥160mmHg hoặc huyết áp tâm trương ≥110mmHg qua 2 lần đo cách nhau ít nhất 4h khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
 1. Huyết áp tâm thu ≥160mmHg hoặc huyết áp tâm trương ≥110mmHg qua 2 lần đo cách nhau ít nhất 4h khi sản phụ đã nghỉ ngơi (trừ trường hợp thuốc hạ áp đã được sử dụng trước đó).
-2. Giảm tiểu cầu: tiểu cầu <100,000/µL.
+2. Giảm tiểu cầu: tiểu cầu <100 000/µL.
 3. Suy giảm chức năng gan: men gan tăng (gấp đôi so với bình thường), đau nhiều ở hạ sườn phải hoặc đau thượng vị không đáp ứng với thuốc và không có nguyên nhân khác.
 4. Suy thận tiến triển (creatinine huyết thanh >1.1mg/dL hoặc gấp đôi nồng độ creatinine huyết thanh bình thường mà không do bệnh lý thận khác).
 4. Suy thận tiến triển (creatinine huyết thanh >1.1mg/dL hoặc gấp đôi nồng độ creatinine huyết thanh bình thường mà không do bệnh lý thận khác).
@@ -108,12 +112,12 @@ Lâm sàng:
 
 Cận lâm sàng:
 
-- LDH >600 IU/L.
+- LDH >600IU/L.
 - Bilirubin toàn phần >12mg/dL.
-- AST >70 IU/L.
-- LDH >600 IU/L.
+- AST >70IU/L.
+- LDH >600IU/L.
 - Bilirubin toàn phần >12mg/dL.
-- AST >70 IU/L.
+- AST >70IU/L.
 - Giảm Haptoglobin.
 :::
 
@@ -188,9 +192,9 @@ Không sử dụng thuốc chống tăng huyết áp, lợi tiểu hoặc thuố
 
 Nhập viện và chấm dứt thai kỳ khi:
 
-- Thai &gt; 37 tuần, hoặc
+- Thai ≥37 tuần, hoặc
 - Nghi ngờ rau bong non, hoặc
-- Thai &gt; 34 tuần và có bất kỳ triệu chứng sau:
+- Thai ≥34 tuần và có bất kỳ triệu chứng sau:
   - Chuyển dạ hoặc vỡ ối.
   - Siêu âm ước lượng trọng lượng thai nhỏ hơn bách phân vị thứ 5.
   - Thiểu ối AFI <5cm ở 2 lần siêu âm liên tiếp cách nhau 24h.
@@ -230,7 +234,7 @@ Chấm dứt thai kỳ khi tiền sản giật nặng xuất hiện trước 25 
 Điều trị mong đợi với thai <34 tuần với tình trạng mẹ và thai ổn định, có thể tiếp tục theo dõi.
 Điều trị mong đợi với thai <34 tuần với tình trạng mẹ và thai ổn định, có thể tiếp tục theo dõi.
 
-Liệu pháp Corticosteroids trước sinh khi thai &lt; 34 tuần. Tuy nhiên không đợi đủ thời gian mà chấm dứt thai kỳ ngay khi:
+Liệu pháp corticosteroids trước sinh khi thai ≤34 tuần. Tuy nhiên không đợi đủ thời gian mà chấm dứt thai kỳ ngay khi:
 
 - Tăng huyết áp không kiểm soát được.
 - Sản giật.
@@ -248,7 +252,7 @@ Nếu tình trạng mẹ - thai ổn định, trong vòng 48h chấm dứt thai 
 - Chuyển dạ.
 - Tiểu cầu <100 G/L.
 - Tiểu cầu <100 G/L.
-- Men gan tăng kéo dài (&gt; 2 lần bình thường).
+- Men gan tăng kéo dài (≥2 lần bình thường).
 - Thai chậm tăng trưởng trong tử cung (cân nặng nhỏ hơn bách phân vị thứ 5).
 - Thiểu ối (AFI <5cm) (siêu âm 2 lần cách nhau 24h).
 - Thiểu ối (AFI <5cm) (siêu âm 2 lần cách nhau 24h).
@@ -259,7 +263,7 @@ Nếu tình trạng mẹ - thai ổn định, trong vòng 48h chấm dứt thai 
 :::caution[Lưu ý]
 
 - Quyết định chấm dứt thai kỳ không dựa vào yếu tố đạm niệu.
-- Chỉ định dùng thuốc chống tăng huyết áp khi HA tâm thu &gt; 150mmHg hoặc HA tâm trương &gt; 100mmHg.
+- Chỉ định dùng thuốc chống tăng huyết áp khi HA tâm thu ≥150mmHg hoặc HA tâm trương ≥100mmHg.
 - Mẹ:
   - Sinh hiệu 1h/lần.
   - Bilan dịch vào và ra mỗi 8h/lần.
@@ -286,15 +290,15 @@ Trong trường đặc biệt là sản phụ không muốn chấm dứt thai, m
 
 Trong giai đoạn này, mẹ vẫn ưu tiên hơn con.
 
-Nếu quyết định kéo dài thai kỳ được đặt ra thì có thể cân nhắc corticosteroid liệu pháp dự phòng suy hô hấp cấp và $MgSO_4$ liệu pháp dự phòng tổn thương não.
+Nếu quyết định kéo dài thai kỳ được đặt ra thì có thể cân nhắc corticosteroids liệu pháp dự phòng suy hô hấp cấp và $MgSO_4$ liệu pháp dự phòng tổn thương não.
 
 #### Khi tuổi thai từ 33-34 tuần 6 ngày
 
-Cần cân nhắc tình trạng mẹ có cho phép kéo dài thêm 48h cho corticosteroid liệu pháp dự phòng suy hô hấp cấp hay không?
-Cần cân nhắc tình trạng mẹ có cho phép kéo dài thêm 48h cho corticosteroid liệu pháp dự phòng suy hô hấp cấp hay không?
+Cần cân nhắc tình trạng mẹ có cho phép kéo dài thêm 48h cho corticosteroids liệu pháp dự phòng suy hô hấp cấp hay không?
+Cần cân nhắc tình trạng mẹ có cho phép kéo dài thêm 48h cho corticosteroids liệu pháp dự phòng suy hô hấp cấp hay không?
 
-2 điều kiện tiên quyết để thực hiện Corticosteroids liệu pháp là (1) tình trạng mẹ phải đảm bảo cho việc kéo dài thai kỳ thêm 48h mà không ảnh hưởng xấu đến mẹ, và (2) tình trạng tuần hoàn tử cung-rau và dự trữ kiềm của con phải đảm bảo chịu đựng cuộc sống trong tử cung thêm 48h.
-2 điều kiện tiên quyết để thực hiện Corticosteroids liệu pháp là (1) tình trạng mẹ phải đảm bảo cho việc kéo dài thai kỳ thêm 48h mà không ảnh hưởng xấu đến mẹ, và (2) tình trạng tuần hoàn tử cung-rau và dự trữ kiềm của con phải đảm bảo chịu đựng cuộc sống trong tử cung thêm 48h.
+2 điều kiện tiên quyết để thực hiện corticosteroids liệu pháp là (1) tình trạng mẹ phải đảm bảo cho việc kéo dài thai kỳ thêm 48h mà không ảnh hưởng xấu đến mẹ, và (2) tình trạng tuần hoàn tử cung-rau và dự trữ kiềm của con phải đảm bảo chịu đựng cuộc sống trong tử cung thêm 48h.
+2 điều kiện tiên quyết để thực hiện corticosteroids liệu pháp là (1) tình trạng mẹ phải đảm bảo cho việc kéo dài thai kỳ thêm 48h mà không ảnh hưởng xấu đến mẹ, và (2) tình trạng tuần hoàn tử cung-rau và dự trữ kiềm của con phải đảm bảo chịu đựng cuộc sống trong tử cung thêm 48h.
 
 #### Khi thai trên 34 tuần
 
@@ -339,8 +343,8 @@ Nguyên tắc:
 
 #### Dự phòng co giật
 
-Sử dụng $MgSO_4$ để dự phòng cơn giật. Liều tấn công 4-6 g $MgSO_4$ tiêm tĩnh mạch chậm. Duy trì 1-2 g $MgSO_4$ mỗi giờ trong chuyển dạ và sau sinh 12-24h. Ngưng $MgSO_4$ sau sinh 24h, hoặc trong trường hợp có biểu hiện ngộ độc $MgSO_4$. Chỉ dùng $MgSO_4$ cho tiền sản giật có biểu hiện nặng, [chi tiết tại đây](#magnesium-sulfate).
-Sử dụng $MgSO_4$ để dự phòng cơn giật. Liều tấn công 4-6 g $MgSO_4$ tiêm tĩnh mạch chậm. Duy trì 1-2 g $MgSO_4$ mỗi giờ trong chuyển dạ và sau sinh 12-24h. Ngưng $MgSO_4$ sau sinh 24h, hoặc trong trường hợp có biểu hiện ngộ độc $MgSO_4$. Chỉ dùng $MgSO_4$ cho tiền sản giật có biểu hiện nặng, [chi tiết tại đây](#magnesium-sulfate).
+Sử dụng $MgSO_4$ để dự phòng cơn giật. Liều tấn công 4-6g $MgSO_4$ tiêm tĩnh mạch chậm. Duy trì 1-2g $MgSO_4$ mỗi giờ trong chuyển dạ và sau sinh 12-24h. Ngưng $MgSO_4$ sau sinh 24h, hoặc trong trường hợp có biểu hiện ngộ độc $MgSO_4$. Chỉ dùng $MgSO_4$ cho tiền sản giật có biểu hiện nặng, [chi tiết tại đây](#magnesium-sulfate).
+Sử dụng $MgSO_4$ để dự phòng cơn giật. Liều tấn công 4-6g $MgSO_4$ tiêm tĩnh mạch chậm. Duy trì 1-2g $MgSO_4$ mỗi giờ trong chuyển dạ và sau sinh 12-24h. Ngưng $MgSO_4$ sau sinh 24h, hoặc trong trường hợp có biểu hiện ngộ độc $MgSO_4$. Chỉ dùng $MgSO_4$ cho tiền sản giật có biểu hiện nặng, [chi tiết tại đây](#magnesium-sulfate).
 
 Trong tiền sản giật, không dùng Diazepam hay Phenytoin. Khi được dùng trong tiền sản giật, chúng có hiệu quả kém, do sản giật là bệnh lý mà cơ chế sinh co giật hoàn toàn khác với động kinh. Hơn nữa, chúng có thể có ảnh hưởng xấu trên thai nhi.
 
@@ -357,7 +361,7 @@ Co giật thường tự giới hạn. Không cần phải dùng đến các thu
 - Dùng các thuốc chống co giật như Barbiturate hay các Zepam là không cần thiết, có thể gây khó khăn cho theo dõi sau sản giật.
 - Chỉ có $MgSO_4$ là cần thiết trong trường hợp có sản giật.
 
-Mục tiêu của điều trị $MgSO_4$ là để phòng ngừa các cơn co giật có khả năng sẽ xảy ra sau đó. Nếu sản phụ bị sản giật dù đang được truyền $MgSO_4$, cần tiêm tĩnh mạch chậm thêm 2-4 g $MgSO_4$ nữa, sau đó định lượng ion $Mg^{2+}$ trong máu. Nếu không đáp ứng với $MgSO_4$ (co giật sau 20 phút sau tiêm liều tải $MgSO_4$, sản giật tái phát &gt; 2 lần), có thể sử dụng Midazolam 1-2mg (tĩnh mạch chậm) hoặc Lorazepan 4mg (tĩnh mạch chậm), đặt nội khí quản và hỗ trợ thông khí. Trong trường hợp co giật không đáp ứng với $MgSO_4$, cân nhắc chụp CT hoặc MRI não vì đa số có bất thường hình ảnh não.
+Mục tiêu của điều trị $MgSO_4$ là để phòng ngừa các cơn co giật có khả năng sẽ xảy ra sau đó. Nếu sản phụ bị sản giật dù đang được truyền $MgSO_4$, cần tiêm tĩnh mạch chậm thêm 2-4g $MgSO_4$ nữa, sau đó định lượng ion $Mg^{2+}$ trong máu. Nếu không đáp ứng với $MgSO_4$ (co giật sau 20 phút sau tiêm liều tải $MgSO_4$, sản giật tái phát ≥2 lần), có thể sử dụng Midazolam 1-2mg (tĩnh mạch chậm) hoặc Lorazepan 4mg (tĩnh mạch chậm), đặt nội khí quản và hỗ trợ thông khí. Trong trường hợp co giật không đáp ứng với $MgSO_4$, cân nhắc chụp CT hoặc MRI não vì đa số có bất thường hình ảnh não.
 
 Cần đặt ống thông Foley để theo dõi chính xác lượng nước tiểu và đồng thời để giúp quyết định điều trị với $MgSO_4$. Nếu có thiểu niệu, cần truyền nhanh 1 L dung dịch Glucose 5% trong 30 phút. Cảnh giác với phù phổi khi truyền nhanh. Nếu bài niệu vẫn không cải thiện, có thể đã có hoại tử ống thận cấp. Trong trường hợp này, cần phải được chăm sóc tại chuyên khoa hồi sức tích cực nội khoa.
 
@@ -373,7 +377,7 @@ Sản giật không phải chỉ định mổ lấy thai tuyệt đối, phươn
 
 ### Hội chứng HELLP
 
-Chấm dứt thai kỳ khi có chẩn đoán mà không đợi tác dụng của liệu pháp Corticosteroids.
+Chấm dứt thai kỳ khi có chẩn đoán mà không đợi tác dụng của liệu pháp corticosteroids.
 
 ## Thuốc điều trị
 
@@ -387,12 +391,12 @@ Cách dùng: Truyền tĩnh mạch, tiêm tĩnh mạch hoặc tiêm bắp (ít d
 
 Liều dùng:
 
-- Liều tấn công: 4.5 g (4-6 g) $MgSO_4$ 15%/50mL tiêm tĩnh mạch chậm.
+- Liều tấn công: 4.5g (4-6 g) $MgSO_4$ 15%/50mL tiêm tĩnh mạch chậm.
 - Liều duy trì 1g/h (1-2g/h) truyền tĩnh mạch:
 - Liều duy trì 1g/h (1-2g/h) truyền tĩnh mạch:
-  - Pha 6 g $MgSO_4$ 15% vào chai Glucose 5% 500mL truyền tĩnh mạch XXX giọt/phút hoặc
-  - Bơm tiêm điện pha 6 g $MgSO_4$ 15% bơm tiêm điện 6.7mL/h.
-  - Bơm tiêm điện pha 6 g $MgSO_4$ 15% bơm tiêm điện 6.7mL/h.
+  - Pha 6g $MgSO_4$ 15% vào chai Glucose 5% 500mL truyền tĩnh mạch XXX giọt/phút hoặc
+  - Bơm tiêm điện pha 6g $MgSO_4$ 15% bơm tiêm điện 6.7mL/h.
+  - Bơm tiêm điện pha 6g $MgSO_4$ 15% bơm tiêm điện 6.7mL/h.
 
 :::caution[Lưu ý]
 
@@ -409,7 +413,7 @@ Liều dùng:
 - Nguy cơ băng huyết sau sinh, giảm dao động nội tại tim thai.
 - Xử trí ngộ độc $MgSO_4$:
   - Ngừng truyền $MgSO_4$.
-  - Dùng Calcium Gluconate 10% 10mL, tiêm tĩnh mạch 1 g trong 10 phút.
+  - Dùng Calcium Gluconate 10% 10mL, tiêm tĩnh mạch 1g trong 10 phút.
   - Cân nhắc dùng Furosemide 80mg để tăng đào thải $MgSO_4$.
   - Đặt nội khí quản và thông khí nếu có suy hô hấp, ngừng thở.
 

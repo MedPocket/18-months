@@ -63,7 +63,6 @@ Khi siêu âm đánh giá hình ảnh buồng trứng đa nang:
 4. Thời điểm siêu âm vào ngày 3-5 ở những phụ nữ có chu kỳ kinh đều. Những phụ nữ có kinh thưa hay vô kinh có thể được siêu âm bất kỳ thời điểm nào hay vào ngày 3-5 sau khi gây ra huyết âm đạo bằng progestin.
 5. Thể tích buồng trứng được tính bằng (0.5 x chiều dài x chiều rộng x độ dày).
 6. Khi chỉ có hình ảnh buồng trứng đa nang trên siêu âm mà không có rối loạn phóng noãn hay triệu chứng cường androgen (buồng trứng đa nang "không triệu chứng") không nên được xem là có hội chứng buồng trứng đa nang cho đến khi có các biểu hiện lâm sàng khác.
-
 :::
 
 ## Các vấn đề của buồng trứng đa nang
@@ -85,14 +84,6 @@ Có 3 trong 5 tiêu chuẩn
 | 3. HDL–C                                                 |<50mg/dL                                        |
 | 4. Huyết áp                                              | ≥130 / ≥85mmHg                                 |
 | 5. Đường huyết lúc đói và 2h sau làm test dung nạp đường | 110-126mg/dL và/hay glucose sau 2h 140-199mg/dL |
-| Yếu tố nguy cơ                                           | Ngưỡng bất thường                                 |
-| -------------------------------------------------------- | ------------------------------------------------- |
-| 1. Béo phì ở bụng (đo vòng eo)                           |>80cm                                            |
-| 2. Triglycerides                                         | ≥150mg/dL                                       |
-| 3. HDL–C                                                 |<50mg/dL                                        |
-| 4. Huyết áp                                              | ≥130 / ≥85mmHg                                 |
-| 5. Đường huyết lúc đói và 2h sau làm test dung nạp đường | 110-126mg/dL và/hay glucose sau 2h 140-199mg/dL |
-
 :::
 
 ### Tăng Luteinizing Hormone (LH)
@@ -159,7 +150,7 @@ Chất ức chế men thơm hóa, chủ yếu là Letrozole, chưa được côn
 
 Gây phóng noãn với gonadotropin được xem là lựa chọn thứ hai sau CC ở những người bệnh thất bại với CC.
 
-Phác đồ tăng liều dần (Step-up protocol): Nguyên lý của phác đồ này là sử dụng liều đầu FSH rất thấp, sau đó tăng dần để đạt được nồng độ ngưỡng FSH vừa đủ gây sự phát triển đơn noãn. Liều đầu FSH sử dụng được khuyến cáo từ 37.5-50 IU/ngày trong 14 ngày. Liều điều chỉnh bằng 1 nửa liều đang sử dụng, nghĩa là từ 25-37.5 IU/ngày trong 5 ngày. Ở người Việt Nam có BMI thấp, liều đầu có thể giảm xuống ở mức 25 IU/ngày và liều điều chỉnh là 25 IU/ngày.
+Phác đồ tăng liều dần (Step-up protocol): Nguyên lý của phác đồ này là sử dụng liều đầu FSH rất thấp, sau đó tăng dần để đạt được nồng độ ngưỡng FSH vừa đủ gây sự phát triển đơn noãn. Liều đầu FSH sử dụng được khuyến cáo từ 37.5-50IU/ngày trong 14 ngày. Liều điều chỉnh bằng 1 nửa liều đang sử dụng, nghĩa là từ 25-37.5IU/ngày trong 5 ngày. Ở người Việt Nam có BMI thấp, liều đầu có thể giảm xuống ở mức 25IU/ngày và liều điều chỉnh là 25IU/ngày.
 
 #### Nội soi đốt điểm buồng trứng đa nang
 

@@ -31,7 +31,7 @@ _Cơ sở dữ liệu bằng chứng từ 8 RCT lớn cho thấy:_
 
 Tất cả các phụ nữ mang thai cần được làm xét nghiệm tầm soát viêm gan B trong quý 1 thai kì.
 
-Nếu HBsAg (+), HBeAg (+) và HBV DNA >$10^6$ copies/ml (200.000 IU/mL) hoặc HBsAg định lượng >$10^4$ IU/mL:
+Nếu HBsAg (+), HBeAg (+) và HBV DNA >$10^6$ copies/ml (200.000IU/mL) hoặc HBsAg định lượng >$10^4$IU/mL:
 
 - Điều trị dự phòng với Tenofovir disoproxil fumarate (TDF) 300mg/viên/ngày từ tuần 24 - 28 của thai kỳ. Nếu muộn hơn nên bắt đầu ít nhất 4 tuần trước sinh và liên tục đến 4 - 12 tuần sau sinh (chú ý điều chỉnh liều theo mức lọc cầu thận).
 - Theo dõi tình trạng của mẹ gồm triệu chứng lâm sàng, AST, ALT mỗi 4 - 12 tuần, tải lượng HBV DNA trong vòng 24 tuần sau sinh để phát hiện viêm gan B bùng phát. Xét nghiệm lại HBV DNA sau sinh 3 tháng để quyết định ngừng thuốc hay tiếp tục điều trị nếu mẹ đủ tiêu chuẩn điều trị.

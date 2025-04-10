@@ -64,7 +64,7 @@ Theo CDC 2010, VVC được chia làm 2 dạng không biến chứng và có bi�
   - Nghi ngờ nhiễm Candida albicans.
   - Phụ nữ không suy giảm miễn dịch.
 - VVC được xếp vào nhóm có biến chứng khi rơi vào trong các tình huống sau:
-  - Tái phát ≥ 4 lần/năm.
+  - Tái phát ≥4 lần/năm.
   - Triệu chứng mức độ nặng.
   - Nghi ngờ hoặc có bằng chứng nhiễm nấm không phải Candida albicans.
   - Phụ nữ bị đái tháo đường, bệnh lý nội khoa nặng hoặc suy giảm miễn dịch.

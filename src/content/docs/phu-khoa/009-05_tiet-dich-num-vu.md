@@ -65,8 +65,8 @@ Tế bào học dịch núm vú.
 
 ## Phác đồ xử trí
 
-![Xử trí tiết dịch núm vú bệnh lý](../../../assets/phu-khoa/tiet-dich-num-vu/xu-tri-tiet-dich-num-vu-benh-ly.jpeg)
-_Xử trí tiết dịch núm vú bệnh lý._
+![Xử trí tiết dịch núm vú bệnh lý Bệnh viện Từ Dũ](../../../assets/phu-khoa/tiet-dich-num-vu/xu-tri-tiet-dich-num-vu-benh-ly.jpeg)
+_Xử trí tiết dịch núm vú bệnh lý Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 

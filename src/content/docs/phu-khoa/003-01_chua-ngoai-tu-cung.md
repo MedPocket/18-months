@@ -38,26 +38,26 @@ Thực thể:
 
 Cận lâm sàng:
 
-- Định lượng beta hCG:
+- Định lượng β-hCG:
 
   - Thực hiện 2 lần, mỗi lần cách nhau 48h.
-  - Nếu beta hCG tăng tối thiểu 60% theo dõi thai trong tử cung.
-  - Lặp lại beta hCG 2-7 ngày sau đó tùy vào sự thay đổi của beta hCG cách nhau 48h.
+  - Nếu β-hCG tăng tối thiểu 60% theo dõi thai trong tử cung.
+  - Lặp lại β-hCG 2-7 ngày sau đó tùy vào sự thay đổi của β-hCG cách nhau 48h.
 
 - Siêu âm:
 
   - Chẩn đoán xác định khi túi thai có yolk sac hoặc phôi hoặc cả 2 nằm ở phần phụ và lòng tử cung trống, không có túi thai.
-  - beta hCG >1500 mIU/mL: Siêu âm đường âm đạo thấy túi thai.
-  - beta hCG >6500 mIU/mL: Siêu âm đường bụng thấy túi thai.
+  - β-hCG >1500 mIU/mL: Siêu âm đường âm đạo thấy túi thai.
+  - β-hCG >6500 mIU/mL: Siêu âm đường bụng thấy túi thai.
   - Phân biệt túi thai giả: Túi thật có 2 vòng đồng tâm được chia bởi khoảng echo kém, có viền hồi âm dày (màng rụng bao) và nằm lệch 1 bên nội mạc tử cung.
   - Hình ảnh điển hình là vòng nhẫn/vòng ống, dấu hiệu vòng tròn lửa ("ring of fire" sign) qua siêu âm Doppler.
-  - Nếu siêu âm âm đạo không thấy túi thai trong tử cung và beta hCG <1500 mIU/mL có thể (1) thai trong tử cung bình thường nhưng quá sớm; (2) thai trong tử cung bất thường; (3) mới sẩy thai; (4) thai ngoài tử cung; (5) thai không xác định vị trí.
+  - Nếu siêu âm âm đạo không thấy túi thai trong tử cung và β-hCG <1500 mIU/mL có thể (1) thai trong tử cung bình thường nhưng quá sớm; (2) thai trong tử cung bất thường; (3) mới sẩy thai; (4) thai ngoài tử cung; (5) thai không xác định vị trí.
 
 - Nội soi bổ bụng là tiêu chuẩn vàng nhưng nếu thai quá nhỏ có thể bỏ sót (2-5% các trường hợp).
 - Hút/nạo sinh thiết buồng tử cung:
   - Được chỉ định khi thai không phát triển hoặc siêu âm không xác định vị trí thai.
-  - Chẩn đoán sẩy thai sớm khi hiện diện tế bào lông rau trong mô bệnh phẩm và beta hCG giảm >50% sau 12-24h.
-  - Nếu không thấy rau và beta hCG giữ nguyên hoặc tăng sau hút gợi ý sót rau hoặc có chửa ngoài.
+  - Chẩn đoán sẩy thai sớm khi hiện diện tế bào lông rau trong mô bệnh phẩm và β-hCG giảm >50% sau 12-24h.
+  - Nếu không thấy rau và β-hCG giữ nguyên hoặc tăng sau hút gợi ý sót rau hoặc có chửa ngoài.
 
 :::
 
@@ -121,7 +121,7 @@ Khoảng 1/7000-1/12000 các trường hợp. Với triệu chứng như các v�
 
 Huyết động ổn định (không sốc).
 
-beta hCG ≤5000 mIU/mL.
+β-hCG ≤5000 mIU/mL.
 
 Khối thai kích thước <4cm trên siêu âm.
 
@@ -131,7 +131,7 @@ Không có phôi thai, tim thai trong khối chửa (qua siêu âm).
 
 Huyết động ổn định (không sốc).
 
-beta hCG từ 3500 mIU/mL đến ≤5000 mIU/mL.
+β-hCG từ 3500 mIU/mL đến ≤5000 mIU/mL.
 
 Khối thai kích thước <5cm trên siêu âm.
 
@@ -141,7 +141,7 @@ Chửa ngoài tử cung đoạn kẽ <3cm.
 
 Huyết động ổn định (không sốc).
 
-beta hCG ≥5000 mIU/mL và ≤10000 mIU/mL.
+β-hCG ≥5000 mIU/mL và ≤10000 mIU/mL.
 
 Khối thai kích thước <5cm trên siêu âm.
 
@@ -163,7 +163,7 @@ Bệnh nội khoa: suy gan, suy thận, loét dạ dày, suy giảm miễn dịc
 
 Người bệnh từ chối điều trị MTX hoặc không thể theo dõi lâu dài.
 
-Bất thường xét nghiệm tiền hóa trị (bạch cầu <3000/$mm^3$, tiểu cầu <10000/$mm^3$, tăng men gen AST, ALT >100 IU/L, tăng BUN creatinine, rối loạn đông máu,...)
+Bất thường xét nghiệm tiền hóa trị (bạch cầu <3000/$mm^3$, tiểu cầu <10000/$mm^3$, tăng men gen AST, ALT >100IU/L, tăng BUN creatinine, rối loạn đông máu,...)
 
 ### Xét nghiệm tiền hóa trị
 
@@ -187,17 +187,17 @@ Tỷ lệ thành công đường toàn thân 70-95%.
 
 Tiêm bắp MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg vào ngày thứ 1.
 
-Định lượng beta hCG các ngày 4 và 7:
+Định lượng β-hCG các ngày 4 và 7:
 
-- beta hCG giảm ≥15% ngày 7 so với ngày 4: định lượng beta hCG hàng tuần cho đến khi âm tính.
-- beta hCG giảm <15% ngày 7 so với ngày 4: MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 2 và định lượng beta hCG vào ngày 14.
+- β-hCG giảm ≥15% ngày 7 so với ngày 4: định lượng β-hCG hàng tuần cho đến khi âm tính.
+- β-hCG giảm <15% ngày 7 so với ngày 4: MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 2 và định lượng β-hCG vào ngày 14.
 
-Định lượng beta hCG các ngày 14:
+Định lượng β-hCG các ngày 14:
 
-- beta hCG giảm ≥15% ngày 14 so với ngày 7: định lượng beta hCG hàng tuần cho đến khi âm tính.
-- beta hCG giảm <15% ngày 14 so với ngày 7: MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 3 và định lượng beta hCG vào ngày 21.
+- β-hCG giảm ≥15% ngày 14 so với ngày 7: định lượng β-hCG hàng tuần cho đến khi âm tính.
+- β-hCG giảm <15% ngày 14 so với ngày 7: MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 3 và định lượng β-hCG vào ngày 21.
 
-Sau điều trị 3 liều MTX, nếu beta hCG giảm <15% so với lần trước chuyển điều trị phẫu thuật.
+Sau điều trị 3 liều MTX, nếu β-hCG giảm <15% so với lần trước chuyển điều trị phẫu thuật.
 
 #### Phác đồ liều đôi
 
@@ -205,17 +205,17 @@ Liều thứ 1: Tiêm bắp MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg ngày th�
 
 Liều thứ 2: Tiêm bắp MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg ngày thứ 4.
 
-Định lượng beta hCG các ngày 4 và 7:
+Định lượng β-hCG các ngày 4 và 7:
 
-- beta hCG giảm ≥15% ngày 7 so với ngày 4: định lượng beta hCG hàng tuần cho đến khi âm tính.
-- beta hCG giảm <15% ngày 7 so với ngày 4: MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 3 và định lượng beta hCG vào ngày 11.
+- β-hCG giảm ≥15% ngày 7 so với ngày 4: định lượng β-hCG hàng tuần cho đến khi âm tính.
+- β-hCG giảm <15% ngày 7 so với ngày 4: MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 3 và định lượng β-hCG vào ngày 11.
 
-Định lượng beta hCG các ngày 11:
+Định lượng β-hCG các ngày 11:
 
-- beta hCG giảm ≥15% ngày 11 so với ngày 7: định lượng beta hCG hàng tuần cho đến khi âm tính.
-- beta hCG giảm <15% ngày 11 so với ngày 7: MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 4 và định lượng beta hCG vào ngày 21.
+- β-hCG giảm ≥15% ngày 11 so với ngày 7: định lượng β-hCG hàng tuần cho đến khi âm tính.
+- β-hCG giảm <15% ngày 11 so với ngày 7: MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 4 và định lượng β-hCG vào ngày 21.
 
-Sau điều trị 4 liều MTX, nếu beta hCG giảm <15% so với lần trước chuyển điều trị phẫu thuật.
+Sau điều trị 4 liều MTX, nếu β-hCG giảm <15% so với lần trước chuyển điều trị phẫu thuật.
 
 #### Phác đồ đa liều
 
@@ -223,11 +223,11 @@ Tiêm bắp MTX 1mg/kg ngày thứ 1, 3, 5, 7.
 
 Xen kẽ acid folic liều 0.1mg/kg tiêm bắp ngày 2, 4, 6, 8.
 
-Định lượng beta hCG vào các ngày tiêm MTX và tiếp tục tiêm cho đến khi beta hCG giảm ≥15% so với lần định lượng trước đó.
+Định lượng β-hCG vào các ngày tiêm MTX và tiếp tục tiêm cho đến khi β-hCG giảm ≥15% so với lần định lượng trước đó.
 
-Nếu beta hCG giảm ≥15% so với lần định lượng trước đó, ngừng tiêm MTX và định lượng beta hCG hằng tuần đến khi âm tính.
+Nếu β-hCG giảm ≥15% so với lần định lượng trước đó, ngừng tiêm MTX và định lượng β-hCG hằng tuần đến khi âm tính.
 
-Sau điều trị 4 liều MTX, nếu beta hCG giảm <15% so với lần trước chuyển điều trị phẫu thuật.
+Sau điều trị 4 liều MTX, nếu β-hCG giảm <15% so với lần trước chuyển điều trị phẫu thuật.
 
 ### Tác dụng không mong muốn
 
@@ -259,8 +259,8 @@ Siêu âm không được chỉ định thường quy để theo dõi đáp ứn
 
 Theo dõi khi
 
-- beta hCG <200 mIU/mL (88% sẽ tự thoái triển).
-- beta hCG <1000 mIU/mL kèm huyết động ổn định, kích thước khối chửa <2cm (77% tự thoái triển).
+- β-hCG <200 mIU/mL (88% sẽ tự thoái triển).
+- β-hCG <1000 mIU/mL kèm huyết động ổn định, kích thước khối chửa <2cm (77% tự thoái triển).
 
 Cần tư vấn nguy cơ vỡ và phải phẫu thuật.
 
@@ -270,7 +270,7 @@ Cần tư vấn nguy cơ vỡ và phải phẫu thuật.
 
 Điều kiện:
 
-- beta hCG <5000 mIU/mL.
+- β-hCG <5000 mIU/mL.
 - Kích thước túi thai <4cm.
 - Không có tim thai.
 - Không có tiền sử tạo hình ống dẫn trứng.

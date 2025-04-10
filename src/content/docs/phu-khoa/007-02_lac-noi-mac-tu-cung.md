@@ -303,7 +303,7 @@ Lạc nội mạc tử cung phúc mạc có thể cắt bỏ hoặc đốt hủy
 
 Lạc nội mạc tử cung buồng trứng không dẫn lưu hoặc đốt laser hay đốt điện mặt trong nang vì tái phát cao, cần bóc nang vì có hiệu quả giảm đau và giảm tỷ lệ tái phát.
 
-Lạc nội mạc sâu cân nhắc điều trị phẫu thuật cắt tổn thương vì tai biến và biến chứng phẫu thuật nặng nhất là biến chứng ruột, các biến chứng chung trong mổ khoảng 2.1%, sau mổ khoảng 13.9% (9.5% nhẹ, 4,6% nặng), cần cân nhắc chỉ định phẫu thuật cắt bỏ tổn (sang), có thể phối hợp các chuyên khoa liên quan. Tổn thương ở ruột có thể cắt bỏ ruột. Tổn thương gây hẹp niệu quản, ứ thận có thể đặt sonde JJ, cắt bỏ nối niệu quản hoặc cắm lại niệu quản vào bàng quang.
+Lạc nội mạc sâu cân nhắc điều trị phẫu thuật cắt tổn thương vì tai biến và biến chứng phẫu thuật nặng nhất là biến chứng ruột, các biến chứng chung trong mổ khoảng 2.1%, sau mổ khoảng 13.9% (9.5% nhẹ, 4.6% nặng), cần cân nhắc chỉ định phẫu thuật cắt bỏ tổn (sang), có thể phối hợp các chuyên khoa liên quan. Tổn thương ở ruột có thể cắt bỏ ruột. Tổn thương gây hẹp niệu quản, ứ thận có thể đặt sonde JJ, cắt bỏ nối niệu quản hoặc cắm lại niệu quản vào bàng quang.
 
 Lạc nội mạc ở vết mổ lấy thai hoặc vết may tầng sinh mông cắt bỏ tổn thường, lấy hết mô sượng cứng, không điều trị nội tiết sau va trước phẫu thuật.
 
@@ -447,13 +447,14 @@ Phẫu thuật điều trị lạc nội mạc tử cung trước khi thực hi�
 
 Không điều trị nội tiết trước và sau phẫu thuật.
 
-## Phụ lục
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
+_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung Bệnh viện Từ Dũ._
 
-![Phụ luc 1](../../../assets/phu-khoa/lac-noi-mac-tu-cung/phu-luc-1.jpeg)
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
+_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau Bệnh viện Từ Dũ._
 
-![Phụ luc 2](../../../assets/phu-khoa/lac-noi-mac-tu-cung/phu-luc-2.jpeg)
-
-![Phụ luc 3](../../../assets/phu-khoa/lac-noi-mac-tu-cung/phu-luc-3.jpeg)
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
+_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 

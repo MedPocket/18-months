@@ -134,7 +134,7 @@ Hóa trị dự phòng với Methotrexate (MTX) hoặc Dacticin:
 Không sử dụng hóa trị khi:
 
 - Bạch cầu <3000/$mm^3$, bạch cầu đa nhân trung tính <1500/$mm^3$, tiểu cầu <100000/$mm^3$.
-- Men gan AST, ALT >100 IU/L.
+- Men gan AST, ALT >100IU/L.
 
 :::
 
@@ -149,7 +149,7 @@ Tác dụng phụ gồm có:
   - Truyền dịch và bù điện giải.
 - Nhiễm độc da: rụng tóc, tăng dị ứng mẫn cảm.
 - Sử dụng kháng Histamin và Corticoid nếu có dị ứng:
-  - Ngưng hóa trị nếu men gan>100 IU/L.
+  - Ngưng hóa trị nếu men gan >100IU/L.
   - Thuốc bảo vệ tế bào gan: Biphenyl dimethyl dicarrboxylat.
 
 #### Tránh thai
@@ -167,7 +167,7 @@ Sau hút nạo, bệnh nhân cần được theo dõi diễn tiến của β-hCG
 
 Định lượng hCG có thể là hCG hay β-hCG. Tuy nhiên, khuyến cáo nên định lượng β-hCG, do các kỹ thuật định lượng hiện nay cho phép nhận diện và đo lường được những nồng độ rất thấp của β-hCG.
 
-Nhận diện được các nồng độ rất thấp của β-hCG là điều kiện quyết định cho phép rút ngắn đáng kể thời gian theo dõi hậu thai trứng. Nếu β-hCG trở về âm tính trong vòng 56 ngày sau hút nạo, thì thời gian theo dõi chỉ còn là 6 tháng. Do thời gian bán hủy của hCG là khoảng 36h nên bình thường thì logarithm thập phân của nồng độ β-hCG giảm đi 1 bậc mỗi tuần. Ví dụ như nồng độ β-hCG của hôm nay là $10^5$ IU/L (lg $10^5$ = 5) thì sau 1 tuần nồng độ β-hCG phải là $10^4$ IU/L (lg $10^4$ = 4).
+Nhận diện được các nồng độ rất thấp của β-hCG là điều kiện quyết định cho phép rút ngắn đáng kể thời gian theo dõi hậu thai trứng. Nếu β-hCG trở về âm tính trong vòng 56 ngày sau hút nạo, thì thời gian theo dõi chỉ còn là 6 tháng. Do thời gian bán hủy của hCG là khoảng 36h nên bình thường thì logarithm thập phân của nồng độ β-hCG giảm đi 1 bậc mỗi tuần. Ví dụ như nồng độ β-hCG của hôm nay là $10^5$IU/L (lg $10^5$ = 5) thì sau 1 tuần nồng độ β-hCG phải là $10^4$IU/L (lg $10^4$ = 4).
 
 ![Diễn biến hCG bình thường](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/dien-bien-tu-nhien-cua-hcg-sau-hut-nao-thai-trung.png)
 _Diễn biến hCG bình thường.<br>Giá trị thật sự của định lượng hCG lại là trong theo dõi diễn biến sau hút nạo. Bình thường thì logarithm thập phân của nồng độ hCG giảm đi 1 bậc mỗi tuần._
@@ -274,8 +274,8 @@ Yếu tố liên quan:
 Xử trí:
 
 - MTX 50mg/$m^2$ da thất bại → MTX 0.4mg/kg tiêm bắp 5 ngày hoặc Dacticin 12 mcg/kg tiêm bắp 5 ngày.
-- β-hCG <100 IU/L → Dacticin 5 ngày (87%).
-- β-hCG >100 IU/L → EMA-CO (99%).
+- β-hCG <100IU/L → Dacticin 5 ngày (87%).
+- β-hCG >100IU/L → EMA-CO (99%).
 - Kháng MTX → Dacticin.
 
 #### U nguyên bào nuôi nguy cơ cao
@@ -323,7 +323,7 @@ Nếu kháng EMA-CO:
     - Paclitaxel 135mg/$m^2$ da + 250mL NaCl 0.9% truyền trong 3h.
     - Mannitol 10% truyền trong 1h.
     - Cisplatin 60mg/$m^2$ da pha 1000mL NaCl 0.9% truyền trong 3h.
-    - Sau khi truyền thuốc, truyền tĩnh mạch 1000mL NaCl 0.9% + KCl 20mmol + 1 g $MgSO_4$ truyền trong 2h.
+    - Sau khi truyền thuốc, truyền tĩnh mạch 1000mL NaCl 0.9% + KCl 20mmol + 1g $MgSO_4$ truyền trong 2h.
   - Ngày 15:
     - Dexamethasone 20mg uống trước liều Paclitaxel 12h.
     - Dexamethasone 20mg uống trước liều Paclitaxel 6h.
