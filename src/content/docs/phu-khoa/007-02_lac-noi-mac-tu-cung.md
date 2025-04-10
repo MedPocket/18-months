@@ -447,13 +447,14 @@ Phẫu thuật điều trị lạc nội mạc tử cung trước khi thực hi�
 
 Không điều trị nội tiết trước và sau phẫu thuật.
 
-## Phụ lục
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
+_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung Bệnh viện Từ Dũ._
 
-![Phụ luc 1](../../../assets/phu-khoa/lac-noi-mac-tu-cung/phu-luc-1.jpeg)
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
+_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau Bệnh viện Từ Dũ._
 
-![Phụ luc 2](../../../assets/phu-khoa/lac-noi-mac-tu-cung/phu-luc-2.jpeg)
-
-![Phụ luc 3](../../../assets/phu-khoa/lac-noi-mac-tu-cung/phu-luc-3.jpeg)
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
+_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
