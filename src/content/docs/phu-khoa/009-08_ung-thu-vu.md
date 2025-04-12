@@ -142,7 +142,7 @@ Các yếu tố nguy cơ của ung thư vú:
 
 - Tiền sử gia đình: ung thư vú, ung thư buồng trứng hoặc các loại ung thư có nguồn gốc từ tế bào mầm (ung thư tiền liệt tuyến, ung thư tụy). 20-30% số trường hợp ung thư vú được phát hiện có yếu tố tiền căn gia đình bị ung thư vú.
 - Xác định có đột biến gen. Đột biến thường gặp nhất là đột biến ở gene BRCA1 và hoặc gene BRCA2. Người mang gene đột biến BRCA có nguy cơ ung thư vú tăng 4% mỗi năm, nguy cơ mắc ung thư vú 35-85% và nguy cơ mắc ung thư vú đối bên 65%. Đột biến gene BRCA1 còn liên quan đến ung thư buồng trứng và ung thư tiền liệt tuyến. Đột biến gene BRCA2 liên quan đến ung thư vú nam giới và ung thư tiền liệt tuyến. Các đối tượng rơi vào trong 1 trong các trường hợp sau nên được thực hiện khảo sát đột biến gene BRCA:
-  - Bệnh nhân có ≥ 3 người thân được chẩn đoán ung thư vú hoặc ung thư buồng trứng, trong đó có người dưới<50 tuổi.
+  - Bệnh nhân có ≥3 người thân được chẩn đoán ung thư vú hoặc ung thư buồng trứng, trong đó có người dưới<50 tuổi.
   - 2 người thân thế hệ 1 hoặc 2 bị ung thư vú hoặc ung thư buồng trứng.
   - Có người thân bị ung thư vú nam giới.
   - Bệnh nhân được chẩn đoán ung thư trước 50 tuổi.

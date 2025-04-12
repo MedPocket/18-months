@@ -84,16 +84,15 @@ Chỉ định chấm dứt thai kỳ:
 - SDP ≤1cm.
   - ≥34 tuần: Mổ lấy thai.
   - &lt; 34 tuần: Điều trị mong đợi.
-- 1 &lt; SDP ≤2cm: Thai 37 tuần sinh thường hoặc mổ lấy thai.
+- 1 ≤ SDP ≤2cm: Thai 37 tuần sinh thường hoặc mổ lấy thai.
 
-Liệu pháp Corticosteroids:
+Liệu pháp corticosteroids:
 
 - Thường quy từ 28 tuần đến 33 tuần 6 ngày.
 - Cân nhắc trường hợp từ 24 tuần đến 27 tuần 6 ngày.
 
-### Phác đồ thiểu ối đơn thuần
-
-![Phác đồ thiểu ối](../../../assets/san-khoa/thieu-oi/phac-do-thieu-oi-don-thuan.png)
+![Phác đồ xử trí thiểu ối đơn thuần bệnh viện Từ Dũ](../../../assets/san-khoa/thieu-oi/phac-do-xu-tri-thieu-oi-don-thuan.png)
+_Phác đồ xử trí thiểu ối đơn thuần Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 

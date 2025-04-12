@@ -5,9 +5,7 @@ description: Áp xe vú.
 
 Áp xe vú là tình trạng tụ mủ khu trú ở mô vú. Trong giai đoạn tiết sữa tỷ lệ viêm vú chiếm 1-10%. Áp xe vú chiếm 3-11% viêm vú và 0.1-0.3% phụ nữ nuôi con bằng sữa mẹ.
 
-## Phân loại - Nguyên nhân - Yếu tố nguy cơ
-
-### Phân loại
+## Phân loại
 
 Nguyên phát:
 
@@ -18,13 +16,13 @@ Thứ phát:
 
 Nhiễm trùng vùng da dưới vú sau viêm tuyến bã, xạ trị.
 
-### Nguyên nhân
+## Nguyên nhân
 
 Giai đoạn tiết sữa do Staphylococcus aureus (93%).
 
 Ngoài giai đoạn tiết sữa: Staphylococcus aureus (40%), Staphylococcus coagulase (40%),...
 
-### Yếu tố nguy cơ
+## Yếu tố nguy cơ
 
 Viêm vú hậu sản điều trị không hiệu quả.
 

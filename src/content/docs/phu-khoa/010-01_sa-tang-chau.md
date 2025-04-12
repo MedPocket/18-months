@@ -186,7 +186,7 @@ Phẫu thuật đặt mảnh ghép tổng hợp là phẫu thuật ưu thế tro
   - Bệnh lý rối loạn đông cầm máu, dùng kháng đông kéo dài, xơ gan, suy gan.
   - Hiện tại hoặc tiền sử huyết khối/thuyên tắc tĩnh mạch, động mạch.
   - Đái tháo đường chưa điều trị ổn, không kiểm soát tốt đường huyết.
-  - Tình trạng suy giảm miễn dịch, dùng corticosteroid kéo dài.
+  - Tình trạng suy giảm miễn dịch, dùng corticosteroids kéo dài.
   - Nghiện thuốc lá nặng.
   - Tình trạng teo, khiếm khuyết niêm mạc âm đạo, hệ thống cân cơ dây chằng quá nhiều.
   - Tổn thương tiền ung thư âm hộ, âm đạo, cổ tử cung chưa điều trị dứt.
@@ -226,16 +226,14 @@ Kỹ năng phẫu thuật viên không thể thực hiện các phẫu thuật p
 
 Sa tử cung ≥độ 2 kèm sa các tạng chậu khác nhưng tình trạng BN không cho phép phẫu thuật hoặc gây mê kéo dài >2h.
 
-## Phác đồ chẩn đoán và xử trí sa tạng chậu
+![Phác đồ chẩn đoán và xử trí sa tạng chậu Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
+_Phác đồ chẩn đoán và xử trí sa tạng chậu Bệnh viện Từ Dũ._
 
-![Phác đồ chẩn đoán và xử trí sa tạng chậu](../../../assets/phu-khoa/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
-_Phác đồ chẩn đoán và xử trí sa tạng chậu._
+![Phẫu thuật ngả bụng Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-bung.jpeg)
+_Phẫu thuật ngả bụng Bệnh viện Từ Dũ._
 
-![Phẫu thuật ngả bụng](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-bung.jpeg)
-_Phẫu thuật ngả bụng._
-
-![Phẫu thuật đường âm đạo](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-am-dao.png)
-_Phẫu thuật đường âm đạo._
+![Phẫu thuật đường âm đạo Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-am-dao.png)
+_Phẫu thuật đường âm đạo Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
