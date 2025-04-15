@@ -45,7 +45,7 @@ Khảo sát cận lâm sàng sơ cấp nhằm loại trừ xuất huyết tử c
   - Siêu âm bơm nước buồng tử cung (SIS) hay nội soi buồng tử cung thường được sử dụng khi nghi ngờ có bất thường của lòng tử cung như nhân xơ tử cung dưới niêm mạc hay polyp nội mạc tử cung.
   - Cộng hưởng từ (MRI bụng-chậu) có thể có ích trong bệnh tuyến cơ tử cung và các chẩn đoán phân biệt của nó, hay trong trường hợp có khối u tuyến yên tiết prolactin (MRI sọ não).
 
-![Sơ đồ tiếp cận AUB mạn tính](../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.jpeg)
+![Sơ đồ tiếp cận AUB mạn tính](../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
 _Sơ đồ tiếp cận AUB mạn tính theo Bệnh viện Từ Dũ._
 
 ![Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường](../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/tom-luoc-khao-sat-va-chan-doan-1-so-truong-hop.jpeg)
