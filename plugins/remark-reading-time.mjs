@@ -1,5 +1,5 @@
-import getReadingTime from "reading-time";
 import { toString as mdToString } from "mdast-util-to-string";
+import getReadingTime from "reading-time";
 
 export const remarkReadingTime =
   () =>

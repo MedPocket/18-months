@@ -1,14 +1,14 @@
 // @ts-check
 
-import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
+import { defineConfig } from "astro/config";
+import rehypeExternalLinks from "rehype-external-links";
 import rehypeKatex from "rehype-katex";
 import rehypeSlug from "rehype-slug";
 import remarkMath from "remark-math";
-import rehypeExternalLinks from "rehype-external-links";
-import { remarkReadingTime } from "./plugins/remark-reading-time";
-import starlightLinksValidator from "starlight-links-validator";
 import starlightImageZoom from "starlight-image-zoom";
+import starlightLinksValidator from "starlight-links-validator";
+import { remarkReadingTime } from "./plugins/remark-reading-time";
 
 // https://docs.netlify.com/configure-builds/environment-variables/#read-only-variables
 const site =
