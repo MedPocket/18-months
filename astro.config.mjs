@@ -40,11 +40,7 @@ export default defineConfig({
         src: "/src/assets/logo.png",
         replacesTitle: true,
       },
-      customCss: [
-        "./src/styles/globals.css",
-        "./src/styles/headings.css",
-        "katex/dist/katex.min.css",
-      ],
+      customCss: ["./src/styles/globals.css", "katex/dist/katex.min.css"],
       social: [
         {
           icon: "github",
