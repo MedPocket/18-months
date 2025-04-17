@@ -6,7 +6,6 @@ import rehypeKatex from "rehype-katex";
 import rehypeSlug from "rehype-slug";
 import remarkMath from "remark-math";
 import rehypeExternalLinks from "rehype-external-links";
-import { rehypeAutolink } from "./plugins/rehype-autolink";
 import { remarkReadingTime } from "./plugins/remark-reading-time";
 import starlightLinksValidator from "starlight-links-validator";
 import starlightImageZoom from "starlight-image-zoom";
@@ -24,7 +23,6 @@ export default defineConfig({
     remarkPlugins: [remarkMath, remarkReadingTime],
     rehypePlugins: [
       rehypeSlug,
-      ...rehypeAutolink(),
       rehypeKatex,
       [
         rehypeExternalLinks,
