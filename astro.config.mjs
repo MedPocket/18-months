@@ -8,7 +8,7 @@ import rehypeSlug from "rehype-slug";
 import remarkMath from "remark-math";
 import starlightImageZoom from "starlight-image-zoom";
 import starlightLinksValidator from "starlight-links-validator";
-import { remarkReadingTime } from "./plugins/remark-reading-time";
+import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
 // https://docs.netlify.com/configure-builds/environment-variables/#read-only-variables
 const site =

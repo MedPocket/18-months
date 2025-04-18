@@ -100,7 +100,7 @@ Mọi thai trứng, dù bán phần hay toàn phần cũng đều phải đượ
 
 Cần chuẩn bị:
 
-- Kháng sinh dự phòng nhi.
+- Kháng sinh dự phòng.
 - Tiền mê hoặc gây tê cho người bệnh.
 - Truyền tĩnh mạch Glucose 5% hoặc Lactated Ringer's hoặc Natri clorid 0.9%.
 - Misoprostol để mở cổ tử cung hoặc nong cổ tử cung bằng que nong số 8-12 nếu cổ tử cung đóng.
@@ -148,15 +148,18 @@ Tác dụng phụ gồm có:
   - Kháng sinh, vitamin.
   - Truyền dịch và bù điện giải.
 - Nhiễm độc da: rụng tóc, tăng dị ứng mẫn cảm.
-- Sử dụng kháng Histamin và Corticoid nếu có dị ứng:
+- Sử dụng kháng histamin và corticoid nếu có dị ứng:
   - Ngưng hóa trị nếu men gan >100IU/L.
   - Thuốc bảo vệ tế bào gan: Biphenyl dimethyl dicarrboxylat.
+
+![Phác đồ 1 nguyên tắc xử trí thai trứng Bệnh viện Từ Dũ](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-1-nguyen-tac-xu-tri-thai-trung.png)
+_Phác đồ 1 nguyên tắc xử trí thai trứng Bệnh viện Từ Dũ._
 
 #### Tránh thai
 
 Trong quá trình theo dõi hậu thai trứng, bệnh nhân bị buộc phải áp dụng phương pháp ngừa thai hiệu quả. Lý do là không để xuất hiện những triệu chứng lâm sàng, những thông tin về hCG và hình ảnh học của thai kỳ mới làm nhiễu loạn việc theo dõi thai trứng:
 
-1. Condom là lựa chọn tốt, do phương pháp này hoàn toàn không có ảnh hưởng trên diễn biến tự nhiên của hậu thai trứng hay các triệu chứng theo dõi như rong huyết, nhức đầu... Nhược điểm lớn nhất của condom là hiệu quả tránh thai không thật sự cao.
+1. Bao cao su (condom) là lựa chọn tốt, do phương pháp này hoàn toàn không có ảnh hưởng trên diễn biến tự nhiên của hậu thai trứng hay các triệu chứng theo dõi như rong huyết, nhức đầu... Nhược điểm lớn nhất của condom là hiệu quả tránh thai không thật sự cao.
 2. Dụng cụ tử cung tránh thai (Intra Uterine Devices) (IUD) là lựa chọn tốt vì có hiệu quả tránh thai rất cao. Tuy nhiên, các tác dụng phụ của IUD lại là những thông tin gây nhiễu. Quan trọng nhất là rong huyết. Rong huyết dưới IUD làm cho chẩn đoán phân biệt với các thể GTD không kèm tăng cao của hCG như trong trường hợp của bệnh nguyên bào nuôi tồn tại (Persistent Trophoblastic Disease) (PTD) hay PSTT.
 3. Thuốc nội tiết estrogen-progestogen phối hợp (Combined Oral Contraceptive pills - COCs) là lựa chọn tốt, do hiệu quả tránh thai rất cao. Trước đây, có các nghi ngờ rằng COCs hàm lượng thấp có thể ảnh hưởng đến nhịp điệu trở về bình thường của β-hCG, làm tăng nguy cơ phải thực hiện không cần thiết hóa trị liệu vì diễn biến bất thường của β-hCG. Hiện nay, các bằng chứng phủ nhận liên quan của COCs đối với sự diễn biến của β-hCG. COCs cũng không làm tăng tỉ lệ PSTT.
 4. Triệt sản.
@@ -204,7 +207,6 @@ Có ít nhất 1 trong những tiêu chuẩn sau (U nguyên bào nuôi nơi rau 
 - β-hCG tăng (> 10%) sau 3 lần đo liên tiếp trong ≥2 tuần (ngày 1, 7, 14).
 - Có giải phẫu bệnh là choriocarcinoma.
 - β-hCG tồn tại sau 6 tháng theo dõi.
-
 :::
 
 ### Phân loại
@@ -411,19 +413,14 @@ Thời gian theo dõi tối thiểu là 5 năm.
 
 Sau thời gian theo dõi, người bệnh được có thai trở lại, tùy trường hợp. Yêu cầu ít nhấ 2 năm sau điều trị khỏi mới có thai lại. Khi có dấu hiệu mang thai cần đi khám thai ngày, chú ý siêu âm và hCG để phòng bệnh tái phát.
 
-## Phác đồ điều trị Bệnh viện Từ Dũ
+![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi Bệnh viện Từ Dũ](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
+_Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi Bệnh viện Từ Dũ._
 
-![Phác đồ 1 nguyên tắc xử trí thai trứng](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/phac-do-1-nguyen-tac-xu-tri-thai-trung.jpeg)
-_Phác đồ 1 nguyên tắc xử trí thai trứng._
+![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi Bệnh viện Từ Dũ](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
+_Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi Bệnh viện Từ Dũ._
 
-![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.jpeg)
-_Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi._
-
-![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.jpeg)
-_Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi._
-
-![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-tai-vi-tri-rau-bam.png)
-_Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám._
+![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám Bệnh viện Từ Dũ](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
+_Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 

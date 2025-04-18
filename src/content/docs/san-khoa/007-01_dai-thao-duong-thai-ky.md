@@ -277,7 +277,7 @@ Nếu glucose huyết tương không ổn định cân nhắc chấm dứt thai 
 :::caution[Lưu ý]
 Trong đái tháo đường thai kỳ nguy cơ trẻ sơ sinh suy hô hấp cao hơn thai ký bình thường do trưởng thành phổi thai muộn hơn.
 
-Dùng Corticoides có thể làm tăng glucose huyết tương.
+Dùng corticoids có thể làm tăng glucose huyết tương.
 :::
 
 #### Điều trị insulin-có biến chứng cấp
