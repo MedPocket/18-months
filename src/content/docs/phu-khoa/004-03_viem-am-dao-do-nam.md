@@ -139,7 +139,7 @@ Bôi thuốc kháng nấm ngoài da (vùng âm hộ) 7 ngày Clotrimazole.
 Vệ sinh tại chỗ:
 
 - Povidon iodin 10%.
-- Natri hydrocarbonat 5g pha rửa âm hộ.
+- Natri hydrocarbonat (muối Nabica) 5g pha rửa âm hộ.
 
 :::caution[Lưu ý]
 Chỉ điều trị cho bạn tình khi có 1 trong các triệu chứng sau:
