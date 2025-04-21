@@ -86,9 +86,9 @@ Lậu và C. Trachomatis thường đồng nhiễm trên lâm sàng vì thế c�
 
 Điều trị sớm, đúng phác đồ, đủ liều để tránh biến chứng.
 
-Điều trị bạn tình ngừa tái nhiễm và lây cho người khác
+Điều trị bạn tình ngừa tái nhiễm và lây cho người khác.
 
-Tránh quan hệ tình dục trong 7 ngày sau khi điều trị để tránh lây nhiễm cho bạn tình
+Tránh quan hệ tình dục trong 7 ngày sau khi điều trị để tránh lây nhiễm cho bạn tình.
 
 Còn triệu chứng sau hoàn thành phác đồ cần tái khám.
 

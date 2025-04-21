@@ -105,7 +105,7 @@ Kiểm tra từ đáy (chú ý 2 góc) đến thân (mặt trước, sau và 2 t
 - Tử cung co hồi tốt không: tử cung siết chặt bàn tay hay rỗng, mềm nhão.
 - Còn sót rau trong buồng tử cung: lòng tử cung sạch, thấy thành tử cung đều nhám, nếu thấy thành có chỗ gồ lên cần nghĩ đến sót rau. Cần chú ý 2 góc vì dễ sót rau khi tử cung siết chặt.
 - Sự toàn vẹn của tử cung: xem tử cung có dễ bị vỡ hay không? Cần chú ý đến đoạn dưới tử cung ở vị tri 3h và 9h, nếu có vết mổ cũ cần lần theo vết mổ cũ. Khi kiểm tra đoạn dưới tử cung, tay đặt trên thành bụng đẩy đáy tử cung về phía rốn để đoạn dưới căng dễ kiểm tra đáy, tay trong tử cung miết dọc từ trên xuống dưới và từ trái qua phải để kiểm tra sự toàn vẹn của đoạn dưới.
-- Kiểm tra xem tử cung có dị dạng không: tử cung đôi, tử cung 2 sừng,... và những bất thường khác như u xơ tử cung.
+- Kiểm tra xem tử cung có dị dạng không: tử cung đôi, tử cung 2 sừng... và những bất thường khác như u xơ tử cung.
 - Khi làm xong mới rút tay ra ngoài, tránh rút tay ra và cho vào nhiều lần vì nguy cơ nhiễm khuẩn và gây đau.
 
 Sau thủ thuật:

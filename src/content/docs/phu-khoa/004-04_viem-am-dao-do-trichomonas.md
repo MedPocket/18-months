@@ -1,6 +1,6 @@
 ---
-title: Viêm âm đạo do Trichomonad
-description: Viêm âm đạo do Trichomonad.
+title: Viêm âm đạo do Trichomonas
+description: Viêm âm đạo do Trichomonas.
 ---
 
 Bệnh lây truyền qua đường tình dục do trùng roi Trichomoniasis vaginalis.
@@ -11,7 +11,7 @@ Trùng roi Trichomoniasis vaginalis.
 
 ## Chẩn đoán
 
-:::note[Tiêu chuẩn chẩn đoán viêm âm đạo do Trichomonad]
+:::note[Tiêu chuẩn chẩn đoán viêm âm đạo do Trichomonas]
 Lâm sàng
 
 - Huyết trắng nhiều, màu vàng hay xanh loãng, có bọt, có mùi tanh.

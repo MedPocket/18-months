@@ -19,11 +19,11 @@ Hiện tượng tiết dịch giống sữa, tự phát, thường là 2 bên v�
 
 ### Nguyên nhân
 
-U tuyến yên (phù gai thị, rối loạn thị giác,...).
+U tuyến yên (phù gai thị, rối loạn thị giác...).
 
-Chấn thương thành ngực, tổn thương tủy sống, xơ gan, nhược giáp, suy thận,...
+Chấn thương thành ngực, tổn thương tủy sống, xơ gan, nhược giáp, suy thận...
 
-BN đang sử dụng: estrogen liều cao, thuốc chống trầm cảm 3 vòng và cimetidine,...
+BN đang sử dụng: estrogen liều cao, thuốc chống trầm cảm 3 vòng và cimetidine...
 
 ### Cận lâm sàng
 

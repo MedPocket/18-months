@@ -49,10 +49,19 @@ Vùng âm hộ chứa các nang lông, tuyến bã, tuyến mồ hôi, được 
 
 Bình thường âm đạo có tiết dịch. Dịch tiết âm đạo có nguồn gốc từ nhiều nơi. Lượng lớn dịch là chất nhầy từ cổ tử cung; lượng ít hơn từ dịch nội mạc tử cung; 1 phần nhỏ từ các tuyến phụ như tuyến Skène và các tuyến Bartholin. Đó là các dịch tiết bình thường của âm đạo. Các tế bào vẩy bị tróc ra từ thành âm đạo tạo nên từ màu trắng đến không màu cho dịch tiết. Các thành phần từ dịch tiết âm đạo cung cấp môi trường bôi trơn sinh lý, ngăn ngừa triệu chứng khô và sự kích thích tại chỗ. Số lượng và tính chất bình thường của dịch tiết có thể thay đổi dưới ảnh hưởng của các yếu tố như nội tiết tố, tình trạng dịch, thai kỳ, suy giảm miễn dịch, thụt rửa hay hoạt động tình dục. Phụ nữ bình thường sản xuất 1.5g huyết trắng sinh lý mỗi ngày.
 
-## Sơ đồ xử trí tiết dịch âm đạo bất thường
+## Sơ đồ xử trí
 
 ![Sơ đồ xử trí tiết dịch âm đạo bất thường theo Bệnh viện Từ Dũ](../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
 _Sơ đồ xử trí tiết dịch âm đạo bất thường theo Bệnh viện Từ Dũ._
+
+Các biệt dược được sử dụng trên thị trường:
+
+- Clomaz Forte (Clotrimazole 500mg): Nhạy cảm với nấm Candida Albicans, các nấm da, men, mốc... Ngoài ra, clotrimazole còn tác động đến Trichomonas, Vaginalis, các vi khuẩn gram dương.
+- Neo Penotran (Metronidazole 500mg + Miconazole nitrate 100mg): Thường được sử dụng để điều trị nhiễm trùng âm đạo do vi khuẩn kị khí và Gardnerella vaginalis, Trichomonas vaginalis và nhiễm khuẩn âm đạo hỗn hợp, nhiễm nấm.
+- Sadetabs (Neomycin sulphate 83mg + Clotrimazole 100mg + Metronidazole 500mg): Thích hợp với điều trị viêm âm đạo do tạp khuẩn và nấm nhẹ.
+- Timbov (Clotrimazole 500mg): Điều trị các bệnh nấm ở âm hộ, âm đạo, cũng như bệnh nấm Candida. Nhiễm khuẩn hỗn hợp tại âm đạo, viêm âm đạo kèm theo huyết trắng, ngứa do nhiễm khuẩn và nấm, viêm âm đạo do Trichomonas, viêm âm đạo do nguyên nhân hỗn hợp.
+
+Chi tiết điều trị cụ thể đọc thêm tại [Viêm âm đạo nhiễm khuẩn](../004-02_viem-am-dao-nhiem-khuan), [Viêm âm đạo do nấm](../004-03_viem-am-dao-do-nam), [Viêm âm đạo do Trichomonads](../004-04_viem-am-dao-do-trichomonas).
 
 ## Nguồn tham khảo
 

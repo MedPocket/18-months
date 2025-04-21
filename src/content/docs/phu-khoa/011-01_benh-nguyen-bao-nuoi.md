@@ -88,7 +88,7 @@ Chỉ có giải phẫu bệnh mới cho phép xác nhận chẩn đoán thai tr
 
 Do 5% thai trứng có thể diễn biến thành choriocarcinoma, nên việc có bằng chứng giải phẫu bệnh là bắt buộc. Do choriocarcinoma có thể phát triển từ thai thường ngưng phát triển, nên đối với các trường hợp thai nghén thất bại sớm, việc khảo sát giải phẫu bệnh là cần thiết.
 
-Khi nghĩ đến thai trứng cần có đầy đủ các xét nghiệm như tổng phần tích tế bào máu, nhóm máu, tổng phân tích nước tiểu, chức năng gan (AST, ALT), thận (ure, creatinine), tuyến giáp (FT3, FT4, TSH), điện tâm đồ, điện giải đồ, X-quang ngực thẳng,... Cùng với đó là khám chuyên khoa nội tiết, tim mạch,... để chẩn đoán và phục vụ điều trị.
+Khi nghĩ đến thai trứng cần có đầy đủ các xét nghiệm như tổng phần tích tế bào máu, nhóm máu, tổng phân tích nước tiểu, chức năng gan (AST, ALT), thận (ure, creatinine), tuyến giáp (FT3, FT4, TSH), điện tâm đồ, điện giải đồ, X-quang ngực thẳng... Cùng với đó là khám chuyên khoa nội tiết, tim mạch... để chẩn đoán và phục vụ điều trị.
 
 ### Điều trị
 
@@ -397,7 +397,7 @@ Khi có di căn xa như não, gan và di căn sâu vòng chậu.
 
 ### Theo dõi
 
-Tương tự như thai trứng, việc theo dõi thai trứng xâm lấn và choriocarcinoma được dựa vào diễn biến của β-hCG và các triệu chứng lâm sàng cận lâm sàng của xâm lấn và di căn như ra huyết âm đạo, kích thước tử cung, nang hoàng tuyến,...
+Tương tự như thai trứng, việc theo dõi thai trứng xâm lấn và choriocarcinoma được dựa vào diễn biến của β-hCG và các triệu chứng lâm sàng cận lâm sàng của xâm lấn và di căn như ra huyết âm đạo, kích thước tử cung, nang hoàng tuyến...
 
 Trong chiến lược theo dõi này, theo dõi diễn biến của β-hCG được xem như phương tiện tầm soát và theo dõi chủ lực, còn lâm sàng và các phương tiện khác sẽ được thực hiện nếu có diễn biến bất thường của β-hCG, ngoại trừ khi đã có triệu chứng lâm sàng gợi ý.
 
@@ -407,7 +407,7 @@ _Di căn phổi.<br>Di căn phổi được phát hiện bằng X-quang với h�
 ![Di căn não](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/choriocarcinoma-di-can-nao.png)
 _Di căn não.<br>Di căn não được phát hiện bằng nhức đầu, xuất huyết não hay bằng MRI. Bệnh phẩm tử thiết cho thấy nhân di căn gây xuất huyết ở bán cầu trái._
 
-Xét nghiệm huyết đồ, chức năng gan, thận, điện giải,... phát hiện nhiễm độc hóa chất.
+Xét nghiệm huyết đồ, chức năng gan, thận, điện giải... phát hiện nhiễm độc hóa chất.
 
 Thời gian theo dõi tối thiểu là 5 năm.
 

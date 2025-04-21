@@ -30,7 +30,7 @@ Khoảng cách giữa 2 lần sinh con ≥5 năm.
 
 Giai đoạn tiền mãn kinh có nguy cơ ư xơ cao hơn 10 lần mãn kinh.
 
-Rối loạn chuyển hóa như béo phì, kháng insulin, hội chứng buồng trứng đa nang, tăng lipid máu, tăng huyết áp,...
+Rối loạn chuyển hóa như béo phì, kháng insulin, hội chứng buồng trứng đa nang, tăng lipid máu, tăng huyết áp...
 
 ### Yếu tố bảo vệ
 
@@ -358,7 +358,7 @@ Chổng chỉ định khi có thai, xuất huyết âm đạo bất thường ch
 
 UPA cũng có thể gây ra các biến đổi trên nội mạc tử cung làm cho các nhà giải phẫu bệnh học nhầm lẫn với tăng sinh không điển hình tuyến nội mạc tử cung. Các biến đổi này có thể hồi phục hoàn toàn sau liệu trình.
 
-So với GnRHa, liệu pháp với UPA ít tác dụng phụ hơn như đau đầu, căng ngực, đau bụng, dày nội mạc tử cung, bốc hỏa,... và mang lại hiệu quả kéo dài hơn.
+So với GnRHa, liệu pháp với UPA ít tác dụng phụ hơn như đau đầu, căng ngực, đau bụng, dày nội mạc tử cung, bốc hỏa... và mang lại hiệu quả kéo dài hơn.
 
 ![So sánh UPA và GnRHa](../../../assets/phu-khoa/u-xo-tu-cung/so-sanh-upa-va-gnrha.png)
 
@@ -410,7 +410,7 @@ Trong các SERM, raloxifene là phân tử được khảo sát nhiều nhất d
 
 U xơ tử cung to, gây cảm giác khó chịu cho người bệnh.
 
-U xơ tử cung gây biến chứng nặng như xuất huyết tử cung bất thường nặng, sảy thai liên tiếp,...
+U xơ tử cung gây biến chứng nặng như xuất huyết tử cung bất thường nặng, sảy thai liên tiếp...
 
 Điều trị nội khoa thất bại (ít gặp).
 
@@ -462,7 +462,7 @@ Phương pháp:
 Thuốc cầm máu trong phẫu thuật:
 
 - Tranexamic acid với liều 1g tiêm/truyền tĩnh mạch làm giảm lượng máu mất trong phẫu thuật.
-- Xem xét sử dụng Vasopressin, Misoprostol,...
+- Xem xét sử dụng Vasopressin, Misoprostol...
 
 #### Thủ thuật xâm lấn tối thiểu
 

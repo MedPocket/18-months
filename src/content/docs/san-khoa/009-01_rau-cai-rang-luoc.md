@@ -81,7 +81,7 @@ Cần chuẩn bị kỹ trước mổ:
 - Tùy vòa tình trạng người bệnh xác định thời điểm nhập viện (tối thiểu 1 tuần trước thời điểm chấm dứt thai kỳ).
 - Điều trị tại cơ sở y tế đầy đủ phương tiện hồi sức mẹ và sơ sinh, ngân hàng máu.
 - Phẫu thuật viên phải có đủ kinh nghiệm.
-- Cần phối hợp nhiều chuyên khoa như ngoại khoa, gây mê hồi sức, huyết học, chẩn đoán hình ảnh, sản khoa,...
+- Cần phối hợp nhiều chuyên khoa như ngoại khoa, gây mê hồi sức, huyết học, chẩn đoán hình ảnh, sản khoa...
 - Chuẩn bị đủ máu và chế phẩm tại thời điểm phẫu thuật.
 - Đặt thông tiểu với ống Foley niệu đạo số 18-20, đặt thông niệu quản 2 bên trước mổ đối với rau cài răng lược độ 3.
 

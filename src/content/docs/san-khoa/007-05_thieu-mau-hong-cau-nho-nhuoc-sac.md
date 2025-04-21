@@ -84,7 +84,7 @@ Gồm 3 thể: nặng, trung gian và ẩn.
 Thể nặng do đồng hợp tử 1 đột biến hay dị hợp tử kép 2 đột biến $β^0$:
 
 - Bệnh biểu hiện sớm khi trẻ mới sinh hoặc vài tháng tuổi.
-- Đặc điểm lâm sàng của thể nặng là thiếu máu nặng, vàng da, gan lách to,...
+- Đặc điểm lâm sàng của thể nặng là thiếu máu nặng, vàng da, gan lách to...
 - Đứa trẻ cần được truyền máu thải sắt để duy trì sự sống. Đặc điểm huyết học của thể nặng là số lượng hồng cầu giảm, nồng độ Hb <70g/l, MCV, MCH giảm, ferritin bình thường hoặc tăng. Điện di Hb: HbF và HbA2 tăng.
 - Đứa trẻ cần được truyền máu thải sắt để duy trì sự sống. Đặc điểm huyết học của thể nặng là số lượng hồng cầu giảm, nồng độ Hb <70g/l, MCV, MCH giảm, ferritin bình thường hoặc tăng. Điện di Hb: HbF và HbA2 tăng.
 

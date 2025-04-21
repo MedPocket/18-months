@@ -107,7 +107,7 @@ Biểu hiện lâm sàng của adenomyosis là các biểu hiện của viêm, c
 
 Thống kinh là than phiền thường thấy nhất của adenomyosis. Lúc đầu là đau do viêm, sau đó là viêm thần kinh sinh mạch và cuối cùng là đau do nhạy cảm trung ương đặc điểm:
 
-- Đau thường bắt đầu ngay từ trước khi hành kinh, và kéo dài trong suốt thời gian hành kinh và không chấm dứt hoàn toàn sau khi sạch kinh. Có thể đau không có tính chu kỳ, đau sau giao hợp. Đau khu trú theo kỳ kinh tại sẹo mổ lấy thai, vùng tầng sinh môn,...
+- Đau thường bắt đầu ngay từ trước khi hành kinh, và kéo dài trong suốt thời gian hành kinh và không chấm dứt hoàn toàn sau khi sạch kinh. Có thể đau không có tính chu kỳ, đau sau giao hợp. Đau khu trú theo kỳ kinh tại sẹo mổ lấy thai, vùng tầng sinh môn...
 - Đau bụng kéo dài, mức độ nặng, kèm theo tử cung to, cứng chắc, di động kém, chạm đau gợi ý tình trạng thống kinh do adenomyosis, chứ không phải trường hợp đau bụng kinh thông thường.
 - Thống kinh trong adenomyosis khởi đầu bằng viêm, thông qua trung gian của IL-1β, của COX-2 và của PGE2.
 - Sau đó, thống kinh có xu hướng tăng nặng dần do sự hiện diện của viêm thần kinh-sinh mạch hệ quả của cường estrogen, chuyển dạng các macrophage, tân tạo mạch và sinh thần kinh hướng về tổn thương.
@@ -148,13 +148,13 @@ Adenomyosis có ảnh hưởng trên khả năng mang thai cũng kết cục c�
 
 #### Siêu âm đường âm đạo
 
-Lạc nội mạc buồng trứng phản âm kém, dạng kính mờ, có thể 1 hay nhiều thùy, không có chồi nhú,...
+Lạc nội mạc buồng trứng phản âm kém, dạng kính mờ, có thể 1 hay nhiều thùy, không có chồi nhú...
 
 Lạc nội mạc trong cơ tử cung toàn bộ cơ tử cung phản âm kém, phản âm sọc trong bệnh tuyến cơ tử cung (thể lan tỏa) hoặc cơ tử cung có phần âm kém khu trú giới hạn không rõ (thể khu trú).
 
 #### Cộng hưởng từ
 
-Dùng trong trường hợp cần phân biệt tuyến cơ tử cung và u xơ tử cung, đánh giá sang thương lạc nội mạc tử cung sâu, đánh giá tính chất, mức độ xâm lấn cơ quan xung quanh,...
+Dùng trong trường hợp cần phân biệt tuyến cơ tử cung và u xơ tử cung, đánh giá sang thương lạc nội mạc tử cung sâu, đánh giá tính chất, mức độ xâm lấn cơ quan xung quanh...
 
 #### Dấu ấn sinh học
 
@@ -206,7 +206,7 @@ Trong thời kỳ này, thống kinh có thể được kiểm soát bằng các
 
 Chấp nhận việc dùng NSAIDs như là empirical treatment (điều trị theo kinh nghiệm mà không cần bằng chứng).
 
-Thuốc có chống chỉ định cho người có tiền sử loét dạ dày tá tràng, bệnh lý tim mạch,...
+Thuốc có chống chỉ định cho người có tiền sử loét dạ dày tá tràng, bệnh lý tim mạch...
 
 #### COCs
 
@@ -228,7 +228,7 @@ Khi đau đã diễn tiến đến đau do viêm thần kinh-sinh mạch thì c�
 
 Tình trạng cường estrogen tại nội mạc tử cung chính vị và tại nội mạc tử cung lạc vị có thể được khắc phục bằng các chất ức chế hoạt động của men aromatase P450 (AIs).
 
-Việc dùng AIs sẽ ảnh hưởng lên cả hoạt động sản xuất estrogen của tế bào hạt của noãn nang, vì thế tạo nên tình trạng thiếu hụt toàn thân của estrogen... Hệ quả là việc dùng AIs kéo dài sẽ tạo nên các tác dụng phụ không mong muốn liên quan đến thiếu hụt estrogen, bao gồm giảm mật độ xương, các bệnh lý mạch máu,...
+Việc dùng AIs sẽ ảnh hưởng lên cả hoạt động sản xuất estrogen của tế bào hạt của noãn nang, vì thế tạo nên tình trạng thiếu hụt toàn thân của estrogen... Hệ quả là việc dùng AIs kéo dài sẽ tạo nên các tác dụng phụ không mong muốn liên quan đến thiếu hụt estrogen, bao gồm giảm mật độ xương, các bệnh lý mạch máu...
 
 Chỉ định của AIs thường là các trường hợp đau tái phát, hay thất bại với các điều trị giảm đau adenomyosis chuyên biệt khác, hay dùng phối hợp với các điều trị khác.
 
@@ -275,7 +275,7 @@ Nếu đau đã đi đến giai đoạn nhạy cảm trung ương, các điều 
 
 | STT | Loại thuốc                                                                    | Liều dùng                                                                                                                                                                                                    | Hiệu quả                                                                                                                                                                                                                                                  | Tác dụng phụ/Chống chỉ định                                                                                            |
 | --- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 1   | Kháng viêm không steroids (NSAIDs)                                            | Ibuprofen 400mg (u)/mỗi 4-6h.<br>Naproxen 250mg (u)/mỗi 4-6h.<br>Diclofenac, liều khởi đầu 75-100mg, liều duy trì 50mg (u)/3 lần mỗi ngày.<br>Meloxicam 7.5mg (u)/mỗi ngày.<br>Piroxicam 20mg (u)/mỗi ngày. | Ức chế tổng hợp prostaglandin, kháng viêm.<br>Giảm thống kinh nguyên phát.                                                                                                                                                                                | Chống chỉ định tiền sử loét dạ dày, tá tràng, bệnh thận, bệnh co thắt phế quản, đột quỵ, thiếu máu cơ tim, suy tim,... |
+| 1   | Kháng viêm không steroids (NSAIDs)                                            | Ibuprofen 400mg (u)/mỗi 4-6h.<br>Naproxen 250mg (u)/mỗi 4-6h.<br>Diclofenac, liều khởi đầu 75-100mg, liều duy trì 50mg (u)/3 lần mỗi ngày.<br>Meloxicam 7.5mg (u)/mỗi ngày.<br>Piroxicam 20mg (u)/mỗi ngày. | Ức chế tổng hợp prostaglandin, kháng viêm.<br>Giảm thống kinh nguyên phát.                                                                                                                                                                                | Chống chỉ định tiền sử loét dạ dày, tá tràng, bệnh thận, bệnh co thắt phế quản, đột quỵ, thiếu máu cơ tim, suy tim... |
 | 2   | Nội tiết tránh thai: thuốc viên tránh thai kết hợp; hoặc miếng dán tránh thai | Thuốc tránh thai kết hợp uống theo chu kỳ hoặc liên tục 1 viên/ngày.<br> Miếng dán tránh thai (norelgestromin/EE): 1 miếng/tuần.                                                                             | Ức chế chu kỳ kinh nguyệt.<br>Giảm thống kinh, giảm giao hợp đau, giảm đau vùng chậu mạn tính và giúp ngừa thai.<br>Ít có hiệu quả đau trong lạc nội mạc tử cung ở phúc mạc, lạc nội mạc tử cung sâu.<br>Chú ý không dùng quá 3 tháng nếu không giảm đau. | Buồn nôn, nôn, căng ngực, rong huyết, tăng cân, mụn, mệt mỏi, tăng huyết áp.                                           |
 | 3   | Progestins                                                                    | Dienogest 2mg (u)/ngày.<br>DMPA 150mg (TB) mỗi 13 tuần hoặc 104mg (TDD)/mỗi 12-14 tuần.<br>LNG-IUS: 1 lần/mỗi 5 năm.<br>Norethindrone 5-20mg (u)/mỗi ngày.                                                  | Làm teo lớp màng rụng của mô nội mạc tử cung.<br>Giảm đau trong đau vùng chậu, thống kinh, giao hợp đau...<br>LNG-IUS giảm cường kinh, giảm đau, chỉ định trong bệnh tuyến cơ tử cung có triệu chứng.                                                     |                                                                                                                        |
 
@@ -331,7 +331,7 @@ Không chỉ định điều trị nội tiết nhằm mục đích hỗ trợ p
 
 Điều trị kéo dài trên 6 tháng nhằm ngăn ngừa tái phát bệnh hay tái phát đau.
 
-Có thể lựa chọn điều trị dụng cụ tử cung có nội tiết levonorgestrel, dienogest, thuốc viên tránh thai kết hợp,... ít nhất 18-24 tháng sau phẫu thuật.
+Có thể lựa chọn điều trị dụng cụ tử cung có nội tiết levonorgestrel, dienogest, thuốc viên tránh thai kết hợp... ít nhất 18-24 tháng sau phẫu thuật.
 
 #### Phẫu thuật trong lạc nội mạc tử cung gây đau và hiếm muộn-vô sinh
 

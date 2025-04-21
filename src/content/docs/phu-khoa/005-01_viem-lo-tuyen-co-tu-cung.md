@@ -46,7 +46,7 @@ Vùng ranh giới nằm giữa biểu mô lát tầng của cổ ngoài và bi�
 ![Ranh giới lát trụ](../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/ranh-gioi-lat-tru.png)
 _Ranh giới lát trụ._
 
-Vị trí của ranh giới lát trụ so với lỗ ngoài cổ tử cung thay đổi theo suốt cuộc sống người phụ nữ, phụ thuộc vào các yếu tố như tuổi, số lần sinh con, tình trạng hormone sinh lý liên quan đến hoạt động chu kỳ buồng trứng hay mang thai, hay ngoại lai (dùng thuốc ngừa thai uống),...
+Vị trí của ranh giới lát trụ so với lỗ ngoài cổ tử cung thay đổi theo suốt cuộc sống người phụ nữ, phụ thuộc vào các yếu tố như tuổi, số lần sinh con, tình trạng hormone sinh lý liên quan đến hoạt động chu kỳ buồng trứng hay mang thai, hay ngoại lai (dùng thuốc ngừa thai uống)...
 
 SCJ mà ta quan sát thấy ở các bé gái mới sinh, sau khi dậy thì, giai đoạn đầu tuổi hoạt động sinh sản, tuổi quanh mãn kinh, gọi là SCJ nguyên thủy (original SCJ). SCJ nguyên thủy là đường nối giữa biểu mô trụ và biểu mô lát nguyên thủy xuất hiện từ giai đoạn phôi thai trong tử cung. SCJ nguyên thủy nằm sát lỗ ngoài cổ tử cung.
 

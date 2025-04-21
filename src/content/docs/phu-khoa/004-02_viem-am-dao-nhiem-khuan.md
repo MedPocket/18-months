@@ -56,7 +56,7 @@ Tổng của chúng gọi là điểm Nugent, có thể là từ 0 đến 10. Đ
 ![Nugent](../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/bang-diem-nugent.png)
 _Tiêu chuẩn chẩn đoán loạn khuẩn âm đạo theo điểm Nugent có Se là 89% và Sp là 83% nếu so với tiêu chuẩn Amsel._
 
-### Phác đồ Bệnh viện Từ Dũ
+### Bệnh viện Từ Dũ
 
 Có 2 trong 3 tiêu chuẩn:
 
@@ -89,7 +89,8 @@ Dùng đường uống hay đặt âm đạo:
 
 Vệ sinh tại chỗ:
 
-- Povidon iodin 10%.
+- Muối Nabica pha với nước để rửa vùng kín (ít bị khô rát âm đạo).
+- Povidon iodin 10% (thường tạo cảm giác khô âm đạo).
 - Acid lactic + lactoserum atomist.
 
 :::caution[Lưu ý]

@@ -20,7 +20,7 @@ Nhiễm trùng vùng da dưới vú sau viêm tuyến bã, xạ trị.
 
 Giai đoạn tiết sữa do Staphylococcus aureus (93%).
 
-Ngoài giai đoạn tiết sữa: Staphylococcus aureus (40%), Staphylococcus coagulase (40%),...
+Ngoài giai đoạn tiết sữa: Staphylococcus aureus (40%), Staphylococcus coagulase (40%)...
 
 ## Yếu tố nguy cơ
 
