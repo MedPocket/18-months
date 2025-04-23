@@ -40,22 +40,12 @@ export default defineConfig({
         src: "/src/assets/logo.png",
         replacesTitle: true,
       },
-      customCss: ["./src/styles/globals.css", "katex/dist/katex.min.css"],
-      social: [
-        {
-          icon: "github",
-          label: "GitHub",
-          href: "https://github.com/MedPocket/18-months",
-        },
-      ],
-      editLink: {
-        baseUrl: "https://github.com/MedPocket/18-months/tree/main",
-      },
       components: {
         Head: "./src/components/Head.astro",
         Footer: "./src/components/Footer.astro",
         PageTitle: "./src/components/PageTitle.astro",
       },
+      customCss: ["./src/styles/globals.css", "katex/dist/katex.min.css"],
       sidebar: [
         {
           label: "Trang chủ",
@@ -76,6 +66,16 @@ export default defineConfig({
           },
         },
       ],
+      social: [
+        {
+          icon: "github",
+          label: "GitHub",
+          href: "https://github.com/MedPocket/18-months",
+        },
+      ],
+      editLink: {
+        baseUrl: "https://github.com/MedPocket/18-months/tree/main",
+      },
       pagination: true,
       lastUpdated: true,
       plugins: [starlightImageZoom(), starlightLinksValidator()],

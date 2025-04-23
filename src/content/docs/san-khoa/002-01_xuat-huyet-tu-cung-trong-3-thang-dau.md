@@ -70,7 +70,7 @@ Khảo sát β-hCG tĩnh và động học β-hCG là các khảo sát thứ c�
 
 ## Lược đồ tiếp cận với siêu âm
 
-![Lược đồ tiếp cận xuất huyết 3 tháng đầu với siêu âm](../../../assets/san-khoa/xuat-huyet-3-thang-dau/luoc-do-xuat-huyet-3-thang-dau-theo-sieu-am.png)
+![Lược đồ tiếp cận xuất huyết 3 tháng đầu với siêu âm](../../../assets/san-khoa/xuat-huyet-tu-cung-trong-3-thang-dau/luoc-do-xuat-huyet-3-thang-dau-theo-sieu-am.png)
 
 ## Nguồn tham khảo
 
