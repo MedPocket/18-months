@@ -121,7 +121,54 @@ export default defineConfig({
             label: "Phụ Khoa",
             link: "/phu-khoa/",
             icon: "seti:csv",
-            items: ["phu-khoa"],
+            items: [
+              "phu-khoa",
+              {
+                label: "Giải phẫu và sinh lý",
+                autogenerate: {
+                  directory: "phu-khoa/giai-phau-sinh-ly",
+                },
+              },
+              {
+                label: "Xuất huyết tử cung",
+                autogenerate: {
+                  directory: "phu-khoa/xuat-huyet-tu-cung",
+                },
+              },
+              "phu-khoa/vo-kinh",
+              "phu-khoa/chua-ngoai-tu-cung",
+              "phu-khoa/chua-vet-mo-lay-thai",
+              {
+                label: "Tiết dịch âm đạo bất thường",
+                autogenerate: {
+                  directory: "phu-khoa/tiet-dich-am-dao-bat-thuong",
+                },
+              },
+              {
+                label: "Bất thường cổ tử cung",
+                autogenerate: {
+                  directory: "phu-khoa/bat-thuong-co-tu-cung",
+                },
+              },
+              {
+                label: "Bất thường buồng trứng",
+                autogenerate: {
+                  directory: "phu-khoa/bat-thuong-buong-trung",
+                },
+              },
+              "phu-khoa/u-xo-tu-cung",
+              "phu-khoa/lac-noi-mac-tu-cung",
+              {
+                label: "Bất thường tuyến vú",
+                autogenerate: {
+                  directory: "phu-khoa/bat-thuong-tuyen-vu",
+                },
+              },
+              "phu-khoa/cac-phuong-phap-tranh-thai",
+              "phu-khoa/sa-tang-chau",
+              "phu-khoa/benh-nguyen-bao-nuoi",
+              "phu-khoa/lanh-thuong",
+            ],
           },
           {
             label: "Hỗ trợ sinh sản",
