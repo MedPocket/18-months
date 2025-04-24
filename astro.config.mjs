@@ -6,6 +6,7 @@ import rehypeExternalLinks from "rehype-external-links";
 import rehypeKatex from "rehype-katex";
 import rehypeSlug from "rehype-slug";
 import remarkMath from "remark-math";
+import starlightSidebarTopics from "starlight-sidebar-topics";
 import starlightImageZoom from "starlight-image-zoom";
 import starlightLinksValidator from "starlight-links-validator";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
@@ -46,26 +47,6 @@ export default defineConfig({
         PageTitle: "./src/components/PageTitle.astro",
       },
       customCss: ["./src/styles/globals.css", "katex/dist/katex.min.css"],
-      sidebar: [
-        {
-          label: "Trang chủ",
-          link: "/",
-        },
-        {
-          label: "Sản Khoa",
-          collapsed: true,
-          autogenerate: {
-            directory: "san-khoa",
-          },
-        },
-        {
-          label: "Phụ Khoa",
-          collapsed: true,
-          autogenerate: {
-            directory: "phu-khoa",
-          },
-        },
-      ],
       social: [
         {
           icon: "github",
@@ -78,7 +59,29 @@ export default defineConfig({
       },
       pagination: true,
       lastUpdated: true,
-      plugins: [starlightImageZoom(), starlightLinksValidator()],
+      plugins: [
+        starlightSidebarTopics([
+          {
+            label: "Trang Chủ",
+            link: "/",
+            icon: "open-book",
+          },
+          {
+            label: "Sản Khoa",
+            link: "/san-khoa/",
+            icon: "seti:notebook",
+            items: ["san-khoa", "san-khoa/dac-diem-rau-thai"],
+          },
+          {
+            label: "Phụ Khoa",
+            link: "/phu-khoa/",
+            icon: "seti:csv",
+            items: ["phu-khoa"],
+          },
+        ]),
+        starlightImageZoom(),
+        starlightLinksValidator(),
+      ],
     }),
   ],
 });

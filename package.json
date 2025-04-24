@@ -1,7 +1,7 @@
 {
   "name": "@medpocket/18-months",
   "version": "0.1.0",
-  "description": "Getting started with 18 months.",
+  "description": "Bắt đầu một hành trình",
   "author": "MedPocket",
   "scripts": {
     "build": "astro build",
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.34.0",
-    "astro": "^5.7.4",
+    "astro": "^5.7.5",
     "astro-og-canvas": "^0.7.0",
     "canvaskit-wasm": "^0.40.0",
     "hast-util-to-string": "^3.0.1",
@@ -29,7 +29,8 @@
     "remark-math": "^6.0.0",
     "sharp": "^0.34.1",
     "starlight-image-zoom": "^0.12.0",
-    "starlight-links-validator": "^0.16.0"
+    "starlight-links-validator": "^0.16.0",
+    "starlight-sidebar-topics": "^0.6.0"
   },
   "devDependencies": {
     "@area44/biome-config": "^0.4.1",
@@ -38,5 +39,5 @@
     "@types/html-escaper": "^3.0.4",
     "typescript": "^5.8.3"
   },
-  "packageManager": "pnpm@10.8.1"
+  "packageManager": "pnpm@10.9.0"
 }
