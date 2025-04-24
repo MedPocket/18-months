@@ -6,9 +6,9 @@ import rehypeExternalLinks from "rehype-external-links";
 import rehypeKatex from "rehype-katex";
 import rehypeSlug from "rehype-slug";
 import remarkMath from "remark-math";
-import starlightSidebarTopics from "starlight-sidebar-topics";
 import starlightImageZoom from "starlight-image-zoom";
 import starlightLinksValidator from "starlight-links-validator";
+import starlightSidebarTopics from "starlight-sidebar-topics";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
 // https://docs.netlify.com/configure-builds/environment-variables/#read-only-variables
