@@ -61,7 +61,7 @@ Các biệt dược được sử dụng trên thị trường:
 - Sadetabs (Neomycin sulphate 83mg + Clotrimazole 100mg + Metronidazole 500mg): Thích hợp với điều trị viêm âm đạo do tạp khuẩn và nấm nhẹ.
 - Timbov (Clotrimazole 500mg): Điều trị các bệnh nấm ở âm hộ, âm đạo, cũng như bệnh nấm Candida. Nhiễm khuẩn hỗn hợp tại âm đạo, viêm âm đạo kèm theo huyết trắng, ngứa do nhiễm khuẩn và nấm, viêm âm đạo do Trichomonas, viêm âm đạo do nguyên nhân hỗn hợp.
 
-Chi tiết điều trị cụ thể đọc thêm tại [Viêm âm đạo nhiễm khuẩn](/phu-khoa/004-02_viem-am-dao-nhiem-khuan), [Viêm âm đạo do nấm](/phu-khoa/004-03_viem-am-dao-do-nam), [Viêm âm đạo do Trichomonads](/phu-khoa/004-04_viem-am-dao-do-trichomonas).
+Chi tiết điều trị cụ thể đọc thêm tại [Viêm âm đạo nhiễm khuẩn](/phu-khoa/tiet-dich-am-dao-bat-thuong/02_viem-am-dao-nhiem-khuan), [Viêm âm đạo do nấm](/phu-khoa/tiet-dich-am-dao-bat-thuong/03_viem-am-dao-do-nam), [Viêm âm đạo do Trichomonads](/phu-khoa/tiet-dich-am-dao-bat-thuong/04_viem-am-dao-do-trichomonas).
 
 ## Nguồn tham khảo
 

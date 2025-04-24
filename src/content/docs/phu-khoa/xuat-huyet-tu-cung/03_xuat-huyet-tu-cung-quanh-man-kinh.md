@@ -83,7 +83,7 @@ Nếu xuất huyết ảnh hưởng đến chất lượng cuộc sống, và á
 
 Nội soi buồng tử cung cắt đốt nội mạc cắt bỏ hẳn lớp nội mạc tử cung hoạt động, về bản chất không khác cắt tử cung, là giải pháp xâm lấn tối thiểu. Cắt đốt bỏ nội mạc tử cung nhằm giải quyết xuất huyết tử cung cơ năng bất thường được chỉ định ở người không còn có nhu cầu sử dụng tử cung trong mục tiêu sinh con.
 
-Xem thêm tại điều trị [Xuất huyết tử cung do cơ năng](/phu-khoa/002-01_xuat-huyet-tu-cung-co-nang/).
+Xem thêm tại điều trị [Xuất huyết tử cung do cơ năng](/phu-khoa/xuat-huyet-tu-cung/01_xuat-huyet-tu-cung-co-nang/).
 
 ## Nguồn tham khảo
 
