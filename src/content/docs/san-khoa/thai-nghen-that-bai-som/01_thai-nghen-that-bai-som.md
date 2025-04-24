@@ -34,12 +34,12 @@ Khuyến cáo các phát hiện chẩn đoán thai kỳ thất bại khi siêu �
 Tiêu chuẩn rõ ràng nhất là CRL ≥7mm và không thấy hoạt động tim thai. Không được kết luận thai nghén thất bại sớm khi
 không thấy hoạt động tim thai nhưng CRL chưa đủ 7mm.
 
-![Thai ngưng phát triển](../../../assets/san-khoa/thai-nghen-that-bai-som/thai-ngung-phat-trien.png)
+![Thai ngưng phát triển](../../../../assets/san-khoa/thai-nghen-that-bai-som/thai-ngung-phat-trien.png)
 _Thai ngưng phát triển được xác định khi siêu âm có hình ảnh túi thai, bên trong có phôi thai với CRL ≥7mm không hoạt động tim phôi. Hoạt động tim thai phải được xác nhận bằng phổ Doppler (phía dưới)._
 
 So với tiêu chuẩn theo CRL, thì tiêu chuẩn dùng để xác định trứng trống là kém rõ ràng hơn. Trong thai kỳ bình thường, chỉ quan sát thấy hình ảnh của yolk-sac và của phôi vài ngày sau khi thấy hình ảnh túi thai. Do đó, hiện diện của túi thai chưa có yolk-sac hay phôi là chưa đủ mạnh để xác lập chẩn đoán trứng trống. Phải có thêm các tiêu chuẩn để hạn chế sai sót trong chẩn đoán trứng không phôi. Không được kết luận trứng trống khi không thấy hiện diện của cả yolk-sac lẫn phôi thai nhưng MSD chưa đủ 25mm.
 
-![Trứng trống](../../../assets/san-khoa/thai-nghen-that-bai-som/trung-trong.png)
+![Trứng trống](../../../../assets/san-khoa/thai-nghen-that-bai-som/trung-trong.png)
 _Trứng trống (trứng không phôi) (blighted ovum).<br>Chẩn đoán trứng trống được xác lập khi không thấy hiện diện của cả yolk-sac lẫn phôi thai khi MSD đã đạt được kích thước ≥25mm._
 
 Các tình huống khác nhau có thể thấy:
@@ -103,10 +103,10 @@ Dấu hiệu siêu âm có giá trị dự báo cao tình trạng thai nghén c�
 6. Xuất huyết rộng dưới màng nuôi.
 7. Xoang ối dãn rộng (expanded amnion sign).
 
-![Dọa sảy thai lưu](../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-1.png)
+![Dọa sảy thai lưu](../../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-1.png)
 _Doạ sẩy thai lưu: túi thai rất nhỏ, hiệu (MSD-CRL) <5mm. Túi thai rất nhỏ, (MSD-CRL) <5mm, có tụ máu dưới màng đệm._
 
-![Dọa sảy thai lưu](../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-2.png)
+![Dọa sảy thai lưu](../../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-2.png)
 _Doạ sẩy thai lưu: xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm._
 
 ### Sảy thai khó tránh
@@ -119,7 +119,7 @@ Khi mô thai qua lỗ cổ tử cung, gọi là sẩy thai lưu không hoàn to�
 
 Cần chẩn đoán phân biệt sẩy thai khó tránh với thai ngoài tử cung ở cổ tử cung. Trong trường hợp này, cần định lượng β-hCG và siêu âm định kỳ để xác định chẩn đoán. Đây là tình trạng hiếm hoi mà định lượng β-hCG có thể giúp phân định chẩn đoán.
 
-![Sẩy thai khó tránh](../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-kho-tranh.png)
+![Sẩy thai khó tránh](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-kho-tranh.png)
 _Trong sẩy thai khó tránh, khối thai vẫn chưa bị tống xuất ra khỏi cổ tử cung và vẫn hiện diện trong cổ tử cung tại thời điểm khám._
 
 ### Sảy thai không trọn
@@ -128,7 +128,7 @@ Bệnh cảnh của sẩy thai không trọn xảy ra khi quá trình sẩy thai
 
 Thai phụ than phiền về tình trạng ra huyết rỉ rả kéo dài và thình thoảng có những cơn đau quặn bụng. Chẩn đoán được đặt ra khi khám lâm sàng phát hiện cổ tử cung hé mở và ra huyết âm đạo rỉ rả từ lòng tử cung. Siêu âm cho thấy hình ảnh khối echo hỗn hợp lòng tử cung. Cấu trúc này gồm các mảnh vụn của sản phẩm thụ thai và máu. Hoạt động chế tiết β-hCG của các thành phần này rất thay đổi. Định lượng hCG hầu như không có giá trị chẩn đoán.
 
-![Sẩy thai không trọn](../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-khong-tron.png)
+![Sẩy thai không trọn](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-khong-tron.png)
 _Cấu trúc phản âm hỗn hợp, không định dạng trong buồng tử cung._
 
 ### Sảy thai trọn
@@ -137,7 +137,7 @@ Thuật ngữ sẩy thai trọn thể hiện sự tống xuất các vật phẩ
 
 Thai phụ có bệnh sử ra huyết nhiều và nhận thấy có khối mô được tống xuất khỏi tử cung. Khám lâm sàng phát hiện âm đạo có thể vẫn còn ra huyết rỉ rả, cổ tử cung đóng. Siêu âm không thấy khối mô lòng tử cung hoặc chỉ thấy ít dịch lòng tử cung.
 
-![Sẩy thai trọn](../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-tron.jpeg)
+![Sẩy thai trọn](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-tron.jpeg)
 _Lòng tử cung trống hoàn toàn sau sẩy thai._
 
 ## Điều trị

@@ -103,7 +103,7 @@ Siêu âm bơm nước buồng tử cung (SIS) chính xác hơn HSG khi khảo s
 
 ### Lược đồ tiếp cận
 
-![Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp](../../../assets/san-khoa/thai-nghen-that-bai-som-lien-tiep/luoc-do-tiep-can-thai-nghen-that-bai-som-lien-tiep.png)
+![Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp](../../../../assets/san-khoa/thai-nghen-that-bai-som-lien-tiep/luoc-do-tiep-can-thai-nghen-that-bai-som-lien-tiep.png)
 _Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp._
 
 ## Nguồn tham khảo

@@ -49,7 +49,7 @@ Tiền sử về đau nhiều lúc có kinh và đau lưng cũng liên quan đ�
 
 Có sự khác biệt rất nhiều về giảm đau giữa các nền văn hóa, cá tính, tôn giáo, đã từng trải về sinh đẻ... Tất cả điều này sẽ ảnh hưởng đến cái đau sẽ trải qua.
 
-![Các yếu tố ảnh hưởng đến đau trong chuyển dạ](../../../assets/san-khoa/giam-dau-trong-chuyen-da/yeu-to-anh-huong-den-dau-trong-chuyen-da.png)
+![Các yếu tố ảnh hưởng đến đau trong chuyển dạ](../../../../assets/san-khoa/giam-dau-trong-chuyen-da/yeu-to-anh-huong-den-dau-trong-chuyen-da.png)
 _Các yếu tố ảnh hưởng đến đau trong chuyển dạ._
 
 ## Giảm đau trong chuyển dạ
@@ -57,7 +57,7 @@ _Các yếu tố ảnh hưởng đến đau trong chuyển dạ._
 Đau lúc chuyển dạ không có bất kỳ mục đích hữu dụng nào cả, sản phụ không muốn và cũng không cần trải qua đau lúc chuyển dạ. Giảm đau tốt là biện pháp có thể có ích trong mục tiêu cải thiện kết cục của chuyển dạ. Không may là 1 số người vẫn còn tin rằng trải qua đau lúc chuyển dạ làm tăng khả năng sinh đẻ. Những người khác sợ rằng giảm đau tốt làm cho chuyển
 dạ chậm lại. Mặc dù cường độ đau có thể giảm ở những lần sinh sau, tính chất đau vẫn không thay đổi.
 
-![Các phương pháp có thể dùng để giảm đau trong chuyển dạ](../../../assets/san-khoa/giam-dau-trong-chuyen-da/cac-phuong-phap-gay-te.png)
+![Các phương pháp có thể dùng để giảm đau trong chuyển dạ](../../../../assets/san-khoa/giam-dau-trong-chuyen-da/cac-phuong-phap-gay-te.png)
 _Các phương pháp có thể dùng để giảm đau trong chuyển dạ._
 
 ## Gây tê ngoài màng cứng
@@ -70,7 +70,7 @@ Giảm đau sản khoa bằng tê ngoài màng cứng giúp sản phụ chấp n
 
 Tê ngoài màng cứng tỏ ra an toàn đối với sản phụ có tiền sản giật nặng, 1 số bệnh tim (hẹp van động mạch chủ nặng) có khả năng đáp ứng kém với sự thay đổi đổi đột ngột huyết động.
 
-![Vị trí đâm kim tê ngoài màng cứng](../../../assets/san-khoa/giam-dau-trong-chuyen-da/gay-te-ngoai-mang-cung.png)
+![Vị trí đâm kim tê ngoài màng cứng](../../../../assets/san-khoa/giam-dau-trong-chuyen-da/gay-te-ngoai-mang-cung.png)
 _Vị trí đâm kim tê ngoài màng cứng._
 
 ### Chống chỉ định

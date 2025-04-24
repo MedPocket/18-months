@@ -257,15 +257,15 @@ Trong đờ tử cung, khi xoa bóp tử cung và thuốc co hồi không có t�
 
 Đặt bóng chèn lòng tử cung có thể xem xét như là biện pháp tạm thời, mang tính trì hoãn cho sản phụ.
 
-![Chèn bóng buồng tử cung](../../../assets/san-khoa/bang-huyet-sau-sinh/chen-bong-buong-tu-cung.png)
+![Chèn bóng buồng tử cung](../../../../assets/san-khoa/bang-huyet-sau-sinh/chen-bong-buong-tu-cung.png)
 _Chèn bóng buồng tử cung.<br>Bóng phải được đặt cao, chèn hoàn toàn các mạch máu bị hở. Bóng sẽ không hiệu quả nếu bị tụt, bơm không đủ thể tích chèn. Bóng chèn cũng rất hiệu quả trong nhau tiền đạo, khi không có sự siết mạch máu do không có cơ đan chéo ở đoạn dưới._
 
 Phẫu thuật điều trị đờ tử cung bao gồm may chèn ép tử cung (mũi B-Lynch), thắt động tử cung, động mạch tử cung-buồng trứng, động mạch chậu trong, thuyên tắc chọn lọc động mạch tử cung hoặc cắt tử cung. Kỹ thuật may chèn ép tử cung cho thấy hiệu quả cao, làm giảm tỷ lệ cắt tử cung hoặc thắt động mạch chậu trong qua đó làm giảm tỷ lệ biến chứng và tử vong cho sản phụ. Ưu điểm nữa của việc may chèn ép tử cung là thực hiện nhanh cũng như duy trì khả năng sinh sản cho sản phụ.
 
-![Mũi khâu B-Lynch](../../../assets/san-khoa/bang-huyet-sau-sinh/mui-khau-b-lynch.png)
+![Mũi khâu B-Lynch](../../../../assets/san-khoa/bang-huyet-sau-sinh/mui-khau-b-lynch.png)
 _Mũi khâu B-Lynch._
 
-![Tử cung sau khâu mũi B-Lynch](../../../assets/san-khoa/bang-huyet-sau-sinh/tu-cung-sau-khau-b-lynch.png)
+![Tử cung sau khâu mũi B-Lynch](../../../../assets/san-khoa/bang-huyet-sau-sinh/tu-cung-sau-khau-b-lynch.png)
 _Tử cung sau khâu mũi B-Lynch._
 
 ### Tổn thương đường sinh dục
@@ -300,7 +300,7 @@ Những khối máu tụ dưới 5cm đường kính và không phát triển l�
 
 Vỡ tử cung phức tạp thường phải cắt tử cung để cứu mẹ. Cần phân biệt 2 dạng vỡ tử cung là vỡ tử cung hoàn toàn và vỡ tử cung dưới phúc mạc do tiên lượng trên lâm sàng là rất khác nhau. Vỡ tử cung hoàn toàn thường kèm theo tỷ lệ bệnh suất và tử vong cao hơn hẳn dạng còn lại. Vỡ tử cung có thể xuất hiện ở sẹo mổ lấy thai lần trước hoặc lên quan với chấn thương, thủ thuật bóc rau bằng tay thô bạo, hoặc xảy ra tự phát. Điều trị vỡ tử cung là phẫu thuật, khâu lại đường vỡ bảo tồn tử cung khi có thể. Việc điều trị phụ thuộc nhiều vào vị trí vỡ, mức độ vỡ, tình trạng lâm sàng cũng như mong muốn sinh sản của bệnh nhân. Ngoài ra, cần xem xét cẩn thận sự tổn thương các cơ quan lân cận như bàng quang, niệu quản, dây chằng tròn, mạch máu ở chu cung có hay không? Khi tình trạng bệnh nhân là nguy kịch do đường vỡ phức tạp thì cắt tử cung là biện pháp được chọn lựa bất chấp mong muốn bảo tồn tử cung của bệnh nhân.
 
-![Các tụ máu](../../../assets/san-khoa/bang-huyet-sau-sinh/cac-tu-mau-tang-sinh-mon.png)
+![Các tụ máu](../../../../assets/san-khoa/bang-huyet-sau-sinh/cac-tu-mau-tang-sinh-mon.png)
 _Các tụ máu._
 
 ### Bệnh đông máu
@@ -347,7 +347,7 @@ Lộn tử cung xảy ra do động tác kéo dây rốn quá thô bạo.
 
 Điều trị bằng cách dùng tay trả tử cung về lại vị trí bình thường, việc này được tiến hành tại phòng mổ, với các tác gây làm mềm tử cung như ngậm nitroglycerine dưới lưỡi, terbutaline, magnesium sulfate và gây mê toàn thân.
 
-![Lộn tử cung](../../../assets/san-khoa/bang-huyet-sau-sinh/lon-tu-cung.png)
+![Lộn tử cung](../../../../assets/san-khoa/bang-huyet-sau-sinh/lon-tu-cung.png)
 _Lộn tử cung._
 
 Nếu thất bại, phẫu thuật là cần thiết.

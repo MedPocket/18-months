@@ -108,7 +108,7 @@ Huyết nhiễm trùng là tình trạng rất nặng, có thể dẫn đến s�
 
 Sản đồ WHO model 1993 còn là công cụ rất mạnh dùng để tầm soát chuyển dạ kéo dài và đề ra các biện pháp phòng tránh chuyển dạ kéo dài.
 
-![Sản đồ WHO 1993](../../../assets/san-khoa/bieu-do-chuyen-da/bieu-do-chuyen-da-who-1993.png)
+![Sản đồ WHO 1993](../../../../assets/san-khoa/bieu-do-chuyen-da/bieu-do-chuyen-da-who-1993.png)
 _Sản đồ WHO 1993._
 
 ### Đặc điểm

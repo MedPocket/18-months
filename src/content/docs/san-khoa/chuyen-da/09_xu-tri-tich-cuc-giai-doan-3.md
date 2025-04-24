@@ -19,7 +19,7 @@ Thì bong rau là khoảng thời gian từ sau khi sổ thai đến khi rau bon
 
 Sau khi thai sổ, lòng tử cung trở nên trống, tử cung co lại. Cùng lúc đó, do bánh rau không có tính đàn hồi, nên nó sẽ bị bóp nhăn nhúm lại và bong tróc 1 phần khỏi vị trí bám của nó trên buồng tử cung. Tại vị trí bong tróc nguyên khởi này, các mạch máu của mẹ sẽ bị hở ra, gây chảy máu vào các khoảng trống tạo ra do bong tróc. Máu chảy ra bị giới hạn bởi sự bám của bánh rau sẽ tạo thành khối máu tụ sau rau. Máu tiếp tục chảy, làm khối máu tụ này to dần, và lan rộng dần, lần lượt tách các phần rau còn lại tách khỏi vị trí bám, cho đến khi rau bong hoàn toàn khỏi thành tử cung.
 
-![Thì bong rau](../../../assets/san-khoa/xu-tri-tich-cuc-giai-doan-3/bong-rau.png)
+![Thì bong rau](../../../../assets/san-khoa/xu-tri-tich-cuc-giai-doan-3/bong-rau.png)
 _Thì bong rau._
 
 Trong khoảng thời gian hình thành khối tụ máu, tử cung không có cơn co, được gọi là khoảng nghỉ sinh lý của tử cung trong giai đoạn 3 của chuyển dạ.
@@ -30,7 +30,7 @@ Thì sổ rau là khoảng thời gian mà rau, lúc này đã bong hoàn toàn,
 
 Sau khoảng nghỉ ngắn, tử cung bắt đầu co trở lại. Dưới tác dụng của cơn co, toàn bộ bánh rau đã bong sẽ được tống xuất ra khỏi buồng tử cung để vào âm đạo.
 
-![Thì sổ rau](../../../assets/san-khoa/xu-tri-tich-cuc-giai-doan-3/so-rau.png)
+![Thì sổ rau](../../../../assets/san-khoa/xu-tri-tich-cuc-giai-doan-3/so-rau.png)
 _Thì sổ rau._
 
 Có 2 kiểu sổ rau:
@@ -44,7 +44,7 @@ Thì cầm máu là khoảng thời gian bắt đầu từ sau khi rau được 
 
 Sau khi tống xuất rau, toàn bộ tử cung, lúc này đã hoàn toàn rỗng, sẽ co lại thành một khối cầu bằng cơ, gọi là khối cầu an toàn.
 
-![Thì cầm rau](../../../assets/san-khoa/xu-tri-tich-cuc-giai-doan-3/cam-mau.png)
+![Thì cầm rau](../../../../assets/san-khoa/xu-tri-tich-cuc-giai-doan-3/cam-mau.png)
 _Thì cầm máu._
 
 Có 2 cơ chế cầm máu:

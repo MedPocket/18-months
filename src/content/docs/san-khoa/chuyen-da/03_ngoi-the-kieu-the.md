@@ -12,7 +12,7 @@ Ngôi được định nghĩa là phần của thai nhi trình diện trước e
 - Ngôi có thể là ngôi dọc. Trong ngôi dọc, trục dọc của thai song song với trục của của cơ thể người mẹ. Ngôi dọc có thể là ngôi đầu hoặc ngôi mông.
 - Ngôi cũng có thể là ngôi ngang. Trong ngôi ngang, trục của thai nhi vuông góc với trục của cơ thể người mẹ. Đôi khi, trục của thai nhi hợp với trục mẹ thai nhi nằm xéo, không ổn định và sẽ định hình trở thành ngôi dọc hoặc ngôi ngang khi vào chuyển dạ.
 
-![Ngôi đầu](../../../assets/san-khoa/ngoi-the-kieu-the/ngoi-dau.png)
+![Ngôi đầu](../../../../assets/san-khoa/ngoi-the-kieu-the/ngoi-dau.png)
 _Ngôi đầu._
 
 Tùy theo tương quan giữa đầu và thân thai nhi, ta có:
@@ -80,7 +80,7 @@ Thăm khám âm đạo trong lúc chuyển dạ, cổ tử cung đã mở, tạo
 
 Trong ngôi chỏm phải xác định vị trí của các thóp và rãnh liên đỉnh.
 
-![Các kiểu thế trong ngôi chỏm](../../../assets/san-khoa/ngoi-the-kieu-the/cac-kieu-the-ngoi-chom.png)
+![Các kiểu thế trong ngôi chỏm](../../../../assets/san-khoa/ngoi-the-kieu-the/cac-kieu-the-ngoi-chom.png)
 _Các kiểu thế trong ngôi chỏm._
 
 Trong ngôi mặt, cần xác định vị trí của cằm.

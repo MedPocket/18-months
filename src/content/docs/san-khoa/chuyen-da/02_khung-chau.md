@@ -19,7 +19,7 @@ Eo trên được giới hạn ở phía sau là mỏm nhô của xương cùng,
 
 Kích thước của eo trên được thể hiện qua các đường kính (diameter). Các đường kính quan trọng là đường kính trước-sau, đường kính chéo, đường kính ngang hữu dụng:
 
-![Các đường kính eo trên](../../../assets/san-khoa/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
+![Các đường kính eo trên](../../../../assets/san-khoa/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
 _Các đường kính eo trên._
 
 - Các đường kính trước sau:
@@ -41,7 +41,7 @@ Eo giữa có cấu tạo phía sau là vách xương cứng. 2 bên là 2 gai h
 
 Do các đặc điểm vừa kể nên khi nói đến eo giữa, ta thường nói đến đường kính ngang và độ cong xương cùng:
 
-![Tiểu khung trên thiết đồ đứng dọc](../../../assets/san-khoa/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
+![Tiểu khung trên thiết đồ đứng dọc](../../../../assets/san-khoa/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
 _Tiểu khung trên thiết đồ đứng dọc._
 
 - Đường kính trước sau của eo giữa 11.5cm. Đường kính này không có ý nghĩa trên lâm sàng.
@@ -76,7 +76,7 @@ Dù có được những thông số về kích thước, nhưng không có ch�
 
 ## Xếp loại khung chậu
 
-![Các dạng khung chậu](../../../assets/san-khoa/khung-chau-trong-san-khoa/cac-dang-khung-chau-theo-caldwell-moloy.png)
+![Các dạng khung chậu](../../../../assets/san-khoa/khung-chau-trong-san-khoa/cac-dang-khung-chau-theo-caldwell-moloy.png)
 _4 dạng khung chậu theo Caldwell-Moloy._
 
 Khung chậu dạng phụ (gynecoid) là dạng khung chậu thường thấy nhất ở phụ nữ (50.6%). Là dạng khung chậu thuận lợi nhất cho cuộc sanh.

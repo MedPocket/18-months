@@ -64,19 +64,70 @@ export default defineConfig({
           {
             label: "Trang Chủ",
             link: "/",
-            icon: "open-book",
+            icon: "seti:notebook",
           },
           {
             label: "Sản Khoa",
             link: "/san-khoa/",
-            icon: "seti:notebook",
-            items: ["san-khoa", "san-khoa/dac-diem-rau-thai"],
+            icon: "open-book",
+            items: [
+              "san-khoa",
+              "san-khoa/dac-diem-rau-thai",
+              {
+                label: "Xuất huyết tử cung trong thai kỳ",
+                autogenerate: {
+                  directory: "san-khoa/xuat-huyet-tu-cung-trong-thai-ky",
+                },
+              },
+              {
+                label: "Thai nghén thất bại sớm",
+                autogenerate: {
+                  directory: "san-khoa/thai-nghen-that-bai-som",
+                },
+              },
+              "san-khoa/dem-cu-dong-thai",
+              "san-khoa/dong-hoc-sieu-am-doppler",
+              {
+                label: "Chỉ số ối",
+                autogenerate: {
+                  directory: "san-khoa/chi-so-oi",
+                },
+              },
+              "san-khoa/nhiem-trung-oi",
+              "san-khoa/de-non",
+              "san-khoa/dai-thao-duong-thai-ky",
+              "san-khoa/tang-huyet-ap-thai-ky",
+              "san-khoa/tuyen-giap-va-thai-ky",
+              "san-khoa/viem-gan-b-va-thai-ky",
+              "san-khoa/thieu-mau",
+              "san-khoa/sga-iugr",
+              {
+                label: "Chuyển dạ",
+                autogenerate: {
+                  directory: "san-khoa/chuyen-da",
+                },
+              },
+              {
+                label: "Rau tiền đạo",
+                autogenerate: {
+                  directory: "san-khoa/rau-tien-dao",
+                },
+              },
+              "san-khoa/rau-bong-non",
+              "san-khoa/vo-tu-cung",
+            ],
           },
           {
             label: "Phụ Khoa",
             link: "/phu-khoa/",
             icon: "seti:csv",
             items: ["phu-khoa"],
+          },
+          {
+            label: "Hỗ trợ sinh sản",
+            link: "/ho-tro-sinh-san/",
+            icon: "pencil",
+            items: ["ho-tro-sinh-san", "ho-tro-sinh-san/buong-trung-da-nang"],
           },
         ]),
         starlightImageZoom(),

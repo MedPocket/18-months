@@ -63,10 +63,10 @@ Liền sau đó kiểm tra tử cung.
 
 Kiểm tra bánh rau, màng rau, dây rốn xem đủ chưa? Đồng thời đánh giá bất thường.
 
-![Kỹ thuật bóc rau nhân tạo](../../../assets/san-khoa/boc-rau-nhan-tao-kiem-tra-sinh-duc/ky-thuat-boc-rau-nhan-tao.png)
+![Kỹ thuật bóc rau nhân tạo](../../../../assets/san-khoa/boc-rau-nhan-tao-kiem-tra-sinh-duc/ky-thuat-boc-rau-nhan-tao.png)
 _Kỹ thuật bóc rau nhân tạo._
 
-![Thủ thuật bóc rau nhân tạo](../../../assets/san-khoa/boc-rau-nhan-tao-kiem-tra-sinh-duc/thu-thuat-boc-rau-nhan-tao.png)
+![Thủ thuật bóc rau nhân tạo](../../../../assets/san-khoa/boc-rau-nhan-tao-kiem-tra-sinh-duc/thu-thuat-boc-rau-nhan-tao.png)
 _Thủ thuật bóc rau nhân tạo._
 
 ### Tai biến

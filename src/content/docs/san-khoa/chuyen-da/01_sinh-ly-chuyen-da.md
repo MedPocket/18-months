@@ -24,14 +24,14 @@ Dưới tác động của Prostaglandin hoặc Oxytocin lên các thụ thể �
 Tuy nhiên, ngoài chuyển dạ, cơ tử cung cũng có những co thắt hay còn gọi là cơn co Braxton-Hicks. Để phân biệt được giữa cơn co tử cung của chuyển dạ và cơn co Braxton-Hicks, cần dựa vào đặc điểm của cơn co và tính hiệu quả của nó. Cơn co tử cung chuyển dạ có tính
 tự động, đều đặn, gây đau, tăng dần về cường độ và tần số và phải có hiệu quả gây xóa mở cổ tử cung.
 
-![Cơn co Braxton-Hicks](../../../assets/san-khoa/sinh-ly-chuyen-da/con-co-braxton-hicks.png)
+![Cơn co Braxton-Hicks](../../../../assets/san-khoa/sinh-ly-chuyen-da/con-co-braxton-hicks.png)
 _Cơn co Braxton-Hicks là những cơn co thưa, không đều, không gây đau, xuất hiện vào cuối thai kỳ, không gây thay đổi trên cổ tử cung._
 
 ### Xóa mở cổ tử cung
 
 Xóa cổ tử cung là kết quả của việc co của các thớ cơ dọc của thân tử cung làm cho các thành phần của kênh cổ tử cung bị kéo lên phía trên làm cổ tử cung mỏng đi. Phần dưới tử cung mỏng dần, hòa với các thành phần từ kênh tử cung gây xóa mở và lập đoạn dưới.
 
-![Xóa cổ tử cung](../../../assets/san-khoa/sinh-ly-chuyen-da/xoa-co-tu-cung.png)
+![Xóa cổ tử cung](../../../../assets/san-khoa/sinh-ly-chuyen-da/xoa-co-tu-cung.png)
 _Cơn co tử cung làm cho các thành phần của kênh cổ tử cung bị kéo lên phía trên làm cổ tử cung mỏng đi._
 
 Khi có cơn co, khối cơ tại phần trên của tử cung co và nghỉ chủ động, nhịp nhàng để tống xuất thai. Sự co rút của các thớ cơ làm cổ tử cung bị mở rộng ra, đồng thời, ngôi thai đi xuống cũng góp phần nong rộng cổ tử cung. Hiện tượng cổ tử cung mở rộng ra gọi là mở cổ tử cung.
@@ -40,14 +40,14 @@ Chỉ có cơn co tử cung là động lực duy nhất gây hiện tượng x�
 
 Khi các thớ cơ tử cung co rút, phần dưới của tử cung mỏng dần thụ động và chuyển thành đoạn dưới tử cung. Ở chỗ nối giữa 2 phần này hình thành vòng thắt sinh lý. Nếu chuyển dạ tắc nghẽn, phần trên nỗ lực co thắt để tống xuất thai, đoạn dưới rất mỏng, vòng thắt trở nên quá đáng và trở thành vòng thắt Bandl bệnh lý. Tuy nhiên, để mở cổ tử cung, ngoài động lực chính là cơn co tử cung còn có sự tham gia của đầu ối và ngôi thai.
 
-![Vòng Bandl](../../../assets/san-khoa/sinh-ly-chuyen-da/vong-bandl.png)
+![Vòng Bandl](../../../../assets/san-khoa/sinh-ly-chuyen-da/vong-bandl.png)
 _Vòng Bandl bệnh lý khi có chuyển dạ tắc nghẽn. Phía trên đáy tử cung (trái) là thân tử cung. Phía dưới (phải) là đoạn dưới._
 
 ### Thành lập đầu ối
 
 Khi cổ tử cung mở, nút niêm dịch sẽ bong ra, vài mạch máu nhỏ bị vỡ đồng thời hình thành điểm yếu là kênh cổ tử cung bị mở rộng khiến 1 phần túi ối bị đẩy qua đó tạo thành đầu ối. Như vậy, ngoài những dấu hiệu chính, còn có những dấu hiệu gián tiếp để nhận biết chuyển dạ là sự thành lập đầu ối và tống xuất niêm dịch lẫn huyết hồng. Đầu ối được thành lập dưới tác động của cơn co tử cung. Khi có cơn co, áp lực thủy tĩnh của buồng ối gia tăng, cổ tử cung mở ra tạo thành điểm yếu từ đó 1 phần buồng ối đi qua đó hình thành nên đầu ối. Đầu ối có tác dụng nong rộng cổ tử cung khi ngôi thai còn cao, từ đó thúc đẩy sự mở cổ tử cung.
 
-![Thành lập đầu ối](../../../assets/san-khoa/sinh-ly-chuyen-da/thanh-lap-dau-oi.png)
+![Thành lập đầu ối](../../../../assets/san-khoa/sinh-ly-chuyen-da/thanh-lap-dau-oi.png)
 _Thành lập đầu ối phía trước ngôi thai, ở vị trí lổ cổ tử cung. Khi áp suất trong buồng tử cung tăng và cổ tử cung bị mở ra, nước ối sẽ bị dồn xuống tập trung phía trước ngôi thai, thành lập đầu ối._
 
 ## Chẩn đoán chuyển dạ
@@ -84,7 +84,7 @@ Pha tiềm thời: là giai đoạn chuẩn bị cổ tử cung và ngôi thai. 
 
 Pha hoạt động: là giai đoạn cổ tử cung mở nhanh, thành lập đoạn dưới và ngôi thai tiến triển. Thường diễn ra nhanh, kéo dài tối đa 12h. Trong pha này, cổ tử cung hoàn tất xóa và mở nhanh, ngôi thai sẽ đi xuống và biến dạng, cơn co tử cung nhiều, dài, có cường độ mạnh và biên độ lớn. Pha hoạt động được xác định khi độ mở cổ tử cung ≥3cm.
 
-![So sánh pha tiềm thời và pha hoạt động](../../../assets/san-khoa/sinh-ly-chuyen-da/so-sanh-pha-tiem-thoi-va-pha-hoat-dong.png)
+![So sánh pha tiềm thời và pha hoạt động](../../../../assets/san-khoa/sinh-ly-chuyen-da/so-sanh-pha-tiem-thoi-va-pha-hoat-dong.png)
 
 ## Theo dõi chuyển dạ
 
@@ -109,7 +109,7 @@ Nội dung cụ thể của theo dõi chuyển dạ gồm:
 
 Công cụ trực quan để ghi lại các diễn biến này là sản đồ.
 
-![Biểu đồ chuyển dạ](../../../assets/san-khoa/sinh-ly-chuyen-da/bieu-do-chuyen-da.jpeg)
+![Biểu đồ chuyển dạ](../../../../assets/san-khoa/sinh-ly-chuyen-da/bieu-do-chuyen-da.jpeg)
 _Biểu đồ chuyển dạ._
 
 ## Nguồn tham khảo

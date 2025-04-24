@@ -7,7 +7,7 @@ description: Hồi sức sơ sinh.
 
 ## Tuần hoàn bào thai và tuần hoàn sơ sinh
 
-![Tuần hoàn bào thai và tuần hoàn sơ sinh](../../../assets/san-khoa/hoi-suc-so-sinh/tuan-hoan-bao-thai-va-tuan-hoan-so-sinh.jpeg)
+![Tuần hoàn bào thai và tuần hoàn sơ sinh](../../../../assets/san-khoa/hoi-suc-so-sinh/tuan-hoan-bao-thai-va-tuan-hoan-so-sinh.jpeg)
 _Tuần hoàn bào thai (trái) và tuần hoàn sơ sinh (phải).<br>Tuần hoàn bào thai được đặc trưng bởi:<br>1. Trao đổi khí qua rau.<br>2. 1 tiểu tuần hoàn trở kháng cao, không chức năng hô hấp.<br>3. Tồn tại các shunt ở vị trí lỗ Botal và ống động mạch.<br>Tuần hoàn sơ sinh được đặc trưng bởi:<br>1. Thiết lập tiểu tuần hoàn chức năng.<br>2. Thực hiện trao đổi khí qua phổi.<br>3. Đóng các shunt._
 
 Phổi của bào thai là cơ quan không có hoạt động sinh lý thực thụ. Tiểu tuần hoàn chỉ là tuần hoàn giải phẫu, không có vai trò trao đổi khí. Vì thế, trở kháng tiểu tuần hoàn rất cao. Chỉ lượng máu rất nhỏ được lưu thông trong tiểu tuần hoàn, nhằm đảm bảo nuôi dưỡng phổi mà thôi. Trong thời kỳ này, mọi trao đổi khí đều được thực hiện qua rau.
@@ -46,7 +46,7 @@ Người ta thường quen dùng điểm số APGAR để đánh giá tình tr�
 4. Phản xạ.
 5. Màu da.
 
-![Bảng điểm apgar](../../../assets/san-khoa/hoi-suc-so-sinh/bang-diem-apgar.jpeg)
+![Bảng điểm apgar](../../../../assets/san-khoa/hoi-suc-so-sinh/bang-diem-apgar.jpeg)
 _Bảng điểm apgar._
 
 Có sự liên quan nhất định giữa điểm số APGAR và tử vong sơ sinh nếu đánh giá thật đúng. Tuy nhiên, liên quan giữa APGAR với dự hậu lâu dài là không rõ ràng.
@@ -95,7 +95,7 @@ Tiêu chuẩn đánh giá kết quả hồi sức tốt bao gồm tiêu chuẩn 
 
 ## Lưu đồ hồi sức sơ sinh
 
-![Lưu đồ hồi sức sơ sinh](../../../assets/san-khoa/hoi-suc-so-sinh/luu-do-hoi-suc-so-sinh.jpeg)
+![Lưu đồ hồi sức sơ sinh](../../../../assets/san-khoa/hoi-suc-so-sinh/luu-do-hoi-suc-so-sinh.jpeg)
 _Lưu đồ hồi sức sơ sinh._
 
 Những điểm quan trọng trong lưu đồ hồi sức sơ sinh.
@@ -109,12 +109,12 @@ Những điểm quan trọng trong lưu đồ hồi sức sơ sinh.
 - Giới hạn thời gian: nếu không cải thiện sau 30 giây, chuyển sang bước tiếp theo.
 - Có thể xem xét đặt nội khí quản ở 1 số bước.
 
-![Chuyển dạ với nước ối lần phân su](../../../assets/san-khoa/hoi-suc-so-sinh/chuyen-da-nuoc-oi-lan-phan-su.jpeg)
+![Chuyển dạ với nước ối lần phân su](../../../../assets/san-khoa/hoi-suc-so-sinh/chuyen-da-nuoc-oi-lan-phan-su.jpeg)
 _Chuyển dạ với nước ối lần phân su._
 
 ## Theo dõi sau hồi sức
 
-![3 mức độ chăm sóc sau hồi sức](../../../assets/san-khoa/hoi-suc-so-sinh/3-muc-do-cham-soc-sau-hoi-suc.jpeg)
+![3 mức độ chăm sóc sau hồi sức](../../../../assets/san-khoa/hoi-suc-so-sinh/3-muc-do-cham-soc-sau-hoi-suc.jpeg)
 _3 mức độ chăm sóc sau hồi sức._
 
 Tất cả trẻ đã trải qua hồi sức sau sinh đều phải được theo dõi ít nhất 24h.

@@ -28,7 +28,7 @@ Không được thực hiện khám âm đạo bằng tay vì điều này khôn
 Đặt băng vệ sinh âm hộ và kiểm tra miếng băng vệ sinh 1h sau bằng cách nhìn và đánh giá mùi.
 
 :::note[Tiêu chuẩn chẩn đoán ối vỡ non]
-![Ối vỡ non](../../../assets/san-khoa/oi-vo-non/oi-vo-non.png)
+![Ối vỡ non](../../../../assets/san-khoa/oi-vo-non/oi-vo-non.png)
 :::
 
 ### Cận lâm sàng

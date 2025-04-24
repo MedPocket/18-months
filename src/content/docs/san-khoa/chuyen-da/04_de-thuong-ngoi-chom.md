@@ -28,7 +28,7 @@ Ngôi gọi là lọt khi đường kính lọt của ngôi đã đi qua đượ
 - Khám bụng: Phần đầu thai nhi còn trên xương vệ tương ứng độ rộng bao nhiêu ngón tay khép lại sẽ tương ứng với độ lọt bao nhiêu phần năm. Nếu toàn bộ đầu thai nhi nằm trên xương vệ, tương ứng với chiều rộng của năm ngón tay khi khép lại, ta nói đầu ở vị trí 5/5. Nếu toàn bộ thai nhi đã xuống dưới xương vệ, ta nói đầu ở vị trí 0/5. Ngôi thai lọt sẽ có vị trí khoảng 2/5.
 - Khám âm đạo: Khi ngôi thai chưa lọt, phần thấp nhất của xương đầu vẫn còn ở trên vị trí của gai hông, được đánh giá -1, -2, -3. Khi ngôi thai đã lọt, phần thấp nhất của xương đầu (phần xương cứng) đã vượt khỏi vị trí của gai hông, được đánh giá +1, +2, +3.
 
-![Độ lọt ngôi thai](../../../assets/san-khoa/de-thuong-ngoi-chom/do-lot-ngoi-thai.png)
+![Độ lọt ngôi thai](../../../../assets/san-khoa/de-thuong-ngoi-chom/do-lot-ngoi-thai.png)
 
 ### Xuống
 
@@ -38,7 +38,7 @@ Hiện tượng xuống là sự di chuyển của ngôi trong tiểu khung sau 
 
 Hệ quả của xoay trong là ngôi hướng được đường kính sổ của mình trùng với đường kính trước sau của eo dưới.
 
-![Xuống và xoay trong](../../../assets/san-khoa/de-thuong-ngoi-chom/xuong-va-xoay-trong.png)
+![Xuống và xoay trong](../../../../assets/san-khoa/de-thuong-ngoi-chom/xuong-va-xoay-trong.png)
 
 ### Sổ
 
@@ -48,7 +48,7 @@ Hiện tượng sổ thai qua eo dưới có điểm tựa bờ dưới khớp v
 
 Các giai đoạn sau đây (a đến d) diễn ra theo cơ chế sinh tự nhiên. Không được can thiệp vào các giai đoạn này.
 
-![Đẻ thường ngôi chỏm a-d](../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-a-d.png)
+![Đẻ thường ngôi chỏm a-d](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-a-d.png)
 
 Giai đoạn cần hỗ trợ để cuộc sinh an toàn (e đến h). Chỉ được phép can thiệp khi có đủ tất cả các điều kiện sau:
 
@@ -62,14 +62,14 @@ Khi hạ chẩm ra đến bờ dưới khớp vệ, bắt đầu dùng tay phả
 
 Khi đầu đã sổ, nếu thấy dây rốn quấn cổ lỏng, tháo dây rốn qua đầu thai ngay. Nếu dây rốn quấn cổ chặt thì kẹp cắt dây rốn ngay tại vùng cổ thai.
 
-![Đẻ thường ngôi chỏm e-f](../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-e-f.png)
+![Đẻ thường ngôi chỏm e-f](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-e-f.png)
 
 Sau khi đầu sổ hoàn toàn, để đầu tự xoay ngoài về vị trí nguyên thủy của nó (xoay ngoài thì 1st), chờ thêm để cho cơn co tự nhiên đưa vai lọt vào tiểu khung. Khi vai đã lọt, đường kính lưỡng mỏm vai đi vào đường kính chéo của eo trên và xoay. Vai xoay trong sẽ làm cho đầu xoay ngoài thêm 1 thì nữa, gọi là xoay ngoài thì 2nd. Cuối thì này, vai đã vào đến đường kính trước sau eo dưới, đầu có vị trí chẩm ngang. Người đỡ sinh có thể giúp thai hoàn thành thì xoay ngoài thứ 2nd, rồi bắt đầu đỡ vai.
 
 - Đỡ vai trước: người đỡ sinh dùng 2 tay ôm 2 bên đầu thai nhi, vùng đỉnh, kéo đầu thai về phía chân mình và hơi xuống phía dưới để mỏm vai trước ra hẳn cho đến khi bờ dưới cơ delta tì dưới khớp vệ. Nhớ chú ý giữ đúng phương kéo để tránh gãy xương đòn.
 - Đỡ vai sau: sau khi vai trước đã sổ hoàn toàn, người đỡ kéo ngược thai lên trên, vai trước sát vùng tiền đình, thân thai nhi sẽ cong lại và vai sau sẽ sổ nhẹ nhàng, không làm rách âm tầng sinh môn. Nhớ chú ý giữ tầng sinh môn khi sổ vai sau.
 
-![Đẻ thường ngôi chỏm g-h](../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-g-h.png)
+![Đẻ thường ngôi chỏm g-h](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-g-h.png)
 
 Phần còn lại của thai và mông sẽ dễ dàng. Bàn tay trái đỡ cổ thai nhi, bàn tay phải vuốt dọc lưng thai
 nhi tới chân, nắm 2 chân bằng cách cầm 2 bàn chân bằng 3 ngón cái, trỏ và giữa bàn tay phải. Sau sổ thai, cần giữ đầu thai nhi thấp hơn bàn sinh.
@@ -81,7 +81,7 @@ Việc cắt tầng sinh môn không phải luôn luôn cần thiết. 1 số t�
 Cắt tầng sinh môn không giúp rút ngắn giai đoạn rặn sổ thai, không làm cho sản phụ sinh nhanh hơn.
 :::
 
-![Cắt tầng sinh môn](../../../assets/san-khoa/de-thuong-ngoi-chom/cat-tang-sinh-mon.png)
+![Cắt tầng sinh môn](../../../../assets/san-khoa/de-thuong-ngoi-chom/cat-tang-sinh-mon.png)
 
 ## Cách thở và rặn trong cuộc đẻ
 
