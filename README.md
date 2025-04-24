@@ -1,6 +1,6 @@
 # 18 months
 
-> The time for me to find myself.
+> Bắt đầu một hành trình.
 
 [![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
 
