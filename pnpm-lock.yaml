@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@astrojs/starlight':
-        specifier: ^0.34.0
-        version: 0.34.0(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))
+        specifier: ^0.34.1
+        version: 0.34.1(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))
       astro:
         specifier: ^5.7.5
         version: 5.7.5(rollup@4.40.0)(typescript@5.8.3)
@@ -55,13 +55,13 @@ importers:
         version: 0.34.1
       starlight-image-zoom:
         specifier: ^0.12.0
-        version: 0.12.0(@astrojs/starlight@0.34.0(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3)))
+        version: 0.12.0(@astrojs/starlight@0.34.1(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3)))
       starlight-links-validator:
         specifier: ^0.16.0
-        version: 0.16.0(@astrojs/starlight@0.34.0(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3)))
+        version: 0.16.0(@astrojs/starlight@0.34.1(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3)))
       starlight-sidebar-topics:
         specifier: ^0.6.0
-        version: 0.6.0(@astrojs/starlight@0.34.0(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3)))
+        version: 0.6.0(@astrojs/starlight@0.34.1(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3)))
     devDependencies:
       '@area44/biome-config':
         specifier: ^0.4.1
@@ -106,8 +106,8 @@ packages:
   '@astrojs/sitemap@3.3.1':
     resolution: {integrity: sha512-GRnDUCTviBSNfXJ0Jmur+1/C+z3g36jy79VyYggfe1uNyEYSTcmAfTTCmbytrRvJRNyJJnSfB/77Gnm9PiXRRg==}
 
-  '@astrojs/starlight@0.34.0':
-    resolution: {integrity: sha512-RebhN1hoLmD/4WH0WneR2U6evEwRhwrtUcxUten9DjAZdKfCtav95kkj9aiU1manNDVBVgBliEZ9hGcOwSQXrg==}
+  '@astrojs/starlight@0.34.1':
+    resolution: {integrity: sha512-FmgS3R4SfLX8hmXoxNG5w1YicAs29Ix8A1cqczHEB4zJzIZVrvPiTEaQffJztqXTWERZtSZhHsckyDWImOPzJA==}
     peerDependencies:
       astro: ^5.5.0
 
@@ -2148,7 +2148,7 @@ snapshots:
       stream-replace-string: 2.0.0
       zod: 3.24.3
 
-  '@astrojs/starlight@0.34.0(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))':
+  '@astrojs/starlight@0.34.1(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))':
     dependencies:
       '@astrojs/markdown-remark': 6.3.1
       '@astrojs/mdx': 4.2.5(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))
@@ -4365,9 +4365,9 @@ snapshots:
 
   space-separated-tokens@2.0.2: {}
 
-  starlight-image-zoom@0.12.0(@astrojs/starlight@0.34.0(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))):
+  starlight-image-zoom@0.12.0(@astrojs/starlight@0.34.1(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))):
     dependencies:
-      '@astrojs/starlight': 0.34.0(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))
+      '@astrojs/starlight': 0.34.1(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))
       mdast-util-mdx-jsx: 3.2.0
       rehype-raw: 7.0.0
       unist-util-visit: 5.0.0
@@ -4375,9 +4375,9 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  starlight-links-validator@0.16.0(@astrojs/starlight@0.34.0(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))):
+  starlight-links-validator@0.16.0(@astrojs/starlight@0.34.1(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))):
     dependencies:
-      '@astrojs/starlight': 0.34.0(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))
+      '@astrojs/starlight': 0.34.1(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))
       '@types/picomatch': 3.0.2
       github-slugger: 2.0.0
       hast-util-from-html: 2.0.3
@@ -4391,9 +4391,9 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  starlight-sidebar-topics@0.6.0(@astrojs/starlight@0.34.0(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))):
+  starlight-sidebar-topics@0.6.0(@astrojs/starlight@0.34.1(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))):
     dependencies:
-      '@astrojs/starlight': 0.34.0(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))
+      '@astrojs/starlight': 0.34.1(astro@5.7.5(rollup@4.40.0)(typescript@5.8.3))
       picomatch: 4.0.2
 
   stream-replace-string@2.0.0: {}

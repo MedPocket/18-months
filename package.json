@@ -13,7 +13,7 @@
     "check": "biome check --write ."
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.34.0",
+    "@astrojs/starlight": "^0.34.1",
     "astro": "^5.7.5",
     "astro-og-canvas": "^0.7.0",
     "canvaskit-wasm": "^0.40.0",
