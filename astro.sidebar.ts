@@ -18,12 +18,14 @@ export const sidebar = starlightSidebarTopics([
         autogenerate: {
           directory: "san-khoa/xuat-huyet-tu-cung-trong-thai-ky",
         },
+        collapsed: true,
       },
       {
         label: "Thai nghén thất bại sớm",
         autogenerate: {
           directory: "san-khoa/thai-nghen-that-bai-som",
         },
+        collapsed: true,
       },
       "san-khoa/dem-cu-dong-thai",
       "san-khoa/dong-hoc-sieu-am-doppler",
@@ -32,6 +34,7 @@ export const sidebar = starlightSidebarTopics([
         autogenerate: {
           directory: "san-khoa/chi-so-oi",
         },
+        collapsed: true,
       },
       "san-khoa/nhiem-trung-oi",
       "san-khoa/de-non",
@@ -46,12 +49,14 @@ export const sidebar = starlightSidebarTopics([
         autogenerate: {
           directory: "san-khoa/chuyen-da",
         },
+        collapsed: true,
       },
       {
         label: "Rau tiền đạo",
         autogenerate: {
           directory: "san-khoa/rau-tien-dao",
         },
+        collapsed: true,
       },
       "san-khoa/rau-bong-non",
       "san-khoa/vo-tu-cung",
@@ -68,12 +73,14 @@ export const sidebar = starlightSidebarTopics([
         autogenerate: {
           directory: "phu-khoa/giai-phau-sinh-ly",
         },
+        collapsed: true,
       },
       {
         label: "Xuất huyết tử cung",
         autogenerate: {
           directory: "phu-khoa/xuat-huyet-tu-cung",
         },
+        collapsed: true,
       },
       "phu-khoa/vo-kinh",
       "phu-khoa/chua-ngoai-tu-cung",
@@ -83,18 +90,21 @@ export const sidebar = starlightSidebarTopics([
         autogenerate: {
           directory: "phu-khoa/tiet-dich-am-dao-bat-thuong",
         },
+        collapsed: true,
       },
       {
         label: "Bất thường cổ tử cung",
         autogenerate: {
           directory: "phu-khoa/bat-thuong-co-tu-cung",
         },
+        collapsed: true,
       },
       {
         label: "Bất thường buồng trứng",
         autogenerate: {
           directory: "phu-khoa/bat-thuong-buong-trung",
         },
+        collapsed: true,
       },
       "phu-khoa/u-xo-tu-cung",
       "phu-khoa/lac-noi-mac-tu-cung",
@@ -103,6 +113,7 @@ export const sidebar = starlightSidebarTopics([
         autogenerate: {
           directory: "phu-khoa/bat-thuong-tuyen-vu",
         },
+        collapsed: true,
       },
       "phu-khoa/cac-phuong-phap-tranh-thai",
       "phu-khoa/sa-tang-chau",
