@@ -62,6 +62,7 @@ export const sidebar = starlightSidebarTopics([
       "san-khoa/vo-tu-cung",
       "san-khoa/viem-gan-b-va-thai-ky",
       "san-khoa/hiv-va-thai-ky",
+      "san-khoa/uon-van",
       "san-khoa/thuy-dau-trong-thai-ky",
       {
         label: "Sử dụng thuốc trong thai kỳ",
