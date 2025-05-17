@@ -26,18 +26,33 @@ Tác dụng phụ:
 - Gần như không có tác dụng phụ gì đáng kể.
 - Quá liều kéo dài có thể che giấu thiếu vitamin B12, gây rối loạn thần kinh.
 
+Thực phẩm giàu folate tự nhiên:
+- Rau lá xanh đậm (rau bina, cải bó xôi, súp lơ xanh).
+- Gan động vật.
+- Đậu, đỗ, đậu lăng.
+- Trái cây họ cam quýt.
+- Bơ, măng tây, trứng.
+
 ### DHA (Docosahexaenoic Acid)
 
 DHA (Docosahexaenoic Acid) là axit béo omega-3 không no chuỗi dài, cực kỳ quan trọng đối với sự phát triển não bộ, thị giác và hệ thần kinh, đặc biệt trong thai kỳ và giai đoạn đầu đời.
 
 Tác dụng chính:
-- Hỗ trợ sự phát triển não bộ và thị giác của thai nhi.
+- Hỗ trợ sự phát triển não bộ và thị giác của thai nhi, đặc biệt trong 3 tháng cuối thai kỳ và 2 năm đầu đời.
 - Giảm nguy cơ sinh non và nhẹ cân.
+- GGóp phần tăng chỉ số IQ, khả năng nhận thức và học hỏi của trẻ sau này.
 - Cải thiện lưu thông máu và sức khỏe tim mạch cho cả mẹ và bé.
 - Tăng cường khả năng miễn dịch cho cả mẹ và bé.
-- Giúp phát triển tốt hệ thần kinh và não bộ của bé.
+- Cải thiện tâm trạng, giúp phòng ngừa trầm cảm thai kỳ và sau sinh.
+- Giúp huyết áp ổn định, giảm nguy cơ tiền sản giật.
 
 Tác dụng phụ: Có thể gây mùi tanh hoặc ợ nóng nếu sử dụng sản phẩm kém chất lượng.
+
+Thực phẩm giàu DHA:
+- Cá béo như cá hồi, cá thu, cá mòi,... Ưu tiên cá đánh bắt tự nhiên, tránh cá lớn (như cá kiếm, cá mập) vì nguy cơ nhiễm thủy ngân cao.
+- Trứng gà bổ sung DHA.
+- Tảo biển.
+- Hạt chia, quả óc chó chứa ALA (acid alpha-linolenic), một dạng Omega-3 có thể chuyển thành DHA (nhưng với tỉ lệ thấp ~5%).
 
 ### Sắt
 
@@ -53,17 +68,35 @@ Tác dụng phụ:
 - Táo bón và phân đen là những tác dụng phụ thường gặp.
 - Buồn nôn và đau dạ dày có thể xảy ra nếu không uống đúng cách.
 
+Thực phẩm giàu sắt:
+- Gan động vật (gan bò, gan gà).
+- Thịt đỏ (bò, cừu).
+- Hải sản (sò huyết, ngao, hến).
+- Rau lá xanh (rau muống, cải bó xôi).
+- Đậu đỗ, đậu lăng.
+- Hạt bí, mè, hạt chia.
+- Ngũ cốc tăng cường sắt.
+
 ### Canxi
 
 Canxi là một khoáng chất thiết yếu trong cơ thể con người, chiếm khoảng 99% trong xương và răng. Phần còn lại (1%) tồn tại trong máu, cơ và các mô khác, giúp duy trì hoạt động sống bình thường.
 
 Tác dụng chính:
 - Cung cấp đủ canxi giúp xương và răng của thai nhi phát triển khỏe mạnh.
+- Cải thiện hệ thần kinh cho thai nhi.
 - Giảm nguy cơ loãng xương và bảo vệ sức khỏe xương của mẹ bầu.
 - Điều hòa huyết áp và hỗ trợ chức năng cơ bắp của mẹ.
-- Cải thiện hệ thần kinh cho thai nhi.
+- Giảm nguy cơ tiền sản giật.
 
 Tác dụng phụ: Táo bón và đầy hơi, nhất là khi uống quá liều canxi trong 1 lần.
+
+Nguồn thực phẩm giàu canxi:
+- Sữa, phô mai, sữa chua.
+- Cá nhỏ ăn cả xương (cá cơm, cá mòi).
+- Trứng.
+- Rau xanh (cải bó xôi, cải xoăn, rau dền).
+- Đậu phụ, đậu nành, mè.
+- Hạnh nhân, hạt chia.
 
 ### Magie
 
@@ -76,6 +109,14 @@ Tác dụng chính:
 - Giảm căng thẳng và lo âu, giúp mẹ bầu thư giãn và duy trì tâm trạng ổn định.
 
 Tác dụng phụ: Tiêu chảy nếu uống quá liều hoặc khi cơ thể không dung nạp magie.
+
+Nguồn thực phẩm giàu magie:
+- Các loại hạt: hạt bí, hạt hướng dương, hạt điều.
+- Đậu và đỗ: đậu đen, đậu đỏ, đậu nành.
+- Rau xanh đậm: rau bina, cải bó xôi.
+- Trái cây: bơ, chuối.
+- Socola đen (tối thiểu 70% cacao).
+- Ngũ cốc nguyên hạt: yến mạch, gạo lứt.
 
 ## Nhu cầu acid folic, sắt, canxi, DHA trong từng giai đoạn của thai kỳ
 
@@ -117,7 +158,7 @@ DHA: Uống sau bữa ăn để tăng hấp thu. Uống vào buổi sáng hoặc
 
 Sắt: Uống vào trước ăn sáng hoặc trước khi ngủ giảm buồn nôn (tránh uống cùng sữa, cà phê). Nếu có vấn đề về dạ dày, nên chọn dạng sắt dễ hấp thu, như sắt hữu cơ. Uống kèm vitamin C để tăng hấp thu.
 
-Canxi: Sắt và canxi không nên uống cùng nhau, vì canxi có thể làm giảm hấp thu sắt. Uống sau bữa ăn, chia làm 2 lần/ngày để tăng khả năng hấp thu. Vitamin D và magie hỗ trợ tốt cho canxi, nên bổ sung đủ nếu cần.
+Canxi: Sắt và canxi không nên uống cùng nhau, vì canxi có thể làm giảm hấp thu sắt. Uống sau bữa ăn, chia làm 2 lần/ngày để tăng khả năng hấp thu mỗi lần không quá 500–600 mg. Vitamin D và magie hỗ trợ tốt cho canxi, nên bổ sung đủ nếu cần.
 
 ## Tổng kết cách dùng hằng ngày
 
