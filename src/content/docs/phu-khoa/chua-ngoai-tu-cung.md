@@ -163,7 +163,7 @@ Bệnh nội khoa: suy gan, suy thận, loét dạ dày, suy giảm miễn dịc
 
 Người bệnh từ chối điều trị MTX hoặc không thể theo dõi lâu dài.
 
-Bất thường xét nghiệm tiền hóa trị (bạch cầu <3000/$mm^3$, tiểu cầu <10000/$mm^3$, tăng men gen AST, ALT >100IU/L, tăng BUN creatinine, rối loạn đông máu...)
+Bất thường xét nghiệm tiền hóa trị (bạch cầu <3000/mm³, tiểu cầu <10000/mm³, tăng men gen AST, ALT >100IU/L, tăng BUN creatinine, rối loạn đông máu...)
 
 ### Xét nghiệm tiền hóa trị
 
@@ -185,35 +185,35 @@ Tỷ lệ thành công đường toàn thân 70-95%.
 
 #### Phác đồ đơn liều
 
-Tiêm bắp MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg vào ngày thứ 1.
+Tiêm bắp MTX 50mg/m² bề mặt da hoặc 1mg/kg vào ngày thứ 1.
 
 Định lượng β-hCG các ngày 4 và 7:
 
 - β-hCG giảm ≥15% ngày 7 so với ngày 4: định lượng β-hCG hàng tuần cho đến khi âm tính.
-- β-hCG giảm <15% ngày 7 so với ngày 4: MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 2 và định lượng β-hCG vào ngày 14.
+- β-hCG giảm <15% ngày 7 so với ngày 4: MTX 50mg/m² bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 2 và định lượng β-hCG vào ngày 14.
 
 Định lượng β-hCG các ngày 14:
 
 - β-hCG giảm ≥15% ngày 14 so với ngày 7: định lượng β-hCG hàng tuần cho đến khi âm tính.
-- β-hCG giảm <15% ngày 14 so với ngày 7: MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 3 và định lượng β-hCG vào ngày 21.
+- β-hCG giảm <15% ngày 14 so với ngày 7: MTX 50mg/m² bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 3 và định lượng β-hCG vào ngày 21.
 
 Sau điều trị 3 liều MTX, nếu β-hCG giảm <15% so với lần trước chuyển điều trị phẫu thuật.
 
 #### Phác đồ liều đôi
 
-Liều thứ 1: Tiêm bắp MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg ngày thứ 1.
+Liều thứ 1: Tiêm bắp MTX 50mg/m² bề mặt da hoặc 1mg/kg ngày thứ 1.
 
-Liều thứ 2: Tiêm bắp MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg ngày thứ 4.
+Liều thứ 2: Tiêm bắp MTX 50mg/m² bề mặt da hoặc 1mg/kg ngày thứ 4.
 
 Định lượng β-hCG các ngày 4 và 7:
 
 - β-hCG giảm ≥15% ngày 7 so với ngày 4: định lượng β-hCG hàng tuần cho đến khi âm tính.
-- β-hCG giảm <15% ngày 7 so với ngày 4: MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 3 và định lượng β-hCG vào ngày 11.
+- β-hCG giảm <15% ngày 7 so với ngày 4: MTX 50mg/m² bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 3 và định lượng β-hCG vào ngày 11.
 
 Định lượng β-hCG các ngày 11:
 
 - β-hCG giảm ≥15% ngày 11 so với ngày 7: định lượng β-hCG hàng tuần cho đến khi âm tính.
-- β-hCG giảm <15% ngày 11 so với ngày 7: MTX 50mg/$m^2$ bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 4 và định lượng β-hCG vào ngày 21.
+- β-hCG giảm <15% ngày 11 so với ngày 7: MTX 50mg/m² bề mặt da hoặc 1mg/kg tiêm bắp liều thứ 4 và định lượng β-hCG vào ngày 21.
 
 Sau điều trị 4 liều MTX, nếu β-hCG giảm <15% so với lần trước chuyển điều trị phẫu thuật.
 

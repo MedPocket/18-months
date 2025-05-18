@@ -87,7 +87,7 @@ Việc xử lý kết quả tầm soát có thể dựa trên gợi ý của h�
 - BI-RADS 6 là loại chỉ được dùng cho các nhũ ảnh đã được xác định là ung thư qua sinh thiết trước đó. Trong trường hợp này, nhũ ảnh là biện pháp theo dõi điều trị.
 
 ![BI-RADS](../../../../assets/phu-khoa/ung-thu-vu/bi-rads.png)
-_BI-RADS được xây dựng bởi nhiều Hiệp hội khác nhau như ACS, ACOG và Hiệp hội Quang tuyến (Radiology) Hoa kỳ. Tuy nhiên, đứng tên bản quyền là của Hiệp hội Quang tuyến Hoa kỳ. $^2$ Các phiên bản trước đây của BI-RADS không chia loại 4 ra 3 mức A, B, C. Loại 6 cũng mới được đưa vào phiên bản BI-RADS 2015._
+_BI-RADS được xây dựng bởi nhiều Hiệp hội khác nhau như ACS, ACOG và Hiệp hội Quang tuyến (Radiology) Hoa kỳ. Tuy nhiên, đứng tên bản quyền là của Hiệp hội Quang tuyến Hoa kỳ. Các phiên bản trước đây của BI-RADS không chia loại 4 ra 3 mức A, B, C. Loại 6 cũng mới được đưa vào phiên bản BI-RADS 2015._
 
 ### Giải phẫu bệnh
 

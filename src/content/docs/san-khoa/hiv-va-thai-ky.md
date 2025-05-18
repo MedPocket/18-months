@@ -63,7 +63,7 @@ Lợi ích của điều trị sớm và duy trì:
 
 ### Mục tiêu điều trị
 
-Tăng số lượng tế bào CD4 trở về mức bình thường (>500 tế bào/$mm^3$ nếu có thể). CD4 <200/$mm^3$ nguy cơ cao nhiễm trùng cơ hội, được xem là AIDS.
+Tăng số lượng tế bào CD4 trở về mức bình thường (>500 tế bào/mm³ nếu có thể). CD4 <200/mm³ nguy cơ cao nhiễm trùng cơ hội, được xem là AIDS.
 
 Giảm tải lượng virus (HIV RNA) xuống dưới ngưỡng phát hiện (<20-50 copies/mL).
 

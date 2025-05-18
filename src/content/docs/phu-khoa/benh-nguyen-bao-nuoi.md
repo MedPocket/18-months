@@ -133,7 +133,7 @@ Hóa trị dự phòng với Methotrexate (MTX) hoặc Dacticin:
 :::caution[Lưu ý]
 Không sử dụng hóa trị khi:
 
-- Bạch cầu <3000/$mm^3$, bạch cầu đa nhân trung tính <1500/$mm^3$, tiểu cầu <100000/$mm^3$.
+- Bạch cầu <3000/mm³, bạch cầu đa nhân trung tính <1500/mm³, tiểu cầu <100000/mm³.
 - Men gan AST, ALT >100IU/L.
 
 :::
@@ -250,12 +250,12 @@ Hóa trị dự phòng với Methotrexate (MTX):
 
 - MTX 5 ngày: MTX 0.4mmg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
 - MTX 8 ngày (MTX/FA): MTX 1mg/kg hoặc MTX 50mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0.1mg/kg tiêm bắp hoặc uống 15mg sau liều MTX 24-30h vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
-- MTX tuần: MTX 30-50mg/$m^2$ da tĩnh mạch/tuần.
-- MTX 100mg/$m^2$ da tĩnh mạch, sau đó 200mg/$m^2$ da pha trong Glucose 5% 500mL truyền tĩnh mạch trong 12h. 24h sau, Folinic acid 15mg tĩnh mạch/uống x 4 lần/12h. Lặp lại chu kỳ mỗi 18 ngày hoặc khi cần.
+- MTX tuần: MTX 30-50mg/m² da tĩnh mạch/tuần.
+- MTX 100mg/m² da tĩnh mạch, sau đó 200mg/m² da pha trong Glucose 5% 500mL truyền tĩnh mạch trong 12h. 24h sau, Folinic acid 15mg tĩnh mạch/uống x 4 lần/12h. Lặp lại chu kỳ mỗi 18 ngày hoặc khi cần.
 
 hoặc Dacticin:
 
-- Dacticin: 1.25mg/$m^2$ da tĩnh mạch mỗi 2 tuần. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
+- Dacticin: 1.25mg/m² da tĩnh mạch mỗi 2 tuần. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
 - Dacticin: 12 mcg/kg (10-13 mcg/kg) hoặc 0.5mg/ngày tĩnh mạch x 5 ngày liên tục. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
 - Lặp lại thêm 2-3 chu kỳ sau khi β-hCG về âm tính.
 
@@ -275,7 +275,7 @@ Yếu tố liên quan:
 
 Xử trí:
 
-- MTX 50mg/$m^2$ da thất bại → MTX 0.4mg/kg tiêm bắp 5 ngày hoặc Dacticin 12 mcg/kg tiêm bắp 5 ngày.
+- MTX 50mg/m² da thất bại → MTX 0.4mg/kg tiêm bắp 5 ngày hoặc Dacticin 12 mcg/kg tiêm bắp 5 ngày.
 - β-hCG <100IU/L → Dacticin 5 ngày (87%).
 - β-hCG >100IU/L → EMA-CO (99%).
 - Kháng MTX → Dacticin.
@@ -285,25 +285,25 @@ Xử trí:
 Phác đồ EMA-CO:
 
 - Ngày 1:
-  - Etoposide 100mg/$m^2$ da tĩnh mạch trong 30 phút.
+  - Etoposide 100mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
-  - MTX 100mg/$m^2$ da tĩnh mạch.
-  - MTX 200mg/$m^2$ da tĩnh mạch trong 12h.
+  - MTX 100mg/m² da tĩnh mạch.
+  - MTX 200mg/m² da tĩnh mạch trong 12h.
 - Ngày 2:
-  - Etoposide 100mg/$m^2$ da tĩnh mạch trong 30 phút.
+  - Etoposide 100mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
   - Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24h.
 - Ngày 8:
-  - Oncovin (Vincristin) 1mg/$m^2$ da tĩnh mạch, tối đa 2mg.
-  - Cyclophosphamid 600mg/$m^2$ da truyền tĩnh mạch trong 30 phút.
+  - Oncovin (Vincristin) 1mg/m² da tĩnh mạch, tối đa 2mg.
+  - Cyclophosphamid 600mg/m² da truyền tĩnh mạch trong 30 phút.
 
 Phác đồ lặp lại mỗi 2 tuần. Lặp lại thêm 3-4 chu kỳ sau khi β-hCG âm tính.
 
 :::caution[Lưu ý]
 Tiêu chuẩn để hóa trị:
 
-- Ngày 1 và 2: Bạch cầu ≥3000/$mm^3$, bạch cầu đa nhân trung tính ≥1500/$mm^3$.
-- Ngày 8. Bạch cầu ≥2000/$mm^3$, bạch cầu đa nhân trung tính ≥1000/$mm^3$.
+- Ngày 1 và 2: Bạch cầu ≥3000/mm³, bạch cầu đa nhân trung tính ≥1500/mm³.
+- Ngày 8. Bạch cầu ≥2000/mm³, bạch cầu đa nhân trung tính ≥1000/mm³.
 
 :::
 
@@ -311,10 +311,10 @@ Nếu kháng EMA-CO:
 
 - Sử dụng phác đồ EMA-EP hoặc EP-EMA: ngày điều trị CO được thay bằng EP:
   - Cisplatin 70-80mg pha 1L truyền tĩnh mạch hơn 12h.
-  - Etoposide 100mg/$m^2$ da (150mg/$m^2$ da) được truyền tĩnh mạch hơn 1h.
+  - Etoposide 100mg/m² da (150mg/m² da) được truyền tĩnh mạch hơn 1h.
 - Phác đồ BEP:
-  - Cisplatin 20mg/$m^2$ da truyền tĩnh mạch.
-  - Etoposide 100mg/$m^2$ da truyền tĩnh mạch vào ngày 1-4.
+  - Cisplatin 20mg/m² da truyền tĩnh mạch.
+  - Etoposide 100mg/m² da truyền tĩnh mạch vào ngày 1-4.
   - Bleomycin 30 đơn vị tiêm tĩnh mạch hằng tuần.
 - Phác đồ TP/TE:
   - Ngày 1:
@@ -322,32 +322,32 @@ Nếu kháng EMA-CO:
     - Dexamethasone 20mg uống trước liều Paclitaxel 6h.
     - Cimetidine 30mg + 100mL NaCl 0.9% truyền trong 30 phút.
     - Chlorphenamine 100mg tĩnh mạch.
-    - Paclitaxel 135mg/$m^2$ da + 250mL NaCl 0.9% truyền trong 3h.
+    - Paclitaxel 135mg/m² da + 250mL NaCl 0.9% truyền trong 3h.
     - Mannitol 10% truyền trong 1h.
-    - Cisplatin 60mg/$m^2$ da pha 1000mL NaCl 0.9% truyền trong 3h.
+    - Cisplatin 60mg/m² da pha 1000mL NaCl 0.9% truyền trong 3h.
     - Sau khi truyền thuốc, truyền tĩnh mạch 1000mL NaCl 0.9% + KCl 20mmol + 1g $MgSO_4$ truyền trong 2h.
   - Ngày 15:
     - Dexamethasone 20mg uống trước liều Paclitaxel 12h.
     - Dexamethasone 20mg uống trước liều Paclitaxel 6h.
     - Cimetidine 30mg + 100mL NaCl 0.9% truyền trong 30 phút.
     - Chlorphenamine 100mg tĩnh mạch.
-    - Paclitaxel 135mg/$m^2$ da + 250mL NaCl 0.9% truyền trong 3h.
-    - Etoposide 150mg/$m^2$ da pha 1000mL NaCl 0.9% truyền trong 1h.
+    - Paclitaxel 135mg/m² da + 250mL NaCl 0.9% truyền trong 3h.
+    - Etoposide 150mg/m² da pha 1000mL NaCl 0.9% truyền trong 1h.
 
 #### U nguyên bào nuôi di căn não
 
 - Ngày 1:
-  - Etoposide 100mg/$m^2$ da tĩnh mạch trong 30 phút.
+  - Etoposide 100mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
-  - MTX 100mg/$m^2$ da tĩnh mạch.
-  - MTX 200mg/$m^2$ da tĩnh mạch trong 12h.
+  - MTX 100mg/m² da tĩnh mạch.
+  - MTX 200mg/m² da tĩnh mạch trong 12h.
 - Ngày 2:
-  - Etoposide 100mg/$m^2$ da tĩnh mạch trong 30 phút.
+  - Etoposide 100mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
   - Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24h.
 - Ngày 8:
-  - Oncovin (Vincristin) 1mg/$m^2$ da tĩnh mạch, tối đa 2mg.
-  - Cyclophosphamid 600mg/$m^2$ da truyền tĩnh mạch trong 30 phút.
+  - Oncovin (Vincristin) 1mg/m² da tĩnh mạch, tối đa 2mg.
+  - Cyclophosphamid 600mg/m² da truyền tĩnh mạch trong 30 phút.
 - Kết hợp xạ trị 3000 cGy.
 
 #### U nguyên bào nuôi tái phát
@@ -364,8 +364,8 @@ Chèn gạc cầm máu khi xuất huyết âm đạo nhiều và không thể m�
 
 3 ngày liên tục lặp lại mỗi tuần:
 
-- Etoposide 100mg/$m^2$ da truyền tĩnh mạch trong 1h.
-- Cisplatin 20mg/$m^2$ da truyền tĩnh mạch trong 2h.
+- Etoposide 100mg/m² da truyền tĩnh mạch trong 1h.
+- Cisplatin 20mg/m² da truyền tĩnh mạch trong 2h.
 
 #### Thai trứng xâm lấn
 

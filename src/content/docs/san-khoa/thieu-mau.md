@@ -81,14 +81,14 @@ Tổng hợp chuỗi α được quy định bởi 4 gene α thuộc NST 16, đ�
 
 Gồm 3 thể: nặng, trung gian và ẩn.
 
-Thể nặng do đồng hợp tử 1 đột biến hay dị hợp tử kép 2 đột biến $β^0$:
+Thể nặng do đồng hợp tử 1 đột biến hay dị hợp tử kép 2 đột biến β⁰:
 
 - Bệnh biểu hiện sớm khi trẻ mới sinh hoặc vài tháng tuổi.
 - Đặc điểm lâm sàng của thể nặng là thiếu máu nặng, vàng da, gan lách to...
 - Đứa trẻ cần được truyền máu thải sắt để duy trì sự sống. Đặc điểm huyết học của thể nặng là số lượng hồng cầu giảm, nồng độ Hb <70g/l, MCV, MCH giảm, ferritin bình thường hoặc tăng. Điện di Hb: HbF và HbA2 tăng.
 - Đứa trẻ cần được truyền máu thải sắt để duy trì sự sống. Đặc điểm huyết học của thể nặng là số lượng hồng cầu giảm, nồng độ Hb <70g/l, MCV, MCH giảm, ferritin bình thường hoặc tăng. Điện di Hb: HbF và HbA2 tăng.
 
-Thể trung gian do kết hợp 2 đột biến $β^+$ hoặc kết hợp 1 đột biến $β^+$ và 1 đột biến $β^0$. Tình trạng thiếu máu nhẹ hơn, bệnh biểu hiện muộn hơn.
+Thể trung gian do kết hợp 2 đột biến β⁺ hoặc kết hợp 1 đột biến β⁺ và 1 đột biến β⁰. Tình trạng thiếu máu nhẹ hơn, bệnh biểu hiện muộn hơn.
 
 Thể ẩn (người lành mang gene bệnh) thường do dị hợp tử 1 đột biến. Thể ẩn hiếm khi có triệu chứng lâm sàng, chỉ phát hiện khi xét nghiệm máu tình cờ. Nồng độ Hb giảm nhẹ, MCV và MCH giảm. HbA2 tăng (3.5-7%), có kèm theo hay không kèm tăng HbF (1-3%) tùy loại đột biến.
 

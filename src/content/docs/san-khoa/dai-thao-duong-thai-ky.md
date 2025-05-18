@@ -56,7 +56,7 @@ Khiếm khuyết chức năng tế bào β không bù đủ sự gia tăng của
 
 _Bảng phân loại BMI theo tiêu chuẩn của WHO và theo Châu Á._
 
-Người trưởng thành có BMI ≥23 $kg/m^2$ và có 1 trong các nguy cơ sau:
+Người trưởng thành có BMI ≥23 kg/m² và có 1 trong các nguy cơ sau:
 
 - Gia đình có người mắc đái tháo đường thế hệ cận kề, chiếm 50-60% so với nhóm tiền sử gia đình không có người đái tháo đường.
 - Tiền sử sinh con to cân nặng trẻ sơ sinh to ≥4000 gam vừa là hậu quả của đái tháo đường, vừa là yếu tố nguy cơ cho mẹ ở những lần mang thai sau.
@@ -231,10 +231,10 @@ Theo dõi glucose huyết tương mao mạch trong 2 tuần có hướng dẫn c
 
 | BMI trước khi mang thai                          | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
 | ------------------------------------------------ | ------------- | ------------------------------------------------------------------------ |
-| Thiếu năng lượng trường diễn (BMI<18.5 kg/$m^2$) | 12.5-18       | 0.51 (0.44-0.58)                                                         |
-| Bình thường (BMI 18.5-22.9 kg/$m^2$)             | 11.5-16       | 0.42 (0.35-0.50)                                                         |
-| Thừa cân (BMI 23.0-24.9 kg/$m^2$)                | 7-11.5        | 0.28 (0.23-0.33)                                                         |
-| Béo phì (BMI >24.9 kg/$m^2$)                     | 5-9           | 0.22 (0.17-0.27)                                                         |
+| Thiếu năng lượng trường diễn (BMI<18.5 kg/m²) | 12.5-18       | 0.51 (0.44-0.58)                                                         |
+| Bình thường (BMI 18.5-22.9 kg/m²)             | 11.5-16       | 0.42 (0.35-0.50)                                                         |
+| Thừa cân (BMI 23.0-24.9 kg/m²)                | 7-11.5        | 0.28 (0.23-0.33)                                                         |
+| Béo phì (BMI >24.9 kg/m²)                     | 5-9           | 0.22 (0.17-0.27)                                                         |
 
 _Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)._
 

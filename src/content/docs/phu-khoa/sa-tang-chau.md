@@ -28,7 +28,7 @@ _Phân loại - Phân độ sa tạng chậu._
 
 Quy ước 9 mốc cần đo:
 
-- Đơn vị đo cm, người bệnh tư thế sản phụ khoa, đầu cao $45^o$, rặn trong quá trình đánh giá.
+- Đơn vị đo cm, người bệnh tư thế sản phụ khoa, đầu cao 45°, rặn trong quá trình đánh giá.
 - Dụng cụ van âm đạo, thước đo, kẹp tim, pozzi.
 - Điểm cố định: Aa, Ap cách niệu quản, mép màng trinh 3cm.
 - Điểm thay đổi: Ba, Bp là điểm phồng xa nhất của đoạn âm đạo từ Aa, Ap đến túi cùng trước và sau khi BN rặn ± hỗ trợ kéo cổ tử cung bằng pozzi hoặc kẹp tim.
@@ -208,7 +208,7 @@ Tình trạng BN không cho phép gây mê kéo dài >2h.
 
 BN có tiền sử vết mổ cũ trên bụng nhiều lần (≥2 lần), hoặc tiền sử nhiễm trùng vết mổ.
 
-BN béo phì (BMI ≥30 kg/$m^2$).
+BN béo phì (BMI ≥30 kg/m²).
 
 Tiền sử thất bại với các phẫu thuật treo tử cung ngả bụng.
 
