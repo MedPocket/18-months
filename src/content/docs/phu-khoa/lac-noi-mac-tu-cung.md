@@ -458,7 +458,7 @@ _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm m
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
-- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA - Bệnh viện Từ Dũ.
-- 5306/QĐ-BYT "HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ LẠC NỘI MẠC TỬ CUNG" - Bộ Y Tế 2019.
-- HƯỚNG DẪN LÂM SÀNG VỀ LẠC NỘI MẠC TỬ CUNG - Hội Nội tiết sinh sản và Vô sinh TPHCM (HOSREM).
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
+- Bệnh viện Từ Dũ (2022) - PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA.
+- Bộ Y Tế (2019) 5306/QĐ-BYT - HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ LẠC NỘI MẠC TỬ CUNG.
+- Hội Nội tiết sinh sản và Vô sinh TPHCM (HOSREM) - HƯỚNG DẪN LÂM SÀNG VỀ LẠC NỘI MẠC TỬ CUNG.

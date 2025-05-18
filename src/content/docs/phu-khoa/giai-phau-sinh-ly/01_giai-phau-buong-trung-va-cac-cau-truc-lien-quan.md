@@ -44,4 +44,4 @@ _Động mạch chậu trong cấp máu cho tử cung, và qua các nhánh nối
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.

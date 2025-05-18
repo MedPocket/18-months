@@ -37,4 +37,4 @@ Các nguyên nhân chính của xuất huyết 3 tháng giữa và 3 tháng cu�
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.

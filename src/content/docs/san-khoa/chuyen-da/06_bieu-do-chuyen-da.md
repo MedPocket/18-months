@@ -137,4 +137,4 @@ Sản đồ cũng hỗ trợ đắc lực cho đơn vị chăm sóc y tế tuy�
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.

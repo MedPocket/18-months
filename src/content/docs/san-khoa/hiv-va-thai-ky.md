@@ -155,6 +155,6 @@ Phụ nữ mang thai cần tuân thủ chặt chẽ chế độ dùng thuốc AR
 
 ## Nguồn tham khảo
 
-1. World Health Organization (WHO). (2021). -Consolidated guidelines on HIV prevention, testing, treatment, service delivery and monitoring-. [Link](https://www.who.int)
-2. Centers for Disease Control and Prevention (CDC). (2022). -HIV and Pregnancy-. [Link](https://www.cdc.gov)
-3. American College of Obstetricians and Gynecologists (ACOG). (2020). -Committee Opinion No. 762: Human Immunodeficiency Virus (HIV) and Pregnancy-. [Link](https://www.acog.org)
+1. World Health Organization (WHO) (2021) - Consolidated guidelines on HIV prevention, testing, treatment, service delivery and monitoring.
+2. Centers for Disease Control and Prevention (CDC) (2022) - HIV and Pregnancy.
+3. American College of Obstetricians and Gynecologists (ACOG) (2020) - Committee Opinion No. 762: Human Immunodeficiency Virus (HIV) and Pregnancy.

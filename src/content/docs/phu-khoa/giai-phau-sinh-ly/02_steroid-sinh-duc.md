@@ -186,4 +186,4 @@ Nhiều cơ quan không có nguồn gốc ống Muller bị chi phối bởi ste
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.

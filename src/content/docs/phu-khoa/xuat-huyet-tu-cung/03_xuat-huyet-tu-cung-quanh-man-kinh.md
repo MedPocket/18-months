@@ -87,4 +87,4 @@ Xem thêm tại điều trị [Xuất huyết tử cung do cơ năng](/phu-khoa/
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
