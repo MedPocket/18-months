@@ -65,4 +65,4 @@ Trong trường hợp thiếu oxy trường diễn, với hiện tượng giãn 
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._

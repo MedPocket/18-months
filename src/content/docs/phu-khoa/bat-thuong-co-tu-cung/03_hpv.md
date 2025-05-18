@@ -224,4 +224,4 @@ _Lựa chọn 2. Quản lý phụ nữ 30 tuổi với kết quả tế bào h�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._

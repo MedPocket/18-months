@@ -170,9 +170,8 @@ Canxi: Sắt và canxi không nên uống cùng nhau, vì canxi có thể làm g
 
 ## Nguồn tham khảo
 
-- [WHO - Iron and folic acid supplementation](https://www.who.int/nutrition/publications/micronutrients/guidelines/iron_folic_acid_supplementation/en/)
-- [CDC - Nutrition During Pregnancy](https://www.cdc.gov/nutrition/pregnancy-and-breastfeeding.html)
-- [Nutrition During Pregnancy](https://www.ncbi.nlm.nih.gov/books/NBK217107/)
-- [ACOG - Nutrition During Pregnancy](https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy)
-- [PubMed - Maternal Nutrition and Pregnancy](https://pubmed.ncbi.nlm.nih.gov/)
-- [UNICEF - Maternal Nutrition](https://www.unicef.org/documents/maternal-nutrition)
+- WHO - [_Iron and folic acid supplementation._](https://www.who.int/nutrition/publications/micronutrients/guidelines/iron_folic_acid_supplementation/en/)
+- CDC - [_Nutrition During Pregnancy._](https://www.cdc.gov/nutrition/pregnancy-and-breastfeeding.html)
+- NCBI - [_Nutrition During Pregnancy._](https://www.ncbi.nlm.nih.gov/books/NBK217107/)
+- ACOG - [_Nutrition During Pregnancy._](https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy)
+- UNICEF - [_Maternal Nutrition._](https://www.unicef.org/documents/maternal-nutrition)

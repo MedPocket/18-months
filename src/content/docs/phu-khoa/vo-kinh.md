@@ -204,6 +204,5 @@ Vòng kinh nhân tạo là phương pháp dùng estrogen và progesterone theo t
 
 ## Nguồn tham khảo
 
-- Bài giảng vô kinh không hành kinh - https://www.dieutri.vn/bgsanphukhoa/bai-giang-vo-kinh-khong-hanh-kinh
-
-- Vô kinh - https://www.msdmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea
+- Dieutri - [_Bài giảng vô kinh không hành kinh._](https://www.dieutri.vn/bgsanphukhoa/bai-giang-vo-kinh-khong-hanh-kinh)
+- MSD - [_Vô kinh._](https://www.msdmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea)

@@ -74,4 +74,4 @@ Khảo sát β-hCG tĩnh và động học β-hCG là các khảo sát thứ c�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._

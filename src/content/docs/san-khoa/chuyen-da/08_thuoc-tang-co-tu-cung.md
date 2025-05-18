@@ -204,4 +204,4 @@ Tác dụng phụ:
 
 ## Nguồn tham khảo
 
-- THỰC HÀNH SẢN PHỤ KHOA - PGS.TS. Trần Thị Lợi, GS.TS. Nguyễn Duy Tài.
+- PGS.TS. Trần Thị Lợi, GS.TS. Nguyễn Duy Tài - _THỰC HÀNH SẢN PHỤ KHOA._

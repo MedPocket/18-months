@@ -121,4 +121,4 @@ Với các tình huống rau bong non và thai có khả năng sống và không
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._

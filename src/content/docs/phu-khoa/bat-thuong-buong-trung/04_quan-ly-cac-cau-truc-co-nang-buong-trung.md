@@ -89,4 +89,4 @@ Do tất cả các cấu trúc noãn nang đều bị kích thích nên nang ho�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._

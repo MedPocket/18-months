@@ -65,5 +65,5 @@ Chi tiết điều trị cụ thể đọc thêm tại [Viêm âm đạo nhiễm
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
-- Bệnh viện Từ Dũ (2022) - PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._

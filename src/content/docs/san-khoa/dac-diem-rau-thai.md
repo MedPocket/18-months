@@ -64,4 +64,4 @@ Rau thai là phần phụ của thai:
 
 ## Nguồn tham khảo
 
-- [Quá trình hình thành rau thai?](https://www.vinmec.com/vi/bai-viet/qua-trinh-hinh-thanh-rau-thai) - Vinmec.
+- Vinmec - [_Quá trình hình thành rau thai?_](https://www.vinmec.com/vi/bai-viet/qua-trinh-hinh-thanh-rau-thai)

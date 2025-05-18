@@ -59,4 +59,4 @@ Khi tư vấn lựa chọn 1 phương pháp tránh thai, người tư vấn nên
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._

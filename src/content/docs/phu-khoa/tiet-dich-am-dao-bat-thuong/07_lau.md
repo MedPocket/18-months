@@ -247,4 +247,4 @@ Khám sàng lọc định kỳ các nhiễm trùng lây truyền qua đường t
 ## Nguồn tham khảo
 
 - BỘ Y TẾ (2021) - HÀNH HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ BỆNH LẬU.
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._

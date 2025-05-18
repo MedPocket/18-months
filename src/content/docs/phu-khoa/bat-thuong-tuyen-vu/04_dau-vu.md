@@ -128,5 +128,5 @@ _Đánh giá và xử trí đau vú Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
-- Bệnh viện Từ Dũ (2022) - PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._

@@ -102,5 +102,5 @@ Giữa 2 cơn co tử cung, hết đau thì thở sâu điều hòa, dưỡng s�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
 - [Cách thở và rặn sinh trong cuộc chuyển dạ](https://tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/cach-tho-va-ran-sinh-trong-cuoc-chuyen-da/) - Bệnh viện Từ Dũ.

@@ -638,7 +638,7 @@ Ngừng các thuốc hạ đường huyết khác insulin khi có thai. Nên s�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
-- Bệnh viện Từ Dũ (2022) - PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA.
-- [TS. Lê Quang Toàn - Bài giảng đái tháo đường thai kỳ](https://www.youtube.com/watch?v=WV4g4cJdMCo).
-- Bộ Y Tế (2023) - Hướng dẫn quốc gia về sàng lọc và quản lý đái tháo đường thai kỳ.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
+- TS. Lê Quang Toàn - [_Bài giảng đái tháo đường thai kỳ._](https://www.youtube.com/watch?v=WV4g4cJdMCo).
+- Bộ Y Tế (2023) - _HƯỚNG DẪN QUỐC GIA VỀ SÀNG LỌC VÀ QUẢN LÝ ĐÁI THÁO ĐƯỜNG THAI KỲ._

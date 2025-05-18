@@ -96,4 +96,4 @@ _Phác đồ xử trí thiểu ối đơn thuần Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
-- Bệnh viện Từ Dũ (2022) - PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA.
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._

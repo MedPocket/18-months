@@ -76,5 +76,5 @@ Nên tiêm huyết thanh viêm gan B cho con từ 11 - 12h đầu sau sinh, cầ
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - TEAM-BASED LEARNING.
-- Bộ Y tế (2019) quyết định 3310/QĐ-BYT - HƯỚNG DẪN CHẨN ĐOÁN, ĐIỀU TRỊ BỆNH VIÊM GAN VIRUS B.
+- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Bộ Y tế (2019) quyết định 3310/QĐ-BYT - _HƯỚNG DẪN CHẨN ĐOÁN, ĐIỀU TRỊ BỆNH VIÊM GAN VIRUS B._
