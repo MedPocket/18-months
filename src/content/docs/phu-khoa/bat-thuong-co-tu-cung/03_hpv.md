@@ -32,9 +32,10 @@ Hơn 200 type HPV đã được định danh, trong đó ~85 type đã mô tả 
 
 ### Yếu tố nguy cơ lây nhiễm
 
-1. Quan hệ tình dục sớm, nhiều bạn tình, tiền sử STI.
-2. Bao cao su không hoàn toàn ngăn HPV.
-3. Phổ nhiễm cao ở 18–30 tuổi, giảm sau 30 do tế bào cổ tử cung biệt hóa hoàn chỉnh.
+- Quan hệ tình dục sớm, có nhiều bạn tình, tiền sử các bệnh lây truyền qua đường tình dục.
+- Sử dụng bao cao su không hoàn toàn ngăn chặn được HPV.
+- Tỷ lệ nhiễm cao ở độ tuổi 18–30, giảm sau 30 do tế bào cổ tử cung biệt hóa hoàn chỉnh, giảm tính cảm nhiễm với virus.
+
 
 ### HPV và ung thư
 
@@ -65,9 +66,13 @@ _Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ ch
 
 ### Các loại vaccine
 
-- **Nhị giá (2vHPV):** bảo vệ type 16, 18.
-- **Tứ giá (4vHPV):** thêm type 6, 11.
-- **Cửu giá (9vHPV):** bổ sung 31, 33, 45, 52, 58.
+| Loại vaccine | Type bảo vệ                  | Phổ bảo vệ                           |
+|--------------|------------------------------|--------------------------------------|
+| 2vHPV        | 16, 18                       | Ung thư cổ tử cung (~66%)            |
+| 4vHPV        | 6, 11, 16, 18                | Thêm mụn cóc sinh dục (6, 11)        |
+| 9vHPV        | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao (~15%)  |
+
+_Phổ bảo vệ của vaccine 2vHPV, 4vHPV và 9vHPV_
 
 | Thông số                          | Vaccine HPV từ giá            | Vaccine HPV nhị giá            |
 |-----------------------------------|--------------------------------|---------------------------------|
@@ -94,8 +99,9 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 ### Sử dụng vaccine theo ACIP
 
 :::note[Đối tượng]
-- Gái/trai 9–12 tuổi (khuyến cáo mạnh: 11–12 tuổi), 4vHPV cho trai.
-- Chưa tiêm: nữ đến 26, nam đến 21 (mở rộng đến 26 cho người đồng tính và chuyển giới).
+- Trẻ gái và trai 9–12 tuổi (khuyến cáo mạnh 11–12 tuổi).
+- Trẻ trai ưu tiên 4vHPV.
+- Người chưa tiêm: nữ đến 26 tuổi; nam đến 21 tuổi (mở rộng đến 26 tuổi cho đồng tính và người chuyển giới).
 - Trẻ em bị lạm dụng tình dục: bắt đầu từ 9 tuổi.
 :::
 
@@ -105,14 +111,16 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 :::
 
 :::caution[Lưu ý]
-- Tuân thủ khoảng cách tối thiểu: liều 1–2 ≥4 tuần, 2–3 ≥12 tuần, 1–3 ≥40 tuần.
-- Tiếp tục lịch khi trễ hẹn, không phải lặp lại từ đầu.
+- Không cần tầm soát Pap, HPV DNA hay kháng thể trước tiêm.
+- Tuân thủ khoảng cách tối thiểu: liều 1–2 ≥4 tuần; liều 2–3 ≥12 tuần; liều 1–3 ≥40 tuần.
+- Trễ hẹn: tiếp tục liệu trình, không phải bắt đầu lại.
 - Chống chỉ định: dị ứng nấm men (4v/9vHPV), không tiêm khi mang thai.
-- Tiêm chung với các vaccine khác được, không trộn chung ống tiêm.
-- Theo dõi 15 phút sau tiêm do nguy cơ phản ứng của dây thần kinh X dẫn tới ngất sau tiêm.
+- Có thể tiêm đồng thời với vaccine khác, nhưng không trộn chung ống tiêm.
+- Theo dõi 15 phút sau tiêm do nguy cơ phản ứng ngất sinh lý.
+- Phụ nữ đã phơi nhiễm HPV hoặc có tổn thương cổ tử cung bất thường vẫn được khuyến khích tiêm để phòng các type chưa nhiễm.
 :::
 
-> **FDA** chỉ dán nhãn 4vHPV và 9vHPV cho bé trai; 9vHPV được khuyến nghị vì hiệu quả rộng và chi phí quản lý hợp lý.  
+> **FDA** chỉ dán nhãn 4vHPV và 9vHPV cho bé trai; 9vHPV được khuyến nghị vì hiệu quả rộng và chi phí quản lý ít hơn 2 loại trước đó.
 > Dù tiêm đầy đủ, vẫn cần tầm soát ung thư cổ tử cung định kỳ (Pap smear và/hoặc HPV DNA) do vaccine không phòng được hết tất cả các loại virus HPV.
 
 ## HPV testing
