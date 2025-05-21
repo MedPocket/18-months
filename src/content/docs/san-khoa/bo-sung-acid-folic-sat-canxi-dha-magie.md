@@ -145,16 +145,6 @@ Magie (Mg) tham gia >300 phản ứng sinh hóa, quan trọng cho mẹ và thai 
 - Magie nếu cần bổ sung, uống sau bữa ăn nhẹ để giảm tiêu chảy.
 :::
 
-## Tóm tắt
-
-- **Acid folic**: 400–800µg/ngày, ngừa dị tật ống thần kinh.  
-- **DHA**: 200–300mg/ngày, phát triển não – thị giác.  
-- **Sắt**: 30–60mg/ngày, phòng thiếu máu, tăng oxy thai nhi.  
-- **Canxi**: 1.000–1.200mg/ngày, phát triển xương – răng, giảm loãng xương mẹ.  
-- **Magie**: 200mg/ngày (nếu cần), giảm chuột rút, hỗ trợ giấc ngủ.  
-
-Tuân thủ liều, thời điểm, kết hợp chế độ ăn đa dạng.
-
 ## Nguồn tham khảo
 
 - WHO - [_Iron and folic acid supplementation._](https://www.who.int/nutrition/publications/micronutrients/guidelines/iron_folic_acid_supplementation/en/)
