@@ -74,7 +74,7 @@ Do cấu tạo tương tự LH, nên có thể dùng hCG cho 1 số trường h�
 ### Thúc đẩy quá trình phát triển bào thai
 
 hCG được sản xuất từ khối hội bào nuôi còn có thể tác động theo con đường cận tiết để thúc đầy sự phát triển chất nền nội mạc tử cung, tăng tạo mạch để hỗ trợ cho quá trình làm tổ của phôi, tác động trên các tế bào trực tiếp tiếp xúc với nguyên bào nuôi tạo ra thay đổi trong cấu trúc thành mạch các
-mạch máu xoắn ốc, đảm bảo màng rụng hóa... là các biến đổi quan trọng giúp cho tiến trình phát triển của bào thai.
+mạch máu xoắn ốc, đảm bảo màng rụng hóa… là các biến đổi quan trọng giúp cho tiến trình phát triển của bào thai.
 
 hCG là kích thích tinh hoàn thai nhi sản xuất ra testosterone.
 
@@ -124,5 +124,5 @@ hCG phải được kết hợp với siêu âm để chẩn đoán. Trong trư�
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
 - [Early Fetal Development](https://americanpregnancy.org/healthy-pregnancy/pregnancy-health-wellness/early-fetal-development) - American Pregnancy Association.

@@ -46,7 +46,7 @@ Phải cung cấp đủ thông tin cần thiết cho người đọc tế bào c
 
 Pap’s test quy ước: thực hiện 2 lame phết tế bào cổ ngoài và cổ trong. Trên lame có ghi bằng bút chì đầy đủ tên, tuổi, và vị trí lấy bệnh phẩm là cổ tử cung ngoài hay cổ tử cung trong) bằng viết chì. Pap’s test Thin Prep, làm tương tự với lọ đựng mẫu tế bào thu thập được.
 
-Tế bào lấy ra được cố định bằng dung dịch cồn $95^o$ hoặc keo phun (Pap’s test quy ước) hoặc bằng môi trường của Thin Prep (Pap’s test nhúng dịch).
+Tế bào lấy ra được cố định bằng dung dịch cồn 95° hoặc keo phun (Pap’s test quy ước) hoặc bằng môi trường của Thin Prep (Pap’s test nhúng dịch).
 
 ![Dụng cụ làm Pap's test](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/dung-cu-lam-pap.png)
 _Dụng cụ để làm Pap’s test (từ trái sang):<br>1. Cytobrush dùng cho kênh cổ tử cung.<br>2. Que Ayre dùng cho Pap’s test quy ước.<br>3. Chổi lớn thường dùng cho Pap’s test Thin Prep._
@@ -86,7 +86,7 @@ Kết quả tầm soát âm tính khi không có bằng chứng về mặt tế 
   Trạng thái tế bào tuyến sau cắt tử cung<br>
   _Glandular cell status post hysterectomy_
 - Những thay đổi tế bào do vi sinh vật:
-  Trichomonad vaginalis, nấm (Candida sp), vi khuẩn (Gardnerella, Chlamydia trachomatis...), virus (HSV, HPV...)
+  Trichomonad vaginalis, nấm (Candida sp), vi khuẩn (Gardnerella, Chlamydia trachomatis…), virus (HSV, HPV…)
 
 #### Khác
 
@@ -252,7 +252,7 @@ Kết quả soi cổ tử cung được trả lời theo bảng phân loại soi
 
 (D) Nhóm hình ảnh soi cổ tử cung không đầy đủ: không quan sát thấy vùng chuyển tiếp, nhiễm trùng nặng hay thiểu dưỡng nặng (sau mãn kinh), hay hẹp âm đạo không thể nhìn thấy cổ tử cung.
 
-(E) Nhóm các dấu hiệu soi khác: viêm cổ tử cung-âm đạo, loét cổ tử cung, teo biểu mô, condyloma và papilloma, các dạng khác: polyp kênh cổ tử cung, u nhú, nang Naboth...
+(E) Nhóm các dấu hiệu soi khác: viêm cổ tử cung-âm đạo, loét cổ tử cung, teo biểu mô, condyloma và papilloma, các dạng khác: polyp kênh cổ tử cung, u nhú, nang Naboth…
 
 ![Hình ảnh cổ tử cung bình thường qua soi cổ](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-binh-thuong.png)
 _Cổ tử cung bình thường qua soi cổ tử cung._
@@ -268,4 +268,4 @@ _Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non._
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

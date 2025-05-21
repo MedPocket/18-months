@@ -52,7 +52,7 @@ Steroids sinh dục có 2 kiểu tác động:
 
 Tác động không qua gene của steroid sinh dục có thể thấy trên các cơ quan đích có nguồn gốc Müller lẫn các cơ quan đích không có nguồn gốc Müller.
 
-Trong kiểu tác động không qua gene, hormone gắn vào thụ thể kiểu GPCR trên màng bào tương. Hàng loạt các phản ứng dây chuyền, là các dòng thác tín hiệu thứ cấp của các phân tử trọng yếu như $Ca^{++}$, PI3K/Akt, MAPK, Protein Kinase C, AMP vòng... được kích hoạt tức khắc sau khi hormone tiếp xúc với thụ thể. Các dòng thác tín hiệu thứ cấp này sẽ tạo ra biểu hiện của tác động không qua gene của hormone: co cơ, phóng thích kisspeptin từ các KNDy neuron thuộc nhân cung...
+Trong kiểu tác động không qua gene, hormone gắn vào thụ thể kiểu GPCR trên màng bào tương. Hàng loạt các phản ứng dây chuyền, là các dòng thác tín hiệu thứ cấp của các phân tử trọng yếu như $Ca^{++}$, PI3K/Akt, MAPK, Protein Kinase C, AMP vòng… được kích hoạt tức khắc sau khi hormone tiếp xúc với thụ thể. Các dòng thác tín hiệu thứ cấp này sẽ tạo ra biểu hiện của tác động không qua gene của hormone: co cơ, phóng thích kisspeptin từ các KNDy neuron thuộc nhân cung…
 
 Đặc điểm của kiểu tác động không qua gene là nhanh chóng, lệ thuộc liều, chuyên biệt thấp, có thể đảo ngược. Tác động không qua gene lệ thuộc mạnh vào nồng độ của hormone, và thường đòi hỏi các nồng độ tương đối cao (ở mức micromol) của hormone hay chất tương tự.
 
@@ -182,8 +182,8 @@ Nồng độ cao progesterone trong pha hoàng thể khống chế hoạt độn
 
 Tuyến vú là cơ quan không có nguồn gốc ống Muller nhưng chịu tác động của cả 2 steroids sinh dục bằng cơ chế qua gene.
 
-Nhiều cơ quan không có nguồn gốc ống Muller bị chi phối bởi steroids sinh dục như sự tạo xương, chuyển hóa lipid... Chúng thường chỉ chịu ảnh hưởng của 1 trong 2 steroids sinh dục. Hầu hết các tác động này là tác động không qua gene, và thường xảy ra tức thời.
+Nhiều cơ quan không có nguồn gốc ống Muller bị chi phối bởi steroids sinh dục như sự tạo xương, chuyển hóa lipid… Chúng thường chỉ chịu ảnh hưởng của 1 trong 2 steroids sinh dục. Hầu hết các tác động này là tác động không qua gene, và thường xảy ra tức thời.
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

@@ -111,10 +111,10 @@ Việc bổ sung các Lactobacillus có thể làm giảm tần xuất tái phá
 
 Điều trị chọn lọc khi loạn khuẩn âm đạo không triệu chứng, có 2 khả năng: (1) hoặc người này thuộc kiểu trạng thái khuẩn hệ không Lactobacillus với ưu thế yếm khí, (2) hoặc người này có khuẩn hệ bị rối loạn, nhưng bảo tồn về chức năng do đáp ứng thích nghi của khuẩn hệ. Trong tình huống này, nếu không có triệu chứng lâm sàng thì không có chỉ định can thiệp điều trị. Tuy nhiên, với nhóm đặc biệt này, sẽ cần phải điều trị khi:
 
-1. Phải thực hiện phẫu thuật phụ khoa, can thiệp qua đường âm đạo như cắt tử cung, đặt dụng cụ tử cung...
+1. Phải thực hiện phẫu thuật phụ khoa, can thiệp qua đường âm đạo như cắt tử cung, đặt dụng cụ tử cung…
 2. Có thai và thuộc nhóm có nguy cơ cao sinh non. Trong trường hợp này, việc can thiệp sớm vào tình trạng loạn khuẩn âm đạo không triệu chứng có thể là có ích trong việc làm giảm nguy cơ sinh non, do khắc phục được tiến trình viêm mạn ở màng bào thai. Lưu ý rằng khi can thiệp cho loạn khuẩn âm đạo ở dạng chỉ định này, can thiệp chỉ có hiệu quả dự phòng sinh non nếu được thực hiện sớm, tức trước tuần thứ 20th, trước khi các cơ chế bệnh sinh của sinh non bị khởi động. Trong chỉ định này, dường như Clindamycin sẽ có hiệu quả hơn Metronidazole.
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
-- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA - Bệnh viện Từ Dũ.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

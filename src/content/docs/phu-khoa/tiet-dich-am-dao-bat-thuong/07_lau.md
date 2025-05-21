@@ -103,19 +103,19 @@ Nấm Candida âm hộ-âm đạo.
 
 Viêm niệu đạo-sinh dục do Ureaplasma, Mycoplasma.
 
-Viêm niệu đạo, âm đạo do các căn nguyên khác: nhiễm khuẩn (E. coli, liên cầu nhóm A, Proteus...) hoặc không do nhiễm khuẩn (chấn thương, viêm da tiếp xúc kích ứng, các bệnh viêm hệ thống như Behcet...).
+Viêm niệu đạo, âm đạo do các căn nguyên khác: nhiễm khuẩn (E. coli, liên cầu nhóm A, Proteus…) hoặc không do nhiễm khuẩn (chấn thương, viêm da tiếp xúc kích ứng, các bệnh viêm hệ thống như Behcet…).
 
 #### Lậu hậu môn trực tràng
 
-Chẩn đoán phân biệt với viêm trực tràng do các nguyên nhân khác như Chlamydia trachomatis, Herpes simplex, nấm... và các viêm trực tràng hậu môn không do nhiễm trùng.
+Chẩn đoán phân biệt với viêm trực tràng do các nguyên nhân khác như Chlamydia trachomatis, Herpes simplex, nấm… và các viêm trực tràng hậu môn không do nhiễm trùng.
 
 #### Lậu hầu họng
 
-Chẩn đoán phân biệt với viêm họng do nguyên nhân khác như liên cầu nhóm A, Mycoplasma, Chlamydia trachomatis, viêm họng do virus...
+Chẩn đoán phân biệt với viêm họng do nguyên nhân khác như liên cầu nhóm A, Mycoplasma, Chlamydia trachomatis, viêm họng do virus…
 
 #### Viêm kết mạc mắt do lậu ở trẻ sơ sinh
 
-Chẩn đoán phân biệt với viêm kết mạc sơ sinh do nguyên nhân khác như tụ cầu, phế cầu, Haemophilus influenzae...
+Chẩn đoán phân biệt với viêm kết mạc sơ sinh do nguyên nhân khác như tụ cầu, phế cầu, Haemophilus influenzae…
 
 ## Điều trị
 
@@ -246,5 +246,5 @@ Khám sàng lọc định kỳ các nhiễm trùng lây truyền qua đường t
 
 ## Nguồn tham khảo
 
-- HÀNH HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ BỆNH LẬU - BỘ Y TẾ 2021.
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- BỘ Y TẾ (2021) - _HÀNH HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ BỆNH LẬU_
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

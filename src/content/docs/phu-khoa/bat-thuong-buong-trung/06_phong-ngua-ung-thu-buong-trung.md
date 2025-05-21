@@ -7,17 +7,17 @@ Chẩn đoán khối tân lập ở buồng trứng luôn luôn phải đi kèm 
 
 ## Nguyên tắc chung
 
-Tất cả các cấu trúc tân lập ở buồng trứng đều phải được điều trị bằng ngoại khoa. Điểm quan trọng nhất khi tiến hành điều trị ngoại khoa các khối tân lập ở buồng trứng là cố gắng ước đoán đến mức chính xác nhất có thể được về khả năng lành tính hay ác tính của khối tân lập, bằng các phương tiện gồm tiền sử, lâm sàng, hình ảnh, chỉ báo khối u...
+Tất cả các cấu trúc tân lập ở buồng trứng đều phải được điều trị bằng ngoại khoa. Điểm quan trọng nhất khi tiến hành điều trị ngoại khoa các khối tân lập ở buồng trứng là cố gắng ước đoán đến mức chính xác nhất có thể được về khả năng lành tính hay ác tính của khối tân lập, bằng các phương tiện gồm tiền sử, lâm sàng, hình ảnh, chỉ báo khối u…
 
-Đối với các cấu trúc có khả năng lành tính cao: thuộc dân số nguy cơ thấp, thỏa các quy tắc lành tính IOTA, ROMA thấp... thì có thể chỉ định phẫu thuật nội soi bảo tồn. Qua nội soi, lần nữa đánh giá lại khả năng lành-ác của u qua đại thể quan sát được trước khi thực hiện bóc u bảo tồn mô lành ở người trẻ. Phẫu thuật phải ở mức sang chấn thấp nhất có thể, nhằm tránh ảnh hưởng xấu đến dự trữ buồng trứng. Đối với người lớn tuổi, phẫn thuật cắt phần phụ được khuyến cáo thay vì phẫu thuật bảo tồn.
+Đối với các cấu trúc có khả năng lành tính cao: thuộc dân số nguy cơ thấp, thỏa các quy tắc lành tính IOTA, ROMA thấp… thì có thể chỉ định phẫu thuật nội soi bảo tồn. Qua nội soi, lần nữa đánh giá lại khả năng lành-ác của u qua đại thể quan sát được trước khi thực hiện bóc u bảo tồn mô lành ở người trẻ. Phẫu thuật phải ở mức sang chấn thấp nhất có thể, nhằm tránh ảnh hưởng xấu đến dự trữ buồng trứng. Đối với người lớn tuổi, phẫn thuật cắt phần phụ được khuyến cáo thay vì phẫu thuật bảo tồn.
 
-Đối với các cấu trúc có khả năng lành tính thấp, hay nghi ngờ ác tính, mang các đặc tính của các quy tắc ác tính IOTA, ROMA cao... thì phải được đánh giá qua mở bụng. Việc thám sát cẩn trọng tình trạng ở bụng là đòi hỏi tiên quyết:
+Đối với các cấu trúc có khả năng lành tính thấp, hay nghi ngờ ác tính, mang các đặc tính của các quy tắc ác tính IOTA, ROMA cao… thì phải được đánh giá qua mở bụng. Việc thám sát cẩn trọng tình trạng ở bụng là đòi hỏi tiên quyết:
 
 1. Tế bào học dịch báng, dịch ổ bụng phải được thực hiện trước tiên, nhằm đánh giá sự lan truyền trong phúc mạc của ung thư.
-2. Thám sát tất cả các cơ quan có thể có liên quan gồm dạ dày, các tạng bụng, kể cả ruột thừa nhằm giúp đánh giá các cơ quan có liên hệ mật thiết về mặt ung thư học (di căn Krukenberg, kèm theo các ung thư khác như ung thư đại trực tràng...).
+2. Thám sát tất cả các cơ quan có thể có liên quan gồm dạ dày, các tạng bụng, kể cả ruột thừa nhằm giúp đánh giá các cơ quan có liên hệ mật thiết về mặt ung thư học (di căn Krukenberg, kèm theo các ung thư khác như ung thư đại trực tràng…).
 3. Khi đã xác định ung thư, với khối u, thực hiện phẫu thuật ở mức tối đa nhưng hợp lý, cắt bỏ khối ung thư trên buồng trứng và những vị trí u xâm lấn hay di căn nếu có thể. Mục đích của phẫu thuật là để loại bỏ càng nhiều khối u càng tốt. Phải cắt trọn u, không được làm vỡ u. Cắt ruột thừa, cắt mạc nối lớn là cần thiết.
 4. Sau khi phẫu thuật, cần cung cấp đủ thông tin TNM cho xác định giai đoạn của ung thư (FIGO).
-5. Điều trị bổ sung sau phẫu thuật sẽ được xác định bởi loại ung thư, giai đoạn của bệnh, và grade mô bệnh học. Điều trị bổ túc có thể là xạ trị hay hóa trị phối hợp (carboplatin, cisplatin, palitaxel...) tùy theo giải phẫu bệnh và giai đoạn ung thư. Tuy nhiên, chủ yếu vẫn là hóa trị.
+5. Điều trị bổ sung sau phẫu thuật sẽ được xác định bởi loại ung thư, giai đoạn của bệnh, và grade mô bệnh học. Điều trị bổ túc có thể là xạ trị hay hóa trị phối hợp (carboplatin, cisplatin, palitaxel…) tùy theo giải phẫu bệnh và giai đoạn ung thư. Tuy nhiên, chủ yếu vẫn là hóa trị.
 6. Nội soi lần thứ nhì để đánh giá (second look) nhằm đánh giá hiệu quả điều trị và tái phát của u.
 
 ## Phòng ngừa ung thư buồng trứng
@@ -54,4 +54,4 @@ Giai đoạn IV: di căn xa, tràn dịch màng phổi, di căn nhu mô gan.
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

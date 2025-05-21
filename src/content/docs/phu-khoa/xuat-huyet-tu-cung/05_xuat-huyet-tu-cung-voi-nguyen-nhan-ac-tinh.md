@@ -46,7 +46,7 @@ Ta thường gặp tăng sinh nội mạc tử cung ở các nhóm có yếu t�
 Ung thư nội mạc tử cung là nguyên nhân của khoảng 5-10% các trường hợp xuất huyết tử cung bất thường sau mãn kinh. Tế bào ung thư xuất phát từ nội mạc tử cung (endometrial carcinoma). Ung thư nội mạc tử cung có các yếu tố nguy cơ sau:
 
 - Tuổi người phụ nữ ≥45 tuổi.
-- Béo phì BMI >30 $kg/m^2$.
+- Béo phì BMI >30 kg/m².
 - Chưa từng có thai.
 - Hội chứng buồng trứng đa nang.
 - Đái tháo đường.
@@ -192,5 +192,5 @@ Cắt tử cung là phương pháp điều trị triệt để đối với các
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
-- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA - Bệnh viện Từ Dũ.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

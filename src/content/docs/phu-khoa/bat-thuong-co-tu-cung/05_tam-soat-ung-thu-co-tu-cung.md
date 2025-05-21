@@ -12,5 +12,5 @@ _\* Các khuyến cáo dựa theo: American Cancer Society (ACS), The American S
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
-- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA - Bệnh viện Từ Dũ.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

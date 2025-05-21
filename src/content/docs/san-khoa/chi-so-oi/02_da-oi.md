@@ -24,7 +24,7 @@ Thiếu máu thai.
 Bất thường hình thái thai:
 
 - Bất thường thần kinh trung ương: não úng thủy, vô sọ, chẻ đôi đốt sống.
-- Bất thường thần kinh - cơ: Nhược cơ, bệnh Steinert, rối loạn nuốt, sức môi...
+- Bất thường thần kinh - cơ: Nhược cơ, bệnh Steinert, rối loạn nuốt, sức môi…
 - Bất thường vùng cổ - lồng ngực: Tăng sinh tuyến dạng nang ở phổi.
 - Tim bẩm sinh.
 - Bất thường hệ tiêu hóa: Hẹp thực quản, hẹp tá tràng.
@@ -32,7 +32,7 @@ Bất thường hình thái thai:
 - Thoát vị hoành.
 - Bất thường thận: Hội chứng Bartter.
 - Bất thường hệ xương.
-- Shunt: Phình tĩnh mạch Galien, bướu quái cùng cụt, bướu máu...
+- Shunt: Phình tĩnh mạch Galien, bướu quái cùng cụt, bướu máu…
 - Hội chứng đa dị tật.
 - Song thai: Hội chứng truyền máu song thai, TRAPs.
 - Phù rau thai.
@@ -43,7 +43,7 @@ Vô căn (30%).
 
 Trên lâm sàng có thể thấy bề cao tử cung lớn hơn tuổi thai.
 
-Dấu hiệu quá tải: Khó thở, tim nhanh...
+Dấu hiệu quá tải: Khó thở, tim nhanh…
 
 Sờ bụng có dấu hiệu sóng vỗ.
 
@@ -68,7 +68,7 @@ Nghiệm pháp dung nạp đường huyết.
 
 Công thức máu mẹ phát hiện nhiễm trùng gồm Toxoplasma gondii, Rubella, CMV, HSV.
 
-Những tuần thai sớm có thể thấy bất thường karyotype thai, TORCH, Thalassemia...
+Những tuần thai sớm có thể thấy bất thường karyotype thai, TORCH, Thalassemia…
 
 ## Xử trí
 
@@ -82,7 +82,7 @@ Những tuần thai sớm có thể thấy bất thường karyotype thai, TORCH
 - Điều trị Indomethasone:
   - Chỉ định: Đa ối vô căn, thai nhi chưa trưởng thành.
   - Liều 25mg (uống), 4 lần/ngày, nếu AFI không giảm trong 2-3 này có thể tăng 3mg/kg/ngày. Giảm hoặc ngưng AFI trước 34 tuần.
-  - Tác dụng phụ lo ngại nhất là nguy cơ đóng ống động mạch sớm ở thai vì thế cần theo dõi Doppler thai mỗi 2 ngày kèm siêu âm. Ngoài ra mẹ có thể trào ngược, nôn ói, viêm dạ dày...
+  - Tác dụng phụ lo ngại nhất là nguy cơ đóng ống động mạch sớm ở thai vì thế cần theo dõi Doppler thai mỗi 2 ngày kèm siêu âm. Ngoài ra mẹ có thể trào ngược, nôn ói, viêm dạ dày…
 
 Liệu pháp corticosteroids thường quy.
 
@@ -127,4 +127,4 @@ Băng huyết sau sinh do đờ tử cung.
 
 ## Nguồn tham khảo
 
-- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA - Bệnh viện Từ Dũ.
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

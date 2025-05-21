@@ -59,7 +59,7 @@ Tất cả phụ nữ mang thai khi phát hiện nhiễm HIV đều được đi
 
 _Trong các thuốc kháng virus viêm gan B hiện nay, telbivudine và tenofovir disoproxil fumarate (TDF) là các thuốc được xếp vào phân loại B (không có nguy cơ trên động vật thí nghiệm, chưa biết trên người), trong khi đó lamivudine, adefovir và entecavir được xếp vào phân loại C (gây quái thai trên động vật thí nghiệm, chưa rõ trên người) theo Cục Quản lý Thực phẩm và Dược Phẩm của Hoa Kỳ. Các thuốc phân loại nhóm B như telbivudine và TDF được cân nhắc chỉ định điều trị cho thai phụ trong quá trình từ 3 tháng đầu tới 3 tháng cuối của thai kỳ. TDF có dữ liệu an toàn trên các thai phụ nhiễm HIV, và rất ít khả năng kháng thuốc._
 
-Tìm hiểu rõ hơn về Hướng dẫn chẩn đoán và điều trị viêm gan virus B của Bộ Y tế năm 2019 tại [đây](/san-khoa/007-04_viem-gan-b-va-thai-ky/QD-3310-ve-viec-huong-dan-chan-doan-va-dieu-tri-viem-gan-vi-ru-b_BYT.pdf).
+Tìm hiểu rõ hơn tại **Hướng dẫn chẩn đoán và điều trị viêm gan virus B của Bộ Y tế năm 2019**.
 
 ## Biện pháp phòng tránh MTCT
 
@@ -76,5 +76,5 @@ Nên tiêm huyết thanh viêm gan B cho con từ 11 - 12h đầu sau sinh, cầ
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
-- QUYẾT ĐỊNH 3310/QĐ-BYT VỀ VIỆC BAN HÀNH HƯỚNG DẪN CHẨN ĐOÁN, ĐIỀU TRỊ BỆNH VIÊM GAN VIRUS B - Bộ Y tế 2019.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bộ Y tế (2019) quyết định 3310/QĐ-BYT - _HƯỚNG DẪN CHẨN ĐOÁN, ĐIỀU TRỊ BỆNH VIÊM GAN VIRUS B_

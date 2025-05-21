@@ -88,7 +88,7 @@ Chỉ có giải phẫu bệnh mới cho phép xác nhận chẩn đoán thai tr
 
 Do 5% thai trứng có thể diễn biến thành choriocarcinoma, nên việc có bằng chứng giải phẫu bệnh là bắt buộc. Do choriocarcinoma có thể phát triển từ thai thường ngưng phát triển, nên đối với các trường hợp thai nghén thất bại sớm, việc khảo sát giải phẫu bệnh là cần thiết.
 
-Khi nghĩ đến thai trứng cần có đầy đủ các xét nghiệm như tổng phần tích tế bào máu, nhóm máu, tổng phân tích nước tiểu, chức năng gan (AST, ALT), thận (ure, creatinine), tuyến giáp (FT3, FT4, TSH), điện tâm đồ, điện giải đồ, X-quang ngực thẳng... Cùng với đó là khám chuyên khoa nội tiết, tim mạch... để chẩn đoán và phục vụ điều trị.
+Khi nghĩ đến thai trứng cần có đầy đủ các xét nghiệm như tổng phần tích tế bào máu, nhóm máu, tổng phân tích nước tiểu, chức năng gan (AST, ALT), thận (ure, creatinine), tuyến giáp (FT3, FT4, TSH), điện tâm đồ, điện giải đồ, X-quang ngực thẳng… Cùng với đó là khám chuyên khoa nội tiết, tim mạch… để chẩn đoán và phục vụ điều trị.
 
 ### Điều trị
 
@@ -133,7 +133,7 @@ Hóa trị dự phòng với Methotrexate (MTX) hoặc Dacticin:
 :::caution[Lưu ý]
 Không sử dụng hóa trị khi:
 
-- Bạch cầu <3000/$mm^3$, bạch cầu đa nhân trung tính <1500/$mm^3$, tiểu cầu <100000/$mm^3$.
+- Bạch cầu <3000/mm³, bạch cầu đa nhân trung tính <1500/mm³, tiểu cầu <100000/mm³.
 - Men gan AST, ALT >100IU/L.
 
 :::
@@ -159,7 +159,7 @@ _Phác đồ 1 nguyên tắc xử trí thai trứng Bệnh viện Từ Dũ._
 
 Trong quá trình theo dõi hậu thai trứng, bệnh nhân bị buộc phải áp dụng phương pháp ngừa thai hiệu quả. Lý do là không để xuất hiện những triệu chứng lâm sàng, những thông tin về hCG và hình ảnh học của thai kỳ mới làm nhiễu loạn việc theo dõi thai trứng:
 
-1. Bao cao su (condom) là lựa chọn tốt, do phương pháp này hoàn toàn không có ảnh hưởng trên diễn biến tự nhiên của hậu thai trứng hay các triệu chứng theo dõi như rong huyết, nhức đầu... Nhược điểm lớn nhất của condom là hiệu quả tránh thai không thật sự cao.
+1. Bao cao su (condom) là lựa chọn tốt, do phương pháp này hoàn toàn không có ảnh hưởng trên diễn biến tự nhiên của hậu thai trứng hay các triệu chứng theo dõi như rong huyết, nhức đầu… Nhược điểm lớn nhất của condom là hiệu quả tránh thai không thật sự cao.
 2. Dụng cụ tử cung tránh thai (Intra Uterine Devices) (IUD) là lựa chọn tốt vì có hiệu quả tránh thai rất cao. Tuy nhiên, các tác dụng phụ của IUD lại là những thông tin gây nhiễu. Quan trọng nhất là rong huyết. Rong huyết dưới IUD làm cho chẩn đoán phân biệt với các thể GTD không kèm tăng cao của hCG như trong trường hợp của bệnh nguyên bào nuôi tồn tại (Persistent Trophoblastic Disease) (PTD) hay PSTT.
 3. Thuốc nội tiết estrogen-progestogen phối hợp (Combined Oral Contraceptive pills - COCs) là lựa chọn tốt, do hiệu quả tránh thai rất cao. Trước đây, có các nghi ngờ rằng COCs hàm lượng thấp có thể ảnh hưởng đến nhịp điệu trở về bình thường của β-hCG, làm tăng nguy cơ phải thực hiện không cần thiết hóa trị liệu vì diễn biến bất thường của β-hCG. Hiện nay, các bằng chứng phủ nhận liên quan của COCs đối với sự diễn biến của β-hCG. COCs cũng không làm tăng tỉ lệ PSTT.
 4. Triệt sản.
@@ -196,7 +196,7 @@ Thai trứng xâm lấn (invasive mole) thể hiện tình trạng các tổ ch�
 
 U nguyên bào nuôi tại vị trí rau bám (Placental Site Trophoblastic Tumour - PSTT) thể hiện sự hiện diện khối u của các tổ chức nguyên bào nuôi tại vị trí rau bám trước đây(thường xảy ra sau sinh). PSTT không phải lúc nào cũng có nguồn gốc là sau thai trứng. PSTT có thể xảy ra cả sau thai thường sống, hoặc sau thai ngưng phát triển. Dù không mang các đặc trưng của ác tính điển hình, nhưng PSTT không phải lúc nào cũng lành tính. Không ít trường hợp bệnh nguyên bào nuôi tồn tại có thể dẫn đến tử vong do di căn. β-hCG thường thấp 16-400 mIU/mL.
 
-Ung thư nguyên bào nuôi (choriocarcinoma) dùng mô tả tân lập ác tính từ mô rau. Ung thư nguyên bào nuôi có thể có xuất phát điểm là thai trứng, hoặc là thai thường (sinh sống hay ngưng phát triển). Ngoài ra, ung thư nguyên bào nuôi có thể có nguồn gốc không liên quan đến thai kỳ, mà có bản chất là u tế bào dòng sinh dục của buồng trứng, trong đó tế bào dòng sinh dục phân chia bất thường, không theo con đường giảm nhiễm, mà theo con đường nguyên nhiễm, rồi phân bào nguyên nhiễm tiếp tục để thành ung thư. Trong trường hợp này ta có bệnh nguyên bào nuôi không liên quan đến thai kỳ (non-gestational choriocarcinoma). Choriocarcinoma có thể cho di căn nhiều nơi như âm đạo, phổi, não... hoặc bị vỡ.
+Ung thư nguyên bào nuôi (choriocarcinoma) dùng mô tả tân lập ác tính từ mô rau. Ung thư nguyên bào nuôi có thể có xuất phát điểm là thai trứng, hoặc là thai thường (sinh sống hay ngưng phát triển). Ngoài ra, ung thư nguyên bào nuôi có thể có nguồn gốc không liên quan đến thai kỳ, mà có bản chất là u tế bào dòng sinh dục của buồng trứng, trong đó tế bào dòng sinh dục phân chia bất thường, không theo con đường giảm nhiễm, mà theo con đường nguyên nhiễm, rồi phân bào nguyên nhiễm tiếp tục để thành ung thư. Trong trường hợp này ta có bệnh nguyên bào nuôi không liên quan đến thai kỳ (non-gestational choriocarcinoma). Choriocarcinoma có thể cho di căn nhiều nơi như âm đạo, phổi, não… hoặc bị vỡ.
 
 ### Chẩn đoán
 
@@ -250,12 +250,12 @@ Hóa trị dự phòng với Methotrexate (MTX):
 
 - MTX 5 ngày: MTX 0.4mmg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
 - MTX 8 ngày (MTX/FA): MTX 1mg/kg hoặc MTX 50mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0.1mg/kg tiêm bắp hoặc uống 15mg sau liều MTX 24-30h vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
-- MTX tuần: MTX 30-50mg/$m^2$ da tĩnh mạch/tuần.
-- MTX 100mg/$m^2$ da tĩnh mạch, sau đó 200mg/$m^2$ da pha trong Glucose 5% 500mL truyền tĩnh mạch trong 12h. 24h sau, Folinic acid 15mg tĩnh mạch/uống x 4 lần/12h. Lặp lại chu kỳ mỗi 18 ngày hoặc khi cần.
+- MTX tuần: MTX 30-50mg/m² da tĩnh mạch/tuần.
+- MTX 100mg/m² da tĩnh mạch, sau đó 200mg/m² da pha trong Glucose 5% 500mL truyền tĩnh mạch trong 12h. 24h sau, Folinic acid 15mg tĩnh mạch/uống x 4 lần/12h. Lặp lại chu kỳ mỗi 18 ngày hoặc khi cần.
 
 hoặc Dacticin:
 
-- Dacticin: 1.25mg/$m^2$ da tĩnh mạch mỗi 2 tuần. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
+- Dacticin: 1.25mg/m² da tĩnh mạch mỗi 2 tuần. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
 - Dacticin: 12 mcg/kg (10-13 mcg/kg) hoặc 0.5mg/ngày tĩnh mạch x 5 ngày liên tục. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
 - Lặp lại thêm 2-3 chu kỳ sau khi β-hCG về âm tính.
 
@@ -275,7 +275,7 @@ Yếu tố liên quan:
 
 Xử trí:
 
-- MTX 50mg/$m^2$ da thất bại → MTX 0.4mg/kg tiêm bắp 5 ngày hoặc Dacticin 12 mcg/kg tiêm bắp 5 ngày.
+- MTX 50mg/m² da thất bại → MTX 0.4mg/kg tiêm bắp 5 ngày hoặc Dacticin 12 mcg/kg tiêm bắp 5 ngày.
 - β-hCG <100IU/L → Dacticin 5 ngày (87%).
 - β-hCG >100IU/L → EMA-CO (99%).
 - Kháng MTX → Dacticin.
@@ -285,25 +285,25 @@ Xử trí:
 Phác đồ EMA-CO:
 
 - Ngày 1:
-  - Etoposide 100mg/$m^2$ da tĩnh mạch trong 30 phút.
+  - Etoposide 100mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
-  - MTX 100mg/$m^2$ da tĩnh mạch.
-  - MTX 200mg/$m^2$ da tĩnh mạch trong 12h.
+  - MTX 100mg/m² da tĩnh mạch.
+  - MTX 200mg/m² da tĩnh mạch trong 12h.
 - Ngày 2:
-  - Etoposide 100mg/$m^2$ da tĩnh mạch trong 30 phút.
+  - Etoposide 100mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
   - Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24h.
 - Ngày 8:
-  - Oncovin (Vincristin) 1mg/$m^2$ da tĩnh mạch, tối đa 2mg.
-  - Cyclophosphamid 600mg/$m^2$ da truyền tĩnh mạch trong 30 phút.
+  - Oncovin (Vincristin) 1mg/m² da tĩnh mạch, tối đa 2mg.
+  - Cyclophosphamid 600mg/m² da truyền tĩnh mạch trong 30 phút.
 
 Phác đồ lặp lại mỗi 2 tuần. Lặp lại thêm 3-4 chu kỳ sau khi β-hCG âm tính.
 
 :::caution[Lưu ý]
 Tiêu chuẩn để hóa trị:
 
-- Ngày 1 và 2: Bạch cầu ≥3000/$mm^3$, bạch cầu đa nhân trung tính ≥1500/$mm^3$.
-- Ngày 8. Bạch cầu ≥2000/$mm^3$, bạch cầu đa nhân trung tính ≥1000/$mm^3$.
+- Ngày 1 và 2: Bạch cầu ≥3000/mm³, bạch cầu đa nhân trung tính ≥1500/mm³.
+- Ngày 8. Bạch cầu ≥2000/mm³, bạch cầu đa nhân trung tính ≥1000/mm³.
 
 :::
 
@@ -311,10 +311,10 @@ Nếu kháng EMA-CO:
 
 - Sử dụng phác đồ EMA-EP hoặc EP-EMA: ngày điều trị CO được thay bằng EP:
   - Cisplatin 70-80mg pha 1L truyền tĩnh mạch hơn 12h.
-  - Etoposide 100mg/$m^2$ da (150mg/$m^2$ da) được truyền tĩnh mạch hơn 1h.
+  - Etoposide 100mg/m² da (150mg/m² da) được truyền tĩnh mạch hơn 1h.
 - Phác đồ BEP:
-  - Cisplatin 20mg/$m^2$ da truyền tĩnh mạch.
-  - Etoposide 100mg/$m^2$ da truyền tĩnh mạch vào ngày 1-4.
+  - Cisplatin 20mg/m² da truyền tĩnh mạch.
+  - Etoposide 100mg/m² da truyền tĩnh mạch vào ngày 1-4.
   - Bleomycin 30 đơn vị tiêm tĩnh mạch hằng tuần.
 - Phác đồ TP/TE:
   - Ngày 1:
@@ -322,32 +322,32 @@ Nếu kháng EMA-CO:
     - Dexamethasone 20mg uống trước liều Paclitaxel 6h.
     - Cimetidine 30mg + 100mL NaCl 0.9% truyền trong 30 phút.
     - Chlorphenamine 100mg tĩnh mạch.
-    - Paclitaxel 135mg/$m^2$ da + 250mL NaCl 0.9% truyền trong 3h.
+    - Paclitaxel 135mg/m² da + 250mL NaCl 0.9% truyền trong 3h.
     - Mannitol 10% truyền trong 1h.
-    - Cisplatin 60mg/$m^2$ da pha 1000mL NaCl 0.9% truyền trong 3h.
+    - Cisplatin 60mg/m² da pha 1000mL NaCl 0.9% truyền trong 3h.
     - Sau khi truyền thuốc, truyền tĩnh mạch 1000mL NaCl 0.9% + KCl 20mmol + 1g $MgSO_4$ truyền trong 2h.
   - Ngày 15:
     - Dexamethasone 20mg uống trước liều Paclitaxel 12h.
     - Dexamethasone 20mg uống trước liều Paclitaxel 6h.
     - Cimetidine 30mg + 100mL NaCl 0.9% truyền trong 30 phút.
     - Chlorphenamine 100mg tĩnh mạch.
-    - Paclitaxel 135mg/$m^2$ da + 250mL NaCl 0.9% truyền trong 3h.
-    - Etoposide 150mg/$m^2$ da pha 1000mL NaCl 0.9% truyền trong 1h.
+    - Paclitaxel 135mg/m² da + 250mL NaCl 0.9% truyền trong 3h.
+    - Etoposide 150mg/m² da pha 1000mL NaCl 0.9% truyền trong 1h.
 
 #### U nguyên bào nuôi di căn não
 
 - Ngày 1:
-  - Etoposide 100mg/$m^2$ da tĩnh mạch trong 30 phút.
+  - Etoposide 100mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
-  - MTX 100mg/$m^2$ da tĩnh mạch.
-  - MTX 200mg/$m^2$ da tĩnh mạch trong 12h.
+  - MTX 100mg/m² da tĩnh mạch.
+  - MTX 200mg/m² da tĩnh mạch trong 12h.
 - Ngày 2:
-  - Etoposide 100mg/$m^2$ da tĩnh mạch trong 30 phút.
+  - Etoposide 100mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
   - Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24h.
 - Ngày 8:
-  - Oncovin (Vincristin) 1mg/$m^2$ da tĩnh mạch, tối đa 2mg.
-  - Cyclophosphamid 600mg/$m^2$ da truyền tĩnh mạch trong 30 phút.
+  - Oncovin (Vincristin) 1mg/m² da tĩnh mạch, tối đa 2mg.
+  - Cyclophosphamid 600mg/m² da truyền tĩnh mạch trong 30 phút.
 - Kết hợp xạ trị 3000 cGy.
 
 #### U nguyên bào nuôi tái phát
@@ -364,8 +364,8 @@ Chèn gạc cầm máu khi xuất huyết âm đạo nhiều và không thể m�
 
 3 ngày liên tục lặp lại mỗi tuần:
 
-- Etoposide 100mg/$m^2$ da truyền tĩnh mạch trong 1h.
-- Cisplatin 20mg/$m^2$ da truyền tĩnh mạch trong 2h.
+- Etoposide 100mg/m² da truyền tĩnh mạch trong 1h.
+- Cisplatin 20mg/m² da truyền tĩnh mạch trong 2h.
 
 #### Thai trứng xâm lấn
 
@@ -397,7 +397,7 @@ Khi có di căn xa như não, gan và di căn sâu vòng chậu.
 
 ### Theo dõi
 
-Tương tự như thai trứng, việc theo dõi thai trứng xâm lấn và choriocarcinoma được dựa vào diễn biến của β-hCG và các triệu chứng lâm sàng cận lâm sàng của xâm lấn và di căn như ra huyết âm đạo, kích thước tử cung, nang hoàng tuyến...
+Tương tự như thai trứng, việc theo dõi thai trứng xâm lấn và choriocarcinoma được dựa vào diễn biến của β-hCG và các triệu chứng lâm sàng cận lâm sàng của xâm lấn và di căn như ra huyết âm đạo, kích thước tử cung, nang hoàng tuyến…
 
 Trong chiến lược theo dõi này, theo dõi diễn biến của β-hCG được xem như phương tiện tầm soát và theo dõi chủ lực, còn lâm sàng và các phương tiện khác sẽ được thực hiện nếu có diễn biến bất thường của β-hCG, ngoại trừ khi đã có triệu chứng lâm sàng gợi ý.
 
@@ -407,7 +407,7 @@ _Di căn phổi.<br>Di căn phổi được phát hiện bằng X-quang với h�
 ![Di căn não](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/choriocarcinoma-di-can-nao.png)
 _Di căn não.<br>Di căn não được phát hiện bằng nhức đầu, xuất huyết não hay bằng MRI. Bệnh phẩm tử thiết cho thấy nhân di căn gây xuất huyết ở bán cầu trái._
 
-Xét nghiệm huyết đồ, chức năng gan, thận, điện giải... phát hiện nhiễm độc hóa chất.
+Xét nghiệm huyết đồ, chức năng gan, thận, điện giải… phát hiện nhiễm độc hóa chất.
 
 Thời gian theo dõi tối thiểu là 5 năm.
 
@@ -424,5 +424,5 @@ _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị tr�
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
-- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA - Bệnh viện Từ Dũ.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

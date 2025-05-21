@@ -11,7 +11,7 @@ Thể tích huyết thanh tăng từ tuần thứ 6 trong thai kì và ổn đ�
 
 ![Thay đổi thể tích huyết thanh và hồng cầu trong thai kỳ](../../../assets/san-khoa/thieu-mau/thay-doi-the-tich-huyet-thanh-va-huyet-cau-trong-thai-ky.png)
 
-Với thai phụ, thiếu máu làm tăng tỷ lệ tử vong khi sinh, tăng nguy cơ băng huyết sau sinh, nhiễm trùng hậu sản...
+Với thai phụ, thiếu máu làm tăng tỷ lệ tử vong khi sinh, tăng nguy cơ băng huyết sau sinh, nhiễm trùng hậu sản…
 
 Với thai nhi, thiếu máu làm tăng nguy cơ sẩy thai, thai chậm tăng trưởng trong tử cung, tăng tỷ lệ chết chu sinh. Riêng Thalassemia ở thai nhi có thể ảnh hưởng đến thai nhi ở các mức độ khác nhau, từ không đe dọa đến đe dọa nặng nề hay gây tử vong cho thai nhi/sơ sinh.
 
@@ -81,14 +81,14 @@ Tổng hợp chuỗi α được quy định bởi 4 gene α thuộc NST 16, đ�
 
 Gồm 3 thể: nặng, trung gian và ẩn.
 
-Thể nặng do đồng hợp tử 1 đột biến hay dị hợp tử kép 2 đột biến $β^0$:
+Thể nặng do đồng hợp tử 1 đột biến hay dị hợp tử kép 2 đột biến β⁰:
 
 - Bệnh biểu hiện sớm khi trẻ mới sinh hoặc vài tháng tuổi.
-- Đặc điểm lâm sàng của thể nặng là thiếu máu nặng, vàng da, gan lách to...
+- Đặc điểm lâm sàng của thể nặng là thiếu máu nặng, vàng da, gan lách to…
 - Đứa trẻ cần được truyền máu thải sắt để duy trì sự sống. Đặc điểm huyết học của thể nặng là số lượng hồng cầu giảm, nồng độ Hb <70g/l, MCV, MCH giảm, ferritin bình thường hoặc tăng. Điện di Hb: HbF và HbA2 tăng.
 - Đứa trẻ cần được truyền máu thải sắt để duy trì sự sống. Đặc điểm huyết học của thể nặng là số lượng hồng cầu giảm, nồng độ Hb <70g/l, MCV, MCH giảm, ferritin bình thường hoặc tăng. Điện di Hb: HbF và HbA2 tăng.
 
-Thể trung gian do kết hợp 2 đột biến $β^+$ hoặc kết hợp 1 đột biến $β^+$ và 1 đột biến $β^0$. Tình trạng thiếu máu nhẹ hơn, bệnh biểu hiện muộn hơn.
+Thể trung gian do kết hợp 2 đột biến β⁺ hoặc kết hợp 1 đột biến β⁺ và 1 đột biến β⁰. Tình trạng thiếu máu nhẹ hơn, bệnh biểu hiện muộn hơn.
 
 Thể ẩn (người lành mang gene bệnh) thường do dị hợp tử 1 đột biến. Thể ẩn hiếm khi có triệu chứng lâm sàng, chỉ phát hiện khi xét nghiệm máu tình cờ. Nồng độ Hb giảm nhẹ, MCV và MCH giảm. HbA2 tăng (3.5-7%), có kèm theo hay không kèm tăng HbF (1-3%) tùy loại đột biến.
 
@@ -172,4 +172,4 @@ Ngày nay, mong muốn tránh không mang thai và sinh ra những thai nhi có 
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

@@ -12,6 +12,7 @@ export const sidebar = starlightSidebarTopics([
     icon: "open-book",
     items: [
       "san-khoa",
+      "san-khoa/bo-sung-acid-folic-sat-canxi-dha-magie",
       "san-khoa/dac-diem-rau-thai",
       {
         label: "Xuất huyết tử cung trong thai kỳ",
@@ -37,11 +38,16 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       "san-khoa/nhiem-trung-oi",
-      "san-khoa/de-non",
+      {
+        label: "Dọa đẻ non",
+        autogenerate: {
+          directory: "san-khoa/doa-de-non",
+        },
+        collapsed: true,
+      },
       "san-khoa/dai-thao-duong-thai-ky",
       "san-khoa/tang-huyet-ap-thai-ky",
       "san-khoa/tuyen-giap-va-thai-ky",
-      "san-khoa/viem-gan-b-va-thai-ky",
       "san-khoa/thieu-mau",
       "san-khoa/sga-iugr",
       {
@@ -60,6 +66,24 @@ export const sidebar = starlightSidebarTopics([
       },
       "san-khoa/rau-bong-non",
       "san-khoa/vo-tu-cung",
+      "san-khoa/viem-gan-b-va-thai-ky",
+      "san-khoa/hiv-va-thai-ky",
+      "san-khoa/uon-van",
+      "san-khoa/thuy-dau-trong-thai-ky",
+      {
+        label: "Sử dụng thuốc trong thai kỳ",
+        autogenerate: {
+          directory: "san-khoa/su-dung-thuoc-trong-thai-ky",
+        },
+        collapsed: true,
+      },
+      {
+        label: "Các vấn đề sau sinh",
+        autogenerate: {
+          directory: "san-khoa/cac-van-de-sau-sinh",
+        },
+        collapsed: true,
+      },
     ],
   },
   {
@@ -115,7 +139,13 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "phu-khoa/cac-phuong-phap-tranh-thai",
+      {
+        label: "Kế hoạch hóa gia đình",
+        autogenerate: {
+          directory: "phu-khoa/ke-hoach-hoa-gia-dinh",
+        },
+        collapsed: true,
+      },
       "phu-khoa/sa-tang-chau",
       "phu-khoa/benh-nguyen-bao-nuoi",
       "phu-khoa/lanh-thuong",

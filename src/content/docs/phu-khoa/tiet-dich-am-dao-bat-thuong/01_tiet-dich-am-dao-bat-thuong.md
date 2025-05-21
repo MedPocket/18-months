@@ -39,7 +39,7 @@ Sự thay đổi bất cứ thành phần nào trong khuẩn hệ cũng sẽ là
 ![Thay đổi cấu trúc khuẩn hệ theo hoạt động nội tiết buồng trứng](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/thay-doi-khuan-he-theo-noi-tiet-buong-trung.png)
 _Hình trái và phải ở bé gái chưa dậy thì và người đã mãn kinh, các vi khuẩn không phải Lactobacillus sp. chi phối khuẩn hệ. Hình giữa sự hiện diện của estrogen đảm bảo nguồn cung cấp glycogen cho tế bào âm đạo dẫn đến ưu thế của Lactobacillus sp._
 
-Khi khuẩn hệ âm đạo bị đối mặt với các tác nhân trường diễn hay cấp diễn gây bởi hành vi của con người như dùng kháng sinh, dùng thuốc tránh thai nội tiết và các biện pháp kiểm soát sinh sản khác, thói quen hoạt động tình dục, dùng chất bôi trơn, thói quen thụt rửa âm đạo... nó sẽ có những điều chỉnh để đối phó lại các biến động khuẩn hệ.
+Khi khuẩn hệ âm đạo bị đối mặt với các tác nhân trường diễn hay cấp diễn gây bởi hành vi của con người như dùng kháng sinh, dùng thuốc tránh thai nội tiết và các biện pháp kiểm soát sinh sản khác, thói quen hoạt động tình dục, dùng chất bôi trơn, thói quen thụt rửa âm đạo… nó sẽ có những điều chỉnh để đối phó lại các biến động khuẩn hệ.
 
 Khái niệm về khuẩn hệ "bình thường" và "lành mạnh" được xây dựng trên chức năng bảo vệ của khuẩn hệ hơn là chính bản thân cấu trúc và thành phần của khuẩn hệ.
 
@@ -56,7 +56,7 @@ _Sơ đồ xử trí tiết dịch âm đạo bất thường theo Bệnh viện
 
 Các biệt dược được sử dụng trên thị trường:
 
-- Clomaz Forte (Clotrimazole 500mg): Nhạy cảm với nấm Candida Albicans, các nấm da, men, mốc... Ngoài ra, clotrimazole còn tác động đến Trichomonas, Vaginalis, các vi khuẩn gram dương.
+- Clomaz Forte (Clotrimazole 500mg): Nhạy cảm với nấm Candida Albicans, các nấm da, men, mốc… Ngoài ra, clotrimazole còn tác động đến Trichomonas, Vaginalis, các vi khuẩn gram dương.
 - Neo Penotran (Metronidazole 500mg + Miconazole nitrate 100mg): Thường được sử dụng để điều trị nhiễm trùng âm đạo do vi khuẩn kị khí và Gardnerella vaginalis, Trichomonas vaginalis và nhiễm khuẩn âm đạo hỗn hợp, nhiễm nấm.
 - Sadetabs (Neomycin sulphate 83mg + Clotrimazole 100mg + Metronidazole 500mg): Thích hợp với điều trị viêm âm đạo do tạp khuẩn và nấm nhẹ.
 - Timbov (Clotrimazole 500mg): Điều trị các bệnh nấm ở âm hộ, âm đạo, cũng như bệnh nấm Candida. Nhiễm khuẩn hỗn hợp tại âm đạo, viêm âm đạo kèm theo huyết trắng, ngứa do nhiễm khuẩn và nấm, viêm âm đạo do Trichomonas, viêm âm đạo do nguyên nhân hỗn hợp.
@@ -65,5 +65,5 @@ Chi tiết điều trị cụ thể đọc thêm tại [Viêm âm đạo nhiễm
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
-- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA - Bệnh viện Từ Dũ.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

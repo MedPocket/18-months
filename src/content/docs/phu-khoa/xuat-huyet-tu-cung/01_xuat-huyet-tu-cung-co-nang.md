@@ -23,7 +23,7 @@ Thiếu hụt giai đoạn hoàng thể cũng có thể gây ra xuất huyết t
 
 Hội chứng buồng trứng đa nang và tăng prolactin máu là 2 trạng thái rối loạn nội tiết có thể gây ra xuất huyết tử cung chức năng thường gặp:
 
-- Tăng prolactin máu ức chế hoạt động tuyến yên, và do đó gây rối loạn hoạt động của buồng trứng. Tăng prolactin máu có thể là do nguyên nhân thực thể là microadenoma tuyến yên hay do nguyên nhân cơ năng do dùng các thuốc có tác động hướng thần kinh hay nhiều thuốc khác. Thuốc chống say tàu xe, thuốc kháng bơm proton trong điều trị loét dạ dày-tá tràng, các thuốc điều trị tâm thần... có thể gây ra các tình trạng tăng prolactin máu.
+- Tăng prolactin máu ức chế hoạt động tuyến yên, và do đó gây rối loạn hoạt động của buồng trứng. Tăng prolactin máu có thể là do nguyên nhân thực thể là microadenoma tuyến yên hay do nguyên nhân cơ năng do dùng các thuốc có tác động hướng thần kinh hay nhiều thuốc khác. Thuốc chống say tàu xe, thuốc kháng bơm proton trong điều trị loét dạ dày-tá tràng, các thuốc điều trị tâm thần… có thể gây ra các tình trạng tăng prolactin máu.
 - Hội chứng buồng trứng đa nang là hội chứng do rất nhiều nguyên nhân khác nhau, có chung đặc điểm là các nang noãn không phát triển được, không đi đến hình thành các nang vượt trội, và do đó không có phóng noãn. Các chu kỳ không phóng noãn là nguyên nhân của xuất huyết tử cung chức năng ở hội chứng buồng trứng đa nang.
 
 Xuất huyết tử cung chức năng do sử dụng nội tiết ngoại lai là tình trạng rất thường gặp:
@@ -37,7 +37,7 @@ Xuất huyết tử cung chức năng do sử dụng nội tiết ngoại lai l�
 
 Hỏi bệnh sử chi tiết về đặc điểm chảy máu và các yếu tố liên quan cho phép định hướng chẩn đoán. Hỏi bệnh sử cần chú ý các yếu tố quan trọng như tuổi, lần cuối cùng có kinh bình thường, lượng và số ngày chảy máu, chảy máu sau giao hợp, các loại thuốc sử dụng (nội tiết, NSAIDs, thuốc kháng đông hay các thuốc hướng thần kinh khác), tiền sử các bất thường nội tiết, dấu hiệu có thai, tiền sử dùng tránh thai nhất là bằng thuốc và chấn thương.
 
-Khám lâm sàng cần chú ý đến các dấu hiệu của rối loạn nội tiết hệ thống (cường giáp hay nhược giáp), hay rối loạn nội tiết đặc thù của hội chứng buồng trứng đa nang (béo phì, tăng nội tiết tố nam)... Khám phụ khoa để loại trừ các bất thường cấu trúc của tử cung và buồng trứng.
+Khám lâm sàng cần chú ý đến các dấu hiệu của rối loạn nội tiết hệ thống (cường giáp hay nhược giáp), hay rối loạn nội tiết đặc thù của hội chứng buồng trứng đa nang (béo phì, tăng nội tiết tố nam)… Khám phụ khoa để loại trừ các bất thường cấu trúc của tử cung và buồng trứng.
 
 ![Acantosis nigricans, rậm lông và mụn trứng cá nặng](../../../../assets/phu-khoa/xuat-huyet-tu-cung-co-nang/acantosis-nigricans-ram-long-mun-trung-ca.png)
 _Acantosis nigricans, rậm lông và mụn trứng cá nặng.<br>Đây là các dấu hiệu của cường androgen, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường._
@@ -50,7 +50,7 @@ _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huy�
 Siêu âm đầu dò âm đạo là chỉ định đầu tay. Siêu âm có thể được thực hiện với siêu âm quy ước. Siêu âm giúp khảo sát các đặc điểm của nội mạc tử cung gồm độ dầy, phản âm và các cấu trúc bất thường lòng tử cung.
 
 :::caution[Lưu ý]
-Các hình ảnh có thể giúp định hướng cho các tiếp cận sau đó như u xơ-cơ tử cung, buồng trứng đa nang... Siêu âm với bơm nước lòng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương trong buồng tử cung.
+Các hình ảnh có thể giúp định hướng cho các tiếp cận sau đó như u xơ-cơ tử cung, buồng trứng đa nang… Siêu âm với bơm nước lòng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương trong buồng tử cung.
 :::
 
 Sinh thiết nội mạc tử cung được sử dụng như là test chẩn đoán của xuất huyết tử cung chức năng. Kết quả mô học của nội mạc tử cung cho biết tác động của estrogen kéo dài và thiếu tác động đối kháng của progesterone trong các trường hợp xuất huyết tử cung chức năng. Sinh thiết nội mạc tử cung có thể được quyết định sau khi đã có kết quả siêu âm gợi ý sự cần thiết của sinh thiết. Các trường hợp sau nên được chỉ định sinh thiết nội mạc tử cung do nguy cơ ác tính cao ở các nhóm này:
@@ -111,4 +111,4 @@ Nạo buồng tử cung là phương pháp cầm máu tốt nhất.
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

@@ -15,7 +15,7 @@ Có 2 dạng thức vỡ tử cung:
 Có 2 tình huống vỡ tử cung:
 
 1. Trên tử cung nguyên vẹn, vỡ tử cung thường thấy trong chuyển dạ, với các triệu chứng thường là điển hình trong đa phần các trường hợp: chuyển dạ bất thường &rarr; vượt trở ngại &rarr; dọa vỡ tử cung &rarr; vỡ tử cung. Trên tử cung nguyên vẹn, vỡ tử cung tự phát hiếm khi xảy ra ngoài chuyển dạ, ngoại trừ trường hợp bất thường bẩm sinh của hệ Muller.
-2. Trên tử cung có sẹo mổ cũ trước đó (mổ sinh hay bóc nhân xơ...) tần suất vỡ tử cung tự phát ngoài chuyển dạ có cao hơn, nhưng chủ yếu vẫn là vỡ trong chuyển dạ.
+2. Trên tử cung có sẹo mổ cũ trước đó (mổ sinh hay bóc nhân xơ…) tần suất vỡ tử cung tự phát ngoài chuyển dạ có cao hơn, nhưng chủ yếu vẫn là vỡ trong chuyển dạ.
 
 ## Yếu tố nguy cơ
 
@@ -57,4 +57,4 @@ Trong trường hợp hội chứng vượt trở ngại nhưng tử cung chưa 
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

@@ -14,7 +14,7 @@ Các tế bào của u xơ-cơ là các tế bào chịu ảnh hưởng của c�
 
 Estrogen tác động thông qua thụ thể ER-α để tạo ra PR. PR đóng vai trò cốt lõi trong phát triển của u xơ-cơ tử cung. Progesterone là yếu tố thiết yếu cho phát triển của u xơ-cơ tử cung. Progesterone thúc đẩy phân bào nguyên nhiễm tại khối u, đồng thời đảm bảo thiết lập và duy trì thể khối của cấu trúc matrix ngoại bào. Khi vắng mặt thụ thể PR, ER-α không đủ khả năng để gây ra sự phát triển của u xơ-cơ tử cung.
 
-Các yếu tố tăng trưởng (growth factor) với hoạt tính thúc đẩy phân bào nguyên nhiễm như epidermal growth factor (EGF), và insulin-like growth factor-I (ILGF-1)... đều tăng trong u xơ-cơ tử cung.
+Các yếu tố tăng trưởng (growth factor) với hoạt tính thúc đẩy phân bào nguyên nhiễm như epidermal growth factor (EGF), và insulin-like growth factor-I (ILGF-1)… đều tăng trong u xơ-cơ tử cung.
 
 ## Yếu tố nguy cơ và phân loại
 
@@ -30,7 +30,7 @@ Khoảng cách giữa 2 lần sinh con ≥5 năm.
 
 Giai đoạn tiền mãn kinh có nguy cơ ư xơ cao hơn 10 lần mãn kinh.
 
-Rối loạn chuyển hóa như béo phì, kháng insulin, hội chứng buồng trứng đa nang, tăng lipid máu, tăng huyết áp...
+Rối loạn chuyển hóa như béo phì, kháng insulin, hội chứng buồng trứng đa nang, tăng lipid máu, tăng huyết áp…
 
 ### Yếu tố bảo vệ
 
@@ -147,7 +147,7 @@ _Hình trái cho phép nhận diện được JZ (đường viện tối màu qu
 
 #### Siêu âm đàn hồi
 
-Siêu âm đàn hồi giúp khảo sát mức độ đàn hồi mô. Trước đây, khảo sát này đã được ứng dụng cho khảo sát các khối u khác như u gan...
+Siêu âm đàn hồi giúp khảo sát mức độ đàn hồi mô. Trước đây, khảo sát này đã được ứng dụng cho khảo sát các khối u khác như u gan…
 
 U xơ-cơ tử cung được cấu tạo chỉ bằng mô cơ-sợi. Adenomyosis được cấu tạo từ các tổ chức tuyến nội mạc tử cung lạc vị nằm trong lớp cơ, kèm theo là cấu trúc sợi cơ tăng dưỡng và tăng sản.
 
@@ -187,7 +187,7 @@ Polyp nội mạc tử cung (u xơ dưới niêm mạc).
 
 Khối u buồng trứng (u xơ dưới thanh mạc có cuống).
 
-Leiomyosarcoma: sarcoma tử cung được chẩn đoán xác định dựa trên giải phẫu bệnh...
+Leiomyosarcoma: sarcoma tử cung được chẩn đoán xác định dựa trên giải phẫu bệnh…
 
 ## Biến chứng
 
@@ -358,7 +358,7 @@ Chổng chỉ định khi có thai, xuất huyết âm đạo bất thường ch
 
 UPA cũng có thể gây ra các biến đổi trên nội mạc tử cung làm cho các nhà giải phẫu bệnh học nhầm lẫn với tăng sinh không điển hình tuyến nội mạc tử cung. Các biến đổi này có thể hồi phục hoàn toàn sau liệu trình.
 
-So với GnRHa, liệu pháp với UPA ít tác dụng phụ hơn như đau đầu, căng ngực, đau bụng, dày nội mạc tử cung, bốc hỏa... và mang lại hiệu quả kéo dài hơn.
+So với GnRHa, liệu pháp với UPA ít tác dụng phụ hơn như đau đầu, căng ngực, đau bụng, dày nội mạc tử cung, bốc hỏa… và mang lại hiệu quả kéo dài hơn.
 
 ![So sánh UPA và GnRHa](../../../assets/phu-khoa/u-xo-tu-cung/so-sanh-upa-va-gnrha.png)
 
@@ -410,7 +410,7 @@ Trong các SERM, raloxifene là phân tử được khảo sát nhiều nhất d
 
 U xơ tử cung to, gây cảm giác khó chịu cho người bệnh.
 
-U xơ tử cung gây biến chứng nặng như xuất huyết tử cung bất thường nặng, sảy thai liên tiếp...
+U xơ tử cung gây biến chứng nặng như xuất huyết tử cung bất thường nặng, sảy thai liên tiếp…
 
 Điều trị nội khoa thất bại (ít gặp).
 
@@ -462,7 +462,7 @@ Phương pháp:
 Thuốc cầm máu trong phẫu thuật:
 
 - Tranexamic acid với liều 1g tiêm/truyền tĩnh mạch làm giảm lượng máu mất trong phẫu thuật.
-- Xem xét sử dụng Vasopressin, Misoprostol...
+- Xem xét sử dụng Vasopressin, Misoprostol…
 
 #### Thủ thuật xâm lấn tối thiểu
 
@@ -529,5 +529,5 @@ Khái niệm này thể hiện, về mặt hình thái mô-bệnh học, phổ c
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
-- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA - Bệnh viện Từ Dũ.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

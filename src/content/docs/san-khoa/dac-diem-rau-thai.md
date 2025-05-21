@@ -58,10 +58,10 @@ Rau được coi như đã hoàn thành sau tháng thứ 4 với cấu tạo hì
 
 Rau thai là phần phụ của thai:
 
-- Nơi trao đổi chất dinh dưỡng, nước, oxy, kháng thể, hormone... từ mẹ sang thai hay các chất dị hoá, nước, carbonic,.. từ thai sang mẹ.
-- Bài tiết 1 số hormone như: hCG (human chronic gonadotropin), estrogen, progesterone...
+- Nơi trao đổi chất dinh dưỡng, nước, oxy, kháng thể, hormone… từ mẹ sang thai hay các chất dị hoá, nước, carbonic,.. từ thai sang mẹ.
+- Bài tiết 1 số hormone như: hCG (human chronic gonadotropin), estrogen, progesterone…
 - Miễn dịch thụ động kháng thể từ máu mẹ qua hàng rào rau sang thai.
 
 ## Nguồn tham khảo
 
-- [Quá trình hình thành rau thai?](https://www.vinmec.com/vi/bai-viet/qua-trinh-hinh-thanh-rau-thai) - Vinmec.
+- Vinmec - [_Quá trình hình thành rau thai?_](https://www.vinmec.com/vi/bai-viet/qua-trinh-hinh-thanh-rau-thai)

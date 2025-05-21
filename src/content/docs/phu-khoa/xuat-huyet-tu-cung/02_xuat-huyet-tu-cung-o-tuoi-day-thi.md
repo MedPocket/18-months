@@ -49,8 +49,8 @@ Sau khi đã loại trừ tất cả mọi khả năng khác, thì có thể thi
 
 Như vậy, các bước cần làm cụ thể sẽ là:
 
-1. Hỏi tiền sử kinh nguyệt: tuổi khi có lần hành kinh đầu tiên, tính chất chu kỳ kinh , đau bụng kinh, kỳ kinh cuối cùng... Hỏi về hoạt động tình dục, thói quen tình dục (kể cả thủ dâm), đánh giá nguy cơ mắc bệnh lây truyền qua tình dục, dùng các loại thuốc (nhất thuốc tránh thai khẩn cấp)... Hỏi về các bệnh lý toàn thân của bệnh nhi hay gia đình.
-2. Khám lâm sàng nhằm đánh giá toàn thân, chú ý những dấu hiệu đi cùng chu kỳ kinh không đều của bệnh nhi và gia đình: cường androgen (acantosis nigricans, rậm lông, mụn), quá cân, biểu hiện của bệnh lý tuyến giáp (thay đổi cân nặng, tuyến giáp to), dễ chảy máu (vết bầm máu, chấm xuất huyết)... Về phía phụ khoa, đánh giá các dấu hiệu của dậy thì (vú, lông mu), khám vùng chậu tìm các khối u.
+1. Hỏi tiền sử kinh nguyệt: tuổi khi có lần hành kinh đầu tiên, tính chất chu kỳ kinh , đau bụng kinh, kỳ kinh cuối cùng… Hỏi về hoạt động tình dục, thói quen tình dục (kể cả thủ dâm), đánh giá nguy cơ mắc bệnh lây truyền qua tình dục, dùng các loại thuốc (nhất thuốc tránh thai khẩn cấp)… Hỏi về các bệnh lý toàn thân của bệnh nhi hay gia đình.
+2. Khám lâm sàng nhằm đánh giá toàn thân, chú ý những dấu hiệu đi cùng chu kỳ kinh không đều của bệnh nhi và gia đình: cường androgen (acantosis nigricans, rậm lông, mụn), quá cân, biểu hiện của bệnh lý tuyến giáp (thay đổi cân nặng, tuyến giáp to), dễ chảy máu (vết bầm máu, chấm xuất huyết)… Về phía phụ khoa, đánh giá các dấu hiệu của dậy thì (vú, lông mu), khám vùng chậu tìm các khối u.
 3. Huyết đồ và khảo sát đông cầm máu là khảo sát trước tiên giúp đáng giá mức độ ảnh hưởng. Siêu âm vùng chậu là phương tiện sơ cấp, cung cấp nhiều thông tin quan trọng và hữu ích.
 
 ## Xử trí
@@ -95,4 +95,4 @@ Xem thêm tại điều trị [Xuất huyết tử cung do cơ năng](/phu-khoa/
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

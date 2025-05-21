@@ -125,7 +125,7 @@ Chỉ định:
 
 - Thai lưu ≤8 tuần, β-hCG tăng: MTX 50mg, tiêm bắp.
 
-- Thai chưa có tim thai: dưới hướng dẫn siêu âm đường âm đạo hút trọn phôi thai, hút hết nước ối và tiêm MTX 25mg quanh túi thai và 25mg tiêm bắp (tổng 50mg/$m^2$ diện tích da).
+- Thai chưa có tim thai: dưới hướng dẫn siêu âm đường âm đạo hút trọn phôi thai, hút hết nước ối và tiêm MTX 25mg quanh túi thai và 25mg tiêm bắp (tổng 50mg/m² diện tích da).
 
 - Thai có hoạt động tim thai: hủy thai bằng hút trọn phôi thai (thai <9 tuần) hoặc hút mô buồng tim thai (thai>9 tuần) hoặc tiêm bắp MTX 25mg (hoặc KCl) và tim thai, phối hợp MTX 25mg tiêm vị trí bánh rau. Sau 60-90 phút siêu âm lại kiểm tra đã mất hay chưa và xem có xuất huyết tại chỗ không, tiêm bắp 25mg MTX (tổng liều 75mg MTX).
 
@@ -259,4 +259,4 @@ Thai kỳ sau chủ động mổ lấy thai khi thai đủ tháng.
 
 ## Nguồn tham khảo
 
-- PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA - Bệnh viện Từ Dũ.
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

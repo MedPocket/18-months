@@ -52,7 +52,7 @@ Cản trở cơ học không chỉ do nguyên nhân khung chậu. Mọi nguyên 
 
 Bất xứng dầu chậu được hiểu là sự không tương thích giữa các đường kính trình thai và kích thước tiểu khung.
 
-Khung chậu không hẹp nhưng do thai nhi không vào được khung chậu do những kiểu trình thai bất thường như đầu cúi không tốt, đầu lọt bất đối xứng... Trong những trường hợp này, ngôi thai trình những đường kính không phải là đường kính nhỏ nhất của ngôi ra trước lối vào của eo trên, và dẫn đến bất tương xứng giữa kích thước của phần trình thai và kích thước lối vào của tiểu khung. Có thể xảy ra giữa: khung chậu hẹp với đầu thai bình thường, hoặc thai to khung chậu bình thường, hoặc cả 2 điều trên.
+Khung chậu không hẹp nhưng do thai nhi không vào được khung chậu do những kiểu trình thai bất thường như đầu cúi không tốt, đầu lọt bất đối xứng… Trong những trường hợp này, ngôi thai trình những đường kính không phải là đường kính nhỏ nhất của ngôi ra trước lối vào của eo trên, và dẫn đến bất tương xứng giữa kích thước của phần trình thai và kích thước lối vào của tiểu khung. Có thể xảy ra giữa: khung chậu hẹp với đầu thai bình thường, hoặc thai to khung chậu bình thường, hoặc cả 2 điều trên.
 
 Thuật ngữ bất xứng đầu chậu thường chỉ dùng trong chuyển dạ. Trong quá trình chuẩn bị cho chuyển dạ, thai nhi thực hiện các bình chỉnh cần thiết gồm thu các đường kính lọt về tối thiểu, hướng các đường kính lọt vào đường kính lớn nhất của tiểu khung, và tiến trình vượt qua tiểu khung cũng như các điều chỉnh cuối cùng tư thế, kích thước ngôi bằng các kiểu trình bất đối xứng hay uốn khuôn chỉ xảy ra trong chuyển dạ và chỉ trong chuyển dạ.
 
@@ -137,4 +137,4 @@ Sản đồ cũng hỗ trợ đắc lực cho đơn vị chăm sóc y tế tuy�
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

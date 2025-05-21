@@ -19,7 +19,7 @@ Máu chảy ra giữa lớp cơ tử cung và các màng thai bị giam cầm tr
 
 Trường hợp rau bong non tự phát (không do chấn thương) thì hầu hết máu trong khối máu tụ sau rau là máu của mẹ, do tình trạng xuất huyết xảy ra do đổ vỡ các mạch máu xoắn, gây xuất huyết và bóc tách trong lớp màng rụng mẹ, đồng thời các gai rau vẫn còn nguyên vẹn.
 
-Trường hợp rau bong non xảy ra sau chấn thương (chấn thương vùng tử cung, chạm thương do thủ thuật chẩn đoán, gắng sức quá mức...) máu thai có thể bị mất đáng kể, do các gai rau có thể bị rách, vỡ xảy ra đồng thời cùng với sự bong tróc của lớp màng rụng.
+Trường hợp rau bong non xảy ra sau chấn thương (chấn thương vùng tử cung, chạm thương do thủ thuật chẩn đoán, gắng sức quá mức…) máu thai có thể bị mất đáng kể, do các gai rau có thể bị rách, vỡ xảy ra đồng thời cùng với sự bong tróc của lớp màng rụng.
 
 ## Nguyên nhân và các yếu tố nguy cơ
 
@@ -121,4 +121,4 @@ Với các tình huống rau bong non và thai có khả năng sống và không
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

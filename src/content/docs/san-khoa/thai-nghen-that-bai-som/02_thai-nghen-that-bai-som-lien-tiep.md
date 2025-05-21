@@ -17,7 +17,7 @@ Có sự phân biệt giữa RPL nguyên phát và RPL thứ phát:
 
 ### Tuổi
 
-Lớn tuổi luôn luôn là yếu tố nguy cơ trong sản khoa, liên quan mật thiết đến nhiều vấn đề: vô sinh, dị tật thai, thai chết lưu, biến chứng sản khoa...
+Lớn tuổi luôn luôn là yếu tố nguy cơ trong sản khoa, liên quan mật thiết đến nhiều vấn đề: vô sinh, dị tật thai, thai chết lưu, biến chứng sản khoa…
 
 Có nhiều chứng cứ cho thấy phụ nữ dưới 30 tuổi có nhiều cơ hội thành công sau RPL hơn phụ nữ trên 30 tuổi. Phụ nữ trên 35 tuổi tăng gấp đôi nguy cơ mất thai sau RPL và trên 35 tuổi được xác định là mốc có ý nghĩa thống kê về nguy cơ bất thường nhiễm sắc thể ở RPL thường xuyên và tái phát.
 
@@ -50,9 +50,9 @@ Bất thường vật chất di truyền của phôi là yếu tố quan trọng
 
 Có 2 loại bất thường phổ biến nhất trong thời kì thai sớm: bất thường về phát triển và bất thường về di truyền. Những bất thường này chiếm 86-91% các trường hợp sảy thai sớm có mô thai. Xác định di truyền của mô thai từ phụ nữ có RPL có thể cung cấp cho họ nguyên nhân hoặc lý do cụ thể tuy nhiên không giúp loại trừ các tình trạng bệnh dưới chưa được xác định. Khuyến cáo làm array-CGH vì hạn chế nhiễm chéo từ mẹ.
 
-Bất thường di truyền bố mẹ chỉ chiếm 1.9-3.5% các cặp vợ chồng có RPL. Các bất thường quan trọng là chuyển đoạn Robertson, đảo đoạn, vi mất đoạn, mất đoạn, đột biến...
+Bất thường di truyền bố mẹ chỉ chiếm 1.9-3.5% các cặp vợ chồng có RPL. Các bất thường quan trọng là chuyển đoạn Robertson, đảo đoạn, vi mất đoạn, mất đoạn, đột biến…
 
-Karyotype bố mẹ không được khuyến cáo thường quy, chỉ làm khi có yếu tố nguy cơ từ bố, mẹ: có tiền sử sinh con bị dị tật bẩm sinh, phát hiện mất cân bằng bộ nhiễm sắc thể ở những đứa trẻ trong gia đình hoặc phát hiện chuyển đoạn trong mô thai bị mất. Các cặp vợ chồng nên được thông báo hạn chế của làm karyotype: không tiên lượng được chuyển đoạn cho thai kì tiếp theo, dù bất thường được tìm ra thì cơ hội có đứa trẻ khỏe mạnh là hoàn toàn khả thi..., để các cặp vợ chồng cân nhắc việc tiếp tục cố gắng thụ thai, ngừng cố gắng hay lựa chọn các xét nghiệm xâm lấn tiền làm tổ (PGT).
+Karyotype bố mẹ không được khuyến cáo thường quy, chỉ làm khi có yếu tố nguy cơ từ bố, mẹ: có tiền sử sinh con bị dị tật bẩm sinh, phát hiện mất cân bằng bộ nhiễm sắc thể ở những đứa trẻ trong gia đình hoặc phát hiện chuyển đoạn trong mô thai bị mất. Các cặp vợ chồng nên được thông báo hạn chế của làm karyotype: không tiên lượng được chuyển đoạn cho thai kì tiếp theo, dù bất thường được tìm ra thì cơ hội có đứa trẻ khỏe mạnh là hoàn toàn khả thi…, để các cặp vợ chồng cân nhắc việc tiếp tục cố gắng thụ thai, ngừng cố gắng hay lựa chọn các xét nghiệm xâm lấn tiền làm tổ (PGT).
 
 Bất thường vật chất di truyền của giao tử là nguyên nhân trực tiếp, xảy ra trong meiosis tạo giao tử. Tầm soát bất thường di truyền giao tử và phôi thể hiện qua hợp tử, và có thể phát hiện bằng khảo sát tiền làm tổ (PGT):
 
@@ -93,7 +93,7 @@ Thiếu Vitamin D có liên quan đến RPL. Tuy nhiên thai kì luôn luôn đ�
 | U xơ tử cung                                                                                                    | Nội soi buồng tử cung cắt u xơ dưới niêm hoặc phẫu thuật tối thiểu trên u xơ tử cung có gây biến dạng lòng tử cung trên bệnh nhân chọn lọc |
 | Polyp nội mạc tử cung                                                                                           | Nội soi buồng tử cung cắt polyp                                                                                                            |
 | Dính buồng tử cung                                                                                              | Nội soi cắt dính và phòng ngừa dính tái phát                                                                                               |
-| Các bất thường cấu trúc khác: tử cung đôi, tử cung 2 sừng, tử cung có sừng chột, tử cung đôi có 1 cổ tử cung... | Không khuyến cáo can thiệp vì không có bằng chứng lợi ích rõ ràng                                                                          |
+| Các bất thường cấu trúc khác: tử cung đôi, tử cung 2 sừng, tử cung có sừng chột, tử cung đôi có 1 cổ tử cung… | Không khuyến cáo can thiệp vì không có bằng chứng lợi ích rõ ràng                                                                          |
 
 Khảo sát giải phẫu học tử cung được khuyến cáo thực hiện thường quy.
 
@@ -108,4 +108,4 @@ _Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp._
 
 ## Nguồn tham khảo
 
-- TEAM-BASED LEARNING - Trường Đại học Y Dược Thành phố Hồ Chí Minh 2020.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
