@@ -70,11 +70,11 @@ Nếu không đủ xét nghiệm có thể dựa vào lâm sàng hoặc dịch t
 
 ### Chẩn đoán phân biệt
 
-Viêm đường sinh dục - tiết niệu do N. Gonorrhea, Trichomoniasis vaginalis, Mycoplasma genitalium...
+Viêm đường sinh dục - tiết niệu do N. Gonorrhea, Trichomoniasis vaginalis, Mycoplasma genitalium…
 
 VIêm cổ tử cung như lậu, Herpes simplex, Trichomoniasis vaginalis, lao, Mycoplasma, Ureaplasma Cytomegalovirus và liên cầu tan huyết beta nhóm B.
 
-Viêm hậu môn - trực tràng như lậu, Herpes simplex, giang mai...
+Viêm hậu môn - trực tràng như lậu, Herpes simplex, giang mai…
 
 :::caution[Lưu ý]
 Lậu và C. Trachomatis thường đồng nhiễm trên lâm sàng vì thế cần tiến hành xét nghiệm lậu cho tất cả bệnh nhân nhiễm Chlamydia.
@@ -135,4 +135,4 @@ Khám lại sau 3 tháng cho tất cả các trường hợp. Nếu không thể
 
 ## Nguồn tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

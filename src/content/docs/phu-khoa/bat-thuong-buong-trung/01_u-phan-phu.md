@@ -34,7 +34,7 @@ MRI chỉ định khi đánh giá tổn thường xâm lấn vào các cơ quan 
 
 CT Scan chỉ định khi nghi ngờ ung thư có di căn xa hoặc chống chỉ định với MRI.
 
-Dấu ấn sinh học (tumor markers) như CA125, AFP, CEA, beta-hCG, HE4, AMH...
+Dấu ấn sinh học (tumor markers) như CA125, AFP, CEA, beta-hCG, HE4, AMH…
 
 Thuật toán ước tính nguy cơ ác tính ung thư buồng trứng (ROMA value, RMI).
 
@@ -60,5 +60,5 @@ Siêu âm là phương tiện đầu tay trong đánh giá khối u phần phụ
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

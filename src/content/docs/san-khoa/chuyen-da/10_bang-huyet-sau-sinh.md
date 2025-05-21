@@ -3,7 +3,7 @@ title: Băng huyết sau sinh
 description: Băng huyết sau sinh.
 ---
 
-Ước tính có khoảng 140.000 phụ nữ tử vong vì băng huyết sau sanh trên thế giới mỗi năm. Có nghĩa là cứ mỗi 4 phút thì có 1 trường hợp tử vong vì băng huyết sau sanh (Post-Partum Hemorrhage) (PPH) trên thế giới, với hơn phân nửa số tử vong này là xảy ra trong vòng 24h đầu sau sanh. Băng huyết sau sanh còn đưa đến nhiều hậu quả nặng nề khác như suy hô hấp, bệnh lý về đông cầm máu, sốc, mất khả năng sinh sản, hoại tử tuyến yên...
+Ước tính có khoảng 140.000 phụ nữ tử vong vì băng huyết sau sanh trên thế giới mỗi năm. Có nghĩa là cứ mỗi 4 phút thì có 1 trường hợp tử vong vì băng huyết sau sanh (Post-Partum Hemorrhage) (PPH) trên thế giới, với hơn phân nửa số tử vong này là xảy ra trong vòng 24h đầu sau sanh. Băng huyết sau sanh còn đưa đến nhiều hậu quả nặng nề khác như suy hô hấp, bệnh lý về đông cầm máu, sốc, mất khả năng sinh sản, hoại tử tuyến yên…
 
 ## Băng huyết sau sinh
 
@@ -13,7 +13,7 @@ Băng huyết sau sinh được định nghĩa là chảy máu ≥500mL, trong v
 
 Bất kể nguyên nhân, tốc độ mất máu trong băng huyết sau sinh là rất nhanh. Tình trạng mất máu có thể lên đến vài trămmL mỗi phút, và tổng lượng mất máu trong vòng vàih có thể lên đến nhiều nghìnmL. Đây là tình trạng mất máu cấp với hệ quả trước tiên và chết người là choáng giảm thể tích. Đi sau choáng giảm thể tích, việc mất lượng lớn huyết cầu sẽ dẫn đến những vấn đề liên quan đến thiếu oxy mô.
 
-Mốc thiết lập định nghĩa là 500mL thực ra rất tương đối, lệ thuộc vào nhiều yếu tố như căn cứ vào cảm tính chủ quan, lượng máu mất lẫn với dịch ối hay các thứ dung dịch chăm sóc, lượng máu mất vào champ phủ phẫu trường... Cần lưu ý rằng số lượng máu mất mà ta ước lượng thường chỉ bằng nửa lượng máu mất thật sự, do đó việc phải đo lường lượng máu mất tin cậy, khách quan. Vài nghiên cứu ghi nhận gần 50% sản phụ sinh ngả âm đạo bị mất tượng máu kể trên, mổ lấy thai mất khoảng 1000mL máu. Vì thế, nếu định ngưỡng định nghĩa băng huyết sau sinh ở mức 500mL thì có thể sẽ có các chăm sóc vượt mức cần thiết. Tuy nhiên, nếu đặt mốc định nghĩa băng huyết sau sinh lên cao hơn thì can thiệp có thể bị trễ và gây ra nguy hiểm cho sản phụ. Vì thế, nhà sản khoa cần đánh giá từng trường hợp lâm sàng cụ thể để can thiệp đúng mức và kịp
+Mốc thiết lập định nghĩa là 500mL thực ra rất tương đối, lệ thuộc vào nhiều yếu tố như căn cứ vào cảm tính chủ quan, lượng máu mất lẫn với dịch ối hay các thứ dung dịch chăm sóc, lượng máu mất vào champ phủ phẫu trường… Cần lưu ý rằng số lượng máu mất mà ta ước lượng thường chỉ bằng nửa lượng máu mất thật sự, do đó việc phải đo lường lượng máu mất tin cậy, khách quan. Vài nghiên cứu ghi nhận gần 50% sản phụ sinh ngả âm đạo bị mất tượng máu kể trên, mổ lấy thai mất khoảng 1000mL máu. Vì thế, nếu định ngưỡng định nghĩa băng huyết sau sinh ở mức 500mL thì có thể sẽ có các chăm sóc vượt mức cần thiết. Tuy nhiên, nếu đặt mốc định nghĩa băng huyết sau sinh lên cao hơn thì can thiệp có thể bị trễ và gây ra nguy hiểm cho sản phụ. Vì thế, nhà sản khoa cần đánh giá từng trường hợp lâm sàng cụ thể để can thiệp đúng mức và kịp
 thời.
 
 Cho mục đích mô tả, băng huyết sau sinh có thể chia thành:
@@ -33,7 +33,7 @@ Trên lâm sàng có nhiều yếu tố nguy cơ liên quan đến băng huyết
 - Tiền sản giật
 - Tử cung quá căng (thai to, đa thai, đa ối).
 - Mổ lấy thai.
-- Người gốc Á, nhiễm trùng ối...
+- Người gốc Á, nhiễm trùng ối…
 
 Khi có sự hiện diện của các yếu tố nguy cơ này, người bác sĩ lâm sàng nên hết sức lưu tâm về khả năng sẽ xảy ra băng huyết sau sinh. Tuy nhiên nên nhớ rằng băng huyết sau sinh có thể xảy ra ngay cả khi vắng mặt các yếu tố nguy cơ, hay ngay trong trường hợp không có dấu hiệu nào cảnh báo trước đó.
 
@@ -85,7 +85,7 @@ Rối loạn đông máu có thể là:
 - Nguyên phát.
 - Thứ phát.
 
-Rối loạn đông máu có thể là có từ trước chuyển dạ như trong hội chứng tiêu sợi huyết thấy trong thai chết lưu, hay tiêu hao tiểu cầu trong hội chứng HELLP của tiền sản giật, hay trong các trường hợp hiếm hoi của các bệnh lý rối loạn đông máu thụ đắc hay bẩm sinh như bệnh máu không đông bẩm sinh do thiếu yếu tố đông máu, xuất huyết giảm tiểu cầu vô căn...
+Rối loạn đông máu có thể là có từ trước chuyển dạ như trong hội chứng tiêu sợi huyết thấy trong thai chết lưu, hay tiêu hao tiểu cầu trong hội chứng HELLP của tiền sản giật, hay trong các trường hợp hiếm hoi của các bệnh lý rối loạn đông máu thụ đắc hay bẩm sinh như bệnh máu không đông bẩm sinh do thiếu yếu tố đông máu, xuất huyết giảm tiểu cầu vô căn…
 
 Rối loạn đông máu có thể chỉ xuất hiện trong chuyển dạ như hội chứng đông máu nội mạch rải rác (Disseminated Intravascular Coagulation) (DIC) hậu quả của tình trạng choáng phản vệ trong thuyên tắc ối, hay hậu quả của tăng tiêu thụ trong bệnh lý rau bong non.
 
@@ -99,7 +99,7 @@ Sót mô rau đôi khi gây ra chảy máu ồ ạt.
 
 Thông thường, sau khi sanh sự co hồi của tử cung sẽ làm cho bánh rau bong tróc và tống xuất ra ngoài. Khi quá trình bong rau hoặc tống xuất bánh rau diễn ra không hoàn toàn sẽ dẫn tới sót rau.
 
-Những yếu tố nguy cơ có thể kể ra bao gồm tiền căn mổ lấy thai, u xơ tử cung, tiền căn hút nạo lòng tử cung, bánh rau phụ... mô rau bị sót trong tử cung sẽ làm cho tử cung co hồi kém, đờ tử cung và chảy máu ồ ạt.
+Những yếu tố nguy cơ có thể kể ra bao gồm tiền căn mổ lấy thai, u xơ tử cung, tiền căn hút nạo lòng tử cung, bánh rau phụ… mô rau bị sót trong tử cung sẽ làm cho tử cung co hồi kém, đờ tử cung và chảy máu ồ ạt.
 
 sót rau đôi khi gây ra bởi bất thường của bánh rau bám vào thành tử cung, khi đó bánh rau có thể bám tới bề mặt của cơ tử cung, hoặc bám vào cơ tử cung hoặc đôi khi bám xuyên qua hết lớp cơ của tử cung. Nếu sự bất thường này xảy ra ở toàn bộ bề mặt bánh rau thì toàn bộ rau sẽ bị cầm tù, không thể bong tróc được.
 
@@ -117,7 +117,7 @@ Băng huyết sau sinh là cấp cứu sản khoa.
 
 Bệnh sinh của băng huyết sau sinh là tình trạng mất đột ngột khối lượng lớn thể tích tuần hoàn và lượng lớn huyết cầu có khả năng vận chuyển oxy.
 
-Cùng lượng máu mất nhưng ảnh hưởng trên những cá thể khác nhau là không giống nhau (ví dụ 1 người cân nặng 40 kg so với người cân nặng 60 kg, người có thiếu máu trước đó so với người không có thiếu máu trước đó, đơn thai so với đa thai...). Vì lẽ đó, trên lâm sàng băng huyết sau sinh có thể xác định dựa vào các yếu tố khách quan hơn như những biến động về mạch, huyết áp, nước tiểu, hematocrit...
+Cùng lượng máu mất nhưng ảnh hưởng trên những cá thể khác nhau là không giống nhau (ví dụ 1 người cân nặng 40 kg so với người cân nặng 60 kg, người có thiếu máu trước đó so với người không có thiếu máu trước đó, đơn thai so với đa thai…). Vì lẽ đó, trên lâm sàng băng huyết sau sinh có thể xác định dựa vào các yếu tố khách quan hơn như những biến động về mạch, huyết áp, nước tiểu, hematocrit…
 
 Theo dõi đáp ứng huyết động đối với tình trạng mất máu sẽ cho nhiều thông tin hữu ích về lượng máu thiếu hụt cũng như tiên lượng của người bệnh. Đối với người bình thường:
 
@@ -288,7 +288,7 @@ Việc kiểm tra đường sanh bằng dụng cụ rất cần thiết đối v
 
 Khi kiểm tra âm đạo, cổ tử cung thường cần thêm người phụ sẽ giúp bộc lộ vùng tổn thương rõ ràng hơn và giúp việc khâu phục hồi sau đó cũng trở nên dễ dàng hơn. Lưu ý những trường hợp tổn thương quanh niệu đạo sẽ làm phù nề mô xung quanh, hẹp niệu đạo dẫn tới nước tiểu bị ứ đọng. Vì thế, sau khi khâu phục hồi tầng sinh môn nên thực hiện việc lưu thông tiểu 12-24h theo khuyến cáo.
 
-Khối máu tụ có thể xuất hiện mọi nơi trong đường sinh dục dưới do sang chấn trong quá trình sanh gây ra như ở âm hộ, âm đạo, vết cắt tầng sinh môn, vết rách ở đáy chậu... đôi khi khối máu tụ xảy ra không kèm theo tổn thương niêm mạc âm đạo nên dễ bị bỏ sót khi thăm khám. Tìm ra được điểm chảy máu là chìa khóa cho việc điều trị khối máu tụ.
+Khối máu tụ có thể xuất hiện mọi nơi trong đường sinh dục dưới do sang chấn trong quá trình sanh gây ra như ở âm hộ, âm đạo, vết cắt tầng sinh môn, vết rách ở đáy chậu… đôi khi khối máu tụ xảy ra không kèm theo tổn thương niêm mạc âm đạo nên dễ bị bỏ sót khi thăm khám. Tìm ra được điểm chảy máu là chìa khóa cho việc điều trị khối máu tụ.
 
 Những khối máu tụ dưới 5cm đường kính và không phát triển lớn ra thêm có thể chưa cần can thiệp, theo dõi sát kích thước của khối máu tụ, sinh hiệu của sản phụ, lượng nước tiểu là cần thiết. Khi khối máu tụ này lớn ra thì cần thiết can thiệp bằng ngoại khoa:
 
@@ -311,7 +311,7 @@ _Các tụ máu._
 Mục tiêu của xử lý rối loạn đông máu là khôi phục tình trạng đông cầm máu bình thường.
 
 1. Bù các yếu tố đông máu thiếu hụt.
-2. Xác định căn nguyên của bệnh lý đông máu: chảy máu nhiều, nhiễm trùng, thuyên tắc ối...
+2. Xác định căn nguyên của bệnh lý đông máu: chảy máu nhiều, nhiễm trùng, thuyên tắc ối…
 
 :::
 
@@ -354,4 +354,4 @@ Nếu thất bại, phẫu thuật là cần thiết.
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

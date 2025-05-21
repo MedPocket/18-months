@@ -3,7 +3,7 @@ title: Sa các tạng chậu
 desàn chậuription: Sa các tạng chậu.
 ---
 
-Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là sự tụt xuống của tử cung, bàng quang, trực tràng, thành trước, thành sau âm đạo... ra khỏi vị trí giải phẫu bình thường, sự tổn thương và suy yếu các cấu trúc cân cơ và dây chằng nâng đỡ sàn chậu.
+Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là sự tụt xuống của tử cung, bàng quang, trực tràng, thành trước, thành sau âm đạo… ra khỏi vị trí giải phẫu bình thường, sự tổn thương và suy yếu các cấu trúc cân cơ và dây chằng nâng đỡ sàn chậu.
 
 Hệ thống nâng dỡ các cơ quan tiểu khung:
 
@@ -55,7 +55,7 @@ _Sơ đồ chẩn đoán sa tạng chậu._
 
 ### Xét nghiệm thường quy
 
-Phát hiện và điều trị các yếu tố nguy cơ có thể ảnh hưởng kết quả phẫu thuật (đang có viêm âm đạo, nhiễm trùng tiểu, tiểu đường, thiếu máu...).
+Phát hiện và điều trị các yếu tố nguy cơ có thể ảnh hưởng kết quả phẫu thuật (đang có viêm âm đạo, nhiễm trùng tiểu, tiểu đường, thiếu máu…).
 
 Loại trừ bệnh lý phụ khoa (rong cường kinh, rong huyết), bệnh lý cổ tử cung, tử cung, phần phụ để quyết định có cắt tử cung không.
 
@@ -97,7 +97,7 @@ Dựa vào lâm sàng theo phân loại và phân độ POP-Q và các xét nghi
 - Sa tạng nào.
 - Số lượng tạng bị sa.
 - Độ sa của tạng đó.
-- Có rối loạn tiết niệu kèm theo không (Tiểu không kiểm soát khi gắng sức, tiểu tồn lưu, bí tiểu, tiểu không kiểm soát hỗn hợp...).
+- Có rối loạn tiết niệu kèm theo không (Tiểu không kiểm soát khi gắng sức, tiểu tồn lưu, bí tiểu, tiểu không kiểm soát hỗn hợp…).
 - Có rối loạn đi cầu kèm theo không.
 - Vẽ mô tả phân loại và phân độ sa tạng vùng chậu.
 
@@ -237,4 +237,4 @@ _Phẫu thuật đường âm đạo Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

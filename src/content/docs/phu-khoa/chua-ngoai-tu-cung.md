@@ -15,7 +15,7 @@ _Nguồn: Danforth's Obstetrics and Gynecology, $10^{th}$ edition_
 - Tiền sử phẫu thuật ống dẫn trứng: tái tạo ống dẫn trứng, nối ống dẫn trứng sau triệt sản.
 - Tiền sử chửa ngoài tử cung.
 - Hỗ trợ sinh sản: kích rụng trứng, thụ tinh trong ống nghiệm, chuyển phôi.
-- Bất thường giải phẫu như polyp, túi thừa...
+- Bất thường giải phẫu như polyp, túi thừa…
 - Đặt dụng cụ tử cung.
 - Nội tiết tránh thai đường uống, tránh thai khẩn cấp, tiền căn phá thai, sảy thai hay mổ lấy thai không làm tăng nguy cơ chửa ngoài tử cung.
 
@@ -159,11 +159,11 @@ Phối hợp thêm thai trong tử cung.
 
 Dị ứng MTX.
 
-Bệnh nội khoa: suy gan, suy thận, loét dạ dày, suy giảm miễn dịch, suy tủy...
+Bệnh nội khoa: suy gan, suy thận, loét dạ dày, suy giảm miễn dịch, suy tủy…
 
 Người bệnh từ chối điều trị MTX hoặc không thể theo dõi lâu dài.
 
-Bất thường xét nghiệm tiền hóa trị (bạch cầu <3000/mm³, tiểu cầu <10000/mm³, tăng men gen AST, ALT >100IU/L, tăng BUN creatinine, rối loạn đông máu...)
+Bất thường xét nghiệm tiền hóa trị (bạch cầu <3000/mm³, tiểu cầu <10000/mm³, tăng men gen AST, ALT >100IU/L, tăng BUN creatinine, rối loạn đông máu…)
 
 ### Xét nghiệm tiền hóa trị
 
@@ -277,7 +277,7 @@ Cần tư vấn nguy cơ vỡ và phải phẫu thuật.
 
 ### Phẫu thuật nội soi cắt ống dẫn trứng
 
-Huyết động không ổn định, có triệu chứng vỡ hoặc chảy máu ổ bụng, đau bụng, dịch ổ bụng nhiều...
+Huyết động không ổn định, có triệu chứng vỡ hoặc chảy máu ổ bụng, đau bụng, dịch ổ bụng nhiều…
 
 Chống chỉ định hoặc thất bại trong điều trị nội khoa.
 
@@ -289,4 +289,4 @@ Chỉ định phẫu thuật kèm đoạn sản, cắt ống dẫn trứng bị 
 
 ## Nguồn tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

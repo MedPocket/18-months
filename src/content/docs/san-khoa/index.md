@@ -8,7 +8,7 @@ Sản khoa là chuyên ngành trong y học chuyên nghiên cứu, chẩn đoán
 Chuyên ngành này bao gồm nhiều khía cạnh như:
 
 - Quản lý thai kỳ bình thường và nguy cơ cao.
-- Phát hiện và điều trị các biến chứng thai sản (sinh non, tiền sản giật, thai lưu, nhau tiền đạo,...).
+- Phát hiện và điều trị các biến chứng thai sản (sinh non, tiền sản giật, thai lưu, nhau tiền đạo,…).
 - Xử trí các vấn đề phụ khoa có liên quan trong thời kỳ mang thai.
 - Hỗ trợ sinh sản và điều trị vô sinh.
 - Chăm sóc sức khỏe phụ nữ sau sinh và trong thời kỳ hậu sản.

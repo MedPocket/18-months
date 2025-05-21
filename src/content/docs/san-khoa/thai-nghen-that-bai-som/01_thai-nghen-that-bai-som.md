@@ -180,5 +180,5 @@ Tuy nhiên, cần lưu ý rằng thai phụ chọn lựa phương pháp này ph�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
 - Perinatology - [_Beta hCG Doubling Time Calculator._](https://perinatology.com/calculators/betahCG.htm).

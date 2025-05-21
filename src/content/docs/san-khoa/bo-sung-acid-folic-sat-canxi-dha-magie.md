@@ -49,7 +49,7 @@ Tác dụng chính:
 Tác dụng phụ: Có thể gây mùi tanh hoặc ợ nóng nếu sử dụng sản phẩm kém chất lượng.
 
 Thực phẩm giàu DHA:
-- Cá béo như cá hồi, cá thu, cá mòi,... Ưu tiên cá đánh bắt tự nhiên, tránh cá lớn (như cá kiếm, cá mập) vì nguy cơ nhiễm thủy ngân cao.
+- Cá béo như cá hồi, cá thu, cá mòi,… Ưu tiên cá đánh bắt tự nhiên, tránh cá lớn (như cá kiếm, cá mập) vì nguy cơ nhiễm thủy ngân cao.
 - Trứng gà bổ sung DHA.
 - Tảo biển.
 - Hạt chia, quả óc chó chứa ALA (acid alpha-linolenic), một dạng Omega-3 có thể chuyển thành DHA (nhưng với tỉ lệ thấp ~5%).

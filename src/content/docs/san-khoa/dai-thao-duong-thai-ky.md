@@ -122,7 +122,7 @@ Nhóm thai phụ có nguy cơ cao cần được xét nghiệm glucose huyết t
 
 :::
 
-Y văn ghi nhận tăng HbA1C trong 3 tháng đầu thai kỳ làm tăng nguy cơ dị tật thai (thai vô sọ, tật đầu nhỏ, dị tật tim...). Những thai phụ có HbA1C >6.5% là có tăng nguy cơ dị tật thai. Chuyên khoa Sản lưu ý nguy cơ dị tật và tư vấn sàng lọc dị tật (đặc biệt dị tật tim thai).
+Y văn ghi nhận tăng HbA1C trong 3 tháng đầu thai kỳ làm tăng nguy cơ dị tật thai (thai vô sọ, tật đầu nhỏ, dị tật tim…). Những thai phụ có HbA1C >6.5% là có tăng nguy cơ dị tật thai. Chuyên khoa Sản lưu ý nguy cơ dị tật và tư vấn sàng lọc dị tật (đặc biệt dị tật tim thai).
 
 Dựa trên tiêu chuẩn của đái tháo đường thực thụ, BN có thể mắc đái tháo đường từ trước nhưng khi có thai mới phát hiện đái tháo đường.
 
@@ -319,13 +319,13 @@ Cho trẻ tiếp xúc da kề da với mẹ ít nhất ngày đầu sau sinh, h�
 
 ## Điều chỉnh lối sống
 
-Để phòng ngừa đái tháo đường thai kỳ, phụ nữ có thai đặc biệt các thai phụ có nguy cơ cao như đã sinh con từ 4000g, trên 35 tuổi, thừa cân, béo phì... cần điều chỉnh lối sống (ăn tiết chế, tăng cường vận động) để phòng chống bệnh đái tháo đường thai kỳ:
+Để phòng ngừa đái tháo đường thai kỳ, phụ nữ có thai đặc biệt các thai phụ có nguy cơ cao như đã sinh con từ 4000g, trên 35 tuổi, thừa cân, béo phì… cần điều chỉnh lối sống (ăn tiết chế, tăng cường vận động) để phòng chống bệnh đái tháo đường thai kỳ:
 
 - Lựa chọn thực phẩm lành mạnh: Chế độ ăn uống hợp lý, lành mạnh và hoạt động thể chất là biện pháp chính để phòng chống đái tháo đường thai kỳ. Thai phụ cần được tư vấn về dinh dưỡng để giúp cho họ chọn đúng về số lượng và chất lượng thực phẩm. Thai phụ cần biết cách lựa chọn thực phẩm lành mạnh, để hạn chế sự tăng cân quá mức và phòng đái tháo đường thai kỳ.
 - Kiểm soát sự tăng cân trong thai kỳ: Tăng cân là biểu hiện tích cực cho thấy sự phát triển của thai nhi, tăng cân của người mẹ lúc mang thai phụ thuộc vào giai đoạn thai kỳ và tình trạng dinh dưỡng trước khi mang thai. Tùy theo tình trạng dinh dưỡng (chỉ số khối cơ thể BMI) trước khi có thai của người mẹ, tăng cân nên được quan tâm chú ý theo khuyến cáo về mức tăng cân trong thai kỳ. Ngoài ra để giảm nguy cơ đái tháo đường thai kỳ, khuyến cáo cần giảm cân cho đối tượng bị thừa cân, béo phì trước khi mang thai.
 - Hạn chế sử dụng muối: Giảm ăn mặn nhất là đối với những thai phụ có phù, tăng huyết áp hoặc bị nhiễm độc thai nghén để tránh tai biến khi sinh. Nên sử dụng dưới 5g muối/ngày và nên sử dụng muối iốt.
-- Hạn chế sử dụng rượu bia, thuốc lá và chất kích thích: Không nên dùng các loại đồ uống chứa chất kích thích như rượu, cà phê, thuốc lá, nước chè đặc... Giảm ăn các loại gia vị như ớt, hạt tiêu, tỏi.
-- Hoạt động thể chất: Hoạt động thể chất giúp phòng ngừa đái tháo đường thai kỳ, giảm sự đề kháng insulin, kiểm soát glucose huyết tương và rối loạn chuyển hóa lipid máu... Nên theo dõi hoạt động của thai nhi và lượng đường trong máu trước và sau khi tập thể dục.
+- Hạn chế sử dụng rượu bia, thuốc lá và chất kích thích: Không nên dùng các loại đồ uống chứa chất kích thích như rượu, cà phê, thuốc lá, nước chè đặc… Giảm ăn các loại gia vị như ớt, hạt tiêu, tỏi.
+- Hoạt động thể chất: Hoạt động thể chất giúp phòng ngừa đái tháo đường thai kỳ, giảm sự đề kháng insulin, kiểm soát glucose huyết tương và rối loạn chuyển hóa lipid máu… Nên theo dõi hoạt động của thai nhi và lượng đường trong máu trước và sau khi tập thể dục.
 
 ## Liệu pháp dinh dưỡng
 
@@ -337,9 +337,9 @@ Duy trì được hoạt động thể lực bình thường của bà mẹ hàn
 
 Duy trì được mức tăng cân phù hợp với từng giai đoạn của thai kỳ.
 
-Hỗ trợ điều chỉnh rối loạn chuyển hóa lipid máu, các rối loạn chức năng thận, tăng huyết áp....
+Hỗ trợ điều chỉnh rối loạn chuyển hóa lipid máu, các rối loạn chức năng thận, tăng huyết áp….
 
-Phòng các biến chứng của đái tháo đường thai nghén cho bà mẹ và thai nhi như sinh non, đa ối, sẩy thai, thai chết lưu, nhiễm khuẩn đường tiết niệu...
+Phòng các biến chứng của đái tháo đường thai nghén cho bà mẹ và thai nhi như sinh non, đa ối, sẩy thai, thai chết lưu, nhiễm khuẩn đường tiết niệu…
 
 ### Thai phụ có nguy cơ bị đái tháo đường
 
@@ -355,7 +355,7 @@ Nên ăn nhiều loại thực phẩm (15-20 loại/ngày, mỗi bữa có trên
 
 Nên ăn thịt nạc, cá nạc, đậu phụ, sữa chua, sữa, phô mai (ít béo, không đường).
 
-Hạn chế tối đa các thực phẩm có chỉ số đường huyết cao làm tăng cao glucose huyết tương sau ăn như bánh, kẹo, kem, chè, trái cây sấy... trái cây khô là các loại thức ăn có trên 20% glucid.
+Hạn chế tối đa các thực phẩm có chỉ số đường huyết cao làm tăng cao glucose huyết tương sau ăn như bánh, kẹo, kem, chè, trái cây sấy… trái cây khô là các loại thức ăn có trên 20% glucid.
 
 Giảm ăn các thực phẩm nhiều chất béo gây tăng mỡ máu.
 
@@ -367,7 +367,7 @@ Không nên dùng đường trắng.
 
 Đối với thai phụ bị thừa cân, béo phì hoặc tăng cân quá nhiều trong thời kỳ mang thai nên ăn các thực phẩm luộc, bỏ lò hơn là các món rán, không nên ăn thịt mỡ, ăn cá và thịt gia cầm thay cho thịt đỏ, ăn bơ tách chất béo và các thực phẩm khác nhau có hàm lượng chất béo thấp.
 
-Duy trì chế độ luyện tập tối thiểu 30 phút/ngày để phòng chống đái tháo đường thai kỳ nếu thai phụ không có các nguy cơ như nhau tiền đạo, dọa sinh non, tiền sản giật...
+Duy trì chế độ luyện tập tối thiểu 30 phút/ngày để phòng chống đái tháo đường thai kỳ nếu thai phụ không có các nguy cơ như nhau tiền đạo, dọa sinh non, tiền sản giật…
 
 ### Thai phụ bị đái tháo đường
 
@@ -398,15 +398,15 @@ Lipid:
 
 Glucid:
 - Tất cả các thai phụ bị đái tháo đường không kể đái tháo đường type 1 hay type 2 đều phải tuân thủ chế độ ăn giảm glucid (35-40 % năng lượng khẩu phần). Glucid nên được chia suốt cả ngày trong 3 bữa ăn chính và 2-3 bữa ăn phụ. Nên sử dụng tối thiểu 175g glucid/ngày.
-- Nếu thai phụ bị đái tháo đường muốn sử dụng các thực phẩm ngũ cốc khác thì nên ăn các loại ngũ cốc nguyên hạt hoặc chế phẩm của ngũ cốc nguyên hạt như ngô, bánh mỳ đen...
+- Nếu thai phụ bị đái tháo đường muốn sử dụng các thực phẩm ngũ cốc khác thì nên ăn các loại ngũ cốc nguyên hạt hoặc chế phẩm của ngũ cốc nguyên hạt như ngô, bánh mỳ đen…
 - Thai phụ đái tháo đường có thể ăn:
   - Không hạn chế đối với các thức ăn có ≤5% glucid.
   - Ăn có mức độ đối với các loại thức ăn có 10-20% glucid.
-  - Hạn chế tối đa đối với các loại đường hấp thu nhanh như đường trắng, mứt, kẹo, bánh ngọt và nước ngọt có ga, trái cây sấy khô... Đây là các loại thức ăn có trên 20% glucid.
+  - Hạn chế tối đa đối với các loại đường hấp thu nhanh như đường trắng, mứt, kẹo, bánh ngọt và nước ngọt có ga, trái cây sấy khô… Đây là các loại thức ăn có trên 20% glucid.
 
 Chất xơ:
 - Nhu cầu khuyến nghị chất xơ của phụ nữ có thai là 28g/ngày. 
-- Đặc biệt với thai phụ bị đái tháo đường thì chất xơ có vai trò quan trọng đặc biệt trong kiểm soát glucose huyết tương và phòng biến chứng của đái tháo đường. Thai phụ bị đái tháo đường cần ăn ít nhất 400g rau củ quả một ngày. Nên chọn rau củ quả có nhiều chất xơ như rau muống, rau ngót, rau bắp cải...
+- Đặc biệt với thai phụ bị đái tháo đường thì chất xơ có vai trò quan trọng đặc biệt trong kiểm soát glucose huyết tương và phòng biến chứng của đái tháo đường. Thai phụ bị đái tháo đường cần ăn ít nhất 400g rau củ quả một ngày. Nên chọn rau củ quả có nhiều chất xơ như rau muống, rau ngót, rau bắp cải…
 
 Vitamin và chất khoáng:
 - Đáp ứng đủ nhu cầu vitamin và chất khoáng theo nhu cầu khuyến nghị cho bà mẹ có thai.
@@ -420,7 +420,7 @@ Sữa và chế phẩm sữa:
 
 #### Thực phẩm
 
-Lựa chọn các thực phẩm: thực phẩm nhiều chất xơ như ngũ cốc nguyên hạt, rau củ..., thực phẩm có nhiều chất béo không no từ các nguồn thực vật, cá..., các thực phẩm có nhiều vitamin như quả chín, hạn chế các thực phẩm nhiều chất béo bão hòa (mỡ động vật, thịt nhiều mỡ...), hạn chế các thực phẩm nhiều cholesterol, các thực phẩm có nhiều đường đơn, đường đôi. Hạn chế chế biến dưới dạng nướng, chiên xào ở nhiệt độ cao.
+Lựa chọn các thực phẩm: thực phẩm nhiều chất xơ như ngũ cốc nguyên hạt, rau củ…, thực phẩm có nhiều chất béo không no từ các nguồn thực vật, cá…, các thực phẩm có nhiều vitamin như quả chín, hạn chế các thực phẩm nhiều chất béo bão hòa (mỡ động vật, thịt nhiều mỡ…), hạn chế các thực phẩm nhiều cholesterol, các thực phẩm có nhiều đường đơn, đường đôi. Hạn chế chế biến dưới dạng nướng, chiên xào ở nhiệt độ cao.
 
 Nên ăn cá, tối thiểu 2-3 bữa/tuần, ưu tiên những thực phẩm giàu acid béo omega 3 (mỡ cá, cá hồi).
 
@@ -458,7 +458,7 @@ Các chỉ định dùng insulin:
 
 ### Liều dùng insulin
 
-Liều lượng insulin và số mũi tiêm insulin phụ thuộc vào mức tăng glucose huyết tương, hình thái tăng glucose huyết tương, tuổi thai, tình trạng kháng insulin, stress, nhiễm trùng... Nếu người bệnh chỉ bị tăng glucose huyết tương lúc đói thì chỉ cần tiêm insulin nền (basal) tác dụng kéo dài hoặc bán chậm là đủ. Nếu người bệnh chỉ bị tăng glucose huyết tương sau ăn thì cần tiêm mũi insulin tác dụng nhanh (phóng hay bolus) trước các bữa ăn có glucose tăng cao. Nếu người bệnh bị tăng cả glucose huyết tương lúc đói và sau ăn thì phải phối hợp tiêm cả mũi Insulin nên và phóng trước các bữa ăn. Như vậy, tùy tình trạng tăng glucose huyết tương mà có thể tiêm cho bệnh nhân từ 1 mũi cho đến 4 mũi, thậm chí 5 mũi tiêm insulin trong ngày:
+Liều lượng insulin và số mũi tiêm insulin phụ thuộc vào mức tăng glucose huyết tương, hình thái tăng glucose huyết tương, tuổi thai, tình trạng kháng insulin, stress, nhiễm trùng… Nếu người bệnh chỉ bị tăng glucose huyết tương lúc đói thì chỉ cần tiêm insulin nền (basal) tác dụng kéo dài hoặc bán chậm là đủ. Nếu người bệnh chỉ bị tăng glucose huyết tương sau ăn thì cần tiêm mũi insulin tác dụng nhanh (phóng hay bolus) trước các bữa ăn có glucose tăng cao. Nếu người bệnh bị tăng cả glucose huyết tương lúc đói và sau ăn thì phải phối hợp tiêm cả mũi Insulin nên và phóng trước các bữa ăn. Như vậy, tùy tình trạng tăng glucose huyết tương mà có thể tiêm cho bệnh nhân từ 1 mũi cho đến 4 mũi, thậm chí 5 mũi tiêm insulin trong ngày:
 
 - Nếu người bệnh chỉ tăng glucose huyết tương buổi sáng lúc đói thì phác đồ sử dụng insulin nền được khuyến cáo. Có thể sử dụng insulin NPH hoặc insulin tác dụng kéo dài (Detemir). Liều khởi đầu 0.1IU/kg/ngày (trọng lượng thực) nếu glucose huyết tương buổi sáng lúc đói thường xuyên bằng hoặc trên 5.3mmol/L (95mg/L) và dưới 7mmol/L (180mg/dL). Chỉnh liều insulin cứ 2-3 ngày/lần, mỗi lần thêm 1-2 IU cho đến khi đạt mục tiêu điều trị.
 
@@ -638,7 +638,7 @@ Ngừng các thuốc hạ đường huyết khác insulin khi có thai. Nên s�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
-- TS. Lê Quang Toàn - [_Bài giảng đái tháo đường thai kỳ._](https://www.youtube.com/watch?v=WV4g4cJdMCo).
-- Bộ Y Tế (2023) - _HƯỚNG DẪN QUỐC GIA VỀ SÀNG LỌC VÀ QUẢN LÝ ĐÁI THÁO ĐƯỜNG THAI KỲ._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_
+- TS. Lê Quang Toàn - [_Bài giảng đái tháo đường thai kỳ_](https://www.youtube.com/watch?v=WV4g4cJdMCo)
+- Bộ Y Tế (2023) - _HƯỚNG DẪN QUỐC GIA VỀ SÀNG LỌC VÀ QUẢN LÝ ĐÁI THÁO ĐƯỜNG THAI KỲ_

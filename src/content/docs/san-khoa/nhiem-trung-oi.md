@@ -81,11 +81,11 @@ Chấm dứt thai kỳ khi có chẩn đoán nghi ngờ hoặc xác định nhi�
 
 Khởi phát chuyển dạ hoặc can thiệp để rút ngắn thời gian chuyển dạ (từ lúc nghi ngờ hoặc xác định đến lúc sinh không kéo dài quá 12h).
 
-Mổ lấy thai khi có chỉ định. Mổ lấy thai làm tăng nguy cơ nhiễm trùng vết thường, viêm nội mạc tử cung, huyết khối mạch máu...
+Mổ lấy thai khi có chỉ định. Mổ lấy thai làm tăng nguy cơ nhiễm trùng vết thường, viêm nội mạc tử cung, huyết khối mạch máu…
 
 Duy trì kháng sinh sau sinh/sau mô đến khi hết sốt ít nhất 24h.
 
-Xác định nhiễm trùng lan rộng bao gồm nhiễm trùng vùng chậu, nhiễm trùng huyết, nhiễm trùng toàn thân... Khi có nhiễm trùng lan rộng cần điều trị tích cực theo mức độ nhiễm trùng.
+Xác định nhiễm trùng lan rộng bao gồm nhiễm trùng vùng chậu, nhiễm trùng huyết, nhiễm trùng toàn thân… Khi có nhiễm trùng lan rộng cần điều trị tích cực theo mức độ nhiễm trùng.
 
 ### Kháng sinh
 
@@ -129,5 +129,5 @@ _Lưu đồ xử trí nhiễm trùng ối._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

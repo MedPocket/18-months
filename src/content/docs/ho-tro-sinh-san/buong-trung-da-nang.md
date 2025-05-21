@@ -15,7 +15,7 @@ Hội chứng buồng trứng đa nang là tập hợp các triệu chứng liê
 
 ### Hội chứng buồng trứng đa nang
 
-Hội chứng buồng trứng đa nang là tập hợp của nhiều triệu chứng, do đó, không có tiêu chuẩn đơn lẻ nào có đủ giá trị cho chẩn đoán lâm sàng. Các rối loạn hay bệnh lý khác có thể có các triệu chứng giống hội chứng buồng trứng đa nang cần được loại trừ như tăng sản tuyến thượng thận bẩm sinh, các loại u chế tiết androgen, hội chứng Cushing...
+Hội chứng buồng trứng đa nang là tập hợp của nhiều triệu chứng, do đó, không có tiêu chuẩn đơn lẻ nào có đủ giá trị cho chẩn đoán lâm sàng. Các rối loạn hay bệnh lý khác có thể có các triệu chứng giống hội chứng buồng trứng đa nang cần được loại trừ như tăng sản tuyến thượng thận bẩm sinh, các loại u chế tiết androgen, hội chứng Cushing…
 
 :::note[Tiêu chuẩn chẩn đoán theo Rotterdam 2003]
 Hội chứng buồng trứng đa nang được chẩn đoán khi người bệnh có 2 trong 3 tiêu chuẩn:

@@ -114,4 +114,4 @@ _Biểu đồ chuyển dạ._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

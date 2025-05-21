@@ -71,7 +71,7 @@ Do kháng thể kích thích tuyến giáp có thể truyền qua rau, thoáng q
 
 ### Suy giáp trong thai kỳ
 
-Nguyên nhân thường gặp nhất của nhược giáp ở phụ nữ trong độ tuổi sinh đẻ là viêm giáp Hashimoto, phẫu thuật cắt bỏ tuyến giáp và xạ trị do ung thư tuyến giáp, ngoài ra còn có 1 số bệnh lý khác như đái tháo đường type 1...
+Nguyên nhân thường gặp nhất của nhược giáp ở phụ nữ trong độ tuổi sinh đẻ là viêm giáp Hashimoto, phẫu thuật cắt bỏ tuyến giáp và xạ trị do ung thư tuyến giáp, ngoài ra còn có 1 số bệnh lý khác như đái tháo đường type 1…
 
 Phụ nữ mang thai bị nhược giáp nếu được điều trị thay thế thích hợp có thể có kết cục thai kỳ bình thường. Tuy nhiên, nếu tình trạng nhược giáp của thai phụ không được điều trị sẽ làm tăng nguy cơ sẩy thai, tiền sản giật, thai lưu, cân nặng lúc sinh thấp, giảm chỉ số thông minh của trẻ.
 
@@ -87,4 +87,4 @@ PTU.
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

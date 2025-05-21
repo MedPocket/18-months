@@ -9,7 +9,7 @@ Tình trạng tưới máu bánh rau bị giảm sút và thai nhi bị toan hó
 
 ## Giá trị của đếm cử động thai
 
-Thai kỳ có nguy cơ (high risk pregnancies) thì sự kiện cử động thai giảm có liên quan với việc tăng tỷ lệ các thai kỳ với kết cục xấu như tử vong thai, thai chậm tăng trưởng, điểm số apgar thấp, cần mổ lấy thai cấp cứu...
+Thai kỳ có nguy cơ (high risk pregnancies) thì sự kiện cử động thai giảm có liên quan với việc tăng tỷ lệ các thai kỳ với kết cục xấu như tử vong thai, thai chậm tăng trưởng, điểm số apgar thấp, cần mổ lấy thai cấp cứu…
 
 Thai phụ có nguy cơ thấp thì việc đếm cử động thai cũng giúp làm giảm tỷ lệ tử vong thai so với nhóm chứng, mặc dù sự khác biệt này không có ý nghĩa thống kê.
 
@@ -50,7 +50,7 @@ NST và siêu âm là 2 test đầu tay khi ghi nhận có giảm cử động t
 
 Test hỗ trợ phải được thực hiện càng sớm càng tốt (trong vòng 1-12h sau giảm cử động thai) theo sau bất thường của đếm cử động thai.
 
-Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lượng nước ối, đánh giá sinh trắc thai...
+Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lượng nước ối, đánh giá sinh trắc thai…
 
 Non-stress test:
 
@@ -62,4 +62,4 @@ Non-stress test:
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

@@ -5,7 +5,7 @@ description: Tiết dịch núm vú.
 
 Phần lớn nguyên nhân gây tiết dịch núm vú là lành tính.
 
-Dịch thường thấy nhất là tiết sữa. Trong trường hợp này khai thác bệnh sử về dùng thuốc như hướng thần kinh, thuốc chống trầm cảm hay ức chế bơm proton... có thể cho biết nguyên nhân do dùng thuốc của tăng tiết sữa gây tăng prolactin.
+Dịch thường thấy nhất là tiết sữa. Trong trường hợp này khai thác bệnh sử về dùng thuốc như hướng thần kinh, thuốc chống trầm cảm hay ức chế bơm proton… có thể cho biết nguyên nhân do dùng thuốc của tăng tiết sữa gây tăng prolactin.
 
 Khảo sát nội tiết để tìm các nguyên nhân xa hơn như microadenoma tuyến yên hay nhược giáp là cần thiết. Kích thích núm vú quá mức cũng thường gặp.
 
@@ -19,11 +19,11 @@ Hiện tượng tiết dịch giống sữa, tự phát, thường là 2 bên v�
 
 ### Nguyên nhân
 
-U tuyến yên (phù gai thị, rối loạn thị giác...).
+U tuyến yên (phù gai thị, rối loạn thị giác…).
 
-Chấn thương thành ngực, tổn thương tủy sống, xơ gan, nhược giáp, suy thận...
+Chấn thương thành ngực, tổn thương tủy sống, xơ gan, nhược giáp, suy thận…
 
-BN đang sử dụng: estrogen liều cao, thuốc chống trầm cảm 3 vòng và cimetidine...
+BN đang sử dụng: estrogen liều cao, thuốc chống trầm cảm 3 vòng và cimetidine…
 
 ### Cận lâm sàng
 
@@ -70,5 +70,5 @@ _Xử trí tiết dịch núm vú bệnh lý Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

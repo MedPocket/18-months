@@ -47,7 +47,7 @@ Tuổi tác làm ảnh hưởng đến cảm thụ đau. Phụ nữ lớn tuổi
 
 Tiền sử về đau nhiều lúc có kinh và đau lưng cũng liên quan đến thay đổi đau trong chuyển dạ, trong khi đó vai trò của tư thế thai và oxytocin vẫn còn bàn cãi.
 
-Có sự khác biệt rất nhiều về giảm đau giữa các nền văn hóa, cá tính, tôn giáo, đã từng trải về sinh đẻ... Tất cả điều này sẽ ảnh hưởng đến cái đau sẽ trải qua.
+Có sự khác biệt rất nhiều về giảm đau giữa các nền văn hóa, cá tính, tôn giáo, đã từng trải về sinh đẻ… Tất cả điều này sẽ ảnh hưởng đến cái đau sẽ trải qua.
 
 ![Các yếu tố ảnh hưởng đến đau trong chuyển dạ](../../../../assets/san-khoa/giam-dau-trong-chuyen-da/yeu-to-anh-huong-den-dau-trong-chuyen-da.png)
 _Các yếu tố ảnh hưởng đến đau trong chuyển dạ._
@@ -81,7 +81,7 @@ Tê ngoài màng cứng giảm đau sản khoa chỉ có 2 chống chỉ định
 - Bệnh lý hệ thần kinh: Trước đây là bệnh lý này là chống chỉ định do tình trạng diễn biến xấu sau khi sinh. Tuy nhiên các chứng cứ hiện tại cho thấy sản phụ có bệnh lý hệ thần kinh trước có thể được tê ngoài màng cứng an toàn. Tình trạng xấu sau sinh có thể chỉ liên quan đến bệnh sử tự nhiên của bệnh.
 - Thiếu khối lượng tuần hoàn: Không nên gây tê ở sản phụ thiếu khối lượng tuần hoàn do mất máu cấp do sự phối hợp liệt giao cảm và thiếu khối lượng tuần hoàn có thể gây ra hạ huyết áp trầm trọng. Tuy vậy, tê ngoài màng cứng vẫn là biện pháp an toàn nếu thể tích trong lòng mạch đã được phục hồi và duy trì tốt.
 - Bệnh lý đông máu: Xuất huyết trong khoang ngoài màng cứng chưa được kiểm tra có thể gây tổn thương thần kinh vĩnh viễn. Vì thế, cần rất thận trọng tê ngoài màng cứng ở sản phụ có bệnh lý đông máu hoặc hạ tiểu cầu.
-- Cũng nên thận trọng và cân nhắc khi quyết định gây tê ngoài màng cứng cho các bệnh lý có khả năng gây rối loạn đông máu khi có thai bao gồm: tiền sản giật, sẩy thai to,thai chết lưu, thuyên tắc ối, đang dùng thuốc kháng đông (heparin, coumarin...).
+- Cũng nên thận trọng và cân nhắc khi quyết định gây tê ngoài màng cứng cho các bệnh lý có khả năng gây rối loạn đông máu khi có thai bao gồm: tiền sản giật, sẩy thai to,thai chết lưu, thuyên tắc ối, đang dùng thuốc kháng đông (heparin, coumarin…).
 
 ### Ảnh hưởng đến chuyển dạ
 
@@ -108,4 +108,4 @@ Hiệu quả giảm đau giữa tê ngoài màng cứng và tê tủy sống là
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

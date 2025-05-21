@@ -53,7 +53,7 @@ Vi sang chấn → xâm nhập → viêm → cường estrogen → đề kháng 
 
 Adenomyosis được hình thành do các chấn thương vi thể tại màng đáy của nội mạc tử cung. Các chấn thương vi thể này có thể có nguồn gốc đa dạng, tự nhiên (các hoạt động co thắt nghịch thường của tử cung) hay thụ đắc (tổn thương màng đáy của nội mạc do sinh đẻ hay thủ thuật).
 
-Tổn thương màng đáy của nội mạc nội mạc tạo điều kiện cho sự xâm nhập vào mô đệm bên dưới của các tế bào gốc. Tế bào xâm nhập lạc vị là các tế bào gốc trung mô. Tùy theo đáp ứng miễn nhiễm của cơ thể, sự xâm nhập này có thể bị loại trừ, những cá thể không mắc adenomyosis, cơ chế miễn nhiễm đóng vai trò quan trọng trong việc "dọn sạch" các tế bào xâm nhập. Ở những cá thể mắc adenomyosis, cơ chế miễn nhiễm đã thất bại trong việc loại trừ các tế bào xâm nhập. Giả thuyết về bất thường trong kiểm soát chu trình tế bào, viêm... thông qua các micro-RNA là giả thuyết được chấp nhận nhiều nhất hiện nay. Các bất thường của mi-RNA profiling liên quan chủ yếu đến các mi-RNA kiểm soát chu trình chết tế bào, tạo mạch và viêm. Dưới bất thường của kiểm soát mi-RNA. Tế bào trở thành tế bào "bất tử". Vì lý do này mà mi-RNA profiling được xem như khảo sát hứa hẹn cho tầm soát và nhận diện các endometriosis dưới lâm sàng.
+Tổn thương màng đáy của nội mạc nội mạc tạo điều kiện cho sự xâm nhập vào mô đệm bên dưới của các tế bào gốc. Tế bào xâm nhập lạc vị là các tế bào gốc trung mô. Tùy theo đáp ứng miễn nhiễm của cơ thể, sự xâm nhập này có thể bị loại trừ, những cá thể không mắc adenomyosis, cơ chế miễn nhiễm đóng vai trò quan trọng trong việc "dọn sạch" các tế bào xâm nhập. Ở những cá thể mắc adenomyosis, cơ chế miễn nhiễm đã thất bại trong việc loại trừ các tế bào xâm nhập. Giả thuyết về bất thường trong kiểm soát chu trình tế bào, viêm… thông qua các micro-RNA là giả thuyết được chấp nhận nhiều nhất hiện nay. Các bất thường của mi-RNA profiling liên quan chủ yếu đến các mi-RNA kiểm soát chu trình chết tế bào, tạo mạch và viêm. Dưới bất thường của kiểm soát mi-RNA. Tế bào trở thành tế bào "bất tử". Vì lý do này mà mi-RNA profiling được xem như khảo sát hứa hẹn cho tầm soát và nhận diện các endometriosis dưới lâm sàng.
 
 Cơ thể sẽ phản ứng lại sự xâm nhập này của tế bào gốc bằng tiến trình viêm. Trong trường hợp sự xâm nhập không bị loại trừ, tiến trình viêm sẽ tiếp diễn. Viêm tại mô bị xâm nhập bởi các cấu trúc tuyến nội mạc lạc vị khởi động vòng xoắn bệnh lý trong đó mối liên quan giữa viêm và tình trạng cường estrogen đóng vai trò quan trọng. COX-2 dường như đóng vai trò chủ lực trong tiến trình này. Thông qua PGE2 và được tiếp theo bằng STAR (steroidogenic acute regulatory protein) và enzyme P450 aromatase, tiến trình sản xuất estrogen bị kích hoạt. Cường estrogen là hiện tượng quan trọng được quan sát thấy trong mô nội mạc tử cung lạc vị, làm tăng nặng tiến trình xâm nhập của mô tuyến nội mạc tử cung lạc vị. Tương tự, các thụ thể với estrogen, đặc biệt là ER-α, aromatase P450 và 17-β hydroxy dehydrogenase cũng tăng cao trong mô tuyến nội mạc lạc vị. Hoạt động bất thường của men aromatase P450 và của men 17-β hydroxy dehydrogenase tại mô tuyến nội mạc tử cung lạc vị gây ra sự tăng estrogen cục bộ, mà không lệ thuộc vào estrogen buồng trứng. Cường estrogen kích hoạt tổng hợp các ER, trong đó có ER-α, làm tăng thêm các hoạt động nghịch thường của tử cung, cuối cùng làm tăng thêm các vi sang chấn.
 
@@ -61,7 +61,7 @@ Như vậy, viêm dẫn đến kết cục là tình trạng hoạt động co t
 
 Cường estrogen cũng kích hoạt tổng hợp ER-β, chi phối hoạt động tân tạo mạch và thần kinh. Đại thực bào sẽ phóng thích các hoạt chất tạo mạch và sinh thần kinh, tạo ra tình trạng đặc biệt là viêm thần kinh-sinh mạch.
 
-Nội mạc tử cung trở nên đề kháng với progesterone, dù rằng nồng độ progesterone trong máu ngoại vi là không thay đổi do dưới ảnh hưởng của tình trạng cường estrogen tại chỗ, biểu hiện gene của gene PGR bị ảnh hưởng. Gene PGR lúc này sẽ biểu hiện chủ yếu bằng PR-A thay vì PR-B. Biểu hiện ưu thế PR-A làm thay đổi tỷ lệ PR-A:PR-B tại nội mạc. Đề kháng progesterone gây ra các kết cục xấu cho sinh sản và các khó khăn cho điều trị trên nền tảng progestin. Là nguồn gốc của xuất huyết tử cung bất thường (AUB-A), gây ra các khó khăn cho các liệu pháp nội tiết trên cơ sở steroid, và đồng thời cũng ảnh hưởng nghiêm trọng trên chức năng sinh sản của người phụ nữ như sẩy thai, tiền sản giật...
+Nội mạc tử cung trở nên đề kháng với progesterone, dù rằng nồng độ progesterone trong máu ngoại vi là không thay đổi do dưới ảnh hưởng của tình trạng cường estrogen tại chỗ, biểu hiện gene của gene PGR bị ảnh hưởng. Gene PGR lúc này sẽ biểu hiện chủ yếu bằng PR-A thay vì PR-B. Biểu hiện ưu thế PR-A làm thay đổi tỷ lệ PR-A:PR-B tại nội mạc. Đề kháng progesterone gây ra các kết cục xấu cho sinh sản và các khó khăn cho điều trị trên nền tảng progestin. Là nguồn gốc của xuất huyết tử cung bất thường (AUB-A), gây ra các khó khăn cho các liệu pháp nội tiết trên cơ sở steroid, và đồng thời cũng ảnh hưởng nghiêm trọng trên chức năng sinh sản của người phụ nữ như sẩy thai, tiền sản giật…
 
 ![Sơ đồ mô hình TIAR](../../../assets/phu-khoa/lac-noi-mac-tu-cung/so-do-mo-hinh-tiar.png)
 _Mối tương quan giữa xâm nhập nguyên thủy do vi sang chấn với viêm và COX-2, aromatase P450, estrogen và nhu động nghịch thường._
@@ -93,7 +93,7 @@ Tiền sử gia đình có người bị lạc nội mạc tử cung.
 
 Tắc nghẽn đường thoát máu kinh.
 
-Chế độ ăn thịt đỏ, chất béo, thuốc lá, uống đồ uống có cồn, caffeine...
+Chế độ ăn thịt đỏ, chất béo, thuốc lá, uống đồ uống có cồn, caffeine…
 
 ## Chẩn đoán xác định
 
@@ -107,7 +107,7 @@ Biểu hiện lâm sàng của adenomyosis là các biểu hiện của viêm, c
 
 Thống kinh là than phiền thường thấy nhất của adenomyosis. Lúc đầu là đau do viêm, sau đó là viêm thần kinh sinh mạch và cuối cùng là đau do nhạy cảm trung ương đặc điểm:
 
-- Đau thường bắt đầu ngay từ trước khi hành kinh, và kéo dài trong suốt thời gian hành kinh và không chấm dứt hoàn toàn sau khi sạch kinh. Có thể đau không có tính chu kỳ, đau sau giao hợp. Đau khu trú theo kỳ kinh tại sẹo mổ lấy thai, vùng tầng sinh môn...
+- Đau thường bắt đầu ngay từ trước khi hành kinh, và kéo dài trong suốt thời gian hành kinh và không chấm dứt hoàn toàn sau khi sạch kinh. Có thể đau không có tính chu kỳ, đau sau giao hợp. Đau khu trú theo kỳ kinh tại sẹo mổ lấy thai, vùng tầng sinh môn…
 - Đau bụng kéo dài, mức độ nặng, kèm theo tử cung to, cứng chắc, di động kém, chạm đau gợi ý tình trạng thống kinh do adenomyosis, chứ không phải trường hợp đau bụng kinh thông thường.
 - Thống kinh trong adenomyosis khởi đầu bằng viêm, thông qua trung gian của IL-1β, của COX-2 và của PGE2.
 - Sau đó, thống kinh có xu hướng tăng nặng dần do sự hiện diện của viêm thần kinh-sinh mạch hệ quả của cường estrogen, chuyển dạng các macrophage, tân tạo mạch và sinh thần kinh hướng về tổn thương.
@@ -134,10 +134,10 @@ Cần khám thành bụng, âm hộ, âm đạo, tầng sinh môn/ khám trực 
 - Lạc nội mạc tử cung sâu: vách âm đạo trực tràng, 2 dây chằng tử cung cùng nề cứng khi khám bằng tay có kết hợp khám trực tràng; hoặc nhìn thấy các nốt xanh tím trong vùng cùng đồ sau khi khám bằng mỏ vịt hoặc đặt van âm đạo, sờ chạm có thể đau.
 - Lạc nội mạc tử cung vào buồng trứng: khám âm đạo hay trực tràng thấy có khối cạnh tử cung ở 1 hoặc 2 bên, kém di động.
 - Bệnh tuyến cơ tử cung: khám phụ khoa thấy tử cung có kích thước lớn, dày không đều như khối cầu (nếu là lạc nội mạc tử cung thể lan tỏa), có thể kém di động.
-- Vị trí lạc nội mạc tử cung khác: sờ được khối cứng chắc gợi ý lạc nội mạc tử cung, cương và đau theo kỳ kinh, nằm tại thành bụng quanh vùng sẹo mổ lấy thai, hoặc vùng tầng sinh môn...
+- Vị trí lạc nội mạc tử cung khác: sờ được khối cứng chắc gợi ý lạc nội mạc tử cung, cương và đau theo kỳ kinh, nằm tại thành bụng quanh vùng sẹo mổ lấy thai, hoặc vùng tầng sinh môn…
 - Thực tiễn khám lâm sàng có thể không ghi nhận gì bất thường dù có triệu chứng cơ năng gợi ý lạc nội mạc tử cung.
 
-Các khối lạc nội mạc tử cung buồng trứng lớn có thể chèn ép trực tràng, bàng quang gây tiểu khó, tiểu rắt, đi tiểu đau, tiểu ra máu, chảy máu trực tràng, táo bón...
+Các khối lạc nội mạc tử cung buồng trứng lớn có thể chèn ép trực tràng, bàng quang gây tiểu khó, tiểu rắt, đi tiểu đau, tiểu ra máu, chảy máu trực tràng, táo bón…
 
 Adenomyosis có ảnh hưởng trên khả năng mang thai cũng kết cục của thai kỳ:
 
@@ -148,13 +148,13 @@ Adenomyosis có ảnh hưởng trên khả năng mang thai cũng kết cục c�
 
 #### Siêu âm đường âm đạo
 
-Lạc nội mạc buồng trứng phản âm kém, dạng kính mờ, có thể 1 hay nhiều thùy, không có chồi nhú...
+Lạc nội mạc buồng trứng phản âm kém, dạng kính mờ, có thể 1 hay nhiều thùy, không có chồi nhú…
 
 Lạc nội mạc trong cơ tử cung toàn bộ cơ tử cung phản âm kém, phản âm sọc trong bệnh tuyến cơ tử cung (thể lan tỏa) hoặc cơ tử cung có phần âm kém khu trú giới hạn không rõ (thể khu trú).
 
 #### Cộng hưởng từ
 
-Dùng trong trường hợp cần phân biệt tuyến cơ tử cung và u xơ tử cung, đánh giá sang thương lạc nội mạc tử cung sâu, đánh giá tính chất, mức độ xâm lấn cơ quan xung quanh...
+Dùng trong trường hợp cần phân biệt tuyến cơ tử cung và u xơ tử cung, đánh giá sang thương lạc nội mạc tử cung sâu, đánh giá tính chất, mức độ xâm lấn cơ quan xung quanh…
 
 #### Dấu ấn sinh học
 
@@ -165,13 +165,13 @@ CA125 huyết thanh tăng nhưng không đặc hiệu để chẩn đoán bệnh
 #### Các kỹ thuật khác hỗ trợ
 
 Chụp đường tiêu hóa, tiết niệu có cản quang, nội soi bàng quang - niệu quản, nội soi đại - trực tràng
-... có thể hữu ích giúp đánh giá thêm về lạc nội mạc tử cung nặng vùng chậu.
+… có thể hữu ích giúp đánh giá thêm về lạc nội mạc tử cung nặng vùng chậu.
 
 ## Chẩn đoán phân biệt
 
-Khối u buồng trứng không phải lạc nội mạc tử cung: cần thực hiện tổng soát bilan đánh giá u để loại trừ u ác tính buồng trứng (dựa vào bệnh sử, chẩn đoán hình ảnh như siêu âm, cộng hưởng từ, CT scan, các dấu ấn sinh học bướu...).
+Khối u buồng trứng không phải lạc nội mạc tử cung: cần thực hiện tổng soát bilan đánh giá u để loại trừ u ác tính buồng trứng (dựa vào bệnh sử, chẩn đoán hình ảnh như siêu âm, cộng hưởng từ, CT scan, các dấu ấn sinh học bướu…).
 
-Bệnh lý ác tính vùng chậu không phải là lạc nội mạc tử cung xâm lấn vách trực tràng - âm đạo, vách bàng quang, - âm đạo, cùng đồ sau, vách chậu...
+Bệnh lý ác tính vùng chậu không phải là lạc nội mạc tử cung xâm lấn vách trực tràng - âm đạo, vách bàng quang, - âm đạo, cùng đồ sau, vách chậu…
 
 Nhân xơ tử cung trong cơ, không phải là bệnh tuyến cơ tử cung.
 
@@ -206,7 +206,7 @@ Trong thời kỳ này, thống kinh có thể được kiểm soát bằng các
 
 Chấp nhận việc dùng NSAIDs như là empirical treatment (điều trị theo kinh nghiệm mà không cần bằng chứng).
 
-Thuốc có chống chỉ định cho người có tiền sử loét dạ dày tá tràng, bệnh lý tim mạch...
+Thuốc có chống chỉ định cho người có tiền sử loét dạ dày tá tràng, bệnh lý tim mạch…
 
 #### COCs
 
@@ -228,7 +228,7 @@ Khi đau đã diễn tiến đến đau do viêm thần kinh-sinh mạch thì c�
 
 Tình trạng cường estrogen tại nội mạc tử cung chính vị và tại nội mạc tử cung lạc vị có thể được khắc phục bằng các chất ức chế hoạt động của men aromatase P450 (AIs).
 
-Việc dùng AIs sẽ ảnh hưởng lên cả hoạt động sản xuất estrogen của tế bào hạt của noãn nang, vì thế tạo nên tình trạng thiếu hụt toàn thân của estrogen... Hệ quả là việc dùng AIs kéo dài sẽ tạo nên các tác dụng phụ không mong muốn liên quan đến thiếu hụt estrogen, bao gồm giảm mật độ xương, các bệnh lý mạch máu...
+Việc dùng AIs sẽ ảnh hưởng lên cả hoạt động sản xuất estrogen của tế bào hạt của noãn nang, vì thế tạo nên tình trạng thiếu hụt toàn thân của estrogen… Hệ quả là việc dùng AIs kéo dài sẽ tạo nên các tác dụng phụ không mong muốn liên quan đến thiếu hụt estrogen, bao gồm giảm mật độ xương, các bệnh lý mạch máu…
 
 Chỉ định của AIs thường là các trường hợp đau tái phát, hay thất bại với các điều trị giảm đau adenomyosis chuyên biệt khác, hay dùng phối hợp với các điều trị khác.
 
@@ -236,7 +236,7 @@ Chỉ định của AIs thường là các trường hợp đau tái phát, hay 
 
 Điều trị bằng các đồng vận GnRH cũng tương tự với chỉ định của điều trị bằng các AIs.
 
-Việc dùng liên tục và kéo dài các đồng vận của GnRH gây ra tình trạng giải mẫn cảm tuyến yên, ức chế hoạt động chế tiết gonadotropin của tuyến này, từ đó ngăn cản hoạt động tổng hợp hoạt động estrogen tại buồng trứng. Tương tự như AIs, các đồng vận của GnRH gây ra tình trạng giảm sâu của estrogen lưu hành trong máu ngoại vi...
+Việc dùng liên tục và kéo dài các đồng vận của GnRH gây ra tình trạng giải mẫn cảm tuyến yên, ức chế hoạt động chế tiết gonadotropin của tuyến này, từ đó ngăn cản hoạt động tổng hợp hoạt động estrogen tại buồng trứng. Tương tự như AIs, các đồng vận của GnRH gây ra tình trạng giảm sâu của estrogen lưu hành trong máu ngoại vi…
 
 Các triệu chứng được cải thiện trong thời gian điều trị với đồng vận của GnRH, nhưng sẽ tái phát trở lại sau khi ngưng điều trị. Khoảng thời gian tái phát trung bình của đau sau đồng vận của GnRH là 12-18 tháng.
 
@@ -245,14 +245,14 @@ Khuyến cáo phối hợp với liệu pháp bổ trợ (add - back therapy) ng
 Thận trọng khi chỉ định điều trị cho phụ nữ trẻ và tuổi vị thành niên vì ở những đối tượng này chưa
 được đánh giá hết mật độ xương tối đa.
 
-Các GnRH đồng vận như goserelin, triptoreline (biệt dược diphereline 3.75mg), leuprolide... đều có thể là 1 trong các lựa chọn để giảm đau do.
+Các GnRH đồng vận như goserelin, triptoreline (biệt dược diphereline 3.75mg), leuprolide… đều có thể là 1 trong các lựa chọn để giảm đau do.
 
 #### Progestin, kháng progestin, danazol
 
 Tùy đặc điểm từng người bệnh có thể lựa chọn các thuốc thuộc nhóm progestin khác nhau như dienogest (visanne 2mg), norethisterone acetate, hoặc kháng progestin (gestrinone).
 
 :::caution[Lưu ý]
-Lựa chọn progestin và kháng progestin cần lưu ý thuốc có tác dụng phụ ít nhất, nhất là các tác dụng phụ không hồi phục (huyết khối, nam hóa...).
+Lựa chọn progestin và kháng progestin cần lưu ý thuốc có tác dụng phụ ít nhất, nhất là các tác dụng phụ không hồi phục (huyết khối, nam hóa…).
 :::
 
 Dienogest có thể được dùng như điều trị empirical hay dùng như điều trị khi có bằng chứng. Dienogest hoạt động trên cả bình diện hạ đồi (ức chế phóng noãn) lẫn bình diện tại chỗ. Dưới Dienogest, các hoạt động viêm của sang thương bị khống chế, từ đó ngăn cản sự tiếp diễn của bệnh sinh, bao gồm cả cường estrogen và bất thường biểu hiện của gene ER lẫn PGR. Phân tử này được biết như là progestin có hiệu quả trên IL-1β và tái lập cân bằng PR-A:PR-B. Dienogest có hiệu quả giảm đau tương đương GnRH với ít tác dụng phụ do rối loạn vận mạch, không ảnh hưởng mật độ xương; có thể sử dụng lâu dài (liên tục hoặc ngắt quãng) với các dữ liệu lâm sàng đánh giá sau hơn 10 năm theo dõi.
@@ -275,9 +275,9 @@ Nếu đau đã đi đến giai đoạn nhạy cảm trung ương, các điều 
 
 | STT | Loại thuốc                                                                    | Liều dùng                                                                                                                                                                                                    | Hiệu quả                                                                                                                                                                                                                                                  | Tác dụng phụ/Chống chỉ định                                                                                            |
 | --- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| 1   | Kháng viêm không steroids (NSAIDs)                                            | Ibuprofen 400mg (u)/mỗi 4-6h.<br>Naproxen 250mg (u)/mỗi 4-6h.<br>Diclofenac, liều khởi đầu 75-100mg, liều duy trì 50mg (u)/3 lần mỗi ngày.<br>Meloxicam 7.5mg (u)/mỗi ngày.<br>Piroxicam 20mg (u)/mỗi ngày. | Ức chế tổng hợp prostaglandin, kháng viêm.<br>Giảm thống kinh nguyên phát.                                                                                                                                                                                | Chống chỉ định tiền sử loét dạ dày, tá tràng, bệnh thận, bệnh co thắt phế quản, đột quỵ, thiếu máu cơ tim, suy tim... |
+| 1   | Kháng viêm không steroids (NSAIDs)                                            | Ibuprofen 400mg (u)/mỗi 4-6h.<br>Naproxen 250mg (u)/mỗi 4-6h.<br>Diclofenac, liều khởi đầu 75-100mg, liều duy trì 50mg (u)/3 lần mỗi ngày.<br>Meloxicam 7.5mg (u)/mỗi ngày.<br>Piroxicam 20mg (u)/mỗi ngày. | Ức chế tổng hợp prostaglandin, kháng viêm.<br>Giảm thống kinh nguyên phát.                                                                                                                                                                                | Chống chỉ định tiền sử loét dạ dày, tá tràng, bệnh thận, bệnh co thắt phế quản, đột quỵ, thiếu máu cơ tim, suy tim… |
 | 2   | Nội tiết tránh thai: thuốc viên tránh thai kết hợp; hoặc miếng dán tránh thai | Thuốc tránh thai kết hợp uống theo chu kỳ hoặc liên tục 1 viên/ngày.<br> Miếng dán tránh thai (norelgestromin/EE): 1 miếng/tuần.                                                                             | Ức chế chu kỳ kinh nguyệt.<br>Giảm thống kinh, giảm giao hợp đau, giảm đau vùng chậu mạn tính và giúp ngừa thai.<br>Ít có hiệu quả đau trong lạc nội mạc tử cung ở phúc mạc, lạc nội mạc tử cung sâu.<br>Chú ý không dùng quá 3 tháng nếu không giảm đau. | Buồn nôn, nôn, căng ngực, rong huyết, tăng cân, mụn, mệt mỏi, tăng huyết áp.                                           |
-| 3   | Progestins                                                                    | Dienogest 2mg (u)/ngày.<br>DMPA 150mg (TB) mỗi 13 tuần hoặc 104mg (TDD)/mỗi 12-14 tuần.<br>LNG-IUS: 1 lần/mỗi 5 năm.<br>Norethindrone 5-20mg (u)/mỗi ngày.                                                  | Làm teo lớp màng rụng của mô nội mạc tử cung.<br>Giảm đau trong đau vùng chậu, thống kinh, giao hợp đau...<br>LNG-IUS giảm cường kinh, giảm đau, chỉ định trong bệnh tuyến cơ tử cung có triệu chứng.                                                     |                                                                                                                        |
+| 3   | Progestins                                                                    | Dienogest 2mg (u)/ngày.<br>DMPA 150mg (TB) mỗi 13 tuần hoặc 104mg (TDD)/mỗi 12-14 tuần.<br>LNG-IUS: 1 lần/mỗi 5 năm.<br>Norethindrone 5-20mg (u)/mỗi ngày.                                                  | Làm teo lớp màng rụng của mô nội mạc tử cung.<br>Giảm đau trong đau vùng chậu, thống kinh, giao hợp đau…<br>LNG-IUS giảm cường kinh, giảm đau, chỉ định trong bệnh tuyến cơ tử cung có triệu chứng.                                                     |                                                                                                                        |
 
 #### Giảm đau bước 2
 
@@ -295,7 +295,7 @@ Hiểu biết đương đại về bệnh sinh của adenomyosis không ủng h�
 
 Thất bại với tất cả các điều trị nội khoa.
 
-Có bệnh lý hoặc tình trạng đi kèm khác cần can thiệp phẫu thuật. Hiệu quả điều trị giảm đau là như nhau khi mổ mở hay nội soi ổ bụng, tuy nhiên nội soi ưu tiên lựa chọn vì là phẫu thuật ít xâm lấn, ít đau sau mổ, hồi phục nhanh, nằm viện ngắn ngày, có tính thẩm mỹ...
+Có bệnh lý hoặc tình trạng đi kèm khác cần can thiệp phẫu thuật. Hiệu quả điều trị giảm đau là như nhau khi mổ mở hay nội soi ổ bụng, tuy nhiên nội soi ưu tiên lựa chọn vì là phẫu thuật ít xâm lấn, ít đau sau mổ, hồi phục nhanh, nằm viện ngắn ngày, có tính thẩm mỹ…
 
 #### Xử trí tùy theo vị trí
 
@@ -316,9 +316,9 @@ Lạc nội mạc cơ tử cung:
 
 #### Hạn chế dính sau phẫu thuật
 
-Phẫu thuật viên cần thực hiện đúng nguyên tắc phẫu thuật thực hành, hạn chế tối đa chảy máu, gây chấn thương mô... để làm giảm nguy cơ tạo dính thêm.
+Phẫu thuật viên cần thực hiện đúng nguyên tắc phẫu thuật thực hành, hạn chế tối đa chảy máu, gây chấn thương mô… để làm giảm nguy cơ tạo dính thêm.
 
-Cân nhắc sử dụng các chất chống dính (cellulose tái sinh oxy hóa, màng chống dính phẫu thuật polytetrafluoroethylene, hyaluronic acid...) để ngăn ngừa và làm giảm dính sau phẫu thuật vùng chậu,
+Cân nhắc sử dụng các chất chống dính (cellulose tái sinh oxy hóa, màng chống dính phẫu thuật polytetrafluoroethylene, hyaluronic acid…) để ngăn ngừa và làm giảm dính sau phẫu thuật vùng chậu,
 phẫu thuật liên quan.
 
 #### Điều trị nội tiết trước và sau phẫu thuật đau
@@ -331,11 +331,11 @@ Không chỉ định điều trị nội tiết nhằm mục đích hỗ trợ p
 
 Điều trị kéo dài trên 6 tháng nhằm ngăn ngừa tái phát bệnh hay tái phát đau.
 
-Có thể lựa chọn điều trị dụng cụ tử cung có nội tiết levonorgestrel, dienogest, thuốc viên tránh thai kết hợp... ít nhất 18-24 tháng sau phẫu thuật.
+Có thể lựa chọn điều trị dụng cụ tử cung có nội tiết levonorgestrel, dienogest, thuốc viên tránh thai kết hợp… ít nhất 18-24 tháng sau phẫu thuật.
 
 #### Phẫu thuật trong lạc nội mạc tử cung gây đau và hiếm muộn-vô sinh
 
-Thực hiện nội soi gỡ dính, cắt bỏ hoặc phá hủy tổn (sang) thương lạc nội mạc tử cung, bóc nang lạc nội mạc tử cung... làm giảm đau và cải thiện tỷ lệ có thai, không nên chỉ là nội soi chẩn đoán ở phụ nữ có vô sinh kèm lạc nội mạc tử cung độ I-II (theo phân độ AFS/ASRM có sửa đổi).
+Thực hiện nội soi gỡ dính, cắt bỏ hoặc phá hủy tổn (sang) thương lạc nội mạc tử cung, bóc nang lạc nội mạc tử cung… làm giảm đau và cải thiện tỷ lệ có thai, không nên chỉ là nội soi chẩn đoán ở phụ nữ có vô sinh kèm lạc nội mạc tử cung độ I-II (theo phân độ AFS/ASRM có sửa đổi).
 
 Cần tư vấn nguy cơ suy giảm chức năng buồng trứng sau phẫu thuật và mất buồng trứng; quyết định phẫu thuật phải cân nhắc và thận trọng nếu có tiền sử phẫu thuật buồng trứng trước đó.
 
@@ -401,17 +401,17 @@ Trong điều trị hiếm muộn có adenomyosis, GnRHa được dùng để t�
 
 Phẫu thuật chỉ có hiệu quả rõ khi người bệnh hiếm muộn-vô sinh và bị lạc nội mạc tử cung I, II.
 
-Chỉ định phẫu thuật nang lạc nội mạc tử cung vào buồng trứng khi có triệu chứng chèn ép cơ quan lân cận, hoặc nghi ngờ ác tính, hoặc có yêu cầu cần thiết từ quá trình điều trị hiếm muộn-vô sinh, hỗ trợ sinh sản...
+Chỉ định phẫu thuật nang lạc nội mạc tử cung vào buồng trứng khi có triệu chứng chèn ép cơ quan lân cận, hoặc nghi ngờ ác tính, hoặc có yêu cầu cần thiết từ quá trình điều trị hiếm muộn-vô sinh, hỗ trợ sinh sản…
 
-Nguy cơ của phẫu thuật bóc nang lạc nội mạc tử cung: phẫu thuật không cải thiện rõ rệt khả năng có thai, nhưng có thể làm giảm dự trữ buồng trứng, làm mất cơ hội có thai, suy tuyến buồng trứng sớm... nhất là khi phẫu thuật lặp lại nhiều lần trên người bệnh.
+Nguy cơ của phẫu thuật bóc nang lạc nội mạc tử cung: phẫu thuật không cải thiện rõ rệt khả năng có thai, nhưng có thể làm giảm dự trữ buồng trứng, làm mất cơ hội có thai, suy tuyến buồng trứng sớm… nhất là khi phẫu thuật lặp lại nhiều lần trên người bệnh.
 
-Nếu cần thiết phải phẫu thuật đối với nang lạc nội mạc tử cung trên người bệnh bị hiếm muộn-vô sinh, hoặc chưa đủ con... thì phẫu thuật phải được thực hiện bởi phẫu thuật viên có kinh nghiệm, tôn trọng nguyên tắc phẫu thuật thực hành nhằm hạn chế tối đa các tổn (sang) thương cho mô buồng trứng còn lại.
+Nếu cần thiết phải phẫu thuật đối với nang lạc nội mạc tử cung trên người bệnh bị hiếm muộn-vô sinh, hoặc chưa đủ con… thì phẫu thuật phải được thực hiện bởi phẫu thuật viên có kinh nghiệm, tôn trọng nguyên tắc phẫu thuật thực hành nhằm hạn chế tối đa các tổn (sang) thương cho mô buồng trứng còn lại.
 
 Cần tư vấn cho người bệnh có nang lạc nội mạc tử cung hiểu rõ về các nguy cơ của phẫu thuật đối với nang lạc nội mạc tử cung buồng trứng, quyết định phẫu thuật phải cân nhắc và thận trọng nếu người bệnh có tiền sử phẫu thuật buồng trứng trước đó.
 
 #### Các kỹ thuật điều trị
 
-Lạc nội mạc tử cung phúc mạc: nội soi ổ bụng gỡ dính, cắt bỏ hoặc đốt phá hủy tổn (sang) thương lạc nội mạc tử cung... làm cải thiện tỷ lệ có thai ở lạc nội mạc tử cung độ I-II, không nên chỉ là nội soi chẩn đoán.
+Lạc nội mạc tử cung phúc mạc: nội soi ổ bụng gỡ dính, cắt bỏ hoặc đốt phá hủy tổn (sang) thương lạc nội mạc tử cung… làm cải thiện tỷ lệ có thai ở lạc nội mạc tử cung độ I-II, không nên chỉ là nội soi chẩn đoán.
 
 Lạc nội mạc tử cung ở buồng trứng: nội soi gỡ dính và bóc nang lạc nội mạc tử cung làm cải thiện tỷ lệ có thai và giảm tái phát nang, thay vì chỉ dẫn lưu hoặc đốt mặt trong nang lạc nội mạc tử cung.
 
@@ -458,7 +458,7 @@ _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm m
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
-- Bộ Y Tế (2019) 5306/QĐ-BYT - HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ LẠC NỘI MẠC TỬ CUNG.
-- Hội Nội tiết sinh sản và Vô sinh TPHCM (HOSREM) - HƯỚNG DẪN LÂM SÀNG VỀ LẠC NỘI MẠC TỬ CUNG.
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_
+- Bộ Y Tế (2019) 5306/QĐ-BYT - _HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ LẠC NỘI MẠC TỬ CUNG_
+- Hội Nội tiết sinh sản và Vô sinh TPHCM (HOSREM) - _HƯỚNG DẪN LÂM SÀNG VỀ LẠC NỘI MẠC TỬ CUNG_

@@ -115,7 +115,7 @@ Cân nhắc điều trị ngoại trú, tái khám sau 1 tuần nếu:
 - Ối vỡ non không ra thêm nước sau 7 ngày điều trị kháng sinh dự phòng.
 - Lượng nước ối bình thường trên siêu âm.
 - Sản phụ ký tư vấn đồng thuận về lợi ích và nguy cơ của việc điều trị mong đợi.
-- Hướng dẫn sản phụ tự đo nhiệt độ 2 lần/ngày, các dấu hiệu cần tái khám như sốt, ra nước âm đạo, dịch âm đạo hôi, thai máy ít...
+- Hướng dẫn sản phụ tự đo nhiệt độ 2 lần/ngày, các dấu hiệu cần tái khám như sốt, ra nước âm đạo, dịch âm đạo hôi, thai máy ít…
 
 #### Chấm dứt thai kỳ
 
@@ -166,5 +166,5 @@ Xem thêm tại [Nhiễm trùng ối](/san-khoa/nhiem-trung-oi/).
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

@@ -9,9 +9,9 @@ Thiểu ối được định nghĩa là tình trạng dịch ối ít hơn so v
 
 ### Từ phía mẹ
 
-Bệnh lý nội khoa ảnh hưởng tuần hoàn như động kinh, tăng huyết áp mạn, bệnh lý collagen, bệnh lý thận, rối loạn đông máu...
+Bệnh lý nội khoa ảnh hưởng tuần hoàn như động kinh, tăng huyết áp mạn, bệnh lý collagen, bệnh lý thận, rối loạn đông máu…
 
-Thuốc như ức chế men chuyển, ức chế tổng hợp Prostaglandin, Trastuzumab...
+Thuốc như ức chế men chuyển, ức chế tổng hợp Prostaglandin, Trastuzumab…
 
 ### Từ phía thai
 
@@ -53,7 +53,7 @@ Có thể thấy ối rỉ, ối vỡ là dấu hiệu quan trọng. Khi đó te
 
 Công thức máu mẹ phát hiện nhiễm trùng gồm Toxoplasma gondii, Rubella, CMV, HSV.
 
-Những tuần thai sớm có thể thấy bất thường karyotype thai, TORCH...
+Những tuần thai sớm có thể thấy bất thường karyotype thai, TORCH…
 
 ## Xử trí
 
@@ -72,7 +72,7 @@ Tư vấn tình trạng thai.
 Truyền ối khi có chỉ định:
 
 - Tuổi thai >16 tuần.
-- Lấy ối làm xét nghiệm nhiễm sắc thể, TORCH...
+- Lấy ối làm xét nghiệm nhiễm sắc thể, TORCH…
 - Hỗ trợ siêu âm tầm soát hình thái học thai nhi.
 
 ### 3 tháng cuối
@@ -96,4 +96,4 @@ _Phác đồ xử trí thiểu ối đơn thuần Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

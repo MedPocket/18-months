@@ -107,7 +107,7 @@ Giá trị của các chỉ báo khối u trước mổ vẫn chưa được kh�
 
 CA125 (carcinoma antigen 125) (hay MUC16) là glycoprotein giống mucin. Trong thời kỳ bào thai, CA125 có nguồn gốc từ thượng mô phúc mạc nguyên thủy (fetal coelomic epithelia) là nguồn gốc của màng lót hệ Mullerian và biểu mô sơ khai bề mặt ụ sinh dục nguyên thủy. Tương tự, ở người trưởng thành, CA125 có nguồn gốc từ các biểu mô có nguồn gốc trung bì như màng bụng, màng phổi, màng ngoài tim, và các biểu mô của các cơ quan nguồn gốc Mullerian: vòi trứng, nội mạc tử cung và cổ trong cổ tử cung.
 
-CA125 cao thấy trong các bệnh lý ác tính khác như ung thư buồng trứng, vú, phổi, tụy, đại tràng và tiêu hóa khác. Tuy nhiên, nhiều tình trạng không tân sinh, nhưng có kích thích các biểu mô này cũng gây nên tình trạng tăng của nồng độ CA125. CA125 tăng trong số trạng thái sinh lý như thai kỳ, lạc nội mạc tử cung, khi hành kinh. CA125 cũng tăng trong số bệnh lý lành tính như tràn dịch màng bụng và/hoặc màng phổi do lao, suy tim, hội chứng thận hư...
+CA125 cao thấy trong các bệnh lý ác tính khác như ung thư buồng trứng, vú, phổi, tụy, đại tràng và tiêu hóa khác. Tuy nhiên, nhiều tình trạng không tân sinh, nhưng có kích thích các biểu mô này cũng gây nên tình trạng tăng của nồng độ CA125. CA125 tăng trong số trạng thái sinh lý như thai kỳ, lạc nội mạc tử cung, khi hành kinh. CA125 cũng tăng trong số bệnh lý lành tính như tràn dịch màng bụng và/hoặc màng phổi do lao, suy tim, hội chứng thận hư…
 
 Hiện nay, trị số 35IU/mL thường được dùng là giá trị ngưỡng phân biệt (cut-off point) bình thường với bất thường. Tuy nhiên, đối với những người đã mãn kinh hoặc đã cắt tử cung kèm 2 buồng trứng thì nên chọn giá trị ngưỡng thấp hơn. Ngưỡng cắt được đặt ở 20-26IU/mL.
 
@@ -154,7 +154,7 @@ hCG là glycoprotein được sản xuất chủ yếu bởi các hợp bào nu�
 
 ### Các chỉ báo khối u khác
 
-LDH, steroid... được thực hiện chọn lọc.
+LDH, steroid… được thực hiện chọn lọc.
 
 ## Khảo sát các đột biến gene
 
@@ -182,4 +182,4 @@ LDH, steroid... được thực hiện chọn lọc.
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

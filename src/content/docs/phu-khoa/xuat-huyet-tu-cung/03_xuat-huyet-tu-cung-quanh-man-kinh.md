@@ -48,7 +48,7 @@ Trước khi thiết lập chẩn đoán xuất huyết tử cung cơ năng, c�
 - Các nguyên nhân tại cổ tử cung-âm đạo.
 - Các nguyên nhân từ các cơ quan lận cận.
 
-Cần đặc biệt lưu tâm đến tăng sinh nội mạc tử cung và ung thư nội mạc tử cung trên những phụ nữ với xuất huyết tử cung bất thường quanh mãn kinh. tỷ lệ ung thư nội mạc tử cung tăng dần theo tuổi, với khoảng 2.3:100,000 phụ nữ trong độ tuổi 30-39, tăng lên tới 36.2:100,000 phụ nữ trong độ tuổi 40-49. Do đó Hiệp hội Sản Phụ khoa Hoa Kỳ (ACOG) khuyến cáo nên đánh giá nội mạc tử cung ở mọi phụ nữ trên 35 tuổi đến khám vì xuất huyết tử cung bất thường. Với phụ nữ dưới 35 tuổi nhưng kèm theo các yếu tố nguy cơ của ung thư nội mạc tử cung như tăng huyết áp, đái tháo đường, béo phì... cũng cần đánh giá để loại trừ bệnh lý ác tính này.
+Cần đặc biệt lưu tâm đến tăng sinh nội mạc tử cung và ung thư nội mạc tử cung trên những phụ nữ với xuất huyết tử cung bất thường quanh mãn kinh. tỷ lệ ung thư nội mạc tử cung tăng dần theo tuổi, với khoảng 2.3:100,000 phụ nữ trong độ tuổi 30-39, tăng lên tới 36.2:100,000 phụ nữ trong độ tuổi 40-49. Do đó Hiệp hội Sản Phụ khoa Hoa Kỳ (ACOG) khuyến cáo nên đánh giá nội mạc tử cung ở mọi phụ nữ trên 35 tuổi đến khám vì xuất huyết tử cung bất thường. Với phụ nữ dưới 35 tuổi nhưng kèm theo các yếu tố nguy cơ của ung thư nội mạc tử cung như tăng huyết áp, đái tháo đường, béo phì… cũng cần đánh giá để loại trừ bệnh lý ác tính này.
 
 Siêu âm đường âm đạo là phương tiện rẻ tiền, không xâm lấn và tiện lợi trong việc khảo sát buồng tử cung. Siêu âm bơm nước (SIS) rất thích hợp cho các tổn thương khu trú, trong buồng tử cung.
 
@@ -87,4 +87,4 @@ Xem thêm tại điều trị [Xuất huyết tử cung do cơ năng](/phu-khoa/
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

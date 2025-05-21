@@ -88,7 +88,7 @@ Chỉ có giải phẫu bệnh mới cho phép xác nhận chẩn đoán thai tr
 
 Do 5% thai trứng có thể diễn biến thành choriocarcinoma, nên việc có bằng chứng giải phẫu bệnh là bắt buộc. Do choriocarcinoma có thể phát triển từ thai thường ngưng phát triển, nên đối với các trường hợp thai nghén thất bại sớm, việc khảo sát giải phẫu bệnh là cần thiết.
 
-Khi nghĩ đến thai trứng cần có đầy đủ các xét nghiệm như tổng phần tích tế bào máu, nhóm máu, tổng phân tích nước tiểu, chức năng gan (AST, ALT), thận (ure, creatinine), tuyến giáp (FT3, FT4, TSH), điện tâm đồ, điện giải đồ, X-quang ngực thẳng... Cùng với đó là khám chuyên khoa nội tiết, tim mạch... để chẩn đoán và phục vụ điều trị.
+Khi nghĩ đến thai trứng cần có đầy đủ các xét nghiệm như tổng phần tích tế bào máu, nhóm máu, tổng phân tích nước tiểu, chức năng gan (AST, ALT), thận (ure, creatinine), tuyến giáp (FT3, FT4, TSH), điện tâm đồ, điện giải đồ, X-quang ngực thẳng… Cùng với đó là khám chuyên khoa nội tiết, tim mạch… để chẩn đoán và phục vụ điều trị.
 
 ### Điều trị
 
@@ -159,7 +159,7 @@ _Phác đồ 1 nguyên tắc xử trí thai trứng Bệnh viện Từ Dũ._
 
 Trong quá trình theo dõi hậu thai trứng, bệnh nhân bị buộc phải áp dụng phương pháp ngừa thai hiệu quả. Lý do là không để xuất hiện những triệu chứng lâm sàng, những thông tin về hCG và hình ảnh học của thai kỳ mới làm nhiễu loạn việc theo dõi thai trứng:
 
-1. Bao cao su (condom) là lựa chọn tốt, do phương pháp này hoàn toàn không có ảnh hưởng trên diễn biến tự nhiên của hậu thai trứng hay các triệu chứng theo dõi như rong huyết, nhức đầu... Nhược điểm lớn nhất của condom là hiệu quả tránh thai không thật sự cao.
+1. Bao cao su (condom) là lựa chọn tốt, do phương pháp này hoàn toàn không có ảnh hưởng trên diễn biến tự nhiên của hậu thai trứng hay các triệu chứng theo dõi như rong huyết, nhức đầu… Nhược điểm lớn nhất của condom là hiệu quả tránh thai không thật sự cao.
 2. Dụng cụ tử cung tránh thai (Intra Uterine Devices) (IUD) là lựa chọn tốt vì có hiệu quả tránh thai rất cao. Tuy nhiên, các tác dụng phụ của IUD lại là những thông tin gây nhiễu. Quan trọng nhất là rong huyết. Rong huyết dưới IUD làm cho chẩn đoán phân biệt với các thể GTD không kèm tăng cao của hCG như trong trường hợp của bệnh nguyên bào nuôi tồn tại (Persistent Trophoblastic Disease) (PTD) hay PSTT.
 3. Thuốc nội tiết estrogen-progestogen phối hợp (Combined Oral Contraceptive pills - COCs) là lựa chọn tốt, do hiệu quả tránh thai rất cao. Trước đây, có các nghi ngờ rằng COCs hàm lượng thấp có thể ảnh hưởng đến nhịp điệu trở về bình thường của β-hCG, làm tăng nguy cơ phải thực hiện không cần thiết hóa trị liệu vì diễn biến bất thường của β-hCG. Hiện nay, các bằng chứng phủ nhận liên quan của COCs đối với sự diễn biến của β-hCG. COCs cũng không làm tăng tỉ lệ PSTT.
 4. Triệt sản.
@@ -196,7 +196,7 @@ Thai trứng xâm lấn (invasive mole) thể hiện tình trạng các tổ ch�
 
 U nguyên bào nuôi tại vị trí rau bám (Placental Site Trophoblastic Tumour - PSTT) thể hiện sự hiện diện khối u của các tổ chức nguyên bào nuôi tại vị trí rau bám trước đây(thường xảy ra sau sinh). PSTT không phải lúc nào cũng có nguồn gốc là sau thai trứng. PSTT có thể xảy ra cả sau thai thường sống, hoặc sau thai ngưng phát triển. Dù không mang các đặc trưng của ác tính điển hình, nhưng PSTT không phải lúc nào cũng lành tính. Không ít trường hợp bệnh nguyên bào nuôi tồn tại có thể dẫn đến tử vong do di căn. β-hCG thường thấp 16-400 mIU/mL.
 
-Ung thư nguyên bào nuôi (choriocarcinoma) dùng mô tả tân lập ác tính từ mô rau. Ung thư nguyên bào nuôi có thể có xuất phát điểm là thai trứng, hoặc là thai thường (sinh sống hay ngưng phát triển). Ngoài ra, ung thư nguyên bào nuôi có thể có nguồn gốc không liên quan đến thai kỳ, mà có bản chất là u tế bào dòng sinh dục của buồng trứng, trong đó tế bào dòng sinh dục phân chia bất thường, không theo con đường giảm nhiễm, mà theo con đường nguyên nhiễm, rồi phân bào nguyên nhiễm tiếp tục để thành ung thư. Trong trường hợp này ta có bệnh nguyên bào nuôi không liên quan đến thai kỳ (non-gestational choriocarcinoma). Choriocarcinoma có thể cho di căn nhiều nơi như âm đạo, phổi, não... hoặc bị vỡ.
+Ung thư nguyên bào nuôi (choriocarcinoma) dùng mô tả tân lập ác tính từ mô rau. Ung thư nguyên bào nuôi có thể có xuất phát điểm là thai trứng, hoặc là thai thường (sinh sống hay ngưng phát triển). Ngoài ra, ung thư nguyên bào nuôi có thể có nguồn gốc không liên quan đến thai kỳ, mà có bản chất là u tế bào dòng sinh dục của buồng trứng, trong đó tế bào dòng sinh dục phân chia bất thường, không theo con đường giảm nhiễm, mà theo con đường nguyên nhiễm, rồi phân bào nguyên nhiễm tiếp tục để thành ung thư. Trong trường hợp này ta có bệnh nguyên bào nuôi không liên quan đến thai kỳ (non-gestational choriocarcinoma). Choriocarcinoma có thể cho di căn nhiều nơi như âm đạo, phổi, não… hoặc bị vỡ.
 
 ### Chẩn đoán
 
@@ -397,7 +397,7 @@ Khi có di căn xa như não, gan và di căn sâu vòng chậu.
 
 ### Theo dõi
 
-Tương tự như thai trứng, việc theo dõi thai trứng xâm lấn và choriocarcinoma được dựa vào diễn biến của β-hCG và các triệu chứng lâm sàng cận lâm sàng của xâm lấn và di căn như ra huyết âm đạo, kích thước tử cung, nang hoàng tuyến...
+Tương tự như thai trứng, việc theo dõi thai trứng xâm lấn và choriocarcinoma được dựa vào diễn biến của β-hCG và các triệu chứng lâm sàng cận lâm sàng của xâm lấn và di căn như ra huyết âm đạo, kích thước tử cung, nang hoàng tuyến…
 
 Trong chiến lược theo dõi này, theo dõi diễn biến của β-hCG được xem như phương tiện tầm soát và theo dõi chủ lực, còn lâm sàng và các phương tiện khác sẽ được thực hiện nếu có diễn biến bất thường của β-hCG, ngoại trừ khi đã có triệu chứng lâm sàng gợi ý.
 
@@ -407,7 +407,7 @@ _Di căn phổi.<br>Di căn phổi được phát hiện bằng X-quang với h�
 ![Di căn não](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/choriocarcinoma-di-can-nao.png)
 _Di căn não.<br>Di căn não được phát hiện bằng nhức đầu, xuất huyết não hay bằng MRI. Bệnh phẩm tử thiết cho thấy nhân di căn gây xuất huyết ở bán cầu trái._
 
-Xét nghiệm huyết đồ, chức năng gan, thận, điện giải... phát hiện nhiễm độc hóa chất.
+Xét nghiệm huyết đồ, chức năng gan, thận, điện giải… phát hiện nhiễm độc hóa chất.
 
 Thời gian theo dõi tối thiểu là 5 năm.
 
@@ -424,5 +424,5 @@ _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị tr�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_

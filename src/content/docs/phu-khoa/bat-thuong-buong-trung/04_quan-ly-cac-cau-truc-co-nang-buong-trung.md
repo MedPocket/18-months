@@ -12,7 +12,7 @@ Các cấu trúc cơ năng của buồng trứng là các cấu trúc của bu�
 - Trục hạ đồi-yên phải hoạt động bình thường để đảm bảo các feed-back của steroid sinh dục trên hạ đồi tuyến yên, gây phóng noãn, thành lập hoàng thể và ly giải sinh lý của hoàng thể.
 - Hoặc có sự chuyển đổi từ hoàng thể chu kỳ sang hoàng thể thai kỳ dưới sự có mặt của hCG.
 
-Dưới ảnh hưởng của yếu tố bất thường nào đó (stress, dùng thuốc...) hoạt động chức năng không xảy ra bình thường được, và dẫn đến 1 số lệch lạc, hình thành các cấu trúc chức năng của buồng trứng, biểu hiện:
+Dưới ảnh hưởng của yếu tố bất thường nào đó (stress, dùng thuốc…) hoạt động chức năng không xảy ra bình thường được, và dẫn đến 1 số lệch lạc, hình thành các cấu trúc chức năng của buồng trứng, biểu hiện:
 
 - Khối ở buồng trứng.
 - Các triệu chứng liên quan chu kỳ buồng trứng hay thai kỳ.
@@ -89,4 +89,4 @@ Do tất cả các cấu trúc noãn nang đều bị kích thích nên nang ho�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

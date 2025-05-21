@@ -5,7 +5,7 @@ description: Quản lý khối thực thể không tân lập ở phần phụ.
 
 Các khối thực thể không tân lập tại phần phụ là thuật ngữ tổng quát dùng để chỉ mọi cấu trúc dạng khối bất thường ở phần phụ, với cấu trúc mô học không mang các đặc điểm của tân sinh.
 
-Các khối thực thể không tân lập của phần phụ thường thấy nhất là nang lạc tuyến nội mạc tử cung ở buồng trứng (endometrioma), ứ dịch vòi Fallope do di chứng nhiễm Chlamydia trachomatis hay do các yếu tố gây viêm dính vùng chậu khác, các khối dính ở phần phụ do lao, các giả nang phúc mạc di chứng của nhiễm trùng kinh niên vùng chậu hay sau phẫu thuật...
+Các khối thực thể không tân lập của phần phụ thường thấy nhất là nang lạc tuyến nội mạc tử cung ở buồng trứng (endometrioma), ứ dịch vòi Fallope do di chứng nhiễm Chlamydia trachomatis hay do các yếu tố gây viêm dính vùng chậu khác, các khối dính ở phần phụ do lao, các giả nang phúc mạc di chứng của nhiễm trùng kinh niên vùng chậu hay sau phẫu thuật…
 
 Đặc trưng chung của các khối thực thể không tân lập tại phần phụ là thường rất "ồn ào" về mặt triệu chứng học. Các triệu chứng thay đổi tùy nguyên nhân, nhưng luôn luôn có vấn đề chủ gợi ý định hướng chẩn đoán, và đó cũng thường là vấn đề khiến bệnh nhân đến khám. Điều này hoàn toàn trái ngược khi tiếp cận các khối thực thể tân lập. Các cấu trúc tân lập ở buồng trứng là rất im hơi lặng tiếng, diễn tiến âm thầm không triệu chứng, thỉnh thoảng lộ diện bằng các triệu chứng vay mượn.
 
@@ -59,7 +59,7 @@ Trong trường hợp này, nang lạc tuyến nội mạc tử cung đơn thu�
 
 Không có điều trị nội khoa nào làm thoái triển các nang lạc tuyến nội mạc tử cung ở buồng trứng. Nếu bệnh nhân hoàn toàn không đau, không có vấn đề về hiếm muộn, và nang lạc tuyến nội mạc tử cung được đánh giá là nguy cơ thấp có ác tính thì không có chỉ định điều trị nội khoa. Nếu bệnh nhân không có ý định có thai, có thể dùng COCs nhằm mục đích không làm cho nang lạc tuyến nội mạc tử cung lớn thêm, đồng thời tránh thai kỳ ngoài ý muốn.
 
-Chỉ chỉ định phẫu thuật vì lý do khối u đơn thuần khi không thể loại trừ được khả năng ác tính, dù rất hiếm, như trên siêu âm có các nguyên tắc của ác tính (M-rules, IOTA), hay khi có diễn biến bất thường của CA125, hay khi nang to nhanh bất thường, hay khi nang có kích thước to, đường kính nang >5-6cm. Tuy nhiên, cần cân nhắc mọi yếu tố tùy hành như tình trạng hôn nhân, kế hoạch sinh con, triệu chứng đau...
+Chỉ chỉ định phẫu thuật vì lý do khối u đơn thuần khi không thể loại trừ được khả năng ác tính, dù rất hiếm, như trên siêu âm có các nguyên tắc của ác tính (M-rules, IOTA), hay khi có diễn biến bất thường của CA125, hay khi nang to nhanh bất thường, hay khi nang có kích thước to, đường kính nang >5-6cm. Tuy nhiên, cần cân nhắc mọi yếu tố tùy hành như tình trạng hôn nhân, kế hoạch sinh con, triệu chứng đau…
 
 #### Lạc tuyến nội mạc gây đau
 
@@ -76,7 +76,7 @@ Rất hiếm khi phải phẫu thuật do đau vì nang lạc tuyến nội mạ
 
 #### Lạc tuyến nội mạc tử cung kèm hiếm muộn
 
-Nếu bệnh nhân với nang lạc tuyến nội mạc tử cung đến vì hiếm muộn, thì việc quyết định phẫu thuật hay không lệ thuộc vào rất nhiều yếu tố tùy hành, gồm tuổi, yếu tố chồng, dự trữ buồng trứng, đã từng phẫu thuật trước đó hay chưa...
+Nếu bệnh nhân với nang lạc tuyến nội mạc tử cung đến vì hiếm muộn, thì việc quyết định phẫu thuật hay không lệ thuộc vào rất nhiều yếu tố tùy hành, gồm tuổi, yếu tố chồng, dự trữ buồng trứng, đã từng phẫu thuật trước đó hay chưa…
 
 Nang lạc tuyến nội mạc tử cung không có ảnh hưởng trực tiếp trên chất lượng và khả năng thụ tinh của noãn bào. Dù sự hiện diện của nồng độ cao hemosiderin có làm tăng nồng độ hemosiderin trong nang noãn, nhưng điều này không ảnh hưởng đến kết quả của thụ tinh trong ống nghiệm. Như vậy, điều trị nang lạc tuyến nội mạc tử cung có hiếm muộn không đồng nghĩa với phẫu thuật.
 
@@ -114,4 +114,4 @@ Trong các tình huống khó khăn, quá dính, không thể thực hiện cắ
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

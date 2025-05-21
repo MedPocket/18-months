@@ -275,13 +275,13 @@ Theo dõi:
 
 #### Progesterone
 
-Duphaston, Utrogestan... ức chế tổng hợp prostaglandin được sử dụng trong dọa sinh non giai đoạn sớm.
+Duphaston, Utrogestan… ức chế tổng hợp prostaglandin được sử dụng trong dọa sinh non giai đoạn sớm.
 
 Tác dụng phụ mẹ ứ mật trong thai kỳ.
 
 #### Betamimetics
 
-Betamimetics như Salbutamol là các dẫn xuất Catecholamines làm dãn cơ tử cung và hệ thống cơ trơn khác gồm mạch máu, khí quản... do kích thích thụ thể β2 adrenaline ở các cơ trên.
+Betamimetics như Salbutamol là các dẫn xuất Catecholamines làm dãn cơ tử cung và hệ thống cơ trơn khác gồm mạch máu, khí quản… do kích thích thụ thể β2 adrenaline ở các cơ trên.
 
 Chống chỉ định:
 
@@ -431,6 +431,6 @@ _Lưu đồ dự phòng sinh non đơn thai Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_
 - THỰC HÀNH SẢN PHỤ KHOA - PGS.TS. Trần Thị Lợi, GS.TS. Nguyễn Duy Tài.

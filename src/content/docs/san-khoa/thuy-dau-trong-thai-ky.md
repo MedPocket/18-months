@@ -16,7 +16,7 @@ Người bệnh thủy đậu là nguồn lây duy nhất. Người bị zona (g
 Đường lây truyền qua:
 - Chủ yếu qua đường hô hấp khi người bệnh ho, hắt hơi, nói chuyện.
 - Tiếp xúc trực tiếp với dịch mụn nước rồi chạm vào mắt, miệng, mũi hoặc da.
-- Lây gián tiếp qua vật dụng nhiễm virus (hiếm) virus có thể tồn tại thời gian ngắn trên đồ vật như quần áo, khăn, ga giường,... nếu có dịch mụn nước dính vào.
+- Lây gián tiếp qua vật dụng nhiễm virus (hiếm) virus có thể tồn tại thời gian ngắn trên đồ vật như quần áo, khăn, ga giường,… nếu có dịch mụn nước dính vào.
 
 Thời gian lây bệnh từ 1–2 ngày trước khi nổi ban/mụn nước cho đến khi tất cả các mụn nước khô vảy hoàn toàn (khoảng 5–7 ngày sau phát ban).
 

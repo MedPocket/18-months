@@ -49,7 +49,7 @@ Giang mai thời kỳ III:
 - Biểu hiện lâm sàng đặc trưng: biểu hiện thần kinh (giang mai thần kinh), biểu hiện tim mạch (giang mai tim mạch) và các tổn thương gôm giang mai:
     - Giang mai thần kinh có thể xuất hiện ở bất kỳ giai đoạn nào của bệnh, thậm chí trong vài tháng đầu. Các triệu chứng thần kinh sớm bao gồm: thay đổi trạng thái tâm thần cấp tính, viêm màng não, đột quỵ, rối loạn chức năng dây thần kinh sọ, bất thường về thính giác, mắt và thị giác. Giang mai thần kinh muộn có thể xảy ra 10-30 năm hoặc lâu hơn kể từ thời điểm mắc bệnh và đặc trưng bởi tổn thương các rễ thần kinh sau của cột sống và liệt nhẹ toàn thể.
     - Giang mai tim mạch thường biểu hiện: viêm động mạch chủ, phình động mạch chủ, hở van động mạch chủ, hẹp động mạch vành, 1 số trường hợp có thể có viêm cơ tim.
-    - Gôm giang mai: là thương tổn đặc trưng của giang mai thời kỳ III. Gôm là thương tổn chắc ở hạ bì, tiến triển qua 4 giai đoạn: ban đầu là những cục dưới da, các cục này dần to ra, mềm, vỡ chảy dịch dính giống như nhựa cao su tạo thành vết loét; vết loét dần lên da non rồi thành sẹo. Gôm có thể nhiều hoặc ít và có thể khu trú ở bất kỳ chỗ nào. Vị trí thường gặp là mặt, da đầu, mông, đùi, mặt ngoài phần trên cẳng chân... Ở niêm mạc, vị trí thường gặp là miệng, môi, vòm miệng, lưỡi, mũi, hầu..., ngoài ra có thể có gôm trong não.
+    - Gôm giang mai: là thương tổn đặc trưng của giang mai thời kỳ III. Gôm là thương tổn chắc ở hạ bì, tiến triển qua 4 giai đoạn: ban đầu là những cục dưới da, các cục này dần to ra, mềm, vỡ chảy dịch dính giống như nhựa cao su tạo thành vết loét; vết loét dần lên da non rồi thành sẹo. Gôm có thể nhiều hoặc ít và có thể khu trú ở bất kỳ chỗ nào. Vị trí thường gặp là mặt, da đầu, mông, đùi, mặt ngoài phần trên cẳng chân… Ở niêm mạc, vị trí thường gặp là miệng, môi, vòm miệng, lưỡi, mũi, hầu…, ngoài ra có thể có gôm trong não.
 
 #### Giang mai bẩm sinh
 
@@ -93,7 +93,7 @@ Xét nghiệm đặc hiệu
 #### Phương pháp trực tiếp
 
 Xét nghiệm soi tìm xoắn khuẩn trên kính hiển vi nền đen:
-- Bệnh phẩm: dịch tiết từ tổn thương nghi ngờ trên da, niêm mạc, hạch...
+- Bệnh phẩm: dịch tiết từ tổn thương nghi ngờ trên da, niêm mạc, hạch…
 - Soi tìm xoắn khuẩn trên kính hiển vi nền đen thấy xoắn khuẩn giang mai dưới dạng lò xo, di động.
 - Đây là phương pháp đặc hiệu nhất để chẩn đoán giang mai ở giai đoạn sớm. Xét nghiệm có độ đặc hiệu cao, nhưng độ nhạy thấp (thường <50%), nên xét nghiệm soi tìm xoắn khuẩn âm tính không loại trừ được giang mai.
 - Xét nghiệm cần được thực hiện ngay sau khi lấy bệnh phẩm.
@@ -235,4 +235,4 @@ Các chiến lược xét nghiệm, chẩn đoán và điều trị giang mai th
 
 ## Nguồn tham khảo
 
-- BỘ Y TẾ (2021) - HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ BỆNH GIANG MAI.
+- BỘ Y TẾ (2021) - _HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ BỆNH GIANG MAI_

@@ -86,7 +86,7 @@ Kết quả tầm soát âm tính khi không có bằng chứng về mặt tế 
   Trạng thái tế bào tuyến sau cắt tử cung<br>
   _Glandular cell status post hysterectomy_
 - Những thay đổi tế bào do vi sinh vật:
-  Trichomonad vaginalis, nấm (Candida sp), vi khuẩn (Gardnerella, Chlamydia trachomatis...), virus (HSV, HPV...)
+  Trichomonad vaginalis, nấm (Candida sp), vi khuẩn (Gardnerella, Chlamydia trachomatis…), virus (HSV, HPV…)
 
 #### Khác
 
@@ -252,7 +252,7 @@ Kết quả soi cổ tử cung được trả lời theo bảng phân loại soi
 
 (D) Nhóm hình ảnh soi cổ tử cung không đầy đủ: không quan sát thấy vùng chuyển tiếp, nhiễm trùng nặng hay thiểu dưỡng nặng (sau mãn kinh), hay hẹp âm đạo không thể nhìn thấy cổ tử cung.
 
-(E) Nhóm các dấu hiệu soi khác: viêm cổ tử cung-âm đạo, loét cổ tử cung, teo biểu mô, condyloma và papilloma, các dạng khác: polyp kênh cổ tử cung, u nhú, nang Naboth...
+(E) Nhóm các dấu hiệu soi khác: viêm cổ tử cung-âm đạo, loét cổ tử cung, teo biểu mô, condyloma và papilloma, các dạng khác: polyp kênh cổ tử cung, u nhú, nang Naboth…
 
 ![Hình ảnh cổ tử cung bình thường qua soi cổ](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-binh-thuong.png)
 _Cổ tử cung bình thường qua soi cổ tử cung._
@@ -268,4 +268,4 @@ _Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

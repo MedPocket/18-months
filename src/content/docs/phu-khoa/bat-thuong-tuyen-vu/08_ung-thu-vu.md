@@ -62,8 +62,8 @@ Các dấu hiệu bất thường có thể nhận thấy khi tự khám vú bu�
 - Khối u: Khối u ở vú phát hiện được có thể là (1) khối u mới, đơn độc hoặc (2) khối u mới xuất hiện ở vùng mô lổn nhổn trước đó. Đôi khi, không hẳn là cảm nhận khối u mà là cảm nhận vùng mô lổn nhổn, không đối xứng ở phụ nữ tiền mãn kinh hay đã mãn kinh. Tình trạng viêm hay áp-xe vú không đáp ứng với điều trị cũng là triệu chứng buộc người phụ nữ phải đi khám để không bỏ sót ác tính ẩn mình phía sau biểu hiện bên ngoài là áp-xe hay viêm.
 - Phì đại hạch nách hay hạch đòn: Mọi hạch nách phì đại mới phát hiện cần được đánh giá cẩn thận, vì có thể là hình ảnh của di căn đến từ vú.
 - Đau: Cần mô tả tính chất đau, vị trí, mức độ đau, tính chu kỳ. Đau vú (1) có hay không kèm theo khối u, (2) các trường hợp đau vú nhiều, ảnh hưởng đến chức lượng cuộc sống của người bệnh, (3) đau vú liên tục không có tính chu kỳ, (4) đau vú không đáp ứng với giảm đau hay các progesterone điều trị đau căng vú (mastodynia), (5) đau chỉ khu trú ở 1 bên vú, (6) đau vú ở phụ nữ đã mãn kinh đều là triệu chứng cần chú ý.
-- Tiết dịch núm vú: Nên ấn quầng vú và núm vú để tìm tiết dịch bất thường. Cần nhận định tiết dịch là 1 hay 2 bên, màu và độ quánh của dịch. Các tiết dịch có thể là nghiêm trọng gồm (1) tiết dịch ở phụ nữ ≥50 tuổi, (2) tiết dịch 1 bên ở phụ nữ <50 tuổi, (3) tiết dịch lẫn máu, (4) tiết dịch kèm co rút hay biến dạng núm vú...
-- Tiết dịch núm vú: Nên ấn quầng vú và núm vú để tìm tiết dịch bất thường. Cần nhận định tiết dịch là 1 hay 2 bên, màu và độ quánh của dịch. Các tiết dịch có thể là nghiêm trọng gồm (1) tiết dịch ở phụ nữ ≥50 tuổi, (2) tiết dịch 1 bên ở phụ nữ <50 tuổi, (3) tiết dịch lẫn máu, (4) tiết dịch kèm co rút hay biến dạng núm vú...
+- Tiết dịch núm vú: Nên ấn quầng vú và núm vú để tìm tiết dịch bất thường. Cần nhận định tiết dịch là 1 hay 2 bên, màu và độ quánh của dịch. Các tiết dịch có thể là nghiêm trọng gồm (1) tiết dịch ở phụ nữ ≥50 tuổi, (2) tiết dịch 1 bên ở phụ nữ <50 tuổi, (3) tiết dịch lẫn máu, (4) tiết dịch kèm co rút hay biến dạng núm vú…
+- Tiết dịch núm vú: Nên ấn quầng vú và núm vú để tìm tiết dịch bất thường. Cần nhận định tiết dịch là 1 hay 2 bên, màu và độ quánh của dịch. Các tiết dịch có thể là nghiêm trọng gồm (1) tiết dịch ở phụ nữ ≥50 tuổi, (2) tiết dịch 1 bên ở phụ nữ <50 tuổi, (3) tiết dịch lẫn máu, (4) tiết dịch kèm co rút hay biến dạng núm vú…
 
 ### Hình ảnh học tầm soát ung thư vú
 
@@ -78,7 +78,7 @@ Nhũ ảnh là phương tiện tầm soát có giá trị. Khi thực hiện t�
 
 Việc xử lý kết quả tầm soát có thể dựa trên gợi ý của hệ thống BI-RADS (Breast Imaging-Reporting and Data System):
 
-- BI-RADS 0 thể hiện rằng đã có vài điểm bất thường được nhìn thấy trên nhũ ảnh, tuy nhiên không rõ ràng để cho kết luận. Cần phải thực hiện thêm các khảo sát chuyên biệt như ép điểm khi thực hiện nhũ ảnh (spot compression), phóng đại mạnh hơn, hay siêu âm... Cần phải xem lại các phim nhũ ảnh đã có trước đó và so sánh với hình ảnh hiện có, để phát hiện thay đổi của hình ảnh qua các phim.
+- BI-RADS 0 thể hiện rằng đã có vài điểm bất thường được nhìn thấy trên nhũ ảnh, tuy nhiên không rõ ràng để cho kết luận. Cần phải thực hiện thêm các khảo sát chuyên biệt như ép điểm khi thực hiện nhũ ảnh (spot compression), phóng đại mạnh hơn, hay siêu âm… Cần phải xem lại các phim nhũ ảnh đã có trước đó và so sánh với hình ảnh hiện có, để phát hiện thay đổi của hình ảnh qua các phim.
 - BI-RADS 1 thể hiện rằng không có hình ảnh bất thường phải báo cáo. Vú cân đối, không khối u, không bất thường về cấu trúc, không có đóng vôi bất thường. Thuật ngữ "kết quả âm tính" có nghĩa là âm tính với ung thư.
 - BI-RADS 2 cũng là báo cáo kết quả âm tính với ung thư trên nhũ ảnh. Tuy nhiên, ở đây có các tổn thương lành tính như đóng vôi lành tính, hình ảnh các hạch không ung thư hay bướu sợi-tuyến tuyến vú.
 - BI-RADS 3 thể hiện rằng đặc điểm hình ảnh trên nhũ ảnh rất có khả năng (98%) có liên quan đến tổn thương lành tính. Tuy nhiên, không có xác nhận lành tính. Các tổn thương BI-RADS 3 phải được xem xét theo thời gian. BI-RADS 3 phải được theo dõi mỗi 6 tháng, tập trung quan sát sự thay đổi của tổn thương. Việc theo dõi tổn thương BI-RADS 3 chỉ ngừng lại khi đã xác nhận rằng tổn thương là ổn định, không thay đổi sau khoảng thời gian theo dõi ít nhất là 2 năm. Ý nghĩa của việc theo dõi này là hạn chế các sinh thiết không thật sự cần thiết.
@@ -271,8 +271,8 @@ Yếu tố tiên lượng tái phát tại chỗ sau đoạn nhũ gồm:
 ![Yếu tố nguy cơ tái phát](../../../../assets/phu-khoa/ung-thu-vu/nguy-co-tai-phat.png)
 _Yếu tố nguy cơ tái phát._
 
-ACS khuyến cáo xạ trị sau đoạn nhũ trên những bệnh nhân có u nguyên phát >5cm, và có ≥4 hạch nách. Biến chứng thường gặp của xạ trị gồm có phản ứng da, dãn mao mạch, viêm phổi phóng xạ, hoại tử da-xương do phóng xạ...
-ACS khuyến cáo xạ trị sau đoạn nhũ trên những bệnh nhân có u nguyên phát >5cm, và có ≥4 hạch nách. Biến chứng thường gặp của xạ trị gồm có phản ứng da, dãn mao mạch, viêm phổi phóng xạ, hoại tử da-xương do phóng xạ...
+ACS khuyến cáo xạ trị sau đoạn nhũ trên những bệnh nhân có u nguyên phát >5cm, và có ≥4 hạch nách. Biến chứng thường gặp của xạ trị gồm có phản ứng da, dãn mao mạch, viêm phổi phóng xạ, hoại tử da-xương do phóng xạ…
+ACS khuyến cáo xạ trị sau đoạn nhũ trên những bệnh nhân có u nguyên phát >5cm, và có ≥4 hạch nách. Biến chứng thường gặp của xạ trị gồm có phản ứng da, dãn mao mạch, viêm phổi phóng xạ, hoại tử da-xương do phóng xạ…
 
 ### Liệu pháp hỗ trợ
 
@@ -325,4 +325,4 @@ Việc điều trị tùy thuộc trước tiên vào sự hiện diện hay v�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược Thành phố Hồ Chí Minh (2020) - _TEAM-BASED LEARNING._
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

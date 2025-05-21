@@ -17,6 +17,6 @@ Bệnh phụ khoa thường gặp bao gồm:
 - U nang buồng trứng.
 - Rối loạn kinh nguyệt.
 - Lạc nội mạc tử cung.
-- Nhiễm nấm, trùng roi, vi khuẩn...
+- Nhiễm nấm, trùng roi, vi khuẩn…
 
 Bệnh phụ khoa nếu không được phát hiện và điều trị kịp thời có thể ảnh hưởng nghiêm trọng đến sức khỏe sinh sản, thậm chí gây vô sinh, ung thư phụ khoa và các biến chứng nặng nề khác.
