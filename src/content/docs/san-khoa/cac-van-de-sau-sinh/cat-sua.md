@@ -1,6 +1,6 @@
 ---
-title: Hướng dẫn cắt sữa sau sinh
-description: Hướng dẫn cắt sữa sau sinh.
+title: Cắt sữa sau sinh
+description: Cắt sữa sau sinh.
 ---
 
 Cắt sữa (ức chế tiết sữa) là biện pháp cần thiết khi người mẹ không muốn cho con bú hoặc phải ngừng cho con bú do lý do sức khỏe, cá nhân hoặc y tế. Có thể thực hiện bằng phương pháp tự nhiên hoặc dùng thuốc ức chế prolactin và các biện pháp hỗ trợ.
@@ -57,7 +57,7 @@ Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc 
 
 ### NSAIDs hỗ trợ
 
-- **Ibuprofen**: 400–600mg mỗi 6–8 giờ, giúp giảm đau và viêm khi vú căng tức.
+- **Ibuprofen**: 400–600mg mỗi 6–8h, giúp giảm đau và viêm khi vú căng tức.
 
 ## Tóm tắt
 
