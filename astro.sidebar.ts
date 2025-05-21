@@ -38,7 +38,13 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       "san-khoa/nhiem-trung-oi",
-      "san-khoa/de-non",
+      {
+        label: "Dọa đẻ non",
+        autogenerate: {
+          directory: "san-khoa/doa-de-non",
+        },
+        collapsed: true,
+      },
       "san-khoa/dai-thao-duong-thai-ky",
       "san-khoa/tang-huyet-ap-thai-ky",
       "san-khoa/tuyen-giap-va-thai-ky",

@@ -83,13 +83,13 @@ Vào tuần lễ 24 của thai kỳ, trên thai phụ không có triệu chứng
 
 Năm 2015, FIGO khuyến cáo thực hiện việc khảo sát chiều dài kênh cổ tử cung thường quy ở tuổi thai 19-23 tuần 6 ngày.
 
-![Chiều dài cổ tử cung](../../../assets/san-khoa/de-non/chieu-dai-co-tu-cung.png)
+![Chiều dài cổ tử cung](../../../../assets/san-khoa/doa-de-non/chieu-dai-co-tu-cung.png)
 
 ### Hình dạng lỗ trong và ngoài
 
 Các cổ tử cung có dạng U, dạng Y được biết đến như là những dạng có nguy cơ cao sinh non. Dạng I thường có tiên lượng tốt hơn.
 
-![Hình dạng lỗ tử cung](../../../assets/san-khoa/de-non/hinh-dang-lo-tu-cung.png)
+![Hình dạng lỗ tử cung](../../../../assets/san-khoa/doa-de-non/hinh-dang-lo-tu-cung.png)
 
 ### Fetal Fibronectin (fFN)
 
@@ -179,7 +179,7 @@ Có 3 nhóm dược chất lớn có thể được dùng cho mục đích khố
 2. Các chất ức chế kênh calcium.
 3. Các chất đồng vận β-adrenergic (Betamimetics).
 
-![Thuốc cắt cơn co tử cung](../../../assets/san-khoa/de-non/thuoc-cat-con-co-tu-cung.png)
+![Thuốc cắt cơn co tử cung](../../../../assets/san-khoa/doa-de-non/thuoc-cat-con-co-tu-cung.png)
 
 :::caution[Lưu ý]
 Không sử dụng thuốc cắt cơn:
@@ -300,7 +300,7 @@ Liều dùng:
 
 Tác dụng phụ:
 
-![Tác dụng phụ của betamimetics](../../../assets/san-khoa/de-non/tac-dung-phu-betamimetics.png)
+![Tác dụng phụ của betamimetics](../../../../assets/san-khoa/doa-de-non/tac-dung-phu-betamimetics.png)
 _Tác dụng phụ của betamimetics._
 
 Theo dõi:
@@ -388,7 +388,7 @@ Có thể khâu vòng cổ tử cung để dự phòng sinh non cho thai phụ c
 
 Những trường hợp có cổ tử cung ngắn nhưng không có tiền căn sinh non thì không thấy lợi ích nào khi tiến hành thủ thuật này. Ở những trường hợp song thai, khi khâu cổ tử cung sẽ làm tăng nguy cơ chuyển dạ sinh non.
 
-![Khâu vòng cổ tử cung](../../../assets/san-khoa/de-non/khau-vong-co-tu-cung.png)
+![Khâu vòng cổ tử cung](../../../../assets/san-khoa/doa-de-non/khau-vong-co-tu-cung.png)
 
 ### Vòng nâng cổ tử cung (cerclage pessary)
 
@@ -396,7 +396,7 @@ _Giảm số trường hợp sinh non dưới 34 tuần và cả dưới 37 tu�
 
 _Tiết dịch âm đạo bất thường là than phiền hay gặp nhất ở những thai phụ sử dụng dụng cụ nâng đỡ cổ tử cung._
 
-![Vòng nâng cổ tử cung](../../../assets/san-khoa/de-non/vong-nang-co-tu-cung.png)
+![Vòng nâng cổ tử cung](../../../../assets/san-khoa/doa-de-non/vong-nang-co-tu-cung.png)
 
 Chỉ định: Khi có chỉ định khâu vòng nhưng không thỏa mãn điều kiện (rau tiền đạo, sản phụ từ chối khâu, thai >20 tuần).
 
@@ -426,11 +426,11 @@ Theo dõi:
 - Sử dụng Progesterone đến hết tuần 36.
 
 
-![Lưu đồ dự phòng sinh non đơn thai Bệnh viện Từ Dũ.](../../../assets/san-khoa/de-non/luu-do-du-phong-sinh-non.png)
+![Lưu đồ dự phòng sinh non đơn thai Bệnh viện Từ Dũ.](../../../../assets/san-khoa/doa-de-non/luu-do-du-phong-sinh-non.png)
 _Lưu đồ dự phòng sinh non đơn thai Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
 - Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
 - Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_
-- THỰC HÀNH SẢN PHỤ KHOA - PGS.TS. Trần Thị Lợi, GS.TS. Nguyễn Duy Tài.
+- PGS.TS. Trần Thị Lợi, GS.TS. Nguyễn Duy Tài - _THỰC HÀNH SẢN PHỤ KHOA_
