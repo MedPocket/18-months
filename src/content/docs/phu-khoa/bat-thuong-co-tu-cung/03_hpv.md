@@ -109,7 +109,7 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 - Tiếp tục lịch khi trễ hẹn, không phải lặp lại từ đầu.
 - Chống chỉ định: dị ứng nấm men (4v/9vHPV), không tiêm khi mang thai.
 - Tiêm chung với các vaccine khác được, không trộn chung ống tiêm.
-- Theo dõi 15 phút sau tiêm.
+- Theo dõi 15 phút sau tiêm do nguy cơ phản ứng của dây thần kinh X dẫn tới ngất sau tiêm.
 :::
 
 > **FDA** chỉ dán nhãn 4vHPV và 9vHPV cho bé trai; 9vHPV được khuyến nghị vì hiệu quả rộng và chi phí quản lý hợp lý.  
