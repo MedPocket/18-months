@@ -28,6 +28,7 @@ Hơn 200 type HPV đã được định danh, trong đó ~85 type đã mô tả 
 - **Nhóm niêm mạc:** xâm nhiễm tế bào đáy niêm mạc môi, miệng, hô hấp, cơ quan sinh dục.
 
 **Nguy cơ thấp:** 6, 11, 42, 43, 44.
+
 **Nguy cơ cao:** 16, 18, 31, 33, 34, 35, 39, 45, 51, 52, 56, 58, 59, 66, 68, 70.
 
 ### Yếu tố nguy cơ lây nhiễm
@@ -42,7 +43,7 @@ Hơn 200 type HPV đã được định danh, trong đó ~85 type đã mô tả 
 - Đa số lành tính, có thể tự khỏi nếu miễn dịch tốt.
 - Nhiễm tồn tại (>2 năm) tăng nguy cơ tái phát và sinh ung thư.
 - Biểu hiện: mụn cóc da, mụn cóc miệng (Heck’s), u nhú thanh quản.
-- Tại cổ tử cung: HPV type thấp gây mụn cóc sinh dục; type cao (16, 18, 31, 45…) liên quan đến tổn thương tiền ung và ung thư.
+- Tại cổ tử cung: HPV type thấp gây mụn cóc sinh dục; type cao (16, 18, 31, 45…) liên quan đến tổn thương tiền ung thư và ung thư.
 
 **Cơ chế sinh ung thư:**  
 - E6 liên kết p53 → thoái giáng p53 → mất kiểm soát chu kỳ tế bào.
@@ -121,6 +122,7 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 :::
 
 > **FDA** chỉ dán nhãn 4vHPV và 9vHPV cho bé trai; 9vHPV được khuyến nghị vì hiệu quả rộng và chi phí quản lý ít hơn 2 loại trước đó.
+
 > Dù tiêm đầy đủ, vẫn cần tầm soát ung thư cổ tử cung định kỳ (Pap smear và/hoặc HPV DNA) do vaccine không phòng được hết tất cả các loại virus HPV.
 
 ## HPV testing
