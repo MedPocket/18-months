@@ -28,7 +28,7 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "san-khoa/dem-cu-dong-thai",
+      "san-khoa/cu-dong-thai",
       "san-khoa/dong-hoc-sieu-am-doppler",
       {
         label: "Chỉ số ối",
