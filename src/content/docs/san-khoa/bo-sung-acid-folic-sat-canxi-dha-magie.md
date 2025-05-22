@@ -13,146 +13,133 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 ### Acid Folic (Folate)
 
-Acid folic (folate tổng hợp) và 5-MTHF (5-methyltetrahydrofolate, dạng hoạt động) là vitamin B9, vô cùng quan trọng trong tạo tế bào mới:
+Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydrofolate – dạng hoạt động sinh học) có vai trò thiết yếu trong quá trình tạo mới tế bào và tổng hợp DNA:
 
 - **Vai trò**  
   - Ngăn ngừa dị tật ống thần kinh (nứt đốt sống, não úng thủy).
   - Hỗ trợ phát triển não bộ và tủy sống thai nhi.
-  - Giảm nguy cơ sinh non, trẻ nhẹ cân.
-  - Cải thiện phát triển hệ tim mạch.
-  - Hỗ trợ quá trình phân chia tế bào và tạo hồng cầu.
+  - Giảm nguy cơ sinh non, trẻ nhẹ cân, tiền sản giật.
+  - Tăng cường chức năng tim mạch và thần kinh.
+  - Hỗ trợ phân chia tế bào, tạo máu và hình thành nhau thai.
 
 - **Tác dụng phụ**
-  - Gần như không có.
-  - Quá liều kéo dài có thể che giấu thiếu B12, gây rối loạn thần kinh.
+  - Hiếm gặp; liều rất cao có thể che giấu thiếu hụt vitamin B12 (gây rối loạn thần kinh).
 
 - **Nguồn thực phẩm giàu folate**
   - Rau lá xanh đậm: bina, cải bó xôi, súp lơ xanh.
   - Gan động vật.
-  - Đậu đỗ, đậu lăng.
-  - Trái cây họ cam quýt.
-  - Bơ, măng tây, trứng.
+  - Các loại đậu: đậu lăng, đậu hà lan.
+  - Trái cây họ cam quýt, bơ.
+  - Măng tây, trứng, ngũ cốc tăng cường.
 
 ### DHA (Docosahexaenoic Acid)
 
-DHA là axit béo omega-3 chuỗi dài, quan trọng cho não bộ, thị giác và hệ thần kinh:
+DHA là axit béo omega-3 chuỗi dài, rất cần thiết cho sự phát triển hệ thần kinh và thị giác:
 
 - **Vai trò**
-  - Phát triển não bộ, võng mạc (đặc biệt 3 tháng cuối và 2 năm đầu đời).
-  - Giảm nguy cơ sinh non, nhẹ cân.
-  - Tăng IQ, năng lực nhận thức – học hỏi.
-  - Cải thiện lưu thông máu, sức khỏe tim mạch mẹ và bé.
-  - Tăng cường miễn dịch.
-  - Hỗ trợ tâm trạng: giảm trầm cảm thai kỳ, sau sinh.
-  - Ổn định huyết áp, giảm tiền sản giật.
-  - Hỗ trợ sự hình thành hệ thần kinh trung ương và chức năng thị lực hoàn chỉnh cho trẻ sơ sinh.
+  - Thúc đẩy phát triển não bộ và võng mạc, đặc biệt trong 3 tháng cuối thai kỳ và 2 năm đầu đời.
+  - Tăng khả năng nhận thức, trí thông minh (IQ).
+  - Hỗ trợ sức khỏe tim mạch và hệ miễn dịch cho mẹ và bé.
+  - Giảm nguy cơ sinh non, nhẹ cân, trầm cảm sau sinh.
+  - Hỗ trợ ổn định huyết áp, giảm nguy cơ tiền sản giật.
 
 - **Tác dụng phụ**
-  - Mùi tanh, ợ nóng nếu sản phẩm kém chất lượng.
+  - Mùi tanh, ợ nóng nếu sản phẩm kém tinh khiết.
 
 - **Nguồn thực phẩm giàu DHA**
-  - Cá béo: cá hồi, cá thu, cá mòi (ưu tiên đánh bắt tự nhiên).
-  - Trứng bổ sung DHA.
-  - Tảo biển.
-  - Hạt chia, quả óc chó (ALA chuyển thành DHA ~5%).
+  - Cá béo: cá hồi, cá thu, cá mòi (ưu tiên cá đánh bắt tự nhiên, tránh cá chứa thủy ngân).
+  - Trứng bổ sung DHA, tảo biển.
+  - Hạt chia, óc chó (chứa ALA – tiền chất chuyển hóa thành DHA).
   - Dầu cá tinh khiết dạng viên nang.
 
 ### Sắt
 
-Sắt là khoáng chất thiết yếu tạo hemoglobin, vận chuyển oxy:
+Sắt là khoáng chất thiết yếu tạo hemoglobin, giúp vận chuyển oxy:
 
 - **Vai trò**
-  - Ngăn ngừa thiếu máu do thiếu sắt.
-  - Cung cấp oxy cho thai nhi.
-  - Giảm nguy cơ sinh non, nhẹ cân.
-  - Tăng cường miễn dịch mẹ và bé.
-  - Thúc đẩy tăng trưởng và phát triển tế bào ở thai nhi.
+  - Ngăn ngừa thiếu máu do thiếu sắt – tình trạng phổ biến trong thai kỳ.
+  - Đảm bảo cung cấp oxy đầy đủ cho thai nhi và cơ thể mẹ.
+  - Giảm nguy cơ sinh non, thai nhẹ cân.
+  - Hỗ trợ phát triển hệ miễn dịch và thần kinh của thai nhi.
 
 - **Tác dụng phụ**
-  - Táo bón, phân đen.
-  - Buồn nôn, đau dạ dày nếu uống không đúng cách.
-  - Nên uống cách xa bữa ăn chứa canxi hoặc sữa để tăng hấp thu.
+  - Táo bón, phân sẫm màu, buồn nôn, đau dạ dày.
+  - Giảm hấp thu nếu dùng cùng canxi hoặc thực phẩm giàu phytate.
 
 - **Nguồn thực phẩm giàu sắt**
   - Gan động vật, thịt đỏ (bò, cừu).
   - Hải sản: sò huyết, ngao, hến.
-  - Rau lá xanh: rau muống, cải bó xôi.
-  - Đậu, đậu lăng.
-  - Hạt bí, mè, chia.
-  - Ngũ cốc tăng cường sắt.
+  - Rau lá xanh đậm: rau muống, cải bó xôi.
+  - Các loại đậu, hạt bí, mè, ngũ cốc tăng cường sắt.
 
 ### Canxi
 
-Canxi là thành phần chính của xương và răng, đồng thời tham gia chức năng cơ, thần kinh:
+Canxi là thành phần chính cấu tạo xương, răng và hỗ trợ chức năng cơ bắp, thần kinh:
 
 - **Vai trò**
-  - Phát triển xương, răng thai nhi.
-  - Bảo vệ mẹ khỏi loãng xương.
-  - Điều hòa huyết áp, hỗ trợ cơ bắp.
-  - Giảm tiền sản giật.
-  - Hỗ trợ đông máu và dẫn truyền thần kinh ổn định.
+  - Hình thành và phát triển hệ xương, răng cho thai nhi.
+  - Bảo vệ mẹ khỏi loãng xương trong và sau thai kỳ.
+  - Hỗ trợ co cơ, dẫn truyền thần kinh, điều hòa huyết áp.
+  - Giảm nguy cơ tiền sản giật và chuột rút cơ.
 
 - **Tác dụng phụ**
-  - Táo bón, đầy hơi khi uống liều cao.
+  - Táo bón, đầy bụng khi dùng liều cao hoặc dạng khó hấp thu.
 
 - **Nguồn thực phẩm giàu canxi**  
   - Sữa, phô mai, sữa chua.
   - Cá nhỏ ăn cả xương: cá cơm, cá mòi.
-  - Trứng.
   - Rau xanh: cải bó xôi, cải xoăn, rau dền.
-  - Đậu phụ, đậu nành, mè.
-  - Hạnh nhân, hạt chia.
-  - Nước khoáng giàu canxi.
+  - Đậu phụ, đậu nành, mè, hạt chia.
+  - Nước khoáng giàu canxi, trứng.
 
 ### Magie
 
-Magie (Mg) tham gia >300 phản ứng sinh hóa, quan trọng cho mẹ và thai nhi:
+Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong cơ thể:
 
 - **Vai trò**
-  - Giảm chuột rút, hỗ trợ giấc ngủ.
-  - Điều hòa huyết áp, giảm tiền sản giật.
-  - Tăng cường chuyển hóa, năng lượng.
-  - Giảm lo âu, căng thẳng.
-  - Duy trì nhịp tim ổn định, hỗ trợ chức năng cơ tim.
+  - Giảm chuột rút, cải thiện giấc ngủ và thư giãn cơ bắp.
+  - Điều hòa huyết áp, hỗ trợ giảm nguy cơ tiền sản giật.
+  - Tăng cường chuyển hóa năng lượng.
+  - Giảm lo âu, cải thiện tâm trạng.
+  - Hỗ trợ nhịp tim ổn định và chức năng thần kinh.
 
 - **Tác dụng phụ**
-  - Tiêu chảy khi uống quá liều.
+  - Tiêu chảy nếu dùng quá liều hoặc dạng magie không phù hợp.
 
 - **Nguồn thực phẩm giàu magie**
-  - Hạt bí, hạt hướng dương, hạt điều.
-  - Đậu đỗ: đậu đen, đậu đỏ, đậu nành.
-  - Rau bina, cải bó xôi.
-  - Bơ, chuối.
-  - Socola đen ≥70% cacao.
+  - Hạt: bí, hướng dương, điều.
+  - Các loại đậu: đậu đen, đỏ, nành.
+  - Rau lá xanh: bina, cải bó xôi.
+  - Bơ, chuối, socola đen (≥70% cacao).
   - Ngũ cốc nguyên hạt: yến mạch, gạo lứt.
 
 ## Nhu cầu theo tam cá nguyệt
 
-| Giai đoạn                     | Acid folic       | DHA             | Sắt                | Canxi                  | Magie                     |
-|-------------------------------|------------------|-----------------|--------------------|------------------------|---------------------------|
-| Tam cá nguyệt I (0–13 tuần)   | 400–800µg/ngày  | 200–300mg/ngày | 30mg/ngày (nếu thiếu máu) | Bổ sung qua thực phẩm  | Không bắt buộc*           |
-| Tam cá nguyệt II (14–27 tuần) | 400–800µg/ngày  | 200–300mg/ngày | 30–60mg/ngày      | 1.000mg/ngày          | Không bắt buộc*           |
-| Tam cá nguyệt III (28–40 tuần)| 400–800µg/ngày  | 200–300mg/ngày | 30–60mg/ngày      | 1.000–1.200mg/ngày    | 200mg/ngày nếu chuột rút  |
+| Giai đoạn                     | Acid folic         | DHA               | Sắt                      | Canxi                    | Magie                         |
+|-------------------------------|--------------------|-------------------|--------------------------|--------------------------|-------------------------------|
+| Tam cá nguyệt I (0–13 tuần)   | 400–800 µg/ngày     | 200–300 mg/ngày    | 30 mg/ngày (nếu thiếu máu) | Qua thực phẩm là chính   | Tùy triệu chứng, không bắt buộc |
+| Tam cá nguyệt II (14–27 tuần)| 400–800 µg/ngày     | 200–300 mg/ngày    | 30–60 mg/ngày             | 1.000 mg/ngày             | Tùy triệu chứng               |
+| Tam cá nguyệt III (28–40 tuần)| 400–800 µg/ngày    | 200–300 mg/ngày    | 30–60 mg/ngày             | 1.000–1.200 mg/ngày       | 200 mg/ngày nếu có triệu chứng |
 
 :::caution[Lưu ý]
-- Bắt đầu acid folic ít nhất 1 tháng trước mang thai; nếu tiền sử dị tật ống thần kinh, cân nhắc 4–5mg/ngày theo chỉ định.  
-- Magie chỉ cần bổ sung khi có triệu chứng chuột rút, mất ngủ.
+- Bắt đầu bổ sung acid folic ít nhất 1 tháng trước khi mang thai; nếu có tiền sử dị tật ống thần kinh, có thể cần 4–5 mg/ngày theo chỉ định bác sĩ.  
+- Magie chỉ cần bổ sung nếu có triệu chứng như chuột rút, mất ngủ, lo âu.
 :::
 
 ## Hướng dẫn sử dụng hàng ngày
 
-| Buổi   | Sản phẩm bổ sung      | Hướng dẫn sử dụng                                                   |
-|--------|-----------------------|----------------------------------------------------------------------|
-| Sáng   | Acid folic, DHA       | Uống acid folic sau bữa sáng; DHA sau bữa sáng hoặc trưa.            |
-| Trưa   | Canxi                 | Uống canxi sau bữa trưa, chia 2 lần/ngày (≤600mg/lần).            |
-| Tối    | Sắt                   | Uống sắt trước bữa tối hoặc trước khi ngủ, kèm vitamin C để tăng hấp thu. |
+| Buổi   | Sản phẩm bổ sung      | Hướng dẫn sử dụng                                                           |
+|--------|-----------------------|----------------------------------------------------------------------------|
+| Sáng   | Acid folic, DHA       | Uống acid folic sau ăn sáng; DHA sau bữa sáng hoặc trưa, tránh uống khi đói. |
+| Trưa   | Canxi                 | Uống canxi sau bữa trưa, có thể chia 2 lần/ngày (≤600 mg/lần để hấp thu tốt). |
+| Tối    | Sắt                   | Uống sắt trước bữa tối hoặc trước khi ngủ, nên kèm vitamin C (cam, ổi) để tăng hấp thu. |
 
 :::caution[Lưu ý]
 - **Không** uống sắt và canxi cùng lúc (canxi ức chế hấp thu sắt).  
-- DHA nên chọn sản phẩm tinh khiết, tránh mùi tanh. Uống sau ăn để tăng khả năng hấp thu.  
-- Magie nếu cần bổ sung, uống sau bữa ăn nhẹ để giảm tiêu chảy.  
-- Tránh uống canxi cùng cà phê, trà hoặc nước ngọt có ga (giảm hấp thu).  
-- Nên uống đủ nước trong ngày (1.5–2L) để hỗ trợ chuyển hóa và giảm táo bón.
+- DHA nên chọn loại tinh khiết, không mùi tanh; uống sau ăn để hấp thu tốt hơn.  
+- Magie nên uống sau bữa ăn nhẹ để giảm nguy cơ tiêu chảy.  
+- Tránh uống canxi với cà phê, trà, nước ngọt có ga vì làm giảm hấp thu.  
+- Uống đủ nước mỗi ngày (1.5–2 L) để hỗ trợ tiêu hóa và phòng táo bón.
 :::
 
 ## Nguồn tham khảo
