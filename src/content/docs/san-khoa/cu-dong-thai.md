@@ -51,7 +51,7 @@ Các test hỗ trợ nên được thực hiện càng sớm càng tốt (trong 
 
 Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lượng nước ối, đánh giá sinh trắc thai…
 
-### Non-stress test (NST):
+**Non-stress test (NST)**
 
 - Nếu NST bình thường và thai kỳ không có yếu tố nguy cơ, thai phụ sẽ được hướng dẫn tiếp tục đếm cử động thai mỗi ngày.
 - Nếu NST bình thường nhưng thai kỳ có nguy cơ, nên thực hiện thêm test hỗ trợ khác trong vòng 24 giờ.
