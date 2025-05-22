@@ -40,7 +40,7 @@ Có nhiều cách đếm cử động thai:
 Hiệp hội các nhà Sản Phụ khoa Canada (SOGC) khuyến cáo thai phụ nên được hướng dẫn đếm cho tới 6 cử động thai riêng biệt. Nếu không đạt được trong vòng 2 giờ, cần thực hiện thêm các phương pháp đánh giá sức khỏe thai khác.
 
 :::caution[Lưu ý]
-Nên thông tin cho thai phụ biết rằng ở những trường hợp dương tính (<6 cử động trong 2 giờ) có tỷ lệ dương giả khá cao, và kết cục thai kỳ sau đó thường là tốt.
+Nên thông tin cho thai phụ biết rằng ở những trường hợp dương tính (< 6 cử động trong 2 giờ) có tỷ lệ dương giả khá cao, và kết cục thai kỳ sau đó thường là tốt.
 :::
 
 ## Quản lý khi cử động thai giảm
