@@ -29,7 +29,8 @@
   --sl-color-black: #ffffff;
 }
 
-table tr:hover {
-  background-color: #c3e0c8;
+/* Hover row background for table rows. */
+table tr:not(:first-child):hover {
+  background-color: var(--sl-color-accent);
   transition: background-color 0.2s ease-in-out;
 }
