@@ -28,3 +28,8 @@
   --sl-color-gray-7: #f5f6f8;
   --sl-color-black: #ffffff;
 }
+
+table tr:hover {
+  background-color: #c3e0c8;
+  transition: background-color 0.2s ease-in-out;
+}
