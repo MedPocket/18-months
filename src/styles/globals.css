@@ -34,4 +34,3 @@ table tbody tr:hover {
   background-color: var(--sl-color-accent-low);
   transition: background-color 0.2s ease-in-out;
 }
-
