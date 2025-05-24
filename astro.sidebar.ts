@@ -28,7 +28,7 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "san-khoa/dem-cu-dong-thai",
+      "san-khoa/cu-dong-thai",
       "san-khoa/dong-hoc-sieu-am-doppler",
       {
         label: "Chỉ số ối",
@@ -45,7 +45,13 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "san-khoa/dai-thao-duong-thai-ky",
+      {
+        label: "Đái tháo đường thai kỳ",
+        autogenerate: {
+          directory: "san-khoa/dai-thao-duong-thai-ky",
+        },
+        collapsed: true,
+      },
       "san-khoa/tang-huyet-ap-thai-ky",
       "san-khoa/tuyen-giap-va-thai-ky",
       "san-khoa/thieu-mau",
