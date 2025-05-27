@@ -96,7 +96,7 @@ Nhiễm trùng nhẹ:
 
 Nhiễm trùng nặng:
 
-- Vancomycin (15 mg/kg truyền tĩnh mạch mỗi 12h).
+- Vancomycin (15 mg/kg truyền tĩnh mạch mỗi 12 giờ).
 - Có thể phối hợp Cephalosporin thế hệ 3 hoặc beta-lactam/chất ức chế beta-lactamase.
 
 :::caution[Lưu ý]

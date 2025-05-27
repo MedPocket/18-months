@@ -134,20 +134,20 @@ Dùng Magnesium sulfate bảo vệ não ở trẻ sinh non:
 - Thường quy từ 28 đến <32 tuần. Cân nhắc trường hợp 24 đến <28 tuần.
 - Chống chỉ định khi mẹ bị nhược cơ.
 - Thận trọng khi mẹ có tiền căn thiếu máu cơ tim, rối loạn dẫn truyền.
-- Trường hợp mẹ tăng huyết áp hay tiền sản giật sử dụng theo phác đồ [Tăng huyết áp thai kỳ](/san-khoa/tang-huyet-ap-thai-ky/#magnesium-sulfate).
-- Liều Magnesium sulfate 4.5g liều duy nhất, truyền tĩnh mạch chậm trong 20-30 phút. Giảm liều khi BN có thiểu niệu hay suy thận.
-- Khi có chỉ định chấm dứt thai kỳ, Magnesium sulfate được chỉ định lý tưởng nhất trước sinh 4h.
+- Trường hợp mẹ tăng huyết áp hay tiền sản giật sử dụng theo phác đồ tăng huyết áp thai kỳ.
+- Liều Magnesium sulfate 4,5 g liều duy nhất, truyền tĩnh mạch chậm trong 20-30 phút. Giảm liều khi BN có thiểu niệu hay suy thận.
+- Khi có chỉ định chấm dứt thai kỳ, Magnesium sulfate được chỉ định lý tưởng nhất trước sinh 4 giờ.
 
-Khi có chuyển dạ, đánh giá tiến triển cuộc chuyển dạ mỗi 4h ở giai đoạn tiềm tàng và 1-2h ở giai đoạn hành động, đánh giá các dấu hiệu nhiễm trùng ối.
+Khi có chuyển dạ, đánh giá tiến triển cuộc chuyển dạ mỗi 4 giờ ở giai đoạn tiềm tàng và 1-2h ở giai đoạn hành động, đánh giá các dấu hiệu nhiễm trùng ối.
 
-Nếu màng ối đã vỡ hơn 12h, dùng kháng sinh dự phòng, với mục đích giúp giảm nguy cơ nhiễm Streptococcus nhóm B cho trẻ sơ sinh. Nếu sau khi sinh xong mà không có dấu hiệu nhiễm trùng, ngưng kháng sinh.
+Nếu màng ối đã vỡ hơn 12 giờ, dùng kháng sinh dự phòng, với mục đích giúp giảm nguy cơ nhiễm Streptococcus nhóm B cho trẻ sơ sinh. Nếu sau khi sinh xong mà không có dấu hiệu nhiễm trùng, ngưng kháng sinh.
 
 Các phương pháp chấm dứt thai kỳ:
 
 - Ưu tiên sinh đường âm đạo, mổ lấy thai khi có chỉ định.
-- Theo dõi sinh đường âm đạo: không có dấu hiệu nhiễm trùng, không có dấu hiệu de dọa mẹ và thai, có thể theo dõi sau 12h nếu không có chuyển dạ tự nhiên, khởi phát chuyển dạ dựa trên Bishop:
+- Theo dõi sinh đường âm đạo: không có dấu hiệu nhiễm trùng, không có dấu hiệu de dọa mẹ và thai, có thể theo dõi sau 12 giờ nếu không có chuyển dạ tự nhiên, khởi phát chuyển dạ dựa trên Bishop:
   - Bishop ≥6 khởi phát bằng Oxytocin.
-  - Bishop<6 gây chín muồi cổ tử cung bằng PGE2 trước khi dùng Oxytocin.
+  - Bishop <6 gây chín muồi cổ tử cung bằng PGE2 trước khi dùng Oxytocin.
 
 ## Nhiễm trùng ối
 

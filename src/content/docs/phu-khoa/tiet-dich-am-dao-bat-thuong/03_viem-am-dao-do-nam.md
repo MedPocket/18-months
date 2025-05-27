@@ -124,7 +124,7 @@ Thuốc đặt âm đạo:
 - Metronidazole hay Clotrimazole 200mg đặt âm đạo x 1 viên/ngày x 3 ngày, hoặc
 - Clotrimazole 500mg đặt âm đạo x 1 viên duy nhất, hoặc
 - Econazole 150mg đặt âm đạo x 1 viên/ngày x 3 ngày, hoặc
-- Econazole nitrate 150mg (vi hạt) đặt âm đạo x 1 viên/12h x 1 ngày, hoặc
+- Econazole nitrate 150mg (vi hạt) đặt âm đạo x 1 viên/12 giờ x 1 ngày, hoặc
 - Metronidazole 1200mg đặt âm đạo x 1 viên duy nhất.
 
 Thuốc uống:

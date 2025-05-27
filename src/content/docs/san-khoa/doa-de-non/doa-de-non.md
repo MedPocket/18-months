@@ -305,9 +305,9 @@ _Tác dụng phụ của betamimetics._
 
 Theo dõi:
 
-- Theo dõi mạch, huyết áp mẹ sau dùng thuốc mỗi 15 phút trong 1h đầu và sau đó mỗi 4h liều kế tiếp. Mạch mẹ không quá 120 nhịp/phút, huyết áp ổn định, không đánh trống ngực, run cơ, khó thở, choáng váng.
+- Theo dõi mạch, huyết áp mẹ sau dùng thuốc mỗi 15 phút trong 1h đầu và sau đó mỗi 4 giờ liều kế tiếp. Mạch mẹ không quá 120 nhịp/phút, huyết áp ổn định, không đánh trống ngực, run cơ, khó thở, choáng váng.
 - Theo dõi lượng nước tiểu (thiểu niệu là dấu hiệu ngộc độc).
-- Xét nghiệm ure, điện giải, Hct mỗi 24 giờ. Đo đường huyết mỗi 4h.
+- Xét nghiệm ure, điện giải, Hct mỗi 24 giờ. Đo đường huyết mỗi 4 giờ.
 - Theo dõi tim thai - cơn co trên monitor trong 1h liều đầu và mỗi 6h trong liều duy trì.
 
 Thời gian điều trị:
@@ -333,7 +333,7 @@ Chỉ định: Chỉ thực hiện duy nhất 1 đợt corticosteroids cho thai 
 Liều dùng 1 trong 2 phương pháp sau:
 
 - Betamethasone (12mg) tiêm bắp, 2 liều, cách 24 giờ
-- Dexamethasone (6mg) tiêm bắp, 4 liều, cách 12h.
+- Dexamethasone (6mg) tiêm bắp, 4 liều, cách 12 giờ.
 
 Corticosteroids liệu pháp có khả năng gây tác hại cho hệ thần kinh thai nhi khi bị lạm dụng.
 
@@ -354,7 +354,7 @@ Liều dùng: $MgSO_4$ 4.5g liều duy nhất truyền tĩnh mạch chậm 20-30
 
 - Giảm liều ở người thiểu niệu hoặc có dấu hiệu suy thận.
 - Dùng $MgSO_4$ không tiếp tục dùng thuốc cắt cơn gò.
-- Khi có chỉ định chấm dứt thai kỳ, $MgSO_4$ dùng lý tưởng nhất 4h trước sinh.
+- Khi có chỉ định chấm dứt thai kỳ, $MgSO_4$ dùng lý tưởng nhất 4 giờ trước sinh.
 
 ### Kháng sinh dự phòng GBS
 

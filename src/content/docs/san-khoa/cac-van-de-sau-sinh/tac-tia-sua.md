@@ -53,7 +53,7 @@ Tắc tia sữa là tình trạng sữa ứ đọng trong các ống dẫn sữa
 ## Chăm sóc sau điều trị
 
 - **Vệ sinh ngực**: Rửa bằng nước sạch, lau khô nhẹ nhàng.  
-- **Tiếp tục cho bú/vắt**: Duy trì tần suất 3–4h/lần, ngay cả khi đã hết tắc.  
+- **Tiếp tục cho bú/vắt**: Duy trì tần suất 3–4 giờ/lần, ngay cả khi đã hết tắc.  
 - **Theo dõi tái phát**: Kiểm tra định kỳ, đảm bảo không có cục sữa ứ đọng mới.
 
 ## Tóm tắt

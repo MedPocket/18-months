@@ -214,7 +214,7 @@ _Các loại insulin và dấu đỏ: loại được phép dùng cho phụ nữ
 
 :::caution[Lưu ý phẫu thuật ở BN dùng insulin]
 - Ngừng ăn từ 0h sáng, tiếp tục insulin nền tối trước mổ.
-- Theo dõi glucose mỗi 2–4h, chỉnh liều khi cần.
+- Theo dõi glucose mỗi 2–4 giờ, chỉnh liều khi cần.
 - Sau sinh giảm liều insulin do kháng insulin giảm.
 :::
 

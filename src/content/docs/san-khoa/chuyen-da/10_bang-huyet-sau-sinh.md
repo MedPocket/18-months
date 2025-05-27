@@ -240,7 +240,7 @@ Mục tiêu của điều trị đờ tử cung là đảm bảo gò tử cung t
 2. Dùng thuốc co hồi tử cung, với sự thận trọng cần thiết.
 
 - Oxytocin truyền tĩnh mạch (Oxytocin PIV: 10-40 IU trong 1 L NaCl 0.9% hoặc LR).
-- Ergometrin (Methylergonovine IM: 0.2mg, có thể lặp lại trong 2-4h).
+- Ergometrin (Methylergonovine IM: 0.2mg, có thể lặp lại trong 2-4 giờ).
 - 15-Methyl $PGF_{2α}$ hay Dinoprostone (Dinoprostone đặt hậu môn 20mg mỗi 2h hay 15-Methyl $PGF_{2α}$ IM 0.25mg mỗi 15-90 ph, tối đa 8 liều).
 - Misoprostol (800-1000 µg đặt hậu môn 1 liều trong trường hợp không có sẵn $PGF_{2α}$).
 

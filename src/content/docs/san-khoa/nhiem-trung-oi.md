@@ -79,7 +79,7 @@ Sử dụng kháng sinh khi mẹ chẩn đoán số đơn thuần trong chuyển
 
 Chấm dứt thai kỳ khi có chẩn đoán nghi ngờ hoặc xác định nhiễm trùng ối, ưu tiên sinh đường âm đạo.
 
-Khởi phát chuyển dạ hoặc can thiệp để rút ngắn thời gian chuyển dạ (từ lúc nghi ngờ hoặc xác định đến lúc sinh không kéo dài quá 12h).
+Khởi phát chuyển dạ hoặc can thiệp để rút ngắn thời gian chuyển dạ (từ lúc nghi ngờ hoặc xác định đến lúc sinh không kéo dài quá 12 giờ).
 
 Mổ lấy thai khi có chỉ định. Mổ lấy thai làm tăng nguy cơ nhiễm trùng vết thường, viêm nội mạc tử cung, huyết khối mạch máu…
 
@@ -96,7 +96,7 @@ Chọn 1 trong các kháng sinh sau đây:
 - Ampicillin 2g tiêm tĩnh mạch mỗi 6h + Gentamicin 5 mg/kg truyền tĩnh mạch mỗi 24 giờ (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h), hoặc
 - Ampicillin - sulbactam 3g tiêm tĩnh mạch mỗi 6h, hoặc
 - Cefoxitin 2g tiêm tĩnh mạch mỗi 8h, hoặc
-- Cefotetan 2g tiêm tĩnh mạch mỗi 12h, hoặc
+- Cefotetan 2g tiêm tĩnh mạch mỗi 12 giờ, hoặc
 - Mezlocillin 4g tiêm tĩnh mạch mỗi 6h.
 
 #### Lựa chọn 2: Nếu dị ứng nhẹ với Penicillin
@@ -105,7 +105,7 @@ Cefazolin 2g tiêm tĩnh mạch mỗi 8h + Gentamicin 5 mg/kg truyền tĩnh m�
 
 #### Lựa chọn 3: Nếu dị ứng nặng với Penicillin
 
-Clindamycin 900mg truyền tĩnh mạch 8h hoặc Vancomycin 1g truyền tĩnh mạch mỗi 12h và Gentamicin truyền tĩnh mạch 5 mg/kg truyền tĩnh mạch mỗi 24 giờ.
+Clindamycin 900mg truyền tĩnh mạch 8h hoặc Vancomycin 1g truyền tĩnh mạch mỗi 12 giờ và Gentamicin truyền tĩnh mạch 5 mg/kg truyền tĩnh mạch mỗi 24 giờ.
 
 :::caution[Lưu ý]
 Vancomycin chỉ nên sử dụng trong trường hợp:

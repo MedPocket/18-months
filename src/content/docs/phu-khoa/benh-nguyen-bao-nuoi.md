@@ -251,7 +251,7 @@ Hóa trị dự phòng với Methotrexate (MTX):
 - MTX 5 ngày: MTX 0.4m mg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25 mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
 - MTX 8 ngày (MTX/FA): MTX 1 mg/kg hoặc MTX 50 mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0.1 mg/kg tiêm bắp hoặc uống 15mg sau liều MTX 24-30h vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
 - MTX tuần: MTX 30-50 mg/m² da tĩnh mạch/tuần.
-- MTX 100 mg/m² da tĩnh mạch, sau đó 200 mg/m² da pha trong Glucose 5% 500mL truyền tĩnh mạch trong 12h. 24 giờ sau, Folinic acid 15mg tĩnh mạch/uống x 4 lần/12h. Lặp lại chu kỳ mỗi 18 ngày hoặc khi cần.
+- MTX 100 mg/m² da tĩnh mạch, sau đó 200 mg/m² da pha trong Glucose 5% 500mL truyền tĩnh mạch trong 12 giờ. 24 giờ sau, Folinic acid 15mg tĩnh mạch/uống x 4 lần/12 giờ. Lặp lại chu kỳ mỗi 18 ngày hoặc khi cần.
 
 hoặc Dacticin:
 
@@ -288,7 +288,7 @@ Phác đồ EMA-CO:
   - Etoposide 100 mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
   - MTX 100 mg/m² da tĩnh mạch.
-  - MTX 200 mg/m² da tĩnh mạch trong 12h.
+  - MTX 200 mg/m² da tĩnh mạch trong 12 giờ.
 - Ngày 2:
   - Etoposide 100 mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
@@ -310,7 +310,7 @@ Tiêu chuẩn để hóa trị:
 Nếu kháng EMA-CO:
 
 - Sử dụng phác đồ EMA-EP hoặc EP-EMA: ngày điều trị CO được thay bằng EP:
-  - Cisplatin 70-80mg pha 1L truyền tĩnh mạch hơn 12h.
+  - Cisplatin 70-80mg pha 1L truyền tĩnh mạch hơn 12 giờ.
   - Etoposide 100 mg/m² da (150 mg/m² da) được truyền tĩnh mạch hơn 1h.
 - Phác đồ BEP:
   - Cisplatin 20 mg/m² da truyền tĩnh mạch.
@@ -318,7 +318,7 @@ Nếu kháng EMA-CO:
   - Bleomycin 30 đơn vị tiêm tĩnh mạch hằng tuần.
 - Phác đồ TP/TE:
   - Ngày 1:
-    - Dexamethasone 20mg uống trước liều Paclitaxel 12h.
+    - Dexamethasone 20mg uống trước liều Paclitaxel 12 giờ.
     - Dexamethasone 20mg uống trước liều Paclitaxel 6h.
     - Cimetidine 30mg + 100mL NaCl 0.9% truyền trong 30 phút.
     - Chlorphenamine 100mg tĩnh mạch.
@@ -327,7 +327,7 @@ Nếu kháng EMA-CO:
     - Cisplatin 60 mg/m² da pha 1000mL NaCl 0.9% truyền trong 3h.
     - Sau khi truyền thuốc, truyền tĩnh mạch 1000mL NaCl 0.9% + KCl 20mmol + 1g $MgSO_4$ truyền trong 2h.
   - Ngày 15:
-    - Dexamethasone 20mg uống trước liều Paclitaxel 12h.
+    - Dexamethasone 20mg uống trước liều Paclitaxel 12 giờ.
     - Dexamethasone 20mg uống trước liều Paclitaxel 6h.
     - Cimetidine 30mg + 100mL NaCl 0.9% truyền trong 30 phút.
     - Chlorphenamine 100mg tĩnh mạch.
@@ -340,7 +340,7 @@ Nếu kháng EMA-CO:
   - Etoposide 100 mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
   - MTX 100 mg/m² da tĩnh mạch.
-  - MTX 200 mg/m² da tĩnh mạch trong 12h.
+  - MTX 200 mg/m² da tĩnh mạch trong 12 giờ.
 - Ngày 2:
   - Etoposide 100 mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
