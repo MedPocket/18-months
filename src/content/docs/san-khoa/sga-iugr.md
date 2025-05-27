@@ -22,11 +22,11 @@ SGA (Small-for-Gestational Age) và IUGR (Fetal Growth Restriction/Intra-Uterine
 
 ### Định nghĩa và ngưỡng
 
-- **SGA**: trọng lượng thai ước tính (EFW) hoặc chu vi bụng (AC) < 10th percentile cho tuổi thai.  
-- **Severe SGA**: EFW hoặc AC < 3rd percentile.  
+- **SGA**: trọng lượng thai ước tính (EFW) hoặc chu vi bụng (AC) < bách phân vị thứ 10 cho tuổi thai.  
+- **Severe SGA**: EFW hoặc AC < bách phân vị thứ 3.  
 - **IUGR**: SGA kèm bằng chứng tăng trưởng chậm (bất thường Doppler động học hoặc sinh đồ sinh vật lý).  
 
-> **Lưu ý**: Khi EFW hoặc AC đạt ngưỡng 10th percentile, cần theo dõi tích cực; dưới 3rd percentile, cân nhắc chỉ định can thiệp sớm.
+> **Lưu ý**: Khi EFW hoặc AC đạt ngưỡng bách phân vị thứ 10, cần theo dõi tích cực; dưới bách phân vị thứ 3, cân nhắc chỉ định can thiệp sớm.
 
 ## Đánh giá và quản lý
 
@@ -70,10 +70,48 @@ SGA (Small-for-Gestational Age) và IUGR (Fetal Growth Restriction/Intra-Uterine
 - **IUGR thực sự**: hội chứng truyền máu (TTTS) hoặc bất thường tử cung–rau không đủ cho hai thai.  
 - Đánh giá riêng biệt từng thai bằng Doppler mạch rốn, NST và sinh đồ sinh vật lý.  
 
-## Bảng cân nặng và chiều dài tiêu chuẩn
+## Bảng chiều dài và cân nặng thai nhi theo WHO  
 
-![Bảng cân nặng và chiều dài thai nhi theo WHO](../../../assets/san-khoa/sga-iugr/can-nang-chieu-dai-thai-nhi-theo-who.webp)  
-_Bảng cân nặng và chiều dài thai nhi chuẩn theo WHO._
+| Tuần thai | Chiều dài (cm) | Cân nặng (gram) |
+| --------- | -------------- | --------------- |
+| 8         | \~1.6          | \~1             |
+| 9         | \~2.3          | \~2             |
+| 10        | \~3.1          | \~4             |
+| 11        | \~4.1          | \~7             |
+| 12        | \~5.4          | \~14            |
+| 13        | \~7.4          | \~23            |
+| 14        | \~8.7          | \~43            |
+| 15        | \~10.1         | \~70            |
+| 16        | \~11.6         | \~100           |
+| 17        | \~13           | \~140           |
+| 18        | \~14.2         | \~190           |
+| 19        | \~15.3         | \~240           |
+| 20        | \~25.6\*       | \~300           |
+| 21        | \~26.7\*       | \~360           |
+| 22        | \~27.8\*       | \~430           |
+| 23        | \~28.9\*       | \~500           |
+| 24        | \~30\*         | \~600           |
+| 25        | \~34.6         | \~660           |
+| 26        | \~35.6         | \~760           |
+| 27        | \~36.6         | \~875           |
+| 28        | \~37.6         | \~1000          |
+| 29        | \~38.6         | \~1150          |
+| 30        | \~39.9         | \~1320          |
+| 31        | \~41.1         | \~1500          |
+| 32        | \~42.4         | \~1700          |
+| 33        | \~43.7         | \~1900          |
+| 34        | \~45           | \~2100          |
+| 35        | \~46.2         | \~2300          |
+| 36        | \~47.4         | \~2600          |
+| 37        | \~48.6         | \~2850          |
+| 38        | \~49.8         | \~3080          |
+| 39        | \~50.7         | \~3250          |
+| 40        | \~51.2         | \~3400          |
+| 41        | \~51.5         | \~3550          |
+| 42        | \~51.7         | \~3700          |
+
+
+_Bảng chiều dài & cân nặng thai nhi theo tuần (WHO tham khảo)._
 
 ## Nguồn tham khảo
 

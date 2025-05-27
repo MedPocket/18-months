@@ -105,6 +105,31 @@ _Phân loại lâm sàng theo CDC._
 - **Chức năng thận, gan, lipid máu**: theo dõi định kỳ do tác dụng phụ ARV.  
 - **Tuân thủ điều trị**: tư vấn, hỗ trợ tâm lý, đánh giá tác dụng phụ để đảm bảo mẹ dùng thuốc đều đặn.
 
+## Phơi nhiễm HIV
+
+### Thời gian ủ bệnh
+
+- **Triệu chứng sớm (nếu có):** **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng…).
+
+- **Thời gian "cửa sổ" (window period):** khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm:
+
+| Loại xét nghiệm                          | Phát hiện HIV sớm nhất sau phơi nhiễm | Thời gian khuyến nghị làm xét nghiệm   |
+| ---------------------------------------- | ------------------------------------- | -------------------------------------- |
+| **Xét nghiệm NAT (HIV RNA)**             | 10–14 ngày                            | Sau 2–4 tuần                           |
+| **Kháng nguyên/kháng thể combo (Ag/Ab)** | 18–45 ngày                            | Sau 4–6 tuần, kiểm tra lại sau 3 tháng |
+| **Kháng thể HIV (ELISA, test nhanh)**    | 3–12 tuần                             | Sau 6 tuần và nhắc lại sau 3 tháng     |
+
+_Thời gian phát hiện HIV qua xét nghiệm._
+
+Kết quả được coi là đáng tin cậy nếu:
+- **Xét nghiệm combo Ag/Ab sau 4–6 tuần âm tính** → độ chính xác cao.
+- **Xét nghiệm kháng thể sau 12 tuần (3 tháng)** âm tính → gần như chắc chắn không nhiễm HIV.
+
+### Xử trí phơi nhiễm HIV
+
+- Nếu mới tiếp xúc < 72 giờ → **đi khám ngay để cân nhắc dùng PEP (thuốc phơi nhiễm)** nhằm giảm nguy cơ nhiễm.
+- Tránh quan hệ tình dục, hiến máu trong thời gian chờ xét nghiệm.
+
 ## Nguồn tham khảo
 
 - World Health Organization (WHO) (2021) – _Consolidated Guidelines on HIV Prevention, Testing, Treatment, Service Delivery and Monitoring_  

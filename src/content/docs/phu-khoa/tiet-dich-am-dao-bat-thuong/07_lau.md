@@ -91,6 +91,8 @@ Tại cơ sở không có đủ điều kiện xét nghiệm, chẩn đoán và 
 
 :::
 
+Có thể xét nghiệm từ 2–5 ngày sau phơi nhiễm nếu có triệu chứng, hoặc sau 7 ngày nếu không có triệu chứng.
+
 ### Chẩn đoán phân biệt
 
 #### Lậu sinh dục

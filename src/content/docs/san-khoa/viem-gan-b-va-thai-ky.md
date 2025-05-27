@@ -29,6 +29,16 @@ _Cơ sở dữ liệu bằng chứng từ 8 RCT lớn cho thấy:_
 
 ## Viêm gan B trong thai kỳ
 
+Thời gian ủ bệnh: khoảng 45 đến 180 ngày (trung bình khoảng 60–90 ngày).
+
+Trong giai đoạn này, người nhiễm có thể không có triệu chứng, nhưng virus có thể đã phát triển và có thể phát hiện qua xét nghiệm máu (HBsAg, HBV DNA).
+
+Đường lây truyền qua máu, dịch sinh dục, từ mẹ sang con, quan hệ tình dục không an toàn, dùng chung kim tiêm.
+- Ủ bệnh45–180 ngày (trung bình 60–90 ngày)
+- Thời điểm xét nghiệm:
+  - Có thể phát hiện sớm nhất sau 4–6 tuần sau phơi nhiễm.
+  - Độ chính xác cao sau 3 tháng.
+
 Tất cả các phụ nữ mang thai cần được làm xét nghiệm tầm soát viêm gan B trong quý 1 thai kì.
 
 Nếu HBsAg (+), HBeAg (+) và HBV DNA >$10^6$ copies/ml (200.000IU/mL) hoặc HBsAg định lượng >$10^4$IU/mL:

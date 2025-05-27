@@ -13,6 +13,8 @@ Xoắn khuẩn giang mai rất yếu, ở ngoài cơ thể chỉ sống được
 
 ### Các giai đoạn của giang mai
 
+Thời gian ủ bệnh thường từ 10 đến 90 ngày, phổ biến nhất là khoảng 21 ngày.
+
 Bệnh giang mai nếu không được chẩn đoán và điều trị có thể tồn tại rất nhiều năm và được chia làm 2 giai đoạn giang mai sớm và giang mai muộn:
 
 - Giang mai sớm:
@@ -139,6 +141,10 @@ Có 3 loại xét nghiệm nhanh chẩn đoán giang mai: đặc hiệu, không 
 - Xét nghiệm nhanh phối hợp đặc hiệu và không đặc hiệu: Các xét nghiệm nhanh không đặc hiệu được kết hợp với xét nghiệm đặc hiệu giang mai, nên có thể vừa sàng lọc (tương đương RPR/VDRL) vừa khẳng định chẩn đoán (tương đương TPHA/TPPA). Tuy nhiên, những xét nghiệm kép này chưa được đánh giá và kiểm định bởi Tổ chức Y tế thế giới.
 
 ## Chẩn đoán
+
+- Thời gian lây truyền qua tiếp xúc trực tiếp với vết loét giang mai (săng) khi quan hệ tình dục. Lây cao nhất trong giai đoạn 1 và 2.
+- Từ 3 tuần sau phơi nhiễm trở lên.
+- Xét nghiệm lại sau 6 tuần và 3 tháng nếu nghi ngờ phơi nhiễm.
 
 ### Giang mai mắc phải
 
