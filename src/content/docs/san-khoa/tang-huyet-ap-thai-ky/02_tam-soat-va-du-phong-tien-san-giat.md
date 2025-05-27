@@ -41,3 +41,8 @@ Theo ACOG, Aspirin nên được khởi động từ 12-28 tuần (tốt nhất 
 Thời điểm ngừng sử dụng Aspirin là thai 36 tuần.
 
 ![Lưu đồ tầm soát tiền sản giật 3 tháng đầu](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
+
+## Nguồn tham khảo
+
+- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_
