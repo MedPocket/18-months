@@ -66,7 +66,7 @@ Khi tử cung phát triển, ranh giới lát trụ nguyên thủy lộn ra từ
 _Dịch chuyển SCJ nguyên thủy và SCJ mới._
 
 ![Các ranh giới lát trụ nguyên thủy và mới](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/cac-ranh-gioi-lat-tru-nguyen-thuy-va-moi.png)
-_Các ranh giới lát trụ nguyên thủy và mới:<br>1. Biểu mô trụ bao phủ kênh cổ tử cung<br>2. Biểu mô lát nguyên thủy<br>3. Ranh giới lát trụ nguyên thủy (original SCJ)<br>4. Biểu mô trụ tiếp xúc với âm đạo (lộ tuyến)<br>5. Vùng chuyển tiếp (transformation zone)<br>6. Ranh giới lát trụ mới (new SCJ hay functional SCJ)<br>7. Nang Naboth_
+_Các ranh giới lát trụ nguyên thủy và mới:<br> 1. Biểu mô trụ bao phủ kênh cổ tử cung<br> 2. Biểu mô lát nguyên thủy<br> 3. Ranh giới lát trụ nguyên thủy (original SCJ)<br> 4. Biểu mô trụ tiếp xúc với âm đạo (lộ tuyến)<br> 5. Vùng chuyển tiếp (transformation zone)<br> 6. Ranh giới lát trụ mới (new SCJ hay functional SCJ)<br> 7. Nang Naboth_
 
 Lộ tuyến là tình trạng sinh lý bình thường, thường gặp ở những phụ nữ có tình trạng tăng estrogen trong cơ thể, như phụ nữ trong độ tuổi sinh sản, phụ nữ mang thai, phụ nữ dùng viên thuốc ngừa thai uống. Lộ tuyến cổ tử cung cũng có thể là bất thưởng bẩm sinh do ranh giới lát trụ hiện diện xuyên suốt ở cổ ngoài cổ tử cung từ lúc sinh.
 

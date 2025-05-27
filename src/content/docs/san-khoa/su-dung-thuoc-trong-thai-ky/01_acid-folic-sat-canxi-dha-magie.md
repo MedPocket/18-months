@@ -120,7 +120,7 @@ Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong c�
   - Hạt: bí, hướng dương, điều.
   - Các loại đậu: đậu đen, đỏ, nành.
   - Rau lá xanh: bina, cải bó xôi.
-  - Bơ, chuối, socola đen (≥70% cacao).
+  - Bơ, chuối, socola đen (≥ 70% cacao).
   - Ngũ cốc nguyên hạt: yến mạch, gạo lứt.
 
 ## Nhu cầu theo tam cá nguyệt
@@ -144,7 +144,7 @@ _Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai._
 | Buổi | Sản phẩm bổ sung | Hướng dẫn sử dụng                                                                       |
 | ---- | ---------------- | --------------------------------------------------------------------------------------- |
 | Sáng | Acid folic, DHA  | Uống acid folic sau ăn sáng; DHA sau bữa sáng hoặc trưa, tránh uống khi đói.            |
-| Trưa | Canxi            | Uống canxi sau bữa trưa, có thể chia 2 lần/ngày (≤600 mg/lần để hấp thu tốt).           |
+| Trưa | Canxi            | Uống canxi sau bữa trưa, có thể chia 2 lần/ngày (≤ 600 mg/lần để hấp thu tốt).           |
 | Tối  | Sắt              | Uống sắt trước bữa tối hoặc trước khi ngủ, nên kèm vitamin C (cam, ổi) để tăng hấp thu. |
 
 _Hướng dẫn sử dụng acid folic, DHA, sắt, canxi, magie._

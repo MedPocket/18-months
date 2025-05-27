@@ -25,7 +25,7 @@ Cường giáp trong thai kỳ làm tăng nguy cơ:
 :::note[Tiêu chuẩn chẩn đoán cường giáp]
 Các triệu chứng lâm sàng định hướng chẩn đoán:
 
-- Mạch lúc nghỉ >100 lần/phút, không giảm nhiều sau nghiệm pháp Valsalva.
+- Mạch lúc nghỉ > 100 lần/phút, không giảm nhiều sau nghiệm pháp Valsalva.
 - Biểu hiện ở mắt: lồi mắt, nhìn chằm chằm, phù quanh mắt (trong Graves).
 - Giảm cân, không tăng cân dù ăn nhiều.
 - Không chịu được nóng, vã mồ hôi.
@@ -77,7 +77,7 @@ Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng *
 
 **Lưu ý:** Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồn tại 2–3 tháng → khoảng **1% trẻ sơ sinh của mẹ Graves có nhiễm độc giáp**, nguy cơ tử vong lên đến 16%. Nghi ngờ khi:
 
-- Tim thai >160 lần/phút kéo dài.
+- Tim thai > 160 lần/phút kéo dài.
 - Siêu âm: phát hiện bướu giáp thai.
 
 ## Nguồn tham khảo

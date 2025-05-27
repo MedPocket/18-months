@@ -138,8 +138,8 @@ hoặc có thể làm test HPV ngay:
 - Nếu HPV dương tính, làm lại tế bào học sau 12 và 24 tháng như trên.
 - Nếu HPV âm tính, cho bệnh nhân tầm soát thường quy định kỳ theo lịch.
 
-Phụ nữ trẻ ≤20 tuổi, ngẫu nhiên có thực hiện Pap’s test, và có kết quả ASC-US thì nên được theo dõi giống như ở độ tuổi từ 21- 24 tuổi.
-Phụ nữ trẻ ≤20 tuổi, ngẫu nhiên có thực hiện Pap’s test, và có kết quả ASC-US thì nên được theo dõi giống như ở độ tuổi từ 21- 24 tuổi.
+Phụ nữ trẻ ≤ 20 tuổi, ngẫu nhiên có thực hiện Pap’s test, và có kết quả ASC-US thì nên được theo dõi giống như ở độ tuổi từ 21- 24 tuổi.
+Phụ nữ trẻ ≤ 20 tuổi, ngẫu nhiên có thực hiện Pap’s test, và có kết quả ASC-US thì nên được theo dõi giống như ở độ tuổi từ 21- 24 tuổi.
 
 Quản lý ASC-US ở phụ nữ có thai giống như quản lý ở phụ nữ không có thai.
 
@@ -162,7 +162,7 @@ Thuật ngữ LSIL (Low-grade squamous intraepithelial lesions) thể hiện cá
 
 LSIL bao gồm các tổn thương dị sản mức độ nhẹ hoặc nghi ngờ tổn thương CIN 1 trên mô học hoặc nhiễm HPV type nguy cơ cao.
 
-Tế bào trong LSIL có nhân to hơn ≥3 lần so với nhân của tế bào trung gian bình thường. Tỷ lệ nhân:bào tương ≤ 1/3. Đa nhân không phải là dấu hiệu hiếm. Nhân đậm với phân bố nhiễm sắc chất đều. Ở các tổn thương LSIL, hoạt động của HPV còn rất rõ ràng. Có sự liên quan mật thiết giữa tổn thương LSIL và kết quả HPV-DNA dương tính.
+Tế bào trong LSIL có nhân to hơn ≥ 3 lần so với nhân của tế bào trung gian bình thường. Tỷ lệ nhân:bào tương ≤ 1/3. Đa nhân không phải là dấu hiệu hiếm. Nhân đậm với phân bố nhiễm sắc chất đều. Ở các tổn thương LSIL, hoạt động của HPV còn rất rõ ràng. Có sự liên quan mật thiết giữa tổn thương LSIL và kết quả HPV-DNA dương tính.
 
 Về tiến triển của LSIL, các nghiên cứu cho thấy:
 
@@ -181,8 +181,8 @@ Bệnh nhân được thực hiện co-testing và cho kết quả HPV âm tính
 LSIL trên dân số đặc biệt:
 
 - Phụ nữ 21-24 tuổi với LSIL, do cơ hội thoái triển cao, nên chọn làm lại tế bào học sau 12 và 24 tháng giống như quản lý ASC-US.
-- Phụ nữ trẻ ≤20 tuổi với LSIL, cũng do tỷ lệ thoái triển về bình thường cao ở nhóm này nên các bệnh nhân này nên được theo dõi giống như ở độ tuổi từ 21-24.
-- Phụ nữ trẻ ≤20 tuổi với LSIL, cũng do tỷ lệ thoái triển về bình thường cao ở nhóm này nên các bệnh nhân này nên được theo dõi giống như ở độ tuổi từ 21-24.
+- Phụ nữ trẻ ≤ 20 tuổi với LSIL, cũng do tỷ lệ thoái triển về bình thường cao ở nhóm này nên các bệnh nhân này nên được theo dõi giống như ở độ tuổi từ 21-24.
+- Phụ nữ trẻ ≤ 20 tuổi với LSIL, cũng do tỷ lệ thoái triển về bình thường cao ở nhóm này nên các bệnh nhân này nên được theo dõi giống như ở độ tuổi từ 21-24.
 - Phụ nữ có thai giống như quản lý ở phụ nữ không có thai. Tương tự ASC-US, 2 điểm chống chỉ định nạo kênh tử cung ở phụ nữ có thai và có thể chấp nhận trì hoãn soi cổ tử cung cho đến hết 6 tuần hậu sản.
 - Phụ nữ mãn kinh có thể có nhiều lựa chọn khác nhau: làm test HPV, hoặc làm lại tế bào học sau 6 tháng và 12 tháng, hoặc soi cổ tử cung ngay:
   - Nếu HPV âm tính hoặc không có tổn thương CIN khi soi cổ tử cung, làm lại tế bào học sau 12 tháng.

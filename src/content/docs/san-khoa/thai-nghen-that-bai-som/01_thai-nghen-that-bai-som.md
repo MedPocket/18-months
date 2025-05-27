@@ -24,33 +24,33 @@ Triệu chứng lâm sàng nói chung của thai nghén thất bại sớm thư�
 :::note[Tiêu chuẩn chẩn đoán thai nghén thất bại sớm theo The Society of Radiologists in Ultrasound Multispecialty Panel]
 Khuyến cáo các phát hiện chẩn đoán thai kỳ thất bại khi siêu âm qua đường âm đạo bao ít nhất 1 trong các tiêu chuẩn sau:
 
-1. Chiều dài từ đỉnh đầu đến mông (CRL) ≥7mm mà không có tim thai.
-2. Đường kính túi trung bình (MSD) ≥25mm mà không có phôi.
-3. Không có phôi có nhịp tim ≥14 ngày sau khi siêu âm cho thấy túi thai không có túi noãn hoàng (york-sac).
-4. Không có phôi có nhịp tim ≥11 ngày sau khi siêu âm cho thấy túi thai có túi noãn hoàng.
+1. Chiều dài từ đỉnh đầu đến mông (CRL) ≥ 7mm mà không có tim thai.
+2. Đường kính túi trung bình (MSD) ≥ 25mm mà không có phôi.
+3. Không có phôi có nhịp tim ≥ 14 ngày sau khi siêu âm cho thấy túi thai không có túi noãn hoàng (york-sac).
+4. Không có phôi có nhịp tim ≥ 11 ngày sau khi siêu âm cho thấy túi thai có túi noãn hoàng.
 
 :::
 
-Tiêu chuẩn rõ ràng nhất là CRL ≥7mm và không thấy hoạt động tim thai. Không được kết luận thai nghén thất bại sớm khi
+Tiêu chuẩn rõ ràng nhất là CRL ≥ 7mm và không thấy hoạt động tim thai. Không được kết luận thai nghén thất bại sớm khi
 không thấy hoạt động tim thai nhưng CRL chưa đủ 7mm.
 
 ![Thai ngưng phát triển](../../../../assets/san-khoa/thai-nghen-that-bai-som/thai-ngung-phat-trien.png)
-_Thai ngưng phát triển được xác định khi siêu âm có hình ảnh túi thai, bên trong có phôi thai với CRL ≥7mm không hoạt động tim phôi. Hoạt động tim thai phải được xác nhận bằng phổ Doppler (phía dưới)._
+_Thai ngưng phát triển được xác định khi siêu âm có hình ảnh túi thai, bên trong có phôi thai với CRL ≥ 7mm không hoạt động tim phôi. Hoạt động tim thai phải được xác nhận bằng phổ Doppler (phía dưới)._
 
 So với tiêu chuẩn theo CRL, thì tiêu chuẩn dùng để xác định trứng trống là kém rõ ràng hơn. Trong thai kỳ bình thường, chỉ quan sát thấy hình ảnh của yolk-sac và của phôi vài ngày sau khi thấy hình ảnh túi thai. Do đó, hiện diện của túi thai chưa có yolk-sac hay phôi là chưa đủ mạnh để xác lập chẩn đoán trứng trống. Phải có thêm các tiêu chuẩn để hạn chế sai sót trong chẩn đoán trứng không phôi. Không được kết luận trứng trống khi không thấy hiện diện của cả yolk-sac lẫn phôi thai nhưng MSD chưa đủ 25mm.
 
 ![Trứng trống](../../../../assets/san-khoa/thai-nghen-that-bai-som/trung-trong.png)
-_Trứng trống (trứng không phôi) (blighted ovum).<br>Chẩn đoán trứng trống được xác lập khi không thấy hiện diện của cả yolk-sac lẫn phôi thai khi MSD đã đạt được kích thước ≥25mm._
+_Trứng trống (trứng không phôi) (blighted ovum).<br>Chẩn đoán trứng trống được xác lập khi không thấy hiện diện của cả yolk-sac lẫn phôi thai khi MSD đã đạt được kích thước ≥ 25mm._
 
 Các tình huống khác nhau có thể thấy:
 
-1. Có phôi thai CRL <7mm, không hoạt động tim phôi.
+1. Có phôi thai CRL < 7mm, không hoạt động tim phôi.
 2. MSD 16-24mm và không có phôi thai.
 3. Không thấy phôi thai với hoạt động tim phôi trong vòng 7-10 ngày, được tính từ thời điểm có siêu âm xác nhận đã có túi thai và có yolk-sac.
 4. Không có hình ảnh của phôi thai sau 6 tuần hoặc hơn, kể từ ngày kinh cuối.
 5. Không có màng ối.
-6. Yolk-sac giãn rộng >7mm.
-7. Túi thai nhỏ so với CRL (hiệu MSD và CRL <5mm).
+6. Yolk-sac giãn rộng > 7mm.
+7. Túi thai nhỏ so với CRL (hiệu MSD và CRL < 5mm).
 
 Khi đó, chỉ được phép nghi ngờ khả năng xảy ra tình trạng này, và phải chờ xác nhận ở các lần kiểm tra sau.
 
@@ -74,8 +74,8 @@ Thuật ngữ thai lưu là thuật ngữ thể hiện sự lưu lại trong bu�
 
 Siêu âm xác nhận thai lưu khi:
 
-1. CRL ≥7mm và không thấy hoạt động tim thai.
-2. MSD ≥25mm và không thấy phôi thai.
+1. CRL ≥ 7mm và không thấy hoạt động tim thai.
+2. MSD ≥ 25mm và không thấy phôi thai.
 3. Không thấy phôi sau 14 ngày mà trước đó đã được siêu âm xác nhận đã có túi thai không có yolk-sac.
 4. Xác nhận tình trạng không có hoạt động tim thai sau loạt siêu âm (ít nhất 2 lần, cách nhau 7-10 ngày).
 
@@ -96,15 +96,15 @@ Triệu chứng lâm sàng khá nghèo nàn, thường là ra máu, đau bụng 
 Dấu hiệu siêu âm có giá trị dự báo cao tình trạng thai nghén có nhiều khả năng sẽ thất bại sớm nhưng không cho phép kết luận thai nghén thất bại sớm:
 
 1. Không thấy phôi thai sau 6 tuần vô kinh.
-2. Yolk-sac dãn rộng >7mm.
-3. Túi thai nhỏ và phôi thai nhỏ <5mm.
-4. Túi thai nhỏ, không tròn, không căng, hiệu số của MSD-CRL <5mm.
-5. Tim thai chậm <80-90 nhịp/phút.
+2. Yolk-sac dãn rộng > 7mm.
+3. Túi thai nhỏ và phôi thai nhỏ < 5mm.
+4. Túi thai nhỏ, không tròn, không căng, hiệu số của MSD-CRL < 5mm.
+5. Tim thai chậm < 80-90 nhịp/phút.
 6. Xuất huyết rộng dưới màng nuôi.
 7. Xoang ối dãn rộng (expanded amnion sign).
 
 ![Dọa sảy thai lưu](../../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-1.png)
-_Doạ sẩy thai lưu: túi thai rất nhỏ, hiệu (MSD-CRL) <5mm. Túi thai rất nhỏ, (MSD-CRL) <5mm, có tụ máu dưới màng đệm._
+_Doạ sẩy thai lưu: túi thai rất nhỏ, hiệu (MSD-CRL) < 5mm. Túi thai rất nhỏ, (MSD-CRL) < 5mm, có tụ máu dưới màng đệm._
 
 ![Dọa sảy thai lưu](../../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-2.png)
 _Doạ sẩy thai lưu: xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm._

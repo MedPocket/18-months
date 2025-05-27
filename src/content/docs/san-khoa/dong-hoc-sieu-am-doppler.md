@@ -37,7 +37,7 @@ Các chỉ định siêu âm Doppler khảo sát động mạch tử cung lúc t
 ![Chỉ định Doppler động mạch tử cung tuần 17-22](../../../assets/san-khoa/dong-hoc-sieu-am-doppler/chi-dinh-doppler-dong-mach-tu-cung-tuan-17-22.png)
 _Chỉ định Doppler động mạch tử cung tuần 17-22._
 
-Tầm soát bằng phổ Doppler động mạch tử cung được xem là bất thường khi chỉ số kháng trở (RI) >0.57, chỉ số đập (PI) > bách phân vị 95th và/hoặc hiện diện notch ở động mạch tử cung.
+Tầm soát bằng phổ Doppler động mạch tử cung được xem là bất thường khi chỉ số kháng trở (RI) > 0.57, chỉ số đập (PI) > bách phân vị 95th và/hoặc hiện diện notch ở động mạch tử cung.
 
 ## Phổ Doppler động mạch rốn
 

@@ -49,13 +49,13 @@ Pap’s test quy ước: thực hiện 2 lame phết tế bào cổ ngoài và c
 Tế bào lấy ra được cố định bằng dung dịch cồn 95° hoặc keo phun (Pap’s test quy ước) hoặc bằng môi trường của Thin Prep (Pap’s test nhúng dịch).
 
 ![Dụng cụ làm Pap's test](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/dung-cu-lam-pap.png)
-_Dụng cụ để làm Pap’s test (từ trái sang):<br>1. Cytobrush dùng cho kênh cổ tử cung.<br>2. Que Ayre dùng cho Pap’s test quy ước.<br>3. Chổi lớn thường dùng cho Pap’s test Thin Prep._
+_Dụng cụ để làm Pap’s test (từ trái sang):<br> 1. Cytobrush dùng cho kênh cổ tử cung.<br> 2. Que Ayre dùng cho Pap’s test quy ước.<br> 3. Chổi lớn thường dùng cho Pap’s test Thin Prep._
 
 ![Cách lấy mẫu](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/cach-lay-mau-pap.png)
-_Cách lấy mẫu (từ trái sang)<br>1. Cytobrush: Lấy ở kênh tử cung, tại vùng SCJ bị rút vào trong kênh, không đưa chổi lên quá sâu trong kênh cổ tử cung.<br>2. Que Ayre: Lấy 2 lần, với đầu to và đầu nhọn. Cả 2 lần đều phải áp vào vùng chuyển sản, và lấy được SCJ.<br>3. Chổi lớn: Áp vào SCJ và vùng chuyển sản._
+_Cách lấy mẫu (từ trái sang)<br> 1. Cytobrush: Lấy ở kênh tử cung, tại vùng SCJ bị rút vào trong kênh, không đưa chổi lên quá sâu trong kênh cổ tử cung.<br> 2. Que Ayre: Lấy 2 lần, với đầu to và đầu nhọn. Cả 2 lần đều phải áp vào vùng chuyển sản, và lấy được SCJ.<br> 3. Chổi lớn: Áp vào SCJ và vùng chuyển sản._
 
 ![Cách trải lame](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/cach-trai-lame.png)
-_Cách trải lame:<br>1. Chổi lớn: kéo để trải.<br>2. Cytobrush: lăn tròn để trải.<br>3. Que Ayre: kéo để trải._
+_Cách trải lame:<br> 1. Chổi lớn: kéo để trải.<br> 2. Cytobrush: lăn tròn để trải.<br> 3. Que Ayre: kéo để trải._
 
 ### HPV testing
 
@@ -90,7 +90,7 @@ Kết quả tầm soát âm tính khi không có bằng chứng về mặt tế 
 
 #### Khác
 
-Ở phụ nữ ≥45 tuổi, phải báo cáo về hình thái tế bào học lành tính của tế bào nội mạc tử cung.
+Ở phụ nữ ≥ 45 tuổi, phải báo cáo về hình thái tế bào học lành tính của tế bào nội mạc tử cung.
 
 #### Bất thường tế bào biểu mô
 

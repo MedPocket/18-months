@@ -18,25 +18,25 @@ Vaccine uốn ván cho phụ nữ mang thai được tiêm theo tiền sử mi�
 - **Chưa tiêm hoặc không rõ lịch sử**
 
   - Mũi đầu tiên khi mang thai lần đầu.
-  - Mũi nhắc lại sau ≥1 tháng.
-  - Mũi tiếp theo sau ≥6 tháng (hoặc ở lần mang thai sau).
-  - Mũi thứ tư sau ≥1 năm (hoặc ở lần mang thai sau).
-  - Mũi thứ năm sau ≥1 năm (hoặc ở lần mang thai sau).
+  - Mũi nhắc lại sau ≥ 1 tháng.
+  - Mũi tiếp theo sau ≥ 6 tháng (hoặc ở lần mang thai sau).
+  - Mũi thứ tư sau ≥ 1 năm (hoặc ở lần mang thai sau).
+  - Mũi thứ năm sau ≥ 1 năm (hoặc ở lần mang thai sau).
 
 - **Đã tiêm 3 mũi cơ bản**
 
   - Mũi đầu khi mang thai lần đầu.
-  - Mũi nhắc lại sau ≥1 tháng.
-  - Mũi thứ ba sau ≥1 năm.
+  - Mũi nhắc lại sau ≥ 1 tháng.
+  - Mũi thứ ba sau ≥ 1 năm.
 
 - **Đã tiêm đủ 4 mũi trong vòng 10 năm**
 
   - Không cần tiêm lại.
-  - Nếu mũi cuối cách >10 năm, tiêm 2 mũi nhắc lại.
+  - Nếu mũi cuối cách > 10 năm, tiêm 2 mũi nhắc lại.
 
 - **Mang thai lần đầu, chưa đủ 3 mũi cơ bản**
   - Mũi đầu sau 20 tuần.
-  - Mũi nhắc lại ≥30 ngày sau (hoặc trước sinh ≥30 ngày).
+  - Mũi nhắc lại ≥ 30 ngày sau (hoặc trước sinh ≥ 30 ngày).
 
 ## Lưu ý khi tiêm
 

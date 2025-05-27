@@ -27,7 +27,7 @@ HIV (Human Immunodeficiency Virus) là bệnh lây truyền chủ yếu qua đư
 
 _Phân loại lâm sàng theo CDC._
 
-- **Chẩn đoán AIDS**: giai đoạn C bất kỳ hoặc CD4 <200 cells/mm³ kèm bệnh lý định nghĩa.
+- **Chẩn đoán AIDS**: giai đoạn C bất kỳ hoặc CD4 < 200 cells/mm³ kèm bệnh lý định nghĩa.
 
 ## Điều trị
 
@@ -36,7 +36,7 @@ _Phân loại lâm sàng theo CDC._
 ### Mục tiêu điều trị
 
 - **CD4 ≥ 500 cells/mm³** nếu có thể, để giảm nguy cơ nhiễm trùng cơ hội.  
-- **Tải lượng HIV RNA < ngưỡng phát hiện** (<20–50 copies/mL) trước khi sinh.
+- **Tải lượng HIV RNA < ngưỡng phát hiện** (< 20–50 copies/mL) trước khi sinh.
 
 ### Thuốc ARV chính
 
@@ -84,7 +84,7 @@ _Phân loại lâm sàng theo CDC._
 
 - **Chuẩn**: TDF + 3TC + EFV (bắt đầu sau quý I).  
 - **Thay thế**: TDF + 3TC + DTG (từ quý II, ưu tiên khi không dùng EFV).  
-- **Khi tải lượng cao (>1.000 copies/mL) hoặc thất bại phác đồ**: Thêm hoặc chuyển sang LPV/r.  
+- **Khi tải lượng cao (> 1.000 copies/mL) hoặc thất bại phác đồ**: Thêm hoặc chuyển sang LPV/r.  
 
 ### Điều trị cho trẻ sơ sinh
 

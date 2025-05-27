@@ -6,7 +6,7 @@ description: Đẻ non/Dọa đẻ non.
 Trẻ sinh non được định nghĩa là trẻ được sinh ra trước khi tuổi thai được 37 tuần.
 
 - Sơ sinh đủ tháng được định nghĩa là sơ sinh với tuổi thai lúc sinh là từ 37 đến 42 tuần.
-- Thai kỳ kéo dài quá ngày dự sinh (thai già tháng) được định nghĩa khi thai kỳ kéo dài >42 tuần vô kinh.
+- Thai kỳ kéo dài quá ngày dự sinh (thai già tháng) được định nghĩa khi thai kỳ kéo dài > 42 tuần vô kinh.
 - Trẻ sinh non được định nghĩa là trẻ được sinh ra trước 37 tuần.
 
 ## Phân loại
@@ -55,11 +55,11 @@ Bất thường bánh rau: rau bong non, rau tiền đạo.
 
 Thời gian giữa 2 lần mang thai ngắn (< 6 tháng).
 
-Mẹ hút thuốc lá. Tuổi mẹ <17 hay >35 tuổi.
+Mẹ hút thuốc lá. Tuổi mẹ < 17 hay > 35 tuổi.
 
 Kinh tế xã hội thấp.
 
-Suy dinh dưỡng, cân nặng trước mang thai <50 kg.
+Suy dinh dưỡng, cân nặng trước mang thai < 50 kg.
 
 Làm việc quá mức.
 
@@ -79,7 +79,7 @@ Rau tiền đạo, rau bong non.
 
 Chiều dài kênh cổ tử cung được hiểu là khoảng cách đo được từ lổ cổ tử cung ngoài đến lổ cổ tử cung trong. Đo trên siêu âm. Bình thường, trong giai đoạn giữa của thai kỳ, cổ tử cung dài khoảng 30-40mm.
 
-Vào tuần lễ 24 của thai kỳ, trên thai phụ không có triệu chứng, nếu chiều dài cổ tử cung ngắn <25mm thì nguy cơ sinh non sẽ tăng lên. Ngược lại, nếu có các cơn gò tử cung nhưng cổ tử cung vẫn còn dài hơn 30mm thì nguy cơ có sinh non trong vòng 7 ngày kế tiếp chỉ là 1%.
+Vào tuần lễ 24 của thai kỳ, trên thai phụ không có triệu chứng, nếu chiều dài cổ tử cung ngắn < 25mm thì nguy cơ sinh non sẽ tăng lên. Ngược lại, nếu có các cơn gò tử cung nhưng cổ tử cung vẫn còn dài hơn 30mm thì nguy cơ có sinh non trong vòng 7 ngày kế tiếp chỉ là 1%.
 
 Năm 2015, FIGO khuyến cáo thực hiện việc khảo sát chiều dài kênh cổ tử cung thường quy ở tuổi thai 19-23 tuần 6 ngày.
 
@@ -125,15 +125,15 @@ Theo dõi tình trạng xuất huyết của sản phụ, vì rau bong non và r
 
 Đối với đơn thai: Cơn co tử cung đều đặn (4 cơn trong 2 phút hoặc 8 cơn trong 60 phút) và:
 
-- Cổ tử cung ≥3cm, hoặc
-- Chiều dài cổ tử cung theo siêu âm đường âm đạo <20mm, hoặc
-- Chiều dài cổ tử cung theo siêu âm đường âm đạo 20mm đến <30mm và xét nghiệm Fetal fibronectin (+).
+- Cổ tử cung ≥ 3cm, hoặc
+- Chiều dài cổ tử cung theo siêu âm đường âm đạo < 20mm, hoặc
+- Chiều dài cổ tử cung theo siêu âm đường âm đạo 20mm đến < 30mm và xét nghiệm Fetal fibronectin (+).
 
 Đối với song thai: Cơn co tử cung đều đặn (4 cơn trong 2 phút hoặc 8 cơn trong 60 phút) và:
 
-- Cổ tử cung ≥3cm, hoặc
-- Chiều dài cổ tử cung theo siêu âm đường âm đạo <25mm, hoặc
-- Chiều dài cổ tử cung theo siêu âm đường âm đạo 25mm đến <35mm và xét nghiệm Fetal fibronectin (+).
+- Cổ tử cung ≥ 3cm, hoặc
+- Chiều dài cổ tử cung theo siêu âm đường âm đạo < 25mm, hoặc
+- Chiều dài cổ tử cung theo siêu âm đường âm đạo 25mm đến < 35mm và xét nghiệm Fetal fibronectin (+).
 
 Có thể kèm theo ra dịch hồng, nhầy cổ tử cung, đau thắt lưng, trằn nặng bụng.
 
@@ -231,7 +231,7 @@ Chống chỉ định:
 
 Liều dùng:
 
-- Bước 1: Liều tấn công lọ 1 (37.5 mg/5mL) lấy 6.75mg (0.9mL) pha trong 10mL Ringer lactate tiêm tĩnh mạch chậm >1 phút (còn 4.1mL).
+- Bước 1: Liều tấn công lọ 1 (37.5 mg/5mL) lấy 6.75mg (0.9mL) pha trong 10mL Ringer lactate tiêm tĩnh mạch chậm > 1 phút (còn 4.1mL).
 - Bước 2: Liều duy trì với lọ 1 còn 30.75mg (4.1mL) pha 36.9mL Ringer lactate truyền bơm tiêm điện 24 mL/h. Sau đó pha lọ 2 (37.5 mg/5mL) trong 45mL Ringer lactate truyền bơm tiêm điện 24 mL/h trong 3h đầu.
 - Bước 3: Còn 19mL ở bước 2 truyền bơm tiêm điện 8 mL/h. Từ lọ 3 pha 45mL Ringer lactate được 50mL truyền với tốc độ 8 mL/h. Thời gian dùng tối đa là 45h.
 
@@ -245,7 +245,7 @@ Nifedipine ức chế kênh calci type II, có nhiều trong mạch máu, tử c
 
 Chống chỉ định:
 
-- Huyết áp mẹ <90/50mmHg, bệnh tim.
+- Huyết áp mẹ < 90/50mmHg, bệnh tim.
 - Rối loạn chức năng gan, bệnh thận
 - Đang dùng thuốc hạ áp khác.
 - Đa thai.
@@ -295,8 +295,8 @@ Chống chỉ định:
 Liều dùng:
 
 - Hạn chế đường truyền dịch nhất trong trường hợp song thai hay có điều trị corticoids vì dễ nguy cơ phù phổi cấp.
-- Dùng bơm tiêm điện pha Salbutamol 5 mg/5mL trong 95mL NaCl 0.9%, bơm 12 mL/h (10 mcg/phút), tăng 4 mL/h (3.3 mcg/phút) mỗi 30 phút đến khi cắt cơn gò hoặc nhịp tim mẹ ≥120 nhịp/phút hoặc tốc độ truyền tối đa 36 mL/h (30 mcg/phút).
-- Truyền tĩnh mạch Salbutamol 5 mg/5mL pha trong Glucose 5% (nồng độ 10 mcg/mL), tốc độ 60 mL/h (20 giọt/phút, 10 mcg/phút), tăng thêm 20 mL/h (7 giọt/phút, 3.3 mcg/phút) mỗi 30 phút đến khi cắt cơn gò hoặc nhịp tim mẹ ≥120 nhịp/phút hoặc tốc độ truyền tối đa 180 mL/h (60 giọt/phút, 30 mcg/phút).
+- Dùng bơm tiêm điện pha Salbutamol 5 mg/5mL trong 95mL NaCl 0.9%, bơm 12 mL/h (10 mcg/phút), tăng 4 mL/h (3.3 mcg/phút) mỗi 30 phút đến khi cắt cơn gò hoặc nhịp tim mẹ ≥ 120 nhịp/phút hoặc tốc độ truyền tối đa 36 mL/h (30 mcg/phút).
+- Truyền tĩnh mạch Salbutamol 5 mg/5mL pha trong Glucose 5% (nồng độ 10 mcg/mL), tốc độ 60 mL/h (20 giọt/phút, 10 mcg/phút), tăng thêm 20 mL/h (7 giọt/phút, 3.3 mcg/phút) mỗi 30 phút đến khi cắt cơn gò hoặc nhịp tim mẹ ≥ 120 nhịp/phút hoặc tốc độ truyền tối đa 180 mL/h (60 giọt/phút, 30 mcg/phút).
 
 Tác dụng phụ:
 
@@ -327,7 +327,7 @@ Chỉ định: Chỉ thực hiện duy nhất 1 đợt corticosteroids cho thai 
 
 - Thường quy cho thai từ 28 đến 38 tuần 6 ngày.
 - Cân nhắc với trường hợp trước 28 tuần.
-- Cân nhắc lặp lại khi thai <34 tuần, có nguy cơ sinh non trong vòng 7 ngày và cách đợt điều trị đầu tiên 7-14 ngày (phác đồ Bệnh viện Từ Dũ).
+- Cân nhắc lặp lại khi thai < 34 tuần, có nguy cơ sinh non trong vòng 7 ngày và cách đợt điều trị đầu tiên 7-14 ngày (phác đồ Bệnh viện Từ Dũ).
 - Sử dụng ngay cả khi không chắc chắn có thể hoàn thành đủ liều corticosteroids.
 
 Liều dùng 1 trong 2 phương pháp sau:
@@ -384,7 +384,7 @@ Có thể dùng progesterone để dự phòng sinh non cho thai phụ có tiề
 
 ### Khâu vòng cổ tử cung
 
-Có thể khâu vòng cổ tử cung để dự phòng sinh non cho thai phụ có hở eo tử cung và hiện có kênh tử cung ngắn <25mm.
+Có thể khâu vòng cổ tử cung để dự phòng sinh non cho thai phụ có hở eo tử cung và hiện có kênh tử cung ngắn < 25mm.
 
 Những trường hợp có cổ tử cung ngắn nhưng không có tiền căn sinh non thì không thấy lợi ích nào khi tiến hành thủ thuật này. Ở những trường hợp song thai, khi khâu cổ tử cung sẽ làm tăng nguy cơ chuyển dạ sinh non.
 
@@ -398,13 +398,13 @@ _Tiết dịch âm đạo bất thường là than phiền hay gặp nhất ở 
 
 ![Vòng nâng cổ tử cung](../../../../assets/san-khoa/doa-de-non/vong-nang-co-tu-cung.png)
 
-Chỉ định: Khi có chỉ định khâu vòng nhưng không thỏa mãn điều kiện (rau tiền đạo, sản phụ từ chối khâu, thai >20 tuần).
+Chỉ định: Khi có chỉ định khâu vòng nhưng không thỏa mãn điều kiện (rau tiền đạo, sản phụ từ chối khâu, thai > 20 tuần).
 
 Chống chỉ định:
 
 - Viêm sinh dục tiến triển.
 - Ra máu âm đạo.
-- Có dấu hiệu chuyển dạ: Rỉ ối hoặc vỡ, cổ tử cung xóa và mở ≥3cm, cơ cơn gò đều ≥2 cơn/10 phút, đầu ối sa và âm đạo.
+- Có dấu hiệu chuyển dạ: Rỉ ối hoặc vỡ, cổ tử cung xóa và mở ≥ 3cm, cơ cơn gò đều ≥ 2 cơn/10 phút, đầu ối sa và âm đạo.
 
 Thời điểm đặt Pesary:
 

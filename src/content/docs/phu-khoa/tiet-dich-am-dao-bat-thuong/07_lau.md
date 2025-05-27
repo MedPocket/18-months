@@ -174,7 +174,7 @@ Phác đồ này được áp dụng cho cả phụ nữ mang thai, nhưng cần
 
 Tất cả những người được chẩn đoán mắc bệnh lậu nên được xét nghiệm các bệnh lây truyền qua đường tình dục khác, bao gồm Chlamydia, giang mai và HIV. Những người có kết quả xét nghiệm HIV âm tính nên được cung cấp thuốc dự phòng trước lây nhiễm HIV (PrEP: Pre-Exposure Prophylaxis).
 
-Bạn tình gần đây (tức là những người có quan hệ tình dục với bệnh nhân bị nhiễm bệnh <60 ngày trước khi xuất hiện triệu chứng hoặc chẩn đoán bệnh lậu) nên được đưa đến khám, xét nghiệm và điều trị. Nếu lần quan hệ tình dục gần đây nhất của bệnh nhân có nguy cơ tiềm ẩn là >60 ngày trước khi xuất hiện các triệu chứng hoặc chẩn đoán là bệnh lậu, thì bạn tình gần đây nhất nên được điều trị.
+Bạn tình gần đây (tức là những người có quan hệ tình dục với bệnh nhân bị nhiễm bệnh < 60 ngày trước khi xuất hiện triệu chứng hoặc chẩn đoán bệnh lậu) nên được đưa đến khám, xét nghiệm và điều trị. Nếu lần quan hệ tình dục gần đây nhất của bệnh nhân có nguy cơ tiềm ẩn là > 60 ngày trước khi xuất hiện các triệu chứng hoặc chẩn đoán là bệnh lậu, thì bạn tình gần đây nhất nên được điều trị.
 
 Khuyến cáo điều trị bạn tình Cefixime 800mg liều duy nhất, nếu đã loại trừ nhiễm Chlamydia đồng thời với lậu. Nếu xét nghiệm Chlamydia chưa có, thì bạn tình điều trị Cefixime 800mg uống liều duy nhất và thêm Doxycycline 100mg uống 2 lần/ngày x 7 ngày.
 
@@ -188,14 +188,14 @@ Nếu NAAT dương tính, thì thực hiện nuôi cấy khẳng định trướ
 
 Viêm niệu đạo dai dẳng, viêm cổ tử cung hoặc viêm trực tràng cũng có thể do các sinh vật khác gây ra. Tỷ lệ nhiễm lậu cầu cao thường thấy ở nam giới và phụ nữ trước đây đã được điều trị bệnh lậu. Phần lớn các trường hợp nhiễm trùng này là do tái nhiễm của bạn tình không được điều trị hoặc bắt đầu quan hệ với bạn tình mới bị nhiễm bệnh, do đó cần phải điều trị cho bệnh nhân và đồng thời điều trị cả cho bạn tình.
 
-Nam giới hoặc phụ nữ đã được điều trị bệnh lậu nên được xét nghiệm lại 3 tháng sau khi điều trị bất kể họ có tin rằng bạn tình của mình đã được điều trị hay không. Khuyến khích lên lịch tái khám tại thời điểm điều trị. Nếu không thể xét nghiệm lại sau 3 tháng, bác sĩ lâm sàng nên xét nghiệm lại bất cứ khi nào bệnh nhân tìm kiếm sự chăm sóc y tế lần tiếp theo <12 tháng sau lần điều trị ban đầu.
+Nam giới hoặc phụ nữ đã được điều trị bệnh lậu nên được xét nghiệm lại 3 tháng sau khi điều trị bất kể họ có tin rằng bạn tình của mình đã được điều trị hay không. Khuyến khích lên lịch tái khám tại thời điểm điều trị. Nếu không thể xét nghiệm lại sau 3 tháng, bác sĩ lâm sàng nên xét nghiệm lại bất cứ khi nào bệnh nhân tìm kiếm sự chăm sóc y tế lần tiếp theo < 12 tháng sau lần điều trị ban đầu.
 
 #### Thất bại điều trị
 
 Cần phân biệt thất bại điều trị với tái nhiễm. Xác định thất bại điều trị khi có 1 trong các tiêu chuẩn sau:
 
 - Không giảm triệu chứng sau 3-5 ngày điều trị mặc dù không quan hệ tình dục.
-- Nuôi cấy dương tính sau ≥3 ngày điều trị hoặc PCR dương tính sau ≥7 ngày điều trị mặc dù không quan hệ tình dục.
+- Nuôi cấy dương tính sau ≥ 3 ngày điều trị hoặc PCR dương tính sau ≥ 7 ngày điều trị mặc dù không quan hệ tình dục.
 - Nuôi cấy dương tính và có giảm nhạy cảm các kháng sinh cephalosporin trên kháng sinh đồ, bất kể có quan hệ tình dục lại hay không.
 
 Khi xác định thất bại điều trị, sử dụng phác đồ sau:
@@ -229,7 +229,7 @@ Cần tránh chạm vào mắt trong khi tra thuốc. Không khuyến cáo sử 
 
 :::caution[Lưu ý]
 
-Nguy cơ phản ứng dị ứng chéo của kháng sinh nhóm Penicillin với Cephalosporin thế hệ thứ nhất là cao nhất nhưng hiếm gặp (<1%) với Cephalosporin thế hệ thứ ba (ví dụ Ceftriaxone và cefixime). Trước tiên, nên đánh giá kỹ lưỡng tiền sử dị ứng của bệnh nhân, bao gồm loại phản ứng, các loại thuốc liên quan và hồ sơ kê đơn trước đó. Nếu nghi ngờ dị ứng Penicillin qua trung gian IgE hay còn gọi là quá mẫn type I (sốc phản vệ) , có thể điều trị kép bằng liều đơn Gentamicin tiêm bắp 240mg cộng với Azithromycin đường uống 2g. Nếu bệnh nhân không có triệu chứng và cơ sở điều trị có thể thực hiện xét nghiệm gyrase A (gyrA) (Xét nghiệm sinh học phân tử phát hiện gen đột biến gyrase A) để xác định độ nhạy của Ciprofloxacin, có thể dùng Ciprofloxacin 500mg uống 1 liều duy nhất.
+Nguy cơ phản ứng dị ứng chéo của kháng sinh nhóm Penicillin với Cephalosporin thế hệ thứ nhất là cao nhất nhưng hiếm gặp (< 1%) với Cephalosporin thế hệ thứ ba (ví dụ Ceftriaxone và cefixime). Trước tiên, nên đánh giá kỹ lưỡng tiền sử dị ứng của bệnh nhân, bao gồm loại phản ứng, các loại thuốc liên quan và hồ sơ kê đơn trước đó. Nếu nghi ngờ dị ứng Penicillin qua trung gian IgE hay còn gọi là quá mẫn type I (sốc phản vệ) , có thể điều trị kép bằng liều đơn Gentamicin tiêm bắp 240mg cộng với Azithromycin đường uống 2g. Nếu bệnh nhân không có triệu chứng và cơ sở điều trị có thể thực hiện xét nghiệm gyrase A (gyrA) (Xét nghiệm sinh học phân tử phát hiện gen đột biến gyrase A) để xác định độ nhạy của Ciprofloxacin, có thể dùng Ciprofloxacin 500mg uống 1 liều duy nhất.
 
 Phụ nữ mang thai bị nhiễm lậu cầu nên được điều trị bằng Ceftriaxone 500mg liều tiêm bắp duy nhất cộng với điều trị bệnh Chlamydia nếu chưa loại trừ được nhiễm Chlamydia. Sử dụng Gentamicin nên thận trọng trong thời kỳ mang thai vì nguy cơ dị tật bẩm sinh ở trẻ sơ sinh, độc tính trên thận hoặc độc tính trên tai.
 

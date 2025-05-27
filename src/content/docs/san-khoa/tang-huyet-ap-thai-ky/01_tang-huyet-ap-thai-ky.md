@@ -36,7 +36,7 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 - Con so.
 - Béo phì.
 - Đa thai.
-- Mẹ lớn tuổi (≥35 tuổi).
+- Mẹ lớn tuổi (≥ 35 tuổi).
 - Tiền căn từng bị tiền sản giật.
 - Tăng huyết áp mạn, đái tháo đường, bệnh thận, Lupus.
 - Tiền sử gia đình có mẹ hoặc chị em gái bị tiền sản giật.
@@ -73,10 +73,10 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 - **Không có dấu hiệu nặng.**
 - **Có dấu hiệu nặng:** (chỉ cần một trong các dấu hiệu dưới đây)
 
-  1. Huyết áp tâm thu ≥160 mmHg hoặc tâm trương ≥110 mmHg (đo 2 lần cách nhau ≥4h).
-  2. Tiểu cầu <100.000 /µL.
-  3. Men gan tăng >2 lần bình thường, đau hạ sườn phải/thượng vị không đáp ứng thuốc.
-  4. Creatinine >1.1 mg/dL hoặc tăng gấp đôi không do bệnh lý thận khác.
+  1. Huyết áp tâm thu ≥ 160 mmHg hoặc tâm trương ≥ 110 mmHg (đo 2 lần cách nhau ≥ 4h).
+  2. Tiểu cầu < 100.000 /µL.
+  3. Men gan tăng > 2 lần bình thường, đau hạ sườn phải/thượng vị không đáp ứng thuốc.
+  4. Creatinine > 1.1 mg/dL hoặc tăng gấp đôi không do bệnh lý thận khác.
   5. Phù phổi.
   6. Triệu chứng thần kinh, thị giác: nhức đầu, mờ mắt, ám điểm, co thắt mạch máu võng mạc, thay đổi tri giác.
 
@@ -115,9 +115,9 @@ Biến chứng nặng của tiền sản giật/sản giật, tổn thương n�
 
 **Cận lâm sàng:**
 
-- LDH >600 IU/L.
-- Bilirubin toàn phần >12 mg/dL.
-- AST >70 IU/L.
+- LDH > 600 IU/L.
+- Bilirubin toàn phần > 12 mg/dL.
+- AST > 70 IU/L.
 - Giảm Haptoglobin.
   :::
 
@@ -149,12 +149,12 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
 - **Theo dõi ngoại trú.**
 - Không dùng thuốc hạ áp, lợi tiểu hay an thần.
 - **Nhập viện và chấm dứt thai kỳ nếu:**
-  - Thai ≥37 tuần.
+  - Thai ≥ 37 tuần.
   - Nghi ngờ rau bong non.
-  - Thai ≥34 tuần + 1 trong các yếu tố:
+  - Thai ≥ 34 tuần + 1 trong các yếu tố:
     - Chuyển dạ/vỡ ối.
     - Trọng lượng thai < bách phân vị 5.
-    - Thiểu ối (AFI <5 cm, 2 lần cách nhau 24 giờ).
+    - Thiểu ối (AFI < 5 cm, 2 lần cách nhau 24 giờ).
 
 :::note[Lưu đồ xử trí]
 ![Lưu đồ xử trí tiền sản giật không dấu hiệu nặng](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-khong-co-dau-hieu-nang.png)
@@ -173,7 +173,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 - Thai lưu.
 - Suy thận, giảm tiểu cầu, rau bong non…
 
-> Có thể trì hoãn nếu thai <34 tuần và mẹ - thai ổn định để sử dụng corticosteroids.
+> Có thể trì hoãn nếu thai < 34 tuần và mẹ - thai ổn định để sử dụng corticosteroids.
 
 :::note[Lưu đồ xử trí]
 ![Lưu đồ xử trí tiền sản giật có dấu hiệu nặng](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
@@ -239,7 +239,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
    - **Theo dõi dấu hiệu ngộ độc Magnesium sulfate:**
 
      - Giảm phản xạ gân xương.
-     - Suy hô hấp, nhịp thở <12 lần/phút.
+     - Suy hô hấp, nhịp thở < 12 lần/phút.
      - Giảm ý thức.
      - Nồng độ magie huyết > 8 mg/dL.
 
@@ -266,8 +266,8 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 | ---------------------------- | --------------------------------------------------------------------------- |
 | Cơ chế bệnh sinh             | Tổn thương bánh rau, mất cân bằng yếu tố tân tạo – kháng tạo mạch.          |
 | Phân loại tăng huyết áp      | Tăng huyết áp mạn, tăng huyết áp thai kỳ, tiền sản giật, sản giật.          |
-| Chẩn đoán tiền sản giật      | Huyết áp ≥140/90 mmHg, đạm niệu ≥300 mg/24 giờ hoặc 1+ trên que nước tiểu.  |
-| Dấu hiệu nặng tiền sản giật  | Huyết áp ≥160/110 mmHg, giảm tiểu cầu, suy gan/thận, triệu chứng thần kinh. |
+| Chẩn đoán tiền sản giật      | Huyết áp ≥ 140/90 mmHg, đạm niệu ≥ 300 mg/24 giờ hoặc 1+ trên que nước tiểu.  |
+| Dấu hiệu nặng tiền sản giật  | Huyết áp ≥ 160/110 mmHg, giảm tiểu cầu, suy gan/thận, triệu chứng thần kinh. |
 | Hội chứng HELLP              | Hemolysis, tăng men gan, giảm tiểu cầu.                                     |
 | Xử trí tiền sản giật         | Theo dõi, chỉ định sinh khi có dấu hiệu nặng hoặc thai đủ tuổi.             |
 | Dự phòng & điều trị sản giật | Magnesium sulfate, kiểm soát huyết áp, bảo vệ mẹ và thai.                   |

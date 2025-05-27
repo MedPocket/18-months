@@ -118,14 +118,14 @@ Trung tâm của sản đồ model WHO là đường báo động, thuộc về 
 
 Trong sản đồ model 1993 của WHO, độ dài của pha tiềm thời là bất định. Điều này phản ánh những khó khăn trong việc xác định thời điểm bắt đầu chuyển dạ.
 
-Động tác tịnh tiến lên đường báo động có ý nghĩa quan trọng, vì nó thể hiện việc bắt đầu so sánh với diễn tiến tối thiểu khi chuyển dạ đã vào giai đoạn hoạt động. Điểm đánh dấu pha hoạt động của sản đồ model 1993 của WHO được set là ≥3cm. Đường hành động là đường song song với đường báo động và cách đường báo động 4 đơn vị hoành độ về phía phải. Đường này cảnh báo đã hết thời hạn để thực hiện các điều chỉnh, có ý nghĩa phân định giữa chờ đợi và hành động tích cực. Biểu đồ chạm đường hành động là thời điểm buộc phải tiến hành các can thiệp có tính quyết đoán, nhưng không hoàn toàn đồng nghĩa với chấm dứt chuyển dạ.
-Động tác tịnh tiến lên đường báo động có ý nghĩa quan trọng, vì nó thể hiện việc bắt đầu so sánh với diễn tiến tối thiểu khi chuyển dạ đã vào giai đoạn hoạt động. Điểm đánh dấu pha hoạt động của sản đồ model 1993 của WHO được set là ≥3cm. Đường hành động là đường song song với đường báo động và cách đường báo động 4 đơn vị hoành độ về phía phải. Đường này cảnh báo đã hết thời hạn để thực hiện các điều chỉnh, có ý nghĩa phân định giữa chờ đợi và hành động tích cực. Biểu đồ chạm đường hành động là thời điểm buộc phải tiến hành các can thiệp có tính quyết đoán, nhưng không hoàn toàn đồng nghĩa với chấm dứt chuyển dạ.
+Động tác tịnh tiến lên đường báo động có ý nghĩa quan trọng, vì nó thể hiện việc bắt đầu so sánh với diễn tiến tối thiểu khi chuyển dạ đã vào giai đoạn hoạt động. Điểm đánh dấu pha hoạt động của sản đồ model 1993 của WHO được set là ≥ 3cm. Đường hành động là đường song song với đường báo động và cách đường báo động 4 đơn vị hoành độ về phía phải. Đường này cảnh báo đã hết thời hạn để thực hiện các điều chỉnh, có ý nghĩa phân định giữa chờ đợi và hành động tích cực. Biểu đồ chạm đường hành động là thời điểm buộc phải tiến hành các can thiệp có tính quyết đoán, nhưng không hoàn toàn đồng nghĩa với chấm dứt chuyển dạ.
+Động tác tịnh tiến lên đường báo động có ý nghĩa quan trọng, vì nó thể hiện việc bắt đầu so sánh với diễn tiến tối thiểu khi chuyển dạ đã vào giai đoạn hoạt động. Điểm đánh dấu pha hoạt động của sản đồ model 1993 của WHO được set là ≥ 3cm. Đường hành động là đường song song với đường báo động và cách đường báo động 4 đơn vị hoành độ về phía phải. Đường này cảnh báo đã hết thời hạn để thực hiện các điều chỉnh, có ý nghĩa phân định giữa chờ đợi và hành động tích cực. Biểu đồ chạm đường hành động là thời điểm buộc phải tiến hành các can thiệp có tính quyết đoán, nhưng không hoàn toàn đồng nghĩa với chấm dứt chuyển dạ.
 
 Sau model 1993, WHO có nhiều cải tiến trong sản đồ. Cải tiến gần nhất (2002) là:
 
 - Bỏ phần ghi giai đoạn tiềm thời và việc tịnh tiến, cùng lúc với việc chỉ bắt đầu ghi trong giai đoạn hoạt động.
-- Giai đoạn hoạt động, tức thời điểm bắt đầu có thể ghi sản đồ được điều chỉnh là ≥4cm, nhằm tránh những can thiệp khi chưa thực sự bắt đầu giai đoạn hoạt động.
-- Giai đoạn hoạt động, tức thời điểm bắt đầu có thể ghi sản đồ được điều chỉnh là ≥4cm, nhằm tránh những can thiệp khi chưa thực sự bắt đầu giai đoạn hoạt động.
+- Giai đoạn hoạt động, tức thời điểm bắt đầu có thể ghi sản đồ được điều chỉnh là ≥ 4cm, nhằm tránh những can thiệp khi chưa thực sự bắt đầu giai đoạn hoạt động.
+- Giai đoạn hoạt động, tức thời điểm bắt đầu có thể ghi sản đồ được điều chỉnh là ≥ 4cm, nhằm tránh những can thiệp khi chưa thực sự bắt đầu giai đoạn hoạt động.
 
 ### Ý nghĩa
 

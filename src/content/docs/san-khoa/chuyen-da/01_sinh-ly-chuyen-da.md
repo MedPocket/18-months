@@ -55,8 +55,8 @@ _Thành lập đầu ối phía trước ngôi thai, ở vị trí lổ cổ t�
 :::note[Chẩn đoán chuyển dạ]
 Chẩn đoán chuyển dạ được đặt ra khi có những tiêu chuẩn sau:
 
-1. Có ≥2 cơn co dài ≥20 giây mỗi 10 phút, gây đau.
-2. Cổ tử cung xóa ≥30%.
+1. Có ≥ 2 cơn co dài ≥ 20 giây mỗi 10 phút, gây đau.
+2. Cổ tử cung xóa ≥ 30%.
 3. Thành lập đầu ối, ối căng phồng khi tử cung co.
 
 :::
@@ -80,9 +80,9 @@ Giai đoạn xóa mở cổ tử cung lại được phân ra thành 2 pha:
 1. Pha tiềm thời.
 2. Pha hoạt động.
 
-Pha tiềm thời: là giai đoạn chuẩn bị cổ tử cung và ngôi thai. Thường kéo dài và bất định. Trong pha này, cổ tử cung trở nên mềm, xóa và hướng trục, ngôi thai sẽ định hướng và bình chỉnh, cơn co tử cung thưa và ngắn. Pha tiềm thời được xác định khi có chuyển dạ và độ mở cổ tử cung <3cm.
+Pha tiềm thời: là giai đoạn chuẩn bị cổ tử cung và ngôi thai. Thường kéo dài và bất định. Trong pha này, cổ tử cung trở nên mềm, xóa và hướng trục, ngôi thai sẽ định hướng và bình chỉnh, cơn co tử cung thưa và ngắn. Pha tiềm thời được xác định khi có chuyển dạ và độ mở cổ tử cung < 3cm.
 
-Pha hoạt động: là giai đoạn cổ tử cung mở nhanh, thành lập đoạn dưới và ngôi thai tiến triển. Thường diễn ra nhanh, kéo dài tối đa 12 giờ. Trong pha này, cổ tử cung hoàn tất xóa và mở nhanh, ngôi thai sẽ đi xuống và biến dạng, cơn co tử cung nhiều, dài, có cường độ mạnh và biên độ lớn. Pha hoạt động được xác định khi độ mở cổ tử cung ≥3cm.
+Pha hoạt động: là giai đoạn cổ tử cung mở nhanh, thành lập đoạn dưới và ngôi thai tiến triển. Thường diễn ra nhanh, kéo dài tối đa 12 giờ. Trong pha này, cổ tử cung hoàn tất xóa và mở nhanh, ngôi thai sẽ đi xuống và biến dạng, cơn co tử cung nhiều, dài, có cường độ mạnh và biên độ lớn. Pha hoạt động được xác định khi độ mở cổ tử cung ≥ 3cm.
 
 ![So sánh pha tiềm thời và pha hoạt động](../../../../assets/san-khoa/sinh-ly-chuyen-da/so-sanh-pha-tiem-thoi-va-pha-hoat-dong.png)
 

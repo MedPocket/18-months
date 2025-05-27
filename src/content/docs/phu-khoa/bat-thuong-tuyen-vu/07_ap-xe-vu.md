@@ -111,11 +111,11 @@ Amoxicillin an toàn cho các bà mẹ đang nuôi con bằng sữa mẹ.
 
 ### Ngoại khoa
 
-Đường kính ổ áp xe <3cm chọc hút bằng kim 18-19G + Bơm rửa bằng NaCl 0.9% dưới hướng dẫn của siêu âm. Chọc hút tối đa 3 lần. Nếu không đáp ứng rạch dẫn lưu.
+Đường kính ổ áp xe < 3cm chọc hút bằng kim 18-19G + Bơm rửa bằng NaCl 0.9% dưới hướng dẫn của siêu âm. Chọc hút tối đa 3 lần. Nếu không đáp ứng rạch dẫn lưu.
 
 Đường kính ổ áp xe từ 3-5cm chọc hút + dẫn lưu bằng catheter dưới hướng dẫn của siêu âm.
 
-Đường kính >5cm rạch dẫn lưu.
+Đường kính > 5cm rạch dẫn lưu.
 
 ## Theo dõi
 

@@ -20,7 +20,7 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
   - Theo khuyến cáo tăng cân tùy BMI trước khi mang thai
     | BMI trước khi mang thai | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
     | ------------------------------------------------ | ------------- | ------------------------------------------------------------------------ |
-    | Thiếu năng lượng trường diễn (BMI<18.5 kg/m²) | 12.5-18 | 0.51 (0.44-0.58) |
+    | Thiếu năng lượng trường diễn (BMI< 18.5 kg/m²) | 12.5-18 | 0.51 (0.44-0.58) |
     | Bình thường (BMI 18.5-22.9 kg/m²) | 11.5-16 | 0.42 (0.35-0.50) |
     | Thừa cân (BMI 23.0-24.9 kg/m²) | 7-11.5 | 0.28 (0.23-0.33) |
     | Béo phì (BMI > 24.9 kg/m²) | 5-9 | 0.22 (0.17-0.27) |

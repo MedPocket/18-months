@@ -100,7 +100,7 @@ _MRI cung cấp các hình ảnh rất chi tiết về cấu trúc mô tuyến v
 
 Chỉ định khi:
 
-- Tổn thương dạng đặc cần chẩn đoán mô học, kích thước >15mm.
+- Tổn thương dạng đặc cần chẩn đoán mô học, kích thước > 15mm.
 - Khi FNA nghi ngờ ác tính.
 - Tình huống lâm sàng cần chẩn đoán mô học hỗ trợ.
 
@@ -117,7 +117,7 @@ BRCA là từ viết tắt của Breast Cancer. BRCA thể hiện các gene và 
 
 Không phải mọi người đều phải khảo sát đột biến BRCA. Khảo sát này được chỉ định khi có tiền căn gia đình gợi ý:
 
-- Có ≥3 người trong gia đình được chẩn đoán ung thư vú hoặc ung thư buồng trứng trong đó có người dưới 50 tuổi.
+- Có ≥ 3 người trong gia đình được chẩn đoán ung thư vú hoặc ung thư buồng trứng trong đó có người dưới 50 tuổi.
 - Có 2 người trong gia đình thế hệ thứ nhất hoặc thế hệ thứ nhì bị ung thư vú hoặc ung thư buồng trứng.
 - Có người trong gia đình bị ung thư vú nam giới.
 - Cá nhân được chẩn đoán ung thư trước 50 tuổi.

@@ -45,8 +45,8 @@ Ta thường gặp tăng sinh nội mạc tử cung ở các nhóm có yếu t�
 
 Ung thư nội mạc tử cung là nguyên nhân của khoảng 5-10% các trường hợp xuất huyết tử cung bất thường sau mãn kinh. Tế bào ung thư xuất phát từ nội mạc tử cung (endometrial carcinoma). Ung thư nội mạc tử cung có các yếu tố nguy cơ sau:
 
-- Tuổi người phụ nữ ≥45 tuổi.
-- Béo phì BMI >30 kg/m².
+- Tuổi người phụ nữ ≥ 45 tuổi.
+- Béo phì BMI > 30 kg/m².
 - Chưa từng có thai.
 - Hội chứng buồng trứng đa nang.
 - Đái tháo đường.
@@ -84,7 +84,7 @@ Nội soi buồng tử cung cho phép nhìn trực tiếp buồng tử cung, cho
 
 Siêu âm qua đường âm đạo là tiếp cận sơ cấp, cho phép quyết định các chiến lược tiếp cận thứ cấp đi theo sau đó.
 
-Siêu âm qua đường âm đạo thường là siêu âm thang xám (grey-scale) thực hiện nhằm khảo sát độ dầy của nội mạc tử cung và các hình ảnh bất thường của nội mạc tử cung. Độ dầy nội mạc tử cung được xem như mốc quy chiếu để thực hiện các khảo sát không xâm lấn (SIS) hay xâm lấn khác (nội soi buồng tử cung). Tăng sinh nội mạc tử cung tạo ra vùng echo dày, đồng nhất, bờ nhẵn trong buồng tử cung, có độ dày ≥4mm (mãn kinh) và đầu chu kỳ kinh >9mm.
+Siêu âm qua đường âm đạo thường là siêu âm thang xám (grey-scale) thực hiện nhằm khảo sát độ dầy của nội mạc tử cung và các hình ảnh bất thường của nội mạc tử cung. Độ dầy nội mạc tử cung được xem như mốc quy chiếu để thực hiện các khảo sát không xâm lấn (SIS) hay xâm lấn khác (nội soi buồng tử cung). Tăng sinh nội mạc tử cung tạo ra vùng echo dày, đồng nhất, bờ nhẵn trong buồng tử cung, có độ dày ≥ 4mm (mãn kinh) và đầu chu kỳ kinh > 9mm.
 
 Có thể phát hiện u nang buồng trứng, buồng trứng đa nang.
 
@@ -105,7 +105,7 @@ Các phương pháp chẩn đoán hình ảnh khác (chụp cắt lớp bụng c
 Các chỉ định của lấy mẫu nội mạc tử cung để chẩn đoán mô bệnh học gồm:
 
 1. Xuất huyết tử cung bất thường ở các đối tượng nguy cơ cao có ung thư tuyến nội mạc tử cung.
-2. Phụ nữ hậu mãn kinh có độ dầy nội mạc tử cung >4mm, nhưng không kèm theo xuất huyết thì việc nạo sinh thiết nội mạc tử cung thường quy không được khuyết cáo. Chỉ nên sinh thiết nội mạc tử cung ở các đối tượng này nếu nội mạc tử cung dày >11mm hoặc có các hình ảnh nghi ngờ ác tính như kèm theo tăng sinh mạch máu, dày không đều hoặc có ứ dịch lòng tử cung.
+2. Phụ nữ hậu mãn kinh có độ dầy nội mạc tử cung > 4mm, nhưng không kèm theo xuất huyết thì việc nạo sinh thiết nội mạc tử cung thường quy không được khuyết cáo. Chỉ nên sinh thiết nội mạc tử cung ở các đối tượng này nếu nội mạc tử cung dày > 11mm hoặc có các hình ảnh nghi ngờ ác tính như kèm theo tăng sinh mạch máu, dày không đều hoặc có ứ dịch lòng tử cung.
 3. Nguy cơ cao ung thư nội mạc tử cung (điều trị với tamoxifen, hội chứng Lynch, hội chứng Cowden).
 4. Tăng sinh nội mạc tử cung ở phụ nữ không phóng noãn và có kèm vô kinh trên 6 tháng.
 5. Theo dõi điều trị tăng sinh nội mạc tử cung.

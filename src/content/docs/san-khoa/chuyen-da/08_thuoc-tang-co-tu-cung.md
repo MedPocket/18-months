@@ -12,8 +12,8 @@ Có nhiều yếu tố ảnh hưởng đến cơ co trong chuyển dạ:
 
 |                   | 0 điểm       | 1 điểm     | 2 điểm                        | 3 điểm         |
 | ----------------- | ------------ | ---------- | ----------------------------- | -------------- |
-| Độ mở cổ tử cung  | đóng         | 1-2cm      | 3-4cm                         | ≥5cm           |
-| Độ xóa cổ tử cung | 0-30%        | 40-50%     | 60-70%                        | ≥80%           |
+| Độ mở cổ tử cung  | đóng         | 1-2cm      | 3-4cm                         | ≥ 5cm           |
+| Độ xóa cổ tử cung | 0-30%        | 40-50%     | 60-70%                        | ≥ 80%           |
 | Mật độ cổ tử cung | chắc         | trung bình | mềm                           |                |
 | Hướng cổ tử cung  | sau          | trung gian | trước                         |                |
 | Độ lọt ngôi thai  | di động (-3) | chúc (-2)  | ghim chặt hoặc lọt cao (-1/0) | đã lọt (+1,+2) |
@@ -25,7 +25,7 @@ Nếu tổng điểm là:
 - 10: tiên lượng sinh trong vòng 2-3h.
 - 7-9: tiên lượng sinh trong 8 giờ.
 - 5-6: tiên lượng sinh dè dặt.
-- <5: nguy cơ khởi phát chuyển dạ thất bại.
+- < 5: nguy cơ khởi phát chuyển dạ thất bại.
 
 ## Chỉ định sử dụng
 
@@ -86,7 +86,7 @@ Mẹ:
 
 - Cơn co cường tính, gây vỡ tử cung.
 - Ngộ độc nước trong trường hợp sử dụng liều cao trong thời gian dài thì nên tăng nồng độ hơn tăng tốc độ, dùng dung dịch Lactate Ringer hay muối đẳng trương.
-- Ảnh hường lê tim mạch khi dùng liều cao >45mIU/phút hay tiêm tĩnh mạch trực tiếp có thể gây biến chứng tụt huyết áp, giảm tưới máu động mạch vành, ngưng tim.
+- Ảnh hường lê tim mạch khi dùng liều cao > 45mIU/phút hay tiêm tĩnh mạch trực tiếp có thể gây biến chứng tụt huyết áp, giảm tưới máu động mạch vành, ngưng tim.
 - Dị ứng ít thấy.
 - Tác dụng kháng lợi tiểu do giống cấu trúc ADH, nên dùng liều lớn có thể có tác dụng kháng lợi niệu (ứ nước, hạ natri, hôn mêm, co giật tử cung).
 

@@ -52,15 +52,15 @@ Khám âm đạo có dấu hiệu cục đá.
 :::note[Tiêu chuẩn chẩn đoán đa ối]
 Siêu âm:
 
-- Chỉ số ối (Amniotic fluid index - AFI) ≥22cm ở 3 tháng giữa và ≥25cm ở 3 tháng cuối.
-- Khoang ối sâu nhất (Single deepest pocket measurement - SDP - SDP) ≥8cm. SDP ≥16cm là đa ối nặng.
+- Chỉ số ối (Amniotic fluid index - AFI) ≥ 22cm ở 3 tháng giữa và ≥ 25cm ở 3 tháng cuối.
+- Khoang ối sâu nhất (Single deepest pocket measurement - SDP - SDP) ≥ 8cm. SDP ≥ 16cm là đa ối nặng.
 
 :::
 
 | Mức độ | Nhẹ      | Trung bình | Nặng  |
 | ------ | -------- | ---------- | ----- |
-| AFI    | 25-30cm  | 30.1-35cm  | >35cm |
-| SDP    | 8-11.9cm | 12-15.9cm  | ≥16cm |
+| AFI    | 25-30cm  | 30.1-35cm  | > 35cm |
+| SDP    | 8-11.9cm | 12-15.9cm  | ≥ 16cm |
 
 Siêu âm hình thái thai nhi, đo chiều dài cổ tử cung.
 
@@ -78,7 +78,7 @@ Những tuần thai sớm có thể thấy bất thường karyotype thai, TORCH
 
 Điều trị triệu chứng:
 
-- Giảm ối nếu có quá tải dịch (khó thở, tim nhanh, đau bụng) tốc độ <1l/20 phút.
+- Giảm ối nếu có quá tải dịch (khó thở, tim nhanh, đau bụng) tốc độ < 1l/20 phút.
 - Điều trị Indomethasone:
   - Chỉ định: Đa ối vô căn, thai nhi chưa trưởng thành.
   - Liều 25mg (uống), 4 lần/ngày, nếu AFI không giảm trong 2-3 này có thể tăng 3 mg/kg/ngày. Giảm hoặc ngưng AFI trước 34 tuần.
@@ -88,9 +88,9 @@ Liệu pháp corticosteroids thường quy.
 
 ### Điều trị ngoại trú
 
-<34 tuần: Tái khám mỗi 2 tuần đo chiều dài cổ tử cung, cân nhắc corticosteroids trước sinh.
+< 34 tuần: Tái khám mỗi 2 tuần đo chiều dài cổ tử cung, cân nhắc corticosteroids trước sinh.
 
-≥34 tuần: Siêu âm Doppler, non-stress test mỗi tuần.
+≥ 34 tuần: Siêu âm Doppler, non-stress test mỗi tuần.
 
 ### Tiêu chuẩn nhập viện
 
@@ -98,15 +98,15 @@ Xuất hiện quá tải dịch.
 
 Dấu hiệu dọa đẻ non.
 
-Thai ≥39 tuần.
+Thai ≥ 39 tuần.
 
 CTG nhóm II trở lên hoặc siêu âm Doppler màu bất thường.
 
 ### Chỉ định chấm dứt thai kỳ
 
-Thai ≥39 tuần có đa ối nhẹ đến trung bình.
+Thai ≥ 39 tuần có đa ối nhẹ đến trung bình.
 
-Thai ≥37 tuần có đa ối nặng.
+Thai ≥ 37 tuần có đa ối nặng.
 
 Thai 34-37 tuần có quá tải dịch nặng và đã dùng corticosteroids.
 

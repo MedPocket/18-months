@@ -23,7 +23,7 @@ _Sơ đồ DNA 7.904 bp của HPV type 16._
 
 ### Các type
 
-Hơn 200 type HPV đã được định danh, trong đó ~85 type đã mô tả đầy đủ gene; >40 type lây qua quan hệ tình dục. Do chỉ có capsid, HPV bền ngoài môi trường, có thể lây gián tiếp qua tiếp xúc đồ dùng.
+Hơn 200 type HPV đã được định danh, trong đó ~85 type đã mô tả đầy đủ gene; > 40 type lây qua quan hệ tình dục. Do chỉ có capsid, HPV bền ngoài môi trường, có thể lây gián tiếp qua tiếp xúc đồ dùng.
 
 - **Nhóm da:** tổn thương ở da tay, chân.
 - **Nhóm niêm mạc:** xâm nhiễm tế bào đáy niêm mạc môi, miệng, hô hấp, cơ quan sinh dục.
@@ -41,7 +41,7 @@ Hơn 200 type HPV đã được định danh, trong đó ~85 type đã mô tả 
 ### HPV và ung thư
 
 - Đa số lành tính, có thể tự khỏi nếu miễn dịch tốt.
-- Nhiễm tồn tại (>2 năm) tăng nguy cơ tái phát và sinh ung thư.
+- Nhiễm tồn tại (> 2 năm) tăng nguy cơ tái phát và sinh ung thư.
 - Biểu hiện: mụn cóc da, mụn cóc miệng (Heck’s), u nhú thanh quản.
 - Tại cổ tử cung: HPV type thấp gây mụn cóc sinh dục; type cao (16, 18, 31, 45…) liên quan đến tổn thương tiền ung thư và ung thư.
 
@@ -119,7 +119,7 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 :::caution[Lưu ý]
 
 - Không cần tầm soát Pap, HPV DNA hay kháng thể trước tiêm.
-- Tuân thủ khoảng cách tối thiểu: liều 1–2 ≥4 tuần; liều 2–3 ≥12 tuần; liều 1–3 ≥40 tuần.
+- Tuân thủ khoảng cách tối thiểu: liều 1–2 ≥ 4 tuần; liều 2–3 ≥ 12 tuần; liều 1–3 ≥ 40 tuần.
 - Trễ hẹn: tiếp tục liệu trình, không phải bắt đầu lại.
 - Chống chỉ định: dị ứng nấm men (4v/9vHPV), không tiêm khi mang thai.
 - Có thể tiêm đồng thời với vaccine khác, nhưng không trộn chung ống tiêm.
@@ -157,9 +157,9 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 ## Tóm tắt
 
 - **HPV** là virus Papovaviridae, không có màng lipid, capsid 72 capsom, chứa DNA kép vòng 7.904 bp.
-- Có >200 type; >40 type lây qua đường tình dục. Nhóm nguy cơ cao (16, 18, 31, …), nhóm nguy cơ thấp (6, 11, 42, …).
+- Có > 200 type; > 40 type lây qua đường tình dục. Nhóm nguy cơ cao (16, 18, 31, …), nhóm nguy cơ thấp (6, 11, 42, …).
 - **Yếu tố nguy cơ**: quan hệ sớm, nhiều bạn tình, tiền sử STI, dùng bao cao su không hoàn toàn bảo vệ, độ tuổi 18–30.
-- **Bệnh lý**: phần lớn lành tính; E6/E7 tương tác p53 và pRb, kéo dài >2 năm có thể dẫn đến mụn cóc sinh dục, tổn thương tiền ung và ung thư cổ tử cung.
+- **Bệnh lý**: phần lớn lành tính; E6/E7 tương tác p53 và pRb, kéo dài > 2 năm có thể dẫn đến mụn cóc sinh dục, tổn thương tiền ung và ung thư cổ tử cung.
 - **Vaccine**:
   - 2vHPV (16, 18); 4vHPV (6, 11, 16, 18); 9vHPV (6, 11, 16, 18, 31, 33, 45, 52, 58).
   - Phác đồ: trước 15 tuổi — 2 liều (cách 6–12 tháng); từ 15 tuổi — 3 liều (0, 1–2 tháng, 6 tháng).

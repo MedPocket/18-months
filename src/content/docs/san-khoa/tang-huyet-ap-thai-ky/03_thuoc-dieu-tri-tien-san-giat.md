@@ -44,7 +44,7 @@ description: Tổng hợp các thuốc phòng ngừa và điều trị tiền s�
 | 8 - 12                          | Mất phản xạ gân xương (phản xạ xương bánh chè)                     |
 | 10 - 12                         | Rối loạn ý thức: lơ mơ, nói lảm nhảm                               |
 | 15 - 17                         | Liệt cơ hô hấp, suy hô hấp                                         |
-| ≥30                             | Ngừng tim, tử vong                                                 |
+| ≥ 30                             | Ngừng tim, tử vong                                                 |
 
 _Mối tương quan giữa nồng độ Magnesium máu và biểu hiện lâm sàng._
 
@@ -54,12 +54,12 @@ _Mối tương quan giữa nồng độ Magnesium máu và biểu hiện lâm s�
 
 **Chỉ định:**
 
-- HA tâm thu ≥150 mmHg.
-- HA tâm trương ≥100 mmHg.
+- HA tâm thu ≥ 150 mmHg.
+- HA tâm trương ≥ 100 mmHg.
 
 **Theo dõi điều trị sau 2 giờ:**
 
-- HA trung bình không giảm >25%.
+- HA trung bình không giảm > 25%.
 - HA tâm thu 130–150 mmHg, tâm trương 80–100 mmHg.
 
 **Chống chỉ định chung:** Nitroprusside, thuốc ức chế men chuyển.

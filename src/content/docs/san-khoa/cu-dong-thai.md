@@ -22,7 +22,7 @@ Hầu hết thai phụ nhận biết cử động thai đều đặn sau 24 tu�
 - Phát hiện các bất thường về tình trạng thai và có can thiệp cứu sống thai khi tình trạng sức khỏe thai bất thường.
 - Việc can thiệp cho sinh ở những thai cực non cũng không giúp cứu sống trẻ sau đó, nên phương pháp này không được xem là cần thiết để thực hiện trước thời điểm sơ sinh có thể sống sót được (viable).
 
-Thai nhi khỏe mạnh thường có khoảng 10 cử động trong 20 phút. Chu kỳ ngủ của bé có thể kéo dài từ 20 đến 40 phút. Sadovsky, Moore và Neldam đề nghị ≤3 cử động/giờ là bất thường. Ở thai nhi khỏe mạnh, chu kỳ ngủ không bao giờ kéo dài quá 90 phút.
+Thai nhi khỏe mạnh thường có khoảng 10 cử động trong 20 phút. Chu kỳ ngủ của bé có thể kéo dài từ 20 đến 40 phút. Sadovsky, Moore và Neldam đề nghị ≤ 3 cử động/giờ là bất thường. Ở thai nhi khỏe mạnh, chu kỳ ngủ không bao giờ kéo dài quá 90 phút.
 
 Tư thế nằm là tư thế đếm cử động thai được nhận biết tốt hơn.
 
@@ -62,7 +62,7 @@ Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lư�
 - Đếm cử động thai là phương pháp đơn giản, không tốn kém, dùng để đánh giá sức khỏe thai nhi qua mức độ vận động.
 - Cử động thai giảm liên quan đến tình trạng suy giảm tưới máu bánh rau, toan hóa máu, và tăng nguy cơ tử vong, thai chậm tăng trưởng.
 - Thai phụ thường nhận biết cử động thai đều sau 24 tuần, khuyến cáo đếm từ 26–32 tuần tuổi thai.
-- Thai nhi khỏe mạnh thường có khoảng 10 cử động trong 20 phút; ≤3 cử động/giờ được xem là bất thường.
+- Thai nhi khỏe mạnh thường có khoảng 10 cử động trong 20 phút; ≤ 3 cử động/giờ được xem là bất thường.
 - Thời điểm đếm tốt nhất là đầu buổi tối, tư thế nằm giúp nhận biết cử động tốt hơn.
 - Hút thuốc lá và một số thuốc hướng thần kinh, corticosteroids có thể làm giảm cử động thai thoáng qua.
 - Các phương pháp đếm phổ biến: Cardiff, Sadovsky, với thời gian đếm từ 30 phút đến 12 giờ tùy phương pháp.

@@ -20,9 +20,9 @@ Bệnh giang mai nếu không được chẩn đoán và điều trị có thể
 - Giang mai sớm:
   - Giang mai thời kỳ I (primary syphilis).
   - Giang mai thời kỳ II (secondary syphilis).
-  - Giang mai kín sớm: giang mai kín (không có biểu hiện lâm sàng) và thời gian mắc ≤2 năm.
+  - Giang mai kín sớm: giang mai kín (không có biểu hiện lâm sàng) và thời gian mắc ≤ 2 năm.
 - Giang mai muộn:
-  - Giang mai kín muộn: giang mai kín (không có biểu hiện lâm sàng) và thời gian mắc >2 năm.
+  - Giang mai kín muộn: giang mai kín (không có biểu hiện lâm sàng) và thời gian mắc > 2 năm.
   - Giang mai thời kỳ III (có tổn thương ăn sâu vào tổ chức da, niêm mạc, tim mạch, thần kinh).
 
 ### Triệu chứng lâm sàng
@@ -46,7 +46,7 @@ Giang mai thời kỳ II:
 Giang mai kín (giang mai tiềm ẩn):
 
 - Không có dấu hiệu, triệu chứng lâm sàng. Vì thế, chỉ có thể phát hiện bằng xét nghiệm huyết thanh.
-- Được chia làm 2 giai đoạn: giang mai kín sớm (thời gian mắc <2 năm) và giang mai kín muộn (thời gian mắc >2 năm). Những bệnh nhân không biết chắc chắn thời gian nhiễm bệnh nên được điều trị theo phác đồ giang mai kín muộn. Giang mai lây truyền qua đường tình dục thường chỉ xảy ra ở giang mai thời kỳ I, thời kỳ II và giang mai kín sớm. Tuy nhiên, lây truyền từ mẹ sang con thì có thể xảy ra sau nhiều năm kể từ thời điểm nhiễm khuẩn ban đầu.
+- Được chia làm 2 giai đoạn: giang mai kín sớm (thời gian mắc < 2 năm) và giang mai kín muộn (thời gian mắc > 2 năm). Những bệnh nhân không biết chắc chắn thời gian nhiễm bệnh nên được điều trị theo phác đồ giang mai kín muộn. Giang mai lây truyền qua đường tình dục thường chỉ xảy ra ở giang mai thời kỳ I, thời kỳ II và giang mai kín sớm. Tuy nhiên, lây truyền từ mẹ sang con thì có thể xảy ra sau nhiều năm kể từ thời điểm nhiễm khuẩn ban đầu.
 - Nếu không được chẩn đoán và điều trị, hầu hết bệnh nhân vẫn ở giai đoạn giang mai kín. Khoảng 25% bệnh nhân sẽ tiến triển thành giang mai thời kỳ III.
 
 Giang mai thời kỳ III:
@@ -68,7 +68,7 @@ Biểu hiện thường gặp nhất của giang mai bẩm sinh là thai lưu ho
 
 Trẻ em được sinh ra từ những bà mẹ có xét nghiệm huyết thanh giang mai dương tính cần được khám, phát hiện những dấu hiệu, triệu chứng của giang mai bẩm sinh sớm bao gồm: bọng nước, viêm mũi, viêm thanh quản, hạch, gan lách to, viêm xương sụn, viêm màng bụng, viêm màng não, viêm màng mạch-võng mạc.
 
-Biểu hiện của giang mai bẩm sinh muộn ở trẻ >2 tuổi bao gồm viêm mắt, tai, khớp, dị dạng xương và các di chứng do các thương tổn của giang mai bẩm sinh sớm.
+Biểu hiện của giang mai bẩm sinh muộn ở trẻ > 2 tuổi bao gồm viêm mắt, tai, khớp, dị dạng xương và các di chứng do các thương tổn của giang mai bẩm sinh sớm.
 
 Tuy nhiên, rất nhiều trẻ sơ sinh bị giang mai mà không có các dấu hiệu, triệu chứng rõ ràng, điển hình.
 
@@ -89,8 +89,8 @@ Xét nghiệm không đặc hiệu:
 - Các trường hợp dương tính giả thường có hiệu giá kháng thể < 1/4.
 - Xét nghiệm không đặc hiệu định tính được sử dụng phối hợp với xét nghiệm đặc hiệu để chẩn đoán giang mai.
 - Xét nghiệm không đặc hiệu định lượng được sử dụng để theo dõi hiệu quả điều trị dựa vào sự thay đổi của hiệu giá kháng thể. Nếu điều trị hiệu quả, hiệu giá kháng thể sẽ giảm. Nếu bệnh không đáp ứng tốt với điều trị, hiệu giá kháng thể sẽ tăng.
-- Hiệu giá kháng thể thay đổi (tăng/giảm) ≥4 lần, tương đương ≥2 lần pha loãng huyết thanh giữa 2 lần xét nghiệm liên tiếp nhau thì được xem là thay đổi có ý nghĩa (cùng phương pháp (RPR hoặc VDRL) và cùng phòng xét nghiệm) (ví dụ: từ 1/16 giảm xuống 1/4 ở bệnh nhân có đáp ứng với điều trị, hoặc từ 1/8 tăng lên 1/32 đối với trường hợp không đáp ứng tốt với điều trị).
-- Nếu hiệu giá kháng thể chỉ thay đổi ≤2 lần, tương đương 1 lần pha loãng (ví dụ: 1/8 và 1/4, 1/2 và 1/1) thì được xem không có ý nghĩa.
+- Hiệu giá kháng thể thay đổi (tăng/giảm) ≥ 4 lần, tương đương ≥ 2 lần pha loãng huyết thanh giữa 2 lần xét nghiệm liên tiếp nhau thì được xem là thay đổi có ý nghĩa (cùng phương pháp (RPR hoặc VDRL) và cùng phòng xét nghiệm) (ví dụ: từ 1/16 giảm xuống 1/4 ở bệnh nhân có đáp ứng với điều trị, hoặc từ 1/8 tăng lên 1/32 đối với trường hợp không đáp ứng tốt với điều trị).
+- Nếu hiệu giá kháng thể chỉ thay đổi ≤ 2 lần, tương đương 1 lần pha loãng (ví dụ: 1/8 và 1/4, 1/2 và 1/1) thì được xem không có ý nghĩa.
 
 Xét nghiệm đặc hiệu
 
@@ -105,7 +105,7 @@ Xét nghiệm soi tìm xoắn khuẩn trên kính hiển vi nền đen:
 
 - Bệnh phẩm: dịch tiết từ tổn thương nghi ngờ trên da, niêm mạc, hạch…
 - Soi tìm xoắn khuẩn trên kính hiển vi nền đen thấy xoắn khuẩn giang mai dưới dạng lò xo, di động.
-- Đây là phương pháp đặc hiệu nhất để chẩn đoán giang mai ở giai đoạn sớm. Xét nghiệm có độ đặc hiệu cao, nhưng độ nhạy thấp (thường <50%), nên xét nghiệm soi tìm xoắn khuẩn âm tính không loại trừ được giang mai.
+- Đây là phương pháp đặc hiệu nhất để chẩn đoán giang mai ở giai đoạn sớm. Xét nghiệm có độ đặc hiệu cao, nhưng độ nhạy thấp (thường < 50%), nên xét nghiệm soi tìm xoắn khuẩn âm tính không loại trừ được giang mai.
 - Xét nghiệm cần được thực hiện ngay sau khi lấy bệnh phẩm.
 - Xét nghiệm cần các thiết bị đặc biệt và kỹ thuật viên đã được tập huấn, có kinh nghiệm, vì vậy thường chỉ có thể tiến hành trong các phòng xét nghiệm chuyên sâu. Đây là trong những phương pháp có độ tin cậy cao nhất để trực tiếp phát hiện T.pallidum, nhưng tính ứng dụng không cao.
 
@@ -154,12 +154,12 @@ Ngoài ra có thể dựa vào các xét nghiệm trực tiếp như kính hiể
 
 ### Giang mai bẩm sinh
 
-Tất cả trẻ sinh ra từ những bà mẹ có kết quả huyết thanh giang mai dương tính, cần được khám và làm xét nghiệm để tìm bằng chứng giang mai bẩm sinh. Đối với trẻ sinh ra từ mẹ bị giang mai nhưng không được điều trị đầy đủ ít nhất 30 ngày trước khi sinh hoặc không được điều trị, cần được xét nghiệm ngay ở thời điểm mới sinh ra và hàng tháng trong vòng 3-4 tháng cho đến khi khẳng định về mặt huyết thanh là âm tính. Trường hợp kháng thể thụ động từ mẹ có thể tồn tại tới 18 tháng. Vì vậy, nếu xét nghiệm huyết thanh của trẻ vẫn dương tính và hiệu giá kháng thể tăng ≥4 lần hiệu giá kháng thể của mẹ thì trẻ cần được điều trị giang mai bẩm sinh.
+Tất cả trẻ sinh ra từ những bà mẹ có kết quả huyết thanh giang mai dương tính, cần được khám và làm xét nghiệm để tìm bằng chứng giang mai bẩm sinh. Đối với trẻ sinh ra từ mẹ bị giang mai nhưng không được điều trị đầy đủ ít nhất 30 ngày trước khi sinh hoặc không được điều trị, cần được xét nghiệm ngay ở thời điểm mới sinh ra và hàng tháng trong vòng 3-4 tháng cho đến khi khẳng định về mặt huyết thanh là âm tính. Trường hợp kháng thể thụ động từ mẹ có thể tồn tại tới 18 tháng. Vì vậy, nếu xét nghiệm huyết thanh của trẻ vẫn dương tính và hiệu giá kháng thể tăng ≥ 4 lần hiệu giá kháng thể của mẹ thì trẻ cần được điều trị giang mai bẩm sinh.
 
 Trẻ sinh ra dưới 2 tuổi có mẹ bị giang mai được chẩn đoán giang mai bẩm sinh khi có triệu chứng lâm sàng của giang mai bẩm sinh hoặc có xét nghiệm giang mai dương tính, bao gồm 1 trong những xét nghiệm sau:
 
 - Xét nghiệm tìm xoắn khuẩn trên kính hiển vi nền đen hoặc xét nghiệm kháng thể huỳnh quang trực tiếp: thấy sự có mặt của T. pallidum. Bệnh phẩm lấy từ dây rốn, nhau thai, dịch tiết từ mũi hoặc tổn thương da.
-- Xét nghiệm huyết thanh không đặc hiệu dương tính và có hiệu giá kháng thể cao gấp ≤4 lần hiệu giá kháng thể của mẹ.
+- Xét nghiệm huyết thanh không đặc hiệu dương tính và có hiệu giá kháng thể cao gấp ≤ 4 lần hiệu giá kháng thể của mẹ.
 - Trong một số trường hợp giang mai bẩm sinh, có thể phối hợp X-quang để xác định chẩn đoán.
 
 ### Chẩn đoán phân biệt
@@ -177,7 +177,7 @@ Tuỳ thuộc vào biểu hiện lâm sàng của bệnh nhân.
 
 ### Nguyên tắc điều trị
 
-Lựa chọn phác đồ điều trị dựa vào giai đoạn bệnh giang mai sớm (≤2 năm) hay giang mai muộn (>2 năm hoặc không xác định thời gian).
+Lựa chọn phác đồ điều trị dựa vào giai đoạn bệnh giang mai sớm (≤ 2 năm) hay giang mai muộn (> 2 năm hoặc không xác định thời gian).
 
 Bạn tình hiện tại và trong vòng 1 năm cần được đi khám, làm xét nghiệm giang mai và điều trị nếu mắc bệnh.
 
@@ -189,8 +189,8 @@ Chủ yếu điều trị ngoại trú, chỉ điều trị nội trú trong tr�
 
 |                                                     | Phác đồ ưu tiên                                                                                                                      | Phác đồ thay thế                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giang mai sớm (≤2 năm)                              | Benzathin penicillin 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất                                                                   | Trong trường hợp không có benzathin penicillin, thay thế bằng phác đồ sau:<br>- Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu, 1 lần/ngày, trong 10-14 ngày.<br>Nếu không có procain penicillin hoặc bệnh nhân có tiền sử dị ứng với penicillin → lựa chọn 1 trong các phác đồ sau:<br>- Doxycyclin 100mg, uống 2 lần/ngày, trong 14 ngày;<br>- Ceftriaxon 1g, tiêm bắp sâu, 1 lần/ngày, trong 10-14 ngày;<br>- Azithromycin 2g, uống liều duy nhất. |
-| Giang mai muộn (>2 năm hoặc không rõ thời gian mắc) | Benzathin penicillin 2.4 triệu đơn vị, tiêm bắp sâu, 1 lần/ tuần trong 3 tuần liên tiếp, thời gian giữa 2 lần tiêm không quá 14 ngày | Trong trường hợp không có benzathin penicillin, thay thế bằng phác đồ sau:<br>- Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu, 1 lần/ngày, trong 20 ngày.<br>Nếu không có procain penicillin hoặc bệnh nhân có tiền sử dị ứng với penicillin → lựa chọn phác đồ sau:<br>- Doxycyclin 100mg, uống 2 lần/ngày, trong 30 ngày.                                                                                                                          |
+| Giang mai sớm (≤ 2 năm)                              | Benzathin penicillin 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất                                                                   | Trong trường hợp không có benzathin penicillin, thay thế bằng phác đồ sau:<br>- Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu, 1 lần/ngày, trong 10-14 ngày.<br>Nếu không có procain penicillin hoặc bệnh nhân có tiền sử dị ứng với penicillin → lựa chọn 1 trong các phác đồ sau:<br>- Doxycyclin 100mg, uống 2 lần/ngày, trong 14 ngày;<br>- Ceftriaxon 1g, tiêm bắp sâu, 1 lần/ngày, trong 10-14 ngày;<br>- Azithromycin 2g, uống liều duy nhất. |
+| Giang mai muộn (> 2 năm hoặc không rõ thời gian mắc) | Benzathin penicillin 2.4 triệu đơn vị, tiêm bắp sâu, 1 lần/ tuần trong 3 tuần liên tiếp, thời gian giữa 2 lần tiêm không quá 14 ngày | Trong trường hợp không có benzathin penicillin, thay thế bằng phác đồ sau:<br>- Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu, 1 lần/ngày, trong 20 ngày.<br>Nếu không có procain penicillin hoặc bệnh nhân có tiền sử dị ứng với penicillin → lựa chọn phác đồ sau:<br>- Doxycyclin 100mg, uống 2 lần/ngày, trong 30 ngày.                                                                                                                          |
 
 #### Các trường hợp đặc biệt
 
@@ -198,8 +198,8 @@ Với phụ nữ có thai:
 
 |                                                                 | Phác đồ ưu tiên                                                                                                                       | Phác đồ thay thế                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giang mai sớm (≤2 năm)                                          | Benzathin penicillin 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất                                                                    | Nếu không có benzathin penicillin, có thể thay bằng các phác đồ sau:<br>- Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu, 1 lần/ngày, trong 10 ngày.<br>Nếu không có procain penicillin hoặc bệnh nhân có tiền sử dị ứng với penicillin → lựa chọn 1 trong các phác đồ sau:<br>- Erythromycin 500mg, uống 4 lần/ngày, trong 14 ngày.<br>- Ceftriaxon 1g, tiêm bắp sâu, 1 lần/ngày, trong 10-14 ngày.<br>- Azithromycin 2g, uống liều duy nhất. |
-| Giang mai muộn (>2 năm hoặc không biết chính xác thời gian mắc) | Benzathin penicillin 2.4 triệu đơn vị, tiêm bắp sâu, 1 lần/ tuần trong 3 tuần liên tiếp, thời gian giữa 2 lần tiêm không quá 14 ngày. | Nếu không có benzathin penicillin, có thể thay bằng các phác đồ sau:<br>- Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu, 1 lần/ngày, trong 20 ngày.<br>Nếu không có procain penicillin hoặc bệnh nhân có tiền sử dị ứng với penicillin → lựa chọn phác đồ sau:<br>- Erythromycin 500mg, uống 4 lần/ngày, trong 30 ngày.                                                                                                                       |
+| Giang mai sớm (≤ 2 năm)                                          | Benzathin penicillin 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất                                                                    | Nếu không có benzathin penicillin, có thể thay bằng các phác đồ sau:<br>- Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu, 1 lần/ngày, trong 10 ngày.<br>Nếu không có procain penicillin hoặc bệnh nhân có tiền sử dị ứng với penicillin → lựa chọn 1 trong các phác đồ sau:<br>- Erythromycin 500mg, uống 4 lần/ngày, trong 14 ngày.<br>- Ceftriaxon 1g, tiêm bắp sâu, 1 lần/ngày, trong 10-14 ngày.<br>- Azithromycin 2g, uống liều duy nhất. |
+| Giang mai muộn (> 2 năm hoặc không biết chính xác thời gian mắc) | Benzathin penicillin 2.4 triệu đơn vị, tiêm bắp sâu, 1 lần/ tuần trong 3 tuần liên tiếp, thời gian giữa 2 lần tiêm không quá 14 ngày. | Nếu không có benzathin penicillin, có thể thay bằng các phác đồ sau:<br>- Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu, 1 lần/ngày, trong 20 ngày.<br>Nếu không có procain penicillin hoặc bệnh nhân có tiền sử dị ứng với penicillin → lựa chọn phác đồ sau:<br>- Erythromycin 500mg, uống 4 lần/ngày, trong 30 ngày.                                                                                                                       |
 
 :::caution[Lưu ý]
 Erythromycin, azithromycin là những thuốc không đi qua nhau thai nên trẻ có mẹ giang mai mới sinh ra cần được điều trị ngay theo phác đồ:
