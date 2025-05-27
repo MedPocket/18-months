@@ -1,39 +1,59 @@
 ---
-title: Thiếu máu thiếu sắt.
-description: Thiếu máu thiếu sắt.
+title: Thiếu máu thiếu sắt
+description: Tìm hiểu nguyên nhân, hệ quả, chẩn đoán, điều trị và dự phòng thiếu máu thiếu sắt trong thai kỳ – tình trạng phổ biến ảnh hưởng nghiêm trọng đến sức khỏe mẹ và thai nhi.
 ---
 
-## Thiếu máu thiếu sắt
+## Hệ quả của thiếu máu thiếu sắt trong thai kỳ
 
-### Hệ quả
+| Đối tượng                | Thiếu máu thiếu sắt                                                                 | Thiếu máu thiếu acid folic                                                                 |
+|--------------------------|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Phụ nữ mọi lứa tuổi  | - Giảm trí nhớ<br>- Khả năng tư duy kém<br>- Giảm năng suất lao động               | - Giảm miễn dịch                                                                           |
+| Phụ nữ mang thai     | - Sảy thai/sinh non<br>- Chậm tăng trưởng trong tử cung<br>- Băng huyết sau sinh<br>- Tăng nguy cơ tử vong mẹ và con<br>- Mệt mỏi, chóng mặt | - Bệnh lý bánh nhau (nhau tiền đạo)<br>- Dị tật thai nhi:<br>  + Tật ống thần kinh<br>  + Gai đôi cột sống<br>  + Thoát vị não<br>  + Thai vô sọ<br>  + Hở hàm ếch |
+| Trẻ sơ sinh và trẻ em| - Nhẹ cân<br>- Suy dinh dưỡng<br>- Tử vong chu sinh<br>- Mệt mỏi, tiếp thu chậm    | - Tử vong chu sinh                                      |
 
-Hệ quả của thiếu máu thiếu sắt, thiếu máu thiếu acid folic
+_Thiếu máu thiếu sắt, thiếu máu thiếu acid folic và hệ quả._
 
-![Hệ quả của thiếu máu thiếu sắt, thiếu acid folic](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thieu-mau-thieu-sat-thieu-acid-folic-va-he-qua.png)
-
-### Chẩn đoán
+## Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán thiếu máu thiếu sắt]
-Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic trong thai kỳ dựa trên huyết đồ và dựa trên nồng độ ferritin huyết thanh:
+Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic trong thai kỳ dựa trên huyết đồ và nồng độ ferritin huyết thanh:
 
-- Lâm sàng: Thiếu máu nhẹ, thai phụ thường than chóng mặt, hoa mắt, nhức đầu, ù tai, khó thở khi gắng sức, tim đập nhanh. Thiếu máu trung bình, nặng, khám sẽ phát hiện da khô, niêm nhạt, môi khô, lưỡi nứt nẻ, âm thổi thâm thu ở mỏm tim, tổn thương thần kinh.
-- Cận lâm sàng: Huyết đồ cho thấy nồng độ Hb <11g/dL, Hct <30%, MCV (mean cell volume) <80 fL, MCH (mean cell hemoglobin)<28 pg, MCHC (mean cell hemoglobin concentration) <32g/dL. Ferritin huyết thanh <10-50 µg/L. Ferritin huyết thanh <10 µg/L trong trường hợp nặng.
-- Cận lâm sàng: Huyết đồ cho thấy nồng độ Hb <11g/dL, Hct <30%, MCV (mean cell volume) <80 fL, MCH (mean cell hemoglobin)<28 pg, MCHC (mean cell hemoglobin concentration) <32g/dL. Ferritin huyết thanh <10-50 µg/L. Ferritin huyết thanh <10 µg/L trong trường hợp nặng.
+- **Lâm sàng**: Thiếu máu nhẹ thường gây chóng mặt, hoa mắt, nhức đầu, ù tai, khó thở khi gắng sức, tim đập nhanh. Thiếu máu trung bình — nặng có thể thấy da khô, niêm nhạt, môi khô, lưỡi nứt nẻ, âm thổi tâm thu ở mỏm tim, tổn thương thần kinh.  
+- **Cận lâm sàng**:  
+  - Hb < 11 g/dL; Hct < 30%.  
+  - MCV < 80 fL; MCH < 28 pg; MCHC < 32 g/dL.  
+  - Ferritin huyết thanh < 10–50 µg/L; < 10 µg/L khi nặng.
 
 :::
 
-### Điều trị
+## Điều trị
 
-Thiếu máu thiếu sắt nhẹ-trung bình cần được điều trị với 100-200mg sắt nguyên tố/ngày, uống trong các bữa ăn.
+- Thiếu máu thiếu sắt nhẹ–trung bình: uống 100–200 mg sắt nguyên tố/ngày, chia sau bữa ăn.  
+- Thiếu acid folic: uống 2–5 mg acid folic/ngày.  
+- Thiếu máu thiếu sắt nặng: truyền máu và bổ sung sắt tĩnh mạch (Iron Dextran Injection 50 mL), đánh giá lại sau 1 tuần (Hb tăng ≥ 0,8 g/dL/ngày và Hct tăng ≥ 1%/ngày là đáp ứng), tiếp tục duy trì cho đến sau sinh và khi cho con bú.  
 
-Thiếu máu do thiếu acid folic cần được điều trị với 2-5mg acid folic/ngày, uống.
+## Dự phòng
 
-Thiếu máu thiếu sắt nặng cần được truyền máu và bổ sung sắt bằng đường truyền tĩnh mạch hoặc tiêm tĩnh mạch chậm dung dịch Iron Dextran Injection (50mL). Sau 1 tuần cần xét nghiệm huyết đồ, nếu Hb tăng 0.8g/dL và HCt tăng 1% mỗi ngày sau 1 tuần là điều trị có đáp ứng. Vẫn tiếp tục điều trị duy trì cùng liều này cho đến lúc sinh, sau sinh và cho con bú.
+- ACOG: bổ sung sắt nguyên tố suốt thai kỳ, liều tùy tình trạng thiếu máu.
+  | Giai đoạn      | Hemoglobin (g/dL) | Ferritin (µg/L) | Khuyến cáo                          |
+  |----------------|--------------------|-----------------|--------------------------------------|
+  | 3 tháng đầu| < 9               | Bất kỳ          | Đánh giá bệnh nội khoa              |
+  |                | 9-10.9            | >30            | Đánh giá bệnh nội khoa              |
+  |                | 9-10.9            | 12-20          | 30 mg sắt/ngày                     |
+  |                | ≥ 11              | ≤ 20           | 30 mg sắt/ngày                     |
+  |                | 9-10.9            | <12            | 60-120 mg sắt/ngày                 |
+  |                | > 11              | >20            | Không cần bổ sung sắt               |
+  | 3 tháng giữa| < 9              | Bất kỳ          | Đánh giá bệnh nội khoa              |
+  |                | ≥ 10.5            | ≤ 20           | 30 mg sắt/ngày                     |
+  |                | 9-10.4            | <12            | 60-120 mg sắt/ngày                 |
+  |                | > 10.5            | >20            | Không cần bổ sung sắt               |
+  | 3 tháng cuối| < 9              | Bất kỳ          | Đánh giá bệnh nội khoa              |
+  |                | ≥ 11              | Bất kỳ          | 30 mg sắt/ngày                     |
+  |                | 9-10.9            | Bất kỳ          | 60-120 mg sắt/ngày                 |
 
-### Dự phòng
+  _Bổ sung sắt trong thai kỳ theo tình trạng thiếu máu (ACOG)._
+- WHO: 60 mg sắt nguyên tố và 200 µg acid folic hàng ngày từ khi mang thai đến khi sinh để phòng ngừa thiếu máu thiếu sắt.
 
-ACOG đề nghị bổ sung sắt nguyên tố cho thai phụ trong suốt thai kỳ, với liều lượng tùy tình trạng thiếu máu:
+## Nguồn tham khảo
 
-![Bổ sung sắt trong thai kỳ](../../../assets/san-khoa/thieu-mau-thai-ky/bo-sung-sat-trong-thai-ky.png)
-
-WHO đề nghị phụ nữ nên bổ sung 60mg sắt nguyên tố và 200 mcg acid folic ngay từ khi mang thai cho đến suốt thai kỳ nhằm phòng ngừa thiếu máu thiếu sắt trong thai kỳ.
+- Trường Đại học Y Dược TP. HCM (2020) – *Team-based learning*

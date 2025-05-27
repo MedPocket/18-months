@@ -55,9 +55,9 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 :::note[Tiêu chuẩn chẩn đoán tiền sản giật (ACOG Task Force 2013)]
 | Tiêu chí | Chi tiết |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Huyết áp | - Huyết áp tâm thu ≥ 140 mmHg **HOẶC** huyết áp tâm trương ≥ 90 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ, xuất hiện sau tuần thứ 20 của thai kỳ ở phụ nữ có huyết áp bình thường trước đó.<br>- Huyết áp tâm thu ≥ 160 mmHg **HOẶC** huyết áp tâm trương ≥ 110 mmHg (xác định trong khoảng thời gian ngắn và cần điều trị hạ áp ngay). |
+| Huyết áp | - Huyết áp tâm thu ≥ 140 mmHg **HOẶC** huyết áp tâm trương ≥ 90 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ, xuất hiện sau tuần thứ 20 của thai kỳ ở phụ nữ có huyết áp bình thường trước đó<br>- Huyết áp tâm thu ≥ 160 mmHg **HOẶC** huyết áp tâm trương ≥ 110 mmHg (xác định trong khoảng thời gian ngắn và cần điều trị hạ áp ngay) |
 | và | |
-| Đạm niệu | - ≥ 300 mg/24 giờ (hoặc suy ra từ thời gian thu thập nước tiểu tương ứng).<br>- Tỷ số Protein/creatinin ≥ 0.3.<br>- Dip-Stick ≥ 1+ (chỉ dùng khi không có phương pháp định lượng khác). |
+| Đạm niệu | - ≥ 300 mg/24 giờ (hoặc suy ra từ thời gian thu thập nước tiểu tương ứng)<br>- Tỷ số Protein/creatinin ≥ 0.3<br>- Dip-Stick ≥ 1+ (chỉ dùng khi không có phương pháp định lượng khác) |
 
 **Hoặc** trong trường hợp **không có đạm niệu**, tăng huyết áp mới xuất hiện kèm **ít nhất 1 trong các dấu hiệu sau**:
 
@@ -70,19 +70,19 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 
 ### Phân loại tiền sản giật
 
-- **Không có dấu hiệu nặng**
+- **Không có dấu hiệu nặng.**
 - **Có dấu hiệu nặng:** (chỉ cần một trong các dấu hiệu dưới đây)
 
-  1. Huyết áp tâm thu ≥160 mmHg hoặc tâm trương ≥110 mmHg (đo 2 lần cách nhau ≥4h)
-  2. Tiểu cầu <100.000 /µL
-  3. Men gan tăng >2 lần bình thường, đau hạ sườn phải/thượng vị không đáp ứng thuốc
-  4. Creatinine >1.1 mg/dL hoặc tăng gấp đôi không do bệnh lý thận khác
-  5. Phù phổi
-  6. Triệu chứng thần kinh, thị giác: nhức đầu, mờ mắt, ám điểm, co thắt mạch máu võng mạc, thay đổi tri giác
+  1. Huyết áp tâm thu ≥160 mmHg hoặc tâm trương ≥110 mmHg (đo 2 lần cách nhau ≥4h).
+  2. Tiểu cầu <100.000 /µL.
+  3. Men gan tăng >2 lần bình thường, đau hạ sườn phải/thượng vị không đáp ứng thuốc.
+  4. Creatinine >1.1 mg/dL hoặc tăng gấp đôi không do bệnh lý thận khác.
+  5. Phù phổi.
+  6. Triệu chứng thần kinh, thị giác: nhức đầu, mờ mắt, ám điểm, co thắt mạch máu võng mạc, thay đổi tri giác.
 
 ### Tiên lượng tiền sản giật
 
-- **Trước 34 tuần:** tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật, v.v.
+- **Trước 34 tuần:** tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật…
 
 ### Sản giật
 

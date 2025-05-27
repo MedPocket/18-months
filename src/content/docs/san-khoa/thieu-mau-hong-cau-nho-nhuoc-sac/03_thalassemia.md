@@ -1,110 +1,96 @@
 ---
 title: Thalassemia
-description: Thalassemia.
+description: Tìm hiểu toàn diện về Thalassemia – bệnh hemoglobin di truyền gây thiếu máu, bao gồm nguyên nhân, phân loại, biểu hiện lâm sàng, chẩn đoán tiền sản và quản lý thai kỳ.
 ---
 
-Thalassemia là bệnh lý thiếu máu do sự giảm sản xuất chọn lọc chuỗi globulin. Thalassemia là bệnh hemoglobin di truyền đơn gene thể lặn trên nhiễm sắc thể thường theo quy luật Mendel.
+Thalassemia là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọc chuỗi globin trong phân tử hemoglobin. Đây là bệnh di truyền đơn gen, lặn trên nhiễm sắc thể thường theo quy luật Mendel. Ở Việt Nam hiện có khoảng 1.700 trẻ sinh ra mỗi năm mắc Thalassemia.
 
-Ở Việt Nam, hàng năm có 1700 trẻ sinh ra bị Thalassemia. Cá thể mắc bệnh có thể bị phù thai, thai lưu, hoặc thiếu máu nặng sau sinh. Cho đến nay, điều trị chủ yếu vẫn là truyền máu và thải sắt khiến bệnh lí này trở thành gánh nặng cho gia đình và xã hội. Việc sàng lọc người lành mang gien bệnh và chẩn đoán tiền sản là biện pháp kiểm soát bệnh và giảm tỷ lệ bệnh hiệu quả nhất.
+Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, tan huyết và gây thiếu máu mạn tính. Mức độ nặng hay nhẹ phụ thuộc vào loại và số lượng gen bị tổn thương.
 
-Khi không có 1 chuỗi Hb, thì chuỗi còn lại sẽ không thể giữ được phân tử Hb ổn định. Phân tử bị tan rã và gây ra các tác hại.
+## Cơ chế
 
-Phân tử chỉ có chuỗi α thường mất ổn định nhanh chóng, nên β Thalassemia thường nặng hơn. Do phân tử chỉ có chuỗi β ổn định hơn, nên α Thalassemia thường nhẹ hơn.
+- **Chuỗi α-globin** do 4 gene trên NST 16 quy định; đột biến kiểu deletion gây α-thalassemia.  
+- **Chuỗi β-globin** do 2 gene trên NST 11 quy định; đột biến điểm (mutation) gây β-thalassemia.  
+- Phân tử chỉ có chuỗi α (Hb Bart’s) mất ổn định nhanh, không phóng thích O₂ → thai phù → thường tử vong trước hoặc ngay sau sinh.  
+- Phân tử chỉ có chuỗi β (Hb H) tương đối ổn định hơn → thiếu máu nhẹ/trung bình.  
 
-Tổng hợp chuỗi α được quy định bởi 4 gene α thuộc NST 16, đột biến kiểu deletion của NST 16 dẫn đến Thalassemia α. Tổng hợp chuỗi β được quy định bởi 2 gene β thuộc NST 11, đột biến kiểu mutation của NST 11 dẫn đến Thalassemia β.
+## Phân loại
 
-### β-thalassemia
+### Phân loại β-thalassemia
 
-Gồm 3 thể: nặng, trung gian và ẩn.
+- **Thể nặng (β⁰/β⁰ hoặc β⁰/β⁰ kép)**  
+  - Biểu hiện sớm ngay sau sinh hoặc vài tháng tuổi.  
+  - Thiếu máu nặng, vàng da, gan lách to.  
+  - Cần truyền máu định kỳ và thải sắt để duy trì sự sống.  
+  - Huyết học: Hb < 70 g/L; MCV, MCH giảm; ferritin bình thường hoặc tăng; điện di Hb: ↑ HbF, ↑ HbA2.  
 
-Thể nặng do đồng hợp tử 1 đột biến hay dị hợp tử kép 2 đột biến β⁰:
+- **Thể trung gian (β⁺/β⁺ hoặc β⁺/β⁰)**  
+  - Thiếu máu nhẹ–vừa, biểu hiện muộn hơn thể nặng.  
+  - Có thể cần truyền máu từng đợt, ít phụ thuộc hơn.  
 
-- Bệnh biểu hiện sớm khi trẻ mới sinh hoặc vài tháng tuổi.
-- Đặc điểm lâm sàng của thể nặng là thiếu máu nặng, vàng da, gan lách to…
-- Đứa trẻ cần được truyền máu thải sắt để duy trì sự sống. Đặc điểm huyết học của thể nặng là số lượng hồng cầu giảm, nồng độ Hb <70g/l, MCV, MCH giảm, ferritin bình thường hoặc tăng. Điện di Hb: HbF và HbA2 tăng.
-- Đứa trẻ cần được truyền máu thải sắt để duy trì sự sống. Đặc điểm huyết học của thể nặng là số lượng hồng cầu giảm, nồng độ Hb <70g/l, MCV, MCH giảm, ferritin bình thường hoặc tăng. Điện di Hb: HbF và HbA2 tăng.
+- **Thể ẩn (dị hợp tử 1 đột biến)**  
+  - Thường không triệu chứng; chỉ phát hiện tình cờ khi xét nghiệm.  
+  - Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3,5–7%); HbF 1–3% tùy loại đột biến.  
 
-Thể trung gian do kết hợp 2 đột biến β⁺ hoặc kết hợp 1 đột biến β⁺ và 1 đột biến β⁰. Tình trạng thiếu máu nhẹ hơn, bệnh biểu hiện muộn hơn.
+### Phân loại α-thalassemia
 
-Thể ẩn (người lành mang gene bệnh) thường do dị hợp tử 1 đột biến. Thể ẩn hiếm khi có triệu chứng lâm sàng, chỉ phát hiện khi xét nghiệm máu tình cờ. Nồng độ Hb giảm nhẹ, MCV và MCH giảm. HbA2 tăng (3.5-7%), có kèm theo hay không kèm tăng HbF (1-3%) tùy loại đột biến.
+- **Mất 1 gene α**  
+  - Người mang gen, không có triệu chứng lâm sàng.  
 
-### α-thalassemia
+- **Mất 2 gene α (thể nhẹ)**  
+  - Thiếu máu hồng cầu nhỏ nhược sắc nhẹ; HbA2, HbF bình thường.  
 
-Gồm 4 thể tùy thuộc vào số gene bị mất.
+- **Mất 3 gene α (Hb H)**  
+  - Thiếu máu tương đối nặng; lách to; HbA2 bình thường hoặc tăng nhẹ.  
 
-Hội chứng thai nước (Hb Bart’s) do mất hết cùng lúc cả 4 gene α-globulin:
+- **Mất 4 gene α (Hb Bart’s, thai phù)**  
+  - Không có chuỗi α; chỉ có chuỗi γ với ái lực O₂ cao → thai phù đa màng, suy tim, tử vong thường từ tuần 30 đến ngay sau sinh.  
 
-- Không có chuỗi α, cả 4 chuỗi Hb đều là chuỗi γ. Chuỗi γ có ái lực cực mạnh với oxy, và do đó hầu như không phóng thích oxy cho mô thai. Thai nhi bị phù, tràn dịch đa màng.
-- Thường tử vong từ tuần 30 cho đến ngay sau sinh với đặc điểm lâm sàng gồm thiếu máu nặng, gan lách to, phù toàn thân, suy tim kèm các dị tật bẩm sinh khác.
+![Thai phù trong hội chứng Bart](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thai-phu-trong-hoi-chung-Bart.png)  
+_Thai phù trong hội chứng Hb Bart’s._
 
-![Thai phù trong hội chứng Bart](../../../assets/san-khoa/thieu-mau-thai-ky/thai-phu-trong-hoi-chung-Bart.png)
+## Trẻ và mẹ trong Thalassemia
 
-Bệnh Hemoglobin H do mất 3 gene α-globin. Thiếu máu hồng cầu nhỏ nhược sắc, lách to, nồng độ HbA2 bình thường hoặc tăng nhẹ.
+- **Với trẻ**  
+  - Thể nặng có thể không sống sót sau sinh.  
+  - Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.  
 
-Bệnh α-thalassemia thể nhẹ do mất 2 gene α trên cùng 1 nhiễm sắc thể. Không có triệu chứng lâm sàng. Về
-mặt huyết học có thiếu máu hồng cầu nhỏ nhược sắc nhẹ, HbA2 và HbF bình thường.
+- **Với mẹ**  
+  - Vỡ hồng cầu → ứ sắt, gan lách to.  
+  - Nguy cơ nhiễm trùng tăng, nhất là sau cắt lách.  
+  - Biến dạng xương do tủy phải tăng sinh.  
+  - Bệnh tim do ứ sắt cơ tim → suy tim, loạn nhịp.  
+  - Chậm phát triển tâm thần vận động do thiếu O₂ mạn tính.  
 
-Người mang gien bệnh mất 1 gene α-globin, hoàn toàn không có triệu chứng.
+## Chẩn đoán tiền sản và tầm soát
 
-### Trẻ và mẹ với Thalassemia
+- Huyết đồ: Hb < 11 g/dL; MCV < 80 fL; MCH < 27 pg.  
+- Định lượng ferritin: bình thường hoặc tăng → chuyển sang điện di Hb.  
+- Điện di Hb: xác định tỉ lệ HbA2, HbF để phân loại.  
+  ![Kết quả điện di Hb ở người trưởng thành](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)  
+  _Kết quả điện di Hb ở người trưởng thành._
+- Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.  
+- Chẩn đoán trên thai: sinh thiết gai rau, chọc ối hoặc lấy máu cuống rốn nếu có nguy cơ cao.  
 
-Với trẻ: Trẻ với Thalassemia nặng có thể không sống sót sau sinh. Do thai có thể không thích ứng với cuộc sống ngoài tử cung trong trường hợp nặng, nên nếu tầm soát Thalassemia phát hiện ra các thể rất nặng như Hb Bart’s, có thể cân nhắc thảo luận chấm dứt thai kỳ.
+## Quản lý thai kỳ ở thai phụ β-thalassemia đồng hợp tử
 
-Với mẹ:
+- Đa chuyên khoa: sản khoa, huyết học, gây mê, nữ hộ sinh.  
+- Duy trì Hb ~10 g/dL bằng truyền máu định kỳ; kiểm soát ferritin < 1.000 ng/mL.  
+- Siêu âm tim, gan, tuyến giáp mỗi tam cá nguyệt.  
+- Sàng lọc tiểu đường: lần đầu 16 tuần, lặp lại 24–28 tuần.  
+- Siêu âm đánh giá tăng trưởng thai: 24–26 tuần rồi mỗi 4 tuần.  
+- Acid folic 5 mg/ngày để phòng thiếu máu hồng cầu to.  
+- Tránh uống thêm sắt; nếu cần thải sắt sử dụng DFO (cân nhắc nguy cơ teratogen).  
+- Chuyển dạ: ưu tiên sinh thường có gây tê ngoài màng cứng; tránh mê nội khí quản nếu có bất thường hàm mặt.  
+- Tránh IUD và thuốc ngừa phối hợp; ưu tiên progesterone đơn thuần hoặc bao cao su.  
 
-- Vỡ hồng cầu gây ứ đọng sắt. Lách to nhiều do phải làm việc quá sức để phá hủy lượng lớn hồng cầu có hemoglobin bất thường.
-- Nhiễm trùng. Nguy cơ nhiễm trùng càng tăng cao ở các phụ nữ đã cắt lách vì cường lách.
-- Biến dạng xương do tủy xương phải tăng cường hoạt động sản xuất hồng cầu để bù lại lượng hồng cầu bị vỡ, dẫn đến biến dạng xương, xương xốp hơn, dễ gãy hơn (thường gặp ở thể nặng).
-- Bệnh lý tim có thể gặp ở thể nặng do ứ đọng sắt quá mức ở cơ tim, gây ra suy tim xung huyết và rối loạn nhịp tim.
-- Chậm phát triển tâm thần vận động là hệ quả của tình trạng thiếu máu.
+## Dự phòng và điều trị gen trước làm tổ
 
-### Chẩn đoán tiền Thalassemia
+- Sàng lọc mang gen trước hôn nhân hoặc mang thai.  
+- Chẩn đoán di truyền tiền làm tổ (PGD) trên phôi IVF để chọn phôi không mang gen bệnh.  
+- Lưu trữ tế bào gốc cuống rốn cho điều trị ghép tế bào gốc sau này.  
 
-Các bước của chiến lược tầm soát Thalassemia hiện nay:
+## Nguồn tham khảo
 
-Bước 1. Nhận diện tình trạng thiếu máu nhược sắc hồng cầu nhỏ bằng huyết đồ. Huyết đồ cho thấy thiếu máu hồng cầu nhỏ, nhược sắc: nồng độ Hb <11g/dL, MCV <80 fL, MCH <27 pg.
-
-Bước 2. Phân biệt với thiếu máu thiếu sắt bằng định lượng ferritin. Ferritin bình thường hoặc cao là chỉ định của điện di hemoglobin.
-
-Bước 3. Định hướng phân loại Thalassemia bằng điện di Hb.
-
-![Kết quả điện di Hb ở người trưởng thành](../../../assets/san-khoa/thieu-mau-thai-ky/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
-_Kết quả điện di Hb ở người trưởng thành._
-
-Bước 4. Xác định kiểu đột biến gien Thalassemia ở 2 vợ chồng bằng khảo sát di truyền nhằm xác định nguy cơ Thalassemia thể nặng trên thai.
-
-Bước 5. Khảo sát di truyền trên thai (sinh thiết gai rau, chọc ối, lấy máu cuống rốn) nếu thai có nguy cơ bị Thalassemia thể nặng.
-
-![Chiến lược tầm soát Thalassemia](../../../assets/san-khoa/thieu-mau-thai-ky/chien-luoc-tam-soat-Thalassemia-1.png)
-_Chiến lược tầm soát Thalassemia 1._
-
-![Chiến lược tầm soát Thalassemia](../../../assets/san-khoa/thieu-mau-thai-ky/chien-luoc-tam-soat-Thalassemia-2.png)
-_Chiến lược tầm soát Thalassemia 2._
-
-### Quản lý các thai phụ có đồng hợp tử β-Thalassemia
-
-Quản lý thai phụ có thalassemia phải kết hợp điều trị giữa bác sĩ sản khoa, huyết học, gây mê và nữ hộ sinh.
-
-Bất xứng đầu chậu rất thường gặp trên những sản phụ này vì tầm vóc người nhỏ do bệnh lí thalassemia gây nên.
-
-Thai chậm tăng trưởng có thể do thai thiếu oxy mãn do mẹ thiếu máu nặng, do đó nên cố gắng giữ Hb khoảng 10g/dl.
-
-Điều trị truyền máu tiếp tục trong suốt thai kì nhưng ferritin không nên tăng hơn 10%.
-
-Thai và bánh rau có khả năng giữ sắt nên thai thường không bị thiếu máu.
-
-Đánh giá chức năng tim bằng siêu âm tim, gan, tuyến giáp mỗi tam cá nguyệt.
-
-Sàng lọc tiểu đường trên tất cả sản phụ khi thai 16 tuần, nếu kết quả test dung nạp đường bình thường, thì nên thực hiện lại khi thai 28 tuần.
-
-Siêu âm từ 24-26 tuần, sau đó mỗi 4 tuần để đánh giá phát triển của thai.
-
-Nhu cầu acid folic tăng do xương tăng hoạt động. Cho acid folic hàng ngày (5mg) để ngăn ngừa thiếu máu hồng cầu to.
-
-Chống chỉ định uống sắt trong thai kì. Nếu chức năng tim xấu hơn trong thai kì nên sử dụng DFO, nguy cơ dị tật thai khi sử dụng DFO còn đang nghi ngờ.
-
-Trong chuyển dạ, nếu thai kì không có biến chứng có thể theo dõi sinh thường. Khuyến cáo sử dụng gây tê ngoài màng cứng để mổ sinh và hạn chế gây mê nội khí quản do bất thường phát triển hàm mặt. Sản phụ nên cho con bú trừ trường hợp bị các bệnh lí lây truyền mẹ con.
-
-Các phương pháp tránh thai: Không sử dụng ngừa thai bằng dụng cụ tử cung vì tăng nguy cơ nhiễm trùng, không sử dụng thuốc ngừa thai phối hợp vì tăng nguy cơ thuyên tắc mạch, trong hầu hết trường hợp nên ngừa thai bằng các phương pháp tránh thai chỉ chứa progesterone hoặc bao cao su.
-
-Ngày nay, mong muốn tránh không mang thai và sinh ra những thai nhi có khả năng bị Thalassemia năng là khả thi. Phôi thu được từ thụ tinh trong ống nghiệm sẽ được nuôi đến giai đoạn phôi nang. Thực hiện sinh thiết phôi nang, khảo sát với các probes của Thalassemia theo phương pháp chẩn đoán di truyền trước khi làm tổ PGD, rồi mới được chuyển vào lòng tử cung. Tế bào máu cuống rốn của trẻ sơ sinh sẽ được giữ lưu trữ lại và nuôi cấy để cấy ghép cho các bệnh nhân.
+- Trường Đại học Y Dược TP. HCM (2020) – *Team-based learning*  
+- WHO 2021 – *Guidelines for screening and management of haemoglobinopathies*
