@@ -112,6 +112,7 @@ Vancomycin chỉ nên sử dụng trong trường hợp:
 
 - Người bệnh nhiễm GBS và đề kháng với Clindamycin hoặc Erythromycin, hoặc
 - Người bệnh nhiễm GBS và không có kết quả kháng sinh đồ.
+
 :::
 
 #### Nếu không đáp ứng với kháng sinh trên

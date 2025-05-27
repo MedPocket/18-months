@@ -7,28 +7,33 @@ Tắc tia sữa là tình trạng sữa ứ đọng trong các ống dẫn sữa
 
 ## Nguyên nhân
 
-- **Cho bú không đều hoặc không đúng cách**: Bé ngậm vú không đúng, bú không đủ thời gian  
-- **Vắt sữa không hoàn toàn**: Máy hoặc tay vắt không lấy hết sữa tồn đọng  
-- **Áo ngực chật**: Chèn ép nhu mô vú, cản trở dòng chảy  
-- **Căng thẳng, mệt mỏi**: Ức chế tiết tố và reflex tiết sữa  
+- **Cho bú không đều hoặc không đúng cách**: Bé ngậm vú không đúng, bú không đủ thời gian
+- **Vắt sữa không hoàn toàn**: Máy hoặc tay vắt không lấy hết sữa tồn đọng
+- **Áo ngực chật**: Chèn ép nhu mô vú, cản trở dòng chảy
+- **Căng thẳng, mệt mỏi**: Ức chế tiết tố và reflex tiết sữa
 - **Thay đổi chế độ ăn uống hoặc thuốc**: Gây sữa đặc, dễ vón cục
 
 ## Phương pháp không dùng thuốc
 
-**Cho con bú/vắt sữa thường xuyên**  
-- Bú kéo dài 15–20 phút mỗi bên, hoặc kết hợp vắt tay/vắt máy ngay khi cảm giác căng tức.  
+**Cho con bú/vắt sữa thường xuyên**
 
-**Massage và vỗ ấm**  
-- Massage nhẹ vùng tia tắc theo hướng từ nền ngực về núm vú.  
-- Chườm khăn ấm 10–15 phút trước bú/vắt để làm mềm mô và kích thích thông tuyến.  
+- Bú kéo dài 15–20 phút mỗi bên, hoặc kết hợp vắt tay/vắt máy ngay khi cảm giác căng tức.
 
-**Thay đổi tư thế bú**  
-- Thử các tư thế: đứng, ngồi thẳng, nằm nghiêng, bế chéo để bé hút đủ các tia sữa bị tắc.  
+**Massage và vỗ ấm**
 
-**Mặc áo ngực thoải mái**  
-- Dùng áo lót chuyên dụng cho con bú, không ép chặt ngực.  
+- Massage nhẹ vùng tia tắc theo hướng từ nền ngực về núm vú.
+- Chườm khăn ấm 10–15 phút trước bú/vắt để làm mềm mô và kích thích thông tuyến.
 
-**Nghỉ ngơi và dinh dưỡng**  
+**Thay đổi tư thế bú**
+
+- Thử các tư thế: đứng, ngồi thẳng, nằm nghiêng, bế chéo để bé hút đủ các tia sữa bị tắc.
+
+**Mặc áo ngực thoải mái**
+
+- Dùng áo lót chuyên dụng cho con bú, không ép chặt ngực.
+
+**Nghỉ ngơi và dinh dưỡng**
+
 - Uống đủ nước, ăn đa dạng dưỡng chất, ngủ đủ giấc, giảm stress.
 
 ## Phương pháp dùng thuốc
@@ -52,20 +57,20 @@ Tắc tia sữa là tình trạng sữa ứ đọng trong các ống dẫn sữa
 
 ## Chăm sóc sau điều trị
 
-- **Vệ sinh ngực**: Rửa bằng nước sạch, lau khô nhẹ nhàng.  
-- **Tiếp tục cho bú/vắt**: Duy trì tần suất 3–4 giờ/lần, ngay cả khi đã hết tắc.  
+- **Vệ sinh ngực**: Rửa bằng nước sạch, lau khô nhẹ nhàng.
+- **Tiếp tục cho bú/vắt**: Duy trì tần suất 3–4 giờ/lần, ngay cả khi đã hết tắc.
 - **Theo dõi tái phát**: Kiểm tra định kỳ, đảm bảo không có cục sữa ứ đọng mới.
 
 ## Tóm tắt
 
-- **Nguyên nhân**: bú/vắt không kỹ, áo chật, stress.  
-- **Không thuốc**: bú/vắt thường xuyên, massage, chườm ấm, thay tư thế, nghỉ ngơi.  
-- **Thuốc**: NSAIDs, kháng sinh khi viêm, metoclopramide/domperidone nếu cần tăng tiết sữa.  
+- **Nguyên nhân**: bú/vắt không kỹ, áo chật, stress.
+- **Không thuốc**: bú/vắt thường xuyên, massage, chườm ấm, thay tư thế, nghỉ ngơi.
+- **Thuốc**: NSAIDs, kháng sinh khi viêm, metoclopramide/domperidone nếu cần tăng tiết sữa.
 - **Chăm sóc**: giữ vệ sinh, tiếp tục bú/vắt, theo dõi.
 
 ## Nguồn tham khảo
 
-- American Family Physician (2015) - _Management of Lactational Mastitis and Blocked Milk Ducts_  
-- Journal of Human Lactation (2018) - _Strategies for Resolving Blocked Milk Ducts_  
-- Clinical Pediatrics (2012) - _Treatment of Mastitis and Breast Abscess_  
-- World Health Organization (2003) - _Breastfeeding Counselling: A Training Course_  
+- American Family Physician (2015) - _Management of Lactational Mastitis and Blocked Milk Ducts_
+- Journal of Human Lactation (2018) - _Strategies for Resolving Blocked Milk Ducts_
+- Clinical Pediatrics (2012) - _Treatment of Mastitis and Breast Abscess_
+- World Health Organization (2003) - _Breastfeeding Counselling: A Training Course_

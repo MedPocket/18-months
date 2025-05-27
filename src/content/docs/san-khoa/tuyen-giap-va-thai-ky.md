@@ -35,6 +35,7 @@ Các triệu chứng lâm sàng giúp định hướng chẩn đoán cường gi
 - Giảm cân, không tăng cân dù tăng lượng thức ăn.
 - Không chịu được nóng.
 - Tăng $FT_4$ và giảm TSH là các khảo sát cận lâm sàng cho phép thiết lập chẩn đoán.
+
 :::
 
 ### Điều trị

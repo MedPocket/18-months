@@ -70,7 +70,6 @@ Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lư�
 - Khi phát hiện giảm cử động thai, cần làm NST và siêu âm sớm để đánh giá, quyết định theo dõi hay can thiệp.
 - Tỷ lệ dương tính giả khi đếm cử động thai khá cao; thai phụ cần được giải thích để tránh lo lắng không cần thiết.
 
-
 ## Nguồn tham khảo
 
 - Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_

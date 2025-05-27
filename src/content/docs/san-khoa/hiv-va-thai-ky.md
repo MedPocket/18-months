@@ -30,25 +30,26 @@ Hướng dẫn của CDC (Hoa Kỳ) kết hợp với số lượng tế bào CD
 
 - Phân loại A: Không triệu chứng hoặc chỉ có hạch to (lymphadenopathy toàn thân kéo dài).
 - Phân loại B: Triệu chứng trung bình bao gồm các bệnh lý liên quan đến HIV nhưng không phải bệnh xác định AIDS:
-   - Viêm âm đạo dai dẳng.
-   - Zona thần kinh nhiều lần hoặc lan tỏa.
-   - Tăng sản bạch cầu miệng.
-   - Viêm cổ tử cung do HPV kéo dài.
+  - Viêm âm đạo dai dẳng.
+  - Zona thần kinh nhiều lần hoặc lan tỏa.
+  - Tăng sản bạch cầu miệng.
+  - Viêm cổ tử cung do HPV kéo dài.
 - Phân loại C: Xuất hiện bệnh xác định AIDS:
-   - Viêm phổi do Pneumocystis jirovecii.
-   - Lao phổi hoặc ngoài phổi.
-   - Toxoplasma não.
-   - Ung thư Kaposi.
-   - Nhiễm trùng nấm thực quản.
-   - U lympho nguyên phát hệ thần kinh trung ương.
+  - Viêm phổi do Pneumocystis jirovecii.
+  - Lao phổi hoặc ngoài phổi.
+  - Toxoplasma não.
+  - Ung thư Kaposi.
+  - Nhiễm trùng nấm thực quản.
+  - U lympho nguyên phát hệ thần kinh trung ương.
 
 Chẩn đoán AIDS khi bệnh nhân nằm ở giai đoạn C bất kỳ, hoặc CD4 < 200 kèm bệnh lý liên quan.
 
-| Phân loại lâm sàng | CD4 > 500     | CD4: 200–499     | CD4 < 200     |
-| ------------------ | ------------- | ---------------- | ------------- |
-| A (nhẹ)            | A1            | A2               | A3            |
-| B (trung bình)     | B1            | B2               | B3            |
-| C (nặng - AIDS)    | C1            | C2               | C3            |
+| Phân loại lâm sàng | CD4 > 500 | CD4: 200–499 | CD4 < 200 |
+| ------------------ | --------- | ------------ | --------- |
+| A (nhẹ)            | A1        | A2           | A3        |
+| B (trung bình)     | B1        | B2           | B3        |
+| C (nặng - AIDS)    | C1        | C2           | C3        |
+
 _Tóm tắt bảng phân loại HIV theo CDC._
 
 ## Điều trị
@@ -70,6 +71,7 @@ Giảm tải lượng virus (HIV RNA) xuống dưới ngưỡng phát hiện (<2
 ### Điều trị bằng thuốc (ARV)
 
 Kháng virus ART (Antiretroviral Therapy) là điều trị chuẩn cho phụ nữ mang thai nhiễm HIV, bao gồm ít nhất 3 loại thuốc từ 3 nhóm khác nhau:
+
 - Nhóm thuốc ức chế men sao chép ngược (NRTIs) như Tenofovir, Lamivudine.
 - Nhóm thuốc ức chế men sao chép ngược không đối kháng (NNRTIs) như Efavirenz (nếu an toàn trong thai kỳ), Nevirapine.
 - Nhóm thuốc ức chế protease (PIs) như Lopinavir/ritonavir.

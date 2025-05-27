@@ -207,6 +207,7 @@ Có ít nhất 1 trong những tiêu chuẩn sau (U nguyên bào nuôi nơi rau 
 - β-hCG tăng (> 10%) sau 3 lần đo liên tiếp trong ≥2 tuần (ngày 1, 7, 14).
 - Có giải phẫu bệnh là choriocarcinoma.
 - β-hCG tồn tại sau 6 tháng theo dõi.
+
 :::
 
 ### Phân loại

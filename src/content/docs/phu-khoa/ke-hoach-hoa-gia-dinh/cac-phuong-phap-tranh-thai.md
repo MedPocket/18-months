@@ -32,7 +32,7 @@ loại (categories):
 3. Loại 3: tổng quát, sự tồn tại của nguy cơ về mặt lý thuyết là lớn hơn lợi ích tránh thai của phương pháp.
 4. Loại 4: nguy cơ khi dùng trong điều kiện đó là rõ ràng, không nên dùng phương pháp này cho người dùng cụ thể đó.
 
-Hầu hết các hướng dẫn tránh thai hiện đại đều không còn dùng các từ "chỉ định" và "chống chỉ định" khi nói về các phương pháp tránh thai. Có thể xem loại 4 gần giống như một "chống chỉ định", xem loại 3 gần giống như "chống chỉ định tương đối". 
+Hầu hết các hướng dẫn tránh thai hiện đại đều không còn dùng các từ "chỉ định" và "chống chỉ định" khi nói về các phương pháp tránh thai. Có thể xem loại 4 gần giống như một "chống chỉ định", xem loại 3 gần giống như "chống chỉ định tương đối".
 
 ### Tính kinh tế
 

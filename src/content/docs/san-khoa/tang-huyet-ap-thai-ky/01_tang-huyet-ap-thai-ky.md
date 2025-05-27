@@ -46,26 +46,27 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 1. **Tiền sản giật – sản giật:** Tăng huyết áp + Đạm niệu + Từ tuần thứ 20 của thai kỳ.
 2. **Tăng huyết áp thai kỳ:** Tăng huyết áp + Không đạm niệu + Từ tuần thứ 20 của thai kỳ và huyết áp trở về bình thường sau sinh.
 3. **Tăng huyết áp mạn:** Trước tuần thứ 20 của thai kỳ và kéo dài 12 tuần hậu sản.
-4. **Tiền sản giật ghép trên tăng huyết áp mạn:**  
-   - Tăng huyết áp mạn không đạm niệu + đạm niệu từ tuần thứ 20. 
+4. **Tiền sản giật ghép trên tăng huyết áp mạn:**
+   - Tăng huyết áp mạn không đạm niệu + đạm niệu từ tuần thứ 20.
    - Hoặc tăng huyết áp mạn có đạm niệu + dấu hiệu nặng.
 
 ## Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán tiền sản giật (ACOG Task Force 2013)]
-| Tiêu chí       | Chi tiết                                                                                                                                                                                                 |
+| Tiêu chí | Chi tiết |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Huyết áp        | - Huyết áp tâm thu ≥ 140 mmHg **HOẶC** huyết áp tâm trương ≥ 90 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ, xuất hiện sau tuần thứ 20 của thai kỳ ở phụ nữ có huyết áp bình thường trước đó.<br>- Huyết áp tâm thu ≥ 160 mmHg **HOẶC** huyết áp tâm trương ≥ 110 mmHg (xác định trong khoảng thời gian ngắn và cần điều trị hạ áp ngay). |
-| và              |                                                                                                                                                                                                             |
-| Đạm niệu        | - ≥ 300 mg/24 giờ (hoặc suy ra từ thời gian thu thập nước tiểu tương ứng).<br>- Tỷ số Protein/creatinin ≥ 0.3.<br>- Dip-Stick ≥ 1+ (chỉ dùng khi không có phương pháp định lượng khác).                                                                                     |
+| Huyết áp | - Huyết áp tâm thu ≥ 140 mmHg **HOẶC** huyết áp tâm trương ≥ 90 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ, xuất hiện sau tuần thứ 20 của thai kỳ ở phụ nữ có huyết áp bình thường trước đó.<br>- Huyết áp tâm thu ≥ 160 mmHg **HOẶC** huyết áp tâm trương ≥ 110 mmHg (xác định trong khoảng thời gian ngắn và cần điều trị hạ áp ngay). |
+| và | |
+| Đạm niệu | - ≥ 300 mg/24 giờ (hoặc suy ra từ thời gian thu thập nước tiểu tương ứng).<br>- Tỷ số Protein/creatinin ≥ 0.3.<br>- Dip-Stick ≥ 1+ (chỉ dùng khi không có phương pháp định lượng khác). |
 
 **Hoặc** trong trường hợp **không có đạm niệu**, tăng huyết áp mới xuất hiện kèm **ít nhất 1 trong các dấu hiệu sau**:
+
 - **Giảm tiểu cầu**: Tiểu cầu < 100.000 /µL.
 - **Suy thận**: Creatinin huyết thanh > 1.1 mg/dL hoặc gấp đôi nồng độ bình thường (không do bệnh lý thận khác).
 - **Suy tế bào gan**: Men gan tăng gấp 2 lần bình thường.
 - **Phù phổi**.
 - **Triệu chứng não/thị giác**: Đau đầu dữ dội, rối loạn thị giác, co giật.
-:::
+  :::
 
 ### Phân loại tiền sản giật
 
@@ -85,8 +86,8 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 
 ### Sản giật
 
-- Là biến chứng nặng có thể xảy ra **trước, trong khi chuyển dạ, hoặc 48–72 giờ sau sinh**  
-- Chẩn đoán:  
+- Là biến chứng nặng có thể xảy ra **trước, trong khi chuyển dạ, hoặc 48–72 giờ sau sinh**
+- Chẩn đoán:
   - Cơn **co giật** + **hôn mê**.
   - Xảy ra trên nền tiền sản giật.
 - Có thể có dấu hiệu tiền triệu: đau đầu, mờ mắt, sợ ánh sáng, thay đổi cảm xúc.
@@ -118,7 +119,7 @@ Biến chứng nặng của tiền sản giật/sản giật, tổn thương n�
 - Bilirubin toàn phần >12 mg/dL.
 - AST >70 IU/L.
 - Giảm Haptoglobin.
-:::
+  :::
 
 ## Biến chứng tăng huyết áp thai kỳ
 
@@ -182,14 +183,14 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 
 **Mẹ:**
 
-- THA nặng không kiểm soát. 
+- THA nặng không kiểm soát.
 - Đau đầu/thượng vị không đáp ứng.
 - Rối loạn thị giác, đột quỵ, nhồi máu cơ tim.
 - HELLP.
 - Suy thận mới khởi phát.
 - Sản giật.
 - Phù phổi.
-- Nghi ngờ rau bong non. 
+- Nghi ngờ rau bong non.
 
 **Thai:**
 
@@ -242,7 +243,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
      - Giảm ý thức.
      - Nồng độ magie huyết > 8 mg/dL.
 
-   - Nếu có dấu hiệu ngộ độc:  
+   - Nếu có dấu hiệu ngộ độc:
      - Ngừng truyền MgSO₄ ngay.
      - Truyền chậm **calcium gluconate** 10 mL 10% TM trong 10 phút để giải độc.
 
@@ -261,15 +262,15 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 
 ## Tóm tắt
 
-| Chủ đề                     | Nội dung chính                                                      |
-|----------------------------|--------------------------------------------------------------------|
-| Cơ chế bệnh sinh            | Tổn thương bánh rau, mất cân bằng yếu tố tân tạo – kháng tạo mạch.  |
-| Phân loại tăng huyết áp     | Tăng huyết áp mạn, tăng huyết áp thai kỳ, tiền sản giật, sản giật.  |
-| Chẩn đoán tiền sản giật     | Huyết áp ≥140/90 mmHg, đạm niệu ≥300 mg/24 giờ hoặc 1+ trên que nước tiểu.  |
-| Dấu hiệu nặng tiền sản giật | Huyết áp ≥160/110 mmHg, giảm tiểu cầu, suy gan/thận, triệu chứng thần kinh.  |
-| Hội chứng HELLP             | Hemolysis, tăng men gan, giảm tiểu cầu.                            |
-| Xử trí tiền sản giật        | Theo dõi, chỉ định sinh khi có dấu hiệu nặng hoặc thai đủ tuổi.    |
-| Dự phòng & điều trị sản giật| Magnesium sulfate, kiểm soát huyết áp, bảo vệ mẹ và thai.          |
+| Chủ đề                       | Nội dung chính                                                              |
+| ---------------------------- | --------------------------------------------------------------------------- |
+| Cơ chế bệnh sinh             | Tổn thương bánh rau, mất cân bằng yếu tố tân tạo – kháng tạo mạch.          |
+| Phân loại tăng huyết áp      | Tăng huyết áp mạn, tăng huyết áp thai kỳ, tiền sản giật, sản giật.          |
+| Chẩn đoán tiền sản giật      | Huyết áp ≥140/90 mmHg, đạm niệu ≥300 mg/24 giờ hoặc 1+ trên que nước tiểu.  |
+| Dấu hiệu nặng tiền sản giật  | Huyết áp ≥160/110 mmHg, giảm tiểu cầu, suy gan/thận, triệu chứng thần kinh. |
+| Hội chứng HELLP              | Hemolysis, tăng men gan, giảm tiểu cầu.                                     |
+| Xử trí tiền sản giật         | Theo dõi, chỉ định sinh khi có dấu hiệu nặng hoặc thai đủ tuổi.             |
+| Dự phòng & điều trị sản giật | Magnesium sulfate, kiểm soát huyết áp, bảo vệ mẹ và thai.                   |
 
 ## Nguồn tham khảo
 

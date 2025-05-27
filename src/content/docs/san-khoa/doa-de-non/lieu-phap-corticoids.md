@@ -3,11 +3,12 @@ title: Liệu pháp corticoids dự phòng sinh non
 description: Liệu pháp corticoids dự phòng sinh non.
 ---
 
-Corticoids như betamethasone hoặc dexamethasone kích thích biểu hiện gen tổng hợp surfactant trong các tế bào biểu mô tiểu phế quản của phổi thai nhi, giảm căng bề mặt phế nang, ngăn ngừa xẹp phổi và giảm nguy cơ hội chứng suy hô hấp (RDS) ở trẻ sinh non.  
+Corticoids như betamethasone hoặc dexamethasone kích thích biểu hiện gen tổng hợp surfactant trong các tế bào biểu mô tiểu phế quản của phổi thai nhi, giảm căng bề mặt phế nang, ngăn ngừa xẹp phổi và giảm nguy cơ hội chứng suy hô hấp (RDS) ở trẻ sinh non.
 
 ## Corticoids trong dự phòng sinh non
 
-Corticoids được chỉ định cho phụ nữ mang thai có nguy cơ sinh non trước 34 tuần, tốt nhất trong khoảng 48h trước khi sinh. 2 phác đồ thường dùng:  
+Corticoids được chỉ định cho phụ nữ mang thai có nguy cơ sinh non trước 34 tuần, tốt nhất trong khoảng 48h trước khi sinh. 2 phác đồ thường dùng:
+
 - **Betamethasone**: 12 mg tiêm bắp, 2 liều cách nhau 24 giờ.
 - **Dexamethasone**: 6 mg tiêm bắp, 4 liều cách nhau 12 giờ.
 
@@ -21,11 +22,13 @@ Corticoids được chỉ định cho phụ nữ mang thai có nguy cơ sinh non
 ## Tác dụng phụ
 
 **Với mẹ**
-- Tăng huyết áp, tăng đường huyết nhất là ở sản phụ đái tháo đường. 
+
+- Tăng huyết áp, tăng đường huyết nhất là ở sản phụ đái tháo đường.
 - Giảm miễn dịch, tăng nguy cơ nhiễm khuẩn.
 - Dùng kéo dài có thể gây loãng xương, suy tuyến thượng thận.
 
 **Với thai nhi**
+
 - 1 số nghiên cứu chỉ ra tăng nhẹ nguy cơ béo phì và rối loạn chuyển hóa khi lớn lên.
 - Liều ngắn hạn để dự phòng sinh non không liên quan đến chậm phát triển chiều cao hoặc bất thường thần kinh rõ rệt.
 - Tác động lâu dài vẫn đang được theo dõi trong các nghiên cứu dõi dài hạn.
@@ -39,8 +42,8 @@ Corticoids được chỉ định cho phụ nữ mang thai có nguy cơ sinh non
 
 ## Nguồn tham khảo
 
-- American Journal of Obstetrics and Gynecology (1995) - _Antenatal corticosteroids: a meta-analysis of clinical trials_  
-- Cochrane Database of Systematic Reviews (2006) - _Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth_  
-- BJOG (2002) - _Betamethasone versus dexamethasone for fetal lung maturation_  
-- Neonatology (2014) - _Long-term outcomes after antenatal corticosteroids_  
-- Obstetrics & Gynecology (2017) - _Single versus multiple courses of antenatal corticosteroids: maternal and neonatal outcomes_  
+- American Journal of Obstetrics and Gynecology (1995) - _Antenatal corticosteroids: a meta-analysis of clinical trials_
+- Cochrane Database of Systematic Reviews (2006) - _Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth_
+- BJOG (2002) - _Betamethasone versus dexamethasone for fetal lung maturation_
+- Neonatology (2014) - _Long-term outcomes after antenatal corticosteroids_
+- Obstetrics & Gynecology (2017) - _Single versus multiple courses of antenatal corticosteroids: maternal and neonatal outcomes_

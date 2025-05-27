@@ -199,10 +199,10 @@ Cần phân biệt thất bại điều trị với tái nhiễm. Xác định t
 Khi xác định thất bại điều trị, sử dụng phác đồ sau:
 
 - Nếu đã được điều trị theo phác đồ được quy định trong hướng dẫn thì chọn 1 trong các phác đồ sau:
-    - Ceftriaxon 500mg, tiêm bắp liều duy nhất và azithromycin 2g, uống liều duy nhất.
-    - Cefixim 800mg, uống liều duy nhất và azithromycin 2 g, uống liều duy nhất.
-    - Gentamicin 240mg, tiêm bắp liều duy nhất và azithromycin 2g, uống liều duy nhất.
-    - Spectinomycin 2g, tiêm bắp liều duy nhất (nếu không phải là nhiễm trùng hầu họng) và azithromycin 2g, uống liều duy nhất.
+  - Ceftriaxon 500mg, tiêm bắp liều duy nhất và azithromycin 2g, uống liều duy nhất.
+  - Cefixim 800mg, uống liều duy nhất và azithromycin 2 g, uống liều duy nhất.
+  - Gentamicin 240mg, tiêm bắp liều duy nhất và azithromycin 2g, uống liều duy nhất.
+  - Spectinomycin 2g, tiêm bắp liều duy nhất (nếu không phải là nhiễm trùng hầu họng) và azithromycin 2g, uống liều duy nhất.
 - Nếu đã điều trị nhưng không theo phác đồ được quy định trong hướng dẫn thì điều trị lại theo hướng dẫn.
 - Nếu thất bại điều trị và có kháng sinh đồ, điều trị lại dựa vào kết quả kháng sinh đồ.
 - Nếu nghi ngờ tái nhiễm, điều trị lại theo phác đồ và điều trị cho bạn tình.

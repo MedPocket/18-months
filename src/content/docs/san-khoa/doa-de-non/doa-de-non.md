@@ -425,7 +425,6 @@ Theo dõi:
 - Lấy vòng Pessary sau 37 tuần hoặc chuyển dạ, ối rỉ/vỡ.
 - Sử dụng Progesterone đến hết tuần 36.
 
-
 ![Lưu đồ dự phòng sinh non đơn thai Bệnh viện Từ Dũ.](../../../../assets/san-khoa/doa-de-non/luu-do-du-phong-sinh-non.png)
 _Lưu đồ dự phòng sinh non đơn thai Bệnh viện Từ Dũ._
 

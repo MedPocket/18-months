@@ -57,10 +57,10 @@ Siêu âm:
 
 :::
 
-| Mức độ | Nhẹ       | Trung bình | Nặng    |
-| ------ | --------- | ---------- | ------- |
-| AFI    | 25-30cm  | 30.1-35cm |>35cm |
-| SDP    | 8-11.9cm | 12-15.9cm | ≥16cm |
+| Mức độ | Nhẹ      | Trung bình | Nặng  |
+| ------ | -------- | ---------- | ----- |
+| AFI    | 25-30cm  | 30.1-35cm  | >35cm |
+| SDP    | 8-11.9cm | 12-15.9cm  | ≥16cm |
 
 Siêu âm hình thái thai nhi, đo chiều dài cổ tử cung.
 

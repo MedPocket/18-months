@@ -14,7 +14,7 @@ Do giai đoạn xóa mở cổ tử cung của chuyển dạ gồm 2 giai đoạ
 
 1. Chuyển dạ giai đoạn tiềm thời kéo dài: thường khó xác định, do khó biết được khởi đầu của chuyển dạ.
 2. Chuyển dạ giai đoạn hoạt động kéo dài: khi độ dài của giai đoạn hoạt động kéo dài trên 12 giờ.
-2. Chuyển dạ giai đoạn hoạt động kéo dài: khi độ dài của giai đoạn hoạt động kéo dài trên 12 giờ.
+3. Chuyển dạ giai đoạn hoạt động kéo dài: khi độ dài của giai đoạn hoạt động kéo dài trên 12 giờ.
 
 Có 3 yếu tố gây bất thường trong chuyển dạ 3P:
 

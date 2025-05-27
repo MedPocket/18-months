@@ -148,6 +148,7 @@ Ghi nhớ 2 điểm sau:
 
 - Chống chỉ định nạo kênh cổ tử cung ở phụ nữ có thai.
 - Có thể chấp nhận trì hoãn soi cổ tử cung cho đến hết 6 tuần hậu sản.
+
 :::
 
 ![Quản lý ASC-US theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-us.jpeg)

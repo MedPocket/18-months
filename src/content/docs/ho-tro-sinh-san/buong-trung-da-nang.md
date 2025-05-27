@@ -63,6 +63,7 @@ Khi siêu âm đánh giá hình ảnh buồng trứng đa nang:
 4. Thời điểm siêu âm vào ngày 3-5 ở những phụ nữ có chu kỳ kinh đều. Những phụ nữ có kinh thưa hay vô kinh có thể được siêu âm bất kỳ thời điểm nào hay vào ngày 3-5 sau khi gây ra huyết âm đạo bằng progestin.
 5. Thể tích buồng trứng được tính bằng (0.5 x chiều dài x chiều rộng x độ dày).
 6. Khi chỉ có hình ảnh buồng trứng đa nang trên siêu âm mà không có rối loạn phóng noãn hay triệu chứng cường androgen (buồng trứng đa nang "không triệu chứng") không nên được xem là có hội chứng buồng trứng đa nang cho đến khi có các biểu hiện lâm sàng khác.
+
 :::
 
 ## Các vấn đề của buồng trứng đa nang
@@ -79,11 +80,12 @@ Có 3 trong 5 tiêu chuẩn
 
 | Yếu tố nguy cơ                                           | Ngưỡng bất thường                                 |
 | -------------------------------------------------------- | ------------------------------------------------- |
-| 1. Béo phì ở bụng (đo vòng eo)                           |>80cm                                            |
-| 2. Triglycerides                                         | ≥150 mg/dL                                       |
-| 3. HDL–C                                                 |<50 mg/dL                                        |
-| 4. Huyết áp                                              | ≥130 / ≥85mmHg                                 |
+| 1. Béo phì ở bụng (đo vòng eo)                           | >80cm                                             |
+| 2. Triglycerides                                         | ≥150 mg/dL                                        |
+| 3. HDL–C                                                 | <50 mg/dL                                         |
+| 4. Huyết áp                                              | ≥130 / ≥85mmHg                                    |
 | 5. Đường huyết lúc đói và 2h sau làm test dung nạp đường | 110-126 mg/dL và/hay glucose sau 2h 140-199 mg/dL |
+
 :::
 
 ### Tăng Luteinizing Hormone (LH)

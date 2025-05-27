@@ -9,6 +9,7 @@
     "preview": "astro preview",
     "start": "astro dev",
     "format": "biome format --write .",
+    "format:md": "prettier --write '**/*.{md,mdx}'",
     "lint": "biome lint --write .",
     "check": "biome check --write ."
   },
@@ -37,6 +38,7 @@
     "@biomejs/biome": "^1.9.4",
     "@types/hast": "^3.0.4",
     "@types/html-escaper": "^3.0.4",
+    "prettier": "^3.5.3",
     "typescript": "^5.8.3"
   },
   "packageManager": "pnpm@10.11.0"

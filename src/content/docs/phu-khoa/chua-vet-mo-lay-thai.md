@@ -147,9 +147,10 @@ Hạn chế vận động và nên nằm nghỉ ngơi.
 Theo dõi β-hCG giảm >15% theo dõi mỗi tuần trong 3 tuần liên tiếp, sau đó mỗi tháng đến khi β-hCG âm tính. Nếu giảm <15% cần nhập viện tiêm MTX liều 2.
 
 Siêu âm khối thai và tăng sinh mạch mỗi tuần trong 3 tuần, sau đó siêu âm mỗi tháng đến khi kích thước túi thai không quan sát được và chỉ số tưới máu giảm:
-  - Đường kính khối thai <5-7cm đến khi không còn.
-  - Đường kính khối thai >7cm hoặc tăng cần nhập viện phối hợp thuyên tắc chọn lọc động mạch tử cung nuôi khối thai hay phẫu thuật.
-  - Nếu tăng sinh mạch nhiều cần nhập viện phối hợp thuyên tắc động mạch tử cung chọn lọc.
+
+- Đường kính khối thai <5-7cm đến khi không còn.
+- Đường kính khối thai >7cm hoặc tăng cần nhập viện phối hợp thuyên tắc chọn lọc động mạch tử cung nuôi khối thai hay phẫu thuật.
+- Nếu tăng sinh mạch nhiều cần nhập viện phối hợp thuyên tắc động mạch tử cung chọn lọc.
 
 #### Tư vấn
 

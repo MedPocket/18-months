@@ -71,6 +71,7 @@ Tái khám khi có gì lạ.
 Khám phụ khoa định kỳ.
 
 Lưu ý:
+
 - Các thuốc điều trị Herpes hiện nay không có khả năng diệt virus mà chỉ làm giảm triệu chứng bệnh và giảm thời gian bị bệnh.
 - Người bệnh có nguy cơ nhiễm HIV rất cao và nguy cơ lây nhiễm cao cho thai nhi (đặc biệt trong giai đoạn chuyển dạ).
 - Khả năng lây cho bạn tình là rất cao trong suốt cuộc đời nên tư vấn phòng lây nhiễm (an toàn tình dục, sử dụng bao cao su đúng cách và thường xuyên) là rất quan trọng.
