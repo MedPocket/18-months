@@ -84,4 +84,4 @@ _Các chu kỳ buồng trứng nối tiếp nhau._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_

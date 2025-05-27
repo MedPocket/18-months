@@ -289,4 +289,4 @@ Chỉ định phẫu thuật kèm đoạn sản, cắt ống dẫn trứng bị 
 
 ## Nguồn tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản phụ khoa_

@@ -100,5 +100,5 @@ Dự đoán và đánh giá khó khăn trước và trong lúc phẫu thuật, �
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản phụ khoa_

@@ -108,4 +108,4 @@ Hiệu quả giảm đau giữa tê ngoài màng cứng và tê tủy sống là
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_

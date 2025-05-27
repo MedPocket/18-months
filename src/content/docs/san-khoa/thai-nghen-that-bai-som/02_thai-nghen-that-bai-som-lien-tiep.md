@@ -108,4 +108,4 @@ _Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_

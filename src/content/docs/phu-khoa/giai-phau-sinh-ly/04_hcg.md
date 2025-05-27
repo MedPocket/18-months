@@ -124,5 +124,5 @@ hCG phải được kết hợp với siêu âm để chẩn đoán. Trong trư�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
 - [Early Fetal Development](https://americanpregnancy.org/healthy-pregnancy/pregnancy-health-wellness/early-fetal-development) - American Pregnancy Association.

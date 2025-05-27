@@ -325,4 +325,4 @@ Việc điều trị tùy thuộc trước tiên vào sự hiện diện hay v�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_

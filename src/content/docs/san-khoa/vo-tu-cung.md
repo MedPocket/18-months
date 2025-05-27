@@ -57,4 +57,4 @@ Trong trường hợp hội chứng vượt trở ngại nhưng tử cung chưa 
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_

@@ -172,4 +172,4 @@ Ngày nay, mong muốn tránh không mang thai và sinh ra những thai nhi có 
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_

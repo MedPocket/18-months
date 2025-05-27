@@ -109,4 +109,4 @@ Thai nhỏ hơn bình thường trong trường hợp song thai không đồng n
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_

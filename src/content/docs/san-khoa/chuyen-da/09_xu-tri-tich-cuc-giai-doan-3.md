@@ -69,4 +69,4 @@ Nội dung can thiệp tích cực giai đoạn 3 gồm:
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_

@@ -135,4 +135,4 @@ Khám lại sau 3 tháng cho tất cả các trường hợp. Nếu không thể
 
 ## Nguồn tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản phụ khoa_

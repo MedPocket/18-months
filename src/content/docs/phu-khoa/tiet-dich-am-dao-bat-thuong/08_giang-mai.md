@@ -246,4 +246,4 @@ Các chiến lược xét nghiệm, chẩn đoán và điều trị giang mai th
 
 ## Nguồn tham khảo
 
-- BỘ Y TẾ (2021) - _HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ BỆNH GIANG MAI_
+- BỘ Y TẾ (2021) - _Hướng dẫn chẩn đoán và điều trị bệnh giang mai_

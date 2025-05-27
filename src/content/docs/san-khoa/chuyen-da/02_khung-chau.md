@@ -89,4 +89,4 @@ Khung chậu dạng dẹt (platypelloid) là dạng khung chậu hiếm gặp nh
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_

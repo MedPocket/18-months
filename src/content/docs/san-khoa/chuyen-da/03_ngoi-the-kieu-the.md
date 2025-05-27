@@ -100,4 +100,4 @@ Trong ngôi chỏm và ngôi mông, tim thai nghe rõ nhất ở phía lưng tha
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_

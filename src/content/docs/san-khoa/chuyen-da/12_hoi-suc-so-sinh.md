@@ -126,4 +126,4 @@ Thoát vị cơ hoành là tình trạng làm cho trẻ sinh ra khỏe mạnh b�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_

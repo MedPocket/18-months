@@ -268,4 +268,4 @@ _Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
