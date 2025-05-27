@@ -1,6 +1,6 @@
 ---
 title: Thủy đậu trong thai kỳ
-description: Thủy đậu trong thai kỳ.
+description: Chẩn đoán, điều trị, phòng lẫy nhiễm thủy đậu trong thai kỳ.
 ---
 
 Thủy đậu (trái rạ) là bệnh truyền nhiễm cấp tính do virus varicella-zoster (VZV, họ Herpesviridae) gây ra. Sau lần nhiễm đầu, virus có thể ẩn trong hạch thần kinh và tái hoạt động sau này gây zona (giời leo).
