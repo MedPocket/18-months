@@ -251,7 +251,7 @@ Hóa trị dự phòng với Methotrexate (MTX):
 - MTX 5 ngày: MTX 0.4mmg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
 - MTX 8 ngày (MTX/FA): MTX 1mg/kg hoặc MTX 50mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0.1mg/kg tiêm bắp hoặc uống 15mg sau liều MTX 24-30h vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
 - MTX tuần: MTX 30-50mg/m² da tĩnh mạch/tuần.
-- MTX 100mg/m² da tĩnh mạch, sau đó 200mg/m² da pha trong Glucose 5% 500mL truyền tĩnh mạch trong 12h. 24h sau, Folinic acid 15mg tĩnh mạch/uống x 4 lần/12h. Lặp lại chu kỳ mỗi 18 ngày hoặc khi cần.
+- MTX 100mg/m² da tĩnh mạch, sau đó 200mg/m² da pha trong Glucose 5% 500mL truyền tĩnh mạch trong 12h. 24 giờ sau, Folinic acid 15mg tĩnh mạch/uống x 4 lần/12h. Lặp lại chu kỳ mỗi 18 ngày hoặc khi cần.
 
 hoặc Dacticin:
 
@@ -292,7 +292,7 @@ Phác đồ EMA-CO:
 - Ngày 2:
   - Etoposide 100mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
-  - Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24h.
+  - Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24 giờ.
 - Ngày 8:
   - Oncovin (Vincristin) 1mg/m² da tĩnh mạch, tối đa 2mg.
   - Cyclophosphamid 600mg/m² da truyền tĩnh mạch trong 30 phút.
@@ -344,7 +344,7 @@ Nếu kháng EMA-CO:
 - Ngày 2:
   - Etoposide 100mg/m² da tĩnh mạch trong 30 phút.
   - Dacticin 0.5mg tĩnh mạch.
-  - Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24h.
+  - Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24 giờ.
 - Ngày 8:
   - Oncovin (Vincristin) 1mg/m² da tĩnh mạch, tối đa 2mg.
   - Cyclophosphamid 600mg/m² da truyền tĩnh mạch trong 30 phút.

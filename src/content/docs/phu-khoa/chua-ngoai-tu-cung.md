@@ -56,7 +56,7 @@ Cận lâm sàng:
 - Nội soi bổ bụng là tiêu chuẩn vàng nhưng nếu thai quá nhỏ có thể bỏ sót (2-5% các trường hợp).
 - Hút/nạo sinh thiết buồng tử cung:
   - Được chỉ định khi thai không phát triển hoặc siêu âm không xác định vị trí thai.
-  - Chẩn đoán sẩy thai sớm khi hiện diện tế bào lông rau trong mô bệnh phẩm và β-hCG giảm >50% sau 12-24h.
+  - Chẩn đoán sẩy thai sớm khi hiện diện tế bào lông rau trong mô bệnh phẩm và β-hCG giảm >50% sau 12-24 giờ.
   - Nếu không thấy rau và β-hCG giữ nguyên hoặc tăng sau hút gợi ý sót rau hoặc có chửa ngoài.
 
 :::

@@ -176,7 +176,7 @@ Cần tư vấn nguy cơ thủng tử cung, tổn thương bàng quang, niệu q
 
 Kỹ thuật: Dùng Karman 1 van, đặt ống số 6 hay số 8 tại phía trên vết mổ cũ, hút nhẹ nhàng (tránh hút ngay vết mổ vì nguy cơ tổn thương vết mổ cũ vốn mỏng và rau xâm lấn nhiều), hút vừa đủ mô (mục tiêu giảm thể tích khối thai không cố gắng lấy hết toàn bộ).
 
-Khi có chảy máu trung bình/nhiều đặt bóng chèn bơm 20-30mL nước muối sinh lý có hiệu quả cầm máu. Rút bóng chèn sau 12-24h.
+Khi có chảy máu trung bình/nhiều đặt bóng chèn bơm 20-30mL nước muối sinh lý có hiệu quả cầm máu. Rút bóng chèn sau 12-24 giờ.
 
 #### Đặt foley kết hợp hút thai
 
@@ -188,9 +188,9 @@ Chỉ định thai ≤8 tuần.
 - Ống foley 14 hoặc 16.
 - Bơm 20-25mL nước cất để đẩy khối thai lên và foley ép vào vết mổ.
 - Nếu foley rơi trước 6h và chưa có dấu hiệu sẩy: đặt lại foley lần 2 và chèn 1 tampon. Nếu foley rơi sau 6h kèm dấu hiệu sảy: tiến hành hút thai.
-- Lưu foley 24h.
+- Lưu foley 24 giờ.
 - Sử dụng kháng sinh ngay sau đặt foley.
-- Sau 24h rút foley và hút thai dưới siêu âm:
+- Sau 24 giờ rút foley và hút thai dưới siêu âm:
   - Sử dụng Karman 1 van và ống hút số 6.
   - Chừa ít mô rau ở vị trí vết mổ cũ, không cố gắng hút hết hay hút sạch vì nguy cơ tổn thương tử cung gây chảy máu.
   - Thuốc co tử cung oxytocin 5 đơn vị, 2 ống tiêm bắp và Misoprostol 200mcg x 3 viên đặt trực tràng.

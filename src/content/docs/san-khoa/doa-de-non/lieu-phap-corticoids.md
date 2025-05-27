@@ -8,7 +8,7 @@ Corticoids như betamethasone hoặc dexamethasone kích thích biểu hiện ge
 ## Corticoids trong dự phòng sinh non
 
 Corticoids được chỉ định cho phụ nữ mang thai có nguy cơ sinh non trước 34 tuần, tốt nhất trong khoảng 48h trước khi sinh. 2 phác đồ thường dùng:  
-- **Betamethasone**: 12 mg tiêm bắp, 2 liều cách nhau 24h.
+- **Betamethasone**: 12 mg tiêm bắp, 2 liều cách nhau 24 giờ.
 - **Dexamethasone**: 6 mg tiêm bắp, 4 liều cách nhau 12h.
 
 ## Lợi ích

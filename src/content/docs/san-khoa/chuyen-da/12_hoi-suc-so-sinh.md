@@ -117,7 +117,7 @@ _Chuyển dạ với nước ối lần phân su._
 ![3 mức độ chăm sóc sau hồi sức](../../../../assets/san-khoa/hoi-suc-so-sinh/3-muc-do-cham-soc-sau-hoi-suc.jpeg)
 _3 mức độ chăm sóc sau hồi sức._
 
-Tất cả trẻ đã trải qua hồi sức sau sinh đều phải được theo dõi ít nhất 24h.
+Tất cả trẻ đã trải qua hồi sức sau sinh đều phải được theo dõi ít nhất 24 giờ.
 
 Sau hồi sức, dù tình trạng trẻ có khả quan lên, nhưng vẫn có thể có những biến chứng sau đó. Do đó, phải phát hiện kịp thời để xử trí các biến chứng thường gặp như giảm đường huyết, phù não, giảm calci huyết, hạ thân nhiệt, suy hô hấp thứ phát hoặc nhiễm khuẩn bội nhiễm. Cần tiếp tục ủ ấm trẻ sau hồi sức. Bảo đảm nhiệt độ thích hợp và nguồn oxy khi chuyển trẻ sang khu dưỡng nhi. Cần cho kháng sinh ít nhất là 5 ngày để ngừa nhiễm trùng.
 

@@ -30,10 +30,10 @@ Liều dùng:
 - Đo nồng độ $MgSO_4$ huyết thanh khi cần thiết và điều chỉnh giữ nồng độ $MgSO_4$ 4-7 mEg/L (5-9mg/dL; 2-3.5mmol/L).
 - Người bệnh suy thận mức độ trung bình (Creatinine 1-1.5mg/dL) hoặc thiểu niệu (< 30mL nước tiểu/h trong 4h) sau khi dùng liều tấn công cần duy trì liều thấp 1g/h.
 - Người suy thận cần định lượng $MgSO_4$ huyết thanh mỗi 4h, nếu $MgSO_4$ huyết thanh >9.6mg/dL (8 mEg/L) cần ngưng truyền và định lượng $MgSO_4$ mỗi 2h, tái dùng khi $MgSO_4$ <8.4mg/dL (7 mEq/L).
-- Khi có chỉ định $MgSO_4$ cần dùng trước, trong và duy trì tối thiểu 24h sau sinh/mổ, nếu chỉ định mổ lấy thai cần duy trì $MgSO_4$ trong lúc mổ.
+- Khi có chỉ định $MgSO_4$ cần dùng trước, trong và duy trì tối thiểu 24 giờ sau sinh/mổ, nếu chỉ định mổ lấy thai cần duy trì $MgSO_4$ trong lúc mổ.
 - Người bệnh suy thận mức độ trung bình (Creatinine 1-1.5mg/dL) hoặc thiểu niệu (< 30mL nước tiểu/h trong 4h) sau khi dùng liều tấn công cần duy trì liều thấp 1g/h.
 - Người suy thận cần định lượng $MgSO_4$ huyết thanh mỗi 4h, nếu $MgSO_4$ huyết thanh >9.6mg/dL (8 mEg/L) cần ngưng truyền và định lượng $MgSO_4$ mỗi 2h, tái dùng khi $MgSO_4$ <8.4mg/dL (7 mEq/L).
-- Khi có chỉ định $MgSO_4$ cần dùng trước, trong và duy trì tối thiểu 24h sau sinh/mổ, nếu chỉ định mổ lấy thai cần duy trì $MgSO_4$ trong lúc mổ.
+- Khi có chỉ định $MgSO_4$ cần dùng trước, trong và duy trì tối thiểu 24 giờ sau sinh/mổ, nếu chỉ định mổ lấy thai cần duy trì $MgSO_4$ trong lúc mổ.
 - Nguy cơ băng huyết sau sinh, giảm dao động nội tại tim thai.
 - Xử trí ngộ độc $MgSO_4$:
   - Ngừng truyền $MgSO_4$.
@@ -88,8 +88,8 @@ Thuốc lợi tiểu và thuốc ức chế men chuyển không được dùng �
 
 Thuốc lợi tiểu được dùng trong trường hợp tiền sản giật rất nặng với thiểu niệu/vô niệu/suy thận/phù phổi cấp, để cứu mẹ.
 
-Sử dụng thuốc lợi tiểu được đặt ra trong trường hợp thiểu niệu hoặc vô niệu (nước tiểu 24h <800mL, đặc biệt trong trường hợp nước tiểu 24h <400mL), đe dọa phù phổi cấp, phù não, v.v.
-Sử dụng thuốc lợi tiểu được đặt ra trong trường hợp thiểu niệu hoặc vô niệu (nước tiểu 24h <800mL, đặc biệt trong trường hợp nước tiểu 24h <400mL), đe dọa phù phổi cấp, phù não, v.v.
+Sử dụng thuốc lợi tiểu được đặt ra trong trường hợp thiểu niệu hoặc vô niệu (nước tiểu 24 giờ <800mL, đặc biệt trong trường hợp nước tiểu 24 giờ <400mL), đe dọa phù phổi cấp, phù não, v.v.
+Sử dụng thuốc lợi tiểu được đặt ra trong trường hợp thiểu niệu hoặc vô niệu (nước tiểu 24 giờ <800mL, đặc biệt trong trường hợp nước tiểu 24 giờ <400mL), đe dọa phù phổi cấp, phù não, v.v.
 
 Liều và cách dùng: Furosemide 20mg x 8 ống, tiêm tĩnh mạch chậm.
 

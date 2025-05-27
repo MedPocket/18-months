@@ -307,7 +307,7 @@ Theo dõi:
 
 - Theo dõi mạch, huyết áp mẹ sau dùng thuốc mỗi 15 phút trong 1h đầu và sau đó mỗi 4h liều kế tiếp. Mạch mẹ không quá 120 nhịp/phút, huyết áp ổn định, không đánh trống ngực, run cơ, khó thở, choáng váng.
 - Theo dõi lượng nước tiểu (thiểu niệu là dấu hiệu ngộc độc).
-- Xét nghiệm ure, điện giải, Hct mỗi 24h. Đo đường huyết mỗi 4h.
+- Xét nghiệm ure, điện giải, Hct mỗi 24 giờ. Đo đường huyết mỗi 4h.
 - Theo dõi tim thai - cơn co trên monitor trong 1h liều đầu và mỗi 6h trong liều duy trì.
 
 Thời gian điều trị:
@@ -332,7 +332,7 @@ Chỉ định: Chỉ thực hiện duy nhất 1 đợt corticosteroids cho thai 
 
 Liều dùng 1 trong 2 phương pháp sau:
 
-- Betamethasone (12mg) tiêm bắp, 2 liều, cách 24h
+- Betamethasone (12mg) tiêm bắp, 2 liều, cách 24 giờ
 - Dexamethasone (6mg) tiêm bắp, 4 liều, cách 12h.
 
 Corticosteroids liệu pháp có khả năng gây tác hại cho hệ thần kinh thai nhi khi bị lạm dụng.
@@ -341,7 +341,7 @@ Corticosteroids liệu pháp có khả năng gây tác hại cho hệ thần kin
 
 _Magnesium sulfate có vai trò bảo vệ thần kinh cho thai rất non, dưới 32 tuần._
 
-Chỉ định: Thai 24 tuần đến 31 tuần 6 ngày có nguy cơ sinh non trong 24h (cả trường hợp vỡ ối), đơn thai hoặc đa thai.
+Chỉ định: Thai 24 tuần đến 31 tuần 6 ngày có nguy cơ sinh non trong 24 giờ (cả trường hợp vỡ ối), đơn thai hoặc đa thai.
 
 - Thường quy cho thai 28 tuần đến 31 tuần 6 ngày.
 - Cân nhắc thai từ 24 tuần đến 27 tuần 6 ngày.

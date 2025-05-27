@@ -260,7 +260,7 @@ Không sử dụng các trường hợp có bệnh lý động máu bẩm sinh h
 
 Liều dùng Tranexamic 250mg hoặc 500mg, 1 viên x 3 lần/ngày đến khi ngưng xuất huyết. Tối đa 750-2000mg/ngày hoặc 250-500mg/ngày tiêm bắp hoặc tiêm tĩnh mạch.
 
-Nếu xuất huyết trong hay sau phẫu thuật 500-100mg/lần tiêm tĩnh mạch hoặc 500-2500mg pha trong 50mL Glucose 5% hay dung dịch điện giải, truyền nhỏ giọt tĩnh mạch 24h.
+Nếu xuất huyết trong hay sau phẫu thuật 500-100mg/lần tiêm tĩnh mạch hoặc 500-2500mg pha trong 50mL Glucose 5% hay dung dịch điện giải, truyền nhỏ giọt tĩnh mạch 24 giờ.
 
 Tác dụng phụ thống kinh, nôn ói, buồn nôn.
 

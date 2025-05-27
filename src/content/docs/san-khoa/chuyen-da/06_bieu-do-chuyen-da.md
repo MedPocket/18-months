@@ -7,8 +7,8 @@ Hậu quả của chuyển dạ kéo dài rất nặng nề. Hầu hết các bi
 
 ## Chuyển dạ kéo dài
 
-Chuyển dạ kéo dài được hiểu là chuyển dạ kéo dài trên 24h. Chuyển dạ giai đoạn hoạt động trên 12h là kéo dài.
-Chuyển dạ kéo dài được hiểu là chuyển dạ kéo dài trên 24h. Chuyển dạ giai đoạn hoạt động trên 12h là kéo dài.
+Chuyển dạ kéo dài được hiểu là chuyển dạ kéo dài trên 24 giờ. Chuyển dạ giai đoạn hoạt động trên 12h là kéo dài.
+Chuyển dạ kéo dài được hiểu là chuyển dạ kéo dài trên 24 giờ. Chuyển dạ giai đoạn hoạt động trên 12h là kéo dài.
 
 Do giai đoạn xóa mở cổ tử cung của chuyển dạ gồm 2 giai đoạn liên tiếp, nên có thể phân biệt:
 

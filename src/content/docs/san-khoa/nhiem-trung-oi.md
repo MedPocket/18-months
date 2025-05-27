@@ -83,7 +83,7 @@ Khởi phát chuyển dạ hoặc can thiệp để rút ngắn thời gian chuy
 
 Mổ lấy thai khi có chỉ định. Mổ lấy thai làm tăng nguy cơ nhiễm trùng vết thường, viêm nội mạc tử cung, huyết khối mạch máu…
 
-Duy trì kháng sinh sau sinh/sau mô đến khi hết sốt ít nhất 24h.
+Duy trì kháng sinh sau sinh/sau mô đến khi hết sốt ít nhất 24 giờ.
 
 Xác định nhiễm trùng lan rộng bao gồm nhiễm trùng vùng chậu, nhiễm trùng huyết, nhiễm trùng toàn thân… Khi có nhiễm trùng lan rộng cần điều trị tích cực theo mức độ nhiễm trùng.
 
@@ -93,7 +93,7 @@ Xác định nhiễm trùng lan rộng bao gồm nhiễm trùng vùng chậu, nh
 
 Chọn 1 trong các kháng sinh sau đây:
 
-- Ampicillin 2g tiêm tĩnh mạch mỗi 6h + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24h (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h), hoặc
+- Ampicillin 2g tiêm tĩnh mạch mỗi 6h + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24 giờ (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h), hoặc
 - Ampicillin - sulbactam 3g tiêm tĩnh mạch mỗi 6h, hoặc
 - Cefoxitin 2g tiêm tĩnh mạch mỗi 8h, hoặc
 - Cefotetan 2g tiêm tĩnh mạch mỗi 12h, hoặc
@@ -101,11 +101,11 @@ Chọn 1 trong các kháng sinh sau đây:
 
 #### Lựa chọn 2: Nếu dị ứng nhẹ với Penicillin
 
-Cefazolin 2g tiêm tĩnh mạch mỗi 8h + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24h (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h).
+Cefazolin 2g tiêm tĩnh mạch mỗi 8h + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24 giờ (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h).
 
 #### Lựa chọn 3: Nếu dị ứng nặng với Penicillin
 
-Clindamycin 900mg truyền tĩnh mạch 8h hoặc Vancomycin 1g truyền tĩnh mạch mỗi 12h và Gentamicin truyền tĩnh mạch 5mg/kg truyền tĩnh mạch mỗi 24h.
+Clindamycin 900mg truyền tĩnh mạch 8h hoặc Vancomycin 1g truyền tĩnh mạch mỗi 12h và Gentamicin truyền tĩnh mạch 5mg/kg truyền tĩnh mạch mỗi 24 giờ.
 
 :::caution[Lưu ý]
 Vancomycin chỉ nên sử dụng trong trường hợp:
@@ -118,7 +118,7 @@ Vancomycin chỉ nên sử dụng trong trường hợp:
 
 Piperacillin - Tazobactam 4.5g truyền tĩnh mạch mỗi 8h, hoặc
 
-Ertapenem 1g truyền tĩnh mạch mỗi 24h.
+Ertapenem 1g truyền tĩnh mạch mỗi 24 giờ.
 
 ### Hạ sốt
 
