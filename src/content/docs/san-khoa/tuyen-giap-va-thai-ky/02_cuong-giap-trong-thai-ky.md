@@ -29,7 +29,7 @@ Các triệu chứng lâm sàng định hướng chẩn đoán:
 - Biểu hiện ở mắt: lồi mắt, nhìn chằm chằm, phù quanh mắt (trong Graves).
 - Giảm cân, không tăng cân dù ăn nhiều.
 - Không chịu được nóng, vã mồ hôi.
-- Cận lâm sàng: **Tăng FT₄, giảm TSH**
+- Cận lâm sàng: **Tăng FT₄, giảm TSH**.
 
 :::
 

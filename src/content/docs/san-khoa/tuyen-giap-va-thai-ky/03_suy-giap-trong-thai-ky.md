@@ -21,7 +21,7 @@ description: Ảnh hưởng của suy giáp đến mẹ và thai nhi, bao gồm 
 
 ## Chẩn đoán và điều trị
 
-- **Chẩn đoán:** Tăng TSH, giảm FT₄, có thể giảm FT₃
+- **Chẩn đoán:** Tăng TSH, giảm FT₄, có thể giảm FT₃.
 - **Điều trị:**
   - **Levothyroxine**, chỉnh liều dựa trên TSH (mỗi 4 tuần).
   - Mục tiêu giữ TSH trong ngưỡng thấp bình thường theo từng tam cá nguyệt.
