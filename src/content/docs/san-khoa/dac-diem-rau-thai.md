@@ -55,10 +55,10 @@ Rau hoàn chỉnh vào khoảng tháng thứ 4, có dạng hình đĩa, đườn
 
 Là cấu trúc ngăn cách máu mẹ và máu thai, gồm:
 
-- Lá nuôi hợp bào
-- Lá nuôi tế bào
-- Trung mô đệm gai rau
-- Nội mô mao mạch thai
+- Lá nuôi hợp bào.
+- Lá nuôi tế bào.
+- Trung mô đệm gai rau.
+- Nội mô mao mạch thai.
 
 Chức năng:
 

@@ -1,131 +1,138 @@
 ---
 title: Nhiễm trùng ối
-description: Nhiễm trùng ối.
+description: Nhiễm trùng ối (Intra-amniotic Infection - IAI) là tình trạng nhiễm trùng xảy ra ở một hoặc nhiều thành phần trong buồng ối như dịch ối, thai nhi, dây rốn, bánh rau hoặc màng đệm. Đây là tình trạng nghiêm trọng cần được chẩn đoán sớm và xử trí kịp thời để giảm nguy cơ biến chứng cho mẹ và thai.
 ---
 
-Nhiễm trùng ối (intra-amniotic infection - IAI) được xác định khi nhiễm trùng 1 trong các yếu tố dịch ối, thai, dây rốn, bánh rau, màng ối, màng đệm.
+Nhiễm trùng ối (intra-amniotic infection - IAI) được xác định khi có nhiễm trùng tại một hoặc nhiều cấu trúc trong buồng ối bao gồm: dịch ối, thai nhi, dây rốn, bánh rau, màng ối hoặc màng đệm.
 
 ## Nguyên nhân và yếu tố nguy cơ
 
 ### Nguyên nhân
 
-Do vi khuẩn gồm vi khuẩn kị khí và hiếu khí, thường do hệ vi khuẩn âm đạo và đường sinh dục dưới đi lên buồng ối.
+Nhiễm trùng ối thường do vi khuẩn xâm nhập ngược dòng từ đường sinh dục dưới, bao gồm cả vi khuẩn kị khí và hiếu khí. Ngoài ra, một số trường hợp có thể do vi khuẩn từ đường máu đi đến buồng ối (ít gặp), điển hình như _Listeria monocytogenes_.
 
-Có thể gặp khi làm thủ thuật xâm lấn (chọc ối hoặc sinh thiết gai rau, nội soi bào thai) hoặc nhiễm trùng thứ phát từ đường máu (thường là Listeria monocytogenes).
+Nhiễm trùng cũng có thể xảy ra sau các thủ thuật xâm lấn như:
 
-Các tác nhân thường gặp: Ureaplasma urealyticum, vi khuẩn Gram âm, Mycoplasma hominis, Bacteroids bivius, Gardnerella vaginalis, Liên cần khuẩn nhóm B (GBS),..
+- Chọc ối.
+- Sinh thiết gai nhau.
+- Nội soi bào thai.
+
+**Các tác nhân thường gặp:**
+
+- _Ureaplasma urealyticum_.
+- _Mycoplasma hominis_.
+- _Gardnerella vaginalis_.
+- _Bacteroides bivius_.
+- Vi khuẩn Gram âm.
+- Liên cầu khuẩn nhóm B (_Group B Streptococcus – GBS_).
 
 ### Yếu tố nguy cơ
 
-Ối vỡ non.
-
-Chuyển dạ kéo dài, ối vỡ lâu, con so.
-
-Các trường hợp ối vỡ được thăm khám âm đạo nhiều lần, nhiễm phân su trong nước ối.
-
-Hở eo tử cung.
-
-Nhiễm khuẩn đường sinh dục như GBS, bệnh lây qua đường tình dục.
-
-Hút thuốc lá, rượu.
-
-Tiền căn nhiễm trùng ối.
+- Ối vỡ non.
+- Chuyển dạ kéo dài, đặc biệt ở con so.
+- Ối vỡ lâu.
+- Thăm khám âm đạo nhiều lần sau khi vỡ ối.
+- Nhiễm phân su trong nước ối.
+- Hở eo tử cung.
+- Nhiễm khuẩn đường sinh dục (GBS, bệnh lây truyền qua đường tình dục).
+- Hút thuốc lá, uống rượu.
+- Tiền căn nhiễm trùng ối.
 
 ## Chẩn đoán
 
 :::note[Chẩn đoán nhiễm trùng ối]
 |Chẩn đoán|Đặc điểm|
 |---|---|
-|Mẹ sốt đơn thuần|Nhiệt độ mẹ sốt từ 38°C - 38.9°C không có nguyên nhân khác, tình trạng sốt có thể kéo dài hoặc không.|
-|Nghi ngờ nhiễm trùng ối|Sốt không có nguyên nhân cụ thể, kết hợp 1 hoặc các yếu tố sau:<br>1. Tim thai cơ bản >160 lần/phút trong ≥10 phút.<br>2. Bạch cầu máu mẹ >15 000/mm³, không điều trị corticosteroids, công thức bạch cầu chuyển trái (trường hợp dùng corticosteroids liều cao có thể xét nghiệm lại 48 giờ sau liều cuối cùng).<br>3. Dịch đục chảy ra từ lỗ ngoài cổ tử cung qua đặt mỏ vịt.|
-|Xác định nhiễm trùng ối|Dấu hiệu nghi ngờ nhiễm trùng ối kết hợp với 1 hoặc nhiều kết quả xét nghiệm dịch ối sau:<br>1. Nhuộm Gram dịch ối có vi khuẩn.<br>2. Giảm nồng độ glucose ≤14 mg/dL.<br>3. Tăng bạch cầu dịch ối > 30 tế bào/mm³ (không lẫn máu).|
+|**Mẹ sốt đơn thuần**|Nhiệt độ mẹ ≥38.0°C nhưng <39.0°C, không có nguyên nhân khác, tình trạng sốt có thể thoáng qua hoặc kéo dài.|
+|**Nghi ngờ nhiễm trùng ối**|Sốt không rõ nguyên nhân kết hợp với một hoặc nhiều dấu hiệu sau:<br>1. Tim thai cơ bản >160 lần/phút kéo dài ≥10 phút.<br>2. Bạch cầu máu mẹ >15.000/mm³, không dùng corticosteroids hoặc xét nghiệm sau 48 giờ nếu có.<br>3. Dịch âm đạo đục chảy qua cổ tử cung khi đặt mỏ vịt.|
+|**Xác định nhiễm trùng ối**|Có dấu hiệu nghi ngờ + ít nhất một trong các xét nghiệm dịch ối sau:<br>1. Nhuộm Gram thấy vi khuẩn.<br>2. Nồng độ glucose ≤14 mg/dL.<br>3. Bạch cầu dịch ối >30 tế bào/mm³ (không lẫn máu).|
 :::
 
 :::caution[Lưu ý]
-Chẩn đoán nhiễm trùng ối chủ yếu dựa vào lâm sàng để xử trí tích cực, tiêu chuẩn chọc ối/giải phẫu bệnh chỉ có giá trị nghiên cứu và không giúp cải thiện xử trí trong và sau sinh.
+Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu bệnh có vai trò nghiên cứu, không giúp cải thiện kết cục sản khoa nếu dùng làm tiêu chuẩn xử trí.
 :::
 
 ## Biến chứng
 
 ### Mẹ
 
-Làm tăng nguy cơ chuyển dạ bất thường, tỷ lệ mổ lấy thai, đờ tử cung, băng huyết sau sinh, cần truyền máu.
-
-Nhiễm trùng tại chỗ, tăng nguy cơ viêm nội mạc tử cung, nhiễm khuẩn vùng chậu, nhiễm trùng vết mổ.
-
-Nhiễm khuẩn huyết, rối loạn đông máu, hội chứng suy hô hấp, tử vong.
+- Tăng nguy cơ chuyển dạ bất thường.
+- Tăng tỷ lệ mổ lấy thai.
+- Đờ tử cung.
+- Băng huyết sau sinh.
+- Nhiễm trùng tại chỗ (viêm nội mạc tử cung, viêm vùng chậu, nhiễm trùng vết mổ).
+- Nhiễm khuẩn huyết, rối loạn đông máu, hội chứng suy hô hấp cấp.
+- Tử vong (hiếm nhưng nghiêm trọng).
 
 ### Con
 
-Cấp: Viêm phổi sơ sinh, viêm màng não, nhiễm khuẩn huyết, tử vong.
+**Giai đoạn cấp tính:**
 
-Lâu dài: Loạn sản phế quản phổi, bại não.
+- Viêm phổi sơ sinh.
+- Viêm màng não.
+- Nhiễm khuẩn huyết.
+- Tử vong sơ sinh.
+
+**Di chứng lâu dài:**
+
+- Loạn sản phế quản phổi (BPD).
+- Bại não.
 
 :::caution[Lưu ý]
-Cần thảo luận với bác sĩ sơ sinh đánh giá và điều trị trẻ sơ sinh khi chẩn đoán nghi ngờ/xác định nhiễm trùng ối.
+Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác sĩ sơ sinh để đánh giá và xử trí sau sinh phù hợp.
 :::
 
 ## Xử trí
 
 ### Nguyên tắc
 
-Sử dụng kháng sinh khi mẹ chẩn đoán số đơn thuần trong chuyển dạ và không tìm được nguyên nhân khác.
-
-Điều trị kháng sinh khi có nghi ngờ hoặc xác định nhiễm trùng ối với 3 nguyên tắc:
-
-- Kháng sinh phổ rộng và sử dụng đường tĩnh mạch chỉ định ngay khi có chẩn đoán.
-- Kháng sinh phải có hoạt tính với GBS và E. Coli.
-- Điều trị ngay trong quá trình mang thai không chờ sau sinh.
-
-Chấm dứt thai kỳ khi có chẩn đoán nghi ngờ hoặc xác định nhiễm trùng ối, ưu tiên sinh đường âm đạo.
-
-Khởi phát chuyển dạ hoặc can thiệp để rút ngắn thời gian chuyển dạ (từ lúc nghi ngờ hoặc xác định đến lúc sinh không kéo dài quá 12 giờ).
-
-Mổ lấy thai khi có chỉ định. Mổ lấy thai làm tăng nguy cơ nhiễm trùng vết thường, viêm nội mạc tử cung, huyết khối mạch máu…
-
-Duy trì kháng sinh sau sinh/sau mô đến khi hết sốt ít nhất 24 giờ.
-
-Xác định nhiễm trùng lan rộng bao gồm nhiễm trùng vùng chậu, nhiễm trùng huyết, nhiễm trùng toàn thân… Khi có nhiễm trùng lan rộng cần điều trị tích cực theo mức độ nhiễm trùng.
+- Bắt đầu kháng sinh khi mẹ sốt đơn thuần trong chuyển dạ không rõ nguyên nhân.
+- Điều trị kháng sinh ngay khi nghi ngờ hoặc xác định nhiễm trùng ối.
+- Dùng kháng sinh phổ rộng đường tĩnh mạch.
+- Kháng sinh phải có hiệu lực trên GBS và _E. coli_.
+- Không trì hoãn điều trị đến sau sinh.
+- Chấm dứt thai kỳ ngay sau khi nghi ngờ hoặc chẩn đoán xác định, ưu tiên sinh ngả âm đạo.
+- Khởi phát hoặc đẩy nhanh chuyển dạ, không để quá 12 giờ từ chẩn đoán đến sinh.
+- Mổ lấy thai khi có chỉ định sản khoa, cân nhắc nguy cơ phụ.
+- Duy trì kháng sinh sau sinh/mổ đến khi hết sốt ít nhất 24 giờ.
+- Điều trị tích cực nếu nhiễm trùng lan rộng.
 
 ### Kháng sinh
 
-#### Lựa chọn 1
+#### Lựa chọn 1 (ưu tiên)
 
-Chọn 1 trong các kháng sinh sau đây:
+- Ampicillin 2 g tiêm TM mỗi 6h + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ. Nếu mổ lấy thai, thêm Clindamycin 900mg mỗi 8 giờ hoặc Metronidazole 500 mg truyền TM mỗi 8 giờ.
+- Hoặc Ampicillin–sulbactam 3 g tiêm TM mỗi 6h.
+- Hoặc Cefoxitin 2 g tiêm TM mỗi 8 giờ.
+- Hoặc Cefotetan 2 g tiêm TM mỗi 12h.
+- Hoặc Mezlocillin 4 g tiêm TM mỗi 6h.
 
-- Ampicillin 2g tiêm tĩnh mạch mỗi 6h + Gentamicin 5 mg/kg truyền tĩnh mạch mỗi 24 giờ (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8 giờ), hoặc
-- Ampicillin - sulbactam 3g tiêm tĩnh mạch mỗi 6h, hoặc
-- Cefoxitin 2g tiêm tĩnh mạch mỗi 8 giờ, hoặc
-- Cefotetan 2g tiêm tĩnh mạch mỗi 12 giờ, hoặc
-- Mezlocillin 4g tiêm tĩnh mạch mỗi 6h.
+#### Lựa chọn 2: Dị ứng nhẹ với Penicillin
 
-#### Lựa chọn 2: Nếu dị ứng nhẹ với Penicillin
+- Cefazolin 2 g tiêm TM mỗi 8 giờ + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ. Nếu mổ lấy thai, thêm Clindamycin hoặc Metronidazole như trên.
 
-Cefazolin 2g tiêm tĩnh mạch mỗi 8 giờ + Gentamicin 5 mg/kg truyền tĩnh mạch mỗi 24 giờ (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8 giờ).
+#### Lựa chọn 3: Dị ứng nặng với Penicillin
 
-#### Lựa chọn 3: Nếu dị ứng nặng với Penicillin
-
-Clindamycin 900mg truyền tĩnh mạch 8 giờ hoặc Vancomycin 1g truyền tĩnh mạch mỗi 12 giờ và Gentamicin truyền tĩnh mạch 5 mg/kg truyền tĩnh mạch mỗi 24 giờ.
+- Clindamycin 900mg truyền TM mỗi 8 giờ.
+- Hoặc Vancomycin 1g truyền TM mỗi 12h + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
 
 :::caution[Lưu ý]
-Vancomycin chỉ nên sử dụng trong trường hợp:
+Vancomycin chỉ dùng khi:
 
-- Người bệnh nhiễm GBS và đề kháng với Clindamycin hoặc Erythromycin, hoặc
-- Người bệnh nhiễm GBS và không có kết quả kháng sinh đồ.
+- GBS đề kháng Clindamycin hoặc Erythromycin.
+- GBS nhưng chưa có kết quả kháng sinh đồ.  
+  :::
 
-:::
+#### Nếu không đáp ứng
 
-#### Nếu không đáp ứng với kháng sinh trên
-
-Piperacillin - Tazobactam 4.5g truyền tĩnh mạch mỗi 8 giờ, hoặc
-
-Ertapenem 1g truyền tĩnh mạch mỗi 24 giờ.
+- Piperacillin–Tazobactam 4.5g truyền TM mỗi 8 giờ.
+- Hoặc Ertapenem 1g truyền TM mỗi 24 giờ.
 
 ### Hạ sốt
 
-Dùng theo chỉ định
+- Dùng thuốc hạ sốt theo chỉ định để giảm khó chịu cho mẹ và nguy cơ cho thai.
 
-![Lưu đồ xử trí nhiễm trùng ối](../../../assets/san-khoa/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)
+![Lưu đồ xử trí nhiễm trùng ối](../../../assets/san-khoa/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)  
 _Lưu đồ xử trí nhiễm trùng ối._
 
 ## Nguồn tham khảo
