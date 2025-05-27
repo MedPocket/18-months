@@ -200,7 +200,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 
 ## Sản giật
 
-### Nguyên tắc:
+### Nguyên tắc
 
 - Phòng ngừa thiếu oxy, chấn thương.
 - Điều trị tăng huyết áp, phòng co giật.
