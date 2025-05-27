@@ -12,7 +12,6 @@ export const sidebar = starlightSidebarTopics([
     icon: "open-book",
     items: [
       "san-khoa",
-      "san-khoa/bo-sung-acid-folic-sat-canxi-dha-magie",
       "san-khoa/dac-diem-rau-thai",
       {
         label: "Xuất huyết tử cung trong thai kỳ",

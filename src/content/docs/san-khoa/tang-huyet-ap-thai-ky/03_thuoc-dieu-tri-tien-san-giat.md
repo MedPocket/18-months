@@ -115,7 +115,7 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 ### Lợi tiểu & Ức chế men chuyển
 
 - **Furosemide:** chỉ dùng khi thiểu/vô niệu, phù phổi cấp; liều 20 mg TM chậm.  
-- **Không dùng lợi tiểu** thông thường hoặc ức chế men chuyển do giảm tưới máu tử cung và nguy cơ dị tật.
+- **Không dùng lợi tiểu** thông thường do giảm tưới máu tử cung và **ức chế men chuyển** do nguy cơ dị tật.
 - Dùng khi thiểu niệu (< 800 mL/24 h, đặc biệt < 400 mL).  
 - Liều: 20 mg TM chậm, có thể lặp lại theo đáp ứng.
 

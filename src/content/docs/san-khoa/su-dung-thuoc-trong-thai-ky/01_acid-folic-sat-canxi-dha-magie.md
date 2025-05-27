@@ -121,6 +121,8 @@ Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong c�
 | Tam cá nguyệt II (14–27 tuần)| 400–800 µg/ngày     | 200–300 mg/ngày    | 30–60 mg/ngày             | 1.000 mg/ngày             | Tùy triệu chứng               |
 | Tam cá nguyệt III (28–40 tuần)| 400–800 µg/ngày    | 200–300 mg/ngày    | 30–60 mg/ngày             | 1.000–1.200 mg/ngày       | 200 mg/ngày nếu có triệu chứng |
 
+_Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai._
+
 :::caution[Lưu ý]
 - Bắt đầu bổ sung acid folic ít nhất 1 tháng trước khi mang thai; nếu có tiền sử dị tật ống thần kinh, có thể cần 4–5 mg/ngày theo chỉ định bác sĩ.  
 - Magie chỉ cần bổ sung nếu có triệu chứng như chuột rút, mất ngủ, lo âu.
@@ -133,6 +135,8 @@ Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong c�
 | Sáng   | Acid folic, DHA       | Uống acid folic sau ăn sáng; DHA sau bữa sáng hoặc trưa, tránh uống khi đói. |
 | Trưa   | Canxi                 | Uống canxi sau bữa trưa, có thể chia 2 lần/ngày (≤600 mg/lần để hấp thu tốt). |
 | Tối    | Sắt                   | Uống sắt trước bữa tối hoặc trước khi ngủ, nên kèm vitamin C (cam, ổi) để tăng hấp thu. |
+
+_Hướng dẫn sử dụng acid folic, DHA, sắt, canxi, magie._
 
 :::caution[Lưu ý]
 - **Không** uống sắt và canxi cùng lúc (canxi ức chế hấp thu sắt).  
