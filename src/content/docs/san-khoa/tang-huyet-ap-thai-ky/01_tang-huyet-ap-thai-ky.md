@@ -17,7 +17,7 @@ Giả thuyết được chấp nhận nhiều nhất hiện nay là làm tổ b�
 
 bánh rau đóng vai trò then chốt trong sự phát triển và thoái lui của tiền sản giật. bánh rau, không phải thai, là điều kiện cần trong sự phát triển tiền sản giật.
 
-![Sơ đồ cơ chế](../../../assets/san-khoa/tang-huyet-ap-thai-ky/so-do-co-che.png)
+![Sơ đồ cơ chế](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/so-do-co-che.png)
 
 Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai trò then chốt trong cơ chế bệnh sinh của tiền sản giật. Do đó khảo sát sFlt-1 và PlGF có thể giúp tiên đoán tiền sản giật. Khoảng 5 tuần trước khi tiền sản giật xuất hiện trên lâm sàng, tỷ số sFlt-1/PlGF tăng cao ở nhóm sau này bị tiền sản giật.
 
@@ -59,7 +59,7 @@ Tăng huyết áp trong thai kỳ phân thành 4 loại:
 ## Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán tiền sản giật]
-![Tiêu chuẩn chẩn đoán tiền sản giật](../../../assets/san-khoa/tang-huyet-ap-thai-ky/tieu-chuan-chan-doan-tien-san-giat.png)
+![Tiêu chuẩn chẩn đoán tiền sản giật](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/tieu-chuan-chan-doan-tien-san-giat.png)
 :::
 
 ### Phân loại tiền sản giật
@@ -140,45 +140,6 @@ Về phía con:
 - Đẻ non.
 - Thai chậm tăng trưởng trong buồng tử cung.
 
-## Tầm soát và dự phòng tiền sản giật trong 3 tháng đầu
-
-### Tầm soát
-
-Tầm soát từ tuổi thai 11 tuần đến 13 tuần 6 ngày kết hợp với các yếu tố nguy cơ về nội khoa, miễn dịch, tiền căn sản khoa, sinh hóa, sinh lý, siêu âm Doppler động mạch tử cung.
-
-- Dấu ấn sinh hóa sử dụng gồm PAPP-A, PIGF.
-- Xác định đặc tính của mẹ:
-  - Tuổi mẹ.
-  - Chiều cao, cân nặng, BMI.
-  - Chủng tộc.
-  - Các thức thụ thai: Tự nhiên, dùng thuốc kích trứng, thụ tinh trong ống nghiệm.
-  - Hút thuốc lá.
-  - Mẹ thai phụ có tăng huyết áp.
-- Tiền căn nội khoa:
-  - Tăng huyết áp mạn.
-  - Đái tháo đường type 1 hoặc type 2.
-  - Lupus ban đỏ hệ thống.
-  - Hội chứng kháng phospholipid.
-- Tiền căn sản khoa: Con so (không có lần nào sinh con tuổi thai >24 tuần), hoặc con rạ (ít nhất 1 lần sinh con tuổi thai >24 tuần).
-- Tiền căn sản khoa: Con so (không có lần nào sinh con tuổi thai >24 tuần), hoặc con rạ (ít nhất 1 lần sinh con tuổi thai >24 tuần).
-- Đo các chỉ số thai: Tuổi thai 11 tuần-13 tuần 6 ngày (chiều dài đầu mông từ 45-84mm).
-- Đo huyết áp động mạch trung bình: $HADMTT= \frac{HAtthu + 2 x HAttr}{3}$
-- Tính nguy cơ tiền sản giật [dùng thuật toán của FMF (The Fetal Medicine Foundation)](https://fetalmedicine.org/research/assess/preeclampsia/first-trimester). Nguy cơ cao khi thuật toán xác định >1/100.
-- Tính nguy cơ tiền sản giật [dùng thuật toán của FMF (The Fetal Medicine Foundation)](https://fetalmedicine.org/research/assess/preeclampsia/first-trimester). Nguy cơ cao khi thuật toán xác định >1/100.
-
-### Dự phòng
-
-![Bảng đánh giá nguy cơ](../../../assets/san-khoa/tang-huyet-ap-thai-ky/du-phong-tien-san-giat.png)
-
-WHO khuyến cáo dùng Aspirin liều thấp 81-162mg/ngày, từ 1-2 viên (hàm lượng 81mg) hoặc 1.5 gói hàm lượng 100mg (uống trước khi đi ngủ, sau ăn 15-30 phút) để dự phòng tiền sản giật ở các phụ nữ có nguy cơ cao. Bắt đầu điều trị khi tính nguy cơ theo FMF >1/100.
-WHO khuyến cáo dùng Aspirin liều thấp 81-162mg/ngày, từ 1-2 viên (hàm lượng 81mg) hoặc 1.5 gói hàm lượng 100mg (uống trước khi đi ngủ, sau ăn 15-30 phút) để dự phòng tiền sản giật ở các phụ nữ có nguy cơ cao. Bắt đầu điều trị khi tính nguy cơ theo FMF >1/100.
-
-Theo ACOG, Aspirin nên được khởi động từ 12-28 tuần (tốt nhất trước 16 tuần) cho đến khi sinh.
-
-Thời điểm ngừng sử dụng Aspirin là thai 36 tuần.
-
-![Lưu đồ tầm soát tiền sản giật 3 tháng đầu](../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
-
 ## Xử trí tiền sản giật và sản giật
 
 Theo dõi huyết áp đến 72h sau sinh cho tất cả các trường hợp và theo dõi huyết áp 7-10 ngày sau sinh tại địa phương.
@@ -212,7 +173,7 @@ Nếu chưa có chỉ định chấm dứt thai kỳ có thể theo dõi nội t
 - Chế độ ăn hợp lý: nhiều đạm, rau xanh, trái cây.
 - Tư vấn các dấu hiệu nặng như nhìn mờ, đau đầu nhiều, đau thượng vị…
 
-![Lưu đồ xử trí tiền sản giật không dấu hiệu nặng](../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-khong-co-dau-hieu-nang.png)
+![Lưu đồ xử trí tiền sản giật không dấu hiệu nặng](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-khong-co-dau-hieu-nang.png)
 
 ### Tiền sản giật có dấu hiệu nặng
 
@@ -258,7 +219,7 @@ Nếu tình trạng mẹ - thai ổn định, trong vòng 48h chấm dứt thai 
 - Thiểu ối (AFI <5cm) (siêu âm 2 lần cách nhau 24h).
 - Bắt đầu suy thận hoặc suy thận nặng thêm.
 
-![Lưu đồ xử trí tiền sản giật khi có dấu hiệu nặng](../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
+![Lưu đồ xử trí tiền sản giật khi có dấu hiệu nặng](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
 
 :::caution[Lưu ý]
 
@@ -401,7 +362,7 @@ Liều dùng:
 :::caution[Lưu ý]
 
 - Luôn chú ý đến dấu ngộ độc $MgSO_4$ khi dùng. Trong điều trị, phải duy trì nồng độ ion $Mg^{2+}$ đạt ngưỡng điều trị, nhưng thấp hơn ngưỡng ngộ độc.
-  ![Nồng độ MgSO4](../../../assets/san-khoa/tang-huyet-ap-thai-ky/nong-do-mgso4.png)
+  ![Nồng độ MgSO4](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/nong-do-mgso4.png)
 - Theo dõi phản xạ gân xương, nhịp thở (> 16 lần/phút), nước tiểu (> 100mL/4h). Khi nồng độ $Mg^{2+}$ bắt đầu vượt ngưỡng điều trị, dấu hiệu mất phản xạ gân xương bánh chè sẽ là dấu hiệu sớm nhất. Vì thế, cần theo dõi phản xạ gân xương bánh chè như chỉ báo là nồng độ $Mg^{2+}$ đã vượt ngưỡng điều trị và cần phải ngưng ngay việc dùng thêm $MgSO_4$.
 - Đo nồng độ $MgSO_4$ huyết thanh khi cần thiết và điều chỉnh giữ nồng độ $MgSO_4$ 4-7 mEg/L (5-9mg/dL; 2-3.5mmol/L).
 - Người bệnh suy thận mức độ trung bình (Creatinine 1-1.5mg/dL) hoặc thiểu niệu (< 30mL nước tiểu/h trong 4h) sau khi dùng liều tấn công cần duy trì liều thấp 1g/h.
@@ -451,7 +412,7 @@ Thuốc được sử dụng trong thai kỳ:
 
 Nếu tăng huyết áp nặng dùng đường tiêm tĩnh mạch sau chuyển sang dạng uống.
 
-![Thuốc chống tăng huyết áp](../../../assets/san-khoa/tang-huyet-ap-thai-ky/thuoc-chong-tang-huyet-ap.png)
+![Thuốc chống tăng huyết áp](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/thuoc-chong-tang-huyet-ap.png)
 
 #### Lợi tiểu và ức chế men chuyển
 
@@ -536,7 +497,7 @@ Tác dụng phụ: Đau đầu, chóng mặt, buồn nôn, nôn, đau dạ dày.
 
 Chống chỉ định: của Nicardipine gồm cơn đau thắt ngực không ổn định hoặc cấp tính, sốc tim, hẹp van động mạch chủ giai đoạn muộn, thận trọng khi dùng trong 2 tam cá nguyệt đầu, có thể dùng trong tam cá nguyệt 3.
 
-![Dùng thuốc tăng huyết áp](../../../assets/san-khoa/tang-huyet-ap-thai-ky/dung-thuoc-tang-huyet-ap.png)
+![Dùng thuốc tăng huyết áp](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/dung-thuoc-tang-huyet-ap.png)
 
 ## Theo dõi sau sinh
 

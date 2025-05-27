@@ -52,7 +52,13 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "san-khoa/tang-huyet-ap-thai-ky",
+      {
+        label: "Tăng huyết áp thai kỳ",
+        autogenerate: {
+          directory: "san-khoa/tang-huyet-ap-thai-ky",
+        },
+        collapsed: true,
+      },
       "san-khoa/tuyen-giap-va-thai-ky",
       "san-khoa/thieu-mau",
       "san-khoa/sga-iugr",
