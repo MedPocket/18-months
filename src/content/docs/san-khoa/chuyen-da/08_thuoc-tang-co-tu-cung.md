@@ -12,8 +12,8 @@ Có nhiều yếu tố ảnh hưởng đến cơ co trong chuyển dạ:
 
 |                   | 0 điểm       | 1 điểm     | 2 điểm                        | 3 điểm         |
 | ----------------- | ------------ | ---------- | ----------------------------- | -------------- |
-| Độ mở cổ tử cung  | đóng         | 1-2cm      | 3-4cm                         | ≥ 5cm           |
-| Độ xóa cổ tử cung | 0-30%        | 40-50%     | 60-70%                        | ≥ 80%           |
+| Độ mở cổ tử cung  | đóng         | 1-2cm      | 3-4cm                         | ≥ 5cm          |
+| Độ xóa cổ tử cung | 0-30%        | 40-50%     | 60-70%                        | ≥ 80%          |
 | Mật độ cổ tử cung | chắc         | trung bình | mềm                           |                |
 | Hướng cổ tử cung  | sau          | trung gian | trước                         |                |
 | Độ lọt ngôi thai  | di động (-3) | chúc (-2)  | ghim chặt hoặc lọt cao (-1/0) | đã lọt (+1,+2) |

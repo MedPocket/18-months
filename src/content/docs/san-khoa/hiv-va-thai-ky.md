@@ -9,21 +9,21 @@ HIV (Human Immunodeficiency Virus) là bệnh lây truyền chủ yếu qua đư
 
 ### Xét nghiệm sàng lọc và xác định
 
-- Xét nghiệm HIV nên thực hiện ngay từ lần khám thai đầu tiên.  
-- Nếu âm tính ban đầu và có yếu tố nguy cơ (quan hệ tình dục không an toàn, tiêm chích ma túy, bạn tình nhiễm HIV), lặp lại xét nghiệm vào tuần 24–28.  
-- **Xét nghiệm sàng lọc**: ELISA hoặc test nhanh HIV.  
-- **Xác nhận**: Western blot hoặc PCR để phát hiện HIV RNA.  
-- **Đo tải lượng virus** (HIV RNA) để đánh giá mức độ hoạt động của virus.  
-- **Đo CD4** nhằm đánh giá tổn thương miễn dịch.  
-- **Xét nghiệm trẻ sơ sinh**: PCR HIV RNA ngay sau sinh vì kháng thể mẹ truyền qua có thể dương tính giả.  
+- Xét nghiệm HIV nên thực hiện ngay từ lần khám thai đầu tiên.
+- Nếu âm tính ban đầu và có yếu tố nguy cơ (quan hệ tình dục không an toàn, tiêm chích ma túy, bạn tình nhiễm HIV), lặp lại xét nghiệm vào tuần 24–28.
+- **Xét nghiệm sàng lọc**: ELISA hoặc test nhanh HIV.
+- **Xác nhận**: Western blot hoặc PCR để phát hiện HIV RNA.
+- **Đo tải lượng virus** (HIV RNA) để đánh giá mức độ hoạt động của virus.
+- **Đo CD4** nhằm đánh giá tổn thương miễn dịch.
+- **Xét nghiệm trẻ sơ sinh**: PCR HIV RNA ngay sau sinh vì kháng thể mẹ truyền qua có thể dương tính giả.
 
 ### Phân loại lâm sàng theo CDC
 
-| Phân loại | Triệu chứng chính                                                         | CD4 > 500 | CD4 200–499 | CD4 < 200 |
-|-----------|----------------------------------------------------------------------------|-----------|-------------|-----------|
-| **A**     | Không triệu chứng hoặc chỉ hạch to toàn thân kéo dài                       | A1        | A2          | A3        |
+| Phân loại | Triệu chứng chính                                                                                                   | CD4 > 500 | CD4 200–499 | CD4 < 200 |
+| --------- | ------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --------- |
+| **A**     | Không triệu chứng hoặc chỉ hạch to toàn thân kéo dài                                                                | A1        | A2          | A3        |
 | **B**     | Biểu hiện liên quan HIV nhưng không AIDS định nghĩa (zona tái phát, viêm âm đạo dai dẳng, tăng sản bạch cầu miệng…) | B1        | B2          | B3        |
-| **C**     | Bệnh xác định AIDS (Pneumocystis jirovecii, lao, toxoplasma não, Kaposi…) | C1        | C2          | C3        |
+| **C**     | Bệnh xác định AIDS (Pneumocystis jirovecii, lao, toxoplasma não, Kaposi…)                                           | C1        | C2          | C3        |
 
 _Phân loại lâm sàng theo CDC._
 
@@ -35,56 +35,58 @@ _Phân loại lâm sàng theo CDC._
 
 ### Mục tiêu điều trị
 
-- **CD4 ≥ 500 cells/mm³** nếu có thể, để giảm nguy cơ nhiễm trùng cơ hội.  
+- **CD4 ≥ 500 cells/mm³** nếu có thể, để giảm nguy cơ nhiễm trùng cơ hội.
 - **Tải lượng HIV RNA < ngưỡng phát hiện** (< 20–50 copies/mL) trước khi sinh.
 
 ### Thuốc ARV chính
 
 #### 1. Nhóm ức chế men sao chép ngược nucleoside (NRTIs)
 
-- **Tenofovir disoproxil fumarate (TDF) 300 mg x 1 lần/ngày**.  
-  - **Cơ chế**: Ức chế men sao chép ngược, ngăn chặn sao chép RNA HIV thành DNA.  
-  - **Tác dụng phụ**: Có thể gây suy giảm chức năng thận, giảm khối lượng xương.  
+- **Tenofovir disoproxil fumarate (TDF) 300 mg x 1 lần/ngày**.
+
+  - **Cơ chế**: Ức chế men sao chép ngược, ngăn chặn sao chép RNA HIV thành DNA.
+  - **Tác dụng phụ**: Có thể gây suy giảm chức năng thận, giảm khối lượng xương.
   - **Theo dõi**: Creatinine huyết thanh, độ lọc cầu thận, đặc biệt mỗi 3 tháng.
 
-- **Lamivudine (3TC) 150 mg x 2 lần/ngày** hoặc **300 mg x 1 lần/ngày**.  
-  - **Cơ chế**: Tương tự TDF, kết hợp đồng thời tăng hiệu quả ức chế virus.  
-  - **Tác dụng phụ**: Buồn nôn, tiêu chảy, đau đầu nhẹ.  
+- **Lamivudine (3TC) 150 mg x 2 lần/ngày** hoặc **300 mg x 1 lần/ngày**.
+  - **Cơ chế**: Tương tự TDF, kết hợp đồng thời tăng hiệu quả ức chế virus.
+  - **Tác dụng phụ**: Buồn nôn, tiêu chảy, đau đầu nhẹ.
   - **Theo dõi**: Có thể sinh hóa máu định kỳ, thường không cần theo dõi đặc biệt.
 
 #### 2. Nhóm ức chế men sao chép ngược không nucleoside (NNRTIs) / ức chế integrase (INSTIs)
 
-- **Efavirenz (EFV) 600 mg x 1 lần/ngày**.  
-  - **Cơ chế**: Gắn không cạnh tranh vào men sao chép ngược, ức chế hoạt động.  
-  - **Lưu ý**: Không dùng trong quý I do nguy cơ quái thai thần kinh.  
-  - **Tác dụng phụ**: Mất ngủ, chóng mặt, thay đổi tâm thần.  
+- **Efavirenz (EFV) 600 mg x 1 lần/ngày**.
+
+  - **Cơ chế**: Gắn không cạnh tranh vào men sao chép ngược, ức chế hoạt động.
+  - **Lưu ý**: Không dùng trong quý I do nguy cơ quái thai thần kinh.
+  - **Tác dụng phụ**: Mất ngủ, chóng mặt, thay đổi tâm thần.
   - **Theo dõi**: Giám sát các triệu chứng thần kinh – tâm thần.
 
-- **Dolutegravir (DTG) 50 mg x 1 lần/ngày**.  
-  - **Cơ chế**: Ức chế integrase, ngăn chặn việc chèn DNA virus vào DNA chủ.  
-  - **Ưu điểm**: Giảm tải lượng rất nhanh, ít tương tác thuốc.  
-  - **Lưu ý**: Cẩn trọng trong quý I do nguy cơ hiếm gặp dị tật thần kinh.  
+- **Dolutegravir (DTG) 50 mg x 1 lần/ngày**.
+  - **Cơ chế**: Ức chế integrase, ngăn chặn việc chèn DNA virus vào DNA chủ.
+  - **Ưu điểm**: Giảm tải lượng rất nhanh, ít tương tác thuốc.
+  - **Lưu ý**: Cẩn trọng trong quý I do nguy cơ hiếm gặp dị tật thần kinh.
   - **Theo dõi**: Giám sát phản ứng dị ứng, chức năng gan.
 
 #### 3. Nhóm ức chế protease (PIs)
 
-- **Lopinavir/ritonavir (LPV/r): Lopinavir 200 mg + Ritonavir 50 mg x 2 lần/ngày**.  
-  - **Cơ chế**: Ức chế protease HIV, ngăn giai đoạn đóng gói virus.  
-  - **Tác dụng phụ**: Buồn nôn, tiêu chảy, tăng lipid máu, men gan tăng.  
+- **Lopinavir/ritonavir (LPV/r): Lopinavir 200 mg + Ritonavir 50 mg x 2 lần/ngày**.
+  - **Cơ chế**: Ức chế protease HIV, ngăn giai đoạn đóng gói virus.
+  - **Tác dụng phụ**: Buồn nôn, tiêu chảy, tăng lipid máu, men gan tăng.
   - **Theo dõi**: Chức năng gan, lipid máu mỗi 3–6 tháng.
 
 #### 4. Thuốc bổ trợ
 
-- **Zidovudine (AZT) 300 mg x 2 lần/ngày**.  
-  - **Cơ chế**: NRTI thế hệ đầu, giảm tải lượng virus, đặc biệt trong chuyển dạ.  
-  - **Tác dụng phụ**: Thiếu máu, buồn nôn, nhức đầu.  
+- **Zidovudine (AZT) 300 mg x 2 lần/ngày**.
+  - **Cơ chế**: NRTI thế hệ đầu, giảm tải lượng virus, đặc biệt trong chuyển dạ.
+  - **Tác dụng phụ**: Thiếu máu, buồn nôn, nhức đầu.
   - **Theo dõi**: Công thức máu (hồng cầu, bạch cầu) mỗi tháng.
 
 ### Phác đồ gợi ý
 
-- **Chuẩn**: TDF + 3TC + EFV (bắt đầu sau quý I).  
-- **Thay thế**: TDF + 3TC + DTG (từ quý II, ưu tiên khi không dùng EFV).  
-- **Khi tải lượng cao (> 1.000 copies/mL) hoặc thất bại phác đồ**: Thêm hoặc chuyển sang LPV/r.  
+- **Chuẩn**: TDF + 3TC + EFV (bắt đầu sau quý I).
+- **Thay thế**: TDF + 3TC + DTG (từ quý II, ưu tiên khi không dùng EFV).
+- **Khi tải lượng cao (> 1.000 copies/mL) hoặc thất bại phác đồ**: Thêm hoặc chuyển sang LPV/r.
 
 ### Điều trị cho trẻ sơ sinh
 
@@ -96,13 +98,13 @@ _Phân loại lâm sàng theo CDC._
 
 ### Cho con bú
 
-- **Không khuyến cáo bú mẹ** nếu có cách nuôi thay thế an toàn.  
+- **Không khuyến cáo bú mẹ** nếu có cách nuôi thay thế an toàn.
 - Nếu buộc phải cho bú mẹ: mẹ tiếp tục ART đầy đủ, trẻ nhận AZT dự phòng.
 
 ## Theo dõi
 
-- **Tải lượng HIV RNA** và **CD4**: mỗi 4–8 tuần trong quý I, mỗi 12 tuần sau đó.  
-- **Chức năng thận, gan, lipid máu**: theo dõi định kỳ do tác dụng phụ ARV.  
+- **Tải lượng HIV RNA** và **CD4**: mỗi 4–8 tuần trong quý I, mỗi 12 tuần sau đó.
+- **Chức năng thận, gan, lipid máu**: theo dõi định kỳ do tác dụng phụ ARV.
 - **Tuân thủ điều trị**: tư vấn, hỗ trợ tâm lý, đánh giá tác dụng phụ để đảm bảo mẹ dùng thuốc đều đặn.
 
 ## Phơi nhiễm HIV
@@ -122,6 +124,7 @@ _Phân loại lâm sàng theo CDC._
 _Thời gian phát hiện HIV qua xét nghiệm._
 
 Kết quả được coi là đáng tin cậy nếu:
+
 - **Xét nghiệm combo Ag/Ab sau 4–6 tuần âm tính** → độ chính xác cao.
 - **Xét nghiệm kháng thể sau 12 tuần (3 tháng)** âm tính → gần như chắc chắn không nhiễm HIV.
 
@@ -132,6 +135,6 @@ Kết quả được coi là đáng tin cậy nếu:
 
 ## Nguồn tham khảo
 
-- World Health Organization (WHO) (2021) – _Consolidated Guidelines on HIV Prevention, Testing, Treatment, Service Delivery and Monitoring_  
-- Centers for Disease Control and Prevention (CDC) (2022) – _HIV and Pregnancy_  
-- American College of Obstetricians and Gynecologists (ACOG) (2020) – _Committee Opinion No. 762: Human Immunodeficiency Virus (HIV) and Pregnancy_  
+- World Health Organization (WHO) (2021) – _Consolidated Guidelines on HIV Prevention, Testing, Treatment, Service Delivery and Monitoring_
+- Centers for Disease Control and Prevention (CDC) (2022) – _HIV and Pregnancy_
+- American College of Obstetricians and Gynecologists (ACOG) (2020) – _Committee Opinion No. 762: Human Immunodeficiency Virus (HIV) and Pregnancy_

@@ -9,22 +9,22 @@ SGA (Small-for-Gestational Age) và IUGR (Fetal Growth Restriction/Intra-Uterine
 
 ### Phân loại thai kích thước nhỏ
 
-1. Thai nhỏ nhưng không bệnh lý (constitutionally small).  
-2. Thai IUGR không do rau thai (do bất thường nhiễm sắc thể, chuyển hóa hoặc nhiễm trùng bào thai).  
-3. Thai IUGR do bất thường trao đổi qua rau (thoái hóa nhau, suy chức năng rau).  
+1. Thai nhỏ nhưng không bệnh lý (constitutionally small).
+2. Thai IUGR không do rau thai (do bất thường nhiễm sắc thể, chuyển hóa hoặc nhiễm trùng bào thai).
+3. Thai IUGR do bất thường trao đổi qua rau (thoái hóa nhau, suy chức năng rau).
 
 ### Yếu tố ảnh hưởng đến tăng trưởng thai
 
-- Yếu tố mẹ: dinh dưỡng kém, thiếu máu nặng, nghiện thuốc lá, béo phì hoặc suy dinh dưỡng trước khi mang thai.  
-- Bệnh lý mẹ: tiền sản giật, hội chứng kháng phospholipid, lupus hệ thống, đái tháo đường, tăng huyết áp mạn tính, bệnh thận.  
-- Yếu tố rau thai: suy chức năng nhau, bất thường mạch máu rau, nhau tiền đạo hoặc nhau bong non.  
-- Yếu tố bào thai: bất thường nhiễm sắc thể, hội chứng truyền máu song thai, nhiễm trùng CMV, Rubella.  
+- Yếu tố mẹ: dinh dưỡng kém, thiếu máu nặng, nghiện thuốc lá, béo phì hoặc suy dinh dưỡng trước khi mang thai.
+- Bệnh lý mẹ: tiền sản giật, hội chứng kháng phospholipid, lupus hệ thống, đái tháo đường, tăng huyết áp mạn tính, bệnh thận.
+- Yếu tố rau thai: suy chức năng nhau, bất thường mạch máu rau, nhau tiền đạo hoặc nhau bong non.
+- Yếu tố bào thai: bất thường nhiễm sắc thể, hội chứng truyền máu song thai, nhiễm trùng CMV, Rubella.
 
 ### Định nghĩa và ngưỡng
 
-- **SGA**: trọng lượng thai ước tính (EFW) hoặc chu vi bụng (AC) < bách phân vị thứ 10 cho tuổi thai.  
-- **Severe SGA**: EFW hoặc AC < bách phân vị thứ 3.  
-- **IUGR**: SGA kèm bằng chứng tăng trưởng chậm (bất thường Doppler động học hoặc sinh đồ sinh vật lý).  
+- **SGA**: trọng lượng thai ước tính (EFW) hoặc chu vi bụng (AC) < bách phân vị thứ 10 cho tuổi thai.
+- **Severe SGA**: EFW hoặc AC < bách phân vị thứ 3.
+- **IUGR**: SGA kèm bằng chứng tăng trưởng chậm (bất thường Doppler động học hoặc sinh đồ sinh vật lý).
 
 > **Lưu ý**: Khi EFW hoặc AC đạt ngưỡng bách phân vị thứ 10, cần theo dõi tích cực; dưới bách phân vị thứ 3, cân nhắc chỉ định can thiệp sớm.
 
@@ -32,45 +32,45 @@ SGA (Small-for-Gestational Age) và IUGR (Fetal Growth Restriction/Intra-Uterine
 
 ### Loại trừ nguyên nhân cấu trúc – di truyền – nhiễm trùng
 
-- Xét nghiệm di truyền: NIPT, chọc ối hoặc sinh thiết gai rau để đánh giá lệch bội hoặc đột biến gen.  
-- Siêu âm đánh giá hình thái: đo độ mờ da gáy, soft markers, dị tật bẩm sinh.  
-- Xét nghiệm nhiễm trùng: Rubella IgM/IgG, CMV IgM, toxoplasma.  
+- Xét nghiệm di truyền: NIPT, chọc ối hoặc sinh thiết gai rau để đánh giá lệch bội hoặc đột biến gen.
+- Siêu âm đánh giá hình thái: đo độ mờ da gáy, soft markers, dị tật bẩm sinh.
+- Xét nghiệm nhiễm trùng: Rubella IgM/IgG, CMV IgM, toxoplasma.
 
 ### Theo dõi tăng trưởng
 
-- **Siêu âm định kỳ**: đánh giá EFW, AC, chiều dài xương đùi (FL), chu vi đầu (HC).  
-- **Doppler velocimetry**: động mạch tử cung, động mạch rốn, động mạch não giữa, để phát hiện tăng sức cản hoặc giảm lưu lượng (đặc biệt ở IUGR sớm).  
-- **Sinh đồ sinh vật lý** (NST + đánh giá cử động thai, trương lực, thở, nước ối).  
-- **Thử nghiệm không căng thẳng (NST)** và **thử nghiệm căng thẳng co tử cung (CST)** nếu cần.  
+- **Siêu âm định kỳ**: đánh giá EFW, AC, chiều dài xương đùi (FL), chu vi đầu (HC).
+- **Doppler velocimetry**: động mạch tử cung, động mạch rốn, động mạch não giữa, để phát hiện tăng sức cản hoặc giảm lưu lượng (đặc biệt ở IUGR sớm).
+- **Sinh đồ sinh vật lý** (NST + đánh giá cử động thai, trương lực, thở, nước ối).
+- **Thử nghiệm không căng thẳng (NST)** và **thử nghiệm căng thẳng co tử cung (CST)** nếu cần.
 
 ### Chỉ định corticosteroids
 
-- Mở rộng chỉ định đến 36 tuần vô kinh ở SGA/FGR, không chỉ dừng ở 34 tuần, để giảm nguy cơ suy hô hấp và xuất huyết não ở trẻ.  
+- Mở rộng chỉ định đến 36 tuần vô kinh ở SGA/FGR, không chỉ dừng ở 34 tuần, để giảm nguy cơ suy hô hấp và xuất huyết não ở trẻ.
 
 ### Thời điểm kết thúc thai kỳ
 
-- Cân bằng giữa lợi ích của nong nuôi dưỡng trong tử cung và nguy cơ thiếu oxy, toan máu thai nhi.  
-- **IUGR sớm (< 32 tuần)**: ưu tiên sinh khi có bằng chứng Doppler bất lợi tiến triển (đảo dòng trong thì tâm trương, tăng chỉ số phản xạ kháng lực).  
-- **IUGR muộn (> 32 tuần)**: ưu tiên dựa trên NST/CST và mức độ thiểu ối.  
-- Sinh ngả âm đạo nếu đánh giá thai khả năng chịu đựng tốt và không có chỉ định sản khoa khác; ngược lại, cân nhắc mổ lấy thai.  
+- Cân bằng giữa lợi ích của nong nuôi dưỡng trong tử cung và nguy cơ thiếu oxy, toan máu thai nhi.
+- **IUGR sớm (< 32 tuần)**: ưu tiên sinh khi có bằng chứng Doppler bất lợi tiến triển (đảo dòng trong thì tâm trương, tăng chỉ số phản xạ kháng lực).
+- **IUGR muộn (> 32 tuần)**: ưu tiên dựa trên NST/CST và mức độ thiểu ối.
+- Sinh ngả âm đạo nếu đánh giá thai khả năng chịu đựng tốt và không có chỉ định sản khoa khác; ngược lại, cân nhắc mổ lấy thai.
 
 ## Biến chứng chu sinh và sơ sinh
 
-- **Hạ đường huyết**: do dự trữ glycogen thấp; cần sữa công thức bổ sung ngay.  
-- **Hạ thân nhiệt**: thiếu mỡ dưới da, cần giữ ấm tích cực.  
-- **Rối loạn hô hấp**: ngưng thở, suy hô hấp, cần theo dõi tích cực.  
-- **Đa hồng cầu**: đáp ứng thiếu oxy mạn tính; nguy cơ tăng độ nhớt máu.  
-- **Vàng da nặng**: do tăng huyết tán và chức năng gan chưa hoàn chỉnh.  
-- **Nhiễm trùng**: hệ miễn dịch kém phát triển; cần kháng sinh theo dõi.  
+- **Hạ đường huyết**: do dự trữ glycogen thấp; cần sữa công thức bổ sung ngay.
+- **Hạ thân nhiệt**: thiếu mỡ dưới da, cần giữ ấm tích cực.
+- **Rối loạn hô hấp**: ngưng thở, suy hô hấp, cần theo dõi tích cực.
+- **Đa hồng cầu**: đáp ứng thiếu oxy mạn tính; nguy cơ tăng độ nhớt máu.
+- **Vàng da nặng**: do tăng huyết tán và chức năng gan chưa hoàn chỉnh.
+- **Nhiễm trùng**: hệ miễn dịch kém phát triển; cần kháng sinh theo dõi.
 - **Di chứng thần kinh dài hạn**: chậm phát triển vận động và nhận thức.
 
 ## IUGR trong song thai
 
-- SGA trong song thai không đồng nghĩa IUGR; nhiều trường hợp chỉ là thai nhỏ theo constitution.  
-- **IUGR thực sự**: hội chứng truyền máu (TTTS) hoặc bất thường tử cung–rau không đủ cho hai thai.  
-- Đánh giá riêng biệt từng thai bằng Doppler mạch rốn, NST và sinh đồ sinh vật lý.  
+- SGA trong song thai không đồng nghĩa IUGR; nhiều trường hợp chỉ là thai nhỏ theo constitution.
+- **IUGR thực sự**: hội chứng truyền máu (TTTS) hoặc bất thường tử cung–rau không đủ cho hai thai.
+- Đánh giá riêng biệt từng thai bằng Doppler mạch rốn, NST và sinh đồ sinh vật lý.
 
-## Bảng chiều dài và cân nặng thai nhi theo WHO  
+## Bảng chiều dài và cân nặng thai nhi theo WHO
 
 | Tuần thai | Chiều dài (cm) | Cân nặng (gram) |
 | --------- | -------------- | --------------- |
@@ -110,11 +110,10 @@ SGA (Small-for-Gestational Age) và IUGR (Fetal Growth Restriction/Intra-Uterine
 | 41        | \~51.5         | \~3550          |
 | 42        | \~51.7         | \~3700          |
 
-
 _Bảng chiều dài & cân nặng thai nhi theo tuần (WHO tham khảo)._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_  
-- ACOG Practice Bulletin No. 134 (2013) – _Intrauterine Growth Restriction_  
-- WHO (2014) – _WHO Recommendations for Prevention and Treatment of Pre-eclampsia and Eclampsia_  
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- ACOG Practice Bulletin No. 134 (2013) – _Intrauterine Growth Restriction_
+- WHO (2014) – _WHO Recommendations for Prevention and Treatment of Pre-eclampsia and Eclampsia_
