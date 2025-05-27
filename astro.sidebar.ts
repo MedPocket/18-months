@@ -36,7 +36,6 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "san-khoa/nhiem-trung-oi",
       {
         label: "Dọa đẻ non",
         autogenerate: {
@@ -81,8 +80,13 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "san-khoa/rau-bong-non",
-      "san-khoa/vo-tu-cung",
+      {
+        label: "Cấp cứu sản khoa",
+        autogenerate: {
+          directory: "san-khoa/cap-cuu-san-khoa",
+        },
+        collapsed: true,
+      },
       "san-khoa/viem-gan-b-va-thai-ky",
       "san-khoa/hiv-va-thai-ky",
       "san-khoa/uon-van",
