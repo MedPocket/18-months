@@ -5,7 +5,7 @@ description: Thuốc tăng co tử cung.
 
 Có nhiều yếu tố ảnh hưởng đến cơ co trong chuyển dạ:
 
-- Nồng độ 1 số chất nội tiết ở cơ thể mẹ và thai như estrogen, progesterone, oxytocin, prostaglandin làm tăng những protein gây co tử cung, cũng như làm tăng thụ thể tiếp nhận oxytocin.
+- Nồng độ một số chất nội tiết ở cơ thể mẹ và thai như estrogen, progesterone, oxytocin, prostaglandin làm tăng những protein gây co tử cung, cũng như làm tăng thụ thể tiếp nhận oxytocin.
 - Tuổi thai càng trưởng thành sự đáp ứng với thuốc tăng co càng cao.
 - Khởi phát chuyển dạ ở người con rạ dễ thành công hơn con so.
 - Sự chín mùi cổ tử cung.

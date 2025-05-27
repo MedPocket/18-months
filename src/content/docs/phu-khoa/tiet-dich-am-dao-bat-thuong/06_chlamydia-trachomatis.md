@@ -29,7 +29,7 @@ Có thể gồm tiết dịch âm đạo bất thường, tiểu khó, chảy m�
 
 Nhiễm ngoài sinh dục:
 
-- Trực tràng phần lớn không có biểu hiện lâm sàng, 1 số trường hợp có tiết dịch, đau và máu có trong phần.
+- Trực tràng phần lớn không có biểu hiện lâm sàng, một số trường hợp có tiết dịch, đau và máu có trong phần.
 - Hầu họng hiếm có triệu chứng, viêm họng, đau họng nhẹ.
 
 #### Nhiễm Chlamydia có biến chứng

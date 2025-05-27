@@ -13,7 +13,7 @@ Tuy nhiên, vô kinh có thể xảy ra khi sự phóng noãn bình thường, x
 
 ## Nguyên nhân
 
-Vô kinh có thể được phân loại dựa trên 1 số tiêu chí khác nhau, như:
+Vô kinh có thể được phân loại dựa trên một số tiêu chí khác nhau, như:
 
 - Nguyên phát hoặc thứ phát.
 
@@ -40,7 +40,7 @@ Rối loạn chức năng vùng dưới đồi có thể dẫn đến giảm s�
 | Rối loạn chức năng buồng trứng               | Các rối loạn tự miễn dịch (ví dụ, viêm buồng trứng tự miễn dịch có thể xảy ra trong nhược cơ, viêm tuyến giáp, hoặc bạch biến)<br>Hóa trị (ví dụ: các thuốc alkyl hóa liều cao)<br>Các bất thường di truyền, bao gồm bất thường về nhiễm sắc thể (ví dụ, bất sản tuyến ức bẩm sinh, Hội chứng xương thủy tinh, Hội chứng Turner [45,X], thoái hoá nang noãn nhanh tự phát)<br>Rối loạn thoái hoá tuyến sinh dục (sự phát triển buồng trứng không hoàn chỉnh, đôi khi rối loạn thứ phát do rối loạn di truyền)<br>Chiếu xạ vào vùng chậu<br>Rối loạn chuyển hóa (ví dụ: bệnh Addison, đái tháo đường, galactoza huyết)<br>Các khối u buồng trứng (ví dụ: khối u lớp hạt tế bào theca, khối u Brenner, u quái, u tuyến nang nhầy hoặc u tuyến nang huyết thanh, khối u Krukenberg, ung thư biểu mô di căn)<br>Nhiễm virus (ví dụ, quai bị) |
 | Rối loạn nội tiết khác                       | Hội chứng không nhậy cảm Androgen (nữ tính hoá tinh hoàn)<br>Nam hóa tuyến thượng thận bẩm sinh (tăng sản thượng thận bẩm sinh – ví dụ: do thiếu hụt 17-hydroxylase hoặc thiếu hụt 17,20-lyase) hoặc nam hóa tuyến thượng thận khởi phát ở người trưởng thành<br>Hội chứng Cushing<br>Nam hóa do thuốc (ví dụ: do androgen, thuốc chống trầm cảm, danazol hoặc progestin liều cao)<br>Cường giáp<br>Suy giáp<br>Béo phì (gây ra nhiều tuyến sản xuất quá nhiều estrogen)<br>Hội chứng buồng trứng đa nang<br>Lưỡng tính thực sự<br>Các khối u sản sinh androgen (thường là buồng trứng hoặc tuyến thượng thận)<br>Các khối u sản xuất estrogen hoặc các khối u sản sinh ra gonadotropin màng nuôi ở người (bệnh nguyên bào nuôi)                                                                                                         |
 
-_1 số nguyên nhân gây rối loạn rụng trứng._
+_Một số nguyên nhân gây rối loạn rụng trứng._
 
 ### Vô kinh do các bất thường đường sinh sản
 
@@ -63,7 +63,7 @@ Bất thường mắc phải về giải phẫu, chẳng hạn như sẹo nội 
 | Bất thường sinh dục bẩm sinh    | Màng trinh không thủng<br>Bệnh lưỡng tính giả<br>Vách ngăn âm đạo<br>Không có âm đạo, cổ tử cung hoặc tử cung hoặc bất sản (ví dụ, không có bộ phận Müllerian) |
 | Các bất thường tử cung mắc phải | Hội chứng Asherman<br>Hẹp cổ tử cung<br>U xơ tắc nghẽn và polyp<br>Lao nội mạc tử cung                                                                         |
 
-_1 số nguyên nhân gây vô kinh do các bất thường ở đường sinh sản._
+_Một số nguyên nhân gây vô kinh do các bất thường ở đường sinh sản._
 
 ## Đánh giá
 
@@ -131,7 +131,7 @@ Khám vú cần phải được thực hiện để kiểm tra chứng tiết s�
 
 Khám vùng chậu được thực hiện để kiểm tra mức độ phì đại của tử cung (có thể là do mang thai hoặc khối u), buồng trứng và âm vật (âm vật to). Khám khung chậu cũng giúp xác định xem có thiếu hụt estrogen hay không. Ở phụ nữ trong độ tuổi sinh sản, sự hiện diện của chất nhầy cổ tử cung với chất nhầy spinnbarkeit (chất lượng dai, giống như sợi dây) thường cho thấy đủ lượng estrogen; niêm mạc âm đạo mỏng, nhợt nhạt, không có vảy và pH >6.0 chứng tỏ thiếu hụt estrogen. Ở bé gái hoặc phụ nữ trẻ, khám có thể phát hiện các bất thường về giải phẫu của cơ quan sinh dục (ví dụ: màng trinh không lỗ, vách ngăn âm đạo, bất sản âm đạo, bất sản cổ tử cung hoặc bất sản tử cung). Màng trinh căng phồng có thể do tích kinh nguyệt âm đạo, gợi ý tắc nghẽn đường sinh dục.
 
-Khám tổng quát tập trung vào bằng chứng nam hóa, bao gồm rậm lông, hói tạm thời, mụn trứng cá, giọng trầm, tăng khối lượng cơ và khử nữ tính (giảm các đặc điểm sinh dục thứ phát bình thường trước đây, chẳng hạn như giảm kích thước vú và teo âm đạo). Nam hóa là do tuyến thượng thận hoặc buồng trứng tăng sản sinh androgen. Chứng tăng lông tóc (lông mọc quá mức ở tứ chi, đầu và lưng), phổ biến ở 1 số gia đình, được phân biệt với chứng rậm lông thực sự, được đặc trưng bởi lông quá mức ở môi trên, cằm và giữa 2 vú.
+Khám tổng quát tập trung vào bằng chứng nam hóa, bao gồm rậm lông, hói tạm thời, mụn trứng cá, giọng trầm, tăng khối lượng cơ và khử nữ tính (giảm các đặc điểm sinh dục thứ phát bình thường trước đây, chẳng hạn như giảm kích thước vú và teo âm đạo). Nam hóa là do tuyến thượng thận hoặc buồng trứng tăng sản sinh androgen. Chứng tăng lông tóc (lông mọc quá mức ở tứ chi, đầu và lưng), phổ biến ở một số gia đình, được phân biệt với chứng rậm lông thực sự, được đặc trưng bởi lông quá mức ở môi trên, cằm và giữa 2 vú.
 
 Có các mảng đen trên da do bệnh gai đen có thể là dấu hiệu của hội chứng buồng trứng đa nang (PCOS) hoặc của bệnh tiểu đường.
 
@@ -179,7 +179,7 @@ Nghiệm pháp thử nghiệm estrogen/progestin được thực hiện bằng c
 
 Tuy nhiên, ra máu có thể không xảy ra ở những bệnh nhân không có những bất thường này vì tử cung không nhạy cảm với estrogen do sử dụng thuốc tránh thai estrogen/progestin kéo dài hoặc rối loạn nội tiết hiếm gặp (hội chứng không nhạy cảm với estrogen, kháng estrogen). Do đó, thử nghiệm sử dụng estrogen và progestin có thể được lặp lại để xác nhận.
 
-Do thử nghiệm này mất nhiều tuần và kết quả có thể không chính xác, chẩn đoán 1 số rối loạn nghiêm trọng có thể bị trì hoãn đáng kể; do đó, chụp MRI não nên được xem xét thực hiện trước hoặc trong quá trình thử nghiệm nếu nghi ngờ có tổn thương khác ở tuyến yên hoặc tổn thương khác ở não.
+Do thử nghiệm này mất nhiều tuần và kết quả có thể không chính xác, chẩn đoán một số rối loạn nghiêm trọng có thể bị trì hoãn đáng kể; do đó, chụp MRI não nên được xem xét thực hiện trước hoặc trong quá trình thử nghiệm nếu nghi ngờ có tổn thương khác ở tuyến yên hoặc tổn thương khác ở não.
 
 ### Nghiệm pháp thử nghiệm honnon hướng sinh dục
 

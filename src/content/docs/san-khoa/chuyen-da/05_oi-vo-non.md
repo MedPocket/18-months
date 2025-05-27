@@ -38,7 +38,7 @@ Không được thực hiện khám âm đạo bằng tay vì điều này khôn
 Dựa trên cơ sở là dịch tiết của âm đạo và nước tiểu có tính acid, trong khi nước ối có tính kiềm. Giữ mẫu giấy nitrazine bằnkẹp Kelly và nhúng nó vào dịch đọng lại ở lưỡi mỏ vịt. Dịch có tính kiềm (hiện diện của nước ối) sẽ được thể hiện bằng sự đổi màu của giấy thử, từ màu vàng thành màu xanh lơ.
 
 :::caution[Lưu ý]
-Máu và 1 số nhiễm trùng âm đạo có thể cho kết quả dương tính giả.
+Máu và một số nhiễm trùng âm đạo có thể cho kết quả dương tính giả.
 :::
 
 #### Test dương sỉ

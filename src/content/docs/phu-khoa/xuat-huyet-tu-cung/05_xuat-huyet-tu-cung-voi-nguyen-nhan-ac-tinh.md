@@ -70,7 +70,7 @@ Nong nạo buồng tử cung (D&C) thường được gọi là nạo sinh thi�
 
 Nạo sinh thiết từng phần là tiêu chuẩn vàng cho khảo sát nội mạc tử cung trước khi có Pipelle. Hiện nay, nạo sinh thiết từng phần nội mạc tử cung không còn là kỹ thuật đầu tay trong lấy mẫu nội mạc tử cung vì kỹ thuật mù, có sai số và nguy cơ biến chứng như nhiễm trùng, thủng tử cung.
 
-Nạo sinh thiết không phải luôn luôn cho chẩn đoán chính xác. Có 1 số ung thư nội mạc tử cung biệt hóa cao không chẩn đoán được qua nạo sinh thiết (cùng tồn tại với tăng sinh nội mạc tử cung không điển hình).
+Nạo sinh thiết không phải luôn luôn cho chẩn đoán chính xác. Có một số ung thư nội mạc tử cung biệt hóa cao không chẩn đoán được qua nạo sinh thiết (cùng tồn tại với tăng sinh nội mạc tử cung không điển hình).
 
 #### Sinh thiết nội mạc tử cung
 
@@ -135,7 +135,7 @@ Xuất huyết tử cung bất thường ở các đối tượng nguy cơ cao c
 1. Sự hiện diện của các tế bào không điển hình.
 2. Mong muốn bảo tồn khả năng sinh sản.
 
-Đối với điều trị tăng sinh tuyến nội mạc tử cung điển hình, khuyến cáo điều trị bằng progestin hơn là phẫu thuật. Đối với điều trị tăng sinh tuyến nội mạc tử cung không điển hình, khuyến cáo điều trị progestin là chính, có thể cân nhắc phẫu thuật trong 1 số trường hợp có chỉ định.
+Đối với điều trị tăng sinh tuyến nội mạc tử cung điển hình, khuyến cáo điều trị bằng progestin hơn là phẫu thuật. Đối với điều trị tăng sinh tuyến nội mạc tử cung không điển hình, khuyến cáo điều trị progestin là chính, có thể cân nhắc phẫu thuật trong một số trường hợp có chỉ định.
 
 Các phương pháp điều trị tăng sinh nội mạc tử cung bao gồm:
 

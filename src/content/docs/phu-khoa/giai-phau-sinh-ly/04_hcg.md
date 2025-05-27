@@ -11,7 +11,7 @@ hCG là hormone hướng tuyến sinh dục (gonadotropin), được sản xuấ
 
 Khi thai dưới 5 tuần tuổi, hCG được sản xuất ở cả nguyên bào nuôi và hội bào nuôi. Đến khi nồng độ hCG trong huyết tương mẹ đạt đỉnh, hCG chỉ còn được sản xuất bởi các hội bào nuôi.
 
-Ngoài bánh rau, thận, tuyến yên và 1 số mô khác của thai cũng có thể sản xuất ra hCG. Điều này giải thích trong bệnh lý tăng sản tuyến thượng thận, tuyến yên có thể xét nghiệm hCG tăng cao.
+Ngoài bánh rau, thận, tuyến yên và một số mô khác của thai cũng có thể sản xuất ra hCG. Điều này giải thích trong bệnh lý tăng sản tuyến thượng thận, tuyến yên có thể xét nghiệm hCG tăng cao.
 
 Tìm thấy với nồng độ rất nhỏ ở đàn ông và phụ nữ không có thai, có lẽ chủ yếu sản sinh ở tuyến yên trước. hCG cũng được tìm thấy trong bệnh lý tân sinh nguyên bào nuôi hoặc trong các bệnh lý ác tính không liên quan đến nguyên bào nuôi.
 
@@ -24,7 +24,7 @@ hCG được tạo thành từ 2 tiểu đơn vị α và β. Chúng được t�
 
 hCG chỉ thể hiện hoạt tính sinh học khi ở trạng thái kết hợp đầy đủ. Khi tồn tại 1 mình, chuỗi β-hCG không thể gây được các hoạt tính sinh học của hCG. Khi tồn tại 1 mình, các chuỗi α và β sẽ bị thoái giáng, tạo thành các mảnh đứt gãy.
 
-Sau khi được tổng hợp riêng rẽ, các tiểu đơn vị α và β sẽ được tập trung về bộ Golgi để lắp ghép thành hCG hoàn chỉnh. Tùy theo mức độ biểu hiện khác biệt của gene α và các gene β mà chúng ta có thể có các thành phần dôi ra (α hay β), không được sử dụng, sẽ lưu hành ở dạng đơn lẽ bất hoạt trong máu ngoại vi. Có thể tìm thấy cả hCG toàn phần, chuỗi α-hCG tự do (free α) cũng như chuỗi β-hCG tự do (free β). Sự chênh lệch trong biểu hiện các gene thành phần của hCG tùy thuộc vào tình trạng cụ thể. Trong 1 số điều kiện (bệnh lý) nhất định, khảo sát sự mất cân đối trong các thành phần có thể giúp có thêm thông tin cho chẩn đoán.
+Sau khi được tổng hợp riêng rẽ, các tiểu đơn vị α và β sẽ được tập trung về bộ Golgi để lắp ghép thành hCG hoàn chỉnh. Tùy theo mức độ biểu hiện khác biệt của gene α và các gene β mà chúng ta có thể có các thành phần dôi ra (α hay β), không được sử dụng, sẽ lưu hành ở dạng đơn lẽ bất hoạt trong máu ngoại vi. Có thể tìm thấy cả hCG toàn phần, chuỗi α-hCG tự do (free α) cũng như chuỗi β-hCG tự do (free β). Sự chênh lệch trong biểu hiện các gene thành phần của hCG tùy thuộc vào tình trạng cụ thể. Trong một số điều kiện (bệnh lý) nhất định, khảo sát sự mất cân đối trong các thành phần có thể giúp có thêm thông tin cho chẩn đoán.
 
 ## Thụ thể
 
@@ -69,7 +69,7 @@ Trong khi đó, để khảo sát phát triển bào thai, thì chính khảo s�
 
 ### Dùng thay thế hoạt tính LH
 
-Do cấu tạo tương tự LH, nên có thể dùng hCG cho 1 số trường hợp cần phải gây ra hoạt tính LH ngoại sinh. Ví dụ rõ ràng nhất của ứng dụng này là gây trưởng thành cuối cùng của noãn bào bằng hCG thay vì bằng LH.
+Do cấu tạo tương tự LH, nên có thể dùng hCG cho một số trường hợp cần phải gây ra hoạt tính LH ngoại sinh. Ví dụ rõ ràng nhất của ứng dụng này là gây trưởng thành cuối cùng của noãn bào bằng hCG thay vì bằng LH.
 
 ### Thúc đẩy quá trình phát triển bào thai
 

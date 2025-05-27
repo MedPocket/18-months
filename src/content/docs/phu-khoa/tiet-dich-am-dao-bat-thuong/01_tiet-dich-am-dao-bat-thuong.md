@@ -7,7 +7,7 @@ description: Tiết dịch âm đạo bất thường.
 
 Khuẩn hệ âm đạo (vaginal microbiome hay vaginal microbiota) ở phụ nữ ở độ tuổi sinh sản bao gồm các loại vi khuẩn kỵ khí và hiếu khí thường trú. Các vi khuẩn này tồn tại trong mối quan hệ cộng sinh giữa vật chủ là môi trường âm đạo và bản thân chúng là các ký sinh vật.
 
-Âm đạo cung cấp dưỡng chất cho vi sinh vật, đảm bảo sự phát triển của cộng đoàn vi sinh vật. 1 số dưỡng chất được cung cấp từ các tế bào lát tầng, 1 số dưỡng chất khác từ các tuyến. Ngược lại, cộng đoàn vi sinh vật đóng vai trò quan trọng trong cơ chế bảo vệ vật chủ bằng cách ngăn ngừa sự trú đóng (colonization) của các vi khuẩn gây bệnh. Rối loạn của khuẩn hệ âm đạo ảnh hưởng mạnh đến tình trạng sức khỏe và bệnh tật của vật chủ.
+Âm đạo cung cấp dưỡng chất cho vi sinh vật, đảm bảo sự phát triển của cộng đoàn vi sinh vật. Một số dưỡng chất được cung cấp từ các tế bào lát tầng, Một số dưỡng chất khác từ các tuyến. Ngược lại, cộng đoàn vi sinh vật đóng vai trò quan trọng trong cơ chế bảo vệ vật chủ bằng cách ngăn ngừa sự trú đóng (colonization) của các vi khuẩn gây bệnh. Rối loạn của khuẩn hệ âm đạo ảnh hưởng mạnh đến tình trạng sức khỏe và bệnh tật của vật chủ.
 
 Mật độ vi khuẩn của âm đạo rất cao, khoảng $10^8 - 10^9$ vi khuẩn trong mỗimL dịch âm đạo. Ở người phụ nữ trong độ tuổi sinh sản, bình thường và khỏe mạnh, Lactobacillus sp là vi khuẩn chiếm ưu thế trong khuẩn hệ. Lactobacillus sp hay còn gọi là khuẩn Döderlein, là vi khuẩn hình que, Gram dương, kỵ khí không bắt buộc, thuộc nhóm vi khuẩn lactic acid, chúng có khả năng chuyển đổi lactose và các loại đường khác thành acid lactic để thu nhận năng lượng.
 

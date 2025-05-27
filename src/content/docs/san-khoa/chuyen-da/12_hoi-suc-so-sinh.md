@@ -107,7 +107,7 @@ Những điểm quan trọng trong lưu đồ hồi sức sơ sinh.
 - Nhịp tim >60 lần/ph có thể ngừng ấn ngực.
 - Nhịp tim >100 lần/ph và tự thở có thể ngừng thông khí áp lực dương.
 - Giới hạn thời gian: nếu không cải thiện sau 30 giây, chuyển sang bước tiếp theo.
-- Có thể xem xét đặt nội khí quản ở 1 số bước.
+- Có thể xem xét đặt nội khí quản ở một số bước.
 
 ![Chuyển dạ với nước ối lần phân su](../../../../assets/san-khoa/hoi-suc-so-sinh/chuyen-da-nuoc-oi-lan-phan-su.jpeg)
 _Chuyển dạ với nước ối lần phân su._

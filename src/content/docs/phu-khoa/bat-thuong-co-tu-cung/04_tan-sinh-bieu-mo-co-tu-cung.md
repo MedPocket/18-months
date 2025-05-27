@@ -75,7 +75,7 @@ Các tế bào thoát khỏi apoptosis (do E6) và bị kích hoạt tăng trư�
 ![E6 và E7 trong cơ chế sinh ung thư của HPV type 16](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/e6-va-e7-trong-co-che-gay-ung-thu-cua-hpv.png)
 _E6 và E7 trong cơ chế sinh ung của HPV type 16.<br>Các tế bào thoát khỏi apoptosis (do E6 bất hoạt p53) và bị kích hoạt tăng trưởng không kiểm soát (do E7 gắn với pRb giải phóng E2F) sẽ trở thành tế bào dị sản ở các mức độ khác nhau, tùy theo mức độ bị chi phối._
 
-Tuy là điều kiện cần, nhưng nếu chỉ có nhiễm HPV thì chưa phải là điều kiện đủ để gây dị sản và ung thư. Các đáp ứng miễn dịch, đặc biệt là miễn dịch thích nghi qua tế bào (CMI) có vai trò quan trọng trong việc điều chỉnh tải lượng HPV và có thể làm đảo ngược quá trình. Sự đảo ngược tiến trình dị sản có thể xảy ra trong 80% các trường hợp. Tuy nhiên, trong 1 số trường hợp khác, khoảng 10%, diễn tiến của tế bào dị sản là đi đến ung thư.
+Tuy là điều kiện cần, nhưng nếu chỉ có nhiễm HPV thì chưa phải là điều kiện đủ để gây dị sản và ung thư. Các đáp ứng miễn dịch, đặc biệt là miễn dịch thích nghi qua tế bào (CMI) có vai trò quan trọng trong việc điều chỉnh tải lượng HPV và có thể làm đảo ngược quá trình. Sự đảo ngược tiến trình dị sản có thể xảy ra trong 80% các trường hợp. Tuy nhiên, trong một số trường hợp khác, khoảng 10%, diễn tiến của tế bào dị sản là đi đến ung thư.
 
 ![Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3, cũng như chiều hướng tiến triển của chúng](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/su-khac-biet-ve-sinh-hoc-cin-1-2-3-va-chieu-huong-cua-chung.png)
 _Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3, cũng như chiều hướng tiến triển của chúng.<br>Sơ đồ về tiềm năng sinh học của các tế bào này căn cứ vào khả năng kết hợp của DNA virus vào tế bào chủ, khả năng tẩy sạch virus, khả năng điều hòa chu trình tế bào… cho thấy vì sao CIN 1 được xem như biểu hiện cấp tính của nhiễm HPV thoáng qua. Ngược lại, CIN 3 thường được coi là tiền ung thư thực sự._
@@ -265,7 +265,7 @@ _Quản lý CIN 1 theo Bệnh viện Từ Dũ._
 
 #### Đặc điểm
 
-CIN 2, CIN 3 được xem là các tổn thương tiền ung thư. Phương pháp cắt mô hoặc hủy mô được khuyến nghị ở phụ nữ không đang mang thai, trừ 1 số trường hợp đặc biệt.
+CIN 2, CIN 3 được xem là các tổn thương tiền ung thư. Phương pháp cắt mô hoặc hủy mô được khuyến nghị ở phụ nữ không đang mang thai, trừ một số trường hợp đặc biệt.
 
 Có gần 40% các CIN 2 thoái triển tự nhiên về bình thường sau 2 năm. Ngược lại, rất hiếm khi CIN 3 tự thoái triển.
 
@@ -331,7 +331,7 @@ khó chịu cho bệnh nhân và nguy cơ chảy máu.
 
 ### Nạo kênh cổ tử cung
 
-Thủ thuật trong đó niêm mạc ống cổ tử cung được nạo bằng dụng cụ hình thìa gọi là curette. Có thể thực hiện tại phòng khám và không cần gây mê. Có thể có 1 số ít trường hợp đau bụng có thắt và chảy máu sau khi làm thủ thuật.
+Thủ thuật trong đó niêm mạc ống cổ tử cung được nạo bằng dụng cụ hình thìa gọi là curette. Có thể thực hiện tại phòng khám và không cần gây mê. Có thể có một số ít trường hợp đau bụng có thắt và chảy máu sau khi làm thủ thuật.
 
 ### Khoét chóp bằng dao lạnh
 

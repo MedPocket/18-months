@@ -259,7 +259,7 @@ Dienogest có thể được dùng như điều trị empirical hay dùng như �
 
 Dụng cụ tử cung phóng thích LNG (IUS-LNG) phóng thích tại chỗ các lượng nhỏ levonorgestrel, làm giảm cường kinh, giảm đau, chỉ định trong bệnh tuyến cơ tử cung có triệu chứng.
 
-Norethisterone acetate có thể được sử dụng để giảm đau trong lạc nội mạc tử cung, tuy nhiên dữ liệu lâm sàng còn hạn chế và kém hiệu quả trong 1 số trường hợp đau do lạc nội mạc tử cung.
+Norethisterone acetate có thể được sử dụng để giảm đau trong lạc nội mạc tử cung, tuy nhiên dữ liệu lâm sàng còn hạn chế và kém hiệu quả trong một số trường hợp đau do lạc nội mạc tử cung.
 
 Danazol là dẫn chất tổng hợp của ethinyl testosterone, mang đặc tính chuyển hóa và androgen yếu nhưng không có tác dụng estrogen và progestogen. Danazol do có nhiều tác dụng phụ và có các tác dụng phụ không hồi phục. Medroxyprogesterone acetate dạng tiêm có ảnh hưởng mật độ xương. Do vậy không khuyến cáo điều trị giảm đau với thuốc nhóm danazol và medroxyprogesterone acetate, trừ khi không còn lựa chọn nào khác.
 

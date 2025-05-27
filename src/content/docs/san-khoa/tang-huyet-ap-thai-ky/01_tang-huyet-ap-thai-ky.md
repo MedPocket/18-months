@@ -171,7 +171,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 - HELLP.
 - NST không đáp ứng.
 - Thai lưu.
-- Suy thận, giảm tiểu cầu, rau bong non...
+- Suy thận, giảm tiểu cầu, rau bong non…
 
 > Có thể trì hoãn nếu thai <34 tuần và mẹ - thai ổn định để sử dụng corticosteroids.
 

@@ -24,7 +24,7 @@ Tuổi ở phụ nữ: Tần suất xuất hiện tăng theo tuổi, giảm ở 
 
 Tiền sử gia đình có người bị u xơ tử cung.
 
-Yếu tố di truyền như 1 số gen (MED12, HMGA2, CYP1A1 và CYP1B1) và các bất thường nhiễm sắc thể (trisomy 12, đảo đoạn 12q, 6p, 10q, 13q và mất đoạn 7q, 3q, 1p).
+Yếu tố di truyền như một số gen (MED12, HMGA2, CYP1A1 và CYP1B1) và các bất thường nhiễm sắc thể (trisomy 12, đảo đoạn 12q, 6p, 10q, 13q và mất đoạn 7q, 3q, 1p).
 
 Khoảng cách giữa 2 lần sinh con ≥5 năm.
 
@@ -346,7 +346,7 @@ Chỉ định:
 
 - Giảm kích thước khối u, cải thiện khả năng có thai ở phụ nữ hiếm muộn.
 - Cải thiện triệu chứng gây ra bởi u xơ cho phụ nữ gần tuổi mãn kinh.
-- Tránh phẫu thuật cho người bệnh u xơ tử cung có triệu chứng, do 1 số u xơ sẽ giảm kích thước khi điều trị với UPA.
+- Tránh phẫu thuật cho người bệnh u xơ tử cung có triệu chứng, do một số u xơ sẽ giảm kích thước khi điều trị với UPA.
 - Tránh phẫu thuật cho người bệnh không muốn phẫu thuật.
 - Kiểm soát triệu chứng ở phụ nữ không đủ điều kiện phẫu thuật.
 - Ngừa tái phát u xơ ở phụ nữ đã bóc u xơ.

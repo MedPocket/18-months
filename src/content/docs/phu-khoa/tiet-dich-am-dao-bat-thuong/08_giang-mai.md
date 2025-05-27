@@ -52,7 +52,7 @@ Giang mai thời kỳ III:
 - Bệnh ảnh hưởng đến bất kỳ cơ quan nào trong cơ thể, có thể xảy ra sau thời điểm nhiễm khuẩn ban đầu thậm chí tồn tại 30 năm.
 - Biểu hiện lâm sàng đặc trưng: biểu hiện thần kinh (giang mai thần kinh), biểu hiện tim mạch (giang mai tim mạch) và các tổn thương gôm giang mai:
   - Giang mai thần kinh có thể xuất hiện ở bất kỳ giai đoạn nào của bệnh, thậm chí trong vài tháng đầu. Các triệu chứng thần kinh sớm bao gồm: thay đổi trạng thái tâm thần cấp tính, viêm màng não, đột quỵ, rối loạn chức năng dây thần kinh sọ, bất thường về thính giác, mắt và thị giác. Giang mai thần kinh muộn có thể xảy ra 10-30 năm hoặc lâu hơn kể từ thời điểm mắc bệnh và đặc trưng bởi tổn thương các rễ thần kinh sau của cột sống và liệt nhẹ toàn thể.
-  - Giang mai tim mạch thường biểu hiện: viêm động mạch chủ, phình động mạch chủ, hở van động mạch chủ, hẹp động mạch vành, 1 số trường hợp có thể có viêm cơ tim.
+  - Giang mai tim mạch thường biểu hiện: viêm động mạch chủ, phình động mạch chủ, hở van động mạch chủ, hẹp động mạch vành, một số trường hợp có thể có viêm cơ tim.
   - Gôm giang mai: là thương tổn đặc trưng của giang mai thời kỳ III. Gôm là thương tổn chắc ở hạ bì, tiến triển qua 4 giai đoạn: ban đầu là những cục dưới da, các cục này dần to ra, mềm, vỡ chảy dịch dính giống như nhựa cao su tạo thành vết loét; vết loét dần lên da non rồi thành sẹo. Gôm có thể nhiều hoặc ít và có thể khu trú ở bất kỳ chỗ nào. Vị trí thường gặp là mặt, da đầu, mông, đùi, mặt ngoài phần trên cẳng chân… Ở niêm mạc, vị trí thường gặp là miệng, môi, vòm miệng, lưỡi, mũi, hầu…, ngoài ra có thể có gôm trong não.
 
 #### Giang mai bẩm sinh
@@ -81,7 +81,7 @@ Bệnh phẩm chủ yếu là huyết thanh. Một số xét nghiệm không đ�
 Xét nghiệm không đặc hiệu:
 
 - Các xét nghiệm không đặc hiệu phổ biến và hay được sử dụng nhất là RPR (rapid plasma reagin card test) và VDRL (venereal disease research laboratory).
-- Các xét nghiệm này phát hiện kháng thể IgM hoặc IgG kháng lipid không đặc hiệu. Những kháng thể này cũng có thể được phát hiện ở 1 số bệnh khác như sốt vi rút, 1 số bệnh tự miễn, vì vậy có thể cho kết quả dương tính giả và không đặc hiệu cho bệnh giang mai.
+- Các xét nghiệm này phát hiện kháng thể IgM hoặc IgG kháng lipid không đặc hiệu. Những kháng thể này cũng có thể được phát hiện ở một số bệnh khác như sốt vi rút, một số bệnh tự miễn, vì vậy có thể cho kết quả dương tính giả và không đặc hiệu cho bệnh giang mai.
 - Có thể có kết quả âm tính giả trong vòng 4 tuần đầu sau khi xuất hiện tổn thương sơ phát và trong giang mai muộn.
 - Trong giang mai thời kỳ I và II, phản ứng không đặc hiệu có thể âm tính giả do hiện tượng trước vùng phát hiện (phản ứng prozone: do nồng độ kháng thể trong bệnh phẩm rất cao, ngăn cản sự hình thành mạng lưới kháng nguyên - kháng thể). Bệnh nhân có tổn thương nghi ngờ giang mai thời kỳ I, cần làm xét nghiệm lại sau 2-4 tuần để khẳng định chẩn đoán. Xét nghiệm không đặc hiệu âm tính ở thời điểm 3 tháng sau khi xuất hiện tổn thương săng có thể loại trừ bệnh giang mai.
 - Các trường hợp dương tính giả thường có hiệu giá kháng thể < 1/4.
@@ -154,7 +154,7 @@ Trẻ sinh ra dưới 2 tuổi có mẹ bị giang mai được chẩn đoán gi
 
 - Xét nghiệm tìm xoắn khuẩn trên kính hiển vi nền đen hoặc xét nghiệm kháng thể huỳnh quang trực tiếp: thấy sự có mặt của T. pallidum. Bệnh phẩm lấy từ dây rốn, nhau thai, dịch tiết từ mũi hoặc tổn thương da.
 - Xét nghiệm huyết thanh không đặc hiệu dương tính và có hiệu giá kháng thể cao gấp ≤4 lần hiệu giá kháng thể của mẹ.
-- Trong 1 số trường hợp giang mai bẩm sinh, có thể phối hợp X-quang để xác định chẩn đoán.
+- Trong một số trường hợp giang mai bẩm sinh, có thể phối hợp X-quang để xác định chẩn đoán.
 
 ### Chẩn đoán phân biệt
 

@@ -83,7 +83,7 @@ Siêu âm xác nhận thai lưu khi:
 
 Các dấu hiệu bất thường kèm theo gồm có vùng tăng âm bất thường trong buồng tử cung và túi thai có bờ không căng đều. Tuy nhiên các dấu chứng này không cho phép xác nhận chẩn đoán thai lưu.
 
-Khảo sát định lượng β-hCG trong chẩn đoán thai lưu có tính giá trị rất thấp. β-hCG là sản phẩm của lá nuôi. Nồng độ và biến thiên nồng độ của β-hCG thể hiện hoạt năng của lá nuôi. β-hCG không phải là sản phẩm của phôi thai. Nồng độ và biến thiên nồng độ của β-hCG không thể hiện được tính sinh tồn của phôi. Vì thế, không dùng khảo sát định lượng β-hCG cho mục đích tiếp cận chẩn đoán thai lưu. Trong 1 số cực kỳ hãn hữu các trường hợp, có thể dựa vào mức độ hay diễn tiến của nồng độ β-hCG như dữ kiện bổ sung, mang tính chất tham khảo, cung cấp ý niệm bổ túc nhất định về hoạt năng của lá nuôi.
+Khảo sát định lượng β-hCG trong chẩn đoán thai lưu có tính giá trị rất thấp. β-hCG là sản phẩm của lá nuôi. Nồng độ và biến thiên nồng độ của β-hCG thể hiện hoạt năng của lá nuôi. β-hCG không phải là sản phẩm của phôi thai. Nồng độ và biến thiên nồng độ của β-hCG không thể hiện được tính sinh tồn của phôi. Vì thế, không dùng khảo sát định lượng β-hCG cho mục đích tiếp cận chẩn đoán thai lưu. Trong một số cực kỳ hãn hữu các trường hợp, có thể dựa vào mức độ hay diễn tiến của nồng độ β-hCG như dữ kiện bổ sung, mang tính chất tham khảo, cung cấp ý niệm bổ túc nhất định về hoạt năng của lá nuôi.
 
 Khi đã xác định thai lưu, đồng nghĩa với việc phải chấm dứt thai kỳ.
 

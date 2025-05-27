@@ -145,8 +145,8 @@ ROMA test không được dùng cho mục đích tầm soát ung thư biểu mô
 
 AFP là protein chính trong thời kỳ phôi thai, được tổng hợp tại gan thai nhi, bản chất là glycoprotein giống mucin.
 
-Giá trị bình thường của AFP<5.4 ng/mL. AFP thường tăng trong các u tế bào mầm, ngoài ra còn tăng cao trong trong 1 số bệnh lý như carcinoma tế bào gan, bệnh lý ác tính dạ dày, đường mật, tụy.
-Giá trị bình thường của AFP<5.4 ng/mL. AFP thường tăng trong các u tế bào mầm, ngoài ra còn tăng cao trong trong 1 số bệnh lý như carcinoma tế bào gan, bệnh lý ác tính dạ dày, đường mật, tụy.
+Giá trị bình thường của AFP<5.4 ng/mL. AFP thường tăng trong các u tế bào mầm, ngoài ra còn tăng cao trong trong một số bệnh lý như carcinoma tế bào gan, bệnh lý ác tính dạ dày, đường mật, tụy.
+Giá trị bình thường của AFP<5.4 ng/mL. AFP thường tăng trong các u tế bào mầm, ngoài ra còn tăng cao trong trong một số bệnh lý như carcinoma tế bào gan, bệnh lý ác tính dạ dày, đường mật, tụy.
 
 ### Human Chorionic Gonadotropin (hCG)
 
@@ -175,7 +175,7 @@ LDH, steroid… được thực hiện chọn lọc.
 
 Đột biến gene khác cũng được đề cập:
 
-- Đột biến gene TP53 là đột biến sinh dưỡng, và được cho là có mối liên quan với nhiều ung thư khác nhau. Đối với 1 số ung thư như ung thư vú, đột biến gene TP53 có giá trị như chỉ báo tiên lượng xấu. Tại buồng trứng, đột biến này có liên quan đến các trường hợp ung thư buồng trứng thanh dịch grade cao.
+- Đột biến gene TP53 là đột biến sinh dưỡng, và được cho là có mối liên quan với nhiều ung thư khác nhau. Đối với một số ung thư như ung thư vú, đột biến gene TP53 có giá trị như chỉ báo tiên lượng xấu. Tại buồng trứng, đột biến này có liên quan đến các trường hợp ung thư buồng trứng thanh dịch grade cao.
 - Đột biến gene PICK3CA cũng là đột biến sinh dưỡng, và cũng được cho là có mối liên quan với nhiều ung thư khác nhau. Tại buồng trứng, đột biến này có liên quan đến u tế bào sáng, u tuyến dịch nhầy và u dạng nội mạc.
 - Đột biến gene CTNNB1 exon 3 được tìm thấy ở bệnh nhân có u dạng nội mạc ác tính grade thấp và ở giai đoạn sớm.
 - Đột biến gen KRAS và BRAF thường thấy ở ung thư grade thấp.

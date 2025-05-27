@@ -19,7 +19,7 @@ Các thai nhi với kích cỡ nhỏ hơn bình thường được phân ra các
 
 Vận chuyển qua rau của các dưỡng chất như trọng lượng trước khi có thai thấp, mẹ dinh dưỡng kém, nghiện thuốc hay thiếu máu nặng.
 
-1 số tình trạng bệnh lý có thể ảnh hưởng đến sự hình thành và phát triển của rau thai và hệ thống giường mạch máu của rau thai như tiền sản giật, các bệnh tự miễn kiểu hội chứng kháng phospholipid, bệnh ưa chảy máu, bệnh lý thận, tiểu đường hay cao huyết áp mạn tính.
+Một số tình trạng bệnh lý có thể ảnh hưởng đến sự hình thành và phát triển của rau thai và hệ thống giường mạch máu của rau thai như tiền sản giật, các bệnh tự miễn kiểu hội chứng kháng phospholipid, bệnh ưa chảy máu, bệnh lý thận, tiểu đường hay cao huyết áp mạn tính.
 
 ### Thuật ngữ liên quan
 
@@ -86,7 +86,7 @@ Các bệnh lý gây thiếu oxygen trường diễn ở mẹ hoặc giảm kh�
 
 Thiếu oxygen trường diễn dẫn đến chậm tăng trưởng của thai trong tử cung (thể hiện qua các thông số sinh trắc), gây suy giảm hệ đệm (thể hiện qua bất thường trong cử động thai, EFM). Khi tình trạng đã tiến triển xa, bắt đầu xuất hiện các dấu hiệu của tái phân bố tuần hoàn gồm co mạch thận và các cơ quan ngoại vi để dồn máu cho não (thể hiện qua giảm cung xuất nước tiểu tức tình trạng thiểu ối và tình trạng bất thường trong động học các dòng chảy).
 
-1 số yếu tố khác cũng có liên quan đến IUGR gồm nhiễm trùng bào thai do CMV hay do Rubella hay liên quan đến tăng cân của mẹ trong thai kỳ.
+Một số yếu tố khác cũng có liên quan đến IUGR gồm nhiễm trùng bào thai do CMV hay do Rubella hay liên quan đến tăng cân của mẹ trong thai kỳ.
 
 ### Chẩn đoán
 
@@ -105,7 +105,7 @@ Thiết lập chẩn đoán IUGR bao gồm 3 nội dung:
 
 Thai nhỏ hơn bình thường trong trường hợp song thai không đồng nghĩa với các thai này có giới hạn tăng trưởng trong tử cung.
 
-1 số không nhỏ thai nhi song thai chỉ là SGA. 1 số khác lại có vấn đề thật sự liên quan đến IUGR cấp máu qua nhau không đủ cho nhiều thai nhi tăng trưởng đồng thời bình thường, hay hội chứng truyền máu trong song thai 1 trứng.
+Một không nhỏ thai nhi song thai chỉ là SGA. Một số khác lại có vấn đề thật sự liên quan đến IUGR cấp máu qua nhau không đủ cho nhiều thai nhi tăng trưởng đồng thời bình thường, hay hội chứng truyền máu trong song thai 1 trứng.
 
 ## Nguồn tham khảo
 

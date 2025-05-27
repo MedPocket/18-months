@@ -29,7 +29,7 @@ Corticoids được chỉ định cho phụ nữ mang thai có nguy cơ sinh non
 
 **Với thai nhi**
 
-- 1 số nghiên cứu chỉ ra tăng nhẹ nguy cơ béo phì và rối loạn chuyển hóa khi lớn lên.
+- Một số nghiên cứu chỉ ra tăng nhẹ nguy cơ béo phì và rối loạn chuyển hóa khi lớn lên.
 - Liều ngắn hạn để dự phòng sinh non không liên quan đến chậm phát triển chiều cao hoặc bất thường thần kinh rõ rệt.
 - Tác động lâu dài vẫn đang được theo dõi trong các nghiên cứu dõi dài hạn.
 

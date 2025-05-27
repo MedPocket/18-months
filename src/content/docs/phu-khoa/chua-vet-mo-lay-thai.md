@@ -168,7 +168,7 @@ Thăm khám nhẹ nhàng tránh làm khối thai vỡ và gây xuất huyết �
 
 Chỉ định:
 
-- 1 số ít trường hợp β-hCG <2000 mIU/mL sau điều trị MTX, chảy máu khối thai sảy hoặc khối thai không giảm kích thước.
+- Một số ít trường hợp β-hCG <2000 mIU/mL sau điều trị MTX, chảy máu khối thai sảy hoặc khối thai không giảm kích thước.
 - Phân độ trên siêu âm là COS-2-.
 
 Nong nạo không nên là điều trị đầu tiên vì nguy cơ thủng tử cung và xuất huyết ồ ạt cần phẫu thuật.

@@ -59,7 +59,7 @@ Vaccine uốn ván cho phụ nữ mang thai được tiêm theo tiền sử mi�
 - Tiêm vaccine cho bà bầu bảo vệ mẹ và trẻ sơ sinh.
 - Lịch tiêm linh hoạt dựa trên tiền sử, tuân thủ Thông tư 38/2017/TT-BYT.
 - Theo dõi sau tiêm, phản ứng nhẹ không can thiệp, dấu hiệu nặng cần cấp cứu.
-- Có 1 số chống chỉ định cần cân nhắc và tư vấn y tế.
+- Có một số chống chỉ định cần cân nhắc và tư vấn y tế.
 
 ## Nguồn tham khảo
 

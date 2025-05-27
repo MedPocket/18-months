@@ -32,7 +32,7 @@ Trên bề mặt vết thương cũng diễn ra sự tái tạo của lớp thư
 
 Ngay khi hình thành mạng lưới tế bào. Các lớp tế bào, acid hyaluronic, các proteoglycan phân tử lớn và collagen phát triển nhanh. Cac scollagen đan bện lại hình thành mô sẹo. Vết thương đạt được 20% độ bền chắc tối đa sau 3 tuần. Độ bền chắc tối đa chỉ khoảng 70% so với mô không tổn thương.
 
-Trong quá trình tạo sẹo, các sợi collagen liên tục thay đổi sắp xếp, đan bện vào nhau, các tế bào và mạch máu giảm dần tại mô bị thương. Vết sẹo chuyển từ màu đỏ hồng thành màu nhạt, mỏng dần đi. Quá trình thay đổi và sắp xếp này phụ thuộc sự tổng hợp và dị hóa collagen. Tốc độ tổng hợp collagen cao nhất 6-12 tháng sau chấn thương, lúc này vết thương dần trở về bình thường. Trong 1 số trường hợp, sự co kéo vết sẹo có thể làm hạn chế di động của vùng da tổn thương.
+Trong quá trình tạo sẹo, các sợi collagen liên tục thay đổi sắp xếp, đan bện vào nhau, các tế bào và mạch máu giảm dần tại mô bị thương. Vết sẹo chuyển từ màu đỏ hồng thành màu nhạt, mỏng dần đi. Quá trình thay đổi và sắp xếp này phụ thuộc sự tổng hợp và dị hóa collagen. Tốc độ tổng hợp collagen cao nhất 6-12 tháng sau chấn thương, lúc này vết thương dần trở về bình thường. Trong một số trường hợp, sự co kéo vết sẹo có thể làm hạn chế di động của vùng da tổn thương.
 
 Sự co kéo sẹo là quá trình bình thường khi lành thương nhưng đôi khi gây mất thẩm mỹ, biến dạng vùng da. Sẹo là tổ chức collagen rất ít mạch máu và tế bào đủ cho duy trì mô chức năng, sự liên tục và độ bền chắc. Quá tình tạo sẹo tiếp tục suốt đời với tốc độ chậm.
 

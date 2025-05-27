@@ -108,7 +108,7 @@ Tiến trình chuyển sản đôi khi không hoàn hảo. Trong trường hợp
 
 Do là tiến trình sinh lý, nên thông thường, không có chỉ định điều trị lộ tuyến cổ tử cung không có triệu chứng lâm sàng.
 
-Trong 1 số trường hợp, có thể cần can thiệp nhằm kiểm soát sự lan rộng của mô lộ tuyến. Can thiệp có thể là trên hoạt động nội tiết nội sinh hay ngoại lai (như ngưng dùng thuốc ngừa thai nội tiết), cũng có thể là điều trị phá hủy mô lộ tuyến bằng đốt điện hoặc áp.
+Trong một số trường hợp, có thể cần can thiệp nhằm kiểm soát sự lan rộng của mô lộ tuyến. Can thiệp có thể là trên hoạt động nội tiết nội sinh hay ngoại lai (như ngưng dùng thuốc ngừa thai nội tiết), cũng có thể là điều trị phá hủy mô lộ tuyến bằng đốt điện hoặc áp.
 
 Về mặt nguyên tắc, không can thiệp trong những giai đoạn mà hoạt động nội tiết là không ổn định (như trong giai đoạn hậu sản). Trong những tình huống này, cần chờ đợi sự ổn định về hoạt động nội tiết của buồng trứng mới có thể đánh giá được đúng mức tiến trình lành tự nhiên của lộ tuyến cổ tử cung.
 

@@ -1,90 +1,141 @@
 ---
 title: Tuyến giáp và thai kỳ
-description: Tuyến giáp và thai kỳ.
+description: Tìm hiểu về những thay đổi sinh lý tuyến giáp trong thai kỳ và ảnh hưởng của các bệnh lý tuyến giáp (cường giáp, suy giáp) đến mẹ và thai nhi, bao gồm cả chẩn đoán và hướng xử trí phù hợp.
 ---
 
-Trong thai kỳ, chức năng tuyến giáp của mẹ bị thay đổi. Điều này có ảnh hưởng tới cả mẹ và con.
+Trong thai kỳ, chức năng tuyến giáp của mẹ bị thay đổi đáng kể do sự thay đổi nội tiết và chuyển hóa. Những thay đổi này có thể ảnh hưởng đến sức khỏe của cả mẹ và thai nhi nếu không được phát hiện và xử lý kịp thời.
 
 ## Sinh lý tuyến giáp mẹ và thai
 
-Sự tăng lọc cầu thận trong thai kỳ làm thận tăng thải iod, do đó làm giảm nồng độ iod vô cơ trong huyết thanh.
+Sự tăng lọc cầu thận trong thai kỳ dẫn đến tăng thải iod qua nước tiểu, từ đó làm giảm nồng độ iod vô cơ trong huyết thanh. Đây là một yếu tố góp phần gây suy giáp nếu không được bổ sung iod đầy đủ.
 
-![Bảng chức năng tuyến giáp](../../../assets/san-khoa/tuyen-giap-va-thai-ky/bang-chuc-nang-tuyen-giap.png)
+| Chỉ số             | Không mang thai       | Mang thai            | Máu cuống rốn       |
+|---------------------|----------------------|----------------------|---------------------|
+| T₄ (µg/dL)       | 5 – 12               | 10 – 16              | 6 – 13             |
+| Free T₄ (ng/dL)  | 1 – 2.3              | 2.5 – 3.5            | 1.5 – 3            |
+| T₃ (ng/dL)       | 110 – 230            | 150 – 250            | 40 – 60            |
+| Reverse T₃ (ng/dL)| 15 – 30             | 35 – 65              | 80 – 360           |
+| Resin T₃ uptake (%) | 20 – 30          | 10                   | 10 – 15            |
+| TBG (g/dL)          | 12 – 28              | 40 – 50              | 10 – 16            |
+| TSH (U/mL)          | 1.94                 | 0 – 6                | 0 – 20             |
 
-Free $T_4$ (free thyroxine - $FT_4$) là phương pháp đánh giá chức năng tuyến giáp chính xác duy nhất khi có sự thay đổi của TBG (Thyroxine Binding Globulin) vì nồng độ của $T_3$ (total triiodothyronine) và $T_4$ tăng trong suốt thai kỳ.
+_Chức năng tuyến giáp ở phụ nữ, phụ nữ mang thai và máu cuống rốn thai trưởng thành (Giá trị tham khảo, có thể thay đổi theo phương pháp xét nghiệm)._
 
-Về chức năng tuyến giáp của thai, trước 10 tuần không có iod hữu cơ trong tuyến giáp thai nhi. Từ tuần 11 đến tuần 12, tuyến giáp thai nhi có thể sản xuất được iodothyronine và $T_4$. Nồng độ TSH của thai nhi, $T_4$ và $FT_4$ đã chứng tỏ sự trưởng thành và khả năng hoạt động độc lập của trục tuyến giáp-tuyến yên.
+**Free T₄ (free thyroxine - FT₄)** là chỉ số đánh giá chức năng tuyến giáp chính xác nhất trong thai kỳ, do sự thay đổi nồng độ **TBG (Thyroxine Binding Globulin)** khiến tổng nồng độ T₃ và T₄ tăng suốt thai kỳ.
 
-Iod tự do có thể đi qua bánh rau nhưng TSH thì không. Đặc điểm này cho phép lượng $T_4$ giới hạn có thể qua bánh rau và đóng vai trò quan trọng trong việc phát triển hệ thần kinh thai trong 3 tháng đầu thai kỳ trước khi chức năng tuyến giáp của thai bắt đầu hoạt động. Những đồng vận của hormone tuyến giáp như propylthiouracil (PTU) và methimazole với trọng lượng phân tử thấp hơn có thể qua hàng rào rau và có thể gây ra nhược giáp ở thai. TRH (Thyroid Releasing Hormone) có thể qua hàng rào rau, nhưng không có ý nghĩa vì nồng độ chất này lưu thông qua rau rất thấp.
+Về chức năng tuyến giáp của thai:
+- Trước tuần thứ 10: không có iod hữu cơ trong tuyến giáp thai nhi.
+- Từ tuần 11–12: tuyến giáp thai nhi bắt đầu sản xuất iodothyronine và T₄.
+- TSH, T₄ và FT₄ trong thai thể hiện sự trưởng thành của trục tuyến giáp – tuyến yên.
+
+**Iod tự do có thể đi qua bánh rau**, nhưng TSH không. Do đó, một lượng T₄ giới hạn từ mẹ có thể qua bánh rau và đóng vai trò quan trọng cho sự phát triển hệ thần kinh của thai nhi, đặc biệt trong **tam cá nguyệt đầu tiên** trước khi tuyến giáp thai hoạt động hiệu quả.
+
+Một số chất như **propylthiouracil (PTU)** và **methimazole** (thuốc kháng giáp) với trọng lượng phân tử nhỏ cũng có thể qua rau, gây **nhược giáp thai nhi** nếu không được theo dõi sát. **TRH (Thyroid Releasing Hormone)** cũng có thể qua rau nhưng với nồng độ thấp, nên **không có ý nghĩa lâm sàng đáng kể**.
 
 ## Cường giáp
 
 ### Cường giáp trong thai kỳ
 
-Cường giáp thường đi kèm với tăng nguy cơ sinh non, IUGR, tiền sản giật, thai lưu và tăng bệnh suất và tử suất sơ sinh.
+Cường giáp trong thai kỳ làm tăng nguy cơ:
+- Sinh non.
+- Thai chậm phát triển trong tử cung (IUGR).
+- Tiền sản giật.
+- Thai lưu.
+- Tăng tỷ lệ bệnh suất và tử suất sơ sinh.
 
-Bệnh Graves là bệnh lý tự miễn do có kháng thể kích thích tuyến giáp và là nguyên nhân thường gặp nhất của cường giáp. 1 số nguyên nhân khác trong thai kỳ như thai trứng và nhân giáp độc. Bệnh nhân bị Graves có khuynh hướng giảm trong thai kỳ và trầm trọng hơn trong thời kỳ hậu sản.
+**Bệnh Graves** là nguyên nhân thường gặp nhất của cường giáp thai kỳ. Đây là bệnh tự miễn do **kháng thể kích thích tuyến giáp (TRAb)** gây ra. Các nguyên nhân khác bao gồm:
+- Thai trứng (do tăng hCG).
+- Nhân giáp độc.
+
+Đáng chú ý, các triệu chứng Graves thường **giảm nhẹ trong thai kỳ** và **trở nên nặng hơn sau sinh**.
 
 ### Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán cường giáp]
-Các triệu chứng lâm sàng giúp định hướng chẩn đoán cường giáp:
+Các triệu chứng lâm sàng định hướng chẩn đoán:
 
-- Mạch lúc nghỉ >100 lần/phút và giảm đi thành mạch chậm sau thủ thuật Valsava.
-- Thay đổi ở mắt.
-- Giảm cân, không tăng cân dù tăng lượng thức ăn.
-- Không chịu được nóng.
-- Tăng $FT_4$ và giảm TSH là các khảo sát cận lâm sàng cho phép thiết lập chẩn đoán.
+- Mạch lúc nghỉ >100 lần/phút, không giảm nhiều sau nghiệm pháp Valsalva.
+- Biểu hiện ở mắt: lồi mắt, nhìn chằm chằm, phù quanh mắt (trong Graves).
+- Giảm cân, không tăng cân dù ăn nhiều.
+- Không chịu được nóng, vã mồ hôi.
+- Cận lâm sàng: **Tăng FT₄, giảm TSH**
 
 :::
 
 ### Điều trị
 
-Điều trị cường giáp trong thai kỳ là điều trị bằng kháng giáp, liều tối thiểu nhằm duy trì $FT_4$ ở giới hạn cao của mức bình thường. Iod phóng xạ bị chống chỉ định trong thai kỳ. Thioamides là thuốc kháng giáp chính dùng trong điều trị, nó ngăn chặn sự tổng hợp nhưng không làm giảm hormone tuyến giáp. Propylthiouracil (PTU) và methimazole (Tapazole) có thể được sử dụng hoán đổi cho rau.
+Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng **liều thấp nhất của thuốc kháng giáp**. 
+
+- **Iod phóng xạ bị chống chỉ định tuyệt đối trong thai kỳ.**
+- **Thioamides** là nhóm chính của thuốc kháng giáp, bao gồm:
+  - **Propylthiouracil (PTU):** ưu tiên dùng trong tam cá nguyệt đầu tiên.
+  - **Methimazole (Tapazole):** có thể dùng sau tam cá nguyệt thứ nhất để giảm độc tính gan của PTU.
 
 :::caution[Lưu ý]
-
-1. Do những điều trị cường giáp qua được rau dễ dàng, nên khi điều trị với những thuốc này có thể gây ra bướu giáp và nhược giáp ở thai. Mặc dù không có bằng chứng chắc chắn rằng PTU gây ra chứng đần độn hay bất thường về phát triển tâm thần vận động ở thai nhi, nhưng khoảng 1-5% trẻ em có tiếp xúc với PTU trong tử cung có bướu giáp. Vì lý do này mà thuốc điều trị kháng giáp được sử dụng ở liều tối thiểu nhằm duy trì $FT_4$ ở giới hạn cao của mức bình thường. Nồng độ $FT_4$ được kiểm tra mỗi 2-4 tuần và thuốc kháng giáp thường được ngưng sau 30 tuần vô kinh.
-2. PTU có thể làm tăng tác dụng ngăn chuyển $T_4$ thành $T_3$ và methimazole có thể gây dị tật dạ dày ruột ở thai nhi.
-3. PTU bài tiết qua sữa rất ít và không có bất kỳ sự thay đổi chức năng tuyến giáp nào ở trẻ sơ sinh được ghi nhận.
-4. Điều trị ngoại khoa vì cường giáp trong tam cá nguyệt thứ 2 chỉ được sử dụng nếu điều trị nội khoa thất bại.
+1. PTU và methimazole có thể qua bánh rau → có thể gây **bướu giáp hoặc nhược giáp thai nhi**. Khoảng 1–5% trẻ phơi nhiễm với PTU trong tử cung có bướu giáp.
+2. PTU có thể ức chế chuyển T₄ thành T₃ ngoại vi, trong khi methimazole có thể gây **dị tật bẩm sinh**, đặc biệt là dị tật đường tiêu hóa nếu dùng trong tam cá nguyệt đầu.
+3. PTU bài tiết rất ít qua sữa mẹ → có thể dùng cho mẹ cho con bú.
+4. Phẫu thuật tuyến giáp (cắt thùy) chỉ xem xét trong **tam cá nguyệt thứ hai** nếu điều trị nội khoa thất bại hoặc có biến chứng.
 
 :::
 
 ### Cơn bão giáp trạng
 
-Nguy cơ chính của phụ nữ mang thai bị cường giáp là cơn bão giáp.
+**Cơn bão giáp** là biến chứng nguy hiểm, đe dọa tính mạng ở thai phụ cường giáp.
 
-Yếu tố khởi phát cơn bão giáp bao gồm nhiễm trùng, chuyển dạ, mổ lấy thai, không tuân thủ điều trị nội khoa.
+**Yếu tố khởi phát**:
+- Nhiễm trùng.
+- Chuyển dạ, mổ lấy thai.
+- Bỏ điều trị thuốc kháng giáp.
 
-Các dấu hiệu và triệu chứng của cơn bão giáp bao gồm tăng thân nhiệt, tăng nhịp tim, vã mồ hôi, dấu mất nước nặng. Thường ít khi nhầm lẫn các dấu hiệu và triệu chứng của cường giáp nặng và tiền sản giật. Cường giáp nặng thường không có tiểu đạm.
+**Triệu chứng**:
+- Tăng thân nhiệt, nhịp tim nhanh.
+- Vã mồ hôi, mất nước nặng.
+- Có thể lẫn với tiền sản giật nặng, nhưng **cường giáp không có tiểu đạm**.
 
-Xử trí bão giáp gồm:
+**Xử trí cấp cứu:**
+- **Sodium iodide** 1g tiêm mạch để ức chế tiết hormone tuyến giáp.
+- **PTU** 1200–1800 mg/ngày chia liều để chặn tổng hợp và chuyển hóa T₄.
+- **Dexamethasone** 8 mg/ngày: ngăn nitrat hóa T₄.
+- **Propranolol** 20–80 mg mỗi 6 giờ: kiểm soát triệu chứng cường giao cảm.
+- Bù dịch và hạ thân nhiệt.
 
-- Chặn tiết hormone tuyến giáp bằng sodium iodide 1g tiêm mạch, ngăn chặn sự tổng hợp hormone tuyến giáp.
-- Chặn sự chuyển $T_4$ thành $T_3$ bằng 1200-1800mg PTU chia làm nhiều liều.
-- Ngăn chặn về sau sự nito hóa $T_4$ thành $T_3$ bằng dexamethasone 8 mg/ngày.
-- Điều trị triệu chứng cường giao cảm bằng block β-Adrenergic như propranolol 20–80 mg/6h, cung cấp đủ dịch và hạ thân nhiệt.
-
-Do kháng thể kích thích tuyến giáp có thể truyền qua rau, thoáng qua và duy trì ít nhất 2-3 tháng ở thai nên khoảng 1% phụ nữ bị Graves có con bị ngộ độc giáp, làm tăng tỷ lệ tử vong sơ sinh lên 16%. Nghi ngờ nhiễm độc giáp ở thai khi tim thai cơ bản hằng định trên 160 lần/phút. Bướu giáp thai có thể xác định được trên siêu âm.
+**Lưu ý:** Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồn tại 2–3 tháng → khoảng **1% trẻ sơ sinh của mẹ Graves có nhiễm độc giáp**, nguy cơ tử vong lên đến 16%. Nghi ngờ khi:
+- Tim thai >160 lần/phút kéo dài.
+- Siêu âm: phát hiện bướu giáp thai.
 
 ## Suy giáp
 
 ### Suy giáp trong thai kỳ
 
-Nguyên nhân thường gặp nhất của nhược giáp ở phụ nữ trong độ tuổi sinh đẻ là viêm giáp Hashimoto, phẫu thuật cắt bỏ tuyến giáp và xạ trị do ung thư tuyến giáp, ngoài ra còn có 1 số bệnh lý khác như đái tháo đường type 1…
+**Nguyên nhân phổ biến**:
+- Viêm tuyến giáp Hashimoto (tự miễn).
+- Cắt tuyến giáp, xạ trị.
+- Bệnh nội tiết đồng mắc như đái tháo đường type 1.
 
-Phụ nữ mang thai bị nhược giáp nếu được điều trị thay thế thích hợp có thể có kết cục thai kỳ bình thường. Tuy nhiên, nếu tình trạng nhược giáp của thai phụ không được điều trị sẽ làm tăng nguy cơ sẩy thai, tiền sản giật, thai lưu, cân nặng lúc sinh thấp, giảm chỉ số thông minh của trẻ.
+**Tác động nếu không điều trị**:
+- Sẩy thai.
+- Tiền sản giật.
+- Thai lưu.
+- Thai nhẹ cân.
+- Giảm IQ trẻ.
 
 ### Chẩn đoán và điều trị
 
-Tiêu chuẩn quan trọng nhất để chẩn đoán nhược giáp là tăng TSH, ngoài ra có thể thấy $FT_3$ và $FT_4$ giảm. Chẩn đoán được nhược giáp thì phải điều trị ngay với levothyroxine và kiểm tra nồng độ TSH mỗi tháng để chỉnh liều levothyroxine phù hợp.
+- **Chẩn đoán:** Tăng TSH, giảm FT₄, có thể giảm FT₃
+- **Điều trị:** 
+  - **Levothyroxine**, chỉnh liều dựa trên TSH (mỗi 4 tuần).
+  - Mục tiêu giữ TSH trong ngưỡng thấp bình thường theo từng tam cá nguyệt.
 
-### Kết cục sản khoa của
+### Kết cục sản khoa của suy giáp
 
-Thiếu hormone tuyến giáp trong thai kỳ và giai đoạn sơ sinh sớm sẽ gây ra chậm phát triển tâm thần.
-Tỷ lệ mới mắc của nhược giáp bẩm sinh là khoảng 1:4000. Nguyên nhân là do loạn sản tuyến giáp, rối loạn chức năng tuyến giáp, suy giáp do thuốc. Nguyên nhân thường gặp nhất của bướu giáp sơ sinh là do mẹ dùng iod có trong si rô ho. Dạng bướu giáp này thường to và gây tắc nghẽn; khác với dạng bướu giáp do mẹ dùng
-PTU.
+Thiếu hormone tuyến giáp trong thai kỳ và giai đoạn sơ sinh sớm gây ảnh hưởng lớn đến sự phát triển thần kinh, đặc biệt là trong **3 năm đầu đời**. 
+
+- **Tỷ lệ nhược giáp bẩm sinh**: ~1/4000.
+- Nguyên nhân: loạn sản tuyến giáp, rối loạn tổng hợp hormone, dùng thuốc kháng giáp trong thai kỳ.
+- **Bướu giáp sơ sinh**: do mẹ dùng thuốc chứa iod (si rô ho, thuốc cản quang).
+  - Dạng bướu giáp do iod: to, dễ gây tắc nghẽn.
+  - Dạng do PTU: thường không quá lớn.
 
 ## Nguồn tham khảo
 

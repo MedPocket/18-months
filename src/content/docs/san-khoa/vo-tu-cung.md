@@ -27,7 +27,7 @@ Các yếu tố nguy cơ khác ít gặp hơn như sinh giúp khi không đủ �
 
 Tăng co bằng Oxytocin được xem là yếu tố nguy cơ, nhất là khi không được thực hiện tốt hay thực hiện trên thai phụ đa sản.
 
-1 số trường hợp vỡ tử cung được ghi nhận có liên quan đến khởi phát chuyển dạ bằng misoprostol, cả ở người con so và con rạ. _Do nguy cơ này, Bộ Y tế nước ta không cho phép dùng misoprostol để phát khởi chuyển dạ trên thai sống và đủ tháng._
+Một số trường hợp vỡ tử cung được ghi nhận có liên quan đến khởi phát chuyển dạ bằng misoprostol, cả ở người con so và con rạ. _Do nguy cơ này, Bộ Y tế nước ta không cho phép dùng misoprostol để phát khởi chuyển dạ trên thai sống và đủ tháng._
 
 ## Dấu hiệu lâm sàng
 
