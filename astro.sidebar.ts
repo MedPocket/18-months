@@ -58,7 +58,13 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "san-khoa/tuyen-giap-va-thai-ky",
+      {
+        label: "Tuyến giáp và thai kỳ",
+        autogenerate: {
+          directory: "san-khoa/tuyen-giap-va-thai-ky",
+        },
+        collapsed: true,
+      },
       "san-khoa/thieu-mau",
       "san-khoa/sga-iugr",
       {
