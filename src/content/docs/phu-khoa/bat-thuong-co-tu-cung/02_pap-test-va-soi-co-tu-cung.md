@@ -24,7 +24,7 @@ Pap’s test quy ước rẻ hơn, nhưng cả Se và Sp đều thấp. Pap’s 
 1. Không đang ra huyết âm đạo.
 2. Không có tình trạng viêm âm đạo-cổ tử cung cấp tính.
 3. Không đặt thuốc ở âm đạo trong vòng 3 ngày gần đây.
-4. Không giao hợp, không thụt rửa âm đạo trong vòng 48h trước thực hiện phết tế bào.
+4. Không giao hợp, không thụt rửa âm đạo trong vòng 48 giờ trước thực hiện phết tế bào.
 5. Không khám âm đạo bằng tay trước đó, không dùng dầu bôi trơn trước đó.
 
 Phụ nữ mãn kinh nên được dùng estrogen tại chỗ vài ngày trước khi lấy mẫu.

@@ -86,7 +86,7 @@ Nguyên tắc dùng kháng sinh:
 Nhiễm trùng nhẹ:
 
 - Dicloxacillin hoặc Cloxacillin 500mg x 1 viên x 4 lần/ngày, uống trong 10-14 ngày
-- Không đáp ứng trong 24-48h chuyển sang Cephalexin 500mg x 1 viên x 4 lần/ngày, uống trong 10-14 ngày
+- Không đáp ứng trong 24-48 giờ chuyển sang Cephalexin 500mg x 1 viên x 4 lần/ngày, uống trong 10-14 ngày
   <br>Hoặc Cefadroxyl 500mg x 2 viên x 2 lần/ngày, uống 10-14 ngày
   <br>Hoặc Amoxicillin-clavulanate 625mg x 1 viên x 3 lần/ngày, uống 10-14 ngày.
 - Nếu nghi ngờ vi khuẩn kị khí (áp xe dưới quầng vú) phối hợp thêm Clindamycin 300mg x 1 viên x 4 lần/ngày, uống 10-14 ngày.

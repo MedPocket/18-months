@@ -96,8 +96,8 @@ Trước 6 tuần, nồng độ hCG tăng gấp đôi mỗi 2 ngày và đạt �
 
 Động học β-hCG có ích lợi trong 6 tuần đầu thai kỳ khi siêu âm chưa phát hiện vị trí túi thai và chưa xác nhận phôi và hoạt động tim thai:
 
-- β-hCG tăng phù hợp cho biết thai sống trong tử cung. 99.9% thai sống trong tử cung có β-hCG tăng trên 35% mỗi 48h. Tuy nhiên, vẫn có khoảng 21% thai ngoài tử cung có kiểu tăng β-hCG như trên.
-- β-hCG bình nguyên hay tăng ít, dưới 35% mỗi 48h gợi ý đi tìm tình trạng thai ngoài tử cung hay thai trong tử cung có diễn biến bất thường.
+- β-hCG tăng phù hợp cho biết thai sống trong tử cung. 99.9% thai sống trong tử cung có β-hCG tăng trên 35% mỗi 48 giờ. Tuy nhiên, vẫn có khoảng 21% thai ngoài tử cung có kiểu tăng β-hCG như trên.
+- β-hCG bình nguyên hay tăng ít, dưới 35% mỗi 48 giờ gợi ý đi tìm tình trạng thai ngoài tử cung hay thai trong tử cung có diễn biến bất thường.
 - β-hCG giảm gợi ý khả năng là thai trong tử cung nhưng có thể là thai lưu, túi thai trống. β-hCG không cho phép loại trừ khả năng có thai ngoài tử cung.
 - Sau khi sẩy thai tự nhiên, β-hCG huyết thanh sẽ giảm ít nhất 21-35% mỗi 2 ngày. Nếu β-hCG huyết thanh giảm chậm, dưới 20% mỗi 2 ngày thì có nhiều khả năng là 1 trong 2 tình trạng còn tồn tại sản phẩm thụ thai hoặc có thai ngoài tử cung.
 

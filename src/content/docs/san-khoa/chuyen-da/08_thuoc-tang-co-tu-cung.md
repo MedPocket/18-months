@@ -23,7 +23,7 @@ _Bảng điểm Bishop._
 Nếu tổng điểm là:
 
 - 10: tiên lượng sinh trong vòng 2-3h.
-- 7-9: tiên lượng sinh trong 8h.
+- 7-9: tiên lượng sinh trong 8 giờ.
 - 5-6: tiên lượng sinh dè dặt.
 - <5: nguy cơ khởi phát chuyển dạ thất bại.
 
@@ -114,7 +114,7 @@ Khởi phát chuyển dạ: Chỉ sử dụng bằng đường tĩnh mạch, t�
 
 Dự phòng băng huyết sau sinh: Ngay sau sinh kẹp rốn trong sinh thường hay mổ 20IU + 1000mL NaCL 0.9% hay Lactate Ringer tĩnh mạch chảy nhanh tốc độ 10 mL/phút. Sau đó nếu tử cung co hồi tốt duy trì tốc độ 2-4 mL/phút. Hay có thể dùng 10IU oxytocin tiêm bắp ngay sau khi sổ đầu.
 
-Điều trị băng huyết sau sinh: Oxytocin 5-10IU/500mL NaCl 0.9% chảy trong 1h nếu trong giai đoạn cấp. Sau đó duy trì 10IU/500mL NaCl 0.9% mỗi 8h, liều tối đa 150IU.
+Điều trị băng huyết sau sinh: Oxytocin 5-10IU/500mL NaCl 0.9% chảy trong 1h nếu trong giai đoạn cấp. Sau đó duy trì 10IU/500mL NaCl 0.9% mỗi 8 giờ, liều tối đa 150IU.
 
 #### Hấp thu, chuyển hóa và thải trừ
 

@@ -40,7 +40,7 @@ Tắc tia sữa là tình trạng sữa ứ đọng trong các ống dẫn sữa
 
 ### Giảm đau và kháng viêm
 
-- **Ibuprofen** 400–600mg mỗi 6–8h (uống sau ăn).
+- **Ibuprofen** 400–600mg mỗi 6–8 giờ (uống sau ăn).
 - **Paracetamol** 500–1.000mg mỗi 4–6h (tối đa 4g/ngày).
 
 ### Kháng sinh (nếu có viêm)

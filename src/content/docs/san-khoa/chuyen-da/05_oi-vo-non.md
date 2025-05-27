@@ -84,27 +84,27 @@ Với ối vỡ non, thai non tháng phức bộ [Amoxicillin + Acid Clavulanic]
 
 - Lựa chọn 1:
   - Azithromycin 1g (uống) ngay khi nhập viện, và
-  - Ampicillin 2g (tĩnh mạch chậm) mỗi 6h trong 48h, sau đó
-  - Amoxicillin 500mg (uống) mỗi 8h trong 5 ngày.
+  - Ampicillin 2g (tĩnh mạch chậm) mỗi 6h trong 48 giờ, sau đó
+  - Amoxicillin 500mg (uống) mỗi 8 giờ trong 5 ngày.
 - Lựa chọn 2:
   - Ampicillin 1g (uống) ngay khi nhập viện, và
-  - Cefazolin 1g (tĩnh mạch chậm) mỗi 8h trong 48h, sau đó
+  - Cefazolin 1g (tĩnh mạch chậm) mỗi 8 giờ trong 48 giờ, sau đó
   - Cephalexin 500mg (uống) mỗi 6h trong 5 ngày.
 - Trường hợp nguy cơ cao phản ứng phản vệ với Penicillin:
   - Azithromycin 1g (uống) ngay khi nhập viện, và
-  - Clindamycin 900mg (truyền tĩnh mạch) mỗi 8h trong 48h + Gentamicin 5 mg/kg (truyền tĩnh mạch) mỗi 24 giờ trong 48h, sau đó
-  - Clindamycin 300mg (uống) mỗi 8h trong 5 ngày.
+  - Clindamycin 900mg (truyền tĩnh mạch) mỗi 8 giờ trong 48 giờ + Gentamicin 5 mg/kg (truyền tĩnh mạch) mỗi 24 giờ trong 48 giờ, sau đó
+  - Clindamycin 300mg (uống) mỗi 8 giờ trong 5 ngày.
 - Trường hợp dị ứng nặng với Penicillin, GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ:
   - Azithromycin 1g (uống) ngay khi nhập viện, và
-  - Vancomycin 20 mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24 giờ trong 48h. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành 3 nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy >15 mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
+  - Vancomycin 20 mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24 giờ trong 48 giờ. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành 3 nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy >15 mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
 
 :::
 
 Dùng corticosteroids cho mẹ để giảm khả năng xảy ra hội chứng suy hô hấp cấp ở sơ sinh. Dùng ngay cả khi không chắc có đủ thời gian để hoàn thành đủ liều corticosteroids.
 
-Xét nghiệm máu mỗi 48h hoặc khi nghi ngờ có dấu hiệu nhiễm trùng.
+Xét nghiệm máu mỗi 48 giờ hoặc khi nghi ngờ có dấu hiệu nhiễm trùng.
 
-Siêu âm kiểm tra chỉ số ối mỗi 48h nếu ối bình thường, mỗi ngày nếu thiểu ối hoặc nghi ngờ ra nước âm đạo nhiều.
+Siêu âm kiểm tra chỉ số ối mỗi 48 giờ nếu ối bình thường, mỗi ngày nếu thiểu ối hoặc nghi ngờ ra nước âm đạo nhiều.
 
 Đặt mỏ vịt đánh giá tính chất nước ối mỗi 3 ngày.
 
@@ -158,7 +158,7 @@ Nhiễm trùng ối là nhiễm trùng ngoại khoa. Khi có nhiễm trùng ối
 
 Khi đã có nhiễm trùng ối, nếu không chấm dứt thai kỳ, tình trạng nhiễm trùng sẽ diễn tiến nặng dần, đưa đến nhiễm trùng huyết và tử vong.
 
-Sử dụng kháng sinh phổ rộng và phối hợp đến sau sinh và đã kiểm soát được nhiễm trùng, ít nhất là đã được 48h liên tục không dấu nhiễm trùng.
+Sử dụng kháng sinh phổ rộng và phối hợp đến sau sinh và đã kiểm soát được nhiễm trùng, ít nhất là đã được 48 giờ liên tục không dấu nhiễm trùng.
 
 Đánh giá tình trạng cổ tử cung trước khởi phát chuyển dạ. Cuộc mổ có thể là nguy hiểm hơn cuộc sinh, do khả năng vấy bẩn phúc mạc. Cần cân nhắc lợi ích và nguy cơ của sinh đường âm đạo và sinh mổ.
 

@@ -112,7 +112,7 @@ Liệu pháp corticosteroids từ tuần 28 đến trước 34 tuần.
 
 Truyền máu khi Hb <10g/dL.
 
-Có thể xuất viện trong vòng 48h không kèm theo yếu tố nguy cơ nào khác.
+Có thể xuất viện trong vòng 48 giờ không kèm theo yếu tố nguy cơ nào khác.
 
 Chấm dứt thai kỳ:
 

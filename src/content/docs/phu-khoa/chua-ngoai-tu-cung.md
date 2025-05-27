@@ -40,9 +40,9 @@ Cận lâm sàng:
 
 - Định lượng β-hCG:
 
-  - Thực hiện 2 lần, mỗi lần cách nhau 48h.
+  - Thực hiện 2 lần, mỗi lần cách nhau 48 giờ.
   - Nếu β-hCG tăng tối thiểu 60% theo dõi thai trong tử cung.
-  - Lặp lại β-hCG 2-7 ngày sau đó tùy vào sự thay đổi của β-hCG cách nhau 48h.
+  - Lặp lại β-hCG 2-7 ngày sau đó tùy vào sự thay đổi của β-hCG cách nhau 48 giờ.
 
 - Siêu âm:
 

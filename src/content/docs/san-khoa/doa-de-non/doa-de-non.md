@@ -254,7 +254,7 @@ Chống chỉ định:
 Liều dùng:
 
 - Liều tấn công 20-30mg (dùng viên tác dụng nhanh), hiệu quả giảm cơn gò sau 20-30 phút.
-- Sau 10-20mg mỗi 3-8h trong tối đa 48h. Liều tối đa 180 mg/ngày.
+- Sau 10-20mg mỗi 3-8 giờ trong tối đa 48 giờ. Liều tối đa 180 mg/ngày.
 
 Tác dụng phụ:
 
@@ -312,7 +312,7 @@ Theo dõi:
 
 Thời gian điều trị:
 
-- Điều trị đường tĩnh mạch có thể kéo dài 24-48h.
+- Điều trị đường tĩnh mạch có thể kéo dài 24-48 giờ.
 - Duy trì:
   - Ventolin (2 viênmg) 4-6 viên/ngày (uống).
   - Salbutamol (viên 1mg) 1-3 viên/ngày (đặt hậu môn).

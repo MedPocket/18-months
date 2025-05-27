@@ -59,7 +59,7 @@ Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc 
 
 ### NSAIDs hỗ trợ
 
-- **Ibuprofen**: 400–600mg mỗi 6–8h, giúp giảm đau và viêm khi vú căng tức.
+- **Ibuprofen**: 400–600mg mỗi 6–8 giờ, giúp giảm đau và viêm khi vú căng tức.
 
 ## Tóm tắt
 

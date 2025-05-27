@@ -479,7 +479,7 @@ Tiêu hủy u xơ bằng sóng cao tần (Radiofrequency Myolysis).
 Phụ nữ có thai và có u xơ mà có triệu chứng đau cần nhập viện điều trị:
 
 - Ban đầu: Hỗ trợ và giảm đau bằng Acetaminophen.
-- Những thuốc giảm đau bằng Opioid liều chuẩn hoặc giảm đau Non-steroids kéo dài trong 48h có thể dùng nếu như các biện pháp khác không hiệu quả.
+- Những thuốc giảm đau bằng Opioid liều chuẩn hoặc giảm đau Non-steroids kéo dài trong 48 giờ có thể dùng nếu như các biện pháp khác không hiệu quả.
 - Giảm đau với Ibuprofen, Indomethacin chỉ nên dùng với thai nhỏ hơn 32 tuần do nguy cơ gây đóng ống động mạch sớm, tăng áp phổi sơ sinh, đa ối và thậm chí rối loạn chức năng tiểu cầu thai nhi.
 - Mổ lấy thai trên thai phụ có u xơ chỉ nên thực hiện khi có chỉ định sản khoa (u xơ tiền đạo) hoặc chỉ định liên quan đến thai (ngôi bất thường, chuyển dạ ngưng tiến triển, suy thai cấp).
 
