@@ -1,71 +1,7 @@
 ---
-title: Thiếu máu hồng cầu nhỏ nhược sắc
-description: Thiếu máu hồng cầu nhỏ nhược sắc.
+title: Thalassemia
+description: Thalassemia.
 ---
-
-Thiếu máu trong thai kỳ ảnh hưởng đến cả mẹ và con.
-
-## Thay đổi huyết học, tuần hoàn trong thai kỳ
-
-Thể tích huyết thanh tăng từ tuần thứ 6 trong thai kì và ổn định ở tuần 28-30. Tổng lượng huyết thanh tăng khoảng 1250 ml đến cuối thai kì. Lượng huyết thanh tăng trong thai kỳ liên quan đến cân nặng của thai và số thai hơn là cân nặng của sản phụ trước sinh.
-
-![Thay đổi thể tích huyết thanh và hồng cầu trong thai kỳ](../../../assets/san-khoa/thieu-mau/thay-doi-the-tich-huyet-thanh-va-huyet-cau-trong-thai-ky.png)
-
-Với thai phụ, thiếu máu làm tăng tỷ lệ tử vong khi sinh, tăng nguy cơ băng huyết sau sinh, nhiễm trùng hậu sản…
-
-Với thai nhi, thiếu máu làm tăng nguy cơ sẩy thai, thai chậm tăng trưởng trong tử cung, tăng tỷ lệ chết chu sinh. Riêng Thalassemia ở thai nhi có thể ảnh hưởng đến thai nhi ở các mức độ khác nhau, từ không đe dọa đến đe dọa nặng nề hay gây tử vong cho thai nhi/sơ sinh.
-
-## Phân loại thiếu máu trong thai kỳ
-
-Phân loại thiếu máu theo CDC:
-
-- Hb <10.5g/dL trong 3 tháng giữa.
-- Hb <11g/dL trong 3 tháng đầu và 3 tháng cuối.
-- Hb <10.5g/dL trong 3 tháng giữa.
-- Hb <11g/dL trong 3 tháng đầu và 3 tháng cuối.
-
-Có 3 nhóm nguyên nhân gây thiếu máu trong thai kỳ:
-
-1. Do thiếu sắt và/hoặc thiếu acid folic.
-2. Do mất máu.
-3. Do tán huyết (tán huyết di truyền hoặc mắc phải).
-
-## Thiếu máu thiếu sắt
-
-### Hệ quả
-
-Hệ quả của thiếu máu thiếu sắt, thiếu máu thiếu acid folic
-
-![Hệ quả của thiếu máu thiếu sắt, thiếu acid folic](../../../assets/san-khoa/thieu-mau/thieu-mau-thieu-sat-thieu-acid-folic-va-he-qua.png)
-
-### Chẩn đoán
-
-:::note[Tiêu chuẩn chẩn đoán thiếu máu thiếu sắt]
-Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic trong thai kỳ dựa trên huyết đồ và dựa trên nồng độ ferritin huyết thanh:
-
-- Lâm sàng: Thiếu máu nhẹ, thai phụ thường than chóng mặt, hoa mắt, nhức đầu, ù tai, khó thở khi gắng sức, tim đập nhanh. Thiếu máu trung bình, nặng, khám sẽ phát hiện da khô, niêm nhạt, môi khô, lưỡi nứt nẻ, âm thổi thâm thu ở mỏm tim, tổn thương thần kinh.
-- Cận lâm sàng: Huyết đồ cho thấy nồng độ Hb <11g/dL, Hct <30%, MCV (mean cell volume) <80 fL, MCH (mean cell hemoglobin)<28 pg, MCHC (mean cell hemoglobin concentration) <32g/dL. Ferritin huyết thanh <10-50 µg/L. Ferritin huyết thanh <10 µg/L trong trường hợp nặng.
-- Cận lâm sàng: Huyết đồ cho thấy nồng độ Hb <11g/dL, Hct <30%, MCV (mean cell volume) <80 fL, MCH (mean cell hemoglobin)<28 pg, MCHC (mean cell hemoglobin concentration) <32g/dL. Ferritin huyết thanh <10-50 µg/L. Ferritin huyết thanh <10 µg/L trong trường hợp nặng.
-
-:::
-
-### Điều trị
-
-Thiếu máu thiếu sắt nhẹ-trung bình cần được điều trị với 100-200mg sắt nguyên tố/ngày, uống trong các bữa ăn.
-
-Thiếu máu do thiếu acid folic cần được điều trị với 2-5mg acid folic/ngày, uống.
-
-Thiếu máu thiếu sắt nặng cần được truyền máu và bổ sung sắt bằng đường truyền tĩnh mạch hoặc tiêm tĩnh mạch chậm dung dịch Iron Dextran Injection (50mL). Sau 1 tuần cần xét nghiệm huyết đồ, nếu Hb tăng 0.8g/dL và HCt tăng 1% mỗi ngày sau 1 tuần là điều trị có đáp ứng. Vẫn tiếp tục điều trị duy trì cùng liều này cho đến lúc sinh, sau sinh và cho con bú.
-
-### Dự phòng
-
-ACOG đề nghị bổ sung sắt nguyên tố cho thai phụ trong suốt thai kỳ, với liều lượng tùy tình trạng thiếu máu:
-
-![Bổ sung sắt trong thai kỳ](../../../assets/san-khoa/thieu-mau/bo-sung-sat-trong-thai-ky.png)
-
-WHO đề nghị phụ nữ nên bổ sung 60mg sắt nguyên tố và 200 mcg acid folic ngay từ khi mang thai cho đến suốt thai kỳ nhằm phòng ngừa thiếu máu thiếu sắt trong thai kỳ.
-
-## Thalassemia trong thai kỳ
 
 Thalassemia là bệnh lý thiếu máu do sự giảm sản xuất chọn lọc chuỗi globulin. Thalassemia là bệnh hemoglobin di truyền đơn gene thể lặn trên nhiễm sắc thể thường theo quy luật Mendel.
 
@@ -101,7 +37,7 @@ Hội chứng thai nước (Hb Bart’s) do mất hết cùng lúc cả 4 gene �
 - Không có chuỗi α, cả 4 chuỗi Hb đều là chuỗi γ. Chuỗi γ có ái lực cực mạnh với oxy, và do đó hầu như không phóng thích oxy cho mô thai. Thai nhi bị phù, tràn dịch đa màng.
 - Thường tử vong từ tuần 30 cho đến ngay sau sinh với đặc điểm lâm sàng gồm thiếu máu nặng, gan lách to, phù toàn thân, suy tim kèm các dị tật bẩm sinh khác.
 
-![Thai phù trong hội chứng Bart](../../../assets/san-khoa/thieu-mau/thai-phu-trong-hoi-chung-Bart.png)
+![Thai phù trong hội chứng Bart](../../../assets/san-khoa/thieu-mau-thai-ky/thai-phu-trong-hoi-chung-Bart.png)
 
 Bệnh Hemoglobin H do mất 3 gene α-globin. Thiếu máu hồng cầu nhỏ nhược sắc, lách to, nồng độ HbA2 bình thường hoặc tăng nhẹ.
 
@@ -132,15 +68,18 @@ Bước 2. Phân biệt với thiếu máu thiếu sắt bằng định lượng
 
 Bước 3. Định hướng phân loại Thalassemia bằng điện di Hb.
 
-![Kết quả điện di Hb ở người trưởng thành](../../../assets/san-khoa/thieu-mau/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
+![Kết quả điện di Hb ở người trưởng thành](../../../assets/san-khoa/thieu-mau-thai-ky/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
+_Kết quả điện di Hb ở người trưởng thành._
 
 Bước 4. Xác định kiểu đột biến gien Thalassemia ở 2 vợ chồng bằng khảo sát di truyền nhằm xác định nguy cơ Thalassemia thể nặng trên thai.
 
 Bước 5. Khảo sát di truyền trên thai (sinh thiết gai rau, chọc ối, lấy máu cuống rốn) nếu thai có nguy cơ bị Thalassemia thể nặng.
 
-![Chiến lược tầm soát Thalassemia](../../../assets/san-khoa/thieu-mau/chien-luoc-tam-soat-Thalassemia-1.png)
+![Chiến lược tầm soát Thalassemia](../../../assets/san-khoa/thieu-mau-thai-ky/chien-luoc-tam-soat-Thalassemia-1.png)
+_Chiến lược tầm soát Thalassemia 1._
 
-![Chiến lược tầm soát Thalassemia](../../../assets/san-khoa/thieu-mau/chien-luoc-tam-soat-Thalassemia-2.png)
+![Chiến lược tầm soát Thalassemia](../../../assets/san-khoa/thieu-mau-thai-ky/chien-luoc-tam-soat-Thalassemia-2.png)
+_Chiến lược tầm soát Thalassemia 2._
 
 ### Quản lý các thai phụ có đồng hợp tử β-Thalassemia
 
@@ -169,7 +108,3 @@ Trong chuyển dạ, nếu thai kì không có biến chứng có thể theo dõ
 Các phương pháp tránh thai: Không sử dụng ngừa thai bằng dụng cụ tử cung vì tăng nguy cơ nhiễm trùng, không sử dụng thuốc ngừa thai phối hợp vì tăng nguy cơ thuyên tắc mạch, trong hầu hết trường hợp nên ngừa thai bằng các phương pháp tránh thai chỉ chứa progesterone hoặc bao cao su.
 
 Ngày nay, mong muốn tránh không mang thai và sinh ra những thai nhi có khả năng bị Thalassemia năng là khả thi. Phôi thu được từ thụ tinh trong ống nghiệm sẽ được nuôi đến giai đoạn phôi nang. Thực hiện sinh thiết phôi nang, khảo sát với các probes của Thalassemia theo phương pháp chẩn đoán di truyền trước khi làm tổ PGD, rồi mới được chuyển vào lòng tử cung. Tế bào máu cuống rốn của trẻ sơ sinh sẽ được giữ lưu trữ lại và nuôi cấy để cấy ghép cho các bệnh nhân.
-
-## Nguồn tham khảo
-
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
