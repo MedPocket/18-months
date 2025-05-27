@@ -258,9 +258,9 @@ Do khả năng u sẽ thoái triển khi vào mãn kinh, nên có thể căn c�
 
 Không sử dụng các trường hợp có bệnh lý động máu bẩm sinh hoặc tiền căn huyết khối.
 
-Liều dùng Tranexamic 250mg hoặc 500mg, 1 viên x 3 lần/ngày đến khi ngưng xuất huyết. Tối đa 750-2000mg/ngày hoặc 250-500mg/ngày tiêm bắp hoặc tiêm tĩnh mạch.
+Liều dùng Tranexamic 250mg hoặc 500mg, 1 viên x 3 lần/ngày đến khi ngưng xuất huyết. Tối đa 750-2000 mg/ngày hoặc 250-500 mg/ngày tiêm bắp hoặc tiêm tĩnh mạch.
 
-Nếu xuất huyết trong hay sau phẫu thuật 500-100mg/lần tiêm tĩnh mạch hoặc 500-2500mg pha trong 50mL Glucose 5% hay dung dịch điện giải, truyền nhỏ giọt tĩnh mạch 24 giờ.
+Nếu xuất huyết trong hay sau phẫu thuật 500-100 mg/lần tiêm tĩnh mạch hoặc 500-2500mg pha trong 50mL Glucose 5% hay dung dịch điện giải, truyền nhỏ giọt tĩnh mạch 24 giờ.
 
 Tác dụng phụ thống kinh, nôn ói, buồn nôn.
 

@@ -129,7 +129,7 @@ Cầm máu vị trí rau bám:
 
 Là cấp cứu sản khoa cần mổ lấy thai cấp cứu.
 
-Cần lập 1-2 đường truyền tĩnh mạch. Truyền Ringer lactated hoặc NaCl 0.9% nhằm duy trì huyết động, có nước tiểu, ít nhất 30mL/h.
+Cần lập 1-2 đường truyền tĩnh mạch. Truyền Ringer lactated hoặc NaCl 0.9% nhằm duy trì huyết động, có nước tiểu, ít nhất 30 mL/h.
 
 Xét nghiệm nhóm máu, dự trù 2-4 đơn vị máu. Truyền khi lượng máu mất quá 30% (xuất huyết độ III) hoặc Hb <10g/dL.
 

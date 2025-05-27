@@ -91,12 +91,12 @@ Nhiễm trùng nhẹ:
   <br>Hoặc Amoxicillin-clavulanate 625mg x 1 viên x 3 lần/ngày, uống 10-14 ngày.
 - Nếu nghi ngờ vi khuẩn kị khí (áp xe dưới quầng vú) phối hợp thêm Clindamycin 300mg x 1 viên x 4 lần/ngày, uống 10-14 ngày.
   <br>Hoặc Metronidazole 250mg 2 viên x 2 lần/ngày, uống 10-14 ngày.
-- Nếu nghi ngờ tụ cầu kháng Methicillin (MRSA): Trimethoprim/Sulfamethoxazole 160mg/800mg x 1 viên x 2 lần/ngày, uống 10-14 ngày.
+- Nếu nghi ngờ tụ cầu kháng Methicillin (MRSA): Trimethoprim/Sulfamethoxazole 160 mg/800mg x 1 viên x 2 lần/ngày, uống 10-14 ngày.
   <br>Hoặc Clindamycin 300mg x 1 viên x 4 lần/ngày, uống 10-14 ngày.
 
 Nhiễm trùng nặng:
 
-- Vancomycin (15mg/kg truyền tĩnh mạch mỗi 12h).
+- Vancomycin (15 mg/kg truyền tĩnh mạch mỗi 12h).
 - Có thể phối hợp Cephalosporin thế hệ 3 hoặc beta-lactam/chất ức chế beta-lactamase.
 
 :::caution[Lưu ý]

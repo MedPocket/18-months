@@ -130,11 +130,11 @@ Bất cứ cuộc sinh bình thường nào cũng luôn có chảy máu trong gi
 
 Lượng máu mất được tính theo công thức $EBV\frac{H_0 - H_f}{H_0}$. Trong đó $H_0$ là hematocrit ban đầu, $H_f$ là hematocrit cuối cùng. EBV là lượng máu ước tính; trọng lượng (kg) × thể tích máu trung bình. Dựa trên tuổi, giá trị thể tích máu trung bình được sử dụng để tính EBV như sau:
 
-- Trẻ sơ sinh đẻ non: 95-100mL/kg.
-- Trẻ sơ sinh đủ tháng: 85-90mL/kg.
-- Trẻ em: 80mL/kg.
-- Đàn ông trưởng thành: 70-75mL/kg.
-- Phụ nữ trưởng thành: 65-70mL/kg.
+- Trẻ sơ sinh đẻ non: 95-100 mL/kg.
+- Trẻ sơ sinh đủ tháng: 85-90 mL/kg.
+- Trẻ em: 80 mL/kg.
+- Đàn ông trưởng thành: 70-75 mL/kg.
+- Phụ nữ trưởng thành: 65-70 mL/kg.
 
 ## Điều trị và phòng ngừa
 

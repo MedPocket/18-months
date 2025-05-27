@@ -211,9 +211,9 @@ Khi xác định thất bại điều trị, sử dụng phác đồ sau:
 
 Điều trị viêm kết mạc mắt do lậu cầu ở trẻ sơ sinh, lựa chọn 1 trong các phác đồ sau và chú ý theo dõi các tác dụng không mong muốn của thuốc:
 
-- Ceftriaxon 50mg/kg (tối đa 150mg), tiêm bắp liều duy nhất.
-- Kanamycin 25mg/kg (tối đa 75mg), tiêm bắp liều duy nhất.
-- Spectinomycin 25mg/kg (tối đa 75mg), tiêm bắp liều duy nhất.
+- Ceftriaxon 50 mg/kg (tối đa 150mg), tiêm bắp liều duy nhất.
+- Kanamycin 25 mg/kg (tối đa 75mg), tiêm bắp liều duy nhất.
+- Spectinomycin 25 mg/kg (tối đa 75mg), tiêm bắp liều duy nhất.
 
 Điều trị dự phòng viêm kết mạc mắt do lậu và Chlamydia cho tất cả trẻ sơ sinh ngay sau sinh và cho cả 2 mắt. Lựa chọn 1 trong các phác đồ sau:
 

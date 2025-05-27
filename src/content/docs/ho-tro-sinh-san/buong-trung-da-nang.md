@@ -80,10 +80,10 @@ Có 3 trong 5 tiêu chuẩn
 | Yếu tố nguy cơ                                           | Ngưỡng bất thường                                 |
 | -------------------------------------------------------- | ------------------------------------------------- |
 | 1. Béo phì ở bụng (đo vòng eo)                           |>80cm                                            |
-| 2. Triglycerides                                         | ≥150mg/dL                                       |
-| 3. HDL–C                                                 |<50mg/dL                                        |
+| 2. Triglycerides                                         | ≥150 mg/dL                                       |
+| 3. HDL–C                                                 |<50 mg/dL                                        |
 | 4. Huyết áp                                              | ≥130 / ≥85mmHg                                 |
-| 5. Đường huyết lúc đói và 2h sau làm test dung nạp đường | 110-126mg/dL và/hay glucose sau 2h 140-199mg/dL |
+| 5. Đường huyết lúc đói và 2h sau làm test dung nạp đường | 110-126 mg/dL và/hay glucose sau 2h 140-199 mg/dL |
 :::
 
 ### Tăng Luteinizing Hormone (LH)
@@ -129,8 +129,8 @@ Chế độ ăn giảm năng lượng (giảm chất béo, tăng chất xơ) và
 
 Clomiphene citrate là lựa chọn đầu tay cho những phụ nữ hội chứng buồng trứng đa nang hiếm muộn, không có các yếu tố đi kèm khác như bất thường tinh trùng hay tổn thương, tắc ống dẫn trứng. Các yếu tố chính tiên lượng kết quả điều trị với CC là béo phì, cường androgen và tuổi của người phụ nữ. Đề kháng CC xảy ra trong 30% các người bệnh hội chứng buồng trứng đa nang.
 
-Liều đầu của CC thường là 50mg/ngày trong 5 ngày, bắt đầu từ ngày 2-5 của chu kỳ. Liều tối đa được khuyến cáo là 150mg/ngày, không có bằng chứng y học cho thấy hiệu quả gây phóng noãn đạt được nếu sử dụng liều cao hơn. Thời gian điều trị nên giới hạn tới 6 chu kỳ gây phóng noãn, không baoh vượt quá 12 chu kỳ trong suốt cuộc đời sinh sản và cần có thời gian nghỉ giữa 3 chu kỳ kích thích buồng trứng liên tục. Nếu vẫn không có kết quả, nên cân nhắc sử dụng phương pháp khác gây phóng noãn như gonadotropin hay nội soi đốt điểm buồng trứng đa nang.
-Liều đầu của CC thường là 50mg/ngày trong 5 ngày, bắt đầu từ ngày 2-5 của chu kỳ. Liều tối đa được khuyến cáo là 150mg/ngày, không có bằng chứng y học cho thấy hiệu quả gây phóng noãn đạt được nếu sử dụng liều cao hơn. Thời gian điều trị nên giới hạn tới 6 chu kỳ gây phóng noãn, không baoh vượt quá 12 chu kỳ trong suốt cuộc đời sinh sản và cần có thời gian nghỉ giữa 3 chu kỳ kích thích buồng trứng liên tục. Nếu vẫn không có kết quả, nên cân nhắc sử dụng phương pháp khác gây phóng noãn như gonadotropin hay nội soi đốt điểm buồng trứng đa nang.
+Liều đầu của CC thường là 50 mg/ngày trong 5 ngày, bắt đầu từ ngày 2-5 của chu kỳ. Liều tối đa được khuyến cáo là 150 mg/ngày, không có bằng chứng y học cho thấy hiệu quả gây phóng noãn đạt được nếu sử dụng liều cao hơn. Thời gian điều trị nên giới hạn tới 6 chu kỳ gây phóng noãn, không baoh vượt quá 12 chu kỳ trong suốt cuộc đời sinh sản và cần có thời gian nghỉ giữa 3 chu kỳ kích thích buồng trứng liên tục. Nếu vẫn không có kết quả, nên cân nhắc sử dụng phương pháp khác gây phóng noãn như gonadotropin hay nội soi đốt điểm buồng trứng đa nang.
+Liều đầu của CC thường là 50 mg/ngày trong 5 ngày, bắt đầu từ ngày 2-5 của chu kỳ. Liều tối đa được khuyến cáo là 150 mg/ngày, không có bằng chứng y học cho thấy hiệu quả gây phóng noãn đạt được nếu sử dụng liều cao hơn. Thời gian điều trị nên giới hạn tới 6 chu kỳ gây phóng noãn, không baoh vượt quá 12 chu kỳ trong suốt cuộc đời sinh sản và cần có thời gian nghỉ giữa 3 chu kỳ kích thích buồng trứng liên tục. Nếu vẫn không có kết quả, nên cân nhắc sử dụng phương pháp khác gây phóng noãn như gonadotropin hay nội soi đốt điểm buồng trứng đa nang.
 
 Đề kháng với Clomiphene citrate được định nghĩa là những bệnh nhân không phóng noãn sau 3-6 chu kỳ điều trị với Clomiphene citrate.
 
@@ -168,6 +168,6 @@ Thụ tinh trong ống nghiệm là chọn lựa sau khi thất bại với CC, 
 
 Phác đồ GnRH antagonist là phác đồ lựa chọn để kích thích buồng trứng cho người mắc hội chứng buồng trứng đa nang do làm giảm quá kích buồng trứng giảm hơn so với phác đồ dài sử dụng GnRH agonist. Đồng thời với phác đồ GnRH antagonist, hội chứng quá kích buồng trứng có thể được loại trừ gần như hoàn toàn bằng cách thay thế hCG bằng GnRH agonist để khởi động trưởng thành noãn.
 
-Metformin liều 1500mg/ngày, kéo dài khoảng 8 tuần trước thụ tinh trong ống nghiệm có thể làm giảm nguy cơ hội chứng quá kích buồng trứng .
+Metformin liều 1500 mg/ngày, kéo dài khoảng 8 tuần trước thụ tinh trong ống nghiệm có thể làm giảm nguy cơ hội chứng quá kích buồng trứng .
 
 Trưởng thành noãn trong ống nghiệm (IVM) là kỹ thuật chọc hút lấy noãn non từ buồng trứng không kích thích buồng trứng, nuôi cấy bên ngoài cơ thể tạo noãn trưởng thành, sau đó cho thụ tinh với tinh trùng tạo phôi và chuyển phôi vào buồng tử cung. Kỹ thuật này tránh được bất lợi của kích thích buồng trứng trong thụ tinh trong ống nghiệm ở người bị hội chứng buồng trứng đa nang và loại trừ nguy cơ hội chứng quá kích buồng trứng.

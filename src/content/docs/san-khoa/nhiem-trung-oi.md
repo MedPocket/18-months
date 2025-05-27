@@ -38,7 +38,7 @@ Tiền căn nhiễm trùng ối.
 |---|---|
 |Mẹ sốt đơn thuần|Nhiệt độ mẹ sốt từ 38°C - 38.9°C không có nguyên nhân khác, tình trạng sốt có thể kéo dài hoặc không.|
 |Nghi ngờ nhiễm trùng ối|Sốt không có nguyên nhân cụ thể, kết hợp 1 hoặc các yếu tố sau:<br>1. Tim thai cơ bản >160 lần/phút trong ≥10 phút.<br>2. Bạch cầu máu mẹ >15 000/mm³, không điều trị corticosteroids, công thức bạch cầu chuyển trái (trường hợp dùng corticosteroids liều cao có thể xét nghiệm lại 48h sau liều cuối cùng).<br>3. Dịch đục chảy ra từ lỗ ngoài cổ tử cung qua đặt mỏ vịt.|
-|Xác định nhiễm trùng ối|Dấu hiệu nghi ngờ nhiễm trùng ối kết hợp với 1 hoặc nhiều kết quả xét nghiệm dịch ối sau:<br>1. Nhuộm Gram dịch ối có vi khuẩn.<br>2. Giảm nồng độ glucose ≤14mg/dL.<br>3. Tăng bạch cầu dịch ối > 30 tế bào/mm³ (không lẫn máu).|
+|Xác định nhiễm trùng ối|Dấu hiệu nghi ngờ nhiễm trùng ối kết hợp với 1 hoặc nhiều kết quả xét nghiệm dịch ối sau:<br>1. Nhuộm Gram dịch ối có vi khuẩn.<br>2. Giảm nồng độ glucose ≤14 mg/dL.<br>3. Tăng bạch cầu dịch ối > 30 tế bào/mm³ (không lẫn máu).|
 :::
 
 :::caution[Lưu ý]
@@ -93,7 +93,7 @@ Xác định nhiễm trùng lan rộng bao gồm nhiễm trùng vùng chậu, nh
 
 Chọn 1 trong các kháng sinh sau đây:
 
-- Ampicillin 2g tiêm tĩnh mạch mỗi 6h + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24 giờ (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h), hoặc
+- Ampicillin 2g tiêm tĩnh mạch mỗi 6h + Gentamicin 5 mg/kg truyền tĩnh mạch mỗi 24 giờ (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h), hoặc
 - Ampicillin - sulbactam 3g tiêm tĩnh mạch mỗi 6h, hoặc
 - Cefoxitin 2g tiêm tĩnh mạch mỗi 8h, hoặc
 - Cefotetan 2g tiêm tĩnh mạch mỗi 12h, hoặc
@@ -101,11 +101,11 @@ Chọn 1 trong các kháng sinh sau đây:
 
 #### Lựa chọn 2: Nếu dị ứng nhẹ với Penicillin
 
-Cefazolin 2g tiêm tĩnh mạch mỗi 8h + Gentamicin 5mg/kg truyền tĩnh mạch mỗi 24 giờ (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h).
+Cefazolin 2g tiêm tĩnh mạch mỗi 8h + Gentamicin 5 mg/kg truyền tĩnh mạch mỗi 24 giờ (sau mổ lấy thai, thêm Clindamycin 900mg hoặc Metronidazole 500mg truyền tĩnh mạch mỗi 8h).
 
 #### Lựa chọn 3: Nếu dị ứng nặng với Penicillin
 
-Clindamycin 900mg truyền tĩnh mạch 8h hoặc Vancomycin 1g truyền tĩnh mạch mỗi 12h và Gentamicin truyền tĩnh mạch 5mg/kg truyền tĩnh mạch mỗi 24 giờ.
+Clindamycin 900mg truyền tĩnh mạch 8h hoặc Vancomycin 1g truyền tĩnh mạch mỗi 12h và Gentamicin truyền tĩnh mạch 5 mg/kg truyền tĩnh mạch mỗi 24 giờ.
 
 :::caution[Lưu ý]
 Vancomycin chỉ nên sử dụng trong trường hợp:

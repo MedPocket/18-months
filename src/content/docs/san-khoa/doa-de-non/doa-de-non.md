@@ -231,9 +231,9 @@ Chống chỉ định:
 
 Liều dùng:
 
-- Bước 1: Liều tấn công lọ 1 (37.5mg/5mL) lấy 6.75mg (0.9mL) pha trong 10mL Ringer lactate tiêm tĩnh mạch chậm >1 phút (còn 4.1mL).
-- Bước 2: Liều duy trì với lọ 1 còn 30.75mg (4.1mL) pha 36.9mL Ringer lactate truyền bơm tiêm điện 24mL/h. Sau đó pha lọ 2 (37.5mg/5mL) trong 45mL Ringer lactate truyền bơm tiêm điện 24mL/h trong 3h đầu.
-- Bước 3: Còn 19mL ở bước 2 truyền bơm tiêm điện 8mL/h. Từ lọ 3 pha 45mL Ringer lactate được 50mL truyền với tốc độ 8mL/h. Thời gian dùng tối đa là 45h.
+- Bước 1: Liều tấn công lọ 1 (37.5 mg/5mL) lấy 6.75mg (0.9mL) pha trong 10mL Ringer lactate tiêm tĩnh mạch chậm >1 phút (còn 4.1mL).
+- Bước 2: Liều duy trì với lọ 1 còn 30.75mg (4.1mL) pha 36.9mL Ringer lactate truyền bơm tiêm điện 24 mL/h. Sau đó pha lọ 2 (37.5 mg/5mL) trong 45mL Ringer lactate truyền bơm tiêm điện 24 mL/h trong 3h đầu.
+- Bước 3: Còn 19mL ở bước 2 truyền bơm tiêm điện 8 mL/h. Từ lọ 3 pha 45mL Ringer lactate được 50mL truyền với tốc độ 8 mL/h. Thời gian dùng tối đa là 45h.
 
 Tác dụng phụ thường nhẹ như buồn nôn, nhức đầu, chóng mặt, bừng nóng, nôn, nhịp tim nhanh, dị ứng thuốc.
 
@@ -254,7 +254,7 @@ Chống chỉ định:
 Liều dùng:
 
 - Liều tấn công 20-30mg (dùng viên tác dụng nhanh), hiệu quả giảm cơn gò sau 20-30 phút.
-- Sau 10-20mg mỗi 3-8h trong tối đa 48h. Liều tối đa 180mg/ngày.
+- Sau 10-20mg mỗi 3-8h trong tối đa 48h. Liều tối đa 180 mg/ngày.
 
 Tác dụng phụ:
 
@@ -295,8 +295,8 @@ Chống chỉ định:
 Liều dùng:
 
 - Hạn chế đường truyền dịch nhất trong trường hợp song thai hay có điều trị corticoids vì dễ nguy cơ phù phổi cấp.
-- Dùng bơm tiêm điện pha Salbutamol 5mg/5mL trong 95mL NaCl 0.9%, bơm 12mL/h (10 mcg/phút), tăng 4mL/h (3.3 mcg/phút) mỗi 30 phút đến khi cắt cơn gò hoặc nhịp tim mẹ ≥120 nhịp/phút hoặc tốc độ truyền tối đa 36mL/h (30 mcg/phút).
-- Truyền tĩnh mạch Salbutamol 5mg/5mL pha trong Glucose 5% (nồng độ 10 mcg/mL), tốc độ 60mL/h (20 giọt/phút, 10 mcg/phút), tăng thêm 20mL/h (7 giọt/phút, 3.3 mcg/phút) mỗi 30 phút đến khi cắt cơn gò hoặc nhịp tim mẹ ≥120 nhịp/phút hoặc tốc độ truyền tối đa 180mL/h (60 giọt/phút, 30 mcg/phút).
+- Dùng bơm tiêm điện pha Salbutamol 5 mg/5mL trong 95mL NaCl 0.9%, bơm 12 mL/h (10 mcg/phút), tăng 4 mL/h (3.3 mcg/phút) mỗi 30 phút đến khi cắt cơn gò hoặc nhịp tim mẹ ≥120 nhịp/phút hoặc tốc độ truyền tối đa 36 mL/h (30 mcg/phút).
+- Truyền tĩnh mạch Salbutamol 5 mg/5mL pha trong Glucose 5% (nồng độ 10 mcg/mL), tốc độ 60 mL/h (20 giọt/phút, 10 mcg/phút), tăng thêm 20 mL/h (7 giọt/phút, 3.3 mcg/phút) mỗi 30 phút đến khi cắt cơn gò hoặc nhịp tim mẹ ≥120 nhịp/phút hoặc tốc độ truyền tối đa 180 mL/h (60 giọt/phút, 30 mcg/phút).
 
 Tác dụng phụ:
 

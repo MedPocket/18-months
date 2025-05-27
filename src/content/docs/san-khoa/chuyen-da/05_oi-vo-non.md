@@ -92,11 +92,11 @@ Với ối vỡ non, thai non tháng phức bộ [Amoxicillin + Acid Clavulanic]
   - Cephalexin 500mg (uống) mỗi 6h trong 5 ngày.
 - Trường hợp nguy cơ cao phản ứng phản vệ với Penicillin:
   - Azithromycin 1g (uống) ngay khi nhập viện, và
-  - Clindamycin 900mg (truyền tĩnh mạch) mỗi 8h trong 48h + Gentamicin 5mg/kg (truyền tĩnh mạch) mỗi 24 giờ trong 48h, sau đó
+  - Clindamycin 900mg (truyền tĩnh mạch) mỗi 8h trong 48h + Gentamicin 5 mg/kg (truyền tĩnh mạch) mỗi 24 giờ trong 48h, sau đó
   - Clindamycin 300mg (uống) mỗi 8h trong 5 ngày.
 - Trường hợp dị ứng nặng với Penicillin, GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ:
   - Azithromycin 1g (uống) ngay khi nhập viện, và
-  - Vancomycin 20mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24 giờ trong 48h. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành 3 nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy >15mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
+  - Vancomycin 20 mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24 giờ trong 48h. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành 3 nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy >15 mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
 
 :::
 

@@ -164,7 +164,7 @@ Progestin có thể là MPA hay LNG:
 
 1. Medroxyprogesterone acetate (MPA) đường uống (Provera®) 10mg uống/ngày trong 3-6 tháng hoặc 10mg uống/ngày, 12-14 ngày/tháng trong 3-6 tháng; hay đường tiêm bắp sử dụng dạng kho phóng thích chậm trong mô (depot-MPA) (DMPA) (Depo-Provera®) 150mg tiêm bắp sâu 1 lần/3-6 tháng.
 2. Levonorgestrel (LNG) phóng thích chậm qua đặt tại chỗ trong buồng tử cung. Dụng cụ tử cung phóng thích hằng định 15-20 µg LNG/ngày. Thời hạn tác dụng 5 năm cho Mirena® hay 3 năm với Liletta®.
-3. Riêng với tăng sinh tuyến nội mạc tử cung đơn giản điển hình, có thể dùng micronized progesterone không phải là progestin, dược chất này là progesterone thiên nhiên, do đó tác dụng kháng estrogen của nó yếu hơn progestin khác, có thể dùng 200mg/ngày trong 12-14 ngày/tháng trong 3-6 tháng.
+3. Riêng với tăng sinh tuyến nội mạc tử cung đơn giản điển hình, có thể dùng micronized progesterone không phải là progestin, dược chất này là progesterone thiên nhiên, do đó tác dụng kháng estrogen của nó yếu hơn progestin khác, có thể dùng 200 mg/ngày trong 12-14 ngày/tháng trong 3-6 tháng.
 4. Utrogestan®, Cyclogest® 100-200mg đặt âm đạo/ngày, 14 ngày/tháng, trong 3-6 tháng.
 
 Sau điều trị:

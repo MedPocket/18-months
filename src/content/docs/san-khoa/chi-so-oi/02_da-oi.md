@@ -81,7 +81,7 @@ Những tuần thai sớm có thể thấy bất thường karyotype thai, TORCH
 - Giảm ối nếu có quá tải dịch (khó thở, tim nhanh, đau bụng) tốc độ <1l/20 phút.
 - Điều trị Indomethasone:
   - Chỉ định: Đa ối vô căn, thai nhi chưa trưởng thành.
-  - Liều 25mg (uống), 4 lần/ngày, nếu AFI không giảm trong 2-3 này có thể tăng 3mg/kg/ngày. Giảm hoặc ngưng AFI trước 34 tuần.
+  - Liều 25mg (uống), 4 lần/ngày, nếu AFI không giảm trong 2-3 này có thể tăng 3 mg/kg/ngày. Giảm hoặc ngưng AFI trước 34 tuần.
   - Tác dụng phụ lo ngại nhất là nguy cơ đóng ống động mạch sớm ở thai vì thế cần theo dõi Doppler thai mỗi 2 ngày kèm siêu âm. Ngoài ra mẹ có thể trào ngược, nôn ói, viêm dạ dày…
 
 Liệu pháp corticosteroids thường quy.
