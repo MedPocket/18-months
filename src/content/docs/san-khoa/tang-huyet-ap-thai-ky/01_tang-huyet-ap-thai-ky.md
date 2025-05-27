@@ -208,7 +208,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 
 ### Dự phòng co giật
 
-- **Magnesium sulfate ($MgSO_4$):**
+- **Magnesium sulfate (MgSO₄):**
   - Tấn công: 4–6 g TM chậm.
   - Duy trì: 1–2 g/h đến 24 giờ sau sinh
   - Ngưng khi có dấu hiệu ngộ độc.
@@ -226,7 +226,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 
 2. **Đặt đường truyền tĩnh mạch**
 
-3. **Sử dụng Magnesium sulfate ($MgSO_4$)**
+3. **Sử dụng Magnesium sulfate (MgSO₄)**
 
    - Thuốc chống co giật hiệu quả nhất, đồng thời giúp hạ huyết áp nhẹ.
    - **Liều dùng:**
@@ -243,7 +243,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
      - Nồng độ magie huyết > 8 mg/dL.
 
    - Nếu có dấu hiệu ngộ độc:  
-     - Ngừng truyền $MgSO_4$ ngay.
+     - Ngừng truyền MgSO₄ ngay.
      - Truyền chậm **calcium gluconate** 10 mL 10% TM trong 10 phút để giải độc.
 
 4. **Điều trị tăng huyết áp**

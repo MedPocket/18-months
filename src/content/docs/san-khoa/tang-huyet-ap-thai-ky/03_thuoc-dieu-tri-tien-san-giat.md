@@ -61,7 +61,7 @@ _Mối tương quan giữa nồng độ Magnesium máu và biểu hiện lâm s�
 
 - **Labetalol**.
 - **Hydralazine**.
-- **Chẹn kênh Calci**: Nifedipine, Nicardipine.
+- **Chẹn kênh canxi**: Nifedipine, nicardipine.
 - **Methyldopa**.
 
 | Thuốc          | Cơ chế tác dụng                | Ảnh hưởng                                                                                                                                                                                                 |
@@ -106,9 +106,9 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 
 ### Nicardipine
 
-- Tác dụng giống Nifedipine, ít ảnh hưởng tim; bắt đầu sau 10 phút, đỉnh 30–120 phút, kéo dài 8 giờ.  
+- Tác dụng giống nifedipine, ít ảnh hưởng tim; bắt đầu sau 10 phút, đỉnh 30–120 phút, kéo dài 8 giờ.  
 - **Liều uống:** 20 mg x 3 lần/ngày.  
-- **TM:** bolus 0,5–1 mg, duy trì 1–3 mg/h (pha 10 mL Nicardipine vào 40 mL Glucose 5%, truyền 5–15 mL/h).  
+- **TM:** bolus 0,5–1 mg, duy trì 1–3 mg/h (pha 10 mL nicardipine vào 40 mL Glucose 5%, truyền 5–15 mL/h).  
 - Tác dụng phụ: đau đầu, chóng mặt, buồn nôn.  
 - Chống chỉ định: đau thắt ngực không ổn định, sốc tim, hẹp van ĐMC nặng; thận trọng 3 tháng đầu.
 

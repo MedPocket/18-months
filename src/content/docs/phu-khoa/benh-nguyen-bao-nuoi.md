@@ -325,7 +325,7 @@ Nếu kháng EMA-CO:
     - Paclitaxel 135 mg/m² da + 250mL NaCl 0.9% truyền trong 3h.
     - Mannitol 10% truyền trong 1h.
     - Cisplatin 60 mg/m² da pha 1000mL NaCl 0.9% truyền trong 3h.
-    - Sau khi truyền thuốc, truyền tĩnh mạch 1000mL NaCl 0.9% + KCl 20mmol + 1g $MgSO_4$ truyền trong 2h.
+    - Sau khi truyền thuốc, truyền tĩnh mạch 1000mL NaCl 0.9% + KCl 20mmol + 1g MgSO₄ truyền trong 2h.
   - Ngày 15:
     - Dexamethasone 20mg uống trước liều Paclitaxel 12 giờ.
     - Dexamethasone 20mg uống trước liều Paclitaxel 6h.

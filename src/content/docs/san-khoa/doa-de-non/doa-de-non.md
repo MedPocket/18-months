@@ -350,11 +350,11 @@ Chống chỉ định: Mẹ bị nhược cơ.
 
 Thận trọng: Mẹ bị thiếu máu cơ tim, rối loạn dẫn truyền nhịp tim.
 
-Liều dùng: $MgSO_4$ 4.5g liều duy nhất truyền tĩnh mạch chậm 20-30 phút.
+Liều dùng: MgSO₄ 4.5g liều duy nhất truyền tĩnh mạch chậm 20-30 phút.
 
 - Giảm liều ở người thiểu niệu hoặc có dấu hiệu suy thận.
-- Dùng $MgSO_4$ không tiếp tục dùng thuốc cắt cơn gò.
-- Khi có chỉ định chấm dứt thai kỳ, $MgSO_4$ dùng lý tưởng nhất 4 giờ trước sinh.
+- Dùng MgSO₄ không tiếp tục dùng thuốc cắt cơn gò.
+- Khi có chỉ định chấm dứt thai kỳ, MgSO₄ dùng lý tưởng nhất 4 giờ trước sinh.
 
 ### Kháng sinh dự phòng GBS
 
