@@ -1,40 +1,83 @@
 ---
 title: Xuất huyết tử cung liên quan thai kỳ
-description: Xuất huyết tử cung liên quan thai kỳ.
+description: Xuất huyết âm đạo bất thường xuất hiện trong suốt thai kỳ, có thể là dấu hiệu sinh lý (như chảy máu khi làm tổ) hoặc cảnh báo các tình trạng sản khoa từ lành tính đến nguy hiểm (sẩy thai, thai ngoài tử cung, nhau tiền đạo, bong non…). Việc phân loại theo tuổi thai và triệu chứng kèm theo rất quan trọng để chẩn đoán và xử trí kịp thời.
 ---
 
-Xuất huyết tử cung bất thường liên quan đến thai kỳ còn được gọi là xuất huyết âm đạo ở phụ nữ mang thai. Xuất huyết âm đạo khá thường gặp trong thai kỳ. Nguồn gốc của máu thường là từ mẹ hơn là do thai. Xuất huyết âm đạo trong thai kỳ thường được chia làm 2 nhóm, dựa trên tuổi thai và các nguyên nhân thường gặp:
+Xuất huyết âm đạo ở phụ nữ mang thai (xuất huyết tử cung liên quan thai kỳ) khá thường gặp, với tỷ lệ khoảng 20–30% trong 3 tháng đầu và khoảng 5–10% trong giai đoạn sau đó. Hầu hết nguồn gốc máu là từ mẹ (niêm mạc tử cung, cổ tử cung, âm đạo) hơn là từ thai. Dựa vào tuổi thai và cơ chế bệnh sinh, chúng ta chia làm hai nhóm chính:
 
-1. Xuất huyết âm đạo trong 3 tháng đầu thai kỳ.
-2. Xuất huyết âm đạo trong 3 tháng giữa và 3 tháng cuối thai kỳ.
+1. **Xuất huyết âm đạo trong 3 tháng đầu thai kỳ** (từ ngày kinh cuối đến 13 tuần + 6 ngày).  
+2. **Xuất huyết âm đạo trong 3 tháng giữa và 3 tháng cuối thai kỳ** (từ 14 tuần đến lúc chuyển dạ).
 
 ## Nguyên nhân
 
 ### Xuất huyết âm đạo trong 3 tháng đầu thai kỳ
 
-Các kiểu xuất huyết có thể là nhẹ hay nặng, thỉnh thoảng hay liên tục, không kèm đau bụng hay có kèm theo đau bụng.
+Các kiểu xuất huyết có thể nhẹ hoặc nặng, thỉnh thoảng hoặc liên tục, có thể kèm hoặc không kèm đau bụng. Bốn nhóm nguyên nhân chính (không tính chấn thương) gồm:
 
-4 nguyên nhân chính của xuất huyết tử cung bất thường trong 3 tháng đầu thai kỳ (không liên quan đến chấn thương) là:
+1. **Sẩy thai (Miscarriage)**  
+   - **Dọa sẩy thai (Threatened abortion):** chảy máu nhẹ, cổ tử cung đóng, thai còn sống.  
+   - **Sẩy thai khó tránh (Inevitable abortion):** chảy máu nhiều, có đau co tử cung, cổ tử cung mở.  
+   - **Sẩy thai không trọn (Incomplete abortion):** mô nhau hoặc thai còn sót, cổ tử cung mở.  
+   - **Sẩy thai trọn (Complete abortion):** tất cả mô thai đã được tống ra, cổ tử cung đóng lại.  
+   - **Sẩy thai lưu (Missed abortion):** thai đã mất nhưng chưa được tống ra, thường không đau bụng.  
+   > **Lưu ý:** sẩy thai chiếm khoảng 15–20% các trường hợp chảy máu 3 tháng đầu.
 
-1. Sẩy thai: Nhóm nguyên nhân sẩy thai ở các mức độ khác nhau (dọa sẩy thai, sẩy thai khó tránh, sẩy thai diễn tiến, sẩy thai không trọn, sẩy thai trọn và sẩy thai lưu) là nhóm các nguyên nhân thường gặp nhất. chiếm khoảng 15-20% các thai kỳ có xuất huyết âm đạo.
-2. Thai ngoài tử cung: Thai ngoài tử cung là nguyên nhân ít gặp hơn, chỉ chiếm khoảng khoảng 2% các thai kỳ có xuất huyết âm đạo. Dù ít gặp, nhưng thai ngoài tử cung là nguyên nhân quan trọng, vì vỡ thai ngoài tử cung có thể gây xuất huyết trong ổ bụng nặng, đe dọa tính mạng bệnh nhân.
-3. Bệnh nguyên bào nuôi: Bệnh nguyên bào nuôi thai kỳ là nguyên nhân tương đối không phải là hiếm.
-4. Xuất huyết do làm tổ của phôi: Hiện tượng làm tổ của phôi có thể gây xuất huyết. Dù rằng xuất huyết này là hiện tượng sinh lý, nhưng tình trạng xuất huyết do làm tổ này lại gây ra nhiều khó khăn và nhầm lẫn trong thực hiện chẩn đoán.
+2. **Thai ngoài tử cung (Ectopic pregnancy)**  
+   - Thường xảy ra trong vòi tử cung (95% trường hợp), cũng có thể là ổ bụng, cổ tử cung hoặc buồng trứng.  
+   - Chảy máu kèm đau một bên hạ vị, có thể xuất huyết ổ bụng sau vỡ, đe dọa tính mạng.
 
-Và chảy máu không do thai ở người mang thai. Bệnh lý tử cung, âm đạo, cổ tử cung (polyps, nhiễm trùng/viêm) không phải là nguyên nhân xuất huyết âm đạo do thai kỳ chính danh, tuy nhiên do nó xảy ra ở phụ nữ mang thai.
+3. **Bệnh nguyên bào nuôi (Trophoblastic disease)**  
+   - **Trứng trống (Hydatidiform mole):** nguyên bào nuôi phát triển bất thường, siêu âm thấy “bông tuyết.”  
+   - **Ung thư nguyên bào nuôi (Choriocarcinoma):** hiếm, thường sau một thai trứng, chảy máu bất thường.
+
+4. **Xuất huyết do làm tổ của phôi (Implantation bleeding)**  
+   - Xảy ra khoảng 6–12 ngày sau thụ tinh, thường là vết máu hồng nhạt, ngắn ngày.  
+   - Là hiện tượng sinh lý nhưng có thể bị nhầm với sẩy thai.
+
+5. **Các nguyên nhân không do thai kỳ**  
+   - Polyp tử cung, u xơ, viêm cổ tử cung, nhiễm trùng âm đạo…  
+   - Thường chẩn đoán bằng khám phụ khoa kỹ và soi cổ tử cung.
+
 
 ### Xuất huyết âm đạo trong 3 tháng giữa và 3 tháng cuối thai kỳ
 
-Các nguyên nhân chính của xuất huyết 3 tháng giữa và 3 tháng cuối (sau 3 tháng đầu) thai kỳ gồm:
+Sau 13+6 tuần, các nguyên nhân chính gồm:
 
-- Xuất huyết âm đạo trong trường hợp chuyển dạ do hở eo tử cung (chuyển dạ sau 20 tuần).
-- Sẩy thai muộn (sẩy thai xảy ra sau khi kết thúc 3 tháng đầu, nhưng trước 20 tuần).
-- Dọa sinh non.
-- Rau tiền đạo.
-- Rau bong non.
-- Vỡ tử cung.
-- Vỡ các mạch máu tiền đạo.
+- **Chuyển dạ sớm do hở eo tử cung (Cervical insufficiency):**  
+  Cổ tử cung không chịu được sức nặng của thai, thường trong giai đoạn 14–24 tuần, gây chảy máu không đau hoặc đau ít, có thể dẫn đến sinh non.
 
-## Nguồn tham khảo
+- **Sẩy thai muộn (Late miscarriage):**  
+  Sẩy thai sau 14 tuần và trước 20 tuần, cơ chế tương tự sẩy thai sớm nhưng cần phân biệt với chuyển dạ non.
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- **Dọa sinh non (Preterm labor):**  
+  Chuẩn bị chuyển dạ trước 37 tuần, chảy máu kèm co thắt tử cung.
+
+- **Nhau tiền đạo (Placenta praevia):**  
+  Nhau bám thấp che lỗ trong cổ tử cung, chảy máu đỏ tươi không đau, thường xảy ra sau 28 tuần.
+
+- **Rau bong non (Placental abruption):**  
+  Rau bong trước khi chuyển dạ, chảy máu kèm đau bụng dữ dội, tử cung căng cứng.
+
+- **Vỡ tử cung (Uterine rupture):**  
+  Hiếm, thường trên vết mổ cũ hoặc phẫu thuật bóc nhân xơ, khẩn cấp sản khoa.
+
+- **Vỡ mạch máu tiền đạo (Vasa praevia):**  
+  Mạch máu bánh rau đi qua màng ối trước lỗ cổ tử cung, khi vỡ ối có thể chảy máu nhiều và đe dọa thai nhi.
+
+
+## Gợi ý chẩn đoán và xử trí
+
+
+1. **Khám lâm sàng:** đánh giá huyết áp, mạch, tình trạng đau bụng, xét nghiệm thai và khám phụ khoa.  
+2. **Siêu âm đầu dò âm đạo:** xác định vị trí thai, tim thai, vị trí nhau, nhau bong, túi thai ngoài tử cung…  
+3. **Xét nghiệm máu:** HCG định lượng, công thức máu, nhóm máu – Rh.  
+4. **Điều trị:**  
+   - _Theo nguyên nhân:_ nghỉ ngơi, kháng viêm, chống co bóp, khâu eo tử cung, can thiệp ngoại khoa (nạo, mổ)…  
+   - _Cấp cứu khi cần thiết:_ truyền máu, hồi sức tích cực, mổ lấy thai khẩn cấp.
+
+
+## Tài liệu tham khảo
+
+- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning_  
+- Cunningham, F. G. et al. (2018) - _Williams Obstetrics_
+- ACOG Practice Bulletin (2018) No. 200 - _Early Pregnancy Loss_
