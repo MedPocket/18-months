@@ -11,7 +11,6 @@ export const sidebar = starlightSidebarTopics([
     link: "/san-khoa/",
     icon: "open-book",
     items: [
-      "san-khoa",
       "san-khoa/dac-diem-rau-thai",
       {
         label: "Xuất huyết tử cung trong thai kỳ",
@@ -118,7 +117,6 @@ export const sidebar = starlightSidebarTopics([
     link: "/phu-khoa/",
     icon: "seti:csv",
     items: [
-      "phu-khoa",
       {
         label: "Giải phẫu và sinh lý",
         autogenerate: {
@@ -182,6 +180,6 @@ export const sidebar = starlightSidebarTopics([
     label: "Hỗ trợ sinh sản",
     link: "/ho-tro-sinh-san/",
     icon: "pencil",
-    items: ["ho-tro-sinh-san", "ho-tro-sinh-san/buong-trung-da-nang"],
+    items: ["ho-tro-sinh-san/buong-trung-da-nang"],
   },
 ]);
