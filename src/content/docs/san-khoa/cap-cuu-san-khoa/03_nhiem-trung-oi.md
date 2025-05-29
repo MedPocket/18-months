@@ -101,7 +101,7 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 
 #### Lựa chọn 1 (ưu tiên)
 
-- Ampicillin 2 g tiêm TM mỗi 6h + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ. Nếu mổ lấy thai, thêm Clindamycin 900mg mỗi 8 giờ hoặc Metronidazole 500 mg truyền TM mỗi 8 giờ.
+- Ampicillin 2 g tiêm TM mỗi 6 giờ + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ. Nếu mổ lấy thai, thêm Clindamycin 900mg mỗi 8 giờ hoặc Metronidazole 500 mg truyền TM mỗi 8 giờ.
 - Hoặc Ampicillin–sulbactam 3 g tiêm TM mỗi 6h.
 - Hoặc Cefoxitin 2 g tiêm TM mỗi 8 giờ.
 - Hoặc Cefotetan 2 g tiêm TM mỗi 12h.

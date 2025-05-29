@@ -25,7 +25,7 @@ Chẩn đoán vỡ ối được xác định dễ dàng khi thấy nước ối
 
 Không được thực hiện khám âm đạo bằng tay vì điều này không giúp gì cho việc thực hiện chẩn đoán và có thể dẫn đến tình trạng nhiễm trùng.
 
-Đặt băng vệ sinh âm hộ và kiểm tra miếng băng vệ sinh 1h sau bằng cách nhìn và đánh giá mùi.
+Đặt băng vệ sinh âm hộ và kiểm tra miếng băng vệ sinh 1 giờ sau bằng cách nhìn và đánh giá mùi.
 
 :::note[Tiêu chuẩn chẩn đoán ối vỡ non]
 ![Ối vỡ non](../../../../assets/san-khoa/oi-vo-non/oi-vo-non.png)
@@ -77,19 +77,19 @@ Nếu có dấu hiệu nhiễm trùng (sốt, dịch âm đạo có mùi hôi), 
 
 Đối với thai < 34 tuần không có nhiễm trùng, không đe dọa mẹ và thai, cần điều trị mong đợi, tư vấn về nguy cơ và lợi ích.
 
-Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh và trì hoãn cuộc sinh: thường là kháng sinh nhắm vào Streptococcus nhóm B. Dùng Ampicillin, đường tĩnh mạch, 2g mỗi 6h hoặc Penicillin G, đường tĩnh mạch, 2 triệu đơn vị mỗi 6h, cho đến lúc sinh.
+Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh và trì hoãn cuộc sinh: thường là kháng sinh nhắm vào Streptococcus nhóm B. Dùng Ampicillin, đường tĩnh mạch, 2g mỗi 6 giờ hoặc Penicillin G, đường tĩnh mạch, 2 triệu đơn vị mỗi 6h, cho đến lúc sinh.
 
 :::caution[Lưu ý]
 Với ối vỡ non, thai non tháng phức bộ [Amoxicillin + Acid Clavulanic] bị chống chỉ định do khả năng gây viêm ruột hoại tử ở sơ sinh. Cụ thể:
 
 - Lựa chọn 1:
   - Azithromycin 1g (uống) ngay khi nhập viện, và
-  - Ampicillin 2g (tĩnh mạch chậm) mỗi 6h trong 48 giờ, sau đó
+  - Ampicillin 2g (tĩnh mạch chậm) mỗi 6 giờ trong 48 giờ, sau đó
   - Amoxicillin 500mg (uống) mỗi 8 giờ trong 5 ngày.
 - Lựa chọn 2:
   - Ampicillin 1g (uống) ngay khi nhập viện, và
   - Cefazolin 1g (tĩnh mạch chậm) mỗi 8 giờ trong 48 giờ, sau đó
-  - Cephalexin 500mg (uống) mỗi 6h trong 5 ngày.
+  - Cephalexin 500mg (uống) mỗi 6 giờ trong 5 ngày.
 - Trường hợp nguy cơ cao phản ứng phản vệ với Penicillin:
   - Azithromycin 1g (uống) ngay khi nhập viện, và
   - Clindamycin 900mg (truyền tĩnh mạch) mỗi 8 giờ trong 48 giờ + Gentamicin 5 mg/kg (truyền tĩnh mạch) mỗi 24 giờ trong 48 giờ, sau đó

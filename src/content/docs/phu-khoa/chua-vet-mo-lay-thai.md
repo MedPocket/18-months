@@ -188,7 +188,7 @@ Chỉ định thai ≤ 8 tuần.
 - Thực hiện dưới hướng dẫn của siêu âm.
 - Ống foley 14 hoặc 16.
 - Bơm 20-25mL nước cất để đẩy khối thai lên và foley ép vào vết mổ.
-- Nếu foley rơi trước 6h và chưa có dấu hiệu sẩy: đặt lại foley lần 2 và chèn 1 tampon. Nếu foley rơi sau 6h kèm dấu hiệu sảy: tiến hành hút thai.
+- Nếu foley rơi trước 6 giờ và chưa có dấu hiệu sẩy: đặt lại foley lần 2 và chèn 1 tampon. Nếu foley rơi sau 6 giờ kèm dấu hiệu sảy: tiến hành hút thai.
 - Lưu foley 24 giờ.
 - Sử dụng kháng sinh ngay sau đặt foley.
 - Sau 24 giờ rút foley và hút thai dưới siêu âm:

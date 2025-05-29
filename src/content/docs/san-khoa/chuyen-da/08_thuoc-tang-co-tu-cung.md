@@ -108,13 +108,13 @@ Khởi phát chuyển dạ: Chỉ sử dụng bằng đường tĩnh mạch, t�
 - Tiến triển tốt nếu sau 2h:
   - Con so mở thêm 1-1.5cm.
   - Con dạ mở thêm 2-3cm.
-- Nếu sau 6h theo dõi cổ tử cung không xóa mở thêm hay phù nền, ngôi thai không xuống, đầu có bướu huyết thanh thì khởi phát thất bại.
+- Nếu sau 6 giờ theo dõi cổ tử cung không xóa mở thêm hay phù nền, ngôi thai không xuống, đầu có bướu huyết thanh thì khởi phát thất bại.
 - Trong quá trình theo dõi nếu cơ co cường tính, nhịp tim thai giảm cần ngưng truyền oxytocin, cho sản phụ nằm nghiêng và thở oxy. Theo dõi sát tim thai bằng monitoring. Nếu hồi phục nhanh có thể bắt đầu điều chỉnh lại sốt giọt cho phù hợp.
 - Nếu tăng co hiệu quả, cần giảm bớt số giọt, truyền thuốc lúc này nên duy trì tốc độ thấp đủ để xóa mở cổ tử cung.
 
 Dự phòng băng huyết sau sinh: Ngay sau sinh kẹp rốn trong sinh thường hay mổ 20IU + 1000mL NaCL 0.9% hay Lactate Ringer tĩnh mạch chảy nhanh tốc độ 10 mL/phút. Sau đó nếu tử cung co hồi tốt duy trì tốc độ 2-4 mL/phút. Hay có thể dùng 10IU oxytocin tiêm bắp ngay sau khi sổ đầu.
 
-Điều trị băng huyết sau sinh: Oxytocin 5-10IU/500mL NaCl 0.9% chảy trong 1h nếu trong giai đoạn cấp. Sau đó duy trì 10IU/500mL NaCl 0.9% mỗi 8 giờ, liều tối đa 150IU.
+Điều trị băng huyết sau sinh: Oxytocin 5-10IU/500mL NaCl 0.9% chảy trong 1 giờ nếu trong giai đoạn cấp. Sau đó duy trì 10IU/500mL NaCl 0.9% mỗi 8 giờ, liều tối đa 150IU.
 
 #### Hấp thu, chuyển hóa và thải trừ
 
@@ -204,4 +204,4 @@ Tác dụng phụ:
 
 ## Nguồn tham khảo
 
-- PGS.TS. Trần Thị Lợi, GS.TS. Nguyễn Duy Tài - _Thực hành sản phụ khoa_
+- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành sản phụ khoa_

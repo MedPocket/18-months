@@ -38,4 +38,4 @@ Sự co kéo sẹo là quá trình bình thường khi lành thương nhưng đ�
 
 ## Nguồn tham khảo
 
-- PGS.TS. Trần Thị Lợi, GS.TS. Nguyễn Duy Tài - _Thực hành sản phụ khoa_
+- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành sản phụ khoa_
