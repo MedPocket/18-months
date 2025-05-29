@@ -260,4 +260,4 @@ Thai kỳ sau chủ động mổ lấy thai khi thai đủ tháng.
 
 ## Nguồn tham khảo
 
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản phụ khoa_
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

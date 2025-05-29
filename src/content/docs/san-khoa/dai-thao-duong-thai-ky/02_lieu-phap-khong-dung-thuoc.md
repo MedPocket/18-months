@@ -108,4 +108,4 @@ Tính theo cân nặng trước thai kỳ:
 
 - Bộ Y tế (2023) – _Hướng dẫn quốc gia về sàng lọc và quản lý Đái tháo đường thai kỳ_
 - ADA (2024) – _Standards of Medical Care in Diabetes – Pregnancy Section_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản phụ khoa_
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

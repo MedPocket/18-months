@@ -426,4 +426,4 @@ _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị tr�
 ## Nguồn tham khảo
 
 - Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản phụ khoa_
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

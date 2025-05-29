@@ -53,7 +53,7 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 ## Nguồn tham khảo
 
 - Bộ Y Tế (2023) – _Hướng dẫn quốc gia về sàng lọc và quản lý đái tháo đường thai kỳ_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản phụ khoa_
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
 - TS. Lê Quang Toàn - [_Bài giảng đái tháo đường thai kỳ_](https://www.youtube.com/watch?v=WV4g4cJdMCo)
 - ADA (2024) – _Standards of Medical Care in Diabetes – Pregnancy Section_
 - WHO (2013) – _Diagnostic criteria and classification of hyperglycaemia first detected in pregnancy_
