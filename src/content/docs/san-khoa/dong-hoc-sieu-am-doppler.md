@@ -38,10 +38,10 @@ Các chỉ định siêu âm Doppler khảo sát động mạch tử cung lúc t
 
 # Các chỉ định siêu âm Doppler khảo sát dòng chảy động mạch tử cung lúc thai 17-22 tuần
 
-| | Các chỉ định siêu âm Doppler khảo sát dòng chảy động mạch tử cung lúc thai 17-22 tuần|
-|---|---|
-|**Tiền căn thai kỳ trước**|- Tăng huyết áp thai kỳ với khởi phát thai kỳ sớm<br>- Nhau bong non<br>- Thai chậm tăng trưởng trong tử cung<br>- Chết chu sinh<br>- Tăng huyết áp tồn tại trước khi mang thai<br>- Tăng huyết áp thai kỳ|
-|**Yếu tố nguy cơ cho thai kỳ lần này**|- Bệnh thận tồn tại trước khi mang thai<br>- Đái tháo đường type 1 lâu ngày với biến chứng mạch máu, bệnh cầu thận, bệnh lý võng mạc<br>- Bất thường về huyết thanh tầm soát free β-hCG hoặc AFP > 2.0 MoM<br> - PAPP-A thấp|
+|                                        | Các chỉ định siêu âm Doppler khảo sát dòng chảy động mạch tử cung lúc thai 17-22 tuần                                                                                                                                        |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tiền căn thai kỳ trước**             | - Tăng huyết áp thai kỳ với khởi phát thai kỳ sớm<br>- Nhau bong non<br>- Thai chậm tăng trưởng trong tử cung<br>- Chết chu sinh<br>- Tăng huyết áp tồn tại trước khi mang thai<br>- Tăng huyết áp thai kỳ                   |
+| **Yếu tố nguy cơ cho thai kỳ lần này** | - Bệnh thận tồn tại trước khi mang thai<br>- Đái tháo đường type 1 lâu ngày với biến chứng mạch máu, bệnh cầu thận, bệnh lý võng mạc<br>- Bất thường về huyết thanh tầm soát free β-hCG hoặc AFP > 2.0 MoM<br> - PAPP-A thấp |
 
 _Chỉ định Doppler động mạch tử cung tuần 17-22._
 

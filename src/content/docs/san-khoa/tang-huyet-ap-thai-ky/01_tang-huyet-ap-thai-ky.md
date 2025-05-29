@@ -22,6 +22,7 @@ Bánh rau đóng vai trò then chốt trong sự phát triển và thoái lui c�
 Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai trò then chốt trong cơ chế bệnh sinh của tiền sản giật. Do đó, khảo sát **sFlt-1** và **PlGF** có thể giúp tiên đoán tiền sản giật. Khoảng 5 tuần trước khi tiền sản giật xuất hiện trên lâm sàng, tỷ số **sFlt-1/PlGF** tăng cao ở nhóm sau này bị tiền sản giật.
 
 **Nguồn gốc** xuất hiện tiền sản giật bắt đầu từ **bánh rau**, nhưng **cơ quan đích** là các tế bào nội mô của mẹ dẫn đến:
+
 - **Huyết áp:** Co mạch làm tăng huyết áp.
 - **Mạch máu:** Tổn thương nội mô gây thoát quản các thành phần huyết tương và huyết cầu:
   - Cô đặc máu, tăng Hematocrit do mất đạm, giảm áp lực keo, nặng có thể gây sốc tim.
@@ -122,7 +123,7 @@ Biến chứng nặng của tiền sản giật/sản giật, tổn thương n�
 
 ## Biến chứng tăng huyết áp thai kỳ
 
-**Mẹ:**
+### Mẹ
 
 - Sản giật.
 - Hoại tử tế bào gan.
@@ -133,7 +134,7 @@ Biến chứng nặng của tiền sản giật/sản giật, tổn thương n�
 - Rau bong non.
 - Băng huyết sau sinh.
 
-**Con:**
+### Con
 
 - Tử vong chu sinh.
 - Đẻ non.
@@ -180,7 +181,7 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
 
 ### Các trường hợp không mong đợi điều trị
 
-**Mẹ:**
+#### Mẹ
 
 - THA nặng không kiểm soát.
 - Đau đầu/thượng vị không đáp ứng.
@@ -191,7 +192,7 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
 - Phù phổi.
 - Nghi ngờ rau bong non.
 
-**Thai:**
+#### Thai
 
 - Đánh giá sức khỏe bất thường.
 - Thai lưu.
@@ -209,6 +210,7 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
 ### Dự phòng co giật
 
 **Magnesium sulfate (MgSO₄):**
+
 - Tấn công: 4–6 g TM chậm.
 - Duy trì: 1–2 g/h đến 24 giờ sau sinh
 - Ngưng khi có dấu hiệu ngộ độc.

@@ -48,7 +48,7 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
   - **Tiền đái tháo đường/ĐTĐ**: chuyển khám Nội tiết, cân nhắc điều trị nội tiết và chương trình thay đổi lối sống tích cực.
 
   ![Theo dõi và quản lý ĐTĐ sau sinh](../../../../assets/san-khoa/dai-thao-duong-thai-ky/theo-doi-va-quan-ly-dai-thao-duong-sau-sinh.jpg)
-    
+
   _Quy trình theo dõi và quản lý ĐTĐ sau sinh._
 
 ## Nguồn tham khảo

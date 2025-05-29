@@ -57,8 +57,8 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 
   - Thể nặng có thể không sống sót sau sinh.
   - Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.
-    ![Thai phù trong hội chứng Bart](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thai-phu-trong-hoi-chung-Bart.png)  
-    
+    ![Thai phù trong hội chứng Bart](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thai-phu-trong-hoi-chung-Bart.png)
+
     _Thai phù trong hội chứng Hb Bart’s._
 
 - **Với mẹ**

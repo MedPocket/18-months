@@ -59,9 +59,9 @@ _Vòng Bandl bệnh lý khi có chuyển dạ tắc nghẽn. Phía trên đáy t
 
 - Khi cổ tử cung bắt đầu mở, nút nhầy bong ra, một phần túi ối bị đẩy xuống qua lỗ cổ tử cung tạo thành "đầu ối".
 - Đầu ối có vai trò như "nêm thủy lực" giúp cổ tử cung mở nhanh hơn khi ngôi thai còn cao.
-   ![Thành lập đầu ối](../../../../assets/san-khoa/sinh-ly-chuyen-da/thanh-lap-dau-oi.png)
+  ![Thành lập đầu ối](../../../../assets/san-khoa/sinh-ly-chuyen-da/thanh-lap-dau-oi.png)
 
-   _Thành lập đầu ối phía trước ngôi thai, ở vị trí lỗ cổ tử cung._
+  _Thành lập đầu ối phía trước ngôi thai, ở vị trí lỗ cổ tử cung._
 
 ## Chẩn đoán chuyển dạ
 
@@ -91,14 +91,15 @@ Xóa mở cổ tử cung chia thành 2 pha:
   - Được xác định khi cổ tử cung mở < 3cm.
 
 - **Pha hoạt động**:
+
   - Cổ tử cung mở nhanh và hoàn tất xóa.
   - Cơn co tử cung mạnh, đều, tăng dần về cường độ.
   - Ngôi thai tiến triển trong đường sinh.
   - Được xác định khi cổ tử cung mở ≥ 3cm.
 
-   ![So sánh pha tiềm thời và pha hoạt động](../../../../assets/san-khoa/sinh-ly-chuyen-da/so-sanh-pha-tiem-thoi-va-pha-hoat-dong.png)
+  ![So sánh pha tiềm thời và pha hoạt động](../../../../assets/san-khoa/sinh-ly-chuyen-da/so-sanh-pha-tiem-thoi-va-pha-hoat-dong.png)
 
-   _So sánh pha tiềm thời và pha hoạt động._
+  _So sánh pha tiềm thời và pha hoạt động._
 
 ## Theo dõi chuyển dạ
 

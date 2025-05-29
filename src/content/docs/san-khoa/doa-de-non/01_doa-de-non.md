@@ -65,6 +65,7 @@ Các cơ chế bệnh sinh liên quan:
   ![Chiều dài cổ tử cung](../../../../assets/san-khoa/doa-de-non/chieu-dai-co-tu-cung.png)
 
   _Chiều dài cổ tử cung._
+
 - Tuần 19–23 + 6: nên khảo sát định kỳ.
 - Tuần 24, nếu không triệu chứng mà cổ tử cung < 25 mm → nguy cơ sinh non tăng.
 - Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ ~1 %.

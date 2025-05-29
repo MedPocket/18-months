@@ -47,7 +47,7 @@ Chủ yếu dựa vào siêu âm. Lâm sàng: bề cao tử cung lớn hơn tu�
 :::note[Tiêu chuẩn chẩn đoán đa ối]
 
 - AFI ≥ 22 cm ở 3 tháng giữa và ≥ 25 cm ở 3 tháng cuối.
-- SDP ≥ 8 cm (SDP ≥ 16 cm là đa ối nặng).  
+- SDP ≥ 8 cm (SDP ≥ 16 cm là đa ối nặng).
 
 :::
 

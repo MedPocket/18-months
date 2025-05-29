@@ -27,7 +27,7 @@ Khuyến cáo chẩn đoán thai kỳ thất bại khi siêu âm qua đường �
 1. Chiều dài từ đỉnh đầu đến mông (CRL) ≥ 7 mm mà không có tim thai.
 2. Đường kính túi trung bình (MSD) ≥ 25 mm mà không có phôi thai.
 3. Không có phôi có nhịp tim sau ≥ 14 ngày kể từ khi siêu âm thấy túi thai không có túi noãn hoàng.
-4. Không có phôi có nhịp tim sau ≥ 11 ngày kể từ khi siêu âm thấy túi thai có túi noãn hoàng.  
+4. Không có phôi có nhịp tim sau ≥ 11 ngày kể từ khi siêu âm thấy túi thai có túi noãn hoàng.
 
 :::
 
