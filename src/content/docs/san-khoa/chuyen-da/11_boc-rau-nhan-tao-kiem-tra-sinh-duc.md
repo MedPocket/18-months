@@ -198,4 +198,4 @@ Nguyên tắc khâu phải đảm bảo đúng lớp, không để khoảng ở 
 
 ## Nguồn tham khảo
 
-- PGS.TS. Trần Thị Lợi, GS.TS. Nguyễn Duy Tài - _THỰC HÀNH SẢN PHỤ KHOA_
+- PGS.TS. Trần Thị Lợi, GS.TS. Nguyễn Duy Tài - _Thực hành sản phụ khoa_
