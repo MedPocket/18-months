@@ -89,11 +89,13 @@ U nguyên bào nuôi.
 COS-2 túi thai phát triển hướng vào trong eo tử cung hay buồng, có thể tiến triển đến sinh sống nhưng có nguy cơ xuất huyết ồ ạt nơi rau bám.
 
 ![Túi thai phát triển về buồng](../../../assets/phu-khoa/chua-vet-mo-lay-thai/tui-thai-phat-trien-ve-buong.jpg)
+
 _Túi thai phát triển về buồng._
 
 COS-1 túi thai cắm sâu trong khe hở sẹo và tiến triển gây vỡ tử cung trong 3 tháng đầu và xuất huyết ồ ạt nguy hiểm đến tính mạng.
 
 ![Túi thai cắm sâu vào vết mổ](../../../assets/phu-khoa/chua-vet-mo-lay-thai/tui-thai-cam-sau-vao-vet-mo.jpg)
+
 _Túi thai cắm sâu vào vết mổ._
 
 ## Điều trị
@@ -238,6 +240,7 @@ Thai lưu< 8 tuần, toàn trạng ổn, β-hCG < 1000mIU/mL giảm đều, ch�
 Nếu β-hCG tăng lại hay không giảm cần can thiệp nội khoa hoặc ngoại khoa.
 
 ![Phác đồ điều trị thai ở sẹo mổ lấy thai Bệnh viện Từ Dũ.](../../../assets/phu-khoa/chua-vet-mo-lay-thai/phac-do-xu-tri-thai-o-seo-mo-lay-thai.jpg)
+
 _Phác đồ điều trị thai ở sẹo mổ lấy thai Bệnh viện Từ Dũ._
 
 ## Tai biến theo phương pháp điều trị

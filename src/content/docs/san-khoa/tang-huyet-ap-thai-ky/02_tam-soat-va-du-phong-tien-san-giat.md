@@ -3,9 +3,7 @@ title: Tầm soát và dự phòng tiền sản giật
 description: Tầm soát và dự phòng tiền sản giật trong tam cá nguyệt đầu.
 ---
 
-## Tầm soát và dự phòng tiền sản giật trong 3 tháng đầu
-
-### Tầm soát
+## Tầm soát tiền sản giật trong 3 tháng đầu
 
 Thực hiện từ tuần 11 đến tuần 13+6, kết hợp:
 
@@ -37,8 +35,7 @@ Thực hiện từ tuần 11 đến tuần 13+6, kết hợp:
   - Đo CRL (45–84 mm ↔ 11–13+6 tuần).
   - Huyết áp động mạch trung bình: $$\mathrm{HADMTT} = \frac{\mathrm{HATT} + 2 \times \mathrm{HATr}}{3}$$
 
-- **Tính nguy cơ** theo [thuật toán của FMF (The Fetal Medicine Foundation)](https://fetalmedicine.org/research/assess/preeclampsia/first-trimester)
-  > Nguy cơ cao khi > 1/100
+- **Tính nguy cơ** theo [thuật toán của FMF (The Fetal Medicine Foundation)](https://fetalmedicine.org/research/assess/preeclampsia/first-trimester). Nguy cơ cao khi > 1/100.
 
 | Nguy cơ        | Yếu tố nguy cơ                                                                                                                                                                                                                                                               | Khuyến cáo                                                                  |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
@@ -48,7 +45,7 @@ Thực hiện từ tuần 11 đến tuần 13+6, kết hợp:
 
 _Bảng đánh giá lâm sàng nguy cơ tiền sản giật._
 
-### Dự phòng
+## Dự phòng tiền sản giật trong 3 tháng đầu
 
 - **Aspirin liều thấp** (WHO khuyến cáo):
 

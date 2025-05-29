@@ -3,7 +3,7 @@ title: Thalassemia
 description: Tìm hiểu toàn diện về Thalassemia – bệnh hemoglobin di truyền gây thiếu máu, bao gồm nguyên nhân, phân loại, biểu hiện lâm sàng, chẩn đoán tiền sản và quản lý thai kỳ.
 ---
 
-Thalassemia là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọc chuỗi globin trong phân tử hemoglobin. Đây là bệnh di truyền đơn gen, lặn trên nhiễm sắc thể thường theo quy luật Mendel. Ở Việt Nam hiện có khoảng 1.700 trẻ sinh ra mỗi năm mắc Thalassemia.
+Thalassemia là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọc chuỗi globin trong phân tử hemoglobin. Đây là bệnh di truyền đơn gen, lặn trên nhiễm sắc thể thường theo quy luật Mendel. Ở Việt Nam hiện có khoảng 1700 trẻ sinh ra mỗi năm mắc Thalassemia.
 
 Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, tan huyết và gây thiếu máu mạn tính. Mức độ nặng hay nhẹ phụ thuộc vào loại và số lượng gen bị tổn thương.
 
@@ -51,15 +51,15 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 - **Mất 4 gene α (Hb Bart’s, thai phù)**
   - Không có chuỗi α; chỉ có chuỗi γ với ái lực O₂ cao → thai phù đa màng, suy tim, tử vong thường từ tuần 30 đến ngay sau sinh.
 
-![Thai phù trong hội chứng Bart](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thai-phu-trong-hoi-chung-Bart.png)  
-_Thai phù trong hội chứng Hb Bart’s._
-
 ## Trẻ và mẹ trong Thalassemia
 
 - **Với trẻ**
 
   - Thể nặng có thể không sống sót sau sinh.
   - Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.
+    ![Thai phù trong hội chứng Bart](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thai-phu-trong-hoi-chung-Bart.png)  
+    
+    _Thai phù trong hội chứng Hb Bart’s._
 
 - **Với mẹ**
   - Vỡ hồng cầu → ứ sắt, gan lách to.

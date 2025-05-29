@@ -3,7 +3,7 @@ title: Thuốc điều trị trong tiền sản giật
 description: Tổng hợp các thuốc phòng ngừa và điều trị tiền sản giật—bao gồm MgSO₄, thuốc hạ áp, HELLP và lợi tiểu.
 ---
 
-## MgSO₄
+## Thuốc chống co giật (MgSO₄)
 
 **Cơ chế:**
 
@@ -21,7 +21,7 @@ description: Tổng hợp các thuốc phòng ngừa và điều trị tiền s�
 **Liều dùng:**
 
 - **Tấn công:** 4–6 g MgSO₄ 15% (50 mL) TM chậm (15–20 phút).
-- **Duy trì:** 1–2 g/giờ TM liên tục (pha 6 g MgSO₄ 15% vào 500 mL Glucose 5% hoặc bơm tiêm điện 6,7 mL/h).
+- **Duy trì:** 1–2 g/giờ TM liên tục (pha 6 g MgSO₄ 15% vào 500 mL glucose 5% hoặc bơm tiêm điện 6,7 mL/h).
 - Tiếp tục ít nhất 24 giờ sau cơn cuối hoặc sau sinh.
 
 :::caution[Theo dõi và xử trí ngộ độc MgSO₄]

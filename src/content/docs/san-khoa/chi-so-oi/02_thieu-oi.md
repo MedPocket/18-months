@@ -34,7 +34,6 @@ _Thiểu ối do nguyên nhân thai thường xuất hiện sau 17–20 tuần._
 Chủ yếu dựa trên siêu âm; lâm sàng có thể thấy bề cao tử cung nhỏ hơn tuổi thai.
 
 :::note[Tiêu chuẩn chẩn đoán thiểu ối]
-Siêu âm:
 
 - Chỉ số ối (Amniotic Fluid Index – AFI) ≤ 5 cm.
 - Xoang ối lớn nhất (Single Deepest Pocket – SDP) ≤ 2 cm.
@@ -74,6 +73,7 @@ Siêu âm:
   - Cân nhắc với trường hợp 24–27 tuần 6 ngày.
 
 ![Phác đồ xử trí thiểu ối đơn thuần Bệnh viện Từ Dũ](../../../../assets/san-khoa/thieu-oi/phac-do-xu-tri-thieu-oi-don-thuan.png)
+
 _Phác đồ xử trí thiểu ối đơn thuần Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo

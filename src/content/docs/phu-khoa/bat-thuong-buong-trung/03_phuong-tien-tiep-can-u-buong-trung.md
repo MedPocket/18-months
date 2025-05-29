@@ -29,6 +29,7 @@ Việc mô tả chi tiết các đặc điểm hình ảnh học của khối u 
 3. Các cấu trúc vách và chồi.
 
 ![Phân loại u buồng trứng theo hình thái siêu âm Tokyo](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-theo-Tokyo.jpeg)
+
 _Phân loại hình ảnh khối u buồng trứng theo đại học Tokyo_
 
 Những cấu trúc u dạng nang của buồng trứng kiểu I đa số là những u nang thanh dịch hay các nang cơ năng.
@@ -64,6 +65,7 @@ O- RADS, hệ thống phân loại và xử trí các khối u buồng trứng d
   ![O-RADS 5](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-5.png)
 
 ![Phác đồ xử trí và phân loại O-RADS](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-xu-tri-va-phan-loai.png)
+
 _Phác đồ xử trí và phân loại O-RADS._
 
 ### Siêu âm Doppler và hệ thống IOTA 2010

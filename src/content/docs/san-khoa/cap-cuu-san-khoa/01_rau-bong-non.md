@@ -14,6 +14,7 @@ Khởi đầu của rau bong non là sự xuất huyết trong màng rụng đá
 Máu chảy ra giữa lớp cơ tử cung và các màng thai bị giam cầm trong khối máu tụ. Khi khối máu tụ lớn hơn, cùng áp lực tăng lên sẽ gây rò rỉ máu ra ngoài qua cổ tử cung, dẫn đến xuất huyết âm đạo.
 
 ![Khối máu tụ](../../../../assets/san-khoa/rau-bong-non/khoi-mau-tu.png)
+
 _Khối máu tụ._
 
 ### Nguồn chảy máu
@@ -41,6 +42,7 @@ Ngoại trừ chấn thương, nguyên nhân trực tiếp của rau bong non th
 - Thai lưu có thể xảy ra trong trường hợp nặng.
 
 ![EFM rau bong non](../../../../assets/san-khoa/rau-bong-non/EFM-rau-bong-non.png)
+
 _EFM rau bong non._
 
 Siêu âm không thấy khối máu tụ sau rau không loại trừ được chẩn đoán, nhưng giúp phân biệt với rau tiền đạo. Nồng độ D-dimer tăng có thể gợi ý.
@@ -86,6 +88,7 @@ Biến chứng phổ biến:
 - Không phải chỉ định cắt tử cung.
 
 ![Tử cung Couvelaire](../../../../assets/san-khoa/rau-bong-non/tu-cung-couvelaire.png)
+
 _Tử cung Couvelaire._
 
 ## Điều trị

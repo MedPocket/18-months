@@ -9,24 +9,22 @@ Hội chứng buồng trứng đa nang (PCOS – Polycystic Ovary Syndrome) là 
 - Cường androgen (rậm lông, mụn, hói đầu, cường testosterone).
 - Hình ảnh buồng trứng đa nang trên siêu âm.
 
-PCOS liên quan tới kháng insulin, béo phì trung tâm và nguy cơ hội chứng chuyển hóa. Tiêu chuẩn Rotterdam (2003) yêu cầu ≥2/3 tiêu chuẩn để chẩn đoán, sau khi đã loại trừ các nguyên nhân khác.
+PCOS liên quan tới kháng insulin, béo phì trung tâm và nguy cơ hội chứng chuyển hóa. Tiêu chuẩn Rotterdam (2003) yêu cầu ≥ 2/3 tiêu chuẩn để chẩn đoán, sau khi đã loại trừ các nguyên nhân khác.
 
 ## Định nghĩa
 
 - **PCOS**: Tổ hợp triệu chứng rối loạn phóng noãn, cường androgen, và/hoặc buồng trứng đa nang trên siêu âm.
-- **Siêu âm**: ≥12 nang kích thước 2–9 mm trên một mặt cắt **và/hoặc** thể tích buồng trứng >10 mL.
+- **Siêu âm**: ≥ 12 nang kích thước 2–9 mm trên một mặt cắt **và/hoặc** thể tích buồng trứng > 10 mL.
 
-## Chẩn đoán
+## Chẩn đoán theo Rotterdam 2003
 
-### Theo Rotterdam 2003
+Chẩn đoán khi có ≥ 2/3 tiêu chí:.
 
-Chẩn đoán khi có ≥2 trong 3 tiêu chí:.
-
-1. **Rối loạn phóng noãn**: kinh thưa (>35 ngày hoặc <8 lần/năm).
+1. **Rối loạn phóng noãn**: kinh thưa (> 35 ngày hoặc < 8 lần/năm).
 2. **Cường androgen**:
-   - **Lâm sàng**: rậm lông (Ferriman–Gallwey), mụn trứng cá, hói đầu kiểu nam, béo phì trung tâm (BMI >23 kg/m² hoặc vòng eo >80 cm, WHR >0.85).
-   - **Cận lâm sàng**: FTI (TT/SHBG × 100) >6.
-3. **Buồng trứng đa nang**: ≥12 nang 2–9 mm trên mặt cắt **và/hoặc** thể tích >10 mL.
+   - **Lâm sàng**: rậm lông (Ferriman–Gallwey), mụn trứng cá, hói đầu kiểu nam, béo phì trung tâm (BMI > 23 kg/m² hoặc vòng eo > 80 cm, WHR > 0.85).
+   - **Cận lâm sàng**: FTI (TT/SHBG × 100) > 6.
+3. **Buồng trứng đa nang**: ≥ 12 nang 2–9 mm trên mặt cắt **và/hoặc** thể tích > 10 mL.
 
 :::caution[Lưu ý]
 Nếu chỉ có hình ảnh buồng trứng đa nang mà không có triệu chứng khác, chưa chẩn đoán PCOS cho đến khi xuất hiện rối loạn kinh nguyệt hoặc cường androgen.

@@ -57,9 +57,11 @@ Hình ảnh trên siêu âm phụ thuộc vào thời điểm trong chu kỳ kin
 :::
 
 ![Tăng sinh nội mạc tử cung trên siêu âm](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/hinh-anh-sieu-am-tang-sinh-noi-mac-tu-cung.png)
+
 _Tăng sinh nội mạc tử cung.<br> Nội mạc tử cung có bề dầy 21.6mm đầu chu kỳ là bất thường. Không thể thiết lập chẩn đoán xuất huyết tử cung cơ năng khi có hình ảnh này._
 
 ![Siêu âm bơm nước buồng tử cung](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/sieu-am-bom-nuoc-buong-tu-cung.png)
+
 _Siêu âm bơm nước buồng tử cung (SIS).<br> Hình ảnh polyps lòng tử cung. Không thể thiết lập chẩn đoán xuất huyết tử cung cơ năng khi có hình ảnh này._
 
 Sinh thiết nội mạc tử cung sẽ cung cấp thông tin giải phẫu bệnh về tình trạng của nội mạc tử cung, qua đó giúp chẩn đoán được nguyên nhân thật sự của xuất huyết tử cung bất thường. Sinh thiết mù có thể được thực hiện qua nong và nạo (D&C). Ngày nay, D&C dần được thay thế bằng những thủ thuật đơn giản, rẻ tiền và tiện lợi hơn cho người bệnh. Pipelle® là catheter nhựa, nhỏ, không gây đau, cho phép thực hiện sinh thiết ở tại ngoại trú với gây tê tại chổ hoặc thậm chí không biện pháp vô cảm nào được sử dụng. Các trường hợp âm tính giả thường gặp là do tổn thương nằm khu trú như polyps hoặc tăng sinh khu trú nội mạc tử cung. Khả năng bỏ sót tổn thương lên đến 33% khi bề mặt tổn thương khu trú dưới 5% diện tích buồng tử cung.
@@ -67,6 +69,7 @@ Sinh thiết nội mạc tử cung sẽ cung cấp thông tin giải phẫu bệ
 Nội soi buồng tử cung cung cấp hình ảnh trực tiếp của nội mạc tử cung và giúp sinh thiết (hoặc phẫu thuật lấy bỏ) đúng vùng tổn thương cần khảo sát. Soi buồng tử cung đặc biệt có giá trị trong các trường hợp sinh thiết mù không cho kết quả phù hợp với chẩn đoán lâm sàng. Tuy nhiên, soi buồng tử cung là thủ thuật cần dụng cụ chuyên dùng, thực hiện tại phòng mổ với nhân lực được huấn luyện thành thạo. Do đó, cần lựa chọn đúng bệnh nhân để tránh những can thiệp quá mức không cần thiết.
 
 ![Lưu đồ tiếp cận xuất huyết tử cung bất thường quanh mãn kinh](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/luu-do-tiep-can-xuat-huyet-tu-cung-sau-man-kinh.png)
+
 _Lưu đồ tiếp cận xuất huyết tử cung bất thường quanh mãn kinh.<br>Trong lưu đồ, độ dầy nội mạc tử cung qua siêu âm thực hiện qua đường âm đạo vào N4-6 của chu kỳ là thông tin sơ cấp, giúp định hướng các thăm dò thứ cấp, có thể là D&C hay soi buồng tử cung._
 
 ## Nguyên tắc điều trị

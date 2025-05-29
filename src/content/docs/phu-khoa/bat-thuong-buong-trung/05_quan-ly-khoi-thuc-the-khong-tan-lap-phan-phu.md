@@ -24,6 +24,7 @@ Về bản chất, đây là nội mạc tử cung chức năng lạc vị tại
 Giả thuyết cấy ghép hiện đại, máu kinh trào ngược qua ngả vòi Fallope sẽ gieo rắc các mảnh vụn của nội mạc vào khoang phúc mạc, trong đó có bề mặt buồng trứng. Bề mặt buồng trứng sần sùi, nhiều khe rãnh là nơi bám rất tốt của các mảnh vụn nội mạc tử cung. Tế bào được cấy ghép là các tế bào có đặc tính nguyên thủy, tức là các progenitor chưa biệt hóa của nội mạc. Sau khi được gieo rắc trên bề mặt buồng trứng, các progenitor sẽ xâm nhập và phát triển khi và chỉ khi có các điều kiện đáp ứng miễn dịch thuận lợi. Đột biến tái cấu trúc các gene HMGA1 và HMGA2 được ghi nhận có liên quan mật thiết đến hình thành của các cấu trúc lạc tuyến nội mạc tử cung.
 
 ![Nang lạc tuyến nội mạc tử cung tại buồng trứng](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/nang-lac-tuyen-noi-mac-tu-cung-tai-buong-trung.png)
+
 _Giả nang, không vỏ bọc thật, lòng chứa dịch nâu chocolate._
 
 Đáp ứng miễn dịch bẩm sinh được kích hoạt dẫn đến tiến trình viêm. Acid arachidonic rồi COX-2 và cuối cùng là các prostaglandin gây ra biểu hiện viêm tại vị trí xâm nhập. Prostaglandin PGE₂ của tiến trình viêm sẽ gián tiếp kích hoạt tổng hợp estrogen thông qua aromatase P450 và STAR (steroidogenic acute regulatory protein). Estrogen là điều kiện quan trọng cho duy trì và phát triển các tổ chức nội mạc lạc vị.
@@ -81,11 +82,13 @@ Nếu bệnh nhân với nang lạc tuyến nội mạc tử cung đến vì hi�
 Nang lạc tuyến nội mạc tử cung không có ảnh hưởng trực tiếp trên chất lượng và khả năng thụ tinh của noãn bào. Dù sự hiện diện của nồng độ cao hemosiderin có làm tăng nồng độ hemosiderin trong nang noãn, nhưng điều này không ảnh hưởng đến kết quả của thụ tinh trong ống nghiệm. Như vậy, điều trị nang lạc tuyến nội mạc tử cung có hiếm muộn không đồng nghĩa với phẫu thuật.
 
 ![Lạc tuyến nội mạc tử cung vùng chậu](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/lac-tuyen-noi-mac-tu-cung-vung-chau.png)
+
 _Nang lạc tuyến nội mạc tử cung ở buồng trứng trái. Vùng chậu viêm dính toàn bộ, với các tổn thương lạc tuyến nội mạc tử cung ở phúc mạc. Cùng đồ Douglas bị xóa. Giải phẫu học của 2 vòi Fallope bị thay đổi._
 
 Vai trò của phẫu thuật chủ yếu nhằm để đánh giá giai đoạn của lạc tuyến nội mạc tử cung vùng chậu. Đây là mục đích quan trọng nhất, giúp đánh giá và lên kế hoạch tổng thể cho điều trị hiếm muộn, gồm sinh sản hỗ trợ hay ngoài sinh sản hỗ trợ.
 
 ![Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/AFS-ASRM.png)
+
 _Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM). Hệ thống này được chấp nhận rộng rãi. Dù còn hạn chế, nhưng hệ thống phân loại này là mẫu tiêu chuẩn để ghi nhận các bằng chứng lâm sàng và so sánh hiệu quả của các phương pháp điều trị khác nhau._
 
 Phẫu thuật không nhằm mục tiêu duy nhất là lấy bỏ nang lạc tuyến nội mạc tử cung. Lấy bỏ nang lạc tuyến có thể làm cho tiến trình điều trị thuận lợi hơn về mặt kỹ thuật, nhưng làm cho dự trữ buồng trứng có thể bị suy giảm. Vì thế, nếu buộc phải phẫu thuật để cải thiện kết cục của điều trị hiếm muộn thì phải cân nhắc tính toán đến 3 "tiền đề":
@@ -99,6 +102,7 @@ Phẫu thuật không nhằm mục tiêu duy nhất là lấy bỏ nang lạc tu
 Ứ dịch ống dẫn trứng di chứng của nhiễm Chlamydia trachomatis, áp-xe tai vòi buồng trứng không đáp ứng với kháng sinh, lao vòi trứng là các cấu trúc thực thể không tân lập có chỉ định ngoại khoa ưu tiên.
 
 ![Vòi Fallope ứ dịch trên siêu âm](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/u-dich-voi-fallope-tren-sieu-am.png)
+
 _Hình ảnh khối ở phần phụ luôn đặt ra câu hỏi về nguồn gốc của khối này. Khi có hình ảnh tương tự, buộc phải tìm thấy cấu trúc buồng trứng với noãn nang, biệt lập với cấu trúc phản âm trống, dạng dài, có vách của ứ dịch vòi Fallope. Trên hình này, ta vẫn chưa nhìn thấy buồng trứng._
 
 ### Bệnh học
@@ -106,6 +110,7 @@ _Hình ảnh khối ở phần phụ luôn đặt ra câu hỏi về nguồn g�
 Do các phản ứng viêm, vòi Fallope bị tổn hại, xơ hóa và bít tắc. Thay đổi môi trường tại vòi Fallope là điều kiện thuận lợi phát sinh các nhiễm khuẩn thứ cấp đa vi khuẩn, kể cả với vi khuẩn yếm khí. Nhiễm khuẩn thứ phát tạo ra nội độc tố (endotoxins), cytokines, gốc tự do (oxidative stress), và rò rỉ chúng vào buồng tử cung. Nhiễm khuẩn thứ phát còn tạo nên môi trường dịch vòi Fallope nghèo dinh dưỡng, chủ yếu là nghèo glucose do cạnh tranh.
 
 ![Ứ dịch vòi Fallope qua nội soi ổ bụng](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/u-dich-voi-fallope-2-ben-qua-noi-soi.png)
+
 _Vòi Fallope ứ dịch, hoàn toàn mất chức năng, và là nguồn độc chất._
 
 Ứ dịch vòi Fallope sau nhiễm Chlamydia trachomatis gây kết cục xấu cho thụ tinh trong ống nghiệm vẫn chưa được rõ. Nếu phẫu thuật lấy bỏ vòi Fallope ứ dịch trước khi thực hiện thụ tinh trong ống nghiệm, thì kết quả sẽ được cải thiện đáng kể khi so với không được cắt bỏ vòi Fallope ứ dịch trước thụ tinh trong ống nghiệm. Xu hướng hiện nay có vẻ thiên về các ảnh hưởng của các độc tố từ vòi Fallope trên khả năng làm tổ của phôi (tức ảnh hưởng gây hỗn loạn dòng thác đối thoại miễn nhiễm trước chấp nhận mảnh bán dị ghép) mà rối loạn vi sinh,sinh hóa-miễn nhiễm tại vòi Fallope sau nhiễm Chlamydia trachomatis gây ra. đối thoại miễn nhiễm thể hiện bằng việc chế tiết cytokines quanh cửa sổ làm tổ gồm cytokines like IL-1, LIF, colony stimulating factor-1 (CSF-1) và integrin αvβ3. Dịch từ vòi Fallope tổn thương có thể ảnh hưởng đến sản xuất các thành tố này từ phôi hay nội mạc tử cung và ảnh hưởng đến làm tổ.

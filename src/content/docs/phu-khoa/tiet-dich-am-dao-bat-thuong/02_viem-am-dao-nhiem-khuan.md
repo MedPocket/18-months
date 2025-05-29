@@ -12,6 +12,7 @@ Loạn khuẩn âm đạo (bacterial vaginosis) (BV) là tình trạng rối lo�
 Biểu hiện lâm sàng chính của loạn khuẩn âm đạo là tiết dịch âm đạo nặng mùi.
 
 ![Dịch âm đạo bất thường](../../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/dich-am-dao-bat-thuong.png)
+
 _Dịch âm đạo màu trắng xám, loãng, "có mùi" hoặc "mùi cá thối". Chỉ có khoảng 25% các trường hợp là có kích ứng nhẹ ở âm hộ._
 
 ## Nguyên nhân
@@ -41,6 +42,7 @@ Cần 3/4 tiêu chuẩn để xác lập chẩn đoán. Sensitivity (Se) và Spe
 :::
 
 ![Clue cells](../../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/clue-cells.png)
+
 _Là các tế bào biểu mô có nhiều vi khuẩn hình cầu bám dính trên bề mặt, làm mất ranh giới màng tế bào và bào chất, giống hình ảnh "kính mờ". Clue cells là yếu tố chỉ điểm loạn khuẩn âm đạo đáng tin cậy nhất. PPV trong chẩn đoán loạn khuẩn âm đạo khi hiện diện tế bào này là 95%._
 
 ### Điểm Nugent
@@ -54,6 +56,7 @@ _Là các tế bào biểu mô có nhiều vi khuẩn hình cầu bám dính tr�
 Tổng của chúng gọi là điểm Nugent, có thể là từ 0 đến 10. Điểm Nugent từ 7-10 được xem là có loạn khuẩn âm đạo.
 
 ![Nugent](../../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/bang-diem-nugent.png)
+
 _Tiêu chuẩn chẩn đoán loạn khuẩn âm đạo theo điểm Nugent có Se là 89% và Sp là 83% nếu so với tiêu chuẩn Amsel._
 
 ### Bệnh viện Từ Dũ
@@ -74,6 +77,7 @@ Có 2 trong 3 tiêu chuẩn:
 Khi cần điều trị, có 2 kháng sinh được đưa ra để lựa chọn là metronidazole (uống hay gel âm đạo) hoặc clindamycin (kem âm đạo). Loạn khuẩn âm đạo đáp ứng rất tốt với điều trị. Tuy nhiên, tỷ lệ tái phát của loạn khuẩn âm đạo rất cao, kể cả ngắn hạn (dưới 3 tháng) (15-30%) và trung hạn (dưới 1 năm) (đến 70%).
 
 ![Điều trị loạn khuẩn âm đạo CDC 2010](../../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/dieu-tri-loan-khuan-theo-cdc-2010.png)
+
 _Điều trị loạn khuẩn âm đạo theo CDC 2010._
 
 ### Phác đồ Bệnh viện Từ Dũ

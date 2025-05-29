@@ -40,6 +40,7 @@ Bạch huyết theo các mạch và đổ vào các hạch bạch huyết ở v�
 Thần kinh tách ra từ đám rối buồng trứng đi theo động mạch buồng trứng để vào buồng trứng.
 
 ![Giải phẫu mạch máu tử cung buồng trứng](../../../../assets/phu-khoa/giai-phau-buong-trung-va-cac-cau-truc-lien-quan/giai-phau-mach-mau-tu-cung-buong-trung.png)
+
 _Động mạch chậu trong cấp máu cho tử cung, và qua các nhánh nối, cấp 1 phần máu cho buồng trứng. Tuy nhiên, động mạch tử cung không phải là nguồn cấp máu chính cho buồng trứng. Nguồn cấp máu chính của buồng trứng đến từ động mạch chủ bụng ở vùng thắt lưng đi trong dây chằng treo buồng trứng để vào buồng trứng ở đầu vòi._
 
 ## Nguồn tham khảo

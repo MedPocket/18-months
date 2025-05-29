@@ -49,12 +49,15 @@ Pap’s test quy ước: thực hiện 2 lame phết tế bào cổ ngoài và c
 Tế bào lấy ra được cố định bằng dung dịch cồn 95° hoặc keo phun (Pap’s test quy ước) hoặc bằng môi trường của Thin Prep (Pap’s test nhúng dịch).
 
 ![Dụng cụ làm Pap's test](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/dung-cu-lam-pap.png)
+
 _Dụng cụ để làm Pap’s test (từ trái sang):<br> 1. Cytobrush dùng cho kênh cổ tử cung.<br> 2. Que Ayre dùng cho Pap’s test quy ước.<br> 3. Chổi lớn thường dùng cho Pap’s test Thin Prep._
 
 ![Cách lấy mẫu](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/cach-lay-mau-pap.png)
+
 _Cách lấy mẫu (từ trái sang)<br> 1. Cytobrush: Lấy ở kênh tử cung, tại vùng SCJ bị rút vào trong kênh, không đưa chổi lên quá sâu trong kênh cổ tử cung.<br> 2. Que Ayre: Lấy 2 lần, với đầu to và đầu nhọn. Cả 2 lần đều phải áp vào vùng chuyển sản, và lấy được SCJ.<br> 3. Chổi lớn: Áp vào SCJ và vùng chuyển sản._
 
 ![Cách trải lame](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/cach-trai-lame.png)
+
 _Cách trải lame:<br> 1. Chổi lớn: kéo để trải.<br> 2. Cytobrush: lăn tròn để trải.<br> 3. Que Ayre: kéo để trải._
 
 ### HPV testing
@@ -168,18 +171,23 @@ Tổn thương trong biểu mô gai mức độ cao (HSIL):
 ### Quản lý tế bào học
 
 ![Quản lý tế bào học bất thường](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/quan-ly-bat-thuong-te-bao-hoc-co-tu-cung.png)
+
 _Các khuyến cáo dựa theo: American Cancer Society, The American Society for Colposcopy and Cervical Pathology, và The American Society for Clinical Pathology. A: khuyến cáo mạnh, chứng cứ rõ ràng, hằng định. B: khuyến cáo trung bình, chứng cứ không hằng định. C: theo kinh nghiệm._
 
 ![ASC-US](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/asc-us.png)
+
 _ASC-US - Tế bào biểu mô gai kém trưởng thành hơn bình thường, với nhân to trong các tế bào hồng rộng. Nhiều tế bào trong số này có nhân đôi bất thường. Các nhân rộng với bờ kém rõ. ASC-US đòi hỏi phải có quản lý riêng, như ltổn thương có tiềm năng chuyển biến thành ung thư._
 
 ![LSIL](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/lsil.png)
+
 _LSIL - Các tế bào với nhân rộng gấp 5 lần so với nhân bình thường của các tế bào trung gian. Hầu hết các LSIL có liên quan đến HPV._
 
 ![HSIL](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hsil.png)
+
 _HSIL - Các tế bào bất thường đơn lẽ với phân bố nhiễm sắc chất thô, nằm ở giữa tế bào. Tế bào chất dầy._
 
 ![Carcinoma in situ](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/carcinoma-in-situ.png)
+
 _Carcinoma in situ - Các tế bào bất thường sát nhập lại tạo thành các hội bào. Rất ít tế bào chất. Các nhân ken dầy._
 
 ## Soi cổ tử cung
@@ -255,15 +263,19 @@ Kết quả soi cổ tử cung được trả lời theo bảng phân loại soi
 (E) Nhóm các dấu hiệu soi khác: viêm cổ tử cung-âm đạo, loét cổ tử cung, teo biểu mô, condyloma và papilloma, các dạng khác: polyp kênh cổ tử cung, u nhú, nang Naboth…
 
 ![Hình ảnh cổ tử cung bình thường qua soi cổ](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-binh-thuong.png)
+
 _Cổ tử cung bình thường qua soi cổ tử cung._
 
 ![Hình ảnh chuyển sản với ranh giới lát trụ, biểu mô lát non](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-ranh-gioi-lat-tru-bieu-mo-lat-non.png)
+
 _Cổ tử cung chuyển sản với ranh giới lát trụ, biểu mô lát non._
 
 ![Hình ảnh cổ tử cung chuyển sản với cửa tuyến, đảo tuyến](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-cua-tuyen-dao-tuyen.png)
+
 _Cổ tử cung chuyển sản với cửa tuyến, đảo tuyến._
 
 ![Hình ảnh cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-tai-tao-voi-luoi-bieu-mo-chuyen-san-non.png)
+
 _Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non._
 
 ## Nguồn tham khảo

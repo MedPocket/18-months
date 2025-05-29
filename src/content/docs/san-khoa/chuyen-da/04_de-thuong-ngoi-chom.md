@@ -35,6 +35,7 @@ Ngôi được xem là đã lọt khi đường kính lọt của ngôi vượt 
   - Đã lọt: +1, +2, +3.
 
 ![Độ lọt ngôi thai](../../../../assets/san-khoa/de-thuong-ngoi-chom/do-lot-ngoi-thai.png)
+
 _Độ lọt ngôi thai._
 
 ### Xuống
@@ -46,6 +47,7 @@ Là sự di chuyển tiếp theo của ngôi thai trong tiểu khung sau khi đ�
 Xoay trong giúp ngôi điều chỉnh để đường kính sổ của đầu trùng với đường kính trước - sau của eo dưới.
 
 ![Xuống và xoay trong](../../../../assets/san-khoa/de-thuong-ngoi-chom/xuong-va-xoay-trong.png)
+
 _Xuống và xoay trong._
 
 ### Sổ
@@ -57,6 +59,7 @@ Sổ thai xảy ra khi ngôi vượt qua eo dưới, điểm tựa chính là **
 Các giai đoạn **(a → d)** xảy ra theo cơ chế tự nhiên, **không được can thiệp**:
 
 ![Đẻ thường ngôi chỏm a-d](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-a-d.png)
+
 _Đẻ thường ngôi chỏm._
 
 Từ giai đoạn **(e → h)**, người đỡ sinh có thể **hỗ trợ** nếu thỏa 3 điều kiện:
@@ -72,6 +75,7 @@ Từ giai đoạn **(e → h)**, người đỡ sinh có thể **hỗ trợ** n�
   - Quấn chặt: kẹp và cắt.
 
 ![Đẻ thường ngôi chỏm e-f](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-e-f.png)
+
 _Đẻ thường ngôi chỏm._
 
 - **Xoay ngoài thì 1st**: đầu tự xoay về vị trí ban đầu.
@@ -81,6 +85,7 @@ _Đẻ thường ngôi chỏm._
 - **Đỡ vai sau**: kéo thai lên trên, vai sau sổ nhẹ nhàng, giữ tầng sinh môn.
 
 ![Đẻ thường ngôi chỏm g-h](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-g-h.png)
+
 _Đẻ thường ngôi chỏm._
 
 - **Sổ phần còn lại**: Tay trái đỡ cổ, tay phải vuốt dọc lưng, nắm 2 bàn chân bằng 3 ngón tay (cái, trỏ, giữa). Sau sổ, giữ đầu thai thấp hơn bàn sinh.

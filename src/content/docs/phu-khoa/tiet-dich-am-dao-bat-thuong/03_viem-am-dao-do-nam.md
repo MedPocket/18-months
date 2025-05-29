@@ -21,6 +21,7 @@ sụp đổ của môi trường khuẩn hệ âm đạo lành mạnh là:
 3. Bất thường miễn dịch. Gia tăng glycogen âm đạo: thai kỳ, đái tháo đường, thuốc ngừa thai chứa estrogen liều cao, suy giảm miễn dịch, môi trường âm đạo ẩm ướt, dùng corticosteroids.
 
 ![Yếu tố nguy cơ viêm âm đạo do nấm](../../../../assets/phu-khoa/viem-am-dao-do-nam/yeu-to-nguy-co-cua-nam.png)
+
 _3 yếu tố dẫn đến mất cân bằng giữa khuẩn hệ (microbiome) và nấm hệ (fungal microbiome) (mycobiome): tổn thương niêm mạc, kháng sinh và rối loạn miễn dịch._
 
 ## Đặc điểm lâm sàng và chẩn đoán
@@ -28,11 +29,13 @@ _3 yếu tố dẫn đến mất cân bằng giữa khuẩn hệ (microbiome) v�
 ### Lâm sàng
 
 ![Viêm âm hộ do Candida](../../../../assets/phu-khoa/viem-am-dao-do-nam/nam-candida-am-ho.png)
+
 _Âm hộ viêm đỏ rực, với các mảng trắng dầy, kèm theo là triệu chứng khô rát âm hộ, giao hợp đau và cảm giác rất khó chịu khi đi tiểu._
 
 Khí hư của nhiễm C.albicans rất đặc trưng, có dạng "phô mai sữa" không mùi, đặc, dính với pH từ 4-5.
 
 ![Viêm âm đạo do Candida](../../../../assets/phu-khoa/viem-am-dao-do-nam/nam-candida-am-dao.png)
+
 _Tiết dịch âm đạo đặc trưng. Các mảng trắng bám trên thành âm đạo. Âm đạo viêm đỏ, khô._
 
 ### Cận lâm sàng

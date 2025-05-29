@@ -13,6 +13,7 @@ Thể tích huyết thanh bắt đầu tăng từ tuần thứ 6 và ổn địn
 - **Với thai nhi**: Tăng nguy cơ sẩy thai, hạn chế tăng trưởng trong tử cung, tăng tỷ lệ chết chu sinh. Thalassemia ở thai nhi có thể từ nhẹ không đe dọa đến nghiêm trọng, thậm chí tử vong sơ sinh.
 
 ![Thay đổi thể tích huyết thanh và hồng cầu trong thai kỳ](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thay-doi-the-tich-huyet-thanh-va-huyet-cau-trong-thai-ky.png)
+
 _Thay đổi thể tích huyết thanh và hồng cầu trong thai kỳ._
 
 ## Phân loại thiếu máu trong thai kỳ

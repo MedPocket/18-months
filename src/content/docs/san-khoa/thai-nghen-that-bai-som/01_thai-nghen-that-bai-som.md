@@ -28,7 +28,8 @@ Khuyến cáo chẩn đoán thai kỳ thất bại khi siêu âm qua đường �
 2. Đường kính túi trung bình (MSD) ≥ 25 mm mà không có phôi thai.
 3. Không có phôi có nhịp tim sau ≥ 14 ngày kể từ khi siêu âm thấy túi thai không có túi noãn hoàng.
 4. Không có phôi có nhịp tim sau ≥ 11 ngày kể từ khi siêu âm thấy túi thai có túi noãn hoàng.  
-   :::
+
+:::
 
 Tiêu chuẩn rõ nhất là CRL ≥ 7 mm không thấy tim thai. Nếu CRL < 7 mm và không thấy tim, phải chờ tái siêu âm.
 
@@ -82,6 +83,14 @@ Dấu hiệu siêu âm dự báo (không khẳng định) bao gồm:
 - Tim thai chậm < 80–90 nhịp/phút.
 - Xuất huyết dưới màng nuôi.
 - Xoang ối giãn rộng (expanded amnion sign).
+
+![Túi ối nhỏ](../../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-tui-oi-nho.png)
+
+_Doạ sẩy thai lưu: túi thai rất nhỏ, hiệu (MSD-CRL) <5mm. Túi thai rất nhỏ, (MSD-CRL) <5mm, có tụ máu dưới màng đệm._
+
+![Túi ối giãn](../../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-tui-oi-gian.png)
+
+_Doạ sẩy thai lưu: xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm._
 
 ### Sẩy thai khó tránh
 

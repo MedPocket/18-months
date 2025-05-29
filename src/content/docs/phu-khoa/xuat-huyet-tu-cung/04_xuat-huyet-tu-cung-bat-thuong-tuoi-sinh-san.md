@@ -21,11 +21,13 @@ AUB mạn tính: chảy máu trong lòng tử cung trong 6 tháng gần nhất v
 AUB cấp tính: chảy máu ở phụ nữ trong tuổi sinh sản, không có thai, mức độ nặng, cần can thiệp nhanh để hạn chế lượng máu mất.
 
 ![Các thuật ngữ về xuất huyết tử cung bất thường](../../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/cac-thuat-ngu-ve-xuat-huyet-tu-cung-bat-thuong.jpeg)
+
 _Các thuật ngữ về xuất huyết tử cung bất thường._
 
 ### Theo nguyên nhân (PALM - COEIN)
 
 ![Phân loại PALM-COEIN](../../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/palm-coein.png)
+
 _Phân loại PALM-COEIN._
 
 ## Tiếp cận AUB
@@ -46,9 +48,11 @@ Khảo sát cận lâm sàng sơ cấp nhằm loại trừ xuất huyết tử c
   - Cộng hưởng từ (MRI bụng-chậu) có thể có ích trong bệnh tuyến cơ tử cung và các chẩn đoán phân biệt của nó, hay trong trường hợp có khối u tuyến yên tiết prolactin (MRI sọ não).
 
 ![Sơ đồ tiếp cận AUB mạn tính](../../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
+
 _Sơ đồ tiếp cận AUB mạn tính theo Bệnh viện Từ Dũ._
 
 ![Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường](../../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/tom-luoc-khao-sat-va-chan-doan-1-so-truong-hop.jpeg)
+
 _Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường._
 
 ## Xử trí AUB

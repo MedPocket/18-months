@@ -16,9 +16,11 @@ Cận lâm sàng: Siêu âm và nhũ ảnh: BIRADS II và III.
 ## Phác đồ xử trí
 
 ![Xử trí nang vú Bệnh viện Từ Dũ](../../../../assets/phu-khoa/u-vu/xu-tri-nang-vu.jpeg)
+
 _Xử trí nang vú Bệnh viện Từ Dũ._
 
 ![Xử trí u vú Bệnh viện Từ Dũ](../../../../assets/phu-khoa/u-vu/xu-tri-khoi-u-vu.jpeg)
+
 _Xử trí u vú Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo

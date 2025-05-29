@@ -10,6 +10,7 @@ Sự lành vết thương là quá trình sửa chữa, phục hồi mô ở v�
 Các mô khác nhau có những quá tình lành thương khác nhau nhưng đều trải qua trình tự như nhau. Có thể chia toàn bộ quá trình thành 3 giai đoạn: viêm, tiến triển (biểu mô hóa, co vết thương), trưởng thành (tạo mô sẹo và sẹo trưởng thành).
 
 ![Các giai đoạn của sự lành thương](../../../assets/phu-khoa/lanh-thuong/cac-giai-doan-lanh-vet-thuong.jpeg)
+
 _Các giai đoạn của sự lành thương._
 
 ## Giai đoạn viêm (ngày 0-5)

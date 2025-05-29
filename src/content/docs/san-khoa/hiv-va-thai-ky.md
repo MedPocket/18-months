@@ -27,7 +27,7 @@ HIV (Human Immunodeficiency Virus) là bệnh lây truyền chủ yếu qua đư
 
 _Phân loại lâm sàng theo CDC._
 
-- **Chẩn đoán AIDS**: giai đoạn C bất kỳ hoặc CD4 < 200 cells/mm³ kèm bệnh lý định nghĩa.
+**Chẩn đoán AIDS**: giai đoạn C bất kỳ hoặc CD4 < 200 cells/mm³ kèm bệnh lý định nghĩa.
 
 ## Điều trị
 

@@ -70,6 +70,7 @@ Progestogen trong điều trị này nên là progestogen có hoạt tính anti-
 :::
 
 ![Phân loại các progestin và SPRM theo nguồn gốc hóa học](../../../../assets/phu-khoa/xuat-huyet-tu-cung-o-tuoi-day-thi/phan-loai-progestins-va-sprm.png)
+
 _Phân loại các progestin và SPRM theo nguồn gốc hóa học.<br>Các progestin thuốc nhóm dẫn xuất của 19-nor testosterone là các progestin có hoạt tính kháng estrogen mạnh nhất, nhưng cũng có khả năng ức chế mạnh nhất trên hạ đồi, vì thế có nguy cơ gây tổn hại vĩnh viễn trục hạ đồi-yên. Trong điều trị xuất huyết tử cung tuổi dậy thì, thường dùng nhất là nhóm retroprogesterone, do khả năng ức chế trục rất yếu của nhóm progestin này._
 
 ### Liệu pháp phối hợp estrogen và progestogen
@@ -89,6 +90,7 @@ COC có thể có hiệu quả cho cầm máu, nhưng đồng thời khả năng
 Nếu sau 2-3 năm, tính chất của xuất huyết vẫn không thay đổi, các hành kinh bình thường không được tái lập thì phải xem đây là rối loạn phóng noãn thường trực do nguyên nhân khác, và được xử lý như những nguyên nhân này.
 
 ![Tóm lược hoạt tính của các progestin](../../../../assets/phu-khoa/xuat-huyet-tu-cung-o-tuoi-day-thi/tom-luoc-hoat-tinh-cua-cac-progestin.jpeg)
+
 _Tóm lược hoạt tính của ác progestin._
 
 Xem thêm tại điều trị [Xuất huyết tử cung do cơ năng](/phu-khoa/xuat-huyet-tu-cung/01_xuat-huyet-tu-cung-co-nang/).

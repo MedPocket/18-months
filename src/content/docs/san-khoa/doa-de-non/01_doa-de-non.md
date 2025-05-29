@@ -62,20 +62,20 @@ Các cơ chế bệnh sinh liên quan:
 ### Chiều dài cổ tử cung
 
 - Đo siêu âm ngả âm đạo, từ lỗ ngoài đến lỗ trong cổ tử cung.
-- tuần 19–23 + 6: nên khảo sát định kỳ.
-- tuần 24, nếu không triệu chứng mà cổ tử cung < 25 mm → nguy cơ sinh non tăng.
-- Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ ~1 %.
+  ![Chiều dài cổ tử cung](../../../../assets/san-khoa/doa-de-non/chieu-dai-co-tu-cung.png)
 
-![Chiều dài cổ tử cung](../../../../assets/san-khoa/doa-de-non/chieu-dai-co-tu-cung.png)
-_Chiều dài cổ tử cung._
+  _Chiều dài cổ tử cung._
+- Tuần 19–23 + 6: nên khảo sát định kỳ.
+- Tuần 24, nếu không triệu chứng mà cổ tử cung < 25 mm → nguy cơ sinh non tăng.
+- Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ ~1 %.
 
 ### Hình dạng lỗ trong và lỗ ngoài
 
 - Cổ tử cung dạng U, Y: nguy cơ cao.
 - Dạng I (hình phễu nhẹ): tiên lượng tốt hơn.
+  ![Hình dạng lỗ tử cung](../../../../assets/san-khoa/doa-de-non/hinh-dang-lo-tu-cung.png)
 
-![Hình dạng lỗ tử cung](../../../../assets/san-khoa/doa-de-non/hinh-dang-lo-tu-cung.png)
-_Hình dạng lỗ tử cung._
+  _Hình dạng lỗ tử cung._
 
 ### Xét nghiệm sinh hóa
 
@@ -211,12 +211,6 @@ Nifedipine ức chế kênh calci type II, có nhiều ở mạch máu, tử cun
 - Monitor tim thai và cơn gò 1 giờ liều đầu và mỗi 6 giờ sau đó.
 - Tránh truyền dịch quá mức.
 
-#### Progesterone
-
-Duphaston, Utrogestan… ức chế tổng hợp prostaglandin, sử dụng trong dọa sinh non giai đoạn sớm.
-
-**Tác dụng phụ:** mẹ có thể bị ứ mật trong thai kỳ.
-
 #### Betamimetics
 
 Betamimetics (ví dụ Salbutamol) là dẫn xuất catecholamines làm dãn cơ tử cung và cơ trơn khác qua kích thích thụ thể β₂.
@@ -250,9 +244,9 @@ Betamimetics (ví dụ Salbutamol) là dẫn xuất catecholamines làm dãn cơ
   - Ventolin 2 viên × 4–6 viên/ngày.
   - Salbutamol 1 viên × 1–3 viên/ngày (đặt hậu môn).
 
-### Corticosteroids liệu pháp dự phòng
+### Liệu pháp corticosteroids
 
-_Liệu pháp nhằm dự phòng hội chứng suy hô hấp cấp ở sơ sinh._
+Dự phòng hội chứng suy hô hấp cấp ở sơ sinh.
 
 **Chỉ định:** sinh non dự kiến 24–34 tuần, có nguy cơ trong 7 ngày.
 
@@ -262,7 +256,7 @@ _Liệu pháp nhằm dự phòng hội chứng suy hô hấp cấp ở sơ sinh.
 
 ### Bảo vệ thần kinh thai bằng MgSO₄
 
-_MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần)._
+MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần).
 
 **Chỉ định:** thai 24–31 + 6 tuần có nguy cơ sinh non trong 24 giờ.
 
@@ -289,12 +283,15 @@ _MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần)._
 
 - Dùng cho thai phụ có cổ tử cung < 25 mm hoặc tiền sử sinh non.
 
+- **Tác dụng phụ:** mẹ có thể bị ứ mật trong thai kỳ.
+
 ### Khâu vòng cổ tử cung
 
 - Cho trường hợp hở eo tử cung, kênh cổ ngắn < 25 mm.
 - Không lợi ở cổ ngắn không có tiền sử sinh non, có nguy cơ ở song thai.
 
 ![Khâu vòng cổ tử cung](../../../../assets/san-khoa/doa-de-non/khau-vong-co-tu-cung.png)
+
 _Khâu vòng cổ tử cung._
 
 ### Pessary
@@ -305,8 +302,11 @@ _Khâu vòng cổ tử cung._
 - Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.
 
 ![Vòng nâng cổ tử cung](../../../../assets/san-khoa/doa-de-non/vong-nang-co-tu-cung.png)
+
 _Vòng nâng cổ tử cung._
+
 ![Lưu đồ dự phòng sinh non đơn thai Bệnh viện Từ Dũ.](../../../../assets/san-khoa/doa-de-non/luu-do-du-phong-sinh-non.png)
+
 _Lưu đồ dự phòng sinh non đơn thai Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo

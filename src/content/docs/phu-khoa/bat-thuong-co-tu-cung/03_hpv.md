@@ -19,6 +19,7 @@ Bên trong là DNA kép vòng, dài 7.904 bp, gồm các gen:
 - **E6, E7:** đa chức năng, tương tác với p53 và pRb, quyết định khả năng sinh ung thư.
 
 ![DNA HPV16 7.904 bp](../../../../assets/phu-khoa/hpv/so-do-dna-hpv-16.png)
+
 _Sơ đồ DNA 7.904 bp của HPV type 16._
 
 ### Các type
@@ -53,9 +54,11 @@ Hơn 200 type HPV đã được định danh, trong đó ~85 type đã mô tả 
 Miễn dịch qua trung gian tế bào quyết định khả năng thanh thải HPV.
 
 ![Cơ chế hình thành tế bào bất tử khi nhiễm HPV](../../../../assets/phu-khoa/hpv/co-che-hinh-thanh-te-bao-bat-tu-khi-nhiem-hpv.png)
+
 _Cơ chế hình thành tế bào bất tử khi nhiễm HPV._
 
 ![Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV](../../../../assets/phu-khoa/hpv/mien-dich-bam-sinh-va-thich-nghi-qua-trung-gian-te-bao-bao-ve-chong-hpv.png)
+
 _Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV._
 
 ## Vaccine HPV

@@ -10,6 +10,7 @@ Bệnh lây truyền chủ yếu qua quan hệ tình dục đường âm đạo,
 Theo ước tính của Tổ chức Y tế thế giới (WHO), trong năm 2020, thế giới có khoảng 82.4 triệu trường hợp lậu mới mắc, trong đó khu vực Tây Thái Bình Dương có 23.2 triệu ca. Đồng nhiễm Chlamydia trachomatis được phát hiện ở 10-40% số người mắc bệnh lậu.
 
 ![N. gonorrhoeae](../../../../assets/phu-khoa/lau/song-cau-khuan.png)
+
 _N. gonorrhoeae là các song cầu Gram âm, hình hạt cà phê, nằm ở trong tế bào._
 
 ## Đặc điểm bệnh lậu
@@ -37,9 +38,11 @@ Lậu hầu họng chủ yếu không có triệu chứng, có thể đau họng
 Ở trẻ sơ sinh, viêm kết mạc mắt do lậu có biểu hiện chảy mủ ở mắt và sưng mí mắt, nếu không được điều trị có thể dẫn đến loét, sẹo giác mạc và mù.
 
 ![Đặc điểm lâm sàng bệnh lậu](../../../../assets/phu-khoa/lau/lam-sang-benh-lau.png)
+
 _Triệu chứng "giọt buổi sáng", đặc trưng của viêm mủ niệu đạo do lậu ở nam, xuất hiện vài ngày sau nhiễm bệnh, kèm theo tiểu buốt, gắt, tiểu mủ và áp-xe tuyến Bartholin bên trái viêm cấp, sưng, nóng, đau._
 
 ![Lậu hầu họng](../../../../assets/phu-khoa/lau/lau-hau-hong.png)
+
 _Lậu hầu họng._
 
 ### Cận lâm sàng

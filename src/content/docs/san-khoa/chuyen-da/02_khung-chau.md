@@ -32,20 +32,21 @@ Eo trên là mặt phẳng xương đầu tiên mà ngôi thai phải vượt qu
 Eo trên là vòng xương cứng, không thay đổi trong chuyển dạ. Kích thước của eo trên được thể hiện qua các **đường kính**:
 
 ![Các đường kính eo trên](../../../../assets/san-khoa/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
+
 _Các đường kính eo trên._
 
-### Đường kính trước-sau:
+**Đường kính trước-sau:**
 
 - **Mỏm nhô – thượng vệ**: 11 cm.
 - **Mỏm nhô – hạ vệ**: 12 cm. Đo được bằng tay, nhưng chỉ phản ánh gián tiếp đường kính thật sự của eo trên.
 - **Mỏm nhô – hậu vệ**: 10.5 cm. Đây là đường kính **hữu dụng** và **quan trọng nhất**, vì là đường kính thật sự mà ngôi thai phải vượt qua.
 
-### Đường kính chéo:
+**Đường kính chéo:**
 
 - Từ khớp cùng-chậu bên này đến gai mào chậu lược bên kia.
 - Trị số bình thường: 12.75 cm.
 
-### Đường kính ngang:
+**Đường kính ngang:**
 
 - **Ngang tối đa**: 13.5 cm – không có giá trị sản khoa vì nằm gần mỏm nhô.
 - **Ngang hữu dụng**: 12.5 cm – là đường kính ngang đi qua trung điểm của đường kính trước-sau. Dù quan trọng, nhưng **không thể đo được lâm sàng**.
@@ -63,9 +64,10 @@ Eo giữa là đoạn hẹp nhất về mặt giải phẫu của đường sinh
 Hõm xương cùng tạo thành một **khúc cong**, giống như "khúc cua cùi chỏ", đòi hỏi ngôi thai phải xoay để vượt qua.
 
 ![Tiểu khung trên thiết đồ đứng dọc](../../../../assets/san-khoa/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
+
 _Tiểu khung trên thiết đồ đứng dọc._
 
-### Các đường kính chính:
+**Các đường kính chính:**
 
 - **Đường kính trước-sau**: 11.5 cm – không có ý nghĩa lâm sàng.
 - **Đường kính ngang**: 10.5 cm – khoảng cách giữa 2 gai hông; **có thể đo được và có giá trị lâm sàng cao**.
@@ -88,7 +90,7 @@ Cấu tạo gồm 2 tam giác:
    - Hai cạnh bên: Dây chằng tọa-cùng.
    - Do khớp cùng-cụt là **khớp bán động**, đỉnh xương cụt có thể bị đẩy ra sau, giúp mở rộng thêm không gian eo dưới trong chuyển dạ.
 
-### Các đường kính chính:
+**Các đường kính chính:**
 
 - **Trước-sau**: 9.5–11.5 cm – không có ý nghĩa lâm sàng vì tính chất không đồng phẳng.
 - **Ngang**: 11 cm – khoảng cách giữa hai ụ ngồi; đo được trên lâm sàng, **có giá trị nhất định**.
@@ -121,6 +123,7 @@ Thực hiện khi sản phụ chuyển dạ hoặc thai đủ trưởng thành. 
 Theo Caldwell–Moloy, khung chậu được chia thành 4 loại chính:
 
 ![Các dạng khung chậu](../../../../assets/san-khoa/khung-chau-trong-san-khoa/cac-dang-khung-chau-theo-caldwell-moloy.png)
+
 _4 dạng khung chậu theo Caldwell-Moloy._
 
 - **Gynecoid (dạng phụ nữ)** – 50.6%:

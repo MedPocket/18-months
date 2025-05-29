@@ -23,6 +23,7 @@ Tự khám vú không được Hiệp hội Ung thư Hoa Kỳ xem như biện ph
 Siêu âm không được xem là biện pháp hình ảnh thích hợp cho tầm soát ung thư vú.
 
 ![Giá trị của các phương tiện chẩn đoán](../../../../assets/phu-khoa/ung-thu-vu/gia-tri-cua-cac-phuong-tien-chan-doan.png)
+
 _Giá trị của các phương tiện chẩn đoán._
 
 ### Khám vú
@@ -46,15 +47,19 @@ Mục đích của quan sát là cảm nhận hình dạng, kích thước, sự
 Nếu như tự quan sát, thì tốt nhất là đứng trước gương. Tự sờ nắn: được thực hiện lúc tắm, khi nằm thư giãn. Lần lượt khám mỗi 1/4 vú, hạch đòn và hạch nách.
 
 ![Tự quan sát trước gương và tự sờ nắn khi tắm và khi nằm](../../../../assets/phu-khoa/ung-thu-vu/kham-vu-truoc-guong-va-tu-so-nan.png)
+
 _Tự quan sát trước gương và tự sờ nắn khi tắm và khi nằm._
 
 ![Các tư thế tự quan sát trước gương và các tư thế để tự sờ nắn](../../../../assets/phu-khoa/ung-thu-vu/kham-vu-truoc-guong-va-cac-tu-the-so-nan.png)
+
 _Các tư thế tự quan sát trước gương và các tư thế để tự sờ nắn._
 
 ![Khám vú bằng cách dùng 3 ngón giữa của 2 bàn tay](../../../../assets/phu-khoa/ung-thu-vu/kham-vu-bang-3-ngon-giua.png)
+
 _Khám vú bằng cách dùng 3 ngón giữa của 2 bàn tay. Khi tự sờ nắn, bàn tay để sau gáy sẽ giúp cảm nhận được tốt hơn._
 
 ![Lộ trình của các ngón tay khi tự khám vú](../../../../assets/phu-khoa/ung-thu-vu/kham-vu-theo-thu-tu.png)
+
 _Lộ trình của các ngón tay khi tự khám vú._
 
 Các dấu hiệu bất thường có thể nhận thấy khi tự khám vú buộc người phụ nữ phải gặp bác sĩ gồm:
@@ -87,6 +92,7 @@ Việc xử lý kết quả tầm soát có thể dựa trên gợi ý của h�
 - BI-RADS 6 là loại chỉ được dùng cho các nhũ ảnh đã được xác định là ung thư qua sinh thiết trước đó. Trong trường hợp này, nhũ ảnh là biện pháp theo dõi điều trị.
 
 ![BI-RADS](../../../../assets/phu-khoa/ung-thu-vu/bi-rads.png)
+
 _BI-RADS được xây dựng bởi nhiều Hiệp hội khác nhau như ACS, ACOG và Hiệp hội Quang tuyến (Radiology) Hoa kỳ. Tuy nhiên, đứng tên bản quyền là của Hiệp hội Quang tuyến Hoa kỳ. Các phiên bản trước đây của BI-RADS không chia loại 4 ra 3 mức A, B, C. Loại 6 cũng mới được đưa vào phiên bản BI-RADS 2015._
 
 ### Giải phẫu bệnh
@@ -107,9 +113,11 @@ Sinh thiết trọn khối u, cắt bỏ toàn bộ sang thương vú được t
 ### Lịch tầm soát
 
 ![Lịch tầm soát ung thư vú bằng nhũ ảnh cho phụ nữ với nguy cơ bình quân, theo các tổ chức/hiệp hội khác nhau tại Hoa Kỳ](../../../../assets/phu-khoa/ung-thu-vu/lich-tam-soat-ung-thu-vu-bang-nhu-anh-phu-nu-nguy-co-trung-binh-tai-hoa-ky.jpeg)
+
 _Lịch tầm soát ung thư vú bằng nhũ ảnh cho phụ nữ với nguy cơ bình quân, theo các tổ chức/hiệp hội khác nhau tại Hoa Kỳ._
 
 ![Lịch tầm soát ung thư vú cho phụ nữ với nguy cơ trung bình, theo khuyến cáo của Hiệp hội Ung thư Hoa kỳ (2015)](../../../../assets/phu-khoa/ung-thu-vu/lich-tam-soat-ung-thu-vu-phu-nu-nguy-co-trung-binh-theo-acs-2015.png)
+
 _Lịch tầm soát ung thư vú cho phụ nữ với nguy cơ trung bình, theo khuyến cáo của Hiệp hội Ung thư Hoa kỳ (2015).<br>Tầm soát dựa trên nhũ ảnh. Ở tuổi 40, người phụ nữ với nguy cơ trung bình có thể bắt đầu chương trình tầm soát nếu như họ muốn. Tuổi 45 là lứa tuổi bắt buộc của tầm soát nhữ ảnh hàng năm, và kéo dài cho đến năm 55 tuổi. Sau 55 tuổi, việc tầm soát nhũ ảnh bắt buộc sẽ chuyển sang được thực hiện 1 lần cho mỗi 2 năm. Việc tầm soát được tiếp tục cho đến khi nào người phụ nữ còn cảm nhận rằng mình vẫn khỏe mạnh._
 
 Khi thực hiện nhũ ảnh thường quy tầm soát ung thư vú ở mọi phụ nữ trong độ tuổi 40-49 tuổi, sẽ có ít nhất 1 lần dương tính giả. Nhũ ảnh thường quy đơn thuần không được chỉ định ở
@@ -120,6 +128,7 @@ Dù rằng MRI có độ nhạy rất cao, nhưng vẫn có khả năng bỏ só
 Đối với các đối tượng nguy cao đặc biệt của ung thư vú, không thực hiện tầm soát bằng nhũ ảnh đơn thuần. Ở các đối tượng này, việc tầm soát phải được thực hiện bằng cộng hưởng từ (MRI) và nhũ ảnh hàng năm.
 
 ![Lịch tầm soát ung thư vú bằng các phương tiện khác nhau cho phụ nữ với nguy cơ cao, theo các tổ chức/hiệp hội khác nhau tại Hoa Kỳ](../../../../assets/phu-khoa/ung-thu-vu/lich-tam-soat-ung-thu-vu-phu-nu-nguy-co-cao-tai-hoa-ky.png)
+
 _Lịch tầm soát ung thư vú bằng các phương tiện khác nhau cho phụ nữ với nguy cơ cao, theo các tổ chức/hiệp hội khác nhau tại Hoa Kỳ._
 
 Các phụ nữ sau được xếp vào nhóm có nguy cơ cao của ung thư vú và cần được thực hiện tầm soát hàng năm bằng MRI phối hợp với nhũ ảnh:
@@ -193,9 +202,11 @@ Ung thư vú có khuynh hướng xâm lấn và di căn sớm. Ung thư vú có 
 Kết quả sinh thiết lõi có ý nghĩa xác nhận ung thư, đồng thời cho biết định hướng điều trị trước phẫu thuật nếu cần. CT scan, MRI, xạ hình xương không cần thiết trừ khi có triệu chứng hoặc bất thường sinh hóa máu.
 
 ![Hình ảnh ung thư vú trên nhũ ảnh](../../../../assets/phu-khoa/ung-thu-vu/ung-thu-vu-tren-nhu-anh.png)
+
 _Hình ảnh ung thư vú trên nhũ ảnh._
 
 ![Hình ảnh ung thư vú trên nhũ ảnh, kèm đóng vôi vi thể](../../../../assets/phu-khoa/ung-thu-vu/ung-thu-vu-tren-nhu-anh-kem-dong-voi.png)
+
 _Hình ảnh ung thư vú trên nhũ ảnh, kèm đóng vôi vi thể._
 
 Phẫu thuật trước tiên nếu thỏa các yếu tố:
@@ -242,6 +253,7 @@ Chỉ định đoạn nhũ được căn cứ trên tính chất của sang thư
 Chỉ định đoạn nhũ được căn cứ trên tính chất của sang thương trung tâm, u > 4cm, đa sang thương trên nhũ ảnh và lâm sàng và có chú ý đến yêu cầu của bệnh nhân.
 
 ![Đoạn nhũ](../../../../assets/phu-khoa/ung-thu-vu/doan-nhu.png)
+
 _Đoạn nhũ đơn giản (Simple mastectomy) đòi hỏi phải cắt bỏ mô vú, núm vú, quầng vú, không cắt cơ ngực. Nạo hạch 1/4 trên ngoài vú và hạch nách dưới.<br>Đoạn nhũ tận gốc biến đổi (Modified radical mastectomy) cho phép bảo tồn cả 2 cơ ngực lớn và ngực bé, nhưng đòi hỏi nạo hạch mức I và II. Không nạo hạch nách trên.<br>Đoạn nhũ tận gốc (Radical mastectomy: Halsted) lấy bỏ toàn bộ vú, các cơ ngực và nạo hạch nách toàn bộ. Tử suất cao. Ngày nay không còn được thực hiện._
 
 #### Theo dõi sau phẫu thuật
@@ -269,6 +281,7 @@ Yếu tố tiên lượng tái phát tại chỗ sau đoạn nhũ gồm:
 - Các biomarker như HER2.
 
 ![Yếu tố nguy cơ tái phát](../../../../assets/phu-khoa/ung-thu-vu/nguy-co-tai-phat.png)
+
 _Yếu tố nguy cơ tái phát._
 
 ACS khuyến cáo xạ trị sau đoạn nhũ trên những bệnh nhân có u nguyên phát > 5cm, và có ≥ 4 hạch nách. Biến chứng thường gặp của xạ trị gồm có phản ứng da, dãn mao mạch, viêm phổi phóng xạ, hoại tử da-xương do phóng xạ…
@@ -319,6 +332,7 @@ Bệnh Paget vú là ung thư ở da vùng núm vú và quầng vú. Hầu hết
 Bệnh Paget có biểu hiện đầu tiên bên ngoài như là thay đổi dạng chàm ở núm vú. Cảm giác ngứa và nóng khó chịu kèm theo biến đổi dạng chàm. Khi tiến triển hơn, sẽ kèm chảy dịch và thay đổi ở núm vú, như tụt núm vú vào trong. Do biểu hiện không điển hình, rất giống như chàm, nên thường được chẩn đoán trễ. Chẩn đoán được xác nhận qua sinh thiết với hiện diện của các tế bào Paget.
 
 ![Bệnh Paget](../../../../assets/phu-khoa/ung-thu-vu/benh-paget.png)
+
 _Bệnh Paget thường bị chẩn đoán trễ do biểu hiện bên ngoài hết sức "hiền lành" như tổn thương chàm, cảm giác ngứa và nóng khó chịu._
 
 Việc điều trị tùy thuộc trước tiên vào sự hiện diện hay vắng mặt của ung thư ở mô bên dưới. Nếu có ung thư của mô bên dưới, việc điều trị được thực hiện giống như cho ung thư ở mô bên dưới. Tuy nhiên, nếu bệnh Paget không kèm theo khối u ở mô bên dưới xác nhận qua nhũ ảnh thì phẫu thuật cắt u bảo tồn, kèm theo lấy bỏ bắt buộc núm vú và quầng vú và kèm theo bắt buộc điều trị chiếu xạ toàn vú sau phẫu thuật cũng được xem là lựa chọn an toàn.

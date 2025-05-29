@@ -16,11 +16,13 @@ Mật độ vi khuẩn của âm đạo rất cao, khoảng $10^8 - 10^9$ vi khu
 Lactobacillus có vai trò chính bảo vệ vật chủ thông qua việc cung cấp lactic acid và qua đó duy trì pH thấp của âm đạo, trong khoảng từ 3.5 đến 4.5.
 
 ![Các kiểu trạng thái khuẩn hệ âm đạo](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/cac-trang-thai-khuan-he-am-dao.png)
+
 _Phân kiểu trạng thái khuẩn hệ được dựa trên chủng vi khuẩn ưu thế và điểm Nugent._
 
 Khuẩn hệ âm đạo tham gia vào cơ chế bảo vệ sơ cấp chống lại nhiễm khuẩn thông qua loại bỏ các tác nhân xâm nhập. Ở các cá thể khác nhau, các trạng thái khuẩn hệ khác nhau về thành phần lẫn chức năng, có những cơ chế tham gia tiến trình bảo vệ vật chủ không như nhau.
 
 ![Lactobacillus sp sản xuất Lactic acid và H2O2, ức chế các vi sinh vật có hại](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/lactobacillus-sp-san-xuat-acid-lactic-h2o2.png)
+
 _Lactobacillus sp sản xuất các chất ức chế các vi sinh vật có hại._
 
 Chính lactic acid chứ không phải pH đảm trách nhiệm vụ bảo vệ vật chủ. Lactic acid còn kích hoạt hệ thống miễn dịch bẩm sinh (innate immunity) chống lại các vi khuẩn Gram âm. Ngoài lactic acid, Lactobacillus còn sản xuất ra các bacteriocins chuyên biệt trên mục tiêu (target-specific bacteriocins) và $H_2O_2$ với phổ hoạt động rộng. Bacteriocins là protein (proteinaceous) có hoạt tính diệt khuẩn. Bacteriocins được tổng hợp bởi vi khuẩn và có phổ hoạt động hẹp. Hoạt tính chủ yếu của nó là đánh vào tính thấm của màng tế bào. Vai trò chủ yếu của bacteriocins là đánh vào các vi khuẩn lạ (ngoại lai) hay gây bệnh xuất hiện trong âm đạo. Nhiều chủng Lactobacillus sản xuất $H_2O_2$ trong điều kiện yếm khí. $H_2O_2$ là chất có khả năng ức chế sự trú đóng (colonization) của vi khuẩn có xu hướng gây bệnh. Tuy nhiên, chứng cứ về khả năng bảo vệ trực tiếp $H_2O_2$ là không rõ ràng, dường như là $H_2O_2$ có vai trò trung gian trong chuỗi bảo vệ khác.
@@ -28,6 +30,7 @@ Chính lactic acid chứ không phải pH đảm trách nhiệm vụ bảo vệ 
 Các con đường miễn dịch bẩm sinh (innate immunity) thông qua các tế bào hình răng cưa (dendritic cells) (DC), tế bào giết tự nhiên (natural killer cells) (NK) và đại thực bào dẫn đến hiện tượng thực bào và phóng thích IFN-γ. Các con đường miễn dịch thích ứng cũng tham gia vào cơ chế bảo vệ này, khi các tác nhân gây bệnh xâm nhập thành công qua khỏi hệ thống bảo vệ biểu mô. Ngoài ra, quá trình đáp ứng miễn dịch còn chế tiết các chất ức chế phân hủy protein từ bạch cầu giúp bảo vệ vùng mô tại chỗ khỏi các sản phẩm độc chất của quá trình viêm và nhiễm trùng.
 
 ![Miễn dịch tại âm đạo](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/mien-dich-tai-am-dao.png)
+
 _Được thực hiện thông qua cơ chế miễn dịch bẩm sinh (innate immunity) với các đại thực bào, tế bào hình răng (DC), tế bào giết tự nhiên (NK) và các cơ chế của miễn dịch thích nghi (adaptive immunity)._
 
 ### Khái niệm hệ vi khuẩn lành mạnh
@@ -37,6 +40,7 @@ Môi trường âm đạo được thiết kế cho sự phát triển cộng si
 Sự thay đổi bất cứ thành phần nào trong khuẩn hệ cũng sẽ làm thay đổi phân bố các chủng vi khuẩn của khuẩn hệ. Thành phần của khuẩn hệ thay đổi theo giai đoạn hoạt động nội tiết trong cuộc đời người nữ. Ở bé gái chưa dậy thì và phụ nữ đã mãn kinh, do âm đạo không nhận được estrogen từ buồng trứng, nên môi trường âm đạo là môi trường nghèo glycogen. Hệ quả là khuẩn hệ âm đạo ở các cá thể này có ít khuẩn Lactobacillus thường trú hơn so với phụ nữ trong độ tuổi sinh sản. Ở phụ nữ độ tuổi sinh sản, hiện diện của lactic acid làm pH âm đạo được duy trì ở mức 3.5 - 4.7. Trong khi đó, pH của âm đạo ở trẻ chưa dậy thì và người đã mãn kinh là 6 - 8.
 
 ![Thay đổi cấu trúc khuẩn hệ theo hoạt động nội tiết buồng trứng](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/thay-doi-khuan-he-theo-noi-tiet-buong-trung.png)
+
 _Hình trái và phải ở bé gái chưa dậy thì và người đã mãn kinh, các vi khuẩn không phải Lactobacillus sp. chi phối khuẩn hệ. Hình giữa sự hiện diện của estrogen đảm bảo nguồn cung cấp glycogen cho tế bào âm đạo dẫn đến ưu thế của Lactobacillus sp._
 
 Khi khuẩn hệ âm đạo bị đối mặt với các tác nhân trường diễn hay cấp diễn gây bởi hành vi của con người như dùng kháng sinh, dùng thuốc tránh thai nội tiết và các biện pháp kiểm soát sinh sản khác, thói quen hoạt động tình dục, dùng chất bôi trơn, thói quen thụt rửa âm đạo… nó sẽ có những điều chỉnh để đối phó lại các biến động khuẩn hệ.
@@ -52,6 +56,7 @@ Bình thường âm đạo có tiết dịch. Dịch tiết âm đạo có ngu�
 ## Sơ đồ xử trí
 
 ![Sơ đồ xử trí tiết dịch âm đạo bất thường theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
+
 _Sơ đồ xử trí tiết dịch âm đạo bất thường theo Bệnh viện Từ Dũ._
 
 Các biệt dược được sử dụng trên thị trường:

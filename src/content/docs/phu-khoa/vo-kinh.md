@@ -159,9 +159,11 @@ Nồng độ testosterone hoặc DHEAS tăng nhẹ gợi ý PCOS, nhưng nồng 
 Nếu các triệu chứng hoặc dấu hiệu gợi ý bệnh nền, có thể chỉ định các xét nghiệm cụ thể. Ví dụ, những bệnh nhân với bụng trắng bóng, mặt tròn, cổ trâu, thân béo tròn, và các chi gầy nên được làm xét nghiệm về Hội chứng Cushing. Bệnh nhân bị nhức đầu và giảm thị lực hoặc bằng chứng về rối loạn tuyến yên cần chụp MRI não. Nếu đánh giá lâm sàng cho thấy bệnh mạn tính, xét nghiệm chức năng gan, thận và tốc độ máu lắng được thực hiện.
 
 ![Đánh giá vô kinh nguyên phát](../../../assets/phu-khoa/vo-kinh/danh-gia-vo-kinh-nguyen-phat.png)
+
 _Đánh giá vô kinh nguyên phát._
 
 ![Đánh giá vô kinh thứ phát](../../../assets/phu-khoa/vo-kinh/danh-gia-vo-kinh-thu-phat.png)
+
 _Đánh giá vô kinh thứ phát._
 
 ### Nghiệm pháp thử nghiệm progestin

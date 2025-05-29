@@ -12,9 +12,11 @@ Tuyến vú được xem như phần phụ của da, có chức năng sản xu�
 Tuyến vú có dạng hình bán cầu, với chóp bán cầu là núm vú và quầng vú. Núm vú là nơi đổ ra ngoài của hệ thống các ống tuyến sữa. Quầng vú là quầng sắc tố quanh núm vú. Bên dưới của quầng vú là vị trí mà các ống dẫn sữa dãn rộng ra, gọi là các xoang sữa. Bầu vú được cấu tạo bởi mô tuyến vú và mô mỡ-liên kết. Tỷ lệ mô tuyến:mô liên kết thay đổi theo tình trạng hoạt động nội tiết theo tuổi, thai và cho con bú.
 
 ![Giải phẫu học tuyến vú 1](../../../../assets/phu-khoa/giai-phau-va-mo-hoc-tuyen-vu/giai-phau-tuyen-vu-1.png)
+
 _(Trái) Hình ảnh giải phẫu tuyến vú. (Phải) Dẫn lưu bạch dịch của tuyến vú đi theo các con đường nách, ức và hạ đòn. Xương đòn là mốc quan trọng đánh giá tình trạng di căn hạch của ung thư vú._
 
 ![Giải phẫu học tuyến vú 2](../../../../assets/phu-khoa/giai-phau-va-mo-hoc-tuyen-vu/giai-phau-tuyen-vu-2.jpeg)
+
 _Hình ảnh giải phẫu tuyến vú._
 
 Tuyến vú được cấp máu bởi các mạch máu từ thành ngực. Hệ bạch dịch của tuyến vú đổ vào nách và hạch vú (cạnh ức), sau đó nối tiếp với hệ thống bạch dịch trên xương đòn. Xương đòn là mốc quan trọng để đánh giá mức độ di căn hạch của các ung thư vú. Khảo sát các hạch nách và hạch thượng đòn quan trọng khi hướng dẫn người phụ nữ tự khám vú và đánh giá giai đoạn qua phẫu thuật các khối u vú.
@@ -41,6 +43,7 @@ Thay đổi có tính chu kỳ trên vú gây ra các triệu chứng mà ngư�
 Các tế bào ung thư vú có thể có ER (ER dương) hoặc không có ER (ER âm). Tương tự, tế bào ung thư có thể có PR dương hay PR âm. Các tế bào ung thư có ER hay PR dương sẽ đáp ứng với hormone liệu pháp, và có tiến triển chậm hơn là các ung thư với receptor âm tính. Khảo sát ER và PR là bắt buộc cho mọi bệnh phẩm lấy ra từ tuyến vú. Đánh giá receptor cho phép quyết định điều trị và tiên lượng sau phẫu thuật các u ở vú.
 
 ![Nang sữa](../../../../assets/phu-khoa/giai-phau-va-mo-hoc-tuyen-vu/nang-sua.png)
+
 _(Trái) Nang sữa được cấu tạo bởi lớp tế bào cơ biểu mô bên ngoài. Tế bào tuyến của nang sữa là các tế bào từ trụ thấp đến trụ, nằm trên màng đáy. (Phải) Cấu trúc ống tuyến vú trên hóa mô miễn nhiễm cho thấy các thụ thể với steroid (màu nâu) Trên ảnh là các thụ thể với estrogen._
 
 ## Nguồn tham khảo

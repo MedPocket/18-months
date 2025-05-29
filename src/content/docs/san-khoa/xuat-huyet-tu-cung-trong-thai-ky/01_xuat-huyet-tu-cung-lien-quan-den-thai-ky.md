@@ -76,7 +76,7 @@ Sau 13+6 tuần, các nguyên nhân chính gồm:
    - _Theo nguyên nhân:_ nghỉ ngơi, kháng viêm, chống co bóp, khâu eo tử cung, can thiệp ngoại khoa (nạo, mổ)…
    - _Cấp cứu khi cần thiết:_ truyền máu, hồi sức tích cực, mổ lấy thai khẩn cấp.
 
-## Tài liệu tham khảo
+## Nguồn tham khảo
 
 - Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning_
 - Cunningham, F. G. et al. (2018) - _Williams Obstetrics_

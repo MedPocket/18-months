@@ -39,6 +39,7 @@ Dấu ấn sinh học (tumor markers) như CA125, AFP, CEA, beta-hCG, HE4, AMH�
 Thuật toán ước tính nguy cơ ác tính ung thư buồng trứng (ROMA value, RMI).
 
 ![Theo dõi u phần phụ](../../../../assets/phu-khoa/u-phan-phu/theo-doi-u-phan-phu.jpeg)
+
 _Theo dõi u phần phụ Bệnh viện Từ Dũ._
 
 ## Tiếp cận khối u phần phụ

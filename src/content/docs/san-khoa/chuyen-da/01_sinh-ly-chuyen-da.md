@@ -32,6 +32,7 @@ Phân biệt với cơn co Braxton-Hicks:
 - Cơn co chuyển dạ: Tự động, đều đặn, tăng dần về cường độ và tần số, gây đau, và đặc biệt phải gây hiệu quả làm xóa mở cổ tử cung.
 
 ![Cơn co Braxton-Hicks](../../../../assets/san-khoa/sinh-ly-chuyen-da/con-co-braxton-hicks.png)
+
 _Cơn co Braxton-Hicks là những cơn co thưa, không đều, không gây đau, xuất hiện vào cuối thai kỳ, không gây thay đổi trên cổ tử cung._
 
 ### Xóa mở cổ tử cung
@@ -47,18 +48,20 @@ Hiện tượng này xảy ra chủ yếu nhờ:
 Vòng thắt sinh lý nằm giữa thân và đoạn dưới tử cung, nếu chuyển dạ bị tắc nghẽn lâu dài, vòng này có thể trở thành vòng thắt Bandl – dấu hiệu bệnh lý.
 
 ![Xóa cổ tử cung](../../../../assets/san-khoa/sinh-ly-chuyen-da/xoa-co-tu-cung.png)
+
 _Cơn co tử cung làm cho các thành phần của kênh cổ tử cung bị kéo lên phía trên làm cổ tử cung mỏng đi._
 
 ![Vòng Bandl](../../../../assets/san-khoa/sinh-ly-chuyen-da/vong-bandl.png)
+
 _Vòng Bandl bệnh lý khi có chuyển dạ tắc nghẽn. Phía trên đáy tử cung (trái) là thân tử cung. Phía dưới (phải) là đoạn dưới._
 
 ### Thành lập đầu ối
 
 - Khi cổ tử cung bắt đầu mở, nút nhầy bong ra, một phần túi ối bị đẩy xuống qua lỗ cổ tử cung tạo thành "đầu ối".
 - Đầu ối có vai trò như "nêm thủy lực" giúp cổ tử cung mở nhanh hơn khi ngôi thai còn cao.
+   ![Thành lập đầu ối](../../../../assets/san-khoa/sinh-ly-chuyen-da/thanh-lap-dau-oi.png)
 
-![Thành lập đầu ối](../../../../assets/san-khoa/sinh-ly-chuyen-da/thanh-lap-dau-oi.png)
-_Thành lập đầu ối phía trước ngôi thai, ở vị trí lỗ cổ tử cung._
+   _Thành lập đầu ối phía trước ngôi thai, ở vị trí lỗ cổ tử cung._
 
 ## Chẩn đoán chuyển dạ
 
@@ -93,8 +96,9 @@ Xóa mở cổ tử cung chia thành 2 pha:
   - Ngôi thai tiến triển trong đường sinh.
   - Được xác định khi cổ tử cung mở ≥ 3cm.
 
-![So sánh pha tiềm thời và pha hoạt động](../../../../assets/san-khoa/sinh-ly-chuyen-da/so-sanh-pha-tiem-thoi-va-pha-hoat-dong.png)
-_So sánh pha tiềm thời và pha hoạt động._
+   ![So sánh pha tiềm thời và pha hoạt động](../../../../assets/san-khoa/sinh-ly-chuyen-da/so-sanh-pha-tiem-thoi-va-pha-hoat-dong.png)
+
+   _So sánh pha tiềm thời và pha hoạt động._
 
 ## Theo dõi chuyển dạ
 
@@ -116,7 +120,7 @@ Chuyển dạ là quá trình tương tác của 3 yếu tố chính – còn g�
 
 Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo dõi bằng biểu đồ chuyển dạ.
 
-### Nội dung cần theo dõi
+**Nội dung cần theo dõi:**
 
 1. Cường độ và tần số cơn co tử cung.
 2. Mức độ xóa mở cổ tử cung.
@@ -127,6 +131,7 @@ Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo d
 7. Sinh hiệu của mẹ (mạch, huyết áp, nhiệt độ...).
 
 ![Biểu đồ chuyển dạ](../../../../assets/san-khoa/sinh-ly-chuyen-da/bieu-do-chuyen-da.jpeg)
+
 _Biểu đồ chuyển dạ giúp theo dõi tiến trình chuyển dạ một cách trực quan._
 
 ## Nguồn tham khảo

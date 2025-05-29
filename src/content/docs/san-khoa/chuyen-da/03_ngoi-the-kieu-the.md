@@ -22,9 +22,9 @@ description: Ngôi, thế, kiểu thế.
 - **Ngôi thóp trước**: Đầu ở tư thế trung gian, thóp trước trình diện.
 - **Ngôi trán**: Đầu ngửa trung gian, trán là phần trình diện.
 - **Ngôi mặt**: Đầu ngửa tối đa, gáy chạm lưng, cằm là phần trình diện.
+   ![Ngôi đầu](../../../../assets/san-khoa/ngoi-the-kieu-the/ngoi-dau.png)
 
-![Ngôi đầu](../../../../assets/san-khoa/ngoi-the-kieu-the/ngoi-dau.png)
-_Ngôi đầu._
+   _Ngôi đầu._
 
 ### Mốc của ngôi
 
@@ -99,6 +99,7 @@ Khám âm đạo lúc cổ tử cung đã mở là **phương pháp chính xác 
 - Ngôi mông: Xác định **đỉnh xương cùng** và **2 ụ ngồi**.
 
 ![Các kiểu thế trong ngôi chỏm](../../../../assets/san-khoa/ngoi-the-kieu-the/cac-kieu-the-ngoi-chom.png)
+
 _Các kiểu thế trong ngôi chỏm._
 
 ### Vị trí nghe tim thai

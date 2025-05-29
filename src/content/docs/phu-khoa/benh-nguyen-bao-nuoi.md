@@ -41,9 +41,11 @@ Trong thai trứng bán phần, cấu trúc bộ nhiễm sắc thể là 69 ho�
 Đại thể của thai trứng là mô rau bị thoái hóa thành các túi nước nhỏ hình chùm nho. Về mặt vi thể, các túi nước này được bọc bởi các nguyên bào nuôi tăng sinh.
 
 ![Hình ảnh đại thể của thai trứng](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-dai-the-cua-thai-trung.png)
+
 _Hình ảnh đại thể của thai trứng.<br> Đại thể của thai trứng là mô rau bị thoái hóa thành các túi nước nhỏ hình chùm nho._
 
 ![Hình ảnh vi thể của thai trứng](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-vi-the-cua-thai-trung.png)
+
 _Hình ảnh vi thể của thai trứng.<br> Về mặt vi thể, các túi nước này là những lông rau thoái hóa nước, bên ngoài được bọc bởi các nguyên bào nuôi tăng sinh._
 
 ### Diễn biến
@@ -71,11 +73,13 @@ Trong trường hợp có các triệu chứng gợi ý nêu trên, cần nghĩ 
 Hình ảnh điển hình của thai trứng toàn phần trên siêu âm là hình ảnh tổ ong, bão tuyết, hình chùm nho hoặc hình echo trống
 
 ![Hình ảnh siêu âm thai trứng toàn phần](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-toan-phan.png)
+
 _Hình ảnh siêu âm của thai trứng toàn phần.<br> Hình ảnh điển hình của thai trứng trên siêu âm là hình ảnh tổ ong. Trong thai trứng toàn phần, hình ảnh này là điển hình._
 
 Hình ảnh của thai trứng bán phần không đặc trưng. Chẩn đoán sẽ khó khăn hơn do hình ảnh không còn điển hình lại kèm với hình ảnh của thai, có thể là thai sống và tiến triển. Thai lưu với rau thoái hóa có thể cho hình ảnh tương tự thai trứng.
 
 ![Hình ảnh siêu âm thai trứng bán phần](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-ban-phan.png)
+
 _Hình ảnh siêu âm của thai trứng bán phần.<br> Chẩn đoán sẽ khó khăn hơn trong trường hợp thai trứng bán phần, do hình ảnh không còn điển hình lại kèm với hình ảnh của 1 thai, có thể là thai sống và tiến triển._
 
 #### hCG
@@ -153,6 +157,7 @@ Tác dụng phụ gồm có:
   - Thuốc bảo vệ tế bào gan: Biphenyl dimethyl dicarrboxylat.
 
 ![Phác đồ 1 nguyên tắc xử trí thai trứng Bệnh viện Từ Dũ](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-1-nguyen-tac-xu-tri-thai-trung.png)
+
 _Phác đồ 1 nguyên tắc xử trí thai trứng Bệnh viện Từ Dũ._
 
 #### Tránh thai
@@ -173,9 +178,11 @@ Sau hút nạo, bệnh nhân cần được theo dõi diễn tiến của β-hCG
 Nhận diện được các nồng độ rất thấp của β-hCG là điều kiện quyết định cho phép rút ngắn đáng kể thời gian theo dõi hậu thai trứng. Nếu β-hCG trở về âm tính trong vòng 56 ngày sau hút nạo, thì thời gian theo dõi chỉ còn là 6 tháng. Do thời gian bán hủy của hCG là khoảng 36h nên bình thường thì logarithm thập phân của nồng độ β-hCG giảm đi 1 bậc mỗi tuần. Ví dụ như nồng độ β-hCG của hôm nay là $10^5$IU/L (lg $10^5$ = 5) thì sau 1 tuần nồng độ β-hCG phải là $10^4$IU/L (lg $10^4$ = 4).
 
 ![Diễn biến hCG bình thường](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/dien-bien-tu-nhien-cua-hcg-sau-hut-nao-thai-trung.png)
+
 _Diễn biến hCG bình thường.<br>Giá trị thật sự của định lượng hCG lại là trong theo dõi diễn biến sau hút nạo. Bình thường thì logarithm thập phân của nồng độ hCG giảm đi 1 bậc mỗi tuần._
 
 ![Diễn biến hCG bất thường](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/dien-bien-hcg-bat-thuong.png)
+
 _Diễn biến hCG bất thường.<br>Sự chững lại, ở dạng bình nguyên, hay tăng lại của nồng độ hCG gợi ý diễn biến bất lợi của GTD._
 
 Theo dõi sự co hồi tử cung, kích thước nang hoàng tuyến. Tình trạng xuất huyết âm đạo, kinh nguyệt.
@@ -227,9 +234,11 @@ Khi có GTD ác tính, việc phân loại là quan trọng. Phân loại giúp 
 _Hệ thống đánh giá nguy cơ theo FIGO._
 
 ![Bảng điểm tiên lượng của u nguyên bào nuôi theo FIGO và WHO 2006](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/bang-diem-tien-luong-cua-u-nguyen-bao-nuoi-figo-who-2006.png)
+
 _Bảng điểm tiên lượng của u nguyên bào nuôi theo FIGO và WHO 2006.<br>Nguy cơ thấp ≤ 6 điểm:<br>- Giai đoạn I (không di căn).<br>- Giai đoạn II và III < 7 điểm.<br>Nguy cơ cao ≥ 7 điểm:<br>- Giai đoạn II và III ≥ 7 điểm.<br>- Giai đoạn IV._
 
 ![Phân loại theo NIH](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/phan-loai-gtd-theo-nih.png)
+
 _Phân giai đoạn theo NIH._
 
 Khi so sánh 2 hệ thống phân loại của FIGO và NIH, ta có thể thấy hệ thống phân loại của NIH đơn giản hơn, lại có tính thực hành. Các nhận định chính là:
@@ -403,9 +412,11 @@ Tương tự như thai trứng, việc theo dõi thai trứng xâm lấn và cho
 Trong chiến lược theo dõi này, theo dõi diễn biến của β-hCG được xem như phương tiện tầm soát và theo dõi chủ lực, còn lâm sàng và các phương tiện khác sẽ được thực hiện nếu có diễn biến bất thường của β-hCG, ngoại trừ khi đã có triệu chứng lâm sàng gợi ý.
 
 ![Di căn phổi](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/choriocarcinoma-di-can-phoi-hinh-anh-tha-bong.png)
+
 _Di căn phổi.<br>Di căn phổi được phát hiện bằng X-quang với hình ảnh bóng bay._
 
 ![Di căn não](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/choriocarcinoma-di-can-nao.png)
+
 _Di căn não.<br>Di căn não được phát hiện bằng nhức đầu, xuất huyết não hay bằng MRI. Bệnh phẩm tử thiết cho thấy nhân di căn gây xuất huyết ở bán cầu trái._
 
 Xét nghiệm huyết đồ, chức năng gan, thận, điện giải… phát hiện nhiễm độc hóa chất.
@@ -415,12 +426,15 @@ Thời gian theo dõi tối thiểu là 5 năm.
 Sau thời gian theo dõi, người bệnh được có thai trở lại, tùy trường hợp. Yêu cầu ít nhấ 2 năm sau điều trị khỏi mới có thai lại. Khi có dấu hiệu mang thai cần đi khám thai ngày, chú ý siêu âm và hCG để phòng bệnh tái phát.
 
 ![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi Bệnh viện Từ Dũ](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
+
 _Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi Bệnh viện Từ Dũ._
 
 ![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi Bệnh viện Từ Dũ](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
+
 _Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi Bệnh viện Từ Dũ._
 
 ![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám Bệnh viện Từ Dũ](../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
+
 _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo

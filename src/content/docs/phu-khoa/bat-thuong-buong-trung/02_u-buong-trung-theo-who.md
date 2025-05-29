@@ -64,6 +64,7 @@ Lạc tuyến nội mạc tử cung tại buồng trứng là cấu trúc không
 Nang lạc nội mạc tử cung được hình thành do sự cấy ghép lên bề mặt buồng trứng của mô nội mạc tử cung bình thường có nguồn gốc từ máu kinh trào ngược. Khi có bất thường về khả năng đáp ứng miễn dịch (có thể do liên quan đến các đột biến gene), cấy ghép bất thường sẽ thành công dẫn đến hình thành các tuyến nội mạc tử cung lạc vị, vẫn còn hoạt động chức năng trên bề mặt buồng trứng. Xuất huyết kinh làm cho các nang bịt này lớn dần lên do chứa đầy máu “kinh” không có đường thoát, gây ra cấu trúc nang, với đặc trưng là viêm, với tân mạch và tàn phá cấu trúc vùng chậu.
 
 ![Nang lạc nội mạc tử cung](../../../../assets/phu-khoa/u-buong-trung-theo-who/nang-lac-noi-mac-tu-cung.png)
+
 _Nang chứa dịch chocolate hình thành do ứ máu “kinh” trong bề mặt buồng trứng. Viêm là hiện tượng đi kèm rất phổ biến, gây dính vùng chậu, với hệ quả là hiếm muộn._
 
 Khả năng ác tính của nang lạc nội mạc tử cung tại buồng trứng là rất thấp, nhưng không thể loại trừ. Chẩn đoán phân biệt quan trọng nhất của nang lạc nội mạc tử cung tại buồng trứng là [u tân sinh dạng nội mạc tử cung của buồng trứng](#u-dạng-nội-mạc-tử-cung-endometroid-tumour), là tân lập, với tế bào giống tế bào nội mạc, nhưng không có mô đệm tùy hành, có liên quan mạnh đến ác tính.
@@ -99,16 +100,19 @@ Lòng u được lát bởi các tế bào trụ thấp, giống như tế bào 
 Thường xảy ra trong độ tuổi sinh đẻ. Chiếm 30% các u buồng trứng. 70% là lành tính. U trơn láng, vỏ mỏng, đơn thùy hoặc đa thùy, bên trong chứa dịch trong. 15% các trường hợp thấy u ở cả 2 bên.
 
 ![U tuyến thanh dịch lành tính](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-tuyen-thanh-dich-lanh-tinh.png)
+
 _Đại thể: khối u có thể to, mặt nhẵn. Trên bề mặt lòng nang không thấy các chồi nhú. Vi thể: thành nang lót bởi tế bào trụ thấp giống tế bào vòi Fallope._
 
 U giáp biên không phải là u lành vì đặc tính tái phát. U giáp biên không phải là u ác vì không xâm lấn và không di căn. Đặc điểm tế bào có các đặc điểm của ác tính. U tuyến thanh dịch giáp biên chiếm khoảng 10% các u tuyến thanh dịch. Tuổi trung bình của u thanh dịch giáp biên ác là 40. 30% các u thanh dịch giáp biên ác là 2 bên. U có thể đạt đến kích thước to đến 25cm. Về mặt vi thể, các cấu trúc u nhú được tạo bởi các lớp tế bào thượng mô xếp tầng với nhân không điển hình ở những mức độ khác nhau, có sự tăng phân bào nhưng không có xâm lấn.
 
 ![U thanh dịch giáp biên ác](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-thanh-dich-giap-bien-ac.png)
+
 _Đại thể: ghi nhận các chồi nhú ở mặt trong u. Vi thể: ghi nhận tế bào tăng sinh, với nhân bất thường, tạo các nhú._
 
 U tuyến thanh dịch ác tính chiếm khoảng 20% các u tuyến thanh dịch.
 
 ![U thanh dịch giáp ác](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-thanh-dich-giap-ac.png)
+
 _Đại thể: ghi nhận các chồi nhú ở mặt trong u._
 
 #### U tuyến dịch nhầy (mucinous cystadenoma)
@@ -118,6 +122,7 @@ Lòng u được lát bởi các tế bào trụ cao tiết nhầy, giống như
 Chiếm 60% các trường hợp u buồng trứng. U tuyến dịch nhầy thường khá lớn, đôi khi lấp đầy khoang chậu và chèn ép vào khoang bụng. Thường có nhiều vách và phân thùy. 15% các u tuyến dịch nhầy là ác tính. U tuyến dịch nhầy giáp biên ác có thể thể hiện dưới dạng thức đặc biệt, được gọi không chính xác là viêm phúc mạc giả nhầy (pseudomyxoma peritonei).
 
 ![U tuyến dịch nhày buồng trứng](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-tuyen-dich-nhay-buong-trung.png)
+
 _Đại thể: là khối rất to, nhiều thùy, bên trong chứa chất nhầy. Vi thể: thành nang lót bởi tế bào trụ tiết nhầy giống tế bào kênh tử cung._
 
 #### U dạng nội mạc tử cung (endometroid tumour)
@@ -135,6 +140,7 @@ Hầu hết các u tế bào sáng là ác tính. Có sự liên quan chặt ch�
 Khối u này có dạng đặc vì chứa nhiều mô đệm và mô xơ bao quanh lớp tế bào biểu mô. U Brenner hiếm khi ác tính. Đây là dạng tân sinh biểu mô lành tính hiếm gặp của buồng trứng. U Brenner thường gặp hơn ở phụ nữ lớn tuổi và có thể có mối liên quan với u dịch nhầy tại buồng trứng. U Brenner đơn độc phát hiện được thường tương đối nhỏ, so với những khối u dịch trong và đặc biệt là u nhầy.
 
 ![U Brenner](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-brenner.png)
+
 _Vi thể: Ghi nhận tỷ lệ cao mô đệm. Đây là u có dạng đặc._
 
 ### U xuất phát từ tế bào mầm
@@ -161,6 +167,7 @@ U quái đa mô có tỷ lệ ác tính rất thấp, có thể có tân sinh á
 Các u quái không trưởng thành luôn luôn ác tính. Đây là nhóm u tế bào mầm thường gặp thứ 3 (15%). Độ tuổi trung bình là 19. Về đại thể, u có đường kính trung bình 18cm, bề mặt trơn láng, mặt cắt chủ yếu là phần đặc và cấu trúc nang. Về vi thể, cấu trúc của khối u bao gồm gồm những mô tương tự mô phôi, ở nhiều mức độ biệt hóa tế bào khác nhau ở cả 3 lá mầm, thường thấy mô thần kinh chưa trưởng thành.
 
 ![U quái không trưởng thành](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-quai-khong-truong-thanh.png)
+
 _Không thấy các cấu trúc trưởng thành. Các mô của các lá phôi chỉ thấy trên vi thể với mức biệt hóa khác nhau._
 
 U quái giáp đơn mô có tiềm năng ác tính cao. Đôi khi cường giáp không có bướu giáp là triệu chứng lâm sàng duy nhất của các u này. Cường giáp “không giải thích được” với xạ hình giáp bình thường và tập trung Iod phóng xạ bất thường ở vùng chậu là các dấu hiệu chỉ điểm.
@@ -184,6 +191,7 @@ U nghịch mầm của buồng trứng là các khối u ác tính, chiếm 45% 
 Vấn đề lớn nhất của u nghịch mầm là phần lớn các bệnh nhân đều còn cần phải bảo tồn khả năng sinh sản. U nghịch mầm đáp ứng rất tốt với xạ trị bổ túc. Tuy nhiên, do ảnh hưởng trên trữ lượng noãn nang, nên xạ trị chỉ có thể thực hiện trong trường hợp bệnh nhân đã đủ con, không còn có ý định sinh thêm. U nghịch mầm cũng đáp ứng khả quan với hóa trị bổ túc. Hóa trị là biện pháp được chọn cho các bệnh nhân còn muốn sinh thêm.
 
 ![U nghịch mầm buồng trứng](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-nghich-mam-buong-trung.png)
+
 _U đặc, với mặt cắt màu vàng trắng, có thùy, không đồng nhất. Thường không kèm xuất huyết hay hoại tử._
 
 ### U xuất phát từ dây giới bào-mô đệm
@@ -215,12 +223,15 @@ U tế bào hạt là loại u có mức ác tính thấp. U có đặc trưng v
 U thường xảy ra ở 1 bên, kích thước trung bình 15cm. U có dạng nang, mật độ mềm hoặc chắc. Nhìn mặt cắt của khối u giống với u tuyến nhầy, nhưng chứa đầy dịch máu. U có đặc trưng vi thể của tế bào hạt. Mô bệnh học của u này được đặc trưng bởi thể Call-Exner. U có mức ác tính thấp, 80-90% bệnh nhân được chẩn đoán ở giai đoạn I. 95% type mô học trưởng thành, xảy ra vào những năm đầu sau mãn kinh (adult granulosa tumour). 5% type mô học trẻ xảy ra giữa dậy thì và những năm đầu thời kì sinh sản (juvenile granulosa tumour).
 
 ![U tế bào hạt thể người lớn](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-te-bao-hat-the-nguoi-lon.png)
+
 _U có mặt cắt nhìn giống như u dịch nhầy, với xuất huyết._
 
 ![U tế bào hạt thể thiếu niên](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-te-bao-hat-the-thieu-nien.png)
+
 _Tiềm năng ác tính rất thấp, thường khu trú ở 1 buồng trứng và tiên lượng tốt._
 
 ![U tế bào hạt](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-te-bao-hat.png)
+
 _Vi thể đặc trưng bởi các thể “Call-Exner”._
 
 Các dấu hiệu lâm sàng là các dấu hiệu của hiện diện bất thường estrogen. Các triệu chứng liên quan với cường estrogen với khối u ở bụng, tăng sinh nội mạc tử cung, xuất huyết bất thường. Dậy thì sớm, rong huyết đôi khi xuất hiện đơn độc, như chỉ báo khối u. Đau do vỡ u không thường gặp.
@@ -234,6 +245,7 @@ U tế bào Sertoli là tân sinh xuất phát từ dây giới bào biệt hóa
 U tế bào Sertoli-Leydig là u hiếm. Do chế tiết androgen nên u này còn có tên gọi là Androsblastoma. Nhìn chung, là u với ác tính thấp, nhưng còn lệ thuộc vào độ biệt hóa tế bào. Loại u này chế tiết androgen. 40-60% bệnh nhân có biểu hiện rậm lông, vú teo, phì đại âm vật. U cũng gây dậy thì sớm, gây rong huyết ở trẻ gái mắc bệnh. Với u Sertoli-Leydig, các khảo sát như testosterone, androstenedione, và tiền chất 17-hydroxy progesterone có thể có giá trị.
 
 ![U tế bào Sertoli-Leydig](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-tebao-sertili-leydig.png)
+
 _Bé gái, 14 tuổi, khám vì mọc ria mép và lông ngực. Bé đã được phẫu thuật cắt u buồng trứng loại tế bào Sertoli-Leydig. Hình trái và hình giữa là ảnh chụp trước mổ của bé. Hình trên cùng bên phải là ảnh chụp 6 tháng sau khi mổ cắt buồng trứng có u._
 
 ### U tân sinh di căn đến buồng trứng
@@ -242,6 +254,7 @@ Ung thư đại tràng, ung thư dạ dày các là ung thư được nhắc đ�
 trưng.
 
 ![U Krukenberg](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-krukenberg.png)
+
 _Đại thể: u đặc, có thể 1 hay 2 bên. Vi thể: Các tế bào hình nhẫn (signet ring cell) kinh điển trong u Krukenberg di căn từ dạ dày._
 
 ### Biểu hiện lâm sàng các khối u tân lập
@@ -275,6 +288,7 @@ Khối u buồng trứng không thoái hóa ác tính. Chỉ có các khối u b
 Các khối u buồng trứng di động, có tỷ trọng lớn có nhiều khả năng bị xoắn.
 
 ![Khối u buồng trứng xoắn trong thai kỳ](../../../../assets/phu-khoa/u-buong-trung-theo-who/u-buong-trung-xoan.png)
+
 _Ảnh chụp u buồng trứng bị xoắn ở thai phụ có thai ở tam cá nguyệt thứ nhì. Khi tử cung to lên, khối u sẽ lọt ra khỏi vùng chậu. Lúc này, với tỷ trọng lớn và khoảng không gian rộng, các khối u buồng trứng sẽ rất dễ bị xoắn. Trường hợp này u buồng trứng xoắn bị mổ muộn, với buồng trứng hoại tử tím đen._
 
 Buồng trứng là cơ quan tự do trong xoang phúc mạc, chỉ được cố định bằng mạc treo buồng trứng, dây chằng thắt lưng buồng trứng, dây chằng tử cung buồng trứng. Cả 3 cấu trúc này rất lỏng lẻo, làm cho buồng trứng là cơ quan rất dễ thay đổi vị trí.

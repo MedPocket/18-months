@@ -42,21 +42,19 @@ description: Đa ối là tình trạng dư thừa dịch ối so với mức b�
 
 ## Chẩn đoán
 
-- Lâm sàng: bề cao tử cung lớn hơn tuổi thai, dấu hiệu quá tải (khó thở, tim nhanh), sờ bụng có “sóng vỗ”, thăm âm đạo thấy “cục đá”.
+Chủ yếu dựa vào siêu âm. Lâm sàng: bề cao tử cung lớn hơn tuổi thai, dấu hiệu quá tải (khó thở, tim nhanh), sờ bụng có “sóng vỗ”, thăm âm đạo thấy “cục đá”. Siêu âm hình thái, đo chiều dài cổ tử cung; nghiệm pháp dung nạp đường huyết; xét nghiệm TORCH, karyotype, thalassemia…
 
 :::note[Tiêu chuẩn chẩn đoán đa ối]
-Siêu âm:
 
 - AFI ≥ 22 cm ở 3 tháng giữa và ≥ 25 cm ở 3 tháng cuối.
 - SDP ≥ 8 cm (SDP ≥ 16 cm là đa ối nặng).  
-  :::
+
+:::
 
 | Mức độ  | Nhẹ       | Trung bình | Nặng    |
 | ------- | --------- | ---------- | ------- |
 | **AFI** | 25–30 cm  | 30,1–35 cm | > 35 cm |
 | **SDP** | 8–11,9 cm | 12–15,9 cm | ≥ 16 cm |
-
-- Siêu âm hình thái, đo chiều dài cổ tử cung; nghiệm pháp dung nạp đường huyết; xét nghiệm TORCH, karyotype, thalassemia…
 
 ## Xử trí
 

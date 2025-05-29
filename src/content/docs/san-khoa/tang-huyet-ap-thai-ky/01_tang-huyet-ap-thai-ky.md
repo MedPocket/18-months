@@ -21,8 +21,7 @@ Bánh rau đóng vai trò then chốt trong sự phát triển và thoái lui c�
 
 Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai trò then chốt trong cơ chế bệnh sinh của tiền sản giật. Do đó, khảo sát **sFlt-1** và **PlGF** có thể giúp tiên đoán tiền sản giật. Khoảng 5 tuần trước khi tiền sản giật xuất hiện trên lâm sàng, tỷ số **sFlt-1/PlGF** tăng cao ở nhóm sau này bị tiền sản giật.
 
-> **Nguồn gốc** xuất hiện tiền sản giật bắt đầu từ **bánh rau**, nhưng **cơ quan đích** là các tế bào nội mô của mẹ dẫn đến:
-
+**Nguồn gốc** xuất hiện tiền sản giật bắt đầu từ **bánh rau**, nhưng **cơ quan đích** là các tế bào nội mô của mẹ dẫn đến:
 - **Huyết áp:** Co mạch làm tăng huyết áp.
 - **Mạch máu:** Tổn thương nội mô gây thoát quản các thành phần huyết tương và huyết cầu:
   - Cô đặc máu, tăng Hematocrit do mất đạm, giảm áp lực keo, nặng có thể gây sốc tim.
@@ -55,9 +54,9 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 :::note[Tiêu chuẩn chẩn đoán tiền sản giật (ACOG Task Force 2013)]
 | Tiêu chí | Chi tiết |
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Huyết áp | - Huyết áp tâm thu ≥ 140 mmHg **HOẶC** huyết áp tâm trương ≥ 90 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ, xuất hiện sau tuần thứ 20 của thai kỳ ở phụ nữ có huyết áp bình thường trước đó<br>- Huyết áp tâm thu ≥ 160 mmHg **HOẶC** huyết áp tâm trương ≥ 110 mmHg (xác định trong khoảng thời gian ngắn và cần điều trị hạ áp ngay) |
+| **Huyết áp** | - Huyết áp tâm thu ≥ 140 mmHg **HOẶC** huyết áp tâm trương ≥ 90 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ, xuất hiện sau tuần thứ 20 của thai kỳ ở phụ nữ có huyết áp bình thường trước đó<br>- Huyết áp tâm thu ≥ 160 mmHg **HOẶC** huyết áp tâm trương ≥ 110 mmHg (xác định trong khoảng thời gian ngắn và cần điều trị hạ áp ngay) |
 | và | |
-| Đạm niệu | - ≥ 300 mg/24 giờ (hoặc suy ra từ thời gian thu thập nước tiểu tương ứng)<br>- Tỷ số Protein/creatinin ≥ 0.3<br>- Dip-Stick ≥ 1+ (chỉ dùng khi không có phương pháp định lượng khác) |
+| **Đạm niệu** | - ≥ 300 mg/24 giờ (hoặc suy ra từ thời gian thu thập nước tiểu tương ứng)<br>- Tỷ số Protein/creatinin ≥ 0.3<br>- Dip-Stick ≥ 1+ (chỉ dùng khi không có phương pháp định lượng khác) |
 
 **Hoặc** trong trường hợp **không có đạm niệu**, tăng huyết áp mới xuất hiện kèm **ít nhất 1 trong các dấu hiệu sau**:
 
@@ -142,8 +141,6 @@ Biến chứng nặng của tiền sản giật/sản giật, tổn thương n�
 
 ## Xử trí tiền sản giật và sản giật
 
-Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại địa phương 7–10 ngày sau sinh.
-
 ### Tiền sản giật không có dấu hiệu nặng
 
 - **Theo dõi ngoại trú.**
@@ -179,6 +176,8 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 ![Lưu đồ xử trí tiền sản giật có dấu hiệu nặng](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
 :::
 
+Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại địa phương 7–10 ngày sau sinh.
+
 ### Các trường hợp không mong đợi điều trị
 
 **Mẹ:**
@@ -209,10 +208,10 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 
 ### Dự phòng co giật
 
-- **MgSO₄ (MgSO₄):**
-  - Tấn công: 4–6 g TM chậm.
-  - Duy trì: 1–2 g/h đến 24 giờ sau sinh
-  - Ngưng khi có dấu hiệu ngộ độc.
+**Magnesium sulfate (MgSO₄):**
+- Tấn công: 4–6 g TM chậm.
+- Duy trì: 1–2 g/h đến 24 giờ sau sinh
+- Ngưng khi có dấu hiệu ngộ độc.
 
 > Không dùng Diazepam/Phenytoin vì không hiệu quả, có thể gây hại thai.
 
@@ -227,7 +226,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 
 2. **Đặt đường truyền tĩnh mạch**
 
-3. **Sử dụng Magnesium sulfate (MgSO₄)**
+3. **Sử dụng MgSO₄**
 
    - Thuốc chống co giật hiệu quả nhất, đồng thời giúp hạ huyết áp nhẹ.
    - **Liều dùng:**

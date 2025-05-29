@@ -133,6 +133,7 @@ Như vậy, hành kinh bình thường đòi hỏi đồng thời 2 điều ki�
 2. Cả 2 steroid sinh dục này phải chấm dứt hoạt động cùng lúc.
 
 ![Nội mạc tử cung phản ánh biến động của steroid sinh dục](../../../../assets/phu-khoa/steroids-sinh-duc/noi-mac-tu-cung-phan-anh-bien-dong-cua-steroid-sinh-duc.png)
+
 _Phần trên của hình cho thấy các giai đoạn của phát triển noãn nang.<br>Phần dưới của hình cho thấy 2 giai đoạn của nội mạc tử cung.<br> Trong pha nang noãn, dưới tác động của E2 từ các nang thứ cấp và nang de Graaf, tuyến nội mạc phát triển theo chiều dài làm nội mạc dầy lên. Trong pha hoàng thể, dưới tác động đồng thời của E2 và P4 từ hoàng thể, tuyến nội mạc tử cung trở nên ngoằn ngoèo, xoắn ốc và chứa đầy glycogen: Nội mạc ở giai đoạn phân tiết.<br> Vào cuối chu kỳ, tương ứng với giai đoạn của bạch thể, nồng độ E2 và P4 bị giảm sút đột ngột, gây ra sự bong tróc hoàn toàn của nội mạc tử cung._
 
 Lệch lạc trong hiệp đồng giữa estrogen và progesterone sẽ ảnh hưởng đến chức năng "hoài thai" của nội mạc tử cung. Những điều kiện "phơi bày với steroid" bất thường sẽ làm thay đổi biểu hiện gene trên nội mạc tử cung.

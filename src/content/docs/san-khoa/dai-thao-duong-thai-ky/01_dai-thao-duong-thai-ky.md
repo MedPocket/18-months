@@ -60,7 +60,8 @@ HIP được chia hai nhóm chính:
 3. **Suy giảm chức năng tế bào β**  
    Không đáp ứng đủ nhu cầu insulin tăng cao → tăng glucose huyết.
 
-![Thay đổi nhu cầu insulin trong thai kỳ](../../../../assets/san-khoa/dai-thao-duong-thai-ky/thay-doi-ve-nhu-cau-insulin.png)  
+![Thay đổi nhu cầu insulin trong thai kỳ](../../../../assets/san-khoa/dai-thao-duong-thai-ky/thay-doi-ve-nhu-cau-insulin.png)
+
 _Thay đổi nhu cầu insulin theo các giai đoạn thai kỳ._
 
 ## Yếu tố nguy cơ
@@ -233,11 +234,11 @@ _Các loại insulin và dấu đỏ: loại được phép dùng cho phụ nữ
 - Ngừng ăn từ 0h sáng, tiếp tục insulin nền tối trước mổ.
 - Theo dõi glucose mỗi 2–4 giờ, chỉnh liều khi cần.
 - Sau sinh giảm liều insulin do kháng insulin giảm.
-  :::
 
-### Kết thúc thai kỳ
+:::
 
 ![Tóm tắt thời điểm và chỉ định cách sinh](../../../../assets/san-khoa/dai-thao-duong-thai-ky/tom-tat-thoi-diem-va-chi-dinh-cach-sinh.webp)
+
 _Tóm tắt thời điểm và chỉ định cách sinh._
 
 ## Theo dõi trong chuyển dạ & ngay sau sinh

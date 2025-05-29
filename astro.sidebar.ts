@@ -4,12 +4,12 @@ export const sidebar = starlightSidebarTopics([
   {
     label: "Trang Chủ",
     link: "/",
-    icon: "seti:notebook",
+    icon: "external",
   },
   {
     label: "Sản Khoa",
     link: "/san-khoa/",
-    icon: "open-book",
+    icon: "comment-alt",
     items: [
       "san-khoa/dac-diem-rau-thai",
       {
@@ -115,7 +115,7 @@ export const sidebar = starlightSidebarTopics([
   {
     label: "Phụ Khoa",
     link: "/phu-khoa/",
-    icon: "seti:csv",
+    icon: "forward-slash",
     items: [
       {
         label: "Giải phẫu và sinh lý",
@@ -179,7 +179,7 @@ export const sidebar = starlightSidebarTopics([
   {
     label: "Hỗ trợ sinh sản",
     link: "/ho-tro-sinh-san/",
-    icon: "pencil",
+    icon: "apple",
     items: ["ho-tro-sinh-san/buong-trung-da-nang"],
   },
 ]);

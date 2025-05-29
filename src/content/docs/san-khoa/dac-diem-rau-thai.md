@@ -21,8 +21,6 @@ Sau khi thụ tinh 4 ngày, hợp tử chia thành phôi nang với các tế b�
 - Tuần thứ 3: Trung mô ngoài phôi phát triển vào gai rau bậc 1, hình thành gai rau bậc 2.
 - Cuối tuần thứ 3: Trung mô biệt hóa tạo mạch máu trong gai rau, thiết lập kết nối với hệ mạch máu của dây rốn và phôi, tạo nên gai rau bậc 3 – là gai rau hoàn chỉnh, đảm nhận chức năng trao đổi chất.
 
-![Hình thành rau thai](../../../assets/san-khoa/dac-diem-rau-thai/hinh-thanh-rau-thai.png)
-
 ### Từ phía mẹ
 
 Nội mạc tử cung của mẹ, còn gọi là màng rụng, chia thành 3 phần (sẽ bong ra cùng rau khi sinh):
@@ -30,8 +28,6 @@ Nội mạc tử cung của mẹ, còn gọi là màng rụng, chia thành 3 ph�
 1. Màng rụng rau: nằm giữa phôi và cơ tử cung.
 2. Màng rụng trứng: giữa phôi và khoang tử cung.
 3. Màng rụng tử cung: phần nội mạc còn lại.
-
-![Màng rụng và thành tử cung](../../../assets/san-khoa/dac-diem-rau-thai/mang-rung-va-thanh-tu-cung.png)
 
 **Biến đổi của màng rụng rau:**
 

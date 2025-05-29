@@ -12,6 +12,7 @@ Cổ tử cung có thể tổn thương ở nhiều mức độ khác nhau.
 Tân sinh trong biểu mô cổ tử cung bắt đầu từ các thay đổi rất nhẹ của biểu mô lát, tiến triển dần thành các tổn thương trong biểu mô có mức độ cao hơn, cuối cùng là ung thư.
 
 ![Luận điểm cổ điển về tiến triển tự nhiên của tổn thương biểu mô cổ tử cung](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/luan-diem-co-dien-ve-tien-trien-tu-nhien-bieu-mo-co-tu-cung.png)
+
 _Luận điểm cổ điển về tiến triển tự nhiên của tổn thương biểu mô cổ tử cung._
 
 Cổ điển, dựa trên các biến đổi mô bệnh học quan sát thấy trên bệnh phẩm sinh thiết, người ta phân biệt 3 mức độ tổn thương của tân sinh trong biểu mô cổ tử cung CIN 1, 2, 3:
@@ -28,6 +29,7 @@ Cổ điển, căn cứ vào tính chất bất thường của các tế bào b
 - Tổn thương mức độ cao (HSIL).
 
 ![Phân chia cổ điển](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/phan-chia-co-dien.png)
+
 _Phân chia cổ điển.<br>CIN mô tả theo bệnh học của mô lát. Tế bào học quan tâm đến các tế bào bề mặt. Ghi nhận sự biến đổi song hành của tổn thương tế bào bề mặt và tế bào đáy. Khi tế bào dưới đáy bị thay đổi thì sẽ kéo theo các thay đổi thấy được trên bề mặt._
 
 ### Luận điểm hiện đại
@@ -54,6 +56,7 @@ Các trường hợp nhiễm HPV cấp thường biểu hiện bằng tân sinh 
 Có thể xem CIN 1 được xem là biểu hiện cấp tính của nhiễm HPV thoáng qua. Phần lớn CIN 1 có thể tự thoái triển. Chỉ khoảng 10% CIN 1 tiến triển thành CIN 2 và CIN 3 sau 2 năm. CIN 3 được coi là tổn thương tiền ung thư thực sự việc phát triển thành tổn thương mức độ cao phụ thuộc vào type HPV. Type 16 gây CIN 2, 3 ở độ tuổi sớm hơn so với các type HPV gây ung thư khác. Việc định type HPV có vai trò quan trọng trong việc tiên liệu tổn thương sẽ thoái triển hay tiến triển.
 
 ![Luận điểm hiện đại về tiến triển không theo trình tự cổ điển](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/luan-diem-hien-dai-ve-tien-trien-tu-nhien-bieu-mo-co-tu-cung.png)
+
 _Mọi trường hợp nhiễm HPV đều có thể thoái triển hay tiến triển. Sự tiến triển có thể là trực tiếp mà không thông qua các mức độ trung gian. Vì thế, chiến lược quản lý tổn thương trong biểu mô cổ tử cung phải tập trung vào các đặc điểm sinh học hơn là chỉ tập trung vào phân loại tổn thương._
 
 ## Dị sản cổ tử cung
@@ -73,11 +76,13 @@ HPV ức chế các hoạt động apoptosis của tế bào chuyển sản và 
 Các tế bào thoát khỏi apoptosis (do E6) và bị kích hoạt tăng trưởng không kiểm soát (do E7) sẽ trở thành tế bào dị sản ở các mức độ khác nhau, tùy theo mức độ bị chi phối.
 
 ![E6 và E7 trong cơ chế sinh ung thư của HPV type 16](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/e6-va-e7-trong-co-che-gay-ung-thu-cua-hpv.png)
+
 _E6 và E7 trong cơ chế sinh ung của HPV type 16.<br>Các tế bào thoát khỏi apoptosis (do E6 bất hoạt p53) và bị kích hoạt tăng trưởng không kiểm soát (do E7 gắn với pRb giải phóng E2F) sẽ trở thành tế bào dị sản ở các mức độ khác nhau, tùy theo mức độ bị chi phối._
 
 Tuy là điều kiện cần, nhưng nếu chỉ có nhiễm HPV thì chưa phải là điều kiện đủ để gây dị sản và ung thư. Các đáp ứng miễn dịch, đặc biệt là miễn dịch thích nghi qua tế bào (CMI) có vai trò quan trọng trong việc điều chỉnh tải lượng HPV và có thể làm đảo ngược quá trình. Sự đảo ngược tiến trình dị sản có thể xảy ra trong 80% các trường hợp. Tuy nhiên, trong một số trường hợp khác, khoảng 10%, diễn tiến của tế bào dị sản là đi đến ung thư.
 
 ![Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3, cũng như chiều hướng tiến triển của chúng](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/su-khac-biet-ve-sinh-hoc-cin-1-2-3-va-chieu-huong-cua-chung.png)
+
 _Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3, cũng như chiều hướng tiến triển của chúng.<br>Sơ đồ về tiềm năng sinh học của các tế bào này căn cứ vào khả năng kết hợp của DNA virus vào tế bào chủ, khả năng tẩy sạch virus, khả năng điều hòa chu trình tế bào… cho thấy vì sao CIN 1 được xem như biểu hiện cấp tính của nhiễm HPV thoáng qua. Ngược lại, CIN 3 thường được coi là tiền ung thư thực sự._
 
 ### Các yếu tố nguy cơ
@@ -125,6 +130,7 @@ Các bệnh nhân có kết quả tế bào học cổ tử cung là ASCUS nên 
 - Nếu HPV dương tính, thực hiện soi cổ tử cung ngay hoặc làm lại tế bào học sau 1 năm.
 
 ![Quản lý ASC-US theo hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-asc-us.png)
+
 _Quản lý ASC-US theo hướng dẫn của ASCCP 2012 ở dân số chung._
 
 Phụ nữ trẻ dưới 24 tuổi với ASC-US, cần có quản lý riêng, do đối với trẻ vị thành niên, nguy cơ tiến triển thành ung thư xâm lấn gần như là 0% và tỷ lệ thanh thải virus HPV cao. Có thể thực hiện xét nghiệm tế bào học lại sau 1 năm:
@@ -152,6 +158,7 @@ Ghi nhớ 2 điểm sau:
 :::
 
 ![Quản lý ASC-US theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-us.jpeg)
+
 _Quản lý ASC-US theo Bệnh viện Từ Dũ._
 
 ### LSIL
@@ -191,9 +198,11 @@ LSIL trên dân số đặc biệt:
   - Có thể quay lại tầm soát thường quy nếu có xét nghiệm tế bào học âm tính 2 lần liên tiếp.
 
 ![Quản lý LSIL theo hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-lsil.png)
+
 _Quản lý LSIL theo hướng dẫn của ASCCP 2012._
 
 ![Quản lý LSIL theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-lsil.jpeg)
+
 _Quản lý LSIL theo Bệnh viện Từ Dũ._
 
 ### HSIL
@@ -220,9 +229,11 @@ Soi cổ tử cung ở bất cứ độ tuổi nào của bệnh nhân.<br>
 hoặc<br>
 Khoét chóp ngay (ngoại trừ bệnh nhân còn trẻ dưới 25 tuổi hoặc phụ nữ có thai).
 ![Quản lý HSIL theo hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-hsil.png)
+
 _Quản lý HSIL theo hướng dẫn của ASCCP 2012._
 
 ![Quản lý HSIL theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-hsil.jpeg)
+
 _Quản lý HSIL theo Bệnh viện Từ Dũ._
 
 ### ASC-H
@@ -234,6 +245,7 @@ ASC-H (Atypical squamous cells - cannot exclude high grade squamous intraepithel
 #### Quản lý ASC-H
 
 ![Quản lý ASC-H theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-h.jpeg)
+
 _Quản lý ASC-H theo Bệnh viện Từ Dũ._
 
 ### AGC hoặc AG-US
@@ -245,9 +257,11 @@ AGC (Atypical glandular cells) tế bào tuyến không điển hình hoặc AGU
 #### Quản lý AGC hoặc AGUS
 
 ![Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-agus.jpeg)
+
 _Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ._
 
 ![Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-huong-ve-tang-san-tuyen.jpeg)
+
 _Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ._
 
 ### CIN 1
@@ -259,6 +273,7 @@ _Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ._
 #### Quản lý CIN 1
 
 ![Quản lý CIN 1 theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-cin-1.jpeg)
+
 _Quản lý CIN 1 theo Bệnh viện Từ Dũ._
 
 ### CIN 2 và CIN 3
@@ -272,6 +287,7 @@ Có gần 40% các CIN 2 thoái triển tự nhiên về bình thường sau 2 n
 #### Quản lý
 
 ![Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-agus.jpeg)
+
 _Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ._
 
 ### AIS
@@ -291,11 +307,13 @@ Do các đặc điểm bệnh học trên: nằm sâu, đa ổ và không thể 
 Đối với AIS, khoét chóp bằng dao lạnh được ưa dùng hơn LEEP vì cắt bằng dao lạnh có thể đánh giá tốt bờ phẫu thuật tốt, giúp cho việc lên kế hoạch điều trị tiếp theo. Nếu bờ phẫu thuật còn tế bào bất thường hoặc mô nạo kênh có CIN hoặc AIS, có thể cắt lại (ưu tiên) hoặc theo dõi đánh giá lại sau 6 tháng (chấp nhận).
 
 ![Quản lý AIS theo hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-ais.png)
+
 _Quản lý AIS theo hướng dẫn của ASCCP 2012._
 
 ### Nghi ngờ ung thư cổ tử cung trong thai kỳ
 
 ![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky.png)
+
 _Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ._
 
 ## Điều trị trong tân sinh biểu mô cổ tử cung
@@ -318,6 +336,7 @@ Hủy mô chỉ thích hợp cho tổn thương thỏa các điều kiện:
 Có thể sử dụng nitrogen hoặc carbon dioxide để làm lạnh. Đầu áp lạnh có nhiều loại khác nhau để phù hợp với hình dạng và kích thước của tổn thương. Dù là phương pháp ra đời từ lâu, nhưng hiện nay vẫn còn phổ biến vì tính đơn giản, dễ thực hiện, ít gây khó chịu cho bệnh nhân, và có thể thực hiện đối với bệnh nhân ngoại trú hoặc ở phòng tiểu phẫu. Có thể dùng lidocaine tê tại chỗ để giảm đau cho bệnh nhân trong khi làm thủ thuật.
 
 ![Áp lạnh cổ tử cung](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/ap-lanh-co-tu-cung.png)
+
 _Áp lạnh cổ tử cung với đầu áp lạnh được nối với nguồn nitrogen lỏng hay CO2 lỏng, áp vào cổ tử cung. Lựa chọn đầu áp tùy theo tổn thương (dưới, phải). Áp lạnh không cho phép điều chỉnh độ sâu của điều trị. Áp lạnh cũng không cho phép phá hủy chính xác tổn thương (dưới, trái)._
 
 ### Huỷ mô bằng đốt laser (laser vaporization)
@@ -342,6 +361,7 @@ Khoét chóp cổ tử cung bằng dao lạnh là lấy đi toàn bộ phần h�
 Khoét chóp bằng dao điện có ưu điểm là nhanh, kiểm soát chảy máu dễ dàng, kỹ thuật cầm máu cổ tử cung đơn giản. Nhược điểm lớn nhất của khoét chóp bằng dao điện là rất khó đánh giá dương tính tế bào ở bờ phẫu thuật, do mô bị cháy bởi dòng điện cao tần. Ưu điểm của khoét chóp là có thể chủ động cắt mô với nhiều hình dạng và kích thước khác nhau. Ưu điểm quan trọng nhất của khoét chóp bằng dao lạnh là khả năng khảo sát tình trạng dương tính hay âm tính ở bờ phẫu thuật, do phương pháp này không làm cháy mô ở bờ phẫu thuật.
 
 ![Khoét chóp cổ tử cung bằng dao lạnh](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/khoet-chop-bang-dao-lanh.png)
+
 _Khoét chóp bằng dao lạnh._
 
 ### Cắt bỏ mô tổn thương với vòng điện LEEP và LLETZ
@@ -349,6 +369,7 @@ _Khoét chóp bằng dao lạnh._
 Cắt bằng vòng điện (loop electrosurgical excision procedure) (LEEP) hay vòng cắt rộng (large loop excision of the transformation zone) (LLETZ) là các kỹ thuật cắt vùng chuyển tiếp bằng vòng điện. Kĩ thuật này đã trở thành sự lựa chọn của nhiều nhà lâm sàng do đơn giản. Nhược điểm lớn nhất của phương pháp này là không được các nhà khảo sát mô học ưa chuộng, vì rất khó đánh giá dương tính bờ phẫu thuật. Cắt bằng dao laser (laser conization) đang dần bị thay thế vì chi phí cao và vì tính ứng dụng ngày càng rộng của LEEP.
 
 ![LEEP](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/leep.png)
+
 _LEEP và các vòng cắt khác nhau._
 
 ## Nguồn tham khảo

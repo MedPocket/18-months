@@ -40,11 +40,13 @@ Hỏi bệnh sử chi tiết về đặc điểm chảy máu và các yếu tố
 Khám lâm sàng cần chú ý đến các dấu hiệu của rối loạn nội tiết hệ thống (cường giáp hay nhược giáp), hay rối loạn nội tiết đặc thù của hội chứng buồng trứng đa nang (béo phì, tăng nội tiết tố nam)… Khám phụ khoa để loại trừ các bất thường cấu trúc của tử cung và buồng trứng.
 
 ![Acantosis nigricans, rậm lông và mụn trứng cá nặng](../../../../assets/phu-khoa/xuat-huyet-tu-cung-co-nang/acantosis-nigricans-ram-long-mun-trung-ca.png)
+
 _Acantosis nigricans, rậm lông và mụn trứng cá nặng.<br>Đây là các dấu hiệu của cường androgen, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường._
 
 Các xét nghiệm cận lâm sàng chủ yếu để loại trừ các nguyên nhân thực thể:
 
 ![Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng](../../../../assets/phu-khoa/xuat-huyet-tu-cung-co-nang/cac-xet-nghiem-can-nhac-khi-xuat-huyet-tu-cung.png)
+
 _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng._
 
 Siêu âm đầu dò âm đạo là chỉ định đầu tay. Siêu âm có thể được thực hiện với siêu âm quy ước. Siêu âm giúp khảo sát các đặc điểm của nội mạc tử cung gồm độ dầy, phản âm và các cấu trúc bất thường lòng tử cung.
@@ -59,9 +61,11 @@ Sinh thiết nội mạc tử cung được sử dụng như là test chẩn đo
 - Phụ nữ vô kinh 1 năm hay nhiều hơn bị xuất huyết tử cung chức năng.
 
 ![Hình ảnh siêu âm của hội chứng buồng trứng đa nang](../../../../assets/phu-khoa/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-buong-trung-da-nang.png)
+
 _Hình ảnh siêu âm của hội chứng buồng trứng đa nang.<br>Hình chuỗi hạt kinh điển của buồng trứng đa nang. Các nang noãn nhỏ xếp thành chuỗi, phân bố ở ngoại vi buồng trứng._
 
 ![Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)](../../../../assets/phu-khoa/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-polyp-tu-cung.png)
+
 _Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)._
 
 Nội soi buồng tử cung cung cấp thêm thông tin và loại trừ các nguyên nhân thực thể tại tử cung và buồng trứng. Soi buồng tử cung chỉ thực hiện khi cần thiết, thường là khi nghi ngờ có tổn thương ở lòng tử cung.

@@ -44,6 +44,7 @@ Không phóng noãn kèm chế tiết steroid bất thường dẫn đến bất
 Trong trường hợp nang noãn nang, có thể chỉ định thuốc tránh thai estrogen-progestogen phối hợp (COC). COC không làm nang noãn nang biến mất. Mục tiêu của việc dùng COC là ngăn không cho các nang noãn thuộc 1 đoàn hệ noãn mới phát triển, nhằm tránh hình thành nang noãn nang mới, trong khi chờ đợi nang noãn nang cũ thoái triển.
 
 ![Nang noãn nang](../../../../assets/phu-khoa/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-noan-nang.png)
+
 _Nang đơn, 5-8cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ._
 
 Nếu nang đã được chẩn đoán là nang noãn nang mà vẫn tồn tại qua nhiều chu kỳ, thì việc nghĩ đến loại nang hay tân sinh và phải được đánh giá chuyên sâu hơn qua hình ảnh hoặc các thăm dò khác.
@@ -72,6 +73,7 @@ Nguyên nhân của hội chứng hoàng thể tồn lưu là bất thường c�
 Nếu chảy máu vẫn không tự cầm, hoàng thể có thể bị vỡ và gây ra xuất huyết nội do vỡ nang hoàng thể. Nếu chảy máu tự cầm, nhưng hoàng thể chứa máu bị căng, sẽ có khối ở phần phụ gây đau.
 
 ![Hoàng thể xuất huyết](../../../../assets/phu-khoa/quan-ly-cac-cau-truc-co-nang-buong-trung/hoang-the-xuat-huyet.png)
+
 _Hoàng thể to ra do bị xuất huyết trong lòng nang, tạo phản âm dạng lưới điển hình._
 
 Bệnh nhân điển hình là người không đang thực hiện tránh thai bằng estrogen-progestogen phối hợp đường uống, có chu kỳ kinh đều, đến khám vì triệu chứng đau cấp tính vùng bụng dưới khi đang ở trong giai đoạn trễ của pha hoàng thể. Số rất nhỏ bệnh nhân biểu hiện bằng triệu chứng của chảy máu trong ổ bụng, đôi khi cần được phẫu thuật để cầm máu. Với những bệnh nhân còn lại, cơn đau cấp tính và sự mất máu tự giới hạn. Các bệnh nhân này có thể được xử trí với thuốc giảm đau nhẹ và trấn an tinh thần bệnh nhân. Nhóm bệnh nhân có nang hoàng thể xuất huyết tái phát hoặc có nguy cơ tái phát bao gồm những bệnh nhân đang sử dụng thuốc chống đông máu và hoặc đang mắc chứng rối loạn đông máu.
@@ -83,6 +85,7 @@ Bệnh nhân điển hình là người không đang thực hiện tránh thai b
 Bệnh cảnh thường thấy nhất là nang hoàng tuyến trong thai trứng hay trong thai kỳ với đa thai. Thai kỳ cũng có thể gây hình thành nang hoàng tuyến, nhưng với mức độ kích thích yếu hơn, do nồng hCG không phải là quá cao như trong thai trứng. Sử dụng hCG ngoại sinh để gây phóng noãn trong điều trị hiếm muộn cũng có thể gây kích hoạt quá đáng các cấu trúc nang noãn, và gây ra dạng đặc biệt của tình trạng này, gọi là hội chứng quá kích buồng trứng (hyperreactio luteinalis).
 
 ![Nang hoàng tuyến](../../../../assets/phu-khoa/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-hoang-tuyen.png)
+
 _Khối u đặc tạo bởi các thành phần tế bào vỏ-hạt bị kích thích mạnh bởi hCG. Sẽ tự thoái triển khi nguồn cấp hCG bị cắt đứt._
 
 Do tất cả các cấu trúc noãn nang đều bị kích thích nên nang hoàng tuyến thường gặp cùng lúc ở cả 2 buồng trứng. Các cấu trúc noãn nang phì đại, tạo ra cấu trúc dạng hỗn hợp, rất to. Nang hoàng tuyến sẽ tự thoái triển khi kích thích bằng hCG kết thúc.

@@ -17,6 +17,7 @@ Tên gọi "lạc nội mạc tử cung trong cơ" quá đơn giản, gây nhi�
 2. Tăng sản và tăng dưỡng của lớp cơ tử cung lân cận.
 
 ![Adenomyosis trên phẫu thuật](../../../assets/phu-khoa/lac-noi-mac-tu-cung/adenomyosis-tren-phau-thuat.png)
+
 _Adenomyosis là cấu trúc tuyến nội mạc tử cung hiện diện tại lớp cơ của tử cung. Ranh giới với cơ tử cung không được phân định rõ ràng, không có vỏ bao. Biểu hiện viêm rất rõ ràng quanh tổ chức tuyến nội mạc lạc vị._
 
 Mô tuyến nội mạc tử cung trong lớp cơ tử cung có đặc điểm hình thái giống với tuyến nội mạc tử cung chính vị.
@@ -26,9 +27,11 @@ Khi khảo sát về biểu hiện gene, nội mạc tử cung lạc vị có bi
 Tăng sản về số lượng sợi cơ và tăng dưỡng về kích thước tế bào cơ tử cung làm thay đổi kích thước và hình dạng của tử cung. Tổn thương tăng dưỡng và tăng sản cơ của adenomyosis có thể là lan tỏa khắp cơ tử cung, làm cho tử cung có dạng hình cầu, với bề dầy của các thành trước và sau không cân đối, thường là thành sau dầy hơn thành trước. Mật độ của tử cung rất cứng. Có thể nói tử cung như "quả cầu bằng gỗ".
 
 ![Mặt cắt của adenomyosis](../../../assets/phu-khoa/lac-noi-mac-tu-cung/mat-cat-adenomyosis.png)
+
 _Trên đại thể, mặt cắt của adenomyosis không đều, do có các cấu trúc tuyến, mô đệm và các sợi cơ xen lẫn vào nhau, và không có ranh giới với mô cơ tử cung lân cận._
 
 ![Cộng hưởng từ của adenomyosis](../../../assets/phu-khoa/lac-noi-mac-tu-cung/hinh-anh-cong-huong-tu-adenomyosis.png)
+
 _Adenomyosis được biểu hiện bằng các cấu trúc tuyến cho tín hiệu mạnh trên T2W (mũi tên đỏ), mô đệm cho tín hiệu yếu hơn. Các sợi cơ tăng dưỡng và tăng sản làm cho tử cung to không đều ở các mặt (mũi tên xanh lá). Có thể thấy hình ảnh các u xơ-cơ tử cung kèm theo (mũi tên xanh). Không có ranh giới với mô cơ tử cung lân cận._
 
 Tổn thương tăng dưỡng và tăng sản cơ của adenomyosis có thể là khu trú tại vùng trên tử cung và tạo cho hình ảnh tương tự nhân xơ tử cung. Trong nhiều trường hợp, adenomyosis có thể kèm theo u xơ-cơ tử cung làm chẩn đoán khó khăn.
@@ -36,6 +39,7 @@ Tổn thương tăng dưỡng và tăng sản cơ của adenomyosis có thể l�
 Tùy theo thành phần cấu tạo chủ yếu là tuyến hay là cơ, adenomyosis sẽ có đặc tính hình ảnh học khác biệt.
 
 ![Kết hợp adenomyosis và u xơ tử cung](../../../assets/phu-khoa/lac-noi-mac-tu-cung/u-xo-tu-cung-va-adenomyosis.png)
+
 _Ghi nhận JZ dầy, không đều. Kèm theo là hình ảnh của các u xơ-cơ tử cung to làm biến dạng lòng tử cung._
 
 ## Bệnh sinh
@@ -64,9 +68,11 @@ Cường estrogen cũng kích hoạt tổng hợp ER-β, chi phối hoạt độ
 Nội mạc tử cung trở nên đề kháng với progesterone, dù rằng nồng độ progesterone trong máu ngoại vi là không thay đổi do dưới ảnh hưởng của tình trạng cường estrogen tại chỗ, biểu hiện gene của gene PGR bị ảnh hưởng. Gene PGR lúc này sẽ biểu hiện chủ yếu bằng PR-A thay vì PR-B. Biểu hiện ưu thế PR-A làm thay đổi tỷ lệ PR-A:PR-B tại nội mạc. Đề kháng progesterone gây ra các kết cục xấu cho sinh sản và các khó khăn cho điều trị trên nền tảng progestin. Là nguồn gốc của xuất huyết tử cung bất thường (AUB-A), gây ra các khó khăn cho các liệu pháp nội tiết trên cơ sở steroid, và đồng thời cũng ảnh hưởng nghiêm trọng trên chức năng sinh sản của người phụ nữ như sẩy thai, tiền sản giật…
 
 ![Sơ đồ mô hình TIAR](../../../assets/phu-khoa/lac-noi-mac-tu-cung/so-do-mo-hinh-tiar.png)
+
 _Mối tương quan giữa xâm nhập nguyên thủy do vi sang chấn với viêm và COX-2, aromatase P450, estrogen và nhu động nghịch thường._
 
 ![Thay đổi biểu hiện gene của thụ thể steroid (mô hình TIAR)](../../../assets/phu-khoa/lac-noi-mac-tu-cung/thay-doi-bieu-hien-gene-cua-thu-the-steroid.png)
+
 _Các bất thường trong biểu hiện gene của ER và PR gây ra các hệ quả là vòng Leyendecke, viêm thần kinh sinh mạch và đề kháng progesterone._
 
 ### Thuyết tử cung 2 nguồn gốc
@@ -78,9 +84,11 @@ Nguồn gốc Muller tạo ra tử cung cổ hay tử cung nguyên thủy. Tử 
 Trong adenomyosis, kết nối bất thường của tử cung cổ và tử cung mới tạo ra các vùng chồng lấn, trong đó tử cung cổ hiện diện bên trong lòng của tử cung mới. Hình ảnh này thể hiện qua bất thường JZ, thấy được trên MRI.
 
 ![Tử cung bình thường trên MRI](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-cung-binh-thuong-tren-mri.png)
+
 _Nội mạc tử cung bình thường có tín hiện cao. Cơ tử cung bình thư. JZ có tín hiệu thấp._
 
 ![Adenomyosis trên MRI](../../../assets/phu-khoa/lac-noi-mac-tu-cung/adenomyosis-tren-mri.png)
+
 _Tử cung hình cầu bất đối xứng, với JZ tăng rất dầy, khu trú ở thành sau tử cung, xâm nhập ra gần đến thanh mạc tử cung. Tiêu chuẩn JZ là 1 trong các tiêu chuẩn quan trọng để nhận diện adenomyosis trên MRI._
 
 Thuyết này giải thích được các trường hợp adenomyosis thầm lặng không kèm theo triệu chứng lâm sàng. Cũng giải thích được sự kết hợp giữa adenomyosis và bệnh lý lạc tuyến nội mạc tử cung sâu trong vùng chậu.
@@ -121,6 +129,7 @@ Rong huyết là than phiền thường gặp (AUB-A). Liên quan đến cườn
 - Xuất huyết tử cung bất thường do cường estrogen trong adenomyosis gây ra những khó khăn trong điều trị, do kèm theo đó là hiện tượng đề kháng với progesterone.
 
 ![Adenomyosis qua nội soi buồng tử cung](../../../assets/phu-khoa/lac-noi-mac-tu-cung/adenomyosis-qua-noi-soi-buong.png)
+
 _Nội mạc tử cung dầy cục bộ với các vùng tuyến xâm nhập._
 
 #### Hiếm muộn
@@ -180,6 +189,7 @@ Nhân xơ tử cung trong cơ, không phải là bệnh tuyến cơ tử cung.
 Phân độ theo hội Y học sinh sản Hoa Kỳ:
 
 ![Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)](../../../assets/phu-khoa/lac-noi-mac-tu-cung/phan-do-lac-noi-mac-tu-cung-asrm.jpeg)
+
 _Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)._
 
 ## Nguyên tắc điều trị
@@ -448,12 +458,15 @@ Phẫu thuật điều trị lạc nội mạc tử cung trước khi thực hi�
 Không điều trị nội tiết trước và sau phẫu thuật.
 
 ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
+
 _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung Bệnh viện Từ Dũ._
 
 ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
+
 _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau Bệnh viện Từ Dũ._
 
 ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
+
 _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo

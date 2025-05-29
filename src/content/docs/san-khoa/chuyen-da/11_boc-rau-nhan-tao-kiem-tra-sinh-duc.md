@@ -35,6 +35,7 @@ Sau sổ thai, cần theo dõi sinh hiệu và lượng máu mất, **không** x
 5. Kiểm tra bánh rau, màng rau, dây rốn đầy đủ.
 
 ![Kỹ thuật bóc rau nhân tạo](../../../../assets/san-khoa/boc-rau-nhan-tao-kiem-tra-sinh-duc/ky-thuat-boc-rau-nhan-tao.png)
+
 _Kỹ thuật bóc rau nhân tạo._
 
 ### Tai biến
@@ -116,12 +117,12 @@ Tương tự kiểm tra cổ tử cung.
 2. Mở valve, kiểm tra đáy chậu, tầng sinh môn.
 3. Thăm trực tràng: đánh giá cơ vòng hậu môn.
 
-> **Phân độ rách tầng sinh môn**
->
-> - **Độ I**: niêm mạc + da.
-> - **Độ II**: + cơ tầng sinh môn.
-> - **Độ III**: + cơ vòng hậu môn.
-> - **Độ IV**: + niêm mạc trực tràng.
+**Phân độ rách tầng sinh môn**
+
+- **Độ I**: niêm mạc + da.
+- **Độ II**: + cơ tầng sinh môn.
+- **Độ III**: + cơ vòng hậu môn.
+- **Độ IV**: + niêm mạc trực tràng.
 
 ### Khâu phục hồi
 

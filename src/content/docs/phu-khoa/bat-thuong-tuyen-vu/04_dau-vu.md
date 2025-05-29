@@ -113,6 +113,7 @@ Bromocriptine là chất đồng vận dopamine. Bromocriptine và kích thích 
 Liều 5mg ngày giúp 47-88% phụ nữ giảm đau vú đáng kể. Bromocriptine làm giảm điểm số đau vú trung bình 16.31 so với nhóm dùng giả dược. Bromocriptine gây ra tác dụng phụ nghiêm trọng, phổ biến nhất là buồn nôn, nôn và chóng mặt. Chính các tác dụng phụ này thường khiến khách hàng ngưng sử dụng thuốc.
 
 ![Điều trị đau vú theo phác đồ Cardiff, 2009](../../../../assets/phu-khoa/dau-vu/dieu-tri-dau-vu-theo-phac-do-cardiff.png)
+
 _Điều trị đau vú theo phác đồ Cardiff, 2009._
 
 ### Phẫu thuật
@@ -124,6 +125,7 @@ Phẫu thuật có thể có lợi ở những bệnh nhân điểm đau cụ th
 ## Phác đồ đánh giá và xử trí
 
 ![Đánh giá và xử trí đau vú Bệnh viện Từ Dũ](../../../../assets/phu-khoa/dau-vu/danh-gia-va-xu-tri-dau-vu.png)
+
 _Đánh giá và xử trí đau vú Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo

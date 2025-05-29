@@ -24,6 +24,7 @@ Hệ thống nâng dỡ các cơ quan tiểu khung:
 ### Phân độ
 
 ![Phân loại - Phân độ sa tạng chậu](../../../assets/phu-khoa/sa-tang-chau/phan-loai-phan-do-sa-tang-chau.jpg)
+
 _Phân loại - Phân độ sa tạng chậu._
 
 Quy ước 9 mốc cần đo:
@@ -49,6 +50,7 @@ Phân độ:
 - Độ IV: sa toàn bộ, B ≥(tvl-2)cm.
 
 ![Sơ đồ chẩn đoán sa tạng chậu](../../../assets/phu-khoa/sa-tang-chau/so-do-chan-doan-sa-tang-chau.jpg)
+
 _Sơ đồ chẩn đoán sa tạng chậu._
 
 ## Xét nghiệm chẩn đoán và chuyên biệt
@@ -227,12 +229,15 @@ Kỹ năng phẫu thuật viên không thể thực hiện các phẫu thuật p
 Sa tử cung ≥độ 2 kèm sa các tạng chậu khác nhưng tình trạng BN không cho phép phẫu thuật hoặc gây mê kéo dài > 2h.
 
 ![Phác đồ chẩn đoán và xử trí sa tạng chậu Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
+
 _Phác đồ chẩn đoán và xử trí sa tạng chậu Bệnh viện Từ Dũ._
 
 ![Phẫu thuật ngả bụng Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-bung.jpeg)
+
 _Phẫu thuật ngả bụng Bệnh viện Từ Dũ._
 
 ![Phẫu thuật đường âm đạo Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-am-dao.png)
+
 _Phẫu thuật đường âm đạo Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo

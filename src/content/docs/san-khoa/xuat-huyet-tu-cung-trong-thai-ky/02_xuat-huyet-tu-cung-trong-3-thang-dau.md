@@ -48,6 +48,7 @@ Nếu TVS không thấy túi thai ở tuổi siêu âm 5.5–6 tuần, cần xem
 Sau khi xác định túi thai có phôi và tim thai, vai trò β-hCG giảm.
 
 ![Lược đồ tiếp cận xuất huyết 3 tháng đầu với siêu âm](../../../../assets/san-khoa/xuat-huyet-tu-cung-trong-3-thang-dau/luoc-do-xuat-huyet-3-thang-dau-theo-sieu-am.png)
+
 _Lược đồ tiếp cận xuất huyết 3 tháng đầu với siêu âm._
 
 ## Nguồn tham khảo

@@ -26,6 +26,7 @@ Hạch bẹn (+), 1 hoặc 2 bên, đau.
 Những đợt tái phát: giống tổn thương ban đầu nhưng ngắn hơn, ít triệu chứng toàn thân, thường xuất hiện sau tình trạng stress.
 
 ![Herpes sinh dục](../../../../assets/phu-khoa/herpes/herpes.jpg)
+
 _Herpes sinh dục._
 
 ### Cận lâm sàng (nếu có điều kiện)
