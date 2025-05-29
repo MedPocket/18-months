@@ -1,9 +1,9 @@
 ---
 title: Thuốc điều trị trong tiền sản giật
-description: Tổng hợp các thuốc phòng ngừa và điều trị tiền sản giật—bao gồm Magnesium sulfate, thuốc hạ áp, HELLP và lợi tiểu.
+description: Tổng hợp các thuốc phòng ngừa và điều trị tiền sản giật—bao gồm MgSO₄, thuốc hạ áp, HELLP và lợi tiểu.
 ---
 
-## Magnesium sulfate
+## MgSO₄
 
 **Cơ chế:**
 

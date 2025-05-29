@@ -127,17 +127,17 @@ Biểu hiện kèm: ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng 
 - Dinh dưỡng đủ năng lượng, protein, vitamin, tránh táo bón.
 - Liệu pháp corticosteroids trước sinh.
 - Thuốc cắt cơn ngắn hạn để hoàn thành corticosteroids.
-- Magnesium sulfate bảo vệ não thai.
+- MgSO₄ bảo vệ não thai.
 - Kháng sinh dự phòng GBS nếu cần.
 - Phối hợp bác sĩ sơ sinh.
 
 ### Thuốc cắt cơn (tocolytics)
 
-| **Nhóm thuốc**                   | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                      | Lưu ý                                                                                                                                        |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Đối vận với thụ thể oxytocin** | Đối vận với thụ thể của oxytocin trên cơ tử cung, ngăn cản tác dụng co cơ tử cung của oxytocin nội sinh | Hiện không có tác dụng phụ quan trọng được ghi nhận                                                                                                                               | Là thuốc duy nhất được dán nhãn (_labelled_) cho điều trị sinh non                                                                           |
-| **Ức chế kênh calcium**          | Ngăn chặn Ca²⁺ đi vào tế bào                                                                            | Hạ huyết áp và nhức đầu; có thể làm giảm lưu lượng máu nhau-tử cung, giảm oxygen và tăng CO₂ ở thai nhi                                                                           | - Có thể làm nặng thêm tác dụng phụ của magnesium sulfate<br>- Không được dán nhãn cho điều trị sinh non<br>- Thường ít dùng do tác dụng phụ |
-| **Đồng vận β-adrenergic**        | Tăng nồng độ cAMP (_cyclic adenosine MonoPhosphate_) trong tế bào, làm giảm nồng độ calcium             | - Hạ huyết áp, nhịp tim nhanh, nặng ngực/đau ngực, thay đổi ECG<br>- Có thể gây phù phổi (đặc biệt khi quá tải tuần hoàn)<br>- Chống chỉ định tương đối: bệnh mạch vành, suy thận | - Salbutamol không được dán nhãn cho điều trị sinh non<br>- Dùng kéo dài không được xem là an toàn cho thai nhi                              |
+| **Nhóm thuốc**                   | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                      | Lưu ý                                                                                                                            |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Đối vận với thụ thể oxytocin** | Đối vận với thụ thể của oxytocin trên cơ tử cung, ngăn cản tác dụng co cơ tử cung của oxytocin nội sinh | Hiện không có tác dụng phụ quan trọng được ghi nhận                                                                                                                               | Là thuốc duy nhất được dán nhãn (_labelled_) cho điều trị sinh non                                                               |
+| **Ức chế kênh calcium**          | Ngăn chặn Ca²⁺ đi vào tế bào                                                                            | Hạ huyết áp và nhức đầu; có thể làm giảm lưu lượng máu nhau-tử cung, giảm oxygen và tăng CO₂ ở thai nhi                                                                           | - Có thể làm nặng thêm tác dụng phụ của MgSO₄<br>- Không được dán nhãn cho điều trị sinh non<br>- Thường ít dùng do tác dụng phụ |
+| **Đồng vận β-adrenergic**        | Tăng nồng độ cAMP (_cyclic adenosine MonoPhosphate_) trong tế bào, làm giảm nồng độ calcium             | - Hạ huyết áp, nhịp tim nhanh, nặng ngực/đau ngực, thay đổi ECG<br>- Có thể gây phù phổi (đặc biệt khi quá tải tuần hoàn)<br>- Chống chỉ định tương đối: bệnh mạch vành, suy thận | - Salbutamol không được dán nhãn cho điều trị sinh non<br>- Dùng kéo dài không được xem là an toàn cho thai nhi                  |
 
 :::caution[Lưu ý]  
 Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều loại, hoặc sau 34 tuần.  
@@ -260,9 +260,9 @@ _Liệu pháp nhằm dự phòng hội chứng suy hô hấp cấp ở sơ sinh.
 - Hoặc dexamethasone 6 mg bắp × 4 liều cách 12 giờ.
 - Xem xét lặp lại sau 7–14 ngày nếu còn nguy cơ và < 34 tuần.
 
-### Bảo vệ thần kinh thai bằng Magnesium sulfate
+### Bảo vệ thần kinh thai bằng MgSO₄
 
-_Magnesium sulfate bảo vệ thần kinh cho trẻ rất non (< 32 tuần)._
+_MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần)._
 
 **Chỉ định:** thai 24–31 + 6 tuần có nguy cơ sinh non trong 24 giờ.
 

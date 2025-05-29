@@ -3,108 +3,105 @@ title: Giảm đau trong chuyển dạ
 description: Giảm đau trong chuyển dạ.
 ---
 
-Đau là hiện tượng chủ quan, thay đổi về tính chất và cường độ.
+Đau là một hiện tượng chủ quan, thay đổi tùy theo tính chất và cường độ cảm nhận của từng cá nhân.
 
-Trong chuyển dạ, đau được cảm nhận qua các đoạn đoạn thần kinh tủy sống. Tủy sống nhận tín hiệu từ tử cung, cổ tử cung, khung chậu và tầng sinh môn. Khi không có sự can thiệp giảm đau, các tín hiệu cảm giác kích hoạt các đoạn tủy kế cận, gây lan tỏa vùng đau.
+Trong chuyển dạ, cảm giác đau truyền qua các đoạn tủy sống, nơi tiếp nhận tín hiệu từ tử cung, cổ tử cung, khung chậu và tầng sinh môn. Khi không có biện pháp giảm đau, các tín hiệu thần kinh này có thể lan rộng và kích hoạt các đoạn tủy kế cận, làm tăng cảm giác đau lan tỏa.
 
 ## Đau trong chuyển dạ
 
-Đau của giai đoạn I xuất phát từ cơn gò tử cung. Cơn co tử cung gây xóa góc cổ tử cung-âm đạo, gây ra dãn nở và căng phình, kéo và căng xé cổ tử cung. Sức căng này tạo áp lực trên các tận cùng đầu thần kinh nằm ở các sợi cơ và đáy tử cung, gây sự biến đổi trong cơ tử cung. Đau trong giai đoạn này còn có nguồn gốc khác: co thắt của cơ tử cung và cổ tử cung, thiếu máu và co mạch do hoạt động giao cảm tăng. Tổn thương mô và cơn gò tử cung kích thích sự đáp ứng của hệ thần kinh ngoại vi và trung ương. Kết quả của cảm nhận đau được thể hiện như cảm giác đau khó chịu giữa rốn và xương vệ và đi ra sau lưng, ở phía trên xương cùng. Cảm giác này là sự tổng hợp của: đau thân thể cấp sâu và nông từ khớp chậu, âm đạo và tầng sinh môn, đau cấp của phủ tạng từ tử cung và cổ tử cung, đau được chuyển đến da, cơ của thành bụng và lưng.
+Trong giai đoạn I, đau chủ yếu xuất phát từ các cơn co tử cung gây xóa và mở cổ tử cung. Cơn co làm căng và kéo giãn cổ tử cung, tạo áp lực lên các đầu dây thần kinh tại cơ tử cung và vùng đáy tử cung, dẫn đến đau. Ngoài ra, đau còn có thể đến từ co thắt tử cung, thiếu máu cục bộ và co mạch do hoạt động giao cảm gia tăng. Đáp ứng của hệ thần kinh trung ương và ngoại vi đối với các kích thích này làm tăng cảm nhận đau, thường biểu hiện ở vùng giữa rốn và xương mu, lan ra sau lưng trên vùng xương cùng. Đây là sự kết hợp giữa đau nội tạng từ tử cung, cổ tử cung và đau thân thể từ khung chậu, âm đạo, tầng sinh môn, thành bụng và lưng.
 
-Trong giai đoạn II của chuyển dạ, kích thích đau của cổ tử cung mở hoàn toàn đã giảm nhưng phần trình diện của ngôi thai làm căng các cấu trúc nhạy cảm đau ở khung chậu và tầng sinh môn, sự căng phồng các cấu trúc kế cận như niệu đạo, bàng quang, lớp cân và cơ của tiểu khung, phúc mạc và dây chằng tử cung.
+Ở giai đoạn II, khi cổ tử cung đã mở hoàn toàn, đau do căng giãn các cấu trúc sàn chậu và tầng sinh môn trở nên nổi bật. Phần trình diện của thai gây áp lực lên niệu đạo, bàng quang, cơ và dây chằng của vùng tiểu khung.
 
-Đau trong cuối giai đoạn II và giai đoạn III của chuyển dạ phản ánh kích thích đau đi kèm theo lúc thai xuống và rau bong. Tình trạng tăng cảm giác đau ngoại vi và trung ương lúc sinh thường có thể giảm khi tổn thương tạng đã phục hồi. Tăng cảm giác đau cơ học (do sợi Aδ dẫn đầu), có thể kéo dài ngày sau khi cắt tầng sinh môn.
+Vào cuối giai đoạn II và trong giai đoạn III, đau phản ánh quá trình thai lọt và rau bong, cùng với tình trạng tăng cảm giác đau ở cả hệ thần kinh ngoại vi và trung ương. Tăng cảm giác đau cơ học, dẫn truyền qua sợi Aδ, có thể tồn tại sau sinh, đặc biệt nếu có thực hiện thủ thuật cắt tầng sinh môn.
 
 ## Yếu tố ảnh hưởng
 
 ### Tăng endorphin trong thai kỳ
 
-Thai nghén có kết hợp với sự chịu đựng cảm thụ đau tăng lên liên quan đến sự gia tăng nồng độ endorphin trong huyết tương.
+Mang thai làm tăng ngưỡng chịu đau, một phần do nồng độ endorphin huyết tương tăng cao. Tác dụng này bị đảo ngược khi sử dụng thuốc đối kháng opioid như naltrexone. Nồng độ chất P giảm và tác động điều hòa của progesterone lên chất dẫn truyền thần kinh cũng góp phần vào thay đổi cảm nhận đau. Lâm sàng ghi nhận phụ nữ mang thai cần lượng thuốc tê ít hơn khoảng 30% để đạt hiệu quả khi gây tê ngoài màng cứng.
 
-Thuốc kháng vận nghiện naltrexone đảo ngược tác dụng này. Nồng độ chất P trong huyết tương thấp cũng có thể góp phần vào thay đổi chiu đựng đau lúc có thai. Thêm vào đó, progesterone thay đổi sự bất hoạt chất P bằng endorphin. Trên lâm sàng, người phụ nữ có thai cần lượng thuốc tê ít hơn khoảng 30% để gây tê ngoài màng cứng giảm đau so với người không mang thai. Mặc dù 1 vài tác dụng này có liên quan đến sự tăng nhạy cảm đối với thuốc tê, 1 vài tác dụng cũng có thể liên quan đến sự thay đổi dung nạp đau kết hợp với thai nghén.
+### Tăng nhạy cảm với thuốc tê và thuốc mê
 
-### Tăng nhạy cảm trong thai nghén
-
-Thai nghén này có thể liên quan đến sự gia tăng nhạy cảm đối với cả gây tê vùng và gây mê toàn diện.
-
-Sự thay đổi tính nhạy cảm này có thể do: tác dụng trực tiếp của progesterone vào tính kích thích của màng tế bào, tác dụng gián tiếp của chất dẫn truyền thần kinh.
+Thai kỳ làm tăng độ nhạy cảm với gây mê và gây tê vùng, có thể do tác dụng của progesterone lên tính thấm của màng tế bào hoặc gián tiếp qua chất dẫn truyền thần kinh.
 
 ### Số lần mang thai
 
-Sản phụ có chuyển dạ lần đầu cảm thấy đau nhiều hơn và tiêu thụ nhiều thuốc giảm đau hơn so với người đa sản.
-
-Ở con so, tần số cơn gò và độ mở cổ tử cung ảnh hưởng trên cảm giác đau. Nhưng ở sản phụ đa sản chỉ có độ dãn nở cổ tử cung ảnh hưởng trên cảm nhận đau. Không kể về số lần sinh, sản phụ không có điều trị đau đã báo cáo thang điểm đau cao nhất khi cổ từ cung mở từ 8 đến 10cm. Cổ tử cung dãn nhiều đòi hỏi tăng nồng độ Bupivacaine NMC để giảm đau.
+Phụ nữ sinh con lần đầu thường cảm nhận đau dữ dội hơn và có xu hướng sử dụng nhiều thuốc giảm đau hơn so với sản phụ đa thai. Ở con so, cảm giác đau liên quan đến tần suất co và độ mở cổ tử cung, trong khi ở con rạ, chủ yếu do độ giãn nở cổ tử cung.
 
 ### Lo âu
 
-Các dữ liệu hiện có cho thấy những người mẹ được chuẩn bị ít lo âu và đối phó tốt hơn với đau chuyển dạ. Cơ chế lo âu tác động vào đau vẫn còn bàn cãi. Thêm vào đó lo âu và stress đưa đến sự phóng thích epinephrine. Chất này có thể gây nhạy cảm hoặc tác động trực tiếp đến các thụ cảm đau ngoại vi. Ngược lại, lo âu cũng có thể phóng thích chất nghiện nội sinh. Có thể nhận định rằng lo âu có thể ức chế cảm nhận đau, không phải trực tiếp mà hướng sự chú ý về hướng khác khỏi kích thích đau. Sự lo âu tập trung vào đau có thể làm cho đau tăng lên, trong khi đó lo âu tập trung vào mối lo khác thì đau có thể giảm.
+Lo âu ảnh hưởng đến cảm nhận đau theo nhiều cách. Mức độ lo âu cao làm tăng phóng thích epinephrine, có thể làm tăng nhạy cảm của các thụ thể đau. Tuy nhiên, lo âu cũng có thể kích thích sản xuất endorphin nội sinh. Hướng chú ý vào nỗi lo khác ngoài đau có thể làm giảm cảm giác đau; ngược lại, tập trung vào đau có thể làm nó trầm trọng hơn.
 
 ### Tuổi
 
-Tuổi tác làm ảnh hưởng đến cảm thụ đau. Phụ nữ lớn tuổi có đau trong chuyển dạ ít hơn so với sản phụ trẻ tuổi.
+Phụ nữ lớn tuổi thường chịu đau tốt hơn trong chuyển dạ so với những sản phụ trẻ tuổi.
 
-### Vấn đề khác
+### Yếu tố khác
 
-Tiền sử về đau nhiều lúc có kinh và đau lưng cũng liên quan đến thay đổi đau trong chuyển dạ, trong khi đó vai trò của tư thế thai và oxytocin vẫn còn bàn cãi.
-
-Có sự khác biệt rất nhiều về giảm đau giữa các nền văn hóa, cá tính, tôn giáo, đã từng trải về sinh đẻ… Tất cả điều này sẽ ảnh hưởng đến cái đau sẽ trải qua.
+Tiền sử đau nhiều khi hành kinh, đau lưng mạn tính có thể ảnh hưởng đến cảm nhận đau trong chuyển dạ. Tư thế thai và sử dụng oxytocin vẫn còn gây tranh cãi về vai trò đối với cảm giác đau. Sự khác biệt về văn hóa, tôn giáo, cá tính và kinh nghiệm sinh đẻ cũng ảnh hưởng rõ rệt đến cảm nhận đau.
 
 ![Các yếu tố ảnh hưởng đến đau trong chuyển dạ](../../../../assets/san-khoa/giam-dau-trong-chuyen-da/yeu-to-anh-huong-den-dau-trong-chuyen-da.png)
 _Các yếu tố ảnh hưởng đến đau trong chuyển dạ._
 
 ## Giảm đau trong chuyển dạ
 
-Đau lúc chuyển dạ không có bất kỳ mục đích hữu dụng nào cả, sản phụ không muốn và cũng không cần trải qua đau lúc chuyển dạ. Giảm đau tốt là biện pháp có thể có ích trong mục tiêu cải thiện kết cục của chuyển dạ. Không may là một số người vẫn còn tin rằng trải qua đau lúc chuyển dạ làm tăng khả năng sinh đẻ. Những người khác sợ rằng giảm đau tốt làm cho chuyển
-dạ chậm lại. Mặc dù cường độ đau có thể giảm ở những lần sinh sau, tính chất đau vẫn không thay đổi.
+Đau trong chuyển dạ không có lợi ích sinh lý thiết yếu và không nên bị coi là "cần thiết". Giảm đau hiệu quả không những nâng cao trải nghiệm sinh đẻ mà còn có thể cải thiện kết cục sản khoa. Tuy nhiên, một số người vẫn tin rằng chịu đựng đau sẽ giúp sinh nở tốt hơn hoặc sợ rằng giảm đau sẽ làm chậm chuyển dạ — những điều này chưa có bằng chứng rõ ràng.
 
 ![Các phương pháp có thể dùng để giảm đau trong chuyển dạ](../../../../assets/san-khoa/giam-dau-trong-chuyen-da/cac-phuong-phap-gay-te.png)
 _Các phương pháp có thể dùng để giảm đau trong chuyển dạ._
 
 ## Gây tê ngoài màng cứng
 
-Giảm đau sản khoa bằng tê ngoài màng cứng giúp sản phụ chấp nhận cuộc sinh dễ dàng và tính uyển chuyển của nó:
+Tê ngoài màng cứng là phương pháp phổ biến trong giảm đau sản khoa, cho phép linh hoạt trong kiểm soát cơn đau:
 
-- Tính uyển chuyển của tê ngoài màng cứng là với catheter có thể điều chỉnh phong bế: hoặc kéo dài hoặc làm lại khi tình trạng lâm sàng đòi hỏi.
-- Trong trường hợp cuộc sinh phải chuyển sang mổ lấy thai, thì tê ngoài màng cứng cũng là phương pháp vô cảm thường dùng cho mổ sinh.
-- Mức tê và cường độ phong bế cảm giác có thể thay đổi tùy theo ta chọn thuốc, thể tích và nồng độ. Sản phụ có thể được giảm đau trong chuyển dạ bằng dung dịch loãng thuốc tê và thuốc nghiện. Bơm thêm thuốc tê có nồng độ cao có thể gây tê để phẫu thuật nhanh chóng. Tê ngoài màng cứng có thể dùng giảm đau sau sinh mổ. Thuốc bắt đầu phong bế dần dần có thể giúp hạn chế tần suất và mức độ trầm trọng của hạ huyết áp.
+- Catheter cho phép hiệu chỉnh mức độ phong bế tùy vào tình trạng lâm sàng.
+- Có thể sử dụng tiếp nếu cần mổ lấy thai.
+- Mức độ phong bế cảm giác thay đổi theo loại thuốc, thể tích và nồng độ thuốc.
+- Giảm đau được duy trì liên tục hoặc ngắt quãng, tùy vào phác đồ.
+- Khởi phát phong bế chậm giúp giảm nguy cơ hạ huyết áp đột ngột.
 
-Tê ngoài màng cứng tỏ ra an toàn đối với sản phụ có tiền sản giật nặng, một số bệnh tim (hẹp van động mạch chủ nặng) có khả năng đáp ứng kém với sự thay đổi đổi đột ngột huyết động.
+Phương pháp này an toàn với sản phụ có tiền sản giật nặng hoặc một số bệnh tim như hẹp van động mạch chủ.
 
 ![Vị trí đâm kim tê ngoài màng cứng](../../../../assets/san-khoa/giam-dau-trong-chuyen-da/gay-te-ngoai-mang-cung.png)
 _Vị trí đâm kim tê ngoài màng cứng._
 
 ### Chống chỉ định
 
-Tê ngoài màng cứng giảm đau sản khoa chỉ có 2 chống chỉ định tuyệt đối là (1) sản phụ từ chối thực hiện giảm đau và (2) nhiễm trùng nơi sẽ chọc kim gây tê. Các chống chỉ định khác chỉ là tương đối và còn tranh cãi:
+Hai chống chỉ định tuyệt đối của tê ngoài màng cứng:
 
-- Đau lưng: Thoát vị đĩa đệm hay đau lưng đều không là chống chỉ định của tê ngoài màng cứng. Phương pháp này không làm nặng thêm bệnh đau lưng có trước đó cũng như không tạo ra đau lưng mới sau đó.
-- Bệnh lý hệ thần kinh: Trước đây là bệnh lý này là chống chỉ định do tình trạng diễn biến xấu sau khi sinh. Tuy nhiên các chứng cứ hiện tại cho thấy sản phụ có bệnh lý hệ thần kinh trước có thể được tê ngoài màng cứng an toàn. Tình trạng xấu sau sinh có thể chỉ liên quan đến bệnh sử tự nhiên của bệnh.
-- Thiếu khối lượng tuần hoàn: Không nên gây tê ở sản phụ thiếu khối lượng tuần hoàn do mất máu cấp do sự phối hợp liệt giao cảm và thiếu khối lượng tuần hoàn có thể gây ra hạ huyết áp trầm trọng. Tuy vậy, tê ngoài màng cứng vẫn là biện pháp an toàn nếu thể tích trong lòng mạch đã được phục hồi và duy trì tốt.
-- Bệnh lý đông máu: Xuất huyết trong khoang ngoài màng cứng chưa được kiểm tra có thể gây tổn thương thần kinh vĩnh viễn. Vì thế, cần rất thận trọng tê ngoài màng cứng ở sản phụ có bệnh lý đông máu hoặc hạ tiểu cầu.
-- Cũng nên thận trọng và cân nhắc khi quyết định gây tê ngoài màng cứng cho các bệnh lý có khả năng gây rối loạn đông máu khi có thai bao gồm: tiền sản giật, sẩy thai to,thai chết lưu, thuyên tắc ối, đang dùng thuốc kháng đông (heparin, coumarin…).
+1. Bệnh nhân từ chối.
+2. Nhiễm trùng tại vị trí chọc kim.
+
+Một số chống chỉ định tương đối:
+
+- **Đau lưng, thoát vị đĩa đệm**: không phải chống chỉ định tuyệt đối.
+- **Bệnh lý thần kinh**: vẫn có thể thực hiện nếu đánh giá kỹ càng.
+- **Giảm thể tích tuần hoàn**: thận trọng khi chưa bù đủ dịch.
+- **Rối loạn đông máu**: cần đánh giá kỹ vì nguy cơ xuất huyết trong khoang ngoài màng cứng.
 
 ### Ảnh hưởng đến chuyển dạ
 
-Giảm đau ngoài màng cứng có thể ảnh hưởng đến chuyển dạ nhưng không ảnh hưởng đến kết cục sản khoa.
-
-Ở giai đoạn I, giảm đau ngoài màng cứng không làm thay đổi cơn gò tử cung nhưng có thể làm cổ tử cung mở chậm hơn. Do đó, giảm đau ngoài màng cứng thường áp dụng khi chuyển dạ giai đoạn hoạt động.
-
-Ở giai đoạn II của chuyển dạ, có bằng chứng cho thấy giảm đau ngoài màng cứng làm giảm sản xuất oxytocin nội sinh và giảm cơn gò tử cung. Người ta cho rằng phong bế vận động phối hợp với giảm đau ngoài màng cứng làm giảm sức rặn của sản phụ và làm cho tầng sinh môn dãn, điều này khiến cho đầu thai nhi xoay không tốt (ngưng xoay ở kiểu thế ngang) làm tăng khả năng phải can thiệp sinh thủ thuật.
+- **Giai đoạn I**: không ảnh hưởng đến cơn co tử cung nhưng có thể làm chậm mở cổ tử cung.
+- **Giai đoạn II**: có thể làm giảm oxytocin nội sinh, yếu sức rặn, giảm khả năng xoay đầu thai — tăng nguy cơ can thiệp thủ thuật.
 
 ### Biến chứng
 
-Hạ huyết áp ở thai phụ là tác dụng phụ hay gặp nhưng thoáng qua, có thể phòng ngừa bằng cách bù dịch truyền nhanh và theo dõi sát sinh hiệu. Tuy nhiên, biến chứng này có thể ảnh hưởng đến thai nhi làm thay đổi nhịp tim thai thoáng qua. Hiếm khi nhịp tim thai giảm nặng và kéo dài, trong trường hợp này có thể gây tình trạng toan chuyển hóa. Do đó, theo dõi sát sinh hiệu sản phụ và monitoring tim thai liên tục là cần thiết cho sản phụ sau giảm đau bằng tê ngoài màng cứng.
+- **Hạ huyết áp**: thường gặp, nhưng có thể phòng ngừa bằng truyền dịch và theo dõi sát.
+- **Ảnh hưởng tim thai**: thường thoáng qua, nhưng cần theo dõi liên tục.
+- **Chọc thủng màng cứng, đặt nhầm vị trí catheter**: hiếm gặp.
+- **Đau lưng, nhức đầu sau gây tê**: thường thoáng qua.
 
-Chọc thủng màng cứng và catheter chui vào tủy sống hay lòng mạch là biến chứng nhất thời, hiếm gặp. Tê không hoàn toàn xảy ra thường hơn ở tê ngoài màng cứng hơn là ở tê tủy sống.
+### Hiệu quả so với gây tê tủy sống
 
-Ngoài ra các biến chứng lâu dài khác hiếm gặp thường thoáng qua và không để lại di chứng nào cho thai phụ như: nhức đầu sau gây tê, liệt chi, đau lưng.
+1. **Cơ chế**:
 
-### Hiệu quả
+   - Tê tủy sống: thuốc tê vào dịch não tủy → tác dụng nhanh, phong bế mạnh.
+   - Tê ngoài màng cứng: thuốc vào khoang ngoài màng cứng → tác dụng chậm hơn, nhưng duy trì lâu hơn.
 
-Hiệu quả giảm đau giữa tê ngoài màng cứng và tê tủy sống là tương đương. Có khác biệt quan trọng trên lâm sàng. Gây tê ngoài màng cứng và gây tê tủy sống khác biệt nhau ở nhiều điểm:
-
-1. Cơ chế phong bế: Tê tủy sống được thực hiện bằng cách bơm thuốc tê vào dịch não tủy, liều thuốc và tỷ trọng của dịch thuốc là 2 yếu tố quyết định thời gian và độ rộng của phong bế. Với tê ngoài màng cứng là bơm thuốc vào khoang ngoài màng cứng, tỷ trọng không phải là yếu tố quan trọng, mà thể tích và tổng liều của thuốc bơm mới ảnh hưởng đến độ rộng và độ sâu của phong bế.
-2. Hiệu quả: Tê ngoài màng cứng đòi hỏi nhiều thời gian và phương tiện hơn tê tủy sống, thời gian từ lúc dẫn đầu đến mất cảm giác đau thường dài hơn tê tủy sống, nhưng có thể kéo dài thời gian phong bế cảm giác đau nhờ bơm thuốc liên tục đến sau sinh, nên phương pháp này thường áp dụng cho giảm đau sản khoa. Với sự lựa chọn thuốc tê cẩn thận và dùng thêm thuốc phụ, thì thời gian tác dụng ở tê ngoài màng cứng ngắn nhất cũng là 10 phút. Tê ngoài màng cứng có thể dẫn đầu và duy trì bằng ống thông, nên nó vẫn là kỹ thuật thích hợp nhất khi cần sự uyển chuyển và kéo dài. Do tác dụng nhanh, nên tê tủy sống thường hay áp dụng cho các trường hợp mổ lấy thai vì giảm cảm giác đau nhanh hơn và thời gian chăm sóc bệnh nhân tại phòng mổ ngắn hơn. Tê tủy sống có nhiều thuận lợi, nhưng giới hạn lớn nhất là thời gian tác dụng bị giới hạn.
+2. **Ứng dụng**:
+   - Tê ngoài màng cứng thích hợp cho chuyển dạ kéo dài, có thể điều chỉnh liều liên tục.
+   - Tê tủy sống phù hợp trong mổ lấy thai nhờ khởi phát nhanh.
 
 ## Nguồn tham khảo
 

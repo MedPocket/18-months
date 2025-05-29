@@ -28,7 +28,7 @@ Tư thế nằm là tư thế đếm cử động thai được nhận biết t�
 
 Thời điểm được lựa chọn để đếm cử động thai là đầu buổi tối, khi sản phụ có thể tập trung vào việc này.
 
-Cử động thai không liên quan đến bữa ăn. Hút thuốc lá làm giảm cử động thai thoáng qua do tăng nồng độ $CO_2$ máu và giảm tưới máu thận. Hầu hết các loại thuốc thường dùng không làm giảm cử động thai, ngoại trừ các thuốc hướng thần kinh như thuốc điều trị trầm cảm và thuốc mê. Liệu pháp corticosteroids trước sinh cũng làm giảm cử động thai thoáng qua trong khoảng 2 ngày.
+Cử động thai không liên quan đến bữa ăn. Hút thuốc lá làm giảm cử động thai thoáng qua do tăng nồng độ CO₂ máu và giảm tưới máu thận. Hầu hết các loại thuốc thường dùng không làm giảm cử động thai, ngoại trừ các thuốc hướng thần kinh như thuốc điều trị trầm cảm và thuốc mê. Liệu pháp corticosteroids trước sinh cũng làm giảm cử động thai thoáng qua trong khoảng 2 ngày.
 
 ## Cách đếm cử động thai
 

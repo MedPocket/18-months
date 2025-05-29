@@ -209,7 +209,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 
 ### Dự phòng co giật
 
-- **Magnesium sulfate (MgSO₄):**
+- **MgSO₄ (MgSO₄):**
   - Tấn công: 4–6 g TM chậm.
   - Duy trì: 1–2 g/h đến 24 giờ sau sinh
   - Ngưng khi có dấu hiệu ngộ độc.
@@ -236,7 +236,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
      - **Liều duy trì:** 1–2 g/giờ truyền tĩnh mạch liên tục.
      - Tiếp tục truyền tối thiểu 24 giờ sau cơn sản giật cuối cùng hoặc sau sinh.
 
-   - **Theo dõi dấu hiệu ngộ độc Magnesium sulfate:**
+   - **Theo dõi dấu hiệu ngộ độc MgSO₄:**
 
      - Giảm phản xạ gân xương.
      - Suy hô hấp, nhịp thở < 12 lần/phút.
@@ -270,7 +270,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 | **Dấu hiệu nặng tiền sản giật**  | Huyết áp ≥ 160/110 mmHg, giảm tiểu cầu, suy gan/thận, triệu chứng thần kinh |
 | **Hội chứng HELLP**              | Hemolysis, tăng men gan, giảm tiểu cầu                                      |
 | **Xử trí tiền sản giật**         | Theo dõi, chỉ định sinh khi có dấu hiệu nặng hoặc thai đủ tuổi              |
-| **Dự phòng & điều trị sản giật** | Magnesium sulfate, kiểm soát huyết áp, bảo vệ mẹ và thai                    |
+| **Dự phòng & điều trị sản giật** | MgSO₄, kiểm soát huyết áp, bảo vệ mẹ và thai                                |
 
 ## Nguồn tham khảo
 

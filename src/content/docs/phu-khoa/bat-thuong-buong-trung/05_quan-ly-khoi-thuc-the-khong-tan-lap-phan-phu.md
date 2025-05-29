@@ -26,7 +26,7 @@ Giả thuyết cấy ghép hiện đại, máu kinh trào ngược qua ngả vò
 ![Nang lạc tuyến nội mạc tử cung tại buồng trứng](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/nang-lac-tuyen-noi-mac-tu-cung-tai-buong-trung.png)
 _Giả nang, không vỏ bọc thật, lòng chứa dịch nâu chocolate._
 
-Đáp ứng miễn dịch bẩm sinh được kích hoạt dẫn đến tiến trình viêm. Acid arachidonic rồi COX-2 và cuối cùng là các prostaglandin gây ra biểu hiện viêm tại vị trí xâm nhập. Prostaglandin PGE2 của tiến trình viêm sẽ gián tiếp kích hoạt tổng hợp estrogen thông qua aromatase P450 và STAR (steroidogenic acute regulatory protein). Estrogen là điều kiện quan trọng cho duy trì và phát triển các tổ chức nội mạc lạc vị.
+Đáp ứng miễn dịch bẩm sinh được kích hoạt dẫn đến tiến trình viêm. Acid arachidonic rồi COX-2 và cuối cùng là các prostaglandin gây ra biểu hiện viêm tại vị trí xâm nhập. Prostaglandin PGE₂ của tiến trình viêm sẽ gián tiếp kích hoạt tổng hợp estrogen thông qua aromatase P450 và STAR (steroidogenic acute regulatory protein). Estrogen là điều kiện quan trọng cho duy trì và phát triển các tổ chức nội mạc lạc vị.
 
 ![Thuyết cấy ghép, quá trình viêm và cường estrogen](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/thuyet-cay-ghep-qua-trinh-viem-va-cuong-estrogen.png)
 
@@ -65,7 +65,7 @@ Chỉ chỉ định phẫu thuật vì lý do khối u đơn thuần khi không 
 
 Đau không phải là chỉ định phẫu thuật của nang lạc tuyến nội mạc tử cung. Đau là hậu quả của các lạc tuyến nội mạc tử cung khác là lạc tuyến nội mạc tử cung ở phúc mạc, lạc tuyến nội mạc tử cung thâm nhiễm sâu hay bệnh tuyến cơ tử cung.
 
-Điều trị nội khoa hàng thứ nhất là NSAIDs nói chung, và các chất ức chế COX-2 nói riêng do cơ chế bệnh sinh chủ yếu của đau là tiến trình viêm thông qua COX-2 và prostaglandin PGE2 nên NSAIDs thông thường, ức chế COX-2 là các điều trị ưu tiên, được xem như lựa chọn đầu tay. Việc dùng NSAIDs không ảnh hưởng đến các điều trị hiếm muộn, nếu như đau có kèm theo vấn đề hiếm muộn.
+Điều trị nội khoa hàng thứ nhất là NSAIDs nói chung, và các chất ức chế COX-2 nói riêng do cơ chế bệnh sinh chủ yếu của đau là tiến trình viêm thông qua COX-2 và prostaglandin PGE₂ nên NSAIDs thông thường, ức chế COX-2 là các điều trị ưu tiên, được xem như lựa chọn đầu tay. Việc dùng NSAIDs không ảnh hưởng đến các điều trị hiếm muộn, nếu như đau có kèm theo vấn đề hiếm muộn.
 
 Điều trị nội khoa hàng thứ hai là COCs và progestogen sau thất bại của NSAIDs trong giảm đau. Trong các progestogen, IUS-LNG có ưu thế giảm đau hơn các điều trị progestogen khác. Trái với NSAIDs, việc dùng COCs và progestogen đối lập hoàn
 toàn với các điều trị hiếm muộn. Có nhiều phương thức dùng progestogen cho đau, nhưng IUS-LNG (Mirena®) là progestogen có hiệu quả cao trong giảm đau của nang lạc tuyến nội mạc tử cung. IUS-LNG cũng ít tác dụng phụ hơn so với các progestogen khác. COCs có thể được dùng theo cách dùng tiêu chuẩn. Việc dùng COCs liên tục không khoảng nghỉ trong thời gian dài liên tục (nhằm tránh có kinh, để tăng hiệu quả) không mang lại khác biệt trong hiệu quả điều trị. Danazol cũng có hiệu quả tương tự như các thuốc hàng thứ nhì, tuy nhiên, danazol gây nam hóa, và gây trầm giọng không hồi phục. Danazol không được khuyến cáo cho sử dụng thường quy để điều trị lạc tuyến nội mạc tử cung.
