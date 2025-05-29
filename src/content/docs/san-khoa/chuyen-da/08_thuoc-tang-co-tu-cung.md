@@ -10,13 +10,13 @@ Có nhiều yếu tố ảnh hưởng đến cơ co trong chuyển dạ:
 - Khởi phát chuyển dạ ở người con rạ dễ thành công hơn con so.
 - Sự chín mùi cổ tử cung.
 
-|                   | 0 điểm       | 1 điểm     | 2 điểm                        | 3 điểm         |
-| ----------------- | ------------ | ---------- | ----------------------------- | -------------- |
-| Độ mở cổ tử cung  | đóng         | 1-2cm      | 3-4cm                         | ≥ 5cm          |
-| Độ xóa cổ tử cung | 0-30%        | 40-50%     | 60-70%                        | ≥ 80%          |
-| Mật độ cổ tử cung | chắc         | trung bình | mềm                           |                |
-| Hướng cổ tử cung  | sau          | trung gian | trước                         |                |
-| Độ lọt ngôi thai  | di động (-3) | chúc (-2)  | ghim chặt hoặc lọt cao (-1/0) | đã lọt (+1,+2) |
+|                       | 0 điểm       | 1 điểm     | 2 điểm                        | 3 điểm         |
+| --------------------- | ------------ | ---------- | ----------------------------- | -------------- |
+| **Độ mở cổ tử cung**  | đóng         | 1-2cm      | 3-4cm                         | ≥ 5cm          |
+| **Độ xóa cổ tử cung** | 0-30%        | 40-50%     | 60-70%                        | ≥ 80%          |
+| **Mật độ cổ tử cung** | chắc         | trung bình | mềm                           |                |
+| **Hướng cổ tử cung**  | sau          | trung gian | trước                         |                |
+| **Độ lọt ngôi thai**  | di động (-3) | chúc (-2)  | ghim chặt hoặc lọt cao (-1/0) | đã lọt (+1,+2) |
 
 _Bảng điểm Bishop._
 
@@ -61,14 +61,14 @@ Ngôi mông. Trên thực tế nhiều bác sĩ sản khoa vẫn sử dụng thu
 
 ## Thuốc tăng co
 
-|                                                                   | Dạng trình bày                                                                     | Khởi phát chuyển dạ, tăng co | Dự phòng băng huyết<br>Điều trị băng huyết | Tác dụng         |
-| ----------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------ | ---------------- |
-| Oxytocin                                                          | Dạng ống tiêm 5IU (tiêm bắp hoặc tĩnh mạch)                                        | x                            | x                                          | Tác dụng ngắn    |
-| Chất tương đồng oxytocin (Carbetocin: Duratocin®)                |                                                                                    |                              | x                                          | Tác dụng kéo dài |
-| Ergot alkaloids (Ergonovine hoặc Methylergonovine)                | Dạng ống 0.2mg tiêm bắp                                                            |                              | x                                          | Tác dụng kéo dài |
-| Syntometrine (5IU oxytocin + 0.5mg ergometrine maleate)           | Dạng ống 1mL (tiêm bắp hay tĩnh mạch)                                              |                              | x                                          | Tác dụng kéo dài |
-| Prostaglandin F2α (Carboprost, Prostodin, Sulprostone, Nalador®) | Lọ 1mL 125mcg và 250mcg (tiêm bắp)<br>Lọ bột pha tiêm 500mcg (tiêm bắp, tĩnh mạch) |                              | x                                          | Tác dụng kéo dài |
-| Prostaglandin E1 (Misoprostol: Cytotec®, Alsoben®)              | Dạng 200mcg uống, ngậm dưới lưỡi, áp má, đặt âm đạo hay trong trực tràng           | x                            | x                                          | Tác dụng kéo dài |
+|                                                                       | Dạng trình bày                                                                     | Khởi phát chuyển dạ, tăng co | Dự phòng băng huyết<br>Điều trị băng huyết | Tác dụng         |
+| --------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ---------------------------- | ------------------------------------------ | ---------------- |
+| **Oxytocin**                                                          | Dạng ống tiêm 5IU (tiêm bắp hoặc tĩnh mạch)                                        | x                            | x                                          | Tác dụng ngắn    |
+| **Chất tương đồng oxytocin (Carbetocin: Duratocin®)**                |                                                                                    |                              | x                                          | Tác dụng kéo dài |
+| **Ergot alkaloids (Ergonovine hoặc Methylergonovine)**                | Dạng ống 0.2mg tiêm bắp                                                            |                              | x                                          | Tác dụng kéo dài |
+| **Syntometrine (5IU oxytocin + 0.5mg ergometrine maleate)**           | Dạng ống 1mL (tiêm bắp hay tĩnh mạch)                                              |                              | x                                          | Tác dụng kéo dài |
+| **Prostaglandin F2α (Carboprost, Prostodin, Sulprostone, Nalador®)** | Lọ 1mL 125mcg và 250mcg (tiêm bắp)<br>Lọ bột pha tiêm 500mcg (tiêm bắp, tĩnh mạch) |                              | x                                          | Tác dụng kéo dài |
+| **Prostaglandin E1 (Misoprostol: Cytotec®, Alsoben®)**              | Dạng 200mcg uống, ngậm dưới lưỡi, áp má, đặt âm đạo hay trong trực tràng           | x                            | x                                          | Tác dụng kéo dài |
 
 _Thuốc tăng co hồi tử cung._
 

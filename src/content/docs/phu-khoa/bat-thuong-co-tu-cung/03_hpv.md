@@ -68,33 +68,33 @@ _Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ ch
 
 ### Các loại vaccine
 
-| Loại vaccine | Type bảo vệ                       | Phổ bảo vệ                        |
-| ------------ | --------------------------------- | --------------------------------- |
-| 2vHPV        | 16, 18                            | Ung thư cổ tử cung (~66%)         |
-| 4vHPV        | 6, 11, 16, 18                     | Thêm mụn cóc sinh dục (6, 11)     |
-| 9vHPV        | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao (~15%) |
+| Loại vaccine | Type bảo vệ                       | Phổ bảo vệ                                               |
+| ------------ | --------------------------------- | -------------------------------------------------------- |
+| **2vHPV**    | 16, 18                            | Ngừa ung thư cổ tử cung (~66% trường hợp)                |
+| **4vHPV**    | 6, 11, 16, 18                     | Ngừa ung thư cổ tử cung và mụn cóc sinh dục (type 6, 11) |
+| **9vHPV**    | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên ~81–90% |
 
 _Phổ bảo vệ của vaccine 2vHPV, 4vHPV và 9vHPV_
 
-| Thông số                              | Vaccine HPV từ giá  | Vaccine HPV nhị giá    |
-| ------------------------------------- | ------------------- | ---------------------- |
-| Thời gian theo dõi                    | 36 tháng (nâng cao) | 15 tháng (tạm thời)    |
-| Type bảo vệ                           | 6, 11, 16, 18       | 16, 18                 |
-| Hiệu quả trên CIN 2\* do 16 hay 18    | Đã được chứng minh  | Đã được chứng minh     |
-| Hiệu quả trên CIN 2\* do 16           | Đã được chứng minh  | Đã được chứng minh     |
-| Hiệu quả trên CIN 2\* do 18           | Đã được chứng minh  | Chưa chứng minh        |
-| Hiệu quả trên CIN 2 do 16 hay 18      | Đã được chứng minh  | Đã được chứng minh     |
-| Hiệu quả trên CIN 3 do 16 hay 18      | Đã được chứng minh  | Chưa chứng minh        |
-| Hiệu quả điều trị                     | Không               | Không                  |
-| Hiệu quả trên tân sinh biểu mô âm hộ  | Đã được chứng minh  | Chưa được báo cáo      |
-| Hiệu quả trên tân sinh biểu mô âm đạo | Đã được chứng minh  | Chưa được báo cáo      |
-| Hiệu quả trên mụn cóc sinh dục        | Đã được chứng minh  | Không phải là mục tiêu |
-| An toàn sau 6 năm theo dõi            | An toàn             | An toàn                |
-| Tính chấp nhận (dung nạp)             | Chấp nhận           | Chấp nhận              |
-| Thời gian bảo vệ                      | 5-6 năm             | 5-6 năm                |
-| Tạo miễn dịch ở vị thành niên         | Đã được chứng minh  | Đã được chứng minh     |
-| Tạo miễn dịch ở nữ lớn tuổi hơn       | Đã được chứng minh  | Đã được chứng minh     |
-| Ký ức miễn dịch sau 6 năm             | Đã được chứng minh  | Chưa báo cáo           |
+| Thông số                                  | Vaccine HPV tứ giá  | Vaccine HPV nhị giá    |
+| ----------------------------------------- | ------------------- | ---------------------- |
+| **Thời gian theo dõi**                    | 36 tháng (nâng cao) | 15 tháng (tạm thời)    |
+| **Type bảo vệ**                           | 6, 11, 16, 18       | 16, 18                 |
+| **Hiệu quả trên CIN 2 do 16 hay 18**      | Đã được chứng minh  | Đã được chứng minh     |
+| **Hiệu quả trên CIN 2 do 16**             | Đã được chứng minh  | Đã được chứng minh     |
+| **Hiệu quả trên CIN 2 do 18**             | Đã được chứng minh  | Chưa chứng minh        |
+| **Hiệu quả trên CIN 2 do 16 hay 18**      | Đã được chứng minh  | Đã được chứng minh     |
+| **Hiệu quả trên CIN 3 do 16 hay 18**      | Đã được chứng minh  | Chưa chứng minh        |
+| **Hiệu quả điều trị**                     | Không               | Không                  |
+| **Hiệu quả trên tân sinh biểu mô âm hộ**  | Đã được chứng minh  | Chưa được báo cáo      |
+| **Hiệu quả trên tân sinh biểu mô âm đạo** | Đã được chứng minh  | Chưa được báo cáo      |
+| **Hiệu quả trên mụn cóc sinh dục**        | Đã được chứng minh  | Không phải là mục tiêu |
+| **An toàn sau 6 năm theo dõi**            | An toàn             | An toàn                |
+| **Tính chấp nhận (dung nạp)**             | Chấp nhận           | Chấp nhận              |
+| **Thời gian bảo vệ**                      | 5–6 năm             | 5–6 năm                |
+| **Tạo miễn dịch ở vị thành niên**         | Đã được chứng minh  | Đã được chứng minh     |
+| **Tạo miễn dịch ở nữ lớn tuổi hơn**       | Đã được chứng minh  | Đã được chứng minh     |
+| **Ký ức miễn dịch sau 6 năm**             | Đã được chứng minh  | Chưa báo cáo           |
 
 _So sánh vaccine HPV nhị giá và tứ giá._
 

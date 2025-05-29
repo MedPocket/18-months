@@ -262,15 +262,15 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 
 ## Tóm tắt
 
-| Chủ đề                       | Nội dung chính                                                              |
-| ---------------------------- | --------------------------------------------------------------------------- |
-| Cơ chế bệnh sinh             | Tổn thương bánh rau, mất cân bằng yếu tố tân tạo – kháng tạo mạch           |
-| Phân loại tăng huyết áp      | Tăng huyết áp mạn, tăng huyết áp thai kỳ, tiền sản giật, sản giật           |
-| Chẩn đoán tiền sản giật      | Huyết áp ≥ 140/90 mmHg, đạm niệu ≥ 300 mg/24 giờ hoặc 1+ trên que nước tiểu |
-| Dấu hiệu nặng tiền sản giật  | Huyết áp ≥ 160/110 mmHg, giảm tiểu cầu, suy gan/thận, triệu chứng thần kinh |
-| Hội chứng HELLP              | Hemolysis, tăng men gan, giảm tiểu cầu                                      |
-| Xử trí tiền sản giật         | Theo dõi, chỉ định sinh khi có dấu hiệu nặng hoặc thai đủ tuổi              |
-| Dự phòng & điều trị sản giật | Magnesium sulfate, kiểm soát huyết áp, bảo vệ mẹ và thai                    |
+| **Chủ đề**                       | **Nội dung chính**                                                          |
+| -------------------------------- | --------------------------------------------------------------------------- |
+| **Cơ chế bệnh sinh**             | Tổn thương bánh rau, mất cân bằng yếu tố tân tạo – kháng tạo mạch           |
+| **Phân loại tăng huyết áp**      | Tăng huyết áp mạn, tăng huyết áp thai kỳ, tiền sản giật, sản giật           |
+| **Chẩn đoán tiền sản giật**      | Huyết áp ≥ 140/90 mmHg, đạm niệu ≥ 300 mg/24 giờ hoặc 1+ trên que nước tiểu |
+| **Dấu hiệu nặng tiền sản giật**  | Huyết áp ≥ 160/110 mmHg, giảm tiểu cầu, suy gan/thận, triệu chứng thần kinh |
+| **Hội chứng HELLP**              | Hemolysis, tăng men gan, giảm tiểu cầu                                      |
+| **Xử trí tiền sản giật**         | Theo dõi, chỉ định sinh khi có dấu hiệu nặng hoặc thai đủ tuổi              |
+| **Dự phòng & điều trị sản giật** | Magnesium sulfate, kiểm soát huyết áp, bảo vệ mẹ và thai                    |
 
 ## Nguồn tham khảo
 

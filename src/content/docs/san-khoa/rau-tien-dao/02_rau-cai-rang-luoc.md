@@ -7,13 +7,13 @@ Rau cài răng lược bao gồm các mức độ bám và xâm lấn sâu của
 
 ## Phân loại
 
-| Mức độ                                 | Tiêu chuẩn lâm sàng                                                                                                                                                                                                 | Tiêu chuẩn mô học                                                                                    |
-| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Độ 1: Adherenta (rau bám chặt)         | - Rau không bong sau sổ thai dù dùng oxytocin và kéo dây rốn.<br>- Bóc rau thủ công gây chảy máu ồ ạt nhưng không thấy mô rau xâm lấn sâu.<br>- Tử cung tại vị trí rau bám không phình căng, ít mạch máu tăng sinh. | - Gai rau bám trực tiếp lên bề mặt cơ tử cung, không có màng rụng ở giữa gai rau và cơ tử cung.      |
-| Độ 2: Increta (xâm lấn cơ tử cung)     | - Khi mở bụng thấy mô rau bám vào cơ, tử cung tại vị trí đó phồng căng, màu xanh/tím.<br>- Tăng sinh mạch máu dày đặc trong cơ tử cung.<br>- Kéo dây rốn gây co bóp tử cung nhưng rau không bong (dimple sign).     | - Gai rau xuyên vào lớp cơ tử cung nhưng không xuyên qua thanh mạc.                                  |
-| Độ 3a: Percreta tới thanh mạc          | - Mô rau xâm lấn xuyên qua cơ và lớp thanh mạc, thấy dưới thanh mạc tử cung phồng căng, mạch máu tăng sinh rõ.<br>- Dễ phân biệt bàng quang và tử cung do chưa xâm lấn sâu vào bàng quang.                          | - Gai rau xuyên qua thanh mạc tử cung nhưng không vượt ra ngoài khoang chậu hoặc xâm lấn bàng quang. |
-| Độ 3b: Percreta xâm lấn bàng quang     | - Tương tự độ 3a nhưng mô rau còn dính chặt vào thành bàng quang, không tách rời được.<br>- Tiểu máu có thể xuất hiện do xâm lấn niêm mạc bàng quang.                                                               | - Gai rau xuyên qua thanh mạc và phần thành bàng quang hoặc niêm mạc bàng quang.                     |
-| Độ 3c: Percreta xâm lấn vùng chậu/khác | - Rau xâm lấn dây chằng rộng, thành âm đạo, thành chậu hoặc các cơ quan khác (gan, ruột…) kèm/không kèm xâm lấn bàng quang.                                                                                         | - Gai rau xuyên qua thanh mạc tử cung và xâm lấn vào các cấu trúc ngoài tử cung.                     |
+| Mức độ                                     | Tiêu chuẩn lâm sàng                                                                                                                                                                                                 | Tiêu chuẩn mô học                                                                                    |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Độ 1: Adherenta (rau bám chặt)**         | - Rau không bong sau sổ thai dù dùng oxytocin và kéo dây rốn.<br>- Bóc rau thủ công gây chảy máu ồ ạt nhưng không thấy mô rau xâm lấn sâu.<br>- Tử cung tại vị trí rau bám không phình căng, ít mạch máu tăng sinh. | - Gai rau bám trực tiếp lên bề mặt cơ tử cung, không có màng rụng ở giữa gai rau và cơ tử cung.      |
+| **Độ 2: Increta (xâm lấn cơ tử cung)**     | - Khi mở bụng thấy mô rau bám vào cơ, tử cung tại vị trí đó phồng căng, màu xanh/tím.<br>- Tăng sinh mạch máu dày đặc trong cơ tử cung.<br>- Kéo dây rốn gây co bóp tử cung nhưng rau không bong (dimple sign).     | - Gai rau xuyên vào lớp cơ tử cung nhưng không xuyên qua thanh mạc.                                  |
+| **Độ 3a: Percreta tới thanh mạc**          | - Mô rau xâm lấn xuyên qua cơ và lớp thanh mạc, thấy dưới thanh mạc tử cung phồng căng, mạch máu tăng sinh rõ.<br>- Dễ phân biệt bàng quang và tử cung do chưa xâm lấn sâu vào bàng quang.                          | - Gai rau xuyên qua thanh mạc tử cung nhưng không vượt ra ngoài khoang chậu hoặc xâm lấn bàng quang. |
+| **Độ 3b: Percreta xâm lấn bàng quang**     | - Tương tự độ 3a nhưng mô rau còn dính chặt vào thành bàng quang, không tách rời được.<br>- Tiểu máu có thể xuất hiện do xâm lấn niêm mạc bàng quang.                                                               | - Gai rau xuyên qua thanh mạc và phần thành bàng quang hoặc niêm mạc bàng quang.                     |
+| **Độ 3c: Percreta xâm lấn vùng chậu/khác** | - Rau xâm lấn dây chằng rộng, thành âm đạo, thành chậu hoặc các cơ quan khác (gan, ruột…) kèm/không kèm xâm lấn bàng quang.                                                                                         | - Gai rau xuyên qua thanh mạc tử cung và xâm lấn vào các cấu trúc ngoài tử cung.                     |
 
 _Phân loại theo FIGO 2019._
 
@@ -48,14 +48,14 @@ _Phân loại theo FIGO 2019._
 
 ### Chẩn đoán phân biệt rau tiền đạo
 
-| Đặc điểm                  | Rau tiền đạo              | Rau bong non                                                                 |
-| ------------------------- | ------------------------- | ---------------------------------------------------------------------------- |
-| Lượng máu mất             | Thay đổi                  | Thay đổi                                                                     |
-| Diễn tiến                 | Thường tự hết sau 1-2 giờ | Thường tiến triển                                                            |
-| Đau bụng                  | Không có                  | Thường có, nặng nề                                                           |
-| Tình trạng thai           | Bình thường               | Tim thai nhanh, sau đó chậm, mất dao động nội tại, nhịp giảm, có thể tử vong |
-| Rối loạn đông máu         | HIẾM                      | Có thể có, nếu xuất hiện DIC thì tiên lượng nặng nề                          |
-| Bệnh cảnh/ Yếu tố nguy cơ |                           | Chấn thương bụng, tăng huyết áp thai kỳ-tiền sản giật, đa thai, đa ối        |
+| **Đặc điểm**                  | Rau tiền đạo              | Rau bong non                                                                 |
+| ----------------------------- | ------------------------- | ---------------------------------------------------------------------------- |
+| **Lượng máu mất**             | Thay đổi                  | Thay đổi                                                                     |
+| **Diễn tiến**                 | Thường tự hết sau 1-2 giờ | Thường tiến triển                                                            |
+| **Đau bụng**                  | Không có                  | Thường có, nặng nề                                                           |
+| **Tình trạng thai**           | Bình thường               | Tim thai nhanh, sau đó chậm, mất dao động nội tại, nhịp giảm, có thể tử vong |
+| **Rối loạn đông máu**         | HIẾM                      | Có thể có, nếu xuất hiện DIC thì tiên lượng nặng nề                          |
+| **Bệnh cảnh/ Yếu tố nguy cơ** |                           | Chấn thương bụng, tăng huyết áp thai kỳ-tiền sản giật, đa thai, đa ối        |
 
 ## Xử trí
 

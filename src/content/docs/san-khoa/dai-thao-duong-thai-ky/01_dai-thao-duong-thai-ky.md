@@ -89,11 +89,11 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 <details>
 <summary>Kết quả sàng lọc 3 tháng đầu</summary>
 
-| Kết quả      | Tiêu chí                                                                               | Xử trí                      |
-| ------------ | -------------------------------------------------------------------------------------- | --------------------------- |
-| Bình thường  | Glucose đói 70–90 mg/dL (3.9–5.0 mmol/L) và Glucose bất kỳ ≤ 199 mg/dL (≤ 11.0 mmol/L) | Sàng lọc lại 24–28 tuần     |
-| Nghi ngờ GDM | Glucose đói 91–125 mg/dL (5.1–6.9 mmol/L) và/hoặc HbA1c 5.7–6.4%                       | Sàng lọc hoặc OGTT ngay     |
-| ĐTĐ rõ (DIP) | Glucose đói ≥ 126 mg/dL hoặc bất kỳ ≥ 200 mg/dL + triệu chứng                          | Chuyển chuyên khoa Nội tiết |
+| Kết quả          | Tiêu chí                                                                               | Xử trí                      |
+| ---------------- | -------------------------------------------------------------------------------------- | --------------------------- |
+| **Bình thường**  | Glucose đói 70–90 mg/dL (3.9–5.0 mmol/L) và Glucose bất kỳ ≤ 199 mg/dL (≤ 11.0 mmol/L) | Sàng lọc lại 24–28 tuần     |
+| **Nghi ngờ GDM** | Glucose đói 91–125 mg/dL (5.1–6.9 mmol/L) và/hoặc HbA1c 5.7–6.4%                       | Sàng lọc hoặc OGTT ngay     |
+| **ĐTĐ rõ (DIP)** | Glucose đói ≥ 126 mg/dL hoặc bất kỳ ≥ 200 mg/dL + triệu chứng                          | Chuyển chuyên khoa Nội tiết |
 
 </details>
 
@@ -112,11 +112,12 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 
 - **Tiêu chuẩn chẩn đoán GDM (IADPSG/WHO 2013)**
   :::note[Tiêu chuẩn chẩn đoán GDM]
+
   | Thời điểm | Glucose (mg/dL) | Glucose (mmol/L) |
   | --------- | --------------- | ---------------- |
-  | Đói | ≥ 92 | ≥ 5.1 |
-  | 1h | ≥ 180 | ≥ 10.0 |
-  | 2h | ≥ 153 | ≥ 8.5 |
+  | **Đói**   | ≥ 92            | ≥ 5.1            |
+  | **1h**    | ≥ 180           | ≥ 10.0           |
+  | **2h**    | ≥ 153           | ≥ 8.5            |
 
   **Chẩn đoán GDM** khi có ≥ 1 tiêu chí bất thường.
   :::
@@ -167,28 +168,30 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 
    - Tăng phù hợp với BMI trước mang thai.
      | BMI trước khi mang thai | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
-     | ------------------------------------------------ | ------------- | ------------------------------------------------------------------------ |
-     | Thiếu năng lượng trường diễn (BMI< 18.5 kg/m²) | 12.5-18 | 0.51 (0.44-0.58) |
-     | Bình thường (BMI 18.5-22.9 kg/m²) | 11.5-16 | 0.42 (0.35-0.50) |
-     | Thừa cân (BMI 23.0-24.9 kg/m²) | 7-11.5 | 0.28 (0.23-0.33) |
-     | Béo phì (BMI > 24.9 kg/m²) | 5-9 | 0.22 (0.17-0.27) |
+     |--------------------------------------------------|---------------|----------------------------------------------------------------------------|
+     | **Thiếu năng lượng trường diễn (BMI < 18.5 kg/m²)** | 12.5–18 | 0.51 (0.44–0.58) |
+     | **Bình thường (BMI 18.5–22.9 kg/m²)** | 11.5–16 | 0.42 (0.35–0.50) |
+     | **Thừa cân (BMI 23.0–24.9 kg/m²)** | 7–11.5 | 0.28 (0.23–0.33) |
+     | **Béo phì (BMI > 24.9 kg/m²)** | 5–9 | 0.22 (0.17–0.27) |
 
      _Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)._
 
 ### Mục tiêu glucose mao mạch
 
 :::note[Glucose huyết tương mao mạch mục tiêu]
-| Thời điểm | Glucose (mg/dL) | Glucose (mmol/L) |
-| ------------ | --------------- | ---------------- |
-| Lúc đói | < 95 | < 5.3 |
-| Sau ăn 1h | < 140 | < 7.8 |
-| Sau ăn 2h | < 120 | < 6.7 |
+
+| Thời điểm     | Glucose (mg/dL) | Glucose (mmol/L) |
+| ------------- | --------------- | ---------------- |
+| **Lúc đói**   | < 95            | < 5.3            |
+| **Sau ăn 1h** | < 140           | < 7.8            |
+| **Sau ăn 2h** | < 120           | < 6.7            |
 
 :::caution[Lưu ý]
 
 - HbA1c < 6% (kiểm tra 1 lần/tháng), không đánh giá tốt GDM do thời gian bán hủy hồng cầu.
 - Đo glucose sau ăn 2 giờ tính từ miếng đầu tiên, không ăn thêm.
-  :::
+
+:::
 
 ## Quản lý trong thai kỳ
 
