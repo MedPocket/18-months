@@ -1,15 +1,15 @@
 ---
 title: Sa các tạng chậu
-desàn chậuription: Sa các tạng chậu.
+description: Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là tình trạng tụt xuống của tử cung, bàng quang, trực tràng hoặc thành âm đạo ra khỏi vị trí giải phẫu bình thường do tổn thương và suy yếu hệ cân – cơ – dây chằng nâng đỡ sàn chậu.
 ---
 
-Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là sự tụt xuống của tử cung, bàng quang, trực tràng, thành trước, thành sau âm đạo… ra khỏi vị trí giải phẫu bình thường, sự tổn thương và suy yếu các cấu trúc cân cơ và dây chằng nâng đỡ sàn chậu.
+Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là sự tụt xuống của tử cung, bàng quang, trực tràng, thành trước, thành sau âm đạo… ra khỏi vị trí giải phẫu bình thường, do tổn thương và suy yếu các cấu trúc cân – cơ – dây chằng nâng đỡ sàn chậu.
 
-Hệ thống nâng dỡ các cơ quan tiểu khung:
+**Hệ thống nâng đỡ các cơ quan tiểu khung:**
 
-- Hệ thống nâng đỡ: Cơ nâng hậu môn và cơ nâng của sàn hội âm.
-- Hệ thống treo: Dây chằng mu niệu đạo, mạc mu cổ tử cung, dây chằng tử cung cùng, dây chằng ngang tử cung, cân Halban, cân trực tràng âm đạo.
-- Hệ thống định hướng: Dây chằng tròn, dây chằng rộng.
+- **Hệ thống nâng đỡ:** Cơ nâng hậu môn và cơ nâng sàn hội âm.  
+- **Hệ thống treo:** Dây chằng mu-niệu đạo, mạc mu-cổ tử cung, dây chằng tử cung-cùng, dây chằng ngang tử cung, cân Halban, cân trực tràng–âm đạo.  
+- **Hệ thống định hướng:** Dây chằng tròn, dây chằng rộng.  
 
 ## Phân loại và phân độ
 
@@ -17,9 +17,9 @@ Hệ thống nâng dỡ các cơ quan tiểu khung:
 
 | Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại                                                              | Xét nghiệm cần thiết     |
 | ------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------ |
-| Thành trước (ngăn trước)             | Sa bàng quang: trung tâm, bên, kết hợp<br>Sa niệu đạo                                  | Niệu động học            |
-| Vòm âm đạo (ngăn giữa)               | Túi sa ruột non: trước, sau <br>Sa tử cung<br>Sa mỏm cắt                               | MRI động ± Niệu động học |
-| Thành sau (ngăn sau)                 | Túi trực tràng: cao, giữa, thấp<br>Sa trực tràng<br>Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
+| **Thành trước (ngăn trước)**         | Sa bàng quang: trung tâm, bên, kết hợp<br>Sa niệu đạo                                  | Niệu động học            |
+| **Vòm âm đạo (ngăn giữa)**           | Túi sa ruột non: trước, sau<br>Sa tử cung<br>Sa mỏm cắt                                 | MRI động ± Niệu động học |
+| **Thành sau (ngăn sau)**             | Túi trực tràng: cao, giữa, thấp<br>Sa trực tràng<br>Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
 
 ### Phân độ
 
@@ -27,27 +27,29 @@ Hệ thống nâng dỡ các cơ quan tiểu khung:
 
 _Phân loại - Phân độ sa tạng chậu._
 
-Quy ước 9 mốc cần đo:
+**Quy ước 9 mốc cần đo:**
 
-- Đơn vị đo cm, người bệnh tư thế sản phụ khoa, đầu cao 45°, rặn trong quá trình đánh giá.
-- Dụng cụ van âm đạo, thước đo, kẹp tim, pozzi.
-- Điểm cố định: Aa, Ap cách niệu quản, mép màng trinh 3cm.
-- Điểm thay đổi: Ba, Bp là điểm phồng xa nhất của đoạn âm đạo từ Aa, Ap đến túi cùng trước và sau khi BN rặn ± hỗ trợ kéo cổ tử cung bằng pozzi hoặc kẹp tim.
-- Cùng đồ: C, D được tính nếu còn tử cung.
-- Gh: khe niệu dục.
-- Pb: thể sàn chậu (nút sàn chậu).
-- Tvl: chiều dài âm đạo.
-- Trên/dưới mép màng trinh đánh dấu -/+ trước số đo.
+- Đơn vị đo cm, người bệnh tư thế sản phụ khoa, đầu cao 45°, rặn trong quá trình đánh giá.  
+- Dụng cụ: van âm đạo, thước đo, kẹp tim, pozzi.  
+- **Điểm cố định:**  
+  - Aa, Ap: cách mép âm đạo (niệu quản) 3 cm.  
+  - C, D (cùng đồ) nếu còn tử cung.  
+  - Gh: khe niệu dục.  
+  - Pb: thể sàn chậu.  
+  - Tvl: chiều dài âm đạo.  
+- **Điểm thay đổi:**  
+  - Ba, Bp: điểm phồng xa nhất của đoạn âm đạo (khi rặn hoặc kéo cổ tử cung).  
+- Trên/dưới mép màng trinh: đánh dấu +/– trước giá trị.
 
-Phân độ:
+**Phân độ POP-Q:**
 
-- Độ 0: không sa tạng chậu.<br>
-  Aa, Ba, Ap, Bp: 3cm nằm trên màng trinh.<br>
-  Điểm C hay D: tvl -2cm <C, D ≤tvl.
-- Độ I: B 1cm trên màng trinh.
-- Độ II: B trong khoảng ± 1cm trên dưới màng trinh.
-- Độ III: B > 1cm dưới màng trinh đến (tvl-2)cm.
-- Độ IV: sa toàn bộ, B ≥(tvl-2)cm.
+- **Độ 0:** không sa tạng chậu.  
+  - Aa, Ba, Ap, Bp: đều ở +3 cm trên màng trinh.  
+  - C, D: (tvl–2) cm ≤ C, D ≤ tvl.  
+- **Độ I:** bất kỳ điểm Ba hoặc Bp ở trên màng trinh >1 cm.  
+- **Độ II:** Ba hoặc Bp nằm trong khoảng ±1 cm quanh màng trinh.  
+- **Độ III:** Ba hoặc Bp sa >1 cm dưới màng trinh nhưng <(tvl–2) cm.  
+- **Độ IV:** sa toàn bộ, Ba hoặc Bp ≥   (tvl–2) cm.
 
 ![Sơ đồ chẩn đoán sa tạng chậu](../../../assets/phu-khoa/sa-tang-chau/so-do-chan-doan-sa-tang-chau.jpg)
 
@@ -57,53 +59,38 @@ _Sơ đồ chẩn đoán sa tạng chậu._
 
 ### Xét nghiệm thường quy
 
-Phát hiện và điều trị các yếu tố nguy cơ có thể ảnh hưởng kết quả phẫu thuật (đang có viêm âm đạo, nhiễm trùng tiểu, tiểu đường, thiếu máu…).
-
-Loại trừ bệnh lý phụ khoa (rong cường kinh, rong huyết), bệnh lý cổ tử cung, tử cung, phần phụ để quyết định có cắt tử cung không.
-
-Siêu âm bụng tổng quát khi BN có chỉ định mổ hoặc nghi ngờ thận ứ nước do khối sa chèn ép gây bế tắc đường ra đường tiểu dưới.
+- Đánh giá và điều trị yếu tố nguy cơ: viêm âm đạo, nhiễm trùng tiểu, tiểu đường, thiếu máu…  
+- Loại trừ bệnh lý phụ khoa kèm (rong huyết, u xơ tử cung, u nang buồng trứng…).  
+- Siêu âm bụng tổng quát khi cần phẫu thuật hoặc nghi bế tắc đường tiểu do khối sa.
 
 ### Bilan niệu động học
 
-Thường quy với BN có bệnh lý các tạng chậu thuộc ngăn trước:
+- Chỉ định ở BN có sa thành trước (sa bàng quang, tiểu không kiểm soát khi gắng sức).  
+- Hướng dẫn điều trị và đánh giá trước – sau phẫu thuật.
 
-- Tiểu không kiểm soát khi gắng sức, sa bàng quang.
-- Hướng dẫn chỉ định điều trị đối với sa bàng quang và niệu đạo.
-- Đối chiếu kết quả điều trị trước - sau mổ đối với sa thành trước âm đạo.
+### Chụp MRI động học (Defecography-MRI)
 
-Ở BN có bệnh lý các tạng chậu thuộc ngăn giữa và dưới, cần làm niệu động học khi BN có triệu chứng rối loạn chức năng đường tiểu dưới hoặc khi nghi ngờ khối sa chèn ép lên bàng quang và cổ bàng quang.
-
-### Chụp cộng hưởng từ động học sàn chậu, tống phân (Defecography-MRI)
-
-Khảo sát toàn bộ cấu trúc sàn chậu cùng các tạng chậu kèm động học tống phân:
-
-- Mặc dù kết quả chụp trên MRI động là tiêu chuẩn vàng và là bằng chứng khách quan về phân loại và phân độ các tạng chậu bị sa nhưng cần cân nhắc chỉ định chụp do giá thành cao.
-- MRI động cần thiết trong trường hợp BN bị rối loạn chức năng đường tiêu hóa dưới điều trị nội khoa thất bại hoặc bị nặng, kéo dài như: tiêu gấp, tiêu không kiểm soát, táo bón hoặc khi BN bị sa các tạng thuộc tầng giữa và dưới từ độ 3 mà chúng ta không thể đánh giá hết được các tạng thuộc 2 tầng này bằng khám lâm sàng.
+- Tiêu chuẩn vàng để đánh giá cấu trúc và chức năng sàn chậu.  
+- Chỉ định khi rối loạn tiêu hóa dưới nặng, sa tầng giữa/hạ độ III.
 
 ### Siêu âm 3D ngả trực tràng
 
-Đánh giá cơ thắt trong và ngoài hậu môn: khi BN có tổn thương nút sàn chậu, nghi ngờ tổn thương cơ thắt hậu môn, BN có triệu chứng rối loạn chức năng đường tiêu hóa dưới thất bại điều trị.
+- Đánh giá tổn thương cơ thắt hậu môn, nút sàn chậu.
 
-### Đo áp lực ống hậu môn, cơ thắt hậu môn
+### Đo áp lực ống hậu môn và điện cơ tầng sinh môn
 
-Chẩn đoán rối loạn chức năng đường tiêu hóa dưới như: tiêu gấp, tiêu không kiểm soát, táo bón. Đánh giá hiệu quả tập vật lý phục hồi sàn chậu.
-
-### Đo điện cơ tầng sinh môn
-
-Có giá trị trong đánh giá cải thiện chức năng các nhóm cơ sàn chậu. Đánh giá hiệu quả tập vật lý phục hồi sàn chậu.
+- Đánh giá chức năng cơ sàn chậu, hướng dẫn tập phục hồi.
 
 ## Chẩn đoán
 
-Dựa vào lâm sàng theo phân loại và phân độ POP-Q và các xét nghiệm cận lâm sàng, từ đó đưa ra chẩn đoán:
+Dựa vào lâm sàng (POP-Q) và kết quả cận lâm sàng, ghi rõ:
 
-- Sa tạng nào.
-- Số lượng tạng bị sa.
-- Độ sa của tạng đó.
-- Có rối loạn tiết niệu kèm theo không (Tiểu không kiểm soát khi gắng sức, tiểu tồn lưu, bí tiểu, tiểu không kiểm soát hỗn hợp…).
-- Có rối loạn đi cầu kèm theo không.
-- Vẽ mô tả phân loại và phân độ sa tạng vùng chậu.
+- Tạng sa, độ sa.  
+- Rối loạn tiết niệu hoặc đi cầu kèm theo.  
+- Tổn thương kèm: rách cơ thắt, táo bón…
 
-Ví dụ chẩn đoán: sa tử cung độ 3, sa bàng quang độ 2, sa trực tràng độ 2, tiểu không kiểm soát khi gắng sức, rách cơ thắt hậu môn diện rộng, táo bón.
+**Ví dụ:**  
+Sa tử cung độ III, sa bàng quang độ II, sa trực tràng độ II, tiểu không kiểm soát khi gắng sức, rách cơ thắt hậu môn diện rộng, táo bón.
 
 ## Điều trị
 
@@ -111,134 +98,73 @@ Ví dụ chẩn đoán: sa tử cung độ 3, sa bàng quang độ 2, sa trực 
 
 #### Chỉ định
 
-Trong các trường hợp sa các tạng độ 1-2, chưa có biến chứng hay chưa ảnh hưởng chất lượng sống BN.
+Sa độ I–II, triệu chứng nhẹ, chưa ảnh hưởng chất lượng sống.
 
-#### Điều trị
+#### Phương pháp
 
-Thay đổi thói quen, sinh hoạt phù hợp.
-
-Sử dụng nội tiết estrogen tại chỗ (dạng viên đặt âm đạo hay cream bôi thoa).
-
-Tập vật lý trị liệu phục hồi sàn chậu: tự tập, tập với máy tập sàn chậu, kích thích điện cơ sàn chậu.
-
-Vòng nâng bàng quang, tử cung, trực tràng đường âm đạo và điều trị tiểu không kiểm soát khi gắng sức.
+- Thay đổi thói quen (giảm cân, tránh gắng sức).  
+- Estrogen tại chỗ (viên đặt hoặc kem âm đạo).  
+- Vật lý trị liệu sàn chậu (tập Kegel, tập với máy, kích thích điện).  
+- Pessary âm đạo hỗ trợ nâng tạng.  
 
 ### Ngoại khoa
 
 #### Nguyên tắc
 
-Phục hồi lại các cấu trúc và chức năng sinh lý cơ quan bị sa của sàn chậu.
+- Phục hồi cấu trúc cân – cơ – dây chằng.  
+- Bảo tồn cổ tử cung nếu có thể, chỉ cắt tử cung khi có bệnh lý thực thể.
 
-Chỉ định cắt tử cung khi có bệnh lý tại cổ tử cung, tử cung. Nếu như cổ tử cung bình thường và BN có điều kiện theo dõi cổ tử cung định kỳ thì nên cắt tử cung bán phần, giữ lại cổ tử cung để tránh phá vỡ cấu trúc nâng đỡ quan trọng của sàn chậu (vai trò của vòng xơ quanh cổ tử cung) làm phương tiện cố định các hệ thống nâng đỡ được phục hồi trong phẫu thuật như mảnh ghép, may phục hồi bằng chỉ không tan.
+#### Chỉ định
 
-#### Lựa chọn phương pháp phẫu thuật phụ thuộc
+- Sa độ ≥  II có triệu chứng, thất bại điều trị bảo tồn 3–6 tháng.  
+- BN yêu cầu phẫu thuật sau tư vấn đầy đủ.
 
-Cơ quan bị sa, mức độ sa, có thay đổi chức năng sinh lý sàn chậu.
+#### Lựa chọn phương pháp
 
-Tuổi.
+- Dựa vào tạng sa, độ sa, tuổi, mong muốn sinh đẻ, sức khỏe, điều kiện thiết bị, kinh nghiệm phẫu thuật viên.
 
-Tình trạng kinh tế, lối sống.
+##### Sa thành trước
 
-Tình trạng sức khỏe người bệnh.
+- **Bàng quang:**  
+  - Repair paravaginal defect (mảnh ghép polypropylene hoặc may cân ngang).  
+- **Niệu đạo:**  
+  - Sling (TOT/TVT/mini-sling), phẫu thuật Burch.
 
-Điều kiện trang thiết bị hiện có.
+##### Sa thành sau
 
-Khả năng và sở trường của phẫu thuật viên.
+- **Trực tràng:**  
+  - May cân trực tràng–âm đạo, mảnh ghép polypropylene.  
+- Khâu phục hồi cơ nâng hậu môn, tái tạo nút sàn chậu.
 
-Nhu cầu của người bệnh sau khi được tư vấn điều trị cặn kẽ.
+##### Sa tử cung và mỏm cắt
 
-### Chỉ định phẫu thuật
+- Treo tử cung vào mỏm nhô hoặc dây chằng cùng–gai (khâu không tan hoặc mảnh ghép).  
+- May ngắn dây chằng tử cung–cùng.  
+- Cắt tử cung bán phần hoặc toàn phần kèm cố định mỏm cắt.
 
-Sa tạng chậu từ độ 2 theo POP-Q, có triệu chứng hay biến hứng, ảnh hưởng chất lượng cuộc sống BN, thất bại điều trị bảo tồn 3-6 tháng (pessary) hoặc BN yêu cầu được phẫu thuật sau khi đã được đánh giá tư vấn đầy đủ.
+#### Mảnh ghép tổng hợp
 
-### Các phương pháp phẫu thuật
+- **Chỉ định:** sa độ III–IV, sa tái phát, chống chỉ định phẫu thuật kéo dài.  
+- **Chống chỉ định tuyệt đối:** rối loạn đông máu, xơ gan, bệnh lý mạch máu, đái tháo đường không kiểm soát, nhiễm khuẩn, tiền ung thư chưa điều trị, xạ trị vùng chậu, nghiện thuốc lá nặng.  
+- **Chống chỉ định tương đối:** niêm mạc âm đạo mỏng, vết thương niệu đạo/bàng quang/trực tràng, kèm cắt tử cung, không đủ mô che phủ.
 
-#### Sa thành trước
+#### Đường vào phẫu thuật
 
-Sa bàng quang: Nâng bàng quang bằng mảnh ghép tổng hợp polypropylene, may phục hồi cân ngang bàng quang-cổ tử cung qua đường âm đạo/nội soi ổ bụng/mổ hở (repair of paravaginal defect) khi sa bàng quang bên <độ 2, may gấp nếp cân bàng quang - cổ tử cung khi sa bàng quang thể trung tâm <độ 2.
-
-Niệu đạo: Đặt sling dưới niệu đạo (đặt TOT, mini sling hoặc TVT trong trường hợp tiểu không kiểm soát khi gắng sức nặng nghi do suy cơ thắt niệu đạo với nghiệm pháp Bonney (-), thất bại với TOT trước đó). phẫu thuật Burch nội soi/mổ bụng hở trường hợp không thực hiện được hoặc thất bại ≥ 2 lần phẫu thuật đặt sling dưới niệu đạo.
-
-#### Sa thành sau
-
-Sa trực tràng: Nâng trực tràng bằng mảnh ghép tổng hợp polypropylene mesh (cố định vào dây chằng cùng gai hoặc cơ nâng hậu môn và nút sàn chậu), may phục hồi cân trực tràng âm đạo bằng chỉ tan hay không tan.
-
-Khâu phục hồi cơ nâng hậu môn.
-
-Tái tạo, tạo hình nút sàn chậu ± sử dụng mảnh ghép.
-
-#### Sa tử cung, mỏm cắt
-
-Cố định tử cung/mỏm cắt vào mỏm nhô bằng chỉ không tan hoặc mảnh ghép tổng hợp.
-
-Cố định tử cung/mỏm cắt vào dây chằng cùng - gai bằng chỉ không tan hoặc mảnh ghép tổng hợp.
-
-May ngắn dây chằng tử cung cùng 2 bên bằng chỉ không tan (may trong phúc mạc).
-
-Cố định mỏm cắt vào dây chằng tử cung - cùng.
-
-Cắt tử cung và cố định mỏm cắt.
-
-### Chỉ định và chống chỉ định đặt mảnh ghép tổng hợp
-
-Phẫu thuật đặt mảnh ghép tổng hợp là phẫu thuật ưu thế trong việc đạt hiệu quả giải phẫu ngay sau mổ và giữ cho hiệu quả phẫu thuật kéo dài hơn, giảm tỷ lệ tái phát so với phẫu thuật cắt tử cung hoặc may gấp nếp âm đạo sửa hội âm kinh điển:
-
-- Mảnh ghép được chỉ định trong trường hợp: Sa tạng chậu nặng từ độ 3, sa tái phát, sa mỏm cắt, tình trạng BN không cho phép phẫu thuật kéo dài hoặc gây mê toàn thân.
-- Chống chỉ định tuyệt đối đặt mảnh ghép tổng hợp
-  - Bệnh lý rối loạn đông cầm máu, dùng kháng đông kéo dài, xơ gan, suy gan.
-  - Hiện tại hoặc tiền sử huyết khối/thuyên tắc tĩnh mạch, động mạch.
-  - Đái tháo đường chưa điều trị ổn, không kiểm soát tốt đường huyết.
-  - Tình trạng suy giảm miễn dịch, dùng corticosteroids kéo dài.
-  - Nghiện thuốc lá nặng.
-  - Tình trạng teo, khiếm khuyết niêm mạc âm đạo, hệ thống cân cơ dây chằng quá nhiều.
-  - Tổn thương tiền ung thư âm hộ, âm đạo, cổ tử cung chưa điều trị dứt.
-  - Hoặc tiền căn tổn thương tiền ung thư âm hộ, âm đạo, cổ tử cung đã điều trị dứt kèm nhiễm HPV type nguy cơ ung thư cao kéo dài đến nay đã được xác định.
-  - Ung thư cơ quan sinh dục, đường tiêu hóa và tiết niệu dưới.
-  - Hiện tại hoặc tiền sử xạ trị vùng bụng chậu.
-  - Hiện tại viêm nhiễm sinh dục chưa điều trị.
-- Chống chỉ định tương đối đặt mảnh ghép tổng hợp đặt ra do nguy cơ lộ mảnh ghép trong các trường hợp sau:
-  - Cắt tử cung kèm theo lúc mổ.
-  - Vết thương ở niệu đạo, bàng quang, trực tràng trong lúc mổ.
-  - Niêm mạc âm đạo còn quá ít để che phủ mảnh ghép.
-  - Chọn lựa phẫu thuật điều trị sa tạng chậu đường âm đạo hay ngả bụng.
-
-#### Chỉ định phẫu thuật đường âm đạo khi
-
-BN lớn tuổi (> 70 tuổi).
-
-Tình trạng BN không cho phép gây mê kéo dài > 2h.
-
-BN có tiền sử vết mổ cũ trên bụng nhiều lần (≥ 2 lần), hoặc tiền sử nhiễm trùng vết mổ.
-
-BN béo phì (BMI ≥ 30 kg/m²).
-
-Tiền sử thất bại với các phẫu thuật treo tử cung ngả bụng.
-
-#### Chỉ định phẫu thuật ngả bụng khi
-
-BN trẻ ≤ 60 tuổi hoặc BN ≤ 70 tuổi mong muốn phẫu thuật ngả bụng.
-
-Sa tử cung/mỏm cắt độ 3-4, sa lộn toàn bộ thành trước sau âm đạo cần phẫu thuật cố định tử cung/mỏm cắt/sàn chậu vào mỏm nhô.
-
-Thất bại với phẫu thuật điều trị sa tạng chậu đường âm đạo trước đó.
-
-#### Chỉ định phẫu thuật kết hợp ngả bụng và đường âm đạo khi
-
-Kỹ năng phẫu thuật viên không thể thực hiện các phẫu thuật phục hồi sa tạng chậu khó qua ngả bụng như nội soi ổ bụng treo tử cung vào mỏm nhô và đặt mảnh ghép nâng bàng quang - trực tràng, khi đó cần kết hợp đường âm đạo để đặt mảnh ghép nâng bàng quang-trực tràng, tăng hiệu quả điều trị.
-
-Sa tử cung ≥độ 2 kèm sa các tạng chậu khác nhưng tình trạng BN không cho phép phẫu thuật hoặc gây mê kéo dài > 2h.
+- **Ngả âm đạo:** BN cao tuổi (>70), gây mê ngắn, vết mổ nhiều lần, béo phì.  
+- **Ngả bụng/nội soi:** BN trẻ, mong muốn bảo tồn tử cung, sa độ III–IV, thất bại phẫu thuật ngả âm đạo.  
+- **Kết hợp:** khi cần đặt mảnh ghép qua cả hai đường để tăng hiệu quả.
 
 ![Phác đồ chẩn đoán và xử trí sa tạng chậu Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
 
-_Phác đồ chẩn đoán và xử trí sa tạng chậu Bệnh viện Từ Dũ._
+_Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ Dũ._
 
 ![Phẫu thuật ngả bụng Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-bung.jpeg)
 
-_Phẫu thuật ngả bụng Bệnh viện Từ Dũ._
+_Phẫu thuật ngả bụng – Bệnh viện Từ Dũ._
 
 ![Phẫu thuật đường âm đạo Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-am-dao.png)
 
-_Phẫu thuật đường âm đạo Bệnh viện Từ Dũ._
+_Phẫu thuật đường âm đạo – Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
