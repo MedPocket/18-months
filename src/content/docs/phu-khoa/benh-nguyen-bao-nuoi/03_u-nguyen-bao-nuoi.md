@@ -1,3 +1,8 @@
+---
+title: U nguyên bào nuôi
+description: U nguyên bào nuôi.
+---
+
 ## U nguyên bào nuôi
 
 U nguyên bào nuôi xuất hiện sau thai trứng (60%), thai lưu/sảy thai (30%), thai đủ tháng hay thai ngoài tử cung (10%). Thường có triệu chứng xuất huyết âm đạo kéo dài.

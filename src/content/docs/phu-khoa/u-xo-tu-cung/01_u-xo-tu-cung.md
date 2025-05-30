@@ -5,7 +5,7 @@ description: U xơ tử cung.
 
 U xơ cơ tử cung (Leiomyoma), thường được gọi là u xơ tử cung là khối u lành tính không rõ nguyên nhân do sự phát triển quá mức cơ trơn và mô liên kết ở tử cung.
 
-![U xơ tử cung](../../../assets/phu-khoa/u-xo-tu-cung/nhan-xo-tren-benh-pham-cat-tu-cung.png)
+![U xơ tử cung](../../../../assets/phu-khoa/u-xo-tu-cung/nhan-xo-tren-benh-pham-cat-tu-cung.png)
 
 _Các nhân xơ là các khối u có vỏ bọc giả, gồm mô cơ-sợi, mật độ mô chắc, mặt cắt màu trắng ngà, phồng. Với các nhân xơ lớn, có thể quan sát thấy thoái hóa bên trong nhân xơ._
 
@@ -43,9 +43,9 @@ Hoạt động thể chất thường xuyên.
 
 ### Phân loại (FIGO 2011)
 
-![Phân loại u xơ tử cung theo FIGO 2011](../../../assets/phu-khoa/u-xo-tu-cung/phan-loai-u-xo-tu-cung-figo-2011.jpg)
+![Phân loại u xơ tử cung theo FIGO 2011](../../../../assets/phu-khoa/u-xo-tu-cung/phan-loai-u-xo-tu-cung-figo-2011.jpg)
 
-![Vị trí u xơ tử cung theo FIGO 2011](../../../assets/phu-khoa/u-xo-tu-cung/vi-tri-u-xo-tu-cung-figo-2011.png)
+![Vị trí u xơ tử cung theo FIGO 2011](../../../../assets/phu-khoa/u-xo-tu-cung/vi-tri-u-xo-tu-cung-figo-2011.png)
 
 ## Chẩn đoán xác định
 
@@ -87,17 +87,17 @@ Siêu âm đường âm đạo, siêu âm ngả bụng đánh giá tổng quát 
 
 Hình ảnh điển hình của u xơ-cơ tử cung trên siêu âm thang xám là ổ hồi âm kém hoặc không đồng nhất, có giảm âm phía sau, giới hạn rõ, phân biệt rõ với mô chung quanh.
 
-![U xơ tử cung trên siêu âm](../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-tren-sieu-am.png)
+![U xơ tử cung trên siêu âm](../../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-tren-sieu-am.png)
 
 _U xơ-cơ tử cung thể hiện bằng hình ảnh khối phản âm kém, có giới hạn rõ. Độ hồi âm độ không giống với độ hồi âm của tử cung, có bóng giảm âm phía sau._
 
 Trong u xơ-cơ tử cung, chẩn đoán phân biệt khó khăn nhất về mặt hình ảnh học khi sử dụng siêu âm thang xám là với adenomyosis và với leiomyosarcoma. Cấu trúc âm của adenomyosis kém đồng nhất, giới hạn không rõ. Do cấu trúc kém đồng nhất, nên vùng giảm âm phía sau có dạng sọc dưa. Leiomyosarcoma có các tính chất âm học hầu như không thể phân biệt với u xơ-cơ tử cung.
 
-![Adenomyosis trên siêu âm](../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-sieu-am.png)
+![Adenomyosis trên siêu âm](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-sieu-am.png)
 
 _Khối phản âm kém không thuần nhất, giới hạn không rõ, với phản âm kém phía sau hình sọc dưa._
 
-![Leiomyosarcoma trên siêu âm](../../../assets/phu-khoa/u-xo-tu-cung/leiomyosarcoma-tren-sieu-am.png)
+![Leiomyosarcoma trên siêu âm](../../../../assets/phu-khoa/u-xo-tu-cung/leiomyosarcoma-tren-sieu-am.png)
 
 _Khối phản âm kém không thuần nhất, hầu như có tất cả các đặc tính âm học của u xơ-cơ tử cung._
 
@@ -107,13 +107,13 @@ Siêu âm Doppler đánh giá phân bố mạch máu trong u xơ.
 
 U xơ-cơ tử cung được cấp máu bằng mạch máu quanh u.
 
-![U xơ tử cung trên Doppler](../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-tren-doppler.png)
+![U xơ tử cung trên Doppler](../../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-tren-doppler.png)
 
 _Khối phản âm kém khá thuần nhất, mạch máu ít, phân bố ở ngoại vi u._
 
 Ngược lại, trong adenomyosis, hình ảnh mạch máu có thể thấy bên trong lòng khối u. Khảo sát adenomyosis bằng Doppler có giá trị rất cao, tương đương với cộng hưởng từ.
 
-![Adenomyosis trong Doppler](../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-doppler.png)
+![Adenomyosis trong Doppler](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-doppler.png)
 
 _Trong adenomyosis, phân bố mạch máu dồi dào, phân bố khắp khối u._
 
@@ -125,11 +125,11 @@ Siêu âm với bơm nước lòng tử cung (SIS) đặc biệt có giá trị 
 
 Trong các u xơ-cơ dưới niêm mạc, phân loại vị trí có vai trò quan trọng trong quyết định cách can thiệp. U xơ-cơ tử cung dưới niêm mạc loại FIGO 0-1 là chỉ định rất tốt của các can thiệp qua soi buồng tử cung, trong khi đó, can thiệp qua soi buồng tử cung cho các u xơ-cơ tử cung loại FIGO 2 sẽ khó khăn hơn.
 
-![U xơ tử cung FIGO 0 trên SIS](../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-figo-0-qua-sis.png)
+![U xơ tử cung FIGO 0 trên SIS](../../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-figo-0-qua-sis.png)
 
 _U nằm hẳn trong buồng tử cung FIGO 0._
 
-![U xơ tử cung FIGO 1](../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-figo-1.png)
+![U xơ tử cung FIGO 1](../../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-figo-1.png)
 
 _FIGO 1 trên 50% khối u ở trong lòng tử cung. Chỉ định can thiệp qua nội soi buồng tử cung là khả thi._
 
@@ -140,7 +140,7 @@ Khi có cấu trúc trong lòng tử cung trên SIS, cần phân biệt:
 
 Đôi khi các u xơ-cơ dưới niêm mạc có cuống (FIGO 0) có thể bị nhầm với polyp nội mạc tử cung, và ngược lại polyp nội mạc tử cung chân rộng sẽ dễ lầm với u xơ-cơ. Do 2 bệnh lý này có ý nghĩa cũng như cách xử lý khác nhau nên cần phải nhờ vào Doppler để phân định. Trong u xơ-cơ dưới niêm mạc, Doppler cho thấy có hình ảnh tưới máu quanh u. Trong khi đó, do polyp nội mạc xuất phát hoàn toàn từ nội mạc, nên chỉ có mạch máu duy nhất đi vào trung tâm của polyp.
 
-![Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler](../../../assets/phu-khoa/u-xo-tu-cung/phan-biet-polyp-va-u-xo-tu-cung-figo-1-bang-doppler.png)
+![Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler](../../../../assets/phu-khoa/u-xo-tu-cung/phan-biet-polyp-va-u-xo-tu-cung-figo-1-bang-doppler.png)
 
 _1 mạch máu duy nhất đi thẳng từ nội mạc vào trung tâm của polyp._
 
@@ -151,7 +151,7 @@ So với siêu âm grey-scale hay siêu âm Doppler, siêu âm 4D có 2 ưu th�
 1. Khả năng xây dựng hình ảnh 3 chiều động làm cho việc lập bản đồ tổn thương dễ dàng hơn.
 2. Độ phân giải hình ảnh cao, cho phép “nhập khẩu” khái niệm khảo sát vùng kết nối (JZ).
 
-![Ưu thế của siêu âm 4D](../../../assets/phu-khoa/u-xo-tu-cung/uu-the-cua-sieu-am-4d.png)
+![Ưu thế của siêu âm 4D](../../../../assets/phu-khoa/u-xo-tu-cung/uu-the-cua-sieu-am-4d.png)
 
 _Hình trái cho phép nhận diện được JZ (đường viện tối màu quanh nội mạc tử cung). Hình phải cho phép thiết lập bản đồ phân bố của các cấu trúc cần khảo sát._
 
@@ -163,7 +163,7 @@ U xơ-cơ tử cung được cấu tạo chỉ bằng mô cơ-sợi. Adenomyosis
 
 Tính cứng, kém đàn hồi là các đặc tính quan trọng của adenomyosis.
 
-![Adenomyosis trên siêu âm đàn hồi](../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-sieu-am-dan-hoi.png)
+![Adenomyosis trên siêu âm đàn hồi](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-sieu-am-dan-hoi.png)
 
 _Cấu trúc adenomyosis là các cấu trúc cứng, kém đàn hồi (đỏ). Các vùng có độ đàn hồi cao là các vùng cơ tử cung có cấu trúc mô học bình thường._
 
@@ -173,13 +173,13 @@ Trường hợp u xơ không điển hình, không thể chẩn đoán xác đ�
 
 Điểm mạnh nhất của MRI so với siêu âm trong khảo sát các bệnh lý lành tính của thân tử cung là khả năng phân biệt giữa adenomyosis với u xơ-cơ tử cung. MRI phân biệt được 2 bệnh lý này là nhờ vào khảo sát vùng kết nối (JZ) và đặc tính cấu trúc mô học khác biệt giữa adenomyosis với u xơ-cơ tử cung. Cấu trúc của u xơ-cơ tử cung là mô cơ sợi, thuần nhất, trong khi cấu trúc của adenomyosis là mô tuyến nội mạc, vì thế sẽ có hình ảnh các thành phần cấu trúc khác nhau.
 
-![Hình ảnh MRI của adenomyosis và u xơ tử cung](../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-u-xo-tu-cung-tren-mri.png)
+![Hình ảnh MRI của adenomyosis và u xơ tử cung](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-u-xo-tu-cung-tren-mri.png)
 
 _Trong adenomyosis, trên T2W, các ổ xuất huyết nhỏ thể hiện bằng các điểm tăng tín hiệu. Các u xơ-cơ tử cung có biểu hiện trên MRI như các vùng có tín hiệu kém._
 
 JZ dầy là đặc trưng của adenomyosis. Bình thường, độ dầy của JZ không vượt quá 40% độ dầy của thành tử cung. JZ dầy trên 40% là dấu hiệu gợi ý của adenomyosis.
 
-![JZ trong adenomyosis](../../../assets/phu-khoa/u-xo-tu-cung/jz-trong-adenomyosis.png)
+![JZ trong adenomyosis](../../../../assets/phu-khoa/u-xo-tu-cung/jz-trong-adenomyosis.png)
 
 _JZ thể hiện trên T2W là vùng tín hiệu kém nằm giữa nội mạc ử cung chức năng có tín hiệu mạnh và cơ tử cung có tín hiệu yếu._
 
@@ -187,7 +187,7 @@ Nhờ thiết lập được bản đồ tổn thương, MRI còn dùng để l�
 
 Phân định leiomyosarcoma và u xơ-cơ tử cung là rất khó khăn bằng cách phương tiện khảo sát hình ảnh thông thường. Chúng chỉ khác nhau về tế bào. Dị biệt về tính chất tế bào tạo ra các dị biệt về đậm độ tín hiệu trên MRI.
 
-![Leiomyosarcoma trên MRI](../../../assets/phu-khoa/u-xo-tu-cung/leiomyosarcoma-tren-mri.png)
+![Leiomyosarcoma trên MRI](../../../../assets/phu-khoa/u-xo-tu-cung/leiomyosarcoma-tren-mri.png)
 
 _Hình ảnh dị thường của khối u tạo ra do đậm độ tín hiệu rất dị biệt, đến từ sự dị biệt của đậm độ proton của thành phần u._
 
@@ -309,7 +309,7 @@ LNG-IUS giảm 80% lượng máu kinh trong 4 tháng đầu tiên, có thể vo 
 Cơ sở của sử dụng Gonadotropin-Releasing
 Hormone (GnRHa) cho điều trị u xơ-cơ tử cung là việc dùng GnRHa liên tục sẽ gây ra hiện tượng nội hóa các thụ thể của GnRH tại tuyến yên, dẫn đến việc giải mẫn cảm kéo dài của tuyến yên với GnRH. Tuyến yên bị giải mẫn cảm không còn khả năng phóng thích FSH, dẫn đến hệ quả là không còn gây ra được phát triển noãn nang tại buồng trứng và do đó triệt tiêu nguồn estrogen nội sinh.
 
-![Sơ đồ giải thích nội hóa màng kểu GCPR của GnRH](../../../assets/phu-khoa/u-xo-tu-cung/so-do-noi-hoa-thu-the-mang-kieu-gcpr-cua-gnrh.png)
+![Sơ đồ giải thích nội hóa màng kểu GCPR của GnRH](../../../../assets/phu-khoa/u-xo-tu-cung/so-do-noi-hoa-thu-the-mang-kieu-gcpr-cua-gnrh.png)
 
 _Sơ đồ giải thích hiện tượng nội hóa các thụ thể màng kiểu GCPR của GnRH khi chịu tác động kéo dài của GnRH đồng vận. Thụ thể bị nội hóa không còn đáp ứng với hormone GnRH._
 
@@ -375,7 +375,7 @@ UPA cũng có thể gây ra các biến đổi trên nội mạc tử cung làm 
 
 So với GnRHa, liệu pháp với UPA ít tác dụng phụ hơn như đau đầu, căng ngực, đau bụng, dày nội mạc tử cung, bốc hỏa… và mang lại hiệu quả kéo dài hơn.
 
-![So sánh UPA và GnRHa](../../../assets/phu-khoa/u-xo-tu-cung/so-sanh-upa-va-gnrha.png)
+![So sánh UPA và GnRHa](../../../../assets/phu-khoa/u-xo-tu-cung/so-sanh-upa-va-gnrha.png)
 
 :::caution[Lưu ý]
 Thực hiện xét nghiệm chức năng gan:
@@ -486,61 +486,6 @@ Thuyên tắc động mạch tử cung (uterine artery embolization - UAE).
 Tiêu hủy u xơ bằng nhiệt (High-Intensity Focused Ultrasound - HIFU).
 
 Tiêu hủy u xơ bằng sóng cao tần (Radiofrequency Myolysis).
-
-## U xơ tử cung và thai kỳ
-
-### Điều trị đau
-
-Phụ nữ có thai và có u xơ mà có triệu chứng đau cần nhập viện điều trị:
-
-- Ban đầu: Hỗ trợ và giảm đau bằng Acetaminophen.
-- Những thuốc giảm đau bằng Opioid liều chuẩn hoặc giảm đau Non-steroids kéo dài trong 48 giờ có thể dùng nếu như các biện pháp khác không hiệu quả.
-- Giảm đau với Ibuprofen, Indomethacin chỉ nên dùng với thai nhỏ hơn 32 tuần do nguy cơ gây đóng ống động mạch sớm, tăng áp phổi sơ sinh, đa ối và thậm chí rối loạn chức năng tiểu cầu thai nhi.
-- Mổ lấy thai trên thai phụ có u xơ chỉ nên thực hiện khi có chỉ định sản khoa (u xơ tiền đạo) hoặc chỉ định liên quan đến thai (ngôi bất thường, chuyển dạ ngưng tiến triển, suy thai cấp).
-
-### Lựa chọn bóc u xơ trong mổ lấy thai
-
-Không nên phẫu thuật bóc u xơ trong mổ lấy thai thường quy.
-
-Cần đánh giá nguy cơ và lợi ích cũng như cân nhắc kỹ năng và kinh nghiệm của phẫu thuật viên, lượng máu dự trù, số lượng, vị trí và kích thước của u xơ tử cung.
-
-Cân nhắc bóc trong trường hợp:
-
-- U nằm đoạn dưới có khả năng gây bế sản dịch sau mổ dẫn đến viêm nội mạc tử cung.
-- U nằm vị trí rạch cơ tử cung.
-- Bóc u ở vị trí trước đoạn dưới tử cung. U có cuống, dưới thanh mạc (L5-6-7) trong mổ lấy thai không liên quan đến các yếu tố bất lợi phẫu thuật.
-
-Những người đã từng bóc u xơ đoạn dưới tử cung có thể sinh thử đường âm đạo ở những lần thai tiếp, phải theo dõi rất sát.
-
-### U xơ tử cung và hiếm muộn
-
-Quyết định can thiệp tùy theo vị trí, kích thước và qus trình điều trị trước đó:
-
-- U dưới niêm mạc (FIGO L0-1-2) gây biến dạng lòng tử cung làm giảm khả năng có thai:
-  - FIGO L0-1-2 nội soi buồng tử cung bóc u xơ dưới niêm mạc trước khi điều trị hỗ trợ sinh sản.
-  - FIGO L2, nếu kích thước > 3cm, nội soi buồng bóc u xơ.
-  - Cần tư vấn cho bệnh nhân nguy cơ tổn thường tử cung, dính lòng tử cung trước khi phẫu thuật.
-- U xơ trong cơ tử cung (FIGO L3-5) nếu có:
-  - Thất bại chuyển phôi nhiều chu kỳ thụ tinh ống nghiệm mặc dù phôi tốt hay kết cục thai kỳ xấu (sảy thai, sinh non): bóc u xơ (nội soi hay mổ mở).
-  - U xơ có kích thước to, vị trí cản trở quá trình chọc hút thụ tinh ống nghiệm có thể được xem xét bóc u xơ trước khi điều trị. Nếu vị trí không cản trở chọc hút trưng và người bệnh > 35 tuổi, cân nhắc kích thích buồng trứng, tạo phôi, trữ phôi rồi bóc u xơ, chờ 1 năm chuyển phôi.
-
-## Bệnh lý ác tính thân tử cung
-
-### Sarcoma cơ trơn thân tử cung (leiomyosarcomas)
-
-Sarcoma cơ trơn thân tử cung là tình trạng hiếm gặp.
-
-Thử thách nan giải nhất là thực tế về việc không thể phân định rạch ròi và đáng tin cậy u xơ-cơ tử cung với sarcoma cơ trơn thân tử cung bởi bất cứ kỹ thuật hình ảnh nào.
-
-Hơn nữa, cho đến nay, người ta vẫn không thể biết được là liệu sarcoma thân tử cung là bệnh lý phát triển từ u xơ-cơ tử cung hay là bệnh lý độc lập.
-
-Khối u xơ-cơ tử cung đã biết từ trước đột ngột phát triển gia tăng kích thước trên người phụ nữ đã mãn kinh, hay u mới xuất hiện khi đã mãn kinh là chỉ báo rất mạnh của ác tính.
-
-### Các u cơ trơn với khuynh hướng ác tính không xác định (smooth muscle tumours of uncertain malignant potential - STUMP)
-
-Các u cơ trơn với khuynh hướng ác tính không xác định (STUMP) là khái niệm được Tổ chức Y tế Thế giới đưa vào hệ thống phân loại vào năm 2003.
-
-Khái niệm này thể hiện, về mặt hình thái mô-bệnh học, phổ các khối u cơ trơn tử cung nằm giữa các tiêu chuẩn của u xơ-cơ tử cung lành tính có tiên lượng tốt và các sarcoma cơ trơn thân tử cung có tiên lượng xấu.
 
 ## Nguồn tham khảo
 

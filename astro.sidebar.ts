@@ -150,8 +150,21 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "phu-khoa/u-xo-tu-cung",
+      {
+        label: "U xơ tử cung",
+        autogenerate: {
+          directory: "phu-khoa/u-xo-tu-cung",
+        },
+        collapsed: true,
+      },
       "phu-khoa/lac-noi-mac-tu-cung",
+      {
+        label: "Bệnh nguyên bào nuôi",
+        autogenerate: {
+          directory: "phu-khoa/benh-nguyen-bao-nuoi",
+        },
+        collapsed: true,
+      },
       {
         label: "Bất thường tuyến vú",
         autogenerate: {
@@ -163,13 +176,6 @@ export const sidebar = starlightSidebarTopics([
         label: "Kế hoạch hóa gia đình",
         autogenerate: {
           directory: "phu-khoa/ke-hoach-hoa-gia-dinh",
-        },
-        collapsed: true,
-      },
-      {
-        label: "Bệnh nguyên bào nuôi",
-        autogenerate: {
-          directory: "phu-khoa/benh-nguyen-bao-nuoi",
         },
         collapsed: true,
       },

@@ -1,3 +1,8 @@
+---
+title: Thai trứng
+description: Thai trứng.
+---
+
 ## Thai trứng (Hydatiform mole)
 
 Thai trứng (hydatiform moles) là dùng để chỉ tình trạng thai nghén đặc trưng bởi sự tăng sinh bất thường của các nguyên bào nuôi.
