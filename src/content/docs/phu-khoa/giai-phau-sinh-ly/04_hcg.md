@@ -7,25 +7,25 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 
 ## Nguồn gốc
 
-- **Chủ yếu**: tế bào hội bào nuôi (syncytiotrophoblast) của bánh rau; giai đoạn <5 tuần còn từ nguyên bào nuôi (cytotrophoblast).  
-- **Phụ**: thận, tuyến yên, một số mô khác → giải thích hCG tăng trong u tân sinh ngoài bánh rau.  
+- **Chủ yếu**: tế bào hội bào nuôi (syncytiotrophoblast) của bánh rau; giai đoạn <5 tuần còn từ nguyên bào nuôi (cytotrophoblast).
+- **Phụ**: thận, tuyến yên, một số mô khác → giải thích hCG tăng trong u tân sinh ngoài bánh rau.
 - **Mức nền**: rất thấp ở nam và nữ không có thai (nhiều khả năng từ tuyến yên trước).
 
 ## Cấu trúc & sinh tổng hợp
 
-- **Hai tiểu đơn vị** α (CGA, chung với FSH/LH/TSH; gene trên Chr6) và β (CGB, gene đa bản sao trên Chr19).  
-- **β-hCG** có đoạn C-terminal kéo dài → thời gian bán hủy dài hơn LH.  
+- **Hai tiểu đơn vị** α (CGA, chung với FSH/LH/TSH; gene trên Chr6) và β (CGB, gene đa bản sao trên Chr19).
+- **β-hCG** có đoạn C-terminal kéo dài → thời gian bán hủy dài hơn LH.
 - Lắp ghép α+β trong Golgi → hormone hoàn chỉnh; các tiểu đơn vị tự do (free α, free β) và tiêu chí α/β bất cân đối có ý nghĩa chẩn đoán.
 
 ## Thụ thể
 
-- **LHCGR** (LH/CG receptor) – GPCR:  
-  - Phần ngoại bào lớn (340 aa) gắn LH & hCG.  
+- **LHCGR** (LH/CG receptor) – GPCR:
+  - Phần ngoại bào lớn (340 aa) gắn LH & hCG.
   - LH kích hoạt chủ yếu MAPK/PKC; hCG ưu tiên cAMP/PKA.
 
 ## Chuyển hóa
 
-- **T½** ~36 h (LH ~20 phút) → duy trì tác dụng lâu dài.  
+- **T½** ~36 h (LH ~20 phút) → duy trì tác dụng lâu dài.
 - Thải trừ: hCG nguyên vẹn, phân mảnh α/β, thoái giáng → phát hiện trong cả huyết thanh và nước tiểu.
 
 ## Chức năng
@@ -44,13 +44,13 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 
 ### Ứng dụng lâm sàng
 
-- Thay thế LH trong kích thích phóng noãn cuối cùng.  
+- Thay thế LH trong kích thích phóng noãn cuối cùng.
 - Hỗ trợ phát triển nội mạc, mạch xoắn ốc, relaxin, testosterone thai nhi.
 
 ## Động học β-hCG
 
-- **Bình thường không có thai**: < 5 mIU/mL.  
-- **Có thai**: > 25 mIU/mL (que thử ~20–25 mIU/mL).  
+- **Bình thường không có thai**: < 5 mIU/mL.
+- **Có thai**: > 25 mIU/mL (que thử ~20–25 mIU/mL).
 - **Tăng gấp đôi** mỗi ~48 giờ trong 6 tuần đầu; đỉnh 8–10 tuần (~100.000 mIU/mL); sau giảm đạt ổn định 16–20 tuần.
 
 **Động học sau sẩy/spontaneous loss**
@@ -59,22 +59,22 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 
 ## Ngưỡng siêu âm kết hợp β-hCG
 
-| Tuổi thai             | Mức β-hCG (mIU/mL)         |
-| --------------------- | -------------------------- |
-| **3 tuần**            | 5–50                       |
-| **4 tuần**            | 5–426                      |
-| **5 tuần**            | 18–7 340                   |
-| **6 tuần**            | 1 080–56 500               |
-| **7–8 tuần**          | 7 650–229 000              |
-| **9–12 tuần**         | 25 700–288 000             |
-| **13–16 tuần**        | 13 300–254 000             |
-| **17–24 tuần**        | 4 060–165 400              |
-| **25 tuần–sinh**      | 3 640–117 000              |
-| **4–6 tuần sau sinh** | <5                         |
+| Tuổi thai             | Mức β-hCG (mIU/mL) |
+| --------------------- | ------------------ |
+| **3 tuần**            | 5–50               |
+| **4 tuần**            | 5–426              |
+| **5 tuần**            | 18–7 340           |
+| **6 tuần**            | 1 080–56 500       |
+| **7–8 tuần**          | 7 650–229 000      |
+| **9–12 tuần**         | 25 700–288 000     |
+| **13–16 tuần**        | 13 300–254 000     |
+| **17–24 tuần**        | 4 060–165 400      |
+| **25 tuần–sinh**      | 3 640–117 000      |
+| **4–6 tuần sau sinh** | <5                 |
 
 > Nếu β-hCG > 1500 mIU/mL (TV âm đạo) hoặc > 3000 mIU/mL (TV bụng) mà không thấy túi thai → cân nhắc thai ngoài tử cung hoặc thai bất thường.
 
 ## Nguồn tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_  
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - American Pregnancy Association – _Early Fetal Development_

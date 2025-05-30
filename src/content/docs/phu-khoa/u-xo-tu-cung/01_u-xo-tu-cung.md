@@ -7,20 +7,20 @@ U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô
 
 ## Bệnh sinh
 
-- **ER/PR dương tính**: tế bào u xơ có thụ thể ER-α và PR; progesterone thúc đẩy phân bào và sinh ECM.  
+- **ER/PR dương tính**: tế bào u xơ có thụ thể ER-α và PR; progesterone thúc đẩy phân bào và sinh ECM.
 - **Growth factors**: EGF, IGF-1… tăng cao, kích thích tăng trưởng tế bào u.
 
 ## Yếu tố nguy cơ
 
-- **Tuổi**: tăng đến tiền mãn kinh, giảm sau mãn kinh  
-- **Di truyền**: đột biến MED12, trisomy 12, đảo đoạn 12q, 6p…  
-- **Nội tiết/chuyển hóa**: béo phì, kháng insulin, tăng lipid, tăng huyết áp  
+- **Tuổi**: tăng đến tiền mãn kinh, giảm sau mãn kinh
+- **Di truyền**: đột biến MED12, trisomy 12, đảo đoạn 12q, 6p…
+- **Nội tiết/chuyển hóa**: béo phì, kháng insulin, tăng lipid, tăng huyết áp
 - **Gia đình**: mẹ/chị em gái có u xơ
 
 ### Yếu tố bảo vệ
 
-- Đa sinh  
-- Vận động thể lực  
+- Đa sinh
+- Vận động thể lực
 - Ăn cá, rau xanh, vitamin A động vật
 
 ## Phân loại FIGO (2011)
@@ -29,17 +29,17 @@ U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô
 
 _Phân loại FIGO 2011._
 
-| Category                                                             | Description                                                                                                                                                                     |
-|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **S (Submucosal)**<br>Dưới niêm mạc                                  | **0** Có cuống, hoàn toàn trong lòng tử cung<br>**1** < 50% trong cơ<br>**2** ≥ 50% trong cơ *(inferred)*                                                                       |
-| **O (Other)**<br>Khác                                                | **3** Tiếp xúc nội mạc, 100% trong cơ<br>**4** Trong cơ<br>**5** Dưới thanh mạc, ≥ 50% trong cơ<br>**6** Dưới thanh mạc, < 50% trong cơ<br>**7** Dưới thanh mạc, có cuống<br>**8** Khác: Ghi rõ (vd: cổ tử cung…) |
-| **H (Hybrid leiomyomas)**<br>Tiếp xúc đồng thời thanh và niêm mạc     | Thể hiện bằng 2 con số:<br>- **Số thứ nhất**: Liên quan niêm mạc (dùng mã S)<br>- **Số thứ hai**: Liên quan thanh mạc (dùng mã O)<br>*Ví dụ: 2-5 = Dưới thanh mạc + dưới niêm mạc (cả hai ≥50% trong cơ)* |
+| Category                                                          | Description                                                                                                                                                                                                       |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **S (Submucosal)**<br>Dưới niêm mạc                               | **0** Có cuống, hoàn toàn trong lòng tử cung<br>**1** < 50% trong cơ<br>**2** ≥ 50% trong cơ _(inferred)_                                                                                                         |
+| **O (Other)**<br>Khác                                             | **3** Tiếp xúc nội mạc, 100% trong cơ<br>**4** Trong cơ<br>**5** Dưới thanh mạc, ≥ 50% trong cơ<br>**6** Dưới thanh mạc, < 50% trong cơ<br>**7** Dưới thanh mạc, có cuống<br>**8** Khác: Ghi rõ (vd: cổ tử cung…) |
+| **H (Hybrid leiomyomas)**<br>Tiếp xúc đồng thời thanh và niêm mạc | Thể hiện bằng 2 con số:<br>- **Số thứ nhất**: Liên quan niêm mạc (dùng mã S)<br>- **Số thứ hai**: Liên quan thanh mạc (dùng mã O)<br>_Ví dụ: 2-5 = Dưới thanh mạc + dưới niêm mạc (cả hai ≥50% trong cơ)_         |
 
 _Phân loại FIGO 2011._
 
 ### Lâm sàng
 
-- **Cơ năng**: cường/rong kinh, thống kinh, đau hạ vị, chèn ép bàng quang/niệu quản/trực tràng, thiếu máu  
+- **Cơ năng**: cường/rong kinh, thống kinh, đau hạ vị, chèn ép bàng quang/niệu quản/trực tràng, thiếu máu
 - **Thực thể**: tử cung to, khối cứng, di động kém, sốt (thoái hóa)
 
 ### Chẩn đoán hình ảnh
@@ -68,9 +68,9 @@ _Phân loại FIGO 2011._
 - **Siêu âm 4D/đàn hồi**: đánh giá JZ, độ cứng.
   ![Adenomyosis trên siêu âm đàn hồi](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-sieu-am-dan-hoi.png)
 
-  _Adenomyosis trên siêu âm đàn hồi._  
+  _Adenomyosis trên siêu âm đàn hồi._
 
-- **Siêu âm bơm nước**: với u xơ dưới niêm mạc. 
+- **Siêu âm bơm nước**: với u xơ dưới niêm mạc.
   ![U xơ tử cung FIGO 0 trên SIS](../../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-figo-0-qua-sis.png)
 
   _U xơ tử cung FIGO 0 trên SIS._
@@ -78,7 +78,6 @@ _Phân loại FIGO 2011._
   ![Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler](../../../../assets/phu-khoa/u-xo-tu-cung/phan-biet-polyp-va-u-xo-tu-cung-figo-1-bang-doppler.png)
 
   _Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler._
-
 
 - **MRI**: phân biệt adenomyosis (JZ dày > 40%, tín hiệu hỗn hợp) với u xơ (tín hiệu đồng nhất giảm trên T2W).
 
@@ -100,10 +99,10 @@ _Phân loại FIGO 2011._
 
 ## Biến chứng
 
-- **Xuất huyết**: cường/rong kinh (30% chỉ định can thiệp).  
-- **Chèn ép**: bàng quang, niệu quản (thận ứ nước), trực tràng, TM chủ dưới.  
-- **Thoái hóa/u xoắn**: đau cấp, sốt, tăng bạch cầu.  
-- **Hiếm muộn**: dưới niêm mạc, biến dạng lòng tử cung.  
+- **Xuất huyết**: cường/rong kinh (30% chỉ định can thiệp).
+- **Chèn ép**: bàng quang, niệu quản (thận ứ nước), trực tràng, TM chủ dưới.
+- **Thoái hóa/u xoắn**: đau cấp, sốt, tăng bạch cầu.
+- **Hiếm muộn**: dưới niêm mạc, biến dạng lòng tử cung.
 - **Thai kỳ**: ngôi bất thường, rau tiền đạo, bong non, sinh non
 
 ## Điều trị
@@ -114,33 +113,35 @@ _Phân loại FIGO 2011._
 
 ### Nội khoa
 
-| Phương pháp                | Mục tiêu                   | Ghi chú                                                           |
-| -------------------------- | -------------------------- | ----------------------------------------------------------------- |
-| **Tranexamic acid**            | Giảm cường kinh           | 250–500 mg × 3 lần/ngày; chống chỉ định TKMP/thuyên tắc             |
-| **COC**                        | Giảm máu kinh             | Không ảnh hưởng khối u                                            |
-| **Progestin (LNG-IUS, implant)** | Tạo teo nội mạc, giảm máu | LNG-IUS không giảm thể tích u                                      |
-| **GnRHa**                      | Giảm > 50% thể tích u       | Chuẩn bị trước mổ 1–3 tháng; Hạn chế <6 tháng, có flare-up         |
-| **GnRHa add-back (E/P)**       | Hạn chế tác dụng phụ       | Chưa chứng minh giảm khối u thêm                                   |
-| **GnRH anta**                  | Giảm estrogen nhanh        | Tránh flare-up; hiệu quả tương đương GnRHa                         |
-| **Aromatase inhibitors**       | ức chế tổng hợp estrogen   | Letrozole 12 tuần; ít tác dụng phụ hơn GnRHa                       |
-| **SPRMs (Ulipristal acetate)** | Giảm chảy máu, thu nhỏ u   | 5 mg/ngày, 3 tháng; gián đoạn 2 tháng ≤ 8 đợt; theo dõi chức năng gan |
-| **Mifepristone**               | Giảm thể tích u            | 2.5 mg/ngày, 3–6 tháng; không có đăng ký chính thức                |
+| Phương pháp                      | Mục tiêu                  | Ghi chú                                                               |
+| -------------------------------- | ------------------------- | --------------------------------------------------------------------- |
+| **Tranexamic acid**              | Giảm cường kinh           | 250–500 mg × 3 lần/ngày; chống chỉ định TKMP/thuyên tắc               |
+| **COC**                          | Giảm máu kinh             | Không ảnh hưởng khối u                                                |
+| **Progestin (LNG-IUS, implant)** | Tạo teo nội mạc, giảm máu | LNG-IUS không giảm thể tích u                                         |
+| **GnRHa**                        | Giảm > 50% thể tích u     | Chuẩn bị trước mổ 1–3 tháng; Hạn chế <6 tháng, có flare-up            |
+| **GnRHa add-back (E/P)**         | Hạn chế tác dụng phụ      | Chưa chứng minh giảm khối u thêm                                      |
+| **GnRH anta**                    | Giảm estrogen nhanh       | Tránh flare-up; hiệu quả tương đương GnRHa                            |
+| **Aromatase inhibitors**         | ức chế tổng hợp estrogen  | Letrozole 12 tuần; ít tác dụng phụ hơn GnRHa                          |
+| **SPRMs (Ulipristal acetate)**   | Giảm chảy máu, thu nhỏ u  | 5 mg/ngày, 3 tháng; gián đoạn 2 tháng ≤ 8 đợt; theo dõi chức năng gan |
+| **Mifepristone**                 | Giảm thể tích u           | 2.5 mg/ngày, 3–6 tháng; không có đăng ký chính thức                   |
 
 ### Ngoại khoa
 
-- **Bóc u xơ**  
-  - Nội soi buồng tử cung: submucosal L0–L2 ≤ 5 cm.  
-  - Nội soi ổ bụng: subserosal/intramural ≤ 10 cm.  
+- **Bóc u xơ**
+
+  - Nội soi buồng tử cung: submucosal L0–L2 ≤ 5 cm.
+  - Nội soi ổ bụng: subserosal/intramural ≤ 10 cm.
   - Mổ mở: u lớn, lan tỏa, đa nhân.
 
-- **Cắt tử cung**  
-  - Nghi ngờ ác tính, u đa nhân khó bóc, đủ con hoặc mong muốn bỏ tử cung.  
+- **Cắt tử cung**
+
+  - Nghi ngờ ác tính, u đa nhân khó bóc, đủ con hoặc mong muốn bỏ tử cung.
   - Đường nội soi, âm đạo hoặc mở tùy tổn thương & BN.
 
-- **Xâm lấn tối thiểu**  
-  - UAE, HIFU, RFA.  
+- **Xâm lấn tối thiểu**
+  - UAE, HIFU, RFA.
 
 ## Nguồn tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_  
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
