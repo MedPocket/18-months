@@ -2,14 +2,9 @@ import starlightSidebarTopics from "starlight-sidebar-topics";
 
 export const sidebar = starlightSidebarTopics([
   {
-    label: "Trang Chủ",
-    link: "/",
-    icon: "external",
-  },
-  {
     label: "Sản Khoa",
     link: "/san-khoa/",
-    icon: "comment-alt",
+    icon: "external",
     items: [
       "san-khoa/dac-diem-rau-thai",
       {
