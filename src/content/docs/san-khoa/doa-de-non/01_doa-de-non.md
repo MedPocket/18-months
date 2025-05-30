@@ -312,6 +312,6 @@ _Lưu đồ dự phòng sinh non đơn thai Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based Learning_.
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based Learning_.
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_.
 - PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài – _Thực hành Sản phụ khoa_.

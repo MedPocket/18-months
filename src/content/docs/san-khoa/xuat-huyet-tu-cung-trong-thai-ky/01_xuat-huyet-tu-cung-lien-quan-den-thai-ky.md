@@ -78,6 +78,6 @@ Sau 13+6 tuần, các nguyên nhân chính gồm:
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
 - Cunningham, F. G. et al. (2018) - _Williams Obstetrics_
 - ACOG Practice Bulletin (2018) No. 200 - _Early Pregnancy Loss_

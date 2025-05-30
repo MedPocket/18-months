@@ -125,5 +125,5 @@ Khi chọn theo dõi, cần tái siêu âm và có thể đo β-hCG để đánh
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Perinatology – [_Beta hCG Doubling Time Calculator_](https://perinatology.com/calculators/betahCG.htm)

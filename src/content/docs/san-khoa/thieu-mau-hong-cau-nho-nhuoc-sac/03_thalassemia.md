@@ -98,5 +98,5 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - WHO 2021 – _Guidelines for screening and management of haemoglobinopathies_

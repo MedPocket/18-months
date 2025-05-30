@@ -1,41 +1,72 @@
 ---
 title: U xơ tử cung và thai kỳ
-description: U xơ tử cung và thai kỳ.
+description: Ảnh hưởng của u xơ cơ tử cung lên quá trình mang thai: chẩn đoán, điều trị đau, bóc u kết hợp mổ lấy thai và can thiệp ở phụ nữ hiếm muộn.
 ---
 
-## U xơ tử cung và thai kỳ
+## Ảnh hưởng của u xơ tử cung trong thai kỳ
 
-### Điều trị đau
+U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi mang thai. Vị trí, số lượng, kích thước và biến chứng của nhân xơ sẽ quyết định triệu chứng và hướng xử trí.
 
-Phụ nữ có thai và có u xơ mà có triệu chứng đau cần nhập viện điều trị:
+### Đau và chăm sóc ban đầu
 
-- Ban đầu: Hỗ trợ và giảm đau bằng Acetaminophen.
-- Những thuốc giảm đau bằng Opioid liều chuẩn hoặc giảm đau Non-steroids kéo dài trong 48 giờ có thể dùng nếu như các biện pháp khác không hiệu quả.
-- Giảm đau với Ibuprofen, Indomethacin chỉ nên dùng với thai nhỏ hơn 32 tuần do nguy cơ gây đóng ống động mạch sớm, tăng áp phổi sơ sinh, đa ối và thậm chí rối loạn chức năng tiểu cầu thai nhi.
-- Mổ lấy thai trên thai phụ có u xơ chỉ nên thực hiện khi có chỉ định sản khoa (u xơ tiền đạo) hoặc chỉ định liên quan đến thai (ngôi bất thường, chuyển dạ ngưng tiến triển, suy thai cấp).
+- **Đau âm ỉ vùng chậu** thường do u xơ thoái hóa hay chèn ép.  
+- **Điều trị ban đầu**:  
+  - Acetaminophen (paracetamol) liều tối đa 3 g/ngày.  
+  - Nếu đau nặng: có thể dùng opioid liều chuẩn trong 48 giờ.  
+- **NSAIDs** (ibuprofen, indomethacin) **chỉ** khi thai < 32 tuần do nguy cơ:  
+  - Đóng ống động mạch sớm  
+  - Tăng áp phổi sơ sinh  
+  - Đa ối, rối loạn chức năng tiểu cầu thai nhi  
 
-### Lựa chọn bóc u xơ trong mổ lấy thai
+### Hỗ trợ phòng ngừa
 
-Không nên phẫu thuật bóc u xơ trong mổ lấy thai thường quy.
+- **Nghỉ ngơi, tư thế nghiêng trái** giảm chèn ép tĩnh mạch chủ dưới.  
+- **Bù đủ nước và điện giải** khi có dấu hiệu đa ối do u xơ.
 
-Cần đánh giá nguy cơ và lợi ích cũng như cân nhắc kỹ năng và kinh nghiệm của phẫu thuật viên, lượng máu dự trù, số lượng, vị trí và kích thước của u xơ tử cung.
+## Bóc u xơ trong mổ lấy thai
 
-Cân nhắc bóc trong trường hợp:
+### Nguyên tắc chung
 
-- U nằm đoạn dưới có khả năng gây bế sản dịch sau mổ dẫn đến viêm nội mạc tử cung.
-- U nằm vị trí rạch cơ tử cung.
-- Bóc u ở vị trí trước đoạn dưới tử cung. U có cuống, dưới thanh mạc (L5-6-7) trong mổ lấy thai không liên quan đến các yếu tố bất lợi phẫu thuật.
+- **Không** bóc u xơ “đại trà” trong mổ lấy thai nếu không có chỉ định.  
+- Cân nhắc **kỹ**:  
+  - Kinh nghiệm phẫu thuật viên  
+  - Lượng máu dự trữ  
+  - Vị trí, số lượng, kích thước nhân xơ  
 
-Những người đã từng bóc u xơ đoạn dưới tử cung có thể sinh thử đường âm đạo ở những lần thai tiếp, phải theo dõi rất sát.
+### Chỉ định bóc u trong mổ lấy thai
 
-### U xơ tử cung và hiếm muộn
+- Nhân xơ **đoạn dưới tử cung** có nguy cơ bế sản dịch, viêm nội mạc sau mổ.  
+- Nhân xơ **gần đường rạch** cơ tử cung, gây khó khâu vết mổ.  
+- Nhân xơ **dưới thanh mạc có cuống** (FIGO 5–7), bóc dễ, không làm tăng đáng kể chảy máu.
 
-Quyết định can thiệp tùy theo vị trí, kích thước và qus trình điều trị trước đó:
+### Theo dõi sau bóc u
 
-- U dưới niêm mạc (FIGO L0-1-2) gây biến dạng lòng tử cung làm giảm khả năng có thai:
-  - FIGO L0-1-2 nội soi buồng tử cung bóc u xơ dưới niêm mạc trước khi điều trị hỗ trợ sinh sản.
-  - FIGO L2, nếu kích thước > 3cm, nội soi buồng bóc u xơ.
-  - Cần tư vấn cho bệnh nhân nguy cơ tổn thường tử cung, dính lòng tử cung trước khi phẫu thuật.
-- U xơ trong cơ tử cung (FIGO L3-5) nếu có:
-  - Thất bại chuyển phôi nhiều chu kỳ thụ tinh ống nghiệm mặc dù phôi tốt hay kết cục thai kỳ xấu (sảy thai, sinh non): bóc u xơ (nội soi hay mổ mở).
-  - U xơ có kích thước to, vị trí cản trở quá trình chọc hút thụ tinh ống nghiệm có thể được xem xét bóc u xơ trước khi điều trị. Nếu vị trí không cản trở chọc hút trưng và người bệnh > 35 tuổi, cân nhắc kích thích buồng trứng, tạo phôi, trữ phôi rồi bóc u xơ, chờ 1 năm chuyển phôi.
+- Phụ nữ từng bóc u đoạn dưới có thể **sinh thường** các lần sau, nhưng phải theo dõi sát cơn chuyển dạ và vết mổ cũ.
+
+## U xơ tử cung và hiếm muộn
+
+### Khi nào can thiệp trước hỗ trợ sinh sản?
+
+| Vị trí u xơ (FIGO)      | Kích thước | Khuyến nghị can thiệp trước ART          |
+| ----------------------- | ---------- | ---------------------------------------- |
+| **L0–L2 (dưới niêm mạc)** | > 3 cm     | Nội soi buồng tử cung bóc u xơ trước ART |
+| **L0–L2**                | ≤ 3 cm     | Có thể chuyển ART ngay nếu không biến dạng | 
+| **L3–L5 (trong cơ)**     | —          | Nếu sảy thai liên tiếp hoặc thất bại chu kỳ ICSI: cân nhắc bóc u xơ |
+| **L6 (kẹt giữa cơ và thanh mạc)** | —  | Ít ảnh hưởng → ưu tiên ART trước nếu tuổi > 35 |
+
+:::caution[Lưu ý]
+Trước can thiệp, bệnh nhân phải được tư vấn về nguy cơ dính tử cung, sức bền vết mổ và theo dõi dự trữ buồng trứng.
+:::
+
+### Một số nguyên tắc
+
+- Đánh giá **tổng trạng, dự trữ buồng trứng** (AMH, FSH).  
+- Ưu tiên chu kỳ ICSI nếu vòi Fallop tổn thương nặng.  
+- Đối với nhân xơ kích thước nhỏ, không biến dạng lòng tử cung, có thể bắt đầu ART, theo dõi sát.
+
+## Kết luận
+
+- Trong thai kỳ, ưu tiên **giảm đau an toàn** và chỉ bóc u khi có chỉ định rõ ràng.  
+- Ở phụ nữ hiếm muộn, **vị trí dưới niêm mạc (L0–L2)** là đối tượng can thiệp nội soi buồng tử cung trước ART; với u trong cơ, cân nhắc nếu thất bại lặp lại.  
+- Luôn **đánh giá cá thể**, trao đổi kỹ với bệnh nhân về lợi ích – nguy cơ trước khi quyết định can thiệp.
+

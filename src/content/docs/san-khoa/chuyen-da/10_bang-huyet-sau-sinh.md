@@ -112,4 +112,4 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

@@ -67,5 +67,5 @@ Phụ nữ mạn tính không xơ hóa tiến triển có thể trì hoãn đi�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bộ Y tế (2019) 3310/QĐ-BYT – _Hướng dẫn chẩn đoán, điều trị bệnh viêm gan virus B_

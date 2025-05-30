@@ -105,4 +105,4 @@ Pha tiềm thời không được ghi trong sản đồ do khó xác định th�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

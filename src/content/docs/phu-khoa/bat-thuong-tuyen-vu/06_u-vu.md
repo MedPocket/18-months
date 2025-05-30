@@ -25,5 +25,5 @@ _Xử trí u vú Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

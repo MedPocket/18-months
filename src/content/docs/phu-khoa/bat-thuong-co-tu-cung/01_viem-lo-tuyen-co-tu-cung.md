@@ -132,4 +132,4 @@ Tại vùng chuyển sản, sự non nớt của biểu mô làm vùng này tr�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

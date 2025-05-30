@@ -104,5 +104,5 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_  
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_  
 - Goodman & Gilman – _The Pharmacological Basis of Therapeutics, 13th ed_

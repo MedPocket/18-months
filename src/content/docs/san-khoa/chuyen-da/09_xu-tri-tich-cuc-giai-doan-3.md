@@ -78,4 +78,4 @@ Giai đoạn 3 chuyển dạ (sổ rau và cầm máu) kéo dài trung bình 6�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

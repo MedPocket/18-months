@@ -116,6 +116,6 @@ _Bảng chiều dài & cân nặng thai nhi theo tuần (WHO tham khảo)._
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - ACOG Practice Bulletin No. 134 (2013) – _Intrauterine Growth Restriction_
 - WHO (2014) – _WHO Recommendations for Prevention and Treatment of Pre-eclampsia and Eclampsia_

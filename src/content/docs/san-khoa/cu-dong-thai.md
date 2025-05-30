@@ -72,4 +72,4 @@ Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lư�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

@@ -123,5 +123,5 @@ Dựa trên chu kỳ co tử cung:
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - – Bệnh viện Từ Dũ – [_Cách thở và rặn sinh trong cuộc chuyển dạ_](https://tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/cach-tho-va-ran-sinh-trong-cuoc-chuyen-da/)

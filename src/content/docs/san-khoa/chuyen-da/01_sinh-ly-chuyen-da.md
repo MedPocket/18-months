@@ -137,4 +137,4 @@ _Biểu đồ chuyển dạ giúp theo dõi tiến trình chuyển dạ một c�
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
