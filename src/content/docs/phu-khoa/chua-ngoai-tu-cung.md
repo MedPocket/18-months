@@ -7,7 +7,7 @@ Chửa ngoài tử cung là trứng làm tổ và phát triển ở vị trí ng
 
 ![Các vị trí chửa ngoài tử cung](../../../assets/phu-khoa/chua-ngoai-tu-cung/vi-tri-chua-ngoai-tu-cung.png)
 
-_Nguồn: Danforth's Obstetrics and Gynecology, $10^{th}$ edition_
+_Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 
 ## Yếu tố nguy cơ
 

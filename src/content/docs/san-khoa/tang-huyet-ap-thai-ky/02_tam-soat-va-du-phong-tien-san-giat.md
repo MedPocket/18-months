@@ -33,7 +33,7 @@ Thực hiện từ tuần 11 đến tuần 13+6, kết hợp:
   - PAPP-A, PlGF.
   - Doppler động mạch tử cung.
   - Đo CRL (45–84 mm ↔ 11–13+6 tuần).
-  - Huyết áp động mạch trung bình: $$\mathrm{HADMTT} = \frac{\mathrm{HATT} + 2 \times \mathrm{HATr}}{3}$$
+  - Huyết áp động mạch trung bình: $\mathrm{HADMTT} = \frac{\mathrm{HATT} + 2 \times \mathrm{HATr}}{3}$
 
 - **Tính nguy cơ** theo [thuật toán của FMF (The Fetal Medicine Foundation)](https://fetalmedicine.org/research/assess/preeclampsia/first-trimester). Nguy cơ cao khi > 1/100.
 

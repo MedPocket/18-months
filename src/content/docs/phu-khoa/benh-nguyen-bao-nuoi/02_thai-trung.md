@@ -160,7 +160,7 @@ Sau hút nạo, bệnh nhân cần được theo dõi diễn tiến của β-hCG
 
 Định lượng hCG có thể là hCG hay β-hCG. Tuy nhiên, khuyến cáo nên định lượng β-hCG, do các kỹ thuật định lượng hiện nay cho phép nhận diện và đo lường được những nồng độ rất thấp của β-hCG.
 
-Nhận diện được các nồng độ rất thấp của β-hCG là điều kiện quyết định cho phép rút ngắn đáng kể thời gian theo dõi hậu thai trứng. Nếu β-hCG trở về âm tính trong vòng 56 ngày sau hút nạo, thì thời gian theo dõi chỉ còn là 6 tháng. Do thời gian bán hủy của hCG là khoảng 36h nên bình thường thì logarithm thập phân của nồng độ β-hCG giảm đi 1 bậc mỗi tuần. Ví dụ như nồng độ β-hCG của hôm nay là $10^5$IU/L (lg $10^5$ = 5) thì sau 1 tuần nồng độ β-hCG phải là $10^4$IU/L (lg $10^4$ = 4).
+Nhận diện được các nồng độ rất thấp của β-hCG là điều kiện quyết định cho phép rút ngắn đáng kể thời gian theo dõi hậu thai trứng. Nếu β-hCG trở về âm tính trong vòng 56 ngày sau hút nạo, thì thời gian theo dõi chỉ còn là 6 tháng. Do thời gian bán hủy của hCG là khoảng 36h nên bình thường thì logarithm thập phân của nồng độ β-hCG giảm đi 1 bậc mỗi tuần. Ví dụ như nồng độ β-hCG của hôm nay là 10⁵IU/L (lg10⁵ = 5) thì sau 1 tuần nồng độ β-hCG phải là 10⁴IU/L (lg10⁴ = 4).
 
 ![Diễn biến hCG bình thường](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/dien-bien-tu-nhien-cua-hcg-sau-hut-nao-thai-trung.png)
 

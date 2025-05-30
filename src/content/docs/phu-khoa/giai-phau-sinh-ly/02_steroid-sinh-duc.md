@@ -52,7 +52,7 @@ Steroids sinh dục có 2 kiểu tác động:
 
 Tác động không qua gene của steroid sinh dục có thể thấy trên các cơ quan đích có nguồn gốc Müller lẫn các cơ quan đích không có nguồn gốc Müller.
 
-Trong kiểu tác động không qua gene, hormone gắn vào thụ thể kiểu GPCR trên màng bào tương. Hàng loạt các phản ứng dây chuyền, là các dòng thác tín hiệu thứ cấp của các phân tử trọng yếu như $Ca^{++}$, PI3K/Akt, MAPK, Protein Kinase C, AMP vòng… được kích hoạt tức khắc sau khi hormone tiếp xúc với thụ thể. Các dòng thác tín hiệu thứ cấp này sẽ tạo ra biểu hiện của tác động không qua gene của hormone: co cơ, phóng thích kisspeptin từ các KNDy neuron thuộc nhân cung…
+Trong kiểu tác động không qua gene, hormone gắn vào thụ thể kiểu GPCR trên màng bào tương. Hàng loạt các phản ứng dây chuyền, là các dòng thác tín hiệu thứ cấp của các phân tử trọng yếu như Ca²⁺, PI3K/Akt, MAPK, Protein Kinase C, AMP vòng… được kích hoạt tức khắc sau khi hormone tiếp xúc với thụ thể. Các dòng thác tín hiệu thứ cấp này sẽ tạo ra biểu hiện của tác động không qua gene của hormone: co cơ, phóng thích kisspeptin từ các KNDy neuron thuộc nhân cung…
 
 Đặc điểm của kiểu tác động không qua gene là nhanh chóng, lệ thuộc liều, chuyên biệt thấp, có thể đảo ngược. Tác động không qua gene lệ thuộc mạnh vào nồng độ của hormone, và thường đòi hỏi các nồng độ tương đối cao (ở mức micromol) của hormone hay chất tương tự.
 
@@ -163,7 +163,7 @@ Dưới tác động của progesterone, chất nhầy cổ tử cung trở nên
 
 ### Cơ trơn tử cung và cơ trơn vòi Fallope
 
-Tác động của steroid sinh dục trên cơ trơn của các cơ quan có nguồn gốc ống Muller là tác động không qua gene. Hormone gắn kết với thụ thể ở màng bào tương và khởi phát dòng thác phản ứng liên quan đến $Ca^{++}$, dẫn đến hiện tượng co thắt cơ trơn hay thư giãn cơ trơn xảy ra tức thời ngay sau đó.
+Tác động của steroid sinh dục trên cơ trơn của các cơ quan có nguồn gốc ống Muller là tác động không qua gene. Hormone gắn kết với thụ thể ở màng bào tương và khởi phát dòng thác phản ứng liên quan đến Ca²⁺, dẫn đến hiện tượng co thắt cơ trơn hay thư giãn cơ trơn xảy ra tức thời ngay sau đó.
 
 #### Estrogen tăng co thắt cơ trơn vận chuyển hợp tử đi về phía buồng tử cung
 
