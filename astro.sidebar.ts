@@ -186,7 +186,7 @@ export const sidebar = starlightSidebarTopics([
   {
     label: "Hỗ trợ sinh sản",
     link: "/ho-tro-sinh-san/",
-    icon: "apple",
+    icon: "random",
     items: ["ho-tro-sinh-san/buong-trung-da-nang"],
   },
 ]);
