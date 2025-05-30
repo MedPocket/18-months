@@ -1,47 +1,77 @@
 ---
 title: Giải phẫu buồng trứng và các cấu trúc liên quan
-description: Giải phẫu buồng trứng và các cấu trúc liên quan.
+description: Giải phẫu buồng trứng gồm vị trí, kích thước, bề mặt, các mặt, bờ, đầu của buồng trứng; hệ thống dây chằng, mạc treo; mạch máu, thần kinh, bạch huyết và mô học buồng trứng.
 ---
 
-Buồng trứng là tuyến kép, đảm nhận đồng thời 2 vai trò nội tiết và ngoại tiết:
+Buồng trứng là tuyến kép đảm nhận đồng thời hai vai trò:
 
-- Buồng trứng ngoại tiết đảm nhận chức năng tạo noãn bào cho quá trình thụ tinh.
-- Buồng trứng nội tiết đảm nhận chức năng sản xuất các steroids sinh dục là estrogen và progesterone chuẩn bị cho quá trình làm tổ của trứng đã thụ tinh và duy trì thai kỳ.
+- **Ngoại tiết**: tổng hợp và giải phóng noãn bào trưởng thành mỗi chu kỳ kinh.  
+- **Nội tiết**: sản xuất steroid sinh dục (estrogen, progesterone) điều hòa chu kỳ kinh và duy trì thai kỳ.
 
-## Giải phẫu tử cung và buồng trứng
+## Vị trí và kích thước
+
+- Nằm trong ổ chậu, không được thanh mạc bao phủ hoàn toàn.  
+- Mỗi bên một buồng trứng, kích thước trung bình **2×3×3 cm**, trọng lượng 4–8 g.  
+- Bề mặt phẳng mịn ở trẻ em, trở nên sần do tạo vết sẹo phóng noãn sau tuổi dậy thì.
+
+## Hình dạng và quan hệ
 
 ![Giải phẫu tử cung buồng trứng](../../../../assets/phu-khoa/giai-phau-buong-trung-va-cac-cau-truc-lien-quan/giai-phau-tu-cung-buong-trung.png)
 
-Buồng trứng là cơ quan nằm trong ổ bụng và không được thanh mạc bao phủ.
+_Giải phẫu tử cung – buồng trứng._
 
-Có 2 buồng trứng, 1 bên phải và 1 bên trái nằm áp vào thành bên của chậu hông, phía sau dây chằng rộng.
+- **Mặt trong** (mặt tự do): lồi, hướng về phễu vòi tử cung và quai ruột.  
+- **Mặt ngoài** (áp phúc mạc thành bên chậu): nằm trong hố buồng trứng, giới hạn bởi  
+  - Trước – dưới: dây chằng rộng  
+  - Trên: động mạch chậu ngoài  
+  - Sau: động mạch chậu trong và niệu quản  
 
-Buồng trứng có hình hạt đậu dẹt, nặng từ 4-8g, kích thước khoảng 2cm x 3cm x 3cm. Buồng trứng có
-màu hồng nhạt, bề mặt buồng trứng thường nhẵn cho tới lúc dậy thì, sau đó càng ngày càng sần sùi vì hiện tượng phóng noãn tạo thành những vết sẹo trên bề mặt.
+- **Bờ tự do**: tiếp xúc quai ruột.  
+- **Bờ mạc treo**: gắn vào mặt sau dây chằng rộng qua mạc treo buồng trứng.  
 
-Buồng trứng có 2 mặt: mặt trong và mặt ngoài. Mặt trong lồi, tiếp xúc với các tua của phễu vòi tử cung và các quai ruột. Mặt ngoài áp vào phúc mạc của thành bên chậu hông nằm trong hố lõm gọi là hố buồng trứng.
-Hố buồng trứng được giới hạn do các thành phần nằm ngoài phúc mạc đội lên. Phía trước dưới là dây chằng
-rộng, phía trên là động mạch chậu ngoài, phía sau là động mạch chậu trong và niệu quản. Ở đáy hố là động mạch rốn, mạch và thần kinh bịt. Ở người sinh nhiều lần, buồng trứng có thể sa xuống thấp hơn, nằm trong hố Claudius.
+- **Đầu vòi**: hướng lên trên, nơi vào của hệ mạch buồng trứng (trong dây chằng treo).  
+- **Đầu tử cung**: hướng xuống dưới, bám vào dây chằng buồng trứng riêng (ovarian ligament) tới góc tử cung.
 
-Mặt ngoài buồng trứng có vết lõm gọi là rốn buồng trứng là nơi mạch máu và thần kinh đi vào buồng trứng.
+## Hệ thống dây chằng và mạc treo
 
-Buồng trứng có 2 bờ: bờ tự do và bờ mạc treo buồng trứng. Bờ tự do quay ra phía sau và liên hệ với các quai
-ruột, còn bờ mạc treo thì có mạc treo, mạc này treo buồng trứng vào mặt sau dây chằng rộng.
+- **Mạc treo buồng trứng** (mesovarium): gôm mạch máu, thần kinh, bạch huyết.  
+- **Dây chằng buồng trứng riêng** (ligamentum ovarii proprium): nối đầu tử cung buồng trứng đến góc tử cung.  
+- **Dây chằng rộng tử cung** (ligamentum latum): phúc mạc phủ, tạo túi sau vòi trứng.  
+- **Dây chằng treo buồng trứng** (suspensory ligament): chứa động – tĩnh mạch buồng trứng, thần kinh, bạch huyết.
 
-Buồng trứng có 2 đầu: đầu vòi và đầu tử cung. Đầu vòi hướng lên trên, là nơi bám của dây chằng treo buồng
-trứng. Đầu tử cung nhỏ hơn, quay xuống dưới, hướng về phía tử cung, là nơi bám của dây chằng riêng buồng trứng. Buồng trứng được treo lơ lửng trong ổ phúc mạc nhờ hệ thống dây chằng và mạc treo buồng trứng.
-
-Động mạch buồng trứng tách ra từ động mạch chủ bụng ở vùng thắt lưng đi trong dây chằng treo buồng trứng để vào buồng trứng ở đầu vòi, ngoài ra còn có nhánh buồng trứng của động mạch tử cung.
-
-Tĩnh mạch đi theo động mạch và tạo thành đám rối tĩnh mạch hình dây leo ở gần rốn buồng trứng.
-
-Bạch huyết theo các mạch và đổ vào các hạch bạch huyết ở vùng thắt lưng.
-
-Thần kinh tách ra từ đám rối buồng trứng đi theo động mạch buồng trứng để vào buồng trứng.
+## Mạch máu
 
 ![Giải phẫu mạch máu tử cung buồng trứng](../../../../assets/phu-khoa/giai-phau-buong-trung-va-cac-cau-truc-lien-quan/giai-phau-mach-mau-tu-cung-buong-trung.png)
 
-_Động mạch chậu trong cấp máu cho tử cung, và qua các nhánh nối, cấp 1 phần máu cho buồng trứng. Tuy nhiên, động mạch tử cung không phải là nguồn cấp máu chính cho buồng trứng. Nguồn cấp máu chính của buồng trứng đến từ động mạch chủ bụng ở vùng thắt lưng đi trong dây chằng treo buồng trứng để vào buồng trứng ở đầu vòi._
+_Giải phẫu mạch máu tử cung buồng trứng._
+
+- **Động mạch buồng trứng**  
+  - Tách từ động mạch chủ bụng ngang mức L2.  
+  - Chạy trong dây chằng treo, vào buồng trứng tại đầu vòi.  
+- **Nhánh nối từ động mạch tử cung**  
+  - Chảy dọc dây chằng buồng trứng riêng, góp phần cấp máu cho cực dưới.  
+- **Tĩnh mạch**  
+  - Đám rối quanh rốn buồng trứng:  
+    - Bên phải đổ vào tĩnh mạch chủ dưới.  
+    - Bên trái đổ vào tĩnh mạch thận trái.  
+- **Bạch huyết**  
+  - Theo mạch máu buồng trứng, đổ vào hạch thắt lưng (para-aortic).  
+- **Thần kinh**  
+  - Sợi giao cảm từ đám rối mạc treo (renal–aortic plexus).  
+  - Sợi cảm giác theo mạch máu đến tủy sống T10–T12.
+
+## Mô học
+
+- **Vỏ ngoài** (tunica albuginea): lớp mô liên kết dày, phủ bề mặt buồng trứng.  
+- **Vùng vỏ** (cortex): chứa nang noãn ở các giai đoạn (nguyên thủy → Graaf).  
+- **Vùng tuỷ** (medulla): mô liên kết lỏng lẻo, chứa mạch máu, thần kinh, bạch huyết.  
+- **Biểu mô phủ** (germinal epithelium): tế bào vuông hoặc hình trụ thấp trên tunica albuginea.
+
+## Mối liên quan lâm sàng
+
+- **Thoát vị buồng trứng**: hiếm do cấu trúc dây chằng.  
+- **Tính mỏng vỏ**: dễ vỡ nang trong hội chứng buồng trứng đa nang.  
+- **Mạch máu dài**: can thiệp mạch (embolization) cần lưu ý vị trí động mạch buồng trứng.  
 
 ## Nguồn tham khảo
 
