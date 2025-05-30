@@ -1,9 +1,9 @@
 ---
 title: Chửa ngoài tử cung
-description: Chửa ngoài tử cung.
+description: Chửa ngoài tử cung là tình trạng trứng đã thụ tinh làm tổ và phát triển bên ngoài buồng tử cung, thường gặp nhất ở ống dẫn trứng. Đây là một tình trạng nguy hiểm có thể đe dọa tính mạng nếu không được phát hiện và điều trị kịp thời.
 ---
 
-Chửa ngoài tử cung là trứng làm tổ và phát triển ở vị trí ngoài tử cung.
+Chửa ngoài tử cung (CNTC) là hiện tượng trứng đã thụ tinh không làm tổ trong buồng tử cung mà phát triển ở vị trí bất thường, phổ biến nhất là ở ống dẫn trứng. Đây là một cấp cứu sản khoa cần được phát hiện sớm để tránh nguy cơ vỡ khối thai, xuất huyết trong ổ bụng và ảnh hưởng đến khả năng sinh sản.
 
 ![Các vị trí chửa ngoài tử cung](../../../assets/phu-khoa/chua-ngoai-tu-cung/vi-tri-chua-ngoai-tu-cung.png)
 
@@ -11,13 +11,14 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 
 ## Yếu tố nguy cơ
 
-- Viêm nhiễm sinh dục, đặc biệt do Chlamydia trachomatis.
-- Tiền sử phẫu thuật ống dẫn trứng: tái tạo ống dẫn trứng, nối ống dẫn trứng sau triệt sản.
+- Viêm nhiễm sinh dục, đặc biệt do **Chlamydia trachomatis** hoặc các bệnh lây qua đường tình dục khác.
+- Tiền sử phẫu thuật ống dẫn trứng: tái tạo, nối lại sau triệt sản hoặc can thiệp khác gây sẹo, hẹp lòng ống.
 - Tiền sử chửa ngoài tử cung.
-- Hỗ trợ sinh sản: kích rụng trứng, thụ tinh trong ống nghiệm, chuyển phôi.
-- Bất thường giải phẫu như polyp, túi thừa…
-- Đặt dụng cụ tử cung.
-- Nội tiết tránh thai đường uống, tránh thai khẩn cấp, tiền căn phá thai, sảy thai hay mổ lấy thai không làm tăng nguy cơ chửa ngoài tử cung.
+- Hỗ trợ sinh sản: kích thích rụng trứng, thụ tinh trong ống nghiệm (IVF), chuyển phôi.
+- Bất thường giải phẫu tử cung hoặc phần phụ như polyp, dính buồng tử cung, túi thừa ống dẫn trứng.
+- Đặt dụng cụ tử cung (IUD), đặc biệt nếu xảy ra có thai trong khi đang đặt vòng.
+- Một số yếu tố khác: hút thuốc lá, tuổi mẹ lớn, tiền sử vô sinh.
+- Các biện pháp tránh thai nội tiết (thuốc tránh thai hằng ngày, tránh thai khẩn cấp) hoặc tiền sử sảy thai, phá thai, mổ lấy thai **không làm tăng nguy cơ chửa ngoài tử cung**.
 
 ## Chẩn đoán
 
@@ -25,267 +26,191 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 
 :::note[Chẩn đoán chửa ngoài tử cung tại ống dẫn trứng chưa vỡ]
 
-Cơ năng tam chứng điển hình gồm trễ kinh, rong huyết và đau bụng.
+**Triệu chứng cơ năng:**
+- Tam chứng điển hình: trễ kinh, ra huyết âm đạo bất thường (thường ít, kéo dài), đau bụng vùng hạ vị.
 
-Thực thể:
-
-- Không thay đổi sinh hiệu.
-- Bụng không căng hay căng nhẹ, có thể có phản ứng phúc mạc.
-- Tử cung hơi to mềm.
+**Thăm khám thực thể:**
+- Sinh hiệu bình thường.
+- Bụng không căng, có thể có cảm ứng phúc mạc nhẹ.
+- Tử cung to nhẹ và mềm.
 - Có thể sờ thấy khối cạnh tử cung đau, nề.
-- Cổ tử cung tím, mềm.
-- Âm đạo ra huyết hoặc không.
+- Cổ tử cung mềm, tím.
+- Âm đạo có thể ra huyết hoặc không.
 
-Cận lâm sàng:
+**Cận lâm sàng:**
 
-- Định lượng β-hCG:
+- **β-hCG huyết thanh:**
+  - Định lượng cách nhau 48 giờ.
+  - Nếu β-hCG tăng ≥ 60% sau 48h → theo dõi thai trong tử cung.
+  - Nếu tăng không đạt chuẩn hoặc giảm → nghi CNTC.
 
-  - Thực hiện 2 lần, mỗi lần cách nhau 48 giờ.
-  - Nếu β-hCG tăng tối thiểu 60% theo dõi thai trong tử cung.
-  - Lặp lại β-hCG 2-7 ngày sau đó tùy vào sự thay đổi của β-hCG cách nhau 48 giờ.
+- **Siêu âm:**
+  - Chẩn đoán xác định khi túi thai có yolk sac hoặc phôi nằm ở phần phụ, và tử cung không có túi thai.
+  - β-hCG > 1500 mIU/mL: nên thấy túi thai qua siêu âm ngả âm đạo.
+  - β-hCG > 6500 mIU/mL: siêu âm ngả bụng thường thấy túi thai.
+  - **Dấu hiệu vòng nhẫn (vòng lửa – "ring of fire")** trên siêu âm Doppler có giá trị gợi ý.
+  - Cần phân biệt với túi thai giả: không có yolk sac, màng rụng viền mỏng, không có hai vòng đồng tâm.
 
-- Siêu âm:
+- **Nội soi ổ bụng**: là tiêu chuẩn vàng nhưng có thể bỏ sót nếu khối thai còn nhỏ.
 
-  - Chẩn đoán xác định khi túi thai có yolk sac hoặc phôi hoặc cả 2 nằm ở phần phụ và lòng tử cung trống, không có túi thai.
-  - β-hCG > 1500 mIU/mL: Siêu âm đường âm đạo thấy túi thai.
-  - β-hCG > 6500 mIU/mL: Siêu âm đường bụng thấy túi thai.
-  - Phân biệt túi thai giả: Túi thật có 2 vòng đồng tâm được chia bởi khoảng echo kém, có viền hồi âm dày (màng rụng bao) và nằm lệch 1 bên nội mạc tử cung.
-  - Hình ảnh điển hình là vòng nhẫn/vòng ống, dấu hiệu vòng tròn lửa ("ring of fire" sign) qua siêu âm Doppler.
-  - Nếu siêu âm âm đạo không thấy túi thai trong tử cung và β-hCG < 1500 mIU/mL có thể (1) thai trong tử cung bình thường nhưng quá sớm; (2) thai trong tử cung bất thường; (3) mới sẩy thai; (4) thai ngoài tử cung; (5) thai không xác định vị trí.
-
-- Nội soi bổ bụng là tiêu chuẩn vàng nhưng nếu thai quá nhỏ có thể bỏ sót (2-5% các trường hợp).
-- Hút/nạo sinh thiết buồng tử cung:
-  - Được chỉ định khi thai không phát triển hoặc siêu âm không xác định vị trí thai.
-  - Chẩn đoán sẩy thai sớm khi hiện diện tế bào lông rau trong mô bệnh phẩm và β-hCG giảm > 50% sau 12-24 giờ.
-  - Nếu không thấy rau và β-hCG giữ nguyên hoặc tăng sau hút gợi ý sót rau hoặc có chửa ngoài.
+- **Hút/nạo buồng tử cung:**
+  - Thực hiện nếu không thấy vị trí thai rõ ràng.
+  - Mô bệnh học thấy gai nhau → sẩy thai sớm.
+  - Không thấy gai nhau và β-hCG không giảm → nghi CNTC.
 
 :::
 
 ### Chửa ngoài tử cung tại ống dẫn trứng đã vỡ
 
-Cơ năng tam chứng điển hình gồm trễ kinh, rong huyết và đau bụng hạ vị, có thể có các triệu chứng kích thích phúc mạc.
+**Triệu chứng:**
+- Tam chứng điển hình: trễ kinh, ra huyết âm đạo, đau bụng dữ dội vùng hạ vị (có thể lan vai), dấu hiệu kích thích phúc mạc.
 
-Thực thể:
+**Thực thể:**
+- Sinh hiệu thay đổi: huyết áp tụt, mạch nhanh.
+- Bụng co cứng, đau dữ dội.
+- Khám âm đạo thấy tử cung và phần phụ rất đau, khó xác định do phản ứng.
+- Cùng đồ sau đau, có thể phồng.
 
-- Thay đổi sinh hiệu. Chỉ số sốc tăng.
-- Bụng đau, có thể có phản ứng thành bụng.
-- Tử cung và phần phụ khó xác định do đau.
-- Cùng đồ đau.
-- Âm đạo ra huyết.
-
-Cận lâm sàng chọc dò cùng đồ thấy máu sậm không đông nhưng cân nhắc làm.
+**Cận lâm sàng:**
+- Chọc dò cùng đồ: máu sẫm, không đông (cân nhắc chỉ định do xâm lấn).
 
 ### Huyết tụ thành nang
 
-Cơ năng tam chứng điển hình gồm trễ kinh, rong huyết và đau bụng vùng chậu kéo dài.
+**Triệu chứng:**
+- Trễ kinh, ra huyết kéo dài, đau bụng vùng chậu kéo dài.
 
-Thực thể:
-
-- Kích thích bàng quang, trực tràng.
-- Thiếu máu.
-- Âm đạo có khối cạnh tử cung có giới hạn không rõ, căng đau.
+**Thực thể:**
+- Có thể thấy khối cạnh tử cung giới hạn không rõ, căng đau.
+- Thiếu máu mạn tính nhẹ.
 
 ### Thai trong ổ bụng
 
-Hiếm gặp. Khoảng 1/10000-1/25000 các trường hợp.
+- Hiếm gặp: khoảng 1/10.000–1/25.000 trường hợp.
+- Thai nằm ngoài tử cung, trong ổ bụng, thường do thai thoát khỏi vòi trứng sau vỡ.
 
-Cơ năng tam chứng điển hình gồm trễ kinh, rong huyết và đau bụng.
-
-Thực thể:
-
-- Sờ bụng thấy phần thai nằm sát thành bụng.
-- Xuất hiện ngôi thai bất thường.
-- Khám thấy thai nằm ngoài tử cung kích thước bình thường.
-
-Siêu âm thai nằm ngoài tử cung, xen giữa các quai ruột, thai chậm tăng trưởng, thai nhỏ hơn tuổi.
-
-X-quang không chuẩn bị không có bóng mờ, tử cung bao quanh thai, bóng hơi ruột nằm chồng lên các phần thai. Chụp nghiêng thấy cột sống thắt lưng mẹ nằm vắt qua các phần thai.
-
-Chụp cắt lớp hoặc cộng hưởng từ hỗ trợ chẩn đoán.
+**Chẩn đoán:**
+- Sờ bụng thấy thai sát thành bụng, có thể có ngôi bất thường.
+- Siêu âm: thai nằm xen giữa quai ruột, không nằm trong tử cung.
+- X-quang bụng không chuẩn bị: không thấy bóng tử cung quanh thai, bóng hơi ruột chồng lên thai.
+- MRI/CT: hỗ trợ chẩn đoán rõ vị trí thai.
 
 ### Thai ở cổ tử cung
 
-Khoảng 1/9000-1/12000 các trường hợp.
-
-Siêu âm lòng tử cung trống, cổ tử cung phình tròn, tử cung có hình đồng hồ cát, túi thai hiện diện dưới chỗ động mạch tử cung. Không có "dấu hiệu trượt" và có thể thấy mạch máu quanh túi thai. Giúp chẩn đoán phân biệt thai cổ tử cung và sẩy thai đang tiến triển.
+- Rất hiếm: khoảng 1/9000–1/12000.
+- Siêu âm thấy túi thai nằm ở cổ tử cung, lòng tử cung trống.
+- Hình ảnh “đồng hồ cát”, mạch máu quanh túi thai phát triển mạnh, không có dấu hiệu trượt.
 
 ### Thai ở buồng trứng
 
-Khoảng 1/7000-1/12000 các trường hợp. Với triệu chứng như các vị trí khác.
+- Rất hiếm: khoảng 1/7000–1/12000.
+- Lâm sàng tương tự các vị trí khác, siêu âm thấy túi thai nằm trong buồng trứng.
 
 ## Điều trị nội khoa
 
 ### Điều kiện điều trị nội khoa
 
-#### Điều kiện điều trị Methotrexate (MTX) đơn liều
+#### Methotrexate (MTX) đơn liều
 
-Huyết động ổn định (không sốc).
+- Huyết động ổn định.
+- β-hCG ≤ 5000 mIU/mL.
+- Khối thai < 4 cm.
+- Không có tim thai.
 
-β-hCG ≤ 5000 mIU/mL.
+#### MTX liều đôi
 
-Khối thai kích thước < 4cm trên siêu âm.
+- β-hCG từ 3500–5000 mIU/mL.
+- Khối thai < 5 cm, đoạn kẽ < 3 cm.
+- Không có tim thai.
 
-Không có phôi thai, tim thai trong khối chửa (qua siêu âm).
+#### MTX đa liều
 
-#### Điều kiện điều trị Methotrexate (MTX) liều đôi
+- β-hCG 5000–10000 mIU/mL.
+- Khối thai < 5 cm, đoạn kẽ < 3 cm.
 
-Huyết động ổn định (không sốc).
+#### Chống chỉ định điều trị MTX
 
-β-hCG từ 3500 mIU/mL đến ≤ 5000 mIU/mL.
-
-Khối thai kích thước < 5cm trên siêu âm.
-
-Chửa ngoài tử cung đoạn kẽ < 3cm.
-
-#### Điều kiện điều trị Methotrexate (MTX) đa liều
-
-Huyết động ổn định (không sốc).
-
-β-hCG ≥ 5000 mIU/mL và ≤ 10000 mIU/mL.
-
-Khối thai kích thước < 5cm trên siêu âm.
-
-Chửa ngoài tử cung đoạn kẽ < 3cm.
-
-#### Chống chỉ định điều trị nội khoa
-
-Huyết động không ổn định, dấu hiệu choáng, Hb/Hct giảm.
-
-Dấu hiệu vỡ đau bụng dưới nhiều và tăng dần, siêu âm lượng dịch ổ bụng ước lượng > 300mL hay có dịch trong ổ bụng.
-
-Phối hợp thêm thai trong tử cung.
-
-Đang cho con bú.
-
-Dị ứng MTX.
-
-Bệnh nội khoa: suy gan, suy thận, loét dạ dày, suy giảm miễn dịch, suy tủy…
-
-Người bệnh từ chối điều trị MTX hoặc không thể theo dõi lâu dài.
-
-Bất thường xét nghiệm tiền hóa trị (bạch cầu < 3000/mm³, tiểu cầu < 10000/mm³, tăng men gen AST, ALT > 100IU/L, tăng BUN creatinine, rối loạn đông máu…)
+- Huyết động không ổn định, dấu hiệu choáng.
+- Có dấu hiệu vỡ khối thai.
+- Có thai trong tử cung đồng thời.
+- Cho con bú.
+- Dị ứng MTX.
+- Bệnh lý nội khoa nặng: suy gan, suy thận, viêm loét dạ dày, suy tủy, suy giảm miễn dịch…
+- Không thể theo dõi hoặc từ chối điều trị.
 
 ### Xét nghiệm tiền hóa trị
 
-Tổng phân tích tế bào máu.
+- Công thức máu, nhóm máu, đông máu.
+- Chức năng gan, thận.
+- X-quang phổi, ECG.
 
-Nhóm máu ABO, Rhesus.
+### Phác đồ điều trị MTX
 
-Đông máu toàn bộ.
+Tỷ lệ thành công đường toàn thân 70–95%.
 
-Chức năng gan, chức năng thận.
+#### Đơn liều
 
-X-quang tim phổi thẳng.
+- Tiêm bắp MTX 50 mg/m² hoặc 1 mg/kg ngày 1.
+- β-hCG ngày 4 và 7:
+  - Giảm ≥ 15% → theo dõi hàng tuần.
+  - Giảm < 15% → tiêm lại (tối đa 3 liều).
+  - Sau 3 liều mà β-hCG giảm < 15% → chuyển phẫu thuật.
 
-ECG.
+#### Liều đôi
 
-### Phác đồ điều trị
+- MTX ngày 1 và 4.
+- Theo dõi tương tự đơn liều, nhưng thêm liều 3–4 nếu cần.
 
-Tỷ lệ thành công đường toàn thân 70-95%.
+#### Đa liều
 
-#### Phác đồ đơn liều
+- MTX tiêm ngày 1, 3, 5, 7.
+- Acid folic 0.1 mg/kg ngày 2, 4, 6, 8.
+- Theo dõi β-hCG liên tục, ngưng khi giảm ≥ 15%.
 
-Tiêm bắp MTX 50 mg/m² bề mặt da hoặc 1 mg/kg vào ngày thứ 1.
+### Tác dụng phụ
 
-Định lượng β-hCG các ngày 4 và 7:
+- Buồn nôn, nôn, viêm miệng.
+- Xuất huyết âm đạo nhẹ.
+- Đau bụng 2–3 ngày sau tiêm (cần phân biệt với vỡ).
+- Tăng men gan tạm thời.
+- Rụng tóc (hiếm).
+- Viêm phổi (rất hiếm).
 
-- β-hCG giảm ≥ 15% ngày 7 so với ngày 4: định lượng β-hCG hàng tuần cho đến khi âm tính.
-- β-hCG giảm < 15% ngày 7 so với ngày 4: MTX 50 mg/m² bề mặt da hoặc 1 mg/kg tiêm bắp liều thứ 2 và định lượng β-hCG vào ngày 14.
+### Lưu ý điều trị MTX
 
-Định lượng β-hCG các ngày 14:
-
-- β-hCG giảm ≥ 15% ngày 14 so với ngày 7: định lượng β-hCG hàng tuần cho đến khi âm tính.
-- β-hCG giảm < 15% ngày 14 so với ngày 7: MTX 50 mg/m² bề mặt da hoặc 1 mg/kg tiêm bắp liều thứ 3 và định lượng β-hCG vào ngày 21.
-
-Sau điều trị 3 liều MTX, nếu β-hCG giảm < 15% so với lần trước chuyển điều trị phẫu thuật.
-
-#### Phác đồ liều đôi
-
-Liều thứ 1: Tiêm bắp MTX 50 mg/m² bề mặt da hoặc 1 mg/kg ngày thứ 1.
-
-Liều thứ 2: Tiêm bắp MTX 50 mg/m² bề mặt da hoặc 1 mg/kg ngày thứ 4.
-
-Định lượng β-hCG các ngày 4 và 7:
-
-- β-hCG giảm ≥ 15% ngày 7 so với ngày 4: định lượng β-hCG hàng tuần cho đến khi âm tính.
-- β-hCG giảm < 15% ngày 7 so với ngày 4: MTX 50 mg/m² bề mặt da hoặc 1 mg/kg tiêm bắp liều thứ 3 và định lượng β-hCG vào ngày 11.
-
-Định lượng β-hCG các ngày 11:
-
-- β-hCG giảm ≥ 15% ngày 11 so với ngày 7: định lượng β-hCG hàng tuần cho đến khi âm tính.
-- β-hCG giảm < 15% ngày 11 so với ngày 7: MTX 50 mg/m² bề mặt da hoặc 1 mg/kg tiêm bắp liều thứ 4 và định lượng β-hCG vào ngày 21.
-
-Sau điều trị 4 liều MTX, nếu β-hCG giảm < 15% so với lần trước chuyển điều trị phẫu thuật.
-
-#### Phác đồ đa liều
-
-Tiêm bắp MTX 1 mg/kg ngày thứ 1, 3, 5, 7.
-
-Xen kẽ acid folic liều 0.1 mg/kg tiêm bắp ngày 2, 4, 6, 8.
-
-Định lượng β-hCG vào các ngày tiêm MTX và tiếp tục tiêm cho đến khi β-hCG giảm ≥ 15% so với lần định lượng trước đó.
-
-Nếu β-hCG giảm ≥ 15% so với lần định lượng trước đó, ngừng tiêm MTX và định lượng β-hCG hằng tuần đến khi âm tính.
-
-Sau điều trị 4 liều MTX, nếu β-hCG giảm < 15% so với lần trước chuyển điều trị phẫu thuật.
-
-### Tác dụng không mong muốn
-
-Triệu chứng tiêu hóa: buồn nôn, nôn, viêm niêm mạc miệng sau nhiều liều MTX.
-
-Xuất huyết âm đạo lượng ít.
-
-Đau bụng sau tiêm MTX 2-3 ngày. Loại trừ đau bụng do vỡ khối chửa và huyết động. Theo dõi Hb và dịch ổ bụng qua siêu âm.
-
-Tăng men gan trở về bình thường khi ngừng tiêm MTX.
-
-Rụng tóc (hiếm gặp).
-
-Viêm phổi.
-
-### Chú ý khi điều trị MTX
-
-Tránh hoạt động thể lực mạng và không quan hệ tình dục đến khi điều trị khỏi
-
-Không dùng thực phẩm hoặc thuốc chứa acid folic, thuốc kháng viêm không steroid vì giảm hiệu quả MTX.
-
-Tránh tiếp xúc ánh sáng mặt trời nhằm hạn chế viêm da do MTX.
-
-Khuyến cáo hoãn mang thai ít nhất 3 tháng sau liều MTX cuối cùng.
-
-Siêu âm không được chỉ định thường quy để theo dõi đáp ứng điều trị.
+- Tránh vận động mạnh, quan hệ tình dục.
+- Không dùng acid folic, NSAIDs.
+- Tránh tiếp xúc ánh nắng mạnh.
+- Hoãn mang thai ít nhất 3 tháng sau điều trị.
+- Không chỉ định siêu âm thường quy sau tiêm.
 
 ## Điều trị không can thiệp
 
-Theo dõi khi
-
-- β-hCG < 200 mIU/mL (88% sẽ tự thoái triển).
-- β-hCG < 1000 mIU/mL kèm huyết động ổn định, kích thước khối chửa < 2cm (77% tự thoái triển).
-
-Cần tư vấn nguy cơ vỡ và phải phẫu thuật.
+- β-hCG < 200 mIU/mL: 88% tự thoái triển.
+- β-hCG < 1000 mIU/mL + huyết động ổn định + khối chửa < 2 cm: 77% tự thoái triển.
+- Cần tư vấn nguy cơ vỡ và chuyển phẫu thuật nếu cần.
 
 ## Điều trị ngoại khoa
 
-### Phẫu thuật bảo tồn ống dẫn trứng, xẻ ống dẫn trứng lấy khối thai
-
-Điều kiện:
+### Bảo tồn ống dẫn trứng (xẻ lấy khối thai)
 
 - β-hCG < 5000 mIU/mL.
-- Kích thước túi thai < 4cm.
+- Khối thai < 4 cm.
 - Không có tim thai.
-- Không có tiền sử tạo hình ống dẫn trứng.
+- Không tiền sử phẫu thuật ống dẫn trứng.
 
-### Phẫu thuật nội soi cắt ống dẫn trứng
+### Cắt ống dẫn trứng (nội soi hoặc mổ mở)
 
-Huyết động không ổn định, có triệu chứng vỡ hoặc chảy máu ổ bụng, đau bụng, dịch ổ bụng nhiều…
+- Vỡ khối thai, huyết động không ổn định.
+- Thất bại hoặc chống chỉ định MTX.
+- Có tổn thương không phục hồi ống dẫn trứng.
 
-Chống chỉ định hoặc thất bại trong điều trị nội khoa.
+### Phẫu thuật đoạn kẽ
 
-Chỉ định phẫu thuật kèm đoạn sản, cắt ống dẫn trứng bị ứ dịch.
+- Thai ở đoạn kẽ tử cung → xẻ/cắt xén góc tử cung, nội soi hoặc mổ mở.
 
-### Phẫu thuật nội soi lấy khối thai hoặc xẻ/cắt xén góc tử cung trường hợp khối thai ở đoạn kẽ
+### Phẫu thuật mở bụng
 
-### Phẫu thuật khi BN có choáng mất máu phải mở bụng, không thực hiện nội soi
+- Bệnh nhân sốc, mất máu nặng, không thể nội soi.
 
 ## Nguồn tham khảo
 
