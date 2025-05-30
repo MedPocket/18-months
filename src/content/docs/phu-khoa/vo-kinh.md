@@ -1,6 +1,6 @@
 ---
 title: Vô kinh
-description: Vô kinh là tình trạng không xuất hiện kinh nguyệt ở phụ nữ trong độ tuổi sinh đẻ, bao gồm hai dạng chính: nguyên phát (chưa bao giờ có kinh) và thứ phát (từng có kinh nhưng ngừng ≥ 3–6 tháng). Bài viết tổng hợp định nghĩa, sinh lý bệnh, nguyên nhân, đánh giá chẩn đoán và phương pháp điều trị vô kinh.
+description: Vô kinh là tình trạng không xuất hiện kinh nguyệt ở phụ nữ trong độ tuổi sinh đẻ, bao gồm nguyên phát (chưa bao giờ có kinh) và thứ phát (từng có kinh nhưng ngừng ≥ 3–6 tháng). Bài viết tổng hợp định nghĩa, sinh lý bệnh, nguyên nhân, đánh giá chẩn đoán và phương pháp điều trị vô kinh.
 ---
 
 Vô kinh là hiện tượng không hành kinh trong khoảng thời gian quy định:
