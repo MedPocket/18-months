@@ -3,7 +3,7 @@ title: Chửa ở vết mổ lấy thai
 description: Chửa ở vết mổ lấy thai (còn gọi là thai làm tổ ở sẹo mổ lấy thai) là một dạng thai ngoài tử cung nguy hiểm, xảy ra khi túi thai bám và phát triển tại vị trí sẹo mổ cũ trên cơ tử cung.
 ---
 
-Chửa ở vết mổ lấy thai là một dạng thai ngoài tử cung hiếm gặp, trong đó túi thai làm tổ tại vị trí sẹo mổ cũ trên cơ tử cung (thường là sẹo do mổ lấy thai trước đó). 
+Chửa ở vết mổ lấy thai là một dạng thai ngoài tử cung hiếm gặp, trong đó túi thai làm tổ tại vị trí sẹo mổ cũ trên cơ tử cung (thường là sẹo do mổ lấy thai trước đó).
 
 - Tỷ lệ mắc: 1/1800 - 1/2500 ca sinh.
 - Chiếm < 1% các trường hợp thai ngoài tử cung.
@@ -43,6 +43,7 @@ Trên mặt cắt dọc giữa tử cung:
 
 - **COS-1**: túi thai nằm > 2/3 phía trên đường nối nội mạc tử cung → bám sâu vào cơ tử cung, nguy cơ vỡ tử cung cao.
 - **COS-2**: túi thai < 2/3 nằm trên đường nối nội mạc, chia nhỏ:
+
   - **COS-2-**: có giao nhau với đường nối nội mạc tử cung.
   - **COS-2+**: không giao nhau với đường nối nội mạc tử cung.
 
@@ -64,12 +65,12 @@ Trên mặt cắt dọc giữa tử cung:
 
 :::note[Chẩn đoán phân biệt với thai ở cổ tử cung]
 
-| Tiêu chuẩn lâm sàng | Tiêu chuẩn siêu âm |
-|----------------------|----------------------|
-| **Tử cung nhỏ, cổ phình to** | Buồng tử cung trống, nội mạc giả dạng màng rụng |
-| **Lỗ trong cổ tử cung không mở** | Có túi thai trong kênh cổ tử cung |
-| **Nạo nội mạc không thấy mô nhau** | Cổ tử cung hình "đồng hồ cát", có mô nhau ở cổ tử cung trong |
-| **Lỗ ngoài cổ tử cung mở to hơn sẩy thai** | Lỗ trong đóng kín |
+| Tiêu chuẩn lâm sàng                        | Tiêu chuẩn siêu âm                                           |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| **Tử cung nhỏ, cổ phình to**               | Buồng tử cung trống, nội mạc giả dạng màng rụng              |
+| **Lỗ trong cổ tử cung không mở**           | Có túi thai trong kênh cổ tử cung                            |
+| **Nạo nội mạc không thấy mô nhau**         | Cổ tử cung hình "đồng hồ cát", có mô nhau ở cổ tử cung trong |
+| **Lỗ ngoài cổ tử cung mở to hơn sẩy thai** | Lỗ trong đóng kín                                            |
 
 :::
 
@@ -174,13 +175,13 @@ _Phác đồ điều trị thai ở sẹo mổ lấy thai - Bệnh viện Từ D
 
 ## Tai biến theo phương pháp điều trị
 
-| Phương pháp                       | Tỷ lệ tai biến (%) |
-|----------------------------------|---------------------|
-| **MTX tiêm bắp**                     | 62.1                |
-| **Nong và nạo**                      | 61.9                |
-| **Thuyên tắc động mạch tử cung**    | 46.9                |
-| **Soi buồng tử cung**                | 18.4                |
-| **MTX tại chỗ/toàn thân**            | 9.7                 |
+| Phương pháp                      | Tỷ lệ tai biến (%) |
+| -------------------------------- | ------------------ |
+| **MTX tiêm bắp**                 | 62.1               |
+| **Nong và nạo**                  | 61.9               |
+| **Thuyên tắc động mạch tử cung** | 46.9               |
+| **Soi buồng tử cung**            | 18.4               |
+| **MTX tại chỗ/toàn thân**        | 9.7                |
 
 ## Ngừa thai và thai kỳ sau
 
