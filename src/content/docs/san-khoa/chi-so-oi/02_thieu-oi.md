@@ -74,7 +74,7 @@ Chủ yếu dựa trên siêu âm; lâm sàng có thể thấy bề cao tử cun
 
 ![Phác đồ xử trí thiểu ối đơn thuần Bệnh viện Từ Dũ](../../../../assets/san-khoa/thieu-oi/phac-do-xu-tri-thieu-oi-don-thuan.png)
 
-_Phác đồ xử trí thiểu ối đơn thuần Bệnh viện Từ Dũ._
+_Phác đồ xử trí thiểu ối đơn thuần - Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
