@@ -1,6 +1,6 @@
 ---
 title: U xơ tử cung và thai kỳ
-description: Ảnh hưởng của u xơ cơ tử cung lên quá trình mang thai: chẩn đoán, điều trị đau, bóc u kết hợp mổ lấy thai và can thiệp ở phụ nữ hiếm muộn.
+description: Ảnh hưởng của u xơ cơ tử cung lên quá trình mang thai chẩn đoán, điều trị đau, bóc u kết hợp mổ lấy thai và can thiệp ở phụ nữ hiếm muộn.
 ---
 
 ## Ảnh hưởng của u xơ tử cung trong thai kỳ

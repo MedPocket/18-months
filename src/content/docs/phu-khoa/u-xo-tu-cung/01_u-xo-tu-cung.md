@@ -1,6 +1,6 @@
 ---
 title: U xơ tử cung
-description: Tổng quan về u xơ cơ tử cung (leiomyoma): bệnh học, phân loại, chẩn đoán và điều trị nội – ngoại khoa.
+description: Tổng quan về u xơ cơ tử cung (leiomyoma) bệnh học, phân loại, chẩn đoán và điều trị nội – ngoại khoa.
 ---
 
 U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô liên kết tử cung, phụ thuộc estrogen–progesterone để phát triển.
@@ -61,7 +61,7 @@ _Phân loại FIGO 2011._
 
   _U xơ tử cung trên siêu âm Doppler._
 
-  ![Adenomyosis trên siêu âm Doppler](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-doppler.png)
+  ![Adenomyosis trên siêu âm Doppler](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-sieu-am-doppler.png)
 
   _Adenomyosis trên siêu âm Doppler._
 
