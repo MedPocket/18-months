@@ -166,8 +166,14 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
+      {
+        label: "Bệnh nguyên bào nuôi",
+        autogenerate: {
+          directory: "phu-khoa/benh-nguyen-bao-nuoi",
+        },
+        collapsed: true,
+      },
       "phu-khoa/sa-tang-chau",
-      "phu-khoa/benh-nguyen-bao-nuoi",
       "phu-khoa/lanh-thuong",
     ],
   },
