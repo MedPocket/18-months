@@ -41,10 +41,6 @@ Các yếu tố nguy cơ mạnh nhất của loạn khuẩn âm đạo gồm:
 Cần 3/4 tiêu chuẩn để xác lập chẩn đoán. Sensitivity (Se) và Specificity (Sp) của tiêu chuẩn Amsel là 70 và 94% khi so với các test khác.
 :::
 
-![Clue cells](../../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/clue-cells.png)
-
-_Là các tế bào biểu mô có nhiều vi khuẩn hình cầu bám dính trên bề mặt, làm mất ranh giới màng tế bào và bào chất, giống hình ảnh "kính mờ". Clue cells là yếu tố chỉ điểm loạn khuẩn âm đạo đáng tin cậy nhất. PPV trong chẩn đoán loạn khuẩn âm đạo khi hiện diện tế bào này là 95%._
-
 ### Điểm Nugent
 
 Điểm Nugent là công cụ khác để chẩn đoán loạn khuẩn âm đạo, chỉ căn cứ đơn thuần vào hình thái học vi sinh, căn cứ trên:
@@ -55,7 +51,25 @@ _Là các tế bào biểu mô có nhiều vi khuẩn hình cầu bám dính tr�
 
 Tổng của chúng gọi là điểm Nugent, có thể là từ 0 đến 10. Điểm Nugent từ 7-10 được xem là có loạn khuẩn âm đạo.
 
-![Nugent](../../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/bang-diem-nugent.png)
+| Điểm I (Lactobacillus)                | Điểm II (Gardnerella/Bacteria)             | Điểm III (Mobiluncus)              |
+| ------------------------------------- | ------------------------------------------ | ---------------------------------- |
+| **Vi khuẩn Gram dương, hình que lớn** | **Vi khuẩn Gram âm hình que thay đổi**     | **Trực khuẩn cong, Gram thay đổi** |
+| Quang trường lớn x1000                | Quang trường lớn x1000                     | Quang trường lớn x1000             |
+|                                       | _hoặc_ Vi khuẩn hình que nhỏ Gram thay đổi |                                    |
+| **Số lượng**                          | **Số lượng**                               | **Số lượng**                       |
+| 0: >30                                | 0: <1                                      | 0: <5                              |
+| 1: 5-30                               | 1: 1-4                                     | 2: 1-4                             |
+| 2: 1-4                                | 2: 5-30                                    | 3: 5-30                            |
+| 3: <1                                 | 3: >30                                     | 4: >30                             |
+| 4: 0                                  | 4: Phủ kín                                 | 5: Phủ kín                         |
+
+_Bảng điểm Nuget._
+
+**Cách tính:** Tổng I + II + III
+
+- **0-3:** Âm tính với BV
+- **4-6:** Trung gian
+- **≥7:** Dương tính với BV _(Bacterial Vaginosis)_
 
 _Tiêu chuẩn chẩn đoán loạn khuẩn âm đạo theo điểm Nugent có Se là 89% và Sp là 83% nếu so với tiêu chuẩn Amsel._
 
@@ -76,9 +90,15 @@ Có 2 trong 3 tiêu chuẩn:
 
 Khi cần điều trị, có 2 kháng sinh được đưa ra để lựa chọn là metronidazole (uống hay gel âm đạo) hoặc clindamycin (kem âm đạo). Loạn khuẩn âm đạo đáp ứng rất tốt với điều trị. Tuy nhiên, tỷ lệ tái phát của loạn khuẩn âm đạo rất cao, kể cả ngắn hạn (dưới 3 tháng) (15-30%) và trung hạn (dưới 1 năm) (đến 70%).
 
-![Điều trị loạn khuẩn âm đạo CDC 2010](../../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/dieu-tri-loan-khuan-theo-cdc-2010.png)
+| Loại thuốc                  | Liều dùng                                                 |
+| --------------------------- | --------------------------------------------------------- |
+| ** Metronidazole**          | 500 mg uống 2 lần/ngày trong 7 ngày                       |
+| **Metronidazole gel 0.75%** | 5g (một lần dùng) trong âm đạo 1 lần/ngày trong 5 ngày    |
+| **Clindamycin cream 2%**    | 5g (một lần dùng) trong âm đạo trước khi ngủ trong 7 ngày |
+| **Tinidazole**              | 2g liều duy nhất                                          |
+| **Clindamycin**             | 300 mg uống 2 lần/ngày trong 7 ngày                       |
 
-_Điều trị loạn khuẩn âm đạo theo CDC 2010._
+_Điều trị loạn khuẩn âm đạo (CDC 2010) (chỉ dành cho bệnh nhân có triệu chứng)_
 
 ### Phác đồ Bệnh viện Từ Dũ
 
