@@ -3,54 +3,55 @@ title: Phòng ngừa ung thư buồng trứng
 description: Phòng ngừa ung thư buồng trứng.
 ---
 
-Chẩn đoán khối tân lập ở buồng trứng luôn luôn phải đi kèm với dự đoán về khả năng lành tính hay không lành tính của khối này.
+Chẩn đoán khối tân lập ở buồng trứng luôn phải đi kèm dự đoán khả năng lành/ác tính.
 
 ## Nguyên tắc chung
 
-Tất cả các cấu trúc tân lập ở buồng trứng đều phải được điều trị bằng ngoại khoa. Điểm quan trọng nhất khi tiến hành điều trị ngoại khoa các khối tân lập ở buồng trứng là cố gắng ước đoán đến mức chính xác nhất có thể được về khả năng lành tính hay ác tính của khối tân lập, bằng các phương tiện gồm tiền sử, lâm sàng, hình ảnh, chỉ báo khối u…
+- **Tất cả khối tân lập** buồng trứng được điều trị ngoại khoa.  
+- Mục tiêu: ước đoán chính xác nhất khả năng lành/ác tính dựa vào tiền sử, lâm sàng, hình ảnh, chỉ báo khối u.
 
-Đối với các cấu trúc có khả năng lành tính cao: thuộc dân số nguy cơ thấp, thỏa các quy tắc lành tính IOTA, ROMA thấp… thì có thể chỉ định phẫu thuật nội soi bảo tồn. Qua nội soi, lần nữa đánh giá lại khả năng lành-ác của u qua đại thể quan sát được trước khi thực hiện bóc u bảo tồn mô lành ở người trẻ. Phẫu thuật phải ở mức sang chấn thấp nhất có thể, nhằm tránh ảnh hưởng xấu đến dự trữ buồng trứng. Đối với người lớn tuổi, phẫn thuật cắt phần phụ được khuyến cáo thay vì phẫu thuật bảo tồn.
+**Khối nghi lành tính** (dân số nguy cơ thấp, thỏa IOTA lành, ROMA thấp…):
+- Phẫu thuật nội soi bảo tồn: đánh giá đại thể, bóc u, bảo tồn mô lành (trẻ) hoặc cắt phần phụ (người lớn tuổi).  
+- Hạn chế sang chấn để tránh giảm dự trữ buồng trứng.
 
-Đối với các cấu trúc có khả năng lành tính thấp, hay nghi ngờ ác tính, mang các đặc tính của các quy tắc ác tính IOTA, ROMA cao… thì phải được đánh giá qua mở bụng. Việc thám sát cẩn trọng tình trạng ở bụng là đòi hỏi tiên quyết:
-
-1. Tế bào học dịch báng, dịch ổ bụng phải được thực hiện trước tiên, nhằm đánh giá sự lan truyền trong phúc mạc của ung thư.
-2. Thám sát tất cả các cơ quan có thể có liên quan gồm dạ dày, các tạng bụng, kể cả ruột thừa nhằm giúp đánh giá các cơ quan có liên hệ mật thiết về mặt ung thư học (di căn Krukenberg, kèm theo các ung thư khác như ung thư đại trực tràng…).
-3. Khi đã xác định ung thư, với khối u, thực hiện phẫu thuật ở mức tối đa nhưng hợp lý, cắt bỏ khối ung thư trên buồng trứng và những vị trí u xâm lấn hay di căn nếu có thể. Mục đích của phẫu thuật là để loại bỏ càng nhiều khối u càng tốt. Phải cắt trọn u, không được làm vỡ u. Cắt ruột thừa, cắt mạc nối lớn là cần thiết.
-4. Sau khi phẫu thuật, cần cung cấp đủ thông tin TNM cho xác định giai đoạn của ung thư (FIGO).
-5. Điều trị bổ sung sau phẫu thuật sẽ được xác định bởi loại ung thư, giai đoạn của bệnh, và grade mô bệnh học. Điều trị bổ túc có thể là xạ trị hay hóa trị phối hợp (carboplatin, cisplatin, palitaxel…) tùy theo giải phẫu bệnh và giai đoạn ung thư. Tuy nhiên, chủ yếu vẫn là hóa trị.
-6. Nội soi lần thứ nhì để đánh giá (second look) nhằm đánh giá hiệu quả điều trị và tái phát của u.
+**Khối nghi ác tính** (IOTA ác, ROMA cao…):
+1. Mổ mở:
+   - Đầu tiên: xét nghiệm tế bào học dịch báng/dịch rửa ổ bụng.  
+   - Thám sát các tạng bụng (dạy dày, đại trực tràng, ruột thừa…) để phát hiện di căn.  
+   - Cắt trọn khối, không vỡ u; cắt ruột thừa, mạc nối lớn khi cần.  
+2. Ghi chép đầy đủ TNM để xác định giai đoạn FIGO.  
+3. Điều trị bổ sung (hóa/trị xạ) tùy loại ung thư, giai đoạn, grade.  
+4. Nội soi “second look” để đánh giá đáp ứng và tái phát.
 
 ## Phòng ngừa ung thư buồng trứng
 
-Mang thai kỳ đủ tháng, cho con bú và sử dụng COCs làm giảm đáng kể nguy cơ ung thư thượng mô buồng trứng.
-
-Cắt buồng trứng dự phòng là biện pháp duy nhất có thể ngăn ngừa ung thư buồng trứng. Hiệp Hội Sản Phụ Khoa Hoa Kỳ (ACOG) viết "Khuyến cáo để lại buồng trứng nếu như người phụ nữ đó chưa mãn kinh. [Tuy nhiên], xem xét nguy cơ có thể xảy ra ung thư buồng trứng ở tuổi mãn kinh, việc cắt bỏ buồng trứng có thể được xem xét".
+- **Mang thai đủ tháng**, **cho con bú**, **dùng COC** làm giảm nguy cơ ung thư biểu mô buồng trứng.  
+- **Cắt buồng trứng dự phòng** là biện pháp duy nhất ngăn ngừa hoàn toàn.  
+  > ACOG: “Giữ lại buồng trứng nếu chưa mãn kinh. Tuy nhiên, xét nguy cơ tuổi mãn kinh, có thể cân nhắc cắt bỏ buồng trứng.”
 
 ## Giai đoạn ung thư buồng trứng theo FIGO
 
-![Phân loại giai đoạn ung thư buồng trứng theo FIGO](../../../../assets/phu-khoa/phong-ngua-ung-thu-buong-trung/giai-doan-ung-thu-buong-trung-theo-figo.png)
+![Giai đoạn ung thư buồng trứng theo FIGO](../../../../assets/phu-khoa/phong-ngua-ung-thu-buong-trung/giai-doan-ung-thu-buong-trung-theo-figo.png)
 
-Các giai đoạn của ung thư buồng trứng theo FIGO:
+_ Giai đoạn ung thư buồng trứng theo FIGO._
 
-Giai đoạn I: giới hạn ở buồng trứng
+**Giai đoạn I** (chỉ ở buồng trứng):
+- Ia: 1 buồng trứng.  
+- Ib: 2 buồng trứng.  
+- Ic: 1 hoặc 2 buồng trứng + vỏ vỡ hoặc dịch ổ bụng/ dịch rửa có TB ác tính.
 
-- Ia: 1 buồng trứng
-- Ib: 2 buồng trứng
-- Ic: 1 hoặc 2 buồng trứng, vỏ bọc vỡ hoặc dịch ổ bụng hoặc dịch rửa ổ bụng có chứa TB ác tính
+**Giai đoạn II** (buồng trứng + di căn vùng chậu):
+- IIa: di căn tử cung/vòi trứng.  
+- IIb: di căn vùng chậu khác.  
+- IIc: IIa hoặc IIb + vỏ vỡ hoặc dịch ổ bụng/ dịch rửa có TB ác tính.
 
-Giai đoạn II: ung thư 1 hay 2 buồng trứng có di căn vùng chậu
+**Giai đoạn III** (ngoài vùng chậu và/hoặc hạch & di căn bề mặt gan/ mạc nối):
+- IIIa: di căn phúc mạc vi thể, không hạch.  
+- IIIb: di căn phúc mạc đại thể > 2 cm, không hạch.  
+- IIIc: IIIb và/hoặc di căn hạch sau phúc mạc hoặc hạch bẹn.
 
-- IIa: di căn tử cung và/hoặc vòi trứng
-- IIb: di căn các nơi khác trong vùng chậu
-- IIc: IIa hoặc IIb, vỏ bọc vỡ, dịch ổ bụng hoặc dịch rửa ổ bụng có tế bào ác tính
-
-Giai đoạn III: ung thư 1 hay 2 buồng trứng lan ra ngoài vùng chậu và/hoặc có hạch sau phúc mạc, hạch bẹn, di căn bề mặt gan, di căn vi thể mạc nối lớn, mạc treo ruột non
-
-- IIIa: không di căn hạch nhưng có di căn phúc mạc vi thể
-- IIIb: có di căn phúc mạc bụng đại thể > 2cm, không di căn hạch
-- IIIc: IIIb và/hoặc có di căn hạch sau phúc mạc hay hạch bẹn
-
-Giai đoạn IV: di căn xa, tràn dịch màng phổi, di căn nhu mô gan.
+**Giai đoạn IV** (di căn xa):
+- Tràn dịch màng phổi hoặc di căn nhu mô gan.
 
 ## Nguồn tham khảo
 
