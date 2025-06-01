@@ -1,100 +1,252 @@
 ---
 title: Xuất huyết tử cung bất thường tuổi dậy thì
-description: Xuất huyết tử cung bất thường tuổi dậy thì.
+description: Các đặc điểm sinh lý của hệ trục hạ đồi–tuyến yên–buồng trứng ở tuổi dậy thì và cách nhận biết, đánh giá, chẩn đoán cũng như xử trí tình trạng xuất huyết tử cung cơ năng ở bé gái giai đoạn dậy thì, không do nguyên nhân thực thể hoặc thai nghén.
 ---
 
-Tuổi dậy thì ở bé gái là tiến trình với sự thay đổi cả về thể chất và hành vi, chuyển đổi từ cá thể chưa trưởng thành trở thành người phụ nữ có khả năng sinh sản. Bắt đầu xuất hiện khi đứa bé gái được khoảng từ 8 đến 10 tuổi.
+Tuổi dậy thì ở bé gái là tiến trình chuyển hóa sinh lý quan trọng, chuyển đổi từ cá thể chưa trưởng thành trở thành người phụ nữ có khả năng sinh sản. Quá trình này thường bắt đầu khi bé gái khoảng 8–10 tuổi và kết thúc khi hệ trục hạ đồi–tuyến yên–buồng trứng ổn định, với kinh nguyệt đều đặn.
 
 ## Đặc trưng hệ trục hạ đồi-yên-buồng trứng tuổi dậy thì
 
-Đặc trưng của hệ trục hạ đồi-yên-buồng trứng tuổi dậy thì là chưa ổn định hoạt động.
+Hệ trục hạ đồi–tuyến yên–buồng trứng (HPG axis) ở tuổi dậy thì chưa hoàn thiện và rất không ổn định.
 
-Trục hạ đồi-yên-buồng trứng hầu như không hoạt động trong khoảng thời gian trước dậy thì. Hiện tượng nội tiết đầu tiên xảy ra tại hạ đồi ở thời điểm ngay trước dậy thì là sự xuất hiện các xung GnRH.
+1. **Trước dậy thì**: Trục HPG hầu như ở trạng thái nghỉ, các xung GnRH rất ít, tuyến yên ít tiết FSH/LH, buồng trứng không hoạt động.
 
-Các xung GnRH lúc đầu thưa thớt, đủ để gây đáp ứng FSH trên tuyến yên, nhưng không đủ để gây nên đáp ứng bằng LH đủ mạnh. Dưới tác dụng ổn định của FSH, noãn nang phát triển, sản xuất estradiol, tạo nên các đặc điểm sinh dục thứ phát. Ngay từ trong giai đoạn sớm của thời kỳ dậy thì, hoạt động chế tiết FSH của tuyến yên đã khá ổn định. FSH gây nên sự phát triển của các nang noãn đã được chiêu mộ. Buồng trứng bắt đầu hoạt động chế tiết estrogen.
+2. **Khởi phát dậy thì**:
+   - Xung GnRH xuất hiện đầu tiên với tần số thưa thớt, chỉ đủ kích thích tuyến yên tiết FSH.
+   - Dưới tác dụng FSH, các nang noãn được chiêu mộ bắt đầu phát triển, sản xuất estradiol, gây xuất hiện đặc điểm sinh dục thứ phát (tuyến vú, lông mu, tăng tích mỡ ở hông–đùi…).
+   - Estrogen cũng thúc đẩy cốt hóa các đầu xương dài.
 
-Estrogen từ buồng trứng sẽ đến các cơ quan đích có nguồn gốc Muller và tuyến vú. Sự phát triển các cơ quan này giúp hình thành các đặc điểm sinh dục thứ phát. Tuyến vú, tử cung phát triển và dần đạt đến kích thước của các cơ quan này ở người trưởng thành. Estrogen cũng gây cốt hóa xương dài. Trên lâm sàng, các đặc tính sinh dục thứ phát chịu tác động của estrogen gồm sự xuất hiện của lông mu, phát triển của môi lớn và môi nhỏ, sừng hóa niêm mạc âm đạo, phát triển của tử cung, tăng tích mỡ ở hông và đùi sẽ xuất hiện sau thời điểm khởi động trục khoảng 2.5 năm. Khi estrogen đã đạt được nồng độ đủ để gây phát triển của nội mạc tử cung thì kinh nguyệt sẽ xuất hiện. Đứa bé sẽ có kinh lần đầu tiên khi được khoảng 12.8 ± 1.2 tuổi.
+3. **Giai đoạn giữa dậy thì**:
+   - Hoạt động chế tiết FSH ngày càng ổn định hơn; buồng trứng tăng sản xuất estrogen.
+   - Các đặc điểm sinh dục thứ phát như phát triển tuyến vú, phát triển tử cung, sừng hóa niêm mạc âm đạo dần hoàn thiện.
+   - Trung bình, kinh nguyệt lần đầu xuất hiện khi bé gái khoảng 12,8 ± 1,2 tuổi, đánh dấu rằng estrogen đã đủ để kích thích phát triển nội mạc tử cung.
 
-Càng về sau, hoạt động chế tiết GnRH hạ đồi càng tăng dần về tần số và biên độ. Cuối cùng cũng đạt đến mức có thể gây được đỉnh LH khi có phản hồi dương từ estradiol. Tính không ổn định của hoạt động trục hạ đồi-yên-buồng trứng được thể hiện qua sự không hiệu quả của phản hồi dương của estrogen. Trong thời gian khá dài, các xung GnRH chỉ có thể gây nên đáp ứng FSH của tuyến yên. Do các xung GnRH có tần số thưa và có biên độ thấp nên chúng chưa thể kích hoạt tuyến yên tạo đỉnh LH trong phản hồi dương với estradiol.
-
-Các đỉnh LH hoặc vắng mặt, hoặc không đủ cao, hoặc không hiệu quả. Hệ quả là hầu hết các chu kỳ buồng trứng đầu tiên ở thời kỳ dậy thì là các chu kỳ không phóng noãn. Các chu kỳ không phóng noãn dẫn đến hệ quả tất yếu là sự vắng mặt hay sự yếu kém của hoạt động hoàng thể. Thiếu hụt progesterone là hệ quả trực tiếp của chu kỳ không phóng noãn. Thiếu hụt progesterone làm nội mạc không thể bị phân tiết. Hoàng thể bất toàn cũng không tạo được nồng độ đủ cao của progesterone, dẫn đến sự bất toàn trong cơ chế ly giải hoàng thể. Vắng mặt hoàng thể hay hoàng thể không bị ly giải dẫn đến sụp đổ từng phần hay không sụp đổ của nội mạc tử cung. Rối loạn kinh nguyệt là biểu hiện của hiện tượng sụp đổ bất thường của nội mạc tử cung.
+4. **Giai đoạn muộn dậy thì**:
+   - Xung GnRH tăng dần cả tần suất và biên độ, cuối cùng đủ để tạo đỉnh LH khi nhận được phản hồi dương từ estradiol.
+   - Tuy nhiên, do tính không ổn định kéo dài, nhiều chu kỳ buồng trứng đầu tiên là chu kỳ không phóng noãn:
+     - Đỉnh LH thiếu hoặc không đủ cao → không phóng noãn.
+     - Thiếu hoặc bất toàn hoàng thể → progesterone thấp → nội mạc không phân tiết đầy đủ → bong tróc không đều, gây rối loạn kinh nguyệt.
+   - Cơ chế này kéo dài trong vài năm, dẫn đến xuất huyết tử cung cơ năng tuổi dậy thì.
 
 ## Biểu hiện xuất huyết tử cung cơ năng tuổi dậy thì
 
-Xuất huyết tử cung cơ năng là hiện tượng "bất thường" "rất thường gặp" do hoạt động chưa ổn định của hệ trục hạ đồi-tuyến yên-buồng trứng.
+- **Lần hành kinh đầu tiên**: Bản chất là sự sụp đổ nội mạc tử cung do thiếu hụt steroid (cả estrogen và progesterone hoặc chỉ estrogen).  
+- **Sau đó**:
+  - Nếu không có phóng noãn: nội mạc tiếp tục phát triển dưới tác dụng estrogen đơn độc → dày lên nhưng không phân tiết → đến lúc nào đó bong tróc không đồng đều → chảy máu không đều, kéo dài.
+  - Nếu có phóng noãn: nội mạc phát triển và phân tiết bình thường dưới tác động phối hợp estrogen–progesterone, nhưng tần suất phóng noãn không ổn định, vẫn có thể xuất huyết bất thường.
 
-Bản chất của lần chảy máu tử cung đầu tiên là sự sụp đổ của nội mạc bị thiếu hụt steroid. Thiếu hụt steroid gây ra lần chảy máu đầu tiên này có thể là thiếu hụt của cả 2 steroid estrogen và progesterone (giống như cơ chế của kỳ hành kinh "tiêu chuẩn"), hay chỉ do sự tụt giảm của steroid duy nhất là estrogen.
+- **Thời gian xuất huyết** thường kéo dài trong 2–3 năm đầu sau khi có kinh nguyệt, với:
+  - Chu kỳ không đều (có thể dài hoặc ngắn bất thường).
+  - Lượng máu không ổn định (từ nhẹ đến rất nhiều).
+  - Tính chất máu thay đổi (máu tươi, cục máu đông…).
 
-Sau lần chảy máu tử cung đầu tiên, nội mạc tử cung tiếp tục phát triển dưới estrogen đơn độc nếu không có sự phóng noãn, hoặc phát triển và phân tiết dưới tác dụng hiệp đồng của estrogen và progesterone trong trường hợp có xảy ra phóng noãn.
-
-Khoảng thời gian chờ đợi để có đủ cả 2 steroid dài hay ngắn lệ thuộc vào thời điểm mà đỉnh LH được thiết lập. Thời gian này là lâu hay mau tùy thuộc từng cá thể, có thể đến vài năm. Khoảng thời gian này chính là khoảng thời gian xảy ra xuất huyết tử cung cơ năng tuổi dậy thì.
-
-Xuất huyết cơ năng tuổi dậy thì thường xảy ra trong khoảng thời gian vài năm đầu kế tiếp sau lần chảy máu tử cung đầu tiên. Tình trạng xuất huyết tử cung này xảy ra không đều, và rất thay đổi về tính chất và lượng máu kinh. Hầu hết các trường hợp xuất huyết cơ năng tuổi dậy thì sẽ tự ổn định về chu kỳ có rụng trứng và trở nên đều đặn hơn. Tuy nhiên, xuất huyết tử cung bất thường xảy ra ở trong độ tuổi dậy thì có thể là dấu hiệu của nhiều tình trạng bệnh lý nội khoa khác nhau, đôi khi rất nặng nề.
+- **Hầu hết trường hợp** sẽ tự ổn định khi trục HPG dần hoàn thiện, kinh nguyệt trở nên đều đặn.  
+- **Một số trường hợp** xuất huyết kéo dài, nhiều lần tái phát hoặc biểu hiện nặng, có thể là dấu hiệu kèm theo một số bệnh lý nội khoa (rối loạn đông máu, rối loạn tuyến giáp, hội chứng buồng trứng đa nang…) hoặc bệnh lý sinh dục thực thể. Cần thận trọng để không bỏ sót các nguyên nhân nghiêm trọng.
 
 ## Chiến lược tiếp cận
 
 ### Định hướng nguyên nhân
 
-Chẩn đoán xuất huyết tử cung cơ năng tuổi dậy thì là chẩn đoán loại trừ.
+Chẩn đoán XHTC cơ năng tuổi dậy thì là chẩn đoán loại trừ. Khi đánh giá nguyên nhân, cần lưu ý:
 
-Đánh giá độ nặng của chảy máu dựa vào các dấu hiệu toàn thân (sinh hiệu, da niêm, sinh hoạt học tập hàng ngày) và huyết đồ (mức độ thiếu máu thiếu sắt).
+1. **Nguyên nhân ngoài sinh dục (bệnh toàn thân)**  
+   - **Rối loạn đông cầm máu**:  
+     - Bất thường con đường đông máu nội sinh (hemophilia, thiếu yếu tố đông máu…) hoặc ngoại sinh.  
+     - Bệnh di truyền về đông máu (cần hỏi kỹ tiền sử gia đình và bản thân).  
+   - **Bệnh lý trên dòng tiểu cầu** (giảm tiểu cầu, tăng tiểu cầu, rối loạn chức năng tiểu cầu).  
+   - **Bệnh nội tiết**:  
+     - **Tuyến giáp**: Cường hoặc suy giáp đều ảnh hưởng đến hoạt động trục HPG.  
+     - **Tuyến thượng thận**: Rối loạn cortisol, androgen (CAH, u thượng thận) → rối loạn phóng noãn.
+   - **Rối loạn mạn tính khác**:  
+     - Đái tháo đường, bệnh thận mạn, bệnh gan mạn… có thể ảnh hưởng gián tiếp đến phóng noãn.
+   - **Thuốc và chất gây ảnh hưởng**:  
+     - Corticosteroid, thuốc hướng thần kinh, thuốc kháng đông, thuốc NSAIDs kéo dài…  
+     - Các thuốc làm tăng prolactin (antipsychotics, antiemetics, PPI) → gây ức chế trục HPG.
 
-Trong các nguyên nhân ngoài sinh dục, rối loạn đông cầm máu là nhóm nguyên nhân thường gặp nhất. Nguyên nhân của xuất huyết tử cung có thể đến từ bất thường của con đường đông máu nội sinh hay ngoại sinh. Các bệnh lý di truyền về đông cầm máu có thể phát hiện được qua hỏi tiền sử và bệnh sử. Các bệnh lý lành tính hay ác tính trên ảnh hưởng trên dòng tiểu cầu có thể được nhận biết qua huyết đồ. Việc dùng các thuốc có thể ảnh hưởng trên đông cầm máu cũng cần được chú ý. Sai lầm thường mắc phải nhất là chỉ thấy có rối loạn phóng noãn mà không nhìn thấy bệnh hệ thống ẩn mình phía sau rối loạn phóng noãn. Nói cách khác, rối loạn phóng noãn tuổi dậy thì không phải chỉ có nguyên nhân duy nhất là sự không ổn định có tính sinh lý của trục hạ đồi-yên-buồng trứng. Rối loạn chức năng phóng noãn có thể đến từ mọi nguyên nhân ảnh hưởng đến trục hạ đồi-yên-buồng trứng và làm trì hoãn quá trình thiết lập sự ổn định sinh lý của trục hạ đồi-yên-buồng trứng. Bệnh lý tuyến giáp và bệnh lý thượng thận là 2 ví dụ cho nhóm nguyên nhân này. Điều trị bệnh lý tuyến giáp hay thượng thận mới mang lại cơ hội phục hồi hoạt động của trục hạ đồi-yên-buồng trứng nói chung và trục hạ đồi-yên-buồng trứng nói riêng. Nhiều thuốc cũng có thể ảnh hưởng đến trục hạ đồi-yên, đặc biệt là các thuốc hướng thần kinh và các thuốc corticosteroids. Các bệnh hệ thống có thể gây trì hoãn sự thiết lập có hiệu quả feed-back thứ nhì của trục hạ đồi-yên. Đái tháo đường có thể ảnh hưởng nghiêm trọng đến cơ chế gây phóng noãn. Trong trường hợp này, sẽ là rối loạn phóng noãn thường trực chứ không phải là rối loạn phóng noãn mang tính chất "sinh lý" ở tuổi dậy thì. Béo phì ở trẻ em là nhóm nguyên nhân ngày càng phổ biến. Trục hạ đồi yên ở trẻ béo phì khó đi vào ổn định hơn, và là nguy cơ gây ra rối loạn phóng noãn thường trực sau này.
+2. **Nguyên nhân tại sinh dục (thực thể)**  
+   - **Nhiễm trùng**:  
+     - Viêm nhiễm âm đạo, cổ tử cung liên quan hoặc không liên quan đến tình dục (vi khuẩn, virus, nấm).  
+   - **Tổn thương u buồng trứng**:  
+     - U tế bào vỏ-hạt (Granulosa–Theca cell tumor): sản xuất estrogen cục bộ → tăng sinh nội mạc.  
+     - U tế bào mầm, u nang buồng trứng, nang hoàng thể bất thường…  
+   - **Bệnh lý tử cung**:  
+     - Polyp nội mạc, dính buồng tử cung, Dị dạng bẩm sinh tử cung (hiếm gặp ở tuổi dậy thì).  
+   - **Nội tiết sinh dục ngoại lai**:  
+     - Sử dụng progestin, estrogens (thường là tránh thai khẩn cấp) → gây rối loạn nội mạc.
+   - **Thai kỳ**:  
+     - Mặc dù phóng noãn hiếm, nhưng không loại trừ khả năng có Thai(> 1%): cần đo β-hCG.
 
-Trong các nguyên nhân tại sinh dục, các nguyên nhân thực thể là các nguyên nhân thường gặp nhất. Nhiễm trùng có liên quan đến hoạt động tình dục hay không liên quan đến hoạt động tình dục là nguyên nhân phổ biến nhất. Bệnh lý tân lập ác tính hay không ác tính của buồng trứng thuộc nhóm u tế bào của dây giới bào (sex cord) như u tế bào vỏ-hạt sản xuất tại chỗ các estrogen là đối tượng ưu tiên phải tìm cách để loại trừ. Bệnh lý tại tử cung hiếm gặp ở tuổi trẻ, nhưng phải được loại trừ. Nội tiết sinh dục ngoại lai cũng là tình huống cần để tránh bỏ sót. Cần tế nhị hỏi xem đứa bé đã có dùng các nội tiết ngoại lai hay không, mà thường nhất là nội tiết ngoại lai cho mục tiêu tránh thai khẩn cấp. Nguyên nhân tại sinh dục "dễ bị bỏ quên" nhất là thai kỳ. Cho dù rằng phóng noãn hiếm gặp ở tuổi dậy thì, nhưng không có nghĩa là hoàn toàn không có phóng noãn. Khi buồng trứng đã bắt đầu có hoạt động và đứa bé đã có quan hệ tình dục thì khả năng có xuất huyết tử cung bất thường liên quan đến thai kỳ thai là hoàn toàn phải nghĩ đến để loại trừ.
+3. **Rối loạn phóng noãn sinh lý tuổi dậy thì**  
+   - Do tính không ổn định kéo dài của phản hồi dương estrogen–LH, dẫn đến chu kỳ không phóng noãn chiếm ưu thế.  
+   - Chu kỳ không phóng noãn → hoàng thể bất toàn hoặc vắng mặt progesterone → nội mạc không phân tiết → bong tróc không đều.
 
-Sau khi đã loại trừ tất cả mọi khả năng khác, thì có thể thiết lập chẩn đoán xuất huyết tử cung cơ năng do chu kỳ không phóng noãn ở tuổi dậy thì.
+Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, nếu xuất huyết xảy ra kèm theo bằng chứng chu kỳ không phóng noãn kéo dài, có thể chẩn đoán XHTC cơ năng tuổi dậy thì.
 
 ### Các bước cụ thể
 
-Như vậy, các bước cần làm cụ thể sẽ là:
+1. **Hỏi tiền sử**  
+   - **Kinh nguyệt**:  
+     - Tuổi mới có kinh lần đầu (menarche).  
+     - Tần suất (chu kỳ dài/ ngắn), độ dài kỳ kinh, lượng máu, có cục máu đông không.  
+     - Triệu chứng kèm theo: đau bụng kinh, mệt mỏi, choáng váng.  
+   - **Hoạt động tình dục**:  
+     - Kể cả thủ dâm, đánh giá nguy cơ STD, khả năng có thai.  
+   - **Thuốc sử dụng**:  
+     - Thuốc tránh thai khẩn cấp, progestin, corticosteroid, kháng đông, NSAIDs lâu ngày, thuốc hướng thần kinh…  
+   - **Tiền sử bệnh lý toàn thân**:  
+     - Bệnh đông máu, đái tháo đường, bệnh tuyến giáp, bệnh gan thận, bệnh tự miễn, rối loạn tuyến thượng thận…  
+   - **Tiền sử gia đình**:  
+     - Bệnh lý đông máu, rối loạn kinh nguyệt, u buồng trứng estrogen-ức chế, bệnh lý tuyến giáp…
 
-1. Hỏi tiền sử kinh nguyệt: tuổi khi có lần hành kinh đầu tiên, tính chất chu kỳ kinh , đau bụng kinh, kỳ kinh cuối cùng… Hỏi về hoạt động tình dục, thói quen tình dục (kể cả thủ dâm), đánh giá nguy cơ mắc bệnh lây truyền qua tình dục, dùng các loại thuốc (nhất thuốc tránh thai khẩn cấp)… Hỏi về các bệnh lý toàn thân của bệnh nhi hay gia đình.
-2. Khám lâm sàng nhằm đánh giá toàn thân, chú ý những dấu hiệu đi cùng chu kỳ kinh không đều của bệnh nhi và gia đình: cường androgen (acantosis nigricans, rậm lông, mụn), quá cân, biểu hiện của bệnh lý tuyến giáp (thay đổi cân nặng, tuyến giáp to), dễ chảy máu (vết bầm máu, chấm xuất huyết)… Về phía phụ khoa, đánh giá các dấu hiệu của dậy thì (vú, lông mu), khám vùng chậu tìm các khối u.
-3. Huyết đồ và khảo sát đông cầm máu là khảo sát trước tiên giúp đáng giá mức độ ảnh hưởng. Siêu âm vùng chậu là phương tiện sơ cấp, cung cấp nhiều thông tin quan trọng và hữu ích.
+2. **Khám lâm sàng**  
+   - **Tổng thể**:  
+     - Sinh hiệu (mạch, huyết áp), đánh giá tình trạng thiếu máu (da niêm nhợt, mạch nhanh).  
+     - Dấu hiệu rối loạn đông máu: bầm tím, chảy máu chân răng, chảy máu mũi v.v.  
+   - **Dấu hiệu rối loạn nội tiết**:  
+     - **Cường androgen**: acanthosis nigricans, rậm lông (hirsutism), mụn trứng cá.  
+     - **Tuyến giáp**: bướu cổ, dấu hiệu cường hoặc suy giáp (run, thay đổi cân nặng, tóc khô giòn…).  
+     - **Thượng thận**: teo cơ, xanh xao, vết rạn da, tăng huyết áp gợi ý Cushing.  
+   - **Chỉ số BMI**:  
+     - Thừa cân/ béo phì → nguy cơ PCOS, kháng insulin, rối loạn phóng noãn.  
+   - **Khám phụ khoa (ngoài)**:  
+     - Đánh giá giai đoạn vú (theo Tanner), lông mu.  
+     - Khám âm đạo bằng móng tay (nếu đã hoạt động tình dục) hoặc siêu âm qua thành bụng/ đầu dò nhỏ để phát hiện khối u, bất thường cấu trúc.
+
+3. **Cận lâm sàng**  
+   - **Xét nghiệm máu cơ bản**:  
+     - Huyết đồ toàn bộ (CBC) để đánh giá thiếu máu, tăng/ giảm bạch cầu, tiểu cầu.  
+     - Tốc độ lắng máu (ESR), CRP nếu nghi ngờ viêm nhiễm toàn thân.  
+   - **Khám phá đông cầm máu**:  
+     - APTT, PT, fibrinogen, yếu tố VIII, IX, Von Willebrand factor nếu nghi ngờ bệnh đông máu di truyền hay mắc phải.  
+   - **Xét nghiệm nội tiết**:  
+     - β-hCG (loại trừ thai kỳ).  
+     - TSH, Free T4/T3 (đánh giá tuyến giáp).  
+     - Prolactin (nếu có rối loạn kinh kéo dài, galactorrhea, nhức đầu).  
+     - FSH, LH, estradiol (đánh giá giai đoạn dậy thì và phóng noãn).  
+     - Androgen (Testosterone tự do, DHEA-S) nếu nghi ngờ PCOS hoặc u buồng trứng/thượng thận tiết androgen.  
+     - Insulin, glucose máu khi BMI> 25 hoặc nghi kháng insulin (PCOS).  
+   - **Cận lâm sàng hình ảnh**:  
+     - **Siêu âm vùng chậu** (qua bụng hoặc đầu dò nhỏ):  
+       - Đo độ dày nội mạc, phát hiện u nang buồng trứng, polyp (nếu đã tiếp xúc âm đạo).  
+       - Phát hiện hình ảnh “chuỗi hạt” của buồng trứng đa nang (PCOS).  
+     - **Siêu âm Doppler hoặc SIS** (siêu âm bơm nước buồng tử cung) nếu nghi polyp, dính, bất thường lòng tử cung.  
+     - **MRI tuyến yên** nếu Prolactin tăng cao nghiêm trọng (> 100 ng/mL) hoặc có triệu chứng u tuyến yên (nhức đầu, rối loạn thị giác).
+
+4. **Đánh giá kết quả và chẩn đoán phân biệt**  
+   - Sau khi có kết quả cận lâm sàng, loại trừ các nguyên nhân bệnh lý gây XHTC (tổn thương thực thể, rối loạn đông máu, bệnh nội tiết, có thai…).  
+   - Nếu không phát hiện nguyên nhân thực thể hay toàn thân, kết hợp lâm sàng cho thấy chu kỳ không phóng noãn kéo dài, chẩn đoán XHTC cơ năng tuổi dậy thì.
 
 ## Xử trí
 
 ### Nguyên tắc không làm ảnh hưởng đến hệ trục hạ đồi-yên-buồng trứng
 
-Trong xử trí, cần chú trọng đến việc hạn chế gây thêm xáo trộn, tổn thương hệ trục hạ đồi-yên-buồng trứng còn non nớt, chưa trường thành. Xuất huyết tử cung cơ năng tuổi dậy thì thường sẽ tự ổn định sau 2-3 năm. Tiên lượng của xuất huyết tử cung cơ năng tuổi dậy thì thường tốt và ổn định sau vài năm xáo trộn đầu tiên. Sau khoảng 2 năm chu kỳ kinh nguyệt trở nên đều đặn. Việc theo dõi gồm nhật ký kinh nguyệt, liệu pháp bổ sung sắt và đo lường mức độ thiếu máu. Đối với tất cả các trường hợp phải đảm bảo bổ sung sắt đầy đủ cùng với theo dõi bằng lịch kinh nguyệt (menstrual calendar) có thể giúp ích trong thời gian chờ đợi sự trưởng thành về hoạt động của trục.
+- Xuất huyết tử cung cơ năng tuổi dậy thì thường **tự ổn định** sau 2–3 năm, khi hệ trục HPG hoàn thiện.  
+- Tiên lượng tốt: > 80% bé gái có chu kỳ đều đặn trở lại sau khoảng 2 năm kể từ lần hành kinh đầu.  
+- **Mục tiêu theo dõi**:  
+  - Nhật ký kinh nguyệt (menstrual calendar) để ghi nhận tần suất, thời gian, lượng máu.  
+  - Đo lường mức độ thiếu máu (huyết sắc tố, ferritin) và bổ sung sắt khi cần.  
+  - Theo dõi cân nặng, BMI, dấu hiệu rối loạn nội tiết khác.
 
-Xử trí tùy thuộc vào mức độ mất máu và ảnh hưởng đến đời sống của bé gái. Nếu ra huyết không gây ảnh hưởng đến việc học hành và sinh hoạt thường ngày của bé gái, thì việc can thiệp bằng nội tiết là không cần thiết, thậm chí gây hại cho hệ sinh sản còn non nớt. Nếu tình trạng chảy máu cần phải phải được điều trị thì có thể cân nhắc đến liệu pháp nội tiết. Liệu pháp này nhằm vào mục tiêu duy nhất là củng cố tình trạng nội mạc tử cung bị ảnh hưởng bất lợi từ việc chỉ bị phơi bày duy nhất với estrogen.
+- **Khi chảy máu nhẹ và không ảnh hưởng sinh hoạt**:  
+  - Có thể chỉ theo dõi, hỗ trợ tâm lý, khuyến khích dinh dưỡng đầy đủ, tránh căng thẳng.  
+  - Không dùng nội tiết nếu không thật cần thiết, vì có thể làm trục HPG trì trệ lâu hơn.
+
+- **Khi chảy máu nhiều hoặc kéo dài ảnh hưởng đến học tập, sinh hoạt**:  
+  - Cân nhắc can thiệp nội tiết để cầm máu và ổn định nội mạc.
 
 ### Liệu pháp progestogen
 
-Chảy máu trong chu kỳ không phóng noãn có nguyên nhân là do sự sụp đổ từng phần nội mạc tử cung không được phân tiết. Trong trường hợp này, dưới ảnh hưởng của estrogen đơn độc từ buồng trứng, nội mạc tử cung cứ ở trong trạng thái phát triển, dầy lên, nhưng không được phân tiết, đến lúc nào đó sẽ trở nên không còn bền vững, và bị sụp đổ 1 phần. Xuất huyết trong trường hợp này thường là kéo dài, với lượng không hằng định. Việc điều trị hợp lý nhất là điều trị trên cơ sở của progestogen. Progestogen ngoại sinh được cho trong thời gian và với lượng vừa đủ để phân tiết hóa toàn bộ nội mạc tử cung. Sau khoảng thời gian ngắn này, ngưng progestogen ngoại sinh. Việc ngưng này có hệ quả là gây sự sụp đổ hoàn toàn và trọn vẹn của toàn bộ nội mạc tử cung bất thường "do thiếu progesterone" trước đó, tạo ra 1 lần hành kinh có thể là nhiều hơn bình thường, nhưng gọn và dứt khoát. Sau đó là các chu kỳ để chờ đợi hoạt động phóng noãn tự nhiên. Nếu trong các chu kỳ sau, hiện tượng phóng noãn có xảy ra thì chảy máu tử cung cơ năng sẽ không bị tái diễn. Nếu tình trạng phóng noãn vẫn không được thiết lập thì có thể lặp lại khi lại có xuất huyết tương tự.
+Chỉ định khi chảy máu do chu kỳ không phóng noãn, nội mạc dày dưới tác dụng estrogen đơn độc:
+
+1. **Mục tiêu**:  
+   - Phân tiết hóa toàn bộ nội mạc bất thường →  
+   - Sau ngưng progestogen, gây “hành kinh tống sạch” nội mạc cũ →  
+   - Tiếp tục theo dõi chờ phóng noãn tự nhiên.
+
+2. **Chọn progestogen**:  
+   - Ưu tiên **dydrogesterone** (Retrogeston®, Duphaston®):  
+     - Ái lực cao với thụ thể progesterone, vừa đủ kháng estrogen, ít ức chế trục HPG.  
+   - **Lynestrenol**, **Norethindrone**:  
+     - Kháng estrogen mạnh nhưng ức chế hạ đồi cao, dùng ngắn ngày sẽ ít tác động lâu dài.  
+   - **Retroprogesterone** (Drospirenone, Desogestrel):  
+     - Ít ức chế LH, cân bằng lý tưởng, dùng khi không muốn ảnh hưởng trục lâu dài.
+
+3. **Liều và thời gian**:  
+   - Dydrogesterone 10 mg × 2 lần/ngày (sáng–tối) trong 10–14 ngày; hoặc  
+   - Lynestrenol 5 mg × 2 lần/ngày trong 10–14 ngày.  
+   - Sau đó ngưng: bé gái có thể có hành kinh trong vài ngày kế tiếp.
+
+4. **Theo dõi**:  
+   - Giúp bé uống đủ liệu trình, theo dõi lượng máu, tính chất máu khi “hành kinh tống sạch”.  
+   - Sau khi hết chảy máu, tiếp tục theo dõi lịch kinh để đánh giá sự xuất hiện của chu kỳ phóng noãn đầu tiên.
 
 :::caution[Lưu ý]
-Progestogen trong điều trị này nên là progestogen có hoạt tính anti-estrogenic đủ mạnh để phân tiết nội mạc bị phơi bày trường diễn với estrogen đơn độc, đồng thời có hoạt tính kháng hạ đồi yếu để đảm bảo rằng không gây mất khả năng tạo đỉnh LH nội sinh của trục hạ đồi-yên trong các chu kỳ sau đó. Các progestogen kiểu dydrogesterone có ái lực mạnh trên thụ thể của progesterone có nên có tính kháng estrogenic vừa phải, và ít ảnh hưởng đến hạ đồi. Các progestogen kiểu norethindrone hay lynestrenol có hoạt tính kháng estrogen rất mạnh, nhưng đồng thời cũng có tính kháng hạ đồi mạnh. Các progestogen dẫn xuất từ nor-19 progesterone có tính kháng estrogen tương đối mạnh và khả năng ức chế hạ đồi tương đối yếu, cũng có thể là lựa chọn.
+Chọn progestogen có **tính kháng estrogen** vừa đủ và **ít ức chế hạ đồi** để không trì hoãn quá trình hoàn thiện trục HPG.  
 :::
-
-![Phân loại các progestin và SPRM theo nguồn gốc hóa học](../../../../assets/phu-khoa/xuat-huyet-tu-cung-o-tuoi-day-thi/phan-loai-progestins-va-sprm.png)
-
-_Phân loại các progestin và SPRM theo nguồn gốc hóa học.<br>Các progestin thuốc nhóm dẫn xuất của 19-nor testosterone là các progestin có hoạt tính kháng estrogen mạnh nhất, nhưng cũng có khả năng ức chế mạnh nhất trên hạ đồi, vì thế có nguy cơ gây tổn hại vĩnh viễn trục hạ đồi-yên. Trong điều trị xuất huyết tử cung tuổi dậy thì, thường dùng nhất là nhóm retroprogesterone, do khả năng ức chế trục rất yếu của nhóm progestin này._
 
 ### Liệu pháp phối hợp estrogen và progestogen
 
-Trong xuất huyết tử cung cơ năng tuổi dậy thì, hiện tượng sụp đổ nội mạc có thể là nghiêm trọng. Nội mạc có thể bị sụp đổ 1 phần hay toàn phần, kiểu "loang lỗ da beo". Các mạch máu lớn bị hở và gây chảy máu nhiều. Trong trường hợp chảy máu nghiêm trọng, điều trị bằng estrogen theo sau đó là estrogen và progesterone sẽ là cần thiết.
+Chỉ định khi chảy máu nặng, mất máu nhiều, hoặc nội mạc bong tróc rộng gây xuất huyết lớn:
 
-Vai trò của estrogen trong điều trị này là nhanh chóng tạo ra nội mạc phát triển, để cầm máu tức thời các mạch máu lớn bị hở do quá trình bong tróc. Estrogen còn tạo ra thụ thể của progesterone cho điều trị progestogen tiếp theo sau đó. Estrogen được cho bằng bất cứ dạng thức nào. Estrogen liên hợp, ester hay ethinyl estradiol đều có thể được dùng. Do tác động của estrogen là tác động genomic, nên estrogen cần được cho với liều đủ cao hợp lý. Liều rất cao estrogen không hiệu quả hơn 1 liều đủ cao estrogen. Hơn nữa, do là tác động genomic nên việc tăng liều steroid sinh dục ngoại sinh hay dùng bằng đường tĩnh mạch không làm tăng đáp ứng cầm máu. Tăng liều steroid sinh dục ngoại sinh có thể gây ra nhiều tác dụng phụ hơn là lợi ích. Cũng do tác động của estrogen là tác động genomic, nên cần phải có thời gian để hormone này phát huy tác dụng genomic. Cầm máu bằng estrogen không phải là cầm máu có tác dụng tức thời.
+1. **Mục tiêu**:  
+   - Estrogen ngoại sinh giúp tạo nhanh một lớp nội mạc tạm thời, bít kín các mạch máu hở.  
+   - Sau đó phối hợp progestogen để phân tiết hóa nội mạc do estrogen tạo ra → ổn định hơn → giảm tái phát.
 
-Estrogen chỉ tạo ra sự phát triển tức thời của nội mạc tử cung để cầm máu, giải quyết được vấn đề cốt lõi của bệnh lý là không có progesterone. Trong mọi trường hợp, sau khi đã cầm máu được, thì phải tiếp tục duy trì estrogen để tránh gây sụp đổ do giảm estrogen, đồng thời phải cho progestogen để phân tiết hóa nội mạc tạo bởi estrogen ngoại sinh, tương tự như với progestogen đơn thuần.
+2. **Chọn lựa Estrogen**:  
+   - *Ethinyl estradiol* (từ viên COC) hoặc *Estrogen liên hợp* (Premarin®) liều đủ cao.  
+   - Liều tối ưu: tương đương Ethinyl estradiol 2 mg/ngày trong 7–10 ngày, không khuyến cáo liều càng cao càng tốt, vì tác dụng genomic cần thời gian.  
+   - Cung cấp qua đường uống; thụt hậu môn hoặc truyền tĩnh mạch hiếm sử dụng ở lứa tuổi này.
 
-Thuốc tránh thai nội tiết phối hợp (COC) là giải pháp được ưa chuộng do dễ dùng, dễ tìm.
+3. **Chọn lựa Progestogen**:  
+   - Sau 7–10 ngày dùng estrogen, thêm dydrogesterone 10 mg × 2/ngày trong 10–14 ngày.  
+   - Hoặc dùng phối hợp COC (Ethinyl estradiol + Levonorgestrel) liều trung bình (Ethinyl estradiol ~ 30 µg) liên tục trong 21–28 ngày.
+
+4. **Theo dõi**:  
+   - Bé gái cần uống đều đặn, ghi lại ngày bắt đầu và kết thúc chảy máu.  
+   - Sau khi hoàn thành liệu trình, nếu hết chảy máu thì chuyển sang theo dõi chu kỳ tự nhiên.  
+   - Nếu vẫn ra máu nhiều, cân nhắc đánh giá lại nguyên nhân (có thể kèm theo u thực thể, rối loạn đông nặng…).
 
 :::caution[Lưu ý]
-COC có thể có hiệu quả cho cầm máu, nhưng đồng thời khả năng ức chế hạ đồi của COC là rất mạnh. Dùng COC lâu dài hay liều cao có thể làm hư hại lâu dài hoạt động của trục hạ đồi-yên.
+COC giúp cầm máu khá hiệu quả, nhưng có thể ức chế hạ đồi mạnh, nên chỉ sử dụng ngắn hạn. Dùng dài hạn có thể ảnh hưởng lâu dài đến hoạt động trục HPG.  
 :::
 
-Nếu sau 2-3 năm, tính chất của xuất huyết vẫn không thay đổi, các hành kinh bình thường không được tái lập thì phải xem đây là rối loạn phóng noãn thường trực do nguyên nhân khác, và được xử lý như những nguyên nhân này.
+| Loại progestin                      | Tính progestogen | Tính kháng gonadotropin | Tính kháng estrogen | Tính estrogen androgen | Tính androgen | Tính kháng glucocorticoid | Tính kháng mineralocort. |
+|-------------------------------------|------------------|-------------------------|---------------------|------------------------|---------------|---------------------------|--------------------------|
+| **Dẫn xuất gần với progesterone tự nhiên** |                  |                         |                     |                        |               |                           |                          |
+| Progesterone                        | +                | +                       | +                   | -                      | -             | ±                         | +                        |
+| Dydrogesterone                      | +                | -                       | +                   | -                      | -             | ±                         | -                        |
+| Medrogestone                        | +                | +                       | +                   | -                      | -             | ±                         | -                        |
+| **Dẫn xuất 17α-OH progesterone**    |                  |                         |                     |                        |               |                           |                          |
+| Chlormadinone                       | +                | +                       | +                   | -                      | -             | +                         | +                        |
+| Cyproterone                         | +                | +                       | +                   | -                      | -             | ++                        | +                        |
+| Megestrol                           | +                | +                       | +                   | -                      | ±             | +                         | +                        |
+| MPA                                 | +                | +                       | +                   | -                      | ±             | -                         | +                        |
+| **Dẫn xuất 19-Nor-progesterone**    |                  |                         |                     |                        |               |                           |                          |
+| Nomegestrol                         | +                | +                       | +                   | -                      | -             | ±                         | -                        |
+| Promegestone                        | +                | +                       | +                   | -                      | -             | -                         | -                        |
+| Trimegestone                        | +                | +                       | +                   | -                      | -             | ±                         | ±                        |
+| **Dẫn xuất spirolactone**           |                  |                         |                     |                        |               |                           |                          |
+| Drospirenone                        | +                | +                       | +                   | -                      | -             | +                         | -                        |
+| **Dẫn xuất 19-Nor-testosterone**    |                  |                         |                     |                        |               |                           |                          |
+| Norethisterone                      | +                | +                       | +                   | +                      | +             | -                         | -                        |
+| Lynestrenol                         | +                | +                       | +                   | +                      | +             | -                         | -                        |
+| Norethinodrel                       | ±                | +                       | ±                   | +                      | ±             | -                         | -                        |
+| Levonorgestrel                      | +                | +                       | +                   | -                      | +             | -                         | -                        |
+| Norgestimate                        | +                | +                       | +                   | -                      | +             | -                         | -                        |
+| 3-keto-desogestrel                  | +                | +                       | +                   | -                      | +             | -                         | -                        |
+| Gestodene                           | +                | +                       | +                   | -                      | +             | -                         | +                        |
+| Dienogest                           | +                | +                       | ±                   | ±                      | -             | +                         | -                        |
 
-![Tóm lược hoạt tính của các progestin](../../../../assets/phu-khoa/xuat-huyet-tu-cung-o-tuoi-day-thi/tom-luoc-hoat-tinh-cua-cac-progestin.jpeg)
+_Ghi chú: (+) có tác dụng; (±) tác dụng yếu, (-) không có tác dụng này._
 
-_Tóm lược hoạt tính của ác progestin._
+_Tóm lược hoạt tính của các progestin. Các progestin dẫn xuất 19-nor testosterone có kháng estrogen mạnh nhưng ảnh hưởng hạ đồi cao, nhóm retroprogesterone ít ức chế trục nhất._
 
-Xem thêm tại điều trị [Xuất huyết tử cung do cơ năng](/phu-khoa/xuat-huyet-tu-cung/01_xuat-huyet-tu-cung-co-nang/).
+- **Nếu sau 2–3 năm** kinh nguyệt vẫn không đều, xuất huyết tái phát nhiều lần:
+  - Cần đánh giá lại toàn diện, tìm nguyên nhân rối loạn phóng noãn vĩnh viễn (PCOS, rối loạn tuyến giáp, rối loạn cushing, nguyên nhân di truyền…).  
+  - Có thể cần hội chẩn nội tiết, sản khoa – nhi khoa để tiếp tục điều trị chuyên sâu.
 
 ## Nguồn tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- UpToDate (2024) – _Abnormal uterine bleeding in adolescents (truy cập tháng 5/2025)_
+- WHO (2018) – _Adolescent health: Abnormal uterine bleeding_
