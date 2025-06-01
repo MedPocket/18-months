@@ -126,7 +126,7 @@ Không dùng **Amoxicillin + Acid Clavulanic** vì có nguy cơ gây **viêm ru�
   - Không rỉ ối thêm sau 7 ngày điều trị kháng sinh.
   - Lượng nước ối bình thường.
   - Sản phụ đồng thuận sau tư vấn.
-  - Hướng dẫn tự theo dõi: đo nhiệt độ 2 lần/ngày, theo dõi dấu hiệu bất thường (sốt, dịch âm đạo hôi, thai máy yếu...).
+  - Hướng dẫn tự theo dõi: đo nhiệt độ 2 lần/ngày, theo dõi dấu hiệu bất thường (sốt, dịch âm đạo hôi, thai máy yếu…).
 
 #### Chấm dứt thai kỳ
 

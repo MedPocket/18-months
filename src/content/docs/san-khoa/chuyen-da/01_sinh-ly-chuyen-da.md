@@ -129,7 +129,7 @@ Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo d
 4. Nhịp tim thai, nhất là biến động theo cơn co.
 5. Màu sắc và tính chất nước ối.
 6. Các thuốc sử dụng trong quá trình chuyển dạ.
-7. Sinh hiệu của mẹ (mạch, huyết áp, nhiệt độ...).
+7. Sinh hiệu của mẹ (mạch, huyết áp, nhiệt độ…).
 
 ![Biểu đồ chuyển dạ](../../../../assets/san-khoa/sinh-ly-chuyen-da/bieu-do-chuyen-da.jpeg)
 
