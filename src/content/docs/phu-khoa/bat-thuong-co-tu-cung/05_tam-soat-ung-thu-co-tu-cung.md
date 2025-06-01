@@ -3,15 +3,29 @@ title: Tầm soát ung thư cổ tử cung
 description: Tầm soát ung thư cổ tử cung.
 ---
 
-Ung thư cổ tử cung là ung thư phổ biến thứ 4 ở phụ nữ và phổ biến thứ 2 ở phụ nữ trong độ tuổi sinh sản, sau ung thư vú.
+Ung thư cổ tử cung đứng thứ tư trong các loại ung thư ở phụ nữ và thứ hai ở nhóm tuổi sinh sản, sau ung thư vú.
 
 ## Chiến lược tầm soát ung thư cổ tử cung
 
-![Chiến lược tầm soát ung thư cổ tử cung](../../../../assets/phu-khoa/tam-soat-ung-thu-co-tu-cung/chien-luoc-tam-soat-ung-thu-co-tu-cung.png)
+| Dân số                     | Phương pháp tầm soát                                       | Ghi chú                                                                                                                         |
+|----------------------------|------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|
+| **< 21 tuổi**              | Không tầm soát (A)                                         | Bất kể tuổi khởi đầu hoạt động tình dục hoặc có hành vi nguy cơ.                                                                 |
+| **21–29 tuổi**             | Tế bào học đơn thuần mỗi 3 năm (A)                         | Không khuyến cáo tầm soát bằng HPV testing đơn thuần (A).                                                                        |
+| **30–65 tuổi**             | - HPV và tế bào học mỗi 5 năm** (A)<br>- Tế bào học mỗi 3 năm*** (A) | Không nên tầm soát hàng năm (A).                                                                                                  |
+| **> 65 tuổi**              | Ngưng tầm soát nếu trước đó đã tầm soát đầy đủ và âm tính**** (A)  | Phụ nữ có tiền căn CIN2, CIN3, ung thư tuyến tại chỗ hay ung thư cổ tử cung nên tiếp tục tầm soát ít nhất 20 năm (B).           |
+| **Đã cắt tử cung toàn phần** | Không tầm soát (A)                                         | Áp dụng cho phụ nữ không còn cổ tử cung và không có tiền căn CIN2, CIN3, ung thư tuyến tại chỗ hay ung thư cổ tử cung trong 20 năm gần nhất (A). |
+| **Đã tiêm ngừa HPV**        | Tầm soát như người không tiêm ngừa (C)                      |                                                                                                                                 |
 
-_\* Các khuyến cáo dựa theo: American Cancer Society (ACS), The American Society for Colposcopy and Cervical Pathology (ASCCP), và The American Society for Clinical Pathology (ASCP). A: khuyến cáo mạnh, chứng cứ rõ ràng, hằng định. B: khuyến cáo trung bình, chứng cứ không hằng định. C: theo kinh nghiệm.<br>** Ưu tiên.<br>\*** Chấp nhận được nhưng không phải là lựa chọn tối ưu.<br>\*\*\*\* Kết quả tầm soát âm tính đầy đủ được định nghĩa là có 3 kết quả tầm soát tế bào học âm tính chính thức hoặc có 2 kết quả co-testing chính thức âm tính trong vòng 10 năm trước, kết quả gần nhất phải được thực hiện trong 5 năm trước._
+Phụ nữ có tiền căn ung thư cổ tử cung, nhiễm HIV hoặc suy giảm miễn dịch không áp dụng hướng dẫn tầm soát thông thường (A).
+
+_* Các khuyến cáo dựa theo: American Cancer Society (ACS), ASCCP, và ASCP. A: khuyến cáo mạnh, chứng cứ rõ ràng. B: khuyến cáo trung bình. C: theo kinh nghiệm._  
+_** Ưu tiên._  
+_*** Chấp nhận được nhưng không phải lựa chọn tối ưu._  
+_**** Kết quả tầm soát âm tính đầy đủ: 3 lần tế bào học âm tính hoặc 2 lần co-testing âm tính trong 10 năm gần nhất, với lần gần nhất trong 5 năm qua._
+
+_Chiến lược tầm soát ung thư cổ tử cung._
 
 ## Nguồn tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_ 
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_ 
