@@ -1,93 +1,180 @@
 ---
 title: Xuất huyết tử cung bất thường quanh mãn kinh
-description: Xuất huyết tử cung bất thường quanh mãn kinh.
+description: Cơ chế sinh lý và cận lâm sàng của giai đoạn quanh mãn kinh, các nguyên nhân cơ năng và thực thể gây xuất huyết tử cung bất thường, hướng tiếp cận chẩn đoán phân biệt (nhấn mạnh loại trừ tăng sinh và ung thư nội mạc) và các lựa chọn xử trí cho phụ nữ tuổi quanh mãn kinh.
 ---
 
-Xuất huyết tử cung bất thường ở độ tuổi quanh mãn kinh có thể là xuất huyết cơ năng nhưng cũng có thể là xuất huyết có nguyên nhân thực thể, hay biểu hiện của tình trạng ác tính. Cần quan tâm để giải quyết những vấn đề cốt yếu như cần loại trừ nguyên nhân ra huyết là do ung thư hay tăng sinh nội mạc tử cung, sau đó làm cho người bệnh nhân yên tâm không quá sợ hãi vì tình trạng ra huyết không mong đợi này.
+Xuất huyết tử cung bất thường ở độ tuổi quanh mãn kinh có thể là xuất huyết cơ năng nhưng cũng có thể xuất phát từ các nguyên nhân thực thể hoặc biểu hiện của tình trạng ác tính. Việc đánh giá kịp thời và chính xác giúp loại trừ ung thư hoặc tăng sinh nội mạc tử cung, đồng thời giảm lo lắng cho người bệnh và có hướng điều trị phù hợp.
 
 ## Đặc trưng hệ trục hạ đồi-yên-buồng trứng quanh mãn kinh
 
-Đặc trưng hệ trục hạ đồi-yên-buồng trứng quanh mãn kinh là suy giảm ức chế tầng trên của trục.
+Giai đoạn quanh mãn kinh (perimenopause) thường kéo dài từ cuối 40 đến đầu 50 tuổi, là thời điểm chuyển tiếp giữa giai đoạn sinh sản và mãn kinh. Đặc trưng chính của hệ trục HPG (hạ đồi–tuyến yên–buồng trứng) lúc này là suy giảm trữ lượng nang noãn và mất dần sự ức chế tầng trên.
 
-Suy giảm trữ lượng buồng trứng khởi động các thay đổi nội tiết ở tuổi quanh mãn kinh. Trên buồng trứng, dự trữ noãn nang bị suy giảm nghiêm trong dẫn đến AMH thấp và inhibin B thấp. Do AMH thấp sẽ làm số lượng noãn nang được chiêu mộ và đi đến được đầu chu kỳ giảm rõ rệt. AMH thấp kèm theo số lượng nang noãn thứ cấp thấp là hình ảnh đặc trưng của giai đoạn này. Trữ lượng noãn nang suy giảm dẫn đến tổng khối tế bào hạt giảm, làm giảm inhibin B lưu hành. Do không còn bị ức chế bởi inhibin B, hoạt động phóng thích FSH của tuyến yên tăng mạnh. Tuy nhiên, FSH vẫn còn bị kiểm soát bởi phản hồi thứ nhất của estrogen.
+1. **Suy giảm dự trữ buồng trứng**  
+   - Số lượng noãn nang giảm, thể hiện qua AMH (anti-Müllerian hormone) và Inhibin B thấp.  
+   - AMH thấp dẫn đến giảm số nang noãn thứ cấp được chiêu mộ, Inhibin B giảm làm mất ức chế âm tính lên tuyến yên.
 
-Chu kỳ kinh nhanh với phóng noãn được bảo tồn là đặc điểm của giai đoạn sớm nhất của thời kỳ quanh mãn kinh. Thường thì các nang thứ cấp chỉ bắt đầu phát triển vào ngày 5 của kỳ kinh. Nồng độ cao của FSH dẫn đến sự phát triển sớm của các nang noãn thứ cấp. Ở người quanh mãn kinh, do FSH cao nên các nang thứ cấp bắt đầu tiến trình phát triển và chọn lọc noãn nang dưới gonadotropin từ ngay những ngày cuối của chu kỳ kinh nguyệt trước. Như vậy, chu kỳ kinh nguyệt bị chuyển dịch về phía trước, và chìm lẫn vào phần cuối của chu kỳ trước. Hệ quả là khoảng cách giữa 2 lần hành kinh liền kề sẽ bị rút ngắn. Tuy nhiên, khoảng cách thực sự từ lúc bắt đầu có phát
-triển noãn nang đến phóng noãn và khoảng cách từ lúc phóng noãn đến khi có hành kinh vẫn còn bảo tồn. Chức năng phóng noãn và hoàng thể vẫn còn bảo tồn. Chu kỳ kinh nhanh với phóng noãn được bảo tồn là đặc điểm của giai đoạn sớm nhất của thời kỳ quanh mãn kinh.
+2. **Tăng tiết FSH**  
+   - Không còn ức chế bởi Inhibin B, tuyến yên tăng sản xuất FSH.  
+   - Tuy nhiên, FSH vẫn còn chịu phần nào phản hồi âm tính từ estrogen còn sót lại.
 
-Cùng với FSH, nồng độ LH căn bản cũng tăng dần. Biên độ đỉnh LH bị thu hẹp. Cuối cùng là sự biến mất của đỉnh LH. Các chu kỳ trở thành chu kỳ không phóng noãn với sự hiện diện đơn độc của estrogen và sự vắng mặt hoàn toàn của progesterone. Nồng độ rất cao của estrogen tại thời điểm xảy ra ly giải hoàng thể đã đủ để ngăn hoàn toàn sự sụp đổ của nội mạc do ly giải hoàng thể. Người phụ nữ không thấy có "kinh" cho dù vẫn có thể có hiện tượng phóng noãn. Khoảng cách giữa 2 lần ra máu
-"kinh" bị giãn dài ra. Người phụ nữ chỉ "có kinh" khi thời điểm xuất hiện nang De Graaf bị lệch pha so với thời điểm ly giải hoàng thể. Thêm vào đó, nồng độ LH căn bản tăng dần, trong khi độ cao của đỉnh LH không đổi, làm cho biên độ hữu dụng của đỉnh LH bị thu hẹp. Đỉnh LH dẹt không còn đủ năng lực để gây phóng noãn. Bắt đầu xuất hiện các chu kỳ không phóng noãn. Các chu kỳ không phóng noãn càng làm cho rối loạn chu kỳ trở nên trầm trọng hơn và khó tiên báo được.
+3. **Rút ngắn chu kỳ kinh sớm (Early Perimenopause)**  
+   - FSH cao thúc đẩy nang thứ cấp phát triển sớm, làm rút ngắn pha noãn.  
+   - Phóng noãn và hoàng thể vẫn còn bảo tồn, nên vẫn có kinh định kỳ nhưng chu kỳ ngày càng ngắn hơn.
 
-Nguyên nhân lớn nhất xuất huyết tử cung bất thường quanh mãn kinh gồm:
+4. **Mất đỉnh LH và chu kỳ không phóng noãn (Late Perimenopause)**  
+   - LH căn bản tăng dần, biên độ đỉnh LH thu hẹp, cuối cùng đỉnh LH mất khả năng kích phóng noãn.  
+   - Xuất hiện chu kỳ không phóng noãn với estrogen đơn độc và vắng mặt progesterone → nội mạc phát triển nhưng không phân tiết, bong tróc không đều, gây chảy máu bất thường.
+   - Khoảng cách giữa hai lần hành kinh giãn dài khi nội mạc không bị sụp đổ hoàn toàn, hoặc xuất hiện dưới dạng spotting, rong kinh, rong huyết.  
 
-1. Nguyên nhân cơ năng do mất đồng bộ (lệch pha, hiện diện không đúng lúc) giữa estrogen và progesterone, xảy ra trong những giai đoạn trung gian của thời kỳ trước mãn kinh.
-2. Nguyên nhân cơ năng do vắng mặt hoàn toàn của progesterone trong những giai đoạn muộn của kỳ kinh.
-3. Nguyên nhân thực thể liên quan đến các hệ quả của trạng thái nội tiết chỉ có estrogen.
-4. Nguyên nhân thực thể tồn tại song hành không liên quan đến các biến đổi của chu kỳ buồng trứng.
+5. **Nguy cơ tăng sinh/nội mạc và ung thư**  
+   - Estrogen đơn độc kéo dài mà không có progesterone đối kháng làm tăng nguy cơ tăng sinh nội mạc (hyperplasia) và quá sản (atrophic endometrium có thay đổi kèm).  
+   - Ở giai đoạn sau, rong huyết khó kiểm soát có thể báo hiệu tăng sinh nội mạc điển hình, loạn sản hoặc ung thư nội mạc.
+
+### Nguyên nhân lớn nhất của xuất huyết tử cung bất thường quanh mãn kinh
+
+1. **Nguyên nhân cơ năng do rối loạn nội tiết (đồng bộ estrogen–progesterone)**  
+   - Giai đoạn trung gian: chu kỳ chồng lấn, bong tróc nội mạc không hoàn toàn → spotting hoặc rong kinh nhẹ.  
+   - Giai đoạn muộn: mất hoàn toàn progesterone trong chu kỳ không phóng noãn → bong tróc rời rạc, rong huyết.
+
+2. **Nguyên nhân thực thể liên quan đến tình trạng nội tiết mất cân bằng**  
+   - Tăng sinh nội mạc (simple/complex hyperplasia, không có hoặc có loạn sản).  
+   - U leiomyoma (u xơ tử cung) hoặc polyp tử cung được kích thích bởi estrogen tăng.  
+   - U nang buồng trứng sản xuất estrogen (hiếm ở tuổi này nhưng có thể xảy ra).
+
+3. **Nguyên nhân thực thể không liên quan trực tiếp đến chu kỳ buồng trứng**  
+   - Polyp nội mạc tử cung, u xơ trong lòng tử cung, viêm mạn nội mạc tử cung.  
+   - Ung thư cổ tử cung hoặc ung thư âm đạo (ít gặp ở nhóm tuổi này nhưng vẫn cần loại trừ).  
+   - Bệnh lý cổ tử cung lành tính (vết loét, viêm cổ tử cung chảy máu).
+
+4. **Yếu tố toàn thân góp phần**  
+   - Tăng huyết áp, đái tháo đường, béo phì: tác động gián tiếp lên chuyển hóa estrogen (estrone từ mô mỡ ngoại vi) và độ nhạy của nội mạc.  
+   - Thuốc (tamoxifen, hormone trị liệu thay thế không phối hợp đúng liều progesterone…) có thể làm tăng nguy cơ xuất huyết.
 
 ## Biểu hiện xuất huyết tử cung bất thường quanh mãn kinh
 
-Thay đổi theo giai đoạn của tình trạng tiền mãn kinh.
-
-Rối loạn độ dài của chu kỳ, với các chu kỳ ngắn lại là biểu hiện trước tiên của tình trạng suy giảm dự trữ buồng trứng. Chu kỳ ngắn lại là hệ quả của suy giảm ức chế Inhibin B trên tầng trên, gây tăng FSH, với hệ quả là đẩy nhanh pha noãn. Trong giai đoạn này, hoạt động phóng noãn và tính ổn định của hoàng thể vẫn còn bảo tồn. Do tương quan estrogen-progesterone không đổi, nên biểu hiện bên ngoài duy nhất là chu kỳ ngắn, không kèm thay đổi tính chất kinh.
-
-Thay đổi tính chất của kinh, thường là lượng kinh ít đi hay chảy máu điểm (spotting) trên chu kỳ vẫn ngắn là biểu hiện của giai đoạn trung chuyển. Các chu kỳ chồng lấn lên nhau là hệ quả của việc giải phóng trục khỏi ức chế inhibin B. Dự trữ càng kém, chu kỳ chồng lấn càng nhiều. Chu kỳ sau càng bị lún sâu vào chu kỳ trước, đến nỗi khi hoàng thể bị ly giải gây tụt giảm steroid thì đã có estrogen từ nang noãn của chu kỳ mới làm cho sự tụt giảm này "được" (bị) bù đắp ngay. Hệ quả là nội mạc tử cung lẽ ra phải bong tróc hoàn toàn thì chỉ bong tróc nửa vời. Kinh nguyệt xuất hiện dưới dạng rất ít, thậm chí chỉ là chảy máu điểm thấm băng (spotting).
-
-Kinh thưa, với các khoảng vô kinh xảy ra khi FSH đã khá cao, các chu kỳ buồng trứng trở nên rất ngắn, đến nỗi nang trưởng thành hiện diện ngay đầu chu kỳ, với hoạt động chế tiết estrogen ngăn cản hiện tượng sụp đổ của nội mạc. Điều kiện để hành kinh là phải có sự sụt giảm đột ngột và nhiều của steroids sinh dục. Trong bối cảnh này, do hoạt động nội tiết của nang trưởng thành đầu chu kỳ nên không còn xảy ra hiện tượng sụp đổ nội mạc được nữa. Người phụ nữ sẽ không có kinh, mặc dù vẫn có hiện tượng phóng noãn. Các chu kỳ liên tục nhau và lệch pha rất ít. Người phụ nữ chỉ có kinh khi nào không có sự hiện diện của nang noãn trưởng thành vào đầu chu kỳ. Điều này xảy ra khoảng 1 lần cho mỗi khoảng 3-4 chu kỳ buồng trứng. Tuy nhiên, do có sự lệch pha và chồng lấn, nên hiện tượng sụt giảm steroid có thể là chỉ tụt estrogen đơn thuần khi chưa có progesterone, hay tụt giảm đồng thời cả estrogen và progesterone. Tùy theo sự tụt giảm của 1 hay 2 steroid mà kinh nguyệt sẽ có đặc tính khác nhau. Tụt giảm của cả 2 steroids gây ra hành kinh với đặc điểm "tiêu chuẩn", còn tụt đơn thuần estrogen gây ra bong tróc không hoàn toàn nội mạc tử cung và gây ra rong kinh (ra kinh nhiều hoặc kéo dài hơn bình thường). Cũng trong thời kỳ này, có những lúc nồng độ steroid bị tụt ở khoảng giữa, khi nang noãn mới chưa đủ lớn và sự ly giải hoàng thể xảy ra, sẽ gây ra chảy máu ở thời điểm "bất ngờ" tức rong huyết (ra máu bất thường không có tính chu kỳ).
-
-Rong huyết là đặc điểm của các chu kỳ hoàn toàn không phóng noãn, trong các giai đoạn rất muộn. Estrogen đơn độc không progesterone là nguyên nhân của rong huyết ở thời điểm này. Trong giai đoạn này, chảy máu không còn hẳn hòi là cơ năng. Nguy cơ tăng sinh nội mạc tử cung và ung thư nội mạc đã thực sự tăng cao. LH căn bản cao dần do không còn bị ức chế bởi Inhibin B. Đến lúc nào đó, biên độ của đỉnh LH sẽ không còn đủ
-cao để khởi động phóng noãn. Chu kỳ không phóng noãn, với đặc trưng không có progesterone. Nội mạc bị bộc lộ với estrogen đơn độc, chỉ có phát triển mà không có phân tiết, dầy lên mãi rồi sụp đổ từng phần hay toàn phần ở các thời điểm bất kỳ, gây rong huyết. Nội mạc bị phơi bày liên tục với estrogen không progesterone đối kháng sẽ gây ra nguy cơ quá sản và tăng sinh nội mạc tử cung, là tổn thương tiền ung thư.
-
-Xuất huyết tử cung bất thường ở phụ nữ quanh mãn kinh không chỉ liên quan đến hoạt động phóng noãn. U xơ-cơ tử cung hiện diện trước đó, bệnh tuyến cơ tử cung, ung thư đường sinh dục là những nguyên nhân gây rong huyết độc lập, cần phải được tìm hiểu. Các yếu tố toàn thân khác như tăng huyết áp, đái tháo đường, béo phì có thể có ảnh hưởng gián tiếp trên hoạt động chế tiết steroid buồng trứng (không phóng noãn) hay steroid ngoài buồng trứng (chuyển hóa thuận nghịch estrone-estradiol thiên về estradiol trong mô mỡ ngoại vi). Do đó, việc loại trừ bệnh lý tăng sinh và ung thư nội mạc tử cung là điều không được bỏ sót đi kèm với việc đánh giá chẩn đoán đúng căn nguyên xuất huyết sẽ giúp thiết lập được điều trị hiệu quả.
-
-## Chiến lược tiếp cận
-
-Trước khi thiết lập chẩn đoán xuất huyết tử cung cơ năng, cần loại trừ các nguyên nhân liên quan đến:
-
-- Thai kỳ.
-- Các nguyên nhân thực thể tại tử cung: u xơ-cơ tử cung, polyps lòng tử cung, viêm mạn nội mạc tử cung.
-- Các nguyên nhân tại cổ tử cung-âm đạo.
-- Các nguyên nhân từ các cơ quan lận cận.
-
-Cần đặc biệt lưu tâm đến tăng sinh nội mạc tử cung và ung thư nội mạc tử cung trên những phụ nữ với xuất huyết tử cung bất thường quanh mãn kinh. tỷ lệ ung thư nội mạc tử cung tăng dần theo tuổi, với khoảng 2.3:100,000 phụ nữ trong độ tuổi 30-39, tăng lên tới 36.2:100,000 phụ nữ trong độ tuổi 40-49. Do đó Hiệp hội Sản Phụ khoa Hoa Kỳ (ACOG) khuyến cáo nên đánh giá nội mạc tử cung ở mọi phụ nữ trên 35 tuổi đến khám vì xuất huyết tử cung bất thường. Với phụ nữ dưới 35 tuổi nhưng kèm theo các yếu tố nguy cơ của ung thư nội mạc tử cung như tăng huyết áp, đái tháo đường, béo phì… cũng cần đánh giá để loại trừ bệnh lý ác tính này.
-
-Siêu âm đường âm đạo là phương tiện rẻ tiền, không xâm lấn và tiện lợi trong việc khảo sát buồng tử cung. Siêu âm bơm nước (SIS) rất thích hợp cho các tổn thương khu trú, trong buồng tử cung.
+- **Chu kỳ ngắn hơn**: Giai đoạn đầu của perimenopause, chu kỳ rút ngắn nhưng vẫn đều, không thay đổi tính chất máu.  
+- **Spotting/Rong kinh nhẹ**: Giai đoạn giữa, khi nội mạc không bong tróc hoàn toàn. Xuất huyết ít, thường thoáng qua giữa các chu kỳ.  
+- **Chu kỳ thưa thớt, có lúc vô kinh**: Khi nang noãn phát triển ngay đầu chu kỳ mới, estrogen duy trì lớp nội mạc, không có giảm đột ngột → không hành kinh dù vẫn có phóng noãn. Khi nào có pha tụt steroid mới xuất huyết, nhưng không định kỳ.  
+- **Rong huyết nặng**: Giai đoạn muộn, chu kỳ không phóng noãn hoàn toàn, nội mạc tiếp xúc estrogen đơn độc → bong tróc rời rạc hoặc ồ ạt, gây rong huyết liên tục.  
+- **Xuất huyết không tự giới hạn**: Cần lưu ý nguy cơ tăng sinh nội mạc, loạn sản hoặc ung thư, thường gặp rong huyết kéo dài, kèm đau bụng dưới, rối loạn đại tiểu tiện.
 
 :::caution[Lưu ý]
-Hình ảnh trên siêu âm phụ thuộc vào thời điểm trong chu kỳ kinh nguyệt. Thời điểm được chọn để thực hiện siêu âm khảo sát bệnh lý nội mạc tử cung là ngay sau sạch kinh, lúc nội mạc tử cung là mỏng nhất. Lý do của lựa chọn này là để thu được hình ảnh khách quan về buồng tử cung. Việc thực hiện siêu âm trễ trong pha noãn, lúc nội mạc tử cung đã phát triển nhiều dưới estrogen đôi khi sẽ gây nhầm lẫn với những hình ảnh như polyps hay tăng sinh nội mạc tử cung khu trú, dẫn đến các can thiệp không cần thiết.
+Xuất huyết bất thường ở phụ nữ quanh mãn kinh không chỉ do rối loạn phóng noãn. U xơ tử cung, polyp, viêm nội mạc, ung thư là các nguyên nhân thực thể cần được loại trừ. Các yếu tố toàn thân (tăng huyết áp, đái tháo đường, béo phì) làm tăng chuyển hóa estrogen ngoại sinh và nội sinh, góp phần vào cơ chế tăng sinh nội mạc.
 :::
 
 ![Tăng sinh nội mạc tử cung trên siêu âm](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/hinh-anh-sieu-am-tang-sinh-noi-mac-tu-cung.png)
 
-_Tăng sinh nội mạc tử cung.<br> Nội mạc tử cung có bề dầy 21.6mm đầu chu kỳ là bất thường. Không thể thiết lập chẩn đoán xuất huyết tử cung cơ năng khi có hình ảnh này._
+_Tăng sinh nội mạc tử cung: nội mạc dày 21.6mm đầu chu kỳ là bất thường. Không thể chẩn đoán cơ năng khi có hình ảnh này._
 
 ![Siêu âm bơm nước buồng tử cung](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/sieu-am-bom-nuoc-buong-tu-cung.png)
 
-_Siêu âm bơm nước buồng tử cung (SIS).<br> Hình ảnh polyps lòng tử cung. Không thể thiết lập chẩn đoán xuất huyết tử cung cơ năng khi có hình ảnh này._
+_Siêu âm bơm nước buồng tử cung (SIS): phát hiện polyp lòng tử cung. Khi có tổn thương khu trú như này, không thể chẩn đoán xuất huyết cơ năng._
 
-Sinh thiết nội mạc tử cung sẽ cung cấp thông tin giải phẫu bệnh về tình trạng của nội mạc tử cung, qua đó giúp chẩn đoán được nguyên nhân thật sự của xuất huyết tử cung bất thường. Sinh thiết mù có thể được thực hiện qua nong và nạo (D&C). Ngày nay, D&C dần được thay thế bằng những thủ thuật đơn giản, rẻ tiền và tiện lợi hơn cho người bệnh. Pipelle® là catheter nhựa, nhỏ, không gây đau, cho phép thực hiện sinh thiết ở tại ngoại trú với gây tê tại chổ hoặc thậm chí không biện pháp vô cảm nào được sử dụng. Các trường hợp âm tính giả thường gặp là do tổn thương nằm khu trú như polyps hoặc tăng sinh khu trú nội mạc tử cung. Khả năng bỏ sót tổn thương lên đến 33% khi bề mặt tổn thương khu trú dưới 5% diện tích buồng tử cung.
+## Chiến lược tiếp cận
 
-Nội soi buồng tử cung cung cấp hình ảnh trực tiếp của nội mạc tử cung và giúp sinh thiết (hoặc phẫu thuật lấy bỏ) đúng vùng tổn thương cần khảo sát. Soi buồng tử cung đặc biệt có giá trị trong các trường hợp sinh thiết mù không cho kết quả phù hợp với chẩn đoán lâm sàng. Tuy nhiên, soi buồng tử cung là thủ thuật cần dụng cụ chuyên dùng, thực hiện tại phòng mổ với nhân lực được huấn luyện thành thạo. Do đó, cần lựa chọn đúng bệnh nhân để tránh những can thiệp quá mức không cần thiết.
+Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại trừ:
+
+- **Thai kỳ**: Luôn xét nghiệm β-hCG cho phụ nữ độ tuổi sinh sản, dù khả năng có thai quanh mãn kinh thấp (< 1%).  
+- **Nguyên nhân tại tử cung**:  
+  - U xơ tử cung, polyp nội mạc, viêm nội mạc tử cung, dính buồng tử cung.  
+  - DỊ dạng bẩm sinh hiếm gặp (hội chứng Asherman…).  
+- **Nguyên nhân tại cổ tử cung–âm đạo**:  
+  - Viêm cổ tử cung mạn, loạn sản hay ung thư biểu mô cổ tử cung, lạc nội mạc cổ tử cung.  
+- **Nguyên nhân từ các cơ quan lận cận**:  
+  - Xuất huyết đường tiết niệu (thận, bàng quang), tiêu hóa (trực tràng) chảy xuống âm đạo giả.  
+  - Chấn thương vùng chậu, sa tạng, tổn thương âm hộ.
+
+### Các bước thăm khám và cận lâm sàng
+
+1. **Hỏi tiền sử và khám lâm sàng**  
+   - Tuổi mãn kinh dự kiến, tiền sử chu kỳ trước đó (độ dài, tính chất, lượng máu).  
+   - Triệu chứng đi kèm: đau bụng dưới, rối loạn tiểu tiện, thay đổi cân nặng, bứt rứt, khó ngủ (các dấu hiệu tiền mãn kinh).  
+   - Tiền sử bệnh lý: tăng huyết áp, đái tháo đường, béo phì, rối loạn đông máu, dùng tamoxifen hoặc liệu pháp hormone thay thế.  
+   - Khám tổng quát: đánh giá tình trạng mất máu (da niêm nhợt, mệt, choáng váng), dấu hiệu tăng sản androgen (nếu nghi PCOS muộn).  
+   - Khám phụ khoa: kiểm tra lâm sàng tử cung (kích thước, hình dạng), buồng trứng qua siêu âm (nếu cần). Khám cổ tử cung (Pap smear/nội soi cổ tử cung nếu chỉ định).
+
+2. **Siêu âm đầu dò âm đạo (TVUS)**  
+   - Thời điểm tối ưu: ngay sau sạch kinh để đo độ dày nội mạc mỏng nhất (thông thường < 4–5 mm).  
+   - Đặc điểm cần ghi nhận:  
+     - Độ dày nội mạc: ≥ 5 mm ở phụ nữ quanh mãn kinh cần đánh giá thêm.  
+     - Hình thái nội mạc: đều mỏng, lòng tử cung không có khối, không có kẽ tăng tín hiệu nhấp nhô.  
+     - Tổn thương khu trú: polyp (có cuống), u xơ dưới niêm mạc, nang buồng trứng sản xuất estrogen.  
+   - **Siêu âm bơm nước (SIS)** nếu nghi polyp hoặc dính buồng tử cung: bơm nước làm nổi bật khối, giúp xác định vị trí và kích thước tổn thương.
+
+:::caution[Lưu ý]
+Hình ảnh siêu âm phụ thuộc vào pha chu kỳ. Thực hiện sau sạch kinh giúp tránh nhầm tăng sinh nội mạc giả do nội mạc phát triển dưới estrogen giai đoạn giữa chu kỳ.
+:::
+
+3. **Sinh thiết nội mạc tử cung**  
+   - **Chỉ định ngay**:  
+     - Phụ nữ ≥ 35 tuổi có xuất huyết bất thường.  
+     - Bất kỳ phụ nữ nào có yếu tố nguy cơ ung thư nội mạc (tăng huyết áp, đái tháo đường, béo phì, tiền sử tăng sinh nội mạc).  
+     - Nội mạc dày ≥ 5 mm trên siêu âm (hoặc ≥ 4 mm nếu có tamoxifen).  
+   - **Phương pháp**:  
+     - **Pipelle® biopsy** (tiêu chuẩn): nhanh, không cần gây mê, thực hiện tại phòng khám.  
+     - **Nong và nạo (D&C)**: khi Pipelle không lấy đủ mẫu, hoặc nghi ngờ nốt tăng sinh khu trú.  
+   - **Hạn chế**:  
+     - Khả năng bỏ sót tổn thương khu trú lên đến 30% nếu diện tích bất thường < 5% buồng tử cung.  
+     - Kết quả âm tính giả có thể xảy ra, cần nội soi nếu vẫn có nghi ngờ.
+
+4. **Nội soi buồng tử cung (Hysteroscopy)**  
+   - **Chỉ định**:  
+     - Kết quả sinh thiết mù không phù hợp với cận lâm sàng/ lâm sàng.  
+     - Nghi ngờ polyp, u xơ dưới niêm mạc, dính buồng tử cung mà siêu âm không rõ ràng.  
+   - **Ưu điểm**: Quan sát trực tiếp nội mạc, lấy mẫu tổn thương khu trú hoặc cắt bỏ polyp/u xơ dưới nội soi.  
+   - **Nhược điểm**: Cần trang thiết bị chuyên dụng, bác sĩ có kinh nghiệm và thường phải thực hiện trong phòng mổ hoặc phòng thủ thuật có gây mê/ gây tê.
 
 ![Lưu đồ tiếp cận xuất huyết tử cung bất thường quanh mãn kinh](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/luu-do-tiep-can-xuat-huyet-tu-cung-sau-man-kinh.png)
 
-_Lưu đồ tiếp cận xuất huyết tử cung bất thường quanh mãn kinh.<br>Trong lưu đồ, độ dầy nội mạc tử cung qua siêu âm thực hiện qua đường âm đạo vào N4-6 của chu kỳ là thông tin sơ cấp, giúp định hướng các thăm dò thứ cấp, có thể là D&C hay soi buồng tử cung._
+_Lưu đồ tiếp cận xuất huyết tử cung bất thường quanh mãn kinh.<br>Trong lưu đồ, độ dày nội mạc qua siêu âm đầu dò vào ngày N4–6 của chu kỳ (hoặc ngay sau sạch kinh) là thông tin sơ cấp, giúp định hướng các thăm dò thứ cấp (D&C hoặc soi buồng tử cung)._
 
 ## Nguyên tắc điều trị
 
-Việc quyết định có hay không tiến hành các điều trị cầm máu cho xuất huyết tử cung cơ năng quanh mãn kinh tùy thuộc vào nhiều yếu tố:
+Việc quyết định điều trị phụ thuộc vào:
 
-- Tình trạng ảnh hưởng của xuất huyết bất thường có nghiêm trọng hay không?
-- Tình trạng hoạt động của buồng trứng ở thời điểm hiện tại.
-- Các yếu tố tùy hành khác.
+- **Mức độ nặng của xuất huyết** (mất máu cấp hay mạn, ảnh hưởng sinh hoạt).  
+- **Kết quả loại trừ nguyên nhân thực thể/ ác tính**.  
+- **Tình trạng buồng trứng** (còn hoạt động hay đã chuyển sang chu kỳ hoàn toàn không phóng noãn).  
+- **Yêu cầu sinh đẻ** (ở giai đoạn này đa phần đã không có nhu cầu hoặc đã hoàn thành).
 
-Nếu xuất huyết nghiêm trọng, liệu pháp cầm máu nhanh và hiệu quả nhất là nạo buồng tử cung. Xuất huyết nghiêm trọng phần lớn là do sự sụp đổ của nội mạc tử cung sau thời gian dài phơi nhiễm với estrogen. Nạo buồng tử cung giúp cầm máu, và đồng thời cung cấp thêm thông tin mô bệnh học cho xử trí theo sau.
+1. **Xuất huyết nặng cấp tính**  
+   - **Nạo buồng tử cung (D&C)**: cầm máu nhanh, lấy mẫu mô để làm giải phẫu bệnh.  
+   - Đồng thời bù dịch, truyền máu/các chế phẩm máu nếu cần thiết (Hb < 7–8 g/dL hoặc mất máu cấp).  
+   - Sau khi ổn định, xem xét kết quả sinh thiết để hướng điều trị tiếp theo.
 
-Nếu xuất huyết ảnh hưởng đến chất lượng cuộc sống, và ác tính đã được loại trừ, thì liệu pháp trên nền tảng progestogen có thể được dùng. Progestogen được chọn là các progestogen có hoạt tính kháng estrogen mạnh, thường là dẫn xuất của nor-19 testosterone. Progestogen có thể được dùng bằng nhiều đường khác nhau. Đường uống, dụng cụ tử cung phóng thích levonorgestrel có thể là các lựa chọn thích hợp.
+2. **Xuất huyết vừa phải–nhẹ, đã loại trừ ác tính**  
+   - **Liệu pháp progestogen**:  
+     - Ưu tiên progestin có hoạt tính kháng estrogen mạnh, ít ức chế trục HPG (ví dụ: Medroxyprogesterone acetate, Dydrogesterone, hoặc Levonorgestrel IUD).  
+     - Liều tham khảo:  
+       - Medroxyprogesterone acetate 10–20 mg/ngày (ngày 5–25 chu kỳ), hoặc  
+       - Dydrogesterone 10 mg × 2/ngày trong 10–14 ngày.  
+       - Levonorgestrel intrauterine device (LNG-IUD) phóng thích 20 µg/ngày có thể dùng để điều trị dài hạn, vừa cầm máu vừa ngừa tăng sinh nội mạc.  
+   - **Liệu pháp phối hợp estrogen–progestogen (COC)**:  
+     - Dùng 21 ngày liên tục (Ethinyl estradiol 30 µg + Levonorgestrel 150 µg), sau đó nghỉ 7 ngày.  
+     - Ưu tiên ngắn hạn, không khuyến cáo dùng lâu dài ở quanh mãn kinh vì ức chế trục mạnh.  
+   - **Theo dõi**:  
+     - Lịch kinh (menstrual calendar), cân nặng, huyết áp, xét nghiệm định kỳ (nếu dùng IUD cần khám siêu âm kiểm tra vị trí).  
+     - Đánh giá lại độ dày nội mạc sau 3–6 tháng, nếu vẫn > 5 mm hoặc tái xuất huyết, cần làm lại sinh thiết.
 
-Nội soi buồng tử cung cắt đốt nội mạc cắt bỏ hẳn lớp nội mạc tử cung hoạt động, về bản chất không khác cắt tử cung, là giải pháp xâm lấn tối thiểu. Cắt đốt bỏ nội mạc tử cung nhằm giải quyết xuất huyết tử cung cơ năng bất thường được chỉ định ở người không còn có nhu cầu sử dụng tử cung trong mục tiêu sinh con.
+3. **Điều trị ngoại khoa (xâm lấn tối thiểu)**  
+   - **Cắt đốt nội mạc tử cung (Endometrial ablation)**:  
+     - Thực hiện qua soi buồng tử cung, làm tiêu hủy lớp nội mạc tận gốc.  
+     - Giải pháp hiệu quả cho bệnh nhân không có nhu cầu sinh thêm, muốn tránh phẫu thuật kéo dài.  
+     - Hạn chế: Không áp dụng cho người nghi ngờ tăng sinh nội mạc hoặc ung thư.  
+   - **Cắt tử cung (Hysterectomy)**:  
+     - Dành cho các trường hợp:  
+       - Điều trị bảo tồn thất bại (tái xuất huyết, tăng sinh/loạn sản nội mạc).  
+       - Có kèm bệnh lý thực thể nặng (u xơ lớn, polyp tái phát, lạc nội mạc tử cung nặng…).  
+     - Phương pháp: mổ mở, mổ nội soi hoặc mổ robotic tùy tình trạng và kỹ thuật của cơ sở.
 
-Xem thêm tại điều trị [Xuất huyết tử cung do cơ năng](/phu-khoa/xuat-huyet-tu-cung/01_xuat-huyet-tu-cung-co-nang/).
+4. **Theo dõi dài hạn**  
+   - Sau điều trị, kiểm tra độ dày nội mạc 6–12 tháng/lần nếu còn dùng progestogen/chưa phẫu thuật.  
+   - Ngưng hẳn liệu pháp nội tiết khi chuyển sang giai đoạn mãn kinh hoàn toàn (> 12 tháng vô kinh) và nội mạc mỏng (< 4 mm).  
+   - Tiếp tục tầm soát ung thư cổ tử cung theo hướng dẫn chuẩn (Pap smear/HPV test).
 
 ## Nguồn tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_  
+- UpToDate (2024) – _Abnormal uterine bleeding in perimenopausal women (truy cập tháng 5/2025)_
+- ACOG Practice Bulletin No. 128 (2021) – _Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women_  
+- WHO (2018) – _Abnormal uterine bleeding: Malta consensus on short-term medical management_
