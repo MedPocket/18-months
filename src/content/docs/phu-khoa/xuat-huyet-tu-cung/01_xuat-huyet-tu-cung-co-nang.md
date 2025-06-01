@@ -62,16 +62,16 @@ _Acantosis nigricans, rậm lông và mụn trứng cá nặng.<br>Đây là cá
 
 ### Cận lâm sàng
 
-| Loại xét nghiệm                     | Mục đích                                                                 |
-|--------------------------------------|--------------------------------------------------------------------------|
-| **hCG (nước tiểu hay máu)**              | Loại trừ thai                                                            |
-| **Chức năng đông máu**                   | Loại trừ bệnh lý rối loạn đông máu                                       |
-| **Pap smear (đơn độc hay co-testing với HPV)** | Loại trừ ung thư cổ tử cung                                       |
-| **FSH**                                  | > 40 IU/L giúp chẩn đoán suy buồng trứng hay mãn kinh                    |
-| **TSH**                                  | Loại trừ bệnh lý tuyến giáp                                              |
-| **Prolactin máu**                        | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn                     |
-| **MRI sọ não**                           | Nếu prolactin > 100 ng/mL, cần thêm MRI để khảo sát microadenoma tuyến yên |
-| **Chỉ số testosterone tự** do                         | Chẩn đoán tình trạng cường androgen trong hội chứng buồng trứng đa nang  |
+| Loại xét nghiệm                                | Mục đích                                                                   |
+| ---------------------------------------------- | -------------------------------------------------------------------------- |
+| **hCG (nước tiểu hay máu)**                    | Loại trừ thai                                                              |
+| **Chức năng đông máu**                         | Loại trừ bệnh lý rối loạn đông máu                                         |
+| **Pap smear (đơn độc hay co-testing với HPV)** | Loại trừ ung thư cổ tử cung                                                |
+| **FSH**                                        | > 40 IU/L giúp chẩn đoán suy buồng trứng hay mãn kinh                      |
+| **TSH**                                        | Loại trừ bệnh lý tuyến giáp                                                |
+| **Prolactin máu**                              | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn                       |
+| **MRI sọ não**                                 | Nếu prolactin > 100 ng/mL, cần thêm MRI để khảo sát microadenoma tuyến yên |
+| **Chỉ số testosterone tự** do                  | Chẩn đoán tình trạng cường androgen trong hội chứng buồng trứng đa nang    |
 
 _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng._
 
