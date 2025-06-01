@@ -7,7 +7,7 @@ description: Tầm soát và dự phòng tiền sản giật trong tam cá nguy�
 
 Thực hiện từ tuần 11 đến tuần 13+6, kết hợp:
 
-- **Yếu tố mẹ:**
+- **Yếu tố mẹ**:
 
   - Tuổi mẹ.
   - Chiều cao, cân nặng, BMI.
@@ -16,19 +16,19 @@ Thực hiện từ tuần 11 đến tuần 13+6, kết hợp:
   - Hút thuốc lá.
   - Tiền sử tăng huyết áp mạn.
 
-- **Tiền căn nội khoa:**
+- **Tiền căn nội khoa**:
 
   - Tăng huyết áp mạn.
   - Đái tháo đường type 1 hoặc 2.
   - Lupus ban đỏ hệ thống.
   - Hội chứng kháng phospholipid.
 
-- **Tiền căn sản khoa:**
+- **Tiền căn sản khoa**:
 
   - Con so (chưa từng sinh ≥ 24 tuần).
   - Con rạ (ít nhất 1 lần sinh ≥ 24 tuần).
 
-- **Sinh hóa & siêu âm:**
+- **Sinh hóa & siêu âm**:
 
   - PAPP-A, PlGF.
   - Doppler động mạch tử cung.
@@ -53,7 +53,7 @@ _Bảng đánh giá lâm sàng nguy cơ tiền sản giật._
   - Khởi trị khi nguy cơ FMF > 1/100.
   - Tiếp tục đến tuần 36.
 
-- **Theo ACOG:**
+- **Theo ACOG**:
   - Khởi aspirin từ tuần 12–16, tối đa không muộn hơn 28 tuần.
   - Dừng vào tuần 36.
 

@@ -26,11 +26,11 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 
 :::note[Chẩn đoán chửa ngoài tử cung tại ống dẫn trứng chưa vỡ]
 
-**Triệu chứng cơ năng:**
+**Triệu chứng cơ năng**:
 
 - Tam chứng điển hình: trễ kinh, ra huyết âm đạo bất thường (thường ít, kéo dài), đau bụng vùng hạ vị.
 
-**Thăm khám thực thể:**
+**Thăm khám thực thể**:
 
 - Sinh hiệu bình thường.
 - Bụng không căng, có thể có cảm ứng phúc mạc nhẹ.
@@ -39,15 +39,15 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 - Cổ tử cung mềm, tím.
 - Âm đạo có thể ra huyết hoặc không.
 
-**Cận lâm sàng:**
+**Cận lâm sàng**:
 
-- **β-hCG huyết thanh:**
+- **β-hCG huyết thanh**:
 
   - Định lượng cách nhau 48 giờ.
   - Nếu β-hCG tăng ≥ 60% sau 48h → theo dõi thai trong tử cung.
   - Nếu tăng không đạt chuẩn hoặc giảm → nghi CNTC.
 
-- **Siêu âm:**
+- **Siêu âm**:
 
   - Chẩn đoán xác định khi túi thai có yolk sac hoặc phôi nằm ở phần phụ, và tử cung không có túi thai.
   - β-hCG > 1500 mIU/mL: nên thấy túi thai qua siêu âm ngả âm đạo.
@@ -57,7 +57,7 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 
 - **Nội soi ổ bụng**: là tiêu chuẩn vàng nhưng có thể bỏ sót nếu khối thai còn nhỏ.
 
-- **Hút/nạo buồng tử cung:**
+- **Hút/nạo buồng tử cung**:
   - Thực hiện nếu không thấy vị trí thai rõ ràng.
   - Mô bệnh học thấy gai nhau → sẩy thai sớm.
   - Không thấy gai nhau và β-hCG không giảm → nghi CNTC.
@@ -66,28 +66,28 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 
 ### Chửa ngoài tử cung tại ống dẫn trứng đã vỡ
 
-**Triệu chứng:**
+**Triệu chứng**:
 
 - Tam chứng điển hình: trễ kinh, ra huyết âm đạo, đau bụng dữ dội vùng hạ vị (có thể lan vai), dấu hiệu kích thích phúc mạc.
 
-**Thực thể:**
+**Thực thể**:
 
 - Sinh hiệu thay đổi: huyết áp tụt, mạch nhanh.
 - Bụng co cứng, đau dữ dội.
 - Khám âm đạo thấy tử cung và phần phụ rất đau, khó xác định do phản ứng.
 - Cùng đồ sau đau, có thể phồng.
 
-**Cận lâm sàng:**
+**Cận lâm sàng**:
 
 - Chọc dò cùng đồ: máu sẫm, không đông (cân nhắc chỉ định do xâm lấn).
 
 ### Huyết tụ thành nang
 
-**Triệu chứng:**
+**Triệu chứng**:
 
 - Trễ kinh, ra huyết kéo dài, đau bụng vùng chậu kéo dài.
 
-**Thực thể:**
+**Thực thể**:
 
 - Có thể thấy khối cạnh tử cung giới hạn không rõ, căng đau.
 - Thiếu máu mạn tính nhẹ.
@@ -97,7 +97,7 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 - Hiếm gặp: khoảng 1/10.000–1/25.000 trường hợp.
 - Thai nằm ngoài tử cung, trong ổ bụng, thường do thai thoát khỏi vòi trứng sau vỡ.
 
-**Chẩn đoán:**
+**Chẩn đoán**:
 
 - Sờ bụng thấy thai sát thành bụng, có thể có ngôi bất thường.
 - Siêu âm: thai nằm xen giữa quai ruột, không nằm trong tử cung.

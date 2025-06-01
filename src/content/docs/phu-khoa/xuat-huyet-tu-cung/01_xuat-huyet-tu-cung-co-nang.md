@@ -1,64 +1,92 @@
 ---
 title: Xuất huyết tử cung do cơ năng
-description: Xuất huyết tử cung do cơ năng.
+description: Cơ chế, nguyên nhân, cách tiếp cận chẩn đoán và xử trí tình trạng xuất huyết tử cung do rối loạn nội tiết, không do nguyên nhân thực thể hoặc thai kỳ.
 ---
 
-Xuất huyết tử cung chức năng là kiểu xuất huyết tử cung bất thường gây ra do các cơ chế liên quan đến hoạt động nội tiết buồng trứng hay sử dụng nội tiết ngoại lai. Thuật ngữ xuất huyết tử cung chức năng loại trừ tất cả các xuất huyết tử cung có liên quan đến các bệnh lý thực thể của vùng chậu, bệnh lý nội khoa hay do thai. Chẩn đoán của xuất huyết tử cung chức năng là chẩn đoán loại trừ.
+Xuất huyết tử cung chức năng là kiểu xuất huyết tử cung bất thường gây ra do các cơ chế liên quan đến hoạt động nội tiết của buồng trứng hoặc do sử dụng nội tiết ngoại lai. Thuật ngữ này loại trừ tất cả các trường hợp xuất huyết tử cung có liên quan đến bệnh lý thực thể vùng chậu, bệnh lý nội khoa hoặc thai nghén. Chẩn đoán xuất huyết tử cung chức năng là một chẩn đoán loại trừ, chỉ được đưa ra sau khi đã loại trừ các nguyên nhân thực thể và nội khoa khác.
 
 ## Cơ chế
 
-Xuất huyết tử cung chức năng thường do nội mạc tử cung mất đi sự kích thích của nội tiết có chu kỳ từ các chu kỳ có phóng noãn, estrogen trong nửa đầu của chu kỳ và progesterone kết hợp với estrogen ở trong nửa sau của chu kỳ. Nội mạc tử cung chịu tác động kích thích của estrogen đơn độc kéo dài, nội mạc tử cung tăng trưởng liên tục nhưng không bong ra có chu kỳ. Sự tăng trưởng liên tục của nội mạc tử cung làm cho các mạch máu nuôi không theo kịp để cung cấp máu cho nội mạc tử cung. Mô nội mạc tử cung bị thiếu máu, hoại tử không đồng đều, bong ra từng phần, gây xuất huyết tử cung. Nội mạc tử cung bong tróc không đều cũng dẫn đến hệ quả là quá trình tái tạo nội mạc tử cung cũng không đồng đều và cũng không đều đặn.
+Xuất huyết tử cung chức năng thường xảy ra khi nội mạc tử cung không còn chịu ảnh hưởng của nội tiết có chu kỳ. Trong chu kỳ có phóng noãn, nội mạc tử cung phát triển dưới tác động của estrogen ở nửa đầu chu kỳ, sau đó là sự kết hợp của estrogen và progesterone ở nửa sau. Khi không có phóng noãn, estrogen đơn độc tiếp tục kích thích nội mạc tử cung kéo dài, dẫn đến tăng sinh liên tục mà không bong tróc theo chu kỳ. Điều này khiến các mạch máu nuôi nội mạc không đủ cung cấp máu, gây thiếu máu cục bộ, hoại tử từng vùng, bong tróc không đều và gây ra xuất huyết tử cung.
 
-Sự kích thích liên tục của estrogen ở nồng độ thấp thường gây ra xuất huyết tử cung chức năng nhẹ, không thường xuyên. Sự kích thích liên tục của estrogen ở nồng độ cao sẽ dẫn đến những đợt xuất huyết tử cung nặng và thường xuyên.
+- Sự kích thích liên tục của **estrogen liều thấp** thường gây ra xuất huyết tử cung nhẹ, không thường xuyên.
+- Sự kích thích liên tục của **estrogen liều cao** dẫn đến những đợt xuất huyết tử cung nhiều và kéo dài.
 
 ## Nguyên nhân
 
-Khoảng 20% số người bị xuất huyết tử cung chức năng là ở tuổi dậy thì. Trong vòng 18 tháng đầu sau lần đầu tiên có kinh, trục hạ đồi-tuyến yên-buồng trứng chưa trưởng thành hoàn toàn nên có thể không đáp ứng đầy đủ (thể hiện qua các feedback) với estrogen và progesterone, gây ra không phóng noãn.
+### Tuổi dậy thì (~ 20%)
 
-Khoảng 50% ở tuổi 40-50. Ở phụ nữ lớn tuổi, tiền mãn kinh, cả số lượng và chất lượng của các nang noãn cùng bị giảm. Các nang noãn vẫn phát triển nhưng cơ chế tạo đỉnh LH gây phóng noãn bị hỗn loạn do nồng độ gonadotropin cơ bản tăng cao do giải phóng trục, hệ quả của tình trạng thiếu hụt hay vắng mặt của Inhibin B. Nang noãn không phóng noãn vẫn tiếp tục sản xuất estrogen lượng ít kéo dài, kèm theo đó là vắng mặt của progesterone làm dày nội mạc tử cung, gây ra xuất huyết tử cung do tiếp xúc estrogen kéo dài.
+Trong vòng 18 tháng đầu sau khi hành kinh, trục hạ đồi - tuyến yên - buồng trứng chưa trưởng thành hoàn toàn nên có thể không đáp ứng đầy đủ với estrogen và progesterone, dẫn đến tình trạng không phóng noãn và xuất huyết tử cung chức năng.
 
-Ở các phụ nữ béo phì, estrone có nguồn gốc ngoài buồng trứng, chủ yếu từ mô mỡ ngoại vi tích lũy và làm dày nội mạc tử cung gây xuất huyết tử cung chức năng do tiếp xúc estrogen kéo dài.
+### Tuổi tiền mãn kinh (~ 50%)
 
-Thiếu hụt giai đoạn hoàng thể cũng có thể gây ra xuất huyết tử cung chức năng do sự sản xuất progesterone bị giảm hay gây tác động không đầy đủ. Kích thích không đầy đủ của progesterone có thể kết hợp với nồng độ estrogen bình thường, cao hay thấp sẽ gây ra vấn đề giống như chu kỳ không phóng noãn.
+Ở phụ nữ tuổi 40–50, số lượng và chất lượng nang noãn đều giảm. Các nang noãn phát triển nhưng không tạo đỉnh LH để gây phóng noãn, do nồng độ gonadotropin cơ bản tăng cao (giảm Inhibin B). Nang noãn tiếp tục sản xuất lượng nhỏ estrogen kéo dài, không có progesterone đối kháng, gây tăng sinh nội mạc tử cung và xuất huyết tử cung chức năng.
 
-Hội chứng buồng trứng đa nang và tăng prolactin máu là 2 trạng thái rối loạn nội tiết có thể gây ra xuất huyết tử cung chức năng thường gặp:
+### Phụ nữ béo phì
 
-- Tăng prolactin máu ức chế hoạt động tuyến yên, và do đó gây rối loạn hoạt động của buồng trứng. Tăng prolactin máu có thể là do nguyên nhân thực thể là microadenoma tuyến yên hay do nguyên nhân cơ năng do dùng các thuốc có tác động hướng thần kinh hay nhiều thuốc khác. Thuốc chống say tàu xe, thuốc kháng bơm proton trong điều trị loét dạ dày-tá tràng, các thuốc điều trị tâm thần… có thể gây ra các tình trạng tăng prolactin máu.
-- Hội chứng buồng trứng đa nang là hội chứng do rất nhiều nguyên nhân khác nhau, có chung đặc điểm là các nang noãn không phát triển được, không đi đến hình thành các nang vượt trội, và do đó không có phóng noãn. Các chu kỳ không phóng noãn là nguyên nhân của xuất huyết tử cung chức năng ở hội chứng buồng trứng đa nang.
+Ở phụ nữ béo phì, estrone (một dạng estrogen) có thể được tổng hợp từ androgen tại mô mỡ ngoại vi thông qua enzym aromatase. Lượng estrone này không có đối kháng của progesterone, dẫn đến nội mạc tử cung bị kích thích kéo dài, gây xuất huyết tử cung chức năng.
 
-Xuất huyết tử cung chức năng do sử dụng nội tiết ngoại lai là tình trạng rất thường gặp:
+### Thiếu hụt giai đoạn hoàng thể
 
-- Thuốc viên tránh thai nội tiết kết hợp estrogen-progestogen với hàm lượng ethinyl estradiol thấp có thể gây xuất huyết tử cung chức năng nhẹ và kéo dài do nội mạc tử cung không được chuẩn bị đầy đủ với estrogen.
-- Thuốc tránh thai khẩn cấp dùng progestin liều cao có thể gây xuất huyết tử cung chức năng do mất sự cân bằng giữa estrogen và progesterone, kiểu tương tự như sụp đổ nội mạc do ngưng steroid đột ngột.
-- Thuốc tránh thai khẩn cấp dùng selective progesterone receptor modulator (SPRM) có thể xuất huyết tử cung chức năng do tác dụng ly giải hoàng thể sớm và tác dụng kháng progesterone trên nội mạc tử cung.
-- Các hệ thống phóng thích steroid tác dụng dài (LASDS) như que cấy tránh thai phóng thích progestin, thuốc tiêm progestin liều cao cũng như các viên thuốc tránh thai chỉ có progestin đơn thuần (POP) gây xuất huyết tử cung bất thường do mất cân bằng estrogen và progesterone.
+Tình trạng này xảy ra khi buồng trứng có phóng noãn nhưng hoàng thể không sản xuất đủ progesterone, hoặc đáp ứng nội mạc tử cung với progesterone không đầy đủ. Điều này làm rối loạn chu kỳ nội mạc tương tự như không phóng noãn.
+
+### Rối loạn nội tiết thường gặp
+
+- **Tăng prolactin máu**: Ức chế hoạt động trục hạ đồi - tuyến yên - buồng trứng, gây rối loạn phóng noãn. Nguyên nhân có thể do u tuyến yên (microadenoma), thuốc hướng thần kinh, thuốc kháng histamin, thuốc kháng bơm proton, thuốc chống nôn, thuốc điều trị trầm cảm...
+
+- **Hội chứng buồng trứng đa nang (PCOS)**: Do rối loạn phát triển nang noãn, không hình thành nang trội, dẫn đến không phóng noãn. Đây là nguyên nhân phổ biến gây xuất huyết tử cung chức năng.
+
+### Do sử dụng nội tiết ngoại lai
+
+- **Thuốc tránh thai kết hợp (estrogen-progestogen)**: Loại liều thấp (ethinyl estradiol dưới 20 µg) có thể gây xuất huyết nhẹ, kéo dài.
+- **Thuốc tránh thai khẩn cấp**: Dùng progestin liều cao hoặc SPRM (selective progesterone receptor modulator) gây mất cân bằng estrogen-progesterone, dẫn đến bong nội mạc tử cung sớm.
+- **Các hệ thống phóng thích steroid kéo dài (que cấy, thuốc tiêm progestin, viên uống progestin đơn thuần)**: Dễ gây mất cân bằng nội tiết và xuất huyết tử cung bất thường.
 
 ## Tiếp cận
 
-Hỏi bệnh sử chi tiết về đặc điểm chảy máu và các yếu tố liên quan cho phép định hướng chẩn đoán. Hỏi bệnh sử cần chú ý các yếu tố quan trọng như tuổi, lần cuối cùng có kinh bình thường, lượng và số ngày chảy máu, chảy máu sau giao hợp, các loại thuốc sử dụng (nội tiết, NSAIDs, thuốc kháng đông hay các thuốc hướng thần kinh khác), tiền sử các bất thường nội tiết, dấu hiệu có thai, tiền sử dùng tránh thai nhất là bằng thuốc và chấn thương.
+Hỏi bệnh sử kỹ lưỡng giúp định hướng chẩn đoán:
 
-Khám lâm sàng cần chú ý đến các dấu hiệu của rối loạn nội tiết hệ thống (cường giáp hay nhược giáp), hay rối loạn nội tiết đặc thù của hội chứng buồng trứng đa nang (béo phì, tăng nội tiết tố nam)… Khám phụ khoa để loại trừ các bất thường cấu trúc của tử cung và buồng trứng.
+- Tuổi, lần cuối có kinh, số ngày và lượng máu ra, chảy máu sau giao hợp.
+- Các loại thuốc đã và đang sử dụng (nội tiết, NSAIDs, thuốc chống đông, thuốc hướng thần…).
+- Tiền sử nội tiết, dấu hiệu có thai, tiền sử dùng biện pháp tránh thai, chấn thương sinh dục.
+
+Khám lâm sàng:
+
+- Dấu hiệu rối loạn nội tiết toàn thân (cường giáp, nhược giáp).
+- Dấu hiệu cường androgen (mụn trứng cá nặng, rậm lông, béo phì kiểu nam).
+- Khám phụ khoa để loại trừ các bất thường cấu trúc của tử cung và buồng trứng.
 
 ![Acantosis nigricans, rậm lông và mụn trứng cá nặng](../../../../assets/phu-khoa/xuat-huyet-tu-cung-co-nang/acantosis-nigricans-ram-long-mun-trung-ca.png)
 
 _Acantosis nigricans, rậm lông và mụn trứng cá nặng.<br>Đây là các dấu hiệu của cường androgen, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường._
 
-Các xét nghiệm cận lâm sàng chủ yếu để loại trừ các nguyên nhân thực thể:
+### Cận lâm sàng
 
-![Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng](../../../../assets/phu-khoa/xuat-huyet-tu-cung-co-nang/cac-xet-nghiem-can-nhac-khi-xuat-huyet-tu-cung.png)
+| Loại xét nghiệm                     | Mục đích                                                                 |
+|--------------------------------------|--------------------------------------------------------------------------|
+| **hCG (nước tiểu hay máu)**              | Loại trừ thai                                                            |
+| **Chức năng đông máu**                   | Loại trừ bệnh lý rối loạn đông máu                                       |
+| **Pap smear (đơn độc hay co-testing với HPV)** | Loại trừ ung thư cổ tử cung                                       |
+| **FSH**                                  | > 40 IU/L giúp chẩn đoán suy buồng trứng hay mãn kinh                    |
+| **TSH**                                  | Loại trừ bệnh lý tuyến giáp                                              |
+| **Prolactin máu**                        | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn                     |
+| **MRI sọ não**                           | Nếu prolactin > 100 ng/mL, cần thêm MRI để khảo sát microadenoma tuyến yên |
+| **Chỉ số testosterone tự** do                         | Chẩn đoán tình trạng cường androgen trong hội chứng buồng trứng đa nang  |
 
 _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng._
 
-Siêu âm đầu dò âm đạo là chỉ định đầu tay. Siêu âm có thể được thực hiện với siêu âm quy ước. Siêu âm giúp khảo sát các đặc điểm của nội mạc tử cung gồm độ dầy, phản âm và các cấu trúc bất thường lòng tử cung.
+**Siêu âm đầu dò âm đạo** là lựa chọn đầu tay. Có thể thực hiện siêu âm quy ước để khảo sát độ dày nội mạc tử cung, phản âm, bất thường trong buồng tử cung.
 
 :::caution[Lưu ý]
-Các hình ảnh có thể giúp định hướng cho các tiếp cận sau đó như u xơ-cơ tử cung, buồng trứng đa nang… Siêu âm với bơm nước lòng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương trong buồng tử cung.
+Siêu âm có thể giúp định hướng nguyên nhân như u xơ tử cung, buồng trứng đa nang… Siêu âm bơm nước buồng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương nội mạc tử cung (polyp, dính buồng tử cung…).
 :::
 
-Sinh thiết nội mạc tử cung được sử dụng như là test chẩn đoán của xuất huyết tử cung chức năng. Kết quả mô học của nội mạc tử cung cho biết tác động của estrogen kéo dài và thiếu tác động đối kháng của progesterone trong các trường hợp xuất huyết tử cung chức năng. Sinh thiết nội mạc tử cung có thể được quyết định sau khi đã có kết quả siêu âm gợi ý sự cần thiết của sinh thiết. Các trường hợp sau nên được chỉ định sinh thiết nội mạc tử cung do nguy cơ ác tính cao ở các nhóm này:
+**Sinh thiết nội mạc tử cung** là test chẩn đoán xác định, thường được chỉ định khi:
 
-- Phụ nữ trên 35 tuổi bị xuất huyết tử cung chức năng.
-- Phụ nữ vô kinh 1 năm hay nhiều hơn bị xuất huyết tử cung chức năng.
+- Phụ nữ > 35 tuổi có xuất huyết tử cung bất thường.
+- Phụ nữ đã mãn kinh có xuất huyết tử cung.
+
+Giúp đánh giá mô học nội mạc tử cung và loại trừ tăng sinh, loạn sản hoặc ung thư.
 
 ![Hình ảnh siêu âm của hội chứng buồng trứng đa nang](../../../../assets/phu-khoa/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-buong-trung-da-nang.png)
 
@@ -68,50 +96,52 @@ _Hình ảnh siêu âm của hội chứng buồng trứng đa nang.<br>Hình ch
 
 _Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)._
 
-Nội soi buồng tử cung cung cấp thêm thông tin và loại trừ các nguyên nhân thực thể tại tử cung và buồng trứng. Soi buồng tử cung chỉ thực hiện khi cần thiết, thường là khi nghi ngờ có tổn thương ở lòng tử cung.
+**Nội soi buồng tử cung**: Giúp quan sát trực tiếp và loại trừ nguyên nhân thực thể trong buồng tử cung. Chỉ định khi nghi ngờ tổn thương nội mạc không rõ ràng trên siêu âm.
 
 ## Xử trí
 
-Mục tiêu của xử trí xuất huyết tử cung bất thường gồm cầm máu và tái lập chu kỳ kinh nguyệt bình thường.
+Mục tiêu: **Cầm máu** và **tái lập chu kỳ kinh nguyệt bình thường**.
 
-Việc chọn lựa biện pháp xử trí xuất huyết tử cung bất thường dựa trên nhiều yếu tố:
+Lựa chọn điều trị dựa vào:
 
-1. Nguyên nhân xuất huyết tử cung chức năng.
+1. Nguyên nhân xuất huyết tử cung.
 2. Mức độ chảy máu.
-3. Tuổi người phụ nữ.
+3. Tuổi bệnh nhân.
 4. Mong muốn có thai.
 
 ### Nội khoa
 
-Sử dụng các thuốc tăng co hồi tử cung, cầm máu và kháng sinh là cần thiết:
+**Thuốc cầm máu và tăng co tử cung**:
 
-- Oxytocin tiêm bắp hay truyền tĩnh mạch tăng co hồi tử cung.
-- Ergometrin 0.2mg 1-2 ống/ngày, tiêm bắp.
-- Tranexamic và calci clorid tiêm tĩnh mạch cầm máu.
+- Oxytocin tiêm bắp hoặc truyền tĩnh mạch.
+- Ergometrin 0.2mg, 1–2 ống/ngày, tiêm bắp.
+- Tranexamic acid, calci clorid tiêm tĩnh mạch.
 
-Thuốc viên tránh thai estrogen-progestogen phối hợp được dùng với mục đích làm giảm sự phát triển nội mạc tử cung, tái tạo lại chu kỳ kinh bình thường, giảm lượng máu kinh và giảm nguy cơ thiếu máu thiếu sắt.
+**Thuốc nội tiết**:
+
+- **Thuốc tránh thai phối hợp (estrogen-progestogen)**: 2–4 viên/ngày, giảm dần khi ngừng ra máu. Không dùng loại có < 20 µg ethinyl estradiol.
 
 :::caution[Lưu ý]
-Chỉ có các loại thuốc tránh thai estrogen-progestogen phối hợp hàm lượng tiêu chuẩn mới được dùng cho mục đích này. Không dùng các thuốc có hàm lượng ethinyl estradiol dưới 20 µg cho mục đích này. Thường sử dụng 2-3 viên/ngày tối đa lên đến 4 viên/ngày đến khi hết ra máu 2 ngày thì giảm dần xuống 1 viên/ngày, duy trì trong 26 ngày từ khi bắt đầu uống thuốc. Khi giảm liều nếu ra máu phải tăng liều lại và giảm liều như cũ. Thường uống vào buổi tối vào giờ cố định để tránh các tác dụng phụ như buồn nôn, hoa mắt, chóng mặt.
+Thường uống vào buổi tối, giờ cố định để giảm tác dụng phụ. Khi giảm liều mà ra máu lại, cần tăng liều trở lại và giảm từ từ.
 :::
 
-Nếu niêm mạc tử cung < 5mm, có thể sử dụng thuốc tránh thai kết hợp như trên và dùng estrogen 1-2 viên/ngày đến khi hết ra máu. Estrogen thường được dùng trong những trường hợp xuất huyết tử cung kéo dài làm nội mạc tử cung bị mỏng đi nhằm phục hồi nội mạc tử cung và cầm máu trước tiên, giúp tái tạo sự phát triển nội mạc tử cung nhanh chóng. Tuy nhiên, mọi nội mạc tử cung có được nhờ điều trị với estrogen đơn thuần phải được tiếp tục với progestogen.
+- **Estrogen đơn thuần**: Dùng khi nội mạc tử cung < 5 mm để phục hồi nội mạc → sau đó bổ sung progestogen.
 
-Nếu niêm mạc tử cung > 10mm, có thể sử dụng progestins 2 viên/ngày trong vòng 10-15 ngày. Progestins có thể được dùng đơn độc trong điều trị lâu dài các xuất huyết tử cung chức năng cần nội mạc tử cung được tiếp xúc với progestins có chu kỳ và liên tục. Progestogen kéo dài đối kháng lại tác dụng của việc phơi bày dài ngày với estrogen, là liệu pháp chính trong các trường hợp có tăng sinh đơn giản điển hình của nội mạc tử cung.
+- **Progestin**: Dùng nếu nội mạc tử cung > 10 mm, liều 2 viên/ngày trong 10–15 ngày. Có thể dùng đơn độc để đối kháng.
 
-Biệt dược trên thị trường:
+**Biệt dược phổ biến**:
 
 - Estrogen: Progynova®, Valiera®, Provames®.
 - Progesterone: Utrogestan®, Duphaston®.
-- Thuốc tránh thai kết hợp: Marvelon®, Regulon®, Rigevidon®, Microgynon®.
+- Thuốc tránh thai phối hợp: Marvelon®, Regulon®, Rigevidon®, Microgynon®.
 
 ### Ngoại khoa
 
-Điều trị ngoại khoa là biện pháp chủ yếu cho xuất huyết tử cung bất thường do nguyên nhân thực thể. Với xuất huyết tử cung cơ năng, điều trị ngoại khoa chỉ được chỉ định trong trường hợp thất bại với điều trị nội khoa.
+Chỉ định khi điều trị nội khoa thất bại hoặc có nguyên nhân thực thể:
 
-Nạo buồng tử cung là phương pháp cầm máu tốt nhất.
-
-Đốt nội mạc tử cung để ngưng hay giảm xuất huyết tử cung lâu dài, tuy nhiên, đốt nội mạc cũng đồng nghĩa là chấm dứt khả năng mang thai, có ý nghĩa tương đương với phẫu thuật cắt tử cung. Cắt tử cung được xem xét khi thất bại với tất cả các điều trị khác.
+- **Nạo buồng tử cung**: Giúp cầm máu tức thì.
+- **Đốt nội mạc tử cung**: Giải pháp lâu dài nhưng làm mất khả năng sinh sản.
+- **Cắt tử cung**: Chỉ định sau cùng khi thất bại với mọi phương pháp điều trị khác.
 
 ## Nguồn tham khảo
 

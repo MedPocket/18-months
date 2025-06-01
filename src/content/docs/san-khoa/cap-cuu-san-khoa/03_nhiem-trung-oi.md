@@ -17,7 +17,7 @@ Nhiễm trùng cũng có thể xảy ra sau các thủ thuật xâm lấn như:
 - Sinh thiết gai nhau.
 - Nội soi bào thai.
 
-**Các tác nhân thường gặp:**
+**Các tác nhân thường gặp**:
 
 - _Ureaplasma urealyticum_.
 - _Mycoplasma hominis_.
@@ -66,14 +66,14 @@ Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu b
 
 ### Con
 
-**Giai đoạn cấp tính:**
+**Giai đoạn cấp tính**:
 
 - Viêm phổi sơ sinh.
 - Viêm màng não.
 - Nhiễm khuẩn huyết.
 - Tử vong sơ sinh.
 
-**Di chứng lâu dài:**
+**Di chứng lâu dài**:
 
 - Loạn sản phế quản phổi (BPD).
 - Bại não.

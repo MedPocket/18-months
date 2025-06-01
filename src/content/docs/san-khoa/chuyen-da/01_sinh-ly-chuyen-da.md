@@ -121,7 +121,7 @@ Chuyển dạ là quá trình tương tác của 3 yếu tố chính – còn g�
 
 Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo dõi bằng biểu đồ chuyển dạ.
 
-**Nội dung cần theo dõi:**
+**Nội dung cần theo dõi**:
 
 1. Cường độ và tần số cơn co tử cung.
 2. Mức độ xóa mở cổ tử cung.

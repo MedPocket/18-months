@@ -29,18 +29,18 @@ Nội mạc tử cung của mẹ, còn gọi là màng rụng, chia thành 3 ph�
 2. Màng rụng trứng: giữa phôi và khoang tử cung.
 3. Màng rụng tử cung: phần nội mạc còn lại.
 
-**Biến đổi của màng rụng rau:**
+**Biến đổi của màng rụng rau**:
 
 - Lá nuôi hợp bào làm xói mòn mô màng rụng rau → tạo khoảng gian gai rau kích thước không đều.
 - Các vách rau còn lại nhô vào khoang gai rau → chia thành nhiều khoang, mỗi khoang chứa một múi rau gồm vài gai rau gốc. Một bánh rau có khoảng 10–38 múi.
 - Nhung mao bám vào đĩa đáy hoặc vách rau giúp neo giữ phần rau của mẹ và con.
 
-**Biến đổi của màng rụng tử cung:**
+**Biến đổi của màng rụng tử cung**:
 
 - Phản ứng màng rụng: tế bào liên kết phình to, tích trữ chất dinh dưỡng → hình thành tế bào rụng → tạo lớp đặc.
 - Lớp sâu: các tuyến bị ép dẹt → tạo lớp xốp.
 
-**Biến đổi của màng rụng trứng:**
+**Biến đổi của màng rụng trứng**:
 
 - Tháng thứ 4: màng rụng trứng áp sát màng rụng tử cung, làm mất khoang tử cung.
 - Nửa sau thai kỳ: 4 lớp (màng ối, màng đệm, màng rụng trứng, màng rụng tử cung) hợp lại thành màng bọc thai.
@@ -66,9 +66,9 @@ Chức năng:
 
 Rau thai là phần phụ của thai, giữ vai trò sống còn trong thai kỳ:
 
-- **Trao đổi chất:** cung cấp dinh dưỡng, nước, oxy, kháng thể, hormone từ mẹ sang thai; loại bỏ CO₂ và các chất thải từ thai về mẹ.
-- **Nội tiết:** tiết các hormone quan trọng như hCG (human chorionic gonadotropin), estrogen, progesterone…
-- **Miễn dịch:** truyền miễn dịch thụ động nhờ kháng thể từ máu mẹ qua hàng rào rau sang thai, bảo vệ thai nhi.
+- **Trao đổi chất**: cung cấp dinh dưỡng, nước, oxy, kháng thể, hormone từ mẹ sang thai; loại bỏ CO₂ và các chất thải từ thai về mẹ.
+- **Nội tiết**: tiết các hormone quan trọng như hCG (human chorionic gonadotropin), estrogen, progesterone…
+- **Miễn dịch**: truyền miễn dịch thụ động nhờ kháng thể từ máu mẹ qua hàng rào rau sang thai, bảo vệ thai nhi.
 
 ## Các bất thường liên quan đến rau thai
 

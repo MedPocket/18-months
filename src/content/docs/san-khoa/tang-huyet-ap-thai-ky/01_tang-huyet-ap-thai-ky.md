@@ -13,7 +13,7 @@ Giả thiết do nhiều nguyên nhân phối hợp dẫn tới tổn thương n
 2. Sự không tương hợp giữa mẹ, bố (bánh rau) và mô thai. Cơ thể mẹ thích nghi kém với những thay đổi về tim mạch và đáp ứng viêm trong thai kỳ.
 3. Các yếu tố di truyền.
 
-> **Giả thuyết được chấp nhận nhiều nhất hiện nay:** Làm tổ bánh rau với sự xâm nhập bất thường của các nguyên bào nuôi vào động mạch xoắn.
+> **Giả thuyết được chấp nhận nhiều nhất hiện nay**: Làm tổ bánh rau với sự xâm nhập bất thường của các nguyên bào nuôi vào động mạch xoắn.
 
 Bánh rau đóng vai trò then chốt trong sự phát triển và thoái lui của tiền sản giật. **Bánh rau**, không phải thai, là điều kiện cần trong sự phát triển tiền sản giật.
 
@@ -23,13 +23,13 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 
 **Nguồn gốc** xuất hiện tiền sản giật bắt đầu từ **bánh rau**, nhưng **cơ quan đích** là các tế bào nội mô của mẹ dẫn đến:
 
-- **Huyết áp:** Co mạch làm tăng huyết áp.
-- **Mạch máu:** Tổn thương nội mô gây thoát quản các thành phần huyết tương và huyết cầu:
+- **Huyết áp**: Co mạch làm tăng huyết áp.
+- **Mạch máu**: Tổn thương nội mô gây thoát quản các thành phần huyết tương và huyết cầu:
   - Cô đặc máu, tăng Hematocrit do mất đạm, giảm áp lực keo, nặng có thể gây sốc tim.
   - Tiêu thụ tiểu cầu ngoài lòng mạch.
-- **Gan:** Nhồi máu, hoại tử và xuất huyết trong nhu mô, gây rối loạn chức năng tế bào gan và làm tiến triển thêm các rối loạn đông máu.
-- **Thận:** Tổn thương tế bào nội mô của thận làm tổn hại nghiêm trọng chức năng lọc vi cầu thận. Độ lọc cầu thận giảm tới 40% so với bình thường, gây tăng creatinine máu, tăng acid uric máu và xuất hiện đạm niệu.
-- **Não:** Tổn thương nội mô ở não gây các triệu chứng thần kinh, phù não và xuất huyết trong nhu mô não.
+- **Gan**: Nhồi máu, hoại tử và xuất huyết trong nhu mô, gây rối loạn chức năng tế bào gan và làm tiến triển thêm các rối loạn đông máu.
+- **Thận**: Tổn thương tế bào nội mô của thận làm tổn hại nghiêm trọng chức năng lọc vi cầu thận. Độ lọc cầu thận giảm tới 40% so với bình thường, gây tăng creatinine máu, tăng acid uric máu và xuất hiện đạm niệu.
+- **Não**: Tổn thương nội mô ở não gây các triệu chứng thần kinh, phù não và xuất huyết trong nhu mô não.
 
 ## Yếu tố nguy cơ
 
@@ -43,10 +43,10 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 
 ## Phân loại tăng huyết áp thai kỳ
 
-1. **Tiền sản giật – sản giật:** Tăng huyết áp + Đạm niệu + Từ tuần thứ 20 của thai kỳ.
-2. **Tăng huyết áp thai kỳ:** Tăng huyết áp + Không đạm niệu + Từ tuần thứ 20 của thai kỳ và huyết áp trở về bình thường sau sinh.
-3. **Tăng huyết áp mạn:** Trước tuần thứ 20 của thai kỳ và kéo dài 12 tuần hậu sản.
-4. **Tiền sản giật ghép trên tăng huyết áp mạn:**
+1. **Tiền sản giật – sản giật**: Tăng huyết áp + Đạm niệu + Từ tuần thứ 20 của thai kỳ.
+2. **Tăng huyết áp thai kỳ**: Tăng huyết áp + Không đạm niệu + Từ tuần thứ 20 của thai kỳ và huyết áp trở về bình thường sau sinh.
+3. **Tăng huyết áp mạn**: Trước tuần thứ 20 của thai kỳ và kéo dài 12 tuần hậu sản.
+4. **Tiền sản giật ghép trên tăng huyết áp mạn**:
    - Tăng huyết áp mạn không đạm niệu + đạm niệu từ tuần thứ 20.
    - Hoặc tăng huyết áp mạn có đạm niệu + dấu hiệu nặng.
 
@@ -71,7 +71,7 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 ### Phân loại tiền sản giật
 
 - **Không có dấu hiệu nặng.**
-- **Có dấu hiệu nặng:** (chỉ cần một trong các dấu hiệu dưới đây)
+- **Có dấu hiệu nặng**: (chỉ cần một trong các dấu hiệu dưới đây)
 
   1. Huyết áp tâm thu ≥ 160 mmHg hoặc tâm trương ≥ 110 mmHg (đo 2 lần cách nhau ≥ 4h).
   2. Tiểu cầu < 100.000 /µL.
@@ -82,7 +82,7 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 
 ### Tiên lượng tiền sản giật
 
-- **Trước 34 tuần:** tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật…
+- **Trước 34 tuần**: tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật…
 
 ### Sản giật
 
@@ -108,12 +108,12 @@ Biến chứng nặng của tiền sản giật/sản giật, tổn thương n�
 ### Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán hội chứng HELLP]
-**Lâm sàng:**
+**Lâm sàng**:
 
 - Xuất huyết dưới da, niêm mạc.
 - Đau hạ sườn phải.
 
-**Cận lâm sàng:**
+**Cận lâm sàng**:
 
 - LDH > 600 IU/L.
 - Bilirubin toàn phần > 12 mg/dL.
@@ -146,7 +146,7 @@ Biến chứng nặng của tiền sản giật/sản giật, tổn thương n�
 
 - **Theo dõi ngoại trú.**
 - Không dùng thuốc hạ áp, lợi tiểu hay an thần.
-- **Nhập viện và chấm dứt thai kỳ nếu:**
+- **Nhập viện và chấm dứt thai kỳ nếu**:
   - Thai ≥ 37 tuần.
   - Nghi ngờ rau bong non.
   - Thai ≥ 34 tuần + 1 trong các yếu tố:
@@ -209,7 +209,7 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
 
 ### Dự phòng co giật
 
-**Magnesium sulfate (MgSO₄):**
+**Magnesium sulfate (MgSO₄)**:
 
 - Tấn công: 4–6 g TM chậm.
 - Duy trì: 1–2 g/h đến 24 giờ sau sinh
@@ -231,13 +231,13 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
 3. **Sử dụng MgSO₄**
 
    - Thuốc chống co giật hiệu quả nhất, đồng thời giúp hạ huyết áp nhẹ.
-   - **Liều dùng:**
+   - **Liều dùng**:
 
-     - **Liều tấn công:** 4–6 g tiêm tĩnh mạch chậm (trong 15–20 phút).
-     - **Liều duy trì:** 1–2 g/giờ truyền tĩnh mạch liên tục.
+     - **Liều tấn công**: 4–6 g tiêm tĩnh mạch chậm (trong 15–20 phút).
+     - **Liều duy trì**: 1–2 g/giờ truyền tĩnh mạch liên tục.
      - Tiếp tục truyền tối thiểu 24 giờ sau cơn sản giật cuối cùng hoặc sau sinh.
 
-   - **Theo dõi dấu hiệu ngộ độc MgSO₄:**
+   - **Theo dõi dấu hiệu ngộ độc MgSO₄**:
 
      - Giảm phản xạ gân xương.
      - Suy hô hấp, nhịp thở < 12 lần/phút.

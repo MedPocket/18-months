@@ -74,7 +74,7 @@ Do vị trí giải phẫu gần kề, khối u phần phụ có thể bị nh�
 **Xét nghiệm huyết học và hóa sinh**
 
 - Tổng phân tích tế bào máu ngoại vi, chức năng thận – gan cơ bản.
-- **Dấu ấn sinh học (tumor markers):**
+- **Dấu ấn sinh học (tumor markers)**:
   - CA125: thường tăng ở ung thư biểu mô buồng trứng, nhưng cũng tăng trong lạc nội mạc tử cung, viêm vùng chậu, thai kỳ…
   - AFP (alpha-fetoprotein), beta-hCG: đánh giá u quái sinh dục (germ cell tumors) ở nữ trẻ.
   - CEA (carcinoembryonic antigen): đôi khi dùng phân biệt với ung thư đại – trực tràng di căn.
@@ -83,9 +83,9 @@ Do vị trí giải phẫu gần kề, khối u phần phụ có thể bị nh�
 
 **Thuật toán ước tính nguy cơ ác tính**
 
-- **ROMA (Risk of Ovarian Malignancy Algorithm):**
+- **ROMA (Risk of Ovarian Malignancy Algorithm)**:
   - Dựa vào mức độ CA125 và HE4, cùng tuổi và tình trạng mãn kinh.
-- **RMI (Risk of Malignancy Index):**
+- **RMI (Risk of Malignancy Index)**:
 
   - Công thức: RMI = U × M × CA125
     - U: Chỉ số siêu âm (nhiều tiêu chí về thành, vách, dịch tự do…)

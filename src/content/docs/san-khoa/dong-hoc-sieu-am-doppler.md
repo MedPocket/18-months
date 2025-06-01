@@ -9,10 +9,10 @@ Các trở kháng được thể hiện bằng nhiều cách. Phổ biến nhấ
 
 Khi đánh giá trở kháng, người ta thường dựa vào các chỉ số trở kháng được xác định theo các bách phân vị và so sánh với trở kháng của các mạch máu tương ứng khác. Các chỉ số thông dụng gồm:
 
-- **S:** Peak systolic velocity, đỉnh tâm thu.
-- **D:** End diastolic velocity, vận tốc cuối tâm trương.
-- **RI:** Resistance Index, chỉ số kháng trở. RI = (S-D)/S.
-- **PI:** Pulsatility Index, chỉ số đập. PI = (S-D)/A (với A = Vm, vận tốc trung bình).
+- **S**: Peak systolic velocity, đỉnh tâm thu.
+- **D**: End diastolic velocity, vận tốc cuối tâm trương.
+- **RI**: Resistance Index, chỉ số kháng trở. RI = (S-D)/S.
+- **PI**: Pulsatility Index, chỉ số đập. PI = (S-D)/A (với A = Vm, vận tốc trung bình).
 
 ## Phổ Doppler động mạch tử cung
 

@@ -161,18 +161,18 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 Antosiban (Tractocile) có cấu trúc mô phỏng peptide 9 của oxytocin. Đây là peptide tổng hợp có tác dụng đối kháng cạnh tranh với oxytocin, làm giảm tần số cơn gò và trương lực cơ tử cung, đồng thời gắn kết với các thụ thể vasopressin.
 
-**Chống chỉ định:**
+**Chống chỉ định**:
 
 - Mẹ bị dị ứng với thuốc.
 - Ối vỡ non thai từ 30 tuần.
 - Thai chậm phát triển trong tử cung.
 - Nhau tiền đạo.
 
-**Liều dùng:**
+**Liều dùng**:
 
-- **Bước 1:** Liều tấn công lọ 1 (37,5 mg/5 mL): lấy 6,75 mg (0,9 mL) pha vào 10 mL Ringer lactate, tiêm tĩnh mạch chậm > 1 phút (còn 4,1 mL).
-- **Bước 2:** Liều duy trì với lọ 1 còn 30,75 mg (4,1 mL) pha 36,9 mL Ringer lactate, truyền bơm tiêm điện 24 mL/h. Sau đó pha tiếp lọ 2 (37,5 mg/5 mL) trong 45 mL Ringer lactate, truyền 24 mL/h trong 3 giờ đầu.
-- **Bước 3:** Phần còn lại ở bước 2 (19 mL) truyền 8 mL/h. Sau đó pha lọ 3 (37,5 mg/5 mL) thành 50 mL Ringer lactate, truyền 8 mL/h. Thời gian dùng tối đa 45 giờ.
+- **Bước 1**: Liều tấn công lọ 1 (37,5 mg/5 mL): lấy 6,75 mg (0,9 mL) pha vào 10 mL Ringer lactate, tiêm tĩnh mạch chậm > 1 phút (còn 4,1 mL).
+- **Bước 2**: Liều duy trì với lọ 1 còn 30,75 mg (4,1 mL) pha 36,9 mL Ringer lactate, truyền bơm tiêm điện 24 mL/h. Sau đó pha tiếp lọ 2 (37,5 mg/5 mL) trong 45 mL Ringer lactate, truyền 24 mL/h trong 3 giờ đầu.
+- **Bước 3**: Phần còn lại ở bước 2 (19 mL) truyền 8 mL/h. Sau đó pha lọ 3 (37,5 mg/5 mL) thành 50 mL Ringer lactate, truyền 8 mL/h. Thời gian dùng tối đa 45 giờ.
 
 Tác dụng phụ thường nhẹ: buồn nôn, nhức đầu, chóng mặt, bừng nóng, nôn, nhịp tim nhanh, dị ứng thuốc.
 
@@ -182,7 +182,7 @@ Theo dõi tim thai và cơn gò trên monitor trong 1 giờ đầu điều trị
 
 Nifedipine ức chế kênh calci type II, có nhiều ở mạch máu, tử cung và bàng quang. Gây dãn cơ trơn, giảm lượng calci vào tế bào. Hoạt động trên cơ trơn mạch gấp 18 lần so với cơ tim, ảnh hưởng huyết động, giảm huyết áp động mạch và tăng nhịp tim.
 
-**Chống chỉ định:**
+**Chống chỉ định**:
 
 - Huyết áp mẹ < 90/50 mmHg hoặc có bệnh tim mạch nặng.
 - Rối loạn chức năng gan hoặc thận.
@@ -190,12 +190,12 @@ Nifedipine ức chế kênh calci type II, có nhiều ở mạch máu, tử cun
 - Đa thai.
 - Mẫn cảm với nifedipine, nicardipine.
 
-**Liều dùng:**
+**Liều dùng**:
 
 - Liều tấn công 20–30 mg viên tác dụng nhanh, hiệu quả sau 20–30 phút.
 - Tiếp tục 10–20 mg mỗi 3–8 giờ, tối đa 48 giờ, liều tối đa 180 mg/ngày.
 
-**Tác dụng phụ:**
+**Tác dụng phụ**:
 
 - Đau đầu.
 - Nổi mẩn.
@@ -206,7 +206,7 @@ Nifedipine ức chế kênh calci type II, có nhiều ở mạch máu, tử cun
 - Phù chi dưới.
 - Suy thai.
 
-**Theo dõi:**
+**Theo dõi**:
 
 - Mạch và huyết áp mẹ mỗi 30 phút trong 1 giờ đầu, sau đó 30 phút sau mỗi liều.
 - Monitor tim thai và cơn gò 1 giờ liều đầu và mỗi 6 giờ sau đó.
@@ -216,7 +216,7 @@ Nifedipine ức chế kênh calci type II, có nhiều ở mạch máu, tử cun
 
 Betamimetics (ví dụ Salbutamol) là dẫn xuất catecholamines làm dãn cơ tử cung và cơ trơn khác qua kích thích thụ thể β₂.
 
-**Chống chỉ định:**
+**Chống chỉ định**:
 
 - Mẹ có bệnh tim mạch.
 - Tăng huyết áp nặng hoặc không kiểm soát.
@@ -225,20 +225,20 @@ Betamimetics (ví dụ Salbutamol) là dẫn xuất catecholamines làm dãn cơ
 - Bệnh tuyến giáp hoặc dị ứng với thuốc.
 - Đa thai.
 
-**Liều dùng:**
+**Liều dùng**:
 
 - Hạn chế dịch truyền nhất ở song thai hoặc đang dùng corticosteroids.
 - Pha 5 mg Salbutamol/5 mL trong 95 mL NaCl 0,9 %; truyền 12 mL/h (10 µg/phút), tăng 4 mL/h mỗi 30 phút đến khi cắt cơn hoặc mẹ đạt nhịp tim ≥ 120 lần/phút hoặc tối đa 36 mL/h.
 - Có thể truyền tĩnh mạch pha 5 mg Salbutamol/5 mL trong dung dịch glucose 5 % (10 µg/mL), tốc độ 60 mL/h (10 µg/phút), tăng 20 mL/h mỗi 30 phút đến khi cắt cơn hoặc nhịp tim mẹ ≥ 120 lần/phút hoặc tối đa 180 mL/h.
 
-**Theo dõi:**
+**Theo dõi**:
 
 - Mạch và huyết áp mẹ mỗi 15 phút trong 1 giờ đầu, sau đó mỗi 4 giờ.
 - Theo dõi lượng nước tiểu (thiểu niệu là dấu hiệu ngộ độc).
 - Xét nghiệm ure, điện giải, Hct mỗi 24 giờ; đo đường huyết mỗi 4 giờ.
 - Monitor tim thai và cơn gò 1 giờ liều đầu và mỗi 6 giờ liều duy trì.
 
-**Thời gian điều trị:**
+**Thời gian điều trị**:
 
 - Đường tĩnh mạch: 24–48 giờ.
 - Duy trì uống/đặt:
@@ -249,7 +249,7 @@ Betamimetics (ví dụ Salbutamol) là dẫn xuất catecholamines làm dãn cơ
 
 Dự phòng hội chứng suy hô hấp cấp ở sơ sinh.
 
-**Chỉ định:** sinh non dự kiến 24–34 tuần, có nguy cơ trong 7 ngày.
+**Chỉ định**: sinh non dự kiến 24–34 tuần, có nguy cơ trong 7 ngày.
 
 - Betamethasone 12 mg bắp × 2 liều cách 24 giờ.
 - Hoặc dexamethasone 6 mg bắp × 4 liều cách 12 giờ.
@@ -259,15 +259,15 @@ Dự phòng hội chứng suy hô hấp cấp ở sơ sinh.
 
 MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần).
 
-**Chỉ định:** thai 24–31 + 6 tuần có nguy cơ sinh non trong 24 giờ.
+**Chỉ định**: thai 24–31 + 6 tuần có nguy cơ sinh non trong 24 giờ.
 
 - Liều: MgSO₄ 4,5 g truyền tĩnh mạch chậm 20–30 phút.
 - Giảm liều nếu thiểu niệu hoặc suy thận.
 - Không phối hợp với thuốc cắt cơn.
 - Dùng lý tưởng 4 giờ trước sinh khi có chỉ định chấm dứt thai kỳ.
 
-**Chống chỉ định:** mẹ bị nhược cơ.  
-**Thận trọng:** mẹ có bệnh cơ tim hoặc rối loạn dẫn truyền nhịp.
+**Chống chỉ định**: mẹ bị nhược cơ.  
+**Thận trọng**: mẹ có bệnh cơ tim hoặc rối loạn dẫn truyền nhịp.
 
 ## Dự phòng (Điều trị) dọa đẻ non
 
@@ -284,7 +284,7 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần).
 
 - Dùng cho thai phụ có cổ tử cung < 25 mm hoặc tiền sử sinh non.
 
-- **Tác dụng phụ:** mẹ có thể bị ứ mật trong thai kỳ.
+- **Tác dụng phụ**: mẹ có thể bị ứ mật trong thai kỳ.
 
 ### Khâu vòng cổ tử cung
 

@@ -111,7 +111,7 @@ Không sử dụng hóa trị khi:
 
 :::
 
-- **Tác dụng phụ gồm có:**
+- **Tác dụng phụ gồm có**:
 
   - Nhiễm độc về huyết học và tủy xương như giảm bạch cầu, giảm 3 dòng tế bào, thiếu máu:
     - Giảm bạch cầu dùng thuốc nâng bạch cầu (Filgrastim).

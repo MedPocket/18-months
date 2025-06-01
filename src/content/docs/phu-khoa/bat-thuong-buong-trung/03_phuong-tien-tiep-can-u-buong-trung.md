@@ -94,13 +94,13 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 - Kết hợp siêu âm Doppler với thang xám giúp tăng độ chuyên biệt (pooled specificity ~ 0.78).
 - **IOTA (2010)**: Độ nhạy 91%, độ chuyên biệt 95%. Phân theo quy tắc:
 
-  - **B-rules (lành tính):**
+  - **B-rules (lành tính)**:
     - B1: U đơn thuần 1 thùy.
     - B2: Thành phần rắn ≤7 mm.
     - B3: Tồn tại bóng âm.
     - B4: U đa thùy trơn láng ≤100 mm.
     - B5: Không có dòng chảy (điểm màu 1).
-  - **M-rules (ác tính):**
+  - **M-rules (ác tính)**:
     - M1: U đặc không đồng nhất.
     - M2: Kèm dịch báng bụng.
     - M3: ≥ 4 chồi nhú.

@@ -132,7 +132,7 @@ _Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)._
 
 ## Nguyên tắc điều trị
 
-- **Không triệu chứng:** chỉ theo dõi, không can thiệp.
+- **Không triệu chứng**: chỉ theo dõi, không can thiệp.
 - **Cá thể hóa điều trị** dựa trên vấn đề chính của người bệnh:
   1. Đau bụng kinh (thống kinh).
   2. Xuất huyết tử cung bất thường (AUB-A).
@@ -147,16 +147,16 @@ _Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)._
 
 #### NSAIDs
 
-- **Cơ chế:** ức chế COX-2 → giảm PGE₂ → giảm viêm và co thắt.
-- **Ví dụ & liều:**
+- **Cơ chế**: ức chế COX-2 → giảm PGE₂ → giảm viêm và co thắt.
+- **Ví dụ & liều**:
   - Ibuprofen 400 mg mỗi 4–6 giờ.
   - Naproxen 250 mg mỗi 8–12 giờ.
-- **Chống chỉ định:** loét dạ dày, suy thận, hen phế quản nặng, bệnh tim mạch.
+- **Chống chỉ định**: loét dạ dày, suy thận, hen phế quản nặng, bệnh tim mạch.
 
 #### COCs (Estrogen–Progestin)
 
-- **Cơ chế:** ức chế phát triển nội mạc, giảm COX-2.
-- **Liều & cách dùng:**
+- **Cơ chế**: ức chế phát triển nội mạc, giảm COX-2.
+- **Liều & cách dùng**:
   - EE 20–30 µg + progestin, 1 viên/ngày liên tục hoặc theo chu kỳ.
   - Miếng dán mỗi tuần 1 miếng.
 
@@ -166,22 +166,22 @@ Không dùng quá 3 tháng nếu không giảm đau; ít hiệu quả với lạ
 
 #### Aromatase inhibitors (AIs)
 
-- **Ví dụ:** Letrozole 2.5 mg/ngày, Anastrozole 1 mg/ngày.
-- **Chỉ định:** đau tái phát sau NSAIDs/COCs; phối hợp khi cường estrogen cục bộ nặng.
-- **Tác dụng phụ:** giảm mật độ xương, bốc hỏa, mệt mỏi.
+- **Ví dụ**: Letrozole 2.5 mg/ngày, Anastrozole 1 mg/ngày.
+- **Chỉ định**: đau tái phát sau NSAIDs/COCs; phối hợp khi cường estrogen cục bộ nặng.
+- **Tác dụng phụ**: giảm mật độ xương, bốc hỏa, mệt mỏi.
 
 #### Đồng vận GnRH
 
-- **Ví dụ:** Goserelin 3.6 mg SC mỗi 28 ngày; Leuprolide 3.75 mg IM mỗi 28 ngày.
-- **Cơ chế:** ức chế trục HPA → giảm estrogen toàn thân.
-- **Phối hợp:** luôn dùng add-back estrogen/progestin để bảo vệ xương.
-- **Hạn chế:** chỉ dùng tối đa 6 tháng nếu không có add-back; bốc hỏa, loãng xương.
+- **Ví dụ**: Goserelin 3.6 mg SC mỗi 28 ngày; Leuprolide 3.75 mg IM mỗi 28 ngày.
+- **Cơ chế**: ức chế trục HPA → giảm estrogen toàn thân.
+- **Phối hợp**: luôn dùng add-back estrogen/progestin để bảo vệ xương.
+- **Hạn chế**: chỉ dùng tối đa 6 tháng nếu không có add-back; bốc hỏa, loãng xương.
 
 #### Progestin tại chỗ & toàn thân
 
-- **Progestin uống:** Dienogest 2 mg/ngày; Norethindrone 5–10 mg/ngày.
-- **IUS–LNG:** đặt 1 lần, tác dụng 5 năm.
-- **Tác dụng:** teo nội mạc, giảm viêm; LNG-IUS còn giảm cường kinh.
+- **Progestin uống**: Dienogest 2 mg/ngày; Norethindrone 5–10 mg/ngày.
+- **IUS–LNG**: đặt 1 lần, tác dụng 5 năm.
+- **Tác dụng**: teo nội mạc, giảm viêm; LNG-IUS còn giảm cường kinh.
 
 :::caution[Lưu ý]
 Chọn progestin ít tác dụng toàn thân; ưu tiên LNG-IUS hoặc Dienogest nếu có AUB-A.
@@ -241,18 +241,18 @@ _Giảm đau bước 2._
 
 ## Điều trị AUB-A
 
-- **Đầu tay:** COCs hoặc LNG-IUS.
-- **Thứ hai:** Dienogest hoặc progestin uống.
-- **Không ưu tiên:** GnRH đồng vận, AI (tác dụng phụ nhiều).
-- **Lưu ý:** Xử lý thiếu máu, ổn định huyết động trước khi can thiệp.
+- **Đầu tay**: COCs hoặc LNG-IUS.
+- **Thứ hai**: Dienogest hoặc progestin uống.
+- **Không ưu tiên**: GnRH đồng vận, AI (tác dụng phụ nhiều).
+- **Lưu ý**: Xử lý thiếu máu, ổn định huyết động trước khi can thiệp.
 
 ## Điều trị hiếm muộn – vô sinh
 
 - **Ưu tiên hiếm muộn** nếu kèm thống kinh nặng.
-- **Nội khoa:** không dùng liệu pháp ức chế buồng trứng trước IVF.
-- **Phẫu thuật:** bóc nang lạc nội mạc độ I–II nếu ảnh hưởng đến chức năng buồng trứng.
-- **ART:** IVF/ICSI khi vòi trứng tổn thương hoặc các biện pháp khác thất bại.
-- **Chuẩn bị:** GnRHa 3–6 tháng trước chuyển phôi có thể cải thiện tỉ lệ thành công.
+- **Nội khoa**: không dùng liệu pháp ức chế buồng trứng trước IVF.
+- **Phẫu thuật**: bóc nang lạc nội mạc độ I–II nếu ảnh hưởng đến chức năng buồng trứng.
+- **ART**: IVF/ICSI khi vòi trứng tổn thương hoặc các biện pháp khác thất bại.
+- **Chuẩn bị**: GnRHa 3–6 tháng trước chuyển phôi có thể cải thiện tỉ lệ thành công.
 
 ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
 

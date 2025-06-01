@@ -13,10 +13,10 @@ HPV thuộc họ Papovaviridae, đường kính ~55 nm, không có màng lipid. 
 
 Bên trong là DNA kép vòng, dài 7.904 bp, gồm các gen:
 
-- **E1, E2:** nhân bản.
-- **E4, E5:** tái tổ hợp.
-- **L1, L2:** protein vỏ capsid.
-- **E6, E7:** đa chức năng, tương tác với p53 và pRb, quyết định khả năng sinh ung thư.
+- **E1, E2**: nhân bản.
+- **E4, E5**: tái tổ hợp.
+- **L1, L2**: protein vỏ capsid.
+- **E6, E7**: đa chức năng, tương tác với p53 và pRb, quyết định khả năng sinh ung thư.
 
 ![DNA HPV16 7.904 bp](../../../../assets/phu-khoa/hpv/so-do-dna-hpv-16.png)
 
@@ -26,12 +26,12 @@ _Sơ đồ DNA 7.904 bp của HPV type 16._
 
 Hơn 200 type HPV đã được định danh, trong đó ~85 type đã mô tả đầy đủ gene; > 40 type lây qua quan hệ tình dục. Do chỉ có capsid, HPV bền ngoài môi trường, có thể lây gián tiếp qua tiếp xúc đồ dùng.
 
-- **Nhóm da:** tổn thương ở da tay, chân.
-- **Nhóm niêm mạc:** xâm nhiễm tế bào đáy niêm mạc môi, miệng, hô hấp, cơ quan sinh dục.
+- **Nhóm da**: tổn thương ở da tay, chân.
+- **Nhóm niêm mạc**: xâm nhiễm tế bào đáy niêm mạc môi, miệng, hô hấp, cơ quan sinh dục.
 
-**Nguy cơ thấp:** 6, 11, 42, 43, 44.
+**Nguy cơ thấp**: 6, 11, 42, 43, 44.
 
-**Nguy cơ cao:** 16, 18, 31, 33, 34, 35, 39, 45, 51, 52, 56, 58, 59, 66, 68, 70.
+**Nguy cơ cao**: 16, 18, 31, 33, 34, 35, 39, 45, 51, 52, 56, 58, 59, 66, 68, 70.
 
 ### Yếu tố nguy cơ lây nhiễm
 
@@ -46,7 +46,7 @@ Hơn 200 type HPV đã được định danh, trong đó ~85 type đã mô tả 
 - Biểu hiện: mụn cóc da, mụn cóc miệng (Heck’s), u nhú thanh quản.
 - Tại cổ tử cung: HPV type thấp gây mụn cóc sinh dục; type cao (16, 18, 31, 45…) liên quan đến tổn thương tiền ung thư và ung thư.
 
-**Cơ chế sinh ung thư:**
+**Cơ chế sinh ung thư**:
 
 - E6 liên kết p53 → thoái giáng p53 → mất kiểm soát chu kỳ tế bào.
 - E7 bất hoạt pRb → giải phóng E2F1 → kích hoạt phân bào không kiểm soát.

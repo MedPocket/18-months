@@ -71,18 +71,18 @@ _Phân loại NIH (Mỹ)_
 ### Nhóm nguy cơ thấp (FIGO ≤ 6 điểm; NIH không di căn)
 
 - **Đơn hóa chất** (khả năng khỏi ~ 98%) hoặc kèm cắt tử cung nếu đã đủ con.
-- **Phác đồ Methotrexate (MTX):**
+- **Phác đồ Methotrexate (MTX)**:
   - MTX 5 ngày: 0,4 mg/kg/ngày × 5 ngày (≤ 25 mg/ngày), lặp lại mỗi 14 ngày.
   - MTX/FA 8 ngày: MTX 1 mg/kg (hoặc 50 mg) ngày 1, 3, 5, 7 + Folinic acid 0,1 mg/kg (hoặc 15 mg) ngày 2, 4, 6, 8, lặp lại mỗi 14 ngày.
   - MTX liều cao tuần: 30–50 mg/m² tĩnh mạch/tuần.
-- **Dactinomycin (Act-D):**
+- **Dactinomycin (Act-D)**:
   - 1,25 mg/m² tĩnh mạch mỗi 2 tuần, hoặc 12 µg/kg/ngày × 5 ngày, lặp lại mỗi 14 ngày.
 - Tiếp tục 2–3 chu kỳ sau khi β-hCG âm tính.
 
 ### Nhóm nguy cơ cao (FIGO ≥ 7 điểm hoặc di căn; NIH di căn)
 
 - **Đa hóa chất** (EMA-CO, MAC)
-  - **EMA-CO:** Etoposide, MTX, Act-D / Cyclophosphamide, Vincristine theo phác đồ 2 tuần:
+  - **EMA-CO**: Etoposide, MTX, Act-D / Cyclophosphamide, Vincristine theo phác đồ 2 tuần:
     - Ngày 1:
       - Etoposide 100 mg/m² da tĩnh mạch trong 30 phút.
       - Dacticin 0.5mg tĩnh mạch.
@@ -106,7 +106,7 @@ Tiêu chuẩn để hóa trị:
 
 :::
 
-- **Nếu kháng EMA-CO:** chuyển sang EP-EMA, BEP hoặc TP/TE:
+- **Nếu kháng EMA-CO**: chuyển sang EP-EMA, BEP hoặc TP/TE:
   - Sử dụng phác đồ EMA-EP hoặc EP-EMA: ngày điều trị CO được thay bằng EP:
     - Cisplatin 70-80 mg pha 1L truyền tĩnh mạch hơn 12 giờ.
     - Etoposide 100 mg/m² da (150 mg/m² da) được truyền tĩnh mạch hơn 1h.
@@ -131,16 +131,16 @@ Tiêu chuẩn để hóa trị:
       - Chlorphenamine 100 mg tĩnh mạch.
       - Paclitaxel 135 mg/m² da + 250 mL NaCl 0.9% truyền trong 3 giờ.
       - Etoposide 150 mg/m² da pha 1000 mL NaCl 0.9% truyền trong 1 giờ.
-- **Phẫu thuật:**
+- **Phẫu thuật**:
   - Cắt tử cung toàn phần ở người đã đủ con, băng huyết nặng hoặc khối kháng thuốc.
   - Bảo tồn khối u/khối chorio ở người trẻ mong con.
-- **Xạ trị:** cho di căn não, gan sâu.
+- **Xạ trị**: cho di căn não, gan sâu.
 
 ### U nguyên bào nuôi thất bại hoặc kháng trị
 
 - β-hCG bình nguyên hoặc tăng khi đang dùng hóa trị (có hoặc không có thêm di căn mới).
 
-- **Xử trí:**
+- **Xử trí**:
   - MTX 50 mg/m² da thất bại → MTX 0,4 mg/kg tiêm bắp 5 ngày hoặc Dacticin 12 µg/kg tiêm bắp 5 ngày.
   - β-hCG < 100IU/L → Dacticin 5 ngày (87%).
   - β-hCG > 100IU/L → EMA-CO (99%).
@@ -187,7 +187,7 @@ Tiêu chuẩn để hóa trị:
 
 #### Phẫu thuật
 
-- **Chỉ định cắt tử cung toàn phần:**
+- **Chỉ định cắt tử cung toàn phần**:
 
   - Chủ yếu cho người bệnh không muốn thêm con.
   - Tuổi ≥ 40.
@@ -219,8 +219,8 @@ _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị tr�
 
 - **β-hCG** hàng tuần đến âm tính 3 lần liên tiếp, sau đó hàng tháng 6–12 tháng tùy nhóm.
 - **Khám lâm sàng, siêu âm, X-quang ngực, cận lâm sàng** khi β-hCG bất thường hoặc có triệu chứng lâm sàng.
-- **Thời gian theo dõi tối thiểu:** 5 năm.
-- **Thai kì trở lại:** ít nhất 2 năm sau khỏi; siêu âm + β-hCG sớm khi có thai.
+- **Thời gian theo dõi tối thiểu**: 5 năm.
+- **Thai kì trở lại**: ít nhất 2 năm sau khỏi; siêu âm + β-hCG sớm khi có thai.
 
   ![Di căn phổi](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/choriocarcinoma-di-can-phoi-hinh-anh-tha-bong.png)
 

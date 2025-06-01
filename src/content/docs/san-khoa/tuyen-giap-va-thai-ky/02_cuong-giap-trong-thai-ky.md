@@ -39,8 +39,8 @@ Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng *
 
 - **Iod phóng xạ bị chống chỉ định tuyệt đối trong thai kỳ.**
 - **Thioamides** là nhóm chính của thuốc kháng giáp, bao gồm:
-  - **Propylthiouracil (PTU):** ưu tiên dùng trong tam cá nguyệt đầu tiên.
-  - **Methimazole (Tapazole):** có thể dùng sau tam cá nguyệt thứ nhất để giảm độc tính gan của PTU.
+  - **Propylthiouracil (PTU)**: ưu tiên dùng trong tam cá nguyệt đầu tiên.
+  - **Methimazole (Tapazole)**: có thể dùng sau tam cá nguyệt thứ nhất để giảm độc tính gan của PTU.
 
 :::caution[Lưu ý]
 
@@ -67,7 +67,7 @@ Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng *
 - Vã mồ hôi, mất nước nặng.
 - Có thể lẫn với tiền sản giật nặng, nhưng **cường giáp không có tiểu đạm**.
 
-**Xử trí cấp cứu:**
+**Xử trí cấp cứu**:
 
 - **Sodium iodide** 1g tiêm mạch để ức chế tiết hormone tuyến giáp.
 - **PTU** 1200–1800 mg/ngày chia liều để chặn tổng hợp và chuyển hóa T₄.
@@ -75,7 +75,7 @@ Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng *
 - **Propranolol** 20–80 mg mỗi 6 giờ: kiểm soát triệu chứng cường giao cảm.
 - Bù dịch và hạ thân nhiệt.
 
-**Lưu ý:** Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồn tại 2–3 tháng → khoảng **1% trẻ sơ sinh của mẹ Graves có nhiễm độc giáp**, nguy cơ tử vong lên đến 16%. Nghi ngờ khi:
+**Lưu ý**: Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồn tại 2–3 tháng → khoảng **1% trẻ sơ sinh của mẹ Graves có nhiễm độc giáp**, nguy cơ tử vong lên đến 16%. Nghi ngờ khi:
 
 - Tim thai > 160 lần/phút kéo dài.
 - Siêu âm: phát hiện bướu giáp thai.

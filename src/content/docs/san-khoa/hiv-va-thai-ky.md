@@ -111,9 +111,9 @@ _Phân loại lâm sàng theo CDC._
 
 ### Thời gian ủ bệnh
 
-- **Triệu chứng sớm (nếu có):** **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng…).
+- **Triệu chứng sớm (nếu có)**: **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng…).
 
-- **Thời gian "cửa sổ" (window period):** khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm:
+- **Thời gian "cửa sổ" (window period)**: khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm:
 
 | Loại xét nghiệm                          | Phát hiện HIV sớm nhất sau phơi nhiễm | Thời gian khuyến nghị làm xét nghiệm   |
 | ---------------------------------------- | ------------------------------------- | -------------------------------------- |

@@ -102,10 +102,10 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 
 - **OGTT 75 g chuẩn**
 
-  - **Chuẩn bị:**
+  - **Chuẩn bị**:
     - 3 ngày trước: chế độ ăn chứa ≥ 150 g glucid/ngày.
     - Nhịn đói ít nhất 8 giờ (chỉ được uống nước lọc).
-  - **Quy trình:**
+  - **Quy trình**:
     - Lấy máu tĩnh mạch đo glucose lúc đói.
     - Uống dung dịch chứa 75 g glucose trong vòng 5 phút.
     - Lấy máu tĩnh mạch đo glucose sau 1 giờ và sau 2 giờ.

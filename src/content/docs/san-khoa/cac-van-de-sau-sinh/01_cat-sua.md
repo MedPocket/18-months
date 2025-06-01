@@ -63,11 +63,11 @@ Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc 
 
 ## Tóm tắt
 
-- **Tự nhiên:** Giảm dần bú/vắt, chườm lạnh, áo ngực ép nhẹ, massage.
-- **Thuốc ức chế prolactin:** Cabergoline (0,25mg × 2/ngày × 2–3 ngày), Bromocriptine (2,5–5 mg/ngày).
-- **Hỗ trợ:** Estrogen (khi chỉ định), NSAIDs (Ibuprofen 400–600mg).
-- **Quy trình:** Khám ban đầu → Chọn thuốc → Giảm dần bú/vắt → Chăm sóc bổ trợ.
-- **Theo dõi:** Sức khỏe mẹ, tác dụng phụ, tránh tự điều trị.
+- **Tự nhiên**: Giảm dần bú/vắt, chườm lạnh, áo ngực ép nhẹ, massage.
+- **Thuốc ức chế prolactin**: Cabergoline (0,25mg × 2/ngày × 2–3 ngày), Bromocriptine (2,5–5 mg/ngày).
+- **Hỗ trợ**: Estrogen (khi chỉ định), NSAIDs (Ibuprofen 400–600mg).
+- **Quy trình**: Khám ban đầu → Chọn thuốc → Giảm dần bú/vắt → Chăm sóc bổ trợ.
+- **Theo dõi**: Sức khỏe mẹ, tác dụng phụ, tránh tự điều trị.
 
 ## Nguồn tham khảo
 

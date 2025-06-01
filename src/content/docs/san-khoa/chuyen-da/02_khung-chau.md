@@ -35,18 +35,18 @@ Eo trên là vòng xương cứng, không thay đổi trong chuyển dạ. Kích
 
 _Các đường kính eo trên._
 
-**Đường kính trước-sau:**
+**Đường kính trước-sau**:
 
 - **Mỏm nhô – thượng vệ**: 11 cm.
 - **Mỏm nhô – hạ vệ**: 12 cm. Đo được bằng tay, nhưng chỉ phản ánh gián tiếp đường kính thật sự của eo trên.
 - **Mỏm nhô – hậu vệ**: 10.5 cm. Đây là đường kính **hữu dụng** và **quan trọng nhất**, vì là đường kính thật sự mà ngôi thai phải vượt qua.
 
-**Đường kính chéo:**
+**Đường kính chéo**:
 
 - Từ khớp cùng-chậu bên này đến gai mào chậu lược bên kia.
 - Trị số bình thường: 12.75 cm.
 
-**Đường kính ngang:**
+**Đường kính ngang**:
 
 - **Ngang tối đa**: 13.5 cm – không có giá trị sản khoa vì nằm gần mỏm nhô.
 - **Ngang hữu dụng**: 12.5 cm – là đường kính ngang đi qua trung điểm của đường kính trước-sau. Dù quan trọng, nhưng **không thể đo được lâm sàng**.
@@ -67,7 +67,7 @@ Hõm xương cùng tạo thành một **khúc cong**, giống như "khúc cua c�
 
 _Tiểu khung trên thiết đồ đứng dọc._
 
-**Các đường kính chính:**
+**Các đường kính chính**:
 
 - **Đường kính trước-sau**: 11.5 cm – không có ý nghĩa lâm sàng.
 - **Đường kính ngang**: 10.5 cm – khoảng cách giữa 2 gai hông; **có thể đo được và có giá trị lâm sàng cao**.
@@ -90,7 +90,7 @@ Cấu tạo gồm 2 tam giác:
    - Hai cạnh bên: Dây chằng tọa-cùng.
    - Do khớp cùng-cụt là **khớp bán động**, đỉnh xương cụt có thể bị đẩy ra sau, giúp mở rộng thêm không gian eo dưới trong chuyển dạ.
 
-**Các đường kính chính:**
+**Các đường kính chính**:
 
 - **Trước-sau**: 9.5–11.5 cm – không có ý nghĩa lâm sàng vì tính chất không đồng phẳng.
 - **Ngang**: 11 cm – khoảng cách giữa hai ụ ngồi; đo được trên lâm sàng, **có giá trị nhất định**.
