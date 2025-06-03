@@ -78,11 +78,13 @@ description: Áp xe vú.
 
 - Dicloxacillin hoặc Cloxacillin 500 mg × 4 lần/ngày, 10–14 ngày.
 - Không đáp ứng sau 24–48 giờ: chuyển sang:
+
   - Cephalexin 500 mg × 4 lần/ngày, hoặc
   - Cefadroxyl 500 mg × 2 viên × 2 lần/ngày, hoặc
   - Amoxicillin-clavulanate 625 mg × 3 lần/ngày.
 
 - Nếu nghi ngờ vi khuẩn kỵ khí (áp xe dưới quầng vú): phối hợp thêm:
+
   - Clindamycin 300 mg × 4 lần/ngày, hoặc
   - Metronidazole 250 mg × 2 viên × 2 lần/ngày.
 
@@ -96,11 +98,12 @@ description: Áp xe vú.
 - Có thể phối hợp với cephalosporin thế hệ 3 hoặc beta-lactam kết hợp chất ức chế beta-lactamase.
 
 :::caution[Lưu ý]
+
 - **Cloxacillin**: Có thể gây viêm gan, vàng da ứ mật, biểu hiện chậm. Thận trọng trong thai kỳ và cho con bú.
 - **Cefadroxyl**: Bài tiết vào sữa mẹ với nồng độ thấp. Theo dõi trẻ bú mẹ có biểu hiện tiêu chảy, tưa lưỡi hoặc nổi ban.
 - **Clindamycin**: Có thể dùng trong thai kỳ nếu có chỉ định, nhưng không khuyến cáo trong thời kỳ cho con bú.
 - **Amoxicillin**: An toàn cho mẹ đang cho con bú.
-:::
+  :::
 
 ### Ngoại khoa
 
