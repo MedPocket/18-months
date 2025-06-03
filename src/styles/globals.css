@@ -1,5 +1,4 @@
-/* Dark mode colors. */
-:root {
+/* Dark mode colors. */ :root {
   --sl-color-accent-low: #0a2c14;
   --sl-color-accent: #008038;
   --sl-color-accent-high: #aed4b4;
@@ -31,7 +30,11 @@
 
 /* Hover row background for table rows. */
 table tbody tr:hover {
-  background-color: var(--sl-color-accent-low);
+  background-color: rgba(255, 255, 255, 0.05);
   color: var(--sl-color-white);
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+:root[data-theme="light"] table tbody tr:hover {
+  background-color: rgba(0, 0, 0, 0.05);
 }
