@@ -1,137 +1,228 @@
 ---
 title: Cận lâm sàng tuyến vú
-description: Cận lâm sàng tuyến vú.
+description: Mô tả các phương tiện chẩn đoán hình ảnh và xâm lấn thường dùng để đánh giá tổn thương tuyến vú, bao gồm nhũ ảnh, siêu âm, MRI, các kỹ thuật lấy mẫu tế bào và mô (FNA, core biopsy, open biopsy) cũng như xét nghiệm đột biến gene BRCA.
 ---
 
-Tuyến vú có thể được khảo sát bằng các xét nghiệm chuyên khoa:
+Tuyến vú có thể được khảo sát bằng nhiều phương tiện cận lâm sàng chuyên sâu. Mỗi phương pháp có ưu – nhược điểm riêng, cho phép:
 
-1. Siêu âm.
-2. Nhũ ảnh.
-3. Cộng hưởng từ.
-4. Chọc hút tế bào bằng kim nhỏ.
-5. Sinh thiết lõi.
+1. Phát hiện sớm tổn thương (tầm soát ung thư).  
+2. Định hình bản chất tổn thương (lành tính – ác tính).  
+3. Lấy mẫu mô hoặc tế bào để chẩn đoán mô học/tế bào học.
+
+Danh sách các xét nghiệm/phương tiện cận lâm sàng thường sử dụng:
+
+1. Nhũ ảnh (Mammography – X-quang tuyến vú)  
+2. Siêu âm (Ultrasound)  
+3. Cộng hưởng từ (Breast MRI)  
+4. Chọc hút tế bào bằng kim nhỏ (Fine Needle Aspiration – FNA)  
+5. Sinh thiết lõi (Core Needle Biopsy)  
+6. Sinh thiết mở (Open Excisional Biopsy)
 
 ## Nhũ ảnh
 
-Trong các khảo sát hình ảnh được dùng cho tuyến vú, nhũ ảnh có vai trò nổi bật nhất, do lãnh vực áp dụng của nhũ ảnh rất rộng, gồm cả tầm soát lẫn chẩn đoán.
+Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng thấp, được xem là tiêu chuẩn vàng trong tầm soát và chẩn đoán tổn thương vú.  
 
-Nhũ ảnh (mammography) khảo sát tuyến vú bằng tia X, dùng năng lượng thấp. Nhũ ảnh kỹ thuật số (digital mammography) có giá trị (accuracy) cao hơn do chất lượng xử lý hình ảnh tốt hơn, không gian quan sát mở rộng và có thể cung cấp các thông tin bổ sung khi cần thiết bằng cách xử lý thông tin số. Ngày nay, nhũ ảnh kỹ thuật số toàn trường (Full Field Digital Mammography) (FFDM) là chuẩn mực của kỹ thuật nhũ ảnh.
+- **Mục đích chính**:  
+  - Tầm soát ung thư vú (phát hiện giai đoạn sớm trước khi có triệu chứng).  
+  - Đánh giá tổn thương nghi ngờ (sau khi phát hiện khối trên lâm sàng hoặc hình ảnh học ban đầu).  
 
-Thực hiện thường quy và định kỳ nhũ ảnh đóng vai trò cực kỳ quan trọng trong tầm soát ung thư vú. Nhũ ảnh là tầm soát thường quy bắt buộc cho mọi thăm khám phụ khoa từ thời điểm 45 tuổi. Siêu âm không thay được cho nhũ ảnh ở tuổi trên 45 tuổi.
+- **Kỹ thuật**:  
+  - Nhũ ảnh kỹ thuật số toàn trường (Full Field Digital Mammography – FFDM) hiện là chuẩn mực, cho phép xử lý hình ảnh số, phóng to/thu nhỏ và cải thiện chất lượng quan sát.  
+  - Chụp hai tư thế tiêu chuẩn:  
+    1. **CC (Craniocaudal View)**: Tiếp xúc từ trên xuống dưới, phải bao quát toàn bộ mô vú, thấy rõ cơ ngực lớn phía sau (để đánh giá đủ độ sâu), thấy đủ phần bên ngoài và núm-quầng vú phía trước.  
+    2. **MLO (Mediolateral Oblique View)**: Tư thế chéo nghiêng 45°–60° so với sàn, cho phép quan sát phần lớn mô vú, cơ ngực lớn và 1/4 trên ngoài (vùng có tỉ lệ ung thư cao nhất).  
 
-Các tư thế tiêu chuẩn, bắt buộc và quan trọng nhất là các phim CC (craniocaudal view) và phim giữa chéo bên (mediolateral oblique view) (MLO).
+- **Đánh giá chất lượng phim**:  
+  - Trên phim CC: Phải thấy được toàn bộ mô vú từ chân vú đến góc sườn-vú, cơ ngực lớn rõ.  
+  - Trên phim MLO: Cơ ngực phải hiện rõ, 1/4 trên ngoài không bị che lấp, góc xương mỏm cùng – thoát qua giữa lòng nách.  
 
-Phim CC đạt yêu cầu phải cho thấy được toàn bộ tuyến vú. Phía sau của phim phải thấy được cơ ngực lớn, mô mỡ sau vú (túi Chassaignac). 2 bên là phần bên ngoài cùng của tuyến vú. Phía trước phải nhìn rõ được toàn bộ núm vú. Phim MLO đạt yêu cầu phải cho thấy được cơ ngực. Phần cơ ngực lớn nhìn thấy xác định khối lượng mô vú thấy được trên phim. Quan sát cơ ngực quyết định chất lượng phim chụp, và làm giảm âm tính giả của nhũ ảnh. Hơn nữa, phần lớn các tổn thương ung thư vú xuất hiện ở 1/4 trên ngoài, nên vùng này bắt buộc phải quan sát rõ ràng trên phim MLO.
+- **Hình ảnh đặc trưng**:  
+  1. **Khối đặc (mass)**: Có thể kèm bờ mờ, xù xì, nhô ra so với mô lân cận.  
+  2. **Hình ảnh đóng vôi (calcifications)**:  
+     - **Macrocalcification (đóng vôi lớn)**: Thường lành tính, hình tròn hoặc hình que, phân bố rải rác.  
+     - **Microcalcification (đóng vôi vi thể)**: Có thể lành tính hoặc gợi ý ung thư (nhất là khi tập trung thành chùm, có hình dạng bất thường, độ dày không đồng nhất).  
+     - Phân loại các nhóm đóng vôi theo BIRADS:  
+       1. Lành tính (nhẵn, to, rải rác).  
+       2. Khả năng lành tính (vòng, hình tản mát, tuyến Montgomery).  
+       3. Trung gian (hình đa giác, tập trung).  
+       4. Nghi ngờ ác tính (hình tam giác, đĩa bay, vân xen kẽ).  
+
+- **Chỉ định**:  
+  - Tầm soát định kỳ cho phụ nữ từ 45–50 tuổi trở lên, năm một lần (theo khuyến cáo quốc tế).  
+  - Phụ nữ 40–44 tuổi có nguy cơ trung bình: có thể khởi đầu nhũ ảnh nhưng cần cân nhắc cá nhân hóa.  
+  - Phụ nữ có nguy cơ cao (gia đình có người đột biến BRCA, tiền sử xạ trị ngực sớm): bắt đầu sớm hơn, phối hợp MRI.  
+  - Chẩn đoán khi phát hiện khối cục, tiết dịch, đau vú hoặc bất thường da quầng – núm.  
 
 ![Nhũ ảnh, phim MLO (trái) và phim CC (phải).](../../../../assets/phu-khoa/can-lam-sang-tuyen-vu/nhu-anh.png)
 
-_Nhũ ảnh, phim MLO (trái) và phim CC (phải).<br>Phim MLO (trái) cho thấy toàn bộ mô vú. Cơ ngực là tiêu chuẩn quan trọng nhất để đánh giá chất lượng phim MLO. 1 phim tốt sẽ cho thấy được mô vú ở mức độ tối da, đồng thời quan sát rõ được 1/4 trên ngoài của vú, nơi xuất phát của 1 phần quan trọng các ung thư vú. Trên phim CC (phải), về phía sau phải trình bày cho thấy được cơ ngực lớn và túi Chassaignac, về phía trước là phức bộ núm-quầng vú. 2 bên biên phải thấy trọn tuyến vú._
-
-Hình ảnh gây chú ý nhiều nhất trên nhũ ảnh là hình ảnh đóng vôi. Đóng vôi ở vú là kết quả của lắng đọng calcium trong chủ mô tuyến vú. Đóng vôi thường rất nhỏ để cảm nhận qua khám vú, nhưng lại là hình ảnh thường thấy nhất qua nhũ ảnh. Chúng là các đốm sáng nhỏ:
-
-1. Đóng vôi có thể là hình ảnh của vấn đề lành tính trong đa phần các trường hợp. Thường gặp sau mãn kinh, nhiễm trùng cũ ở vú, phẫu thuật vú.
-2. Đóng vôi có thể là dấu hiệu rất sớm của ác tính. Vì thế, phân tích đặc tính của đóng vôi, nhất là đóng vôi vi thể có thể giúp phát hiện sớm ung thư vú.
-
-![Lắng đọng vôi bình thường ở các thể Montgomery](../../../../assets/phu-khoa/can-lam-sang-tuyen-vu/lang-dong-voi-binh-thuong-o-cac-the-montgomery.png)
-
-_Lắng đọng vôi bình thường ở các thể Montgomery.<br> Tại quầng vú có thể có hình ảnh đóng vôi. Các điểm rất phân tán, chỉ thấy duy nhất ở quầng vú._
-
-![Đóng vôi trong tổn thương ác tính](../../../../assets/phu-khoa/can-lam-sang-tuyen-vu/dong-voi-lon-va-nho-trong-ton-thuong-ac-tinh.png)
-
-_(Trái) Đóng vôi lớn và nhỏ trong thương tổn ác tính.<br>Đóng vôi có thể xuất hiện như những hạt rất mịn mũi tên kép, dưới). Đóng vôi cũng có thể xuất hiện dưới dạng đóng vôi to (mũi tên đơn, trên). Giải phẫu bệnh của 2 thương tổn này là carcinoma in-situ ống tuyến vú.<br>(Phải, trên) Ảnh nhìn qua kính lúp đóng vôi nhỏ của carcinoma vi xâm lấn.<br>(Phải, dưới) Đóng vôi có thể xuất hiện như những hạt rất mịn. Ảnh nhìn qua kính lúp đóng vôi nhỏ của carcinoma in situ._
-
-Đóng vôi có thể là lớn (macrocalcification) hay nhỏ (microcalcification). Cả 2 đều thường là lành tính, nhưng cả 2 cùng có thể thấy trong ác tính. Tuy nhiên, so với đóng vôi lớn, thì đóng vôi vi thể thường đòi hỏi đánh giá rất thận trọng. Các thương tổn đóng vôi sẽ được phân ra:
-
-1. Lành tính.
-2. Có khả năng lành tính.
-3. Trung gian.
-4. Nghi ngờ.
+_Nhũ ảnh: phim MLO (trái) cho thấy mô vú và cơ ngực rõ, đặc biệt 1/4 trên ngoài. Phim CC (phải) cho thấy toàn bộ mô vú từ chân vú đến núm, cơ ngực lớn và túi Chassaignac._
 
 ## Siêu âm
 
-Siêu âm tuyến vú dùng các sóng âm tần số cao, 7-12 MHz, nhằm có được hình ảnh cự ly gần với mức phân giải cao. Siêu âm tuyến vú không có vị trí trong tầm soát ung thư vú theo đúng nghĩa của từ này. Không dùng cho tầm soát thường quy ở người trên 45 tuổi. Chỉ có thể xem siêu âm tuyến vú như biện pháp "khám tuyến vú" sơ cấp cho người độ tuổi 30, có đậm độ mô vú dầy, và khi nhũ ảnh chưa phải là nội dung tầm soát thường quy ở lứa tuổi này. Siêu âm tuyến vú thường được dùng để kết hợp với nhũ ảnh để thực hiện chẩn đoán khi kết quả nhũ ảnh không xác định, hoặc để hướng dẫn sinh thiết. Siêu âm Doppler tuyến vú giúp khảo sát dòng chảy mạch máu ở vùng nghi ngờ. Siêu âm hữu ích trong mô tả tính chất của nang: (1) số
-lượng nang, (2) hình dáng và tính chất bờ: bờ trơn láng và mỏng hay thành dầy với chồi trong nang, (3) phản âm bên trong trống, đồng nhất hay là u đặc.
+Siêu âm tuyến vú sử dụng sóng âm tần số cao (7–12 MHz) để khảo sát tổn thương mô mềm.  
+
+- **Ưu điểm**:  
+  - Quan sát mô vú ở phụ nữ có đậm độ mô dày (độ dày mô > 50%): nhất là phụ nữ dưới 45 tuổi hoặc phụ nữ trẻ.  
+  - Phân biệt nang – đặc (xác định đặc tính dịch bên trong khối).  
+  - Hướng dẫn sinh thiết nang hoặc u (FNA, core biopsy).  
+  - Không dùng tia X, an toàn cho phụ nữ mang thai hoặc cho con bú.  
+
+- **Hạn chế**:  
+  - Không thể thay thế nhũ ảnh trong tầm soát ung thư vú cho phụ nữ ≥ 45 tuổi.  
+  - Độ nhạy kém hơn nhũ ảnh trong phát hiện microcalcification.  
+  - Kết quả phụ thuộc nhiều vào kinh nghiệm người siêu âm.  
+
+- **Kỹ thuật thực hiện**:  
+  - Bệnh nhân nằm ngửa, hai tay đưa lên đầu để căng mô vú.  
+  - Thăm dò lần lượt theo các lát cắt:  
+    1. Lưới dọc – ngang (grid): để khảo sát toàn bộ vú theo từng hàng ngang.  
+    2. Lát cắt hình nan hoa (radial) và hình tiếp tuyến (antiradial): theo hướng tia phóng xạ tỏa ra từ núm-vú, giúp phát hiện khối lồi ra hoặc tổn thương đậm đặc.  
+    3. Khảo sát hạch nách: tìm hạch to, thay đổi cấu trúc, tăng sinh mạch máu (Doppler).  
+
+- **Đặc điểm mô tả khối**:  
+  - **Hình thái**: Tròn, bầu dục, tam giác, không đều.  
+  - **Bờ**: Trơn nhẵn (lành tính), hoặc không đều, xù xì (nghi ngờ ác tính).  
+  - **Phản âm**:  
+    - Tambống (cystic): áp âm, bóng lưng (posterior enhancement).  
+    - Đậm đặc (solid): giảm âm, thu hồi đáy.  
+    - Hỗn hợp (mixed).  
+  - **Doppler**: Tăng sinh mạch máu bất thường gợi ý ác tính.  
 
 ![Siêu âm tuyến vú](../../../../assets/phu-khoa/can-lam-sang-tuyen-vu/sieu-am-vu.png)
 
-_(Trái) Siêu âm vú thường được dùng cho "khám tầm soát" ở người trẻ, hay hỗ trợ cho chẩn đoán. Hình cho thấy 2 cấu trúc nang ở vú trên siêu âm, với cấu tạo âm học khác nhau, 1 phản âm hỗn hợp (trái) và 1 phản âm trống (phải).<br>(Phải) Sinh thiết nang vú hướng dẫn bởi siêu âm._
+_(Trái) Khối nang hỗn hợp và nang đơn thuần trên siêu âm vú. (Phải) Hướng dẫn sinh thiết nang vú qua siêu âm._
 
-Siêu âm tuyến vú được thực hiện ở tư thế nằm ngửa. Các chùm sóng được gửi đến thẳng đứng với bề mặt da. Lần lượt thực hiện các lát cắt:
+## Cộng hưởng từ (MRI)
 
-1. Các lát cắt theo dạng lưới dọc-ngang (grid).
-2. Các lát cắt hình nan hoa và theo phương tiếp tuyến.
-3. Khảo sát hạch nách.
+MRI tuyến vú sử dụng nguyên tắc cộng hưởng hạt nhân, cho phép khảo sát mô vú ở không gian ba chiều với độ tương phản mô mềm rất cao. Thường tiêm thuốc tương phản gadolinium để tăng nét.  
 
-![Các lát cắt khảo sát trên siêu âm](../../../../assets/phu-khoa/can-lam-sang-tuyen-vu/cac-lat-cat-khao-sat-tren-sieu-am.png)
+- **Ưu điểm**:  
+  - Độ nhạy cao (≈ 90–95%) trong phát hiện tổn thương vú, đặc biệt ở phụ nữ nguy cơ cao hoặc vú đậm đặc.  
+  - Phân biệt rõ tổn thương đa ổ (multifocal, multicentric).  
+  - Đánh giá chính xác kích thước thực của u trước khi phẫu thuật.  
+  - Phát hiện di căn hạch thượng đòn, cạnh ức.  
 
-_Các lát cắt khảo sát trên siêu âm._
+- **Hạn chế**:  
+  - Chi phí cao, thời gian chụp lâu (30–45 phút).  
+  - Độ đặc hiệu thấp hơn nhũ ảnh (xấp xỉ 72–75%), dễ có dương tính giả (nang u lành tính, mô xơ tăng sinh).  
+  - Không thích hợp cho phụ nữ có máy tạo nhịp tim, thiết bị kim loại không tương thích.  
 
-## Cộng hưởng từ
+- **Chỉ định (theo khuyến cáo Hội Ung thư Hoa Kỳ – ACS)**:  
+  1. Phụ nữ có đột biến BRCA1/BRCA2 hoặc có người thân thế hệ gần đột biến.  
+  2. Phụ nữ có tiền sử chiếu xạ ngực liều cao (10–30 tuổi).  
+  3. Phụ nữ ung thư vú trước đây muốn theo dõi tái phát (đặc biệt vú đậm đặc).  
+  4. Phụ nữ có vú rất đậm đặc (density > 75%), nhũ ảnh kém nhạy.  
+  5. Phụ nữ đã đặt túi ngực (implant) – đánh giá tình trạng vụn silicon, rò túi.  
 
-Cộng hưởng từ là phương pháp khảo sát hình ảnh được dùng cho các đối tượng đặc biệt, có nguy cơ cao.
-
-Kỹ thuật cộng hưởng từ (MRI) cho phép tạo ra những hình ảnh chi tiết nhất của mô vú. Tuy nhiên MRI không được xem là biện pháp tương đồng với nhũ ảnh cho tầm soát ung thư vú ở các đối tượng nguy cơ trung bình hay thấp. Do ở đối tượng nguy cơ thấp, cộng hưởng từ không mang lại kết quả tầm soát tốt hơn. Vì thế, nó được dùng như biện pháp tầm soát ở đối tượng có nguy cơ cao. Hội ung thư Hoa kỳ (ACS) khuyến cáo thực hiện MRI vú hàng năm cho các đối tượng chuyên biệt, là các phụ nữ:
-
-- Có đột biết BRCA1 hay BRCA2.
-- Có người thân trực hệ bị ung thư vú.
-- Có người thân trực hệ có đột biết BRCA1 hay BRCA2.
-- Từng bị chiếu xạ vùng ngực giữa 10-30 tuổi.
-
-hoặc
-
-- Đặt túi ngực.
-- Từng bị ung thư vú đối bên.
-- Vú có mật độ dầy.
-
-Chỉ định chính của MRI là phối hợp để chẩn đoán, cùng với các biện pháp khảo sát hình ảnh khác, nhằm:
-
-- Phối hợp đánh giá bất thường nhũ ảnh hay siêu âm.
-- Đánh giá các khối u đa ổ.
-- Đánh giá hiệu quả của hóa trị liệu.
+- **Đánh giá tổn thương**:  
+  - **Đặc tính bắt thuốc (enhancement kinetics)**:  
+    - **Wash-in nhanh – wash-out nhanh** (type III): nghi ngờ ác tính.  
+    - **Wash-in chậm – tăng dần** (type I): gợi ý lành tính.  
+    - **Wash-in nhanh – tăng dần** (type II): có thể là tổn thương giáp biên.  
+  - **Phân loại theo BIRADS-MRI**: Từ 1 (bình thường) đến 6 (đã xác định u ác tính), giúp quyết định can thiệp tiếp theo.  
 
 ![Cộng hưởng từ tuyến vú](../../../../assets/phu-khoa/can-lam-sang-tuyen-vu/cong-huong-tu-tuyen-vu.png)
 
-_MRI cung cấp các hình ảnh rất chi tiết về cấu trúc mô tuyến vú. MRI này chụp ở đối tượng nguy cơ rất cao của ung thư vú._
+_MRI vú cung cấp hình ảnh động học và giải phẫu chi tiết, giúp đánh giá tổn thương và mức độ xâm lấn xung quanh._
 
 ## Chọc hút tế bào bằng kim nhỏ (FNA)
 
-Được chỉ định khi:
+FNA (Fine Needle Aspiration) là kỹ thuật dùng kim mảnh (22–25G) để hút tế bào hoặc dịch từ khối tổn thương.  
 
-- BIRADS ≥nhóm III.
-- BIRADS ≥nhóm III.
-- Nang vú không điển hình.
-- Tình huống lâm sàng cần chẩn đoán tế bào học hỗ trợ hoặc giảm áp nang vú.
+- **Ưu điểm**:  
+  - Nhanh, ít xâm lấn, chi phí thấp.  
+  - Kết quả tế bào học trong ngày (nhanh chóng).  
+  - Có thể giảm áp huyết (aspirate) khối nang lớn, giảm đau, cải thiện sinh thiết sau đó.  
 
-## Sinh thiết lõi (core biopsy)
+- **Nhược điểm**:  
+  - Không đánh giá được kiến trúc mô học (không phân biệt carcinoma in situ vs. invasive).  
+  - Tỷ lệ nghi ngờ hoặc âm tính giả cao (đặc biệt khối đặc, đậm đặc).  
+  - Phải kết hợp với lâm sàng, hình ảnh để đánh giá.  
 
-Chỉ định khi:
+- **Chỉ định**:  
+  - BIRADS ≥ nhóm III (BIRADS 3: nghi ngờ thấp, có thể theo dõi; BIRADS ≥ 4: nghi ngờ ác tính).  
+  - Nang vú không điển hình (kích thước lớn, thành dày, có chồi nội dịch).  
+  - Tình huống cần chẩn đoán tế bào học để phân biệt lành – ác tính hoặc giảm áp nang (giảm đau).  
+  - Hạch nách to, nghi di căn trên siêu âm hoặc nhũ ảnh.  
 
-- Tổn thương dạng đặc cần chẩn đoán mô học, kích thước > 15mm.
-- Khi FNA nghi ngờ ác tính.
-- Tình huống lâm sàng cần chẩn đoán mô học hỗ trợ.
+- **Quy trình**:  
+  1. Khám lâm sàng, định vị khối qua siêu âm hoặc bằng tay.  
+  2. Gây vô cảm tại chỗ, luồn kim 22–25G vào tổn thương, hút dịch hoặc tế bào.  
+  3. Truyền mẫu lên lam kính, nhuộm nhanh (Romanowsky, Giemsa, Wright).  
+  4. Giải phẫu tế bào: đánh giá tính chất tế bào, phân loại lành – ác, yêu cầu thêm sinh thiết lõi nếu nghi ngờ.  
 
-## Sinh thiết mở (open biopsy)
+## Sinh thiết lõi (Core Needle Biopsy)
 
-Chỉ định khi:
+Sinh thiết lõi là kỹ thuật sử dụng kim rỗng (14–18G) để lấy khối mô xơ-nhân đủ lớn, duy trì kiến trúc mô học, phục vụ nhu cầu chẩn đoán mô bệnh học chính xác.  
 
-- Core biopsy không thực hiện được.
-- Không có sự tương đồng giữa kết quả chẩn đoán hình ảnh và lâm sàng.
+- **Ưu điểm**:  
+  - Đánh giá cấu trúc mô học, phân biệt carcinoma in situ và invasive.  
+  - Cho phép định typ (hình thái & molecular) ban đầu (ER/PR, HER2).  
+  - Tần suất lấy mẫu nhiều lần (≥ 4–6 lần) giúp giảm bỏ sót khu vực ác tính.  
+
+- **Nhược điểm**:  
+  - Xâm lấn hơn FNA, nguy cơ chảy máu, bầm, nhiễm trùng.  
+  - Cần kỹ thuật hướng dẫn hình ảnh (siêu âm hoặc nhũ ảnh) cho khối ẩn.  
+  - Có thể gây đau, cần gây tê tại chỗ.  
+
+- **Chỉ định**:  
+  - Tổn thương dạng đặc (solid mass) ≥ 15 mm – cần đánh giá mô học.  
+  - FNA có kết quả nghi ngờ hoặc không chính xác (cần khẳng định).  
+  - Tổn thương dạng đóng vôi không điển hình trên nhũ ảnh (hướng dẫn hẹn hò bằng nhũ ảnh).  
+  - Tình huống lâm sàng yêu cầu chẩn đoán mô học để quyết định hướng điều trị (trước phẫu thuật, trước điều trị neoadjuvant).  
+
+- **Quy trình**:  
+  1. Định vị tổn thương bằng siêu âm (u đặc, nang phức tạp) hoặc nhũ ảnh (microcalcification).  
+  2. Gây tê tại vùng lấy mẫu.  
+  3. Luồn kim core (14–18G) vào khối, lấy trung bình 4–6 mẫu, mỗi mẫu dài 10–15 mm.  
+  4. Đặt marker (clip) nếu cần theo dõi tái phát hoặc phẫu thuật sau đó.  
+  5. Gửi mẫu đến giải phẫu bệnh: nhuộm H&E, làm miễn dịch mô học (ER/PR/HER2) nếu ác tính.  
+
+## Sinh thiết mở (Open Biopsy)
+
+Sinh thiết mở là phẫu thuật cắt bỏ hoàn toàn hoặc cắt mẫu tổn thương ra khỏi vú, dưới gây tê tại chỗ hoặc gây mê.  
+
+- **Ưu điểm**:  
+  - Lấy đủ tổn thương để chẩn đoán đối với các khối khó tiếp cận bằng kim (liền vững, mảnh mai hoặc nằm sát thành ngực).  
+  - Đánh giá toàn bộ khối: kích thước, rìa cắt, tính chất xâm lấn, phân độ giai đoạn.  
+
+- **Nhược điểm**:  
+  - Xâm lấn cao, cần gây tê/mê, có nguy cơ sẹo, ảnh hưởng thẩm mỹ.  
+  - Chi phí và thời gian phục hồi dài hơn.  
+
+- **Chỉ định**:  
+  - Khi core biopsy không thực hiện được (u quá nông hoặc quá sâu, chảy máu khó cầm).  
+  - Khi có sự không tương đồng giữa kết quả hình ảnh và lâm sàng (ví dụ khối nghi ngờ ác tính trên nhũ ảnh, nhưng FNA và core đều âm tính).  
+  - Khối quá lớn (> 3–4 cm) nhưng cần cắt mẫu để đánh giá mô lan rộng.  
+  - Để mở rộng điều trị: vừa chẩn đoán vừa cắt bỏ u (excisional biopsy).
 
 ## GENE BRCA
 
-BRCA là từ viết tắt của Breast Cancer. BRCA thể hiện các gene và các protein tương ứng. BRCA1 và BRCA2 là các gene tổng hợp ra protein tương ứng là BRCA1 và BRCA2. Các gene này được biết bởi tính năng ức chế u (tumor suppressor gene). Các protein BRCA1 và BRCA2 được trích xuất từ mô vú và nhiều mô khác. Nhiệm vụ của BRCA1 và BRCA2 là sửa chữa DNA bị hỏng của tế bào, hay phá hủy tế bào nếu không sửa chữa được hư hỏng.
+BRCA1 và BRCA2 (Breast Cancer genes 1 & 2) là các gene ức chế u (tumor suppressor genes) có vai trò sửa chữa DNA đứt gãy sợi kép. Đột biến (mutation) ở các gene này làm mất chức năng sửa chữa DNA, dẫn đến tăng nguy cơ ung thư vú, buồng trứng…  
 
-Không phải mọi người đều phải khảo sát đột biến BRCA. Khảo sát này được chỉ định khi có tiền căn gia đình gợi ý:
+- **Protein BRCA1/BRCA2**: Tham gia con đường sửa chữa homologous recombination – quan trọng để bảo vệ tính toàn vẹn của bộ gen.  
 
-- Có ≥ 3 người trong gia đình được chẩn đoán ung thư vú hoặc ung thư buồng trứng trong đó có người dưới 50 tuổi.
-- Có 2 người trong gia đình thế hệ thứ nhất hoặc thế hệ thứ nhì bị ung thư vú hoặc ung thư buồng trứng.
-- Có người trong gia đình bị ung thư vú nam giới.
-- Cá nhân được chẩn đoán ung thư trước 50 tuổi.
-- Có người trong gia đình cùng lúc mắc ung thư vú và ung thư buồng trứng.
+- **Chỉ định xét nghiệm đột biến BRCA**:  
+  1. Gia đình có ≥ 3 người ung thư vú hoặc buồng trứng (ít nhất một người < 50 tuổi).  
+  2. Hai người thân thế hệ thứ nhất hoặc hai thế hệ thứ hai có ung thư vú/buồng trứng.  
+  3. Có người thân nam bị ung thư vú.  
+  4. Bản thân ung thư vú trước 50 tuổi.  
+  5. Gia đình có bệnh nhân ung thư buồng trứng đồng thời hoặc trước ung thư vú.  
 
-Đột biến (mutation) của gene BRCA1 và BRCA2 sẽ làm mất khả năng sửa chửa các hư hỏng về DNA tại mô tế bào, và gây ra gia tăng của ung thư, như là ung thư vú hay ung thư buồng trứng.
+- **Ý nghĩa lâm sàng**:  
+  - Phát hiện sớm, thực hiện tầm soát tích cực (nhũ ảnh + MRI) từ tuổi 25–30.  
+  - Cân nhắc phẫu thuật dự phòng (prophylactic mastectomy, oophorectomy).  
+  - Hỗ trợ lựa chọn liệu pháp: kháng thuốc PARP inhibitor cho ung thư kháng liệu.  
+
+- **Quy trình**:  
+  1. Tư vấn di truyền (genetic counseling) đánh giá lịch sử gia đình, nguy cơ cá nhân.  
+  2. Lấy mẫu máu/ni-tơ bạch cầu để phân tích đột biến BRCA1/BRCA2 (sequencing + MLPA).  
+  3. Nếu dương tính: lập kế hoạch tầm soát, dự phòng và điều trị dài hạn.  
 
 ## Nguồn tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning: Cận lâm sàng tuyến vú_  
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_  
+- Sardanelli F, Piana R (2021) – _Breast MRI: State of the Art, Challenges and Future Directions_  
+- ACR (2018) – _ACR Practice Parameter for the Performance of Screening and Diagnostic Mammography_  
+- NCCN (2023) – _Genetic/Familial High-Risk Assessment: Breast, Ovarian, and Pancreatic_  
