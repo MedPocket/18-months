@@ -1,28 +1,30 @@
 ---
-title: Viêm âm đạo do nấm
-description: Viêm âm đạo do nấm.
+title: Viêm âm đạo do nấm Candida
+description: Viêm âm đạo do nấm Candida (Vulvo-Vaginal Candidiasis - VVC) là tình trạng nhiễm nấm gây viêm âm hộ - âm đạo, thường do Candida albicans. Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt VVC trong năm gần nhất. Đôi khi người bạn tình nam cũng có thể bị nhiễm nấm dương vật (~10%), nhưng VVC không được xếp vào nhóm bệnh lây truyền qua đường tình dục.
 ---
 
-Khoảng 10% dân số phụ nữ trên 18 tuổi xác nhận rằng đã trải nghiệm ít nhất 2 đợt cấp viêm âm hộ-âm đạo do Candida sp (Vulvo-Vaginal Candidiasis - VVC) trong thời gian 1 năm gần nhất. 10% bạn tình nam có nhiễm nấm ở dương vật. VVC không được xem như bệnh lây truyền qua đường tình dục.
+Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm hộ - âm đạo do Candida sp (Vulvo-Vaginal Candidiasis – VVC) trong vòng 1 năm gần nhất. Có tới 10% bạn tình nam bị nhiễm nấm dương vật. VVC không được xem như bệnh lây truyền qua đường tình dục.
 
 ## Nguyên nhân
 
-Candida sp là vi nấm hạt men, gồm có nhiều chủng khác nhau. Trong các chủng Candida sp, Candida albicans là chủng phổ biến nhất. Các chủng khác có thể thấy là Candida glabrata, Candida tropicalis, hoặc Torulopsis glabrata. Candida albicans có hiện diện trong khuẩn hệ, và được biết đến như là thành phần của khuẩn hệ âm đạo bình thường.
+Candida sp là vi nấm men, gồm nhiều chủng khác nhau. Trong các chủng Candida, **Candida albicans** là phổ biến nhất. Các chủng khác có thể gặp là *Candida glabrata*, *Candida tropicalis*, hoặc *Torulopsis glabrata*. Candida albicans tồn tại tự nhiên trong hệ vi sinh âm đạo bình thường.
 
-Glucose và sucrose là điều kiện cần cho sự phát triển của Candida albicans. Chỉ trong trường hợp mà Candida albicans phát triển quá mức thì người phụ nữ mới có các biểu hiện lâm sàng của nhiễm Candida. Cơ chế mà Candida albicans từ trong điều kiện cộng sinh bình thường trong âm đạo chuyển đổi thành tác nhân gây bệnh vẫn chưa được biết rõ.
+Sự hiện diện của **glucose** và **sucrose** là điều kiện thuận lợi cho sự phát triển của Candida albicans. Chỉ khi Candida albicans phát triển quá mức thì bệnh nhân mới có biểu hiện lâm sàng. Cơ chế chuyển từ trạng thái cộng sinh sang gây bệnh của Candida albicans vẫn chưa được làm rõ hoàn toàn.
 
 ## Yếu tố nguy cơ
 
-3 tác nhân ảnh hưởng rõ nét nhất đến việc hình thành sự
-sụp đổ của môi trường khuẩn hệ âm đạo lành mạnh là:
+Ba yếu tố chính dẫn đến mất cân bằng hệ vi sinh âm đạo:
 
-1. Tổn thương niêm mạc âm đạo.
-2. Sử dụng kháng sinh.
-3. Bất thường miễn dịch. Gia tăng glycogen âm đạo: thai kỳ, đái tháo đường, thuốc ngừa thai chứa estrogen liều cao, suy giảm miễn dịch, môi trường âm đạo ẩm ướt, dùng corticosteroids.
+1. **Tổn thương niêm mạc âm đạo**  
+   - Trầy xước, viêm loét do quan hệ tình dục thô bạo, thủ thuật y khoa, hoặc kích ứng hóa chất.  
+2. **Sử dụng kháng sinh**  
+   - Kháng sinh diệt vi khuẩn nhưng cũng tiêu diệt Lactobacilli bảo vệ, tạo điều kiện cho nấm phát triển.  
+3. **Rối loạn miễn dịch và tăng glycogen âm đạo**  
+   - Thai kỳ, đái tháo đường, dùng thuốc ngừa thai chứa estrogen liều cao, suy giảm miễn dịch, môi trường âm đạo ẩm ướt, dùng corticosteroids.
 
 ![Yếu tố nguy cơ viêm âm đạo do nấm](../../../../assets/phu-khoa/viem-am-dao-do-nam/yeu-to-nguy-co-cua-nam.png)
 
-_3 yếu tố dẫn đến mất cân bằng giữa khuẩn hệ (microbiome) và nấm hệ (fungal microbiome) (mycobiome): tổn thương niêm mạc, kháng sinh và rối loạn miễn dịch._
+_3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (microbiome) và hệ vi nấm (mycobiome): tổn thương niêm mạc, kháng sinh và rối loạn miễn dịch._
 
 ## Đặc điểm lâm sàng và chẩn đoán
 
@@ -30,131 +32,141 @@ _3 yếu tố dẫn đến mất cân bằng giữa khuẩn hệ (microbiome) v�
 
 ![Viêm âm hộ do Candida](../../../../assets/phu-khoa/viem-am-dao-do-nam/nam-candida-am-ho.png)
 
-_Âm hộ viêm đỏ rực, với các mảng trắng dầy, kèm theo là triệu chứng khô rát âm hộ, giao hợp đau và cảm giác rất khó chịu khi đi tiểu._
+_Âm hộ viêm đỏ rực, với các mảng trắng dầy. Bệnh nhân thường than phiền ngứa, rát, đau khi giao hợp và tiểu rát._
 
-Khí hư của nhiễm C.albicans rất đặc trưng, có dạng "phô mai sữa" không mùi, đặc, dính với pH từ 4-5.
+- **Khí hư**: Đặc trưng giống “phô mai sữa” (cottage cheese), không mùi, đặc, dính.  
+- **pH âm đạo**: Thường duy trì từ 4,0–5,0.  
+- **Triệu chứng**:  
+  - Ngứa âm đạo, âm hộ.  
+  - Đôi khi nóng rát, đau khi giao hợp, tiểu buốt.  
+  - Âm hộ và niêm mạc âm đạo viêm đỏ, lột da nhẹ.  
 
 ![Viêm âm đạo do Candida](../../../../assets/phu-khoa/viem-am-dao-do-nam/nam-candida-am-dao.png)
 
-_Tiết dịch âm đạo đặc trưng. Các mảng trắng bám trên thành âm đạo. Âm đạo viêm đỏ, khô._
+_Tiết dịch âm đạo đặc, các mảng trắng bám thành âm đạo, niêm mạc viêm đỏ, khô._
 
 ### Cận lâm sàng
 
-Soi dịch âm đạo được thực hiện bằng cách hòa bệnh phẩm lấy trên thành bên âm đạo với NaCl 0.9% và nhuộm màu với xanh methylene, sau đó quan sát dưới kính hiển vi. Nhuộm Gram cũng thường được dùng.
-
-Hiếm khi phải dùng đến cấy nấm trên môi trường chuyên dụng. Cấy trên môi trường chuyên dụng được chỉ định trong những trường hợp thất bại với điều trị kháng nấm, nhằm định danh các chủng không phải là Candida albicans hoặc trong trường hợp VVC được xếp vào loại VVC có biến chứng (theo CDC).
-
-Các xét nghiệm kết tụ latex (latex agglutination tests) có thể được dùng cho các trường hợp nhiễm chủng không Candida albicans, vì chúng không biểu hiện sợi tơ nấm giả trên mẫu thử.
+- **Soi tươi**: Hòa bệnh phẩm (dịch âm đạo hoặc mảng bào tử) với NaCl 0,9% rồi quan sát dưới kính hiển vi; nhuộm xanh methylene hoặc Gram để phát hiện sợi tơ nấm và bào tử.  
+- **Nhuộm Gram**: Thường thấy bào tử nấm và sợi nấm giả (pseudohyphae).  
+- **Cấy nấm**: Chỉ định khi thất bại điều trị hoặc nghi ngờ chủng không phải Candida albicans, nhằm xác định chủng và làm kháng nấm đồ.  
+- **Xét nghiệm latex agglutination**: Dùng để xác định nhanh một số chủng Candida không sinh giả tơ nấm.
 
 ### Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán viêm âm đạo do nấm]
-Lâm sàng:
+**Lâm sàng:**  
+- Ngứa âm đạo, âm hộ.  
+- Đôi khi nóng rát, tiểu rát, đau khi giao hợp.  
+- Âm hộ và niêm mạc âm đạo viêm đỏ, lột vảy.  
+- Huyết trắng đục, đặc, lợn cợn thành mảng giống sữa đông.
 
-- Ngứa âm đạo, âm hộ.
-- Đôi khi cảm giác nóng, tiểu rát, giao hợp đau.
-- Âm hộ và niêm mạc âm đạo viêm đỏ và tróc ra.
-- Huyết trắng đục, đặc, lợn cợn thành mảng giống như sữa đông, vôi vữa.
+**Cận lâm sàng:**  
+- Nhuộm soi thấy sợi tơ nấm hoặc bào tử nấm.
 
-Cận lâm sàng nhuộm soi thấy sợi tơ nấm hoặc bào tử nấm.
+**Phân loại theo CDC 2010:**  
+- **VVC không biến chứng:**  
+  - Nhiễm đơn thuần hoặc thỉnh thoảng.  
+  - Triệu chứng nhẹ đến trung bình.  
+  - Nghi ngờ Candida albicans.  
+  - Phụ nữ không suy giảm miễn dịch.  
+- **VVC có biến chứng:**  
+  - Tái phát ≥ 4 lần/năm.  
+  - Triệu chứng nặng.  
+  - Nghi ngờ hoặc có bằng chứng nhiễm nấm không phải Candida albicans.  
+  - Phụ nữ đái tháo đường, bệnh nội khoa nặng, hoặc suy giảm miễn dịch.  
+
 :::
-
-Theo CDC 2010, VVC được chia làm 2 dạng không biến chứng và có biến chứng:
-
-- VVC được xếp vào nhóm không biến chứng khi nhiễm Candida thỏa các yếu tố:
-  - Nhiễm đơn thuần hoặc thỉnh thoảng.
-  - Triệu chứng từ nhẹ tới trung bình.
-  - Nghi ngờ nhiễm Candida albicans.
-  - Phụ nữ không suy giảm miễn dịch.
-- VVC được xếp vào nhóm có biến chứng khi rơi vào trong các tình huống sau:
-  - Tái phát ≥ 4 lần/năm.
-  - Triệu chứng mức độ nặng.
-  - Nghi ngờ hoặc có bằng chứng nhiễm nấm không phải Candida albicans.
-  - Phụ nữ bị đái tháo đường, bệnh lý nội khoa nặng hoặc suy giảm miễn dịch.
 
 ## Điều trị
 
 ### Nguyên tắc điều trị
 
-Việc tự điều trị bằng thuốc không cần kê toa (tự điều trị) đối với phụ nữ có VVC có thể an toàn và hiệu quả. Tuy nhiên bất kỳ sự không đáp ứng với thuốc hoặc bị tái phát sớm sau điều trị cần phải được khám xét bởi bác sĩ lâm sàng để cho chẩn đoán đáng tin cậy. Những bệnh nhân tự điều trị được khuyên ngưng thuốc 3 ngày trước khi khám lại.
-
-Điều trị VVC tùy thuộc trước tiên vào nhóm nhiễm nào có hay không có biến chứng.
-
-Các điều trị đa giá kết hợp nhiều tác nhân như kháng nấm và kháng sinh có thể có tác động tiêu cực trên mối quan hệ giữa khuẩn hệ và nấm hệ, làm cho vấn đề không những không cải thiện mà có thể còn phức tạp hơn. Kháng viêm có thể cải thiện triệu chứng của viêm, nhưng
-lại ảnh hưởng tiêu cực đến cân bằng microbiome.
+- Việc tự dùng thuốc không kê toa cho VVC có thể an toàn và hiệu quả nếu bệnh nhân hiểu rõ triệu chứng điển hình.  
+- Nếu không đáp ứng hoặc tái phát sớm sau điều trị, cần khám bởi bác sĩ để xác định chính xác tình trạng và nguyên nhân (chủng Candida, yếu tố nguy cơ).  
+- Tránh sử dụng phối hợp kháng nấm với kháng sinh không cần thiết, vì có thể làm rối loạn thêm hệ vi sinh và mycobiome. Kháng viêm (steroid) chỉ giúp giảm triệu chứng viêm nhưng có thể ảnh hưởng tiêu cực đến cân bằng vi sinh.  
+- Điều trị cần dựa trên mức độ nặng, loại Candida, tình trạng thai kỳ, bệnh lý kèm theo.
 
 #### VVC không biến chứng
 
-Điều trị khá đơn giản với VVC không biến chứng. Có 2 nhóm thuốc dùng là cho VVC không biến chứng là:
+**Thuốc nhóm Azole (Imidazoles):**  
+- **Miconazole, Clotrimazole, Butoconazole, Tioconazole, Terconazole** (dạng kem hoặc viên đặt).  
+  - Ví dụ: Clotrimazole 200 mg đặt âm đạo mỗi ngày x 3 ngày, hoặc Miconazole 100 mg đặt mỗi ngày x 7 ngày.  
+- **Fluconazole uống** 150 mg liều đơn.  
+  - Tác dụng nhanh, hiệu quả ~90%.  
+  - Fluconazole liều thấp (150 mg) an toàn trong thai kỳ. Liều cao hàng ngày (400–800 mg) có liên quan đến nguy cơ khuyết tật thai nhi.  
+- **Nystatin** (dạng viên đặt âm đạo) là lựa chọn an toàn khi mang thai.  
 
-- Các -imidazole.
-- Nystatin.
+Tái phát sau 1 tháng chiếm ~20–30% trường hợp.  
+- Nếu tái phát, có thể **Fluconazole uống 150 mg mỗi tuần x 6 tháng** (giảm tái phát ~50%).  
+- Ngoài ra, liệu pháp đặt âm đạo 1–2 lần/tuần cũng được dùng để dự phòng.
 
-Điều trị chính đối với VVC là các loại Imidazoles tổng hợp như miconazole, clotrimazole, butoconazole, tioconazole và terconazole dạng cream hoặc viên dùng qua đường đặt âm đạo. Cụ thể:
+**Bạn tình:**  
+- Nếu không có triệu chứng, không phải điều trị.  
+- Chỉ cân nhắc điều trị bạn tình khi bạn nữ tái phát nhiều lần mà không có yếu tố nguy cơ rõ ràng.
 
-- Các nhóm thuốc azole đường uống có liên quan đến nguy cơ tăng men gan.
-- Liệu pháp đơn liều với 150mg fluconazole cũng được sử dụng rộng rãi.
-- Liều thấp của fluconazole là an toàn trong thai kỳ. Ghi nhận liều cao hàng ngày của fluconazole (400-800mg mỗi ngày) có liên quan đến khuyết tật lúc sinh.
-- Nystatin cũng được sử dụng trong thai kỳ.
-
-Mặc dù các loại kháng nấm thông dụng cho tỷ lệ khỏi bệnh cao, khoảng 20-30% bệnh nhân sẽ bị tái phát sau 1 tháng điều trị. Lúc này, liệu pháp uống fluconazole mỗi tuần 1 lần trong 6 tháng có hiệu quả trong ngăn ngừa tái phát ở 50% phụ nữ. Liệu pháp thuốc đặt âm đạo mỗi tuần hoặc 2 lần 1 tuần cũng được sử dụng để phòng ngừa.
-
-Nếu bạn tình không có triệu chứng lâm sàng thì không có chỉ định điều trị cho bạn tình. Ngoại trừ điều trị theo kinh nghiệm cho bạn tình của người bị VVC tái phát nhiều lần mà không có bất cứ yếu tố nào khác được nhận diện.
-
-Candida glabrata đề kháng với tất cả các -imidazoles. Khi đó có thể dùng liệu pháp viên bao boric acid hoặc tím gentian (gentian violet).
+**Chủng Candida glabrata:**  
+- Thường kháng với imidazole.  
+- Điều trị thay thế có thể dùng **Boric acid viên nang đặt âm đạo** hoặc **Gentian violet** (mực tím).
 
 #### VVC có biến chứng
 
-VVC tái phát nhiều lần, cần tìm yếu tố nguy cơ. Trong trường hợp cần thiết, nên cấy định danh loại Candida và làm kháng sinh đồ nấm. Bệnh nhân bị tái phát thường xuyên nên cẩn thận đánh giá các yếu tố nguy cơ như đái tháo đường hoặc suy giảm
-miễn dịch.
+- Tái phát ≥ 4 lần/năm hoặc nhiễm nấm không phải C. albicans, cần cấy nấm và kháng nấm đồ.  
+- Đánh giá yếu tố nguy cơ: đái tháo đường, suy giảm miễn dịch.  
+- Liệu pháp dự phòng: Fluconazole 150 mg uống mỗi tuần x 6 tháng.  
+- Khuyến khích đánh giá và điều chỉnh các nguyên nhân nền (kiểm soát đường huyết, cân bằng miễn dịch).  
+- Probiotics chưa được chứng minh chắc chắn hiệu quả, chỉ dùng theo kinh nghiệm cho một số trường hợp tái phát nhiều lần.
 
-Liệu pháp dự phòng tại chỗ với thuốc kháng nấm nên được xem xét khi bệnh nhân đang dùng kháng sinh toàn thân. Việc điều trị phòng ngừa với fluconazole 150mg x 1 viên mỗi tuần trong 6 tháng có thể giúp đỡ hạn chế tái phát.
+#### Điều trị tại chỗ (Chemoprophylaxis)
 
-#### Điều trị hệ vi khuẩn âm đạo
+| Loại thuốc               | Biệt dược                 | Dạng thuốc                     | Liều dùng                                                                 |
+|---------------------------|---------------------------|--------------------------------|---------------------------------------------------------------------------|
+| **Butoconazole**          | Gynazole-1, Mycclex-3     | 2% cream âm đạo                | Gynazole-1: 1 lần/ngày x 1 ngày<br>Mycclex-3: 1 lần/ngày x 3 ngày        |
+| **Clotrimazole**          | Gyne-Lotrimin 7, Mecclex-7| 1%–2% cream âm đạo hoặc viên   | Gyne-Lotrimin 7 (1% cream) x 1/ngày x 7 ngày<br>Mecclex-7 (2% cream) x 1/ngày x 3 ngày<br>Gyne-Lotrimin 3 (200 mg viên) x 1/ngày x 3 ngày |
+| **Clotrimazole + Betamethasone** | Lotrisone         | 1% Clotrimazole + 0.05% Betamethasone cream| Bôi vùng âm hộ 2 lần/ngày x tối đa 2 tuần    |
+| **Miconazole**            | Monistat-3, Monistat-7, Monistat Dual Pack | 2%–4% cream âm đạo hoặc viên đặt| Monistat-3 (4% cream) x 1/ngày x 7 ngày<br>Monistat-7 (2% cream) x 1/ngày x 3 hoặc 7 ngày<br>Monistat Dual Pack (1200 mg viên + 2% cream) x 1/ngày x 1 ngày |
+| **Terconazole** (kê toa)  | Terazol 3, Terazol 7      | 80 mg viên đặt hoặc 0,4–0,8% cream| Terazol 3 (80 mg viên) x 1/ngày x 3 ngày<br>Terazol 7 (0,4% cream) x 1/ngày x 7 ngày hoặc 0,8% cream x 1/ngày x 3 ngày |
+| **Tioconazole**           | Vagistat-1, Monistat-1    | 6,5% gel/dầu âm đạo            | 1 lần đặt âm đạo x 1 ngày                                               |
+| **Econazole nitrate**     | Spectrazole               | 1% cream âm đạo                | Bôi vùng âm hộ 2 lần/ngày x 7 ngày                                       |
+| **Nystatin**              | Pyolette Nystatin, Mycostatin| Viên đặt âm đạo hoặc bột bôi   | Pyolette: 100.000 ĐV/viên x 1/ngày x 14 ngày (ưu tiên 3 tháng đầu thai kỳ)<br>Mycostatin bột: 100.000 ĐV/g, bôi âm hộ 2 lần/ngày x 14 ngày |
+| **Gentian violet**        | (mực tím)                 | Dung dịch 1%                   | Bôi vào sang thương (được sử dụng khi kháng nấm thất bại)                 |
 
-Tác dụng của điều trị Probiotics không được chứng minh. Các điều trị với probiotics chỉ được dùng theo kinh nghiệm cho những trường hợp VVC có biến chứng.
-
-Tuy nhiên, trong các nguyên nhân của VVC có biến chứng là suy yếu hệ thống miễn dịch, mà vấn đề này lại là chống chỉ định của điều trị với probiotics.
-
-![Thuốc kháng nấm](../../../../assets/phu-khoa/viem-am-dao-do-nam/thuoc-khang-nam.png)
+**_Thuốc kháng nấm tại chỗ (First line therapy) điều trị VVC không biến chứng._**
 
 ### Phác đồ Bệnh viện Từ Dũ
 
-Thuốc đặt âm đạo:
+**Thuốc đặt âm đạo:**  
+- Nystatin 100.000 đơn vị x 1 viên/ngày x 14 ngày.  
+- Clotrimazole 100 mg hoặc Metronidazole 100 mg đặt âm đạo x 1 viên/ngày x 7 ngày.  
+- Clotrimazole 200 mg hoặc Metronidazole 200 mg đặt âm đạo x 1 viên/ngày x 3 ngày.  
+- Clotrimazole 500 mg đặt âm đạo x 1 viên duy nhất.  
+- Econazole 150 mg đặt âm đạo x 1 viên/ngày x 3 ngày.  
+- Econazole nitrate (vi hạt) 150 mg đặt âm đạo x 1 viên/12 giờ x 1 ngày.  
+- Metronidazole 1200 mg đặt âm đạo x 1 viên duy nhất.
 
-- Nystatin 100.000 đơn vị đặt âm đạo x 1 viên/ngày x 14 ngày, hoặc
-- Metronidazole hay Clotrimazole 100mg đặt âm đạo x 1 viên/ngày x 7 ngày, hoặc
-- Metronidazole hay Clotrimazole 200mg đặt âm đạo x 1 viên/ngày x 3 ngày, hoặc
-- Clotrimazole 500mg đặt âm đạo x 1 viên duy nhất, hoặc
-- Econazole 150mg đặt âm đạo x 1 viên/ngày x 3 ngày, hoặc
-- Econazole nitrate 150mg (vi hạt) đặt âm đạo x 1 viên/12 giờ x 1 ngày, hoặc
-- Metronidazole 1200mg đặt âm đạo x 1 viên duy nhất.
+**Thuốc uống:**  
+- Fluconazole 150 mg uống 1 viên duy nhất.  
+- Itraconazole 100 mg uống 2 viên/ngày x 3 ngày.
 
-Thuốc uống:
+**Thuốc bôi ngoài da (âm hộ):**  
+- Clotrimazole kem bôi x 7 ngày.
 
-- Fluconazole 150mg uống x 1 viên duy nhất, hoặc
-- Itraconazole 100mg uống x 2 viên/ngày x 3 ngày.
-
-Thuốc bôi:
-
-Bôi thuốc kháng nấm ngoài da (vùng âm hộ) 7 ngày Clotrimazole.
-
-Vệ sinh tại chỗ:
-
-- Povidon iodin 10%.
-- Natri hydrocarbonat (muối Nabica) 5g pha rửa âm hộ.
+**Vệ sinh tại chỗ:**  
+- Rửa âm hộ bằng dung dịch povidone iodine 10%.  
+- Rửa bằng natri hydrocarbonat (muối NaBica) 5 g pha với nước ấm.
 
 :::caution[Lưu ý]
-Chỉ điều trị cho bạn tình khi có 1 trong các triệu chứng sau:
-
-- Viêm ngứa quy đầu.
-- Có nấm trong nước tiểu.
-- Phụ nữ tái phát nhiều lần.
-
-Metronidazole không dùng trong 3 tháng đầu thai kỳ.
+- Chỉ điều trị bạn tình khi có một trong các triệu chứng sau:  
+  - Viêm ngứa bao quy đầu.  
+  - Nấm có trong nước tiểu.  
+  - Bạn nữ tái phát nhiều lần mà không có yếu tố nguy cơ rõ ràng.  
+- **Metronidazole không dùng trong 3 tháng đầu thai kỳ** (dẫn xuất 5-nitroimidazole).  
 :::
 
 ## Nguồn tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning: Viêm âm đạo do nấm_ 
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_  
+- Ghebre, M., & Wang, X. (2018). _Diagnosis and Treatment of Vulvovaginal Candidiasis_
+- Centers for Disease Control and Prevention (CDC) (2010) – _Sexually Transmitted Diseases Treatment Guidelines_ 
+- Sobel, J. D. (2016). _Vulvovaginal candidosis_
