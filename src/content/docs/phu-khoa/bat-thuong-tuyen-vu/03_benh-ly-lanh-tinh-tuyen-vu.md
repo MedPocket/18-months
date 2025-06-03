@@ -46,7 +46,7 @@ Bướu sợi-tuyến (Fibroadenoma) là khối u lành tính phát triển từ
 
 - **Siêu âm**:
   - Khối giảm âm đồng nhất, bờ rõ, đôi khi có múi, thành trước dày, tăng âm phía sau (posterior acoustic enhancement).
-  - Hình dạng: hình tròn hoặc bầu dục, chiều dài lớn hơn chiều ngang (orientation “parallel” với da).
+  - Hình dạng: hình tròn hoặc bầu dục, chiều dài lớn hơn chiều ngang (orientation "parallel" với da).
 - **Nhũ ảnh**:
   - Khối hình tròn/bầu dục, bờ sắc nét, có thùy nhẹ, không xâm lấn mô xung quanh.
   - Thường bao quanh bởi vầng sáng mỏng (halo) do mô mỡ – đặc trưng cho khối lành tính.
@@ -180,7 +180,7 @@ _Nang vú trên siêu âm: (Trái) nang điển hình: phản âm trống, bóng
 ## Bệnh Hamartoma (Fibroadenolipoma)
 
 **Định nghĩa**  
-Hamartoma là khối tổ chức lành tính, gồm các thành phần bình thường của vú (mô tuyến, mô mỡ, mô liên kết) nhưng phân bố và cấu trúc rối loạn. Được xem như “tân sinh” nhưng không có tính xâm lấn.
+Hamartoma là khối tổ chức lành tính, gồm các thành phần bình thường của vú (mô tuyến, mô mỡ, mô liên kết) nhưng phân bố và cấu trúc rối loạn. Được xem như "tân sinh" nhưng không có tính xâm lấn.
 
 **Dịch tễ & Lâm sàng**
 
@@ -194,12 +194,12 @@ Hamartoma là khối tổ chức lành tính, gồm các thành phần bình th�
   - Khối đồng nhất, hỗn hợp âm (mixed echogenicity) do thành phần mỡ và mô đặc xen kẽ.
   - Bờ rõ, đôi khi có vòng sáng mỏng (halo) do mô mỡ tràn xung quanh.
 - **Nhũ ảnh**:
-  - Hình ảnh “vú trong vú” (breast within breast): khối tròn/bầu dục, biên rõ, có vùng mỡ thấu quang xen lẫn vùng cản quang (tổ hợp mô đặc – mỡ).
+  - Hình ảnh "vú trong vú" (breast within breast): khối tròn/bầu dục, biên rõ, có vùng mỡ thấu quang xen lẫn vùng cản quang (tổ hợp mô đặc – mỡ).
   - Có vỏ bao mỏng, phân biệt rõ với mô xung quanh.
 
 ![Nhũ ảnh của Hamartoma vú, phim LMO vú phải và phim CC](../../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/benh-hamartoma.png)
 
-_Nhũ ảnh Hamartoma vú: hình ảnh “vú trong vú”, vỏ bao mỏng bao quanh tổ hợp mô thấu quang – cản quang.)_
+_Nhũ ảnh Hamartoma vú: hình ảnh "vú trong vú", vỏ bao mỏng bao quanh tổ hợp mô thấu quang – cản quang.)_
 
 **Chẩn đoán phân biệt**
 
@@ -277,7 +277,7 @@ U mỡ (Lipoma) là khối u lành tính thường gặp nhất ở mô mỡ, ba
 
 **Định nghĩa**
 
-- **Tuyến vú phụ (Polymastia)**: xuất hiện mô tuyến vú ngoài vị trí vú chính, thường dọc theo “đường sữa” (milk line) từ nách đến háng.
+- **Tuyến vú phụ (Polymastia)**: xuất hiện mô tuyến vú ngoài vị trí vú chính, thường dọc theo "đường sữa" (milk line) từ nách đến háng.
 - **Núm vú phụ (Polythelia)**: núm vú hoặc các nhú vú phụ không kèm nhu mô đầy đủ.
 
 **Dịch tễ & Lâm sàng**
@@ -326,7 +326,7 @@ Bệnh vú thay đổi sợi bọc (Fibrocystic changes) là nhóm tổn thươn
   - Nhiều nang nhỏ, cấu trúc hỗn hợp âm do nang và mô đặc xen kẽ.
   - Khu vực xơ hóa có thể giảm âm không đồng nhất, bờ không rõ bước.
 - **Nhũ ảnh**:
-  - Vú đậm đặc, mô xơ tăng sinh, có thể thấy vi xơ (microcalcifications) dạng “chuỗi” hoặc “hạt” rải rác.
+  - Vú đậm đặc, mô xơ tăng sinh, có thể thấy vi xơ (microcalcifications) dạng "chuỗi" hoặc "hạt" rải rác.
   - Radial scar biểu hiện dưới dạng bóng xơ có tia kéo (spiculated).
 
 **Chẩn đoán phân biệt & Xử trí**

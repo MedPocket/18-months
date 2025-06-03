@@ -21,9 +21,9 @@ Tiếp cận có thể **nội khoa** hoặc **ngoại khoa**.
 
 ### Bệnh học & bệnh sinh
 
-- Là “giả nang” không vỏ, phát triển trên bề mặt buồng trứng, bao gồm biểu mô nội mạc tử cung và mô đệm tùy hành.
-- Trong chu kỳ, lớp nội mạc bên trong nang cũng hành kinh—máu bị giữ lại, cô đặc thành dịch nâu “chocolate” giàu hemosiderin.
-- Giả thuyết cấy ghép: máu kinh trào ngược qua vòi Fallope, “gieo” tế bào nội mạc lên buồng trứng. Tế bào nguyên thủy (progenitor) phát triển khi đáp ứng miễn dịch cho phép. Đột biến HMGA1/HMGA2 liên quan.
+- Là "giả nang" không vỏ, phát triển trên bề mặt buồng trứng, bao gồm biểu mô nội mạc tử cung và mô đệm tùy hành.
+- Trong chu kỳ, lớp nội mạc bên trong nang cũng hành kinh—máu bị giữ lại, cô đặc thành dịch nâu "chocolate" giàu hemosiderin.
+- Giả thuyết cấy ghép: máu kinh trào ngược qua vòi Fallope, "gieo" tế bào nội mạc lên buồng trứng. Tế bào nguyên thủy (progenitor) phát triển khi đáp ứng miễn dịch cho phép. Đột biến HMGA1/HMGA2 liên quan.
 - Cơ chế viêm: arachidonic acid → COX-2 → prostaglandin PGE₂ → kích hoạt aromatase/STAR → tăng estrogen, duy trì mô lạc vị.
 
   ![Thuyết cấy ghép, quá trình viêm và cường estrogen](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/thuyet-cay-ghep-qua-trinh-viem-va-cuong-estrogen.png)

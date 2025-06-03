@@ -42,7 +42,7 @@ Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vagin
 - **Triệu chứng kèm:**
   - Có thể ngứa âm hộ – âm đạo.
   - Tiểu rát, tiểu buốt (nếu niệu đạo có liên quan).
-  - Trường hợp nặng có thể có “dấu hiệu trái dâu tây” (strawberry cervix): âm đạo và cổ tử cung có những điểm xuất huyết nhỏ, lấm tấm do mao mạch vỡ.
+  - Trường hợp nặng có thể có "dấu hiệu trái dâu tây" (strawberry cervix): âm đạo và cổ tử cung có những điểm xuất huyết nhỏ, lấm tấm do mao mạch vỡ.
 
 **Cận lâm sàng**
 

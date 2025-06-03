@@ -104,7 +104,7 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 
 - Rất hiếm: khoảng 1/9000–1/12000.
 - Siêu âm thấy túi thai nằm ở cổ tử cung, lòng tử cung trống.
-- Hình ảnh “đồng hồ cát”, mạch máu quanh túi thai phát triển mạnh, không có dấu hiệu trượt.
+- Hình ảnh "đồng hồ cát", mạch máu quanh túi thai phát triển mạnh, không có dấu hiệu trượt.
 
 ### Thai ở buồng trứng
 

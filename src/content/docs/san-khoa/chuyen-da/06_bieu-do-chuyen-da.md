@@ -17,7 +17,7 @@ Vì giai đoạn xóa mở cổ tử cung bao gồm hai pha liên tiếp, nên c
 ## Các yếu tố ảnh hưởng đến tiến triển chuyển dạ (3P)
 
 1. **Power (Cơn co tử cung)**: Là động lực chính thúc đẩy xóa mở cổ tử cung. Cơn co yếu, không đều hoặc không phối hợp làm chậm tiến trình chuyển dạ.
-2. **Passenger (Thai nhi)**: Ngôi bất thường, thai quá to hoặc dị tật làm tăng nguy cơ kéo dài chuyển dạ. Lưu ý: thuật ngữ “chuyển dạ kéo dài” thường áp dụng cho ngôi chỏm.
+2. **Passenger (Thai nhi)**: Ngôi bất thường, thai quá to hoặc dị tật làm tăng nguy cơ kéo dài chuyển dạ. Lưu ý: thuật ngữ "chuyển dạ kéo dài" thường áp dụng cho ngôi chỏm.
 3. **Passage (Đường sinh)**: Các bất thường về kích thước, hình dạng hoặc khối u cản trở đường sinh cũng là nguyên nhân quan trọng.
 
 ## Chuyển dạ tắc nghẽn

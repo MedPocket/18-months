@@ -13,8 +13,8 @@ description: Mô tả sinh lý phát triển nang noãn từ bào thai đến m�
 - **Chiêu mộ nguyên khởi**: mỗi đợt 400 nang nguyên thủy được đánh thức, độc lập với FSH/LH.
 - **Cơ chế cận tiết**:
 
-  - **PTEN–PI3K–Akt**: cân bằng PTEN (ức chế) và PI3K (kích hoạt) quyết định nang nào “thức giấc”.
-  - **AMH** (từ tế bào hạt nang tiền hốc → nang hốc nhỏ) ức chế quá mức chiêu mộ, như “người gác cổng”.
+  - **PTEN–PI3K–Akt**: cân bằng PTEN (ức chế) và PI3K (kích hoạt) quyết định nang nào "thức giấc".
+  - **AMH** (từ tế bào hạt nang tiền hốc → nang hốc nhỏ) ức chế quá mức chiêu mộ, như "người gác cổng".
 
   ![Con đường PTEN/PI3K/AKT](../../../../assets/phu-khoa/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/con-duong-pten-pi3k-akt.png)
 
@@ -23,7 +23,7 @@ description: Mô tả sinh lý phát triển nang noãn từ bào thai đến m�
 ## Phát triển nang trước khi lệ thuộc gonadotropin
 
 - Nang đã chiêu mộ → noãn sơ cấp → noãn thứ cấp sớm → noãn thứ cấp muộn.
-- AMH tiếp tục kìm hãm tăng tốc phát triển, bảo vệ chỉ còn 10 nang/noãn trên 60–90 ngày vào giai đoạn “lệ thuộc gonadotropin”.
+- AMH tiếp tục kìm hãm tăng tốc phát triển, bảo vệ chỉ còn 10 nang/noãn trên 60–90 ngày vào giai đoạn "lệ thuộc gonadotropin".
 
   ![Điều hòa chiêu mộ noãn nang](../../../../assets/phu-khoa/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/dieu-hoa-chieu-mo-noan-nang.png)
 

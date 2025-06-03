@@ -27,7 +27,7 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 
 ### Nguyên tắc chung
 
-- **Không** bóc u xơ “đại trà” trong mổ lấy thai nếu không có chỉ định.
+- **Không** bóc u xơ "đại trà" trong mổ lấy thai nếu không có chỉ định.
 - Cân nhắc **kỹ**:
   - Kinh nghiệm phẫu thuật viên
   - Lượng máu dự trữ

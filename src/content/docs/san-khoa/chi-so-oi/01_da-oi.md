@@ -42,7 +42,7 @@ description: Đa ối là tình trạng dư thừa dịch ối so với mức b�
 
 ## Chẩn đoán
 
-Chủ yếu dựa vào siêu âm. Lâm sàng: bề cao tử cung lớn hơn tuổi thai, dấu hiệu quá tải (khó thở, tim nhanh), sờ bụng có “sóng vỗ”, thăm âm đạo thấy “cục đá”. Siêu âm hình thái, đo chiều dài cổ tử cung; nghiệm pháp dung nạp đường huyết; xét nghiệm TORCH, karyotype, thalassemia…
+Chủ yếu dựa vào siêu âm. Lâm sàng: bề cao tử cung lớn hơn tuổi thai, dấu hiệu quá tải (khó thở, tim nhanh), sờ bụng có "sóng vỗ", thăm âm đạo thấy "cục đá". Siêu âm hình thái, đo chiều dài cổ tử cung; nghiệm pháp dung nạp đường huyết; xét nghiệm TORCH, karyotype, thalassemia…
 
 :::note[Tiêu chuẩn chẩn đoán đa ối]
 

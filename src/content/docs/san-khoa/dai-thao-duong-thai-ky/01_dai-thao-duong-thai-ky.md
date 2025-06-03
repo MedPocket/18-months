@@ -25,7 +25,7 @@ Theo Liên đoàn Sản – Phụ khoa Thế giới (FIGO), HIP (Hyperglycemia I
    - Rối loạn dung nạp glucose (Impaired Glucose Tolerance – IGT): 2h nghiệm pháp dung nạp glucose 75 g (Oral Glucose Tolerance Test - OGTT) 75 g 140–199 mg/dL (7.8–11.0 mmol/L).
    - HbA1c 5.7–6.4%.
 
-4. **Đái tháo đường “rõ” (Overt diabetes in pregnancy – DIP)**
+4. **Đái tháo đường "rõ" (Overt diabetes in pregnancy – DIP)**
 
    - Mức glucose huyết tương đạt tiêu chuẩn chẩn đoán đái tháo đường ở người không mang thai (WHO 2006).
    - Phát hiện lần đầu trong thai kỳ, có thể ngay tam cá nguyệt 1.

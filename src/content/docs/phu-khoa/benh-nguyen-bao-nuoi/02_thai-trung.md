@@ -55,7 +55,7 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 ### Siêu âm
 
-- **Thai trứng toàn phần**: “tổ ong”/“bão tuyết” không thấy phôi, hình ảnh nhiều nang nước.
+- **Thai trứng toàn phần**: "tổ ong"/"bão tuyết" không thấy phôi, hình ảnh nhiều nang nước.
   ![Hình ảnh siêu âm thai trứng toàn phần](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-toan-phan.png)
 
   _Hình ảnh siêu âm thai trứng toàn phần._

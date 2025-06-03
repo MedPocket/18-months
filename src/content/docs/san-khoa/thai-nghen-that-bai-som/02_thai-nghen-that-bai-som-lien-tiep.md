@@ -28,7 +28,7 @@ Một số nghiên cứu nhỏ gợi ý thuốc trừ sâu, kim loại nặng, t
 
 ### Viêm mạn nội mạc tử cung
 
-Viêm mạn và bất thường cơ chế “kiểm soát” làm tổ tại nội mạc tử cung có thể góp phần vào RPL, cần thêm nghiên cứu và dữ liệu đối chứng.
+Viêm mạn và bất thường cơ chế "kiểm soát" làm tổ tại nội mạc tử cung có thể góp phần vào RPL, cần thêm nghiên cứu và dữ liệu đối chứng.
 
 ### Hút thuốc lá, béo phì và uống rượu
 

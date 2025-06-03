@@ -13,7 +13,7 @@ Phân loại theo FIGO 2002 (cập nhật gợi ý theo FIGO 2018):
 
   - **Thai trứng toàn phần (Complete mole)**
     - NST thường là 46,XX toàn bố (đơn bố) hoặc 46,XY (hiếm).
-    - Không có mô phôi phôi thai; hình ảnh siêu âm “mây tuyết”, tăng sản gai rau lan toả.
+    - Không có mô phôi phôi thai; hình ảnh siêu âm "mây tuyết", tăng sản gai rau lan toả.
   - **Thai trứng bán phần (Partial mole)**
     - Thường tam bội 69,XXY/69,XXX/69,XYY.
     - Có mô phôi hoặc túi phôi nhỏ, gai rau phồng nước không đồng nhất.

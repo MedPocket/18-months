@@ -30,7 +30,7 @@ _Phân chia cổ điển: CIN theo mô học, tế bào học quan sát tế bà
 
 ### Luận điểm hiện đại
 
-Hiện nay, biết rằng CIN không nhất thiết phải trải qua tuần tự từ thấp lên cao; một số CIN 2–3 xuất hiện “nhảy bậc” mà không qua CIN 1. Yếu tố then chốt bao gồm:
+Hiện nay, biết rằng CIN không nhất thiết phải trải qua tuần tự từ thấp lên cao; một số CIN 2–3 xuất hiện "nhảy bậc" mà không qua CIN 1. Yếu tố then chốt bao gồm:
 
 1. **Genotype HPV**: HPV type 16 chịu trách nhiệm khoảng 55–60% ca ung thư cổ tử cung, type 18 chiếm 10–15%. Có khoảng 12 type HPV nguy cơ cao khác.
 2. **Khả năng thanh thải HPV**: Đa số nhiễm HPV ở phụ nữ trẻ (≤ 21 tuổi) tự khỏi trong 8–24 tháng do đáp ứng miễn dịch.

@@ -37,7 +37,7 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 - Cơ chế cầm máu cơ học thất bại: cơ đan chéo không co bóp, không siết được mạch máu diện rau.
 - Nguyên nhân: tử cung mệt sau chuyển dạ kéo dài, quá căng (thai to, đa thai, đa ối), nhiễm trùng, cơ tử cung suy yếu do đa sản.
 
-> **Chẩn đoán**: sờ bụng thấy tử cung mềm, nhão, không có “khối cầu an toàn” hoặc co chỉ khi xoa bóp.
+> **Chẩn đoán**: sờ bụng thấy tử cung mềm, nhão, không có "khối cầu an toàn" hoặc co chỉ khi xoa bóp.
 
 ### Tổn thương đường sinh dục
 

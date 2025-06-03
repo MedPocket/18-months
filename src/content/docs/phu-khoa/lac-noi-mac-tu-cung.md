@@ -20,7 +20,7 @@ Hai đặc trưng mô bệnh học:
 
 _Adenomyosis là cấu trúc tuyến-nội mạc trong cơ tử cung, viền không rõ, không có vỏ bao, quanh đó có viêm._
 
-Mô tuyến lạc vị có kiểu hình và biểu hiện gene khác với nội mạc chính vị. Tăng sản cơ và tăng dưỡng tế bào cơ làm tử cung to, cứng, bất đối xứng như “quả cầu bằng gỗ”.
+Mô tuyến lạc vị có kiểu hình và biểu hiện gene khác với nội mạc chính vị. Tăng sản cơ và tăng dưỡng tế bào cơ làm tử cung to, cứng, bất đối xứng như "quả cầu bằng gỗ".
 
 ![Mặt cắt của adenomyosis](../../../assets/phu-khoa/lac-noi-mac-tu-cung/mat-cat-adenomyosis.png)
 
@@ -73,7 +73,7 @@ _Adenomyosis trên MRI._
 
 ### Lâm sàng
 
-Adenomyosis thường “ồn ào” triệu chứng: thống kinh, AUB-A, đau vùng chậu, đôi khi hiếm muộn.
+Adenomyosis thường "ồn ào" triệu chứng: thống kinh, AUB-A, đau vùng chậu, đôi khi hiếm muộn.
 
 #### Thống kinh
 

@@ -38,7 +38,7 @@ Siêu âm qua đường âm đạo (TVS) ưu thế về độ phân giải, giú
 1. Túi thai trong tử cung. Sự có mặt hướng tới thai trong tử cung, ngoại trừ trường hợp túi giả hoặc song thai hỗn hợp.
 2. Hoạt động của phôi và túi noãn hoàng. Phôi có tim thai thường thấy từ tuần 6; túi noãn hoàng xuất hiện từ 5+1⁄2 tuần.
 
-Nếu TVS không thấy túi thai ở tuổi siêu âm 5.5–6 tuần, cần xem xét thêm thai ngoài tử cung hoặc khảo sát bổ sung. TVS còn giúp chẩn đoán thai trứng với hình ảnh “tổ ong” và đánh giá các dạng bệnh nguyên bào nuôi.
+Nếu TVS không thấy túi thai ở tuổi siêu âm 5.5–6 tuần, cần xem xét thêm thai ngoài tử cung hoặc khảo sát bổ sung. TVS còn giúp chẩn đoán thai trứng với hình ảnh "tổ ong" và đánh giá các dạng bệnh nguyên bào nuôi.
 
 ## Định lượng β-hCG là tiếp cận thứ cấp
 

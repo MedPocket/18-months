@@ -23,13 +23,13 @@ Chẩn đoán khối tân lập ở buồng trứng luôn phải đi kèm dự �
    - Cắt trọn khối, không vỡ u; cắt ruột thừa, mạc nối lớn khi cần.
 2. Ghi chép đầy đủ TNM để xác định giai đoạn FIGO.
 3. Điều trị bổ sung (hóa/trị xạ) tùy loại ung thư, giai đoạn, grade.
-4. Nội soi “second look” để đánh giá đáp ứng và tái phát.
+4. Nội soi "second look" để đánh giá đáp ứng và tái phát.
 
 ## Phòng ngừa ung thư buồng trứng
 
 - **Mang thai đủ tháng**, **cho con bú**, **dùng COC** làm giảm nguy cơ ung thư biểu mô buồng trứng.
 - **Cắt buồng trứng dự phòng** là biện pháp duy nhất ngăn ngừa hoàn toàn.
-  > ACOG: “Giữ lại buồng trứng nếu chưa mãn kinh. Tuy nhiên, xét nguy cơ tuổi mãn kinh, có thể cân nhắc cắt bỏ buồng trứng.”
+  > ACOG: "Giữ lại buồng trứng nếu chưa mãn kinh. Tuy nhiên, xét nguy cơ tuổi mãn kinh, có thể cân nhắc cắt bỏ buồng trứng."
 
 ## Giai đoạn ung thư buồng trứng theo FIGO
 

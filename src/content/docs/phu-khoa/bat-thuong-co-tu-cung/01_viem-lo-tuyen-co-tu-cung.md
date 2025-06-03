@@ -15,7 +15,7 @@ Tử cung được chia làm hai phần chính: phần trên là thân tử cung
   Phần thấp nhất tiếp xúc trực tiếp với âm đạo, có hình dạng elíp hoặc hình chóp nón, chia thành mép trước và mép sau cổ tử cung. Phần này bình thường được phủ bởi biểu mô lát tầng không sừng hóa.
 
 - **Cổ trong cổ tử cung (endocervix)**:  
-  Nằm phía trên cổ ngoài, hướng về buồng tử cung, tạo thành kênh cổ tử cung (cervical canal) nối từ lỗ ngoài đến lỗ trong cổ tử cung. Kênh cổ tử cung có nhiều nếp gấp dạng “cây cọ” (arbor vitae) giúp giữ kín sinh lý.
+  Nằm phía trên cổ ngoài, hướng về buồng tử cung, tạo thành kênh cổ tử cung (cervical canal) nối từ lỗ ngoài đến lỗ trong cổ tử cung. Kênh cổ tử cung có nhiều nếp gấp dạng "cây cọ" (arbor vitae) giúp giữ kín sinh lý.
 
 - **Lỗ ngoài cổ tử cung (external os)**:  
   Là vị trí mở của kênh cổ tử cung ra âm đạo. Hình dạng lỗ ngoài thường tròn ở phụ nữ chưa sinh và hơi dẹt ở phụ nữ đã sinh con.
@@ -200,7 +200,7 @@ _Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và
 ## Nguồn tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Nguyễn Văn A và cộng sự (2018) – “Cập nhật chẩn đoán và điều trị viêm lộ tuyến cổ tử cung”, _Tạp chí Sản Phụ Khoa Việt Nam_, 52(3): 45–52.
+- Nguyễn Văn A và cộng sự (2018) – "Cập nhật chẩn đoán và điều trị viêm lộ tuyến cổ tử cung", _Tạp chí Sản Phụ Khoa Việt Nam_, 52(3): 45–52.
 - Hội Y học TP. HCM (2019) – _Hướng dẫn chẩn đoán và điều trị các bệnh phụ khoa thường gặp_.
-- World Health Organization (2021) – “Cervical Intraepithelial Neoplasia and HPV: Guidelines for Screening and Treatment”.
-- Muñoz N., Kjaer S.K., Sigurdsson K. et al. (2016) – “Role of HPV in cervical cancer”, _The Lancet Oncology_, 17(5): e110–e118.
+- World Health Organization (2021) – "Cervical Intraepithelial Neoplasia and HPV: Guidelines for Screening and Treatment".
+- Muñoz N., Kjaer S.K., Sigurdsson K. et al. (2016) – "Role of HPV in cervical cancer", _The Lancet Oncology_, 17(5): e110–e118.

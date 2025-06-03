@@ -42,7 +42,7 @@ Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, 
 
 - **Nguồn**: tế bào hoàng thể sau phóng noãn; một phần từ vỏ thượng thận.
 - **Chức năng**:
-  - Chuẩn bị nội mạc tử cung cho giai đoạn “phân tiết” (secretory), hỗ trợ làm tổ.
+  - Chuẩn bị nội mạc tử cung cho giai đoạn "phân tiết" (secretory), hỗ trợ làm tổ.
   - Ức chế co cơ trơn tử cung, đóng cổ tử cung.
   - Phối hợp với estrogen điều hòa trục HPT.
 

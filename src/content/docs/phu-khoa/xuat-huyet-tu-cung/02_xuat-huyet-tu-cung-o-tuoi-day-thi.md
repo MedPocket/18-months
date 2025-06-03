@@ -137,7 +137,7 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
    - **Cận lâm sàng hình ảnh**:
      - **Siêu âm vùng chậu** (qua bụng hoặc đầu dò nhỏ):
        - Đo độ dày nội mạc, phát hiện u nang buồng trứng, polyp (nếu đã tiếp xúc âm đạo).
-       - Phát hiện hình ảnh “chuỗi hạt” của buồng trứng đa nang (PCOS).
+       - Phát hiện hình ảnh "chuỗi hạt" của buồng trứng đa nang (PCOS).
      - **Siêu âm Doppler hoặc SIS** (siêu âm bơm nước buồng tử cung) nếu nghi polyp, dính, bất thường lòng tử cung.
      - **MRI tuyến yên** nếu Prolactin tăng cao nghiêm trọng (> 100 ng/mL) hoặc có triệu chứng u tuyến yên (nhức đầu, rối loạn thị giác).
 
@@ -172,7 +172,7 @@ Chỉ định khi chảy máu do chu kỳ không phóng noãn, nội mạc dày 
 1. **Mục tiêu**:
 
    - Phân tiết hóa toàn bộ nội mạc bất thường →
-   - Sau ngưng progestogen, gây “hành kinh tống sạch” nội mạc cũ →
+   - Sau ngưng progestogen, gây "hành kinh tống sạch" nội mạc cũ →
    - Tiếp tục theo dõi chờ phóng noãn tự nhiên.
 
 2. **Chọn progestogen**:
@@ -191,7 +191,7 @@ Chỉ định khi chảy máu do chu kỳ không phóng noãn, nội mạc dày 
    - Sau đó ngưng: bé gái có thể có hành kinh trong vài ngày kế tiếp.
 
 4. **Theo dõi**:
-   - Giúp bé uống đủ liệu trình, theo dõi lượng máu, tính chất máu khi “hành kinh tống sạch”.
+   - Giúp bé uống đủ liệu trình, theo dõi lượng máu, tính chất máu khi "hành kinh tống sạch".
    - Sau khi hết chảy máu, tiếp tục theo dõi lịch kinh để đánh giá sự xuất hiện của chu kỳ phóng noãn đầu tiên.
 
 :::caution[Lưu ý]

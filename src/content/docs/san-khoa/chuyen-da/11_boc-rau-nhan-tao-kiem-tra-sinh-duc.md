@@ -62,7 +62,7 @@ Tương tự bóc rau: vô khuẩn, đường truyền tĩnh mạch, thuốc gi�
 
 1. Tay ngoài cố định đáy tử cung.
 2. Tay trong kiểm tra dọc thân tử cung (mặt trước, sau, hai bên).
-3. Kiểm tra đoạn dưới từ “3 giờ–9 giờ” theo kim đồng hồ.
+3. Kiểm tra đoạn dưới từ "3 giờ–9 giờ" theo kim đồng hồ.
 4. Đánh giá:
 
    - **Co hồi**: chắc (tốt) hay mềm (đờ).
@@ -94,7 +94,7 @@ Như kiểm tra tử cung, thêm valve âm đạo, kìm tim, gạc, dụng cụ 
 
 1. Ấn đáy tử cung giữ cố định.
 2. Người thứ hai đặt valve mở âm đạo.
-3. Dùng kìm tim kẹp lần lượt ở các “giờ” trên vòng cổ tử cung (12 giờ, 2 giờ, 4 giờ… 10 giờ), kiểm tra khoảng giữa mỗi lần kẹp:
+3. Dùng kìm tim kẹp lần lượt ở các "giờ" trên vòng cổ tử cung (12 giờ, 2 giờ, 4 giờ… 10 giờ), kiểm tra khoảng giữa mỗi lần kẹp:
    - Rách, chảy máu, phù nền.
 4. Lần mò quanh toàn bộ cổ tử cung theo kim đồng hồ.
 5. Lưu ý rách thường ở 3 giờ hoặc 9 giờ, có thể lan vào đoạn dưới.

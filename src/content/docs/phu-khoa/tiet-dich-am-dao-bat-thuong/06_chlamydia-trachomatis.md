@@ -39,7 +39,7 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 3. **Trẻ sơ sinh**
 
    - **Viêm kết mạc**: xuất hiện sau 5–14 ngày sau sinh, chảy mủ mắt, sưng nề mí.
-   - **Viêm phổi bẩm sinh**: khởi phát muộn sau 2–3 tuần, ho khan, âm thanh “rán rít” (staccato cough), không sốt.
+   - **Viêm phổi bẩm sinh**: khởi phát muộn sau 2–3 tuần, ho khan, âm thanh "rán rít" (staccato cough), không sốt.
 
 4. **Bệnh hột xoài (LGV)**
    - Tuýp L1–L3 xâm nhập sâu vào mô dưới niêm mạc và hạch bạch huyết.

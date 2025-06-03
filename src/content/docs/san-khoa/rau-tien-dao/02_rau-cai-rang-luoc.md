@@ -36,9 +36,9 @@ _Phân loại theo FIGO 2019._
 
 - Tam cá nguyệt I (6–14 tuần): túi thai làm tổ thấp, gần sẹo mổ cũ; thành trước đoạn dưới mỏng < 3 mm.
 - Tam cá nguyệt II–III (TVS & TAS):
-  - Lacunae (“moth-eaten”): xoang mạch đa hình trong bánh rau.
+  - Lacunae ("moth-eaten"): xoang mạch đa hình trong bánh rau.
   - Đường echo ranh giới rau-cơ mỏng hoặc mất liên tục.
-  - “Placental bulge”: lồi rau qua thành tử cung.
+  - "Placental bulge": lồi rau qua thành tử cung.
   - Cầu mạch máu và Doppler tăng sinh mạch rõ.
   - Xâm lấn bàng quang: mất đường echo thanh mạc và bàng quang.
 

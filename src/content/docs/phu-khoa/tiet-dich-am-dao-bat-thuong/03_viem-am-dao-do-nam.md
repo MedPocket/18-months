@@ -34,7 +34,7 @@ _3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (microbiome) v�
 
 _Âm hộ viêm đỏ rực, với các mảng trắng dầy. Bệnh nhân thường than phiền ngứa, rát, đau khi giao hợp và tiểu rát._
 
-- **Khí hư**: Đặc trưng giống “phô mai sữa” (cottage cheese), không mùi, đặc, dính.
+- **Khí hư**: Đặc trưng giống "phô mai sữa" (cottage cheese), không mùi, đặc, dính.
 - **pH âm đạo**: Thường duy trì từ 4.0–5.0.
 - **Triệu chứng**:
   - Ngứa âm đạo, âm hộ.

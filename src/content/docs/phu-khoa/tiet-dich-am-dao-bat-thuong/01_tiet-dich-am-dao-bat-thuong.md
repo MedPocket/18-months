@@ -31,7 +31,7 @@ Ngoài vai trò của Lactobacillus, hệ miễn dịch bẩm sinh (innate immun
 - **Miễn dịch bẩm sinh**: Đại thực bào, tế bào hình răng cưa (DC), tế bào giết tự nhiên (NK) thực bào và tiết cytokine (IFN-γ, TNF-α) để tiêu diệt mầm bệnh.
 - **Miễn dịch thích ứng**: Khi vi khuẩn xuyên qua hàng rào biểu mô, lympho B–T sinh kháng thể IgA, IgG, CD4+ và CD8+ tham gia phản ứng đặc hiệu.
 
-### Khái niệm hệ vi khuẩn “lành mạnh”
+### Khái niệm hệ vi khuẩn "lành mạnh"
 
 Môi trường âm đạo được hình thành bởi estrogen, kích thích biểu mô lát tầng tích tụ glycogen, tạo chất nền cho Lactobacillus phát triển. Ở người chưa dậy thì và mãn kinh, thiếu estrogen → giảm glycogen → hệ vi khuẩn ít Lactobacillus, pH âm đạo cao (6–8). Ở tuổi sinh sản, pH 3.5–4.7, Lactobacillus chiếm ưu thế, bảo vệ môi trường cân bằng.
 
@@ -132,7 +132,7 @@ _Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện 
    - **Viêm âm đạo do Candida**
      - Dịch trắng vón cục, không mùi hoặc hơi chua, ngứa rát âm đạo.
    - **Bacterial Vaginosis (BV)**
-     - Dịch xám, loãng, mùi tanh (“fishy”), pH âm đạo > 4.5, tế bào clue dương tính.
+     - Dịch xám, loãng, mùi tanh ("fishy"), pH âm đạo > 4.5, tế bào clue dương tính.
    - **Viêm âm đạo do Trichomonas vaginalis**
      - Dịch vàng xanh, bọt, mùi hôi, pH âm đạo > 5, ngứa, tiểu rát.
    - **Viêm cổ tử cung mủ (Cervicitis)**

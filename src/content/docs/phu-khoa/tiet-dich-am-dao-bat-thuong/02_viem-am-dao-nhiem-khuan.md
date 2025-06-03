@@ -1,6 +1,6 @@
 ---
 title: Viêm âm đạo nhiễm khuẩn
-description: Viêm âm đạo nhiễm khuẩn (hay loạn khuẩn âm đạo) là tình trạng rối loạn cân bằng hệ vi sinh vật tại âm đạo, dẫn đến giảm Lactobacilli bảo vệ và gia tăng hệ vi khuẩn yếm khí. Bệnh thường gây tiết dịch nhiều, có mùi hôi “cá thối” và có thể liên quan đến nhiều biến chứng sản phụ khoa nếu không được điều trị kịp thời.
+description: Viêm âm đạo nhiễm khuẩn (hay loạn khuẩn âm đạo) là tình trạng rối loạn cân bằng hệ vi sinh vật tại âm đạo, dẫn đến giảm Lactobacilli bảo vệ và gia tăng hệ vi khuẩn yếm khí. Bệnh thường gây tiết dịch nhiều, có mùi hôi "cá thối" và có thể liên quan đến nhiều biến chứng sản phụ khoa nếu không được điều trị kịp thời.
 ---
 
 Nhiễm khuẩn âm đạo (loạn khuẩn âm đạo) là hội chứng do rối loạn cân bằng vi sinh vật ở âm đạo: giảm sút tỉ lệ Lactobacilli và gia tăng vi khuẩn yếm khí, tạo điều kiện cho nhiều vi sinh vật gây bệnh phát triển quá mức.
@@ -13,11 +13,11 @@ Loạn khuẩn âm đạo (bacterial vaginosis – BV) là tình trạng rối l
 
 - Tiết dịch âm đạo nhiều, thường màu trắng xám hoặc vàng nhạt, có độ nhớt nhẹ.
 - Dịch thường không gây ngứa, không kèm đỏ hoặc phù nề âm hộ—điểm khác biệt so với viêm âm đạo do nấm hoặc trùng roi.
-- Mùi hôi đặc trưng “cá thối” (odour), thường rõ hơn sau giao hợp hoặc sau khi nước ối lợi phá vỡ cân bằng pH âm đạo.
+- Mùi hôi đặc trưng "cá thối" (odour), thường rõ hơn sau giao hợp hoặc sau khi nước ối lợi phá vỡ cân bằng pH âm đạo.
 
 ![Dịch âm đạo bất thường](../../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/dich-am-dao-bat-thuong.png)
 
-_Dịch âm đạo màu trắng xám, loãng, có mùi hôi như “cá thối”. Khoảng 25% trường hợp có kích ứng nhẹ ở âm hộ, biểu hiện bằng ngứa hoặc rát nhẹ._
+_Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "cá thối". Khoảng 25% trường hợp có kích ứng nhẹ ở âm hộ, biểu hiện bằng ngứa hoặc rát nhẹ._
 
 ## Nguyên nhân
 
@@ -60,9 +60,9 @@ BV được chẩn đoán dựa trên lâm sàng và xét nghiệm thường quy
 Để chẩn đoán BV theo Amsel, cần có **ít nhất 3/4** tiêu chuẩn sau:
 
 1. **Tiết dịch âm đạo đồng nhất**: Dịch màu trắng xám, loãng, phủ đều thành âm đạo, không kèm dấu hiệu viêm (không đỏ, không phù nề).
-2. **Tế bào “clue cells”**: Xuất hiện khi quan sát phiến tươi/phết Gram; là tế bào biểu mô âm đạo phủ kín bởi vi khuẩn, làm méo góc bào tương.
+2. **Tế bào "clue cells"**: Xuất hiện khi quan sát phiến tươi/phết Gram; là tế bào biểu mô âm đạo phủ kín bởi vi khuẩn, làm méo góc bào tương.
 3. **pH âm đạo > 4.5**: Dùng giấy quỳ hoặc đo pH trực tiếp tại niêm mạc thành âm đạo.
-4. **Whiff test (+)**: Khi nhỏ dung dịch KOH 10% vào dịch âm đạo, có mùi hôi đặc trưng “cá thối”.
+4. **Whiff test (+)**: Khi nhỏ dung dịch KOH 10% vào dịch âm đạo, có mùi hôi đặc trưng "cá thối".
 
 **Độ nhạy (Sensitivity) 70%, độ đặc hiệu (Specificity) 94%** so với các xét nghiệm tham chiếu khác.  
 :::
@@ -105,7 +105,7 @@ BV được chẩn đoán khi đủ **2/3** tiêu chuẩn sau:
    - Huyết trắng nhiều, màu trắng xám, rất hôi, đặc biệt rõ sau giao hợp.
 2. **Cận lâm sàng**
    - **Whiff test (+):** Thêm KOH 10% lên mẫu huyết trắng, xuất hiện mùi hôi như cá ươn.
-   - **Phết âm đạo:** Nhiều “clue cells” (>20% tế bào biểu mô nhìn thấy có bám vi khuẩn); nhuộm Gram thấy nhiều coccobacilli.
+   - **Phết âm đạo:** Nhiều "clue cells" (>20% tế bào biểu mô nhìn thấy có bám vi khuẩn); nhuộm Gram thấy nhiều coccobacilli.
 
 Nếu có hai trong ba tiêu chuẩn trên, chẩn đoán BV.
 

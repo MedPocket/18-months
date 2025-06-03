@@ -46,7 +46,7 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 - **O-RADS 1**: Sang thương sinh lý (nang noãn, nang hoàng thể).  
   ![O-RADS 1](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-1.png)
   _O-RADS 1._
-- **O-RADS 2** (< 1% ác): Nang đơn thùy < 10 cm (đơn giản hoặc “lành kinh điển” như nang xuất huyết điển hình, nang bì, endometrioma, nang cạnh buồng trứng, nang vùi phúc mạc, ứ dịch tai vòi).  
+- **O-RADS 2** (< 1% ác): Nang đơn thùy < 10 cm (đơn giản hoặc "lành kinh điển" như nang xuất huyết điển hình, nang bì, endometrioma, nang cạnh buồng trứng, nang vùi phúc mạc, ứ dịch tai vòi).  
   ![O-RADS 2A](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-2a.png)
   _O-RADS 2A._
 
@@ -70,7 +70,7 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
   - Nang đa thùy ≥ 10 cm hoặc có vách/ thành không đều (< 3 mm).
   - Nang đơn/đa thùy có thành phần đặc hoặc CS 4.
   - Sang thương đặc bờ trơn láng (>80% đặc) với CS 2–3.  
-    “Nhú” = thành phần đặc ≥ 3 mm.  
+    "Nhú" = thành phần đặc ≥ 3 mm.  
      ![O-RADS 4A](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-4a.png)
 
     _O-RADS 4A._

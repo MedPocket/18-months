@@ -57,7 +57,7 @@ Nếu không điều trị, sau 4–8 tuần săng lui, chuyển sang giai đo�
   - Hạch lan tỏa, kích thước to, đối xứng, ít đau.
 
 - **Triệu chứng toàn thân:**
-  - Sốt, mệt mỏi, đau cơ, đau khớp nhẹ, đau đầu, rụng tóc kiểu “bông gòn” (moth-eaten alopecia).
+  - Sốt, mệt mỏi, đau cơ, đau khớp nhẹ, đau đầu, rụng tóc kiểu "bông gòn" (moth-eaten alopecia).
 
 Giang mai thời kỳ II có thể tự lui sau vài tuần đến vài tháng, nhưng nếu không điều trị, xoắn khuẩn sẽ đi vào giai đoạn tiềm ẩn.
 
@@ -76,7 +76,7 @@ Khoảng 25% bệnh nhân trong giai đoạn kín tiến triển thành giang ma
 
   - Có thể xuất hiện bất kỳ giai đoạn nào, thậm chí từ vài tháng sau khi nhiễm.
   - Triệu chứng sớm: viêm màng não mạn, thay đổi tâm thần (điên dại, lú lẫn), đột quỵ, viêm dây thần kinh sọ (liệt mặt, liệt dây VI), viêm võng mạc, viêm dây VIII (mất thính lực).
-  - Triệu chứng muộn: Tabes dorsalis (viêm rễ thần kinh sau của tủy sống), mất cảm giác về vị trí, đau nhức kiểu “chích điện” (lightning pains), rối loạn bước đi, thần kinh tự chủ suy giảm (loạn tiểu tiện, chứng đái dầm).
+  - Triệu chứng muộn: Tabes dorsalis (viêm rễ thần kinh sau của tủy sống), mất cảm giác về vị trí, đau nhức kiểu "chích điện" (lightning pains), rối loạn bước đi, thần kinh tự chủ suy giảm (loạn tiểu tiện, chứng đái dầm).
 
 - **Giang mai tim mạch (Cardiovascular syphilis):**
 
@@ -96,7 +96,7 @@ Khoảng 25% bệnh nhân trong giai đoạn kín tiến triển thành giang ma
 - **Biểu hiện giang mai bẩm sinh sớm (< 2 tuổi):**
 
   - Thai lưu, sinh non, nhẹ cân.
-  - Trẻ sơ sinh: viêm kết mạc (chảy mủ mắt, sưng mí), viêm mũi (“snuffles” – hắt hơi, chảy máu mũi), gan lách to, viêm xương sụn (viêm xương Tính chất xơ → đau, sưng), viêm màng não, viêm màng tim, viêm da chảy dịch. Hạch ngoại vi sưng to.
+  - Trẻ sơ sinh: viêm kết mạc (chảy mủ mắt, sưng mí), viêm mũi ("snuffles" – hắt hơi, chảy máu mũi), gan lách to, viêm xương sụn (viêm xương Tính chất xơ → đau, sưng), viêm màng não, viêm màng tim, viêm da chảy dịch. Hạch ngoại vi sưng to.
 
 - **Biểu hiện giang mai bẩm sinh muộn (> 2 tuổi):**
   - Viêm xương sụn mạn tính → biến dạng xương (viêm sụn mũi → mũi yên ngựa), răng Hutchinson (răng cửa lõm), điếc, co thắt gân gót, viêm khớp.

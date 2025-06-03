@@ -56,7 +56,7 @@ Mọi cấu trúc hình thành do viêm đều có thể tạo ra các khối �
 
 Lạc tuyến nội mạc tử cung tại buồng trứng là cấu trúc không tân lập lành tính, gây đau vùng chậu và hiếm muộn.
 
-Nang lạc nội mạc tử cung được hình thành do sự cấy ghép lên bề mặt buồng trứng của mô nội mạc tử cung bình thường có nguồn gốc từ máu kinh trào ngược. Khi có bất thường về khả năng đáp ứng miễn dịch (có thể do liên quan đến các đột biến gene), cấy ghép bất thường sẽ thành công dẫn đến hình thành các tuyến nội mạc tử cung lạc vị, vẫn còn hoạt động chức năng trên bề mặt buồng trứng. Xuất huyết kinh làm cho các nang bịt này lớn dần lên do chứa đầy máu “kinh” không có đường thoát, gây ra cấu trúc nang, với đặc trưng là viêm, với tân mạch và tàn phá cấu trúc vùng chậu.
+Nang lạc nội mạc tử cung được hình thành do sự cấy ghép lên bề mặt buồng trứng của mô nội mạc tử cung bình thường có nguồn gốc từ máu kinh trào ngược. Khi có bất thường về khả năng đáp ứng miễn dịch (có thể do liên quan đến các đột biến gene), cấy ghép bất thường sẽ thành công dẫn đến hình thành các tuyến nội mạc tử cung lạc vị, vẫn còn hoạt động chức năng trên bề mặt buồng trứng. Xuất huyết kinh làm cho các nang bịt này lớn dần lên do chứa đầy máu "kinh" không có đường thoát, gây ra cấu trúc nang, với đặc trưng là viêm, với tân mạch và tàn phá cấu trúc vùng chậu.
 
 Khả năng ác tính của nang lạc nội mạc tử cung tại buồng trứng là rất thấp, nhưng không thể loại trừ. Chẩn đoán phân biệt quan trọng nhất của nang lạc nội mạc tử cung tại buồng trứng là u dạng nội mạc tử cung (endometroid tumour), tân lập, với tế bào giống tế bào nội mạc, nhưng không có mô đệm tùy hành và liên quan mạnh đến ác tính.
 
@@ -134,7 +134,7 @@ _Sơ đồ cổ điển và giản lược về các khối u tế bào mầm._
 - U chứa thành phần của 3 lá phôi, tiềm năng ác tính thấp.
 - **U quái trưởng thành (teratoma)**: lành tính 95%, đơn mô hoặc đa mô, thường gặp 10–30 tuổi, khối u trơn láng, chứa mô ngoại bì, trung bì, nội bì (răng, da, tóc, nang, tuyến mồ hôi, tuyến bã). Vi thể: mô trưởng thành.
 - **U quái không trưởng thành**: luôn ác tính, chiếm 15% u tế bào mầm, tuổi trung bình 19, trung bình 18 cm, bề mặt trơn láng, cấu trúc hỗn hợp nang-đặc, vi thể: mô phôi chưa biệt hóa.
-- **U quái giáp đơn mô**: ác tính cao, có thể gây cường giáp “không bướu giáp,” chụp xạ hình giáp bình thường nhưng tập trung iod ở vùng chậu.
+- **U quái giáp đơn mô**: ác tính cao, có thể gây cường giáp "không bướu giáp," chụp xạ hình giáp bình thường nhưng tập trung iod ở vùng chậu.
 
 #### U nghịch phôi theo hướng cấu trúc ngoài phôi
 
@@ -214,7 +214,7 @@ U mô đệm hoặc từ dây giới bào, đơn thuần hoặc hỗn hợp, chi
 
 #### Bản chất hóa ác
 
-- U buồng trứng không “hóa ác” từ lành; chỉ bỏ sót u ác tính.
+- U buồng trứng không "hóa ác" từ lành; chỉ bỏ sót u ác tính.
 - Ung thư buồng trứng khó phân biệt lành–ác lâm sàng, hình ảnh, giải phẫu bệnh do tiến triển âm thầm, diễn biến khu trú vài vùng ác tính.
 
 #### Xoắn khối u buồng trứng

@@ -30,7 +30,7 @@ Các kiểu xuất huyết có thể nhẹ hoặc nặng, thỉnh thoảng hoặ
 
 3. **Bệnh nguyên bào nuôi (Trophoblastic disease)**
 
-   - **Trứng trống (Hydatidiform mole)**: nguyên bào nuôi phát triển bất thường, siêu âm thấy “bông tuyết.”
+   - **Trứng trống (Hydatidiform mole)**: nguyên bào nuôi phát triển bất thường, siêu âm thấy "bông tuyết."
    - **Ung thư nguyên bào nuôi (Choriocarcinoma)**: hiếm, thường sau một thai trứng, chảy máu bất thường.
 
 4. **Xuất huyết do làm tổ của phôi (Implantation bleeding)**
