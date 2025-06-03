@@ -3,25 +3,25 @@ title: U vú
 description: U vú.
 ---
 
-U vú có thể lành tính.
+U vú có thể lành tính hoặc ác tính, tuy nhiên phần lớn là u lành tính.
 
 ## Chẩn đoán
 
-Ghi nhận các nguy cơ ung thư vú: Tuổi, tiền sử ung thư vú trong gia đình, tiền sử cá nhân bị ung thư vú, sinh thiết có tăng sản không điển hình; tiền căn phẫu thuật tuyến vú.
+Đánh giá các yếu tố nguy cơ ung thư vú: tuổi, tiền sử gia đình có người mắc ung thư vú, tiền sử cá nhân từng bị ung thư vú, có kết quả sinh thiết trước đó cho thấy tăng sản không điển hình, hoặc đã từng phẫu thuật tuyến vú.
 
-Lâm sàng: kích thước, vị trí (so với núm vú), di động, mật độ căng chắc, trơn láng, bờ rõ, dạng đặc hay dạng nang.
+**Khám lâm sàng**: ghi nhận kích thước, vị trí khối u (so với núm vú), mức độ di động, mật độ (căng chắc hay mềm), tính chất bề mặt (trơn láng hay gồ ghề), bờ rõ hay không rõ, và phân biệt khối đặc hay nang.
 
-Cận lâm sàng: Siêu âm và nhũ ảnh: BIRADS II và III.
+**Cận lâm sàng**: siêu âm và nhũ ảnh để phân loại theo BIRADS. Các tổn thương BIRADS II và III thường lành tính, cần theo dõi hoặc xử trí theo phác đồ.
 
 ## Phác đồ xử trí
 
 ![Xử trí nang vú Bệnh viện Từ Dũ](../../../../assets/phu-khoa/u-vu/xu-tri-nang-vu.jpeg)
 
-_Xử trí nang vú Bệnh viện Từ Dũ._
+_Xử trí nang vú – Bệnh viện Từ Dũ._
 
 ![Xử trí u vú Bệnh viện Từ Dũ](../../../../assets/phu-khoa/u-vu/xu-tri-khoi-u-vu.jpeg)
 
-_Xử trí u vú Bệnh viện Từ Dũ._
+_Xử trí khối u vú – Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
