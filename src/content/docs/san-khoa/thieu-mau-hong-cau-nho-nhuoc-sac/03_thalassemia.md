@@ -32,7 +32,7 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 
 - **Thể ẩn (dị hợp tử 1 đột biến)**
   - Thường không triệu chứng; chỉ phát hiện tình cờ khi xét nghiệm.
-  - Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3,5–7%); HbF 1–3% tùy loại đột biến.
+  - Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3.5–7%); HbF 1–3% tùy loại đột biến.
 
 ### Phân loại α-thalassemia
 
@@ -81,7 +81,7 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 ## Quản lý thai kỳ ở thai phụ β-thalassemia đồng hợp tử
 
 - Đa chuyên khoa: sản khoa, huyết học, gây mê, nữ hộ sinh.
-- Duy trì Hb 10 g/dL bằng truyền máu định kỳ; kiểm soát ferritin < 1.000 ng/mL.
+- Duy trì Hb 10 g/dL bằng truyền máu định kỳ; kiểm soát ferritin < 1000 ng/mL.
 - Siêu âm tim, gan, tuyến giáp mỗi tam cá nguyệt.
 - Sàng lọc tiểu đường: lần đầu 16 tuần, lặp lại 24–28 tuần.
 - Siêu âm đánh giá tăng trưởng thai: 24–26 tuần rồi mỗi 4 tuần.

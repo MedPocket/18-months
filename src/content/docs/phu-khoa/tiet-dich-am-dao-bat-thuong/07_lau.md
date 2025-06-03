@@ -205,8 +205,8 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
 - **Dự phòng ngay sau sinh (dùng cho cả hai mắt):**
 
   - Mỡ tra mắt Tetracyclin hydrochlorid 1%.
-  - Mỡ tra mắt Erythromycin 0,5%.
-  - Dung dịch Povidon Iod 2,5% (dung môi nước).
+  - Mỡ tra mắt Erythromycin 0.5%.
+  - Dung dịch Povidon Iod 2.5% (dung môi nước).
   - Dung dịch bạc nitrat 1%.
   - Mỡ Chloramphenicol 1%.
 

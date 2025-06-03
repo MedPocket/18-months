@@ -60,7 +60,7 @@ _Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan 
 
 2. **Hệ thống ống dẫn sữa (Latiferous duct)**
 
-   - **Ống dẫn sữa lớn (Lactiferous ducts):** Mỗi tiểu thùy xuất phát từ một ống lớn có khẩu kính khoảng 0,5 mm, dẫn sữa từ TDLU về phía núm vú.
+   - **Ống dẫn sữa lớn (Lactiferous ducts):** Mỗi tiểu thùy xuất phát từ một ống lớn có khẩu kính khoảng 0.5 mm, dẫn sữa từ TDLU về phía núm vú.
    - **Xoang sữa (Lactiferous sinuses):** Ở gần núm vú, đường kính ống giãn rộng thành xoang, đóng vai trò như túi chứa tạm thời sữa trước khi bài xuất.
    - **Niêm mạc ống:**
      - Lớp trong cùng: Biểu mô trụ thấp (simple cuboidal/columnar epithelium) – chịu trách nhiệm hình thành và bài tiết sữa.

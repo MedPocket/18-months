@@ -3,7 +3,7 @@ title: Băng huyết sau sinh
 description: Băng huyết sau sinh.
 ---
 
-Băng huyết sau sinh (Postpartum hemorrhage – PPH) là nguyên nhân hàng đầu gây tử vong mẹ, chiếm trung bình 140.000 ca tử vong mỗi năm toàn cầu (1 ca/4 phút), với >50% xảy ra trong 24 giờ đầu sau sinh. PPH cũng dẫn tới suy hô hấp, rối loạn đông cầm máu, sốc, mất khả năng sinh sản, hoại tử tuyến yên…
+Băng huyết sau sinh (Postpartum hemorrhage – PPH) là nguyên nhân hàng đầu gây tử vong mẹ, chiếm trung bình 140,000 ca tử vong mỗi năm toàn cầu (1 ca/4 phút), với >50% xảy ra trong 24 giờ đầu sau sinh. PPH cũng dẫn tới suy hô hấp, rối loạn đông cầm máu, sốc, mất khả năng sinh sản, hoại tử tuyến yên…
 
 ## Định nghĩa
 

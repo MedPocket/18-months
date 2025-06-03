@@ -86,7 +86,7 @@ _Phân loại lâm sàng theo CDC._
 
 - **Chuẩn**: TDF + 3TC + EFV (bắt đầu sau quý I).
 - **Thay thế**: TDF + 3TC + DTG (từ quý II, ưu tiên khi không dùng EFV).
-- **Khi tải lượng cao (> 1.000 copies/mL) hoặc thất bại phác đồ**: Thêm hoặc chuyển sang LPV/r.
+- **Khi tải lượng cao (> 1000 copies/mL) hoặc thất bại phác đồ**: Thêm hoặc chuyển sang LPV/r.
 
 ### Điều trị cho trẻ sơ sinh
 
@@ -94,7 +94,7 @@ _Phân loại lâm sàng theo CDC._
 
 ### Sinh mổ
 
-- **Chỉ định** khi tải lượng HIV mẹ > 1.000 copies/mL vào thời điểm chuyển dạ để giảm tối đa phơi nhiễm virus.
+- **Chỉ định** khi tải lượng HIV mẹ > 1000 copies/mL vào thời điểm chuyển dạ để giảm tối đa phơi nhiễm virus.
 
 ### Cho con bú
 

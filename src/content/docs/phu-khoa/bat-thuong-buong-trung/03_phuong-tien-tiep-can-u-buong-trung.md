@@ -91,7 +91,7 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 ### Siêu âm Doppler & hệ thống IOTA 2010
 
 - **Tân tạo mạch** trong u ác làm giảm trở kháng dòng chảy → đặc điểm bổ sung quan trọng.
-- Kết hợp siêu âm Doppler với thang xám giúp tăng độ chuyên biệt (pooled specificity  0.78).
+- Kết hợp siêu âm Doppler với thang xám giúp tăng độ chuyên biệt (pooled specificity 0.78).
 - **IOTA (2010)**: Độ nhạy 91%, độ chuyên biệt 95%. Phân theo quy tắc:
 
   - **B-rules (lành tính)**:

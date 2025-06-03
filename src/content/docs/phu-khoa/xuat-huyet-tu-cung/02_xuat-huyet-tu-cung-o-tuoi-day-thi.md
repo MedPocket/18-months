@@ -21,7 +21,7 @@ Hệ trục hạ đồi–tuyến yên–buồng trứng (HPG axis) ở tuổi d
 
    - Hoạt động chế tiết FSH ngày càng ổn định hơn; buồng trứng tăng sản xuất estrogen.
    - Các đặc điểm sinh dục thứ phát như phát triển tuyến vú, phát triển tử cung, sừng hóa niêm mạc âm đạo dần hoàn thiện.
-   - Trung bình, kinh nguyệt lần đầu xuất hiện khi bé gái khoảng 12,8 ± 1,2 tuổi, đánh dấu rằng estrogen đã đủ để kích thích phát triển nội mạc tử cung.
+   - Trung bình, kinh nguyệt lần đầu xuất hiện khi bé gái khoảng 12.8 ± 1.2 tuổi, đánh dấu rằng estrogen đã đủ để kích thích phát triển nội mạc tử cung.
 
 4. **Giai đoạn muộn dậy thì**:
    - Xung GnRH tăng dần cả tần suất và biên độ, cuối cùng đủ để tạo đỉnh LH khi nhận được phản hồi dương từ estradiol.

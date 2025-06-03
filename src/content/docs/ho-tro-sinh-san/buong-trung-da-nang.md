@@ -118,7 +118,7 @@ Mục tiêu: gây phóng noãn đơn noãn, gần với sinh lý, tránh quá k�
 
 - Khi thất bại với mọi phương pháp trên hoặc có chỉ định khác.
 - Dùng phác đồ GnRH antagonist để giảm nguy cơ hội chứng quá kích.
-- Metformin 1.500 mg/ngày trong 8 tuần trước kích thích có thể giảm nguy cơ quá kích buồng trứng.
+- Metformin 1500 mg/ngày trong 8 tuần trước kích thích có thể giảm nguy cơ quá kích buồng trứng.
 
 #### In-Vitro Maturation (IVM)
 

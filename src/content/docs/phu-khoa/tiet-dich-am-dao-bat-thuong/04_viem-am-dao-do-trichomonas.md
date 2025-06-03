@@ -48,7 +48,7 @@ Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vagin
 
 1. **Soi tươi:**
 
-   - Lấy dịch âm đạo (hoặc niệu đạo nam giới) pha loãng với NaCl 0,9%, soi tươi ngay dưới kính hiển vi ×400–×1000.
+   - Lấy dịch âm đạo (hoặc niệu đạo nam giới) pha loãng với NaCl 0.9%, soi tươi ngay dưới kính hiển vi ×400–×1000.
    - Thấy trùng roi T. vaginalis di động, kích thước 10–20 µm, chuyển động lắc lư, kèm tăng bạch cầu trung tính (≥10 bạch cầu/khung trung bình).
    - Độ nhạy  60–70%, phụ thuộc chất lượng mẫu và kinh nghiệm người soi.
 

@@ -23,7 +23,7 @@ Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch 
 
 **Lâm sàng**
 
-- Khởi phát với sốt nhẹ hoặc vừa (37,5–39 °C), đau đầu, mệt mỏi, chán ăn.
+- Khởi phát với sốt nhẹ hoặc vừa (37.5–39 °C), đau đầu, mệt mỏi, chán ăn.
 - Phát ban mụn nước mọc từng đợt không đồng đều: có cả mụn mới và mụn đã đóng vảy cùng lúc.
 - Vị trí khởi phát thường ở mặt, thân mình, sau lan toàn thân.
 - Mụn nước tròn, đường kính 2–5 mm, có thể ngứa; vài ngày sau vỡ → đóng vảy → lành không để sẹo (trừ khi bội nhiễm).
@@ -44,7 +44,7 @@ Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch 
 ## Nguy cơ trong thai kỳ
 
 **Giai đoạn sớm (tuần 1–12)**  
-Nhiễm thủy đậu có thể gây hội chứng thủy đậu bẩm sinh với tỷ lệ khoảng 0,4 % nếu mẹ mắc trong 13 tuần đầu, gồm:
+Nhiễm thủy đậu có thể gây hội chứng thủy đậu bẩm sinh với tỷ lệ khoảng 0.4 % nếu mẹ mắc trong 13 tuần đầu, gồm:
 
 - Dị tật mắt (đục thủy tinh thể, thoái hóa võng mạc).
 - Tổn thương thần kinh (não, nhỏ đầu).
@@ -63,7 +63,7 @@ Nhiễm thủy đậu có thể gây hội chứng thủy đậu bẩm sinh vớ
 
 **Giảm triệu chứng**
 
-- Paracetamol: 500–1.000 mg mỗi 4–6 giờ (tối đa 4.000 mg/ngày).
+- Paracetamol: 500–1000 mg mỗi 4–6 giờ (tối đa 4000 mg/ngày).
 - Thuốc chống histamin (giảm ngứa):
   - Diphenhydramine 25–50 mg mỗi 4–6 giờ (tối đa 300 mg/ngày).
   - Loratadine 10 mg/ngày.

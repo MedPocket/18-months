@@ -58,7 +58,7 @@ _Bảng điểm tiên lượng FIGO/WHO 2006_
 | **Không di căn**            | Không có bất cứ bằng chứng nào của di căn                |
 | **Di căn - Tiên lượng tốt** | Không có bất kỳ yếu tố nguy cơ nào sau:                  |
 |                             | - Thời gian từ có thai trước đến phát hiện bệnh <4 tháng |
-|                             | - Beta hCG trước điều trị <40,000 UI/ml                  |
+|                             | - Beta hCG trước điều trị < 40000 UI/ml                  |
 |                             | - Thai kỳ trước không phải thai đủ tháng                 |
 |                             | - Chưa từng hóa trị trước                                |
 |                             | - Không có di căn não hay gan (có thể di căn phổi)       |
@@ -72,11 +72,11 @@ _Phân loại NIH (Mỹ)_
 
 - **Đơn hóa chất** (khả năng khỏi  98%) hoặc kèm cắt tử cung nếu đã đủ con.
 - **Phác đồ Methotrexate (MTX)**:
-  - MTX 5 ngày: 0,4 mg/kg/ngày × 5 ngày (≤ 25 mg/ngày), lặp lại mỗi 14 ngày.
-  - MTX/FA 8 ngày: MTX 1 mg/kg (hoặc 50 mg) ngày 1, 3, 5, 7 + Folinic acid 0,1 mg/kg (hoặc 15 mg) ngày 2, 4, 6, 8, lặp lại mỗi 14 ngày.
+  - MTX 5 ngày: 0.4 mg/kg/ngày × 5 ngày (≤ 25 mg/ngày), lặp lại mỗi 14 ngày.
+  - MTX/FA 8 ngày: MTX 1 mg/kg (hoặc 50 mg) ngày 1, 3, 5, 7 + Folinic acid 0.1 mg/kg (hoặc 15 mg) ngày 2, 4, 6, 8, lặp lại mỗi 14 ngày.
   - MTX liều cao tuần: 30–50 mg/m² tĩnh mạch/tuần.
 - **Dactinomycin (Act-D)**:
-  - 1,25 mg/m² tĩnh mạch mỗi 2 tuần, hoặc 12 µg/kg/ngày × 5 ngày, lặp lại mỗi 14 ngày.
+  - 1.25 mg/m² tĩnh mạch mỗi 2 tuần, hoặc 12 µg/kg/ngày × 5 ngày, lặp lại mỗi 14 ngày.
 - Tiếp tục 2–3 chu kỳ sau khi β-hCG âm tính.
 
 ### Nhóm nguy cơ cao (FIGO ≥ 7 điểm hoặc di căn; NIH di căn)
@@ -141,7 +141,7 @@ Tiêu chuẩn để hóa trị:
 - β-hCG bình nguyên hoặc tăng khi đang dùng hóa trị (có hoặc không có thêm di căn mới).
 
 - **Xử trí**:
-  - MTX 50 mg/m² da thất bại → MTX 0,4 mg/kg tiêm bắp 5 ngày hoặc Dacticin 12 µg/kg tiêm bắp 5 ngày.
+  - MTX 50 mg/m² da thất bại → MTX 0.4 mg/kg tiêm bắp 5 ngày hoặc Dacticin 12 µg/kg tiêm bắp 5 ngày.
   - β-hCG < 100IU/L → Dacticin 5 ngày (87%).
   - β-hCG > 100IU/L → EMA-CO (99%).
   - Kháng MTX → Dacticin.
@@ -155,13 +155,13 @@ Tiêu chuẩn để hóa trị:
 
 - Ngày 1:
   - Etoposide 100 mg/m² da tĩnh mạch trong 30 phút.
-  - Dacticin 0,5 mg tĩnh mạch.
+  - Dacticin 0.5 mg tĩnh mạch.
   - MTX 100 mg/m² da tĩnh mạch.
   - MTX 200 mg/m² da tĩnh mạch trong 12 giờ.
 - Ngày 2:
   - Etoposide 100 mg/m² da tĩnh mạch trong 30 phút.
-  - Dacticin 0,5 mg tĩnh mạch.
-  - Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24 giờ.
+  - Dacticin 0.5 mg tĩnh mạch.
+  - Folinic acid 15 mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24 giờ.
 - Ngày 8:
   - Oncovin (Vincristin) 1 mg/m² da tĩnh mạch, tối đa 2 mg.
   - Cyclophosphamid 600 mg/m² da truyền tĩnh mạch trong 30 phút.

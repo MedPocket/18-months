@@ -79,10 +79,10 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 #### Định nghĩa và tiến triển
 
 - **ASC-US** (Atypical Squamous Cells of Undetermined Significance): Tế bào vảy có nhân to, đôi khi nhân đôi, không đủ tiêu chuẩn HSIL hay LSIL.
-- Phần lớn do phản ứng viêm, ít khi tiến triển: nguy cơ HSIL 7%, ung thư xâm lấn 0,25%. Sau 24 tháng:
+- Phần lớn do phản ứng viêm, ít khi tiến triển: nguy cơ HSIL 7%, ung thư xâm lấn 0.25%. Sau 24 tháng:
   - 65% thoái lui về bình thường.
   - 7% tiến triển HSIL.
-  - 0,25% tiến triển ung thư xâm lấn.
+  - 0.25% tiến triển ung thư xâm lấn.
 
 #### Quản lý ASC-US
 
@@ -115,7 +115,7 @@ _Quản lý ASC-US theo Bệnh viện Từ Dũ._
 - Sau 24 tháng:
   - 47% thoái triển về bình thường.
   - 20% tiến triển HSIL.
-  - 0,15% thành ung thư xâm lấn.
+  - 0.15% thành ung thư xâm lấn.
 
 #### Quản lý LSIL
 
@@ -150,7 +150,7 @@ Sau 24 tháng:
 
 - 35% thoái lui về bình thường.
 - 23% tiếp tục HSIL.
-- 1,44% tiến triển thành ung thư xâm lấn.
+- 1.44% tiến triển thành ung thư xâm lấn.
 
 70% HSIL qua tế bào phẩm tương ứng với CIN 2–3, 1–2% có ung thư xâm lấn.
 

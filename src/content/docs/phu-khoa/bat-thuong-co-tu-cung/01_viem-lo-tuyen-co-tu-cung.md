@@ -9,7 +9,7 @@ Lộ tuyến cổ tử cung (endocervical ectropion) là hiện tượng biểu 
 
 ### Giải phẫu
 
-Tử cung được chia làm hai phần chính: phần trên là thân tử cung và phần dưới là cổ tử cung, nối với âm đạo qua eo tử cung. Cổ tử cung dài khoảng 2,5–3 cm và được chia thành hai phần:
+Tử cung được chia làm hai phần chính: phần trên là thân tử cung và phần dưới là cổ tử cung, nối với âm đạo qua eo tử cung. Cổ tử cung dài khoảng 2.5–3 cm và được chia thành hai phần:
 
 - **Cổ ngoài cổ tử cung (ectocervix/exocervix)**:  
   Phần thấp nhất tiếp xúc trực tiếp với âm đạo, có hình dạng elíp hoặc hình chóp nón, chia thành mép trước và mép sau cổ tử cung. Phần này bình thường được phủ bởi biểu mô lát tầng không sừng hóa.
@@ -68,7 +68,7 @@ _Ranh giới lát-trụ nguyên thủy và mới dưới kính soi._
 
 1. **Tiếp xúc với pH acid**:
 
-   - Môi trường âm đạo có pH acid (khoảng 3,8–4,5) do lactobacilli sản xuất acid lactic.
+   - Môi trường âm đạo có pH acid (khoảng 3.8–4.5) do lactobacilli sản xuất acid lactic.
    - Biểu mô trụ không chịu được môi trường acid, tế bào trụ dễ tổn thương và hoại tử.
 
 2. **Kích thích tế bào dự trữ (reserve cells)**:

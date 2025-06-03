@@ -192,7 +192,7 @@ Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 
    - Cảnh báo: gây quái thai, phụ nữ dùng cần kết hợp biện pháp tránh thai không hormone (ví dụ dùng bao cao su).
 
 5. **Bromocriptine**
-   - Đồng vận dopamine, ức chế tiết prolactin, liều 2,5–5 mg/ngày chia 2 lần, kéo dài 2–3 tháng. Giảm đau vú ở 47–88% trường hợp.
+   - Đồng vận dopamine, ức chế tiết prolactin, liều 2.5–5 mg/ngày chia 2 lần, kéo dài 2–3 tháng. Giảm đau vú ở 47–88% trường hợp.
    - Tác dụng phụ: buồn nôn, nôn, chóng mặt, hạ huyết áp tư thế. Nhiều bệnh nhân không chịu được các tác dụng phụ nên tự ngưng thuốc.
 
 ### Phẫu thuật

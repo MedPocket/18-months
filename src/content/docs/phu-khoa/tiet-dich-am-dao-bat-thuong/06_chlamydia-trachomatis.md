@@ -195,7 +195,7 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 #### Nhiễm Chlamydia ở trẻ sơ sinh
 
 - **Viêm kết mạc**:
-  - **Erythromycin 0,5% kem bôi mắt** mỗi khi nhỏ mắt hoặc dùng **Azithromycin liều đơn (20 mg/kg uống)** nếu nặng.
+  - **Erythromycin 0.5% kem bôi mắt** mỗi khi nhỏ mắt hoặc dùng **Azithromycin liều đơn (20 mg/kg uống)** nếu nặng.
 - **Viêm phổi bẩm sinh**:
   - **Erythromycin 50 mg/kg/ngày chia 4 lần x 14 ngày**, nếu không đáp ứng, chuyển sang **TMP–SMX** theo cân nặng.
 

@@ -145,7 +145,7 @@ Chỉ định chấm dứt thai kỳ khi:
 - Dùng thường quy từ 28–<32 tuần, cân nhắc từ 24–<28 tuần.
 - **Chống chỉ định**: nhược cơ.
 - **Thận trọng**: tiền sử thiếu máu cơ tim, rối loạn dẫn truyền.
-- Liều: 4,5g tĩnh mạch chậm trong 20–30 phút.
+- Liều: 4.5g tĩnh mạch chậm trong 20–30 phút.
 - Nên truyền trước sinh 4 giờ.
 
 Trong chuyển dạ:

@@ -89,11 +89,11 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 - **Thuốc ức chế tiết prolactin**
 
   - **Bromocriptine** (đồng vận dopamine):
-    - Liều khởi đầu 1,25–2,5 mg/ngày, chia 2 lần, sau đó tăng dần 2,5 mg mỗi 2–7 ngày, đến khi prolactin về mức bình thường.
-    - Liều duy trì: 2,5–15 mg/ngày, chia 2–3 lần.
+    - Liều khởi đầu 1.25–2.5 mg/ngày, chia 2 lần, sau đó tăng dần 2.5 mg mỗi 2–7 ngày, đến khi prolactin về mức bình thường.
+    - Liều duy trì: 2.5–15 mg/ngày, chia 2–3 lần.
     - Theo dõi prolactin sau 4–6 tuần điều trị; nếu hết tiết sữa, bắt đầu giảm liều dần và ngưng sau 3 tháng ổn định.
   - **Cabergoline** (đồng vận dopamine chọn lọc):
-    - Liều 0,25–0,5 mg 1–2 lần/tuần, hiệu quả kéo dài, ít tác dụng phụ vã mồ hôi, buồn nôn hơn Bromocriptine.
+    - Liều 0.25–0.5 mg 1–2 lần/tuần, hiệu quả kéo dài, ít tác dụng phụ vã mồ hôi, buồn nôn hơn Bromocriptine.
     - Dùng trong 3–6 tháng, theo dõi prolactin mỗi 4–6 tuần.
 
 - **Theo dõi hậu điều trị**

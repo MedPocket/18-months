@@ -23,7 +23,7 @@ Sau sổ thai, cần theo dõi sinh hiệu và lượng máu mất, **không** x
 
 - Giải thích rõ cho sản phụ, lấy chấp thuận.
 - Trang bị: găng tay dài vô khuẩn, champs, đầy đủ dụng cụ theo dõi, đường truyền IV.
-- Thuốc: atropin 0,25 mg SC/IV, giảm đau (morphin, dolargan), seduxen.
+- Thuốc: atropin 0.25 mg SC/IV, giảm đau (morphin, dolargan), seduxen.
 - Sát khuẩn âm hộ, đặt sản phụ tư thế sản khoa (đầu hơi cao).
 
 ### Kỹ thuật

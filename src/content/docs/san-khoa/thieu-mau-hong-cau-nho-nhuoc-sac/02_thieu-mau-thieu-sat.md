@@ -30,7 +30,7 @@ Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic 
 
 - Thiếu máu thiếu sắt nhẹ–trung bình: uống 100–200 mg sắt nguyên tố/ngày, chia sau bữa ăn.
 - Thiếu acid folic: uống 2–5 mg acid folic/ngày.
-- Thiếu máu thiếu sắt nặng: truyền máu và bổ sung sắt tĩnh mạch (Iron Dextran Injection 50 mL), đánh giá lại sau 1 tuần (Hb tăng ≥ 0,8 g/dL/ngày và Hct tăng ≥ 1%/ngày là đáp ứng), tiếp tục duy trì cho đến sau sinh và khi cho con bú.
+- Thiếu máu thiếu sắt nặng: truyền máu và bổ sung sắt tĩnh mạch (Iron Dextran Injection 50 mL), đánh giá lại sau 1 tuần (Hb tăng ≥ 0.8 g/dL/ngày và Hct tăng ≥ 1%/ngày là đáp ứng), tiếp tục duy trì cho đến sau sinh và khi cho con bú.
 
 ## Dự phòng
 

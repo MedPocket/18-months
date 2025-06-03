@@ -94,7 +94,7 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 
 ### Thai trong ổ bụng
 
-- Hiếm gặp: khoảng 1/10.000–1/25.000 trường hợp.
+- Hiếm gặp: khoảng 1/10000–1/25000 trường hợp.
 - Thai nằm ngoài tử cung, trong ổ bụng, thường do thai thoát khỏi vòi trứng sau vỡ.
 
 **Chẩn đoán**:

@@ -61,7 +61,7 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 
 **Hoặc** trong trường hợp **không có đạm niệu**, tăng huyết áp mới xuất hiện kèm **ít nhất 1 trong các dấu hiệu sau**:
 
-- **Giảm tiểu cầu**: Tiểu cầu < 100.000 /µL.
+- **Giảm tiểu cầu**: Tiểu cầu < 100,000 /µL.
 - **Suy thận**: Creatinin huyết thanh > 1.1 mg/dL hoặc gấp đôi nồng độ bình thường (không do bệnh lý thận khác).
 - **Suy tế bào gan**: Men gan tăng gấp 2 lần bình thường.
 - **Phù phổi**.
@@ -74,7 +74,7 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 - **Có dấu hiệu nặng**: (chỉ cần một trong các dấu hiệu dưới đây)
 
   1. Huyết áp tâm thu ≥ 160 mmHg hoặc tâm trương ≥ 110 mmHg (đo 2 lần cách nhau ≥ 4h).
-  2. Tiểu cầu < 100.000 /µL.
+  2. Tiểu cầu < 100,000 /µL.
   3. Men gan tăng > 2 lần bình thường, đau hạ sườn phải/thượng vị không đáp ứng thuốc.
   4. Creatinine > 1.1 mg/dL hoặc tăng gấp đôi không do bệnh lý thận khác.
   5. Phù phổi.

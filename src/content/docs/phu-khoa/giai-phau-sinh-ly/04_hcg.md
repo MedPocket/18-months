@@ -51,7 +51,7 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 
 - **Bình thường không có thai**: < 5 mIU/mL.
 - **Có thai**: > 25 mIU/mL (que thử 20–25 mIU/mL).
-- **Tăng gấp đôi** mỗi 48 giờ trong 6 tuần đầu; đỉnh 8–10 tuần (100.000 mIU/mL); sau giảm đạt ổn định 16–20 tuần.
+- **Tăng gấp đôi** mỗi 48 giờ trong 6 tuần đầu; đỉnh 8–10 tuần (100,000 mIU/mL); sau giảm đạt ổn định 16–20 tuần.
 
 **Động học sau sẩy/spontaneous loss**
 
@@ -63,16 +63,18 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 | --------------------- | ------------------ |
 | **3 tuần**            | 5–50               |
 | **4 tuần**            | 5–426              |
-| **5 tuần**            | 18–7 340           |
-| **6 tuần**            | 1 080–56 500       |
-| **7–8 tuần**          | 7 650–229 000      |
-| **9–12 tuần**         | 25 700–288 000     |
-| **13–16 tuần**        | 13 300–254 000     |
-| **17–24 tuần**        | 4 060–165 400      |
-| **25 tuần–sinh**      | 3 640–117 000      |
-| **4–6 tuần sau sinh** | <5                 |
+| **5 tuần**            | 18–7340           |
+| **6 tuần**            | 1080–56 500       |
+| **7–8 tuần**          | 7650–229 000      |
+| **9–12 tuần**         | 25700–288 000     |
+| **13–16 tuần**        | 13300–254 000     |
+| **17–24 tuần**        | 4060–165 400      |
+| **25 tuần–sinh**      | 3640–117 000      |
+| **4–6 tuần sau sinh** | < 5                 |
 
-> Nếu β-hCG > 1500 mIU/mL (TV âm đạo) hoặc > 3000 mIU/mL (TV bụng) mà không thấy túi thai → cân nhắc thai ngoài tử cung hoặc thai bất thường.
+:::caution[Lưu ý]
+Nếu β-hCG > 1500 mIU/mL (TV âm đạo) hoặc > 3000 mIU/mL (TV bụng) mà không thấy túi thai → cân nhắc thai ngoài tử cung hoặc thai bất thường.
+:::
 
 ## Nguồn tham khảo
 

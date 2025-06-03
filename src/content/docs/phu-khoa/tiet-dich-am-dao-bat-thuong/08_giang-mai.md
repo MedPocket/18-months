@@ -1,6 +1,6 @@
 ---
 title: Giang mai
-description: Giang mai là bệnh lây truyền qua đường tình dục do xoắn khuẩn Treponema pallidum gây ra. Bệnh có thể biểu hiện tổn thương ở da, niêm mạc và nếu không được điều trị kịp thời sẽ lan sâu, ảnh hưởng nhiều cơ quan như xương – khớp, tim mạch, thần kinh. Giang mai bẩm sinh do lây truyền từ mẹ sang con trong thai kỳ có thể dẫn đến thai lưu, đẻ non, dị tật hoặc bệnh lý nặng ở trẻ. Năm 2020, WHO ước tính khoảng 7,1 triệu ca giang mai mới trên toàn cầu, trong đó khu vực Tây Thái Bình Dương (bao gồm Việt Nam) chiếm 1,1 triệu ca.
+description: Giang mai là bệnh lây truyền qua đường tình dục do xoắn khuẩn Treponema pallidum gây ra. Bệnh có thể biểu hiện tổn thương ở da, niêm mạc và nếu không được điều trị kịp thời sẽ lan sâu, ảnh hưởng nhiều cơ quan như xương – khớp, tim mạch, thần kinh. Giang mai bẩm sinh do lây truyền từ mẹ sang con trong thai kỳ có thể dẫn đến thai lưu, đẻ non, dị tật hoặc bệnh lý nặng ở trẻ. Năm 2020, WHO ước tính khoảng 7.1 triệu ca giang mai mới trên toàn cầu, trong đó khu vực Tây Thái Bình Dương (bao gồm Việt Nam) chiếm 1.1 triệu ca.
 ---
 
 Xoắn khuẩn giang mai (_Treponema pallidum_) rất yếu, chỉ sống vài giờ ngoài cơ thể. Ở điều kiện ẩm và nhiệt độ 37 °C, chúng có thể tồn tại và xâm nhập qua da, niêm mạc tổn thương khi quan hệ tình dục đường âm đạo, hậu môn hoặc miệng. Bệnh cũng có thể lây qua tiếp xúc gián tiếp với đồ dùng, vật dụng nhiễm xoắn khuẩn hoặc qua đường máu, từ mẹ sang con trong thai kỳ hoặc chuyển dạ.
@@ -229,15 +229,15 @@ Các xét nghiệm nhanh có:
 
 |                                            | Phác đồ ưu tiên                                                                                                                           | Phác đồ thay thế                                                                                                                                                                                                                                                                                                                            |
 | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Giang mai sớm (≤ 2 năm)**                | **Benzathin penicillin G 2,4 triệu đơn vị, tiêm bắp sâu, liều duy nhất**                                                                  | Nếu không có Benzathin penicillin hoặc dị ứng penicillin:<br>- **Procain penicillin 1,2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 10–14 ngày**<br>Hoặc nếu dị ứng penicillin:<br>- **Doxycycline 100 mg uống 2 lần/ngày x 14 ngày**<br>- **Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày x 10–14 ngày**<br>- **Azithromycin 2 g uống liều duy nhất** |
-| **Giang mai muộn (> 2 năm hoặc không rõ)** | **Benzathin penicillin G 2,4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần x 3 tuần liên tiếp** (Khoảng cách giữa các lần tiêm không quá 14 ngày) | Nếu không có Benzathin penicillin hoặc dị ứng penicillin:<br>- **Procain penicillin 1,2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 20 ngày**<br>Hoặc nếu dị ứng penicillin:<br>- **Doxycycline 100 mg uống 2 lần/ngày x 30 ngày**                                                                                                              |
+| **Giang mai sớm (≤ 2 năm)**                | **Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất**                                                                  | Nếu không có Benzathin penicillin hoặc dị ứng penicillin:<br>- **Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 10–14 ngày**<br>Hoặc nếu dị ứng penicillin:<br>- **Doxycycline 100 mg uống 2 lần/ngày x 14 ngày**<br>- **Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày x 10–14 ngày**<br>- **Azithromycin 2 g uống liều duy nhất** |
+| **Giang mai muộn (> 2 năm hoặc không rõ)** | **Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần x 3 tuần liên tiếp** (Khoảng cách giữa các lần tiêm không quá 14 ngày) | Nếu không có Benzathin penicillin hoặc dị ứng penicillin:<br>- **Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 20 ngày**<br>Hoặc nếu dị ứng penicillin:<br>- **Doxycycline 100 mg uống 2 lần/ngày x 30 ngày**                                                                                                              |
 
 #### Phụ nữ có thai
 
 |                                            | Phác đồ ưu tiên                                                                         | Phác đồ thay thế                                                                                                                                                                                                                                                                                                   |
 | ------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Giang mai sớm (≤ 2 năm)**                | **Benzathin penicillin G 2,4 triệu đơn vị, tiêm bắp sâu, liều duy nhất**                | Nếu không có Benzathin penicillin:<br>- **Procain penicillin 1,2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 10 ngày**<br>Hoặc nếu dị ứng penicillin:<br>- **Erythromycin 500 mg uống 4 lần/ngày x 14 ngày**<br>- **Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày x 10–14 ngày**<br>- **Azithromycin 2 g uống liều duy nhất** |
-| **Giang mai muộn (> 2 năm hoặc không rõ)** | **Benzathin penicillin G 2,4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần x 3 tuần liên tiếp** | Nếu không có Benzathin penicillin:<br>- **Procain penicillin 1,2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 20 ngày**<br>Hoặc nếu dị ứng penicillin:<br>- **Erythromycin 500 mg uống 4 lần/ngày x 30 ngày**                                                                                                           |
+| **Giang mai sớm (≤ 2 năm)**                | **Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất**                | Nếu không có Benzathin penicillin:<br>- **Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 10 ngày**<br>Hoặc nếu dị ứng penicillin:<br>- **Erythromycin 500 mg uống 4 lần/ngày x 14 ngày**<br>- **Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày x 10–14 ngày**<br>- **Azithromycin 2 g uống liều duy nhất** |
+| **Giang mai muộn (> 2 năm hoặc không rõ)** | **Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần x 3 tuần liên tiếp** | Nếu không có Benzathin penicillin:<br>- **Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 20 ngày**<br>Hoặc nếu dị ứng penicillin:<br>- **Erythromycin 500 mg uống 4 lần/ngày x 30 ngày**                                                                                                           |
 
 :::caution[Lưu ý]
 
@@ -255,14 +255,14 @@ Các xét nghiệm nhanh có:
 
 - **Phác đồ Benzyl penicillin (thuốc ưu tiên):**
 
-  - **100.000–150.000 Đơn vị/kg/ngày**, tiêm tĩnh mạch chậm chia 2–3 lần/ngày (nếu thể trạng đảm bảo) hoặc truyền liên tục trong 10–15 ngày.
+  - **100,000–150,000 Đơn vị/kg/ngày**, tiêm tĩnh mạch chậm chia 2–3 lần/ngày (nếu thể trạng đảm bảo) hoặc truyền liên tục trong 10–15 ngày.
 
 - **Phác đồ Procain penicillin (thay thế nếu không tiêm tĩnh mạch được):**
 
-  - **50.000 Đơn vị/kg/ngày**, tiêm bắp sâu 1 liều/ngày x 10–15 ngày.
+  - **50,000 Đơn vị/kg/ngày**, tiêm bắp sâu 1 liều/ngày x 10–15 ngày.
 
 - **Trẻ không triệu chứng** và mẹ đã điều trị đầy đủ trước sinh: chỉ cần theo dõi chặt chẽ, xét nghiệm huyết thanh định kỳ (tháng 1, 2, 3). Nếu xét nghiệm không đặc hiệu vẫn dương, điều trị phác đồ:
-  - **Benzathin penicillin G 50.000 Đơn vị/kg, tiêm bắp liều duy nhất** (nếu không có dấu hiệu lâm sàng).
+  - **Benzathin penicillin G 50,000 Đơn vị/kg, tiêm bắp liều duy nhất** (nếu không có dấu hiệu lâm sàng).
 
 ## Phòng bệnh
 

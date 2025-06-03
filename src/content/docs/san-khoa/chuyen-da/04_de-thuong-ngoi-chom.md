@@ -22,7 +22,7 @@ Trong những tuần cuối thai kỳ, do thân thai lớn hơn đầu, thân th
 
 ### Lọt
 
-Ngôi được xem là đã lọt khi đường kính lọt của ngôi vượt qua mặt phẳng eo trên (12,75 cm). Ở ngôi chỏm, đường kính lọt lý thuyết là **hạ chẩm - thóp trước** (9,5 cm), nhưng lâm sàng thường dùng đường kính **lưỡng đỉnh** (cũng 9,5 cm). Chẩn đoán lọt dựa vào khám bụng và khám âm đạo.
+Ngôi được xem là đã lọt khi đường kính lọt của ngôi vượt qua mặt phẳng eo trên (12.75 cm). Ở ngôi chỏm, đường kính lọt lý thuyết là **hạ chẩm - thóp trước** (9.5 cm), nhưng lâm sàng thường dùng đường kính **lưỡng đỉnh** (cũng 9.5 cm). Chẩn đoán lọt dựa vào khám bụng và khám âm đạo.
 
 - **Khám bụng**: đánh giá độ lọt bằng cách ước lượng phần đầu thai nhi còn nằm trên xương vệ so với chiều rộng của năm ngón tay khép lại:
 

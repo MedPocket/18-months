@@ -132,9 +132,9 @@ _Sơ đồ xử trí tiết dịch âm đạo bất thường - Bệnh viện T�
    - **Viêm âm đạo do Candida**
      - Dịch trắng vón cục, không mùi hoặc hơi chua, ngứa rát âm đạo.
    - **Bacterial Vaginosis (BV)**
-     - Dịch xám, loãng, mùi tanh (“fishy”), pH âm đạo >4.5, tế bào clue dương tính.
+     - Dịch xám, loãng, mùi tanh (“fishy”), pH âm đạo > 4.5, tế bào clue dương tính.
    - **Viêm âm đạo do Trichomonas vaginalis**
-     - Dịch vàng xanh, bọt, mùi hôi, pH âm đạo >5, ngứa, tiểu rát.
+     - Dịch vàng xanh, bọt, mùi hôi, pH âm đạo > 5, ngứa, tiểu rát.
    - **Viêm cổ tử cung mủ (Cervicitis)**
      - Dịch mủ vàng chảy tự do từ cổ tử cung, thường do Chlamydia/Gonorrhea.
    - **Chlamydia trachomatis / Neisseria gonorrhoeae**

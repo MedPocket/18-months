@@ -9,7 +9,7 @@ Thai trứng là tình trạng gặp trong 1/200–1/1000 ca thai nghén, do b�
 
 - **Tần suất**:
   - Người châu Á: 1/200–1/500 ca sinh sống.
-  - Người Âu/Mỹ: 1/1.000–1/1.500 ca.
+  - Người Âu/Mỹ: 1/1000–1/1500 ca.
 - **Độ tuổi**: cao ở < 20 tuổi và > 40 tuổi.
 - **Yếu tố nguy cơ**:
   - Mang thai lần đầu.
@@ -67,7 +67,7 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 ### β-hCG
 
-- Mức độ tăng rất cao ở Thai trứng toàn phần (> 100.000 mIU/mL).
+- Mức độ tăng rất cao ở Thai trứng toàn phần (> 100,000 mIU/mL).
 - Thai trứng bán phần thường thấp hơn nhưng vẫn vượt quá giới hạn thai bình thường.
 - Giá trị quan trọng nhất là theo dõi đồ thị giảm sau hút nạo.
 
@@ -97,10 +97,10 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 ### Hóa trị dự phòng
 
-- **Chỉ cân nhắc cho nhóm nguy cơ cao** (Thai trứng toàn phần lớn, β-hCG > 100.000, siêu âm nghi ngờ xâm lấn).
+- **Chỉ cân nhắc cho nhóm nguy cơ cao** (Thai trứng toàn phần lớn, β-hCG > 100,000, siêu âm nghi ngờ xâm lấn).
 - Phác đồ thường dùng:
-  - MTX 5 ngày: MTX 0,4 mg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25 mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
-  - MTX 8 ngày (MTX/FA): MTX 1 mg/kg hoặc MTX 50 mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0,1 mg/kg tiêm bắp hoặc uống 15mg sau liều MTX 24-30h vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
+  - MTX 5 ngày: MTX 0.4 mg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25 mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
+  - MTX 8 ngày (MTX/FA): MTX 1 mg/kg hoặc MTX 50 mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0.1 mg/kg tiêm bắp hoặc uống 15mg sau liều MTX 24-30h vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
   - Dacticin: 12 mcg/kg (10-13 mcg/kg) hoặc 0.5 mg/ngày tĩnh mạch x 5 ngày liên tục. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
 
 :::caution[Lưu ý]

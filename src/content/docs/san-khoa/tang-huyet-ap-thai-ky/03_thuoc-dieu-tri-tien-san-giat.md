@@ -21,14 +21,14 @@ description: Tổng hợp các thuốc phòng ngừa và điều trị tiền s�
 **Liều dùng**:
 
 - **Tấn công**: 4–6 g MgSO₄ 15% (50 mL) TM chậm (15–20 phút).
-- **Duy trì**: 1–2 g/giờ TM liên tục (pha 6 g MgSO₄ 15% vào 500 mL glucose 5% hoặc bơm tiêm điện 6,7 mL/h).
+- **Duy trì**: 1–2 g/giờ TM liên tục (pha 6 g MgSO₄ 15% vào 500 mL glucose 5% hoặc bơm tiêm điện 6.7 mL/h).
 - Tiếp tục ít nhất 24 giờ sau cơn cuối hoặc sau sinh.
 
 :::caution[Theo dõi và xử trí ngộ độc MgSO₄]
 
 - Theo dõi phản xạ gân xương (mất dấu hiệu sớm nhất), nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4h).
-- Định lượng Mg huyết thanh khi cần, giữ 4–7 mEq/L (5–9 mg/dL; 2–3,5 mmol/L).
-- Suy thận (Creatinine 1–1,5 mg/dL) hoặc thiểu niệu (< 30 mL/h) → duy trì 1 g/h.
+- Định lượng Mg huyết thanh khi cần, giữ 4–7 mEq/L (5–9 mg/dL; 2–3.5 mmol/L).
+- Suy thận (Creatinine 1–1.5 mg/dL) hoặc thiểu niệu (< 30 mL/h) → duy trì 1 g/h.
 - Ngộ độc (Mg > 8 mEq/L):
   1. Ngừng MgSO₄.
   2. 10 mL Calcium gluconate 10% TM trong 10 phút.
@@ -116,7 +116,7 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 
 - Tác dụng giống nifedipine, ít ảnh hưởng tim; bắt đầu sau 10 phút, đỉnh 30–120 phút, kéo dài 8 giờ.
 - **Liều uống**: 20 mg x 3 lần/ngày.
-- **TM**: bolus 0,5–1 mg, duy trì 1–3 mg/h (pha 10 mL nicardipine vào 40 mL Glucose 5%, truyền 5–15 mL/h).
+- **TM**: bolus 0.5–1 mg, duy trì 1–3 mg/h (pha 10 mL nicardipine vào 40 mL Glucose 5%, truyền 5–15 mL/h).
 - Tác dụng phụ: đau đầu, chóng mặt, buồn nôn.
 - Chống chỉ định: đau thắt ngực không ổn định, sốc tim, hẹp van ĐMC nặng; thận trọng 3 tháng đầu.
 

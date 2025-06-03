@@ -15,7 +15,7 @@ Chẩn đoán Herpes sinh dục chủ yếu dựa vào lâm sàng, trong khi xé
 
 1. **Triệu chứng toàn thân (thường gặp ở lần nhiễm đầu tiên)**
 
-   - Sốt nhẹ đến sốt vừa (37,5–38,5 °C), mệt mỏi, đau cơ, nhức đầu…
+   - Sốt nhẹ đến sốt vừa (37.5–38.5 °C), mệt mỏi, đau cơ, nhức đầu…
    - Trong 1–2 ngày trước khi xuất hiện tổn thương, bệnh nhân có thể cảm giác ngứa, tê, bỏng rát tại vùng dự định phát ban (gia đoạn tiền triệu).
 
 2. **Tổn thương tại chỗ**
@@ -116,7 +116,7 @@ _Herpes sinh dục: mụn nước, vết loét ở vùng môi bé và âm đạo
   - Gel Lidocaine 2% bôi nhẹ để giảm đau rát trước khi đi tiểu hoặc tiếp xúc.
 - **Vệ sinh tại chỗ:**
 
-  - Rửa vùng sinh dục bằng nước muối ấm pha loãng hoặc dung dịch sát khuẩn nhẹ (ví dụ Chlorhexidine 0,05%) 2 – 3 lần/ngày, nhẹ nhàng để tránh kích ứng thêm.
+  - Rửa vùng sinh dục bằng nước muối ấm pha loãng hoặc dung dịch sát khuẩn nhẹ (ví dụ Chlorhexidine 0.05%) 2 – 3 lần/ngày, nhẹ nhàng để tránh kích ứng thêm.
   - Giữ khô thoáng, tránh mặc đồ bó sát, quần lót bằng sợi tổng hợp – ưu tiên cotton.
   - Không dùng quần lót chung hay cọ xát mạnh lên vết loét để hạn chế lây nhiễm và bội nhiễm.
 

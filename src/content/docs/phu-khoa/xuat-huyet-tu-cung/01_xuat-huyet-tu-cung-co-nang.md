@@ -114,7 +114,7 @@ Lựa chọn điều trị dựa vào:
 **Thuốc cầm máu và tăng co tử cung**:
 
 - Oxytocin tiêm bắp hoặc truyền tĩnh mạch.
-- Ergometrin 0.2mg, 1–2 ống/ngày, tiêm bắp.
+- Ergometrin 0.2 mg, 1–2 ống/ngày, tiêm bắp.
 - Tranexamic acid, calci clorid tiêm tĩnh mạch.
 
 **Thuốc nội tiết**:

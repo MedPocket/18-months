@@ -11,16 +11,16 @@ Human Papilloma Virus (HPV) là virus gây u nhú ở người, nguyên nhân h�
 
 HPV thuộc họ Papovaviridae, đường kính 55 nm, không có màng lipid. Capsid gồm 72 capsom hình sao 5 cánh, chính bởi protein L1; protein L2 ít hơn, giữ vai trò nâng đỡ.
 
-Bên trong là DNA kép vòng, dài 7.904 bp, gồm các gen:
+Bên trong là DNA kép vòng, dài 7904 bp, gồm các gen:
 
 - **E1, E2**: nhân bản.
 - **E4, E5**: tái tổ hợp.
 - **L1, L2**: protein vỏ capsid.
 - **E6, E7**: đa chức năng, tương tác với p53 và pRb, quyết định khả năng sinh ung thư.
 
-![DNA HPV16 7.904 bp](../../../../assets/phu-khoa/hpv/so-do-dna-hpv-16.png)
+![DNA HPV16 7904 bp](../../../../assets/phu-khoa/hpv/so-do-dna-hpv-16.png)
 
-_Sơ đồ DNA 7.904 bp của HPV type 16._
+_Sơ đồ DNA 7904 bp của HPV type 16._
 
 ### Các type
 
@@ -159,8 +159,8 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 
 ## Tóm tắt
 
-- **HPV** là virus Papovaviridae, không có màng lipid, capsid 72 capsom, chứa DNA kép vòng 7.904 bp.
-- Có > 200 type; > 40 type lây qua đường tình dục. Nhóm nguy cơ cao (16, 18, 31, …), nhóm nguy cơ thấp (6, 11, 42, …).
+- **HPV** là virus Papovaviridae, không có màng lipid, capsid 72 capsom, chứa DNA kép vòng 7904 bp.
+- Có > 200 type; > 40 type lây qua đường tình dục. Nhóm nguy cơ cao (16, 18, 31,…), nhóm nguy cơ thấp (6, 11, 42,…).
 - **Yếu tố nguy cơ**: quan hệ sớm, nhiều bạn tình, tiền sử STI, dùng bao cao su không hoàn toàn bảo vệ, độ tuổi 18–30.
 - **Bệnh lý**: phần lớn lành tính; E6/E7 tương tác p53 và pRb, kéo dài > 2 năm có thể dẫn đến mụn cóc sinh dục, tổn thương tiền ung và ung thư cổ tử cung.
 - **Vaccine**:
