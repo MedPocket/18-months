@@ -1,255 +1,279 @@
 ---
 title: Giang mai
-description: Giang mai (Treponema pallidum).
+description: Giang mai là bệnh lây truyền qua đường tình dục do xoắn khuẩn Treponema pallidum gây ra. Bệnh có thể biểu hiện tổn thương ở da, niêm mạc và nếu không được điều trị kịp thời sẽ lan sâu, ảnh hưởng nhiều cơ quan như xương – khớp, tim mạch, thần kinh. Giang mai bẩm sinh do lây truyền từ mẹ sang con trong thai kỳ có thể dẫn đến thai lưu, đẻ non, dị tật hoặc bệnh lý nặng ở trẻ. Năm 2020, WHO ước tính khoảng 7,1 triệu ca giang mai mới trên toàn cầu, trong đó khu vực Tây Thái Bình Dương (bao gồm Việt Nam) chiếm 1,1 triệu ca.
 ---
 
-Bệnh giang mai là bệnh lây truyền từ người sang người qua đường tình dục do xoắn khuẩn giang mai (Treponema pallidum) gây nên. Bệnh có thể gây tổn thương ở da, niêm mạc, nếu không được điều trị có thể gây tổn thương các tổ chức và cơ quan khác của cơ thể như cơ, xương, khớp, tim mạch và thần kinh.
-
-Theo ước tính của Tổ chức Y tế thế giới (WHO), trong năm 2020, thế giới có khoảng 7.1 triệu trường hợp giang mai mới mắc. Số ca mắc mới ở khu vực Tây Thái Bình Dương trong đó có Việt Nam, chiếm 1.1 triệu ca.
-
-Xoắn khuẩn giang mai rất yếu, ở ngoài cơ thể chỉ sống được vài giờ. Nhiệt độ thích hợp cho xoắn khuẩn phát triển là 37°C. Xà phòng và các chất sát khuẩn có thể diệt được xoắn khuẩn trong vài phút. Xoắn khuẩn xâm nhập vào cơ thể người lành qua quan hệ tình dục đường âm đạo, đường hậu môn hoặc đường miệng. Bệnh cũng có thể lây gián tiếp qua các đồ dùng, vật dụng bị nhiễm xoắn khuẩn hoặc lây qua các vết xước trên da, niêm mạc. Ngoài ra, bệnh có thể lây truyền qua đường máu hoặc từ mẹ bị giang mai sang con trong thời kỳ mang thai.
+Xoắn khuẩn giang mai (_Treponema pallidum_) rất yếu, chỉ sống vài giờ ngoài cơ thể. Ở điều kiện ẩm và nhiệt độ 37 °C, chúng có thể tồn tại và xâm nhập qua da, niêm mạc tổn thương khi quan hệ tình dục đường âm đạo, hậu môn hoặc miệng. Bệnh cũng có thể lây qua tiếp xúc gián tiếp với đồ dùng, vật dụng nhiễm xoắn khuẩn hoặc qua đường máu, từ mẹ sang con trong thai kỳ hoặc chuyển dạ.
 
 ## Đặc điểm bệnh giang mai
 
 ### Các giai đoạn của giang mai
 
-Thời gian ủ bệnh thường từ 10 đến 90 ngày, phổ biến nhất là khoảng 21 ngày.
+Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường ~ 21 ngày). Nếu không được chẩn đoán và điều trị, bệnh tồn tại nhiều năm và phân chia thành hai nhóm chính:
 
-Bệnh giang mai nếu không được chẩn đoán và điều trị có thể tồn tại rất nhiều năm và được chia làm 2 giai đoạn giang mai sớm và giang mai muộn:
+- **Giang mai sớm (≤ 2 năm kể từ khi nhiễm):**  
+  1. **Giang mai thời kỳ I (Primary syphilis):** Xuất hiện săng đơn độc tại vị trí xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn hoặc vị trí ngoài sinh dục hiếm gặp). Săng thường có rìa nâng cao, không đau hoặc ít đau, xuất hiện sau 9–90 ngày (trung bình 21 ngày), tự lui trong 3–10 tuần dù không điều trị.  
+  2. **Giang mai thời kỳ II (Secondary syphilis):** Xuất hiện 4–8 tuần sau săng, biểu hiện tổn thương da, niêm mạc lan tỏa, kèm hạch ngoại biên và triệu chứng nhiễm khuẩn hệ thống.  
+  3. **Giang mai kín sớm (Early latent syphilis):** Không có triệu chứng lâm sàng, giai đoạn tiềm ẩn ≤ 2 năm kể từ khi nhiễm; chỉ phát hiện qua xét nghiệm huyết thanh.
 
-- Giang mai sớm:
-  - Giang mai thời kỳ I (primary syphilis).
-  - Giang mai thời kỳ II (secondary syphilis).
-  - Giang mai kín sớm: giang mai kín (không có biểu hiện lâm sàng) và thời gian mắc ≤ 2 năm.
-- Giang mai muộn:
-  - Giang mai kín muộn: giang mai kín (không có biểu hiện lâm sàng) và thời gian mắc > 2 năm.
-  - Giang mai thời kỳ III (có tổn thương ăn sâu vào tổ chức da, niêm mạc, tim mạch, thần kinh).
+- **Giang mai muộn (> 2 năm kể từ khi nhiễm hoặc không xác định được thời gian):**  
+  1. **Giang mai kín muộn (Late latent syphilis):** Tiềm ẩn > 2 năm, không triệu chứng và chỉ phát hiện qua xét nghiệm huyết thanh.  
+  2. **Giang mai thời kỳ III (Tertiary syphilis):** Xuất hiện sau nhiều năm (có thể 10–30 năm), gây tổn thương ăn sâu vào da, niêm mạc, xương – khớp, tim mạch (với biến chứng viêm động mạch chủ, phình động mạch chủ, hở van động mạch chủ) và thần kinh (giang mai thần kinh muộn), kèm gôm giang mai.
 
 ### Triệu chứng lâm sàng
 
 #### Giang mai mắc phải
 
-Giang mai thời kỳ I:
+##### Giang mai thời kỳ I (Primary syphilis)
 
-- Biểu hiện lâm sàng đặc trưng săng đơn độc, xuất hiện tại nơi xoắn khuẩn xâm nhập vào cơ thể, thường ở âm đạo, dương vật, hậu môn (hoặc có thể ở những vị trí ngoài sinh dục). Săng thường xuất hiện khoảng 3 tuần sau lây nhiễm (khoảng 9-90 ngày), có thể hết trong vòng 3-10 tuần dù điều trị hay không. Người bệnh có thể không để ý khi thấy xuất hiện săng hoặc thấy săng tự mất.
-- Nếu không được chẩn đoán và điều trị trong thời kỳ này, sau 4-8 tuần từ khi xuất hiện tổn thương ban đầu, bệnh sẽ tiến triển sang giang mai thời kỳ II.
+- **Săng giang mai:**  
+  - Xuất hiện tại nơi xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn; có thể ở miệng khi quan hệ đường miệng).  
+  - Hình thức: vết loét đơn hoặc ít, rìa gồ, nền cứng, không đau hoặc ít đau.  
+  - Xuất hiện sau 9–90 ngày (trung bình ~21 ngày).  
+  - Tự lui sau 3–10 tuần mà không cần điều trị; nhiều người không để ý hoặc nhầm với vết loét lành tính.
 
-Giang mai thời kỳ II:
+- **Hạch ngoại biên:**  
+  - Hạch bẹn (với săng sinh dục) sưng một hoặc hai bên, mềm, không đau.
 
-- Biểu hiện lâm sàng đặc trưng tổn thương da và niêm mạc, lan rộng.
-  - Đào ban có hình thái đa dạng, có thể giống với tổn thương ban/dát đỏ ở các bệnh lý khác. Nhưng tổn thương trong giang mai đặc trưng ở vị trí lòng bàn tay, bàn chân, tổn thương đối xứng 2 bên và không ngứa. Tổn thương cũng có thể rất kín đáo, dễ bị bỏ qua trên lâm sàng.
-  - Mảng niêm mạc: các vết trợt màu trắng, hay gặp ở niêm mạc miệng, lưỡi, sinh dục.
-  - Sẩn giang mai: màu đỏ hồng, hình bán cầu, xung quanh có viền vảy (viền vảy Biett), có thể xuất hiện ở các vùng da khác nhau, đa dạng về hình thái (sẩn dạng vảy nến, sẩn dạng trứng cá, sẩn dạng thuỷ đậu, sẩn loét). Sẩn sùi giang mai (condylomata lata) thường xuất hiện ở các vị trí nóng, ẩm như hậu môn, âm hộ. Đây là các tổn thương trợt nông màu trắng/xám, nổi gồ cao, là kết quả của sự lây lan xoắn khuẩn giang mai từ tổn thương tiên phát.
-  - Có thể đi kèm các triệu chứng không đặc hiệu khác như mệt, sốt, nổi hạch vùng, rụng tóc, đau đầu.
-- Triệu chứng của giang mai thời kỳ II có thể tự mất đi dù không điều trị gì. Tuy nhiên, nếu bệnh nhân không được điều trị, bệnh sẽ tiến triển sang giang mai kín. Người bệnh trong thời kỳ giang mai II có nguy cơ cao lây nhiễm cho người khác.
+Nếu không điều trị, sau 4–8 tuần săng lui, chuyển sang giai đoạn II hoặc tiềm ẩn sớm.
 
-Giang mai kín (giang mai tiềm ẩn):
+##### Giang mai thời kỳ II (Secondary syphilis)
 
-- Không có dấu hiệu, triệu chứng lâm sàng. Vì thế, chỉ có thể phát hiện bằng xét nghiệm huyết thanh.
-- Được chia làm 2 giai đoạn: giang mai kín sớm (thời gian mắc < 2 năm) và giang mai kín muộn (thời gian mắc > 2 năm). Những bệnh nhân không biết chắc chắn thời gian nhiễm bệnh nên được điều trị theo phác đồ giang mai kín muộn. Giang mai lây truyền qua đường tình dục thường chỉ xảy ra ở giang mai thời kỳ I, thời kỳ II và giang mai kín sớm. Tuy nhiên, lây truyền từ mẹ sang con thì có thể xảy ra sau nhiều năm kể từ thời điểm nhiễm khuẩn ban đầu.
-- Nếu không được chẩn đoán và điều trị, hầu hết bệnh nhân vẫn ở giai đoạn giang mai kín. Khoảng 25% bệnh nhân sẽ tiến triển thành giang mai thời kỳ III.
+- **Tổn thương da:**  
+  - Đào ban (maculopapular rash) đa dạng hình thái: dát, sẩn, hồng ban, lan toàn thân, thường xuất hiện ở lòng bàn tay, bàn chân (đặc trưng, đối xứng, không ngứa).  
+  - Sẩn giang mai: sẩn đỏ hồng, hình bán cầu, đôi khi có viền vảy (viền vảy Biett), có thể giống vảy nến, mụn trứng cá, nốt thủy đậu.  
+  - Xung huyết dưới da, trợt trợt, dễ chảy dịch.
 
-Giang mai thời kỳ III:
+- **Tổn thương niêm mạc:**  
+  - Mảng trợt màu trắng, lấm tấm (mảng niêm mạc) thường ở miệng, lưỡi, sinh dục.  
+  - Sẩn sùi (condylomata lata) xuất hiện ở vùng hậu môn, âm hộ, môi lớn, là mảng trợt nông màu trắng/xám, gồ cao, ẩm ướt.
 
-- Bệnh ảnh hưởng đến bất kỳ cơ quan nào trong cơ thể, có thể xảy ra sau thời điểm nhiễm khuẩn ban đầu thậm chí tồn tại 30 năm.
-- Biểu hiện lâm sàng đặc trưng: biểu hiện thần kinh (giang mai thần kinh), biểu hiện tim mạch (giang mai tim mạch) và các tổn thương gôm giang mai:
-  - Giang mai thần kinh có thể xuất hiện ở bất kỳ giai đoạn nào của bệnh, thậm chí trong vài tháng đầu. Các triệu chứng thần kinh sớm bao gồm: thay đổi trạng thái tâm thần cấp tính, viêm màng não, đột quỵ, rối loạn chức năng dây thần kinh sọ, bất thường về thính giác, mắt và thị giác. Giang mai thần kinh muộn có thể xảy ra 10-30 năm hoặc lâu hơn kể từ thời điểm mắc bệnh và đặc trưng bởi tổn thương các rễ thần kinh sau của cột sống và liệt nhẹ toàn thể.
-  - Giang mai tim mạch thường biểu hiện: viêm động mạch chủ, phình động mạch chủ, hở van động mạch chủ, hẹp động mạch vành, một số trường hợp có thể có viêm cơ tim.
-  - Gôm giang mai: là thương tổn đặc trưng của giang mai thời kỳ III. Gôm là thương tổn chắc ở hạ bì, tiến triển qua 4 giai đoạn: ban đầu là những cục dưới da, các cục này dần to ra, mềm, vỡ chảy dịch dính giống như nhựa cao su tạo thành vết loét; vết loét dần lên da non rồi thành sẹo. Gôm có thể nhiều hoặc ít và có thể khu trú ở bất kỳ chỗ nào. Vị trí thường gặp là mặt, da đầu, mông, đùi, mặt ngoài phần trên cẳng chân… Ở niêm mạc, vị trí thường gặp là miệng, môi, vòm miệng, lưỡi, mũi, hầu…, ngoài ra có thể có gôm trong não.
+- **Hạch bạch huyết:**  
+  - Hạch lan tỏa, kích thước to, đối xứng, ít đau.
+
+- **Triệu chứng toàn thân:**  
+  - Sốt, mệt mỏi, đau cơ, đau khớp nhẹ, đau đầu, rụng tóc kiểu “bông gòn” (moth-eaten alopecia).  
+
+Giang mai thời kỳ II có thể tự lui sau vài tuần đến vài tháng, nhưng nếu không điều trị, xoắn khuẩn sẽ đi vào giai đoạn tiềm ẩn.
+
+##### Giang mai kín (Latent syphilis)
+
+- **Không có triệu chứng lâm sàng**; chỉ phát hiện bằng xét nghiệm huyết thanh.  
+- **Phân loại:**  
+  - Kín sớm: ≤ 2 năm kể từ khi nhiễm.  
+  - Kín muộn: > 2 năm kể từ khi nhiễm hoặc không xác định được thời gian.  
+
+Khoảng 25% bệnh nhân trong giai đoạn kín tiến triển thành giang mai thời kỳ III.
+
+##### Giang mai thời kỳ III (Tertiary syphilis)
+
+- **Giang mai thần kinh (Neurosyphilis):**  
+  - Có thể xuất hiện bất kỳ giai đoạn nào, thậm chí từ vài tháng sau khi nhiễm.  
+  - Triệu chứng sớm: viêm màng não mạn, thay đổi tâm thần (điên dại, lú lẫn), đột quỵ, viêm dây thần kinh sọ (liệt mặt, liệt dây VI), viêm võng mạc, viêm dây VIII (mất thính lực).  
+  - Triệu chứng muộn: Tabes dorsalis (viêm rễ thần kinh sau của tủy sống), mất cảm giác về vị trí, đau nhức kiểu “chích điện” (lightning pains), rối loạn bước đi, thần kinh tự chủ suy giảm (loạn tiểu tiện, chứng đái dầm).
+
+- **Giang mai tim mạch (Cardiovascular syphilis):**  
+  - Viêm động mạch chủ ngực (aortic syphilis), phình động mạch chủ (aneurysm), hở van động mạch chủ, hiếm khi viêm động mạch vành.
+
+- **Gôm giang mai (Gummatous syphilis):**  
+  - Thương tổn chắc ở hạ bì, tiến triển qua 4 giai đoạn: cục dưới da → ngày càng to, mềm, vỡ chảy dịch giống nhựa cao su → lên da non → tạo sẹo lõm.  
+  - Có thể khu trú ở mặt, da đầu, mông, đùi, phần trên cẳng chân, niêm mạc miệng, vòm họng, hầu, mũi, hốc mũi, đôi khi gôm nội tạng (gan, phổi, xương, não).
 
 #### Giang mai bẩm sinh
 
-Giang mai bẩm sinh được xác định khi:
+- **Xác định giang mai bẩm sinh** khi:**  
+  1. Thai lưu, thai chết lưu hoặc trẻ sinh ≥ 20 tuần/≥ 500 g, mẹ có huyết thanh giang mai dương tính và không điều trị đúng, đủ trước sinh.  
+  2. Trẻ < 2 tuổi có triệu chứng lâm sàng (viêm da, hạch, gan lách to, nhịp thở có tiếng ran) hoặc xét nghiệm huyết thanh dương tính.
 
-- Sảy thai, thai chết lưu hoặc trẻ được sinh ra từ tuần thứ 20 của thai kỳ trở đi hoặc cân nặng trên 500g (tương đương tuổi thai 20 tuần trở lên), có mẹ xét nghiệm huyết thanh giang mai dương tính và không được điều trị đúng, đủ.
-- Trẻ sinh ra dưới 2 tuổi, có triệu chứng lâm sàng của giang mai bẩm sinh hoặc có xét nghiệm giang mai dương tính (xem phần chẩn đoán giang mai bẩm sinh).
+- **Biểu hiện giang mai bẩm sinh sớm (< 2 tuổi):**  
+  - Thai lưu, sinh non, nhẹ cân.  
+  - Trẻ sơ sinh: viêm kết mạc (chảy mủ mắt, sưng mí), viêm mũi (“snuffles” – hắt hơi, chảy máu mũi), gan lách to, viêm xương sụn (viêm xương Tính chất xơ → đau, sưng), viêm màng não, viêm màng tim, viêm da chảy dịch. Hạch ngoại vi sưng to.
 
-Biểu hiện thường gặp nhất của giang mai bẩm sinh là thai lưu hoặc đẻ non ở 3 tháng giữa hoặc 3 tháng cuối của thai kỳ. Vì vậy, tất cả các bà mẹ bị thai lưu cần làm xét nghiệm huyết thanh giang mai. Ở hầu hết các quốc gia, đa số giang mai bẩm sinh gây hậu quả thai chết lưu và những trường hợp này thường bỏ sót nguyên nhân thai chết lưu do giang mai.
+- **Biểu hiện giang mai bẩm sinh muộn (> 2 tuổi):**  
+  - Viêm xương sụn mạn tính → biến dạng xương (viêm sụn mũi → mũi yên ngựa), răng Hutchinson (răng cửa lõm), điếc, co thắt gân gót, viêm khớp.  
+  - Thương tổn niêm mạc miệng, xương sọ, gôm dưới da.  
+  - Rối loạn thần kinh và mắt mạn tính.
 
-Trẻ em được sinh ra từ những bà mẹ có xét nghiệm huyết thanh giang mai dương tính cần được khám, phát hiện những dấu hiệu, triệu chứng của giang mai bẩm sinh sớm bao gồm: bọng nước, viêm mũi, viêm thanh quản, hạch, gan lách to, viêm xương sụn, viêm màng bụng, viêm màng não, viêm màng mạch-võng mạc.
-
-Biểu hiện của giang mai bẩm sinh muộn ở trẻ > 2 tuổi bao gồm viêm mắt, tai, khớp, dị dạng xương và các di chứng do các thương tổn của giang mai bẩm sinh sớm.
-
-Tuy nhiên, rất nhiều trẻ sơ sinh bị giang mai mà không có các dấu hiệu, triệu chứng rõ ràng, điển hình.
+**Lưu ý:** Nhiều trẻ sơ sinh bị giang mai bẩm sinh không có triệu chứng điển hình, vì vậy cần sàng lọc huyết thanh cho mẹ và theo dõi trẻ ngay sau sinh.
 
 ### Cận lâm sàng
 
-#### Phương pháp gián tiếp (xét nghiệm huyết thanh giang mai)
+#### Xét nghiệm gián tiếp (huyết thanh giang mai)
 
-Có 2 loại xét nghiệm phản ứng huyết thanh chẩn đoán giang mai xét nghiệm không đặc hiệu và đặc hiệu.
+- **Xét nghiệm không đặc hiệu (Non-treponemal tests):**  
+  - RPR (Rapid Plasma Reagin) và VDRL (Venereal Disease Research Laboratory).  
+  - Phát hiện kháng thể kháng lipid do tổn thương tế bào; sử dụng huyết thanh (có thể dùng huyết tương).  
+  - **Ưu điểm:** Theo dõi đáp ứng điều trị qua hiệu giá kháng thể; giá thành thấp.  
+  - **Hạn chế:** Dương tính giả khi bệnh nhân mắc các bệnh tự miễn, viêm nhiễm nặng, bệnh gan mạn, HIV.  
+  - **Âm tính giả:** Ở giai đoạn rất sớm (4 tuần đầu tiên) hoặc giang mai muộn; hiện tượng prozone (nồng độ kháng thể quá cao) có thể gây âm tính giả → nếu nghi ngờ, mẫu huyết thanh cần pha loãng và thử lại.  
+  - **Theo dõi điều trị:** Hiệu giá giảm ≥ 4 lần (2 lần pha loãng) có nghĩa là đáp ứng điều trị; nếu thay đổi ≤ 2 lần (≤ 1 lần pha loãng) không có ý nghĩa lâm sàng.
 
-Bệnh phẩm chủ yếu là huyết thanh. Một số xét nghiệm không đặc hiệu có thể dùng bệnh phẩm là huyết tương. Ngoài ra, bệnh phẩm dịch não tủy được dùng để chẩn đoán giang mai bẩm sinh, giang mai III và khi có triệu chứng thần kinh.
+- **Xét nghiệm đặc hiệu (Treponemal tests):**  
+  - TPHA (Treponema pallidum Hemagglutination Assay), TPPA (Treponema pallidum Particle Agglutination Assay), FTA-ABS (Fluorescent Treponemal Antibody Absorption).  
+  - Phát hiện kháng thể kháng kháng nguyên giang mai đặc hiệu.  
+  - **Ưu điểm:** Độ đặc hiệu cao, ít dương tính giả.  
+  - **Hạn chế:** Dương tính kéo dài suốt đời ở khoảng 85% trường hợp dù đã điều trị; không dùng để theo dõi đáp ứng điều trị.  
 
-Xét nghiệm không đặc hiệu:
-
-- Các xét nghiệm không đặc hiệu phổ biến và hay được sử dụng nhất là RPR (rapid plasma reagin card test) và VDRL (venereal disease research laboratory).
-- Các xét nghiệm này phát hiện kháng thể IgM hoặc IgG kháng lipid không đặc hiệu. Những kháng thể này cũng có thể được phát hiện ở một số bệnh khác như sốt vi rút, một số bệnh tự miễn, vì vậy có thể cho kết quả dương tính giả và không đặc hiệu cho bệnh giang mai.
-- Có thể có kết quả âm tính giả trong vòng 4 tuần đầu sau khi xuất hiện tổn thương sơ phát và trong giang mai muộn.
-- Trong giang mai thời kỳ I và II, phản ứng không đặc hiệu có thể âm tính giả do hiện tượng trước vùng phát hiện (phản ứng prozone: do nồng độ kháng thể trong bệnh phẩm rất cao, ngăn cản sự hình thành mạng lưới kháng nguyên - kháng thể). Bệnh nhân có tổn thương nghi ngờ giang mai thời kỳ I, cần làm xét nghiệm lại sau 2-4 tuần để khẳng định chẩn đoán. Xét nghiệm không đặc hiệu âm tính ở thời điểm 3 tháng sau khi xuất hiện tổn thương săng có thể loại trừ bệnh giang mai.
-- Các trường hợp dương tính giả thường có hiệu giá kháng thể < 1/4.
-- Xét nghiệm không đặc hiệu định tính được sử dụng phối hợp với xét nghiệm đặc hiệu để chẩn đoán giang mai.
-- Xét nghiệm không đặc hiệu định lượng được sử dụng để theo dõi hiệu quả điều trị dựa vào sự thay đổi của hiệu giá kháng thể. Nếu điều trị hiệu quả, hiệu giá kháng thể sẽ giảm. Nếu bệnh không đáp ứng tốt với điều trị, hiệu giá kháng thể sẽ tăng.
-- Hiệu giá kháng thể thay đổi (tăng/giảm) ≥ 4 lần, tương đương ≥ 2 lần pha loãng huyết thanh giữa 2 lần xét nghiệm liên tiếp nhau thì được xem là thay đổi có ý nghĩa (cùng phương pháp (RPR hoặc VDRL) và cùng phòng xét nghiệm) (ví dụ: từ 1/16 giảm xuống 1/4 ở bệnh nhân có đáp ứng với điều trị, hoặc từ 1/8 tăng lên 1/32 đối với trường hợp không đáp ứng tốt với điều trị).
-- Nếu hiệu giá kháng thể chỉ thay đổi ≤ 2 lần, tương đương 1 lần pha loãng (ví dụ: 1/8 và 1/4, 1/2 và 1/1) thì được xem không có ý nghĩa.
-
-Xét nghiệm đặc hiệu
-
-- Bao gồm TPHA (treponema pallidum hemagglutionation’s assay), TPPA (treponema pallidum particle agglutination assay) và FTA abs (fluorescent treponema antibody absortion’s test).
-- Phát hiện kháng thể kháng lại kháng nguyên giang mai đặc hiệu nên có tính đặc hiệu cao. Tuy nhiên, xét nghiệm này không phân biệt được kháng nguyên trong bệnh giang mai và các bệnh do xoắn khuẩn khác gây nên (ví dụ bệnh ghẻ cóc).
-- Sau khi điều trị đúng, xét nghiệm đặc hiệu vẫn dương tính kéo dài suốt đời (85%), vì vậy xét nghiệm đặc hiệu không phân biệt được bệnh đang trong thời kỳ hoạt động hay đã được điều trị và không dùng để theo dõi sau điều trị.
-- Xét nghiệm đặc hiệu được chỉ định sau khi có kết quả dương tính với xét nghiệm không đặc hiệu để chẩn đoán khẳng định hoặc ngược lại.
+Quy trình chẩn đoán thường là:  
+1. Xét nghiệm không đặc hiệu (RPR/VDRL).  
+2. Nếu dương tính, xác nhận bằng xét nghiệm đặc hiệu (TPHA/TPPA/FTA-ABS) hoặc ngược lại.
 
 #### Phương pháp trực tiếp
 
-Xét nghiệm soi tìm xoắn khuẩn trên kính hiển vi nền đen:
+- **Soi kính hiển vi nền đen (Dark-field microscopy):**  
+  - Bệnh phẩm: Dịch tiết từ săng, tổn thương trợt/loét, dịch hạch.  
+  - Quan sát xoắn khuẩn giang mai di động dưới dạng lò xo, không phân biệt được với một số xoắn khuẩn khác (do đó phải kết hợp với lâm sàng).  
+  - **Ưu điểm:** Phát hiện trực tiếp xoắn khuẩn vào giai đoạn sớm (Primary syphilis).  
+  - **Hạn chế:** Độ nhạy thấp (< 50%), phụ thuộc chất lượng mẫu và kỹ năng người soi; cần làm ngay sau khi lấy bệnh phẩm.
 
-- Bệnh phẩm: dịch tiết từ tổn thương nghi ngờ trên da, niêm mạc, hạch…
-- Soi tìm xoắn khuẩn trên kính hiển vi nền đen thấy xoắn khuẩn giang mai dưới dạng lò xo, di động.
-- Đây là phương pháp đặc hiệu nhất để chẩn đoán giang mai ở giai đoạn sớm. Xét nghiệm có độ đặc hiệu cao, nhưng độ nhạy thấp (thường < 50%), nên xét nghiệm soi tìm xoắn khuẩn âm tính không loại trừ được giang mai.
-- Xét nghiệm cần được thực hiện ngay sau khi lấy bệnh phẩm.
-- Xét nghiệm cần các thiết bị đặc biệt và kỹ thuật viên đã được tập huấn, có kinh nghiệm, vì vậy thường chỉ có thể tiến hành trong các phòng xét nghiệm chuyên sâu. Đây là trong những phương pháp có độ tin cậy cao nhất để trực tiếp phát hiện T.pallidum, nhưng tính ứng dụng không cao.
+- **DFA (Direct Fluorescent Antibody):**  
+  - Dùng kháng thể gắn huỳnh quang để nhuộm xoắn khuẩn trên kính hiển vi huỳnh quang.  
+  - Độ nhạy và đặc hiệu cao hơn soi nền đen; cần trang thiết bị và hoá chất đặc biệt.
 
-Xét nghiệm tìm kháng thể huỳnh quang trực tiếp (DFA-direct fluorescent antibody)
+- **Xét nghiệm khuếch đại acid nucleic (NAATs/PCR):**  
+  - Phát hiện ADN của _T. pallidum_ trong dịch tiết tổn thương, mô, dịch cơ thể.  
+  - Độ nhạy khác nhau tùy bộ kit; chi phí cao, đòi hỏi kỹ thuật viên có kinh nghiệm.  
+  - Không phổ biến trong thực hành lâm sàng thường quy do chi phí và yêu cầu trang thiết bị.
 
-- Dùng kính hiển vi huỳnh quang để phát hiện xoắn khuẩn được nhuộm kháng thể globulin kháng T. pallidum có gắn huỳnh quang.
-- Bệnh phẩm được lấy như xét nghiệm soi tìm xoắn khuẩn trên kính hiển vi nền đen nhưng xoắn khuẩn được nhuộm kháng thể gắn huỳnh quang nên dễ được phát hiện hơn, không bị nhầm lẫn với các vi sinh vật khác, nên xét nghiệm DFA có độ nhạy và độ đặc hiệu cao hơn.
-- Xét nghiệm cần các thiết bị và chế phẩm huỳnh quang đặc biệt, vì vậy tính ứng dụng không cao.
+#### Xét nghiệm nhanh (Rapid diagnostic tests)
 
-Xét nghiệm khuếch đại axit nucleic (NAATs – nucleic acid amplification tests)
+- **Xét nghiệm nhanh đặc hiệu:** Phát hiện kháng thể kháng _T. pallidum_.  
+- **Xét nghiệm nhanh không đặc hiệu:** Phát hiện kháng thể kháng cardiolipin (tương tự RPR/VDRL).  
+- **Xét nghiệm phối hợp đặc hiệu & không đặc hiệu:** Cho phép sàng lọc và khẳng định trong 1 xét nghiệm; chưa được WHO chuẩn hóa rộng rãi.
 
-- Xét nghiệm trực tiếp tìm ADN xoắn khuẩn T. pallidum bằng phản ứng khuếch đại axit nucleic (còn gọi là xét nghiệm khuếch đại gen, trong đó có xét nghiệm PCR).
-- Bệnh phẩm: dịch tiết từ tổn thương da, mô, dịch cơ thể.
-- Độ nhạy khác nhau, phụ thuộc vào bộ sinh phẩm PCR.
-- Giá thành cao hơn so với các xét nghiệm chẩn đoán giang mai khác; cần có các thiết bị xét nghiệm chuyên dụng và cán bộ xét nghiệm được đào tạo để thực hiện xét nghiệm PCR.
+Các xét nghiệm nhanh có:  
+- Độ nhạy: 85–98% (so với TPHA/TPPA).  
+- Độ đặc hiệu: 93–98%.  
 
-#### Xét nghiệm nhanh chẩn đoán giang mai
+Ưu tiên sử dụng ở cộng đồng, sàng lọc người có nguy cơ cao (phụ nữ mại dâm, nam quan hệ đồng giới, người chuyển giới) và phụ nữ mang thai.
 
-Các xét nghiệm nhanh chẩn đoán giang mai (rapid diagnostic tests) đã và đang được phát triển mạnh trong vài thập kỷ qua. Hiện nay, xét nghiệm nhanh chẩn đoán giang mai được sử dụng rộng rãi để sàng lọc trong cộng đồng, đặc biệt cho các nhóm đối tượng nguy cơ cao (phụ nữ mại dâm, nam quan hệ tình dục đồng giới) và trong chương trình phòng chống HIV/AIDS.
+### Chẩn đoán
 
-Các xét nghiệm nhanh có thể được thực hiện tại các cơ sở y tế hoặc tại cộng đồng. Xét nghiệm tại cộng đồng được thực hiện bởi các nhân viên tiếp cận cộng đồng đã được tập huấn đầy đủ. Xét nghiệm nhanh cho kết quả xác định kháng thể kháng giang mai trong 10-15 phút và không cần tủ lạnh bảo quản bệnh phẩm hay dụng cụ xét nghiệm nên có thể tiến hành được ở nhiều tuyến khác nhau.
+- **Thời điểm chẩn đoán:**  
+  - Có thể xét nghiệm từ 3 tuần sau phơi nhiễm nếu có triệu chứng hoặc từ 7 ngày nếu không có triệu chứng (dựa vào NAATs).  
+  - Nếu nghi ngờ phơi nhiễm nhưng âm tính, xét nghiệm lại sau 6 tuần và 3 tháng để tránh bỏ sót.
 
-Xét nghiệm nhanh có độ nhạy từ 85-98% và độ đặc hiệu từ 93-98% (lấy xét nghiệm đặc hiệu TPHA hoặc TPPA làm chuẩn).
+#### Giang mai mắc phải
 
-Nhìn chung, xét nghiệm nhanh có độ nhạy cao có xu hướng có độ đặc hiệu thấp hơn và ngược lại.
+- **Chẩn đoán xác định** khi:  
+  1. **Xét nghiệm không đặc hiệu (+)** (RPR/VDRL) **và**  
+  2. **Xét nghiệm đặc hiệu (+)** (TPHA/TPPA/FTA-ABS)  
+  - Hoặc: xét nghiệm nhanh đặc hiệu (+) kết hợp NAATs/PCR (+) hoặc soi kính hiển vi nền đen (+) với lâm sàng phù hợp.
 
-Có 3 loại xét nghiệm nhanh chẩn đoán giang mai: đặc hiệu, không đặc hiệu và phối hợp:
+- **Chẩn đoán dựa vào lâm sàng và dịch tễ** khi không có điều kiện xét nghiệm đầy đủ, cần điều trị khẩn và theo dõi xét nghiệm sau.
 
-- Xét nghiệm đặc hiệu:
-  - Hầu hết các xét nghiệm nhanh sử dụng kháng nguyên T. pallidum để phát hiện kháng thể đặc hiệu giang mai. Nguyên lý của xét nghiệm nhanh chẩn đoán giang mai giống với xét nghiệm huyết thanh đặc hiệu, nên kết quả xét nghiệm nhanh dương tính không phân biệt được bệnh giang mai đang hoạt động hay trước đây đã được điều trị.
-  - Xét nghiệm nhanh kép HIV/giang mai phát hiện kháng thể kháng HIV và kháng thể đặc hiệu giang mai trong 1 lần xét nghiệm đã được nghiên cứu và sử dụng tại cơ sở y tế và tại cộng đồng. Sau khi có kết quả dương tính cần làm thêm xét nghiệm không đặc hiệu để chẩn đoán xác định. Hiện nay, xét nghiệm nhanh kép này đang được sử dụng cho các quần thể nguy cơ cao (phụ nữ mại dâm, nam quan hệ tình dục đồng giới, người chuyển giới) và phụ nữ mang thai. Việc sử dụng xét nghiệm nhanh kép HIV/giang mai đã làm tăng sự tiếp cận với xét nghiệm cũng như có chi phí-hiệu quả cao.
-- Xét nghiệm không đặc hiệu: Gần đây, các xét nghiệm nhanh phát hiện kháng thể kháng kháng nguyên cardiolipin, có nguyên lý hoạt động giống xét nghiệm huyết thanh không đặc hiệu đang được nghiên cứu và ứng dụng.
-- Xét nghiệm nhanh phối hợp đặc hiệu và không đặc hiệu: Các xét nghiệm nhanh không đặc hiệu được kết hợp với xét nghiệm đặc hiệu giang mai, nên có thể vừa sàng lọc (tương đương RPR/VDRL) vừa khẳng định chẩn đoán (tương đương TPHA/TPPA). Tuy nhiên, những xét nghiệm kép này chưa được đánh giá và kiểm định bởi Tổ chức Y tế thế giới.
+#### Giang mai bẩm sinh
 
-## Chẩn đoán
+- **Chẩn đoán ngay sau sinh** nếu:  
+  - Mẹ có RPR/VDRL (+) và chưa được điều trị đủ trước khi sinh.  
+  - Trẻ có triệu chứng giang mai bẩm sinh hoặc xét nghiệm huyết thanh trẻ có hiệu giá RPR ≥ 4 lần hiệu giá của mẹ.  
+  - Soi kính hiển vi nền đen hoặc DFA (+) trên dịch từ da, mũi hoặc mô nhau.
 
-- Thời gian lây truyền qua tiếp xúc trực tiếp với vết loét giang mai (săng) khi quan hệ tình dục. Lây cao nhất trong giai đoạn 1 và 2.
-- Từ 3 tuần sau phơi nhiễm trở lên.
-- Xét nghiệm lại sau 6 tuần và 3 tháng nếu nghi ngờ phơi nhiễm.
-
-### Giang mai mắc phải
-
-Người bệnh được chẩn đoán xác định giang mai khi có kết quả dương tính với 01 xét nghiệm huyết thanh đặc hiệu (bao gồm cả xét nghiệm nhanh) và 01 xét nghiệm huyết thanh không đặc hiệu.
-
-Ngoài ra có thể dựa vào các xét nghiệm trực tiếp như kính hiển vi nền đen, xét nghiệm kháng thể huỳnh quang trực tiếp và xét nghiệm khuếch đại gen.
-
-### Giang mai bẩm sinh
-
-Tất cả trẻ sinh ra từ những bà mẹ có kết quả huyết thanh giang mai dương tính, cần được khám và làm xét nghiệm để tìm bằng chứng giang mai bẩm sinh. Đối với trẻ sinh ra từ mẹ bị giang mai nhưng không được điều trị đầy đủ ít nhất 30 ngày trước khi sinh hoặc không được điều trị, cần được xét nghiệm ngay ở thời điểm mới sinh ra và hàng tháng trong vòng 3-4 tháng cho đến khi khẳng định về mặt huyết thanh là âm tính. Trường hợp kháng thể thụ động từ mẹ có thể tồn tại tới 18 tháng. Vì vậy, nếu xét nghiệm huyết thanh của trẻ vẫn dương tính và hiệu giá kháng thể tăng ≥ 4 lần hiệu giá kháng thể của mẹ thì trẻ cần được điều trị giang mai bẩm sinh.
-
-Trẻ sinh ra dưới 2 tuổi có mẹ bị giang mai được chẩn đoán giang mai bẩm sinh khi có triệu chứng lâm sàng của giang mai bẩm sinh hoặc có xét nghiệm giang mai dương tính, bao gồm 1 trong những xét nghiệm sau:
-
-- Xét nghiệm tìm xoắn khuẩn trên kính hiển vi nền đen hoặc xét nghiệm kháng thể huỳnh quang trực tiếp: thấy sự có mặt của T. pallidum. Bệnh phẩm lấy từ dây rốn, nhau thai, dịch tiết từ mũi hoặc tổn thương da.
-- Xét nghiệm huyết thanh không đặc hiệu dương tính và có hiệu giá kháng thể cao gấp ≤ 4 lần hiệu giá kháng thể của mẹ.
-- Trong một số trường hợp giang mai bẩm sinh, có thể phối hợp X-quang để xác định chẩn đoán.
+- **Theo dõi lâu dài**: Trẻ không triệu chứng nhưng mẹ RPR/VDRL (+) cần xét nghiệm lại hàng tháng trong 3–4 tháng đầu; kháng thể thụ động từ mẹ có thể tồn tại tới 18 tháng. Nếu kháng thể trẻ tăng gấp ≥ 4 lần của mẹ, chẩn đoán chắc giang mai bẩm sinh.
 
 ### Chẩn đoán phân biệt
 
-Tuỳ thuộc vào biểu hiện lâm sàng của bệnh nhân.
+#### Tổn thương săng/loét giang mai (Primary chancre)
 
-- Chẩn đoán phân biệt săng/loét giang mai:
-  - Loét ở sinh dục: nhiễm herpes simplex sinh dục, hạ cam, loét áp sinh dục, chấn thương, ung thư.
-  - Loét ở hậu môn: nhiễm herpes simplex hậu môn-sinh dục, nứt kẽ hậu môn, chấn thương, nhiễm khuẩn khác.
-  - Loét ở miệng: herpes simplex miệng, loét áp, chấn thương.
-- Chẩn đoán phân biệt đào ban giang mai: dị ứng thuốc, vảy phấn hồng, vảy nến, chàm/viêm da cơ địa.
-- Chẩn đoán phân biệt sẩn sùi giang mai (condylomata lata): sùi mào gà và các bệnh lý hạt cơm khác.
+- **Herpes simplex sinh dục:** Nhiều mụn nước, đau, chảy nước, sau vỡ thành loét, có cảm giác nóng rát.  
+- **Chancroid (Hạ cam):** Loét sâu, đau nhiều, đáy loét nhũn, có hạch bẹn mủ.  
+- **Loét do chấn thương cơ học hoặc ung thư biểu mô:** Thường không di động, không có hạch bẹn điển hình.
+
+#### Đào ban giang mai (Secondary rash)
+
+- **Vảy phấn hồng (Pityriasis rosea):** Dát dẹt, hình chiếc thuyền, lan toàn thân nhưng không xuất hiện ở lòng bàn tay – bàn chân.  
+- **Vảy nến (Psoriasis):** Vảy dày, gương bóng, ngứa và tổn thương khu trú tại khớp gối, khuỷu tay.  
+- **Viêm da cơ địa (Eczema):** Ngứa nhiều, tiết dịch, tổn thương có vảy mỡ.
+
+#### Sẩn sùi giang mai (Condyloma lata)
+
+- **Sùi mào gà (Condyloma acuminata do HPV):** Sùi mềm, nhú, bề mặt gồ ghề, đau ít hoặc không đau.  
+- **Sùi hạt cơm (Verruca vulgaris):** Cứng, có ranh giới rõ, kèm đường viền xù xì.
+
+#### Giang mai bẩm sinh
+
+- **Nhiễm khuẩn khác ở trẻ sơ sinh:** Staphylococcus, Streptococcus, Haemophilus influenzae, Chlamydia trachomatis (gây viêm kết mạc, viêm phổi).  
+- **Rickets (nhuyễn xương):** Giống viêm xương sụn giang mai muộn nhưng xét nghiệm huyết thanh âm tính giang mai.  
+- **Bệnh nấm (Blastomyces, Histoplasma) hoặc bệnh lý di truyền ảnh hưởng xương, da.**
 
 ## Điều trị
 
 ### Nguyên tắc điều trị
 
-Lựa chọn phác đồ điều trị dựa vào giai đoạn bệnh giang mai sớm (≤ 2 năm) hay giang mai muộn (> 2 năm hoặc không xác định thời gian).
-
-Bạn tình hiện tại và trong vòng 1 năm cần được đi khám, làm xét nghiệm giang mai và điều trị nếu mắc bệnh.
-
-Chủ yếu điều trị ngoại trú, chỉ điều trị nội trú trong trường hợp giang mai thời kỳ III (có biểu hiện tim mạch và thần kinh) và giang mai bẩm sinh.
+- **Xác định giai đoạn bệnh** (giang mai sớm ≤ 2 năm, giang mai muộn > 2 năm hoặc không rõ).  
+- **Điều trị sớm, đúng phác đồ, đủ liều** để ngăn ngừa biến chứng và lây lan.  
+- **Điều trị bạn tình hiện tại và trong vòng 1 năm** để tránh lây nhiễm qua lại.  
+- **Kiêng quan hệ tình dục** trong thời gian điều trị và 7 ngày sau khi hoàn thành.  
+- **Chủ yếu điều trị ngoại trú**; chỉ nhập viện khi giang mai thần kinh, giang mai tim mạch nặng hoặc giang mai bẩm sinh cần theo dõi chặt chẽ.
 
 ### Điều trị cụ thể
 
-#### Đối với bệnh nhân người lớn và vị thành niên
+#### Người lớn và vị thành niên (≥ 10 tuổi)
 
-|                                                      | Phác đồ ưu tiên                                                                                                                      | Phác đồ thay thế                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giang mai sớm (≤ 2 năm)                              | Benzathin penicillin 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất                                                                   | Trong trường hợp không có benzathin penicillin, thay thế bằng phác đồ sau:<br>- Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu, 1 lần/ngày, trong 10-14 ngày.<br>Nếu không có procain penicillin hoặc bệnh nhân có tiền sử dị ứng với penicillin → lựa chọn 1 trong các phác đồ sau:<br>- Doxycyclin 100mg, uống 2 lần/ngày, trong 14 ngày;<br>- Ceftriaxon 1g, tiêm bắp sâu, 1 lần/ngày, trong 10-14 ngày;<br>- Azithromycin 2g, uống liều duy nhất. |
-| Giang mai muộn (> 2 năm hoặc không rõ thời gian mắc) | Benzathin penicillin 2.4 triệu đơn vị, tiêm bắp sâu, 1 lần/ tuần trong 3 tuần liên tiếp, thời gian giữa 2 lần tiêm không quá 14 ngày | Trong trường hợp không có benzathin penicillin, thay thế bằng phác đồ sau:<br>- Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu, 1 lần/ngày, trong 20 ngày.<br>Nếu không có procain penicillin hoặc bệnh nhân có tiền sử dị ứng với penicillin → lựa chọn phác đồ sau:<br>- Doxycyclin 100mg, uống 2 lần/ngày, trong 30 ngày.                                                                                                                          |
+|                         | Phác đồ ưu tiên                                                                                                                                                                                                                         | Phác đồ thay thế                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|-------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Giang mai sớm (≤ 2 năm)**      | **Benzathin penicillin G 2,4 triệu đơn vị, tiêm bắp sâu, liều duy nhất**                                                                                                                           | Nếu không có Benzathin penicillin hoặc dị ứng penicillin:<br>- **Procain penicillin 1,2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 10–14 ngày**<br>Hoặc nếu dị ứng penicillin:<br>- **Doxycycline 100 mg uống 2 lần/ngày x 14 ngày**<br>- **Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày x 10–14 ngày**<br>- **Azithromycin 2 g uống liều duy nhất**                                                                                                                                                                            |
+| **Giang mai muộn (> 2 năm hoặc không rõ)** | **Benzathin penicillin G 2,4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần x 3 tuần liên tiếp** (Khoảng cách giữa các lần tiêm không quá 14 ngày)                                                                                | Nếu không có Benzathin penicillin hoặc dị ứng penicillin:<br>- **Procain penicillin 1,2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 20 ngày**<br>Hoặc nếu dị ứng penicillin:<br>- **Doxycycline 100 mg uống 2 lần/ngày x 30 ngày**                                                                                                                                                                                                                                                                                                 |
 
-#### Các trường hợp đặc biệt
+#### Phụ nữ có thai
 
-Với phụ nữ có thai:
-
-|                                                                  | Phác đồ ưu tiên                                                                                                                       | Phác đồ thay thế                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Giang mai sớm (≤ 2 năm)                                          | Benzathin penicillin 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất                                                                    | Nếu không có benzathin penicillin, có thể thay bằng các phác đồ sau:<br>- Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu, 1 lần/ngày, trong 10 ngày.<br>Nếu không có procain penicillin hoặc bệnh nhân có tiền sử dị ứng với penicillin → lựa chọn 1 trong các phác đồ sau:<br>- Erythromycin 500mg, uống 4 lần/ngày, trong 14 ngày.<br>- Ceftriaxon 1g, tiêm bắp sâu, 1 lần/ngày, trong 10-14 ngày.<br>- Azithromycin 2g, uống liều duy nhất. |
-| Giang mai muộn (> 2 năm hoặc không biết chính xác thời gian mắc) | Benzathin penicillin 2.4 triệu đơn vị, tiêm bắp sâu, 1 lần/ tuần trong 3 tuần liên tiếp, thời gian giữa 2 lần tiêm không quá 14 ngày. | Nếu không có benzathin penicillin, có thể thay bằng các phác đồ sau:<br>- Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu, 1 lần/ngày, trong 20 ngày.<br>Nếu không có procain penicillin hoặc bệnh nhân có tiền sử dị ứng với penicillin → lựa chọn phác đồ sau:<br>- Erythromycin 500mg, uống 4 lần/ngày, trong 30 ngày.                                                                                                                       |
+|                                             | Phác đồ ưu tiên                                                                                                                                                                                                      | Phác đồ thay thế                                                                                                                                                                                                                                        |
+|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Giang mai sớm (≤ 2 năm)**                 | **Benzathin penicillin G 2,4 triệu đơn vị, tiêm bắp sâu, liều duy nhất**                                                                                                                                             | Nếu không có Benzathin penicillin:<br>- **Procain penicillin 1,2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 10 ngày**<br>Hoặc nếu dị ứng penicillin:<br>- **Erythromycin 500 mg uống 4 lần/ngày x 14 ngày**<br>- **Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày x 10–14 ngày**<br>- **Azithromycin 2 g uống liều duy nhất** |
+| **Giang mai muộn (> 2 năm hoặc không rõ)**   | **Benzathin penicillin G 2,4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần x 3 tuần liên tiếp**                                                                                                                               | Nếu không có Benzathin penicillin:<br>- **Procain penicillin 1,2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 20 ngày**<br>Hoặc nếu dị ứng penicillin:<br>- **Erythromycin 500 mg uống 4 lần/ngày x 30 ngày**                                 |
 
 :::caution[Lưu ý]
-Erythromycin, azithromycin là những thuốc không đi qua nhau thai nên trẻ có mẹ giang mai mới sinh ra cần được điều trị ngay theo phác đồ:
-
-Doxycyclin chống chỉ định cho phụ nữ mang thai vì có thể gây ra biến chứng bất lợi nghiêm trọng cho thai nhi.
+- **Doxycycline chống chỉ định cho phụ nữ mang thai** do gây tác động bất lợi lên xương và răng của thai nhi.  
+- **Erythromycin, Azithromycin** không qua nhau thai, có thể dùng thay thế trong thai kỳ nếu dị ứng penicillin.  
+- Trẻ sơ sinh của mẹ giang mai chưa điều trị đủ cần đánh giá lâm sàng và xét nghiệm sớm; điều trị dự phòng hoặc điều trị ngay nếu cần.  
 :::
 
-Với giang mai bẩm sinh
+#### Giang mai bẩm sinh
 
-- Chỉ định điều trị:
-  - Giang mai bẩm sinh được chẩn đoán xác định.
-  - Trẻ sơ sinh không có biểu hiện lâm sàng, nhưng có mẹ bị giang mai chưa được điều trị hoặc điều trị chưa đầy đủ hoặc điều trị muộn (trong vòng 30 ngày trước khi sinh) hoặc điều trị với phác đồ không dùng penicillin, không theo hướng dẫn điều trị cho phụ nữ mang thai.
-- Lựa chọn 1 trong các phác đồ sau:
-  - Benzyl penicillin 100.000 – 150.000 đơn vị/kg/ngày, tiêm tĩnh mạch chậm trong 10-15 ngày.
-  - Procain penicillin 50.000 đơn vị /kg/ngày, tiêm bắp 10-15 ngày.
-- Nên ưu tiên dùng phác đồ benzyl penicillin hơn phác đồ procain penicillin nếu có thể tiêm tĩnh mạch.
-- Trẻ sơ sinh không có triệu chứng lâm sàng và mẹ đã được điều trị giang mai đầy đủ, không có dấu hiệu tái nhiễm, chỉ cần theo dõi chặt chẽ. Nguy cơ lây truyền giang mai từ mẹ sang con phụ thuộc vào nhiều yếu tố, bao gồm hiệu giá kháng thể xét nghiệm không đặc hiệu của mẹ (ví dụ: RPR), thời gian điều trị và giai đoạn bệnh của mẹ. Nếu cần điều trị, sử dụng phác đồ: Benzathin penicillin G 50.000 đơn vị/kg/ngày, tiêm bắp, liều duy nhất.
+- **Chỉ định điều trị:**  
+  - Trẻ sinh ra từ mẹ huyết thanh giang mai dương tính mà mẹ chưa điều trị đúng, đủ trước sinh hoặc điều trị muộn (< 30 ngày trước sinh).  
+  - Trẻ < 2 tuổi có triệu chứng lâm sàng giang mai bẩm sinh hoặc xét nghiệm huyết thanh (+).  
+
+- **Phác đồ Benzyl penicillin (thuốc ưu tiên):**  
+  - **100.000–150.000 Đơn vị/kg/ngày**, tiêm tĩnh mạch chậm chia 2–3 lần/ngày (nếu thể trạng đảm bảo) hoặc truyền liên tục trong 10–15 ngày.  
+
+- **Phác đồ Procain penicillin (thay thế nếu không tiêm tĩnh mạch được):**  
+  - **50.000 Đơn vị/kg/ngày**, tiêm bắp sâu 1 liều/ngày x 10–15 ngày.  
+
+- **Trẻ không triệu chứng** và mẹ đã điều trị đầy đủ trước sinh: chỉ cần theo dõi chặt chẽ, xét nghiệm huyết thanh định kỳ (tháng 1, 2, 3). Nếu xét nghiệm không đặc hiệu vẫn dương, điều trị phác đồ:  
+  - **Benzathin penicillin G 50.000 Đơn vị/kg, tiêm bắp liều duy nhất** (nếu không có dấu hiệu lâm sàng).
 
 ## Phòng bệnh
 
-Xét nghiệm giang mai cho tất cả phụ nữ mang thai vào lần khám thai đầu tiên sử dụng test nhanh giang mai để phát hiện, điều trị sớm, ngăn ngừa lây truyền giang mai từ mẹ sang con.
+- **Xét nghiệm giang mai cho phụ nữ mang thai lần khám đầu:** Dùng xét nghiệm nhanh đặc hiệu, nếu (+) điều trị sớm để ngăn lây truyền từ mẹ sang con.  
+- **Truyền thông, giáo dục** về nguyên nhân, đường lây, biến chứng và cách phòng giang mai, đặc biệt ở nhóm nguy cơ cao (phụ nữ mại dâm, nam quan hệ đồng giới, người chuyển giới).  
+- **Thực hành tình dục an toàn:** Sử dụng bao cao su đúng cách khi quan hệ âm đạo, hậu môn, miệng; hạn chế số bạn tình.  
+- **Khám sàng lọc định kỳ STI** cho nhóm nguy cơ cao.  
+- **Tập huấn chuyên môn** cho nhân viên y tế tuyến xã, huyện, tỉnh về chẩn đoán sớm, điều trị đúng, chống kháng thuốc.  
+- **Giám sát kháng thuốc:** Đẩy mạnh nuôi cấy _N. gonorrhoeae_ và làm kháng sinh đồ để theo dõi tình hình kháng thuốc, điều chỉnh phác đồ thuốc kịp thời.
 
-Truyền thông giáo dục cho cộng đồng, đặc biệt quần thể nguy cơ cao (gái mại dâm, nam quan hệ tình dục đồng giới) về nguyên nhân gây bệnh, đường lây, biến chứng, cách phòng bệnh, lợi ích của việc xét nghiệm và điều trị sớm.
+### Các chiến lược xét nghiệm theo tuyến y tế
 
-Thực hành tình dục an toàn.
+1. **Chiến lược A (Tuyến xã/phường hoặc huyện chưa có RPR):**  
+   - Dùng xét nghiệm nhanh đặc hiệu tại chỗ, nếu dương tính thì điều trị ngay.  
+   - Áp dụng chủ yếu cho phụ nữ mang thai để ngăn giang mai bẩm sinh.  
+   - Hạn chế: Xét nghiệm nhanh không phân biệt được giang mai đã điều trị và giang mai hoạt động.
 
-Tập huấn chuyên môn cho các bác sỹ đa khoa, bác sỹ chuyên khoa da liễu và sản phụ khoa ở các tuyến từ trung ương đến địa phương về chẩn đoán sớm, điều trị đúng và đủ bệnh giang mai, giảm tối đa giang mai bẩm sinh.
+2. **Chiến lược B (Tuyến huyện có RPR):**  
+   - Xét nghiệm RPR tại chỗ, nếu (+) điều trị ngay trong ngày khám.  
+   - Nếu RPR (–), xét nghiệm lại sau 1 tháng để tránh bỏ sót giang mai sớm.  
+   - Cần máy lắc, máy li tâm, tủ lạnh bảo quản sinh phẩm, nguồn điện ổn định.
 
-Các chiến lược xét nghiệm, chẩn đoán và điều trị giang mai theo tuyến y tế:
+3. **Chiến lược C (Tuyến huyện/tỉnh):**  
+   - Xét nghiệm nhanh đặc hiệu; nếu (–) xem như không mắc, không điều trị.  
+   - Nếu (+), tiêm ngay mũi Benzathin penicillin đầu tiên, sau đó làm RPR:  
+     - RPR (+): tiếp tục điều trị theo giai đoạn (sớm hoặc muộn).  
+     - RPR (–): xét nghiệm lại sau ~1 tháng để loại trừ âm tính giả giai đoạn sớm.
 
-- Chiến lược A: Xét nghiệm nhanh tại chỗ, nếu dương tính thì điều trị:
-  - Áp dụng: tuyến phường/xã, hoặc tuyến huyện không có điều kiện xét nghiệm RPR.
-  - Chỉ làm duy nhất xét nghiệm nhanh tại chỗ, nếu kết quả dương tính thì điều trị luôn.
-  - Chủ yếu áp dụng cho phụ nữ mang thai để dự phòng lây truyền giang mai từ mẹ sang con. Phụ nữ mang thai nếu trong lần mang thai trước có xét nghiệm nhanh dương tính và đã được điều trị đầy đủ, nếu có nguy cơ cao tái mắc bệnh sẽ phải điều trị lại mà không cần làm xét nghiệm nhanh. Ở những nơi có cơ sở vật chất tốt hơn, đối tượng này nên được tiến hành xét nghiệm RPR định lượng thay xét nghiệm nhanh.
-  - Nhược điểm: xét nghiệm nhanh không phân biệt được giang mai chưa điều trị và tiền sử đã được điều trị giang mai đầy đủ.
-- Chiến lược B: Xét nghiệm RPR tại chỗ, nếu dương tính thì điều trị:
-  - Áp dụng: tuyến huyện.
-  - Nếu kết quả RPR dương tính thì có thể điều trị luôn trong cùng 1 ngày.
-  - Nếu kết quả RPR âm tính, có thể làm lại xét nghiệm sau 1 tháng để tránh bỏ sót trường hợp âm tính giả trong giang mai sớm.
-  - Chủ yếu áp dụng điều trị cho phụ nữ mang thai để dự phòng lây truyền giang mai từ mẹ sang con.
-  - Cần máy lắc, máy li tâm, tủ lạnh bảo quản sinh phẩm, nguồn điện để vận hành các máy móc.
-- Chiến lược C: Xét nghiệm nhanh (đặc hiệu) tại chỗ, nếu dương tính thì điều trị liều đầu tiên và làm xét nghiệm RPR theo sơ đồ dưới đây:
-  - Áp dụng: tuyến huyện hoặc tuyến tỉnh.
-  - Xét nghiệm nhanh (đặc hiệu), nếu âm tính thì xem như không mắc bệnh, không cần điều trị.
-  - Nếu xét nghiệm nhanh dương tính, cần điều trị ngay mũi benzathin penicillin đầu tiên. Sau đó tiến hành xét nghiệm RPR. Nếu RPR dương tính, bệnh nhân sẽ được tiếp tục điều trị theo phác đồ (tùy theo giai đoạn bệnh). Nếu RPR âm tính, cần làm lại xét nghiệm sau khoảng 1 tháng để tránh bỏ sót trường hợp âm tính giả.
-- Chiến lược D: Chiến lược xét nghiệm chuẩn ở phòng xét nghiệm chuyên biệt:
-  - Áp dụng: tuyến tỉnh hoặc tuyến trung ương.
-  - Xét nghiệm RPR hoặc VDRL ở phòng xét nghiệm, nếu dương tính làm xét nghiệm TPPA hoặc TPHA (cùng 1 mẫu bệnh phẩm máu).
-  - Quyết định điều trị khi chẩn đoán giang mai.
+4. **Chiến lược D (Tuyến tỉnh/trung ương):**  
+   - Xét nghiệm RPR/VDRL tại phòng xét nghiệm chuyên nghiệp; nếu (+), làm thêm TPPA/TPHA (cùng mẫu).  
+   - Điều trị khi chẩn đoán xác định giang mai.
 
 ## Nguồn tham khảo
 
-- BỘ Y TẾ (2021) - _Hướng dẫn chẩn đoán và điều trị bệnh giang mai_
+- BỘ Y TẾ (2021) – _Hướng dẫn chẩn đoán và điều trị bệnh giang mai_  
