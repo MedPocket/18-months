@@ -100,11 +100,11 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 - **Phụ nữ có thai**: Không nạo kênh cổ tử cung, có thể hoãn soi đến 6 tuần sau sinh.
   ![Quản lý ASC-US theo hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-asc-us.png)
 
-_Quản lý ASC-US theo hướng dẫn của ASCCP 2012._
+_Quản lý ASC-US - Hướng dẫn của ASCCP 2012._
 
 ![Quản lý ASC-US theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-us.jpeg)
 
-_Quản lý ASC-US theo Bệnh viện Từ Dũ._
+_Quản lý ASC-US – Bệnh viện Từ Dũ._
 
 ### LSIL
 
@@ -132,11 +132,11 @@ _Quản lý ASC-US theo Bệnh viện Từ Dũ._
 
 ![Quản lý LSIL theo hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-lsil.png)
 
-_Quản lý LSIL theo hướng dẫn của ASCCP 2012._
+_Quản lý LSIL – Hướng dẫn của ASCCP 2012._
 
 ![Quản lý LSIL theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-lsil.jpeg)
 
-_Quản lý LSIL theo Bệnh viện Từ Dũ._
+_Quản lý LSIL – Bệnh viện Từ Dũ._
 
 ### HSIL
 
@@ -164,11 +164,11 @@ LEEP (cắt vòng điện) có thể thực hiện cùng lúc với soi, bỏ qu
 
 ![Quản lý HSIL theo hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-hsil.png)
 
-_Quản lý HSIL theo hướng dẫn của ASCCP 2012._
+_Quản lý HSIL – Hướng dẫn của ASCCP 2012._
 
 ![Quản lý HSIL theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-hsil.jpeg)
 
-_Quản lý HSIL theo Bệnh viện Từ Dũ._
+_Quản lý HSIL – Bệnh viện Từ Dũ._
 
 ### ASC-H
 
@@ -182,7 +182,7 @@ _Quản lý HSIL theo Bệnh viện Từ Dũ._
 
 ![Quản lý ASC-H theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-h.jpeg)
 
-_Quản lý ASC-H theo Bệnh viện Từ Dũ._
+_Quản lý ASC-H – Bệnh viện Từ Dũ._
 
 ### AGC / AGUS
 
@@ -198,11 +198,11 @@ _Quản lý ASC-H theo Bệnh viện Từ Dũ._
 
 ![Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-agus.jpeg)
 
-_Quản lý AGC / AGUS theo Bệnh viện Từ Dũ._
+_Quản lý AGC / AGUS – Bệnh viện Từ Dũ._
 
 ![Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-huong-ve-tang-san-tuyen.jpeg)
 
-_Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ._
+_Quản lý AGC hướng về tăng sản tuyến – Bệnh viện Từ Dũ._
 
 ### CIN 1
 
@@ -217,7 +217,7 @@ _Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ._
 
 ![Quản lý CIN 1 theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-cin-1.jpeg)
 
-_Quản lý CIN 1 theo Bệnh viện Từ Dũ._
+_Quản lý CIN 1 – Bệnh viện Từ Dũ._
 
 ### CIN 2 và CIN 3
 
@@ -232,7 +232,7 @@ _Quản lý CIN 1 theo Bệnh viện Từ Dũ._
 
 ![Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-cin-2-3.jpeg)
 
-_Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ._
+_Quản lý CIN 2, 3 – Bệnh viện Từ Dũ._
 
 ### AIS
 
@@ -249,7 +249,7 @@ _Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ._
 
 ![Quản lý AIS theo hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-ais.png)
 
-_Quản lý AIS theo ASCCP 2012._
+_Quản lý AIS – ASCCP 2012._
 
 ### Nghi ngờ ung thư cổ tử cung trong thai kỳ
 
@@ -257,7 +257,7 @@ _Quản lý AIS theo ASCCP 2012._
 
 ![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky.png)
 
-_Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ._
+_Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai – Bệnh viện Từ Dũ._
 
 ## Điều trị trong tân sinh biểu mô cổ tử cung
 

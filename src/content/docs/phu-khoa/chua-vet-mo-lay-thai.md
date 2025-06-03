@@ -41,15 +41,15 @@ Triệu chứng không đặc hiệu, khoảng 50% trường hợp không có bi
 
 Trên mặt cắt dọc giữa tử cung:
 
+![Mối liên hệ thai và sẹo mổ lấy thai](../../../assets/phu-khoa/chua-vet-mo-lay-thai/moi-lien-he-giua-tui-thai-va-seo-mo-lay-thai.jpg)
+
+_Mối liên hệ thai và sẹo mổ lấy thai._
+
 - **COS-1**: túi thai nằm > 2/3 phía trên đường nối nội mạc tử cung → bám sâu vào cơ tử cung, nguy cơ vỡ tử cung cao.
 - **COS-2**: túi thai < 2/3 nằm trên đường nối nội mạc, chia nhỏ:
 
   - **COS-2-**: có giao nhau với đường nối nội mạc tử cung.
   - **COS-2+**: không giao nhau với đường nối nội mạc tử cung.
-
-  ![Mối liên hệ thai và sẹo mổ lấy thai](../../../assets/phu-khoa/chua-vet-mo-lay-thai/moi-lien-he-giua-tui-thai-va-seo-mo-lay-thai.jpg)
-
-  _Mối liên hệ thai và sẹo mổ lấy thai._
 
 #### Xét nghiệm khác
 
@@ -171,9 +171,9 @@ Trên mặt cắt dọc giữa tử cung:
 
 ![Phác đồ điều trị thai ở sẹo mổ lấy thai - Bệnh viện Từ Dũ](../../../assets/phu-khoa/chua-vet-mo-lay-thai/phac-do-xu-tri-thai-o-seo-mo-lay-thai.jpg)
 
-_Phác đồ điều trị thai ở sẹo mổ lấy thai - Bệnh viện Từ Dũ._
+_Phác đồ điều trị thai ở sẹo mổ lấy thai – Bệnh viện Từ Dũ._
 
-## Tai biến theo phương pháp điều trị
+### Tỷ lệ tai biến theo phương pháp điều trị
 
 | Phương pháp                      | Tỷ lệ tai biến (%) |
 | -------------------------------- | ------------------ |

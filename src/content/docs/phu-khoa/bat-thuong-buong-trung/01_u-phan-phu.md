@@ -94,7 +94,7 @@ Do vị trí giải phẫu gần kề, khối u phần phụ có thể bị nh�
 
   ![Theo dõi u phần phụ](../../../../assets/phu-khoa/u-phan-phu/theo-doi-u-phan-phu.jpeg)
 
-  _Theo dõi u phần phụ - Bệnh viện Từ Dũ._
+  _Theo dõi u phần phụ – Bệnh viện Từ Dũ._
 
 ## Tiếp cận khối u phần phụ
 

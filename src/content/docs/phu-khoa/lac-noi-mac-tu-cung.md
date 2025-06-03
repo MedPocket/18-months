@@ -256,14 +256,14 @@ _Giảm đau bước 2._
 
 ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
 
-_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung - Bệnh viện Từ Dũ._
+_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh viện Từ Dũ._
 
 ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
 
-_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau - Bệnh viện Từ Dũ._
+_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau – Bệnh viện Từ Dũ._
 
 ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
-_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn - Bệnh viện Từ Dũ._
+_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn – Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 

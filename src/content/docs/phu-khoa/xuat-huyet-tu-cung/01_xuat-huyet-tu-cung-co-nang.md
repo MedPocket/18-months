@@ -44,13 +44,13 @@ Tình trạng này xảy ra khi buồng trứng có phóng noãn nhưng hoàng t
 
 ## Tiếp cận
 
-Hỏi bệnh sử kỹ lưỡng giúp định hướng chẩn đoán:
+### Hỏi bệnh sử kỹ lưỡng giúp định hướng chẩn đoán
 
 - Tuổi, lần cuối có kinh, số ngày và lượng máu ra, chảy máu sau giao hợp.
 - Các loại thuốc đã và đang sử dụng (nội tiết, NSAIDs, thuốc chống đông, thuốc hướng thần…).
 - Tiền sử nội tiết, dấu hiệu có thai, tiền sử dùng biện pháp tránh thai, chấn thương sinh dục.
 
-Khám lâm sàng:
+### Khám lâm sàng
 
 - Dấu hiệu rối loạn nội tiết toàn thân (cường giáp, nhược giáp).
 - Dấu hiệu cường androgen (mụn trứng cá nặng, rậm lông, béo phì kiểu nam).

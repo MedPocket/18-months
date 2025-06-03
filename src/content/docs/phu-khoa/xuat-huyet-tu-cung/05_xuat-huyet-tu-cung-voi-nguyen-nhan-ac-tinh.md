@@ -145,12 +145,13 @@ Bốn nguyên tắc chính khi xử trí AUB ác tính/tiền ác tính:
 3. Điều trị ngoại khoa (cắt tử cung) là biện pháp triệt để khi không còn nhu cầu sinh con.
 4. Theo dõi điều trị qua sinh thiết định kỳ (3–6 tháng).
 
-- Với **ung thư nội mạc tử cung**, điều trị chính là phẫu thuật, bắt buộc xác định giai đoạn. Có thể bổ sung xạ trị hoặc hóa trị tùy giai đoạn.
-- Với **tăng sinh nội mạc tử cung**, dựa vào có/không tế bào không điển hình và mong muốn bảo tồn sinh sản:
+Với **ung thư nội mạc tử cung**, điều trị chính là phẫu thuật, bắt buộc xác định giai đoạn. Có thể bổ sung xạ trị hoặc hóa trị tùy giai đoạn.
+
+Với **tăng sinh nội mạc tử cung**, dựa vào có/không tế bào không điển hình và mong muốn bảo tồn sinh sản:
   - Tăng sinh điển hình: ưu tiên điều trị progestin, tránh phẫu thuật nếu có thể.
   - Tăng sinh không điển hình: progestin là chính, cân nhắc phẫu thuật nếu thất bại hoặc không bảo tồn được.
 
-### Các phương pháp điều trị tăng sinh nội mạc tử cung
+## Các phương pháp điều trị
 
 - **Cắt tử cung**: phẫu thuật triệt để, tiết kiệm thời gian theo dõi, dành cho người đã mãn kinh hoặc không muốn sinh thêm.
 - **Điều trị nội tiết**: chọn progestin với hoạt tính kháng estrogen mạnh.
@@ -159,7 +160,7 @@ Bốn nguyên tắc chính khi xử trí AUB ác tính/tiền ác tính:
 Nhiều loại tăng sinh có thể cùng tồn tại với ung thư nội mạc. Trước khi điều trị bảo tồn, phải đảm bảo không bỏ sót tổn thương (sinh thiết kỹ, kết hợp nội soi khi cần). Điều trị càng sớm (đặc biệt tăng sinh không điển hình) càng có cơ hội thoái triển.
 :::
 
-## Liệu pháp progestin
+### Liệu pháp progestin
 
 Tác dụng chính của progestin là kháng estrogen, ức chế phân bào nội mạc:
 
@@ -203,10 +204,11 @@ Tác dụng chính của progestin là kháng estrogen, ức chế phân bào n�
   - Thời gian thoái triển trung bình  9 tháng; nếu còn tồn tại sau 7–9 tháng, tiên lượng thất bại cao (cân nhắc cắt tử cung).
   - Sau khi mẫu bình thường: khuyến khích thụ thai sớm; nếu chưa, sinh thiết 6–12 tháng/lần.
 
-- **Cắt tử cung** (phẫu thuật triệt để) khi:
-  - Người đã mãn kinh hoặc không còn nhu cầu sinh con.
-  - Không thể theo dõi bằng nội khoa và sinh thiết định kỳ.
-  - Xuất huyết trầm trọng, ảnh hưởng nặng.
+### Cắt tử cung (phẫu thuật triệt để)
+
+- Người đã mãn kinh hoặc không còn nhu cầu sinh con.
+- Không thể theo dõi bằng nội khoa và sinh thiết định kỳ.
+- Xuất huyết trầm trọng, ảnh hưởng nặng.
 
 ## Nguồn tham khảo
 

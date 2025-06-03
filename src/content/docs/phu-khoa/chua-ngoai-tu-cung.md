@@ -24,8 +24,6 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 
 ### Chửa ngoài tử cung tại ống dẫn trứng chưa vỡ
 
-:::note[Chẩn đoán chửa ngoài tử cung tại ống dẫn trứng chưa vỡ]
-
 **Triệu chứng cơ năng**:
 
 - Tam chứng điển hình: trễ kinh, ra huyết âm đạo bất thường (thường ít, kéo dài), đau bụng vùng hạ vị.
@@ -61,8 +59,6 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
   - Thực hiện nếu không thấy vị trí thai rõ ràng.
   - Mô bệnh học thấy gai nhau → sẩy thai sớm.
   - Không thấy gai nhau và β-hCG không giảm → nghi CNTC.
-
-:::
 
 ### Chửa ngoài tử cung tại ống dẫn trứng đã vỡ
 

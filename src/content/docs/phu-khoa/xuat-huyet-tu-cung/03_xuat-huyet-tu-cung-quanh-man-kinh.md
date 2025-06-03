@@ -34,7 +34,7 @@ Giai đoạn quanh mãn kinh (perimenopause) thường kéo dài từ cuối 40 
    - Estrogen đơn độc kéo dài mà không có progesterone đối kháng làm tăng nguy cơ tăng sinh nội mạc (hyperplasia) và quá sản (atrophic endometrium có thay đổi kèm).
    - Ở giai đoạn sau, rong huyết khó kiểm soát có thể báo hiệu tăng sinh nội mạc điển hình, loạn sản hoặc ung thư nội mạc.
 
-### Nguyên nhân lớn nhất của xuất huyết tử cung bất thường quanh mãn kinh
+## Nguyên nhân lớn nhất của xuất huyết tử cung bất thường quanh mãn kinh
 
 1. **Nguyên nhân cơ năng do rối loạn nội tiết (đồng bộ estrogen–progesterone)**
 
@@ -91,7 +91,7 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
   - Xuất huyết đường tiết niệu (thận, bàng quang), tiêu hóa (trực tràng) chảy xuống âm đạo giả.
   - Chấn thương vùng chậu, sa tạng, tổn thương âm hộ.
 
-### Các bước thăm khám và cận lâm sàng
+**Các bước thăm khám và cận lâm sàng**
 
 1. **Hỏi tiền sử và khám lâm sàng**
 
@@ -108,10 +108,9 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
      - Hình thái nội mạc: đều mỏng, lòng tử cung không có khối, không có kẽ tăng tín hiệu nhấp nhô.
      - Tổn thương khu trú: polyp (có cuống), u xơ dưới niêm mạc, nang buồng trứng sản xuất estrogen.
    - **Siêu âm bơm nước (SIS)** nếu nghi polyp hoặc dính buồng tử cung: bơm nước làm nổi bật khối, giúp xác định vị trí và kích thước tổn thương.
-
-:::caution[Lưu ý]
-Hình ảnh siêu âm phụ thuộc vào pha chu kỳ. Thực hiện sau sạch kinh giúp tránh nhầm tăng sinh nội mạc giả do nội mạc phát triển dưới estrogen giai đoạn giữa chu kỳ.
-:::
+   :::caution[Lưu ý]
+   Hình ảnh siêu âm phụ thuộc vào pha chu kỳ. Thực hiện sau sạch kinh giúp tránh nhầm tăng sinh nội mạc giả do nội mạc phát triển dưới estrogen giai đoạn giữa chu kỳ.
+   :::
 
 3. **Sinh thiết nội mạc tử cung**
 

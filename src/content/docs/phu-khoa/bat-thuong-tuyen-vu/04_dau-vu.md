@@ -208,7 +208,7 @@ _Điều trị đau vú theo phác đồ Cardiff, 2009._
 
 ![Đánh giá và xử trí đau vú Bệnh viện Từ Dũ](../../../../assets/phu-khoa/dau-vu/danh-gia-va-xu-tri-dau-vu.png)
 
-_Đánh giá và xử trí đau vú - Bệnh viện Từ Dũ._
+_Đánh giá và xử trí đau vú – Bệnh viện Từ Dũ._
 
 - Bắt đầu bằng khám lâm sàng, hỏi tiền sử, phân loại đau (chu kỳ, không chu kỳ, ngoài vú).
 - Nếu ≥ 35 tuổi và chưa có nhũ ảnh gần đây (< 1 năm), chỉ định nhũ ảnh kết hợp siêu âm (nếu cần).
