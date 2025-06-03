@@ -31,17 +31,18 @@ Cắt sữa (ức chế tiết sữa) là biện pháp cần thiết khi ngườ
 
 Prolactin là hormone chính chịu trách nhiệm về sự tiết sữa. Các thuốc ức chế prolactin có thể giúp ngừng tiết sữa.
 
-**Cabergoline**
 
-- Liều khởi đầu: 0,25mg × 2 lần/ngày trong 2–3 ngày.
-- Tác dụng: Giảm prolactin nhanh, hiệu quả cao.
-- Tác dụng phụ: Đau đầu, chóng mặt, buồn nôn, mệt mỏi.
+**Bromocriptine** (đồng vận dopamine):  
+- Liều khởi đầu 1,25–2,5 mg/ngày, chia 2 lần, sau đó tăng dần 2,5 mg mỗi 2–7 ngày, đến khi prolactin về mức bình thường.  
+- Liều duy trì: 2,5–15 mg/ngày, chia 2–3 lần.  
+- Theo dõi prolactin sau 4–6 tuần điều trị; nếu hết tiết sữa, bắt đầu giảm liều dần và ngưng sau 3 tháng ổn định.
 
-**Bromocriptine**
+**Cabergoline** (đồng vận dopamine chọn lọc):  
+- Liều 0,25–0,5 mg 1–2 lần/tuần, hiệu quả kéo dài, ít tác dụng phụ vã mồ hôi, buồn nôn hơn Bromocriptine.  
+- Dùng trong 3–6 tháng, theo dõi prolactin mỗi 4–6 tuần.
 
-- Liều khởi đầu: 2,5–5 mg/ngày, có thể tăng dần theo chỉ định.
-- Tác dụng: Đối kháng dopamine, giảm prolactin.
-- Tác dụng phụ: Buồn nôn, chóng mặt, nhức đầu, hạ huyết áp.
+**Theo dõi hậu điều trị**  
+- Đo lại prolactin máu sau 1–2 tháng.  
 
 ### Estrogen (ít dùng)
 
@@ -49,9 +50,9 @@ Dùng kết hợp estrogen–progestin trong thuốc tránh thai hoặc thuốc 
 
 Liều dùng:
 
-- **Ethinylestradiol**: 50µg (0,05mg) × 4 lần/ngày, uống liên tục 5–7 ngày.
-- **Conjugated equine estrogens (Premarin)**: 0,625mg × 2 lần/ngày, uống 5–7 ngày.
-- **Diethylstilbestrol**: 1mg × 3 lần/ngày, uống 5–7 ngày.
+- **Ethinylestradiol**: 50 µg (0,05mg) × 4 lần/ngày, uống liên tục 5–7 ngày.
+- **Conjugated equine estrogens (Premarin)**: 0,625 mg × 2 lần/ngày, uống 5–7 ngày.
+- **Diethylstilbestrol**: 1 mg × 3 lần/ngày, uống 5–7 ngày.
 
 :::caution[Lưu ý]
 Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc có chỉ định riêng; theo dõi nguy cơ huyết khối.
@@ -59,13 +60,13 @@ Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc 
 
 ### NSAIDs hỗ trợ
 
-- **Ibuprofen**: 400–600mg mỗi 6–8 giờ, giúp giảm đau và viêm khi vú căng tức.
+- **Ibuprofen**: 400–600 mg mỗi 6–8 giờ, giúp giảm đau và viêm khi vú căng tức.
 
 ## Tóm tắt
 
 - **Tự nhiên**: Giảm dần bú/vắt, chườm lạnh, áo ngực ép nhẹ, massage.
-- **Thuốc ức chế prolactin**: Cabergoline (0,25mg × 2/ngày × 2–3 ngày), Bromocriptine (2,5–5 mg/ngày).
-- **Hỗ trợ**: Estrogen (khi chỉ định), NSAIDs (Ibuprofen 400–600mg).
+- **Thuốc ức chế prolactin**: Cabergoline (0,25 mg × 2/ngày × 2–3 ngày), Bromocriptine (2,5–5 mg/ngày).
+- **Hỗ trợ**: Estrogen (khi chỉ định), NSAIDs (Ibuprofen 400–600 mg).
 - **Quy trình**: Khám ban đầu → Chọn thuốc → Giảm dần bú/vắt → Chăm sóc bổ trợ.
 - **Theo dõi**: Sức khỏe mẹ, tác dụng phụ, tránh tự điều trị.
 
