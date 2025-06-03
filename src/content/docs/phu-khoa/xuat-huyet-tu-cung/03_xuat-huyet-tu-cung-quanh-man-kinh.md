@@ -102,15 +102,16 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
    - Khám phụ khoa: kiểm tra lâm sàng tử cung (kích thước, hình dạng), buồng trứng qua siêu âm (nếu cần). Khám cổ tử cung (Pap smear/nội soi cổ tử cung nếu chỉ định).
 
 2. **Siêu âm đầu dò âm đạo (TVUS)**
+
    - Thời điểm tối ưu: ngay sau sạch kinh để đo độ dày nội mạc mỏng nhất (thông thường < 4–5 mm).
    - Đặc điểm cần ghi nhận:
      - Độ dày nội mạc: ≥ 5 mm ở phụ nữ quanh mãn kinh cần đánh giá thêm.
      - Hình thái nội mạc: đều mỏng, lòng tử cung không có khối, không có kẽ tăng tín hiệu nhấp nhô.
      - Tổn thương khu trú: polyp (có cuống), u xơ dưới niêm mạc, nang buồng trứng sản xuất estrogen.
    - **Siêu âm bơm nước (SIS)** nếu nghi polyp hoặc dính buồng tử cung: bơm nước làm nổi bật khối, giúp xác định vị trí và kích thước tổn thương.
-   :::caution[Lưu ý]
-   Hình ảnh siêu âm phụ thuộc vào pha chu kỳ. Thực hiện sau sạch kinh giúp tránh nhầm tăng sinh nội mạc giả do nội mạc phát triển dưới estrogen giai đoạn giữa chu kỳ.
-   :::
+     :::caution[Lưu ý]
+     Hình ảnh siêu âm phụ thuộc vào pha chu kỳ. Thực hiện sau sạch kinh giúp tránh nhầm tăng sinh nội mạc giả do nội mạc phát triển dưới estrogen giai đoạn giữa chu kỳ.
+     :::
 
 3. **Sinh thiết nội mạc tử cung**
 

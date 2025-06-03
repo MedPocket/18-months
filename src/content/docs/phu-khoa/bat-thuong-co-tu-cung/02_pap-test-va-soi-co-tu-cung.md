@@ -54,23 +54,23 @@ Trước khi lấy mẫu, cần điền thông tin trên phiếu xét nghiệm:
 - **Pap’s test quy ước**: Lấy hai lam phết tế bào từ cổ ngoài và cổ trong. Ghi bằng bút chì tên, tuổi và vị trí lấy trên lam. Mẫu cố định bằng cồn 95° hoặc keo phun.
 - **Pap’s test Thin Prep**: Lấy mẫu tương tự nhưng cho vào lọ chứa dung dịch nhúng dịch.
 
-![Dụng cụ làm Pap's test](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/dung-cu-lam-pap.png)
+  ![Dụng cụ làm Pap's test](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/dung-cu-lam-pap.png)
 
-_Dụng cụ làm Pap’s test (từ trái sang):<br> 1. Cytobrush cho kênh cổ tử cung.<br> 2. Que Ayre cho Pap’s test quy ước.<br> 3. Chổi lớn cho Thin Prep._
+  _Dụng cụ làm Pap’s test (từ trái sang):<br> 1. Cytobrush cho kênh cổ tử cung.<br> 2. Que Ayre cho Pap’s test quy ước.<br> 3. Chổi lớn cho Thin Prep._
 
-![Cách lấy mẫu](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/cach-lay-mau-pap.png)
+  ![Cách lấy mẫu](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/cach-lay-mau-pap.png)
 
-_Cách lấy mẫu (từ trái sang):<br> 1. Cytobrush: Lấy ở kênh tử cung, áp vào SCJ, không đưa quá sâu.<br> 2. Que Ayre: Lấy hai lần, đầu to và đầu nhọn, áp vào vùng chuyển sản để lấy SCJ.<br> 3. Chổi lớn: Áp vào SCJ và vùng chuyển sản._
+  _Cách lấy mẫu (từ trái sang):<br> 1. Cytobrush: Lấy ở kênh tử cung, áp vào SCJ, không đưa quá sâu.<br> 2. Que Ayre: Lấy hai lần, đầu to và đầu nhọn, áp vào vùng chuyển sản để lấy SCJ.<br> 3. Chổi lớn: Áp vào SCJ và vùng chuyển sản._
 
-![Cách trải lame](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/cach-trai-lame.png)
+  ![Cách trải lame](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/cach-trai-lame.png)
 
-_Cách trải lam:<br> 1. Chổi lớn: Kéo để trải.<br> 2. Cytobrush: Lăn tròn để trải.<br> 3. Que Ayre: Kéo để trải._
+  _Cách trải lam:<br> 1. Chổi lớn: Kéo để trải.<br> 2. Cytobrush: Lăn tròn để trải.<br> 3. Que Ayre: Kéo để trải._
 
 ### HPV testing
 
 HPV testing thường thực hiện đồng thời với Pap’s test (co-testing). Xét nghiệm cần xác định các type nguy cơ cao. Thăm dò type nguy cơ thấp không có giá trị trong tầm soát ung thư.
 
-### Phân loại tế bào học theo Bethesda 2014
+### Bethesda 2014
 
 Kết quả phân thành ba nhóm chính:
 
@@ -78,7 +78,7 @@ Kết quả phân thành ba nhóm chính:
 2. Khác (tế bào nội mạc ở phụ nữ ≥ 45 tuổi).
 3. Bất thường tế bào biểu mô (vảy hoặc tuyến).
 
-#### Âm tính với tổn thương trong biểu mô hay ác tính (Negative for Intraepithelial Lesion or Malignancy)
+#### Âm tính với tổn thương trong biểu mô
 
 - Các biểu hiện không tân sinh (Non-neoplastic findings): chuyển sản gai, thay đổi sừng, thay đổi thai kỳ, teo…
 - Các thay đổi tế bào do phản ứng (Reactive cellular changes): viêm, tổn thương do tia xạ, sau cắt tử cung…
@@ -86,7 +86,7 @@ Kết quả phân thành ba nhóm chính:
 
 #### Khác
 
-Ở phụ nữ ≥ 45 tuổi, báo cáo hình thái tế bào nội mạc tử cung lành tính.
+- Ở phụ nữ ≥ 45 tuổi, báo cáo hình thái tế bào nội mạc tử cung lành tính.
 
 #### Bất thường tế bào biểu mô
 
@@ -111,11 +111,7 @@ Kết quả phân thành ba nhóm chính:
   - Endocervical adenocarcinoma in situ.
   - Adenocarcinoma (có thể ở kênh cổ tử cung, nội mạc tử cung, ngoài tử cung hoặc N/O).
 
-#### Các tân sinh ác tính khác
-
 #### Các tổn thương tiền xâm lấn của ung thư cổ tử cung
-
-Theo Bethesda 2014, gồm:
 
 1. ASC (ASC-US, ASC-H).
 2. LSIL (CIN 1, koilocytotic atypia).
@@ -176,6 +172,22 @@ Tiến trình soi gồm ba bước:
 
 #### Phân loại theo ASCCP
 
+![Hình ảnh cổ tử cung bình thường qua soi cổ](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-binh-thuong.png)
+
+_Cổ tử cung bình thường qua soi._
+
+![Hình ảnh chuyển sản với ranh giới lát trụ, biểu mô lát non](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-ranh-gioi-lat-tru-bieu-mo-lat-non.png)
+
+_Cổ tử cung chuyển sản với ranh giới lát trụ, biểu mô lát non._
+
+![Hình ảnh cổ tử cung chuyển sản với cửa tuyến, đảo tuyến](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-cua-tuyen-dao-tuyen.png)
+
+_Cổ tử cung chuyển sản với cửa tuyến, đảo tuyến._
+
+![Hình ảnh cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-tai-tao-voi-luoi-bieu-mo-chuyen-san-non.png)
+
+_Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non._
+
 - **Nhóm hình ảnh bình thường**:
 
   - Biểu mô lát nguyên thủy (Original Squamous Epithelium - OSE).
@@ -204,22 +216,6 @@ Tiến trình soi gồm ba bước:
   - Condyloma và papilloma.
   - Polyp kênh cổ tử cung, u nhú, nang Naboth…
 
-![Hình ảnh cổ tử cung bình thường qua soi cổ](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-binh-thuong.png)
-
-_Cổ tử cung bình thường qua soi._
-
-![Hình ảnh chuyển sản với ranh giới lát trụ, biểu mô lát non](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-ranh-gioi-lat-tru-bieu-mo-lat-non.png)
-
-_Cổ tử cung chuyển sản với ranh giới lát trụ, biểu mô lát non._
-
-![Hình ảnh cổ tử cung chuyển sản với cửa tuyến, đảo tuyến](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-cua-tuyen-dao-tuyen.png)
-
-_Cổ tử cung chuyển sản với cửa tuyến, đảo tuyến._
-
-![Hình ảnh cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-tai-tao-voi-luoi-bieu-mo-chuyen-san-non.png)
-
-_Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non._
-
 ## Nguồn tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_.
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

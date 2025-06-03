@@ -87,7 +87,7 @@ _Herpes sinh dục: mụn nước, vết loét ở vùng môi bé và âm đạo
 - **Valacyclovir:**
   - 1 g uống 2 lần/ngày x 7–10 ngày.
 
-> Lưu ý: Tất cả các chế phẩm trên cần bắt đầu càng sớm càng tốt, lý tưởng trong vòng 72 giờ kể từ khi xuất hiện ban đầu để đạt hiệu quả tối ưu.
+> Ghi chú: Tất cả các chế phẩm trên cần bắt đầu càng sớm càng tốt, lý tưởng trong vòng 72 giờ kể từ khi xuất hiện ban đầu để đạt hiệu quả tối ưu.
 
 ### Giai đoạn tái phát
 
@@ -106,7 +106,7 @@ _Herpes sinh dục: mụn nước, vết loét ở vùng môi bé và âm đạo
 
 > Ghi chú: Liều dùng và thời gian có thể điều chỉnh tùy theo mức độ nặng – nhẹ của đợt tái phát, chức năng thận người bệnh và khả năng tuân thủ điều trị.
 
-### Điều trị hỗ trợ tại chỗ và giảm đau
+### Hỗ trợ tại chỗ và giảm đau
 
 - **Thuốc bôi kháng virus tại chỗ:**
   - Acyclovir kem 5% bôi vùng tổn thương 5 lần/ngày, kéo dài 4–5 ngày (hỗ trợ giảm triệu chứng nhưng không thay thế điều trị toàn thân).
@@ -130,22 +130,6 @@ _Herpes sinh dục: mụn nước, vết loét ở vùng môi bé và âm đạo
   - Hoặc Valacyclovir 500 mg uống 1 lần/ngày.
   - Thời gian: 6–12 tháng, đánh giá lại mỗi 6 tháng để quyết định tiếp tục hay ngừng.
 
-### Theo dõi
-
-- **Khám lại khi có thay đổi bất thường:**
-
-  - Vết loét ngày càng lan rộng, đau không giảm, có dấu hiệu bội nhiễm (chảy mủ, mùi hôi).
-  - Sốt cao kéo dài, hạch bẹn to, đau tăng.
-  - Xuất hiện biến chứng (viêm não do HSV, viêm tuỷ sống hiếm gặp).
-
-- **Khám phụ khoa/nội tiết định kỳ (nữ):**
-
-  - Đánh giá tình trạng nhiễm khuẩn phối hợp, HPV, tầm soát ung thư cổ tử cung theo khuyến cáo (Pap smear, HPV-DNA test).
-  - Tư vấn sức khỏe sinh sản, tránh quan hệ khi đang có tổn thương.
-
-- **Theo dõi chức năng thận (với thuốc ức chế dài ngày):**
-  - Định kỳ 3 – 6 tháng xét nghiệm creatinin huyết thanh, ước tính độ lọc cầu thận (eGFR) để điều chỉnh liều Acyclovir/Valacyclovir nếu cần.
-
 :::caution[Lưu ý]
 
 - **Thuốc kháng virus hiện nay không thể loại bỏ hoàn toàn HSV trong cơ thể**, chỉ ức chế sự nhân lên của virus, giảm mức độ triệu chứng và rút ngắn thời gian lành thương.
@@ -164,8 +148,24 @@ _Herpes sinh dục: mụn nước, vết loét ở vùng môi bé và âm đạo
 
 :::
 
+## Theo dõi
+
+- **Khám lại khi có thay đổi bất thường:**
+
+  - Vết loét ngày càng lan rộng, đau không giảm, có dấu hiệu bội nhiễm (chảy mủ, mùi hôi).
+  - Sốt cao kéo dài, hạch bẹn to, đau tăng.
+  - Xuất hiện biến chứng (viêm não do HSV, viêm tuỷ sống hiếm gặp).
+
+- **Khám phụ khoa/nội tiết định kỳ (nữ):**
+
+  - Đánh giá tình trạng nhiễm khuẩn phối hợp, HPV, tầm soát ung thư cổ tử cung theo khuyến cáo (Pap smear, HPV-DNA test).
+  - Tư vấn sức khỏe sinh sản, tránh quan hệ khi đang có tổn thương.
+
+- **Theo dõi chức năng thận (với thuốc ức chế dài ngày):**
+  - Định kỳ 3 – 6 tháng xét nghiệm creatinin huyết thanh, ước tính độ lọc cầu thận (eGFR) để điều chỉnh liều Acyclovir/Valacyclovir nếu cần.
+
 ## Nguồn tham khảo
 
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_.
-- Bộ Y tế (2021) – _Hướng dẫn chẩn đoán và điều trị một số bệnh nhiễm khuẩn lây truyền qua đường tình dục_.
-- Workowski KA, Bolan GA (2020) – _Sexually Transmitted Diseases Treatment Guidelines, Centers for Disease Control and Prevention (CDC)_.
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Bộ Y tế (2021) – _Hướng dẫn chẩn đoán và điều trị một số bệnh nhiễm khuẩn lây truyền qua đường tình dục_
+- Workowski KA, Bolan GA (2020) – _Sexually Transmitted Diseases Treatment Guidelines, Centers for Disease Control and Prevention (CDC)_

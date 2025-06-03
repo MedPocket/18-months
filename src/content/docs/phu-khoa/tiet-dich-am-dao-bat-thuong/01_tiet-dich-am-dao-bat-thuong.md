@@ -33,7 +33,7 @@ Ngoài vai trò của Lactobacillus, hệ miễn dịch bẩm sinh (innate immun
 - **Miễn dịch bẩm sinh**: Đại thực bào, tế bào hình răng cưa (DC), tế bào giết tự nhiên (NK) thực bào và tiết cytokine (IFN-γ, TNF-α) để tiêu diệt mầm bệnh.
 - **Miễn dịch thích ứng**: Khi vi khuẩn xuyên qua hàng rào biểu mô, lympho B–T sinh kháng thể IgA, IgG, CD4+ và CD8+ tham gia phản ứng đặc hiệu.
 
-### Khái niệm hệ vi khuẩn "lành mạnh"
+### Hệ vi khuẩn "lành mạnh"
 
 Môi trường âm đạo được hình thành bởi estrogen, kích thích biểu mô lát tầng tích tụ glycogen, tạo chất nền cho Lactobacillus phát triển. Ở người chưa dậy thì và mãn kinh, thiếu estrogen → giảm glycogen → hệ vi khuẩn ít Lactobacillus, pH âm đạo cao (6–8). Ở tuổi sinh sản, pH 3.5–4.7, Lactobacillus chiếm ưu thế, bảo vệ môi trường cân bằng.
 
@@ -47,7 +47,7 @@ Hệ vi khuẩn âm đạo có thể thay đổi do các yếu tố:
 
 Khi bị nhiễm hoặc rối loạn, các vi khuẩn kỵ khí (Gardnerella vaginalis, Mobiluncus spp.), nấm (Candida spp.) hoặc ký sinh (Trichomonas vaginalis) có cơ hội phát triển quá mức, gây tiết dịch bất thường.
 
-## Thành phần sinh lý của dịch tiết âm đạo
+## Thành phần sinh lý
 
 Âm đạo luôn tiết một lượng dịch nhất định để bôi trơn và bảo vệ:
 
@@ -68,7 +68,7 @@ Khi bị nhiễm hoặc rối loạn, các vi khuẩn kỵ khí (Gardnerella vag
 
 Bình thường, phụ nữ sinh sản sản xuất khoảng **1.5 g dịch** mỗi ngày. Thay đổi tính chất (màu, mùi, độ đặc, lượng) thường do các yếu tố nội tiết (thời kỳ rụng trứng, thai kỳ), tình trạng viêm nhiễm, thụt rửa hoặc stress.
 
-## Phân loại tiết dịch âm đạo bất thường
+## Phân loại
 
 Tiết dịch âm đạo bất thường (abnormal vaginal discharge – AVD) là khi dịch có bất kỳ thay đổi nào so với bình thường:
 
@@ -102,7 +102,7 @@ Tiết dịch âm đạo bất thường (abnormal vaginal discharge – AVD) l�
    - Chảy máu sau giao hợp
    - Đau vùng chậu, sốt (nặng, cảnh báo viêm sâu như PID)
 
-## Xử trí tiết dịch âm đạo bất thường
+## Xử trí
 
 ![Sơ đồ xử trí tiết dịch âm đạo bất thường theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
 
@@ -148,7 +148,7 @@ _Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện 
 
 5. **Xử trí theo nguyên nhân**
 
-## Các biệt dược thường dùng
+## Biệt dược thường dùng
 
 - **Clomaz Forte (Clotrimazole 500 mg)**
 

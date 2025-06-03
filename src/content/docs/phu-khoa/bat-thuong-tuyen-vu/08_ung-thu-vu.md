@@ -492,7 +492,7 @@ Phụ nữ sau phẫu thuật bảo tồn ung thư vú vẫn có thể cho con b
 
 Bệnh Paget núm vú là một dạng ung thư hiếm gặp (1–2% ung thư vú) xuất phát từ vùng da núm vú và quầng vú, thường liên quan đến ung thư biểu mô bên dưới (DCIS hoặc ung thư xâm lấn).
 
-### Triệu chứng lâm sàng
+### Lâm sàng
 
 - Thay đổi da dạng chàm (eczema-like) ở núm vú/quầng vú: Da đỏ, ngứa, bong vảy, chảy dịch.
 - Cảm giác nóng rát hoặc ngứa kéo dài.

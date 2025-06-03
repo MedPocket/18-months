@@ -35,7 +35,7 @@ Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vagin
 
 ## Chẩn đoán
 
-**Lâm sàng**
+### Lâm sàng
 
 - **Huyết trắng:**
   - Lượng nhiều, màu vàng hoặc xanh (lục), loãng, có bọt (bọt khí do sự di động của trùng roi), mùi tanh.
@@ -44,13 +44,13 @@ Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vagin
   - Tiểu rát, tiểu buốt (nếu niệu đạo có liên quan).
   - Trường hợp nặng có thể có "dấu hiệu trái dâu tây" (strawberry cervix): âm đạo và cổ tử cung có những điểm xuất huyết nhỏ, lấm tấm do mao mạch vỡ.
 
-**Cận lâm sàng**
+### Cận lâm sàng
 
 1. **Soi tươi:**
 
    - Lấy dịch âm đạo (hoặc niệu đạo nam giới) pha loãng với NaCl 0.9%, soi tươi ngay dưới kính hiển vi ×400–×1000.
    - Thấy trùng roi T. vaginalis di động, kích thước 10–20 µm, chuyển động lắc lư, kèm tăng bạch cầu trung tính (≥10 bạch cầu/khung trung bình).
-   - Độ nhạy  60–70%, phụ thuộc chất lượng mẫu và kinh nghiệm người soi.
+   - Độ nhạy 60–70%, phụ thuộc chất lượng mẫu và kinh nghiệm người soi.
 
 2. **Nhuộm Gram:**
 
@@ -65,7 +65,7 @@ Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vagin
 4. **Xét nghiệm kháng nguyên nhanh (Rapid antigen test):**
 
    - Sử dụng kháng thể monoclonal phát hiện kháng nguyên T. vaginalis trong dịch âm đạo.
-   - Độ nhạy 80%, độ đặc hiệu  98%. Cho kết quả trong vòng 10–30 phút.
+   - Độ nhạy 80%, độ đặc hiệu 98%. Cho kết quả trong vòng 10–30 phút.
 
 5. **Phản ứng khuếch đại acid nucleic (NAAT, PCR):**
    - Độ nhạy và độ đặc hiệu > 95%.
@@ -126,7 +126,7 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 - Nếu bạn tình dị ứng Metronidazole, có thể cân nhắc Tinidazole 2 g liều đơn.
 - Hạn chế quan hệ tình dục cho đến khi cả hai đã hoàn thành điều trị và triệu chứng hết hoàn toàn (ít nhất 7 ngày sau dùng Metronidazole liều đơn).
 
-### Theo dõi và phòng tránh tái nhiễm
+## Theo dõi và phòng tránh tái nhiễm
 
 - Hẹn tái khám sau 2–4 tuần để kiểm tra lâm sàng và cận lâm sàng (nếu cần).
 - Hướng dẫn vệ sinh vùng kín đúng cách: tránh thụt rửa âm đạo, dùng xà phòng pH trung tính, mặc đồ lót thoáng, thấm hút tốt.

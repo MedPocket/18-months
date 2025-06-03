@@ -128,8 +128,8 @@ Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong c�
 | **Giai đoạn**                      | Acid folic      | DHA             | Sắt                        | Canxi                  | Magie                           |
 | ---------------------------------- | --------------- | --------------- | -------------------------- | ---------------------- | ------------------------------- |
 | **Tam cá nguyệt I (0–13 tuần)**    | 400–800 µg/ngày | 200–300 mg/ngày | 30 mg/ngày (nếu thiếu máu) | Qua thực phẩm là chính | Tùy triệu chứng, không bắt buộc |
-| **Tam cá nguyệt II (14–27 tuần)**  | 400–800 µg/ngày | 200–300 mg/ngày | 30–60 mg/ngày              | 1000 mg/ngày          | Tùy triệu chứng                 |
-| **Tam cá nguyệt III (28–40 tuần)** | 400–800 µg/ngày | 200–300 mg/ngày | 30–60 mg/ngày              | 1000–1200 mg/ngày    | 200 mg/ngày nếu có triệu chứng  |
+| **Tam cá nguyệt II (14–27 tuần)**  | 400–800 µg/ngày | 200–300 mg/ngày | 30–60 mg/ngày              | 1000 mg/ngày           | Tùy triệu chứng                 |
+| **Tam cá nguyệt III (28–40 tuần)** | 400–800 µg/ngày | 200–300 mg/ngày | 30–60 mg/ngày              | 1000–1200 mg/ngày      | 200 mg/ngày nếu có triệu chứng  |
 
 _Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai._
 

@@ -170,7 +170,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
      - Nếu bệnh nhân muốn có thai, hạn chế dùng biện pháp triệt phá nội mạc (ablation, cắt tử cung).
      - Nếu không có nhu cầu sinh thêm, có thể chọn liệu pháp xâm lấn tối thiểu hoặc cắt tử cung khi điều trị bảo tồn thất bại.
 
-### Điều trị cụ thể
+### Phác đồ
 
 #### Nội khoa
 

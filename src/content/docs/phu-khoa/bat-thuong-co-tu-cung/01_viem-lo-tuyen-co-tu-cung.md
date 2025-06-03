@@ -33,14 +33,14 @@ Cổ tử cung được cấu tạo bởi biểu mô phủ và mô đệm dướ
 
 #### Cổ ngoài (Ectocervix)
 
+![Biểu mô lát tầng không sừng hóa cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/bieu-mo-lat-tang-khong-sung-hoa-co-tu-cung.png)
+
+_Biểu mô lát tầng không sừng hóa cổ tử cung, thấy rõ các lớp tế bào từ đáy lên bề mặt._
+
 - Được phủ bởi **biểu mô lát tầng không sừng hóa**, gồm bốn lớp từ đáy lên bề mặt:
   1. **Lớp tế bào đáy**: chồng lên màng đáy, nơi tế bào phân chia mạnh nhất.
   2. **Lớp tế bào cận đáy** và **lớp tế bào trung gian** (cùng gọi là lớp gai/prickle cell layer).
   3. **Lớp tế bào bề mặt**: tùy theo nồng độ estrogen, dày mỏng khác nhau; chứa nhiều glycogen, bắt màu Lugol dương tính khi nhuộm.
-
-![Biểu mô lát tầng không sừng hóa cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/bieu-mo-lat-tang-khong-sung-hoa-co-tu-cung.png)
-
-_Biểu mô lát tầng không sừng hóa cổ tử cung, thấy rõ các lớp tế bào từ đáy lên bề mặt._
 
 #### Cổ trong (Endocervix)
 
@@ -48,23 +48,39 @@ _Biểu mô lát tầng không sừng hóa cổ tử cung, thấy rõ các lớp
 
 #### Ranh giới lát-trụ (Squamocolumnar Junction – SCJ)
 
+![Ranh giới lát trụ](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/ranh-gioi-lat-tru.png)
+
+_Ranh giới lát-trụ nguyên thủy và mới dưới kính soi._
+
 - SCJ là vùng tiếp giáp giữa biểu mô lát (cổ ngoài) và biểu mô trụ (cổ trong).
 - Vị trí SCJ biến đổi suốt cuộc đời phụ nữ dưới ảnh hưởng nội tiết (tuổi dậy thì, chu kỳ kinh nguyệt, mang thai, dùng thuốc tránh thai, mãn kinh).
 - SCJ ban đầu (nguyên thủy) nằm sát lỗ ngoài cổ tử cung. Khi estrogen tăng, kênh cổ tử cung kéo dài, biểu mô trụ bị lộn ra ngoài tạo lộ tuyến, kéo SCJ nguyên thủy lên phía ngoài cổ tử cung.
 - Trong giai đoạn mãn kinh, estrogen giảm, cổ tử cung teo nhỏ, SCJ di chuyển vào trong kênh cổ tử cung.
 
-![Ranh giới lát trụ](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/ranh-gioi-lat-tru.png)
-
-_Ranh giới lát-trụ nguyên thủy và mới dưới kính soi._
-
 ## Chuyển sản và lộ tuyến cổ tử cung
 
-### Định nghĩa lộ tuyến
+### Định nghĩa
 
 - **Lộ tuyến cổ tử cung (endocervical ectropion)**: biểu mô trụ của cổ trong lộn ra bề mặt cổ ngoài (ectocervix), tiếp xúc với môi trường acid âm đạo.
 - Biểu mô trụ khi lộ ra có màu đỏ, dễ chảy máu khi chạm vào, dễ bội nhiễm vi khuẩn hoặc nấm dẫn đến **viêm lộ tuyến**. Bệnh lý này có thể gây ra khí hư vàng, xanh, mùi hôi, ngứa, đau rát khi giao hợp và chảy máu sau quan hệ.
 
 ### Cơ chế chuyển sản lát (Metaplasia)
+
+![Dịch chuyển SCJ nguyên thủy và SCJ mới](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/dich-truyen-cua-scj-nguyen-thuy-va-moi.jpeg)
+
+_Dịch chuyển SCJ nguyên thủy và SCJ mới._
+
+1. Biểu mô trụ cổ trong.
+2. Biểu mô lát nguyên thủy.
+3. SCJ nguyên thủy (ban đầu sát lỗ ngoài).
+4. Biểu mô trụ lộ tuyến (màu đỏ).
+5. Vùng chuyển sản (TZ).
+6. SCJ mới (functional SCJ).
+7. Nang Naboth.
+
+![Các ranh giới lát trụ nguyên thủy và mới](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/cac-ranh-gioi-lat-tru-nguyen-thuy-va-moi.png)
+
+_Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủy, (3) SCJ nguyên thủy, (4) biểu mô trụ lộ tuyến, (5) vùng chuyển sản, (6) SCJ mới, (7) nang Naboth._
 
 1. **Tiếp xúc với pH acid**:
 
@@ -90,23 +106,15 @@ _Ranh giới lát-trụ nguyên thủy và mới dưới kính soi._
    - Là vùng nằm giữa SCJ nguyên thủy và SCJ mới (functional SCJ).
    - TZ là nơi xuất hiện các tổn thương loạn sản (neoplasia) và là vị trí dễ bị HPV xâm nhập, do tế bào lát mới non chưa đầy đủ khả năng bảo vệ.
 
-![Dịch chuyển SCJ nguyên thủy và SCJ mới](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/dich-truyen-cua-scj-nguyen-thuy-va-moi.jpeg)
+### Sinh lý và bệnh lý
 
-_Dịch chuyển SCJ nguyên thủy và SCJ mới._
+![Lộ tuyến cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/lo-tuyen-co-tu-cung.png)
 
-1. Biểu mô trụ cổ trong.
-2. Biểu mô lát nguyên thủy.
-3. SCJ nguyên thủy (ban đầu sát lỗ ngoài).
-4. Biểu mô trụ lộ tuyến (màu đỏ).
-5. Vùng chuyển sản (TZ).
-6. SCJ mới (functional SCJ).
-7. Nang Naboth.
+_Soi cổ tử cung thấy vùng lộ tuyến (màu đỏ) khởi đầu ở phía ngoài cổ tử cung._
 
-![Các ranh giới lát trụ nguyên thủy và mới](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/cac-ranh-gioi-lat-tru-nguyen-thuy-va-moi.png)
+![Vùng chuyển sản](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/vung-chuyen-san.png)
 
-_Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủy, (3) SCJ nguyên thủy, (4) biểu mô trụ lộ tuyến, (5) vùng chuyển sản, (6) SCJ mới, (7) nang Naboth._
-
-### Lộ tuyến sinh lý và bệnh lý
+_Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới._
 
 - **Sinh lý**:
 
@@ -122,28 +130,16 @@ _Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủ
     - **Chảy máu sau quan hệ** (postcoital bleeding).
   - Dễ nhầm lẫn với: viêm cổ tử cung do loét, chấn thương cơ học, hoặc các tổn thương ác tính.
 
-![Lộ tuyến cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/lo-tuyen-co-tu-cung.png)
-
-_Soi cổ tử cung thấy vùng lộ tuyến (màu đỏ) khởi đầu ở phía ngoài cổ tử cung._
-
-![Vùng chuyển sản](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/vung-chuyen-san.png)
-
-_Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới._
-
 #### Nang Naboth
-
-- Khi biểu mô lát chuyển sản phát triển, có thể bít tắc cổ nang tuyến, tạo ra **nang Naboth** (Nabothian cyst).
-- Nang Naboth chứa dịch nhầy, nằm bên dưới bề mặt biểu mô lát, thường không triệu chứng, chỉ phát hiện khi soi hoặc siêu âm.
 
 ![Nang Naboth trên soi cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/nang-naboth-tren-soi-co.png)
 
 _Nang Naboth trên bề mặt cổ tử cung, trông giống túi dịch nhỏ màu vàng._
 
-![Nang Naboth trên vi thể](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/nang-naboth-tren-vi-the.png)
+- Khi biểu mô lát chuyển sản phát triển, có thể bít tắc cổ nang tuyến, tạo ra **nang Naboth** (Nabothian cyst).
+- Nang Naboth chứa dịch nhầy, nằm bên dưới bề mặt biểu mô lát, thường không triệu chứng, chỉ phát hiện khi soi hoặc siêu âm.
 
-_Nang Naboth dưới kính hiển vi: lòng nang lót bởi biểu mô trụ, quanh nang là biểu mô lát chuyển sản._
-
-## Điều trị viêm lộ tuyến
+## Điều trị
 
 Lộ tuyến bản thân là tiến trình sinh lý, thường không cần can thiệp nếu không có triệu chứng viêm. Khi phát triển thành **viêm lộ tuyến**, cần điều trị nhằm giảm triệu chứng và ngăn ngừa biến chứng.
 
@@ -158,7 +154,7 @@ Lộ tuyến bản thân là tiến trình sinh lý, thường không cần can 
   - Ngưng hoặc thay đổi loại thuốc tránh thai nếu nghi ngờ estrogen ngoại sinh là nguyên nhân làm nặng lộ tuyến.
   - Với phụ nữ tiền mãn kinh/ mãn kinh bị giảm estrogen, có thể cân nhắc liệu pháp bổ sung estrogen tại chỗ (nhưng chỉ khi cần thiết và thận trọng).
 
-### hủ thuật tại chỗ
+### Thủ thuật tại chỗ
 
 Chỉ thực hiện khi viêm đã được kiểm soát hoặc sau điều trị nội khoa không đáp ứng:
 
@@ -183,15 +179,15 @@ Chỉ thực hiện khi viêm đã được kiểm soát hoặc sau điều tr�
 4. **Điều trị bằng sóng cao tần (Radiofrequency ablation)**
    - Xâm nhập tối thiểu, hủy mô bằng nhiệt, ít đau, hồi phục nhanh.
 
-### Theo dõi sau điều trị
-
-- Tái khám sau 4–6 tuần để kiểm tra vết thương, đảm bảo không còn viêm.
-- Làm xét nghiệm Pap smear (tế bào cổ tử cung) định kỳ 6–12 tháng nếu có yếu tố nguy cơ (tiền căn viêm lộ tuyến nặng, nhiễm HPV).
-- Khuyến khích khám phụ khoa định kỳ (6–12 tháng/lần) để phát hiện sớm bất thường.
+## Theo dõi
 
 ![Vùng chuyển sản sau điều trị](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/vung-chuyen-san-sau-dieu-tri.png)
 
 _Sau đốt hoặc áp lạnh, vùng chuyển sản dần hồi phục biểu mô lát trưởng thành._
+
+- Tái khám sau 4–6 tuần để kiểm tra vết thương, đảm bảo không còn viêm.
+- Làm xét nghiệm Pap smear (tế bào cổ tử cung) định kỳ 6–12 tháng nếu có yếu tố nguy cơ (tiền căn viêm lộ tuyến nặng, nhiễm HPV).
+- Khuyến khích khám phụ khoa định kỳ (6–12 tháng/lần) để phát hiện sớm bất thường.
 
 ![Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/qua-trinh-chuyen-san.png)
 
@@ -200,7 +196,6 @@ _Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và
 ## Nguồn tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Nguyễn Văn A và cộng sự (2018) – "Cập nhật chẩn đoán và điều trị viêm lộ tuyến cổ tử cung", _Tạp chí Sản Phụ Khoa Việt Nam_, 52(3): 45–52.
-- Hội Y học TP. HCM (2019) – _Hướng dẫn chẩn đoán và điều trị các bệnh phụ khoa thường gặp_.
-- World Health Organization (2021) – "Cervical Intraepithelial Neoplasia and HPV: Guidelines for Screening and Treatment".
-- Muñoz N., Kjaer S.K., Sigurdsson K. et al. (2016) – "Role of HPV in cervical cancer", _The Lancet Oncology_, 17(5): e110–e118.
+- Hội Y học TP. HCM (2019) – _Hướng dẫn chẩn đoán và điều trị các bệnh phụ khoa thường gặp_
+- World Health Organization (2021) – _Cervical Intraepithelial Neoplasia and HPV: Guidelines for Screening and Treatment_
+- Muñoz N., Kjaer S.K., Sigurdsson K. et al. (2016) – _The Lancet Oncology_

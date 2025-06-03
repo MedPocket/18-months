@@ -9,9 +9,9 @@ Bệnh lậu là bệnh lây truyền qua đường tình dục do song cầu kh
 
 _N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm trong và ngoài bạch cầu trung tính._
 
-## Đặc điểm bệnh lậu
+## Đặc điểm
 
-### Triệu chứng lâm sàng
+### Lâm sàng
 
 **Thời gian ủ bệnh**
 
@@ -161,7 +161,7 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
 4. **Kiêng quan hệ tình dục** trong thời gian điều trị và 7 ngày sau khi hoàn thành điều trị.
 5. **Xét nghiệm HIV và giang mai** trước và/hoặc sau khi điều trị do tỉ lệ đồng nhiễm cao.
 
-### Điều trị cụ thể
+### Phác đồ
 
 #### Nhiễm lậu sinh dục và hậu môn – trực tràng
 
@@ -212,8 +212,6 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
 
   _Lưu ý: Tránh chạm mắt khi tra thuốc. Không dùng Povidon Iod dung môi cồn do kích ứng._
 
-### Lưu ý đặc biệt và thất bại điều trị
-
 :::caution[Lưu ý]
 
 - **Dị ứng Penicillin/cephalosporin**:
@@ -229,10 +227,11 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
   - Tránh dùng Gentamicin vì nguy cơ độc tính trên tai và thận của thai nhi.
 
 - **Người nhiễm HIV**:
-  - Điều trị tương tự người không nhiễm HIV; lưu ý nguy cơ kháng thuốc cao hơn, cần theo dõi kỹ đáp ứng điều trị.  
-    :::
+  - Điều trị tương tự người không nhiễm HIV; lưu ý nguy cơ kháng thuốc cao hơn, cần theo dõi kỹ đáp ứng điều trị.
 
-#### Thất bại điều trị
+:::
+
+### Thất bại điều trị
 
 Xác định thất bại điều trị khi:
 
@@ -251,7 +250,7 @@ Xác định thất bại điều trị khi:
 - Nếu có kháng sinh đồ: điều trị lại dựa vào kết quả kháng sinh đồ.
 - Nếu nghi ngờ tái nhiễm (bạn tình không điều trị hoặc quan hệ với người mới nhiễm): điều trị lại theo phác đồ ưu tiên và điều trị bạn tình.
 
-### Theo dõi
+## Theo dõi
 
 - **Tái khám 3 tháng**: Tất cả trường hợp nhiễm lậu sinh dục hoặc trực tràng không biến chứng nên làm NAAT sau 3 tháng kể từ khi điều trị để phát hiện tái nhiễm, kể cả khi không còn triệu chứng.
 - **Nếu không thể tái khám sau 3 tháng**: có thể xét nghiệm lại bất kỳ lúc nào trong 3–12 tháng sau điều trị đầu tiên.

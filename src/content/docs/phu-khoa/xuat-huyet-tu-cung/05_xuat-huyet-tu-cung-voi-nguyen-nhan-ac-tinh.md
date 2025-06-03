@@ -20,16 +20,16 @@ Tăng sinh nội mạc tử cung là tổn thương tiền ung thư, thường d
 Theo WHO, tăng sinh nội mạc tử cung được chia thành bốn nhóm dựa trên hai yếu tố chính: thành phần tuyến/mô đệm (đơn giản hay phức tạp) và sự hiện diện của nhân không điển hình (có hoặc không). Cụ thể:
 
 - **Tăng sinh cổ điển (đơn giản)–điển hình**  
-  Nguy cơ tiến triển thành ung thư nội mạc  1%. Mô bệnh học cho thấy biểu mô tuyến tăng sinh nhẹ, nhân tế bào vẫn bình thường. Thường gặp ở người có tình trạng phơi bày estrogen quá mức (béo phì, PCOS, estrogen ngoại sinh, v.v.).
+  Nguy cơ tiến triển thành ung thư nội mạc 1%. Mô bệnh học cho thấy biểu mô tuyến tăng sinh nhẹ, nhân tế bào vẫn bình thường. Thường gặp ở người có tình trạng phơi bày estrogen quá mức (béo phì, PCOS, estrogen ngoại sinh, v.v.).
 
 - **Tăng sinh phức tạp–điển hình**  
   Nguy cơ tiến triển thành ung thư 3%. Thể hiện qua mô tuyến tăng nhiều, tỷ lệ tuyến:mô đệm > 50%, các tuyến sắp xếp lộn xộn, nhưng nhân tế bào vẫn bình thường.
 
 - **Tăng sinh cổ điển (đơn giản)–không điển hình**  
-  Nguy cơ tiến triển thành ung thư  8%. Mô bệnh học ghi nhận tuyến tăng nhẹ nhưng lớp tế bào lót có nhân to, dị dạng và tăng sắc.
+  Nguy cơ tiến triển thành ung thư 8%. Mô bệnh học ghi nhận tuyến tăng nhẹ nhưng lớp tế bào lót có nhân to, dị dạng và tăng sắc.
 
 - **Tăng sinh phức tạp–không điển hình**  
-  Nguy cơ tiến triển thành ung thư  29%. Mô bệnh học cho thấy các tuyến tăng sinh dày, lộn xộn, lớp tế bào lót có nhân to, dị dạng và tăng sắc.
+  Nguy cơ tiến triển thành ung thư 29%. Mô bệnh học cho thấy các tuyến tăng sinh dày, lộn xộn, lớp tế bào lót có nhân to, dị dạng và tăng sắc.
 
 Yếu tố nguy cơ của tăng sinh nội mạc tử cung:
 
@@ -148,8 +148,9 @@ Bốn nguyên tắc chính khi xử trí AUB ác tính/tiền ác tính:
 Với **ung thư nội mạc tử cung**, điều trị chính là phẫu thuật, bắt buộc xác định giai đoạn. Có thể bổ sung xạ trị hoặc hóa trị tùy giai đoạn.
 
 Với **tăng sinh nội mạc tử cung**, dựa vào có/không tế bào không điển hình và mong muốn bảo tồn sinh sản:
-  - Tăng sinh điển hình: ưu tiên điều trị progestin, tránh phẫu thuật nếu có thể.
-  - Tăng sinh không điển hình: progestin là chính, cân nhắc phẫu thuật nếu thất bại hoặc không bảo tồn được.
+
+- Tăng sinh điển hình: ưu tiên điều trị progestin, tránh phẫu thuật nếu có thể.
+- Tăng sinh không điển hình: progestin là chính, cân nhắc phẫu thuật nếu thất bại hoặc không bảo tồn được.
 
 ## Các phương pháp điều trị
 
@@ -171,8 +172,8 @@ Tác dụng chính của progestin là kháng estrogen, ức chế phân bào n�
 
 - Progestin là liệu pháp ưu tiên, tỷ lệ thoái triển:
 
-  - Đơn giản điển hình  80%.
-  - Phức tạp điển hình  71%.
+  - Đơn giản điển hình 80%.
+  - Phức tạp điển hình 71%.
 
 - **Thuốc lựa chọn**:
 
@@ -201,7 +202,7 @@ Tác dụng chính của progestin là kháng estrogen, ức chế phân bào n�
 - **Theo dõi**:
 
   - Sinh thiết sau 3 tháng điều trị; nếu còn tồn tại, tăng liều hoặc kéo dài thời gian điều trị.
-  - Thời gian thoái triển trung bình  9 tháng; nếu còn tồn tại sau 7–9 tháng, tiên lượng thất bại cao (cân nhắc cắt tử cung).
+  - Thời gian thoái triển trung bình 9 tháng; nếu còn tồn tại sau 7–9 tháng, tiên lượng thất bại cao (cân nhắc cắt tử cung).
   - Sau khi mẫu bình thường: khuyến khích thụ thai sớm; nếu chưa, sinh thiết 6–12 tháng/lần.
 
 ### Cắt tử cung (phẫu thuật triệt để)

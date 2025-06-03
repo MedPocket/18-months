@@ -26,7 +26,7 @@ Ba yếu tố chính dẫn đến mất cân bằng hệ vi sinh âm đạo:
 
 _3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (microbiome) và hệ vi nấm (mycobiome): tổn thương niêm mạc, kháng sinh và rối loạn miễn dịch._
 
-## Đặc điểm lâm sàng và chẩn đoán
+## Đặc điểm
 
 ### Lâm sàng
 
@@ -52,7 +52,7 @@ _Tiết dịch âm đạo đặc, các mảng trắng bám thành âm đạo, ni
 - **Cấy nấm**: Chỉ định khi thất bại điều trị hoặc nghi ngờ chủng không phải Candida albicans, nhằm xác định chủng và làm kháng nấm đồ.
 - **Xét nghiệm latex agglutination**: Dùng để xác định nhanh một số chủng Candida không sinh giả tơ nấm.
 
-### Chẩn đoán
+## Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán viêm âm đạo do nấm]
 **Lâm sàng:**
@@ -179,6 +179,6 @@ Tái phát sau 1 tháng chiếm 20–30% trường hợp.
 
 - Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning: Viêm âm đạo do nấm_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
-- Ghebre, M., & Wang, X. (2018). _Diagnosis and Treatment of Vulvovaginal Candidiasis_
+- Ghebre, M., & Wang, X. (2018) - _Diagnosis and Treatment of Vulvovaginal Candidiasis_
 - Centers for Disease Control and Prevention (CDC) (2010) – _Sexually Transmitted Diseases Treatment Guidelines_
 - Sobel, J. D. (2016). _Vulvovaginal candidosis_

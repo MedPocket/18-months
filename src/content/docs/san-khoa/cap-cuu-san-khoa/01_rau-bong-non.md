@@ -33,7 +33,7 @@ Ngoại trừ chấn thương, nguyên nhân trực tiếp của rau bong non th
 
 ## Chẩn đoán và triệu chứng lâm sàng
 
-### Triệu chứng lâm sàng
+### Lâm sàng
 
 - Đau bụng khởi phát đột ngột, liên tục hoặc co thắt cường tính.
 - Chảy máu âm đạo (có thể ít hoặc nhiều).

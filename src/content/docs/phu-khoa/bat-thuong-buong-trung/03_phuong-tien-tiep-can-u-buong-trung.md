@@ -139,15 +139,15 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 - Tăng trong: ung thư buồng trứng, vú, phổi, tụy, đại tràng… và nhiều tình trạng lành: thai kỳ, lạc nội mạc tử cung, hành kinh, tràn dịch màng bụng/ phổi (lao, suy tim…).
 - Giá trị ngưỡng chung: 35 IU/mL; sau mãn kinh hoặc đã cắt TC + 2 buồng trứng nên dùng ngưỡng 20–26 IU/mL.
 - Trong u biểu mô buồng trứng: CA125 tăng chủ yếu ở u thanh dịch, ít ở u nhầy, tế bào sáng hoặc giáp biên.
-- **Không dùng để sàng lọc u sớm** (độ nhạy 10–50%, độ đặc hiệu  30%).
-- **Độ nhạy CA125** cho ung thư tiến triển xa  85%.
-- **Theo dõi tái phát**: độ nhạy  60%, độ đặc hiệu  20%.
+- **Không dùng để sàng lọc u sớm** (độ nhạy 10–50%, độ đặc hiệu 30%).
+- **Độ nhạy CA125** cho ung thư tiến triển xa 85%.
+- **Theo dõi tái phát**: độ nhạy 60%, độ đặc hiệu 20%.
 
 ### HE4
 
 - Chỉ báo tái phát & tiến triển ung thư biểu mô buồng trứng.
 - Tăng ở 93% u tuyến thanh dịch, 100% u dạng nội mạc, 50% u tế bào sáng. Ít tăng ở u nhầy.
-- Độ nhạy  67%, độ đặc hiệu có thể >90% → FDA công nhận HE4 để theo dõi tái phát/tiến triển.
+- Độ nhạy 67%, độ đặc hiệu có thể >90% → FDA công nhận HE4 để theo dõi tái phát/tiến triển.
 - Thường đo cùng CA125, kết hợp trong **ROMA test**.
 
 ### ROMA test

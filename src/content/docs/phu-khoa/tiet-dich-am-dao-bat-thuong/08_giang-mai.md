@@ -5,11 +5,11 @@ description: Giang mai là bệnh lây truyền qua đường tình dục do xo�
 
 Xoắn khuẩn giang mai (_Treponema pallidum_) rất yếu, chỉ sống vài giờ ngoài cơ thể. Ở điều kiện ẩm và nhiệt độ 37 °C, chúng có thể tồn tại và xâm nhập qua da, niêm mạc tổn thương khi quan hệ tình dục đường âm đạo, hậu môn hoặc miệng. Bệnh cũng có thể lây qua tiếp xúc gián tiếp với đồ dùng, vật dụng nhiễm xoắn khuẩn hoặc qua đường máu, từ mẹ sang con trong thai kỳ hoặc chuyển dạ.
 
-## Đặc điểm bệnh giang mai
+## Đặc điểm
 
 ### Các giai đoạn của giang mai
 
-Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường  21 ngày). Nếu không được chẩn đoán và điều trị, bệnh tồn tại nhiều năm và phân chia thành hai nhóm chính:
+Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). Nếu không được chẩn đoán và điều trị, bệnh tồn tại nhiều năm và phân chia thành hai nhóm chính:
 
 - **Giang mai sớm (≤ 2 năm kể từ khi nhiễm):**
 
@@ -21,7 +21,7 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường  21 ngày). 
   1. **Giang mai kín muộn (Late latent syphilis):** Tiềm ẩn > 2 năm, không triệu chứng và chỉ phát hiện qua xét nghiệm huyết thanh.
   2. **Giang mai thời kỳ III (Tertiary syphilis):** Xuất hiện sau nhiều năm (có thể 10–30 năm), gây tổn thương ăn sâu vào da, niêm mạc, xương – khớp, tim mạch (với biến chứng viêm động mạch chủ, phình động mạch chủ, hở van động mạch chủ) và thần kinh (giang mai thần kinh muộn), kèm gôm giang mai.
 
-### Triệu chứng lâm sàng
+### Lâm sàng
 
 #### Giang mai mắc phải
 
@@ -161,13 +161,13 @@ Các xét nghiệm nhanh có:
 
 Ưu tiên sử dụng ở cộng đồng, sàng lọc người có nguy cơ cao (phụ nữ mại dâm, nam quan hệ đồng giới, người chuyển giới) và phụ nữ mang thai.
 
-### Chẩn đoán
+## Chẩn đoán
 
 - **Thời điểm chẩn đoán:**
   - Có thể xét nghiệm từ 3 tuần sau phơi nhiễm nếu có triệu chứng hoặc từ 7 ngày nếu không có triệu chứng (dựa vào NAATs).
   - Nếu nghi ngờ phơi nhiễm nhưng âm tính, xét nghiệm lại sau 6 tuần và 3 tháng để tránh bỏ sót.
 
-#### Giang mai mắc phải
+### Giang mai mắc phải
 
 - **Chẩn đoán xác định** khi:
 
@@ -178,7 +178,7 @@ Các xét nghiệm nhanh có:
 
 - **Chẩn đoán dựa vào lâm sàng và dịch tễ** khi không có điều kiện xét nghiệm đầy đủ, cần điều trị khẩn và theo dõi xét nghiệm sau.
 
-#### Giang mai bẩm sinh
+### Giang mai bẩm sinh
 
 - **Chẩn đoán ngay sau sinh** nếu:
 
@@ -223,7 +223,7 @@ Các xét nghiệm nhanh có:
 - **Kiêng quan hệ tình dục** trong thời gian điều trị và 7 ngày sau khi hoàn thành.
 - **Chủ yếu điều trị ngoại trú**; chỉ nhập viện khi giang mai thần kinh, giang mai tim mạch nặng hoặc giang mai bẩm sinh cần theo dõi chặt chẽ.
 
-### Điều trị cụ thể
+### Phác đồ
 
 #### Người lớn và vị thành niên (≥ 10 tuổi)
 
@@ -272,31 +272,6 @@ Các xét nghiệm nhanh có:
 - **Khám sàng lọc định kỳ STI** cho nhóm nguy cơ cao.
 - **Tập huấn chuyên môn** cho nhân viên y tế tuyến xã, huyện, tỉnh về chẩn đoán sớm, điều trị đúng, chống kháng thuốc.
 - **Giám sát kháng thuốc:** Đẩy mạnh nuôi cấy _N. gonorrhoeae_ và làm kháng sinh đồ để theo dõi tình hình kháng thuốc, điều chỉnh phác đồ thuốc kịp thời.
-
-### Các chiến lược xét nghiệm theo tuyến y tế
-
-1. **Chiến lược A (Tuyến xã/phường hoặc huyện chưa có RPR):**
-
-   - Dùng xét nghiệm nhanh đặc hiệu tại chỗ, nếu dương tính thì điều trị ngay.
-   - Áp dụng chủ yếu cho phụ nữ mang thai để ngăn giang mai bẩm sinh.
-   - Hạn chế: Xét nghiệm nhanh không phân biệt được giang mai đã điều trị và giang mai hoạt động.
-
-2. **Chiến lược B (Tuyến huyện có RPR):**
-
-   - Xét nghiệm RPR tại chỗ, nếu (+) điều trị ngay trong ngày khám.
-   - Nếu RPR (–), xét nghiệm lại sau 1 tháng để tránh bỏ sót giang mai sớm.
-   - Cần máy lắc, máy li tâm, tủ lạnh bảo quản sinh phẩm, nguồn điện ổn định.
-
-3. **Chiến lược C (Tuyến huyện/tỉnh):**
-
-   - Xét nghiệm nhanh đặc hiệu; nếu (–) xem như không mắc, không điều trị.
-   - Nếu (+), tiêm ngay mũi Benzathin penicillin đầu tiên, sau đó làm RPR:
-     - RPR (+): tiếp tục điều trị theo giai đoạn (sớm hoặc muộn).
-     - RPR (–): xét nghiệm lại sau 1 tháng để loại trừ âm tính giả giai đoạn sớm.
-
-4. **Chiến lược D (Tuyến tỉnh/trung ương):**
-   - Xét nghiệm RPR/VDRL tại phòng xét nghiệm chuyên nghiệp; nếu (+), làm thêm TPPA/TPHA (cùng mẫu).
-   - Điều trị khi chẩn đoán xác định giang mai.
 
 ## Nguồn tham khảo
 

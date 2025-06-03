@@ -97,7 +97,7 @@ _Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0–10)._
 
 Độ nhạy 89%, độ đặc hiệu 83% so với tiêu chuẩn Amsel.
 
-### Tiêu chuẩn Bệnh viện Từ Dũ
+### Tiêu chuẩn Từ Dũ
 
 BV được chẩn đoán khi đủ **2/3** tiêu chuẩn sau:
 
@@ -113,7 +113,42 @@ Nếu có hai trong ba tiêu chuẩn trên, chẩn đoán BV.
 
 Mục tiêu điều trị là khôi phục cân bằng hệ vi sinh, giảm triệu chứng và ngăn ngừa biến chứng, đặc biệt ở phụ nữ mang thai.
 
-### Điều trị theo CDC 2010
+### Nguyên tắc điều trị
+
+- **Ưu tiên tiêu chuẩn Amsel ≥3/4 hoặc Nugent ≥7** trước khi chỉ định điều trị, trừ trường hợp dự phòng trước mổ hoặc phụ nữ mang thai nguy cơ cao.
+- **Điều trị thuốc**: Chọn Metronidazole hoặc Clindamycin theo liều và đường dùng nêu trên.
+- **Bổ sung probiotic chứa Lactobacillus** sau khi hoàn thành kháng sinh:
+  - Probiotic uống hoặc đặt âm đạo (L. rhamnosus GR-1, L. reuteri RC-14) giúp tái thiết lập hệ vi sinh, giảm tỉ lệ tái phát.
+- **Thay đổi thói quen sinh hoạt**:
+  - Tránh thụt rửa âm đạo;
+  - Áp dụng vệ sinh đúng cách: rửa nhẹ nhàng bằng nước ấm hoặc dung dịch pH trung tính;
+  - Sử dụng đồ lót thoáng, thấm hút tốt;
+  - Hạn chế quan hệ tình dục không dùng bao cao su hoặc có nhiều bạn tình.
+
+### Chỉ định điều trị
+
+1. **BV có triệu chứng lâm sàng (huyết trắng nhiều, mùi hôi)**:
+
+   - Ảnh hưởng chất lượng cuộc sống, nên điều trị kháng sinh để nhanh chóng cải thiện triệu chứng.
+
+2. **BV không triệu chứng nhưng thuộc nhóm nguy cơ cao**:
+
+   - **Phụ nữ mang thai có nguy cơ cao sinh non** (ví dụ: tiền sử sinh non, viêm màng ối)
+   - **Chuẩn bị phẫu thuật sản phụ khoa hoặc can thiệp âm đạo** (cắt tử cung, đặt dụng cụ tử cung…)  
+     Trong các trường hợp này, điều trị dự phòng có thể giảm tỷ lệ biến chứng viêm hậu phẫu và sinh non.
+
+3. **BV tái phát nhiều lần**:
+   - Nếu đã điều trị đúng phác đồ nhưng BV tái phát >3 lần/năm, cần đánh giá thêm yếu tố nguy cơ: quan hệ tình dục không an toàn, thụt rửa, vệ sinh sai cách, cân nhắc bổ sung probiotic và theo dõi kỹ.
+
+:::caution[Lưu ý]
+
+- **Nếu không có yếu tố nguy cơ** (không mang thai, không chuẩn bị phẫu thuật, không có triệu chứng), có thể **theo dõi không điều trị** vì hệ vi sinh có thể tự điều chỉnh.
+- **Nếu mang thai nguy cơ cao**: Điều trị trước 20 tuần giúp giảm nguy cơ sinh non do ngăn chặn sớm quá trình viêm niêm mạc ối. Nghiên cứu cho thấy **Clindamycin uống** có hiệu quả hơn Metronidazole trong ngăn ngừa sinh non khi điều trị sớm BV không triệu chứng ở phụ nữ mang thai.
+- **Nếu chuẩn bị can thiệp phụ khoa/âm đạo**: Điều trị dự phòng BV giúp giảm nguy cơ viêm nhiễm hậu phẫu, viêm vùng chậu.
+
+:::
+
+### Phác đồ CDC 2010
 
 Phần lớn trường hợp BV không có triệu chứng có thể tự cải thiện nhờ hệ vi sinh thay đổi. Tuy nhiên, khi có triệu chứng hoặc thuộc nhóm nguy cơ cao (phụ nữ mang thai, chuẩn bị phẫu thuật sản phụ khoa), cần can thiệp.
 
@@ -127,7 +162,9 @@ Phần lớn trường hợp BV không có triệu chứng có thể tự cải 
 | **Tinidazole**              | 2 g liều duy nhất uống, có thể thay cho Metronidazole          |
 | **Clindamycin viên**        | 300 mg uống 2 lần/ngày trong 7 ngày                            |
 
-> _Chú ý_: Metronidazole uống có thể gây khô miệng, vị kim loại, và nên tránh rượu bia trong thời gian điều trị và 48 giờ sau khi kết thúc. Tinidazole ít tác dụng phụ hơn nhưng giá thành cao hơn.
+:::caution[Lưu ý]
+Metronidazole uống có thể gây khô miệng, vị kim loại, và nên tránh rượu bia trong thời gian điều trị và 48 giờ sau khi kết thúc. Tinidazole ít tác dụng phụ hơn nhưng giá thành cao hơn.
+:::
 
 Tỷ lệ tái phát sau điều trị cao:
 
@@ -158,41 +195,6 @@ Tùy chọn điều trị BV tại Bệnh viện Từ Dũ (áp dụng cho cả B
 - Phụ nữ mang thai chỉ điều trị khi có triệu chứng rõ và cân nhắc lợi ích – nguy cơ.
 - Cần khai thác tiền sử dị ứng Penicillin, Clindamycin để lựa chọn kháng sinh phù hợp.
   :::
-
-## Các vấn đề điều trị loạn khuẩn
-
-### Khi nào cần phải điều trị loạn khuẩn âm đạo?
-
-1. **BV có triệu chứng lâm sàng (huyết trắng nhiều, mùi hôi)**:
-
-   - Ảnh hưởng chất lượng cuộc sống, nên điều trị kháng sinh để nhanh chóng cải thiện triệu chứng.
-
-2. **BV không triệu chứng nhưng thuộc nhóm nguy cơ cao**:
-
-   - **Phụ nữ mang thai có nguy cơ cao sinh non** (ví dụ: tiền sử sinh non, viêm màng ối)
-   - **Chuẩn bị phẫu thuật sản phụ khoa hoặc can thiệp âm đạo** (cắt tử cung, đặt dụng cụ tử cung…)  
-     Trong các trường hợp này, điều trị dự phòng có thể giảm tỷ lệ biến chứng viêm hậu phẫu và sinh non.
-
-3. **BV tái phát nhiều lần**:
-   - Nếu đã điều trị đúng phác đồ nhưng BV tái phát >3 lần/năm, cần đánh giá thêm yếu tố nguy cơ: quan hệ tình dục không an toàn, thụt rửa, vệ sinh sai cách, cân nhắc bổ sung probiotic và theo dõi kỹ.
-
-### Phải điều trị loạn khuẩn âm đạo như thế nào?
-
-- **Ưu tiên tiêu chuẩn Amsel ≥3/4 hoặc Nugent ≥7** trước khi chỉ định điều trị, trừ trường hợp dự phòng trước mổ hoặc phụ nữ mang thai nguy cơ cao.
-- **Điều trị thuốc**: Chọn Metronidazole hoặc Clindamycin theo liều và đường dùng nêu trên.
-- **Bổ sung probiotic chứa Lactobacillus** sau khi hoàn thành kháng sinh:
-  - Probiotic uống hoặc đặt âm đạo (L. rhamnosus GR-1, L. reuteri RC-14) giúp tái thiết lập hệ vi sinh, giảm tỉ lệ tái phát.
-- **Thay đổi thói quen sinh hoạt**:
-  - Tránh thụt rửa âm đạo;
-  - Áp dụng vệ sinh đúng cách: rửa nhẹ nhàng bằng nước ấm hoặc dung dịch pH trung tính;
-  - Sử dụng đồ lót thoáng, thấm hút tốt;
-  - Hạn chế quan hệ tình dục không dùng bao cao su hoặc có nhiều bạn tình.
-
-### Lưu ý đặc biệt với trường hợp BV không triệu chứng
-
-- **Nếu không có yếu tố nguy cơ** (không mang thai, không chuẩn bị phẫu thuật, không có triệu chứng), có thể **theo dõi không điều trị** vì hệ vi sinh có thể tự điều chỉnh.
-- **Nếu mang thai nguy cơ cao**: Điều trị trước 20 tuần giúp giảm nguy cơ sinh non do ngăn chặn sớm quá trình viêm niêm mạc ối. Nghiên cứu cho thấy **Clindamycin uống** có hiệu quả hơn Metronidazole trong ngăn ngừa sinh non khi điều trị sớm BV không triệu chứng ở phụ nữ mang thai.
-- **Nếu chuẩn bị can thiệp phụ khoa/âm đạo**: Điều trị dự phòng BV giúp giảm nguy cơ viêm nhiễm hậu phẫu, viêm vùng chậu.
 
 ## Nguồn tham khảo
 

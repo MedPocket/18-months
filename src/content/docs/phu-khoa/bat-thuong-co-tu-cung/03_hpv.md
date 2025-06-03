@@ -73,9 +73,9 @@ _Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ ch
 
 | Loại vaccine | Type bảo vệ                       | Phổ bảo vệ                                               |
 | ------------ | --------------------------------- | -------------------------------------------------------- |
-| **2vHPV**    | 16, 18                            | Ngừa ung thư cổ tử cung (66% trường hợp)                |
+| **2vHPV**    | 16, 18                            | Ngừa ung thư cổ tử cung (66% trường hợp)                 |
 | **4vHPV**    | 6, 11, 16, 18                     | Ngừa ung thư cổ tử cung và mụn cóc sinh dục (type 6, 11) |
-| **9vHPV**    | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên 81–90% |
+| **9vHPV**    | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên 81–90%  |
 
 _Phổ bảo vệ của vaccine 2vHPV, 4vHPV và 9vHPV_
 
@@ -103,21 +103,17 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 
 ### Sử dụng vaccine theo ACIP
 
-:::note[Đối tượng]
+- **Đối tượng**
 
-- Trẻ gái và trai 9–12 tuổi (khuyến cáo mạnh 11–12 tuổi).
-- Trẻ trai ưu tiên 4vHPV.
-- Người chưa tiêm: nữ đến 26 tuổi; nam đến 21 tuổi (mở rộng đến 26 tuổi cho đồng tính và người chuyển giới).
-- Trẻ em bị lạm dụng tình dục: bắt đầu từ 9 tuổi.
+  - Trẻ gái và trai 9–12 tuổi (khuyến cáo mạnh 11–12 tuổi).
+  - Trẻ trai ưu tiên 4vHPV.
+  - Người chưa tiêm: nữ đến 26 tuổi; nam đến 21 tuổi (mở rộng đến 26 tuổi cho đồng tính và người chuyển giới).
+  - Trẻ em bị lạm dụng tình dục: bắt đầu từ 9 tuổi.
 
-:::
+- **Phác đồ**
 
-:::note[Phác đồ]
-
-- Trước 15 tuổi: 2 liều, cách 6–12 tháng.
-- Từ 15 tuổi: 3 liều (0, 1–2 tháng, 6 tháng).
-
-:::
+  - Trước 15 tuổi: 2 liều, cách 6–12 tháng.
+  - Từ 15 tuổi: 3 liều (0, 1–2 tháng, 6 tháng).
 
 :::caution[Lưu ý]
 
@@ -128,34 +124,27 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 - Có thể tiêm đồng thời với vaccine khác, nhưng không trộn chung ống tiêm.
 - Theo dõi 15 phút sau tiêm do nguy cơ phản ứng ngất sinh lý.
 - Phụ nữ đã phơi nhiễm HPV hoặc có tổn thương cổ tử cung bất thường vẫn được khuyến khích tiêm để phòng các type chưa nhiễm.
-
-:::
-
-> **FDA** chỉ dán nhãn 4vHPV và 9vHPV cho bé trai; 9vHPV được khuyến nghị vì hiệu quả rộng và chi phí quản lý ít hơn 2 loại trước đó.
-
-> Dù tiêm đầy đủ, vẫn cần tầm soát ung thư cổ tử cung định kỳ (Pap smear và/hoặc HPV DNA) do vaccine không phòng được hết tất cả các loại virus HPV.
+- **FDA** chỉ dán nhãn 4vHPV và 9vHPV cho bé trai; 9vHPV được khuyến nghị vì hiệu quả rộng và chi phí quản lý ít hơn 2 loại trước đó.
+- Dù tiêm đầy đủ, vẫn cần tầm soát ung thư cổ tử cung định kỳ (Pap smear và/hoặc HPV DNA) do vaccine không phòng được hết tất cả các loại virus HPV.
+  :::
 
 ## HPV testing
 
 - Thường thực hiện cùng Pap smear (co-testing).
 - Âm tính HPV → độ tin cậy cao, có thể tầm soát 3 năm/lần.
 
-:::note[Chỉ định]
+- **Chỉ định**
 
-1. Reflex testing khi ASC-US.
-2. Co-testing cho phụ nữ 30–65 tuổi.
-3. Sau điều trị HSIL.
-4. Có xu hướng làm test đầu tay từ 25 tuổi.
+  1. Reflex testing khi ASC-US.
+  2. Co-testing cho phụ nữ 30–65 tuổi.
+  3. Sau điều trị HSIL.
+  4. Có xu hướng làm test đầu tay từ 25 tuổi.
 
-:::
+- **Quy trình quản lý (ACOG/ASCCP)**
 
-:::note[Quy trình quản lý (ACOG/ASCCP)]
-
-- HPV (−): xét nghiệm lại sau 3 năm.
-- HPV (+) type 16/18: soi cổ tử cung.
-- HPV (+) type cao khác: làm tế bào học; nếu bình thường → theo dõi 1 năm; nếu bất thường → soi cổ tử cung.
-
-:::
+  - HPV (−): xét nghiệm lại sau 3 năm.
+  - HPV (+) type 16/18: soi cổ tử cung.
+  - HPV (+) type cao khác: làm tế bào học; nếu bình thường → theo dõi 1 năm; nếu bất thường → soi cổ tử cung.
 
 ## Tóm tắt
 

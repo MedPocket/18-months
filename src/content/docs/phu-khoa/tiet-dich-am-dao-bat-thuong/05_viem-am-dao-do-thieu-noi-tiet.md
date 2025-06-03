@@ -19,7 +19,7 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
    - Niêm mạc mỏng, kém đàn hồi, dễ bị tổn thương khi giao hợp hoặc thăm khám → xuất huyết, viêm.
    - Điều kiện pH kiềm hơn làm vi khuẩn yếm khí, vi khuẩn không điển hình (Escherichia coli, Gardnerella, Staphylococcus…) hoặc nấm men (Candida sp.) dễ phát triển.
 
-## Triệu chứng lâm sàng
+## Lâm sàng
 
 - **Ngứa, rát âm đạo – âm hộ**: thường dai dẳng, đặc biệt sau giao hợp hoặc sau vận động mạnh.
 - **Khô âm đạo**: cảm giác thiếu ẩm, khó chịu, có thể chảy máu khi giao hợp hoặc thăm khám.
@@ -30,11 +30,10 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
   - Có thể tiểu không tự chủ do tăng kích thích thành bàng quang.
 - **Giao hợp đau** (dyspareunia): do mất bôi trơn và teo niêm mạc.
 
-Quan sát khi khám:
-
-- Âm hộ và niêm mạc âm đạo nhợt nhạt, mỏng, kém nếp gấp.
-- Có thể thấy nhiều chấm xuất huyết nhỏ, dễ chảy máu khi thăm khám (dấu vết xuất huyết điểm).
-- Âm đạo khô, mất bóng ẩm bình thường.
+- **Quan sát khi khám**:
+  - Âm hộ và niêm mạc âm đạo nhợt nhạt, mỏng, kém nếp gấp.
+  - Có thể thấy nhiều chấm xuất huyết nhỏ, dễ chảy máu khi thăm khám (dấu vết xuất huyết điểm).
+  - Âm đạo khô, mất bóng ẩm bình thường.
 
 ## Chẩn đoán
 
@@ -96,7 +95,7 @@ Mục tiêu điều trị là phục hồi lớp biểu mô âm đạo, tăng đ
   - Tránh thụt rửa âm đạo, sử dụng xà phòng pH trung tính.
   - Mặc đồ lót thoáng, thoát ẩm, tránh đồ bó sát.
 
-### Theo dõi
+## Theo dõi
 
 - Khám lại sau 4–6 tuần sau khi bắt đầu điều trị tại chỗ để đánh giá triệu chứng, kiểm tra niêm mạc âm đạo.
 - Đo lại pH và soi dịch âm đạo nếu cần để đánh giá đáp ứng.

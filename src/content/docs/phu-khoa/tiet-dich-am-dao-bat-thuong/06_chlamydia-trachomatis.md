@@ -3,7 +3,7 @@ title: Chlamydia trachomatis
 description: Nhiễm Chlamydia trachomatis là một trong các nhiễm khuẩn lây truyền qua đường tình dục (STI) rất thường gặp, có thể gây viêm niệu đạo – sinh dục không triệu chứng hoặc có triệu chứng nhẹ nhưng nếu không điều trị kịp thời sẽ dẫn đến các biến chứng nặng như viêm tiểu khung, vô sinh, thai ngoài tử cung, viêm mào tinh hoàn, và ảnh hưởng đến trẻ sơ sinh.
 ---
 
-Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân đôi phức tạp, tồn tại trong 2 dạng: thể lưới (reticulate body) và thể rời (elementary body). Vi khuẩn lây truyền chủ yếu qua quan hệ tình dục không bảo vệ, ảnh hưởng cả nam và nữ ở độ tuổi sinh sản.
+Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân đôi phức tạp, tồn tại trong hai dạng: thể lưới (reticulate body) và thể rời (elementary body). Vi khuẩn lây truyền chủ yếu qua quan hệ tình dục không bảo vệ, ảnh hưởng cả nam và nữ ở độ tuổi sinh sản.
 
 ## Nguyên nhân
 
@@ -47,7 +47,7 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
    - Giai đoạn II: Sưng hạch bẹn hoặc đùi một bên, hạch mềm đau, vỡ mủ, có thể hình thành rò, nang hạch.
    - Giai đoạn III (mạn tính): Hẹp hậu môn, rò hậu môn, phản ứng xơ hóa ở mô.
 
-## Chẩn đoán
+## Đặc điểm
 
 ### Lâm sàng
 
@@ -109,6 +109,8 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
    - Thường không dùng để chẩn đoán cấp tính đường sinh dục – tiết niệu.
    - Dùng trong chẩn đoán LGV giai đoạn muộn (các kháng thể IgG, IgA tăng).
 
+## Chẩn đoán
+
 ### Chẩn đoán xác định
 
 :::note[Tiêu chuẩn chẩn đoán nhiễm Chlamydia trachomatis]
@@ -151,7 +153,7 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 - **Khám lại** hoặc xét nghiệm kiểm tra lại sau 3 tháng, ngay cả khi không còn triệu chứng, để phát hiện tái nhiễm.
 - Lựa chọn kháng sinh phù hợp với phụ nữ mang thai, tránh các thuốc chống chỉ định trong thai kỳ.
 
-### Điều trị cụ thể
+### Phác đồ
 
 #### Nhiễm Chlamydia sinh dục – tiết niệu không biến chứng
 
@@ -207,7 +209,7 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 - Tránh sử dụng kháng sinh đơn lẻ khi đồng nhiễm HIV, cần bổ sung kháng sinh dự phòng cơ hội.  
   :::
 
-### Theo dõi
+## Theo dõi
 
 - **Tái khám sau 3 tháng**: Tất cả các trường hợp nhiễm Chlamydia nên được sàng lọc lại NAAT sau 3 tháng kể từ ngày điều trị dù đã hết triệu chứng để phát hiện tái nhiễm.
 - **Nếu không thể tái khám sau 3 tháng**, có thể xét nghiệm bất kỳ lúc nào trong khoảng 3–12 tháng sau điều trị đầu tiên.
