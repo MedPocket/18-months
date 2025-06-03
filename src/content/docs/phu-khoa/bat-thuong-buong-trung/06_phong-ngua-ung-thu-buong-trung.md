@@ -25,17 +25,20 @@ Chẩn đoán khối tân lập ở buồng trứng luôn phải đi kèm dự �
 3. Điều trị bổ sung (hóa/trị xạ) tùy loại ung thư, giai đoạn, grade.
 4. Nội soi "second look" để đánh giá đáp ứng và tái phát.
 
-## Phòng ngừa ung thư buồng trứng
+## Phòng ngừa
 
 - **Mang thai đủ tháng**, **cho con bú**, **dùng COC** làm giảm nguy cơ ung thư biểu mô buồng trứng.
 - **Cắt buồng trứng dự phòng** là biện pháp duy nhất ngăn ngừa hoàn toàn.
-  > ACOG: "Giữ lại buồng trứng nếu chưa mãn kinh. Tuy nhiên, xét nguy cơ tuổi mãn kinh, có thể cân nhắc cắt bỏ buồng trứng."
 
-## Giai đoạn ung thư buồng trứng theo FIGO
+:::caution[Lưu ý]
+Theo ACOG, giữ lại buồng trứng nếu chưa mãn kinh. Tuy nhiên, xét nguy cơ tuổi mãn kinh, có thể cân nhắc cắt bỏ buồng trứng.
+:::
 
-![Giai đoạn ung thư buồng trứng theo FIGO](../../../../assets/phu-khoa/phong-ngua-ung-thu-buong-trung/giai-doan-ung-thu-buong-trung-theo-figo.png)
+## Các giai đoạn ung thư buồng trứng
 
-_ Giai đoạn ung thư buồng trứng theo FIGO._
+![Các giai đoạn ung thư buồng trứng theo FIGO](../../../../assets/phu-khoa/phong-ngua-ung-thu-buong-trung/giai-doan-ung-thu-buong-trung-theo-figo.png)
+
+_Các giai đoạn ung thư buồng trứng theo FIGO._
 
 **Giai đoạn I** (chỉ ở buồng trứng):
 

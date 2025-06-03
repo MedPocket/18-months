@@ -69,7 +69,7 @@ _Adenomyosis trên MRI._
 - Tắc nghẽn đường thoát máu kinh.
 - Chế độ ăn nhiều thịt đỏ, chất béo, thuốc lá, cồn, caffeine.
 
-## Chẩn đoán xác định
+## Đặc điểm
 
 ### Lâm sàng
 
@@ -85,9 +85,9 @@ Adenomyosis thường "ồn ào" triệu chứng: thống kinh, AUB-A, đau vùn
 
 - Cường estrogen cục bộ và đề kháng progesterone gây rong huyết.
 
-![Adenomyosis qua nội soi buồng tử cung](../../../assets/phu-khoa/lac-noi-mac-tu-cung/adenomyosis-qua-noi-soi-buong.png)
+  ![Adenomyosis qua nội soi buồng tử cung](../../../assets/phu-khoa/lac-noi-mac-tu-cung/adenomyosis-qua-noi-soi-buong.png)
 
-_Adenomyosis qua nội soi buồng tử cung._
+  _Adenomyosis qua nội soi buồng tử cung._
 
 #### Hiếm muộn
 
@@ -138,17 +138,22 @@ _Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)._
   2. Xuất huyết tử cung bất thường (AUB-A).
   3. Hiếm muộn – vô sinh.
 
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
+
+_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh viện Từ Dũ._
+
 ## Điều trị thống kinh
 
-> Áp dụng khi thống kinh nặng, ảnh hưởng chất lượng sống và không kèm hiếm muộn.  
-> Nếu có hiếm muộn, chỉ điều trị triệu chứng đau, ưu tiên kỹ thuật hỗ trợ sinh sản.
+Áp dụng khi thống kinh nặng, ảnh hưởng chất lượng sống và không kèm hiếm muộn.
+
+Nếu có hiếm muộn, chỉ điều trị triệu chứng đau, ưu tiên kỹ thuật hỗ trợ sinh sản.
 
 ### Nội khoa
 
 #### NSAIDs
 
 - **Cơ chế**: ức chế COX-2 → giảm PGE₂ → giảm viêm và co thắt.
-- **Ví dụ & liều**:
+- **Liều dùng**:
   - Ibuprofen 400 mg mỗi 4–6 giờ.
   - Naproxen 250 mg mỗi 8–12 giờ.
 - **Chống chỉ định**: loét dạ dày, suy thận, hen phế quản nặng, bệnh tim mạch.
@@ -189,23 +194,23 @@ Chọn progestin ít tác dụng toàn thân; ưu tiên LNG-IUS hoặc Dienogest
 
 #### Giảm đau bước 1 & 2
 
-| STT   | Loại thuốc | Liều dùng & cách dùng                                                                 | Hiệu quả                                | Chống chỉ định / Tác dụng phụ                      |
-| ----- | ---------- | ------------------------------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------- |
-| **1** | NSAIDs     | Ibuprofen 400 mg mỗi 4–6 h<br>Naproxen 250 mg mỗi 8–12 h                              | Giảm viêm, co thắt, giảm thống kinh     | Loét dạ dày, suy thận, hen nặng, tim mạch          |
-| **2** | COCs       | EE 20–30 µg + progestin, 1 viên/ngày (liên tục hoặc chu kỳ)<br>Miếng dán 1 miếng/tuần | Giảm sinh nội mạc, giảm COX-2, giảm đau | Rong huyết, buồn nôn, căng vú, tăng cân, mụn       |
-| **3** | Progestin  | Dienogest 2 mg/ngày<br>LNG-IUS 5 năm<br>Norethindrone 5–10 mg/ngày                    | Teo nội mạc, giảm đau và cường kinh     | Rong huyết thất thường, mụn, ảnh hưởng kinh nguyệt |
+| Loại thuốc    | Liều dùng & cách dùng                                                                 | Hiệu quả                                | Chống chỉ định / Tác dụng phụ                      |
+| ------------- | ------------------------------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------- |
+| **NSAIDs**    | Ibuprofen 400 mg mỗi 4–6 h<br>Naproxen 250 mg mỗi 8–12 h                              | Giảm viêm, co thắt, giảm thống kinh     | Loét dạ dày, suy thận, hen nặng, tim mạch          |
+| **COCs**      | EE 20–30 µg + progestin, 1 viên/ngày (liên tục hoặc chu kỳ)<br>Miếng dán 1 miếng/tuần | Giảm sinh nội mạc, giảm COX-2, giảm đau | Rong huyết, buồn nôn, căng vú, tăng cân, mụn       |
+| **Progestin** | Dienogest 2 mg/ngày<br>LNG-IUS 5 năm<br>Norethindrone 5–10 mg/ngày                    | Teo nội mạc, giảm đau và cường kinh     | Rong huyết thất thường, mụn, ảnh hưởng kinh nguyệt |
 
 _Giảm đau bước 1._
 
-| STT   | Loại thuốc           | Liều dùng                                                            | Hiệu quả                             | Tác dụng phụ / Lưu ý                                |
-| ----- | -------------------- | -------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------- |
-| **1** | GnRH đồng vận        | Goserelin 3.6 mg mỗi 28 ngày SC<br>Leuprolide 3.75 mg mỗi 28 ngày IM | Ức chế HPA → giảm estrogen toàn thân | Bốc hỏa, loãng xương; cần add-back therapy          |
-| **2** | AI                   | Letrozole 2.5 mg/ngày<br>Anastrozole 1 mg/ngày                       | Giảm estrogen cục bộ                 | Giảm mật độ xương, bốc hỏa, mệt mỏi                 |
-| **3** | Danazol / Gestrinone | Danazol 200 mg ×2/ngày<br>Gestrinone 2.5 mg ×2/ngày                  | Khi thất bại các liệu pháp trên      | Vô kinh, nam hóa, rối loạn lipid, tác dụng androgen |
+| Loại thuốc               | Liều dùng                                                            | Hiệu quả                             | Tác dụng phụ / Lưu ý                                |
+| ------------------------ | -------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------- |
+| **GnRH đồng vận**        | Goserelin 3.6 mg mỗi 28 ngày SC<br>Leuprolide 3.75 mg mỗi 28 ngày IM | Ức chế HPA → giảm estrogen toàn thân | Bốc hỏa, loãng xương; cần add-back therapy          |
+| **AI**                   | Letrozole 2.5 mg/ngày<br>Anastrozole 1 mg/ngày                       | Giảm estrogen cục bộ                 | Giảm mật độ xương, bốc hỏa, mệt mỏi                 |
+| **Danazol / Gestrinone** | Danazol 200 mg ×2/ngày<br>Gestrinone 2.5 mg ×2/ngày                  | Khi thất bại các liệu pháp trên      | Vô kinh, nam hóa, rối loạn lipid, tác dụng androgen |
 
 _Giảm đau bước 2._
 
-### Điều trị ngoại khoa
+### Ngoại khoa
 
 - **Chỉ định**
 
@@ -233,18 +238,19 @@ _Giảm đau bước 2._
 - **Điều trị nội tiết liên quan**
   - **Không chỉ định** dùng NSAIDs/COCs/Đồng vận GnRH… để chuẩn bị trước mổ.
   - **Dự phòng tái phát** sau phẫu thuật:
-    - Điều trị ≥ 6 tháng với:
-      - IUS–LNG (levonorgestrel).
-      - Dienogest 2 mg/ngày.
-      - COCs liên tục.
+    - Điều trị ≥ 6 tháng với: IUS–LNG (levonorgestrel), Dienogest 2 mg/ngày, COCs liên tục.
     - Thời gian khuyến cáo: 18–24 tháng nhằm ngăn ngừa tái phát đau và tổn thương.
+
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
+
+_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau – Bệnh viện Từ Dũ._
 
 ## Điều trị AUB-A
 
+- Xử lý thiếu máu, ổn định huyết động trước khi can thiệp.
 - **Đầu tay**: COCs hoặc LNG-IUS.
 - **Thứ hai**: Dienogest hoặc progestin uống.
 - **Không ưu tiên**: GnRH đồng vận, AI (tác dụng phụ nhiều).
-- **Lưu ý**: Xử lý thiếu máu, ổn định huyết động trước khi can thiệp.
 
 ## Điều trị hiếm muộn – vô sinh
 
@@ -253,14 +259,6 @@ _Giảm đau bước 2._
 - **Phẫu thuật**: bóc nang lạc nội mạc độ I–II nếu ảnh hưởng đến chức năng buồng trứng.
 - **ART**: IVF/ICSI khi vòi trứng tổn thương hoặc các biện pháp khác thất bại.
 - **Chuẩn bị**: GnRHa 3–6 tháng trước chuyển phôi có thể cải thiện tỉ lệ thành công.
-
-![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
-
-_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh viện Từ Dũ._
-
-![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
-
-_Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau – Bệnh viện Từ Dũ._
 
 ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
 _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn – Bệnh viện Từ Dũ._

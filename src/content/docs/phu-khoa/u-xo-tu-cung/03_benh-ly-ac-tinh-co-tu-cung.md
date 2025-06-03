@@ -1,6 +1,6 @@
 ---
-title: Bệnh lý ác tính và thai kỳ
-description: Phân loại, chẩn đoán và quản lý bệnh lý ác tính của thân tử cung trong thai kỳ.
+title: Bệnh lý ác tính cơ tử cung
+description: Phân loại, chẩn đoán và quản lý bệnh lý ác tính của cơ tử cung.
 ---
 
 ## Sarcoma cơ trơn thân tử cung (Leiomyosarcoma)
@@ -12,7 +12,7 @@ Sarcoma cơ trơn thân tử cung là khối u ác tính rất hiếm, chiếm <
 - Thường gặp ở phụ nữ tuổi tiền mãn kinh và mãn kinh (50–60 tuổi).
 - Nguồn gốc: chưa rõ có phát triển từ u xơ-cơ tử cung hay độc lập.
 
-### Chẩn đoán lâm sàng
+### Lâm sàng
 
 - **Tăng nhanh kích thước** khối u, đặc biệt ở phụ nữ mãn kinh hoặc đã được chẩn đoán u xơ-cơ tử cung trước đó.
 - **Triệu chứng**: chảy máu bất thường, đau âm ỉ, khối tử cung to nhanh.
@@ -21,9 +21,9 @@ Sarcoma cơ trơn thân tử cung là khối u ác tính rất hiếm, chiếm <
 
 - **Siêu âm** và **MRI** không thể phân biệt chắc chắn u xơ lành tính và leiomyosarcoma.
 - Gợi ý ác tính khi:
-  - Khối u không đều tín hiệu trên T2W (MRI)
-  - Hoại tử bên trong, xuất huyết, ranh giới không rõ
-  - Dò rỉ mạch máu nội vi trên Doppler
+  - Khối u không đều tín hiệu trên T2W (MRI).
+  - Hoại tử bên trong, xuất huyết, ranh giới không rõ.
+  - Dò rỉ mạch máu nội vi trên Doppler.
 
 ### Sinh thiết
 
@@ -35,6 +35,8 @@ Sarcoma cơ trơn thân tử cung là khối u ác tính rất hiếm, chiếm <
 - **Hóa trị** và **xạ trị**: hạn chế, thường chỉ trong thử nghiệm lâm sàng.
 
 ## U cơ trơn với khuynh hướng ác tính không xác định (STUMP)
+
+### Đặc điểm
 
 STUMP (Smooth muscle Tumour of Uncertain Malignant Potential) là khối u cơ trơn có đặc điểm mô học trung gian:
 
@@ -72,7 +74,7 @@ STUMP (Smooth muscle Tumour of Uncertain Malignant Potential) là khối u cơ t
 
 1. **Chẩn đoán gợi ý**: u xơ-cơ tăng nhanh hoặc xuất huyết bất thường → cân nhắc ác tính.
 2. **Theo dõi**: siêu âm/MRI không dùng thuốc cản quang nếu cần.
-3. **Kết thúc thai kỳ**: ưu tiên sinh non có kiểm soát (≥ 34 tuần), sau
+3. **Kết thúc thai kỳ**: ưu tiên sinh non có kiểm soát (≥ 34 tuần).
 
 ## Nguồn tham khảo
 

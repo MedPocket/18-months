@@ -19,7 +19,7 @@ Tiếp cận có thể **nội khoa** hoặc **ngoại khoa**.
 
 ## Nang lạc tuyến nội mạc tử cung ở buồng trứng
 
-### Bệnh học & bệnh sinh
+### Bệnh học
 
 - Là "giả nang" không vỏ, phát triển trên bề mặt buồng trứng, bao gồm biểu mô nội mạc tử cung và mô đệm tùy hành.
 - Trong chu kỳ, lớp nội mạc bên trong nang cũng hành kinh—máu bị giữ lại, cô đặc thành dịch nâu "chocolate" giàu hemosiderin.
@@ -36,7 +36,7 @@ Tiếp cận có thể **nội khoa** hoặc **ngoại khoa**.
 - Siêu âm đủ để chẩn đoán; MRI chỉ khi nghi ngờ lạc nội mạc sâu hay đau dữ dội.
   ![Nang lạc tuyến nội mạc tử cung ở buồng trứng](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/nang-lac-tuyen-noi-mac-tu-cung-tren-sieu-am.png)
 
-_Nang lạc tuyến nội mạc tử cung ở buồng trứng._
+  _Nang lạc tuyến nội mạc tử cung ở buồng trứng._
 
 - **CA125**: thường tăng cao nhưng không đặc hiệu (tăng ở cả endometrioma và u biểu mô dạng nội mạc tử cung).
 
@@ -65,11 +65,13 @@ _Nang lạc tuyến nội mạc tử cung ở buồng trứng._
      2. Giảm dự trữ buồng trứng (đúng).
      3. Hiệu quả trên kết quả hiếm muộn không chắc chắn.
 
+### Phân loại
+
 ![Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/AFS-ASRM.png)
 
 _Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)._
 
-## Ứ dịch vòi Fallope do di chứng nhiễm _Chlamydia trachomatis_
+## Ứ dịch vòi Fallope
 
 - Các tình trạng ưu tiên ngoại khoa: ứ dịch vòi, áp-xe vòi-buồng trứng không đáp ứng kháng sinh, lao vòi trứng.
 - **Siêu âm**: ứ dịch vòi hình ảnh dãn, chứa dịch – thường hai bên.

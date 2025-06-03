@@ -29,28 +29,25 @@ Các cấu trúc này tự thoái lui khi yếu tố kích thích biến mất. 
 - Nguyên nhân: phản hồi steroid bị triệt tiêu (ví dụ dậy thì, quanh mãn kinh, steroid ngoại sinh, stress).
 - Cấu trúc: thành lót tế bào hạt xung quanh tế bào vỏ, lòng nang chứa estrogen; đôi khi chỉ còn tế bào vỏ nếu tế bào hạt tróc rời; nang có thể đạt 5–8 cm, tồn tại xuyên chu kỳ.
 
-**Triệu chứng**
+- **Triệu chứng**:
 
-- Rối loạn kinh (vắng progesterone).
-- Đau bụng nhẹ–vừa, lệch một bên, kèm rối loạn kinh.
-- Thăm khám thấy nang di động.
-- Nang có thể vỡ gây đau cấp, nhưng thường tự lành, chỉ cần giảm đau.
+  - Rối loạn kinh (vắng progesterone).
+  - Đau bụng nhẹ–vừa, lệch một bên, kèm rối loạn kinh.
+  - Thăm khám thấy nang di động.
+  - Nang có thể vỡ gây đau cấp, nhưng thường tự lành, chỉ cần giảm đau.
 
-**Điều trị**
+    ![Nang noãn nang trên siêu âm](../../../../assets/phu-khoa/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-noan-nang-tren-sieu-am.png)
 
-- Hầu hết tự mất trong 6 tuần, không cần can thiệp.
-- COC không tiêu nang mà chỉ ngăn nang mới hình thành, chờ nang cũ thoái triển.
-- Nếu nang tồn tại nhiều chu kỳ, cần chẩn đoán hình ảnh để loại trừ nang tân sinh.
+    _Nang đơn trên siêu âm, 5–8 cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ._
 
-  ![Nang noãn nang trên siêu âm](../../../../assets/phu-khoa/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-noan-nang-tren-sieu-am.png)
-
-  _Nang đơn trên siêu âm, 5–8 cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ._
+- **Điều trị**:
+  - Hầu hết tự mất trong 6 tuần, không cần can thiệp.
+  - COC không tiêu nang mà chỉ ngăn nang mới hình thành, chờ nang cũ thoái triển.
+  - Nếu nang tồn tại nhiều chu kỳ, cần chẩn đoán hình ảnh để loại trừ nang tân sinh.
 
 ## Nang hoàng thể
 
 - Hoàng thể hình thành sau phóng noãn, từ tế bào vỏ-hạt dưới tác dụng LH. Chức năng: tiết estrogen và progesterone, chuẩn bị làm tổ và duy trì thai. Progesterone gây feedback giảm GnRH/LH, dẫn đến ly giai hoàng thể.
-
-### Bất thường
 
 1. **Hoàng thể tồn lưu**
 

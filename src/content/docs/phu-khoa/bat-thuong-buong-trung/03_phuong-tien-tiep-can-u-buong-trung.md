@@ -84,9 +84,9 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 
   _O-RADS 5._
 
-  ![Phác đồ xử trí và phân loại O-RADS](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-xu-tri-va-phan-loai.png)
+![Phác đồ xử trí và phân loại O-RADS](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-xu-tri-va-phan-loai.png)
 
-  _Phác đồ xử trí và phân loại O-RADS._
+_Phác đồ xử trí và phân loại O-RADS._
 
 ### Siêu âm Doppler & hệ thống IOTA 2010
 
@@ -156,10 +156,11 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 - Phân tầng nguy cơ:
   - **Nguy cơ cao** nếu điểm ROMA ≥ cut-off (lưu ý khác nhau ở nhóm trước/sau mãn kinh).
   - **Nguy cơ thấp** nếu < cut-off.
-- NPV rất cao ( 99%); ROMA phát hiện 94% ung thư biểu mô buồng trứng vào nhóm nguy cơ cao.  
-  :::caution[Lưu ý]
-  ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
-  :::
+- NPV rất cao ( 99%); ROMA phát hiện 94% ung thư biểu mô buồng trứng vào nhóm nguy cơ cao.
+
+:::caution[Lưu ý]
+ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
+:::
 
 ### AFP
 

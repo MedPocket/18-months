@@ -12,16 +12,16 @@ U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô
 
 ## Yếu tố nguy cơ
 
-- **Tuổi**: tăng đến tiền mãn kinh, giảm sau mãn kinh
+- **Tuổi**: tăng đến tiền mãn kinh, giảm sau mãn kinh.
 - **Di truyền**: đột biến MED12, trisomy 12, đảo đoạn 12q, 6p…
-- **Nội tiết/chuyển hóa**: béo phì, kháng insulin, tăng lipid, tăng huyết áp
-- **Gia đình**: mẹ/chị em gái có u xơ
+- **Nội tiết/chuyển hóa**: béo phì, kháng insulin, tăng lipid, tăng huyết áp.
+- **Gia đình**: mẹ/chị em gái có u xơ.
 
-### Yếu tố bảo vệ
+## Yếu tố bảo vệ
 
-- Đa sinh
-- Vận động thể lực
-- Ăn cá, rau xanh, vitamin A động vật
+- Đa sinh.
+- Vận động thể lực.
+- Ăn cá, rau xanh, vitamin A động vật.
 
 ## Phân loại FIGO (2011)
 
@@ -37,12 +37,14 @@ _Phân loại FIGO 2011._
 
 _Phân loại FIGO 2011._
 
+## Đặc điểm
+
 ### Lâm sàng
 
 - **Cơ năng**: cường/rong kinh, thống kinh, đau hạ vị, chèn ép bàng quang/niệu quản/trực tràng, thiếu máu
 - **Thực thể**: tử cung to, khối cứng, di động kém, sốt (thoái hóa)
 
-### Chẩn đoán hình ảnh
+### Hình ảnh
 
 - **Siêu âm thang xám**: khối giảm âm, giới hạn rõ, bóng giảm âm sau.
   ![U xơ tử cung trên siêu âm](../../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-tren-sieu-am.png)
@@ -89,7 +91,7 @@ _Phân loại FIGO 2011._
 
   _Leiomyosarcoma trên MRI._
 
-## Chẩn đoán phân biệt
+## Phân biệt
 
 - Bệnh tuyến cơ tử cung (Adenomyosis).
 - Tử cung to do có thai.

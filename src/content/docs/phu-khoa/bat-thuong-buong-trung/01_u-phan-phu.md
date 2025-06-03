@@ -13,7 +13,7 @@ Phần phụ (adnexa) chỉ tất cả các cấu trúc nằm trong khoang giữ
 
 Khi xuất hiện khối ở vùng này, người ta thường gọi chung là **u phần phụ**. Trong số đó, **u nang buồng trứng** là loại hay gặp nhất (chiếm khoảng 90% các trường hợp), đặc biệt ở độ tuổi sinh sản.
 
-## Chẩn đoán
+## Đặc điểm
 
 ### Lâm sàng
 
@@ -42,10 +42,10 @@ Khi xuất hiện khối ở vùng này, người ta thường gọi chung là *
   - Đánh giá các dấu hiệu phản ứng viêm (đau điểm), phản ứng phúc mạc, phản ứng màng bụng.
   - Phối hợp thăm khám trực tràng để phân biệt với các khối tiêu hóa nếu cần.
 
-**Chẩn đoán phân biệt**  
+**Phân biệt**  
 Do vị trí giải phẫu gần kề, khối u phần phụ có thể bị nhầm với:
 
-- Nhiễm trùng đường tiết niệu (cystitis, pyelonephritis)
+- Nhiễm trùng đường tiết niệu (cystitis, pyelonephritis).
 - Sỏi thận/niệu quản.
 - Thận dị dạng hoặc di chuyển thấp.
 - Viêm ruột thừa.
@@ -92,10 +92,6 @@ Do vị trí giải phẫu gần kề, khối u phần phụ có thể bị nh�
     - M: Tình trạng tiền mãn kinh (M = 1 nếu chưa mãn kinh, M = 3 nếu đã mãn kinh)
     - CA125: Giá trị thực nghiệm.
 
-  ![Theo dõi u phần phụ](../../../../assets/phu-khoa/u-phan-phu/theo-doi-u-phan-phu.jpeg)
-
-  _Theo dõi u phần phụ – Bệnh viện Từ Dũ._
-
 ## Tiếp cận khối u phần phụ
 
 Mọi vấn đề liên quan đến các khối ở phần phụ đều liên quan đến các câu hỏi chính sau:
@@ -109,6 +105,10 @@ Khám lâm sàng toàn bộ vùng chậu là cần thiết trong đánh giá b�
 Các kết quả thăm khám phải xét trong mối liên hệ với các hoạt động chức năng của buồng trứng. Cũng vì liên quan đến hoạt động chức năng của buồng trứng nên việc đánh giá kết quả thăm khám cũng phải xem xét tương quan với buồng trứng trong các giai đoạn của cuộc đời của người phụ nữ, tức trước dậy thì, dậy thì, trong độ tuổi sinh sản và mãn kinh, cũng như việc dùng các nội tiết có nguồn gốc ngoại lai.  
 Phải luôn cảnh giác trước khả năng có hay không có ác tính trước mọi cấu trúc tân lập ở buồng trứng.  
 Siêu âm là phương tiện đầu tay trong đánh giá khối u phần phụ.
+
+![Theo dõi u phần phụ](../../../../assets/phu-khoa/u-phan-phu/theo-doi-u-phan-phu.jpeg)
+
+_Theo dõi u phần phụ – Bệnh viện Từ Dũ._
 
 ## Tóm tắt
 
