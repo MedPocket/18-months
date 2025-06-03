@@ -7,6 +7,8 @@ Hệ vi khuẩn âm đạo (vaginal microbiome) của phụ nữ trong độ tu�
 
 Mật độ vi khuẩn trong dịch âm đạo rất cao, khoảng 10⁸–10⁹ vi khuẩn trên mỗi mL. Ở phụ nữ trong độ tuổi sinh sản bình thường, **Lactobacillus spp.** (khuẩn Döderlein) chiếm ưu thế. Đây là vi khuẩn Gram dương, hình que, kỵ khí không bắt buộc, thuộc nhóm vi khuẩn lactic acid, có khả năng chuyển hóa glycogen thành lactic acid.
 
+## Hệ vi khuẩn âm đạo
+
 ### Vai trò của Lactobacillus
 
 - **Duy trì pH âm đạo**: Lactobacillus sản xuất lactic acid giúp giữ pH âm đạo ở mức 3.5–4.5, tạo môi trường không thuận lợi cho vi sinh vật gây bệnh.
@@ -100,7 +102,7 @@ Tiết dịch âm đạo bất thường (abnormal vaginal discharge – AVD) l�
    - Chảy máu sau giao hợp
    - Đau vùng chậu, sốt (nặng, cảnh báo viêm sâu như PID)
 
-## Sơ đồ xử trí tiết dịch âm đạo bất thường
+## Xử trí tiết dịch âm đạo bất thường
 
 ![Sơ đồ xử trí tiết dịch âm đạo bất thường theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
 
