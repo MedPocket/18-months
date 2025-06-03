@@ -83,7 +83,7 @@ Một số rối loạn thường gặp trong lâm sàng:
 
 - Rau thai hình thành từ cả phía mẹ và phía con, hoàn thiện vào khoảng tháng thứ 4.
 - Chức năng chính: trao đổi chất, nội tiết, miễn dịch.
-- Hình dạng: đĩa tròn, ~20 cm đường kính, nặng ~500g.
+- Hình dạng: đĩa tròn, 20 cm đường kính, nặng 500g.
 - Mỗi rau gồm 10–38 múi với nhiều gai rau.
 
 ## Nguồn tham khảo

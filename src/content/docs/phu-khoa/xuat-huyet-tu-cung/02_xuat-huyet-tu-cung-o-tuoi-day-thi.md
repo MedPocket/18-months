@@ -216,7 +216,7 @@ Chỉ định khi chảy máu nặng, mất máu nhiều, hoặc nội mạc bon
 3. **Chọn lựa Progestogen**:
 
    - Sau 7–10 ngày dùng estrogen, thêm dydrogesterone 10 mg × 2/ngày trong 10–14 ngày.
-   - Hoặc dùng phối hợp COC (Ethinyl estradiol + Levonorgestrel) liều trung bình (Ethinyl estradiol ~ 30 µg) liên tục trong 21–28 ngày.
+   - Hoặc dùng phối hợp COC (Ethinyl estradiol + Levonorgestrel) liều trung bình (Ethinyl estradiol  30 µg) liên tục trong 21–28 ngày.
 
 4. **Theo dõi**:
    - Bé gái cần uống đều đặn, ghi lại ngày bắt đầu và kết thúc chảy máu.

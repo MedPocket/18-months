@@ -27,7 +27,7 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 
 ## Nguyên nhân (4T)
 
-1. **Tone** – Đờ tử cung (~80%).
+1. **Tone** – Đờ tử cung (80%).
 2. **Tissue** – Sót rau hoặc rau bám bất thường.
 3. **Trauma** – Tổn thương đường sinh dục (rách tầng sinh môn, cổ tử cung, âm đạo).
 4. **Thrombin** – Rối loạn đông máu (có sẵn hoặc mắc mới).
@@ -66,7 +66,7 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 
 - Mất máu cấp → giảm thể tích tuần hoàn → choáng giảm thể tích → thiếu oxy mô.
 - Mức độ và tốc độ mất máu quyết định tình trạng lâm sàng (từ bù trừ tốt đến shock, tử vong).
-- Giai đoạn 3 chuyển dạ, máu mất trung bình ~300 mL, nhưng có thể đến >1 000 mL mổ lấy thai.
+- Giai đoạn 3 chuyển dạ, máu mất trung bình 300 mL, nhưng có thể đến >1 000 mL mổ lấy thai.
 
 ## Điều trị & Phòng ngừa
 

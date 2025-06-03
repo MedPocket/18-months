@@ -25,7 +25,7 @@ BV xảy ra khi có sự thay đổi về tỷ lệ vi khuẩn trong hệ vi sin
 
 1. **Giảm Lactobacilli**
 
-   - Lactobacilli (chủ yếu là Lactobacillus crispatus, L. jensenii) tạo ra acid lactic, giữ pH âm đạo ~3,8–4,5 và tiết ra hydrogen peroxide diệt khuẩn.
+   - Lactobacilli (chủ yếu là Lactobacillus crispatus, L. jensenii) tạo ra acid lactic, giữ pH âm đạo 3,8–4,5 và tiết ra hydrogen peroxide diệt khuẩn.
    - Khi Lactobacilli suy giảm (do stress, kháng sinh, thay đổi nội tiết), pH âm đạo tăng, tạo điều kiện cho vi khuẩn yếm khí phát triển.
 
 2. **Tăng vi khuẩn yếm khí**
@@ -64,7 +64,7 @@ BV được chẩn đoán dựa trên lâm sàng và xét nghiệm thường quy
 3. **pH âm đạo > 4,5**: Dùng giấy quỳ hoặc đo pH trực tiếp tại niêm mạc thành âm đạo.
 4. **Whiff test (+)**: Khi nhỏ dung dịch KOH 10% vào dịch âm đạo, có mùi hôi đặc trưng “cá thối”.
 
-**Độ nhạy (Sensitivity) ~70%, độ đặc hiệu (Specificity) ~94%** so với các xét nghiệm tham chiếu khác.  
+**Độ nhạy (Sensitivity) 70%, độ đặc hiệu (Specificity) 94%** so với các xét nghiệm tham chiếu khác.  
 :::
 
 ### Điểm Nugent
@@ -95,7 +95,7 @@ _Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0–10)._
 - **4–6:** Khu vực trung gian (nghi ngờ, cần theo dõi hoặc xét nghiệm lại).
 - **≥7:** Dương tính với BV (mật độ vi khuẩn yếm khí cao, Lactobacilli giảm).
 
-Độ nhạy ~89%, độ đặc hiệu ~83% so với tiêu chuẩn Amsel.
+Độ nhạy 89%, độ đặc hiệu 83% so với tiêu chuẩn Amsel.
 
 ### Tiêu chuẩn Bệnh viện Từ Dũ
 

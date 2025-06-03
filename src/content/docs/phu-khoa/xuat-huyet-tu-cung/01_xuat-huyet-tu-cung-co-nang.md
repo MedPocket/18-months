@@ -14,11 +14,11 @@ Xuất huyết tử cung chức năng thường xảy ra khi nội mạc tử cu
 
 ## Nguyên nhân
 
-### Tuổi dậy thì (~ 20%)
+### Tuổi dậy thì ( 20%)
 
 Trong vòng 18 tháng đầu sau khi hành kinh, trục hạ đồi - tuyến yên - buồng trứng chưa trưởng thành hoàn toàn nên có thể không đáp ứng đầy đủ với estrogen và progesterone, dẫn đến tình trạng không phóng noãn và xuất huyết tử cung chức năng.
 
-### Tuổi tiền mãn kinh (~ 50%)
+### Tuổi tiền mãn kinh ( 50%)
 
 Ở phụ nữ tuổi 40–50, số lượng và chất lượng nang noãn đều giảm. Các nang noãn phát triển nhưng không tạo đỉnh LH để gây phóng noãn, do nồng độ gonadotropin cơ bản tăng cao (giảm Inhibin B). Nang noãn tiếp tục sản xuất lượng nhỏ estrogen kéo dài, không có progesterone đối kháng, gây tăng sinh nội mạc tử cung và xuất huyết tử cung chức năng.
 

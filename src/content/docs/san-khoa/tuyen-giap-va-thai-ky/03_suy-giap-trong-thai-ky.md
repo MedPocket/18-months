@@ -30,7 +30,7 @@ description: Ảnh hưởng của suy giáp đến mẹ và thai nhi, bao gồm 
 
 Thiếu hormone tuyến giáp trong thai kỳ và giai đoạn sơ sinh sớm gây ảnh hưởng lớn đến sự phát triển thần kinh, đặc biệt là trong **3 năm đầu đời**.
 
-- **Tỷ lệ nhược giáp bẩm sinh**: ~1/4000.
+- **Tỷ lệ nhược giáp bẩm sinh**: 1/4000.
 - Nguyên nhân: loạn sản tuyến giáp, rối loạn tổng hợp hormone, dùng thuốc kháng giáp trong thai kỳ.
 - **Bướu giáp sơ sinh**: do mẹ dùng thuốc chứa iod (si rô ho, thuốc cản quang).
   - Dạng bướu giáp do iod: to, dễ gây tắc nghẽn.

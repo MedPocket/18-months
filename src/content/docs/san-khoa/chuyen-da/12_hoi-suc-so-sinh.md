@@ -34,7 +34,7 @@ _Bảng điểm APGAR._
 
 ## Những trẻ cần hồi sức
 
-Khoảng 10% trẻ sơ sinh cần hỗ trợ, chỉ ~1% cần hồi sức tích cực (thông khí/ấn ngực/thuốc).  
+Khoảng 10% trẻ sơ sinh cần hỗ trợ, chỉ 1% cần hồi sức tích cực (thông khí/ấn ngực/thuốc).  
 **Dấu hiệu nguy cơ**:
 
 - Không tự thở hoặc khóc.

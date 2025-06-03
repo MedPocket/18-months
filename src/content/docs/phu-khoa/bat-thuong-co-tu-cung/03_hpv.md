@@ -9,7 +9,7 @@ Human Papilloma Virus (HPV) là virus gây u nhú ở người, nguyên nhân h�
 
 ### Cấu tạo
 
-HPV thuộc họ Papovaviridae, đường kính ~55 nm, không có màng lipid. Capsid gồm 72 capsom hình sao 5 cánh, chính bởi protein L1; protein L2 ít hơn, giữ vai trò nâng đỡ.
+HPV thuộc họ Papovaviridae, đường kính 55 nm, không có màng lipid. Capsid gồm 72 capsom hình sao 5 cánh, chính bởi protein L1; protein L2 ít hơn, giữ vai trò nâng đỡ.
 
 Bên trong là DNA kép vòng, dài 7.904 bp, gồm các gen:
 
@@ -24,7 +24,7 @@ _Sơ đồ DNA 7.904 bp của HPV type 16._
 
 ### Các type
 
-Hơn 200 type HPV đã được định danh, trong đó ~85 type đã mô tả đầy đủ gene; > 40 type lây qua quan hệ tình dục. Do chỉ có capsid, HPV bền ngoài môi trường, có thể lây gián tiếp qua tiếp xúc đồ dùng.
+Hơn 200 type HPV đã được định danh, trong đó 85 type đã mô tả đầy đủ gene; > 40 type lây qua quan hệ tình dục. Do chỉ có capsid, HPV bền ngoài môi trường, có thể lây gián tiếp qua tiếp xúc đồ dùng.
 
 - **Nhóm da**: tổn thương ở da tay, chân.
 - **Nhóm niêm mạc**: xâm nhiễm tế bào đáy niêm mạc môi, miệng, hô hấp, cơ quan sinh dục.
@@ -73,9 +73,9 @@ _Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ ch
 
 | Loại vaccine | Type bảo vệ                       | Phổ bảo vệ                                               |
 | ------------ | --------------------------------- | -------------------------------------------------------- |
-| **2vHPV**    | 16, 18                            | Ngừa ung thư cổ tử cung (~66% trường hợp)                |
+| **2vHPV**    | 16, 18                            | Ngừa ung thư cổ tử cung (66% trường hợp)                |
 | **4vHPV**    | 6, 11, 16, 18                     | Ngừa ung thư cổ tử cung và mụn cóc sinh dục (type 6, 11) |
-| **9vHPV**    | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên ~81–90% |
+| **9vHPV**    | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên 81–90% |
 
 _Phổ bảo vệ của vaccine 2vHPV, 4vHPV và 9vHPV_
 

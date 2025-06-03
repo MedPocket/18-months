@@ -3,11 +3,11 @@ title: U nguyên bào nuôi
 description: U nguyên bào nuôi (Gestational Trophoblastic Neoplasia – GTN) là tình trạng tăng sinh ác tính của tế bào nguyên bào nuôi phát sinh sau các biến cố thai kỳ, bao gồm thai trứng, thai lưu, sảy thai, thai đủ tháng hoặc thai ngoài tử cung. Bệnh có thể xâm lấn tại chỗ, di căn xa (phổi, não, gan…) và cần chẩn đoán, phân giai đoạn, điều trị hóa chất/phẫu thuật kịp thời để đạt tiên lượng tốt.
 ---
 
-Xuất hiện sau thai trứng (~ 60%); thai lưu/sảy thai (~ 30%); thai đủ tháng hoặc thai ngoài tử cung (~ 10%). Thường khởi đầu bằng xuất huyết âm đạo kéo dài, có thể kèm đau vùng hạ vị hoặc dấu hiệu di căn.
+Xuất hiện sau thai trứng ( 60%); thai lưu/sảy thai ( 30%); thai đủ tháng hoặc thai ngoài tử cung ( 10%). Thường khởi đầu bằng xuất huyết âm đạo kéo dài, có thể kèm đau vùng hạ vị hoặc dấu hiệu di căn.
 
 ## Các thể lâm sàng
 
-- **Thai trứng xâm lấn (Invasive mole).** Tổ chức nguyên bào nuôi phồng nước xâm nhập vào cơ tử cung, gây chảy máu nặng và có thể thủng tử cung. Tiến triển từ ~ 15 % thai trứng. β-hCG thường 20 000–30 000 mIU/mL. Siêu âm Doppler thấy khối tăng sinh mạch trong cơ. Giải phẫu bệnh sau cắt tử cung ghi nhận gai rau thoái hóa nước trong cơ tử cung.
+- **Thai trứng xâm lấn (Invasive mole).** Tổ chức nguyên bào nuôi phồng nước xâm nhập vào cơ tử cung, gây chảy máu nặng và có thể thủng tử cung. Tiến triển từ  15 % thai trứng. β-hCG thường 20 000–30 000 mIU/mL. Siêu âm Doppler thấy khối tăng sinh mạch trong cơ. Giải phẫu bệnh sau cắt tử cung ghi nhận gai rau thoái hóa nước trong cơ tử cung.
 - **U nguyên bào nuôi tại vị trí rau bám (Placental Site Trophoblastic Tumour – PSTT).** Khối u phát sinh từ tế bào nuôi nơi bám rau, β-hCG thường thấp (16–400 mIU/mL). Ít đáp ứng hóa chất, cần phẫu thuật triệt căn.
 - **Ung thư nguyên bào nuôi (Choriocarcinoma).** Tân lập ác tính toàn tế bào nuôi, không còn gai rau; khởi phát sau thai trứng, thai bình thường hoặc tự phát không liên quan thai kỳ (non-gestational). Di căn xa sớm (phổi, não, gan…).
 - **U nguyên bào nuôi dạng biểu mô (Epithelioid Trophoblastic Tumour – ETT).** Hiếm, tế bào giống biểu mô nhau thai, diễn tiến chậm, kháng hóa chất, ưu tiên phẫu thuật.
@@ -70,7 +70,7 @@ _Phân loại NIH (Mỹ)_
 
 ### Nhóm nguy cơ thấp (FIGO ≤ 6 điểm; NIH không di căn)
 
-- **Đơn hóa chất** (khả năng khỏi ~ 98%) hoặc kèm cắt tử cung nếu đã đủ con.
+- **Đơn hóa chất** (khả năng khỏi  98%) hoặc kèm cắt tử cung nếu đã đủ con.
 - **Phác đồ Methotrexate (MTX)**:
   - MTX 5 ngày: 0,4 mg/kg/ngày × 5 ngày (≤ 25 mg/ngày), lặp lại mỗi 14 ngày.
   - MTX/FA 8 ngày: MTX 1 mg/kg (hoặc 50 mg) ngày 1, 3, 5, 7 + Folinic acid 0,1 mg/kg (hoặc 15 mg) ngày 2, 4, 6, 8, lặp lại mỗi 14 ngày.

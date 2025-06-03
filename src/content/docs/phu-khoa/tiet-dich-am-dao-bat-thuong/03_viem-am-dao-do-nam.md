@@ -1,6 +1,6 @@
 ---
 title: Viêm âm đạo do nấm Candida
-description: Viêm âm đạo do nấm Candida (Vulvo-Vaginal Candidiasis - VVC) là tình trạng nhiễm nấm gây viêm âm hộ - âm đạo, thường do Candida albicans. Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt VVC trong năm gần nhất. Đôi khi người bạn tình nam cũng có thể bị nhiễm nấm dương vật (~10%), nhưng VVC không được xếp vào nhóm bệnh lây truyền qua đường tình dục.
+description: Viêm âm đạo do nấm Candida (Vulvo-Vaginal Candidiasis - VVC) là tình trạng nhiễm nấm gây viêm âm hộ - âm đạo, thường do Candida albicans. Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt VVC trong năm gần nhất. Đôi khi người bạn tình nam cũng có thể bị nhiễm nấm dương vật (10%), nhưng VVC không được xếp vào nhóm bệnh lây truyền qua đường tình dục.
 ---
 
 Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm hộ - âm đạo do Candida sp (Vulvo-Vaginal Candidiasis – VVC) trong vòng 1 năm gần nhất. Có tới 10% bạn tình nam bị nhiễm nấm dương vật. VVC không được xem như bệnh lây truyền qua đường tình dục.
@@ -97,13 +97,13 @@ _Tiết dịch âm đạo đặc, các mảng trắng bám thành âm đạo, ni
 - **Miconazole, Clotrimazole, Butoconazole, Tioconazole, Terconazole** (dạng kem hoặc viên đặt).
   - Ví dụ: Clotrimazole 200 mg đặt âm đạo mỗi ngày x 3 ngày, hoặc Miconazole 100 mg đặt mỗi ngày x 7 ngày.
 - **Fluconazole uống** 150 mg liều đơn.
-  - Tác dụng nhanh, hiệu quả ~90%.
+  - Tác dụng nhanh, hiệu quả 90%.
   - Fluconazole liều thấp (150 mg) an toàn trong thai kỳ. Liều cao hàng ngày (400–800 mg) có liên quan đến nguy cơ khuyết tật thai nhi.
 - **Nystatin** (dạng viên đặt âm đạo) là lựa chọn an toàn khi mang thai.
 
-Tái phát sau 1 tháng chiếm ~20–30% trường hợp.
+Tái phát sau 1 tháng chiếm 20–30% trường hợp.
 
-- Nếu tái phát, có thể **Fluconazole uống 150 mg mỗi tuần x 6 tháng** (giảm tái phát ~50%).
+- Nếu tái phát, có thể **Fluconazole uống 150 mg mỗi tuần x 6 tháng** (giảm tái phát 50%).
 - Ngoài ra, liệu pháp đặt âm đạo 1–2 lần/tuần cũng được dùng để dự phòng.
 
 **Bạn tình:**

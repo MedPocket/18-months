@@ -177,7 +177,7 @@ U mô đệm hoặc từ dây giới bào, đơn thuần hoặc hỗn hợp, chi
 #### U tế bào hạt (Granulosa cell tumour)
 
 - Ác tính thấp, đặc trưng vi thể tế bào hạt, tiết estrogen.
-- Thường đơn bên, kích thước ~15 cm, dạng nang, mô mềm/chắc, mặt cắt chứa dịch máu. Vi thể: thể Call-Exner.
+- Thường đơn bên, kích thước 15 cm, dạng nang, mô mềm/chắc, mặt cắt chứa dịch máu. Vi thể: thể Call-Exner.
 - 80–90% chẩn đoán giai đoạn I, 95% dạng mô học trưởng thành (adult granulosa tumour, sau mãn kinh), 5% dạng thiếu niên (juvenile granulosa tumour, tuổi dậy thì–sinh sản).
 - Triệu chứng: cường estrogen → tăng sinh nội mạc, xuất huyết bất thường, dậy thì sớm, đôi khi đau do vỡ u.
 

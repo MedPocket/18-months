@@ -81,7 +81,7 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 ## Quản lý thai kỳ ở thai phụ β-thalassemia đồng hợp tử
 
 - Đa chuyên khoa: sản khoa, huyết học, gây mê, nữ hộ sinh.
-- Duy trì Hb ~10 g/dL bằng truyền máu định kỳ; kiểm soát ferritin < 1.000 ng/mL.
+- Duy trì Hb 10 g/dL bằng truyền máu định kỳ; kiểm soát ferritin < 1.000 ng/mL.
 - Siêu âm tim, gan, tuyến giáp mỗi tam cá nguyệt.
 - Sàng lọc tiểu đường: lần đầu 16 tuần, lặp lại 24–28 tuần.
 - Siêu âm đánh giá tăng trưởng thai: 24–26 tuần rồi mỗi 4 tuần.

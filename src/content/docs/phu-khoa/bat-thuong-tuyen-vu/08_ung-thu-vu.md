@@ -50,7 +50,7 @@ Các công cụ chính được sử dụng để tầm soát ung thư vú gồm
 | **Nhũ ảnh**        | 86          | 90              | 95      |
 | **Siêu âm**        | 90          | 92              | 95      |
 | **MRI**            | 98          | 75              | 80      |
-| **FNA**            | 95          | 95              | 99.8    |
+| **FNA**            | 95          | 95              | 99,8    |
 | **Sinh thiết lõi** | 85–98       | 95              | 100     |
 
 _Giá trị của các phương tiện chẩn đoán và tầm soát ung thư vú._

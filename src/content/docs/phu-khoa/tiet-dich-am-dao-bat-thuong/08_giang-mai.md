@@ -9,7 +9,7 @@ Xoắn khuẩn giang mai (_Treponema pallidum_) rất yếu, chỉ sống vài g
 
 ### Các giai đoạn của giang mai
 
-Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường ~ 21 ngày). Nếu không được chẩn đoán và điều trị, bệnh tồn tại nhiều năm và phân chia thành hai nhóm chính:
+Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường  21 ngày). Nếu không được chẩn đoán và điều trị, bệnh tồn tại nhiều năm và phân chia thành hai nhóm chính:
 
 - **Giang mai sớm (≤ 2 năm kể từ khi nhiễm):**
 
@@ -31,7 +31,7 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường ~ 21 ngày).
 
   - Xuất hiện tại nơi xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn; có thể ở miệng khi quan hệ đường miệng).
   - Hình thức: vết loét đơn hoặc ít, rìa gồ, nền cứng, không đau hoặc ít đau.
-  - Xuất hiện sau 9–90 ngày (trung bình ~21 ngày).
+  - Xuất hiện sau 9–90 ngày (trung bình 21 ngày).
   - Tự lui sau 3–10 tuần mà không cần điều trị; nhiều người không để ý hoặc nhầm với vết loét lành tính.
 
 - **Hạch ngoại biên:**
@@ -292,7 +292,7 @@ Các xét nghiệm nhanh có:
    - Xét nghiệm nhanh đặc hiệu; nếu (–) xem như không mắc, không điều trị.
    - Nếu (+), tiêm ngay mũi Benzathin penicillin đầu tiên, sau đó làm RPR:
      - RPR (+): tiếp tục điều trị theo giai đoạn (sớm hoặc muộn).
-     - RPR (–): xét nghiệm lại sau ~1 tháng để loại trừ âm tính giả giai đoạn sớm.
+     - RPR (–): xét nghiệm lại sau 1 tháng để loại trừ âm tính giả giai đoạn sớm.
 
 4. **Chiến lược D (Tuyến tỉnh/trung ương):**
    - Xét nghiệm RPR/VDRL tại phòng xét nghiệm chuyên nghiệp; nếu (+), làm thêm TPPA/TPHA (cùng mẫu).

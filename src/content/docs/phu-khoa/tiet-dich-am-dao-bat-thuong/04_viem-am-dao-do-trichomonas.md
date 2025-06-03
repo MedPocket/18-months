@@ -50,7 +50,7 @@ Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vagin
 
    - Lấy dịch âm đạo (hoặc niệu đạo nam giới) pha loãng với NaCl 0,9%, soi tươi ngay dưới kính hiển vi ×400–×1000.
    - Thấy trùng roi T. vaginalis di động, kích thước 10–20 µm, chuyển động lắc lư, kèm tăng bạch cầu trung tính (≥10 bạch cầu/khung trung bình).
-   - Độ nhạy ~ 60–70%, phụ thuộc chất lượng mẫu và kinh nghiệm người soi.
+   - Độ nhạy  60–70%, phụ thuộc chất lượng mẫu và kinh nghiệm người soi.
 
 2. **Nhuộm Gram:**
 
@@ -60,12 +60,12 @@ Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vagin
 3. **Cấy tế bào (culture):**
 
    - Môi trường đặc biệt (InPouch TV, Diamond’s medium).
-   - Độ nhạy cao (≥ 75–95%), phát hiện được cả khi soi tươi âm tính. Thời gian có kết quả ~2–5 ngày.
+   - Độ nhạy cao (≥ 75–95%), phát hiện được cả khi soi tươi âm tính. Thời gian có kết quả 2–5 ngày.
 
 4. **Xét nghiệm kháng nguyên nhanh (Rapid antigen test):**
 
    - Sử dụng kháng thể monoclonal phát hiện kháng nguyên T. vaginalis trong dịch âm đạo.
-   - Độ nhạy ~80%, độ đặc hiệu ~ 98%. Cho kết quả trong vòng 10–30 phút.
+   - Độ nhạy 80%, độ đặc hiệu  98%. Cho kết quả trong vòng 10–30 phút.
 
 5. **Phản ứng khuếch đại acid nucleic (NAAT, PCR):**
    - Độ nhạy và độ đặc hiệu > 95%.

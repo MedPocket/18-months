@@ -42,7 +42,7 @@ Nếu TVS không thấy túi thai ở tuổi siêu âm 5.5–6 tuần, cần xem
 
 ## Định lượng β-hCG là tiếp cận thứ cấp
 
-- Diễn biến β-hCG. Mức tăng gấp đôi sau ~48 giờ ở thai bình thường.
+- Diễn biến β-hCG. Mức tăng gấp đôi sau 48 giờ ở thai bình thường.
 - Ngưỡng phân định. β-hCG >1,500–2,000 IU/L kèm không thấy túi thai trong tử cung gợi ý thai ngoài tử cung.
 
 Sau khi xác định túi thai có phôi và tim thai, vai trò β-hCG giảm.

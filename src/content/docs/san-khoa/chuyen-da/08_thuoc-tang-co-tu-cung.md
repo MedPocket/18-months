@@ -96,7 +96,7 @@ _Thuốc tăng co tử cung và hồi phục tử cung._
 
 - **Cơ chế**: tương tự oxytocin, gắn thụ thể mạnh và kéo dài.
 - **Liều**: 100 µg tiêm bắp một lần sau sổ rau.
-- **Thời gian bán hủy**: ~40 phút; co tử cung kéo dài 1–2 giờ.
+- **Thời gian bán hủy**: 40 phút; co tử cung kéo dài 1–2 giờ.
 - **Tác dụng phụ**: đau co tử cung, buồn nôn, bốc hỏa.
 
 ### Ergot alkaloids (Ergometrine / Methylergonovine)

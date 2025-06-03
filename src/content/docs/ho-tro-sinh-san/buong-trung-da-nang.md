@@ -111,7 +111,7 @@ Mục tiêu: gây phóng noãn đơn noãn, gần với sinh lý, tránh quá k�
 #### Nội soi đốt điểm buồng trứng đa nang
 
 - Dành cho người kháng CC và thất bại với gonadotropin.
-- Đốt 4–10 điểm, sâu ~4 mm, công suất 40 W × 4 giây.
+- Đốt 4–10 điểm, sâu 4 mm, công suất 40 W × 4 giây.
 - Theo dõi hiệu quả 3–6 tháng; không lặp lại nếu không hiệu quả.
 
 #### Thụ tinh trong ống nghiệm (IVF/ICSI)

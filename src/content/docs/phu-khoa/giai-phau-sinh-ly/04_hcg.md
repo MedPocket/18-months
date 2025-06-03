@@ -25,7 +25,7 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 
 ## Chuyển hóa
 
-- **T½** ~36 h (LH ~20 phút) → duy trì tác dụng lâu dài.
+- **T½** 36 h (LH 20 phút) → duy trì tác dụng lâu dài.
 - Thải trừ: hCG nguyên vẹn, phân mảnh α/β, thoái giáng → phát hiện trong cả huyết thanh và nước tiểu.
 
 ## Chức năng
@@ -50,8 +50,8 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 ## Động học β-hCG
 
 - **Bình thường không có thai**: < 5 mIU/mL.
-- **Có thai**: > 25 mIU/mL (que thử ~20–25 mIU/mL).
-- **Tăng gấp đôi** mỗi ~48 giờ trong 6 tuần đầu; đỉnh 8–10 tuần (~100.000 mIU/mL); sau giảm đạt ổn định 16–20 tuần.
+- **Có thai**: > 25 mIU/mL (que thử 20–25 mIU/mL).
+- **Tăng gấp đôi** mỗi 48 giờ trong 6 tuần đầu; đỉnh 8–10 tuần (100.000 mIU/mL); sau giảm đạt ổn định 16–20 tuần.
 
 **Động học sau sẩy/spontaneous loss**
 

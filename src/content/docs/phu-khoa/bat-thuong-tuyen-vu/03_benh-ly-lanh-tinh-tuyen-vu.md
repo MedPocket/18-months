@@ -72,7 +72,7 @@ _(Trái, trên) Siêu âm bướu sợi-tuyến: khối giảm âm, bờ đa cun
 ## Bướu diệp thể
 
 **Định nghĩa**  
-Bướu diệp thể (Phyllodes tumor) là khối u phát triển nhanh, xuất phát từ mô đệm của tuyến vú. Bướu được chia theo mô học làm ba loại: lành (benign, ~ 60%), giáp biên (borderline, ~ 20%) và ác tính (malignant, ~ 20%).
+Bướu diệp thể (Phyllodes tumor) là khối u phát triển nhanh, xuất phát từ mô đệm của tuyến vú. Bướu được chia theo mô học làm ba loại: lành (benign,  60%), giáp biên (borderline,  20%) và ác tính (malignant,  20%).
 
 **Đặc điểm dịch tễ**
 
@@ -84,7 +84,7 @@ Bướu diệp thể (Phyllodes tumor) là khối u phát triển nhanh, xuất 
 - Khối to, chắc, di động, thường không đau.
 - Da vùng khối căng, mỏng, có thể giãn tĩnh mạch hoặc loét do khối chèn ép.
 - Núm vú hiếm khi bị xâm lấn, nếu có, là dấu hiệu nghi ngờ ác tính.
-- Hạch nách sờ thấy trong ~20% trường hợp (thường là phản ứng viêm, hiếm di căn).
+- Hạch nách sờ thấy trong 20% trường hợp (thường là phản ứng viêm, hiếm di căn).
 
 **Hình ảnh học**
 

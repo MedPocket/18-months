@@ -8,8 +8,8 @@ Thai trứng là tình trạng gặp trong 1/200–1/1000 ca thai nghén, do b�
 ## Epidemiology & yếu tố nguy cơ
 
 - **Tần suất**:
-  - Người châu Á: ~1/200–1/500 ca sinh sống.
-  - Người Âu/Mỹ: ~1/1.000–1/1.500 ca.
+  - Người châu Á: 1/200–1/500 ca sinh sống.
+  - Người Âu/Mỹ: 1/1.000–1/1.500 ca.
 - **Độ tuổi**: cao ở < 20 tuổi và > 40 tuổi.
 - **Yếu tố nguy cơ**:
   - Mang thai lần đầu.
@@ -37,7 +37,7 @@ Thai trứng là tình trạng gặp trong 1/200–1/1000 ca thai nghén, do b�
 ### Diễn biến
 
 - Sau hút nạo:
-  - ~80% tự hồi phục.
+  - 80% tự hồi phục.
   - 10–15% tiến triển thành thai trứng xâm lấn (invasive mole).
   - 5% tiến triển thành choriocarcinoma (u nguyên bào nuôi ác tính).
 - Thai trứng toàn phần có nguy cơ ác tính cao hơn Thai trứng bán phần.

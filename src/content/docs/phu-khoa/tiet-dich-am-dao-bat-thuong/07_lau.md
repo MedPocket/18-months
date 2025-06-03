@@ -76,16 +76,16 @@ Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng v�
 - **Ưu điểm**: Dễ thực hiện, giá thành thấp, có thể chẩn đoán sơ bộ nhanh ở nam giới có triệu chứng.
 - **Kỹ thuật**: Lấy bệnh phẩm dịch niệu đạo (nam) hoặc dịch cổ tử cung (nữ), nhuộm Gram, quan sát song cầu Gram âm nằm trong bạch cầu đa nhân trung tính (PMN).
 - **Độ nhạy**:
-  - Nam có triệu chứng: ~95%.
-  - Nam không triệu chứng: ~50–70%.
-  - Nữ: ~30–50% (kém nhạy hơn, thường dùng để loại trừ, vẫn cần xét nghiệm bổ sung nếu âm tính).
+  - Nam có triệu chứng: 95%.
+  - Nam không triệu chứng: 50–70%.
+  - Nữ: 30–50% (kém nhạy hơn, thường dùng để loại trừ, vẫn cần xét nghiệm bổ sung nếu âm tính).
 
 Nếu nhuộm Gram dương tính ở nam giới có triệu chứng, có thể chẩn đoán lậu ngay. Nếu âm tính hoặc ở nữ, cần kết hợp thêm xét nghiệm khác.
 
 #### Nuôi cấy
 
 - **Môi trường Thayer-Martin** bổ sung vancomycin (ức chế vi khuẩn Gram dương), colistin, nystatin (ức chế nấm), trimethoprim (ức chế Proteus).
-- **Độ nhạy**: 85–95% (niệu đạo, cổ tử cung); thấp hơn ở hầu họng và trực tràng (~50–70%).
+- **Độ nhạy**: 85–95% (niệu đạo, cổ tử cung); thấp hơn ở hầu họng và trực tràng (50–70%).
 - **Ưu điểm**:
   - Là tiêu chuẩn vàng để chẩn đoán.
   - Cho phép làm kháng sinh đồ (phải thiết để theo dõi kháng thuốc).

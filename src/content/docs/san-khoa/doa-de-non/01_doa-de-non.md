@@ -25,8 +25,8 @@ Tuổi thai tính theo tuần được chia như sau:
 
 Nguyên nhân sinh non chia làm hai nhóm chính:
 
-1. **Sinh non chỉ định** (~20 %): do các chỉ định y khoa như tiền sản giật, nhau tiền đạo, thai chậm tăng trưởng nặng gây suy thai.
-2. **Sinh non tự phát** (~80 %): thường do chuyển dạ sinh non hoặc vỡ ối non (PPROM - Preterm Premature Rupture Of Membranes).
+1. **Sinh non chỉ định** (20 %): do các chỉ định y khoa như tiền sản giật, nhau tiền đạo, thai chậm tăng trưởng nặng gây suy thai.
+2. **Sinh non tự phát** (80 %): thường do chuyển dạ sinh non hoặc vỡ ối non (PPROM - Preterm Premature Rupture Of Membranes).
 
 Các cơ chế bệnh sinh liên quan:
 
@@ -68,7 +68,7 @@ Các cơ chế bệnh sinh liên quan:
 
 - Tuần 19–23 + 6: nên khảo sát định kỳ.
 - Tuần 24, nếu không triệu chứng mà cổ tử cung < 25 mm → nguy cơ sinh non tăng.
-- Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ ~1 %.
+- Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ 1 %.
 
 ### Hình dạng lỗ trong và lỗ ngoài
 

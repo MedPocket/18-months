@@ -91,18 +91,18 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 1. **Xét nghiệm NAATs (Nucleic Acid Amplification Tests)**
 
    - **Ưu điểm**: Độ nhạy và độ đặc hiệu >95%, có thể sử dụng trên đa dạng mẫu: dịch niệu đạo, dịch cổ tử cung, dịch trực tràng, nước tiểu.
-   - **Thời gian trả kết quả**: ~1–4 giờ (tại phòng xét nghiệm chẩn đoán nhanh) hoặc 1–2 ngày.
+   - **Thời gian trả kết quả**: 1–4 giờ (tại phòng xét nghiệm chẩn đoán nhanh) hoặc 1–2 ngày.
    - **Ứng dụng**: Chẩn đoán xác định cho mọi trường hợp nghi ngờ, Sàng lọc phụ nữ <25 tuổi hoặc người có nhiều bạn tình.
 
 2. **Xét nghiệm kháng nguyên (DFA, ELISA)**
 
-   - **DFA (Direct Fluorescent Antibody)**: Nhuộm kháng thể huỳnh quang gắn kháng nguyên Chlamydia. Độ nhạy ~80–90%, độ đặc hiệu ~95%.
+   - **DFA (Direct Fluorescent Antibody)**: Nhuộm kháng thể huỳnh quang gắn kháng nguyên Chlamydia. Độ nhạy 80–90%, độ đặc hiệu 95%.
    - **ELISA (Enzyme-Linked Immunosorbent Assay)**: Phát hiện kháng nguyên Chlamydia. Ít nhạy hơn NAAT, nhưng chi phí thấp, có thể áp dụng tại tuyến cơ sở.
 
 3. **Nuôi cấy (Culture)**
 
    - Yêu cầu tế bào tế bào McCoy hoặc HeLa, kỹ thuật viên có tay nghề.
-   - Độ nhạy ~50–70%, độ đặc hiệu cao.
+   - Độ nhạy 50–70%, độ đặc hiệu cao.
    - Ít được dùng vì phức tạp, tốn kém, thời gian lâu (3–7 ngày).
 
 4. **Xét nghiệm huyết thanh**
@@ -161,7 +161,7 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
      - Ưu điểm: thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%.
      - Thận trọng: có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
   2. **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**
-     - Hiệu quả ~97%.
+     - Hiệu quả 97%.
      - Thận trọng: không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
 
 - **Phác đồ thay thế** (khi không thể dùng thuốc ưu tiên):

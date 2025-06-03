@@ -10,7 +10,7 @@ description: Mô tả sinh lý phát triển nang noãn từ bào thai đến m�
 
 ## Chiêu mộ nang noãn nguyên thủy (Primordial Recruitment)
 
-- **Chiêu mộ nguyên khởi**: mỗi đợt ~400 nang nguyên thủy được đánh thức, độc lập với FSH/LH.
+- **Chiêu mộ nguyên khởi**: mỗi đợt 400 nang nguyên thủy được đánh thức, độc lập với FSH/LH.
 - **Cơ chế cận tiết**:
 
   - **PTEN–PI3K–Akt**: cân bằng PTEN (ức chế) và PI3K (kích hoạt) quyết định nang nào “thức giấc”.
@@ -23,7 +23,7 @@ description: Mô tả sinh lý phát triển nang noãn từ bào thai đến m�
 ## Phát triển nang trước khi lệ thuộc gonadotropin
 
 - Nang đã chiêu mộ → noãn sơ cấp → noãn thứ cấp sớm → noãn thứ cấp muộn.
-- AMH tiếp tục kìm hãm tăng tốc phát triển, bảo vệ chỉ còn ~10 nang/noãn trên 60–90 ngày vào giai đoạn “lệ thuộc gonadotropin”.
+- AMH tiếp tục kìm hãm tăng tốc phát triển, bảo vệ chỉ còn 10 nang/noãn trên 60–90 ngày vào giai đoạn “lệ thuộc gonadotropin”.
 
   ![Điều hòa chiêu mộ noãn nang](../../../../assets/phu-khoa/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/dieu-hoa-chieu-mo-noan-nang.png)
 
@@ -62,8 +62,8 @@ _Thuyết 2 tế bào, 2 hormone._
 
 _Tiến trình phát triển noãn nang._
 
-1. **Đỉnh LH** (phản hồi dương estradiol) → hoàn thành giảm nhiễm I, bắt đầu giảm nhiễm II → phóng noãn sau ~36 giờ.
-2. **Hoàng thể**: tế bào vỏ + tế bào hạt chuyển sang hoàng thể → tiết **progesterone** & estradiol (đỉnh ~7 ngày sau phóng noãn).
+1. **Đỉnh LH** (phản hồi dương estradiol) → hoàn thành giảm nhiễm I, bắt đầu giảm nhiễm II → phóng noãn sau 36 giờ.
+2. **Hoàng thể**: tế bào vỏ + tế bào hạt chuyển sang hoàng thể → tiết **progesterone** & estradiol (đỉnh 7 ngày sau phóng noãn).
 3. **Progesterone** → pha tiết nội mạc tử cung, ức chế GnRH/FSH/LH (phản hồi âm) → hoàng thể thoái triển → mức steroid giảm đột ngột → khởi động chu kỳ mới.
 
 ## Biến động hormone trong chu kỳ
@@ -83,7 +83,7 @@ _Biến động hormone._
 
 _Chu kỳ nối tiếp._
 
-- Mỗi chu kỳ kéo dài ~90–120 ngày từ chiêu mộ nguyên thủy đến thoái triển bạch thể.
+- Mỗi chu kỳ kéo dài 90–120 ngày từ chiêu mộ nguyên thủy đến thoái triển bạch thể.
 - Chỉ 4 tuần cuối chịu ảnh hưởng trực tiếp của trục HĐ–Y–BT, phần còn lại phát triển độc lập.
 
 ## Nguồn tham khảo

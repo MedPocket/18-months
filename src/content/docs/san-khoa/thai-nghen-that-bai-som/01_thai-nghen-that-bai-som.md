@@ -117,7 +117,7 @@ _Lòng tử cung trống sau sẩy thai trọn._
 
 Có 3 lựa chọn chính:
 
-1. Theo dõi diễn tiến. Phù hợp sẩy thai không trọn, tỷ lệ thành công ~90% nhưng thời gian kéo dài.
+1. Theo dõi diễn tiến. Phù hợp sẩy thai không trọn, tỷ lệ thành công 90% nhưng thời gian kéo dài.
 2. Điều trị nội khoa bằng misoprostol. Khuyến cáo 800 µg đặt âm đạo khởi đầu, có thể lặp lại nếu cần.
 3. Hút lòng tử cung. Thực hiện nhanh, ít mất máu, nhưng có nguy cơ thủng tử cung và nhiễm trùng.
 
