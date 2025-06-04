@@ -65,7 +65,7 @@ Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới t�
 
 :::
 
-## Xử trí
+## Điều trị
 
 Xử trí ối vỡ non phụ thuộc vào 2 yếu tố chính:
 

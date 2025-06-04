@@ -78,7 +78,7 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 4. Nhóm máu, test chéo.
 5. Theo dõi sinh hiệu, nước tiểu, nhịp tim thai.
 
-### Xử trí theo nguyên nhân
+### Điều trị theo nguyên nhân
 
 1. **Đờ tử cung**
 

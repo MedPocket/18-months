@@ -128,7 +128,7 @@ Kết quả được coi là đáng tin cậy nếu:
 - **Xét nghiệm combo Ag/Ab sau 4–6 tuần âm tính** → độ chính xác cao.
 - **Xét nghiệm kháng thể sau 12 tuần (3 tháng)** âm tính → gần như chắc chắn không nhiễm HIV.
 
-### Xử trí phơi nhiễm HIV
+### Điều trị phơi nhiễm HIV
 
 - Nếu mới tiếp xúc < 72 giờ → **đi khám ngay để cân nhắc dùng PEP (thuốc phơi nhiễm)** nhằm giảm nguy cơ nhiễm.
 - Tránh quan hệ tình dục, hiến máu trong thời gian chờ xét nghiệm.

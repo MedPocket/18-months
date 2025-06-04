@@ -1,6 +1,6 @@
 ---
 title: Thiểu ối
-description: Thiểu ối là tình trạng lượng dịch ối giảm xuống dưới mức bình thường theo tuổi thai, có thể gây nguy cơ tiềm ẩn cho thai nhi và mẹ. Chẩn đoán chủ yếu qua siêu âm và cần xử trí kịp thời để giảm biến chứng.
+description: Thiểu ối là tình trạng lượng dịch ối giảm xuống dưới mức bình thường theo tuổi thai, có thể gây nguy cơ tiềm ẩn cho thai nhi và mẹ.
 ---
 
 Thiểu ối là tình trạng dịch ối ít hơn so với tuổi thai tương ứng và được chẩn đoán qua siêu âm.
@@ -14,14 +14,14 @@ Thiểu ối là tình trạng dịch ối ít hơn so với tuổi thai tương
 
 ### Từ phía thai
 
-_Thiểu ối do nguyên nhân thai thường xuất hiện sau 17–20 tuần._
+- Thiểu ối do nguyên nhân thai thường xuất hiện sau 17–20 tuần:
 
-- Bất thường nhiễm sắc thể.
-- Bất thường bẩm sinh, đặc biệt là đường tiết niệu.
-- Thai chậm tăng trưởng.
-- Thai lưu.
-- Thai quá ngày.
-- Ối vỡ sớm, ối vỡ non.
+  - Bất thường nhiễm sắc thể.
+  - Bất thường bẩm sinh, đặc biệt là đường tiết niệu.
+  - Thai chậm tăng trưởng.
+  - Thai lưu.
+  - Thai quá ngày.
+  - Ối vỡ sớm, ối vỡ non.
 
 ### Từ phần phụ của thai
 
@@ -31,9 +31,9 @@ _Thiểu ối do nguyên nhân thai thường xuất hiện sau 17–20 tuần._
 
 ## Chẩn đoán
 
-Chủ yếu dựa trên siêu âm; lâm sàng có thể thấy bề cao tử cung nhỏ hơn tuổi thai.
-
 :::note[Tiêu chuẩn chẩn đoán thiểu ối]
+
+Chủ yếu dựa vào siêu âm:
 
 - Chỉ số ối (Amniotic Fluid Index – AFI) ≤ 5 cm.
 - Xoang ối lớn nhất (Single Deepest Pocket – SDP) ≤ 2 cm.
@@ -41,10 +41,11 @@ Chủ yếu dựa trên siêu âm; lâm sàng có thể thấy bề cao tử cun
 
 :::
 
+- Lâm sàng có thể thấy bề cao tử cung nhỏ hơn tuổi thai.
 - Có thể thấy ối rỉ; test Nitrazine dương tính khi vỡ ối.
 - Xét nghiệm TORCH, karyotype để phát hiện nhiễm trùng hoặc dị tật.
 
-## Xử trí
+## Điều trị
 
 ### 3 tháng đầu
 

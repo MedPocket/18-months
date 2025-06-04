@@ -197,7 +197,7 @@ Tiêu chuẩn để hóa trị:
 
 - Phẫu thuật cắt tử cung toàn phần. Nạo hạch (chủ-chậu) nếu có hạch di căn. Thường không nhạy cảm với hóa trị. Hóa trị phác đồ EP-EMA.
 
-### Xử trí cấp cứu
+### Điều trị cấp cứu
 
 - Etoposide 100 mg/m² truyền TM trong 1 giờ + Cisplatin 20 mg/m² truyền TM trong 2 giờ mỗi ngày × 3 ngày, lặp lại hàng tuần cho tới ổn định.
 

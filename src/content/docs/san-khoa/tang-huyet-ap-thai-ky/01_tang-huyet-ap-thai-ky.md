@@ -140,7 +140,7 @@ Biến chứng nặng của tiền sản giật/sản giật, tổn thương n�
 - Đẻ non.
 - Thai chậm tăng trưởng trong buồng tử cung.
 
-## Xử trí tiền sản giật và sản giật
+## Điều trị tiền sản giật và sản giật
 
 ### Tiền sản giật không có dấu hiệu nặng
 
@@ -217,7 +217,7 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
 
 > Không dùng Diazepam/Phenytoin vì không hiệu quả, có thể gây hại thai.
 
-### Xử trí khi có cơn sản giật
+### Điều trị khi có cơn sản giật
 
 1. **Bảo đảm đường thở, hô hấp**
 

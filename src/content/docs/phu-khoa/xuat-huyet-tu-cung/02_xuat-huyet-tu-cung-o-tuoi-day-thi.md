@@ -145,7 +145,7 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
    - Sau khi có kết quả cận lâm sàng, loại trừ các nguyên nhân bệnh lý gây XHTC (tổn thương thực thể, rối loạn đông máu, bệnh nội tiết, có thai…).
    - Nếu không phát hiện nguyên nhân thực thể hay toàn thân, kết hợp lâm sàng cho thấy chu kỳ không phóng noãn kéo dài, chẩn đoán XHTC cơ năng tuổi dậy thì.
 
-## Xử trí
+## Điều trị
 
 ### Nguyên tắc không làm ảnh hưởng đến hệ trục hạ đồi-yên-buồng trứng
 

@@ -82,7 +82,7 @@ Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu b
 Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác sĩ sơ sinh để đánh giá và xử trí sau sinh phù hợp.
 :::
 
-## Xử trí
+## Điều trị
 
 ### Nguyên tắc
 

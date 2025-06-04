@@ -98,7 +98,7 @@ _Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)._
 
 **Nội soi buồng tử cung**: Giúp quan sát trực tiếp và loại trừ nguyên nhân thực thể trong buồng tử cung. Chỉ định khi nghi ngờ tổn thương nội mạc không rõ ràng trên siêu âm.
 
-## Xử trí
+## Điều trị
 
 Mục tiêu: **Cầm máu** và **tái lập chu kỳ kinh nguyệt bình thường**.
 

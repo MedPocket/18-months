@@ -46,7 +46,7 @@ Siêu âm qua đường âm đạo đo khoảng cách (mm) giữa mép bánh rau
 
 Máu chảy từ các hồ máu mẹ ở đoạn dưới tử cung không được cơ tử cung co chặt sau sổ rau do thiếu lớp cơ đan chéo như ở thân tử cung. Đợt chảy máu đầu thường ngưng tự nhiên trong 1–2 giờ, nhưng dễ tái phát, không liên quan đến số lần xuất huyết trước.
 
-## Xử trí
+## Điều trị
 
 Quyết định dựa trên tuổi thai, tình trạng mẹ và mức độ chảy máu.
 

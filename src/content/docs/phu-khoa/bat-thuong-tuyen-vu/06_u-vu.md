@@ -27,7 +27,7 @@ U vú có thể lành tính hoặc ác tính, tuy nhiên phần lớn là u làn
 
 _BIRADS - Hiệp hội Quang tuyến Hoa Kỳ (ACR)._
 
-## Xử trí
+## Điều trị
 
 ![Xử trí nang vú – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/u-vu/xu-tri-nang-vu.jpeg)
 

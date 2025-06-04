@@ -139,7 +139,7 @@ _Sơ đồ tiếp cận AUB mạn tính – Bệnh viện Từ Dũ._
 
 _Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp AUB._
 
-## Xử trí AUB
+## Điều trị AUB
 
 ### Nguyên tắc chung
 

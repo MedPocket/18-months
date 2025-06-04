@@ -57,7 +57,7 @@ _Phân loại theo FIGO 2019._
 | **Rối loạn đông máu**         | HIẾM                      | Có thể có, nếu xuất hiện DIC thì tiên lượng nặng nề                          |
 | **Bệnh cảnh/ Yếu tố nguy cơ** |                           | Chấn thương bụng, tăng huyết áp thai kỳ-tiền sản giật, đa thai, đa ối        |
 
-## Xử trí
+## Điều trị
 
 ### Thời điểm chấm dứt thai kỳ
 

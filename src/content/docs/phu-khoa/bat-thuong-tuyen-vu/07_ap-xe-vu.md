@@ -56,7 +56,7 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 - Galactocele (bọc sữa).
 - Ung thư vú giai đoạn viêm cấp (cần FNA hoặc sinh thiết để loại trừ, đặc biệt trong áp xe ngoài thời kỳ hậu sản).
 
-## Xử trí
+## Điều trị
 
 ### Tổng quát
 

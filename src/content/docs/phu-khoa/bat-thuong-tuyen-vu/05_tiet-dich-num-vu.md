@@ -77,7 +77,7 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 5. **Xét nghiệm nội tiết tố khác**
    - Estradiol, FSH, LH: đánh giá tình trạng mãn kinh hoặc rối loạn tuyến sinh dục.
 
-### Xử trí
+### Điều trị
 
 - **Điều trị vào nguyên nhân cơ bản**
 
@@ -181,7 +181,7 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
      - Hiệu quả trong phát hiện tế bào ung thư nếu có dòng điển hình.
      - Hạn chế: không phân biệt được tổn thương in situ hay xâm lấn, có thể âm tính giả nếu lấy sai ống.
 
-### Xử trí
+### Điều trị
 
 - **Bước 1: Phân loại dịch**
 

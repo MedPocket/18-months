@@ -102,7 +102,7 @@ Tiết dịch âm đạo bất thường (abnormal vaginal discharge – AVD) l�
    - Chảy máu sau giao hợp
    - Đau vùng chậu, sốt (nặng, cảnh báo viêm sâu như PID)
 
-## Xử trí
+## Điều trị
 
 ![Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
 

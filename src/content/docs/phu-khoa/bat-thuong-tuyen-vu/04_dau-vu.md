@@ -129,7 +129,7 @@ Việc điều trị đau vú chỉ được khuyến nghị khi triệu chứng
 3. Tình trạng tổng thể (tiền sử bệnh lý, thuốc đang dùng).
 4. Mong muốn của bệnh nhân (sẵn sàng thử thách nghiệm pháp, tác dụng phụ).
 
-### Xử trí
+### Điều trị
 
 - Bắt đầu bằng khám lâm sàng, hỏi tiền sử, phân loại đau (chu kỳ, không chu kỳ, ngoài vú).
 - Nếu ≥ 35 tuổi và chưa có nhũ ảnh gần đây (< 1 năm), chỉ định nhũ ảnh kết hợp siêu âm (nếu cần).

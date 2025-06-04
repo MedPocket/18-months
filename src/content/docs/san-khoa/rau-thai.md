@@ -12,7 +12,7 @@ Rau thường bám ở 1/3 trên của buồng tử cung (thành trước hoặc
 
 ## Sự hình thành
 
-### Từ phía con
+### Từ phía thai
 
 Sau khi thụ tinh 4 ngày, hợp tử chia thành phôi nang với các tế bào mầm xếp thành 2 khối:
 

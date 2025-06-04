@@ -45,7 +45,7 @@ Giữa bong và sổ rau, tử cung có giai đoạn **nghỉ sinh lý**, không
 Đoạn dưới tử cung không có bó cơ đan chéo, nên băng huyết do rau tiền đạo luôn phải xử trí khẩn cấp.
 :::
 
-## Xử trí tích cực giai đoạn 3
+## Điều trị tích cực giai đoạn 3
 
 Can thiệp tích cực gồm ba bước chính, thực hiện ngay sau sổ vai:
 
