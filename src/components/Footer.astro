@@ -1,11 +1,20 @@
 ---
-import Default from "@astrojs/starlight/components/Footer.astro";
+import Default from '@astrojs/starlight/components/Footer.astro';
 ---
 
-<Default></slot></Default>
+<Default><slot /></Default>
 
 <section class="sl-flex">
-  <a href="https://github.com/MedPocket" class="sl-flex"> made by MedPocket </a>
+  <p>
+    Made with ❤️ by
+    <a
+      href="https://github.com/MedPocket"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      MedPocket
+    </a>
+  </p>
 </section>
 
 <style>
@@ -14,16 +23,20 @@ import Default from "@astrojs/starlight/components/Footer.astro";
     flex-wrap: wrap;
     gap: 0.5rem 1.5rem;
     font-size: var(--sl-text-sm);
-  }
-
-  a {
-    align-items: center;
-    text-decoration: none;
-    gap: 0.5rem;
     color: var(--sl-color-gray-3);
   }
 
+  a {
+    color: var(--sl-color-gray-3);
+    text-decoration: none;
+  }
+
   a:hover {
-    color: var(--sl-color-white);
+    color: var(--sl-color-accent);
+    text-decoration: underline;
+  }
+
+  p {
+    margin: 0;
   }
 </style>
