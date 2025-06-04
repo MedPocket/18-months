@@ -1,6 +1,6 @@
 ---
 title: U vú
-description: U vú.
+description: Chẩn đoán và xủ trí u vú.
 ---
 
 U vú có thể lành tính hoặc ác tính, tuy nhiên phần lớn là u lành tính.
@@ -12,6 +12,20 @@ U vú có thể lành tính hoặc ác tính, tuy nhiên phần lớn là u làn
 **Khám lâm sàng**: ghi nhận kích thước, vị trí khối u (so với núm vú), mức độ di động, mật độ (căng chắc hay mềm), tính chất bề mặt (trơn láng hay gồ ghề), bờ rõ hay không rõ, và phân biệt khối đặc hay nang.
 
 **Cận lâm sàng**: siêu âm và nhũ ảnh để phân loại theo BIRADS. Các tổn thương BIRADS II và III thường lành tính, cần theo dõi hoặc xử trí theo phác đồ.
+
+| BIRADS | Kết quả                                               | Hướng xử trí                                              |
+| ------ | ----------------------------------------------------- | --------------------------------------------------------- |
+| **0**  | Không đầy đủ                                          | Cần thêm hình ảnh (spot compression, phóng đại, siêu âm…) |
+| **1**  | Âm tính                                               | Tiếp tục nhũ ảnh tầm soát định kỳ                         |
+| **2**  | Lành tính (u nang lành, hạch lành, vôi hóa lành tính) | Tiếp tục nhũ ảnh tầm soát định kỳ                         |
+| **3**  | Có khả năng lành tính (> 98% là tổn thương lành tính) | Theo dõi nhũ ảnh mỗi 6 tháng trong 2 năm                  |
+| **4A** | Nghi ngờ ác tính mức độ thấp                          | Cân nhắc sinh thiết                                       |
+| **4B** | Nghi ngờ ác tính mức độ trung bình                    | Cân nhắc sinh thiết                                       |
+| **4C** | Gợi ý ác tính (không điển hình)                       | Cân nhắc sinh thiết                                       |
+| **5**  | Gợi ý mạnh ác tính (> 95% khả năng ung thư)           | Bắt buộc sinh thiết                                       |
+| **6**  | Đã xác định ung thư qua sinh thiết trước đó           | Theo dõi điều trị (imaging for treatment monitoring)      |
+
+_BIRADS - Hiệp hội Quang tuyến Hoa Kỳ (ACR)._
 
 ## Xử trí
 
