@@ -1,7 +1,9 @@
 ---
 title: Thuốc điều trị trong tiền sản giật
-description: Tổng hợp các thuốc phòng ngừa và điều trị tiền sản giật—bao gồm MgSO₄, thuốc hạ áp, HELLP và lợi tiểu.
+description: Các thuốc phòng ngừa và điều trị tiền sản giật.
 ---
+
+Các thuốc phòng ngừa và điều trị tiền sản giật gồm thuốc chống co giật và chống tăng huyết áp.
 
 ## Thuốc chống co giật (MgSO₄)
 
@@ -24,10 +26,24 @@ description: Tổng hợp các thuốc phòng ngừa và điều trị tiền s�
 - **Duy trì**: 1–2 g/giờ TM liên tục (pha 6 g MgSO₄ 15% vào 500 mL glucose 5% hoặc bơm tiêm điện 6.7 mL/h).
 - Tiếp tục ít nhất 24 giờ sau cơn cuối hoặc sau sinh.
 
-:::caution[Theo dõi và xử trí ngộ độc MgSO₄]
+:::caution[Lưu ý]
+Theo dõi và xử trí ngộ độc MgSO₄:
 
 - Theo dõi phản xạ gân xương (mất dấu hiệu sớm nhất), nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4h).
 - Định lượng Mg huyết thanh khi cần, giữ 4–7 mEq/L (5–9 mg/dL; 2–3.5 mmol/L).
+  
+  | Nồng độ Mg²⁺ trong máu (mEq/dL) | Biểu hiện lâm sàng                                                 |
+  | ------------------------------- | ------------------------------------------------------------------ |
+  | **1.5 - 3**                     | Nồng độ sinh lý bình thường                                        |
+  | **4 - 6**                       | Ngưỡng điều trị (phòng ngừa/điều trị sản giật)                     |
+  | **5 - 10**                      | Thay đổi trên điện tâm đồ (ECG): kéo dài khoảng PR, QT, dẹt sóng T |
+  | **8 - 12**                      | Mất phản xạ gân xương (phản xạ xương bánh chè)                     |
+  | **10 - 12**                     | Rối loạn ý thức: lơ mơ, nói lảm nhảm                               |
+  | **15 - 17**                     | Liệt cơ hô hấp, suy hô hấp                                         |
+  | **≥ 30**                        | Ngừng tim, tử vong                                                 |
+
+  _Mối tương quan giữa nồng độ Magnesium máu và biểu hiện lâm sàng._
+
 - Suy thận (Creatinine 1–1.5 mg/dL) hoặc thiểu niệu (< 30 mL/h) → duy trì 1 g/h.
 - Ngộ độc (Mg > 8 mEq/L):
   1. Ngừng MgSO₄.
@@ -36,18 +52,6 @@ description: Tổng hợp các thuốc phòng ngừa và điều trị tiền s�
   4. Hỗ trợ hô hấp, đặt NKQ nếu suy hô hấp.
 
 :::
-
-| Nồng độ Mg²⁺ trong máu (mEq/dL) | Biểu hiện lâm sàng                                                 |
-| ------------------------------- | ------------------------------------------------------------------ |
-| **1.5 - 3**                     | Nồng độ sinh lý bình thường                                        |
-| **4 - 6**                       | Ngưỡng điều trị (phòng ngừa/điều trị sản giật)                     |
-| **5 - 10**                      | Thay đổi trên điện tâm đồ (ECG): kéo dài khoảng PR, QT, dẹt sóng T |
-| **8 - 12**                      | Mất phản xạ gân xương (phản xạ xương bánh chè)                     |
-| **10 - 12**                     | Rối loạn ý thức: lơ mơ, nói lảm nhảm                               |
-| **15 - 17**                     | Liệt cơ hô hấp, suy hô hấp                                         |
-| **≥ 30**                        | Ngừng tim, tử vong                                                 |
-
-_Mối tương quan giữa nồng độ Magnesium máu và biểu hiện lâm sàng._
 
 ## Thuốc chống tăng huyết áp
 
@@ -93,7 +97,7 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 
 - Giãn tiểu động mạch ngoại vi nhanh, hạ áp sau 10–30 phút, tác dụng kéo dài 2–4 giờ.
 - **Liều TM chậm**: 5 mg (1–2 phút); nếu cần, 5–10 mg sau 15–20 phút; tối đa 25 mg.
-- Tác dụng không mong muốn: nhịp nhanh, đánh trống ngực, đau đầu, hạ áp đột ngột → suy thai.
+- Tác dụng phụ: nhịp nhanh, đánh trống ngực, đau đầu, hạ áp đột ngột → suy thai.
 - Chống chỉ định: mẫn cảm, bệnh động mạch vành nặng, van 2 lá, lupus hoạt động.
 
 ### Labetalol
@@ -101,7 +105,7 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 - Chẹn α, β giao cảm → chậm nhịp, hạ áp.
 - **Liều bolus TM**: 10–20 mg; nếu cần, 20–80 mg mỗi 10–30 phút (tối đa 300 mg).
 - **Duy trì uống**: 200 mg x 3 lần/ngày (tối đa 800 mg/8 h), điều chỉnh 200–400 mg/ngày.
-- Ít nhịp nhanh phản xạ.
+- Tác dụng phụ: Ít nhịp nhanh phản xạ.
 - Chống chỉ định: suy tim, hen, block tim.
 
 ### Nifedipine
@@ -110,7 +114,7 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 - **Liều uống tác dụng nhanh**: 10–20 mg cách 20–30 phút (tối đa 50 mg).
 - **Duy trì**: 10–20 mg mỗi 2–6 h (tối đa 180 mg/ngày) hoặc viên tác dụng kéo dài 30–120 mg/ngày.
 - Tác dụng phụ: nhịp nhanh, đau đầu, hồi hộp.
-- Lưu ý: phối hợp MgSO₄ có thể hạ áp quá mức.
+- Phối hợp MgSO₄ có thể hạ áp quá mức.
 
 ### Nicardipine
 
@@ -124,8 +128,7 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 
 - **Furosemide**: chỉ dùng khi thiểu/vô niệu, phù phổi cấp; liều 20 mg TM chậm.
 - **Không dùng lợi tiểu** thông thường do giảm tưới máu tử cung và **ức chế men chuyển** do nguy cơ dị tật.
-- Dùng khi thiểu niệu (< 800 mL/24 h, đặc biệt < 400 mL).
-- Liều: 20 mg TM chậm, có thể lặp lại theo đáp ứng.
+- Dùng khi thiểu niệu (< 800 mL/24 h, đặc biệt < 400 mL). Liều 20 mg TM chậm, có thể lặp lại theo đáp ứng.
 
 ## Nguồn tham khảo
 
