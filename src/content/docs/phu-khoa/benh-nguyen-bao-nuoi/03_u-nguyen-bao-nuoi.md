@@ -38,12 +38,12 @@ Có ≥ 1 tiêu chí sau (không bao gồm PSTT/ETT)
 
 ### Đánh giá nguy cơ
 
-| Thang điểm FIGO (WHO)                | 0          | 1          | 2             | 4          |
-| ------------------------------------ | ---------- | ---------- | ------------- | ---------- |
+| Thang điểm FIGO (WHO)                    | 0          | 1          | 2             | 4          |
+| ---------------------------------------- | ---------- | ---------- | ------------- | ---------- |
 | **Tuổi**                                 | < 40       | ≥ 40       | —             | —          |
 | **Tiền cân thai**                        | Thai trứng | Bố thai    | Đủ tháng      | —          |
 | **Số tháng (từ thai lần)**               | < 4        | 4 – 6      | 7 – 12        | > 12       |
-| **hCG trước điều trị IU/ml**            | < 10³      | 10³ - 10⁴  | 10⁴ - 10⁵     | > 10⁵      |
+| **hCG trước điều trị IU/ml**             | < 10³      | 10³ - 10⁴  | 10⁴ - 10⁵     | > 10⁵      |
 | **Kích thước bướu lớn nhất gồm TC (cm)** |            | 3 – 4 cm   | ≥ 5 cm        | —          |
 | **Vị trí di căn**                        | Phổi       | Lách, Thận | Dạ dày – ruột | Não Gan    |
 | **Số điểm di căn**                       | —          | 1 – 4      | 5 – 8         | >8         |
@@ -217,7 +217,7 @@ _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị tr�
 
 - **β-hCG** hàng tuần đến âm tính 3 lần liên tiếp, sau đó hàng tháng 6–12 tháng tùy nhóm.
 - **Khám lâm sàng, siêu âm, X-quang ngực, cận lâm sàng** khi β-hCG bất thường hoặc có triệu chứng lâm sàng.
-  
+
   ![Di căn phổi](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/choriocarcinoma-di-can-phoi-hinh-anh-tha-bong.png)
 
   _Di căn phổi: hình ảnh bóng bay trên X-quang._
