@@ -31,7 +31,7 @@ Theo dõi và xử trí ngộ độc MgSO₄:
 
 - Theo dõi phản xạ gân xương (mất dấu hiệu sớm nhất), nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4h).
 - Định lượng Mg huyết thanh khi cần, giữ 4–7 mEq/L (5–9 mg/dL; 2–3.5 mmol/L).
-  
+
   | Nồng độ Mg²⁺ trong máu (mEq/dL) | Biểu hiện lâm sàng                                                 |
   | ------------------------------- | ------------------------------------------------------------------ |
   | **1.5 - 3**                     | Nồng độ sinh lý bình thường                                        |

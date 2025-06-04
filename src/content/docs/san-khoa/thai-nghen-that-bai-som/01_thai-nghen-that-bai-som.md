@@ -98,15 +98,15 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 - **Ra máu kèm mở cổ tử cung** khi thai vẫn còn trong buồng tử cung.
 - Cần phân biệt với thai ngoài tử cung ở cổ tử cung bằng β-hCG và siêu âm.
 
-  ![Sẩy thai khó tránh](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-kho-tranh.png)  
-  
+  ![Sẩy thai khó tránh](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-kho-tranh.png)
+
   _Sẩy thai khó tránh: thai vẫn nằm trong cổ tử cung, cổ tử cung mở._
 
 ### Sẩy thai không trọn
 
 - Ra huyết rỉ rả, đau quặn bụng, cổ tử cung hé mở, siêu âm thấy khối echo hỗn hợp trong lòng tử cung.
 
-  ![Sẩy thai không trọn](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-khong-tron.png)  
+  ![Sẩy thai không trọn](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-khong-tron.png)
 
   _Sẩy thai không trọn: Cấu trúc echo hỗn hợp trong buồng tử cung._
 
@@ -114,8 +114,8 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 
 - Hoàn toàn tống xuất mô thai, cổ tử cung đóng, siêu âm buồng tử cung rỗng hoặc chỉ có ít dịch.
 
-  ![Sẩy thai trọn](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-tron.jpeg)  
-  
+  ![Sẩy thai trọn](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-tron.jpeg)
+
   _Lòng tử cung trống sau sẩy thai trọn._
 
 ## Điều trị

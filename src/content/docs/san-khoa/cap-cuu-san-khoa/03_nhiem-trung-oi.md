@@ -19,10 +19,10 @@ Nhiễm trùng cũng có thể xảy ra sau các thủ thuật xâm lấn như:
 
 **Các tác nhân thường gặp**:
 
-– _Ureaplasma urealyticum_.
-– _Mycoplasma hominis_.
-– _Gardnerella vaginalis_.
-– _Bacteroides bivius_.
+- _Ureaplasma urealyticum_.
+- _Mycoplasma hominis_.
+- _Gardnerella vaginalis_.
+- _Bacteroides bivius_.
 - Vi khuẩn Gram âm.
 - Liên cầu khuẩn nhóm B (_Group B Streptococcus – GBS_).
 

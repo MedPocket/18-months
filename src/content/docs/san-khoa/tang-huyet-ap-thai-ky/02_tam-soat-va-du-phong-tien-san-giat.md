@@ -36,7 +36,6 @@ Tầm soát tiền sản giật được thực hiện từ tuần 11 đến tu�
 - Huyết áp động mạch trung bình: $\mathrm{HADMTT} = \frac{\mathrm{HATT} + 2 \times \mathrm{HATr}}{3}$
 - **Tính nguy cơ** theo [thuật toán của FMF (The Fetal Medicine Foundation)](https://fetalmedicine.org/research/assess/preeclampsia/first-trimester). Nguy cơ cao khi > 1/100.
 
-
 ## Dự phòng
 
 | Nguy cơ        | Yếu tố nguy cơ                                                                                                                                                                                                                                                               | Khuyến cáo                                                                  |
@@ -54,6 +53,7 @@ _Bảng đánh giá lâm sàng nguy cơ tiền sản giật._
 - Tiếp tục đến tuần 36.
 
 **Theo ACOG**:
+
 - Khởi aspirin từ tuần 12–16, tối đa không muộn hơn 28 tuần.
 - Dừng vào tuần 36.
 

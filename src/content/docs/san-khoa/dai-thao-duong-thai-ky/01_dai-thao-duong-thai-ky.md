@@ -86,13 +86,13 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 - **Đánh giá nguy cơ** ngay lần khám đầu tiên.
 - **Nguy cơ cao** (≥ 1 yếu tố bảng trên) → Xét nghiệm glucose đói hoặc HbA1c ngay.
 
-   | Kết quả          | Tiêu chí                                                                               | Xử trí                      |
-   | ---------------- | -------------------------------------------------------------------------------------- | --------------------------- |
-   | **Bình thường**  | Glucose đói 70–90 mg/dL (3.9–5.0 mmol/L) và Glucose bất kỳ ≤ 199 mg/dL (≤ 11.0 mmol/L) | Sàng lọc lại 24–28 tuần     |
-   | **Nghi ngờ GDM** | Glucose đói 91–125 mg/dL (5.1–6.9 mmol/L) và/hoặc HbA1c 5.7–6.4%                       | Sàng lọc hoặc OGTT ngay     |
-   | **ĐTĐ rõ (DIP)** | Glucose đói ≥ 126 mg/dL hoặc bất kỳ ≥ 200 mg/dL + triệu chứng                          | Chuyển chuyên khoa Nội tiết |
+  | Kết quả          | Tiêu chí                                                                               | Xử trí                      |
+  | ---------------- | -------------------------------------------------------------------------------------- | --------------------------- |
+  | **Bình thường**  | Glucose đói 70–90 mg/dL (3.9–5.0 mmol/L) và Glucose bất kỳ ≤ 199 mg/dL (≤ 11.0 mmol/L) | Sàng lọc lại 24–28 tuần     |
+  | **Nghi ngờ GDM** | Glucose đói 91–125 mg/dL (5.1–6.9 mmol/L) và/hoặc HbA1c 5.7–6.4%                       | Sàng lọc hoặc OGTT ngay     |
+  | **ĐTĐ rõ (DIP)** | Glucose đói ≥ 126 mg/dL hoặc bất kỳ ≥ 200 mg/dL + triệu chứng                          | Chuyển chuyên khoa Nội tiết |
 
-   _Kết quả sàng lọc 3 tháng đầu._
+  _Kết quả sàng lọc 3 tháng đầu._
 
 - **Nguy cơ thấp** → Sàng lọc định kỳ 24–28 tuần.
 
@@ -110,7 +110,7 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
     - Trong thời gian làm nghiệm pháp thai phụ không ăn uống gì thêm, được ngồi nghỉ ngơi hoặc đi lại nhẹ nhàng.
 
   :::note[Tiêu chuẩn chẩn đoán GDM]
-   **Chẩn đoán GDM** khi có ≥ 1 tiêu chí bất thường.
+  **Chẩn đoán GDM** khi có ≥ 1 tiêu chí bất thường.
 
   | Thời điểm | Glucose (mg/dL) | Glucose (mmol/L) |
   | --------- | --------------- | ---------------- |
@@ -162,13 +162,13 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
    - Đo bằng glucose mao mạch tại nhà.
 
 4. **Tăng phù hợp với BMI trước mang thai**
-   
-   | BMI trước khi mang thai | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
-   |--------------------------------------------------|---------------|----------------------------------------------------------------------------|
-   | **Thiếu năng lượng trường diễn (BMI < 18.5 kg/m²)** | 12.5–18 | 0.51 (0.44–0.58) |
-   | **Bình thường (BMI 18.5–22.9 kg/m²)** | 11.5–16 | 0.42 (0.35–0.50) |
-   | **Thừa cân (BMI 23.0–24.9 kg/m²)** | 7–11.5 | 0.28 (0.23–0.33) |
-   | **Béo phì (BMI > 24.9 kg/m²)** | 5–9 | 0.22 (0.17–0.27) |
+
+   | BMI trước khi mang thai                             | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
+   | --------------------------------------------------- | ------------- | ------------------------------------------------------------------------ |
+   | **Thiếu năng lượng trường diễn (BMI < 18.5 kg/m²)** | 12.5–18       | 0.51 (0.44–0.58)                                                         |
+   | **Bình thường (BMI 18.5–22.9 kg/m²)**               | 11.5–16       | 0.42 (0.35–0.50)                                                         |
+   | **Thừa cân (BMI 23.0–24.9 kg/m²)**                  | 7–11.5        | 0.28 (0.23–0.33)                                                         |
+   | **Béo phì (BMI > 24.9 kg/m²)**                      | 5–9           | 0.22 (0.17–0.27)                                                         |
 
    _Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)._
 
@@ -218,7 +218,7 @@ _Đường huyết tương mao mạch mục tiêu._
    - **Basal-bolus**: phối hợp khi tăng cả đói và sau ăn.
 
    ![Các loại insulin thai kỳ](../../../../assets/san-khoa/dai-thao-duong-thai-ky/cac-loai-insulin.png)
-   
+
    _Các loại insulin và dấu đỏ: loại được phép dùng cho phụ nữ mang thai._
 
 3. **Điều chỉnh liều**

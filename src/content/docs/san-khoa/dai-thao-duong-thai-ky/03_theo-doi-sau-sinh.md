@@ -37,11 +37,11 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 ## Đánh giá rối loạn chuyển hóa đường
 
 - **OGTT 75 g**: thực hiện ở 4–12 tuần sau sinh.
- 
-  | **Thời điểm** | Bình thường | Tiền đái tháo đường | Đái tháo đường |
-  |--------------------|--------------------------------|------------------------------------|-----------------------------------|
-  | **Glucose khi đói** | < 5.6 mmol/L (< 100 mg/dL) | 5.6–6.9 mmol/L (100–125 mg/dL) | ≥ 7.0 mmol/L (≥ 126 mg/dL) |
-  | **Glucose 2 giờ** | < 7.8 mmol/L (< 140 mg/dL) | 7.8–11.0 mmol/L (140–199 mg/dL) | ≥ 11.1 mmol/L (≥ 200 mg/dL) |
+
+  | **Thời điểm**       | Bình thường                | Tiền đái tháo đường             | Đái tháo đường              |
+  | ------------------- | -------------------------- | ------------------------------- | --------------------------- |
+  | **Glucose khi đói** | < 5.6 mmol/L (< 100 mg/dL) | 5.6–6.9 mmol/L (100–125 mg/dL)  | ≥ 7.0 mmol/L (≥ 126 mg/dL)  |
+  | **Glucose 2 giờ**   | < 7.8 mmol/L (< 140 mg/dL) | 7.8–11.0 mmol/L (140–199 mg/dL) | ≥ 11.1 mmol/L (≥ 200 mg/dL) |
 
 - **Kết quả và xử trí**:
 

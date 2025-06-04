@@ -123,24 +123,24 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
 - **Viêm đường sinh dục – tiết niệu khác**:
 
-  – _Neisseria gonorrhoeae_: tiểu buốt, tiểu nhiều, tiết dịch mủ, thường diễn biến nhanh (1–5 ngày sau quan hệ).
-  – _Trichomonas vaginalis_: huyết trắng bọt, mùi tanh, ngứa âm đạo.
-  – _Mycoplasma genitalium_: triệu chứng giống Chlamydia nhưng ít gặp và khó chẩn đoán.
+  - _Neisseria gonorrhoeae_: tiểu buốt, tiểu nhiều, tiết dịch mủ, thường diễn biến nhanh (1–5 ngày sau quan hệ).
+  - _Trichomonas vaginalis_: huyết trắng bọt, mùi tanh, ngứa âm đạo.
+  - _Mycoplasma genitalium_: triệu chứng giống Chlamydia nhưng ít gặp và khó chẩn đoán.
 
 - **Viêm cổ tử cung**:
 
-  – _Gonorrhea, Herpes simplex virus (HSV)_: loét, đau rát rõ hơn, dịch mủ hoặc loét nông.
-  – _Lao sinh dục_: thăm khám thấy các ổ viêm, chảy máu dễ, cần cấy Mycobacterium tuberculosis.
-  – _Ureaplasma urealyticum, Ureaplasma parvum, Mycoplasma hominis_: thường đồng nhiễm, khó tách biệt lâm sàng, cần xét nghiệm PCR chuyên biệt.
-  – _Cytomegalovirus (CMV)_: hiếm nếu không suy giảm miễn dịch.
-  – _Liên cầu tan huyết beta nhóm B (Streptococcus agalactiae)_: thường là tác nhân gây viêm hậu sản hơn là STD.
+  - _Gonorrhea, Herpes simplex virus (HSV)_: loét, đau rát rõ hơn, dịch mủ hoặc loét nông.
+  - _Lao sinh dục_: thăm khám thấy các ổ viêm, chảy máu dễ, cần cấy Mycobacterium tuberculosis.
+  - _Ureaplasma urealyticum, Ureaplasma parvum, Mycoplasma hominis_: thường đồng nhiễm, khó tách biệt lâm sàng, cần xét nghiệm PCR chuyên biệt.
+  - _Cytomegalovirus (CMV)_: hiếm nếu không suy giảm miễn dịch.
+  - _Liên cầu tan huyết beta nhóm B (Streptococcus agalactiae)_: thường là tác nhân gây viêm hậu sản hơn là STD.
 
 - **Viêm hậu môn – trực tràng**:
-  – _Gonorrhea, Herpes simplex virus, Treponema pallidum (giang mai)_: loét, mụn nước, ngứa dữ dội, scleroatrophic papulosis, có thể kèm u hạch.
+  - _Gonorrhea, Herpes simplex virus, Treponema pallidum (giang mai)_: loét, mụn nước, ngứa dữ dội, scleroatrophic papulosis, có thể kèm u hạch.
 
 :::caution[Lưu ý]
 
-– _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; do đó, khi nghi ngờ Chlamydia, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
+- _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; do đó, khi nghi ngờ Chlamydia, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
   :::
 
 ## Điều trị

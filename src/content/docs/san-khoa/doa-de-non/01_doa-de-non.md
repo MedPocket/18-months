@@ -131,7 +131,7 @@ Biểu hiện kèm: ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng 
 
 ### Thuốc cắt cơn (tocolytics)
 
-| Nhóm thuốc                   | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                      | Lưu ý                                                                                                                            |
+| Nhóm thuốc                       | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                      | Lưu ý                                                                                                                            |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Đối vận với thụ thể oxytocin** | Đối vận với thụ thể của oxytocin trên cơ tử cung, ngăn cản tác dụng co cơ tử cung của oxytocin nội sinh | Hiện không có tác dụng phụ quan trọng được ghi nhận                                                                                                                               | Là thuốc duy nhất được dán nhãn (_labelled_) cho điều trị sinh non                                                               |
 | **Ức chế kênh calcium**          | Ngăn chặn Ca²⁺ đi vào tế bào                                                                            | Hạ huyết áp và nhức đầu; có thể làm giảm lưu lượng máu nhau-tử cung, giảm oxygen và tăng CO₂ ở thai nhi                                                                           | - Có thể làm nặng thêm tác dụng phụ của MgSO₄<br>- Không được dán nhãn cho điều trị sinh non<br>- Thường ít dùng do tác dụng phụ |
@@ -183,6 +183,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
   - Đang dùng thuốc hạ áp khác.
   - Đa thai.
   - Mẫn cảm với nifedipine, nicardipine.
+
 - **Liều dùng**:
 
   - Liều tấn công 20–30 mg viên tác dụng nhanh, hiệu quả sau 20–30 phút.
@@ -250,19 +251,18 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 - MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần).
 - **Chỉ định**:
-  
+
   - Thai 24–31 + 6 tuần có nguy cơ sinh non trong 24 giờ.
   - Dùng lý tưởng 4 giờ trước sinh khi có chỉ định chấm dứt thai kỳ.
 
 - **Liều**:
-  
+
   - MgSO₄ 4.5 g truyền tĩnh mạch chậm 20–30 phút.
   - Giảm liều nếu thiểu niệu hoặc suy thận.
   - Không phối hợp với thuốc cắt cơn.
 
-- **Chống chỉ định**: mẹ bị nhược cơ.  
+- **Chống chỉ định**: mẹ bị nhược cơ.
 - **Thận trọng**: mẹ có bệnh cơ tim hoặc rối loạn dẫn truyền nhịp.
-
 
 ## Dự phòng
 

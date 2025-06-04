@@ -130,22 +130,23 @@ Tại cơ sở không đủ điều kiện xét nghiệm, có thể chẩn đoá
 
 - **Lậu sinh dục**:
 
-  – _Chlamydia trachomatis_: Tiết dịch mủ niệu đạo hoặc dịch âm đạo tương tự, nhưng thường ít mủ hơn, soi tươi nhuộm Gram không thấy song cầu.
-  – _Trichomonas vaginalis_: Huyết trắng bọt, mùi tanh, soi tươi thấy trùng roi lắc lư.
-  – _Candida albicans_: Khí hư đặc, trắng như phô mai, ngứa nhiều, soi tươi thấy bào tử và giả sợi.
-  – _Ureaplasma urealyticum_/_Mycoplasma genitalium_: Ít triệu chứng, tiểu buốt, chẩn đoán bằng PCR chuyên biệt.
+  - _Chlamydia trachomatis_: Tiết dịch mủ niệu đạo hoặc dịch âm đạo tương tự, nhưng thường ít mủ hơn, soi tươi nhuộm Gram không thấy song cầu.
+  - _Trichomonas vaginalis_: Huyết trắng bọt, mùi tanh, soi tươi thấy trùng roi lắc lư.
+  - _Candida albicans_: Khí hư đặc, trắng như phô mai, ngứa nhiều, soi tươi thấy bào tử và giả sợi.
+  - _Ureaplasma urealyticum_/_Mycoplasma genitalium_: Ít triệu chứng, tiểu buốt, chẩn đoán bằng PCR chuyên biệt.
   - Viêm niệu đạo không do nhiễm trùng (viêm do chấn thương, kích ứng hóa chất).
 
 - **Lậu hậu môn – trực tràng**:
 
-  – _Chlamydia trachomatis_, _Treponema pallidum_ (giang mai), _Herpes simplex virus_ (HSV), _Candida_; cần soi, nuôi cấy, NAATs đặc hiệu.
+  - _Chlamydia trachomatis_, _Treponema pallidum_ (giang mai), _Herpes simplex virus_ (HSV), _Candida_; cần soi, nuôi cấy, NAATs đặc hiệu.
 
 - **Lậu hầu họng**:
 
-  – _Streptococcus nhóm A_ (viêm họng liên cầu), _Mycoplasma pneumoniae_, _Chlamydia pneumoniae_, virus đường hô hấp.
+  - _Streptococcus nhóm A_ (viêm họng liên cầu), _Mycoplasma pneumoniae_, _Chlamydia pneumoniae_, virus đường hô hấp.
 
 - **Viêm kết mạc mắt do lậu ở trẻ sơ sinh**:
-  – _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_, _Chlamydia trachomatis_; cần nuôi cấy mẫu mủ mắt, NAATs nếu có.
+
+  - _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_, _Chlamydia trachomatis_; cần nuôi cấy mẫu mủ mắt, NAATs nếu có.
 
 :::caution[Lưu ý]
 _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi nghi ngờ lậu, luôn làm thêm xét nghiệm Chlamydia (NAATs) để điều trị đồng thời.  
