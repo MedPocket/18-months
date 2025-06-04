@@ -7,6 +7,10 @@ Tuyến vú (mammary gland) là một cơ quan da phụ có chức năng sinh s�
 
 ## Giải phẫu
 
+![Giải phẫu tuyến vú](../../../../assets/phu-khoa/giai-phau-va-mo-hoc-tuyen-vu/giai-phau-tuyen-vu.jpeg)
+
+_Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan với cơ ngực._
+
 1. **Vị trí và hình thái chung**
 
    - Tuyến vú nằm trên thành ngực, phủ lên các cơ ngực lớn (pectoralis major) và cơ ngực bé (pectoralis minor). Vú được cố định vào thành ngực bởi hệ thống cân mạc sâu (Cooper’s ligaments) và các dây chằng lỏng lẻo (suspensory ligaments) nối từ da xuống cân cơ ngực.
@@ -39,14 +43,6 @@ Tuyến vú (mammary gland) là một cơ quan da phụ có chức năng sinh s�
    - Chiếm khoảng 50–80% thể tích vú ở phụ nữ trưởng thành, đặc biệt ở người không cho con bú.
    - Mô mỡ nằm xen kẽ giữa các tiểu thùy và bọc quanh hệ thống ống tuyến, đóng vai trò bảo vệ, tạo hình và cung cấp năng lượng.
 
-![Giải phẫu học tuyến vú 1](../../../../assets/phu-khoa/giai-phau-va-mo-hoc-tuyen-vu/giai-phau-tuyen-vu-1.png)
-
-_(Trái) Hình ảnh giải phẫu tuyến vú thể hiện các mạch máu chính và hệ thống ống dẫn. (Phải) Dẫn lưu bạch huyết của tuyến vú đi theo đường nách, cạnh ức và hạ đòn. Xương đòn là mốc quan trọng đánh giá tình trạng di căn hạch của ung thư vú._
-
-![Giải phẫu học tuyến vú 2](../../../../assets/phu-khoa/giai-phau-va-mo-hoc-tuyen-vu/giai-phau-tuyen-vu-2.jpeg)
-
-_Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan với cơ ngực._
-
 ## Mô học
 
 ### Đơn vị cấu trúc chức năng
@@ -76,7 +72,7 @@ _Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan 
    - Mô mỡ xung quanh các ống và nang tạo độ đàn hồi, đặc biệt thay đổi theo hormon và cân nặng cơ thể.
    - Các dải mô liên kết (Cooper’s ligaments) kéo dài từ da xuống tới fascia cơ ngực, giữ cho bầu vú không bị sa trễ khi đứng và vận động.
 
-### Đặc điểm mô học liên quan đến ung thư vú
+### Mô học liên quan đến ung thư vú
 
 - **Ưu thế xuất phát từ biểu mô:** Hầu hết các khối u vú xuất phát từ biểu mô ống (ductal carcinoma) hơn là biểu mô nang (lobular carcinoma) do diện tích biểu mô ống lớn hơn.
 - **Thụ thể hormone (ER/PR):**

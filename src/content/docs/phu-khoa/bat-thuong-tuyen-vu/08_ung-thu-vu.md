@@ -149,10 +149,10 @@ _Lưu ý: BI-RADS do Hiệp hội Quang tuyến Hoa Kỳ (ACR) bản quyền. C�
   - Đánh giá tổng thể vú khi nghi ngờ nhiều ổ bệnh.
   - Hỗ trợ lên kế hoạch phẫu thuật cho ung thư vú giai đoạn sớm hoặc khả năng có ung thư nhiều ổ.
 - **Ưu điểm**:
-  - Độ nhạy rất cao (≈ 98%).
+  - Độ nhạy rất cao (98%).
   - Phát hiện tổn thương nhỏ, nhiều ổ, hoặc ung thư dưới mầu xạ (occult lesion).
 - **Hạn chế**:
-  - Độ đặc hiệu thấp (≈ 75%) dẫn đến dương tính giả cao.
+  - Độ đặc hiệu thấp (75%) dẫn đến dương tính giả cao.
   - Chi phí cao, thời gian chụp lâu và cần tiêm thuốc tương phản gadolinium.
 
 ### Giải phẫu bệnh

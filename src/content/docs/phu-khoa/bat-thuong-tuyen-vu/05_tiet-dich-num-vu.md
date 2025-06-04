@@ -5,7 +5,7 @@ description: Tổng hợp các nguyên nhân, phân loại và cách xử trí t
 
 Tiết dịch núm vú (nipple discharge) là hiện tượng có dịch chảy ra từ một hoặc cả hai núm vú. Phần lớn nguyên nhân gây tiết dịch núm vú là lành tính, nhưng cần phân biệt kỹ để không bỏ sót các tổn thương ác tính. Dịch tiết có thể đa dạng về màu sắc (trắng như sữa, vàng, máu, nâu, đục, mủ), số lượng, tính chất, và mức độ liên quan đến kích thích hay chủ động tự phát.
 
-### Phân loại tiết dịch
+### Phân loại
 
 1. **Tiết sữa (galactorrhea)**
 
@@ -26,7 +26,6 @@ Tiết dịch núm vú (nipple discharge) là hiện tượng có dịch chảy 
 
 ## Tiết sữa
 
-**Định nghĩa**  
 Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thường hai bên vú, không liên quan đến việc cho con bú. Hiện tượng này chủ yếu do tăng tiết hormone prolactin, tác động lên biểu mô ống tuyến vú.
 
 ### Nguyên nhân
@@ -96,25 +95,16 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
     - Liều 0.25–0.5 mg 1–2 lần/tuần, hiệu quả kéo dài, ít tác dụng phụ vã mồ hôi, buồn nôn hơn Bromocriptine.
     - Dùng trong 3–6 tháng, theo dõi prolactin mỗi 4–6 tuần.
 
-- **Theo dõi hậu điều trị**
-  - Đo lại prolactin máu sau 1–2 tháng.
-  - Nếu u tuyến yên > 10 mm hoặc còn triệu chứng thần kinh thị, cần tái khám chuyên khoa thần kinh – nội tiết đánh giá khả năng phẫu thuật hoặc xạ trị.
+### Theo dõi sau điều trị
+
+- Đo lại prolactin máu sau 1–2 tháng.
+- Nếu u tuyến yên > 10 mm hoặc còn triệu chứng thần kinh thị, cần tái khám chuyên khoa thần kinh – nội tiết đánh giá khả năng phẫu thuật hoặc xạ trị.
 
 ## Tiết dịch bệnh lý
 
 Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịch có tính chất bất thường (máu, mủ, dịch đục) chảy tự phát từ một ống tuyến ở một bên vú. Tình trạng này luôn cần được đánh giá kỹ để loại trừ bướu nhú, ung thư ống tại chỗ (DCIS) hoặc ung thư xâm lấn.
 
-### Đặc điểm lâm sàng
-
-- **Một bên vú**: Dịch chỉ xuất hiện ở một vú, thường không đau hoặc chỉ đau nhẹ.
-- **Một ống tuyến**: Bệnh nhân có thể chỉ ra rõ vị trí ống chảy dịch khi ấn nhẹ xung quanh quầng vú.
-- **Tự phát, không liên quan kích thích**: Dịch chảy tự nhiên, không cần ép mạnh hoặc kích thích kéo dài.
-- **Màu sắc bất thường**:
-  - **Máu tươi hoặc nâu đậm** (dấu hiệu nguy cơ ung thư cao).
-  - **Dịch mủ**: Gợi ý áp xe hoặc viêm ống tuyến.
-  - **Dịch đục hoặc vàng đục**: Thường gặp trong viêm vú hoặc tổn thương apocrine.
-
-### Nguyên nhân chính
+### Nguyên nhân
 
 1. **Bướu nhú trong ống (Intraductal papilloma)**
 
@@ -152,13 +142,23 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
    - **Xơ hóa ống tuyến phức tạp (Complex sclerosing lesion/Radial scar)**: Hiếm hơn nhưng có thể làm chảy dịch lẫn máu.
    - **Từng xạ trị ngực**: Viêm mạch máu – ống tuyến dễ chảy dịch.
 
+### Lâm sàng
+
+- **Một bên vú**: Dịch chỉ xuất hiện ở một vú, thường không đau hoặc chỉ đau nhẹ.
+- **Một ống tuyến**: Bệnh nhân có thể chỉ ra rõ vị trí ống chảy dịch khi ấn nhẹ xung quanh quầng vú.
+- **Tự phát, không liên quan kích thích**: Dịch chảy tự nhiên, không cần ép mạnh hoặc kích thích kéo dài.
+- **Màu sắc bất thường**:
+  - **Máu tươi hoặc nâu đậm** (dấu hiệu nguy cơ ung thư cao).
+  - **Dịch mủ**: Gợi ý áp xe hoặc viêm ống tuyến.
+  - **Dịch đục hoặc vàng đục**: Thường gặp trong viêm vú hoặc tổn thương apocrine.
+
 ### Cận lâm sàng
 
 1. **Đo prolactin máu**
 
    - Mục đích loại trừ galactorrhea, nếu bệnh nhân có tiết dịch trắng, hai bên, prolactin tăng, cần ưu tiên chẩn đoán tiết sữa.
 
-2. **Siêu âm tuyến vú**
+2. **Siêu âm**
 
    - Phát hiện khối u (như Intraductal papilloma), nang, ống giãn, áp xe.
    - Hướng dẫn chọc hút dịch, sinh thiết lõi nếu thấy khối nhỏ hoặc dãn ống khu trú.

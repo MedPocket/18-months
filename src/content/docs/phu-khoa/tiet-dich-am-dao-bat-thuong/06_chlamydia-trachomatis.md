@@ -20,7 +20,7 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
 - **Dịch tễ học**:
   - Là STI phổ biến nhất trong nhóm vi khuẩn trên thế giới, đặc biệt ở phụ nữ dưới 25 tuổi.
-  - Xấp xỉ 70–80% nữ và 50% nam mắc Chlamydia không có triệu chứng rõ ràng, làm tăng nguy cơ lây lan và khó phát hiện.
+  - 70–80% nữ và 50% nam mắc Chlamydia không có triệu chứng rõ ràng, làm tăng nguy cơ lây lan và khó phát hiện.
 
 ## Biến chứng
 

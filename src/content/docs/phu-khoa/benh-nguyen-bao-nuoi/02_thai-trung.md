@@ -23,7 +23,7 @@ Thai trứng là tình trạng gặp trong 1/200–1/1000 ca thai nghén, do b�
   - Bộ NST tam bội 69,XXY (thường), 69,XXX hoặc 69,XYY.
   - Thụ tinh trứng bình thường (có nhân) với 2 tinh trùng hoặc 1 tinh trùng rồi nhân đôi.
 
-## Mô bệnh học
+## Mô học
 
 - **Đại thể**: tử cung to hơn tuổi thai, mô rau biến thành túi nang nước nhỏ như chùm nho.
 - **Vi thể**: gai rau phồng to chứa dịch, hóa nang, phủ bởi lớp nguyên bào nuôi tăng sinh.

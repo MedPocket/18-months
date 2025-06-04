@@ -13,7 +13,7 @@ U vú có thể lành tính hoặc ác tính, tuy nhiên phần lớn là u làn
 
 **Cận lâm sàng**: siêu âm và nhũ ảnh để phân loại theo BIRADS. Các tổn thương BIRADS II và III thường lành tính, cần theo dõi hoặc xử trí theo phác đồ.
 
-## Phác đồ xử trí
+## Xử trí
 
 ![Xử trí nang vú – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/u-vu/xu-tri-nang-vu.jpeg)
 

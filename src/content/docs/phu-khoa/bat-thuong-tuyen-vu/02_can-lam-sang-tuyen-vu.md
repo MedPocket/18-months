@@ -105,7 +105,7 @@ MRI tuyến vú sử dụng nguyên tắc cộng hưởng hạt nhân, cho phép
 
 - **Ưu điểm**:
 
-  - Độ nhạy cao (≈ 90–95%) trong phát hiện tổn thương vú, đặc biệt ở phụ nữ nguy cơ cao hoặc vú đậm đặc.
+  - Độ nhạy cao (90–95%) trong phát hiện tổn thương vú, đặc biệt ở phụ nữ nguy cơ cao hoặc vú đậm đặc.
   - Phân biệt rõ tổn thương đa ổ (multifocal, multicentric).
   - Đánh giá chính xác kích thước thực của u trước khi phẫu thuật.
   - Phát hiện di căn hạch thượng đòn, cạnh ức.
@@ -113,7 +113,7 @@ MRI tuyến vú sử dụng nguyên tắc cộng hưởng hạt nhân, cho phép
 - **Hạn chế**:
 
   - Chi phí cao, thời gian chụp lâu (30–45 phút).
-  - Độ đặc hiệu thấp hơn nhũ ảnh (xấp xỉ 72–75%), dễ có dương tính giả (nang u lành tính, mô xơ tăng sinh).
+  - Độ đặc hiệu thấp hơn nhũ ảnh (72–75%), dễ có dương tính giả (nang u lành tính, mô xơ tăng sinh).
   - Không thích hợp cho phụ nữ có máy tạo nhịp tim, thiết bị kim loại không tương thích.
 
 - **Chỉ định (theo khuyến cáo Hội Ung thư Hoa Kỳ – ACS)**:

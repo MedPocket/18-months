@@ -3,10 +3,16 @@ title: Bệnh lý lành tính tuyến vú
 description: Tổng hợp các bệnh lý lành tính thường gặp ở tuyến vú, phân loại theo lâm sàng và mô học, bao gồm bướu sợi-tuyến, bướu diệp thể, bướu nhú, nang vú, hamartoma, bệnh Mondor, u mỡ, tuyến vú phụ và bệnh vú thay đổi sợi bọc.
 ---
 
-Bệnh lý lành tính tuyến vú rất đa dạng, thường ít nguy hiểm nhưng có thể gây lo lắng cho người bệnh do sờ thấy khối hoặc có triệu chứng tiết dịch. Các bệnh lý này được phân loại theo:
+Bệnh lý lành tính tuyến vú rất đa dạng, thường ít nguy hiểm nhưng có thể gây lo lắng cho người bệnh do sờ thấy khối hoặc có triệu chứng tiết dịch.
+
+## Phân loại
+
+Các bệnh lý này được phân loại theo:
 
 1. **Đặc điểm lâm sàng**: dựa vào triệu chứng, dấu hiệu khi thăm khám, hình ảnh học (hình thành khối, tiết dịch, đau, thay đổi da).
 2. **Mô học**: dựa vào kết quả sinh thiết, phân loại tổn thương tế bào và mô đệm.
+
+### Theo lâm sàng
 
 | Loại tổn thương                                             | Các dạng cụ thể                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,6 +23,8 @@ Bệnh lý lành tính tuyến vú rất đa dạng, thường ít nguy hiểm n
 | **Những tổn thương có nguy cơ phát triển thành ung thư vú** | - Tăng sinh trong ống dẫn sữa (Ductal hyperplasia)<br>- Bệnh lý xơ nang tuyến vú (Sclerosing adenosis)<br>- Bướu sợi tuyến phức tạp (Complex fibroadenomas)<br>- Tăng sản không điển hình (Atypical hyperplasia)<br>- Sẹo hình sao (Radial scar)                                 |
 
 _Phân loại bệnh lý tuyến vú theo đặc điểm lâm sàng._
+
+### Theo mô học
 
 | Loại tổn thương                                                           | Các dạng cụ thể                                                                                                                                                                                      |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

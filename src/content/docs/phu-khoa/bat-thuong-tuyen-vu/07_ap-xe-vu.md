@@ -27,7 +27,7 @@ description: Áp xe vú.
 - Tắc tia sữa.
 - Suy giảm miễn dịch.
 
-## Chẩn đoán xác định
+## Đặc điểm
 
 ### Lâm sàng
 

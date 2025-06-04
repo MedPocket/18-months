@@ -11,7 +11,7 @@ description: Đau vú (mastalgia) là triệu chứng phổ biến khiến phụ
   1. Đau vú có phải là biểu hiện của ung thư vú không?
   2. Đau vú ảnh hưởng đến sinh hoạt hàng ngày và đời sống tình dục ra sao?
 
-## Phân loại đau vú
+## Phân loại
 
 Đau vú được phân thành ba nhóm chính dựa trên mối liên hệ với chu kỳ kinh và vị trí đau:
 
@@ -118,20 +118,27 @@ Ngoài ra, một số yếu tố khác có thể góp phần:
 
 Nếu nhũ ảnh và siêu âm đều không phát hiện tổn thương, bệnh nhân có thể được theo dõi lâm sàng. Nếu vẫn đau dai dẳng hoặc có hình ảnh nghi ngờ, cần cân nhắc sinh thiết.
 
-## Điều trị đau vú
+## Điều trị
 
 Việc điều trị đau vú chỉ được khuyến nghị khi triệu chứng ảnh hưởng đến chất lượng cuộc sống. Nếu đau vú do nguyên nhân ngoài tuyến vú (như viêm sụn sườn, zona), cần điều trị theo nguyên nhân. Với đau vú nguyên nhân không xác định rõ, hiệu quả của các biện pháp điều trị còn nhiều tranh cãi.
 
-### Điều trị đau vú theo chu kỳ
-
-Quyết định điều trị dựa trên 4 yếu tố:
+**Quyết định điều trị dựa trên 4 yếu tố**:
 
 1. Mức độ nghiêm trọng của đau (điểm số đau, tác động sinh hoạt).
 2. Tuổi tác và chu kỳ sinh sản (mong muốn mang thai, cho con bú).
 3. Tình trạng tổng thể (tiền sử bệnh lý, thuốc đang dùng).
 4. Mong muốn của bệnh nhân (sẵn sàng thử thách nghiệm pháp, tác dụng phụ).
 
-#### Biện pháp không dùng thuốc
+### Xử trí
+
+- Bắt đầu bằng khám lâm sàng, hỏi tiền sử, phân loại đau (chu kỳ, không chu kỳ, ngoài vú).
+- Nếu ≥ 35 tuổi và chưa có nhũ ảnh gần đây (< 1 năm), chỉ định nhũ ảnh kết hợp siêu âm (nếu cần).
+- Nếu < 35 tuổi, bắt đầu với siêu âm toàn bộ vú.
+- Nếu phát hiện khối bất thường hoặc bất kỳ hình ảnh nghi ngờ, thực hiện sinh thiết (FNA, core biopsy) tùy hướng dẫn hình ảnh.
+- Với các trường hợp đau vú lành tính, không có khối trên hình ảnh, áp dụng biện pháp không dùng thuốc, điều chỉnh lối sống và theo dõi sau 6–12 tuần.
+- Nếu không cải thiện, cân nhắc điều trị nội tiết tố theo thứ tự: Tamoxifen → Danazol → Bromocriptine (chỉ khi thật cần và có giám sát).
+
+### Không dùng thuốc
 
 1. **Chọn áo ngực phù hợp**
 
@@ -162,7 +169,7 @@ Quyết định điều trị dựa trên 4 yếu tố:
 6. **Thoa dầu thảo dược**
    - Một số dầu thảo dược (dầu hoa anh thảo, dầu dừa, dầu jojoba) được thoa lên vú vào buổi tối theo kinh nghiệm, nhưng hiệu quả không khác biệt so với giả dược.
 
-#### Điều trị nội tiết tố
+### Nội khoa
 
 Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 2–6 tháng, khi biện pháp không dùng thuốc không hiệu quả.
 
@@ -195,7 +202,7 @@ Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 
    - Đồng vận dopamine, ức chế tiết prolactin, liều 2.5–5 mg/ngày chia 2 lần, kéo dài 2–3 tháng. Giảm đau vú ở 47–88% trường hợp.
    - Tác dụng phụ: buồn nôn, nôn, chóng mặt, hạ huyết áp tư thế. Nhiều bệnh nhân không chịu được các tác dụng phụ nên tự ngưng thuốc.
 
-### Phẫu thuật
+### Ngoại khoa
 
 - Chỉ cân nhắc phẫu thuật khi điểm đau **cực kỳ khu trú**, xác định rõ vùng nhỏ trên lâm sàng và không đáp ứng với điều trị bảo tồn.
 - Việc cắt bỏ vùng đau (local excision) đôi khi giúp giảm đau đáng kể nếu nguồn đau đến từ một mô xơ hóa, u giả cân…
@@ -209,13 +216,6 @@ _Điều trị đau vú – Phác đồ Cardiff, 2009._
 ![Đánh giá và xử trí đau vú – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/dau-vu/danh-gia-va-xu-tri-dau-vu.png)
 
 _Đánh giá và xử trí đau vú – Bệnh viện Từ Dũ._
-
-- Bắt đầu bằng khám lâm sàng, hỏi tiền sử, phân loại đau (chu kỳ, không chu kỳ, ngoài vú).
-- Nếu ≥ 35 tuổi và chưa có nhũ ảnh gần đây (< 1 năm), chỉ định nhũ ảnh kết hợp siêu âm (nếu cần).
-- Nếu < 35 tuổi, bắt đầu với siêu âm toàn bộ vú.
-- Nếu phát hiện khối bất thường hoặc bất kỳ hình ảnh nghi ngờ, thực hiện sinh thiết (FNA, core biopsy) tùy hướng dẫn hình ảnh.
-- Với các trường hợp đau vú lành tính, không có khối trên hình ảnh, áp dụng biện pháp không dùng thuốc, điều chỉnh lối sống và theo dõi sau 6–12 tuần.
-- Nếu không cải thiện, cân nhắc điều trị nội tiết tố theo thứ tự: Tamoxifen → Danazol → Bromocriptine (chỉ khi thật cần và có giám sát).
 
 ## Nguồn tham khảo
 
