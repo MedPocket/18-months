@@ -124,11 +124,15 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 - Tác dụng phụ: đau đầu, chóng mặt, buồn nôn.
 - Chống chỉ định: đau thắt ngực không ổn định, sốc tim, hẹp van ĐMC nặng; thận trọng 3 tháng đầu.
 
-### Lợi tiểu & Ức chế men chuyển
+### Lợi tiểu
 
 - **Furosemide**: chỉ dùng khi thiểu/vô niệu, phù phổi cấp; liều 20 mg TM chậm.
-- **Không dùng lợi tiểu** thông thường do giảm tưới máu tử cung và **ức chế men chuyển** do nguy cơ dị tật.
+- **Không dùng lợi tiểu** thông thường do giảm tưới máu tử cung.
 - Dùng khi thiểu niệu (< 800 mL/24 h, đặc biệt < 400 mL). Liều 20 mg TM chậm, có thể lặp lại theo đáp ứng.
+
+### Ức chế men chuyển
+
+- **Không dùng ức chế men chuyển** do nguy cơ dị tật.
 
 ## Nguồn tham khảo
 
