@@ -63,9 +63,3 @@ Trước can thiệp, bệnh nhân phải được tư vấn về nguy cơ dính
 - Đánh giá **tổng trạng, dự trữ buồng trứng** (AMH, FSH).
 - Ưu tiên chu kỳ ICSI nếu vòi Fallop tổn thương nặng.
 - Đối với nhân xơ kích thước nhỏ, không biến dạng lòng tử cung, có thể bắt đầu ART, theo dõi sát.
-
-## Tóm tắt
-
-- Trong thai kỳ, ưu tiên **giảm đau an toàn** và chỉ bóc u khi có chỉ định rõ ràng.
-- Ở phụ nữ hiếm muộn, **vị trí dưới niêm mạc (L0–L2)** là đối tượng can thiệp nội soi buồng tử cung trước ART; với u trong cơ, cân nhắc nếu thất bại lặp lại.
-- Luôn **đánh giá cá thể**, trao đổi kỹ với bệnh nhân về lợi ích – nguy cơ trước khi quyết định can thiệp.

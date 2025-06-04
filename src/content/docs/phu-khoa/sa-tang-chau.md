@@ -11,9 +11,7 @@ Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là sự tụt x
 - **Hệ thống treo**: Dây chằng mu-niệu đạo, mạc mu-cổ tử cung, dây chằng tử cung-cùng, dây chằng ngang tử cung, cân Halban, cân trực tràng–âm đạo.
 - **Hệ thống định hướng**: Dây chằng tròn, dây chằng rộng.
 
-## Phân loại và phân độ
-
-### Phân loại
+## Phân loại
 
 | Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại                                                              | Xét nghiệm cần thiết     |
 | ------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------ |
@@ -21,7 +19,7 @@ Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là sự tụt x
 | **Vòm âm đạo (ngăn giữa)**           | Túi sa ruột non: trước, sau<br>Sa tử cung<br>Sa mỏm cắt                                | MRI động ± Niệu động học |
 | **Thành sau (ngăn sau)**             | Túi trực tràng: cao, giữa, thấp<br>Sa trực tràng<br>Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
 
-### Phân độ
+## Phân độ
 
 ![Phân loại - Phân độ sa tạng chậu](../../../assets/phu-khoa/sa-tang-chau/phan-loai-phan-do-sa-tang-chau.jpg)
 
@@ -55,7 +53,7 @@ _Phân loại - Phân độ sa tạng chậu._
 
 _Sơ đồ chẩn đoán sa tạng chậu._
 
-## Xét nghiệm chẩn đoán và chuyên biệt
+## Đánh giá cận lâm sàng
 
 ### Xét nghiệm thường quy
 
@@ -89,8 +87,7 @@ Dựa vào lâm sàng (POP-Q) và kết quả cận lâm sàng, ghi rõ:
 - Rối loạn tiết niệu hoặc đi cầu kèm theo.
 - Tổn thương kèm: rách cơ thắt, táo bón…
 
-**Ví dụ**:  
-Sa tử cung độ III, sa bàng quang độ II, sa trực tràng độ II, tiểu không kiểm soát khi gắng sức, rách cơ thắt hậu môn diện rộng, táo bón.
+Ví dụ: Sa tử cung độ III, sa bàng quang độ II, sa trực tràng độ II, tiểu không kiểm soát khi gắng sức, rách cơ thắt hậu môn diện rộng, táo bón.
 
 ## Điều trị
 
@@ -148,15 +145,15 @@ Sa độ I–II, triệu chứng nhẹ, chưa ảnh hưởng chất lượng s�
 - **Chống chỉ định tuyệt đối**: rối loạn đông máu, xơ gan, bệnh lý mạch máu, đái tháo đường không kiểm soát, nhiễm khuẩn, tiền ung thư chưa điều trị, xạ trị vùng chậu, nghiện thuốc lá nặng.
 - **Chống chỉ định tương đối**: niêm mạc âm đạo mỏng, vết thương niệu đạo/bàng quang/trực tràng, kèm cắt tử cung, không đủ mô che phủ.
 
-#### Đường vào phẫu thuật
-
-- **Ngả âm đạo**: BN cao tuổi (>70), gây mê ngắn, vết mổ nhiều lần, béo phì.
-- **Ngả bụng/nội soi**: BN trẻ, mong muốn bảo tồn tử cung, sa độ III–IV, thất bại phẫu thuật ngả âm đạo.
-- **Kết hợp**: khi cần đặt mảnh ghép qua cả hai đường để tăng hiệu quả.
-
 ![Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
 
 _Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ Dũ._
+
+#### Đường vào phẫu thuật
+
+- **Ngả âm đạo**: BN cao tuổi (> 70), gây mê ngắn, vết mổ nhiều lần, béo phì.
+- **Ngả bụng/nội soi**: BN trẻ, mong muốn bảo tồn tử cung, sa độ III–IV, thất bại phẫu thuật ngả âm đạo.
+- **Kết hợp**: khi cần đặt mảnh ghép qua cả hai đường để tăng hiệu quả.
 
 ![Phẫu thuật ngả bụng – Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-bung.jpeg)
 

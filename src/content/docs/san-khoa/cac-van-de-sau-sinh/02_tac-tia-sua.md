@@ -61,13 +61,6 @@ Tắc tia sữa là tình trạng sữa ứ đọng trong các ống dẫn sữa
 - **Tiếp tục cho bú/vắt**: Duy trì tần suất 3–4 giờ/lần, ngay cả khi đã hết tắc.
 - **Theo dõi tái phát**: Kiểm tra định kỳ, đảm bảo không có cục sữa ứ đọng mới.
 
-## Tóm tắt
-
-- **Nguyên nhân**: bú/vắt không kỹ, áo chật, stress.
-- **Không thuốc**: bú/vắt thường xuyên, massage, chườm ấm, thay tư thế, nghỉ ngơi.
-- **Thuốc**: NSAIDs, kháng sinh khi viêm, metoclopramide/domperidone nếu cần tăng tiết sữa.
-- **Chăm sóc**: giữ vệ sinh, tiếp tục bú/vắt, theo dõi.
-
 ## Nguồn tham khảo
 
 - American Family Physician (2015) - _Management of Lactational Mastitis and Blocked Milk Ducts_

@@ -120,15 +120,6 @@ _Thuốc tăng co tử cung và hồi phục tử cung._
 - **Ưu điểm**: rẻ, dễ bảo quản, nhiều đường dùng.
 - **Tác dụng phụ**: sốt, tiêu chảy, buồn nôn.
 
-## Tóm tắt
-
-Thuốc tăng co tử cung (uterotonics) được sử dụng để:
-
-- **Khởi phát và điều chỉnh chuyển dạ** (oxytocin, misoprostol).
-- **Dự phòng và điều trị băng huyết sau sinh** do đờ tử cung hoặc can thiệp sản khoa (ergot alkaloids, carboprost, carbetocin).
-
-Hiệu quả của thuốc phụ thuộc vào giai đoạn thai, mức độ chín muồi cổ tử cung, và đáp ứng của cơ tử cung với các nội tiết tố tăng co.
-
 ## Nguồn tham khảo
 
 - PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài – _Thực hành Sản Phụ khoa_

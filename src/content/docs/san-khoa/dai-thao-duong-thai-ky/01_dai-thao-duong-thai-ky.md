@@ -261,24 +261,6 @@ _Tóm tắt thời điểm và chỉ định cách sinh._
 4. **Thuốc dự phòng tiền sản giật**: Aspirin 60–150 mg/ngày trong 3 tháng đầu.
 5. **Tư vấn dinh dưỡng – luyện tập** sớm, đánh giá các biến chứng mạch máu, thận trước khi mang thai.
 
-## Tóm tắt
-
-- **HIP** (Hyperglycemia in Pregnancy) bao gồm ĐTĐ đã có trước và ĐTĐ khởi phát khi mang thai.
-- **Phân loại**:
-  - **DIP** (Overt diabetes in pregnancy): tiêu chuẩn ĐTĐ rõ, phát hiện trong thai kỳ.
-  - **GDM** (Gestational Diabetes Mellitus): tăng glucose nhẹ, thường sau 24–28 tuần.
-- **Sàng lọc & chẩn đoán**:
-  - Tam cá nguyệt 1: đánh giá nguy cơ, xét nghiệm glucose đói/HbA1c.
-  - Tam cá nguyệt 2 (24–28 tuần): OGTT 75 g, chẩn đoán khi ≥ 1 tiêu chí bất thường.
-- **Điều trị**:
-  - Không dùng thuốc: MNT, vận động, theo dõi glucose mao mạch.
-  - Khi MNT thất bại: insulin basal, bolus hoặc basal-bolus.
-- **Theo dõi**:
-  - Trong thai kỳ: đo glucose mao mạch, đếm cử động thai.
-  - Chuyển dạ: giữ glucose 70–100 mg/dL.
-  - Sau sinh: giảm liều insulin, theo dõi trẻ sơ sinh.
-- **Chuẩn bị trước mang thai**: HbA1c < 6.5%, điều chỉnh insulin và dinh dưỡng.
-
 ## Nguồn tham khảo
 
 - Bộ Y tế (2023) – _Hướng dẫn quốc gia về sàng lọc và quản lý ĐTĐ thai kỳ_

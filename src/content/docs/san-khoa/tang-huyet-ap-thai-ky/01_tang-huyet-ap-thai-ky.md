@@ -261,18 +261,6 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
    - Sau khi ổn định mẹ, tiến hành sinh nhanh.
    - Phương pháp sinh tùy theo tình trạng mẹ và thai (thường là mổ lấy thai).
 
-## Tóm tắt
-
-| **Chủ đề**                       | **Nội dung chính**                                                          |
-| -------------------------------- | --------------------------------------------------------------------------- |
-| **Cơ chế bệnh sinh**             | Tổn thương bánh rau, mất cân bằng yếu tố tân tạo – kháng tạo mạch           |
-| **Phân loại tăng huyết áp**      | Tăng huyết áp mạn, tăng huyết áp thai kỳ, tiền sản giật, sản giật           |
-| **Chẩn đoán tiền sản giật**      | Huyết áp ≥ 140/90 mmHg, đạm niệu ≥ 300 mg/24 giờ hoặc 1+ trên que nước tiểu |
-| **Dấu hiệu nặng tiền sản giật**  | Huyết áp ≥ 160/110 mmHg, giảm tiểu cầu, suy gan/thận, triệu chứng thần kinh |
-| **Hội chứng HELLP**              | Hemolysis, tăng men gan, giảm tiểu cầu                                      |
-| **Xử trí tiền sản giật**         | Theo dõi, chỉ định sinh khi có dấu hiệu nặng hoặc thai đủ tuổi              |
-| **Dự phòng & điều trị sản giật** | MgSO₄, kiểm soát huyết áp, bảo vệ mẹ và thai                                |
-
 ## Nguồn tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

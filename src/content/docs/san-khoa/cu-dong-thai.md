@@ -57,19 +57,6 @@ Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lư�
 - Nếu NST bình thường nhưng thai kỳ có nguy cơ, nên thực hiện thêm test hỗ trợ khác trong vòng 24 giờ.
 - Nếu NST không điển hình hay bất thường thì test hỗ trợ được khuyên thực hiện sớm nhất có thể.
 
-## Tóm tắt
-
-- Đếm cử động thai là phương pháp đơn giản, không tốn kém, dùng để đánh giá sức khỏe thai nhi qua mức độ vận động.
-- Cử động thai giảm liên quan đến tình trạng suy giảm tưới máu bánh rau, toan hóa máu, và tăng nguy cơ tử vong, thai chậm tăng trưởng.
-- Thai phụ thường nhận biết cử động thai đều sau 24 tuần, khuyến cáo đếm từ 26–32 tuần tuổi thai.
-- Thai nhi khỏe mạnh thường có khoảng 10 cử động trong 20 phút; ≤ 3 cử động/giờ được xem là bất thường.
-- Thời điểm đếm tốt nhất là đầu buổi tối, tư thế nằm giúp nhận biết cử động tốt hơn.
-- Hút thuốc lá và một số thuốc hướng thần kinh, corticosteroids có thể làm giảm cử động thai thoáng qua.
-- Các phương pháp đếm phổ biến: Cardiff, Sadovsky, với thời gian đếm từ 30 phút đến 12 giờ tùy phương pháp.
-- Khuyến cáo của SOGC: thai phụ đếm đến 6 cử động riêng biệt trong 2 giờ, nếu không đạt cần kiểm tra thêm.
-- Khi phát hiện giảm cử động thai, cần làm NST và siêu âm sớm để đánh giá, quyết định theo dõi hay can thiệp.
-- Tỷ lệ dương tính giả khi đếm cử động thai khá cao; thai phụ cần được giải thích để tránh lo lắng không cần thiết.
-
 ## Nguồn tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

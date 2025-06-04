@@ -110,14 +110,6 @@ Siêu âm là phương tiện đầu tay trong đánh giá khối u phần phụ
 
 _Theo dõi u phần phụ – Bệnh viện Từ Dũ._
 
-## Tóm tắt
-
-- **U phần phụ** là thuật ngữ chung để chỉ tất cả khối u xuất phát từ buồng trứng, vòi trứng và cấu trúc phụ cận.
-- Phần lớn là các **u nang lành tính**, đặc biệt ở tuổi sinh sản. Tuy nhiên, luôn phải cảnh giác với khả năng **u ác tính**, nhất là ở phụ nữ mãn kinh hoặc có yếu tố nguy cơ (tuổi > 50, tiền sử gia đình ung thư, nét hình ảnh siêu âm và tumor markers bất thường).
-- **Siêu âm** (kết hợp Doppler) là phương tiện đầu tay. **MRI/CT** hỗ trợ khi cần đánh giá xâm lấn hoặc di căn. Tumor markers (CA125, HE4, các dấu ấn khác) phối hợp để ước lượng nguy cơ ác tính (RMI, ROMA).
-- Việc xác định khối u **cơ năng hay thực thể**, **lành tính hay ác tính** giúp định hướng theo dõi hoặc can thiệp phẫu thuật (nội soi vs. mổ mở, bảo tồn buồng trứng vs. cắt bỏ toàn bộ).
-- Sau điều trị, cần lập kế hoạch **theo dõi định kỳ** để phát hiện tái phát sớm, đồng thời đảm bảo sức khỏe tổng thể và chức năng sinh sản (nếu còn nhu cầu).
-
 ## Nguồn tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

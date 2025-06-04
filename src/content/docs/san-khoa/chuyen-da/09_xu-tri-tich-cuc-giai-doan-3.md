@@ -72,10 +72,6 @@ Can thiệp tích cực gồm ba bước chính, thực hiện ngay sau sổ vai
 - Theo dõi sinh hiệu mẹ (mạch, HA) để phát hiện mất máu nhiều.
 - Kiểm tra dấu hiệu nhiễm trùng nếu sổ rau kéo dài.
 
-## Tóm tắt
-
-Giai đoạn 3 chuyển dạ (sổ rau và cầm máu) kéo dài trung bình 6–30 phút, mất khoảng 300 mL máu. Xử trí tích cực giúp giảm nhẹ lượng máu mất và hạn chế nguy cơ băng huyết sau sinh.
-
 ## Nguồn tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

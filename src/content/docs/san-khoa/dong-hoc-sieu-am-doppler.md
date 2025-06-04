@@ -83,18 +83,6 @@ Trong trường hợp thiếu oxy trường diễn, hiện tượng giãn mạch
 
 Đỉnh tâm thu của động mạch não giữa liên quan chặt chẽ đến tình trạng thiếu máu nặng của bào thai (độ nhạy gần 100%). Khi thiếu máu mức độ trung bình hoặc nhẹ, độ dương giả sẽ tăng dần.
 
-## Tóm tắt
-
-- Động học siêu âm Doppler khảo sát trở kháng và tốc độ dòng chảy trong các mạch máu thai nhi và mẹ, giúp đánh giá sức khỏe thai kỳ.
-- Các chỉ số Doppler phổ biến: S (đỉnh tâm thu), D (cuối tâm trương), RI (chỉ số kháng trở), PI (chỉ số đập).
-- Động mạch tử cung bình thường có trở kháng thấp, giảm dần theo thai kỳ do sự xâm nhập tế bào nuôi và hình thành các shunt mạch máu.
-- Trở kháng động mạch tử cung cao, đặc biệt kèm notch đầu tâm trương, liên quan đến các thai kỳ bệnh lý như tăng huyết áp thai kỳ, thai chậm tăng trưởng.
-- Doppler động mạch tử cung nên được khảo sát từ 17–22 tuần tuổi thai, và theo dõi lại ở tuần 24–26; giá trị dự báo cao cho biến chứng thai kỳ.
-- Động mạch rốn có trở kháng thấp, giảm dần theo tuổi thai bình thường; tăng trở kháng hoặc mất/đảo ngược dòng chảy cuối tâm trương là dấu hiệu bệnh lý.
-- Doppler động mạch rốn không khuyến cáo tầm soát thường quy ở thai kỳ khỏe mạnh, chỉ dùng trong thai kỳ nghi ngờ suy yếu bánh rau.
-- Động mạch não giữa có trở kháng cao hơn động mạch rốn; giảm trở kháng ở động mạch não giữa là dấu hiệu bào thai thiếu oxy nặng.
-- Doppler giúp phát hiện sớm các biến chứng thai kỳ để có hướng xử trí kịp thời, nâng cao tỷ lệ sống còn và sức khỏe thai nhi.
-
 ## Nguồn tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

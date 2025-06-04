@@ -146,18 +146,6 @@ _So sánh vaccine HPV nhị giá và tứ giá._
   - HPV (+) type 16/18: soi cổ tử cung.
   - HPV (+) type cao khác: làm tế bào học; nếu bình thường → theo dõi 1 năm; nếu bất thường → soi cổ tử cung.
 
-## Tóm tắt
-
-- **HPV** là virus Papovaviridae, không có màng lipid, capsid 72 capsom, chứa DNA kép vòng 7904 bp.
-- Có > 200 type; > 40 type lây qua đường tình dục. Nhóm nguy cơ cao (16, 18, 31,…), nhóm nguy cơ thấp (6, 11, 42,…).
-- **Yếu tố nguy cơ**: quan hệ sớm, nhiều bạn tình, tiền sử STI, dùng bao cao su không hoàn toàn bảo vệ, độ tuổi 18–30.
-- **Bệnh lý**: phần lớn lành tính; E6/E7 tương tác p53 và pRb, kéo dài > 2 năm có thể dẫn đến mụn cóc sinh dục, tổn thương tiền ung và ung thư cổ tử cung.
-- **Vaccine**:
-  - 2vHPV (16, 18); 4vHPV (6, 11, 16, 18); 9vHPV (6, 11, 16, 18, 31, 33, 45, 52, 58).
-  - Phác đồ: trước 15 tuổi — 2 liều (cách 6–12 tháng); từ 15 tuổi — 3 liều (0, 1–2 tháng, 6 tháng).
-  - Khuyến cáo tiêm 9–12 tuổi, mở rộng đến 26 tuổi; vẫn phải tầm soát Pap/HPV định kỳ.
-- **HPV testing**: thường kết hợp Pap smear (co-testing) cho phụ nữ 30–65 tuổi; âm tính HPV → tái tầm soát sau 3 năm; dương tính type 16/18 → soi cổ tử cung; dương tính type cao khác → thêm tế bào học và theo dõi.
-
 ## Nguồn tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

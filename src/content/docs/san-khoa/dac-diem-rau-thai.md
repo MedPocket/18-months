@@ -79,13 +79,6 @@ Một số rối loạn thường gặp trong lâm sàng:
 - **Rau cài răng lược**: gai rau xâm lấn quá sâu vào cơ tử cung, gây khó bong rau sau sinh.
 - **Rau không trọn (sót rau)**: phần rau còn sót lại trong tử cung sau sổ rau → nguy cơ băng huyết.
 
-## Tóm tắt
-
-- Rau thai hình thành từ cả phía mẹ và phía con, hoàn thiện vào khoảng tháng thứ 4.
-- Chức năng chính: trao đổi chất, nội tiết, miễn dịch.
-- Hình dạng: đĩa tròn, 20 cm đường kính, nặng 500g.
-- Mỗi rau gồm 10–38 múi với nhiều gai rau.
-
 ## Nguồn tham khảo
 
 - Vinmec - [_Quá trình hình thành rau thai?_](https://www.vinmec.com/vi/bai-viet/qua-trinh-hinh-thanh-rau-thai)
