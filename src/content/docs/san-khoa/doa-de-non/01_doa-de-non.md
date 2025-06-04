@@ -1,14 +1,9 @@
 ---
 title: Đẻ non/Dọa đẻ non
-description: Đẻ non (sinh non) và dọa đẻ non là tình trạng thai kỳ dưới 37 tuần có nguy cơ hoặc đã xảy ra sinh non, làm tăng nguy cơ biến chứng và tử vong sơ sinh. Việc nhận biết sớm nguyên nhân, yếu tố nguy cơ và dấu hiệu cảnh báo giúp can thiệp kịp thời, cải thiện tiên lượng cho mẹ và bé.
+description: Đẻ non (sinh non) và dọa đẻ non là tình trạng thai kỳ dưới 37 tuần có nguy cơ hoặc đã xảy ra sinh non, làm tăng nguy cơ biến chứng và tử vong sơ sinh.
 ---
 
-## Định nghĩa
-
-Đẻ non (sinh non) là hiện tượng trẻ được sinh ra khi tuổi thai **dưới 37 tuần**, tính từ ngày đầu kỳ kinh cuối cùng. Ngược lại:
-
-- Sơ sinh đủ tháng: tuổi thai lúc sinh từ 37 đến 42 tuần.
-- Thai già tháng: thai kỳ kéo dài > 42 tuần vô kinh.
+Đẻ non (sinh non) là hiện tượng trẻ được sinh ra khi tuổi thai **dưới 37 tuần**, tính từ ngày đầu kỳ kinh cuối cùng. Ngược lại sơ sinh đủ tháng lúc sinh từ 37 đến 42 tuần; thai già tháng > 42 tuần vô kinh.
 
 ## Phân loại
 
@@ -21,7 +16,7 @@ Tuổi thai tính theo tuần được chia như sau:
 - **Gần đủ tháng**: 37 đến < 39 tuần.
 - **Đủ tháng**: 39 đến 41 tuần.
 
-## Bệnh học (Cơ chế)
+## Bệnh học
 
 Nguyên nhân sinh non chia làm hai nhóm chính:
 
@@ -50,40 +45,16 @@ Các cơ chế bệnh sinh liên quan:
 - Kinh tế xã hội thấp, dinh dưỡng kém, cân nặng trước mang thai < 50 kg.
 - Lao động nặng, stress kéo dài.
 
-### Từ thai và phần phụ
+### Từ phía thai và phần phụ
 
 - Thai đa.
 - Đa ối hoặc thiểu ối.
 - Thai dị tật.
 - Vỡ ối non.
 
-## Dự báo dọa đẻ non
+## Dự báo
 
-### Chiều dài cổ tử cung
-
-- Đo siêu âm ngả âm đạo, từ lỗ ngoài đến lỗ trong cổ tử cung.
-  ![Chiều dài cổ tử cung](../../../../assets/san-khoa/doa-de-non/chieu-dai-co-tu-cung.png)
-
-  _Chiều dài cổ tử cung._
-
-- Tuần 19–23 + 6: nên khảo sát định kỳ.
-- Tuần 24, nếu không triệu chứng mà cổ tử cung < 25 mm → nguy cơ sinh non tăng.
-- Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ 1 %.
-
-### Hình dạng lỗ trong và lỗ ngoài
-
-- Cổ tử cung dạng U, Y: nguy cơ cao.
-- Dạng I (hình phễu nhẹ): tiên lượng tốt hơn.
-  ![Hình dạng lỗ tử cung](../../../../assets/san-khoa/doa-de-non/hinh-dang-lo-tu-cung.png)
-
-  _Hình dạng lỗ tử cung._
-
-### Xét nghiệm sinh hóa
-
-- **Fetal Fibronectin (fFN)**: giá trị dự báo âm quan trọng, dự báo dương giới hạn.
-- **PAMG-1 (Placental α-microglobulin-1)**: tương tự fFN, nhưng khi (+) cho khả năng chuyển dạ gấp 4 lần so với fFN.
-
-## Nguyên tắc đánh giá
+### Nguyên tắc đánh giá
 
 - Xác định tuổi thai từ đầu thai kỳ.
 - Khám cổ tử cung bằng mỏ vịt, siêu âm hoặc qua tay (chú ý nguy cơ tách màng ối khi khám tay).
@@ -94,6 +65,32 @@ Các cơ chế bệnh sinh liên quan:
 :::caution[Lưu ý]  
 Khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do tách màng ối.  
 :::
+
+### Chiều dài cổ tử cung
+
+- Đo siêu âm ngả âm đạo, từ lỗ ngoài đến lỗ trong cổ tử cung.
+
+  ![Chiều dài cổ tử cung](../../../../assets/san-khoa/doa-de-non/chieu-dai-co-tu-cung.png)
+
+  _Chiều dài cổ tử cung._
+
+- Tuần 19–23 + 6: nên khảo sát định kỳ.
+- Tuần 24, nếu không triệu chứng mà cổ tử cung < 25 mm → nguy cơ sinh non tăng.
+- Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ 1 %.
+
+### Hình dạng lỗ tử cung
+
+- Cổ tử cung dạng U, Y: nguy cơ cao.
+- Dạng I (hình phễu nhẹ): tiên lượng tốt hơn.
+
+  ![Hình dạng lỗ tử cung](../../../../assets/san-khoa/doa-de-non/hinh-dang-lo-tu-cung.png)
+
+  _Hình dạng lỗ tử cung._
+
+### Xét nghiệm sinh hóa
+
+- **Fetal Fibronectin (fFN)**: giá trị dự báo âm quan trọng, dự báo dương giới hạn.
+- **PAMG-1 (Placental α-microglobulin-1)**: tương tự fFN, nhưng khi (+) cho khả năng chuyển dạ gấp 4 lần so với fFN.
 
 ## Chẩn đoán
 
@@ -119,7 +116,7 @@ Biểu hiện kèm: ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng 
 - Siêu âm ngả âm đạo đo cổ tử cung.
 - fFN, PAMG-1 (Partosure).
 
-## Điều trị đẻ non
+## Điều trị
 
 ### Nguyên tắc chung
 
@@ -134,7 +131,7 @@ Biểu hiện kèm: ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng 
 
 ### Thuốc cắt cơn (tocolytics)
 
-| **Nhóm thuốc**                   | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                      | Lưu ý                                                                                                                            |
+| Nhóm thuốc                   | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                      | Lưu ý                                                                                                                            |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Đối vận với thụ thể oxytocin** | Đối vận với thụ thể của oxytocin trên cơ tử cung, ngăn cản tác dụng co cơ tử cung của oxytocin nội sinh | Hiện không có tác dụng phụ quan trọng được ghi nhận                                                                                                                               | Là thuốc duy nhất được dán nhãn (_labelled_) cho điều trị sinh non                                                               |
 | **Ức chế kênh calcium**          | Ngăn chặn Ca²⁺ đi vào tế bào                                                                            | Hạ huyết áp và nhức đầu; có thể làm giảm lưu lượng máu nhau-tử cung, giảm oxygen và tăng CO₂ ở thai nhi                                                                           | - Có thể làm nặng thêm tác dụng phụ của MgSO₄<br>- Không được dán nhãn cho điều trị sinh non<br>- Thường ít dùng do tác dụng phụ |
@@ -159,117 +156,115 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 #### Ức đối vận với oxytocin
 
-Antosiban (Tractocile) có cấu trúc mô phỏng peptide 9 của oxytocin. Đây là peptide tổng hợp có tác dụng đối kháng cạnh tranh với oxytocin, làm giảm tần số cơn gò và trương lực cơ tử cung, đồng thời gắn kết với các thụ thể vasopressin.
+- Antosiban (Tractocile) có cấu trúc mô phỏng peptide 9 của oxytocin. Đây là peptide tổng hợp có tác dụng đối kháng cạnh tranh với oxytocin, làm giảm tần số cơn gò và trương lực cơ tử cung, đồng thời gắn kết với các thụ thể vasopressin.
+- **Chống chỉ định**:
 
-**Chống chỉ định**:
+  - Mẹ bị dị ứng với thuốc.
+  - Ối vỡ non thai từ 30 tuần.
+  - Thai chậm phát triển trong tử cung.
+  - Nhau tiền đạo.
 
-- Mẹ bị dị ứng với thuốc.
-- Ối vỡ non thai từ 30 tuần.
-- Thai chậm phát triển trong tử cung.
-- Nhau tiền đạo.
+- **Liều dùng**:
 
-**Liều dùng**:
+  - **Bước 1**: Liều tấn công lọ 1 (37.5 mg/5 mL): lấy 6.75 mg (0.9 mL) pha vào 10 mL Ringer lactate, tiêm tĩnh mạch chậm > 1 phút (còn 4.1 mL).
+  - **Bước 2**: Liều duy trì với lọ 1 còn 30.75 mg (4.1 mL) pha 36.9 mL Ringer lactate, truyền bơm tiêm điện 24 mL/h. Sau đó pha tiếp lọ 2 (37.5 mg/5 mL) trong 45 mL Ringer lactate, truyền 24 mL/h trong 3 giờ đầu.
+  - **Bước 3**: Phần còn lại ở bước 2 (19 mL) truyền 8 mL/h. Sau đó pha lọ 3 (37.5 mg/5 mL) thành 50 mL Ringer lactate, truyền 8 mL/h. Thời gian dùng tối đa 45 giờ.
 
-- **Bước 1**: Liều tấn công lọ 1 (37.5 mg/5 mL): lấy 6.75 mg (0.9 mL) pha vào 10 mL Ringer lactate, tiêm tĩnh mạch chậm > 1 phút (còn 4.1 mL).
-- **Bước 2**: Liều duy trì với lọ 1 còn 30.75 mg (4.1 mL) pha 36.9 mL Ringer lactate, truyền bơm tiêm điện 24 mL/h. Sau đó pha tiếp lọ 2 (37.5 mg/5 mL) trong 45 mL Ringer lactate, truyền 24 mL/h trong 3 giờ đầu.
-- **Bước 3**: Phần còn lại ở bước 2 (19 mL) truyền 8 mL/h. Sau đó pha lọ 3 (37.5 mg/5 mL) thành 50 mL Ringer lactate, truyền 8 mL/h. Thời gian dùng tối đa 45 giờ.
-
-Tác dụng phụ thường nhẹ: buồn nôn, nhức đầu, chóng mặt, bừng nóng, nôn, nhịp tim nhanh, dị ứng thuốc.
-
-Theo dõi tim thai và cơn gò trên monitor trong 1 giờ đầu điều trị.
+- **Tác dụng phụ** thường nhẹ: buồn nôn, nhức đầu, chóng mặt, bừng nóng, nôn, nhịp tim nhanh, dị ứng thuốc.
+- **Theo dõi tim thai và cơn gò** trên monitor trong 1 giờ đầu điều trị.
 
 #### Ức chế calcium
 
-Nifedipine ức chế kênh calci type II, có nhiều ở mạch máu, tử cung và bàng quang. Gây dãn cơ trơn, giảm lượng calci vào tế bào. Hoạt động trên cơ trơn mạch gấp 18 lần so với cơ tim, ảnh hưởng huyết động, giảm huyết áp động mạch và tăng nhịp tim.
+- Nifedipine ức chế kênh calci type II, có nhiều ở mạch máu, tử cung và bàng quang. Gây dãn cơ trơn, giảm lượng calci vào tế bào. Hoạt động trên cơ trơn mạch gấp 18 lần so với cơ tim, ảnh hưởng huyết động, giảm huyết áp động mạch và tăng nhịp tim.
+- **Chống chỉ định**:
 
-**Chống chỉ định**:
+  - Huyết áp mẹ < 90/50 mmHg hoặc có bệnh tim mạch nặng.
+  - Rối loạn chức năng gan hoặc thận.
+  - Đang dùng thuốc hạ áp khác.
+  - Đa thai.
+  - Mẫn cảm với nifedipine, nicardipine.
+- **Liều dùng**:
 
-- Huyết áp mẹ < 90/50 mmHg hoặc có bệnh tim mạch nặng.
-- Rối loạn chức năng gan hoặc thận.
-- Đang dùng thuốc hạ áp khác.
-- Đa thai.
-- Mẫn cảm với nifedipine, nicardipine.
+  - Liều tấn công 20–30 mg viên tác dụng nhanh, hiệu quả sau 20–30 phút.
+  - Tiếp tục 10–20 mg mỗi 3–8 giờ, tối đa 48 giờ, liều tối đa 180 mg/ngày.
 
-**Liều dùng**:
+- **Tác dụng phụ**:
 
-- Liều tấn công 20–30 mg viên tác dụng nhanh, hiệu quả sau 20–30 phút.
-- Tiếp tục 10–20 mg mỗi 3–8 giờ, tối đa 48 giờ, liều tối đa 180 mg/ngày.
+  - Đau đầu.
+  - Nổi mẩn.
+  - Hạ huyết áp, đặc biệt gây thiếu oxy thai.
+  - Nhịp tim nhanh, đánh trống ngực.
+  - Nóng bừng mặt, chóng mặt.
+  - Buồn nôn.
+  - Phù chi dưới.
+  - Suy thai.
 
-**Tác dụng phụ**:
+- **Theo dõi**:
 
-- Đau đầu.
-- Nổi mẩn.
-- Hạ huyết áp, đặc biệt gây thiếu oxy thai.
-- Nhịp tim nhanh, đánh trống ngực.
-- Nóng bừng mặt, chóng mặt.
-- Buồn nôn.
-- Phù chi dưới.
-- Suy thai.
-
-**Theo dõi**:
-
-- Mạch và huyết áp mẹ mỗi 30 phút trong 1 giờ đầu, sau đó 30 phút sau mỗi liều.
-- Monitor tim thai và cơn gò 1 giờ liều đầu và mỗi 6 giờ sau đó.
-- Tránh truyền dịch quá mức.
+  - Mạch và huyết áp mẹ mỗi 30 phút trong 1 giờ đầu, sau đó 30 phút sau mỗi liều.
+  - Monitor tim thai và cơn gò 1 giờ liều đầu và mỗi 6 giờ sau đó.
+  - Tránh truyền dịch quá mức.
 
 #### Betamimetics
 
-Betamimetics (ví dụ Salbutamol) là dẫn xuất catecholamines làm dãn cơ tử cung và cơ trơn khác qua kích thích thụ thể β₂.
+- Betamimetics (ví dụ Salbutamol) là dẫn xuất catecholamines làm dãn cơ tử cung và cơ trơn khác qua kích thích thụ thể β₂.
+- **Chống chỉ định**:
 
-**Chống chỉ định**:
+  - Mẹ có bệnh tim mạch.
+  - Tăng huyết áp nặng hoặc không kiểm soát.
+  - Sản giật hoặc tiền sản giật.
+  - Đái tháo đường đang điều trị insulin.
+  - Bệnh tuyến giáp hoặc dị ứng với thuốc.
+  - Đa thai.
 
-- Mẹ có bệnh tim mạch.
-- Tăng huyết áp nặng hoặc không kiểm soát.
-- Sản giật hoặc tiền sản giật.
-- Đái tháo đường đang điều trị insulin.
-- Bệnh tuyến giáp hoặc dị ứng với thuốc.
-- Đa thai.
+- **Liều dùng**:
 
-**Liều dùng**:
+  - Hạn chế dịch truyền nhất ở song thai hoặc đang dùng corticosteroids.
+  - Pha 5 mg Salbutamol/5 mL trong 95 mL NaCl 0.9 %; truyền 12 mL/h (10 µg/phút), tăng 4 mL/h mỗi 30 phút đến khi cắt cơn hoặc mẹ đạt nhịp tim ≥ 120 lần/phút hoặc tối đa 36 mL/h.
+  - Có thể truyền tĩnh mạch pha 5 mg Salbutamol/5 mL trong dung dịch glucose 5 % (10 µg/mL), tốc độ 60 mL/h (10 µg/phút), tăng 20 mL/h mỗi 30 phút đến khi cắt cơn hoặc nhịp tim mẹ ≥ 120 lần/phút hoặc tối đa 180 mL/h.
 
-- Hạn chế dịch truyền nhất ở song thai hoặc đang dùng corticosteroids.
-- Pha 5 mg Salbutamol/5 mL trong 95 mL NaCl 0.9 %; truyền 12 mL/h (10 µg/phút), tăng 4 mL/h mỗi 30 phút đến khi cắt cơn hoặc mẹ đạt nhịp tim ≥ 120 lần/phút hoặc tối đa 36 mL/h.
-- Có thể truyền tĩnh mạch pha 5 mg Salbutamol/5 mL trong dung dịch glucose 5 % (10 µg/mL), tốc độ 60 mL/h (10 µg/phút), tăng 20 mL/h mỗi 30 phút đến khi cắt cơn hoặc nhịp tim mẹ ≥ 120 lần/phút hoặc tối đa 180 mL/h.
+- **Thời gian điều trị**:
 
-**Theo dõi**:
+  - Đường tĩnh mạch: 24–48 giờ.
+  - Duy trì uống/đặt:
+    - Ventolin 2 viên × 4–6 viên/ngày.
+    - Salbutamol 1 viên × 1–3 viên/ngày (đặt hậu môn).
 
-- Mạch và huyết áp mẹ mỗi 15 phút trong 1 giờ đầu, sau đó mỗi 4 giờ.
-- Theo dõi lượng nước tiểu (thiểu niệu là dấu hiệu ngộ độc).
-- Xét nghiệm ure, điện giải, Hct mỗi 24 giờ; đo đường huyết mỗi 4 giờ.
-- Monitor tim thai và cơn gò 1 giờ liều đầu và mỗi 6 giờ liều duy trì.
+- **Theo dõi**:
 
-**Thời gian điều trị**:
-
-- Đường tĩnh mạch: 24–48 giờ.
-- Duy trì uống/đặt:
-  - Ventolin 2 viên × 4–6 viên/ngày.
-  - Salbutamol 1 viên × 1–3 viên/ngày (đặt hậu môn).
+  - Mạch và huyết áp mẹ mỗi 15 phút trong 1 giờ đầu, sau đó mỗi 4 giờ.
+  - Theo dõi lượng nước tiểu (thiểu niệu là dấu hiệu ngộ độc).
+  - Xét nghiệm ure, điện giải, Hct mỗi 24 giờ; đo đường huyết mỗi 4 giờ.
+  - Monitor tim thai và cơn gò 1 giờ liều đầu và mỗi 6 giờ liều duy trì.
 
 ### Liệu pháp corticosteroids
 
-Dự phòng hội chứng suy hô hấp cấp ở sơ sinh.
-
-**Chỉ định**: sinh non dự kiến 24–34 tuần, có nguy cơ trong 7 ngày.
-
-- Betamethasone 12 mg bắp × 2 liều cách 24 giờ.
-- Hoặc dexamethasone 6 mg bắp × 4 liều cách 12 giờ.
-- Xem xét lặp lại sau 7–14 ngày nếu còn nguy cơ và < 34 tuần.
+- Dự phòng hội chứng suy hô hấp cấp ở sơ sinh.
+- **Chỉ định**: sinh non dự kiến 24–34 tuần, có nguy cơ trong 7 ngày.
+- **Liều dùng**:
+  - Betamethasone 12 mg bắp × 2 liều cách 24 giờ.
+  - Hoặc dexamethasone 6 mg bắp × 4 liều cách 12 giờ.
+  - Xem xét lặp lại sau 7–14 ngày nếu còn nguy cơ và < 34 tuần.
 
 ### Bảo vệ thần kinh thai bằng MgSO₄
 
-MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần).
+- MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần).
+- **Chỉ định**:
+  
+  - Thai 24–31 + 6 tuần có nguy cơ sinh non trong 24 giờ.
+  - Dùng lý tưởng 4 giờ trước sinh khi có chỉ định chấm dứt thai kỳ.
 
-**Chỉ định**: thai 24–31 + 6 tuần có nguy cơ sinh non trong 24 giờ.
+- **Liều**:
+  
+  - MgSO₄ 4.5 g truyền tĩnh mạch chậm 20–30 phút.
+  - Giảm liều nếu thiểu niệu hoặc suy thận.
+  - Không phối hợp với thuốc cắt cơn.
 
-- Liều: MgSO₄ 4.5 g truyền tĩnh mạch chậm 20–30 phút.
-- Giảm liều nếu thiểu niệu hoặc suy thận.
-- Không phối hợp với thuốc cắt cơn.
-- Dùng lý tưởng 4 giờ trước sinh khi có chỉ định chấm dứt thai kỳ.
+- **Chống chỉ định**: mẹ bị nhược cơ.  
+- **Thận trọng**: mẹ có bệnh cơ tim hoặc rối loạn dẫn truyền nhịp.
 
-**Chống chỉ định**: mẹ bị nhược cơ.  
-**Thận trọng**: mẹ có bệnh cơ tim hoặc rối loạn dẫn truyền nhịp.
 
-## Dự phòng (Điều trị) dọa đẻ non
+## Dự phòng
 
 - Xác định nhóm nguy cơ cao, tầm soát định kỳ.
 - Dinh dưỡng, tập luyện nhẹ, tránh stress.
@@ -291,9 +286,9 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần).
 - Cho trường hợp hở eo tử cung, kênh cổ ngắn < 25 mm.
 - Không lợi ở cổ ngắn không có tiền sử sinh non, có nguy cơ ở song thai.
 
-![Khâu vòng cổ tử cung](../../../../assets/san-khoa/doa-de-non/khau-vong-co-tu-cung.png)
+  ![Khâu vòng cổ tử cung](../../../../assets/san-khoa/doa-de-non/khau-vong-co-tu-cung.png)
 
-_Khâu vòng cổ tử cung._
+  _Khâu vòng cổ tử cung._
 
 ### Pessary
 
@@ -302,9 +297,9 @@ _Khâu vòng cổ tử cung._
 - Đặt 14–32 tuần hoặc 2 tuần trước mốc sinh non trước đó.
 - Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.
 
-![Vòng nâng cổ tử cung](../../../../assets/san-khoa/doa-de-non/vong-nang-co-tu-cung.png)
+  ![Vòng nâng cổ tử cung](../../../../assets/san-khoa/doa-de-non/vong-nang-co-tu-cung.png)
 
-_Vòng nâng cổ tử cung._
+  _Vòng nâng cổ tử cung._
 
 ![Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ.](../../../../assets/san-khoa/doa-de-non/luu-do-du-phong-sinh-non.png)
 
