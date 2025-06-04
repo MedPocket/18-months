@@ -39,7 +39,7 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 - Nhân xơ **gần đường rạch** cơ tử cung, gây khó khâu vết mổ.
 - Nhân xơ **dưới thanh mạc có cuống** (FIGO 5–7), bóc dễ, không làm tăng đáng kể chảy máu.
 
-### Theo dõi sau bóc u
+### Theo dõi sau phẫu thuật
 
 - Phụ nữ từng bóc u đoạn dưới có thể **sinh thường** các lần sau, nhưng phải theo dõi sát cơn chuyển dạ và vết mổ cũ.
 

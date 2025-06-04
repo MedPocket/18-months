@@ -95,7 +95,7 @@ Tính theo cân nặng trước thai kỳ:
 - **Cường độ**: trung bình, không gây mệt quá sức; giám sát y tế nếu có biến chứng (nhau tiền đạo, dọa sinh non).
 - **Thời gian**: ≥ 30 phút/ngày hoặc 150 phút/tuần.
 
-## Theo dõi hiệu quả
+## Theo dõi
 
 - **Ghi sổ**: kết quả đường huyết mao mạch (lúc đói, 1 giờ sau ăn).
 - **Đánh giá sau 1–2 tuần** MNT:

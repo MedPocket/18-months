@@ -65,7 +65,7 @@ Can thiệp tích cực gồm ba bước chính, thực hiện ngay sau sổ vai
 
 > Các nghiên cứu cho thấy giảm tổng mất máu dù không đến 100 mL, nhưng việc này giúp phòng ngừa băng huyết sau sinh và được WHO khuyến khích nếu có nhân sự đào tạo bài bản.
 
-## Theo dõi
+## Theo dõi sau điều trị
 
 - Quan sát tính trạng co hồi của tử cung (độ rắn, vị trí).
 - Đếm số lần thay băng đẫm máu.

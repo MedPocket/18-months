@@ -179,7 +179,7 @@ Chỉ thực hiện khi viêm đã được kiểm soát hoặc sau điều tr�
 4. **Điều trị bằng sóng cao tần (Radiofrequency ablation)**
    - Xâm nhập tối thiểu, hủy mô bằng nhiệt, ít đau, hồi phục nhanh.
 
-## Theo dõi
+## Theo dõi sau điều trị
 
 ![Vùng chuyển sản sau điều trị](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/vung-chuyen-san-sau-dieu-tri.png)
 

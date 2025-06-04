@@ -250,7 +250,7 @@ Xác định thất bại điều trị khi:
 - Nếu có kháng sinh đồ: điều trị lại dựa vào kết quả kháng sinh đồ.
 - Nếu nghi ngờ tái nhiễm (bạn tình không điều trị hoặc quan hệ với người mới nhiễm): điều trị lại theo phác đồ ưu tiên và điều trị bạn tình.
 
-## Theo dõi
+## Theo dõi sau điều trị
 
 - **Tái khám 3 tháng**: Tất cả trường hợp nhiễm lậu sinh dục hoặc trực tràng không biến chứng nên làm NAAT sau 3 tháng kể từ khi điều trị để phát hiện tái nhiễm, kể cả khi không còn triệu chứng.
 - **Nếu không thể tái khám sau 3 tháng**: có thể xét nghiệm lại bất kỳ lúc nào trong 3–12 tháng sau điều trị đầu tiên.

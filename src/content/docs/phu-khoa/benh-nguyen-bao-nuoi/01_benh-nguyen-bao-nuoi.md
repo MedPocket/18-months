@@ -5,9 +5,7 @@ description: Bệnh nguyên bào nuôi thai kỳ (Gestational Trophoblastic Dise
 
 Bệnh nguyên bào nuôi thai kỳ (GTD) là nhóm bệnh có sự tăng sinh bất thường của các nguyên bào nuôi liên quan đến thai nghén. Mặc dù đa số là lành tính (thai trứng), nhưng có thể tiến triển thành u nguyên bào nuôi ác tính với khả năng xâm lấn tại chỗ và di căn xa (phổi, não, gan…). Tiêu chuẩn chẩn đoán bao gồm siêu âm, định lượng β-hCG và giải phẫu bệnh. Điều trị tùy theo loại và nguy cơ, từ hút nạo đơn thuần đến hóa–xạ trị phối hợp.
 
-## Phân loại
-
-Phân loại theo FIGO 2002 (cập nhật gợi ý theo FIGO 2018):
+## Phân loại theo FIGO 2018
 
 - **Thai trứng (Hydatidiform mole)**
 

@@ -5,7 +5,7 @@ description: U nguyên bào nuôi (Gestational Trophoblastic Neoplasia – GTN) 
 
 Xuất hiện sau thai trứng ( 60%); thai lưu/sảy thai ( 30%); thai đủ tháng hoặc thai ngoài tử cung ( 10%). Thường khởi đầu bằng xuất huyết âm đạo kéo dài, có thể kèm đau vùng hạ vị hoặc dấu hiệu di căn.
 
-## Các thể lâm sàng
+## Phân loại theo FIGO 2018
 
 - **Thai trứng xâm lấn (Invasive mole).** Tổ chức nguyên bào nuôi phồng nước xâm nhập vào cơ tử cung, gây chảy máu nặng và có thể thủng tử cung. Tiến triển từ 15 % thai trứng. β-hCG thường 20 000–30 000 mIU/mL. Siêu âm Doppler thấy khối tăng sinh mạch trong cơ. Giải phẫu bệnh sau cắt tử cung ghi nhận gai rau thoái hóa nước trong cơ tử cung.
 - **U nguyên bào nuôi tại vị trí rau bám (Placental Site Trophoblastic Tumour – PSTT).** Khối u phát sinh từ tế bào nuôi nơi bám rau, β-hCG thường thấp (16–400 mIU/mL). Ít đáp ứng hóa chất, cần phẫu thuật triệt căn.
@@ -14,7 +14,7 @@ Xuất hiện sau thai trứng ( 60%); thai lưu/sảy thai ( 30%); thai đủ t
 
 ## Chẩn đoán
 
-:::note[Tiêu chuẩn chẩn đoán theo FIGO 2002]
+:::note[Tiêu chuẩn chẩn đoán theo FIGO 2018]
 
 Có ≥ 1 tiêu chí sau (không bao gồm PSTT/ETT)
 
@@ -25,11 +25,11 @@ Có ≥ 1 tiêu chí sau (không bao gồm PSTT/ETT)
 
 :::
 
-## Phân giai đoạn và đánh giá nguy cơ
+## Các giai đoạn, đánh giá nguy cơ và di căn
 
-### Phân loại
+### Các giai đoạn
 
-**Phân loại FIGO (2002)**
+**Phân loại các giai đoạn FIGO (2018)**
 
 - I: Khu trú tử cung.
 - II: Lan tới đường sinh dục nhưng chưa ra ngoài.
@@ -40,16 +40,16 @@ Có ≥ 1 tiêu chí sau (không bao gồm PSTT/ETT)
 
 | Thang điểm FIGO (WHO)                | 0          | 1          | 2             | 4          |
 | ------------------------------------ | ---------- | ---------- | ------------- | ---------- |
-| Tuổi                                 | < 40       | ≥ 40       | —             | —          |
-| Tiền cân thai                        | Thai trứng | Bố thai    | Đủ tháng      | —          |
-| Số tháng (từ thai lần)               | < 4        | 4 – 6      | 7 – 12        | > 12       |
-| hCG trước điều trị mũl/ml            | < 10³      | 10³ - 10⁴  | 10⁴ - 10⁵     | > 10⁵      |
-| Kích thước bướu lớn nhất gồm TC (cm) |            | 3 – 4 cm   | ≥ 5 cm        | —          |
-| Vị trí di căn                        | Phổi       | Lách, Thận | Dạ dày – ruột | Não Gan    |
-| Số điểm di căn                       | —          | 1 – 4      | 5 – 8         | >8         |
-| Hóa trị thất bại trước đó            | —          | —          | Đơn hóa trị   | Đa hóa trị |
+| **Tuổi**                                 | < 40       | ≥ 40       | —             | —          |
+| **Tiền cân thai**                        | Thai trứng | Bố thai    | Đủ tháng      | —          |
+| **Số tháng (từ thai lần)**               | < 4        | 4 – 6      | 7 – 12        | > 12       |
+| **hCG trước điều trị IU/ml**            | < 10³      | 10³ - 10⁴  | 10⁴ - 10⁵     | > 10⁵      |
+| **Kích thước bướu lớn nhất gồm TC (cm)** |            | 3 – 4 cm   | ≥ 5 cm        | —          |
+| **Vị trí di căn**                        | Phổi       | Lách, Thận | Dạ dày – ruột | Não Gan    |
+| **Số điểm di căn**                       | —          | 1 – 4      | 5 – 8         | >8         |
+| **Hóa trị thất bại trước đó**            | —          | —          | Đơn hóa trị   | Đa hóa trị |
 
-_Bảng điểm tiên lượng FIGO/WHO 2006_
+_Bảng điểm tiên lượng FIGO/WHO 2018_
 
 ### Đánh giá di căn
 
@@ -68,8 +68,25 @@ _Phân loại NIH (Mỹ)_
 
 ## Điều trị
 
-### Nhóm nguy cơ thấp (FIGO ≤ 6 điểm; NIH không di căn)
+### Hướng xử trí
 
+- Ưu tiên điều trị nội khoa.
+- **Chỉ định cắt tử cung toàn phần**:
+
+  - Chủ yếu cho người bệnh không muốn thêm con.
+  - Tuổi ≥ 40.
+  - Tuổi < 40 mà có ≥ 3 con, hay không muốn có con.
+  - Băng huyết.
+  - Vỡ nhân chorio.
+  - Cầm máu khó khăn khi bóc nhân chorio.
+  - Không đáp ứng hóa trị.
+
+- Phẫu thuật bào tồn cắt khối chorio ở tử cung hoặc khối thai trứng xâm lấn cho bệnh nhân trẻ, mong có thêm con.
+- Xạ trị khi có di căn xa như não, gan và di căn sâu vòng chậu.
+
+### Nhóm nguy cơ thấp
+
+- **FIGO ≤ 6 điểm; NIH không di căn**.
 - **Đơn hóa chất** (khả năng khỏi 98%) hoặc kèm cắt tử cung nếu đã đủ con.
 - **Phác đồ Methotrexate (MTX)**:
   - MTX 5 ngày: 0.4 mg/kg/ngày × 5 ngày (≤ 25 mg/ngày), lặp lại mỗi 14 ngày.
@@ -79,8 +96,9 @@ _Phân loại NIH (Mỹ)_
   - 1.25 mg/m² tĩnh mạch mỗi 2 tuần, hoặc 12 µg/kg/ngày × 5 ngày, lặp lại mỗi 14 ngày.
 - Tiếp tục 2–3 chu kỳ sau khi β-hCG âm tính.
 
-### Nhóm nguy cơ cao (FIGO ≥ 7 điểm hoặc di căn; NIH di căn)
+### Nhóm nguy cơ cao
 
+- **FIGO ≥ 7 điểm hoặc di căn; NIH di căn**.
 - **Đa hóa chất** (EMA-CO, MAC)
   - **EMA-CO**: Etoposide, MTX, Act-D / Cyclophosphamide, Vincristine theo phác đồ 2 tuần:
     - Ngày 1:
@@ -98,7 +116,6 @@ _Phân loại NIH (Mỹ)_
   - Lặp lại thêm 3–4 chu kỳ sau khi β-hCG âm tính.
 
 :::caution[Lưu ý]
-
 Tiêu chuẩn để hóa trị:
 
 - Ngày 1 và 2: Bạch cầu ≥ 3000/mm³, bạch cầu đa nhân trung tính ≥ 1500/mm³.
@@ -106,7 +123,7 @@ Tiêu chuẩn để hóa trị:
 
 :::
 
-- **Nếu kháng EMA-CO**: chuyển sang EP-EMA, BEP hoặc TP/TE:
+- **Nếu kháng EMA-CO** chuyển sang EP-EMA, BEP hoặc TP/TE:
   - Sử dụng phác đồ EMA-EP hoặc EP-EMA: ngày điều trị CO được thay bằng EP:
     - Cisplatin 70-80 mg pha 1L truyền tĩnh mạch hơn 12 giờ.
     - Etoposide 100 mg/m² da (150 mg/m² da) được truyền tĩnh mạch hơn 1h.
@@ -142,8 +159,8 @@ Tiêu chuẩn để hóa trị:
 
 - **Xử trí**:
   - MTX 50 mg/m² da thất bại → MTX 0.4 mg/kg tiêm bắp 5 ngày hoặc Dacticin 12 µg/kg tiêm bắp 5 ngày.
-  - β-hCG < 100IU/L → Dacticin 5 ngày (87%).
-  - β-hCG > 100IU/L → EMA-CO (99%).
+  - β-hCG < 100 IU/L → Dacticin 5 ngày (87%).
+  - β-hCG > 100 IU/L → EMA-CO (99%).
   - Kháng MTX → Dacticin.
 
 ### U nguyên bào nuôi di căn âm đạo
@@ -171,37 +188,18 @@ Tiêu chuẩn để hóa trị:
 
 - Hóa trị với phác đồ EMA-CO, EMA-EP hoặc EP-EMA.
 
-### Điều trị cấp cứu
-
-- Etoposide 100 mg/m² truyền TM trong 1 giờ + Cisplatin 20 mg/m² truyền TM trong 2 giờ mỗi ngày × 3 ngày, lặp lại hàng tuần cho tới ổn định.
-
 ### Thai trứng xâm lấn
 
 - Mổ bóc nhân choriocarcinoma hoặc lấy khối thai trứng xâm lấn với người bệnh trẻ, muốn sinh thêm con, kháng hóa trị hoặc khối choriocarcinoma dọa vỡ.
-
 - Cắt tử cung toàn phần nếu lớn tuổi, đủ con.
 
-#### U nguyên bào nuôi nơi rau bám
+### U nguyên bào nuôi nơi rau bám
 
 - Phẫu thuật cắt tử cung toàn phần. Nạo hạch (chủ-chậu) nếu có hạch di căn. Thường không nhạy cảm với hóa trị. Hóa trị phác đồ EP-EMA.
 
-#### Phẫu thuật
+### Xử trí cấp cứu
 
-- **Chỉ định cắt tử cung toàn phần**:
-
-  - Chủ yếu cho người bệnh không muốn thêm con.
-  - Tuổi ≥ 40.
-  - Tuổi < 40 mà có ≥ 3 con, hay không muốn có con.
-  - Băng huyết.
-  - Vỡ nhân chorio.
-  - Cầm máu khó khăn khi bóc nhân chorio.
-  - Không đáp ứng hóa trị.
-
-- Phẫu thuật bào tồn cắt khối chorio ở tử cung hoặc khối thai trứng xâm lấn cho bệnh nhân trẻ, mong có thêm con.
-
-#### Điều trị bằng xạ trị
-
-- Khi có di căn xa như não, gan và di căn sâu vòng chậu.
+- Etoposide 100 mg/m² truyền TM trong 1 giờ + Cisplatin 20 mg/m² truyền TM trong 2 giờ mỗi ngày × 3 ngày, lặp lại hàng tuần cho tới ổn định.
 
 ![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
 
@@ -215,22 +213,20 @@ _Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi – Bệnh viện T�
 
 _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ._
 
-## Theo dõi
+## Theo dõi sau điều trị
 
 - **β-hCG** hàng tuần đến âm tính 3 lần liên tiếp, sau đó hàng tháng 6–12 tháng tùy nhóm.
 - **Khám lâm sàng, siêu âm, X-quang ngực, cận lâm sàng** khi β-hCG bất thường hoặc có triệu chứng lâm sàng.
-- **Thời gian theo dõi tối thiểu**: 5 năm.
-- **Thai kì trở lại**: ít nhất 2 năm sau khỏi; siêu âm + β-hCG sớm khi có thai.
-
+  
   ![Di căn phổi](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/choriocarcinoma-di-can-phoi-hinh-anh-tha-bong.png)
 
   _Di căn phổi: hình ảnh bóng bay trên X-quang._
 
+- **Thời gian theo dõi tối thiểu**: 5 năm.
+- **Thai kì trở lại**: ít nhất 2 năm sau khỏi; siêu âm + β-hCG sớm khi có thai.
 - Xét nghiệm huyết đồ, chức năng gan, thận, điện giải… phát hiện nhiễm độc hóa chất.
-
 - Thời gian theo dõi tối thiểu là 5 năm.
-
-- Sau thời gian theo dõi, người bệnh được có thai trở lại, tùy trường hợp. Yêu cầu ít nhấ 2 năm sau điều trị khỏi mới có thai lại. Khi có dấu hiệu mang thai cần đi khám thai ngày, chú ý siêu âm và β-hCG để phòng bệnh tái phát.
+- Sau thời gian theo dõi, người bệnh được có thai trở lại, tùy trường hợp. Yêu cầu ít nhất 2 năm sau điều trị khỏi mới có thai lại. Khi có dấu hiệu mang thai cần đi khám thai ngày, chú ý siêu âm và β-hCG để phòng bệnh tái phát.
 
 ## Nguồn tham khảo
 

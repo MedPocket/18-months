@@ -196,7 +196,7 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 
 ## Quản lý trong thai kỳ
 
-### Theo dõi ngoại trú
+### Ngoại trú
 
 - **Glucose mao mạch**: đo lúc đói + sau ăn 1–2 h, 1–2 lần/ngày, luân phiên các bữa.
 - **Theo dõi cử động thai**: đếm ≥ 10 cử động/2 giờ vào giai đoạn > 28 tuần.
@@ -241,7 +241,7 @@ _Các loại insulin và dấu đỏ: loại được phép dùng cho phụ nữ
 
 _Tóm tắt thời điểm và chỉ định cách sinh._
 
-## Theo dõi trong chuyển dạ & ngay sau sinh
+## Theo dõi chuyển dạ & ngay sau sinh
 
 1. **Chuyển dạ**
 

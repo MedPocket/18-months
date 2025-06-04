@@ -50,7 +50,7 @@ Máu chảy từ các hồ máu mẹ ở đoạn dưới tử cung không đư�
 
 Quyết định dựa trên tuổi thai, tình trạng mẹ và mức độ chảy máu.
 
-### Theo dõi ngoại trú (rau không triệu chứng)
+### Ngoại trú
 
 - Nghỉ ngơi tại nhà, tránh giao hợp, không gắng sức.
 - Siêu âm định kỳ để theo dõi khoảng cách bánh rau – lỗ trong cổ tử cung.
