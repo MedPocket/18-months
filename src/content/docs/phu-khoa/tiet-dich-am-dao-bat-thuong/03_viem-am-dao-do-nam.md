@@ -52,7 +52,7 @@ _Tiết dịch âm đạo đặc, các mảng trắng bám thành âm đạo, ni
 - **Cấy nấm**: Chỉ định khi thất bại điều trị hoặc nghi ngờ chủng không phải Candida albicans, nhằm xác định chủng và làm kháng nấm đồ.
 - **Xét nghiệm latex agglutination**: Dùng để xác định nhanh một số chủng Candida không sinh giả tơ nấm.
 
-## Chẩn đoán
+## Chẩn đoán xác định
 
 :::note[Tiêu chuẩn chẩn đoán viêm âm đạo do nấm]
 **Lâm sàng:**

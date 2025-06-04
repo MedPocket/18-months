@@ -69,7 +69,7 @@ _Adenomyosis trên MRI._
 - Tắc nghẽn đường thoát máu kinh.
 - Chế độ ăn nhiều thịt đỏ, chất béo, thuốc lá, cồn, caffeine.
 
-## Đặc điểm
+## Chẩn đoán
 
 ### Lâm sàng
 

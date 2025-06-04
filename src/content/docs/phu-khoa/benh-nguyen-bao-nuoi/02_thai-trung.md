@@ -39,7 +39,7 @@ Thai trứng là tình trạng gặp trong 1/200–1/1000 ca thai nghén, do b�
   - 5% tiến triển thành choriocarcinoma (u nguyên bào nuôi ác tính).
 - Thai trứng toàn phần có nguy cơ ác tính cao hơn Thai trứng bán phần.
 
-## Đặc điểm
+## Chẩn đoán
 
 Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệnh.
 

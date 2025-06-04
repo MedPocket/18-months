@@ -27,7 +27,7 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 - Tắc tia sữa.
 - Suy giảm miễn dịch.
 
-## Đặc điểm
+## Chẩn đoán
 
 ### Lâm sàng
 

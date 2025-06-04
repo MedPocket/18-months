@@ -13,7 +13,7 @@ Phần phụ (adnexa) chỉ tất cả các cấu trúc nằm trong khoang giữ
 
 Khi xuất hiện khối ở vùng này, người ta thường gọi chung là **u phần phụ**. Trong số đó, **u nang buồng trứng** là loại hay gặp nhất (chiếm khoảng 90% các trường hợp), đặc biệt ở độ tuổi sinh sản.
 
-## Đặc điểm
+## Chẩn đoán
 
 ### Lâm sàng
 

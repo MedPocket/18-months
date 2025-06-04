@@ -255,7 +255,7 @@ Các yếu tố nguy cơ quan trọng làm tăng khả năng xuất hiện ung t
    - Mật độ mô vú dày trên nhũ ảnh: Phụ nữ có mô vú dày có nguy cơ ung thư vú cao hơn do khó phát hiện tổn thương nhỏ.
    - Tiếp xúc xạ trị ngực cường độ cao ở tuổi 10–30 (ví dụ điều trị Hodgkin's lymphoma): Nguy cơ ung thư vú tăng, đặc biệt nhóm 10–14 tuổi có nguy cơ cao.
 
-### Đặc điểm bệnh học
+### Bệnh học
 
 1. **Mức độ biệt hóa (Histologic Grade)**
 

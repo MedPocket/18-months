@@ -37,7 +37,7 @@ _Phân loại FIGO 2011._
 
 _Phân loại FIGO 2011._
 
-## Đặc điểm
+## Chẩn đoán
 
 ### Lâm sàng
 

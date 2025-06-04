@@ -21,14 +21,6 @@ description: Đau vú (mastalgia) là triệu chứng phổ biến khiến phụ
 
 ### Đau vú theo chu kỳ
 
-#### Đặc điểm
-
-- Thường gặp ở phụ nữ từ 30–40 tuổi, liên quan chặt chẽ đến chu kỳ kinh nguyệt.
-- Xuất hiện 1–2 tuần trước khi hành kinh, đau lan toả hai bên vú, khó định vị. Nhiều trường hợp đau nghiêm trọng hơn ở một bên vú.
-- Người bệnh mô tả cảm giác nặng, căng tức, thậm chí có thể lan lên nách hoặc cánh tay.
-- Đau thường giảm dần hoặc hết hẳn khi hành kinh bắt đầu.
-- Triệu chứng có thể tự hết khi mang thai hoặc sau thời kỳ mãn kinh, nhưng cũng có một số phụ nữ vẫn bị đau vú kéo dài sau mãn kinh.
-
 #### Cơ chế
 
 Nguyên nhân chính của đau vú theo chu kỳ liên quan đến thay đổi nội tiết tố trong chu kỳ kinh nguyệt. Có ba giả thuyết lớn:
@@ -53,13 +45,15 @@ Ngoài ra, một số yếu tố khác có thể góp phần:
 - **Giữa nước chu kỳ**: Giữ nước có thể khiến mô vú phù nề, nhưng các nghiên cứu so sánh tổng lượng nước cơ thể ở ngày thứ 5 và thứ 25 của chu kỳ không thấy khác biệt rõ rệt giữa nhóm đau vú và nhóm không đau.
 - **Chế độ ăn chứa methylxanthine** (caffeine, theobromine): Mặc dù lý thuyết cho rằng methylxanthine có thể kích thích quá mức mô vú, nhưng các thử nghiệm ngẫu nhiên về chế độ không chứa caffeine chưa chứng minh được hiệu quả giảm đau.
 
-### Đau vú không theo chu kỳ
-
 #### Đặc điểm
 
-- Thường gặp ở phụ nữ 40–50 tuổi, giai đoạn gần hoặc sau mãn kinh.
-- Vị trí đau thường khu trú một bên, thường ở một phần tư vú (thường là 1/4 trên ngoài).
-- Bệnh nhân mô tả cảm giác nóng bỏng, nhói, đau liên tục hoặc tái phát không theo chu kỳ.
+- Thường gặp ở phụ nữ từ 30–40 tuổi, liên quan chặt chẽ đến chu kỳ kinh nguyệt.
+- Xuất hiện 1–2 tuần trước khi hành kinh, đau lan toả hai bên vú, khó định vị. Nhiều trường hợp đau nghiêm trọng hơn ở một bên vú.
+- Người bệnh mô tả cảm giác nặng, căng tức, thậm chí có thể lan lên nách hoặc cánh tay.
+- Đau thường giảm dần hoặc hết hẳn khi hành kinh bắt đầu.
+- Triệu chứng có thể tự hết khi mang thai hoặc sau thời kỳ mãn kinh, nhưng cũng có một số phụ nữ vẫn bị đau vú kéo dài sau mãn kinh.
+
+### Đau vú không theo chu kỳ
 
 #### Nguyên nhân và cơ chế
 
@@ -75,6 +69,12 @@ Ngoài ra, một số yếu tố khác có thể góp phần:
 - **Bệnh lý tuyến vú ở người đái tháo đường**: Thường kèm xơ hóa và đau.
 - **Khối u hoặc nang vú**: Mặc dù lành tính, nhưng nếu gây chèn ép, xoắn hoặc viêm, có thể đau.
 - **Ung thư vú**: Ít khi biểu hiện bằng đau đơn độc, nhưng không thể loại trừ nếu đau khu trú, dai dẳng và kèm các triệu chứng khác (thay đổi da, sờ thấy cục, tiết dịch máu).
+
+#### Đặc điểm
+
+- Thường gặp ở phụ nữ 40–50 tuổi, giai đoạn gần hoặc sau mãn kinh.
+- Vị trí đau thường khu trú một bên, thường ở một phần tư vú (thường là 1/4 trên ngoài).
+- Bệnh nhân mô tả cảm giác nóng bỏng, nhói, đau liên tục hoặc tái phát không theo chu kỳ.
 
 ### Đau vú do nguyên nhân ngoài tuyến vú
 

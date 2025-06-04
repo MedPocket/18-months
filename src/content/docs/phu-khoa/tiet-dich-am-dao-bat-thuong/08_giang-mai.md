@@ -163,11 +163,13 @@ Các xét nghiệm nhanh có:
 
 ## Chẩn đoán
 
+### Chẩn đoán xác định
+
 - **Thời điểm chẩn đoán:**
   - Có thể xét nghiệm từ 3 tuần sau phơi nhiễm nếu có triệu chứng hoặc từ 7 ngày nếu không có triệu chứng (dựa vào NAATs).
   - Nếu nghi ngờ phơi nhiễm nhưng âm tính, xét nghiệm lại sau 6 tuần và 3 tháng để tránh bỏ sót.
 
-### Giang mai mắc phải
+#### Giang mai mắc phải
 
 - **Chẩn đoán xác định** khi:
 
@@ -178,7 +180,7 @@ Các xét nghiệm nhanh có:
 
 - **Chẩn đoán dựa vào lâm sàng và dịch tễ** khi không có điều kiện xét nghiệm đầy đủ, cần điều trị khẩn và theo dõi xét nghiệm sau.
 
-### Giang mai bẩm sinh
+#### Giang mai bẩm sinh
 
 - **Chẩn đoán ngay sau sinh** nếu:
 
