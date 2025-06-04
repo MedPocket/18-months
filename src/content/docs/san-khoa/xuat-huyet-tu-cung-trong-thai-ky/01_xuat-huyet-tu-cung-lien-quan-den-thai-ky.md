@@ -68,9 +68,9 @@ Sau 13+6 tuần, các nguyên nhân chính gồm:
 
 ## Chẩn đoán
 
-1. **Khám lâm sàng**: đánh giá huyết áp, mạch, tình trạng đau bụng, xét nghiệm thai và khám phụ khoa.
-2. **Siêu âm đầu dò âm đạo**: xác định vị trí thai, tim thai, vị trí nhau, nhau bong, túi thai ngoài tử cung…
-3. **Xét nghiệm máu**: HCG định lượng, công thức máu, nhóm máu – Rh.
+- **Khám lâm sàng**: đánh giá huyết áp, mạch, tình trạng đau bụng, xét nghiệm thai và khám phụ khoa.
+- **Siêu âm đầu dò âm đạo**: xác định vị trí thai, tim thai, vị trí nhau, nhau bong, túi thai ngoài tử cung…
+- **Xét nghiệm máu**: HCG định lượng, công thức máu, nhóm máu – Rh.
 
 ## Điều trị
 

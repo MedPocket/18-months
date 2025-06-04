@@ -28,7 +28,7 @@ Hỏi bệnh sử và khám lâm sàng nhằm tìm các yếu tố định hư�
 
 #### Công thức máu
 
-- **Hemoglobin/hematocrit** và **xét nghiệm đông máu** nếu có dấu hiệu mất máu nhiều hoặc bất ổn huyết động học.
+**Hemoglobin/hematocrit** và **xét nghiệm đông máu** nếu có dấu hiệu mất máu nhiều hoặc bất ổn huyết động học.
 
 #### Siêu âm
 

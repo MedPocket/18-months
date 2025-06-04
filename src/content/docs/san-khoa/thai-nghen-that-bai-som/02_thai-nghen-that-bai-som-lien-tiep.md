@@ -3,10 +3,7 @@ title: Thai nghén thất bại sớm liên tiếp
 description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất bại sớm liên tiếp.
 ---
 
-**Thai nghén thất bại sớm liên tiếp (Recurrent Pregnancy Loss - RPL)** được xác định khi thai nghén bị thất bại từ 2 lần trở lên, không bao gồm thai ngoài tử cung hay thai trứng.
-
-Thai nghén thất bại sớm được định nghĩa khi thai kỳ sụp đổ tự phát trước khi thai nhi có khả năng sinh sống (thường trước 24 tuần tuổi thai vô kinh). Mốc này có thể thay đổi tùy theo quốc gia và tiến bộ y học.
-
+**Thai nghén thất bại sớm liên tiếp (Recurrent Pregnancy Loss - RPL)** được xác định khi thai nghén bị thất bại từ 2 lần trở lên, không bao gồm thai ngoài tử cung hay thai trứng. Thai nghén thất bại sớm được định nghĩa khi thai kỳ sụp đổ tự phát trước khi thai nhi có khả năng sinh sống (thường trước 24 tuần tuổi thai vô kinh). Mốc này có thể thay đổi tùy theo quốc gia và tiến bộ y học.
 Có sự phân biệt giữa RPL nguyên phát và RPL thứ phát:
 
 - RPL nguyên phát xảy ra mà không có thai kỳ nào vượt qua 24 tuần trước đó.
@@ -17,11 +14,12 @@ Có sự phân biệt giữa RPL nguyên phát và RPL thứ phát:
 ### Tuổi
 
 - Lớn tuổi liên quan mật thiết đến vô sinh, dị tật thai, thai chết lưu và RPL.
-- Phụ nữ trên 35 tuổi có nguy cơ mất thai sau RPL tăng gấp đôi và tỷ lệ bất thường nhiễm sắc thể cao hơn.  - Tuổi cha tuy có liên quan đến sẩy thai nhưng chưa chứng minh rõ với RPL.
+- Phụ nữ trên 35 tuổi có nguy cơ mất thai sau RPL tăng gấp đôi và tỷ lệ bất thường nhiễm sắc thể cao hơn.
+- Tuổi cha tuy có liên quan đến sẩy thai nhưng chưa chứng minh rõ với RPL.
 
 ### Stress
 
-- Stress có liên quan đến RPL nhưng không được xác định là nguyên nhân trực tiếp.
+Stress có liên quan đến RPL nhưng không được xác định là nguyên nhân trực tiếp.
 
 ### Môi trường và nghề nghiệp
 

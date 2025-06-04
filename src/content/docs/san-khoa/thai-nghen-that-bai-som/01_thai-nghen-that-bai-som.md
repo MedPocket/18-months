@@ -8,11 +8,8 @@ Thai nghén thất bại sớm (Early Pregnancy Failure) thường được bi�
 ## Các khái niệm
 
 - **Thai sinh hóa** (biochemical pregnancy) chỉ hiện diện độc lập của β-hCG trong huyết thanh mà không có dấu hiệu chắc chắn của thai qua khám hoặc siêu âm. Thai sinh hóa có thể tiến triển thành thai lâm sàng hoặc thất bại sớm.
-
 - **Thai lâm sàng** (clinical pregnancy) chỉ các thai kỳ được xác định qua khám lâm sàng hoặc hình ảnh siêu âm. Trong thai lâm sàng, nếu phát triển phôi sau làm tổ rồi ngưng phát triển, gọi là thai nghén thất bại sớm.
-
 - **Trứng trống** (blighted ovum) chỉ sự hiện diện của túi thai nhưng không thấy phôi thai bên trong.
-
 - **Thai ngưng phát triển** sớm chỉ hình ảnh túi thai có phôi nhưng không có hoạt động tim thai.
 
 :::caution[Lưu ý]
