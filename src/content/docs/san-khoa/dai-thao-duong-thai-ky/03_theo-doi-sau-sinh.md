@@ -1,11 +1,11 @@
 ---
 title: Theo dõi sau sinh ở phụ nữ đái tháo đường thai kỳ
-description: Hướng dẫn đánh giá và chăm sóc mẹ và bé trong giai đoạn sau sinh ở phụ nữ từng bị đái tháo đường thai kỳ.
+description: Đánh giá và chăm sóc mẹ và bé trong giai đoạn sau sinh ở phụ nữ từng bị đái tháo đường thai kỳ.
 ---
 
 Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và trong những tuần đầu tiên, nhằm phát hiện sớm rối loạn chuyển hóa đường, giảm thiểu biến chứng và phòng ngừa chuyển sang đái tháo đường type 2 sau này.
 
-## Theo dõi sau sinh
+## Thực hiện sau sinh
 
 - **Cho bú sớm**: bắt đầu trong vòng 1 giờ đầu sau sinh để ổn định đường huyết sơ sinh và kích thích tiết oxytocin, hỗ trợ co hồi tử cung mẹ.
 - **Da kề da**: ít nhất 1 ngày đầu để duy trì nhiệt độ, ổn định hô hấp và glucose cho bé, đồng thời giảm stress cho mẹ.
@@ -34,9 +34,10 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 - **Insulin**: tiếp tục điều chỉnh sau sinh—nếu không cần liều cao như khi mang thai, giảm 30–50% so với liều trước đó.
 - **Khám chuyên khoa Nội tiết**: lên lịch tái khám 4–12 tuần sau sinh để đánh giá lại nhu cầu insulin và kiểm soát glucose.
 
-## Đánh giá rối loạn chuyển hóa đường sau sinh
+## Đánh giá rối loạn chuyển hóa đường
 
-- **OGTT 75 g**: thực hiện ở 4–12 tuần sau sinh.  
+- **OGTT 75 g**: thực hiện ở 4–12 tuần sau sinh.
+ 
   | **Thời điểm** | Bình thường | Tiền đái tháo đường | Đái tháo đường |
   |--------------------|--------------------------------|------------------------------------|-----------------------------------|
   | **Glucose khi đói** | < 5.6 mmol/L (< 100 mg/dL) | 5.6–6.9 mmol/L (100–125 mg/dL) | ≥ 7.0 mmol/L (≥ 126 mg/dL) |

@@ -5,7 +5,7 @@ description: Sử dụng corticosteroids trước sinh nhằm thúc đẩy trư�
 
 Corticosteroids như betamethasone hoặc dexamethasone kích thích biểu hiện gen tổng hợp surfactant trong các tế bào tiểu phế quản của phổi thai nhi, giảm sức căng bề mặt phế nang, ngăn ngừa xẹp phổi và giảm nguy cơ hội chứng suy hô hấp (RDS) ở trẻ sinh non. Ngoài phổi, corticoids còn tăng trưởng thành mạch máu não, chuyển hóa ruột, và trưởng thành hệ miễn dịch.
 
-## Corticoids trong dự phòng sinh non
+## Chỉ định
 
 Chỉ định cho phụ nữ mang thai có nguy cơ sinh non trước 34 tuần, đặc biệt khi dự kiến sinh trong 7 ngày tới hoặc có dấu hiệu chuyển dạ sớm. Thời điểm tối ưu là hoàn thành liều trong vòng 24–48 giờ trước khi sinh.
 
@@ -13,6 +13,15 @@ Chỉ định cho phụ nữ mang thai có nguy cơ sinh non trước 34 tuần,
 - **Dexamethasone**: 6 mg tiêm bắp, 4 liều cách nhau 12 giờ.
 
 Trong một số tình huống, có thể cân nhắc liều nhắc lại (rescue dose) sau 7 ngày nếu thai chưa sinh nhưng vẫn còn nguy cơ cao, tối đa 1 đợt nhắc lại.
+
+:::caution[Lưu ý]
+
+- Xác định rõ chỉ định: dấu hiệu chuyển dạ sớm, vỡ ối non, dọa sinh non hoặc phải kích thích sinh non vì lý do y tế.
+- Không lặp lại nhiều đợt nếu chuyển dạ không xảy ra, trừ khi cân nhắc lợi ích vượt trội so với nguy cơ.
+- Kết hợp chẹn co tử cung (tocolysis), kháng sinh dự phòng khi vỡ ối non, và theo dõi sinh hiệu mẹ – con chặt chẽ.
+- Thảo luận với bệnh nhân về lợi ích ngắn hạn và những dữ liệu hiện có về tác động lâu dài.
+
+:::
 
 ## Lợi ích
 
@@ -24,26 +33,22 @@ Trong một số tình huống, có thể cân nhắc liều nhắc lại (rescu
 
 ## Tác dụng phụ
 
-**Với mẹ**
+### Với mẹ
 
 - Tăng huyết áp và giữ muối, nhất là ở sản phụ có tiền sử tăng huyết áp hoặc tiền sản giật.
 - Tăng đường huyết, cần theo dõi và điều chỉnh insulin ở sản phụ đái tháo đường.
 - Giảm miễn dịch tạm thời, tăng nguy cơ nhiễm khuẩn.
 - Dùng kéo dài hoặc nhiều đợt nhắc lại có thể gây loãng xương, suy tuyến thượng thận tạm thời.
 
-**Với thai nhi**
+### Với thai
 
 - Liều ngắn hạn không ảnh hưởng chiều cao hoặc phát triển thần kinh rõ rệt.
 - Một số nghiên cứu ghi nhận tăng nhẹ nguy cơ rối loạn chuyển hóa, kháng insulin khi lớn lên.
 - Tác động lâu dài cần theo dõi qua các nghiên cứu dõi dài hạn.
 
-## Lưu ý khi sử dụng
+## Theo dõi
 
-- Xác định rõ chỉ định: dấu hiệu chuyển dạ sớm, vỡ ối non, dọa sinh non hoặc phải kích thích sinh non vì lý do y tế.
-- Không lặp lại nhiều đợt nếu chuyển dạ không xảy ra, trừ khi cân nhắc lợi ích vượt trội so với nguy cơ.
-- Kết hợp chẹn co tử cung (tocolysis), kháng sinh dự phòng khi vỡ ối non, và theo dõi sinh hiệu mẹ – con chặt chẽ.
 - Theo dõi huyết áp, đường huyết và dấu hiệu nhiễm trùng sau tiêm corticoids.
-- Thảo luận với bệnh nhân về lợi ích ngắn hạn và những dữ liệu hiện có về tác động lâu dài.
 
 ## Nguồn tham khảo
 

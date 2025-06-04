@@ -17,7 +17,6 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 
 - **Kiểm soát tăng cân**
 
-  - Theo khuyến cáo tăng cân tùy BMI trước khi mang thai
     | BMI trước khi mang thai | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
     |--------------------------------------------------|---------------|----------------------------------------------------------------------------|
     | **Thiếu năng lượng trường diễn (BMI < 18.5 kg/m²)** | 12.5–18 | 0.51 (0.44–0.58) |
@@ -26,8 +25,6 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
     | **Béo phì (BMI > 24.9 kg/m²)** | 5–9 | 0.22 (0.17–0.27) |
 
     _Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)._
-
-  - Giảm cân trước thai kỳ cho nhóm thừa cân, béo phì.
 
 - **Hoạt động thể chất**
   - Ít nhất 150 phút/tuần (đi bộ, yoga, bơi nhẹ…).
@@ -64,13 +61,15 @@ Tính theo cân nặng trước thai kỳ:
 - Bình thường: 30–35 kcal/kg/ngày.
 - Thừa cân/béo phì: 20–30 kcal/kg/ngày (không < 1600 kcal/ngày).
 
-#### Phân bố chất
+#### Glucid, protein và lipid
 
 | Nhóm chất   | Tỉ lệ năng lượng | Ghi chú                                                    |
 | ----------- | ---------------- | ---------------------------------------------------------- |
-| **Glucid**  | 35–40%           | ≥ 175 g/ngày; chia 3 bữa chính + 2–3 phụ; ưu tiên GI thấp. |
-| **Protein** | 20–25%           | ≥ 1.1 g/kg/ngày; động – thực vật ≥ 35% động vật.           |
-| **Lipid**   | 30–35%           | ≤ 60% mỡ động vật; tăng dầu thực vật, cá béo (omega-3).    |
+| **Glucid**  | 35–40%           | ≥ 175 g/ngày; chia 3 bữa chính + 2–3 phụ; ưu tiên GI thấp |
+| **Protein** | 20–25%           | ≥ 1.1 g/kg/ngày; động – thực vật ≥ 35% động vật           |
+| **Lipid**   | 30–35%           | ≤ 60% mỡ động vật; tăng dầu thực vật, cá béo (omega-3)    |
+
+_Phân bố glucid, protein và lipid._
 
 #### Chất xơ và vi chất
 
@@ -80,7 +79,7 @@ Tính theo cân nặng trước thai kỳ:
 
 #### Phân bố bữa ăn mẫu
 
-| **Bữa ăn**    | % năng lượng (6 bữa/ngày) | % năng lượng (5 bữa/ngày) |
+| Bữa ăn    | % năng lượng (6 bữa/ngày) | % năng lượng (5 bữa/ngày) |
 | ------------- | ------------------------- | ------------------------- |
 | **Bữa sáng**  | 20                        | 25                        |
 | **Phụ sáng**  | 10                        | 10                        |
@@ -89,7 +88,9 @@ Tính theo cân nặng trước thai kỳ:
 | **Bữa tối**   | 20                        | 25                        |
 | **Phụ tối**   | 10                        | 10                        |
 
-## Hoạt động thể chất
+_Phân bố bữa ăn._
+
+#### Hoạt động thể chất
 
 - **Loại hình**: đi bộ, yoga, bơi, tập cơ bản sau ăn.
 - **Cường độ**: trung bình, không gây mệt quá sức; giám sát y tế nếu có biến chứng (nhau tiền đạo, dọa sinh non).
