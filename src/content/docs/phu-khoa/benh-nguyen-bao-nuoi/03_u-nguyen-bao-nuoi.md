@@ -203,15 +203,15 @@ Tiêu chuẩn để hóa trị:
 
 - Khi có di căn xa như não, gan và di căn sâu vòng chậu.
 
-![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
+![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
 
 _Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ._
 
-![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
+![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
 
 _Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi – Bệnh viện Từ Dũ._
 
-![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
+![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
 
 _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ._
 

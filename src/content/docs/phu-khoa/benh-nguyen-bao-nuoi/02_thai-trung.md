@@ -127,7 +127,7 @@ Không sử dụng hóa trị khi:
 
 - Theo dõi chặt: không hóa dự phòng nếu bệnh nhân có thể tuân thủ theo dõi β-hCG nghiêm ngặt.
 
-  ![Phác đồ 1 nguyên tắc xử trí thai trứng Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-1-nguyen-tac-xu-tri-thai-trung.png)
+  ![Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-1-nguyen-tac-xu-tri-thai-trung.png)
 
   _Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh viện Từ Dũ._
 

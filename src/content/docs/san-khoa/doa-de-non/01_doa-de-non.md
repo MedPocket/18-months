@@ -306,7 +306,7 @@ _Khâu vòng cổ tử cung._
 
 _Vòng nâng cổ tử cung._
 
-![Lưu đồ dự phòng sinh non đơn thai Bệnh viện Từ Dũ.](../../../../assets/san-khoa/doa-de-non/luu-do-du-phong-sinh-non.png)
+![Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ.](../../../../assets/san-khoa/doa-de-non/luu-do-du-phong-sinh-non.png)
 
 _Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ._
 

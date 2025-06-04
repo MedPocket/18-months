@@ -99,11 +99,11 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 
 - **Phụ nữ có thai**: Không nạo kênh cổ tử cung, có thể hoãn soi đến 6 tuần sau sinh.
 
-  ![Quản lý ASC-US theo hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-asc-us.png)
+  ![Quản lý ASC-US – Hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-asc-us.png)
 
   _Quản lý ASC-US - Hướng dẫn của ASCCP 2012._
 
-  ![Quản lý ASC-US theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-us.jpeg)
+  ![Quản lý ASC-US – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-us.jpeg)
 
   _Quản lý ASC-US – Bệnh viện Từ Dũ._
 
@@ -132,11 +132,11 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
   - Nếu HPV (+) hoặc Pap’s test ≥ ASC → soi cổ tử cung ngay.
   - Nếu Pap’s test âm tính hai lần liên tiếp → trở lại tầm soát định kỳ.
 
-  ![Quản lý LSIL theo hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-lsil.png)
+  ![Quản lý LSIL – Hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-lsil.png)
 
   _Quản lý LSIL – Hướng dẫn của ASCCP 2012._
 
-  ![Quản lý LSIL theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-lsil.jpeg)
+  ![Quản lý LSIL – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-lsil.jpeg)
 
   _Quản lý LSIL – Bệnh viện Từ Dũ._
 
@@ -164,11 +164,11 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 
 - LEEP (cắt vòng điện) có thể thực hiện cùng lúc với soi, bỏ qua sinh thiết và đánh giá kênh sau khi cắt.
 
-  ![Quản lý HSIL theo hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-hsil.png)
+  ![Quản lý HSIL – Hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-hsil.png)
 
   _Quản lý HSIL – Hướng dẫn của ASCCP 2012._
 
-  ![Quản lý HSIL theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-hsil.jpeg)
+  ![Quản lý HSIL – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-hsil.jpeg)
 
   _Quản lý HSIL – Bệnh viện Từ Dũ._
 
@@ -182,7 +182,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 
 - Soi cổ tử cung và sinh thiết tổn thương.
 
-  ![Quản lý ASC-H theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-h.jpeg)
+  ![Quản lý ASC-H – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-h.jpeg)
 
   _Quản lý ASC-H – Bệnh viện Từ Dũ._
 
@@ -198,11 +198,11 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 - Soi cổ tử cung, nạo kênh, và sinh thiết tổn thương tuyến nếu có.
 - Tùy theo kết quả, có thể khoét chóp bằng dao lạnh.
 
-  ![Quản lý AGC hoặc AGUS theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-agus.jpeg)
+  ![Quản lý AGC hoặc AGUS – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-agus.jpeg)
 
   _Quản lý AGC / AGUS – Bệnh viện Từ Dũ._
 
-  ![Quản lý AGC hướng về tăng sản tuyến theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-huong-ve-tang-san-tuyen.jpeg)
+  ![Quản lý AGC hướng về tăng sản tuyến – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-huong-ve-tang-san-tuyen.jpeg)
 
   _Quản lý AGC hướng về tăng sản tuyến – Bệnh viện Từ Dũ._
 
@@ -217,7 +217,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 
 - Theo dõi Pap’s test hoặc co-testing định kỳ, tránh can thiệp quá mức.
 
-  ![Quản lý CIN 1 theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-cin-1.jpeg)
+  ![Quản lý CIN 1 – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-cin-1.jpeg)
 
   _Quản lý CIN 1 – Bệnh viện Từ Dũ._
 
@@ -232,7 +232,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 
 - Khoét chóp (cold knife conization) hoặc LEEP/LLETZ để cắt bỏ mô xét nghiệm và điều trị, trừ khi có chỉ định đặc biệt ở phụ nữ trẻ hoặc đang mang thai.
 
-  ![Quản lý CIN 2, 3 theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-cin-2-3.jpeg)
+  ![Quản lý CIN 2, 3 – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-cin-2-3.jpeg)
 
   _Quản lý CIN 2, 3 – Bệnh viện Từ Dũ._
 
@@ -249,7 +249,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 - **Điều trị bảo tồn**: Có thể với phụ nữ muốn giữ khả năng sinh con, cần theo dõi chặt chẽ.
 - Khoét chóp bằng dao lạnh được ưu tiên hơn LEEP để đánh giá bờ phẫu thuật chính xác. Nếu bờ còn bất thường hoặc kênh có CIN/AIS, cần cắt lại hoặc đánh giá sau 6 tháng.
 
-  ![Quản lý AIS theo hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-ais.png)
+  ![Quản lý AIS – Hướng dẫn của ASCCP 2012](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-ais.png)
 
   _Quản lý AIS – ASCCP 2012._
 
@@ -257,7 +257,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 
 - Xử trí tương tự người không mang thai, nhưng hoãn một số can thiệp (nạo kênh) đến sau sinh hoặc lựa chọn kỹ thuật ít xâm lấn.
 
-  ![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky.png)
+  ![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky.png)
 
   _Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai – Bệnh viện Từ Dũ._
 

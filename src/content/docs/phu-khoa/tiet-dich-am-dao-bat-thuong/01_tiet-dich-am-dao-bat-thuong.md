@@ -104,7 +104,7 @@ Tiết dịch âm đạo bất thường (abnormal vaginal discharge – AVD) l�
 
 ## Xử trí
 
-![Sơ đồ xử trí tiết dịch âm đạo bất thường theo Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
+![Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
 
 _Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện Từ Dũ._
 

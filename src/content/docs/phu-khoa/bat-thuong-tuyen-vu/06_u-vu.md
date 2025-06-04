@@ -15,11 +15,11 @@ U vú có thể lành tính hoặc ác tính, tuy nhiên phần lớn là u làn
 
 ## Phác đồ xử trí
 
-![Xử trí nang vú Bệnh viện Từ Dũ](../../../../assets/phu-khoa/u-vu/xu-tri-nang-vu.jpeg)
+![Xử trí nang vú – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/u-vu/xu-tri-nang-vu.jpeg)
 
 _Xử trí nang vú – Bệnh viện Từ Dũ._
 
-![Xử trí u vú Bệnh viện Từ Dũ](../../../../assets/phu-khoa/u-vu/xu-tri-khoi-u-vu.jpeg)
+![Xử trí u vú – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/u-vu/xu-tri-khoi-u-vu.jpeg)
 
 _Xử trí khối u vú – Bệnh viện Từ Dũ._
 

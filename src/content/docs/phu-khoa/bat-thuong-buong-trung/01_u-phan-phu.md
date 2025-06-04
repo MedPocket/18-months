@@ -106,7 +106,7 @@ Các kết quả thăm khám phải xét trong mối liên hệ với các hoạ
 Phải luôn cảnh giác trước khả năng có hay không có ác tính trước mọi cấu trúc tân lập ở buồng trứng.  
 Siêu âm là phương tiện đầu tay trong đánh giá khối u phần phụ.
 
-![Theo dõi u phần phụ](../../../../assets/phu-khoa/u-phan-phu/theo-doi-u-phan-phu.jpeg)
+![Theo dõi u phần phụ – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/u-phan-phu/theo-doi-u-phan-phu.jpeg)
 
 _Theo dõi u phần phụ – Bệnh viện Từ Dũ._
 

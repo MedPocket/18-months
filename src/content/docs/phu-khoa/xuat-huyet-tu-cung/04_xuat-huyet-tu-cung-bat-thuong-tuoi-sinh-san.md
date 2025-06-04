@@ -131,7 +131,7 @@ _Phân loại PALM-COEIN: chia thành các nguyên nhân gây AUB liên quan đ�
      - Nghi u tuyến yên (lactotroph adenoma) nếu prolactin tăng cao.
      - Nghi ngờ u lạc nội mạc hoặc tổn thương lan tỏa trong cơ.
 
-![Sơ đồ tiếp cận AUB mạn tính](../../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
+![Sơ đồ tiếp cận AUB mạn tính – Bệnh viện Từ Dũ.](../../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
 
 _Sơ đồ tiếp cận AUB mạn tính – Bệnh viện Từ Dũ._
 

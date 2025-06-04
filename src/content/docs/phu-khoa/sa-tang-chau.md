@@ -154,15 +154,15 @@ Sa độ I–II, triệu chứng nhẹ, chưa ảnh hưởng chất lượng s�
 - **Ngả bụng/nội soi**: BN trẻ, mong muốn bảo tồn tử cung, sa độ III–IV, thất bại phẫu thuật ngả âm đạo.
 - **Kết hợp**: khi cần đặt mảnh ghép qua cả hai đường để tăng hiệu quả.
 
-![Phác đồ chẩn đoán và xử trí sa tạng chậu Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
+![Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
 
 _Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ Dũ._
 
-![Phẫu thuật ngả bụng Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-bung.jpeg)
+![Phẫu thuật ngả bụng – Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-bung.jpeg)
 
 _Phẫu thuật ngả bụng – Bệnh viện Từ Dũ._
 
-![Phẫu thuật đường âm đạo Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-am-dao.png)
+![Phẫu thuật đường âm đạo – Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-am-dao.png)
 
 _Phẫu thuật đường âm đạo – Bệnh viện Từ Dũ._
 

@@ -138,7 +138,7 @@ _Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)._
   2. Xuất huyết tử cung bất thường (AUB-A).
   3. Hiếm muộn – vô sinh.
 
-![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
 
 _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh viện Từ Dũ._
 
@@ -241,7 +241,7 @@ _Giảm đau bước 2._
     - Điều trị ≥ 6 tháng với: IUS–LNG (levonorgestrel), Dienogest 2 mg/ngày, COCs liên tục.
     - Thời gian khuyến cáo: 18–24 tháng nhằm ngăn ngừa tái phát đau và tổn thương.
 
-![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau – Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
 
 _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau – Bệnh viện Từ Dũ._
 
@@ -260,7 +260,7 @@ _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau –
 - **ART**: IVF/ICSI khi vòi trứng tổn thương hoặc các biện pháp khác thất bại.
 - **Chuẩn bị**: GnRHa 3–6 tháng trước chuyển phôi có thể cải thiện tỉ lệ thành công.
 
-![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn – Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
 _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn – Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
