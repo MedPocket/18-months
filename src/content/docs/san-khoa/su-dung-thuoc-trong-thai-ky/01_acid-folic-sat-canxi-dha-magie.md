@@ -161,8 +161,8 @@ _Hướng dẫn sử dụng acid folic, DHA, sắt, canxi, magie._
 
 ## Nguồn tham khảo
 
-- WHO - [_Iron and folic acid supplementation_](https://www.who.int/nutrition/publications/micronutrients/guidelines/iron_folic_acid_supplementation/en/)
-- CDC - [_Nutrition During Pregnancy_](https://www.cdc.gov/nutrition/pregnancy-and-breastfeeding.html)
-- NCBI - [_Nutrition During Pregnancy_](https://www.ncbi.nlm.nih.gov/books/NBK217107/)
-- ACOG - [_Nutrition During Pregnancy_](https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy)
-- UNICEF - [_Maternal Nutrition_](https://www.unicef.org/documents/maternal-nutrition)
+- WHO – [_Iron and folic acid supplementation_](https://www.who.int/nutrition/publications/micronutrients/guidelines/iron_folic_acid_supplementation/en/)
+- CDC – [_Nutrition During Pregnancy_](https://www.cdc.gov/nutrition/pregnancy-and-breastfeeding.html)
+- NCBI – [_Nutrition During Pregnancy_](https://www.ncbi.nlm.nih.gov/books/NBK217107/)
+- ACOG – [_Nutrition During Pregnancy_](https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy)
+- UNICEF – [_Maternal Nutrition_](https://www.unicef.org/documents/maternal-nutrition)

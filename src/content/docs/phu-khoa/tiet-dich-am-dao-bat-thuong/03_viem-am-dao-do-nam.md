@@ -179,6 +179,6 @@ Tái phát sau 1 tháng chiếm 20–30% trường hợp.
 
 - Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning: Viêm âm đạo do nấm_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
-- Ghebre, M., & Wang, X. (2018) - _Diagnosis and Treatment of Vulvovaginal Candidiasis_
+- Ghebre, M., & Wang, X. (2018) – _Diagnosis and Treatment of Vulvovaginal Candidiasis_
 - Centers for Disease Control and Prevention (CDC) (2010) – _Sexually Transmitted Diseases Treatment Guidelines_
 - Sobel, J. D. (2016). _Vulvovaginal candidosis_

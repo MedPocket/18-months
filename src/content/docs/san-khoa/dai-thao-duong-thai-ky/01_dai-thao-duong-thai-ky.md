@@ -267,4 +267,4 @@ _Tóm tắt thời điểm và chỉ định cách sinh._
 - FIGO (2015) – _Management of Pre-existing Diabetes and GDM in Pregnancy_
 - Hiệp hội Đái tháo đường Hoa Kỳ (ADA, 2024) – _Standards of Medical Care in Diabetes – Pregnancy Section_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
-- TS. Lê Quang Toàn - [_Bài giảng đái tháo đường thai kỳ_](https://www.youtube.com/watch?v=WV4g4cJdMCo)
+- TS. Lê Quang Toàn – [_Bài giảng đái tháo đường thai kỳ_](https://www.youtube.com/watch?v=WV4g4cJdMCo)

@@ -73,11 +73,11 @@ Sau 13+6 tuần, các nguyên nhân chính gồm:
 2. **Siêu âm đầu dò âm đạo**: xác định vị trí thai, tim thai, vị trí nhau, nhau bong, túi thai ngoài tử cung…
 3. **Xét nghiệm máu**: HCG định lượng, công thức máu, nhóm máu – Rh.
 4. **Điều trị**:
-   - _Theo nguyên nhân:_ nghỉ ngơi, kháng viêm, chống co bóp, khâu eo tử cung, can thiệp ngoại khoa (nạo, mổ)…
-   - _Cấp cứu khi cần thiết:_ truyền máu, hồi sức tích cực, mổ lấy thai khẩn cấp.
+   – _Theo nguyên nhân:_ nghỉ ngơi, kháng viêm, chống co bóp, khâu eo tử cung, can thiệp ngoại khoa (nạo, mổ)…
+   – _Cấp cứu khi cần thiết:_ truyền máu, hồi sức tích cực, mổ lấy thai khẩn cấp.
 
 ## Nguồn tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
-- Cunningham, F. G. et al. (2018) - _Williams Obstetrics_
-- ACOG Practice Bulletin (2018) No. 200 - _Early Pregnancy Loss_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Cunningham, F. G. et al. (2018) – _Williams Obstetrics_
+- ACOG Practice Bulletin (2018) No. 200 – _Early Pregnancy Loss_

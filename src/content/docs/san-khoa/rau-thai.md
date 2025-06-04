@@ -1,6 +1,6 @@
 ---
-title: Đặc điểm của rau thai
-description: Tìm hiểu chi tiết về nguồn gốc, quá trình hình thành và vai trò của rau thai trong thai kỳ.
+title: Rau thai
+description: Nguồn gốc, quá trình hình thành và vai trò của rau thai trong thai kỳ.
 ---
 
 Nguồn gốc bánh rau:
@@ -14,7 +14,12 @@ Rau thường bám ở 1/3 trên của buồng tử cung (thành trước hoặc
 
 ### Từ phía con
 
-Sau khi thụ tinh 4 ngày, hợp tử chia thành phôi nang với các tế bào mầm xếp thành 2 khối: Khối ngoại vi sẽ hình thành nguyên bào nuôi, khối tế bào bên trong sẽ phát triển thành phôi thai.
+Sau khi thụ tinh 4 ngày, hợp tử chia thành phôi nang với các tế bào mầm xếp thành 2 khối:
+
+- Khối ngoại vi sẽ hình thành nguyên bào nuôi.
+- Khối tế bào bên trong sẽ phát triển thành phôi thai.
+
+Tiếp theo đó:
 
 - Tuần thứ 2: Rau nguyên phát hình thành khi các tiểu động mạch và tĩnh mạch của niêm mạc tử cung bị xói mòn do sự phát triển của lá nuôi hợp bào. Máu mẹ chảy vào các khoảng trống trong lá nuôi hợp bào.
 - Cuối tuần thứ 2: Các cột lá nuôi tế bào xâm nhập vào các tua hình ngón tay của lá nuôi hợp bào, tạo ra nhung mao đệm nguyên phát (gai rau bậc 1).
@@ -70,7 +75,7 @@ Rau thai là phần phụ của thai, giữ vai trò sống còn trong thai kỳ
 - **Nội tiết**: tiết các hormone quan trọng như hCG (human chorionic gonadotropin), estrogen, progesterone…
 - **Miễn dịch**: truyền miễn dịch thụ động nhờ kháng thể từ máu mẹ qua hàng rào rau sang thai, bảo vệ thai nhi.
 
-## Các bất thường liên quan đến rau thai
+## Các bất thường liên quan
 
 Một số rối loạn thường gặp trong lâm sàng:
 
@@ -81,4 +86,4 @@ Một số rối loạn thường gặp trong lâm sàng:
 
 ## Nguồn tham khảo
 
-- Vinmec - [_Quá trình hình thành rau thai?_](https://www.vinmec.com/vi/bai-viet/qua-trinh-hinh-thanh-rau-thai)
+- Vinmec – [_Quá trình hình thành rau thai?_](https://www.vinmec.com/vi/bai-viet/qua-trinh-hinh-thanh-rau-thai)

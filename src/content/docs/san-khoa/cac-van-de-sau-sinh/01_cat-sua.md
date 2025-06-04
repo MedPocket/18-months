@@ -66,8 +66,8 @@ Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc 
 
 ## Nguồn tham khảo
 
-- American College of Obstetricians and Gynecologists (2017) - _Inhibition of Lactation_
-- Journal of Human Lactation (2016) - _Non-pharmacologic Strategies for Lactation Suppression_
-- McKinney et al. (2018) - _Use of Dopamine Agonists for Lactation Inhibition_
-- British Journal of Obstetrics and Gynaecology (2003) - _Pharmacological Suppression of Lactation with Bromocriptine_
-- BMJ (1993) - _Efficacy and Safety of Cabergoline for Lactation Inhibition_
+- American College of Obstetricians and Gynecologists (2017) – _Inhibition of Lactation_
+- Journal of Human Lactation (2016) – _Non-pharmacologic Strategies for Lactation Suppression_
+- McKinney et al. (2018) – _Use of Dopamine Agonists for Lactation Inhibition_
+- British Journal of Obstetrics and Gynaecology (2003) – _Pharmacological Suppression of Lactation with Bromocriptine_
+- BMJ (1993) – _Efficacy and Safety of Cabergoline for Lactation Inhibition_

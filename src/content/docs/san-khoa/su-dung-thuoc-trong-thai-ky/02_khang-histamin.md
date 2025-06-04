@@ -31,11 +31,11 @@ Kháng histamin thường được dùng để điều trị dị ứng (viêm m
 
 ## Nguồn tham khảo
 
-- Journal of Clinical Medicine (2020) - _Use of Antihistamines in Pregnancy: A Review_
-- American Family Physician (2017) - _The Safety of Antihistamines During Pregnancy_
-- Drug Safety (2018) - _Safety of second-generation antihistamines in pregnancy: A review of the evidence_
-- International Journal of Women’s Health (2016) - _Loratadine use in pregnancy: safety and efficacy_
-- American Journal of Obstetrics and Gynecology (2000) - _Loratadine in pregnancy: safety and pharmacokinetics_
-- Pharmacotherapy (2016) - _Safety of cetirizine in pregnancy: A review of the literature_
-- Pharmacology & Therapeutics (2018) - _Use of antihistamines during pregnancy_
-- American Family Physician (2009) - _Chlorpheniramine and other antihistamines in pregnancy_
+- Journal of Clinical Medicine (2020) – _Use of Antihistamines in Pregnancy: A Review_
+- American Family Physician (2017) – _The Safety of Antihistamines During Pregnancy_
+- Drug Safety (2018) – _Safety of second-generation antihistamines in pregnancy: A review of the evidence_
+- International Journal of Women’s Health (2016) – _Loratadine use in pregnancy: safety and efficacy_
+- American Journal of Obstetrics and Gynecology (2000) – _Loratadine in pregnancy: safety and pharmacokinetics_
+- Pharmacotherapy (2016) – _Safety of cetirizine in pregnancy: A review of the literature_
+- Pharmacology & Therapeutics (2018) – _Use of antihistamines during pregnancy_
+- American Family Physician (2009) – _Chlorpheniramine and other antihistamines in pregnancy_

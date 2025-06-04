@@ -209,7 +209,7 @@ Chỉ định khi chảy máu nặng, mất máu nhiều, hoặc nội mạc bon
 
 2. **Chọn lựa Estrogen**:
 
-   - _Ethinyl estradiol_ (từ viên COC) hoặc _Estrogen liên hợp_ (Premarin®) liều đủ cao.
+   – _Ethinyl estradiol_ (từ viên COC) hoặc _Estrogen liên hợp_ (Premarin®) liều đủ cao.
    - Liều tối ưu: tương đương Ethinyl estradiol 2 mg/ngày trong 7–10 ngày, không khuyến cáo liều càng cao càng tốt, vì tác dụng genomic cần thời gian.
    - Cung cấp qua đường uống; thụt hậu môn hoặc truyền tĩnh mạch hiếm sử dụng ở lứa tuổi này.
 

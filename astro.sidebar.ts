@@ -6,7 +6,7 @@ export const sidebar = starlightSidebarTopics([
     link: "/san-khoa/",
     icon: "external",
     items: [
-      "san-khoa/dac-diem-rau-thai",
+      "san-khoa/rau-thai",
       {
         label: "Xuất huyết tử cung trong thai kỳ",
         autogenerate: {

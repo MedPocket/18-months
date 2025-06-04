@@ -63,7 +63,7 @@ Tắc tia sữa là tình trạng sữa ứ đọng trong các ống dẫn sữa
 
 ## Nguồn tham khảo
 
-- American Family Physician (2015) - _Management of Lactational Mastitis and Blocked Milk Ducts_
-- Journal of Human Lactation (2018) - _Strategies for Resolving Blocked Milk Ducts_
-- Clinical Pediatrics (2012) - _Treatment of Mastitis and Breast Abscess_
-- World Health Organization (2003) - _Breastfeeding Counselling: A Training Course_
+- American Family Physician (2015) – _Management of Lactational Mastitis and Blocked Milk Ducts_
+- Journal of Human Lactation (2018) – _Strategies for Resolving Blocked Milk Ducts_
+- Clinical Pediatrics (2012) – _Treatment of Mastitis and Breast Abscess_
+- World Health Organization (2003) – _Breastfeeding Counselling: A Training Course_
