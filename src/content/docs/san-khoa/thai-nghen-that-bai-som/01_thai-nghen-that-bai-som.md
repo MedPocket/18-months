@@ -53,7 +53,7 @@ _Trứng trống: MSD ≥ 25 mm không thấy túi noãn hoàng hay phôi._
 Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu trước khi chẩn đoán chắc chắn (NICE).
 :::
 
-## Các dạng thai nghén thất bại sớm
+## Phân loại
 
 - Thai chết lưu (missed miscarriage).
 - Dọa sẩy thai lưu (threatened miscarriage).
