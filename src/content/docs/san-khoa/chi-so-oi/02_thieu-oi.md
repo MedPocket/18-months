@@ -23,7 +23,7 @@ Thiểu ối là tình trạng dịch ối ít hơn so với tuổi thai tương
   - Thai quá ngày.
   - Ối vỡ sớm, ối vỡ non.
 
-### Từ phần phụ của thai
+### Từ phần phụ
 
 - Nhau bong non.
 - Truyền máu song thai.
