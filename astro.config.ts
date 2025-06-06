@@ -41,6 +41,13 @@ export default defineConfig({
         alt: "18 Months Logo",
         replacesTitle: true,
       },
+      defaultLocale: 'root',
+      locales: {
+        root: {
+          label: 'Vietnam',
+          lang: 'vi',
+        },
+      },
       components: {
         Head: "./src/components/Head.astro",
         Footer: "./src/components/Footer.astro",
