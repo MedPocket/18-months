@@ -3,9 +3,7 @@ title: Cường giáp trong thai kỳ
 description: Ảnh hưởng của cường giáp đến mẹ và thai nhi, bao gồm cả chẩn đoán và hướng xử trí phù hợp.
 ---
 
-## Cường giáp trong thai kỳ
-
-Cường giáp trong thai kỳ làm tăng nguy cơ:
+Cường giáp trong thai kỳ là tình trạng tuyến giáp hoạt động quá mức, tiết ra quá nhiều hormone giáp (T3 – T4), ảnh hưởng đến sức khỏe của mẹ và thai nhi nếu không được phát hiện và điều trị kịp thời. Cường giáp trong thai kỳ làm tăng nguy cơ:
 
 - Sinh non.
 - Thai chậm phát triển trong tử cung (IUGR).
@@ -55,30 +53,32 @@ Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng *
 
 **Cơn bão giáp** là biến chứng nguy hiểm, đe dọa tính mạng ở thai phụ cường giáp.
 
-**Yếu tố khởi phát**:
+### Yếu tố nguy cơ
 
 - Nhiễm trùng.
 - Chuyển dạ, mổ lấy thai.
 - Bỏ điều trị thuốc kháng giáp.
 
-**Triệu chứng**:
+### Đặc điểm
 
 - Tăng thân nhiệt, nhịp tim nhanh.
 - Vã mồ hôi, mất nước nặng.
 - Có thể lẫn với tiền sản giật nặng, nhưng **cường giáp không có tiểu đạm**.
 
-**Xử trí cấp cứu**:
+### Xử trí cấp cứu
 
-- **Sodium iodide** 1g tiêm mạch để ức chế tiết hormone tuyến giáp.
+- **Sodium iodide** 1 g tiêm mạch để ức chế tiết hormone tuyến giáp.
 - **PTU** 1200–1800 mg/ngày chia liều để chặn tổng hợp và chuyển hóa T₄.
 - **Dexamethasone** 8 mg/ngày: ngăn nitrat hóa T₄.
 - **Propranolol** 20–80 mg mỗi 6 giờ: kiểm soát triệu chứng cường giao cảm.
 - Bù dịch và hạ thân nhiệt.
 
-**Lưu ý**: Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồn tại 2–3 tháng → khoảng **1% trẻ sơ sinh của mẹ Graves có nhiễm độc giáp**, nguy cơ tử vong lên đến 16%. Nghi ngờ khi:
+:::caution[Lưu ý]
+Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồn tại 2–3 tháng → khoảng **1% trẻ sơ sinh của mẹ Graves có nhiễm độc giáp**, nguy cơ tử vong lên đến 16%. Nghi ngờ khi:
 
 - Tim thai > 160 lần/phút kéo dài.
 - Siêu âm: phát hiện bướu giáp thai.
+:::
 
 ## Nguồn tham khảo
 
