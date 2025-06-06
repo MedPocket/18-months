@@ -1,5 +1,5 @@
 ---
-title: Giải phẫu buồng trứng và các cấu trúc liên quan
+title: Giải phẫu và mô học buồng trứng
 description: Giải phẫu buồng trứng gồm vị trí, kích thước, bề mặt, các mặt, bờ, đầu của buồng trứng; hệ thống dây chằng, mạc treo; mạch máu, thần kinh, bạch huyết và mô học buồng trứng.
 ---
 
@@ -8,15 +8,17 @@ Buồng trứng là tuyến kép đảm nhận đồng thời hai vai trò:
 - **Ngoại tiết**: tổng hợp và giải phóng noãn bào trưởng thành mỗi chu kỳ kinh.
 - **Nội tiết**: sản xuất steroid sinh dục (estrogen, progesterone) điều hòa chu kỳ kinh và duy trì thai kỳ.
 
-## Vị trí và kích thước
+## Giải phẫu
+
+### Vị trí và kích thước
 
 - Nằm trong ổ chậu, không được thanh mạc bao phủ hoàn toàn.
-- Mỗi bên một buồng trứng, kích thước trung bình **2×3×3 cm**, trọng lượng 4–8 g.
+- Mỗi bên một buồng trứng, kích thước trung bình 2×3×3 cm, trọng lượng 4–8 g.
 - Bề mặt phẳng mịn ở trẻ em, trở nên sần do tạo vết sẹo phóng noãn sau tuổi dậy thì.
 
-## Hình dạng và quan hệ
+### Hình dạng và liên quan
 
-![Giải phẫu tử cung buồng trứng](../../../../assets/phu-khoa/giai-phau-buong-trung-va-cac-cau-truc-lien-quan/giai-phau-tu-cung-buong-trung.png)
+![Giải phẫu tử cung – buồng trứng](../../../../assets/phu-khoa/giai-phau-buong-trung-va-cac-cau-truc-lien-quan/giai-phau-tu-cung-buong-trung.png)
 
 _Giải phẫu tử cung – buồng trứng._
 
@@ -33,14 +35,14 @@ _Giải phẫu tử cung – buồng trứng._
 - **Đầu vòi**: hướng lên trên, nơi vào của hệ mạch buồng trứng (trong dây chằng treo).
 - **Đầu tử cung**: hướng xuống dưới, bám vào dây chằng buồng trứng riêng (ovarian ligament) tới góc tử cung.
 
-## Hệ thống dây chằng và mạc treo
+### Hệ thống dây chằng và mạc treo
 
 - **Mạc treo buồng trứng** (mesovarium): gôm mạch máu, thần kinh, bạch huyết.
 - **Dây chằng buồng trứng riêng** (ligamentum ovarii proprium): nối đầu tử cung buồng trứng đến góc tử cung.
 - **Dây chằng rộng tử cung** (ligamentum latum): phúc mạc phủ, tạo túi sau vòi trứng.
 - **Dây chằng treo buồng trứng** (suspensory ligament): chứa động – tĩnh mạch buồng trứng, thần kinh, bạch huyết.
 
-## Mạch máu
+### Mạch máu
 
 ![Giải phẫu mạch máu tử cung buồng trứng](../../../../assets/phu-khoa/giai-phau-buong-trung-va-cac-cau-truc-lien-quan/giai-phau-mach-mau-tu-cung-buong-trung.png)
 
@@ -68,7 +70,7 @@ _Giải phẫu mạch máu tử cung buồng trứng._
 - **Vùng tuỷ** (medulla): mô liên kết lỏng lẻo, chứa mạch máu, thần kinh, bạch huyết.
 - **Biểu mô phủ** (germinal epithelium): tế bào vuông hoặc hình trụ thấp trên tunica albuginea.
 
-## Mối liên quan lâm sàng
+## Mối liên quan trên lâm sàng
 
 - **Thoát vị buồng trứng**: hiếm do cấu trúc dây chằng.
 - **Tính mỏng vỏ**: dễ vỡ nang trong hội chứng buồng trứng đa nang.

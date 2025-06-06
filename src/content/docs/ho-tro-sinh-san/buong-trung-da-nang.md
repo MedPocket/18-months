@@ -19,7 +19,7 @@ Chẩn đoán khi có ≥ 2/3 tiêu chí:.
    - **Lâm sàng**: rậm lông (Ferriman–Gallwey), mụn trứng cá, hói đầu kiểu nam, béo phì trung tâm (BMI > 23 kg/m² hoặc vòng eo > 80 cm, WHR > 0.85).
    - **Cận lâm sàng**: FTI (TT/SHBG × 100) > 6.
 3. **Buồng trứng đa nang**: ≥ 12 nang 2–9 mm trên mặt cắt **và/hoặc** thể tích > 10 mL.
-:::
+   :::
 
 :::caution[Lưu ý]
 Nếu chỉ có hình ảnh buồng trứng đa nang mà không có triệu chứng khác, chưa chẩn đoán PCOS cho đến khi xuất hiện rối loạn kinh nguyệt hoặc cường androgen.

@@ -113,9 +113,9 @@ export const sidebar = starlightSidebarTopics([
     icon: "forward-slash",
     items: [
       {
-        label: "Giải phẫu và sinh lý",
+        label: "Giải phẫu - Sinh lý buồng trứng",
         autogenerate: {
-          directory: "phu-khoa/giai-phau-sinh-ly",
+          directory: "phu-khoa/giai-phau-sinh-ly-buong-trung",
         },
         collapsed: true,
       },
