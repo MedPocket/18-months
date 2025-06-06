@@ -15,11 +15,11 @@ Có 2 dạng thức vỡ tử cung:
 Có 2 tình huống vỡ tử cung:
 
 1. Trên tử cung nguyên vẹn, vỡ tử cung thường thấy trong chuyển dạ, với các triệu chứng điển hình: chuyển dạ bất thường → vượt trở ngại → dọa vỡ tử cung → vỡ tử cung. Trường hợp tự phát ngoài chuyển dạ hiếm khi xảy ra, trừ bất thường bẩm sinh của hệ Müller.
-2. Trên tử cung có sẹo mổ cũ (mổ lấy thai, bóc nhân xơ…): tần suất vỡ tự phát ngoài chuyển dạ cao hơn, nhưng chủ yếu vẫn là vỡ trong chuyển dạ.
+2. Trên tử cung có sẹo mổ cũ (mổ lấy thai, bóc nhân xơ...): tần suất vỡ tự phát ngoài chuyển dạ cao hơn, nhưng chủ yếu vẫn là vỡ trong chuyển dạ.
 
 ## Yếu tố nguy cơ
 
-- Sẹo mổ cũ (mổ lấy thai, mổ bóc nhân xơ…).
+- Sẹo mổ cũ (mổ lấy thai, mổ bóc nhân xơ...).
 - Đa sản, ngôi sinh khó như ngôi trán, ngôi mặt, ngôi ngang, bất xứng đầu chậu.
 - Sinh giúp khi không đủ điều kiện hoặc sai kỹ thuật.
 - Khối u ở vị trí tiền đạo.

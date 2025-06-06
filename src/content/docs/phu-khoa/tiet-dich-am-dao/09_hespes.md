@@ -3,7 +3,7 @@ title: Herpes
 description: Bệnh do virus Herpes simplex (HSV), thường là HSV type 2 (có thể kèm HSV type 1), gây tổn thương niêm mạc và da sinh dục – hậu môn, với thời gian ủ bệnh 3–7 ngày. Bệnh đặc trưng bởi các mụn nước đau rát, có thể kèm triệu chứng toàn thân, dễ tái phát và tiềm ẩn trong hạch thần kinh.
 ---
 
-Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV type 1) có ái lực mạnh với niêm mạc và da vùng sinh dục – hậu môn. Sau khi xâm nhập qua các vi tổn thương trên da niêm, HSV di chuyển dọc sợi thần kinh đến hạch bạch huyết vùng chậu (thường là hạch cùng – S2 – S4) và tồn tại ở dạng tiềm ẩn (latent) trong các tế bào thần kinh. Khi có điều kiện thuận lợi (stress, suy giảm miễn dịch, rối loạn kinh nguyệt…), virus tái hoạt và di chuyển ngược lên niêm mạc, gây tái phát tổn thương.
+Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV type 1) có ái lực mạnh với niêm mạc và da vùng sinh dục – hậu môn. Sau khi xâm nhập qua các vi tổn thương trên da niêm, HSV di chuyển dọc sợi thần kinh đến hạch bạch huyết vùng chậu (thường là hạch cùng – S2 – S4) và tồn tại ở dạng tiềm ẩn (latent) trong các tế bào thần kinh. Khi có điều kiện thuận lợi (stress, suy giảm miễn dịch, rối loạn kinh nguyệt...), virus tái hoạt và di chuyển ngược lên niêm mạc, gây tái phát tổn thương.
 
 Thời gian ủ bệnh trung bình 3–7 ngày (dao động từ 2–12 ngày) kể từ khi tiếp xúc với nguồn lây.
 
@@ -15,7 +15,7 @@ Chẩn đoán Herpes sinh dục chủ yếu dựa vào lâm sàng, trong khi xé
 
 1. **Triệu chứng toàn thân (thường gặp ở lần nhiễm đầu tiên)**
 
-   - Sốt nhẹ đến sốt vừa (37.5–38.5 °C), mệt mỏi, đau cơ, nhức đầu…
+   - Sốt nhẹ đến sốt vừa (37.5–38.5 °C), mệt mỏi, đau cơ, nhức đầu...
    - Trong 1–2 ngày trước khi xuất hiện tổn thương, bệnh nhân có thể cảm giác ngứa, tê, bỏng rát tại vùng dự định phát ban (gia đoạn tiền triệu).
 
 2. **Tổn thương tại chỗ**
@@ -48,7 +48,7 @@ _Herpes sinh dục: mụn nước, vết loét ở vùng môi bé và âm đạo
 
 - **Nuôi cấy virus (Culture):**
 
-  - Lấy mẫu dịch hoặc mảnh tổn thương đáy vết loét, nuôi cấy trên tế bào cảm thụ (Vero, HELA…). Tỷ lệ nhạy cao nhất trong 48–72 giờ kể từ khi xuất hiện mụn nước.
+  - Lấy mẫu dịch hoặc mảnh tổn thương đáy vết loét, nuôi cấy trên tế bào cảm thụ (Vero, HELA...). Tỷ lệ nhạy cao nhất trong 48–72 giờ kể từ khi xuất hiện mụn nước.
   - Kết quả dương tính xác định chẩn đoán, nhưng tốn thời gian và chi phí.
 
 - **Phết tổn thương tìm thể vùi (Tzanck smear):**

@@ -8,12 +8,12 @@ U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô
 ## Bệnh sinh
 
 - **ER/PR dương tính**: tế bào u xơ có thụ thể ER-α và PR; progesterone thúc đẩy phân bào và sinh ECM.
-- **Growth factors**: EGF, IGF-1… tăng cao, kích thích tăng trưởng tế bào u.
+- **Growth factors**: EGF, IGF-1... tăng cao, kích thích tăng trưởng tế bào u.
 
 ## Yếu tố nguy cơ
 
 - **Tuổi**: tăng đến tiền mãn kinh, giảm sau mãn kinh.
-- **Di truyền**: đột biến MED12, trisomy 12, đảo đoạn 12q, 6p…
+- **Di truyền**: đột biến MED12, trisomy 12, đảo đoạn 12q, 6p...
 - **Nội tiết/chuyển hóa**: béo phì, kháng insulin, tăng lipid, tăng huyết áp.
 - **Gia đình**: mẹ/chị em gái có u xơ.
 
@@ -32,7 +32,7 @@ _Phân loại FIGO 2011._
 | Category                                                          | Description                                                                                                                                                                                                       |
 | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **S (Submucosal)**<br>Dưới niêm mạc                               | **0** Có cuống, hoàn toàn trong lòng tử cung<br>**1** < 50% trong cơ<br>**2** ≥ 50% trong cơ _(inferred)_                                                                                                         |
-| **O (Other)**<br>Khác                                             | **3** Tiếp xúc nội mạc, 100% trong cơ<br>**4** Trong cơ<br>**5** Dưới thanh mạc, ≥ 50% trong cơ<br>**6** Dưới thanh mạc, < 50% trong cơ<br>**7** Dưới thanh mạc, có cuống<br>**8** Khác: Ghi rõ (vd: cổ tử cung…) |
+| **O (Other)**<br>Khác                                             | **3** Tiếp xúc nội mạc, 100% trong cơ<br>**4** Trong cơ<br>**5** Dưới thanh mạc, ≥ 50% trong cơ<br>**6** Dưới thanh mạc, < 50% trong cơ<br>**7** Dưới thanh mạc, có cuống<br>**8** Khác: Ghi rõ (vd: cổ tử cung...) |
 | **H (Hybrid leiomyomas)**<br>Tiếp xúc đồng thời thanh và niêm mạc | Thể hiện bằng 2 con số:<br>- **Số thứ nhất**: Liên quan niêm mạc (dùng mã S)<br>- **Số thứ hai**: Liên quan thanh mạc (dùng mã O)<br>_Ví dụ: 2-5 = Dưới thanh mạc + dưới niêm mạc (cả hai ≥50% trong cơ)_         |
 
 _Phân loại FIGO 2011._
@@ -97,7 +97,7 @@ _Phân loại FIGO 2011._
 - Tử cung to do có thai.
 - Polyp nội mạc tử cung (u xơ dưới niêm mạc).
 - Khối u buồng trứng (u xơ dưới thanh mạc có cuống).
-- Leiomyosarcoma: sarcoma tử cung được chẩn đoán xác định dựa trên giải phẫu bệnh…
+- Leiomyosarcoma: sarcoma tử cung được chẩn đoán xác định dựa trên giải phẫu bệnh...
 
 ## Biến chứng
 

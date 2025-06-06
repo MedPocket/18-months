@@ -7,7 +7,7 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 
 ## Điều chỉnh lối sống
 
-Đối với mọi thai phụ, nhất là nhóm nguy cơ cao (≥ 35 tuổi, tiền sử con ≥ 4 kg, BMI ≥ 23 kg/m²…), cần:
+Đối với mọi thai phụ, nhất là nhóm nguy cơ cao (≥ 35 tuổi, tiền sử con ≥ 4 kg, BMI ≥ 23 kg/m²...), cần:
 
 - **Chế độ ăn tiết chế**
 
@@ -27,7 +27,7 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
   _Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)._
 
 - **Hoạt động thể chất**
-  - Ít nhất 150 phút/tuần (đi bộ, yoga, bơi nhẹ…).
+  - Ít nhất 150 phút/tuần (đi bộ, yoga, bơi nhẹ...).
   - Chia nhỏ thời gian (ví dụ 30 phút/ngày).
   - Theo dõi đường huyết trước và sau khi tập, đảm bảo không hạ đường huyết.
 
@@ -74,7 +74,7 @@ _Phân bố glucid, protein và lipid._
 #### Chất xơ và vi chất
 
 - Chất xơ ≥ 28 g/ngày (rau củ quả ≥ 400 g/ngày).
-- Canxi, sắt, acid folic, vitamin D… theo khuyến nghị.
+- Canxi, sắt, acid folic, vitamin D... theo khuyến nghị.
 - Sữa/chế phẩm ít béo: 3–6 đơn vị IU/ngày tuỳ tam cá nguyệt.
 
 #### Phân bố bữa ăn mẫu

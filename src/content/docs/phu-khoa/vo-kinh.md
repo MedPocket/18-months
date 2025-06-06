@@ -17,7 +17,7 @@ Khi một phần của trục hạ đồi – yên – buồng trứng gặp tr�
 3. Không có phóng noãn → không có kinh nguyệt.
 
 Rối loạn chức năng phóng noãn là nguyên nhân phổ biến nhất, đặc biệt ở vô kinh thứ phát.  
-Ngoài ra, vô kinh vẫn xảy ra khi phóng noãn bình thường nhưng có bất thường về cấu trúc đường sinh dục (tắc nghẽn bởi dị tật bẩm sinh, hội chứng Asherman…).
+Ngoài ra, vô kinh vẫn xảy ra khi phóng noãn bình thường nhưng có bất thường về cấu trúc đường sinh dục (tắc nghẽn bởi dị tật bẩm sinh, hội chứng Asherman...).
 
 ## Nguyên nhân
 
@@ -28,7 +28,7 @@ Vô kinh có thể phân loại theo:
 
 ### Vô kinh do rối loạn chức năng rụng trứng
 
-Thường gặp nhất ở vô kinh thứ phát, có thể là nguyên phát nếu rụng trứng chưa từng khởi phát (dậy thì muộn, bất thường giới tính, hội chứng nhiễm sắc thể Y…).  
+Thường gặp nhất ở vô kinh thứ phát, có thể là nguyên phát nếu rụng trứng chưa từng khởi phát (dậy thì muộn, bất thường giới tính, hội chứng nhiễm sắc thể Y...).  
 Nguyên nhân chính liên quan đến trục hạ đồi – yên – buồng trứng:
 
 - **Rối loạn chức năng vùng dưới đồi**
@@ -39,7 +39,7 @@ Nguyên nhân chính liên quan đến trục hạ đồi – yên – buồng t
 
 - **Rối loạn chức năng tuyến yên**
 
-  - U tuyến yên hoặc mô ngoại lai (adenoma, meningioma, tăng prolactin…).
+  - U tuyến yên hoặc mô ngoại lai (adenoma, meningioma, tăng prolactin...).
   - Hoại tử sau sinh (Sheehan), chấn thương, sarcoidosis, lao.
   - Thiếu hụt gonadotropin đơn độc, hội chứng Kallmann.
 
@@ -48,7 +48,7 @@ Nguyên nhân chính liên quan đến trục hạ đồi – yên – buồng t
   - Tự miễn (viêm buồng trứng tự miễn).
   - Di truyền (Hội chứng Turner, bất sản nang noãn).
   - Hóa trị, xạ trị vùng chậu.
-  - U buồng trứng (theca, Brenner, u quái…).
+  - U buồng trứng (theca, Brenner, u quái...).
 
 - **Rối loạn nội tiết khác**
   - Hội chứng buồng trứng đa nang (PCOS).
@@ -99,7 +99,7 @@ Hậu quả: bế kinh (âm đạo/phúc mạc phồng), tích huyết tử cung
 - Triệu chứng kèm: đau bụng, đau vú, thay đổi tâm trạng.
 - Thói quen ăn uống, tập luyện, stress, cân nặng, tiền sử rối loạn ăn uống.
 - Tiền sử phẫu thuật, can thiệp nội mạc, đặt dụng cụ tử cung.
-- Tiền sử dùng thuốc (dopaminergic, hormon, hóa trị, steroids, androgen…).
+- Tiền sử dùng thuốc (dopaminergic, hormon, hóa trị, steroids, androgen...).
 
 ### Khám lâm sàng
 

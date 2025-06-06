@@ -52,10 +52,10 @@ HIP được chia hai nhóm chính:
 ## Bệnh học
 
 1. **Kháng insulin sinh lý**  
-   Bắt đầu tăng từ giữa thai kỳ (tuần 20–24) do hormon nhau thai (hPL, cortisol, estrogen, progesterone, prolactin…) làm giảm tiêu thụ glucose của mẹ, ưu tiên cho thai nhi.
+   Bắt đầu tăng từ giữa thai kỳ (tuần 20–24) do hormon nhau thai (hPL, cortisol, estrogen, progesterone, prolactin...) làm giảm tiêu thụ glucose của mẹ, ưu tiên cho thai nhi.
 
 2. **Kháng insulin mạn tính**  
-   Do tiền sử gia đình ĐTĐ, thừa cân – béo phì, tuổi mẹ cao, PCOS…
+   Do tiền sử gia đình ĐTĐ, thừa cân – béo phì, tuổi mẹ cao, PCOS...
 
 3. **Suy giảm chức năng tế bào β**  
    Không đáp ứng đủ nhu cầu insulin tăng cao → tăng glucose huyết.

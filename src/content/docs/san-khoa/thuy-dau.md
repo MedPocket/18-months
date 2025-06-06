@@ -13,7 +13,7 @@ Thủy đậu (trái rạ) là bệnh truyền nhiễm cấp tính do virus vari
 
   - Qua giọt bắn đường hô hấp khi ho, hắt hơi, nói chuyện.
   - Tiếp xúc trực tiếp với dịch mụn nước rồi chạm vào mắt, miệng, mũi hoặc da.
-  - Hiếm gặp: gián tiếp qua vật dụng nhiễm dịch mụn nước (quần áo, khăn, ga giường…) nếu có dịch dính.
+  - Hiếm gặp: gián tiếp qua vật dụng nhiễm dịch mụn nước (quần áo, khăn, ga giường...) nếu có dịch dính.
 
 - Thời gian lây: bắt đầu từ 1–2 ngày trước khi nổi ban/mụn nước, kéo dài đến khi tất cả mụn nước khô vảy hoàn toàn (khoảng 5–7 ngày sau phát ban).
 

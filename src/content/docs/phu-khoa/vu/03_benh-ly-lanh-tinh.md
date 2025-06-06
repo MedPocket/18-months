@@ -42,7 +42,7 @@ Bướu sợi-tuyến (Fibroadenoma) là khối u lành tính phát triển từ
 **Đặc điểm dịch tễ**
 
 - Thường gặp nhất ở phụ nữ 20–30 tuổi.
-- Thường đơn độc; khi có nhiều khối, cần phân biệt với đa nang sợi, bệnh di truyền…
+- Thường đơn độc; khi có nhiều khối, cần phân biệt với đa nang sợi, bệnh di truyền...
 
 **Lâm sàng**
 

@@ -40,7 +40,7 @@ _Kết hợp adenomyosis và u xơ tử cung._
 
 ### Thuyết vi sang chấn và tái tạo (TIAR)
 
-Vi sang chấn → xâm nhập tế bào gốc → viêm → cường estrogen cục bộ → đề kháng progesterone → co thắt nghịch thường → tăng vi sang chấn… (vòng Leyendecke).
+Vi sang chấn → xâm nhập tế bào gốc → viêm → cường estrogen cục bộ → đề kháng progesterone → co thắt nghịch thường → tăng vi sang chấn... (vòng Leyendecke).
 
 ![Sơ đồ mô hình TIAR](../../../assets/phu-khoa/lac-noi-mac-tu-cung/so-do-mo-hinh-tiar.png)
 
@@ -116,7 +116,7 @@ Adenomyosis thường "ồn ào" triệu chứng: thống kinh, AUB-A, đau vùn
 
 #### Khác
 
-- Nội soi tiêu hóa/niệu quản… khi nghi ngại xâm lấn.
+- Nội soi tiêu hóa/niệu quản... khi nghi ngại xâm lấn.
 
 ## Chẩn đoán phân biệt
 
@@ -236,7 +236,7 @@ _Giảm đau bước 2._
     - Có thể kèm lấy buồng trứng hoặc giữ lại buồng trứng tùy chỉ định.
 
 - **Điều trị nội tiết liên quan**
-  - **Không chỉ định** dùng NSAIDs/COCs/Đồng vận GnRH… để chuẩn bị trước mổ.
+  - **Không chỉ định** dùng NSAIDs/COCs/Đồng vận GnRH... để chuẩn bị trước mổ.
   - **Dự phòng tái phát** sau phẫu thuật:
     - Điều trị ≥ 6 tháng với: IUS–LNG (levonorgestrel), Dienogest 2 mg/ngày, COCs liên tục.
     - Thời gian khuyến cáo: 18–24 tháng nhằm ngăn ngừa tái phát đau và tổn thương.

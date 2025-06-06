@@ -1,6 +1,6 @@
 ---
 title: U nguyên bào nuôi
-description: U nguyên bào nuôi (Gestational Trophoblastic Neoplasia – GTN) là tình trạng tăng sinh ác tính của tế bào nguyên bào nuôi phát sinh sau các biến cố thai kỳ, bao gồm thai trứng, thai lưu, sảy thai, thai đủ tháng hoặc thai ngoài tử cung. Bệnh có thể xâm lấn tại chỗ, di căn xa (phổi, não, gan…) và cần chẩn đoán, phân giai đoạn, điều trị hóa chất/phẫu thuật kịp thời để đạt tiên lượng tốt.
+description: U nguyên bào nuôi (Gestational Trophoblastic Neoplasia – GTN) là tình trạng tăng sinh ác tính của tế bào nguyên bào nuôi phát sinh sau các biến cố thai kỳ, bao gồm thai trứng, thai lưu, sảy thai, thai đủ tháng hoặc thai ngoài tử cung. Bệnh có thể xâm lấn tại chỗ, di căn xa (phổi, não, gan...) và cần chẩn đoán, phân giai đoạn, điều trị hóa chất/phẫu thuật kịp thời để đạt tiên lượng tốt.
 ---
 
 Xuất hiện sau thai trứng ( 60%); thai lưu/sảy thai ( 30%); thai đủ tháng hoặc thai ngoài tử cung ( 10%). Thường khởi đầu bằng xuất huyết âm đạo kéo dài, có thể kèm đau vùng hạ vị hoặc dấu hiệu di căn.
@@ -9,7 +9,7 @@ Xuất hiện sau thai trứng ( 60%); thai lưu/sảy thai ( 30%); thai đủ t
 
 - **Thai trứng xâm lấn (Invasive mole).** Tổ chức nguyên bào nuôi phồng nước xâm nhập vào cơ tử cung, gây chảy máu nặng và có thể thủng tử cung. Tiến triển từ 15 % thai trứng. β-hCG thường 20 000–30 000 mIU/mL. Siêu âm Doppler thấy khối tăng sinh mạch trong cơ. Giải phẫu bệnh sau cắt tử cung ghi nhận gai rau thoái hóa nước trong cơ tử cung.
 - **U nguyên bào nuôi tại vị trí rau bám (Placental Site Trophoblastic Tumour – PSTT).** Khối u phát sinh từ tế bào nuôi nơi bám rau, β-hCG thường thấp (16–400 mIU/mL). Ít đáp ứng hóa chất, cần phẫu thuật triệt căn.
-- **Ung thư nguyên bào nuôi (Choriocarcinoma).** Tân lập ác tính toàn tế bào nuôi, không còn gai rau; khởi phát sau thai trứng, thai bình thường hoặc tự phát không liên quan thai kỳ (non-gestational). Di căn xa sớm (phổi, não, gan…).
+- **Ung thư nguyên bào nuôi (Choriocarcinoma).** Tân lập ác tính toàn tế bào nuôi, không còn gai rau; khởi phát sau thai trứng, thai bình thường hoặc tự phát không liên quan thai kỳ (non-gestational). Di căn xa sớm (phổi, não, gan...).
 - **U nguyên bào nuôi dạng biểu mô (Epithelioid Trophoblastic Tumour – ETT).** Hiếm, tế bào giống biểu mô nhau thai, diễn tiến chậm, kháng hóa chất, ưu tiên phẫu thuật.
 
 ## Chẩn đoán
@@ -224,7 +224,7 @@ _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị tr�
 
 - **Thời gian theo dõi tối thiểu**: 5 năm.
 - **Thai kì trở lại**: ít nhất 2 năm sau khỏi; siêu âm + β-hCG sớm khi có thai.
-- Xét nghiệm huyết đồ, chức năng gan, thận, điện giải… phát hiện nhiễm độc hóa chất.
+- Xét nghiệm huyết đồ, chức năng gan, thận, điện giải... phát hiện nhiễm độc hóa chất.
 - Thời gian theo dõi tối thiểu là 5 năm.
 - Sau thời gian theo dõi, người bệnh được có thai trở lại, tùy trường hợp. Yêu cầu ít nhất 2 năm sau điều trị khỏi mới có thai lại. Khi có dấu hiệu mang thai cần đi khám thai ngày, chú ý siêu âm và β-hCG để phòng bệnh tái phát.
 

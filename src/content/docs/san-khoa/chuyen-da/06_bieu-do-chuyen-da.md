@@ -42,7 +42,7 @@ Khi có cản trở cơ học, thai nhi thường có các dấu hiệu:
 
 - Nguyên nhân chủ yếu là do bất xứng đầu-chậu, ngôi bất thường (như ngôi mặt cằm sau, ngôi trán, ngôi ngang), dị tật thai (não úng thủy), hoặc khối u vùng chậu.
 - Bất xứng đầu-chậu là sự không tương thích giữa đường kính của phần trình thai và kích thước khung chậu.
-- Tình trạng này chỉ được xác định rõ trong quá trình chuyển dạ, khi thai không thể vượt qua khung chậu dù đã thực hiện các cơ chế điều chỉnh như cúi đầu, uốn khuôn… Những trường hợp có thể chẩn đoán bất xứng đầu-chậu trước chuyển dạ thường là thai quá to hoặc khung chậu quá nhỏ.
+- Tình trạng này chỉ được xác định rõ trong quá trình chuyển dạ, khi thai không thể vượt qua khung chậu dù đã thực hiện các cơ chế điều chỉnh như cúi đầu, uốn khuôn... Những trường hợp có thể chẩn đoán bất xứng đầu-chậu trước chuyển dạ thường là thai quá to hoặc khung chậu quá nhỏ.
 
 ### Hậu quả
 
@@ -76,7 +76,7 @@ Khi ối vỡ kéo dài:
 1. Áp lực thay đổi trong buồng tử cung có thể đẩy vi khuẩn ngược dòng vào buồng ối.
 2. Khám âm đạo nhiều lần làm tăng nguy cơ nhiễm khuẩn.
 
-Nhiễm trùng ối dẫn đến nhiễm trùng thai, sơ sinh, rồi đến nhiễm trùng mẹ (nội mạc tử cung, du khuẩn huyết, nhiễm trùng huyết…). Streptococcus nhóm B đặc biệt nguy hiểm. Dịch ối hôi, có phân su là dấu hiệu nghi ngờ. Khi có biểu hiện toàn thân ở mẹ (sốt, bạch cầu tăng, CRP tăng), cần xử trí khẩn cấp.
+Nhiễm trùng ối dẫn đến nhiễm trùng thai, sơ sinh, rồi đến nhiễm trùng mẹ (nội mạc tử cung, du khuẩn huyết, nhiễm trùng huyết...). Streptococcus nhóm B đặc biệt nguy hiểm. Dịch ối hôi, có phân su là dấu hiệu nghi ngờ. Khi có biểu hiện toàn thân ở mẹ (sốt, bạch cầu tăng, CRP tăng), cần xử trí khẩn cấp.
 
 ## Biểu đồ chuyển dạ (Sản đồ)
 

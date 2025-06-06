@@ -18,7 +18,7 @@ description: Đa ối là tình trạng dư thừa dịch ối so với mức b�
 - Nhiễm trùng bào thai (TORCH).
 - Thiếu máu thai.
 - Bất thường thần kinh trung ương: não úng thủy, vô sọ, chẻ đôi đốt sống.
-- Bất thường thần kinh–cơ: nhược cơ, bệnh Steinert, rối loạn nuốt, sức môi…
+- Bất thường thần kinh–cơ: nhược cơ, bệnh Steinert, rối loạn nuốt, sức môi...
 - Bất thường vùng cổ–lồng ngực: tăng sinh tuyến dạng nang ở phổi.
 - Tim bẩm sinh.
 - Bất thường hệ tiêu hóa: hẹp thực quản, hẹp tá tràng.
@@ -26,7 +26,7 @@ description: Đa ối là tình trạng dư thừa dịch ối so với mức b�
 - Thoát vị hoành.
 - Bất thường thận: hội chứng Bartter.
 - Bất thường hệ xương.
-- Shunt bào thai: phình tĩnh mạch Galien, bướu quái cùng cụt, bướu máu…
+- Shunt bào thai: phình tĩnh mạch Galien, bướu quái cùng cụt, bướu máu...
 - Hội chứng đa dị tật.
 - Song thai: hội chứng truyền máu song thai, TRAPs.
 - Phù rau thai.
@@ -54,7 +54,7 @@ Chủ yếu dựa vào siêu âm:
 :::
 
 - Bề cao tử cung lớn hơn tuổi thai, dấu hiệu quá tải (khó thở, tim nhanh), sờ bụng có "sóng vỗ", thăm âm đạo thấy "cục đá".
-- Siêu âm hình thái, đo chiều dài cổ tử cung; nghiệm pháp dung nạp đường huyết; xét nghiệm TORCH, karyotype, thalassemia…
+- Siêu âm hình thái, đo chiều dài cổ tử cung; nghiệm pháp dung nạp đường huyết; xét nghiệm TORCH, karyotype, thalassemia...
 
 ## Biến chứng
 

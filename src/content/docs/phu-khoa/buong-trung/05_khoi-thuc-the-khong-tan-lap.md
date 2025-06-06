@@ -10,12 +10,12 @@ Các khối thực thể không tân lập tại phần phụ là tất cả cá
 - **Khối dính do lao**.
 - **Giả nang phúc mạc** do nhiễm trùng kinh niên vùng chậu hoặc sau phẫu thuật.
 
-Đặc trưng chung: triệu chứng thường rõ (đau, rối loạn kinh, hiếm muộn…), khác với khối tân lập (thường âm thầm).
+Đặc trưng chung: triệu chứng thường rõ (đau, rối loạn kinh, hiếm muộn...), khác với khối tân lập (thường âm thầm).
 
 Tiếp cận có thể **nội khoa** hoặc **ngoại khoa**.
 
 - Cơ năng (ví dụ nang noãn nang) chủ yếu điều trị nội khoa.
-- Thực thể không tân lập (nang lạc nội mạc, vòi ứ dịch…) có thể cần phẫu thuật tùy triệu chứng.
+- Thực thể không tân lập (nang lạc nội mạc, vòi ứ dịch...) có thể cần phẫu thuật tùy triệu chứng.
 
 ## Nang lạc tuyến nội mạc tử cung ở buồng trứng
 

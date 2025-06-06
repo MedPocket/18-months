@@ -48,7 +48,7 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 
    - **Thuốc ức chế bơm proton (ranitidine, cimetidine)**: Gây tăng prolactin do ức chế thụ thể dopamin D2 ở tuyến yên.
    - **Thuốc chống trầm cảm ba vòng (amitriptyline, nortriptyline)**: Ức chế tái hấp thu serotonin, gián tiếp làm tăng prolactin.
-   - **Thuốc hướng thần kinh (antipsychotics)**: Haloperidol, risperidone, olanzapine… ức chế dopamin, gây tăng prolactin.
+   - **Thuốc hướng thần kinh (antipsychotics)**: Haloperidol, risperidone, olanzapine... ức chế dopamin, gây tăng prolactin.
    - **Thuốc trị tăng huyết áp nhóm methyldopa**: Kích thích tiết prolactin.
 
 5. **Kích thích núm vú quá mức**

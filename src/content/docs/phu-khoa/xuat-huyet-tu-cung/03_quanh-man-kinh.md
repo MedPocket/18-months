@@ -55,7 +55,7 @@ Giai đoạn quanh mãn kinh (perimenopause) thường kéo dài từ cuối 40 
 
 4. **Yếu tố toàn thân góp phần**
    - Tăng huyết áp, đái tháo đường, béo phì: tác động gián tiếp lên chuyển hóa estrogen (estrone từ mô mỡ ngoại vi) và độ nhạy của nội mạc.
-   - Thuốc (tamoxifen, hormone trị liệu thay thế không phối hợp đúng liều progesterone…) có thể làm tăng nguy cơ xuất huyết.
+   - Thuốc (tamoxifen, hormone trị liệu thay thế không phối hợp đúng liều progesterone...) có thể làm tăng nguy cơ xuất huyết.
 
 ## Biểu hiện xuất huyết tử cung bất thường quanh mãn kinh
 
@@ -84,7 +84,7 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
 - **Thai kỳ**: Luôn xét nghiệm β-hCG cho phụ nữ độ tuổi sinh sản, dù khả năng có thai quanh mãn kinh thấp (< 1%).
 - **Nguyên nhân tại tử cung**:
   - U xơ tử cung, polyp nội mạc, viêm nội mạc tử cung, dính buồng tử cung.
-  - DỊ dạng bẩm sinh hiếm gặp (hội chứng Asherman…).
+  - DỊ dạng bẩm sinh hiếm gặp (hội chứng Asherman...).
 - **Nguyên nhân tại cổ tử cung–âm đạo**:
   - Viêm cổ tử cung mạn, loạn sản hay ung thư biểu mô cổ tử cung, lạc nội mạc cổ tử cung.
 - **Nguyên nhân từ các cơ quan lận cận**:
@@ -176,7 +176,7 @@ Việc quyết định điều trị phụ thuộc vào:
    - **Cắt tử cung (Hysterectomy)**:
      - Dành cho các trường hợp:
        - Điều trị bảo tồn thất bại (tái xuất huyết, tăng sinh/loạn sản nội mạc).
-       - Có kèm bệnh lý thực thể nặng (u xơ lớn, polyp tái phát, lạc nội mạc tử cung nặng…).
+       - Có kèm bệnh lý thực thể nặng (u xơ lớn, polyp tái phát, lạc nội mạc tử cung nặng...).
      - Phương pháp: mổ mở, mổ nội soi hoặc mổ robotic tùy tình trạng và kỹ thuật của cơ sở.
 
 4. **Theo dõi dài hạn**

@@ -13,7 +13,7 @@ Rau cài răng lược bao gồm các mức độ bám và xâm lấn sâu của
 | **Độ 2: Increta (xâm lấn cơ tử cung)**     | - Khi mở bụng thấy mô rau bám vào cơ, tử cung tại vị trí đó phồng căng, màu xanh/tím.<br>- Tăng sinh mạch máu dày đặc trong cơ tử cung.<br>- Kéo dây rốn gây co bóp tử cung nhưng rau không bong (dimple sign).     | - Gai rau xuyên vào lớp cơ tử cung nhưng không xuyên qua thanh mạc.                                  |
 | **Độ 3a: Percreta tới thanh mạc**          | - Mô rau xâm lấn xuyên qua cơ và lớp thanh mạc, thấy dưới thanh mạc tử cung phồng căng, mạch máu tăng sinh rõ.<br>- Dễ phân biệt bàng quang và tử cung do chưa xâm lấn sâu vào bàng quang.                          | - Gai rau xuyên qua thanh mạc tử cung nhưng không vượt ra ngoài khoang chậu hoặc xâm lấn bàng quang. |
 | **Độ 3b: Percreta xâm lấn bàng quang**     | - Tương tự độ 3a nhưng mô rau còn dính chặt vào thành bàng quang, không tách rời được.<br>- Tiểu máu có thể xuất hiện do xâm lấn niêm mạc bàng quang.                                                               | - Gai rau xuyên qua thanh mạc và phần thành bàng quang hoặc niêm mạc bàng quang.                     |
-| **Độ 3c: Percreta xâm lấn vùng chậu/khác** | - Rau xâm lấn dây chằng rộng, thành âm đạo, thành chậu hoặc các cơ quan khác (gan, ruột…) kèm/không kèm xâm lấn bàng quang.                                                                                         | - Gai rau xuyên qua thanh mạc tử cung và xâm lấn vào các cấu trúc ngoài tử cung.                     |
+| **Độ 3c: Percreta xâm lấn vùng chậu/khác** | - Rau xâm lấn dây chằng rộng, thành âm đạo, thành chậu hoặc các cơ quan khác (gan, ruột...) kèm/không kèm xâm lấn bàng quang.                                                                                         | - Gai rau xuyên qua thanh mạc tử cung và xâm lấn vào các cấu trúc ngoài tử cung.                     |
 
 _Phân loại theo FIGO 2019._
 
@@ -65,9 +65,9 @@ _Phân loại theo FIGO 2019._
 
 ### Chuẩn bị mổ
 
-- Tư vấn nguy cơ (băng huyết, truyền máu, cắt tử cung, tổn thương tuyến niệu, tử vong mẹ…).
+- Tư vấn nguy cơ (băng huyết, truyền máu, cắt tử cung, tổn thương tuyến niệu, tử vong mẹ...).
 - Điều chỉnh Hb > 11 g/dL, bổ sung sắt/nước tiểu tươi.
-- Phối hợp đa chuyên khoa (gây mê, huyết học, ngoại, chẩn đoán hình ảnh…).
+- Phối hợp đa chuyên khoa (gây mê, huyết học, ngoại, chẩn đoán hình ảnh...).
 - Sẵn sàng ngân hàng máu, 2 đường truyền, Foley niệu đạo; đặt niệu quản ngăn ngừa tổn thương khi percreta độ 3.
 
 ### Nguyên tắc phẫu thuật

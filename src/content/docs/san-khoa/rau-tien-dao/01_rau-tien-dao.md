@@ -79,7 +79,7 @@ Quyết định dựa trên tuổi thai, tình trạng mẹ và mức độ ch�
 - Giữ sonde tiểu để theo dõi lượng nước tiểu ≥ 30 mL/h.
 - Giảm đau, ổn định huyết động.
 - Mổ lấy thai cấp cứu và cầm máu:
-  - Thuốc co hồi tử cung (oxytocin, carbetocin, ergotamine…).
+  - Thuốc co hồi tử cung (oxytocin, carbetocin, ergotamine...).
   - Thắt động mạch tử cung hoặc bóng chẹn nội mạch.
   - Cắt tử cung toàn phần nếu băng huyết không kiểm soát.
 - Gây tê vùng nếu dự kiến mổ nhanh, gây mê nội khí quản nếu phẫu thuật phức tạp (rau cài răng lược).

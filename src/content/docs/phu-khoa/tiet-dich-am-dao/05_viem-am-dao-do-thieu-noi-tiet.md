@@ -17,7 +17,7 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
    - Mạch máu niêm mạc giảm, dễ khô rát, tăng ma sát khi giao hợp.
 3. **Dễ nhiễm khuẩn hoặc nhiễm nấm phụ trợ**
    - Niêm mạc mỏng, kém đàn hồi, dễ bị tổn thương khi giao hợp hoặc thăm khám → xuất huyết, viêm.
-   - Điều kiện pH kiềm hơn làm vi khuẩn yếm khí, vi khuẩn không điển hình (Escherichia coli, Gardnerella, Staphylococcus…) hoặc nấm men (Candida sp.) dễ phát triển.
+   - Điều kiện pH kiềm hơn làm vi khuẩn yếm khí, vi khuẩn không điển hình (Escherichia coli, Gardnerella, Staphylococcus...) hoặc nấm men (Candida sp.) dễ phát triển.
 
 ## Lâm sàng
 

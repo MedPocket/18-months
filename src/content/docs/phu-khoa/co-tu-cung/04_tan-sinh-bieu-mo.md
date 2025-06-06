@@ -48,7 +48,7 @@ _Các trường hợp nhiễm HPV có thể thoái triển hoặc tiến triển
 ### Quá trình dị sản
 
 - **Chuyển sản lát**: Biểu mô trụ lộ tuyến (lộ tuyến) bị thay thế bởi biểu mô lát tầng không sừng hóa.
-- **Dị sản** (dysplasia): Khi tế bào chuyển sản bị tổn thương bởi HPV, hóa chất, tia xạ…, dẫn đến CIN.
+- **Dị sản** (dysplasia): Khi tế bào chuyển sản bị tổn thương bởi HPV, hóa chất, tia xạ..., dẫn đến CIN.
 - HPV thể hiện chức năng sinh ung qua hai protein E6 (bất hoạt p53, ngăn apoptosis) và E7 (bất hoạt pRb, kích hoạt E2F → tăng sinh không kiểm soát).
 
 Dị sản còn phụ thuộc vào đáp ứng miễn dịch: khoảng 80% có thể tự cải thiện, nhưng 10% tiến triển thành ung thư.

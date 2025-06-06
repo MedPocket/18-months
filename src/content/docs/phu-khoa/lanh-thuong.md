@@ -19,7 +19,7 @@ Khởi đầu ngay khi mô bị tổn thương, máu lấp đầy vết thương
 
 Các sản phẩm kinin và prostaglandin giãn mạch và tăng tính thấm thành mạch, gây sưng nề và đau. Trong 6 giờ đầu, bạch cầu đa nhân xuất hiện, đạt đỉnh 24–48 giờ rồi giảm nếu không có nhiễm trùng. Đại thực bào từ ngày 2–4 thay thế bạch cầu đa nhân và tồn tại cho đến khi vết thương lành. Lympho T tăng mạnh từ ngày 5–7 để hỗ trợ đại thực bào.
 
-Đại thực bào tiêu thụ vi khuẩn và mô tổn thương, đồng thời phóng thích TGF-α, bFGF, MDGF, IL-1, FAF, PDGF, TNF-α, IFN… để thu hút tế bào viêm và kích thích hình thành mô hạt. Nếu có nhiễm trùng, giai đoạn viêm kéo dài và làm chậm lành sẹo.
+Đại thực bào tiêu thụ vi khuẩn và mô tổn thương, đồng thời phóng thích TGF-α, bFGF, MDGF, IL-1, FAF, PDGF, TNF-α, IFN... để thu hút tế bào viêm và kích thích hình thành mô hạt. Nếu có nhiễm trùng, giai đoạn viêm kéo dài và làm chậm lành sẹo.
 
 ### Giai đoạn tiến triển (ngày 3–14)
 

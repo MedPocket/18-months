@@ -44,7 +44,7 @@ Hơn 200 type HPV đã được định danh, trong đó 85 type đã mô tả �
 - Đa số lành tính, có thể tự khỏi nếu miễn dịch tốt.
 - Nhiễm tồn tại (> 2 năm) tăng nguy cơ tái phát và sinh ung thư.
 - Biểu hiện: mụn cóc da, mụn cóc miệng (Heck’s), u nhú thanh quản.
-- Tại cổ tử cung: HPV type thấp gây mụn cóc sinh dục; type cao (16, 18, 31, 45…) liên quan đến tổn thương tiền ung thư và ung thư.
+- Tại cổ tử cung: HPV type thấp gây mụn cóc sinh dục; type cao (16, 18, 31, 45...) liên quan đến tổn thương tiền ung thư và ung thư.
 
 **Cơ chế sinh ung thư**:
 

@@ -63,7 +63,7 @@ Steroid sinh dục tác động lên tế bào đích theo hai đường qua gen
 ### Không qua gene
 
 - Gắn với **thụ thể màng** (GPCR như GPER cho estrogen, mAR cho androgen).
-- Kích hoạt second messenger (Ca²⁺, cAMP, PI3K/Akt, MAPK…)
+- Kích hoạt second messenger (Ca²⁺, cAMP, PI3K/Akt, MAPK...)
 - Khởi phát nhanh (giây–phút), không yêu cầu nồng độ quá thấp.
 
 :::caution[Lưu ý]
@@ -104,7 +104,7 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 
 | Thụ thể | Gene       | Isoform             | Chức năng                                                         |
 | ------- | ---------- | ------------------- | ----------------------------------------------------------------- |
-| **ER**  | ESR1, ESR2 | ER-α, ER-β          | Kích hoạt ERE → điều hòa gene phát triển nội mạc, vú, xương…      |
+| **ER**  | ESR1, ESR2 | ER-α, ER-β          | Kích hoạt ERE → điều hòa gene phát triển nội mạc, vú, xương...      |
 | **PR**  | PGR        | PR-A (ức chế), PR-B | PR-B hoạt hóa PRE; PR-A đối kháng PR-B, điều hòa ngược bộ máy PR. |
 | **AR**  | AR (X-chr) | 1 isoform chính     | Kích hoạt ARE → điều hòa biệt hóa cơ quan sinh dục nam, mô xương. |
 

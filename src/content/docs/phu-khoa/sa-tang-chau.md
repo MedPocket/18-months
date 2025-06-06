@@ -3,7 +3,7 @@ title: Sa các tạng chậu
 description: Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là tình trạng tụt xuống của tử cung, bàng quang, trực tràng hoặc thành âm đạo ra khỏi vị trí giải phẫu bình thường do tổn thương và suy yếu hệ cân – cơ – dây chằng nâng đỡ sàn chậu.
 ---
 
-Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là sự tụt xuống của tử cung, bàng quang, trực tràng, thành trước, thành sau âm đạo… ra khỏi vị trí giải phẫu bình thường, do tổn thương và suy yếu các cấu trúc cân – cơ – dây chằng nâng đỡ sàn chậu.
+Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là sự tụt xuống của tử cung, bàng quang, trực tràng, thành trước, thành sau âm đạo... ra khỏi vị trí giải phẫu bình thường, do tổn thương và suy yếu các cấu trúc cân – cơ – dây chằng nâng đỡ sàn chậu.
 
 **Hệ thống nâng đỡ các cơ quan tiểu khung**:
 
@@ -57,8 +57,8 @@ _Sơ đồ chẩn đoán sa tạng chậu._
 
 ### Xét nghiệm thường quy
 
-- Đánh giá và điều trị yếu tố nguy cơ: viêm âm đạo, nhiễm trùng tiểu, tiểu đường, thiếu máu…
-- Loại trừ bệnh lý phụ khoa kèm (rong huyết, u xơ tử cung, u nang buồng trứng…).
+- Đánh giá và điều trị yếu tố nguy cơ: viêm âm đạo, nhiễm trùng tiểu, tiểu đường, thiếu máu...
+- Loại trừ bệnh lý phụ khoa kèm (rong huyết, u xơ tử cung, u nang buồng trứng...).
 - Siêu âm bụng tổng quát khi cần phẫu thuật hoặc nghi bế tắc đường tiểu do khối sa.
 
 ### Bilan niệu động học
@@ -85,7 +85,7 @@ Dựa vào lâm sàng (POP-Q) và kết quả cận lâm sàng, ghi rõ:
 
 - Tạng sa, độ sa.
 - Rối loạn tiết niệu hoặc đi cầu kèm theo.
-- Tổn thương kèm: rách cơ thắt, táo bón…
+- Tổn thương kèm: rách cơ thắt, táo bón...
 
 Ví dụ: Sa tử cung độ III, sa bàng quang độ II, sa trực tràng độ II, tiểu không kiểm soát khi gắng sức, rách cơ thắt hậu môn diện rộng, táo bón.
 

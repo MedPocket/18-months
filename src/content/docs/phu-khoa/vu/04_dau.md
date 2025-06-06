@@ -205,7 +205,7 @@ Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 
 ### Ngoại khoa
 
 - Chỉ cân nhắc phẫu thuật khi điểm đau **cực kỳ khu trú**, xác định rõ vùng nhỏ trên lâm sàng và không đáp ứng với điều trị bảo tồn.
-- Việc cắt bỏ vùng đau (local excision) đôi khi giúp giảm đau đáng kể nếu nguồn đau đến từ một mô xơ hóa, u giả cân…
+- Việc cắt bỏ vùng đau (local excision) đôi khi giúp giảm đau đáng kể nếu nguồn đau đến từ một mô xơ hóa, u giả cân...
 - Với đau vú lan toả, **không khuyến cáo phẫu thuật cắt bỏ vú** (mastectomy), vì 50% trường hợp sau mổ vẫn còn đau hoặc tái phát.
 - Nếu bệnh nhân vẫn yêu cầu mastectomy hủy vú để tái tạo, cần đánh giá tâm lý kỹ, giải thích biến chứng tiềm ẩn và cơ hội thành công không cao.
 

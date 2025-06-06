@@ -39,7 +39,7 @@ _Các thuật ngữ liên quan đến xuất huyết tử cung bất thường t
 | **C**       | Coagulopathy             | Rối loạn đông máu (di truyền hoặc mắc phải)                                        |
 | **O**       | Ovulatory Dysfunction    | Rối loạn phóng noãn (ví dụ: PCOS, thiếu hụt nội tiết)                              |
 | **E**       | Endometrial              | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: bất thường mạch máu nội mạc)           |
-| **I**       | Iatrogenic               | Do thuốc hoặc các thủ thuật y tế (thiếu ốc chèn, dụng cụ tử cung, thuốc nội tiết…) |
+| **I**       | Iatrogenic               | Do thuốc hoặc các thủ thuật y tế (thiếu ốc chèn, dụng cụ tử cung, thuốc nội tiết...) |
 | **N**       | Not yet classified       | Nguyên nhân chưa rõ hoặc chưa phân loại được                                       |
 
 _Phân loại PALM-COEIN: chia thành các nguyên nhân gây AUB liên quan đến cấu trúc tử cung (PALM) và không liên quan cấu trúc (COEIN)._
@@ -62,7 +62,7 @@ _Phân loại PALM-COEIN: chia thành các nguyên nhân gây AUB liên quan đ�
 3. **Hỏi tiền sử bệnh lý hệ thống và nội tiết**
 
    - Bệnh lý đông máu (bản thân, gia đình), đái tháo đường, tăng huyết áp, rối loạn tuyến giáp, hội chứng buồng trứng đa nang (PCOS).
-   - Thuốc đang dùng: NSAID, kháng đông (warfarin, heparin…), corticosteroid, thuốc điều trị tuyến giáp, thuốc tránh thai, thuốc nội tiết thay thế, GnRH đồng vận, tamoxifen, SERM, SPRM.
+   - Thuốc đang dùng: NSAID, kháng đông (warfarin, heparin...), corticosteroid, thuốc điều trị tuyến giáp, thuốc tránh thai, thuốc nội tiết thay thế, GnRH đồng vận, tamoxifen, SERM, SPRM.
 
 4. **Khám lâm sàng**
    - **Tổng quát**: kiểm tra sinh hiệu, đánh giá mức độ thiếu máu (da niêm nhợt, mạch nhanh), dấu hiệu rối loạn đông (bầm tím, chảy máu chân răng).

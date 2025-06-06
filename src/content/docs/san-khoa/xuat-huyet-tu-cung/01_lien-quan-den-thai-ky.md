@@ -38,7 +38,7 @@ Các kiểu xuất huyết có thể nhẹ hoặc nặng, thỉnh thoảng hoặ
    - Là hiện tượng sinh lý nhưng có thể bị nhầm với sẩy thai.
 
 5. **Các nguyên nhân không do thai kỳ**
-   - Polyp tử cung, u xơ, viêm cổ tử cung, nhiễm trùng âm đạo…
+   - Polyp tử cung, u xơ, viêm cổ tử cung, nhiễm trùng âm đạo...
    - Thường chẩn đoán bằng khám phụ khoa kỹ và soi cổ tử cung.
 
 ### Trong 3 tháng giữa và 3 tháng cuối thai kỳ
@@ -69,12 +69,12 @@ Sau 13+6 tuần, các nguyên nhân chính gồm:
 ## Chẩn đoán
 
 - **Khám lâm sàng**: đánh giá huyết áp, mạch, tình trạng đau bụng, xét nghiệm thai và khám phụ khoa.
-- **Siêu âm đầu dò âm đạo**: xác định vị trí thai, tim thai, vị trí nhau, nhau bong, túi thai ngoài tử cung…
+- **Siêu âm đầu dò âm đạo**: xác định vị trí thai, tim thai, vị trí nhau, nhau bong, túi thai ngoài tử cung...
 - **Xét nghiệm máu**: HCG định lượng, công thức máu, nhóm máu – Rh.
 
 ## Điều trị
 
-- **Theo nguyên nhân**: nghỉ ngơi, kháng viêm, chống co bóp, khâu eo tử cung, can thiệp ngoại khoa (nạo, mổ)…
+- **Theo nguyên nhân**: nghỉ ngơi, kháng viêm, chống co bóp, khâu eo tử cung, can thiệp ngoại khoa (nạo, mổ)...
 - **Cấp cứu khi cần thiết**: truyền máu, hồi sức tích cực, mổ lấy thai khẩn cấp.
 
 ## Nguồn tham khảo

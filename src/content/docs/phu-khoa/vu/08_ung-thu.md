@@ -23,7 +23,7 @@ Các công cụ chính được sử dụng để tầm soát ung thư vú gồm
 
 2. **Cộng hưởng từ vú (Breast MRI)**
 
-   - Được chỉ định chủ yếu cho đối tượng có nguy cơ cao (như đột biến BRCA, tiền sử xạ trị ngực lúc trẻ…).
+   - Được chỉ định chủ yếu cho đối tượng có nguy cơ cao (như đột biến BRCA, tiền sử xạ trị ngực lúc trẻ...).
    - Độ nhạy rất cao (khoảng 98%), tuy nhiên độ đặc hiệu (specificity) thấp hơn (khoảng 75%) so với nhũ ảnh.
    - Không thay thế nhũ ảnh mà thường được phối hợp song song ở nhóm nguy cơ cao.
 
@@ -132,7 +132,7 @@ Theo khuyến cáo của ACOG (2017):
 
   | BIRADS | Kết quả                                               | Hướng xử trí                                              |
   | ------ | ----------------------------------------------------- | --------------------------------------------------------- |
-  | **0**  | Không đầy đủ                                          | Cần thêm hình ảnh (spot compression, phóng đại, siêu âm…) |
+  | **0**  | Không đầy đủ                                          | Cần thêm hình ảnh (spot compression, phóng đại, siêu âm...) |
   | **1**  | Âm tính                                               | Tiếp tục nhũ ảnh tầm soát định kỳ                         |
   | **2**  | Lành tính (u nang lành, hạch lành, vôi hóa lành tính) | Tiếp tục nhũ ảnh tầm soát định kỳ                         |
   | **3**  | Có khả năng lành tính (> 98% là tổn thương lành tính) | Theo dõi nhũ ảnh mỗi 6 tháng trong 2 năm                  |
@@ -147,7 +147,7 @@ Theo khuyến cáo của ACOG (2017):
 #### MRI
 
 - **Chỉ định**:
-  - Phụ nữ có nguy cơ cao (đột biến BRCA1/BRCA2, tiền sử xạ trị ngực lúc 10–30 tuổi, tiền sử gia đình có nhiều người bị ung thư vú/nhũ…).
+  - Phụ nữ có nguy cơ cao (đột biến BRCA1/BRCA2, tiền sử xạ trị ngực lúc 10–30 tuổi, tiền sử gia đình có nhiều người bị ung thư vú/nhũ...).
   - Đánh giá tổng thể vú khi nghi ngờ nhiều ổ bệnh.
   - Hỗ trợ lên kế hoạch phẫu thuật cho ung thư vú giai đoạn sớm hoặc khả năng có ung thư nhiều ổ.
 - **Ưu điểm**:
@@ -168,7 +168,7 @@ Theo khuyến cáo của ACOG (2017):
   - Dùng kim lõi trung bình (14–18G) dưới hướng dẫn của hình ảnh (nhũ ảnh đối với vôi hóa, siêu âm đối với khối u sờ thấy hoặc không sờ thấy).
   - Có thể đánh dấu vị trí bằng kim titanium để hỗ trợ phẫu thuật định vị sau này.
 - **Ưu điểm so với FNA**:
-  - Lấy được nhiều mô, cho kết quả tin cậy hơn trong phân loại tổn thương (xác định độ biệt hóa, đánh giá biểu hiện kháng nguyên…).
+  - Lấy được nhiều mô, cho kết quả tin cậy hơn trong phân loại tổn thương (xác định độ biệt hóa, đánh giá biểu hiện kháng nguyên...).
 
 #### Chọc hút kim nhỏ (Fine-Needle Aspiration, FNA)
 

@@ -216,7 +216,7 @@ Sinh thiết mở là phẫu thuật cắt bỏ hoàn toàn hoặc cắt mẫu t
 
 ## GENE BRCA
 
-BRCA1 và BRCA2 (Breast Cancer genes 1 & 2) là các gene ức chế u (tumor suppressor genes) có vai trò sửa chữa DNA đứt gãy sợi kép. Đột biến (mutation) ở các gene này làm mất chức năng sửa chữa DNA, dẫn đến tăng nguy cơ ung thư vú, buồng trứng…
+BRCA1 và BRCA2 (Breast Cancer genes 1 & 2) là các gene ức chế u (tumor suppressor genes) có vai trò sửa chữa DNA đứt gãy sợi kép. Đột biến (mutation) ở các gene này làm mất chức năng sửa chữa DNA, dẫn đến tăng nguy cơ ung thư vú, buồng trứng...
 
 - **Protein BRCA1/BRCA2**: Tham gia con đường sửa chữa homologous recombination – quan trọng để bảo vệ tính toàn vẹn của bộ gen.
 

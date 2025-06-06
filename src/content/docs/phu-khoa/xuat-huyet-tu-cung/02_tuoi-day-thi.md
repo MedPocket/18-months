@@ -14,7 +14,7 @@ Hệ trục hạ đồi–tuyến yên–buồng trứng (HPG axis) ở tuổi d
 2. **Khởi phát dậy thì**:
 
    - Xung GnRH xuất hiện đầu tiên với tần số thưa thớt, chỉ đủ kích thích tuyến yên tiết FSH.
-   - Dưới tác dụng FSH, các nang noãn được chiêu mộ bắt đầu phát triển, sản xuất estradiol, gây xuất hiện đặc điểm sinh dục thứ phát (tuyến vú, lông mu, tăng tích mỡ ở hông–đùi…).
+   - Dưới tác dụng FSH, các nang noãn được chiêu mộ bắt đầu phát triển, sản xuất estradiol, gây xuất hiện đặc điểm sinh dục thứ phát (tuyến vú, lông mu, tăng tích mỡ ở hông–đùi...).
    - Estrogen cũng thúc đẩy cốt hóa các đầu xương dài.
 
 3. **Giai đoạn giữa dậy thì**:
@@ -42,10 +42,10 @@ Hệ trục hạ đồi–tuyến yên–buồng trứng (HPG axis) ở tuổi d
 
   - Chu kỳ không đều (có thể dài hoặc ngắn bất thường).
   - Lượng máu không ổn định (từ nhẹ đến rất nhiều).
-  - Tính chất máu thay đổi (máu tươi, cục máu đông…).
+  - Tính chất máu thay đổi (máu tươi, cục máu đông...).
 
 - **Hầu hết trường hợp** sẽ tự ổn định khi trục HPG dần hoàn thiện, kinh nguyệt trở nên đều đặn.
-- **Một số trường hợp** xuất huyết kéo dài, nhiều lần tái phát hoặc biểu hiện nặng, có thể là dấu hiệu kèm theo một số bệnh lý nội khoa (rối loạn đông máu, rối loạn tuyến giáp, hội chứng buồng trứng đa nang…) hoặc bệnh lý sinh dục thực thể. Cần thận trọng để không bỏ sót các nguyên nhân nghiêm trọng.
+- **Một số trường hợp** xuất huyết kéo dài, nhiều lần tái phát hoặc biểu hiện nặng, có thể là dấu hiệu kèm theo một số bệnh lý nội khoa (rối loạn đông máu, rối loạn tuyến giáp, hội chứng buồng trứng đa nang...) hoặc bệnh lý sinh dục thực thể. Cần thận trọng để không bỏ sót các nguyên nhân nghiêm trọng.
 
 ## Chiến lược tiếp cận
 
@@ -56,16 +56,16 @@ Chẩn đoán XHTC cơ năng tuổi dậy thì là chẩn đoán loại trừ. K
 1. **Nguyên nhân ngoài sinh dục (bệnh toàn thân)**
 
    - **Rối loạn đông cầm máu**:
-     - Bất thường con đường đông máu nội sinh (hemophilia, thiếu yếu tố đông máu…) hoặc ngoại sinh.
+     - Bất thường con đường đông máu nội sinh (hemophilia, thiếu yếu tố đông máu...) hoặc ngoại sinh.
      - Bệnh di truyền về đông máu (cần hỏi kỹ tiền sử gia đình và bản thân).
    - **Bệnh lý trên dòng tiểu cầu** (giảm tiểu cầu, tăng tiểu cầu, rối loạn chức năng tiểu cầu).
    - **Bệnh nội tiết**:
      - **Tuyến giáp**: Cường hoặc suy giáp đều ảnh hưởng đến hoạt động trục HPG.
      - **Tuyến thượng thận**: Rối loạn cortisol, androgen (CAH, u thượng thận) → rối loạn phóng noãn.
    - **Rối loạn mạn tính khác**:
-     - Đái tháo đường, bệnh thận mạn, bệnh gan mạn… có thể ảnh hưởng gián tiếp đến phóng noãn.
+     - Đái tháo đường, bệnh thận mạn, bệnh gan mạn... có thể ảnh hưởng gián tiếp đến phóng noãn.
    - **Thuốc và chất gây ảnh hưởng**:
-     - Corticosteroid, thuốc hướng thần kinh, thuốc kháng đông, thuốc NSAIDs kéo dài…
+     - Corticosteroid, thuốc hướng thần kinh, thuốc kháng đông, thuốc NSAIDs kéo dài...
      - Các thuốc làm tăng prolactin (antipsychotics, antiemetics, PPI) → gây ức chế trục HPG.
 
 2. **Nguyên nhân tại sinh dục (thực thể)**
@@ -74,7 +74,7 @@ Chẩn đoán XHTC cơ năng tuổi dậy thì là chẩn đoán loại trừ. K
      - Viêm nhiễm âm đạo, cổ tử cung liên quan hoặc không liên quan đến tình dục (vi khuẩn, virus, nấm).
    - **Tổn thương u buồng trứng**:
      - U tế bào vỏ-hạt (Granulosa–Theca cell tumor): sản xuất estrogen cục bộ → tăng sinh nội mạc.
-     - U tế bào mầm, u nang buồng trứng, nang hoàng thể bất thường…
+     - U tế bào mầm, u nang buồng trứng, nang hoàng thể bất thường...
    - **Bệnh lý tử cung**:
      - Polyp nội mạc, dính buồng tử cung, Dị dạng bẩm sinh tử cung (hiếm gặp ở tuổi dậy thì).
    - **Nội tiết sinh dục ngoại lai**:
@@ -99,11 +99,11 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
    - **Hoạt động tình dục**:
      - Kể cả thủ dâm, đánh giá nguy cơ STD, khả năng có thai.
    - **Thuốc sử dụng**:
-     - Thuốc tránh thai khẩn cấp, progestin, corticosteroid, kháng đông, NSAIDs lâu ngày, thuốc hướng thần kinh…
+     - Thuốc tránh thai khẩn cấp, progestin, corticosteroid, kháng đông, NSAIDs lâu ngày, thuốc hướng thần kinh...
    - **Tiền sử bệnh lý toàn thân**:
-     - Bệnh đông máu, đái tháo đường, bệnh tuyến giáp, bệnh gan thận, bệnh tự miễn, rối loạn tuyến thượng thận…
+     - Bệnh đông máu, đái tháo đường, bệnh tuyến giáp, bệnh gan thận, bệnh tự miễn, rối loạn tuyến thượng thận...
    - **Tiền sử gia đình**:
-     - Bệnh lý đông máu, rối loạn kinh nguyệt, u buồng trứng estrogen-ức chế, bệnh lý tuyến giáp…
+     - Bệnh lý đông máu, rối loạn kinh nguyệt, u buồng trứng estrogen-ức chế, bệnh lý tuyến giáp...
 
 2. **Khám lâm sàng**
 
@@ -112,7 +112,7 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
      - Dấu hiệu rối loạn đông máu: bầm tím, chảy máu chân răng, chảy máu mũi v.v.
    - **Dấu hiệu rối loạn nội tiết**:
      - **Cường androgen**: acanthosis nigricans, rậm lông (hirsutism), mụn trứng cá.
-     - **Tuyến giáp**: bướu cổ, dấu hiệu cường hoặc suy giáp (run, thay đổi cân nặng, tóc khô giòn…).
+     - **Tuyến giáp**: bướu cổ, dấu hiệu cường hoặc suy giáp (run, thay đổi cân nặng, tóc khô giòn...).
      - **Thượng thận**: teo cơ, xanh xao, vết rạn da, tăng huyết áp gợi ý Cushing.
    - **Chỉ số BMI**:
      - Thừa cân/ béo phì → nguy cơ PCOS, kháng insulin, rối loạn phóng noãn.
@@ -142,7 +142,7 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
      - **MRI tuyến yên** nếu Prolactin tăng cao nghiêm trọng (> 100 ng/mL) hoặc có triệu chứng u tuyến yên (nhức đầu, rối loạn thị giác).
 
 4. **Đánh giá kết quả và chẩn đoán phân biệt**
-   - Sau khi có kết quả cận lâm sàng, loại trừ các nguyên nhân bệnh lý gây XHTC (tổn thương thực thể, rối loạn đông máu, bệnh nội tiết, có thai…).
+   - Sau khi có kết quả cận lâm sàng, loại trừ các nguyên nhân bệnh lý gây XHTC (tổn thương thực thể, rối loạn đông máu, bệnh nội tiết, có thai...).
    - Nếu không phát hiện nguyên nhân thực thể hay toàn thân, kết hợp lâm sàng cho thấy chu kỳ không phóng noãn kéo dài, chẩn đoán XHTC cơ năng tuổi dậy thì.
 
 ## Điều trị
@@ -222,7 +222,7 @@ Chỉ định khi chảy máu nặng, mất máu nhiều, hoặc nội mạc bon
 4. **Theo dõi**:
    - Bé gái cần uống đều đặn, ghi lại ngày bắt đầu và kết thúc chảy máu.
    - Sau khi hoàn thành liệu trình, nếu hết chảy máu thì chuyển sang theo dõi chu kỳ tự nhiên.
-   - Nếu vẫn ra máu nhiều, cân nhắc đánh giá lại nguyên nhân (có thể kèm theo u thực thể, rối loạn đông nặng…).
+   - Nếu vẫn ra máu nhiều, cân nhắc đánh giá lại nguyên nhân (có thể kèm theo u thực thể, rối loạn đông nặng...).
 
 :::caution[Lưu ý]
 COC giúp cầm máu khá hiệu quả, nhưng có thể ức chế hạ đồi mạnh, nên chỉ sử dụng ngắn hạn. Dùng dài hạn có thể ảnh hưởng lâu dài đến hoạt động trục HPG.  
@@ -260,7 +260,7 @@ _Ghi chú: (+) có tác dụng; (±) tác dụng yếu, (-) không có tác dụ
 _Tóm lược hoạt tính của các progestin. Các progestin dẫn xuất 19-nor testosterone có kháng estrogen mạnh nhưng ảnh hưởng hạ đồi cao, nhóm retroprogesterone ít ức chế trục nhất._
 
 - **Nếu sau 2–3 năm** kinh nguyệt vẫn không đều, xuất huyết tái phát nhiều lần:
-  - Cần đánh giá lại toàn diện, tìm nguyên nhân rối loạn phóng noãn vĩnh viễn (PCOS, rối loạn tuyến giáp, rối loạn cushing, nguyên nhân di truyền…).
+  - Cần đánh giá lại toàn diện, tìm nguyên nhân rối loạn phóng noãn vĩnh viễn (PCOS, rối loạn tuyến giáp, rối loạn cushing, nguyên nhân di truyền...).
   - Có thể cần hội chẩn nội tiết, sản khoa – nhi khoa để tiếp tục điều trị chuyên sâu.
 
 ## Nguồn tham khảo

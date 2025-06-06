@@ -9,8 +9,8 @@ Thiểu ối là tình trạng dịch ối ít hơn so với tuổi thai tương
 
 ### Từ phía mẹ
 
-- Bệnh lý nội khoa ảnh hưởng tuần hoàn như động kinh, tăng huyết áp mạn, bệnh lý collagen, bệnh lý thận, rối loạn đông máu…
-- Thuốc như ức chế men chuyển, ức chế tổng hợp prostaglandin, trastuzumab…
+- Bệnh lý nội khoa ảnh hưởng tuần hoàn như động kinh, tăng huyết áp mạn, bệnh lý collagen, bệnh lý thận, rối loạn đông máu...
+- Thuốc như ức chế men chuyển, ức chế tổng hợp prostaglandin, trastuzumab...
 
 ### Từ phía thai
 
@@ -58,7 +58,7 @@ Chủ yếu dựa vào siêu âm:
 - Tư vấn tình trạng thai.
 - Truyền ối khi có chỉ định:
   - Tuổi thai > 16 tuần.
-  - Lấy ối làm xét nghiệm nhiễm sắc thể, TORCH…
+  - Lấy ối làm xét nghiệm nhiễm sắc thể, TORCH...
   - Hỗ trợ siêu âm tầm soát hình thái học thai nhi.
 
 ### 3 tháng cuối

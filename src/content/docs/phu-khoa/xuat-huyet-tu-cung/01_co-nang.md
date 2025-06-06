@@ -14,11 +14,11 @@ Xuất huyết tử cung chức năng thường xảy ra khi nội mạc tử cu
 
 ## Nguyên nhân
 
-### Tuổi dậy thì ( 20%)
+### Tuổi dậy thì (20%)
 
 Trong vòng 18 tháng đầu sau khi hành kinh, trục hạ đồi - tuyến yên - buồng trứng chưa trưởng thành hoàn toàn nên có thể không đáp ứng đầy đủ với estrogen và progesterone, dẫn đến tình trạng không phóng noãn và xuất huyết tử cung chức năng.
 
-### Tuổi tiền mãn kinh ( 50%)
+### Tuổi tiền mãn kinh (50%)
 
 Ở phụ nữ tuổi 40–50, số lượng và chất lượng nang noãn đều giảm. Các nang noãn phát triển nhưng không tạo đỉnh LH để gây phóng noãn, do nồng độ gonadotropin cơ bản tăng cao (giảm Inhibin B). Nang noãn tiếp tục sản xuất lượng nhỏ estrogen kéo dài, không có progesterone đối kháng, gây tăng sinh nội mạc tử cung và xuất huyết tử cung chức năng.
 
@@ -26,13 +26,13 @@ Trong vòng 18 tháng đầu sau khi hành kinh, trục hạ đồi - tuyến y�
 
 Ở phụ nữ béo phì, estrone (một dạng estrogen) có thể được tổng hợp từ androgen tại mô mỡ ngoại vi thông qua enzym aromatase. Lượng estrone này không có đối kháng của progesterone, dẫn đến nội mạc tử cung bị kích thích kéo dài, gây xuất huyết tử cung chức năng.
 
-### Thiếu hụt giai đoạn hoàng thể
+### Thiếu hụt hormone hoàng thể
 
 Tình trạng này xảy ra khi buồng trứng có phóng noãn nhưng hoàng thể không sản xuất đủ progesterone, hoặc đáp ứng nội mạc tử cung với progesterone không đầy đủ. Điều này làm rối loạn chu kỳ nội mạc tương tự như không phóng noãn.
 
 ### Rối loạn nội tiết thường gặp
 
-- **Tăng prolactin máu**: Ức chế hoạt động trục hạ đồi - tuyến yên - buồng trứng, gây rối loạn phóng noãn. Nguyên nhân có thể do u tuyến yên (microadenoma), thuốc hướng thần kinh, thuốc kháng histamin, thuốc kháng bơm proton, thuốc chống nôn, thuốc điều trị trầm cảm...
+- **Tăng prolactin máu**: Ức chế hoạt động trục hạ đồi - tuyến yên - buồng trứng, gây rối loạn phóng noãn. Nguyên nhân có thể do u tuyến yên (microadenoma), thuốc hướng thần kinh, thuốc kháng histamin, thuốc kháng bơm proton, thuốc chống nôn, thuốc điều trị trầm cảm
 
 - **Hội chứng buồng trứng đa nang (PCOS)**: Do rối loạn phát triển nang noãn, không hình thành nang trội, dẫn đến không phóng noãn. Đây là nguyên nhân phổ biến gây xuất huyết tử cung chức năng.
 
@@ -47,7 +47,7 @@ Tình trạng này xảy ra khi buồng trứng có phóng noãn nhưng hoàng t
 ### Hỏi bệnh sử kỹ lưỡng giúp định hướng chẩn đoán
 
 - Tuổi, lần cuối có kinh, số ngày và lượng máu ra, chảy máu sau giao hợp.
-- Các loại thuốc đã và đang sử dụng (nội tiết, NSAIDs, thuốc chống đông, thuốc hướng thần…).
+- Các loại thuốc đã và đang sử dụng (nội tiết, NSAIDs, thuốc chống đông, thuốc hướng thần...).
 - Tiền sử nội tiết, dấu hiệu có thai, tiền sử dùng biện pháp tránh thai, chấn thương sinh dục.
 
 ### Khám lâm sàng
@@ -78,7 +78,7 @@ _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huy�
 **Siêu âm đầu dò âm đạo** là lựa chọn đầu tay. Có thể thực hiện siêu âm quy ước để khảo sát độ dày nội mạc tử cung, phản âm, bất thường trong buồng tử cung.
 
 :::caution[Lưu ý]
-Siêu âm có thể giúp định hướng nguyên nhân như u xơ tử cung, buồng trứng đa nang… Siêu âm bơm nước buồng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương nội mạc tử cung (polyp, dính buồng tử cung…).
+Siêu âm có thể giúp định hướng nguyên nhân như u xơ tử cung, buồng trứng đa nang... Siêu âm bơm nước buồng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương nội mạc tử cung (polyp, dính buồng tử cung...).
 :::
 
 **Sinh thiết nội mạc tử cung** là test chẩn đoán xác định, thường được chỉ định khi:

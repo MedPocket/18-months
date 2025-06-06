@@ -96,7 +96,7 @@ Rách nhỏ (<2 cm) thường tự lành; rách lớn phải khâu, ưu tiên kh
 
 1. Ấn đáy tử cung giữ cố định.
 2. Người thứ hai đặt valve mở âm đạo.
-3. Dùng kìm tim kẹp lần lượt ở các "giờ" trên vòng cổ tử cung (12 giờ, 2 giờ, 4 giờ… 10 giờ), kiểm tra khoảng giữa mỗi lần kẹp: Rách, chảy máu, phù nền.
+3. Dùng kìm tim kẹp lần lượt ở các "giờ" trên vòng cổ tử cung (12 giờ, 2 giờ, 4 giờ... 10 giờ), kiểm tra khoảng giữa mỗi lần kẹp: Rách, chảy máu, phù nền.
 4. Lần mò quanh toàn bộ cổ tử cung theo kim đồng hồ.
 5. Lưu ý rách thường ở 3 giờ hoặc 9 giờ, có thể lan vào đoạn dưới.
 

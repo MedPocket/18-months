@@ -134,7 +134,7 @@ Mục tiêu điều trị là khôi phục cân bằng hệ vi sinh, giảm tri�
 2. **BV không triệu chứng nhưng thuộc nhóm nguy cơ cao**:
 
    - **Phụ nữ mang thai có nguy cơ cao sinh non** (ví dụ: tiền sử sinh non, viêm màng ối)
-   - **Chuẩn bị phẫu thuật sản phụ khoa hoặc can thiệp âm đạo** (cắt tử cung, đặt dụng cụ tử cung…)  
+   - **Chuẩn bị phẫu thuật sản phụ khoa hoặc can thiệp âm đạo** (cắt tử cung, đặt dụng cụ tử cung...)  
      Trong các trường hợp này, điều trị dự phòng có thể giảm tỷ lệ biến chứng viêm hậu phẫu và sinh non.
 
 3. **BV tái phát nhiều lần**:

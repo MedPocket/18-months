@@ -8,7 +8,7 @@ description: Ý nghĩa, cách thực hiện và quản lý khi đếm cử độ
 ## Giá trị
 
 - Tình trạng tưới máu bánh rau bị giảm sút và thai nhi bị toan hóa máu thì cử động thai cũng giảm. Đây là cơ sở cho việc thực hiện đếm cử động thai (fetal movement count).
-- **Thai kỳ có nguy cơ (high risk pregnancies)** thì sự kiện cử động thai giảm có liên quan với việc tăng tỷ lệ các thai kỳ với kết cục xấu như tử vong thai, thai chậm tăng trưởng, điểm số Apgar thấp, cần mổ lấy thai cấp cứu…
+- **Thai kỳ có nguy cơ (high risk pregnancies)** thì sự kiện cử động thai giảm có liên quan với việc tăng tỷ lệ các thai kỳ với kết cục xấu như tử vong thai, thai chậm tăng trưởng, điểm số Apgar thấp, cần mổ lấy thai cấp cứu...
 - **Thai phụ có nguy cơ thấp** thì việc đếm cử động thai cũng giúp làm giảm tỷ lệ tử vong thai so với nhóm chứng, mặc dù sự khác biệt này không có ý nghĩa thống kê.
 
 ## Đặc điểm
@@ -46,7 +46,7 @@ Nên thông tin cho thai phụ biết rằng ở những trường hợp dương
 
 - Non-stress test (NST) và siêu âm là 2 test đầu tay khi ghi nhận có giảm cử động thai.
 - Các test hỗ trợ nên được thực hiện càng sớm càng tốt (trong vòng 1–12 giờ sau khi phát hiện giảm cử động thai) theo sau bất thường của đếm cử động thai.
-- Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lượng nước ối, đánh giá sinh trắc thai…
+- Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lượng nước ối, đánh giá sinh trắc thai...
 - **Non-stress test (NST)**:
   - Nếu NST bình thường và thai kỳ không có yếu tố nguy cơ, thai phụ sẽ được hướng dẫn tiếp tục đếm cử động thai mỗi ngày.
   - Nếu NST bình thường nhưng thai kỳ có nguy cơ, nên thực hiện thêm test hỗ trợ khác trong vòng 24 giờ.

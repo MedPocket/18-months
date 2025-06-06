@@ -38,7 +38,7 @@ Stress có liên quan đến RPL nhưng không được xác định là nguyên
 ### Khảo sát vật chất di truyền
 
 - **Bất thường di truyền phôi** chiếm 86–91% RPL. Khuyến cáo **xét nghiệm array-CGH cho mô thai tống xuất** để xác định nguyên nhân, hạn chế nhiễm chéo từ mẹ.
-- **Bất thường nhiễm sắc thể ở bố mẹ** (chuyển đoạn, đảo đoạn…) chiếm 1.9–3.5% RPL; chỉ làm karyotype khi có yếu tố nguy cơ gia đình.
+- **Bất thường nhiễm sắc thể ở bố mẹ** (chuyển đoạn, đảo đoạn...) chiếm 1.9–3.5% RPL; chỉ làm karyotype khi có yếu tố nguy cơ gia đình.
 - **Tầm soát tiền làm tổ (PGT)** phát hiện lệch bội và bất thường DNA ti thể/phôi.
 
 ### Khảo sát tăng đông
@@ -64,7 +64,7 @@ Stress có liên quan đến RPL nhưng không được xác định là nguyên
 | **U xơ tử cung**                                    | Nội soi buồng tử cung cắt u xơ dưới niêm mạc hoặc phẫu thuật tối thiểu trên u xơ có biến dạng lòng tử cung |
 | **Polyp nội mạc tử cung**                           | Nội soi buồng tử cung cắt polyp                                                                            |
 | **Dính buồng tử cung**                              | Nội soi cắt dính và phòng ngừa dính tái phát                                                               |
-| **Các dị dạng khác (tử cung đôi, tử cung 2 sừng…)** | Không khuyến cáo can thiệp do thiếu chứng cứ lợi ích                                                       |
+| **Các dị dạng khác (tử cung đôi, tử cung 2 sừng...)** | Không khuyến cáo can thiệp do thiếu chứng cứ lợi ích                                                       |
 
 _Bất thường giải phẫu tử cung._
 

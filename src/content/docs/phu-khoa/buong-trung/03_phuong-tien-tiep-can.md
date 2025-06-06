@@ -42,7 +42,7 @@ Siêu âm qua âm đạo (NPV 91–100%, PPV 35–75%) giúp loại trừ hầu 
 
 Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 
-- **O-RADS 0**: Khó đánh giá (hơi ruột, sang thương lớn, vị trí khó…).
+- **O-RADS 0**: Khó đánh giá (hơi ruột, sang thương lớn, vị trí khó...).
 - **O-RADS 1**: Sang thương sinh lý (nang noãn, nang hoàng thể).  
   ![O-RADS 1](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-1.png)
   _O-RADS 1._
@@ -136,7 +136,7 @@ _Phác đồ xử trí và phân loại O-RADS._
 ### CA125
 
 - Là glycoprotein (MUC16) do thượng mô phúc mạc và mô Müllerian tiết.
-- Tăng trong: ung thư buồng trứng, vú, phổi, tụy, đại tràng… và nhiều tình trạng lành: thai kỳ, lạc nội mạc tử cung, hành kinh, tràn dịch màng bụng/ phổi (lao, suy tim…).
+- Tăng trong: ung thư buồng trứng, vú, phổi, tụy, đại tràng... và nhiều tình trạng lành: thai kỳ, lạc nội mạc tử cung, hành kinh, tràn dịch màng bụng/ phổi (lao, suy tim...).
 - Giá trị ngưỡng chung: 35 IU/mL; sau mãn kinh hoặc đã cắt TC + 2 buồng trứng nên dùng ngưỡng 20–26 IU/mL.
 - Trong u biểu mô buồng trứng: CA125 tăng chủ yếu ở u thanh dịch, ít ở u nhầy, tế bào sáng hoặc giáp biên.
 - **Không dùng để sàng lọc u sớm** (độ nhạy 10–50%, độ đặc hiệu 30%).
@@ -165,7 +165,7 @@ ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
 ### AFP
 
 - AFP < 5.4 ng/mL bình thường.
-- Tăng ở u tế bào mầm, carcinoma tế bào gan, ung thư dạ dày, đường mật, tụy…
+- Tăng ở u tế bào mầm, carcinoma tế bào gan, ung thư dạ dày, đường mật, tụy...
 
 ### hCG
 
@@ -174,7 +174,7 @@ ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
 
 ### Các dấu ấn khác
 
-- **LDH**, **steroid** (testosterone, androstenedione…) được thực hiện chọn lọc.
+- **LDH**, **steroid** (testosterone, androstenedione...) được thực hiện chọn lọc.
 
 ## Khảo sát đột biến gene
 

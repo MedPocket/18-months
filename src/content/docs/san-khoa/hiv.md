@@ -22,8 +22,8 @@ HIV (Human Immunodeficiency Virus) là bệnh lây truyền chủ yếu qua đư
 | Phân loại | Triệu chứng chính                                                                                                   | CD4 > 500 | CD4 200–499 | CD4 < 200 |
 | --------- | ------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --------- |
 | **A**     | Không triệu chứng hoặc chỉ hạch to toàn thân kéo dài                                                                | A1        | A2          | A3        |
-| **B**     | Biểu hiện liên quan HIV nhưng không AIDS định nghĩa (zona tái phát, viêm âm đạo dai dẳng, tăng sản bạch cầu miệng…) | B1        | B2          | B3        |
-| **C**     | Bệnh xác định AIDS (Pneumocystis jirovecii, lao, toxoplasma não, Kaposi…)                                           | C1        | C2          | C3        |
+| **B**     | Biểu hiện liên quan HIV nhưng không AIDS định nghĩa (zona tái phát, viêm âm đạo dai dẳng, tăng sản bạch cầu miệng...) | B1        | B2          | B3        |
+| **C**     | Bệnh xác định AIDS (Pneumocystis jirovecii, lao, toxoplasma não, Kaposi...)                                           | C1        | C2          | C3        |
 
 _Phân loại lâm sàng theo CDC._
 
@@ -121,7 +121,7 @@ _Phân loại lâm sàng theo CDC._
 
 _Thời gian phát hiện HIV qua xét nghiệm._
 
-- **Triệu chứng sớm (nếu có)**: **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng…).
+- **Triệu chứng sớm (nếu có)**: **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng...).
 - **Thời gian "cửa sổ" (window period)**: khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm:
 
 Kết quả được coi là đáng tin cậy nếu:

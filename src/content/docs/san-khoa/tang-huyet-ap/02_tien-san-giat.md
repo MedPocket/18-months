@@ -40,7 +40,7 @@ Theo ACOG Task Force 2013
 
 ## Tiên lượng
 
-- **Trước 34 tuần**: tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật…
+- **Trước 34 tuần**: tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật...
 
 ## Biến chứng
 
@@ -92,7 +92,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 - HELLP.
 - NST không đáp ứng.
 - Thai lưu.
-- Suy thận, giảm tiểu cầu, rau bong non…
+- Suy thận, giảm tiểu cầu, rau bong non...
 
 Có thể trì hoãn nếu thai < 34 tuần và mẹ - thai ổn định để sử dụng corticosteroids.
 

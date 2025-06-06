@@ -140,7 +140,7 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 - Có thai trong tử cung đồng thời.
 - Cho con bú.
 - Dị ứng MTX.
-- Bệnh lý nội khoa nặng: suy gan, suy thận, viêm loét dạ dày, suy tủy, suy giảm miễn dịch…
+- Bệnh lý nội khoa nặng: suy gan, suy thận, viêm loét dạ dày, suy tủy, suy giảm miễn dịch...
 - Không thể theo dõi hoặc từ chối điều trị.
 
 ### Xét nghiệm tiền hóa trị
