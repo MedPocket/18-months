@@ -55,7 +55,6 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 
 ## Đặc điểm
 
-
 ### Với mẹ
 
 - Vỡ hồng cầu → ứ sắt, gan lách to.
@@ -76,10 +75,10 @@ _Thai phù trong hội chứng Hb Bart’s._
 
 - Huyết đồ: Hb < 11 g/dL; MCV < 80 fL; MCH < 27 pg.
 - Định lượng ferritin: bình thường hoặc tăng → chuyển sang điện di Hb.
-- Điện di Hb: xác định tỉ lệ HbA2, HbF để phân loại.  
-  
-  ![Kết quả điện di Hb ở người trưởng thành](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)  
-  
+- Điện di Hb: xác định tỉ lệ HbA2, HbF để phân loại.
+
+  ![Kết quả điện di Hb ở người trưởng thành](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
+
   _Kết quả điện di Hb ở người trưởng thành._
 
 - Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.

@@ -16,6 +16,7 @@ Suy giáp trong thai kỳ là tình trạng tuyến giáp hoạt động kém, s
 Tăng TSH, giảm FT₄, có thể giảm FT₃.
 
 ## Điều trị
+
 - **Levothyroxine**, chỉnh liều dựa trên TSH (mỗi 4 tuần).
 - Mục tiêu giữ TSH trong ngưỡng thấp bình thường theo từng tam cá nguyệt.
 
