@@ -1,13 +1,13 @@
 ---
 title: HIV và thai kỳ
-description: HIV (Human Immunodeficiency Virus) là virus gây suy giảm miễn dịch, có thể lây truyền từ mẹ sang con qua nhau thai, khi sinh hoặc cho con bú. Sàng lọc và điều trị ARV sớm trong thai kỳ giúp giảm nguy cơ lây truyền xuống dưới 1%, duy trì sức khỏe mẹ và phòng ngừa nhiễm trùng cơ hội.
+description: HIV (Human Immunodeficiency Virus) là virus gây suy giảm miễn dịch, có thể lây truyền từ mẹ sang con qua nhau thai, khi sinh hoặc cho con bú.
 ---
 
 HIV (Human Immunodeficiency Virus) là bệnh lây truyền chủ yếu qua đường tình dục, có thể truyền từ mẹ sang con trong quá trình mang thai, sinh nở hoặc cho con bú. Việc sàng lọc và điều trị ARV sớm trong thai kỳ rất quan trọng để giảm thiểu nguy cơ lây truyền virus cho thai nhi và duy trì sức khỏe của người mẹ.
 
 ## Chẩn đoán
 
-### Xét nghiệm sàng lọc và xác định
+### Xét nghiệm
 
 - Xét nghiệm HIV nên thực hiện ngay từ lần khám thai đầu tiên.
 - Nếu âm tính ban đầu và có yếu tố nguy cơ (quan hệ tình dục không an toàn, tiêm chích ma túy, bạn tình nhiễm HIV), lặp lại xét nghiệm vào tuần 24–28.
@@ -17,7 +17,7 @@ HIV (Human Immunodeficiency Virus) là bệnh lây truyền chủ yếu qua đư
 - **Đo CD4** nhằm đánh giá tổn thương miễn dịch.
 - **Xét nghiệm trẻ sơ sinh**: PCR HIV RNA ngay sau sinh vì kháng thể mẹ truyền qua có thể dương tính giả.
 
-### Phân loại lâm sàng theo CDC
+### Phân loại
 
 | Phân loại | Triệu chứng chính                                                                                                   | CD4 > 500 | CD4 200–499 | CD4 < 200 |
 | --------- | ------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --------- |
@@ -27,72 +27,74 @@ HIV (Human Immunodeficiency Virus) là bệnh lây truyền chủ yếu qua đư
 
 _Phân loại lâm sàng theo CDC._
 
-**Chẩn đoán AIDS**: giai đoạn C bất kỳ hoặc CD4 < 200 cells/mm³ kèm bệnh lý định nghĩa.
-
 ## Điều trị
 
 Điều trị ARV cho phụ nữ mang thai nhằm hai mục tiêu chính: kiểm soát HIV ở mẹ và giảm lây truyền sang con.
 
-### Mục tiêu điều trị
+### Mục tiêu
 
 - **CD4 ≥ 500 cells/mm³** nếu có thể, để giảm nguy cơ nhiễm trùng cơ hội.
 - **Tải lượng HIV RNA < ngưỡng phát hiện** (< 20–50 copies/mL) trước khi sinh.
 
-### Thuốc ARV chính
+### Thuốc kháng virus (ARV)
 
-#### 1. Nhóm ức chế men sao chép ngược nucleoside (NRTIs)
+1. **Nhóm ức chế men sao chép ngược nucleoside (NRTIs)**
 
-- **Tenofovir disoproxil fumarate (TDF) 300 mg x 1 lần/ngày**.
+   - **Tenofovir disoproxil fumarate (TDF) 300 mg x 1 lần/ngày**.
 
-  - **Cơ chế**: Ức chế men sao chép ngược, ngăn chặn sao chép RNA HIV thành DNA.
-  - **Tác dụng phụ**: Có thể gây suy giảm chức năng thận, giảm khối lượng xương.
-  - **Theo dõi**: Creatinine huyết thanh, độ lọc cầu thận, đặc biệt mỗi 3 tháng.
+     - **Cơ chế**: Ức chế men sao chép ngược, ngăn chặn sao chép RNA HIV thành DNA.
+     - **Tác dụng phụ**: Có thể gây suy giảm chức năng thận, giảm khối lượng xương.
+     - **Theo dõi**: Creatinine huyết thanh, độ lọc cầu thận, đặc biệt mỗi 3 tháng.
 
-- **Lamivudine (3TC) 150 mg x 2 lần/ngày** hoặc **300 mg x 1 lần/ngày**.
-  - **Cơ chế**: Tương tự TDF, kết hợp đồng thời tăng hiệu quả ức chế virus.
-  - **Tác dụng phụ**: Buồn nôn, tiêu chảy, đau đầu nhẹ.
-  - **Theo dõi**: Có thể sinh hóa máu định kỳ, thường không cần theo dõi đặc biệt.
+   - **Lamivudine (3TC) 150 mg x 2 lần/ngày** hoặc **300 mg x 1 lần/ngày**.
 
-#### 2. Nhóm ức chế men sao chép ngược không nucleoside (NNRTIs) / ức chế integrase (INSTIs)
+     - **Cơ chế**: Tương tự TDF, kết hợp đồng thời tăng hiệu quả ức chế virus.
+     - **Tác dụng phụ**: Buồn nôn, tiêu chảy, đau đầu nhẹ.
+     - **Theo dõi**: Có thể sinh hóa máu định kỳ, thường không cần theo dõi đặc biệt.
 
-- **Efavirenz (EFV) 600 mg x 1 lần/ngày**.
+2. **Nhóm ức chế men sao chép ngược không nucleoside (NNRTIs) / ức chế integrase (INSTIs)**
 
-  - **Cơ chế**: Gắn không cạnh tranh vào men sao chép ngược, ức chế hoạt động.
-  - **Lưu ý**: Không dùng trong quý I do nguy cơ quái thai thần kinh.
-  - **Tác dụng phụ**: Mất ngủ, chóng mặt, thay đổi tâm thần.
-  - **Theo dõi**: Giám sát các triệu chứng thần kinh – tâm thần.
+   - **Efavirenz (EFV) 600 mg x 1 lần/ngày**.
 
-- **Dolutegravir (DTG) 50 mg x 1 lần/ngày**.
-  - **Cơ chế**: Ức chế integrase, ngăn chặn việc chèn DNA virus vào DNA chủ.
-  - **Ưu điểm**: Giảm tải lượng rất nhanh, ít tương tác thuốc.
-  - **Lưu ý**: Cẩn trọng trong quý I do nguy cơ hiếm gặp dị tật thần kinh.
-  - **Theo dõi**: Giám sát phản ứng dị ứng, chức năng gan.
+     - **Cơ chế**: Gắn không cạnh tranh vào men sao chép ngược, ức chế hoạt động.
+     - **Lưu ý**: Không dùng trong quý I do nguy cơ quái thai thần kinh.
+     - **Tác dụng phụ**: Mất ngủ, chóng mặt, thay đổi tâm thần.
+     - **Theo dõi**: Giám sát các triệu chứng thần kinh – tâm thần.
 
-#### 3. Nhóm ức chế protease (PIs)
+   - **Dolutegravir (DTG) 50 mg x 1 lần/ngày**.
 
-- **Lopinavir/ritonavir (LPV/r): Lopinavir 200 mg + Ritonavir 50 mg x 2 lần/ngày**.
-  - **Cơ chế**: Ức chế protease HIV, ngăn giai đoạn đóng gói virus.
-  - **Tác dụng phụ**: Buồn nôn, tiêu chảy, tăng lipid máu, men gan tăng.
-  - **Theo dõi**: Chức năng gan, lipid máu mỗi 3–6 tháng.
+     - **Cơ chế**: Ức chế integrase, ngăn chặn việc chèn DNA virus vào DNA chủ.
+     - **Ưu điểm**: Giảm tải lượng rất nhanh, ít tương tác thuốc.
+     - **Lưu ý**: Cẩn trọng trong quý I do nguy cơ hiếm gặp dị tật thần kinh.
+     - **Theo dõi**: Giám sát phản ứng dị ứng, chức năng gan.
 
-#### 4. Thuốc bổ trợ
+3. **Nhóm ức chế protease (PIs)**
 
-- **Zidovudine (AZT) 300 mg x 2 lần/ngày**.
-  - **Cơ chế**: NRTI thế hệ đầu, giảm tải lượng virus, đặc biệt trong chuyển dạ.
-  - **Tác dụng phụ**: Thiếu máu, buồn nôn, nhức đầu.
-  - **Theo dõi**: Công thức máu (hồng cầu, bạch cầu) mỗi tháng.
+   - **Lopinavir/ritonavir (LPV/r): Lopinavir 200 mg + Ritonavir 50 mg x 2 lần/ngày**.
 
-### Phác đồ gợi ý
+     - **Cơ chế**: Ức chế protease HIV, ngăn giai đoạn đóng gói virus.
+     - **Tác dụng phụ**: Buồn nôn, tiêu chảy, tăng lipid máu, men gan tăng.
+     - **Theo dõi**: Chức năng gan, lipid máu mỗi 3–6 tháng.
+
+4. **Thuốc bổ trợ**
+
+   - **Zidovudine (AZT) 300 mg x 2 lần/ngày**.
+
+     - **Cơ chế**: NRTI thế hệ đầu, giảm tải lượng virus, đặc biệt trong chuyển dạ.
+     - **Tác dụng phụ**: Thiếu máu, buồn nôn, nhức đầu.
+     - **Theo dõi**: Công thức máu (hồng cầu, bạch cầu) mỗi tháng.
+
+#### Phác đồ
 
 - **Chuẩn**: TDF + 3TC + EFV (bắt đầu sau quý I).
 - **Thay thế**: TDF + 3TC + DTG (từ quý II, ưu tiên khi không dùng EFV).
 - **Khi tải lượng cao (> 1000 copies/mL) hoặc thất bại phác đồ**: Thêm hoặc chuyển sang LPV/r.
 
-### Điều trị cho trẻ sơ sinh
+#### Trẻ sơ sinh
 
 - **AZT 4 mg/kg mỗi 6 giờ trong 4–6 tuần** ngay sau sinh để giảm nguy cơ lây truyền.
 
-### Sinh mổ
+### Phẫu thuật
 
 - **Chỉ định** khi tải lượng HIV mẹ > 1000 copies/mL vào thời điểm chuyển dạ để giảm tối đa phơi nhiễm virus.
 
@@ -107,13 +109,9 @@ _Phân loại lâm sàng theo CDC._
 - **Chức năng thận, gan, lipid máu**: theo dõi định kỳ do tác dụng phụ ARV.
 - **Tuân thủ điều trị**: tư vấn, hỗ trợ tâm lý, đánh giá tác dụng phụ để đảm bảo mẹ dùng thuốc đều đặn.
 
-## Phơi nhiễm HIV
+## Phơi nhiễm
 
-### Thời gian ủ bệnh
-
-- **Triệu chứng sớm (nếu có)**: **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng…).
-
-- **Thời gian "cửa sổ" (window period)**: khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm:
+### Ủ bệnh
 
 | Loại xét nghiệm                          | Phát hiện HIV sớm nhất sau phơi nhiễm | Thời gian khuyến nghị làm xét nghiệm   |
 | ---------------------------------------- | ------------------------------------- | -------------------------------------- |
@@ -123,12 +121,15 @@ _Phân loại lâm sàng theo CDC._
 
 _Thời gian phát hiện HIV qua xét nghiệm._
 
+- **Triệu chứng sớm (nếu có)**: **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng…).
+- **Thời gian "cửa sổ" (window period)**: khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm:
+
 Kết quả được coi là đáng tin cậy nếu:
 
 - **Xét nghiệm combo Ag/Ab sau 4–6 tuần âm tính** → độ chính xác cao.
 - **Xét nghiệm kháng thể sau 12 tuần (3 tháng)** âm tính → gần như chắc chắn không nhiễm HIV.
 
-### Điều trị phơi nhiễm HIV
+### Điều trị
 
 - Nếu mới tiếp xúc < 72 giờ → **đi khám ngay để cân nhắc dùng PEP (thuốc phơi nhiễm)** nhằm giảm nguy cơ nhiễm.
 - Tránh quan hệ tình dục, hiến máu trong thời gian chờ xét nghiệm.

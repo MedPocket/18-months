@@ -5,20 +5,21 @@ description: Chẩn đoán, điều trị, phòng lẫy nhiễm thủy đậu tr
 
 Thủy đậu (trái rạ) là bệnh truyền nhiễm cấp tính do virus varicella-zoster (VZV, họ Herpesviridae) gây ra. Sau lần nhiễm đầu, virus có thể ẩn trong hạch thần kinh và tái hoạt động sau này gây zona (giời leo).
 
-## Dịch tễ học và đường lây
+## Dịch tễ học
 
-Bệnh xảy ra quanh năm, tăng cao vào mùa xuân – đầu hè (tháng 2–6). Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; dễ thành dịch nhỏ nếu không cách ly kịp thời.
+- Bệnh xảy ra quanh năm, tăng cao vào mùa xuân – đầu hè (tháng 2–6). Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; dễ thành dịch nhỏ nếu không cách ly kịp thời.
 
-Nguồn lây duy nhất là người mắc thủy đậu và người bị zona. Đường truyền:
+- Nguồn lây duy nhất là người mắc thủy đậu và người bị zona. Đường truyền:
 
-- Qua giọt bắn đường hô hấp khi ho, hắt hơi, nói chuyện.
-- Tiếp xúc trực tiếp với dịch mụn nước rồi chạm vào mắt, miệng, mũi hoặc da.
-- Hiếm gặp: gián tiếp qua vật dụng nhiễm dịch mụn nước (quần áo, khăn, ga giường…) nếu có dịch dính.
+  - Qua giọt bắn đường hô hấp khi ho, hắt hơi, nói chuyện.
+  - Tiếp xúc trực tiếp với dịch mụn nước rồi chạm vào mắt, miệng, mũi hoặc da.
+  - Hiếm gặp: gián tiếp qua vật dụng nhiễm dịch mụn nước (quần áo, khăn, ga giường…) nếu có dịch dính.
 
-Thời gian lây: bắt đầu từ 1–2 ngày trước khi nổi ban/mụn nước, kéo dài đến khi tất cả mụn nước khô vảy hoàn toàn (khoảng 5–7 ngày sau phát ban).
+- Thời gian lây: bắt đầu từ 1–2 ngày trước khi nổi ban/mụn nước, kéo dài đến khi tất cả mụn nước khô vảy hoàn toàn (khoảng 5–7 ngày sau phát ban).
 
 ## Chẩn đoán
 
+:::note[Chẩn đoán thủy đậu]
 Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch tễ học. Khi cần – đặc biệt ở người lớn, suy giảm miễn dịch hoặc nghi biến chứng – làm xét nghiệm bổ sung.
 
 **Lâm sàng**
@@ -41,9 +42,12 @@ Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch 
 - Huyết thanh học: IgM (nhiễm cấp), IgG (tiền sử hoặc sau tiêm vaccine).
 - Xét nghiệm Tzanck (ít dùng): tế bào khổng lồ đa nhân từ dịch mụn nước.
 
+:::
+
 ## Nguy cơ trong thai kỳ
 
-**Giai đoạn sớm (tuần 1–12)**  
+### Giai đoạn sớm (tuần 1–12)
+
 Nhiễm thủy đậu có thể gây hội chứng thủy đậu bẩm sinh với tỷ lệ khoảng 0.4 % nếu mẹ mắc trong 13 tuần đầu, gồm:
 
 - Dị tật mắt (đục thủy tinh thể, thoái hóa võng mạc).
@@ -52,7 +56,7 @@ Nhiễm thủy đậu có thể gây hội chứng thủy đậu bẩm sinh vớ
 - Biến dạng cơ xương, thấp lùn.
 - Vấn đề tim mạch và hô hấp.
 
-**Giai đoạn giữa và cuối (tuần 13–40)**
+### Giai đoạn giữa và cuối (tuần 13–40)
 
 - Viêm phổi do thủy đậu ở mẹ: biến chứng nguy hiểm, có thể tử vong.
 - Nếu mẹ nhiễm gần ngày sinh, thai nhi có thể lây VZV và phát bệnh ngay sau sinh, thường nặng và cần điều trị tích cực.
@@ -76,7 +80,7 @@ Nhiễm thủy đậu có thể gây hội chứng thủy đậu bẩm sinh vớ
 - Trường hợp nặng hoặc viêm phổi, tiêm TM Acyclovir 10 mg/kg mỗi 8 giờ, 7–10 ngày.
 - Điều chỉnh liều ở bệnh nhân suy thận hoặc có yếu tố nguy cơ.
 
-## Phòng ngừa lây truyền
+## Phòng ngừa
 
 - Cách ly người bệnh cho đến khi mụn nước khô vảy hoàn toàn.
 - Vệ sinh cá nhân và môi trường (khử khuẩn bề mặt, giặt giũ đồ dùng).

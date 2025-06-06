@@ -101,7 +101,7 @@ export const sidebar = starlightSidebarTopics([
       {
         label: "Các vấn đề sau sinh",
         autogenerate: {
-          directory: "san-khoa/cac-van-de-sau-sinh",
+          directory: "san-khoa/sau-sinh",
         },
         collapsed: true,
       },

@@ -11,7 +11,7 @@ Bệnh uốn ván (phong đòn gánh) do độc tố tetanospasmin của _Clostr
 - **Bảo vệ bé**: Kháng thể mẹ truyền qua nhau thai giúp phòng uốn ván rốn sơ sinh.
 - **An toàn**: Vaccine đã được kiểm định và chứng minh không gây hại cho mẹ và thai nhi.
 
-## Lịch tiêm phòng
+## Chỉ định
 
 Vaccine uốn ván cho phụ nữ mang thai được tiêm theo tiền sử miễn dịch:
 
@@ -38,7 +38,7 @@ Vaccine uốn ván cho phụ nữ mang thai được tiêm theo tiền sử mi�
   - Mũi đầu sau 20 tuần.
   - Mũi nhắc lại ≥ 30 ngày sau (hoặc trước sinh ≥ 30 ngày).
 
-## Lưu ý khi tiêm
+:::caution[Lưu ý]
 
 - Chỉ tiêm ở cơ sở y tế được Bộ Y tế cấp phép.
 - Theo dõi tối thiểu 15–30 phút sau tiêm.
@@ -46,6 +46,8 @@ Vaccine uốn ván cho phụ nữ mang thai được tiêm theo tiền sử mi�
 - Kháng thể xuất hiện sau 2 tuần; tránh rượu bia, tuân thủ hướng dẫn bác sĩ.
 - Khi có dấu hiệu nghiêm trọng (da xanh, tim nhanh, khó thở…) cần đến viện cấp cứu ngay.
 - Nghỉ ngơi, tránh vận động mạnh và bổ sung dinh dưỡng đầy đủ (vitamin C, sắt, canxi, folate).
+
+:::
 
 ## Chống chỉ định
 
