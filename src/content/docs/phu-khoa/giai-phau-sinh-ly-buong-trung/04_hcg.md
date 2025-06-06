@@ -1,6 +1,6 @@
 ---
 title: hCG (human Chorionic Gonadotropin)
-description: Tổng quan về human Chorionic Gonadotropin (hCG) nguồn gốc, cấu trúc, thụ thể, chuyển hóa, chức năng và động học.
+description: human Chorionic Gonadotropin (hCG) nguồn gốc, cấu trúc, thụ thể, chuyển hóa, chức năng và động học.
 ---
 
 hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhất trong các hormone người.
@@ -25,39 +25,29 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 
 ## Chuyển hóa
 
-- **T½** 36 h (LH 20 phút) → duy trì tác dụng lâu dài.
-- Thải trừ: hCG nguyên vẹn, phân mảnh α/β, thoái giáng → phát hiện trong cả huyết thanh và nước tiểu.
+- **Bán thai**: 36 giờ (LH 20 phút) → duy trì tác dụng lâu dài.
+- **Thải trừ**: hCG nguyên vẹn, phân mảnh α/β, thoái giáng → phát hiện trong cả huyết thanh và nước tiểu.
 
 ## Chức năng
 
-### Dấu ấn sinh hóa thai kỳ
+- **Dấu ấn sinh hóa**: Ngày 10 sau thụ tinh: hCG xuất hiện trong máu mẹ → xác nhận làm tổ.
+- **Duy trì hoàng thể**: Thay thế LH sau phóng noãn → duy trì hoàng thể chu kỳ thành hoàng thể thai kỳ → tiếp tục tiết estrogen & progesterone.
+- **Phản ánh hoạt động lá nuôi**: Diễn biến hCG phản ánh chức năng tế bào ngoại bì lá nuôi hơn là tình trạng phôi.
+- **Ứng dụng lâm sàng**:
 
-- Ngày 10 sau thụ tinh: hCG xuất hiện trong máu mẹ → xác nhận làm tổ.
+  - Thay thế LH trong kích thích phóng noãn cuối cùng.
+  - Hỗ trợ phát triển nội mạc, mạch xoắn ốc, relaxin, testosterone thai nhi.
 
-### Duy trì hoàng thể
+## Động học và ngưỡng β-hCG
 
-- Thay thế LH sau phóng noãn → duy trì hoàng thể chu kỳ thành hoàng thể thai kỳ → tiếp tục tiết estrogen & progesterone.
-
-### Phản ánh hoạt động lá nuôi
-
-- Diễn biến hCG phản ánh chức năng tế bào ngoại bì lá nuôi hơn là tình trạng phôi.
-
-### Ứng dụng lâm sàng
-
-- Thay thế LH trong kích thích phóng noãn cuối cùng.
-- Hỗ trợ phát triển nội mạc, mạch xoắn ốc, relaxin, testosterone thai nhi.
-
-## Động học β-hCG
+### Động học β-hCG
 
 - **Bình thường không có thai**: < 5 mIU/mL.
 - **Có thai**: > 25 mIU/mL (que thử 20–25 mIU/mL).
-- **Tăng gấp đôi** mỗi 48 giờ trong 6 tuần đầu; đỉnh 8–10 tuần (100,000 mIU/mL); sau giảm đạt ổn định 16–20 tuần.
+- **Tăng gấp đôi**: mỗi 48 giờ trong 6 tuần đầu; đỉnh 8–10 tuần (100,000 mIU/mL); sau giảm đạt ổn định 16–20 tuần.
+- **Động học sau sẩy thai**: giảm ≥ 21–35% mỗi 48 giờ; < 20% gợi ý sót rau hoặc thai ngoài tử cung.
 
-**Động học sau sẩy/spontaneous loss**
-
-- hCG giảm ≥ 21–35% mỗi 48 giờ; < 20% gợi ý sót rau hoặc thai ngoài tử cung.
-
-## Ngưỡng siêu âm kết hợp β-hCG
+### Ngưỡng β-hCG
 
 | Tuổi thai             | Mức β-hCG (mIU/mL) |
 | --------------------- | ------------------ |

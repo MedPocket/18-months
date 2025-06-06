@@ -1,6 +1,6 @@
 ---
 title: Steroid sinh dục
-description: Tổng quan về các steroid sinh dục (progesterone, androgen, estrogen) nguồn gốc, sinh tổng hợp, cơ chế tác động và cơ quan đích.
+description: Các steroid sinh dục (progesterone, androgen, estrogen) - nguồn gốc, sinh tổng hợp, cơ chế tác động và cơ quan đích.
 ---
 
 Steroid sinh dục (gonadal steroids) là các hormone có nguồn gốc từ buồng trứng ở nữ và tinh hoàn ở nam, chịu trách nhiệm điều hòa chức năng sinh sản và phát triển các đặc điểm sinh dục thứ cấp. Có ba họ chính:
@@ -18,13 +18,14 @@ Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, 
 3. **Androgen (C₁₉)**: progesterone → 17α-OH-progesterone → androstenedione → testosterone.
 4. **Estrogen (C₁₈)**: aromatase (P450aro) chuyển testosterone/androstenedione → estradiol/estrone; estriol chủ yếu sinh ra từ chuyển hóa ở gan và rau thai.
 
-## Vai trò và nguồn gốc tại buồng trứng
+## Vai trò và nguồn gốc
 
 ### Androgen
 
 - **Nguồn**: tế bào vỏ (theca interna) của nang noãn chưa lệ thuộc gonadotropin.
 - **Sản phẩm chính**: DHEA, androstenedione.
 - **Chức năng**:
+
   - Chuẩn bị tế bào hạt (granulosa) để đáp ứng FSH, kích thích biểu hiện aromatase.
   - Duy trì androgen–AMH–FSH–estrogen cân bằng, ngăn nang noãn lệ thuộc gonadotropin quá sớm.
 
@@ -32,9 +33,11 @@ Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, 
 
 - **Nguồn**: tế bào hạt của các nang noãn phát triển và hoàng thể.
 - **Dạng lưu hành**:
+
   - **Estradiol (E₂)**: mạnh nhất, chiếm ưu thế ở người trưởng thành.
   - **Estrone (E₁)**: yếu hơn, có thể đảo ngược ↔ E₂.
   - **Estriol (E₃)**: yếu nhất, chủ yếu ở thai kỳ (gan + rau).
+
 - **Tổng hợp**: androgen → aromatase → estrogen
 - **Chức năng**: phát triển niêm mạc tử cung, hình thành các đặc điểm sinh dục thứ cấp, điều hòa GnRH/LH/FSH.
 
@@ -42,6 +45,7 @@ Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, 
 
 - **Nguồn**: tế bào hoàng thể sau phóng noãn; một phần từ vỏ thượng thận.
 - **Chức năng**:
+
   - Chuẩn bị nội mạc tử cung cho giai đoạn "phân tiết" (secretory), hỗ trợ làm tổ.
   - Ức chế co cơ trơn tử cung, đóng cổ tử cung.
   - Phối hợp với estrogen điều hòa trục HPT.
@@ -57,6 +61,7 @@ Steroid sinh dục tác động lên tế bào đích theo hai đường:
    - Tuyến tính: chậm (giờ–ngày), khởi phát protein mới.
 
 2. **Non-genomic (không qua gene)**
+
    - Gắn với **thụ thể màng** (GPCR như GPER cho estrogen, mAR cho androgen).
    - Kích hoạt second messenger (Ca²⁺, cAMP, PI3K/Akt, MAPK…)
    - Khởi phát nhanh (giây–phút), không yêu cầu nồng độ quá thấp.
@@ -65,7 +70,7 @@ Steroid sinh dục tác động lên tế bào đích theo hai đường:
 Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có thể điều hòa biểu hiện gene gián tiếp qua các đường tín hiệu thứ cấp.
 :::
 
-## Cơ quan đích điển hình
+## Cơ quan đích
 
 ### Nội mạc tử cung
 

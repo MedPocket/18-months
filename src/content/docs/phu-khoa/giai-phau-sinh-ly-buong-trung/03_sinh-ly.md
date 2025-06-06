@@ -1,16 +1,18 @@
 ---
-title: Chu kỳ buồng trứng và trục Hạ đồi – Yên – Buồng trứng
-description: Mô tả sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chiêu mộ nang, điều hòa qua AMH/PTEN–PI3K–Akt và hoạt động trục hạ đồi–yên–buồng trứng trong chu kỳ buồng trứng.
+title: Sinh lý buồng trứng
+description: Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chiêu mộ nang, điều hòa qua AMH/PTEN–PI3K–Akt và hoạt động trục hạ đồi–yên–buồng trứng trong chu kỳ buồng trứng.
 ---
 
-## Hình thành buồng trứng và kho nang nguyên thủy
+Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chiêu mộ nang, điều hòa qua AMH/PTEN–PI3K–Akt và hoạt động trục hạ đồi–yên–buồng trứng trong chu kỳ buồng trứng.
+
+## Buồng trứng và kho nang nguyên thủy
 
 - **Tuần 7 thai kỳ**: noãn nguyên bào (germ cell) từ túi noãn hoàng di chuyển vào ụ sinh dục, phân chia nguyên nhiễm nhanh chóng.
 - **Nang noãn nguyên thủy**: mỗi noãn nguyên bào được bọc quanh bởi lớp tế bào tùy hành (từ trung mô/phúc mạc). Vào giữa thai kỳ, toàn bộ noãn nguyên bào đồng loạt ngưng phân chia → nằm im trong nang nguyên thủy cho đến tuổi dậy thì.
 
-## Chiêu mộ nang noãn nguyên thủy (Primordial Recruitment)
+## Chiêu mộ nang noãn nguyên thủy
 
-- **Chiêu mộ nguyên khởi**: mỗi đợt 400 nang nguyên thủy được đánh thức, độc lập với FSH/LH.
+- **Chiêu mộ nguyên khởi (Primordial Recruitment)**: mỗi đợt 400 nang nguyên thủy được đánh thức, độc lập với FSH/LH.
 - **Cơ chế cận tiết**:
 
   - **PTEN–PI3K–Akt**: cân bằng PTEN (ức chế) và PI3K (kích hoạt) quyết định nang nào "thức giấc".
@@ -29,7 +31,7 @@ description: Mô tả sinh lý phát triển nang noãn từ bào thai đến m�
 
   _Điều hòa chiêu mộ noãn nang._
 
-## Khởi phát và điều hòa qua trục Hạ đồi–Yên–Buồng trứng
+## Trục Hạ đồi–Yên–Buồng trứng
 
 ### Hạ đồi
 
@@ -45,16 +47,16 @@ description: Mô tả sinh lý phát triển nang noãn từ bào thai đến m�
 - Xung GnRH → tiết **FSH** (xung thưa) và **LH** (xung dày).
 - FSH & LH → hoạt hóa nang thứ cấp đã có thụ thể tương ứng.
 
-### Nang thứ cấp đến nang de Graaf (lý thuyết 2 tế bào, 2 hormone)
+### Buồng trứng
+
+![Thuyết 2 tế bào, 2 hormone](../../../../assets/phu-khoa/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/thuyet-2-te-bai-2-hormone.png)
+
+_Thuyết 2 tế bào, 2 hormone._
 
 | Giai đoạn nang           | Nguồn androgen              | Nguồn estrogen                                                | Phát triển                                                                               |
 | ------------------------ | --------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | **Nang thứ cấp sớm**     | Tế bào vỏ (theca)           | Tế bào hạt: aromatase hóa androstenedione → estrone/estradiol | Nang nào nhiều tế bào hạt & thụ thể FSH hơn sẽ sinh estrogen nhiều hơn → cạnh tranh FSH  |
 | **Nang de Graaf (chín)** | LH ↑ → tế bào vỏ → androgen | FSH ↑ → tế bào hạt → estradiol mạnh                           | Estradiol đạt ngưỡng & duy trì đủ lâu → phản hồi dương lên hạ đồi → đỉnh LH → phóng noãn |
-
-![Thuyết 2 tế bào, 2 hormone](../../../../assets/phu-khoa/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/thuyet-2-te-bai-2-hormone.png)
-
-_Thuyết 2 tế bào, 2 hormone._
 
 ## Phóng noãn và hoàng thể hóa
 
