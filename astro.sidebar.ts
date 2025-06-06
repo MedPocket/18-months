@@ -113,9 +113,9 @@ export const sidebar = starlightSidebarTopics([
     icon: "forward-slash",
     items: [
       {
-        label: "Giải phẫu - Sinh lý buồng trứng",
+        label: "Hệ sinh dục",
         autogenerate: {
-          directory: "phu-khoa/giai-phau-sinh-ly-buong-trung",
+          directory: "phu-khoa/he-sinh-duc",
         },
         collapsed: true,
       },
@@ -132,21 +132,21 @@ export const sidebar = starlightSidebarTopics([
       {
         label: "Tiết dịch âm đạo bất thường",
         autogenerate: {
-          directory: "phu-khoa/tiet-dich-am-dao-bat-thuong",
+          directory: "phu-khoa/tiet-dich-am-dao",
         },
         collapsed: true,
       },
       {
         label: "Bất thường cổ tử cung",
         autogenerate: {
-          directory: "phu-khoa/bat-thuong-co-tu-cung",
+          directory: "phu-khoa/co-tu-cung",
         },
         collapsed: true,
       },
       {
         label: "Bất thường buồng trứng",
         autogenerate: {
-          directory: "phu-khoa/bat-thuong-buong-trung",
+          directory: "phu-khoa/buong-trung",
         },
         collapsed: true,
       },
@@ -168,7 +168,7 @@ export const sidebar = starlightSidebarTopics([
       {
         label: "Bất thường tuyến vú",
         autogenerate: {
-          directory: "phu-khoa/bat-thuong-tuyen-vu",
+          directory: "phu-khoa/vu",
         },
         collapsed: true,
       },
