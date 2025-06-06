@@ -74,7 +74,7 @@ STUMP (Smooth muscle Tumour of Uncertain Malignant Potential) là khối u cơ t
 
 1. **Chẩn đoán gợi ý**: u xơ-cơ tăng nhanh hoặc xuất huyết bất thường → cân nhắc ác tính.
 2. **Theo dõi**: siêu âm/MRI không dùng thuốc cản quang nếu cần.
-3. **Kết thúc thai kỳ**: ưu tiên sinh non có kiểm soát (≥ 34 tuần).
+3. **Chấm dứt thai kỳ**: ưu tiên sinh non có kiểm soát (≥ 34 tuần).
 
 ## Nguồn tham khảo
 
