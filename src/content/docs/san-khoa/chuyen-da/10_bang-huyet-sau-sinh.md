@@ -71,7 +71,7 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 ### Cấp cứu ban đầu
 
 1. Gọi hỗ trợ ngay.
-2. Thiết lập 2 đường truyền tĩnh mạch lớn.
+2. Thiết lập 2 đường truyền TM lớn.
 3. Truyền dịch tinh thể nhanh.
 4. Nhóm máu, test chéo.
 5. Theo dõi sinh hiệu, nước tiểu, nhịp tim thai.

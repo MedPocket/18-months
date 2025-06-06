@@ -234,8 +234,8 @@ Bệnh Mondor (Mondor’s disease) là tình trạng viêm tắc tĩnh mạch n�
 
 - Gặp ở nữ > nam; tiền sử chấn thương, phẫu thuật vú, tập thể thao mạnh hoặc rối loạn đông máu (ví dụ đột biến yếu tố V Leiden).
 - Triệu chứng:
-  - Đau nhói dọc theo đường tĩnh mạch nông, sờ thấy dải cứng, đau khi ấn, căng da.
-  - Thay đổi màu da có thể đỏ, tím theo đường tĩnh mạch.
+  - Đau nhói dọc theo đường TM nông, sờ thấy dải cứng, đau khi ấn, căng da.
+  - Thay đổi màu da có thể đỏ, tím theo đường TM.
 - Thường tự giới hạn, triệu chứng giảm dần trong 4–8 tuần.
 
 **Hình ảnh học**

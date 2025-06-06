@@ -108,7 +108,7 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
   - **Dị ứng nặng với Penicillin**:
 
     - Azithromycin 1 g (uống) khi nhập viện
-    - Clindamycin 900 mg (truyền tĩnh mạch) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền tĩnh mạch) mỗi 24 giờ × 48 giờ
+    - Clindamycin 900 mg (truyền TM) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền TM) mỗi 24 giờ × 48 giờ
     - Sau đó: Clindamycin 300mg (uống) mỗi 8 giờ × 5 ngày
 
   - **GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ**:

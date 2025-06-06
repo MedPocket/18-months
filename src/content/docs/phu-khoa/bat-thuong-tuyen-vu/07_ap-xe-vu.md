@@ -94,7 +94,7 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 
 **Nhiễm trùng nặng**:
 
-- Vancomycin (15 mg/kg truyền tĩnh mạch mỗi 12 giờ).
+- Vancomycin (15 mg/kg truyền TM mỗi 12 giờ).
 - Có thể phối hợp với cephalosporin thế hệ 3 hoặc beta-lactam kết hợp chất ức chế beta-lactamase.
 
 :::caution[Lưu ý]

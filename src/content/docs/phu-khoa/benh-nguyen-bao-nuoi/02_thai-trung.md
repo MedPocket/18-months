@@ -114,7 +114,7 @@ Không sử dụng hóa trị khi:
     - Giảm bạch cầu dùng thuốc nâng bạch cầu (Filgrastim).
     - Truyền máu hồng cầu lắng, tiểu cầu.
   - Nhiễm độc đường tiêu hóa như viêm niêm mạc miệng, viêm dạ dày, viêm ruột hoại tử:
-    - Nuôi bằng đường tĩnh mạch, ăn thức ăn lỏng, chia nhiều bữa nhỏ.
+    - Nuôi bằng đường TM, ăn thức ăn lỏng, chia nhiều bữa nhỏ.
     - Kháng sinh, vitamin.
     - Truyền dịch và bù điện giải.
   - Nhiễm độc da: rụng tóc, tăng dị ứng mẫn cảm.

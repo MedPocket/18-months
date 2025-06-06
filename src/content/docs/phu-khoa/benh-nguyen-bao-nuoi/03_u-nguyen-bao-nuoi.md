@@ -112,7 +112,7 @@ _Phân loại NIH (Mỹ)_
       - Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24 giờ.
     - Ngày 8:
       - Oncovin (Vincristin) 1 mg/m² da tĩnh mạch, tối đa 2mg.
-      - Cyclophosphamid 600 mg/m² da truyền tĩnh mạch trong 30 phút.
+      - Cyclophosphamid 600 mg/m² da truyền TM trong 30 phút.
   - Lặp lại thêm 3–4 chu kỳ sau khi β-hCG âm tính.
 
 :::caution[Lưu ý]
@@ -125,12 +125,12 @@ Tiêu chuẩn để hóa trị:
 
 - **Nếu kháng EMA-CO** chuyển sang EP-EMA, BEP hoặc TP/TE:
   - Sử dụng phác đồ EMA-EP hoặc EP-EMA: ngày điều trị CO được thay bằng EP:
-    - Cisplatin 70-80 mg pha 1L truyền tĩnh mạch hơn 12 giờ.
-    - Etoposide 100 mg/m² da (150 mg/m² da) được truyền tĩnh mạch hơn 1h.
+    - Cisplatin 70-80 mg pha 1L truyền TM hơn 12 giờ.
+    - Etoposide 100 mg/m² da (150 mg/m² da) được truyền TM hơn 1h.
   - Phác đồ BEP:
-    - Cisplatin 20 mg/m² da truyền tĩnh mạch.
-    - Etoposide 100 mg/m² da truyền tĩnh mạch vào ngày 1-4.
-    - Bleomycin 30 đơn vị tiêm tĩnh mạch hằng tuần.
+    - Cisplatin 20 mg/m² da truyền TM.
+    - Etoposide 100 mg/m² da truyền TM vào ngày 1-4.
+    - Bleomycin 30 đơn vị tiêm TM hằng tuần.
   - Phác đồ TP/TE:
     - Ngày 1:
       - Dexamethasone 20 mg uống trước liều Paclitaxel 12 giờ.
@@ -140,7 +140,7 @@ Tiêu chuẩn để hóa trị:
       - Paclitaxel 135 mg/m² da + 250mL NaCl 0.9% truyền trong 3h.
       - Mannitol 10% truyền trong 1h.
       - Cisplatin 60 mg/m² da pha 1000mL NaCl 0.9% truyền trong 3h.
-      - Sau khi truyền thuốc, truyền tĩnh mạch 1000mL NaCl 0.9% + KCl 20 mmol + 1 g MgSO₄ truyền trong 2 giờ.
+      - Sau khi truyền thuốc, truyền TM 1000mL NaCl 0.9% + KCl 20 mmol + 1 g MgSO₄ truyền trong 2 giờ.
     - Ngày 15:
       - Dexamethasone 20 mg uống trước liều Paclitaxel 12 giờ.
       - Dexamethasone 20 mg uống trước liều Paclitaxel 6 giờ.
@@ -181,7 +181,7 @@ Tiêu chuẩn để hóa trị:
   - Folinic acid 15 mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24 giờ.
 - Ngày 8:
   - Oncovin (Vincristin) 1 mg/m² da tĩnh mạch, tối đa 2 mg.
-  - Cyclophosphamid 600 mg/m² da truyền tĩnh mạch trong 30 phút.
+  - Cyclophosphamid 600 mg/m² da truyền TM trong 30 phút.
 - Kết hợp xạ trị 3000 cGy.
 
 ### U nguyên bào nuôi tái phát

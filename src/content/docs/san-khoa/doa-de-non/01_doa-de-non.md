@@ -166,7 +166,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 - **Liều dùng**:
 
-  - **Bước 1**: Liều tấn công lọ 1 (37.5 mg/5 mL): lấy 6.75 mg (0.9 mL) pha vào 10 mL Ringer lactate, tiêm tĩnh mạch chậm > 1 phút (còn 4.1 mL).
+  - **Bước 1**: Liều tấn công lọ 1 (37.5 mg/5 mL): lấy 6.75 mg (0.9 mL) pha vào 10 mL Ringer lactate, tiêm TM chậm > 1 phút (còn 4.1 mL).
   - **Bước 2**: Liều duy trì với lọ 1 còn 30.75 mg (4.1 mL) pha 36.9 mL Ringer lactate, truyền bơm tiêm điện 24 mL/h. Sau đó pha tiếp lọ 2 (37.5 mg/5 mL) trong 45 mL Ringer lactate, truyền 24 mL/h trong 3 giờ đầu.
   - **Bước 3**: Phần còn lại ở bước 2 (19 mL) truyền 8 mL/h. Sau đó pha lọ 3 (37.5 mg/5 mL) thành 50 mL Ringer lactate, truyền 8 mL/h. Thời gian dùng tối đa 45 giờ.
 
@@ -222,11 +222,11 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
   - Hạn chế dịch truyền nhất ở song thai hoặc đang dùng corticosteroids.
   - Pha 5 mg Salbutamol/5 mL trong 95 mL NaCl 0.9 %; truyền 12 mL/h (10 µg/phút), tăng 4 mL/h mỗi 30 phút đến khi cắt cơn hoặc mẹ đạt nhịp tim ≥ 120 lần/phút hoặc tối đa 36 mL/h.
-  - Có thể truyền tĩnh mạch pha 5 mg Salbutamol/5 mL trong dung dịch glucose 5 % (10 µg/mL), tốc độ 60 mL/h (10 µg/phút), tăng 20 mL/h mỗi 30 phút đến khi cắt cơn hoặc nhịp tim mẹ ≥ 120 lần/phút hoặc tối đa 180 mL/h.
+  - Có thể truyền TM pha 5 mg Salbutamol/5 mL trong dung dịch glucose 5 % (10 µg/mL), tốc độ 60 mL/h (10 µg/phút), tăng 20 mL/h mỗi 30 phút đến khi cắt cơn hoặc nhịp tim mẹ ≥ 120 lần/phút hoặc tối đa 180 mL/h.
 
 - **Thời gian điều trị**:
 
-  - Đường tĩnh mạch: 24–48 giờ.
+  - Đường TM: 24–48 giờ.
   - Duy trì uống/đặt:
     - Ventolin 2 viên × 4–6 viên/ngày.
     - Salbutamol 1 viên × 1–3 viên/ngày (đặt hậu môn).
@@ -257,7 +257,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 - **Liều**:
 
-  - MgSO₄ 4.5 g truyền tĩnh mạch chậm 20–30 phút.
+  - MgSO₄ 4.5 g truyền TM chậm 20–30 phút.
   - Giảm liều nếu thiểu niệu hoặc suy thận.
   - Không phối hợp với thuốc cắt cơn.
 

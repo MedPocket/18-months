@@ -86,7 +86,7 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 
 - Bắt đầu kháng sinh khi mẹ sốt đơn thuần trong chuyển dạ không rõ nguyên nhân.
 - Điều trị kháng sinh ngay khi nghi ngờ hoặc xác định nhiễm trùng ối.
-- Dùng kháng sinh phổ rộng đường tĩnh mạch.
+- Dùng kháng sinh phổ rộng đường TM.
 - Kháng sinh phải có hiệu lực trên GBS và _E. coli_.
 - Không trì hoãn điều trị đến sau sinh.
 - Chấm dứt thai kỳ ngay sau khi nghi ngờ hoặc chẩn đoán xác định, ưu tiên sinh ngả âm đạo.

@@ -22,7 +22,7 @@ Sau sổ thai, cần theo dõi sinh hiệu và lượng máu mất, **không** x
 ### Chuẩn bị
 
 - Giải thích rõ cho sản phụ, lấy chấp thuận.
-- Trang bị: găng tay dài vô khuẩn, champs, đầy đủ dụng cụ theo dõi, đường truyền tĩnh mạch.
+- Trang bị: găng tay dài vô khuẩn, champs, đầy đủ dụng cụ theo dõi, đường truyền TM.
 - Thuốc: atropin 0.25 mg tiêm bắp/tĩnh mạch, giảm đau (morphin, dolargan), seduxen.
 - Sát khuẩn âm hộ, đặt sản phụ tư thế sản khoa (đầu hơi cao).
 
@@ -56,7 +56,7 @@ _Kỹ thuật bóc rau nhân tạo._
 
 ### Chuẩn bị
 
-Tương tự bóc rau: vô khuẩn, đường truyền tĩnh mạch, thuốc giảm đau.
+Tương tự bóc rau: vô khuẩn, đường truyền TM, thuốc giảm đau.
 
 ### Kỹ thuật
 

@@ -45,15 +45,15 @@ Không dùng Diazepam/Phenytoin vì không hiệu quả, có thể gây hại th
    - Đặt bệnh nhân nằm nghiêng sang 1 bên.
    - Cho thở O₂ 6–8 L/phút qua mặt nạ.
 
-2. **Đặt đường truyền tĩnh mạch**
+2. **Đặt đường truyền TM**
 
 3. **Sử dụng MgSO₄**
 
    - Thuốc chống co giật hiệu quả nhất, đồng thời giúp hạ huyết áp nhẹ.
    - **Liều dùng**:
 
-     - **Liều tấn công**: 4–6 g tiêm tĩnh mạch chậm (trong 15–20 phút).
-     - **Liều duy trì**: 1–2 g/giờ truyền tĩnh mạch liên tục.
+     - **Liều tấn công**: 4–6 g tiêm TM chậm (trong 15–20 phút).
+     - **Liều duy trì**: 1–2 g/giờ truyền TM liên tục.
      - Tiếp tục truyền tối thiểu 24 giờ sau cơn sản giật cuối cùng hoặc sau sinh.
 
    - **Theo dõi dấu hiệu ngộ độc MgSO₄**:

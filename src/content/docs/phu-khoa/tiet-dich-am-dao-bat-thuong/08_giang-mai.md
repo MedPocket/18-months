@@ -257,9 +257,9 @@ Các xét nghiệm nhanh có:
 
 - **Phác đồ Benzyl penicillin (thuốc ưu tiên):**
 
-  - **100,000–150,000 Đơn vị/kg/ngày**, tiêm tĩnh mạch chậm chia 2–3 lần/ngày (nếu thể trạng đảm bảo) hoặc truyền liên tục trong 10–15 ngày.
+  - **100,000–150,000 Đơn vị/kg/ngày**, tiêm TM chậm chia 2–3 lần/ngày (nếu thể trạng đảm bảo) hoặc truyền liên tục trong 10–15 ngày.
 
-- **Phác đồ Procain penicillin (thay thế nếu không tiêm tĩnh mạch được):**
+- **Phác đồ Procain penicillin (thay thế nếu không tiêm TM được):**
 
   - **50,000 Đơn vị/kg/ngày**, tiêm bắp sâu 1 liều/ngày x 10–15 ngày.
 
