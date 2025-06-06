@@ -65,7 +65,7 @@ Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng *
 - Vã mồ hôi, mất nước nặng.
 - Có thể lẫn với tiền sản giật nặng, nhưng **cường giáp không có tiểu đạm**.
 
-### Xử trí cấp cứu
+### Cấp cứu ban đầu
 
 - **Sodium iodide** 1 g tiêm mạch để ức chế tiết hormone tuyến giáp.
 - **PTU** 1200–1800 mg/ngày chia liều để chặn tổng hợp và chuyển hóa T₄.

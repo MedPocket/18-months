@@ -64,7 +64,7 @@ _Ranh giới lát-trụ nguyên thủy và mới dưới kính soi._
 - **Lộ tuyến cổ tử cung (endocervical ectropion)**: biểu mô trụ của cổ trong lộn ra bề mặt cổ ngoài (ectocervix), tiếp xúc với môi trường acid âm đạo.
 - Biểu mô trụ khi lộ ra có màu đỏ, dễ chảy máu khi chạm vào, dễ bội nhiễm vi khuẩn hoặc nấm dẫn đến **viêm lộ tuyến**. Bệnh lý này có thể gây ra khí hư vàng, xanh, mùi hôi, ngứa, đau rát khi giao hợp và chảy máu sau quan hệ.
 
-### Cơ chế chuyển sản lát (Metaplasia)
+### Chuyển sản lát (Metaplasia)
 
 ![Dịch chuyển SCJ nguyên thủy và SCJ mới](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/dich-truyen-cua-scj-nguyen-thuy-va-moi.jpeg)
 

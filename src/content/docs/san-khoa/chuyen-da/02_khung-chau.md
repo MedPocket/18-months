@@ -55,7 +55,7 @@ Khung chậu có vai trò rất quan trọng trong sản khoa, vì thai từ tro
 ### Eo giữa
 
 - Eo giữa là đoạn hẹp nhất về mặt giải phẫu của đường sinh. Được tạo bởi:
-  
+
   - Sau: Xương cùng (hõm xương cùng).
   - Hai bên: Gai hông – điểm nhô vào lòng tiểu khung, gây hẹp rõ rệt.
   - Trước: Mặt sau khớp vệ.
@@ -79,15 +79,15 @@ Khung chậu có vai trò rất quan trọng trong sản khoa, vì thai từ tro
 
   1. **Tam giác xương (phía trước)**
 
-    - Bờ dưới khớp vệ.
-    - Hai bên là hai nhánh tọa của xương chậu.
+  - Bờ dưới khớp vệ.
+  - Hai bên là hai nhánh tọa của xương chậu.
 
   2. **Tam giác cân-cơ-màng (phía sau)**
-    
-    - Đỉnh: Đỉnh xương cụt.
-    - Đáy: 2 ụ ngồi.
-    - Hai cạnh bên: Dây chằng tọa-cùng.
-    - Do khớp cùng-cụt là **khớp bán động**, đỉnh xương cụt có thể bị đẩy ra sau, giúp mở rộng thêm không gian eo dưới trong chuyển dạ.
+
+  - Đỉnh: Đỉnh xương cụt.
+  - Đáy: 2 ụ ngồi.
+  - Hai cạnh bên: Dây chằng tọa-cùng.
+  - Do khớp cùng-cụt là **khớp bán động**, đỉnh xương cụt có thể bị đẩy ra sau, giúp mở rộng thêm không gian eo dưới trong chuyển dạ.
 
 - **Các đường kính chính**:
 

@@ -7,7 +7,7 @@ Thalassemia là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọ
 
 Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, tan huyết và gây thiếu máu mạn tính. Mức độ nặng hay nhẹ phụ thuộc vào loại và số lượng gen bị tổn thương.
 
-## Cơ chế
+## Bệnh sinh
 
 - **Chuỗi α-globin** do 4 gene trên NST 16 quy định; đột biến kiểu deletion gây α-thalassemia.
 - **Chuỗi β-globin** do 2 gene trên NST 11 quy định; đột biến điểm (mutation) gây β-thalassemia.

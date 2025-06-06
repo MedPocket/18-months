@@ -59,7 +59,7 @@ _Vòng Bandl bệnh lý khi có chuyển dạ tắc nghẽn. Phía trên đáy t
 
 - Khi cổ tử cung bắt đầu mở, nút nhầy bong ra, một phần túi ối bị đẩy xuống qua lỗ cổ tử cung tạo thành "đầu ối".
 - Đầu ối có vai trò như "nêm thủy lực" giúp cổ tử cung mở nhanh hơn khi ngôi thai còn cao.
-  
+
   ![Thành lập đầu ối](../../../../assets/san-khoa/sinh-ly-chuyen-da/thanh-lap-dau-oi.png)
 
   _Thành lập đầu ối phía trước ngôi thai, ở vị trí lỗ cổ tử cung._

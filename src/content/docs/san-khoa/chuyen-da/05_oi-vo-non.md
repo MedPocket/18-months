@@ -166,7 +166,7 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 ## Nhiễm trùng ối
 
 - Là tình trạng nhiễm trùng ngoại khoa cần xử lý ngay. **Nguyên tắc**:
-  
+
   1. Dùng kháng sinh phổ rộng phối hợp.
   2. Chấm dứt thai kỳ càng sớm càng tốt.
 

@@ -22,7 +22,7 @@ description: Ngôi, thế, kiểu thế khi sinh.
 - **Ngôi thóp trước**: Đầu ở tư thế trung gian, thóp trước trình diện.
 - **Ngôi trán**: Đầu ngửa trung gian, trán là phần trình diện.
 - **Ngôi mặt**: Đầu ngửa tối đa, gáy chạm lưng, cằm là phần trình diện.
-  
+
   ![Ngôi đầu](../../../../assets/san-khoa/ngoi-the-kieu-the/ngoi-dau.png)
 
   _Ngôi đầu._

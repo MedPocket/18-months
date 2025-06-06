@@ -5,7 +5,7 @@ description: Rau bong non là tình trạng rau bám đúng vị trí nhưng bon
 
 Rau bong non được định nghĩa là trường hợp rau bám đúng vị trí nhưng bị bong sớm trước khi thai sổ ra ngoài.
 
-## Cơ chế bệnh sinh
+## Bệnh sinh
 
 ### Cơ chế
 

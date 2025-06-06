@@ -46,7 +46,7 @@ Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, 
   - Ức chế co cơ trơn tử cung, đóng cổ tử cung.
   - Phối hợp với estrogen điều hòa trục HPT.
 
-## Cơ chế tác động
+## Tác động
 
 Steroid sinh dục tác động lên tế bào đích theo hai đường:
 

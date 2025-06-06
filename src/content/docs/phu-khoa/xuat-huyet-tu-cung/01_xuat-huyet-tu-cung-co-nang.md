@@ -5,7 +5,7 @@ description: Cơ chế, nguyên nhân, cách tiếp cận chẩn đoán và xử
 
 Xuất huyết tử cung chức năng là kiểu xuất huyết tử cung bất thường gây ra do các cơ chế liên quan đến hoạt động nội tiết của buồng trứng hoặc do sử dụng nội tiết ngoại lai. Thuật ngữ này loại trừ tất cả các trường hợp xuất huyết tử cung có liên quan đến bệnh lý thực thể vùng chậu, bệnh lý nội khoa hoặc thai nghén. Chẩn đoán xuất huyết tử cung chức năng là một chẩn đoán loại trừ, chỉ được đưa ra sau khi đã loại trừ các nguyên nhân thực thể và nội khoa khác.
 
-## Cơ chế
+## Bệnh sinh
 
 Xuất huyết tử cung chức năng thường xảy ra khi nội mạc tử cung không còn chịu ảnh hưởng của nội tiết có chu kỳ. Trong chu kỳ có phóng noãn, nội mạc tử cung phát triển dưới tác động của estrogen ở nửa đầu chu kỳ, sau đó là sự kết hợp của estrogen và progesterone ở nửa sau. Khi không có phóng noãn, estrogen đơn độc tiếp tục kích thích nội mạc tử cung kéo dài, dẫn đến tăng sinh liên tục mà không bong tróc theo chu kỳ. Điều này khiến các mạch máu nuôi nội mạc không đủ cung cấp máu, gây thiếu máu cục bộ, hoại tử từng vùng, bong tróc không đều và gây ra xuất huyết tử cung.
 

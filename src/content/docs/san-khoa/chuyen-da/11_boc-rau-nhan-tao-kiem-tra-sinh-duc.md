@@ -22,21 +22,21 @@ Sau sổ thai, cần theo dõi sinh hiệu và lượng máu mất, **không** x
 ### Chuẩn bị
 
 - Giải thích rõ cho sản phụ, lấy chấp thuận.
-- Trang bị: găng tay dài vô khuẩn, champs, đầy đủ dụng cụ theo dõi, đường truyền IV.
-- Thuốc: atropin 0.25 mg SC/IV, giảm đau (morphin, dolargan), seduxen.
+- Trang bị: găng tay dài vô khuẩn, champs, đầy đủ dụng cụ theo dõi, đường truyền tĩnh mạch.
+- Thuốc: atropin 0.25 mg tiêm bắp/tĩnh mạch, giảm đau (morphin, dolargan), seduxen.
 - Sát khuẩn âm hộ, đặt sản phụ tư thế sản khoa (đầu hơi cao).
 
 ### Kỹ thuật
+
+![Kỹ thuật bóc rau nhân tạo](../../../../assets/san-khoa/boc-rau-nhan-tao-kiem-tra-sinh-duc/ky-thuat-boc-rau-nhan-tao.png)
+
+_Kỹ thuật bóc rau nhân tạo._
 
 1. Ấn giữ đáy tử cung qua thành bụng bằng 1 tay.
 2. Tay kia (đeo găng) lần theo dây rốn vào buồng tử cung, tìm mép bánh rau.
 3. Lách bề mặt lòng bàn tay giữa rau và thành tử cung, lòng bàn tay ôm rau.
 4. Tách nhẹ & từ từ cho đến khi rau bong hoàn toàn, rồi kéo rau ra ngoài.
 5. Kiểm tra bánh rau, màng rau, dây rốn đầy đủ.
-
-![Kỹ thuật bóc rau nhân tạo](../../../../assets/san-khoa/boc-rau-nhan-tao-kiem-tra-sinh-duc/ky-thuat-boc-rau-nhan-tao.png)
-
-_Kỹ thuật bóc rau nhân tạo._
 
 ### Tai biến
 
@@ -72,7 +72,7 @@ Tương tự bóc rau: vô khuẩn, đường truyền tĩnh mạch, thuốc gi�
 
 5. Rút tay ra sau khi đã kiểm tra xong, không thao tác nhiều lần để tránh nhiễm trùng.
 
-### Sau kiểm tra
+### Sau thủ thuật
 
 - Tiêm thêm thuốc co hồi (oxytocin).
 - Theo dõi sinh hiệu, lượng máu âm đạo.
@@ -92,14 +92,13 @@ Như kiểm tra tử cung, thêm valve âm đạo, kìm tim, gạc, dụng cụ 
 
 ### Kỹ thuật
 
+Rách nhỏ (<2 cm) thường tự lành; rách lớn phải khâu, ưu tiên khâu cổ trước, sau đó khâu âm đạo.
+
 1. Ấn đáy tử cung giữ cố định.
 2. Người thứ hai đặt valve mở âm đạo.
-3. Dùng kìm tim kẹp lần lượt ở các "giờ" trên vòng cổ tử cung (12 giờ, 2 giờ, 4 giờ… 10 giờ), kiểm tra khoảng giữa mỗi lần kẹp:
-   - Rách, chảy máu, phù nền.
+3. Dùng kìm tim kẹp lần lượt ở các "giờ" trên vòng cổ tử cung (12 giờ, 2 giờ, 4 giờ… 10 giờ), kiểm tra khoảng giữa mỗi lần kẹp: Rách, chảy máu, phù nền.
 4. Lần mò quanh toàn bộ cổ tử cung theo kim đồng hồ.
 5. Lưu ý rách thường ở 3 giờ hoặc 9 giờ, có thể lan vào đoạn dưới.
-
-> Rách nhỏ (<2 cm) thường tự lành; rách lớn phải khâu, ưu tiên khâu cổ trước, sau đó khâu âm đạo.
 
 ## Kiểm tra âm đạo & tầng sinh môn
 

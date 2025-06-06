@@ -30,7 +30,7 @@ Chẩn đoán khi có ≥ 2/3 tiêu chí:.
 Nếu chỉ có hình ảnh buồng trứng đa nang mà không có triệu chứng khác, chưa chẩn đoán PCOS cho đến khi xuất hiện rối loạn kinh nguyệt hoặc cường androgen.
 :::
 
-## Cơ chế bệnh sinh phụ trợ
+## Bệnh sinh
 
 - **Kháng insulin**: tăng insulin → tăng androgen.
 - **Tăng LH/FSH**: tần số và biên độ xung LH tăng.

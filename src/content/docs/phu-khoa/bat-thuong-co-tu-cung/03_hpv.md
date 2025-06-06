@@ -63,7 +63,7 @@ _Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ ch
 
 ## Vaccine HPV
 
-### Cơ chế của vaccine
+### Tác động
 
 - Dùng virus-like particles (VLP) từ protein L1, không chứa DNA, không gây nhiễm.
 - Kích thích B-cell và T-cell tạo kháng thể IgG đặc hiệu.

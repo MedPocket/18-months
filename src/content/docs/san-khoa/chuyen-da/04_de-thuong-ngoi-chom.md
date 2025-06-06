@@ -5,7 +5,7 @@ description: Đặc điểm ẻ thường ngôi chỏm.
 
 Ngôi chỏm là ngôi thai mà trong đa số các trường hợp có thể sinh qua đường âm đạo.
 
-## Cơ chế
+## Bệnh sinh
 
 Trong cuộc sinh ngôi chỏm, các phần lớn nhất của thai (đầu, vai, mông) sẽ lần lượt vượt qua các eo của khung chậu: eo trên, eo giữa, eo dưới. Quá trình này bao gồm các thì tuần tự sau:
 

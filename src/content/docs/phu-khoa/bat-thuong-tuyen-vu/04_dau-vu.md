@@ -21,7 +21,7 @@ description: Đau vú (mastalgia) là triệu chứng phổ biến khiến phụ
 
 ### Đau vú theo chu kỳ
 
-#### Cơ chế
+#### Bệnh sinh
 
 Nguyên nhân chính của đau vú theo chu kỳ liên quan đến thay đổi nội tiết tố trong chu kỳ kinh nguyệt. Có ba giả thuyết lớn:
 
