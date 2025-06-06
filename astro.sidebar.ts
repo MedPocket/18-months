@@ -113,9 +113,9 @@ export const sidebar = starlightSidebarTopics([
     icon: "forward-slash",
     items: [
       {
-        label: "Hệ sinh dục",
+        label: "Hệ sinh dục nữ",
         autogenerate: {
-          directory: "phu-khoa/he-sinh-duc",
+          directory: "phu-khoa/he-sinh-duc-nu",
         },
         collapsed: true,
       },
