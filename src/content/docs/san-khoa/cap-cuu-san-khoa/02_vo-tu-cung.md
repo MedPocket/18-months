@@ -26,7 +26,7 @@ Có 2 tình huống vỡ tử cung:
 - Tăng co bằng Oxytocin, nhất là khi thực hiện không đúng hoặc trên thai phụ đa sản.
 - Khởi phát chuyển dạ bằng misoprostol (không được phép dùng cho thai sống đủ tháng ở Việt Nam).
 
-## Dấu hiệu lâm sàng
+## Chẩn đoán
 
 ### Chuyển dạ tắc nghẽn
 

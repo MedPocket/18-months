@@ -49,7 +49,7 @@ Siêu âm qua đường âm đạo đo khoảng cách (mm) giữa mép bánh rau
 - Mất máu nhiều, choáng, tử vong.
 - Cắt tử cung, tổn thương niệu quản, rối loạn đông máu, nhiễm trùng.
 
-### Với con
+### Với thai
 
 - Sinh non, suy hô hấp, tử vong chu sinh.
 
