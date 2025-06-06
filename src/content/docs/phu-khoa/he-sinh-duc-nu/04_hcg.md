@@ -11,7 +11,7 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 - **Phụ**: thận, tuyến yên, một số mô khác → giải thích hCG tăng trong u tân sinh ngoài bánh rau.
 - **Mức nền**: rất thấp ở nam và nữ không có thai (nhiều khả năng từ tuyến yên trước).
 
-## Cấu trúc & sinh tổng hợp
+## Sinh tổng hợp
 
 - **Hai tiểu đơn vị** α (CGA, chung với FSH/LH/TSH; gene trên Chr6) và β (CGB, gene đa bản sao trên Chr19).
 - **β-hCG** có đoạn C-terminal kéo dài → thời gian bán hủy dài hơn LH.

@@ -52,19 +52,19 @@ Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, 
 
 ## Tác động
 
-Steroid sinh dục tác động lên tế bào đích theo hai đường:
+Steroid sinh dục tác động lên tế bào đích theo hai đường qua gene và không qua gene.
 
-1. **Genomic (qua gene)**
+### Qua gene
 
-   - Hormone khuếch tán vào tế bào, gắn với **thụ thể nhân** (ER-α/ER-β cho estrogen; PR-A/PR-B cho progesterone; AR cho androgen).
-   - Phức hợp hormone–thụ thể cắt HSP, hóa trị dimer, gắn lên ERE/​PRE/​ARE (Estrogen/Progesterone/​Androgen Response Elements) trên DNA.
-   - Tuyến tính: chậm (giờ–ngày), khởi phát protein mới.
+  - Hormone khuếch tán vào tế bào, gắn với **thụ thể nhân** (ER-α/ER-β cho estrogen; PR-A/PR-B cho progesterone; AR cho androgen).
+  - Phức hợp hormone–thụ thể cắt HSP, hóa trị dimer, gắn lên ERE/​PRE/​ARE (Estrogen/Progesterone/​Androgen Response Elements) trên DNA.
+  - Tuyến tính: chậm (giờ–ngày), khởi phát protein mới.
 
-2. **Non-genomic (không qua gene)**
+### Không qua gene
 
-   - Gắn với **thụ thể màng** (GPCR như GPER cho estrogen, mAR cho androgen).
-   - Kích hoạt second messenger (Ca²⁺, cAMP, PI3K/Akt, MAPK…)
-   - Khởi phát nhanh (giây–phút), không yêu cầu nồng độ quá thấp.
+- Gắn với **thụ thể màng** (GPCR như GPER cho estrogen, mAR cho androgen).
+- Kích hoạt second messenger (Ca²⁺, cAMP, PI3K/Akt, MAPK…)
+- Khởi phát nhanh (giây–phút), không yêu cầu nồng độ quá thấp.
 
 :::caution[Lưu ý]
 Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có thể điều hòa biểu hiện gene gián tiếp qua các đường tín hiệu thứ cấp.
@@ -85,7 +85,7 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 - **Estrogen**: chế tiết chất nhầy loãng, thuận tinh trùng.
 - **Progesterone**: chất nhầy đặc, ngăn vi khuẩn và tinh trùng.
 
-### Cơ trơn ống dẫn trứng & tử cung
+### Ống dẫn trứng & tử cung
 
 - **Estrogen**: tăng co thắt nhu động trứng về tử cung, đóng lỗ vòi.
 - **Progesterone**: giãn cơ trơn, mở lối vào buồng tử cung, hỗ trợ làm tổ.
@@ -100,7 +100,7 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 - **Tuyến vú**: genomic qua ER → phát triển ống tuyến, mô đệm.
 - **Xương, mạch máu, não**: non-genomic & genomic → duy trì mật độ xương, phân bố mỡ, chức năng thần kinh.
 
-## Thụ thể nhân chuyên biệt
+## Thụ thể
 
 | Thụ thể | Gene       | Isoform             | Chức năng                                                         |
 | ------- | ---------- | ------------------- | ----------------------------------------------------------------- |
