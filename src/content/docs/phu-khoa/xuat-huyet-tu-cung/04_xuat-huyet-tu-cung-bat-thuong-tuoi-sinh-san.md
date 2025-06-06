@@ -141,7 +141,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
 
 ## Điều trị AUB
 
-### Nguyên tắc chung
+### Nguyên tắc
 
 1. **Cầm máu cấp** (nếu AUB cấp tính hoặc mạn tính nặng):
 

@@ -83,7 +83,7 @@ _Tiết dịch âm đạo đặc, các mảng trắng bám thành âm đạo, ni
 
 ## Điều trị
 
-### Nguyên tắc điều trị
+### Nguyên tắc
 
 - Việc tự dùng thuốc không kê toa cho VVC có thể an toàn và hiệu quả nếu bệnh nhân hiểu rõ triệu chứng điển hình.
 - Nếu không đáp ứng hoặc tái phát sớm sau điều trị, cần khám bởi bác sĩ để xác định chính xác tình trạng và nguyên nhân (chủng Candida, yếu tố nguy cơ).

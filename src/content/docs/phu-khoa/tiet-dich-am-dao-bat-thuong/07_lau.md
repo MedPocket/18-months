@@ -154,7 +154,7 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
 
 ## Điều trị
 
-### Nguyên tắc chung
+### Nguyên tắc
 
 1. **Điều trị sớm, đủ liều và đúng phác đồ** để ngăn ngừa biến chứng và giảm nguy cơ kháng thuốc.
 2. **Điều trị đồng nhiễm Chlamydia**: Kết hợp thuốc phù hợp để bao phủ cả hai tác nhân.

@@ -118,7 +118,7 @@ Biểu hiện kèm: ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng 
 
 ## Điều trị
 
-### Nguyên tắc chung
+### Nguyên tắc
 
 - Tránh lao động nặng, kiêng giao hợp, không kích thích đầu vú.
 - Nghỉ ngơi hợp lý (không bắt buộc nằm giường tuyệt đối).

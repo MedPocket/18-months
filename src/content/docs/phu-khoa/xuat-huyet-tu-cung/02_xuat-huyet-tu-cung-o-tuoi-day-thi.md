@@ -147,8 +147,9 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
 
 ## Điều trị
 
-### Nguyên tắc không làm ảnh hưởng đến hệ trục hạ đồi-yên-buồng trứng
+### Nguyên tắc
 
+- Không làm ảnh hưởng đến hệ trục hạ đồi-yên-buồng trứng.
 - Xuất huyết tử cung cơ năng tuổi dậy thì thường **tự ổn định** sau 2–3 năm, khi hệ trục HPG hoàn thiện.
 - Tiên lượng tốt: > 80% bé gái có chu kỳ đều đặn trở lại sau khoảng 2 năm kể từ lần hành kinh đầu.
 - **Mục tiêu theo dõi**:

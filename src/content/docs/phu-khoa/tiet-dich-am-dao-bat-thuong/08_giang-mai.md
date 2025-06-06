@@ -217,7 +217,7 @@ Các xét nghiệm nhanh có:
 
 ## Điều trị
 
-### Nguyên tắc điều trị
+### Nguyên tắc
 
 - **Xác định giai đoạn bệnh** (giang mai sớm ≤ 2 năm, giang mai muộn > 2 năm hoặc không rõ).
 - **Điều trị sớm, đúng phác đồ, đủ liều** để ngăn ngừa biến chứng và lây lan.

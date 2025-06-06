@@ -113,7 +113,7 @@ Nếu có hai trong ba tiêu chuẩn trên, chẩn đoán BV.
 
 Mục tiêu điều trị là khôi phục cân bằng hệ vi sinh, giảm triệu chứng và ngăn ngừa biến chứng, đặc biệt ở phụ nữ mang thai.
 
-### Nguyên tắc điều trị
+### Nguyên tắc
 
 - **Ưu tiên tiêu chuẩn Amsel ≥3/4 hoặc Nugent ≥7** trước khi chỉ định điều trị, trừ trường hợp dự phòng trước mổ hoặc phụ nữ mang thai nguy cơ cao.
 - **Điều trị thuốc**: Chọn Metronidazole hoặc Clindamycin theo liều và đường dùng nêu trên.
@@ -125,7 +125,7 @@ Mục tiêu điều trị là khôi phục cân bằng hệ vi sinh, giảm tri�
   - Sử dụng đồ lót thoáng, thấm hút tốt;
   - Hạn chế quan hệ tình dục không dùng bao cao su hoặc có nhiều bạn tình.
 
-### Chỉ định điều trị
+### Chỉ định
 
 1. **BV có triệu chứng lâm sàng (huyết trắng nhiều, mùi hôi)**:
 
