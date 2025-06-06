@@ -9,15 +9,9 @@ Hội chứng buồng trứng đa nang (PCOS – Polycystic Ovary Syndrome) là 
 - Cường androgen (rậm lông, mụn, hói đầu, cường testosterone).
 - Hình ảnh buồng trứng đa nang trên siêu âm.
 
-PCOS liên quan tới kháng insulin, béo phì trung tâm và nguy cơ hội chứng chuyển hóa. Tiêu chuẩn Rotterdam (2003) yêu cầu ≥ 2/3 tiêu chuẩn để chẩn đoán, sau khi đã loại trừ các nguyên nhân khác.
+## Chẩn đoán
 
-## Định nghĩa
-
-- **PCOS**: Tổ hợp triệu chứng rối loạn phóng noãn, cường androgen, và/hoặc buồng trứng đa nang trên siêu âm.
-- **Siêu âm**: ≥ 12 nang kích thước 2–9 mm trên một mặt cắt **và/hoặc** thể tích buồng trứng > 10 mL.
-
-## Chẩn đoán theo Rotterdam 2003
-
+:::note[Chẩn đoán theo Rotterdam 2003]
 Chẩn đoán khi có ≥ 2/3 tiêu chí:.
 
 1. **Rối loạn phóng noãn**: kinh thưa (> 35 ngày hoặc < 8 lần/năm).
@@ -25,6 +19,7 @@ Chẩn đoán khi có ≥ 2/3 tiêu chí:.
    - **Lâm sàng**: rậm lông (Ferriman–Gallwey), mụn trứng cá, hói đầu kiểu nam, béo phì trung tâm (BMI > 23 kg/m² hoặc vòng eo > 80 cm, WHR > 0.85).
    - **Cận lâm sàng**: FTI (TT/SHBG × 100) > 6.
 3. **Buồng trứng đa nang**: ≥ 12 nang 2–9 mm trên mặt cắt **và/hoặc** thể tích > 10 mL.
+:::
 
 :::caution[Lưu ý]
 Nếu chỉ có hình ảnh buồng trứng đa nang mà không có triệu chứng khác, chưa chẩn đoán PCOS cho đến khi xuất hiện rối loạn kinh nguyệt hoặc cường androgen.
@@ -51,7 +46,7 @@ Có 3 trong 5 tiêu chuẩn.
 
 ## Điều trị
 
-### Người bệnh không mong muốn có thai
+### Không mong có thai
 
 Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 
@@ -59,7 +54,7 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 - Cường androgen (rậm lông, béo phì, mụn trứng cá, hói đầu).
 - Hội chứng chuyển hóa (tiểu đường, tăng lipid máu).
 
-#### Điều trị rối loạn kinh nguyệt
+#### Rối loạn kinh nguyệt
 
 - **Progestogen đơn thuần**: dùng tối thiểu 12 ngày để giảm nguy cơ tăng sinh nội mạc tử cung và ung thư nội mạc tử cung.
 - **Viên tránh thai kết hợp** (ethinyl estradiol + progestogen kháng androgen như cyproterone, drospirenone): điều hòa kinh nguyệt, giảm nguy cơ tăng sinh nội mạc tử cung.
@@ -75,20 +70,20 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 - Phụ nữ PCOS không mong muốn có thai có thể sử dụng tất cả các biện pháp tránh thai.
 - Cân nhắc nguy cơ béo phì và kháng insulin khi chỉ định viên tránh thai kết hợp đường uống.
 
-### Người bệnh mong muốn có thai
+### Mong có thai
 
 Mục tiêu: gây phóng noãn đơn noãn, gần với sinh lý, tránh quá kích buồng trứng và đa thai.
 
-#### Giảm cân & thay đổi lối sống
+#### Thay đổi lối sống
 
 - Chế độ ăn giảm năng lượng (giảm chất béo, tăng chất xơ) và tăng hoạt động thể chất.
-- Giảm ≥5% trọng lượng cơ thể có thể phục hồi phóng noãn tự nhiên.
+- Giảm ≥ 5% trọng lượng cơ thể có thể phục hồi phóng noãn tự nhiên.
 
 #### Clomiphene citrate (CC)
 
 - Lựa chọn đầu tay khi PCOS là nguyên nhân chính gây vô sinh và không có yếu tố phối hợp khác.
 - Liều khởi đầu: 50 mg/ngày × 5 ngày (ngày 2–5 chu kỳ)
-- Liều tối đa: 150 mg/ngày; không điều trị quá 6 chu kỳ liên tiếp hoặc >12 chu kỳ suốt đời sinh sản.
+- Liều tối đa: 150 mg/ngày; không điều trị quá 6 chu kỳ liên tiếp hoặc > 12 chu kỳ suốt đời sinh sản.
 - Đề kháng CC: không phóng noãn sau 3–6 chu kỳ điều trị.
 
 #### Metformin (thuốc tăng nhạy cảm insulin)
