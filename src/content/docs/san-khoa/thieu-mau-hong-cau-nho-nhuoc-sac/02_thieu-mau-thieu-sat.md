@@ -1,9 +1,11 @@
 ---
-title: Thiếu máu thiếu sắt
-description: Tìm hiểu nguyên nhân, hệ quả, chẩn đoán, điều trị và dự phòng thiếu máu thiếu sắt trong thai kỳ – tình trạng phổ biến ảnh hưởng nghiêm trọng đến sức khỏe mẹ và thai nhi.
+title: Thiếu máu thiếu sắt trong thai kỳ
+description: Nguyên nhân, hệ quả, chẩn đoán, điều trị và dự phòng thiếu máu thiếu sắt trong thai kỳ.
 ---
 
-## Hệ quả của thiếu máu thiếu sắt trong thai kỳ
+Thiếu máu thiếu sắt trong thai kỳ là tình trạng rất phổ biến, chiếm khoảng 40–50% các ca thiếu máu ở phụ nữ mang thai, và là nguyên nhân hàng đầu gây mệt mỏi, sinh non, nhẹ cân và băng huyết sau sinh nếu không được chẩn đoán và điều trị kịp thời.
+
+## Hệ quả
 
 | Đối tượng                 | Thiếu máu thiếu sắt                                                                                                                          | Thiếu máu thiếu acid folic                                                                                                                                    |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
