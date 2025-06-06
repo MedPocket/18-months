@@ -3,7 +3,7 @@ title: Tầm soát và dự phòng tiền sản giật
 description: Tầm soát và dự phòng tiền sản giật trong tam cá nguyệt đầu.
 ---
 
-Tầm soát tiền sản giật được thực hiện từ tuần 11 đến tuần 13+6.
+Việc tầm soát và dự phòng tiền sản giật là cực kỳ quan trọng để đảm bảo an toàn cho mẹ và thai nhi, vì tiền sản giật thường khởi phát âm thầm, nhưng có thể diễn tiến nhanh và gây hậu quả nghiêm trọng nếu không phát hiện sớm. Tầm soát tiền sản giật là quá trình xác định sớm nguy cơ từ tam cá nguyệt đầu tiên (trước 13 tuần) để có biện pháp can thiệp kịp thời.
 
 ## Tầm soát
 
@@ -57,9 +57,9 @@ _Bảng đánh giá lâm sàng nguy cơ tiền sản giật._
 - Khởi aspirin từ tuần 12–16, tối đa không muộn hơn 28 tuần.
 - Dừng vào tuần 36.
 
-![Lưu đồ tầm soát tiền sản giật 3 tháng đầu](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
+![Lưu đồ tầm soát tiền sản giật 3 tháng đầu – Bệnh viện Từ Dũ](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
 
-_Lưu đồ tầm soát 3 tháng đầu._
+_Lưu đồ tầm soát tiền sản giật 3 tháng đầu – Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 

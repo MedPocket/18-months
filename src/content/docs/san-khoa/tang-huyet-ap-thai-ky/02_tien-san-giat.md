@@ -1,11 +1,132 @@
 ---
-title: Thuốc điều trị trong tiền sản giật
-description: Các thuốc phòng ngừa và điều trị tiền sản giật.
+title: Tiền sản giật
+description: Chẩn đoán, biến chứng, xử trí và dự phòng tiền sản giật trong thai kỳ.
 ---
 
-Các thuốc phòng ngừa và điều trị tiền sản giật gồm thuốc chống co giật và chống tăng huyết áp.
+Tiền sản giật (Preeclampsia) là một rối loạn đặc trưng bởi tăng huyết áp và tổn thương các cơ quan (thường là thận) xuất hiện sau tuần thai thứ 20. Đây là một trong những biến chứng sản khoa nghiêm trọng, có thể ảnh hưởng cả mẹ và thai nhi nếu không được phát hiện, theo dõi và xử trí kịp thời.
 
-## Thuốc chống co giật (MgSO₄)
+## Chẩn đoán
+
+:::note[Tiêu chuẩn chẩn đoán tiền sản giật]
+
+Theo ACOG Task Force 2013
+
+| Tiêu chí     | Chi tiết                                                                                                                                                                                                                                                                                                                              |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Huyết áp** | - Huyết áp tâm thu ≥ 140 mmHg **HOẶC** huyết áp tâm trương ≥ 90 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ, xuất hiện sau tuần thứ 20 của thai kỳ ở phụ nữ có huyết áp bình thường trước đó<br>- Huyết áp tâm thu ≥ 160 mmHg **HOẶC** huyết áp tâm trương ≥ 110 mmHg (xác định trong khoảng thời gian ngắn và cần điều trị hạ áp ngay) |
+| và           |                                                                                                                                                                                                                                                                                                                                       |
+| **Đạm niệu** | - ≥ 300 mg/24 giờ (hoặc suy ra từ thời gian thu thập nước tiểu tương ứng)<br>- Tỷ số Protein/creatinin ≥ 0.3<br>- Dip-Stick ≥ 1+ (chỉ dùng khi không có phương pháp định lượng khác)                                                                                                                                                  |
+
+**Hoặc** trong trường hợp **không có đạm niệu**, tăng huyết áp mới xuất hiện kèm **ít nhất 1 trong các dấu hiệu sau**:
+
+- **Giảm tiểu cầu**: Tiểu cầu < 100,000 /µL.
+- **Suy thận**: Creatinin huyết thanh > 1.1 mg/dL hoặc gấp đôi nồng độ bình thường (không do bệnh lý thận khác).
+- **Suy tế bào gan**: Men gan tăng gấp 2 lần bình thường.
+- **Phù phổi**.
+- **Triệu chứng não/thị giác**: Đau đầu dữ dội, rối loạn thị giác, co giật.
+  :::
+
+## Phân loại
+
+- **Không có dấu hiệu nặng.**
+- **Có dấu hiệu nặng** (chỉ cần một trong các dấu hiệu dưới đây):
+
+  1. Huyết áp tâm thu ≥ 160 mmHg hoặc tâm trương ≥ 110 mmHg (đo 2 lần cách nhau ≥ 4h).
+  2. Tiểu cầu < 100,000 /µL.
+  3. Men gan tăng > 2 lần bình thường, đau hạ sườn phải/thượng vị không đáp ứng thuốc.
+  4. Creatinine > 1.1 mg/dL hoặc tăng gấp đôi không do bệnh lý thận khác.
+  5. Phù phổi.
+  6. Triệu chứng thần kinh, thị giác: nhức đầu, mờ mắt, ám điểm, co thắt mạch máu võng mạc, thay đổi tri giác.
+
+## Tiên lượng
+
+- **Trước 34 tuần**: tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật…
+
+## Biến chứng
+
+### Với mẹ
+
+- Sản giật.
+- Hoại tử tế bào gan.
+- HELLP.
+- Suy thận.
+- Phù não, xuất huyết não.
+- Phù phổi cấp.
+- Rau bong non.
+- Băng huyết sau sinh.
+
+### Với thai
+
+- Tử vong chu sinh.
+- Đẻ non.
+- Thai chậm tăng trưởng trong buồng tử cung.
+
+## Nguyên tắc điều trị
+
+**Sinh là biện pháp duy nhất để chấm dứt tiền sản giật.**
+
+### Không có dấu hiệu nặng
+
+- **Theo dõi ngoại trú.**
+- Không dùng thuốc hạ áp, lợi tiểu hay an thần.
+- **Nhập viện và chấm dứt thai kỳ nếu**:
+  - Thai ≥ 37 tuần.
+  - Nghi ngờ rau bong non.
+  - Thai ≥ 34 tuần + 1 trong các yếu tố:
+    - Chuyển dạ/vỡ ối.
+    - Trọng lượng thai < bách phân vị 5.
+    - Thiểu ối (AFI < 5 cm, 2 lần cách nhau 24 giờ).
+
+:::note[Lưu đồ xử trí]
+![Lưu đồ xử trí tiền sản giật không dấu hiệu nặng – Bệnh viện Từ Dũ](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-khong-co-dau-hieu-nang.png)
+
+_Lưu đồ xử trí tiền sản giật không dấu hiệu nặng – Bệnh viện Từ Dũ._
+:::
+
+### Có dấu hiệu nặng
+
+Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
+
+- Phù phổi.
+- Sản giật.
+- HELLP.
+- NST không đáp ứng.
+- Thai lưu.
+- Suy thận, giảm tiểu cầu, rau bong non…
+
+Có thể trì hoãn nếu thai < 34 tuần và mẹ - thai ổn định để sử dụng corticosteroids.
+
+:::note[Lưu đồ xử trí]
+![Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
+
+_Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ._
+:::
+
+Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại địa phương 7–10 ngày sau sinh.
+
+### Không chờ đợi điều trị
+
+#### Với mẹ
+
+- THA nặng không kiểm soát.
+- Đau đầu/thượng vị không đáp ứng.
+- Rối loạn thị giác, đột quỵ, nhồi máu cơ tim.
+- HELLP.
+- Suy thận mới khởi phát.
+- Sản giật.
+- Phù phổi.
+- Nghi ngờ rau bong non.
+
+#### Với thai
+
+- Đánh giá sức khỏe bất thường.
+- Thai lưu.
+- Thai không khả năng sống.
+- Đảo ngược sóng tâm trương ĐM rốn.
+
+## Điều trị
+
+### Thuốc chống co giật (MgSO₄)
 
 **Cơ chế**:
 
@@ -53,7 +174,7 @@ Theo dõi và xử trí ngộ độc MgSO₄:
 
 :::
 
-## Thuốc chống tăng huyết áp
+### Thuốc chống tăng huyết áp
 
 **Mục tiêu**: HA duy trì 140–150/90–100 mmHg (không hạ quá nhanh để tránh giảm tưới máu tử cung–rau).
 
@@ -86,21 +207,21 @@ Theo dõi và xử trí ngộ độc MgSO₄:
 
 _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 
-### α-Methyldopa
+#### α-Methyldopa
 
 - **An toàn nhất** trong thai kỳ.
 - Liều khởi đầu: 250 mg x 1–3 lần/ngày; tối đa 2 g/ngày.
 - Tác dụng phụ: trầm cảm, buồn ngủ, chóng mặt, rối loạn gan.
 - Chống chỉ định: viêm/xơ gan, thiếu máu tán huyết, trầm cảm nặng.
 
-### Hydralazine
+#### Hydralazine
 
 - Giãn tiểu động mạch ngoại vi nhanh, hạ áp sau 10–30 phút, tác dụng kéo dài 2–4 giờ.
 - **Liều TM chậm**: 5 mg (1–2 phút); nếu cần, 5–10 mg sau 15–20 phút; tối đa 25 mg.
 - Tác dụng phụ: nhịp nhanh, đánh trống ngực, đau đầu, hạ áp đột ngột → suy thai.
 - Chống chỉ định: mẫn cảm, bệnh động mạch vành nặng, van 2 lá, lupus hoạt động.
 
-### Labetalol
+#### Labetalol
 
 - Chẹn α, β giao cảm → chậm nhịp, hạ áp.
 - **Liều bolus TM**: 10–20 mg; nếu cần, 20–80 mg mỗi 10–30 phút (tối đa 300 mg).
@@ -108,7 +229,7 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 - Tác dụng phụ: Ít nhịp nhanh phản xạ.
 - Chống chỉ định: suy tim, hen, block tim.
 
-### Nifedipine
+#### Nifedipine
 
 - Chẹn kênh Ca²⁺ loại L → giãn mạch nhanh hơn Hydralazine.
 - **Liều uống tác dụng nhanh**: 10–20 mg cách 20–30 phút (tối đa 50 mg).
@@ -116,7 +237,7 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 - Tác dụng phụ: nhịp nhanh, đau đầu, hồi hộp.
 - Phối hợp MgSO₄ có thể hạ áp quá mức.
 
-### Nicardipine
+#### Nicardipine
 
 - Tác dụng giống nifedipine, ít ảnh hưởng tim; bắt đầu sau 10 phút, đỉnh 30–120 phút, kéo dài 8 giờ.
 - **Liều uống**: 20 mg x 3 lần/ngày.
@@ -124,13 +245,13 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 - Tác dụng phụ: đau đầu, chóng mặt, buồn nôn.
 - Chống chỉ định: đau thắt ngực không ổn định, sốc tim, hẹp van ĐMC nặng; thận trọng 3 tháng đầu.
 
-### Lợi tiểu
+#### Lợi tiểu
 
 - **Furosemide**: chỉ dùng khi thiểu/vô niệu, phù phổi cấp; liều 20 mg TM chậm.
 - **Không dùng lợi tiểu** thông thường do giảm tưới máu tử cung.
 - Dùng khi thiểu niệu (< 800 mL/24 h, đặc biệt < 400 mL). Liều 20 mg TM chậm, có thể lặp lại theo đáp ứng.
 
-### Ức chế men chuyển
+#### Ức chế men chuyển
 
 - **Không dùng ức chế men chuyển** do nguy cơ dị tật.
 
