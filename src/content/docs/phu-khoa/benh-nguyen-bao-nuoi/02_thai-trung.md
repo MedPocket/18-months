@@ -76,7 +76,7 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 - Công thức máu, nhóm máu Rh.
 - Chức năng gan (AST, ALT), thận (ure, creatinine).
-- Tuyến giáp (TSH, FT3, FT4).
+- Tuyến giáp (TSH, FT₃, FT₄).
 - Điện giải đồ, ECG.
 - X-quang ngực (đánh giá di căn phổi trước điều trị).
 

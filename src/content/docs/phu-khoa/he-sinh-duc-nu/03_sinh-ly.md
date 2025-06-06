@@ -31,7 +31,7 @@ Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chi
 
   _Điều hòa chiêu mộ noãn nang._
 
-## Trục Hạ đồi–Yên–Buồng trứng
+## Trục hạ đồi–tuyến yên–buồng trứng
 
 ### Hạ đồi
 

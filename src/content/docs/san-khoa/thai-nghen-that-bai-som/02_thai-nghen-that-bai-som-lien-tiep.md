@@ -53,7 +53,7 @@ Stress có liên quan đến RPL nhưng không được xác định là nguyên
 ### Khảo sát nội tiết - chuyển hóa
 
 - TSH và TPO-Ab nên sàng lọc định kỳ.
-- Bất thường thyroid theo dõi thêm FT4. Prolactin, insulin, PCOS, sex steroids không khuyến cáo nếu không có dấu hiệu lâm sàng.
+- Bất thường thyroid theo dõi thêm FT₄. Prolactin, insulin, PCOS, sex steroids không khuyến cáo nếu không có dấu hiệu lâm sàng.
 - Vitamin D được bổ sung theo khuyến nghị chung.
 
 ### Khảo sát giải phẫu tử cung

@@ -62,23 +62,24 @@ Tình trạng này xảy ra khi buồng trứng có phóng noãn nhưng hoàng t
 
 ### Cận lâm sàng
 
-- Xét nghiệm cơ bản
+#### Xét nghiệm cơ bản
 
-  | Loại xét nghiệm                                | Mục đích                                                                   |
-  | ---------------------------------------------- | -------------------------------------------------------------------------- |
-  | **hCG (nước tiểu hay máu)**                    | Loại trừ thai                                                              |
-  | **Chức năng đông máu**                         | Loại trừ bệnh lý rối loạn đông máu                                         |
-  | **Pap smear (đơn độc hay co-testing với HPV)** | Loại trừ ung thư cổ tử cung                                                |
-  | **FSH**                                        | > 40 IU/L giúp chẩn đoán suy buồng trứng hay mãn kinh                      |
-  | **TSH**                                        | Loại trừ bệnh lý tuyến giáp                                                |
-  | **Prolactin máu**                              | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn                       |
-  | **MRI sọ não**                                 | Nếu prolactin > 100 ng/mL, cần thêm MRI để khảo sát microadenoma tuyến yên |
-  | **Chỉ số testosterone tự** do                  | Chẩn đoán tình trạng cường androgen trong hội chứng buồng trứng đa nang    |
+| Loại xét nghiệm                                | Mục đích                                                                   |
+| ---------------------------------------------- | -------------------------------------------------------------------------- |
+| **hCG (nước tiểu hay máu)**                    | Loại trừ thai                                                              |
+| **Chức năng đông máu**                         | Loại trừ bệnh lý rối loạn đông máu                                         |
+| **Pap smear (đơn độc hay co-testing với HPV)** | Loại trừ ung thư cổ tử cung                                                |
+| **FSH**                                        | > 40 IU/L giúp chẩn đoán suy buồng trứng hay mãn kinh                      |
+| **TSH**                                        | Loại trừ bệnh lý tuyến giáp                                                |
+| **Prolactin máu**                              | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn                       |
+| **MRI sọ não**                                 | Nếu prolactin > 100 ng/mL, cần thêm MRI để khảo sát microadenoma tuyến yên |
+| **Chỉ số testosterone tự** do                  | Chẩn đoán tình trạng cường androgen trong hội chứng buồng trứng đa nang    |
 
-  _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng._
+_Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng._
 
-- **Siêu âm đầu dò âm đạo** là lựa chọn đầu tay:
-  Có thể thực hiện siêu âm quy ước để khảo sát độ dày nội mạc tử cung, phản âm, bất thường trong buồng tử cung.
+#### Chẩn đoán hình ảnh
+
+- Có thể thực hiện siêu âm quy ước để khảo sát độ dày nội mạc tử cung, phản âm, bất thường trong buồng tử cung.
   
   ![Hình ảnh siêu âm của hội chứng buồng trứng đa nang](../../../../assets/phu-khoa/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-buong-trung-da-nang.png)
 
@@ -92,14 +93,17 @@ Tình trạng này xảy ra khi buồng trứng có phóng noãn nhưng hoàng t
   Siêu âm có thể giúp định hướng nguyên nhân như u xơ tử cung, buồng trứng đa nang... Siêu âm bơm nước buồng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương nội mạc tử cung (polyp, dính buồng tử cung...).
   :::
 
-- **Sinh thiết nội mạc tử cung** là test chẩn đoán xác định, thường được chỉ định khi:
+#### Sinh thiết nội mạc tử cung
+
+- Test chẩn đoán xác định, thường được chỉ định khi:
 
   - Phụ nữ > 35 tuổi có xuất huyết tử cung bất thường.
   - Phụ nữ đã mãn kinh có xuất huyết tử cung.
   - Giúp đánh giá mô học nội mạc tử cung và loại trừ tăng sinh, loạn sản hoặc ung thư.
 
+#### Nội soi buồng tử cung
 
-- **Nội soi buồng tử cung**: Giúp quan sát trực tiếp và loại trừ nguyên nhân thực thể trong buồng tử cung. Chỉ định khi nghi ngờ tổn thương nội mạc không rõ ràng trên siêu âm.
+- Giúp quan sát trực tiếp và loại trừ nguyên nhân thực thể trong buồng tử cung. Chỉ định khi nghi ngờ tổn thương nội mạc không rõ ràng trên siêu âm.
 
 ## Điều trị
 

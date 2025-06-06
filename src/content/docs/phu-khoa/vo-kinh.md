@@ -115,7 +115,7 @@ Hậu quả: bế kinh (âm đạo/phúc mạc phồng), tích huyết tử cung
 
    - Thử thai β-hCG.
    - FSH, LH, estradiol.
-   - Prolactin, TSH, T4.
+   - Prolactin, TSH, T₄.
    - Testosterone, DHEAS.
    - Karyotype (nếu nghi ngờ bất thường di truyền).
 

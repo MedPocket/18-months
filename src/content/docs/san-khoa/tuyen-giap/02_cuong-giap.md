@@ -3,7 +3,7 @@ title: Cường giáp trong thai kỳ
 description: Ảnh hưởng của cường giáp đến mẹ và thai nhi, bao gồm cả chẩn đoán và hướng xử trí phù hợp.
 ---
 
-Cường giáp trong thai kỳ là tình trạng tuyến giáp hoạt động quá mức, tiết ra quá nhiều hormone giáp (T3 – T4), ảnh hưởng đến sức khỏe của mẹ và thai nhi nếu không được phát hiện và điều trị kịp thời. Cường giáp trong thai kỳ làm tăng nguy cơ:
+Cường giáp trong thai kỳ là tình trạng tuyến giáp hoạt động quá mức, tiết ra quá nhiều hormone giáp (T₃ – T₄), ảnh hưởng đến sức khỏe của mẹ và thai nhi nếu không được phát hiện và điều trị kịp thời. Cường giáp trong thai kỳ làm tăng nguy cơ:
 
 - Sinh non.
 - Thai chậm phát triển trong tử cung (IUGR).
