@@ -10,7 +10,7 @@ export const sidebar = starlightSidebarTopics([
       {
         label: "Xuất huyết tử cung trong thai kỳ",
         autogenerate: {
-          directory: "san-khoa/xuat-huyet-tu-cung-trong-thai-ky",
+          directory: "san-khoa/xuat-huyet-tu-cung",
         },
         collapsed: true,
       },
@@ -40,21 +40,21 @@ export const sidebar = starlightSidebarTopics([
       {
         label: "Đái tháo đường thai kỳ",
         autogenerate: {
-          directory: "san-khoa/dai-thao-duong-thai-ky",
+          directory: "san-khoa/dai-thao-duong",
         },
         collapsed: true,
       },
       {
         label: "Tăng huyết áp thai kỳ",
         autogenerate: {
-          directory: "san-khoa/tang-huyet-ap-thai-ky",
+          directory: "san-khoa/tang-huyet-ap",
         },
         collapsed: true,
       },
       {
         label: "Tuyến giáp và thai kỳ",
         autogenerate: {
-          directory: "san-khoa/tuyen-giap-va-thai-ky",
+          directory: "san-khoa/tuyen-giap",
         },
         collapsed: true,
       },
@@ -83,18 +83,18 @@ export const sidebar = starlightSidebarTopics([
       {
         label: "Cấp cứu sản khoa",
         autogenerate: {
-          directory: "san-khoa/cap-cuu-san-khoa",
+          directory: "san-khoa/cap-cuu",
         },
         collapsed: true,
       },
-      "san-khoa/viem-gan-b-va-thai-ky",
-      "san-khoa/hiv-va-thai-ky",
+      "san-khoa/viem-gan-b",
+      "san-khoa/hiv",
       "san-khoa/uon-van",
-      "san-khoa/thuy-dau-trong-thai-ky",
+      "san-khoa/thuy-dau",
       {
         label: "Sử dụng thuốc trong thai kỳ",
         autogenerate: {
-          directory: "san-khoa/su-dung-thuoc-trong-thai-ky",
+          directory: "san-khoa/su-dung-thuoc",
         },
         collapsed: true,
       },
