@@ -46,9 +46,9 @@ _Phân loại theo FIGO 2019._
 
 - Khi siêu âm không rõ hoặc cần đánh giá xâm lấn mặt sau, mức độ percreta.
 
-### Chẩn đoán phân biệt rau tiền đạo
+### Phân biệt
 
-| **Đặc điểm**                  | Rau tiền đạo              | Rau bong non                                                                 |
+| Đặc điểm                      | Rau tiền đạo              | Rau bong non                                                                 |
 | ----------------------------- | ------------------------- | ---------------------------------------------------------------------------- |
 | **Lượng máu mất**             | Thay đổi                  | Thay đổi                                                                     |
 | **Diễn tiến**                 | Thường tự hết sau 1-2 giờ | Thường tiến triển                                                            |
@@ -59,7 +59,7 @@ _Phân loại theo FIGO 2019._
 
 ## Điều trị
 
-### Thời điểm chấm dứt thai kỳ
+### Chấm dứt thai kỳ
 
 - Thường 34–36 tuần, sau corticosteroids tiền sinh.
 

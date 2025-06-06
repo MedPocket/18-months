@@ -484,7 +484,7 @@ Ung thư vú liên quan đến thai kỳ (Pregnancy-Associated Breast Cancer, PA
    - Nếu u lớn hoặc cần hóa trị tiền phẫu, có thể trì hoãn phẫu thuật đến sau sinh (sau sinh nếu > 34–35 tuần).
    - Hóa trị có thể thực hiện trong tam cá nguyệt III nếu cần, theo dõi chặt chẽ cho mẹ và thai nhi.
 
-3. **Quyết định chấm dứt thai kỳ**
+3. **Chấm dứt thai kỳ**
 
    - Chỉ xem xét nếu thai ≥ 30–32 tuần (đủ sống) và mẹ có chỉ định điều trị gấp.
    - Sau chấm dứt, tiếp tục điều trị ung thư vú theo phác đồ tiêu chuẩn.

@@ -9,10 +9,10 @@ Rau tiền đạo là khi bánh rau bám ở đoạn dưới tử cung thay vì 
 
 Phân loại theo mối quan hệ giữa mép bánh rau và lỗ trong cổ tử cung:
 
-- **Rau tiền đạo toàn phần (complete).** Bánh rau che kín toàn bộ lỗ trong cổ tử cung.
-- **Rau tiền đạo một phần (partial).** Bánh rau che một phần lỗ trong cổ tử cung.
-- **Rau bám mép (marginal).** Mép dưới bánh rau chạm đến hoặc sát bờ lỗ trong cổ tử cung.
-- **Rau bám thấp (low-lying).** Bánh rau bám < 20 mm từ lỗ trong cổ tử cung nhưng không chạm vào.
+- **Rau tiền đạo toàn phần (complete)**: bánh rau che kín toàn bộ lỗ trong cổ tử cung.
+- **Rau tiền đạo một phần (partial)**: bánh rau che một phần lỗ trong cổ tử cung.
+- **Rau bám mép (marginal)**: mép dưới bánh rau chạm đến hoặc sát bờ lỗ trong cổ tử cung.
+- **Rau bám thấp (low-lying)**: bánh rau bám < 20 mm từ lỗ trong cổ tử cung nhưng không chạm vào.
 
 Siêu âm qua đường âm đạo đo khoảng cách (mm) giữa mép bánh rau và lỗ trong cổ tử cung để phân loại:
 
@@ -32,7 +32,7 @@ Siêu âm qua đường âm đạo đo khoảng cách (mm) giữa mép bánh rau
 
 ### Lâm sàng
 
-- Ra huyết âm đạo đỏ tươi, đột ngột, không đau bụng, thường xuất hiện 3 tháng giữa hoặc 3 tháng cuối thai kỳ.
+- Ra huyết âm đạo đỏ tươi, đột ngột, không đau bụng, thường xuất hiện 3 tháng giữa hoặc 3 tháng cuối thai kỳ. Máu chảy từ các hồ máu mẹ ở đoạn dưới tử cung không được cơ tử cung co chặt sau sổ rau do thiếu lớp cơ đan chéo như ở thân tử cung. Đợt chảy máu đầu thường ngưng tự nhiên trong 1–2 giờ, nhưng dễ tái phát, không liên quan đến số lần xuất huyết trước.
 - Khám bụng: tử cung mềm, không căng cứng.
 - Khám mỏ vịt (chỉ thực hiện trong phòng mổ): thấy máu đỏ tươi từ lỗ trong cổ tử cung.
 
@@ -42,9 +42,16 @@ Siêu âm qua đường âm đạo đo khoảng cách (mm) giữa mép bánh rau
 - **Siêu âm Doppler hoặc MRI.** Hỗ trợ khi nghi ngờ rau cài răng lược.
 - **Soi bàng quang.** Khi nghi ngờ xâm lấn bàng quang.
 
-## Bệnh sinh
+## Biến chứng
 
-Máu chảy từ các hồ máu mẹ ở đoạn dưới tử cung không được cơ tử cung co chặt sau sổ rau do thiếu lớp cơ đan chéo như ở thân tử cung. Đợt chảy máu đầu thường ngưng tự nhiên trong 1–2 giờ, nhưng dễ tái phát, không liên quan đến số lần xuất huyết trước.
+### Với mẹ
+
+- Mất máu nhiều, choáng, tử vong.
+- Cắt tử cung, tổn thương niệu quản, rối loạn đông máu, nhiễm trùng.
+
+### Với con
+
+- Sinh non, suy hô hấp, tử vong chu sinh.
 
 ## Điều trị
 
@@ -57,7 +64,7 @@ Quyết định dựa trên tuổi thai, tình trạng mẹ và mức độ ch�
 - Dự phòng corticosteroids khi tuổi thai 28–34 tuần để thúc đẩy trưởng thành phổi.
 - Lên lịch mổ lấy thai chủ động ở 36–37 tuần nếu ổn định.
 
-### Nhập viện và điều trị nội trú
+### Nhập viện
 
 #### Chảy máu nhẹ, thai chưa trưởng thành
 
@@ -76,17 +83,6 @@ Quyết định dựa trên tuổi thai, tình trạng mẹ và mức độ ch�
   - Thắt động mạch tử cung hoặc bóng chẹn nội mạch.
   - Cắt tử cung toàn phần nếu băng huyết không kiểm soát.
 - Gây tê vùng nếu dự kiến mổ nhanh, gây mê nội khí quản nếu phẫu thuật phức tạp (rau cài răng lược).
-
-## Biến chứng
-
-### Mẹ
-
-- Mất máu nhiều, choáng, tử vong.
-- Cắt tử cung, tổn thương niệu quản, rối loạn đông máu, nhiễm trùng.
-
-### Con
-
-- Sinh non, suy hô hấp, tử vong chu sinh.
 
 ## Nguồn tham khảo
 

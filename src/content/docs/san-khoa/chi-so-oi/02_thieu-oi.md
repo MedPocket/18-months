@@ -64,7 +64,7 @@ Chủ yếu dựa vào siêu âm:
 ### 3 tháng cuối
 
 - Tư vấn tình trạng thai.
-- Chỉ định chấm dứt thai kỳ:
+- Chấm dứt thai kỳ:
   - SDP ≤ 1 cm:
     - ≥ 34 tuần: mổ lấy thai.
     - < 34 tuần: điều trị chờ chuyển dạ.

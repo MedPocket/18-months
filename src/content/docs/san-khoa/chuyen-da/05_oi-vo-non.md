@@ -51,7 +51,7 @@ Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một s
 - **CTG hoặc Non-stress test** nếu cần thiết.
 - **Xét nghiệm liên cầu nhóm B (GBS)** nếu có chỉ định.
 
-## Chẩn đoán phân biệt
+### Phân biệt
 
 :::note[Tiêu chuẩn chẩn đoán ối vỡ non]
 
@@ -132,7 +132,7 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
 #### Chấm dứt thai kỳ
 
-**Chỉ định chấm dứt thai kỳ khi**:
+**Chỉ định**:
 
 - Tuổi thai ≥ 34 tuần hoặc < 24 tuần.
 - Có chuyển dạ.
