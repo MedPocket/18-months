@@ -14,9 +14,9 @@ Theo khuyến cáo của FIGO 2018, AUB được phân thành hai hệ thống:
 
 ### Theo định nghĩa
 
-  ![Các thuật ngữ về xuất huyết tử cung bất thường](../../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/cac-thuat-ngu-ve-xuat-huyet-tu-cung-bat-thuong.jpeg)
+![Các thuật ngữ về xuất huyết tử cung bất thường](../../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/cac-thuat-ngu-ve-xuat-huyet-tu-cung-bat-thuong.jpeg)
 
-  _Các thuật ngữ liên quan đến xuất huyết tử cung bất thường theo FIGO._
+_Các thuật ngữ liên quan đến xuất huyết tử cung bất thường theo FIGO._
 
 - **AUB mạn tính**: Chảy máu tử cung bất thường kéo dài ít nhất **6 tháng** gần nhất, với bất thường ở một hoặc nhiều khía cạnh sau:
 
@@ -29,21 +29,22 @@ Theo khuyến cáo của FIGO 2018, AUB được phân thành hai hệ thống:
 
 ### Theo nguyên nhân (PALM-COEIN)
 
-|         | Nguyên nhân thuộc cấu trúc (PALM)                                              |
-| ------------------------ | ---------------------------------------------------------------------------------- |
+|                              | Nguyên nhân thuộc cấu trúc (PALM)                                                  |
+| ---------------------------- | ---------------------------------------------------------------------------------- |
 | **P**olyps                   | Polyp nội mạc tử cung                                                              |
 | **A**denomyosis              | Lạc nội mạc trong cơ tử cung                                                       |
 | **L**eiomyomas               | U xơ tử cung (chủ yếu u xơ dưới niêm mạc và trong cơ)                              |
 | **M**alignancy & Hyperplasia | Tăng sinh nội mạc (simple/complex, có/không loạn sản) hoặc ung thư nội mạc tử cung |
+
 _Nguyên nhân thuộc cấu trúc (PALM)._
 
-|  | Nguyên nhân không thuộc cấu trúc (COEIN)                                      |
-| ------------------------ | ---------------------------------------------------------------------------------- |
-| **C**oagulopathy             | Rối loạn đông máu (di truyền hoặc mắc phải)                                        |
-| **O**vulatory Dysfunction    | Rối loạn phóng noãn (ví dụ: PCOS, thiếu hụt nội tiết)                              |
-| **E**ndometrial              | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: bất thường mạch máu nội mạc)           |
-| **I**atrogenic               | Do thuốc hoặc các thủ thuật y tế (thiếu ốc chèn, dụng cụ tử cung, thuốc nội tiết...) |
-| **N**ot yet classified       | Nguyên nhân chưa rõ hoặc chưa phân loại được                                       |
+|                           | Nguyên nhân không thuộc cấu trúc (COEIN)                                             |
+| ------------------------- | ------------------------------------------------------------------------------------ |
+| **C**oagulopathy          | Rối loạn đông máu (di truyền hoặc mắc phải)                                          |
+| **O**vulatory Dysfunction | Rối loạn phóng noãn (ví dụ: PCOS, thiếu hụt nội tiết)                                |
+| **E**ndometrial           | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: bất thường mạch máu nội mạc)             |
+| **I**atrogenic            | Do thuốc hoặc các thủ thuật y tế (thiếu ốc chèn, dụng cụ tử cung, thuốc nội tiết...) |
+| **N**ot yet classified    | Nguyên nhân chưa rõ hoặc chưa phân loại được                                         |
 
 _Nguyên nhân không thuộc cấu trúc (COEIN)._
 
@@ -53,19 +54,19 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
 
 - **tiền sử kinh nguyệt**
 
-   - Tuổi có kinh lần đầu, tính chất chu kỳ (dài/ ngắn, đều/ không đều), độ dài và lượng máu, có cục máu đông kèm không.
-   - Các triệu chứng đi kèm: đau bụng kinh, mệt mỏi, choáng váng, triệu chứng thiếu máu (hoa mắt, chóng mặt).
-   - Tần suất spotting giữa chu kỳ.
+  - Tuổi có kinh lần đầu, tính chất chu kỳ (dài/ ngắn, đều/ không đều), độ dài và lượng máu, có cục máu đông kèm không.
+  - Các triệu chứng đi kèm: đau bụng kinh, mệt mỏi, choáng váng, triệu chứng thiếu máu (hoa mắt, chóng mặt).
+  - Tần suất spotting giữa chu kỳ.
 
 - **Tiền sử sản khoa – tình dục**
 
-   - Hoạt động tình dục, phương thức tránh thai (đặc biệt dụng cụ tử cung), đánh giá nguy cơ STI.
-   - Tiền sử sẩy thai, nong nạo, nạo hút buồng tử cung, chấn thương, can thiệp phụ khoa.
+  - Hoạt động tình dục, phương thức tránh thai (đặc biệt dụng cụ tử cung), đánh giá nguy cơ STI.
+  - Tiền sử sẩy thai, nong nạo, nạo hút buồng tử cung, chấn thương, can thiệp phụ khoa.
 
 - **Tiền sử bệnh lý hệ thống và nội tiết**
 
-   - Bệnh lý đông máu (bản thân, gia đình), đái tháo đường, tăng huyết áp, rối loạn tuyến giáp, hội chứng buồng trứng đa nang (PCOS).
-   - Thuốc đang dùng: NSAID, kháng đông (warfarin, heparin...), corticosteroid, thuốc điều trị tuyến giáp, thuốc tránh thai, thuốc nội tiết thay thế, GnRH đồng vận, tamoxifen, SERM, SPRM.
+  - Bệnh lý đông máu (bản thân, gia đình), đái tháo đường, tăng huyết áp, rối loạn tuyến giáp, hội chứng buồng trứng đa nang (PCOS).
+  - Thuốc đang dùng: NSAID, kháng đông (warfarin, heparin...), corticosteroid, thuốc điều trị tuyến giáp, thuốc tránh thai, thuốc nội tiết thay thế, GnRH đồng vận, tamoxifen, SERM, SPRM.
 
 ### Lâm sàng
 
@@ -73,7 +74,7 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
 - **Khám dấu hiệu nội tiết**: cường androgen (mụn trứng cá, rậm lông, acanthosis nigricans), rối loạn tuyến giáp (bướu cổ, run tay), dấu hiệu Cushing (gầy yếu, vết rạn, mỡ bụng).
 - **Chỉ số BMI**: thừa cân/ béo phì gợi ý PCOS, kháng insulin.
 - **Khám phụ khoa**:
-  
+
   - Quan sát bên ngoài âm hộ, âm đạo để loại trừ tổn thương viêm nhiễm, loét, u.
   - Khám âm đạo – cổ tử cung (nếu bệnh nhân cho phép): quan sát polyp, viêm cổ tử cung. Nếu chưa quan hệ, chỉ khám ngoài và siêu âm qua thành bụng hoặc đầu dò nhỏ.
 
@@ -84,16 +85,16 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
 - **Xét nghiệm loại trừ thai kỳ**: β-hCG huyết thanh (loại trừ thai sớm, thai ngoài tử cung).
 - **Đánh giá chức năng đông cầm máu, tình trạng xuất huyết** (khuyến cáo cho AUB nặng, tuổi dậy thì hoặc có tiền sử gia đình):
 
-   - Tổng phân tích tế bào máu (CBC): đánh giá thiếu máu, số lượng tiểu cầu.
-   - APTT, PT/INR, fibrinogen, yếu tố Von Willebrand (VW) nếu nghi ngờ rối loạn đông.
+  - Tổng phân tích tế bào máu (CBC): đánh giá thiếu máu, số lượng tiểu cầu.
+  - APTT, PT/INR, fibrinogen, yếu tố Von Willebrand (VW) nếu nghi ngờ rối loạn đông.
 
 - **Xét nghiệm nội tiết** (tùy theo lâm sàng, dấu hiệu và tuổi):
 
-   - **Tuyến giáp**: TSH, T₄, FT₃ (loại trừ cường/ suy giáp).
-   - **Prolactin**: nếu có rối loạn kinh kéo dài, chảy sữa núm vú, dấu hiệu u tuyến yên.
-   - **LH, FSH, Estradiol**: đánh giá trục buồng trứng (đặc biệt ở tuổi thanh niên hoặc nghi rối loạn phóng noãn).
-   - **Testosterone, DHEA-S**: nếu nghi cường androgen (PCOS, u tiết androgen).
-   - **Glucose, Insulin**: nếu BMI > 25 kg/m² hoặc nghi kháng insulin.
+  - **Tuyến giáp**: TSH, T₄, FT₃ (loại trừ cường/ suy giáp).
+  - **Prolactin**: nếu có rối loạn kinh kéo dài, chảy sữa núm vú, dấu hiệu u tuyến yên.
+  - **LH, FSH, Estradiol**: đánh giá trục buồng trứng (đặc biệt ở tuổi thanh niên hoặc nghi rối loạn phóng noãn).
+  - **Testosterone, DHEA-S**: nếu nghi cường androgen (PCOS, u tiết androgen).
+  - **Glucose, Insulin**: nếu BMI > 25 kg/m² hoặc nghi kháng insulin.
 
 #### Pap’s test (Pap smear)
 
@@ -126,13 +127,13 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
 
 - **Siêu âm bơm nước buồng tử cung (SIS)**:
 
-   - Chỉ định khi nghi polyp nội mạc hoặc dính buồng tử cung (nội mạc không bong đều).
-   - SIS làm đầy buồng tử cung bằng dung dịch nước muối vô trùng để quan sát rõ tổn thương khu trú như polyp, u xơ dưới niêm mạc.
+  - Chỉ định khi nghi polyp nội mạc hoặc dính buồng tử cung (nội mạc không bong đều).
+  - SIS làm đầy buồng tử cung bằng dung dịch nước muối vô trùng để quan sát rõ tổn thương khu trú như polyp, u xơ dưới niêm mạc.
 
 #### Nội soi buồng tử cung
 
-   - Chỉ định khi SIS hoặc TVUS không xác định rõ tổn thương, hoặc kết quả sinh thiết mù âm tính nhưng nghi ngờ tổn thương khu trú.
-   - Lợi ích: quan sát trực tiếp nội mạc, lấy mẫu chính xác hoặc cắt bỏ polyp/u dưới niêm mạc.
+- Chỉ định khi SIS hoặc TVUS không xác định rõ tổn thương, hoặc kết quả sinh thiết mù âm tính nhưng nghi ngờ tổn thương khu trú.
+- Lợi ích: quan sát trực tiếp nội mạc, lấy mẫu chính xác hoặc cắt bỏ polyp/u dưới niêm mạc.
 
 #### MRI
 
@@ -192,7 +193,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
     - Hoặc estradiol valerate 2–3 mg × 3 lần/ngày.
 
   - **Estrogen phối hợp progestogen**
-    
+
     - Ethinyl estradiol 30 µg + Levonorgestrel 150 µg × 2–3 viên/ngày trong 5–7 ngày, sau đó chuyển sang liều duy trì (1 viên/ngày).
     - Hoặc premarin (estrogen liên hợp) 25 mg/ngày × 5–7 ngày, sau đó bổ sung progestin (medroxyprogesterone acetate 10 mg/ngày × 10–14 ngày).
 
@@ -207,7 +208,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
     - Ibuprofen 400–600 mg × 3 lần/ngày, hoặc naproxen 500 mg × 2 lần/ngày, dùng trong 3–5 ngày đầu chảy máu.
 
   - **Anti-fibrinolytics**
-    
+
     - Tranexamic acid 1 g × 3–4 lần/ngày khi còn chảy máu, tối đa 4–5 ngày.
     - Giúp giảm thể tích máu mất khoảng 30–50%.
 
@@ -222,7 +223,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
 - **Liệu pháp phối hợp estrogen – progestogen (COC)**
 
   - Ethinyl estradiol 30 µg + Levonorgestrel 150 µg:
-  
+
     - Dùng hàng ngày trong 21 ngày, nghỉ 7 ngày.
     - Có thể chỉ định liên tục (28 ngày liền) nếu cần ổn định nội mạc nhanh.
 
@@ -243,7 +244,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
   - Giảm kích thước u xơ, giảm xuất huyết, ổn định nội mạc.
 
 - **Dụng cụ tử cung phóng thích progestogen (LNG-IUD)**
-  
+
   - Hiệu quả cao trong cầm máu AUB do nguyên nhân nội mạc, u xơ dưới niêm mạc nhỏ, PCOS.
   - Dùng dài hạn (5 năm), đồng thời bảo vệ nội mạc khỏi tăng sinh do estrogen ngoại sinh.
 
@@ -260,7 +261,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
    - Dùng các phương pháp: sóng vi sóng, laser, năng lượng radio, thòng lọng điện (resectoscope) để tiêu hủy lớp nội mạc tận gốc.
    - Chỉ định cho phụ nữ đã đủ con và muốn điều trị triệt để AUB cơ năng hoặc tăng sinh nội mạc nhẹ.
    - Hạn chế:
-   
+
      - Không áp dụng khi nghi ngờ hoặc đã chẩn đoán tăng sinh nội mạc nặng, loạn sản hoặc ung thư.
      - Không dành cho người có u xơ lớn > 3–4 cm (ngoại trừ u xơ dưới niêm mạc nhỏ đã cắt hết).
 
@@ -268,19 +269,19 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
 
    - Chỉ định chủ yếu cho u xơ tử cung gây chảy máu nặng, không muốn phẫu thuật, hoặc nguy cơ phẫu thuật cao.
    - Phương pháp: bít tắc động mạch cung cấp máu cho cơ tử cung, làm khối u xơ teo nhỏ, giảm chảy máu.
-  
-    :::caution[Lưu ý]
-    Thuyên tắc động mạch tử cung có thể coi là biện pháp tương đương cắt tử cung về mặt triệt để cầm máu, nhưng giữ lại tử cung cho bệnh nhân.
-    :::
+
+   :::caution[Lưu ý]
+   Thuyên tắc động mạch tử cung có thể coi là biện pháp tương đương cắt tử cung về mặt triệt để cầm máu, nhưng giữ lại tử cung cho bệnh nhân.
+   :::
 
 4. **Cắt tử cung (Hysterectomy)**
-   
+
    - Phương pháp triệt để cho AUB cơ năng hoặc thực thể khi:
-   
+
      - Thất bại với mọi phương pháp điều trị bảo tồn.
      - Có kèm các bệnh lý thực thể nặng (u xơ lớn, loạn sản/ung thư nội mạc).
      - Bệnh nhân không còn nhu cầu sinh thêm con.
-   
+
    - Các đường mổ: mổ mở, nội soi, nội soi hỗ trợ qua âm đạo (TLH, LAVH, VH) tùy điều kiện.
 
 ## Nguồn tham khảo

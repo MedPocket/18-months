@@ -80,7 +80,7 @@ _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huy�
 #### Chẩn đoán hình ảnh
 
 - Có thể thực hiện siêu âm quy ước để khảo sát độ dày nội mạc tử cung, phản âm, bất thường trong buồng tử cung.
-  
+
   ![Hình ảnh siêu âm của hội chứng buồng trứng đa nang](../../../../assets/phu-khoa/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-buong-trung-da-nang.png)
 
   _Hình chuỗi hạt kinh điển của buồng trứng đa nang. Các nang noãn nhỏ xếp thành chuỗi, phân bố ở ngoại vi buồng trứng._

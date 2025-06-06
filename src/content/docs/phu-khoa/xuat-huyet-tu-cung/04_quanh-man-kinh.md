@@ -31,7 +31,7 @@ Giai đoạn quanh mãn kinh (perimenopause) thường kéo dài từ cuối 40 
    - Khoảng cách giữa hai lần hành kinh giãn dài khi nội mạc không bị sụp đổ hoàn toàn, hoặc xuất hiện dưới dạng spotting, rong kinh, rong huyết.
 
 5. **Nguy cơ tăng sinh/nội mạc và ung thư**
-   
+
    - Estrogen đơn độc kéo dài mà không có progesterone đối kháng làm tăng nguy cơ tăng sinh nội mạc (hyperplasia) và quá sản (atrophic endometrium có thay đổi kèm).
    - Ở giai đoạn sau, rong huyết khó kiểm soát có thể báo hiệu tăng sinh nội mạc điển hình, loạn sản hoặc ung thư nội mạc.
 
@@ -67,7 +67,7 @@ Xuất huyết bất thường ở phụ nữ quanh mãn kinh không chỉ do r�
    - Bệnh lý cổ tử cung lành tính (vết loét, viêm cổ tử cung chảy máu).
 
 4. **Yếu tố toàn thân góp phần**
-   
+
    - Tăng huyết áp, đái tháo đường, béo phì: tác động gián tiếp lên chuyển hóa estrogen (estrone từ mô mỡ ngoại vi) và độ nhạy của nội mạc.
    - Thuốc (tamoxifen, hormone trị liệu thay thế không phối hợp đúng liều progesterone...) có thể làm tăng nguy cơ xuất huyết.
 
@@ -92,17 +92,17 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
 - **Thai kỳ**: Luôn xét nghiệm β-hCG cho phụ nữ độ tuổi sinh sản, dù khả năng có thai quanh mãn kinh thấp (< 1%).
 - **Nguyên nhân tại tử cung**:
 
-   - U xơ tử cung, polyp nội mạc, viêm nội mạc tử cung, dính buồng tử cung.
-   - Dị dạng bẩm sinh hiếm gặp (hội chứng Asherman...).
+  - U xơ tử cung, polyp nội mạc, viêm nội mạc tử cung, dính buồng tử cung.
+  - Dị dạng bẩm sinh hiếm gặp (hội chứng Asherman...).
 
 - **Nguyên nhân tại cổ tử cung–âm đạo**:
 
-   - Viêm cổ tử cung mạn, loạn sản hay ung thư biểu mô cổ tử cung, lạc nội mạc cổ tử cung.
+  - Viêm cổ tử cung mạn, loạn sản hay ung thư biểu mô cổ tử cung, lạc nội mạc cổ tử cung.
 
 - **Nguyên nhân từ các cơ quan lận cận**:
 
-   - Xuất huyết đường tiết niệu (thận, bàng quang), tiêu hóa (trực tràng) chảy xuống âm đạo giả.
-   - Chấn thương vùng chậu, sa tạng, tổn thương âm hộ.
+  - Xuất huyết đường tiết niệu (thận, bàng quang), tiêu hóa (trực tràng) chảy xuống âm đạo giả.
+  - Chấn thương vùng chậu, sa tạng, tổn thương âm hộ.
 
 ### Cận lâm sàng
 
@@ -110,49 +110,49 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
 
 - Thời điểm tối ưu: ngay sau sạch kinh để đo độ dày nội mạc mỏng nhất (thông thường < 4–5 mm).
 - Đặc điểm cần ghi nhận:
-   
-   - Độ dày nội mạc: ≥ 5 mm ở phụ nữ quanh mãn kinh cần đánh giá thêm.
-   - Hình thái nội mạc: đều mỏng, lòng tử cung không có khối, không có kẽ tăng tín hiệu nhấp nhô.
-   - Tổn thương khu trú: polyp (có cuống), u xơ dưới niêm mạc, nang buồng trứng sản xuất estrogen.
 
-      ![Tăng sinh nội mạc tử cung trên siêu âm](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/hinh-anh-sieu-am-tang-sinh-noi-mac-tu-cung.png)
+  - Độ dày nội mạc: ≥ 5 mm ở phụ nữ quanh mãn kinh cần đánh giá thêm.
+  - Hình thái nội mạc: đều mỏng, lòng tử cung không có khối, không có kẽ tăng tín hiệu nhấp nhô.
+  - Tổn thương khu trú: polyp (có cuống), u xơ dưới niêm mạc, nang buồng trứng sản xuất estrogen.
 
-      _Tăng sinh nội mạc tử cung: nội mạc dày 21.6 mm đầu chu kỳ là bất thường. Không thể chẩn đoán cơ năng khi có hình ảnh này._
+    ![Tăng sinh nội mạc tử cung trên siêu âm](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/hinh-anh-sieu-am-tang-sinh-noi-mac-tu-cung.png)
 
-   - **Siêu âm bơm nước (SIS)** nếu nghi polyp hoặc dính buồng tử cung: bơm nước làm nổi bật khối, giúp xác định vị trí và kích thước tổn thương.
+    _Tăng sinh nội mạc tử cung: nội mạc dày 21.6 mm đầu chu kỳ là bất thường. Không thể chẩn đoán cơ năng khi có hình ảnh này._
 
-      ![Siêu âm bơm nước buồng tử cung](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/sieu-am-bom-nuoc-buong-tu-cung.png)
+  - **Siêu âm bơm nước (SIS)** nếu nghi polyp hoặc dính buồng tử cung: bơm nước làm nổi bật khối, giúp xác định vị trí và kích thước tổn thương.
 
-      _Siêu âm bơm nước buồng tử cung (SIS): phát hiện polyp lòng tử cung. Khi có tổn thương khu trú như này, không thể chẩn đoán xuất huyết cơ năng._
-   
-   :::caution[Lưu ý]
-   Hình ảnh siêu âm phụ thuộc vào pha chu kỳ. Thực hiện sau sạch kinh giúp tránh nhầm tăng sinh nội mạc giả do nội mạc phát triển dưới estrogen giai đoạn giữa chu kỳ.
-   :::
+    ![Siêu âm bơm nước buồng tử cung](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/sieu-am-bom-nuoc-buong-tu-cung.png)
+
+    _Siêu âm bơm nước buồng tử cung (SIS): phát hiện polyp lòng tử cung. Khi có tổn thương khu trú như này, không thể chẩn đoán xuất huyết cơ năng._
+
+  :::caution[Lưu ý]
+  Hình ảnh siêu âm phụ thuộc vào pha chu kỳ. Thực hiện sau sạch kinh giúp tránh nhầm tăng sinh nội mạc giả do nội mạc phát triển dưới estrogen giai đoạn giữa chu kỳ.
+  :::
 
 #### Sinh thiết nội mạc tử cung
 
 - **Chỉ định**:
 
-   - Phụ nữ ≥ 35 tuổi có xuất huyết bất thường.
-   - Bất kỳ phụ nữ nào có yếu tố nguy cơ ung thư nội mạc (tăng huyết áp, đái tháo đường, béo phì, tiền sử tăng sinh nội mạc).
-   - Nội mạc dày ≥ 5 mm trên siêu âm (hoặc ≥ 4 mm nếu có tamoxifen).
+  - Phụ nữ ≥ 35 tuổi có xuất huyết bất thường.
+  - Bất kỳ phụ nữ nào có yếu tố nguy cơ ung thư nội mạc (tăng huyết áp, đái tháo đường, béo phì, tiền sử tăng sinh nội mạc).
+  - Nội mạc dày ≥ 5 mm trên siêu âm (hoặc ≥ 4 mm nếu có tamoxifen).
 
 - **Phương pháp**:
 
-   - **Pipelle® biopsy** (tiêu chuẩn): nhanh, không cần gây mê, thực hiện tại phòng khám.
-   - **Nong và nạo (D&C)**: khi Pipelle không lấy đủ mẫu, hoặc nghi ngờ nốt tăng sinh khu trú.
+  - **Pipelle® biopsy** (tiêu chuẩn): nhanh, không cần gây mê, thực hiện tại phòng khám.
+  - **Nong và nạo (D&C)**: khi Pipelle không lấy đủ mẫu, hoặc nghi ngờ nốt tăng sinh khu trú.
 
 - **Hạn chế**:
 
-   - Khả năng bỏ sót tổn thương khu trú lên đến 30% nếu diện tích bất thường < 5% buồng tử cung.
-   - Kết quả âm tính giả có thể xảy ra, cần nội soi nếu vẫn có nghi ngờ.
+  - Khả năng bỏ sót tổn thương khu trú lên đến 30% nếu diện tích bất thường < 5% buồng tử cung.
+  - Kết quả âm tính giả có thể xảy ra, cần nội soi nếu vẫn có nghi ngờ.
 
 #### Nội soi buồng tử cung
 
 - **Chỉ định**:
-   
-   - Kết quả sinh thiết mù không phù hợp với cận lâm sàng/ lâm sàng.
-   - Nghi ngờ polyp, u xơ dưới niêm mạc, dính buồng tử cung mà siêu âm không rõ ràng.
+
+  - Kết quả sinh thiết mù không phù hợp với cận lâm sàng/ lâm sàng.
+  - Nghi ngờ polyp, u xơ dưới niêm mạc, dính buồng tử cung mà siêu âm không rõ ràng.
 
 - **Ưu điểm**: Quan sát trực tiếp nội mạc, lấy mẫu tổn thương khu trú hoặc cắt bỏ polyp/u xơ dưới nội soi.
 - **Nhược điểm**: Cần trang thiết bị chuyên dụng, bác sĩ có kinh nghiệm và thường phải thực hiện trong phòng mổ hoặc phòng thủ thuật có gây mê/ gây tê.
@@ -177,36 +177,36 @@ Việc quyết định điều trị phụ thuộc vào:
 ### Xuất huyết vừa phải–nhẹ, đã loại trừ ác tính
 
 - **Liệu pháp progestogen**:
-   
-   - Ưu tiên progestin có hoạt tính kháng estrogen mạnh, ít ức chế trục HPG (ví dụ: Medroxyprogesterone acetate, Dydrogesterone, hoặc Levonorgestrel IUD).
-   - Liều tham khảo:
-   
-      - Medroxyprogesterone acetate 10–20 mg/ngày (ngày 5–25 chu kỳ), hoặc
-      - Dydrogesterone 10 mg × 2/ngày trong 10–14 ngày.
-      - Levonorgestrel intrauterine device (LNG-IUD) phóng thích 20 µg/ngày có thể dùng để điều trị dài hạn, vừa cầm máu vừa ngừa tăng sinh nội mạc.
+
+  - Ưu tiên progestin có hoạt tính kháng estrogen mạnh, ít ức chế trục HPG (ví dụ: Medroxyprogesterone acetate, Dydrogesterone, hoặc Levonorgestrel IUD).
+  - Liều tham khảo:
+
+    - Medroxyprogesterone acetate 10–20 mg/ngày (ngày 5–25 chu kỳ), hoặc
+    - Dydrogesterone 10 mg × 2/ngày trong 10–14 ngày.
+    - Levonorgestrel intrauterine device (LNG-IUD) phóng thích 20 µg/ngày có thể dùng để điều trị dài hạn, vừa cầm máu vừa ngừa tăng sinh nội mạc.
 
 - **Liệu pháp phối hợp estrogen–progestogen (COC)**:
 
-   - Dùng 21 ngày liên tục (Ethinyl estradiol 30 µg + Levonorgestrel 150 µg), sau đó nghỉ 7 ngày.
-   - Ưu tiên ngắn hạn, không khuyến cáo dùng lâu dài ở quanh mãn kinh vì ức chế trục mạnh.
+  - Dùng 21 ngày liên tục (Ethinyl estradiol 30 µg + Levonorgestrel 150 µg), sau đó nghỉ 7 ngày.
+  - Ưu tiên ngắn hạn, không khuyến cáo dùng lâu dài ở quanh mãn kinh vì ức chế trục mạnh.
 
 - **Theo dõi sau điều trị**:
 
-   - Lịch kinh (menstrual calendar), cân nặng, huyết áp, xét nghiệm định kỳ (nếu dùng IUD cần khám siêu âm kiểm tra vị trí).
-   - Đánh giá lại độ dày nội mạc sau 3–6 tháng, nếu vẫn > 5 mm hoặc tái xuất huyết, cần làm lại sinh thiết.
+  - Lịch kinh (menstrual calendar), cân nặng, huyết áp, xét nghiệm định kỳ (nếu dùng IUD cần khám siêu âm kiểm tra vị trí).
+  - Đánh giá lại độ dày nội mạc sau 3–6 tháng, nếu vẫn > 5 mm hoặc tái xuất huyết, cần làm lại sinh thiết.
 
 ### Ngoại khoa (xâm lấn tối thiểu)
 
 - **Cắt đốt nội mạc tử cung (Endometrial ablation)**:
 
-   - Thực hiện qua soi buồng tử cung, làm tiêu hủy lớp nội mạc tận gốc.
-   - Giải pháp hiệu quả cho bệnh nhân không có nhu cầu sinh thêm, muốn tránh phẫu thuật kéo dài.
-   - Hạn chế: Không áp dụng cho người nghi ngờ tăng sinh nội mạc hoặc ung thư.
+  - Thực hiện qua soi buồng tử cung, làm tiêu hủy lớp nội mạc tận gốc.
+  - Giải pháp hiệu quả cho bệnh nhân không có nhu cầu sinh thêm, muốn tránh phẫu thuật kéo dài.
+  - Hạn chế: Không áp dụng cho người nghi ngờ tăng sinh nội mạc hoặc ung thư.
 
 - **Cắt tử cung (Hysterectomy)**:
 
-   - Điều trị bảo tồn thất bại (tái xuất huyết, tăng sinh/loạn sản nội mạc).
-   - Có kèm bệnh lý thực thể nặng (u xơ lớn, polyp tái phát, lạc nội mạc tử cung nặng...).
+  - Điều trị bảo tồn thất bại (tái xuất huyết, tăng sinh/loạn sản nội mạc).
+  - Có kèm bệnh lý thực thể nặng (u xơ lớn, polyp tái phát, lạc nội mạc tử cung nặng...).
 
 - Phương pháp: mổ mở, mổ nội soi hoặc mổ robotic tùy tình trạng và kỹ thuật của cơ sở.
 

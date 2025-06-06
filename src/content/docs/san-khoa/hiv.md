@@ -19,9 +19,9 @@ HIV (Human Immunodeficiency Virus) là bệnh lây truyền chủ yếu qua đư
 
 ### Phân loại
 
-| Phân loại | Triệu chứng chính                                                                                                   | CD4 > 500 | CD4 200–499 | CD4 < 200 |
-| --------- | ------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --------- |
-| **A**     | Không triệu chứng hoặc chỉ hạch to toàn thân kéo dài                                                                | A1        | A2          | A3        |
+| Phân loại | Triệu chứng chính                                                                                                     | CD4 > 500 | CD4 200–499 | CD4 < 200 |
+| --------- | --------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --------- |
+| **A**     | Không triệu chứng hoặc chỉ hạch to toàn thân kéo dài                                                                  | A1        | A2          | A3        |
 | **B**     | Biểu hiện liên quan HIV nhưng không AIDS định nghĩa (zona tái phát, viêm âm đạo dai dẳng, tăng sản bạch cầu miệng...) | B1        | B2          | B3        |
 | **C**     | Bệnh xác định AIDS (Pneumocystis jirovecii, lao, toxoplasma não, Kaposi...)                                           | C1        | C2          | C3        |
 

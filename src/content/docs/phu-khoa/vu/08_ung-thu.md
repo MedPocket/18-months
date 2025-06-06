@@ -130,17 +130,17 @@ Theo khuyến cáo của ACOG (2017):
 
   - Hệ thống phân loại kết quả nhũ ảnh và MRI, giúp chuẩn hóa báo cáo và hướng dẫn xử trí.
 
-  | BIRADS | Kết quả                                               | Hướng xử trí                                              |
-  | ------ | ----------------------------------------------------- | --------------------------------------------------------- |
+  | BIRADS | Kết quả                                               | Hướng xử trí                                                |
+  | ------ | ----------------------------------------------------- | ----------------------------------------------------------- |
   | **0**  | Không đầy đủ                                          | Cần thêm hình ảnh (spot compression, phóng đại, siêu âm...) |
-  | **1**  | Âm tính                                               | Tiếp tục nhũ ảnh tầm soát định kỳ                         |
-  | **2**  | Lành tính (u nang lành, hạch lành, vôi hóa lành tính) | Tiếp tục nhũ ảnh tầm soát định kỳ                         |
-  | **3**  | Có khả năng lành tính (> 98% là tổn thương lành tính) | Theo dõi nhũ ảnh mỗi 6 tháng trong 2 năm                  |
-  | **4A** | Nghi ngờ ác tính mức độ thấp                          | Cân nhắc sinh thiết                                       |
-  | **4B** | Nghi ngờ ác tính mức độ trung bình                    | Cân nhắc sinh thiết                                       |
-  | **4C** | Gợi ý ác tính (không điển hình)                       | Cân nhắc sinh thiết                                       |
-  | **5**  | Gợi ý mạnh ác tính (> 95% khả năng ung thư)           | Bắt buộc sinh thiết                                       |
-  | **6**  | Đã xác định ung thư qua sinh thiết trước đó           | Theo dõi điều trị (imaging for treatment monitoring)      |
+  | **1**  | Âm tính                                               | Tiếp tục nhũ ảnh tầm soát định kỳ                           |
+  | **2**  | Lành tính (u nang lành, hạch lành, vôi hóa lành tính) | Tiếp tục nhũ ảnh tầm soát định kỳ                           |
+  | **3**  | Có khả năng lành tính (> 98% là tổn thương lành tính) | Theo dõi nhũ ảnh mỗi 6 tháng trong 2 năm                    |
+  | **4A** | Nghi ngờ ác tính mức độ thấp                          | Cân nhắc sinh thiết                                         |
+  | **4B** | Nghi ngờ ác tính mức độ trung bình                    | Cân nhắc sinh thiết                                         |
+  | **4C** | Gợi ý ác tính (không điển hình)                       | Cân nhắc sinh thiết                                         |
+  | **5**  | Gợi ý mạnh ác tính (> 95% khả năng ung thư)           | Bắt buộc sinh thiết                                         |
+  | **6**  | Đã xác định ung thư qua sinh thiết trước đó           | Theo dõi điều trị (imaging for treatment monitoring)        |
 
   _BIRADS - Hiệp hội Quang tuyến Hoa Kỳ (ACR)._
 

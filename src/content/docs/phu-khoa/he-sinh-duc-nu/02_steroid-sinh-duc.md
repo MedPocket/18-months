@@ -56,9 +56,9 @@ Steroid sinh dục tác động lên tế bào đích theo hai đường qua gen
 
 ### Qua gene
 
-  - Hormone khuếch tán vào tế bào, gắn với **thụ thể nhân** (ER-α/ER-β cho estrogen; PR-A/PR-B cho progesterone; AR cho androgen).
-  - Phức hợp hormone–thụ thể cắt HSP, hóa trị dimer, gắn lên ERE/​PRE/​ARE (Estrogen/Progesterone/​Androgen Response Elements) trên DNA.
-  - Tuyến tính: chậm (giờ–ngày), khởi phát protein mới.
+- Hormone khuếch tán vào tế bào, gắn với **thụ thể nhân** (ER-α/ER-β cho estrogen; PR-A/PR-B cho progesterone; AR cho androgen).
+- Phức hợp hormone–thụ thể cắt HSP, hóa trị dimer, gắn lên ERE/​PRE/​ARE (Estrogen/Progesterone/​Androgen Response Elements) trên DNA.
+- Tuyến tính: chậm (giờ–ngày), khởi phát protein mới.
 
 ### Không qua gene
 
@@ -104,7 +104,7 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 
 | Thụ thể | Gene       | Isoform             | Chức năng                                                         |
 | ------- | ---------- | ------------------- | ----------------------------------------------------------------- |
-| **ER**  | ESR1, ESR2 | ER-α, ER-β          | Kích hoạt ERE → điều hòa gene phát triển nội mạc, vú, xương...      |
+| **ER**  | ESR1, ESR2 | ER-α, ER-β          | Kích hoạt ERE → điều hòa gene phát triển nội mạc, vú, xương...    |
 | **PR**  | PGR        | PR-A (ức chế), PR-B | PR-B hoạt hóa PRE; PR-A đối kháng PR-B, điều hòa ngược bộ máy PR. |
 | **AR**  | AR (X-chr) | 1 isoform chính     | Kích hoạt ARE → điều hòa biệt hóa cơ quan sinh dục nam, mô xương. |
 

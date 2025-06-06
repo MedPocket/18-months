@@ -172,21 +172,21 @@ Chọn progestin với hoạt tính kháng estrogen mạnh. Tác dụng chính c
 - **Thuốc lựa chọn**:
 
   - Medroxyprogesterone acetate (MPA):
-  
+
     - Đường uống: 10 mg/ngày trong 3–6 tháng, hoặc 10 mg/ngày × 12–14 ngày mỗi tháng.
     - Đường tiêm bắp (DMPA depot): 150 mg mỗi 3–6 tháng.
-  
+
   - Levonorgestrel (LNG-IUD):
-  
+
     - Phóng thích 15–20 µg/ngày, thời gian tác dụng 3–5 năm (Mirena®, Liletta®).
-  
+
   - Micronized progesterone (đối với đơn giản điển hình):
-  
+
     - 200 mg/ngày × 12–14 ngày/tháng trong 3–6 tháng.
     - Utrogestan®, Cyclogest®: 100–200 mg đặt âm đạo/ngày × 14 ngày/tháng.
 
 - **Theo dõi sau điều trị**:
-  
+
   - Sinh thiết kiểm tra mỗi 3–6 tháng cho đến khi mẫu bình thường.
   - Nếu có chảy máu bất thường, sinh thiết lại.
   - Theo dõi chu kỳ kinh nguyệt, rụng trứng.

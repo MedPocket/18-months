@@ -58,12 +58,12 @@ Stress có liên quan đến RPL nhưng không được xác định là nguyên
 
 ### Khảo sát giải phẫu tử cung
 
-| Bất thường giải phẫu tử cung                        | Điều trị                                                                                                   |
-| --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Tử cung có vách ngăn**                            | Nội soi buồng tử cung cắt vách ngăn                                                                        |
-| **U xơ tử cung**                                    | Nội soi buồng tử cung cắt u xơ dưới niêm mạc hoặc phẫu thuật tối thiểu trên u xơ có biến dạng lòng tử cung |
-| **Polyp nội mạc tử cung**                           | Nội soi buồng tử cung cắt polyp                                                                            |
-| **Dính buồng tử cung**                              | Nội soi cắt dính và phòng ngừa dính tái phát                                                               |
+| Bất thường giải phẫu tử cung                          | Điều trị                                                                                                   |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Tử cung có vách ngăn**                              | Nội soi buồng tử cung cắt vách ngăn                                                                        |
+| **U xơ tử cung**                                      | Nội soi buồng tử cung cắt u xơ dưới niêm mạc hoặc phẫu thuật tối thiểu trên u xơ có biến dạng lòng tử cung |
+| **Polyp nội mạc tử cung**                             | Nội soi buồng tử cung cắt polyp                                                                            |
+| **Dính buồng tử cung**                                | Nội soi cắt dính và phòng ngừa dính tái phát                                                               |
 | **Các dị dạng khác (tử cung đôi, tử cung 2 sừng...)** | Không khuyến cáo can thiệp do thiếu chứng cứ lợi ích                                                       |
 
 _Bất thường giải phẫu tử cung._

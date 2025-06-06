@@ -41,11 +41,11 @@ export default defineConfig({
         alt: "18 Months Logo",
         replacesTitle: true,
       },
-      defaultLocale: 'root',
+      defaultLocale: "root",
       locales: {
         root: {
-          label: 'Vietnam',
-          lang: 'vi',
+          label: "Vietnam",
+          lang: "vi",
         },
       },
       components: {

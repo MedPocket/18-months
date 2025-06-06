@@ -29,11 +29,11 @@ U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô
 
 _Phân loại FIGO 2011._
 
-| Category                                                          | Description                                                                                                                                                                                                       |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **S (Submucosal)**<br>Dưới niêm mạc                               | **0** Có cuống, hoàn toàn trong lòng tử cung<br>**1** < 50% trong cơ<br>**2** ≥ 50% trong cơ _(inferred)_                                                                                                         |
+| Category                                                          | Description                                                                                                                                                                                                         |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **S (Submucosal)**<br>Dưới niêm mạc                               | **0** Có cuống, hoàn toàn trong lòng tử cung<br>**1** < 50% trong cơ<br>**2** ≥ 50% trong cơ _(inferred)_                                                                                                           |
 | **O (Other)**<br>Khác                                             | **3** Tiếp xúc nội mạc, 100% trong cơ<br>**4** Trong cơ<br>**5** Dưới thanh mạc, ≥ 50% trong cơ<br>**6** Dưới thanh mạc, < 50% trong cơ<br>**7** Dưới thanh mạc, có cuống<br>**8** Khác: Ghi rõ (vd: cổ tử cung...) |
-| **H (Hybrid leiomyomas)**<br>Tiếp xúc đồng thời thanh và niêm mạc | Thể hiện bằng 2 con số:<br>- **Số thứ nhất**: Liên quan niêm mạc (dùng mã S)<br>- **Số thứ hai**: Liên quan thanh mạc (dùng mã O)<br>_Ví dụ: 2-5 = Dưới thanh mạc + dưới niêm mạc (cả hai ≥50% trong cơ)_         |
+| **H (Hybrid leiomyomas)**<br>Tiếp xúc đồng thời thanh và niêm mạc | Thể hiện bằng 2 con số:<br>- **Số thứ nhất**: Liên quan niêm mạc (dùng mã S)<br>- **Số thứ hai**: Liên quan thanh mạc (dùng mã O)<br>_Ví dụ: 2-5 = Dưới thanh mạc + dưới niêm mạc (cả hai ≥50% trong cơ)_           |
 
 _Phân loại FIGO 2011._
 
