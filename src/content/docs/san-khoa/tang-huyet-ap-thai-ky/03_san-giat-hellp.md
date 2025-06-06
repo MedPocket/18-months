@@ -20,7 +20,7 @@ Sản giật và hội chứng HELLP là hai biến chứng nghiêm trọng và 
 
 #### Nguyên tắc
 
-- Phòng ngừa thiếu oxy, chấn thương.
+- Phòng ngừa thiếu O₂, chấn thương.
 - Điều trị tăng huyết áp, phòng co giật.
 - Xem xét chấm dứt thai kỳ.
 
@@ -43,7 +43,7 @@ Không dùng Diazepam/Phenytoin vì không hiệu quả, có thể gây hại th
    - Ngáng lưỡi để tránh tắc nghẽn.
    - Hút đàm nhớt nếu cần thiết.
    - Đặt bệnh nhân nằm nghiêng sang 1 bên.
-   - Cho thở oxy 6–8 L/phút qua mặt nạ.
+   - Cho thở O₂ 6–8 L/phút qua mặt nạ.
 
 2. **Đặt đường truyền tĩnh mạch**
 

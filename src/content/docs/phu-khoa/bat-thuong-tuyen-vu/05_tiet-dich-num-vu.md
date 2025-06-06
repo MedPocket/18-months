@@ -95,7 +95,7 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
     - Liều 0.25–0.5 mg 1–2 lần/tuần, hiệu quả kéo dài, ít tác dụng phụ vã mồ hôi, buồn nôn hơn Bromocriptine.
     - Dùng trong 3–6 tháng, theo dõi prolactin mỗi 4–6 tuần.
 
-### Theo dõi sau điều trị
+#### Theo dõi sau điều trị
 
 - Đo lại prolactin máu sau 1–2 tháng.
 - Nếu u tuyến yên > 10 mm hoặc còn triệu chứng thần kinh thị, cần tái khám chuyên khoa thần kinh – nội tiết đánh giá khả năng phẫu thuật hoặc xạ trị.

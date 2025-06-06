@@ -209,7 +209,7 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 - Tránh sử dụng kháng sinh đơn lẻ khi đồng nhiễm HIV, cần bổ sung kháng sinh dự phòng cơ hội.  
   :::
 
-## Theo dõi sau điều trị
+### Theo dõi sau điều trị
 
 - **Tái khám sau 3 tháng**: Tất cả các trường hợp nhiễm Chlamydia nên được sàng lọc lại NAAT sau 3 tháng kể từ ngày điều trị dù đã hết triệu chứng để phát hiện tái nhiễm.
 - **Nếu không thể tái khám sau 3 tháng**, có thể xét nghiệm bất kỳ lúc nào trong khoảng 3–12 tháng sau điều trị đầu tiên.

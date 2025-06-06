@@ -95,7 +95,7 @@ Mục tiêu điều trị là phục hồi lớp biểu mô âm đạo, tăng đ
   - Tránh thụt rửa âm đạo, sử dụng xà phòng pH trung tính.
   - Mặc đồ lót thoáng, thoát ẩm, tránh đồ bó sát.
 
-## Theo dõi sau điều trị
+### Theo dõi sau điều trị
 
 - Khám lại sau 4–6 tuần sau khi bắt đầu điều trị tại chỗ để đánh giá triệu chứng, kiểm tra niêm mạc âm đạo.
 - Đo lại pH và soi dịch âm đạo nếu cần để đánh giá đáp ứng.

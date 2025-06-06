@@ -1,6 +1,6 @@
 ---
 title: Ngôi, thế, kiểu thế
-description: Ngôi, thế, kiểu thế.
+description: Ngôi, thế, kiểu thế khi sinh.
 ---
 
 **Ngôi, thế, kiểu thế** là cách mô tả tư thế và vị trí tương đối của phần thai sẽ đi qua đường sinh, dựa trên mối liên hệ giữa các mốc giải phẫu của thai nhi và khung chậu người mẹ.
@@ -16,12 +16,13 @@ description: Ngôi, thế, kiểu thế.
 
 - **Ngôi ngang**: Trục của thai nhi vuông góc với trục cơ thể người mẹ. Thai có thể ở tư thế **chéo**, không ổn định, và thường chuyển thành ngôi dọc hoặc ngang khi vào chuyển dạ.
 
-### Phân loại ngôi đầu theo mức độ cúi/ngửa của đầu thai
+### Phân loại ngôi đầu
 
 - **Ngôi chỏm**: Đầu cúi tối đa, cằm áp sát ngực.
 - **Ngôi thóp trước**: Đầu ở tư thế trung gian, thóp trước trình diện.
 - **Ngôi trán**: Đầu ngửa trung gian, trán là phần trình diện.
 - **Ngôi mặt**: Đầu ngửa tối đa, gáy chạm lưng, cằm là phần trình diện.
+  
   ![Ngôi đầu](../../../../assets/san-khoa/ngoi-the-kieu-the/ngoi-dau.png)
 
   _Ngôi đầu._
@@ -60,9 +61,9 @@ Từ đó, mỗi ngôi có 6 **kiểu thế**:
 - **Phải ngang**.
 - **Phải sau**.
 
-> Riêng ngôi ngang cần xác định thêm vai thai nhi ở bên nào (trái/phải mẹ) và **lưng thai** nằm phía trước hay sau, để mô tả đầy đủ tư thế thai nhi trong tử cung.
+Riêng ngôi ngang cần xác định thêm vai thai nhi ở bên nào (trái/phải mẹ) và **lưng thai** nằm phía trước hay sau, để mô tả đầy đủ tư thế thai nhi trong tử cung.
 
-## Chẩn đoán ngôi – thế – kiểu thế
+## Chẩn đoán
 
 Chẩn đoán dựa vào:
 
@@ -88,19 +89,19 @@ Bốn thủ thuật Leopold giúp xác định ngôi và thế thai:
 4. **Thủ thuật thứ tư**: Khám từ hướng chân sản phụ, dùng đầu ngón tay ấn trên xương vệ để đánh giá **mức độ lọt** của đầu thai.  
    → Nếu đầu chưa lọt, hai bàn tay **hội tụ vào nhau**. Khi đầu đã lọt, hai bàn tay **phân kỳ ra ngoài**.
 
-> Trong ngôi chỏm, **ụ đầu** cùng bên với chi; trong ngôi mặt, ụ đầu ngược bên với chi.
+Trong ngôi chỏm, **ụ đầu** cùng bên với chi; trong ngôi mặt, ụ đầu ngược bên với chi.
 
-### Thăm khám âm đạo
+### Khám âm đạo
+
+![Các kiểu thế trong ngôi chỏm](../../../../assets/san-khoa/ngoi-the-kieu-the/cac-kieu-the-ngoi-chom.png)
+
+_Các kiểu thế trong ngôi chỏm._
 
 Khám âm đạo lúc cổ tử cung đã mở là **phương pháp chính xác nhất** để xác định ngôi – thế – kiểu thế:
 
 - Ngôi chỏm: Tìm **thóp trước**, **thóp sau**, và **các đường khớp sọ**.
 - Ngôi mặt: Xác định **cằm**.
 - Ngôi mông: Xác định **đỉnh xương cùng** và **2 ụ ngồi**.
-
-![Các kiểu thế trong ngôi chỏm](../../../../assets/san-khoa/ngoi-the-kieu-the/cac-kieu-the-ngoi-chom.png)
-
-_Các kiểu thế trong ngôi chỏm._
 
 ### Vị trí nghe tim thai
 

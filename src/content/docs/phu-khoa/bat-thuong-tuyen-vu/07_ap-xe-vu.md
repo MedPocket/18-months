@@ -111,7 +111,7 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 - Ổ áp xe 3–5 cm: chọc hút + dẫn lưu bằng catheter dưới hướng dẫn siêu âm.
 - Ổ áp xe > 5 cm: rạch dẫn lưu.
 
-## Theo dõi sau điều trị
+### Theo dõi sau điều trị
 
 - Chăm sóc vết thương hằng ngày bằng bơm rửa ổ áp xe, dẫn lưu bằng penrose hoặc mèche.
 - Nặn hút sữa, tiếp tục nuôi con bằng sữa mẹ nếu có thể.

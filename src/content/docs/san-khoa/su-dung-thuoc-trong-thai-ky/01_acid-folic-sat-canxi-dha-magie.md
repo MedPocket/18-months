@@ -58,12 +58,12 @@ DHA là axit béo omega-3 chuỗi dài, rất cần thiết cho sự phát tri�
 
 ### Sắt
 
-Sắt là khoáng chất thiết yếu tạo hemoglobin, giúp vận chuyển oxy:
+Sắt là khoáng chất thiết yếu tạo hemoglobin, giúp vận chuyển O₂:
 
 - **Vai trò**
 
   - Ngăn ngừa thiếu máu do thiếu sắt – tình trạng phổ biến trong thai kỳ.
-  - Đảm bảo cung cấp oxy đầy đủ cho thai nhi và cơ thể mẹ.
+  - Đảm bảo cung cấp O₂ đầy đủ cho thai nhi và cơ thể mẹ.
   - Giảm nguy cơ sinh non, thai nhẹ cân.
   - Hỗ trợ phát triển hệ miễn dịch và thần kinh của thai nhi.
 

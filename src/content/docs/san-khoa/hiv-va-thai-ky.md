@@ -101,7 +101,7 @@ _Phân loại lâm sàng theo CDC._
 - **Không khuyến cáo bú mẹ** nếu có cách nuôi thay thế an toàn.
 - Nếu buộc phải cho bú mẹ: mẹ tiếp tục ART đầy đủ, trẻ nhận AZT dự phòng.
 
-## Theo dõi sau điều trị
+### Theo dõi sau điều trị
 
 - **Tải lượng HIV RNA** và **CD4**: mỗi 4–8 tuần trong quý I, mỗi 12 tuần sau đó.
 - **Chức năng thận, gan, lipid máu**: theo dõi định kỳ do tác dụng phụ ARV.

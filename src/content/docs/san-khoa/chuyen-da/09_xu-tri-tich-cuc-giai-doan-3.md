@@ -9,7 +9,7 @@ Giai đoạn 3 của chuyển dạ từ khi thai sổ đến khi rau bong và c�
 2. **Sổ rau**
 3. **Cầm máu**
 
-## Sinh lý giai đoạn 3
+## Sinh lý
 
 ### Bong rau
 
@@ -20,7 +20,7 @@ Giai đoạn 3 của chuyển dạ từ khi thai sổ đến khi rau bong và c�
 
   _Thì bong rau._
 
-Giữa bong và sổ rau, tử cung có giai đoạn **nghỉ sinh lý**, không co bóp.
+- Giữa bong và sổ rau, tử cung có giai đoạn **nghỉ sinh lý**, không co bóp.
 
 ### Sổ rau
 
@@ -41,17 +41,17 @@ Giữa bong và sổ rau, tử cung có giai đoạn **nghỉ sinh lý**, không
 
   _Thì cầm máu._
 
-:::caution[Lưu ý]
-Đoạn dưới tử cung không có bó cơ đan chéo, nên băng huyết do rau tiền đạo luôn phải xử trí khẩn cấp.
-:::
+  :::caution[Lưu ý]
+  Đoạn dưới tử cung không có bó cơ đan chéo, nên băng huyết do rau tiền đạo luôn phải xử trí khẩn cấp.
+  :::
 
-## Điều trị tích cực giai đoạn 3
+## Xử trí
 
 Can thiệp tích cực gồm ba bước chính, thực hiện ngay sau sổ vai:
 
 1. **Thuốc co hồi tử cung**
 
-   - **Oxytocin 10 IU** tiêm bắp/vào dây rốn ngay, hoặc 5 IU IV nếu chỉ định.
+   - **Oxytocin 10 IU** tiêm bắp/vào dây rốn ngay, hoặc 5 IU tĩnh mạch nếu chỉ định.
    - Giúp tăng co bóp nhanh, giảm mất máu.
 
 2. **Kéo dây rốn có kiểm soát**
@@ -63,9 +63,9 @@ Can thiệp tích cực gồm ba bước chính, thực hiện ngay sau sổ vai
 3. **Xoa bóp đáy tử cung**
    - Xoa đáy tử cung sau khi rau sổ để duy trì co cơ, đảm bảo cơ chế cầm máu cơ học.
 
-> Các nghiên cứu cho thấy giảm tổng mất máu dù không đến 100 mL, nhưng việc này giúp phòng ngừa băng huyết sau sinh và được WHO khuyến khích nếu có nhân sự đào tạo bài bản.
+Các nghiên cứu cho thấy giảm tổng mất máu dù không đến 100 mL, nhưng việc này giúp phòng ngừa băng huyết sau sinh và được WHO khuyến khích nếu có nhân sự đào tạo bài bản.
 
-## Theo dõi sau điều trị
+## Theo dõi sau xử trí
 
 - Quan sát tính trạng co hồi của tử cung (độ rắn, vị trí).
 - Đếm số lần thay băng đẫm máu.

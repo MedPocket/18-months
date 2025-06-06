@@ -1,11 +1,11 @@
 ---
 title: Đẻ thường ngôi chỏm
-description: Đẻ thường ngôi chỏm.
+description: Đặc điểm ẻ thường ngôi chỏm.
 ---
 
 Ngôi chỏm là ngôi thai mà trong đa số các trường hợp có thể sinh qua đường âm đạo.
 
-## Cơ chế đẻ thường ngôi chỏm
+## Cơ chế
 
 Trong cuộc sinh ngôi chỏm, các phần lớn nhất của thai (đầu, vai, mông) sẽ lần lượt vượt qua các eo của khung chậu: eo trên, eo giữa, eo dưới. Quá trình này bao gồm các thì tuần tự sau:
 
@@ -54,13 +54,13 @@ _Xuống và xoay trong._
 
 Sổ thai xảy ra khi ngôi vượt qua eo dưới, điểm tựa chính là **bờ dưới khớp vệ**, nơi ngôi thực hiện động tác sổ ra ngoài.
 
-## Kỹ thuật đỡ đẻ ngôi chỏm
+## Kỹ thuật đỡ đẻ
 
 Các giai đoạn **(a → d)** xảy ra theo cơ chế tự nhiên, **không được can thiệp**:
 
 ![Đẻ thường ngôi chỏm a-d](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-a-d.png)
 
-_Đẻ thường ngôi chỏm._
+_Đẻ thường ngôi chỏm a → d._
 
 Từ giai đoạn **(e → h)**, người đỡ sinh có thể **hỗ trợ** nếu thỏa 3 điều kiện:
 
@@ -76,7 +76,7 @@ Từ giai đoạn **(e → h)**, người đỡ sinh có thể **hỗ trợ** n�
 
 ![Đẻ thường ngôi chỏm e-f](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-e-f.png)
 
-_Đẻ thường ngôi chỏm._
+_Đẻ thường ngôi chỏm e → f._
 
 - **Xoay ngoài thì 1st**: đầu tự xoay về vị trí ban đầu.
 - **Xoay ngoài thì 2nd**: vai xoay trong → đầu xoay ngoài thêm → vào đường kính trước sau.
@@ -86,7 +86,7 @@ _Đẻ thường ngôi chỏm._
 
 ![Đẻ thường ngôi chỏm g-h](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-g-h.png)
 
-_Đẻ thường ngôi chỏm._
+_Đẻ thường ngôi chỏm g → h._
 
 - **Sổ phần còn lại**: Tay trái đỡ cổ, tay phải vuốt dọc lưng, nắm 2 bàn chân bằng 3 ngón tay (cái, trỏ, giữa). Sau sổ, giữ đầu thai thấp hơn bàn sinh.
 
@@ -100,7 +100,9 @@ Cắt tầng sinh môn không rút ngắn thời gian rặn, không giúp sinh n
 
 ![Cắt tầng sinh môn](../../../../assets/san-khoa/de-thuong-ngoi-chom/cat-tang-sinh-mon.png)
 
-## Cách thở và rặn trong cuộc đẻ
+_Cắt tầng sinh môn._
+
+## Thở và rặn trong cuộc đẻ
 
 ### Cách thở
 

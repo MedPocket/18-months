@@ -148,7 +148,7 @@ _Herpes sinh dục: mụn nước, vết loét ở vùng môi bé và âm đạo
 
 :::
 
-## Theo dõi sau điều trị
+### Theo dõi sau điều trị
 
 - **Khám lại khi có thay đổi bất thường:**
 

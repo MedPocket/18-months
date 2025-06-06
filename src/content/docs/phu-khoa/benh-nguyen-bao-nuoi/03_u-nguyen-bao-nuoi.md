@@ -213,7 +213,7 @@ _Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi – Bệnh viện T�
 
 _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ._
 
-## Theo dõi sau điều trị
+### Theo dõi sau điều trị
 
 - **β-hCG** hàng tuần đến âm tính 3 lần liên tiếp, sau đó hàng tháng 6–12 tháng tùy nhóm.
 - **Khám lâm sàng, siêu âm, X-quang ngực, cận lâm sàng** khi β-hCG bất thường hoặc có triệu chứng lâm sàng.

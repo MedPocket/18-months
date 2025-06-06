@@ -1,6 +1,6 @@
 ---
 title: Ối vỡ non
-description: Ối vỡ non.
+description: Chẩn đoán, xử trí ối vỡ non.
 ---
 
 Ối vỡ non được định nghĩa là tình trạng màng ối và màng đệm bị mất tính toàn vẹn, dẫn đến nước ối chảy ra ngoài trước khi thai phụ có dấu hiệu chuyển dạ.
@@ -13,35 +13,37 @@ description: Ối vỡ non.
 - Nhiễm trùng đường sinh dục dưới.
 - Các yếu tố nguy cơ của chuyển dạ sinh non.
 
-## Lâm sàng
+## Chẩn đoán
 
-Mọi thai phụ nhập viện vì ra nước âm đạo cần được loại trừ **sa dây rốn**, một tình trạng cấp cứu sản khoa. Việc đầu tiên là **nghe tim thai**, không được khám âm đạo bằng tay để tìm dây rốn sa.
+### Lâm sàng
 
-Tiếp theo, sử dụng **mỏ vịt vô khuẩn** để quan sát âm đạo, đánh giá tình trạng rỉ ối bằng mắt thường và các nghiệm pháp như Valsalva hoặc test Nitrazine.
+- Mọi thai phụ nhập viện vì ra nước âm đạo cần được loại trừ **sa dây rốn**, một tình trạng cấp cứu sản khoa. Việc đầu tiên là **nghe tim thai**, không được khám âm đạo bằng tay để tìm dây rốn sa.
 
-Chẩn đoán xác định khi quan sát thấy dịch lỏng chảy ra đột ngột, số lượng nhiều, liên tục và có mùi đặc trưng của nước ối.
+- Tiếp theo, sử dụng **mỏ vịt vô khuẩn** để quan sát âm đạo, đánh giá tình trạng rỉ ối bằng mắt thường và các nghiệm pháp như Valsalva hoặc test Nitrazine.
 
-**Không được khám âm đạo bằng tay** vì không có giá trị chẩn đoán và có nguy cơ làm tăng nguy cơ nhiễm trùng.
+- Chẩn đoán xác định khi quan sát thấy dịch lỏng chảy ra đột ngột, số lượng nhiều, liên tục và có mùi đặc trưng của nước ối.
 
-Có thể **đặt băng vệ sinh ngoài âm hộ**, kiểm tra sau 1 giờ bằng cách quan sát màu sắc và mùi dịch.
+- **Không được khám âm đạo bằng tay** vì không có giá trị chẩn đoán và có nguy cơ làm tăng nguy cơ nhiễm trùng.
 
-## Cận lâm sàng
+- Có thể **đặt băng vệ sinh ngoài âm hộ**, kiểm tra sau 1 giờ bằng cách quan sát màu sắc và mùi dịch.
 
-### Test Nitrazine
+### Cận lâm sàng
 
-Dựa trên nguyên lý: dịch âm đạo và nước tiểu có tính acid, còn nước ối có tính kiềm. Dùng giấy thử Nitrazine nhúng vào dịch tại lưỡi mỏ vịt. Nếu có nước ối, giấy sẽ đổi màu từ **vàng sang xanh lam**.
+#### Test Nitrazine
+
+- Dựa trên nguyên lý: dịch âm đạo và nước tiểu có tính acid, còn nước ối có tính kiềm. Dùng giấy thử Nitrazine nhúng vào dịch tại lưỡi mỏ vịt. Nếu có nước ối, giấy sẽ đổi màu từ **vàng sang xanh lam**.
 
 :::caution[Lưu ý]
 Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một số nhiễm trùng âm đạo.
 :::
 
-### Test dương sỉ
+#### Test dương sỉ
 
-Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới tác dụng của estrogen, tạo hình ảnh như **lá dương xỉ** khi quan sát dưới kính hiển vi sau khi làm khô lam kính. Dễ gặp kết quả âm tính giả.
+- Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới tác dụng của estrogen, tạo hình ảnh như **lá dương xỉ** khi quan sát dưới kính hiển vi sau khi làm khô lam kính. Dễ gặp kết quả âm tính giả.
 
 ### Siêu âm
 
-Đánh giá lượng nước ối, ngôi thai, sự phát triển thai.
+- Đánh giá lượng nước ối, ngôi thai, sự phát triển thai.
 
 ### Các xét nghiệm khác
 
@@ -49,7 +51,7 @@ Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới t�
 - **CTG hoặc Non-stress test** nếu cần thiết.
 - **Xét nghiệm liên cầu nhóm B (GBS)** nếu có chỉ định.
 
-## Chẩn đoán
+## Chẩn đoán phân biệt
 
 :::note[Tiêu chuẩn chẩn đoán ối vỡ non]
 
@@ -72,7 +74,7 @@ Xử trí ối vỡ non phụ thuộc vào 2 yếu tố chính:
 1. Tuổi thai tại thời điểm vỡ ối.
 2. Có hay không có dấu hiệu nhiễm trùng ối.
 
-### Trường hợp có dấu hiệu nhiễm trùng
+### Có dấu hiệu nhiễm trùng
 
 Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhiễm trùng ối**:
 
@@ -80,41 +82,41 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 - **Chấm dứt thai kỳ ngay**, không phụ thuộc tuổi thai.
 - **Không dùng corticosteroids** trong bất kỳ trường hợp nhiễm trùng ối.
 
-### Trường hợp không có dấu hiệu nhiễm trùng
+### Không có dấu hiệu nhiễm trùng
 
 #### Điều trị mong đợi
 
-Áp dụng khi **thai < 34 tuần**, **không có dấu hiệu nhiễm trùng**, **không có đe dọa mẹ và thai**.
+- Áp dụng khi **thai < 34 tuần**, **không có dấu hiệu nhiễm trùng**, **không có đe dọa mẹ và thai**.
 
 - **Kháng sinh dự phòng** để giảm nguy cơ nhiễm trùng và trì hoãn sinh. Mục tiêu là phòng ngừa nhiễm Streptococcus nhóm B.
 
-:::caution[Lưu ý]
-Không dùng **Amoxicillin + Acid Clavulanic** vì có nguy cơ gây **viêm ruột hoại tử** ở sơ sinh. Phác đồ khuyến cáo:
+  :::caution[Lưu ý]
+  Không dùng **Amoxicillin + Acid Clavulanic** vì có nguy cơ gây **viêm ruột hoại tử** ở sơ sinh. Phác đồ khuyến cáo:
 
-- **Lựa chọn 1**:
+  - **Lựa chọn 1**:
 
-  - Azithromycin 1 g (uống) khi nhập viện
-  - Ampicillin 2 g (tĩnh mạch chậm) mỗi 6 giờ × 48 giờ
-  - Sau đó: Amoxicillin 500mg (uống) mỗi 8 giờ × 5 ngày
+    - Azithromycin 1 g (uống) khi nhập viện
+    - Ampicillin 2 g (tĩnh mạch chậm) mỗi 6 giờ × 48 giờ
+    - Sau đó: Amoxicillin 500mg (uống) mỗi 8 giờ × 5 ngày
 
-- **Lựa chọn 2**:
+  - **Lựa chọn 2**:
 
-  - Ampicillin 1 g (uống) khi nhập viện
-  - Cefazolin 1 g (tĩnh mạch chậm) mỗi 8 giờ × 48 giờ
-  - Sau đó: Cephalexin 500mg (uống) mỗi 6 giờ × 5 ngày
+    - Ampicillin 1 g (uống) khi nhập viện
+    - Cefazolin 1 g (tĩnh mạch chậm) mỗi 8 giờ × 48 giờ
+    - Sau đó: Cephalexin 500mg (uống) mỗi 6 giờ × 5 ngày
 
-- **Dị ứng nặng với Penicillin**:
+  - **Dị ứng nặng với Penicillin**:
 
-  - Azithromycin 1 g (uống) khi nhập viện
-  - Clindamycin 900 mg (truyền tĩnh mạch) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền tĩnh mạch) mỗi 24 giờ × 48 giờ
-  - Sau đó: Clindamycin 300mg (uống) mỗi 8 giờ × 5 ngày
+    - Azithromycin 1 g (uống) khi nhập viện
+    - Clindamycin 900 mg (truyền tĩnh mạch) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền tĩnh mạch) mỗi 24 giờ × 48 giờ
+    - Sau đó: Clindamycin 300mg (uống) mỗi 8 giờ × 5 ngày
 
-- **GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ**:
-  - Azithromycin 1 g (uống) khi nhập viện
-  - Vancomycin 20 mg/kg (tối đa 2 g/ngày) mỗi 24 giờ × 48 giờ  
-    _Cần đo creatinine trước dùng. Cân nhắc độc tính thận ở liều cao hoặc thời gian dùng kéo dài._
+  - **GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ**:
+    - Azithromycin 1 g (uống) khi nhập viện
+    - Vancomycin 20 mg/kg (tối đa 2 g/ngày) mỗi 24 giờ × 48 giờ  
+      _Cần đo creatinine trước dùng. Cân nhắc độc tính thận ở liều cao hoặc thời gian dùng kéo dài._
 
-:::
+  :::
 
 - **Corticosteroids**: dùng sớm cho mẹ để giảm nguy cơ suy hô hấp sơ sinh, ngay cả khi chưa chắc đủ thời gian hoàn tất phác đồ.
 - **Theo dõi**:
@@ -130,7 +132,7 @@ Không dùng **Amoxicillin + Acid Clavulanic** vì có nguy cơ gây **viêm ru�
 
 #### Chấm dứt thai kỳ
 
-Chỉ định chấm dứt thai kỳ khi:
+**Chỉ định chấm dứt thai kỳ khi**:
 
 - Tuổi thai ≥ 34 tuần hoặc < 24 tuần.
 - Có chuyển dạ.
@@ -148,7 +150,7 @@ Chỉ định chấm dứt thai kỳ khi:
 - Liều: 4.5g tĩnh mạch chậm trong 20–30 phút.
 - Nên truyền trước sinh 4 giờ.
 
-Trong chuyển dạ:
+**Trong chuyển dạ**:
 
 - Đánh giá tiến triển mỗi 4 giờ (giai đoạn tiềm tàng), mỗi 1–2 giờ (giai đoạn hoạt động).
 - Theo dõi nhiễm trùng ối.
@@ -163,17 +165,14 @@ Trong chuyển dạ:
 
 ## Nhiễm trùng ối
 
-Là tình trạng nhiễm trùng ngoại khoa cần xử lý ngay.
-
-- **Nguyên tắc**:
+- Là tình trạng nhiễm trùng ngoại khoa cần xử lý ngay. **Nguyên tắc**:
+  
   1. Dùng kháng sinh phổ rộng phối hợp.
   2. Chấm dứt thai kỳ càng sớm càng tốt.
 
-Không xử trí triệt để sẽ dẫn đến nhiễm trùng huyết và tử vong.
-
-Dùng kháng sinh đến khi sinh và ít nhất **48 giờ sau sinh**, nếu không còn dấu hiệu nhiễm trùng.
-
-Cân nhắc sinh thường nếu điều kiện cổ tử cung thuận lợi. Mổ lấy thai có thể làm tăng nguy cơ vấy bẩn phúc mạc.
+- Không xử trí triệt để sẽ dẫn đến nhiễm trùng huyết và tử vong.
+- Dùng kháng sinh đến khi sinh và ít nhất **48 giờ sau sinh**, nếu không còn dấu hiệu nhiễm trùng.
+- Cân nhắc sinh thường nếu điều kiện cổ tử cung thuận lợi. Mổ lấy thai có thể làm tăng nguy cơ vấy bẩn phúc mạc.
 
 ## Nguồn tham khảo
 

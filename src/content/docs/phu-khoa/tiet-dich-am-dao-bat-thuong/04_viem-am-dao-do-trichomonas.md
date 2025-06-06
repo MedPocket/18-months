@@ -126,7 +126,7 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 - Nếu bạn tình dị ứng Metronidazole, có thể cân nhắc Tinidazole 2 g liều đơn.
 - Hạn chế quan hệ tình dục cho đến khi cả hai đã hoàn thành điều trị và triệu chứng hết hoàn toàn (ít nhất 7 ngày sau dùng Metronidazole liều đơn).
 
-## Theo dõi sau điều trị sau điều trị
+### Theo dõi sau điều trị sau điều trị
 
 - Hẹn tái khám sau 2–4 tuần để kiểm tra lâm sàng và cận lâm sàng (nếu cần).
 - Hướng dẫn vệ sinh vùng kín đúng cách: tránh thụt rửa âm đạo, dùng xà phòng pH trung tính, mặc đồ lót thoáng, thấm hút tốt.

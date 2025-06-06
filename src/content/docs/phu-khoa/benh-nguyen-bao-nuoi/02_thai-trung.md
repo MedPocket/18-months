@@ -134,7 +134,7 @@ _Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh viện Từ Dũ._
   - Ưu tiên COC hoặc bao cao su.
   - Tránh IUD do rong huyết gây nhiễu theo dõi.
 
-## Theo dõi sau điều trị
+### Theo dõi sau điều trị
 
 1. Định lượng β-hCG mỗi tuần sau hút nạo đến khi âm tính 3 lần liên tiếp.
 2. Sau đó mỗi tháng trong 6 tháng (bán phần) hoặc 12 tháng (toàn phần).

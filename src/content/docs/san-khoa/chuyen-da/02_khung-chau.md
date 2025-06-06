@@ -1,103 +1,102 @@
 ---
 title: Khung chậu trong sản khoa
-description: Tổng quan về giải phẫu và vai trò của khung chậu trong sản khoa, bao gồm cấu tạo, các eo khung chậu, đánh giá lâm sàng và các dạng khung chậu ảnh hưởng đến chuyển dạ.
+description: Giải phẫu và vai trò của khung chậu trong sản khoa, bao gồm cấu tạo, các eo khung chậu, đánh giá lâm sàng và các dạng khung chậu ảnh hưởng đến chuyển dạ.
 ---
 
 Khung chậu có vai trò rất quan trọng trong sản khoa, vì thai từ trong tử cung muốn sinh qua ngã âm đạo phải vượt qua được đoạn đường bên trong lòng khung chậu.
 
-Khung chậu được cấu tạo bởi 4 xương: phía trước và 2 bên là 2 xương chậu, phía sau là xương cùng-cụt. Mặt trong xương chậu có gờ vô danh chia khung chậu làm 2 phần: **đại khung** phía trên và **tiểu khung** phía dưới.
+## Giải phẫu
 
-Tiểu khung là phần quan trọng nhất vì ngôi thai phải vượt qua tiểu khung để đi ra ngoài qua ngã âm đạo. Trên đoạn đường đi từ trong ra ngoài này, thai nhi phải lần lượt vượt qua các vòng eo hẹp – có thể được cấu tạo bằng xương hoặc xương kết hợp với cân-cơ – đó là: **eo trên**, **eo giữa** và **eo dưới**.
+- Khung chậu được cấu tạo bởi 4 xương: phía trước và 2 bên là 2 xương chậu, phía sau là xương cùng-cụt. Mặt trong xương chậu có gờ vô danh chia khung chậu làm 2 phần: **đại khung** phía trên và **tiểu khung** phía dưới.
 
-Khi nhìn ngang, lòng tiểu khung có dạng ống cong về phía trước với 2 thành không đều nhau:
+- Tiểu khung là phần quan trọng nhất vì ngôi thai phải vượt qua tiểu khung để đi ra ngoài qua ngã âm đạo. Trên đoạn đường đi từ trong ra ngoài này, thai nhi phải lần lượt vượt qua các vòng eo hẹp – có thể được cấu tạo bằng xương hoặc xương kết hợp với cân-cơ – đó là: **eo trên**, **eo giữa** và **eo dưới**.
 
-- Thành trước ngắn, khoảng 4cm, tương ứng với mặt sau khớp vệ.
-- Thành sau dài hơn, 12–15cm, tương ứng với mặt trước xương cùng và xương cụt.
+- Khi nhìn ngang, lòng tiểu khung có dạng ống cong về phía trước với 2 thành không đều nhau:
 
-Các thì trong quá trình ngôi thai đi qua khung chậu:
+  - Thành trước ngắn, khoảng 4cm, tương ứng với mặt sau khớp vệ.
+  - Thành sau dài hơn, 12–15cm, tương ứng với mặt trước xương cùng và xương cụt.
 
-- **Lọt**: ngôi thai đi qua **eo trên**.
-- **Xuống**: ngôi di chuyển từ **eo trên đến eo dưới**.
-- **Sổ**: ngôi vượt qua **eo dưới** và ra ngoài.
+- Các thì trong quá trình ngôi thai đi qua khung chậu:
 
-## Eo trên
+  - **Lọt**: ngôi thai đi qua **eo trên**.
+  - **Xuống**: ngôi di chuyển từ **eo trên đến eo dưới**.
+  - **Sổ**: ngôi vượt qua **eo dưới** và ra ngoài.
 
-Eo trên là mặt phẳng xương đầu tiên mà ngôi thai phải vượt qua khi bắt đầu chuyển dạ.
+### Eo trên
 
-- **Giới hạn**:
+- Eo trên là mặt phẳng xương đầu tiên mà ngôi thai phải vượt qua khi bắt đầu chuyển dạ. **Giới hạn**:
+
   - Sau: Mỏm nhô của xương cùng.
   - Hai bên: Đường vô danh của 2 xương cánh chậu.
   - Trước: Mặt sau của khớp vệ.
 
-Eo trên là vòng xương cứng, không thay đổi trong chuyển dạ. Kích thước của eo trên được thể hiện qua các **đường kính**:
+- Eo trên là vòng xương cứng, không thay đổi trong chuyển dạ. Kích thước của eo trên được thể hiện qua các **đường kính**:
 
-![Các đường kính eo trên](../../../../assets/san-khoa/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
+  ![Các đường kính eo trên](../../../../assets/san-khoa/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
 
-_Các đường kính eo trên._
+  _Các đường kính eo trên._
 
-**Đường kính trước-sau**:
+  - **Đường kính trước-sau**:
 
-- **Mỏm nhô – thượng vệ**: 11 cm.
-- **Mỏm nhô – hạ vệ**: 12 cm. Đo được bằng tay, nhưng chỉ phản ánh gián tiếp đường kính thật sự của eo trên.
-- **Mỏm nhô – hậu vệ**: 10.5 cm. Đây là đường kính **hữu dụng** và **quan trọng nhất**, vì là đường kính thật sự mà ngôi thai phải vượt qua.
+    - **Mỏm nhô – thượng vệ**: 11 cm.
+    - **Mỏm nhô – hạ vệ**: 12 cm. Đo được bằng tay, nhưng chỉ phản ánh gián tiếp đường kính thật sự của eo trên.
+    - **Mỏm nhô – hậu vệ**: 10.5 cm. Đây là đường kính **hữu dụng** và **quan trọng nhất**, vì là đường kính thật sự mà ngôi thai phải vượt qua.
 
-**Đường kính chéo**:
+  - **Đường kính chéo**:
 
-- Từ khớp cùng-chậu bên này đến gai mào chậu lược bên kia.
-- Trị số bình thường: 12.75 cm.
+    - Từ khớp cùng-chậu bên này đến gai mào chậu lược bên kia.
+    - Trị số bình thường: 12.75 cm.
 
-**Đường kính ngang**:
+  - **Đường kính ngang**:
 
-- **Ngang tối đa**: 13.5 cm – không có giá trị sản khoa vì nằm gần mỏm nhô.
-- **Ngang hữu dụng**: 12.5 cm – là đường kính ngang đi qua trung điểm của đường kính trước-sau. Dù quan trọng, nhưng **không thể đo được lâm sàng**.
+    - **Ngang tối đa**: 13.5 cm – không có giá trị sản khoa vì nằm gần mỏm nhô.
+    - **Ngang hữu dụng**: 12.5 cm – là đường kính ngang đi qua trung điểm của đường kính trước-sau. Dù quan trọng, nhưng **không thể đo được lâm sàng**.
 
-## Eo giữa
+### Eo giữa
 
-Eo giữa là đoạn hẹp nhất về mặt giải phẫu của đường sinh.
-
-- Được tạo bởi:
+- Eo giữa là đoạn hẹp nhất về mặt giải phẫu của đường sinh. Được tạo bởi:
+  
   - Sau: Xương cùng (hõm xương cùng).
   - Hai bên: Gai hông – điểm nhô vào lòng tiểu khung, gây hẹp rõ rệt.
   - Trước: Mặt sau khớp vệ.
   - Phần còn lại là cơ và mạc.
 
-Hõm xương cùng tạo thành một **khúc cong**, giống như "khúc cua cùi chỏ", đòi hỏi ngôi thai phải xoay để vượt qua.
+- Hõm xương cùng tạo thành một **khúc cong**, giống như "khúc cua cùi chỏ", đòi hỏi ngôi thai phải xoay để vượt qua.
 
-![Tiểu khung trên thiết đồ đứng dọc](../../../../assets/san-khoa/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
+  ![Tiểu khung trên thiết đồ đứng dọc](../../../../assets/san-khoa/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
 
-_Tiểu khung trên thiết đồ đứng dọc._
+  _Tiểu khung trên thiết đồ đứng dọc._
 
-**Các đường kính chính**:
+- **Các đường kính chính**:
 
-- **Đường kính trước-sau**: 11.5 cm – không có ý nghĩa lâm sàng.
-- **Đường kính ngang**: 10.5 cm – khoảng cách giữa 2 gai hông; **có thể đo được và có giá trị lâm sàng cao**.
-- **Đường kính dọc sau**: 4.5 cm – từ điểm giao với đường kính ngang đến mặt trước xương cùng; phản ánh **độ cong xương cùng** và **khả năng di chuyển của ngôi**.
+  - **Đường kính trước-sau**: 11.5 cm – không có ý nghĩa lâm sàng.
+  - **Đường kính ngang**: 10.5 cm – khoảng cách giữa 2 gai hông; **có thể đo được và có giá trị lâm sàng cao**.
+  - **Đường kính dọc sau**: 4.5 cm – từ điểm giao với đường kính ngang đến mặt trước xương cùng; phản ánh **độ cong xương cùng** và **khả năng di chuyển của ngôi**.
 
-## Eo dưới
+### Eo dưới
 
-Eo dưới là đoạn cuối cùng của đường sinh, không phải là trở ngại lớn trong phần lớn các trường hợp.
+- Eo dưới là đoạn cuối cùng của đường sinh, không phải là trở ngại lớn trong phần lớn các trường hợp. Cấu tạo gồm 2 tam giác:
 
-Cấu tạo gồm 2 tam giác:
+  1. **Tam giác xương (phía trước)**
 
-1. **Tam giác xương (phía trước)**:
+    - Bờ dưới khớp vệ.
+    - Hai bên là hai nhánh tọa của xương chậu.
 
-   - Bờ dưới khớp vệ.
-   - Hai bên là hai nhánh tọa của xương chậu.
+  2. **Tam giác cân-cơ-màng (phía sau)**
+    
+    - Đỉnh: Đỉnh xương cụt.
+    - Đáy: 2 ụ ngồi.
+    - Hai cạnh bên: Dây chằng tọa-cùng.
+    - Do khớp cùng-cụt là **khớp bán động**, đỉnh xương cụt có thể bị đẩy ra sau, giúp mở rộng thêm không gian eo dưới trong chuyển dạ.
 
-2. **Tam giác cân-cơ-màng (phía sau)**:
-   - Đỉnh: Đỉnh xương cụt.
-   - Đáy: 2 ụ ngồi.
-   - Hai cạnh bên: Dây chằng tọa-cùng.
-   - Do khớp cùng-cụt là **khớp bán động**, đỉnh xương cụt có thể bị đẩy ra sau, giúp mở rộng thêm không gian eo dưới trong chuyển dạ.
+- **Các đường kính chính**:
 
-**Các đường kính chính**:
+  - **Trước-sau**: 9.5–11.5 cm – không có ý nghĩa lâm sàng vì tính chất không đồng phẳng.
+  - **Ngang**: 11 cm – khoảng cách giữa hai ụ ngồi; đo được trên lâm sàng, **có giá trị nhất định**.
 
-- **Trước-sau**: 9.5–11.5 cm – không có ý nghĩa lâm sàng vì tính chất không đồng phẳng.
-- **Ngang**: 11 cm – khoảng cách giữa hai ụ ngồi; đo được trên lâm sàng, **có giá trị nhất định**.
+## Đánh giá
 
-## Đánh giá khung chậu
-
-### Khám lâm sàng
+### Lâm sàng
 
 Thực hiện khi sản phụ chuyển dạ hoặc thai đủ trưởng thành. Mục tiêu là đánh giá khả năng sinh ngả âm đạo thông qua việc cảm nhận và đo đạc:
 
@@ -108,11 +107,12 @@ Thực hiện khi sản phụ chuyển dạ hoặc thai đủ trưởng thành. 
   - Đường kính ngang eo dưới: Thước dây hoặc thước Beaudelocque.
 
 - **Đánh giá cảm nhận**:
+
   - Đường kính ngang eo trên: Đánh giá qua chiều dài phần gờ vô danh sờ được (thường chỉ sờ được khoảng ½ nếu bình thường).
   - Độ cong xương cùng: Chỉ ước lượng tương đối.
   - Độ rộng của góc tạo bởi 2 ngành ngồi-mu.
 
-### Quang kích chậu
+### Cận lâm sàng
 
 - Phương pháp sử dụng X-quang để đo chính xác các đường kính khung chậu.
 - **Không chỉ định thường quy** vì có thể dẫn đến **can thiệp không cần thiết** (như chỉ định mổ lấy thai sớm).

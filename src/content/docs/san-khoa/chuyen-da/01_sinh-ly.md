@@ -1,11 +1,11 @@
 ---
 title: Sinh lý chuyển dạ
-description: Tìm hiểu toàn diện về sinh lý chuyển dạ – bao gồm các biểu hiện, cơ chế sinh học, chẩn đoán, các giai đoạn của chuyển dạ và theo dõi chuyển dạ lâm sàng.
+description: Sinh lý chuyển dạ – bao gồm các biểu hiện, cơ chế sinh học, chẩn đoán, các giai đoạn của chuyển dạ và theo dõi chuyển dạ lâm sàng.
 ---
 
 Chuyển dạ là quá trình có sự xuất hiện các cơn co tử cung hiệu quả, gây nên hiện tượng xóa và mở cổ tử cung, nhằm tống xuất thai nhi và phần phụ ra ngoài qua ngả âm đạo.
 
-## Biểu hiện của chuyển dạ
+## Đặc điểm
 
 ### Sự chín muồi của cổ tử cung
 
@@ -59,11 +59,12 @@ _Vòng Bandl bệnh lý khi có chuyển dạ tắc nghẽn. Phía trên đáy t
 
 - Khi cổ tử cung bắt đầu mở, nút nhầy bong ra, một phần túi ối bị đẩy xuống qua lỗ cổ tử cung tạo thành "đầu ối".
 - Đầu ối có vai trò như "nêm thủy lực" giúp cổ tử cung mở nhanh hơn khi ngôi thai còn cao.
+  
   ![Thành lập đầu ối](../../../../assets/san-khoa/sinh-ly-chuyen-da/thanh-lap-dau-oi.png)
 
   _Thành lập đầu ối phía trước ngôi thai, ở vị trí lỗ cổ tử cung._
 
-## Chẩn đoán chuyển dạ
+## Chẩn đoán
 
 :::note[Chẩn đoán chuyển dạ]
 Chẩn đoán chuyển dạ khi có ≥ 2 trong các tiêu chuẩn sau:
@@ -73,7 +74,7 @@ Chẩn đoán chuyển dạ khi có ≥ 2 trong các tiêu chuẩn sau:
 3. Có đầu ối, ối căng phồng theo cơn co.
    :::
 
-## Các giai đoạn của chuyển dạ
+## Các giai đoạn
 
 Chuyển dạ gồm 3 giai đoạn:
 
@@ -101,21 +102,21 @@ Xóa mở cổ tử cung chia thành 2 pha:
 
   _So sánh pha tiềm thời và pha hoạt động._
 
-## Theo dõi chuyển dạ
+## Theo dõi
 
 Chuyển dạ là quá trình tương tác của 3 yếu tố chính – còn gọi là "3P":
 
-1. **Power – Cơn co tử cung**:
+1. **Power – Cơn co tử cung**
 
    - Động lực chính tạo ra xóa mở cổ tử cung và đẩy thai xuống.
    - Cơn co có hiệu quả khi nhịp nhàng, đều đặn và có biên độ lớn.
 
-2. **Passenger – Ngôi thai**:
+2. **Passenger – Ngôi thai**
 
    - Kích thước, tư thế, kiểu thế của ngôi thai ảnh hưởng đến khả năng vượt qua khung chậu.
    - Ngôi thai cần biến dạng phù hợp để thích nghi với đường sinh.
 
-3. **Passage – Đường sinh (khung chậu)**:
+3. **Passage – Đường sinh (khung chậu)**
    - Gồm khung chậu xương và phần mềm.
    - Tạo ra lực cản và ảnh hưởng đến sự tiến triển của ngôi thai.
 
