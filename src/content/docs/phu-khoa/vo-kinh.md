@@ -50,7 +50,7 @@ Nguyên nhân chính liên quan đến trục hạ đồi – yên – buồng t
   - U buồng trứng (theca, Brenner, u quái...).
 
 - **Rối loạn nội tiết khác**
-  
+
   - Hội chứng buồng trứng đa nang (PCOS).
   - Cushing, suy giáp, cường giáp.
   - Thiếu nhạy cảm androgen/estrogen.
@@ -93,7 +93,7 @@ _Nguyên nhân vô kinh do bất thường đường sinh dục._
   - 15 tuổi chưa kinh dù phát triển giới tính bình thường.
 
 - **Thứ phát**: từng có kinh +
-  
+
   - Mất ≥ 3 tháng (chu kỳ trước đều) hoặc ≥ 6 tháng (không đều).
   - < 9 kỳ/năm hoặc chu kỳ > 38 ngày.
   - Thay đổi liên tục về tần suất, khối lượng, thời gian.
@@ -130,7 +130,7 @@ _Nguyên nhân vô kinh do bất thường đường sinh dục._
    - MRI não nếu nghi ngờ tổn thương hạ đồi/tuyến yên.
 
 3. **Thử nghiệm nội tiết động**
-   
+
    - Thử thách progestin (medroxyprogesterone 5–10 mg × 7–10 ngày).
    - Thử thách estrogen/progestin (estrogen 21 ngày + progestin 7–10 ngày).
    - Thử nghiệm clomiphene hoặc gonadotropin stimulation.
@@ -148,7 +148,7 @@ _Nguyên nhân vô kinh do bất thường đường sinh dục._
 Mục tiêu điều trị tùy theo nguyên nhân và mong muốn sinh đẻ:
 
 1. **Gây rụng trứng**
-   
+
    - Clomiphene citrate, letrozole, gonadotropin.
 
 2. **Thay thế hormon**
