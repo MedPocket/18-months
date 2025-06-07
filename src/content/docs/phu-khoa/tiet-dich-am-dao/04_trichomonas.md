@@ -9,24 +9,24 @@ Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vagin
 
 **Trichomonas vaginalis** là ký sinh trùng hình chiếc lá, có 4 roi ở vùng đầu và roi ngắn ở phía sau, sống ký sinh trong âm đạo, cổ tử cung và niệu đạo. T. vaginalis chỉ có thể tồn tại và sinh sản trong môi trường ẩm ướt, pH hơi kiềm của âm đạo (pH thường > 5).
 
-- **Đường lây:**
+- **Đường lây**:
 
   - Chủ yếu qua quan hệ tình dục không an toàn (âm đạo – âm đạo, âm đạo – dương vật).
   - Ít gặp lây gián tiếp qua đồ dùng cá nhân (đồ lót, khăn, bồn tắm chung), vì T. vaginalis kém bền ngoài môi trường.
 
-- **Cơ chế bệnh sinh:**
+- **Cơ chế bệnh sinh**:
 
   1. T. vaginalis gắn vào tế bào biểu mô âm đạo và tiết ra protease, men gây tổn thương biểu mô, làm mất lớp bảo vệ niêm mạc.
   2. Ký sinh trùng tiết ra các sản phẩm chuyển hóa (amin dễ bay hơi) gây mùi hôi tanh.
   3. Tổn thương niêm mạc kèm theo đáp ứng viêm, tăng bạch cầu đa nhân trung tính ở vùng viêm.
 
-- **Dịch tễ học:**
+- **Dịch tễ học**:
 
   - Tỷ lệ nhiễm ở phụ nữ tuổi sinh sản dao động 5–15%, có thể cao hơn ở nhóm nguy cơ (quan hệ tình dục sớm, nhiều bạn tình).
   - Ở nam giới, đa số không có triệu chứng, nhưng có thể là nguồn lây tiềm ẩn (niệu đạo nhiễm).
   - Phụ nữ mang thai nhiễm Trichomonas có thể tăng nguy cơ sinh non, vỡ ối non, viêm màng ối.
 
-- **Yếu tố thuận lợi / nguy cơ (nằm trong mục Nguyên nhân để đầy đủ thông tin):**
+- **Yếu tố thuận lợi / nguy cơ (nằm trong mục Nguyên nhân để đầy đủ thông tin)**:
   - Quan hệ tình dục không dùng bao cao su, có nhiều bạn tình cùng lúc.
   - Tiền sử nhiễm các bệnh lây qua đường tình dục khác (HIV, Chlamydia, Gonorrhea).
   - Thụt rửa âm đạo (douching) làm thay đổi pH, giảm hàng rào bảo vệ.
@@ -37,37 +37,37 @@ Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vagin
 
 ### Lâm sàng
 
-- **Huyết trắng:**
+- **Huyết trắng**:
   - Lượng nhiều, màu vàng hoặc xanh (lục), loãng, có bọt (bọt khí do sự di động của trùng roi), mùi tanh.
-- **Triệu chứng kèm:**
+- **Triệu chứng kèm**:
   - Có thể ngứa âm hộ – âm đạo.
   - Tiểu rát, tiểu buốt (nếu niệu đạo có liên quan).
   - Trường hợp nặng có thể có "dấu hiệu trái dâu tây" (strawberry cervix): âm đạo và cổ tử cung có những điểm xuất huyết nhỏ, lấm tấm do mao mạch vỡ.
 
 ### Cận lâm sàng
 
-1. **Soi tươi:**
+1. **Soi tươi**:
 
    - Lấy dịch âm đạo (hoặc niệu đạo nam giới) pha loãng với NaCl 0.9%, soi tươi ngay dưới kính hiển vi ×400–×1000.
    - Thấy trùng roi T. vaginalis di động, kích thước 10–20 µm, chuyển động lắc lư, kèm tăng bạch cầu trung tính (≥10 bạch cầu/khung trung bình).
    - Độ nhạy 60–70%, phụ thuộc chất lượng mẫu và kinh nghiệm người soi.
 
-2. **Nhuộm Gram:**
+2. **Nhuộm Gram**:
 
    - Ít dùng trong chẩn đoán thường quy vì trùng roi có thể khó thấy rõ.
    - Thường thấy bạch cầu đa nhân trung tính tăng nhưng trùng roi có thể lẫn trong phế bào.
 
-3. **Cấy tế bào (culture):**
+3. **Cấy tế bào (culture)**:
 
    - Môi trường đặc biệt (InPouch TV, Diamond’s medium).
    - Độ nhạy cao (≥ 75–95%), phát hiện được cả khi soi tươi âm tính. Thời gian có kết quả 2–5 ngày.
 
-4. **Xét nghiệm kháng nguyên nhanh (Rapid antigen test):**
+4. **Xét nghiệm kháng nguyên nhanh (Rapid antigen test)**:
 
    - Sử dụng kháng thể monoclonal phát hiện kháng nguyên T. vaginalis trong dịch âm đạo.
    - Độ nhạy 80%, độ đặc hiệu 98%. Cho kết quả trong vòng 10–30 phút.
 
-5. **Phản ứng khuếch đại acid nucleic (NAAT, PCR):**
+5. **Phản ứng khuếch đại acid nucleic (NAAT, PCR)**:
    - Độ nhạy và độ đặc hiệu > 95%.
    - Có thể áp dụng cho dịch âm đạo, niệu đạo, hoặc nước tiểu.
    - Khuyến cáo dùng trong trường hợp soi tươi và cấy âm tính nhưng nghi ngờ lâm sàng cao, hoặc khi cần khẳng định tái phát.
@@ -110,13 +110,13 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 
 ### Điều trị đặc biệt
 
-- **Phụ nữ mang thai:**
+- **Phụ nữ mang thai**:
 
   - Metronidazole 2 g liều đơn vẫn được chấp nhận sau 1 quý đầu thai kỳ nếu lợi ích vượt rủi ro.
   - Tránh dùng trong 3 tháng đầu (đặc biệt liều kéo dài).
   - Nếu cần, có thể dùng Metronidazole 500 mg x 2 lần/ngày x 7 ngày sau quý I.
 
-- **Trường hợp tái phát hoặc kháng thuốc:**
+- **Trường hợp tái phát hoặc kháng thuốc**:
   - Nếu tái phát sau 3 tháng, dùng Metronidazole 500 mg x 2 lần/ngày x 7 ngày.
   - Nếu tiếp tục tái phát, chuyển sang Tinidazole 2 g liều đơn hoặc điều trị kéo dài Metronidazole.
 

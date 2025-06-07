@@ -70,7 +70,7 @@ Mục tiêu điều trị là phục hồi lớp biểu mô âm đạo, tăng đ
    - **Kem/cream Estrogen** (ví dụ: Estradiol cream) bôi âm đạo, âm hộ 1 lần/ngày x 2–3 tuần, sau đó giảm dần tần suất.
    - **Chlorquinaldol + Promestriene (200 mg + 10 mg) đặt âm đạo**: 1 viên/ngày x 18 ngày (kết hợp kháng khuẩn và estrogen hóa).
 
-   **Cơ chế:** Estrogen giúp tăng sinh lớp biểu mô, phục hồi glycogen, tạo môi trường acid, tăng lượng Lactobacilli, giảm teo niêm mạc.
+   **Cơ chế**: Estrogen giúp tăng sinh lớp biểu mô, phục hồi glycogen, tạo môi trường acid, tăng lượng Lactobacilli, giảm teo niêm mạc.
 
 2. **Dưỡng ẩm và bôi trơn**
 

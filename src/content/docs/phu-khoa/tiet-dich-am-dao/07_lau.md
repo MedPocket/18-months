@@ -197,13 +197,13 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
 
 #### Lậu mắt ở trẻ sơ sinh
 
-- **Điều trị viêm kết mạc do lậu cầu:**
+- **Điều trị viêm kết mạc do lậu cầu**:
 
   - **Ceftriaxon 50 mg/kg tiêm bắp liều duy nhất** (tối đa 150 mg).
   - **Kanamycin 25 mg/kg tiêm bắp liều duy nhất** (tối đa 75 mg).
   - **Spectinomycin 25 mg/kg tiêm bắp liều duy nhất** (tối đa 75 mg).
 
-- **Dự phòng ngay sau sinh (dùng cho cả hai mắt):**
+- **Dự phòng ngay sau sinh (dùng cho cả hai mắt)**:
 
   - Mỡ tra mắt Tetracyclin hydrochlorid 1%.
   - Mỡ tra mắt Erythromycin 0.5%.

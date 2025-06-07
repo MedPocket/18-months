@@ -51,14 +51,14 @@ _3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (microbiome) v�
 
 Phân loại theo CDC 2010 chia thành 2 nhóm:
 
-- **VVC không biến chứng:**
+- **VVC không biến chứng**:
 
   - Nhiễm đơn thuần hoặc thỉnh thoảng.
   - Triệu chứng nhẹ đến trung bình.
   - Nghi ngờ Candida albicans.
   - Phụ nữ không suy giảm miễn dịch.
 
-- **VVC có biến chứng:**
+- **VVC có biến chứng**:
 
   - Tái phát ≥ 4 lần/năm.
   - Triệu chứng nặng.

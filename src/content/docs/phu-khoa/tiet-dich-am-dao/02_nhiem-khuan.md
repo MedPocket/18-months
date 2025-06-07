@@ -73,9 +73,9 @@ BV được chẩn đoán dựa trên lâm sàng và xét nghiệm thường quy
 
 Điểm Nugent là phương pháp xét nghiệm Gram đồ đánh giá tỷ lệ các loại vi khuẩn để chẩn đoán BV. Căn cứ vào mật độ ba nhóm vi khuẩn trên phiến Gram đồ:
 
-1. **Nhóm I – Lactobacillus (vi khuẩn Gram dương, hình que lớn):** Càng nhiều Lactobacilli, điểm càng thấp (0–4).
-2. **Nhóm II – Gardnerella & Bacteroides (vi khuẩn Gram âm, hình que ngắn hoặc coccobacilli):** Càng nhiều vi khuẩn nhóm này, điểm càng cao (0–4).
-3. **Nhóm III – Mobiluncus spp. (vi khuẩn Gram đổi màu, trực khuẩn cong):** Càng nhiều, điểm càng cao (0–2).
+1. **Nhóm I – Lactobacillus (vi khuẩn Gram dương, hình que lớn)**: Càng nhiều Lactobacilli, điểm càng thấp (0–4).
+2. **Nhóm II – Gardnerella & Bacteroides (vi khuẩn Gram âm, hình que ngắn hoặc coccobacilli)**: Càng nhiều vi khuẩn nhóm này, điểm càng cao (0–4).
+3. **Nhóm III – Mobiluncus spp. (vi khuẩn Gram đổi màu, trực khuẩn cong)**: Càng nhiều, điểm càng cao (0–2).
 
 | Điểm I (Lactobacillus)                                 | Điểm II (Gardnerella/Bacteroides)                      | Điểm III (Mobiluncus)                                  |
 | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ |
@@ -90,9 +90,9 @@ BV được chẩn đoán dựa trên lâm sàng và xét nghiệm thường quy
 
 _Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0–10)._
 
-- **0–3:** Kết quả âm tính với BV (hệ vi khuẩn cân bằng).
-- **4–6:** Khu vực trung gian (nghi ngờ, cần theo dõi hoặc xét nghiệm lại).
-- **≥7:** Dương tính với BV (mật độ vi khuẩn yếm khí cao, Lactobacilli giảm).
+- **0–3**: Kết quả âm tính với BV (hệ vi khuẩn cân bằng).
+- **4–6**: Khu vực trung gian (nghi ngờ, cần theo dõi hoặc xét nghiệm lại).
+- **≥7**: Dương tính với BV (mật độ vi khuẩn yếm khí cao, Lactobacilli giảm).
 
 Độ nhạy 89%, độ đặc hiệu 83% so với tiêu chuẩn Amsel.
 
@@ -107,8 +107,8 @@ BV được chẩn đoán khi đủ **2/3** tiêu chuẩn sau:
 
 2. **Cận lâm sàng**
 
-   - **Whiff test (+):** Thêm KOH 10% lên mẫu huyết trắng, xuất hiện mùi hôi như cá ươn.
-   - **Phết âm đạo:** Nhiều "clue cells" (>20% tế bào biểu mô nhìn thấy có bám vi khuẩn); nhuộm Gram thấy nhiều coccobacilli.
+   - **Whiff test (+)**: Thêm KOH 10% lên mẫu huyết trắng, xuất hiện mùi hôi như cá ươn.
+   - **Phết âm đạo**: Nhiều "clue cells" (>20% tế bào biểu mô nhìn thấy có bám vi khuẩn); nhuộm Gram thấy nhiều coccobacilli.
 
 :::
 
@@ -155,7 +155,7 @@ Mục tiêu: khôi phục cân bằng hệ vi sinh, giảm triệu chứng và n
 
 Phần lớn trường hợp BV không có triệu chứng có thể tự cải thiện nhờ hệ vi sinh thay đổi. Tuy nhiên, khi có triệu chứng hoặc thuộc nhóm nguy cơ cao (phụ nữ mang thai, chuẩn bị phẫu thuật sản phụ khoa), cần can thiệp.
 
-**Tùy chọn kháng sinh (áp dụng cho BV có triệu chứng):**
+**Tùy chọn kháng sinh (áp dụng cho BV có triệu chứng)**:
 
 | Loại thuốc                  | Đường dùng & Liều dùng                                         |
 | --------------------------- | -------------------------------------------------------------- |

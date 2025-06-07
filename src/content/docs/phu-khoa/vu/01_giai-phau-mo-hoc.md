@@ -18,24 +18,24 @@ _Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan 
 
 2. **Cấu trúc bề ngoài**
 
-   - **Núm vú (Nipple):** Vùng nhô cao, màu hồng nâu – đậm hơn so với da xung quanh, có nhiều lỗ nhỏ (lỗ ống dẫn sữa).
-   - **Quầng vú (Areola):** Đường kính khoảng 2–4 cm, chứa các hạch Montgomery sản xuất bã và chất nhầy giữ ẩm, ngăn vi khuẩn.
-   - **Bầu vú (Breast mound):** Gồm mô tuyến trải rộng từ bờ ngoài xương ức (sternum) đến đường giữa nách (axilla), và từ sụn sườn 2 đến sụn sườn 6–7 về phía dưới.
+   - **Núm vú (Nipple)**: Vùng nhô cao, màu hồng nâu – đậm hơn so với da xung quanh, có nhiều lỗ nhỏ (lỗ ống dẫn sữa).
+   - **Quầng vú (Areola)**: Đường kính khoảng 2–4 cm, chứa các hạch Montgomery sản xuất bã và chất nhầy giữ ẩm, ngăn vi khuẩn.
+   - **Bầu vú (Breast mound)**: Gồm mô tuyến trải rộng từ bờ ngoài xương ức (sternum) đến đường giữa nách (axilla), và từ sụn sườn 2 đến sụn sườn 6–7 về phía dưới.
 
 3. **Mạch máu**
 
-   - **Động mạch chính:**
+   - **Động mạch chính**:
      - Động mạch ngực ngoài (lateral thoracic artery) (nhánh của động mạch nách) cung cấp cho phần ngoài – dưới vú.
      - Động mạch ngực trong (internal thoracic artery) (nhánh của động mạch dưới đòn) cấp máu cho phần trong – giữa vú qua các nhánh perforating.
      - Động mạch gian sườn bên (lateral intercostal arteries) và động mạch gian sườn trước (anterior intercostal arteries) hỗ trợ nhánh phụ.
-   - **Tĩnh mạch:** Thông qua hệ tĩnh mạch tương tự, đổ về tĩnh mạch nách, tĩnh mạch dưới đòn và tĩnh mạch ngực trong.
+   - **Tĩnh mạch**: Thông qua hệ tĩnh mạch tương tự, đổ về tĩnh mạch nách, tĩnh mạch dưới đòn và tĩnh mạch ngực trong.
 
 4. **Hệ bạch huyết**
 
    - Hệ bạch huyết vú chia làm hai đường chính:
-     1. **Đường nách (Axillary pathway):**
+     1. **Đường nách (Axillary pathway)**:
         - Khoảng 75% bạch cầu vú đổ về hạch nách (axillary lymph nodes), bao gồm nhóm hạch cửa sổ (pectoral/central) và hạch vùng giữa (mid-axillary), hạch dưới đòn. Đây là con đường chính khi khảo sát di căn hạch trong ung thư vú.
-     2. **Đường cạnh ức – hạ đòn (Parasternal & Supraclavicular pathway):**
+     2. **Đường cạnh ức – hạ đòn (Parasternal & Supraclavicular pathway)**:
         - Khoảng 20% bạch huyết chảy qua hạch cạnh ức (parasternal/internal mammary nodes) rồi lên hạch thượng đòn (supraclavicular nodes).
    - Việc đánh giá hạch nách và hạch thượng đòn rất quan trọng trong tầm soát và định giai đoạn ung thư vú, cũng như hướng dẫn bệnh nhân tự khám vú.
 
@@ -51,22 +51,22 @@ _Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan 
 
    - Mỗi bên vú gồm 10–20 tiểu thùy (lobe), tách biệt nhau bởi mô liên kết và mô mỡ.
    - Một tiểu thùy chia thành nhiều tiểu tiểu thùy (lobule) – tức là các đơn vị tận cùng chức năng (terminal duct lobular unit, TDLU). TDLU gồm:
-     - **Ống tuyến tận (Terminal duct):** Ống nhỏ nhất, nối tiếp vào nang sữa (acinus).
-     - **Nang sữa (Acinus):** Đơn vị sản xuất sữa, có cấu tạo tổ chức biểu mô đơn lớp (cuboidal/trụ) lót bên trong, bên ngoài là lớp tế bào cơ biểu mô (myoepithelial cells).
+     - **Ống tuyến tận (Terminal duct)**: Ống nhỏ nhất, nối tiếp vào nang sữa (acinus).
+     - **Nang sữa (Acinus)**: Đơn vị sản xuất sữa, có cấu tạo tổ chức biểu mô đơn lớp (cuboidal/trụ) lót bên trong, bên ngoài là lớp tế bào cơ biểu mô (myoepithelial cells).
 
 2. **Hệ thống ống dẫn sữa (Latiferous duct)**
 
-   - **Ống dẫn sữa lớn (Lactiferous ducts):** Mỗi tiểu thùy xuất phát từ một ống lớn có khẩu kính khoảng 0.5 mm, dẫn sữa từ TDLU về phía núm vú.
-   - **Xoang sữa (Lactiferous sinuses):** Ở gần núm vú, đường kính ống giãn rộng thành xoang, đóng vai trò như túi chứa tạm thời sữa trước khi bài xuất.
-   - **Niêm mạc ống:**
+   - **Ống dẫn sữa lớn (Lactiferous ducts)**: Mỗi tiểu thùy xuất phát từ một ống lớn có khẩu kính khoảng 0.5 mm, dẫn sữa từ TDLU về phía núm vú.
+   - **Xoang sữa (Lactiferous sinuses)**: Ở gần núm vú, đường kính ống giãn rộng thành xoang, đóng vai trò như túi chứa tạm thời sữa trước khi bài xuất.
+   - **Niêm mạc ống**:
      - Lớp trong cùng: Biểu mô trụ thấp (simple cuboidal/columnar epithelium) – chịu trách nhiệm hình thành và bài tiết sữa.
      - Lớp ngoài: Tế bào cơ biểu mô (myoepithelial cells) – co bóp để đẩy sữa ra ngoài khi cho con bú.
 
 3. **Biểu mô tuyến vú**
 
-   - **Biểu mô lót ống và nang:** Các tế bào có thụ thể estrogen (ER) và progesterone (PR), nhạy cảm với thay đổi nội tiết theo chu kỳ và thai kỳ.
-   - **Màng đáy (Basement membrane):** Nằm dưới lớp biểu mô, tiếp xúc với tế bào cơ biểu mô, tạo khung đỡ và kiểm soát sự phân tách mô.
-   - **Mô liên kết quanh ống và nang:** Chứa mạch máu, fibroblast và một tỷ lệ lớn nguyên bào sợi – tế bào miễn dịch, giúp bảo vệ và tái tạo.
+   - **Biểu mô lót ống và nang**: Các tế bào có thụ thể estrogen (ER) và progesterone (PR), nhạy cảm với thay đổi nội tiết theo chu kỳ và thai kỳ.
+   - **Màng đáy (Basement membrane)**: Nằm dưới lớp biểu mô, tiếp xúc với tế bào cơ biểu mô, tạo khung đỡ và kiểm soát sự phân tách mô.
+   - **Mô liên kết quanh ống và nang**: Chứa mạch máu, fibroblast và một tỷ lệ lớn nguyên bào sợi – tế bào miễn dịch, giúp bảo vệ và tái tạo.
 
 4. **Thành phần mô mỡ và liên kết**
    - Mô mỡ xung quanh các ống và nang tạo độ đàn hồi, đặc biệt thay đổi theo hormon và cân nặng cơ thể.
@@ -74,13 +74,13 @@ _Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan 
 
 ### Mô học liên quan đến ung thư vú
 
-- **Ưu thế xuất phát từ biểu mô:** Hầu hết các khối u vú xuất phát từ biểu mô ống (ductal carcinoma) hơn là biểu mô nang (lobular carcinoma) do diện tích biểu mô ống lớn hơn.
-- **Thụ thể hormone (ER/PR):**
+- **Ưu thế xuất phát từ biểu mô**: Hầu hết các khối u vú xuất phát từ biểu mô ống (ductal carcinoma) hơn là biểu mô nang (lobular carcinoma) do diện tích biểu mô ống lớn hơn.
+- **Thụ thể hormone (ER/PR)**:
   - Các tế bào biểu mô vú bình thường và ác tính đều có thể biểu lộ thụ thể estrogen (ER) và progesterone (PR).
   - Tương tác ER/PR với estrogen và progesterone góp phần điều hòa phát triển ống, nang và bài xuất sữa.
   - Trong ung thư vú, đánh giá ER/PR là bắt buộc để xác định hướng điều trị (hormon therapy) và tiên lượng:
-    - **ER/PR dương tính:** Khối u thường đáp ứng thuốc ức chế hormon (tamoxifen, aromatase inhibitors), tiến triển chậm hơn.
-    - **ER/PR âm tính:** Khối u không đáp ứng liệu pháp hormon, khả năng xâm lấn và di căn cao hơn.
+    - **ER/PR dương tính**: Khối u thường đáp ứng thuốc ức chế hormon (tamoxifen, aromatase inhibitors), tiến triển chậm hơn.
+    - **ER/PR âm tính**: Khối u không đáp ứng liệu pháp hormon, khả năng xâm lấn và di căn cao hơn.
 
 | Thụ thể Estrogen (ER)                            | Thụ thể Progesterone (PR)                                     |
 | ------------------------------------------------ | ------------------------------------------------------------- |
