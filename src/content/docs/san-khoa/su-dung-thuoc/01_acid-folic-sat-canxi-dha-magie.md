@@ -9,9 +9,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 - Giúp mẹ bầu duy trì sức khỏe tốt, tránh thiếu hụt vi chất.
 - Phòng ngừa các biến chứng nguy hiểm trong thai kỳ và sau sinh.
 
-## Tổng quan
-
-### Acid Folic (Folate)
+## Acid Folic (Folate)
 
 - Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydrofolate – dạng hoạt động sinh học) có vai trò thiết yếu trong quá trình tạo mới tế bào và tổng hợp DNA:
 - **Vai trò**
@@ -33,7 +31,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
   - Trái cây họ cam quýt, bơ.
   - Măng tây, trứng, ngũ cốc tăng cường.
 
-### DHA (Docosahexaenoic Acid)
+## DHA (Docosahexaenoic Acid)
 
 - DHA là axit béo omega-3 chuỗi dài, rất cần thiết cho sự phát triển hệ thần kinh và thị giác:
 - **Vai trò**
@@ -54,7 +52,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
   - Hạt chia, óc chó (chứa ALA – tiền chất chuyển hóa thành DHA).
   - Dầu cá tinh khiết dạng viên nang.
 
-### Sắt
+## Sắt
 
 - Sắt là khoáng chất thiết yếu tạo hemoglobin, giúp vận chuyển O₂:
 - **Vai trò**
@@ -75,7 +73,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
   - Rau lá xanh đậm: rau muống, cải bó xôi.
   - Các loại đậu, hạt bí, mè, ngũ cốc tăng cường sắt.
 
-### Canxi
+## Canxi
 
 - Canxi là thành phần chính cấu tạo xương, răng và hỗ trợ chức năng cơ bắp, thần kinh:
 - **Vai trò**
@@ -96,7 +94,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
   - Đậu phụ, đậu nành, mè, hạt chia.
   - Nước khoáng giàu canxi, trứng.
 
-### Magie
+## Magie
 
 - Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong cơ thể:
 - **Vai trò**
