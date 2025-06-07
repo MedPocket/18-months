@@ -28,12 +28,12 @@ Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV typ
      - Vết loét thường kéo dài 2–3 tuần mới tái tạo da hoàn toàn.
 
    - Khí hư (ở phụ nữ):
-   
+
      - Thường xuất hiện dịch tiết âm đạo đục, đôi khi lẫn máu hoặc mủ nếu có bội nhiễm.
 
-    ![Herpes sinh dục](../../../../assets/phu-khoa/herpes/herpes.jpg)
+   ![Herpes sinh dục](../../../../assets/phu-khoa/herpes/herpes.jpg)
 
-    _Herpes sinh dục: mụn nước, vết loét ở vùng môi bé và âm đạo._
+   _Herpes sinh dục: mụn nước, vết loét ở vùng môi bé và âm đạo._
 
 3. **Hạch bẹn**
 
@@ -41,7 +41,7 @@ Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV typ
    - Trong lần nhiễm đầu tiên, hạch bẹn thường to và đau nhiều hơn so với các đợt tái phát.
 
 4. **Tái phát**
-  
+
    - Thường ít triệu chứng toàn thân hoặc không có, chủ yếu chỉ là giai đoạn tiền triệu (ngứa, tê rát nhẹ) rồi xuất hiện mụn nước đơn lẻ hoặc thành cụm nhỏ, vỡ nhanh, lành vết loét trong vòng 5–10 ngày.
    - Tần suất tái phát phụ thuộc vào thể trạng và yếu tố thuận lợi (stress tinh thần, cảm cúm, suy giảm miễn dịch, kinh nguyệt).
    - Triệu chứng thường nhẹ hơn đợt đầu, ít đau rát, khả năng tự khỏi nhanh hơn, ít để lại sẹo.

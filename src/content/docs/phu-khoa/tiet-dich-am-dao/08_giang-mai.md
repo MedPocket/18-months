@@ -87,7 +87,6 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
   - Thương tổn chắc ở hạ bì, tiến triển qua 4 giai đoạn: cục dưới da → ngày càng to, mềm, vỡ chảy dịch giống nhựa cao su → lên da non → tạo sẹo lõm.
   - Có thể khu trú ở mặt, da đầu, mông, đùi, phần trên cẳng chân, niêm mạc miệng, vòm họng, hầu, mũi, hốc mũi, đôi khi gôm nội tạng (gan, phổi, xương, não).
 
-
 #### Giang mai bẩm sinh
 
 - **Xác định giang mai bẩm sinh** khi:
@@ -101,6 +100,7 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
   - Trẻ sơ sinh: viêm kết mạc (chảy mủ mắt, sưng mí), viêm mũi ("snuffles" – hắt hơi, chảy máu mũi), gan lách to, viêm xương sụn (viêm xương Tính chất xơ → đau, sưng), viêm màng não, viêm màng tim, viêm da chảy dịch. Hạch ngoại vi sưng to.
 
 - **Biểu hiện giang mai bẩm sinh muộn (> 2 tuổi)**:
+
   - Viêm xương sụn mạn tính → biến dạng xương (viêm sụn mũi → mũi yên ngựa), răng Hutchinson (răng cửa lõm), điếc, co thắt gân gót, viêm khớp.
   - Thương tổn niêm mạc miệng, xương sọ, gôm dưới da.
   - Rối loạn thần kinh và mắt mạn tính.
@@ -230,11 +230,11 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 #### Người lớn và vị thành niên (≥ 10 tuổi)
 
 - **Giang mai sớm (≤ 2 năm)**:
-  
+
   - Phác đồ ưu tiên:
-  
+
     - **Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất**.
-  
+
   - Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin):
 
     - **Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 10–14 ngày**.
@@ -243,24 +243,24 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
     - **Azithromycin 2 g uống liều duy nhất**.
 
 - **Giang mai muộn (> 2 năm hoặc không rõ)**
-  
+
   - Phác đồ ưu tiên:
-    
+
     - **Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần x 3 tuần liên tiếp (Khoảng cách giữa các lần tiêm không quá 14 ngày)**.
-  
+
   - Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin):
-    
+
     - **Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 20 ngày**.
     - **Doxycycline 100 mg uống 2 lần/ngày x 30 ngày**.
 
 #### Phụ nữ có thai
 
 - **Giang mai sớm (≤ 2 năm)**:
-  
+
   - Phác đồ ưu tiên:
-  
+
     - **Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất**.
-  
+
   - Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin):
 
     - **Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 10–14 ngày**.
@@ -269,13 +269,13 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
     - **Azithromycin 2 g uống liều duy nhất**.
 
 - **Giang mai muộn (> 2 năm hoặc không rõ)**
-  
+
   - Phác đồ ưu tiên:
-    
+
     - **Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần x 3 tuần liên tiếp**.
-  
+
   - Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin):
-    
+
     - **Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 20 ngày**.
     - **Erythromycin 500 mg uống 4 lần/ngày x 30 ngày**.
 
@@ -302,7 +302,7 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
   - **Procain penicillin 50,000 Đơn vị/kg/ngày**, tiêm bắp sâu 1 liều/ngày x 10–15 ngày.
 
 - **Trẻ không triệu chứng** và mẹ đã điều trị đầy đủ trước sinh: chỉ cần theo dõi chặt chẽ, xét nghiệm huyết thanh định kỳ (tháng 1, 2, 3). Nếu xét nghiệm không đặc hiệu vẫn dương tính, điều trị phác đồ:
-  
+
   - **Benzathin penicillin G 50,000 Đơn vị/kg, tiêm bắp liều duy nhất** (nếu không có dấu hiệu lâm sàng).
 
 ## Phòng bệnh

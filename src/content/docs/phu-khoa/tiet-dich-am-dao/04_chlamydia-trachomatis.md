@@ -8,7 +8,7 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 ## Nguyên nhân
 
 - **Dịch tễ học**:
-  
+
   - Là STI phổ biến nhất trong nhóm vi khuẩn trên thế giới, đặc biệt ở phụ nữ dưới 25 tuổi.
   - 70–80% nữ và 50% nam mắc Chlamydia không có triệu chứng rõ ràng, làm tăng nguy cơ lây lan và khó phát hiện.
 
@@ -164,17 +164,17 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 - **Phác đồ ưu tiên** (tùy chọn 1 hoặc 2):
 
   1. **Azithromycin 1 g uống liều duy nhất**
-  
+
      - Ưu điểm: thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%.
      - Thận trọng: có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
-  
+
   2. **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**
-  
+
      - Hiệu quả 97%.
      - Thận trọng: không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
 
 - **Phác đồ thay thế** (khi không thể dùng thuốc ưu tiên):
-  
+
   - **Tetracycline 500 mg uống 4 lần/ngày x 7 ngày**.
   - **Erythromycin 500 mg uống 4 lần/ngày x 7 ngày** (tùy chọn cho phụ nữ có thai, nhưng dung nạp kém, nhiều tác dụng phụ tiêu hóa).
   - **Ofloxacin 200–400 mg uống 2 lần/ngày x 7 ngày** (không dùng cho phụ nữ có thai).
@@ -183,14 +183,14 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 #### Chlamydia hậu môn – trực tràng (Rectal Chlamydia)
 
 - **Phác đồ ưu tiên**:
-  
+
   1. **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**.
   2. **Azithromycin 1 g uống liều duy nhất** (ít ưu tiên hơn do hiệu quả ruột thấp hơn, đặc biệt lâm sàng ở rectal chlamydia).
 
 #### Bệnh hột xoài (LGV)
 
 - **Phác đồ ưu tiên**:
-  
+
   1. **Doxycycline 100 mg uống 2 lần/ngày x 21 ngày**.
   2. **Azithromycin 1 g uống 1 lần/tuần x 3 tuần** (nếu không tuân thủ được doxycycline).
 

@@ -92,10 +92,10 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
    - 2 g uống liều duy nhất (lặp lại sau 7 ngày nếu cần).
    - Hiệu quả ≥ 90% khi tuân thủ đủ liều.
    - Chống chỉ định:
-   
+
      - **3 tháng đầu thai kỳ** (đặc biệt liều nặng).
      - Dị ứng 5-nitroimidazole.
-   
+
    - Tương tác: tránh rượu bia trong và sau trị liệu 48 giờ để ngăn hội chứng Disulfiram-like.
 
 2. **Tinidazole uống liều đơn**
@@ -110,7 +110,7 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
    - Chống chỉ định và tương tác tương tự Metronidazole.
 
 4. **Metronidazole kéo dài**
-  
+
    - 500 mg uống 2 lần/ngày x 7 ngày (dùng khi liều đơn thất bại hoặc trường hợp đề kháng).
    - Khuyến cáo dùng trong bữa ăn để giảm kích ứng tiêu hóa.
 

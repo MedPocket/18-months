@@ -50,7 +50,7 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
 - **Soi dịch âm đạo**: Thấy tỷ lệ tế bào biểu mô bề mặt giảm, tế bào trung gian (parabasal cells) tăng lên. Tỷ lệ tế bào trung gian > 15% gợi ý teo niêm mạc do thiếu estrogen.
 - **pH âm đạo**: Thường > 5, do giảm Lactobacilli sinh acid lactic.
 - **Khám niêm mạc**: Dấu vết xuất huyết dễ chảy máu khi thăm khám, không có nhiều vi khuẩn đặc hiệu (khác với loạn khuẩn hay trichomonas).
-- **Không có tế bào nấm hoặc vi khuẩn đặc hiệu**: Nếu thấy nhiều bạch cầu hoặc vi khuẩn yếm khí vượt trội, cần loại trừ nhiễm khuẩn đồng thời.  
+- **Không có tế bào nấm hoặc vi khuẩn đặc hiệu**: Nếu thấy nhiều bạch cầu hoặc vi khuẩn yếm khí vượt trội, cần loại trừ nhiễm khuẩn đồng thời.
 
 :::caution
 Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, Trichomonas) vì phương pháp điều trị khác nhau.
