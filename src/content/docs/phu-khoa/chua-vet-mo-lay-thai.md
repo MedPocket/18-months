@@ -17,27 +17,50 @@ Chửa ở vết mổ lấy thai là một dạng thai ngoài tử cung hiếm g
 - Thụ tinh trong ống nghiệm (IVF).
 - Tiền sử nạo phá thai nhiều lần.
 
-## Chẩn đoán xác định
+## Chẩn đoán
 
 ### Lâm sàng
 
-Triệu chứng không đặc hiệu, khoảng 50% trường hợp không có biểu hiện rõ, phát hiện qua siêu âm:
-
+- Triệu chứng không đặc hiệu, khoảng 50% trường hợp không có biểu hiện rõ, phát hiện qua siêu âm.
 - Tam chứng kinh điển:
+
   - Trễ kinh.
   - Ra máu âm đạo bất thường (33–44%).
   - Đau bụng (25%).
 
 ### Cận lâm sàng
 
-#### Siêu âm qua đường âm đạo kết hợp Doppler
+#### Siêu âm
 
+- Siêu âm qua đường âm đạo kết hợp Doppler.
 - Túi thai nằm giữa bàng quang và phần trước đoạn eo tử cung.
 - Lớp cơ giữa túi thai và bàng quang mỏng (1–3 mm) hoặc không thấy.
 - Không thấy túi thai trong buồng tử cung hay cổ tử cung.
 - Siêu âm Doppler 3D: hình ảnh phình mạch máu quanh túi thai, mất liên tục vách trước cơ tử cung.
 
-#### Phân nhóm hình ảnh (Crossover Sign – COS)
+#### Xét nghiệm khác
+
+- β-hCG dương tính.
+- MRI khi khó xác định.
+
+### Chẩn đoán phân biệt
+
+- Thai trong buồng tử cung.
+- Sẩy thai không hoàn toàn (thai tụt qua sẹo).
+- Thai ở cổ tử cung (phân biệt bằng siêu âm màu – không có mạch máu quanh khối):
+  
+  | Tiêu chuẩn lâm sàng                        | Tiêu chuẩn siêu âm                                           |
+  | ------------------------------------------ | ------------------------------------------------------------ |
+  | **Tử cung nhỏ, cổ phình to**               | Buồng tử cung trống, nội mạc giả dạng màng rụng              |
+  | **Lỗ trong cổ tử cung không mở**           | Có túi thai trong kênh cổ tử cung                            |
+  | **Nạo nội mạc không thấy mô nhau**         | Cổ tử cung hình "đồng hồ cát", có mô nhau ở cổ tử cung trong |
+  | **Lỗ ngoài cổ tử cung mở to hơn sẩy thai** | Lỗ trong đóng kín                                            |
+
+  _Phân biệt với thai ở cổ tử cung._
+
+- U nguyên bào nuôi.
+
+## Phân loại
 
 Trên mặt cắt dọc giữa tử cung:
 
@@ -51,33 +74,10 @@ _Mối liên hệ thai và sẹo mổ lấy thai._
   - **COS-2-**: có giao nhau với đường nối nội mạc tử cung.
   - **COS-2+**: không giao nhau với đường nối nội mạc tử cung.
 
-#### Xét nghiệm khác
-
-- β-hCG dương tính.
-- Siêu âm 3D hoặc MRI khi khó xác định.
-
-## Chẩn đoán phân biệt
-
-- Thai trong buồng tử cung.
-- Sẩy thai không hoàn toàn (thai tụt qua sẹo).
-- Thai ở cổ tử cung (phân biệt bằng siêu âm màu – không có mạch máu quanh khối).
-- U nguyên bào nuôi.
-
-:::note[Chẩn đoán phân biệt với thai ở cổ tử cung]
-
-| Tiêu chuẩn lâm sàng                        | Tiêu chuẩn siêu âm                                           |
-| ------------------------------------------ | ------------------------------------------------------------ |
-| **Tử cung nhỏ, cổ phình to**               | Buồng tử cung trống, nội mạc giả dạng màng rụng              |
-| **Lỗ trong cổ tử cung không mở**           | Có túi thai trong kênh cổ tử cung                            |
-| **Nạo nội mạc không thấy mô nhau**         | Cổ tử cung hình "đồng hồ cát", có mô nhau ở cổ tử cung trong |
-| **Lỗ ngoài cổ tử cung mở to hơn sẩy thai** | Lỗ trong đóng kín                                            |
-
-:::
-
 ## Diễn tiến
 
-- **COS-2**: Thai có thể phát triển về buồng tử cung nhưng nguy cơ xuất huyết rau bám.
 - **COS-1**: Thai cắm sâu vào sẹo, nguy cơ vỡ tử cung sớm, đe dọa tính mạng.
+- **COS-2**: Thai có thể phát triển về buồng tử cung nhưng nguy cơ xuất huyết rau bám.
 
 ## Điều trị
 
@@ -88,7 +88,7 @@ _Mối liên hệ thai và sẹo mổ lấy thai._
 - Không nong nạo đầu tiên vì nguy cơ xuất huyết lớn.
 - Tùy tình trạng huyết động và triệu chứng để chọn phương pháp.
 
-### Điều trị nội khoa
+### Nội khoa
 
 #### Methotrexate (MTX)
 
@@ -101,6 +101,7 @@ _Mối liên hệ thai và sẹo mổ lấy thai._
 - Thai lưu ≤ 8 tuần, β-hCG tăng → MTX 50mg tiêm bắp.
 - Thai chưa có tim: hút phôi dưới siêu âm, tiêm MTX tại chỗ và bắp (25mg + 25mg).
 - Thai có tim:
+
   - Hút mô tim thai (nếu > 9 tuần).
   - Tiêm MTX hoặc KCl vào tim + tiêm MTX quanh bánh rau → kiểm tra sau 60–90 phút.
   - Tổng liều MTX: 75mg.
@@ -120,7 +121,7 @@ _Mối liên hệ thai và sẹo mổ lấy thai._
 
 - Là phương pháp điều trị không xâm lấn mới, hiệu quả cần nghiên cứu thêm.
 
-### Điều trị ngoại khoa
+### Ngoại khoa
 
 #### Nong nạo
 
@@ -135,7 +136,7 @@ _Mối liên hệ thai và sẹo mổ lấy thai._
 - Tránh hút vùng mỏng vết mổ để hạn chế thủng tử cung.
 - Nếu chảy máu: đặt bóng chèn 12–24 giờ.
 
-#### Đặt foley + hút thai
+#### Đặt foley & hút thai
 
 **Chỉ định**:
 
@@ -152,7 +153,7 @@ _Mối liên hệ thai và sẹo mổ lấy thai._
 
 **Chỉ định**:
 
-- Thai ≥14 tuần.
+- Thai ≥ 14 tuần.
 - Người bệnh > 40 tuổi không còn nhu cầu sinh sản.
 - Huyết động không ổn định, xuất huyết nhiều.
 
@@ -173,7 +174,7 @@ _Mối liên hệ thai và sẹo mổ lấy thai._
 
 _Phác đồ điều trị thai ở sẹo mổ lấy thai – Bệnh viện Từ Dũ._
 
-### Tỷ lệ tai biến theo phương pháp điều trị
+### Tỷ lệ tai biến
 
 | Phương pháp                      | Tỷ lệ tai biến (%) |
 | -------------------------------- | ------------------ |
