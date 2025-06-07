@@ -7,7 +7,7 @@ Chửa ngoài tử cung (CNTC) là hiện tượng trứng đã thụ tinh khôn
 
 ![Các vị trí chửa ngoài tử cung](../../../assets/phu-khoa/chua-ngoai-tu-cung/vi-tri-chua-ngoai-tu-cung.png)
 
-_Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
+_Các vị trí chửa ngoài tử cung._
 
 ## Yếu tố nguy cơ
 
@@ -22,13 +22,13 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 
 ## Chẩn đoán
 
-### Chửa ngoài tử cung tại ống dẫn trứng chưa vỡ
+### Tại ống dẫn trứng chưa vỡ
 
-**Triệu chứng cơ năng**:
+**Cơ năng**:
 
 - Tam chứng điển hình: trễ kinh, ra huyết âm đạo bất thường (thường ít, kéo dài), đau bụng vùng hạ vị.
 
-**Thăm khám thực thể**:
+**Thực thể**:
 
 - Sinh hiệu bình thường.
 - Bụng không căng, có thể có cảm ứng phúc mạc nhẹ.
@@ -56,13 +56,14 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 - **Nội soi ổ bụng**: là tiêu chuẩn vàng nhưng có thể bỏ sót nếu khối thai còn nhỏ.
 
 - **Hút/nạo buồng tử cung**:
+
   - Thực hiện nếu không thấy vị trí thai rõ ràng.
   - Mô bệnh học thấy gai nhau → sẩy thai sớm.
   - Không thấy gai nhau và β-hCG không giảm → nghi CNTC.
 
-### Chửa ngoài tử cung tại ống dẫn trứng đã vỡ
+### Tại ống dẫn trứng đã vỡ
 
-**Triệu chứng**:
+**Cơ năng**:
 
 - Tam chứng điển hình: trễ kinh, ra huyết âm đạo, đau bụng dữ dội vùng hạ vị (có thể lan vai), dấu hiệu kích thích phúc mạc.
 
@@ -79,7 +80,7 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 
 ### Huyết tụ thành nang
 
-**Triệu chứng**:
+**Cơ năng**:
 
 - Trễ kinh, ra huyết kéo dài, đau bụng vùng chậu kéo dài.
 
@@ -88,52 +89,57 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 - Có thể thấy khối cạnh tử cung giới hạn không rõ, căng đau.
 - Thiếu máu mạn tính nhẹ.
 
-### Thai trong ổ bụng
+### Trong ổ bụng
 
 - Hiếm gặp: khoảng 1/10000–1/25000 trường hợp.
 - Thai nằm ngoài tử cung, trong ổ bụng, thường do thai thoát khỏi vòi trứng sau vỡ.
-
-**Chẩn đoán**:
-
 - Sờ bụng thấy thai sát thành bụng, có thể có ngôi bất thường.
 - Siêu âm: thai nằm xen giữa quai ruột, không nằm trong tử cung.
 - X-quang bụng không chuẩn bị: không thấy bóng tử cung quanh thai, bóng hơi ruột chồng lên thai.
 - MRI/CT: hỗ trợ chẩn đoán rõ vị trí thai.
 
-### Thai ở cổ tử cung
+### Tại cổ tử cung
 
 - Rất hiếm: khoảng 1/9000–1/12000.
 - Siêu âm thấy túi thai nằm ở cổ tử cung, lòng tử cung trống.
 - Hình ảnh "đồng hồ cát", mạch máu quanh túi thai phát triển mạnh, không có dấu hiệu trượt.
 
-### Thai ở buồng trứng
+### Tại buồng trứng
 
 - Rất hiếm: khoảng 1/7000–1/12000.
 - Lâm sàng tương tự các vị trí khác, siêu âm thấy túi thai nằm trong buồng trứng.
 
-## Điều trị nội khoa
+## Điều trị
 
-### Điều kiện điều trị nội khoa
+### Không can thiệp
 
-#### Methotrexate (MTX) đơn liều
+- β-hCG < 200 mIU/mL: 88% tự thoái triển.
+- β-hCG < 1000 mIU/mL + huyết động ổn định + khối chửa < 2 cm: 77% tự thoái triển.
+- Cần tư vấn nguy cơ vỡ và chuyển phẫu thuật nếu cần.
+
+### Nội khoa
+
+#### Điều kiện chỉ định MTX
+
+**Methotrexate (MTX) đơn liều**
 
 - Huyết động ổn định.
 - β-hCG ≤ 5000 mIU/mL.
 - Khối thai < 4 cm.
 - Không có tim thai.
 
-#### MTX liều đôi
+**MTX liều đôi**
 
 - β-hCG từ 3500–5000 mIU/mL.
 - Khối thai < 5 cm, đoạn kẽ < 3 cm.
 - Không có tim thai.
 
-#### MTX đa liều
+**MTX đa liều**
 
 - β-hCG 5000–10000 mIU/mL.
 - Khối thai < 5 cm, đoạn kẽ < 3 cm.
 
-#### Chống chỉ định điều trị MTX
+#### Chống chỉ định MTX
 
 - Huyết động không ổn định, dấu hiệu choáng.
 - Có dấu hiệu vỡ khối thai.
@@ -143,36 +149,7 @@ _Nguồn: Danforth's Obstetrics and Gynecology, 10th edition_
 - Bệnh lý nội khoa nặng: suy gan, suy thận, viêm loét dạ dày, suy tủy, suy giảm miễn dịch...
 - Không thể theo dõi hoặc từ chối điều trị.
 
-### Xét nghiệm tiền hóa trị
-
-- Công thức máu, nhóm máu, đông máu.
-- Chức năng gan, thận.
-- X-quang phổi, ECG.
-
-### Phác đồ điều trị MTX
-
-Tỷ lệ thành công đường toàn thân 70–95%.
-
-#### Đơn liều
-
-- Tiêm bắp MTX 50 mg/m² hoặc 1 mg/kg ngày 1.
-- β-hCG ngày 4 và 7:
-  - Giảm ≥ 15% → theo dõi hàng tuần.
-  - Giảm < 15% → tiêm lại (tối đa 3 liều).
-  - Sau 3 liều mà β-hCG giảm < 15% → chuyển phẫu thuật.
-
-#### Liều đôi
-
-- MTX ngày 1 và 4.
-- Theo dõi tương tự đơn liều, nhưng thêm liều 3–4 nếu cần.
-
-#### Đa liều
-
-- MTX tiêm ngày 1, 3, 5, 7.
-- Acid folic 0.1 mg/kg ngày 2, 4, 6, 8.
-- Theo dõi β-hCG liên tục, ngưng khi giảm ≥ 15%.
-
-### Tác dụng phụ
+#### Tác dụng phụ
 
 - Buồn nôn, nôn, viêm miệng.
 - Xuất huyết âm đạo nhẹ.
@@ -181,40 +158,66 @@ Tỷ lệ thành công đường toàn thân 70–95%.
 - Rụng tóc (hiếm).
 - Viêm phổi (rất hiếm).
 
-### Lưu ý điều trị MTX
+:::caution[Lưu ý]
+
+Khi điều trị MTX cần lưu ý:
 
 - Tránh vận động mạnh, quan hệ tình dục.
 - Không dùng acid folic, NSAIDs.
 - Tránh tiếp xúc ánh nắng mạnh.
 - Hoãn mang thai ít nhất 3 tháng sau điều trị.
 - Không chỉ định siêu âm thường quy sau tiêm.
+- Xét nghiệm tiền hóa trị:
 
-## Điều trị không can thiệp
+  - Công thức máu, nhóm máu, đông máu.
+  - Chức năng gan, thận.
+  - X-quang phổi, ECG.
+:::
 
-- β-hCG < 200 mIU/mL: 88% tự thoái triển.
-- β-hCG < 1000 mIU/mL + huyết động ổn định + khối chửa < 2 cm: 77% tự thoái triển.
-- Cần tư vấn nguy cơ vỡ và chuyển phẫu thuật nếu cần.
+#### Phác đồ
 
-## Điều trị ngoại khoa
+Tỷ lệ thành công đường toàn thân 70–95%.
 
-### Bảo tồn ống dẫn trứng (xẻ lấy khối thai)
+**MTX đơn liều**
+
+- Tiêm bắp MTX 50 mg/m² hoặc 1 mg/kg ngày 1.
+- β-hCG ngày 4 và 7:
+
+  - Giảm ≥ 15% → theo dõi hàng tuần.
+  - Giảm < 15% → tiêm lại (tối đa 3 liều).
+  - Sau 3 liều mà β-hCG giảm < 15% → chuyển phẫu thuật.
+
+**MTX liều đôi**
+
+- MTX ngày 1 và 4.
+- Theo dõi tương tự đơn liều, nhưng thêm liều 3–4 nếu cần.
+
+**MTX đa liều**
+
+- MTX tiêm ngày 1, 3, 5, 7.
+- Acid folic 0.1 mg/kg ngày 2, 4, 6, 8.
+- Theo dõi β-hCG liên tục, ngưng khi giảm ≥ 15%.
+
+### Ngoại khoa
+
+#### Bảo tồn ống dẫn trứng (xẻ lấy khối thai)
 
 - β-hCG < 5000 mIU/mL.
 - Khối thai < 4 cm.
 - Không có tim thai.
 - Không tiền sử phẫu thuật ống dẫn trứng.
 
-### Cắt ống dẫn trứng (nội soi hoặc mổ mở)
+#### Cắt ống dẫn trứng (nội soi hoặc mổ mở)
 
 - Vỡ khối thai, huyết động không ổn định.
 - Thất bại hoặc chống chỉ định MTX.
 - Có tổn thương không phục hồi ống dẫn trứng.
 
-### Phẫu thuật đoạn kẽ
+#### Phẫu thuật đoạn kẽ
 
 - Thai ở đoạn kẽ tử cung → xẻ/cắt xén góc tử cung, nội soi hoặc mổ mở.
 
-### Phẫu thuật mở bụng
+#### Phẫu thuật mở bụng
 
 - Bệnh nhân sốc, mất máu nặng, không thể nội soi.
 
