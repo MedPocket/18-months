@@ -89,7 +89,7 @@ _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huy�
 
   _Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)._
 
-  :::caution[Lưu ý]
+  :::caution
   Siêu âm có thể giúp định hướng nguyên nhân như u xơ tử cung, buồng trứng đa nang... Siêu âm bơm nước buồng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương nội mạc tử cung (polyp, dính buồng tử cung...).
   :::
 
@@ -128,7 +128,7 @@ _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huy�
 
 - **Thuốc tránh thai phối hợp (estrogen-progestogen)**: 2–4 viên/ngày, giảm dần khi ngừng ra máu. Không dùng loại có < 20 µg ethinyl estradiol.
 
-  :::caution[Lưu ý]
+  :::caution
   Thường uống vào buổi tối, giờ cố định để giảm tác dụng phụ. Khi giảm liều mà ra máu lại, cần tăng liều trở lại và giảm từ từ.
   :::
 

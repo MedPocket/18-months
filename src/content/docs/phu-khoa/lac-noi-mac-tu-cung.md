@@ -165,7 +165,7 @@ Nếu có hiếm muộn, chỉ điều trị triệu chứng đau, ưu tiên k�
   - EE 20–30 µg + progestin, 1 viên/ngày liên tục hoặc theo chu kỳ.
   - Miếng dán mỗi tuần 1 miếng.
 
-:::caution[Lưu ý]
+:::caution
 Không dùng quá 3 tháng nếu không giảm đau; ít hiệu quả với lạc nội mạc sâu.
 :::
 
@@ -188,7 +188,7 @@ Không dùng quá 3 tháng nếu không giảm đau; ít hiệu quả với lạ
 - **IUS–LNG**: đặt 1 lần, tác dụng 5 năm.
 - **Tác dụng**: teo nội mạc, giảm viêm; LNG-IUS còn giảm cường kinh.
 
-:::caution[Lưu ý]
+:::caution
 Chọn progestin ít tác dụng toàn thân; ưu tiên LNG-IUS hoặc Dienogest nếu có AUB-A.
 :::
 

@@ -158,7 +158,7 @@ _Các vị trí chửa ngoài tử cung._
 - Rụng tóc (hiếm).
 - Viêm phổi (rất hiếm).
 
-:::caution[Lưu ý]
+:::caution
 
 Khi điều trị MTX cần lưu ý:
 

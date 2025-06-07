@@ -24,7 +24,7 @@ SGA (Small-for-Gestational Age) và IUGR (Fetal Growth Restriction/Intra-Uterine
 - **Severe SGA**: EFW hoặc AC < bách phân vị thứ 3.
 - **IUGR**: SGA kèm bằng chứng tăng trưởng chậm (bất thường Doppler động học hoặc sinh đồ sinh vật lý).
 
-:::caution[Lưu ý]
+:::caution
 Khi EFW hoặc AC đạt ngưỡng bách phân vị thứ 10, cần theo dõi tích cực; dưới bách phân vị thứ 3, cân nhắc chỉ định can thiệp sớm.
 :::
 

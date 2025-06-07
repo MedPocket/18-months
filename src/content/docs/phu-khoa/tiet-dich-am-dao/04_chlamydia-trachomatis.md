@@ -7,6 +7,11 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
 ## Nguyên nhân
 
+- **Dịch tễ học**:
+  
+  - Là STI phổ biến nhất trong nhóm vi khuẩn trên thế giới, đặc biệt ở phụ nữ dưới 25 tuổi.
+  - 70–80% nữ và 50% nam mắc Chlamydia không có triệu chứng rõ ràng, làm tăng nguy cơ lây lan và khó phát hiện.
+
 - **Chlamydia trachomatis** gồm nhiều tuýp huyết thanh (serotype):
 
   - **Tuýp D–K**: Gây nhiễm niệu đạo, cổ tử cung, trực tràng, họng; thường gọi chung là nhiễm Chlamydia sinh dục – tiết niệu.
@@ -17,10 +22,6 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
   - Chủ yếu qua quan hệ tình dục (âm đạo – dương vật, hậu môn – dương vật, miệng – dương vật).
   - Truyền từ mẹ sang con khi sinh: gây viêm kết mạc, viêm phổi bẩm sinh ở trẻ.
-
-- **Dịch tễ học**:
-  - Là STI phổ biến nhất trong nhóm vi khuẩn trên thế giới, đặc biệt ở phụ nữ dưới 25 tuổi.
-  - 70–80% nữ và 50% nam mắc Chlamydia không có triệu chứng rõ ràng, làm tăng nguy cơ lây lan và khó phát hiện.
 
 ## Biến chứng
 
@@ -42,16 +43,17 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
    - **Viêm phổi bẩm sinh**: khởi phát muộn sau 2–3 tuần, ho khan, âm thanh "rán rít" (staccato cough), không sốt.
 
 4. **Bệnh hột xoài (LGV)**
+
    - Tuýp L1–L3 xâm nhập sâu vào mô dưới niêm mạc và hạch bạch huyết.
    - Giai đoạn I: Loét sinh dục nhỏ, tự lành sau vài ngày.
    - Giai đoạn II: Sưng hạch bẹn hoặc đùi một bên, hạch mềm đau, vỡ mủ, có thể hình thành rò, nang hạch.
    - Giai đoạn III (mạn tính): Hẹp hậu môn, rò hậu môn, phản ứng xơ hóa ở mô.
 
-## Đặc điểm
+## Chẩn đoán
 
 ### Lâm sàng
 
-#### Nhiễm Chlamydia không biến chứng
+#### Không biến chứng
 
 - **Phụ nữ**
 
@@ -65,10 +67,11 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
   - Đau dọc niệu đạo, có thể kèm ngứa.
 
 - **Nhiễm ngoài sinh dục**
+
   - **Trực tràng**: thường không triệu chứng hoặc chảy dịch, đau, chảy máu trực tràng.
   - **Hầu họng**: hiếm triệu chứng, có thể viêm họng nhẹ, đau họng. Đôi khi được phát hiện ngẫu nhiên khi sàng lọc STI ở người quan hệ qua đường miệng.
 
-#### Nhiễm Chlamydia có biến chứng
+#### Có biến chứng
 
 - **Phụ nữ**
 
@@ -77,10 +80,11 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
   - Mang thai: sinh non, vỡ ối non, trẻ nhẹ cân.
 
 - **Trẻ sơ sinh**
+
   - Viêm kết mạc: đỏ mắt, chảy mủ, sưng mí sau 5–14 ngày, cần chẩn đoán sớm để tránh loét giác mạc.
   - Viêm phổi bẩm sinh: khởi phát sau 2–3 tuần, ho khan, không đáp ứng kháng sinh thông thường; cần điều trị sulfamethoxazole–trimethoprim (TMP–SMX).
 
-#### Biểu hiện bệnh hột xoài (LGV)
+#### Bệnh hột xoài (LGV)
 
 - **Giai đoạn I**: Loét sinh dục nhỏ, có thể không đau hoặc đau nhẹ, tự lành nhanh (1–3 ngày).
 - **Giai đoạn II**: Tổn thương lan đến hạch bạch huyết vùng (thường hạch bẹn hoặc hạch đùi) gây sưng đau, hạch mềm, đôi khi vỡ mủ, hình thành hốc dò hoặc ápxe hạch.
@@ -90,9 +94,9 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
 1. **Xét nghiệm NAATs (Nucleic Acid Amplification Tests)**
 
-   - **Ưu điểm**: Độ nhạy và độ đặc hiệu >95%, có thể sử dụng trên đa dạng mẫu: dịch niệu đạo, dịch cổ tử cung, dịch trực tràng, nước tiểu.
+   - **Ưu điểm**: Độ nhạy và độ đặc hiệu > 95%, có thể sử dụng trên đa dạng mẫu: dịch niệu đạo, dịch cổ tử cung, dịch trực tràng, nước tiểu.
    - **Thời gian trả kết quả**: 1–4 giờ (tại phòng xét nghiệm chẩn đoán nhanh) hoặc 1–2 ngày.
-   - **Ứng dụng**: Chẩn đoán xác định cho mọi trường hợp nghi ngờ, Sàng lọc phụ nữ <25 tuổi hoặc người có nhiều bạn tình.
+   - **Ứng dụng**: Chẩn đoán xác định cho mọi trường hợp nghi ngờ, Sàng lọc phụ nữ < 25 tuổi hoặc người có nhiều bạn tình.
 
 2. **Xét nghiệm kháng nguyên (DFA, ELISA)**
 
@@ -106,10 +110,9 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
    - Ít được dùng vì phức tạp, tốn kém, thời gian lâu (3–7 ngày).
 
 4. **Xét nghiệm huyết thanh**
+
    - Thường không dùng để chẩn đoán cấp tính đường sinh dục – tiết niệu.
    - Dùng trong chẩn đoán LGV giai đoạn muộn (các kháng thể IgG, IgA tăng).
-
-## Chẩn đoán
 
 ### Chẩn đoán xác định
 
@@ -136,12 +139,13 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
   - _Liên cầu tan huyết beta nhóm B (Streptococcus agalactiae)_: thường là tác nhân gây viêm hậu sản hơn là STD.
 
 - **Viêm hậu môn – trực tràng**:
+
   - _Gonorrhea, Herpes simplex virus, Treponema pallidum (giang mai)_: loét, mụn nước, ngứa dữ dội, scleroatrophic papulosis, có thể kèm u hạch.
 
-:::caution[Lưu ý]
+  :::caution
 
-- _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; do đó, khi nghi ngờ Chlamydia, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
-  :::
+  - _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; do đó, khi nghi ngờ Chlamydia, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
+    :::
 
 ## Điều trị
 
@@ -155,53 +159,67 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
 ### Phác đồ
 
-#### Nhiễm Chlamydia sinh dục – tiết niệu không biến chứng
+#### Chlamydia sinh dục không biến chứng
 
 - **Phác đồ ưu tiên** (tùy chọn 1 hoặc 2):
 
   1. **Azithromycin 1 g uống liều duy nhất**
+  
      - Ưu điểm: thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%.
      - Thận trọng: có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
+  
   2. **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**
+  
      - Hiệu quả 97%.
      - Thận trọng: không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
 
 - **Phác đồ thay thế** (khi không thể dùng thuốc ưu tiên):
-  - **Tetracycline 500 mg uống 4 lần/ngày x 7 ngày**
-  - **Erythromycin 500 mg uống 4 lần/ngày x 7 ngày** (tùy chọn cho phụ nữ có thai, nhưng dung nạp kém, nhiều tác dụng phụ tiêu hóa)
-  - **Ofloxacin 200–400 mg uống 2 lần/ngày x 7 ngày** (không dùng cho phụ nữ có thai)
-  - **Levofloxacin 500 mg uống 1 lần/ngày x 7 ngày** (không dùng cho phụ nữ có thai, giá thành cao)
+  
+  - **Tetracycline 500 mg uống 4 lần/ngày x 7 ngày**.
+  - **Erythromycin 500 mg uống 4 lần/ngày x 7 ngày** (tùy chọn cho phụ nữ có thai, nhưng dung nạp kém, nhiều tác dụng phụ tiêu hóa).
+  - **Ofloxacin 200–400 mg uống 2 lần/ngày x 7 ngày** (không dùng cho phụ nữ có thai).
+  - **Levofloxacin 500 mg uống 1 lần/ngày x 7 ngày** (không dùng cho phụ nữ có thai, giá thành cao).
 
-#### Nhiễm Chlamydia hậu môn – trực tràng (Rectal Chlamydia)
+#### Chlamydia hậu môn – trực tràng (Rectal Chlamydia)
 
 - **Phác đồ ưu tiên**:
-  1. **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**
-  2. **Azithromycin 1 g uống liều duy nhất** (ít ưu tiên hơn do hiệu quả ruột thấp hơn, đặc biệt lâm sàng ở rectal chlamydia)
+  
+  1. **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**.
+  2. **Azithromycin 1 g uống liều duy nhất** (ít ưu tiên hơn do hiệu quả ruột thấp hơn, đặc biệt lâm sàng ở rectal chlamydia).
 
 #### Bệnh hột xoài (LGV)
 
 - **Phác đồ ưu tiên**:
-  1. **Doxycycline 100 mg uống 2 lần/ngày x 21 ngày**
-  2. **Azithromycin 1 g uống 1 lần/tuần x 3 tuần** (nếu không tuân thủ được doxycycline)
-- **Phác đồ thay thế** (khi không thể dùng doxycycline hoặc azithromycin):
-  - **Erythromycin 500 mg uống 4 lần/ngày x 7–10 ngày** (ít hiệu quả hơn, chỉ dùng khi không dùng được các thành phần trên)
+  
+  1. **Doxycycline 100 mg uống 2 lần/ngày x 21 ngày**.
+  2. **Azithromycin 1 g uống 1 lần/tuần x 3 tuần** (nếu không tuân thủ được doxycycline).
 
-#### Nhiễm Chlamydia ở phụ nữ có thai
+- **Phác đồ thay thế** (khi không thể dùng doxycycline hoặc azithromycin):
+
+  - **Erythromycin 500 mg uống 4 lần/ngày x 7–10 ngày** (ít hiệu quả hơn, chỉ dùng khi không dùng được các thành phần trên).
+
+#### Chlamydia ở phụ nữ có thai
 
 - **Ưu tiên**:
+
   - **Azithromycin 1 g uống liều duy nhất** (an toàn, hiệu quả tốt).
   - **Amoxicillin 500 mg uống 3 lần/ngày x 7 ngày** (thay thế nếu dị ứng macrolide).
+
 - **Tránh**:
+
   - **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây ảnh hưởng đến phát triển xương, răng thai nhi).
 
-#### Nhiễm Chlamydia ở trẻ sơ sinh
+#### Chlamydia ở trẻ sơ sinh
 
 - **Viêm kết mạc**:
+
   - **Erythromycin 0.5% kem bôi mắt** mỗi khi nhỏ mắt hoặc dùng **Azithromycin liều đơn (20 mg/kg uống)** nếu nặng.
+
 - **Viêm phổi bẩm sinh**:
+
   - **Erythromycin 50 mg/kg/ngày chia 4 lần x 14 ngày**, nếu không đáp ứng, chuyển sang **TMP–SMX** theo cân nặng.
 
-:::caution[Lưu ý]
+:::caution
 
 - **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** không dùng cho phụ nữ có thai hoặc cho con bú.
 - **Metronidazole không dùng trong 3 tháng đầu thai kỳ**, nhưng có thể cân nhắc nếu kết hợp điều trị các STI phối hợp (Trichomonas).

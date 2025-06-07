@@ -38,7 +38,7 @@ Vaccine uốn ván cho phụ nữ mang thai được tiêm theo tiền sử mi�
   - Mũi đầu sau 20 tuần.
   - Mũi nhắc lại ≥ 30 ngày sau (hoặc trước sinh ≥ 30 ngày).
 
-:::caution[Lưu ý]
+:::caution
 
 - Chỉ tiêm ở cơ sở y tế được Bộ Y tế cấp phép.
 - Theo dõi tối thiểu 15–30 phút sau tiêm.

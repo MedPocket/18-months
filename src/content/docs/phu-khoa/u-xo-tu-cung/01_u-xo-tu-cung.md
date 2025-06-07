@@ -91,7 +91,7 @@ _Phân loại FIGO 2011._
 
   _Leiomyosarcoma trên MRI._
 
-## Phân biệt
+### Chẩn đoán phân biệt
 
 - Bệnh tuyến cơ tử cung (Adenomyosis).
 - Tử cung to do có thai.

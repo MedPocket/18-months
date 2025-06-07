@@ -121,7 +121,7 @@ Chỉ định sinh thiết hoặc D&C khi:
 - Phụ nữ < 45 tuổi có xuất huyết kéo dài, không phóng noãn mạn tính (béo phì, PCOS), hoặc thất bại sau điều trị nội khoa.
 - Theo dõi điều trị tăng sinh nội mạc.
 
-:::caution[Lưu ý]
+:::caution
 Đối với phụ nữ hậu mãn kinh, mọi trường hợp xuất huyết dù nhẹ (spotting) cũng phải sinh thiết. Với phụ nữ 45–menopa, mọi trường hợp chảy máu bất thường (ngắn chu kỳ, chảy nhiều > 80 mL, kéo dài > 7 ngày) cần sinh thiết. Với < 45 tuổi, chỉ khi có tiếp xúc estrogen kéo dài không có progesterone (béo phì, PCOS) hoặc thất bại điều trị nội khoa.
 :::
 
@@ -153,7 +153,7 @@ Cho phép quan sát trực tiếp buồng tử cung và sinh thiết tổn thư�
 
 ### Nội khoa
 
-:::caution[Lưu ý]
+:::caution
 Nhiều loại tăng sinh có thể cùng tồn tại với ung thư nội mạc. Trước khi điều trị bảo tồn, phải đảm bảo không bỏ sót tổn thương (sinh thiết kỹ, kết hợp nội soi khi cần). Điều trị càng sớm (đặc biệt tăng sinh không điển hình) càng có cơ hội thoái triển.
 :::
 

@@ -9,7 +9,7 @@ Hậu quả của chuyển dạ kéo dài rất nặng nề. Phần lớn các b
 
 ### Chẩn đoán
 
-:::note[Chẩn đoán chuyển dạ kéo dài]
+:::note[Tiêu chuẩn chẩn đoán chuyển dạ kéo dài]
 Chuyển dạ được coi là kéo dài khi tổng thời gian vượt quá 24 giờ, hoặc khi giai đoạn hoạt động kéo dài hơn 12 giờ.
 :::
 
@@ -30,7 +30,7 @@ Vì giai đoạn xóa mở cổ tử cung bao gồm hai pha liên tiếp, nên c
 
 Chuyển dạ tắc nghẽn là tình trạng có cản trở cơ học khiến thai không thể tiến triển qua đường sinh tự nhiên.
 
-:::note[Chẩn đoán hội chứng tắc nghẽn]
+:::note[Tiêu chuẩn chẩn đoán hội chứng tắc nghẽn]
 Khi có cản trở cơ học, thai nhi thường có các dấu hiệu:
 
 1. Cơn co tử cung dồn dập.
@@ -54,7 +54,7 @@ Cơn co tử cung quá mạnh và dồn dập làm giảm lưu lượng máu t�
 
 Cơn co mạnh làm phần thân tử cung dày lên, đoạn dưới mỏng đi, tạo thành vòng Bandl, đi kèm dấu hiệu Frommel (căng dây chằng tròn).
 
-:::note[Chẩn đoán dọa vỡ tử cung]
+:::note[Tiêu chuẩn chẩn đoán dọa vỡ tử cung]
 
 - Cơn co tử cung dồn dập.
 - Vòng Bandl rõ.

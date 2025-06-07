@@ -197,7 +197,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
     - Ethinyl estradiol 30 µg + Levonorgestrel 150 µg × 2–3 viên/ngày trong 5–7 ngày, sau đó chuyển sang liều duy trì (1 viên/ngày).
     - Hoặc premarin (estrogen liên hợp) 25 mg/ngày × 5–7 ngày, sau đó bổ sung progestin (medroxyprogesterone acetate 10 mg/ngày × 10–14 ngày).
 
-    :::caution[Lưu ý]
+    :::caution
     Estrogen cần được cho đủ liều để nội mạc phát triển nhanh nhằm bít kín mạch máu hở. Không nên tăng liều quá mức, vì tác dụng genomic cần thời gian và liều quá cao tăng nguy cơ huyết khối.
     :::
 
@@ -270,7 +270,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
    - Chỉ định chủ yếu cho u xơ tử cung gây chảy máu nặng, không muốn phẫu thuật, hoặc nguy cơ phẫu thuật cao.
    - Phương pháp: bít tắc động mạch cung cấp máu cho cơ tử cung, làm khối u xơ teo nhỏ, giảm chảy máu.
 
-   :::caution[Lưu ý]
+   :::caution
    Thuyên tắc động mạch tử cung có thể coi là biện pháp tương đương cắt tử cung về mặt triệt để cầm máu, nhưng giữ lại tử cung cho bệnh nhân.
    :::
 

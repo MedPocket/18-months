@@ -97,7 +97,7 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 - Vancomycin (15 mg/kg truyền TM mỗi 12 giờ).
 - Có thể phối hợp với cephalosporin thế hệ 3 hoặc beta-lactam kết hợp chất ức chế beta-lactamase.
 
-:::caution[Lưu ý]
+:::caution
 
 - **Cloxacillin**: Có thể gây viêm gan, vàng da ứ mật, biểu hiện chậm. Thận trọng trong thai kỳ và cho con bú.
 - **Cefadroxyl**: Bài tiết vào sữa mẹ với nồng độ thấp. Theo dõi trẻ bú mẹ có biểu hiện tiêu chảy, tưa lưỡi hoặc nổi ban.

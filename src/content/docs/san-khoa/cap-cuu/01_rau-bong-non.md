@@ -35,7 +35,7 @@ Rau bong non được định nghĩa là trường hợp rau bám đúng vị tr
 
 Chẩn đoán rau bong non là chẩn đoán loại trừ dựa vào lâm sàng và cận lâm sàng.
 
-:::caution[Lưu ý]
+:::caution
 Rau bong non là chẩn đoán loại trừ và cần loại bỏ các nguyên nhân đau bụng và chảy máu khác.
 :::
 

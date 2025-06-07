@@ -66,7 +66,7 @@ Steroid sinh dục tác động lên tế bào đích theo hai đường qua gen
 - Kích hoạt second messenger (Ca²⁺, cAMP, PI3K/Akt, MAPK...)
 - Khởi phát nhanh (giây–phút), không yêu cầu nồng độ quá thấp.
 
-:::caution[Lưu ý]
+:::caution
 Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có thể điều hòa biểu hiện gene gián tiếp qua các đường tín hiệu thứ cấp.
 :::
 

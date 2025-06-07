@@ -56,7 +56,7 @@ BV được chẩn đoán dựa trên lâm sàng và xét nghiệm thường quy
 
 ### Tiêu chuẩn Amsel
 
-:::note[Chẩn đoán loạn khuẩn âm đạo theo Amsel]
+:::note[Tiêu chuẩn chẩn đoán loạn khuẩn âm đạo theo Amsel]
 
 Để chẩn đoán BV theo Amsel, cần có **ít nhất 3/4** tiêu chuẩn sau:
 
@@ -98,7 +98,7 @@ _Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0–10)._
 
 ### Tiêu chuẩn Từ Dũ
 
-:::note[Chẩn đoán loạn khuẩn âm đạo theo Bệnh viện Từ Dũ]
+:::note[Tiêu chuẩn chẩn đoán loạn khuẩn âm đạo theo Bệnh viện Từ Dũ]
 BV được chẩn đoán khi đủ **2/3** tiêu chuẩn sau:
 
 1. **Lâm sàng**
@@ -143,7 +143,7 @@ Mục tiêu: khôi phục cân bằng hệ vi sinh, giảm triệu chứng và n
 
    - Nếu đã điều trị đúng phác đồ nhưng BV tái phát > 3 lần/năm, cần đánh giá thêm yếu tố nguy cơ: quan hệ tình dục không an toàn, thụt rửa, vệ sinh sai cách, cân nhắc bổ sung probiotic và theo dõi kỹ.
 
-:::caution[Lưu ý]
+:::caution
 
 - **Nếu không có yếu tố nguy cơ** (không mang thai, không chuẩn bị phẫu thuật, không có triệu chứng), có thể **theo dõi không điều trị** vì hệ vi sinh có thể tự điều chỉnh.
 - **Nếu mang thai nguy cơ cao**: Điều trị trước 20 tuần giúp giảm nguy cơ sinh non do ngăn chặn sớm quá trình viêm niêm mạc ối. Nghiên cứu cho thấy **Clindamycin uống** có hiệu quả hơn Metronidazole trong ngăn ngừa sinh non khi điều trị sớm BV không triệu chứng ở phụ nữ mang thai.
@@ -165,7 +165,7 @@ Phần lớn trường hợp BV không có triệu chứng có thể tự cải 
 | **Tinidazole**              | 2 g liều duy nhất uống, có thể thay cho Metronidazole          |
 | **Clindamycin viên**        | 300 mg uống 2 lần/ngày trong 7 ngày                            |
 
-:::caution[Lưu ý]
+:::caution
 Metronidazole uống có thể gây khô miệng, vị kim loại, và nên tránh rượu bia trong thời gian điều trị và 48 giờ sau khi kết thúc. Tinidazole ít tác dụng phụ hơn nhưng giá thành cao hơn.
 :::
 
@@ -193,7 +193,7 @@ Tùy chọn điều trị BV tại Bệnh viện Từ Dũ (áp dụng cho cả B
 - Tránh lạm dụng dung dịch sát khuẩn (ví dụ povidone iodine 10%) vì dễ gây khô và làm mất cân bằng pH.
 - Sử dụng **acid lactic + lactoserum atomist** để duy trì môi trường acid nhẹ, hỗ trợ Lactobacilli phát triển.
 
-:::caution[Lưu ý]
+:::caution
 
 - **Metronidazole không dùng trong 3 tháng đầu thai kỳ** do tiềm ẩn nguy cơ quái thai.
 - Phụ nữ mang thai chỉ điều trị khi có triệu chứng rõ và cân nhắc lợi ích – nguy cơ.

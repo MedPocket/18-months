@@ -12,7 +12,7 @@ Thai nghén thất bại sớm (Early Pregnancy Failure) thường được bi�
 - **Trứng trống** (blighted ovum) chỉ sự hiện diện của túi thai nhưng không thấy phôi thai bên trong.
 - **Thai ngưng phát triển** sớm chỉ hình ảnh túi thai có phôi nhưng không có hoạt động tim thai.
 
-:::caution[Lưu ý]
+:::caution
 Thai nghén thất bại sớm không bao gồm thai sinh hóa.
 :::
 
@@ -49,7 +49,7 @@ _Trứng trống: MSD ≥ 25 mm không thấy túi noãn hoàng hay phôi._
 - Yolk-sac giãn > 7 mm.
 - Hiệu MSD – CRL < 5 mm.
 
-:::caution[Lưu ý]
+:::caution
 Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu trước khi chẩn đoán chắc chắn (NICE).
 :::
 

@@ -200,7 +200,7 @@ Theo khuyến cáo của ACOG (2017):
 | **Tần suất chụp nhũ ảnh**     | 1 lần/năm hoặc 1 lần/2 năm tùy nguyện vọng và nguy cơ                     | 1 lần/2 năm                                        | 1 lần/năm (45–54 tuổi)<br>1 lần/2 năm (≥ 55 tuổi nếu đã chụp hàng năm)                                              | 1 lần/năm                                                        |
 | **Tuổi ngưng tầm soát**       | Tiếp tục đến 75 tuổi                                                      | Không đủ bằng chứng để khuyến cáo sau 74 tuổi      | Khi thời gian sống kỳ vọng < 10 năm                                                                                 | Khi tình trạng bệnh lý nặng làm giảm thời gian sống còn < 10 năm |
 
-:::caution[Lưu ý]
+:::caution
 Khi thực hiện nhũ ảnh thường quy ở phụ nữ 40–49 tuổi, có ít nhất một lần dương tính giả trong suốt thời gian tầm soát. Nhũ ảnh đơn thuần không đủ nhạy cho nhóm nguy cơ cao (theo mô hình Claus) hoặc nhóm có nguy cơ đặc biệt (đột biến BRCA, tiền sử gia đình phức tạp, xạ trị ngực khi trẻ), những trường hợp này cần phối hợp MRI và siêu âm.
 :::
 
@@ -225,7 +225,7 @@ _Lịch tầm soát ung thư vú cho phụ nữ nguy cơ cao theo các tổ ch�
 - Từng xạ trị ngực ở tuổi 10–30 (khuyến cáo bắt đầu MRI hàng năm sau 8–10 năm kể từ khi xạ trị hoặc khi ≥ 25 tuổi).
 - Mắc hội chứng Li-Fraumeni, hội chứng Cowden, hội chứng Bannayan-Riley-Ruvalcaba, hoặc có người thân trực hệ mắc các hội chứng này.
 
-:::caution[Lưu ý]
+:::caution
 Theo ACS (2015), với các nhóm nguy cơ đặc biệt tăng cao như LCIS, ADH, DCIS, tiền sử ung thư vú, mặc dù chưa có chứng cứ đủ cho MRI đơn thuần, nhưng vẫn khuyến cáo phối hợp MRI và nhũ ảnh hàng năm để theo dõi.
 :::
 
@@ -311,7 +311,7 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
      - CT scan ngực-bụng-chậu
      - Xạ hình xương (Bone scan)
      - PET-CT nếu nghi ngờ giai đoạn III–IV.
-       :::caution[Lưu ý]
+       :::caution
        CT scan, MRI toàn thân hoặc xạ hình xương chỉ cần thiết khi có triệu chứng lâm sàng hoặc xét nghiệm bất thường gợi ý di căn.  
        :::
 
@@ -502,7 +502,7 @@ Ung thư vú liên quan đến thai kỳ (Pregnancy-Associated Breast Cancer, PA
    - Hóa trị và xạ trị có thể thực hiện bình thường sau khi sinh (nếu mẹ không cho con bú).
    - Khuyến cáo tránh mang thai lại ít nhất 2–3 năm sau điều trị do 80% tái phát xảy ra trong 2 năm đầu.
 
-:::caution[Lưu ý]
+:::caution
 Phụ nữ sau phẫu thuật bảo tồn ung thư vú vẫn có thể cho con bú vú còn lại, tuy nhiên cần tham khảo ý kiến bác sĩ phụ khoa, bác sĩ ung bướu để đánh giá nguy cơ tái phát.
 :::
 

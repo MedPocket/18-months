@@ -158,7 +158,7 @@ _Phác đồ xử trí và phân loại O-RADS._
   - **Nguy cơ thấp** nếu < cut-off.
 - NPV rất cao ( 99%); ROMA phát hiện 94% ung thư biểu mô buồng trứng vào nhóm nguy cơ cao.
 
-:::caution[Lưu ý]
+:::caution
 ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
 :::
 

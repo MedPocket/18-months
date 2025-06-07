@@ -66,7 +66,7 @@ _Vòng Bandl bệnh lý khi có chuyển dạ tắc nghẽn. Phía trên đáy t
 
 ## Chẩn đoán
 
-:::note[Chẩn đoán chuyển dạ]
+:::note[Tiêu chuẩn chẩn đoán chuyển dạ]
 Chẩn đoán chuyển dạ khi có ≥ 2 trong các tiêu chuẩn sau:
 
 1. Có ≥ 2 cơn co tử cung mỗi 10 phút, mỗi cơn kéo dài ≥ 20 giây, gây đau.

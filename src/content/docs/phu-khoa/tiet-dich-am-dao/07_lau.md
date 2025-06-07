@@ -1,6 +1,6 @@
 ---
 title: Lậu
-description: Bệnh lậu (Gonorrhea) là nhiễm khuẩn lây truyền qua đường tình dục do song cầu khuẩn Gram âm _Neisseria gonorrhoeae_ gây ra. Bệnh thường biểu hiện bằng viêm niệu đạo – sinh dục ở nam và nữ, nhưng cũng có thể lây lan đến trực tràng, hậu môn, hầu họng. Nếu không điều trị kịp thời, lậu có thể dẫn đến các biến chứng nghiêm trọng như viêm tiểu khung, vô sinh, viêm mào tinh hoàn, chửa ngoài tử cung và làm tăng nguy cơ lây nhiễm các bệnh lây truyền qua đường tình dục khác.
+description: Bệnh lậu (Gonorrhea) là nhiễm khuẩn lây truyền qua đường tình dục do song cầu khuẩn Gram âm _Neisseria gonorrhoeae_ gây ra.
 ---
 
 Bệnh lậu là bệnh lây truyền qua đường tình dục do song cầu khuẩn Gram âm _Neisseria gonorrhoeae_ gây ra. Vi khuẩn này chủ yếu lây qua quan hệ tình dục đường âm đạo, đường miệng hoặc đường hậu môn. Mức độ kháng thuốc của _N. gonorrhoeae_ đang ngày càng gia tăng, khiến việc chẩn đoán, điều trị và phòng ngừa trở nên thách thức hơn.
@@ -9,7 +9,7 @@ Bệnh lậu là bệnh lây truyền qua đường tình dục do song cầu kh
 
 _N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm trong và ngoài bạch cầu trung tính._
 
-## Đặc điểm
+## Chẩn đoán
 
 ### Lâm sàng
 
@@ -20,7 +20,7 @@ _N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm t
 
 Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng vẫn có khả năng lây truyền.
 
-#### Nhiễm lậu cầu không biến chứng
+#### Không biến chứng
 
 - **Nam giới**
 
@@ -40,10 +40,11 @@ Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng v�
   - Ở người quan hệ qua đường hậu môn, cần hỏi kỹ tiền sử quan hệ hậu môn để nghĩ đến chẩn đoán.
 
 - **Lậu hầu họng**
+
   - Thường không triệu chứng; có thể viêm họng nhẹ, đau họng, sưng hạch góc hàm.
   - Được phát hiện khi sàng lọc STI hầu họng ở người quan hệ bằng miệng.
 
-#### Nhiễm lậu cầu có biến chứng
+#### Có biến chứng
 
 - **Nam giới**
 
@@ -57,17 +58,17 @@ Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng v�
   - Viêm nội mạc tử cung: nhẹ triệu chứng nhưng ảnh hưởng niêm mạc tử cung.
   - Mang thai: tăng nguy cơ sinh non, vỡ ối non, thai nhi nhẹ cân.
 
-  ![Tiết dịch cơ quan sinh dục](../../../../assets/phu-khoa/lau/tiet-dich-co-quan-sinh-duc.png)
+    ![Tiết dịch cơ quan sinh dục](../../../../assets/phu-khoa/lau/tiet-dich-co-quan-sinh-duc.png)
 
-  _Tiết dịch cơ quan sinh dục._
+    _Tiết dịch cơ quan sinh dục._
 
 - **Trẻ sơ sinh** (lây nhiễm qua đường sinh dục khi mẹ nhiễm lậu)
 
   - Viêm kết mạc mắt: khởi phát 2–5 ngày sau sinh, chảy mủ mắt, sưng mí, nếu không điều trị có thể dẫn đến loét giác mạc, sẹo và mù loà.
 
-  ![Lậu hầu họng](../../../../assets/phu-khoa/lau/lau-hau-hong.png)
+    ![Lậu hầu họng](../../../../assets/phu-khoa/lau/lau-hau-hong.png)
 
-  _Lậu hầu họng._
+    _Lậu hầu họng._
 
 ### Cận lâm sàng
 
@@ -76,20 +77,23 @@ Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng v�
 - **Ưu điểm**: Dễ thực hiện, giá thành thấp, có thể chẩn đoán sơ bộ nhanh ở nam giới có triệu chứng.
 - **Kỹ thuật**: Lấy bệnh phẩm dịch niệu đạo (nam) hoặc dịch cổ tử cung (nữ), nhuộm Gram, quan sát song cầu Gram âm nằm trong bạch cầu đa nhân trung tính (PMN).
 - **Độ nhạy**:
+
   - Nam có triệu chứng: 95%.
   - Nam không triệu chứng: 50–70%.
   - Nữ: 30–50% (kém nhạy hơn, thường dùng để loại trừ, vẫn cần xét nghiệm bổ sung nếu âm tính).
-
-Nếu nhuộm Gram dương tính ở nam giới có triệu chứng, có thể chẩn đoán lậu ngay. Nếu âm tính hoặc ở nữ, cần kết hợp thêm xét nghiệm khác.
+  - Nếu nhuộm Gram dương tính ở nam giới có triệu chứng, có thể chẩn đoán lậu ngay. Nếu âm tính hoặc ở nữ, cần kết hợp thêm xét nghiệm khác.
 
 #### Nuôi cấy
 
 - **Môi trường Thayer-Martin** bổ sung vancomycin (ức chế vi khuẩn Gram dương), colistin, nystatin (ức chế nấm), trimethoprim (ức chế Proteus).
 - **Độ nhạy**: 85–95% (niệu đạo, cổ tử cung); thấp hơn ở hầu họng và trực tràng (50–70%).
 - **Ưu điểm**:
+
   - Là tiêu chuẩn vàng để chẩn đoán.
   - Cho phép làm kháng sinh đồ (phải thiết để theo dõi kháng thuốc).
+
 - **Hạn chế**:
+
   - Cần điều kiện phòng xét nghiệm chuyên sâu, kỹ thuật viên có kỹ năng.
   - Thời gian có kết quả: 2–5 ngày.
 
@@ -98,35 +102,20 @@ Nếu nhuộm Gram dương tính ở nam giới có triệu chứng, có thể c
 - **Cơ chế**: Phát hiện DNA hoặc RNA của _N. gonorrhoeae_ trên nhiều loại bệnh phẩm: nước tiểu, dịch niệu đạo, dịch cổ tử cung, mẫu hầu họng, mẫu trực tràng.
 - **Độ nhạy/độ đặc hiệu**: > 90–95%. Cao hơn nuôi cấy, đặc biệt ở mẫu không phải niệu đạo.
 - **Ưu điểm**:
+
   - Kết quả nhanh (vài giờ đến 1 ngày).
   - Có thể sàng lọc người không triệu chứng (nữ, quan hệ bằng miệng, hậu môn).
+
 - **Hạn chế**:
+
   - Không cung cấp kháng sinh đồ.
   - Chi phí cao hơn so với nhuộm Gram hoặc nuôi cấy.
 
-### Chẩn đoán
-
-#### Chẩn đoán xác định
-
-:::note[Chẩn đoán xác định bệnh lậu]
-**Lâm sàng**
-
-- Tiết dịch hoặc mủ ở niệu đạo (nam) hoặc âm đạo/cổ tử cung (nữ), kèm tiểu buốt, tiểu nhiều, nóng rát niệu đạo.
-- Tiền sử quan hệ tình dục không an toàn hoặc bạn tình có nhiễm lậu.
-
-**Cận lâm sàng**
-
-- **Nhuộm Gram**: Song cầu Gram âm hình hạt cà phê trong bạch cầu đa nhân trung tính (đặc biệt ở nam giới có triệu chứng).
-- **Nuôi cấy**: Phân lập _N. gonorrhoeae_ trên môi trường Thayer-Martin.
-- **NAATs**: Xét nghiệm khuếch đại acid nucleic phát hiện _N. gonorrhoeae_ trên dịch niệu đạo, dịch cổ tử cung, nước tiểu, mẫu hầu họng hoặc mẫu trực tràng.
-
-_Bất kỳ kết quả dương tính từ một trong ba xét nghiệm trên đều khẳng định chẩn đoán lậu._
-
-:::caution[Lưu ý]
+:::caution
 Tại cơ sở không đủ điều kiện xét nghiệm, có thể chẩn đoán lâm sàng và điều trị theo hướng dẫn. Tại cơ sở có điều kiện, nên kết hợp lâm sàng và cận lâm sàng để chẩn đoán chính xác.  
 :::
 
-#### Chẩn đoán phân biệt
+### Chẩn đoán phân biệt
 
 - **Lậu sinh dục**:
 
@@ -148,7 +137,7 @@ Tại cơ sở không đủ điều kiện xét nghiệm, có thể chẩn đoá
 
   - _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_, _Chlamydia trachomatis_; cần nuôi cấy mẫu mủ mắt, NAATs nếu có.
 
-:::caution[Lưu ý]
+:::caution
 _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi nghi ngờ lậu, luôn làm thêm xét nghiệm Chlamydia (NAATs) để điều trị đồng thời.  
 :::
 
@@ -164,24 +153,25 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
 
 ### Phác đồ
 
-#### Nhiễm lậu sinh dục và hậu môn – trực tràng
+#### Lậu sinh dục và hậu môn – trực tràng
 
 - **Ưu tiên** (dựa vào kháng sinh đồ nếu có):
 
-  1. **Ceftriaxon 250 mg tiêm bắp liều duy nhất**
-  2. **Spectinomycin 2 g tiêm bắp liều duy nhất** (nếu không dùng được cephalosporin)
-  3. **Cefixim 400 mg uống liều duy nhất** (thay thế khi không tiêm bắp được)
+  1. **Ceftriaxon 250 mg tiêm bắp liều duy nhất**.
+  2. **Spectinomycin 2 g tiêm bắp liều duy nhất** (nếu không dùng được cephalosporin).
+  3. **Cefixim 400 mg uống liều duy nhất** (thay thế khi không tiêm bắp được).
 
 - **Kết hợp**:
+
   - **Azithromycin 1 g uống liều duy nhất** để điều trị đồng nhiễm _Chlamydia trachomatis_.
 
-:::caution[Lưu ý]
+:::caution
 
 - Phác đồ trên áp dụng cho cả phụ nữ mang thai (Ceftriaxon tiêm bắp an toàn, Azithromycin an toàn khi điều trị Chlamydia).
-- Nếu tiền sử dị ứng ceftriaxon hoặc cephalosporin thế hệ ba: xem mục **Lưu ý đặc biệt** bên dưới.  
+- Nếu tiền sử dị ứng ceftriaxon hoặc cephalosporin thế hệ ba.  
   :::
 
-#### Nhiễm lậu hầu họng
+#### Lậu hầu họng
 
 - **Ưu tiên**:
 
@@ -193,6 +183,7 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
   - **Azithromycin 1 g uống liều duy nhất** để điều trị đồng nhiễm Chlamydia.
 
 - **Theo dõi**:
+
   - Tái khám sau 7–14 ngày để kiểm tra bằng nuôi cấy hoặc NAATs (lưu ý dương tính giả do tồn dư acid nucleic). Nếu NAAT (+), làm nuôi cấy để khẳng định kháng thuốc trước khi điều trị lại.
 
 #### Lậu mắt ở trẻ sơ sinh
@@ -213,12 +204,13 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
 
   _Lưu ý: Tránh chạm mắt khi tra thuốc. Không dùng Povidon Iod dung môi cồn do kích ứng._
 
-:::caution[Lưu ý]
+:::caution
 
 - **Dị ứng Penicillin/cephalosporin**:
 
   - Nguy cơ phản ứng chéo giữa Penicillin và Cephalosporin thế hệ đầu cao hơn, nhưng với cephalosporin thế hệ ba (Ceftriaxon, Cefixim) nguy cơ rất thấp (< 1%).
   - Nếu nghi ngờ quá mẫn IgE với Penicillin, có thể dùng:
+
     - **Gentamicin 240 mg tiêm bắp liều duy nhất** + **Azithromycin 2 g uống liều duy nhất**.
     - Nếu cơ sở có xét nghiệm đột biến **gyrA** (chỉ điểm kháng Ciprofloxacin), có thể dùng **Ciprofloxacin 500 mg uống liều duy nhất** nếu mẫu nhạy.
 
@@ -228,6 +220,7 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
   - Tránh dùng Gentamicin vì nguy cơ độc tính trên tai và thận của thai nhi.
 
 - **Người nhiễm HIV**:
+
   - Điều trị tương tự người không nhiễm HIV; lưu ý nguy cơ kháng thuốc cao hơn, cần theo dõi kỹ đáp ứng điều trị.
 
 :::
@@ -243,10 +236,12 @@ Xác định thất bại điều trị khi:
 **Phác đồ điều trị lại**:
 
 - Nếu đã điều trị theo hướng dẫn:
+
   - **Ceftriaxon 500 mg tiêm bắp liều duy nhất** + **Azithromycin 2 g uống liều duy nhất**.
   - **Cefixim 800 mg uống liều duy nhất** + **Azithromycin 2 g uống liều duy nhất**.
   - **Gentamicin 240 mg tiêm bắp liều duy nhất** + **Azithromycin 2 g uống liều duy nhất**.
   - **Spectinomycin 2 g tiêm bắp liều duy nhất** (nếu không phải nhiễm hầu họng) + **Azithromycin 2 g uống liều duy nhất**.
+
 - Nếu đã điều trị nhưng không theo phác đồ khuyến cáo: điều trị lại theo hướng dẫn.
 - Nếu có kháng sinh đồ: điều trị lại dựa vào kết quả kháng sinh đồ.
 - Nếu nghi ngờ tái nhiễm (bạn tình không điều trị hoặc quan hệ với người mới nhiễm): điều trị lại theo phác đồ ưu tiên và điều trị bạn tình.
@@ -262,8 +257,10 @@ Xác định thất bại điều trị khi:
 
 - **Giáo dục, truyền thông** về STI, đường lây truyền, triệu chứng, biến chứng và cách phòng tránh.
 - **Thực hành tình dục an toàn**:
+
   - Sử dụng bao cao su đúng cách mọi lúc khi quan hệ âm đạo, hậu môn hoặc miệng.
   - Hạn chế số bạn tình, sàng lọc STI định kỳ nếu có nguy cơ cao.
+
 - **Khám sàng lọc định kỳ**: Đối với nhóm nguy cơ cao (trẻ vị thành niên, phụ nữ < 25 tuổi, nam quan hệ tình dục đồng giới, người chuyển giới, mại dâm).
 - **Đào tạo chuyên môn**: Cập nhật kiến thức về kháng thuốc lậu cầu cho các bác sĩ đa khoa, chuyên khoa da liễu và sản phụ khoa.
 - **Theo dõi kháng thuốc**: Đẩy mạnh nuôi cấy và làm kháng sinh đồ để giám sát mức độ kháng thuốc của _N. gonorrhoeae_ tại địa phương.

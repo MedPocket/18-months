@@ -42,7 +42,7 @@ Tắc tia sữa là tình trạng sữa ứ đọng trong các ống dẫn sữa
 - **Metoclopramide** 10mg × 3 lần/ngày, 5–7 ngày.
 - **Domperidone** 10mg × 3 lần/ngày, 5–7 ngày.
 
-  :::caution[Lưu ý]
+  :::caution
   Các thuốc kích thích chỉ dùng khi sản lượng sữa giảm.
   :::
 

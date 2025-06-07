@@ -19,7 +19,7 @@ Thủy đậu (trái rạ) là bệnh truyền nhiễm cấp tính do virus vari
 
 ## Chẩn đoán
 
-:::note[Chẩn đoán thủy đậu]
+:::note[Tiêu chuẩn chẩn đoán thủy đậu]
 Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch tễ học. Khi cần – đặc biệt ở người lớn, suy giảm miễn dịch hoặc nghi biến chứng – làm xét nghiệm bổ sung.
 
 **Lâm sàng**

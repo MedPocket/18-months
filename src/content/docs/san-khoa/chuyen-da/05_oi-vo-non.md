@@ -33,7 +33,7 @@ description: Chẩn đoán, xử trí ối vỡ non.
 
 - Dựa trên nguyên lý: dịch âm đạo và nước tiểu có tính acid, còn nước ối có tính kiềm. Dùng giấy thử Nitrazine nhúng vào dịch tại lưỡi mỏ vịt. Nếu có nước ối, giấy sẽ đổi màu từ **vàng sang xanh lam**.
 
-:::caution[Lưu ý]
+:::caution
 Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một số nhiễm trùng âm đạo.
 :::
 
@@ -51,7 +51,7 @@ Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một s
 - **CTG hoặc Non-stress test** nếu cần thiết.
 - **Xét nghiệm liên cầu nhóm B (GBS)** nếu có chỉ định.
 
-### Phân biệt
+### Chẩn đoán phân biệt
 
 :::note[Tiêu chuẩn chẩn đoán ối vỡ non]
 
@@ -90,7 +90,7 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
 - **Kháng sinh dự phòng** để giảm nguy cơ nhiễm trùng và trì hoãn sinh. Mục tiêu là phòng ngừa nhiễm Streptococcus nhóm B.
 
-  :::caution[Lưu ý]
+  :::caution
   Không dùng **Amoxicillin + Acid Clavulanic** vì có nguy cơ gây **viêm ruột hoại tử** ở sơ sinh. Phác đồ khuyến cáo:
 
   - **Lựa chọn 1**:

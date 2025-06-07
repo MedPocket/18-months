@@ -62,7 +62,7 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 | **25 tuần–sinh**      | 3640–117 000       |
 | **4–6 tuần sau sinh** | < 5                |
 
-:::caution[Lưu ý]
+:::caution
 Nếu β-hCG > 1500 mIU/mL (TV âm đạo) hoặc > 3000 mIU/mL (TV bụng) mà không thấy túi thai → cân nhắc thai ngoài tử cung hoặc thai bất thường.
 :::
 

@@ -30,7 +30,7 @@ Chẩn đoán khối tân lập ở buồng trứng luôn phải đi kèm dự �
 - **Mang thai đủ tháng**, **cho con bú**, **dùng COC** làm giảm nguy cơ ung thư biểu mô buồng trứng.
 - **Cắt buồng trứng dự phòng** là biện pháp duy nhất ngăn ngừa hoàn toàn.
 
-:::caution[Lưu ý]
+:::caution
 Theo ACOG, giữ lại buồng trứng nếu chưa mãn kinh. Tuy nhiên, xét nguy cơ tuổi mãn kinh, có thể cân nhắc cắt bỏ buồng trứng.
 :::
 

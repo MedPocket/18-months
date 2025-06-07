@@ -18,7 +18,7 @@ Tiết dịch núm vú (nipple discharge) là hiện tượng có dịch chảy 
    - Màu sắc có thể là máu tươi, nâu sẫm, mủ hoặc dịch đục lẫn máu.
    - Nguy cơ liên quan đến tổn thương ống tuyến (như bướu nhú, ung thư ống) cao hơn.
 
-:::caution[Lưu ý]
+:::caution
 
 - **Tiết dịch tự phát, một bên, có lẫn máu** là dấu hiệu cảnh báo cao đối với bướu nhú (intraductal papilloma) hoặc carcinoma tại chỗ/ xâm lấn trong ống tuyến vú.
 - Khi có các đặc điểm kể trên, cần thực hiện các bước chẩn đoán hình ảnh và xâm lấn để loại trừ ác tính.

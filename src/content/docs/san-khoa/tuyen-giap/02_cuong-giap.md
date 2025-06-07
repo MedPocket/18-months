@@ -40,7 +40,7 @@ Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng *
   - **Propylthiouracil (PTU)**: ưu tiên dùng trong tam cá nguyệt đầu tiên.
   - **Methimazole (Tapazole)**: có thể dùng sau tam cá nguyệt thứ nhất để giảm độc tính gan của PTU.
 
-:::caution[Lưu ý]
+:::caution
 
 1. PTU và methimazole có thể qua bánh rau → có thể gây **bướu giáp hoặc nhược giáp thai nhi**. Khoảng 1–5% trẻ phơi nhiễm với PTU trong tử cung có bướu giáp.
 2. PTU có thể ức chế chuyển T₄ thành T₃ ngoại vi, trong khi methimazole có thể gây **dị tật bẩm sinh**, đặc biệt là dị tật đường tiêu hóa nếu dùng trong tam cá nguyệt đầu.
@@ -73,7 +73,7 @@ Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng *
 - **Propranolol** 20–80 mg mỗi 6 giờ: kiểm soát triệu chứng cường giao cảm.
 - Bù dịch và hạ thân nhiệt.
 
-:::caution[Lưu ý]
+:::caution
 Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồn tại 2–3 tháng → khoảng **1% trẻ sơ sinh của mẹ Graves có nhiễm độc giáp**, nguy cơ tử vong lên đến 16%. Nghi ngờ khi:
 
 - Tim thai > 160 lần/phút kéo dài.

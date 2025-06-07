@@ -43,7 +43,7 @@ Phụ nữ viêm gan B mạn tính không xơ hóa tiến triển có thể trì
 - Xơ gan còn bù hoặc mất bù với tải lượng HBV DNA bất kể ALT/HBeAg.
 - Không xơ gan nhưng đồng thời ALT > 2 lần bình thường và/hoặc xơ hóa F ≥ 2 cùng HBV DNA ≥ 10⁵ copies/mL (nếu HBeAg +) hoặc ≥ 10⁴ copies/mL (nếu HBeAg –).
 
-:::caution[Lưu ý]
+:::caution
 
 - Nếu đang điều trị non-TDF và dự định có thai, chuyển sang TDF ít nhất 2 tháng trước khi thụ thai.
 - Nếu mới biết có thai trong khi đang điều trị non-TDF, chuyển ngay sang TDF.

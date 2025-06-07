@@ -43,7 +43,7 @@ Cắt sữa (ức chế tiết sữa) là biện pháp cần thiết khi ngườ
   - **Conjugated equine estrogens (Premarin)**: 0.625 mg × 2 lần/ngày, uống 5–7 ngày.
   - **Diethylstilbestrol**: 1 mg × 3 lần/ngày, uống 5–7 ngày.
 
-  :::caution[Lưu ý]
+  :::caution
   Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc có chỉ định riêng; theo dõi nguy cơ huyết khối.
   :::
 

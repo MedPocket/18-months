@@ -115,7 +115,7 @@ _So sánh vaccine HPV nhị giá và tứ giá._
   - Trước 15 tuổi: 2 liều, cách 6–12 tháng.
   - Từ 15 tuổi: 3 liều (0, 1–2 tháng, 6 tháng).
 
-:::caution[Lưu ý]
+:::caution
 
 - Không cần tầm soát Pap, HPV DNA hay kháng thể trước tiêm.
 - Tuân thủ khoảng cách tối thiểu: liều 1–2 ≥ 4 tuần; liều 2–3 ≥ 12 tuần; liều 1–3 ≥ 40 tuần.

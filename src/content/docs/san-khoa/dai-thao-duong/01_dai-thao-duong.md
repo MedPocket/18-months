@@ -182,7 +182,7 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 
 _Đường huyết tương mao mạch mục tiêu._
 
-:::caution[Lưu ý]
+:::caution
 
 - HbA1c < 6% (kiểm tra 1 lần/tháng), không đánh giá tốt GDM do thời gian bán hủy hồng cầu.
 - Đo glucose sau ăn 2 giờ tính từ miếng đầu tiên, không ăn thêm.
@@ -225,7 +225,7 @@ _Đường huyết tương mao mạch mục tiêu._
    - Tăng 1–2 IU mỗi 2–3 ngày cho đến khi đạt mục tiêu.
    - Theo dõi sát và điều chỉnh phối hợp chế độ ăn.
 
-:::caution[Lưu ý]
+:::caution
 
 Phẫu thuật ở BN dùng insulin:
 

@@ -43,7 +43,7 @@ Giai đoạn quanh mãn kinh (perimenopause) thường kéo dài từ cuối 40 
 - **Rong huyết nặng**: Giai đoạn muộn, chu kỳ không phóng noãn hoàn toàn, nội mạc tiếp xúc estrogen đơn độc → bong tróc rời rạc hoặc ồ ạt, gây rong huyết liên tục.
 - **Xuất huyết không tự giới hạn**: Cần lưu ý nguy cơ tăng sinh nội mạc, loạn sản hoặc ung thư, thường gặp rong huyết kéo dài, kèm đau bụng dưới, rối loạn đại tiểu tiện.
 
-:::caution[Lưu ý]
+:::caution
 Xuất huyết bất thường ở phụ nữ quanh mãn kinh không chỉ do rối loạn phóng noãn. U xơ tử cung, polyp, viêm nội mạc, ung thư là các nguyên nhân thực thể cần được loại trừ. Các yếu tố toàn thân (tăng huyết áp, đái tháo đường, béo phì) làm tăng chuyển hóa estrogen ngoại sinh và nội sinh, góp phần vào cơ chế tăng sinh nội mạc.
 :::
 
@@ -125,7 +125,7 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
 
     _Siêu âm bơm nước buồng tử cung (SIS): phát hiện polyp lòng tử cung. Khi có tổn thương khu trú như này, không thể chẩn đoán xuất huyết cơ năng._
 
-  :::caution[Lưu ý]
+  :::caution
   Hình ảnh siêu âm phụ thuộc vào pha chu kỳ. Thực hiện sau sạch kinh giúp tránh nhầm tăng sinh nội mạc giả do nội mạc phát triển dưới estrogen giai đoạn giữa chu kỳ.
   :::
 

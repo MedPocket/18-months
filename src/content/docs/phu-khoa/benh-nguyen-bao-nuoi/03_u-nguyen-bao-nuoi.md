@@ -115,7 +115,7 @@ _Phân loại NIH (Mỹ)_
       - Cyclophosphamid 600 mg/m² da truyền TM trong 30 phút.
   - Lặp lại thêm 3–4 chu kỳ sau khi β-hCG âm tính.
 
-:::caution[Lưu ý]
+:::caution
 Tiêu chuẩn để hóa trị:
 
 - Ngày 1 và 2: Bạch cầu ≥ 3000/mm³, bạch cầu đa nhân trung tính ≥ 1500/mm³.

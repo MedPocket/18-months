@@ -221,7 +221,7 @@ _Nhũ ảnh Hamartoma vú: hình ảnh "vú trong vú", vỏ bao mỏng bao quan
 - Nếu khối to, gây lo ngại thẩm mỹ hoặc biểu hiện tăng nhanh: phẫu thuật cắt bỏ trọn khối cùng vỏ bao.
 - Lưu ý: đa hamartoma có thể là thành phần hội chứng Cowden hoặc Bannayan-Riley-Ruvalcaba (đột biến gene PTEN) – cần tầm soát thêm khi nghi ngờ hội chứng.
 
-:::caution[Lưu ý]
+:::caution
 Đa hamartoma (xuất hiện nhiều khối ở nhiều vị trí khác cơ quan) là dấu hiệu gợi ý hội chứng Cowden hoặc Bannayan-Riley-Ruvalcaba (đột biến gene PTEN). Đối tượng này cần tầm soát ung thư vú, giáp và mô lympho khác theo hướng dẫn nguy cơ cao.
 :::
 

@@ -36,7 +36,7 @@ Nhiễm trùng ối thường do vi khuẩn xâm nhập ngược dòng từ đư
 
 ## Chẩn đoán
 
-:::note[Chẩn đoán nhiễm trùng ối]
+:::note[Tiêu chuẩn chẩn đoán nhiễm trùng ối]
 
 | Chẩn đoán                   | Đặc điểm                                                                                                                                                                                                                                                                             |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -46,7 +46,7 @@ Nhiễm trùng ối thường do vi khuẩn xâm nhập ngược dòng từ đư
 
 :::
 
-:::caution[Lưu ý]
+:::caution
 Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu bệnh có vai trò nghiên cứu, không giúp cải thiện kết cục sản khoa nếu dùng làm tiêu chuẩn xử trí.
 :::
 
@@ -76,7 +76,7 @@ Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu b
 - Loạn sản phế quản phổi (BPD).
 - Bại não.
 
-:::caution[Lưu ý]
+:::caution
 Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác sĩ sơ sinh để đánh giá và xử trí sau sinh phù hợp.
 :::
 
@@ -114,7 +114,7 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 - Clindamycin 900 mg truyền TM mỗi 8 giờ.
 - Hoặc Vancomycin 1 g truyền TM mỗi 12h + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
 
-:::caution[Lưu ý]
+:::caution
 Vancomycin chỉ dùng khi:
 
 - GBS đề kháng Clindamycin hoặc Erythromycin.

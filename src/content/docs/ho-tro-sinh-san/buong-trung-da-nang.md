@@ -11,7 +11,7 @@ Hội chứng buồng trứng đa nang (PCOS – Polycystic Ovary Syndrome) là 
 
 ## Chẩn đoán
 
-:::note[Chẩn đoán theo Rotterdam 2003]
+:::note[Tiêu chuẩn chẩn đoán theo Rotterdam 2003]
 Chẩn đoán khi có ≥ 2/3 tiêu chí:.
 
 1. **Rối loạn phóng noãn**: kinh thưa (> 35 ngày hoặc < 8 lần/năm).
@@ -21,7 +21,7 @@ Chẩn đoán khi có ≥ 2/3 tiêu chí:.
 3. **Buồng trứng đa nang**: ≥ 12 nang 2–9 mm trên mặt cắt **và/hoặc** thể tích > 10 mL.
    :::
 
-:::caution[Lưu ý]
+:::caution
 Nếu chỉ có hình ảnh buồng trứng đa nang mà không có triệu chứng khác, chưa chẩn đoán PCOS cho đến khi xuất hiện rối loạn kinh nguyệt hoặc cường androgen.
 :::
 
@@ -59,7 +59,7 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 - **Progestogen đơn thuần**: dùng tối thiểu 12 ngày để giảm nguy cơ tăng sinh nội mạc tử cung và ung thư nội mạc tử cung.
 - **Viên tránh thai kết hợp** (ethinyl estradiol + progestogen kháng androgen như cyproterone, drospirenone): điều hòa kinh nguyệt, giảm nguy cơ tăng sinh nội mạc tử cung.
 
-:::caution[Lưu ý]
+:::caution
 
 - Progestogen cần kéo dài tối thiểu 12 ngày mỗi đợt để bảo vệ nội mạc tử cung.
 - Viên phối hợp không nên dùng liên tục mà chỉ sử dụng mỗi 3–4 tháng một lần để tránh tác dụng phụ trên béo phì và chuyển hóa.  

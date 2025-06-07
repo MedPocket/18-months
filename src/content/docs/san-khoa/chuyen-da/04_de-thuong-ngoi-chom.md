@@ -94,7 +94,7 @@ _Đẻ thường ngôi chỏm g → h._
   - Tầng sinh môn quá căng.
   - Thai to, sinh thủ thuật.
 
-:::caution[Lưu ý]
+:::caution
 Cắt tầng sinh môn không rút ngắn thời gian rặn, không giúp sinh nhanh hơn.
 :::
 

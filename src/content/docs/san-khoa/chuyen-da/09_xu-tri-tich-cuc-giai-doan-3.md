@@ -41,7 +41,7 @@ Giai đoạn 3 của chuyển dạ từ khi thai sổ đến khi rau bong và c�
 
   _Thì cầm máu._
 
-  :::caution[Lưu ý]
+  :::caution
   Đoạn dưới tử cung không có bó cơ đan chéo, nên băng huyết do rau tiền đạo luôn phải xử trí khẩn cấp.
   :::
 

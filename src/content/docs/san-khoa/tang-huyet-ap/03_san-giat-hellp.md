@@ -32,7 +32,7 @@ Sản giật và hội chứng HELLP là hai biến chứng nghiêm trọng và 
 - Duy trì: 1–2 g/h đến 24 giờ sau sinh
 - Ngưng khi có dấu hiệu ngộ độc.
 
-:::caution[Lưu ý]
+:::caution
 Không dùng Diazepam/Phenytoin vì không hiệu quả, có thể gây hại thai.
 :::
 

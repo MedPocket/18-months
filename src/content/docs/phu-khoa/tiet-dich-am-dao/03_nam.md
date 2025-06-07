@@ -154,7 +154,7 @@ _Thuốc kháng nấm tại chỗ (First line therapy) điều trị VVC không 
 - Rửa âm hộ bằng dung dịch povidone iodine 10%.
 - Rửa bằng natri hydrocarbonat (muối NaBica) 5 g pha với nước ấm.
 
-:::caution[Lưu ý]
+:::caution
 
 - Chỉ điều trị bạn tình khi có một trong các triệu chứng sau:
 

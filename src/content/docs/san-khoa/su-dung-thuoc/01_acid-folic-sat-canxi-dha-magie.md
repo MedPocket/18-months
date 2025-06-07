@@ -126,7 +126,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 _Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai._
 
-:::caution[Lưu ý]
+:::caution
 
 - Bắt đầu bổ sung acid folic ít nhất 1 tháng trước khi mang thai; nếu có tiền sử dị tật ống thần kinh, có thể cần 4–5 mg/ngày theo chỉ định bác sĩ.
 - Magie chỉ cần bổ sung nếu có triệu chứng như chuột rút, mất ngủ, lo âu.
@@ -142,7 +142,7 @@ _Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai._
 
 _Hướng dẫn bổ sung acid folic, DHA, sắt, canxi, magie._
 
-:::caution[Lưu ý]
+:::caution
 
 - **Không** uống sắt và canxi cùng lúc (canxi ức chế hấp thu sắt).
 - DHA nên chọn loại tinh khiết, không mùi tanh; uống sau ăn để hấp thu tốt hơn.

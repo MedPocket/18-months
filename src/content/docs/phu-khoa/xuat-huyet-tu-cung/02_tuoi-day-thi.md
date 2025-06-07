@@ -243,7 +243,7 @@ Chỉ định khi chảy máu do chu kỳ không phóng noãn, nội mạc dày 
    - Giúp bé uống đủ liệu trình, theo dõi lượng máu, tính chất máu khi "hành kinh tống sạch".
    - Sau khi hết chảy máu, tiếp tục theo dõi lịch kinh để đánh giá sự xuất hiện của chu kỳ phóng noãn đầu tiên.
 
-:::caution[Lưu ý]
+:::caution
 Chọn progestogen có **tính kháng estrogen** vừa đủ và **ít ức chế hạ đồi** để không trì hoãn quá trình hoàn thiện trục HPG.  
 :::
 
@@ -302,7 +302,7 @@ Chỉ định khi chảy máu nặng, mất máu nhiều, hoặc nội mạc bon
    - Sau khi hoàn thành liệu trình, nếu hết chảy máu thì chuyển sang theo dõi chu kỳ tự nhiên.
    - Nếu vẫn ra máu nhiều, cân nhắc đánh giá lại nguyên nhân (có thể kèm theo u thực thể, rối loạn đông nặng...).
 
-   :::caution[Lưu ý]
+   :::caution
    COC giúp cầm máu khá hiệu quả, nhưng có thể ức chế hạ đồi mạnh, nên chỉ sử dụng ngắn hạn. Dùng dài hạn có thể ảnh hưởng lâu dài đến hoạt động trục HPG.  
    :::
 

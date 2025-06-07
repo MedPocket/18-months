@@ -14,7 +14,7 @@ Chỉ định cho phụ nữ mang thai có nguy cơ sinh non trước 34 tuần,
 
 Trong một số tình huống, có thể cân nhắc liều nhắc lại (rescue dose) sau 7 ngày nếu thai chưa sinh nhưng vẫn còn nguy cơ cao, tối đa 1 đợt nhắc lại.
 
-:::caution[Lưu ý]
+:::caution
 
 - Xác định rõ chỉ định: dấu hiệu chuyển dạ sớm, vỡ ối non, dọa sinh non hoặc phải kích thích sinh non vì lý do y tế.
 - Không lặp lại nhiều đợt nếu chuyển dạ không xảy ra, trừ khi cân nhắc lợi ích vượt trội so với nguy cơ.

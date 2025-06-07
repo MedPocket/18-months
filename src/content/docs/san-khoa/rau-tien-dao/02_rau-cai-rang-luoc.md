@@ -46,7 +46,7 @@ _Phân loại theo FIGO 2019._
 
 - Khi siêu âm không rõ hoặc cần đánh giá xâm lấn mặt sau, mức độ percreta.
 
-### Phân biệt
+### Chẩn đoán phân biệt
 
 | Đặc điểm                      | Rau tiền đạo              | Rau bong non                                                                 |
 | ----------------------------- | ------------------------- | ---------------------------------------------------------------------------- |

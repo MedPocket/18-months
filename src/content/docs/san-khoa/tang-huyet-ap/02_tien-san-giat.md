@@ -77,11 +77,9 @@ Theo ACOG Task Force 2013
     - Trọng lượng thai < bách phân vị 5.
     - Thiểu ối (AFI < 5 cm, 2 lần cách nhau 24 giờ).
 
-:::note[Lưu đồ xử trí]
 ![Lưu đồ xử trí tiền sản giật không dấu hiệu nặng – Bệnh viện Từ Dũ](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-khong-co-dau-hieu-nang.png)
 
 _Lưu đồ xử trí tiền sản giật không dấu hiệu nặng – Bệnh viện Từ Dũ._
-:::
 
 ### Có dấu hiệu nặng
 
@@ -96,11 +94,9 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 
 Có thể trì hoãn nếu thai < 34 tuần và mẹ - thai ổn định để sử dụng corticosteroids.
 
-:::note[Lưu đồ xử trí]
 ![Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
 
 _Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ._
-:::
 
 Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại địa phương 7–10 ngày sau sinh.
 
@@ -147,7 +143,7 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
 - **Duy trì**: 1–2 g/giờ TM liên tục (pha 6 g MgSO₄ 15% vào 500 mL glucose 5% hoặc bơm tiêm điện 6.7 mL/h).
 - Tiếp tục ít nhất 24 giờ sau cơn cuối hoặc sau sinh.
 
-:::caution[Lưu ý]
+:::caution
 Theo dõi và xử trí ngộ độc MgSO₄:
 
 - Theo dõi phản xạ gân xương (mất dấu hiệu sớm nhất), nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4h).

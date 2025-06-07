@@ -1,59 +1,58 @@
 ---
 title: Viêm âm đạo do thiếu nội tiết
-description: Viêm âm đạo do thiếu nội tiết (atrophic vaginitis) là tình trạng thường gặp ở phụ nữ mãn kinh hoặc sau cắt buồng trứng khi giảm nồng độ estrogen dẫn đến teo niêm mạc âm đạo. Niêm mạc âm đạo mỏng, kém đàn hồi, dễ bị tổn thương, khô rát và dễ nhiễm trùng, gây ảnh hưởng chất lượng cuộc sống và đời sống tình dục.
+description: Viêm âm đạo do thiếu nội tiết (atrophic vaginitis) là tình trạng thường gặp ở phụ nữ mãn kinh hoặc sau cắt buồng trứng khi giảm nồng độ estrogen dẫn đến teo niêm mạc âm đạo.
 ---
 
 Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt buồng trứng), niêm mạc âm đạo mất dần lớp biểu mô bề mặt và trung gian, trở nên mỏng, giảm glycogen, mất tính đàn hồi và khả năng giữ ẩm. Môi trường âm đạo trở nên ít acid, pH tăng, làm giảm Lactobacilli, tạo điều kiện cho vi khuẩn xâm nhập và gây viêm.
 
-## Nguyên nhân và cơ chế
+## Bệnh sinh
 
 1. **Giảm estrogen**
+
    - Tuổi mãn kinh: sản xuất estrogen ở buồng trứng giảm rõ rệt sau 45–50 tuổi.
    - Cắt hai buồng trứng (surgical menopause) hoặc điều trị hóa chất/hóa xạ: làm cho mức estrogen tụt nhanh.
    - Sau sinh và cho con bú: nồng độ estrogen giảm khiến niêm mạc âm đạo tương đối teo nhẹ.
+
 2. **Thay đổi sinh lý âm đạo**
+
    - Niêm mạc mỏng, ít glycogen → ít Lactobacilli sinh acid lactic → pH âm đạo tăng (> 5).
    - Mất lớp tế bào biểu mô trung gian và bề mặt → giảm hàng rào cơ học và miễn dịch.
    - Mạch máu niêm mạc giảm, dễ khô rát, tăng ma sát khi giao hợp.
+
 3. **Dễ nhiễm khuẩn hoặc nhiễm nấm phụ trợ**
+
    - Niêm mạc mỏng, kém đàn hồi, dễ bị tổn thương khi giao hợp hoặc thăm khám → xuất huyết, viêm.
    - Điều kiện pH kiềm hơn làm vi khuẩn yếm khí, vi khuẩn không điển hình (Escherichia coli, Gardnerella, Staphylococcus...) hoặc nấm men (Candida sp.) dễ phát triển.
 
-## Lâm sàng
+## Chẩn đoán
+
+### Lâm sàng
 
 - **Ngứa, rát âm đạo – âm hộ**: thường dai dẳng, đặc biệt sau giao hợp hoặc sau vận động mạnh.
 - **Khô âm đạo**: cảm giác thiếu ẩm, khó chịu, có thể chảy máu khi giao hợp hoặc thăm khám.
 - **Tiết dịch rất ít hoặc không có** do teo tuyến tiết dịch. Nếu có, huyết trắng thường lẫn mủ, đôi khi lẫn máu (vì niêm mạc dễ chảy máu).
 - **Đau tức hạ vị**: do viêm lan tỏa niêm mạc và dưới niêm mạc.
 - **Rối loạn tiểu tiện**:
+
   - **Tiểu buốt, tiểu rắt** do niêm mạc niệu đạo teo mỏng.
   - Có thể tiểu không tự chủ do tăng kích thích thành bàng quang.
+
 - **Giao hợp đau** (dyspareunia): do mất bôi trơn và teo niêm mạc.
 
 - **Quan sát khi khám**:
+
   - Âm hộ và niêm mạc âm đạo nhợt nhạt, mỏng, kém nếp gấp.
   - Có thể thấy nhiều chấm xuất huyết nhỏ, dễ chảy máu khi thăm khám (dấu vết xuất huyết điểm).
   - Âm đạo khô, mất bóng ẩm bình thường.
 
-## Chẩn đoán
-
-:::note[Tiêu chuẩn chẩn đoán viêm âm đạo do thiếu nội tiết]
-**Lâm sàng**
-
-- Viêm không đặc hiệu, huyết trắng rất ít, có thể lẫn mủ hoặc lẫn máu.
-- Cảm giác đau tức hạ vị, nóng rát âm hộ – âm đạo, đặc biệt sau giao hợp.
-- Niêm mạc nhợt nhạt, teo mỏng, có thể viêm đỏ với nhiều chấm xuất huyết; đau khi thăm khám.
-- Đồng thời có các rối loạn đường tiểu như tiểu buốt, tiểu rắt, hoặc tiểu không tự chủ nhẹ.
-
-**Cận lâm sàng**
+### Cận lâm sàng
 
 - **Soi dịch âm đạo**: Thấy tỷ lệ tế bào biểu mô bề mặt giảm, tế bào trung gian (parabasal cells) tăng lên. Tỷ lệ tế bào trung gian > 15% gợi ý teo niêm mạc do thiếu estrogen.
 - **pH âm đạo**: Thường > 5, do giảm Lactobacilli sinh acid lactic.
 - **Khám niêm mạc**: Dấu vết xuất huyết dễ chảy máu khi thăm khám, không có nhiều vi khuẩn đặc hiệu (khác với loạn khuẩn hay trichomonas).
 - **Không có tế bào nấm hoặc vi khuẩn đặc hiệu**: Nếu thấy nhiều bạch cầu hoặc vi khuẩn yếm khí vượt trội, cần loại trừ nhiễm khuẩn đồng thời.  
-  :::
 
-:::caution[Lưu ý]
+:::caution
 Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, Trichomonas) vì phương pháp điều trị khác nhau.
 :::
 
@@ -101,7 +100,7 @@ Mục tiêu điều trị là phục hồi lớp biểu mô âm đạo, tăng đ
 - Đo lại pH và soi dịch âm đạo nếu cần để đánh giá đáp ứng.
 - Duy trì điều trị duy trì estrogen tại chỗ 1–2 lần/tuần nếu triệu chứng tái phát.
 
-:::caution[Lưu ý]
+:::caution
 
 - Các liệu pháp estrogen tại chỗ hiếm khi có tác dụng toàn thân nhưng cần thận trọng ở phụ nữ có tiền sử ung thư vú phụ thuộc estrogen, bệnh tim mạch hoặc huyết khối.
 - Nếu điều trị tại chỗ không hiệu quả sau 3 tháng, cần đánh giá lại chẩn đoán, cân nhắc HRT toàn thân hoặc chuyển khoa tiết niệu, nội tiết.
