@@ -46,9 +46,9 @@ Loạn khuẩn âm đạo (bacterial vaginosis – BV) là tình trạng rối l
 - Dịch thường không gây ngứa, không kèm đỏ hoặc phù nề âm hộ—điểm khác biệt so với viêm âm đạo do nấm hoặc trùng roi.
 - Mùi hôi đặc trưng **"cá thối"** (odour), thường rõ hơn sau giao hợp hoặc sau khi nước ối lợi phá vỡ cân bằng pH âm đạo.
 
-   ![Dịch âm đạo bất thường](../../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/dich-am-dao-bat-thuong.png)
+  ![Dịch âm đạo bất thường](../../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/dich-am-dao-bat-thuong.png)
 
-   _Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "cá thối". Khoảng 25% trường hợp có kích ứng nhẹ ở âm hộ, biểu hiện bằng ngứa hoặc rát nhẹ._
+  _Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "cá thối". Khoảng 25% trường hợp có kích ứng nhẹ ở âm hộ, biểu hiện bằng ngứa hoặc rát nhẹ._
 
 ## Chẩn đoán
 
@@ -67,7 +67,7 @@ BV được chẩn đoán dựa trên lâm sàng và xét nghiệm thường quy
 
 :::
 
-**Độ nhạy (Sensitivity) 70%, độ đặc hiệu (Specificity) 94%** so với các xét nghiệm tham chiếu khác.  
+**Độ nhạy (Sensitivity) 70%, độ đặc hiệu (Specificity) 94%** so với các xét nghiệm tham chiếu khác.
 
 ### Điểm Nugent
 
@@ -102,11 +102,11 @@ _Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0–10)._
 BV được chẩn đoán khi đủ **2/3** tiêu chuẩn sau:
 
 1. **Lâm sàng**
-   
+
    - Huyết trắng nhiều, màu trắng xám, rất hôi, đặc biệt rõ sau giao hợp.
 
 2. **Cận lâm sàng**
-   
+
    - **Whiff test (+):** Thêm KOH 10% lên mẫu huyết trắng, xuất hiện mùi hôi như cá ươn.
    - **Phết âm đạo:** Nhiều "clue cells" (>20% tế bào biểu mô nhìn thấy có bám vi khuẩn); nhuộm Gram thấy nhiều coccobacilli.
 
@@ -172,8 +172,9 @@ Metronidazole uống có thể gây khô miệng, vị kim loại, và nên trá
 Tỷ lệ tái phát sau điều trị cao:
 
 - Ngắn hạn (3 tháng): 15–30%.
-- Trung hạn (1 năm): có thể lên đến 70%.  
-  Việc bổ sung **probiotic chứa Lactobacillus** sau điều trị có thể giúp giảm tỉ lệ tái phát.
+- Trung hạn (1 năm): có thể lên đến 70%.
+
+Việc bổ sung **probiotic chứa Lactobacillus** sau điều trị có thể giúp giảm tỉ lệ tái phát.
 
 ### Phác đồ Từ Dũ
 

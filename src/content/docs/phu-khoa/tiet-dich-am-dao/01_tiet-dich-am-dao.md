@@ -59,7 +59,7 @@ Khi bị nhiễm hoặc rối loạn, các vi khuẩn kỵ khí (Gardnerella vag
 
 - **Thành phần**: Nước, glycoprotein (mucins), protein, amino acid, muối vô cơ, các vi sinh vật thường trú (Lactobacillus spp.).
 - **Chức năng**:
-  
+
   - Bôi trơn âm đạo, giảm ma sát khi giao hợp.
   - Giúp loại bỏ tế bào chết, mảnh vụn vi khuẩn.
   - Tạo môi trường ẩm ướt, bảo vệ biểu mô tránh khô rát.
@@ -96,7 +96,7 @@ Tiết dịch âm đạo bất thường (abnormal vaginal discharge – AVD) l�
    - **Giảm hoặc khô**: có thể do giảm estrogen (tiền mãn kinh, mãn kinh).
 
 5. **Triệu chứng đi kèm**
-   
+
    - Ngứa, rát, đau rát khi giao hợp
    - Tiểu đau, tiểu rát
    - Chảy máu sau giao hợp
@@ -117,12 +117,12 @@ _Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện 
 2. **Xét nghiệm cơ bản**
 
    - **Soi tươi dịch âm đạo**:
-    
+
      - KOH 10%: phát hiện sợi nấm, bào tử (Candida).
      - Nước muối 0.9%: tìm tế bào clue (Gardnerella), trùng roi (Trichomonas).
-   
+
    - **Nhuộm Gram**:
-    
+
      - Đánh giá điểm Nugent (đếm Lactobacillus, Bacteroides, Gardnerella).
      - Phân biệt bacterial vaginosis (Nugent ≥ 7), viêm nấm (Gram dương nhiều bào tử nấm).
 
@@ -162,7 +162,7 @@ _Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện 
   - Liều: đặt 1 viên vào âm đạo mỗi đêm × 7 ngày.
 
 - **Timbov (Clotrimazole 500 mg)**
-  
+
   - Điều trị: nhiễm nấm âm hộ âm đạo, đặc biệt Candida, hoặc viêm hỗn hợp kèm vi khuẩn, Trichomonas.
   - Liều: đặt 1 viên vào âm đạo trước khi ngủ × 7–14 ngày tùy mức độ.
 
