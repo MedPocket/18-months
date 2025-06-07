@@ -1,11 +1,11 @@
 ---
 title: Viêm lộ tuyến cổ tử cung
-description: Lộ tuyến cổ tử cung (endocervical ectropion) là hiện tượng biểu mô trụ của kênh cổ tử cung bị lộ ra bề mặt ngoài cổ tử cung, nơi bình thường được phủ bởi biểu mô lát tầng không sừng hóa. Khi tế bào trụ này tiếp xúc với môi trường acid của âm đạo, dễ bị tổn thương, dẫn đến tình trạng viêm lộ tuyến – một trong những nguyên nhân chính gây khí hư bất thường, đau rát khi quan hệ và chảy máu sau giao hợp ở phụ nữ. Tài liệu trình bày giải phẫu, mô học, cơ chế chuyển sản lát, cũng như hướng dẫn chẩn đoán và các phương pháp điều trị viêm lộ tuyến từ nội khoa đến các thủ thuật đốt hoặc áp lạnh.
+description: Lộ tuyến cổ tử cung (endocervical ectropion) là hiện tượng biểu mô trụ của kênh cổ tử cung bị lộ ra bề mặt ngoài cổ tử cung, nơi bình thường được phủ bởi biểu mô lát tầng không sừng hóa.
 ---
 
 Lộ tuyến cổ tử cung (endocervical ectropion) là hiện tượng biểu mô trụ nằm ở trong kênh cổ tử cung bị lộn ra trên cổ ngoài cổ tử cung. Biểu mô trụ này có khả năng tiết nhầy mạnh, màu đỏ, dễ chảy máu khi chạm vào và dễ bội nhiễm, do đó khi có viêm nhiễm sẽ hình thành viêm lộ tuyến với triệu chứng khí hư bất thường, có mùi hôi, đau rát khi quan hệ và chảy máu sau giao hợp.
 
-## Giải phẫu và mô học cổ tử cung
+## Giải phẫu và mô học
 
 ### Giải phẫu
 
@@ -23,9 +23,9 @@ Tử cung được chia làm hai phần chính: phần trên là thân tử cung
 - **Lỗ trong cổ tử cung (internal os)**:  
   Là vị trí mở của kênh cổ tử cung vào buồng tử cung.
 
-![Các điểm mốc nhận diện quan trọng trong bệnh học cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/cac-moc-nhan-dien-benh-hoc-co-tu-cung.png)
+  ![Các điểm mốc nhận diện quan trọng trong bệnh học cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/cac-moc-nhan-dien-benh-hoc-co-tu-cung.png)
 
-_Từ ngoài vào trong: cổ ngoài (ectocervix), lỗ ngoài, kênh cổ tử cung, lỗ trong._
+  _Từ ngoài vào trong: cổ ngoài (ectocervix), lỗ ngoài, kênh cổ tử cung, lỗ trong._
 
 ### Mô học
 
@@ -33,11 +33,8 @@ Cổ tử cung được cấu tạo bởi biểu mô phủ và mô đệm dướ
 
 #### Cổ ngoài (Ectocervix)
 
-![Biểu mô lát tầng không sừng hóa cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/bieu-mo-lat-tang-khong-sung-hoa-co-tu-cung.png)
-
-_Biểu mô lát tầng không sừng hóa cổ tử cung, thấy rõ các lớp tế bào từ đáy lên bề mặt._
-
 - Được phủ bởi **biểu mô lát tầng không sừng hóa**, gồm bốn lớp từ đáy lên bề mặt:
+
   1. **Lớp tế bào đáy**: chồng lên màng đáy, nơi tế bào phân chia mạnh nhất.
   2. **Lớp tế bào cận đáy** và **lớp tế bào trung gian** (cùng gọi là lớp gai/prickle cell layer).
   3. **Lớp tế bào bề mặt**: tùy theo nồng độ estrogen, dày mỏng khác nhau; chứa nhiều glycogen, bắt màu Lugol dương tính khi nhuộm.
@@ -47,10 +44,6 @@ _Biểu mô lát tầng không sừng hóa cổ tử cung, thấy rõ các lớp
 - Được phủ bởi **biểu mô trụ đơn tiết nhầy**, gồm các tế bào hình trụ cao, nhân tròn hoặc bầu dục nằm sát đáy, bào tương chứa nhiều hạt nhầy. Mô trụ này không tạo thành các tuyến hoàn chỉnh, nhưng có chức năng tiết chất nhầy bảo vệ kênh cổ tử cung.
 
 #### Ranh giới lát-trụ (Squamocolumnar Junction – SCJ)
-
-![Ranh giới lát trụ](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/ranh-gioi-lat-tru.png)
-
-_Ranh giới lát-trụ nguyên thủy và mới dưới kính soi._
 
 - SCJ là vùng tiếp giáp giữa biểu mô lát (cổ ngoài) và biểu mô trụ (cổ trong).
 - Vị trí SCJ biến đổi suốt cuộc đời phụ nữ dưới ảnh hưởng nội tiết (tuổi dậy thì, chu kỳ kinh nguyệt, mang thai, dùng thuốc tránh thai, mãn kinh).
