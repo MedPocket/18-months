@@ -27,7 +27,7 @@ Các công cụ chính được sử dụng để tầm soát ung thư vú gồm
    - Độ nhạy rất cao (khoảng 98%), tuy nhiên độ đặc hiệu (specificity) thấp hơn (khoảng 75%) so với nhũ ảnh.
    - Không thay thế nhũ ảnh mà thường được phối hợp song song ở nhóm nguy cơ cao.
 
-3. **Khám lâm sàng (Clinical Breast Exam)**
+3. **Lâm sàng (Clinical Breast Exam)**
 
    - Hiệp hội Ung thư Hoa Kỳ (ACS) khuyến cáo bác sĩ phụ khoa hoặc chuyên gia y tế có kinh nghiệm khám vú định kỳ, tuy nhiên bằng chứng cho lợi ích tầm soát bằng khám lâm sàng là hạn chế.
 
@@ -372,17 +372,26 @@ Các phẫu thuật chính:
 #### Theo dõi sau phẫu thuật
 
 - **Khám lâm sàng vú và hạch**:
+
   - Hàng năm trong 5 năm đầu, sau đó mỗi năm hoặc theo chỉ định lâm sàng.
   - Đối với bệnh nhân đã cắt bỏ, khám vú còn lại và hạch. Đối với BCS, khám cả hai vú.
+
 - **Nhũ ảnh**:
+
   - Sau BCS: Nhũ ảnh vú còn lại hàng năm, bắt đầu 6–12 tháng sau xạ trị hoặc phẫu thuật.
   - Sau đoạn nhũ: Nhũ ảnh vú đối bên hàng năm.
+
 - **MRI/Siêu âm**:
+
   - MRI chỉ định khi có mô vú dày, sẹo lớn, hoặc nguy cơ tái phát cao, nếu nhũ ảnh không đánh giá được rõ.
   - Siêu âm hỗ trợ khi nghi ngờ tái phát cục bộ (nốt), đặc biệt ở vú dày.
+
 - **Xét nghiệm định kỳ**:
+
   - Không có chỉ định định kỳ CA15-3, CEA nếu không có triệu chứng hoặc nghi ngờ tái phát.
+
 - **Hỗ trợ giảm đau và chăm sóc vết mổ**:
+
   - Theo dõi biến chứng thường gặp: tụ dịch, nhiễm trùng, hoại tử vạt da.
   - Hướng dẫn vận động, vật lý trị liệu để tránh phù bạch huyết (lymphedema).
 

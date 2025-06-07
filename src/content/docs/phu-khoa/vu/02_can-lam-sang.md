@@ -159,6 +159,7 @@ FNA (Fine Needle Aspiration) là kỹ thuật dùng kim mảnh (22–25G) để 
   - Hạch nách to, nghi di căn trên siêu âm hoặc nhũ ảnh.
 
 - **Quy trình**:
+
   1. Khám lâm sàng, định vị khối qua siêu âm hoặc bằng tay.
   2. Gây vô cảm tại chỗ, luồn kim 22–25G vào tổn thương, hút dịch hoặc tế bào.
   3. Truyền mẫu lên lam kính, nhuộm nhanh (Romanowsky, Giemsa, Wright).
