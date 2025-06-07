@@ -200,14 +200,14 @@ Tỷ lệ thành công đường toàn thân 70–95%.
 
 ### Ngoại khoa
 
-#### Bảo tồn ống dẫn trứng (xẻ lấy khối thai)
+#### Bảo tồn ống dẫn trứng
 
 - β-hCG < 5000 mIU/mL.
 - Khối thai < 4 cm.
 - Không có tim thai.
 - Không tiền sử phẫu thuật ống dẫn trứng.
 
-#### Cắt ống dẫn trứng (nội soi hoặc mổ mở)
+#### Cắt ống dẫn trứng
 
 - Vỡ khối thai, huyết động không ổn định.
 - Thất bại hoặc chống chỉ định MTX.
