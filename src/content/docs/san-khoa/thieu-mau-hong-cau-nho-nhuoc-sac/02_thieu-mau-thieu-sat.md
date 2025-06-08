@@ -37,6 +37,7 @@ Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic 
 ## Dự phòng
 
 - ACOG: bổ sung sắt nguyên tố suốt thai kỳ, liều tùy tình trạng thiếu máu.
+
   | Giai đoạn | Hemoglobin (g/dL) | Ferritin (µg/L) | Khuyến cáo |
   |---------------|-------------------|-----------------|--------------------------|
   | **3 tháng đầu** | < 9 | Bất kỳ | Đánh giá bệnh nội khoa |
