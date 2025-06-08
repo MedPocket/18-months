@@ -5,59 +5,47 @@ description: Lộ tuyến cổ tử cung (endocervical ectropion) là hiện tư
 
 Lộ tuyến cổ tử cung (endocervical ectropion) là hiện tượng biểu mô trụ nằm ở trong kênh cổ tử cung bị lộn ra trên cổ ngoài cổ tử cung. Biểu mô trụ này có khả năng tiết nhầy mạnh, màu đỏ, dễ chảy máu khi chạm vào và dễ bội nhiễm, do đó khi có viêm nhiễm sẽ hình thành viêm lộ tuyến với triệu chứng khí hư bất thường, có mùi hôi, đau rát khi quan hệ và chảy máu sau giao hợp.
 
-## Giải phẫu và mô học
+## Giải phẫu
 
-### Giải phẫu
+Tử cung được chia làm hai phần chính phần trên là thân tử cung và phần dưới là cổ tử cung, nối với âm đạo qua eo tử cung. Cổ tử cung dài khoảng 2.5–3 cm và được chia thành hai phần:
 
-Tử cung được chia làm hai phần chính: phần trên là thân tử cung và phần dưới là cổ tử cung, nối với âm đạo qua eo tử cung. Cổ tử cung dài khoảng 2.5–3 cm và được chia thành hai phần:
+- **Cổ ngoài cổ tử cung (ectocervix/exocervix)** phần thấp nhất tiếp xúc trực tiếp với âm đạo, có hình dạng elíp hoặc hình chóp nón, chia thành mép trước và mép sau cổ tử cung. Phần này bình thường được phủ bởi biểu mô lát tầng không sừng hóa.
 
-- **Cổ ngoài cổ tử cung (ectocervix/exocervix)**:  
-  Phần thấp nhất tiếp xúc trực tiếp với âm đạo, có hình dạng elíp hoặc hình chóp nón, chia thành mép trước và mép sau cổ tử cung. Phần này bình thường được phủ bởi biểu mô lát tầng không sừng hóa.
+- **Cổ trong cổ tử cung (endocervix)** nằm phía trên cổ ngoài, hướng về buồng tử cung, tạo thành kênh cổ tử cung (cervical canal) nối từ lỗ ngoài đến lỗ trong cổ tử cung. Kênh cổ tử cung có nhiều nếp gấp dạng "cây cọ" (arbor vitae) giúp giữ kín sinh lý.
 
-- **Cổ trong cổ tử cung (endocervix)**:  
-  Nằm phía trên cổ ngoài, hướng về buồng tử cung, tạo thành kênh cổ tử cung (cervical canal) nối từ lỗ ngoài đến lỗ trong cổ tử cung. Kênh cổ tử cung có nhiều nếp gấp dạng "cây cọ" (arbor vitae) giúp giữ kín sinh lý.
+- **Lỗ ngoài cổ tử cung (external os)** là vị trí mở của kênh cổ tử cung ra âm đạo. Hình dạng lỗ ngoài thường tròn ở phụ nữ chưa sinh và hơi dẹt ở phụ nữ đã sinh con.
 
-- **Lỗ ngoài cổ tử cung (external os)**:  
-  Là vị trí mở của kênh cổ tử cung ra âm đạo. Hình dạng lỗ ngoài thường tròn ở phụ nữ chưa sinh và hơi dẹt ở phụ nữ đã sinh con.
-
-- **Lỗ trong cổ tử cung (internal os)**:  
-  Là vị trí mở của kênh cổ tử cung vào buồng tử cung.
+- **Lỗ trong cổ tử cung (internal os)** là vị trí mở của kênh cổ tử cung vào buồng tử cung.
 
   ![Các điểm mốc nhận diện quan trọng trong bệnh học cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/cac-moc-nhan-dien-benh-hoc-co-tu-cung.png)
 
   _Từ ngoài vào trong: cổ ngoài (ectocervix), lỗ ngoài, kênh cổ tử cung, lỗ trong._
 
-### Mô học
+## Mô học
 
 Cổ tử cung được cấu tạo bởi biểu mô phủ và mô đệm dưới biểu mô. Mô đệm gồm mô cơ trơn, mô sợi và cân đàn hồi, giúp cổ tử cung co giãn và đàn hồi.
 
-#### Cổ ngoài (Ectocervix)
+- **Cổ ngoài (Ectocervix)** được phủ bởi **biểu mô lát tầng không sừng hóa**, gồm bốn lớp từ đáy lên bề mặt:
 
-- Được phủ bởi **biểu mô lát tầng không sừng hóa**, gồm bốn lớp từ đáy lên bề mặt:
+  - **Lớp tế bào đáy**: chồng lên màng đáy, nơi tế bào phân chia mạnh nhất.
+  - **Lớp tế bào cận đáy** và **lớp tế bào trung gian** (cùng gọi là lớp gai/prickle cell layer).
+  - **Lớp tế bào bề mặt**: tùy theo nồng độ estrogen, dày mỏng khác nhau; chứa nhiều glycogen, bắt màu Lugol dương tính khi nhuộm.
 
-  1. **Lớp tế bào đáy**: chồng lên màng đáy, nơi tế bào phân chia mạnh nhất.
-  2. **Lớp tế bào cận đáy** và **lớp tế bào trung gian** (cùng gọi là lớp gai/prickle cell layer).
-  3. **Lớp tế bào bề mặt**: tùy theo nồng độ estrogen, dày mỏng khác nhau; chứa nhiều glycogen, bắt màu Lugol dương tính khi nhuộm.
+- **Cổ trong (Endocervix)** được phủ bởi **biểu mô trụ đơn tiết nhầy**, gồm các tế bào hình trụ cao, nhân tròn hoặc bầu dục nằm sát đáy, bào tương chứa nhiều hạt nhầy. Mô trụ này không tạo thành các tuyến hoàn chỉnh, nhưng có chức năng tiết chất nhầy bảo vệ kênh cổ tử cung.
 
-#### Cổ trong (Endocervix)
+- **Ranh giới lát-trụ (Squamocolumnar Junction – SCJ)**
 
-- Được phủ bởi **biểu mô trụ đơn tiết nhầy**, gồm các tế bào hình trụ cao, nhân tròn hoặc bầu dục nằm sát đáy, bào tương chứa nhiều hạt nhầy. Mô trụ này không tạo thành các tuyến hoàn chỉnh, nhưng có chức năng tiết chất nhầy bảo vệ kênh cổ tử cung.
+  - SCJ là vùng tiếp giáp giữa biểu mô lát (cổ ngoài) và biểu mô trụ (cổ trong).
+  - Vị trí SCJ biến đổi suốt cuộc đời phụ nữ dưới ảnh hưởng nội tiết (tuổi dậy thì, chu kỳ kinh nguyệt, mang thai, dùng thuốc tránh thai, mãn kinh).
+  - SCJ ban đầu (nguyên thủy) nằm sát lỗ ngoài cổ tử cung. Khi estrogen tăng, kênh cổ tử cung kéo dài, biểu mô trụ bị lộn ra ngoài tạo lộ tuyến, kéo SCJ nguyên thủy lên phía ngoài cổ tử cung.
+  - Trong giai đoạn mãn kinh, estrogen giảm, cổ tử cung teo nhỏ, SCJ di chuyển vào trong kênh cổ tử cung.
 
-#### Ranh giới lát-trụ (Squamocolumnar Junction – SCJ)
-
-- SCJ là vùng tiếp giáp giữa biểu mô lát (cổ ngoài) và biểu mô trụ (cổ trong).
-- Vị trí SCJ biến đổi suốt cuộc đời phụ nữ dưới ảnh hưởng nội tiết (tuổi dậy thì, chu kỳ kinh nguyệt, mang thai, dùng thuốc tránh thai, mãn kinh).
-- SCJ ban đầu (nguyên thủy) nằm sát lỗ ngoài cổ tử cung. Khi estrogen tăng, kênh cổ tử cung kéo dài, biểu mô trụ bị lộn ra ngoài tạo lộ tuyến, kéo SCJ nguyên thủy lên phía ngoài cổ tử cung.
-- Trong giai đoạn mãn kinh, estrogen giảm, cổ tử cung teo nhỏ, SCJ di chuyển vào trong kênh cổ tử cung.
-
-## Chuyển sản và lộ tuyến cổ tử cung
-
-### Định nghĩa
+## Bệnh sinh
 
 - **Lộ tuyến cổ tử cung (endocervical ectropion)**: biểu mô trụ của cổ trong lộn ra bề mặt cổ ngoài (ectocervix), tiếp xúc với môi trường acid âm đạo.
 - Biểu mô trụ khi lộ ra có màu đỏ, dễ chảy máu khi chạm vào, dễ bội nhiễm vi khuẩn hoặc nấm dẫn đến **viêm lộ tuyến**. Bệnh lý này có thể gây ra khí hư vàng, xanh, mùi hôi, ngứa, đau rát khi giao hợp và chảy máu sau quan hệ.
 
-### Chuyển sản lát (Metaplasia)
+### Chuyển sản lát
 
 ![Dịch chuyển SCJ nguyên thủy và SCJ mới](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/dich-truyen-cua-scj-nguyen-thuy-va-moi.jpeg)
 
@@ -99,7 +87,7 @@ _Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủ
    - Là vùng nằm giữa SCJ nguyên thủy và SCJ mới (functional SCJ).
    - TZ là nơi xuất hiện các tổn thương loạn sản (neoplasia) và là vị trí dễ bị HPV xâm nhập, do tế bào lát mới non chưa đầy đủ khả năng bảo vệ.
 
-### Sinh lý và bệnh lý
+### Lộ tuyến
 
 ![Lộ tuyến cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/lo-tuyen-co-tu-cung.png)
 
@@ -115,15 +103,18 @@ _Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới._
   - Thường không có triệu chứng, chỉ phát hiện khi soi cổ tử cung thấy vùng đỏ rạng rỡ.
 
 - **Bệnh lý (viêm lộ tuyến)**:
+
   - Khi lộ tuyến tiếp xúc lâu với môi trường âm đạo, vi khuẩn (E. coli, Gardnerella vaginalis), nấm (Candida spp.), trùng roi (Trichomonas vaginalis) dễ xâm nhập.
   - Triệu chứng:
+
     - **Khí hư**: nhiều, màu vàng/ xanh, mùi hôi.
     - **Ngứa hoặc rát vùng âm hộ, âm đạo**.
     - **Đau rát khi giao hợp** (dyspareunia).
     - **Chảy máu sau quan hệ** (postcoital bleeding).
+
   - Dễ nhầm lẫn với: viêm cổ tử cung do loét, chấn thương cơ học, hoặc các tổn thương ác tính.
 
-#### Nang Naboth
+### Nang Naboth
 
 ![Nang Naboth trên soi cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/nang-naboth-tren-soi-co.png)
 
@@ -136,14 +127,19 @@ _Nang Naboth trên bề mặt cổ tử cung, trông giống túi dịch nhỏ m
 
 Lộ tuyến bản thân là tiến trình sinh lý, thường không cần can thiệp nếu không có triệu chứng viêm. Khi phát triển thành **viêm lộ tuyến**, cần điều trị nhằm giảm triệu chứng và ngăn ngừa biến chứng.
 
-### Điều trị nội khoa
+### Nội khoa
 
 - **Kháng sinh/ kháng nấm/ kháng ký sinh** tùy tác nhân:
+
   - Ví dụ: Metronidazole hoặc Clindamycin đặt âm đạo (Trichomonas, viêm khí hư do vi khuẩn).
   - Fluconazole đường uống hoặc đặt âm đạo (Candida).
+
 - **Thuốc chống viêm tại chỗ**:
+
   - Gel hoặc đặt âm đạo chứa corticosteroid nhẹ hoặc các chế phẩm có thành phần kháng viêm, làm lành biểu mô.
+
 - **Điều chỉnh nội tiết**:
+
   - Ngưng hoặc thay đổi loại thuốc tránh thai nếu nghi ngờ estrogen ngoại sinh là nguyên nhân làm nặng lộ tuyến.
   - Với phụ nữ tiền mãn kinh/ mãn kinh bị giảm estrogen, có thể cân nhắc liệu pháp bổ sung estrogen tại chỗ (nhưng chỉ khi cần thiết và thận trọng).
 
@@ -170,6 +166,7 @@ Chỉ thực hiện khi viêm đã được kiểm soát hoặc sau điều tr�
    - Nhược điểm: chi phí cao, cần máy chuyên dụng.
 
 4. **Điều trị bằng sóng cao tần (Radiofrequency ablation)**
+
    - Xâm nhập tối thiểu, hủy mô bằng nhiệt, ít đau, hồi phục nhanh.
 
 ### Theo dõi sau điều trị

@@ -165,13 +165,13 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
   - **Azithromycin 1 g uống liều duy nhất**
 
-     - Ưu điểm: thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%.
-     - Thận trọng: có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
+    - Ưu điểm: thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%.
+    - Thận trọng: có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
 
   - **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**
 
-     - Hiệu quả 97%.
-     - Thận trọng: không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
+    - Hiệu quả 97%.
+    - Thận trọng: không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
 
 - **Phác đồ thay thế** (khi không thể dùng thuốc ưu tiên):
 
