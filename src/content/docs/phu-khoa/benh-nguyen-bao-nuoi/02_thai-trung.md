@@ -62,13 +62,13 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 #### Siêu âm
 
 - **Thai trứng toàn phần**: "tổ ong"/"bão tuyết" không thấy phôi, hình ảnh nhiều nang nước.
-  
+
   ![Hình ảnh siêu âm thai trứng toàn phần](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-toan-phan.png)
 
   _Hình ảnh siêu âm thai trứng toàn phần._
 
 - **Thai trứng bán phần**: hình ảnh nang nước không đồng nhất, có thể kèm túi thai hoặc phôi thoái hóa.
-  
+
   ![Hình ảnh siêu âm thai trứng bán phần](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-ban-phan.png)
 
   _Hình ảnh siêu âm thai trứng bán phần._
@@ -107,7 +107,7 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 - **Chỉ cân nhắc cho nhóm nguy cơ cao** (Thai trứng toàn phần lớn, β-hCG > 100,000, siêu âm nghi ngờ xâm lấn).
 - Phác đồ thường dùng:
-  
+
   - MTX 5 ngày: MTX 0.4 mg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25 mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
   - MTX 8 ngày (MTX/FA): MTX 1 mg/kg hoặc MTX 50 mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0.1 mg/kg tiêm bắp hoặc uống 15mg sau liều MTX 24-30 giờ vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
   - Dacticin: 12 µg/kg (10-13 µg/kg) hoặc 0.5 mg/ngày tĩnh mạch x 5 ngày liên tục. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
@@ -123,19 +123,19 @@ Không sử dụng hóa trị khi:
 - **Tác dụng phụ gồm có**:
 
   - Nhiễm độc về huyết học và tủy xương như giảm bạch cầu, giảm 3 dòng tế bào, thiếu máu:
-  
+
     - Giảm bạch cầu dùng thuốc nâng bạch cầu (Filgrastim).
     - Truyền máu hồng cầu lắng, tiểu cầu.
-  
+
   - Nhiễm độc đường tiêu hóa như viêm niêm mạc miệng, viêm dạ dày, viêm ruột hoại tử:
-  
+
     - Nuôi bằng đường TM, ăn thức ăn lỏng, chia nhiều bữa nhỏ.
     - Kháng sinh, vitamin.
     - Truyền dịch và bù điện giải.
-  
+
   - Nhiễm độc da: rụng tóc, tăng dị ứng mẫn cảm.
   - Sử dụng kháng histamin và corticoid nếu có dị ứng:
-  
+
     - Ngưng hóa trị nếu men gan > 100IU/L.
     - Thuốc bảo vệ tế bào gan: Biphenyl dimethyl dicarrboxylat.
 

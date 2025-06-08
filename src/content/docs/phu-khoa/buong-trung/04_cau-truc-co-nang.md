@@ -29,9 +29,9 @@ Các cấu trúc này tự thoái lui khi yếu tố kích thích biến mất. 
 - **Nguyên nhân**: phản hồi steroid bị triệt tiêu (ví dụ dậy thì, quanh mãn kinh, steroid ngoại sinh, stress).
 - **Cấu trúc**: thành lót tế bào hạt xung quanh tế bào vỏ, lòng nang chứa estrogen; đôi khi chỉ còn tế bào vỏ nếu tế bào hạt tróc rời; nang có thể đạt 5–8 cm, tồn tại xuyên chu kỳ.
 
-    ![Nang noãn nang trên siêu âm](../../../../assets/phu-khoa/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-noan-nang-tren-sieu-am.png)
+  ![Nang noãn nang trên siêu âm](../../../../assets/phu-khoa/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-noan-nang-tren-sieu-am.png)
 
-    _Nang đơn trên siêu âm, 5–8 cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ._
+  _Nang đơn trên siêu âm, 5–8 cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ._
 
 - **Triệu chứng**:
 
@@ -51,9 +51,9 @@ Các cấu trúc này tự thoái lui khi yếu tố kích thích biến mất. 
 - Hoàng thể hình thành sau phóng noãn, từ tế bào vỏ-hạt dưới tác dụng LH.
 - Chức năng tiết estrogen và progesterone, chuẩn bị làm tổ và duy trì thai. Progesterone gây feedback giảm GnRH/LH, dẫn đến ly giai hoàng thể.
 
-   ![Hoàng thể xuất huyết trên siêu âm](../../../../assets/phu-khoa/quan-ly-cac-cau-truc-co-nang-buong-trung/hoang-the-xuat-huyet-tren-sieu-am.png)
+  ![Hoàng thể xuất huyết trên siêu âm](../../../../assets/phu-khoa/quan-ly-cac-cau-truc-co-nang-buong-trung/hoang-the-xuat-huyet-tren-sieu-am.png)
 
-   _Hoàng thể xuất huyết trên siêu âm._
+  _Hoàng thể xuất huyết trên siêu âm._
 
 1. **Hoàng thể tồn lưu**
 

@@ -123,9 +123,9 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
   1. Thoái giáng trực tiếp từ 2n kép → 2n (ung thư nghịch mầm, ác tính cao).
   2. Qua phân bào I giảm nhiễm → tế bào n kép → thoái giáng thành u (ung thư nghịch phôi, đa số lành tính).
 
-    ![Sơ đồ cổ điển và giản lược về các khối u tế bào mầm](../../../../assets/phu-khoa/u-buong-trung-theo-who/so-do-co-dien-va-gian-luoc-u-te-bao-mam.png)
+  ![Sơ đồ cổ điển và giản lược về các khối u tế bào mầm](../../../../assets/phu-khoa/u-buong-trung-theo-who/so-do-co-dien-va-gian-luoc-u-te-bao-mam.png)
 
-    _Sơ đồ cổ điển và giản lược về các khối u tế bào mầm._
+  _Sơ đồ cổ điển và giản lược về các khối u tế bào mầm._
 
 - **U nghịch phôi theo hướng cấu trúc phôi**:
 
@@ -139,7 +139,7 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
 
   - Tế bào sau giảm phân I thoái giáng thành cấu trúc ngoài phôi (lá nuôi hoặc túi noãn hoàng).
   - Thường ác tính:
-    
+
     - **U yolk-sac**: u tế bào mầm có tỉ lệ tử vong cao nhất, chiếm 20% u tế bào mầm, độ tuổi trung bình 19, thường một bên.
     - **Choriocarcinoma không thai kỳ**: tế bào nuôi ngoại bào thai, hCG tăng nhẹ, gây cường nội tiết, dậy thì sớm, chảy máu tử cung, vô kinh; vi thể gồm nguyên bào nuôi, nguyên bào nuôi trung gian, hợp bào nuôi; độ ác tính cao.
 
@@ -170,7 +170,7 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
 - **U dây giới bào đơn thuần**:
 
   - Xuất phát từ dây giới bào, thường chế tiết steroid:
-  
+
     - Hướng nữ: tiết estrogen.
     - Hướng nam: tiết androgen.
 

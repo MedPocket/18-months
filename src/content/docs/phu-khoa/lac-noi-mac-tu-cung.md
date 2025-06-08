@@ -12,25 +12,25 @@ Tên gọi "lạc nội mạc tử cung trong cơ" quá đơn giản, gây nhi�
 1. Hiện diện của mô tuyến nội mạc và mô đệm trong lớp cơ tử cung.
 2. Tăng sản và tăng dưỡng của cơ tử cung xung quanh.
 
-  ![Adenomyosis trên phẫu thuật](../../../assets/phu-khoa/lac-noi-mac-tu-cung/adenomyosis-tren-phau-thuat.png)
+![Adenomyosis trên phẫu thuật](../../../assets/phu-khoa/lac-noi-mac-tu-cung/adenomyosis-tren-phau-thuat.png)
 
-  _Adenomyosis là cấu trúc tuyến-nội mạc trong cơ tử cung, viền không rõ, không có vỏ bao, quanh đó có viêm._
+_Adenomyosis là cấu trúc tuyến-nội mạc trong cơ tử cung, viền không rõ, không có vỏ bao, quanh đó có viêm._
 
 Mô tuyến lạc vị có kiểu hình và biểu hiện gene khác với nội mạc chính vị. Tăng sản cơ và tăng dưỡng tế bào cơ làm tử cung to, cứng, bất đối xứng như "quả cầu bằng gỗ".
 
-  ![Mặt cắt của adenomyosis](../../../assets/phu-khoa/lac-noi-mac-tu-cung/mat-cat-adenomyosis.png)
+![Mặt cắt của adenomyosis](../../../assets/phu-khoa/lac-noi-mac-tu-cung/mat-cat-adenomyosis.png)
 
-  _Mặt cắt của adenomyosis._
+_Mặt cắt của adenomyosis._
 
-  ![Cộng hưởng từ của adenomyosis](../../../assets/phu-khoa/lac-noi-mac-tu-cung/hinh-anh-cong-huong-tu-adenomyosis.png)
+![Cộng hưởng từ của adenomyosis](../../../assets/phu-khoa/lac-noi-mac-tu-cung/hinh-anh-cong-huong-tu-adenomyosis.png)
 
-  _Cộng hưởng từ của adenomyosis._
+_Cộng hưởng từ của adenomyosis._
 
 Tổn thương có thể khu trú tạo giả u xơ, hoặc kết hợp với u xơ thật, khó phân biệt.
 
-  ![Kết hợp adenomyosis và u xơ tử cung](../../../assets/phu-khoa/lac-noi-mac-tu-cung/u-xo-tu-cung-va-adenomyosis.png)
+![Kết hợp adenomyosis và u xơ tử cung](../../../assets/phu-khoa/lac-noi-mac-tu-cung/u-xo-tu-cung-va-adenomyosis.png)
 
-  _Kết hợp adenomyosis và u xơ tử cung._
+_Kết hợp adenomyosis và u xơ tử cung._
 
 ## Bệnh sinh
 

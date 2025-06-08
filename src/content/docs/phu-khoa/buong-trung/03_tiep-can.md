@@ -23,6 +23,7 @@ Các phương pháp hình ảnh chính:
   1. Nang hay đặc.
   2. Phản âm bên trong.
   3. Vách/chồi.
+
 - Siêu âm qua âm đạo (NPV 91–100%, PPV 35–75%) giúp loại trừ hầu hết ác tính.
 
 #### Phân loại u buồng trứng theo hình thái siêu âm Tokyo
@@ -43,13 +44,13 @@ _Phân loại u buồng trứng theo hình thái siêu âm Tokyo._
 Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 
 - **O-RADS 0**: khó đánh giá (hơi ruột, sang thương lớn, vị trí khó...).
-- **O-RADS 1**: sang thương sinh lý (nang noãn, nang hoàng thể).  
-  
+- **O-RADS 1**: sang thương sinh lý (nang noãn, nang hoàng thể).
+
   ![O-RADS 1](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-1.png)
-  
+
   _O-RADS 1._
 
-- **O-RADS 2** (< 1% ác): nang đơn thùy < 10 cm (đơn giản hoặc "lành kinh điển" như nang xuất huyết điển hình, nang bì, endometrioma, nang cạnh buồng trứng, nang vùi phúc mạc, ứ dịch tai vòi).  
+- **O-RADS 2** (< 1% ác): nang đơn thùy < 10 cm (đơn giản hoặc "lành kinh điển" như nang xuất huyết điển hình, nang bì, endometrioma, nang cạnh buồng trứng, nang vùi phúc mạc, ứ dịch tai vòi).
 
   ![O-RADS 2A](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-2a.png)
 
@@ -64,7 +65,7 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
   - Nang đơn giản/đơn thùy trơn láng ≥ 10 cm.
   - Nang đơn thùy với thành không đều.
   - Nang đa thùy < 10 cm không thành phần đặc, điểm < 4.
-  - Sang thương đặc không tăng sinh mạch, bờ trơn láng. Có thể cần Doppler để xác định thành phần đặc.  
+  - Sang thương đặc không tăng sinh mạch, bờ trơn láng. Có thể cần Doppler để xác định thành phần đặc.
 
     ![O-RADS 3](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-3.png)
 
@@ -75,8 +76,8 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
   - Nang đa thùy ≥ 10 cm hoặc có vách/ thành không đều (< 3 mm).
   - Nang đơn/đa thùy có thành phần đặc hoặc CS 4.
   - Sang thương đặc bờ trơn láng (>80% đặc) với CS 2–3.  
-    "Nhú" = thành phần đặc ≥ 3 mm.  
-    
+    "Nhú" = thành phần đặc ≥ 3 mm.
+
     ![O-RADS 4A](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-4a.png)
 
     _O-RADS 4A._
@@ -85,11 +86,11 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 
     _O-RADS 4B._
 
-- **O-RADS 5** (≥ 50% ác): sang thương đặc bờ không đều, nang đa thùy có thành phần đặc với CS cao; hoặc kèm báng bụng/nốt phúc mạc (ngoại trừ báng do nang chức năng hoặc nang chắc chắn lành).  
-    
-    ![O-RADS 5](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-5.png)
+- **O-RADS 5** (≥ 50% ác): sang thương đặc bờ không đều, nang đa thùy có thành phần đặc với CS cao; hoặc kèm báng bụng/nốt phúc mạc (ngoại trừ báng do nang chức năng hoặc nang chắc chắn lành).
 
-    _O-RADS 5._
+  ![O-RADS 5](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-5.png)
+
+  _O-RADS 5._
 
 ![Phác đồ xử trí và phân loại O-RADS](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-xu-tri-va-phan-loai.png)
 
@@ -108,9 +109,9 @@ _Phác đồ xử trí và phân loại O-RADS._
     - B3: Tồn tại bóng âm.
     - B4: U đa thùy trơn láng ≤100 mm.
     - B5: Không có dòng chảy (điểm màu 1).
-  
+
   - **M-rules (ác tính)**:
-  
+
     - M1: U đặc không đồng nhất.
     - M2: Kèm dịch báng bụng.
     - M3: ≥ 4 chồi nhú.

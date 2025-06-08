@@ -11,29 +11,29 @@ Chẩn đoán khối tân lập ở buồng trứng luôn phải đi kèm dự �
 - **Mục tiêu**: ước đoán chính xác nhất khả năng lành/ác tính dựa vào tiền sử, lâm sàng, hình ảnh, chỉ báo khối u.
 - **Khối nghi lành tính** (dân số nguy cơ thấp, thỏa IOTA lành, ROMA thấp...):
 
-   - Phẫu thuật nội soi bảo tồn: đánh giá đại thể, bóc u, bảo tồn mô lành (trẻ) hoặc cắt phần phụ (người lớn tuổi).
-   - Hạn chế sang chấn để tránh giảm dự trữ buồng trứng.
+  - Phẫu thuật nội soi bảo tồn: đánh giá đại thể, bóc u, bảo tồn mô lành (trẻ) hoặc cắt phần phụ (người lớn tuổi).
+  - Hạn chế sang chấn để tránh giảm dự trữ buồng trứng.
 
 - **Khối nghi ác tính** (IOTA ác, ROMA cao...):
 
-   1. Mổ mở:
+  1.  Mổ mở:
 
       - Đầu tiên: xét nghiệm tế bào học dịch báng/dịch rửa ổ bụng.
       - Khảo sát các tạng bụng (dạy dày, đại trực tràng, ruột thừa...) để phát hiện di căn.
       - Cắt trọn khối, không vỡ u; cắt ruột thừa, mạc nối lớn khi cần.
 
-   2. Ghi chép đầy đủ TNM để xác định giai đoạn FIGO.
-   3. Điều trị bổ sung (hóa/trị xạ) tùy loại ung thư, giai đoạn, grade.
-   4. Nội soi "second look" để đánh giá đáp ứng và tái phát.
+  2.  Ghi chép đầy đủ TNM để xác định giai đoạn FIGO.
+  3.  Điều trị bổ sung (hóa/trị xạ) tùy loại ung thư, giai đoạn, grade.
+  4.  Nội soi "second look" để đánh giá đáp ứng và tái phát.
 
 ## Phòng ngừa
 
 - **Mang thai đủ tháng**, **cho con bú**, **dùng COC** làm giảm nguy cơ ung thư biểu mô buồng trứng.
 - **Cắt buồng trứng dự phòng** là biện pháp duy nhất ngăn ngừa hoàn toàn.
 
-   :::caution
-   Theo ACOG, giữ lại buồng trứng nếu chưa mãn kinh. Tuy nhiên, xét nguy cơ tuổi mãn kinh, có thể cân nhắc cắt bỏ buồng trứng.
-   :::
+  :::caution
+  Theo ACOG, giữ lại buồng trứng nếu chưa mãn kinh. Tuy nhiên, xét nguy cơ tuổi mãn kinh, có thể cân nhắc cắt bỏ buồng trứng.
+  :::
 
 ## Các giai đoạn
 

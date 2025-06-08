@@ -57,7 +57,7 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
   | **L0–L2**                         | ≤ 3 cm     | Có thể chuyển ART ngay nếu không biến dạng                          |
   | **L3–L5 (trong cơ)**              | —          | Nếu sảy thai liên tiếp hoặc thất bại chu kỳ ICSI: cân nhắc bóc u xơ |
   | **L6 (kẹt giữa cơ và thanh mạc)** | —          | Ít ảnh hưởng → ưu tiên ART trước nếu tuổi > 35                      |
-  
+
   _Phẫu thuật u xơ._
 
   :::caution

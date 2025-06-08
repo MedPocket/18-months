@@ -52,11 +52,11 @@ _Bảng điểm tiên lượng FIGO/WHO 2018_
 
 ## Đánh giá di căn
 
-| Phân loại                   | Tiêu chuẩn chẩn đoán                                     |
-| --------------------------- | -------------------------------------------------------- |
-| **Không di căn**            | Không có bất cứ bằng chứng nào của di căn                |
-| **Di căn - Tiên lượng tốt** | Không có bất kỳ yếu tố nguy cơ nào sau:<br>- Thời gian từ có thai trước đến phát hiện bệnh <4 tháng<br>- Beta hCG trước điều trị < 40000 UI/ml<br>- Thai kỳ trước không phải thai đủ tháng<br>- Chưa từng hóa trị trước<br>- Không có di căn não hay gan (có thể di căn phổi)       |
-| **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên                    |
+| Phân loại                   | Tiêu chuẩn chẩn đoán                                                                                                                                                                                                                                                          |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Không di căn**            | Không có bất cứ bằng chứng nào của di căn                                                                                                                                                                                                                                     |
+| **Di căn - Tiên lượng tốt** | Không có bất kỳ yếu tố nguy cơ nào sau:<br>- Thời gian từ có thai trước đến phát hiện bệnh <4 tháng<br>- Beta hCG trước điều trị < 40000 UI/ml<br>- Thai kỳ trước không phải thai đủ tháng<br>- Chưa từng hóa trị trước<br>- Không có di căn não hay gan (có thể di căn phổi) |
+| **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên                                                                                                                                                                                                                                         |
 
 _Phân loại NIH (Mỹ)_
 

@@ -35,7 +35,7 @@ _Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM).
 
 - **Siêu âm thang xám**: nang đơn/multiple phản âm kém đều, giới hạn rõ, không chồi/vách, không tăng dòng mạch. IOTA M-rules âm tính.
 - Siêu âm đủ để chẩn đoán; MRI chỉ khi nghi ngờ lạc nội mạc sâu hay đau dữ dội.
-  
+
   ![Nang lạc tuyến nội mạc tử cung ở buồng trứng](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/nang-lac-tuyen-noi-mac-tu-cung-tren-sieu-am.png)
 
   _Nang lạc tuyến nội mạc tử cung ở buồng trứng._
