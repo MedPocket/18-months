@@ -42,9 +42,6 @@ Cổ tử cung được cấu tạo bởi biểu mô phủ và mô đệm dướ
 
 ## Bệnh sinh
 
-- **Lộ tuyến cổ tử cung (endocervical ectropion)**: biểu mô trụ của cổ trong lộn ra bề mặt cổ ngoài (ectocervix), tiếp xúc với môi trường acid âm đạo.
-- Biểu mô trụ khi lộ ra có màu đỏ, dễ chảy máu khi chạm vào, dễ bội nhiễm vi khuẩn hoặc nấm dẫn đến **viêm lộ tuyến**. Bệnh lý này có thể gây ra khí hư vàng, xanh, mùi hôi, ngứa, đau rát khi giao hợp và chảy máu sau quan hệ.
-
 ### Chuyển sản lát
 
 ![Dịch chuyển SCJ nguyên thủy và SCJ mới](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/dich-truyen-cua-scj-nguyen-thuy-va-moi.jpeg)
@@ -89,13 +86,15 @@ _Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủ
 
 ### Lộ tuyến
 
-![Lộ tuyến cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/lo-tuyen-co-tu-cung.png)
+- **Lộ tuyến cổ tử cung (endocervical ectropion)** biểu mô trụ của cổ trong lộn ra bề mặt cổ ngoài (ectocervix), tiếp xúc với môi trường acid âm đạo.
 
-_Soi cổ tử cung thấy vùng lộ tuyến (màu đỏ) khởi đầu ở phía ngoài cổ tử cung._
+  ![Lộ tuyến cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/lo-tuyen-co-tu-cung.png)
 
-![Vùng chuyển sản](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/vung-chuyen-san.png)
+  _Soi cổ tử cung thấy vùng lộ tuyến (màu đỏ) khởi đầu ở phía ngoài cổ tử cung._
 
-_Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới._
+  ![Vùng chuyển sản](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/vung-chuyen-san.png)
+
+  _Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới._
 
 - **Sinh lý**:
 
@@ -112,7 +111,7 @@ _Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới._
     - **Đau rát khi giao hợp** (dyspareunia).
     - **Chảy máu sau quan hệ** (postcoital bleeding).
 
-  - Dễ nhầm lẫn với: viêm cổ tử cung do loét, chấn thương cơ học, hoặc các tổn thương ác tính.
+  - **Dễ nhầm lẫn với**: viêm cổ tử cung do loét, chấn thương cơ học, hoặc các tổn thương ác tính.
 
 ### Nang Naboth
 
@@ -143,7 +142,7 @@ Lộ tuyến bản thân là tiến trình sinh lý, thường không cần can 
   - Ngưng hoặc thay đổi loại thuốc tránh thai nếu nghi ngờ estrogen ngoại sinh là nguyên nhân làm nặng lộ tuyến.
   - Với phụ nữ tiền mãn kinh/ mãn kinh bị giảm estrogen, có thể cân nhắc liệu pháp bổ sung estrogen tại chỗ (nhưng chỉ khi cần thiết và thận trọng).
 
-### Thủ thuật tại chỗ
+### Tại chỗ
 
 Chỉ thực hiện khi viêm đã được kiểm soát hoặc sau điều trị nội khoa không đáp ứng:
 

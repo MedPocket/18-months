@@ -1,17 +1,13 @@
 ---
 title: Pap's test và soi cổ tử cung
-description: Pap's test và soi cổ tử cung.
+description: Đánh giá Pap's test và soi cổ tử cung.
 ---
 
 Pap's test và soi cổ tử cung là hai phương pháp sàng lọc bất thường cổ tử cung.
 
 ## Pap's test
 
-Pap's test hay phết mỏng tế bào cổ tử cung là công cụ tầm soát sơ cấp ung thư cổ tử cung.
-
-### Các phương pháp lấy Pap's test
-
-Việc lấy mẫu Pap’s test gồm:
+Pap's test hay phết mỏng tế bào cổ tử cung là công cụ tầm soát sơ cấp ung thư cổ tử cung. Việc lấy mẫu Pap’s test gồm:
 
 - Xét nghiệm tế bào học quy ước (conventional method).
 - Xét nghiệm tế bào học nhúng dịch (liquid-based method).
@@ -29,7 +25,7 @@ Pap’s test quy ước rẻ hơn nhưng độ nhạy và đặc hiệu thấp h
 
 _So sánh 2 kỹ thuật thực hiện Pap's test._
 
-### Điều kiện thực hiện
+### Điều kiện
 
 Để đảm bảo chất lượng mẫu, Pap’s test phải thực hiện khi:
 
@@ -41,7 +37,7 @@ _So sánh 2 kỹ thuật thực hiện Pap's test._
 
 Phụ nữ mãn kinh nên dùng estrogen tại chỗ vài ngày trước khi lấy mẫu.
 
-### Quy trình thực hiện
+### Quy trình
 
 Trước khi lấy mẫu, cần điền thông tin trên phiếu xét nghiệm:
 
@@ -70,9 +66,9 @@ Trước khi lấy mẫu, cần điền thông tin trên phiếu xét nghiệm:
 
 HPV testing thường thực hiện đồng thời với Pap’s test (co-testing). Xét nghiệm cần xác định các type nguy cơ cao. Thăm dò type nguy cơ thấp không có giá trị trong tầm soát ung thư.
 
-### Bethesda 2014
+### Phân loại
 
-Kết quả phân thành ba nhóm chính:
+Theo Bethesda 2014, kết quả phân thành ba nhóm chính:
 
 1. Âm tính với tổn thương trong biểu mô hay ác tính.
 2. Khác (tế bào nội mạc ở phụ nữ ≥ 45 tuổi).
@@ -93,38 +89,45 @@ Kết quả phân thành ba nhóm chính:
 - **Tế bào gai (Squamous cell)**
 
   - Tế bào gai không điển hình (Atypical squamous cells - ASC).
+
     - ASC-US: Không xác định được tổn thương mức cao.
     - ASC-H: Không thể loại trừ tổn thương trong biểu mô vảy mức độ cao.
+
   - LSIL (Low-grade squamous intraepithelial lesions): Dị sản nhẹ/CIN 1/HPV.
   - HSIL (High-grade squamous intraepithelial lesions): Dị sản vừa/nặng, CIN 2/3, carcinoma in situ.
   - Với tính chất nghi ngờ xâm lấn: Có đặc trưng nghi ngờ xâm lấn.
   - Ung thư tế bào gai (Squamous cell carcinoma).
 
 - **Tế bào tuyến (Glandular cell)**
+
   - Atypical:
+
     - Endocervical cells, no otherwise specified (N/O).
     - Endometrial cells, N/O.
     - Glandular cells, N/O.
+
   - Atypical favor neoplastic:
+
     - Endocervical cells, favor neoplastic.
     - Glandular cells, favor neoplastic.
+
   - Endocervical adenocarcinoma in situ.
   - Adenocarcinoma (có thể ở kênh cổ tử cung, nội mạc tử cung, ngoài tử cung hoặc N/O).
 
-#### Các tổn thương tiền xâm lấn của ung thư cổ tử cung
+- **Các tổn thương tiền xâm lấn của ung thư cổ tử cung**
 
-1. ASC (ASC-US, ASC-H).
-2. LSIL (CIN 1, koilocytotic atypia).
-3. HSIL (CIN 2, CIN 3, carcinoma in situ).
+  - ASC (ASC-US, ASC-H).
+  - LSIL (CIN 1, koilocytotic atypia).
+  - HSIL (CIN 2, CIN 3, carcinoma in situ).
 
-### Quản lý tế bào học
+### Quản lý
 
 | Phương pháp tầm soát     | Kết quả                                                              | Xử trí                                                                                                                                                                         |
 | ------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Tế bào học đơn thuần** | Tế bào học âm tính _hoặc_ ASC-US và HPV âm tính                      | Tầm soát lại sau 3 năm                                                                                                                                                         |
 |                          | Các kết quả khác                                                     | Xử trí theo khuyến cáo ASCCP                                                                                                                                                   |
 | **Co-testing**           | Tế bào học âm tính, HPV testing âm tính _hoặc_ ASC-US và HPV âm tính | Tầm soát lại sau 5 năm                                                                                                                                                         |
-|                          | Tế bào học âm tính và HPV testing dương tính                         | **Lựa chọn 1**: Lập lại co-testing sau 12 tháng (B)_<br>**Lựa chọn 2**: Genotypes HPV 16 hoặc HPV 16/18 (B)_<br>Nếu dương ⇒ soi cổ tử cung<br>Nếu âm ⇒ co-testing sau 12 tháng |
+|                          | Tế bào học âm tính và HPV testing dương tính                         | **Lựa chọn 1**: Lập lại co-testing sau 12 tháng (B)_<br>**Lựa chọn 2**: Genotypes HPV 16 hoặc HPV 16/18 (B)_<br>Nếu dương → soi cổ tử cung<br>Nếu âm → co-testing sau 12 tháng |
 |                          | Tất cả các kết quả khác                                              | Xử trí theo khuyến cáo ASCCP                                                                                                                                                   |
 
 _Các khuyến cáo dựa theo American Cancer Society, ASCCP, và ASCP. A: Mạnh, chứng cứ rõ ràng. B: Trung bình, chứng cứ không hằng định. C: Theo kinh nghiệm._
@@ -133,7 +136,7 @@ _Các khuyến cáo dựa theo American Cancer Society, ASCCP, và ASCP. A: Mạ
 
 Soi cổ tử cung là kỹ thuật quan sát cổ tử cung qua kính lúp (máy soi), đánh giá vị trí, kích thước, đặc điểm tổn thương, đồng thời hướng dẫn sinh thiết hoặc nạo kênh cổ tử cung (ECC) để chẩn đoán mô học.
 
-### Điều kiện và dụng cụ
+### Điều kiện
 
 - Thực hiện sau khi có kết quả Pap’s test, vào ngày N8–N12 của chu kỳ kinh, tốt nhất sau sạch kinh 3 ngày.
 - Dụng cụ:
@@ -141,7 +144,7 @@ Soi cổ tử cung là kỹ thuật quan sát cổ tử cung qua kính lúp (má
   - Mỏ vịt, bông gòn, kẹp hình tim.
   - Kềm bấm sinh thiết, muỗng nạo kênh, lọ chứa formaldehyde 4%.
 
-### Đánh giá
+### Quy trình
 
 Tiến trình soi gồm ba bước:
 
@@ -165,12 +168,14 @@ Tiến trình soi gồm ba bước:
 - Lugol (+): Toàn bộ biểu mô lát bắt màu vàng sậm.
 - Lugol (–): Biểu mô lát hoặc vùng chuyển sản không bắt màu.
 
-### Đọc kết quả
+#### Đọc kết quả
 
 - Mô tả chi tiết quá trình soi, hình ảnh theo từng bước và lập sơ đồ tổn thương (cervicography).
 - Nếu cần sinh thiết, ghi rõ số mẫu, vị trí và kết quả mô học.
 
-#### Phân loại theo ASCCP
+### Phân loại
+
+Theo ASCCP:
 
 ![Hình ảnh cổ tử cung bình thường qua soi cổ](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-binh-thuong.png)
 

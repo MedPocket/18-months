@@ -1,6 +1,6 @@
 ---
 title: HPV
-description: HPV.
+description: Tổng quan virus HPV.
 ---
 
 Human Papilloma Virus (HPV) là virus gây u nhú ở người, nguyên nhân hàng đầu gây ung thư cổ tử cung và nhiều bệnh lý đường sinh dục ở cả nam và nữ.
@@ -24,42 +24,40 @@ _Sơ đồ DNA 7904 bp của HPV type 16._
 
 ### Các type
 
-Hơn 200 type HPV đã được định danh, trong đó 85 type đã mô tả đầy đủ gene; > 40 type lây qua quan hệ tình dục. Do chỉ có capsid, HPV bền ngoài môi trường, có thể lây gián tiếp qua tiếp xúc đồ dùng.
+- Hơn 200 type HPV đã được định danh, trong đó 85 type đã mô tả đầy đủ gene; > 40 type lây qua quan hệ tình dục. Do chỉ có capsid, HPV bền ngoài môi trường, có thể lây gián tiếp qua tiếp xúc đồ dùng.
 
-- **Nhóm da**: tổn thương ở da tay, chân.
-- **Nhóm niêm mạc**: xâm nhiễm tế bào đáy niêm mạc môi, miệng, hô hấp, cơ quan sinh dục.
+  - **Nhóm da**: tổn thương ở da tay, chân.
+  - **Nhóm niêm mạc**: xâm nhiễm tế bào đáy niêm mạc môi, miệng, hô hấp, cơ quan sinh dục.
 
-**Nguy cơ thấp**: 6, 11, 42, 43, 44.
+- **Nguy cơ thấp**: 6, 11, 42, 43, 44.
+- **Nguy cơ cao**: 16, 18, 31, 33, 34, 35, 39, 45, 51, 52, 56, 58, 59, 66, 68, 70.
 
-**Nguy cơ cao**: 16, 18, 31, 33, 34, 35, 39, 45, 51, 52, 56, 58, 59, 66, 68, 70.
-
-### Yếu tố nguy cơ lây nhiễm
+### Yếu tố nguy cơ
 
 - Quan hệ tình dục sớm, có nhiều bạn tình, tiền sử các bệnh lây truyền qua đường tình dục.
 - Sử dụng bao cao su không hoàn toàn ngăn chặn được HPV.
 - Tỷ lệ nhiễm cao ở độ tuổi 18–30, giảm sau 30 do tế bào cổ tử cung biệt hóa hoàn chỉnh, giảm tính cảm nhiễm với virus.
 
-### HPV và ung thư
+### Bệnh sinh
 
 - Đa số lành tính, có thể tự khỏi nếu miễn dịch tốt.
 - Nhiễm tồn tại (> 2 năm) tăng nguy cơ tái phát và sinh ung thư.
 - Biểu hiện: mụn cóc da, mụn cóc miệng (Heck’s), u nhú thanh quản.
 - Tại cổ tử cung: HPV type thấp gây mụn cóc sinh dục; type cao (16, 18, 31, 45...) liên quan đến tổn thương tiền ung thư và ung thư.
+- **Cơ chế sinh ung thư**:
 
-**Cơ chế sinh ung thư**:
+  - E6 liên kết p53 → thoái giáng p53 → mất kiểm soát chu kỳ tế bào.
+  - E7 bất hoạt pRb → giải phóng E2F1 → kích hoạt phân bào không kiểm soát.
 
-- E6 liên kết p53 → thoái giáng p53 → mất kiểm soát chu kỳ tế bào.
-- E7 bất hoạt pRb → giải phóng E2F1 → kích hoạt phân bào không kiểm soát.
+  Miễn dịch qua trung gian tế bào quyết định khả năng thanh thải HPV.
 
-Miễn dịch qua trung gian tế bào quyết định khả năng thanh thải HPV.
+  ![Cơ chế hình thành tế bào bất tử khi nhiễm HPV](../../../../assets/phu-khoa/hpv/co-che-hinh-thanh-te-bao-bat-tu-khi-nhiem-hpv.png)
 
-![Cơ chế hình thành tế bào bất tử khi nhiễm HPV](../../../../assets/phu-khoa/hpv/co-che-hinh-thanh-te-bao-bat-tu-khi-nhiem-hpv.png)
+  _Cơ chế hình thành tế bào bất tử khi nhiễm HPV._
 
-_Cơ chế hình thành tế bào bất tử khi nhiễm HPV._
+  ![Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV](../../../../assets/phu-khoa/hpv/mien-dich-bam-sinh-va-thich-nghi-qua-trung-gian-te-bao-bao-ve-chong-hpv.png)
 
-![Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV](../../../../assets/phu-khoa/hpv/mien-dich-bam-sinh-va-thich-nghi-qua-trung-gian-te-bao-bao-ve-chong-hpv.png)
-
-_Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV._
+  _Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV._
 
 ## Vaccine HPV
 
@@ -69,7 +67,7 @@ _Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ ch
 - Kích thích B-cell và T-cell tạo kháng thể IgG đặc hiệu.
 - Không tạo miễn dịch chéo giữa các type khác nhau.
 
-### Các loại vaccine
+### Phân loại
 
 | Loại vaccine | Type bảo vệ                       | Phổ bảo vệ                                               |
 | ------------ | --------------------------------- | -------------------------------------------------------- |
@@ -101,7 +99,7 @@ _Phổ bảo vệ của vaccine 2vHPV, 4vHPV và 9vHPV_
 
 _So sánh vaccine HPV nhị giá và tứ giá._
 
-### Sử dụng vaccine theo ACIP
+### Sử dụng
 
 - **Đối tượng**
 

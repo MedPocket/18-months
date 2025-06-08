@@ -1,11 +1,11 @@
 ---
 title: Tân sinh trong biểu mô cổ tử cung
-description: Tân sinh trong biểu mô cổ tử cung.
+description: Tổng quan tân sinh trong biểu mô cổ tử cung.
 ---
 
 Cổ tử cung có thể tổn thương ở nhiều mức độ khác nhau, từ những biến đổi nhẹ đến ung thư xâm lấn.
 
-## Các luận điểm về diễn biến của tân sinh biểu mô cổ tử cung
+## Diễn tiến
 
 ### Luận điểm cổ điển
 

@@ -38,6 +38,7 @@ Các kiểu xuất huyết có thể nhẹ hoặc nặng, thỉnh thoảng hoặ
    - Là hiện tượng sinh lý nhưng có thể bị nhầm với sẩy thai.
 
 5. **Các nguyên nhân không do thai kỳ**
+
    - Polyp tử cung, u xơ, viêm cổ tử cung, nhiễm trùng âm đạo...
    - Thường chẩn đoán bằng khám phụ khoa kỹ và soi cổ tử cung.
 
@@ -45,26 +46,13 @@ Các kiểu xuất huyết có thể nhẹ hoặc nặng, thỉnh thoảng hoặ
 
 Sau 13+6 tuần, các nguyên nhân chính gồm:
 
-- **Chuyển dạ sớm do hở eo tử cung (Cervical insufficiency)**:  
-  Cổ tử cung không chịu được sức nặng của thai, thường trong giai đoạn 14–24 tuần, gây chảy máu không đau hoặc đau ít, có thể dẫn đến sinh non.
-
-- **Sẩy thai muộn (Late miscarriage)**:  
-  Sẩy thai sau 14 tuần và trước 20 tuần, cơ chế tương tự sẩy thai sớm nhưng cần phân biệt với chuyển dạ non.
-
-- **Dọa sinh non (Preterm labor)**:  
-  Chuẩn bị chuyển dạ trước 37 tuần, chảy máu kèm co thắt tử cung.
-
-- **Rau tiền đạo (Placenta praevia)**:  
-  Rau bám thấp che lỗ trong cổ tử cung, chảy máu đỏ tươi không đau, thường xảy ra sau 28 tuần.
-
-- **Rau bong non (Placental abruption)**:  
-  Rau bong trước khi chuyển dạ, chảy máu kèm đau bụng dữ dội, tử cung căng cứng.
-
-- **Vỡ tử cung (Uterine rupture)**:  
-  Hiếm, thường trên vết mổ cũ hoặc phẫu thuật bóc nhân xơ, khẩn cấp sản khoa.
-
-- **Vỡ mạch máu tiền đạo (Vasa praevia)**:  
-  Mạch máu bánh rau đi qua màng ối trước lỗ cổ tử cung, khi vỡ ối có thể chảy máu nhiều và đe dọa thai nhi.
+- **Chuyển dạ sớm do hở eo tử cung (Cervical insufficiency)**: Cổ tử cung không chịu được sức nặng của thai, thường trong giai đoạn 14–24 tuần, gây chảy máu không đau hoặc đau ít, có thể dẫn đến sinh non.
+- **Sẩy thai muộn (Late miscarriage)**: Sẩy thai sau 14 tuần và trước 20 tuần, cơ chế tương tự sẩy thai sớm nhưng cần phân biệt với chuyển dạ non.
+- **Dọa sinh non (Preterm labor)**: Chuẩn bị chuyển dạ trước 37 tuần, chảy máu kèm co thắt tử cung.
+- **Rau tiền đạo (Placenta praevia)**: Rau bám thấp che lỗ trong cổ tử cung, chảy máu đỏ tươi không đau, thường xảy ra sau 28 tuần.
+- **Rau bong non (Placental abruption)**: Rau bong trước khi chuyển dạ, chảy máu kèm đau bụng dữ dội, tử cung căng cứng.
+- **Vỡ tử cung (Uterine rupture)**: Hiếm, thường trên vết mổ cũ hoặc phẫu thuật bóc nhân xơ, khẩn cấp sản khoa.
+- **Vỡ mạch máu tiền đạo (Vasa praevia)**: Mạch máu bánh rau đi qua màng ối trước lỗ cổ tử cung, khi vỡ ối có thể chảy máu nhiều và đe dọa thai nhi.
 
 ## Chẩn đoán
 
