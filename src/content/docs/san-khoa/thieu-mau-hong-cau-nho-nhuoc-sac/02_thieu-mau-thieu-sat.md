@@ -38,21 +38,21 @@ Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic 
 
 - ACOG: bổ sung sắt nguyên tố suốt thai kỳ, liều tùy tình trạng thiếu máu.
 
-  | Giai đoạn | Hemoglobin (g/dL) | Ferritin (µg/L) | Khuyến cáo |
-  |---------------|-------------------|-----------------|--------------------------|
-  | **3 tháng đầu** | < 9 | Bất kỳ | Đánh giá bệnh nội khoa |
-  | | 9 - 10.9 | > 30 | Đánh giá bệnh nội khoa |
-  | | 9 - 10.9 | 12 - 20 | 30 mg sắt/ngày |
-  | | ≥ 11 | ≤ 20 | 30 mg sắt/ngày |
-  | | 9 - 10.9 | < 12 | 60 - 120 mg sắt/ngày |
-  | | > 11 | > 20 | Không cần bổ sung sắt |
-  | **3 tháng giữa** | < 9 | Bất kỳ | Đánh giá bệnh nội khoa |
-  | | ≥ 10.5 | ≤ 20 | 30 mg sắt/ngày |
-  | | 9 - 10.4 | < 12 | 60 - 120 mg sắt/ngày |
-  | | > 10.5 | > 20 | Không cần bổ sung sắt |
-  | **3 tháng cuối** | < 9 | Bất kỳ | Đánh giá bệnh nội khoa |
-  | | ≥ 11 | Bất kỳ | 30 mg sắt/ngày |
-  | | 9 - 10.9 | Bất kỳ | 60 - 120 mg sắt/ngày |
+  | Giai đoạn        | Hemoglobin (g/dL) | Ferritin (µg/L) | Khuyến cáo             |
+  | ---------------- | ----------------- | --------------- | ---------------------- |
+  | **3 tháng đầu**  | < 9               | Bất kỳ          | Đánh giá bệnh nội khoa |
+  |                  | 9 - 10.9          | > 30            | Đánh giá bệnh nội khoa |
+  |                  | 9 - 10.9          | 12 - 20         | 30 mg sắt/ngày         |
+  |                  | ≥ 11              | ≤ 20            | 30 mg sắt/ngày         |
+  |                  | 9 - 10.9          | < 12            | 60 - 120 mg sắt/ngày   |
+  |                  | > 11              | > 20            | Không cần bổ sung sắt  |
+  | **3 tháng giữa** | < 9               | Bất kỳ          | Đánh giá bệnh nội khoa |
+  |                  | ≥ 10.5            | ≤ 20            | 30 mg sắt/ngày         |
+  |                  | 9 - 10.4          | < 12            | 60 - 120 mg sắt/ngày   |
+  |                  | > 10.5            | > 20            | Không cần bổ sung sắt  |
+  | **3 tháng cuối** | < 9               | Bất kỳ          | Đánh giá bệnh nội khoa |
+  |                  | ≥ 11              | Bất kỳ          | 30 mg sắt/ngày         |
+  |                  | 9 - 10.9          | Bất kỳ          | 60 - 120 mg sắt/ngày   |
 
   _Bổ sung sắt trong thai kỳ theo tình trạng thiếu máu (ACOG)._
 
