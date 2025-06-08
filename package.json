@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.34.3",
-    "astro": "^5.8.1",
+    "astro": "^5.9.1",
     "astro-og-canvas": "^0.7.0",
     "canvaskit-wasm": "^0.40.0",
     "hast-util-to-string": "^3.0.1",
@@ -39,5 +39,5 @@
     "@types/html-escaper": "^3.0.4",
     "typescript": "^5.8.3"
   },
-  "packageManager": "pnpm@10.11.0"
+  "packageManager": "pnpm@10.11.1"
 }
