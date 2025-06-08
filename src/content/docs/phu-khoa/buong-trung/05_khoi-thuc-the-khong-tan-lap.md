@@ -1,6 +1,6 @@
 ---
 title: Quản lý khối thực thể không tân lập ở phần phụ
-description: Quản lý khối thực thể không tân lập ở phần phụ.
+description: Hướng dẫn quản lý khối thực thể không tân lập ở phần phụ.
 ---
 
 Các khối thực thể không tân lập tại phần phụ là tất cả các khối bất thường ở phần phụ, không mang đặc điểm tân sinh. Thường gặp nhất:
@@ -12,14 +12,9 @@ Các khối thực thể không tân lập tại phần phụ là tất cả cá
 
 Đặc trưng chung: triệu chứng thường rõ (đau, rối loạn kinh, hiếm muộn...), khác với khối tân lập (thường âm thầm).
 
-Tiếp cận có thể **nội khoa** hoặc **ngoại khoa**.
+## Nang lạc tuyến nội mạc tử cung
 
-- Cơ năng (ví dụ nang noãn nang) chủ yếu điều trị nội khoa.
-- Thực thể không tân lập (nang lạc nội mạc, vòi ứ dịch...) có thể cần phẫu thuật tùy triệu chứng.
-
-## Nang lạc tuyến nội mạc tử cung ở buồng trứng
-
-### Bệnh học
+### Bệnh sinh
 
 - Là "giả nang" không vỏ, phát triển trên bề mặt buồng trứng, bao gồm biểu mô nội mạc tử cung và mô đệm tùy hành.
 - Trong chu kỳ, lớp nội mạc bên trong nang cũng hành kinh—máu bị giữ lại, cô đặc thành dịch nâu "chocolate" giàu hemosiderin.
@@ -30,17 +25,24 @@ Tiếp cận có thể **nội khoa** hoặc **ngoại khoa**.
 
   _Thuyết cấy ghép, quá trình viêm và cường estrogen._
 
-### Hình ảnh & CA125
+### Phân loại
+
+![Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/AFS-ASRM.png)
+
+_Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)._
+
+### Cận lâm sàng
 
 - **Siêu âm thang xám**: nang đơn/multiple phản âm kém đều, giới hạn rõ, không chồi/vách, không tăng dòng mạch. IOTA M-rules âm tính.
 - Siêu âm đủ để chẩn đoán; MRI chỉ khi nghi ngờ lạc nội mạc sâu hay đau dữ dội.
+  
   ![Nang lạc tuyến nội mạc tử cung ở buồng trứng](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/nang-lac-tuyen-noi-mac-tu-cung-tren-sieu-am.png)
 
   _Nang lạc tuyến nội mạc tử cung ở buồng trứng._
 
 - **CA125**: thường tăng cao nhưng không đặc hiệu (tăng ở cả endometrioma và u biểu mô dạng nội mạc tử cung).
 
-### Biểu hiện & quản lý
+### Quản lý
 
 1. **Nang đơn thuần, không triệu chứng**
 
@@ -58,23 +60,20 @@ Tiếp cận có thể **nội khoa** hoặc **ngoại khoa**.
    - **Phẫu thuật** chỉ khi có tổn thương gây đau rõ (lạc nội mạc sâu, dính phúc mạc) nhằm chẩn đoán giai đoạn và xử lý.
 
 3. **Nang kèm hiếm muộn**
+
    - Nang endometrioma không ảnh hưởng trực tiếp đến chất lượng noãn hay kết quả IVF.
    - Phẫu thuật chỉ để **đánh giá giai đoạn** (AFS-ASRM), giúp lên kế hoạch điều trị hiếm muộn.
    - Nếu bóc nang, chắc chắn xảy ra:
+
      1. Tái phát (đúng).
      2. Giảm dự trữ buồng trứng (đúng).
      3. Hiệu quả trên kết quả hiếm muộn không chắc chắn.
-
-### Phân loại
-
-![Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/AFS-ASRM.png)
-
-_Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)._
 
 ## Ứ dịch vòi Fallope
 
 - Các tình trạng ưu tiên ngoại khoa: ứ dịch vòi, áp-xe vòi-buồng trứng không đáp ứng kháng sinh, lao vòi trứng.
 - **Siêu âm**: ứ dịch vòi hình ảnh dãn, chứa dịch – thường hai bên.
+
   ![Vòi Fallope ứ dịch trên siêu âm](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/u-dich-voi-fallope-tren-sieu-am.png)
 
   _Vòi Fallope ứ dịch trên siêu âm._

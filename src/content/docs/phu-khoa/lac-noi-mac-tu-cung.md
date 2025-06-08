@@ -7,7 +7,7 @@ Lạc nội mạc tử cung là bệnh phụ khoa mãn tính, dễ tái phát, t
 
 Tần suất mắc bệnh không được biết chính xác, ước tính khoảng 10% phụ nữ độ tuổi sinh sản bị lạc nội mạc tử cung. Trong số BN lạc nội mạc tử cung có khoảng 40–82% phụ nữ bị đau vùng chậu mạn tính, 50% phụ nữ lạc nội mạc tử cung bị ảnh hưởng gây hiếm muộn vô sinh, 17–48% có khối lạc nội mạc tử cung ở buồng trứng.
 
-## Bệnh học
+## Bệnh sinh
 
 Tên gọi "lạc nội mạc tử cung trong cơ" quá đơn giản, gây nhiều nhầm lẫn và không phản ánh hết sinh bệnh học của adenomyosis.
 

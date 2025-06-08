@@ -13,28 +13,30 @@ Nguyên nhân chính của xuất huyết tử cung bất thường trong 3 thá
 
 ## Chẩn đoán
 
-### Tiền sử
-
-- **Tiền sử sản khoa** (số lần mang thai, diễn biến và kết cục mỗi thai kỳ, các can thiệp ngoại khoa hoặc nội khoa trước đó).
-- **Tiền sử sinh non**: sinh non tự phát với tuổi thai thay đổi có thể gợi ý hở eo tử cung hoặc dị dạng tử cung.
-- **Tiền sử sảy thai liên tiếp**: tăng nguy cơ sảy thai tái phát nếu chưa khảo sát di truyền, tự miễn (hội chứng kháng phospholipid) và bệnh lý tử cung.
-- **Tiền sử thai ngoài tử cung**: chi tiết phương pháp điều trị, di chứng nhiễm trùng hoặc phẫu thuật vùng chậu.
-- Tiền sử hỗ trợ sinh sản và tránh thai hoặc có thai sau hỗ trợ sinh sản (nguy cơ heterotopic pregnancy), hoặc sau tránh thai khẩn cấp thất bại (tăng nguy cơ thai ngoài tử cung).
-- **Tiền sử kinh nguyệt**: chu kỳ gần nhất, tính chất và thời gian hành kinh để phân biệt với chảy máu cơ năng.
-
-### Bệnh sử
-
-- Triệu chứng nghén gợi ý có thai.
-- **Nghén nặng** có thể liên quan đa thai hoặc thai trứng
-- **Nghén mất đột** ngột gợi ý thai lưu.
-
 ### Lâm sàng
 
-- **Tính chất xuất huyết**: lượng máu, màu sắc, thời điểm khởi phát, kèm đau bụng hoặc không.
-- Khám toàn thân: đánh giá huyết áp, mạch, dấu hiệu mất máu.
-- Khám bụng: kiểm tra phản ứng thành bụng, đánh giá đau do xuất huyết nội.
-- Khám âm đạo và cổ tử cung: xác định kích thước tử cung, tính tương thích với tuổi thai, tình trạng mở cổ tử cung, khối cạnh tử cung, túi cùng sau.
-- Quan sát mô được tống ra: đánh giá mô thai, máu cục hoặc tổ chức viêm.
+- **Tiền sử**:
+
+  - **Tiền sử sản khoa** (số lần mang thai, diễn biến và kết cục mỗi thai kỳ, các can thiệp ngoại khoa hoặc nội khoa trước đó).
+  - **Tiền sử sinh non**: sinh non tự phát với tuổi thai thay đổi có thể gợi ý hở eo tử cung hoặc dị dạng tử cung.
+  - **Tiền sử sảy thai liên tiếp**: tăng nguy cơ sảy thai tái phát nếu chưa khảo sát di truyền, tự miễn (hội chứng kháng phospholipid) và bệnh lý tử cung.
+  - **Tiền sử thai ngoài tử cung**: chi tiết phương pháp điều trị, di chứng nhiễm trùng hoặc phẫu thuật vùng chậu.
+  - Tiền sử hỗ trợ sinh sản và tránh thai hoặc có thai sau hỗ trợ sinh sản (nguy cơ heterotopic pregnancy), hoặc sau tránh thai khẩn cấp thất bại (tăng nguy cơ thai ngoài tử cung).
+  - **Tiền sử kinh nguyệt**: chu kỳ gần nhất, tính chất và thời gian hành kinh để phân biệt với chảy máu cơ năng.
+
+- **Bệnh sử**:
+
+  - Triệu chứng nghén gợi ý có thai.
+  - **Nghén nặng** có thể liên quan đa thai hoặc thai trứng
+  - **Nghén mất đột** ngột gợi ý thai lưu.
+
+- **Thực thể**:
+
+  - **Tính chất xuất huyết**: lượng máu, màu sắc, thời điểm khởi phát, kèm đau bụng hoặc không.
+  - Khám toàn thân: đánh giá huyết áp, mạch, dấu hiệu mất máu.
+  - Khám bụng: kiểm tra phản ứng thành bụng, đánh giá đau do xuất huyết nội.
+  - Khám âm đạo và cổ tử cung: xác định kích thước tử cung, tính tương thích với tuổi thai, tình trạng mở cổ tử cung, khối cạnh tử cung, túi cùng sau.
+  - Quan sát mô được tống ra: đánh giá mô thai, máu cục hoặc tổ chức viêm.
 
 ### Cận lâm sàng
 

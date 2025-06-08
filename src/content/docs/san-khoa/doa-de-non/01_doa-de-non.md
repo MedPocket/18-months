@@ -16,7 +16,7 @@ Tuổi thai tính theo tuần được chia như sau:
 - **Gần đủ tháng**: 37 đến < 39 tuần.
 - **Đủ tháng**: 39 đến 41 tuần.
 
-## Bệnh học
+## Bệnh sinh
 
 Nguyên nhân sinh non chia làm hai nhóm chính:
 

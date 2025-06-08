@@ -5,7 +5,7 @@ description: Hướng dẫn tầm soát ung thư cổ tử cung.
 
 Ung thư cổ tử cung đứng thứ tư trong các loại ung thư ở phụ nữ và thứ hai ở nhóm tuổi sinh sản, sau ung thư vú.
 
-## Chiến lược tầm soát ung thư cổ tử cung
+## Tầm soát
 
 | Dân số                       | Phương pháp tầm soát                                                  | Ghi chú                                                                                                                                          |
 | ---------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |

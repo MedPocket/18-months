@@ -45,7 +45,7 @@ description: Định nghĩa, phân loại, sàng lọc, chẩn đoán, điều t
      đường huyết sau 2 giờ OGTT 75 g 153–199 mg/dL (8.5–11.0 mmol/L).
    - Phát hiện sau 24–28 tuần, không có tiền sử ĐTĐ trước mang thai.
 
-## Bệnh học
+## Bệnh sinh
 
 1. **Kháng insulin sinh lý**  
    Bắt đầu tăng từ giữa thai kỳ (tuần 20–24) do hormon nhau thai (hPL, cortisol, estrogen, progesterone, prolactin...) làm giảm tiêu thụ glucose của mẹ, ưu tiên cho thai nhi.
