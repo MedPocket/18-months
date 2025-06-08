@@ -23,7 +23,7 @@ U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô
 - Vận động thể lực.
 - Ăn cá, rau xanh, vitamin A động vật.
 
-## Phân loại FIGO (2011)
+## Phân loại
 
 ![Phân loại FIGO 2011](../../../../assets/phu-khoa/u-xo-tu-cung/phan-loai-u-xo-tu-cung-figo-2011.jpg)
 
@@ -44,12 +44,14 @@ _Phân loại FIGO 2011._
 - **Cơ năng**: cường/rong kinh, thống kinh, đau hạ vị, chèn ép bàng quang/niệu quản/trực tràng, thiếu máu
 - **Thực thể**: tử cung to, khối cứng, di động kém, sốt (thoái hóa)
 
-### Hình ảnh
+### Cận lâm sàng
 
 - **Siêu âm thang xám**: khối giảm âm, giới hạn rõ, bóng giảm âm sau.
+
   ![U xơ tử cung trên siêu âm](../../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-tren-sieu-am.png)
 
   _U xơ tử cung trên siêu âm._
+
   ![Adenomyosis trên siêu âm](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-sieu-am.png)
 
   _Adenomyosis trên siêu âm._
@@ -59,6 +61,7 @@ _Phân loại FIGO 2011._
   _Leiomyosarcoma trên siêu âm._
 
 - **Doppler**: mạch ngoại vi u xơ; phân biệt với polyp (mạch trung tâm) và adenomyosis (mạch nội vi).
+
   ![U xơ tử cung trên siêu âm Doppler](../../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-tren-sieu-am-doppler.png)
 
   _U xơ tử cung trên siêu âm Doppler._
@@ -68,11 +71,13 @@ _Phân loại FIGO 2011._
   _Adenomyosis trên siêu âm Doppler._
 
 - **Siêu âm 4D/đàn hồi**: đánh giá JZ, độ cứng.
+
   ![Adenomyosis trên siêu âm đàn hồi](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-sieu-am-dan-hoi.png)
 
   _Adenomyosis trên siêu âm đàn hồi._
 
 - **Siêu âm bơm nước**: với u xơ dưới niêm mạc.
+
   ![U xơ tử cung FIGO 0 trên SIS](../../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-figo-0-qua-sis.png)
 
   _U xơ tử cung FIGO 0 trên SIS._
@@ -111,13 +116,13 @@ _Phân loại FIGO 2011._
 
 ### Không can thiệp
 
-- **Theo dõi** triệu chứng và kích thước mỗi 6–12 tháng (sau mãn kinh 3–6 tháng) nếu không triệu chứng
+**Theo dõi** triệu chứng và kích thước mỗi 6–12 tháng (sau mãn kinh 3–6 tháng) nếu không triệu chứng.
 
 ### Nội khoa
 
 | Phương pháp                      | Mục tiêu                  | Ghi chú                                                               |
 | -------------------------------- | ------------------------- | --------------------------------------------------------------------- |
-| **Tranexamic acid**              | Giảm cường kinh           | 250–500 mg × 3 lần/ngày; chống chỉ định TKMP/thuyên tắc               |
+| **Tranexamic acid**              | Giảm cường kinh           | 250–500 mg × 3 lần/ngày; chống chỉ định tràn khí màng phổi/thuyên tắc               |
 | **COC**                          | Giảm máu kinh             | Không ảnh hưởng khối u                                                |
 | **Progestin (LNG-IUS, implant)** | Tạo teo nội mạc, giảm máu | LNG-IUS không giảm thể tích u                                         |
 | **GnRHa**                        | Giảm > 50% thể tích u     | Chuẩn bị trước mổ 1–3 tháng; Hạn chế <6 tháng, có flare-up            |
@@ -141,6 +146,7 @@ _Phân loại FIGO 2011._
   - Đường nội soi, âm đạo hoặc mở tùy tổn thương & BN.
 
 - **Xâm lấn tối thiểu**
+
   - UAE, HIFU, RFA.
 
 ## Nguồn tham khảo
