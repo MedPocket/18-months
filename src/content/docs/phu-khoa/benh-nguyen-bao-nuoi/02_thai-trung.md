@@ -9,17 +9,21 @@ Thai trứng là tình trạng gặp trong 1/200–1/1000 ca thai nghén, do b�
 
 - **Độ tuổi**: cao ở < 20 tuổi và > 40 tuổi.
 - **Yếu tố nguy cơ**:
+
   - Mang thai lần đầu.
   - Tiền sử thai trứng trước đó.
   - Thiếu dinh dưỡng (thiếu β-carotene, kẽm).
 
-## Nguồn gốc
+## Nguyên nhân
 
 - Thai trứng là kết quả của thụ tinh bất thường.
-- **Thai trứng toàn phần**
+- **Thai trứng toàn phần**:
+
   - Bộ NST 46,XX hoặc 46,XY, toàn bộ nguồn gốc từ bố.
   - Thụ tinh trứng không có nhân với 1 tinh trùng (sau đó tinh trùng nhân đôi) hoặc 2 tinh trùng.
-- **Thai trứng bán phần**
+
+- **Thai trứng bán phần**:
+
   - Bộ NST tam bội 69,XXY (thường), 69,XXX hoặc 69,XYY.
   - Thụ tinh trứng bình thường (có nhân) với 2 tinh trùng hoặc 1 tinh trùng rồi nhân đôi.
 
@@ -28,15 +32,18 @@ Thai trứng là tình trạng gặp trong 1/200–1/1000 ca thai nghén, do b�
 - **Đại thể**: tử cung to hơn tuổi thai, mô rau biến thành túi nang nước nhỏ như chùm nho.
 - **Vi thể**: gai rau phồng to chứa dịch, hóa nang, phủ bởi lớp nguyên bào nuôi tăng sinh.
 - **Phân biệt**:
+
   - Toàn phần: không có mô phôi, gai rau đồng đều phồng nang.
   - Bán phần: có mô phôi/phôi thai, gai rau chỉ thoái hóa một phần, có cấu trúc nhung mao hỗn hợp.
 
 ## Diễn biến
 
 - Sau hút nạo:
+
   - 80% tự hồi phục.
   - 10–15% tiến triển thành thai trứng xâm lấn (invasive mole).
   - 5% tiến triển thành choriocarcinoma (u nguyên bào nuôi ác tính).
+
 - Thai trứng toàn phần có nguy cơ ác tính cao hơn Thai trứng bán phần.
 
 ## Chẩn đoán
@@ -50,29 +57,33 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 - **Nghén nặng**: buồn nôn, nôn ói do β-hCG rất cao.
 - **Triệu chứng hiếm**: cường giáp, tiền sản giật sớm, nang buồng trứng dạng luteoma.
 
-### Siêu âm
+### Cận lâm sàng
+
+#### Siêu âm
 
 - **Thai trứng toàn phần**: "tổ ong"/"bão tuyết" không thấy phôi, hình ảnh nhiều nang nước.
+  
   ![Hình ảnh siêu âm thai trứng toàn phần](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-toan-phan.png)
 
   _Hình ảnh siêu âm thai trứng toàn phần._
 
 - **Thai trứng bán phần**: hình ảnh nang nước không đồng nhất, có thể kèm túi thai hoặc phôi thoái hóa.
+  
   ![Hình ảnh siêu âm thai trứng bán phần](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-ban-phan.png)
 
   _Hình ảnh siêu âm thai trứng bán phần._
 
-### β-hCG
+#### β-hCG
 
 - Mức độ tăng rất cao ở Thai trứng toàn phần (> 100,000 mIU/mL).
 - Thai trứng bán phần thường thấp hơn nhưng vẫn vượt quá giới hạn thai bình thường.
 - Giá trị quan trọng nhất là theo dõi đồ thị giảm sau hút nạo.
 
-### Giải phẫu bệnh
+#### Giải phẫu bệnh
 
 - **Tiêu chuẩn vàng** bắt buộc để khẳng định chẩn đoán và loại trừ choriocarcinoma.
 
-### Xét nghiệm khác
+#### Xét nghiệm cơ bản
 
 - Công thức máu, nhóm máu Rh.
 - Chức năng gan (AST, ALT), thận (ure, creatinine).
@@ -84,7 +95,7 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 ### Nạo hút buồng tử cung
 
-- Mọi trường hợp thai trứng toàn phần hoặc thai trứng bán phần đều cần hút nạo kết hợp hút chân không.
+- **Mọi trường hợp** thai trứng toàn phần hoặc thai trứng bán phần đều cần hút nạo kết hợp hút chân không.
 - Chuẩn bị: kháng sinh dự phòng, mê tĩnh mạch, truyền dịch, misoprostol/nong cổ tử cung, oxytocin.
 - Nếu còn mô trứng sau 48–72 giờ, cần nạo lại.
 
@@ -96,6 +107,7 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 - **Chỉ cân nhắc cho nhóm nguy cơ cao** (Thai trứng toàn phần lớn, β-hCG > 100,000, siêu âm nghi ngờ xâm lấn).
 - Phác đồ thường dùng:
+  
   - MTX 5 ngày: MTX 0.4 mg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25 mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
   - MTX 8 ngày (MTX/FA): MTX 1 mg/kg hoặc MTX 50 mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0.1 mg/kg tiêm bắp hoặc uống 15mg sau liều MTX 24-30 giờ vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
   - Dacticin: 12 µg/kg (10-13 µg/kg) hoặc 0.5 mg/ngày tĩnh mạch x 5 ngày liên tục. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
@@ -111,14 +123,19 @@ Không sử dụng hóa trị khi:
 - **Tác dụng phụ gồm có**:
 
   - Nhiễm độc về huyết học và tủy xương như giảm bạch cầu, giảm 3 dòng tế bào, thiếu máu:
+  
     - Giảm bạch cầu dùng thuốc nâng bạch cầu (Filgrastim).
     - Truyền máu hồng cầu lắng, tiểu cầu.
+  
   - Nhiễm độc đường tiêu hóa như viêm niêm mạc miệng, viêm dạ dày, viêm ruột hoại tử:
+  
     - Nuôi bằng đường TM, ăn thức ăn lỏng, chia nhiều bữa nhỏ.
     - Kháng sinh, vitamin.
     - Truyền dịch và bù điện giải.
+  
   - Nhiễm độc da: rụng tóc, tăng dị ứng mẫn cảm.
   - Sử dụng kháng histamin và corticoid nếu có dị ứng:
+  
     - Ngưng hóa trị nếu men gan > 100IU/L.
     - Thuốc bảo vệ tế bào gan: Biphenyl dimethyl dicarrboxylat.
 
@@ -141,7 +158,7 @@ _Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh viện Từ Dũ._
 3. Giảm theo dõi nếu β-hCG về âm tính trong vòng 56 ngày.
 4. Theo dõi lâm sàng: siêu âm, khám phụ khoa, khảo sát di căn khi nghi.
 
-## Thai trứng khi có thai
+## Trong thai kỳ
 
 - Hiếm, chẩn đoán khi siêu âm thấy nang nước kèm túi thai bình thường.
 - Nếu không có di căn và NST thai bình thường, có thể tiếp tục theo dõi đến khi sinh.

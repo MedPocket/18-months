@@ -56,7 +56,7 @@ BV được chẩn đoán dựa trên lâm sàng và xét nghiệm thường quy
 
 ### Tiêu chuẩn Amsel
 
-:::note[Tiêu chuẩn chẩn đoán loạn khuẩn âm đạo theo Amsel]
+:::note[Tiêu chuẩn chẩn đoán loạn khuẩn âm đạo]
 
 Để chẩn đoán BV theo Amsel, cần có **ít nhất 3/4** tiêu chuẩn sau:
 
@@ -98,8 +98,8 @@ _Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0–10)._
 
 ### Tiêu chuẩn Từ Dũ
 
-:::note[Tiêu chuẩn chẩn đoán loạn khuẩn âm đạo theo Bệnh viện Từ Dũ]
-BV được chẩn đoán khi đủ **2/3** tiêu chuẩn sau:
+:::note[Tiêu chuẩn chẩn đoán loạn khuẩn âm đạo]
+Theo Bệnh viện Từ Dũ, BV được chẩn đoán khi đủ **2/3** tiêu chuẩn sau:
 
 1. **Lâm sàng**
 

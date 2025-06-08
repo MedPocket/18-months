@@ -11,8 +11,8 @@ Hội chứng buồng trứng đa nang (PCOS – Polycystic Ovary Syndrome) là 
 
 ## Chẩn đoán
 
-:::note[Tiêu chuẩn chẩn đoán theo Rotterdam 2003]
-Chẩn đoán khi có ≥ 2/3 tiêu chí:.
+:::note[Tiêu chuẩn chẩn đoán buồng trứng đa nang]
+Theo Rotterdam 2003, chẩn đoán khi có ≥ 2/3 tiêu chí:.
 
 1. **Rối loạn phóng noãn**: kinh thưa (> 35 ngày hoặc < 8 lần/năm).
 2. **Cường androgen**:
@@ -30,7 +30,7 @@ Nếu chỉ có hình ảnh buồng trứng đa nang mà không có triệu ch�
 - **Kháng insulin**: tăng insulin → tăng androgen.
 - **Tăng LH/FSH**: tần số và biên độ xung LH tăng.
 
-:::note[Tiêu chuẩn chẩn đoán hội chứng chuyển hóa ở phụ nữ hội chứng buồng trứng đa nang]
+:::note[Tiêu chuẩn chẩn đoán hội chứng chuyển hóa]
 
 Có 3 trong 5 tiêu chuẩn.
 
