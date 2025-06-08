@@ -163,12 +163,12 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
 - **Phác đồ ưu tiên** (tùy chọn 1 hoặc 2):
 
-  1. **Azithromycin 1 g uống liều duy nhất**
+  - **Azithromycin 1 g uống liều duy nhất**
 
      - Ưu điểm: thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%.
      - Thận trọng: có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
 
-  2. **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**
+  - **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**
 
      - Hiệu quả 97%.
      - Thận trọng: không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
@@ -184,15 +184,15 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
 - **Phác đồ ưu tiên**:
 
-  1. **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**.
-  2. **Azithromycin 1 g uống liều duy nhất** (ít ưu tiên hơn do hiệu quả ruột thấp hơn, đặc biệt lâm sàng ở rectal chlamydia).
+  - **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**.
+  - **Azithromycin 1 g uống liều duy nhất** (ít ưu tiên hơn do hiệu quả ruột thấp hơn, đặc biệt lâm sàng ở rectal chlamydia).
 
 #### Bệnh hột xoài (LGV)
 
 - **Phác đồ ưu tiên**:
 
-  1. **Doxycycline 100 mg uống 2 lần/ngày x 21 ngày**.
-  2. **Azithromycin 1 g uống 1 lần/tuần x 3 tuần** (nếu không tuân thủ được doxycycline).
+  - **Doxycycline 100 mg uống 2 lần/ngày x 21 ngày**.
+  - **Azithromycin 1 g uống 1 lần/tuần x 3 tuần** (nếu không tuân thủ được doxycycline).
 
 - **Phác đồ thay thế** (khi không thể dùng doxycycline hoặc azithromycin):
 
@@ -200,14 +200,14 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
 #### Chlamydia ở phụ nữ có thai
 
-- **Ưu tiên**:
+- **Phác đồ ưu tiên**:
 
   - **Azithromycin 1 g uống liều duy nhất** (an toàn, hiệu quả tốt).
   - **Amoxicillin 500 mg uống 3 lần/ngày x 7 ngày** (thay thế nếu dị ứng macrolide).
 
-- **Tránh**:
-
-  - **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây ảnh hưởng đến phát triển xương, răng thai nhi).
+:::caution
+Không sử dung **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây ảnh hưởng đến phát triển xương, răng thai nhi).
+:::
 
 #### Chlamydia ở trẻ sơ sinh
 
