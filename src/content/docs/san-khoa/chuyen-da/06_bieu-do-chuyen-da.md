@@ -28,10 +28,8 @@ Vì giai đoạn xóa mở cổ tử cung bao gồm hai pha liên tiếp, nên c
 
 ### Chẩn đoán
 
-Chuyển dạ tắc nghẽn là tình trạng có cản trở cơ học khiến thai không thể tiến triển qua đường sinh tự nhiên.
-
 :::note[Tiêu chuẩn chẩn đoán hội chứng tắc nghẽn]
-Khi có cản trở cơ học, thai nhi thường có các dấu hiệu:
+Chuyển dạ tắc nghẽn là tình trạng có cản trở cơ học khiến thai không thể tiến triển qua đường sinh tự nhiên. Khi có cản trở cơ học, thai nhi thường có các dấu hiệu:
 
 1. Cơn co tử cung dồn dập.
 2. Không có tiến triển ngôi thai.
@@ -52,8 +50,6 @@ Cơn co tử cung quá mạnh và dồn dập làm giảm lưu lượng máu t�
 
 #### Hội chứng vượt trở ngại – Dọa vỡ tử cung – Vỡ tử cung
 
-Cơn co mạnh làm phần thân tử cung dày lên, đoạn dưới mỏng đi, tạo thành vòng Bandl, đi kèm dấu hiệu Frommel (căng dây chằng tròn).
-
 :::note[Tiêu chuẩn chẩn đoán dọa vỡ tử cung]
 
 - Cơn co tử cung dồn dập.
@@ -63,7 +59,7 @@ Cơn co mạnh làm phần thân tử cung dày lên, đoạn dưới mỏng đi
 - Chồng xương sọ, bướu huyết thanh lớn.
   :::
 
-Nếu không xử trí, tử cung có thể bị xé toạc và thai rơi vào ổ bụng – một cấp cứu sản khoa nguy kịch.
+Cơn co mạnh làm phần thân tử cung dày lên, đoạn dưới mỏng đi, tạo thành vòng Bandl, đi kèm dấu hiệu Frommel (căng dây chằng tròn). Nếu không xử trí, tử cung có thể bị xé toạc và thai rơi vào ổ bụng – một cấp cứu sản khoa nguy kịch.
 
 #### Đường dò sinh dục
 
@@ -90,8 +86,7 @@ _Sản đồ WHO 1993._
 
 - **Đường báo động**: bắt đầu từ độ mở cổ tử cung 3 cm đến giờ thứ 8, tốc độ mở 1 cm/giờ. Nếu biểu đồ nằm bên phải đường này, nghĩa là cổ tử cung mở chậm, cần theo dõi sát.
 - **Đường hành động**: song song với đường báo động, cách 4 giờ về bên phải. Khi chạm đường này, cần can thiệp quyết đoán (không nhất thiết là mổ).
-
-Pha tiềm thời không được ghi trong sản đồ do khó xác định thời điểm bắt đầu. Việc ghi nhận diễn tiến được bắt đầu từ khi cổ tử cung mở ≥ 3 cm (model 1993).
+- Pha tiềm thời không được ghi trong sản đồ do khó xác định thời điểm bắt đầu. Việc ghi nhận diễn tiến được bắt đầu từ khi cổ tử cung mở ≥ 3 cm (model 1993).
 
 ### Cải tiến WHO 2002
 

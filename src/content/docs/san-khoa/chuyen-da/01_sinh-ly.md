@@ -37,13 +37,15 @@ _Cơn co Braxton-Hicks là những cơn co thưa, không đều, không gây đa
 
 ### Xóa mở cổ tử cung
 
-- **Xóa cổ tử cung**: Các thớ cơ dọc của thân tử cung co lại, kéo cổ tử cung lên trên, làm nó mỏng dần.
-- **Mở cổ tử cung**: Sự co rút các cơ tử cung kèm với sự tiến triển của ngôi thai và đầu ối tạo nên hiện tượng cổ tử cung giãn rộng ra.
+Đặc điểm của xóa mở cổ tử cung:
+
+- **Xóa cổ tử cung**: các thớ cơ dọc của thân tử cung co lại, kéo cổ tử cung lên trên, làm nó mỏng dần.
+- **Mở cổ tử cung**: sự co rút các cơ tử cung kèm với sự tiến triển của ngôi thai và đầu ối tạo nên hiện tượng cổ tử cung giãn rộng ra.
 
 Hiện tượng này xảy ra chủ yếu nhờ:
 
-- Cơn co tử cung: Động lực chính.
-- Đầu ối và ngôi thai: Hỗ trợ mở cổ tử cung, đặc biệt trong giai đoạn đầu.
+- Cơn co tử cung: động lực chính.
+- Đầu ối và ngôi thai: hỗ trợ mở cổ tử cung, đặc biệt trong giai đoạn đầu.
 
 Vòng thắt sinh lý nằm giữa thân và đoạn dưới tử cung, nếu chuyển dạ bị tắc nghẽn lâu dài, vòng này có thể trở thành vòng thắt Bandl – dấu hiệu bệnh lý.
 
@@ -120,9 +122,7 @@ Chuyển dạ là quá trình tương tác của 3 yếu tố chính – còn g�
    - Gồm khung chậu xương và phần mềm.
    - Tạo ra lực cản và ảnh hưởng đến sự tiến triển của ngôi thai.
 
-Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo dõi bằng biểu đồ chuyển dạ.
-
-**Nội dung cần theo dõi**:
+Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo dõi bằng biểu đồ chuyển dạ. **Nội dung cần theo dõi**:
 
 1. Cường độ và tần số cơn co tử cung.
 2. Mức độ xóa mở cổ tử cung.

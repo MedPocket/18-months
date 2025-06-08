@@ -95,7 +95,7 @@ _Thuốc tăng co tử cung và hồi phục tử cung._
 ### Carbetocin
 
 - **Cơ chế**: tương tự oxytocin, gắn thụ thể mạnh và kéo dài.
-- **Liều**: 100 µg tiêm bắp một lần sau sổ rau.
+- **Liều dùng**: 100 µg tiêm bắp một lần sau sổ rau.
 - **Thời gian bán hủy**: 40 phút; co tử cung kéo dài 1–2 giờ.
 - **Tác dụng phụ**: đau co tử cung, buồn nôn, bốc hỏa.
 
@@ -109,14 +109,14 @@ _Thuốc tăng co tử cung và hồi phục tử cung._
 ### Prostaglandin (Carboprost, Sulprostone)
 
 - **Cơ chế**: co cơ trơn tử cung, tăng trương lực cơ bản.
-- **Liều**: Carboprost 250 µg IM, có thể lặp lại; Sulprostone 5 IU tĩnh mạch.
+- **Liều dùng**: Carboprost 250 µg IM, có thể lặp lại; Sulprostone 5 IU tĩnh mạch.
 - **Chống chỉ định**: hen nặng, suy tim, tăng huyết áp nặng.
 - **Tác dụng phụ**: co thắt phế quản, tiêu chảy, buồn nôn, đau chỗ tiêm.
 
 ### Misoprostol (PGE₁)
 
 - **Cơ chế**: tăng co cơ tử cung, đồng thời làm chín cổ tử cung.
-- **Liều**: 400–800 µg đường uống/ngậm/trực tràng.
+- **Liều dùng**: 400–800 µg đường uống/ngậm/trực tràng.
 - **Ưu điểm**: rẻ, dễ bảo quản, nhiều đường dùng.
 - **Tác dụng phụ**: sốt, tiêu chảy, buồn nôn.
 

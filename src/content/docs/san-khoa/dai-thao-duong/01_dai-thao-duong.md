@@ -3,10 +3,6 @@ title: Đái tháo đường thai kỳ
 description: Định nghĩa, phân loại, sàng lọc, chẩn đoán, điều trị và theo dõi đái tháo đường trong thai kỳ.
 ---
 
-Theo Liên đoàn Sản – Phụ khoa Thế giới (FIGO), HIP (Hyperglycemia In Pregnancy) là thuật ngữ chung để chỉ mọi rối loạn chuyển hóa đường huyết xuất hiện trong thời kỳ mang thai, bao gồm cả đái tháo đường (ĐTĐ) đã có trước và mới khởi phát khi mang thai.
-
-## Định nghĩa
-
 Đái tháo đường là nhóm rối loạn chuyển hóa không đồng nhất, đặc trưng bởi tăng glucose huyết và/hoặc rối loạn dung nạp glucose do thiếu insulin, giảm tác dụng insulin hoặc cả hai.
 
 1. **Đái tháo đường type 1**
@@ -31,20 +27,20 @@ Theo Liên đoàn Sản – Phụ khoa Thế giới (FIGO), HIP (Hyperglycemia I
    - Phát hiện lần đầu trong thai kỳ, có thể ngay 3 tháng đầu.
 
 5. **Đái tháo đường thai kỳ (Gestational Diabetes Mellitus – GDM)**
+
    - Tăng glucose huyết mức độ nhẹ hơn tiêu chuẩn đái tháo đường rõ.
    - Phát hiện lần đầu trong thai kỳ, không có bằng chứng ĐTĐ trước đó.
    - Thường chẩn đoán sau 24–28 tuần.
 
 ## Phân loại
 
-HIP được chia hai nhóm chính:
-
-1. **Diabetes in Pregnancy (DIP)**
+1. **Đái tháo đường rõ (DIP)**
 
    - Đường huyết đói ≥ 126 mg/dL (7.0 mmol/L) hoặc bất kỳ ≥ 200 mg/dL (11.1 mmol/L) kèm triệu chứng tăng glucose huyết.
    - Xét nghiệm lần đầu trong thai kỳ, có thể ngay 3 tháng đầu.
 
-2. **Gestational Diabetes Mellitus (GDM)**
+2. **Đái tháo đường thai kỳ (GDM)**
+
    - Đường huyết đói 92–125 mg/dL (5.1–6.9 mmol/L) hoặc  
      đường huyết sau 2 giờ OGTT 75 g 153–199 mg/dL (8.5–11.0 mmol/L).
    - Phát hiện sau 24–28 tuần, không có tiền sử ĐTĐ trước mang thai.
@@ -81,7 +77,7 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 
 ## Sàng lọc và chẩn đoán
 
-### 3 tháng đầu (≤ 13+6 tuần)
+### 3 tháng đầu (≤ 13 tuần 6 ngày)
 
 - **Đánh giá nguy cơ** ngay lần khám đầu tiên.
 - **Nguy cơ cao** (≥ 1 yếu tố bảng trên) → Xét nghiệm glucose đói hoặc HbA1c ngay.
@@ -101,9 +97,12 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 - **OGTT 75 g chuẩn**
 
   - **Chuẩn bị**:
+
     - 3 ngày trước: chế độ ăn chứa ≥ 150 g glucid/ngày.
     - Nhịn đói ít nhất 8 giờ (chỉ được uống nước lọc).
+
   - **Quy trình**:
+
     - Lấy máu tĩnh mạch đo glucose lúc đói.
     - Uống dung dịch chứa 75 g glucose trong vòng 5 phút.
     - Lấy máu tĩnh mạch đo glucose sau 1 giờ và sau 2 giờ.
@@ -143,7 +142,9 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 - Dị tật bẩm sinh liên quan HbA1c mẹ > 6.5% trong 3 tháng đầu.
 - Nguy cơ lâu dài: béo phì, ĐTĐ type 2, chậm phát triển thần kinh.
 
-## Nguyên tắc điều trị
+## Điều trị
+
+### Nguyên tắc
 
 1. **Dinh dưỡng (Medical Nutrition Therapy – MNT)**
 
@@ -172,7 +173,7 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 
    _Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)._
 
-## Mục tiêu điều trị
+### Mục tiêu
 
 | Thời điểm     | Glucose (mg/dL) | Glucose (mmol/L) |
 | ------------- | --------------- | ---------------- |
@@ -189,15 +190,13 @@ _Đường huyết tương mao mạch mục tiêu._
 
 :::
 
-## Điều trị
-
 ### Ngoại trú
 
 - **Glucose mao mạch**: đo lúc đói + sau ăn 1–2 giờ, 1–2 lần/ngày, luân phiên các bữa.
 - **Theo dõi cử động thai**: đếm ≥ 10 cử động/2 giờ vào giai đoạn > 28 tuần.
 - **Khám kết hợp**: Sản – Nội tiết nếu không đạt mục tiêu sau 1–2 tuần MNT.
 
-### Dinh dưỡng & vận động
+### Không dùng thuốc
 
 - **Cá nhân hóa khẩu phần**: dựa trên kết quả OGTT và cân nặng hiện tại.
 - **Tài liệu hướng dẫn**: phát tờ rơi, sổ tay dinh dưỡng.

@@ -32,7 +32,7 @@ Việc tầm soát và dự phòng tiền sản giật là cực kỳ quan trọ
 
 - PAPP-A, PlGF.
 - Doppler động mạch tử cung.
-- Đo CRL (45–84 mm ↔ 11–13+6 tuần).
+- Đo CRL (45–84 mm ↔ 11–13 tuần 6 ngày).
 - Huyết áp động mạch trung bình: $\mathrm{HADMTT} = \frac{\mathrm{HATT} + 2 \times \mathrm{HATr}}{3}$
 - **Tính nguy cơ** theo [thuật toán của FMF (The Fetal Medicine Foundation)](https://fetalmedicine.org/research/assess/preeclampsia/first-trimester). Nguy cơ cao khi > 1/100.
 

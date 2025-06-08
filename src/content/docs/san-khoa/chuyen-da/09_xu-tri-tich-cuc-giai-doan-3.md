@@ -5,9 +5,9 @@ description: Xử trí tích cực giai đoạn 3 chuyển dạ — kỹ thuật
 
 Giai đoạn 3 của chuyển dạ từ khi thai sổ đến khi rau bong và cầm máu hoàn toàn. Nếu không can thiệp, rau bong tự nhiên theo 3 thì:
 
-1. **Bong rau**
-2. **Sổ rau**
-3. **Cầm máu**
+1. **Bong rau**.
+2. **Sổ rau**.
+3. **Cầm máu**.
 
 ## Sinh lý
 

@@ -31,7 +31,7 @@ Sợi collagen do nguyên bào sợi tạo ra giúp co vết thương từ ngày
 
 ### Giai đoạn trưởng thành (ngày 7 đến 1 năm)
 
-Mạng lưới collagen dày đặc hình thành sẹo, proteoglycan và acid hyaluronic giảm dần. Vết thương đạt 20 % độ bền sau 3 tuần và tối đa khoảng 70 % của mô bình thường.
+Mạng lưới collagen dày đặc hình thành sẹo, proteoglycan và acid hyaluronic giảm dần. Vết thương đạt 20% độ bền sau 3 tuần và tối đa khoảng 70% của mô bình thường.
 
 Trong nhiều tháng, collagen được tái định hướng và tái cấu trúc, mạch máu và tế bào giảm số lượng. Sẹo chuyển từ đỏ hồng sang nhạt và mỏng dần. Tốc độ tổng hợp collagen cao nhất 6–12 tháng sau khi tổn thương, sau đó vết sẹo ổn định với độ bền lâu dài.
 

@@ -15,10 +15,14 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 ## Theo dõi trẻ sơ sinh
 
 - **Hạ đường huyết sơ sinh**: thường xảy ra trong 2–24 giờ đầu.
+
   - Mục tiêu: duy trì glucose ≥ 45 mg/dL (2.5 mmol/L).
   - Xét nghiệm glucose mao mạch ngay trong 2 giờ đầu, sau đó 6 giờ và 12 giờ nếu vẫn có yếu tố nguy cơ.
+
 - **Thân nhiệt, tim mạch, hô hấp**: đo mỗi 4–6 giờ trong 24 giờ đầu.
+
   - Phát hiện sớm hội chứng suy hô hấp, hạ thân nhiệt, vàng da.
+
 - **Dinh dưỡng**: ưu tiên bú mẹ; nếu cần, bổ sung sữa công thức cho trẻ hạ đường huyết nặng hoặc không bú tốt.
 
 ## Theo dõi sản phụ

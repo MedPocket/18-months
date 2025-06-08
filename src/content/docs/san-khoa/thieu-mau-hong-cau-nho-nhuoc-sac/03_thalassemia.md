@@ -67,11 +67,12 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 
 - Thể nặng có thể không sống sót sau sinh.
 - Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.
+
   ![Thai phù trong hội chứng Bart](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thai-phu-trong-hoi-chung-Bart.png)
 
-_Thai phù trong hội chứng Hb Bart’s._
+  _Thai phù trong hội chứng Hb Bart’s._
 
-## Chẩn đoán và tầm soát
+## Tầm soát
 
 - Huyết đồ: Hb < 11 g/dL; MCV < 80 fL; MCH < 27 pg.
 - Định lượng ferritin: bình thường hoặc tăng → chuyển sang điện di Hb.
@@ -84,7 +85,7 @@ _Thai phù trong hội chứng Hb Bart’s._
 - Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.
 - Chẩn đoán trên thai: sinh thiết gai rau, chọc ối hoặc lấy máu cuống rốn nếu có nguy cơ cao.
 
-## Thai phụ β-thalassemia đồng hợp tử
+## Thai phụ mắc β-thalassemia
 
 - Đa chuyên khoa: sản khoa, huyết học, gây mê, nữ hộ sinh.
 - Duy trì Hb 10 g/dL bằng truyền máu định kỳ; kiểm soát ferritin < 1000 ng/mL.

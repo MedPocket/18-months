@@ -20,8 +20,8 @@ Tuổi thai tính theo tuần được chia như sau:
 
 Nguyên nhân sinh non chia làm hai nhóm chính:
 
-1. **Sinh non chỉ định** (20 %): do các chỉ định y khoa như tiền sản giật, nhau tiền đạo, thai chậm tăng trưởng nặng gây suy thai.
-2. **Sinh non tự phát** (80 %): thường do chuyển dạ sinh non hoặc vỡ ối non (PPROM - Preterm Premature Rupture Of Membranes).
+1. **Sinh non chỉ định** (20%): do các chỉ định y khoa như tiền sản giật, nhau tiền đạo, thai chậm tăng trưởng nặng gây suy thai.
+2. **Sinh non tự phát** (80%): thường do chuyển dạ sinh non hoặc vỡ ối non (PPROM - Preterm Premature Rupture Of Membranes).
 
 Các cơ chế bệnh sinh liên quan:
 
@@ -52,9 +52,9 @@ Các cơ chế bệnh sinh liên quan:
 - Thai dị tật.
 - Vỡ ối non.
 
-## Dự báo
+## Tiên lượng
 
-### Nguyên tắc đánh giá
+### Nguyên tắc
 
 - Xác định tuổi thai từ đầu thai kỳ.
 - Khám cổ tử cung bằng mỏ vịt, siêu âm hoặc qua tay (chú ý nguy cơ tách màng ối khi khám tay).
@@ -74,9 +74,9 @@ Khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do tách màng
 
   _Chiều dài cổ tử cung._
 
-- Tuần 19–23 + 6: nên khảo sát định kỳ.
+- Tuần 19–23 tuần 6 ngày: nên khảo sát định kỳ.
 - Tuần 24, nếu không triệu chứng mà cổ tử cung < 25 mm → nguy cơ sinh non tăng.
-- Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ 1 %.
+- Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ 1%.
 
 ### Hình dạng lỗ tử cung
 
@@ -129,7 +129,7 @@ Biểu hiện kèm: ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng 
 - Kháng sinh dự phòng GBS nếu cần.
 - Phối hợp bác sĩ sơ sinh.
 
-### Thuốc cắt cơn (tocolytics)
+### Thuốc cắt cơn
 
 | Nhóm thuốc                       | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                      | Lưu ý                                                                                                                            |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -156,7 +156,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 #### Ức đối vận với oxytocin
 
-- Antosiban (Tractocile) có cấu trúc mô phỏng peptide 9 của oxytocin. Đây là peptide tổng hợp có tác dụng đối kháng cạnh tranh với oxytocin, làm giảm tần số cơn gò và trương lực cơ tử cung, đồng thời gắn kết với các thụ thể vasopressin.
+- **Cơ chế**: Antosiban (Tractocile) có cấu trúc mô phỏng peptide 9 của oxytocin. Đây là peptide tổng hợp có tác dụng đối kháng cạnh tranh với oxytocin, làm giảm tần số cơn gò và trương lực cơ tử cung, đồng thời gắn kết với các thụ thể vasopressin.
 - **Chống chỉ định**:
 
   - Mẹ bị dị ứng với thuốc.
@@ -171,7 +171,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
   - **Bước 3**: Phần còn lại ở bước 2 (19 mL) truyền 8 mL/h. Sau đó pha lọ 3 (37.5 mg/5 mL) thành 50 mL Ringer lactate, truyền 8 mL/h. Thời gian dùng tối đa 45 giờ.
 
 - **Tác dụng phụ** thường nhẹ: buồn nôn, nhức đầu, chóng mặt, bừng nóng, nôn, nhịp tim nhanh, dị ứng thuốc.
-- **Theo dõi tim thai và cơn gò** trên monitor trong 1 giờ đầu điều trị.
+- **Theo dõi**: tim thai và cơn gò trên monitor trong 1 giờ đầu điều trị.
 
 #### Ức chế calcium
 
@@ -221,13 +221,11 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 - **Liều dùng**:
 
   - Hạn chế dịch truyền nhất ở song thai hoặc đang dùng corticosteroids.
-  - Pha 5 mg Salbutamol/5 mL trong 95 mL NaCl 0.9 %; truyền 12 mL/h (10 µg/phút), tăng 4 mL/h mỗi 30 phút đến khi cắt cơn hoặc mẹ đạt nhịp tim ≥ 120 lần/phút hoặc tối đa 36 mL/h.
-  - Có thể truyền TM pha 5 mg Salbutamol/5 mL trong dung dịch glucose 5 % (10 µg/mL), tốc độ 60 mL/h (10 µg/phút), tăng 20 mL/h mỗi 30 phút đến khi cắt cơn hoặc nhịp tim mẹ ≥ 120 lần/phút hoặc tối đa 180 mL/h.
-
-- **Thời gian điều trị**:
-
-  - Đường TM: 24–48 giờ.
+  - Pha 5 mg Salbutamol/5 mL trong 95 mL NaCl 0.9%; truyền 12 mL/h (10 µg/phút), tăng 4 mL/h mỗi 30 phút đến khi cắt cơn hoặc mẹ đạt nhịp tim ≥ 120 lần/phút hoặc tối đa 36 mL/h.
+  - Có thể truyền TM pha 5 mg Salbutamol/5 mL trong dung dịch glucose 5% (10 µg/mL), tốc độ 60 mL/h (10 µg/phút), tăng 20 mL/h mỗi 30 phút đến khi cắt cơn hoặc nhịp tim mẹ ≥ 120 lần/phút hoặc tối đa 180 mL/h.
+  - **Thời gian điều trị**: đường TM: 24–48 giờ.
   - Duy trì uống/đặt:
+
     - Ventolin 2 viên × 4–6 viên/ngày.
     - Salbutamol 1 viên × 1–3 viên/ngày (đặt hậu môn).
 
@@ -243,6 +241,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 - Dự phòng hội chứng suy hô hấp cấp ở sơ sinh.
 - **Chỉ định**: sinh non dự kiến 24–34 tuần, có nguy cơ trong 7 ngày.
 - **Liều dùng**:
+
   - Betamethasone 12 mg bắp × 2 liều cách 24 giờ.
   - Hoặc dexamethasone 6 mg bắp × 4 liều cách 12 giờ.
   - Xem xét lặp lại sau 7–14 ngày nếu còn nguy cơ và < 34 tuần.
@@ -255,14 +254,13 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
   - Thai 24–31 + 6 tuần có nguy cơ sinh non trong 24 giờ.
   - Dùng lý tưởng 4 giờ trước sinh khi có chỉ định chấm dứt thai kỳ.
 
-- **Liều**:
+- **Chống chỉ định**: mẹ bị nhược cơ.
+- **Thận trọng**: mẹ có bệnh cơ tim hoặc rối loạn dẫn truyền nhịp.
+- **Liều dùng**:
 
   - MgSO₄ 4.5 g truyền TM chậm 20–30 phút.
   - Giảm liều nếu thiểu niệu hoặc suy thận.
   - Không phối hợp với thuốc cắt cơn.
-
-- **Chống chỉ định**: mẹ bị nhược cơ.
-- **Thận trọng**: mẹ có bệnh cơ tim hoặc rối loạn dẫn truyền nhịp.
 
 ## Dự phòng
 

@@ -7,12 +7,12 @@ Cắt sữa (ức chế tiết sữa) là biện pháp cần thiết khi ngườ
 
 ## Phương pháp không dùng thuốc
 
-- **Giảm dần tần suất cho bú**: Giảm 1 lần bú hoặc vắt sữa mỗi ngày cho đến khi ngừng hoàn toàn.
-- **Giảm dần lượng sữa vắt**: Nếu vẫn vắt, giảm từng phần lượng sữa vắt ra và giảm số lần vắt.
-- **Chườm lạnh**: Dùng khăn lạnh hoặc túi đá bọc vải, 10–15 phút mỗi lần để giảm căng tức và tiết sữa.
-- **Áo ngực ép nhẹ**: Mặc áo ngực ôm vừa phải, không quá chặt để tránh giảm lưu thông máu.
-- **Massage nhẹ**: Xoa nhẹ vùng vú theo vòng tròn nhỏ để giảm đau mà không kích thích tiết sữa.
-- **Hạn chế kích thích tiết sữa**: Uống nhiều nước, tránh caffeine và thảo mộc kích thích prolactin.
+- **Giảm dần tần suất cho bú**: giảm 1 lần bú hoặc vắt sữa mỗi ngày cho đến khi ngừng hoàn toàn.
+- **Giảm dần lượng sữa vắt**: nếu vẫn vắt, giảm từng phần lượng sữa vắt ra và giảm số lần vắt.
+- **Chườm lạnh**: dùng khăn lạnh hoặc túi đá bọc vải, 10–15 phút mỗi lần để giảm căng tức và tiết sữa.
+- **Áo ngực ép nhẹ**: mặc áo ngực ôm vừa phải, không quá chặt để tránh giảm lưu thông máu.
+- **Massage nhẹ**: xoa nhẹ vùng vú theo vòng tròn nhỏ để giảm đau mà không kích thích tiết sữa.
+- **Hạn chế kích thích tiết sữa**: uống nhiều nước, tránh caffeine và thảo mộc kích thích prolactin.
 
 ## Phương pháp dùng thuốc
 

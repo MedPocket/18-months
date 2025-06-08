@@ -51,6 +51,7 @@ Chủ yếu dựa vào siêu âm:
 | **AFI** | 25–30 cm  | 30.1–35 cm | > 35 cm |
 | **SDP** | 8–11.9 cm | 12–15.9 cm | ≥ 16 cm |
 
+_Mức độ đa ối._
 :::
 
 - Bề cao tử cung lớn hơn tuổi thai, dấu hiệu quá tải (khó thở, tim nhanh), sờ bụng có "sóng vỗ", thăm âm đạo thấy "cục đá".
@@ -81,7 +82,7 @@ Chủ yếu dựa vào siêu âm:
 - < 34 tuần: tái khám mỗi 2 tuần, đo chiều dài cổ tử cung, cân nhắc corticosteroids trước sinh.
 - ≥ 34 tuần: siêu âm Doppler, non-stress test mỗi tuần.
 
-### Tiêu chuẩn nhập viện
+### Nhập viện
 
 - Biểu hiện quá tải dịch.
 - Dọa đẻ non.

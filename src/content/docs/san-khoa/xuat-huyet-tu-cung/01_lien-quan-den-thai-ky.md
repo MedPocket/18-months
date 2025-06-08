@@ -14,13 +14,13 @@ Xuất huyết âm đạo ở phụ nữ mang thai (xuất huyết tử cung li�
 
 Các kiểu xuất huyết có thể nhẹ hoặc nặng, thỉnh thoảng hoặc liên tục, có thể kèm hoặc không kèm đau bụng. Bốn nhóm nguyên nhân chính (không tính chấn thương) gồm:
 
-1. **Sẩy thai (Miscarriage) chiếm khoảng 15–20%**
+1. **Sảy thai (Miscarriage) chiếm khoảng 15–20%**
 
-   - **Dọa sẩy thai (Threatened abortion)**: chảy máu nhẹ, cổ tử cung đóng, thai còn sống.
-   - **Sẩy thai khó tránh (Inevitable abortion)**: chảy máu nhiều, có đau co tử cung, cổ tử cung mở.
-   - **Sẩy thai không trọn (Incomplete abortion)**: mô nhau hoặc thai còn sót, cổ tử cung mở.
-   - **Sẩy thai trọn (Complete abortion)**: tất cả mô thai đã được tống ra, cổ tử cung đóng lại.
-   - **Sẩy thai lưu (Missed abortion)**: thai đã mất nhưng chưa được tống ra, thường không đau bụng.
+   - **Dọa sảy thai (Threatened abortion)**: chảy máu nhẹ, cổ tử cung đóng, thai còn sống.
+   - **Sảy thai khó tránh (Inevitable abortion)**: chảy máu nhiều, có đau co tử cung, cổ tử cung mở.
+   - **Sảy thai không trọn (Incomplete abortion)**: mô nhau hoặc thai còn sót, cổ tử cung mở.
+   - **Sảy thai trọn (Complete abortion)**: tất cả mô thai đã được tống ra, cổ tử cung đóng lại.
+   - **Sảy thai lưu (Missed abortion)**: thai đã mất nhưng chưa được tống ra, thường không đau bụng.
 
 2. **Thai ngoài tử cung (Ectopic pregnancy)**
 
@@ -35,7 +35,7 @@ Các kiểu xuất huyết có thể nhẹ hoặc nặng, thỉnh thoảng hoặ
 4. **Xuất huyết do làm tổ của phôi (Implantation bleeding)**
 
    - Xảy ra khoảng 6–12 ngày sau thụ tinh, thường là vết máu hồng nhạt, ngắn ngày.
-   - Là hiện tượng sinh lý nhưng có thể bị nhầm với sẩy thai.
+   - Là hiện tượng sinh lý nhưng có thể bị nhầm với sảy thai.
 
 5. **Các nguyên nhân không do thai kỳ**
 
@@ -44,10 +44,10 @@ Các kiểu xuất huyết có thể nhẹ hoặc nặng, thỉnh thoảng hoặ
 
 ### Trong 3 tháng giữa và 3 tháng cuối thai kỳ
 
-Sau 13+6 tuần, các nguyên nhân chính gồm:
+Sau 13 tuần 6 ngày, các nguyên nhân chính gồm:
 
 - **Chuyển dạ sớm do hở eo tử cung (Cervical insufficiency)**: Cổ tử cung không chịu được sức nặng của thai, thường trong giai đoạn 14–24 tuần, gây chảy máu không đau hoặc đau ít, có thể dẫn đến sinh non.
-- **Sẩy thai muộn (Late miscarriage)**: Sẩy thai sau 14 tuần và trước 20 tuần, cơ chế tương tự sẩy thai sớm nhưng cần phân biệt với chuyển dạ non.
+- **Sảy thai muộn (Late miscarriage)**: Sảy thai sau 14 tuần và trước 20 tuần, cơ chế tương tự sảy thai sớm nhưng cần phân biệt với chuyển dạ non.
 - **Dọa sinh non (Preterm labor)**: Chuẩn bị chuyển dạ trước 37 tuần, chảy máu kèm co thắt tử cung.
 - **Rau tiền đạo (Placenta praevia)**: Rau bám thấp che lỗ trong cổ tử cung, chảy máu đỏ tươi không đau, thường xảy ra sau 28 tuần.
 - **Rau bong non (Placental abruption)**: Rau bong trước khi chuyển dạ, chảy máu kèm đau bụng dữ dội, tử cung căng cứng.

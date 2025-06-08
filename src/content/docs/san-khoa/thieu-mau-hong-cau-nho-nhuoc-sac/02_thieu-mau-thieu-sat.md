@@ -5,7 +5,7 @@ description: Nguyên nhân, hệ quả, chẩn đoán, điều trị và dự ph
 
 Thiếu máu thiếu sắt trong thai kỳ là tình trạng rất phổ biến, chiếm khoảng 40–50% các ca thiếu máu ở phụ nữ mang thai, và là nguyên nhân hàng đầu gây mệt mỏi, sinh non, nhẹ cân và băng huyết sau sinh nếu không được chẩn đoán và điều trị kịp thời.
 
-## Hệ quả
+## Hậu quả
 
 | Đối tượng                 | Thiếu máu thiếu sắt                                                                                                                          | Thiếu máu thiếu acid folic                                                                                                                                    |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |

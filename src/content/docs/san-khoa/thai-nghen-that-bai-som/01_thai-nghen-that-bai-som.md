@@ -18,8 +18,6 @@ Thai nghén thất bại sớm không bao gồm thai sinh hóa.
 
 ## Chẩn đoán
 
-Triệu chứng lâm sàng thường bao gồm ra **huyết âm đạo** và **đau bụng âm ỉ**.
-
 :::note[Tiêu chuẩn chẩn đoán thai nghén thất bại sớm]
 The Society of Radiologists in Ultrasound Multispecialty Panel chẩn đoán thai kỳ thất bại khi siêu âm qua đường âm đạo đáp ứng ≥1 tiêu chí sau:
 
@@ -28,9 +26,10 @@ The Society of Radiologists in Ultrasound Multispecialty Panel chẩn đoán tha
 3. Không có phôi có nhịp tim sau ≥ 14 ngày kể từ khi siêu âm thấy túi thai không có túi noãn hoàng.
 4. Không có phôi có nhịp tim sau ≥ 11 ngày kể từ khi siêu âm thấy túi thai có túi noãn hoàng.
 
+**Tiêu chuẩn rõ nhất là CRL ≥ 7 mm không thấy tim thai**. Nếu CRL < 7 mm và không thấy tim, phải chờ tái siêu âm.
 :::
 
-**Tiêu chuẩn rõ nhất là CRL ≥ 7 mm không thấy tim thai**. Nếu CRL < 7 mm và không thấy tim, phải chờ tái siêu âm.
+Triệu chứng lâm sàng thường bao gồm ra **huyết âm đạo** và **đau bụng âm ỉ**.
 
 ![Thai ngưng phát triển](../../../../assets/san-khoa/thai-nghen-that-bai-som/thai-ngung-phat-trien.png)  
 _Thai ngưng phát triển: phôi với CRL ≥ 7 mm không có tim phôi (xác nhận bằng phổ Doppler)._
@@ -56,10 +55,10 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 ## Phân loại
 
 - Thai chết lưu (missed miscarriage).
-- Dọa sẩy thai lưu (threatened miscarriage).
-- Sẩy thai khó tránh (inevitable miscarriage).
-- Sẩy thai không trọn (incomplete miscarriage).
-- Sẩy thai trọn (complete miscarriage).
+- Dọa sảy thai lưu (threatened miscarriage).
+- Sảy thai khó tránh (inevitable miscarriage).
+- Sảy thai không trọn (incomplete miscarriage).
+- Sảy thai trọn (complete miscarriage).
 
 ### Thai lưu
 
@@ -72,7 +71,7 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 
 - **Không dùng β-hCG để chẩn đoán thai lưu** vì không phản ánh tính sinh tồn của phôi.
 
-### Dọa sẩy thai lưu
+### Dọa sảy thai lưu
 
 - Nguyên nhân thường là **bất thường nhiễm sắc thể** và khó ngăn chặn sự phát triển thành thai lưu.
 - **Ra máu, đau bụng, cổ tử cung đóng**.
@@ -87,42 +86,42 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 
   ![Túi ối nhỏ](../../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-tui-oi-nho.png)
 
-  _Doạ sẩy thai lưu: túi thai rất nhỏ, hiệu (MSD-CRL) <5mm. Túi thai rất nhỏ, (MSD-CRL) <5mm, có tụ máu dưới màng đệm._
+  _Doạ sảy thai lưu: túi thai rất nhỏ, hiệu (MSD-CRL) <5mm. Túi thai rất nhỏ, (MSD-CRL) <5mm, có tụ máu dưới màng đệm._
 
   ![Túi ối giãn](../../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-tui-oi-gian.png)
 
-  _Doạ sẩy thai lưu: xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm._
+  _Doạ sảy thai lưu: xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm._
 
-### Sẩy thai khó tránh
+### Sảy thai khó tránh
 
 - **Ra máu kèm mở cổ tử cung** khi thai vẫn còn trong buồng tử cung.
 - Cần phân biệt với thai ngoài tử cung ở cổ tử cung bằng β-hCG và siêu âm.
 
-  ![Sẩy thai khó tránh](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-kho-tranh.png)
+  ![Sảy thai khó tránh](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-kho-tranh.png)
 
-  _Sẩy thai khó tránh: thai vẫn nằm trong cổ tử cung, cổ tử cung mở._
+  _Sảy thai khó tránh: thai vẫn nằm trong cổ tử cung, cổ tử cung mở._
 
-### Sẩy thai không trọn
+### Sảy thai không trọn
 
 - Ra huyết rỉ rả, đau quặn bụng, cổ tử cung hé mở, siêu âm thấy khối echo hỗn hợp trong lòng tử cung.
 
-  ![Sẩy thai không trọn](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-khong-tron.png)
+  ![Sảy thai không trọn](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-khong-tron.png)
 
-  _Sẩy thai không trọn: Cấu trúc echo hỗn hợp trong buồng tử cung._
+  _Sảy thai không trọn: Cấu trúc echo hỗn hợp trong buồng tử cung._
 
-### Sẩy thai trọn
+### Sảy thai trọn
 
 - Hoàn toàn tống xuất mô thai, cổ tử cung đóng, siêu âm buồng tử cung rỗng hoặc chỉ có ít dịch.
 
-  ![Sẩy thai trọn](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-tron.jpeg)
+  ![Sảy thai trọn](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-tron.jpeg)
 
-  _Lòng tử cung trống sau sẩy thai trọn._
+  _Lòng tử cung trống sau sảy thai trọn._
 
 ## Điều trị
 
 Có 3 lựa chọn chính:
 
-1. Theo dõi diễn tiến. Phù hợp sẩy thai không trọn, tỷ lệ thành công 90% nhưng thời gian kéo dài.
+1. Theo dõi diễn tiến. Phù hợp sảy thai không trọn, tỷ lệ thành công 90% nhưng thời gian kéo dài.
 2. Điều trị nội khoa bằng misoprostol. Khuyến cáo 800 µg đặt âm đạo khởi đầu, có thể lặp lại nếu cần.
 3. Hút lòng tử cung. Thực hiện nhanh, ít mất máu, nhưng có nguy cơ thủng tử cung và nhiễm trùng.
 

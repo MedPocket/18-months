@@ -36,7 +36,7 @@ Thiểu ối là tình trạng dịch ối ít hơn so với tuổi thai tương
 Chủ yếu dựa vào siêu âm:
 
 - Chỉ số ối (Amniotic Fluid Index – AFI) ≤ 5 cm.
-- Xoang ối lớn nhất (Single Deepest Pocket – SDP) ≤ 2 cm.
+- Khoang ối lớn nhất (Single Deepest Pocket – SDP) ≤ 2 cm.
 - SDP ≤ 1 cm là thiểu ối nặng (tương đương AFI ≤ 3 cm).
 
 :::
@@ -57,6 +57,7 @@ Chủ yếu dựa vào siêu âm:
 
 - Tư vấn tình trạng thai.
 - Truyền ối khi có chỉ định:
+
   - Tuổi thai > 16 tuần.
   - Lấy ối làm xét nghiệm nhiễm sắc thể, TORCH...
   - Hỗ trợ siêu âm tầm soát hình thái học thai nhi.
@@ -65,11 +66,16 @@ Chủ yếu dựa vào siêu âm:
 
 - Tư vấn tình trạng thai.
 - Chấm dứt thai kỳ:
+
   - SDP ≤ 1 cm:
+
     - ≥ 34 tuần: mổ lấy thai.
     - < 34 tuần: điều trị chờ chuyển dạ.
+
   - 1 ≤ SDP ≤ 2 cm: thai ≥ 37 tuần sinh thường hoặc mổ lấy thai.
+
 - Liệu pháp corticosteroids:
+
   - Thường quy từ 28 tuần đến 33 tuần 6 ngày.
   - Cân nhắc với trường hợp 24–27 tuần 6 ngày.
 

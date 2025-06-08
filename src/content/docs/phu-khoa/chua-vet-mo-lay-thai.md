@@ -46,7 +46,7 @@ Chửa ở vết mổ lấy thai là một dạng thai ngoài tử cung hiếm g
 ### Chẩn đoán phân biệt
 
 - Thai trong buồng tử cung.
-- Sẩy thai không hoàn toàn (thai tụt qua sẹo).
+- Sảy thai không hoàn toàn (thai tụt qua sẹo).
 - Thai ở cổ tử cung (phân biệt bằng siêu âm màu – không có mạch máu quanh khối):
 
   | Tiêu chuẩn lâm sàng                        | Tiêu chuẩn siêu âm                                           |
@@ -54,7 +54,7 @@ Chửa ở vết mổ lấy thai là một dạng thai ngoài tử cung hiếm g
   | **Tử cung nhỏ, cổ phình to**               | Buồng tử cung trống, nội mạc giả dạng màng rụng              |
   | **Lỗ trong cổ tử cung không mở**           | Có túi thai trong kênh cổ tử cung                            |
   | **Nạo nội mạc không thấy mô nhau**         | Cổ tử cung hình "đồng hồ cát", có mô nhau ở cổ tử cung trong |
-  | **Lỗ ngoài cổ tử cung mở to hơn sẩy thai** | Lỗ trong đóng kín                                            |
+  | **Lỗ ngoài cổ tử cung mở to hơn sảy thai** | Lỗ trong đóng kín                                            |
 
   _Phân biệt với thai ở cổ tử cung._
 

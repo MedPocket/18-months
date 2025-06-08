@@ -22,7 +22,7 @@ Bệnh nguyên bào nuôi thai kỳ (GTD) là nhóm bệnh có sự tăng sinh b
     - β-hCG kéo dài hoặc tăng sau hút nạo.
   - **Ung thư nguyên bào nuôi (Choriocarcinoma)**
     - Không còn mô gai rau; toàn tế bào nuôi thể trung tâm và tế bào nuôi thể lá.
-    - Xuất hiện sau thai trứng, sẩy thai, sinh non hoặc có thể sau thai bình thường.
+    - Xuất hiện sau thai trứng, sảy thai, sinh non hoặc có thể sau thai bình thường.
     - Khả năng di căn rất cao (phổi, não, gan).
   - **U nguyên bào nuôi nơi rau bám (Placental Site Trophoblastic Tumor – PSTT)**
     - Phát sinh từ tế bào nuôi làm tổ tại điểm bám rau; β-hCG thường thấp.

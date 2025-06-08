@@ -10,7 +10,7 @@ Nguồn gốc bánh rau:
 
 Rau thường bám ở 1/3 trên của buồng tử cung (thành trước hoặc thành sau).
 
-## Sự hình thành
+## Nguồn gốc
 
 ### Từ phía thai
 

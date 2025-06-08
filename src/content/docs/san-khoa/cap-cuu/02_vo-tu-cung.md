@@ -40,7 +40,7 @@ Có 2 tình huống vỡ tử cung:
 
 - Biểu hiện lâm sàng nghèo nàn, thường chỉ là bất thường trên EFM.
 
-## Hướng xử trí
+## Điều trị
 
 - Phẫu thuật khẩn cấp ngay khi nghi ngờ vỡ tử cung.
 - Nếu hội chứng vượt trở ngại mà tử cung chưa vỡ: ngậm nitroglycerine dưới lưỡi để giảm co, tránh vỡ và cải thiện tưới máu thai khi chuyển phòng mổ.

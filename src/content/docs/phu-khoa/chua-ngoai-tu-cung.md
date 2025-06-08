@@ -58,7 +58,7 @@ _Các vị trí chửa ngoài tử cung._
 - **Hút/nạo buồng tử cung**:
 
   - Thực hiện nếu không thấy vị trí thai rõ ràng.
-  - Mô bệnh học thấy gai nhau → sẩy thai sớm.
+  - Mô bệnh học thấy gai nhau → sảy thai sớm.
   - Không thấy gai nhau và β-hCG không giảm → nghi CNTC.
 
 ### Tại ống dẫn trứng đã vỡ

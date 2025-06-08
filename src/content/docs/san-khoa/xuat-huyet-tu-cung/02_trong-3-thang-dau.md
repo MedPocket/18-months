@@ -1,11 +1,11 @@
 ---
 title: Xuất huyết tử cung trong 3 tháng đầu thai kỳ
-description: Xuất huyết âm đạo bất thường trong 3 tháng đầu thai kỳ, có thể do các tình trạng từ lành tính (xuất huyết làm tổ) đến nguy hiểm (sẩy thai, thai ngoài tử cung, bệnh nguyên bào nuôi). Cần phân loại và khai thác kỹ thông tin lâm sàng, sử dụng siêu âm và định lượng β-hCG để chẩn đoán và xử trí kịp thời.
+description: Xuất huyết âm đạo bất thường trong 3 tháng đầu thai kỳ, có thể do các tình trạng từ lành tính (xuất huyết làm tổ) đến nguy hiểm (sảy thai, thai ngoài tử cung, bệnh nguyên bào nuôi). Cần phân loại và khai thác kỹ thông tin lâm sàng, sử dụng siêu âm và định lượng β-hCG để chẩn đoán và xử trí kịp thời.
 ---
 
 Nguyên nhân chính của xuất huyết tử cung bất thường trong 3 tháng đầu thai kỳ (không liên quan đến chấn thương) gồm:
 
-1. **Sẩy thai**: chiếm khoảng 15–20% trường hợp chảy máu 3 tháng đầu, bao gồm dọa sẩy, sẩy khó tránh, không trọn, trọn và lưu.
+1. **Sảy thai**: chiếm khoảng 15–20% trường hợp chảy máu 3 tháng đầu, bao gồm dọa sảy, sảy khó tránh, không trọn, trọn và lưu.
 2. **Thai ngoài tử cung**: chiếm khoảng 2% các trường hợp, thường ở vòi tử cung; vỡ có thể gây chảy máu ổ bụng nguy hiểm.
 3. **Bệnh nguyên bào nuôi**: gồm trứng trống (hydatidiform mole) và choriocarcinoma, thường có nồng độ β-hCG rất cao.
 4. **Thai làm tổ của phôi**: thường xuất hiện 6–12 ngày sau thụ tinh, lượng máu ít, màu hồng nhạt.
@@ -17,7 +17,7 @@ Nguyên nhân chính của xuất huyết tử cung bất thường trong 3 thá
 
 - **Tiền sử sản khoa** (số lần mang thai, diễn biến và kết cục mỗi thai kỳ, các can thiệp ngoại khoa hoặc nội khoa trước đó).
 - **Tiền sử sinh non**: sinh non tự phát với tuổi thai thay đổi có thể gợi ý hở eo tử cung hoặc dị dạng tử cung.
-- **Tiền sử sẩy thai liên tiếp**: tăng nguy cơ sẩy thai tái phát nếu chưa khảo sát di truyền, tự miễn (hội chứng kháng phospholipid) và bệnh lý tử cung.
+- **Tiền sử sảy thai liên tiếp**: tăng nguy cơ sảy thai tái phát nếu chưa khảo sát di truyền, tự miễn (hội chứng kháng phospholipid) và bệnh lý tử cung.
 - **Tiền sử thai ngoài tử cung**: chi tiết phương pháp điều trị, di chứng nhiễm trùng hoặc phẫu thuật vùng chậu.
 - Tiền sử hỗ trợ sinh sản và tránh thai hoặc có thai sau hỗ trợ sinh sản (nguy cơ heterotopic pregnancy), hoặc sau tránh thai khẩn cấp thất bại (tăng nguy cơ thai ngoài tử cung).
 - **Tiền sử kinh nguyệt**: chu kỳ gần nhất, tính chất và thời gian hành kinh để phân biệt với chảy máu cơ năng.
@@ -36,7 +36,9 @@ Nguyên nhân chính của xuất huyết tử cung bất thường trong 3 thá
 - Khám âm đạo và cổ tử cung: xác định kích thước tử cung, tính tương thích với tuổi thai, tình trạng mở cổ tử cung, khối cạnh tử cung, túi cùng sau.
 - Quan sát mô được tống ra: đánh giá mô thai, máu cục hoặc tổ chức viêm.
 
-### Siêu âm
+### Cận lâm sàng
+
+#### Siêu âm
 
 Siêu âm qua đường âm đạo (TVS) là phương pháp sơ cấp, ưu thế về độ phân giải, giúp phát hiện:
 
@@ -45,7 +47,7 @@ Siêu âm qua đường âm đạo (TVS) là phương pháp sơ cấp, ưu thế
 
 Nếu TVS **không thấy túi thai ở tuổi siêu âm 5.5–6 tuần**, cần xem xét thêm thai ngoài tử cung hoặc khảo sát bổ sung. TVS còn giúp chẩn đoán thai trứng với hình ảnh "tổ ong" và đánh giá các dạng bệnh nguyên bào nuôi.
 
-### β-hCG
+#### β-hCG
 
 - Là biện pháp tiếp cận thứ cấp.
 - **Diễn biến β-hCG**: mức tăng gấp đôi sau 48 giờ ở thai bình thường.

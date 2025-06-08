@@ -59,7 +59,7 @@ Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng *
 - Chuyển dạ, mổ lấy thai.
 - Bỏ điều trị thuốc kháng giáp.
 
-### Đặc điểm
+### Chẩn đoán
 
 - Tăng thân nhiệt, nhịp tim nhanh.
 - Vã mồ hôi, mất nước nặng.

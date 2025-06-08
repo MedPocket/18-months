@@ -61,7 +61,7 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
 - **Tiền sử sản khoa – tình dục**
 
   - Hoạt động tình dục, phương thức tránh thai (đặc biệt dụng cụ tử cung), đánh giá nguy cơ STI.
-  - Tiền sử sẩy thai, nong nạo, nạo hút buồng tử cung, chấn thương, can thiệp phụ khoa.
+  - Tiền sử sảy thai, nong nạo, nạo hút buồng tử cung, chấn thương, can thiệp phụ khoa.
 
 - **Tiền sử bệnh lý hệ thống và nội tiết**
 

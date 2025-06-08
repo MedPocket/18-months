@@ -15,16 +15,11 @@ Suy giáp trong thai kỳ là tình trạng tuyến giáp hoạt động kém, s
 
 Tăng TSH, giảm FT₄, có thể giảm FT₃.
 
-## Điều trị
-
-- **Levothyroxine**, chỉnh liều dựa trên TSH (mỗi 4 tuần).
-- Mục tiêu giữ TSH trong ngưỡng thấp bình thường theo từng tam cá nguyệt.
-
 ## Biến chứng
 
 - Thiếu hormone tuyến giáp trong thai kỳ và giai đoạn sơ sinh sớm gây ảnh hưởng lớn đến sự phát triển thần kinh, đặc biệt là trong **3 năm đầu đời**. Nếu không điều trị nguy cơ:
 
-  - Sẩy thai.
+  - Sảy thai.
   - Tiền sản giật.
   - Thai lưu.
   - Thai nhẹ cân.
@@ -38,6 +33,11 @@ Tăng TSH, giảm FT₄, có thể giảm FT₃.
 
     - Dạng bướu giáp do iod: to, dễ gây tắc nghẽn.
     - Dạng do PTU: thường không quá lớn.
+
+## Điều trị
+
+- **Levothyroxine**, chỉnh liều dựa trên TSH (mỗi 4 tuần).
+- Mục tiêu giữ TSH trong ngưỡng thấp bình thường theo từng tam cá nguyệt.
 
 ## Nguồn tham khảo
 

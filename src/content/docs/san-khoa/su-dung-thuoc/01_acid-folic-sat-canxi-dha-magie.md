@@ -12,7 +12,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 ## Acid Folic (Folate)
 
 - Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydrofolate – dạng hoạt động sinh học) có vai trò thiết yếu trong quá trình tạo mới tế bào và tổng hợp DNA:
-- **Vai trò**
+- **Vai trò**:
 
   - Ngăn ngừa dị tật ống thần kinh (nứt đốt sống, não úng thủy).
   - Hỗ trợ phát triển não bộ và tủy sống thai nhi.
@@ -20,11 +20,12 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
   - Tăng cường chức năng tim mạch và thần kinh.
   - Hỗ trợ phân chia tế bào, tạo máu và hình thành nhau thai.
 
-- **Tác dụng phụ**
+- **Tác dụng phụ**:
 
   - Hiếm gặp; liều rất cao có thể che giấu thiếu hụt vitamin B12 (gây rối loạn thần kinh).
 
-- **Nguồn thực phẩm giàu folate**
+- **Nguồn thực phẩm giàu folate**:
+
   - Rau lá xanh đậm: bina, cải bó xôi, súp lơ xanh.
   - Gan động vật.
   - Các loại đậu: đậu lăng, đậu hà lan.
@@ -34,7 +35,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 ## DHA (Docosahexaenoic Acid)
 
 - DHA là axit béo omega-3 chuỗi dài, rất cần thiết cho sự phát triển hệ thần kinh và thị giác:
-- **Vai trò**
+- **Vai trò**:
 
   - Thúc đẩy phát triển não bộ và võng mạc, đặc biệt trong 3 tháng cuối thai kỳ và 2 năm đầu đời.
   - Tăng khả năng nhận thức, trí thông minh (IQ).
@@ -42,11 +43,12 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
   - Giảm nguy cơ sinh non, nhẹ cân, trầm cảm sau sinh.
   - Hỗ trợ ổn định huyết áp, giảm nguy cơ tiền sản giật.
 
-- **Tác dụng phụ**
+- **Tác dụng phụ**:
 
   - Mùi tanh, ợ nóng nếu sản phẩm kém tinh khiết.
 
-- **Nguồn thực phẩm giàu DHA**
+- **Nguồn thực phẩm giàu DHA**:
+
   - Cá béo: cá hồi, cá thu, cá mòi (ưu tiên cá đánh bắt tự nhiên, tránh cá chứa thủy ngân).
   - Trứng bổ sung DHA, tảo biển.
   - Hạt chia, óc chó (chứa ALA – tiền chất chuyển hóa thành DHA).
@@ -55,19 +57,20 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 ## Sắt
 
 - Sắt là khoáng chất thiết yếu tạo hemoglobin, giúp vận chuyển O₂:
-- **Vai trò**
+- **Vai trò**:
 
   - Ngăn ngừa thiếu máu do thiếu sắt – tình trạng phổ biến trong thai kỳ.
   - Đảm bảo cung cấp O₂ đầy đủ cho thai nhi và cơ thể mẹ.
   - Giảm nguy cơ sinh non, thai nhẹ cân.
   - Hỗ trợ phát triển hệ miễn dịch và thần kinh của thai nhi.
 
-- **Tác dụng phụ**
+- **Tác dụng phụ**:
 
   - Táo bón, phân sẫm màu, buồn nôn, đau dạ dày.
   - Giảm hấp thu nếu dùng cùng canxi hoặc thực phẩm giàu phytate.
 
-- **Nguồn thực phẩm giàu sắt**
+- **Nguồn thực phẩm giàu sắt**:
+
   - Gan động vật, thịt đỏ (bò, cừu).
   - Hải sản: sò huyết, ngao, hến.
   - Rau lá xanh đậm: rau muống, cải bó xôi.
@@ -76,18 +79,19 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 ## Canxi
 
 - Canxi là thành phần chính cấu tạo xương, răng và hỗ trợ chức năng cơ bắp, thần kinh:
-- **Vai trò**
+- **Vai trò**:
 
   - Hình thành và phát triển hệ xương, răng cho thai nhi.
   - Bảo vệ mẹ khỏi loãng xương trong và sau thai kỳ.
   - Hỗ trợ co cơ, dẫn truyền thần kinh, điều hòa huyết áp.
   - Giảm nguy cơ tiền sản giật và chuột rút cơ.
 
-- **Tác dụng phụ**
+- **Tác dụng phụ**:
 
   - Táo bón, đầy bụng khi dùng liều cao hoặc dạng khó hấp thu.
 
-- **Nguồn thực phẩm giàu canxi**
+- **Nguồn thực phẩm giàu canxi**:
+
   - Sữa, phô mai, sữa chua.
   - Cá nhỏ ăn cả xương: cá cơm, cá mòi.
   - Rau xanh: cải bó xôi, cải xoăn, rau dền.
@@ -97,7 +101,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 ## Magie
 
 - Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong cơ thể:
-- **Vai trò**
+- **Vai trò**:
 
   - Giảm chuột rút, cải thiện giấc ngủ và thư giãn cơ bắp.
   - Điều hòa huyết áp, hỗ trợ giảm nguy cơ tiền sản giật.
@@ -105,18 +109,19 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
   - Giảm lo âu, cải thiện tâm trạng.
   - Hỗ trợ nhịp tim ổn định và chức năng thần kinh.
 
-- **Tác dụng phụ**
+- **Tác dụng phụ**:
 
   - Tiêu chảy nếu dùng quá liều hoặc dạng magie không phù hợp.
 
-- **Nguồn thực phẩm giàu magie**
+- **Nguồn thực phẩm giàu magie**:
+
   - Hạt: bí, hướng dương, điều.
   - Các loại đậu: đậu đen, đỏ, nành.
   - Rau lá xanh: bina, cải bó xôi.
   - Bơ, chuối, socola đen (≥ 70% cacao).
   - Ngũ cốc nguyên hạt: yến mạch, gạo lứt.
 
-## Nhu cầu khi mang thai
+## Nhu cầu
 
 | Giai đoạn                          | Acid folic      | DHA             | Sắt                        | Canxi                  | Magie                           |
 | ---------------------------------- | --------------- | --------------- | -------------------------- | ---------------------- | ------------------------------- |
@@ -132,15 +137,15 @@ _Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai._
 - Magie chỉ cần bổ sung nếu có triệu chứng như chuột rút, mất ngủ, lo âu.
   :::
 
-## Hướng dẫn bổ sung hàng ngày
+## Hướng dẫn bổ sung
 
-| Buổi     | Sản phẩm bổ sung | Hướng dẫn bổ sung                                                                       |
+| Buổi     | Sản phẩm bổ sung | Hướng dẫn bổ sung hằng ngày                                                             |
 | -------- | ---------------- | --------------------------------------------------------------------------------------- |
 | **Sáng** | Acid folic, DHA  | Uống acid folic sau ăn sáng; DHA sau bữa sáng hoặc trưa, tránh uống khi đói.            |
 | **Trưa** | Canxi            | Uống canxi sau bữa trưa, có thể chia 2 lần/ngày (≤ 600 mg/lần để hấp thu tốt)           |
 | **Tối**  | Sắt              | Uống sắt trước bữa tối hoặc trước khi ngủ, nên kèm vitamin C (cam, ổi) để tăng hấp thu. |
 
-_Hướng dẫn bổ sung acid folic, DHA, sắt, canxi, magie._
+_Hướng dẫn bổ sung acid folic, DHA, sắt, canxi, magie hằng ngày._
 
 :::caution
 

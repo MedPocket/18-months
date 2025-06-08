@@ -45,7 +45,7 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 - **Bình thường không có thai**: < 5 mIU/mL.
 - **Có thai**: > 25 mIU/mL (que thử 20–25 mIU/mL).
 - **Tăng gấp đôi**: mỗi 48 giờ trong 6 tuần đầu; đỉnh 8–10 tuần (100,000 mIU/mL); sau giảm đạt ổn định 16–20 tuần.
-- **Động học sau sẩy thai**: giảm ≥ 21–35% mỗi 48 giờ; < 20% gợi ý sót rau hoặc thai ngoài tử cung.
+- **Động học sau sảy thai**: giảm ≥ 21–35% mỗi 48 giờ; < 20% gợi ý sót rau hoặc thai ngoài tử cung.
 
 ### Ngưỡng β-hCG
 

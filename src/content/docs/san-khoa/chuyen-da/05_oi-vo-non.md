@@ -41,19 +41,17 @@ Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một s
 
 - Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới tác dụng của estrogen, tạo hình ảnh như **lá dương xỉ** khi quan sát dưới kính hiển vi sau khi làm khô lam kính. Dễ gặp kết quả âm tính giả.
 
-### Siêu âm
+#### Siêu âm
 
 - Đánh giá lượng nước ối, ngôi thai, sự phát triển thai.
 
-### Các xét nghiệm khác
+#### Xét nghiệm cơ bản
 
 - **Công thức máu, CRP**: đánh giá nhiễm trùng.
 - **CTG hoặc Non-stress test** nếu cần thiết.
 - **Xét nghiệm liên cầu nhóm B (GBS)** nếu có chỉ định.
 
 ### Chẩn đoán phân biệt
-
-:::note[Tiêu chuẩn chẩn đoán ối vỡ non]
 
 | Triệu chứng hiện hữu và dấu hiệu điển hình               | Triệu chứng/dấu hiệu không thường xuyên                                                   | Khả năng chẩn đoán           |
 | -------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------- |
@@ -63,9 +61,9 @@ Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một s
 | Xuất huyết ÂĐ                                            | Đau bụng <br> Mất cử động thai <br>Máu ÂĐ nhiều, kéo dài                                  | Xuất huyết âm đạo trước sinh |
 | Dịch âm đạo dạng nước/nhầy lẫn máu                       | Xóa mở cổ tử cung<br>Cơn gò tử cung                                                       | Chuyển dạ non/đủ tháng       |
 
-\* Chảy máu nhẹ: Mất >5 phút để máu thấm ướt băng vệ sinh
+_\* Chảy máu nhẹ: Mất >5 phút để máu thấm ướt băng vệ sinh._
 
-:::
+_Chẩn đoán ra nước âm đạo._
 
 ## Điều trị
 
@@ -95,36 +93,40 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
   - **Lựa chọn 1**:
 
-    - Azithromycin 1 g (uống) khi nhập viện
-    - Ampicillin 2 g (tĩnh mạch chậm) mỗi 6 giờ × 48 giờ
-    - Sau đó: Amoxicillin 500mg (uống) mỗi 8 giờ × 5 ngày
+    - Azithromycin 1 g (uống) khi nhập viện.
+    - Ampicillin 2 g (tĩnh mạch chậm) mỗi 6 giờ × 48 giờ.
+    - Sau đó: Amoxicillin 500mg (uống) mỗi 8 giờ × 5 ngày.
 
   - **Lựa chọn 2**:
 
-    - Ampicillin 1 g (uống) khi nhập viện
-    - Cefazolin 1 g (tĩnh mạch chậm) mỗi 8 giờ × 48 giờ
-    - Sau đó: Cephalexin 500mg (uống) mỗi 6 giờ × 5 ngày
+    - Ampicillin 1 g (uống) khi nhập viện.
+    - Cefazolin 1 g (tĩnh mạch chậm) mỗi 8 giờ × 48 giờ.
+    - Sau đó: Cephalexin 500mg (uống) mỗi 6 giờ × 5 ngày.
 
   - **Dị ứng nặng với Penicillin**:
 
-    - Azithromycin 1 g (uống) khi nhập viện
-    - Clindamycin 900 mg (truyền TM) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền TM) mỗi 24 giờ × 48 giờ
-    - Sau đó: Clindamycin 300mg (uống) mỗi 8 giờ × 5 ngày
+    - Azithromycin 1 g (uống) khi nhập viện.
+    - Clindamycin 900 mg (truyền TM) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền TM) mỗi 24 giờ × 48 giờ.
+    - Sau đó: Clindamycin 300mg (uống) mỗi 8 giờ × 5 ngày.
 
   - **GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ**:
-    - Azithromycin 1 g (uống) khi nhập viện
-    - Vancomycin 20 mg/kg (tối đa 2 g/ngày) mỗi 24 giờ × 48 giờ  
-      _Cần đo creatinine trước dùng. Cân nhắc độc tính thận ở liều cao hoặc thời gian dùng kéo dài._
+
+    - Azithromycin 1 g (uống) khi nhập viện.
+    - Vancomycin 20 mg/kg (tối đa 2 g/ngày) mỗi 24 giờ × 48 giờ.
+    - Cần đo creatinine trước dùng. Cân nhắc độc tính thận ở liều cao hoặc thời gian dùng kéo dài.
 
   :::
 
 - **Corticosteroids**: dùng sớm cho mẹ để giảm nguy cơ suy hô hấp sơ sinh, ngay cả khi chưa chắc đủ thời gian hoàn tất phác đồ.
 - **Theo dõi**:
+
   - Xét nghiệm máu mỗi 48 giờ hoặc khi nghi ngờ nhiễm trùng.
   - Siêu âm kiểm tra chỉ số ối mỗi 48 giờ (nếu bình thường) hoặc mỗi ngày (nếu thiểu ối).
   - Đặt mỏ vịt đánh giá dịch âm đạo mỗi 3 ngày.
+
 - **Không dùng thuốc cắt cơn chuyển dạ**.
 - **Cân nhắc điều trị ngoại trú** nếu:
+
   - Không rỉ ối thêm sau 7 ngày điều trị kháng sinh.
   - Lượng nước ối bình thường.
   - Sản phụ đồng thuận sau tư vấn.
@@ -143,12 +145,16 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
 **MgSO₄** bảo vệ não sơ sinh:
 
-- Chỉ định: thai 24–<32 tuần có nguy cơ sinh non trong 24 giờ.
-- Dùng thường quy từ 28–<32 tuần, cân nhắc từ 24–<28 tuần.
+- **Chỉ định**:
+
+  - Thai 24–< 32 tuần có nguy cơ sinh non trong 24 giờ.
+  - Dùng thường quy từ 28–<32 tuần, cân nhắc từ 24–<28 tuần.
+
 - **Chống chỉ định**: nhược cơ.
 - **Thận trọng**: tiền sử thiếu máu cơ tim, rối loạn dẫn truyền.
-- Liều: 4.5g tĩnh mạch chậm trong 20–30 phút.
-- Nên truyền trước sinh 4 giờ.
+- **Liều dùng**:
+  - 4.5g tĩnh mạch chậm trong 20–30 phút.
+  - Nên truyền trước sinh 4 giờ.
 
 **Trong chuyển dạ**:
 
@@ -160,6 +166,7 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
 - Ưu tiên sinh thường, mổ lấy thai khi có chỉ định.
 - Nếu chưa có chuyển dạ sau 12 giờ: khởi phát tùy Bishop:
+
   - Bishop ≥ 6: khởi phát bằng Oxytocin.
   - Bishop < 6: làm chín muồi cổ tử cung bằng Prostaglandin E2 trước Oxytocin.
 

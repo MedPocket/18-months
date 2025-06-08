@@ -5,7 +5,7 @@ description: Đặc điểm ẻ thường ngôi chỏm.
 
 Ngôi chỏm là ngôi thai mà trong đa số các trường hợp có thể sinh qua đường âm đạo.
 
-## Bệnh sinh
+## Cơ chế
 
 Trong cuộc sinh ngôi chỏm, các phần lớn nhất của thai (đầu, vai, mông) sẽ lần lượt vượt qua các eo của khung chậu: eo trên, eo giữa, eo dưới. Quá trình này bao gồm các thì tuần tự sau:
 
@@ -71,6 +71,7 @@ Từ giai đoạn **(e → h)**, người đỡ sinh có thể **hỗ trợ** n�
 - **Giúp đầu cúi tối đa**: Tay phải dùng 3 ngón giữa ấn vào thượng chẩm, tay trái giữ tầng sinh môn.
 - **Khi hạ chẩm ra khỏi bờ dưới khớp vệ**: tay phải kiểm soát tốc độ ngửa đầu để sổ trán, nếu tầng sinh môn căng quá có thể cắt chủ động.
 - **Sổ đầu xong**: kiểm tra dây rốn quấn cổ:
+
   - Quấn lỏng: tháo.
   - Quấn chặt: kẹp và cắt.
 
@@ -91,6 +92,7 @@ _Đẻ thường ngôi chỏm g → h._
 - **Sổ phần còn lại**: Tay trái đỡ cổ, tay phải vuốt dọc lưng, nắm 2 bàn chân bằng 3 ngón tay (cái, trỏ, giữa). Sau sổ, giữ đầu thai thấp hơn bàn sinh.
 
 - **Cắt tầng sinh môn**: chỉ thực hiện khi thực sự cần, không phải thủ thuật thường quy. Cần thiết khi:
+
   - Tầng sinh môn quá căng.
   - Thai to, sinh thủ thuật.
 
@@ -102,7 +104,7 @@ Cắt tầng sinh môn không rút ngắn thời gian rặn, không giúp sinh n
 
 _Cắt tầng sinh môn._
 
-## Thở và rặn trong cuộc đẻ
+## Thở và rặn
 
 ### Cách thở
 

@@ -24,7 +24,7 @@ BV xảy ra khi có sự thay đổi về tỷ lệ vi khuẩn trong hệ vi sin
    - Các vi khuẩn yếm khí có thể xâm nhập ngược vào trên qua cổ tử cung, tăng nguy cơ viêm vùng chậu (PID), viêm nội mạc tử cung sau sinh hoặc sau mổ, và làm khởi phát quá trình viêm niêm mạc ối—điều này liên quan đến sinh non và nhiễm trùng ối ở phụ nữ mang thai.
    - Phụ nữ BV có nguy cơ cao hơn nhiễm HIV và các bệnh lây truyền qua đường tình dục khác do hàng rào bảo vệ niêm mạc bị tổn thương.
 
-## Các yếu tố nguy cơ
+## Yếu tố nguy cơ
 
 Các yếu tố làm mất cân bằng hệ vi sinh âm đạo:
 

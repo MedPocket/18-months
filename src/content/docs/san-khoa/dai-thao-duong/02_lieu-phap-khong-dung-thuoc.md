@@ -33,13 +33,15 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 
 ## Liệu pháp dinh dưỡng
 
-### Nguyên tắc chung
+### Nguyên tắc
 
 - **Cung cấp đủ năng lượng** cho mẹ và thai nhi, không quá thừa để tránh tăng cân quá mức.
 - **Phân bố đa dạng chất** theo tỉ lệ năng lượng:
-  - Glucid: 45–55%
-  - Protein: 15–20%
-  - Lipid: 25–35%
+
+  - Glucid: 45–55%.
+  - Protein: 15–20%.
+  - Lipid: 25–35%.
+
 - **Chọn thức ăn** ưu tiên chỉ số đường huyết thấp/trung bình, giàu chất xơ và vi chất.
 - **Chia bữa ăn** nhỏ, 3 bữa chính + 2–3 bữa phụ để ổn định glucose huyết.
 
@@ -51,7 +53,7 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 - Hạn chế thực phẩm GI > 70 (bánh kẹo, trái cây sấy, nước ngọt).
 - Tăng cường protein nạc: thịt nạc, cá, đậu phụ, sữa chua ít béo.
 
-### Thai phụ đã chẩn đoán GDM
+### Thai phụ mắc GDM
 
 #### Năng lượng
 

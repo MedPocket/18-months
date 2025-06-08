@@ -62,15 +62,13 @@ Không dùng Diazepam/Phenytoin vì không hiệu quả, có thể gây hại th
      - Suy hô hấp, nhịp thở < 12 lần/phút.
      - Giảm ý thức.
      - Nồng độ magie huyết > 8 mg/dL.
-
-   - Nếu có dấu hiệu ngộ độc:
-     - Ngừng truyền MgSO₄ ngay.
-     - Truyền chậm **calcium gluconate** 10 mL 10% TM trong 10 phút để giải độc.
+     - Nếu có dấu hiệu ngộ độc: ngừng truyền MgSO₄ ngay. Truyền chậm **calcium gluconate** 10 mL 10% TM trong 10 phút để giải độc.
 
 4. **Điều trị tăng huyết áp**
 
    - Mục tiêu giữ huyết áp tâm thu 140–155 mmHg, tâm trương 90–105 mmHg.
    - Thuốc thường dùng:
+
      - Methyldopa.
      - Nifedipin.
      - Labetalol (nếu có).
