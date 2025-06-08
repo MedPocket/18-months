@@ -1,6 +1,6 @@
 ---
 title: Tầm soát ung thư cổ tử cung
-description: Tầm soát ung thư cổ tử cung.
+description: Hướng dẫn tầm soát ung thư cổ tử cung.
 ---
 
 Ung thư cổ tử cung đứng thứ tư trong các loại ung thư ở phụ nữ và thứ hai ở nhóm tuổi sinh sản, sau ung thư vú.
@@ -18,12 +18,12 @@ Ung thư cổ tử cung đứng thứ tư trong các loại ung thư ở phụ n
 
 Phụ nữ có tiền căn ung thư cổ tử cung, nhiễm HIV hoặc suy giảm miễn dịch không áp dụng hướng dẫn tầm soát thông thường (A).
 
+_Chiến lược tầm soát ung thư cổ tử cung._
+
 _\* Các khuyến cáo dựa theo: American Cancer Society (ACS), ASCCP, và ASCP. A: khuyến cáo mạnh, chứng cứ rõ ràng. B: khuyến cáo trung bình. C: theo kinh nghiệm._  
 _\*\* Ưu tiên._  
 _\*\*\* Chấp nhận được nhưng không phải lựa chọn tối ưu._  
 _\*\*\*\* Kết quả tầm soát âm tính đầy đủ: 3 lần tế bào học âm tính hoặc 2 lần co-testing âm tính trong 10 năm gần nhất, với lần gần nhất trong 5 năm qua._
-
-_Chiến lược tầm soát ung thư cổ tử cung._
 
 ## Nguồn tham khảo
 

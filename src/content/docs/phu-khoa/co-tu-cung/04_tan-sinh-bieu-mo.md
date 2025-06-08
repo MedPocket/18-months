@@ -5,7 +5,7 @@ description: Tổng quan tân sinh trong biểu mô cổ tử cung.
 
 Cổ tử cung có thể tổn thương ở nhiều mức độ khác nhau, từ những biến đổi nhẹ đến ung thư xâm lấn.
 
-## Diễn tiến
+## Diễn biến
 
 ### Luận điểm cổ điển
 
@@ -45,23 +45,7 @@ _Các trường hợp nhiễm HPV có thể thoái triển hoặc tiến triển
 
 ## Dị sản cổ tử cung
 
-### Quá trình dị sản
-
-- **Chuyển sản lát**: Biểu mô trụ lộ tuyến (lộ tuyến) bị thay thế bởi biểu mô lát tầng không sừng hóa.
-- **Dị sản** (dysplasia): Khi tế bào chuyển sản bị tổn thương bởi HPV, hóa chất, tia xạ..., dẫn đến CIN.
-- HPV thể hiện chức năng sinh ung qua hai protein E6 (bất hoạt p53, ngăn apoptosis) và E7 (bất hoạt pRb, kích hoạt E2F → tăng sinh không kiểm soát).
-
-Dị sản còn phụ thuộc vào đáp ứng miễn dịch: khoảng 80% có thể tự cải thiện, nhưng 10% tiến triển thành ung thư.
-
-![E6 và E7 trong cơ chế sinh ung thư của HPV type 16](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/e6-va-e7-trong-co-che-gay-ung-thu-cua-hpv.png)
-
-_E6 và E7 bất hoạt p53 và pRb, khiến tế bào dị sản tăng sinh không kiểm soát._
-
-![Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/su-khac-biet-ve-sinh-hoc-cin-1-2-3-va-chieu-huong-cua-chung.png)
-
-_Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xoá và dễ tiến triển._
-
-### Các yếu tố nguy cơ
+### Yếu tố nguy cơ
 
 - Quan hệ tình dục sớm (< 18 tuổi) hoặc nhiều bạn tình.
 - Bạn tình nam có quan hệ với người bị ung thư cổ tử cung.
@@ -72,19 +56,35 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 - Pap’s test không định kỳ hoặc chưa từng làm.
 - Nhiễm các STD khác.
 
-## Quản lý bất thường tế bào cổ tử cung
+### Quá trình
+
+- **Chuyển sản lát**: Biểu mô trụ lộ tuyến (lộ tuyến) bị thay thế bởi biểu mô lát tầng không sừng hóa.
+- **Dị sản** (dysplasia): Khi tế bào chuyển sản bị tổn thương bởi HPV, hóa chất, tia xạ..., dẫn đến CIN.
+- HPV thể hiện chức năng sinh ung qua hai protein E6 (bất hoạt p53, ngăn apoptosis) và E7 (bất hoạt pRb, kích hoạt E2F → tăng sinh không kiểm soát).
+- Dị sản còn phụ thuộc vào đáp ứng miễn dịch: khoảng 80% có thể tự cải thiện, nhưng 10% tiến triển thành ung thư.
+
+  ![E6 và E7 trong cơ chế sinh ung thư của HPV type 16](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/e6-va-e7-trong-co-che-gay-ung-thu-cua-hpv.png)
+
+  _E6 và E7 bất hoạt p53 và pRb, khiến tế bào dị sản tăng sinh không kiểm soát._
+
+  ![Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/su-khac-biet-ve-sinh-hoc-cin-1-2-3-va-chieu-huong-cua-chung.png)
+
+  _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xoá và dễ tiến triển._
+
+## Bất thường
 
 ### ASC-US
 
-#### Định nghĩa và tiến triển
+#### Đặc điểm
 
 - **ASC-US** (Atypical Squamous Cells of Undetermined Significance): Tế bào vảy có nhân to, đôi khi nhân đôi, không đủ tiêu chuẩn HSIL hay LSIL.
 - Phần lớn do phản ứng viêm, ít khi tiến triển: nguy cơ HSIL 7%, ung thư xâm lấn 0.25%. Sau 24 tháng:
+
   - 65% thoái lui về bình thường.
   - 7% tiến triển HSIL.
   - 0.25% tiến triển ung thư xâm lấn.
 
-#### Quản lý ASC-US
+#### Quản lý
 
 - Làm **HPV testing** để phân tầng nguy cơ:
 
@@ -109,16 +109,17 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 
 ### LSIL
 
-#### Định nghĩa và tiến triển
+#### Đặc điểm
 
 - **LSIL**: Biểu hiện CIN 1 hoặc nhiễm HPV type nguy cơ cao.
 - Tế bào LSIL có nhân ≥ 3 lần nhân trung gian, tỷ lệ nhân:bào tương ≤ 1/3; hầu hết HPV (+).
 - Sau 24 tháng:
+
   - 47% thoái triển về bình thường.
   - 20% tiến triển HSIL.
   - 0.15% thành ung thư xâm lấn.
 
-#### Quản lý LSIL
+#### Quản lý
 
 - Soi cổ tử cung và sinh thiết theo tổn thương qua soi.
 - Nếu **HPV (-)** sau co-testing → co-testing lại sau 1 năm.
@@ -142,7 +143,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 
 ### HSIL
 
-#### Định nghĩa và tiến triển
+#### Đặc điểm
 
 - **HSIL**: Dị sản vừa–nặng (CIN 2–3, carcinoma in situ).
 - **CIN 2**: Tế bào bất thường lan tới 2/3 dày biểu mô, nhân chiếm 1/2 kích thước tế bào, tỷ lệ nhân:bào tương giảm.
@@ -156,7 +157,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 
 - 70% HSIL qua tế bào phẩm tương ứng với CIN 2–3, 1–2% có ung thư xâm lấn.
 
-#### Quản lý HSIL
+#### Quản lý
 
 - Soi cổ tử cung ngay ở mọi lứa tuổi và sinh thiết tổn thương.
 - Nạo kênh cổ tử cung nếu không mang thai.
@@ -178,7 +179,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 
 - **ASC-H** (Atypical Squamous Cells, cannot exclude HSIL): Tế bào vảy không điển hình, không thể loại trừ tổn thương HSIL.
 
-#### Quản lý ASC-H
+#### Quản lý
 
 - Soi cổ tử cung và sinh thiết tổn thương.
 
@@ -193,7 +194,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 - **AGC** (Atypical Glandular Cells): Tế bào tuyến không điển hình.
 - **AGUS** (Atypical Glandular Cells of Undetermined Significance): Tương tự AGC nhưng ý nghĩa chưa rõ.
 
-#### Quản lý AGC / AGUS
+#### Quản lý
 
 - Soi cổ tử cung, nạo kênh, và sinh thiết tổn thương tuyến nếu có.
 - Tùy theo kết quả, có thể khoét chóp bằng dao lạnh.
@@ -213,7 +214,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 - Đại đa số CIN 1 thoái triển tự nhiên.
 - Chỉ khoảng 13% tiến triển thành CIN 2–3 sau 2 năm.
 
-#### Quản lý CIN 1
+#### Quản lý
 
 - Theo dõi Pap’s test hoặc co-testing định kỳ, tránh can thiệp quá mức.
 
@@ -228,7 +229,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 - Đều là tổn thương tiền ung thư.
 - Khoảng 40% CIN 2 thoái triển sau 2 năm, trong khi CIN 3 hầu như không thoái triển.
 
-#### Quản lý CIN 2, CIN 3
+#### Quản lý
 
 - Khoét chóp (cold knife conization) hoặc LEEP/LLETZ để cắt bỏ mô xét nghiệm và điều trị, trừ khi có chỉ định đặc biệt ở phụ nữ trẻ hoặc đang mang thai.
 
@@ -243,7 +244,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 - **AIS** (Adenocarcinoma in situ): Tổn thương tuyến tại chỗ, HPV (+) > 95%.
 - Thường lan sâu vào kênh, đa ổ, khó xác định giới hạn.
 
-#### Quản lý AIS
+#### Quản lý
 
 - **Cắt tử cung toàn phần**: Lựa chọn nếu không còn nhu cầu sinh con.
 - **Điều trị bảo tồn**: Có thể với phụ nữ muốn giữ khả năng sinh con, cần theo dõi chặt chẽ.
@@ -253,7 +254,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 
   _Quản lý AIS – ASCCP 2012._
 
-### Nghi ngờ ung thư cổ tử cung trong thai kỳ
+### Trong thai kỳ
 
 - Xử trí tương tự người không mang thai, nhưng hoãn một số can thiệp (nạo kênh) đến sau sinh hoặc lựa chọn kỹ thuật ít xâm lấn.
 
@@ -261,7 +262,7 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 
   _Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai – Bệnh viện Từ Dũ._
 
-## Điều trị trong tân sinh biểu mô cổ tử cung
+## Điều trị
 
 ### Hủy mô bằng áp lạnh (Cryotherapy)
 
@@ -269,9 +270,9 @@ _Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xo
 - Đơn giản, ít đau, thực hiện ngoại trú.
 - Không điều chỉnh chính xác độ sâu và rìa điều trị.
 
-![Áp lạnh cổ tử cung](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/ap-lanh-co-tu-cung.png)
+  ![Áp lạnh cổ tử cung](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/ap-lanh-co-tu-cung.png)
 
-_Áp lạnh cổ tử cung: đầu áp nối với nitrogen lỏng hoặc CO₂ lỏng._
+  _Áp lạnh cổ tử cung: đầu áp nối với nitrogen lỏng hoặc CO₂ lỏng._
 
 ### Hủy mô bằng đốt laser (Laser Vaporization)
 
@@ -291,9 +292,9 @@ _Áp lạnh cổ tử cung: đầu áp nối với nitrogen lỏng hoặc CO₂ 
 - Mẫu mô rõ ràng, không bị cháy, giúp đánh giá bờ phẫu thuật và xâm lấn.
 - Khó cầm máu và có thể gây hẹp kênh cổ tử cung.
 
-![Khoét chóp cổ tử cung bằng dao lạnh](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/khoet-chop-bang-dao-lanh.png)
+  ![Khoét chóp cổ tử cung bằng dao lạnh](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/khoet-chop-bang-dao-lanh.png)
 
-_Khoét chóp cổ tử cung bằng dao lạnh._
+  _Khoét chóp cổ tử cung bằng dao lạnh._
 
 ### Cắt bỏ mô tổn thương bằng vòng điện (LEEP / LLETZ)
 
@@ -301,9 +302,9 @@ _Khoét chóp cổ tử cung bằng dao lạnh._
 - Mẫu mô dễ bị cháy, khó đánh giá bờ cắt.
 - Dần thay thế đốt laser do chi phí và tính đơn giản.
 
-![LEEP và các loại vòng cắt phổ biến](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/leep.png)
+  ![LEEP và các loại vòng cắt phổ biến](../../../../assets/phu-khoa/tan-sinh-bieu-mo-co-tu-cung/leep.png)
 
-_LEEP và các loại vòng cắt phổ biến._
+  _LEEP và các loại vòng cắt phổ biến._
 
 ## Nguồn tham khảo
 
