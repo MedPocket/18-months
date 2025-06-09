@@ -15,7 +15,7 @@ Thai kỳ với tăng huyết áp là nhóm lớn các bệnh lý với bệnh s
 
 - Bánh rau đóng vai trò then chốt trong sự phát triển và thoái lui của tiền sản giật. **Bánh rau**, không phải thai, là điều kiện cần trong sự phát triển tiền sản giật.
 
-  ![Sơ đồ cơ chế tăng huyết áp thai kỳ](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/so-do-co-che.png)
+  ![Sơ đồ cơ chế tăng huyết áp thai kỳ](./_images/so-do-co-che.png)
 
   _Sơ đồ cơ chế tăng huyết áp thai kỳ._
 

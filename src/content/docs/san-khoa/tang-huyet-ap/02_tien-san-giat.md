@@ -81,7 +81,7 @@ Theo ACOG Task Force 2013, chẩn đoán tiền sản giật khi:
     - Trọng lượng thai < bách phân vị 5.
     - Thiểu ối (AFI < 5 cm, 2 lần cách nhau 24 giờ).
 
-![Lưu đồ xử trí tiền sản giật không dấu hiệu nặng – Bệnh viện Từ Dũ](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-khong-co-dau-hieu-nang.png)
+![Lưu đồ xử trí tiền sản giật không dấu hiệu nặng – Bệnh viện Từ Dũ](./_images/luu-do-xu-tri-tien-san-giat-khong-co-dau-hieu-nang.png)
 
 _Lưu đồ xử trí tiền sản giật không dấu hiệu nặng – Bệnh viện Từ Dũ._
 
@@ -98,7 +98,7 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 
 Có thể trì hoãn nếu thai < 34 tuần và mẹ - thai ổn định để sử dụng corticosteroids.
 
-![Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
+![Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ](./_images/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
 
 _Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ._
 

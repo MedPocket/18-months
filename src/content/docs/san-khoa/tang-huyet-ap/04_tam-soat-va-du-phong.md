@@ -57,7 +57,7 @@ _Bảng đánh giá lâm sàng nguy cơ tiền sản giật._
 - Khởi aspirin từ tuần 12–16, tối đa không muộn hơn 28 tuần.
 - Dừng vào tuần 36.
 
-![Lưu đồ tầm soát tiền sản giật 3 tháng đầu – Bệnh viện Từ Dũ](../../../../assets/san-khoa/tang-huyet-ap-thai-ky/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
+![Lưu đồ tầm soát tiền sản giật 3 tháng đầu – Bệnh viện Từ Dũ](./_images/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
 
 _Lưu đồ tầm soát tiền sản giật 3 tháng đầu – Bệnh viện Từ Dũ._
 
