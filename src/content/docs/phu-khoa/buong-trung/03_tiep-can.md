@@ -5,7 +5,7 @@ description: Phương pháp tiếp cận khối u buồng trứng.
 
 Tiếp cận khối u buồng trứng dựa trên siêu âm, MRI, CT và chỉ báo sinh học.
 
-## Khảo sát hình ảnh học
+## Chẩn đoán hình ảnh
 
 Các phương pháp hình ảnh chính:
 

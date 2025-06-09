@@ -192,7 +192,7 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
   1. **Dịch sữa (trắng đục)**: đo prolactin, TSH → xử trí như tiết sữa.
   2. **Dịch bệnh lý (màu bất thường, một bên, một ống)**: chuyển sang bước chẩn đoán hình ảnh.
 
-- **Bước 2: Hình ảnh học kết hợp**
+- **Bước 2: Kết hợp chẩn đoán hình ảnh**
 
   1. **Nhũ ảnh + Siêu âm** (đều ưu tiên cho phụ nữ ≥ 35 tuổi):
      - Nếu phát hiện **khối** hoặc **microcalcification** đáng ngờ → Sinh thiết lõi (core biopsy).

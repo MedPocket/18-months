@@ -9,7 +9,7 @@ Bệnh lý lành tính tuyến vú rất đa dạng, thường ít nguy hiểm n
 
 Các bệnh lý này được phân loại theo:
 
-1. **Đặc điểm lâm sàng**: dựa vào triệu chứng, dấu hiệu khi thăm khám, hình ảnh học (hình thành khối, tiết dịch, đau, thay đổi da).
+1. **Đặc điểm lâm sàng**: dựa vào triệu chứng, dấu hiệu khi thăm khám, chẩn đoán hình ảnh (hình thành khối, tiết dịch, đau, thay đổi da).
 2. **Mô học**: dựa vào kết quả sinh thiết, phân loại tổn thương tế bào và mô đệm.
 
 ### Theo lâm sàng
@@ -75,7 +75,7 @@ Bướu sợi-tuyến (Fibroadenoma) là khối u lành tính phát triển từ
 ### Điều trị
 
 - Nếu khối nhỏ (< 2 cm), không triệu chứng, có thể theo dõi định kỳ 6–12 tháng bằng siêu âm và khám vú.
-- Khối lớn (> 2 cm) hoặc có triệu chứng (đau, lo ngại thẩm mỹ), hoặc hình ảnh học nghi ngờ, phẫu thuật lấy khối để chẩn đoán giải phẫu bệnh.
+- Khối lớn (> 2 cm) hoặc có triệu chứng (đau, lo ngại thẩm mỹ), hoặc chẩn đoán hình ảnh nghi ngờ, phẫu thuật lấy khối để chẩn đoán giải phẫu bệnh.
 - Hiếm khi tái phát nếu mổ lấy trọn vẹn vỏ bao.
 
 ## Bướu diệp thể

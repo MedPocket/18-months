@@ -49,7 +49,7 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 - Siêu âm vú.
 - Cấy mủ.
 
-## Chẩn đoán phân biệt
+### Chẩn đoán phân biệt
 
 - Cương tức tuyến vú.
 - Tắc ống dẫn sữa.
@@ -57,8 +57,6 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 - Ung thư vú giai đoạn viêm cấp (cần FNA hoặc sinh thiết để loại trừ, đặc biệt trong áp xe ngoài thời kỳ hậu sản).
 
 ## Điều trị
-
-### Tổng quát
 
 - Chườm lạnh.
 - Tiếp tục cho trẻ bú hoặc vắt sữa đều đặn.

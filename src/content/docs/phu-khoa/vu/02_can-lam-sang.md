@@ -24,7 +24,7 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
 
 - **Mục đích**:
   - Tầm soát ung thư vú (phát hiện giai đoạn sớm trước khi có triệu chứng).
-  - Đánh giá tổn thương nghi ngờ (sau khi phát hiện khối trên lâm sàng hoặc hình ảnh học ban đầu).
+  - Đánh giá tổn thương nghi ngờ (sau khi phát hiện khối trên lâm sàng hoặc chẩn đoán hình ảnh ban đầu).
 - **Chỉ định**:
   - Tầm soát định kỳ cho phụ nữ từ 45–50 tuổi trở lên, năm một lần (theo khuyến cáo quốc tế).
   - Phụ nữ 40–44 tuổi có nguy cơ trung bình: có thể khởi đầu nhũ ảnh nhưng cần cân nhắc cá nhân hóa.

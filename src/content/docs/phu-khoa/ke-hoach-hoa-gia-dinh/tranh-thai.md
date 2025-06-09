@@ -57,7 +57,7 @@ Các yếu tố ảnh hưởng đến an toàn: tuổi, hút thuốc, tiền s�
 
 _Tính an toàn._
 
-## Tính kinh tế
+### Tính kinh tế
 
 | Phương pháp    | Chi phí ban đầu | Chi phí dài hạn      | Ghi chú          |
 | -------------- | --------------- | -------------------- | ---------------- |
@@ -69,7 +69,7 @@ _Tính an toàn._
 
 _Tính kinh tế._
 
-## Khả năng chấp nhận
+### Khả năng chấp nhận
 
 Phụ thuộc vào:
 
@@ -79,15 +79,14 @@ Phụ thuộc vào:
 - Đời sống tình dục.
 - Văn hóa, tôn giáo, sự chấp nhận từ gia đình/đối tác.
 
-## Tư vấn lựa chọn phương pháp tránh thai
+## Tư vấn
 
 ### Các bước tư vấn
 
 1. **Sàng lọc về tính an toàn**
 
    - Hỏi về: bệnh lý tim mạch, nội tiết, gan, huyết khối, thuốc đang dùng...
-   - Phân loại theo **WHO 1–4**
-     - **Loại 3–4** → Không đưa vào danh sách gợi ý.
+   - Phân loại theo **WHO 1–4**. **Loại 3–4** → Không đưa vào danh sách gợi ý.
 
 2. **Lập danh sách phương pháp phù hợp**
 
@@ -104,7 +103,7 @@ Phụ thuộc vào:
    - Lựa chọn thương hiệu, kích cỡ, liều lượng cụ thể.
    - Đảm bảo sẵn có trên thị trường & phù hợp về kinh tế.
 
-## Tình huống cụ thể
+### Tình huống cụ thể
 
 | Tình huống                                         | Gợi ý phương pháp               | Lý do                          |
 | -------------------------------------------------- | ------------------------------- | ------------------------------ |

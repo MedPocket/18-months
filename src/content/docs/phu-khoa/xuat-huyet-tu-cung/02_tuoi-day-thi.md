@@ -135,7 +135,7 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
 - **Tổng thể**:
 
   - Sinh hiệu (mạch, huyết áp), đánh giá tình trạng thiếu máu (da niêm nhợt, mạch nhanh).
-  - Dấu hiệu rối loạn đông máu: bầm tím, chảy máu chân răng, chảy máu mũi v.v.
+  - Dấu hiệu rối loạn đông máu: bầm tím, chảy máu chân răng, chảy máu mũi....
 
 - **Dấu hiệu rối loạn nội tiết**:
 

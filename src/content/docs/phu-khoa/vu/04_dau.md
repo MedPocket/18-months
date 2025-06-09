@@ -116,7 +116,9 @@ Ngoài ra, một số yếu tố khác có thể góp phần:
   3. Khảo sát hạch nách để phát hiện hạch to, thay đổi cấu trúc.
   4. Siêu âm Doppler để đánh giá tưới máu khối u (giúp phân biệt lành – ác).
 
+:::caution
 Nếu nhũ ảnh và siêu âm đều không phát hiện tổn thương, bệnh nhân có thể được theo dõi lâm sàng. Nếu vẫn đau dai dẳng hoặc có hình ảnh nghi ngờ, cần cân nhắc sinh thiết.
+:::
 
 ## Điều trị
 
