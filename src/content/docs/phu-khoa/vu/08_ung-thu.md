@@ -14,33 +14,33 @@ Ung thư vú là bệnh lý ác tính thường gặp nhất ở phụ nữ, chi
 
   1. **Nhũ ảnh (Mammography)**
 
-    - Là tiêu chuẩn vàng cho tầm soát ung thư vú ở phụ nữ có nguy cơ trung bình.
-    - Có thể phát hiện tổn thương không triệu chứng lâm sàng, đặc biệt ở phụ nữ ≥ 40 tuổi.
-    - Giảm 16–35% tỷ lệ tử vong do ung thư vú ở phụ nữ ≥ 50 tuổi, và 15–20% ở nhóm tuổi 40–49.
+  - Là tiêu chuẩn vàng cho tầm soát ung thư vú ở phụ nữ có nguy cơ trung bình.
+  - Có thể phát hiện tổn thương không triệu chứng lâm sàng, đặc biệt ở phụ nữ ≥ 40 tuổi.
+  - Giảm 16–35% tỷ lệ tử vong do ung thư vú ở phụ nữ ≥ 50 tuổi, và 15–20% ở nhóm tuổi 40–49.
 
   2. **Cộng hưởng từ vú (Breast MRI)**
 
-    - Được chỉ định chủ yếu cho đối tượng có nguy cơ cao (như đột biến BRCA, tiền sử xạ trị ngực lúc trẻ...).
-    - Độ nhạy rất cao (khoảng 98%), tuy nhiên độ đặc hiệu (specificity) thấp hơn (khoảng 75%) so với nhũ ảnh.
-    - Không thay thế nhũ ảnh mà thường được phối hợp song song ở nhóm nguy cơ cao.
+  - Được chỉ định chủ yếu cho đối tượng có nguy cơ cao (như đột biến BRCA, tiền sử xạ trị ngực lúc trẻ...).
+  - Độ nhạy rất cao (khoảng 98%), tuy nhiên độ đặc hiệu (specificity) thấp hơn (khoảng 75%) so với nhũ ảnh.
+  - Không thay thế nhũ ảnh mà thường được phối hợp song song ở nhóm nguy cơ cao.
 
   3. **Khám lâm sàng**
 
-    - Hiệp hội Ung thư Hoa Kỳ (ACS) khuyến cáo bác sĩ phụ khoa hoặc chuyên gia y tế có kinh nghiệm khám vú định kỳ, tuy nhiên bằng chứng cho lợi ích tầm soát bằng khám lâm sàng là hạn chế.
+  - Hiệp hội Ung thư Hoa Kỳ (ACS) khuyến cáo bác sĩ phụ khoa hoặc chuyên gia y tế có kinh nghiệm khám vú định kỳ, tuy nhiên bằng chứng cho lợi ích tầm soát bằng khám lâm sàng là hạn chế.
 
   4. **Tự khám vú (Breast Self-Exam, BSE)**
 
-    - Không được ACS xem là phương pháp tầm soát chính thức, nhưng khuyến cáo mọi phụ nữ ≥ 20 tuổi nên tự khám vú hàng tháng để làm quen với cấu trúc bình thường của vú và phát hiện sớm các thay đổi bất thường. Khoảng 50% số trường hợp ung thư vú được phát hiện khi phụ nữ tự khám vú (khi khối u đã lớn hoặc đã lan ra ngoài bề mặt).
-    - Thời điểm lý tưởng để tự khám vú là ngày thứ 8–10 sau khi bắt đầu chu kỳ kinh, khi vú có kích thước nhỏ nhất, ít chịu ảnh hưởng của estrogen, và mô vú mềm.
+  - Không được ACS xem là phương pháp tầm soát chính thức, nhưng khuyến cáo mọi phụ nữ ≥ 20 tuổi nên tự khám vú hàng tháng để làm quen với cấu trúc bình thường của vú và phát hiện sớm các thay đổi bất thường. Khoảng 50% số trường hợp ung thư vú được phát hiện khi phụ nữ tự khám vú (khi khối u đã lớn hoặc đã lan ra ngoài bề mặt).
+  - Thời điểm lý tưởng để tự khám vú là ngày thứ 8–10 sau khi bắt đầu chu kỳ kinh, khi vú có kích thước nhỏ nhất, ít chịu ảnh hưởng của estrogen, và mô vú mềm.
 
   5. **Siêu âm vú**
 
-    - Không được khuyến cáo làm tầm soát đơn độc cho ung thư vú do độ đặc hiệu thấp (khoảng 92%) và dễ dẫn đến dương tính giả.
-    - Được sử dụng bổ sung cho nhũ ảnh ở phụ nữ có mô vú dày, phát hiện khối chưa rõ ràng, hoặc khi có tổn thương nghi ngờ sau nhũ ảnh.
+  - Không được khuyến cáo làm tầm soát đơn độc cho ung thư vú do độ đặc hiệu thấp (khoảng 92%) và dễ dẫn đến dương tính giả.
+  - Được sử dụng bổ sung cho nhũ ảnh ở phụ nữ có mô vú dày, phát hiện khối chưa rõ ràng, hoặc khi có tổn thương nghi ngờ sau nhũ ảnh.
 
   6. **Chọc hút kim nhỏ (Fine-Needle Aspiration, FNA) và Sinh thiết lõi (Core Needle Biopsy)**
 
-    - Không phải công cụ tầm soát, mà là phương pháp chẩn đoán mô học khi đã có tổn thương nghi ngờ trên lâm sàng hoặc hình ảnh.
+  - Không phải công cụ tầm soát, mà là phương pháp chẩn đoán mô học khi đã có tổn thương nghi ngờ trên lâm sàng hoặc hình ảnh.
 
   | Phương tiện        | Độ nhạy (%) | Độ đặc hiệu (%) | PPV (%) |
   | ------------------ | ----------- | --------------- | ------- |
@@ -210,7 +210,7 @@ Khi thực hiện nhũ ảnh thường quy ở phụ nữ 40–49 tuổi, có í
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | **Đột biến BRCA1/BRCA2**                                 | - Khám lâm sàng vú 2 lần/năm<br>- Nhũ ảnh hàng năm<br>- MRI hàng năm<br>- Tự khám vú           | - Khám lâm sàng vú 2 lần/năm<br>- Nhũ ảnh + MRI hàng năm (bắt đầu ở tuổi 25–30) | - Nhũ ảnh + MRI hàng năm (bắt đầu từ 25 tuổi)                              |
 | **Tiền sử xạ trị ngực (10–30 tuổi)**                     | - MRI hàng năm<br>- Khám vú 6–12 tháng/lần (bắt đầu sau 8–10 năm kể từ xạ trị hoặc từ 25 tuổi) | - MRI hàng năm (bắt đầu sau 8–10 năm xạ trị)                                    | - MRI hàng năm (bắt đầu sau 8–10 năm xạ trị hoặc từ 25 tuổi tùy điều kiện) |
-| **Tiền sử gia đình (FDR\* bị ung thư vú)**    | - Bắt đầu tầm soát từ 40 tuổi                                                                  | - Chưa có khuyến cáo rõ ràng                                                    | - Nhũ ảnh hàng năm từ 40 tuổi<br>- MRI nếu nguy cơ ≥ 20%                   |
+| **Tiền sử gia đình (FDR\* bị ung thư vú)**               | - Bắt đầu tầm soát từ 40 tuổi                                                                  | - Chưa có khuyến cáo rõ ràng                                                    | - Nhũ ảnh hàng năm từ 40 tuổi<br>- MRI nếu nguy cơ ≥ 20%                   |
 | **Nguy cơ cao khác (đột biến gen, hội chứng di truyền)** | - MRI + nhũ ảnh hàng năm                                                                       | - MRI + nhũ ảnh hàng năm (nếu nguy cơ ≥ 20%)                                    | - MRI + nhũ ảnh hàng năm (bắt đầu sớm nếu có chỉ định)                     |
 
 _\*FDR: First-degree relative (cha mẹ, anh chị em, con ruột)._
@@ -268,6 +268,7 @@ Theo ACS (2015), với các nhóm nguy cơ đặc biệt tăng cao như LCIS, AD
    - Ngoài ra còn có các dạng khác như ung thư vi vôi hóa, ung thư dạng hormone âm tính (TNBC)... nhưng hai dạng IDC và ILC chiếm tỉ lệ cao nhất.
 
 3. **Chỉ báo hóa mô miễn dịch (Biomarkers)**
+
    - **ER (Estrogen Receptor) / PR (Progesterone Receptor)**: Dương tính hay âm tính với thụ thể steroid, quyết định hướng điều trị nội tiết.
    - **HER2/neu (Human Epidermal Growth Factor Receptor 2)**: Ung thư HER2 dương tính có xu hướng phát triển nhanh, đáp ứng điều trị kháng HER2 (trastuzumab).
    - **Ki-67**: Chỉ số phân bào, cho biết mức độ tăng sinh tế bào.
@@ -275,9 +276,9 @@ Theo ACS (2015), với các nhóm nguy cơ đặc biệt tăng cao như LCIS, AD
 
 4. **Tốc độ phát triển** của ung thư vú thay đổi theo thể bệnh, đặc điểm sinh học và giai đoạn:
 
-  - Thời gian nhân đôi khối u (doubling time) có thể từ vài tuần đến vài tháng.
-  - Thời gian tiềm ẩn dưới lâm sàng (disease latency) thường kéo dài, tạo cơ hội cho tầm soát phát hiện trước khi có triệu chứng.
-  - Ung thư vú có xu hướng xâm lấn và di căn sớm, thường di căn đến xương, phổi, gan, não, và hạch.
+- Thời gian nhân đôi khối u (doubling time) có thể từ vài tuần đến vài tháng.
+- Thời gian tiềm ẩn dưới lâm sàng (disease latency) thường kéo dài, tạo cơ hội cho tầm soát phát hiện trước khi có triệu chứng.
+- Ung thư vú có xu hướng xâm lấn và di căn sớm, thường di căn đến xương, phổi, gan, não, và hạch.
 
 ### Phân chia giai đoạn (TNM)
 
@@ -309,9 +310,9 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
      - CT scan ngực-bụng-chậu
      - Xạ hình xương (Bone scan)
      - PET-CT nếu nghi ngờ giai đoạn III–IV.
-      :::caution
-      CT scan, MRI toàn thân hoặc xạ hình xương chỉ cần thiết khi có triệu chứng lâm sàng hoặc xét nghiệm bất thường gợi ý di căn.  
-      :::
+       :::caution
+       CT scan, MRI toàn thân hoặc xạ hình xương chỉ cần thiết khi có triệu chứng lâm sàng hoặc xét nghiệm bất thường gợi ý di căn.  
+       :::
 
 2. **Sinh thiết lõi (Core Needle Biopsy)**
 
@@ -327,11 +328,11 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
 
 **Chỉ định**:
 
-  - Sinh thiết xác định là ung thư.
-  - **U nhỏ** (≤ 4 cm hoặc trong bối cảnh vú lớn, có thể bảo tồn).
-  - **Lâm sàng không phát hiện hạch** (hoặc hạch nghi ngờ cần sinh thiết hạch trước/phẫu thuật).
-  - **Không có bằng chứng di căn xa**.
-  - Nếu lâm sàng nghi ngờ giai đoạn II–III (có hạch hoặc u lớn), cần bổ sung xạ hình xương, CT bụng-chậu và có thể PET-CT.
+- Sinh thiết xác định là ung thư.
+- **U nhỏ** (≤ 4 cm hoặc trong bối cảnh vú lớn, có thể bảo tồn).
+- **Lâm sàng không phát hiện hạch** (hoặc hạch nghi ngờ cần sinh thiết hạch trước/phẫu thuật).
+- **Không có bằng chứng di căn xa**.
+- Nếu lâm sàng nghi ngờ giai đoạn II–III (có hạch hoặc u lớn), cần bổ sung xạ hình xương, CT bụng-chậu và có thể PET-CT.
 
 **Các phẫu thuật chính**:
 
@@ -363,9 +364,9 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
      - Bệnh nhân yêu cầu đoạn nhũ hoặc có chỉ định dự phòng (đột biến BRCA).
      - Không có bằng chứng di căn hạch lâm sàng hoặc âm tính nhưng gia đình có nguyện vọng cắt bỏ.
 
-   ![Đoạn nhũ](../../../../assets/phu-khoa/ung-thu-vu/doan-nhu.png)  
-    
-    _Đoạn nhũ đơn giản (Simple mastectomy), Đoạn nhũ tận gốc cải tiến (Modified radical mastectomy), và Đoạn nhũ tận gốc (Radical mastectomy: Halsted)._
+   ![Đoạn nhũ](../../../../assets/phu-khoa/ung-thu-vu/doan-nhu.png)
+
+   _Đoạn nhũ đơn giản (Simple mastectomy), Đoạn nhũ tận gốc cải tiến (Modified radical mastectomy), và Đoạn nhũ tận gốc (Radical mastectomy: Halsted)._
 
 #### Theo dõi sau phẫu thuật
 
@@ -524,7 +525,7 @@ Bệnh Paget núm vú là một dạng ung thư hiếm gặp (1–2% ung thư v�
 - Nếu hình ảnh bình thường, nhưng sinh thiết dương tính Paget, vẫn phải đánh giá toàn bộ vú để loại trừ ung thư tiềm ẩn bên dưới.
 
   ![Bệnh Paget](../../../../assets/phu-khoa/ung-thu-vu/benh-paget.png)
-  
+
   _Bệnh Paget núm vú thường bị chẩn đoán trễ do biểu hiện lâm sàng tương tự chàm (ngứa, bỏng rát), trong khi đa số kèm theo ung thư mô vú bên dưới._
 
 ### Điều trị

@@ -137,6 +137,7 @@ _Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ
   - **Chống chỉ định tuyệt đối**: rối loạn đông máu, xơ gan, bệnh lý mạch máu, đái tháo đường không kiểm soát, nhiễm khuẩn, tiền ung thư chưa điều trị, xạ trị vùng chậu, nghiện thuốc lá nặng.
   - **Chống chỉ định tương đối**: niêm mạc âm đạo mỏng, vết thương niệu đạo/bàng quang/trực tràng, kèm cắt tử cung, không đủ mô che phủ.
 - **Đường vào phẫu thuật**
+
   - **Ngả âm đạo**: BN cao tuổi (> 70), gây mê ngắn, vết mổ nhiều lần, béo phì.
   - **Ngả bụng/nội soi**: BN trẻ, mong muốn bảo tồn tử cung, sa độ III–IV, thất bại phẫu thuật ngả âm đạo.
   - **Kết hợp**: khi cần đặt mảnh ghép qua cả hai đường để tăng hiệu quả.
