@@ -41,7 +41,7 @@ _Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan 
 
 ## Mô học
 
-### Đơn vị cấu trúc chức năng
+### Đơn vị cấu trúc
 
 1. **Tiểu thùy (Lobe) và tiểu tiểu thùy (Lobule)**
 
@@ -69,7 +69,7 @@ _Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan 
    - Mô mỡ xung quanh các ống và nang tạo độ đàn hồi, đặc biệt thay đổi theo hormon và cân nặng cơ thể.
    - Các dải mô liên kết (Cooper’s ligaments) kéo dài từ da xuống tới fascia cơ ngực, giữ cho bầu vú không bị sa trễ khi đứng và vận động.
 
-### Mô học liên quan đến ung thư vú
+### Liên quan đến ung thư vú
 
 - **Ưu thế xuất phát từ biểu mô**: Hầu hết các khối u vú xuất phát từ biểu mô ống (ductal carcinoma) hơn là biểu mô nang (lobular carcinoma) do diện tích biểu mô ống lớn hơn.
 - **Thụ thể hormone (ER/PR)**:

@@ -15,11 +15,11 @@ description: Đau vú (mastalgia) là triệu chứng phổ biến khiến phụ
 
 Đau vú được phân thành ba nhóm chính dựa trên mối liên hệ với chu kỳ kinh và vị trí đau:
 
-1. **Đau vú theo chu kỳ (cyclical mastalgia)**
-2. **Đau vú không theo chu kỳ (noncyclical mastalgia)**
-3. **Đau vú do nguyên nhân ngoài tuyến vú**
+1. **Đau vú theo chu kỳ (cyclical mastalgia)**.
+2. **Đau vú không theo chu kỳ (noncyclical mastalgia)**.
+3. **Đau vú do nguyên nhân ngoài tuyến vú**.
 
-### Đau vú theo chu kỳ
+### Theo chu kỳ
 
 #### Bệnh sinh
 
@@ -53,9 +53,9 @@ Ngoài ra, một số yếu tố khác có thể góp phần:
 - Đau thường giảm dần hoặc hết hẳn khi hành kinh bắt đầu.
 - Triệu chứng có thể tự hết khi mang thai hoặc sau thời kỳ mãn kinh, nhưng cũng có một số phụ nữ vẫn bị đau vú kéo dài sau mãn kinh.
 
-### Đau vú không theo chu kỳ
+### Không theo chu kỳ
 
-#### Nguyên nhân và cơ chế
+#### Bệnh sinh
 
 Đau vú không theo chu kỳ có thể do nhiều yếu tố:
 
@@ -76,7 +76,7 @@ Ngoài ra, một số yếu tố khác có thể góp phần:
 - Vị trí đau thường khu trú một bên, thường ở một phần tư vú (thường là 1/4 trên ngoài).
 - Bệnh nhân mô tả cảm giác nóng bỏng, nhói, đau liên tục hoặc tái phát không theo chu kỳ.
 
-### Đau vú do nguyên nhân ngoài tuyến vú
+### Nguyên nhân ngoài tuyến vú
 
 Đau vú có thể phản ánh bệnh lý nằm ngoài tuyến vú nhưng lan truyền đau đến vùng ngực:
 
@@ -89,7 +89,7 @@ Ngoài ra, một số yếu tố khác có thể góp phần:
 - **Đau tim (thiếu máu cơ tim)**: Đau ngực lan vai, cánh tay có thể nhầm sang vú bên trái.
 - **Viêm đường mật**: Đau vùng thượng vị lan lên vai phải, không phải từ vú nhưng bệnh nhân có thể mô tả lan tới ngực.
 
-## Chụp nhũ ảnh và siêu âm
+## Chẩn đoán
 
 ### Chụp nhũ ảnh
 
@@ -120,16 +120,14 @@ Nếu nhũ ảnh và siêu âm đều không phát hiện tổn thương, bệnh
 
 ## Điều trị
 
-Việc điều trị đau vú chỉ được khuyến nghị khi triệu chứng ảnh hưởng đến chất lượng cuộc sống. Nếu đau vú do nguyên nhân ngoài tuyến vú (như viêm sụn sườn, zona), cần điều trị theo nguyên nhân. Với đau vú nguyên nhân không xác định rõ, hiệu quả của các biện pháp điều trị còn nhiều tranh cãi.
-
-**Quyết định điều trị dựa trên 4 yếu tố**:
+Việc điều trị đau vú chỉ được khuyến nghị khi triệu chứng ảnh hưởng đến chất lượng cuộc sống. Nếu đau vú do nguyên nhân ngoài tuyến vú (như viêm sụn sườn, zona), cần điều trị theo nguyên nhân. Với đau vú nguyên nhân không xác định rõ, hiệu quả của các biện pháp điều trị còn nhiều tranh cãi. **Chỉ định điều trị** dựa trên 4 yếu tố:
 
 1. Mức độ nghiêm trọng của đau (điểm số đau, tác động sinh hoạt).
 2. Tuổi tác và chu kỳ sinh sản (mong muốn mang thai, cho con bú).
 3. Tình trạng tổng thể (tiền sử bệnh lý, thuốc đang dùng).
 4. Mong muốn của bệnh nhân (sẵn sàng thử thách nghiệm pháp, tác dụng phụ).
 
-### Điều trị
+**Tiếp cận** bệnh nhân:
 
 - Bắt đầu bằng khám lâm sàng, hỏi tiền sử, phân loại đau (chu kỳ, không chu kỳ, ngoài vú).
 - Nếu ≥ 35 tuổi và chưa có nhũ ảnh gần đây (< 1 năm), chỉ định nhũ ảnh kết hợp siêu âm (nếu cần).

@@ -5,7 +5,7 @@ description: Nguyên nhân, phân loại và cách xử trí tiết dịch núm 
 
 Tiết dịch núm vú (nipple discharge) là hiện tượng có dịch chảy ra từ một hoặc cả hai núm vú. Phần lớn nguyên nhân gây tiết dịch núm vú là lành tính, nhưng cần phân biệt kỹ để không bỏ sót các tổn thương ác tính. Dịch tiết có thể đa dạng về màu sắc (trắng như sữa, vàng, máu, nâu, đục, mủ), số lượng, tính chất, và mức độ liên quan đến kích thích hay chủ động tự phát.
 
-### Phân loại
+## Phân loại
 
 1. **Tiết sữa (galactorrhea)**
 
@@ -28,7 +28,9 @@ Tiết dịch núm vú (nipple discharge) là hiện tượng có dịch chảy 
 
 Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thường hai bên vú, không liên quan đến việc cho con bú. Hiện tượng này chủ yếu do tăng tiết hormone prolactin, tác động lên biểu mô ống tuyến vú.
 
-### Nguyên nhân
+### Chẩn đoán
+
+#### Lâm sàng
 
 1. **Tăng prolactin từ u tuyến yên**
 
@@ -54,7 +56,7 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 5. **Kích thích núm vú quá mức**
    - Vệ sinh, sờ nắn hoặc kích thích tình dục lặp lại có thể gây phản xạ thần kinh tăng tiết prolactin.
 
-### Cận lâm sàng
+#### Cận lâm sàng
 
 1. **Đo prolactin máu**
 
@@ -79,21 +81,21 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 
 ### Điều trị
 
-- **Điều trị vào nguyên nhân cơ bản**
+#### Theo nguyên nhân
 
-  - Nếu do thuốc: ngưng hoặc thay thế bằng thuốc khác ít gây tăng prolactin.
-  - Nếu do nhược giáp: điều trị thay thế hormone tuyến giáp (levothyroxine).
-  - Nếu do rối loạn chức năng thận/ gan: xử lý theo chuyên khoa tương ứng.
+- Nếu do thuốc: ngưng hoặc thay thế bằng thuốc khác ít gây tăng prolactin.
+- Nếu do nhược giáp: điều trị thay thế hormone tuyến giáp (levothyroxine).
+- Nếu do rối loạn chức năng thận/ gan: xử lý theo chuyên khoa tương ứng.
 
-- **Thuốc ức chế tiết prolactin**
+#### Nội khoa
 
-  - **Bromocriptine** (đồng vận dopamine):
-    - Liều khởi đầu 1.25–2.5 mg/ngày, chia 2 lần, sau đó tăng dần 2.5 mg mỗi 2–7 ngày, đến khi prolactin về mức bình thường.
-    - Liều duy trì: 2.5–15 mg/ngày, chia 2–3 lần.
-    - Theo dõi prolactin sau 4–6 tuần điều trị; nếu hết tiết sữa, bắt đầu giảm liều dần và ngưng sau 3 tháng ổn định.
-  - **Cabergoline** (đồng vận dopamine chọn lọc):
-    - Liều 0.25–0.5 mg 1–2 lần/tuần, hiệu quả kéo dài, ít tác dụng phụ vã mồ hôi, buồn nôn hơn Bromocriptine.
-    - Dùng trong 3–6 tháng, theo dõi prolactin mỗi 4–6 tuần.
+- **Bromocriptine** (đồng vận dopamine):
+  - Liều khởi đầu 1.25–2.5 mg/ngày, chia 2 lần, sau đó tăng dần 2.5 mg mỗi 2–7 ngày, đến khi prolactin về mức bình thường.
+  - Liều duy trì: 2.5–15 mg/ngày, chia 2–3 lần.
+  - Theo dõi prolactin sau 4–6 tuần điều trị; nếu hết tiết sữa, bắt đầu giảm liều dần và ngưng sau 3 tháng ổn định.
+- **Cabergoline** (đồng vận dopamine chọn lọc):
+  - Liều 0.25–0.5 mg 1–2 lần/tuần, hiệu quả kéo dài, ít tác dụng phụ vã mồ hôi, buồn nôn hơn Bromocriptine.
+  - Dùng trong 3–6 tháng, theo dõi prolactin mỗi 4–6 tuần.
 
 #### Theo dõi sau điều trị
 
@@ -144,6 +146,8 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
 
 ### Lâm sàng
 
+#### Lâm sàng
+
 - **Một bên vú**: Dịch chỉ xuất hiện ở một vú, thường không đau hoặc chỉ đau nhẹ.
 - **Một ống tuyến**: Bệnh nhân có thể chỉ ra rõ vị trí ống chảy dịch khi ấn nhẹ xung quanh quầng vú.
 - **Tự phát, không liên quan kích thích**: Dịch chảy tự nhiên, không cần ép mạnh hoặc kích thích kéo dài.
@@ -152,7 +156,7 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
   - **Dịch mủ**: Gợi ý áp xe hoặc viêm ống tuyến.
   - **Dịch đục hoặc vàng đục**: Thường gặp trong viêm vú hoặc tổn thương apocrine.
 
-### Cận lâm sàng
+#### Cận lâm sàng
 
 1. **Đo prolactin máu**
 

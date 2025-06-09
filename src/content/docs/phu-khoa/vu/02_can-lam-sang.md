@@ -72,7 +72,7 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
     1. Lưới dọc – ngang (grid): để khảo sát toàn bộ vú theo từng hàng ngang.
     2. Lát cắt hình nan hoa (radial) và hình tiếp tuyến (antiradial): theo hướng tia phóng xạ tỏa ra từ núm-vú, giúp phát hiện khối lồi ra hoặc tổn thương đậm đặc.
     3. Khảo sát hạch nách: tìm hạch to, thay đổi cấu trúc, tăng sinh mạch máu (Doppler).
-- **Đặc điểm mô tả khối**:
+- **Hình ảnh đặc trưng**:
 
   - **Hình thái**: Tròn, bầu dục, tam giác, không đều.
   - **Bờ**: Trơn nhẵn (lành tính), hoặc không đều, xù xì (nghi ngờ ác tính).
@@ -98,7 +98,7 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
   - Chi phí cao, thời gian chụp lâu (30–45 phút).
   - Độ đặc hiệu thấp hơn nhũ ảnh (72–75%), dễ có dương tính giả (nang u lành tính, mô xơ tăng sinh).
   - Không thích hợp cho phụ nữ có máy tạo nhịp tim, thiết bị kim loại không tương thích.
-- **Chỉ định (theo khuyến cáo Hội Ung thư Hoa Kỳ – ACS)**:
+- **Chỉ định** (theo khuyến cáo Hội Ung thư Hoa Kỳ – ACS):
   1. Phụ nữ có đột biến BRCA1/BRCA2 hoặc có người thân thế hệ gần đột biến.
   2. Phụ nữ có tiền sử chiếu xạ ngực liều cao (10–30 tuổi).
   3. Phụ nữ ung thư vú trước đây muốn theo dõi tái phát (đặc biệt vú đậm đặc).
@@ -107,11 +107,9 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
 - **Đánh giá tổn thương**:
 
   - **Đặc tính bắt thuốc (enhancement kinetics)**:
-
     - **Wash-in nhanh – wash-out nhanh** (type III): nghi ngờ ác tính.
     - **Wash-in chậm – tăng dần** (type I): gợi ý lành tính.
     - **Wash-in nhanh – tăng dần** (type II): có thể là tổn thương giáp biên.
-
   - **Phân loại theo BIRADS-MRI**: Từ 1 (bình thường) đến 6 (đã xác định u ác tính), giúp quyết định can thiệp tiếp theo.
 
   ![Cộng hưởng từ tuyến vú](../../../../assets/phu-khoa/can-lam-sang-tuyen-vu/cong-huong-tu-tuyen-vu.png)
@@ -182,7 +180,7 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
 
 - BRCA1 và BRCA2 (Breast Cancer genes 1 & 2) là các gene ức chế u (tumor suppressor genes) có vai trò sửa chữa DNA đứt gãy sợi kép. Đột biến (mutation) ở các gene này làm mất chức năng sửa chữa DNA, dẫn đến tăng nguy cơ ung thư vú, buồng trứng...
 - **Protein BRCA1/BRCA2**: Tham gia con đường sửa chữa homologous recombination – quan trọng để bảo vệ tính toàn vẹn của bộ gen.
-- **Chỉ định xét**:
+- **Chỉ định**:
   1. Gia đình có ≥ 3 người ung thư vú hoặc buồng trứng (ít nhất một người < 50 tuổi).
   2. Hai người thân thế hệ thứ nhất hoặc hai thế hệ thứ hai có ung thư vú/buồng trứng.
   3. Có người thân nam bị ung thư vú.
