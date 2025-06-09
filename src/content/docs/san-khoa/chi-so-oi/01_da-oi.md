@@ -95,7 +95,7 @@ _Mức độ đa ối._
 - Thai ≥ 37 tuần với đa ối nặng.
 - Thai 34–37 tuần có quá tải dịch nặng và đã dùng corticosteroids.
 
-![Phác đồ xử trí đa ối đơn thuần – Bệnh viện Từ Dũ](../../../../assets/san-khoa/da-oi/phac-do-xu-tri-da-oi-don-thuan.jpg)
+![Phác đồ xử trí đa ối đơn thuần – Bệnh viện Từ Dũ](./_images/da-oi/phac-do-xu-tri-da-oi-don-thuan.jpg)
 
 _Phác đồ xử trí đa ối đơn thuần (đơn thai) – Bệnh viện Từ Dũ._
 

@@ -79,7 +79,7 @@ Chủ yếu dựa vào siêu âm:
   - Thường quy từ 28 tuần đến 33 tuần 6 ngày.
   - Cân nhắc với trường hợp 24–27 tuần 6 ngày.
 
-![Phác đồ xử trí thiểu ối đơn thuần – Bệnh viện Từ Dũ](../../../../assets/san-khoa/thieu-oi/phac-do-xu-tri-thieu-oi-don-thuan.png)
+![Phác đồ xử trí thiểu ối đơn thuần – Bệnh viện Từ Dũ](./_images/thieu-oi/phac-do-xu-tri-thieu-oi-don-thuan.png)
 
 _Phác đồ xử trí thiểu ối đơn thuần – Bệnh viện Từ Dũ._
 
