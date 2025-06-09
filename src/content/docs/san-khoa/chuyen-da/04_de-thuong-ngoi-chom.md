@@ -34,7 +34,7 @@ Ngôi được xem là đã lọt khi đường kính lọt của ngôi vượt 
   - Chưa lọt: -1, -2, -3.
   - Đã lọt: +1, +2, +3.
 
-![Độ lọt ngôi thai](../../../../assets/san-khoa/de-thuong-ngoi-chom/do-lot-ngoi-thai.png)
+![Độ lọt ngôi thai](./_images/de-thuong-ngoi-chom/do-lot-ngoi-thai.png)
 
 _Độ lọt ngôi thai._
 
@@ -46,7 +46,7 @@ Là sự di chuyển tiếp theo của ngôi thai trong tiểu khung sau khi đ�
 
 Xoay trong giúp ngôi điều chỉnh để đường kính sổ của đầu trùng với đường kính trước - sau của eo dưới.
 
-![Xuống và xoay trong](../../../../assets/san-khoa/de-thuong-ngoi-chom/xuong-va-xoay-trong.png)
+![Xuống và xoay trong](./_images/de-thuong-ngoi-chom/xuong-va-xoay-trong.png)
 
 _Xuống và xoay trong._
 
@@ -58,7 +58,7 @@ Sổ thai xảy ra khi ngôi vượt qua eo dưới, điểm tựa chính là **
 
 Các giai đoạn **(a → d)** xảy ra theo cơ chế tự nhiên, **không được can thiệp**:
 
-![Đẻ thường ngôi chỏm a-d](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-a-d.png)
+![Đẻ thường ngôi chỏm a-d](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-a-d.png)
 
 _Đẻ thường ngôi chỏm a → d._
 
@@ -75,7 +75,7 @@ Từ giai đoạn **(e → h)**, người đỡ sinh có thể **hỗ trợ** n�
   - Quấn lỏng: tháo.
   - Quấn chặt: kẹp và cắt.
 
-![Đẻ thường ngôi chỏm e-f](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-e-f.png)
+![Đẻ thường ngôi chỏm e-f](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-e-f.png)
 
 _Đẻ thường ngôi chỏm e → f._
 
@@ -85,7 +85,7 @@ _Đẻ thường ngôi chỏm e → f._
 - **Đỡ vai trước**: kéo đầu về phía chân người đỡ, xuống dưới để vai ra.
 - **Đỡ vai sau**: kéo thai lên trên, vai sau sổ nhẹ nhàng, giữ tầng sinh môn.
 
-![Đẻ thường ngôi chỏm g-h](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-g-h.png)
+![Đẻ thường ngôi chỏm g-h](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-g-h.png)
 
 _Đẻ thường ngôi chỏm g → h._
 
@@ -100,7 +100,7 @@ _Đẻ thường ngôi chỏm g → h._
 Cắt tầng sinh môn không rút ngắn thời gian rặn, không giúp sinh nhanh hơn.
 :::
 
-![Cắt tầng sinh môn](../../../../assets/san-khoa/de-thuong-ngoi-chom/cat-tang-sinh-mon.png)
+![Cắt tầng sinh môn](./_images/de-thuong-ngoi-chom/cat-tang-sinh-mon.png)
 
 _Cắt tầng sinh môn._
 

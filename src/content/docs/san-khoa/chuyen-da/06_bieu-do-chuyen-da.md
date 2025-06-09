@@ -78,7 +78,7 @@ Nhiễm trùng ối dẫn đến nhiễm trùng thai, sơ sinh, rồi đến nhi
 
 Sản đồ WHO model 1993 là công cụ mạnh trong theo dõi và phát hiện sớm chuyển dạ kéo dài, hỗ trợ can thiệp kịp thời.
 
-![Sản đồ WHO 1993](../../../../assets/san-khoa/bieu-do-chuyen-da/bieu-do-chuyen-da-who-1993.png)
+![Sản đồ WHO 1993](./_images/bieu-do-chuyen-da/bieu-do-chuyen-da-who-1993.png)
 
 _Sản đồ WHO 1993._
 

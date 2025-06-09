@@ -32,7 +32,7 @@ Khung chậu có vai trò rất quan trọng trong sản khoa, vì thai từ tro
 
 - Eo trên là vòng xương cứng, không thay đổi trong chuyển dạ. Kích thước của eo trên được thể hiện qua các **đường kính**:
 
-  ![Các đường kính eo trên](../../../../assets/san-khoa/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
+  ![Các đường kính eo trên](./_images/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
 
   _Các đường kính eo trên._
 
@@ -63,7 +63,7 @@ Khung chậu có vai trò rất quan trọng trong sản khoa, vì thai từ tro
 
 - Hõm xương cùng tạo thành một **khúc cong**, giống như "khúc cua cùi chỏ", đòi hỏi ngôi thai phải xoay để vượt qua.
 
-  ![Tiểu khung trên thiết đồ đứng dọc](../../../../assets/san-khoa/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
+  ![Tiểu khung trên thiết đồ đứng dọc](./_images/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
 
   _Tiểu khung trên thiết đồ đứng dọc._
 
@@ -122,7 +122,7 @@ Thực hiện khi sản phụ chuyển dạ hoặc thai đủ trưởng thành. 
 
 Theo Caldwell–Moloy, khung chậu được chia thành 4 loại chính:
 
-![Các dạng khung chậu](../../../../assets/san-khoa/khung-chau-trong-san-khoa/cac-dang-khung-chau-theo-caldwell-moloy.png)
+![Các dạng khung chậu](./_images/khung-chau-trong-san-khoa/cac-dang-khung-chau-theo-caldwell-moloy.png)
 
 _4 dạng khung chậu theo Caldwell-Moloy._
 

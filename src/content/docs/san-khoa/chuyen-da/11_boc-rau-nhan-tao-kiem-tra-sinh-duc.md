@@ -28,7 +28,7 @@ Sau sổ thai, cần theo dõi sinh hiệu và lượng máu mất, **không** x
 
 ### Kỹ thuật
 
-![Kỹ thuật bóc rau nhân tạo](../../../../assets/san-khoa/boc-rau-nhan-tao-kiem-tra-sinh-duc/ky-thuat-boc-rau-nhan-tao.png)
+![Kỹ thuật bóc rau nhân tạo](./_images/boc-rau-nhan-tao-kiem-tra-sinh-duc/ky-thuat-boc-rau-nhan-tao.png)
 
 _Kỹ thuật bóc rau nhân tạo._
 

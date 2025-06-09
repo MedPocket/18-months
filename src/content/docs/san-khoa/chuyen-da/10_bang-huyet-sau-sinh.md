@@ -100,7 +100,7 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 
    - Trả tử cung, gây mềm cơ tử cung, phẫu thuật nếu cần.
 
-     ![Lộn tử cung và kỹ thuật đưa tử cung về bình thường](../../../../assets/san-khoa/bang-huyet-sau-sinh/lon-tu-cung-va-ky-thuat-dua-tu-cung-ve-binh-thuong.png)
+     ![Lộn tử cung và kỹ thuật đưa tử cung về bình thường](./_images/bang-huyet-sau-sinh/lon-tu-cung-va-ky-thuat-dua-tu-cung-ve-binh-thuong.png)
 
      _Lộn tử cung và kỹ thuật đưa tử cung về bình thường._
 

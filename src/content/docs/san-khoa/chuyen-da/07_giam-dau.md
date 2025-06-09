@@ -15,7 +15,7 @@ description: Sử dụng giảm đau trong chuyển dạ.
 
 ### Yếu tố ảnh hưởng
 
-![Các yếu tố ảnh hưởng đến đau trong chuyển dạ](../../../../assets/san-khoa/giam-dau-trong-chuyen-da/yeu-to-anh-huong-den-dau-trong-chuyen-da.png)
+![Các yếu tố ảnh hưởng đến đau trong chuyển dạ](./_images/giam-dau-trong-chuyen-da/yeu-to-anh-huong-den-dau-trong-chuyen-da.png)
 
 _Các yếu tố ảnh hưởng đến đau trong chuyển dạ._
 
@@ -30,7 +30,7 @@ _Các yếu tố ảnh hưởng đến đau trong chuyển dạ._
 
 Đau trong chuyển dạ không có lợi ích sinh lý thiết yếu và không nên bị coi là "cần thiết". Giảm đau hiệu quả không những nâng cao trải nghiệm sinh đẻ mà còn có thể cải thiện kết cục sản khoa. Tuy nhiên, một số người vẫn tin rằng chịu đựng đau sẽ giúp sinh nở tốt hơn hoặc sợ rằng giảm đau sẽ làm chậm chuyển dạ — những điều này chưa có bằng chứng rõ ràng.
 
-![Các phương pháp có thể dùng để giảm đau trong chuyển dạ](../../../../assets/san-khoa/giam-dau-trong-chuyen-da/cac-phuong-phap-gay-te.png)
+![Các phương pháp có thể dùng để giảm đau trong chuyển dạ](./_images/giam-dau-trong-chuyen-da/cac-phuong-phap-gay-te.png)
 
 _Các phương pháp có thể dùng để giảm đau trong chuyển dạ._
 
@@ -46,7 +46,7 @@ Tê ngoài màng cứng là phương pháp phổ biến trong giảm đau sản 
 
 Phương pháp này an toàn với sản phụ có tiền sản giật nặng hoặc một số bệnh tim như hẹp van động mạch chủ.
 
-![Vị trí đâm kim tê ngoài màng cứng](../../../../assets/san-khoa/giam-dau-trong-chuyen-da/gay-te-ngoai-mang-cung.png)
+![Vị trí đâm kim tê ngoài màng cứng](./_images/giam-dau-trong-chuyen-da/gay-te-ngoai-mang-cung.png)
 
 _Vị trí đâm kim tê ngoài màng cứng._
 

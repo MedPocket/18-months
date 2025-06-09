@@ -16,7 +16,7 @@ Giai đoạn 3 của chuyển dạ từ khi thai sổ đến khi rau bong và c�
 - Sau sổ thai, tử cung co khít, tạo áp lực bóp khối rau bám không đàn hồi, làm nó tách dần khỏi thành tử cung.
 - Máu rò rỉ vào khoảng trống sau bong, hình thành khối máu tụ, lan dần để tách phần rau còn bám.
 
-  ![Thì bong rau](../../../../assets/san-khoa/xu-tri-tich-cuc-giai-doan-3/bong-rau.png)
+  ![Thì bong rau](./_images/xu-tri-tich-cuc-giai-doan-3/bong-rau.png)
 
   _Thì bong rau._
 
@@ -28,7 +28,7 @@ Giai đoạn 3 của chuyển dạ từ khi thai sổ đến khi rau bong và c�
 - **Kiểu Beaudelocque** (phổ biến): máu tụ trung tâm, rau phồng lên rồi tróc dần, mặt thai (fetal side) xuất trước.
 - **Kiểu Duncan** (ít gặp): máu tụ ở mép, rau bong kém, mặt mẹ (maternal side) xuất trước, mất máu nhiều.
 
-  ![Thì sổ rau](../../../../assets/san-khoa/xu-tri-tich-cuc-giai-doan-3/so-rau.png)
+  ![Thì sổ rau](./_images/xu-tri-tich-cuc-giai-doan-3/so-rau.png)
 
   _Thì sổ rau._
 
@@ -37,7 +37,7 @@ Giai đoạn 3 của chuyển dạ từ khi thai sổ đến khi rau bong và c�
 - Sau khi rau sổ, tử cung co thành **khối cầu an toàn**, siết chặt mạch máu diện bám rau (cơ chế cơ học).
 - Cục máu đông hình thành bịt kín đầu mạch (cơ chế đông máu).
 
-  ![Thì cầm máu](../../../../assets/san-khoa/xu-tri-tich-cuc-giai-doan-3/cam-mau.png)
+  ![Thì cầm máu](./_images/xu-tri-tich-cuc-giai-doan-3/cam-mau.png)
 
   _Thì cầm máu._
 

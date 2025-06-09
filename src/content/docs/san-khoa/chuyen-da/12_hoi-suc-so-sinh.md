@@ -7,7 +7,7 @@ Mục tiêu chính của hồi sức sơ sinh là giúp trẻ thiết lập **tu
 
 ## Từ tuần hoàn bào thai sang sơ sinh
 
-![Tuần hoàn bào thai và sơ sinh](../../../../assets/san-khoa/hoi-suc-so-sinh/tuan-hoan-bao-thai-va-tuan-hoan-so-sinh.jpeg)
+![Tuần hoàn bào thai và sơ sinh](./_images/hoi-suc-so-sinh/tuan-hoan-bao-thai-va-tuan-hoan-so-sinh.jpeg)
 
 _Tuần hoàn bào thai (trái) với shunt qua lỗ Botal & ống động mạch – Phổi không trao đổi khí. Tuần hoàn sơ sinh (phải) – Phổi mở, shunt đóng._
 
@@ -44,7 +44,7 @@ Khoảng 10% trẻ sơ sinh cần hỗ trợ, chỉ 1% cần hồi sức tích c
 
 ## Quy trình
 
-![Lưu đồ hồi sức sơ sinh](../../../../assets/san-khoa/hoi-suc-so-sinh/luu-do-hoi-suc-so-sinh.jpeg)
+![Lưu đồ hồi sức sơ sinh](./_images/hoi-suc-so-sinh/luu-do-hoi-suc-so-sinh.jpeg)
 
 _Lưu đồ hồi sức sơ sinh._
 
@@ -74,7 +74,7 @@ _Lưu đồ hồi sức sơ sinh._
 
 ## Theo dõi
 
-![3 mức độ chăm sóc sau hồi sức](../../../../assets/san-khoa/hoi-suc-so-sinh/3-muc-do-cham-soc-sau-hoi-suc.jpeg)
+![3 mức độ chăm sóc sau hồi sức](./_images/hoi-suc-so-sinh/3-muc-do-cham-soc-sau-hoi-suc.jpeg)
 
 _3 mức độ chăm sóc sau hồi sức._
 

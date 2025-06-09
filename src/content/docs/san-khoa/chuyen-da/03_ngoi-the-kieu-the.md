@@ -23,7 +23,7 @@ description: Ngôi, thế, kiểu thế khi sinh.
 - **Ngôi trán**: Đầu ngửa trung gian, trán là phần trình diện.
 - **Ngôi mặt**: Đầu ngửa tối đa, gáy chạm lưng, cằm là phần trình diện.
 
-  ![Ngôi đầu](../../../../assets/san-khoa/ngoi-the-kieu-the/ngoi-dau.png)
+  ![Ngôi đầu](./_images/ngoi-the-kieu-the/ngoi-dau.png)
 
   _Ngôi đầu._
 
@@ -93,7 +93,7 @@ Trong ngôi chỏm, **ụ đầu** cùng bên với chi; trong ngôi mặt, ụ 
 
 ### Khám âm đạo
 
-![Các kiểu thế trong ngôi chỏm](../../../../assets/san-khoa/ngoi-the-kieu-the/cac-kieu-the-ngoi-chom.png)
+![Các kiểu thế trong ngôi chỏm](./_images/ngoi-the-kieu-the/cac-kieu-the-ngoi-chom.png)
 
 _Các kiểu thế trong ngôi chỏm._
 
