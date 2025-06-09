@@ -61,7 +61,7 @@ Bướu sợi-tuyến (Fibroadenoma) là khối u lành tính phát triển từ
   - Thường bao quanh bởi vầng sáng mỏng (halo) do mô mỡ – đặc trưng cho khối lành tính.
   - Đôi khi thấy vùng thấu quang bên trong do thoái hóa mỡ.
 
-  ![Bướu sợi tuyến](../../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/buou-soi-tuyen.png)
+  ![Bướu sợi tuyến](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-soi-tuyen.png)
 
   _(Trái, trên) Siêu âm bướu sợi-tuyến: khối giảm âm, bờ đa cung, đồng nhất. (Trái, dưới) MRI bướu sợi-tuyến: giới hạn rõ, đồng nhất, có vùng thoái hóa. (Giữa) Nhũ ảnh MLO: khối có lớp mỡ mỏng bao quanh. (Phải) Hình ảnh đại thể bướu sợi-tuyến: vỏ bao rõ, mặt cắt phồng đồng nhất.)_
 
@@ -103,7 +103,7 @@ Bướu diệp thể (Phyllodes tumor) là khối u phát triển nhanh, xuất 
 - **Nhũ ảnh**: khối lớn, giới hạn rõ, có thể bầu dục, hình tròn hoặc chia thùy, thỉnh thoảng thấy vôi hóa (ít phổ biến hơn fibroadenoma).
 - **MRI**: Thần kinh hóa mô đệm rõ, khối đồng nhất hoặc có vùng thoái hóa, bắt thuốc mạnh – thường dùng trong khối nghi ngờ ác tính hoặc khối tái phát.
 
-![Bướu diệp thể](../../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/buou-diep-the.png)
+![Bướu diệp thể](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-diep-the.png)
 
 _Bướu diệp thể: khối lớn, rõ, có các vùng hóa nang và thùy. Nhũ ảnh cho thấy vôi hóa không đồng nhất, siêu âm thể hiện khe rãnh và hóa nang._
 
@@ -141,7 +141,7 @@ Bướu nhú (Intraductal papilloma) là khối tăng sinh dạng nhú, xuất p
 - **Nhũ ảnh**: thường không thấy khối rõ ngoại trừ trường hợp kích thước lớn. Nếu có, khối nhỏ, bờ rõ, có thể có vôi hóa vi thể nhẹ.
 - **Chụp cản quang ống tuyến (Ductogram/ Galactogram)**: bơm thuốc cản quang vào ống dẫn sữa, quan sát hình ảnh lấp đầy ống bằng khối nhú.
 
-![Bướu nhú](../../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/buou-nhu.png)
+![Bướu nhú](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-nhu.png)
 
 _(Trái) Sơ đồ vị trí u nhú gây tiết dịch máu. (Phải) Chụp cản quang ống tuyến vú cho thấy hình ảnh u nhú trong ống.)_
 
@@ -174,7 +174,7 @@ Nang vú (Simple/Macrocystic cyst) là hình ảnh giãn dãn và thoái triển
   - Nang xuất hiện dưới dạng vùng đậm độ thấp (hypodense), giới hạn rõ, không vôi hóa.
   - Đôi khi không phân biệt rõ nang đặc – đặc biệt nang nhỏ < 5 mm.
 
-![Nang vú](../../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/nang-vu.png)
+![Nang vú](./_images/benh-ly-tuyen-vu-lanh-tinh/nang-vu.png)
 
 _Nang vú trên siêu âm: (Trái) nang điển hình: phản âm trống, bóng lưng rõ; (Phải) nang không điển hình: vách dày, cặn lắng.)_
 
@@ -207,7 +207,7 @@ Hamartoma là khối tổ chức lành tính, gồm các thành phần bình th�
   - Hình ảnh "vú trong vú" (breast within breast): khối tròn/bầu dục, biên rõ, có vùng mỡ thấu quang xen lẫn vùng cản quang (tổ hợp mô đặc – mỡ).
   - Có vỏ bao mỏng, phân biệt rõ với mô xung quanh.
 
-![Nhũ ảnh của Hamartoma vú, phim LMO vú phải và phim CC](../../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/benh-hamartoma.png)
+![Nhũ ảnh của Hamartoma vú, phim LMO vú phải và phim CC](./_images/benh-ly-tuyen-vu-lanh-tinh/benh-hamartoma.png)
 
 _Nhũ ảnh Hamartoma vú: hình ảnh "vú trong vú", vỏ bao mỏng bao quanh tổ hợp mô thấu quang – cản quang.)_
 
@@ -292,7 +292,7 @@ U mỡ (Lipoma) là khối u lành tính thường gặp nhất ở mô mỡ, ba
 - Vị trí phổ biến: vùng nách (most common), dưới vú chính, dọc đường sữa.
 - Thường không triệu chứng, chỉ thẩm mỹ; mô vú phụ vẫn có thể bị bệnh lý giống vú chính (u, viêm, nhiễm trùng).
 
-![Tuyến vú phụ](../../../../assets/phu-khoa/benh-ly-tuyen-vu-lanh-tinh/tuyen-vu-phu.png)
+![Tuyến vú phụ](./_images/benh-ly-tuyen-vu-lanh-tinh/tuyen-vu-phu.png)
 
 _(Trái) Tuyến vú phụ ở nách; (Phải) Sơ đồ đường sữa dọc ngực.)_
 

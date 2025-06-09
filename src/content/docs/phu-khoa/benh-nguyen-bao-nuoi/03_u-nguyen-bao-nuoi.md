@@ -222,15 +222,15 @@ _Phân loại NIH (Mỹ)_
 
 - Etoposide 100 mg/m² truyền TM trong 1 giờ + Cisplatin 20 mg/m² truyền TM trong 2 giờ mỗi ngày × 3 ngày, lặp lại hàng tuần cho tới ổn định.
 
-![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
+![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
 
 _Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ._
 
-![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
+![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
 
 _Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi – Bệnh viện Từ Dũ._
 
-![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
+![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
 
 _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ._
 
@@ -239,7 +239,7 @@ _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị tr�
 - **β-hCG** hàng tuần đến âm tính 3 lần liên tiếp, sau đó hàng tháng 6–12 tháng tùy nhóm.
 - **Khám lâm sàng, siêu âm, X-quang ngực, cận lâm sàng** khi β-hCG bất thường hoặc có triệu chứng lâm sàng.
 
-  ![Di căn phổi](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/choriocarcinoma-di-can-phoi-hinh-anh-tha-bong.png)
+  ![Di căn phổi](./_images/choriocarcinoma-di-can-phoi-hinh-anh-tha-bong.png)
 
   _Di căn phổi: hình ảnh bóng bay trên X-quang._
 

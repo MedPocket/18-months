@@ -56,7 +56,7 @@ description: Định nghĩa, phân loại, sàng lọc, chẩn đoán, điều t
 3. **Suy giảm chức năng tế bào β**  
    Không đáp ứng đủ nhu cầu insulin tăng cao → tăng glucose huyết.
 
-   ![Thay đổi nhu cầu insulin trong thai kỳ](../../../../assets/san-khoa/dai-thao-duong-thai-ky/thay-doi-ve-nhu-cau-insulin.png)
+   ![Thay đổi nhu cầu insulin trong thai kỳ](./_images/thay-doi-ve-nhu-cau-insulin.png)
 
    _Thay đổi nhu cầu insulin theo các giai đoạn thai kỳ._
 
@@ -216,7 +216,7 @@ _Đường huyết tương mao mạch mục tiêu._
    - **Bolus**: insulin tác dụng nhanh (Regular, Lispro, Aspart) nếu tăng sau ăn.
    - **Basal-bolus**: phối hợp khi tăng cả đói và sau ăn.
 
-   ![Các loại insulin thai kỳ](../../../../assets/san-khoa/dai-thao-duong-thai-ky/cac-loai-insulin.png)
+   ![Các loại insulin thai kỳ](./_images/cac-loai-insulin.png)
 
    _Các loại insulin và dấu đỏ: loại được phép dùng cho phụ nữ mang thai._
 
@@ -234,7 +234,7 @@ Phẫu thuật ở BN dùng insulin:
 
 :::
 
-![Tóm tắt thời điểm và chỉ định cách sinh](../../../../assets/san-khoa/dai-thao-duong-thai-ky/tom-tat-thoi-diem-va-chi-dinh-cach-sinh.webp)
+![Tóm tắt thời điểm và chỉ định cách sinh](./_images/tom-tat-thoi-diem-va-chi-dinh-cach-sinh.webp)
 
 _Tóm tắt thời điểm và chỉ định cách sinh._
 

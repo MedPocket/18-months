@@ -50,7 +50,7 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
        3. Trung gian (hình đa giác, tập trung).
        4. Nghi ngờ ác tính (hình tam giác, đĩa bay, vân xen kẽ).
 
-  ![Nhũ ảnh, phim MLO (trái) và phim CC (phải).](../../../../assets/phu-khoa/can-lam-sang-tuyen-vu/nhu-anh.png)
+  ![Nhũ ảnh, phim MLO (trái) và phim CC (phải).](./_images/can-lam-sang-tuyen-vu/nhu-anh.png)
 
   _Nhũ ảnh: phim MLO (trái) cho thấy mô vú và cơ ngực rõ, đặc biệt 1/4 trên ngoài. Phim CC (phải) cho thấy toàn bộ mô vú từ chân vú đến núm, cơ ngực lớn và túi Chassaignac._
 
@@ -82,7 +82,7 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
     - Hỗn hợp (mixed).
   - **Doppler**: Tăng sinh mạch máu bất thường gợi ý ác tính.
 
-  ![Siêu âm tuyến vú](../../../../assets/phu-khoa/can-lam-sang-tuyen-vu/sieu-am-vu.png)
+  ![Siêu âm tuyến vú](./_images/can-lam-sang-tuyen-vu/sieu-am-vu.png)
 
   _(Trái) Khối nang hỗn hợp và nang đơn thuần trên siêu âm vú. (Phải) Hướng dẫn sinh thiết nang vú qua siêu âm._
 
@@ -112,7 +112,7 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
     - **Wash-in nhanh – tăng dần** (type II): có thể là tổn thương giáp biên.
   - **Phân loại theo BIRADS-MRI**: Từ 1 (bình thường) đến 6 (đã xác định u ác tính), giúp quyết định can thiệp tiếp theo.
 
-  ![Cộng hưởng từ tuyến vú](../../../../assets/phu-khoa/can-lam-sang-tuyen-vu/cong-huong-tu-tuyen-vu.png)
+  ![Cộng hưởng từ tuyến vú](./_images/can-lam-sang-tuyen-vu/cong-huong-tu-tuyen-vu.png)
 
   _MRI vú cung cấp hình ảnh động học và giải phẫu chi tiết, giúp đánh giá tổn thương và mức độ xâm lấn xung quanh._
 

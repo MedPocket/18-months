@@ -71,11 +71,11 @@ Theo khuyến cáo của ACOG (2017):
 
    - Thực hiện trước gương, hai tay lần lượt đặt sau gáy, chống hông hoặc buông xuôi để quan sát hình dạng, kích thước, đối xứng vú và da vú (phát hiện ửng đỏ, co kéo, loét, thụt núm vú).
 
-   ![Tự quan sát trước gương và tự sờ nắn khi tắm và khi nằm](../../../../assets/phu-khoa/ung-thu-vu/kham-vu-truoc-guong-va-tu-so-nan.png)
+   ![Tự quan sát trước gương và tự sờ nắn khi tắm và khi nằm](./_images/ung-thu-vu/kham-vu-truoc-guong-va-tu-so-nan.png)
 
    _Tự quan sát trước gương và tự sờ nắn khi tắm và khi nằm._
 
-   ![Các tư thế tự quan sát trước gương và các tư thế để tự sờ nắn](../../../../assets/phu-khoa/ung-thu-vu/kham-vu-truoc-guong-va-cac-tu-the-so-nan.png)
+   ![Các tư thế tự quan sát trước gương và các tư thế để tự sờ nắn](./_images/ung-thu-vu/kham-vu-truoc-guong-va-cac-tu-the-so-nan.png)
 
    _Các tư thế tự quan sát trước gương và các tư thế để tự sờ nắn._
 
@@ -86,11 +86,11 @@ Theo khuyến cáo của ACOG (2017):
    - Khám cả vùng hạch nách và hạch đòn.
    - Khi sờ nắn, dùng 3 ngón giữa áp sát vùng mô, phối hợp bàn tay đặt sau gáy để cố định ngực và di chuyển các ngón tay từ ngoài vào trong.
 
-   ![Khám vú bằng cách dùng 3 ngón giữa của 2 bàn tay](../../../../assets/phu-khoa/ung-thu-vu/kham-vu-bang-3-ngon-giua.png)
+   ![Khám vú bằng cách dùng 3 ngón giữa của 2 bàn tay](./_images/ung-thu-vu/kham-vu-bang-3-ngon-giua.png)
 
    _Khám vú bằng cách dùng 3 ngón giữa của 2 bàn tay. Khi tự sờ nắn, bàn tay để sau gáy sẽ giúp cảm nhận tốt hơn._
 
-   ![Lộ trình của các ngón tay khi tự khám vú](../../../../assets/phu-khoa/ung-thu-vu/kham-vu-theo-thu-tu.png)
+   ![Lộ trình của các ngón tay khi tự khám vú](./_images/ung-thu-vu/kham-vu-theo-thu-tu.png)
 
    _Lộ trình của các ngón tay khi tự khám vú._
 
@@ -364,7 +364,7 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
      - Bệnh nhân yêu cầu đoạn nhũ hoặc có chỉ định dự phòng (đột biến BRCA).
      - Không có bằng chứng di căn hạch lâm sàng hoặc âm tính nhưng gia đình có nguyện vọng cắt bỏ.
 
-   ![Đoạn nhũ](../../../../assets/phu-khoa/ung-thu-vu/doan-nhu.png)
+   ![Đoạn nhũ](./_images/ung-thu-vu/doan-nhu.png)
 
    _Đoạn nhũ đơn giản (Simple mastectomy), Đoạn nhũ tận gốc cải tiến (Modified radical mastectomy), và Đoạn nhũ tận gốc (Radical mastectomy: Halsted)._
 
@@ -524,7 +524,7 @@ Bệnh Paget núm vú là một dạng ung thư hiếm gặp (1–2% ung thư v�
 - Nhũ ảnh và siêu âm vú: Tìm khối u hoặc các vùng microcalcifications.
 - Nếu hình ảnh bình thường, nhưng sinh thiết dương tính Paget, vẫn phải đánh giá toàn bộ vú để loại trừ ung thư tiềm ẩn bên dưới.
 
-  ![Bệnh Paget](../../../../assets/phu-khoa/ung-thu-vu/benh-paget.png)
+  ![Bệnh Paget](./_images/ung-thu-vu/benh-paget.png)
 
   _Bệnh Paget núm vú thường bị chẩn đoán trễ do biểu hiện lâm sàng tương tự chàm (ngứa, bỏng rát), trong khi đa số kèm theo ung thư mô vú bên dưới._
 

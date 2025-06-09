@@ -63,13 +63,13 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 - **Thai trứng toàn phần**: "tổ ong"/"bão tuyết" không thấy phôi, hình ảnh nhiều nang nước.
 
-  ![Hình ảnh siêu âm thai trứng toàn phần](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-toan-phan.png)
+  ![Hình ảnh siêu âm thai trứng toàn phần](./_images/hinh-anh-sieu-am-thai-trung-toan-phan.png)
 
   _Hình ảnh siêu âm thai trứng toàn phần._
 
 - **Thai trứng bán phần**: hình ảnh nang nước không đồng nhất, có thể kèm túi thai hoặc phôi thoái hóa.
 
-  ![Hình ảnh siêu âm thai trứng bán phần](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/hinh-anh-sieu-am-thai-trung-ban-phan.png)
+  ![Hình ảnh siêu âm thai trứng bán phần](./_images/hinh-anh-sieu-am-thai-trung-ban-phan.png)
 
   _Hình ảnh siêu âm thai trứng bán phần._
 
@@ -141,7 +141,7 @@ Không sử dụng hóa trị khi:
 
 - Theo dõi chặt: không hóa dự phòng nếu bệnh nhân có thể tuân thủ theo dõi β-hCG nghiêm ngặt.
 
-![Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/benh-nguyen-bao-nuoi/tu-du-phac-do-1-nguyen-tac-xu-tri-thai-trung.png)
+![Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-1-nguyen-tac-xu-tri-thai-trung.png)
 
 _Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh viện Từ Dũ._
 

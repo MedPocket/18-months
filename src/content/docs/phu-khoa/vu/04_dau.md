@@ -209,11 +209,11 @@ Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 
 - Với đau vú lan toả, **không khuyến cáo phẫu thuật cắt bỏ vú** (mastectomy), vì 50% trường hợp sau mổ vẫn còn đau hoặc tái phát.
 - Nếu bệnh nhân vẫn yêu cầu mastectomy hủy vú để tái tạo, cần đánh giá tâm lý kỹ, giải thích biến chứng tiềm ẩn và cơ hội thành công không cao.
 
-![Điều trị đau vú – Phác đồ Cardiff, 2009](../../../../assets/phu-khoa/dau-vu/dieu-tri-dau-vu-theo-phac-do-cardiff.png)
+![Điều trị đau vú – Phác đồ Cardiff, 2009](./_images/dau-vu/dieu-tri-dau-vu-theo-phac-do-cardiff.png)
 
 _Điều trị đau vú – Phác đồ Cardiff, 2009._
 
-![Đánh giá và xử trí đau vú – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/dau-vu/danh-gia-va-xu-tri-dau-vu.png)
+![Đánh giá và xử trí đau vú – Bệnh viện Từ Dũ](./_images/dau-vu/danh-gia-va-xu-tri-dau-vu.png)
 
 _Đánh giá và xử trí đau vú – Bệnh viện Từ Dũ._
 

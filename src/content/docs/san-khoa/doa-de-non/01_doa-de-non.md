@@ -70,7 +70,7 @@ Khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do tách màng
 
 - Đo siêu âm ngả âm đạo, từ lỗ ngoài đến lỗ trong cổ tử cung.
 
-  ![Chiều dài cổ tử cung](../../../../assets/san-khoa/doa-de-non/chieu-dai-co-tu-cung.png)
+  ![Chiều dài cổ tử cung](./_images/chieu-dai-co-tu-cung.png)
 
   _Chiều dài cổ tử cung._
 
@@ -83,7 +83,7 @@ Khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do tách màng
 - Cổ tử cung dạng U, Y: nguy cơ cao.
 - Dạng I (hình phễu nhẹ): tiên lượng tốt hơn.
 
-  ![Hình dạng lỗ tử cung](../../../../assets/san-khoa/doa-de-non/hinh-dang-lo-tu-cung.png)
+  ![Hình dạng lỗ tử cung](./_images/hinh-dang-lo-tu-cung.png)
 
   _Hình dạng lỗ tử cung._
 
@@ -284,7 +284,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 - Cho trường hợp hở eo tử cung, kênh cổ ngắn < 25 mm.
 - Không lợi ở cổ ngắn không có tiền sử sinh non, có nguy cơ ở song thai.
 
-  ![Khâu vòng cổ tử cung](../../../../assets/san-khoa/doa-de-non/khau-vong-co-tu-cung.png)
+  ![Khâu vòng cổ tử cung](./_images/khau-vong-co-tu-cung.png)
 
   _Khâu vòng cổ tử cung._
 
@@ -295,11 +295,11 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 - Đặt 14–32 tuần hoặc 2 tuần trước mốc sinh non trước đó.
 - Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.
 
-  ![Vòng nâng cổ tử cung](../../../../assets/san-khoa/doa-de-non/vong-nang-co-tu-cung.png)
+  ![Vòng nâng cổ tử cung](./_images/vong-nang-co-tu-cung.png)
 
   _Vòng nâng cổ tử cung._
 
-![Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ.](../../../../assets/san-khoa/doa-de-non/luu-do-du-phong-sinh-non.png)
+![Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ.](./_images/luu-do-du-phong-sinh-non.png)
 
 _Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ._
 

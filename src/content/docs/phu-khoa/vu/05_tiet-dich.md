@@ -222,7 +222,7 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
   3. **Ung thư ống tại chỗ (DCIS) hoặc carcinoma xâm lấn**:
      - Chuyển sang phác đồ điều trị ung thư vú (phẫu thuật, xạ trị, hóa – nội tiết tùy giai đoạn và phân nhóm mô học).
 
-![Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tiet-dich-num-vu/xu-tri-tiet-dich-num-vu-benh-ly.jpeg)
+![Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ Dũ](./_images/tiet-dich-num-vu/xu-tri-tiet-dich-num-vu-benh-ly.jpeg)
 
 _Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ Dũ._
 
