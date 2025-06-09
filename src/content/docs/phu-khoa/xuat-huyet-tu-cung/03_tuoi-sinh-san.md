@@ -14,7 +14,7 @@ Theo khuyến cáo của FIGO 2018, AUB được phân thành hai hệ thống:
 
 ### Theo định nghĩa
 
-![Các thuật ngữ về xuất huyết tử cung bất thường](../../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/cac-thuat-ngu-ve-xuat-huyet-tu-cung-bat-thuong.jpeg)
+![Các thuật ngữ về xuất huyết tử cung bất thường](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/cac-thuat-ngu-ve-xuat-huyet-tu-cung-bat-thuong.jpeg)
 
 _Các thuật ngữ liên quan đến xuất huyết tử cung bất thường theo FIGO._
 
@@ -141,11 +141,11 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
 - Nghi u tuyến yên (lactotroph adenoma) nếu prolactin tăng cao.
 - Nghi ngờ u lạc nội mạc hoặc tổn thương lan tỏa trong cơ.
 
-![Sơ đồ tiếp cận AUB mạn tính – Bệnh viện Từ Dũ.](../../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
+![Sơ đồ tiếp cận AUB mạn tính – Bệnh viện Từ Dũ.](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
 
 _Sơ đồ tiếp cận AUB mạn tính – Bệnh viện Từ Dũ._
 
-![Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường](../../../../assets/phu-khoa/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/tom-luoc-khao-sat-va-chan-doan-1-so-truong-hop.jpeg)
+![Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/tom-luoc-khao-sat-va-chan-doan-1-so-truong-hop.jpeg)
 
 _Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp AUB._
 

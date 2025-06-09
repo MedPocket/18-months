@@ -123,7 +123,7 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
   1. Thoái giáng trực tiếp từ 2n kép → 2n (ung thư nghịch mầm, ác tính cao).
   2. Qua phân bào I giảm nhiễm → tế bào n kép → thoái giáng thành u (ung thư nghịch phôi, đa số lành tính).
 
-  ![Sơ đồ cổ điển và giản lược về các khối u tế bào mầm](../../../../assets/phu-khoa/u-buong-trung-theo-who/so-do-co-dien-va-gian-luoc-u-te-bao-mam.png)
+  ![Sơ đồ cổ điển và giản lược về các khối u tế bào mầm](./_images/u-buong-trung-theo-who/so-do-co-dien-va-gian-luoc-u-te-bao-mam.png)
 
   _Sơ đồ cổ điển và giản lược về các khối u tế bào mầm._
 

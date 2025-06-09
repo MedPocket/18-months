@@ -18,7 +18,7 @@ Bên trong là DNA kép vòng, dài 7904 bp, gồm các gen:
 - **L1, L2**: protein vỏ capsid.
 - **E6, E7**: đa chức năng, tương tác với p53 và pRb, quyết định khả năng sinh ung thư.
 
-![DNA HPV16 7904 bp](../../../../assets/phu-khoa/hpv/so-do-dna-hpv-16.png)
+![DNA HPV16 7904 bp](./_images/hpv/so-do-dna-hpv-16.png)
 
 _Sơ đồ DNA 7904 bp của HPV type 16._
 
@@ -51,11 +51,11 @@ _Sơ đồ DNA 7904 bp của HPV type 16._
 
   Miễn dịch qua trung gian tế bào quyết định khả năng thanh thải HPV.
 
-  ![Cơ chế hình thành tế bào bất tử khi nhiễm HPV](../../../../assets/phu-khoa/hpv/co-che-hinh-thanh-te-bao-bat-tu-khi-nhiem-hpv.png)
+  ![Cơ chế hình thành tế bào bất tử khi nhiễm HPV](./_images/hpv/co-che-hinh-thanh-te-bao-bat-tu-khi-nhiem-hpv.png)
 
   _Cơ chế hình thành tế bào bất tử khi nhiễm HPV._
 
-  ![Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV](../../../../assets/phu-khoa/hpv/mien-dich-bam-sinh-va-thich-nghi-qua-trung-gian-te-bao-bao-ve-chong-hpv.png)
+  ![Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV](./_images/hpv/mien-dich-bam-sinh-va-thich-nghi-qua-trung-gian-te-bao-bao-ve-chong-hpv.png)
 
   _Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV._
 

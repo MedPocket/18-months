@@ -28,7 +28,7 @@ Các phương pháp hình ảnh chính:
 
 #### Phân loại u buồng trứng theo hình thái siêu âm Tokyo
 
-![Phân loại u buồng trứng theo hình thái siêu âm Tokyo](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-theo-Tokyo.jpeg)
+![Phân loại u buồng trứng theo hình thái siêu âm Tokyo](./_images/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-theo-Tokyo.jpeg)
 
 _Phân loại u buồng trứng theo hình thái siêu âm Tokyo._
 
@@ -46,17 +46,17 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 - **O-RADS 0**: khó đánh giá (hơi ruột, sang thương lớn, vị trí khó...).
 - **O-RADS 1**: sang thương sinh lý (nang noãn, nang hoàng thể).
 
-  ![O-RADS 1](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-1.png)
+  ![O-RADS 1](./_images/phuong-tien-tiep-can-u-buong-trung/orads-1.png)
 
   _O-RADS 1._
 
 - **O-RADS 2** (< 1% ác): nang đơn thùy < 10 cm (đơn giản hoặc "lành kinh điển" như nang xuất huyết điển hình, nang bì, endometrioma, nang cạnh buồng trứng, nang vùi phúc mạc, ứ dịch tai vòi).
 
-  ![O-RADS 2A](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-2a.png)
+  ![O-RADS 2A](./_images/phuong-tien-tiep-can-u-buong-trung/orads-2a.png)
 
   _O-RADS 2A._
 
-  ![O-RADS 2B](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-2b.png)
+  ![O-RADS 2B](./_images/phuong-tien-tiep-can-u-buong-trung/orads-2b.png)
 
   _O-RADS 2B._
 
@@ -67,7 +67,7 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
   - Nang đa thùy < 10 cm không thành phần đặc, điểm < 4.
   - Sang thương đặc không tăng sinh mạch, bờ trơn láng. Có thể cần Doppler để xác định thành phần đặc.
 
-    ![O-RADS 3](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-3.png)
+    ![O-RADS 3](./_images/phuong-tien-tiep-can-u-buong-trung/orads-3.png)
 
     _O-RADS 3._
 
@@ -78,21 +78,21 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
   - Sang thương đặc bờ trơn láng (>80% đặc) với CS 2–3.  
     "Nhú" = thành phần đặc ≥ 3 mm.
 
-    ![O-RADS 4A](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-4a.png)
+    ![O-RADS 4A](./_images/phuong-tien-tiep-can-u-buong-trung/orads-4a.png)
 
     _O-RADS 4A._
 
-    ![O-RADS 4B](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-4b.png)
+    ![O-RADS 4B](./_images/phuong-tien-tiep-can-u-buong-trung/orads-4b.png)
 
     _O-RADS 4B._
 
 - **O-RADS 5** (≥ 50% ác): sang thương đặc bờ không đều, nang đa thùy có thành phần đặc với CS cao; hoặc kèm báng bụng/nốt phúc mạc (ngoại trừ báng do nang chức năng hoặc nang chắc chắn lành).
 
-  ![O-RADS 5](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-5.png)
+  ![O-RADS 5](./_images/phuong-tien-tiep-can-u-buong-trung/orads-5.png)
 
   _O-RADS 5._
 
-![Phác đồ xử trí và phân loại O-RADS](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/orads-xu-tri-va-phan-loai.png)
+![Phác đồ xử trí và phân loại O-RADS](./_images/phuong-tien-tiep-can-u-buong-trung/orads-xu-tri-va-phan-loai.png)
 
 _Phác đồ xử trí và phân loại O-RADS._
 
@@ -118,7 +118,7 @@ _Phác đồ xử trí và phân loại O-RADS._
     - M4: U đặc đa thùy không đồng nhất >100 mm.
     - M5: Dòng chảy rất mạnh (điểm màu 4).
 
-  ![Phân loại u buồng trứng theo IOTA](../../../../assets/phu-khoa/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-IOTA.jpeg)
+  ![Phân loại u buồng trứng theo IOTA](./_images/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-IOTA.jpeg)
 
   _Phân loại u buồng trứng theo IOTA._
 

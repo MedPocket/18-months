@@ -12,7 +12,7 @@ Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm
 
 ## Yếu tố nguy cơ
 
-![Yếu tố nguy cơ viêm âm đạo do nấm](../../../../assets/phu-khoa/viem-am-dao-do-nam/yeu-to-nguy-co-cua-nam.png)
+![Yếu tố nguy cơ viêm âm đạo do nấm](./_images/viem-am-dao-do-nam/yeu-to-nguy-co-cua-nam.png)
 
 _3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (microbiome) và hệ vi nấm (mycobiome): tổn thương niêm mạc, kháng sinh và rối loạn miễn dịch._
 
@@ -32,11 +32,11 @@ _3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (microbiome) v�
   - Đôi khi nóng rát, đau khi giao hợp, tiểu buốt.
   - Âm hộ và niêm mạc âm đạo viêm đỏ, lột da nhẹ.
 
-  ![Viêm âm hộ do Candida](../../../../assets/phu-khoa/viem-am-dao-do-nam/nam-candida-am-ho.png)
+  ![Viêm âm hộ do Candida](./_images/viem-am-dao-do-nam/nam-candida-am-ho.png)
 
   _Âm hộ viêm đỏ rực, với các mảng trắng dầy. Bệnh nhân thường than phiền ngứa, rát, đau khi giao hợp và tiểu rát._
 
-  ![Viêm âm đạo do Candida](../../../../assets/phu-khoa/viem-am-dao-do-nam/nam-candida-am-dao.png)
+  ![Viêm âm đạo do Candida](./_images/viem-am-dao-do-nam/nam-candida-am-dao.png)
 
   _Tiết dịch âm đạo đặc, các mảng trắng bám thành âm đạo, niêm mạc viêm đỏ, khô._
 

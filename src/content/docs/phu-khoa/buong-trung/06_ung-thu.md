@@ -37,7 +37,7 @@ Chẩn đoán khối tân lập ở buồng trứng luôn phải đi kèm dự �
 
 ## Các giai đoạn
 
-![Các giai đoạn ung thư buồng trứng theo FIGO](../../../../assets/phu-khoa/phong-ngua-ung-thu-buong-trung/giai-doan-ung-thu-buong-trung-theo-figo.png)
+![Các giai đoạn ung thư buồng trứng theo FIGO](./_images/phong-ngua-ung-thu-buong-trung/giai-doan-ung-thu-buong-trung-theo-figo.png)
 
 _Các giai đoạn ung thư buồng trứng theo FIGO._
 

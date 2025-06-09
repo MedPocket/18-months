@@ -17,7 +17,7 @@ Tử cung được chia làm hai phần chính phần trên là thân tử cung 
 
 - **Lỗ trong cổ tử cung (internal os)** là vị trí mở của kênh cổ tử cung vào buồng tử cung.
 
-  ![Các điểm mốc nhận diện quan trọng trong bệnh học cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/cac-moc-nhan-dien-benh-hoc-co-tu-cung.png)
+  ![Các điểm mốc nhận diện quan trọng trong bệnh học cổ tử cung](./_images/viem-lo-tuyen-co-tu-cung/cac-moc-nhan-dien-benh-hoc-co-tu-cung.png)
 
   _Từ ngoài vào trong: cổ ngoài (ectocervix), lỗ ngoài, kênh cổ tử cung, lỗ trong._
 
@@ -44,7 +44,7 @@ Cổ tử cung được cấu tạo bởi biểu mô phủ và mô đệm dướ
 
 ### Chuyển sản lát
 
-![Dịch chuyển SCJ nguyên thủy và SCJ mới](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/dich-truyen-cua-scj-nguyen-thuy-va-moi.jpeg)
+![Dịch chuyển SCJ nguyên thủy và SCJ mới](./_images/viem-lo-tuyen-co-tu-cung/dich-truyen-cua-scj-nguyen-thuy-va-moi.jpeg)
 
 _Dịch chuyển SCJ nguyên thủy và SCJ mới._
 
@@ -56,7 +56,7 @@ _Dịch chuyển SCJ nguyên thủy và SCJ mới._
 6. SCJ mới (functional SCJ).
 7. Nang Naboth.
 
-![Các ranh giới lát trụ nguyên thủy và mới](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/cac-ranh-gioi-lat-tru-nguyen-thuy-va-moi.png)
+![Các ranh giới lát trụ nguyên thủy và mới](./_images/viem-lo-tuyen-co-tu-cung/cac-ranh-gioi-lat-tru-nguyen-thuy-va-moi.png)
 
 _Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủy, (3) SCJ nguyên thủy, (4) biểu mô trụ lộ tuyến, (5) vùng chuyển sản, (6) SCJ mới, (7) nang Naboth._
 
@@ -88,11 +88,11 @@ _Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủ
 
 - **Lộ tuyến cổ tử cung (endocervical ectropion)** biểu mô trụ của cổ trong lộn ra bề mặt cổ ngoài (ectocervix), tiếp xúc với môi trường acid âm đạo.
 
-  ![Lộ tuyến cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/lo-tuyen-co-tu-cung.png)
+  ![Lộ tuyến cổ tử cung](./_images/viem-lo-tuyen-co-tu-cung/lo-tuyen-co-tu-cung.png)
 
   _Soi cổ tử cung thấy vùng lộ tuyến (màu đỏ) khởi đầu ở phía ngoài cổ tử cung._
 
-  ![Vùng chuyển sản](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/vung-chuyen-san.png)
+  ![Vùng chuyển sản](./_images/viem-lo-tuyen-co-tu-cung/vung-chuyen-san.png)
 
   _Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới._
 
@@ -115,7 +115,7 @@ _Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủ
 
 ### Nang Naboth
 
-![Nang Naboth trên soi cổ tử cung](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/nang-naboth-tren-soi-co.png)
+![Nang Naboth trên soi cổ tử cung](./_images/viem-lo-tuyen-co-tu-cung/nang-naboth-tren-soi-co.png)
 
 _Nang Naboth trên bề mặt cổ tử cung, trông giống túi dịch nhỏ màu vàng._
 
@@ -170,7 +170,7 @@ Chỉ thực hiện khi viêm đã được kiểm soát hoặc sau điều tr�
 
 ### Theo dõi sau điều trị
 
-![Vùng chuyển sản sau điều trị](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/vung-chuyen-san-sau-dieu-tri.png)
+![Vùng chuyển sản sau điều trị](./_images/viem-lo-tuyen-co-tu-cung/vung-chuyen-san-sau-dieu-tri.png)
 
 _Sau đốt hoặc áp lạnh, vùng chuyển sản dần hồi phục biểu mô lát trưởng thành._
 
@@ -178,7 +178,7 @@ _Sau đốt hoặc áp lạnh, vùng chuyển sản dần hồi phục biểu m�
 - Làm xét nghiệm Pap smear (tế bào cổ tử cung) định kỳ 6–12 tháng nếu có yếu tố nguy cơ (tiền căn viêm lộ tuyến nặng, nhiễm HPV).
 - Khuyến khích khám phụ khoa định kỳ (6–12 tháng/lần) để phát hiện sớm bất thường.
 
-![Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV](../../../../assets/phu-khoa/viem-lo-tuyen-co-tu-cung/qua-trinh-chuyen-san.png)
+![Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV](./_images/viem-lo-tuyen-co-tu-cung/qua-trinh-chuyen-san.png)
 
 _Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV._
 

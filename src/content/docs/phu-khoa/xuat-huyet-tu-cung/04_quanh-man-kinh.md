@@ -73,7 +73,7 @@ Xuất huyết bất thường ở phụ nữ quanh mãn kinh không chỉ do r�
 
 ## Tiếp cận
 
-![Lưu đồ tiếp cận xuất huyết tử cung bất thường quanh mãn kinh](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/luu-do-tiep-can-xuat-huyet-tu-cung-sau-man-kinh.png)
+![Lưu đồ tiếp cận xuất huyết tử cung bất thường quanh mãn kinh](./_images/xuat-huyet-tu-cung-quanh-man-kinh/luu-do-tiep-can-xuat-huyet-tu-cung-sau-man-kinh.png)
 
 _Lưu đồ tiếp cận xuất huyết tử cung bất thường quanh mãn kinh._
 
@@ -115,13 +115,13 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
   - Hình thái nội mạc: đều mỏng, lòng tử cung không có khối, không có kẽ tăng tín hiệu nhấp nhô.
   - Tổn thương khu trú: polyp (có cuống), u xơ dưới niêm mạc, nang buồng trứng sản xuất estrogen.
 
-    ![Tăng sinh nội mạc tử cung trên siêu âm](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/hinh-anh-sieu-am-tang-sinh-noi-mac-tu-cung.png)
+    ![Tăng sinh nội mạc tử cung trên siêu âm](./_images/xuat-huyet-tu-cung-quanh-man-kinh/hinh-anh-sieu-am-tang-sinh-noi-mac-tu-cung.png)
 
     _Tăng sinh nội mạc tử cung: nội mạc dày 21.6 mm đầu chu kỳ là bất thường. Không thể chẩn đoán cơ năng khi có hình ảnh này._
 
   - **Siêu âm bơm nước (SIS)** nếu nghi polyp hoặc dính buồng tử cung: bơm nước làm nổi bật khối, giúp xác định vị trí và kích thước tổn thương.
 
-    ![Siêu âm bơm nước buồng tử cung](../../../../assets/phu-khoa/xuat-huyet-tu-cung-quanh-man-kinh/sieu-am-bom-nuoc-buong-tu-cung.png)
+    ![Siêu âm bơm nước buồng tử cung](./_images/xuat-huyet-tu-cung-quanh-man-kinh/sieu-am-bom-nuoc-buong-tu-cung.png)
 
     _Siêu âm bơm nước buồng tử cung (SIS): phát hiện polyp lòng tử cung. Khi có tổn thương khu trú như này, không thể chẩn đoán xuất huyết cơ năng._
 

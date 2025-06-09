@@ -11,11 +11,11 @@ Hệ vi khuẩn âm đạo (vaginal microbiome) của phụ nữ trong độ tu�
 
 Các trạng thái hệ vi khuẩn âm đạo khác nhau (dựa trên chủng chiếm ưu thế, điểm Nugent) phản ánh sự biến động chức năng bảo vệ ở từng cá thể. Khi Lactobacillus chiếm ưu thế, âm đạo được bảo vệ tốt; ngược lại, giảm Lactobacillus hoặc tăng vi khuẩn kỵ khí/gây hại sẽ dẫn đến rối loạn tiết dịch.
 
-![Các kiểu trạng thái khuẩn hệ âm đạo](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/cac-trang-thai-khuan-he-am-dao.png)
+![Các kiểu trạng thái khuẩn hệ âm đạo](./_images/tiet-dich-am-dao-bat-thuong/cac-trang-thai-khuan-he-am-dao.png)
 
 _Phân kiểu trạng thái khuẩn hệ dựa trên chủng vi khuẩn ưu thế và điểm Nugent._
 
-![Lactobacillus sp sản xuất lactic acid và H₂O₂, ức chế vi sinh vật có hại](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/lactobacillus-sp-san-xuat-acid-lactic-h2o2.png)
+![Lactobacillus sp sản xuất lactic acid và H₂O₂, ức chế vi sinh vật có hại](./_images/tiet-dich-am-dao-bat-thuong/lactobacillus-sp-san-xuat-acid-lactic-h2o2.png)
 
 _Lactobacillus spp. sản xuất lactic acid, H₂O₂ và bacteriocins để ức chế vi sinh vật gây bệnh._
 
@@ -104,7 +104,7 @@ Tiết dịch âm đạo bất thường (abnormal vaginal discharge – AVD) l�
 
 ## Điều trị
 
-![Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện Từ Dũ](../../../../assets/phu-khoa/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
+![Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện Từ Dũ](./_images/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
 
 _Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện Từ Dũ._
 

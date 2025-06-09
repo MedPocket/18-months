@@ -25,7 +25,7 @@ U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô
 
 ## Phân loại
 
-![Phân loại FIGO 2011](../../../../assets/phu-khoa/u-xo-tu-cung/phan-loai-u-xo-tu-cung-figo-2011.jpg)
+![Phân loại FIGO 2011](./_images/phan-loai-u-xo-tu-cung-figo-2011.jpg)
 
 _Phân loại FIGO 2011._
 
@@ -48,51 +48,51 @@ _Phân loại FIGO 2011._
 
 - **Siêu âm thang xám**: khối giảm âm, giới hạn rõ, bóng giảm âm sau.
 
-  ![U xơ tử cung trên siêu âm](../../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-tren-sieu-am.png)
+  ![U xơ tử cung trên siêu âm](./_images/u-xo-tu-cung-tren-sieu-am.png)
 
   _U xơ tử cung trên siêu âm._
 
-  ![Adenomyosis trên siêu âm](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-sieu-am.png)
+  ![Adenomyosis trên siêu âm](./_images/adenomyosis-tren-sieu-am.png)
 
   _Adenomyosis trên siêu âm._
 
-  ![Leiomyosarcoma trên siêu âm](../../../../assets/phu-khoa/u-xo-tu-cung/leiomyosarcoma-tren-sieu-am.png)
+  ![Leiomyosarcoma trên siêu âm](./_images/leiomyosarcoma-tren-sieu-am.png)
 
   _Leiomyosarcoma trên siêu âm._
 
 - **Doppler**: mạch ngoại vi u xơ; phân biệt với polyp (mạch trung tâm) và adenomyosis (mạch nội vi).
 
-  ![U xơ tử cung trên siêu âm Doppler](../../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-tren-sieu-am-doppler.png)
+  ![U xơ tử cung trên siêu âm Doppler](./_images/u-xo-tu-cung-tren-sieu-am-doppler.png)
 
   _U xơ tử cung trên siêu âm Doppler._
 
-  ![Adenomyosis trên siêu âm Doppler](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-sieu-am-doppler.png)
+  ![Adenomyosis trên siêu âm Doppler](./_images/adenomyosis-tren-sieu-am-doppler.png)
 
   _Adenomyosis trên siêu âm Doppler._
 
 - **Siêu âm 4D/đàn hồi**: đánh giá JZ, độ cứng.
 
-  ![Adenomyosis trên siêu âm đàn hồi](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-tren-sieu-am-dan-hoi.png)
+  ![Adenomyosis trên siêu âm đàn hồi](./_images/adenomyosis-tren-sieu-am-dan-hoi.png)
 
   _Adenomyosis trên siêu âm đàn hồi._
 
 - **Siêu âm bơm nước**: với u xơ dưới niêm mạc.
 
-  ![U xơ tử cung FIGO 0 trên SIS](../../../../assets/phu-khoa/u-xo-tu-cung/u-xo-tu-cung-figo-0-qua-sis.png)
+  ![U xơ tử cung FIGO 0 trên SIS](./_images/u-xo-tu-cung-figo-0-qua-sis.png)
 
   _U xơ tử cung FIGO 0 trên SIS._
 
-  ![Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler](../../../../assets/phu-khoa/u-xo-tu-cung/phan-biet-polyp-va-u-xo-tu-cung-figo-1-bang-doppler.png)
+  ![Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler](./_images/phan-biet-polyp-va-u-xo-tu-cung-figo-1-bang-doppler.png)
 
   _Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler._
 
 - **MRI**: phân biệt adenomyosis (JZ dày > 40%, tín hiệu hỗn hợp) với u xơ (tín hiệu đồng nhất giảm trên T2W).
 
-  ![Hình ảnh MRI của adenomyosis và u xơ tử cung](../../../../assets/phu-khoa/u-xo-tu-cung/adenomyosis-u-xo-tu-cung-tren-mri.png)
+  ![Hình ảnh MRI của adenomyosis và u xơ tử cung](./_images/adenomyosis-u-xo-tu-cung-tren-mri.png)
 
   _Hình ảnh MRI của adenomyosis và u xơ tử cung._
 
-  ![Leiomyosarcoma trên MRI](../../../../assets/phu-khoa/u-xo-tu-cung/leiomyosarcoma-tren-mri.png)
+  ![Leiomyosarcoma trên MRI](./_images/leiomyosarcoma-tren-mri.png)
 
   _Leiomyosarcoma trên MRI._
 

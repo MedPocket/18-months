@@ -31,7 +31,7 @@ Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV typ
 
      - Thường xuất hiện dịch tiết âm đạo đục, đôi khi lẫn máu hoặc mủ nếu có bội nhiễm.
 
-   ![Herpes sinh dục](../../../../assets/phu-khoa/herpes/herpes.jpg)
+   ![Herpes sinh dục](./_images/herpes/herpes.jpg)
 
    _Herpes sinh dục: mụn nước, vết loét ở vùng môi bé và âm đạo._
 

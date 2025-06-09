@@ -46,7 +46,7 @@ Loạn khuẩn âm đạo (bacterial vaginosis – BV) là tình trạng rối l
 - Dịch thường không gây ngứa, không kèm đỏ hoặc phù nề âm hộ—điểm khác biệt so với viêm âm đạo do nấm hoặc trùng roi.
 - Mùi hôi đặc trưng **"cá thối"** (odour), thường rõ hơn sau giao hợp hoặc sau khi nước ối lợi phá vỡ cân bằng pH âm đạo.
 
-  ![Dịch âm đạo bất thường](../../../../assets/phu-khoa/viem-am-dao-nhiem-khuan/dich-am-dao-bat-thuong.png)
+  ![Dịch âm đạo bất thường](./_images/viem-am-dao-nhiem-khuan/dich-am-dao-bat-thuong.png)
 
   _Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "cá thối". Khoảng 25% trường hợp có kích ứng nhẹ ở âm hộ, biểu hiện bằng ngứa hoặc rát nhẹ._
 

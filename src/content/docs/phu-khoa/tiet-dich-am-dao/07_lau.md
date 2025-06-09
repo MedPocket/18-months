@@ -5,7 +5,7 @@ description: Bệnh lậu (Gonorrhea) là nhiễm khuẩn lây truyền qua đư
 
 Bệnh lậu là bệnh lây truyền qua đường tình dục do song cầu khuẩn Gram âm _Neisseria gonorrhoeae_ gây ra. Vi khuẩn này chủ yếu lây qua quan hệ tình dục đường âm đạo, đường miệng hoặc đường hậu môn. Mức độ kháng thuốc của _N. gonorrhoeae_ đang ngày càng gia tăng, khiến việc chẩn đoán, điều trị và phòng ngừa trở nên thách thức hơn.
 
-![N. gonorrhoeae](../../../../assets/phu-khoa/lau/song-cau-khuan.png)
+![N. gonorrhoeae](./_images/lau/song-cau-khuan.png)
 
 _N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm trong và ngoài bạch cầu trung tính._
 
@@ -58,7 +58,7 @@ Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng v�
   - Viêm nội mạc tử cung: nhẹ triệu chứng nhưng ảnh hưởng niêm mạc tử cung.
   - Mang thai: tăng nguy cơ sinh non, vỡ ối non, thai nhi nhẹ cân.
 
-    ![Tiết dịch cơ quan sinh dục](../../../../assets/phu-khoa/lau/tiet-dich-co-quan-sinh-duc.png)
+    ![Tiết dịch cơ quan sinh dục](./_images/lau/tiet-dich-co-quan-sinh-duc.png)
 
     _Tiết dịch cơ quan sinh dục._
 
@@ -66,7 +66,7 @@ Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng v�
 
   - Viêm kết mạc mắt: khởi phát 2–5 ngày sau sinh, chảy mủ mắt, sưng mí, nếu không điều trị có thể dẫn đến loét giác mạc, sẹo và mù loà.
 
-    ![Lậu hầu họng](../../../../assets/phu-khoa/lau/lau-hau-hong.png)
+    ![Lậu hầu họng](./_images/lau/lau-hau-hong.png)
 
     _Lậu hầu họng._
 

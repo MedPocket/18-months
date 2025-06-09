@@ -21,13 +21,13 @@ Các khối thực thể không tân lập tại phần phụ là tất cả cá
 - Giả thuyết cấy ghép: máu kinh trào ngược qua vòi Fallope, "gieo" tế bào nội mạc lên buồng trứng. Tế bào nguyên thủy (progenitor) phát triển khi đáp ứng miễn dịch cho phép. Đột biến HMGA1/HMGA2 liên quan.
 - Cơ chế viêm: arachidonic acid → COX-2 → prostaglandin PGE₂ → kích hoạt aromatase/STAR → tăng estrogen, duy trì mô lạc vị.
 
-  ![Thuyết cấy ghép, quá trình viêm và cường estrogen](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/thuyet-cay-ghep-qua-trinh-viem-va-cuong-estrogen.png)
+  ![Thuyết cấy ghép, quá trình viêm và cường estrogen](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/thuyet-cay-ghep-qua-trinh-viem-va-cuong-estrogen.png)
 
   _Thuyết cấy ghép, quá trình viêm và cường estrogen._
 
 ### Phân loại
 
-![Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/AFS-ASRM.png)
+![Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/AFS-ASRM.png)
 
 _Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)._
 
@@ -36,7 +36,7 @@ _Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM).
 - **Siêu âm thang xám**: nang đơn/multiple phản âm kém đều, giới hạn rõ, không chồi/vách, không tăng dòng mạch. IOTA M-rules âm tính.
 - Siêu âm đủ để chẩn đoán; MRI chỉ khi nghi ngờ lạc nội mạc sâu hay đau dữ dội.
 
-  ![Nang lạc tuyến nội mạc tử cung ở buồng trứng](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/nang-lac-tuyen-noi-mac-tu-cung-tren-sieu-am.png)
+  ![Nang lạc tuyến nội mạc tử cung ở buồng trứng](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/nang-lac-tuyen-noi-mac-tu-cung-tren-sieu-am.png)
 
   _Nang lạc tuyến nội mạc tử cung ở buồng trứng._
 
@@ -74,7 +74,7 @@ _Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM).
 - Các tình trạng ưu tiên ngoại khoa: ứ dịch vòi, áp-xe vòi-buồng trứng không đáp ứng kháng sinh, lao vòi trứng.
 - **Siêu âm**: ứ dịch vòi hình ảnh dãn, chứa dịch – thường hai bên.
 
-  ![Vòi Fallope ứ dịch trên siêu âm](../../../../assets/phu-khoa/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/u-dich-voi-fallope-tren-sieu-am.png)
+  ![Vòi Fallope ứ dịch trên siêu âm](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/u-dich-voi-fallope-tren-sieu-am.png)
 
   _Vòi Fallope ứ dịch trên siêu âm._
 

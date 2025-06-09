@@ -50,15 +50,15 @@ Trước khi lấy mẫu, cần điền thông tin trên phiếu xét nghiệm:
 - **Pap’s test quy ước**: Lấy hai lam phết tế bào từ cổ ngoài và cổ trong. Ghi bằng bút chì tên, tuổi và vị trí lấy trên lam. Mẫu cố định bằng cồn 95° hoặc keo phun.
 - **Pap’s test Thin Prep**: Lấy mẫu tương tự nhưng cho vào lọ chứa dung dịch nhúng dịch.
 
-  ![Dụng cụ làm Pap's test](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/dung-cu-lam-pap.png)
+  ![Dụng cụ làm Pap's test](./_images/pap-test-va-soi-co-tu-cung/dung-cu-lam-pap.png)
 
   _Dụng cụ làm Pap’s test (từ trái sang):<br> 1. Cytobrush cho kênh cổ tử cung.<br> 2. Que Ayre cho Pap’s test quy ước.<br> 3. Chổi lớn cho Thin Prep._
 
-  ![Cách lấy mẫu](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/cach-lay-mau-pap.png)
+  ![Cách lấy mẫu](./_images/pap-test-va-soi-co-tu-cung/cach-lay-mau-pap.png)
 
   _Cách lấy mẫu (từ trái sang):<br> 1. Cytobrush: Lấy ở kênh tử cung, áp vào SCJ, không đưa quá sâu.<br> 2. Que Ayre: Lấy hai lần, đầu to và đầu nhọn, áp vào vùng chuyển sản để lấy SCJ.<br> 3. Chổi lớn: Áp vào SCJ và vùng chuyển sản._
 
-  ![Cách trải lame](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/cach-trai-lame.png)
+  ![Cách trải lame](./_images/pap-test-va-soi-co-tu-cung/cach-trai-lame.png)
 
   _Cách trải lam:<br> 1. Chổi lớn: Kéo để trải.<br> 2. Cytobrush: Lăn tròn để trải.<br> 3. Que Ayre: Kéo để trải._
 
@@ -177,19 +177,19 @@ Tiến trình soi gồm ba bước:
 
 Theo ASCCP:
 
-![Hình ảnh cổ tử cung bình thường qua soi cổ](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-binh-thuong.png)
+![Hình ảnh cổ tử cung bình thường qua soi cổ](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-binh-thuong.png)
 
 _Cổ tử cung bình thường qua soi._
 
-![Hình ảnh chuyển sản với ranh giới lát trụ, biểu mô lát non](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-ranh-gioi-lat-tru-bieu-mo-lat-non.png)
+![Hình ảnh chuyển sản với ranh giới lát trụ, biểu mô lát non](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-ranh-gioi-lat-tru-bieu-mo-lat-non.png)
 
 _Cổ tử cung chuyển sản với ranh giới lát trụ, biểu mô lát non._
 
-![Hình ảnh cổ tử cung chuyển sản với cửa tuyến, đảo tuyến](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-cua-tuyen-dao-tuyen.png)
+![Hình ảnh cổ tử cung chuyển sản với cửa tuyến, đảo tuyến](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-cua-tuyen-dao-tuyen.png)
 
 _Cổ tử cung chuyển sản với cửa tuyến, đảo tuyến._
 
-![Hình ảnh cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non](../../../../assets/phu-khoa/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-tai-tao-voi-luoi-bieu-mo-chuyen-san-non.png)
+![Hình ảnh cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-tai-tao-voi-luoi-bieu-mo-chuyen-san-non.png)
 
 _Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non._
 
