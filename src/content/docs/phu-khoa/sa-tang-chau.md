@@ -27,7 +27,7 @@ _Phân loại theo giải phẫu._
 
 ### Lâm sàng
 
-![Phân loại - Phân độ sa tạng chậu](../../../assets/phu-khoa/sa-tang-chau/phan-loai-phan-do-sa-tang-chau.jpg)
+![Phân loại - Phân độ sa tạng chậu](./_images/sa-tang-chau/phan-loai-phan-do-sa-tang-chau.jpg)
 
 _Phân loại - Phân độ sa tạng chậu._
 
@@ -55,7 +55,7 @@ _Phân loại - Phân độ sa tạng chậu._
 - **Độ III**: Ba hoặc Bp sa >1 cm dưới màng trinh nhưng <(tvl–2) cm.
 - **Độ IV**: sa toàn bộ, Ba hoặc Bp ≥ (tvl–2) cm.
 
-![Sơ đồ chẩn đoán sa tạng chậu](../../../assets/phu-khoa/sa-tang-chau/so-do-chan-doan-sa-tang-chau.jpg)
+![Sơ đồ chẩn đoán sa tạng chậu](./_images/sa-tang-chau/so-do-chan-doan-sa-tang-chau.jpg)
 
 _Sơ đồ chẩn đoán sa tạng chậu._
 
@@ -107,7 +107,7 @@ Ví dụ: Sa tử cung độ III, sa bàng quang độ II, sa trực tràng đ�
 
 ### Ngoại khoa
 
-![Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
+![Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ Dũ](./_images/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
 
 _Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ Dũ._
 
@@ -142,11 +142,11 @@ _Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ
   - **Ngả bụng/nội soi**: BN trẻ, mong muốn bảo tồn tử cung, sa độ III–IV, thất bại phẫu thuật ngả âm đạo.
   - **Kết hợp**: khi cần đặt mảnh ghép qua cả hai đường để tăng hiệu quả.
 
-  ![Phẫu thuật ngả bụng – Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-bung.jpeg)
+  ![Phẫu thuật ngả bụng – Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-bung.jpeg)
 
   _Phẫu thuật ngả bụng – Bệnh viện Từ Dũ._
 
-  ![Phẫu thuật đường âm đạo – Bệnh viện Từ Dũ](../../../assets/phu-khoa/sa-tang-chau/phau-thuat-nga-am-dao.png)
+  ![Phẫu thuật đường âm đạo – Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-am-dao.png)
 
   _Phẫu thuật đường âm đạo – Bệnh viện Từ Dũ._
 

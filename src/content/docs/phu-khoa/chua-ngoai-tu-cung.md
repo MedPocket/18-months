@@ -5,7 +5,7 @@ description: Chửa ngoài tử cung là tình trạng trứng đã thụ tinh l
 
 Chửa ngoài tử cung (CNTC) là hiện tượng trứng đã thụ tinh không làm tổ trong buồng tử cung mà phát triển ở vị trí bất thường, phổ biến nhất là ở ống dẫn trứng. Đây là một cấp cứu sản khoa cần được phát hiện sớm để tránh nguy cơ vỡ khối thai, xuất huyết trong ổ bụng và ảnh hưởng đến khả năng sinh sản.
 
-![Các vị trí chửa ngoài tử cung](../../../assets/phu-khoa/chua-ngoai-tu-cung/vi-tri-chua-ngoai-tu-cung.png)
+![Các vị trí chửa ngoài tử cung](./_images/chua-ngoai-tu-cung/vi-tri-chua-ngoai-tu-cung.png)
 
 _Các vị trí chửa ngoài tử cung._
 

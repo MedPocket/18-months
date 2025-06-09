@@ -12,23 +12,23 @@ Tên gọi "lạc nội mạc tử cung trong cơ" quá đơn giản, gây nhi�
 1. Hiện diện của mô tuyến nội mạc và mô đệm trong lớp cơ tử cung.
 2. Tăng sản và tăng dưỡng của cơ tử cung xung quanh.
 
-![Adenomyosis trên phẫu thuật](../../../assets/phu-khoa/lac-noi-mac-tu-cung/adenomyosis-tren-phau-thuat.png)
+![Adenomyosis trên phẫu thuật](./_images/lac-noi-mac-tu-cung/adenomyosis-tren-phau-thuat.png)
 
 _Adenomyosis là cấu trúc tuyến-nội mạc trong cơ tử cung, viền không rõ, không có vỏ bao, quanh đó có viêm._
 
 Mô tuyến lạc vị có kiểu hình và biểu hiện gene khác với nội mạc chính vị. Tăng sản cơ và tăng dưỡng tế bào cơ làm tử cung to, cứng, bất đối xứng như "quả cầu bằng gỗ".
 
-![Mặt cắt của adenomyosis](../../../assets/phu-khoa/lac-noi-mac-tu-cung/mat-cat-adenomyosis.png)
+![Mặt cắt của adenomyosis](./_images/lac-noi-mac-tu-cung/mat-cat-adenomyosis.png)
 
 _Mặt cắt của adenomyosis._
 
-![Cộng hưởng từ của adenomyosis](../../../assets/phu-khoa/lac-noi-mac-tu-cung/hinh-anh-cong-huong-tu-adenomyosis.png)
+![Cộng hưởng từ của adenomyosis](./_images/lac-noi-mac-tu-cung/hinh-anh-cong-huong-tu-adenomyosis.png)
 
 _Cộng hưởng từ của adenomyosis._
 
 Tổn thương có thể khu trú tạo giả u xơ, hoặc kết hợp với u xơ thật, khó phân biệt.
 
-![Kết hợp adenomyosis và u xơ tử cung](../../../assets/phu-khoa/lac-noi-mac-tu-cung/u-xo-tu-cung-va-adenomyosis.png)
+![Kết hợp adenomyosis và u xơ tử cung](./_images/lac-noi-mac-tu-cung/u-xo-tu-cung-va-adenomyosis.png)
 
 _Kết hợp adenomyosis và u xơ tử cung._
 
@@ -38,11 +38,11 @@ _Kết hợp adenomyosis và u xơ tử cung._
 
 Vi sang chấn → xâm nhập tế bào gốc → viêm → cường estrogen cục bộ → đề kháng progesterone → co thắt nghịch thường → tăng vi sang chấn... (vòng Leyendecke).
 
-![Sơ đồ mô hình TIAR](../../../assets/phu-khoa/lac-noi-mac-tu-cung/so-do-mo-hinh-tiar.png)
+![Sơ đồ mô hình TIAR](./_images/lac-noi-mac-tu-cung/so-do-mo-hinh-tiar.png)
 
 _Sơ đồ mô hình TIAR._
 
-![Thay đổi biểu hiện gene của thụ thể steroid (mô hình TIAR)](../../../assets/phu-khoa/lac-noi-mac-tu-cung/thay-doi-bieu-hien-gene-cua-thu-the-steroid.png)
+![Thay đổi biểu hiện gene của thụ thể steroid (mô hình TIAR)](./_images/lac-noi-mac-tu-cung/thay-doi-bieu-hien-gene-cua-thu-the-steroid.png)
 
 _Thay đổi biểu hiện gene của thụ thể steroid (mô hình TIAR)._
 
@@ -50,11 +50,11 @@ _Thay đổi biểu hiện gene của thụ thể steroid (mô hình TIAR)._
 
 Tử cung phát triển từ hai nguồn Muller và trung mô, gặp nhau tại vùng kết nối (JZ). Adenomyosis xuất phát từ chồng lấn bất thường tại JZ.
 
-![Tử cung bình thường trên MRI](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-cung-binh-thuong-tren-mri.png)
+![Tử cung bình thường trên MRI](./_images/lac-noi-mac-tu-cung/tu-cung-binh-thuong-tren-mri.png)
 
 _Tử cung bình thường trên MRI._
 
-![Adenomyosis trên MRI](../../../assets/phu-khoa/lac-noi-mac-tu-cung/adenomyosis-tren-mri.png)
+![Adenomyosis trên MRI](./_images/lac-noi-mac-tu-cung/adenomyosis-tren-mri.png)
 
 _Adenomyosis trên MRI._
 
@@ -81,7 +81,7 @@ Adenomyosis thường "ồn ào" triệu chứng: thống kinh, AUB-A, đau vùn
 
 - Cường estrogen cục bộ và đề kháng progesterone gây rong huyết.
 
-  ![Adenomyosis qua nội soi buồng tử cung](../../../assets/phu-khoa/lac-noi-mac-tu-cung/adenomyosis-qua-noi-soi-buong.png)
+  ![Adenomyosis qua nội soi buồng tử cung](./_images/lac-noi-mac-tu-cung/adenomyosis-qua-noi-soi-buong.png)
 
   _Adenomyosis qua nội soi buồng tử cung._
 
@@ -122,7 +122,7 @@ Adenomyosis thường "ồn ào" triệu chứng: thống kinh, AUB-A, đau vùn
 
 ## Phân độ
 
-![Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)](../../../assets/phu-khoa/lac-noi-mac-tu-cung/phan-do-lac-noi-mac-tu-cung-asrm.jpeg)
+![Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)](./_images/lac-noi-mac-tu-cung/phan-do-lac-noi-mac-tu-cung-asrm.jpeg)
 
 _Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)._
 
@@ -137,7 +137,7 @@ _Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)._
   2. Xuất huyết tử cung bất thường (AUB-A).
   3. Hiếm muộn – vô sinh.
 
-![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
 
 _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh viện Từ Dũ._
 
@@ -250,7 +250,7 @@ _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh v
     - Điều trị ≥ 6 tháng với: IUS–LNG (levonorgestrel), Dienogest 2 mg/ngày, COCs liên tục.
     - Thời gian khuyến cáo: 18–24 tháng nhằm ngăn ngừa tái phát đau và tổn thương.
 
-![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau – Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau – Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
 
 _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau – Bệnh viện Từ Dũ._
 
@@ -269,7 +269,7 @@ _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau –
 - **ART**: IVF/ICSI khi vòi trứng tổn thương hoặc các biện pháp khác thất bại.
 - **Chuẩn bị**: GnRHa 3–6 tháng trước chuyển phôi có thể cải thiện tỉ lệ thành công.
 
-  ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn – Bệnh viện Từ Dũ](../../../assets/phu-khoa/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
+  ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn – Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
 
   _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn – Bệnh viện Từ Dũ._
 

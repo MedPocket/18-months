@@ -64,7 +64,7 @@ Chửa ở vết mổ lấy thai là một dạng thai ngoài tử cung hiếm g
 
 Trên mặt cắt dọc giữa tử cung:
 
-![Mối liên hệ thai và sẹo mổ lấy thai](../../../assets/phu-khoa/chua-vet-mo-lay-thai/moi-lien-he-giua-tui-thai-va-seo-mo-lay-thai.jpg)
+![Mối liên hệ thai và sẹo mổ lấy thai](./_images/chua-vet-mo-lay-thai/moi-lien-he-giua-tui-thai-va-seo-mo-lay-thai.jpg)
 
 _Mối liên hệ thai và sẹo mổ lấy thai._
 
@@ -170,7 +170,7 @@ _Mối liên hệ thai và sẹo mổ lấy thai._
 - UAE trước mổ.
 - Theo dõi không can thiệp nếu thai lưu < 8 tuần, β-hCG < 1000 và giảm dần.
 
-![Phác đồ điều trị thai ở sẹo mổ lấy thai - Bệnh viện Từ Dũ](../../../assets/phu-khoa/chua-vet-mo-lay-thai/phac-do-xu-tri-thai-o-seo-mo-lay-thai.jpg)
+![Phác đồ điều trị thai ở sẹo mổ lấy thai - Bệnh viện Từ Dũ](./_images/chua-vet-mo-lay-thai/phac-do-xu-tri-thai-o-seo-mo-lay-thai.jpg)
 
 _Phác đồ điều trị thai ở sẹo mổ lấy thai – Bệnh viện Từ Dũ._
 

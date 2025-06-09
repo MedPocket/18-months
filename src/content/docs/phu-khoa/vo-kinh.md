@@ -135,11 +135,11 @@ _Nguyên nhân vô kinh do bất thường đường sinh dục._
    - Thử thách estrogen/progestin (estrogen 21 ngày + progestin 7–10 ngày).
    - Thử nghiệm clomiphene hoặc gonadotropin stimulation.
 
-   ![Đánh giá vô kinh nguyên phát](../../../assets/phu-khoa/vo-kinh/danh-gia-vo-kinh-nguyen-phat.png)
+   ![Đánh giá vô kinh nguyên phát](./_images/vo-kinh/danh-gia-vo-kinh-nguyen-phat.png)
 
    _Đánh giá vô kinh nguyên phát._
 
-   ![Đánh giá vô kinh thứ phát](../../../assets/phu-khoa/vo-kinh/danh-gia-vo-kinh-thu-phat.png)
+   ![Đánh giá vô kinh thứ phát](./_images/vo-kinh/danh-gia-vo-kinh-thu-phat.png)
 
    _Đánh giá vô kinh thứ phát._
 
