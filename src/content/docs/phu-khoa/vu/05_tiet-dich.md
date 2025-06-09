@@ -144,7 +144,7 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
    - **Xơ hóa ống tuyến phức tạp (Complex sclerosing lesion/Radial scar)**: Hiếm hơn nhưng có thể làm chảy dịch lẫn máu.
    - **Từng xạ trị ngực**: Viêm mạch máu – ống tuyến dễ chảy dịch.
 
-### Lâm sàng
+### Chẩn đoán
 
 #### Lâm sàng
 
