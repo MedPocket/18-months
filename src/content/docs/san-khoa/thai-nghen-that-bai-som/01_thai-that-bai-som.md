@@ -31,12 +31,12 @@ The Society of Radiologists in Ultrasound Multispecialty Panel chẩn đoán tha
 
 Triệu chứng lâm sàng thường bao gồm ra **huyết âm đạo** và **đau bụng âm ỉ**.
 
-![Thai ngưng phát triển](../../../../assets/san-khoa/thai-nghen-that-bai-som/thai-ngung-phat-trien.png)  
+![Thai ngưng phát triển](./_images/thai-that-bai-som/thai-ngung-phat-trien.png)  
 _Thai ngưng phát triển: phôi với CRL ≥ 7 mm không có tim phôi (xác nhận bằng phổ Doppler)._
 
 Để **chẩn đoán trứng trống**, không đủ khi chỉ không thấy phôi hoặc túi noãn hoàng với MSD < 25 mm. **Phải có MSD ≥ 25 mm không thấy phôi hoặc túi noãn hoàng**.
 
-![Trứng trống](../../../../assets/san-khoa/thai-nghen-that-bai-som/trung-trong.png)  
+![Trứng trống](./_images/thai-that-bai-som/trung-trong.png)  
 _Trứng trống: MSD ≥ 25 mm không thấy túi noãn hoàng hay phôi._
 
 **Các tình huống nghi ngờ khác (chưa đủ tiêu chuẩn)** gồm:
@@ -84,11 +84,11 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
   - Xuất huyết dưới màng nuôi.
   - Xoang ối giãn rộng (expanded amnion sign).
 
-  ![Túi ối nhỏ](../../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-tui-oi-nho.png)
+  ![Túi ối nhỏ](./_images/thai-that-bai-som/doa-say-thai-luu-tui-oi-nho.png)
 
   _Doạ sảy thai lưu: túi thai rất nhỏ, hiệu (MSD-CRL) <5mm. Túi thai rất nhỏ, (MSD-CRL) <5mm, có tụ máu dưới màng đệm._
 
-  ![Túi ối giãn](../../../../assets/san-khoa/thai-nghen-that-bai-som/doa-say-thai-luu-tui-oi-gian.png)
+  ![Túi ối giãn](./_images/thai-that-bai-som/doa-say-thai-luu-tui-oi-gian.png)
 
   _Doạ sảy thai lưu: xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm._
 
@@ -97,7 +97,7 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 - **Ra máu kèm mở cổ tử cung** khi thai vẫn còn trong buồng tử cung.
 - Cần phân biệt với thai ngoài tử cung ở cổ tử cung bằng β-hCG và siêu âm.
 
-  ![Sảy thai khó tránh](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-kho-tranh.png)
+  ![Sảy thai khó tránh](./_images/thai-that-bai-som/say-thai-kho-tranh.png)
 
   _Sảy thai khó tránh: thai vẫn nằm trong cổ tử cung, cổ tử cung mở._
 
@@ -105,7 +105,7 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 
 - Ra huyết rỉ rả, đau quặn bụng, cổ tử cung hé mở, siêu âm thấy khối echo hỗn hợp trong lòng tử cung.
 
-  ![Sảy thai không trọn](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-khong-tron.png)
+  ![Sảy thai không trọn](./_images/thai-that-bai-som/say-thai-khong-tron.png)
 
   _Sảy thai không trọn: Cấu trúc echo hỗn hợp trong buồng tử cung._
 
@@ -113,7 +113,7 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 
 - Hoàn toàn tống xuất mô thai, cổ tử cung đóng, siêu âm buồng tử cung rỗng hoặc chỉ có ít dịch.
 
-  ![Sảy thai trọn](../../../../assets/san-khoa/thai-nghen-that-bai-som/say-thai-tron.jpeg)
+  ![Sảy thai trọn](./_images/thai-that-bai-som/say-thai-tron.jpeg)
 
   _Lòng tử cung trống sau sảy thai trọn._
 

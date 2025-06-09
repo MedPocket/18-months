@@ -68,7 +68,7 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 - Thể nặng có thể không sống sót sau sinh.
 - Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.
 
-  ![Thai phù trong hội chứng Bart](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/thai-phu-trong-hoi-chung-Bart.png)
+  ![Thai phù trong hội chứng Bart](./_images/thai-phu-trong-hoi-chung-Bart.png)
 
   _Thai phù trong hội chứng Hb Bart’s._
 
@@ -78,7 +78,7 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 - Định lượng ferritin: bình thường hoặc tăng → chuyển sang điện di Hb.
 - Điện di Hb: xác định tỉ lệ HbA2, HbF để phân loại.
 
-  ![Kết quả điện di Hb ở người trưởng thành](../../../../assets/san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
+  ![Kết quả điện di Hb ở người trưởng thành](./_images/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
 
   _Kết quả điện di Hb ở người trưởng thành._
 
