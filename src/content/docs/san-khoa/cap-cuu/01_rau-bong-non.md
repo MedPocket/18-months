@@ -11,7 +11,7 @@ Rau bong non được định nghĩa là trường hợp rau bám đúng vị tr
 
 - Máu chảy ra giữa lớp cơ tử cung và các màng thai bị giam cầm trong khối máu tụ. Khi khối máu tụ lớn hơn, cùng áp lực tăng lên sẽ gây rò rỉ máu ra ngoài qua cổ tử cung, dẫn đến xuất huyết âm đạo.
 
-  ![Khối máu tụ](../../../../assets/san-khoa/rau-bong-non/khoi-mau-tu.png)
+  ![Khối máu tụ](./_images/rau-bong-non/khoi-mau-tu.png)
 
   _Khối máu tụ._
 
@@ -47,7 +47,7 @@ Rau bong non là chẩn đoán loại trừ và cần loại bỏ các nguyên n
 - Dấu hiệu suy thai: tim thai thay đổi, giảm vận động thai.
 - Thai lưu có thể xảy ra trong trường hợp nặng.
 
-  ![EFM rau bong non](../../../../assets/san-khoa/rau-bong-non/EFM-rau-bong-non.png)
+  ![EFM rau bong non](./_images/rau-bong-non/EFM-rau-bong-non.png)
 
   _EFM rau bong non._
 
@@ -80,7 +80,7 @@ Rau bong non là cấp cứu sản khoa. Biến chứng phổ biến:
   - Nặng có thể lan tới vòi trứng, dây chằng rộng, buồng trứng.
   - Không phải chỉ định cắt tử cung.
 
-  ![Tử cung Couvelaire](../../../../assets/san-khoa/rau-bong-non/tu-cung-couvelaire.png)
+  ![Tử cung Couvelaire](./_images/rau-bong-non/tu-cung-couvelaire.png)
 
   _Tử cung Couvelaire._
 
