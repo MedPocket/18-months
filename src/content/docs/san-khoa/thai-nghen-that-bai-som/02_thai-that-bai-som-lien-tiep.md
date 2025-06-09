@@ -55,7 +55,7 @@ _Bất thường giải phẫu tử cung._
 - Siêu âm 3D là lựa chọn đầu tay, có thể thay thế bằng SIS hoặc MRI nếu cần.
 - Khảo sát hệ niệu khi phát hiện dị dạng.
 
-![Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp](./_images/thai-that-bai-som-lien-tiep/luoc-do-tiep-can-thai-nghen-that-bai-som-lien-tiep.png)  
+![Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp](./_images/thai-that-bai-som-lien-tiep/luoc-do-tiep-can-thai-nghen-that-bai-som-lien-tiep.png)
 
 _Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp._
 
