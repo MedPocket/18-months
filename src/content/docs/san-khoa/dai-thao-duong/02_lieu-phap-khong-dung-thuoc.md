@@ -10,6 +10,7 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 Đối với mọi thai phụ, nhất là nhóm nguy cơ cao (≥ 35 tuổi, tiền sử con ≥ 4 kg, BMI ≥ 23 kg/m²...), cần:
 
 - **Chế độ ăn tiết chế**:
+
   - Ưu tiên thực phẩm tươi, ít chế biến, giàu chất xơ.
   - Giảm thức ăn nhiều đường đơn, tinh bột tinh chế và chất béo bão hòa.
   - Hạn chế muối (< 5 g/ngày; ưu tiên muối iốt), rượu bia, thuốc lá.

@@ -71,12 +71,13 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
   | **ĐTĐ rõ (DIP)** | Glucose đói ≥ 126 mg/dL hoặc bất kỳ ≥ 200 mg/dL + triệu chứng                          | Chuyển chuyên khoa Nội tiết |
 
   _Kết quả sàng lọc 3 tháng đầu._
-  
+
 - **Nguy cơ thấp** → Sàng lọc định kỳ 24–28 tuần.
 
 ### 3 tháng giữa (24–28 tuần)
 
 - **OGTT 75 g chuẩn**:
+
   - **Chuẩn bị**:
     - 3 ngày trước: Chế độ ăn chứa ≥ 150 g glucid/ngày.
     - Nhịn đói ít nhất 8 giờ (chỉ được uống nước lọc).

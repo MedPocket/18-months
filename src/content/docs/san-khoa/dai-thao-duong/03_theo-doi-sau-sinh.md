@@ -47,6 +47,7 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
   _Đánh giá OGTT 75 g sau sinh._
 
 - **Kết quả và xử trí**:
+
   - **Bình thường**: Kiểm tra định kỳ 1–3 năm/lần, tư vấn lối sống lành mạnh.
   - **Tiền đái tháo đường/ĐTĐ**: Chuyển khám Nội tiết, cân nhắc điều trị nội tiết và chương trình thay đổi lối sống tích cực.
 

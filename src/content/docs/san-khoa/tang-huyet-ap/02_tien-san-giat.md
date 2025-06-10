@@ -126,6 +126,7 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
   - **Duy trì**: 1–2 g/giờ TM liên tục (pha 6 g MgSO₄ 15% vào 500 mL glucose 5% hoặc bơm tiêm điện 6.7 mL/h).
   - Tiếp tục ít nhất 24 giờ sau cơn cuối hoặc sau sinh.
 - **Theo dõi**:
+
   - Theo dõi phản xạ gân xương (mất dấu hiệu sớm nhất), nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4h).
   - Định lượng Mg²⁺ huyết thanh khi cần, giữ 4–7 mEq/L (5–9 mg/dL; 2–3.5 mmol/L).
 
@@ -158,6 +159,7 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
   - HA trung bình không giảm > 25%.
   - HA tâm thu 130–150 mmHg, tâm trương 80–100 mmHg.
 - **Thuốc sử dụng**:
+
   - **Labetalol**.
   - **Hydralazine**.
   - **Chẹn kênh canxi**: Nifedipine, nicardipine.

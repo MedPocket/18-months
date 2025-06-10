@@ -61,7 +61,7 @@ export const sidebar = starlightSidebarTopics([
       {
         label: "Thiếu máu hồng cầu nhỏ nhược sắc",
         autogenerate: {
-          directory: "san-khoa/thieu-mau-hong-cau-nho-nhuoc-sac",
+          directory: "san-khoa/thieu-mau",
         },
         collapsed: true,
       },
