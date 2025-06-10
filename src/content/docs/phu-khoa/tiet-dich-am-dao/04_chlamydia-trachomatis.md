@@ -3,7 +3,7 @@ title: Chlamydia trachomatis
 description: Nhiễm Chlamydia trachomatis là một trong các nhiễm khuẩn lây truyền qua đường tình dục (STI) rất thường gặp, có thể gây viêm niệu đạo – sinh dục không triệu chứng hoặc có triệu chứng nhẹ nhưng nếu không điều trị kịp thời sẽ dẫn đến các biến chứng nặng như viêm tiểu khung, vô sinh, thai ngoài tử cung, viêm mào tinh hoàn, và ảnh hưởng đến trẻ sơ sinh.
 ---
 
-Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân đôi phức tạp, tồn tại trong hai dạng: thể lưới (reticulate body) và thể rời (elementary body). Vi khuẩn lây truyền chủ yếu qua quan hệ tình dục không bảo vệ, ảnh hưởng cả nam và nữ ở độ tuổi sinh sản.
+Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân đôi phức tạp, tồn tại trong hai dạng: Thể lưới (reticulate body) và thể rời (elementary body). Vi khuẩn lây truyền chủ yếu qua quan hệ tình dục không bảo vệ, ảnh hưởng cả nam và nữ ở độ tuổi sinh sản.
 
 ## Nguyên nhân
 
@@ -21,26 +21,26 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 - **Đường lây**:
 
   - Chủ yếu qua quan hệ tình dục (âm đạo – dương vật, hậu môn – dương vật, miệng – dương vật).
-  - Truyền từ mẹ sang con khi sinh: gây viêm kết mạc, viêm phổi bẩm sinh ở trẻ.
+  - Truyền từ mẹ sang con khi sinh: Gây viêm kết mạc, viêm phổi bẩm sinh ở trẻ.
 
 ## Biến chứng
 
 1. **Nữ giới**
 
-   - **Viêm tiểu khung (PID)**: lan ngược lên vòi trứng, buồng trứng, gây đau vùng hạ vị, đôi khi sốt, có thể dẫn đến dính vòi trứng, vô sinh hoặc thai ngoài tử cung.
-   - **Viêm vòi trứng, viêm buồng trứng**: là nguyên nhân hàng đầu gây vô sinh ống dẫn trứng.
-   - **Mang thai**: nhiễm Chlamydia khi mang thai tăng nguy cơ sinh non, vỡ ối non, sinh con nhẹ cân.
+   - **Viêm tiểu khung (PID)**: Lan ngược lên vòi trứng, buồng trứng, gây đau vùng hạ vị, đôi khi sốt, có thể dẫn đến dính vòi trứng, vô sinh hoặc thai ngoài tử cung.
+   - **Viêm vòi trứng, viêm buồng trứng**: Là nguyên nhân hàng đầu gây vô sinh ống dẫn trứng.
+   - **Mang thai**: Nhiễm Chlamydia khi mang thai tăng nguy cơ sinh non, vỡ ối non, sinh con nhẹ cân.
 
 2. **Nam giới**
 
-   - **Viêm niệu đạo không biến chứng**: tiểu buốt, tiểu rát, chảy mủ niệu đạo, đau dọc niệu đạo.
+   - **Viêm niệu đạo không biến chứng**: Tiểu buốt, tiểu rát, chảy mủ niệu đạo, đau dọc niệu đạo.
    - **Viêm mào tinh hoàn, viêm tinh hoàn**: đau tinh hoàn, sưng, có thể ảnh hưởng đến khả năng sinh tinh.
    - **Ureaplasma và Mycoplasma thường đồng nhiễm**, cần phân biệt khi điều trị kháng sinh.
 
 3. **Trẻ sơ sinh**
 
-   - **Viêm kết mạc**: xuất hiện sau 5–14 ngày sau sinh, chảy mủ mắt, sưng nề mí.
-   - **Viêm phổi bẩm sinh**: khởi phát muộn sau 2–3 tuần, ho khan, âm thanh "rán rít" (staccato cough), không sốt.
+   - **Viêm kết mạc**: Xuất hiện sau 5–14 ngày sau sinh, chảy mủ mắt, sưng nề mí.
+   - **Viêm phổi bẩm sinh**: Khởi phát muộn sau 2–3 tuần, ho khan, âm thanh "rán rít" (staccato cough), không sốt.
 
 4. **Bệnh hột xoài (LGV)**
 
@@ -58,18 +58,18 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 - **Phụ nữ**
 
   - 70–80% không có triệu chứng rõ rệt.
-  - Có thể: tiết dịch âm đạo bất thường (dịch nhầy hoặc dịch vàng nhạt), chảy máu khi giao hợp, chảy máu sau khi thăm khám.
+  - Có thể: Tiết dịch âm đạo bất thường (dịch nhầy hoặc dịch vàng nhạt), chảy máu khi giao hợp, chảy máu sau khi thăm khám.
   - Đôi khi: đau hạ vị âm ỉ khi PID khởi phát, tiểu buốt, tiểu rắt nhẹ.
 
 - **Nam giới**
 
-  - 50% không có triệu chứng; khi có: tiết dịch mủ niệu đạo, tiểu buốt, tiểu rát, cảm giác đái khó.
+  - 50% không có triệu chứng; khi có: Tiết dịch mủ niệu đạo, tiểu buốt, tiểu rát, cảm giác đái khó.
   - Đau dọc niệu đạo, có thể kèm ngứa.
 
 - **Nhiễm ngoài sinh dục**
 
-  - **Trực tràng**: thường không triệu chứng hoặc chảy dịch, đau, chảy máu trực tràng.
-  - **Hầu họng**: hiếm triệu chứng, có thể viêm họng nhẹ, đau họng. Đôi khi được phát hiện ngẫu nhiên khi sàng lọc STI ở người quan hệ qua đường miệng.
+  - **Trực tràng**: Thường không triệu chứng hoặc chảy dịch, đau, chảy máu trực tràng.
+  - **Hầu họng**: Hiếm triệu chứng, có thể viêm họng nhẹ, đau họng. Đôi khi được phát hiện ngẫu nhiên khi sàng lọc STI ở người quan hệ qua đường miệng.
 
 #### Có biến chứng
 
@@ -77,12 +77,12 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
   - Viêm tiểu khung (PID): đau hạ vị, sốt, ra khí hư nhiều, có mùi hôi, ra máu bất thường.
   - Vô sinh do dính vòi trứng, tăng nguy cơ thai ngoài tử cung.
-  - Mang thai: sinh non, vỡ ối non, trẻ nhẹ cân.
+  - Mang thai: Sinh non, vỡ ối non, trẻ nhẹ cân.
 
 - **Trẻ sơ sinh**
 
   - Viêm kết mạc: đỏ mắt, chảy mủ, sưng mí sau 5–14 ngày, cần chẩn đoán sớm để tránh loét giác mạc.
-  - Viêm phổi bẩm sinh: khởi phát sau 2–3 tuần, ho khan, không đáp ứng kháng sinh thông thường; cần điều trị sulfamethoxazole–trimethoprim (TMP–SMX).
+  - Viêm phổi bẩm sinh: Khởi phát sau 2–3 tuần, ho khan, không đáp ứng kháng sinh thông thường; cần điều trị sulfamethoxazole–trimethoprim (TMP–SMX).
 
 #### Bệnh hột xoài (LGV)
 
@@ -126,21 +126,21 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
 - **Viêm đường sinh dục – tiết niệu khác**:
 
-  - _Neisseria gonorrhoeae_: tiểu buốt, tiểu nhiều, tiết dịch mủ, thường diễn biến nhanh (1–5 ngày sau quan hệ).
-  - _Trichomonas vaginalis_: huyết trắng bọt, mùi tanh, ngứa âm đạo.
-  - _Mycoplasma genitalium_: triệu chứng giống Chlamydia nhưng ít gặp và khó chẩn đoán.
+  - _Neisseria gonorrhoeae_: Tiểu buốt, tiểu nhiều, tiết dịch mủ, thường diễn biến nhanh (1–5 ngày sau quan hệ).
+  - _Trichomonas vaginalis_: Huyết trắng bọt, mùi tanh, ngứa âm đạo.
+  - _Mycoplasma genitalium_: Triệu chứng giống Chlamydia nhưng ít gặp và khó chẩn đoán.
 
 - **Viêm cổ tử cung**:
 
-  - _Gonorrhea, Herpes simplex virus (HSV)_: loét, đau rát rõ hơn, dịch mủ hoặc loét nông.
-  - _Lao sinh dục_: thăm khám thấy các ổ viêm, chảy máu dễ, cần cấy Mycobacterium tuberculosis.
-  - _Ureaplasma urealyticum, Ureaplasma parvum, Mycoplasma hominis_: thường đồng nhiễm, khó tách biệt lâm sàng, cần xét nghiệm PCR chuyên biệt.
-  - _Cytomegalovirus (CMV)_: hiếm nếu không suy giảm miễn dịch.
-  - _Liên cầu tan huyết beta nhóm B (Streptococcus agalactiae)_: thường là tác nhân gây viêm hậu sản hơn là STD.
+  - _Gonorrhea, Herpes simplex virus (HSV)_: Loét, đau rát rõ hơn, dịch mủ hoặc loét nông.
+  - _Lao sinh dục_: Thăm khám thấy các ổ viêm, chảy máu dễ, cần cấy Mycobacterium tuberculosis.
+  - _Ureaplasma urealyticum, Ureaplasma parvum, Mycoplasma hominis_: Thường đồng nhiễm, khó tách biệt lâm sàng, cần xét nghiệm PCR chuyên biệt.
+  - _Cytomegalovirus (CMV)_: Hiếm nếu không suy giảm miễn dịch.
+  - _Liên cầu tan huyết beta nhóm B (Streptococcus agalactiae)_: Thường là tác nhân gây viêm hậu sản hơn là STD.
 
 - **Viêm hậu môn – trực tràng**:
 
-  - _Gonorrhea, Herpes simplex virus, Treponema pallidum (giang mai)_: loét, mụn nước, ngứa dữ dội, scleroatrophic papulosis, có thể kèm u hạch.
+  - _Gonorrhea, Herpes simplex virus, Treponema pallidum (giang mai)_: Loét, mụn nước, ngứa dữ dội, scleroatrophic papulosis, có thể kèm u hạch.
 
   :::caution
 
@@ -165,13 +165,13 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
   - **Azithromycin 1 g uống liều duy nhất**
 
-    - Ưu điểm: thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%.
-    - Thận trọng: có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
+    - Ưu điểm: Thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%.
+    - Thận trọng: Có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
 
   - **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**
 
     - Hiệu quả 97%.
-    - Thận trọng: không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
+    - Thận trọng: Không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
 
 - **Phác đồ thay thế** (khi không thể dùng thuốc ưu tiên):
 
@@ -239,4 +239,4 @@ Không sử dung **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây �
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
 - Centers for Disease Control and Prevention (CDC) (2015) – _Sexually Transmitted Diseases Treatment Guidelines: Trichomoniasis_
 - World Health Organization (WHO) (2020) – _Global Health Sector Strategy on Sexually Transmitted Infections, 2016–2021_
-- Schwebke, J. R., Burgess, D. (2004) – _Trichomoniasis: reevaluation of clinical and public health significance_
+- Schwebke, J. R., Burgess, D. (2004) – _Trichomoniasis: Reevaluation of clinical and public health significance_

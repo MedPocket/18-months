@@ -29,7 +29,7 @@ _Phân loại lâm sàng theo CDC._
 
 ## Điều trị
 
-Điều trị ARV cho phụ nữ mang thai nhằm hai mục tiêu chính: kiểm soát HIV ở mẹ và giảm lây truyền sang con.
+Điều trị ARV cho phụ nữ mang thai nhằm hai mục tiêu chính: Kiểm soát HIV ở mẹ và giảm lây truyền sang con.
 
 ### Mục tiêu
 
@@ -101,13 +101,13 @@ _Phân loại lâm sàng theo CDC._
 ### Cho con bú
 
 - **Không khuyến cáo bú mẹ** nếu có cách nuôi thay thế an toàn.
-- Nếu buộc phải cho bú mẹ: mẹ tiếp tục ART đầy đủ, trẻ nhận AZT dự phòng.
+- Nếu buộc phải cho bú mẹ: Mẹ tiếp tục ART đầy đủ, trẻ nhận AZT dự phòng.
 
 ### Theo dõi sau điều trị
 
-- **Tải lượng HIV RNA** và **CD4**: mỗi 4–8 tuần trong quý I, mỗi 12 tuần sau đó.
-- **Chức năng thận, gan, lipid máu**: theo dõi định kỳ do tác dụng phụ ARV.
-- **Tuân thủ điều trị**: tư vấn, hỗ trợ tâm lý, đánh giá tác dụng phụ để đảm bảo mẹ dùng thuốc đều đặn.
+- **Tải lượng HIV RNA** và **CD4**: Mỗi 4–8 tuần trong quý I, mỗi 12 tuần sau đó.
+- **Chức năng thận, gan, lipid máu**: Theo dõi định kỳ do tác dụng phụ ARV.
+- **Tuân thủ điều trị**: Tư vấn, hỗ trợ tâm lý, đánh giá tác dụng phụ để đảm bảo mẹ dùng thuốc đều đặn.
 
 ## Phơi nhiễm
 
@@ -122,7 +122,7 @@ _Phân loại lâm sàng theo CDC._
 _Thời gian phát hiện HIV qua xét nghiệm._
 
 - **Triệu chứng sớm (nếu có)**: **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng...).
-- **Thời gian "cửa sổ" (window period)**: khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm:
+- **Thời gian "cửa sổ" (window period)**: Khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm:
 
 Kết quả được coi là đáng tin cậy nếu:
 

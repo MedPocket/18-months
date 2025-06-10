@@ -7,8 +7,8 @@ description: Định nghĩa, phân loại, sàng lọc, chẩn đoán, điều t
 
 1. **Đái tháo đường type 1**
 
-   - Cơ chế: phá hủy tế bào β đảo tụy → thiếu insulin tuyệt đối.
-   - Theo Bộ Y tế (2021): xem là bệnh tự miễn.
+   - Cơ chế: Phá hủy tế bào β đảo tụy → thiếu insulin tuyệt đối.
+   - Theo Bộ Y tế (2021): Xem là bệnh tự miễn.
 
 2. **Đái tháo đường type 2**
 
@@ -98,7 +98,7 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 
   - **Chuẩn bị**:
 
-    - 3 ngày trước: chế độ ăn chứa ≥ 150 g glucid/ngày.
+    - 3 ngày trước: Chế độ ăn chứa ≥ 150 g glucid/ngày.
     - Nhịn đói ít nhất 8 giờ (chỉ được uống nước lọc).
 
   - **Quy trình**:
@@ -140,7 +140,7 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 - Hạ đường huyết sơ sinh, suy hô hấp do trưởng thành phổi muộn.
 - Tăng hồng cầu (Hb > 20 g/dL), vàng da.
 - Dị tật bẩm sinh liên quan HbA1c mẹ > 6.5% trong 3 tháng đầu.
-- Nguy cơ lâu dài: béo phì, ĐTĐ type 2, chậm phát triển thần kinh.
+- Nguy cơ lâu dài: Béo phì, ĐTĐ type 2, chậm phát triển thần kinh.
 
 ## Điều trị
 
@@ -198,8 +198,8 @@ _Đường huyết tương mao mạch mục tiêu._
 
 ### Không dùng thuốc
 
-- **Cá nhân hóa khẩu phần**: dựa trên kết quả OGTT và cân nặng hiện tại.
-- **Tài liệu hướng dẫn**: phát tờ rơi, sổ tay dinh dưỡng.
+- **Cá nhân hóa khẩu phần**: Dựa trên kết quả OGTT và cân nặng hiện tại.
+- **Tài liệu hướng dẫn**: Phát tờ rơi, sổ tay dinh dưỡng.
 - **Theo dõi**: đánh giá MNT hiệu quả sau 2 tuần (≥ 4/8 giá trị glucose đạt mục tiêu → tiếp tục MNT; ngược lại → cân nhắc nhập viện → theo dõi liên tục 5 ngày → đạt mục tiêu ra viện điều chỉnh chế độ ăn, không đạt mục tiêu tiêm insulin).
 
 ### Insulin
@@ -212,13 +212,13 @@ _Đường huyết tương mao mạch mục tiêu._
 
 2. **Phác đồ cơ bản**
 
-   - **Basal**: insulin NPH hoặc Detemir nếu chỉ tăng glucose lúc đói.
-   - **Bolus**: insulin tác dụng nhanh (Regular, Lispro, Aspart) nếu tăng sau ăn.
-   - **Basal-bolus**: phối hợp khi tăng cả đói và sau ăn.
+   - **Basal**: Insulin NPH hoặc Detemir nếu chỉ tăng glucose lúc đói.
+   - **Bolus**: Insulin tác dụng nhanh (Regular, Lispro, Aspart) nếu tăng sau ăn.
+   - **Basal-bolus**: Phối hợp khi tăng cả đói và sau ăn.
 
    ![Các loại insulin thai kỳ](./_images/cac-loai-insulin.png)
 
-   _Các loại insulin và dấu đỏ: loại được phép dùng cho phụ nữ mang thai._
+   _Các loại insulin và dấu đỏ: Loại được phép dùng cho phụ nữ mang thai._
 
 3. **Điều chỉnh liều**
    - Tăng 1–2 IU mỗi 2–3 ngày cho đến khi đạt mục tiêu.
@@ -243,19 +243,19 @@ _Tóm tắt thời điểm và chỉ định cách sinh._
 1. **Chuyển dạ**
 
    - Giữ glucose mao mạch 70–100 mg/dL (3.9–5.6 mmol/L).
-   - Theo dõi: không dùng insulin → 4–6 giờ/lần; dùng insulin → 1–2 giờ/lần hoặc theo chỉ định.
+   - Theo dõi: Không dùng insulin → 4–6 giờ/lần; dùng insulin → 1–2 giờ/lần hoặc theo chỉ định.
 
 2. **Ngay sau sinh**
 
    - Giảm liều insulin ngay khi bánh rau sổ (giảm kháng insulin sinh lý).
-   - Theo dõi trẻ sơ sinh 72 giờ đầu: hạ đường huyết, hạ canxi, đa hồng cầu, vàng da, hô hấp.
+   - Theo dõi trẻ sơ sinh 72 giờ đầu: Hạ đường huyết, hạ canxi, đa hồng cầu, vàng da, hô hấp.
    - Cho trẻ da kề da và bú sớm trong 1 giờ đầu tiên.
 
 ## Chuẩn bị trước mang thai
 
 1. **HbA1c mục tiêu**: < 6.5% (tránh hạ đường huyết).
-2. **ĐTĐ type 1**: duy trì basal-bolus, điều chỉnh liều trước và trong thai kỳ.
-3. **ĐTĐ type 2**: chuyển sang insulin 0.4–0.5 IU/kg/ngày, tăng dần từ tuần 13 (0.8–1.0 IU/kg/ngày cuối thai kỳ).
+2. **ĐTĐ type 1**: Duy trì basal-bolus, điều chỉnh liều trước và trong thai kỳ.
+3. **ĐTĐ type 2**: Chuyển sang insulin 0.4–0.5 IU/kg/ngày, tăng dần từ tuần 13 (0.8–1.0 IU/kg/ngày cuối thai kỳ).
 4. **Thuốc dự phòng tiền sản giật**: Aspirin 60–150 mg/ngày trong 3 tháng đầu.
 5. **Tư vấn dinh dưỡng – luyện tập** sớm, đánh giá các biến chứng mạch máu, thận trước khi mang thai.
 

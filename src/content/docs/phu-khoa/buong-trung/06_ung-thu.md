@@ -18,7 +18,7 @@ Chẩn đoán khối tân lập ở buồng trứng luôn phải đi kèm dự �
 
   1.  Mổ mở:
 
-      - Đầu tiên: xét nghiệm tế bào học dịch báng/dịch rửa ổ bụng.
+      - Đầu tiên: Xét nghiệm tế bào học dịch báng/dịch rửa ổ bụng.
       - Khảo sát các tạng bụng (dạy dày, đại trực tràng, ruột thừa...) để phát hiện di căn.
       - Cắt trọn khối, không vỡ u; cắt ruột thừa, mạc nối lớn khi cần.
 
@@ -49,14 +49,14 @@ _Các giai đoạn ung thư buồng trứng theo FIGO._
 
 **Giai đoạn II** (buồng trứng + di căn vùng chậu):
 
-- IIa: di căn tử cung/vòi trứng.
-- IIb: di căn vùng chậu khác.
+- IIa: Di căn tử cung/vòi trứng.
+- IIb: Di căn vùng chậu khác.
 - IIc: IIa hoặc IIb + vỏ vỡ hoặc dịch ổ bụng/ dịch rửa có TB ác tính.
 
 **Giai đoạn III** (ngoài vùng chậu và/hoặc hạch & di căn bề mặt gan/ mạc nối):
 
-- IIIa: di căn phúc mạc vi thể, không hạch.
-- IIIb: di căn phúc mạc đại thể > 2 cm, không hạch.
+- IIIa: Di căn phúc mạc vi thể, không hạch.
+- IIIb: Di căn phúc mạc đại thể > 2 cm, không hạch.
 - IIIc: IIIb và/hoặc di căn hạch sau phúc mạc hoặc hạch bẹn.
 
 **Giai đoạn IV** (di căn xa):

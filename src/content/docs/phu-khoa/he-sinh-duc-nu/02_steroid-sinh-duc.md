@@ -13,16 +13,16 @@ Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, 
 
 ## Sinh tổng hợp
 
-1. **Cholesterol → Pregnenolone**: tại ty thể, qua enzyme P450scc (side-chain cleavage).
-2. **Progesterone (C₂₁)**: pregnenolone → progesterone (3β-HSD).
-3. **Androgen (C₁₉)**: progesterone → 17α-OH-progesterone → androstenedione → testosterone.
-4. **Estrogen (C₁₈)**: aromatase (P450aro) chuyển testosterone/androstenedione → estradiol/estrone; estriol chủ yếu sinh ra từ chuyển hóa ở gan và rau thai.
+1. **Cholesterol → Pregnenolone**: Tại ty thể, qua enzyme P450scc (side-chain cleavage).
+2. **Progesterone (C₂₁)**: Pregnenolone → progesterone (3β-HSD).
+3. **Androgen (C₁₉)**: Progesterone → 17α-OH-progesterone → androstenedione → testosterone.
+4. **Estrogen (C₁₈)**: Aromatase (P450aro) chuyển testosterone/androstenedione → estradiol/estrone; estriol chủ yếu sinh ra từ chuyển hóa ở gan và rau thai.
 
 ## Vai trò và nguồn gốc
 
 ### Androgen
 
-- **Nguồn**: tế bào vỏ (theca interna) của nang noãn chưa lệ thuộc gonadotropin.
+- **Nguồn**: Tế bào vỏ (theca interna) của nang noãn chưa lệ thuộc gonadotropin.
 - **Sản phẩm chính**: DHEA, androstenedione.
 - **Chức năng**:
 
@@ -31,19 +31,19 @@ Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, 
 
 ### Estrogen
 
-- **Nguồn**: tế bào hạt của các nang noãn phát triển và hoàng thể.
+- **Nguồn**: Tế bào hạt của các nang noãn phát triển và hoàng thể.
 - **Dạng lưu hành**:
 
-  - **Estradiol (E₂)**: mạnh nhất, chiếm ưu thế ở người trưởng thành.
-  - **Estrone (E₁)**: yếu hơn, có thể đảo ngược ↔ E₂.
-  - **Estriol (E₃)**: yếu nhất, chủ yếu ở thai kỳ (gan + rau).
+  - **Estradiol (E₂)**: Mạnh nhất, chiếm ưu thế ở người trưởng thành.
+  - **Estrone (E₁)**: Yếu hơn, có thể đảo ngược ↔ E₂.
+  - **Estriol (E₃)**: Yếu nhất, chủ yếu ở thai kỳ (gan + rau).
 
-- **Tổng hợp**: androgen → aromatase → estrogen
-- **Chức năng**: phát triển niêm mạc tử cung, hình thành các đặc điểm sinh dục thứ cấp, điều hòa GnRH/LH/FSH.
+- **Tổng hợp**: Androgen → aromatase → estrogen
+- **Chức năng**: Phát triển niêm mạc tử cung, hình thành các đặc điểm sinh dục thứ cấp, điều hòa GnRH/LH/FSH.
 
 ### Progesterone
 
-- **Nguồn**: tế bào hoàng thể sau phóng noãn; một phần từ vỏ thượng thận.
+- **Nguồn**: Tế bào hoàng thể sau phóng noãn; một phần từ vỏ thượng thận.
 - **Chức năng**:
 
   - Chuẩn bị nội mạc tử cung cho giai đoạn "phân tiết" (secretory), hỗ trợ làm tổ.
@@ -58,7 +58,7 @@ Steroid sinh dục tác động lên tế bào đích theo hai đường qua gen
 
 - Hormone khuếch tán vào tế bào, gắn với **thụ thể nhân** (ER-α/ER-β cho estrogen; PR-A/PR-B cho progesterone; AR cho androgen).
 - Phức hợp hormone–thụ thể cắt HSP, hóa trị dimer, gắn lên ERE/​PRE/​ARE (Estrogen/Progesterone/​Androgen Response Elements) trên DNA.
-- Tuyến tính: chậm (giờ–ngày), khởi phát protein mới.
+- Tuyến tính: Chậm (giờ–ngày), khởi phát protein mới.
 
 ### Không qua gene
 
@@ -78,27 +78,27 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
   - Thúc đẩy phân bào tuyến & mô đệm, gia tăng ER/PR, phát triển mạch thẳng.
 - **Progesterone** (pha secretory):
   - Chuyển tuyến sang chế tiết, xoắn mạch, ứ glycogen, chuẩn bị làm tổ.
-- **Hành kinh**: sụt đột ngột E₂ & P₄ → bong niêm mạc.
+- **Hành kinh**: Sụt đột ngột E₂ & P₄ → bong niêm mạc.
 
 ### Cổ tử cung
 
-- **Estrogen**: chế tiết chất nhầy loãng, thuận tinh trùng.
-- **Progesterone**: chất nhầy đặc, ngăn vi khuẩn và tinh trùng.
+- **Estrogen**: Chế tiết chất nhầy loãng, thuận tinh trùng.
+- **Progesterone**: Chất nhầy đặc, ngăn vi khuẩn và tinh trùng.
 
 ### Ống dẫn trứng & tử cung
 
-- **Estrogen**: tăng co thắt nhu động trứng về tử cung, đóng lỗ vòi.
-- **Progesterone**: giãn cơ trơn, mở lối vào buồng tử cung, hỗ trợ làm tổ.
+- **Estrogen**: Tăng co thắt nhu động trứng về tử cung, đóng lỗ vòi.
+- **Progesterone**: Giãn cơ trơn, mở lối vào buồng tử cung, hỗ trợ làm tổ.
 
 ### Hạ đồi – Tuyến yên
 
-- **Estrogen** (đỉnh giữa chu kỳ): kích thích LH surge qua KNDy neuron/kisspeptin.
+- **Estrogen** (đỉnh giữa chu kỳ): Kích thích LH surge qua KNDy neuron/kisspeptin.
 - **Progesterone** (pha hoàng thể): ức chế GnRH, ổn định trục HPT.
 
 ### Các cơ quan khác
 
-- **Tuyến vú**: genomic qua ER → phát triển ống tuyến, mô đệm.
-- **Xương, mạch máu, não**: non-genomic & genomic → duy trì mật độ xương, phân bố mỡ, chức năng thần kinh.
+- **Tuyến vú**: Genomic qua ER → phát triển ống tuyến, mô đệm.
+- **Xương, mạch máu, não**: Non-genomic & genomic → duy trì mật độ xương, phân bố mỡ, chức năng thần kinh.
 
 ## Thụ thể
 

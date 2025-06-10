@@ -19,10 +19,10 @@ Các nguyên nhân chính của xuất huyết từ 3 tháng giữa (sau 13 tu�
 
 Hỏi bệnh sử và khám lâm sàng nhằm tìm các yếu tố định hướng chẩn đoán:
 
-- **Đánh giá tình trạng chảy máu**: nhiều hay ít, đang tiếp diễn hay đã ngưng, có kèm đau bụng không?
+- **Đánh giá tình trạng chảy máu**: Nhiều hay ít, đang tiếp diễn hay đã ngưng, có kèm đau bụng không?
 - Khám tổng quát, sinh hiệu (huyết áp, mạch, tần số thở).
-- Khám bụng: tìm cơn gò tử cung, nghe tim thai.
-- **Khám mỏ vịt**: xác định nguồn gốc máu, đánh giá xóa/mở cổ tử cung (không khám tay thô vì có thể làm chảy máu nặng hơn).
+- Khám bụng: Tìm cơn gò tử cung, nghe tim thai.
+- **Khám mỏ vịt**: Xác định nguồn gốc máu, đánh giá xóa/mở cổ tử cung (không khám tay thô vì có thể làm chảy máu nặng hơn).
 
 ### Cận lâm sàng
 

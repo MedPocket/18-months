@@ -19,7 +19,7 @@ Tử cung được chia làm hai phần chính phần trên là thân tử cung 
 
   ![Các điểm mốc nhận diện quan trọng trong bệnh học cổ tử cung](./_images/viem-lo-tuyen-co-tu-cung/cac-moc-nhan-dien-benh-hoc-co-tu-cung.png)
 
-  _Từ ngoài vào trong: cổ ngoài (ectocervix), lỗ ngoài, kênh cổ tử cung, lỗ trong._
+  _Từ ngoài vào trong: Cổ ngoài (ectocervix), lỗ ngoài, kênh cổ tử cung, lỗ trong._
 
 ## Mô học
 
@@ -27,9 +27,9 @@ Cổ tử cung được cấu tạo bởi biểu mô phủ và mô đệm dướ
 
 - **Cổ ngoài (Ectocervix)** được phủ bởi **biểu mô lát tầng không sừng hóa**, gồm bốn lớp từ đáy lên bề mặt:
 
-  - **Lớp tế bào đáy**: chồng lên màng đáy, nơi tế bào phân chia mạnh nhất.
+  - **Lớp tế bào đáy**: Chồng lên màng đáy, nơi tế bào phân chia mạnh nhất.
   - **Lớp tế bào cận đáy** và **lớp tế bào trung gian** (cùng gọi là lớp gai/prickle cell layer).
-  - **Lớp tế bào bề mặt**: tùy theo nồng độ estrogen, dày mỏng khác nhau; chứa nhiều glycogen, bắt màu Lugol dương tính khi nhuộm.
+  - **Lớp tế bào bề mặt**: Tùy theo nồng độ estrogen, dày mỏng khác nhau; chứa nhiều glycogen, bắt màu Lugol dương tính khi nhuộm.
 
 - **Cổ trong (Endocervix)** được phủ bởi **biểu mô trụ đơn tiết nhầy**, gồm các tế bào hình trụ cao, nhân tròn hoặc bầu dục nằm sát đáy, bào tương chứa nhiều hạt nhầy. Mô trụ này không tạo thành các tuyến hoàn chỉnh, nhưng có chức năng tiết chất nhầy bảo vệ kênh cổ tử cung.
 
@@ -106,12 +106,12 @@ _Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủ
   - Khi lộ tuyến tiếp xúc lâu với môi trường âm đạo, vi khuẩn (E. coli, Gardnerella vaginalis), nấm (Candida spp.), trùng roi (Trichomonas vaginalis) dễ xâm nhập.
   - Triệu chứng:
 
-    - **Khí hư**: nhiều, màu vàng/ xanh, mùi hôi.
+    - **Khí hư**: Nhiều, màu vàng/ xanh, mùi hôi.
     - **Ngứa hoặc rát vùng âm hộ, âm đạo**.
     - **Đau rát khi giao hợp** (dyspareunia).
     - **Chảy máu sau quan hệ** (postcoital bleeding).
 
-  - **Dễ nhầm lẫn với**: viêm cổ tử cung do loét, chấn thương cơ học, hoặc các tổn thương ác tính.
+  - **Dễ nhầm lẫn với**: Viêm cổ tử cung do loét, chấn thương cơ học, hoặc các tổn thương ác tính.
 
 ### Nang Naboth
 
@@ -149,7 +149,7 @@ Chỉ thực hiện khi viêm đã được kiểm soát hoặc sau điều tr�
 1. **Đốt điện (Electrocautery/LEEP)**
 
    - Sử dụng dòng điện để phá hủy vùng mô lộ tuyến.
-   - Ưu điểm: nhanh, chi phí thấp.
+   - Ưu điểm: Nhanh, chi phí thấp.
    - Nhược điểm: đau nhẹ, có thể chảy máu sau thủ thuật, cần xem xét kỹ trước sinh nở.
 
 2. **Áp lạnh (Cryotherapy)**
@@ -162,7 +162,7 @@ Chỉ thực hiện khi viêm đã được kiểm soát hoặc sau điều tr�
 
    - Sử dụng chùm tia laser để bốc hơi mô lộ tuyến.
    - Ít chảy máu hơn đốt điện, vết thương nhỏ, lành nhanh.
-   - Nhược điểm: chi phí cao, cần máy chuyên dụng.
+   - Nhược điểm: Chi phí cao, cần máy chuyên dụng.
 
 4. **Điều trị bằng sóng cao tần (Radiofrequency ablation)**
 

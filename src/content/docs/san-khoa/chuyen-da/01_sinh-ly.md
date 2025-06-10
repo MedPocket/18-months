@@ -39,13 +39,13 @@ _Cơn co Braxton-Hicks là những cơn co thưa, không đều, không gây đa
 
 Đặc điểm của xóa mở cổ tử cung:
 
-- **Xóa cổ tử cung**: các thớ cơ dọc của thân tử cung co lại, kéo cổ tử cung lên trên, làm nó mỏng dần.
-- **Mở cổ tử cung**: sự co rút các cơ tử cung kèm với sự tiến triển của ngôi thai và đầu ối tạo nên hiện tượng cổ tử cung giãn rộng ra.
+- **Xóa cổ tử cung**: Các thớ cơ dọc của thân tử cung co lại, kéo cổ tử cung lên trên, làm nó mỏng dần.
+- **Mở cổ tử cung**: Sự co rút các cơ tử cung kèm với sự tiến triển của ngôi thai và đầu ối tạo nên hiện tượng cổ tử cung giãn rộng ra.
 
 Hiện tượng này xảy ra chủ yếu nhờ:
 
 - Cơn co tử cung: động lực chính.
-- Đầu ối và ngôi thai: hỗ trợ mở cổ tử cung, đặc biệt trong giai đoạn đầu.
+- Đầu ối và ngôi thai: Hỗ trợ mở cổ tử cung, đặc biệt trong giai đoạn đầu.
 
 Vòng thắt sinh lý nằm giữa thân và đoạn dưới tử cung, nếu chuyển dạ bị tắc nghẽn lâu dài, vòng này có thể trở thành vòng thắt Bandl – dấu hiệu bệnh lý.
 

@@ -9,9 +9,9 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
 
 1. **Giảm estrogen**
 
-   - Tuổi mãn kinh: sản xuất estrogen ở buồng trứng giảm rõ rệt sau 45–50 tuổi.
-   - Cắt hai buồng trứng (surgical menopause) hoặc điều trị hóa chất/hóa xạ: làm cho mức estrogen tụt nhanh.
-   - Sau sinh và cho con bú: nồng độ estrogen giảm khiến niêm mạc âm đạo tương đối teo nhẹ.
+   - Tuổi mãn kinh: Sản xuất estrogen ở buồng trứng giảm rõ rệt sau 45–50 tuổi.
+   - Cắt hai buồng trứng (surgical menopause) hoặc điều trị hóa chất/hóa xạ: Làm cho mức estrogen tụt nhanh.
+   - Sau sinh và cho con bú: Nồng độ estrogen giảm khiến niêm mạc âm đạo tương đối teo nhẹ.
 
 2. **Thay đổi sinh lý âm đạo**
 
@@ -28,16 +28,16 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
 
 ### Lâm sàng
 
-- **Ngứa, rát âm đạo – âm hộ**: thường dai dẳng, đặc biệt sau giao hợp hoặc sau vận động mạnh.
-- **Khô âm đạo**: cảm giác thiếu ẩm, khó chịu, có thể chảy máu khi giao hợp hoặc thăm khám.
+- **Ngứa, rát âm đạo – âm hộ**: Thường dai dẳng, đặc biệt sau giao hợp hoặc sau vận động mạnh.
+- **Khô âm đạo**: Cảm giác thiếu ẩm, khó chịu, có thể chảy máu khi giao hợp hoặc thăm khám.
 - **Tiết dịch rất ít hoặc không có** do teo tuyến tiết dịch. Nếu có, huyết trắng thường lẫn mủ, đôi khi lẫn máu (vì niêm mạc dễ chảy máu).
-- **Đau tức hạ vị**: do viêm lan tỏa niêm mạc và dưới niêm mạc.
+- **Đau tức hạ vị**: Do viêm lan tỏa niêm mạc và dưới niêm mạc.
 - **Rối loạn tiểu tiện**:
 
   - **Tiểu buốt, tiểu rắt** do niêm mạc niệu đạo teo mỏng.
   - Có thể tiểu không tự chủ do tăng kích thích thành bàng quang.
 
-- **Giao hợp đau** (dyspareunia): do mất bôi trơn và teo niêm mạc.
+- **Giao hợp đau** (dyspareunia): Do mất bôi trơn và teo niêm mạc.
 
 - **Quan sát khi khám**:
 
@@ -73,11 +73,11 @@ Mục tiêu điều trị là phục hồi lớp biểu mô âm đạo, tăng đ
 
 2. **Dưỡng ẩm và bôi trơn**
 
-   - **Gel hoặc kem dưỡng ẩm âm đạo chứa thành phần sinh học (ví dụ: hyaluronic acid)** sử dụng liên tục hàng ngày để giảm khô rát.
+   - **Gel hoặc kem dưỡng ẩm âm đạo chứa thành phần sinh học (ví dụ: Hyaluronic acid)** sử dụng liên tục hàng ngày để giảm khô rát.
    - **Gel bôi trơn gốc nước** khi giao hợp để giảm ma sát, tránh tổn thương niêm mạc.
 
 3. **Kháng sinh/kháng khuẩn khi có nhiễm khuẩn thứ phát**
-   - Nếu có bằng chứng nhiễm khuẩn hoặc nhiễm nấm đồng thời (phải làm cấy hoặc soi tươi), lựa chọn kháng sinh phù hợp (ví dụ: metronidazole cho BV, Fluconazole cho VVC).
+   - Nếu có bằng chứng nhiễm khuẩn hoặc nhiễm nấm đồng thời (phải làm cấy hoặc soi tươi), lựa chọn kháng sinh phù hợp (ví dụ: Metronidazole cho BV, Fluconazole cho VVC).
    - Khi không có xét nghiệm rõ ràng nhưng nghi ngờ nhiễm khuẩn thứ phát (tiết dịch mủ, mùi hôi, bạch cầu nhiều), có thể dùng kháng sinh kinh nghiệm theo phác đồ BV (ví dụ: Metronidazole gel 0.75% đặt âm đạo x 5 ngày).
 
 ### Điều trị toàn thân

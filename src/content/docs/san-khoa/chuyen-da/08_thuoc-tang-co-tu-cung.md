@@ -20,10 +20,10 @@ Có nhiều yếu tố ảnh hưởng đến đáp ứng co tử cung:
 
   _Bảng điểm Bishop – đánh giá độ chín muồi cổ tử cung._
 
-  - **Tổng ≥ 10**: sinh trong 2–3 giờ.
-  - **7–9**: sinh trong 8 giờ.
-  - **5–6**: tiên lượng dè dặt.
-  - **< 5**: nguy cơ thất bại khi khởi phát chuyển dạ.
+  - **Tổng ≥ 10**: Sinh trong 2–3 giờ.
+  - **7–9**: Sinh trong 8 giờ.
+  - **5–6**: Tiên lượng dè dặt.
+  - **< 5**: Nguy cơ thất bại khi khởi phát chuyển dạ.
 
 ## Chỉ định
 
@@ -76,7 +76,7 @@ _Thuốc tăng co tử cung và hồi phục tử cung._
   - Co cường tính → nguy cơ vỡ tử cung.
   - Ngộ độc nước (dùng liều cao kéo dài).
   - Hạ huyết áp, rối loạn tim mạch nếu truyền nhanh hoặc liều cao.
-  - Hiếm: dị ứng, ít lợi niệu (giống ADH).
+  - Hiếm: Dị ứng, ít lợi niệu (giống ADH).
 
 - **Liều khởi phát chuyển dạ (tĩnh mạch với bơm truyền tự động)**:
 
@@ -94,31 +94,31 @@ _Thuốc tăng co tử cung và hồi phục tử cung._
 
 ### Carbetocin
 
-- **Cơ chế**: tương tự oxytocin, gắn thụ thể mạnh và kéo dài.
+- **Cơ chế**: Tương tự oxytocin, gắn thụ thể mạnh và kéo dài.
 - **Liều dùng**: 100 µg tiêm bắp một lần sau sổ rau.
 - **Thời gian bán hủy**: 40 phút; co tử cung kéo dài 1–2 giờ.
 - **Tác dụng phụ**: đau co tử cung, buồn nôn, bốc hỏa.
 
 ### Ergot alkaloids (Ergometrine / Methylergonovine)
 
-- **Cơ chế**: kích thích thụ thể adrenergic và serotonin → co cơ tử cung mạnh.
-- **Chỉ định**: chỉ sau sổ rau để ngăn băng huyết.
-- **Chống chỉ định**: tim mạch, tăng huyết áp, tiền sản giật, suy gan/thận.
-- **Tác dụng phụ**: tăng huyết áp, co thắt mạch → thiếu máu cơ tim, buồn nôn.
+- **Cơ chế**: Kích thích thụ thể adrenergic và serotonin → co cơ tử cung mạnh.
+- **Chỉ định**: Chỉ sau sổ rau để ngăn băng huyết.
+- **Chống chỉ định**: Tim mạch, tăng huyết áp, tiền sản giật, suy gan/thận.
+- **Tác dụng phụ**: Tăng huyết áp, co thắt mạch → thiếu máu cơ tim, buồn nôn.
 
 ### Prostaglandin (Carboprost, Sulprostone)
 
-- **Cơ chế**: co cơ trơn tử cung, tăng trương lực cơ bản.
+- **Cơ chế**: Co cơ trơn tử cung, tăng trương lực cơ bản.
 - **Liều dùng**: Carboprost 250 µg IM, có thể lặp lại; Sulprostone 5 IU tĩnh mạch.
-- **Chống chỉ định**: hen nặng, suy tim, tăng huyết áp nặng.
-- **Tác dụng phụ**: co thắt phế quản, tiêu chảy, buồn nôn, đau chỗ tiêm.
+- **Chống chỉ định**: Hen nặng, suy tim, tăng huyết áp nặng.
+- **Tác dụng phụ**: Co thắt phế quản, tiêu chảy, buồn nôn, đau chỗ tiêm.
 
 ### Misoprostol (PGE₁)
 
-- **Cơ chế**: tăng co cơ tử cung, đồng thời làm chín cổ tử cung.
+- **Cơ chế**: Tăng co cơ tử cung, đồng thời làm chín cổ tử cung.
 - **Liều dùng**: 400–800 µg đường uống/ngậm/trực tràng.
-- **Ưu điểm**: rẻ, dễ bảo quản, nhiều đường dùng.
-- **Tác dụng phụ**: sốt, tiêu chảy, buồn nôn.
+- **Ưu điểm**: Rẻ, dễ bảo quản, nhiều đường dùng.
+- **Tác dụng phụ**: Sốt, tiêu chảy, buồn nôn.
 
 ## Nguồn tham khảo
 

@@ -13,9 +13,9 @@ Thủy đậu (trái rạ) là bệnh truyền nhiễm cấp tính do virus vari
 
   - Qua giọt bắn đường hô hấp khi ho, hắt hơi, nói chuyện.
   - Tiếp xúc trực tiếp với dịch mụn nước rồi chạm vào mắt, miệng, mũi hoặc da.
-  - Hiếm gặp: gián tiếp qua vật dụng nhiễm dịch mụn nước (quần áo, khăn, ga giường...) nếu có dịch dính.
+  - Hiếm gặp: Gián tiếp qua vật dụng nhiễm dịch mụn nước (quần áo, khăn, ga giường...) nếu có dịch dính.
 
-- Thời gian lây: bắt đầu từ 1–2 ngày trước khi nổi ban/mụn nước, kéo dài đến khi tất cả mụn nước khô vảy hoàn toàn (khoảng 5–7 ngày sau phát ban).
+- Thời gian lây: Bắt đầu từ 1–2 ngày trước khi nổi ban/mụn nước, kéo dài đến khi tất cả mụn nước khô vảy hoàn toàn (khoảng 5–7 ngày sau phát ban).
 
 ## Chẩn đoán
 
@@ -25,7 +25,7 @@ Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch 
 **Lâm sàng**:
 
 - Khởi phát với sốt nhẹ hoặc vừa (37.5–39 °C), đau đầu, mệt mỏi, chán ăn.
-- Phát ban mụn nước mọc từng đợt không đồng đều: có cả mụn mới và mụn đã đóng vảy cùng lúc.
+- Phát ban mụn nước mọc từng đợt không đồng đều: Có cả mụn mới và mụn đã đóng vảy cùng lúc.
 - Vị trí khởi phát thường ở mặt, thân mình, sau lan toàn thân.
 - Mụn nước tròn, đường kính 2–5 mm, có thể ngứa; vài ngày sau vỡ → đóng vảy → lành không để sẹo (trừ khi bội nhiễm).
 - Diễn tiến tự giới hạn, thường 7–10 ngày.
@@ -38,9 +38,9 @@ Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch 
 
 **Cận lâm sàng (nếu cần)**:
 
-- PCR: phát hiện DNA VZV (độ nhạy cao).
+- PCR: Phát hiện DNA VZV (độ nhạy cao).
 - Huyết thanh học: IgM (nhiễm cấp), IgG (tiền sử hoặc sau tiêm vaccine).
-- Xét nghiệm Tzanck (ít dùng): tế bào khổng lồ đa nhân từ dịch mụn nước.
+- Xét nghiệm Tzanck (ít dùng): Tế bào khổng lồ đa nhân từ dịch mụn nước.
 
 :::
 
@@ -58,7 +58,7 @@ Nhiễm thủy đậu có thể gây hội chứng thủy đậu bẩm sinh vớ
 
 ### Giai đoạn giữa và cuối (tuần 13–40)
 
-- Viêm phổi do thủy đậu ở mẹ: biến chứng nguy hiểm, có thể tử vong.
+- Viêm phổi do thủy đậu ở mẹ: Biến chứng nguy hiểm, có thể tử vong.
 - Nếu mẹ nhiễm gần ngày sinh, thai nhi có thể lây VZV và phát bệnh ngay sau sinh, thường nặng và cần điều trị tích cực.
 
 ## Điều trị
@@ -73,7 +73,7 @@ Nhiễm thủy đậu có thể gây hội chứng thủy đậu bẩm sinh vớ
   - Diphenhydramine 25–50 mg mỗi 4–6 giờ (tối đa 300 mg/ngày).
   - Loratadine 10 mg/ngày.
 
-- Chăm sóc da: tắm nước mát, kem bôi làm dịu, giữ da sạch, dưỡng ẩm.
+- Chăm sóc da: Tắm nước mát, kem bôi làm dịu, giữ da sạch, dưỡng ẩm.
 - Nghỉ ngơi, uống đủ nước, bổ sung dinh dưỡng (vitamin C, sắt, canxi, folate).
 
 ### Thuốc kháng virus

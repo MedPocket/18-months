@@ -13,7 +13,7 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 - **Điều trị ban đầu**:
 
   - Acetaminophen (paracetamol) liều tối đa 3 g/ngày.
-  - Nếu đau nặng: có thể dùng opioid liều chuẩn trong 48 giờ.
+  - Nếu đau nặng: Có thể dùng opioid liều chuẩn trong 48 giờ.
 
 - **NSAIDs** (ibuprofen, indomethacin) **chỉ** khi thai < 32 tuần do nguy cơ:
 
@@ -55,7 +55,7 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
   | --------------------------------- | ---------- | ------------------------------------------------------------------- |
   | **L0–L2 (dưới niêm mạc)**         | > 3 cm     | Nội soi buồng tử cung bóc u xơ trước ART                            |
   | **L0–L2**                         | ≤ 3 cm     | Có thể chuyển ART ngay nếu không biến dạng                          |
-  | **L3–L5 (trong cơ)**              | —          | Nếu sảy thai liên tiếp hoặc thất bại chu kỳ ICSI: cân nhắc bóc u xơ |
+  | **L3–L5 (trong cơ)**              | —          | Nếu sảy thai liên tiếp hoặc thất bại chu kỳ ICSI: Cân nhắc bóc u xơ |
   | **L6 (kẹt giữa cơ và thanh mạc)** | —          | Ít ảnh hưởng → ưu tiên ART trước nếu tuổi > 35                      |
 
   _Phẫu thuật u xơ._

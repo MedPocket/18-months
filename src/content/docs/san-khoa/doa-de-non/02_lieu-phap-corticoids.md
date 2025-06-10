@@ -16,7 +16,7 @@ Trong một số tình huống, có thể cân nhắc liều nhắc lại (rescu
 
 :::caution
 
-- Xác định rõ chỉ định: dấu hiệu chuyển dạ sớm, vỡ ối non, dọa sinh non hoặc phải kích thích sinh non vì lý do y tế.
+- Xác định rõ chỉ định: Dấu hiệu chuyển dạ sớm, vỡ ối non, dọa sinh non hoặc phải kích thích sinh non vì lý do y tế.
 - Không lặp lại nhiều đợt nếu chuyển dạ không xảy ra, trừ khi cân nhắc lợi ích vượt trội so với nguy cơ.
 - Kết hợp chẹn co tử cung (tocolysis), kháng sinh dự phòng khi vỡ ối non, và theo dõi sinh hiệu mẹ – con chặt chẽ.
 - Thảo luận với bệnh nhân về lợi ích ngắn hạn và những dữ liệu hiện có về tác động lâu dài.
@@ -52,8 +52,8 @@ Trong một số tình huống, có thể cân nhắc liều nhắc lại (rescu
 
 ## Nguồn tham khảo
 
-- American Journal of Obstetrics and Gynecology (1995) – _Antenatal corticosteroids: a meta-analysis of clinical trials_
+- American Journal of Obstetrics and Gynecology (1995) – _Antenatal corticosteroids: A meta-analysis of clinical trials_
 - Cochrane Database of Systematic Reviews (2006) – _Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth_
 - BJOG (2002) – _Betamethasone versus dexamethasone for fetal lung maturation_
 - Neonatology (2014) – _Long-term outcomes after antenatal corticosteroids_
-- Obstetrics & Gynecology (2017) – _Single versus multiple courses of antenatal corticosteroids: maternal and neonatal outcomes_
+- Obstetrics & Gynecology (2017) – _Single versus multiple courses of antenatal corticosteroids: Maternal and neonatal outcomes_

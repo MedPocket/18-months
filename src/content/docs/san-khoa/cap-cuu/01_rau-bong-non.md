@@ -44,7 +44,7 @@ Rau bong non là chẩn đoán loại trừ và cần loại bỏ các nguyên n
 - Đau bụng khởi phát đột ngột, liên tục hoặc co thắt cường tính.
 - Chảy máu âm đạo (có thể ít hoặc nhiều).
 - Tăng trương lực cơ bản tử cung.
-- Dấu hiệu suy thai: tim thai thay đổi, giảm vận động thai.
+- Dấu hiệu suy thai: Tim thai thay đổi, giảm vận động thai.
 - Thai lưu có thể xảy ra trong trường hợp nặng.
 
   ![EFM rau bong non](./_images/rau-bong-non/EFM-rau-bong-non.png)
@@ -92,18 +92,18 @@ Rau bong non là cấp cứu sản khoa. Biến chứng phổ biến:
 
 ## Điều trị
 
-Mục tiêu: hạn chế tiến triển của khối máu tụ, phòng biến chứng và bảo toàn tính mạng mẹ con.
+Mục tiêu: Hạn chế tiến triển của khối máu tụ, phòng biến chứng và bảo toàn tính mạng mẹ con.
 
 ### Cấp cứu ban đầu
 
 - Bù dịch tinh thể và truyền máu để điều trị sốc giảm thể tích.
-- Điều chỉnh DIC: truyền huyết tương tươi đông lạnh, yếu tố đông máu.
+- Điều chỉnh DIC: Truyền huyết tương tươi đông lạnh, yếu tố đông máu.
 - Điều trị biến chứng của sốc và DIC.
 
 ### Sản khoa
 
 - Ưu tiên sinh càng sớm càng tốt, trừ khi khối máu tụ rất nhỏ.
-- Tia ối sớm: giảm áp lực khối máu tụ, giảm phóng thích thromboplastin, thúc đẩy chuyển dạ.
+- Tia ối sớm: Giảm áp lực khối máu tụ, giảm phóng thích thromboplastin, thúc đẩy chuyển dạ.
 - Nếu thai đủ khả năng sống và không thể sinh ngả nhanh, mổ lấy thai là ưu tiên.
 - Nếu thai đã mất hoặc không khả năng sống, có thể sinh ngả.
 - Rau bong non càng để lâu càng mất máu và DIC càng nặng.

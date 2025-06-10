@@ -7,15 +7,15 @@ U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô
 
 ## Bệnh sinh
 
-- **ER/PR dương tính**: tế bào u xơ có thụ thể ER-α và PR; progesterone thúc đẩy phân bào và sinh ECM.
+- **ER/PR dương tính**: Tế bào u xơ có thụ thể ER-α và PR; progesterone thúc đẩy phân bào và sinh ECM.
 - **Growth factors**: EGF, IGF-1... tăng cao, kích thích tăng trưởng tế bào u.
 
 ## Yếu tố nguy cơ
 
-- **Tuổi**: tăng đến tiền mãn kinh, giảm sau mãn kinh.
+- **Tuổi**: Tăng đến tiền mãn kinh, giảm sau mãn kinh.
 - **Di truyền**: đột biến MED12, trisomy 12, đảo đoạn 12q, 6p...
-- **Nội tiết/chuyển hóa**: béo phì, kháng insulin, tăng lipid, tăng huyết áp.
-- **Gia đình**: mẹ/chị em gái có u xơ.
+- **Nội tiết/chuyển hóa**: Béo phì, kháng insulin, tăng lipid, tăng huyết áp.
+- **Gia đình**: Mẹ/chị em gái có u xơ.
 
 ## Yếu tố bảo vệ
 
@@ -41,12 +41,12 @@ _Phân loại FIGO 2011._
 
 ### Lâm sàng
 
-- **Cơ năng**: cường/rong kinh, thống kinh, đau hạ vị, chèn ép bàng quang/niệu quản/trực tràng, thiếu máu
-- **Thực thể**: tử cung to, khối cứng, di động kém, sốt (thoái hóa)
+- **Cơ năng**: Cường/rong kinh, thống kinh, đau hạ vị, chèn ép bàng quang/niệu quản/trực tràng, thiếu máu
+- **Thực thể**: Tử cung to, khối cứng, di động kém, sốt (thoái hóa)
 
 ### Cận lâm sàng
 
-- **Siêu âm thang xám**: khối giảm âm, giới hạn rõ, bóng giảm âm sau.
+- **Siêu âm thang xám**: Khối giảm âm, giới hạn rõ, bóng giảm âm sau.
 
   ![U xơ tử cung trên siêu âm](./_images/u-xo-tu-cung-tren-sieu-am.png)
 
@@ -60,7 +60,7 @@ _Phân loại FIGO 2011._
 
   _Leiomyosarcoma trên siêu âm._
 
-- **Doppler**: mạch ngoại vi u xơ; phân biệt với polyp (mạch trung tâm) và adenomyosis (mạch nội vi).
+- **Doppler**: Mạch ngoại vi u xơ; phân biệt với polyp (mạch trung tâm) và adenomyosis (mạch nội vi).
 
   ![U xơ tử cung trên siêu âm Doppler](./_images/u-xo-tu-cung-tren-sieu-am-doppler.png)
 
@@ -76,7 +76,7 @@ _Phân loại FIGO 2011._
 
   _Adenomyosis trên siêu âm đàn hồi._
 
-- **Siêu âm bơm nước**: với u xơ dưới niêm mạc.
+- **Siêu âm bơm nước**: Với u xơ dưới niêm mạc.
 
   ![U xơ tử cung FIGO 0 trên SIS](./_images/u-xo-tu-cung-figo-0-qua-sis.png)
 
@@ -86,7 +86,7 @@ _Phân loại FIGO 2011._
 
   _Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler._
 
-- **MRI**: phân biệt adenomyosis (JZ dày > 40%, tín hiệu hỗn hợp) với u xơ (tín hiệu đồng nhất giảm trên T2W).
+- **MRI**: Phân biệt adenomyosis (JZ dày > 40%, tín hiệu hỗn hợp) với u xơ (tín hiệu đồng nhất giảm trên T2W).
 
   ![Hình ảnh MRI của adenomyosis và u xơ tử cung](./_images/adenomyosis-u-xo-tu-cung-tren-mri.png)
 
@@ -102,15 +102,15 @@ _Phân loại FIGO 2011._
 - Tử cung to do có thai.
 - Polyp nội mạc tử cung (u xơ dưới niêm mạc).
 - Khối u buồng trứng (u xơ dưới thanh mạc có cuống).
-- Leiomyosarcoma: sarcoma tử cung được chẩn đoán xác định dựa trên giải phẫu bệnh...
+- Leiomyosarcoma: Sarcoma tử cung được chẩn đoán xác định dựa trên giải phẫu bệnh...
 
 ## Biến chứng
 
-- **Xuất huyết**: cường/rong kinh (30% chỉ định can thiệp).
-- **Chèn ép**: bàng quang, niệu quản (thận ứ nước), trực tràng, TM chủ dưới.
+- **Xuất huyết**: Cường/rong kinh (30% chỉ định can thiệp).
+- **Chèn ép**: Bàng quang, niệu quản (thận ứ nước), trực tràng, TM chủ dưới.
 - **Thoái hóa/u xoắn**: đau cấp, sốt, tăng bạch cầu.
-- **Hiếm muộn**: dưới niêm mạc, biến dạng lòng tử cung.
-- **Thai kỳ**: ngôi bất thường, rau tiền đạo, bong non, sinh non
+- **Hiếm muộn**: Dưới niêm mạc, biến dạng lòng tử cung.
+- **Thai kỳ**: Ngôi bất thường, rau tiền đạo, bong non, sinh non
 
 ## Điều trị
 
@@ -136,9 +136,9 @@ _Phân loại FIGO 2011._
 
 - **Bóc u xơ**
 
-  - Nội soi buồng tử cung: submucosal L0–L2 ≤ 5 cm.
-  - Nội soi ổ bụng: subserosal/intramural ≤ 10 cm.
-  - Mổ mở: u lớn, lan tỏa, đa nhân.
+  - Nội soi buồng tử cung: Submucosal L0–L2 ≤ 5 cm.
+  - Nội soi ổ bụng: Subserosal/intramural ≤ 10 cm.
+  - Mổ mở: U lớn, lan tỏa, đa nhân.
 
 - **Cắt tử cung**
 

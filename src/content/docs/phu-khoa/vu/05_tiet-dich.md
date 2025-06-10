@@ -83,9 +83,9 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 
 #### Theo nguyên nhân
 
-- Nếu do thuốc: ngưng hoặc thay thế bằng thuốc khác ít gây tăng prolactin.
+- Nếu do thuốc: Ngưng hoặc thay thế bằng thuốc khác ít gây tăng prolactin.
 - Nếu do nhược giáp: điều trị thay thế hormone tuyến giáp (levothyroxine).
-- Nếu do rối loạn chức năng thận/ gan: xử lý theo chuyên khoa tương ứng.
+- Nếu do rối loạn chức năng thận/ gan: Xử lý theo chuyên khoa tương ứng.
 
 #### Nội khoa
 
@@ -112,7 +112,7 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
 
    - Tổn thương lành tính, xuất phát từ biểu mô ống, thường nằm ở khu vực quanh quầng vú (< 1 cm).
    - Dịch máu hoặc dịch lẫn máu là đặc trưng, bệnh nhân sờ không rõ khối (vì khối nhỏ).
-   - Tần suất: chiếm 60–80% trường hợp tiết dịch bệnh lý có máu hoặc giả máu.
+   - Tần suất: Chiếm 60–80% trường hợp tiết dịch bệnh lý có máu hoặc giả máu.
 
 2. **Dãn ống tuyến (Duct ectasia)**
 
@@ -177,20 +177,20 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
 4. **Chụp ống tuyến (Ductography/Galactography)**
 
    - Bơm thuốc cản quang qua ống chảy dịch, chụp X-quang để định vị tổn thương (như bướu nhú, hẹp ống, khối xơ).
-   - Hình ảnh: lấp đầy nhánh ống bởi khối, chỗ hẹp, biến dạng lòng ống.
+   - Hình ảnh: Lấp đầy nhánh ống bởi khối, chỗ hẹp, biến dạng lòng ống.
 
 5. **Tế bào học dịch núm vú**
    - Lấy dịch tận gốc ống, nhuộm Giemsa hoặc Papanicolaou.
    - Đánh giá tế bào:
      - Hiệu quả trong phát hiện tế bào ung thư nếu có dòng điển hình.
-     - Hạn chế: không phân biệt được tổn thương in situ hay xâm lấn, có thể âm tính giả nếu lấy sai ống.
+     - Hạn chế: Không phân biệt được tổn thương in situ hay xâm lấn, có thể âm tính giả nếu lấy sai ống.
 
 ### Điều trị
 
 - **Bước 1: Phân loại dịch**
 
   1. **Dịch sữa (trắng đục)**: đo prolactin, TSH → xử trí như tiết sữa.
-  2. **Dịch bệnh lý (màu bất thường, một bên, một ống)**: chuyển sang bước chẩn đoán hình ảnh.
+  2. **Dịch bệnh lý (màu bất thường, một bên, một ống)**: Chuyển sang bước chẩn đoán hình ảnh.
 
 - **Bước 2: Kết hợp chẩn đoán hình ảnh**
 

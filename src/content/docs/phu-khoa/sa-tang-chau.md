@@ -17,9 +17,9 @@ Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là sự tụt x
 
 | Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại                                                              | Xét nghiệm cần thiết     |
 | ------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------ |
-| **Thành trước (ngăn trước)**         | Sa bàng quang: trung tâm, bên, kết hợp<br>Sa niệu đạo                                  | Niệu động học            |
-| **Vòm âm đạo (ngăn giữa)**           | Túi sa ruột non: trước, sau<br>Sa tử cung<br>Sa mỏm cắt                                | MRI động ± Niệu động học |
-| **Thành sau (ngăn sau)**             | Túi trực tràng: cao, giữa, thấp<br>Sa trực tràng<br>Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
+| **Thành trước (ngăn trước)**         | Sa bàng quang: Trung tâm, bên, kết hợp<br>Sa niệu đạo                                  | Niệu động học            |
+| **Vòm âm đạo (ngăn giữa)**           | Túi sa ruột non: Trước, sau<br>Sa tử cung<br>Sa mỏm cắt                                | MRI động ± Niệu động học |
+| **Thành sau (ngăn sau)**             | Túi trực tràng: Cao, giữa, thấp<br>Sa trực tràng<br>Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
 
 _Phân loại theo giải phẫu._
 
@@ -34,26 +34,26 @@ _Phân loại - Phân độ sa tạng chậu._
 **Quy ước 9 mốc cần đo**:
 
 - Đơn vị đo cm, người bệnh tư thế sản phụ khoa, đầu cao 45°, rặn trong quá trình đánh giá.
-- Dụng cụ: van âm đạo, thước đo, kẹp tim, pozzi.
+- Dụng cụ: Van âm đạo, thước đo, kẹp tim, pozzi.
 - **Điểm cố định**:
-  - Aa, Ap: cách mép âm đạo (niệu quản) 3 cm.
+  - Aa, Ap: Cách mép âm đạo (niệu quản) 3 cm.
   - C, D (cùng đồ) nếu còn tử cung.
-  - Gh: khe niệu dục.
-  - Pb: thể sàn chậu.
-  - Tvl: chiều dài âm đạo.
+  - Gh: Khe niệu dục.
+  - Pb: Thể sàn chậu.
+  - Tvl: Chiều dài âm đạo.
 - **Điểm thay đổi**:
   - Ba, Bp: điểm phồng xa nhất của đoạn âm đạo (khi rặn hoặc kéo cổ tử cung).
 - Trên/dưới mép màng trinh: đánh dấu +/– trước giá trị.
 
 **Phân độ POP-Q**:
 
-- **Độ 0**: không sa tạng chậu.
+- **Độ 0**: Không sa tạng chậu.
   - Aa, Ba, Ap, Bp: đều ở +3 cm trên màng trinh.
   - C, D: (tvl–2) cm ≤ C, D ≤ tvl.
-- **Độ I**: bất kỳ điểm Ba hoặc Bp ở trên màng trinh >1 cm.
+- **Độ I**: Bất kỳ điểm Ba hoặc Bp ở trên màng trinh >1 cm.
 - **Độ II**: Ba hoặc Bp nằm trong khoảng ±1 cm quanh màng trinh.
 - **Độ III**: Ba hoặc Bp sa >1 cm dưới màng trinh nhưng <(tvl–2) cm.
-- **Độ IV**: sa toàn bộ, Ba hoặc Bp ≥ (tvl–2) cm.
+- **Độ IV**: Sa toàn bộ, Ba hoặc Bp ≥ (tvl–2) cm.
 
 ![Sơ đồ chẩn đoán sa tạng chậu](./_images/sa-tang-chau/so-do-chan-doan-sa-tang-chau.jpg)
 
@@ -63,7 +63,7 @@ Dựa vào lâm sàng (POP-Q) và kết quả cận lâm sàng, ghi rõ:
 
 - Tạng sa, độ sa.
 - Rối loạn tiết niệu hoặc đi cầu kèm theo.
-- Tổn thương kèm: rách cơ thắt, táo bón...
+- Tổn thương kèm: Rách cơ thắt, táo bón...
 
 Ví dụ: Sa tử cung độ III, sa bàng quang độ II, sa trực tràng độ II, tiểu không kiểm soát khi gắng sức, rách cơ thắt hậu môn diện rộng, táo bón.
 
@@ -71,7 +71,7 @@ Ví dụ: Sa tử cung độ III, sa bàng quang độ II, sa trực tràng đ�
 
 #### Xét nghiệm cơ bản
 
-- Đánh giá và điều trị yếu tố nguy cơ: viêm âm đạo, nhiễm trùng tiểu, tiểu đường, thiếu máu...
+- Đánh giá và điều trị yếu tố nguy cơ: Viêm âm đạo, nhiễm trùng tiểu, tiểu đường, thiếu máu...
 - Loại trừ bệnh lý phụ khoa kèm (rong huyết, u xơ tử cung, u nang buồng trứng...).
 - Siêu âm bụng tổng quát khi cần phẫu thuật hoặc nghi bế tắc đường tiểu do khối sa.
 
@@ -97,7 +97,7 @@ Ví dụ: Sa tử cung độ III, sa bàng quang độ II, sa trực tràng đ�
 
 ### Nội khoa
 
-- **Chỉ định**: sa độ I–II, triệu chứng nhẹ, chưa ảnh hưởng chất lượng sống.
+- **Chỉ định**: Sa độ I–II, triệu chứng nhẹ, chưa ảnh hưởng chất lượng sống.
 - Phương pháp:
 
   - Thay đổi thói quen (giảm cân, tránh gắng sức).
@@ -123,24 +123,24 @@ _Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ
 
 - **Phương pháp** lựa chọn dựa vào tạng sa, độ sa, tuổi, mong muốn sinh đẻ, sức khỏe, điều kiện thiết bị, kinh nghiệm phẫu thuật viên:
   - **Sa thành trước**:
-    - **Bàng quang**: repair paravaginal defect (mảnh ghép polypropylene hoặc may cân ngang).
-    - **Niệu đạo**: sling (TOT/TVT/mini-sling), phẫu thuật Burch.
+    - **Bàng quang**: Repair paravaginal defect (mảnh ghép polypropylene hoặc may cân ngang).
+    - **Niệu đạo**: Sling (TOT/TVT/mini-sling), phẫu thuật Burch.
   - **Sa thành sau**
-    - **Trực tràng**: may cân trực tràng–âm đạo, mảnh ghép polypropylene.
+    - **Trực tràng**: May cân trực tràng–âm đạo, mảnh ghép polypropylene.
     - Khâu phục hồi cơ nâng hậu môn, tái tạo nút sàn chậu.
   - **Sa tử cung và mỏm cắt**:
     - Treo tử cung vào mỏm nhô hoặc dây chằng cùng–gai (khâu không tan hoặc mảnh ghép).
     - May ngắn dây chằng tử cung–cùng.
     - Cắt tử cung bán phần hoặc toàn phần kèm cố định mỏm cắt.
 - **Mảnh ghép tổng hợp**:
-  - **Chỉ định**: sa độ III–IV, sa tái phát, chống chỉ định phẫu thuật kéo dài.
-  - **Chống chỉ định tuyệt đối**: rối loạn đông máu, xơ gan, bệnh lý mạch máu, đái tháo đường không kiểm soát, nhiễm khuẩn, tiền ung thư chưa điều trị, xạ trị vùng chậu, nghiện thuốc lá nặng.
-  - **Chống chỉ định tương đối**: niêm mạc âm đạo mỏng, vết thương niệu đạo/bàng quang/trực tràng, kèm cắt tử cung, không đủ mô che phủ.
+  - **Chỉ định**: Sa độ III–IV, sa tái phát, chống chỉ định phẫu thuật kéo dài.
+  - **Chống chỉ định tuyệt đối**: Rối loạn đông máu, xơ gan, bệnh lý mạch máu, đái tháo đường không kiểm soát, nhiễm khuẩn, tiền ung thư chưa điều trị, xạ trị vùng chậu, nghiện thuốc lá nặng.
+  - **Chống chỉ định tương đối**: Niêm mạc âm đạo mỏng, vết thương niệu đạo/bàng quang/trực tràng, kèm cắt tử cung, không đủ mô che phủ.
 - **Đường vào phẫu thuật**
 
   - **Ngả âm đạo**: BN cao tuổi (> 70), gây mê ngắn, vết mổ nhiều lần, béo phì.
   - **Ngả bụng/nội soi**: BN trẻ, mong muốn bảo tồn tử cung, sa độ III–IV, thất bại phẫu thuật ngả âm đạo.
-  - **Kết hợp**: khi cần đặt mảnh ghép qua cả hai đường để tăng hiệu quả.
+  - **Kết hợp**: Khi cần đặt mảnh ghép qua cả hai đường để tăng hiệu quả.
 
   ![Phẫu thuật ngả bụng – Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-bung.jpeg)
 

@@ -12,7 +12,7 @@ Việc tầm soát và dự phòng tiền sản giật là cực kỳ quan trọ
 - Tuổi mẹ.
 - Chiều cao, cân nặng, BMI.
 - Chủng tộc.
-- Phương thức thụ thai: tự nhiên, kích trứng, IVF.
+- Phương thức thụ thai: Tự nhiên, kích trứng, IVF.
 - Hút thuốc lá.
 - Tiền sử tăng huyết áp mạn.
 

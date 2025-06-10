@@ -13,9 +13,9 @@ HPV thuộc họ Papovaviridae, đường kính 55 nm, không có màng lipid. C
 
 Bên trong là DNA kép vòng, dài 7904 bp, gồm các gen:
 
-- **E1, E2**: nhân bản.
-- **E4, E5**: tái tổ hợp.
-- **L1, L2**: protein vỏ capsid.
+- **E1, E2**: Nhân bản.
+- **E4, E5**: Tái tổ hợp.
+- **L1, L2**: Protein vỏ capsid.
 - **E6, E7**: đa chức năng, tương tác với p53 và pRb, quyết định khả năng sinh ung thư.
 
 ![DNA HPV16 7904 bp](./_images/hpv/so-do-dna-hpv-16.png)
@@ -26,8 +26,8 @@ _Sơ đồ DNA 7904 bp của HPV type 16._
 
 - Hơn 200 type HPV đã được định danh, trong đó 85 type đã mô tả đầy đủ gene; > 40 type lây qua quan hệ tình dục. Do chỉ có capsid, HPV bền ngoài môi trường, có thể lây gián tiếp qua tiếp xúc đồ dùng.
 
-  - **Nhóm da**: tổn thương ở da tay, chân.
-  - **Nhóm niêm mạc**: xâm nhiễm tế bào đáy niêm mạc môi, miệng, hô hấp, cơ quan sinh dục.
+  - **Nhóm da**: Tổn thương ở da tay, chân.
+  - **Nhóm niêm mạc**: Xâm nhiễm tế bào đáy niêm mạc môi, miệng, hô hấp, cơ quan sinh dục.
 
 - **Nguy cơ thấp**: 6, 11, 42, 43, 44.
 - **Nguy cơ cao**: 16, 18, 31, 33, 34, 35, 39, 45, 51, 52, 56, 58, 59, 66, 68, 70.
@@ -42,7 +42,7 @@ _Sơ đồ DNA 7904 bp của HPV type 16._
 
 - Đa số lành tính, có thể tự khỏi nếu miễn dịch tốt.
 - Nhiễm tồn tại (> 2 năm) tăng nguy cơ tái phát và sinh ung thư.
-- Biểu hiện: mụn cóc da, mụn cóc miệng (Heck’s), u nhú thanh quản.
+- Biểu hiện: Mụn cóc da, mụn cóc miệng (Heck’s), u nhú thanh quản.
 - Tại cổ tử cung: HPV type thấp gây mụn cóc sinh dục; type cao (16, 18, 31, 45...) liên quan đến tổn thương tiền ung thư và ung thư.
 - **Cơ chế sinh ung thư**:
 
@@ -105,8 +105,8 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 
   - Trẻ gái và trai 9–12 tuổi (khuyến cáo mạnh 11–12 tuổi).
   - Trẻ trai ưu tiên 4vHPV.
-  - Người chưa tiêm: nữ đến 26 tuổi; nam đến 21 tuổi (mở rộng đến 26 tuổi cho đồng tính và người chuyển giới).
-  - Trẻ em bị lạm dụng tình dục: bắt đầu từ 9 tuổi.
+  - Người chưa tiêm: Nữ đến 26 tuổi; nam đến 21 tuổi (mở rộng đến 26 tuổi cho đồng tính và người chuyển giới).
+  - Trẻ em bị lạm dụng tình dục: Bắt đầu từ 9 tuổi.
 
 - **Phác đồ**
 
@@ -116,9 +116,9 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 :::caution
 
 - Không cần tầm soát Pap, HPV DNA hay kháng thể trước tiêm.
-- Tuân thủ khoảng cách tối thiểu: liều 1–2 ≥ 4 tuần; liều 2–3 ≥ 12 tuần; liều 1–3 ≥ 40 tuần.
-- Trễ hẹn: tiếp tục liệu trình, không phải bắt đầu lại.
-- Chống chỉ định: dị ứng nấm men (4v/9vHPV), không tiêm khi mang thai.
+- Tuân thủ khoảng cách tối thiểu: Liều 1–2 ≥ 4 tuần; liều 2–3 ≥ 12 tuần; liều 1–3 ≥ 40 tuần.
+- Trễ hẹn: Tiếp tục liệu trình, không phải bắt đầu lại.
+- Chống chỉ định: Dị ứng nấm men (4v/9vHPV), không tiêm khi mang thai.
 - Có thể tiêm đồng thời với vaccine khác, nhưng không trộn chung ống tiêm.
 - Theo dõi 15 phút sau tiêm do nguy cơ phản ứng ngất sinh lý.
 - Phụ nữ đã phơi nhiễm HPV hoặc có tổn thương cổ tử cung bất thường vẫn được khuyến khích tiêm để phòng các type chưa nhiễm.
@@ -140,9 +140,9 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 
 - **Quy trình quản lý (ACOG/ASCCP)**
 
-  - HPV (−): xét nghiệm lại sau 3 năm.
-  - HPV (+) type 16/18: soi cổ tử cung.
-  - HPV (+) type cao khác: làm tế bào học; nếu bình thường → theo dõi 1 năm; nếu bất thường → soi cổ tử cung.
+  - HPV (−): Xét nghiệm lại sau 3 năm.
+  - HPV (+) type 16/18: Soi cổ tử cung.
+  - HPV (+) type cao khác: Làm tế bào học; nếu bình thường → theo dõi 1 năm; nếu bất thường → soi cổ tử cung.
 
 ## Nguồn tham khảo
 

@@ -25,8 +25,8 @@ Trong thai kỳ, chức năng tuyến giáp của mẹ bị thay đổi đáng k
 
 - Về chức năng tuyến giáp của thai:
 
-  - Trước tuần thứ 10: không có iod hữu cơ trong tuyến giáp thai nhi.
-  - Từ tuần 11–12: tuyến giáp thai nhi bắt đầu sản xuất iodothyronine và T₄.
+  - Trước tuần thứ 10: Không có iod hữu cơ trong tuyến giáp thai nhi.
+  - Từ tuần 11–12: Tuyến giáp thai nhi bắt đầu sản xuất iodothyronine và T₄.
   - TSH, T₄ và FT₄ trong thai thể hiện sự trưởng thành của trục tuyến giáp – tuyến yên.
 
 - **Iod tự do có thể đi qua bánh rau**, nhưng TSH không. Do đó, một lượng T₄ giới hạn từ mẹ có thể qua bánh rau và đóng vai trò quan trọng cho sự phát triển hệ thần kinh của thai nhi, đặc biệt trong **tam cá nguyệt đầu tiên** trước khi tuyến giáp thai hoạt động hiệu quả.

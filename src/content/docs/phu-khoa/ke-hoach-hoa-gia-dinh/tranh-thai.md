@@ -44,7 +44,7 @@ _Tính hiệu quả._
 
 ### Tính an toàn
 
-Các yếu tố ảnh hưởng đến an toàn: tuổi, hút thuốc, tiền sử huyết khối, bệnh lý tim mạch, tiểu đường, động kinh, cho con bú...
+Các yếu tố ảnh hưởng đến an toàn: Tuổi, hút thuốc, tiền sử huyết khối, bệnh lý tim mạch, tiểu đường, động kinh, cho con bú...
 
 | Phương pháp       | An toàn chung | Hạn chế thường gặp                                           |
 | ----------------- | ------------- | ------------------------------------------------------------ |
@@ -85,7 +85,7 @@ Phụ thuộc vào:
 
 1. **Sàng lọc về tính an toàn**
 
-   - Hỏi về: bệnh lý tim mạch, nội tiết, gan, huyết khối, thuốc đang dùng...
+   - Hỏi về: Bệnh lý tim mạch, nội tiết, gan, huyết khối, thuốc đang dùng...
    - Phân loại theo **WHO 1–4**. **Loại 3–4** → Không đưa vào danh sách gợi ý.
 
 2. **Lập danh sách phương pháp phù hợp**
@@ -93,7 +93,7 @@ Phụ thuộc vào:
    - Ưu tiên:
      - Loại 1 → Theo hiệu quả giảm dần.
      - Sau đó đến loại 2.
-   - Cung cấp thông tin: hiệu quả, tác dụng phụ, cách sử dụng.
+   - Cung cấp thông tin: Hiệu quả, tác dụng phụ, cách sử dụng.
 
 3. **Lựa chọn của người dùng**
 

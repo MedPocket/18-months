@@ -75,22 +75,22 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 ## Tầm soát
 
 - Huyết đồ: Hb < 11 g/dL; MCV < 80 fL; MCH < 27 pg.
-- Định lượng ferritin: bình thường hoặc tăng → chuyển sang điện di Hb.
-- Điện di Hb: xác định tỉ lệ HbA2, HbF để phân loại.
+- Định lượng ferritin: Bình thường hoặc tăng → chuyển sang điện di Hb.
+- Điện di Hb: Xác định tỉ lệ HbA2, HbF để phân loại.
 
   ![Kết quả điện di Hb ở người trưởng thành](./_images/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
 
   _Kết quả điện di Hb ở người trưởng thành._
 
 - Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.
-- Chẩn đoán trên thai: sinh thiết gai rau, chọc ối hoặc lấy máu cuống rốn nếu có nguy cơ cao.
+- Chẩn đoán trên thai: Sinh thiết gai rau, chọc ối hoặc lấy máu cuống rốn nếu có nguy cơ cao.
 
 ## Thai phụ mắc β-thalassemia
 
-- Đa chuyên khoa: sản khoa, huyết học, gây mê, nữ hộ sinh.
+- Đa chuyên khoa: Sản khoa, huyết học, gây mê, nữ hộ sinh.
 - Duy trì Hb 10 g/dL bằng truyền máu định kỳ; kiểm soát ferritin < 1000 ng/mL.
 - Siêu âm tim, gan, tuyến giáp mỗi tam cá nguyệt.
-- Sàng lọc tiểu đường: lần đầu 16 tuần, lặp lại 24–28 tuần.
+- Sàng lọc tiểu đường: Lần đầu 16 tuần, lặp lại 24–28 tuần.
 - Siêu âm đánh giá tăng trưởng thai: 24–26 tuần rồi mỗi 4 tuần.
 - Acid folic 5 mg/ngày để phòng thiếu máu hồng cầu to.
 - Tránh uống thêm sắt; nếu cần thải sắt sử dụng DFO (cân nhắc nguy cơ teratogen).

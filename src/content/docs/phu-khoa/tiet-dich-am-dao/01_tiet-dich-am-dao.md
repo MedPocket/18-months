@@ -73,27 +73,27 @@ Tiết dịch âm đạo bất thường (abnormal vaginal discharge – AVD) l�
 
 1. **Màu sắc**
 
-   - **Trắng đục, vón cục**: gợi ý nhiễm Candida.
-   - **Xám hoặc vàng xám, bọt**: gợi ý viêm âm đạo do Gardnerella (vaginosis).
-   - **Vàng xanh, bọt, mùi tanh**: gợi ý Trichomonas vaginalis.
-   - **Máu lẫn hoặc nâu**: gợi ý nguyên nhân tại tử cung/cổ tử cung (polyp, u xơ, viêm, ung thư).
+   - **Trắng đục, vón cục**: Gợi ý nhiễm Candida.
+   - **Xám hoặc vàng xám, bọt**: Gợi ý viêm âm đạo do Gardnerella (vaginosis).
+   - **Vàng xanh, bọt, mùi tanh**: Gợi ý Trichomonas vaginalis.
+   - **Máu lẫn hoặc nâu**: Gợi ý nguyên nhân tại tử cung/cổ tử cung (polyp, u xơ, viêm, ung thư).
 
 2. **Mùi**
 
-   - **Hôi tanh**: thường do bacterial vaginosis.
-   - **Chua hoặc hơi ngọt**: có thể do biến đổi pH sau rụng trứng, đôi khi kèm viêm nhẹ.
-   - **Tanh hôi nặng, mủ vàng xanh**: gợi ý nhiễm trùng nặng (viêm cổ tử cung, viêm vùng chậu).
+   - **Hôi tanh**: Thường do bacterial vaginosis.
+   - **Chua hoặc hơi ngọt**: Có thể do biến đổi pH sau rụng trứng, đôi khi kèm viêm nhẹ.
+   - **Tanh hôi nặng, mủ vàng xanh**: Gợi ý nhiễm trùng nặng (viêm cổ tử cung, viêm vùng chậu).
 
 3. **Đặc tính**
 
-   - **Dính, loãng, bọt khí**: phân biệt theo tác nhân (ví dụ bọt khí thường gặp Trichomonas).
-   - **Vón cục, giống phô mai**: thường gặp Candida.
-   - **Nước, không mùi, ít**: có thể là sinh lý (rụng trứng) hoặc do kích thích nhẹ.
+   - **Dính, loãng, bọt khí**: Phân biệt theo tác nhân (ví dụ bọt khí thường gặp Trichomonas).
+   - **Vón cục, giống phô mai**: Thường gặp Candida.
+   - **Nước, không mùi, ít**: Có thể là sinh lý (rụng trứng) hoặc do kích thích nhẹ.
 
 4. **Số lượng**
 
-   - **Tăng đáng kể**: dịch tiết nhiều, ướt đẫm quần lót, làm khó chịu.
-   - **Giảm hoặc khô**: có thể do giảm estrogen (tiền mãn kinh, mãn kinh).
+   - **Tăng đáng kể**: Dịch tiết nhiều, ướt đẫm quần lót, làm khó chịu.
+   - **Giảm hoặc khô**: Có thể do giảm estrogen (tiền mãn kinh, mãn kinh).
 
 5. **Triệu chứng đi kèm**
 
@@ -110,16 +110,16 @@ _Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện 
 
 1. **Đánh giá ban đầu**
 
-   - Hỏi tiền sử: thời điểm khởi phát, tính chất dịch, mùi, triệu chứng kèm.
+   - Hỏi tiền sử: Thời điểm khởi phát, tính chất dịch, mùi, triệu chứng kèm.
    - Khám ngoại vi: đáy chậu, âm hộ, âm đạo, cổ tử cung.
-   - Xem xét các yếu tố thuận lợi: kháng sinh gần đây, đường tình dục, thói quen thụt rửa.
+   - Xem xét các yếu tố thuận lợi: Kháng sinh gần đây, đường tình dục, thói quen thụt rửa.
 
 2. **Xét nghiệm cơ bản**
 
    - **Soi tươi dịch âm đạo**:
 
-     - KOH 10%: phát hiện sợi nấm, bào tử (Candida).
-     - Nước muối 0.9%: tìm tế bào clue (Gardnerella), trùng roi (Trichomonas).
+     - KOH 10%: Phát hiện sợi nấm, bào tử (Candida).
+     - Nước muối 0.9%: Tìm tế bào clue (Gardnerella), trùng roi (Trichomonas).
 
    - **Nhuộm Gram**:
 
@@ -128,9 +128,9 @@ _Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện 
 
 3. **Khảo sát thêm (nếu lâm sàng chưa rõ)**
 
-   - **Cấy nấm/vi khuẩn**: khi nghi nhiễm Candida kháng thuốc hoặc nhiễm khuẩn hỗn hợp.
+   - **Cấy nấm/vi khuẩn**: Khi nghi nhiễm Candida kháng thuốc hoặc nhiễm khuẩn hỗn hợp.
    - **PCR hoặc test nhanh kháng nguyên**: Trichomonas vaginalis, Chlamydia trachomatis, Neisseria gonorrhoeae.
-   - **Xét nghiệm HIV, giang mai**: nếu có nguy cơ tình dục cao.
+   - **Xét nghiệm HIV, giang mai**: Nếu có nguy cơ tình dục cao.
 
 4. **Chẩn đoán phân biệt**
 
@@ -148,22 +148,22 @@ _Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện 
 
 - **Clomaz Forte (Clotrimazole 500 mg)**
 
-  - Điều trị: nhiễm nấm Candida, viêm âm đạo do nấm, hỗn hợp Trichomonas và Gardnerella, các vi khuẩn Gram (+).
+  - Điều trị: Nhiễm nấm Candida, viêm âm đạo do nấm, hỗn hợp Trichomonas và Gardnerella, các vi khuẩn Gram (+).
   - Liều: đặt 1 viên duy nhất vào âm đạo trước khi ngủ.
 
 - **Neo Penotran (Metronidazole 500 mg + Miconazole nitrate 100 mg)**
 
-  - Điều trị: viêm âm đạo do vi khuẩn kỵ khí, Gardnerella vaginalis, Trichomonas vaginalis và nhiễm hỗn hợp kèm Candida.
+  - Điều trị: Viêm âm đạo do vi khuẩn kỵ khí, Gardnerella vaginalis, Trichomonas vaginalis và nhiễm hỗn hợp kèm Candida.
   - Liều: đặt 1 viên vào âm đạo trước khi ngủ mỗi đêm × 7 ngày.
 
 - **Sadetabs (Neomycin sulphate 83 mg + Clotrimazole 100 mg + Metronidazole 500 mg)**
 
-  - Điều trị: viêm âm đạo do tạp khuẩn và nấm Candida nhẹ.
+  - Điều trị: Viêm âm đạo do tạp khuẩn và nấm Candida nhẹ.
   - Liều: đặt 1 viên vào âm đạo mỗi đêm × 7 ngày.
 
 - **Timbov (Clotrimazole 500 mg)**
 
-  - Điều trị: nhiễm nấm âm hộ âm đạo, đặc biệt Candida, hoặc viêm hỗn hợp kèm vi khuẩn, Trichomonas.
+  - Điều trị: Nhiễm nấm âm hộ âm đạo, đặc biệt Candida, hoặc viêm hỗn hợp kèm vi khuẩn, Trichomonas.
   - Liều: đặt 1 viên vào âm đạo trước khi ngủ × 7–14 ngày tùy mức độ.
 
 ## Nguồn tham khảo

@@ -33,7 +33,7 @@ Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV typ
 
    ![Herpes sinh dục](./_images/herpes/herpes.jpg)
 
-   _Herpes sinh dục: mụn nước, vết loét ở vùng môi bé và âm đạo._
+   _Herpes sinh dục: Mụn nước, vết loét ở vùng môi bé và âm đạo._
 
 3. **Hạch bẹn**
 
@@ -78,7 +78,7 @@ Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV typ
 
 ## Điều trị
 
-Điều trị Herpes sinh dục bao gồm: dùng thuốc kháng virus toàn thân làm giảm triệu chứng, rút ngắn thời gian lành thương, giảm khả năng lây lan; kết hợp điều trị hỗ trợ tại chỗ, giảm đau và phòng bội nhiễm.
+Điều trị Herpes sinh dục bao gồm: Dùng thuốc kháng virus toàn thân làm giảm triệu chứng, rút ngắn thời gian lành thương, giảm khả năng lây lan; kết hợp điều trị hỗ trợ tại chỗ, giảm đau và phòng bội nhiễm.
 
 ### Giai đoạn cấp
 

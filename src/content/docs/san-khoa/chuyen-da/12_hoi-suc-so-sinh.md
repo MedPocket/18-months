@@ -11,12 +11,12 @@ Mục tiêu chính của hồi sức sơ sinh là giúp trẻ thiết lập **tu
 
 _Tuần hoàn bào thai (trái) với shunt qua lỗ Botal & ống động mạch – Phổi không trao đổi khí. Tuần hoàn sơ sinh (phải) – Phổi mở, shunt đóng._
 
-- **Bào thai**: trao đổi khí qua rau, phổi không vận hành, trở kháng mạch phổi cao → máu qua shunt tim-phổi.
-- **Sơ sinh**: hít vào đầu tiên → phổi nở, giảm kháng trở mạch phổi. Cắt rốn → tăng kháng trở ngoại vi → dòng máu qua phổi để trao đổi khí.
+- **Bào thai**: Trao đổi khí qua rau, phổi không vận hành, trở kháng mạch phổi cao → máu qua shunt tim-phổi.
+- **Sơ sinh**: Hít vào đầu tiên → phổi nở, giảm kháng trở mạch phổi. Cắt rốn → tăng kháng trở ngoại vi → dòng máu qua phổi để trao đổi khí.
 
 ## Đánh giá ban đầu (APGAR)
 
-Thực hiện tại **1, 5** và khi cần **10 phút** sau sinh theo 5 tiêu chí: nhịp tim, hô hấp, trương lực cơ, phản xạ (co kéo khi kích thích), màu da.
+Thực hiện tại **1, 5** và khi cần **10 phút** sau sinh theo 5 tiêu chí: Nhịp tim, hô hấp, trương lực cơ, phản xạ (co kéo khi kích thích), màu da.
 
 | Dấu hiệu đánh giá | 0 điểm            | 1 điểm                  | 2 điểm                    |
 | ----------------- | ----------------- | ----------------------- | ------------------------- |
@@ -28,9 +28,9 @@ Thực hiện tại **1, 5** và khi cần **10 phút** sau sinh theo 5 tiêu ch
 
 _Bảng điểm APGAR._
 
-- **0–3**: ngạt nặng, cần hồi sức cấp cứu.
-- **4–7**: ngạt nhẹ–vừa, hỗ trợ hô hấp.
-- **8–10**: tốt, chỉ theo dõi.
+- **0–3**: Ngạt nặng, cần hồi sức cấp cứu.
+- **4–7**: Ngạt nhẹ–vừa, hỗ trợ hô hấp.
+- **8–10**: Tốt, chỉ theo dõi.
 
 ## Chỉ định
 
@@ -61,9 +61,9 @@ _Lưu đồ hồi sức sơ sinh._
 
 3. **Đánh giá nhịp tim** sau 30 giây PPV:
 
-   - Nhịp tim ≥ 100: tiếp tục theo dõi, ngừng PPV.
-   - Nhịp tim 60–99: tiếp tục PPV.
-   - Nhịp tim < 60: bắt đầu **ấn ngực**, 3:1 (PPV:ấn chèn), 120 lần/phút, đồng thời xem xét **adrenaline**.
+   - Nhịp tim ≥ 100: Tiếp tục theo dõi, ngừng PPV.
+   - Nhịp tim 60–99: Tiếp tục PPV.
+   - Nhịp tim < 60: Bắt đầu **ấn ngực**, 3:1 (PPV:ấn chèn), 120 lần/phút, đồng thời xem xét **adrenaline**.
    - Hầu hết trẻ phục hồi nhịp tim nhanh sau thông khí hiệu quả.
    - Nếu vẫn < 60 sau 30 giây ấn ngực: đặt nội khí quản, cho thuốc.
 
@@ -78,8 +78,8 @@ _Lưu đồ hồi sức sơ sinh._
 
 _3 mức độ chăm sóc sau hồi sức._
 
-- **Chăm sóc hồi sức**: trẻ cần PPV/ấn ngực/thuốc.
-- **Chăm sóc cấp cứu**: theo dõi sát 24–48 giờ, kiểm soát đường huyết, thân nhiệt, điện giải.
+- **Chăm sóc hồi sức**: Trẻ cần PPV/ấn ngực/thuốc.
+- **Chăm sóc cấp cứu**: Theo dõi sát 24–48 giờ, kiểm soát đường huyết, thân nhiệt, điện giải.
 - **Chăm sóc thường quy**: ổn định hô hấp, dinh dưỡng, cho bú sớm.
 
 **Cảnh báo**:

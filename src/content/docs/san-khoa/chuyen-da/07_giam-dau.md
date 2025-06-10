@@ -19,12 +19,12 @@ description: Sử dụng giảm đau trong chuyển dạ.
 
 _Các yếu tố ảnh hưởng đến đau trong chuyển dạ._
 
-- **Tăng endorphin trong thai kỳ**: mang thai làm tăng ngưỡng chịu đau, một phần do nồng độ endorphin huyết tương tăng cao. Tác dụng này bị đảo ngược khi sử dụng thuốc đối kháng opioid như naltrexone. Nồng độ chất P giảm và tác động điều hòa của progesterone lên chất dẫn truyền thần kinh cũng góp phần vào thay đổi cảm nhận đau. Lâm sàng ghi nhận phụ nữ mang thai cần lượng thuốc tê ít hơn khoảng 30% để đạt hiệu quả khi gây tê ngoài màng cứng.
-- **Tăng nhạy cảm với thuốc tê và thuốc mê**: thai kỳ làm tăng độ nhạy cảm với gây mê và gây tê vùng, có thể do tác dụng của progesterone lên tính thấm của màng tế bào hoặc gián tiếp qua chất dẫn truyền thần kinh.
-- **Số lần mang thai**: phụ nữ sinh con lần đầu thường cảm nhận đau dữ dội hơn và có xu hướng sử dụng nhiều thuốc giảm đau hơn so với sản phụ đa thai. Ở con so, cảm giác đau liên quan đến tần suất co và độ mở cổ tử cung, trong khi ở con rạ, chủ yếu do độ giãn nở cổ tử cung.
-- **Lo âu**: lo âu ảnh hưởng đến cảm nhận đau theo nhiều cách. Mức độ lo âu cao làm tăng phóng thích epinephrine, có thể làm tăng nhạy cảm của các thụ thể đau. Tuy nhiên, lo âu cũng có thể kích thích sản xuất endorphin nội sinh. Hướng chú ý vào nỗi lo khác ngoài đau có thể làm giảm cảm giác đau; ngược lại, tập trung vào đau có thể làm nó trầm trọng hơn.
-- **Tuổi**: phụ nữ lớn tuổi thường chịu đau tốt hơn trong chuyển dạ so với những sản phụ trẻ tuổi.
-- **Yếu tố khác**: tiền sử đau nhiều khi hành kinh, đau lưng mạn tính có thể ảnh hưởng đến cảm nhận đau trong chuyển dạ. Tư thế thai và sử dụng oxytocin vẫn còn gây tranh cãi về vai trò đối với cảm giác đau. Sự khác biệt về văn hóa, tôn giáo, cá tính và kinh nghiệm sinh đẻ cũng ảnh hưởng rõ rệt đến cảm nhận đau.
+- **Tăng endorphin trong thai kỳ**: Mang thai làm tăng ngưỡng chịu đau, một phần do nồng độ endorphin huyết tương tăng cao. Tác dụng này bị đảo ngược khi sử dụng thuốc đối kháng opioid như naltrexone. Nồng độ chất P giảm và tác động điều hòa của progesterone lên chất dẫn truyền thần kinh cũng góp phần vào thay đổi cảm nhận đau. Lâm sàng ghi nhận phụ nữ mang thai cần lượng thuốc tê ít hơn khoảng 30% để đạt hiệu quả khi gây tê ngoài màng cứng.
+- **Tăng nhạy cảm với thuốc tê và thuốc mê**: Thai kỳ làm tăng độ nhạy cảm với gây mê và gây tê vùng, có thể do tác dụng của progesterone lên tính thấm của màng tế bào hoặc gián tiếp qua chất dẫn truyền thần kinh.
+- **Số lần mang thai**: Phụ nữ sinh con lần đầu thường cảm nhận đau dữ dội hơn và có xu hướng sử dụng nhiều thuốc giảm đau hơn so với sản phụ đa thai. Ở con so, cảm giác đau liên quan đến tần suất co và độ mở cổ tử cung, trong khi ở con rạ, chủ yếu do độ giãn nở cổ tử cung.
+- **Lo âu**: Lo âu ảnh hưởng đến cảm nhận đau theo nhiều cách. Mức độ lo âu cao làm tăng phóng thích epinephrine, có thể làm tăng nhạy cảm của các thụ thể đau. Tuy nhiên, lo âu cũng có thể kích thích sản xuất endorphin nội sinh. Hướng chú ý vào nỗi lo khác ngoài đau có thể làm giảm cảm giác đau; ngược lại, tập trung vào đau có thể làm nó trầm trọng hơn.
+- **Tuổi**: Phụ nữ lớn tuổi thường chịu đau tốt hơn trong chuyển dạ so với những sản phụ trẻ tuổi.
+- **Yếu tố khác**: Tiền sử đau nhiều khi hành kinh, đau lưng mạn tính có thể ảnh hưởng đến cảm nhận đau trong chuyển dạ. Tư thế thai và sử dụng oxytocin vẫn còn gây tranh cãi về vai trò đối với cảm giác đau. Sự khác biệt về văn hóa, tôn giáo, cá tính và kinh nghiệm sinh đẻ cũng ảnh hưởng rõ rệt đến cảm nhận đau.
 
 ## Giảm đau trong chuyển dạ
 
@@ -59,22 +59,22 @@ Hai chống chỉ định tuyệt đối của tê ngoài màng cứng:
 
 Một số chống chỉ định tương đối:
 
-- **Đau lưng, thoát vị đĩa đệm**: không phải chống chỉ định tuyệt đối.
-- **Bệnh lý thần kinh**: vẫn có thể thực hiện nếu đánh giá kỹ càng.
-- **Giảm thể tích tuần hoàn**: thận trọng khi chưa bù đủ dịch.
-- **Rối loạn đông máu**: cần đánh giá kỹ vì nguy cơ xuất huyết trong khoang ngoài màng cứng.
+- **Đau lưng, thoát vị đĩa đệm**: Không phải chống chỉ định tuyệt đối.
+- **Bệnh lý thần kinh**: Vẫn có thể thực hiện nếu đánh giá kỹ càng.
+- **Giảm thể tích tuần hoàn**: Thận trọng khi chưa bù đủ dịch.
+- **Rối loạn đông máu**: Cần đánh giá kỹ vì nguy cơ xuất huyết trong khoang ngoài màng cứng.
 
 ### Ảnh hưởng
 
-- **Giai đoạn I**: không ảnh hưởng đến cơn co tử cung nhưng có thể làm chậm mở cổ tử cung.
-- **Giai đoạn II**: có thể làm giảm oxytocin nội sinh, yếu sức rặn, giảm khả năng xoay đầu thai — tăng nguy cơ can thiệp thủ thuật.
+- **Giai đoạn I**: Không ảnh hưởng đến cơn co tử cung nhưng có thể làm chậm mở cổ tử cung.
+- **Giai đoạn II**: Có thể làm giảm oxytocin nội sinh, yếu sức rặn, giảm khả năng xoay đầu thai — tăng nguy cơ can thiệp thủ thuật.
 
 ### Biến chứng
 
-- **Hạ huyết áp**: thường gặp, nhưng có thể phòng ngừa bằng truyền dịch và theo dõi sát.
-- **Ảnh hưởng tim thai**: thường thoáng qua, nhưng cần theo dõi liên tục.
-- **Chọc thủng màng cứng, đặt nhầm vị trí catheter**: hiếm gặp.
-- **Đau lưng, nhức đầu sau gây tê**: thường thoáng qua.
+- **Hạ huyết áp**: Thường gặp, nhưng có thể phòng ngừa bằng truyền dịch và theo dõi sát.
+- **Ảnh hưởng tim thai**: Thường thoáng qua, nhưng cần theo dõi liên tục.
+- **Chọc thủng màng cứng, đặt nhầm vị trí catheter**: Hiếm gặp.
+- **Đau lưng, nhức đầu sau gây tê**: Thường thoáng qua.
 
 ### Ứng dụng
 

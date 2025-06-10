@@ -13,14 +13,14 @@ SGA (Small-for-Gestational Age) và IUGR (Fetal Growth Restriction/Intra-Uterine
 
 ## Yếu tố nguy cơ
 
-- Yếu tố mẹ: dinh dưỡng kém, thiếu máu nặng, nghiện thuốc lá, béo phì hoặc suy dinh dưỡng trước khi mang thai.
-- Bệnh lý mẹ: tiền sản giật, hội chứng kháng phospholipid, lupus hệ thống, đái tháo đường, tăng huyết áp mạn tính, bệnh thận.
-- Yếu tố rau thai: suy chức năng nhau, bất thường mạch máu rau, nhau tiền đạo hoặc nhau bong non.
-- Yếu tố bào thai: bất thường nhiễm sắc thể, hội chứng truyền máu song thai, nhiễm trùng CMV, Rubella.
+- Yếu tố mẹ: Dinh dưỡng kém, thiếu máu nặng, nghiện thuốc lá, béo phì hoặc suy dinh dưỡng trước khi mang thai.
+- Bệnh lý mẹ: Tiền sản giật, hội chứng kháng phospholipid, lupus hệ thống, đái tháo đường, tăng huyết áp mạn tính, bệnh thận.
+- Yếu tố rau thai: Suy chức năng nhau, bất thường mạch máu rau, nhau tiền đạo hoặc nhau bong non.
+- Yếu tố bào thai: Bất thường nhiễm sắc thể, hội chứng truyền máu song thai, nhiễm trùng CMV, Rubella.
 
 ## Chẩn đoán
 
-- **SGA**: trọng lượng thai ước tính (EFW) hoặc chu vi bụng (AC) < bách phân vị thứ 10 cho tuổi thai.
+- **SGA**: Trọng lượng thai ước tính (EFW) hoặc chu vi bụng (AC) < bách phân vị thứ 10 cho tuổi thai.
 - **Severe SGA**: EFW hoặc AC < bách phân vị thứ 3.
 - **IUGR**: SGA kèm bằng chứng tăng trưởng chậm (bất thường Doppler động học hoặc sinh đồ sinh vật lý).
 
@@ -70,13 +70,13 @@ _Bảng chiều dài & cân nặng thai nhi theo tuần (WHO tham khảo)._
 
 ## Biến chứng chu sinh và sơ sinh
 
-- **Hạ đường huyết**: do dự trữ glycogen thấp; cần sữa công thức bổ sung ngay.
-- **Hạ thân nhiệt**: thiếu mỡ dưới da, cần giữ ấm tích cực.
-- **Rối loạn hô hấp**: ngưng thở, suy hô hấp, cần theo dõi tích cực.
+- **Hạ đường huyết**: Do dự trữ glycogen thấp; cần sữa công thức bổ sung ngay.
+- **Hạ thân nhiệt**: Thiếu mỡ dưới da, cần giữ ấm tích cực.
+- **Rối loạn hô hấp**: Ngưng thở, suy hô hấp, cần theo dõi tích cực.
 - **Đa hồng cầu**: đáp ứng thiếu oxy mạn tính; nguy cơ tăng độ nhớt máu.
-- **Vàng da nặng**: do tăng huyết tán và chức năng gan chưa hoàn chỉnh.
-- **Nhiễm trùng**: hệ miễn dịch kém phát triển; cần kháng sinh theo dõi.
-- **Di chứng thần kinh dài hạn**: chậm phát triển vận động và nhận thức.
+- **Vàng da nặng**: Do tăng huyết tán và chức năng gan chưa hoàn chỉnh.
+- **Nhiễm trùng**: Hệ miễn dịch kém phát triển; cần kháng sinh theo dõi.
+- **Di chứng thần kinh dài hạn**: Chậm phát triển vận động và nhận thức.
 
 ## Quản lý
 
@@ -107,7 +107,7 @@ _Bảng chiều dài & cân nặng thai nhi theo tuần (WHO tham khảo)._
 ## IUGR trong song thai
 
 - SGA trong song thai không đồng nghĩa IUGR; nhiều trường hợp chỉ là thai nhỏ theo constitution.
-- **IUGR thực sự**: hội chứng truyền máu (TTTS) hoặc bất thường tử cung–rau không đủ cho hai thai.
+- **IUGR thực sự**: Hội chứng truyền máu (TTTS) hoặc bất thường tử cung–rau không đủ cho hai thai.
 - Đánh giá riêng biệt từng thai bằng Doppler mạch rốn, NST và sinh đồ sinh vật lý.
 
 ## Nguồn tham khảo

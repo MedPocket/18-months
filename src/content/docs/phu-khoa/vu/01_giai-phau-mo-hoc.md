@@ -3,7 +3,7 @@ title: Giải phẫu và mô học tuyến vú
 description: Mô tả chi tiết cấu trúc giải phẫu và đặc điểm mô học của tuyến vú, bao gồm thành phần mô, mạch máu, hệ bạch huyết, và các đơn vị chức năng chịu tác động của hormone.
 ---
 
-Tuyến vú (mammary gland) là một cơ quan da phụ có chức năng sinh sản quan trọng, chịu trách nhiệm sản xuất và bài xuất sữa. Vú được cấu tạo chính bởi hai thành phần: mô tuyến (epithelial tissue) và mô mỡ – liên kết (adipose-connective tissue). Tỷ lệ giữa hai thành phần này thay đổi tùy theo lứa tuổi, giai đoạn nội tiết (kinh nguyệt, thai kỳ) và trạng thái cho con bú.
+Tuyến vú (mammary gland) là một cơ quan da phụ có chức năng sinh sản quan trọng, chịu trách nhiệm sản xuất và bài xuất sữa. Vú được cấu tạo chính bởi hai thành phần: Mô tuyến (epithelial tissue) và mô mỡ – liên kết (adipose-connective tissue). Tỷ lệ giữa hai thành phần này thay đổi tùy theo lứa tuổi, giai đoạn nội tiết (kinh nguyệt, thai kỳ) và trạng thái cho con bú.
 
 ## Giải phẫu
 
@@ -30,8 +30,8 @@ _Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan 
   - Động mạch gian sườn bên (lateral intercostal arteries) và động mạch gian sườn trước (anterior intercostal arteries) hỗ trợ nhánh phụ.
 - **Tĩnh mạch**: Thông qua hệ tĩnh mạch tương tự, đổ về tĩnh mạch nách, tĩnh mạch dưới đòn và tĩnh mạch ngực trong.
 - **Hệ bạch huyết** vú chia làm hai đường chính:
-  - **Đường nách (Axillary pathway)**: khoảng 75% bạch cầu vú đổ về hạch nách (axillary lymph nodes), bao gồm nhóm hạch cửa sổ (pectoral/central) và hạch vùng giữa (mid-axillary), hạch dưới đòn. Đây là con đường chính khi khảo sát di căn hạch trong ung thư vú.
-  - **Đường cạnh ức – hạ đòn (Parasternal & Supraclavicular pathway)**: khoảng 20% bạch huyết chảy qua hạch cạnh ức (parasternal/internal mammary nodes) rồi lên hạch thượng đòn (supraclavicular nodes).
+  - **Đường nách (Axillary pathway)**: Khoảng 75% bạch cầu vú đổ về hạch nách (axillary lymph nodes), bao gồm nhóm hạch cửa sổ (pectoral/central) và hạch vùng giữa (mid-axillary), hạch dưới đòn. Đây là con đường chính khi khảo sát di căn hạch trong ung thư vú.
+  - **Đường cạnh ức – hạ đòn (Parasternal & Supraclavicular pathway)**: Khoảng 20% bạch huyết chảy qua hạch cạnh ức (parasternal/internal mammary nodes) rồi lên hạch thượng đòn (supraclavicular nodes).
 - Việc đánh giá hạch nách và hạch thượng đòn rất quan trọng trong tầm soát và định giai đoạn ung thư vú, cũng như hướng dẫn bệnh nhân tự khám vú.
 
 ### Mô liên kết

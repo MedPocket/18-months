@@ -36,11 +36,11 @@ Theo ACOG Task Force 2013, chẩn đoán tiền sản giật khi:
   3. Men gan tăng > 2 lần bình thường, đau hạ sườn phải/thượng vị không đáp ứng thuốc.
   4. Creatinine > 1.1 mg/dL hoặc tăng gấp đôi không do bệnh lý thận khác.
   5. Phù phổi.
-  6. Triệu chứng thần kinh, thị giác: nhức đầu, mờ mắt, ám điểm, co thắt mạch máu võng mạc, thay đổi tri giác.
+  6. Triệu chứng thần kinh, thị giác: Nhức đầu, mờ mắt, ám điểm, co thắt mạch máu võng mạc, thay đổi tri giác.
 
 ## Tiên lượng
 
-- **Trước 34 tuần**: tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật...
+- **Trước 34 tuần**: Tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật...
 
 ## Biến chứng
 
@@ -131,7 +131,7 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
   - Mg²⁺ cạnh tranh với Ca²⁺ tại bản đệm thần kinh–cơ, ngăn co giật.
   - Giãn mạch não, giảm thiếu máu cục bộ trong cơn sản giật.
 
-- **Chỉ định**: dự phòng/chống co giật trong tiền sản giật, hội chứng HELLP, sản giật.
+- **Chỉ định**: Dự phòng/chống co giật trong tiền sản giật, hội chứng HELLP, sản giật.
 - **Liều dùng**:
 
   - **Tấn công**: 4–6 g MgSO₄ 15% (50 mL) TM chậm (15–20 phút).
@@ -147,9 +147,9 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
     | ------------------------------- | ------------------------------------------------------------------ |
     | **1.5 - 3**                     | Nồng độ sinh lý bình thường                                        |
     | **4 - 6**                       | Ngưỡng điều trị (phòng ngừa/điều trị sản giật)                     |
-    | **5 - 10**                      | Thay đổi trên điện tâm đồ (ECG): kéo dài khoảng PR, QT, dẹt sóng T |
+    | **5 - 10**                      | Thay đổi trên điện tâm đồ (ECG): Kéo dài khoảng PR, QT, dẹt sóng T |
     | **8 - 12**                      | Mất phản xạ gân xương (phản xạ xương bánh chè)                     |
-    | **10 - 12**                     | Rối loạn ý thức: lơ mơ, nói lảm nhảm                               |
+    | **10 - 12**                     | Rối loạn ý thức: Lơ mơ, nói lảm nhảm                               |
     | **15 - 17**                     | Liệt cơ hô hấp, suy hô hấp                                         |
     | **≥ 30**                        | Ngừng tim, tử vong                                                 |
 
@@ -199,14 +199,14 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 
 - **An toàn nhất** trong thai kỳ.
 - **Liều dùng**: 250 mg x 1–3 lần/ngày; tối đa 2 g/ngày.
-- **Tác dụng phụ**: trầm cảm, buồn ngủ, chóng mặt, rối loạn gan.
-- **Chống chỉ định**: viêm/xơ gan, thiếu máu tán huyết, trầm cảm nặng.
+- **Tác dụng phụ**: Trầm cảm, buồn ngủ, chóng mặt, rối loạn gan.
+- **Chống chỉ định**: Viêm/xơ gan, thiếu máu tán huyết, trầm cảm nặng.
 
 #### Hydralazine
 
 - **Cơ chế**: Giãn tiểu động mạch ngoại vi nhanh, hạ áp sau 10–30 phút, tác dụng kéo dài 2–4 giờ.
 - **Liều dùng**: 5 mg (1–2 phút) TM chậm; nếu cần, 5–10 mg sau 15–20 phút; tối đa 25 mg.
-- **Tác dụng phụ**: nhịp nhanh, đánh trống ngực, đau đầu, hạ áp đột ngột → suy thai.
+- **Tác dụng phụ**: Nhịp nhanh, đánh trống ngực, đau đầu, hạ áp đột ngột → suy thai.
 - **Chống chỉ định:** mẫn cảm, bệnh động mạch vành nặng, van 2 lá, lupus hoạt động.
 
 #### Labetalol
@@ -218,7 +218,7 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
   - **Duy trì uống**: 200 mg x 3 lần/ngày (tối đa 800 mg/8 h), điều chỉnh 200–400 mg/ngày.
 
 - **Tác dụng phụ**: Ít nhịp nhanh phản xạ.
-- **Chống chỉ định**: suy tim, hen, block tim.
+- **Chống chỉ định**: Suy tim, hen, block tim.
 
 #### Nifedipine
 
@@ -238,14 +238,14 @@ _Phân loại thuốc chống tăng huyết áp trong thai kỳ._
 - **Liều dùng**:
 
   - Uống 20 mg x 3 lần/ngày.
-  - **TM**: bolus 0.5–1 mg, duy trì 1–3 mg/h (pha 10 mL nicardipine vào 40 mL Glucose 5%, truyền 5–15 mL/h).
+  - **TM**: Bolus 0.5–1 mg, duy trì 1–3 mg/h (pha 10 mL nicardipine vào 40 mL Glucose 5%, truyền 5–15 mL/h).
 
 - **Tác dụng phụ**: đau đầu, chóng mặt, buồn nôn.
 - **Chống chỉ định**: đau thắt ngực không ổn định, sốc tim, hẹp van ĐMC nặng; thận trọng 3 tháng đầu.
 
 #### Lợi tiểu
 
-- **Furosemide**: chỉ dùng khi thiểu/vô niệu, phù phổi cấp; liều 20 mg TM chậm.
+- **Furosemide**: Chỉ dùng khi thiểu/vô niệu, phù phổi cấp; liều 20 mg TM chậm.
 - **Không dùng lợi tiểu** thông thường do giảm tưới máu tử cung.
 - **Dùng khi thiểu niệu** (< 800 mL/24 h, đặc biệt < 400 mL). Liều 20 mg TM chậm, có thể lặp lại theo đáp ứng.
 

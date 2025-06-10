@@ -7,16 +7,16 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 
 ## Thực hiện sau sinh
 
-- **Cho bú sớm**: bắt đầu trong vòng 1 giờ đầu sau sinh để ổn định đường huyết sơ sinh và kích thích tiết oxytocin, hỗ trợ co hồi tử cung mẹ.
+- **Cho bú sớm**: Bắt đầu trong vòng 1 giờ đầu sau sinh để ổn định đường huyết sơ sinh và kích thích tiết oxytocin, hỗ trợ co hồi tử cung mẹ.
 - **Da kề da**: ít nhất 1 ngày đầu để duy trì nhiệt độ, ổn định hô hấp và glucose cho bé, đồng thời giảm stress cho mẹ.
-- **Cho bú sữa non**: mỗi 2–3 giờ một lần, đảm bảo bé có năng lượng và kháng thể; khuyến khích bú mẹ hoàn toàn ít nhất 6 tháng đầu.
-- **Biện pháp tránh thai**: trì hoãn thai kỳ tiếp theo ≥ 6–12 tháng, ưu tiên phương pháp an toàn (bao cao su, dụng cụ tử cung, viên thuốc kết hợp hàm lượng thấp).
+- **Cho bú sữa non**: Mỗi 2–3 giờ một lần, đảm bảo bé có năng lượng và kháng thể; khuyến khích bú mẹ hoàn toàn ít nhất 6 tháng đầu.
+- **Biện pháp tránh thai**: Trì hoãn thai kỳ tiếp theo ≥ 6–12 tháng, ưu tiên phương pháp an toàn (bao cao su, dụng cụ tử cung, viên thuốc kết hợp hàm lượng thấp).
 
 ## Theo dõi trẻ sơ sinh
 
-- **Hạ đường huyết sơ sinh**: thường xảy ra trong 2–24 giờ đầu.
+- **Hạ đường huyết sơ sinh**: Thường xảy ra trong 2–24 giờ đầu.
 
-  - Mục tiêu: duy trì glucose ≥ 45 mg/dL (2.5 mmol/L).
+  - Mục tiêu: Duy trì glucose ≥ 45 mg/dL (2.5 mmol/L).
   - Xét nghiệm glucose mao mạch ngay trong 2 giờ đầu, sau đó 6 giờ và 12 giờ nếu vẫn có yếu tố nguy cơ.
 
 - **Thân nhiệt, tim mạch, hô hấp**: đo mỗi 4–6 giờ trong 24 giờ đầu.
@@ -29,18 +29,18 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 
 ### Với ĐTĐ thai kỳ (không ĐTĐ thực sự)
 
-- **Insulin**: thường ngưng ngay sau sinh.
-- **Đường huyết đói**: kiểm tra trong vòng 24 giờ sau sinh; nếu bất thường (≥ 7.0 mmol/L), giảm liều insulin còn 50% nếu vẫn duy trì.
+- **Insulin**: Thường ngưng ngay sau sinh.
+- **Đường huyết đói**: Kiểm tra trong vòng 24 giờ sau sinh; nếu bất thường (≥ 7.0 mmol/L), giảm liều insulin còn 50% nếu vẫn duy trì.
 - **Theo dõi huyết áp, cân nặng, cử động tử cung**: để phát hiện tiền sản giật còn sót, xuất huyết sau sinh.
 
 ### Với ĐTĐ thực sự (tiền sử ĐTĐ type 2 hoặc type 1)
 
-- **Insulin**: tiếp tục điều chỉnh sau sinh—nếu không cần liều cao như khi mang thai, giảm 30–50% so với liều trước đó.
-- **Khám chuyên khoa Nội tiết**: lên lịch tái khám 4–12 tuần sau sinh để đánh giá lại nhu cầu insulin và kiểm soát glucose.
+- **Insulin**: Tiếp tục điều chỉnh sau sinh—nếu không cần liều cao như khi mang thai, giảm 30–50% so với liều trước đó.
+- **Khám chuyên khoa Nội tiết**: Lên lịch tái khám 4–12 tuần sau sinh để đánh giá lại nhu cầu insulin và kiểm soát glucose.
 
 ## Đánh giá rối loạn chuyển hóa đường
 
-- **OGTT 75 g**: thực hiện ở 4–12 tuần sau sinh.
+- **OGTT 75 g**: Thực hiện ở 4–12 tuần sau sinh.
 
   | **Thời điểm**       | Bình thường                | Tiền đái tháo đường             | Đái tháo đường              |
   | ------------------- | -------------------------- | ------------------------------- | --------------------------- |
@@ -49,8 +49,8 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 
 - **Kết quả và xử trí**:
 
-  - **Bình thường**: kiểm tra định kỳ 1–3 năm/lần, tư vấn lối sống lành mạnh.
-  - **Tiền đái tháo đường/ĐTĐ**: chuyển khám Nội tiết, cân nhắc điều trị nội tiết và chương trình thay đổi lối sống tích cực.
+  - **Bình thường**: Kiểm tra định kỳ 1–3 năm/lần, tư vấn lối sống lành mạnh.
+  - **Tiền đái tháo đường/ĐTĐ**: Chuyển khám Nội tiết, cân nhắc điều trị nội tiết và chương trình thay đổi lối sống tích cực.
 
   ![Theo dõi và quản lý ĐTĐ sau sinh](./_images/theo-doi-va-quan-ly-dai-thao-duong-sau-sinh.jpg)
 

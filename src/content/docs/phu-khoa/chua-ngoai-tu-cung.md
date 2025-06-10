@@ -12,12 +12,12 @@ _Các vị trí chửa ngoài tử cung._
 ## Yếu tố nguy cơ
 
 - Viêm nhiễm sinh dục, đặc biệt do **Chlamydia trachomatis** hoặc các bệnh lây qua đường tình dục khác.
-- Tiền sử phẫu thuật ống dẫn trứng: tái tạo, nối lại sau triệt sản hoặc can thiệp khác gây sẹo, hẹp lòng ống.
+- Tiền sử phẫu thuật ống dẫn trứng: Tái tạo, nối lại sau triệt sản hoặc can thiệp khác gây sẹo, hẹp lòng ống.
 - Tiền sử chửa ngoài tử cung.
-- Hỗ trợ sinh sản: kích thích rụng trứng, thụ tinh trong ống nghiệm (IVF), chuyển phôi.
+- Hỗ trợ sinh sản: Kích thích rụng trứng, thụ tinh trong ống nghiệm (IVF), chuyển phôi.
 - Bất thường giải phẫu tử cung hoặc phần phụ như polyp, dính buồng tử cung, túi thừa ống dẫn trứng.
 - Đặt dụng cụ tử cung (IUD), đặc biệt nếu xảy ra có thai trong khi đang đặt vòng.
-- Một số yếu tố khác: hút thuốc lá, tuổi mẹ lớn, tiền sử vô sinh.
+- Một số yếu tố khác: Hút thuốc lá, tuổi mẹ lớn, tiền sử vô sinh.
 - Các biện pháp tránh thai nội tiết (thuốc tránh thai hằng ngày, tránh thai khẩn cấp) hoặc tiền sử sảy thai, phá thai, mổ lấy thai **không làm tăng nguy cơ chửa ngoài tử cung**.
 
 ## Chẩn đoán
@@ -26,7 +26,7 @@ _Các vị trí chửa ngoài tử cung._
 
 **Cơ năng**:
 
-- Tam chứng điển hình: trễ kinh, ra huyết âm đạo bất thường (thường ít, kéo dài), đau bụng vùng hạ vị.
+- Tam chứng điển hình: Trễ kinh, ra huyết âm đạo bất thường (thường ít, kéo dài), đau bụng vùng hạ vị.
 
 **Thực thể**:
 
@@ -48,12 +48,12 @@ _Các vị trí chửa ngoài tử cung._
 - **Siêu âm**:
 
   - Chẩn đoán xác định khi túi thai có yolk sac hoặc phôi nằm ở phần phụ, và tử cung không có túi thai.
-  - β-hCG > 1500 mIU/mL: nên thấy túi thai qua siêu âm ngả âm đạo.
-  - β-hCG > 6500 mIU/mL: siêu âm ngả bụng thường thấy túi thai.
+  - β-hCG > 1500 mIU/mL: Nên thấy túi thai qua siêu âm ngả âm đạo.
+  - β-hCG > 6500 mIU/mL: Siêu âm ngả bụng thường thấy túi thai.
   - **Dấu hiệu vòng nhẫn (vòng lửa – "ring of fire")** trên siêu âm Doppler có giá trị gợi ý.
-  - Cần phân biệt với túi thai giả: không có yolk sac, màng rụng viền mỏng, không có hai vòng đồng tâm.
+  - Cần phân biệt với túi thai giả: Không có yolk sac, màng rụng viền mỏng, không có hai vòng đồng tâm.
 
-- **Nội soi ổ bụng**: là tiêu chuẩn vàng nhưng có thể bỏ sót nếu khối thai còn nhỏ.
+- **Nội soi ổ bụng**: Là tiêu chuẩn vàng nhưng có thể bỏ sót nếu khối thai còn nhỏ.
 
 - **Hút/nạo buồng tử cung**:
 
@@ -65,18 +65,18 @@ _Các vị trí chửa ngoài tử cung._
 
 **Cơ năng**:
 
-- Tam chứng điển hình: trễ kinh, ra huyết âm đạo, đau bụng dữ dội vùng hạ vị (có thể lan vai), dấu hiệu kích thích phúc mạc.
+- Tam chứng điển hình: Trễ kinh, ra huyết âm đạo, đau bụng dữ dội vùng hạ vị (có thể lan vai), dấu hiệu kích thích phúc mạc.
 
 **Thực thể**:
 
-- Sinh hiệu thay đổi: huyết áp tụt, mạch nhanh.
+- Sinh hiệu thay đổi: Huyết áp tụt, mạch nhanh.
 - Bụng co cứng, đau dữ dội.
 - Khám âm đạo thấy tử cung và phần phụ rất đau, khó xác định do phản ứng.
 - Cùng đồ sau đau, có thể phồng.
 
 **Cận lâm sàng**:
 
-- Chọc dò cùng đồ: máu sẫm, không đông (cân nhắc chỉ định do xâm lấn).
+- Chọc dò cùng đồ: Máu sẫm, không đông (cân nhắc chỉ định do xâm lấn).
 
 ### Huyết tụ thành nang
 
@@ -91,22 +91,22 @@ _Các vị trí chửa ngoài tử cung._
 
 ### Trong ổ bụng
 
-- Hiếm gặp: khoảng 1/10000–1/25000 trường hợp.
+- Hiếm gặp: Khoảng 1/10000–1/25000 trường hợp.
 - Thai nằm ngoài tử cung, trong ổ bụng, thường do thai thoát khỏi vòi trứng sau vỡ.
 - Sờ bụng thấy thai sát thành bụng, có thể có ngôi bất thường.
-- Siêu âm: thai nằm xen giữa quai ruột, không nằm trong tử cung.
-- X-quang bụng không chuẩn bị: không thấy bóng tử cung quanh thai, bóng hơi ruột chồng lên thai.
-- MRI/CT: hỗ trợ chẩn đoán rõ vị trí thai.
+- Siêu âm: Thai nằm xen giữa quai ruột, không nằm trong tử cung.
+- X-quang bụng không chuẩn bị: Không thấy bóng tử cung quanh thai, bóng hơi ruột chồng lên thai.
+- MRI/CT: Hỗ trợ chẩn đoán rõ vị trí thai.
 
 ### Tại cổ tử cung
 
-- Rất hiếm: khoảng 1/9000–1/12000.
+- Rất hiếm: Khoảng 1/9000–1/12000.
 - Siêu âm thấy túi thai nằm ở cổ tử cung, lòng tử cung trống.
 - Hình ảnh "đồng hồ cát", mạch máu quanh túi thai phát triển mạnh, không có dấu hiệu trượt.
 
 ### Tại buồng trứng
 
-- Rất hiếm: khoảng 1/7000–1/12000.
+- Rất hiếm: Khoảng 1/7000–1/12000.
 - Lâm sàng tương tự các vị trí khác, siêu âm thấy túi thai nằm trong buồng trứng.
 
 ## Điều trị
@@ -146,7 +146,7 @@ _Các vị trí chửa ngoài tử cung._
 - Có thai trong tử cung đồng thời.
 - Cho con bú.
 - Dị ứng MTX.
-- Bệnh lý nội khoa nặng: suy gan, suy thận, viêm loét dạ dày, suy tủy, suy giảm miễn dịch...
+- Bệnh lý nội khoa nặng: Suy gan, suy thận, viêm loét dạ dày, suy tủy, suy giảm miễn dịch...
 - Không thể theo dõi hoặc từ chối điều trị.
 
 #### Tác dụng phụ

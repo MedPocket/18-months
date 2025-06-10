@@ -43,8 +43,8 @@ Trước khi lấy mẫu, cần điền thông tin trên phiếu xét nghiệm:
 
 1. Họ và tên, tuổi, PARA.
 2. Ngày kinh chót / có thai / mãn kinh.
-3. Lý do làm Pap’s test: tầm soát / theo dõi CIN.
-4. Phương pháp ngừa thai: thuốc / vòng.
+3. Lý do làm Pap’s test: Tầm soát / theo dõi CIN.
+4. Phương pháp ngừa thai: Thuốc / vòng.
 5. Kết quả tầm soát lần trước.
 
 - **Pap’s test quy ước**: Lấy hai lam phết tế bào từ cổ ngoài và cổ trong. Ghi bằng bút chì tên, tuổi và vị trí lấy trên lam. Mẫu cố định bằng cồn 95° hoặc keo phun.
@@ -76,8 +76,8 @@ Theo Bethesda 2014, kết quả phân thành ba nhóm chính:
 
 #### Âm tính với tổn thương trong biểu mô
 
-- Các biểu hiện không tân sinh (Non-neoplastic findings): chuyển sản gai, thay đổi sừng, thay đổi thai kỳ, teo...
-- Các thay đổi tế bào do phản ứng (Reactive cellular changes): viêm, tổn thương do tia xạ, sau cắt tử cung...
+- Các biểu hiện không tân sinh (Non-neoplastic findings): Chuyển sản gai, thay đổi sừng, thay đổi thai kỳ, teo...
+- Các thay đổi tế bào do phản ứng (Reactive cellular changes): Viêm, tổn thương do tia xạ, sau cắt tử cung...
 - Thay đổi do vi sinh vật: Trichomonas vaginalis, Candida sp., Gardnerella, Chlamydia trachomatis, HSV, HPV...
 
 #### Khác

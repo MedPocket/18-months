@@ -7,7 +7,7 @@ Khung chậu có vai trò rất quan trọng trong sản khoa, vì thai từ tro
 
 ## Giải phẫu
 
-- Khung chậu được cấu tạo bởi 4 xương: phía trước và 2 bên là 2 xương chậu, phía sau là xương cùng-cụt. Mặt trong xương chậu có gờ vô danh chia khung chậu làm 2 phần: **đại khung** phía trên và **tiểu khung** phía dưới.
+- Khung chậu được cấu tạo bởi 4 xương: Phía trước và 2 bên là 2 xương chậu, phía sau là xương cùng-cụt. Mặt trong xương chậu có gờ vô danh chia khung chậu làm 2 phần: **đại khung** phía trên và **tiểu khung** phía dưới.
 
 - Tiểu khung là phần quan trọng nhất vì ngôi thai phải vượt qua tiểu khung để đi ra ngoài qua ngã âm đạo. Trên đoạn đường đi từ trong ra ngoài này, thai nhi phải lần lượt vượt qua các vòng eo hẹp – có thể được cấu tạo bằng xương hoặc xương kết hợp với cân-cơ – đó là: **eo trên**, **eo giữa** và **eo dưới**.
 
@@ -18,9 +18,9 @@ Khung chậu có vai trò rất quan trọng trong sản khoa, vì thai từ tro
 
 - Các thì trong quá trình ngôi thai đi qua khung chậu:
 
-  - **Lọt**: ngôi thai đi qua **eo trên**.
-  - **Xuống**: ngôi di chuyển từ **eo trên đến eo dưới**.
-  - **Sổ**: ngôi vượt qua **eo dưới** và ra ngoài.
+  - **Lọt**: Ngôi thai đi qua **eo trên**.
+  - **Xuống**: Ngôi di chuyển từ **eo trên đến eo dưới**.
+  - **Sổ**: Ngôi vượt qua **eo dưới** và ra ngoài.
 
 ### Eo trên
 

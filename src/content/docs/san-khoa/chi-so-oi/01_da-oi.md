@@ -17,18 +17,18 @@ description: Đa ối là tình trạng dư thừa dịch ối so với mức b�
 - Bất thường nhiễm sắc thể.
 - Nhiễm trùng bào thai (TORCH).
 - Thiếu máu thai.
-- Bất thường thần kinh trung ương: não úng thủy, vô sọ, chẻ đôi đốt sống.
-- Bất thường thần kinh–cơ: nhược cơ, bệnh Steinert, rối loạn nuốt, sức môi...
-- Bất thường vùng cổ–lồng ngực: tăng sinh tuyến dạng nang ở phổi.
+- Bất thường thần kinh trung ương: Não úng thủy, vô sọ, chẻ đôi đốt sống.
+- Bất thường thần kinh–cơ: Nhược cơ, bệnh Steinert, rối loạn nuốt, sức môi...
+- Bất thường vùng cổ–lồng ngực: Tăng sinh tuyến dạng nang ở phổi.
 - Tim bẩm sinh.
-- Bất thường hệ tiêu hóa: hẹp thực quản, hẹp tá tràng.
-- Bất thường thành bụng: thoát vị rốn.
+- Bất thường hệ tiêu hóa: Hẹp thực quản, hẹp tá tràng.
+- Bất thường thành bụng: Thoát vị rốn.
 - Thoát vị hoành.
-- Bất thường thận: hội chứng Bartter.
+- Bất thường thận: Hội chứng Bartter.
 - Bất thường hệ xương.
-- Shunt bào thai: phình tĩnh mạch Galien, bướu quái cùng cụt, bướu máu...
+- Shunt bào thai: Phình tĩnh mạch Galien, bướu quái cùng cụt, bướu máu...
 - Hội chứng đa dị tật.
-- Song thai: hội chứng truyền máu song thai, TRAPs.
+- Song thai: Hội chứng truyền máu song thai, TRAPs.
 - Phù rau thai.
 - Vô căn (30%).
 
@@ -79,8 +79,8 @@ _Mức độ đa ối._
 
 ### Ngoại trú
 
-- < 34 tuần: tái khám mỗi 2 tuần, đo chiều dài cổ tử cung, cân nhắc corticosteroids trước sinh.
-- ≥ 34 tuần: siêu âm Doppler, non-stress test mỗi tuần.
+- < 34 tuần: Tái khám mỗi 2 tuần, đo chiều dài cổ tử cung, cân nhắc corticosteroids trước sinh.
+- ≥ 34 tuần: Siêu âm Doppler, non-stress test mỗi tuần.
 
 ### Nhập viện
 

@@ -36,14 +36,14 @@ _Phân loại theo FIGO 2019._
 
 #### Siêu âm
 
-- Tam cá nguyệt I (6–14 tuần): túi thai làm tổ thấp, gần sẹo mổ cũ; thành trước đoạn dưới mỏng < 3 mm.
+- Tam cá nguyệt I (6–14 tuần): Túi thai làm tổ thấp, gần sẹo mổ cũ; thành trước đoạn dưới mỏng < 3 mm.
 - Tam cá nguyệt II–III (TVS & TAS):
 
-  - Lacunae ("moth-eaten"): xoang mạch đa hình trong bánh rau.
+  - Lacunae ("moth-eaten"): Xoang mạch đa hình trong bánh rau.
   - Đường echo ranh giới rau-cơ mỏng hoặc mất liên tục.
-  - "Placental bulge": lồi rau qua thành tử cung.
+  - "Placental bulge": Lồi rau qua thành tử cung.
   - Cầu mạch máu và Doppler tăng sinh mạch rõ.
-  - Xâm lấn bàng quang: mất đường echo thanh mạc và bàng quang.
+  - Xâm lấn bàng quang: Mất đường echo thanh mạc và bàng quang.
 
 #### MRI
 
@@ -75,7 +75,7 @@ _Phân loại theo FIGO 2019._
 
 ### Nguyên tắc phẫu thuật
 
-- Cá thể hóa: lấy thai + bảo tồn tử cung nếu ổn định và có mong muốn sinh tiếp; hoặc lấy thai + cắt tử cung toàn phần nếu chảy máu nhiều, percreta nặng.
+- Cá thể hóa: Lấy thai + bảo tồn tử cung nếu ổn định và có mong muốn sinh tiếp; hoặc lấy thai + cắt tử cung toàn phần nếu chảy máu nhiều, percreta nặng.
 - Nắm vững giải phẫu mạch vùng chậu, dự phòng thắt động mạch tử cung hoặc bóng chèn nội mạch.
 - Chuẩn bị xử trí biến chứng (niệu quản, ruột).
 

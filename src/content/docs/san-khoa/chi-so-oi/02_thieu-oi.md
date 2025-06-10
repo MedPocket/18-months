@@ -69,10 +69,10 @@ Chủ yếu dựa vào siêu âm:
 
   - SDP ≤ 1 cm:
 
-    - ≥ 34 tuần: mổ lấy thai.
+    - ≥ 34 tuần: Mổ lấy thai.
     - < 34 tuần: điều trị chờ chuyển dạ.
 
-  - 1 ≤ SDP ≤ 2 cm: thai ≥ 37 tuần sinh thường hoặc mổ lấy thai.
+  - 1 ≤ SDP ≤ 2 cm: Thai ≥ 37 tuần sinh thường hoặc mổ lấy thai.
 
 - Liệu pháp corticosteroids:
 

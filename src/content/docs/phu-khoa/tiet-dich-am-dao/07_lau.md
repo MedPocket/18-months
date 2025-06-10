@@ -16,7 +16,7 @@ _N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm t
 **Thời gian ủ bệnh**
 
 - Nam giới: ước tính 3–5 ngày (có thể sớm 2 ngày hoặc kéo dài đến 7 ngày).
-- Nữ giới: thường 5–7 ngày, đôi khi kéo dài đến 14 ngày.
+- Nữ giới: Thường 5–7 ngày, đôi khi kéo dài đến 14 ngày.
 
 Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng vẫn có khả năng lây truyền.
 
@@ -24,15 +24,15 @@ Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng v�
 
 - **Nam giới**
 
-  - Tiết dịch niệu đạo: ban đầu nhầy trắng, sau 2–3 ngày có thể chuyển thành mủ vàng xen lẫn mủ xanh.
+  - Tiết dịch niệu đạo: Ban đầu nhầy trắng, sau 2–3 ngày có thể chuyển thành mủ vàng xen lẫn mủ xanh.
   - Tiểu buốt, tiểu khó, có cảm giác nóng rát dọc niệu đạo.
   - Khám niệu đạo có thể thấy đầu niệu đạo đỏ, phù nề và có mủ chảy ra khi bóp nhẹ.
 
 - **Nữ giới**
 
   - Hơn 50% không có triệu chứng rõ ràng.
-  - Có thể: tiết dịch âm đạo bất thường (dịch mủ vàng hoặc mủ xanh), tiểu buốt, đau vùng bụng dưới, chảy máu âm đạo giữa kỳ kinh hoặc sau giao hợp.
-  - Khám phụ khoa có thể thấy: cổ tử cung viêm đỏ, có mủ ở lỗ trong cổ tử cung, đôi khi viêm thành âm đạo.
+  - Có thể: Tiết dịch âm đạo bất thường (dịch mủ vàng hoặc mủ xanh), tiểu buốt, đau vùng bụng dưới, chảy máu âm đạo giữa kỳ kinh hoặc sau giao hợp.
+  - Khám phụ khoa có thể thấy: Cổ tử cung viêm đỏ, có mủ ở lỗ trong cổ tử cung, đôi khi viêm thành âm đạo.
 
 - **Lậu trực tràng** (cả nam và nữ)
 
@@ -49,14 +49,14 @@ Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng v�
 - **Nam giới**
 
   - Viêm mào tinh hoàn: đau, sưng tinh hoàn, kèm sốt, ớn lạnh. Nếu không điều trị, có thể apsxe bìu và dẫn đến vô sinh.
-  - Hẹp niệu đạo: do nhiễm trùng tái phát hoặc không được điều trị, gây tiểu khó mạn tính.
+  - Hẹp niệu đạo: Do nhiễm trùng tái phát hoặc không được điều trị, gây tiểu khó mạn tính.
 
 - **Nữ giới**
 
-  - Viêm tiểu khung (PID): lan ngược lên vòi trứng, buồng trứng, gây đau bụng dưới, sốt, đôi khi áp xe buồng trứng.
-  - Viêm vòi trứng và áp xe vòi trứng: có thể gây tắc vòi, dẫn đến vô sinh hoặc chửa ngoài tử cung.
-  - Viêm nội mạc tử cung: nhẹ triệu chứng nhưng ảnh hưởng niêm mạc tử cung.
-  - Mang thai: tăng nguy cơ sinh non, vỡ ối non, thai nhi nhẹ cân.
+  - Viêm tiểu khung (PID): Lan ngược lên vòi trứng, buồng trứng, gây đau bụng dưới, sốt, đôi khi áp xe buồng trứng.
+  - Viêm vòi trứng và áp xe vòi trứng: Có thể gây tắc vòi, dẫn đến vô sinh hoặc chửa ngoài tử cung.
+  - Viêm nội mạc tử cung: Nhẹ triệu chứng nhưng ảnh hưởng niêm mạc tử cung.
+  - Mang thai: Tăng nguy cơ sinh non, vỡ ối non, thai nhi nhẹ cân.
 
     ![Tiết dịch cơ quan sinh dục](./_images/lau/tiet-dich-co-quan-sinh-duc.png)
 
@@ -64,7 +64,7 @@ Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng v�
 
 - **Trẻ sơ sinh** (lây nhiễm qua đường sinh dục khi mẹ nhiễm lậu)
 
-  - Viêm kết mạc mắt: khởi phát 2–5 ngày sau sinh, chảy mủ mắt, sưng mí, nếu không điều trị có thể dẫn đến loét giác mạc, sẹo và mù loà.
+  - Viêm kết mạc mắt: Khởi phát 2–5 ngày sau sinh, chảy mủ mắt, sưng mí, nếu không điều trị có thể dẫn đến loét giác mạc, sẹo và mù loà.
 
     ![Lậu hầu họng](./_images/lau/lau-hau-hong.png)
 
@@ -249,9 +249,9 @@ Xác định thất bại điều trị khi:
 ### Theo dõi sau điều trị
 
 - **Tái khám 3 tháng**: Tất cả trường hợp nhiễm lậu sinh dục hoặc trực tràng không biến chứng nên làm NAAT sau 3 tháng kể từ khi điều trị để phát hiện tái nhiễm, kể cả khi không còn triệu chứng.
-- **Nếu không thể tái khám sau 3 tháng**: có thể xét nghiệm lại bất kỳ lúc nào trong 3–12 tháng sau điều trị đầu tiên.
-- **Nhiễm lậu hầu họng**: tái khám sau 7–14 ngày để kiểm tra bằng nuôi cấy hoặc NAAT; lưu ý NAAT sau 7 ngày có thể dương tính giả do mảnh gien còn tồn tại, nên ưu tiên nuôi cấy để khẳng định.
-- **Viêm niệu đạo, viêm cổ tử cung hoặc viêm trực tràng dai dẳng**: xem xét nguyên nhân khác (ví dụ: _Mycoplasma genitalium_, _Ureaplasma urealyticum_, _HSV_), làm xét nghiệm bổ sung khi cần.
+- **Nếu không thể tái khám sau 3 tháng**: Có thể xét nghiệm lại bất kỳ lúc nào trong 3–12 tháng sau điều trị đầu tiên.
+- **Nhiễm lậu hầu họng**: Tái khám sau 7–14 ngày để kiểm tra bằng nuôi cấy hoặc NAAT; lưu ý NAAT sau 7 ngày có thể dương tính giả do mảnh gien còn tồn tại, nên ưu tiên nuôi cấy để khẳng định.
+- **Viêm niệu đạo, viêm cổ tử cung hoặc viêm trực tràng dai dẳng**: Xem xét nguyên nhân khác (ví dụ: _Mycoplasma genitalium_, _Ureaplasma urealyticum_, _HSV_), làm xét nghiệm bổ sung khi cần.
 
 ## Phòng bệnh
 

@@ -31,7 +31,7 @@ description: Chẩn đoán, xử trí ối vỡ non.
 
 #### Test Nitrazine
 
-- Dựa trên nguyên lý: dịch âm đạo và nước tiểu có tính acid, còn nước ối có tính kiềm. Dùng giấy thử Nitrazine nhúng vào dịch tại lưỡi mỏ vịt. Nếu có nước ối, giấy sẽ đổi màu từ **vàng sang xanh lam**.
+- Dựa trên nguyên lý: Dịch âm đạo và nước tiểu có tính acid, còn nước ối có tính kiềm. Dùng giấy thử Nitrazine nhúng vào dịch tại lưỡi mỏ vịt. Nếu có nước ối, giấy sẽ đổi màu từ **vàng sang xanh lam**.
 
 :::caution
 Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một số nhiễm trùng âm đạo.
@@ -117,7 +117,7 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
   :::
 
-- **Corticosteroids**: dùng sớm cho mẹ để giảm nguy cơ suy hô hấp sơ sinh, ngay cả khi chưa chắc đủ thời gian hoàn tất phác đồ.
+- **Corticosteroids**: Dùng sớm cho mẹ để giảm nguy cơ suy hô hấp sơ sinh, ngay cả khi chưa chắc đủ thời gian hoàn tất phác đồ.
 - **Theo dõi**:
 
   - Xét nghiệm máu mỗi 48 giờ hoặc khi nghi ngờ nhiễm trùng.
@@ -150,8 +150,8 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
   - Thai 24–< 32 tuần có nguy cơ sinh non trong 24 giờ.
   - Dùng thường quy từ 28–<32 tuần, cân nhắc từ 24–<28 tuần.
 
-- **Chống chỉ định**: nhược cơ.
-- **Thận trọng**: tiền sử thiếu máu cơ tim, rối loạn dẫn truyền.
+- **Chống chỉ định**: Nhược cơ.
+- **Thận trọng**: Tiền sử thiếu máu cơ tim, rối loạn dẫn truyền.
 - **Liều dùng**:
   - 4.5g tĩnh mạch chậm trong 20–30 phút.
   - Nên truyền trước sinh 4 giờ.
@@ -165,10 +165,10 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 **Phương pháp chấm dứt thai kỳ**:
 
 - Ưu tiên sinh thường, mổ lấy thai khi có chỉ định.
-- Nếu chưa có chuyển dạ sau 12 giờ: khởi phát tùy Bishop:
+- Nếu chưa có chuyển dạ sau 12 giờ: Khởi phát tùy Bishop:
 
-  - Bishop ≥ 6: khởi phát bằng Oxytocin.
-  - Bishop < 6: làm chín muồi cổ tử cung bằng Prostaglandin E2 trước Oxytocin.
+  - Bishop ≥ 6: Khởi phát bằng Oxytocin.
+  - Bishop < 6: Làm chín muồi cổ tử cung bằng Prostaglandin E2 trước Oxytocin.
 
 ## Nhiễm trùng ối
 

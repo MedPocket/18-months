@@ -17,8 +17,8 @@ Theo mô học, tổn thương tân sinh trong biểu mô cổ tử cung (CIN) �
 
 Dựa trên mức độ tế bào bề mặt, phân loại tế bào học cũng tách thành:
 
-- **LSIL** (Low-grade): tương ứng CIN 1.
-- **HSIL** (High-grade): tương ứng CIN 2–3.
+- **LSIL** (Low-grade): Tương ứng CIN 1.
+- **HSIL** (High-grade): Tương ứng CIN 2–3.
 
 ![Luận điểm cổ điển về tiến triển tự nhiên của tân sinh biểu mô cổ tử cung](./_images/tan-sinh-bieu-mo-co-tu-cung/luan-diem-co-dien-ve-tien-trien-tu-nhien-bieu-mo-co-tu-cung.png)
 
@@ -61,7 +61,7 @@ _Các trường hợp nhiễm HPV có thể thoái triển hoặc tiến triển
 - **Chuyển sản lát**: Biểu mô trụ lộ tuyến (lộ tuyến) bị thay thế bởi biểu mô lát tầng không sừng hóa.
 - **Dị sản** (dysplasia): Khi tế bào chuyển sản bị tổn thương bởi HPV, hóa chất, tia xạ..., dẫn đến CIN.
 - HPV thể hiện chức năng sinh ung qua hai protein E6 (bất hoạt p53, ngăn apoptosis) và E7 (bất hoạt pRb, kích hoạt E2F → tăng sinh không kiểm soát).
-- Dị sản còn phụ thuộc vào đáp ứng miễn dịch: khoảng 80% có thể tự cải thiện, nhưng 10% tiến triển thành ung thư.
+- Dị sản còn phụ thuộc vào đáp ứng miễn dịch: Khoảng 80% có thể tự cải thiện, nhưng 10% tiến triển thành ung thư.
 
   ![E6 và E7 trong cơ chế sinh ung thư của HPV type 16](./_images/tan-sinh-bieu-mo-co-tu-cung/e6-va-e7-trong-co-che-gay-ung-thu-cua-hpv.png)
 
@@ -78,7 +78,7 @@ _Các trường hợp nhiễm HPV có thể thoái triển hoặc tiến triển
 #### Đặc điểm
 
 - **ASC-US** (Atypical Squamous Cells of Undetermined Significance): Tế bào vảy có nhân to, đôi khi nhân đôi, không đủ tiêu chuẩn HSIL hay LSIL.
-- Phần lớn do phản ứng viêm, ít khi tiến triển: nguy cơ HSIL 7%, ung thư xâm lấn 0.25%. Sau 24 tháng:
+- Phần lớn do phản ứng viêm, ít khi tiến triển: Nguy cơ HSIL 7%, ung thư xâm lấn 0.25%. Sau 24 tháng:
 
   - 65% thoái lui về bình thường.
   - 7% tiến triển HSIL.
@@ -112,7 +112,7 @@ _Các trường hợp nhiễm HPV có thể thoái triển hoặc tiến triển
 #### Đặc điểm
 
 - **LSIL**: Biểu hiện CIN 1 hoặc nhiễm HPV type nguy cơ cao.
-- Tế bào LSIL có nhân ≥ 3 lần nhân trung gian, tỷ lệ nhân:bào tương ≤ 1/3; hầu hết HPV (+).
+- Tế bào LSIL có nhân ≥ 3 lần nhân trung gian, tỷ lệ nhân:Bào tương ≤ 1/3; hầu hết HPV (+).
 - Sau 24 tháng:
 
   - 47% thoái triển về bình thường.

@@ -146,9 +146,9 @@ _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huy�
 
 Chỉ định khi điều trị nội khoa thất bại hoặc có nguyên nhân thực thể:
 
-- **Nạo buồng tử cung**: giúp cầm máu tức thì.
-- **Đốt nội mạc tử cung**: giải pháp lâu dài nhưng làm mất khả năng sinh sản.
-- **Cắt tử cung**: chỉ định sau cùng khi thất bại với mọi phương pháp điều trị khác.
+- **Nạo buồng tử cung**: Giúp cầm máu tức thì.
+- **Đốt nội mạc tử cung**: Giải pháp lâu dài nhưng làm mất khả năng sinh sản.
+- **Cắt tử cung**: Chỉ định sau cùng khi thất bại với mọi phương pháp điều trị khác.
 
 ## Nguồn tham khảo
 

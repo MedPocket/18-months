@@ -59,8 +59,8 @@ Ngoài ra, một số yếu tố khác có thể góp phần:
 
 Đau vú không theo chu kỳ có thể do nhiều yếu tố:
 
-- **Rối loạn chu kỳ kinh nguyệt** (thiếu đều): làm thay đổi cân bằng nội tiết.
-- **Stress tâm lý**: tăng cortisol, thay đổi hormone, gây đau mạn tính.
+- **Rối loạn chu kỳ kinh nguyệt** (thiếu đều): Làm thay đổi cân bằng nội tiết.
+- **Stress tâm lý**: Tăng cortisol, thay đổi hormone, gây đau mạn tính.
 - **Hoại tử mô mỡ (fat necrosis)**: Sau chấn thương hoặc phẫu thuật vú, mô mỡ có thể bị tổn thương, tạo nên cục đau tại chỗ.
 - **Sẹo mổ cũ**: Tạo dải xơ hóa kéo căng dây chằng Cooper, gây đau khi vặn người hoặc vận động.
 - **Viêm mô vú không nhiễm khuẩn**: Ví dụ viêm xơ tuyến vú, viêm quanh chẩn tuyến.
@@ -96,8 +96,8 @@ Ngoài ra, một số yếu tố khác có thể góp phần:
 - Với phụ nữ ≥ 35 tuổi khi có triệu chứng đau vú, **nhũ ảnh** cần được thực hiện để loại trừ các bất thường cấu trúc (như u đặc, vôi hóa vi thể).
 - Nhũ ảnh kỹ thuật số (Digital Mammography) ưu việt hơn nhũ ảnh phim nhờ khả năng xử lý hình ảnh số, cho phép phóng to, điều chỉnh độ tương phản.
 - Hai tư thế tiêu chuẩn bắt buộc:
-  1. **CC (Craniocaudal View)**: cho hình ảnh toàn bộ vú, thấy rõ cơ ngực lớn phía sau, bao gồm cả 1/4 trong và 1/4 ngoài của vú.
-  2. **MLO (Mediolateral Oblique View)**: cho phép đánh giá vùng 1/4 trên ngoài – nơi thường gặp tổn thương ác tính, và nhìn thấy cơ ngực lớn để xác định độ sâu của mô vú.
+  1. **CC (Craniocaudal View)**: Cho hình ảnh toàn bộ vú, thấy rõ cơ ngực lớn phía sau, bao gồm cả 1/4 trong và 1/4 ngoài của vú.
+  2. **MLO (Mediolateral Oblique View)**: Cho phép đánh giá vùng 1/4 trên ngoài – nơi thường gặp tổn thương ác tính, và nhìn thấy cơ ngực lớn để xác định độ sâu của mô vú.
 - Nếu hình ảnh nhũ ảnh bình thường và không phát hiện khối cục, bệnh nhân có thể được trấn an. Nếu có bất thường (khối, vôi hóa, xơ hóa nghi ngờ), cần kết hợp siêu âm hoặc sinh thiết.
 
 ### Siêu âm
@@ -112,7 +112,7 @@ Ngoài ra, một số yếu tố khác có thể góp phần:
   - Không sử dụng tia X, an toàn cho phụ nữ mang thai hoặc cho con bú.
 - **Kỹ thuật thực hiện**:
   1. Bệnh nhân nằm ngửa, hai tay đặt lên đầu để căng giãn mô vú.
-  2. Thăm dò theo các lát cắt: lưới dọc – ngang, nan hoa (radial) và tiếp tuyến (antiradial).
+  2. Thăm dò theo các lát cắt: Lưới dọc – ngang, nan hoa (radial) và tiếp tuyến (antiradial).
   3. Khảo sát hạch nách để phát hiện hạch to, thay đổi cấu trúc.
   4. Siêu âm Doppler để đánh giá tưới máu khối u (giúp phân biệt lành – ác).
 
@@ -157,8 +157,8 @@ Việc điều trị đau vú chỉ được khuyến nghị khi triệu chứng
 4. **Chế độ ăn và lối sống**
 
    - Hạn chế thực phẩm chứa nhiều chất béo bão hòa và đường tinh luyện (có thể làm tăng estrogen nội sinh).
-   - Giảm cân nếu béo phì: béo phì ở phụ nữ mãn kinh liên quan đến tăng estrogen (do mô mỡ tổng hợp aromatase), có thể làm tăng đau vú.
-   - Hạn chế caffeine (cà phê, trà đặc, cacao, chocolate): các nghiên cứu về lợi ích giảm đau khi kiêng caffeine cho kết quả không đồng nhất, nhưng một số phụ nữ vẫn cảm thấy giảm triệu chứng khi hạn chế.
+   - Giảm cân nếu béo phì: Béo phì ở phụ nữ mãn kinh liên quan đến tăng estrogen (do mô mỡ tổng hợp aromatase), có thể làm tăng đau vú.
+   - Hạn chế caffeine (cà phê, trà đặc, cacao, chocolate): Các nghiên cứu về lợi ích giảm đau khi kiêng caffeine cho kết quả không đồng nhất, nhưng một số phụ nữ vẫn cảm thấy giảm triệu chứng khi hạn chế.
    - Tập thể dục nhẹ nhàng (đi bộ, bơi, yoga) giúp điều hòa nội tiết, giảm đau và cải thiện tâm trạng.
 
 5. **Bổ sung vitamin**
@@ -189,18 +189,18 @@ Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 
    - Tamoxifen 10 mg/ngày trong 3 tháng giúp giảm 70–90% đau vú theo chu kỳ, giảm 56% đau vú không theo chu kỳ.
    - Tái phát đau ở 50% sau khi ngừng thuốc.
    - Chưa được cấp phép chính thức cho điều trị đau vú; liều dùng không quá 6 tháng để tránh nguy cơ ung thư nội mạc tử cung, đông đặc, hay thay đổi chuyển hóa mỡ máu.
-   - Tác dụng phụ: bốc hỏa, rối loạn kinh nguyệt, đau khớp, nguy cơ tăng ung thư nội mạc tử cung sau 5 năm sử dụng.
+   - Tác dụng phụ: Bốc hỏa, rối loạn kinh nguyệt, đau khớp, nguy cơ tăng ung thư nội mạc tử cung sau 5 năm sử dụng.
 
 4. **Danazol**
 
    - Danazol (200 mg/ngày) chẹn gonadotropin, có tác dụng androgen nhẹ, giảm đau vú ở 70% chu kỳ và 31% không theo chu kỳ.
-   - Tác dụng phụ nặng: rậm lông, mụn trứng cá, giọng trầm, tăng cân, rối loạn kinh nguyệt, thay đổi tâm thần kinh. Tiếp tục ngưng nếu xuất hiện triệu chứng nam hóa hoặc trầm cảm.
+   - Tác dụng phụ nặng: Rậm lông, mụn trứng cá, giọng trầm, tăng cân, rối loạn kinh nguyệt, thay đổi tâm thần kinh. Tiếp tục ngưng nếu xuất hiện triệu chứng nam hóa hoặc trầm cảm.
    - Chỉ dùng khi thất bại với Tamoxifen (3–6 tháng), duy trì tối thiểu 3 tháng, tối đa 6 tháng.
-   - Cảnh báo: gây quái thai, phụ nữ dùng cần kết hợp biện pháp tránh thai không hormone (ví dụ dùng bao cao su).
+   - Cảnh báo: Gây quái thai, phụ nữ dùng cần kết hợp biện pháp tránh thai không hormone (ví dụ dùng bao cao su).
 
 5. **Bromocriptine**
    - Đồng vận dopamine, ức chế tiết prolactin, liều 2.5–5 mg/ngày chia 2 lần, kéo dài 2–3 tháng. Giảm đau vú ở 47–88% trường hợp.
-   - Tác dụng phụ: buồn nôn, nôn, chóng mặt, hạ huyết áp tư thế. Nhiều bệnh nhân không chịu được các tác dụng phụ nên tự ngưng thuốc.
+   - Tác dụng phụ: Buồn nôn, nôn, chóng mặt, hạ huyết áp tư thế. Nhiều bệnh nhân không chịu được các tác dụng phụ nên tự ngưng thuốc.
 
 ### Ngoại khoa
 

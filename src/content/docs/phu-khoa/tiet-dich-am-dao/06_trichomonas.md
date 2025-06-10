@@ -96,7 +96,7 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
      - **3 tháng đầu thai kỳ** (đặc biệt liều nặng).
      - Dị ứng 5-nitroimidazole.
 
-   - Tương tác: tránh rượu bia trong và sau trị liệu 48 giờ để ngăn hội chứng Disulfiram-like.
+   - Tương tác: Tránh rượu bia trong và sau trị liệu 48 giờ để ngăn hội chứng Disulfiram-like.
 
 2. **Tinidazole uống liều đơn**
 
@@ -136,7 +136,7 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 ### Theo dõi sau điều trị
 
 - Hẹn tái khám sau 2–4 tuần để kiểm tra lâm sàng và cận lâm sàng (nếu cần).
-- Hướng dẫn vệ sinh vùng kín đúng cách: tránh thụt rửa âm đạo, dùng xà phòng pH trung tính, mặc đồ lót thoáng, thấm hút tốt.
+- Hướng dẫn vệ sinh vùng kín đúng cách: Tránh thụt rửa âm đạo, dùng xà phòng pH trung tính, mặc đồ lót thoáng, thấm hút tốt.
 - Khuyến khích dùng bao cao su khi quan hệ để giảm nguy cơ tái nhiễm và lây truyền các STI khác.
 - Thông báo và điều trị bạn tình, khuyến nghị tất cả bạn tình trong vòng 60 ngày trước để xét nghiệm và điều trị.
 
@@ -153,4 +153,4 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
 - Centers for Disease Control and Prevention (CDC) (2015) – _Sexually Transmitted Diseases Treatment Guidelines: Trichomoniasis_
 - World Health Organization (WHO) (2020) – _Global Health Sector Strategy on Sexually Transmitted Infections, 2016–2021_
-- Schwebke, J. R., Burgess, D. (2004) – _Trichomoniasis: reevaluation of clinical and public health significance_
+- Schwebke, J. R., Burgess, D. (2004) – _Trichomoniasis: Reevaluation of clinical and public health significance_

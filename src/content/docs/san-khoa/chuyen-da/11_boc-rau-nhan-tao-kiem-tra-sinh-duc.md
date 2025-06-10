@@ -17,13 +17,13 @@ Sau sổ thai, cần theo dõi sinh hiệu và lượng máu mất, **không** x
 
 ### Chống chỉ định
 
-- Sốc nặng: phải hồi sức ổn định trước.
+- Sốc nặng: Phải hồi sức ổn định trước.
 
 ### Chuẩn bị
 
 - Giải thích rõ cho sản phụ, lấy chấp thuận.
-- Trang bị: găng tay dài vô khuẩn, champs, đầy đủ dụng cụ theo dõi, đường truyền TM.
-- Thuốc: atropin 0.25 mg tiêm bắp/tĩnh mạch, giảm đau (morphin, dolargan), seduxen.
+- Trang bị: Găng tay dài vô khuẩn, champs, đầy đủ dụng cụ theo dõi, đường truyền TM.
+- Thuốc: Atropin 0.25 mg tiêm bắp/tĩnh mạch, giảm đau (morphin, dolargan), seduxen.
 - Sát khuẩn âm hộ, đặt sản phụ tư thế sản khoa (đầu hơi cao).
 
 ### Kỹ thuật
@@ -40,9 +40,9 @@ _Kỹ thuật bóc rau nhân tạo._
 
 ### Tai biến
 
-- **Shock phế vị**: ngất do kích thích phản xạ vagal (giảm nhịp tim, giãn mạch).
-- **Thủng tử cung**: khi lực quá mạnh hoặc vết mổ cũ.
-- **Lộn tử cung**: nếu kéo dây rốn sai cách.
+- **Shock phế vị**: Ngất do kích thích phản xạ vagal (giảm nhịp tim, giãn mạch).
+- **Thủng tử cung**: Khi lực quá mạnh hoặc vết mổ cũ.
+- **Lộn tử cung**: Nếu kéo dây rốn sai cách.
 - **Nhiễm trùng**.
 
 ## Kiểm tra tử cung
@@ -56,7 +56,7 @@ _Kỹ thuật bóc rau nhân tạo._
 
 ### Chuẩn bị
 
-Tương tự bóc rau: vô khuẩn, đường truyền TM, thuốc giảm đau.
+Tương tự bóc rau: Vô khuẩn, đường truyền TM, thuốc giảm đau.
 
 ### Kỹ thuật
 
@@ -65,9 +65,9 @@ Tương tự bóc rau: vô khuẩn, đường truyền TM, thuốc giảm đau.
 3. Kiểm tra đoạn dưới từ "3 giờ–9 giờ" theo kim đồng hồ.
 4. Đánh giá:
 
-   - **Co hồi**: chắc (tốt) hay mềm (đờ).
-   - **Sót rau**: thành tử cung nhám, gồ lên hay nhẵn.
-   - **Toàn vẹn**: vết mổ cũ, vết rách.
+   - **Co hồi**: Chắc (tốt) hay mềm (đờ).
+   - **Sót rau**: Thành tử cung nhám, gồ lên hay nhẵn.
+   - **Toàn vẹn**: Vết mổ cũ, vết rách.
    - **Dị dạng/khối u**.
 
 5. Rút tay ra sau khi đã kiểm tra xong, không thao tác nhiều lần để tránh nhiễm trùng.
@@ -112,21 +112,21 @@ Tương tự kiểm tra cổ tử cung.
 
 ### Kỹ thuật
 
-1. Khám toàn bộ thành âm đạo bằng ngón tay: tìm rách niêm mạc, cơ.
+1. Khám toàn bộ thành âm đạo bằng ngón tay: Tìm rách niêm mạc, cơ.
 2. Mở valve, kiểm tra đáy chậu, tầng sinh môn.
 3. Thăm trực tràng: đánh giá cơ vòng hậu môn.
 
 **Phân độ rách tầng sinh môn**
 
-- **Độ I**: niêm mạc + da.
+- **Độ I**: Niêm mạc + da.
 - **Độ II**: + cơ tầng sinh môn.
 - **Độ III**: + cơ vòng hậu môn.
 - **Độ IV**: + niêm mạc trực tràng.
 
 ### Khâu phục hồi
 
-- Rạch sâu hoặc chảy máu nhiều: khâu tại phòng mổ + gây tê/ mê.
-- Rách nhẹ: khâu tại giường sinh, tê tại chỗ.
+- Rạch sâu hoặc chảy máu nhiều: Khâu tại phòng mổ + gây tê/ mê.
+- Rách nhẹ: Khâu tại giường sinh, tê tại chỗ.
 - Đảm bảo khâu đúng tầng, không để khoang ảo, thăm trực tràng sau khâu.
 
 ## Nguồn tham khảo

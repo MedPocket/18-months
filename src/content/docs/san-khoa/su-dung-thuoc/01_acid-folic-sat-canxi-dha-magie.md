@@ -26,7 +26,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 - **Nguồn thực phẩm giàu folate**:
 
-  - Rau lá xanh đậm: bina, cải bó xôi, súp lơ xanh.
+  - Rau lá xanh đậm: Bina, cải bó xôi, súp lơ xanh.
   - Gan động vật.
   - Các loại đậu: đậu lăng, đậu hà lan.
   - Trái cây họ cam quýt, bơ.
@@ -49,7 +49,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 - **Nguồn thực phẩm giàu DHA**:
 
-  - Cá béo: cá hồi, cá thu, cá mòi (ưu tiên cá đánh bắt tự nhiên, tránh cá chứa thủy ngân).
+  - Cá béo: Cá hồi, cá thu, cá mòi (ưu tiên cá đánh bắt tự nhiên, tránh cá chứa thủy ngân).
   - Trứng bổ sung DHA, tảo biển.
   - Hạt chia, óc chó (chứa ALA – tiền chất chuyển hóa thành DHA).
   - Dầu cá tinh khiết dạng viên nang.
@@ -72,8 +72,8 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 - **Nguồn thực phẩm giàu sắt**:
 
   - Gan động vật, thịt đỏ (bò, cừu).
-  - Hải sản: sò huyết, ngao, hến.
-  - Rau lá xanh đậm: rau muống, cải bó xôi.
+  - Hải sản: Sò huyết, ngao, hến.
+  - Rau lá xanh đậm: Rau muống, cải bó xôi.
   - Các loại đậu, hạt bí, mè, ngũ cốc tăng cường sắt.
 
 ## Canxi
@@ -93,8 +93,8 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 - **Nguồn thực phẩm giàu canxi**:
 
   - Sữa, phô mai, sữa chua.
-  - Cá nhỏ ăn cả xương: cá cơm, cá mòi.
-  - Rau xanh: cải bó xôi, cải xoăn, rau dền.
+  - Cá nhỏ ăn cả xương: Cá cơm, cá mòi.
+  - Rau xanh: Cải bó xôi, cải xoăn, rau dền.
   - Đậu phụ, đậu nành, mè, hạt chia.
   - Nước khoáng giàu canxi, trứng.
 
@@ -115,11 +115,11 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 - **Nguồn thực phẩm giàu magie**:
 
-  - Hạt: bí, hướng dương, điều.
+  - Hạt: Bí, hướng dương, điều.
   - Các loại đậu: đậu đen, đỏ, nành.
-  - Rau lá xanh: bina, cải bó xôi.
+  - Rau lá xanh: Bina, cải bó xôi.
   - Bơ, chuối, socola đen (≥ 70% cacao).
-  - Ngũ cốc nguyên hạt: yến mạch, gạo lứt.
+  - Ngũ cốc nguyên hạt: Yến mạch, gạo lứt.
 
 ## Nhu cầu
 

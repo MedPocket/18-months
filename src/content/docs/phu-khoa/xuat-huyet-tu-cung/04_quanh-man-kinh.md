@@ -51,8 +51,8 @@ Xuất huyết bất thường ở phụ nữ quanh mãn kinh không chỉ do r�
 
 1. **Nguyên nhân cơ năng do rối loạn nội tiết (đồng bộ estrogen–progesterone)**
 
-   - Giai đoạn trung gian: chu kỳ chồng lấn, bong tróc nội mạc không hoàn toàn → spotting hoặc rong kinh nhẹ.
-   - Giai đoạn muộn: mất hoàn toàn progesterone trong chu kỳ không phóng noãn → bong tróc rời rạc, rong huyết.
+   - Giai đoạn trung gian: Chu kỳ chồng lấn, bong tróc nội mạc không hoàn toàn → spotting hoặc rong kinh nhẹ.
+   - Giai đoạn muộn: Mất hoàn toàn progesterone trong chu kỳ không phóng noãn → bong tróc rời rạc, rong huyết.
 
 2. **Nguyên nhân thực thể liên quan đến tình trạng nội tiết mất cân bằng**
 
@@ -68,7 +68,7 @@ Xuất huyết bất thường ở phụ nữ quanh mãn kinh không chỉ do r�
 
 4. **Yếu tố toàn thân góp phần**
 
-   - Tăng huyết áp, đái tháo đường, béo phì: tác động gián tiếp lên chuyển hóa estrogen (estrone từ mô mỡ ngoại vi) và độ nhạy của nội mạc.
+   - Tăng huyết áp, đái tháo đường, béo phì: Tác động gián tiếp lên chuyển hóa estrogen (estrone từ mô mỡ ngoại vi) và độ nhạy của nội mạc.
    - Thuốc (tamoxifen, hormone trị liệu thay thế không phối hợp đúng liều progesterone...) có thể làm tăng nguy cơ xuất huyết.
 
 ## Tiếp cận
@@ -81,9 +81,9 @@ _Lưu đồ tiếp cận xuất huyết tử cung bất thường quanh mãn kin
 
 - Tuổi mãn kinh dự kiến, tiền sử chu kỳ trước đó (độ dài, tính chất, lượng máu).
 - Triệu chứng đi kèm: đau bụng dưới, rối loạn tiểu tiện, thay đổi cân nặng, bứt rứt, khó ngủ (các dấu hiệu tiền mãn kinh).
-- Tiền sử bệnh lý: tăng huyết áp, đái tháo đường, béo phì, rối loạn đông máu, dùng tamoxifen hoặc liệu pháp hormone thay thế.
+- Tiền sử bệnh lý: Tăng huyết áp, đái tháo đường, béo phì, rối loạn đông máu, dùng tamoxifen hoặc liệu pháp hormone thay thế.
 - Khám tổng quát: đánh giá tình trạng mất máu (da niêm nhợt, mệt, choáng váng), dấu hiệu tăng sản androgen (nếu nghi PCOS muộn).
-- Khám phụ khoa: kiểm tra lâm sàng tử cung (kích thước, hình dạng), buồng trứng qua siêu âm (nếu cần). Khám cổ tử cung (Pap smear/nội soi cổ tử cung nếu chỉ định).
+- Khám phụ khoa: Kiểm tra lâm sàng tử cung (kích thước, hình dạng), buồng trứng qua siêu âm (nếu cần). Khám cổ tử cung (Pap smear/nội soi cổ tử cung nếu chỉ định).
 
 ### Lâm sàng
 
@@ -108,22 +108,22 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
 
 #### Chẩn đoán hình ảnh
 
-- Thời điểm tối ưu: ngay sau sạch kinh để đo độ dày nội mạc mỏng nhất (thông thường < 4–5 mm).
+- Thời điểm tối ưu: Ngay sau sạch kinh để đo độ dày nội mạc mỏng nhất (thông thường < 4–5 mm).
 - Đặc điểm cần ghi nhận:
 
   - Độ dày nội mạc: ≥ 5 mm ở phụ nữ quanh mãn kinh cần đánh giá thêm.
   - Hình thái nội mạc: đều mỏng, lòng tử cung không có khối, không có kẽ tăng tín hiệu nhấp nhô.
-  - Tổn thương khu trú: polyp (có cuống), u xơ dưới niêm mạc, nang buồng trứng sản xuất estrogen.
+  - Tổn thương khu trú: Polyp (có cuống), u xơ dưới niêm mạc, nang buồng trứng sản xuất estrogen.
 
     ![Tăng sinh nội mạc tử cung trên siêu âm](./_images/xuat-huyet-tu-cung-quanh-man-kinh/hinh-anh-sieu-am-tang-sinh-noi-mac-tu-cung.png)
 
-    _Tăng sinh nội mạc tử cung: nội mạc dày 21.6 mm đầu chu kỳ là bất thường. Không thể chẩn đoán cơ năng khi có hình ảnh này._
+    _Tăng sinh nội mạc tử cung: Nội mạc dày 21.6 mm đầu chu kỳ là bất thường. Không thể chẩn đoán cơ năng khi có hình ảnh này._
 
-  - **Siêu âm bơm nước (SIS)** nếu nghi polyp hoặc dính buồng tử cung: bơm nước làm nổi bật khối, giúp xác định vị trí và kích thước tổn thương.
+  - **Siêu âm bơm nước (SIS)** nếu nghi polyp hoặc dính buồng tử cung: Bơm nước làm nổi bật khối, giúp xác định vị trí và kích thước tổn thương.
 
     ![Siêu âm bơm nước buồng tử cung](./_images/xuat-huyet-tu-cung-quanh-man-kinh/sieu-am-bom-nuoc-buong-tu-cung.png)
 
-    _Siêu âm bơm nước buồng tử cung (SIS): phát hiện polyp lòng tử cung. Khi có tổn thương khu trú như này, không thể chẩn đoán xuất huyết cơ năng._
+    _Siêu âm bơm nước buồng tử cung (SIS): Phát hiện polyp lòng tử cung. Khi có tổn thương khu trú như này, không thể chẩn đoán xuất huyết cơ năng._
 
   :::caution
   Hình ảnh siêu âm phụ thuộc vào pha chu kỳ. Thực hiện sau sạch kinh giúp tránh nhầm tăng sinh nội mạc giả do nội mạc phát triển dưới estrogen giai đoạn giữa chu kỳ.
@@ -139,8 +139,8 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
 
 - **Phương pháp**:
 
-  - **Pipelle® biopsy** (tiêu chuẩn): nhanh, không cần gây mê, thực hiện tại phòng khám.
-  - **Nong và nạo (D&C)**: khi Pipelle không lấy đủ mẫu, hoặc nghi ngờ nốt tăng sinh khu trú.
+  - **Pipelle® biopsy** (tiêu chuẩn): Nhanh, không cần gây mê, thực hiện tại phòng khám.
+  - **Nong và nạo (D&C)**: Khi Pipelle không lấy đủ mẫu, hoặc nghi ngờ nốt tăng sinh khu trú.
 
 - **Hạn chế**:
 
@@ -170,7 +170,7 @@ Việc quyết định điều trị phụ thuộc vào:
 
 ### Xuất huyết nặng cấp tính
 
-- **Nạo buồng tử cung (D&C)**: cầm máu nhanh, lấy mẫu mô để làm giải phẫu bệnh.
+- **Nạo buồng tử cung (D&C)**: Cầm máu nhanh, lấy mẫu mô để làm giải phẫu bệnh.
 - Đồng thời bù dịch, truyền máu/các chế phẩm máu nếu cần thiết (Hb < 7–8 g/dL hoặc mất máu cấp).
 - Sau khi ổn định, xem xét kết quả sinh thiết để hướng điều trị tiếp theo.
 
@@ -208,7 +208,7 @@ Việc quyết định điều trị phụ thuộc vào:
   - Điều trị bảo tồn thất bại (tái xuất huyết, tăng sinh/loạn sản nội mạc).
   - Có kèm bệnh lý thực thể nặng (u xơ lớn, polyp tái phát, lạc nội mạc tử cung nặng...).
 
-- Phương pháp: mổ mở, mổ nội soi hoặc mổ robotic tùy tình trạng và kỹ thuật của cơ sở.
+- Phương pháp: Mổ mở, mổ nội soi hoặc mổ robotic tùy tình trạng và kỹ thuật của cơ sở.
 
 ### Theo dõi sau điều trị
 

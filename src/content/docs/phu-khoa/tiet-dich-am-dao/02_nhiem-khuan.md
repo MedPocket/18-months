@@ -3,7 +3,7 @@ title: Viêm âm đạo nhiễm khuẩn
 description: Viêm âm đạo nhiễm khuẩn (hay loạn khuẩn âm đạo) là tình trạng rối loạn cân bằng hệ vi sinh vật tại âm đạo, dẫn đến giảm Lactobacilli bảo vệ và gia tăng hệ vi khuẩn yếm khí. Bệnh thường gây tiết dịch nhiều, có mùi hôi "cá thối" và có thể liên quan đến nhiều biến chứng sản phụ khoa nếu không được điều trị kịp thời.
 ---
 
-Nhiễm khuẩn âm đạo (loạn khuẩn âm đạo) là hội chứng do rối loạn cân bằng vi sinh vật ở âm đạo: giảm sút tỉ lệ Lactobacilli và gia tăng vi khuẩn yếm khí, tạo điều kiện cho nhiều vi sinh vật gây bệnh phát triển quá mức.
+Nhiễm khuẩn âm đạo (loạn khuẩn âm đạo) là hội chứng do rối loạn cân bằng vi sinh vật ở âm đạo: Giảm sút tỉ lệ Lactobacilli và gia tăng vi khuẩn yếm khí, tạo điều kiện cho nhiều vi sinh vật gây bệnh phát triển quá mức.
 
 ## Nguyên nhân
 
@@ -28,13 +28,13 @@ BV xảy ra khi có sự thay đổi về tỷ lệ vi khuẩn trong hệ vi sin
 
 Các yếu tố làm mất cân bằng hệ vi sinh âm đạo:
 
-- **Quan hệ tình dục không dùng bao cao su** hoặc có bạn tình mới: làm thay đổi hệ vi sinh từ bạn tình.
-- **Thói quen thụt rửa âm đạo (douching)**: trực tiếp làm rửa trôi Lactobacilli, nâng cao pH âm đạo.
-- **Sử dụng kháng sinh kéo dài**: tiêu diệt hại khuẩn nhưng cũng làm giảm Lactobacilli.
-- **Thói quen vệ sinh không đúng**: dùng dung dịch quá kiềm hoặc quá axit, mặc đồ lót ẩm ướt, chật.
-- **Hút thuốc lá**: liên quan đến giảm Lactobacilli và tăng nguy cơ BV.
-- **Mang thai**: do thay đổi nội tiết, tăng nguy cơ rối loạn pH.
-- **Nội tiết tố thay đổi (tháng kinh, mãn kinh)**: cũng có thể làm tăng pH âm đạo tạm thời.
+- **Quan hệ tình dục không dùng bao cao su** hoặc có bạn tình mới: Làm thay đổi hệ vi sinh từ bạn tình.
+- **Thói quen thụt rửa âm đạo (douching)**: Trực tiếp làm rửa trôi Lactobacilli, nâng cao pH âm đạo.
+- **Sử dụng kháng sinh kéo dài**: Tiêu diệt hại khuẩn nhưng cũng làm giảm Lactobacilli.
+- **Thói quen vệ sinh không đúng**: Dùng dung dịch quá kiềm hoặc quá axit, mặc đồ lót ẩm ướt, chật.
+- **Hút thuốc lá**: Liên quan đến giảm Lactobacilli và tăng nguy cơ BV.
+- **Mang thai**: Do thay đổi nội tiết, tăng nguy cơ rối loạn pH.
+- **Nội tiết tố thay đổi (tháng kinh, mãn kinh)**: Cũng có thể làm tăng pH âm đạo tạm thời.
 
 ## Đặc điểm
 
@@ -114,7 +114,7 @@ Theo Bệnh viện Từ Dũ, BV được chẩn đoán khi đủ **2/3** tiêu c
 
 ## Điều trị
 
-Mục tiêu: khôi phục cân bằng hệ vi sinh, giảm triệu chứng và ngăn ngừa biến chứng, đặc biệt ở phụ nữ mang thai.
+Mục tiêu: Khôi phục cân bằng hệ vi sinh, giảm triệu chứng và ngăn ngừa biến chứng, đặc biệt ở phụ nữ mang thai.
 
 ### Nguyên tắc
 
@@ -124,7 +124,7 @@ Mục tiêu: khôi phục cân bằng hệ vi sinh, giảm triệu chứng và n
 - **Thay đổi thói quen sinh hoạt**:
 
   - Tránh thụt rửa âm đạo;
-  - Áp dụng vệ sinh đúng cách: rửa nhẹ nhàng bằng nước ấm hoặc dung dịch pH trung tính;
+  - Áp dụng vệ sinh đúng cách: Rửa nhẹ nhàng bằng nước ấm hoặc dung dịch pH trung tính;
   - Sử dụng đồ lót thoáng, thấm hút tốt;
   - Hạn chế quan hệ tình dục không dùng bao cao su hoặc có nhiều bạn tình.
 
@@ -136,12 +136,12 @@ Mục tiêu: khôi phục cân bằng hệ vi sinh, giảm triệu chứng và n
 
 2. **BV không triệu chứng nhưng thuộc nhóm nguy cơ cao**:
 
-   - **Phụ nữ mang thai có nguy cơ cao sinh non** (ví dụ: tiền sử sinh non, viêm màng ối)
+   - **Phụ nữ mang thai có nguy cơ cao sinh non** (ví dụ: Tiền sử sinh non, viêm màng ối)
    - **Chuẩn bị phẫu thuật sản phụ khoa hoặc can thiệp âm đạo** (cắt tử cung, đặt dụng cụ tử cung...). Trong các trường hợp này, điều trị dự phòng có thể giảm tỷ lệ biến chứng viêm hậu phẫu và sinh non.
 
 3. **BV tái phát nhiều lần**:
 
-   - Nếu đã điều trị đúng phác đồ nhưng BV tái phát > 3 lần/năm, cần đánh giá thêm yếu tố nguy cơ: quan hệ tình dục không an toàn, thụt rửa, vệ sinh sai cách, cân nhắc bổ sung probiotic và theo dõi kỹ.
+   - Nếu đã điều trị đúng phác đồ nhưng BV tái phát > 3 lần/năm, cần đánh giá thêm yếu tố nguy cơ: Quan hệ tình dục không an toàn, thụt rửa, vệ sinh sai cách, cân nhắc bổ sung probiotic và theo dõi kỹ.
 
 :::caution
 
@@ -172,7 +172,7 @@ Metronidazole uống có thể gây khô miệng, vị kim loại, và nên trá
 Tỷ lệ tái phát sau điều trị cao:
 
 - Ngắn hạn (3 tháng): 15–30%.
-- Trung hạn (1 năm): có thể lên đến 70%.
+- Trung hạn (1 năm): Có thể lên đến 70%.
 
 Việc bổ sung **probiotic chứa Lactobacillus** sau điều trị có thể giúp giảm tỉ lệ tái phát.
 

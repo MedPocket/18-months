@@ -1,6 +1,6 @@
-// For details, see: https://hideoo.dev/notes/starlight-og-images
+// For details, see: Https://hideoo.dev/notes/starlight-og-images
 
-import { getCollection } from "astro:content";
+import { getCollection } from "astro:Content";
 import { OGImageRoute } from "astro-og-canvas";
 
 const entries = await getCollection("docs");
@@ -12,8 +12,8 @@ export const { getStaticPaths, GET } = OGImageRoute({
   param: "route",
   getImageOptions: (_path, page: (typeof pages)[number]) => {
     return {
-      title: page.data.title,
-      description: page.data.description,
+      title: Page.data.title,
+      description: Page.data.description,
       border: { width: 32, side: "inline-start" },
       padding: 80,
       bgImage: {

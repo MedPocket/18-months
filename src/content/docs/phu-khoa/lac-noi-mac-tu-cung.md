@@ -69,7 +69,7 @@ _Adenomyosis trên MRI._
 
 ### Lâm sàng
 
-Adenomyosis thường "ồn ào" triệu chứng: thống kinh, AUB-A, đau vùng chậu, đôi khi hiếm muộn.
+Adenomyosis thường "ồn ào" triệu chứng: Thống kinh, AUB-A, đau vùng chậu, đôi khi hiếm muộn.
 
 #### Thống kinh
 
@@ -91,16 +91,16 @@ Adenomyosis thường "ồn ào" triệu chứng: thống kinh, AUB-A, đau vùn
 
 #### Thực thể
 
-- Lạc nội mạc sâu: nốt xanh tím, sờ đau, nề cứng.
-- Lạc nội mạc buồng trứng: khối cạnh tử cung.
-- Adenomyosis: tử cung to, tròn, cứng như khối cầu.
+- Lạc nội mạc sâu: Nốt xanh tím, sờ đau, nề cứng.
+- Lạc nội mạc buồng trứng: Khối cạnh tử cung.
+- Adenomyosis: Tử cung to, tròn, cứng như khối cầu.
 
 ### Cận lâm sàng
 
 #### Siêu âm ngả âm đạo
 
-- Nang lạc nội mạc: phản âm kém, kính mờ.
-- Adenomyosis khu trú hoặc lan tỏa: phản âm sọc, vùng âm kém.
+- Nang lạc nội mạc: Phản âm kém, kính mờ.
+- Adenomyosis khu trú hoặc lan tỏa: Phản âm sọc, vùng âm kém.
 
 #### MRI
 
@@ -130,7 +130,7 @@ _Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)._
 
 ### Nguyên tắc
 
-- **Không triệu chứng**: chỉ theo dõi, không can thiệp.
+- **Không triệu chứng**: Chỉ theo dõi, không can thiệp.
 - **Cá thể hóa điều trị** dựa trên vấn đề chính của người bệnh:
 
   1. Đau bụng kinh (thống kinh).
@@ -174,7 +174,7 @@ _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh v
   - **Liều dùng**:
     - Ibuprofen 400 mg mỗi 4–6 giờ.
     - Naproxen 250 mg mỗi 8–12 giờ.
-  - **Chống chỉ định**: loét dạ dày, suy thận, hen phế quản nặng, bệnh tim mạch.
+  - **Chống chỉ định**: Loét dạ dày, suy thận, hen phế quản nặng, bệnh tim mạch.
 
 - **COCs (Estrogen–Progestin)**:
 
@@ -191,20 +191,20 @@ _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh v
 
   - **Chỉ định**: đau tái phát sau NSAIDs/COCs; phối hợp khi cường estrogen cục bộ nặng.
   - **Liều dùng**: Letrozole 2.5 mg/ngày, Anastrozole 1 mg/ngày.
-  - **Tác dụng phụ**: giảm mật độ xương, bốc hỏa, mệt mỏi.
+  - **Tác dụng phụ**: Giảm mật độ xương, bốc hỏa, mệt mỏi.
 
 - **Đồng vận GnRH**:
 
   - **Cơ chế**: ức chế trục HPA → giảm estrogen toàn thân.
-  - **Phối hợp**: luôn dùng add-back estrogen/progestin để bảo vệ xương.
+  - **Phối hợp**: Luôn dùng add-back estrogen/progestin để bảo vệ xương.
   - **Liều dùng**: Goserelin 3.6 mg tiêm bắp mỗi 28 ngày; Leuprolide 3.75 mg TM mỗi 28 ngày.
-  - **Hạn chế**: chỉ dùng tối đa 6 tháng nếu không có add-back; bốc hỏa, loãng xương.
+  - **Hạn chế**: Chỉ dùng tối đa 6 tháng nếu không có add-back; bốc hỏa, loãng xương.
 
 - **Progestin tại chỗ & toàn thân**:
 
   - **Progestin uống**: Dienogest 2 mg/ngày; Norethindrone 5–10 mg/ngày.
   - **IUS–LNG**: đặt 1 lần, tác dụng 5 năm.
-  - **Tác dụng**: teo nội mạc, giảm viêm; LNG-IUS còn giảm cường kinh.
+  - **Tác dụng**: Teo nội mạc, giảm viêm; LNG-IUS còn giảm cường kinh.
 
   :::caution
   Chọn progestin ít tác dụng toàn thân; ưu tiên LNG-IUS hoặc Dienogest nếu có AUB-A.
@@ -264,8 +264,8 @@ _Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau –
 ### Hiếm muộn
 
 - **Ưu tiên hiếm muộn** nếu kèm thống kinh nặng.
-- **Nội khoa**: không dùng liệu pháp ức chế buồng trứng trước IVF.
-- **Phẫu thuật**: bóc nang lạc nội mạc độ I–II nếu ảnh hưởng đến chức năng buồng trứng.
+- **Nội khoa**: Không dùng liệu pháp ức chế buồng trứng trước IVF.
+- **Phẫu thuật**: Bóc nang lạc nội mạc độ I–II nếu ảnh hưởng đến chức năng buồng trứng.
 - **ART**: IVF/ICSI khi vòi trứng tổn thương hoặc các biện pháp khác thất bại.
 - **Chuẩn bị**: GnRHa 3–6 tháng trước chuyển phôi có thể cải thiện tỉ lệ thành công.
 

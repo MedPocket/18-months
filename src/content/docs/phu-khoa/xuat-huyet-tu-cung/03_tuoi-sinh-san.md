@@ -42,7 +42,7 @@ _Nguyên nhân thuộc cấu trúc (PALM)._
 | ------------------------- | ------------------------------------------------------------------------------------ |
 | **C**oagulopathy          | Rối loạn đông máu (di truyền hoặc mắc phải)                                          |
 | **O**vulatory Dysfunction | Rối loạn phóng noãn (ví dụ: PCOS, thiếu hụt nội tiết)                                |
-| **E**ndometrial           | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: bất thường mạch máu nội mạc)             |
+| **E**ndometrial           | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: Bất thường mạch máu nội mạc)             |
 | **I**atrogenic            | Do thuốc hoặc các thủ thuật y tế (thiếu ốc chèn, dụng cụ tử cung, thuốc nội tiết...) |
 | **N**ot yet classified    | Nguyên nhân chưa rõ hoặc chưa phân loại được                                         |
 
@@ -70,13 +70,13 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
 
 ### Lâm sàng
 
-- **Tổng quát**: kiểm tra sinh hiệu, đánh giá mức độ thiếu máu (da niêm nhợt, mạch nhanh), dấu hiệu rối loạn đông (bầm tím, chảy máu chân răng).
-- **Khám dấu hiệu nội tiết**: cường androgen (mụn trứng cá, rậm lông, acanthosis nigricans), rối loạn tuyến giáp (bướu cổ, run tay), dấu hiệu Cushing (gầy yếu, vết rạn, mỡ bụng).
-- **Chỉ số BMI**: thừa cân/ béo phì gợi ý PCOS, kháng insulin.
+- **Tổng quát**: Kiểm tra sinh hiệu, đánh giá mức độ thiếu máu (da niêm nhợt, mạch nhanh), dấu hiệu rối loạn đông (bầm tím, chảy máu chân răng).
+- **Khám dấu hiệu nội tiết**: Cường androgen (mụn trứng cá, rậm lông, acanthosis nigricans), rối loạn tuyến giáp (bướu cổ, run tay), dấu hiệu Cushing (gầy yếu, vết rạn, mỡ bụng).
+- **Chỉ số BMI**: Thừa cân/ béo phì gợi ý PCOS, kháng insulin.
 - **Khám phụ khoa**:
 
   - Quan sát bên ngoài âm hộ, âm đạo để loại trừ tổn thương viêm nhiễm, loét, u.
-  - Khám âm đạo – cổ tử cung (nếu bệnh nhân cho phép): quan sát polyp, viêm cổ tử cung. Nếu chưa quan hệ, chỉ khám ngoài và siêu âm qua thành bụng hoặc đầu dò nhỏ.
+  - Khám âm đạo – cổ tử cung (nếu bệnh nhân cho phép): Quan sát polyp, viêm cổ tử cung. Nếu chưa quan hệ, chỉ khám ngoài và siêu âm qua thành bụng hoặc đầu dò nhỏ.
 
 ### Cận lâm sàng
 
@@ -91,10 +91,10 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
 - **Xét nghiệm nội tiết** (tùy theo lâm sàng, dấu hiệu và tuổi):
 
   - **Tuyến giáp**: TSH, T₄, FT₃ (loại trừ cường/ suy giáp).
-  - **Prolactin**: nếu có rối loạn kinh kéo dài, chảy sữa núm vú, dấu hiệu u tuyến yên.
+  - **Prolactin**: Nếu có rối loạn kinh kéo dài, chảy sữa núm vú, dấu hiệu u tuyến yên.
   - **LH, FSH, Estradiol**: đánh giá trục buồng trứng (đặc biệt ở tuổi thanh niên hoặc nghi rối loạn phóng noãn).
-  - **Testosterone, DHEA-S**: nếu nghi cường androgen (PCOS, u tiết androgen).
-  - **Glucose, Insulin**: nếu BMI > 25 kg/m² hoặc nghi kháng insulin.
+  - **Testosterone, DHEA-S**: Nếu nghi cường androgen (PCOS, u tiết androgen).
+  - **Glucose, Insulin**: Nếu BMI > 25 kg/m² hoặc nghi kháng insulin.
 
 #### Pap’s test (Pap smear)
 
@@ -123,7 +123,7 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
     - ≥ 5 mm cần đánh giá thêm (đặc biệt ≥ 8 mm hoặc có dày không đều nên nghi tăng sinh).
 
   - Hình thái nội mạc: đồng nhất hay không, có polyp, u xơ dưới niêm mạc, hình ảnh _chuỗi hạt_ PCOS (ở tuổi trẻ).
-  - Buồng trứng: u nang, u lạc nội mạc, PCOS.
+  - Buồng trứng: U nang, u lạc nội mạc, PCOS.
 
 - **Siêu âm bơm nước buồng tử cung (SIS)**:
 
@@ -133,7 +133,7 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
 #### Nội soi buồng tử cung
 
 - Chỉ định khi SIS hoặc TVUS không xác định rõ tổn thương, hoặc kết quả sinh thiết mù âm tính nhưng nghi ngờ tổn thương khu trú.
-- Lợi ích: quan sát trực tiếp nội mạc, lấy mẫu chính xác hoặc cắt bỏ polyp/u dưới niêm mạc.
+- Lợi ích: Quan sát trực tiếp nội mạc, lấy mẫu chính xác hoặc cắt bỏ polyp/u dưới niêm mạc.
 
 #### MRI
 
@@ -160,7 +160,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
 
 2. **Xử trí nguyên nhân**
 
-   - Nếu do nguyên nhân cấu trúc (PALM): loại bỏ polyp, cắt bỏ u xơ, điều trị lạc nội mạc cơ tử cung, xử lý tăng sinh/nội mạc.
+   - Nếu do nguyên nhân cấu trúc (PALM): Loại bỏ polyp, cắt bỏ u xơ, điều trị lạc nội mạc cơ tử cung, xử lý tăng sinh/nội mạc.
    - Nếu do rối loạn nội tiết (COEIN-O hoặc E): điều chỉnh steroid ngoại sinh, cân bằng estrogen-progestogen, cân nhắc GnRH đồng vận, SERM, SPRM.
    - Nếu do rối loạn đông (COEIN-C): điều trị rối loạn đông, phối hợp với chuyên khoa huyết học.
 
@@ -173,8 +173,8 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
    - **Tuổi bệnh nhân**:
 
      - < 35 tuổi: ưu tiên điều trị bảo tồn, mong muốn có thai.
-     - 35–45 tuổi: cân nhắc nguy cơ tăng sinh nội mạc, ung thư nội mạc.
-     - \> 45 tuổi: thăm khám, loại trừ tăng sinh/nội mạc, ung thư, cân nhắc điều trị triệt để (nạo, cắt tử cung).
+     - 35–45 tuổi: Cân nhắc nguy cơ tăng sinh nội mạc, ung thư nội mạc.
+     - \> 45 tuổi: Thăm khám, loại trừ tăng sinh/nội mạc, ung thư, cân nhắc điều trị triệt để (nạo, cắt tử cung).
 
    - **Mong muốn sinh con**:
 
@@ -218,7 +218,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
 
   - Medroxyprogesterone acetate 10–20 mg/ngày (ngày 14–25 chu kỳ hoặc 10–14 ngày mỗi tháng).
   - Dydrogesterone 10 mg × 2 lần/ngày (ngày 14–25 chu kỳ).
-  - Levonorgestrel IUD (LNG-IUD) phóng thích 20 µg/ngày: cầm máu hiệu quả, giảm tăng sinh nội mạc dài hạn.
+  - Levonorgestrel IUD (LNG-IUD) phóng thích 20 µg/ngày: Cầm máu hiệu quả, giảm tăng sinh nội mạc dài hạn.
 
 - **Liệu pháp phối hợp estrogen – progestogen (COC)**
 
@@ -252,13 +252,13 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
 
 1. **Nội soi buồng tử cung (Hysteroscopic surgery)**
 
-   - **Cắt polyp nội mạc**: loại bỏ polyp lành tính, hạn chế chảy máu và cải thiện sinh sản.
-   - **Cắt class u xơ dưới niêm mạc**: bóc tách khối u xơ chèn ép nội mạc, giảm chứng rong huyết.
-   - **Dính buồng tử cung**: nong tách và cắt dính, khôi phục buồng tử cung.
+   - **Cắt polyp nội mạc**: Loại bỏ polyp lành tính, hạn chế chảy máu và cải thiện sinh sản.
+   - **Cắt class u xơ dưới niêm mạc**: Bóc tách khối u xơ chèn ép nội mạc, giảm chứng rong huyết.
+   - **Dính buồng tử cung**: Nong tách và cắt dính, khôi phục buồng tử cung.
 
 2. **Đốt/vắc bỏ nội mạc tử cung (Endometrial ablation / resection)**
 
-   - Dùng các phương pháp: sóng vi sóng, laser, năng lượng radio, thòng lọng điện (resectoscope) để tiêu hủy lớp nội mạc tận gốc.
+   - Dùng các phương pháp: Sóng vi sóng, laser, năng lượng radio, thòng lọng điện (resectoscope) để tiêu hủy lớp nội mạc tận gốc.
    - Chỉ định cho phụ nữ đã đủ con và muốn điều trị triệt để AUB cơ năng hoặc tăng sinh nội mạc nhẹ.
    - Hạn chế:
 
@@ -268,7 +268,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
 3. **Thuyên tắc động mạch tử cung (Uterine artery embolization – UAE)**
 
    - Chỉ định chủ yếu cho u xơ tử cung gây chảy máu nặng, không muốn phẫu thuật, hoặc nguy cơ phẫu thuật cao.
-   - Phương pháp: bít tắc động mạch cung cấp máu cho cơ tử cung, làm khối u xơ teo nhỏ, giảm chảy máu.
+   - Phương pháp: Bít tắc động mạch cung cấp máu cho cơ tử cung, làm khối u xơ teo nhỏ, giảm chảy máu.
 
    :::caution
    Thuyên tắc động mạch tử cung có thể coi là biện pháp tương đương cắt tử cung về mặt triệt để cầm máu, nhưng giữ lại tử cung cho bệnh nhân.
@@ -282,7 +282,7 @@ _Tóm lược các khảo sát và chẩn đoán phân biệt của một trư�
      - Có kèm các bệnh lý thực thể nặng (u xơ lớn, loạn sản/ung thư nội mạc).
      - Bệnh nhân không còn nhu cầu sinh thêm con.
 
-   - Các đường mổ: mổ mở, nội soi, nội soi hỗ trợ qua âm đạo (TLH, LAVH, VH) tùy điều kiện.
+   - Các đường mổ: Mổ mở, nội soi, nội soi hỗ trợ qua âm đạo (TLH, LAVH, VH) tùy điều kiện.
 
 ## Nguồn tham khảo
 

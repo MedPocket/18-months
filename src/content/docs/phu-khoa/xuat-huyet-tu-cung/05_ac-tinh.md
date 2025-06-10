@@ -13,7 +13,7 @@ Xuất huyết tử cung bất thường do bệnh lý ác tính hay tiền ác 
 
 ### Tăng sinh nội mạc tử cung
 
-Tăng sinh nội mạc tử cung là tổn thương tiền ung thư, thường do nội mạc bị kích thích liên tục bởi estrogen mà không có progesterone đối kháng. Nguy cơ tiến triển thành ung thư nội mạc tùy theo đặc điểm giải phẫu bệnh. Chia thành bốn nhóm dựa trên hai yếu tố chính: thành phần tuyến/mô đệm (đơn giản hay phức tạp) và sự hiện diện của nhân không điển hình (có hoặc không):
+Tăng sinh nội mạc tử cung là tổn thương tiền ung thư, thường do nội mạc bị kích thích liên tục bởi estrogen mà không có progesterone đối kháng. Nguy cơ tiến triển thành ung thư nội mạc tùy theo đặc điểm giải phẫu bệnh. Chia thành bốn nhóm dựa trên hai yếu tố chính: Thành phần tuyến/mô đệm (đơn giản hay phức tạp) và sự hiện diện của nhân không điển hình (có hoặc không):
 
 - **Tăng sinh cổ điển (đơn giản)–điển hình**: Nguy cơ tiến triển thành ung thư nội mạc 1%. Mô bệnh học cho thấy biểu mô tuyến tăng sinh nhẹ, nhân tế bào vẫn bình thường. Thường gặp ở người có tình trạng phơi bày estrogen quá mức (béo phì, PCOS, estrogen ngoại sinh...).
 - **Tăng sinh phức tạp–điển hình**: Nguy cơ tiến triển thành ung thư 3%. Thể hiện qua mô tuyến tăng nhiều, tỷ lệ tuyến:mô đệm > 50%, các tuyến sắp xếp lộn xộn, nhưng nhân tế bào vẫn bình thường.
@@ -22,17 +22,17 @@ Tăng sinh nội mạc tử cung là tổn thương tiền ung thư, thường d
 
 Yếu tố nguy cơ của tăng sinh nội mạc tử cung:
 
-- **Tuổi dậy thì**: chu kỳ không phóng noãn kéo dài.
+- **Tuổi dậy thì**: Chu kỳ không phóng noãn kéo dài.
 - **Phụ nữ trẻ, tiền mãn kinh/quanh mãn kinh** (suy giảm progesterone của hoàng thể)
 
-  - Nội sinh: béo phì, u buồng trứng sản xuất estrogen, thiểu năng buồng trứng, PCOS.
-  - Ngoại sinh: dùng estrogen đơn thuần.
+  - Nội sinh: Béo phì, u buồng trứng sản xuất estrogen, thiểu năng buồng trứng, PCOS.
+  - Ngoại sinh: Dùng estrogen đơn thuần.
   - Kèm theo các bệnh lý toàn thân như đái tháo đường, tăng huyết áp.
 
 - **Hậu mãn kinh**
 
   - Dùng estrogen đơn thuần trong điều trị thay thế.
-  - Kích thích nội sinh (ví dụ: estrogen ngoại sinh hoặc từ mô mỡ).
+  - Kích thích nội sinh (ví dụ: Estrogen ngoại sinh hoặc từ mô mỡ).
   - Dùng tamoxifen.
 
 ### Ung thư nội mạc tử cung
@@ -77,7 +77,7 @@ Siêu âm đầu dò âm đạo (TVUS) là bước đầu tiên trong khảo sá
   - Ở phụ nữ tiền mãn kinh/mãn kinh: < 4–5 mm thường bình thường.
   - ≥ 5 mm ở phụ nữ mãn kinh (có chảy máu) cần đánh giá thêm.
 
-- Hình thái nội mạc: vùng echo dày, đồng nhất, bờ nhẵn.
+- Hình thái nội mạc: Vùng echo dày, đồng nhất, bờ nhẵn.
 - Phát hiện u nang buồng trứng, hình ảnh PCOS.
 
 Độ dày ≥ 4 mm ở mãn kinh hoặc ≥ 9 mm đầu kỳ kinh nguyệt gợi ý tăng sinh nội mạc.
@@ -92,7 +92,7 @@ Siêu âm đầu dò âm đạo (TVUS) là bước đầu tiên trong khảo sá
 #### Phương pháp hình ảnh khác
 
 - **CT bụng-chậu**: đánh giá giai đoạn lan rộng, hạch, di căn xa.
-- **MRI vùng chậu**: phân biệt u xơ, lạc nội mạc, sarcoma, xác định ranh giới khối u, xâm lấn xung quanh.
+- **MRI vùng chậu**: Phân biệt u xơ, lạc nội mạc, sarcoma, xác định ranh giới khối u, xâm lấn xung quanh.
 - Các kỹ thuật này chỉ dùng khi siêu âm không đủ thông tin hoặc nghi ngờ lan rộng.
 
 ### Xâm nhập
@@ -149,7 +149,7 @@ Cho phép quan sát trực tiếp buồng tử cung và sinh thiết tổn thư�
 - **Tăng sinh nội mạc tử cung**, dựa vào có/không tế bào không điển hình và mong muốn bảo tồn sinh sản:
 
   - Tăng sinh điển hình: ưu tiên điều trị progestin, tránh phẫu thuật nếu có thể.
-  - Tăng sinh không điển hình: progestin là chính, cân nhắc phẫu thuật nếu thất bại hoặc không bảo tồn được.
+  - Tăng sinh không điển hình: Progestin là chính, cân nhắc phẫu thuật nếu thất bại hoặc không bảo tồn được.
 
 ### Nội khoa
 
@@ -203,7 +203,7 @@ Chọn progestin với hoạt tính kháng estrogen mạnh. Tác dụng chính c
 
   - Sinh thiết sau 3 tháng điều trị; nếu còn tồn tại, tăng liều hoặc kéo dài thời gian điều trị.
   - Thời gian thoái triển trung bình 9 tháng; nếu còn tồn tại sau 7–9 tháng, tiên lượng thất bại cao (cân nhắc cắt tử cung).
-  - Sau khi mẫu bình thường: khuyến khích thụ thai sớm; nếu chưa, sinh thiết 6–12 tháng/lần.
+  - Sau khi mẫu bình thường: Khuyến khích thụ thai sớm; nếu chưa, sinh thiết 6–12 tháng/lần.
 
 ### Ngoại khoa
 

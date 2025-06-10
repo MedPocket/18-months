@@ -27,7 +27,7 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 - **Săng giang mai**:
 
   - Xuất hiện tại nơi xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn; có thể ở miệng khi quan hệ đường miệng).
-  - Hình thức: vết loét đơn hoặc ít, rìa gồ, nền cứng, không đau hoặc ít đau.
+  - Hình thức: Vết loét đơn hoặc ít, rìa gồ, nền cứng, không đau hoặc ít đau.
   - Xuất hiện sau 9–90 ngày (trung bình 21 ngày).
   - Tự lui sau 3–10 tuần mà không cần điều trị; nhiều người không để ý hoặc nhầm với vết loét lành tính.
 
@@ -41,8 +41,8 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 
 - **Tổn thương da**:
 
-  - Đào ban (maculopapular rash) đa dạng hình thái: dát, sẩn, hồng ban, lan toàn thân, thường xuất hiện ở lòng bàn tay, bàn chân (đặc trưng, đối xứng, không ngứa).
-  - Sẩn giang mai: sẩn đỏ hồng, hình bán cầu, đôi khi có viền vảy (viền vảy Biett), có thể giống vảy nến, mụn trứng cá, nốt thủy đậu.
+  - Đào ban (maculopapular rash) đa dạng hình thái: Dát, sẩn, hồng ban, lan toàn thân, thường xuất hiện ở lòng bàn tay, bàn chân (đặc trưng, đối xứng, không ngứa).
+  - Sẩn giang mai: Sẩn đỏ hồng, hình bán cầu, đôi khi có viền vảy (viền vảy Biett), có thể giống vảy nến, mụn trứng cá, nốt thủy đậu.
   - Xung huyết dưới da, trợt trợt, dễ chảy dịch.
 
 - **Tổn thương niêm mạc**:
@@ -75,7 +75,7 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 - **Giang mai thần kinh (Neurosyphilis)**:
 
   - Có thể xuất hiện bất kỳ giai đoạn nào, thậm chí từ vài tháng sau khi nhiễm.
-  - Triệu chứng sớm: viêm màng não mạn, thay đổi tâm thần (điên dại, lú lẫn), đột quỵ, viêm dây thần kinh sọ (liệt mặt, liệt dây VI), viêm võng mạc, viêm dây VIII (mất thính lực).
+  - Triệu chứng sớm: Viêm màng não mạn, thay đổi tâm thần (điên dại, lú lẫn), đột quỵ, viêm dây thần kinh sọ (liệt mặt, liệt dây VI), viêm võng mạc, viêm dây VIII (mất thính lực).
   - Triệu chứng muộn: Tabes dorsalis (viêm rễ thần kinh sau của tủy sống), mất cảm giác về vị trí, đau nhức kiểu "chích điện" (lightning pains), rối loạn bước đi, thần kinh tự chủ suy giảm (loạn tiểu tiện, chứng đái dầm).
 
 - **Giang mai tim mạch (Cardiovascular syphilis)**:
@@ -84,7 +84,7 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 
 - **Gôm giang mai (Gummatous syphilis)**:
 
-  - Thương tổn chắc ở hạ bì, tiến triển qua 4 giai đoạn: cục dưới da → ngày càng to, mềm, vỡ chảy dịch giống nhựa cao su → lên da non → tạo sẹo lõm.
+  - Thương tổn chắc ở hạ bì, tiến triển qua 4 giai đoạn: Cục dưới da → ngày càng to, mềm, vỡ chảy dịch giống nhựa cao su → lên da non → tạo sẹo lõm.
   - Có thể khu trú ở mặt, da đầu, mông, đùi, phần trên cẳng chân, niêm mạc miệng, vòm họng, hầu, mũi, hốc mũi, đôi khi gôm nội tạng (gan, phổi, xương, não).
 
 #### Giang mai bẩm sinh
@@ -97,7 +97,7 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 - **Biểu hiện giang mai bẩm sinh sớm (< 2 tuổi)**:
 
   - Thai lưu, sinh non, nhẹ cân.
-  - Trẻ sơ sinh: viêm kết mạc (chảy mủ mắt, sưng mí), viêm mũi ("snuffles" – hắt hơi, chảy máu mũi), gan lách to, viêm xương sụn (viêm xương Tính chất xơ → đau, sưng), viêm màng não, viêm màng tim, viêm da chảy dịch. Hạch ngoại vi sưng to.
+  - Trẻ sơ sinh: Viêm kết mạc (chảy mủ mắt, sưng mí), viêm mũi ("snuffles" – hắt hơi, chảy máu mũi), gan lách to, viêm xương sụn (viêm xương Tính chất xơ → đau, sưng), viêm màng não, viêm màng tim, viêm da chảy dịch. Hạch ngoại vi sưng to.
 
 - **Biểu hiện giang mai bẩm sinh muộn (> 2 tuổi)**:
 
@@ -176,7 +176,7 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
   1. **Xét nghiệm không đặc hiệu (+)** (RPR/VDRL) **và**
   2. **Xét nghiệm đặc hiệu (+)** (TPHA/TPPA/FTA-ABS)
 
-  - Hoặc: xét nghiệm nhanh đặc hiệu (+) kết hợp NAATs/PCR (+) hoặc soi kính hiển vi nền đen (+) với lâm sàng phù hợp.
+  - Hoặc: Xét nghiệm nhanh đặc hiệu (+) kết hợp NAATs/PCR (+) hoặc soi kính hiển vi nền đen (+) với lâm sàng phù hợp.
 
 - **Chẩn đoán dựa vào lâm sàng và dịch tễ** khi không có điều kiện xét nghiệm đầy đủ, cần điều trị khẩn và theo dõi xét nghiệm sau.
 
@@ -301,7 +301,7 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 
   - **Procain penicillin 50,000 Đơn vị/kg/ngày**, tiêm bắp sâu 1 liều/ngày x 10–15 ngày.
 
-- **Trẻ không triệu chứng** và mẹ đã điều trị đầy đủ trước sinh: chỉ cần theo dõi chặt chẽ, xét nghiệm huyết thanh định kỳ (tháng 1, 2, 3). Nếu xét nghiệm không đặc hiệu vẫn dương tính, điều trị phác đồ:
+- **Trẻ không triệu chứng** và mẹ đã điều trị đầy đủ trước sinh: Chỉ cần theo dõi chặt chẽ, xét nghiệm huyết thanh định kỳ (tháng 1, 2, 3). Nếu xét nghiệm không đặc hiệu vẫn dương tính, điều trị phác đồ:
 
   - **Benzathin penicillin G 50,000 Đơn vị/kg, tiêm bắp liều duy nhất** (nếu không có dấu hiệu lâm sàng).
 

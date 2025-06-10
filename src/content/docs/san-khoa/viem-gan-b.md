@@ -58,7 +58,7 @@ Phụ nữ viêm gan B mạn tính không xơ hóa tiến triển có thể trì
 - **Sau sinh**:
   - Tiêm HBIG cho trẻ trong 11–12 giờ đầu (trước 24 giờ).
   - Tiêm vaccine HBV mũi 1 cùng thời điểm (vị trí khác nhau).
-  - Hoàn thiện 3 mũi vaccine theo chương trình: tháng 2, 3 và 4.
+  - Hoàn thiện 3 mũi vaccine theo chương trình: Tháng 2, 3 và 4.
 - Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng để đánh giá hiệu quả.
 
 ## Phơi nhiễm

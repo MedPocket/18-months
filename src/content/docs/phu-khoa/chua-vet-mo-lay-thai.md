@@ -12,7 +12,7 @@ Chửa ở vết mổ lấy thai là một dạng thai ngoài tử cung hiếm g
 
 - Tiền căn mổ lấy thai.
 - Tiền căn rau bám chặt.
-- Phẫu thuật cơ tử cung: bóc u xơ, khâu tái tạo cơ tử cung, xử trí rau cài răng lược.
+- Phẫu thuật cơ tử cung: Bóc u xơ, khâu tái tạo cơ tử cung, xử trí rau cài răng lược.
 - Tiền sử thai ngoài tử cung.
 - Thụ tinh trong ống nghiệm (IVF).
 - Tiền sử nạo phá thai nhiều lần.
@@ -36,7 +36,7 @@ Chửa ở vết mổ lấy thai là một dạng thai ngoài tử cung hiếm g
 - Túi thai nằm giữa bàng quang và phần trước đoạn eo tử cung.
 - Lớp cơ giữa túi thai và bàng quang mỏng (1–3 mm) hoặc không thấy.
 - Không thấy túi thai trong buồng tử cung hay cổ tử cung.
-- Siêu âm Doppler 3D: hình ảnh phình mạch máu quanh túi thai, mất liên tục vách trước cơ tử cung.
+- Siêu âm Doppler 3D: Hình ảnh phình mạch máu quanh túi thai, mất liên tục vách trước cơ tử cung.
 
 #### Xét nghiệm khác
 
@@ -68,11 +68,11 @@ Trên mặt cắt dọc giữa tử cung:
 
 _Mối liên hệ thai và sẹo mổ lấy thai._
 
-- **COS-1**: túi thai nằm > 2/3 phía trên đường nối nội mạc tử cung → bám sâu vào cơ tử cung, nguy cơ vỡ tử cung cao.
-- **COS-2**: túi thai < 2/3 nằm trên đường nối nội mạc, chia nhỏ:
+- **COS-1**: Túi thai nằm > 2/3 phía trên đường nối nội mạc tử cung → bám sâu vào cơ tử cung, nguy cơ vỡ tử cung cao.
+- **COS-2**: Túi thai < 2/3 nằm trên đường nối nội mạc, chia nhỏ:
 
-  - **COS-2-**: có giao nhau với đường nối nội mạc tử cung.
-  - **COS-2+**: không giao nhau với đường nối nội mạc tử cung.
+  - **COS-2-**: Có giao nhau với đường nối nội mạc tử cung.
+  - **COS-2+**: Không giao nhau với đường nối nội mạc tử cung.
 
 ## Diễn tiến
 
@@ -99,7 +99,7 @@ _Mối liên hệ thai và sẹo mổ lấy thai._
 **Phác đồ**:
 
 - Thai lưu ≤ 8 tuần, β-hCG tăng → MTX 50mg tiêm bắp.
-- Thai chưa có tim: hút phôi dưới siêu âm, tiêm MTX tại chỗ và bắp (25mg + 25mg).
+- Thai chưa có tim: Hút phôi dưới siêu âm, tiêm MTX tại chỗ và bắp (25mg + 25mg).
 - Thai có tim:
 
   - Hút mô tim thai (nếu > 9 tuần).
@@ -188,7 +188,7 @@ _Phác đồ điều trị thai ở sẹo mổ lấy thai – Bệnh viện Từ
 
 - Tránh thai ít nhất 12–24 tháng.
 - Không sử dụng dụng cụ tử cung.
-- Thai kỳ sau: chủ động mổ lấy thai khi đủ tháng.
+- Thai kỳ sau: Chủ động mổ lấy thai khi đủ tháng.
 
 ## Nguồn tham khảo
 

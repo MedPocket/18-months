@@ -24,7 +24,7 @@ Cường giáp trong thai kỳ là tình trạng tuyến giáp hoạt động qu
 Các triệu chứng lâm sàng định hướng chẩn đoán:
 
 - Mạch lúc nghỉ > 100 lần/phút, không giảm nhiều sau nghiệm pháp Valsalva.
-- Biểu hiện ở mắt: lồi mắt, nhìn chằm chằm, phù quanh mắt (trong Graves).
+- Biểu hiện ở mắt: Lồi mắt, nhìn chằm chằm, phù quanh mắt (trong Graves).
 - Giảm cân, không tăng cân dù ăn nhiều.
 - Không chịu được nóng, vã mồ hôi.
 - Cận lâm sàng: **Tăng FT₄, giảm TSH**.
@@ -38,7 +38,7 @@ Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng *
 - **Iod phóng xạ bị chống chỉ định tuyệt đối trong thai kỳ.**
 - **Thioamides** là nhóm chính của thuốc kháng giáp, bao gồm:
   - **Propylthiouracil (PTU)**: ưu tiên dùng trong tam cá nguyệt đầu tiên.
-  - **Methimazole (Tapazole)**: có thể dùng sau tam cá nguyệt thứ nhất để giảm độc tính gan của PTU.
+  - **Methimazole (Tapazole)**: Có thể dùng sau tam cá nguyệt thứ nhất để giảm độc tính gan của PTU.
 
 :::caution
 
@@ -69,15 +69,15 @@ Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng *
 
 - **Sodium iodide** 1 g tiêm mạch để ức chế tiết hormone tuyến giáp.
 - **PTU** 1200–1800 mg/ngày chia liều để chặn tổng hợp và chuyển hóa T₄.
-- **Dexamethasone** 8 mg/ngày: ngăn nitrat hóa T₄.
-- **Propranolol** 20–80 mg mỗi 6 giờ: kiểm soát triệu chứng cường giao cảm.
+- **Dexamethasone** 8 mg/ngày: Ngăn nitrat hóa T₄.
+- **Propranolol** 20–80 mg mỗi 6 giờ: Kiểm soát triệu chứng cường giao cảm.
 - Bù dịch và hạ thân nhiệt.
 
 :::caution
 Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồn tại 2–3 tháng → khoảng **1% trẻ sơ sinh của mẹ Graves có nhiễm độc giáp**, nguy cơ tử vong lên đến 16%. Nghi ngờ khi:
 
 - Tim thai > 160 lần/phút kéo dài.
-- Siêu âm: phát hiện bướu giáp thai.
+- Siêu âm: Phát hiện bướu giáp thai.
   :::
 
 ## Nguồn tham khảo

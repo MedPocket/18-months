@@ -30,9 +30,9 @@ Tiếp theo đó:
 
 Nội mạc tử cung của mẹ, còn gọi là màng rụng, chia thành 3 phần (sẽ bong ra cùng rau khi sinh):
 
-1. Màng rụng rau: nằm giữa phôi và cơ tử cung.
-2. Màng rụng trứng: giữa phôi và khoang tử cung.
-3. Màng rụng tử cung: phần nội mạc còn lại.
+1. Màng rụng rau: Nằm giữa phôi và cơ tử cung.
+2. Màng rụng trứng: Giữa phôi và khoang tử cung.
+3. Màng rụng tử cung: Phần nội mạc còn lại.
 
 **Biến đổi của màng rụng rau**:
 
@@ -42,12 +42,12 @@ Nội mạc tử cung của mẹ, còn gọi là màng rụng, chia thành 3 ph�
 
 **Biến đổi của màng rụng tử cung**:
 
-- Phản ứng màng rụng: tế bào liên kết phình to, tích trữ chất dinh dưỡng → hình thành tế bào rụng → tạo lớp đặc.
-- Lớp sâu: các tuyến bị ép dẹt → tạo lớp xốp.
+- Phản ứng màng rụng: Tế bào liên kết phình to, tích trữ chất dinh dưỡng → hình thành tế bào rụng → tạo lớp đặc.
+- Lớp sâu: Các tuyến bị ép dẹt → tạo lớp xốp.
 
 **Biến đổi của màng rụng trứng**:
 
-- Tháng thứ 4: màng rụng trứng áp sát màng rụng tử cung, làm mất khoang tử cung.
+- Tháng thứ 4: Màng rụng trứng áp sát màng rụng tử cung, làm mất khoang tử cung.
 - Nửa sau thai kỳ: 4 lớp (màng ối, màng đệm, màng rụng trứng, màng rụng tử cung) hợp lại thành màng bọc thai.
 
 Rau hoàn chỉnh vào khoảng tháng thứ 4, có dạng hình đĩa, đường kính khoảng 20 cm, trọng lượng trung bình khoảng 500 g.
@@ -71,18 +71,18 @@ Chức năng:
 
 Rau thai là phần phụ của thai, giữ vai trò sống còn trong thai kỳ:
 
-- **Trao đổi chất**: cung cấp dinh dưỡng, nước, oxy, kháng thể, hormone từ mẹ sang thai; loại bỏ CO₂ và các chất thải từ thai về mẹ.
-- **Nội tiết**: tiết các hormone quan trọng như hCG (human chorionic gonadotropin), estrogen, progesterone...
-- **Miễn dịch**: truyền miễn dịch thụ động nhờ kháng thể từ máu mẹ qua hàng rào rau sang thai, bảo vệ thai nhi.
+- **Trao đổi chất**: Cung cấp dinh dưỡng, nước, oxy, kháng thể, hormone từ mẹ sang thai; loại bỏ CO₂ và các chất thải từ thai về mẹ.
+- **Nội tiết**: Tiết các hormone quan trọng như hCG (human chorionic gonadotropin), estrogen, progesterone...
+- **Miễn dịch**: Truyền miễn dịch thụ động nhờ kháng thể từ máu mẹ qua hàng rào rau sang thai, bảo vệ thai nhi.
 
-## Các bất thường liên quan
+## Bất thường liên quan
 
 Một số rối loạn thường gặp trong lâm sàng:
 
-- **Rau tiền đạo**: rau bám gần hoặc che lỗ trong cổ tử cung.
-- **Rau bong non**: rau bong ra sớm trước khi thai ra đời → gây chảy máu và suy thai.
-- **Rau cài răng lược**: gai rau xâm lấn quá sâu vào cơ tử cung, gây khó bong rau sau sinh.
-- **Rau không trọn (sót rau)**: phần rau còn sót lại trong tử cung sau sổ rau → nguy cơ băng huyết.
+- **Rau tiền đạo**: Rau bám gần hoặc che lỗ trong cổ tử cung.
+- **Rau bong non**: Rau bong ra sớm trước khi thai ra đời → gây chảy máu và suy thai.
+- **Rau cài răng lược**: Gai rau xâm lấn quá sâu vào cơ tử cung, gây khó bong rau sau sinh.
+- **Rau không trọn (sót rau)**: Phần rau còn sót lại trong tử cung sau sổ rau → nguy cơ băng huyết.
 
 ## Nguồn tham khảo
 

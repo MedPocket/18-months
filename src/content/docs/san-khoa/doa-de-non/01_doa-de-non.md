@@ -20,8 +20,8 @@ Tuổi thai tính theo tuần được chia như sau:
 
 Nguyên nhân sinh non chia làm hai nhóm chính:
 
-1. **Sinh non chỉ định** (20%): do các chỉ định y khoa như tiền sản giật, nhau tiền đạo, thai chậm tăng trưởng nặng gây suy thai.
-2. **Sinh non tự phát** (80%): thường do chuyển dạ sinh non hoặc vỡ ối non (PPROM - Preterm Premature Rupture Of Membranes).
+1. **Sinh non chỉ định** (20%): Do các chỉ định y khoa như tiền sản giật, nhau tiền đạo, thai chậm tăng trưởng nặng gây suy thai.
+2. **Sinh non tự phát** (80%): Thường do chuyển dạ sinh non hoặc vỡ ối non (PPROM - Preterm Premature Rupture Of Membranes).
 
 Các cơ chế bệnh sinh liên quan:
 
@@ -38,7 +38,7 @@ Các cơ chế bệnh sinh liên quan:
 - Hở eo cổ tử cung, cổ tử cung ngắn (< 25 mm), chấn thương cổ tử cung (khoét chóp).
 - Nhiễm trùng tiểu, nhiễm trùng âm đạo, nhiễm trùng ối.
 - Dị dạng tử cung, u xơ tử cung, vách ngăn tử cung.
-- Bất thường bánh rau: nhau bong non, nhau tiền đạo.
+- Bất thường bánh rau: Nhau bong non, nhau tiền đạo.
 - Khoảng cách giữa hai lần mang thai < 6 tháng.
 - Hút thuốc lá, sử dụng chất kích thích.
 - Tuổi mẹ < 17 hoặc > 35 tuổi.
@@ -74,14 +74,14 @@ Khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do tách màng
 
   _Chiều dài cổ tử cung._
 
-- Tuần 19–23 tuần 6 ngày: nên khảo sát định kỳ.
+- Tuần 19–23 tuần 6 ngày: Nên khảo sát định kỳ.
 - Tuần 24, nếu không triệu chứng mà cổ tử cung < 25 mm → nguy cơ sinh non tăng.
 - Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ 1%.
 
 ### Hình dạng lỗ tử cung
 
-- Cổ tử cung dạng U, Y: nguy cơ cao.
-- Dạng I (hình phễu nhẹ): tiên lượng tốt hơn.
+- Cổ tử cung dạng U, Y: Nguy cơ cao.
+- Dạng I (hình phễu nhẹ): Tiên lượng tốt hơn.
 
   ![Hình dạng lỗ tử cung](./_images/hinh-dang-lo-tu-cung.png)
 
@@ -89,26 +89,26 @@ Khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do tách màng
 
 ### Xét nghiệm sinh hóa
 
-- **Fetal Fibronectin (fFN)**: giá trị dự báo âm quan trọng, dự báo dương giới hạn.
-- **PAMG-1 (Placental α-microglobulin-1)**: tương tự fFN, nhưng khi (+) cho khả năng chuyển dạ gấp 4 lần so với fFN.
+- **Fetal Fibronectin (fFN)**: Giá trị dự báo âm quan trọng, dự báo dương giới hạn.
+- **PAMG-1 (Placental α-microglobulin-1)**: Tương tự fFN, nhưng khi (+) cho khả năng chuyển dạ gấp 4 lần so với fFN.
 
 ## Chẩn đoán
 
 ### Lâm sàng
 
-**Đơn thai**: co tử cung đều đặn (≥ 4 cơn/20 phút hoặc ≥ 8 cơn/60 phút) và:
+**Đơn thai**: Co tử cung đều đặn (≥ 4 cơn/20 phút hoặc ≥ 8 cơn/60 phút) và:
 
 - Cổ tử cung mở ≥ 3 cm.
 - Hoặc chiều dài cổ tử cung < 20 mm.
 - Hoặc chiều dài 20–< 30 mm kèm fFN (+).
 
-**Song thai**: co tử cung đều đặn (như trên) và:
+**Song thai**: Co tử cung đều đặn (như trên) và:
 
 - Cổ tử cung mở ≥ 3 cm.
 - Hoặc chiều dài cổ tử cung < 25 mm.
 - Hoặc chiều dài 25–< 35 mm kèm fFN (+).
 
-Biểu hiện kèm: ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng bụng, có thể vỡ ối non.
+Biểu hiện kèm: Ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng bụng, có thể vỡ ối non.
 
 ### Cận lâm sàng
 
@@ -135,7 +135,7 @@ Biểu hiện kèm: ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng 
 | -------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Đối vận với thụ thể oxytocin** | Đối vận với thụ thể của oxytocin trên cơ tử cung, ngăn cản tác dụng co cơ tử cung của oxytocin nội sinh | Hiện không có tác dụng phụ quan trọng được ghi nhận                                                                                                                               | Là thuốc duy nhất được dán nhãn (_labelled_) cho điều trị sinh non                                                               |
 | **Ức chế kênh calcium**          | Ngăn chặn Ca²⁺ đi vào tế bào                                                                            | Hạ huyết áp và nhức đầu; có thể làm giảm lưu lượng máu nhau-tử cung, giảm oxygen và tăng CO₂ ở thai nhi                                                                           | - Có thể làm nặng thêm tác dụng phụ của MgSO₄<br>- Không được dán nhãn cho điều trị sinh non<br>- Thường ít dùng do tác dụng phụ |
-| **Đồng vận β-adrenergic**        | Tăng nồng độ cAMP (_cyclic adenosine MonoPhosphate_) trong tế bào, làm giảm nồng độ calcium             | - Hạ huyết áp, nhịp tim nhanh, nặng ngực/đau ngực, thay đổi ECG<br>- Có thể gây phù phổi (đặc biệt khi quá tải tuần hoàn)<br>- Chống chỉ định tương đối: bệnh mạch vành, suy thận | - Salbutamol không được dán nhãn cho điều trị sinh non<br>- Dùng kéo dài không được xem là an toàn cho thai nhi                  |
+| **Đồng vận β-adrenergic**        | Tăng nồng độ cAMP (_cyclic adenosine MonoPhosphate_) trong tế bào, làm giảm nồng độ calcium             | - Hạ huyết áp, nhịp tim nhanh, nặng ngực/đau ngực, thay đổi ECG<br>- Có thể gây phù phổi (đặc biệt khi quá tải tuần hoàn)<br>- Chống chỉ định tương đối: Bệnh mạch vành, suy thận | - Salbutamol không được dán nhãn cho điều trị sinh non<br>- Dùng kéo dài không được xem là an toàn cho thai nhi                  |
 
 :::caution  
 Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều loại, hoặc sau 34 tuần.  
@@ -170,8 +170,8 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
   - **Bước 2**: Liều duy trì với lọ 1 còn 30.75 mg (4.1 mL) pha 36.9 mL Ringer lactate, truyền bơm tiêm điện 24 mL/h. Sau đó pha tiếp lọ 2 (37.5 mg/5 mL) trong 45 mL Ringer lactate, truyền 24 mL/h trong 3 giờ đầu.
   - **Bước 3**: Phần còn lại ở bước 2 (19 mL) truyền 8 mL/h. Sau đó pha lọ 3 (37.5 mg/5 mL) thành 50 mL Ringer lactate, truyền 8 mL/h. Thời gian dùng tối đa 45 giờ.
 
-- **Tác dụng phụ** thường nhẹ: buồn nôn, nhức đầu, chóng mặt, bừng nóng, nôn, nhịp tim nhanh, dị ứng thuốc.
-- **Theo dõi**: tim thai và cơn gò trên monitor trong 1 giờ đầu điều trị.
+- **Tác dụng phụ** thường nhẹ: Buồn nôn, nhức đầu, chóng mặt, bừng nóng, nôn, nhịp tim nhanh, dị ứng thuốc.
+- **Theo dõi**: Tim thai và cơn gò trên monitor trong 1 giờ đầu điều trị.
 
 #### Ức chế calcium
 
@@ -239,7 +239,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 ### Liệu pháp corticosteroids
 
 - Dự phòng hội chứng suy hô hấp cấp ở sơ sinh.
-- **Chỉ định**: sinh non dự kiến 24–34 tuần, có nguy cơ trong 7 ngày.
+- **Chỉ định**: Sinh non dự kiến 24–34 tuần, có nguy cơ trong 7 ngày.
 - **Liều dùng**:
 
   - Betamethasone 12 mg bắp × 2 liều cách 24 giờ.
@@ -254,8 +254,8 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
   - Thai 24–31 + 6 tuần có nguy cơ sinh non trong 24 giờ.
   - Dùng lý tưởng 4 giờ trước sinh khi có chỉ định chấm dứt thai kỳ.
 
-- **Chống chỉ định**: mẹ bị nhược cơ.
-- **Thận trọng**: mẹ có bệnh cơ tim hoặc rối loạn dẫn truyền nhịp.
+- **Chống chỉ định**: Mẹ bị nhược cơ.
+- **Thận trọng**: Mẹ có bệnh cơ tim hoặc rối loạn dẫn truyền nhịp.
 - **Liều dùng**:
 
   - MgSO₄ 4.5 g truyền TM chậm 20–30 phút.
@@ -277,7 +277,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 - Dùng cho thai phụ có cổ tử cung < 25 mm hoặc tiền sử sinh non.
 
-- **Tác dụng phụ**: mẹ có thể bị ứ mật trong thai kỳ.
+- **Tác dụng phụ**: Mẹ có thể bị ứ mật trong thai kỳ.
 
 ### Khâu vòng cổ tử cung
 

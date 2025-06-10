@@ -47,4 +47,4 @@ Bệnh nguyên bào nuôi thai kỳ (GTD) là nhóm bệnh có sự tăng sinh b
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning: Bệnh nguyên bào nuôi_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa: Bệnh nguyên bào nuôi_
 - FIGO Oncology Committee (2002) – _FIGO staging for gestational trophoblastic tumors_
-- Lurain JR (2010) – _Gestational trophoblastic disease II: classification and management of gestational trophoblastic neoplasia_
+- Lurain JR (2010) – _Gestational trophoblastic disease II: Classification and management of gestational trophoblastic neoplasia_

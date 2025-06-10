@@ -25,8 +25,8 @@ Giai đoạn 3 của chuyển dạ từ khi thai sổ đến khi rau bong và c�
 ### Sổ rau
 
 - Tử cung tái co bóp tống khối rau đã bong ra âm đạo.
-- **Kiểu Beaudelocque** (phổ biến): máu tụ trung tâm, rau phồng lên rồi tróc dần, mặt thai (fetal side) xuất trước.
-- **Kiểu Duncan** (ít gặp): máu tụ ở mép, rau bong kém, mặt mẹ (maternal side) xuất trước, mất máu nhiều.
+- **Kiểu Beaudelocque** (phổ biến): Máu tụ trung tâm, rau phồng lên rồi tróc dần, mặt thai (fetal side) xuất trước.
+- **Kiểu Duncan** (ít gặp): Máu tụ ở mép, rau bong kém, mặt mẹ (maternal side) xuất trước, mất máu nhiều.
 
   ![Thì sổ rau](./_images/xu-tri-tich-cuc-giai-doan-3/so-rau.png)
 

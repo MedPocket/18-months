@@ -14,9 +14,9 @@ Hội chứng buồng trứng đa nang (PCOS – Polycystic Ovary Syndrome) là 
 :::note[Tiêu chuẩn chẩn đoán buồng trứng đa nang]
 Theo Rotterdam 2003, chẩn đoán khi có ≥ 2/3 tiêu chí:.
 
-1. **Rối loạn phóng noãn**: kinh thưa (> 35 ngày hoặc < 8 lần/năm).
+1. **Rối loạn phóng noãn**: Kinh thưa (> 35 ngày hoặc < 8 lần/năm).
 2. **Cường androgen**:
-   - **Lâm sàng**: rậm lông (Ferriman–Gallwey), mụn trứng cá, hói đầu kiểu nam, béo phì trung tâm (BMI > 23 kg/m² hoặc vòng eo > 80 cm, WHR > 0.85).
+   - **Lâm sàng**: Rậm lông (Ferriman–Gallwey), mụn trứng cá, hói đầu kiểu nam, béo phì trung tâm (BMI > 23 kg/m² hoặc vòng eo > 80 cm, WHR > 0.85).
    - **Cận lâm sàng**: FTI (TT/SHBG × 100) > 6.
 3. **Buồng trứng đa nang**: ≥ 12 nang 2–9 mm trên mặt cắt **và/hoặc** thể tích > 10 mL.
    :::
@@ -27,8 +27,8 @@ Nếu chỉ có hình ảnh buồng trứng đa nang mà không có triệu ch�
 
 ## Bệnh sinh
 
-- **Kháng insulin**: tăng insulin → tăng androgen.
-- **Tăng LH/FSH**: tần số và biên độ xung LH tăng.
+- **Kháng insulin**: Tăng insulin → tăng androgen.
+- **Tăng LH/FSH**: Tần số và biên độ xung LH tăng.
 
 :::note[Tiêu chuẩn chẩn đoán hội chứng chuyển hóa]
 
@@ -56,7 +56,7 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 
 #### Rối loạn kinh nguyệt
 
-- **Progestogen đơn thuần**: dùng tối thiểu 12 ngày để giảm nguy cơ tăng sinh nội mạc tử cung và ung thư nội mạc tử cung.
+- **Progestogen đơn thuần**: Dùng tối thiểu 12 ngày để giảm nguy cơ tăng sinh nội mạc tử cung và ung thư nội mạc tử cung.
 - **Viên tránh thai kết hợp** (ethinyl estradiol + progestogen kháng androgen như cyproterone, drospirenone): điều hòa kinh nguyệt, giảm nguy cơ tăng sinh nội mạc tử cung.
 
 :::caution
@@ -72,7 +72,7 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 
 ### Mong có thai
 
-Mục tiêu: gây phóng noãn đơn noãn, gần với sinh lý, tránh quá kích buồng trứng và đa thai.
+Mục tiêu: Gây phóng noãn đơn noãn, gần với sinh lý, tránh quá kích buồng trứng và đa thai.
 
 #### Thay đổi lối sống
 
@@ -84,13 +84,13 @@ Mục tiêu: gây phóng noãn đơn noãn, gần với sinh lý, tránh quá k�
 - Lựa chọn đầu tay khi PCOS là nguyên nhân chính gây vô sinh và không có yếu tố phối hợp khác.
 - Liều khởi đầu: 50 mg/ngày × 5 ngày (ngày 2–5 chu kỳ)
 - Liều tối đa: 150 mg/ngày; không điều trị quá 6 chu kỳ liên tiếp hoặc > 12 chu kỳ suốt đời sinh sản.
-- Đề kháng CC: không phóng noãn sau 3–6 chu kỳ điều trị.
+- Đề kháng CC: Không phóng noãn sau 3–6 chu kỳ điều trị.
 
 #### Metformin (thuốc tăng nhạy cảm insulin)
 
 - Dùng cho người PCOS béo phì hoặc có rối loạn dung nạp đường.
 - Liều gợi ý: 500 mg × 3 lần/ngày trong 1 tháng, sau đó 500 mg × 2 lần/ngày trong 6 tháng.
-- Mục tiêu: cải thiện phóng noãn, giảm cân và giảm cường androgen.
+- Mục tiêu: Cải thiện phóng noãn, giảm cân và giảm cường androgen.
 
 #### Letrozole (chất ức chế men thơm hóa)
 

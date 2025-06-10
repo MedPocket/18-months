@@ -28,11 +28,11 @@ Tăng TSH, giảm FT₄, có thể giảm FT₃.
 - Suy giáp bẩm sinh
 
   - **Tỷ lệ suy giáp bẩm sinh**: 1/4000.
-  - Nguyên nhân: loạn sản tuyến giáp, rối loạn tổng hợp hormone, dùng thuốc kháng giáp trong thai kỳ.
-  - **Bướu giáp sơ sinh**: do mẹ dùng thuốc chứa iod (si rô ho, thuốc cản quang).
+  - Nguyên nhân: Loạn sản tuyến giáp, rối loạn tổng hợp hormone, dùng thuốc kháng giáp trong thai kỳ.
+  - **Bướu giáp sơ sinh**: Do mẹ dùng thuốc chứa iod (si rô ho, thuốc cản quang).
 
-    - Dạng bướu giáp do iod: to, dễ gây tắc nghẽn.
-    - Dạng do PTU: thường không quá lớn.
+    - Dạng bướu giáp do iod: To, dễ gây tắc nghẽn.
+    - Dạng do PTU: Thường không quá lớn.
 
 ## Điều trị
 

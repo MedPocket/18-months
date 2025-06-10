@@ -7,9 +7,9 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 
 ## Nguồn gốc
 
-- **Chủ yếu**: tế bào hội bào nuôi (syncytiotrophoblast) của bánh rau; giai đoạn <5 tuần còn từ nguyên bào nuôi (cytotrophoblast).
-- **Phụ**: thận, tuyến yên, một số mô khác → giải thích hCG tăng trong u tân sinh ngoài bánh rau.
-- **Mức nền**: rất thấp ở nam và nữ không có thai (nhiều khả năng từ tuyến yên trước).
+- **Chủ yếu**: Tế bào hội bào nuôi (syncytiotrophoblast) của bánh rau; giai đoạn <5 tuần còn từ nguyên bào nuôi (cytotrophoblast).
+- **Phụ**: Thận, tuyến yên, một số mô khác → giải thích hCG tăng trong u tân sinh ngoài bánh rau.
+- **Mức nền**: Rất thấp ở nam và nữ không có thai (nhiều khả năng từ tuyến yên trước).
 
 ## Sinh tổng hợp
 
@@ -26,7 +26,7 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 ## Chuyển hóa
 
 - **Bán thai**: 36 giờ (LH 20 phút) → duy trì tác dụng lâu dài.
-- **Thải trừ**: hCG nguyên vẹn, phân mảnh α/β, thoái giáng → phát hiện trong cả huyết thanh và nước tiểu.
+- **Thải trừ**: HCG nguyên vẹn, phân mảnh α/β, thoái giáng → phát hiện trong cả huyết thanh và nước tiểu.
 
 ## Chức năng
 
@@ -44,8 +44,8 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 
 - **Bình thường không có thai**: < 5 mIU/mL.
 - **Có thai**: > 25 mIU/mL (que thử 20–25 mIU/mL).
-- **Tăng gấp đôi**: mỗi 48 giờ trong 6 tuần đầu; đỉnh 8–10 tuần (100,000 mIU/mL); sau giảm đạt ổn định 16–20 tuần.
-- **Động học sau sảy thai**: giảm ≥ 21–35% mỗi 48 giờ; < 20% gợi ý sót rau hoặc thai ngoài tử cung.
+- **Tăng gấp đôi**: Mỗi 48 giờ trong 6 tuần đầu; đỉnh 8–10 tuần (100,000 mIU/mL); sau giảm đạt ổn định 16–20 tuần.
+- **Động học sau sảy thai**: Giảm ≥ 21–35% mỗi 48 giờ; < 20% gợi ý sót rau hoặc thai ngoài tử cung.
 
 ### Ngưỡng β-hCG
 

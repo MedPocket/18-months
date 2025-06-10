@@ -7,15 +7,15 @@ Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chi
 
 ## Buồng trứng và kho nang nguyên thủy
 
-- **Tuần 7 thai kỳ**: noãn nguyên bào (germ cell) từ túi noãn hoàng di chuyển vào ụ sinh dục, phân chia nguyên nhiễm nhanh chóng.
-- **Nang noãn nguyên thủy**: mỗi noãn nguyên bào được bọc quanh bởi lớp tế bào tùy hành (từ trung mô/phúc mạc). Vào giữa thai kỳ, toàn bộ noãn nguyên bào đồng loạt ngưng phân chia → nằm im trong nang nguyên thủy cho đến tuổi dậy thì.
+- **Tuần 7 thai kỳ**: Noãn nguyên bào (germ cell) từ túi noãn hoàng di chuyển vào ụ sinh dục, phân chia nguyên nhiễm nhanh chóng.
+- **Nang noãn nguyên thủy**: Mỗi noãn nguyên bào được bọc quanh bởi lớp tế bào tùy hành (từ trung mô/phúc mạc). Vào giữa thai kỳ, toàn bộ noãn nguyên bào đồng loạt ngưng phân chia → nằm im trong nang nguyên thủy cho đến tuổi dậy thì.
 
 ## Chiêu mộ nang noãn nguyên thủy
 
-- **Chiêu mộ nguyên khởi (Primordial Recruitment)**: mỗi đợt 400 nang nguyên thủy được đánh thức, độc lập với FSH/LH.
+- **Chiêu mộ nguyên khởi (Primordial Recruitment)**: Mỗi đợt 400 nang nguyên thủy được đánh thức, độc lập với FSH/LH.
 - **Cơ chế cận tiết**:
 
-  - **PTEN–PI3K–Akt**: cân bằng PTEN (ức chế) và PI3K (kích hoạt) quyết định nang nào "thức giấc".
+  - **PTEN–PI3K–Akt**: Cân bằng PTEN (ức chế) và PI3K (kích hoạt) quyết định nang nào "thức giấc".
   - **AMH** (từ tế bào hạt nang tiền hốc → nang hốc nhỏ) ức chế quá mức chiêu mộ, như "người gác cổng".
 
   ![Con đường PTEN/PI3K/AKT](./_images/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/con-duong-pten-pi3k-akt.png)
@@ -55,7 +55,7 @@ _Thuyết 2 tế bào, 2 hormone._
 
 | Giai đoạn nang           | Nguồn androgen              | Nguồn estrogen                                                | Phát triển                                                                               |
 | ------------------------ | --------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **Nang thứ cấp sớm**     | Tế bào vỏ (theca)           | Tế bào hạt: aromatase hóa androstenedione → estrone/estradiol | Nang nào nhiều tế bào hạt & thụ thể FSH hơn sẽ sinh estrogen nhiều hơn → cạnh tranh FSH  |
+| **Nang thứ cấp sớm**     | Tế bào vỏ (theca)           | Tế bào hạt: Aromatase hóa androstenedione → estrone/estradiol | Nang nào nhiều tế bào hạt & thụ thể FSH hơn sẽ sinh estrogen nhiều hơn → cạnh tranh FSH  |
 | **Nang de Graaf (chín)** | LH ↑ → tế bào vỏ → androgen | FSH ↑ → tế bào hạt → estradiol mạnh                           | Estradiol đạt ngưỡng & duy trì đủ lâu → phản hồi dương lên hạ đồi → đỉnh LH → phóng noãn |
 
 ## Phóng noãn và hoàng thể hóa
@@ -65,7 +65,7 @@ _Thuyết 2 tế bào, 2 hormone._
 _Tiến trình phát triển noãn nang._
 
 1. **Đỉnh LH** (phản hồi dương estradiol) → hoàn thành giảm nhiễm I, bắt đầu giảm nhiễm II → phóng noãn sau 36 giờ.
-2. **Hoàng thể**: tế bào vỏ + tế bào hạt chuyển sang hoàng thể → tiết **progesterone** & estradiol (đỉnh 7 ngày sau phóng noãn).
+2. **Hoàng thể**: Tế bào vỏ + tế bào hạt chuyển sang hoàng thể → tiết **progesterone** & estradiol (đỉnh 7 ngày sau phóng noãn).
 3. **Progesterone** → pha tiết nội mạc tử cung, ức chế GnRH/FSH/LH (phản hồi âm) → hoàng thể thoái triển → mức steroid giảm đột ngột → khởi động chu kỳ mới.
 
 ## Biến động hormone trong chu kỳ

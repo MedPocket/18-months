@@ -121,14 +121,14 @@ _Phân loại NIH (Mỹ)_
   :::caution
   Tiêu chuẩn để hóa trị:
 
-  - Ngày 1 và 2: bạch cầu ≥ 3000/mm³, bạch cầu đa nhân trung tính ≥ 1500/mm³.
-  - Ngày 8: bạch cầu ≥ 2000/mm³, bạch cầu đa nhân trung tính ≥ 1000/mm³.
+  - Ngày 1 và 2: Bạch cầu ≥ 3000/mm³, bạch cầu đa nhân trung tính ≥ 1500/mm³.
+  - Ngày 8: Bạch cầu ≥ 2000/mm³, bạch cầu đa nhân trung tính ≥ 1000/mm³.
 
   :::
 
 - **Nếu kháng EMA-CO** chuyển sang EP-EMA, BEP hoặc TP/TE:
 
-  - Sử dụng phác đồ EMA-EP hoặc EP-EMA: ngày điều trị CO được thay bằng EP:
+  - Sử dụng phác đồ EMA-EP hoặc EP-EMA: Ngày điều trị CO được thay bằng EP:
 
     - Cisplatin 70-80 mg pha 1L truyền TM hơn 12 giờ.
     - Etoposide 100 mg/m² da (150 mg/m² da) được truyền TM hơn 1h.
@@ -166,7 +166,7 @@ _Phân loại NIH (Mỹ)_
   - Cắt tử cung toàn phần ở người đã đủ con, băng huyết nặng hoặc khối kháng thuốc.
   - Bảo tồn khối u/khối chorio ở người trẻ mong con.
 
-- **Xạ trị**: cho di căn não, gan sâu.
+- **Xạ trị**: Cho di căn não, gan sâu.
 
 ### U nguyên bào nuôi thất bại hoặc kháng trị
 
@@ -241,7 +241,7 @@ _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị tr�
 
   ![Di căn phổi](./_images/choriocarcinoma-di-can-phoi-hinh-anh-tha-bong.png)
 
-  _Di căn phổi: hình ảnh bóng bay trên X-quang._
+  _Di căn phổi: Hình ảnh bóng bay trên X-quang._
 
 - **Thời gian theo dõi tối thiểu**: 5 năm.
 - **Thai kì trở lại**: ít nhất 2 năm sau khỏi; siêu âm + β-hCG sớm khi có thai.

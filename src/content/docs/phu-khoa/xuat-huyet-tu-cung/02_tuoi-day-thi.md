@@ -36,8 +36,8 @@ Hệ trục hạ đồi–tuyến yên–buồng trứng (HPG axis) ở tuổi d
 - **Lần hành kinh đầu tiên**: Bản chất là sự sụp đổ nội mạc tử cung do thiếu hụt steroid (cả estrogen và progesterone hoặc chỉ estrogen).
 - **Sau đó**:
 
-  - Nếu không có phóng noãn: nội mạc tiếp tục phát triển dưới tác dụng estrogen đơn độc → dày lên nhưng không phân tiết → đến lúc nào đó bong tróc không đồng đều → chảy máu không đều, kéo dài.
-  - Nếu có phóng noãn: nội mạc phát triển và phân tiết bình thường dưới tác động phối hợp estrogen–progesterone, nhưng tần suất phóng noãn không ổn định, vẫn có thể xuất huyết bất thường.
+  - Nếu không có phóng noãn: Nội mạc tiếp tục phát triển dưới tác dụng estrogen đơn độc → dày lên nhưng không phân tiết → đến lúc nào đó bong tróc không đồng đều → chảy máu không đều, kéo dài.
+  - Nếu có phóng noãn: Nội mạc phát triển và phân tiết bình thường dưới tác động phối hợp estrogen–progesterone, nhưng tần suất phóng noãn không ổn định, vẫn có thể xuất huyết bất thường.
 
 - **Thời gian xuất huyết** thường kéo dài trong 2–3 năm đầu sau khi có kinh nguyệt, với:
 
@@ -82,7 +82,7 @@ Chẩn đoán XHTC cơ năng tuổi dậy thì là chẩn đoán loại trừ. K
 
    - **Tổn thương u buồng trứng**:
 
-     - U tế bào vỏ-hạt (Granulosa–Theca cell tumor): sản xuất estrogen cục bộ → tăng sinh nội mạc.
+     - U tế bào vỏ-hạt (Granulosa–Theca cell tumor): Sản xuất estrogen cục bộ → tăng sinh nội mạc.
      - U tế bào mầm, u nang buồng trứng, nang hoàng thể bất thường...
 
    - **Bệnh lý tử cung**:
@@ -95,7 +95,7 @@ Chẩn đoán XHTC cơ năng tuổi dậy thì là chẩn đoán loại trừ. K
 
    - **Thai kỳ**:
 
-     - Mặc dù phóng noãn hiếm, nhưng không loại trừ khả năng có Thai(> 1%): cần đo β-hCG.
+     - Mặc dù phóng noãn hiếm, nhưng không loại trừ khả năng có Thai(> 1%): Cần đo β-hCG.
 
 3. **Rối loạn phóng noãn sinh lý tuổi dậy thì**
 
@@ -135,13 +135,13 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
 - **Tổng thể**:
 
   - Sinh hiệu (mạch, huyết áp), đánh giá tình trạng thiếu máu (da niêm nhợt, mạch nhanh).
-  - Dấu hiệu rối loạn đông máu: bầm tím, chảy máu chân răng, chảy máu mũi....
+  - Dấu hiệu rối loạn đông máu: Bầm tím, chảy máu chân răng, chảy máu mũi....
 
 - **Dấu hiệu rối loạn nội tiết**:
 
-  - **Cường androgen**: acanthosis nigricans, rậm lông (hirsutism), mụn trứng cá.
-  - **Tuyến giáp**: bướu cổ, dấu hiệu cường hoặc suy giáp (run, thay đổi cân nặng, tóc khô giòn...).
-  - **Thượng thận**: teo cơ, xanh xao, vết rạn da, tăng huyết áp gợi ý Cushing.
+  - **Cường androgen**: Acanthosis nigricans, rậm lông (hirsutism), mụn trứng cá.
+  - **Tuyến giáp**: Bướu cổ, dấu hiệu cường hoặc suy giáp (run, thay đổi cân nặng, tóc khô giòn...).
+  - **Thượng thận**: Teo cơ, xanh xao, vết rạn da, tăng huyết áp gợi ý Cushing.
 
 - **Chỉ số BMI**:
 
@@ -236,7 +236,7 @@ Chỉ định khi chảy máu do chu kỳ không phóng noãn, nội mạc dày 
 
    - Dydrogesterone 10 mg × 2 lần/ngày (sáng–tối) trong 10–14 ngày; hoặc
    - Lynestrenol 5 mg × 2 lần/ngày trong 10–14 ngày.
-   - Sau đó ngưng: bé gái có thể có hành kinh trong vài ngày kế tiếp.
+   - Sau đó ngưng: Bé gái có thể có hành kinh trong vài ngày kế tiếp.
 
 4. **Theo dõi sau điều trị**:
 
@@ -259,7 +259,7 @@ Chỉ định khi chảy máu nặng, mất máu nhiều, hoặc nội mạc bon
 2. **Chọn estrogen**:
 
    - _Ethinyl estradiol_ (từ viên COC) hoặc _Estrogen liên hợp_ (Premarin®) liều đủ cao.
-   - Liều tối ưu: tương đương Ethinyl estradiol 2 mg/ngày trong 7–10 ngày, không khuyến cáo liều càng cao càng tốt, vì tác dụng genomic cần thời gian.
+   - Liều tối ưu: Tương đương Ethinyl estradiol 2 mg/ngày trong 7–10 ngày, không khuyến cáo liều càng cao càng tốt, vì tác dụng genomic cần thời gian.
    - Cung cấp qua đường uống; thụt hậu môn hoặc truyền TM hiếm sử dụng ở lứa tuổi này.
 
 3. **Chọn progestogen**:

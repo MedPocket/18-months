@@ -27,8 +27,8 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
   - Đánh giá tổn thương nghi ngờ (sau khi phát hiện khối trên lâm sàng hoặc chẩn đoán hình ảnh ban đầu).
 - **Chỉ định**:
   - Tầm soát định kỳ cho phụ nữ từ 45–50 tuổi trở lên, năm một lần (theo khuyến cáo quốc tế).
-  - Phụ nữ 40–44 tuổi có nguy cơ trung bình: có thể khởi đầu nhũ ảnh nhưng cần cân nhắc cá nhân hóa.
-  - Phụ nữ có nguy cơ cao (gia đình có người đột biến BRCA, tiền sử xạ trị ngực sớm): bắt đầu sớm hơn, phối hợp MRI.
+  - Phụ nữ 40–44 tuổi có nguy cơ trung bình: Có thể khởi đầu nhũ ảnh nhưng cần cân nhắc cá nhân hóa.
+  - Phụ nữ có nguy cơ cao (gia đình có người đột biến BRCA, tiền sử xạ trị ngực sớm): Bắt đầu sớm hơn, phối hợp MRI.
   - Chẩn đoán khi phát hiện khối cục, tiết dịch, đau vú hoặc bất thường da quầng – núm.
 - **Quy trình**:
   - Nhũ ảnh kỹ thuật số toàn trường (Full Field Digital Mammography – FFDM) hiện là chuẩn mực, cho phép xử lý hình ảnh số, phóng to/thu nhỏ và cải thiện chất lượng quan sát.
@@ -52,13 +52,13 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
 
   ![Nhũ ảnh, phim MLO (trái) và phim CC (phải).](./_images/can-lam-sang-tuyen-vu/nhu-anh.png)
 
-  _Nhũ ảnh: phim MLO (trái) cho thấy mô vú và cơ ngực rõ, đặc biệt 1/4 trên ngoài. Phim CC (phải) cho thấy toàn bộ mô vú từ chân vú đến núm, cơ ngực lớn và túi Chassaignac._
+  _Nhũ ảnh: Phim MLO (trái) cho thấy mô vú và cơ ngực rõ, đặc biệt 1/4 trên ngoài. Phim CC (phải) cho thấy toàn bộ mô vú từ chân vú đến núm, cơ ngực lớn và túi Chassaignac._
 
 ## Siêu âm
 
 - Siêu âm tuyến vú sử dụng sóng âm tần số cao (7–12 MHz) để khảo sát tổn thương mô mềm.
 - **Ưu điểm**:
-  - Quan sát mô vú ở phụ nữ có đậm độ mô dày (độ dày mô > 50%): nhất là phụ nữ dưới 45 tuổi hoặc phụ nữ trẻ.
+  - Quan sát mô vú ở phụ nữ có đậm độ mô dày (độ dày mô > 50%): Nhất là phụ nữ dưới 45 tuổi hoặc phụ nữ trẻ.
   - Phân biệt nang – đặc (xác định đặc tính dịch bên trong khối).
   - Hướng dẫn sinh thiết nang hoặc u (FNA, core biopsy).
   - Không dùng tia X, an toàn cho phụ nữ mang thai hoặc cho con bú.
@@ -70,15 +70,15 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
   - Bệnh nhân nằm ngửa, hai tay đưa lên đầu để căng mô vú.
   - Thăm dò lần lượt theo các lát cắt:
     1. Lưới dọc – ngang (grid): để khảo sát toàn bộ vú theo từng hàng ngang.
-    2. Lát cắt hình nan hoa (radial) và hình tiếp tuyến (antiradial): theo hướng tia phóng xạ tỏa ra từ núm-vú, giúp phát hiện khối lồi ra hoặc tổn thương đậm đặc.
-    3. Khảo sát hạch nách: tìm hạch to, thay đổi cấu trúc, tăng sinh mạch máu (Doppler).
+    2. Lát cắt hình nan hoa (radial) và hình tiếp tuyến (antiradial): Theo hướng tia phóng xạ tỏa ra từ núm-vú, giúp phát hiện khối lồi ra hoặc tổn thương đậm đặc.
+    3. Khảo sát hạch nách: Tìm hạch to, thay đổi cấu trúc, tăng sinh mạch máu (Doppler).
 - **Hình ảnh đặc trưng**:
 
   - **Hình thái**: Tròn, bầu dục, tam giác, không đều.
   - **Bờ**: Trơn nhẵn (lành tính), hoặc không đều, xù xì (nghi ngờ ác tính).
   - **Phản âm**:
     - Tambống (cystic): áp âm, bóng lưng (posterior enhancement).
-    - Đậm đặc (solid): giảm âm, thu hồi đáy.
+    - Đậm đặc (solid): Giảm âm, thu hồi đáy.
     - Hỗn hợp (mixed).
   - **Doppler**: Tăng sinh mạch máu bất thường gợi ý ác tính.
 
@@ -107,9 +107,9 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
 - **Đánh giá tổn thương**:
 
   - **Đặc tính bắt thuốc (enhancement kinetics)**:
-    - **Wash-in nhanh – wash-out nhanh** (type III): nghi ngờ ác tính.
-    - **Wash-in chậm – tăng dần** (type I): gợi ý lành tính.
-    - **Wash-in nhanh – tăng dần** (type II): có thể là tổn thương giáp biên.
+    - **Wash-in nhanh – wash-out nhanh** (type III): Nghi ngờ ác tính.
+    - **Wash-in chậm – tăng dần** (type I): Gợi ý lành tính.
+    - **Wash-in nhanh – tăng dần** (type II): Có thể là tổn thương giáp biên.
   - **Phân loại theo BIRADS-MRI**: Từ 1 (bình thường) đến 6 (đã xác định u ác tính), giúp quyết định can thiệp tiếp theo.
 
   ![Cộng hưởng từ tuyến vú](./_images/can-lam-sang-tuyen-vu/cong-huong-tu-tuyen-vu.png)
@@ -128,7 +128,7 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
   - Tỷ lệ nghi ngờ hoặc âm tính giả cao (đặc biệt khối đặc, đậm đặc).
   - Phải kết hợp với lâm sàng, hình ảnh để đánh giá.
 - **Chỉ định**:
-  - BIRADS ≥ nhóm III (BIRADS 3: nghi ngờ thấp, có thể theo dõi; BIRADS ≥ 4: nghi ngờ ác tính).
+  - BIRADS ≥ nhóm III (BIRADS 3: Nghi ngờ thấp, có thể theo dõi; BIRADS ≥ 4: nghi ngờ ác tính).
   - Nang vú không điển hình (kích thước lớn, thành dày, có chồi nội dịch).
   - Tình huống cần chẩn đoán tế bào học để phân biệt lành – ác tính hoặc giảm áp nang (giảm đau).
   - Hạch nách to, nghi di căn trên siêu âm hoặc nhũ ảnh.
@@ -159,14 +159,14 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
   2. Gây tê tại vùng lấy mẫu.
   3. Luồn kim core (14–18G) vào khối, lấy trung bình 4–6 mẫu, mỗi mẫu dài 10–15 mm.
   4. Đặt marker (clip) nếu cần theo dõi tái phát hoặc phẫu thuật sau đó.
-  5. Gửi mẫu đến giải phẫu bệnh: nhuộm H&E, làm miễn dịch mô học (ER/PR/HER2) nếu ác tính.
+  5. Gửi mẫu đến giải phẫu bệnh: Nhuộm H&E, làm miễn dịch mô học (ER/PR/HER2) nếu ác tính.
 
 ## Sinh thiết mở (Open Biopsy)
 
 - Sinh thiết mở là phẫu thuật cắt bỏ hoàn toàn hoặc cắt mẫu tổn thương ra khỏi vú, dưới gây tê tại chỗ hoặc gây mê.
 - **Ưu điểm**:
   - Lấy đủ tổn thương để chẩn đoán đối với các khối khó tiếp cận bằng kim (liền vững, mảnh mai hoặc nằm sát thành ngực).
-  - Đánh giá toàn bộ khối: kích thước, rìa cắt, tính chất xâm lấn, phân độ giai đoạn.
+  - Đánh giá toàn bộ khối: Kích thước, rìa cắt, tính chất xâm lấn, phân độ giai đoạn.
 - **Nhược điểm**:
   - Xâm lấn cao, cần gây tê/mê, có nguy cơ sẹo, ảnh hưởng thẩm mỹ.
   - Chi phí và thời gian phục hồi dài hơn.
@@ -174,7 +174,7 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
   - Khi core biopsy không thực hiện được (u quá nông hoặc quá sâu, chảy máu khó cầm).
   - Khi có sự không tương đồng giữa kết quả hình ảnh và lâm sàng (ví dụ khối nghi ngờ ác tính trên nhũ ảnh, nhưng FNA và core đều âm tính).
   - Khối quá lớn (> 3–4 cm) nhưng cần cắt mẫu để đánh giá mô lan rộng.
-  - Để mở rộng điều trị: vừa chẩn đoán vừa cắt bỏ u (excisional biopsy).
+  - Để mở rộng điều trị: Vừa chẩn đoán vừa cắt bỏ u (excisional biopsy).
 
 ## GENE BRCA
 
@@ -189,11 +189,11 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
 - **Ý nghĩa**:
   - Phát hiện sớm, thực hiện tầm soát tích cực (nhũ ảnh + MRI) từ tuổi 25–30.
   - Cân nhắc phẫu thuật dự phòng (prophylactic mastectomy, oophorectomy).
-  - Hỗ trợ lựa chọn liệu pháp: kháng thuốc PARP inhibitor cho ung thư kháng liệu.
+  - Hỗ trợ lựa chọn liệu pháp: Kháng thuốc PARP inhibitor cho ung thư kháng liệu.
 - **Quy trình**:
   1. Tư vấn di truyền (genetic counseling) đánh giá lịch sử gia đình, nguy cơ cá nhân.
   2. Lấy mẫu máu/ni-tơ bạch cầu để phân tích đột biến BRCA1/BRCA2 (sequencing + MLPA).
-  3. Nếu dương tính: lập kế hoạch tầm soát, dự phòng và điều trị dài hạn.
+  3. Nếu dương tính: Lập kế hoạch tầm soát, dự phòng và điều trị dài hạn.
 
 ## Nguồn tham khảo
 

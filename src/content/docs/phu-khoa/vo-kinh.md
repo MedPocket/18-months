@@ -5,8 +5,8 @@ description: Định nghĩa, bệnh sinh, nguyên nhân, đánh giá chẩn đo�
 
 Vô kinh là hiện tượng không hành kinh trong khoảng thời gian quy định:
 
-- **Vô kinh nguyên phát**: chưa từng có kinh đến 18 tuổi, hoặc chưa có dấu hiệu dậy thì muộn (không phát triển vú) đến 13 tuổi.
-- **Vô kinh thứ phát**: từng có kinh nhưng sau đó mất kinh ≥ 3 tháng (nếu chu kỳ trước đó đều) hoặc ≥ 6 tháng (nếu chu kỳ không đều).
+- **Vô kinh nguyên phát**: Chưa từng có kinh đến 18 tuổi, hoặc chưa có dấu hiệu dậy thì muộn (không phát triển vú) đến 13 tuổi.
+- **Vô kinh thứ phát**: Từng có kinh nhưng sau đó mất kinh ≥ 3 tháng (nếu chu kỳ trước đó đều) hoặc ≥ 6 tháng (nếu chu kỳ không đều).
 
 ## Bệnh sinh
 
@@ -32,8 +32,8 @@ Nguyên nhân chính liên quan đến trục hạ đồi – yên – buồng t
 
 - **Rối loạn chức năng vùng dưới đồi**
 
-  - Giảm sản sinh GnRH: do thiếu hụt năng lượng (ăn kiêng quá mức, tập luyện nặng), stress, bệnh mạn tính.
-  - Rối loạn di truyền: thiếu hụt GnRH bẩm sinh, hội chứng Prader–Willi.
+  - Giảm sản sinh GnRH: Do thiếu hụt năng lượng (ăn kiêng quá mức, tập luyện nặng), stress, bệnh mạn tính.
+  - Rối loạn di truyền: Thiếu hụt GnRH bẩm sinh, hội chứng Prader–Willi.
   - Xâm lấn hoặc tổn thương (u, nhiễm lao, lymphoma, chấn thương sọ não, xạ trị).
 
 - **Rối loạn chức năng tuyến yên**
@@ -70,10 +70,10 @@ _Nguyên nhân vô kinh do rối loạn chức năng rụng trứng._
 
 Dòng chảy kinh nguyệt bị tắc nghẽn dù nội tiết bình thường:
 
-- **Bẩm sinh**: màng trinh không thủng, vách ngăn âm đạo, bất sản Müllerian.
+- **Bẩm sinh**: Màng trinh không thủng, vách ngăn âm đạo, bất sản Müllerian.
 - **Mắc phải**: Hội chứng Asherman (sẹo nội mạc), hẹp cổ tử cung, polyp, u xơ tắc nghẽn, lao nội mạc tử cung.
 
-Hậu quả: bế kinh (âm đạo/phúc mạc phồng), tích huyết tử cung (tử cung to, có thể nhầm khối vùng chậu).
+Hậu quả: Bế kinh (âm đạo/phúc mạc phồng), tích huyết tử cung (tử cung to, có thể nhầm khối vùng chậu).
 
 | Bất thường đường sinh dục | Ví dụ                                                                  |
 | ------------------------- | ---------------------------------------------------------------------- |
@@ -86,13 +86,13 @@ _Nguyên nhân vô kinh do bất thường đường sinh dục._
 
 ### Bệnh sử
 
-- **Nguyên phát**: chưa có kinh + ≥ 1 tiêu chí:
+- **Nguyên phát**: Chưa có kinh + ≥ 1 tiêu chí:
 
   - 13 tuổi không dấu hiệu dậy thì.
   - 3 năm sau xuất hiện nhú vú.
   - 15 tuổi chưa kinh dù phát triển giới tính bình thường.
 
-- **Thứ phát**: từng có kinh +
+- **Thứ phát**: Từng có kinh +
 
   - Mất ≥ 3 tháng (chu kỳ trước đều) hoặc ≥ 6 tháng (không đều).
   - < 9 kỳ/năm hoặc chu kỳ > 38 ngày.
@@ -108,10 +108,10 @@ _Nguyên nhân vô kinh do bất thường đường sinh dục._
 
 ### Lâm sàng
 
-- Đánh giá dấu hiệu dậy thì: giai đoạn Tanner.
-- Khám tuyến vú: tiết sữa.
+- Đánh giá dấu hiệu dậy thì: Giai đoạn Tanner.
+- Khám tuyến vú: Tiết sữa.
 - Khám vùng chậu: âm hộ, âm đạo, cổ tử cung, tử cung, buồng trứng.
-- Dấu hiệu nội tiết: nam hóa, rậm lông, sắc tố da (acanthosis nigricans), triệu chứng suy giáp/cường giáp.
+- Dấu hiệu nội tiết: Nam hóa, rậm lông, sắc tố da (acanthosis nigricans), triệu chứng suy giáp/cường giáp.
 - Sinh hiệu, BMI, dấu hiệu cảm ứng stress hay biếng ăn.
 
 ### Cận lâm sàng

@@ -32,7 +32,7 @@ The Society of Radiologists in Ultrasound Multispecialty Panel chẩn đoán tha
 Triệu chứng lâm sàng thường bao gồm ra **huyết âm đạo** và **đau bụng âm ỉ**.
 
 ![Thai ngưng phát triển](./_images/thai-that-bai-som/thai-ngung-phat-trien.png)  
-_Thai ngưng phát triển: phôi với CRL ≥ 7 mm không có tim phôi (xác nhận bằng phổ Doppler)._
+_Thai ngưng phát triển: Phôi với CRL ≥ 7 mm không có tim phôi (xác nhận bằng phổ Doppler)._
 
 Để **chẩn đoán trứng trống**, không đủ khi chỉ không thấy phôi hoặc túi noãn hoàng với MSD < 25 mm. **Phải có MSD ≥ 25 mm không thấy phôi hoặc túi noãn hoàng**.
 
@@ -86,11 +86,11 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 
   ![Túi ối nhỏ](./_images/thai-that-bai-som/doa-say-thai-luu-tui-oi-nho.png)
 
-  _Doạ sảy thai lưu: túi thai rất nhỏ, hiệu (MSD-CRL) <5mm. Túi thai rất nhỏ, (MSD-CRL) <5mm, có tụ máu dưới màng đệm._
+  _Doạ sảy thai lưu: Túi thai rất nhỏ, hiệu (MSD-CRL) <5mm. Túi thai rất nhỏ, (MSD-CRL) <5mm, có tụ máu dưới màng đệm._
 
   ![Túi ối giãn](./_images/thai-that-bai-som/doa-say-thai-luu-tui-oi-gian.png)
 
-  _Doạ sảy thai lưu: xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm._
+  _Doạ sảy thai lưu: Xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm._
 
 ### Sảy thai khó tránh
 
@@ -99,7 +99,7 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 
   ![Sảy thai khó tránh](./_images/thai-that-bai-som/say-thai-kho-tranh.png)
 
-  _Sảy thai khó tránh: thai vẫn nằm trong cổ tử cung, cổ tử cung mở._
+  _Sảy thai khó tránh: Thai vẫn nằm trong cổ tử cung, cổ tử cung mở._
 
 ### Sảy thai không trọn
 

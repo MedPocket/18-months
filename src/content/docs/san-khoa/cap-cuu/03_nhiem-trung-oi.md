@@ -3,7 +3,7 @@ title: Nhiễm trùng ối
 description: Nhiễm trùng ối (Intra-amniotic Infection - IAI) là tình trạng nhiễm trùng xảy ra ở một hoặc nhiều thành phần trong buồng ối như dịch ối, thai nhi, dây rốn, bánh rau hoặc màng đệm.
 ---
 
-Nhiễm trùng ối (intra-amniotic infection - IAI) được xác định khi có nhiễm trùng tại một hoặc nhiều cấu trúc trong buồng ối bao gồm: dịch ối, thai nhi, dây rốn, bánh rau, màng ối hoặc màng đệm.
+Nhiễm trùng ối (intra-amniotic infection - IAI) được xác định khi có nhiễm trùng tại một hoặc nhiều cấu trúc trong buồng ối bao gồm: Dịch ối, thai nhi, dây rốn, bánh rau, màng ối hoặc màng đệm.
 
 ## Nguyên nhân
 

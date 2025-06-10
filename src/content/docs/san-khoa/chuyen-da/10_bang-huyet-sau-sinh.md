@@ -13,8 +13,8 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 
 ## Phân loại
 
-- **PPH sớm**: trong 24 giờ đầu sau sinh.
-- **PPH muộn**: từ 24 giờ đến 12 tuần sau sinh.
+- **PPH sớm**: Trong 24 giờ đầu sau sinh.
+- **PPH muộn**: Từ 24 giờ đến 12 tuần sau sinh.
 
 ## Yếu tố nguy cơ
 
@@ -34,27 +34,27 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 
 ### Đờ tử cung
 
-- Cơ chế cầm máu cơ học thất bại: cơ đan chéo không co bóp, không siết được mạch máu diện rau.
-- Nguyên nhân: tử cung mệt sau chuyển dạ kéo dài, quá căng (thai to, đa thai, đa ối), nhiễm trùng, cơ tử cung suy yếu do đa sản.
-- **Chẩn đoán**: sờ bụng thấy tử cung mềm, nhão, không có "khối cầu an toàn" hoặc co chỉ khi xoa bóp.
+- Cơ chế cầm máu cơ học thất bại: Cơ đan chéo không co bóp, không siết được mạch máu diện rau.
+- Nguyên nhân: Tử cung mệt sau chuyển dạ kéo dài, quá căng (thai to, đa thai, đa ối), nhiễm trùng, cơ tử cung suy yếu do đa sản.
+- **Chẩn đoán**: Sờ bụng thấy tử cung mềm, nhão, không có "khối cầu an toàn" hoặc co chỉ khi xoa bóp.
 
 ### Tổn thương đường sinh dục
 
 - Rách âm hộ, tầng sinh môn, âm đạo, cổ tử cung.
-- Nguyên nhân: sinh nhanh, ngôi mông, dụng cụ, cổ tử cung mỏng...
-- **Xử trí**: khâu cầm máu kỹ, khám kỹ dưới hỗ trợ, dẫn lưu khối máu tụ nếu cần.
+- Nguyên nhân: Sinh nhanh, ngôi mông, dụng cụ, cổ tử cung mỏng...
+- **Xử trí**: Khâu cầm máu kỹ, khám kỹ dưới hỗ trợ, dẫn lưu khối máu tụ nếu cần.
 
 ### Rối loạn đông máu
 
 - Có sẵn (viêm gan nặng, HELLP, thiếu yếu tố đông máu) hoặc thứ phát (DIC do rau bong non, choáng phản vệ, thuyên tắc ối).
 - Chu trình mất máu → tiêu hao yếu tố đông → PPH nặng hơn.
-- **Xử trí**: bù yếu tố thiếu (TC, FFP, cryo), tầm soát DIC.
+- **Xử trí**: Bù yếu tố thiếu (TC, FFP, cryo), tầm soát DIC.
 
 ### Sót rau và lộn tử cung
 
-- **Sót rau**: sót múi rau hoặc rau cài răng lược → đờ tử cung, chảy máu liên tục.
+- **Sót rau**: Sót múi rau hoặc rau cài răng lược → đờ tử cung, chảy máu liên tục.
 
-  - **Xử trí**: lấy rau sót, hút nạo, kiểm tra siêu âm.
+  - **Xử trí**: Lấy rau sót, hút nạo, kiểm tra siêu âm.
 
 - **Lộn tử cung**: đáy tử cung lộn ngược qua cổ tử cung.
 
@@ -82,7 +82,7 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 
    - Xoa đáy tử cung ngay.
    - Thuốc tăng co: Oxytocin, Methylergonovine, PGF₂α, Misoprostol.
-   - Nếu thất bại: bóng chèn buồng tử cung, khâu B-Lynch, thắt động mạch tử cung, cắt tử cung.
+   - Nếu thất bại: Bóng chèn buồng tử cung, khâu B-Lynch, thắt động mạch tử cung, cắt tử cung.
 
 2. **Tổn thương đường sinh dục**
 

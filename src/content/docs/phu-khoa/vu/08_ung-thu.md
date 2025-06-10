@@ -108,7 +108,7 @@ Theo khuyến cáo của ACOG (2017):
   - Đau ảnh hưởng chất lượng cuộc sống (mastodynia).
 - **Tiết dịch núm vú**:
   - Cần phân biệt tiết dịch 1 hay 2 bên, màu sắc (trong, vàng, máu) và độ quánh.
-  - Nghiêm trọng nếu: người ≥ 50 tuổi tiết dịch; tiết dịch 1 bên ở người < 50 tuổi; tiết dịch lẫn máu; kèm co rút/núm vú biến dạng.
+  - Nghiêm trọng nếu: Người ≥ 50 tuổi tiết dịch; tiết dịch 1 bên ở người < 50 tuổi; tiết dịch lẫn máu; kèm co rút/núm vú biến dạng.
 
 ### Chẩn đoán hình ảnh
 
@@ -391,7 +391,7 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
 
 - **Hỗ trợ giảm đau và chăm sóc vết mổ**:
 
-  - Theo dõi biến chứng thường gặp: tụ dịch, nhiễm trùng, hoại tử vạt da.
+  - Theo dõi biến chứng thường gặp: Tụ dịch, nhiễm trùng, hoại tử vạt da.
   - Hướng dẫn vận động, vật lý trị liệu để tránh phù bạch huyết (lymphedema).
 
 ### Xạ trị

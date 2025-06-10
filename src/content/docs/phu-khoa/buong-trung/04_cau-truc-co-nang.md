@@ -26,8 +26,8 @@ Các cấu trúc này tự thoái lui khi yếu tố kích thích biến mất. 
 ## Nang noãn nang
 
 - Là nang noãn không trưởng thành và không phóng noãn. Nang tiếp tục tăng kích thước, sản xuất steroid bất thường.
-- **Nguyên nhân**: phản hồi steroid bị triệt tiêu (ví dụ dậy thì, quanh mãn kinh, steroid ngoại sinh, stress).
-- **Cấu trúc**: thành lót tế bào hạt xung quanh tế bào vỏ, lòng nang chứa estrogen; đôi khi chỉ còn tế bào vỏ nếu tế bào hạt tróc rời; nang có thể đạt 5–8 cm, tồn tại xuyên chu kỳ.
+- **Nguyên nhân**: Phản hồi steroid bị triệt tiêu (ví dụ dậy thì, quanh mãn kinh, steroid ngoại sinh, stress).
+- **Cấu trúc**: Thành lót tế bào hạt xung quanh tế bào vỏ, lòng nang chứa estrogen; đôi khi chỉ còn tế bào vỏ nếu tế bào hạt tróc rời; nang có thể đạt 5–8 cm, tồn tại xuyên chu kỳ.
 
   ![Nang noãn nang trên siêu âm](./_images/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-noan-nang-tren-sieu-am.png)
 
@@ -58,7 +58,7 @@ Các cấu trúc này tự thoái lui khi yếu tố kích thích biến mất. 
 1. **Hoàng thể tồn lưu**
 
    - Progesterone không ức chế LH đủ, hoàng thể phì đại, sản xuất progesterone không ổn định dẫn đến trễ kinh, đau hạ vị âm ỉ, rong huyết, thăm khám thấy khối phần phụ mềm. Triệu chứng giống thai ngoài tử cung nhưng β-hCG âm tính.
-   - **Nguyên nhân**: rối loạn feedback progesterone lên hạ đồi (có thể tạm thời hoặc kéo dài).
+   - **Nguyên nhân**: Rối loạn feedback progesterone lên hạ đồi (có thể tạm thời hoặc kéo dài).
    - **Điều trị**: COC giữ cho trục hạ đồi-yên nghỉ ngơi.
 
 2. **Hoàng thể xuất huyết**
@@ -66,7 +66,7 @@ Các cấu trúc này tự thoái lui khi yếu tố kích thích biến mất. 
    - Khi hình thành hoàng thể, mạch máu xâm nhập lòng nang, xuất huyết thường tự cầm. Nếu xuất huyết không giới hạn, hoàng thể to > 3 cm.
    - Nếu vỡ nang, có thể chảy máu ổ bụng, cần phẫu thuật cầm máu. Nếu chỉ căng nang, gây đau, xử trí giảm đau và theo dõi.
    - Bệnh nhân không dùng COC, có kinh đều, đau cấp hạ vị ở pha hoàng thể. Một số hiếm chảy máu nhiều cần mổ.
-   - **Nhóm nguy cơ**: người dùng thuốc chống đông hoặc rối loạn đông máu.
+   - **Nhóm nguy cơ**: Người dùng thuốc chống đông hoặc rối loạn đông máu.
 
 ## Nang hoàng tuyến
 

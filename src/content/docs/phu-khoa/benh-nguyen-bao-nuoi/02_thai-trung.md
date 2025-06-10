@@ -7,7 +7,7 @@ Thai trứng là tình trạng gặp trong 1/200–1/1000 ca thai nghén, do b�
 
 ## Yếu tố nguy cơ
 
-- **Độ tuổi**: cao ở < 20 tuổi và > 40 tuổi.
+- **Độ tuổi**: Cao ở < 20 tuổi và > 40 tuổi.
 - **Yếu tố nguy cơ**:
 
   - Mang thai lần đầu.
@@ -29,12 +29,12 @@ Thai trứng là tình trạng gặp trong 1/200–1/1000 ca thai nghén, do b�
 
 ## Mô học
 
-- **Đại thể**: tử cung to hơn tuổi thai, mô rau biến thành túi nang nước nhỏ như chùm nho.
-- **Vi thể**: gai rau phồng to chứa dịch, hóa nang, phủ bởi lớp nguyên bào nuôi tăng sinh.
+- **Đại thể**: Tử cung to hơn tuổi thai, mô rau biến thành túi nang nước nhỏ như chùm nho.
+- **Vi thể**: Gai rau phồng to chứa dịch, hóa nang, phủ bởi lớp nguyên bào nuôi tăng sinh.
 - **Phân biệt**:
 
-  - Toàn phần: không có mô phôi, gai rau đồng đều phồng nang.
-  - Bán phần: có mô phôi/phôi thai, gai rau chỉ thoái hóa một phần, có cấu trúc nhung mao hỗn hợp.
+  - Toàn phần: Không có mô phôi, gai rau đồng đều phồng nang.
+  - Bán phần: Có mô phôi/phôi thai, gai rau chỉ thoái hóa một phần, có cấu trúc nhung mao hỗn hợp.
 
 ## Diễn biến
 
@@ -52,10 +52,10 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 ### Lâm sàng
 
-- **Chảy máu âm đạo**: rong huyết, thường xuất hiện 6–16 tuần.
-- **Tử cung to nhanh**: kích thước > tuổi thai.
-- **Nghén nặng**: buồn nôn, nôn ói do β-hCG rất cao.
-- **Triệu chứng hiếm**: cường giáp, tiền sản giật sớm, nang buồng trứng dạng luteoma.
+- **Chảy máu âm đạo**: Rong huyết, thường xuất hiện 6–16 tuần.
+- **Tử cung to nhanh**: Kích thước > tuổi thai.
+- **Nghén nặng**: Buồn nôn, nôn ói do β-hCG rất cao.
+- **Triệu chứng hiếm**: Cường giáp, tiền sản giật sớm, nang buồng trứng dạng luteoma.
 
 ### Cận lâm sàng
 
@@ -67,7 +67,7 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
   _Hình ảnh siêu âm thai trứng toàn phần._
 
-- **Thai trứng bán phần**: hình ảnh nang nước không đồng nhất, có thể kèm túi thai hoặc phôi thoái hóa.
+- **Thai trứng bán phần**: Hình ảnh nang nước không đồng nhất, có thể kèm túi thai hoặc phôi thoái hóa.
 
   ![Hình ảnh siêu âm thai trứng bán phần](./_images/hinh-anh-sieu-am-thai-trung-ban-phan.png)
 
@@ -96,7 +96,7 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 ### Nạo hút buồng tử cung
 
 - **Mọi trường hợp** thai trứng toàn phần hoặc thai trứng bán phần đều cần hút nạo kết hợp hút chân không.
-- Chuẩn bị: kháng sinh dự phòng, mê tĩnh mạch, truyền dịch, misoprostol/nong cổ tử cung, oxytocin.
+- Chuẩn bị: Kháng sinh dự phòng, mê tĩnh mạch, truyền dịch, misoprostol/nong cổ tử cung, oxytocin.
 - Nếu còn mô trứng sau 48–72 giờ, cần nạo lại.
 
 ### Cắt tử cung
@@ -133,13 +133,13 @@ Không sử dụng hóa trị khi:
     - Kháng sinh, vitamin.
     - Truyền dịch và bù điện giải.
 
-  - Nhiễm độc da: rụng tóc, tăng dị ứng mẫn cảm.
+  - Nhiễm độc da: Rụng tóc, tăng dị ứng mẫn cảm.
   - Sử dụng kháng histamin và corticoid nếu có dị ứng:
 
     - Ngưng hóa trị nếu men gan > 100IU/L.
     - Thuốc bảo vệ tế bào gan: Biphenyl dimethyl dicarrboxylat.
 
-- Theo dõi chặt: không hóa dự phòng nếu bệnh nhân có thể tuân thủ theo dõi β-hCG nghiêm ngặt.
+- Theo dõi chặt: Không hóa dự phòng nếu bệnh nhân có thể tuân thủ theo dõi β-hCG nghiêm ngặt.
 
 ![Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-1-nguyen-tac-xu-tri-thai-trung.png)
 
@@ -156,7 +156,7 @@ _Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh viện Từ Dũ._
 1. Định lượng β-hCG mỗi tuần sau hút nạo đến khi âm tính 3 lần liên tiếp.
 2. Sau đó mỗi tháng trong 6 tháng (bán phần) hoặc 12 tháng (toàn phần).
 3. Giảm theo dõi nếu β-hCG về âm tính trong vòng 56 ngày.
-4. Theo dõi lâm sàng: siêu âm, khám phụ khoa, khảo sát di căn khi nghi.
+4. Theo dõi lâm sàng: Siêu âm, khám phụ khoa, khảo sát di căn khi nghi.
 
 ## Trong thai kỳ
 
@@ -169,4 +169,4 @@ _Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh viện Từ Dũ._
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning: Bệnh nguyên bào nuôi_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa: Thai trứng_
 - FIGO Oncology Committee (2002) – _FIGO staging for gestational trophoblastic tumors_
-- Lurain JR (2010) – _Gestational trophoblastic disease II: classification and management_
+- Lurain JR (2010) – _Gestational trophoblastic disease II: Classification and management_

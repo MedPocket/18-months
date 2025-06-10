@@ -14,7 +14,7 @@ Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm
 
 ![Yếu tố nguy cơ viêm âm đạo do nấm](./_images/viem-am-dao-do-nam/yeu-to-nguy-co-cua-nam.png)
 
-_3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (microbiome) và hệ vi nấm (mycobiome): tổn thương niêm mạc, kháng sinh và rối loạn miễn dịch._
+_3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (microbiome) và hệ vi nấm (mycobiome): Tổn thương niêm mạc, kháng sinh và rối loạn miễn dịch._
 
 1. **Tổn thương niêm mạc âm đạo**: Trầy xước, viêm loét do quan hệ tình dục thô bạo, thủ thuật y khoa, hoặc kích ứng hóa chất.
 2. **Sử dụng kháng sinh**: Kháng sinh diệt vi khuẩn nhưng cũng tiêu diệt Lactobacilli bảo vệ, tạo điều kiện cho nấm phát triển.

@@ -49,9 +49,9 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 
 - Glucid chiếm 55–60% tổng năng lượng, ưu tiên ngũ cốc nguyên hạt, gạo lứt.
 - Ăn ≥ 400 g rau củ/ngày, 15–20 loại thực phẩm khác nhau.
-- Ăn nhiều bữa nhỏ: mỗi bữa chính 25–30% năng lượng, bữa phụ 10%.
+- Ăn nhiều bữa nhỏ: Mỗi bữa chính 25–30% năng lượng, bữa phụ 10%.
 - Hạn chế thực phẩm GI > 70 (bánh kẹo, trái cây sấy, nước ngọt).
-- Tăng cường protein nạc: thịt nạc, cá, đậu phụ, sữa chua ít béo.
+- Tăng cường protein nạc: Thịt nạc, cá, đậu phụ, sữa chua ít béo.
 
 ### Thai phụ mắc GDM
 
@@ -95,12 +95,12 @@ _Phân bố bữa ăn._
 #### Hoạt động thể chất
 
 - **Loại hình**: đi bộ, yoga, bơi, tập cơ bản sau ăn.
-- **Cường độ**: trung bình, không gây mệt quá sức; giám sát y tế nếu có biến chứng (nhau tiền đạo, dọa sinh non).
+- **Cường độ**: Trung bình, không gây mệt quá sức; giám sát y tế nếu có biến chứng (nhau tiền đạo, dọa sinh non).
 - **Thời gian**: ≥ 30 phút/ngày hoặc 150 phút/tuần.
 
 ## Theo dõi
 
-- **Ghi sổ**: kết quả đường huyết mao mạch (lúc đói, 1 giờ sau ăn).
+- **Ghi sổ**: Kết quả đường huyết mao mạch (lúc đói, 1 giờ sau ăn).
 - **Đánh giá sau 1–2 tuần** MNT:
   - ≥ 50% giá trị đạt mục tiêu → tiếp tục MNT và vận động.
   - < 50% → cân nhắc bắt đầu insulin.

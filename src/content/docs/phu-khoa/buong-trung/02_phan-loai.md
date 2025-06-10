@@ -86,8 +86,8 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
   - Lót bởi tế bào trụ thấp, giống biểu mô vòi trứng.
   - Có thể lành tính, giáp biên, ác tính.
   - Thường ở độ tuổi sinh đẻ, chiếm 30% u buồng trứng, trong đó 70% là lành tính.
-  - Đặc điểm: bề mặt trơn láng, vỏ mỏng, đơn hoặc đa thùy, chứa dịch trong, 15% thấy ở hai bên.
-  - U giáp biên: không xâm lấn, không di căn nhưng có khả năng tái phát, chiếm 10% u tuyến thanh dịch giáp biên ác, tuổi trung bình 40, 30% hai bên, kích thước có thể đến 25 cm. Vi thể: cấu trúc u nhú, tế bào xếp tầng, tăng phân bào nhưng không xâm lấn.
+  - Đặc điểm: Bề mặt trơn láng, vỏ mỏng, đơn hoặc đa thùy, chứa dịch trong, 15% thấy ở hai bên.
+  - U giáp biên: Không xâm lấn, không di căn nhưng có khả năng tái phát, chiếm 10% u tuyến thanh dịch giáp biên ác, tuổi trung bình 40, 30% hai bên, kích thước có thể đến 25 cm. Vi thể: cấu trúc u nhú, tế bào xếp tầng, tăng phân bào nhưng không xâm lấn.
   - U tuyến thanh dịch ác tính chiếm 20% u tuyến thanh dịch.
 
 - **U tuyến dịch nhầy (mucinous cystadenoma)**:
@@ -131,8 +131,8 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
 
   - Từ tế bào đã qua giảm phân I, thoái giáng trực tiếp từ n kép → 2n, không qua giảm phân II.
   - U chứa thành phần của 3 lá phôi, tiềm năng ác tính thấp.
-  - **U quái trưởng thành (teratoma)**: lành tính 95%, đơn mô hoặc đa mô, thường gặp 10–30 tuổi, khối u trơn láng, chứa mô ngoại bì, trung bì, nội bì (răng, da, tóc, nang, tuyến mồ hôi, tuyến bã). Vi thể: mô trưởng thành.
-  - **U quái không trưởng thành**: luôn ác tính, chiếm 15% u tế bào mầm, tuổi trung bình 19, trung bình 18 cm, bề mặt trơn láng, cấu trúc hỗn hợp nang-đặc, vi thể: mô phôi chưa biệt hóa.
+  - **U quái trưởng thành (teratoma)**: Lành tính 95%, đơn mô hoặc đa mô, thường gặp 10–30 tuổi, khối u trơn láng, chứa mô ngoại bì, trung bì, nội bì (răng, da, tóc, nang, tuyến mồ hôi, tuyến bã). Vi thể: mô trưởng thành.
+  - **U quái không trưởng thành**: Luôn ác tính, chiếm 15% u tế bào mầm, tuổi trung bình 19, trung bình 18 cm, bề mặt trơn láng, cấu trúc hỗn hợp nang-đặc, vi thể: mô phôi chưa biệt hóa.
   - **U quái giáp đơn mô**: ác tính cao, có thể gây cường giáp "không bướu giáp," chụp xạ hình giáp bình thường nhưng tập trung iod ở vùng chậu.
 
 - **U nghịch phôi theo hướng cấu trúc ngoài phôi**:
@@ -140,8 +140,8 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
   - Tế bào sau giảm phân I thoái giáng thành cấu trúc ngoài phôi (lá nuôi hoặc túi noãn hoàng).
   - Thường ác tính:
 
-    - **U yolk-sac**: u tế bào mầm có tỉ lệ tử vong cao nhất, chiếm 20% u tế bào mầm, độ tuổi trung bình 19, thường một bên.
-    - **Choriocarcinoma không thai kỳ**: tế bào nuôi ngoại bào thai, hCG tăng nhẹ, gây cường nội tiết, dậy thì sớm, chảy máu tử cung, vô kinh; vi thể gồm nguyên bào nuôi, nguyên bào nuôi trung gian, hợp bào nuôi; độ ác tính cao.
+    - **U yolk-sac**: U tế bào mầm có tỉ lệ tử vong cao nhất, chiếm 20% u tế bào mầm, độ tuổi trung bình 19, thường một bên.
+    - **Choriocarcinoma không thai kỳ**: Tế bào nuôi ngoại bào thai, hCG tăng nhẹ, gây cường nội tiết, dậy thì sớm, chảy máu tử cung, vô kinh; vi thể gồm nguyên bào nuôi, nguyên bào nuôi trung gian, hợp bào nuôi; độ ác tính cao.
 
 - **U nghịch mầm (dysgerminoma)**:
 
@@ -149,14 +149,14 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
   - Tuổi trung bình 22, 50% phát hiện tình cờ trong thai kỳ, 20% hai bên.
   - Chỉ báo: LDH huyết tương, dùng theo dõi tái phát.
   - Là khối ác tính, chiếm 45% u tế bào mầm ác tính, 2/3 chẩn đoán giai đoạn I, tiên lượng tốt.
-  - Vấn đề: bảo tồn sinh sản. Đáp ứng tốt với xạ trị (không muốn sinh thêm) và hóa trị (muốn sinh thêm).
+  - Vấn đề: Bảo tồn sinh sản. Đáp ứng tốt với xạ trị (không muốn sinh thêm) và hóa trị (muốn sinh thêm).
 
 #### U xuất phát từ dây giới bào–mô đệm
 
 - U mô đệm hoặc từ dây giới bào, đơn thuần hoặc hỗn hợp, chiếm 5–8% tân sinh buồng trứng, 2% u ác tính.
 - **U mô đệm đơn thuần Fibroma (u sợi) & hội chứng Meigs**
 
-  - Hội chứng Meigs gồm: u sợi buồng trứng, báng bụng, tràn dịch màng phổi.
+  - Hội chứng Meigs gồm: U sợi buồng trứng, báng bụng, tràn dịch màng phổi.
   - U sợi buồng trứng trong hội chứng Meigs lành tính một bên, bệnh nhân thường khám do báng bụng/tràn dịch, không do u.
   - Cơ chế: VEGF tăng tính thấm mạch máu → báng bụng, tràn dịch. Bệnh thoái lui sau cắt u.
 
@@ -164,22 +164,22 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
 
   - Hầu hết lành tính, thường ở tuổi mãn kinh.
   - Chế tiết estrogen, hiếm khi tiết androgen.
-  - Đại thể: khối đặc, màu vàng do steroid, dạng sợi.
-  - Triệu chứng: xuất huyết tử cung, tăng sinh nội mạc do cường estrogen.
+  - Đại thể: Khối đặc, màu vàng do steroid, dạng sợi.
+  - Triệu chứng: Xuất huyết tử cung, tăng sinh nội mạc do cường estrogen.
 
 - **U dây giới bào đơn thuần**:
 
   - Xuất phát từ dây giới bào, thường chế tiết steroid:
 
-    - Hướng nữ: tiết estrogen.
-    - Hướng nam: tiết androgen.
+    - Hướng nữ: Tiết estrogen.
+    - Hướng nam: Tiết androgen.
 
 - **U tế bào hạt (Granulosa cell tumour)**:
 
   - Ác tính thấp, đặc trưng vi thể tế bào hạt, tiết estrogen.
-  - Thường đơn bên, kích thước 15 cm, dạng nang, mô mềm/chắc, mặt cắt chứa dịch máu. Vi thể: thể Call-Exner.
+  - Thường đơn bên, kích thước 15 cm, dạng nang, mô mềm/chắc, mặt cắt chứa dịch máu. Vi thể: Thể Call-Exner.
   - 80–90% chẩn đoán giai đoạn I, 95% dạng mô học trưởng thành (adult granulosa tumour, sau mãn kinh), 5% dạng thiếu niên (juvenile granulosa tumour, tuổi dậy thì–sinh sản).
-  - Triệu chứng: cường estrogen → tăng sinh nội mạc, xuất huyết bất thường, dậy thì sớm, đôi khi đau do vỡ u.
+  - Triệu chứng: Cường estrogen → tăng sinh nội mạc, xuất huyết bất thường, dậy thì sớm, đôi khi đau do vỡ u.
 
 - **U tế bào Sertoli**:
 
@@ -191,13 +191,13 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
 
   - Hiếm, ác tính thấp, phụ thuộc độ biệt hóa.
   - Tiết androgen ở 40–60% bệnh nhân → rậm lông, vú teo, phì đại âm vật, dậy thì sớm, rong huyết.
-  - Cận lâm sàng: testosterone, androstenedione, 17-hydroxy progesterone.
+  - Cận lâm sàng: Testosterone, androstenedione, 17-hydroxy progesterone.
 
 #### U tân sinh di căn đến buồng trứng
 
 - Ung thư đại tràng, dạ dày thường di căn buồng trứng (u Krukenberg).
 - Khi thấy u Krukenberg, cần tìm khối nguyên phát (dạ dày, đại tràng ngang, ngoài ổ bụng).
-- Mô học: tế bào hình nhẫn (signet ring cell).
+- Mô học: Tế bào hình nhẫn (signet ring cell).
 
 ### Lâm sàng
 
@@ -223,7 +223,7 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
 - U di động, tỷ trọng lớn dễ xoắn.
 - Buồng trứng chỉ cố định bằng mạc treo, dây chằng thắt lưng và dây chằng tử cung–buồng trứng, rất lỏng lẻo.
 - Triệu chứng: đau đột ngột, dữ dội vùng bụng, có thể sốc, thăm khám thấy khối cạnh tử cung rất đau, phúc mạc kích thích gây nôn. Bụng vẫn mềm nếu u không vỡ.
-- Điều trị ngoại khoa khẩn: bảo tồn buồng trứng nếu tưới máu hồi phục, qua nội soi hoặc mở bụng. Nếu không chắc lành, cắt bỏ trọn phần phụ bị xoắn.
+- Điều trị ngoại khoa khẩn: Bảo tồn buồng trứng nếu tưới máu hồi phục, qua nội soi hoặc mở bụng. Nếu không chắc lành, cắt bỏ trọn phần phụ bị xoắn.
 
 #### Khác
 
