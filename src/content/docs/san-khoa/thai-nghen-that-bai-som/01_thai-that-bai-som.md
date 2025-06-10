@@ -5,12 +5,12 @@ description: Thai nghén thất bại sớm (Early Pregnancy Loss - EPL) là tì
 
 Thai nghén thất bại sớm (Early Pregnancy Failure) thường được biết dưới dạng trứng trống (blighted ovum) hoặc thai ngưng phát triển (embryonic demise). Tình trạng này xảy ra trước 12 tuần tuổi thai và ảnh hưởng tới khoảng 10–15% các thai lâm sàng, với nguyên nhân chủ yếu do bất thường nhiễm sắc thể, rối loạn nội mạc tử cung hoặc bệnh lý toàn thân của người mẹ.
 
-## Các khái niệm
+## Phân loại
 
-- **Thai sinh hóa** (biochemical pregnancy) chỉ hiện diện độc lập của β-hCG trong huyết thanh mà không có dấu hiệu chắc chắn của thai qua khám hoặc siêu âm. Thai sinh hóa có thể tiến triển thành thai lâm sàng hoặc thất bại sớm.
-- **Thai lâm sàng** (clinical pregnancy) chỉ các thai kỳ được xác định qua khám lâm sàng hoặc hình ảnh siêu âm. Trong thai lâm sàng, nếu phát triển phôi sau làm tổ rồi ngưng phát triển, gọi là thai nghén thất bại sớm.
-- **Trứng trống** (blighted ovum) chỉ sự hiện diện của túi thai nhưng không thấy phôi thai bên trong.
-- **Thai ngưng phát triển** sớm chỉ hình ảnh túi thai có phôi nhưng không có hoạt động tim thai.
+1. **Thai sinh hóa** (biochemical pregnancy): Chỉ hiện diện độc lập của β-hCG trong huyết thanh mà không có dấu hiệu chắc chắn của thai qua khám hoặc siêu âm. Thai sinh hóa có thể tiến triển thành thai lâm sàng hoặc thất bại sớm.
+2. **Thai lâm sàng** (clinical pregnancy): Chỉ các thai kỳ được xác định qua khám lâm sàng hoặc hình ảnh siêu âm. Trong thai lâm sàng, nếu phát triển phôi sau làm tổ rồi ngưng phát triển, gọi là thai nghén thất bại sớm.
+3. **Trứng trống** (blighted ovum): Chỉ sự hiện diện của túi thai nhưng không thấy phôi thai bên trong.
+4. **Thai ngưng phát triển** sớm: Chỉ hình ảnh túi thai có phôi nhưng không có hoạt động tim thai.
 
 :::caution
 Thai nghén thất bại sớm không bao gồm thai sinh hóa.
@@ -19,7 +19,7 @@ Thai nghén thất bại sớm không bao gồm thai sinh hóa.
 ## Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán thai nghén thất bại sớm]
-The Society of Radiologists in Ultrasound Multispecialty Panel chẩn đoán thai kỳ thất bại khi siêu âm qua đường âm đạo đáp ứng ≥1 tiêu chí sau:
+The Society of Radiologists in Ultrasound Multispecialty Panel, chẩn đoán thai kỳ thất bại khi siêu âm qua đường âm đạo đáp ứng ≥ 1 tiêu chí sau:
 
 1. Chiều dài từ đỉnh đầu đến mông (CRL) ≥ 7 mm mà không có tim thai.
 2. Đường kính túi trung bình (MSD) ≥ 25 mm mà không có phôi thai.
@@ -86,7 +86,7 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 
   ![Túi ối nhỏ](./_images/thai-that-bai-som/doa-say-thai-luu-tui-oi-nho.png)
 
-  _Doạ sảy thai lưu: Túi thai rất nhỏ, hiệu (MSD-CRL) <5mm. Túi thai rất nhỏ, (MSD-CRL) <5mm, có tụ máu dưới màng đệm._
+  _Doạ sảy thai lưu: Túi thai rất nhỏ, hiệu (MSD-CRL) < 5mm. Túi thai rất nhỏ, (MSD-CRL) < 5mm, có tụ máu dưới màng đệm._
 
   ![Túi ối giãn](./_images/thai-that-bai-som/doa-say-thai-luu-tui-oi-gian.png)
 

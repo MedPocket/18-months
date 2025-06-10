@@ -61,7 +61,7 @@ Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một s
 | Xuất huyết ÂĐ                                            | Đau bụng <br> Mất cử động thai <br>Máu ÂĐ nhiều, kéo dài                                  | Xuất huyết âm đạo trước sinh |
 | Dịch âm đạo dạng nước/nhầy lẫn máu                       | Xóa mở cổ tử cung<br>Cơn gò tử cung                                                       | Chuyển dạ non/đủ tháng       |
 
-_\* Chảy máu nhẹ: Mất >5 phút để máu thấm ướt băng vệ sinh._
+_\* Chảy máu nhẹ: Mất > 5 phút để máu thấm ướt băng vệ sinh._
 
 _Chẩn đoán ra nước âm đạo._
 
@@ -148,7 +148,7 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 - **Chỉ định**:
 
   - Thai 24–< 32 tuần có nguy cơ sinh non trong 24 giờ.
-  - Dùng thường quy từ 28–<32 tuần, cân nhắc từ 24–<28 tuần.
+  - Dùng thường quy từ 28–< 32 tuần, cân nhắc từ 24–< 28 tuần.
 
 - **Chống chỉ định**: Nhược cơ.
 - **Thận trọng**: Tiền sử thiếu máu cơ tim, rối loạn dẫn truyền.

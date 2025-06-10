@@ -92,7 +92,7 @@ Như kiểm tra tử cung, thêm valve âm đạo, kìm tim, gạc, dụng cụ 
 
 ### Kỹ thuật
 
-Rách nhỏ (<2 cm) thường tự lành; rách lớn phải khâu, ưu tiên khâu cổ trước, sau đó khâu âm đạo.
+Rách nhỏ (< 2 cm) thường tự lành; rách lớn phải khâu, ưu tiên khâu cổ trước, sau đó khâu âm đạo.
 
 1. Ấn đáy tử cung giữ cố định.
 2. Người thứ hai đặt valve mở âm đạo.

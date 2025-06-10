@@ -32,9 +32,9 @@ Tính bằng **chỉ số Pearl** (số thai kỳ/100 năm-phụ nữ sử dụn
 
 | Phương pháp                | Chỉ số Pearl (dùng đúng cách)     | Ghi chú                              |
 | -------------------------- | --------------------------------- | ------------------------------------ |
-| **DCTC đồng**              | <1                                | Hiệu quả cao, kéo dài đến 10 năm     |
-| **DCTC LNG (hormone)**     | <1                                | Giảm thống kinh, rong kinh           |
-| **Que cấy progestogen**    | <1                                | Hiệu quả 3–5 năm                     |
+| **DCTC đồng**              | < 1                                | Hiệu quả cao, kéo dài đến 10 năm     |
+| **DCTC LNG (hormone)**     | < 1                                | Giảm thống kinh, rong kinh           |
+| **Que cấy progestogen**    | < 1                                | Hiệu quả 3–5 năm                     |
 | **Thuốc tiêm progestogen** | ~0.3                              | Tiêm 3 tháng/lần                     |
 | **Viên phối hợp**          | ~0.3 (dùng đúng) / ~8 (thực tế)   | Cần uống đều mỗi ngày                |
 | **Bao cao su nam**         | ~2 (dùng đúng) / ~13–18 (thực tế) | Giúp phòng tránh STDs                |
@@ -107,7 +107,7 @@ Phụ thuộc vào:
 
 | Tình huống                                         | Gợi ý phương pháp               | Lý do                          |
 | -------------------------------------------------- | ------------------------------- | ------------------------------ |
-| **Phụ nữ >35 tuổi, hút thuốc**                     | Tránh viên estrogen-progestogen | Tăng nguy cơ tim mạch          |
+| **Phụ nữ > 35 tuổi, hút thuốc**                     | Tránh viên estrogen-progestogen | Tăng nguy cơ tim mạch          |
 | **Phụ nữ đang cho con bú < 6 tháng**               | Viên progestin, DCTC            | Không ảnh hưởng sữa            |
 | **Muốn kế hoạch hóa dài hạn, không nhớ hàng ngày** | Que cấy, DCTC, tiêm             | Hiệu quả kéo dài               |
 | **Cần tránh thai khẩn cấp**                        | Viên levonorgestrel, DCTC đồng  | Trong vòng 5 ngày sau giao hợp |

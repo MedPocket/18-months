@@ -64,7 +64,7 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 
 - Mất máu cấp → giảm thể tích tuần hoàn → choáng giảm thể tích → thiếu O₂ mô.
 - Mức độ và tốc độ mất máu quyết định tình trạng lâm sàng (từ bù trừ tốt đến shock, tử vong).
-- Giai đoạn 3 chuyển dạ, máu mất trung bình 300 mL, nhưng có thể đến >1000 mL mổ lấy thai.
+- Giai đoạn 3 chuyển dạ, máu mất trung bình 300 mL, nhưng có thể đến > 1000 mL mổ lấy thai.
 
 ## Điều trị
 

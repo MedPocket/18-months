@@ -75,7 +75,7 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 
   - Nang đa thùy ≥ 10 cm hoặc có vách/ thành không đều (< 3 mm).
   - Nang đơn/đa thùy có thành phần đặc hoặc CS 4.
-  - Sang thương đặc bờ trơn láng (>80% đặc) với CS 2–3.  
+  - Sang thương đặc bờ trơn láng (> 80% đặc) với CS 2–3.  
     "Nhú" = thành phần đặc ≥ 3 mm.
 
     ![O-RADS 4A](./_images/phuong-tien-tiep-can-u-buong-trung/orads-4a.png)
@@ -105,9 +105,9 @@ _Phác đồ xử trí và phân loại O-RADS._
   - **B-rules (lành tính)**:
 
     - B1: U đơn thuần 1 thùy.
-    - B2: Thành phần rắn ≤7 mm.
+    - B2: Thành phần rắn ≤ 7 mm.
     - B3: Tồn tại bóng âm.
-    - B4: U đa thùy trơn láng ≤100 mm.
+    - B4: U đa thùy trơn láng ≤ 100 mm.
     - B5: Không có dòng chảy (điểm màu 1).
 
   - **M-rules (ác tính)**:
@@ -115,7 +115,7 @@ _Phác đồ xử trí và phân loại O-RADS._
     - M1: U đặc không đồng nhất.
     - M2: Kèm dịch báng bụng.
     - M3: ≥ 4 chồi nhú.
-    - M4: U đặc đa thùy không đồng nhất >100 mm.
+    - M4: U đặc đa thùy không đồng nhất > 100 mm.
     - M5: Dòng chảy rất mạnh (điểm màu 4).
 
   ![Phân loại u buồng trứng theo IOTA](./_images/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-IOTA.jpeg)
@@ -163,7 +163,7 @@ _Phác đồ xử trí và phân loại O-RADS._
 
 - Chỉ báo tái phát & tiến triển ung thư biểu mô buồng trứng.
 - Tăng ở 93% u tuyến thanh dịch, 100% u dạng nội mạc, 50% u tế bào sáng. Ít tăng ở u nhầy.
-- Độ nhạy 67%, độ đặc hiệu có thể >90% → FDA công nhận HE4 để theo dõi tái phát/tiến triển.
+- Độ nhạy 67%, độ đặc hiệu có thể > 90% → FDA công nhận HE4 để theo dõi tái phát/tiến triển.
 - Thường đo cùng CA125, kết hợp trong **ROMA test**.
 
 ### ROMA test

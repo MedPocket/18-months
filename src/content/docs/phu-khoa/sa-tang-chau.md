@@ -50,9 +50,9 @@ _Phân loại - Phân độ sa tạng chậu._
 - **Độ 0**: Không sa tạng chậu.
   - Aa, Ba, Ap, Bp: đều ở +3 cm trên màng trinh.
   - C, D: (tvl–2) cm ≤ C, D ≤ tvl.
-- **Độ I**: Bất kỳ điểm Ba hoặc Bp ở trên màng trinh >1 cm.
+- **Độ I**: Bất kỳ điểm Ba hoặc Bp ở trên màng trinh > 1 cm.
 - **Độ II**: Ba hoặc Bp nằm trong khoảng ±1 cm quanh màng trinh.
-- **Độ III**: Ba hoặc Bp sa >1 cm dưới màng trinh nhưng <(tvl–2) cm.
+- **Độ III**: Ba hoặc Bp sa > 1 cm dưới màng trinh nhưng <(tvl–2) cm.
 - **Độ IV**: Sa toàn bộ, Ba hoặc Bp ≥ (tvl–2) cm.
 
 ![Sơ đồ chẩn đoán sa tạng chậu](./_images/sa-tang-chau/so-do-chan-doan-sa-tang-chau.jpg)

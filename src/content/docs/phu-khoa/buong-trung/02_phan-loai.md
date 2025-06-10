@@ -184,7 +184,7 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
 - **U tế bào Sertoli**:
 
   - Xuất phát từ dây giới bào, biệt hóa theo hướng nam, ác tính thấp.
-  - Thường <30 tuổi, >95% tiết estrogen.
+  - Thường < 30 tuổi, > 95% tiết estrogen.
   - Gây nam hóa, dễ phát hiện sớm (giai đoạn I).
 
 - **U hỗn hợp Sertoli–Leydig (Sertoli-Leydig cell tumour, androblastoma)**:

@@ -7,7 +7,7 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 
 ## Nguồn gốc
 
-- **Chủ yếu**: Tế bào hội bào nuôi (syncytiotrophoblast) của bánh rau; giai đoạn <5 tuần còn từ nguyên bào nuôi (cytotrophoblast).
+- **Chủ yếu**: Tế bào hội bào nuôi (syncytiotrophoblast) của bánh rau; giai đoạn < 5 tuần còn từ nguyên bào nuôi (cytotrophoblast).
 - **Phụ**: Thận, tuyến yên, một số mô khác → giải thích hCG tăng trong u tân sinh ngoài bánh rau.
 - **Mức nền**: Rất thấp ở nam và nữ không có thai (nhiều khả năng từ tuyến yên trước).
 

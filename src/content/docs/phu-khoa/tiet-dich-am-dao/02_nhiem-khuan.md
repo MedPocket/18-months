@@ -82,17 +82,17 @@ BV được chẩn đoán dựa trên lâm sàng và xét nghiệm thường quy
 | **Vi khuẩn Gram dương, hình que lớn**                  | **Vi khuẩn Gram âm, hình que ngắn/coccobacilli**       | **Trực khuẩn cong, Gram đổi màu**                      |
 | Quang trường lớn x1000                                 | Quang trường lớn x1000                                 | Quang trường lớn x1000                                 |
 | **Số lượng tế bào/vi khuẩn trên 10 trường trung bình** | **Số lượng tế bào/vi khuẩn trên 10 trường trung bình** | **Số lượng tế bào/vi khuẩn trên 10 trường trung bình** |
-| 0: >30                                                 | 0: <1                                                  | 0: <5                                                  |
+| 0: > 30                                                 | 0: < 1                                                  | 0: < 5                                                  |
 | 1: 5–30                                                | 1: 1–4                                                 | 1: 5–30                                                |
 | 2: 1–4                                                 | 2: 5–30                                                | 2: 5–30                                                |
-| 3: <1                                                  | 3: >30                                                 | 3: >30                                                 |
+| 3: < 1                                                  | 3: > 30                                                 | 3: > 30                                                 |
 | 4: 0                                                   | 4: Phủ kín toàn bộ trường                              | 4: Phủ kín toàn bộ trường                              |
 
 _Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0–10)._
 
 - **0–3**: Kết quả âm tính với BV (hệ vi khuẩn cân bằng).
 - **4–6**: Khu vực trung gian (nghi ngờ, cần theo dõi hoặc xét nghiệm lại).
-- **≥7**: Dương tính với BV (mật độ vi khuẩn yếm khí cao, Lactobacilli giảm).
+- **≥ 7**: Dương tính với BV (mật độ vi khuẩn yếm khí cao, Lactobacilli giảm).
 
 Độ nhạy 89%, độ đặc hiệu 83% so với tiêu chuẩn Amsel.
 
@@ -108,7 +108,7 @@ Theo Bệnh viện Từ Dũ, BV được chẩn đoán khi đủ **2/3** tiêu c
 2. **Cận lâm sàng**
 
    - **Whiff test (+)**: Thêm KOH 10% lên mẫu huyết trắng, xuất hiện mùi hôi như cá ươn.
-   - **Phết âm đạo**: Nhiều "clue cells" (>20% tế bào biểu mô nhìn thấy có bám vi khuẩn); nhuộm Gram thấy nhiều coccobacilli.
+   - **Phết âm đạo**: Nhiều "clue cells" (> 20% tế bào biểu mô nhìn thấy có bám vi khuẩn); nhuộm Gram thấy nhiều coccobacilli.
 
 :::
 

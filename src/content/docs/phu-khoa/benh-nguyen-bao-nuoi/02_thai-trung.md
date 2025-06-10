@@ -7,7 +7,7 @@ Thai trứng là tình trạng gặp trong 1/200–1/1000 ca thai nghén, do b�
 
 ## Yếu tố nguy cơ
 
-- **Độ tuổi**: Cao ở < 20 tuổi và > 40 tuổi.
+- **Độ tuổi**: Cao ở < 20 tuổi và > 40 tuổi.
 - **Yếu tố nguy cơ**:
 
   - Mang thai lần đầu.
@@ -75,7 +75,7 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 #### β-hCG
 
-- Mức độ tăng rất cao ở Thai trứng toàn phần (> 100,000 mIU/mL).
+- Mức độ tăng rất cao ở Thai trứng toàn phần (> 100,000 mIU/mL).
 - Thai trứng bán phần thường thấp hơn nhưng vẫn vượt quá giới hạn thai bình thường.
 - Giá trị quan trọng nhất là theo dõi đồ thị giảm sau hút nạo.
 
@@ -101,11 +101,11 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 ### Cắt tử cung
 
-- Chỉ định ở người ≥ 40 tuổi đã đủ con hoặc khi có băng huyết nghiêm trọng.
+- Chỉ định ở người ≥ 40 tuổi đã đủ con hoặc khi có băng huyết nghiêm trọng.
 
 ### Hóa trị dự phòng
 
-- **Chỉ cân nhắc cho nhóm nguy cơ cao** (Thai trứng toàn phần lớn, β-hCG > 100,000, siêu âm nghi ngờ xâm lấn).
+- **Chỉ cân nhắc cho nhóm nguy cơ cao** (Thai trứng toàn phần lớn, β-hCG > 100,000, siêu âm nghi ngờ xâm lấn).
 - Phác đồ thường dùng:
 
   - MTX 5 ngày: MTX 0.4 mg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25 mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
