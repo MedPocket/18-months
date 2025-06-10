@@ -198,7 +198,8 @@ Tùy chọn điều trị BV tại Bệnh viện Từ Dũ (áp dụng cho cả B
 - **Metronidazole không dùng trong 3 tháng đầu thai kỳ** do tiềm ẩn nguy cơ quái thai.
 - Phụ nữ mang thai chỉ điều trị khi có triệu chứng rõ và cân nhắc lợi ích – nguy cơ.
 - Cần khai thác tiền sử dị ứng Penicillin, Clindamycin để lựa chọn kháng sinh phù hợp.
-  :::
+
+:::
 
 ## Nguồn tham khảo
 

@@ -118,8 +118,9 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 Vancomycin chỉ dùng khi:
 
 - GBS đề kháng Clindamycin hoặc Erythromycin.
-- GBS nhưng chưa có kết quả kháng sinh đồ.  
-  :::
+- GBS nhưng chưa có kết quả kháng sinh đồ.
+
+:::
 
 #### Nếu không đáp ứng
 

@@ -145,8 +145,9 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 - Luôn điều trị đồng thời cho bạn tình để ngăn tái nhiễm.
 - Tránh uống rượu bia trong và 48 giờ sau khi dùng Metronidazole/Tinidazole để tránh hội chứng Disulfiram-like (buồn nôn, nôn, đỏ bừng mặt).
 - **Metronidazole không dùng trong 3 tháng đầu thai kỳ** (đặc biệt liều kéo dài).
-- Nếu bệnh nhân dị ứng Metronidazole/Tinidazole, chuyển sang Secnidazole 2 g liều đơn (nếu có sẵn).  
-  :::
+- Nếu bệnh nhân dị ứng Metronidazole/Tinidazole, chuyển sang Secnidazole 2 g liều đơn (nếu có sẵn).
+
+:::
 
 ## Nguồn tham khảo
 

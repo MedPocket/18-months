@@ -19,7 +19,8 @@ Theo Rotterdam 2003, chẩn đoán khi có ≥ 2/3 tiêu chí:.
    - **Lâm sàng**: Rậm lông (Ferriman–Gallwey), mụn trứng cá, hói đầu kiểu nam, béo phì trung tâm (BMI > 23 kg/m² hoặc vòng eo > 80 cm, WHR > 0.85).
    - **Cận lâm sàng**: FTI (TT/SHBG × 100) > 6.
 3. **Buồng trứng đa nang**: ≥ 12 nang 2–9 mm trên mặt cắt **và/hoặc** thể tích > 10 mL.
-   :::
+
+:::
 
 :::caution
 Nếu chỉ có hình ảnh buồng trứng đa nang mà không có triệu chứng khác, chưa chẩn đoán PCOS cho đến khi xuất hiện rối loạn kinh nguyệt hoặc cường androgen.
@@ -62,8 +63,9 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 :::caution
 
 - Progestogen cần kéo dài tối thiểu 12 ngày mỗi đợt để bảo vệ nội mạc tử cung.
-- Viên phối hợp không nên dùng liên tục mà chỉ sử dụng mỗi 3–4 tháng một lần để tránh tác dụng phụ trên béo phì và chuyển hóa.  
-  :::
+- Viên phối hợp không nên dùng liên tục mà chỉ sử dụng mỗi 3–4 tháng một lần để tránh tác dụng phụ trên béo phì và chuyển hóa.
+
+:::
 
 #### Ngừa thai
 

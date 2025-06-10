@@ -78,7 +78,8 @@ Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồ
 
 - Tim thai > 160 lần/phút kéo dài.
 - Siêu âm: Phát hiện bướu giáp thai.
-  :::
+
+:::
 
 ## Nguồn tham khảo
 

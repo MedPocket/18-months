@@ -74,7 +74,8 @@ Chẩn đoán chuyển dạ khi có ≥ 2 trong các tiêu chuẩn sau:
 1. Có ≥ 2 cơn co tử cung mỗi 10 phút, mỗi cơn kéo dài ≥ 20 giây, gây đau.
 2. Cổ tử cung xóa ≥ 30%.
 3. Có đầu ối, ối căng phồng theo cơn co.
-   :::
+
+:::
 
 ## Các giai đoạn
 

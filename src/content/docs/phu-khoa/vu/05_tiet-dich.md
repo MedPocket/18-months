@@ -22,7 +22,8 @@ Tiết dịch núm vú (nipple discharge) là hiện tượng có dịch chảy 
 
 - **Tiết dịch tự phát, một bên, có lẫn máu** là dấu hiệu cảnh báo cao đối với bướu nhú (intraductal papilloma) hoặc carcinoma tại chỗ/ xâm lấn trong ống tuyến vú.
 - Khi có các đặc điểm kể trên, cần thực hiện các bước chẩn đoán hình ảnh và xâm lấn để loại trừ ác tính.
-  :::
+
+:::
 
 ## Tiết sữa
 

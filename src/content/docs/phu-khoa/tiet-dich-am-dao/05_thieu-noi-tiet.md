@@ -104,8 +104,9 @@ Mục tiêu điều trị là phục hồi lớp biểu mô âm đạo, tăng đ
 
 - Các liệu pháp estrogen tại chỗ hiếm khi có tác dụng toàn thân nhưng cần thận trọng ở phụ nữ có tiền sử ung thư vú phụ thuộc estrogen, bệnh tim mạch hoặc huyết khối.
 - Nếu điều trị tại chỗ không hiệu quả sau 3 tháng, cần đánh giá lại chẩn đoán, cân nhắc HRT toàn thân hoặc chuyển khoa tiết niệu, nội tiết.
-- Trong trường hợp có viêm nhiễm phối hợp, điều trị kháng sinh/kháng nấm theo đúng phác đồ và cân nhắc theo dõi cấy để tránh kháng thuốc.  
-  :::
+- Trong trường hợp có viêm nhiễm phối hợp, điều trị kháng sinh/kháng nấm theo đúng phác đồ và cân nhắc theo dõi cấy để tránh kháng thuốc.
+
+:::
 
 ## Nguồn tham khảo
 

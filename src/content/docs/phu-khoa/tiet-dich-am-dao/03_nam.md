@@ -157,13 +157,12 @@ _Thuốc kháng nấm tại chỗ (First line therapy) điều trị VVC không 
 :::caution
 
 - Chỉ điều trị bạn tình khi có một trong các triệu chứng sau:
-
   - Viêm ngứa bao quy đầu.
   - Nấm có trong nước tiểu.
   - Bạn nữ tái phát nhiều lần mà không có yếu tố nguy cơ rõ ràng.
+- **Metronidazole không dùng trong 3 tháng đầu thai kỳ** (dẫn xuất 5-nitroimidazole).
 
-- **Metronidazole không dùng trong 3 tháng đầu thai kỳ** (dẫn xuất 5-nitroimidazole).  
-  :::
+:::
 
 ## Nguồn tham khảo
 

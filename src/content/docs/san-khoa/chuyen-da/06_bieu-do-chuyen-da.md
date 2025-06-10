@@ -34,7 +34,8 @@ Chuyển dạ tắc nghẽn là tình trạng có cản trở cơ học khiến 
 1. Cơn co tử cung dồn dập.
 2. Không có tiến triển ngôi thai.
 3. Thai có biểu hiện uốn khuôn, chồng xương sọ.
-   :::
+
+:::
 
 ### Nguyên nhân
 
@@ -57,7 +58,8 @@ Cơn co tử cung quá mạnh và dồn dập làm giảm lưu lượng máu t�
 - Dấu hiệu Frommel.
 - Ngôi thai không tiến triển.
 - Chồng xương sọ, bướu huyết thanh lớn.
-  :::
+
+:::
 
 Cơn co mạnh làm phần thân tử cung dày lên, đoạn dưới mỏng đi, tạo thành vòng Bandl, đi kèm dấu hiệu Frommel (căng dây chằng tròn). Nếu không xử trí, tử cung có thể bị xé toạc và thai rơi vào ổ bụng – một cấp cứu sản khoa nguy kịch.
 

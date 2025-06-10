@@ -172,7 +172,8 @@ Khi điều trị MTX cần lưu ý:
   - Công thức máu, nhóm máu, đông máu.
   - Chức năng gan, thận.
   - X-quang phổi, ECG.
-    :::
+
+:::
 
 #### Phác đồ
 

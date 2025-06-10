@@ -124,7 +124,8 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 - Phụ nữ đã phơi nhiễm HPV hoặc có tổn thương cổ tử cung bất thường vẫn được khuyến khích tiêm để phòng các type chưa nhiễm.
 - **FDA** chỉ dán nhãn 4vHPV và 9vHPV cho bé trai; 9vHPV được khuyến nghị vì hiệu quả rộng và chi phí quản lý ít hơn 2 loại trước đó.
 - Dù tiêm đầy đủ, vẫn cần tầm soát ung thư cổ tử cung định kỳ (Pap smear và/hoặc HPV DNA) do vaccine không phòng được hết tất cả các loại virus HPV.
-  :::
+
+:::
 
 ## HPV testing
 

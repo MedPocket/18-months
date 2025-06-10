@@ -135,7 +135,8 @@ _Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai._
 
 - Bắt đầu bổ sung acid folic ít nhất 1 tháng trước khi mang thai; nếu có tiền sử dị tật ống thần kinh, có thể cần 4–5 mg/ngày theo chỉ định bác sĩ.
 - Magie chỉ cần bổ sung nếu có triệu chứng như chuột rút, mất ngủ, lo âu.
-  :::
+
+:::
 
 ## Hướng dẫn bổ sung
 

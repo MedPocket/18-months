@@ -3,9 +3,7 @@ title: Thalassemia trong thai kỳ
 description: Thalassemia – bệnh hemoglobin di truyền gây thiếu máu, bao gồm nguyên nhân, phân loại, biểu hiện lâm sàng, chẩn đoán tiền sản và quản lý thai kỳ.
 ---
 
-Thalassemia là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọc chuỗi globin trong phân tử hemoglobin. Đây là bệnh di truyền đơn gen, lặn trên nhiễm sắc thể thường theo quy luật Mendel. Ở Việt Nam hiện có khoảng 1700 trẻ sinh ra mỗi năm mắc Thalassemia.
-
-Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, tan huyết và gây thiếu máu mạn tính. Mức độ nặng hay nhẹ phụ thuộc vào loại và số lượng gen bị tổn thương.
+Thalassemia là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọc chuỗi globin trong phân tử hemoglobin. Đây là bệnh di truyền đơn gen, lặn trên nhiễm sắc thể thường theo quy luật Mendel. Ở Việt Nam hiện có khoảng 1700 trẻ sinh ra mỗi năm mắc Thalassemia. Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, tan huyết và gây thiếu máu mạn tính. Mức độ nặng hay nhẹ phụ thuộc vào loại và số lượng gen bị tổn thương.
 
 ## Bệnh sinh
 
@@ -18,38 +16,22 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 
 ### α-thalassemia
 
-- **Mất 1 gene α**
-
-  - Người mang gen, không có triệu chứng lâm sàng.
-
-- **Mất 2 gene α (thể nhẹ)**
-
-  - Thiếu máu hồng cầu nhỏ nhược sắc nhẹ; HbA2, HbF bình thường.
-
-- **Mất 3 gene α (Hb H)**
-
-  - Thiếu máu tương đối nặng; lách to; HbA2 bình thường hoặc tăng nhẹ.
-
-- **Mất 4 gene α (Hb Bart’s, thai phù)**
-
-  - Không có chuỗi α; chỉ có chuỗi γ với ái lực O₂ cao → thai phù đa màng, suy tim, tử vong thường từ tuần 30 đến ngay sau sinh.
+- **Mất 1 gene α**: Người mang gen, không có triệu chứng lâm sàng.
+- **Mất 2 gene α (thể nhẹ)**: Thiếu máu hồng cầu nhỏ nhược sắc nhẹ; HbA2, HbF bình thường.
+- **Mất 3 gene α (Hb H)**: Thiếu máu tương đối nặng; lách to; HbA2 bình thường hoặc tăng nhẹ.
+- **Mất 4 gene α (Hb Bart’s, thai phù)**: Không có chuỗi α; chỉ có chuỗi γ với ái lực O₂ cao → thai phù đa màng, suy tim, tử vong thường từ tuần 30 đến ngay sau sinh.
 
 ### β-thalassemia
 
-- **Thể nặng (β⁰/β⁰ hoặc β⁰/β⁰ kép)**
-
+- **Thể nặng (β⁰/β⁰ hoặc β⁰/β⁰ kép)**:
   - Biểu hiện sớm ngay sau sinh hoặc vài tháng tuổi.
   - Thiếu máu nặng, vàng da, gan lách to.
   - Cần truyền máu định kỳ và thải sắt để duy trì sự sống.
   - Huyết học: Hb < 70 g/L; MCV, MCH giảm; ferritin bình thường hoặc tăng; điện di Hb: ↑ HbF, ↑ HbA2.
-
-- **Thể trung gian (β⁺/β⁺ hoặc β⁺/β⁰)**
-
+- **Thể trung gian (β⁺/β⁺ hoặc β⁺/β⁰)**:
   - Thiếu máu nhẹ–vừa, biểu hiện muộn hơn thể nặng.
   - Có thể cần truyền máu từng đợt, ít phụ thuộc hơn.
-
-- **Thể ẩn (dị hợp tử 1 đột biến)**
-
+- **Thể ẩn (dị hợp tử 1 đột biến)**:
   - Thường không triệu chứng; chỉ phát hiện tình cờ khi xét nghiệm.
   - Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3.5–7%); HbF 1–3% tùy loại đột biến.
 
@@ -67,9 +49,7 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 
 - Thể nặng có thể không sống sót sau sinh.
 - Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.
-
   ![Thai phù trong hội chứng Bart](./_images/thai-phu-trong-hoi-chung-Bart.png)
-
   _Thai phù trong hội chứng Hb Bart’s._
 
 ## Tầm soát
@@ -77,11 +57,8 @@ Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, t
 - Huyết đồ: Hb < 11 g/dL; MCV < 80 fL; MCH < 27 pg.
 - Định lượng ferritin: Bình thường hoặc tăng → chuyển sang điện di Hb.
 - Điện di Hb: Xác định tỉ lệ HbA2, HbF để phân loại.
-
   ![Kết quả điện di Hb ở người trưởng thành](./_images/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
-
   _Kết quả điện di Hb ở người trưởng thành._
-
 - Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.
 - Chẩn đoán trên thai: Sinh thiết gai rau, chọc ối hoặc lấy máu cuống rốn nếu có nguy cơ cao.
 

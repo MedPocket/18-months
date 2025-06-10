@@ -88,7 +88,8 @@ HELLP không điển hình khi chỉ có 1–2 tiêu chí trên.
 - Bilirubin toàn phần > 12 mg/dL.
 - AST > 70 IU/L.
 - Giảm Haptoglobin.
-  :::
+
+:::
 
 ## Nguồn tham khảo
 

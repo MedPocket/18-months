@@ -168,8 +168,9 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
 :::caution
 
 - Phác đồ trên áp dụng cho cả phụ nữ mang thai (Ceftriaxon tiêm bắp an toàn, Azithromycin an toàn khi điều trị Chlamydia).
-- Nếu tiền sử dị ứng ceftriaxon hoặc cephalosporin thế hệ ba.  
-  :::
+- Nếu tiền sử dị ứng ceftriaxon hoặc cephalosporin thế hệ ba.
+
+:::
 
 #### Lậu hầu họng
 

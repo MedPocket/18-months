@@ -119,8 +119,9 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 :::note[Tiêu chuẩn chẩn đoán nhiễm Chlamydia trachomatis]
 
 - **NAAT (+)** hoặc **DFA/ELISA kháng nguyên (+)** trên mẫu dịch niệu đạo, dịch cổ tử cung, dịch trực tràng, hoặc nước tiểu.
-- Nếu không có xét nghiệm bảo đảm, có thể chẩn đoán lâm sàng – dịch tễ (khi tiếp xúc với nguồn bệnh hoặc triệu chứng gợi ý) để điều trị sớm, đồng thời làm xét nghiệm xác định sau.  
-  :::
+- Nếu không có xét nghiệm bảo đảm, có thể chẩn đoán lâm sàng – dịch tễ (khi tiếp xúc với nguồn bệnh hoặc triệu chứng gợi ý) để điều trị sớm, đồng thời làm xét nghiệm xác định sau.
+
+:::
 
 ### Chẩn đoán phân biệt
 
@@ -143,9 +144,8 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
   - _Gonorrhea, Herpes simplex virus, Treponema pallidum (giang mai)_: Loét, mụn nước, ngứa dữ dội, scleroatrophic papulosis, có thể kèm u hạch.
 
   :::caution
-
-  - _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; do đó, khi nghi ngờ Chlamydia, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
-    :::
+  _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; do đó, khi nghi ngờ Chlamydia, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
+  :::
 
 ## Điều trị
 
@@ -224,8 +224,9 @@ Không sử dung **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây �
 - **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** không dùng cho phụ nữ có thai hoặc cho con bú.
 - **Metronidazole không dùng trong 3 tháng đầu thai kỳ**, nhưng có thể cân nhắc nếu kết hợp điều trị các STI phối hợp (Trichomonas).
 - **Erythromycin và Amoxicillin** là lựa chọn an toàn trong thai kỳ, nhưng tỷ lệ tuân thủ thấp hơn (Erythromycin dễ gây buồn nôn).
-- Tránh sử dụng kháng sinh đơn lẻ khi đồng nhiễm HIV, cần bổ sung kháng sinh dự phòng cơ hội.  
-  :::
+- Tránh sử dụng kháng sinh đơn lẻ khi đồng nhiễm HIV, cần bổ sung kháng sinh dự phòng cơ hội.
+
+:::
 
 ### Theo dõi sau điều trị
 

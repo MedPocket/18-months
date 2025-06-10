@@ -101,7 +101,8 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 - **Cefadroxyl**: Bài tiết vào sữa mẹ với nồng độ thấp. Theo dõi trẻ bú mẹ có biểu hiện tiêu chảy, tưa lưỡi hoặc nổi ban.
 - **Clindamycin**: Có thể dùng trong thai kỳ nếu có chỉ định, nhưng không khuyến cáo trong thời kỳ cho con bú.
 - **Amoxicillin**: An toàn cho mẹ đang cho con bú.
-  :::
+
+:::
 
 ### Ngoại khoa
 
