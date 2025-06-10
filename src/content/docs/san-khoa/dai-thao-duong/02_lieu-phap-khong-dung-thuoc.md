@@ -9,13 +9,12 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 
 Đối với mọi thai phụ, nhất là nhóm nguy cơ cao (≥ 35 tuổi, tiền sử con ≥ 4 kg, BMI ≥ 23 kg/m²...), cần:
 
-- **Chế độ ăn tiết chế**
-
+- **Chế độ ăn tiết chế**:
   - Ưu tiên thực phẩm tươi, ít chế biến, giàu chất xơ.
   - Giảm thức ăn nhiều đường đơn, tinh bột tinh chế và chất béo bão hòa.
   - Hạn chế muối (< 5 g/ngày; ưu tiên muối iốt), rượu bia, thuốc lá.
 
-- **Kiểm soát tăng cân**
+- **Kiểm soát tăng cân**:
 
   | BMI trước khi mang thai                             | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
   | --------------------------------------------------- | ------------- | ------------------------------------------------------------------------ |
@@ -26,7 +25,7 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 
   _Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)._
 
-- **Hoạt động thể chất**
+- **Hoạt động thể chất**:
   - Ít nhất 150 phút/tuần (đi bộ, yoga, bơi nhẹ...).
   - Chia nhỏ thời gian (ví dụ 30 phút/ngày).
   - Theo dõi đường huyết trước và sau khi tập, đảm bảo không hạ đường huyết.
@@ -37,11 +36,9 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 
 - **Cung cấp đủ năng lượng** cho mẹ và thai nhi, không quá thừa để tránh tăng cân quá mức.
 - **Phân bố đa dạng chất** theo tỉ lệ năng lượng:
-
   - Glucid: 45–55%.
   - Protein: 15–20%.
   - Lipid: 25–35%.
-
 - **Chọn thức ăn** ưu tiên chỉ số đường huyết thấp/trung bình, giàu chất xơ và vi chất.
 - **Chia bữa ăn** nhỏ, 3 bữa chính + 2–3 bữa phụ để ổn định glucose huyết.
 

@@ -6,28 +6,19 @@ description: Định nghĩa, phân loại, sàng lọc, chẩn đoán, điều t
 Đái tháo đường là nhóm rối loạn chuyển hóa không đồng nhất, đặc trưng bởi tăng glucose huyết và/hoặc rối loạn dung nạp glucose do thiếu insulin, giảm tác dụng insulin hoặc cả hai.
 
 1. **Đái tháo đường type 1**
-
    - Cơ chế: Phá hủy tế bào β đảo tụy → thiếu insulin tuyệt đối.
    - Theo Bộ Y tế (2021): Xem là bệnh tự miễn.
-
 2. **Đái tháo đường type 2**
-
    - Thiếu insulin tương đối và đề kháng insulin ngoại biên.
    - Thường liên quan đến thừa cân, béo phì, lối sống ít vận động.
-
 3. **Tiền đái tháo đường**
-
    - Rối loạn glucose đói (Impaired Fasting Glucose – IFG): 100–125 mg/dL (5.6–6.9 mmol/L).
    - Rối loạn dung nạp glucose (Impaired Glucose Tolerance – IGT): 2h nghiệm pháp dung nạp glucose 75 g (Oral Glucose Tolerance Test - OGTT) 75 g 140–199 mg/dL (7.8–11.0 mmol/L).
    - HbA1c 5.7–6.4%.
-
 4. **Đái tháo đường "rõ" (Overt diabetes in pregnancy – DIP)**
-
    - Mức glucose huyết tương đạt tiêu chuẩn chẩn đoán đái tháo đường ở người không mang thai (WHO 2006).
    - Phát hiện lần đầu trong thai kỳ, có thể ngay 3 tháng đầu.
-
 5. **Đái tháo đường thai kỳ (Gestational Diabetes Mellitus – GDM)**
-
    - Tăng glucose huyết mức độ nhẹ hơn tiêu chuẩn đái tháo đường rõ.
    - Phát hiện lần đầu trong thai kỳ, không có bằng chứng ĐTĐ trước đó.
    - Thường chẩn đoán sau 24–28 tuần.
@@ -35,26 +26,17 @@ description: Định nghĩa, phân loại, sàng lọc, chẩn đoán, điều t
 ## Phân loại
 
 1. **Đái tháo đường rõ (DIP)**
-
    - Đường huyết đói ≥ 126 mg/dL (7.0 mmol/L) hoặc bất kỳ ≥ 200 mg/dL (11.1 mmol/L) kèm triệu chứng tăng glucose huyết.
    - Xét nghiệm lần đầu trong thai kỳ, có thể ngay 3 tháng đầu.
-
 2. **Đái tháo đường thai kỳ (GDM)**
-
-   - Đường huyết đói 92–125 mg/dL (5.1–6.9 mmol/L) hoặc  
-     đường huyết sau 2 giờ OGTT 75 g 153–199 mg/dL (8.5–11.0 mmol/L).
+   - Đường huyết đói 92–125 mg/dL (5.1–6.9 mmol/L) hoặc đường huyết sau 2 giờ OGTT 75 g 153–199 mg/dL (8.5–11.0 mmol/L).
    - Phát hiện sau 24–28 tuần, không có tiền sử ĐTĐ trước mang thai.
 
 ## Bệnh sinh
 
-1. **Kháng insulin sinh lý**  
-   Bắt đầu tăng từ giữa thai kỳ (tuần 20–24) do hormon nhau thai (hPL, cortisol, estrogen, progesterone, prolactin...) làm giảm tiêu thụ glucose của mẹ, ưu tiên cho thai nhi.
-
-2. **Kháng insulin mạn tính**  
-   Do tiền sử gia đình ĐTĐ, thừa cân – béo phì, tuổi mẹ cao, PCOS...
-
-3. **Suy giảm chức năng tế bào β**  
-   Không đáp ứng đủ nhu cầu insulin tăng cao → tăng glucose huyết.
+1. **Kháng insulin sinh lý**: Bắt đầu tăng từ giữa thai kỳ (tuần 20–24) do hormon nhau thai (hPL, cortisol, estrogen, progesterone, prolactin...) làm giảm tiêu thụ glucose của mẹ, ưu tiên cho thai nhi.
+2. **Kháng insulin mạn tính**: Do tiền sử gia đình ĐTĐ, thừa cân – béo phì, tuổi mẹ cao, PCOS...
+3. **Suy giảm chức năng tế bào β**: Không đáp ứng đủ nhu cầu insulin tăng cao → tăng glucose huyết.
 
    ![Thay đổi nhu cầu insulin trong thai kỳ](./_images/thay-doi-ve-nhu-cau-insulin.png)
 
@@ -89,20 +71,16 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
   | **ĐTĐ rõ (DIP)** | Glucose đói ≥ 126 mg/dL hoặc bất kỳ ≥ 200 mg/dL + triệu chứng                          | Chuyển chuyên khoa Nội tiết |
 
   _Kết quả sàng lọc 3 tháng đầu._
-
+  
 - **Nguy cơ thấp** → Sàng lọc định kỳ 24–28 tuần.
 
 ### 3 tháng giữa (24–28 tuần)
 
-- **OGTT 75 g chuẩn**
-
+- **OGTT 75 g chuẩn**:
   - **Chuẩn bị**:
-
     - 3 ngày trước: Chế độ ăn chứa ≥ 150 g glucid/ngày.
     - Nhịn đói ít nhất 8 giờ (chỉ được uống nước lọc).
-
   - **Quy trình**:
-
     - Lấy máu tĩnh mạch đo glucose lúc đói.
     - Uống dung dịch chứa 75 g glucose trong vòng 5 phút.
     - Lấy máu tĩnh mạch đo glucose sau 1 giờ và sau 2 giờ.
@@ -147,21 +125,15 @@ _Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ._
 ### Nguyên tắc
 
 1. **Dinh dưỡng (Medical Nutrition Therapy – MNT)**
-
    - Đủ năng lượng, đảm bảo vi chất.
    - Phòng ngừa tăng đường máu sau ăn.
    - Không quá khắt khe, phù hợp văn hóa và điều kiện.
-
 2. **Vận động**
-
    - Ít nhất 150 phút/tuần (đi bộ, tập nhẹ sau ăn).
    - Khuyến khích đi bộ 10–15 phút sau bữa ăn.
-
 3. **Kiểm soát glucose**
-
    - Gần mức bình thường, tránh hạ đường huyết.
    - Đo bằng glucose mao mạch tại nhà.
-
 4. **Tăng phù hợp với BMI trước mang thai**
 
    | BMI trước khi mang thai                             | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
@@ -199,18 +171,15 @@ _Đường huyết tương mao mạch mục tiêu._
 ### Không dùng thuốc
 
 - **Cá nhân hóa khẩu phần**: Dựa trên kết quả OGTT và cân nặng hiện tại.
-- **Tài liệu hướng dẫn**: Phát tờ rơi, sổ tay dinh dưỡng.
 - **Theo dõi**: đánh giá MNT hiệu quả sau 2 tuần (≥ 4/8 giá trị glucose đạt mục tiêu → tiếp tục MNT; ngược lại → cân nhắc nhập viện → theo dõi liên tục 5 ngày → đạt mục tiêu ra viện điều chỉnh chế độ ăn, không đạt mục tiêu tiêm insulin).
 
 ### Insulin
 
 1. **Chỉ định**
-
    - \> 50% mẫu đo không đạt mục tiêu sau 1–2 tuần MNT.
    - Glucose đói > 126 mg/dL hoặc bất kỳ > 200 mg/dL cần điều trị ngay.
    - Dấu hiệu thai to (chu vi bụng > 75th percentile).
-
-2. **Phác đồ cơ bản**
+2. **Phác đồ**
 
    - **Basal**: Insulin NPH hoặc Detemir nếu chỉ tăng glucose lúc đói.
    - **Bolus**: Insulin tác dụng nhanh (Regular, Lispro, Aspart) nếu tăng sau ăn.
@@ -241,12 +210,9 @@ _Tóm tắt thời điểm và chỉ định cách sinh._
 ## Theo dõi chuyển dạ
 
 1. **Chuyển dạ**
-
    - Giữ glucose mao mạch 70–100 mg/dL (3.9–5.6 mmol/L).
    - Theo dõi: Không dùng insulin → 4–6 giờ/lần; dùng insulin → 1–2 giờ/lần hoặc theo chỉ định.
-
 2. **Ngay sau sinh**
-
    - Giảm liều insulin ngay khi bánh rau sổ (giảm kháng insulin sinh lý).
    - Theo dõi trẻ sơ sinh 72 giờ đầu: Hạ đường huyết, hạ canxi, đa hồng cầu, vàng da, hô hấp.
    - Cho trẻ da kề da và bú sớm trong 1 giờ đầu tiên.
