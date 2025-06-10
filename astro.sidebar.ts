@@ -7,6 +7,15 @@ export const sidebar = starlightSidebarTopics([
     icon: "external",
     items: [
       "san-khoa/rau-thai",
+      "san-khoa/cu-dong-thai",
+      "san-khoa/sieu-am-doppler",
+      {
+        label: "Chỉ số ối",
+        autogenerate: {
+          directory: "san-khoa/chi-so-oi",
+        },
+        collapsed: true,
+      },
       {
         label: "Xuất huyết tử cung trong thai kỳ",
         autogenerate: {
@@ -18,15 +27,6 @@ export const sidebar = starlightSidebarTopics([
         label: "Thai nghén thất bại sớm",
         autogenerate: {
           directory: "san-khoa/thai-nghen-that-bai-som",
-        },
-        collapsed: true,
-      },
-      "san-khoa/cu-dong-thai",
-      "san-khoa/sieu-am-doppler",
-      {
-        label: "Chỉ số ối",
-        autogenerate: {
-          directory: "san-khoa/chi-so-oi",
         },
         collapsed: true,
       },

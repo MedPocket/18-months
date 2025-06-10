@@ -33,7 +33,7 @@ _Phân loại FIGO 2011._
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **S (Submucosal)**<br>Dưới niêm mạc                               | **0** Có cuống, hoàn toàn trong lòng tử cung<br>**1** < 50% trong cơ<br>**2** ≥ 50% trong cơ _(inferred)_                                                                                                           |
 | **O (Other)**<br>Khác                                             | **3** Tiếp xúc nội mạc, 100% trong cơ<br>**4** Trong cơ<br>**5** Dưới thanh mạc, ≥ 50% trong cơ<br>**6** Dưới thanh mạc, < 50% trong cơ<br>**7** Dưới thanh mạc, có cuống<br>**8** Khác: Ghi rõ (vd: cổ tử cung...) |
-| **H (Hybrid leiomyomas)**<br>Tiếp xúc đồng thời thanh và niêm mạc | Thể hiện bằng 2 con số:<br>- **Số thứ nhất**: Liên quan niêm mạc (dùng mã S)<br>- **Số thứ hai**: Liên quan thanh mạc (dùng mã O)<br>_Ví dụ: 2-5 = Dưới thanh mạc + dưới niêm mạc (cả hai ≥ 50% trong cơ)_           |
+| **H (Hybrid leiomyomas)**<br>Tiếp xúc đồng thời thanh và niêm mạc | Thể hiện bằng 2 con số:<br>- **Số thứ nhất**: Liên quan niêm mạc (dùng mã S)<br>- **Số thứ hai**: Liên quan thanh mạc (dùng mã O)<br>_Ví dụ: 2-5 = Dưới thanh mạc + dưới niêm mạc (cả hai ≥ 50% trong cơ)_          |
 
 _Phân loại FIGO 2011._
 
@@ -125,7 +125,7 @@ _Phân loại FIGO 2011._
 | **Tranexamic acid**              | Giảm cường kinh           | 250–500 mg × 3 lần/ngày; chống chỉ định tràn khí màng phổi/thuyên tắc |
 | **COC**                          | Giảm máu kinh             | Không ảnh hưởng khối u                                                |
 | **Progestin (LNG-IUS, implant)** | Tạo teo nội mạc, giảm máu | LNG-IUS không giảm thể tích u                                         |
-| **GnRHa**                        | Giảm > 50% thể tích u     | Chuẩn bị trước mổ 1–3 tháng; Hạn chế < 6 tháng, có flare-up            |
+| **GnRHa**                        | Giảm > 50% thể tích u     | Chuẩn bị trước mổ 1–3 tháng; Hạn chế < 6 tháng, có flare-up           |
 | **GnRHa add-back (E/P)**         | Hạn chế tác dụng phụ      | Chưa chứng minh giảm khối u thêm                                      |
 | **GnRH anta**                    | Giảm estrogen nhanh       | Tránh flare-up; hiệu quả tương đương GnRHa                            |
 | **Aromatase inhibitors**         | ức chế tổng hợp estrogen  | Letrozole 12 tuần; ít tác dụng phụ hơn GnRHa                          |
