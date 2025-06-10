@@ -29,12 +29,10 @@ Xuất hiện cơn co tử cung là dấu hiệu quan trọng nhất của chuy�
 Phân biệt với cơn co Braxton-Hicks:
 
 - Cơn co sinh lý (Braxton-Hicks): Không đều, không gây đau, không làm thay đổi cổ tử cung.
-- Cơn co chuyển dạ: Tự động, đều đặn, tăng dần về cường độ và tần số, gây đau, và đặc biệt phải gây hiệu quả làm xóa mở cổ tử cung.
-
-![Cơn co Braxton-Hicks](./_images/sinh-ly-chuyen-da/con-co-braxton-hicks.png)
-
-_Cơn co Braxton-Hicks là những cơn co thưa, không đều, không gây đau, xuất hiện vào cuối thai kỳ, không gây thay đổi trên cổ tử cung._
-
+- Cơn co chuyển dạ: Tự động, đều đặn, tăng dần về cường độ và tần số, gây đau, và đặc biệt phải gây hiệu quả làm xóa mở cổ tử cung.<br>
+  _Hình ảnh "Cơn co Braxton-Hicks là những cơn co thưa, không đều, không gây đau, xuất hiện vào cuối thai kỳ, không gây thay đổi trên cổ tử cung"._
+  ![Cơn co Braxton-Hicks](./_images/sinh-ly-chuyen-da/con-co-braxton-hicks.png)
+  
 ### Xóa mở cổ tử cung
 
 Đặc điểm của xóa mở cổ tử cung:
@@ -49,22 +47,20 @@ Hiện tượng này xảy ra chủ yếu nhờ:
 
 Vòng thắt sinh lý nằm giữa thân và đoạn dưới tử cung, nếu chuyển dạ bị tắc nghẽn lâu dài, vòng này có thể trở thành vòng thắt Bandl – dấu hiệu bệnh lý.
 
+_Hình ảnh "Cơn co tử cung làm cho các thành phần của kênh cổ tử cung bị kéo lên phía trên làm cổ tử cung mỏng đi"._
 ![Xóa cổ tử cung](./_images/sinh-ly-chuyen-da/xoa-co-tu-cung.png)
 
-_Cơn co tử cung làm cho các thành phần của kênh cổ tử cung bị kéo lên phía trên làm cổ tử cung mỏng đi._
-
+_Hình ảnh "Vòng Bandl bệnh lý khi có chuyển dạ tắc nghẽn. Phía trên đáy tử cung (trái) là thân tử cung. Phía dưới (phải) là đoạn dưới"._
 ![Vòng Bandl](./_images/sinh-ly-chuyen-da/vong-bandl.png)
-
-_Vòng Bandl bệnh lý khi có chuyển dạ tắc nghẽn. Phía trên đáy tử cung (trái) là thân tử cung. Phía dưới (phải) là đoạn dưới._
 
 ### Thành lập đầu ối
 
-- Khi cổ tử cung bắt đầu mở, nút nhầy bong ra, một phần túi ối bị đẩy xuống qua lỗ cổ tử cung tạo thành "đầu ối".
-- Đầu ối có vai trò như "nêm thủy lực" giúp cổ tử cung mở nhanh hơn khi ngôi thai còn cao.
+Khi cổ tử cung bắt đầu mở, nút nhầy bong ra, một phần túi ối bị đẩy xuống qua lỗ cổ tử cung tạo thành "đầu ối".
 
-  ![Thành lập đầu ối](./_images/sinh-ly-chuyen-da/thanh-lap-dau-oi.png)
+Đầu ối có vai trò như "nêm thủy lực" giúp cổ tử cung mở nhanh hơn khi ngôi thai còn cao.
 
-  _Thành lập đầu ối phía trước ngôi thai, ở vị trí lỗ cổ tử cung._
+_Hình ảnh "Thành lập đầu ối phía trước ngôi thai, ở vị trí lỗ cổ tử cung"._
+![Thành lập đầu ối](./_images/sinh-ly-chuyen-da/thanh-lap-dau-oi.png)
 
 ## Chẩn đoán
 
@@ -88,42 +84,34 @@ Chuyển dạ gồm 3 giai đoạn:
 Xóa mở cổ tử cung chia thành 2 pha:
 
 - **Pha tiềm thời**:
-
   - Cổ tử cung mềm dần, xóa và định hướng trục.
   - Cơn co thưa, ngắn và không đều.
   - Ngôi thai bắt đầu bình chỉnh.
   - Được xác định khi cổ tử cung mở < 3cm.
-
 - **Pha hoạt động**:
-
   - Cổ tử cung mở nhanh và hoàn tất xóa.
   - Cơn co tử cung mạnh, đều, tăng dần về cường độ.
   - Ngôi thai tiến triển trong đường sinh.
   - Được xác định khi cổ tử cung mở ≥ 3cm.
 
-  ![So sánh pha tiềm thời và pha hoạt động](./_images/sinh-ly-chuyen-da/so-sanh-pha-tiem-thoi-va-pha-hoat-dong.png)
-
-  _So sánh pha tiềm thời và pha hoạt động._
+_Hình ảnh "So sánh pha tiềm thời và pha hoạt động"._
+![So sánh pha tiềm thời và pha hoạt động](./_images/sinh-ly-chuyen-da/so-sanh-pha-tiem-thoi-va-pha-hoat-dong.png)
 
 ## Theo dõi
 
 Chuyển dạ là quá trình tương tác của 3 yếu tố chính – còn gọi là "3P":
 
 1. **Power – Cơn co tử cung**
-
    - Động lực chính tạo ra xóa mở cổ tử cung và đẩy thai xuống.
    - Cơn co có hiệu quả khi nhịp nhàng, đều đặn và có biên độ lớn.
-
 2. **Passenger – Ngôi thai**
-
    - Kích thước, tư thế, kiểu thế của ngôi thai ảnh hưởng đến khả năng vượt qua khung chậu.
    - Ngôi thai cần biến dạng phù hợp để thích nghi với đường sinh.
-
 3. **Passage – Đường sinh (khung chậu)**
    - Gồm khung chậu xương và phần mềm.
    - Tạo ra lực cản và ảnh hưởng đến sự tiến triển của ngôi thai.
 
-Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo dõi bằng biểu đồ chuyển dạ. **Nội dung cần theo dõi**:
+Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo dõi bằng biểu đồ chuyển dạ:
 
 1. Cường độ và tần số cơn co tử cung.
 2. Mức độ xóa mở cổ tử cung.
@@ -133,9 +121,8 @@ Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo d
 6. Các thuốc sử dụng trong quá trình chuyển dạ.
 7. Sinh hiệu của mẹ (mạch, huyết áp, nhiệt độ...).
 
+_Hình ảnh "Biểu đồ chuyển dạ giúp theo dõi tiến trình chuyển dạ một cách trực quan"._
 ![Biểu đồ chuyển dạ](./_images/sinh-ly-chuyen-da/bieu-do-chuyen-da.jpeg)
-
-_Biểu đồ chuyển dạ giúp theo dõi tiến trình chuyển dạ một cách trực quan._
 
 ## Nguồn tham khảo
 

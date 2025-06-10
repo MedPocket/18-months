@@ -8,20 +8,16 @@ Thủy đậu (trái rạ) là bệnh truyền nhiễm cấp tính do virus vari
 ## Dịch tễ
 
 - Bệnh xảy ra quanh năm, tăng cao vào mùa xuân – đầu hè (tháng 2–6). Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; dễ thành dịch nhỏ nếu không cách ly kịp thời.
-
 - Nguồn lây duy nhất là người mắc thủy đậu và người bị zona. Đường truyền:
-
   - Qua giọt bắn đường hô hấp khi ho, hắt hơi, nói chuyện.
   - Tiếp xúc trực tiếp với dịch mụn nước rồi chạm vào mắt, miệng, mũi hoặc da.
   - Hiếm gặp: Gián tiếp qua vật dụng nhiễm dịch mụn nước (quần áo, khăn, ga giường...) nếu có dịch dính.
-
 - Thời gian lây: Bắt đầu từ 1–2 ngày trước khi nổi ban/mụn nước, kéo dài đến khi tất cả mụn nước khô vảy hoàn toàn (khoảng 5–7 ngày sau phát ban).
 
 ## Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán thủy đậu]
 Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch tễ học. Khi cần – đặc biệt ở người lớn, suy giảm miễn dịch hoặc nghi biến chứng – làm xét nghiệm bổ sung.
-
 **Lâm sàng**:
 
 - Khởi phát với sốt nhẹ hoặc vừa (37.5–39 °C), đau đầu, mệt mỏi, chán ăn.
@@ -29,20 +25,15 @@ Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch 
 - Vị trí khởi phát thường ở mặt, thân mình, sau lan toàn thân.
 - Mụn nước tròn, đường kính 2–5 mm, có thể ngứa; vài ngày sau vỡ → đóng vảy → lành không để sẹo (trừ khi bội nhiễm).
 - Diễn tiến tự giới hạn, thường 7–10 ngày.
-
-**Yếu tố dịch tễ học**:
-
+  **Yếu tố dịch tễ học**:
 - Tiếp xúc với người mắc thủy đậu trong vòng 10–21 ngày.
 - Dịch thủy đậu đang lưu hành trong cộng đồng.
 - Chưa tiêm vaccine hoặc chưa mắc bệnh trước đó.
-
-**Cận lâm sàng (nếu cần)**:
-
+  **Cận lâm sàng (nếu cần)**:
 - PCR: Phát hiện DNA VZV (độ nhạy cao).
 - Huyết thanh học: IgM (nhiễm cấp), IgG (tiền sử hoặc sau tiêm vaccine).
 - Xét nghiệm Tzanck (ít dùng): Tế bào khổng lồ đa nhân từ dịch mụn nước.
-
-:::
+  :::
 
 ## Biến chứng
 
@@ -69,10 +60,8 @@ Nhiễm thủy đậu có thể gây hội chứng thủy đậu bẩm sinh vớ
 
 - Paracetamol: 500–1000 mg mỗi 4–6 giờ (tối đa 4000 mg/ngày).
 - Thuốc chống histamin (giảm ngứa):
-
   - Diphenhydramine 25–50 mg mỗi 4–6 giờ (tối đa 300 mg/ngày).
   - Loratadine 10 mg/ngày.
-
 - Chăm sóc da: Tắm nước mát, kem bôi làm dịu, giữ da sạch, dưỡng ẩm.
 - Nghỉ ngơi, uống đủ nước, bổ sung dinh dưỡng (vitamin C, sắt, canxi, folate).
 

@@ -8,15 +8,13 @@ Tuyến vú có thể được khảo sát bằng nhiều phương tiện cận 
 1. Phát hiện sớm tổn thương (tầm soát ung thư).
 2. Định hình bản chất tổn thương (lành tính – ác tính).
 3. Lấy mẫu mô hoặc tế bào để chẩn đoán mô học/tế bào học.
-
-Danh sách các xét nghiệm/phương tiện cận lâm sàng thường sử dụng:
-
-1. Nhũ ảnh (Mammography – X-quang tuyến vú)
-2. Siêu âm (Ultrasound)
-3. Cộng hưởng từ (Breast MRI)
-4. Chọc hút tế bào bằng kim nhỏ (Fine Needle Aspiration – FNA)
-5. Sinh thiết lõi (Core Needle Biopsy)
-6. Sinh thiết mở (Open Excisional Biopsy)
+   Danh sách các xét nghiệm/phương tiện cận lâm sàng thường sử dụng:
+4. Nhũ ảnh (Mammography – X-quang tuyến vú)
+5. Siêu âm (Ultrasound)
+6. Cộng hưởng từ (Breast MRI)
+7. Chọc hút tế bào bằng kim nhỏ (Fine Needle Aspiration – FNA)
+8. Sinh thiết lõi (Core Needle Biopsy)
+9. Sinh thiết mở (Open Excisional Biopsy)
 
 ## Nhũ ảnh
 
@@ -39,20 +37,13 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
   - Trên phim CC: Phải thấy được toàn bộ mô vú từ chân vú đến góc sườn-vú, cơ ngực lớn rõ.
   - Trên phim MLO: Cơ ngực phải hiện rõ, 1/4 trên ngoài không bị che lấp, góc xương mỏm cùng – thoát qua giữa lòng nách.
 - **Hình ảnh đặc trưng**:
-
   1. **Khối đặc (mass)**: Có thể kèm bờ mờ, xù xì, nhô ra so với mô lân cận.
   2. **Hình ảnh đóng vôi (calcifications)**:
      - **Macrocalcification (đóng vôi lớn)**: Thường lành tính, hình tròn hoặc hình que, phân bố rải rác.
      - **Microcalcification (đóng vôi vi thể)**: Có thể lành tính hoặc gợi ý ung thư (nhất là khi tập trung thành chùm, có hình dạng bất thường, độ dày không đồng nhất).
-     - Phân loại các nhóm đóng vôi theo BIRADS:
-       1. Lành tính (nhẵn, to, rải rác).
-       2. Khả năng lành tính (vòng, hình tản mát, tuyến Montgomery).
-       3. Trung gian (hình đa giác, tập trung).
-       4. Nghi ngờ ác tính (hình tam giác, đĩa bay, vân xen kẽ).
-
-  ![Nhũ ảnh, phim MLO (trái) và phim CC (phải).](./_images/can-lam-sang-tuyen-vu/nhu-anh.png)
-
-  _Nhũ ảnh: Phim MLO (trái) cho thấy mô vú và cơ ngực rõ, đặc biệt 1/4 trên ngoài. Phim CC (phải) cho thấy toàn bộ mô vú từ chân vú đến núm, cơ ngực lớn và túi Chassaignac._
+     - Phân loại các nhóm đóng vôi theo BIRADS: 1. Lành tính (nhẵn, to, rải rác). 2. Khả năng lành tính (vòng, hình tản mát, tuyến Montgomery). 3. Trung gian (hình đa giác, tập trung). 4. Nghi ngờ ác tính (hình tam giác, đĩa bay, vân xen kẽ).
+       ![Nhũ ảnh, phim MLO (trái) và phim CC (phải).](./_images/can-lam-sang-tuyen-vu/nhu-anh.png)
+       _Nhũ ảnh: Phim MLO (trái) cho thấy mô vú và cơ ngực rõ, đặc biệt 1/4 trên ngoài. Phim CC (phải) cho thấy toàn bộ mô vú từ chân vú đến núm, cơ ngực lớn và túi Chassaignac._
 
 ## Siêu âm
 
@@ -73,7 +64,6 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
     2. Lát cắt hình nan hoa (radial) và hình tiếp tuyến (antiradial): Theo hướng tia phóng xạ tỏa ra từ núm-vú, giúp phát hiện khối lồi ra hoặc tổn thương đậm đặc.
     3. Khảo sát hạch nách: Tìm hạch to, thay đổi cấu trúc, tăng sinh mạch máu (Doppler).
 - **Hình ảnh đặc trưng**:
-
   - **Hình thái**: Tròn, bầu dục, tam giác, không đều.
   - **Bờ**: Trơn nhẵn (lành tính), hoặc không đều, xù xì (nghi ngờ ác tính).
   - **Phản âm**:
@@ -81,10 +71,8 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
     - Đậm đặc (solid): Giảm âm, thu hồi đáy.
     - Hỗn hợp (mixed).
   - **Doppler**: Tăng sinh mạch máu bất thường gợi ý ác tính.
-
-  ![Siêu âm tuyến vú](./_images/can-lam-sang-tuyen-vu/sieu-am-vu.png)
-
-  _(Trái) Khối nang hỗn hợp và nang đơn thuần trên siêu âm vú. (Phải) Hướng dẫn sinh thiết nang vú qua siêu âm._
+    ![Siêu âm tuyến vú](./_images/can-lam-sang-tuyen-vu/sieu-am-vu.png)
+    _(Trái) Khối nang hỗn hợp và nang đơn thuần trên siêu âm vú. (Phải) Hướng dẫn sinh thiết nang vú qua siêu âm._
 
 ## MRI
 
@@ -105,16 +93,13 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
   4. Phụ nữ có vú rất đậm đặc (density > 75%), nhũ ảnh kém nhạy.
   5. Phụ nữ đã đặt túi ngực (implant) – đánh giá tình trạng vụn silicon, rò túi.
 - **Đánh giá tổn thương**:
-
   - **Đặc tính bắt thuốc (enhancement kinetics)**:
     - **Wash-in nhanh – wash-out nhanh** (type III): Nghi ngờ ác tính.
     - **Wash-in chậm – tăng dần** (type I): Gợi ý lành tính.
     - **Wash-in nhanh – tăng dần** (type II): Có thể là tổn thương giáp biên.
   - **Phân loại theo BIRADS-MRI**: Từ 1 (bình thường) đến 6 (đã xác định u ác tính), giúp quyết định can thiệp tiếp theo.
-
-  ![Cộng hưởng từ tuyến vú](./_images/can-lam-sang-tuyen-vu/cong-huong-tu-tuyen-vu.png)
-
-  _MRI vú cung cấp hình ảnh động học và giải phẫu chi tiết, giúp đánh giá tổn thương và mức độ xâm lấn xung quanh._
+    ![Cộng hưởng từ tuyến vú](./_images/can-lam-sang-tuyen-vu/cong-huong-tu-tuyen-vu.png)
+    _MRI vú cung cấp hình ảnh động học và giải phẫu chi tiết, giúp đánh giá tổn thương và mức độ xâm lấn xung quanh._
 
 ## Chọc hút tế bào bằng kim nhỏ (FNA)
 

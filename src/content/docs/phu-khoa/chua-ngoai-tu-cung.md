@@ -4,9 +4,7 @@ description: Chửa ngoài tử cung là tình trạng trứng đã thụ tinh l
 ---
 
 Chửa ngoài tử cung (CNTC) là hiện tượng trứng đã thụ tinh không làm tổ trong buồng tử cung mà phát triển ở vị trí bất thường, phổ biến nhất là ở ống dẫn trứng. Đây là một cấp cứu sản khoa cần được phát hiện sớm để tránh nguy cơ vỡ khối thai, xuất huyết trong ổ bụng và ảnh hưởng đến khả năng sinh sản.
-
 ![Các vị trí chửa ngoài tử cung](./_images/chua-ngoai-tu-cung/vi-tri-chua-ngoai-tu-cung.png)
-
 _Các vị trí chửa ngoài tử cung._
 
 ## Yếu tố nguy cơ
@@ -27,36 +25,26 @@ _Các vị trí chửa ngoài tử cung._
 **Cơ năng**:
 
 - Tam chứng điển hình: Trễ kinh, ra huyết âm đạo bất thường (thường ít, kéo dài), đau bụng vùng hạ vị.
-
-**Thực thể**:
-
+  **Thực thể**:
 - Sinh hiệu bình thường.
 - Bụng không căng, có thể có cảm ứng phúc mạc nhẹ.
 - Tử cung to nhẹ và mềm.
 - Có thể sờ thấy khối cạnh tử cung đau, nề.
 - Cổ tử cung mềm, tím.
 - Âm đạo có thể ra huyết hoặc không.
-
-**Cận lâm sàng**:
-
+  **Cận lâm sàng**:
 - **β-hCG huyết thanh**:
-
   - Định lượng cách nhau 48 giờ.
   - Nếu β-hCG tăng ≥ 60% sau 48h → theo dõi thai trong tử cung.
   - Nếu tăng không đạt chuẩn hoặc giảm → nghi CNTC.
-
 - **Siêu âm**:
-
   - Chẩn đoán xác định khi túi thai có yolk sac hoặc phôi nằm ở phần phụ, và tử cung không có túi thai.
   - β-hCG > 1500 mIU/mL: Nên thấy túi thai qua siêu âm ngả âm đạo.
   - β-hCG > 6500 mIU/mL: Siêu âm ngả bụng thường thấy túi thai.
   - **Dấu hiệu vòng nhẫn (vòng lửa – "ring of fire")** trên siêu âm Doppler có giá trị gợi ý.
   - Cần phân biệt với túi thai giả: Không có yolk sac, màng rụng viền mỏng, không có hai vòng đồng tâm.
-
 - **Nội soi ổ bụng**: Là tiêu chuẩn vàng nhưng có thể bỏ sót nếu khối thai còn nhỏ.
-
 - **Hút/nạo buồng tử cung**:
-
   - Thực hiện nếu không thấy vị trí thai rõ ràng.
   - Mô bệnh học thấy gai nhau → sảy thai sớm.
   - Không thấy gai nhau và β-hCG không giảm → nghi CNTC.
@@ -66,16 +54,12 @@ _Các vị trí chửa ngoài tử cung._
 **Cơ năng**:
 
 - Tam chứng điển hình: Trễ kinh, ra huyết âm đạo, đau bụng dữ dội vùng hạ vị (có thể lan vai), dấu hiệu kích thích phúc mạc.
-
-**Thực thể**:
-
+  **Thực thể**:
 - Sinh hiệu thay đổi: Huyết áp tụt, mạch nhanh.
 - Bụng co cứng, đau dữ dội.
 - Khám âm đạo thấy tử cung và phần phụ rất đau, khó xác định do phản ứng.
 - Cùng đồ sau đau, có thể phồng.
-
-**Cận lâm sàng**:
-
+  **Cận lâm sàng**:
 - Chọc dò cùng đồ: Máu sẫm, không đông (cân nhắc chỉ định do xâm lấn).
 
 ### Huyết tụ thành nang
@@ -83,9 +67,7 @@ _Các vị trí chửa ngoài tử cung._
 **Cơ năng**:
 
 - Trễ kinh, ra huyết kéo dài, đau bụng vùng chậu kéo dài.
-
-**Thực thể**:
-
+  **Thực thể**:
 - Có thể thấy khối cạnh tử cung giới hạn không rõ, căng đau.
 - Thiếu máu mạn tính nhẹ.
 
@@ -127,15 +109,11 @@ _Các vị trí chửa ngoài tử cung._
 - β-hCG ≤ 5000 mIU/mL.
 - Khối thai < 4 cm.
 - Không có tim thai.
-
-**MTX liều đôi**
-
+  **MTX liều đôi**
 - β-hCG từ 3500–5000 mIU/mL.
 - Khối thai < 5 cm, đoạn kẽ < 3 cm.
 - Không có tim thai.
-
-**MTX đa liều**
-
+  **MTX đa liều**
 - β-hCG 5000–10000 mIU/mL.
 - Khối thai < 5 cm, đoạn kẽ < 3 cm.
 
@@ -157,44 +135,33 @@ _Các vị trí chửa ngoài tử cung._
 - Tăng men gan tạm thời.
 - Rụng tóc (hiếm).
 - Viêm phổi (rất hiếm).
-
-:::caution
-
-Khi điều trị MTX cần lưu ý:
-
+  :::caution
+  Khi điều trị MTX cần lưu ý:
 - Tránh vận động mạnh, quan hệ tình dục.
 - Không dùng acid folic, NSAIDs.
 - Tránh tiếp xúc ánh nắng mạnh.
 - Hoãn mang thai ít nhất 3 tháng sau điều trị.
 - Không chỉ định siêu âm thường quy sau tiêm.
 - Xét nghiệm tiền hóa trị:
-
   - Công thức máu, nhóm máu, đông máu.
   - Chức năng gan, thận.
   - X-quang phổi, ECG.
-
-:::
+    :::
 
 #### Phác đồ
 
 Tỷ lệ thành công đường toàn thân 70–95%.
-
 **MTX đơn liều**
 
 - Tiêm bắp MTX 50 mg/m² hoặc 1 mg/kg ngày 1.
 - β-hCG ngày 4 và 7:
-
   - Giảm ≥ 15% → theo dõi hàng tuần.
   - Giảm < 15% → tiêm lại (tối đa 3 liều).
   - Sau 3 liều mà β-hCG giảm < 15% → chuyển phẫu thuật.
-
-**MTX liều đôi**
-
+    **MTX liều đôi**
 - MTX ngày 1 và 4.
 - Theo dõi tương tự đơn liều, nhưng thêm liều 3–4 nếu cần.
-
-**MTX đa liều**
-
+  **MTX đa liều**
 - MTX tiêm ngày 1, 3, 5, 7.
 - Acid folic 0.1 mg/kg ngày 2, 4, 6, 8.
 - Theo dõi β-hCG liên tục, ngưng khi giảm ≥ 15%.

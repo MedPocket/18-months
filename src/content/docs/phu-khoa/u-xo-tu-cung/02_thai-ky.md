@@ -11,12 +11,9 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 
 - **Đau âm ỉ vùng chậu** thường do u xơ thoái hóa hay chèn ép.
 - **Điều trị ban đầu**:
-
   - Acetaminophen (paracetamol) liều tối đa 3 g/ngày.
   - Nếu đau nặng: Có thể dùng opioid liều chuẩn trong 48 giờ.
-
 - **NSAIDs** (ibuprofen, indomethacin) **chỉ** khi thai < 32 tuần do nguy cơ:
-
   - Đóng ống động mạch sớm.
   - Tăng áp phổi sơ sinh.
   - Đa ối, rối loạn chức năng tiểu cầu thai nhi.
@@ -32,7 +29,6 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 
 - **Không** bóc u xơ "đại trà" trong mổ lấy thai nếu không có chỉ định.
 - Cân nhắc **kỹ**:
-
   - Kinh nghiệm phẫu thuật viên.
   - Lượng máu dự trữ.
   - Vị trí, số lượng, kích thước nhân xơ.
@@ -50,20 +46,16 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 ## U xơ tử cung và hiếm muộn
 
 - **Chỉ định can thiệp**:
-
-  | Vị trí u xơ (FIGO)                | Kích thước | Khuyến nghị can thiệp trước ART                                     |
+  | Vị trí u xơ (FIGO) | Kích thước | Khuyến nghị can thiệp trước ART |
   | --------------------------------- | ---------- | ------------------------------------------------------------------- |
-  | **L0–L2 (dưới niêm mạc)**         | > 3 cm     | Nội soi buồng tử cung bóc u xơ trước ART                            |
-  | **L0–L2**                         | ≤ 3 cm     | Có thể chuyển ART ngay nếu không biến dạng                          |
-  | **L3–L5 (trong cơ)**              | —          | Nếu sảy thai liên tiếp hoặc thất bại chu kỳ ICSI: Cân nhắc bóc u xơ |
-  | **L6 (kẹt giữa cơ và thanh mạc)** | —          | Ít ảnh hưởng → ưu tiên ART trước nếu tuổi > 35                      |
-
+  | **L0–L2 (dưới niêm mạc)** | > 3 cm | Nội soi buồng tử cung bóc u xơ trước ART |
+  | **L0–L2** | ≤ 3 cm | Có thể chuyển ART ngay nếu không biến dạng |
+  | **L3–L5 (trong cơ)** | — | Nếu sảy thai liên tiếp hoặc thất bại chu kỳ ICSI: Cân nhắc bóc u xơ |
+  | **L6 (kẹt giữa cơ và thanh mạc)** | — | Ít ảnh hưởng → ưu tiên ART trước nếu tuổi > 35 |
   _Phẫu thuật u xơ._
-
   :::caution
   Trước can thiệp, bệnh nhân phải được tư vấn về nguy cơ dính tử cung, sức bền vết mổ và theo dõi dự trữ buồng trứng.
   :::
-
 - Đánh giá **tổng trạng, dự trữ buồng trứng** (AMH, FSH).
 - Ưu tiên chu kỳ ICSI nếu vòi Fallop tổn thương nặng.
 - Đối với nhân xơ kích thước nhỏ, không biến dạng lòng tử cung, có thể bắt đầu ART, theo dõi sát.

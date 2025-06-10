@@ -12,9 +12,7 @@ Nhiễm trùng ối thường do vi khuẩn xâm nhập ngược dòng từ đư
 - Chọc ối.
 - Sinh thiết gai nhau.
 - Nội soi bào thai.
-
-**Các tác nhân thường gặp**:
-
+  **Các tác nhân thường gặp**:
 - _Ureaplasma urealyticum_.
 - _Mycoplasma hominis_.
 - _Gardnerella vaginalis_.
@@ -37,15 +35,12 @@ Nhiễm trùng ối thường do vi khuẩn xâm nhập ngược dòng từ đư
 ## Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán nhiễm trùng ối]
-
-| Chẩn đoán                   | Đặc điểm                                                                                                                                                                                                                                                                             |
+| Chẩn đoán | Đặc điểm |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Mẹ sốt đơn thuần**        | Nhiệt độ mẹ ≥ 38.0°C nhưng < 39.0°C, không có nguyên nhân khác, tình trạng sốt có thể thoáng qua hoặc kéo dài                                                                                                                                                                        |
+| **Mẹ sốt đơn thuần** | Nhiệt độ mẹ ≥ 38.0°C nhưng < 39.0°C, không có nguyên nhân khác, tình trạng sốt có thể thoáng qua hoặc kéo dài |
 | **Nghi ngờ nhiễm trùng ối** | Sốt không rõ nguyên nhân kết hợp với một hoặc nhiều dấu hiệu sau:<br> 1. Tim thai cơ bản > 160 lần/phút kéo dài ≥ 10 phút<br> 2. Bạch cầu máu mẹ > 15000/mm³, không dùng corticosteroids hoặc xét nghiệm sau 48 giờ nếu có<br> 3. Dịch âm đạo đục chảy qua cổ tử cung khi đặt mỏ vịt |
-| **Xác định nhiễm trùng ối** | Có dấu hiệu nghi ngờ + ít nhất một trong các xét nghiệm dịch ối sau:<br> 1. Nhuộm Gram thấy vi khuẩn<br> 2. Nồng độ glucose ≤ 14 mg/dL<br> 3. Bạch cầu dịch ối > 30 tế bào/mm³ (không lẫn máu)                                                                                       |
-
+| **Xác định nhiễm trùng ối** | Có dấu hiệu nghi ngờ + ít nhất một trong các xét nghiệm dịch ối sau:<br> 1. Nhuộm Gram thấy vi khuẩn<br> 2. Nồng độ glucose ≤ 14 mg/dL<br> 3. Bạch cầu dịch ối > 30 tế bào/mm³ (không lẫn máu) |
 :::
-
 :::caution
 Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu bệnh có vai trò nghiên cứu, không giúp cải thiện kết cục sản khoa nếu dùng làm tiêu chuẩn xử trí.
 :::
@@ -70,15 +65,12 @@ Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu b
 - Viêm màng não.
 - Nhiễm khuẩn huyết.
 - Tử vong sơ sinh.
-
-**Di chứng lâu dài**:
-
+  **Di chứng lâu dài**:
 - Loạn sản phế quản phổi (BPD).
 - Bại não.
-
-:::caution
-Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác sĩ sơ sinh để đánh giá và xử trí sau sinh phù hợp.
-:::
+  :::caution
+  Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác sĩ sơ sinh để đánh giá và xử trí sau sinh phù hợp.
+  :::
 
 ## Điều trị
 
@@ -113,14 +105,11 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 
 - Clindamycin 900 mg truyền TM mỗi 8 giờ.
 - Hoặc Vancomycin 1 g truyền TM mỗi 12h + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
-
-:::caution
-Vancomycin chỉ dùng khi:
-
+  :::caution
+  Vancomycin chỉ dùng khi:
 - GBS đề kháng Clindamycin hoặc Erythromycin.
 - GBS nhưng chưa có kết quả kháng sinh đồ.
-
-:::
+  :::
 
 #### Nếu không đáp ứng
 
@@ -130,9 +119,8 @@ Vancomycin chỉ dùng khi:
 ### Hạ sốt
 
 - Dùng thuốc hạ sốt theo chỉ định để giảm khó chịu cho mẹ và nguy cơ cho thai.
-
-![Lưu đồ xử trí nhiễm trùng ối – Bệnh viện Từ Dũ](./_images/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)  
-_Lưu đồ xử trí nhiễm trùng ối – Bệnh viện Từ Dũ._
+  ![Lưu đồ xử trí nhiễm trùng ối – Bệnh viện Từ Dũ](./_images/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)  
+  _Lưu đồ xử trí nhiễm trùng ối – Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 

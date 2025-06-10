@@ -33,7 +33,6 @@ Tình trạng này xảy ra khi buồng trứng có phóng noãn nhưng hoàng t
 ### Rối loạn nội tiết
 
 - **Tăng prolactin máu**: Ức chế hoạt động trục hạ đồi - tuyến yên - buồng trứng, gây rối loạn phóng noãn. Nguyên nhân có thể do u tuyến yên (microadenoma), thuốc hướng thần kinh, thuốc kháng histamin, thuốc kháng bơm proton, thuốc chống nôn, thuốc điều trị trầm cảm
-
 - **Hội chứng buồng trứng đa nang (PCOS)**: Do rối loạn phát triển nang noãn, không hình thành nang trội, dẫn đến không phóng noãn. Đây là nguyên nhân phổ biến gây xuất huyết tử cung chức năng.
 
 ### Sử dụng nội tiết ngoại lai
@@ -55,9 +54,7 @@ Tình trạng này xảy ra khi buồng trứng có phóng noãn nhưng hoàng t
 - Dấu hiệu rối loạn nội tiết toàn thân (cường giáp, nhược giáp).
 - Dấu hiệu cường androgen (mụn trứng cá nặng, rậm lông, béo phì kiểu nam).
 - Khám phụ khoa để loại trừ các bất thường cấu trúc của tử cung và buồng trứng.
-
   ![Acantosis nigricans, rậm lông và mụn trứng cá nặng](./_images/xuat-huyet-tu-cung-co-nang/acantosis-nigricans-ram-long-mun-trung-ca.png)
-
   _Acantosis nigricans, rậm lông và mụn trứng cá nặng, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường._
 
 ### Cận lâm sàng
@@ -80,15 +77,10 @@ _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huy�
 #### Chẩn đoán hình ảnh
 
 - Có thể thực hiện siêu âm quy ước để khảo sát độ dày nội mạc tử cung, phản âm, bất thường trong buồng tử cung.
-
   ![Hình ảnh siêu âm của hội chứng buồng trứng đa nang](./_images/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-buong-trung-da-nang.png)
-
   _Hình chuỗi hạt kinh điển của buồng trứng đa nang. Các nang noãn nhỏ xếp thành chuỗi, phân bố ở ngoại vi buồng trứng._
-
   ![Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)](./_images/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-polyp-tu-cung.png)
-
   _Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)._
-
   :::caution
   Siêu âm có thể giúp định hướng nguyên nhân như u xơ tử cung, buồng trứng đa nang... Siêu âm bơm nước buồng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương nội mạc tử cung (polyp, dính buồng tử cung...).
   :::
@@ -96,7 +88,6 @@ _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huy�
 #### Sinh thiết nội mạc tử cung
 
 - Test chẩn đoán xác định, thường được chỉ định khi:
-
   - Phụ nữ > 35 tuổi có xuất huyết tử cung bất thường.
   - Phụ nữ đã mãn kinh có xuất huyết tử cung.
   - Giúp đánh giá mô học nội mạc tử cung và loại trừ tăng sinh, loạn sản hoặc ung thư.
@@ -108,7 +99,6 @@ _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huy�
 ## Điều trị
 
 **Mục tiêu**: Cầm máu và tái lập chu kỳ kinh nguyệt bình thường.
-
 **Lựa chọn điều trị dựa vào**:
 
 1. Nguyên nhân xuất huyết tử cung.
@@ -123,21 +113,14 @@ _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huy�
 - Oxytocin tiêm bắp hoặc truyền TM.
 - Ergometrin 0.2 mg, 1–2 ống/ngày, tiêm bắp.
 - Tranexamic acid, calci clorid tiêm TM.
-
-**Thuốc nội tiết**:
-
+  **Thuốc nội tiết**:
 - **Thuốc tránh thai phối hợp (estrogen-progestogen)**: 2–4 viên/ngày, giảm dần khi ngừng ra máu. Không dùng loại có < 20 µg ethinyl estradiol.
-
   :::caution
   Thường uống vào buổi tối, giờ cố định để giảm tác dụng phụ. Khi giảm liều mà ra máu lại, cần tăng liều trở lại và giảm từ từ.
   :::
-
 - **Estrogen đơn thuần**: Dùng khi nội mạc tử cung < 5 mm để phục hồi nội mạc → sau đó bổ sung progestogen.
-
 - **Progestin**: Dùng nếu nội mạc tử cung > 10 mm, liều 2 viên/ngày trong 10–15 ngày. Có thể dùng đơn độc để đối kháng.
-
 - **Biệt dược phổ biến**:
-
   - Estrogen: Progynova®, Valiera®, Provames®.
   - Progesterone: Utrogestan®, Duphaston®.
   - Thuốc tránh thai phối hợp: Marvelon®, Regulon®, Rigevidon®, Microgynon®.

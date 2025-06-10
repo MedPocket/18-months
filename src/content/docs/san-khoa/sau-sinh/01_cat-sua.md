@@ -20,32 +20,25 @@ Cắt sữa (ức chế tiết sữa) là biện pháp cần thiết khi ngườ
 
 - Prolactin là hormone chính chịu trách nhiệm về sự tiết sữa. Các thuốc ức chế prolactin có thể giúp ngừng tiết sữa.
 - **Bromocriptine** (đồng vận dopamine):
-
   - Liều khởi đầu 1.25–2.5 mg/ngày, chia 2 lần, sau đó tăng dần 2.5 mg mỗi 2–7 ngày, đến khi prolactin về mức bình thường.
   - Liều duy trì: 2.5–15 mg/ngày, chia 2–3 lần.
   - Theo dõi prolactin sau 4–6 tuần điều trị; nếu hết tiết sữa, bắt đầu giảm liều dần và ngưng sau 3 tháng ổn định.
-
 - **Cabergoline** (đồng vận dopamine chọn lọc):
-
   - Liều 0.25–0.5 mg 1–2 lần/tuần, hiệu quả kéo dài, ít tác dụng phụ vã mồ hôi, buồn nôn hơn Bromocriptine.
   - Dùng trong 3–6 tháng, theo dõi prolactin mỗi 4–6 tuần.
-
 - **Theo dõi sau điều trị**
-
   - Đo lại prolactin máu sau 1–2 tháng.
 
 ### Estrogen (ít dùng)
 
 - Dùng kết hợp estrogen–progestin trong thuốc tránh thai hoặc thuốc điều hòa kinh nguyệt để ức chế tiết sữa.
 - Liều dùng:
-
   - **Ethinylestradiol**: 50 µg (0,05mg) × 4 lần/ngày, uống liên tục 5–7 ngày.
   - **Conjugated equine estrogens (Premarin)**: 0.625 mg × 2 lần/ngày, uống 5–7 ngày.
   - **Diethylstilbestrol**: 1 mg × 3 lần/ngày, uống 5–7 ngày.
-
-  :::caution
-  Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc có chỉ định riêng; theo dõi nguy cơ huyết khối.
-  :::
+    :::caution
+    Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc có chỉ định riêng; theo dõi nguy cơ huyết khối.
+    :::
 
 ### NSAIDs
 

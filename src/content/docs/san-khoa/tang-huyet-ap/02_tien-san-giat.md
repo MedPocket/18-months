@@ -9,13 +9,11 @@ Tiền sản giật (Preeclampsia) là một rối loạn đặc trưng bởi t�
 
 :::note[Tiêu chuẩn chẩn đoán tiền sản giật]
 Theo ACOG Task Force 2013, chẩn đoán tiền sản giật khi:
-
-| Tiêu chí     | Chi tiết                                                                                                                                                                                                                                                                                                                              |
+| Tiêu chí | Chi tiết |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Huyết áp** | - Huyết áp tâm thu ≥ 140 mmHg **HOẶC** huyết áp tâm trương ≥ 90 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ, xuất hiện sau tuần thứ 20 của thai kỳ ở phụ nữ có huyết áp bình thường trước đó<br>- Huyết áp tâm thu ≥ 160 mmHg **HOẶC** huyết áp tâm trương ≥ 110 mmHg (xác định trong khoảng thời gian ngắn và cần điều trị hạ áp ngay) |
-| và           |                                                                                                                                                                                                                                                                                                                                       |
-| **Đạm niệu** | - ≥ 300 mg/24 giờ (hoặc suy ra từ thời gian thu thập nước tiểu tương ứng)<br>- Tỷ số Protein/creatinin ≥ 0.3<br>- Dip-Stick ≥ 1+ (chỉ dùng khi không có phương pháp định lượng khác)                                                                                                                                                  |
-
+| và | |
+| **Đạm niệu** | - ≥ 300 mg/24 giờ (hoặc suy ra từ thời gian thu thập nước tiểu tương ứng)<br>- Tỷ số Protein/creatinin ≥ 0.3<br>- Dip-Stick ≥ 1+ (chỉ dùng khi không có phương pháp định lượng khác) |
 **Hoặc** trong trường hợp **không có đạm niệu**, tăng huyết áp mới xuất hiện kèm **ít nhất 1 trong các dấu hiệu sau**:
 
 - **Giảm tiểu cầu**: Tiểu cầu < 100,000 /µL.
@@ -23,12 +21,11 @@ Theo ACOG Task Force 2013, chẩn đoán tiền sản giật khi:
 - **Suy tế bào gan**: Men gan tăng gấp 2 lần bình thường.
 - **Phù phổi**.
 - **Triệu chứng não/thị giác**: Đau đầu dữ dội, rối loạn thị giác, co giật.
-
-:::
+  :::
 
 ## Phân loại
 
-- **Không có dấu hiệu nặng.**
+- **Không có dấu hiệu nặng**.
 - **Có dấu hiệu nặng** (chỉ cần một trong các dấu hiệu dưới đây):
   1. Huyết áp tâm thu ≥ 160 mmHg hoặc tâm trương ≥ 110 mmHg (đo 2 lần cách nhau ≥ 4h).
   2. Tiểu cầu < 100,000 /µL.
@@ -39,7 +36,7 @@ Theo ACOG Task Force 2013, chẩn đoán tiền sản giật khi:
 
 ## Tiên lượng
 
-- **Trước 34 tuần**: Tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật...
+**Trước 34 tuần**: Tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật...
 
 ## Biến chứng
 
@@ -62,11 +59,11 @@ Theo ACOG Task Force 2013, chẩn đoán tiền sản giật khi:
 
 ## Điều trị
 
-- **Sinh là biện pháp duy nhất để chấm dứt tiền sản giật.**
+**Sinh là biện pháp duy nhất để chấm dứt tiền sản giật**.
 
 ### Không có dấu hiệu nặng
 
-- **Theo dõi ngoại trú.**
+- **Theo dõi ngoại trú**.
 - Không dùng thuốc hạ áp, lợi tiểu hay an thần.
 - **Nhập viện và chấm dứt thai kỳ nếu**:
   - Thai ≥ 37 tuần.
@@ -76,9 +73,8 @@ Theo ACOG Task Force 2013, chẩn đoán tiền sản giật khi:
     - Trọng lượng thai < bách phân vị 5.
     - Thiểu ối (AFI < 5 cm, 2 lần cách nhau 24 giờ).
 
+_Hình ảnh "Lưu đồ xử trí tiền sản giật không dấu hiệu nặng – Bệnh viện Từ Dũ"._
 ![Lưu đồ xử trí tiền sản giật không dấu hiệu nặng – Bệnh viện Từ Dũ](./_images/luu-do-xu-tri-tien-san-giat-khong-co-dau-hieu-nang.png)
-
-_Lưu đồ xử trí tiền sản giật không dấu hiệu nặng – Bệnh viện Từ Dũ._
 
 ### Có dấu hiệu nặng
 
@@ -93,12 +89,11 @@ Chỉ định chấm dứt thai kỳ **bất kể tuổi thai** nếu:
 
 Có thể trì hoãn nếu thai < 34 tuần và mẹ - thai ổn định để sử dụng corticosteroids.
 
-![Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ](./_images/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
-
-_Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ._
-
 Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại địa phương 7–10 ngày sau sinh.
 
+_Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ"._
+![Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ](./_images/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
+  
 ### Không chờ đợi điều trị
 
 - **Với mẹ**:
@@ -127,22 +122,18 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
   - **Duy trì**: 1–2 g/giờ TM liên tục (pha 6 g MgSO₄ 15% vào 500 mL glucose 5% hoặc bơm tiêm điện 6.7 mL/h).
   - Tiếp tục ít nhất 24 giờ sau cơn cuối hoặc sau sinh.
 - **Theo dõi**:
-
   - Theo dõi phản xạ gân xương (mất dấu hiệu sớm nhất), nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4h).
-  - Định lượng Mg²⁺ huyết thanh khi cần, giữ 4–7 mEq/L (5–9 mg/dL; 2–3.5 mmol/L).
-
-    | Nồng độ Mg²⁺ trong máu (mEq/dL) | Biểu hiện lâm sàng                                                 |
+  - Định lượng Mg²⁺ huyết thanh khi cần, giữ 4–7 mEq/L (5–9 mg/dL; 2–3.5 mmol/L).<br>
+    _Bảng "Mối tương quan giữa nồng độ Magnesium máu và biểu hiện lâm sàng"._
+    | Nồng độ Mg²⁺ trong máu (mEq/dL) | Biểu hiện lâm sàng |
     | ------------------------------- | ------------------------------------------------------------------ |
-    | **1.5 - 3**                     | Nồng độ sinh lý bình thường                                        |
-    | **4 - 6**                       | Ngưỡng điều trị (phòng ngừa/điều trị sản giật)                     |
-    | **5 - 10**                      | Thay đổi trên điện tâm đồ (ECG): Kéo dài khoảng PR, QT, dẹt sóng T |
-    | **8 - 12**                      | Mất phản xạ gân xương (phản xạ xương bánh chè)                     |
-    | **10 - 12**                     | Rối loạn ý thức: Lơ mơ, nói lảm nhảm                               |
-    | **15 - 17**                     | Liệt cơ hô hấp, suy hô hấp                                         |
-    | **≥ 30**                        | Ngừng tim, tử vong                                                 |
-
-    _Mối tương quan giữa nồng độ Magnesium máu và biểu hiện lâm sàng._
-
+    | **1.5 - 3** | Nồng độ sinh lý bình thường |
+    | **4 - 6** | Ngưỡng điều trị (phòng ngừa/điều trị sản giật) |
+    | **5 - 10** | Thay đổi trên điện tâm đồ (ECG): Kéo dài khoảng PR, QT, dẹt sóng T |
+    | **8 - 12** | Mất phản xạ gân xương (phản xạ xương bánh chè) |
+    | **10 - 12** | Rối loạn ý thức: Lơ mơ, nói lảm nhảm |
+    | **15 - 17** | Liệt cơ hô hấp, suy hô hấp |
+    | **≥ 30** | Ngừng tim, tử vong |
   - Suy thận (Creatinine 1–1.5 mg/dL) hoặc thiểu niệu (< 30 mL/h) → duy trì 1 g/h.
   - Ngộ độc (Mg > 8 mEq/L):
     1. Ngừng MgSO₄.
@@ -160,23 +151,20 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
   - HA trung bình không giảm > 25%.
   - HA tâm thu 130–150 mmHg, tâm trương 80–100 mmHg.
 - **Thuốc sử dụng**:
-
   - **Labetalol**.
   - **Hydralazine**.
   - **Chẹn kênh canxi**: Nifedipine, nicardipine.
   - **Methyldopa**.
-
 - **Thuốc không được sử dụng**: Nitroprusside, thuốc ức chế men chuyển.
 
-| Thuốc                | Cơ chế tác dụng                 | Ảnh hưởng                                                                                                                                                                                           |
+_Bảng "Phân loại thuốc chống tăng huyết áp trong thai kỳ"._
+| Thuốc | Cơ chế tác dụng | Ảnh hưởng |
 | -------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Alpha methyldopa** | Ức chế thụ thể Alpha trung ương | **Trên mẹ**:<br>- Cung lượng tim và lưu lượng máu thận không thay đổi<br>- Tác dụng phụ: Sốt, lơ mơ, viêm gan, thiếu máu tán huyết<br>**Trên thai**:<br>- An toàn tương đối, không ảnh hưởng rõ rệt |
-| **Hydralazin**       | Giảm trở kháng mạch ngoại vi    | **Trên mẹ**:<br>- Tăng cung lượng tim, đau đầu, nhịp tim nhanh, hội chứng giống Lupus<br>**Trên thai**:<br>- Lưu lượng máu thận không đổi hoặc tăng                                                 |
-| **Propranolol**      | Ức chế thụ thể Beta             | **Trên mẹ**:<br>- Giảm cung lượng tim, tăng co bóp tử cung<br>**Trên thai**:<br>- Giảm tưới máu nhau thai, nguy cơ suy hô hấp sơ sinh.                                                              |
-| **Labetalol**        | Ức chế thụ thể Alpha và Beta    | **Trên mẹ**:<br>- Run cơ, đau đầu<br>- Chống chỉ định: Hen suyễn, suy tim<br>**Trên thai**:<br>- Nguy cơ suy hô hấp sơ sinh                                                                         |
-| **Nifedipine**       | Ức chế kênh Canxi               | **Trên mẹ**:<br>- Hạ huyết áp tư thế, đau đầu<br>**Trên thai**:<br>- Chưa ghi nhận tác dụng rõ rệt                                                                                                  |
-
-_Phân loại thuốc chống tăng huyết áp trong thai kỳ._
+| **Hydralazin** | Giảm trở kháng mạch ngoại vi | **Trên mẹ**:<br>- Tăng cung lượng tim, đau đầu, nhịp tim nhanh, hội chứng giống Lupus<br>**Trên thai**:<br>- Lưu lượng máu thận không đổi hoặc tăng |
+| **Propranolol** | Ức chế thụ thể Beta | **Trên mẹ**:<br>- Giảm cung lượng tim, tăng co bóp tử cung<br>**Trên thai**:<br>- Giảm tưới máu nhau thai, nguy cơ suy hô hấp sơ sinh. |
+| **Labetalol** | Ức chế thụ thể Alpha và Beta | **Trên mẹ**:<br>- Run cơ, đau đầu<br>- Chống chỉ định: Hen suyễn, suy tim<br>**Trên thai**:<br>- Nguy cơ suy hô hấp sơ sinh |
+| **Nifedipine** | Ức chế kênh Canxi | **Trên mẹ**:<br>- Hạ huyết áp tư thế, đau đầu<br>**Trên thai**:<br>- Chưa ghi nhận tác dụng rõ rệt |
 
 #### α-Methyldopa
 

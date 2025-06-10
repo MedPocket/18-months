@@ -43,10 +43,8 @@ Nguyên nhân chính của xuất huyết tử cung bất thường trong 3 thá
 #### Siêu âm
 
 - Siêu âm qua đường âm đạo (TVS) là phương pháp sơ cấp, ưu thế về độ phân giải, giúp phát hiện:
-
   1. **Túi thai trong tử cung**: Sự có mặt hướng tới thai trong tử cung, ngoại trừ trường hợp túi giả hoặc song thai hỗn hợp.
   2. **Hoạt động của phôi và túi noãn hoàng**: Phôi có tim thai thường thấy từ tuần 6; túi noãn hoàng xuất hiện từ 5+1⁄2 tuần.
-
 - Nếu TVS **không thấy túi thai ở tuổi siêu âm 5.5–6 tuần**, cần xem xét thêm thai ngoài tử cung hoặc khảo sát bổ sung. TVS còn giúp chẩn đoán thai trứng với hình ảnh "tổ ong" và đánh giá các dạng bệnh nguyên bào nuôi.
 
 #### β-hCG
@@ -56,9 +54,8 @@ Nguyên nhân chính của xuất huyết tử cung bất thường trong 3 thá
 - **Ngưỡng phân định**: β-hCG > 1500–2000 IU/L kèm không thấy túi thai trong tử cung gợi ý thai ngoài tử cung.
 - Sau khi xác định túi thai có phôi và tim thai, vai trò β-hCG giảm.
 
+_Hình ảnh "Lược đồ tiếp cận xuất huyết 3 tháng đầu theo siêu âm"._
 ![Lược đồ tiếp cận xuất huyết 3 tháng đầu theo siêu âm](./_images/luoc-do-xuat-huyet-3-thang-dau-theo-sieu-am.png)
-
-_Lược đồ tiếp cận xuất huyết 3 tháng đầu theo siêu âm._
 
 ## Nguồn tham khảo
 

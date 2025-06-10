@@ -19,31 +19,25 @@ Theo Rotterdam 2003, chẩn đoán khi có ≥ 2/3 tiêu chí:.
    - **Lâm sàng**: Rậm lông (Ferriman–Gallwey), mụn trứng cá, hói đầu kiểu nam, béo phì trung tâm (BMI > 23 kg/m² hoặc vòng eo > 80 cm, WHR > 0.85).
    - **Cận lâm sàng**: FTI (TT/SHBG × 100) > 6.
 3. **Buồng trứng đa nang**: ≥ 12 nang 2–9 mm trên mặt cắt **và/hoặc** thể tích > 10 mL.
-
-:::
-
-:::caution
-Nếu chỉ có hình ảnh buồng trứng đa nang mà không có triệu chứng khác, chưa chẩn đoán PCOS cho đến khi xuất hiện rối loạn kinh nguyệt hoặc cường androgen.
-:::
+   :::
+   :::caution
+   Nếu chỉ có hình ảnh buồng trứng đa nang mà không có triệu chứng khác, chưa chẩn đoán PCOS cho đến khi xuất hiện rối loạn kinh nguyệt hoặc cường androgen.
+   :::
 
 ## Bệnh sinh
 
 - **Kháng insulin**: Tăng insulin → tăng androgen.
 - **Tăng LH/FSH**: Tần số và biên độ xung LH tăng.
-
-:::note[Tiêu chuẩn chẩn đoán hội chứng chuyển hóa]
-
-Có 3 trong 5 tiêu chuẩn.
-
-| Yếu tố nguy cơ                                            | Ngưỡng bất thường                                 |
-| --------------------------------------------------------- | ------------------------------------------------- |
-| **Béo phì ở bụng (đo vòng eo)**                           | > 80cm                                            |
-| **Triglycerides**                                         | ≥ 150 mg/dL                                       |
-| **HDL–C**                                                 | < 50 mg/dL                                        |
-| **Huyết áp**                                              | ≥ 130 / ≥ 85mmHg                                  |
-| **Đường huyết lúc đói và 2h sau làm test dung nạp đường** | 110–126 mg/dL và/hay glucose sau 2h 140–199 mg/dL |
-
-:::
+  :::note[Tiêu chuẩn chẩn đoán hội chứng chuyển hóa]
+  Có 3 trong 5 tiêu chuẩn.
+  | Yếu tố nguy cơ | Ngưỡng bất thường |
+  | --------------------------------------------------------- | ------------------------------------------------- |
+  | **Béo phì ở bụng (đo vòng eo)** | > 80cm |
+  | **Triglycerides** | ≥ 150 mg/dL |
+  | **HDL–C** | < 50 mg/dL |
+  | **Huyết áp** | ≥ 130 / ≥ 85mmHg |
+  | **Đường huyết lúc đói và 2h sau làm test dung nạp đường** | 110–126 mg/dL và/hay glucose sau 2h 140–199 mg/dL |
+  :::
 
 ## Điều trị
 
@@ -59,13 +53,10 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 
 - **Progestogen đơn thuần**: Dùng tối thiểu 12 ngày để giảm nguy cơ tăng sinh nội mạc tử cung và ung thư nội mạc tử cung.
 - **Viên tránh thai kết hợp** (ethinyl estradiol + progestogen kháng androgen như cyproterone, drospirenone): điều hòa kinh nguyệt, giảm nguy cơ tăng sinh nội mạc tử cung.
-
-:::caution
-
+  :::caution
 - Progestogen cần kéo dài tối thiểu 12 ngày mỗi đợt để bảo vệ nội mạc tử cung.
 - Viên phối hợp không nên dùng liên tục mà chỉ sử dụng mỗi 3–4 tháng một lần để tránh tác dụng phụ trên béo phì và chuyển hóa.
-
-:::
+  :::
 
 #### Ngừa thai
 

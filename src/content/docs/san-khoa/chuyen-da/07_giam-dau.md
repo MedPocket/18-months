@@ -16,7 +16,6 @@ description: Sử dụng giảm đau trong chuyển dạ.
 ### Yếu tố ảnh hưởng
 
 ![Các yếu tố ảnh hưởng đến đau trong chuyển dạ](./_images/giam-dau-trong-chuyen-da/yeu-to-anh-huong-den-dau-trong-chuyen-da.png)
-
 _Các yếu tố ảnh hưởng đến đau trong chuyển dạ._
 
 - **Tăng endorphin trong thai kỳ**: Mang thai làm tăng ngưỡng chịu đau, một phần do nồng độ endorphin huyết tương tăng cao. Tác dụng này bị đảo ngược khi sử dụng thuốc đối kháng opioid như naltrexone. Nồng độ chất P giảm và tác động điều hòa của progesterone lên chất dẫn truyền thần kinh cũng góp phần vào thay đổi cảm nhận đau. Lâm sàng ghi nhận phụ nữ mang thai cần lượng thuốc tê ít hơn khoảng 30% để đạt hiệu quả khi gây tê ngoài màng cứng.
@@ -29,9 +28,7 @@ _Các yếu tố ảnh hưởng đến đau trong chuyển dạ._
 ## Giảm đau trong chuyển dạ
 
 Đau trong chuyển dạ không có lợi ích sinh lý thiết yếu và không nên bị coi là "cần thiết". Giảm đau hiệu quả không những nâng cao trải nghiệm sinh đẻ mà còn có thể cải thiện kết cục sản khoa. Tuy nhiên, một số người vẫn tin rằng chịu đựng đau sẽ giúp sinh nở tốt hơn hoặc sợ rằng giảm đau sẽ làm chậm chuyển dạ — những điều này chưa có bằng chứng rõ ràng.
-
 ![Các phương pháp có thể dùng để giảm đau trong chuyển dạ](./_images/giam-dau-trong-chuyen-da/cac-phuong-phap-gay-te.png)
-
 _Các phương pháp có thể dùng để giảm đau trong chuyển dạ._
 
 ## Gây tê ngoài màng cứng
@@ -43,12 +40,9 @@ Tê ngoài màng cứng là phương pháp phổ biến trong giảm đau sản 
 - Mức độ phong bế cảm giác thay đổi theo loại thuốc, thể tích và nồng độ thuốc.
 - Giảm đau được duy trì liên tục hoặc ngắt quãng, tùy vào phác đồ.
 - Khởi phát phong bế chậm giúp giảm nguy cơ hạ huyết áp đột ngột.
-
-Phương pháp này an toàn với sản phụ có tiền sản giật nặng hoặc một số bệnh tim như hẹp van động mạch chủ.
-
-![Vị trí đâm kim tê ngoài màng cứng](./_images/giam-dau-trong-chuyen-da/gay-te-ngoai-mang-cung.png)
-
-_Vị trí đâm kim tê ngoài màng cứng._
+  Phương pháp này an toàn với sản phụ có tiền sản giật nặng hoặc một số bệnh tim như hẹp van động mạch chủ.
+  ![Vị trí đâm kim tê ngoài màng cứng](./_images/giam-dau-trong-chuyen-da/gay-te-ngoai-mang-cung.png)
+  _Vị trí đâm kim tê ngoài màng cứng._
 
 ### Chống chỉ định
 
@@ -56,8 +50,7 @@ Hai chống chỉ định tuyệt đối của tê ngoài màng cứng:
 
 1. Bệnh nhân từ chối.
 2. Nhiễm trùng tại vị trí chọc kim.
-
-Một số chống chỉ định tương đối:
+   Một số chống chỉ định tương đối:
 
 - **Đau lưng, thoát vị đĩa đệm**: Không phải chống chỉ định tuyệt đối.
 - **Bệnh lý thần kinh**: Vẫn có thể thực hiện nếu đánh giá kỹ càng.

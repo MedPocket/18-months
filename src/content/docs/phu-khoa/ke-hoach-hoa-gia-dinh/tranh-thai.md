@@ -29,32 +29,28 @@ Mỗi phương pháp được đặc trưng bằng:
 ### Tính hiệu quả
 
 Tính bằng **chỉ số Pearl** (số thai kỳ/100 năm-phụ nữ sử dụng)
-
-| Phương pháp                | Chỉ số Pearl (dùng đúng cách)     | Ghi chú                              |
+| Phương pháp | Chỉ số Pearl (dùng đúng cách) | Ghi chú |
 | -------------------------- | --------------------------------- | ------------------------------------ |
-| **DCTC đồng**              | < 1                               | Hiệu quả cao, kéo dài đến 10 năm     |
-| **DCTC LNG (hormone)**     | < 1                               | Giảm thống kinh, rong kinh           |
-| **Que cấy progestogen**    | < 1                               | Hiệu quả 3–5 năm                     |
-| **Thuốc tiêm progestogen** | ~0.3                              | Tiêm 3 tháng/lần                     |
-| **Viên phối hợp**          | ~0.3 (dùng đúng) / ~8 (thực tế)   | Cần uống đều mỗi ngày                |
-| **Bao cao su nam**         | ~2 (dùng đúng) / ~13–18 (thực tế) | Giúp phòng tránh STDs                |
-| **Xuất tinh ngoài**        | ~4 (dùng đúng) / ~20 (thực tế)    | Hiệu quả kém nếu kiểm soát không tốt |
-
+| **DCTC đồng** | < 1 | Hiệu quả cao, kéo dài đến 10 năm |
+| **DCTC LNG (hormone)** | < 1 | Giảm thống kinh, rong kinh |
+| **Que cấy progestogen** | < 1 | Hiệu quả 3–5 năm |
+| **Thuốc tiêm progestogen** | ~0.3 | Tiêm 3 tháng/lần |
+| **Viên phối hợp** | ~0.3 (dùng đúng) / ~8 (thực tế) | Cần uống đều mỗi ngày |
+| **Bao cao su nam** | ~2 (dùng đúng) / ~13–18 (thực tế) | Giúp phòng tránh STDs |
+| **Xuất tinh ngoài** | ~4 (dùng đúng) / ~20 (thực tế) | Hiệu quả kém nếu kiểm soát không tốt |
 _Tính hiệu quả._
 
 ### Tính an toàn
 
 Các yếu tố ảnh hưởng đến an toàn: Tuổi, hút thuốc, tiền sử huyết khối, bệnh lý tim mạch, tiểu đường, động kinh, cho con bú...
-
-| Phương pháp       | An toàn chung | Hạn chế thường gặp                                           |
+| Phương pháp | An toàn chung | Hạn chế thường gặp |
 | ----------------- | ------------- | ------------------------------------------------------------ |
-| **Bao cao su**    | Loại 1        | Không có                                                     |
-| **DCTC đồng**     | Loại 1–2      | Không dùng khi viêm nhiễm tiểu khung                         |
-| **Viên phối hợp** | Loại 1–4      | Không dùng nếu có nguy cơ huyết khối, trên 35 tuổi hút thuốc |
-| **Thuốc tiêm**    | Loại 1–2      | Có thể gây mất kinh, tăng cân                                |
-| **Que cấy**       | Loại 1–2      | Cần thực hiện thủ thuật đặt & rút                            |
-| **Triệt sản**     | Loại 1        | Không hồi phục                                               |
-
+| **Bao cao su** | Loại 1 | Không có |
+| **DCTC đồng** | Loại 1–2 | Không dùng khi viêm nhiễm tiểu khung |
+| **Viên phối hợp** | Loại 1–4 | Không dùng nếu có nguy cơ huyết khối, trên 35 tuổi hút thuốc |
+| **Thuốc tiêm** | Loại 1–2 | Có thể gây mất kinh, tăng cân |
+| **Que cấy** | Loại 1–2 | Cần thực hiện thủ thuật đặt & rút |
+| **Triệt sản** | Loại 1 | Không hồi phục |
 _Tính an toàn._
 
 ### Tính kinh tế
@@ -84,21 +80,15 @@ Phụ thuộc vào:
 ### Các bước tư vấn
 
 1. **Sàng lọc về tính an toàn**
-
    - Hỏi về: Bệnh lý tim mạch, nội tiết, gan, huyết khối, thuốc đang dùng...
    - Phân loại theo **WHO 1–4**. **Loại 3–4** → Không đưa vào danh sách gợi ý.
-
 2. **Lập danh sách phương pháp phù hợp**
-
    - Ưu tiên:
      - Loại 1 → Theo hiệu quả giảm dần.
      - Sau đó đến loại 2.
    - Cung cấp thông tin: Hiệu quả, tác dụng phụ, cách sử dụng.
-
 3. **Lựa chọn của người dùng**
-
    - Người dùng chọn trong danh sách, dựa trên điều kiện và sở thích cá nhân.
-
 4. **Chỉ định phương tiện cụ thể**
    - Lựa chọn thương hiệu, kích cỡ, liều lượng cụ thể.
    - Đảm bảo sẵn có trên thị trường & phù hợp về kinh tế.

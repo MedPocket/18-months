@@ -11,19 +11,16 @@ Pap's test hay phết mỏng tế bào cổ tử cung là công cụ tầm soát
 
 - Xét nghiệm tế bào học quy ước (conventional method).
 - Xét nghiệm tế bào học nhúng dịch (liquid-based method).
-
-Pap’s test quy ước rẻ hơn nhưng độ nhạy và đặc hiệu thấp hơn. Pap’s test nhúng dịch tốn kém hơn nhưng giữ được tế bào tốt hơn, nên độ nhạy và đặc hiệu cao hơn.
-
-|                             | PAP quy ước                                                          | PAP những dịch                                                    |
-| --------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **Lấy mẫu**                 | Tương đương                                                          |                                                                   |
-| **Mất tế bào khi làm lame** | Mất đến 80% số tế bào thu thập được                                  | Không bị mất tế bào                                               |
-| **Chất lượng lame**         | Khó đọc do đảm độ tế bào không đều. Buộc phải đọc hoàn toàn thủ công | Tế bào dàn trải đều. Có thể đọc sơ cấp bằng máy                   |
-| **Sensitivity (%)**         | 68                                                                   | 76                                                                |
-| **Specificity (%)**         | 79                                                                   | 89                                                                |
-| **Khảo sát vi sinh bổ túc** | Ngẫu nhiên: Candida sp. Trichomonas vaginalis                        | Có thể thực hiện được các khảo sát vi sinh bổ sung khi có yêu cầu |
-
-_So sánh 2 kỹ thuật thực hiện Pap's test._
+  Pap’s test quy ước rẻ hơn nhưng độ nhạy và đặc hiệu thấp hơn. Pap’s test nhúng dịch tốn kém hơn nhưng giữ được tế bào tốt hơn, nên độ nhạy và đặc hiệu cao hơn.
+  | | PAP quy ước | PAP những dịch |
+  | --------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
+  | **Lấy mẫu** | Tương đương | |
+  | **Mất tế bào khi làm lame** | Mất đến 80% số tế bào thu thập được | Không bị mất tế bào |
+  | **Chất lượng lame** | Khó đọc do đảm độ tế bào không đều. Buộc phải đọc hoàn toàn thủ công | Tế bào dàn trải đều. Có thể đọc sơ cấp bằng máy |
+  | **Sensitivity (%)** | 68 | 76 |
+  | **Specificity (%)** | 79 | 89 |
+  | **Khảo sát vi sinh bổ túc** | Ngẫu nhiên: Candida sp. Trichomonas vaginalis | Có thể thực hiện được các khảo sát vi sinh bổ sung khi có yêu cầu |
+  _So sánh 2 kỹ thuật thực hiện Pap's test._
 
 ### Điều kiện
 
@@ -34,8 +31,7 @@ _So sánh 2 kỹ thuật thực hiện Pap's test._
 3. Không đặt thuốc ở âm đạo trong vòng 3 ngày gần đây.
 4. Không giao hợp, không thụt rửa âm đạo trong vòng 48 giờ trước.
 5. Không khám âm đạo bằng tay hoặc dùng dầu bôi trơn trước đó.
-
-Phụ nữ mãn kinh nên dùng estrogen tại chỗ vài ngày trước khi lấy mẫu.
+   Phụ nữ mãn kinh nên dùng estrogen tại chỗ vài ngày trước khi lấy mẫu.
 
 ### Quy trình
 
@@ -49,17 +45,11 @@ Trước khi lấy mẫu, cần điền thông tin trên phiếu xét nghiệm:
 
 - **Pap’s test quy ước**: Lấy hai lam phết tế bào từ cổ ngoài và cổ trong. Ghi bằng bút chì tên, tuổi và vị trí lấy trên lam. Mẫu cố định bằng cồn 95° hoặc keo phun.
 - **Pap’s test Thin Prep**: Lấy mẫu tương tự nhưng cho vào lọ chứa dung dịch nhúng dịch.
-
   ![Dụng cụ làm Pap's test](./_images/pap-test-va-soi-co-tu-cung/dung-cu-lam-pap.png)
-
   _Dụng cụ làm Pap’s test (từ trái sang):<br> 1. Cytobrush cho kênh cổ tử cung.<br> 2. Que Ayre cho Pap’s test quy ước.<br> 3. Chổi lớn cho Thin Prep._
-
   ![Cách lấy mẫu](./_images/pap-test-va-soi-co-tu-cung/cach-lay-mau-pap.png)
-
   _Cách lấy mẫu (từ trái sang):<br> 1. Cytobrush: Lấy ở kênh tử cung, áp vào SCJ, không đưa quá sâu.<br> 2. Que Ayre: Lấy hai lần, đầu to và đầu nhọn, áp vào vùng chuyển sản để lấy SCJ.<br> 3. Chổi lớn: Áp vào SCJ và vùng chuyển sản._
-
   ![Cách trải lame](./_images/pap-test-va-soi-co-tu-cung/cach-trai-lame.png)
-
   _Cách trải lam:<br> 1. Chổi lớn: Kéo để trải.<br> 2. Cytobrush: Lăn tròn để trải.<br> 3. Que Ayre: Kéo để trải._
 
 ### HPV testing
@@ -87,35 +77,24 @@ Theo Bethesda 2014, kết quả phân thành ba nhóm chính:
 #### Bất thường tế bào biểu mô
 
 - **Tế bào gai (Squamous cell)**
-
   - Tế bào gai không điển hình (Atypical squamous cells - ASC).
-
     - ASC-US: Không xác định được tổn thương mức cao.
     - ASC-H: Không thể loại trừ tổn thương trong biểu mô vảy mức độ cao.
-
   - LSIL (Low-grade squamous intraepithelial lesions): Dị sản nhẹ/CIN 1/HPV.
   - HSIL (High-grade squamous intraepithelial lesions): Dị sản vừa/nặng, CIN 2/3, carcinoma in situ.
   - Với tính chất nghi ngờ xâm lấn: Có đặc trưng nghi ngờ xâm lấn.
   - Ung thư tế bào gai (Squamous cell carcinoma).
-
 - **Tế bào tuyến (Glandular cell)**
-
   - Atypical:
-
     - Endocervical cells, no otherwise specified (N/O).
     - Endometrial cells, N/O.
     - Glandular cells, N/O.
-
   - Atypical favor neoplastic:
-
     - Endocervical cells, favor neoplastic.
     - Glandular cells, favor neoplastic.
-
   - Endocervical adenocarcinoma in situ.
   - Adenocarcinoma (có thể ở kênh cổ tử cung, nội mạc tử cung, ngoài tử cung hoặc N/O).
-
 - **Các tổn thương tiền xâm lấn của ung thư cổ tử cung**
-
   - ASC (ASC-US, ASC-H).
   - LSIL (CIN 1, koilocytotic atypia).
   - HSIL (CIN 2, CIN 3, carcinoma in situ).
@@ -176,44 +155,29 @@ Tiến trình soi gồm ba bước:
 ### Phân loại
 
 Theo ASCCP:
-
 ![Hình ảnh cổ tử cung bình thường qua soi cổ](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-binh-thuong.png)
-
 _Cổ tử cung bình thường qua soi._
-
 ![Hình ảnh chuyển sản với ranh giới lát trụ, biểu mô lát non](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-ranh-gioi-lat-tru-bieu-mo-lat-non.png)
-
 _Cổ tử cung chuyển sản với ranh giới lát trụ, biểu mô lát non._
-
 ![Hình ảnh cổ tử cung chuyển sản với cửa tuyến, đảo tuyến](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-cua-tuyen-dao-tuyen.png)
-
 _Cổ tử cung chuyển sản với cửa tuyến, đảo tuyến._
-
 ![Hình ảnh cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-tai-tao-voi-luoi-bieu-mo-chuyen-san-non.png)
-
 _Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non._
 
 - **Nhóm hình ảnh bình thường**:
-
   - Biểu mô lát nguyên thủy (Original Squamous Epithelium - OSE).
   - Biểu mô trụ.
   - Vùng chuyển tiếp.
-
 - **Nhóm hình ảnh bất thường** (trong hoặc ngoài TZ):
-
   - Acetowhite (AW).
   - Punctuation (P).
   - Mosaic (M).
   - Leukoplasia (L).
   - Vùng không bắt màu Iodine.
   - Mạch máu bất thường.
-
 - **Nghi ngờ ung thư xâm lấn**.
-
 - **Nhóm hình ảnh không đầy đủ**:
-
   - Không thấy vùng chuyển tiếp, nhiễm trùng nặng, teo sau mãn kinh, hẹp âm đạo.
-
 - **Nhóm dấu hiệu khác**:
   - Viêm cổ tử cung-âm đạo.
   - Loét cổ tử cung.

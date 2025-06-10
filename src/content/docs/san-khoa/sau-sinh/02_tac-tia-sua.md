@@ -17,10 +17,8 @@ Tắc tia sữa là tình trạng sữa ứ đọng trong các ống dẫn sữa
 
 - **Cho con bú/vắt sữa thường xuyên**: Bú kéo dài 15–20 phút mỗi bên, hoặc kết hợp vắt tay/vắt máy ngay khi cảm giác căng tức.
 - **Massage và vỗ ấm**:
-
   - Massage nhẹ vùng tia tắc theo hướng từ nền ngực về núm vú.
   - Chườm khăn ấm 10–15 phút trước bú/vắt để làm mềm mô và kích thích thông tuyến.
-
 - **Thay đổi tư thế bú**: Thử các tư thế: đứng, ngồi thẳng, nằm nghiêng, bế chéo để bé hút đủ các tia sữa bị tắc.
 - **Mặc áo ngực thoải mái**: Dùng áo lót chuyên dụng cho con bú, không ép chặt ngực.
 - **Nghỉ ngơi và dinh dưỡng**: Uống đủ nước, ăn đa dạng dưỡng chất, ngủ đủ giấc, giảm stress.
@@ -41,7 +39,6 @@ Tắc tia sữa là tình trạng sữa ứ đọng trong các ống dẫn sữa
 
 - **Metoclopramide** 10mg × 3 lần/ngày, 5–7 ngày.
 - **Domperidone** 10mg × 3 lần/ngày, 5–7 ngày.
-
   :::caution
   Các thuốc kích thích chỉ dùng khi sản lượng sữa giảm.
   :::

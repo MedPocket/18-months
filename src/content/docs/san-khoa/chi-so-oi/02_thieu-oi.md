@@ -14,14 +14,16 @@ Thiểu ối là tình trạng dịch ối ít hơn so với tuổi thai tương
 
 ### Từ phía thai
 
-- Thiểu ối do nguyên nhân thai thường xuất hiện sau 17–20 tuần:
+- Bất thường nhiễm sắc thể.
+- Bất thường bẩm sinh, đặc biệt là đường tiết niệu.
+- Thai chậm tăng trưởng.
+- Thai lưu.
+- Thai quá ngày.
+- Ối vỡ sớm, ối vỡ non.
 
-  - Bất thường nhiễm sắc thể.
-  - Bất thường bẩm sinh, đặc biệt là đường tiết niệu.
-  - Thai chậm tăng trưởng.
-  - Thai lưu.
-  - Thai quá ngày.
-  - Ối vỡ sớm, ối vỡ non.
+:::caution
+Nguyên nhân thai thường xuất hiện sau 17–20 tuần.
+:::
 
 ### Từ phần phụ
 
@@ -32,7 +34,6 @@ Thiểu ối là tình trạng dịch ối ít hơn so với tuổi thai tương
 ## Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán thiểu ối]
-
 Chủ yếu dựa vào siêu âm:
 
 - Chỉ số ối (Amniotic Fluid Index – AFI) ≤ 5 cm.
@@ -41,9 +42,11 @@ Chủ yếu dựa vào siêu âm:
 
 :::
 
-- Lâm sàng có thể thấy bề cao tử cung nhỏ hơn tuổi thai.
-- Có thể thấy ối rỉ; test Nitrazine dương tính khi vỡ ối.
-- Xét nghiệm TORCH, karyotype để phát hiện nhiễm trùng hoặc dị tật.
+Lâm sàng có thể thấy bề cao tử cung nhỏ hơn tuổi thai.
+
+Có thể thấy ối rỉ; test Nitrazine dương tính khi vỡ ối.
+
+Xét nghiệm TORCH, karyotype để phát hiện nhiễm trùng hoặc dị tật.
 
 ## Điều trị
 
@@ -57,7 +60,6 @@ Chủ yếu dựa vào siêu âm:
 
 - Tư vấn tình trạng thai.
 - Truyền ối khi có chỉ định:
-
   - Tuổi thai > 16 tuần.
   - Lấy ối làm xét nghiệm nhiễm sắc thể, TORCH...
   - Hỗ trợ siêu âm tầm soát hình thái học thai nhi.
@@ -66,22 +68,16 @@ Chủ yếu dựa vào siêu âm:
 
 - Tư vấn tình trạng thai.
 - Chấm dứt thai kỳ:
-
   - SDP ≤ 1 cm:
-
     - ≥ 34 tuần: Mổ lấy thai.
     - < 34 tuần: điều trị chờ chuyển dạ.
-
   - 1 ≤ SDP ≤ 2 cm: Thai ≥ 37 tuần sinh thường hoặc mổ lấy thai.
-
 - Liệu pháp corticosteroids:
-
   - Thường quy từ 28 tuần đến 33 tuần 6 ngày.
   - Cân nhắc với trường hợp 24–27 tuần 6 ngày.
 
+_Hình ảnh "Phác đồ xử trí thiểu ối đơn thuần – Bệnh viện Từ Dũ"._
 ![Phác đồ xử trí thiểu ối đơn thuần – Bệnh viện Từ Dũ](./_images/thieu-oi/phac-do-xu-tri-thieu-oi-don-thuan.png)
-
-_Phác đồ xử trí thiểu ối đơn thuần – Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 

@@ -22,13 +22,11 @@ Nguyên nhân sinh non chia làm hai nhóm chính:
 
 1. **Sinh non chỉ định** (20%): Do các chỉ định y khoa như tiền sản giật, nhau tiền đạo, thai chậm tăng trưởng nặng gây suy thai.
 2. **Sinh non tự phát** (80%): Thường do chuyển dạ sinh non hoặc vỡ ối non (PPROM - Preterm Premature Rupture Of Membranes).
-
-Các cơ chế bệnh sinh liên quan:
-
-1. Hoạt hóa trục hạ đồi–tuyến yên–tuyến thượng thận ở mẹ hoặc thai nhi do stress, tăng corticosteroids.
-2. Nhiễm trùng màng ối, màng đệm hoặc nhiễm khuẩn âm đạo.
-3. Giảm tưới máu màng rụng và xuất huyết tại lớp màng rụng (bong rau).
-4. Tử cung căng giãn quá mức do đa thai, đa ối hoặc dị dạng tử cung.
+   Các cơ chế bệnh sinh liên quan:
+3. Hoạt hóa trục hạ đồi–tuyến yên–tuyến thượng thận ở mẹ hoặc thai nhi do stress, tăng corticosteroids.
+4. Nhiễm trùng màng ối, màng đệm hoặc nhiễm khuẩn âm đạo.
+5. Giảm tưới máu màng rụng và xuất huyết tại lớp màng rụng (bong rau).
+6. Tử cung căng giãn quá mức do đa thai, đa ối hoặc dị dạng tử cung.
 
 ## Yếu tố nguy cơ
 
@@ -62,18 +60,11 @@ Các cơ chế bệnh sinh liên quan:
 - Monitor sản khoa theo dõi tần số và cường độ cơn gò.
 - Theo dõi xuất huyết sản phụ (rau bong non, nhau tiền đạo).
 
-:::caution  
-Khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do tách màng ối.  
-:::
-
 ### Chiều dài cổ tử cung
 
-- Đo siêu âm ngả âm đạo, từ lỗ ngoài đến lỗ trong cổ tử cung.
-
+- Đo siêu âm ngả âm đạo, từ lỗ ngoài đến lỗ trong cổ tử cung.<br>
+  _Hình ảnh "Chiều dài cổ tử cung"._
   ![Chiều dài cổ tử cung](./_images/chieu-dai-co-tu-cung.png)
-
-  _Chiều dài cổ tử cung._
-
 - Tuần 19–23 tuần 6 ngày: Nên khảo sát định kỳ.
 - Tuần 24, nếu không triệu chứng mà cổ tử cung < 25 mm → nguy cơ sinh non tăng.
 - Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ 1%.
@@ -81,11 +72,9 @@ Khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do tách màng
 ### Hình dạng lỗ tử cung
 
 - Cổ tử cung dạng U, Y: Nguy cơ cao.
-- Dạng I (hình phễu nhẹ): Tiên lượng tốt hơn.
-
+- Dạng I (hình phễu nhẹ): Tiên lượng tốt hơn.<br>
+  _Hình ảnh "Hình dạng lỗ tử cung"._
   ![Hình dạng lỗ tử cung](./_images/hinh-dang-lo-tu-cung.png)
-
-  _Hình dạng lỗ tử cung._
 
 ### Xét nghiệm sinh hóa
 
@@ -96,13 +85,13 @@ Khám bằng tay có thể vô tình làm tăng nguy cơ sinh non do tách màng
 
 ### Lâm sàng
 
-**Đơn thai**: Co tử cung đều đặn (≥ 4 cơn/20 phút hoặc ≥ 8 cơn/60 phút) và:
+**Đơn thai** cơn co tử cung đều đặn (≥ 4 cơn/20 phút hoặc ≥ 8 cơn/60 phút) và:
 
 - Cổ tử cung mở ≥ 3 cm.
 - Hoặc chiều dài cổ tử cung < 20 mm.
 - Hoặc chiều dài 20–< 30 mm kèm fFN (+).
 
-**Song thai**: Co tử cung đều đặn (như trên) và:
+**Song thai** cơn co tử cung đều đặn (như trên) và:
 
 - Cổ tử cung mở ≥ 3 cm.
 - Hoặc chiều dài cổ tử cung < 25 mm.
@@ -129,15 +118,16 @@ Biểu hiện kèm: Ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng 
 - Kháng sinh dự phòng GBS nếu cần.
 - Phối hợp bác sĩ sơ sinh.
 
-### Thuốc cắt cơn
+### Thuốc cắt cơn gò
 
+_Bảng "Thuốc cắt cơn gò"._
 | Nhóm thuốc                       | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                      | Lưu ý                                                                                                                            |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Đối vận với thụ thể oxytocin** | Đối vận với thụ thể của oxytocin trên cơ tử cung, ngăn cản tác dụng co cơ tử cung của oxytocin nội sinh | Hiện không có tác dụng phụ quan trọng được ghi nhận                                                                                                                               | Là thuốc duy nhất được dán nhãn (_labelled_) cho điều trị sinh non                                                               |
 | **Ức chế kênh calcium**          | Ngăn chặn Ca²⁺ đi vào tế bào                                                                            | Hạ huyết áp và nhức đầu; có thể làm giảm lưu lượng máu nhau-tử cung, giảm oxygen và tăng CO₂ ở thai nhi                                                                           | - Có thể làm nặng thêm tác dụng phụ của MgSO₄<br>- Không được dán nhãn cho điều trị sinh non<br>- Thường ít dùng do tác dụng phụ |
 | **Đồng vận β-adrenergic**        | Tăng nồng độ cAMP (_cyclic adenosine MonoPhosphate_) trong tế bào, làm giảm nồng độ calcium             | - Hạ huyết áp, nhịp tim nhanh, nặng ngực/đau ngực, thay đổi ECG<br>- Có thể gây phù phổi (đặc biệt khi quá tải tuần hoàn)<br>- Chống chỉ định tương đối: Bệnh mạch vành, suy thận | - Salbutamol không được dán nhãn cho điều trị sinh non<br>- Dùng kéo dài không được xem là an toàn cho thai nhi                  |
 
-:::caution  
+:::caution
 Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều loại, hoặc sau 34 tuần.  
 :::
 
@@ -154,7 +144,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 - Đa thai (uống nifedipine cẩn trọng, ưu tiên Antosiban).
 - Ối vỡ non, rối loạn nhịp, tăng huyết áp, nhược cơ, rau bong non, giảm kali máu, dị ứng.
 
-#### Ức đối vận với oxytocin
+#### Đối vận với oxytocin
 
 - **Cơ chế**: Antosiban (Tractocile) có cấu trúc mô phỏng peptide 9 của oxytocin. Đây là peptide tổng hợp có tác dụng đối kháng cạnh tranh với oxytocin, làm giảm tần số cơn gò và trương lực cơ tử cung, đồng thời gắn kết với các thụ thể vasopressin.
 - **Chống chỉ định**:
@@ -163,7 +153,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
   - Thai chậm phát triển trong tử cung.
   - Nhau tiền đạo.
 - **Liều dùng**:
-  - **Bước 1**: Liều tấn công lọ 1 (37.5 mg/5 mL): lấy 6.75 mg (0.9 mL) pha vào 10 mL Ringer lactate, tiêm TM chậm > 1 phút (còn 4.1 mL).
+  - **Bước 1**: Liều tấn công lọ 1 (37.5 mg/5 mL) lấy 6.75 mg (0.9 mL) pha vào 10 mL Ringer lactate, tiêm TM chậm > 1 phút (còn 4.1 mL).
   - **Bước 2**: Liều duy trì với lọ 1 còn 30.75 mg (4.1 mL) pha 36.9 mL Ringer lactate, truyền bơm tiêm điện 24 mL/h. Sau đó pha tiếp lọ 2 (37.5 mg/5 mL) trong 45 mL Ringer lactate, truyền 24 mL/h trong 3 giờ đầu.
   - **Bước 3**: Phần còn lại ở bước 2 (19 mL) truyền 8 mL/h. Sau đó pha lọ 3 (37.5 mg/5 mL) thành 50 mL Ringer lactate, truyền 8 mL/h. Thời gian dùng tối đa 45 giờ.
 - **Tác dụng phụ** thường nhẹ: Buồn nôn, nhức đầu, chóng mặt, bừng nóng, nôn, nhịp tim nhanh, dị ứng thuốc.
@@ -171,7 +161,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 #### Ức chế calcium
 
-- Nifedipine ức chế kênh calci type II, có nhiều ở mạch máu, tử cung và bàng quang. Gây dãn cơ trơn, giảm lượng calci vào tế bào. Hoạt động trên cơ trơn mạch gấp 18 lần so với cơ tim, ảnh hưởng huyết động, giảm huyết áp động mạch và tăng nhịp tim.
+- **Cơ chế**: Nifedipine ức chế kênh calci type II, có nhiều ở mạch máu, tử cung và bàng quang. Gây dãn cơ trơn, giảm lượng calci vào tế bào. Hoạt động trên cơ trơn mạch gấp 18 lần so với cơ tim, ảnh hưởng huyết động, giảm huyết áp động mạch và tăng nhịp tim.
 - **Chống chỉ định**:
   - Huyết áp mẹ < 90/50 mmHg hoặc có bệnh tim mạch nặng.
   - Rối loạn chức năng gan hoặc thận.
@@ -197,7 +187,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 #### Betamimetics
 
-- Betamimetics (ví dụ Salbutamol) là dẫn xuất catecholamines làm dãn cơ tử cung và cơ trơn khác qua kích thích thụ thể β₂.
+- **Cơ chế**: Betamimetics (ví dụ Salbutamol) là dẫn xuất catecholamines làm dãn cơ tử cung và cơ trơn khác qua kích thích thụ thể β₂.
 - **Chống chỉ định**:
   - Mẹ có bệnh tim mạch.
   - Tăng huyết áp nặng hoặc không kiểm soát.
@@ -232,7 +222,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 - MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần).
 - **Chỉ định**:
-  - Thai 24–31 + 6 tuần có nguy cơ sinh non trong 24 giờ.
+  - Thai 24–31 tuần 6 ngày có nguy cơ sinh non trong 24 giờ.
   - Dùng lý tưởng 4 giờ trước sinh khi có chỉ định chấm dứt thai kỳ.
 - **Chống chỉ định**: Mẹ bị nhược cơ.
 - **Thận trọng**: Mẹ có bệnh cơ tim hoặc rối loạn dẫn truyền nhịp.
@@ -260,26 +250,21 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 ### Khâu vòng cổ tử cung
 
 - Cho trường hợp hở eo tử cung, kênh cổ ngắn < 25 mm.
-- Không lợi ở cổ ngắn không có tiền sử sinh non, có nguy cơ ở song thai.
-
+- Không lợi ở cổ ngắn không có tiền sử sinh non, có nguy cơ ở song thai.<br>
+  _Hình ảnh "Khâu vòng cổ tử cung"._
   ![Khâu vòng cổ tử cung](./_images/khau-vong-co-tu-cung.png)
-
-  _Khâu vòng cổ tử cung._
 
 ### Pessary
 
 - Giảm tỷ lệ sinh non < 34 và < 37 tuần.
 - Gây tiết dịch âm đạo, cần theo dõi viêm.
 - Đặt 14–32 tuần hoặc 2 tuần trước mốc sinh non trước đó.
-- Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.
-
+- Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.<br>
+  _Hình ảnh "Vòng nâng cổ tử cung"._
   ![Vòng nâng cổ tử cung](./_images/vong-nang-co-tu-cung.png)
 
-  _Vòng nâng cổ tử cung._
-
+_Hình ảnh "Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ"._
 ![Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ.](./_images/luu-do-du-phong-sinh-non.png)
-
-_Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 

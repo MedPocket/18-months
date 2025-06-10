@@ -21,15 +21,13 @@ Sản giật và hội chứng HELLP là hai biến chứng nghiêm trọng và 
 #### Nguyên tắc
 
 - Phòng ngừa thiếu O₂, chấn thương.
-- Điều trị tăng huyết áp, phòng co giật.
+- Điều trị tăng huyết áp, phòng co giật bằng MgSO₄.
 - Xem xét chấm dứt thai kỳ.
 
 #### Phòng co giật
 
-**Magnesium sulfate (MgSO₄)**:
-
-- Tấn công: 4–6 g TM chậm.
-- Duy trì: 1–2 g/h đến 24 giờ sau sinh
+- Tấn công: MgSO₄ 4–6 g TM chậm.
+- Duy trì: MgSO₄ 1–2 g/h đến 24 giờ sau sinh
 - Ngưng khi có dấu hiệu ngộ độc.
 
 :::caution

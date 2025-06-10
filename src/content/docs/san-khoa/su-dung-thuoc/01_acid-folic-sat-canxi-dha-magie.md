@@ -13,19 +13,14 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 - Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydrofolate – dạng hoạt động sinh học) có vai trò thiết yếu trong quá trình tạo mới tế bào và tổng hợp DNA:
 - **Vai trò**:
-
   - Ngăn ngừa dị tật ống thần kinh (nứt đốt sống, não úng thủy).
   - Hỗ trợ phát triển não bộ và tủy sống thai nhi.
   - Giảm nguy cơ sinh non, trẻ nhẹ cân, tiền sản giật.
   - Tăng cường chức năng tim mạch và thần kinh.
   - Hỗ trợ phân chia tế bào, tạo máu và hình thành nhau thai.
-
 - **Tác dụng phụ**:
-
   - Hiếm gặp; liều rất cao có thể che giấu thiếu hụt vitamin B12 (gây rối loạn thần kinh).
-
 - **Nguồn thực phẩm giàu folate**:
-
   - Rau lá xanh đậm: Bina, cải bó xôi, súp lơ xanh.
   - Gan động vật.
   - Các loại đậu: đậu lăng, đậu hà lan.
@@ -36,19 +31,14 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 - DHA là axit béo omega-3 chuỗi dài, rất cần thiết cho sự phát triển hệ thần kinh và thị giác:
 - **Vai trò**:
-
   - Thúc đẩy phát triển não bộ và võng mạc, đặc biệt trong 3 tháng cuối thai kỳ và 2 năm đầu đời.
   - Tăng khả năng nhận thức, trí thông minh (IQ).
   - Hỗ trợ sức khỏe tim mạch và hệ miễn dịch cho mẹ và bé.
   - Giảm nguy cơ sinh non, nhẹ cân, trầm cảm sau sinh.
   - Hỗ trợ ổn định huyết áp, giảm nguy cơ tiền sản giật.
-
 - **Tác dụng phụ**:
-
   - Mùi tanh, ợ nóng nếu sản phẩm kém tinh khiết.
-
 - **Nguồn thực phẩm giàu DHA**:
-
   - Cá béo: Cá hồi, cá thu, cá mòi (ưu tiên cá đánh bắt tự nhiên, tránh cá chứa thủy ngân).
   - Trứng bổ sung DHA, tảo biển.
   - Hạt chia, óc chó (chứa ALA – tiền chất chuyển hóa thành DHA).
@@ -58,19 +48,14 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 - Sắt là khoáng chất thiết yếu tạo hemoglobin, giúp vận chuyển O₂:
 - **Vai trò**:
-
   - Ngăn ngừa thiếu máu do thiếu sắt – tình trạng phổ biến trong thai kỳ.
   - Đảm bảo cung cấp O₂ đầy đủ cho thai nhi và cơ thể mẹ.
   - Giảm nguy cơ sinh non, thai nhẹ cân.
   - Hỗ trợ phát triển hệ miễn dịch và thần kinh của thai nhi.
-
 - **Tác dụng phụ**:
-
   - Táo bón, phân sẫm màu, buồn nôn, đau dạ dày.
   - Giảm hấp thu nếu dùng cùng canxi hoặc thực phẩm giàu phytate.
-
 - **Nguồn thực phẩm giàu sắt**:
-
   - Gan động vật, thịt đỏ (bò, cừu).
   - Hải sản: Sò huyết, ngao, hến.
   - Rau lá xanh đậm: Rau muống, cải bó xôi.
@@ -80,18 +65,13 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 - Canxi là thành phần chính cấu tạo xương, răng và hỗ trợ chức năng cơ bắp, thần kinh:
 - **Vai trò**:
-
   - Hình thành và phát triển hệ xương, răng cho thai nhi.
   - Bảo vệ mẹ khỏi loãng xương trong và sau thai kỳ.
   - Hỗ trợ co cơ, dẫn truyền thần kinh, điều hòa huyết áp.
   - Giảm nguy cơ tiền sản giật và chuột rút cơ.
-
 - **Tác dụng phụ**:
-
   - Táo bón, đầy bụng khi dùng liều cao hoặc dạng khó hấp thu.
-
 - **Nguồn thực phẩm giàu canxi**:
-
   - Sữa, phô mai, sữa chua.
   - Cá nhỏ ăn cả xương: Cá cơm, cá mòi.
   - Rau xanh: Cải bó xôi, cải xoăn, rau dền.
@@ -102,19 +82,14 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 - Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong cơ thể:
 - **Vai trò**:
-
   - Giảm chuột rút, cải thiện giấc ngủ và thư giãn cơ bắp.
   - Điều hòa huyết áp, hỗ trợ giảm nguy cơ tiền sản giật.
   - Tăng cường chuyển hóa năng lượng.
   - Giảm lo âu, cải thiện tâm trạng.
   - Hỗ trợ nhịp tim ổn định và chức năng thần kinh.
-
 - **Tác dụng phụ**:
-
   - Tiêu chảy nếu dùng quá liều hoặc dạng magie không phù hợp.
-
 - **Nguồn thực phẩm giàu magie**:
-
   - Hạt: Bí, hướng dương, điều.
   - Các loại đậu: đậu đen, đỏ, nành.
   - Rau lá xanh: Bina, cải bó xôi.
@@ -130,13 +105,11 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 | **Tam cá nguyệt III (28–40 tuần)** | 400–800 µg/ngày | 200–300 mg/ngày | 30–60 mg/ngày              | 1000–1200 mg/ngày      | 200 mg/ngày nếu có triệu chứng  |
 
 _Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai._
-
 :::caution
 
 - Bắt đầu bổ sung acid folic ít nhất 1 tháng trước khi mang thai; nếu có tiền sử dị tật ống thần kinh, có thể cần 4–5 mg/ngày theo chỉ định bác sĩ.
 - Magie chỉ cần bổ sung nếu có triệu chứng như chuột rút, mất ngủ, lo âu.
-
-:::
+  :::
 
 ## Hướng dẫn bổ sung
 
@@ -147,7 +120,6 @@ _Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai._
 | **Tối**  | Sắt              | Uống sắt trước bữa tối hoặc trước khi ngủ, nên kèm vitamin C (cam, ổi) để tăng hấp thu. |
 
 _Hướng dẫn bổ sung acid folic, DHA, sắt, canxi, magie hằng ngày._
-
 :::caution
 
 - **Không** uống sắt và canxi cùng lúc (canxi ức chế hấp thu sắt).
@@ -155,8 +127,7 @@ _Hướng dẫn bổ sung acid folic, DHA, sắt, canxi, magie hằng ngày._
 - Magie nên uống sau bữa ăn nhẹ để giảm nguy cơ tiêu chảy.
 - Tránh uống canxi với cà phê, trà, nước ngọt có ga vì làm giảm hấp thu.
 - Uống đủ nước mỗi ngày (1.5–2 L) để hỗ trợ tiêu hóa và phòng táo bón.
-
-:::
+  :::
 
 ## Nguồn tham khảo
 

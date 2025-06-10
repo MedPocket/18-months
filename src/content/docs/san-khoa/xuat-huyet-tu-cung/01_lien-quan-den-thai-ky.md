@@ -15,30 +15,21 @@ Xuất huyết âm đạo ở phụ nữ mang thai (xuất huyết tử cung li�
 Các kiểu xuất huyết có thể nhẹ hoặc nặng, thỉnh thoảng hoặc liên tục, có thể kèm hoặc không kèm đau bụng. Bốn nhóm nguyên nhân chính (không tính chấn thương) gồm:
 
 1. **Sảy thai (Miscarriage)** chiếm khoảng 15–20%
-
    - **Dọa sảy thai (Threatened abortion)**: Chảy máu nhẹ, cổ tử cung đóng, thai còn sống.
    - **Sảy thai khó tránh (Inevitable abortion)**: Chảy máu nhiều, có đau co tử cung, cổ tử cung mở.
    - **Sảy thai không trọn (Incomplete abortion)**: Mô nhau hoặc thai còn sót, cổ tử cung mở.
    - **Sảy thai trọn (Complete abortion)**: Tất cả mô thai đã được tống ra, cổ tử cung đóng lại.
    - **Sảy thai lưu (Missed abortion)**: Thai đã mất nhưng chưa được tống ra, thường không đau bụng.
-
 2. **Thai ngoài tử cung (Ectopic pregnancy)**
-
    - Thường xảy ra trong vòi tử cung (95% trường hợp), cũng có thể là ổ bụng, cổ tử cung hoặc buồng trứng.
    - Chảy máu kèm đau một bên hạ vị, có thể xuất huyết ổ bụng sau vỡ, đe dọa tính mạng.
-
 3. **Bệnh nguyên bào nuôi (Trophoblastic disease)**
-
    - **Trứng trống (Hydatidiform mole)**: Nguyên bào nuôi phát triển bất thường, siêu âm thấy "bông tuyết."
    - **Ung thư nguyên bào nuôi (Choriocarcinoma)**: Hiếm, thường sau một thai trứng, chảy máu bất thường.
-
 4. **Xuất huyết do làm tổ của phôi (Implantation bleeding)**
-
    - Xảy ra khoảng 6–12 ngày sau thụ tinh, thường là vết máu hồng nhạt, ngắn ngày.
    - Là hiện tượng sinh lý nhưng có thể bị nhầm với sảy thai.
-
 5. **Các nguyên nhân không do thai kỳ**
-
    - Polyp tử cung, u xơ, viêm cổ tử cung, nhiễm trùng âm đạo...
    - Thường chẩn đoán bằng khám phụ khoa kỹ và soi cổ tử cung.
 

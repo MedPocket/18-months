@@ -9,49 +9,34 @@ Ung thư vú là bệnh lý ác tính thường gặp nhất ở phụ nữ, chi
 
 - Khả năng sống còn sau 5 năm của bệnh nhân ung thư vú phụ thuộc rất lớn vào giai đoạn bệnh khi được phát hiện và phẫu thuật. Nếu phát hiện ở giai đoạn sớm (u chỉ khu trú tại vú, kích thước nhỏ, chưa di căn hạch), tỷ lệ sống sau 5 năm có thể đạt đến 98%. Trong một nghiên cứu kéo dài 18 năm, những phụ nữ có khối u ≤ 1 cm và được điều trị bằng phẫu thuật bảo tồn kèm nạo hạch không phát hiện di căn, tỷ lệ sống còn sau đó vẫn lên tới 89%.
 - Do vậy, tầm soát định kỳ giúp phát hiện ung thư vú giai đoạn sớm, giúp giảm tử vong và hạn chế phẫu thuật triệt để. Các khuyến cáo tầm soát thường dựa trên nguy cơ của người phụ nữ (nguy cơ trung bình hay nguy cơ cao) dựa vào tuổi, tiền sử gia đình, và các yếu tố nguy cơ khác.
-
 - Các công cụ chính được sử dụng để tầm soát ung thư vú gồm:
-
   1. **Nhũ ảnh (Mammography)**
-
   - Là tiêu chuẩn vàng cho tầm soát ung thư vú ở phụ nữ có nguy cơ trung bình.
   - Có thể phát hiện tổn thương không triệu chứng lâm sàng, đặc biệt ở phụ nữ ≥ 40 tuổi.
   - Giảm 16–35% tỷ lệ tử vong do ung thư vú ở phụ nữ ≥ 50 tuổi, và 15–20% ở nhóm tuổi 40–49.
-
   2. **Cộng hưởng từ vú (Breast MRI)**
-
   - Được chỉ định chủ yếu cho đối tượng có nguy cơ cao (như đột biến BRCA, tiền sử xạ trị ngực lúc trẻ...).
   - Độ nhạy rất cao (khoảng 98%), tuy nhiên độ đặc hiệu (specificity) thấp hơn (khoảng 75%) so với nhũ ảnh.
   - Không thay thế nhũ ảnh mà thường được phối hợp song song ở nhóm nguy cơ cao.
-
   3. **Khám lâm sàng**
-
   - Hiệp hội Ung thư Hoa Kỳ (ACS) khuyến cáo bác sĩ phụ khoa hoặc chuyên gia y tế có kinh nghiệm khám vú định kỳ, tuy nhiên bằng chứng cho lợi ích tầm soát bằng khám lâm sàng là hạn chế.
-
   4. **Tự khám vú (Breast Self-Exam, BSE)**
-
   - Không được ACS xem là phương pháp tầm soát chính thức, nhưng khuyến cáo mọi phụ nữ ≥ 20 tuổi nên tự khám vú hàng tháng để làm quen với cấu trúc bình thường của vú và phát hiện sớm các thay đổi bất thường. Khoảng 50% số trường hợp ung thư vú được phát hiện khi phụ nữ tự khám vú (khi khối u đã lớn hoặc đã lan ra ngoài bề mặt).
   - Thời điểm lý tưởng để tự khám vú là ngày thứ 8–10 sau khi bắt đầu chu kỳ kinh, khi vú có kích thước nhỏ nhất, ít chịu ảnh hưởng của estrogen, và mô vú mềm.
-
   5. **Siêu âm vú**
-
   - Không được khuyến cáo làm tầm soát đơn độc cho ung thư vú do độ đặc hiệu thấp (khoảng 92%) và dễ dẫn đến dương tính giả.
   - Được sử dụng bổ sung cho nhũ ảnh ở phụ nữ có mô vú dày, phát hiện khối chưa rõ ràng, hoặc khi có tổn thương nghi ngờ sau nhũ ảnh.
-
   6. **Chọc hút kim nhỏ (Fine-Needle Aspiration, FNA) và Sinh thiết lõi (Core Needle Biopsy)**
-
   - Không phải công cụ tầm soát, mà là phương pháp chẩn đoán mô học khi đã có tổn thương nghi ngờ trên lâm sàng hoặc hình ảnh.
-
-  | Phương tiện        | Độ nhạy (%) | Độ đặc hiệu (%) | PPV (%) |
-  | ------------------ | ----------- | --------------- | ------- |
-  | **Khám lâm sàng**  | 86          | 90              | 95      |
-  | **Nhũ ảnh**        | 86          | 90              | 95      |
-  | **Siêu âm**        | 90          | 92              | 95      |
-  | **MRI**            | 98          | 75              | 80      |
-  | **FNA**            | 95          | 95              | 99.8    |
-  | **Sinh thiết lõi** | 85–98       | 95              | 100     |
-
-  _Giá trị của các phương tiện chẩn đoán và tầm soát ung thư vú._
+    | Phương tiện | Độ nhạy (%) | Độ đặc hiệu (%) | PPV (%) |
+    | ------------------ | ----------- | --------------- | ------- |
+    | **Khám lâm sàng** | 86 | 90 | 95 |
+    | **Nhũ ảnh** | 86 | 90 | 95 |
+    | **Siêu âm** | 90 | 92 | 95 |
+    | **MRI** | 98 | 75 | 80 |
+    | **FNA** | 95 | 95 | 99.8 |
+    | **Sinh thiết lõi** | 85–98 | 95 | 100 |
+    _Giá trị của các phương tiện chẩn đoán và tầm soát ung thư vú._
 
 ### Khám vú
 
@@ -68,31 +53,20 @@ Theo khuyến cáo của ACOG (2017):
 #### Tự khám vú
 
 1. **Quan sát trước gương**
-
    - Thực hiện trước gương, hai tay lần lượt đặt sau gáy, chống hông hoặc buông xuôi để quan sát hình dạng, kích thước, đối xứng vú và da vú (phát hiện ửng đỏ, co kéo, loét, thụt núm vú).
-
-   ![Tự quan sát trước gương và tự sờ nắn khi tắm và khi nằm](./_images/ung-thu-vu/kham-vu-truoc-guong-va-tu-so-nan.png)
-
-   _Tự quan sát trước gương và tự sờ nắn khi tắm và khi nằm._
-
-   ![Các tư thế tự quan sát trước gương và các tư thế để tự sờ nắn](./_images/ung-thu-vu/kham-vu-truoc-guong-va-cac-tu-the-so-nan.png)
-
-   _Các tư thế tự quan sát trước gương và các tư thế để tự sờ nắn._
-
+     ![Tự quan sát trước gương và tự sờ nắn khi tắm và khi nằm](./_images/ung-thu-vu/kham-vu-truoc-guong-va-tu-so-nan.png)
+     _Tự quan sát trước gương và tự sờ nắn khi tắm và khi nằm._
+     ![Các tư thế tự quan sát trước gương và các tư thế để tự sờ nắn](./_images/ung-thu-vu/kham-vu-truoc-guong-va-cac-tu-the-so-nan.png)
+     _Các tư thế tự quan sát trước gương và các tư thế để tự sờ nắn._
 2. **Sờ nắn vú**
-
    - Thực hiện khi tắm với tay trơn xà phòng, hoặc khi nằm thư giãn.
    - Chia vú thành 4 phần (tứ phân) và lần lượt sờ nắn theo lộ trình xoắn ốc hoặc theo đường ngang – dọc để phát hiện khối hoặc vùng mô lổn nhổn bất thường.
    - Khám cả vùng hạch nách và hạch đòn.
    - Khi sờ nắn, dùng 3 ngón giữa áp sát vùng mô, phối hợp bàn tay đặt sau gáy để cố định ngực và di chuyển các ngón tay từ ngoài vào trong.
-
-   ![Khám vú bằng cách dùng 3 ngón giữa của 2 bàn tay](./_images/ung-thu-vu/kham-vu-bang-3-ngon-giua.png)
-
-   _Khám vú bằng cách dùng 3 ngón giữa của 2 bàn tay. Khi tự sờ nắn, bàn tay để sau gáy sẽ giúp cảm nhận tốt hơn._
-
-   ![Lộ trình của các ngón tay khi tự khám vú](./_images/ung-thu-vu/kham-vu-theo-thu-tu.png)
-
-   _Lộ trình của các ngón tay khi tự khám vú._
+     ![Khám vú bằng cách dùng 3 ngón giữa của 2 bàn tay](./_images/ung-thu-vu/kham-vu-bang-3-ngon-giua.png)
+     _Khám vú bằng cách dùng 3 ngón giữa của 2 bàn tay. Khi tự sờ nắn, bàn tay để sau gáy sẽ giúp cảm nhận tốt hơn._
+     ![Lộ trình của các ngón tay khi tự khám vú](./_images/ung-thu-vu/kham-vu-theo-thu-tu.png)
+     _Lộ trình của các ngón tay khi tự khám vú._
 
 #### Các dấu hiệu bất thường
 
@@ -125,22 +99,19 @@ Theo khuyến cáo của ACOG (2017):
   - So sánh với phim nhũ ảnh cũ để phát hiện tổn thương mới hoặc thay đổi.
   - Khi nhũ ảnh phát hiện nhiễu hạt (clustered microcalcifications), khối hình bóng mờ hay bóng khuếch tán, cần đánh giá thêm bằng phóng đại (magnification) hoặc siêu âm.
 - **BIRADS (Breast Imaging-Reporting and Data System)**:
-
   - Hệ thống phân loại kết quả nhũ ảnh và MRI, giúp chuẩn hóa báo cáo và hướng dẫn xử trí.
-
-  | BIRADS | Kết quả                                               | Hướng xử trí                                                |
-  | ------ | ----------------------------------------------------- | ----------------------------------------------------------- |
-  | **0**  | Không đầy đủ                                          | Cần thêm hình ảnh (spot compression, phóng đại, siêu âm...) |
-  | **1**  | Âm tính                                               | Tiếp tục nhũ ảnh tầm soát định kỳ                           |
-  | **2**  | Lành tính (u nang lành, hạch lành, vôi hóa lành tính) | Tiếp tục nhũ ảnh tầm soát định kỳ                           |
-  | **3**  | Có khả năng lành tính (> 98% là tổn thương lành tính) | Theo dõi nhũ ảnh mỗi 6 tháng trong 2 năm                    |
-  | **4A** | Nghi ngờ ác tính mức độ thấp                          | Cân nhắc sinh thiết                                         |
-  | **4B** | Nghi ngờ ác tính mức độ trung bình                    | Cân nhắc sinh thiết                                         |
-  | **4C** | Gợi ý ác tính (không điển hình)                       | Cân nhắc sinh thiết                                         |
-  | **5**  | Gợi ý mạnh ác tính (> 95% khả năng ung thư)           | Bắt buộc sinh thiết                                         |
-  | **6**  | Đã xác định ung thư qua sinh thiết trước đó           | Theo dõi điều trị (imaging for treatment monitoring)        |
-
-  _BIRADS - Hiệp hội Quang tuyến Hoa Kỳ (ACR)._
+    | BIRADS | Kết quả | Hướng xử trí |
+    | ------ | ----------------------------------------------------- | ----------------------------------------------------------- |
+    | **0** | Không đầy đủ | Cần thêm hình ảnh (spot compression, phóng đại, siêu âm...) |
+    | **1** | Âm tính | Tiếp tục nhũ ảnh tầm soát định kỳ |
+    | **2** | Lành tính (u nang lành, hạch lành, vôi hóa lành tính) | Tiếp tục nhũ ảnh tầm soát định kỳ |
+    | **3** | Có khả năng lành tính (> 98% là tổn thương lành tính) | Theo dõi nhũ ảnh mỗi 6 tháng trong 2 năm |
+    | **4A** | Nghi ngờ ác tính mức độ thấp | Cân nhắc sinh thiết |
+    | **4B** | Nghi ngờ ác tính mức độ trung bình | Cân nhắc sinh thiết |
+    | **4C** | Gợi ý ác tính (không điển hình) | Cân nhắc sinh thiết |
+    | **5** | Gợi ý mạnh ác tính (> 95% khả năng ung thư) | Bắt buộc sinh thiết |
+    | **6** | Đã xác định ung thư qua sinh thiết trước đó | Theo dõi điều trị (imaging for treatment monitoring) |
+    _BIRADS - Hiệp hội Quang tuyến Hoa Kỳ (ACR)._
 
 #### MRI
 
@@ -214,9 +185,7 @@ Khi thực hiện nhũ ảnh thường quy ở phụ nữ 40–49 tuổi, có í
 | **Nguy cơ cao khác (đột biến gen, hội chứng di truyền)** | - MRI + nhũ ảnh hàng năm                                                                       | - MRI + nhũ ảnh hàng năm (nếu nguy cơ ≥ 20%)                                    | - MRI + nhũ ảnh hàng năm (bắt đầu sớm nếu có chỉ định)                     |
 
 _\*FDR: First-degree relative (cha mẹ, anh chị em, con ruột)._
-
 _Lịch tầm soát ung thư vú cho phụ nữ nguy cơ cao theo các tổ chức uy tín tại Hoa Kỳ._
-
 **Đối tượng cần tầm soát phối hợp (Nhũ ảnh + MRI hàng năm)**:
 
 - Có tỷ lệ nguy cơ suốt đời (lifetime risk) ≥ 20–25% (theo mô hình tiền sử gia đình hoặc mô hình tính GRUP).
@@ -224,10 +193,9 @@ _Lịch tầm soát ung thư vú cho phụ nữ nguy cơ cao theo các tổ ch�
 - Chưa xét nghiệm BRCA nhưng có người thân trực hệ mắc đột biến BRCA1/BRCA2.
 - Từng xạ trị ngực ở tuổi 10–30 (khuyến cáo bắt đầu MRI hàng năm sau 8–10 năm kể từ khi xạ trị hoặc khi ≥ 25 tuổi).
 - Mắc hội chứng Li-Fraumeni, hội chứng Cowden, hội chứng Bannayan-Riley-Ruvalcaba, hoặc có người thân trực hệ mắc các hội chứng này.
-
-:::caution
-Theo ACS (2015), với các nhóm nguy cơ đặc biệt tăng cao như LCIS, ADH, DCIS, tiền sử ung thư vú, mặc dù chưa có chứng cứ đủ cho MRI đơn thuần, nhưng vẫn khuyến cáo phối hợp MRI và nhũ ảnh hàng năm để theo dõi.
-:::
+  :::caution
+  Theo ACS (2015), với các nhóm nguy cơ đặc biệt tăng cao như LCIS, ADH, DCIS, tiền sử ung thư vú, mặc dù chưa có chứng cứ đủ cho MRI đơn thuần, nhưng vẫn khuyến cáo phối hợp MRI và nhũ ảnh hàng năm để theo dõi.
+  :::
 
 ## Ung thư vú
 
@@ -256,24 +224,18 @@ Theo ACS (2015), với các nhóm nguy cơ đặc biệt tăng cao như LCIS, AD
 ### Bệnh sinh
 
 1. **Mức độ biệt hóa (Histologic Grade)**
-
    - Grade 1: Biệt hóa tốt.
    - Grade 2: Biệt hóa trung bình.
    - Grade 3: Biệt hóa kém.
-
 2. **Dạng mô học (Histologic Subtype)**
-
    - Ung thư ống xâm lấn (Invasive Ductal Carcinoma, IDC).
    - Ung thư tiểu thùy xâm lấn (Invasive Lobular Carcinoma, ILC).
    - Ngoài ra còn có các dạng khác như ung thư vi vôi hóa, ung thư dạng hormone âm tính (TNBC)... nhưng hai dạng IDC và ILC chiếm tỉ lệ cao nhất.
-
 3. **Chỉ báo hóa mô miễn dịch (Biomarkers)**
-
    - **ER (Estrogen Receptor) / PR (Progesterone Receptor)**: Dương tính hay âm tính với thụ thể steroid, quyết định hướng điều trị nội tiết.
    - **HER2/neu (Human Epidermal Growth Factor Receptor 2)**: Ung thư HER2 dương tính có xu hướng phát triển nhanh, đáp ứng điều trị kháng HER2 (trastuzumab).
    - **Ki-67**: Chỉ số phân bào, cho biết mức độ tăng sinh tế bào.
    - **Triple-negative (ER-, PR-, HER2-)**: Thể ung thư ác tính, khó điều trị bằng liệu pháp hormone hoặc kháng HER2.
-
 4. **Tốc độ phát triển** của ung thư vú thay đổi theo thể bệnh, đặc điểm sinh học và giai đoạn:
 
 - Thời gian nhân đôi khối u (doubling time) có thể từ vài tuần đến vài tháng.
@@ -301,7 +263,6 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
 #### Trước phẫu thuật
 
 1. **Đánh giá lâm sàng và hình ảnh**
-
    - Khám lâm sàng vú hai bên, khám hạch nách, hạch đòn.
    - Nhũ ảnh hai bên: Xác định kích thước, vị trí, số lượng ổ bệnh, hình ảnh vôi hóa.
    - Siêu âm vú hai bên: Hỗ trợ đánh giá khối, đặc biệt ở vú dày.
@@ -313,12 +274,9 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
        :::caution
        CT scan, MRI toàn thân hoặc xạ hình xương chỉ cần thiết khi có triệu chứng lâm sàng hoặc xét nghiệm bất thường gợi ý di căn.  
        :::
-
 2. **Sinh thiết lõi (Core Needle Biopsy)**
-
    - Xác nhận chẩn đoán mô học, xác định biểu hiện ER, PR, HER2 để định hướng điều trị toàn thân.
    - Nếu khối ở vú đã sờ thấy hoặc hình ảnh có vị trí rõ, có thể sinh thiết trực tiếp; nếu không, sinh thiết dưới hướng dẫn siêu âm hoặc nhũ ảnh (khi phát hiện vôi hóa).
-
 3. **Xét nghiệm cơ bản**
    - Huyết đồ toàn bộ, chức năng gan-thận, điện giải đồ.
    - Các markers ung thư vú (CA15-3, CEA) nếu cần theo dõi.
@@ -333,11 +291,9 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
 - **Lâm sàng không phát hiện hạch** (hoặc hạch nghi ngờ cần sinh thiết hạch trước/phẫu thuật).
 - **Không có bằng chứng di căn xa**.
 - Nếu lâm sàng nghi ngờ giai đoạn II–III (có hạch hoặc u lớn), cần bổ sung xạ hình xương, CT bụng-chậu và có thể PET-CT.
-
-**Các phẫu thuật chính**:
+  **Các phẫu thuật chính**:
 
 1. **Phẫu thuật bảo tồn vú (Breast-Conserving Surgery, BCS)**
-
    - Cắt bỏ khối u kèm biên an toàn tối thiểu 1 cm mô lành xung quanh (hoặc rìa âm tính).
    - Đảm bảo không còn tổ chức ép tinto hay vôi hóa bất thường ở rìa cắt.
    - Kèm nạo vét hạch nách (sentinel lymph node biopsy hoặc nạo vét hạch một phần).
@@ -352,9 +308,7 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
      - Mức độ mô học grade II–III.
      - Đặc điểm sinh học ác tính (ER/PR âm tính, HER2 dương tính, Ki-67 cao).
    - Tiên lượng sống còn sau 20 năm tương đương với phẫu thuật đoạn nhũ (mastectomy) nếu điều trị xạ trị hậu phẫu đầy đủ.
-
 2. **Phẫu thuật đoạn nhũ**
-
    - **Simple Mastectomy (Đoạn nhũ đơn giản)**: Cắt bỏ toàn bộ vú (mô vú, núm vú, quầng vú), nhưng không cắt các cơ ngực. Nạo vét hạch 1/4 trên ngoài hoặc hạch nách dưới tùy thiết kế.
    - **Modified Radical Mastectomy (Đoạn nhũ tận gốc cải tiến)**: Cắt bỏ toàn bộ vú và nạo vét hạch nách mức I–II, bảo tồn các cơ ngực lớn và bé.
    - **Radical Mastectomy (Halsted, Đoạn nhũ tận gốc)**: Cắt bỏ toàn bộ vú, cơ ngực lớn+bé và nạo vét hạch nách toàn bộ. Do tỷ lệ tử suất cao và di chứng nặng, hiện chỉ áp dụng khi ung thư xâm lấn rộng vào cơ ngực.
@@ -363,34 +317,23 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
      - U > 4 cm, không thể bảo tồn do kích thước.
      - Bệnh nhân yêu cầu đoạn nhũ hoặc có chỉ định dự phòng (đột biến BRCA).
      - Không có bằng chứng di căn hạch lâm sàng hoặc âm tính nhưng gia đình có nguyện vọng cắt bỏ.
-
-   ![Đoạn nhũ](./_images/ung-thu-vu/doan-nhu.png)
-
-   _Đoạn nhũ đơn giản (Simple mastectomy), Đoạn nhũ tận gốc cải tiến (Modified radical mastectomy), và Đoạn nhũ tận gốc (Radical mastectomy: Halsted)._
+       ![Đoạn nhũ](./_images/ung-thu-vu/doan-nhu.png)
+       _Đoạn nhũ đơn giản (Simple mastectomy), Đoạn nhũ tận gốc cải tiến (Modified radical mastectomy), và Đoạn nhũ tận gốc (Radical mastectomy: Halsted)._
 
 #### Theo dõi sau phẫu thuật
 
 - **Khám lâm sàng vú và hạch**:
-
   - Hàng năm trong 5 năm đầu, sau đó mỗi năm hoặc theo chỉ định lâm sàng.
   - Đối với bệnh nhân đã cắt bỏ, khám vú còn lại và hạch. Đối với BCS, khám cả hai vú.
-
 - **Nhũ ảnh**:
-
   - Sau BCS: Nhũ ảnh vú còn lại hàng năm, bắt đầu 6–12 tháng sau xạ trị hoặc phẫu thuật.
   - Sau đoạn nhũ: Nhũ ảnh vú đối bên hàng năm.
-
 - **MRI/Siêu âm**:
-
   - MRI chỉ định khi có mô vú dày, sẹo lớn, hoặc nguy cơ tái phát cao, nếu nhũ ảnh không đánh giá được rõ.
   - Siêu âm hỗ trợ khi nghi ngờ tái phát cục bộ (nốt), đặc biệt ở vú dày.
-
 - **Xét nghiệm định kỳ**:
-
   - Không có chỉ định định kỳ CA15-3, CEA nếu không có triệu chứng hoặc nghi ngờ tái phát.
-
 - **Hỗ trợ giảm đau và chăm sóc vết mổ**:
-
   - Theo dõi biến chứng thường gặp: Tụ dịch, nhiễm trùng, hoại tử vạt da.
   - Hướng dẫn vận động, vật lý trị liệu để tránh phù bạch huyết (lymphedema).
 
@@ -418,7 +361,6 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
 **Mục tiêu**: Loại bỏ vi di căn (micrometastases) sau phẫu thuật, giảm nguy cơ tái phát tại chỗ và tái phát xa. Chỉ áp dụng cho bệnh nhân có nguy cơ tái phát ≥ 10% trong 10 năm.
 
 1. **Hóa trị (Chemotherapy)**
-
    - Ưu tiên cho bệnh nhân:
      - Khối u > 1 cm và âm tính thụ thể nội tiết (ER-/PR-).
      - Có di căn hạch.
@@ -428,9 +370,7 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
      - Suy giảm miễn dịch, nguy cơ nhiễm trùng.
      - Độc với tim (doxorubicin), độc thần kinh (taxane), buồn nôn, rụng tóc, giảm sinh tủy.
      - Ảnh hưởng nhận thức thần kinh (chemobrain).
-
 2. **Liệu pháp nội tiết (Endocrine Therapy)**
-
    - Dành cho bệnh nhân ER-dương tính hoặc PR-dương tính.
    - **Tamoxifen**: Kháng estrogen chọn lọc (SERM), dành cho phụ nữ trước và sau mãn kinh.
      - Liều thường dùng: 20 mg/ngày, kéo dài 5–10 năm.
@@ -438,14 +378,11 @@ _Bảng phân giai đoạn ung thư vú theo hệ TNM (American Joint Committee 
    - **Aromatase Inhibitors (AI)**: Letrozole, Anastrozole, Exemestane, chỉ định cho phụ nữ sau mãn kinh.
      - Tác dụng phụ: Loãng xương, đau cơ-khớp, tăng cholesterol máu.
    - Có thể điều trị đơn độc hoặc kết hợp sequental (ví dụ: Tamoxifen 2–3 năm, sau đó AI).
-
 3. **Liệu pháp nhắm mục tiêu (Targeted Therapy)**
-
    - **Kháng HER2 (Trastuzumab, Pertuzumab, T-DM1)**: Dành cho bệnh nhân HER2 dương tính.
      - Trastuzumab kết hợp hóa trị làm giảm nguy cơ tái phát và tử vong.
      - Theo dõi chức năng tim thường xuyên (do nguy cơ suy tim).
    - **CDK4/6 Inhibitors (Palbociclib, Ribociclib, Abemaciclib)**: Kết hợp với liệu pháp nội tiết cho bệnh nhân ER+/HER2- giai đoạn tiến xa.
-
 4. **Liệu pháp miễn dịch (Immunotherapy)**
    - Hiện đang nghiên cứu ở thể triple-negative (TNBC), một số thử nghiệm giai đoạn II–III cho kết quả khả quan khi kết hợp với thuốc ức chế PD-1/PD-L1.
 
@@ -458,16 +395,14 @@ Yếu tố nguy cơ tái phát tại chỗ:
 - Mô học grade III (kém biệt hóa).
 - Kích thước khối u ≥ 4 cm.
 - Đặc điểm sinh học: ER/PR âm tính, HER2 dương tính, Ki-67 cao.
-
-| Yếu tố nguy cơ của tái phát       | Tăng nguy cơ tái phát | Giảm nguy cơ tái phát |
-| --------------------------------- | --------------------- | --------------------- |
-| Kích thước u                      | T3, T2                | T1, T0                |
-| Độ biệt hóa                       | Thấp                  | Cao                   |
-| Xâm lấn mạch máu hoặc mạch lympho | Có                    | Không                 |
-| Thu thể hormon                    | Âm tính               | Dương tính            |
-| Her-2/neu                         | Cao                   | Thấp                  |
-
-_Yếu tố nguy cơ tái phát tại chỗ._
+  | Yếu tố nguy cơ của tái phát | Tăng nguy cơ tái phát | Giảm nguy cơ tái phát |
+  | --------------------------------- | --------------------- | --------------------- |
+  | Kích thước u | T3, T2 | T1, T0 |
+  | Độ biệt hóa | Thấp | Cao |
+  | Xâm lấn mạch máu hoặc mạch lympho | Có | Không |
+  | Thu thể hormon | Âm tính | Dương tính |
+  | Her-2/neu | Cao | Thấp |
+  _Yếu tố nguy cơ tái phát tại chỗ._
 
 ## Ung thư vú và thai kỳ
 
@@ -481,29 +416,22 @@ Ung thư vú liên quan đến thai kỳ (Pregnancy-Associated Breast Cancer, PA
 ### Quản lý
 
 1. **Tam cá nguyệt I–II**
-
    - Nếu ung thư được chẩn đoán trong tam cá nguyệt I–II, có thể chỉ định phẫu thuật bảo tồn vú hoặc đoạn nhũ, tùy kích thước và giai đoạn.
    - Hóa trị có thể bắt đầu từ tam cá nguyệt II (sau tuần 12–14) nếu cần, ưu tiên sử dụng các phác đồ an toàn (ví dụ: AC). Tránh dùng anthracycline trong tam cá nguyệt I do nguy cơ quái thai.
    - Xạ trị bị chống chỉ định trong thai kỳ, đặc biệt trong tam cá nguyệt I–II.
-
 2. **Tam cá nguyệt III**
-
    - Có thể phẫu thuật ngay nếu có chỉ định (u nhỏ, không di căn xa).
    - Nếu u lớn hoặc cần hóa trị tiền phẫu, có thể trì hoãn phẫu thuật đến sau sinh (sau sinh nếu > 34–35 tuần).
    - Hóa trị có thể thực hiện trong tam cá nguyệt III nếu cần, theo dõi chặt chẽ cho mẹ và thai nhi.
-
 3. **Chấm dứt thai kỳ**
-
    - Chỉ xem xét nếu thai ≥ 30–32 tuần (đủ sống) và mẹ có chỉ định điều trị gấp.
    - Sau chấm dứt, tiếp tục điều trị ung thư vú theo phác đồ tiêu chuẩn.
-
 4. **Sau sinh**
    - Hóa trị và xạ trị có thể thực hiện bình thường sau khi sinh (nếu mẹ không cho con bú).
    - Khuyến cáo tránh mang thai lại ít nhất 2–3 năm sau điều trị do 80% tái phát xảy ra trong 2 năm đầu.
-
-:::caution
-Phụ nữ sau phẫu thuật bảo tồn ung thư vú vẫn có thể cho con bú vú còn lại, tuy nhiên cần tham khảo ý kiến bác sĩ phụ khoa, bác sĩ ung bướu để đánh giá nguy cơ tái phát.
-:::
+     :::caution
+     Phụ nữ sau phẫu thuật bảo tồn ung thư vú vẫn có thể cho con bú vú còn lại, tuy nhiên cần tham khảo ý kiến bác sĩ phụ khoa, bác sĩ ung bướu để đánh giá nguy cơ tái phát.
+     :::
 
 ## Bệnh Paget núm vú
 
@@ -523,18 +451,14 @@ Bệnh Paget núm vú là một dạng ung thư hiếm gặp (1–2% ung thư v�
 - Sinh thiết da vùng núm vú/quầng vú: Tìm các tế bào Paget (Paget cells) trong thượng bì.
 - Nhũ ảnh và siêu âm vú: Tìm khối u hoặc các vùng microcalcifications.
 - Nếu hình ảnh bình thường, nhưng sinh thiết dương tính Paget, vẫn phải đánh giá toàn bộ vú để loại trừ ung thư tiềm ẩn bên dưới.
-
   ![Bệnh Paget](./_images/ung-thu-vu/benh-paget.png)
-
   _Bệnh Paget núm vú thường bị chẩn đoán trễ do biểu hiện lâm sàng tương tự chàm (ngứa, bỏng rát), trong khi đa số kèm theo ung thư mô vú bên dưới._
 
 ### Điều trị
 
 1. **Có ung thư mô vú bên dưới (DCIS hoặc xâm lấn)**
-
    - Điều trị theo phác đồ ung thư dưới vú: BCS hoặc mastectomy (tùy kích thước và giai đoạn), kèm nạo hạch nếu cần.
    - Xạ trị toàn vú sau BCS.
-
 2. **Không có ung thư mô vú bên dưới (chỉ Paget tại chỗ)**
    - Phẫu thuật cắt u bảo tồn: Cắt bỏ vùng Paget (núm vú và quầng) với biên an toàn ≥ 1–2 cm, kết hợp xạ trị toàn vú sau phẫu thuật.
    - Nếu không thể bảo tồn vú vì vị trí hoặc diện tích tổn thương, có thể phẫu thuật mastectomy.

@@ -39,47 +39,32 @@ _Phân loại lâm sàng theo CDC._
 ### Thuốc kháng virus (ARV)
 
 1. **Nhóm ức chế men sao chép ngược nucleoside (NRTIs)**
-
    - **Tenofovir disoproxil fumarate (TDF) 300 mg x 1 lần/ngày**.
-
      - **Cơ chế**: Ức chế men sao chép ngược, ngăn chặn sao chép RNA HIV thành DNA.
      - **Tác dụng phụ**: Có thể gây suy giảm chức năng thận, giảm khối lượng xương.
      - **Theo dõi**: Creatinine huyết thanh, độ lọc cầu thận, đặc biệt mỗi 3 tháng.
-
    - **Lamivudine (3TC) 150 mg x 2 lần/ngày** hoặc **300 mg x 1 lần/ngày**.
-
      - **Cơ chế**: Tương tự TDF, kết hợp đồng thời tăng hiệu quả ức chế virus.
      - **Tác dụng phụ**: Buồn nôn, tiêu chảy, đau đầu nhẹ.
      - **Theo dõi**: Có thể sinh hóa máu định kỳ, thường không cần theo dõi đặc biệt.
-
 2. **Nhóm ức chế men sao chép ngược không nucleoside (NNRTIs) / ức chế integrase (INSTIs)**
-
    - **Efavirenz (EFV) 600 mg x 1 lần/ngày**.
-
      - **Cơ chế**: Gắn không cạnh tranh vào men sao chép ngược, ức chế hoạt động.
      - **Lưu ý**: Không dùng trong quý I do nguy cơ quái thai thần kinh.
      - **Tác dụng phụ**: Mất ngủ, chóng mặt, thay đổi tâm thần.
      - **Theo dõi**: Giám sát các triệu chứng thần kinh – tâm thần.
-
    - **Dolutegravir (DTG) 50 mg x 1 lần/ngày**.
-
      - **Cơ chế**: Ức chế integrase, ngăn chặn việc chèn DNA virus vào DNA chủ.
      - **Ưu điểm**: Giảm tải lượng rất nhanh, ít tương tác thuốc.
      - **Lưu ý**: Cẩn trọng trong quý I do nguy cơ hiếm gặp dị tật thần kinh.
      - **Theo dõi**: Giám sát phản ứng dị ứng, chức năng gan.
-
 3. **Nhóm ức chế protease (PIs)**
-
    - **Lopinavir/ritonavir (LPV/r): Lopinavir 200 mg + Ritonavir 50 mg x 2 lần/ngày**.
-
      - **Cơ chế**: Ức chế protease HIV, ngăn giai đoạn đóng gói virus.
      - **Tác dụng phụ**: Buồn nôn, tiêu chảy, tăng lipid máu, men gan tăng.
      - **Theo dõi**: Chức năng gan, lipid máu mỗi 3–6 tháng.
-
 4. **Thuốc bổ trợ**
-
    - **Zidovudine (AZT) 300 mg x 2 lần/ngày**.
-
      - **Cơ chế**: NRTI thế hệ đầu, giảm tải lượng virus, đặc biệt trong chuyển dạ.
      - **Tác dụng phụ**: Thiếu máu, buồn nôn, nhức đầu.
      - **Theo dõi**: Công thức máu (hồng cầu, bạch cầu) mỗi tháng.
@@ -123,9 +108,7 @@ _Thời gian phát hiện HIV qua xét nghiệm._
 
 - **Triệu chứng sớm (nếu có)**: **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng...).
 - **Thời gian "cửa sổ" (window period)**: Khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm:
-
-Kết quả được coi là đáng tin cậy nếu:
-
+  Kết quả được coi là đáng tin cậy nếu:
 - **Xét nghiệm combo Ag/Ab sau 4–6 tuần âm tính** → độ chính xác cao.
 - **Xét nghiệm kháng thể sau 12 tuần (3 tháng)** âm tính → gần như chắc chắn không nhiễm HIV.
 

@@ -11,9 +11,7 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 
 - Áp xe vú trong giai đoạn tiết sữa.
 - Áp xe vú ngoài giai đoạn tiết sữa.
-
-**Thứ phát**:
-
+  **Thứ phát**:
 - Nhiễm trùng da dưới vú sau viêm tuyến bã, xạ trị.
 
 ## Nguyên nhân
@@ -36,9 +34,7 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 - Sốt.
 - Dấu hiệu nhiễm trùng.
 - Hạch nách cùng bên.
-
-**Tại chỗ**:
-
+  **Tại chỗ**:
 - Khối sưng nóng đỏ, có thể phập phều, chọc ra mủ hoặc mủ chảy qua núm vú.
 - Nổi tĩnh mạch dưới da vùng vú.
 
@@ -64,45 +60,33 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 
 ### Nội khoa
 
-**Kháng sinh – chống viêm – giảm đau.**
-
+**Kháng sinh – chống viêm – giảm đau**.
 **Nguyên tắc**:
 
 - Bắt đầu điều trị kháng sinh ngay khi chẩn đoán xác định.
 - Điều chỉnh theo kháng sinh đồ.
 - Duy trì kháng sinh 10–14 ngày sau khi dẫn lưu ổ mủ.
-
-**Nhiễm trùng nhẹ**:
-
+  **Nhiễm trùng nhẹ**:
 - Dicloxacillin hoặc Cloxacillin 500 mg × 4 lần/ngày, 10–14 ngày.
 - Không đáp ứng sau 24–48 giờ: Chuyển sang:
-
   - Cephalexin 500 mg × 4 lần/ngày, hoặc
   - Cefadroxyl 500 mg × 2 viên × 2 lần/ngày, hoặc
   - Amoxicillin-clavulanate 625 mg × 3 lần/ngày.
-
 - Nếu nghi ngờ vi khuẩn kỵ khí (áp xe dưới quầng vú) phối hợp thêm:
-
   - Clindamycin 300 mg × 4 lần/ngày, hoặc
   - Metronidazole 250 mg × 2 viên × 2 lần/ngày.
-
 - Nếu nghi ngờ tụ cầu kháng Methicillin (MRSA):
   - Trimethoprim/Sulfamethoxazole 160/800 mg × 2 lần/ngày, hoặc
   - Clindamycin 300 mg × 4 lần/ngày.
-
-**Nhiễm trùng nặng**:
-
+    **Nhiễm trùng nặng**:
 - Vancomycin (15 mg/kg truyền TM mỗi 12 giờ).
 - Có thể phối hợp với cephalosporin thế hệ 3 hoặc beta-lactam kết hợp chất ức chế beta-lactamase.
-
-:::caution
-
+  :::caution
 - **Cloxacillin**: Có thể gây viêm gan, vàng da ứ mật, biểu hiện chậm. Thận trọng trong thai kỳ và cho con bú.
 - **Cefadroxyl**: Bài tiết vào sữa mẹ với nồng độ thấp. Theo dõi trẻ bú mẹ có biểu hiện tiêu chảy, tưa lưỡi hoặc nổi ban.
 - **Clindamycin**: Có thể dùng trong thai kỳ nếu có chỉ định, nhưng không khuyến cáo trong thời kỳ cho con bú.
 - **Amoxicillin**: An toàn cho mẹ đang cho con bú.
-
-:::
+  :::
 
 ### Ngoại khoa
 

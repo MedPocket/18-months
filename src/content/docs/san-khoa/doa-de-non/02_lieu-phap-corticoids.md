@@ -19,11 +19,9 @@ Chỉ định cho phụ nữ mang thai có nguy cơ sinh non trước 34 tuần,
 
 - **Betamethasone**: 12 mg tiêm bắp, 2 liều cách nhau 24 giờ.
 - **Dexamethasone**: 6 mg tiêm bắp, 4 liều cách nhau 12 giờ.
-
-Trong một số tình huống, có thể cân nhắc liều nhắc lại (rescue dose) sau 7 ngày nếu thai chưa sinh nhưng vẫn còn nguy cơ cao, tối đa 1 đợt nhắc lại.
+  Trong một số tình huống, có thể cân nhắc liều nhắc lại (rescue dose) sau 7 ngày nếu thai chưa sinh nhưng vẫn còn nguy cơ cao, tối đa 1 đợt nhắc lại.
 
 :::caution
-
 - Xác định rõ chỉ định: Dấu hiệu chuyển dạ sớm, vỡ ối non, dọa sinh non hoặc phải kích thích sinh non vì lý do y tế.
 - Không lặp lại nhiều đợt nếu chuyển dạ không xảy ra, trừ khi cân nhắc lợi ích vượt trội so với nguy cơ.
 - Kết hợp chẹn co tử cung (tocolysis), kháng sinh dự phòng khi vỡ ối non, và theo dõi sinh hiệu mẹ – con chặt chẽ.

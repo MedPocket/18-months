@@ -7,25 +7,26 @@ Thai kỳ với tăng huyết áp là nhóm lớn các bệnh lý với bệnh s
 
 ## Bệnh sinh
 
-- Giả thiết do nhiều nguyên nhân phối hợp dẫn tới tổn thương não, gan, thận và hệ thống mạch máu (tim, mắt):
-  1. Làm tổ bánh rau với sự xâm nhập bất thường của các nguyên bào nuôi vào động mạch xoắn. **Giả thuyết này được chấp nhận nhiều nhất hiện nay**.
-  2. Sự không tương hợp giữa mẹ, bố (bánh rau) và mô thai. Cơ thể mẹ thích nghi kém với những thay đổi về tim mạch và đáp ứng viêm trong thai kỳ.
-  3. Các yếu tố di truyền.
-- Bánh rau đóng vai trò then chốt trong sự phát triển và thoái lui của tiền sản giật. **Bánh rau**, không phải thai, là điều kiện cần trong sự phát triển tiền sản giật.
+Giả thiết do nhiều nguyên nhân phối hợp dẫn tới tổn thương não, gan, thận và hệ thống mạch máu (tim, mắt):
+1. Làm tổ bánh rau với sự xâm nhập bất thường của các nguyên bào nuôi vào động mạch xoắn. **Giả thuyết này được chấp nhận nhiều nhất hiện nay**.
+2. Sự không tương hợp giữa mẹ, bố (bánh rau) và mô thai. Cơ thể mẹ thích nghi kém với những thay đổi về tim mạch và đáp ứng viêm trong thai kỳ.
+3. Các yếu tố di truyền.
 
-  ![Sơ đồ cơ chế tăng huyết áp thai kỳ](./_images/so-do-co-che.png)
+Bánh rau đóng vai trò then chốt trong sự phát triển và thoái lui của tiền sản giật. **Bánh rau**, không phải thai, là điều kiện cần trong sự phát triển tiền sản giật.
 
-  _Sơ đồ cơ chế tăng huyết áp thai kỳ._
+_Hình ảnh "Sơ đồ cơ chế tăng huyết áp thai kỳ"._
+![Sơ đồ cơ chế tăng huyết áp thai kỳ](./_images/so-do-co-che.png)
 
-- Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai trò then chốt trong cơ chế bệnh sinh của tiền sản giật. Do đó, khảo sát **sFlt-1** và **PlGF** có thể giúp tiên đoán tiền sản giật. Khoảng 5 tuần trước khi tiền sản giật xuất hiện trên lâm sàng, tỷ số **sFlt-1/PlGF** tăng cao ở nhóm sau này bị tiền sản giật.
-- **Nguồn gốc** xuất hiện tiền sản giật bắt đầu từ **bánh rau**, nhưng **cơ quan đích** là các tế bào nội mô của mẹ dẫn đến:
-  - **Huyết áp**: Co mạch làm tăng huyết áp.
-  - **Mạch máu**: Tổn thương nội mô gây thoát quản các thành phần huyết tương và huyết cầu:
-    - Cô đặc máu, tăng Hematocrit do mất đạm, giảm áp lực keo, nặng có thể gây sốc tim.
-    - Tiêu thụ tiểu cầu ngoài lòng mạch.
-  - **Gan**: Nhồi máu, hoại tử và xuất huyết trong nhu mô, gây rối loạn chức năng tế bào gan và làm tiến triển thêm các rối loạn đông máu.
-  - **Thận**: Tổn thương tế bào nội mô của thận làm tổn hại nghiêm trọng chức năng lọc vi cầu thận. Độ lọc cầu thận giảm tới 40% so với bình thường, gây tăng creatinine máu, tăng acid uric máu và xuất hiện đạm niệu.
-  - **Não**: Tổn thương nội mô ở não gây các triệu chứng thần kinh, phù não và xuất huyết trong nhu mô não.
+Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai trò then chốt trong cơ chế bệnh sinh của tiền sản giật. Do đó, khảo sát **sFlt-1** và **PlGF** có thể giúp tiên đoán tiền sản giật. Khoảng 5 tuần trước khi tiền sản giật xuất hiện trên lâm sàng, tỷ số **sFlt-1/PlGF** tăng cao ở nhóm sau này bị tiền sản giật.
+
+**Nguồn gốc** xuất hiện tiền sản giật bắt đầu từ **bánh rau**, nhưng **cơ quan đích** là các tế bào nội mô của mẹ dẫn đến:
+- **Huyết áp**: Co mạch làm tăng huyết áp.
+- **Mạch máu**: Tổn thương nội mô gây thoát quản các thành phần huyết tương và huyết cầu:
+  - Cô đặc máu, tăng Hematocrit do mất đạm, giảm áp lực keo, nặng có thể gây sốc tim.
+  - Tiêu thụ tiểu cầu ngoài lòng mạch.
+- **Gan**: Nhồi máu, hoại tử và xuất huyết trong nhu mô, gây rối loạn chức năng tế bào gan và làm tiến triển thêm các rối loạn đông máu.
+- **Thận**: Tổn thương tế bào nội mô của thận làm tổn hại nghiêm trọng chức năng lọc vi cầu thận. Độ lọc cầu thận giảm tới 40% so với bình thường, gây tăng creatinine máu, tăng acid uric máu và xuất hiện đạm niệu.
+- **Não**: Tổn thương nội mô ở não gây các triệu chứng thần kinh, phù não và xuất huyết trong nhu mô não.
 
 ## Yếu tố nguy cơ
 

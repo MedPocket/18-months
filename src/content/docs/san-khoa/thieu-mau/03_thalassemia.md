@@ -48,17 +48,17 @@ Thalassemia là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọ
 ### Với thai
 
 - Thể nặng có thể không sống sót sau sinh.
-- Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.
-  ![Thai phù trong hội chứng Bart](./_images/thai-phu-trong-hoi-chung-Bart.png)
+- Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.<br>
   _Thai phù trong hội chứng Hb Bart’s._
+  ![Thai phù trong hội chứng Bart](./_images/thai-phu-trong-hoi-chung-Bart.png)
 
 ## Tầm soát
 
 - Huyết đồ: Hb < 11 g/dL; MCV < 80 fL; MCH < 27 pg.
 - Định lượng ferritin: Bình thường hoặc tăng → chuyển sang điện di Hb.
-- Điện di Hb: Xác định tỉ lệ HbA2, HbF để phân loại.
-  ![Kết quả điện di Hb ở người trưởng thành](./_images/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
+- Điện di Hb: Xác định tỉ lệ HbA2, HbF để phân loại.<br>
   _Kết quả điện di Hb ở người trưởng thành._
+  ![Kết quả điện di Hb ở người trưởng thành](./_images/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
 - Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.
 - Chẩn đoán trên thai: Sinh thiết gai rau, chọc ối hoặc lấy máu cuống rốn nếu có nguy cơ cao.
 

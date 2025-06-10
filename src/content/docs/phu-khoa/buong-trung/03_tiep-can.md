@@ -19,17 +19,14 @@ Các phương pháp hình ảnh chính:
 - **Qua bụng**: Sóng tần số thấp → tầm quan sát rộng, đánh giá u lớn, di căn phúc mạc; độ phân giải thấp.
 - **Qua đường âm đạo**: Sóng tần số cao → hình ảnh chi tiết, phân biệt lành/ác tốt; tầm quan sát hạn chế, phù hợp u nhỏ-vừa.
 - Các đặc điểm quan trọng để đánh giá:
-
   1. Nang hay đặc.
   2. Phản âm bên trong.
   3. Vách/chồi.
-
 - Siêu âm qua âm đạo (NPV 91–100%, PPV 35–75%) giúp loại trừ hầu hết ác tính.
 
 #### Phân loại u buồng trứng theo hình thái siêu âm Tokyo
 
 ![Phân loại u buồng trứng theo hình thái siêu âm Tokyo](./_images/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-theo-Tokyo.jpeg)
-
 _Phân loại u buồng trứng theo hình thái siêu âm Tokyo._
 
 - **Kiểu I**: đa số u nang thanh dịch hoặc nang cơ năng.
@@ -45,102 +42,69 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 
 - **O-RADS 0**: Khó đánh giá (hơi ruột, sang thương lớn, vị trí khó...).
 - **O-RADS 1**: Sang thương sinh lý (nang noãn, nang hoàng thể).
-
   ![O-RADS 1](./_images/phuong-tien-tiep-can-u-buong-trung/orads-1.png)
-
   _O-RADS 1._
-
 - **O-RADS 2** (< 1% ác): Nang đơn thùy < 10 cm (đơn giản hoặc "lành kinh điển" như nang xuất huyết điển hình, nang bì, endometrioma, nang cạnh buồng trứng, nang vùi phúc mạc, ứ dịch tai vòi).
-
   ![O-RADS 2A](./_images/phuong-tien-tiep-can-u-buong-trung/orads-2a.png)
-
   _O-RADS 2A._
-
   ![O-RADS 2B](./_images/phuong-tien-tiep-can-u-buong-trung/orads-2b.png)
-
   _O-RADS 2B._
-
 - **O-RADS 3** (1–< 10% ác):
-
   - Nang đơn giản/đơn thùy trơn láng ≥ 10 cm.
   - Nang đơn thùy với thành không đều.
   - Nang đa thùy < 10 cm không thành phần đặc, điểm < 4.
   - Sang thương đặc không tăng sinh mạch, bờ trơn láng. Có thể cần Doppler để xác định thành phần đặc.
-
     ![O-RADS 3](./_images/phuong-tien-tiep-can-u-buong-trung/orads-3.png)
-
     _O-RADS 3._
-
 - **O-RADS 4** (10–< 50% ác):
-
   - Nang đa thùy ≥ 10 cm hoặc có vách/ thành không đều (< 3 mm).
   - Nang đơn/đa thùy có thành phần đặc hoặc CS 4.
   - Sang thương đặc bờ trơn láng (> 80% đặc) với CS 2–3.  
     "Nhú" = thành phần đặc ≥ 3 mm.
-
     ![O-RADS 4A](./_images/phuong-tien-tiep-can-u-buong-trung/orads-4a.png)
-
     _O-RADS 4A._
-
     ![O-RADS 4B](./_images/phuong-tien-tiep-can-u-buong-trung/orads-4b.png)
-
     _O-RADS 4B._
-
 - **O-RADS 5** (≥ 50% ác): Sang thương đặc bờ không đều, nang đa thùy có thành phần đặc với CS cao; hoặc kèm báng bụng/nốt phúc mạc (ngoại trừ báng do nang chức năng hoặc nang chắc chắn lành).
-
   ![O-RADS 5](./_images/phuong-tien-tiep-can-u-buong-trung/orads-5.png)
-
   _O-RADS 5._
-
-![Phác đồ xử trí và phân loại O-RADS](./_images/phuong-tien-tiep-can-u-buong-trung/orads-xu-tri-va-phan-loai.png)
-
-_Phác đồ xử trí và phân loại O-RADS._
+  ![Phác đồ xử trí và phân loại O-RADS](./_images/phuong-tien-tiep-can-u-buong-trung/orads-xu-tri-va-phan-loai.png)
+  _Phác đồ xử trí và phân loại O-RADS._
 
 ### Siêu âm Doppler
 
 - **Tân tạo mạch** trong u ác làm giảm trở kháng dòng chảy → đặc điểm bổ sung quan trọng.
 - Kết hợp siêu âm Doppler với thang xám giúp tăng độ chuyên biệt (pooled specificity 0.78).
 - **Phân loại IOTA (2010)**: Độ nhạy 91%, độ chuyên biệt 95%. Phân theo quy tắc:
-
   - **B-rules (lành tính)**:
-
     - B1: U đơn thuần 1 thùy.
     - B2: Thành phần rắn ≤ 7 mm.
     - B3: Tồn tại bóng âm.
     - B4: U đa thùy trơn láng ≤ 100 mm.
     - B5: Không có dòng chảy (điểm màu 1).
-
   - **M-rules (ác tính)**:
-
     - M1: U đặc không đồng nhất.
     - M2: Kèm dịch báng bụng.
     - M3: ≥ 4 chồi nhú.
     - M4: U đặc đa thùy không đồng nhất > 100 mm.
     - M5: Dòng chảy rất mạnh (điểm màu 4).
-
-  ![Phân loại u buồng trứng theo IOTA](./_images/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-IOTA.jpeg)
-
-  _Phân loại u buồng trứng theo IOTA._
+      ![Phân loại u buồng trứng theo IOTA](./_images/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-IOTA.jpeg)
+      _Phân loại u buồng trứng theo IOTA._
 
 ### CT-scan
 
 - Giá trị dự báo ung thư thấp hơn siêu âm.
 - Chỉ định khi cần đánh giá:
-
   1. Tổn thương trong bối cảnh lan tràn vùng chậu.
   2. Cấu trúc u & mối liên hệ với cơ quan xung quanh.
-
 - Hữu ích hơn nếu có thuốc cản quang.
 
 ### MRI
 
 - Chỉ định khi cần:
-
   1. Tổn thương trong bối cảnh bệnh lý vùng chậu đã lan tràn.
   2. Cấu trúc u & mối liên hệ với cơ quan xung quanh.
-
 - Hiệu quả để:
-
   1. Mô tả u rất nhỏ vùng bụng.
   2. Xác định vị trí u và dính vào cơ quan xung quanh.
   3. Phát hiện di căn hoặc chèn ép.
@@ -170,15 +134,12 @@ _Phác đồ xử trí và phân loại O-RADS._
 
 - Toán đồ kết hợp CA125, HE4 và đặc điểm cá nhân (tiền sử, tuổi, mãn kinh).
 - Phân tầng nguy cơ:
-
   - **Nguy cơ cao** nếu điểm ROMA ≥ cut-off (lưu ý khác nhau ở nhóm trước/sau mãn kinh).
   - **Nguy cơ thấp** nếu < cut-off.
-
 - NPV rất cao ( 99%); ROMA phát hiện 94% ung thư biểu mô buồng trứng vào nhóm nguy cơ cao.
-
-:::caution
-ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
-:::
+  :::caution
+  ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
+  :::
 
 ### AFP
 
@@ -202,7 +163,6 @@ ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
 
 - Khiếm khuyết sửa DNA, tăng nguy cơ ung thư vú và buồng trứng.
 - Xét nghiệm khi có tiền căn gia đình:
-
   - ≥ 3 người cùng huyết thống 1 hoặc 2 bị ung thư vú/buồng trứng (ít nhất một dưới 50 tuổi).
   - 2 người trong cùng thế hệ (1 hoặc 2) bị ung thư vú/buồng trứng.
   - Ung thư vú ở nam giới.

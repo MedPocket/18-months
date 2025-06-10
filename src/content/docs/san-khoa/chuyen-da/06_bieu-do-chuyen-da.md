@@ -12,7 +12,6 @@ Hậu quả của chuyển dạ kéo dài rất nặng nề. Phần lớn các b
 :::note[Tiêu chuẩn chẩn đoán chuyển dạ kéo dài]
 Chuyển dạ được coi là kéo dài khi tổng thời gian vượt quá 24 giờ, hoặc khi giai đoạn hoạt động kéo dài hơn 12 giờ.
 :::
-
 Vì giai đoạn xóa mở cổ tử cung bao gồm hai pha liên tiếp, nên chuyển dạ kéo dài có thể được chia thành:
 
 1. **Chuyển dạ pha tiềm thời kéo dài**: Khó xác định do không rõ thời điểm khởi đầu chuyển dạ.
@@ -34,8 +33,7 @@ Chuyển dạ tắc nghẽn là tình trạng có cản trở cơ học khiến 
 1. Cơn co tử cung dồn dập.
 2. Không có tiến triển ngôi thai.
 3. Thai có biểu hiện uốn khuôn, chồng xương sọ.
-
-:::
+   :::
 
 ### Nguyên nhân
 
@@ -58,10 +56,8 @@ Cơn co tử cung quá mạnh và dồn dập làm giảm lưu lượng máu t�
 - Dấu hiệu Frommel.
 - Ngôi thai không tiến triển.
 - Chồng xương sọ, bướu huyết thanh lớn.
-
-:::
-
-Cơn co mạnh làm phần thân tử cung dày lên, đoạn dưới mỏng đi, tạo thành vòng Bandl, đi kèm dấu hiệu Frommel (căng dây chằng tròn). Nếu không xử trí, tử cung có thể bị xé toạc và thai rơi vào ổ bụng – một cấp cứu sản khoa nguy kịch.
+  :::
+  Cơn co mạnh làm phần thân tử cung dày lên, đoạn dưới mỏng đi, tạo thành vòng Bandl, đi kèm dấu hiệu Frommel (căng dây chằng tròn). Nếu không xử trí, tử cung có thể bị xé toạc và thai rơi vào ổ bụng – một cấp cứu sản khoa nguy kịch.
 
 #### Đường dò sinh dục
 
@@ -73,15 +69,12 @@ Khi ối vỡ kéo dài:
 
 1. Áp lực thay đổi trong buồng tử cung có thể đẩy vi khuẩn ngược dòng vào buồng ối.
 2. Khám âm đạo nhiều lần làm tăng nguy cơ nhiễm khuẩn.
-
-Nhiễm trùng ối dẫn đến nhiễm trùng thai, sơ sinh, rồi đến nhiễm trùng mẹ (nội mạc tử cung, du khuẩn huyết, nhiễm trùng huyết...). Streptococcus nhóm B đặc biệt nguy hiểm. Dịch ối hôi, có phân su là dấu hiệu nghi ngờ. Khi có biểu hiện toàn thân ở mẹ (sốt, bạch cầu tăng, CRP tăng), cần xử trí khẩn cấp.
+   Nhiễm trùng ối dẫn đến nhiễm trùng thai, sơ sinh, rồi đến nhiễm trùng mẹ (nội mạc tử cung, du khuẩn huyết, nhiễm trùng huyết...). Streptococcus nhóm B đặc biệt nguy hiểm. Dịch ối hôi, có phân su là dấu hiệu nghi ngờ. Khi có biểu hiện toàn thân ở mẹ (sốt, bạch cầu tăng, CRP tăng), cần xử trí khẩn cấp.
 
 ## Biểu đồ chuyển dạ (Sản đồ)
 
 Sản đồ WHO model 1993 là công cụ mạnh trong theo dõi và phát hiện sớm chuyển dạ kéo dài, hỗ trợ can thiệp kịp thời.
-
 ![Sản đồ WHO 1993](./_images/bieu-do-chuyen-da/bieu-do-chuyen-da-who-1993.png)
-
 _Sản đồ WHO 1993._
 
 ### Đặc điểm
@@ -92,7 +85,7 @@ _Sản đồ WHO 1993._
 
 ### Cải tiến WHO 2002
 
-- **Bỏ ghi pha tiềm thời và bỏ tịnh tiến.**
+- **Bỏ ghi pha tiềm thời và bỏ tịnh tiến**.
 - **Chỉ bắt đầu ghi từ khi cổ tử cung ≥ 4 cm**, nhằm tránh can thiệp sớm khi chưa vào pha hoạt động thực sự.
 
 ### Ý nghĩa

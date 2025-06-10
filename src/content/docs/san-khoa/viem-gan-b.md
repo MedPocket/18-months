@@ -16,14 +16,10 @@ Markers của virus viêm gan B:
 - **HBeAg**: Khẳng định virus đang sao chép tích cực, nguy cơ lây nhiễm cao.
 - **Anti-HBe**: Xuất hiện giai đoạn cuối cấp tính và duy trì kéo dài.
 - **HBV DNA**: Đo tải lượng virus, theo dõi và đánh giá đáp ứng điều trị.
-
-Nếu HBsAg (+):
-
+  Nếu HBsAg (+):
 - Khảo sát HBeAg.
 - Nếu HBeAg (+), đo HBV DNA để quyết định điều trị kháng virus.
-
-**Mother-To-Child Transmission (MTCT)**:
-
+  **Mother-To-Child Transmission (MTCT)**:
 - 70–90% trẻ sinh từ mẹ HBsAg (+) và HBeAg (+) sẽ bị nhiễm HBV nếu không dự phòng.
 - 90% trẻ nhiễm từ mẹ có nguy cơ thành mạn tính nếu không được phòng ngừa.
 
@@ -37,20 +33,15 @@ Nếu HBsAg (+), HBeAg (+) và HBV DNA > 10⁶ copies/mL (200 000 IU/mL) hoặc 
 - Nếu muộn hơn, cần khởi trị ít nhất 4 tuần trước sinh và kéo dài 4–12 tuần sau sinh (chú ý điều chỉnh liều theo độ lọc cầu thận).
 - Theo dõi lâm sàng, AST/ALT mỗi 4–12 tuần và tải lượng HBV DNA trong 24 tuần sau sinh.
 - Xét nghiệm HBV DNA sau sinh 3 tháng để quyết định ngừng hay tiếp tục điều trị.
-
-Phụ nữ viêm gan B mạn tính không xơ hóa tiến triển có thể trì hoãn điều trị đến sau sinh, trừ khi:
-
+  Phụ nữ viêm gan B mạn tính không xơ hóa tiến triển có thể trì hoãn điều trị đến sau sinh, trừ khi:
 - Xơ gan còn bù hoặc mất bù với tải lượng HBV DNA bất kể ALT/HBeAg.
 - Không xơ gan nhưng đồng thời ALT > 2 lần bình thường và/hoặc xơ hóa F ≥ 2 cùng HBV DNA ≥ 10⁵ copies/mL (nếu HBeAg +) hoặc ≥ 10⁴ copies/mL (nếu HBeAg –).
-
-:::caution
-
+  :::caution
 - Nếu đang điều trị non-TDF và dự định có thai, chuyển sang TDF ít nhất 2 tháng trước khi thụ thai.
 - Nếu mới biết có thai trong khi đang điều trị non-TDF, chuyển ngay sang TDF.
 - Không chống chỉ định cho con bú ở mẹ HBsAg (+) đang dùng TDF.
 - Nếu đồng nhiễm HIV phác đồ ưu tiên TDF+3TC+EFV dùng đồng thời cho HIV và HBV.
-
-:::
+  :::
 
 ### Theo dõi sau điều trị
 
@@ -68,7 +59,6 @@ Phụ nữ viêm gan B mạn tính không xơ hóa tiến triển có thể trì
 - **Thời gian ủ bệnh**: 45–180 ngày (trung bình 60–90 ngày).
 - **Đường lây**: Máu, dịch sinh dục, quan hệ tình dục không an toàn, dùng chung kim tiêm, từ mẹ sang con (trong thai kỳ, chuyển dạ, cho con bú).
 - **Xét nghiệm phát hiện**:
-
   - Sớm nhất 4–6 tuần sau phơi nhiễm.
   - Độ chính xác cao sau 3 tháng.
 

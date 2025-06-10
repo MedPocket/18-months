@@ -53,11 +53,8 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 ### Sót rau và lộn tử cung
 
 - **Sót rau**: Sót múi rau hoặc rau cài răng lược → đờ tử cung, chảy máu liên tục.
-
   - **Xử trí**: Lấy rau sót, hút nạo, kiểm tra siêu âm.
-
 - **Lộn tử cung**: đáy tử cung lộn ngược qua cổ tử cung.
-
   - **Xử trí**: đỡ tay trả cổ tử cung về, gây mềm cơ tử cung (MgSO₄, terbutaline), nếu thất bại phẫu thuật.
 
 ## Bệnh sinh
@@ -79,29 +76,18 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 ### Theo nguyên nhân
 
 1. **Đờ tử cung**
-
    - Xoa đáy tử cung ngay.
    - Thuốc tăng co: Oxytocin, Methylergonovine, PGF₂α, Misoprostol.
    - Nếu thất bại: Bóng chèn buồng tử cung, khâu B-Lynch, thắt động mạch tử cung, cắt tử cung.
-
 2. **Tổn thương đường sinh dục**
-
    - Khâu cầm máu trực tiếp, sửa tổn thương, dẫn lưu khối máu tụ.
-
 3. **Rối loạn đông máu**
-
    - Bù yếu tố đông máu (TC, FFP, cryo), điều trị nguyên nhân (DIC, thuyên tắc ối).
-
 4. **Sót rau**
-
    - Lấy rau sót, hút nạo buồng tử cung.
-
 5. **Lộn tử cung**
-
    - Trả tử cung, gây mềm cơ tử cung, phẫu thuật nếu cần.
-
      ![Lộn tử cung và kỹ thuật đưa tử cung về bình thường](./_images/bang-huyet-sau-sinh/lon-tu-cung-va-ky-thuat-dua-tu-cung-ve-binh-thuong.png)
-
      _Lộn tử cung và kỹ thuật đưa tử cung về bình thường._
 
 ## Phòng ngừa

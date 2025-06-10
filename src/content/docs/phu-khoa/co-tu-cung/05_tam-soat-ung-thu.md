@@ -17,9 +17,7 @@ Ung thư cổ tử cung đứng thứ tư trong các loại ung thư ở phụ n
 | **Đã tiêm ngừa HPV**         | Tầm soát như người không tiêm ngừa (C)                                |                                                                                                                                                  |
 
 Phụ nữ có tiền căn ung thư cổ tử cung, nhiễm HIV hoặc suy giảm miễn dịch không áp dụng hướng dẫn tầm soát thông thường (A).
-
 _Chiến lược tầm soát ung thư cổ tử cung._
-
 _\* Các khuyến cáo dựa theo: American Cancer Society (ACS), ASCCP, và ASCP. A: khuyến cáo mạnh, chứng cứ rõ ràng. B: khuyến cáo trung bình. C: theo kinh nghiệm._  
 _\*\* Ưu tiên._  
 _\*\*\* Chấp nhận được nhưng không phải lựa chọn tối ưu._  

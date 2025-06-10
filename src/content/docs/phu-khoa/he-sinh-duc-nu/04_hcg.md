@@ -34,7 +34,6 @@ hCG là glycoprotein nặng 36–40 kDa, chứa tỉ lệ carbohydrate cao nhấ
 - **Duy trì hoàng thể**: Thay thế LH sau phóng noãn → duy trì hoàng thể chu kỳ thành hoàng thể thai kỳ → tiếp tục tiết estrogen & progesterone.
 - **Phản ánh hoạt động lá nuôi**: Diễn biến hCG phản ánh chức năng tế bào ngoại bì lá nuôi hơn là tình trạng phôi.
 - **Ứng dụng lâm sàng**:
-
   - Thay thế LH trong kích thích phóng noãn cuối cùng.
   - Hỗ trợ phát triển nội mạc, mạch xoắn ốc, relaxin, testosterone thai nhi.
 

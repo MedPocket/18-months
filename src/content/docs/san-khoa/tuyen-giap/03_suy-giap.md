@@ -17,18 +17,21 @@ Tăng TSH, giảm FT₄, có thể giảm FT₃.
 
 ## Biến chứng
 
-- Thiếu hormone tuyến giáp trong thai kỳ và giai đoạn sơ sinh sớm gây ảnh hưởng lớn đến sự phát triển thần kinh, đặc biệt là trong **3 năm đầu đời**. Nếu không điều trị nguy cơ:
-  - Sảy thai.
-  - Tiền sản giật.
-  - Thai lưu.
-  - Thai nhẹ cân.
-  - Giảm IQ trẻ.
-- Suy giáp bẩm sinh:
-  - **Tỷ lệ suy giáp bẩm sinh**: 1/4000.
-  - Nguyên nhân: Loạn sản tuyến giáp, rối loạn tổng hợp hormone, dùng thuốc kháng giáp trong thai kỳ.
-  - **Bướu giáp sơ sinh** do mẹ dùng thuốc chứa iod (si rô ho, thuốc cản quang):
-    - Dạng bướu giáp do iod: To, dễ gây tắc nghẽn.
-    - Dạng do PTU: Thường không quá lớn.
+Thiếu hormone tuyến giáp trong thai kỳ và giai đoạn sơ sinh sớm gây ảnh hưởng lớn đến sự phát triển thần kinh, đặc biệt là trong **3 năm đầu đời**. Nếu không điều trị nguy cơ:
+
+- Sảy thai.
+- Tiền sản giật.
+- Thai lưu.
+- Thai nhẹ cân.
+- Giảm IQ trẻ.
+
+Suy giáp bẩm sinh:
+
+- **Tỷ lệ suy giáp bẩm sinh**: 1/4000.
+- Nguyên nhân: Loạn sản tuyến giáp, rối loạn tổng hợp hormone, dùng thuốc kháng giáp trong thai kỳ.
+- **Bướu giáp sơ sinh** do mẹ dùng thuốc chứa iod (si rô ho, thuốc cản quang):
+  - Dạng bướu giáp do iod: To, dễ gây tắc nghẽn.
+  - Dạng do PTU: Thường không quá lớn.
 
 ## Điều trị
 

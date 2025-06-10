@@ -8,7 +8,6 @@ Tuyến vú (mammary gland) là một cơ quan da phụ có chức năng sinh s�
 ## Giải phẫu
 
 ![Giải phẫu tuyến vú](./_images/giai-phau-va-mo-hoc-tuyen-vu/giai-phau-tuyen-vu.jpeg)
-
 _Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan với cơ ngực._
 
 ### Vị trí
@@ -44,28 +43,21 @@ _Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan 
 ### Đơn vị cấu trúc
 
 1. **Tiểu thùy (Lobe) và tiểu tiểu thùy (Lobule)**
-
    - Mỗi bên vú gồm 10–20 tiểu thùy (lobe), tách biệt nhau bởi mô liên kết và mô mỡ.
    - Một tiểu thùy chia thành nhiều tiểu tiểu thùy (lobule) – tức là các đơn vị tận cùng chức năng (terminal duct lobular unit, TDLU). TDLU gồm:
      - **Ống tuyến tận (Terminal duct)**: Ống nhỏ nhất, nối tiếp vào nang sữa (acinus).
      - **Nang sữa (Acinus)**: Đơn vị sản xuất sữa, có cấu tạo tổ chức biểu mô đơn lớp (cuboidal/trụ) lót bên trong, bên ngoài là lớp tế bào cơ biểu mô (myoepithelial cells).
-
 2. **Hệ thống ống dẫn sữa (Latiferous duct)**
-
    - **Ống dẫn sữa lớn (Lactiferous ducts)**: Mỗi tiểu thùy xuất phát từ một ống lớn có khẩu kính khoảng 0.5 mm, dẫn sữa từ TDLU về phía núm vú.
    - **Xoang sữa (Lactiferous sinuses)**: Ở gần núm vú, đường kính ống giãn rộng thành xoang, đóng vai trò như túi chứa tạm thời sữa trước khi bài xuất.
    - **Niêm mạc ống**:
      - Lớp trong cùng: Biểu mô trụ thấp (simple cuboidal/columnar epithelium) – chịu trách nhiệm hình thành và bài tiết sữa.
      - Lớp ngoài: Tế bào cơ biểu mô (myoepithelial cells) – co bóp để đẩy sữa ra ngoài khi cho con bú.
-
 3. **Biểu mô tuyến vú**
-
    - **Biểu mô lót ống và nang**: Các tế bào có thụ thể estrogen (ER) và progesterone (PR), nhạy cảm với thay đổi nội tiết theo chu kỳ và thai kỳ.
    - **Màng đáy (Basement membrane)**: Nằm dưới lớp biểu mô, tiếp xúc với tế bào cơ biểu mô, tạo khung đỡ và kiểm soát sự phân tách mô.
    - **Mô liên kết quanh ống và nang**: Chứa mạch máu, fibroblast và một tỷ lệ lớn nguyên bào sợi – tế bào miễn dịch, giúp bảo vệ và tái tạo.
-
 4. **Thành phần mô mỡ và liên kết**
-
    - Mô mỡ xung quanh các ống và nang tạo độ đàn hồi, đặc biệt thay đổi theo hormon và cân nặng cơ thể.
    - Các dải mô liên kết (Cooper’s ligaments) kéo dài từ da xuống tới fascia cơ ngực, giữ cho bầu vú không bị sa trễ khi đứng và vận động.
 
@@ -73,23 +65,18 @@ _Hình ảnh giải phẫu mặt cắt ngang tuyến vú và mối tương quan 
 
 - **Ưu thế xuất phát từ biểu mô**: Hầu hết các khối u vú xuất phát từ biểu mô ống (ductal carcinoma) hơn là biểu mô nang (lobular carcinoma) do diện tích biểu mô ống lớn hơn.
 - **Thụ thể hormone (ER/PR)**:
-
   - Các tế bào biểu mô vú bình thường và ác tính đều có thể biểu lộ thụ thể estrogen (ER) và progesterone (PR).
   - Tương tác ER/PR với estrogen và progesterone góp phần điều hòa phát triển ống, nang và bài xuất sữa.
   - Trong ung thư vú, đánh giá ER/PR là bắt buộc để xác định hướng điều trị (hormon therapy) và tiên lượng:
-
     - **ER/PR dương tính**: Khối u thường đáp ứng thuốc ức chế hormon (tamoxifen, aromatase inhibitors), tiến triển chậm hơn.
     - **ER/PR âm tính**: Khối u không đáp ứng liệu pháp hormon, khả năng xâm lấn và di căn cao hơn.
-
-  | Thụ thể Estrogen (ER)                            | Thụ thể Progesterone (PR)                                     |
-  | ------------------------------------------------ | ------------------------------------------------------------- |
-  | - Kích thích tăng sinh ống tuyến vú.             | - Hỗ trợ phát triển các tiểu thùy (lobule).                   |
-  | - Thúc đẩy tăng sinh tế bào mỡ xen kẽ mô tuyến.  | - Kích thích phân chia và biệt hóa tế bào nang sữa (acinus).  |
-  | - Quyết định tính nhạy cảm với liệu pháp hormon. | - Tham gia quá trình bài xuất sữa trong giai đoạn cho con bú. |
-
-  ![Nang sữa](./_images/giai-phau-va-mo-hoc-tuyen-vu/nang-sua.png)
-
-  _(Trái) Nang sữa (acinus) gồm lớp tế bào cơ biểu mô (myoepithelial) bên ngoài và tế bào biểu mô trụ thấp/trụ lót bên trong, dựa trên màng đáy. (Phải) Mô hình hóa mô mi immunohistochemistry cho thấy sự biểu hiện của thụ thể estrogen (màu nâu) trên tế bào biểu mô ống tuyến._
+      | Thụ thể Estrogen (ER) | Thụ thể Progesterone (PR) |
+      | ------------------------------------------------ | ------------------------------------------------------------- |
+      | - Kích thích tăng sinh ống tuyến vú. | - Hỗ trợ phát triển các tiểu thùy (lobule). |
+      | - Thúc đẩy tăng sinh tế bào mỡ xen kẽ mô tuyến. | - Kích thích phân chia và biệt hóa tế bào nang sữa (acinus). |
+      | - Quyết định tính nhạy cảm với liệu pháp hormon. | - Tham gia quá trình bài xuất sữa trong giai đoạn cho con bú. |
+      ![Nang sữa](./_images/giai-phau-va-mo-hoc-tuyen-vu/nang-sua.png)
+      _(Trái) Nang sữa (acinus) gồm lớp tế bào cơ biểu mô (myoepithelial) bên ngoài và tế bào biểu mô trụ thấp/trụ lót bên trong, dựa trên màng đáy. (Phải) Mô hình hóa mô mi immunohistochemistry cho thấy sự biểu hiện của thụ thể estrogen (màu nâu) trên tế bào biểu mô ống tuyến._
 
 ## Nguồn tham khảo
 
