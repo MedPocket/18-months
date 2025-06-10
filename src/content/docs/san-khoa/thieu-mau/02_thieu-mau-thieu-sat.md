@@ -8,11 +8,11 @@ Thiếu máu thiếu sắt trong thai kỳ là tình trạng rất phổ biến,
 ## Hậu quả
 
 _Bảng "Thiếu máu thiếu sắt, thiếu máu thiếu acid folic và hệ quả"._
-| Đối tượng                 | Thiếu máu thiếu sắt                                                                                                                          | Thiếu máu thiếu acid folic                                                                                                                                    |
+| Đối tượng | Thiếu máu thiếu sắt | Thiếu máu thiếu acid folic |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Phụ nữ mọi lứa tuổi**   | - Giảm trí nhớ<br>- Khả năng tư duy kém<br>- Giảm năng suất lao động                                                                         | - Giảm miễn dịch                                                                                                                                              |
-| **Phụ nữ mang thai**      | - Sảy thai/sinh non<br>- Chậm tăng trưởng trong tử cung<br>- Băng huyết sau sinh<br>- Tăng nguy cơ tử vong mẹ và con<br>- Mệt mỏi, chóng mặt | - Bệnh lý bánh nhau (nhau tiền đạo)<br>- Dị tật thai nhi:<br> + Tật ống thần kinh<br> + Gai đôi cột sống<br> + Thoát vị não<br> + Thai vô sọ<br> + Hở hàm ếch |
-| **Trẻ sơ sinh và trẻ em** | - Nhẹ cân<br>- Suy dinh dưỡng<br>- Tử vong chu sinh<br>- Mệt mỏi, tiếp thu chậm                                                              | - Tử vong chu sinh                                                                                                                                            |
+| **Phụ nữ mọi lứa tuổi** | - Giảm trí nhớ<br>- Khả năng tư duy kém<br>- Giảm năng suất lao động | - Giảm miễn dịch |
+| **Phụ nữ mang thai** | - Sảy thai/sinh non<br>- Chậm tăng trưởng trong tử cung<br>- Băng huyết sau sinh<br>- Tăng nguy cơ tử vong mẹ và con<br>- Mệt mỏi, chóng mặt | - Bệnh lý bánh nhau (nhau tiền đạo)<br>- Dị tật thai nhi:<br> + Tật ống thần kinh<br> + Gai đôi cột sống<br> + Thoát vị não<br> + Thai vô sọ<br> + Hở hàm ếch |
+| **Trẻ sơ sinh và trẻ em** | - Nhẹ cân<br>- Suy dinh dưỡng<br>- Tử vong chu sinh<br>- Mệt mỏi, tiếp thu chậm | - Tử vong chu sinh |
 
 ## Chẩn đoán
 
@@ -21,7 +21,7 @@ Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic 
 
 **Lâm sàng**:
 
-- Thiếu máu nhẹ thường gây chóng mặt, hoa mắt, nhức đầu, ù tai, khó thở khi gắng sức, tim đập nhanh. 
+- Thiếu máu nhẹ thường gây chóng mặt, hoa mắt, nhức đầu, ù tai, khó thở khi gắng sức, tim đập nhanh.
 - Thiếu máu trung bình — nặng có thể thấy da khô, niêm nhạt, môi khô, lưỡi nứt nẻ, âm thổi tâm thu ở mỏm tim, tổn thương thần kinh.
 
 **Cận lâm sàng**:

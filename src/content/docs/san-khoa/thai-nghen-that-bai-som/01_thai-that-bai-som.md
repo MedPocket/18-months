@@ -11,7 +11,7 @@ Thai nghén thất bại sớm (Early Pregnancy Failure) thường được bi�
 2. **Thai lâm sàng** (clinical pregnancy): Chỉ các thai kỳ được xác định qua khám lâm sàng hoặc hình ảnh siêu âm. Trong thai lâm sàng, nếu phát triển phôi sau làm tổ rồi ngưng phát triển, gọi là thai nghén thất bại sớm.
 3. **Trứng trống** (blighted ovum): Chỉ sự hiện diện của túi thai nhưng không thấy phôi thai bên trong.
 4. **Thai ngưng phát triển** sớm: Chỉ hình ảnh túi thai có phôi nhưng không có hoạt động tim thai.
-  
+
 :::caution
 Thai nghén thất bại sớm không bao gồm thai sinh hóa.
 :::
@@ -105,6 +105,7 @@ Các trường hợp trên lâm sàng:
 - Hoàn toàn tống xuất mô thai, cổ tử cung đóng, siêu âm buồng tử cung rỗng hoặc chỉ có ít dịch.<br>
   _Hình ảnh "Sảy thai trọn: Lòng tử cung trống sau sảy thai trọn"._
   ![Sảy thai trọn](./_images/thai-that-bai-som/say-thai-tron.jpeg)
+
 ## Điều trị
 
 Có 3 lựa chọn chính:

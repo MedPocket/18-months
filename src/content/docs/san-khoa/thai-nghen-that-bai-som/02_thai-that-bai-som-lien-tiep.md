@@ -41,15 +41,15 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 
 ### Khảo sát giải phẫu tử cung
 
-- Siêu âm 3D là lựa chọn đầu tay, có thể thay thế bằng SIS hoặc MRI nếu cần.
+- Siêu âm 3D là lựa chọn đầu tay, có thể thay thế bằng SIS hoặc MRI nếu cần.<br>
   _Bảng "Bất thường giải phẫu tử cung"._
-  | Bất thường giải phẫu tử cung                          | Điều trị                                                                                                   |
+  | Bất thường giải phẫu tử cung | Điều trị |
   | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-  | **Tử cung có vách ngăn**                              | Nội soi buồng tử cung cắt vách ngăn                                                                        |
-  | **U xơ tử cung**                                      | Nội soi buồng tử cung cắt u xơ dưới niêm mạc hoặc phẫu thuật tối thiểu trên u xơ có biến dạng lòng tử cung |
-  | **Polyp nội mạc tử cung**                             | Nội soi buồng tử cung cắt polyp                                                                            |
-  | **Dính buồng tử cung**                                | Nội soi cắt dính và phòng ngừa dính tái phát                                                               |
-  | **Các dị dạng khác (tử cung đôi, tử cung 2 sừng...)** | Không khuyến cáo can thiệp do thiếu chứng cứ lợi ích                                                       |
+  | **Tử cung có vách ngăn** | Nội soi buồng tử cung cắt vách ngăn |
+  | **U xơ tử cung** | Nội soi buồng tử cung cắt u xơ dưới niêm mạc hoặc phẫu thuật tối thiểu trên u xơ có biến dạng lòng tử cung |
+  | **Polyp nội mạc tử cung** | Nội soi buồng tử cung cắt polyp |
+  | **Dính buồng tử cung** | Nội soi cắt dính và phòng ngừa dính tái phát |
+  | **Các dị dạng khác (tử cung đôi, tử cung 2 sừng...)** | Không khuyến cáo can thiệp do thiếu chứng cứ lợi ích |
 - Khảo sát hệ niệu khi phát hiện dị dạng.
 
 _Bảng "Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp"._

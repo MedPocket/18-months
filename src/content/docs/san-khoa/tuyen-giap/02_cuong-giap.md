@@ -39,6 +39,7 @@ Các triệu chứng lâm sàng định hướng chẩn đoán:
   - **Methimazole (Tapazole)**: Có thể dùng sau tam cá nguyệt thứ nhất để giảm độc tính gan của PTU.
 
 :::caution
+
 1. PTU và methimazole có thể qua bánh rau → có thể gây **bướu giáp hoặc nhược giáp thai nhi**. Khoảng 1–5% trẻ phơi nhiễm với PTU trong tử cung có bướu giáp.
 2. PTU có thể ức chế chuyển T₄ thành T₃ ngoại vi, trong khi methimazole có thể gây **dị tật bẩm sinh**, đặc biệt là dị tật đường tiêu hóa nếu dùng trong tam cá nguyệt đầu.
 3. PTU bài tiết rất ít qua sữa mẹ → có thể dùng cho mẹ cho con bú.

@@ -93,7 +93,7 @@ Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại 
 
 _Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ"._
 ![Lưu đồ xử trí tiền sản giật có dấu hiệu nặng – Bệnh viện Từ Dũ](./_images/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
-  
+
 ### Không chờ đợi điều trị
 
 - **Với mẹ**:

@@ -8,6 +8,7 @@ Thai kỳ với tăng huyết áp là nhóm lớn các bệnh lý với bệnh s
 ## Bệnh sinh
 
 Giả thiết do nhiều nguyên nhân phối hợp dẫn tới tổn thương não, gan, thận và hệ thống mạch máu (tim, mắt):
+
 1. Làm tổ bánh rau với sự xâm nhập bất thường của các nguyên bào nuôi vào động mạch xoắn. **Giả thuyết này được chấp nhận nhiều nhất hiện nay**.
 2. Sự không tương hợp giữa mẹ, bố (bánh rau) và mô thai. Cơ thể mẹ thích nghi kém với những thay đổi về tim mạch và đáp ứng viêm trong thai kỳ.
 3. Các yếu tố di truyền.
@@ -20,6 +21,7 @@ _Hình ảnh "Sơ đồ cơ chế tăng huyết áp thai kỳ"._
 Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai trò then chốt trong cơ chế bệnh sinh của tiền sản giật. Do đó, khảo sát **sFlt-1** và **PlGF** có thể giúp tiên đoán tiền sản giật. Khoảng 5 tuần trước khi tiền sản giật xuất hiện trên lâm sàng, tỷ số **sFlt-1/PlGF** tăng cao ở nhóm sau này bị tiền sản giật.
 
 **Nguồn gốc** xuất hiện tiền sản giật bắt đầu từ **bánh rau**, nhưng **cơ quan đích** là các tế bào nội mô của mẹ dẫn đến:
+
 - **Huyết áp**: Co mạch làm tăng huyết áp.
 - **Mạch máu**: Tổn thương nội mô gây thoát quản các thành phần huyết tương và huyết cầu:
   - Cô đặc máu, tăng Hematocrit do mất đạm, giảm áp lực keo, nặng có thể gây sốc tim.

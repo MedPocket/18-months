@@ -19,7 +19,7 @@ _Bảng "Chức năng tuyến giáp ở phụ nữ, phụ nữ mang thai và má
 | **Resin T₃ uptake (%)** | 20 – 30 | 10 | 10 – 15 |
 | **TBG (g/dL)** | 12 – 28 | 40 – 50 | 10 – 16 |
 | **TSH (U/mL)** | 1.94 | 0 – 6 | 0 – 20 |
-  
+
 **Free T₄ (free thyroxine - FT₄)** là chỉ số đánh giá chức năng tuyến giáp chính xác nhất trong thai kỳ, do sự thay đổi nồng độ **TBG (Thyroxine Binding Globulin)** khiến tổng nồng độ T₃ và T₄ tăng suốt thai kỳ.
 
 Về chức năng tuyến giáp của thai:

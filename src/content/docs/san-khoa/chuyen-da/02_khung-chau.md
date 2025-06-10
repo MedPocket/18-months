@@ -31,18 +31,19 @@ Eo trên là mặt phẳng xương đầu tiên mà ngôi thai phải vượt qu
 - Trước: Mặt sau của khớp vệ.
 
 Eo trên là vòng xương cứng, không thay đổi trong chuyển dạ. Kích thước của eo trên được thể hiện qua các **đường kính**:<br>
-  _Hình ảnh "Các đường kính eo trên"._
-  ![Các đường kính eo trên](./_images/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
-  - **Đường kính trước-sau**:
-    - **Mỏm nhô – thượng vệ**: 11 cm.
-    - **Mỏm nhô – hạ vệ**: 12 cm. Đo được bằng tay, nhưng chỉ phản ánh gián tiếp đường kính thật sự của eo trên.
-    - **Mỏm nhô – hậu vệ**: 10.5 cm. Đây là đường kính **hữu dụng** và **quan trọng nhất**, vì là đường kính thật sự mà ngôi thai phải vượt qua.
-  - **Đường kính chéo**:
-    - Từ khớp cùng-chậu bên này đến gai mào chậu lược bên kia.
-    - Trị số bình thường: 12.75 cm.
-  - **Đường kính ngang**:
-    - **Ngang tối đa**: 13.5 cm – không có giá trị sản khoa vì nằm gần mỏm nhô.
-    - **Ngang hữu dụng**: 12.5 cm – là đường kính ngang đi qua trung điểm của đường kính trước-sau. Dù quan trọng, nhưng **không thể đo được lâm sàng**.
+_Hình ảnh "Các đường kính eo trên"._
+![Các đường kính eo trên](./_images/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
+
+- **Đường kính trước-sau**:
+  - **Mỏm nhô – thượng vệ**: 11 cm.
+  - **Mỏm nhô – hạ vệ**: 12 cm. Đo được bằng tay, nhưng chỉ phản ánh gián tiếp đường kính thật sự của eo trên.
+  - **Mỏm nhô – hậu vệ**: 10.5 cm. Đây là đường kính **hữu dụng** và **quan trọng nhất**, vì là đường kính thật sự mà ngôi thai phải vượt qua.
+- **Đường kính chéo**:
+  - Từ khớp cùng-chậu bên này đến gai mào chậu lược bên kia.
+  - Trị số bình thường: 12.75 cm.
+- **Đường kính ngang**:
+  - **Ngang tối đa**: 13.5 cm – không có giá trị sản khoa vì nằm gần mỏm nhô.
+  - **Ngang hữu dụng**: 12.5 cm – là đường kính ngang đi qua trung điểm của đường kính trước-sau. Dù quan trọng, nhưng **không thể đo được lâm sàng**.
 
 ### Eo giữa
 

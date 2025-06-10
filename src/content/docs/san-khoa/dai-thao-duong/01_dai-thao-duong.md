@@ -43,16 +43,16 @@ description: Định nghĩa, phân loại, sàng lọc, chẩn đoán, điều t
 ## Yếu tố nguy cơ
 
 _Bảng "Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ"._
-| Yếu tố                  | Tiêu chí / Ngưỡng                                                                                                  |
+| Yếu tố | Tiêu chí / Ngưỡng |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **BMI trước mang thai** | ≥ 23 kg/m² (người châu Á)                                                                                          |
-| **Tiền sử gia đình**    | Cha/mẹ/anh/chị/em ruột có ĐTĐ                                                                                      |
-| **Tiền sử sản khoa**    | Con ≥ 4.0 kg; thai chết lưu vô căn; dị tật bẩm sinh                                                                |
-| **Bệnh lý kèm theo**    | Tăng huyết áp; bệnh tim mạch; HDL < 0.9 mmol/L; TG > 2.82 mmol/L; PCOS; HIV                                        |
-| **Tuổi mẹ**             | > 35 tuổi                                                                                                          |
-| **Tiền sử cá nhân**     | GDM lần trước; IFG/IGT trước đó; HbA1c 5.7–6.4%                                                                    |
-| **Lối sống**            | Ít vận động; stress; hút thuốc                                                                                     |
-| **Glucosuria (+)**      | Có thể dương tính cơ học, không đặc hiệu cho GDM (gặp 10–15% thai phụ không GDM, cần kết hợp xét nghiệm chính xác) |
+| **BMI trước mang thai** | ≥ 23 kg/m² (người châu Á) |
+| **Tiền sử gia đình** | Cha/mẹ/anh/chị/em ruột có ĐTĐ |
+| **Tiền sử sản khoa** | Con ≥ 4.0 kg; thai chết lưu vô căn; dị tật bẩm sinh |
+| **Bệnh lý kèm theo** | Tăng huyết áp; bệnh tim mạch; HDL < 0.9 mmol/L; TG > 2.82 mmol/L; PCOS; HIV |
+| **Tuổi mẹ** | > 35 tuổi |
+| **Tiền sử cá nhân** | GDM lần trước; IFG/IGT trước đó; HbA1c 5.7–6.4% |
+| **Lối sống** | Ít vận động; stress; hút thuốc |
+| **Glucosuria (+)** | Có thể dương tính cơ học, không đặc hiệu cho GDM (gặp 10–15% thai phụ không GDM, cần kết hợp xét nghiệm chính xác) |
 
 ## Sàng lọc và chẩn đoán
 
@@ -73,14 +73,15 @@ _Bảng "Kết quả sàng lọc 3 tháng đầu"._
 ### 3 tháng giữa (24–28 tuần)
 
 **OGTT 75 g chuẩn**:
+
 - **Chuẩn bị**:
-   - 3 ngày trước: Chế độ ăn chứa ≥ 150 g glucid/ngày.
-   - Nhịn đói ít nhất 8 giờ (chỉ được uống nước lọc).
+  - 3 ngày trước: Chế độ ăn chứa ≥ 150 g glucid/ngày.
+  - Nhịn đói ít nhất 8 giờ (chỉ được uống nước lọc).
 - **Quy trình**:
-   - Lấy máu tĩnh mạch đo glucose lúc đói.
-   - Uống dung dịch chứa 75 g glucose trong vòng 5 phút.
-   - Lấy máu tĩnh mạch đo glucose sau 1 giờ và sau 2 giờ.
-   - Trong thời gian làm nghiệm pháp thai phụ không ăn uống gì thêm, được ngồi nghỉ ngơi hoặc đi lại nhẹ nhàng.
+  - Lấy máu tĩnh mạch đo glucose lúc đói.
+  - Uống dung dịch chứa 75 g glucose trong vòng 5 phút.
+  - Lấy máu tĩnh mạch đo glucose sau 1 giờ và sau 2 giờ.
+  - Trong thời gian làm nghiệm pháp thai phụ không ăn uống gì thêm, được ngồi nghỉ ngơi hoặc đi lại nhẹ nhàng.
 
 :::note[Tiêu chuẩn chẩn đoán GDM]
 **Chẩn đoán GDM** khi có ≥ 1 tiêu chí bất thường theo<br>
@@ -140,13 +141,14 @@ _Bảng "Tiêu chuẩn chẩn đoán GDM (IADPSG/WHO 2013)"._
 ### Mục tiêu
 
 _Bảng "Đường huyết tương mao mạch mục tiêu"._
-| Thời điểm     | Glucose (mg/dL) | Glucose (mmol/L) |
+| Thời điểm | Glucose (mg/dL) | Glucose (mmol/L) |
 | ------------- | --------------- | ---------------- |
-| **Lúc đói**   | < 95            | < 5.3            |
-| **Sau ăn 1h** | < 140           | < 7.8            |
-| **Sau ăn 2h** | < 120           | < 6.7            |
+| **Lúc đói** | < 95 | < 5.3 |
+| **Sau ăn 1h** | < 140 | < 7.8 |
+| **Sau ăn 2h** | < 120 | < 6.7 |
 
 :::caution
+
 - HbA1c < 6% (kiểm tra 1 lần/tháng), không đánh giá tốt GDM do thời gian bán hủy hồng cầu.
 - Đo glucose sau ăn 2 giờ tính từ miếng đầu tiên, không ăn thêm.
 
@@ -173,9 +175,8 @@ _Bảng "Đường huyết tương mao mạch mục tiêu"._
    - **Basal**: Insulin NPH hoặc Detemir nếu chỉ tăng glucose lúc đói.
    - **Bolus**: Insulin tác dụng nhanh (Regular, Lispro, Aspart) nếu tăng sau ăn.
    - **Basal-bolus**: Phối hợp khi tăng cả đói và sau ăn.<br>
-   _Hình ảnh "Các loại insulin và dấu đỏ: Loại được phép dùng cho phụ nữ mang thai"._
-   ![Các loại insulin thai kỳ](./_images/cac-loai-insulin.png)
-     
+     _Hình ảnh "Các loại insulin và dấu đỏ: Loại được phép dùng cho phụ nữ mang thai"._
+     ![Các loại insulin thai kỳ](./_images/cac-loai-insulin.png)
 3. **Điều chỉnh liều**
    - Tăng 1–2 IU mỗi 2–3 ngày cho đến khi đạt mục tiêu.
    - Theo dõi sát và điều chỉnh phối hợp chế độ ăn.

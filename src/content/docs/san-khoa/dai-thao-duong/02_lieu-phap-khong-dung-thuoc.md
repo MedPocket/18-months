@@ -24,13 +24,13 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
   - Tăng cường protein nạc: Thịt nạc, cá, đậu phụ, sữa chua ít béo.
   - Hạn chế muối (< 5 g/ngày; ưu tiên muối iốt), rượu bia, thuốc lá.
 - **Kiểm soát tăng cân**:<br>
-    _Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)._
-    | BMI trước khi mang thai | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
-    | --------------------------------------------------- | ------------- | ------------------------------------------------------------------------ |
-    | **Thiếu năng lượng trường diễn (BMI < 18.5 kg/m²)** | 12.5–18 | 0.51 (0.44–0.58) |
-    | **Bình thường (BMI 18.5–22.9 kg/m²)** | 11.5–16 | 0.42 (0.35–0.50) |
-    | **Thừa cân (BMI 23.0–24.9 kg/m²)** | 7–11.5 | 0.28 (0.23–0.33) |
-    | **Béo phì (BMI > 24.9 kg/m²)** | 5–9 | 0.22 (0.17–0.27) |
+  _Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)._
+  | BMI trước khi mang thai | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
+  | --------------------------------------------------- | ------------- | ------------------------------------------------------------------------ |
+  | **Thiếu năng lượng trường diễn (BMI < 18.5 kg/m²)** | 12.5–18 | 0.51 (0.44–0.58) |
+  | **Bình thường (BMI 18.5–22.9 kg/m²)** | 11.5–16 | 0.42 (0.35–0.50) |
+  | **Thừa cân (BMI 23.0–24.9 kg/m²)** | 7–11.5 | 0.28 (0.23–0.33) |
+  | **Béo phì (BMI > 24.9 kg/m²)** | 5–9 | 0.22 (0.17–0.27) |
 - **Hoạt động thể chất**:
   - Ít nhất 150 phút/tuần (đi bộ, yoga, bơi nhẹ...).
   - Chia nhỏ thời gian (ví dụ 30 phút/ngày).
@@ -43,26 +43,26 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
   - Bình thường: 30–35 kcal/kg/ngày.
   - Thừa cân/béo phì: 20–30 kcal/kg/ngày (không < 1600 kcal/ngày).
 - **Glucid, protein và lipid**:<br>
-    _Bảng "Phân bố glucid, protein và lipid"._
-    | Nhóm chất   | Tỉ lệ năng lượng | Ghi chú                                                   |
-    | ----------- | ---------------- | --------------------------------------------------------- |
-    | **Glucid**  | 35–40%           | ≥ 175 g/ngày; chia 3 bữa chính + 2–3 phụ; ưu tiên GI thấp |
-    | **Protein** | 20–25%           | ≥ 1.1 g/kg/ngày; động – thực vật ≥ 35% động vật           |
-    | **Lipid**   | 30–35%           | ≤ 60% mỡ động vật; tăng dầu thực vật, cá béo (omega-3)    |
+  _Bảng "Phân bố glucid, protein và lipid"._
+  | Nhóm chất | Tỉ lệ năng lượng | Ghi chú |
+  | ----------- | ---------------- | --------------------------------------------------------- |
+  | **Glucid** | 35–40% | ≥ 175 g/ngày; chia 3 bữa chính + 2–3 phụ; ưu tiên GI thấp |
+  | **Protein** | 20–25% | ≥ 1.1 g/kg/ngày; động – thực vật ≥ 35% động vật |
+  | **Lipid** | 30–35% | ≤ 60% mỡ động vật; tăng dầu thực vật, cá béo (omega-3) |
 - **Chất xơ và vi chất**:
   - Chất xơ ≥ 28 g/ngày (rau củ quả ≥ 400 g/ngày).
   - Canxi, sắt, acid folic, vitamin D... theo khuyến nghị.
   - Sữa/chế phẩm ít béo: 3–6 đơn vị IU/ngày tuỳ tam cá nguyệt.
 - **Phân bố bữa ăn mẫu**:<br>
-    _Bảng "Phân bố bữa ăn"._
-    | Bữa ăn        | % năng lượng (6 bữa/ngày) | % năng lượng (5 bữa/ngày) |
-    | ------------- | ------------------------- | ------------------------- |
-    | **Bữa sáng**  | 20                        | 25                        |
-    | **Phụ sáng**  | 10                        | 10                        |
-    | **Bữa trưa**  | 30                        | 30                        |
-    | **Phụ chiều** | 10                        | —                         |
-    | **Bữa tối**   | 20                        | 25                        |
-    | **Phụ tối**   | 10                        | 10                        |
+  _Bảng "Phân bố bữa ăn"._
+  | Bữa ăn | % năng lượng (6 bữa/ngày) | % năng lượng (5 bữa/ngày) |
+  | ------------- | ------------------------- | ------------------------- |
+  | **Bữa sáng** | 20 | 25 |
+  | **Phụ sáng** | 10 | 10 |
+  | **Bữa trưa** | 30 | 30 |
+  | **Phụ chiều** | 10 | — |
+  | **Bữa tối** | 20 | 25 |
+  | **Phụ tối** | 10 | 10 |
 - **Hoạt động thể chất**:
   - Loại hình: đi bộ, yoga, bơi, tập cơ bản sau ăn.
   - Cường độ: Trung bình, không gây mệt quá sức; giám sát y tế nếu có biến chứng (nhau tiền đạo, dọa sinh non).

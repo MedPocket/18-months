@@ -32,7 +32,7 @@ Phân biệt với cơn co Braxton-Hicks:
 - Cơn co chuyển dạ: Tự động, đều đặn, tăng dần về cường độ và tần số, gây đau, và đặc biệt phải gây hiệu quả làm xóa mở cổ tử cung.<br>
   _Hình ảnh "Cơn co Braxton-Hicks là những cơn co thưa, không đều, không gây đau, xuất hiện vào cuối thai kỳ, không gây thay đổi trên cổ tử cung"._
   ![Cơn co Braxton-Hicks](./_images/sinh-ly-chuyen-da/con-co-braxton-hicks.png)
-  
+
 ### Xóa mở cổ tử cung
 
 Đặc điểm của xóa mở cổ tử cung:
