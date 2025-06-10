@@ -5,7 +5,7 @@ description: Thai nghén thất bại sớm (Early Pregnancy Loss - EPL) là tì
 
 Thai nghén thất bại sớm (Early Pregnancy Failure) thường được biết dưới dạng trứng trống (blighted ovum) hoặc thai ngưng phát triển (embryonic demise). Tình trạng này xảy ra trước 12 tuần tuổi thai và ảnh hưởng tới khoảng 10–15% các thai lâm sàng, với nguyên nhân chủ yếu do bất thường nhiễm sắc thể, rối loạn nội mạc tử cung hoặc bệnh lý toàn thân của người mẹ.
 
-## Phân loại
+## Định nghĩa
 
 1. **Thai sinh hóa** (biochemical pregnancy): Chỉ hiện diện độc lập của β-hCG trong huyết thanh mà không có dấu hiệu chắc chắn của thai qua khám hoặc siêu âm. Thai sinh hóa có thể tiến triển thành thai lâm sàng hoặc thất bại sớm.
 2. **Thai lâm sàng** (clinical pregnancy): Chỉ các thai kỳ được xác định qua khám lâm sàng hoặc hình ảnh siêu âm. Trong thai lâm sàng, nếu phát triển phôi sau làm tổ rồi ngưng phát triển, gọi là thai nghén thất bại sớm.
@@ -31,12 +31,14 @@ The Society of Radiologists in Ultrasound Multispecialty Panel, chẩn đoán th
 
 Triệu chứng lâm sàng thường bao gồm ra **huyết âm đạo** và **đau bụng âm ỉ**.
 
-![Thai ngưng phát triển](./_images/thai-that-bai-som/thai-ngung-phat-trien.png)  
+![Thai ngưng phát triển](./_images/thai-that-bai-som/thai-ngung-phat-trien.png)
+
 _Thai ngưng phát triển: Phôi với CRL ≥ 7 mm không có tim phôi (xác nhận bằng phổ Doppler)._
 
 Để **chẩn đoán trứng trống**, không đủ khi chỉ không thấy phôi hoặc túi noãn hoàng với MSD < 25 mm. **Phải có MSD ≥ 25 mm không thấy phôi hoặc túi noãn hoàng**.
 
-![Trứng trống](./_images/thai-that-bai-som/trung-trong.png)  
+![Trứng trống](./_images/thai-that-bai-som/trung-trong.png)
+
 _Trứng trống: MSD ≥ 25 mm không thấy túi noãn hoàng hay phôi._
 
 **Các tình huống nghi ngờ khác (chưa đủ tiêu chuẩn)** gồm:
@@ -46,13 +48,15 @@ _Trứng trống: MSD ≥ 25 mm không thấy túi noãn hoàng hay phôi._
 - Không thấy phôi có tim sau 7–10 ngày từ khi phát hiện túi thai và túi noãn hoàng.
 - Không có màng ối rõ sau 6 tuần vô kinh.
 - Yolk-sac giãn > 7 mm.
-- Hiệu MSD – CRL < 5 mm.
+- Hiệu (MSD – CRL) < 5 mm.
 
 :::caution
 Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu trước khi chẩn đoán chắc chắn (NICE).
 :::
 
 ## Phân loại
+
+Các trường hợp trên lâm sàng:
 
 - Thai chết lưu (missed miscarriage).
 - Dọa sảy thai lưu (threatened miscarriage).
@@ -79,7 +83,7 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 
   - Không thấy phôi sau 6 tuần vô kinh.
   - Yolk-sac giãn > 7 mm.
-  - MSD – CRL < 5 mm.
+  - (MSD – CRL) < 5 mm.
   - Tim thai chậm < 80–90 nhịp/phút.
   - Xuất huyết dưới màng nuôi.
   - Xoang ối giãn rộng (expanded amnion sign).
@@ -115,7 +119,7 @@ Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu t
 
   ![Sảy thai trọn](./_images/thai-that-bai-som/say-thai-tron.jpeg)
 
-  _Lòng tử cung trống sau sảy thai trọn._
+  _Sảy thai trọn: Lòng tử cung trống sau sảy thai trọn._
 
 ## Điều trị
 
