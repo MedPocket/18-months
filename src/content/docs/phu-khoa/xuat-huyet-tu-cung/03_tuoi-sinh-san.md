@@ -50,25 +50,29 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
 
 ## Tiếp cận
 
-### Bệnh sử
+### Lâm sàng
 
-- **tiền sử kinh nguyệt**
+#### Tiền sử
+
+- **Tiền sử sản khoa – tình dục**:
+
+  - Hoạt động tình dục, phương thức tránh thai (đặc biệt dụng cụ tử cung), đánh giá nguy cơ STI.
+  - Tiền sử sảy thai, nong nạo, nạo hút buồng tử cung, chấn thương, can thiệp phụ khoa.
+
+- **Tiền sử bệnh lý hệ thống và nội tiết**:
+
+  - Bệnh lý đông máu (bản thân, gia đình), đái tháo đường, tăng huyết áp, rối loạn tuyến giáp, hội chứng buồng trứng đa nang (PCOS).
+  - Thuốc đang dùng: NSAID, kháng đông (warfarin, heparin...), corticosteroid, thuốc điều trị tuyến giáp, thuốc tránh thai, thuốc nội tiết thay thế, GnRH đồng vận, tamoxifen, SERM, SPRM.
+
+#### Bệnh sử
+
+- **Kinh nguyệt**:
 
   - Tuổi có kinh lần đầu, tính chất chu kỳ (dài/ ngắn, đều/ không đều), độ dài và lượng máu, có cục máu đông kèm không.
   - Các triệu chứng đi kèm: đau bụng kinh, mệt mỏi, choáng váng, triệu chứng thiếu máu (hoa mắt, chóng mặt).
   - Tần suất spotting giữa chu kỳ.
 
-- **Tiền sử sản khoa – tình dục**
-
-  - Hoạt động tình dục, phương thức tránh thai (đặc biệt dụng cụ tử cung), đánh giá nguy cơ STI.
-  - Tiền sử sảy thai, nong nạo, nạo hút buồng tử cung, chấn thương, can thiệp phụ khoa.
-
-- **Tiền sử bệnh lý hệ thống và nội tiết**
-
-  - Bệnh lý đông máu (bản thân, gia đình), đái tháo đường, tăng huyết áp, rối loạn tuyến giáp, hội chứng buồng trứng đa nang (PCOS).
-  - Thuốc đang dùng: NSAID, kháng đông (warfarin, heparin...), corticosteroid, thuốc điều trị tuyến giáp, thuốc tránh thai, thuốc nội tiết thay thế, GnRH đồng vận, tamoxifen, SERM, SPRM.
-
-### Lâm sàng
+#### Thực thể
 
 - **Tổng quát**: Kiểm tra sinh hiệu, đánh giá mức độ thiếu máu (da niêm nhợt, mạch nhanh), dấu hiệu rối loạn đông (bầm tím, chảy máu chân răng).
 - **Khám dấu hiệu nội tiết**: Cường androgen (mụn trứng cá, rậm lông, acanthosis nigricans), rối loạn tuyến giáp (bướu cổ, run tay), dấu hiệu Cushing (gầy yếu, vết rạn, mỡ bụng).

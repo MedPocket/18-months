@@ -106,7 +106,14 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
 
 ## Tiếp cận
 
-### Bệnh sử
+### Lâm sàng
+
+#### Tiền sử
+
+- **Tiền sử bệnh lý toàn thân**: Bệnh đông máu, đái tháo đường, bệnh tuyến giáp, bệnh gan thận, bệnh tự miễn, rối loạn tuyến thượng thận...
+- **Tiền sử gia đình**: Bệnh lý đông máu, rối loạn kinh nguyệt, u buồng trứng estrogen-ức chế, bệnh lý tuyến giáp...
+
+#### Bệnh sử
 
 - **Kinh nguyệt**:
 
@@ -122,15 +129,7 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
 
   - Thuốc tránh thai khẩn cấp, progestin, corticosteroid, kháng đông, NSAIDs lâu ngày, thuốc hướng thần kinh...
 
-- **Tiền sử bệnh lý toàn thân**:
-
-  - Bệnh đông máu, đái tháo đường, bệnh tuyến giáp, bệnh gan thận, bệnh tự miễn, rối loạn tuyến thượng thận...
-
-- **Tiền sử gia đình**:
-
-  - Bệnh lý đông máu, rối loạn kinh nguyệt, u buồng trứng estrogen-ức chế, bệnh lý tuyến giáp...
-
-### Lâm sàng
+#### Thực thể
 
 - **Tổng thể**:
 
