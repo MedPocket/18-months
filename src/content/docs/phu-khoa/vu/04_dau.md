@@ -37,8 +37,9 @@ Nguyên nhân chính của đau vú theo chu kỳ liên quan đến thay đổi 
    - Stress cũng làm tăng prolactin và gây co giãn các ống dẫn sữa, dẫn đến đau.
      Ngoài ra, một số yếu tố khác có thể góp phần:
 
-- **Giữa nước chu kỳ**: Giữ nước có thể khiến mô vú phù nề, nhưng các nghiên cứu so sánh tổng lượng nước cơ thể ở ngày thứ 5 và thứ 25 của chu kỳ không thấy khác biệt rõ rệt giữa nhóm đau vú và nhóm không đau.
-- **Chế độ ăn chứa methylxanthine** (caffeine, theobromine): Mặc dù lý thuyết cho rằng methylxanthine có thể kích thích quá mức mô vú, nhưng các thử nghiệm ngẫu nhiên về chế độ không chứa caffeine chưa chứng minh được hiệu quả giảm đau.
+**Giữa nước chu kỳ**: Giữ nước có thể khiến mô vú phù nề, nhưng các nghiên cứu so sánh tổng lượng nước cơ thể ở ngày thứ 5 và thứ 25 của chu kỳ không thấy khác biệt rõ rệt giữa nhóm đau vú và nhóm không đau.
+
+**Chế độ ăn chứa methylxanthine** (caffeine, theobromine): Mặc dù lý thuyết cho rằng methylxanthine có thể kích thích quá mức mô vú, nhưng các thử nghiệm ngẫu nhiên về chế độ không chứa caffeine chưa chứng minh được hiệu quả giảm đau.
 
 #### Đặc điểm
 
@@ -110,9 +111,10 @@ Nguyên nhân chính của đau vú theo chu kỳ liên quan đến thay đổi 
   2. Thăm dò theo các lát cắt: Lưới dọc – ngang, nan hoa (radial) và tiếp tuyến (antiradial).
   3. Khảo sát hạch nách để phát hiện hạch to, thay đổi cấu trúc.
   4. Siêu âm Doppler để đánh giá tưới máu khối u (giúp phân biệt lành – ác).
-     :::caution
-     Nếu nhũ ảnh và siêu âm đều không phát hiện tổn thương, bệnh nhân có thể được theo dõi lâm sàng. Nếu vẫn đau dai dẳng hoặc có hình ảnh nghi ngờ, cần cân nhắc sinh thiết.
-     :::
+
+:::caution
+Nếu nhũ ảnh và siêu âm đều không phát hiện tổn thương, bệnh nhân có thể được theo dõi lâm sàng. Nếu vẫn đau dai dẳng hoặc có hình ảnh nghi ngờ, cần cân nhắc sinh thiết.
+:::
 
 ## Điều trị
 
@@ -122,7 +124,8 @@ Việc điều trị đau vú chỉ được khuyến nghị khi triệu chứng
 2. Tuổi tác và chu kỳ sinh sản (mong muốn mang thai, cho con bú).
 3. Tình trạng tổng thể (tiền sử bệnh lý, thuốc đang dùng).
 4. Mong muốn của bệnh nhân (sẵn sàng thử thách nghiệm pháp, tác dụng phụ).
-   **Tiếp cận** bệnh nhân:
+
+**Tiếp cận** bệnh nhân:
 
 - Bắt đầu bằng khám lâm sàng, hỏi tiền sử, phân loại đau (chu kỳ, không chu kỳ, ngoài vú).
 - Nếu ≥ 35 tuổi và chưa có nhũ ảnh gần đây (< 1 năm), chỉ định nhũ ảnh kết hợp siêu âm (nếu cần).
@@ -130,6 +133,12 @@ Việc điều trị đau vú chỉ được khuyến nghị khi triệu chứng
 - Nếu phát hiện khối bất thường hoặc bất kỳ hình ảnh nghi ngờ, thực hiện sinh thiết (FNA, core biopsy) tùy hướng dẫn hình ảnh.
 - Với các trường hợp đau vú lành tính, không có khối trên hình ảnh, áp dụng biện pháp không dùng thuốc, điều chỉnh lối sống và theo dõi sau 6–12 tuần.
 - Nếu không cải thiện, cân nhắc điều trị nội tiết tố theo thứ tự: Tamoxifen → Danazol → Bromocriptine (chỉ khi thật cần và có giám sát).
+
+_Hình ảnh "Điều trị đau vú – Phác đồ Cardiff, 2009"._
+![Điều trị đau vú – Phác đồ Cardiff, 2009](./_images/dau-vu/dieu-tri-dau-vu-theo-phac-do-cardiff.png)
+
+_Hình ảnh "Đánh giá và xử trí đau vú – Bệnh viện Từ Dũ"._
+![Đánh giá và xử trí đau vú – Bệnh viện Từ Dũ](./_images/dau-vu/danh-gia-va-xu-tri-dau-vu.png)
 
 ### Không dùng thuốc
 
@@ -183,10 +192,6 @@ Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 
 - Việc cắt bỏ vùng đau (local excision) đôi khi giúp giảm đau đáng kể nếu nguồn đau đến từ một mô xơ hóa, u giả cân...
 - Với đau vú lan toả, **không khuyến cáo phẫu thuật cắt bỏ vú** (mastectomy), vì 50% trường hợp sau mổ vẫn còn đau hoặc tái phát.
 - Nếu bệnh nhân vẫn yêu cầu mastectomy hủy vú để tái tạo, cần đánh giá tâm lý kỹ, giải thích biến chứng tiềm ẩn và cơ hội thành công không cao.
-  ![Điều trị đau vú – Phác đồ Cardiff, 2009](./_images/dau-vu/dieu-tri-dau-vu-theo-phac-do-cardiff.png)
-  _Điều trị đau vú – Phác đồ Cardiff, 2009._
-  ![Đánh giá và xử trí đau vú – Bệnh viện Từ Dũ](./_images/dau-vu/danh-gia-va-xu-tri-dau-vu.png)
-  _Đánh giá và xử trí đau vú – Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 

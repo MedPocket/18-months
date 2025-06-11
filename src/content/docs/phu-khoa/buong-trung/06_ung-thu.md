@@ -25,29 +25,35 @@ Chẩn đoán khối tân lập ở buồng trứng luôn phải đi kèm dự �
 
 - **Mang thai đủ tháng**, **cho con bú**, **dùng COC** làm giảm nguy cơ ung thư biểu mô buồng trứng.
 - **Cắt buồng trứng dự phòng** là biện pháp duy nhất ngăn ngừa hoàn toàn.
-  :::caution
-  Theo ACOG, giữ lại buồng trứng nếu chưa mãn kinh. Tuy nhiên, xét nguy cơ tuổi mãn kinh, có thể cân nhắc cắt bỏ buồng trứng.
-  :::
+
+:::caution
+Theo ACOG, giữ lại buồng trứng nếu chưa mãn kinh. Tuy nhiên, xét nguy cơ tuổi mãn kinh, có thể cân nhắc cắt bỏ buồng trứng.
+:::
 
 ## Các giai đoạn
 
+_Hình ảnh "Các giai đoạn ung thư buồng trứng theo FIGO"._
 ![Các giai đoạn ung thư buồng trứng theo FIGO](./_images/phong-ngua-ung-thu-buong-trung/giai-doan-ung-thu-buong-trung-theo-figo.png)
-_Các giai đoạn ung thư buồng trứng theo FIGO._
+
 **Giai đoạn I** (chỉ ở buồng trứng):
 
 - Ia: 1 buồng trứng.
 - Ib: 2 buồng trứng.
 - Ic: 1 hoặc 2 buồng trứng + vỏ vỡ hoặc dịch ổ bụng/ dịch rửa có TB ác tính.
-  **Giai đoạn II** (buồng trứng + di căn vùng chậu):
+
+**Giai đoạn II** (buồng trứng + di căn vùng chậu):
+
 - IIa: Di căn tử cung/vòi trứng.
 - IIb: Di căn vùng chậu khác.
 - IIc: IIa hoặc IIb + vỏ vỡ hoặc dịch ổ bụng/ dịch rửa có TB ác tính.
-  **Giai đoạn III** (ngoài vùng chậu và/hoặc hạch & di căn bề mặt gan/ mạc nối):
+
+**Giai đoạn III** (ngoài vùng chậu và/hoặc hạch & di căn bề mặt gan/ mạc nối):
+
 - IIIa: Di căn phúc mạc vi thể, không hạch.
 - IIIb: Di căn phúc mạc đại thể > 2 cm, không hạch.
 - IIIc: IIIb và/hoặc di căn hạch sau phúc mạc hoặc hạch bẹn.
-  **Giai đoạn IV** (di căn xa):
-- Tràn dịch màng phổi hoặc di căn nhu mô gan.
+
+**Giai đoạn IV** (di căn xa): Tràn dịch màng phổi hoặc di căn nhu mô gan.
 
 ## Nguồn tham khảo
 

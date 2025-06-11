@@ -16,8 +16,9 @@ Bên trong là DNA kép vòng, dài 7904 bp, gồm các gen:
 - **E4, E5**: Tái tổ hợp.
 - **L1, L2**: Protein vỏ capsid.
 - **E6, E7**: đa chức năng, tương tác với p53 và pRb, quyết định khả năng sinh ung thư.
-  ![DNA HPV16 7904 bp](./_images/hpv/so-do-dna-hpv-16.png)
-  _Sơ đồ DNA 7904 bp của HPV type 16._
+
+_Hình ảnh "Sơ đồ DNA 7904 bp của HPV type 16"._
+![DNA HPV16 7904 bp](./_images/hpv/so-do-dna-hpv-16.png)  
 
 ### Các type
 
@@ -42,11 +43,14 @@ Bên trong là DNA kép vòng, dài 7904 bp, gồm các gen:
 - **Cơ chế sinh ung thư**:
   - E6 liên kết p53 → thoái giáng p53 → mất kiểm soát chu kỳ tế bào.
   - E7 bất hoạt pRb → giải phóng E2F1 → kích hoạt phân bào không kiểm soát.
-    Miễn dịch qua trung gian tế bào quyết định khả năng thanh thải HPV.
-    ![Cơ chế hình thành tế bào bất tử khi nhiễm HPV](./_images/hpv/co-che-hinh-thanh-te-bao-bat-tu-khi-nhiem-hpv.png)
-    _Cơ chế hình thành tế bào bất tử khi nhiễm HPV._
-    ![Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV](./_images/hpv/mien-dich-bam-sinh-va-thich-nghi-qua-trung-gian-te-bao-bao-ve-chong-hpv.png)
-    _Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV._
+
+Miễn dịch qua trung gian tế bào quyết định khả năng thanh thải HPV.
+
+_Hình ảnh "Cơ chế hình thành tế bào bất tử khi nhiễm HPV"._
+![Cơ chế hình thành tế bào bất tử khi nhiễm HPV](./_images/hpv/co-che-hinh-thanh-te-bao-bat-tu-khi-nhiem-hpv.png)
+
+_Hình ảnh "Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV"._
+![Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào bảo vệ chống HPV](./_images/hpv/mien-dich-bam-sinh-va-thich-nghi-qua-trung-gian-te-bao-bao-ve-chong-hpv.png)
 
 ## Vaccine HPV
 
@@ -58,13 +62,14 @@ Bên trong là DNA kép vòng, dài 7904 bp, gồm các gen:
 
 ### Phân loại
 
+_Bảng "Phổ bảo vệ của vaccine 2vHPV, 4vHPV và 9vHPV"._
 | Loại vaccine | Type bảo vệ                       | Phổ bảo vệ                                               |
 | ------------ | --------------------------------- | -------------------------------------------------------- |
 | **2vHPV**    | 16, 18                            | Ngừa ung thư cổ tử cung (66% trường hợp)                 |
 | **4vHPV**    | 6, 11, 16, 18                     | Ngừa ung thư cổ tử cung và mụn cóc sinh dục (type 6, 11) |
 | **9vHPV**    | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên 81–90%  |
 
-_Phổ bảo vệ của vaccine 2vHPV, 4vHPV và 9vHPV_
+_Bảng "So sánh vaccine HPV nhị giá và tứ giá"._
 | Thông số | Vaccine HPV tứ giá | Vaccine HPV nhị giá |
 | ----------------------------------------- | ------------------- | ---------------------- |
 | **Thời gian theo dõi** | 36 tháng (nâng cao) | 15 tháng (tạm thời) |
@@ -84,7 +89,6 @@ _Phổ bảo vệ của vaccine 2vHPV, 4vHPV và 9vHPV_
 | **Tạo miễn dịch ở vị thành niên** | Đã được chứng minh | Đã được chứng minh |
 | **Tạo miễn dịch ở nữ lớn tuổi hơn** | Đã được chứng minh | Đã được chứng minh |
 | **Ký ức miễn dịch sau 6 năm** | Đã được chứng minh | Chưa báo cáo |
-_So sánh vaccine HPV nhị giá và tứ giá._
 
 ### Sử dụng
 
@@ -96,7 +100,8 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 - **Phác đồ**
   - Trước 15 tuổi: 2 liều, cách 6–12 tháng.
   - Từ 15 tuổi: 3 liều (0, 1–2 tháng, 6 tháng).
-    :::caution
+
+:::caution
 - Không cần tầm soát Pap, HPV DNA hay kháng thể trước tiêm.
 - Tuân thủ khoảng cách tối thiểu: Liều 1–2 ≥ 4 tuần; liều 2–3 ≥ 12 tuần; liều 1–3 ≥ 40 tuần.
 - Trễ hẹn: Tiếp tục liệu trình, không phải bắt đầu lại.
@@ -106,18 +111,19 @@ _So sánh vaccine HPV nhị giá và tứ giá._
 - Phụ nữ đã phơi nhiễm HPV hoặc có tổn thương cổ tử cung bất thường vẫn được khuyến khích tiêm để phòng các type chưa nhiễm.
 - **FDA** chỉ dán nhãn 4vHPV và 9vHPV cho bé trai; 9vHPV được khuyến nghị vì hiệu quả rộng và chi phí quản lý ít hơn 2 loại trước đó.
 - Dù tiêm đầy đủ, vẫn cần tầm soát ung thư cổ tử cung định kỳ (Pap smear và/hoặc HPV DNA) do vaccine không phòng được hết tất cả các loại virus HPV.
-  :::
+
+:::
 
 ## HPV testing
 
 - Thường thực hiện cùng Pap smear (co-testing).
 - Âm tính HPV → độ tin cậy cao, có thể tầm soát 3 năm/lần.
 - **Chỉ định**
-  1. Reflex testing khi ASC-US.
-  2. Co-testing cho phụ nữ 30–65 tuổi.
-  3. Sau điều trị HSIL.
-  4. Có xu hướng làm test đầu tay từ 25 tuổi.
-- **Quy trình quản lý (ACOG/ASCCP)**
+  - Reflex testing khi ASC-US.
+  - Co-testing cho phụ nữ 30–65 tuổi.
+  - Sau điều trị HSIL.
+  - Có xu hướng làm test đầu tay từ 25 tuổi.
+- **Quản lý (ACOG/ASCCP)**:
   - HPV (−): Xét nghiệm lại sau 3 năm.
   - HPV (+) type 16/18: Soi cổ tử cung.
   - HPV (+) type cao khác: Làm tế bào học; nếu bình thường → theo dõi 1 năm; nếu bất thường → soi cổ tử cung.

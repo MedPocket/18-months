@@ -21,11 +21,12 @@ Các cấu trúc cơ năng của buồng trứng hình thành từ hoạt độn
 
 ## Nang noãn nang
 
+_Hình ảnh "Nang đơn trên siêu âm, 5–8 cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ"._
+![Nang noãn nang trên siêu âm](./_images/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-noan-nang-tren-sieu-am.png)
+
 - Là nang noãn không trưởng thành và không phóng noãn. Nang tiếp tục tăng kích thước, sản xuất steroid bất thường.
 - **Nguyên nhân**: Phản hồi steroid bị triệt tiêu (ví dụ dậy thì, quanh mãn kinh, steroid ngoại sinh, stress).
 - **Cấu trúc**: Thành lót tế bào hạt xung quanh tế bào vỏ, lòng nang chứa estrogen; đôi khi chỉ còn tế bào vỏ nếu tế bào hạt tróc rời; nang có thể đạt 5–8 cm, tồn tại xuyên chu kỳ.
-  ![Nang noãn nang trên siêu âm](./_images/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-noan-nang-tren-sieu-am.png)
-  _Nang đơn trên siêu âm, 5–8 cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ._
 - **Triệu chứng**:
   - Rối loạn kinh (vắng progesterone).
   - Đau bụng nhẹ–vừa, lệch một bên, kèm rối loạn kinh.
@@ -38,10 +39,11 @@ Các cấu trúc cơ năng của buồng trứng hình thành từ hoạt độn
 
 ## Nang hoàng thể
 
+_Hình ảnh "Hoàng thể xuất huyết trên siêu âm"._
+![Hoàng thể xuất huyết trên siêu âm](./_images/quan-ly-cac-cau-truc-co-nang-buong-trung/hoang-the-xuat-huyet-tren-sieu-am.png)
+
 - Hoàng thể hình thành sau phóng noãn, từ tế bào vỏ-hạt dưới tác dụng LH.
 - Chức năng tiết estrogen và progesterone, chuẩn bị làm tổ và duy trì thai. Progesterone gây feedback giảm GnRH/LH, dẫn đến ly giai hoàng thể.
-  ![Hoàng thể xuất huyết trên siêu âm](./_images/quan-ly-cac-cau-truc-co-nang-buong-trung/hoang-the-xuat-huyet-tren-sieu-am.png)
-  _Hoàng thể xuất huyết trên siêu âm._
 
 1. **Hoàng thể tồn lưu**
    - Progesterone không ức chế LH đủ, hoàng thể phì đại, sản xuất progesterone không ổn định dẫn đến trễ kinh, đau hạ vị âm ỉ, rong huyết, thăm khám thấy khối phần phụ mềm. Triệu chứng giống thai ngoài tử cung nhưng β-hCG âm tính.

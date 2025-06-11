@@ -5,20 +5,25 @@ description: Mô tả các phương tiện chẩn đoán hình ảnh và xâm l�
 
 Tuyến vú có thể được khảo sát bằng nhiều phương tiện cận lâm sàng chuyên sâu. Mỗi phương pháp có ưu – nhược điểm riêng, cho phép:
 
-1. Phát hiện sớm tổn thương (tầm soát ung thư).
-2. Định hình bản chất tổn thương (lành tính – ác tính).
-3. Lấy mẫu mô hoặc tế bào để chẩn đoán mô học/tế bào học.
-   Danh sách các xét nghiệm/phương tiện cận lâm sàng thường sử dụng:
-4. Nhũ ảnh (Mammography – X-quang tuyến vú)
-5. Siêu âm (Ultrasound)
-6. Cộng hưởng từ (Breast MRI)
-7. Chọc hút tế bào bằng kim nhỏ (Fine Needle Aspiration – FNA)
-8. Sinh thiết lõi (Core Needle Biopsy)
-9. Sinh thiết mở (Open Excisional Biopsy)
+- Phát hiện sớm tổn thương (tầm soát ung thư).
+- Định hình bản chất tổn thương (lành tính – ác tính).
+- Lấy mẫu mô hoặc tế bào để chẩn đoán mô học/tế bào học.
+
+Danh sách các xét nghiệm/phương tiện cận lâm sàng thường sử dụng:
+
+- Nhũ ảnh (Mammography – X-quang tuyến vú)
+- Siêu âm (Ultrasound)
+- Cộng hưởng từ (Breast MRI)
+- Chọc hút tế bào bằng kim nhỏ (Fine Needle Aspiration – FNA)
+- Sinh thiết lõi (Core Needle Biopsy)
+- Sinh thiết mở (Open Excisional Biopsy)
 
 ## Nhũ ảnh
 
 Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng thấp, được xem là tiêu chuẩn vàng trong tầm soát và chẩn đoán tổn thương vú.
+
+_Hình ảnh "Nhũ ảnh: Phim MLO (trái) cho thấy mô vú và cơ ngực rõ, đặc biệt 1/4 trên ngoài. Phim CC (phải) cho thấy toàn bộ mô vú từ chân vú đến núm, cơ ngực lớn và túi Chassaignac"._
+![Nhũ ảnh, phim MLO (trái) và phim CC (phải).](./_images/can-lam-sang-tuyen-vu/nhu-anh.png)
 
 - **Mục đích**:
   - Tầm soát ung thư vú (phát hiện giai đoạn sớm trước khi có triệu chứng).
@@ -42,10 +47,11 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
      - **Macrocalcification (đóng vôi lớn)**: Thường lành tính, hình tròn hoặc hình que, phân bố rải rác.
      - **Microcalcification (đóng vôi vi thể)**: Có thể lành tính hoặc gợi ý ung thư (nhất là khi tập trung thành chùm, có hình dạng bất thường, độ dày không đồng nhất).
      - Phân loại các nhóm đóng vôi theo BIRADS: 1. Lành tính (nhẵn, to, rải rác). 2. Khả năng lành tính (vòng, hình tản mát, tuyến Montgomery). 3. Trung gian (hình đa giác, tập trung). 4. Nghi ngờ ác tính (hình tam giác, đĩa bay, vân xen kẽ).
-       ![Nhũ ảnh, phim MLO (trái) và phim CC (phải).](./_images/can-lam-sang-tuyen-vu/nhu-anh.png)
-       _Nhũ ảnh: Phim MLO (trái) cho thấy mô vú và cơ ngực rõ, đặc biệt 1/4 trên ngoài. Phim CC (phải) cho thấy toàn bộ mô vú từ chân vú đến núm, cơ ngực lớn và túi Chassaignac._
 
 ## Siêu âm
+
+_Hình ảnh "(Trái) Khối nang hỗn hợp và nang đơn thuần trên siêu âm vú. (Phải) Hướng dẫn sinh thiết nang vú qua siêu âm"._
+![Siêu âm tuyến vú](./_images/can-lam-sang-tuyen-vu/sieu-am-vu.png)
 
 - Siêu âm tuyến vú sử dụng sóng âm tần số cao (7–12 MHz) để khảo sát tổn thương mô mềm.
 - **Ưu điểm**:
@@ -71,10 +77,11 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
     - Đậm đặc (solid): Giảm âm, thu hồi đáy.
     - Hỗn hợp (mixed).
   - **Doppler**: Tăng sinh mạch máu bất thường gợi ý ác tính.
-    ![Siêu âm tuyến vú](./_images/can-lam-sang-tuyen-vu/sieu-am-vu.png)
-    _(Trái) Khối nang hỗn hợp và nang đơn thuần trên siêu âm vú. (Phải) Hướng dẫn sinh thiết nang vú qua siêu âm._
 
 ## MRI
+
+_Hình ảnh "MRI vú cung cấp hình ảnh động học và giải phẫu chi tiết, giúp đánh giá tổn thương và mức độ xâm lấn xung quanh"._
+![Cộng hưởng từ tuyến vú](./_images/can-lam-sang-tuyen-vu/cong-huong-tu-tuyen-vu.png)
 
 - MRI tuyến vú sử dụng nguyên tắc cộng hưởng hạt nhân, cho phép khảo sát mô vú ở không gian ba chiều với độ tương phản mô mềm rất cao. Thường tiêm thuốc tương phản gadolinium để tăng nét.
 - **Ưu điểm**:
@@ -87,19 +94,17 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
   - Độ đặc hiệu thấp hơn nhũ ảnh (72–75%), dễ có dương tính giả (nang u lành tính, mô xơ tăng sinh).
   - Không thích hợp cho phụ nữ có máy tạo nhịp tim, thiết bị kim loại không tương thích.
 - **Chỉ định** (theo khuyến cáo Hội Ung thư Hoa Kỳ – ACS):
-  1. Phụ nữ có đột biến BRCA1/BRCA2 hoặc có người thân thế hệ gần đột biến.
-  2. Phụ nữ có tiền sử chiếu xạ ngực liều cao (10–30 tuổi).
-  3. Phụ nữ ung thư vú trước đây muốn theo dõi tái phát (đặc biệt vú đậm đặc).
-  4. Phụ nữ có vú rất đậm đặc (density > 75%), nhũ ảnh kém nhạy.
-  5. Phụ nữ đã đặt túi ngực (implant) – đánh giá tình trạng vụn silicon, rò túi.
+  - Phụ nữ có đột biến BRCA1/BRCA2 hoặc có người thân thế hệ gần đột biến.
+  - Phụ nữ có tiền sử chiếu xạ ngực liều cao (10–30 tuổi).
+  - Phụ nữ ung thư vú trước đây muốn theo dõi tái phát (đặc biệt vú đậm đặc).
+  - Phụ nữ có vú rất đậm đặc (density > 75%), nhũ ảnh kém nhạy.
+  - Phụ nữ đã đặt túi ngực (implant) – đánh giá tình trạng vụn silicon, rò túi.
 - **Đánh giá tổn thương**:
   - **Đặc tính bắt thuốc (enhancement kinetics)**:
     - **Wash-in nhanh – wash-out nhanh** (type III): Nghi ngờ ác tính.
     - **Wash-in chậm – tăng dần** (type I): Gợi ý lành tính.
     - **Wash-in nhanh – tăng dần** (type II): Có thể là tổn thương giáp biên.
   - **Phân loại theo BIRADS-MRI**: Từ 1 (bình thường) đến 6 (đã xác định u ác tính), giúp quyết định can thiệp tiếp theo.
-    ![Cộng hưởng từ tuyến vú](./_images/can-lam-sang-tuyen-vu/cong-huong-tu-tuyen-vu.png)
-    _MRI vú cung cấp hình ảnh động học và giải phẫu chi tiết, giúp đánh giá tổn thương và mức độ xâm lấn xung quanh._
 
 ## Chọc hút tế bào bằng kim nhỏ (FNA)
 
@@ -166,11 +171,11 @@ Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng th
 - BRCA1 và BRCA2 (Breast Cancer genes 1 & 2) là các gene ức chế u (tumor suppressor genes) có vai trò sửa chữa DNA đứt gãy sợi kép. Đột biến (mutation) ở các gene này làm mất chức năng sửa chữa DNA, dẫn đến tăng nguy cơ ung thư vú, buồng trứng...
 - **Protein BRCA1/BRCA2**: Tham gia con đường sửa chữa homologous recombination – quan trọng để bảo vệ tính toàn vẹn của bộ gen.
 - **Chỉ định**:
-  1. Gia đình có ≥ 3 người ung thư vú hoặc buồng trứng (ít nhất một người < 50 tuổi).
-  2. Hai người thân thế hệ thứ nhất hoặc hai thế hệ thứ hai có ung thư vú/buồng trứng.
-  3. Có người thân nam bị ung thư vú.
-  4. Bản thân ung thư vú trước 50 tuổi.
-  5. Gia đình có bệnh nhân ung thư buồng trứng đồng thời hoặc trước ung thư vú.
+  - Gia đình có ≥ 3 người ung thư vú hoặc buồng trứng (ít nhất một người < 50 tuổi).
+  - Hai người thân thế hệ thứ nhất hoặc hai thế hệ thứ hai có ung thư vú/buồng trứng.
+  - Có người thân nam bị ung thư vú.
+  - Bản thân ung thư vú trước 50 tuổi.
+  - Gia đình có bệnh nhân ung thư buồng trứng đồng thời hoặc trước ung thư vú.
 - **Ý nghĩa**:
   - Phát hiện sớm, thực hiện tầm soát tích cực (nhũ ảnh + MRI) từ tuổi 25–30.
   - Cân nhắc phẫu thuật dự phòng (prophylactic mastectomy, oophorectomy).

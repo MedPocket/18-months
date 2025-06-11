@@ -25,14 +25,15 @@ U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô
 
 ## Phân loại
 
+_Hình ảnh "Phân loại FIGO 2011"._
 ![Phân loại FIGO 2011](./_images/phan-loai-u-xo-tu-cung-figo-2011.jpg)
-_Phân loại FIGO 2011._
-| Category | Description |
+
+_Bảng "Phân loại FIGO 2011"._
+| Phân loại | Mô tả |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **S (Submucosal)**<br>Dưới niêm mạc | **0** Có cuống, hoàn toàn trong lòng tử cung<br>**1** < 50% trong cơ<br>**2** ≥ 50% trong cơ _(inferred)_ |
 | **O (Other)**<br>Khác | **3** Tiếp xúc nội mạc, 100% trong cơ<br>**4** Trong cơ<br>**5** Dưới thanh mạc, ≥ 50% trong cơ<br>**6** Dưới thanh mạc, < 50% trong cơ<br>**7** Dưới thanh mạc, có cuống<br>**8** Khác: Ghi rõ (vd: cổ tử cung...) |
 | **H (Hybrid leiomyomas)**<br>Tiếp xúc đồng thời thanh và niêm mạc | Thể hiện bằng 2 con số:<br>- **Số thứ nhất**: Liên quan niêm mạc (dùng mã S)<br>- **Số thứ hai**: Liên quan thanh mạc (dùng mã O)<br>_Ví dụ: 2-5 = Dưới thanh mạc + dưới niêm mạc (cả hai ≥ 50% trong cơ)_ |
-_Phân loại FIGO 2011._
 
 ## Chẩn đoán
 
@@ -43,31 +44,31 @@ _Phân loại FIGO 2011._
 
 ### Cận lâm sàng
 
-- **Siêu âm thang xám**: Khối giảm âm, giới hạn rõ, bóng giảm âm sau.
+- **Siêu âm thang xám**: Khối giảm âm, giới hạn rõ, bóng giảm âm sau.<br>
+  _Hình ảnh "U xơ tử cung trên siêu âm"._
   ![U xơ tử cung trên siêu âm](./_images/u-xo-tu-cung-tren-sieu-am.png)
-  _U xơ tử cung trên siêu âm._
+  _Hình ảnh "Adenomyosis trên siêu âm"._
   ![Adenomyosis trên siêu âm](./_images/adenomyosis-tren-sieu-am.png)
-  _Adenomyosis trên siêu âm._
+  _Hình ảnh "Leiomyosarcoma trên siêu âm"._
   ![Leiomyosarcoma trên siêu âm](./_images/leiomyosarcoma-tren-sieu-am.png)
-  _Leiomyosarcoma trên siêu âm._
-- **Doppler**: Mạch ngoại vi u xơ; phân biệt với polyp (mạch trung tâm) và adenomyosis (mạch nội vi).
+- **Doppler**: Mạch ngoại vi u xơ; phân biệt với polyp (mạch trung tâm) và adenomyosis (mạch nội vi).<br>
+  _Hình ảnh "U xơ tử cung trên siêu âm Doppler"._
   ![U xơ tử cung trên siêu âm Doppler](./_images/u-xo-tu-cung-tren-sieu-am-doppler.png)
-  _U xơ tử cung trên siêu âm Doppler._
+  _Hình ảnh "Adenomyosis trên siêu âm Doppler"._
   ![Adenomyosis trên siêu âm Doppler](./_images/adenomyosis-tren-sieu-am-doppler.png)
-  _Adenomyosis trên siêu âm Doppler._
 - **Siêu âm 4D/đàn hồi**: đánh giá JZ, độ cứng.
+  _Hình ảnh "Adenomyosis trên siêu âm đàn hồi"._
   ![Adenomyosis trên siêu âm đàn hồi](./_images/adenomyosis-tren-sieu-am-dan-hoi.png)
-  _Adenomyosis trên siêu âm đàn hồi._
 - **Siêu âm bơm nước**: Với u xơ dưới niêm mạc.
+  _Hình ảnh "U xơ tử cung FIGO 0 trên SIS"._
   ![U xơ tử cung FIGO 0 trên SIS](./_images/u-xo-tu-cung-figo-0-qua-sis.png)
-  _U xơ tử cung FIGO 0 trên SIS._
+  _Hình ảnh "Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler"._
   ![Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler](./_images/phan-biet-polyp-va-u-xo-tu-cung-figo-1-bang-doppler.png)
-  _Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler._
-- **MRI**: Phân biệt adenomyosis (JZ dày > 40%, tín hiệu hỗn hợp) với u xơ (tín hiệu đồng nhất giảm trên T2W).
-  ![Hình ảnh MRI của adenomyosis và u xơ tử cung](./_images/adenomyosis-u-xo-tu-cung-tren-mri.png)
-  _Hình ảnh MRI của adenomyosis và u xơ tử cung._
+- **MRI**: Phân biệt adenomyosis (JZ dày > 40%, tín hiệu hỗn hợp) với u xơ (tín hiệu đồng nhất giảm trên T2W).<br>
+  _Hình ảnh "MRI của adenomyosis và u xơ tử cung"._
+  ![MRI của adenomyosis và u xơ tử cung](./_images/adenomyosis-u-xo-tu-cung-tren-mri.png)
+  _Hình ảnh "Leiomyosarcoma trên MRI"._
   ![Leiomyosarcoma trên MRI](./_images/leiomyosarcoma-tren-mri.png)
-  _Leiomyosarcoma trên MRI._
 
 ### Chẩn đoán phân biệt
 
@@ -93,6 +94,7 @@ _Phân loại FIGO 2011._
 
 ### Nội khoa
 
+_Bảng "Các thuốc nội khoa điều trị u xơ"._
 | Phương pháp                      | Mục tiêu                  | Ghi chú                                                               |
 | -------------------------------- | ------------------------- | --------------------------------------------------------------------- |
 | **Tranexamic acid**              | Giảm cường kinh           | 250–500 mg × 3 lần/ngày; chống chỉ định tràn khí màng phổi/thuyên tắc |

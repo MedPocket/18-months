@@ -15,11 +15,13 @@ Tiết dịch núm vú (nipple discharge) là hiện tượng có dịch chảy 
    - Thường là dịch một bên, chỉ chảy ra từ một ống tuyến (nhất là khi bệnh nhân không ấn núm vú).
    - Màu sắc có thể là máu tươi, nâu sẫm, mủ hoặc dịch đục lẫn máu.
    - Nguy cơ liên quan đến tổn thương ống tuyến (như bướu nhú, ung thư ống) cao hơn.
-     :::caution
+
+:::caution
 
 - **Tiết dịch tự phát, một bên, có lẫn máu** là dấu hiệu cảnh báo cao đối với bướu nhú (intraductal papilloma) hoặc carcinoma tại chỗ/ xâm lấn trong ống tuyến vú.
 - Khi có các đặc điểm kể trên, cần thực hiện các bước chẩn đoán hình ảnh và xâm lấn để loại trừ ác tính.
-  :::
+
+:::
 
 ## Tiết sữa
 
@@ -148,35 +150,36 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
 
 ### Điều trị
 
+_Hình ảnh "Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ Dũ"._
+![Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ Dũ](./_images/tiet-dich-num-vu/xu-tri-tiet-dich-num-vu-benh-ly.jpeg)
+
 - **Bước 1: Phân loại dịch**
-  1. **Dịch sữa (trắng đục)**: đo prolactin, TSH → xử trí như tiết sữa.
-  2. **Dịch bệnh lý (màu bất thường, một bên, một ống)**: Chuyển sang bước chẩn đoán hình ảnh.
+  - **Dịch sữa (trắng đục)**: đo prolactin, TSH → xử trí như tiết sữa.
+  - **Dịch bệnh lý (màu bất thường, một bên, một ống)**: Chuyển sang bước chẩn đoán hình ảnh.
 - **Bước 2: Kết hợp chẩn đoán hình ảnh**
-  1. **Nhũ ảnh + Siêu âm** (đều ưu tiên cho phụ nữ ≥ 35 tuổi):
+  - **Nhũ ảnh + Siêu âm** (đều ưu tiên cho phụ nữ ≥ 35 tuổi):
      - Nếu phát hiện **khối** hoặc **microcalcification** đáng ngờ → Sinh thiết lõi (core biopsy).
      - Nếu có **ống giãn khu trú** mà không thấy khối → Chụp ống tuyến (ductography) để khoanh vùng, sau đó sinh thiết định vị.
-  2. **Chụp ống tuyến** (nếu siêu âm và nhũ ảnh không xác định rõ tổn thương nhưng vẫn có tiết máu/lẫn máu):
+  - **Chụp ống tuyến** (nếu siêu âm và nhũ ảnh không xác định rõ tổn thương nhưng vẫn có tiết máu/lẫn máu):
      - Bơm thuốc cản quang, xác định chỗ lấp đầy, khối u nhỏ trong ống.
      - Dựa vào kết quả ductography, chỉ định sinh thiết mở hoặc sinh thiết lõi có định vị dưới hình ảnh.
 - **Bước 3: Sinh thiết**
-  1. **Core biopsy (sinh thiết lõi) hướng dẫn siêu âm/nhũ ảnh**:
+  - **Core biopsy (sinh thiết lõi) hướng dẫn siêu âm/nhũ ảnh**:
      - Ưu tiên khi phát hiện khối u rõ hoặc vùng ống có dãn bất thường.
      - Lấy ít nhất 4–6 mẫu mô để đánh giá mô học (xác định bướu nhú, DCIS, carcinoma xâm lấn).
-  2. **Wire localization biopsy (định vị bằng kim dẫn hướng)**:
+  - **Wire localization biopsy (định vị bằng kim dẫn hướng)**:
      - Dùng khi tổn thương chỉ thấy trên ductography hoặc MRI, không phát hiện rõ trên siêu âm.
      - Kim định vị được đặt chính xác vào tổn thương, sau đó phẫu thuật cắt mô định hướng.
-  3. **Sinh thiết mở (excisional biopsy)**:
+  - **Sinh thiết mở (excisional biopsy)**:
      - Khi core biopsy không thể thực hiện hoặc kết quả không rõ ràng.
      - Lấy toàn bộ tổn thương cùng vỏ bao, vừa chẩn đoán vừa điều trị.
 - **Bước 4: Xử trí hậu sinh thiết**
-  1. **Hoàn toàn lành tính (ví dụ Intraductal papilloma lành, duct ectasia không viêm)**:
+  - **Hoàn toàn lành tính (ví dụ Intraductal papilloma lành, duct ectasia không viêm)**:
      - Nếu không triệu chứng (ít dịch, không đau), có thể theo dõi lâm sàng, không cần phẫu thuật.
      - Nếu còn tiếp tục chảy dịch hoặc cảm giác khó chịu, có thể cân nhắc phẫu thuật cắt ống chảy dịch (microdochectomy).
-  2. **Tổn thương có nguy cơ (bướu nhú có tế bào atypia, sclerosing lesion phức tạp)**:
+  - **Tổn thương có nguy cơ (bướu nhú có tế bào atypia, sclerosing lesion phức tạp)**:
      - Phẫu thuật cắt rộng hơn hoặc theo dõi chặt chẽ (nhũ ảnh + siêu âm 6 tháng/lần).
-  3. **Ung thư ống tại chỗ (DCIS) hoặc carcinoma xâm lấn**: - Chuyển sang phác đồ điều trị ung thư vú (phẫu thuật, xạ trị, hóa – nội tiết tùy giai đoạn và phân nhóm mô học).
-     ![Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ Dũ](./_images/tiet-dich-num-vu/xu-tri-tiet-dich-num-vu-benh-ly.jpeg)
-     _Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ Dũ._
+  - **Ung thư ống tại chỗ (DCIS) hoặc carcinoma xâm lấn**: - Chuyển sang phác đồ điều trị ung thư vú (phẫu thuật, xạ trị, hóa – nội tiết tùy giai đoạn và phân nhóm mô học).
 
 ## Nguồn tham khảo
 

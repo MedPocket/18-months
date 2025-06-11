@@ -117,7 +117,7 @@ _Bảng "Các khuyến cáo dựa theo American Cancer Society, ASCCP, và ASCP.
 
 Soi cổ tử cung là kỹ thuật quan sát cổ tử cung qua kính lúp (máy soi), đánh giá vị trí, kích thước, đặc điểm tổn thương, đồng thời hướng dẫn sinh thiết hoặc nạo kênh cổ tử cung (ECC) để chẩn đoán mô học.
 
-### Điều kiện
+### Điều kiện thực hiện
 
 - Thực hiện sau khi có kết quả Pap’s test, vào ngày N8–N12 của chu kỳ kinh, tốt nhất sau sạch kinh 3 ngày.
 - Dụng cụ:

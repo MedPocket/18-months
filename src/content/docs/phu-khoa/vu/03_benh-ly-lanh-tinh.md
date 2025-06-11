@@ -14,6 +14,7 @@ Các bệnh lý này được phân loại theo:
 
 ### Theo lâm sàng
 
+_Bảng "Phân loại bệnh lý tuyến vú theo đặc điểm lâm sàng"._
 | Loại tổn thương                                             | Các dạng cụ thể                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Đau vú**                                                  | Đau vú                                                                                                                                                                                                                                                                           |
@@ -22,17 +23,14 @@ Các bệnh lý này được phân loại theo:
 | **Nhiễm trùng vú và viêm vú**                               | - Viêm vú nội sinh (Intrinsic mastitis)<br>- Căng sữa sau sinh<br>- Viêm vú khi cho bú<br>- Áp xe vú khi cho bú<br>- Áp xe dưới quầng vú tái phát mạn tính<br>- Viêm vú cấp tính liên quan đến các nang vú<br>- Nhiễm trùng vú ngoại sinh (Extrinsic infection)<br>- Bệnh Mondor |
 | **Những tổn thương có nguy cơ phát triển thành ung thư vú** | - Tăng sinh trong ống dẫn sữa (Ductal hyperplasia)<br>- Bệnh lý xơ nang tuyến vú (Sclerosing adenosis)<br>- Bướu sợi tuyến phức tạp (Complex fibroadenomas)<br>- Tăng sản không điển hình (Atypical hyperplasia)<br>- Sẹo hình sao (Radial scar)                                 |
 
-_Phân loại bệnh lý tuyến vú theo đặc điểm lâm sàng._
-
 ### Theo mô học
 
+_Bảng "Phân loại bệnh lý tuyến vú theo mô học"._
 | Loại tổn thương                                                           | Các dạng cụ thể                                                                                                                                                                                      |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Tổn thương không tăng sinh**                                            | - Nang đơn giản<br>- Nang phức tạp                                                                                                                                                                   |
 | **Tổn thương tăng sinh không có tế bào không điển hình (without atypia)** | - Tăng sinh ống tuyến vú (Ductal hyperplasia)<br>- Bướu sợi tuyến<br>- U nhú trong ống tuyến (Intraductal adenoma)<br>- Bệnh xơ nang tuyến vú (Sclerosing adenoma)<br>- Sẹo hình sao (Radical scars) |
 | **Tăng sinh không điển hình**                                             | - Tăng sinh ống tuyến không điển hình (Ductal)<br>- Tăng sinh tiểu thùy không điển hình (Lobular)                                                                                                    |
-
-_Phân loại bệnh lý tuyến vú theo mô học._
 
 ## Bướu sợi tuyến
 
@@ -50,6 +48,9 @@ Bướu sợi-tuyến (Fibroadenoma) là khối u lành tính phát triển từ
 
 #### Cận lâm sàng
 
+_Hình ảnh "(Trái, trên) Siêu âm bướu sợi-tuyến: Khối giảm âm, bờ đa cung, đồng nhất. (Trái, dưới) MRI bướu sợi-tuyến: giới hạn rõ, đồng nhất, có vùng thoái hóa. (Giữa) Nhũ ảnh MLO: khối có lớp mỡ mỏng bao quanh. (Phải) Hình ảnh đại thể bướu sợi-tuyến: vỏ bao rõ, mặt cắt phồng đồng nhất"._
+![Bướu sợi tuyến](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-soi-tuyen.png)
+
 - **Siêu âm**:
   - Khối giảm âm đồng nhất, bờ rõ, đôi khi có múi, thành trước dày, tăng âm phía sau (posterior acoustic enhancement).
   - Hình dạng: Hình tròn hoặc bầu dục, chiều dài lớn hơn chiều ngang (orientation "parallel" với da).
@@ -57,8 +58,6 @@ Bướu sợi-tuyến (Fibroadenoma) là khối u lành tính phát triển từ
   - Khối hình tròn/bầu dục, bờ sắc nét, có thùy nhẹ, không xâm lấn mô xung quanh.
   - Thường bao quanh bởi vầng sáng mỏng (halo) do mô mỡ – đặc trưng cho khối lành tính.
   - Đôi khi thấy vùng thấu quang bên trong do thoái hóa mỡ.
-    ![Bướu sợi tuyến](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-soi-tuyen.png)
-    _(Trái, trên) Siêu âm bướu sợi-tuyến: Khối giảm âm, bờ đa cung, đồng nhất. (Trái, dưới) MRI bướu sợi-tuyến: giới hạn rõ, đồng nhất, có vùng thoái hóa. (Giữa) Nhũ ảnh MLO: khối có lớp mỡ mỏng bao quanh. (Phải) Hình ảnh đại thể bướu sợi-tuyến: vỏ bao rõ, mặt cắt phồng đồng nhất.)_
 
 #### Chẩn đoán phân biệt
 
@@ -90,13 +89,14 @@ Bướu diệp thể (Phyllodes tumor) là khối u phát triển nhanh, xuất 
 
 #### Cận lâm sàng
 
+_Hình ảnh "Bướu diệp thể: Khối lớn, rõ, có các vùng hóa nang và thùy. Nhũ ảnh cho thấy vôi hóa không đồng nhất, siêu âm thể hiện khe rãnh và hóa nang"._
+![Bướu diệp thể](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-diep-the.png)
+
 - **Siêu âm**:
   - Khối giảm âm, bờ rõ, có thể có các vùng hóa nang (cystic spaces) phân bố rải rác.
   - Gợi ý phẫu thuật ngay nếu khối lớn, tăng sinh mạch máu bất thường.
 - **Nhũ ảnh**: Khối lớn, giới hạn rõ, có thể bầu dục, hình tròn hoặc chia thùy, thỉnh thoảng thấy vôi hóa (ít phổ biến hơn fibroadenoma).
 - **MRI**: Thần kinh hóa mô đệm rõ, khối đồng nhất hoặc có vùng thoái hóa, bắt thuốc mạnh – thường dùng trong khối nghi ngờ ác tính hoặc khối tái phát.
-  ![Bướu diệp thể](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-diep-the.png)
-  _Bướu diệp thể: Khối lớn, rõ, có các vùng hóa nang và thùy. Nhũ ảnh cho thấy vôi hóa không đồng nhất, siêu âm thể hiện khe rãnh và hóa nang._
 
 #### Chẩn đoán phân biệt
 
@@ -124,13 +124,14 @@ Bướu nhú (Intraductal papilloma) là khối tăng sinh dạng nhú, xuất p
 
 #### Cận lâm sàng
 
+_Hình ảnh "(Trái) Sơ đồ vị trí u nhú gây tiết dịch máu. (Phải) Chụp cản quang ống tuyến vú cho thấy hình ảnh u nhú trong ống"._
+![Bướu nhú](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-nhu.png)
+
 - **Siêu âm**:
   - Ba dạng hình ảnh: Trong ống tuyến (đường ống giãn có khối nội dịch), trong nang (khối trong khối nang), hoặc dạng đặc (khối ranh giới rõ).
   - Nếu khối quá nhỏ, chỉ thấy ống dẫn sữa giãn.
 - **Nhũ ảnh**: Thường không thấy khối rõ ngoại trừ trường hợp kích thước lớn. Nếu có, khối nhỏ, bờ rõ, có thể có vôi hóa vi thể nhẹ.
 - **Chụp cản quang ống tuyến (Ductogram/ Galactogram)**: Bơm thuốc cản quang vào ống dẫn sữa, quan sát hình ảnh lấp đầy ống bằng khối nhú.
-  ![Bướu nhú](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-nhu.png)
-  _(Trái) Sơ đồ vị trí u nhú gây tiết dịch máu. (Phải) Chụp cản quang ống tuyến vú cho thấy hình ảnh u nhú trong ống.)_
 
 ### Điều trị
 
@@ -154,14 +155,15 @@ Nang vú (Simple/Macrocystic cyst) là hình ảnh giãn dãn và thoái triển
 
 #### Cận lâm sàng
 
+_Hình ảnh "Nang vú trên siêu âm: (Trái) nang điển hình: phản âm trống, bóng lưng rõ; (Phải) nang không điển hình: vách dày, cặn lắng"._
+![Nang vú](./_images/benh-ly-tuyen-vu-lanh-tinh/nang-vu.png)
+
 - **Siêu âm**:
   - **Nang điển hình**: Khối dạng tròn/bầu dục, bờ mỏng, phản âm trống (anechoic), bóng lưng (posterior acoustic enhancement), không có thành dày hay chồi nội dịch.
   - **Nang không điển hình** (complicated cyst): Có vách dày, cặn lắng bờ dưới, không hoàn toàn bóng lưng. Cần chọc hút hoặc theo dõi chặt.
 - **Nhũ ảnh**:
   - Nang xuất hiện dưới dạng vùng đậm độ thấp (hypodense), giới hạn rõ, không vôi hóa.
   - Đôi khi không phân biệt rõ nang đặc – đặc biệt nang nhỏ < 5 mm.
-    ![Nang vú](./_images/benh-ly-tuyen-vu-lanh-tinh/nang-vu.png)
-    _Nang vú trên siêu âm: (Trái) nang điển hình: phản âm trống, bóng lưng rõ; (Phải) nang không điển hình: vách dày, cặn lắng.)_
 
 ### Điều trị
 
@@ -185,14 +187,15 @@ Hamartoma là khối tổ chức lành tính, gồm các thành phần bình th�
 
 #### Cận lâm sàng
 
+_Hình ảnh "Nhũ ảnh Hamartoma vú: Hình ảnh "vú trong vú", vỏ bao mỏng bao quanh tổ hợp mô thấu quang – cản quang"._
+![Nhũ ảnh của Hamartoma vú, phim LMO vú phải và phim CC](./_images/benh-ly-tuyen-vu-lanh-tinh/benh-hamartoma.png)
+
 - **Siêu âm**:
   - Khối đồng nhất, hỗn hợp âm (mixed echogenicity) do thành phần mỡ và mô đặc xen kẽ.
   - Bờ rõ, đôi khi có vòng sáng mỏng (halo) do mô mỡ tràn xung quanh.
 - **Nhũ ảnh**:
   - Hình ảnh "vú trong vú" (breast within breast): Khối tròn/bầu dục, biên rõ, có vùng mỡ thấu quang xen lẫn vùng cản quang (tổ hợp mô đặc – mỡ).
   - Có vỏ bao mỏng, phân biệt rõ với mô xung quanh.
-    ![Nhũ ảnh của Hamartoma vú, phim LMO vú phải và phim CC](./_images/benh-ly-tuyen-vu-lanh-tinh/benh-hamartoma.png)
-    _Nhũ ảnh Hamartoma vú: Hình ảnh "vú trong vú", vỏ bao mỏng bao quanh tổ hợp mô thấu quang – cản quang.)_
 
 #### Chẩn đoán phân biệt
 
@@ -205,9 +208,10 @@ Hamartoma là khối tổ chức lành tính, gồm các thành phần bình th�
 - Hamartoma lành tính, không triệu chứng: Theo dõi định kỳ, không cần điều trị.
 - Nếu khối to, gây lo ngại thẩm mỹ hoặc biểu hiện tăng nhanh: Phẫu thuật cắt bỏ trọn khối cùng vỏ bao.
 - Lưu ý: đa hamartoma có thể là thành phần hội chứng Cowden hoặc Bannayan-Riley-Ruvalcaba (đột biến gene PTEN) – cần tầm soát thêm khi nghi ngờ hội chứng.
-  :::caution
-  Đa hamartoma (xuất hiện nhiều khối ở nhiều vị trí khác cơ quan) là dấu hiệu gợi ý hội chứng Cowden hoặc Bannayan-Riley-Ruvalcaba (đột biến gene PTEN). Đối tượng này cần tầm soát ung thư vú, giáp và mô lympho khác theo hướng dẫn nguy cơ cao.
-  :::
+
+:::caution
+Đa hamartoma (xuất hiện nhiều khối ở nhiều vị trí khác cơ quan) là dấu hiệu gợi ý hội chứng Cowden hoặc Bannayan-Riley-Ruvalcaba (đột biến gene PTEN). Đối tượng này cần tầm soát ung thư vú, giáp và mô lympho khác theo hướng dẫn nguy cơ cao.
+:::
 
 ## Bệnh Mondor
 
@@ -270,11 +274,12 @@ U mỡ (Lipoma) là khối u lành tính thường gặp nhất ở mô mỡ, ba
 
 ### Chẩn đoán
 
+_Hình ảnh "(Trái) Tuyến vú phụ ở nách; (Phải) Sơ đồ đường sữa dọc ngực"._
+![Tuyến vú phụ](./_images/benh-ly-tuyen-vu-lanh-tinh/tuyen-vu-phu.png)
+
 - Tần suất khoảng 1–5% trong dân số, nữ > nam (một số nghiên cứu ghi nhận tỉ lệ gần nhau).
 - Vị trí phổ biến: Vùng nách (most common), dưới vú chính, dọc đường sữa.
 - Thường không triệu chứng, chỉ thẩm mỹ; mô vú phụ vẫn có thể bị bệnh lý giống vú chính (u, viêm, nhiễm trùng).
-  ![Tuyến vú phụ](./_images/benh-ly-tuyen-vu-lanh-tinh/tuyen-vu-phu.png)
-  _(Trái) Tuyến vú phụ ở nách; (Phải) Sơ đồ đường sữa dọc ngực.)_
 
 ### Điều trị
 
@@ -294,14 +299,14 @@ Bệnh vú thay đổi sợi bọc (Fibrocystic changes) là nhóm tổn thươn
   - Tiết dịch núm vú (hiếm), thường là dịch trong suốt lệch pha.
 - Phân loại theo mô bệnh học:
   1. **Sclerosing adenosis (xơ hóa tuyến)**:
-  - Tăng sinh acini và mô đệm xơ hóa, đôi khi làm tổn thương giống u đặc (mass) trên hình ảnh.
-  - Đôi khi kèm vi xâm (microinvasion) không rõ, cần sinh thiết để loại trừ carcinoma in situ.
+    - Tăng sinh acini và mô đệm xơ hóa, đôi khi làm tổn thương giống u đặc (mass) trên hình ảnh.
+    - Đôi khi kèm vi xâm (microinvasion) không rõ, cần sinh thiết để loại trừ carcinoma in situ.
   2. **Complex sclerosing lesion / Radial scar (sẹo hình sao)**:
-  - Kết cấu gồm mô xơ hình sao, xoay quanh một vùng trung tâm có nang hoặc acini giãn.
-  - Trên nhũ ảnh có thể tạo bóng xơ (spiculated mass) giả u ác tính, cần sinh thiết để phân biệt.
+    - Kết cấu gồm mô xơ hình sao, xoay quanh một vùng trung tâm có nang hoặc acini giãn.
+    - Trên nhũ ảnh có thể tạo bóng xơ (spiculated mass) giả u ác tính, cần sinh thiết để phân biệt.
   3. **Fibrocystic changes tổng quát**:
-  - Nang đa, xơ hóa mô đệm, tăng sản biểu mô không điển hình (atypical hyperplasia).
-  - Thay đổi thường phân bố rải rác khắp vú, không thành khối lớn.
+    - Nang đa, xơ hóa mô đệm, tăng sản biểu mô không điển hình (atypical hyperplasia).
+    - Thay đổi thường phân bố rải rác khắp vú, không thành khối lớn.
 
 #### Cận lâm sàng
 

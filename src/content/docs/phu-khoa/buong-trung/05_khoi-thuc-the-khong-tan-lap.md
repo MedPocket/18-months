@@ -17,22 +17,22 @@ Các khối thực thể không tân lập tại phần phụ là tất cả cá
 
 - Là "giả nang" không vỏ, phát triển trên bề mặt buồng trứng, bao gồm biểu mô nội mạc tử cung và mô đệm tùy hành.
 - Trong chu kỳ, lớp nội mạc bên trong nang cũng hành kinh—máu bị giữ lại, cô đặc thành dịch nâu "chocolate" giàu hemosiderin.
-- Giả thuyết cấy ghép: Máu kinh trào ngược qua vòi Fallope, "gieo" tế bào nội mạc lên buồng trứng. Tế bào nguyên thủy (progenitor) phát triển khi đáp ứng miễn dịch cho phép. Đột biến HMGA1/HMGA2 liên quan.
-- Cơ chế viêm: Arachidonic acid → COX-2 → prostaglandin PGE₂ → kích hoạt aromatase/STAR → tăng estrogen, duy trì mô lạc vị.
+- Giả thuyết cấy ghép: Máu kinh trào ngược qua vòi Fallope, "gieo" tế bào nội mạc lên buồng trứng. Tế bào nguyên thủy (progenitor) phát triển khi đáp ứng miễn dịch cho phép. Đột biến HMGA1/HMGA2 liên quan.<br>
+  _Hình ảnh "Thuyết cấy ghép, quá trình viêm và cường estrogen"._
   ![Thuyết cấy ghép, quá trình viêm và cường estrogen](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/thuyet-cay-ghep-qua-trinh-viem-va-cuong-estrogen.png)
-  _Thuyết cấy ghép, quá trình viêm và cường estrogen._
+- Cơ chế viêm: Arachidonic acid → COX-2 → prostaglandin PGE₂ → kích hoạt aromatase/STAR → tăng estrogen, duy trì mô lạc vị.
 
 ### Phân loại
 
+_Hình ảnh "Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)"._
 ![Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/AFS-ASRM.png)
-_Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)._
 
 ### Cận lâm sàng
 
 - **Siêu âm thang xám**: Nang đơn/multiple phản âm kém đều, giới hạn rõ, không chồi/vách, không tăng dòng mạch. IOTA M-rules âm tính.
-- Siêu âm đủ để chẩn đoán; MRI chỉ khi nghi ngờ lạc nội mạc sâu hay đau dữ dội.
+- Siêu âm đủ để chẩn đoán; MRI chỉ khi nghi ngờ lạc nội mạc sâu hay đau dữ dội.<br>
+  _Hình ảnh "Nang lạc tuyến nội mạc tử cung ở buồng trứng"._
   ![Nang lạc tuyến nội mạc tử cung ở buồng trứng](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/nang-lac-tuyen-noi-mac-tu-cung-tren-sieu-am.png)
-  _Nang lạc tuyến nội mạc tử cung ở buồng trứng._
 - **CA125**: Thường tăng cao nhưng không đặc hiệu (tăng ở cả endometrioma và u biểu mô dạng nội mạc tử cung).
 
 ### Quản lý
@@ -52,16 +52,16 @@ _Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM).
    - Nang endometrioma không ảnh hưởng trực tiếp đến chất lượng noãn hay kết quả IVF.
    - Phẫu thuật chỉ để **đánh giá giai đoạn** (AFS-ASRM), giúp lên kế hoạch điều trị hiếm muộn.
    - Nếu bóc nang, chắc chắn xảy ra:
-     1. Tái phát (đúng).
-     2. Giảm dự trữ buồng trứng (đúng).
-     3. Hiệu quả trên kết quả hiếm muộn không chắc chắn.
+     - Tái phát (đúng).
+     - Giảm dự trữ buồng trứng (đúng).
+     - Hiệu quả trên kết quả hiếm muộn không chắc chắn.
 
 ## Ứ dịch vòi Fallope
 
 - Các tình trạng ưu tiên ngoại khoa: ứ dịch vòi, áp-xe vòi-buồng trứng không đáp ứng kháng sinh, lao vòi trứng.
-- **Siêu âm**: ứ dịch vòi hình ảnh dãn, chứa dịch – thường hai bên.
+- **Siêu âm**: ứ dịch vòi hình ảnh dãn, chứa dịch – thường hai bên.<br>
+  _Hình ảnh "Vòi Fallope ứ dịch trên siêu âm"._
   ![Vòi Fallope ứ dịch trên siêu âm](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/u-dich-voi-fallope-tren-sieu-am.png)
-  _Vòi Fallope ứ dịch trên siêu âm._
 - **Bệnh học**: Viêm mạn tính khiến vòi xơ hóa, bít tắc, dễ tạo ổ viêm thứ phát đa vi khuẩn (kể cả kỵ khí). Nội độc tố, cytokine, gốc tự do từ ổ viêm lan vào buồng tử cung. Môi trường dịch vòi nghèo dinh dưỡng, đặc biệt ít glucose.
 - Ứ dịch vòi sau _Chlamydia_ có thể giảm hiệu quả làm tổ trong IVF. **Cắt bỏ vòi ứ dịch** trước IVF cải thiện tỉ lệ làm tổ. Dịch vòi tổn thương chứa độc tố, ảnh hưởng sản xuất cytokine (IL-1, LIF, CSF-1, integrin αvβ3) làm tổ.
 - Nếu không thể cắt toàn bộ vòi do dính chặt, có thể **đứt vòi** gần buồng tử cung (salpingostomy), hiệu quả tương tự cắt vòi, nhưng ổ dịch tái ứ còn tồn tại, nguy cơ viêm lâu dài.

@@ -23,7 +23,8 @@ Theo FIGO 2018, có ≥ 1 tiêu chí sau (không bao gồm PSTT/ETT):
 2. β-hCG tăng (> 10%) qua 3 lần đo liên tiếp trong ≥ 2 tuần (ngày 1, 7, 14).
 3. Có giải phẫu bệnh xác định choriocarcinoma.
 4. β-hCG tồn tại sau 6 tháng theo dõi.
-   :::
+
+:::
 
 ## Các giai đoạn
 
@@ -36,6 +37,7 @@ Theo FIGO 2018, có ≥ 1 tiêu chí sau (không bao gồm PSTT/ETT):
 
 ## Tiên lượng
 
+_Bảng "Điểm tiên lượng FIGO/WHO 2018"_
 | Thang điểm FIGO (WHO)                    | 0          | 1          | 2             | 4          |
 | ---------------------------------------- | ---------- | ---------- | ------------- | ---------- |
 | **Tuổi**                                 | < 40       | ≥ 40       | —             | —          |
@@ -47,19 +49,24 @@ Theo FIGO 2018, có ≥ 1 tiêu chí sau (không bao gồm PSTT/ETT):
 | **Số điểm di căn**                       | —          | 1 – 4      | 5 – 8         | > 8        |
 | **Hóa trị thất bại trước đó**            | —          | —          | Đơn hóa trị   | Đa hóa trị |
 
-_Bảng điểm tiên lượng FIGO/WHO 2018_
-
 ## Đánh giá di căn
 
+_Bảng "Phân loại NIH (Mỹ)"._
 | Phân loại                   | Tiêu chuẩn chẩn đoán                                                                                                                                                                                                                                                           |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Không di căn**            | Không có bất cứ bằng chứng nào của di căn                                                                                                                                                                                                                                      |
 | **Di căn - Tiên lượng tốt** | Không có bất kỳ yếu tố nguy cơ nào sau:<br>- Thời gian từ có thai trước đến phát hiện bệnh < 4 tháng<br>- Beta hCG trước điều trị < 40000 UI/ml<br>- Thai kỳ trước không phải thai đủ tháng<br>- Chưa từng hóa trị trước<br>- Không có di căn não hay gan (có thể di căn phổi) |
 | **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên                                                                                                                                                                                                                                          |
-
-_Phân loại NIH (Mỹ)_
-
 ## Điều trị
+
+_Hình ảnh "Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ"._
+![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
+
+_Hình ảnh "Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi – Bệnh viện Từ Dũ"._
+![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
+
+_Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ"._
+![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
 
 ### Nguyên tắc
 
@@ -104,11 +111,9 @@ _Phân loại NIH (Mỹ)_
       - Oncovin (Vincristin) 1 mg/m² da tĩnh mạch, tối đa 2mg.
       - Cyclophosphamid 600 mg/m² da truyền TM trong 30 phút.
   - Lặp lại thêm 3–4 chu kỳ sau khi β-hCG âm tính.
-    :::caution
-    Tiêu chuẩn để hóa trị:
-  - Ngày 1 và 2: Bạch cầu ≥ 3000/mm³, bạch cầu đa nhân trung tính ≥ 1500/mm³.
-  - Ngày 8: Bạch cầu ≥ 2000/mm³, bạch cầu đa nhân trung tính ≥ 1000/mm³.
-    :::
+  - **Tiêu chuẩn để hóa trị**:
+    - Ngày 1 và 2: Bạch cầu ≥ 3000/mm³, bạch cầu đa nhân trung tính ≥ 1500/mm³.
+    - Ngày 8: Bạch cầu ≥ 2000/mm³, bạch cầu đa nhân trung tính ≥ 1000/mm³.
 - **Nếu kháng EMA-CO** chuyển sang EP-EMA, BEP hoặc TP/TE:
   - Sử dụng phác đồ EMA-EP hoặc EP-EMA: Ngày điều trị CO được thay bằng EP:
     - Cisplatin 70-80 mg pha 1L truyền TM hơn 12 giờ.
@@ -185,19 +190,13 @@ _Phân loại NIH (Mỹ)_
 ### Cấp cứu ban đầu
 
 - Etoposide 100 mg/m² truyền TM trong 1 giờ + Cisplatin 20 mg/m² truyền TM trong 2 giờ mỗi ngày × 3 ngày, lặp lại hàng tuần cho tới ổn định.
-  ![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
-  _Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ._
-  ![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
-  _Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi – Bệnh viện Từ Dũ._
-  ![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
-  _Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ._
 
 ### Theo dõi sau điều trị
 
 - **β-hCG** hàng tuần đến âm tính 3 lần liên tiếp, sau đó hàng tháng 6–12 tháng tùy nhóm.
-- **Khám lâm sàng, siêu âm, X-quang ngực, cận lâm sàng** khi β-hCG bất thường hoặc có triệu chứng lâm sàng.
+- **Khám lâm sàng, siêu âm, X-quang ngực, cận lâm sàng** khi β-hCG bất thường hoặc có triệu chứng lâm sàng.<br>
+  _Hình ảnh "Di căn phổi bóng bay trên X-quang"._
   ![Di căn phổi](./_images/choriocarcinoma-di-can-phoi-hinh-anh-tha-bong.png)
-  _Di căn phổi: Hình ảnh bóng bay trên X-quang._
 - **Thời gian theo dõi tối thiểu**: 5 năm.
 - **Thai kì trở lại**: ít nhất 2 năm sau khỏi; siêu âm + β-hCG sớm khi có thai.
 - Xét nghiệm huyết đồ, chức năng gan, thận, điện giải... phát hiện nhiễm độc hóa chất.

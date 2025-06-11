@@ -9,12 +9,15 @@ Bệnh nguyên bào nuôi thai kỳ (GTD) là nhóm bệnh có sự tăng sinh b
 
 ### Thai trứng (Hydatidiform mole)
 
-- **Thai trứng toàn phần (Complete mole)**
-  - NST thường là 46,XX toàn bố (đơn bố) hoặc 46,XY (hiếm).
-  - Không có mô phôi phôi thai; hình ảnh siêu âm "mây tuyết", tăng sản gai rau lan toả.
-- **Thai trứng bán phần (Partial mole)**
-  - Thường tam bội 69,XXY/69,XXX/69,XYY.
-  - Có mô phôi hoặc túi phôi nhỏ, gai rau phồng nước không đồng nhất.
+**Thai trứng toàn phần (Complete mole)**
+
+- NST thường là 46,XX toàn bố (đơn bố) hoặc 46,XY (hiếm).
+- Không có mô phôi phôi thai; hình ảnh siêu âm "mây tuyết", tăng sản gai rau lan toả.
+
+**Thai trứng bán phần (Partial mole)**
+
+- Thường tam bội 69,XXY/69,XXX/69,XYY.
+- Có mô phôi hoặc túi phôi nhỏ, gai rau phồng nước không đồng nhất.
 
 ### U nguyên bào nuôi (Gestational Trophoblastic Neoplasia – GTN)
 

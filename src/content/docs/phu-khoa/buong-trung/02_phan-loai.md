@@ -25,9 +25,10 @@ Các nang cơ năng của buồng trứng hình thành do hoạt động chức 
 
 ### Nang hoàng thể
 
-- Khi đường kính hoàng thể vượt quá 3 cm, nó được nhận dạng như là loại nang chứ không còn là hoàng thể đơn thuần.
-  1. Nang hoàng thể tồn lưu là nang hoàng thể phì đại nhẹ, có thể vẫn tiếp tục sản xuất progesterone dài ngày hơn so với thông thường, kỳ kinh nguyệt bị trì hoàn từ vài ngày đến vài tuần, thông thường là trong vòng 2 tuần so với chu kỳ đã lỡ.
-  2. Nang hoàng thể xuất huyết là nang hoàng thể to nhanh do xuất huyết trong nang vào giai đoạn hoàng thể của chu kỳ kinh nguyệt, có thể diễn tiến tới vỡ muộn trong giai đoạn hoàng thể.
+Khi đường kính hoàng thể vượt quá 3 cm, nó được nhận dạng như là loại nang chứ không còn là hoàng thể đơn thuần:
+
+1. Nang hoàng thể tồn lưu là nang hoàng thể phì đại nhẹ, có thể vẫn tiếp tục sản xuất progesterone dài ngày hơn so với thông thường, kỳ kinh nguyệt bị trì hoàn từ vài ngày đến vài tuần, thông thường là trong vòng 2 tuần so với chu kỳ đã lỡ.
+2. Nang hoàng thể xuất huyết là nang hoàng thể to nhanh do xuất huyết trong nang vào giai đoạn hoàng thể của chu kỳ kinh nguyệt, có thể diễn tiến tới vỡ muộn trong giai đoạn hoàng thể.
 
 ### Nang hoàng tuyến
 
@@ -106,11 +107,12 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
 
 #### U xuất phát từ tế bào mầm
 
+_Hình ảnh "Sơ đồ cổ điển và giản lược về các khối u tế bào mầm"._
+![Sơ đồ cổ điển và giản lược về các khối u tế bào mầm](./_images/u-buong-trung-theo-who/so-do-co-dien-va-gian-luoc-u-te-bao-mam.png)
+
 - Khối u từ tế bào nguồn dòng sinh dục đã trải qua một phần giảm phân I:
   1. Thoái giáng trực tiếp từ 2n kép → 2n (ung thư nghịch mầm, ác tính cao).
   2. Qua phân bào I giảm nhiễm → tế bào n kép → thoái giáng thành u (ung thư nghịch phôi, đa số lành tính).
-     ![Sơ đồ cổ điển và giản lược về các khối u tế bào mầm](./_images/u-buong-trung-theo-who/so-do-co-dien-va-gian-luoc-u-te-bao-mam.png)
-     _Sơ đồ cổ điển và giản lược về các khối u tế bào mầm._
 - **U nghịch phôi theo hướng cấu trúc phôi**:
   - Từ tế bào đã qua giảm phân I, thoái giáng trực tiếp từ n kép → 2n, không qua giảm phân II.
   - U chứa thành phần của 3 lá phôi, tiềm năng ác tính thấp.

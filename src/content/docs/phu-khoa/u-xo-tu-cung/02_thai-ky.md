@@ -45,14 +45,14 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 
 ## U xơ tử cung và hiếm muộn
 
-- **Chỉ định can thiệp**:
+- **Chỉ định can thiệp**:<br>
+  _Bảng "Phẫu thuật u xơ tử cung"._ 
   | Vị trí u xơ (FIGO) | Kích thước | Khuyến nghị can thiệp trước ART |
   | --------------------------------- | ---------- | ------------------------------------------------------------------- |
   | **L0–L2 (dưới niêm mạc)** | > 3 cm | Nội soi buồng tử cung bóc u xơ trước ART |
   | **L0–L2** | ≤ 3 cm | Có thể chuyển ART ngay nếu không biến dạng |
   | **L3–L5 (trong cơ)** | — | Nếu sảy thai liên tiếp hoặc thất bại chu kỳ ICSI: Cân nhắc bóc u xơ |
   | **L6 (kẹt giữa cơ và thanh mạc)** | — | Ít ảnh hưởng → ưu tiên ART trước nếu tuổi > 35 |
-  _Phẫu thuật u xơ._
   :::caution
   Trước can thiệp, bệnh nhân phải được tư vấn về nguy cơ dính tử cung, sức bền vết mổ và theo dõi dự trữ buồng trứng.
   :::

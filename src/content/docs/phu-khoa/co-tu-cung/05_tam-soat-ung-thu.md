@@ -7,6 +7,7 @@ Ung thư cổ tử cung đứng thứ tư trong các loại ung thư ở phụ n
 
 ## Tầm soát
 
+_Bảng "Chiến lược tầm soát ung thư cổ tử cung"._
 | Dân số                       | Phương pháp tầm soát                                                  | Ghi chú                                                                                                                                          |
 | ---------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **< 21 tuổi**                | Không tầm soát (A)                                                    | Bất kể tuổi khởi đầu hoạt động tình dục hoặc có hành vi nguy cơ.                                                                                 |
@@ -16,8 +17,7 @@ Ung thư cổ tử cung đứng thứ tư trong các loại ung thư ở phụ n
 | **Đã cắt tử cung toàn phần** | Không tầm soát (A)                                                    | Áp dụng cho phụ nữ không còn cổ tử cung và không có tiền căn CIN2, CIN3, ung thư tuyến tại chỗ hay ung thư cổ tử cung trong 20 năm gần nhất (A). |
 | **Đã tiêm ngừa HPV**         | Tầm soát như người không tiêm ngừa (C)                                |                                                                                                                                                  |
 
-Phụ nữ có tiền căn ung thư cổ tử cung, nhiễm HIV hoặc suy giảm miễn dịch không áp dụng hướng dẫn tầm soát thông thường (A).
-_Chiến lược tầm soát ung thư cổ tử cung._
+_Phụ nữ có tiền căn ung thư cổ tử cung, nhiễm HIV hoặc suy giảm miễn dịch không áp dụng hướng dẫn tầm soát thông thường (A)._
 _\* Các khuyến cáo dựa theo: American Cancer Society (ACS), ASCCP, và ASCP. A: khuyến cáo mạnh, chứng cứ rõ ràng. B: khuyến cáo trung bình. C: theo kinh nghiệm._  
 _\*\* Ưu tiên._  
 _\*\*\* Chấp nhận được nhưng không phải lựa chọn tối ưu._  
