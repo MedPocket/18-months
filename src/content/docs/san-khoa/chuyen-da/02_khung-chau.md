@@ -11,6 +11,9 @@ Khung chậu được cấu tạo bởi 4 xương: Phía trước và 2 bên là
 
 Tiểu khung là phần quan trọng nhất vì ngôi thai phải vượt qua tiểu khung để đi ra ngoài qua ngã âm đạo. Trên đoạn đường đi từ trong ra ngoài này, thai nhi phải lần lượt vượt qua các vòng eo hẹp – có thể được cấu tạo bằng xương hoặc xương kết hợp với cân-cơ – đó là: **eo trên**, **eo giữa** và **eo dưới**.
 
+_Hình ảnh "Tiểu khung trên thiết đồ đứng dọc"._
+![Tiểu khung trên thiết đồ đứng dọc](./_images/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
+
 Khi nhìn ngang, lòng tiểu khung có dạng ống cong về phía trước với 2 thành không đều nhau:
 
 - Thành trước ngắn, khoảng 4cm, tương ứng với mặt sau khớp vệ.
@@ -30,9 +33,7 @@ Eo trên là mặt phẳng xương đầu tiên mà ngôi thai phải vượt qu
 - Hai bên: Đường vô danh của 2 xương cánh chậu.
 - Trước: Mặt sau của khớp vệ.
 
-Eo trên là vòng xương cứng, không thay đổi trong chuyển dạ. Kích thước của eo trên được thể hiện qua các **đường kính**:<br>
-_Hình ảnh "Các đường kính eo trên"._
-![Các đường kính eo trên](./_images/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
+Eo trên là vòng xương cứng, không thay đổi trong chuyển dạ. Kích thước của eo trên được thể hiện qua các **đường kính**:
 
 - **Đường kính trước-sau**:
   - **Mỏm nhô – thượng vệ**: 11 cm.
@@ -43,7 +44,9 @@ _Hình ảnh "Các đường kính eo trên"._
   - Trị số bình thường: 12.75 cm.
 - **Đường kính ngang**:
   - **Ngang tối đa**: 13.5 cm – không có giá trị sản khoa vì nằm gần mỏm nhô.
-  - **Ngang hữu dụng**: 12.5 cm – là đường kính ngang đi qua trung điểm của đường kính trước-sau. Dù quan trọng, nhưng **không thể đo được lâm sàng**.
+  - **Ngang hữu dụng**: 12.5 cm – là đường kính ngang đi qua trung điểm của đường kính trước-sau. Dù quan trọng, nhưng **không thể đo được lâm sàng**.<br>
+    _Hình ảnh "Các đường kính eo trên"._
+    ![Các đường kính eo trên](./_images/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
 
 ### Eo giữa
 
@@ -55,9 +58,6 @@ Eo giữa là đoạn hẹp nhất về mặt giải phẫu của đường sinh
 - Phần còn lại là cơ và mạc.
 
 Hõm xương cùng tạo thành một **khúc cong**, giống như "khúc cua cùi chỏ", đòi hỏi ngôi thai phải xoay để vượt qua.
-
-_Hình ảnh "Tiểu khung trên thiết đồ đứng dọc"._
-![Tiểu khung trên thiết đồ đứng dọc](./_images/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
 
 **Các đường kính chính**:
 

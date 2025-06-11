@@ -28,8 +28,8 @@ Sau sổ thai, cần theo dõi sinh hiệu và lượng máu mất, **không** x
 
 ### Kỹ thuật
 
+_Hình ảnh "Kỹ thuật bóc rau nhân tạo"._
 ![Kỹ thuật bóc rau nhân tạo](./_images/boc-rau-nhan-tao-kiem-tra-sinh-duc/ky-thuat-boc-rau-nhan-tao.png)
-_Kỹ thuật bóc rau nhân tạo._
 
 1. Ấn giữ đáy tử cung qua thành bụng bằng 1 tay.
 2. Tay kia (đeo găng) lần theo dây rốn vào buồng tử cung, tìm mép bánh rau.
@@ -112,7 +112,8 @@ Tương tự kiểm tra cổ tử cung.
 1. Khám toàn bộ thành âm đạo bằng ngón tay: Tìm rách niêm mạc, cơ.
 2. Mở valve, kiểm tra đáy chậu, tầng sinh môn.
 3. Thăm trực tràng: đánh giá cơ vòng hậu môn.
-   **Phân độ rách tầng sinh môn**
+
+**Phân độ rách tầng sinh môn**
 
 - **Độ I**: Niêm mạc + da.
 - **Độ II**: + cơ tầng sinh môn.

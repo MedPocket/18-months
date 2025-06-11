@@ -7,8 +7,8 @@ Mục tiêu chính của hồi sức sơ sinh là giúp trẻ thiết lập **tu
 
 ## Từ tuần hoàn bào thai sang sơ sinh
 
+_Hình ảnh "Tuần hoàn bào thai (trái) với shunt qua lỗ Botal & ống động mạch – Phổi không trao đổi khí. Tuần hoàn sơ sinh (phải) – Phổi mở, shunt đóng"._
 ![Tuần hoàn bào thai và sơ sinh](./_images/hoi-suc-so-sinh/tuan-hoan-bao-thai-va-tuan-hoan-so-sinh.jpeg)
-_Tuần hoàn bào thai (trái) với shunt qua lỗ Botal & ống động mạch – Phổi không trao đổi khí. Tuần hoàn sơ sinh (phải) – Phổi mở, shunt đóng._
 
 - **Bào thai**: Trao đổi khí qua rau, phổi không vận hành, trở kháng mạch phổi cao → máu qua shunt tim-phổi.
 - **Sơ sinh**: Hít vào đầu tiên → phổi nở, giảm kháng trở mạch phổi. Cắt rốn → tăng kháng trở ngoại vi → dòng máu qua phổi để trao đổi khí.
@@ -16,6 +16,8 @@ _Tuần hoàn bào thai (trái) với shunt qua lỗ Botal & ống động mạc
 ## Đánh giá ban đầu (APGAR)
 
 Thực hiện tại **1, 5** và khi cần **10 phút** sau sinh theo 5 tiêu chí: Nhịp tim, hô hấp, trương lực cơ, phản xạ (co kéo khi kích thích), màu da.
+
+_Bảng "Điểm APGAR"._
 | Dấu hiệu đánh giá | 0 điểm | 1 điểm | 2 điểm |
 | ----------------- | ----------------- | ----------------------- | ------------------------- |
 | **Nhịp tim** | < 80 lần/phút | 80-100 lần/phút | > 100 lần/phút |
@@ -23,7 +25,6 @@ Thực hiện tại **1, 5** và khi cần **10 phút** sau sinh theo 5 tiêu ch
 | **Trương lực cơ** | Mềm nhũn | Vận động yếu | Vận động tốt |
 | **Phản xạ** | Không có | Phản ứng yếu, nhăn mặt | Phản ứng tốt, cử động tốt |
 | **Màu da** | Toàn thân tím tái | Thân hồng, tay chân tím | Toàn thân hồng hào |
-_Bảng điểm APGAR._
 
 - **0–3**: Ngạt nặng, cần hồi sức cấp cứu.
 - **4–7**: Ngạt nhẹ–vừa, hỗ trợ hô hấp.
@@ -41,8 +42,8 @@ Khoảng 10% trẻ sơ sinh cần hỗ trợ, chỉ 1% cần hồi sức tích c
 
 ## Quy trình
 
+_Hình ảnh "Lưu đồ hồi sức sơ sinh"._
 ![Lưu đồ hồi sức sơ sinh](./_images/hoi-suc-so-sinh/luu-do-hoi-suc-so-sinh.jpeg)
-_Lưu đồ hồi sức sơ sinh._
 
 1. **Giảm thất thoát nhiệt**
    - Lau khô, đặt dưới đèn sưởi.
@@ -63,13 +64,15 @@ _Lưu đồ hồi sức sơ sinh._
 
 ## Theo dõi
 
+_Hình ảnh "3 mức độ chăm sóc sau hồi sức"._
 ![3 mức độ chăm sóc sau hồi sức](./_images/hoi-suc-so-sinh/3-muc-do-cham-soc-sau-hoi-suc.jpeg)
-_3 mức độ chăm sóc sau hồi sức._
 
 - **Chăm sóc hồi sức**: Trẻ cần PPV/ấn ngực/thuốc.
 - **Chăm sóc cấp cứu**: Theo dõi sát 24–48 giờ, kiểm soát đường huyết, thân nhiệt, điện giải.
 - **Chăm sóc thường quy**: ổn định hô hấp, dinh dưỡng, cho bú sớm.
-  **Cảnh báo**:
+
+**Cảnh báo**:
+
 - Giảm đường huyết, hạ thân nhiệt.
 - Phù não, co giật do hạ Ca²⁺.
 - Nhiễm trùng bội nhiễm.
@@ -81,7 +84,9 @@ _3 mức độ chăm sóc sau hồi sức._
 - Trẻ khỏe bỗng ngừng thở, tím tái, nhịp tim giảm.
 - Khám thấy lồng ngực phồng, bụng xẹp.
 - Tim nghe rõ lệch phải.
-  **Xử trí**:
+
+**Xử trí**:
+
 - **Không** thông khí mặt nạ.
 - Đặt nội khí quản, kèm sonde dạ dày.
 - Nằm đầu cao, nghiêng về bên thoát vị.

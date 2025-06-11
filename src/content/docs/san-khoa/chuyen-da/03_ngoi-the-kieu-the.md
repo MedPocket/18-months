@@ -16,12 +16,13 @@ description: Ngôi, thế, kiểu thế khi sinh.
 
 ### Phân loại ngôi đầu
 
+_Hìh ảnh "Phân loại ngôi đầu"._
+![Phân loại ngôi đầu](./_images/ngoi-the-kieu-the/ngoi-dau.png)
+
 - **Ngôi chỏm**: Đầu cúi tối đa, cằm áp sát ngực.
 - **Ngôi thóp trước**: Đầu ở tư thế trung gian, thóp trước trình diện.
 - **Ngôi trán**: Đầu ngửa trung gian, trán là phần trình diện.
 - **Ngôi mặt**: Đầu ngửa tối đa, gáy chạm lưng, cằm là phần trình diện.
-  ![Ngôi đầu](./_images/ngoi-the-kieu-the/ngoi-dau.png)
-  _Ngôi đầu._
 
 ### Mốc của ngôi
 
@@ -47,7 +48,8 @@ Mỗi ngôi có **mốc giải phẫu** đặc trưng giúp nhận biết:
 1. Gai mào chậu lược.
 2. Khớp cùng-chậu.
 3. Trung điểm của gờ vô danh.
-   Từ đó, mỗi ngôi có 6 **kiểu thế**:
+
+Từ đó, mỗi ngôi có 6 **kiểu thế**:
 
 - **Trái trước**.
 - **Trái ngang**.
@@ -55,7 +57,8 @@ Mỗi ngôi có **mốc giải phẫu** đặc trưng giúp nhận biết:
 - **Phải trước**.
 - **Phải ngang**.
 - **Phải sau**.
-  Riêng ngôi ngang cần xác định thêm vai thai nhi ở bên nào (trái/phải mẹ) và **lưng thai** nằm phía trước hay sau, để mô tả đầy đủ tư thế thai nhi trong tử cung.
+
+Riêng ngôi ngang cần xác định thêm vai thai nhi ở bên nào (trái/phải mẹ) và **lưng thai** nằm phía trước hay sau, để mô tả đầy đủ tư thế thai nhi trong tử cung.
 
 ## Chẩn đoán
 
@@ -71,20 +74,18 @@ Chẩn đoán dựa vào:
 
 Bốn thủ thuật Leopold giúp xác định ngôi và thế thai:
 
-1. **Thủ thuật thứ nhất**: Nắn đáy tử cung để xác định phần thai (đầu hoặc mông).  
-   → Trên hình là cực mông ở đáy tử cung.
-2. **Thủ thuật thứ hai**: Nắn hai bên bụng để xác định bên nào là **lưng** và bên nào là **chi**.  
-   → Trên hình là lưng ở bên phải, chi ở bên trái.
-3. **Thủ thuật thứ ba**: Nắn vùng trên xương vệ để xác định phần thai ở đoạn dưới tử cung (đầu hoặc mông).  
-   → Trên hình là cực đầu ở đoạn dưới tử cung.
-4. **Thủ thuật thứ tư**: Khám từ hướng chân sản phụ, dùng đầu ngón tay ấn trên xương vệ để đánh giá **mức độ lọt** của đầu thai.  
-    → Nếu đầu chưa lọt, hai bàn tay **hội tụ vào nhau**. Khi đầu đã lọt, hai bàn tay **phân kỳ ra ngoài**.
-   Trong ngôi chỏm, **ụ đầu** cùng bên với chi; trong ngôi mặt, ụ đầu ngược bên với chi.
+1. **Thủ thuật thứ nhất**: Nắn đáy tử cung để xác định phần thai (đầu hoặc mông).
+2. **Thủ thuật thứ hai**: Nắn hai bên bụng để xác định bên nào là **lưng** và bên nào là **chi**.
+3. **Thủ thuật thứ ba**: Nắn vùng trên xương vệ để xác định phần thai ở đoạn dưới tử cung (đầu hoặc mông).
+4. **Thủ thuật thứ tư**: Khám từ hướng chân sản phụ, dùng đầu ngón tay ấn trên xương vệ để đánh giá **mức độ lọt** của đầu thai → Nếu đầu chưa lọt, hai bàn tay **hội tụ vào nhau**. Khi đầu đã lọt, hai bàn tay **phân kỳ ra ngoài**.
+
+Trong ngôi chỏm, **ụ đầu** cùng bên với chi; trong ngôi mặt, ụ đầu ngược bên với chi.
 
 ### Khám âm đạo
 
+_Hình ảnh "Các kiểu thế trong ngôi chỏm"._
 ![Các kiểu thế trong ngôi chỏm](./_images/ngoi-the-kieu-the/cac-kieu-the-ngoi-chom.png)
-_Các kiểu thế trong ngôi chỏm._
+
 Khám âm đạo lúc cổ tử cung đã mở là **phương pháp chính xác nhất** để xác định ngôi – thế – kiểu thế:
 
 - Ngôi chỏm: Tìm **thóp trước**, **thóp sau**, và **các đường khớp sọ**.

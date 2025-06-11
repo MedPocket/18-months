@@ -11,11 +11,9 @@ Trong cuộc sinh ngôi chỏm, các phần lớn nhất của thai (đầu, vai
 
 1. **Lọt**: Khi phần thai đi qua eo trên.
 2. **Xuống và xoay**: Khi phần thai di chuyển từ eo trên xuống eo dưới, đồng thời xoay.
-3. **Sổ**: Khi phần thai đi qua eo dưới và ra ngoài.
-   Trên lâm sàng, các hiện tượng này diễn ra nối tiếp và có thể chồng lấp nhau. Vì vậy, cơ chế sinh cũng có thể chia thành hai giai đoạn:
+3. **Sổ**: Khi phần thai đi qua eo dưới và ra ngoài. Trên lâm sàng, các hiện tượng này diễn ra nối tiếp và có thể chồng lấp nhau. Vì vậy, cơ chế sinh cũng có thể chia thành hai giai đoạn:
 4. **Thì lọt và xuống**: Xảy ra ở vị trí cao.
-5. **Thì xoay và sổ**: Xảy ra ở vị trí thấp.
-   Trong những tuần cuối thai kỳ, do thân thai lớn hơn đầu, thân thường hướng lên phía đáy tử cung – vùng rộng hơn – còn đầu hướng xuống vùng eo – nơi hẹp hơn.
+5. **Thì xoay và sổ**: Xảy ra ở vị trí thấp. Trong những tuần cuối thai kỳ, do thân thai lớn hơn đầu, thân thường hướng lên phía đáy tử cung – vùng rộng hơn – còn đầu hướng xuống vùng eo – nơi hẹp hơn.
 
 ### Lọt
 
@@ -27,9 +25,9 @@ Ngôi được xem là đã lọt khi đường kính lọt của ngôi vượt 
   - Ngôi lọt thường ở khoảng 2/5.
 - **Khám âm đạo**: Xác định vị trí thấp nhất của xương đầu so với gai hông:
   - Chưa lọt: -1, -2, -3.
-  - Đã lọt: +1, +2, +3.
+  - Đã lọt: +1, +2, +3.<br>
+    _Hình ảnh "Độ lọt ngôi thai"._
     ![Độ lọt ngôi thai](./_images/de-thuong-ngoi-chom/do-lot-ngoi-thai.png)
-    _Độ lọt ngôi thai._
 
 ### Xuống
 
@@ -38,8 +36,9 @@ Là sự di chuyển tiếp theo của ngôi thai trong tiểu khung sau khi đ�
 ### Xoay
 
 Xoay trong giúp ngôi điều chỉnh để đường kính sổ của đầu trùng với đường kính trước - sau của eo dưới.
+
+_Hình ảnh "Xuống và xoay trong"._
 ![Xuống và xoay trong](./_images/de-thuong-ngoi-chom/xuong-va-xoay-trong.png)
-_Xuống và xoay trong._
 
 ### Sổ
 
@@ -48,27 +47,29 @@ Sổ thai xảy ra khi ngôi vượt qua eo dưới, điểm tựa chính là **
 ## Kỹ thuật đỡ đẻ
 
 Các giai đoạn **(a → d)** xảy ra theo cơ chế tự nhiên, **không được can thiệp**:
+
+_Hình ảnh "Đẻ thường ngôi chỏm a → d"._
 ![Đẻ thường ngôi chỏm a-d](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-a-d.png)
-_Đẻ thường ngôi chỏm a → d._
+
 Từ giai đoạn **(e → h)**, người đỡ sinh có thể **hỗ trợ** nếu thỏa 3 điều kiện:
 
 1. Ngôi đã xoay về chẩm vệ.
 2. Đầu đã xuống đến vị trí +3, làm căng phồng tầng sinh môn.
 3. Hai môi bé tách rộng.
 
-- **Giúp đầu cúi tối đa**: Tay phải dùng 3 ngón giữa ấn vào thượng chẩm, tay trái giữ tầng sinh môn.
+- **Giúp đầu cúi tối đa**: Tay phải dùng 3 ngón giữa ấn vào thượng chẩm, tay trái giữ tầng sinh môn.<br>
+  _Hình ảnh "Đẻ thường ngôi chỏm e → f"._
+  ![Đẻ thường ngôi chỏm e-f](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-e-f.png)
 - **Khi hạ chẩm ra khỏi bờ dưới khớp vệ**: Tay phải kiểm soát tốc độ ngửa đầu để sổ trán, nếu tầng sinh môn căng quá có thể cắt chủ động.
 - **Sổ đầu xong**: Kiểm tra dây rốn quấn cổ:
   - Quấn lỏng: Tháo.
   - Quấn chặt: Kẹp và cắt.
-    ![Đẻ thường ngôi chỏm e-f](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-e-f.png)
-    _Đẻ thường ngôi chỏm e → f._
 - **Xoay ngoài thì 1st**: đầu tự xoay về vị trí ban đầu.
 - **Xoay ngoài thì 2nd**: Vai xoay trong → đầu xoay ngoài thêm → vào đường kính trước sau.
 - **Đỡ vai trước**: Kéo đầu về phía chân người đỡ, xuống dưới để vai ra.
 - **Đỡ vai sau**: Kéo thai lên trên, vai sau sổ nhẹ nhàng, giữ tầng sinh môn.
+  _Hình ảnh "Đẻ thường ngôi chỏm g → h"._
   ![Đẻ thường ngôi chỏm g-h](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-g-h.png)
-  _Đẻ thường ngôi chỏm g → h._
 - **Sổ phần còn lại**: Tay trái đỡ cổ, tay phải vuốt dọc lưng, nắm 2 bàn chân bằng 3 ngón tay (cái, trỏ, giữa). Sau sổ, giữ đầu thai thấp hơn bàn sinh.
 - **Cắt tầng sinh môn**: Chỉ thực hiện khi thực sự cần, không phải thủ thuật thường quy. Cần thiết khi:
   - Tầng sinh môn quá căng.
@@ -76,8 +77,8 @@ Từ giai đoạn **(e → h)**, người đỡ sinh có thể **hỗ trợ** n�
     :::caution
     Cắt tầng sinh môn không rút ngắn thời gian rặn, không giúp sinh nhanh hơn.
     :::
+    _Hình ảnh "Cắt tầng sinh môn"._
     ![Cắt tầng sinh môn](./_images/de-thuong-ngoi-chom/cat-tang-sinh-mon.png)
-    _Cắt tầng sinh môn._
 
 ## Thở và rặn
 

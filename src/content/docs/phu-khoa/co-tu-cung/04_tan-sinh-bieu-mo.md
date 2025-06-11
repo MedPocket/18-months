@@ -117,7 +117,7 @@ Hiện nay, biết rằng CIN không nhất thiết phải trải qua tuần t�
 #### Đặc điểm
 
 - **HSIL**: Dị sản vừa–nặng (CIN 2–3, carcinoma in situ).
-- **CIN 2**: Tế bào bất thường lan tới 2/3 dày biểu mô, nhân chiếm 1/2 kích thước tế bào, tỷ lệ nhân:bào tương giảm.
+- **CIN 2**: Tế bào bất thường lan tới 2/3 dày biểu mô, nhân chiếm ½ kích thước tế bào, tỷ lệ nhân:bào tương giảm.
 - **CIN 3**: Tế bào bất thường thay thế toàn bộ dày biểu mô, nhân lớn so với bào tương.
 - Sau 24 tháng:
   - 35% thoái lui về bình thường.

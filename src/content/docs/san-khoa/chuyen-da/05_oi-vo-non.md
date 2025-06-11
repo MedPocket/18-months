@@ -27,18 +27,19 @@ description: Chẩn đoán, xử trí ối vỡ non.
 
 #### Test Nitrazine
 
-- Dựa trên nguyên lý: Dịch âm đạo và nước tiểu có tính acid, còn nước ối có tính kiềm. Dùng giấy thử Nitrazine nhúng vào dịch tại lưỡi mỏ vịt. Nếu có nước ối, giấy sẽ đổi màu từ **vàng sang xanh lam**.
-  :::caution
-  Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một số nhiễm trùng âm đạo.
-  :::
+Dựa trên nguyên lý: Dịch âm đạo và nước tiểu có tính acid, còn nước ối có tính kiềm. Dùng giấy thử Nitrazine nhúng vào dịch tại lưỡi mỏ vịt. Nếu có nước ối, giấy sẽ đổi màu từ **vàng sang xanh lam**.
+
+:::caution
+Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một số nhiễm trùng âm đạo.
+:::
 
 #### Test dương sỉ
 
-- Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới tác dụng của estrogen, tạo hình ảnh như **lá dương xỉ** khi quan sát dưới kính hiển vi sau khi làm khô lam kính. Dễ gặp kết quả âm tính giả.
+Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới tác dụng của estrogen, tạo hình ảnh như **lá dương xỉ** khi quan sát dưới kính hiển vi sau khi làm khô lam kính. Dễ gặp kết quả âm tính giả.
 
 #### Siêu âm
 
-- Đánh giá lượng nước ối, ngôi thai, sự phát triển thai.
+Đánh giá lượng nước ối, ngôi thai, sự phát triển thai.
 
 #### Xét nghiệm cơ bản
 
@@ -48,16 +49,16 @@ description: Chẩn đoán, xử trí ối vỡ non.
 
 ### Chẩn đoán phân biệt
 
-| Triệu chứng hiện hữu và dấu hiệu điển hình               | Triệu chứng/dấu hiệu không thường xuyên                                                   | Khả năng chẩn đoán           |
+_Bảng "Chẩn đoán ra nước âm đạo"._
+| Triệu chứng hiện hữu và dấu hiệu điển hình | Triệu chứng/dấu hiệu không thường xuyên | Khả năng chẩn đoán |
 | -------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------- |
-| Ra nước âm đạo                                           | Ra dịch đột ngột/rĩ rã, lặp đi lặp lại<br>Đặt mỏ vịt có dịch ÂĐ<br>Không cơn gò sau 1 giờ | Vỡ ối non                    |
-| Ra nước âm đạo (sau 22 tuần) <br>Sốt/ớn lạnh<br>Đau bụng | Bệnh sử ra nước ÂĐ<br>Tử cung căng<br>Nhịp tim thai nhanh<br>Ra máu âm đạo ít\*           | Nhiễm trùng ối               |
-| Tiết dịch ÂĐ hôi <br>Không có bệnh sử ra nước âm đạo     | Ngứa<br>Dịch ÂĐ có bọt/đặc <br>Đau bụng<br> Tiểu khó                                      | Viêm ÂĐ/CTC                  |
-| Xuất huyết ÂĐ                                            | Đau bụng <br> Mất cử động thai <br>Máu ÂĐ nhiều, kéo dài                                  | Xuất huyết âm đạo trước sinh |
-| Dịch âm đạo dạng nước/nhầy lẫn máu                       | Xóa mở cổ tử cung<br>Cơn gò tử cung                                                       | Chuyển dạ non/đủ tháng       |
+| Ra nước âm đạo | Ra dịch đột ngột/rĩ rã, lặp đi lặp lại<br>Đặt mỏ vịt có dịch ÂĐ<br>Không cơn gò sau 1 giờ | Vỡ ối non |
+| Ra nước âm đạo (sau 22 tuần) <br>Sốt/ớn lạnh<br>Đau bụng | Bệnh sử ra nước ÂĐ<br>Tử cung căng<br>Nhịp tim thai nhanh<br>Ra máu âm đạo ít\* | Nhiễm trùng ối |
+| Tiết dịch ÂĐ hôi <br>Không có bệnh sử ra nước âm đạo | Ngứa<br>Dịch ÂĐ có bọt/đặc <br>Đau bụng<br> Tiểu khó | Viêm ÂĐ/CTC |
+| Xuất huyết ÂĐ | Đau bụng <br> Mất cử động thai <br>Máu ÂĐ nhiều, kéo dài | Xuất huyết âm đạo trước sinh |
+| Dịch âm đạo dạng nước/nhầy lẫn máu | Xóa mở cổ tử cung<br>Cơn gò tử cung | Chuyển dạ non/đủ tháng |
 
 _\* Chảy máu nhẹ: Mất > 5 phút để máu thấm ướt băng vệ sinh._
-_Chẩn đoán ra nước âm đạo._
 
 ## Điều trị
 
@@ -121,7 +122,9 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 - Rau bong non.
 - Bất thường sức khỏe mẹ hoặc thai.
 - Nghi ngờ/xác định nhiễm trùng ối.
-  **MgSO₄** bảo vệ não sơ sinh:
+
+**MgSO₄** bảo vệ não sơ sinh:
+
 - **Chỉ định**:
   - Thai 24–< 32 tuần có nguy cơ sinh non trong 24 giờ.
   - Dùng thường quy từ 28–< 32 tuần, cân nhắc từ 24–< 28 tuần.
@@ -130,11 +133,15 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 - **Liều dùng**:
   - 4.5g tĩnh mạch chậm trong 20–30 phút.
   - Nên truyền trước sinh 4 giờ.
-    **Trong chuyển dạ**:
+
+**Trong chuyển dạ**:
+
 - Đánh giá tiến triển mỗi 4 giờ (giai đoạn tiềm tàng), mỗi 1–2 giờ (giai đoạn hoạt động).
 - Theo dõi nhiễm trùng ối.
 - Nếu ối vỡ > 12 giờ, dùng kháng sinh dự phòng GBS, ngưng nếu sau sinh không có dấu hiệu nhiễm trùng.
-  **Phương pháp chấm dứt thai kỳ**:
+
+**Phương pháp chấm dứt thai kỳ**:
+
 - Ưu tiên sinh thường, mổ lấy thai khi có chỉ định.
 - Nếu chưa có chuyển dạ sau 12 giờ: Khởi phát tùy Bishop:
   - Bishop ≥ 6: Khởi phát bằng Oxytocin.
