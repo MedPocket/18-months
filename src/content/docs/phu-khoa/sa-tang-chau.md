@@ -15,20 +15,20 @@ Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là sự tụt x
 
 ## Phân loại
 
-| Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại                                                              | Xét nghiệm cần thiết     |
+_Bảng "Phân loại theo giải phẫu"._
+| Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại | Xét nghiệm cần thiết |
 | ------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------ |
-| **Thành trước (ngăn trước)**         | Sa bàng quang: Trung tâm, bên, kết hợp<br>Sa niệu đạo                                  | Niệu động học            |
-| **Vòm âm đạo (ngăn giữa)**           | Túi sa ruột non: Trước, sau<br>Sa tử cung<br>Sa mỏm cắt                                | MRI động ± Niệu động học |
-| **Thành sau (ngăn sau)**             | Túi trực tràng: Cao, giữa, thấp<br>Sa trực tràng<br>Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
-
-_Phân loại theo giải phẫu._
+| **Thành trước (ngăn trước)** | Sa bàng quang: Trung tâm, bên, kết hợp<br>Sa niệu đạo | Niệu động học |
+| **Vòm âm đạo (ngăn giữa)** | Túi sa ruột non: Trước, sau<br>Sa tử cung<br>Sa mỏm cắt | MRI động ± Niệu động học |
+| **Thành sau (ngăn sau)** | Túi trực tràng: Cao, giữa, thấp<br>Sa trực tràng<br>Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
 
 ## Chẩn đoán
 
 ### Lâm sàng
 
+_Bảng "Phân loại - Phân độ sa tạng chậu"._
 ![Phân loại - Phân độ sa tạng chậu](./_images/sa-tang-chau/phan-loai-phan-do-sa-tang-chau.jpg)
-_Phân loại - Phân độ sa tạng chậu._
+
 **Quy ước 9 mốc cần đo**:
 
 - Đơn vị đo cm, người bệnh tư thế sản phụ khoa, đầu cao 45°, rặn trong quá trình đánh giá.
@@ -42,7 +42,9 @@ _Phân loại - Phân độ sa tạng chậu._
 - **Điểm thay đổi**:
   - Ba, Bp: điểm phồng xa nhất của đoạn âm đạo (khi rặn hoặc kéo cổ tử cung).
 - Trên/dưới mép màng trinh: đánh dấu +/– trước giá trị.
-  **Phân độ POP-Q**:
+
+**Phân độ POP-Q**:
+
 - **Độ 0**: Không sa tạng chậu.
   - Aa, Ba, Ap, Bp: đều ở +3 cm trên màng trinh.
   - C, D: (tvl–2) cm ≤ C, D ≤ tvl.
@@ -50,13 +52,16 @@ _Phân loại - Phân độ sa tạng chậu._
 - **Độ II**: Ba hoặc Bp nằm trong khoảng ±1 cm quanh màng trinh.
 - **Độ III**: Ba hoặc Bp sa > 1 cm dưới màng trinh nhưng <(tvl–2) cm.
 - **Độ IV**: Sa toàn bộ, Ba hoặc Bp ≥ (tvl–2) cm.
-  ![Sơ đồ chẩn đoán sa tạng chậu](./_images/sa-tang-chau/so-do-chan-doan-sa-tang-chau.jpg)
-  _Sơ đồ chẩn đoán sa tạng chậu._
-  Dựa vào lâm sàng (POP-Q) và kết quả cận lâm sàng, ghi rõ:
+
+_Hình ảnh "Sơ đồ chẩn đoán sa tạng chậu"._
+![Sơ đồ chẩn đoán sa tạng chậu](./_images/sa-tang-chau/so-do-chan-doan-sa-tang-chau.jpg)
+
+Dựa vào lâm sàng (POP-Q) và kết quả cận lâm sàng, ghi rõ:
+
 - Tạng sa, độ sa.
 - Rối loạn tiết niệu hoặc đi cầu kèm theo.
 - Tổn thương kèm: Rách cơ thắt, táo bón...
-  Ví dụ: Sa tử cung độ III, sa bàng quang độ II, sa trực tràng độ II, tiểu không kiểm soát khi gắng sức, rách cơ thắt hậu môn diện rộng, táo bón.
+- Ví dụ: Sa tử cung độ III, sa bàng quang độ II, sa trực tràng độ II, tiểu không kiểm soát khi gắng sức, rách cơ thắt hậu môn diện rộng, táo bón.
 
 ## Cận lâm sàng
 
@@ -97,8 +102,14 @@ _Phân loại - Phân độ sa tạng chậu._
 
 ### Ngoại khoa
 
+_Hình ảnh "Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ Dũ"._
 ![Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ Dũ](./_images/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
-_Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ Dũ._
+
+_Hình ảnh "Phẫu thuật ngả bụng – Bệnh viện Từ Dũ"._
+![Phẫu thuật ngả bụng – Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-bung.jpeg)
+
+_Hình ảnh "Phẫu thuật đường âm đạo – Bệnh viện Từ Dũ"._
+![Phẫu thuật đường âm đạo – Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-am-dao.png)
 
 - **Nguyên tắc**:
   - Phục hồi cấu trúc cân – cơ – dây chằng.
@@ -125,10 +136,6 @@ _Phác đồ chẩn đoán và xử trí sa tạng chậu – Bệnh viện Từ
   - **Ngả âm đạo**: BN cao tuổi (> 70), gây mê ngắn, vết mổ nhiều lần, béo phì.
   - **Ngả bụng/nội soi**: BN trẻ, mong muốn bảo tồn tử cung, sa độ III–IV, thất bại phẫu thuật ngả âm đạo.
   - **Kết hợp**: Khi cần đặt mảnh ghép qua cả hai đường để tăng hiệu quả.
-    ![Phẫu thuật ngả bụng – Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-bung.jpeg)
-    _Phẫu thuật ngả bụng – Bệnh viện Từ Dũ._
-    ![Phẫu thuật đường âm đạo – Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-am-dao.png)
-    _Phẫu thuật đường âm đạo – Bệnh viện Từ Dũ._
 
 ## Nguồn tham khảo
 
