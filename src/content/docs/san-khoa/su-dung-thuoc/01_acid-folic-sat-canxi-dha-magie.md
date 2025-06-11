@@ -11,7 +11,8 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 ## Acid Folic (Folate)
 
-- Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydrofolate – dạng hoạt động sinh học) có vai trò thiết yếu trong quá trình tạo mới tế bào và tổng hợp DNA:
+Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydrofolate – dạng hoạt động sinh học) có vai trò thiết yếu trong quá trình tạo mới tế bào và tổng hợp DNA:
+
 - **Vai trò**:
   - Ngăn ngừa dị tật ống thần kinh (nứt đốt sống, não úng thủy).
   - Hỗ trợ phát triển não bộ và tủy sống thai nhi.
@@ -29,7 +30,8 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 ## DHA (Docosahexaenoic Acid)
 
-- DHA là axit béo omega-3 chuỗi dài, rất cần thiết cho sự phát triển hệ thần kinh và thị giác:
+DHA là axit béo omega-3 chuỗi dài, rất cần thiết cho sự phát triển hệ thần kinh và thị giác:
+
 - **Vai trò**:
   - Thúc đẩy phát triển não bộ và võng mạc, đặc biệt trong 3 tháng cuối thai kỳ và 2 năm đầu đời.
   - Tăng khả năng nhận thức, trí thông minh (IQ).
@@ -46,7 +48,8 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 ## Sắt
 
-- Sắt là khoáng chất thiết yếu tạo hemoglobin, giúp vận chuyển O₂:
+Sắt là khoáng chất thiết yếu tạo hemoglobin, giúp vận chuyển O₂:
+
 - **Vai trò**:
   - Ngăn ngừa thiếu máu do thiếu sắt – tình trạng phổ biến trong thai kỳ.
   - Đảm bảo cung cấp O₂ đầy đủ cho thai nhi và cơ thể mẹ.
@@ -63,7 +66,8 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 ## Canxi
 
-- Canxi là thành phần chính cấu tạo xương, răng và hỗ trợ chức năng cơ bắp, thần kinh:
+Canxi là thành phần chính cấu tạo xương, răng và hỗ trợ chức năng cơ bắp, thần kinh:
+
 - **Vai trò**:
   - Hình thành và phát triển hệ xương, răng cho thai nhi.
   - Bảo vệ mẹ khỏi loãng xương trong và sau thai kỳ.
@@ -80,7 +84,8 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 ## Magie
 
-- Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong cơ thể:
+Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong cơ thể:
+
 - **Vai trò**:
   - Giảm chuột rút, cải thiện giấc ngủ và thư giãn cơ bắp.
   - Điều hòa huyết áp, hỗ trợ giảm nguy cơ tiền sản giật.
@@ -98,28 +103,29 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 ## Nhu cầu
 
-| Giai đoạn                          | Acid folic      | DHA             | Sắt                        | Canxi                  | Magie                           |
+_Bảng "Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai"._
+| Giai đoạn | Acid folic | DHA | Sắt | Canxi | Magie |
 | ---------------------------------- | --------------- | --------------- | -------------------------- | ---------------------- | ------------------------------- |
-| **Tam cá nguyệt I (0–13 tuần)**    | 400–800 µg/ngày | 200–300 mg/ngày | 30 mg/ngày (nếu thiếu máu) | Qua thực phẩm là chính | Tùy triệu chứng, không bắt buộc |
-| **Tam cá nguyệt II (14–27 tuần)**  | 400–800 µg/ngày | 200–300 mg/ngày | 30–60 mg/ngày              | 1000 mg/ngày           | Tùy triệu chứng                 |
-| **Tam cá nguyệt III (28–40 tuần)** | 400–800 µg/ngày | 200–300 mg/ngày | 30–60 mg/ngày              | 1000–1200 mg/ngày      | 200 mg/ngày nếu có triệu chứng  |
+| **Tam cá nguyệt I (0–13 tuần)** | 400–800 µg/ngày | 200–300 mg/ngày | 30 mg/ngày (nếu thiếu máu) | Qua thực phẩm là chính | Tùy triệu chứng, không bắt buộc |
+| **Tam cá nguyệt II (14–27 tuần)** | 400–800 µg/ngày | 200–300 mg/ngày | 30–60 mg/ngày | 1000 mg/ngày | Tùy triệu chứng |
+| **Tam cá nguyệt III (28–40 tuần)** | 400–800 µg/ngày | 200–300 mg/ngày | 30–60 mg/ngày | 1000–1200 mg/ngày | 200 mg/ngày nếu có triệu chứng |
 
-_Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai._
 :::caution
 
 - Bắt đầu bổ sung acid folic ít nhất 1 tháng trước khi mang thai; nếu có tiền sử dị tật ống thần kinh, có thể cần 4–5 mg/ngày theo chỉ định bác sĩ.
 - Magie chỉ cần bổ sung nếu có triệu chứng như chuột rút, mất ngủ, lo âu.
-  :::
+
+:::
 
 ## Hướng dẫn bổ sung
 
-| Buổi     | Sản phẩm bổ sung | Hướng dẫn bổ sung hằng ngày                                                             |
+_Bảng "Hướng dẫn bổ sung acid folic, DHA, sắt, canxi, magie hằng ngày"._
+| Buổi | Sản phẩm bổ sung | Hướng dẫn bổ sung hằng ngày |
 | -------- | ---------------- | --------------------------------------------------------------------------------------- |
-| **Sáng** | Acid folic, DHA  | Uống acid folic sau ăn sáng; DHA sau bữa sáng hoặc trưa, tránh uống khi đói.            |
-| **Trưa** | Canxi            | Uống canxi sau bữa trưa, có thể chia 2 lần/ngày (≤ 600 mg/lần để hấp thu tốt)           |
-| **Tối**  | Sắt              | Uống sắt trước bữa tối hoặc trước khi ngủ, nên kèm vitamin C (cam, ổi) để tăng hấp thu. |
+| **Sáng** | Acid folic, DHA | Uống acid folic sau ăn sáng; DHA sau bữa sáng hoặc trưa, tránh uống khi đói. |
+| **Trưa** | Canxi | Uống canxi sau bữa trưa, có thể chia 2 lần/ngày (≤ 600 mg/lần để hấp thu tốt) |
+| **Tối** | Sắt | Uống sắt trước bữa tối hoặc trước khi ngủ, nên kèm vitamin C (cam, ổi) để tăng hấp thu. |
 
-_Hướng dẫn bổ sung acid folic, DHA, sắt, canxi, magie hằng ngày._
 :::caution
 
 - **Không** uống sắt và canxi cùng lúc (canxi ức chế hấp thu sắt).
@@ -127,7 +133,8 @@ _Hướng dẫn bổ sung acid folic, DHA, sắt, canxi, magie hằng ngày._
 - Magie nên uống sau bữa ăn nhẹ để giảm nguy cơ tiêu chảy.
 - Tránh uống canxi với cà phê, trà, nước ngọt có ga vì làm giảm hấp thu.
 - Uống đủ nước mỗi ngày (1.5–2 L) để hỗ trợ tiêu hóa và phòng táo bón.
-  :::
+
+:::
 
 ## Nguồn tham khảo
 

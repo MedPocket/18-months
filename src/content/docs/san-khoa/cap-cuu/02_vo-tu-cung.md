@@ -11,9 +11,11 @@ Có 2 dạng thức vỡ tử cung:
 
 1. Vỡ tử cung hoàn toàn: Tình trạng vỡ tách rời toàn bộ bề dày của thành tử cung cho đến thanh mạc tử cung, thai và các phần phụ của thai bị đẩy vào trong khoang phúc mạc.
 2. Vỡ tử cung không hoàn toàn hay nứt tử cung (uterine dehiscence): Tình trạng vỡ tách rời lớp cơ tử cung, nhưng thanh mạc còn nguyên vẹn.
-   Có 2 tình huống vỡ tử cung:
-3. Trên tử cung nguyên vẹn, vỡ tử cung thường thấy trong chuyển dạ, với các triệu chứng điển hình: Chuyển dạ bất thường → vượt trở ngại → dọa vỡ tử cung → vỡ tử cung. Trường hợp tự phát ngoài chuyển dạ hiếm khi xảy ra, trừ bất thường bẩm sinh của hệ Müller.
-4. Trên tử cung có sẹo mổ cũ (mổ lấy thai, bóc nhân xơ...): Tần suất vỡ tự phát ngoài chuyển dạ cao hơn, nhưng chủ yếu vẫn là vỡ trong chuyển dạ.
+
+Có 2 tình huống vỡ tử cung:
+
+1. Trên tử cung nguyên vẹn, vỡ tử cung thường thấy trong chuyển dạ, với các triệu chứng điển hình: Chuyển dạ bất thường → vượt trở ngại → dọa vỡ tử cung → vỡ tử cung. Trường hợp tự phát ngoài chuyển dạ hiếm khi xảy ra, trừ bất thường bẩm sinh của hệ Müller.
+2. Trên tử cung có sẹo mổ cũ (mổ lấy thai, bóc nhân xơ...): Tần suất vỡ tự phát ngoài chuyển dạ cao hơn, nhưng chủ yếu vẫn là vỡ trong chuyển dạ.
 
 ## Yếu tố nguy cơ
 

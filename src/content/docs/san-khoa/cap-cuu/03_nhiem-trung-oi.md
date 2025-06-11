@@ -12,7 +12,9 @@ Nhiễm trùng ối thường do vi khuẩn xâm nhập ngược dòng từ đư
 - Chọc ối.
 - Sinh thiết gai nhau.
 - Nội soi bào thai.
-  **Các tác nhân thường gặp**:
+
+**Các tác nhân thường gặp**:
+
 - _Ureaplasma urealyticum_.
 - _Mycoplasma hominis_.
 - _Gardnerella vaginalis_.
@@ -35,6 +37,7 @@ Nhiễm trùng ối thường do vi khuẩn xâm nhập ngược dòng từ đư
 ## Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán nhiễm trùng ối]
+_Bảng "Chẩn đoán nhiễm trùng ối"._
 | Chẩn đoán | Đặc điểm |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Mẹ sốt đơn thuần** | Nhiệt độ mẹ ≥ 38.0°C nhưng < 39.0°C, không có nguyên nhân khác, tình trạng sốt có thể thoáng qua hoặc kéo dài |
@@ -68,9 +71,10 @@ Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu b
   **Di chứng lâu dài**:
 - Loạn sản phế quản phổi (BPD).
 - Bại não.
-  :::caution
-  Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác sĩ sơ sinh để đánh giá và xử trí sau sinh phù hợp.
-  :::
+
+:::caution
+Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác sĩ sơ sinh để đánh giá và xử trí sau sinh phù hợp.
+:::
 
 ## Điều trị
 
@@ -105,11 +109,14 @@ Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu b
 
 - Clindamycin 900 mg truyền TM mỗi 8 giờ.
 - Hoặc Vancomycin 1 g truyền TM mỗi 12h + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
-  :::caution
-  Vancomycin chỉ dùng khi:
+
+:::caution
+Vancomycin chỉ dùng khi:
+
 - GBS đề kháng Clindamycin hoặc Erythromycin.
 - GBS nhưng chưa có kết quả kháng sinh đồ.
-  :::
+
+:::
 
 #### Nếu không đáp ứng
 
@@ -119,8 +126,9 @@ Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu b
 ### Hạ sốt
 
 - Dùng thuốc hạ sốt theo chỉ định để giảm khó chịu cho mẹ và nguy cơ cho thai.
-  ![Lưu đồ xử trí nhiễm trùng ối – Bệnh viện Từ Dũ](./_images/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)  
-  _Lưu đồ xử trí nhiễm trùng ối – Bệnh viện Từ Dũ._
+
+_Hình ảnh "Lưu đồ xử trí nhiễm trùng ối – Bệnh viện Từ Dũ"._
+![Lưu đồ xử trí nhiễm trùng ối – Bệnh viện Từ Dũ](./_images/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)
 
 ## Nguồn tham khảo
 

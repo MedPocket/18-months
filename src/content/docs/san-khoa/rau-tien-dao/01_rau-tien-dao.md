@@ -13,7 +13,9 @@ Phân loại theo mối quan hệ giữa mép bánh rau và lỗ trong cổ tử
 - **Rau tiền đạo một phần (partial)**: Bánh rau che một phần lỗ trong cổ tử cung.
 - **Rau bám mép (marginal)**: Mép dưới bánh rau chạm đến hoặc sát bờ lỗ trong cổ tử cung.
 - **Rau bám thấp (low-lying)**: Bánh rau bám < 20 mm từ lỗ trong cổ tử cung nhưng không chạm vào.
-  Siêu âm qua đường âm đạo đo khoảng cách (mm) giữa mép bánh rau và lỗ trong cổ tử cung để phân loại:
+
+Siêu âm qua đường âm đạo đo khoảng cách (mm) giữa mép bánh rau và lỗ trong cổ tử cung để phân loại:
+
 - 0 mm nếu mép bánh rau chạm lỗ trong cổ tử cung.
 - Giá trị âm nếu bánh rau vượt qua lỗ cổ tử cung.
 - Giá trị dương nếu bánh rau cách lỗ cổ tử cung.
@@ -39,6 +41,18 @@ Phân loại theo mối quan hệ giữa mép bánh rau và lỗ trong cổ tử
 - **Siêu âm đầu dò âm đạo (TVS)**. Tiêu chuẩn chẩn đoán sau 28 tuần tuổi thai, đo khoảng cách mép bánh rau – lỗ trong cổ tử cung.
 - **Siêu âm Doppler hoặc MRI**. Hỗ trợ khi nghi ngờ rau cài răng lược.
 - **Soi bàng quang**. Khi nghi ngờ xâm lấn bàng quang.
+
+### Chẩn đoán phân biệt
+
+_Bảng "Phân biệt rau tiền đạo và rau bong non"._
+| Đặc điểm | Rau tiền đạo | Rau bong non |
+| ----------------------------- | ------------------------- | ---------------------------------------------------------------------------- |
+| **Lượng máu mất** | Thay đổi | Thay đổi |
+| **Diễn tiến** | Thường tự hết sau 1-2 giờ | Thường tiến triển |
+| **Đau bụng** | Không có | Thường có, nặng nề |
+| **Tình trạng thai** | Bình thường | Tim thai nhanh, sau đó chậm, mất dao động nội tại, nhịp giảm, có thể tử vong |
+| **Rối loạn đông máu** | HIẾM | Có thể có, nếu xuất hiện DIC thì tiên lượng nặng nề |
+| **Bệnh cảnh/ Yếu tố nguy cơ** | | Chấn thương bụng, tăng huyết áp thai kỳ-tiền sản giật, đa thai, đa ối |
 
 ## Biến chứng
 

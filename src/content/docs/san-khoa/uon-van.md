@@ -31,14 +31,17 @@ Vaccine uốn ván cho phụ nữ mang thai được tiêm theo tiền sử mi�
 - **Mang thai lần đầu, chưa đủ 3 mũi cơ bản**
   - Mũi đầu sau 20 tuần.
   - Mũi nhắc lại ≥ 30 ngày sau (hoặc trước sinh ≥ 30 ngày).
-    :::caution
+
+:::caution
+
 - Chỉ tiêm ở cơ sở y tế được Bộ Y tế cấp phép.
 - Theo dõi tối thiểu 15–30 phút sau tiêm.
 - Phản ứng thường gặp: đau tại chỗ, sốt nhẹ, mệt mỏi — tự khỏi, không cần can thiệp.
 - Kháng thể xuất hiện sau 2 tuần; tránh rượu bia, tuân thủ hướng dẫn bác sĩ.
 - Khi có dấu hiệu nghiêm trọng (da xanh, tim nhanh, khó thở...) cần đến viện cấp cứu ngay.
 - Nghỉ ngơi, tránh vận động mạnh và bổ sung dinh dưỡng đầy đủ (vitamin C, sắt, canxi, folate).
-  :::
+
+:::
 
 ## Chống chỉ định
 

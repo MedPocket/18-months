@@ -19,13 +19,12 @@ HIV (Human Immunodeficiency Virus) là bệnh lây truyền chủ yếu qua đư
 
 ### Phân loại
 
-| Phân loại | Triệu chứng chính                                                                                                     | CD4 > 500 | CD4 200–499 | CD4 < 200 |
+_Bảng "Phân loại HIV lâm sàng theo CDC"._
+| Phân loại | Triệu chứng chính | CD4 > 500 | CD4 200–499 | CD4 < 200 |
 | --------- | --------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --------- |
-| **A**     | Không triệu chứng hoặc chỉ hạch to toàn thân kéo dài                                                                  | A1        | A2          | A3        |
-| **B**     | Biểu hiện liên quan HIV nhưng không AIDS định nghĩa (zona tái phát, viêm âm đạo dai dẳng, tăng sản bạch cầu miệng...) | B1        | B2          | B3        |
-| **C**     | Bệnh xác định AIDS (Pneumocystis jirovecii, lao, toxoplasma não, Kaposi...)                                           | C1        | C2          | C3        |
-
-_Phân loại lâm sàng theo CDC._
+| **A** | Không triệu chứng hoặc chỉ hạch to toàn thân kéo dài | A1 | A2 | A3 |
+| **B** | Biểu hiện liên quan HIV nhưng không AIDS định nghĩa (zona tái phát, viêm âm đạo dai dẳng, tăng sản bạch cầu miệng...) | B1 | B2 | B3 |
+| **C** | Bệnh xác định AIDS (Pneumocystis jirovecii, lao, toxoplasma não, Kaposi...) | C1 | C2 | C3 |
 
 ## Điều trị
 
@@ -98,19 +97,17 @@ _Phân loại lâm sàng theo CDC._
 
 ### Ủ bệnh
 
-| Loại xét nghiệm                          | Phát hiện HIV sớm nhất sau phơi nhiễm | Thời gian khuyến nghị làm xét nghiệm   |
+_Bảng "Thời gian phát hiện HIV qua xét nghiệm"._
+| Loại xét nghiệm | Phát hiện HIV sớm nhất sau phơi nhiễm | Thời gian khuyến nghị làm xét nghiệm |
 | ---------------------------------------- | ------------------------------------- | -------------------------------------- |
-| **Xét nghiệm NAT (HIV RNA)**             | 10–14 ngày                            | Sau 2–4 tuần                           |
-| **Kháng nguyên/kháng thể combo (Ag/Ab)** | 18–45 ngày                            | Sau 4–6 tuần, kiểm tra lại sau 3 tháng |
-| **Kháng thể HIV (ELISA, test nhanh)**    | 3–12 tuần                             | Sau 6 tuần và nhắc lại sau 3 tháng     |
-
-_Thời gian phát hiện HIV qua xét nghiệm._
+| **Xét nghiệm NAT (HIV RNA)** | 10–14 ngày | Sau 2–4 tuần |
+| **Kháng nguyên/kháng thể combo (Ag/Ab)** | 18–45 ngày | Sau 4–6 tuần, kiểm tra lại sau 3 tháng |
+| **Kháng thể HIV (ELISA, test nhanh)** | 3–12 tuần | Sau 6 tuần và nhắc lại sau 3 tháng |
 
 - **Triệu chứng sớm (nếu có)**: **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng...).
-- **Thời gian "cửa sổ" (window period)**: Khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm:
-  Kết quả được coi là đáng tin cậy nếu:
-- **Xét nghiệm combo Ag/Ab sau 4–6 tuần âm tính** → độ chính xác cao.
-- **Xét nghiệm kháng thể sau 12 tuần (3 tháng)** âm tính → gần như chắc chắn không nhiễm HIV.
+- **Thời gian "cửa sổ" (window period)**: Khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm. Kết quả được coi là đáng tin cậy nếu:
+  - **Xét nghiệm combo Ag/Ab sau 4–6 tuần âm tính** → độ chính xác cao.
+  - **Xét nghiệm kháng thể sau 12 tuần (3 tháng)** âm tính → gần như chắc chắn không nhiễm HIV.
 
 ### Điều trị
 
