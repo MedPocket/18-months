@@ -38,25 +38,26 @@ Theo FIGO 2018, có ≥ 1 tiêu chí sau (không bao gồm PSTT/ETT):
 ## Tiên lượng
 
 _Bảng "Điểm tiên lượng FIGO/WHO 2018"_
-| Thang điểm FIGO (WHO)                    | 0          | 1          | 2             | 4          |
+| Thang điểm FIGO (WHO) | 0 | 1 | 2 | 4 |
 | ---------------------------------------- | ---------- | ---------- | ------------- | ---------- |
-| **Tuổi**                                 | < 40       | ≥ 40       | —             | —          |
-| **Tiền cân thai**                        | Thai trứng | Bố thai    | Đủ tháng      | —          |
-| **Số tháng (từ thai lần)**               | < 4        | 4 – 6      | 7 – 12        | > 12       |
-| **hCG trước điều trị IU/ml**             | < 10³      | 10³ - 10⁴  | 10⁴ - 10⁵     | > 10⁵      |
-| **Kích thước bướu lớn nhất gồm TC (cm)** |            | 3 – 4 cm   | ≥ 5 cm        | —          |
-| **Vị trí di căn**                        | Phổi       | Lách, Thận | Dạ dày – ruột | Não Gan    |
-| **Số điểm di căn**                       | —          | 1 – 4      | 5 – 8         | > 8        |
-| **Hóa trị thất bại trước đó**            | —          | —          | Đơn hóa trị   | Đa hóa trị |
+| **Tuổi** | < 40 | ≥ 40 | — | — |
+| **Tiền cân thai** | Thai trứng | Bố thai | Đủ tháng | — |
+| **Số tháng (từ thai lần)** | < 4 | 4 – 6 | 7 – 12 | > 12 |
+| **hCG trước điều trị IU/ml** | < 10³ | 10³ - 10⁴ | 10⁴ - 10⁵ | > 10⁵ |
+| **Kích thước bướu lớn nhất gồm TC (cm)** | | 3 – 4 cm | ≥ 5 cm | — |
+| **Vị trí di căn** | Phổi | Lách, Thận | Dạ dày – ruột | Não Gan |
+| **Số điểm di căn** | — | 1 – 4 | 5 – 8 | > 8 |
+| **Hóa trị thất bại trước đó** | — | — | Đơn hóa trị | Đa hóa trị |
 
 ## Đánh giá di căn
 
 _Bảng "Phân loại NIH (Mỹ)"._
-| Phân loại                   | Tiêu chuẩn chẩn đoán                                                                                                                                                                                                                                                           |
+| Phân loại | Tiêu chuẩn chẩn đoán |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Không di căn**            | Không có bất cứ bằng chứng nào của di căn                                                                                                                                                                                                                                      |
+| **Không di căn** | Không có bất cứ bằng chứng nào của di căn |
 | **Di căn - Tiên lượng tốt** | Không có bất kỳ yếu tố nguy cơ nào sau:<br>- Thời gian từ có thai trước đến phát hiện bệnh < 4 tháng<br>- Beta hCG trước điều trị < 40000 UI/ml<br>- Thai kỳ trước không phải thai đủ tháng<br>- Chưa từng hóa trị trước<br>- Không có di căn não hay gan (có thể di căn phổi) |
-| **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên                                                                                                                                                                                                                                          |
+| **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên |
+
 ## Điều trị
 
 _Hình ảnh "Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ"._

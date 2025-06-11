@@ -11,10 +11,10 @@ Tên gọi "lạc nội mạc tử cung trong cơ" quá đơn giản, gây nhi�
 
 1. Hiện diện của mô tuyến nội mạc và mô đệm trong lớp cơ tử cung.
 2. Tăng sản và tăng dưỡng của cơ tử cung xung quanh.<br>
-    _Hình ảnh "Cộng hưởng từ của adenomyosis"._
+   _Hình ảnh "Cộng hưởng từ của adenomyosis"._
    ![Cộng hưởng từ của adenomyosis](./_images/lac-noi-mac-tu-cung/hinh-anh-cong-huong-tu-adenomyosis.png)
    Tổn thương có thể khu trú tạo giả u xơ, hoặc kết hợp với u xơ thật, khó phân biệt.<br>
-  _Hình ảnh "Kết hợp adenomyosis và u xơ tử cung"._
+   _Hình ảnh "Kết hợp adenomyosis và u xơ tử cung"._
    ![Kết hợp adenomyosis và u xơ tử cung](./_images/lac-noi-mac-tu-cung/u-xo-tu-cung-va-adenomyosis.png)
 
 ## Bệnh sinh
@@ -153,9 +153,9 @@ _Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung
   - **Liều dùng**:
     - EE 20–30 µg + progestin, 1 viên/ngày liên tục hoặc theo chu kỳ.
     - Miếng dán mỗi tuần 1 miếng.
-  :::caution
-  Không dùng quá 3 tháng nếu không giảm đau; ít hiệu quả với lạc nội mạc sâu.
-  :::
+      :::caution
+      Không dùng quá 3 tháng nếu không giảm đau; ít hiệu quả với lạc nội mạc sâu.
+      :::
 - **Aromatase inhibitors (AIs)**:
   - **Chỉ định**: đau tái phát sau NSAIDs/COCs; phối hợp khi cường estrogen cục bộ nặng.
   - **Liều dùng**: Letrozole 2.5 mg/ngày, Anastrozole 1 mg/ngày.
@@ -169,9 +169,9 @@ _Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung
   - **Progestin uống**: Dienogest 2 mg/ngày; Norethindrone 5–10 mg/ngày.
   - **IUS–LNG**: đặt 1 lần, tác dụng 5 năm.
   - **Tác dụng**: Teo nội mạc, giảm viêm; LNG-IUS còn giảm cường kinh.
-  :::caution
-  Chọn progestin ít tác dụng toàn thân; ưu tiên LNG-IUS hoặc Dienogest nếu có AUB-A.
-  :::
+    :::caution
+    Chọn progestin ít tác dụng toàn thân; ưu tiên LNG-IUS hoặc Dienogest nếu có AUB-A.
+    :::
 
 #### Ngoại khoa
 

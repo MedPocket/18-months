@@ -46,7 +46,7 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 ## U xơ tử cung và hiếm muộn
 
 - **Chỉ định can thiệp**:<br>
-  _Bảng "Phẫu thuật u xơ tử cung"._ 
+  _Bảng "Phẫu thuật u xơ tử cung"._
   | Vị trí u xơ (FIGO) | Kích thước | Khuyến nghị can thiệp trước ART |
   | --------------------------------- | ---------- | ------------------------------------------------------------------- |
   | **L0–L2 (dưới niêm mạc)** | > 3 cm | Nội soi buồng tử cung bóc u xơ trước ART |

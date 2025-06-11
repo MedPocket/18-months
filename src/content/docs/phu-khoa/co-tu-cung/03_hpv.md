@@ -18,7 +18,7 @@ Bên trong là DNA kép vòng, dài 7904 bp, gồm các gen:
 - **E6, E7**: đa chức năng, tương tác với p53 và pRb, quyết định khả năng sinh ung thư.
 
 _Hình ảnh "Sơ đồ DNA 7904 bp của HPV type 16"._
-![DNA HPV16 7904 bp](./_images/hpv/so-do-dna-hpv-16.png)  
+![DNA HPV16 7904 bp](./_images/hpv/so-do-dna-hpv-16.png)
 
 ### Các type
 
@@ -63,11 +63,11 @@ _Hình ảnh "Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào 
 ### Phân loại
 
 _Bảng "Phổ bảo vệ của vaccine 2vHPV, 4vHPV và 9vHPV"._
-| Loại vaccine | Type bảo vệ                       | Phổ bảo vệ                                               |
+| Loại vaccine | Type bảo vệ | Phổ bảo vệ |
 | ------------ | --------------------------------- | -------------------------------------------------------- |
-| **2vHPV**    | 16, 18                            | Ngừa ung thư cổ tử cung (66% trường hợp)                 |
-| **4vHPV**    | 6, 11, 16, 18                     | Ngừa ung thư cổ tử cung và mụn cóc sinh dục (type 6, 11) |
-| **9vHPV**    | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên 81–90%  |
+| **2vHPV** | 16, 18 | Ngừa ung thư cổ tử cung (66% trường hợp) |
+| **4vHPV** | 6, 11, 16, 18 | Ngừa ung thư cổ tử cung và mụn cóc sinh dục (type 6, 11) |
+| **9vHPV** | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên 81–90% |
 
 _Bảng "So sánh vaccine HPV nhị giá và tứ giá"._
 | Thông số | Vaccine HPV tứ giá | Vaccine HPV nhị giá |
@@ -102,6 +102,7 @@ _Bảng "So sánh vaccine HPV nhị giá và tứ giá"._
   - Từ 15 tuổi: 3 liều (0, 1–2 tháng, 6 tháng).
 
 :::caution
+
 - Không cần tầm soát Pap, HPV DNA hay kháng thể trước tiêm.
 - Tuân thủ khoảng cách tối thiểu: Liều 1–2 ≥ 4 tuần; liều 2–3 ≥ 12 tuần; liều 1–3 ≥ 40 tuần.
 - Trễ hẹn: Tiếp tục liệu trình, không phải bắt đầu lại.

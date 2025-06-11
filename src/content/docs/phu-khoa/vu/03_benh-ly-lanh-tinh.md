@@ -15,22 +15,22 @@ Các bệnh lý này được phân loại theo:
 ### Theo lâm sàng
 
 _Bảng "Phân loại bệnh lý tuyến vú theo đặc điểm lâm sàng"._
-| Loại tổn thương                                             | Các dạng cụ thể                                                                                                                                                                                                                                                                  |
+| Loại tổn thương | Các dạng cụ thể |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Đau vú**                                                  | Đau vú                                                                                                                                                                                                                                                                           |
-| **Các mảng và khối u** (Tumors and masses)                  | - Khối u hoặc nốt sần (Nodularity and glandular)<br>- Nang<br>- Nang bọc sữa (Galactoceles)<br>- Bướu sợi tuyến<br>- Xơ nang tuyến vú (Sclerosing adenosis)<br>- Bướu mỡ<br>- Hamartoma<br>- Bệnh lý tuyến vú do tiểu đường<br>- Bướu diệp thể (Cystosarcoma phylloides)         |
-| **Tiết dịch núm vú**                                        | Tiết dịch núm vú                                                                                                                                                                                                                                                                 |
-| **Nhiễm trùng vú và viêm vú**                               | - Viêm vú nội sinh (Intrinsic mastitis)<br>- Căng sữa sau sinh<br>- Viêm vú khi cho bú<br>- Áp xe vú khi cho bú<br>- Áp xe dưới quầng vú tái phát mạn tính<br>- Viêm vú cấp tính liên quan đến các nang vú<br>- Nhiễm trùng vú ngoại sinh (Extrinsic infection)<br>- Bệnh Mondor |
-| **Những tổn thương có nguy cơ phát triển thành ung thư vú** | - Tăng sinh trong ống dẫn sữa (Ductal hyperplasia)<br>- Bệnh lý xơ nang tuyến vú (Sclerosing adenosis)<br>- Bướu sợi tuyến phức tạp (Complex fibroadenomas)<br>- Tăng sản không điển hình (Atypical hyperplasia)<br>- Sẹo hình sao (Radial scar)                                 |
+| **Đau vú** | Đau vú |
+| **Các mảng và khối u** (Tumors and masses) | - Khối u hoặc nốt sần (Nodularity and glandular)<br>- Nang<br>- Nang bọc sữa (Galactoceles)<br>- Bướu sợi tuyến<br>- Xơ nang tuyến vú (Sclerosing adenosis)<br>- Bướu mỡ<br>- Hamartoma<br>- Bệnh lý tuyến vú do tiểu đường<br>- Bướu diệp thể (Cystosarcoma phylloides) |
+| **Tiết dịch núm vú** | Tiết dịch núm vú |
+| **Nhiễm trùng vú và viêm vú** | - Viêm vú nội sinh (Intrinsic mastitis)<br>- Căng sữa sau sinh<br>- Viêm vú khi cho bú<br>- Áp xe vú khi cho bú<br>- Áp xe dưới quầng vú tái phát mạn tính<br>- Viêm vú cấp tính liên quan đến các nang vú<br>- Nhiễm trùng vú ngoại sinh (Extrinsic infection)<br>- Bệnh Mondor |
+| **Những tổn thương có nguy cơ phát triển thành ung thư vú** | - Tăng sinh trong ống dẫn sữa (Ductal hyperplasia)<br>- Bệnh lý xơ nang tuyến vú (Sclerosing adenosis)<br>- Bướu sợi tuyến phức tạp (Complex fibroadenomas)<br>- Tăng sản không điển hình (Atypical hyperplasia)<br>- Sẹo hình sao (Radial scar) |
 
 ### Theo mô học
 
 _Bảng "Phân loại bệnh lý tuyến vú theo mô học"._
-| Loại tổn thương                                                           | Các dạng cụ thể                                                                                                                                                                                      |
+| Loại tổn thương | Các dạng cụ thể |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tổn thương không tăng sinh**                                            | - Nang đơn giản<br>- Nang phức tạp                                                                                                                                                                   |
+| **Tổn thương không tăng sinh** | - Nang đơn giản<br>- Nang phức tạp |
 | **Tổn thương tăng sinh không có tế bào không điển hình (without atypia)** | - Tăng sinh ống tuyến vú (Ductal hyperplasia)<br>- Bướu sợi tuyến<br>- U nhú trong ống tuyến (Intraductal adenoma)<br>- Bệnh xơ nang tuyến vú (Sclerosing adenoma)<br>- Sẹo hình sao (Radical scars) |
-| **Tăng sinh không điển hình**                                             | - Tăng sinh ống tuyến không điển hình (Ductal)<br>- Tăng sinh tiểu thùy không điển hình (Lobular)                                                                                                    |
+| **Tăng sinh không điển hình** | - Tăng sinh ống tuyến không điển hình (Ductal)<br>- Tăng sinh tiểu thùy không điển hình (Lobular) |
 
 ## Bướu sợi tuyến
 
@@ -299,14 +299,14 @@ Bệnh vú thay đổi sợi bọc (Fibrocystic changes) là nhóm tổn thươn
   - Tiết dịch núm vú (hiếm), thường là dịch trong suốt lệch pha.
 - Phân loại theo mô bệnh học:
   1. **Sclerosing adenosis (xơ hóa tuyến)**:
-    - Tăng sinh acini và mô đệm xơ hóa, đôi khi làm tổn thương giống u đặc (mass) trên hình ảnh.
-    - Đôi khi kèm vi xâm (microinvasion) không rõ, cần sinh thiết để loại trừ carcinoma in situ.
+  - Tăng sinh acini và mô đệm xơ hóa, đôi khi làm tổn thương giống u đặc (mass) trên hình ảnh.
+  - Đôi khi kèm vi xâm (microinvasion) không rõ, cần sinh thiết để loại trừ carcinoma in situ.
   2. **Complex sclerosing lesion / Radial scar (sẹo hình sao)**:
-    - Kết cấu gồm mô xơ hình sao, xoay quanh một vùng trung tâm có nang hoặc acini giãn.
-    - Trên nhũ ảnh có thể tạo bóng xơ (spiculated mass) giả u ác tính, cần sinh thiết để phân biệt.
+  - Kết cấu gồm mô xơ hình sao, xoay quanh một vùng trung tâm có nang hoặc acini giãn.
+  - Trên nhũ ảnh có thể tạo bóng xơ (spiculated mass) giả u ác tính, cần sinh thiết để phân biệt.
   3. **Fibrocystic changes tổng quát**:
-    - Nang đa, xơ hóa mô đệm, tăng sản biểu mô không điển hình (atypical hyperplasia).
-    - Thay đổi thường phân bố rải rác khắp vú, không thành khối lớn.
+  - Nang đa, xơ hóa mô đệm, tăng sản biểu mô không điển hình (atypical hyperplasia).
+  - Thay đổi thường phân bố rải rác khắp vú, không thành khối lớn.
 
 #### Cận lâm sàng
 

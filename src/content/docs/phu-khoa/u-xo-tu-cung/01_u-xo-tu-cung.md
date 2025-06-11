@@ -95,17 +95,17 @@ _Bảng "Phân loại FIGO 2011"._
 ### Nội khoa
 
 _Bảng "Các thuốc nội khoa điều trị u xơ"._
-| Phương pháp                      | Mục tiêu                  | Ghi chú                                                               |
+| Phương pháp | Mục tiêu | Ghi chú |
 | -------------------------------- | ------------------------- | --------------------------------------------------------------------- |
-| **Tranexamic acid**              | Giảm cường kinh           | 250–500 mg × 3 lần/ngày; chống chỉ định tràn khí màng phổi/thuyên tắc |
-| **COC**                          | Giảm máu kinh             | Không ảnh hưởng khối u                                                |
-| **Progestin (LNG-IUS, implant)** | Tạo teo nội mạc, giảm máu | LNG-IUS không giảm thể tích u                                         |
-| **GnRHa**                        | Giảm > 50% thể tích u     | Chuẩn bị trước mổ 1–3 tháng; Hạn chế < 6 tháng, có flare-up           |
-| **GnRHa add-back (E/P)**         | Hạn chế tác dụng phụ      | Chưa chứng minh giảm khối u thêm                                      |
-| **GnRH anta**                    | Giảm estrogen nhanh       | Tránh flare-up; hiệu quả tương đương GnRHa                            |
-| **Aromatase inhibitors**         | ức chế tổng hợp estrogen  | Letrozole 12 tuần; ít tác dụng phụ hơn GnRHa                          |
-| **SPRMs (Ulipristal acetate)**   | Giảm chảy máu, thu nhỏ u  | 5 mg/ngày, 3 tháng; gián đoạn 2 tháng ≤ 8 đợt; theo dõi chức năng gan |
-| **Mifepristone**                 | Giảm thể tích u           | 2.5 mg/ngày, 3–6 tháng; không có đăng ký chính thức                   |
+| **Tranexamic acid** | Giảm cường kinh | 250–500 mg × 3 lần/ngày; chống chỉ định tràn khí màng phổi/thuyên tắc |
+| **COC** | Giảm máu kinh | Không ảnh hưởng khối u |
+| **Progestin (LNG-IUS, implant)** | Tạo teo nội mạc, giảm máu | LNG-IUS không giảm thể tích u |
+| **GnRHa** | Giảm > 50% thể tích u | Chuẩn bị trước mổ 1–3 tháng; Hạn chế < 6 tháng, có flare-up |
+| **GnRHa add-back (E/P)** | Hạn chế tác dụng phụ | Chưa chứng minh giảm khối u thêm |
+| **GnRH anta** | Giảm estrogen nhanh | Tránh flare-up; hiệu quả tương đương GnRHa |
+| **Aromatase inhibitors** | ức chế tổng hợp estrogen | Letrozole 12 tuần; ít tác dụng phụ hơn GnRHa |
+| **SPRMs (Ulipristal acetate)** | Giảm chảy máu, thu nhỏ u | 5 mg/ngày, 3 tháng; gián đoạn 2 tháng ≤ 8 đợt; theo dõi chức năng gan |
+| **Mifepristone** | Giảm thể tích u | 2.5 mg/ngày, 3–6 tháng; không có đăng ký chính thức |
 
 ### Ngoại khoa
 
