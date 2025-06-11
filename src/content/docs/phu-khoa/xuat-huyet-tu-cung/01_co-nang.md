@@ -18,7 +18,7 @@ Xuất huyết tử cung chức năng thường xảy ra khi nội mạc tử cu
 
 Chiếm 20% nguyên nhân. Trong vòng 18 tháng đầu sau khi hành kinh, trục hạ đồi - tuyến yên - buồng trứng chưa trưởng thành hoàn toàn nên có thể không đáp ứng đầy đủ với estrogen và progesterone, dẫn đến tình trạng không phóng noãn và xuất huyết tử cung chức năng.
 
-### Tuổi tiền mãn kinh (50%)
+### Tuổi tiền mãn kinh
 
 Chiếm 50% nguyên nhân. Ở phụ nữ tuổi 40–50, số lượng và chất lượng nang noãn đều giảm. Các nang noãn phát triển nhưng không tạo đỉnh LH để gây phóng noãn, do nồng độ gonadotropin cơ bản tăng cao (giảm Inhibin B). Nang noãn tiếp tục sản xuất lượng nhỏ estrogen kéo dài, không có progesterone đối kháng, gây tăng sinh nội mạc tử cung và xuất huyết tử cung chức năng.
 
@@ -43,58 +43,66 @@ Tình trạng này xảy ra khi buồng trứng có phóng noãn nhưng hoàng t
 
 ## Tiếp cận
 
-### Bệnh sử
+### Lâm sàng
+
+#### Tiền sử
+
+- Tiền sử nội tiết, dấu hiệu có thai, tiền sử dùng biện pháp tránh thai, chấn thương sinh dục.
+
+#### Bệnh sử
 
 - Tuổi, lần cuối có kinh, số ngày và lượng máu ra, chảy máu sau giao hợp.
 - Các loại thuốc đã và đang sử dụng (nội tiết, NSAIDs, thuốc chống đông, thuốc hướng thần...).
-- Tiền sử nội tiết, dấu hiệu có thai, tiền sử dùng biện pháp tránh thai, chấn thương sinh dục.
 
-### Lâm sàng
+#### Thực thể
 
 - Dấu hiệu rối loạn nội tiết toàn thân (cường giáp, nhược giáp).
 - Dấu hiệu cường androgen (mụn trứng cá nặng, rậm lông, béo phì kiểu nam).
-- Khám phụ khoa để loại trừ các bất thường cấu trúc của tử cung và buồng trứng.
+- Khám phụ khoa để loại trừ các bất thường cấu trúc của tử cung và buồng trứng.<br>
+  _Hình ảnh "Acantosis nigricans, rậm lông và mụn trứng cá nặng, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường"._
   ![Acantosis nigricans, rậm lông và mụn trứng cá nặng](./_images/xuat-huyet-tu-cung-co-nang/acantosis-nigricans-ram-long-mun-trung-ca.png)
-  _Acantosis nigricans, rậm lông và mụn trứng cá nặng, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường._
 
 ### Cận lâm sàng
 
 #### Xét nghiệm cơ bản
 
-| Loại xét nghiệm                                | Mục đích                                                                   |
+_Bảng "Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng"._
+| Loại xét nghiệm | Mục đích |
 | ---------------------------------------------- | -------------------------------------------------------------------------- |
-| **hCG (nước tiểu hay máu)**                    | Loại trừ thai                                                              |
-| **Chức năng đông máu**                         | Loại trừ bệnh lý rối loạn đông máu                                         |
-| **Pap smear (đơn độc hay co-testing với HPV)** | Loại trừ ung thư cổ tử cung                                                |
-| **FSH**                                        | > 40 IU/L giúp chẩn đoán suy buồng trứng hay mãn kinh                      |
-| **TSH**                                        | Loại trừ bệnh lý tuyến giáp                                                |
-| **Prolactin máu**                              | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn                       |
-| **MRI sọ não**                                 | Nếu prolactin > 100 ng/mL, cần thêm MRI để khảo sát microadenoma tuyến yên |
-| **Chỉ số testosterone tự** do                  | Chẩn đoán tình trạng cường androgen trong hội chứng buồng trứng đa nang    |
-
-_Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng._
+| **hCG (nước tiểu hay máu)** | Loại trừ thai |
+| **Chức năng đông máu** | Loại trừ bệnh lý rối loạn đông máu |
+| **Pap smear (đơn độc hay co-testing với HPV)** | Loại trừ ung thư cổ tử cung |
+| **FSH** | > 40 IU/L giúp chẩn đoán suy buồng trứng hay mãn kinh |
+| **TSH** | Loại trừ bệnh lý tuyến giáp |
+| **Prolactin máu** | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn |
+| **MRI sọ não** | Nếu prolactin > 100 ng/mL, cần thêm MRI để khảo sát microadenoma tuyến yên |
+| **Chỉ số testosterone tự** do | Chẩn đoán tình trạng cường androgen trong hội chứng buồng trứng đa nang |
 
 #### Chẩn đoán hình ảnh
 
-- Có thể thực hiện siêu âm quy ước để khảo sát độ dày nội mạc tử cung, phản âm, bất thường trong buồng tử cung.
-  ![Hình ảnh siêu âm của hội chứng buồng trứng đa nang](./_images/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-buong-trung-da-nang.png)
-  _Hình chuỗi hạt kinh điển của buồng trứng đa nang. Các nang noãn nhỏ xếp thành chuỗi, phân bố ở ngoại vi buồng trứng._
-  ![Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)](./_images/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-polyp-tu-cung.png)
-  _Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)._
-  :::caution
-  Siêu âm có thể giúp định hướng nguyên nhân như u xơ tử cung, buồng trứng đa nang... Siêu âm bơm nước buồng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương nội mạc tử cung (polyp, dính buồng tử cung...).
-  :::
+Có thể thực hiện siêu âm quy ước để khảo sát độ dày nội mạc tử cung, phản âm, bất thường trong buồng tử cung.
+
+_Hình ảnh "Chuỗi hạt kinh điển của buồng trứng đa nang. Các nang noãn nhỏ xếp thành chuỗi, phân bố ở ngoại vi buồng trứng"._
+![Hình ảnh siêu âm của hội chứng buồng trứng đa nang](./_images/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-buong-trung-da-nang.png)
+
+_Hình ảnh "Siêu âm bơm nước của polyps buồng tử cung (SIS)"._
+![Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)](./_images/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-polyp-tu-cung.png)
+
+:::caution
+Siêu âm có thể giúp định hướng nguyên nhân như u xơ tử cung, buồng trứng đa nang... Siêu âm bơm nước buồng tử cung (SIS) được chỉ định khi nghi ngờ có tổn thương nội mạc tử cung (polyp, dính buồng tử cung...).
+:::
 
 #### Sinh thiết nội mạc tử cung
 
-- Test chẩn đoán xác định, thường được chỉ định khi:
-  - Phụ nữ > 35 tuổi có xuất huyết tử cung bất thường.
-  - Phụ nữ đã mãn kinh có xuất huyết tử cung.
-  - Giúp đánh giá mô học nội mạc tử cung và loại trừ tăng sinh, loạn sản hoặc ung thư.
+Test chẩn đoán xác định, thường được chỉ định khi:
+
+- Phụ nữ > 35 tuổi có xuất huyết tử cung bất thường.
+- Phụ nữ đã mãn kinh có xuất huyết tử cung.
+- Giúp đánh giá mô học nội mạc tử cung và loại trừ tăng sinh, loạn sản hoặc ung thư.
 
 #### Nội soi buồng tử cung
 
-- Giúp quan sát trực tiếp và loại trừ nguyên nhân thực thể trong buồng tử cung. Chỉ định khi nghi ngờ tổn thương nội mạc không rõ ràng trên siêu âm.
+Giúp quan sát trực tiếp và loại trừ nguyên nhân thực thể trong buồng tử cung. Chỉ định khi nghi ngờ tổn thương nội mạc không rõ ràng trên siêu âm.
 
 ## Điều trị
 
@@ -113,17 +121,20 @@ _Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huy�
 - Oxytocin tiêm bắp hoặc truyền TM.
 - Ergometrin 0.2 mg, 1–2 ống/ngày, tiêm bắp.
 - Tranexamic acid, calci clorid tiêm TM.
-  **Thuốc nội tiết**:
+
+**Thuốc nội tiết**:
+
 - **Thuốc tránh thai phối hợp (estrogen-progestogen)**: 2–4 viên/ngày, giảm dần khi ngừng ra máu. Không dùng loại có < 20 µg ethinyl estradiol.
-  :::caution
-  Thường uống vào buổi tối, giờ cố định để giảm tác dụng phụ. Khi giảm liều mà ra máu lại, cần tăng liều trở lại và giảm từ từ.
-  :::
 - **Estrogen đơn thuần**: Dùng khi nội mạc tử cung < 5 mm để phục hồi nội mạc → sau đó bổ sung progestogen.
 - **Progestin**: Dùng nếu nội mạc tử cung > 10 mm, liều 2 viên/ngày trong 10–15 ngày. Có thể dùng đơn độc để đối kháng.
 - **Biệt dược phổ biến**:
   - Estrogen: Progynova®, Valiera®, Provames®.
   - Progesterone: Utrogestan®, Duphaston®.
   - Thuốc tránh thai phối hợp: Marvelon®, Regulon®, Rigevidon®, Microgynon®.
+
+:::caution
+Thường uống vào buổi tối, giờ cố định để giảm tác dụng phụ. Khi giảm liều mà ra máu lại, cần tăng liều trở lại và giảm từ từ.
+:::
 
 ### Ngoại khoa
 

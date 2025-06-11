@@ -14,8 +14,8 @@ Theo khuyến cáo của FIGO 2018, AUB được phân thành hai hệ thống:
 
 ### Theo định nghĩa
 
+_Bảng "Các thuật ngữ liên quan đến xuất huyết tử cung bất thường theo FIGO"._
 ![Các thuật ngữ về xuất huyết tử cung bất thường](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/cac-thuat-ngu-ve-xuat-huyet-tu-cung-bat-thuong.jpeg)
-_Các thuật ngữ liên quan đến xuất huyết tử cung bất thường theo FIGO._
 
 - **AUB mạn tính**: Chảy máu tử cung bất thường kéo dài ít nhất **6 tháng** gần nhất, với bất thường ở một hoặc nhiều khía cạnh sau:
   - Số ngày hành kinh (quá dài > 8 ngày hoặc quá ngắn < 2 ngày)
@@ -26,14 +26,15 @@ _Các thuật ngữ liên quan đến xuất huyết tử cung bất thường t
 
 ### Theo nguyên nhân (PALM-COEIN)
 
-|                              | Nguyên nhân thuộc cấu trúc (PALM)                                                  |
+_Bảng "Nguyên nhân thuộc cấu trúc (PALM)"._
+| | Nguyên nhân thuộc cấu trúc (PALM) |
 | ---------------------------- | ---------------------------------------------------------------------------------- |
-| **P**olyps                   | Polyp nội mạc tử cung                                                              |
-| **A**denomyosis              | Lạc nội mạc trong cơ tử cung                                                       |
-| **L**eiomyomas               | U xơ tử cung (chủ yếu u xơ dưới niêm mạc và trong cơ)                              |
+| **P**olyps | Polyp nội mạc tử cung |
+| **A**denomyosis | Lạc nội mạc trong cơ tử cung |
+| **L**eiomyomas | U xơ tử cung (chủ yếu u xơ dưới niêm mạc và trong cơ) |
 | **M**alignancy & Hyperplasia | Tăng sinh nội mạc (simple/complex, có/không loạn sản) hoặc ung thư nội mạc tử cung |
 
-_Nguyên nhân thuộc cấu trúc (PALM)._
+_Bảng "Nguyên nhân không thuộc cấu trúc (COEIN)"._
 | | Nguyên nhân không thuộc cấu trúc (COEIN) |
 | ------------------------- | ------------------------------------------------------------------------------------ |
 | **C**oagulopathy | Rối loạn đông máu (di truyền hoặc mắc phải) |
@@ -41,9 +42,14 @@ _Nguyên nhân thuộc cấu trúc (PALM)._
 | **E**ndometrial | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: Bất thường mạch máu nội mạc) |
 | **I**atrogenic | Do thuốc hoặc các thủ thuật y tế (thiếu ốc chèn, dụng cụ tử cung, thuốc nội tiết...) |
 | **N**ot yet classified | Nguyên nhân chưa rõ hoặc chưa phân loại được |
-_Nguyên nhân không thuộc cấu trúc (COEIN)._
 
 ## Tiếp cận
+
+_Hình ảnh "Sơ đồ tiếp cận AUB mạn tính – Bệnh viện Từ Dũ"._
+![Sơ đồ tiếp cận AUB mạn tính – Bệnh viện Từ Dũ.](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
+
+_Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp AUB"._
+![Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/tom-luoc-khao-sat-va-chan-doan-1-so-truong-hop.jpeg)
 
 ### Lâm sàng
 
@@ -123,10 +129,6 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
 - Nghi u xơ tử cung kích thước lớn, nhiều khối u, cần đánh giá mối liên quan với cơ tử cung.
 - Nghi u tuyến yên (lactotroph adenoma) nếu prolactin tăng cao.
 - Nghi ngờ u lạc nội mạc hoặc tổn thương lan tỏa trong cơ.
-  ![Sơ đồ tiếp cận AUB mạn tính – Bệnh viện Từ Dũ.](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
-  _Sơ đồ tiếp cận AUB mạn tính – Bệnh viện Từ Dũ._
-  ![Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/tom-luoc-khao-sat-va-chan-doan-1-so-truong-hop.jpeg)
-  _Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp AUB._
 
 ## Điều trị
 
@@ -165,33 +167,32 @@ _Nguyên nhân không thuộc cấu trúc (COEIN)._
       Estrogen cần được cho đủ liều để nội mạc phát triển nhanh nhằm bít kín mạch máu hở. Không nên tăng liều quá mức, vì tác dụng genomic cần thời gian và liều quá cao tăng nguy cơ huyết khối.
       :::
 - **Cầm máu hỗ trợ không chuyên biệt**:
-  - **NSAID** (giảm prostaglandin, co mạch nhẹ)
-    - Ibuprofen 400–600 mg × 3 lần/ngày, hoặc naproxen 500 mg × 2 lần/ngày, dùng trong 3–5 ngày đầu chảy máu.
-  - **Anti-fibrinolytics**
+  - **NSAID** (giảm prostaglandin, co mạch nhẹ): Ibuprofen 400–600 mg × 3 lần/ngày, hoặc naproxen 500 mg × 2 lần/ngày, dùng trong 3–5 ngày đầu chảy máu.
+  - **Anti-fibrinolytics**:
     - Tranexamic acid 1 g × 3–4 lần/ngày khi còn chảy máu, tối đa 4–5 ngày.
     - Giúp giảm thể tích máu mất khoảng 30–50%.
 
 #### Xử trí nguyên nhân nội tiết
 
-- **Progestogen đơn thuần** (đối với rối loạn phóng noãn hoặc nội mạc suy yếu)
+- **Progestogen đơn thuần** (đối với rối loạn phóng noãn hoặc nội mạc suy yếu):
   - Medroxyprogesterone acetate 10–20 mg/ngày (ngày 14–25 chu kỳ hoặc 10–14 ngày mỗi tháng).
   - Dydrogesterone 10 mg × 2 lần/ngày (ngày 14–25 chu kỳ).
   - Levonorgestrel IUD (LNG-IUD) phóng thích 20 µg/ngày: Cầm máu hiệu quả, giảm tăng sinh nội mạc dài hạn.
-- **Liệu pháp phối hợp estrogen – progestogen (COC)**
+- **Liệu pháp phối hợp estrogen – progestogen (COC)**:
   - Ethinyl estradiol 30 µg + Levonorgestrel 150 µg:
     - Dùng hàng ngày trong 21 ngày, nghỉ 7 ngày.
     - Có thể chỉ định liên tục (28 ngày liền) nếu cần ổn định nội mạc nhanh.
-- **GnRH đồng vận (GnRH agonist)**
+- **GnRH đồng vận (GnRH agonist)**:
   - Leuprolide 3.75 mg tiêm bắp mỗi tháng hoặc 11.25 mg mỗi 3 tháng.
   - Tạo _cắt tuyến yên nội khoa_, giảm sản xuất estrogen từ buồng trứng.
   - Chỉ định ngắn hạn (6 tháng), thường kết hợp add-back therapy (estrogen/progestin liều thấp) để giảm triệu chứng mãn kinh.
-- **Selective Estrogen Receptor Modulator (SERM)**
+- **Selective Estrogen Receptor Modulator (SERM)**:
   - Clomiphene citrate 50–100 mg/ngày (ngày 5–9 chu kỳ) để kích phóng noãn ở trường hợp PCOS.
   - Raloxifene không thường dùng cho AUB nhưng có thể tác động đến nội mạc.
-- **Selective Progesterone Receptor Modulator (SPRM)**
+- **Selective Progesterone Receptor Modulator (SPRM)**:
   - Ulipristal acetate 5 mg/ngày trong 3 tháng (dành cho u xơ tử cung) hoặc mifepristone liều thấp (5–10 mg/ngày).
   - Giảm kích thước u xơ, giảm xuất huyết, ổn định nội mạc.
-- **Dụng cụ tử cung phóng thích progestogen (LNG-IUD)**
+- **Dụng cụ tử cung phóng thích progestogen (LNG-IUD)**":
   - Hiệu quả cao trong cầm máu AUB do nguyên nhân nội mạc, u xơ dưới niêm mạc nhỏ, PCOS.
   - Dùng dài hạn (5 năm), đồng thời bảo vệ nội mạc khỏi tăng sinh do estrogen ngoại sinh.
 

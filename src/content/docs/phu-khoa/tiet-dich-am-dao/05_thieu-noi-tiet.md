@@ -42,9 +42,10 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
 - **pH âm đạo**: Thường > 5, do giảm Lactobacilli sinh acid lactic.
 - **Khám niêm mạc**: Dấu vết xuất huyết dễ chảy máu khi thăm khám, không có nhiều vi khuẩn đặc hiệu (khác với loạn khuẩn hay trichomonas).
 - **Không có tế bào nấm hoặc vi khuẩn đặc hiệu**: Nếu thấy nhiều bạch cầu hoặc vi khuẩn yếm khí vượt trội, cần loại trừ nhiễm khuẩn đồng thời.
-  :::caution
-  Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, Trichomonas) vì phương pháp điều trị khác nhau.
-  :::
+
+### Chẩn đoán phân biệt
+
+Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, Trichomonas) vì phương pháp điều trị khác nhau.
 
 ## Điều trị
 
@@ -82,11 +83,14 @@ Mục tiêu điều trị là phục hồi lớp biểu mô âm đạo, tăng đ
 - Khám lại sau 4–6 tuần sau khi bắt đầu điều trị tại chỗ để đánh giá triệu chứng, kiểm tra niêm mạc âm đạo.
 - Đo lại pH và soi dịch âm đạo nếu cần để đánh giá đáp ứng.
 - Duy trì điều trị duy trì estrogen tại chỗ 1–2 lần/tuần nếu triệu chứng tái phát.
-  :::caution
+
+:::caution
+
 - Các liệu pháp estrogen tại chỗ hiếm khi có tác dụng toàn thân nhưng cần thận trọng ở phụ nữ có tiền sử ung thư vú phụ thuộc estrogen, bệnh tim mạch hoặc huyết khối.
 - Nếu điều trị tại chỗ không hiệu quả sau 3 tháng, cần đánh giá lại chẩn đoán, cân nhắc HRT toàn thân hoặc chuyển khoa tiết niệu, nội tiết.
 - Trong trường hợp có viêm nhiễm phối hợp, điều trị kháng sinh/kháng nấm theo đúng phác đồ và cân nhắc theo dõi cấy để tránh kháng thuốc.
-  :::
+
+:::
 
 ## Nguồn tham khảo
 

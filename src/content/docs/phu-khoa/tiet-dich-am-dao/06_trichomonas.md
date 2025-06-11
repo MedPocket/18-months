@@ -17,9 +17,9 @@ Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vagin
   - Chủ yếu qua quan hệ tình dục không an toàn (âm đạo – âm đạo, âm đạo – dương vật).
   - Ít gặp lây gián tiếp qua đồ dùng cá nhân (đồ lót, khăn, bồn tắm chung), vì T. vaginalis kém bền ngoài môi trường.
 - **Bệnh sinh**:
-  1. T. vaginalis gắn vào tế bào biểu mô âm đạo và tiết ra protease, men gây tổn thương biểu mô, làm mất lớp bảo vệ niêm mạc.
-  2. Ký sinh trùng tiết ra các sản phẩm chuyển hóa (amin dễ bay hơi) gây mùi hôi tanh.
-  3. Tổn thương niêm mạc kèm theo đáp ứng viêm, tăng bạch cầu đa nhân trung tính ở vùng viêm.
+  - T. vaginalis gắn vào tế bào biểu mô âm đạo và tiết ra protease, men gây tổn thương biểu mô, làm mất lớp bảo vệ niêm mạc.
+  - Ký sinh trùng tiết ra các sản phẩm chuyển hóa (amin dễ bay hơi) gây mùi hôi tanh.
+  - Tổn thương niêm mạc kèm theo đáp ứng viêm, tăng bạch cầu đa nhân trung tính ở vùng viêm.
 
 ## Yếu tố nguy cơ
 
@@ -37,8 +37,7 @@ Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vagin
 
 ### Lâm sàng
 
-- **Huyết trắng**:
-  - Lượng nhiều, màu vàng hoặc xanh (lục), loãng, có bọt (bọt khí do sự di động của trùng roi), mùi tanh.
+- **Huyết trắng**: Lượng nhiều, màu vàng hoặc xanh (lục), loãng, có bọt (bọt khí do sự di động của trùng roi), mùi tanh.
 - **Triệu chứng kèm**:
   - Có thể ngứa âm hộ – âm đạo.
   - Tiểu rát, tiểu buốt (nếu niệu đạo có liên quan).
@@ -110,12 +109,15 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 - Hướng dẫn vệ sinh vùng kín đúng cách: Tránh thụt rửa âm đạo, dùng xà phòng pH trung tính, mặc đồ lót thoáng, thấm hút tốt.
 - Khuyến khích dùng bao cao su khi quan hệ để giảm nguy cơ tái nhiễm và lây truyền các STI khác.
 - Thông báo và điều trị bạn tình, khuyến nghị tất cả bạn tình trong vòng 60 ngày trước để xét nghiệm và điều trị.
-  :::caution
+
+:::caution
+
 - Luôn điều trị đồng thời cho bạn tình để ngăn tái nhiễm.
 - Tránh uống rượu bia trong và 48 giờ sau khi dùng Metronidazole/Tinidazole để tránh hội chứng Disulfiram-like (buồn nôn, nôn, đỏ bừng mặt).
 - **Metronidazole không dùng trong 3 tháng đầu thai kỳ** (đặc biệt liều kéo dài).
 - Nếu bệnh nhân dị ứng Metronidazole/Tinidazole, chuyển sang Secnidazole 2 g liều đơn (nếu có sẵn).
-  :::
+
+:::
 
 ## Nguồn tham khảo
 

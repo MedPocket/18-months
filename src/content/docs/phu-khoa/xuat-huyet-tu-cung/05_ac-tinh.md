@@ -19,7 +19,9 @@ Tăng sinh nội mạc tử cung là tổn thương tiền ung thư, thường d
 - **Tăng sinh phức tạp–điển hình**: Nguy cơ tiến triển thành ung thư 3%. Thể hiện qua mô tuyến tăng nhiều, tỷ lệ tuyến:mô đệm > 50%, các tuyến sắp xếp lộn xộn, nhưng nhân tế bào vẫn bình thường.
 - **Tăng sinh cổ điển (đơn giản)–không điển hình**: Nguy cơ tiến triển thành ung thư 8%. Mô bệnh học ghi nhận tuyến tăng nhẹ nhưng lớp tế bào lót có nhân to, dị dạng và tăng sắc.
 - **Tăng sinh phức tạp–không điển hình**: Nguy cơ tiến triển thành ung thư 29%. Mô bệnh học cho thấy các tuyến tăng sinh dày, lộn xộn, lớp tế bào lót có nhân to, dị dạng và tăng sắc.
-  Yếu tố nguy cơ của tăng sinh nội mạc tử cung:
+
+Yếu tố nguy cơ của tăng sinh nội mạc tử cung:
+
 - **Tuổi dậy thì**: Chu kỳ không phóng noãn kéo dài.
 - **Phụ nữ trẻ, tiền mãn kinh/quanh mãn kinh** (suy giảm progesterone của hoàng thể)
   - Nội sinh: Béo phì, u buồng trứng sản xuất estrogen, thiểu năng buồng trứng, PCOS.
@@ -101,15 +103,18 @@ Pipelle® là ống hút nhỏ, lấy mẫu ngẫu nhiên toàn bộ nội mạc
 - Không cần nong cổ tử cung.
 - Thực hiện tại phòng khám, không vô cảm.
 - Hiệu quả cao với chi phí thấp.
-  Chỉ định sinh thiết hoặc D&C khi:
+
+Chỉ định sinh thiết hoặc D&C khi:
+
 - Xuất huyết tử cung bất thường ở đối tượng có nguy cơ cao (gia tăng nguy cơ ung thư nội mạc).
 - Phụ nữ hậu mãn kinh có chảy máu (độ dày nội mạc ≥ 4 mm).
 - Phụ nữ 45–menopa dùng bất kỳ kiểu xuất huyết nào (spotting, chảy máu giữa kỳ, rong huyết, rong kinh).
 - Phụ nữ < 45 tuổi có xuất huyết kéo dài, không phóng noãn mạn tính (béo phì, PCOS), hoặc thất bại sau điều trị nội khoa.
 - Theo dõi điều trị tăng sinh nội mạc.
-  :::caution
-  Đối với phụ nữ hậu mãn kinh, mọi trường hợp xuất huyết dù nhẹ (spotting) cũng phải sinh thiết. Với phụ nữ 45–menopa, mọi trường hợp chảy máu bất thường (ngắn chu kỳ, chảy nhiều > 80 mL, kéo dài > 7 ngày) cần sinh thiết. Với < 45 tuổi, chỉ khi có tiếp xúc estrogen kéo dài không có progesterone (béo phì, PCOS) hoặc thất bại điều trị nội khoa.
-  :::
+
+:::caution
+Đối với phụ nữ hậu mãn kinh, mọi trường hợp xuất huyết dù nhẹ (spotting) cũng phải sinh thiết. Với phụ nữ 45–menopa, mọi trường hợp chảy máu bất thường (ngắn chu kỳ, chảy nhiều > 80 mL, kéo dài > 7 ngày) cần sinh thiết. Với < 45 tuổi, chỉ khi có tiếp xúc estrogen kéo dài không có progesterone (béo phì, PCOS) hoặc thất bại điều trị nội khoa.
+:::
 
 #### Nội soi buồng tử cung
 
@@ -138,6 +143,7 @@ Cho phép quan sát trực tiếp buồng tử cung và sinh thiết tổn thư�
 :::caution
 Nhiều loại tăng sinh có thể cùng tồn tại với ung thư nội mạc. Trước khi điều trị bảo tồn, phải đảm bảo không bỏ sót tổn thương (sinh thiết kỹ, kết hợp nội soi khi cần). Điều trị càng sớm (đặc biệt tăng sinh không điển hình) càng có cơ hội thoái triển.
 :::
+
 Chọn progestin với hoạt tính kháng estrogen mạnh. Tác dụng chính của progestin là kháng estrogen, ức chế phân bào nội mạc:
 
 - Kích hoạt thụ thể progesterone → thoái triển tăng sinh.

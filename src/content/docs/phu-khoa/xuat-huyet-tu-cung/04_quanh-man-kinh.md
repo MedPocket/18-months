@@ -5,7 +5,7 @@ description: Sinh lý và cận lâm sàng của giai đoạn quanh mãn kinh, c
 
 Xuất huyết tử cung bất thường ở độ tuổi quanh mãn kinh có thể là xuất huyết cơ năng nhưng cũng có thể xuất phát từ các nguyên nhân thực thể hoặc biểu hiện của tình trạng ác tính. Việc đánh giá kịp thời và chính xác giúp loại trừ ung thư hoặc tăng sinh nội mạc tử cung, đồng thời giảm lo lắng cho người bệnh và có hướng điều trị phù hợp.
 
-## Hệ trục hạ đồi-yên-buồng trứng
+## Trục hạ đồi-yên-buồng trứng
 
 Giai đoạn quanh mãn kinh (perimenopause) thường kéo dài từ cuối 40 đến đầu 50 tuổi, là thời điểm chuyển tiếp giữa giai đoạn sinh sản và mãn kinh. Đặc trưng chính của hệ trục HPG (hạ đồi–tuyến yên–buồng trứng) lúc này là suy giảm trữ lượng nang noãn và mất dần sự ức chế tầng trên.
 
@@ -26,16 +26,17 @@ Giai đoạn quanh mãn kinh (perimenopause) thường kéo dài từ cuối 40 
    - Estrogen đơn độc kéo dài mà không có progesterone đối kháng làm tăng nguy cơ tăng sinh nội mạc (hyperplasia) và quá sản (atrophic endometrium có thay đổi kèm).
    - Ở giai đoạn sau, rong huyết khó kiểm soát có thể báo hiệu tăng sinh nội mạc điển hình, loạn sản hoặc ung thư nội mạc.
 
-## Biểu hiện
+## Bệnh sinh
 
 - **Chu kỳ ngắn hơn**: Giai đoạn đầu của perimenopause, chu kỳ rút ngắn nhưng vẫn đều, không thay đổi tính chất máu.
 - **Spotting/Rong kinh nhẹ**: Giai đoạn giữa, khi nội mạc không bong tróc hoàn toàn. Xuất huyết ít, thường thoáng qua giữa các chu kỳ.
 - **Chu kỳ thưa thớt, có lúc vô kinh**: Khi nang noãn phát triển ngay đầu chu kỳ mới, estrogen duy trì lớp nội mạc, không có giảm đột ngột → không hành kinh dù vẫn có phóng noãn. Khi nào có pha tụt steroid mới xuất huyết, nhưng không định kỳ.
 - **Rong huyết nặng**: Giai đoạn muộn, chu kỳ không phóng noãn hoàn toàn, nội mạc tiếp xúc estrogen đơn độc → bong tróc rời rạc hoặc ồ ạt, gây rong huyết liên tục.
 - **Xuất huyết không tự giới hạn**: Cần lưu ý nguy cơ tăng sinh nội mạc, loạn sản hoặc ung thư, thường gặp rong huyết kéo dài, kèm đau bụng dưới, rối loạn đại tiểu tiện.
-  :::caution
-  Xuất huyết bất thường ở phụ nữ quanh mãn kinh không chỉ do rối loạn phóng noãn. U xơ tử cung, polyp, viêm nội mạc, ung thư là các nguyên nhân thực thể cần được loại trừ. Các yếu tố toàn thân (tăng huyết áp, đái tháo đường, béo phì) làm tăng chuyển hóa estrogen ngoại sinh và nội sinh, góp phần vào cơ chế tăng sinh nội mạc.
-  :::
+
+:::caution
+Xuất huyết bất thường ở phụ nữ quanh mãn kinh không chỉ do rối loạn phóng noãn. U xơ tử cung, polyp, viêm nội mạc, ung thư là các nguyên nhân thực thể cần được loại trừ. Các yếu tố toàn thân (tăng huyết áp, đái tháo đường, béo phì) làm tăng chuyển hóa estrogen ngoại sinh và nội sinh, góp phần vào cơ chế tăng sinh nội mạc.
+:::
 
 ## Nguyên nhân
 
@@ -56,18 +57,21 @@ Giai đoạn quanh mãn kinh (perimenopause) thường kéo dài từ cuối 40 
 
 ## Tiếp cận
 
+_Hình ảnh "Lưu đồ tiếp cận xuất huyết tử cung bất thường quanh mãn kinh"._
 ![Lưu đồ tiếp cận xuất huyết tử cung bất thường quanh mãn kinh](./_images/xuat-huyet-tu-cung-quanh-man-kinh/luu-do-tiep-can-xuat-huyet-tu-cung-sau-man-kinh.png)
-_Lưu đồ tiếp cận xuất huyết tử cung bất thường quanh mãn kinh._
 
-### Bệnh sử
+### Lâm sàng
+
+#### Tiền sử
+
+- Tiền sử bệnh lý: Tăng huyết áp, đái tháo đường, béo phì, rối loạn đông máu, dùng tamoxifen hoặc liệu pháp hormone thay thế.
+
+#### Bệnh sử
 
 - Tuổi mãn kinh dự kiến, tiền sử chu kỳ trước đó (độ dài, tính chất, lượng máu).
 - Triệu chứng đi kèm: đau bụng dưới, rối loạn tiểu tiện, thay đổi cân nặng, bứt rứt, khó ngủ (các dấu hiệu tiền mãn kinh).
-- Tiền sử bệnh lý: Tăng huyết áp, đái tháo đường, béo phì, rối loạn đông máu, dùng tamoxifen hoặc liệu pháp hormone thay thế.
-- Khám tổng quát: đánh giá tình trạng mất máu (da niêm nhợt, mệt, choáng váng), dấu hiệu tăng sản androgen (nếu nghi PCOS muộn).
-- Khám phụ khoa: Kiểm tra lâm sàng tử cung (kích thước, hình dạng), buồng trứng qua siêu âm (nếu cần). Khám cổ tử cung (Pap smear/nội soi cổ tử cung nếu chỉ định).
 
-### Lâm sàng
+#### Thực thể
 
 Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại trừ:
 
@@ -75,11 +79,12 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
 - **Nguyên nhân tại tử cung**:
   - U xơ tử cung, polyp nội mạc, viêm nội mạc tử cung, dính buồng tử cung.
   - Dị dạng bẩm sinh hiếm gặp (hội chứng Asherman...).
-- **Nguyên nhân tại cổ tử cung–âm đạo**:
-  - Viêm cổ tử cung mạn, loạn sản hay ung thư biểu mô cổ tử cung, lạc nội mạc cổ tử cung.
+- **Nguyên nhân tại cổ tử cung–âm đạo**: Viêm cổ tử cung mạn, loạn sản hay ung thư biểu mô cổ tử cung, lạc nội mạc cổ tử cung.
 - **Nguyên nhân từ các cơ quan lận cận**:
   - Xuất huyết đường tiết niệu (thận, bàng quang), tiêu hóa (trực tràng) chảy xuống âm đạo giả.
   - Chấn thương vùng chậu, sa tạng, tổn thương âm hộ.
+- Khám tổng quát: đánh giá tình trạng mất máu (da niêm nhợt, mệt, choáng váng), dấu hiệu tăng sản androgen (nếu nghi PCOS muộn).
+- Khám phụ khoa: Kiểm tra lâm sàng tử cung (kích thước, hình dạng), buồng trứng qua siêu âm (nếu cần). Khám cổ tử cung (Pap smear/nội soi cổ tử cung nếu chỉ định).
 
 ### Cận lâm sàng
 
@@ -89,12 +94,12 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
 - Đặc điểm cần ghi nhận:
   - Độ dày nội mạc: ≥ 5 mm ở phụ nữ quanh mãn kinh cần đánh giá thêm.
   - Hình thái nội mạc: đều mỏng, lòng tử cung không có khối, không có kẽ tăng tín hiệu nhấp nhô.
-  - Tổn thương khu trú: Polyp (có cuống), u xơ dưới niêm mạc, nang buồng trứng sản xuất estrogen.
+  - Tổn thương khu trú: Polyp (có cuống), u xơ dưới niêm mạc, nang buồng trứng sản xuất estrogen.<br>
+    _Hình ảnh "Tăng sinh nội mạc tử cung: Nội mạc dày 21.6 mm đầu chu kỳ là bất thường. Không thể chẩn đoán cơ năng khi có hình ảnh này"._
     ![Tăng sinh nội mạc tử cung trên siêu âm](./_images/xuat-huyet-tu-cung-quanh-man-kinh/hinh-anh-sieu-am-tang-sinh-noi-mac-tu-cung.png)
-    _Tăng sinh nội mạc tử cung: Nội mạc dày 21.6 mm đầu chu kỳ là bất thường. Không thể chẩn đoán cơ năng khi có hình ảnh này._
   - **Siêu âm bơm nước (SIS)** nếu nghi polyp hoặc dính buồng tử cung: Bơm nước làm nổi bật khối, giúp xác định vị trí và kích thước tổn thương.
+    _Hình ảnh "Siêu âm bơm nước buồng tử cung (SIS): Phát hiện polyp lòng tử cung. Khi có tổn thương khu trú như này, không thể chẩn đoán xuất huyết cơ năng"._
     ![Siêu âm bơm nước buồng tử cung](./_images/xuat-huyet-tu-cung-quanh-man-kinh/sieu-am-bom-nuoc-buong-tu-cung.png)
-    _Siêu âm bơm nước buồng tử cung (SIS): Phát hiện polyp lòng tử cung. Khi có tổn thương khu trú như này, không thể chẩn đoán xuất huyết cơ năng._
     :::caution
     Hình ảnh siêu âm phụ thuộc vào pha chu kỳ. Thực hiện sau sạch kinh giúp tránh nhầm tăng sinh nội mạc giả do nội mạc phát triển dưới estrogen giai đoạn giữa chu kỳ.
     :::

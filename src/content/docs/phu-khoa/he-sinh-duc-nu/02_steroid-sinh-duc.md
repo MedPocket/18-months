@@ -8,7 +8,8 @@ Steroid sinh dục (gonadal steroids) là các hormone có nguồn gốc từ bu
 - **Progesterone** (C₂₁)
 - **Androgen** (C₁₉)
 - **Estrogen** (C₁₈)
-  Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, rồi cắt ngắn dần chuỗi bên để tạo phân tử đích.
+
+Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, rồi cắt ngắn dần chuỗi bên để tạo phân tử đích.
 
 ## Sinh tổng hợp
 
@@ -21,25 +22,25 @@ Steroid sinh dục (gonadal steroids) là các hormone có nguồn gốc từ bu
 
 ### Androgen
 
-- **Nguồn**: Tế bào vỏ (theca interna) của nang noãn chưa lệ thuộc gonadotropin.
-- **Sản phẩm chính**: DHEA, androstenedione.
+- **Nguồn gốc**: Tế bào vỏ (theca interna) của nang noãn chưa lệ thuộc gonadotropin.
+- **Dạng lưu hành**: DHEA, androstenedione.
 - **Chức năng**:
   - Chuẩn bị tế bào hạt (granulosa) để đáp ứng FSH, kích thích biểu hiện aromatase.
   - Duy trì androgen–AMH–FSH–estrogen cân bằng, ngăn nang noãn lệ thuộc gonadotropin quá sớm.
 
 ### Estrogen
 
-- **Nguồn**: Tế bào hạt của các nang noãn phát triển và hoàng thể.
+- **Nguồn gốc**: Tế bào hạt của các nang noãn phát triển và hoàng thể.
 - **Dạng lưu hành**:
   - **Estradiol (E₂)**: Mạnh nhất, chiếm ưu thế ở người trưởng thành.
   - **Estrone (E₁)**: Yếu hơn, có thể đảo ngược ↔ E₂.
   - **Estriol (E₃)**: Yếu nhất, chủ yếu ở thai kỳ (gan + rau).
-- **Tổng hợp**: Androgen → aromatase → estrogen
+- **Tổng hợp**: Androgen → aromatase → estrogen.
 - **Chức năng**: Phát triển niêm mạc tử cung, hình thành các đặc điểm sinh dục thứ cấp, điều hòa GnRH/LH/FSH.
 
 ### Progesterone
 
-- **Nguồn**: Tế bào hoàng thể sau phóng noãn; một phần từ vỏ thượng thận.
+- **Nguồn gốc**: Tế bào hoàng thể sau phóng noãn; một phần từ vỏ thượng thận.
 - **Chức năng**:
   - Chuẩn bị nội mạc tử cung cho giai đoạn "phân tiết" (secretory), hỗ trợ làm tổ.
   - Ức chế co cơ trơn tử cung, đóng cổ tử cung.
@@ -60,18 +61,17 @@ Steroid sinh dục tác động lên tế bào đích theo hai đường qua gen
 - Gắn với **thụ thể màng** (GPCR như GPER cho estrogen, mAR cho androgen).
 - Kích hoạt second messenger (Ca²⁺, cAMP, PI3K/Akt, MAPK...)
 - Khởi phát nhanh (giây–phút), không yêu cầu nồng độ quá thấp.
-  :::caution
-  Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có thể điều hòa biểu hiện gene gián tiếp qua các đường tín hiệu thứ cấp.
-  :::
+
+:::caution
+Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có thể điều hòa biểu hiện gene gián tiếp qua các đường tín hiệu thứ cấp.
+:::
 
 ## Cơ quan đích
 
 ### Nội mạc tử cung
 
-- **Estrogen** (pha proliferative):
-  - Thúc đẩy phân bào tuyến & mô đệm, gia tăng ER/PR, phát triển mạch thẳng.
-- **Progesterone** (pha secretory):
-  - Chuyển tuyến sang chế tiết, xoắn mạch, ứ glycogen, chuẩn bị làm tổ.
+- **Estrogen** (pha proliferative): Thúc đẩy phân bào tuyến & mô đệm, gia tăng ER/PR, phát triển mạch thẳng.
+- **Progesterone** (pha secretory): Chuyển tuyến sang chế tiết, xoắn mạch, ứ glycogen, chuẩn bị làm tổ.
 - **Hành kinh**: Sụt đột ngột E₂ & P₄ → bong niêm mạc.
 
 ### Cổ tử cung
@@ -96,11 +96,12 @@ Steroid sinh dục tác động lên tế bào đích theo hai đường qua gen
 
 ## Thụ thể
 
-| Thụ thể | Gene       | Isoform             | Chức năng                                                         |
+_Bảng "Thụ thể của các steroids"._
+| Thụ thể | Gene | Isoform | Chức năng |
 | ------- | ---------- | ------------------- | ----------------------------------------------------------------- |
-| **ER**  | ESR1, ESR2 | ER-α, ER-β          | Kích hoạt ERE → điều hòa gene phát triển nội mạc, vú, xương...    |
-| **PR**  | PGR        | PR-A (ức chế), PR-B | PR-B hoạt hóa PRE; PR-A đối kháng PR-B, điều hòa ngược bộ máy PR. |
-| **AR**  | AR (X-chr) | 1 isoform chính     | Kích hoạt ARE → điều hòa biệt hóa cơ quan sinh dục nam, mô xương. |
+| **ER** | ESR1, ESR2 | ER-α, ER-β | Kích hoạt ERE → điều hòa gene phát triển nội mạc, vú, xương... |
+| **PR** | PGR | PR-A (ức chế), PR-B | PR-B hoạt hóa PRE; PR-A đối kháng PR-B, điều hòa ngược bộ máy PR. |
+| **AR** | AR (X-chr) | 1 isoform chính | Kích hoạt ARE → điều hòa biệt hóa cơ quan sinh dục nam, mô xương. |
 
 ## Nguồn tham khảo
 

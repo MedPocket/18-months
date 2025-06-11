@@ -3,17 +3,22 @@ title: Tiết dịch âm đạo bất thường
 description: Cấu trúc và chức năng của hệ vi khuẩn âm đạo, thành phần sinh lý của dịch tiết âm đạo, nguyên nhân và phân loại các rối loạn tiết dịch, cùng hướng xử trí và các biệt dược thường dùng.
 ---
 
-Hệ vi khuẩn âm đạo (vaginal microbiome) của phụ nữ trong độ tuổi sinh sản bao gồm cả vi khuẩn kỵ khí và hiếu khí thường trú, tồn tại trong quan hệ cộng sinh với môi trường âm đạo. Âm đạo cung cấp dưỡng chất (glycogen, protein, muối điện giải) cho vi sinh vật, đồng thời cộng đồng vi khuẩn đóng vai trò bảo vệ chủ thể bằng cách ngăn chặn vi khuẩn gây bệnh xâm nhập và phát triển quá mức. Rối loạn hệ vi khuẩn âm đạo có thể dẫn đến nhiều vấn đề sức khỏe, như viêm nhiễm, sảy thai, sinh non, thậm chí tăng nguy cơ lây nhiễm qua đường tình dục. Mật độ vi khuẩn trong dịch âm đạo rất cao, khoảng 10⁸–10⁹ vi khuẩn trên mỗi mL. Ở phụ nữ trong độ tuổi sinh sản bình thường, **Lactobacillus spp**. (khuẩn Döderlein) chiếm ưu thế. Đây là vi khuẩn Gram dương, hình que, kỵ khí không bắt buộc, thuộc nhóm vi khuẩn lactic acid, có khả năng chuyển hóa glycogen thành lactic acid.
+Hệ vi khuẩn âm đạo (vaginal microbiome) của phụ nữ trong độ tuổi sinh sản bao gồm cả vi khuẩn kỵ khí và hiếu khí thường trú, tồn tại trong quan hệ cộng sinh với môi trường âm đạo. Âm đạo cung cấp dưỡng chất (glycogen, protein, muối điện giải) cho vi sinh vật, đồng thời cộng đồng vi khuẩn đóng vai trò bảo vệ chủ thể bằng cách ngăn chặn vi khuẩn gây bệnh xâm nhập và phát triển quá mức. Rối loạn hệ vi khuẩn âm đạo có thể dẫn đến nhiều vấn đề sức khỏe, như viêm nhiễm, sảy thai, sinh non, thậm chí tăng nguy cơ lây nhiễm qua đường tình dục. Mật độ vi khuẩn trong dịch âm đạo rất cao, khoảng 10⁸–10⁹ vi khuẩn trên mỗi mL.
+
+Ở phụ nữ trong độ tuổi sinh sản bình thường, **Lactobacillus spp**. (khuẩn Döderlein) chiếm ưu thế. Đây là vi khuẩn Gram dương, hình que, kỵ khí không bắt buộc, thuộc nhóm vi khuẩn lactic acid, có khả năng chuyển hóa glycogen thành lactic acid.
 
 ## Hệ vi khuẩn âm đạo
 
 ### Lactobacillus
 
 Các trạng thái hệ vi khuẩn âm đạo khác nhau (dựa trên chủng chiếm ưu thế, điểm Nugent) phản ánh sự biến động chức năng bảo vệ ở từng cá thể. Khi Lactobacillus chiếm ưu thế, âm đạo được bảo vệ tốt; ngược lại, giảm Lactobacillus hoặc tăng vi khuẩn kỵ khí/gây hại sẽ dẫn đến rối loạn tiết dịch.
+
+_Hình ảnh "Phân kiểu trạng thái khuẩn hệ dựa trên chủng vi khuẩn ưu thế và điểm Nugent"._
 ![Các kiểu trạng thái khuẩn hệ âm đạo](./_images/tiet-dich-am-dao-bat-thuong/cac-trang-thai-khuan-he-am-dao.png)
-_Phân kiểu trạng thái khuẩn hệ dựa trên chủng vi khuẩn ưu thế và điểm Nugent._
+
+_Hình ảnh "Lactobacillus spp. sản xuất lactic acid, H₂O₂ và bacteriocins để ức chế vi sinh vật gây bệnh"._
 ![Lactobacillus sp sản xuất lactic acid và H₂O₂, ức chế vi sinh vật có hại](./_images/tiet-dich-am-dao-bat-thuong/lactobacillus-sp-san-xuat-acid-lactic-h2o2.png)
-_Lactobacillus spp. sản xuất lactic acid, H₂O₂ và bacteriocins để ức chế vi sinh vật gây bệnh._
+
 Vai trò của Lactobacillus:
 
 - **Duy trì pH âm đạo**: Lactobacillus sản xuất lactic acid giúp giữ pH âm đạo ở mức 3.5–4.5, tạo môi trường không thuận lợi cho vi sinh vật gây bệnh.
@@ -37,9 +42,10 @@ Môi trường âm đạo được hình thành bởi estrogen, kích thích bi�
 - **Hoạt động tình dục, chất bôi trơn**.
 - **Thụt rửa âm đạo**.
 - **Stress, thay đổi dinh dưỡng**.
-  Khi bị nhiễm hoặc rối loạn, các vi khuẩn kỵ khí (Gardnerella vaginalis, Mobiluncus spp.), nấm (Candida spp.) hoặc ký sinh (Trichomonas vaginalis) có cơ hội phát triển quá mức, gây tiết dịch bất thường.
 
-## Thành phần
+Khi bị nhiễm hoặc rối loạn, các vi khuẩn kỵ khí (Gardnerella vaginalis, Mobiluncus spp.), nấm (Candida spp.) hoặc ký sinh (Trichomonas vaginalis) có cơ hội phát triển quá mức, gây tiết dịch bất thường.
+
+## Thành phần dịch âm đạo
 
 Âm đạo luôn tiết một lượng dịch nhất định để bôi trơn và bảo vệ:
 
@@ -55,9 +61,10 @@ Môi trường âm đạo được hình thành bởi estrogen, kích thích bi�
   - Giúp loại bỏ tế bào chết, mảnh vụn vi khuẩn.
   - Tạo môi trường ẩm ướt, bảo vệ biểu mô tránh khô rát.
   - Tham gia cơ chế bảo vệ sinh lý (pH thích hợp, kháng khuẩn).
-    Bình thường, phụ nữ sinh sản sản xuất khoảng **1.5 g dịch** mỗi ngày. Thay đổi tính chất (màu, mùi, độ đặc, lượng) thường do các yếu tố nội tiết (thời kỳ rụng trứng, thai kỳ), tình trạng viêm nhiễm, thụt rửa hoặc stress.
 
-## Phân loại
+Bình thường, phụ nữ sinh sản sản xuất khoảng **1.5 g dịch** mỗi ngày. Thay đổi tính chất (màu, mùi, độ đặc, lượng) thường do các yếu tố nội tiết (thời kỳ rụng trứng, thai kỳ), tình trạng viêm nhiễm, thụt rửa hoặc stress.
+
+## Tiếp cận
 
 Tiết dịch âm đạo bất thường (abnormal vaginal discharge – AVD) là khi dịch có bất kỳ thay đổi nào so với bình thường:
 
@@ -85,8 +92,8 @@ Tiết dịch âm đạo bất thường (abnormal vaginal discharge – AVD) l�
 
 ## Điều trị
 
+_Hình ảnh "Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện Từ Dũ"._
 ![Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện Từ Dũ](./_images/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
-_Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện Từ Dũ._
 
 1. **Đánh giá ban đầu**
    - Hỏi tiền sử: Thời điểm khởi phát, tính chất dịch, mùi, triệu chứng kèm.

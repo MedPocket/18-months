@@ -18,8 +18,8 @@ Buồng trứng là tuyến kép đảm nhận đồng thời hai vai trò:
 
 ### Hình thái và liên quan
 
+_Hình ảnh "Giải phẫu tử cung – buồng trứng"._
 ![Giải phẫu tử cung – buồng trứng](./_images/giai-phau-mo-hoc/giai-phau-tu-cung-buong-trung.png)
-_Giải phẫu tử cung – buồng trứng._
 
 - **Mặt trong** (mặt tự do): Lồi, hướng về phễu vòi tử cung và quai ruột.
 - **Mặt ngoài** (áp phúc mạc thành bên chậu): Nằm trong hố buồng trứng, giới hạn bởi
@@ -33,16 +33,16 @@ _Giải phẫu tử cung – buồng trứng._
 
 ### Mạch máu và bạch huyết
 
+_Hình ảnh "Giải phẫu mạch máu tử cung buồng trứng"._
 ![Giải phẫu mạch máu tử cung buồng trứng](./_images/giai-phau-mo-hoc/giai-phau-mach-mau-tu-cung-buong-trung.png)
-_Giải phẫu mạch máu tử cung buồng trứng._
 
-- **Động mạch buồng trứng**
+- **Động mạch buồng trứng**:
   - Tách từ động mạch chủ bụng ngang mức L2.
   - Chạy trong dây chằng treo, vào buồng trứng tại đầu vòi.
 - **Nhánh nối từ động mạch tử cung**: Chảy dọc dây chằng buồng trứng riêng, góp phần cấp máu cho cực dưới.
 - **Tĩnh mạch**: đám rối quanh rốn buồng trứng nên phải đổ vào tĩnh mạch chủ dưới. Bên trái đổ vào tĩnh mạch thận trái.
 - **Bạch huyết**: Theo mạch máu buồng trứng, đổ vào hạch thắt lưng (para-aortic).
-- **Thần kinh**
+- **Thần kinh**:
   - Sợi giao cảm từ đám rối mạc treo (renal–aortic plexus).
   - Sợi cảm giác theo mạch máu đến tủy sống T10–T12.
 
@@ -60,7 +60,7 @@ _Giải phẫu mạch máu tử cung buồng trứng._
 - **Vùng tuỷ** (medulla): Mô liên kết lỏng lẻo, chứa mạch máu, thần kinh, bạch huyết.
 - **Biểu mô phủ** (germinal epithelium): Tế bào vuông hoặc hình trụ thấp trên tunica albuginea.
 
-## Mối liên quan trên lâm sàng
+## Ứng dụng
 
 - **Thoát vị buồng trứng**: Hiếm do cấu trúc dây chằng.
 - **Tính mỏng vỏ**: Dễ vỡ nang trong hội chứng buồng trứng đa nang.

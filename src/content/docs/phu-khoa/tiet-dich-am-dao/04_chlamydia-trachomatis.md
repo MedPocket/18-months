@@ -93,25 +93,25 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
 - **NAAT (+)** hoặc **DFA/ELISA kháng nguyên (+)** trên mẫu dịch niệu đạo, dịch cổ tử cung, dịch trực tràng, hoặc nước tiểu.
 - Nếu không có xét nghiệm bảo đảm, có thể chẩn đoán lâm sàng – dịch tễ (khi tiếp xúc với nguồn bệnh hoặc triệu chứng gợi ý) để điều trị sớm, đồng thời làm xét nghiệm xác định sau.
-  :::
+
+:::
 
 ### Chẩn đoán phân biệt
 
 - **Viêm đường sinh dục – tiết niệu khác**:
-  - _Neisseria gonorrhoeae_: Tiểu buốt, tiểu nhiều, tiết dịch mủ, thường diễn biến nhanh (1–5 ngày sau quan hệ).
-  - _Trichomonas vaginalis_: Huyết trắng bọt, mùi tanh, ngứa âm đạo.
-  - _Mycoplasma genitalium_: Triệu chứng giống Chlamydia nhưng ít gặp và khó chẩn đoán.
+  - **Neisseria gonorrhoeae**: Tiểu buốt, tiểu nhiều, tiết dịch mủ, thường diễn biến nhanh (1–5 ngày sau quan hệ).
+  - **Trichomonas vaginalis**: Huyết trắng bọt, mùi tanh, ngứa âm đạo.
+  - **Mycoplasma genitalium**: Triệu chứng giống Chlamydia nhưng ít gặp và khó chẩn đoán.
 - **Viêm cổ tử cung**:
-  - _Gonorrhea, Herpes simplex virus (HSV)_: Loét, đau rát rõ hơn, dịch mủ hoặc loét nông.
-  - _Lao sinh dục_: Thăm khám thấy các ổ viêm, chảy máu dễ, cần cấy Mycobacterium tuberculosis.
-  - _Ureaplasma urealyticum, Ureaplasma parvum, Mycoplasma hominis_: Thường đồng nhiễm, khó tách biệt lâm sàng, cần xét nghiệm PCR chuyên biệt.
-  - _Cytomegalovirus (CMV)_: Hiếm nếu không suy giảm miễn dịch.
-  - _Liên cầu tan huyết beta nhóm B (Streptococcus agalactiae)_: Thường là tác nhân gây viêm hậu sản hơn là STD.
-- **Viêm hậu môn – trực tràng**:
-  - _Gonorrhea, Herpes simplex virus, Treponema pallidum (giang mai)_: Loét, mụn nước, ngứa dữ dội, scleroatrophic papulosis, có thể kèm u hạch.
-    :::caution
-    _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; do đó, khi nghi ngờ Chlamydia, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
-    :::
+  - **Gonorrhea, Herpes simplex virus (HSV)**: Loét, đau rát rõ hơn, dịch mủ hoặc loét nông.
+  - **Lao sinh dục**: Thăm khám thấy các ổ viêm, chảy máu dễ, cần cấy Mycobacterium tuberculosis.
+  - **Ureaplasma urealyticum, Ureaplasma parvum, Mycoplasma hominis**: Thường đồng nhiễm, khó tách biệt lâm sàng, cần xét nghiệm PCR chuyên biệt.
+  - **Cytomegalovirus (CMV)**: Hiếm nếu không suy giảm miễn dịch.
+  - **Liên cầu tan huyết beta nhóm B (Streptococcus agalactiae)**: Thường là tác nhân gây viêm hậu sản hơn là STD.
+- **Viêm hậu môn – trực tràng**: **Gonorrhea, Herpes simplex virus, Treponema pallidum (giang mai)**: Loét, mụn nước, ngứa dữ dội, scleroatrophic papulosis, có thể kèm u hạch.
+  :::caution
+  **N. gonorrhoeae** và **C. trachomatis** thường đồng nhiễm; do đó, khi nghi ngờ Chlamydia, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
+   :::
 
 ## Điều trị
 
@@ -127,54 +127,62 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
 #### Chlamydia sinh dục không biến chứng
 
-- **Phác đồ ưu tiên** (tùy chọn 1 hoặc 2):
-  - **Azithromycin 1 g uống liều duy nhất**
-    - Ưu điểm: Thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%.
-    - Thận trọng: Có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
-  - **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**
-    - Hiệu quả 97%.
-    - Thận trọng: Không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
-- **Phác đồ thay thế** (khi không thể dùng thuốc ưu tiên):
-  - **Tetracycline 500 mg uống 4 lần/ngày x 7 ngày**.
-  - **Erythromycin 500 mg uống 4 lần/ngày x 7 ngày** (tùy chọn cho phụ nữ có thai, nhưng dung nạp kém, nhiều tác dụng phụ tiêu hóa).
-  - **Ofloxacin 200–400 mg uống 2 lần/ngày x 7 ngày** (không dùng cho phụ nữ có thai).
-  - **Levofloxacin 500 mg uống 1 lần/ngày x 7 ngày** (không dùng cho phụ nữ có thai, giá thành cao).
+**Phác đồ ưu tiên** (tùy chọn 1 hoặc 2):
+
+- **Azithromycin 1 g uống liều duy nhất**
+  - Ưu điểm: Thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%.
+  - Thận trọng: Có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
+- **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**
+  - Hiệu quả 97%.
+  - Thận trọng: Không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
+
+**Phác đồ thay thế** (khi không thể dùng thuốc ưu tiên):
+
+- **Tetracycline 500 mg uống 4 lần/ngày x 7 ngày**.
+- **Erythromycin 500 mg uống 4 lần/ngày x 7 ngày** (tùy chọn cho phụ nữ có thai, nhưng dung nạp kém, nhiều tác dụng phụ tiêu hóa).
+- **Ofloxacin 200–400 mg uống 2 lần/ngày x 7 ngày** (không dùng cho phụ nữ có thai).
+- **Levofloxacin 500 mg uống 1 lần/ngày x 7 ngày** (không dùng cho phụ nữ có thai, giá thành cao).
 
 #### Chlamydia hậu môn – trực tràng (Rectal Chlamydia)
 
-- **Phác đồ ưu tiên**:
-  - **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**.
-  - **Azithromycin 1 g uống liều duy nhất** (ít ưu tiên hơn do hiệu quả ruột thấp hơn, đặc biệt lâm sàng ở rectal chlamydia).
+**Phác đồ ưu tiên**:
+
+- **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**.
+- **Azithromycin 1 g uống liều duy nhất** (ít ưu tiên hơn do hiệu quả ruột thấp hơn, đặc biệt lâm sàng ở rectal chlamydia).
 
 #### Bệnh hột xoài (LGV)
 
-- **Phác đồ ưu tiên**:
-  - **Doxycycline 100 mg uống 2 lần/ngày x 21 ngày**.
-  - **Azithromycin 1 g uống 1 lần/tuần x 3 tuần** (nếu không tuân thủ được doxycycline).
-- **Phác đồ thay thế** (khi không thể dùng doxycycline hoặc azithromycin):
-  - **Erythromycin 500 mg uống 4 lần/ngày x 7–10 ngày** (ít hiệu quả hơn, chỉ dùng khi không dùng được các thành phần trên).
+**Phác đồ ưu tiên**:
+
+- **Doxycycline 100 mg uống 2 lần/ngày x 21 ngày**.
+- **Azithromycin 1 g uống 1 lần/tuần x 3 tuần** (nếu không tuân thủ được doxycycline).
+
+**Phác đồ thay thế** (khi không thể dùng doxycycline hoặc azithromycin): **Erythromycin 500 mg uống 4 lần/ngày x 7–10 ngày** (ít hiệu quả hơn, chỉ dùng khi không dùng được các thành phần trên).
 
 #### Chlamydia ở phụ nữ có thai
 
-- **Phác đồ ưu tiên**:
-  - **Azithromycin 1 g uống liều duy nhất** (an toàn, hiệu quả tốt).
-  - **Amoxicillin 500 mg uống 3 lần/ngày x 7 ngày** (thay thế nếu dị ứng macrolide).
-    :::caution
-    Không sử dung **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây ảnh hưởng đến phát triển xương, răng thai nhi).
-    :::
+**Phác đồ ưu tiên**:
+
+- **Azithromycin 1 g uống liều duy nhất** (an toàn, hiệu quả tốt).
+- **Amoxicillin 500 mg uống 3 lần/ngày x 7 ngày** (thay thế nếu dị ứng macrolide).
+
+:::caution
+Không sử dung **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây ảnh hưởng đến phát triển xương, răng thai nhi).
+:::
 
 #### Chlamydia ở trẻ sơ sinh
 
-- **Viêm kết mạc**:
-  - **Erythromycin 0.5% kem bôi mắt** mỗi khi nhỏ mắt hoặc dùng **Azithromycin liều đơn (20 mg/kg uống)** nếu nặng.
-- **Viêm phổi bẩm sinh**:
-  - **Erythromycin 50 mg/kg/ngày chia 4 lần x 14 ngày**, nếu không đáp ứng, chuyển sang **TMP–SMX** theo cân nặng.
-    :::caution
+- **Viêm kết mạc**: **Erythromycin 0.5% kem bôi mắt** mỗi khi nhỏ mắt hoặc dùng **Azithromycin liều đơn (20 mg/kg uống)** nếu nặng.
+- **Viêm phổi bẩm sinh**: **Erythromycin 50 mg/kg/ngày chia 4 lần x 14 ngày**, nếu không đáp ứng, chuyển sang **TMP–SMX** theo cân nặng.
+
+:::caution
+
 - **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** không dùng cho phụ nữ có thai hoặc cho con bú.
 - **Metronidazole không dùng trong 3 tháng đầu thai kỳ**, nhưng có thể cân nhắc nếu kết hợp điều trị các STI phối hợp (Trichomonas).
 - **Erythromycin và Amoxicillin** là lựa chọn an toàn trong thai kỳ, nhưng tỷ lệ tuân thủ thấp hơn (Erythromycin dễ gây buồn nôn).
 - Tránh sử dụng kháng sinh đơn lẻ khi đồng nhiễm HIV, cần bổ sung kháng sinh dự phòng cơ hội.
-  :::
+
+:::
 
 ### Theo dõi sau điều trị
 

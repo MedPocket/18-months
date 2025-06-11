@@ -1,11 +1,12 @@
 ---
 title: Lậu
-description: Bệnh lậu (Gonorrhea) là nhiễm khuẩn lây truyền qua đường tình dục do song cầu khuẩn Gram âm _Neisseria gonorrhoeae_ gây ra.
+description: Bệnh lậu (Gonorrhea) là nhiễm khuẩn lây truyền qua đường tình dục do song cầu khuẩn Gram âm Neisseria gonorrhoeae gây ra.
 ---
 
-Bệnh lậu là bệnh lây truyền qua đường tình dục do song cầu khuẩn Gram âm _Neisseria gonorrhoeae_ gây ra. Vi khuẩn này chủ yếu lây qua quan hệ tình dục đường âm đạo, đường miệng hoặc đường hậu môn. Mức độ kháng thuốc của _N. gonorrhoeae_ đang ngày càng gia tăng, khiến việc chẩn đoán, điều trị và phòng ngừa trở nên thách thức hơn.
+Bệnh lậu là bệnh lây truyền qua đường tình dục do song cầu khuẩn Gram âm **Neisseria gonorrhoeae** gây ra. Vi khuẩn này chủ yếu lây qua quan hệ tình dục đường âm đạo, đường miệng hoặc đường hậu môn. Mức độ kháng thuốc của **N. gonorrhoeae** đang ngày càng gia tăng, khiến việc chẩn đoán, điều trị và phòng ngừa trở nên thách thức hơn.
+
+_Hình ảnh "N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm trong và ngoài bạch cầu trung tính"._
 ![N. gonorrhoeae](./_images/lau/song-cau-khuan.png)
-_N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm trong và ngoài bạch cầu trung tính._
 
 ## Chẩn đoán
 
@@ -15,7 +16,8 @@ _N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm t
 
 - Nam giới: ước tính 3–5 ngày (có thể sớm 2 ngày hoặc kéo dài đến 7 ngày).
 - Nữ giới: Thường 5–7 ngày, đôi khi kéo dài đến 14 ngày.
-  Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng vẫn có khả năng lây truyền.
+
+Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng vẫn có khả năng lây truyền.
 
 #### Không biến chứng
 
@@ -43,13 +45,12 @@ _N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm t
   - Viêm tiểu khung (PID): Lan ngược lên vòi trứng, buồng trứng, gây đau bụng dưới, sốt, đôi khi áp xe buồng trứng.
   - Viêm vòi trứng và áp xe vòi trứng: Có thể gây tắc vòi, dẫn đến vô sinh hoặc chửa ngoài tử cung.
   - Viêm nội mạc tử cung: Nhẹ triệu chứng nhưng ảnh hưởng niêm mạc tử cung.
-  - Mang thai: Tăng nguy cơ sinh non, vỡ ối non, thai nhi nhẹ cân.
+  - Mang thai: Tăng nguy cơ sinh non, vỡ ối non, thai nhi nhẹ cân.<br>
+    _Hình ảnh "Tiết dịch cơ quan sinh dục"._
     ![Tiết dịch cơ quan sinh dục](./_images/lau/tiet-dich-co-quan-sinh-duc.png)
-    _Tiết dịch cơ quan sinh dục._
-- **Trẻ sơ sinh** (lây nhiễm qua đường sinh dục khi mẹ nhiễm lậu)
-  - Viêm kết mạc mắt: Khởi phát 2–5 ngày sau sinh, chảy mủ mắt, sưng mí, nếu không điều trị có thể dẫn đến loét giác mạc, sẹo và mù loà.
+    _Hình ảnh "Lậu hầu họng"._
     ![Lậu hầu họng](./_images/lau/lau-hau-hong.png)
-    _Lậu hầu họng._
+- **Trẻ sơ sinh** (lây nhiễm qua đường sinh dục khi mẹ nhiễm lậu): **Viêm kết mạc mắt** khởi phát 2–5 ngày sau sinh, chảy mủ mắt, sưng mí, nếu không điều trị có thể dẫn đến loét giác mạc, sẹo và mù loà.
 
 ### Cận lâm sàng
 
@@ -82,29 +83,28 @@ _N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm t
   - Kết quả nhanh (vài giờ đến 1 ngày).
   - Có thể sàng lọc người không triệu chứng (nữ, quan hệ bằng miệng, hậu môn).
 - **Hạn chế**:
+
   - Không cung cấp kháng sinh đồ.
   - Chi phí cao hơn so với nhuộm Gram hoặc nuôi cấy.
-    :::caution
-    Tại cơ sở không đủ điều kiện xét nghiệm, có thể chẩn đoán lâm sàng và điều trị theo hướng dẫn. Tại cơ sở có điều kiện, nên kết hợp lâm sàng và cận lâm sàng để chẩn đoán chính xác.  
-    :::
+
+  :::caution
+  Tại cơ sở không đủ điều kiện xét nghiệm, có thể chẩn đoán lâm sàng và điều trị theo hướng dẫn. Tại cơ sở có điều kiện, nên kết hợp lâm sàng và cận lâm sàng để chẩn đoán chính xác.  
+  :::
 
 ### Chẩn đoán phân biệt
 
 - **Lậu sinh dục**:
-  - _Chlamydia trachomatis_: Tiết dịch mủ niệu đạo hoặc dịch âm đạo tương tự, nhưng thường ít mủ hơn, soi tươi nhuộm Gram không thấy song cầu.
-  - _Trichomonas vaginalis_: Huyết trắng bọt, mùi tanh, soi tươi thấy trùng roi lắc lư.
-  - _Candida albicans_: Khí hư đặc, trắng như phô mai, ngứa nhiều, soi tươi thấy bào tử và giả sợi.
-  - _Ureaplasma urealyticum_/_Mycoplasma genitalium_: Ít triệu chứng, tiểu buốt, chẩn đoán bằng PCR chuyên biệt.
+  - **Chlamydia trachomatis**: Tiết dịch mủ niệu đạo hoặc dịch âm đạo tương tự, nhưng thường ít mủ hơn, soi tươi nhuộm Gram không thấy song cầu.
+  - **Trichomonas vaginalis**: Huyết trắng bọt, mùi tanh, soi tươi thấy trùng roi lắc lư.
+  - **Candida albicans**: Khí hư đặc, trắng như phô mai, ngứa nhiều, soi tươi thấy bào tử và giả sợi.
+  - **Ureaplasma urealyticum**/**Mycoplasma genitalium**: Ít triệu chứng, tiểu buốt, chẩn đoán bằng PCR chuyên biệt.
   - Viêm niệu đạo không do nhiễm trùng (viêm do chấn thương, kích ứng hóa chất).
-- **Lậu hậu môn – trực tràng**:
-  - _Chlamydia trachomatis_, _Treponema pallidum_ (giang mai), _Herpes simplex virus_ (HSV), _Candida_; cần soi, nuôi cấy, NAATs đặc hiệu.
-- **Lậu hầu họng**:
-  - _Streptococcus nhóm A_ (viêm họng liên cầu), _Mycoplasma pneumoniae_, _Chlamydia pneumoniae_, virus đường hô hấp.
-- **Viêm kết mạc mắt do lậu ở trẻ sơ sinh**:
-  - _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_, _Chlamydia trachomatis_; cần nuôi cấy mẫu mủ mắt, NAATs nếu có.
     :::caution
-    _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi nghi ngờ lậu, luôn làm thêm xét nghiệm Chlamydia (NAATs) để điều trị đồng thời.  
+    **N. gonorrhoeae** và **C. trachomatis** thường đồng nhiễm. Do đó, khi nghi ngờ lậu, luôn làm thêm xét nghiệm Chlamydia (NAATs) để điều trị đồng thời.  
     :::
+- **Lậu hậu môn – trực tràng**: **Chlamydia trachomatis**, **Treponema pallidum** (giang mai), **Herpes simplex virus** (HSV), **Candida**; cần soi, nuôi cấy, NAATs đặc hiệu.
+- **Lậu hầu họng**: **Streptococcus nhóm A** (viêm họng liên cầu), **Mycoplasma pneumoniae**, **Chlamydia pneumoniae**, virus đường hô hấp.
+- **Viêm kết mạc mắt do lậu ở trẻ sơ sinh**: **Staphylococcus aureus**, **Streptococcus pneumoniae**, **Haemophilus influenzae**, **Chlamydia trachomatis**; cần nuôi cấy mẫu mủ mắt, NAATs nếu có.
 
 ## Điều trị
 
@@ -121,25 +121,25 @@ _N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm t
 #### Lậu sinh dục và hậu môn – trực tràng
 
 - **Ưu tiên** (dựa vào kháng sinh đồ nếu có):
-  1. **Ceftriaxon 250 mg tiêm bắp liều duy nhất**.
-  2. **Spectinomycin 2 g tiêm bắp liều duy nhất** (nếu không dùng được cephalosporin).
-  3. **Cefixim 400 mg uống liều duy nhất** (thay thế khi không tiêm bắp được).
-- **Kết hợp**:
-  - **Azithromycin 1 g uống liều duy nhất** để điều trị đồng nhiễm _Chlamydia trachomatis_.
-    :::caution
+  - **Ceftriaxon 250 mg tiêm bắp liều duy nhất**.
+  - **Spectinomycin 2 g tiêm bắp liều duy nhất** (nếu không dùng được cephalosporin).
+  - **Cefixim 400 mg uống liều duy nhất** (thay thế khi không tiêm bắp được).
+- **Kết hợp**: **Azithromycin 1 g uống liều duy nhất** để điều trị đồng nhiễm _Chlamydia trachomatis_.
+
+:::caution
+
 - Phác đồ trên áp dụng cho cả phụ nữ mang thai (Ceftriaxon tiêm bắp an toàn, Azithromycin an toàn khi điều trị Chlamydia).
 - Nếu tiền sử dị ứng ceftriaxon hoặc cephalosporin thế hệ ba.
-  :::
+
+:::
 
 #### Lậu hầu họng
 
 - **Ưu tiên**:
-  1. **Ceftriaxon 250 mg tiêm bắp liều duy nhất**
-  2. **Cefixim 400 mg uống liều duy nhất** (nếu không tiêm bắp được)
-- **Kết hợp**:
-  - **Azithromycin 1 g uống liều duy nhất** để điều trị đồng nhiễm Chlamydia.
-- **Theo dõi**:
-  - Tái khám sau 7–14 ngày để kiểm tra bằng nuôi cấy hoặc NAATs (lưu ý dương tính giả do tồn dư acid nucleic). Nếu NAAT (+), làm nuôi cấy để khẳng định kháng thuốc trước khi điều trị lại.
+  - **Ceftriaxon 250 mg tiêm bắp liều duy nhất**
+  - **Cefixim 400 mg uống liều duy nhất** (nếu không tiêm bắp được)
+- **Kết hợp**: **Azithromycin 1 g uống liều duy nhất** để điều trị đồng nhiễm Chlamydia.
+- **Theo dõi**: Tái khám sau 7–14 ngày để kiểm tra bằng nuôi cấy hoặc NAATs (lưu ý dương tính giả do tồn dư acid nucleic). Nếu NAAT (+), làm nuôi cấy để khẳng định kháng thuốc trước khi điều trị lại.
 
 #### Lậu mắt ở trẻ sơ sinh
 
@@ -153,8 +153,12 @@ _N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm t
   - Dung dịch Povidon Iod 2.5% (dung môi nước).
   - Dung dịch bạc nitrat 1%.
   - Mỡ Chloramphenicol 1%.
-    _Lưu ý: Tránh chạm mắt khi tra thuốc. Không dùng Povidon Iod dung môi cồn do kích ứng._
     :::caution
+    Tránh chạm mắt khi tra thuốc. Không dùng Povidon Iod dung môi cồn do kích ứng.
+    :::
+
+#### Trường hợp đặc biệt
+
 - **Dị ứng Penicillin/cephalosporin**:
   - Nguy cơ phản ứng chéo giữa Penicillin và Cephalosporin thế hệ đầu cao hơn, nhưng với cephalosporin thế hệ ba (Ceftriaxon, Cefixim) nguy cơ rất thấp (< 1%).
   - Nếu nghi ngờ quá mẫn IgE với Penicillin, có thể dùng:
@@ -163,9 +167,7 @@ _N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm t
 - **Phụ nữ mang thai**:
   - Điều trị bằng **Ceftriaxon 250 mg tiêm bắp liều duy nhất** + **Azithromycin 1 g uống liều duy nhất** (nếu chưa loại trừ nhiễm Chlamydia).
   - Tránh dùng Gentamicin vì nguy cơ độc tính trên tai và thận của thai nhi.
-- **Người nhiễm HIV**:
-  - Điều trị tương tự người không nhiễm HIV; lưu ý nguy cơ kháng thuốc cao hơn, cần theo dõi kỹ đáp ứng điều trị.
-    :::
+- **Người nhiễm HIV**: Điều trị tương tự người không nhiễm HIV; lưu ý nguy cơ kháng thuốc cao hơn, cần theo dõi kỹ đáp ứng điều trị.
 
 ### Thất bại điều trị
 
@@ -174,7 +176,8 @@ Xác định thất bại điều trị khi:
 1. **Triệu chứng không cải thiện** sau 3–5 ngày điều trị, không có quan hệ tình dục trở lại.
 2. **Nuôi cấy dương tính** sau ≥ 3 ngày điều trị hoặc **NAAT (+)** sau ≥ 7 ngày điều trị, không quan hệ tình dục.
 3. **Kháng sinh đồ** cho thấy giảm nhạy cảm với cephalosporin, dù có quan hệ tình dục lại hay không.
-   **Phác đồ điều trị lại**:
+
+**Phác đồ điều trị lại**:
 
 - Nếu đã điều trị theo hướng dẫn:
   - **Ceftriaxon 500 mg tiêm bắp liều duy nhất** + **Azithromycin 2 g uống liều duy nhất**.
@@ -190,7 +193,7 @@ Xác định thất bại điều trị khi:
 - **Tái khám 3 tháng**: Tất cả trường hợp nhiễm lậu sinh dục hoặc trực tràng không biến chứng nên làm NAAT sau 3 tháng kể từ khi điều trị để phát hiện tái nhiễm, kể cả khi không còn triệu chứng.
 - **Nếu không thể tái khám sau 3 tháng**: Có thể xét nghiệm lại bất kỳ lúc nào trong 3–12 tháng sau điều trị đầu tiên.
 - **Nhiễm lậu hầu họng**: Tái khám sau 7–14 ngày để kiểm tra bằng nuôi cấy hoặc NAAT; lưu ý NAAT sau 7 ngày có thể dương tính giả do mảnh gien còn tồn tại, nên ưu tiên nuôi cấy để khẳng định.
-- **Viêm niệu đạo, viêm cổ tử cung hoặc viêm trực tràng dai dẳng**: Xem xét nguyên nhân khác (ví dụ: _Mycoplasma genitalium_, _Ureaplasma urealyticum_, _HSV_), làm xét nghiệm bổ sung khi cần.
+- **Viêm niệu đạo, viêm cổ tử cung hoặc viêm trực tràng dai dẳng**: Xem xét nguyên nhân khác (ví dụ: **Mycoplasma genitalium**, **Ureaplasma urealyticum**, **HSV**), làm xét nghiệm bổ sung khi cần.
 
 ## Phòng bệnh
 
@@ -200,7 +203,7 @@ Xác định thất bại điều trị khi:
   - Hạn chế số bạn tình, sàng lọc STI định kỳ nếu có nguy cơ cao.
 - **Khám sàng lọc định kỳ**: Đối với nhóm nguy cơ cao (trẻ vị thành niên, phụ nữ < 25 tuổi, nam quan hệ tình dục đồng giới, người chuyển giới, mại dâm).
 - **Đào tạo chuyên môn**: Cập nhật kiến thức về kháng thuốc lậu cầu cho các bác sĩ đa khoa, chuyên khoa da liễu và sản phụ khoa.
-- **Theo dõi kháng thuốc**: Đẩy mạnh nuôi cấy và làm kháng sinh đồ để giám sát mức độ kháng thuốc của _N. gonorrhoeae_ tại địa phương.
+- **Theo dõi kháng thuốc**: Đẩy mạnh nuôi cấy và làm kháng sinh đồ để giám sát mức độ kháng thuốc của **N. gonorrhoeae** tại địa phương.
 
 ## Nguồn tham khảo
 

@@ -5,7 +5,7 @@ description: Các đặc điểm sinh lý của hệ trục hạ đồi–tuyế
 
 Tuổi dậy thì ở bé gái là tiến trình chuyển hóa sinh lý quan trọng, chuyển đổi từ cá thể chưa trưởng thành trở thành người phụ nữ có khả năng sinh sản. Quá trình này thường bắt đầu khi bé gái khoảng 8–10 tuổi và kết thúc khi hệ trục hạ đồi–tuyến yên–buồng trứng ổn định, với kinh nguyệt đều đặn.
 
-## Hệ trục hạ đồi–tuyến yên–buồng trứng
+## Trục hạ đồi–tuyến yên–buồng trứng
 
 Hệ trục hạ đồi–tuyến yên–buồng trứng (HPG axis) ở tuổi dậy thì chưa hoàn thiện và rất không ổn định.
 
@@ -25,7 +25,7 @@ Hệ trục hạ đồi–tuyến yên–buồng trứng (HPG axis) ở tuổi d
      - Thiếu hoặc bất toàn hoàng thể → progesterone thấp → nội mạc không phân tiết đầy đủ → bong tróc không đều, gây rối loạn kinh nguyệt.
    - Cơ chế này kéo dài trong vài năm, dẫn đến xuất huyết tử cung cơ năng tuổi dậy thì.
 
-## Biểu hiện
+## Bệnh sinh
 
 - **Lần hành kinh đầu tiên**: Bản chất là sự sụp đổ nội mạc tử cung do thiếu hụt steroid (cả estrogen và progesterone hoặc chỉ estrogen).
 - **Sau đó**:
@@ -56,21 +56,18 @@ Chẩn đoán XHTC cơ năng tuổi dậy thì là chẩn đoán loại trừ. K
      - Corticosteroid, thuốc hướng thần kinh, thuốc kháng đông, thuốc NSAIDs kéo dài...
      - Các thuốc làm tăng prolactin (antipsychotics, antiemetics, PPI) → gây ức chế trục HPG.
 2. **Nguyên nhân tại sinh dục (thực thể)**
-   - **Nhiễm trùng**:
-     - Viêm nhiễm âm đạo, cổ tử cung liên quan hoặc không liên quan đến tình dục (vi khuẩn, virus, nấm).
+   - **Nhiễm trùng**: Viêm nhiễm âm đạo, cổ tử cung liên quan hoặc không liên quan đến tình dục (vi khuẩn, virus, nấm).
    - **Tổn thương u buồng trứng**:
      - U tế bào vỏ-hạt (Granulosa–Theca cell tumor): Sản xuất estrogen cục bộ → tăng sinh nội mạc.
      - U tế bào mầm, u nang buồng trứng, nang hoàng thể bất thường...
-   - **Bệnh lý tử cung**:
-     - Polyp nội mạc, dính buồng tử cung, Dị dạng bẩm sinh tử cung (hiếm gặp ở tuổi dậy thì).
-   - **Nội tiết sinh dục ngoại lai**:
-     - Sử dụng progestin, estrogens (thường là tránh thai khẩn cấp) → gây rối loạn nội mạc.
-   - **Thai kỳ**:
-     - Mặc dù phóng noãn hiếm, nhưng không loại trừ khả năng có Thai(> 1%): Cần đo β-hCG.
+   - **Bệnh lý tử cung**: Polyp nội mạc, dính buồng tử cung, Dị dạng bẩm sinh tử cung (hiếm gặp ở tuổi dậy thì).
+   - **Nội tiết sinh dục ngoại lai**: Sử dụng progestin, estrogens (thường là tránh thai khẩn cấp) → gây rối loạn nội mạc.
+   - **Thai kỳ**: Mặc dù phóng noãn hiếm, nhưng không loại trừ khả năng có Thai(> 1%): Cần đo β-hCG.
 3. **Rối loạn phóng noãn sinh lý tuổi dậy thì**
    - Do tính không ổn định kéo dài của phản hồi dương estrogen–LH, dẫn đến chu kỳ không phóng noãn chiếm ưu thế.
    - Chu kỳ không phóng noãn → hoàng thể bất toàn hoặc vắng mặt progesterone → nội mạc không phân tiết → bong tróc không đều.
-     Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, nếu xuất huyết xảy ra kèm theo bằng chứng chu kỳ không phóng noãn kéo dài, có thể chẩn đoán XHTC cơ năng tuổi dậy thì.
+
+Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, nếu xuất huyết xảy ra kèm theo bằng chứng chu kỳ không phóng noãn kéo dài, có thể chẩn đoán XHTC cơ năng tuổi dậy thì.
 
 ## Tiếp cận
 
@@ -87,10 +84,8 @@ Chẩn đoán XHTC cơ năng tuổi dậy thì là chẩn đoán loại trừ. K
   - Tuổi mới có kinh lần đầu (menarche).
   - Tần suất (chu kỳ dài/ ngắn), độ dài kỳ kinh, lượng máu, có cục máu đông không.
   - Triệu chứng kèm theo: đau bụng kinh, mệt mỏi, choáng váng.
-- **Hoạt động tình dục**:
-  - Kể cả thủ dâm, đánh giá nguy cơ STD, khả năng có thai.
-- **Thuốc sử dụng**:
-  - Thuốc tránh thai khẩn cấp, progestin, corticosteroid, kháng đông, NSAIDs lâu ngày, thuốc hướng thần kinh...
+- **Hoạt động tình dục**: Kể cả thủ dâm, đánh giá nguy cơ STD, khả năng có thai.
+- **Thuốc sử dụng**: Thuốc tránh thai khẩn cấp, progestin, corticosteroid, kháng đông, NSAIDs lâu ngày, thuốc hướng thần kinh...
 
 #### Thực thể
 
@@ -101,8 +96,7 @@ Chẩn đoán XHTC cơ năng tuổi dậy thì là chẩn đoán loại trừ. K
   - **Cường androgen**: Acanthosis nigricans, rậm lông (hirsutism), mụn trứng cá.
   - **Tuyến giáp**: Bướu cổ, dấu hiệu cường hoặc suy giáp (run, thay đổi cân nặng, tóc khô giòn...).
   - **Thượng thận**: Teo cơ, xanh xao, vết rạn da, tăng huyết áp gợi ý Cushing.
-- **Chỉ số BMI**:
-  - Thừa cân/ béo phì → nguy cơ PCOS, kháng insulin, rối loạn phóng noãn.
+- **Chỉ số BMI**: Thừa cân/ béo phì → nguy cơ PCOS, kháng insulin, rối loạn phóng noãn.
 - **Thực thể**:
   - Đánh giá giai đoạn vú (theo Tanner), lông mu.
   - Khám âm đạo bằng móng tay (nếu đã hoạt động tình dục) hoặc siêu âm qua thành bụng/ đầu dò nhỏ để phát hiện khối u, bất thường cấu trúc.
@@ -130,10 +124,12 @@ Chẩn đoán XHTC cơ năng tuổi dậy thì là chẩn đoán loại trừ. K
 - **Siêu âm Doppler hoặc SIS** (siêu âm bơm nước buồng tử cung) nếu nghi polyp, dính, bất thường lòng tử cung.
 - **MRI tuyến yên** nếu Prolactin tăng cao nghiêm trọng (> 100 ng/mL) hoặc có triệu chứng u tuyến yên (nhức đầu, rối loạn thị giác).
 
-## Chẩn đoán
+:::caution
 
 - Sau khi có kết quả cận lâm sàng, loại trừ các nguyên nhân bệnh lý gây XHTC (tổn thương thực thể, rối loạn đông máu, bệnh nội tiết, có thai...).
 - Nếu không phát hiện nguyên nhân thực thể hay toàn thân, kết hợp lâm sàng cho thấy chu kỳ không phóng noãn kéo dài, chẩn đoán XHTC cơ năng tuổi dậy thì.
+
+::::
 
 ## Điều trị
 
@@ -149,8 +145,7 @@ Chẩn đoán XHTC cơ năng tuổi dậy thì là chẩn đoán loại trừ. K
 - **Khi chảy máu nhẹ và không ảnh hưởng sinh hoạt**:
   - Có thể chỉ theo dõi, hỗ trợ tâm lý, khuyến khích dinh dưỡng đầy đủ, tránh căng thẳng.
   - Không dùng nội tiết nếu không thật cần thiết, vì có thể làm trục HPG trì trệ lâu hơn.
-- **Khi chảy máu nhiều hoặc kéo dài ảnh hưởng đến học tập, sinh hoạt**:
-  - Cân nhắc can thiệp nội tiết để cầm máu và ổn định nội mạc.
+- **Khi chảy máu nhiều hoặc kéo dài ảnh hưởng đến học tập, sinh hoạt**: Cân nhắc can thiệp nội tiết để cầm máu và ổn định nội mạc.
 
 ### Liệu pháp progestogen
 
@@ -161,12 +156,9 @@ Chỉ định khi chảy máu do chu kỳ không phóng noãn, nội mạc dày 
    - Sau ngưng progestogen, gây "hành kinh tống sạch" nội mạc cũ.
    - Tiếp tục theo dõi chờ phóng noãn tự nhiên.
 2. **Chọn progestogen**:
-   - Ưu tiên **dydrogesterone** (Retrogeston®, Duphaston®):
-     - Ái lực cao với thụ thể progesterone, vừa đủ kháng estrogen, ít ức chế trục HPG.
-   - **Lynestrenol**, **Norethindrone**:
-     - Kháng estrogen mạnh nhưng ức chế hạ đồi cao, dùng ngắn ngày sẽ ít tác động lâu dài.
-   - **Retroprogesterone** (Drospirenone, Desogestrel):
-     - Ít ức chế LH, cân bằng lý tưởng, dùng khi không muốn ảnh hưởng trục lâu dài.
+   - Ưu tiên **dydrogesterone** (Retrogeston®, Duphaston®): Ái lực cao với thụ thể progesterone, vừa đủ kháng estrogen, ít ức chế trục HPG.
+   - **Lynestrenol**, **Norethindrone**: Kháng estrogen mạnh nhưng ức chế hạ đồi cao, dùng ngắn ngày sẽ ít tác động lâu dài.
+   - **Retroprogesterone** (Drospirenone, Desogestrel): Ít ức chế LH, cân bằng lý tưởng, dùng khi không muốn ảnh hưởng trục lâu dài.
 3. **Liều và thời gian**:
    - Dydrogesterone 10 mg × 2 lần/ngày (sáng–tối) trong 10–14 ngày; hoặc
    - Lynestrenol 5 mg × 2 lần/ngày trong 10–14 ngày.
@@ -174,9 +166,10 @@ Chỉ định khi chảy máu do chu kỳ không phóng noãn, nội mạc dày 
 4. **Theo dõi sau điều trị**:
    - Giúp bé uống đủ liệu trình, theo dõi lượng máu, tính chất máu khi "hành kinh tống sạch".
    - Sau khi hết chảy máu, tiếp tục theo dõi lịch kinh để đánh giá sự xuất hiện của chu kỳ phóng noãn đầu tiên.
-     :::caution
-     Chọn progestogen có **tính kháng estrogen** vừa đủ và **ít ức chế hạ đồi** để không trì hoãn quá trình hoàn thiện trục HPG.  
-     :::
+
+:::caution
+Chọn progestogen có **tính kháng estrogen** vừa đủ và **ít ức chế hạ đồi** để không trì hoãn quá trình hoàn thiện trục HPG.  
+:::
 
 ### Liệu pháp phối hợp estrogen và progestogen
 
@@ -186,12 +179,13 @@ Chỉ định khi chảy máu nặng, mất máu nhiều, hoặc nội mạc bon
    - Estrogen ngoại sinh giúp tạo nhanh một lớp nội mạc tạm thời, bít kín các mạch máu hở.
    - Sau đó phối hợp progestogen để phân tiết hóa nội mạc do estrogen tạo ra → ổn định hơn → giảm tái phát.
 2. **Chọn estrogen**:
-   - _Ethinyl estradiol_ (từ viên COC) hoặc _Estrogen liên hợp_ (Premarin®) liều đủ cao.
+   - **Ethinyl estradiol** (từ viên COC) hoặc **Estrogen liên hợp** (Premarin®) liều đủ cao.
    - Liều tối ưu: Tương đương Ethinyl estradiol 2 mg/ngày trong 7–10 ngày, không khuyến cáo liều càng cao càng tốt, vì tác dụng genomic cần thời gian.
    - Cung cấp qua đường uống; thụt hậu môn hoặc truyền TM hiếm sử dụng ở lứa tuổi này.
 3. **Chọn progestogen**:
    - Sau 7–10 ngày dùng estrogen, thêm dydrogesterone 10 mg × 2/ngày trong 10–14 ngày.
-   - Hoặc dùng phối hợp COC (Ethinyl estradiol + Levonorgestrel) liều trung bình (Ethinyl estradiol 30 µg) liên tục trong 21–28 ngày.
+   - Hoặc dùng phối hợp COC (Ethinyl estradiol + Levonorgestrel) liều trung bình (Ethinyl estradiol 30 µg) liên tục trong 21–28 ngày.<br>
+     _Bảng "Tóm lược hoạt tính của các progestin. Các progestin dẫn xuất 19-nor testosterone có kháng estrogen mạnh nhưng ảnh hưởng hạ đồi cao, nhóm retroprogesterone ít ức chế trục nhất. Ghi chú (+) có tác dụng; (±) tác dụng yếu, (-) không có tác dụng này"._
      | Loại progestin | Tính progestogen | Tính kháng gonadotropin | Tính kháng estrogen | Tính estrogen androgen | Tính androgen | Tính kháng glucocorticoid | Tính kháng mineralocort. |
      | ------------------------------------------ | ---------------- | ----------------------- | ------------------- | ---------------------- | ------------- | ------------------------- | ------------------------ |
      | **Dẫn xuất gần với progesterone tự nhiên** | | | | | | | |
@@ -218,17 +212,16 @@ Chỉ định khi chảy máu nặng, mất máu nhiều, hoặc nội mạc bon
      | 3-keto-desogestrel | + | + | + | - | + | - | - |
      | Gestodene | + | + | + | - | + | - | + |
      | Dienogest | + | + | ± | ± | - | + | - |
-     _Tóm lược hoạt tính của các progestin. Các progestin dẫn xuất 19-nor testosterone có kháng estrogen mạnh nhưng ảnh hưởng hạ đồi cao, nhóm retroprogesterone ít ức chế trục nhất. Ghi chú (+) có tác dụng; (±) tác dụng yếu, (-) không có tác dụng này._
 4. **Theo dõi**:
    - Bé gái cần uống đều đặn, ghi lại ngày bắt đầu và kết thúc chảy máu.
    - Sau khi hoàn thành liệu trình, nếu hết chảy máu thì chuyển sang theo dõi chu kỳ tự nhiên.
    - Nếu vẫn ra máu nhiều, cân nhắc đánh giá lại nguyên nhân (có thể kèm theo u thực thể, rối loạn đông nặng...).
-     :::caution
-     COC giúp cầm máu khá hiệu quả, nhưng có thể ức chế hạ đồi mạnh, nên chỉ sử dụng ngắn hạn. Dùng dài hạn có thể ảnh hưởng lâu dài đến hoạt động trục HPG.  
-     :::
    - **Nếu sau 2–3 năm** kinh nguyệt vẫn không đều, xuất huyết tái phát nhiều lần:
      - Cần đánh giá lại toàn diện, tìm nguyên nhân rối loạn phóng noãn vĩnh viễn (PCOS, rối loạn tuyến giáp, rối loạn cushing, nguyên nhân di truyền...).
      - Có thể cần hội chẩn nội tiết, sản khoa – nhi khoa để tiếp tục điều trị chuyên sâu.
+       :::caution
+       COC giúp cầm máu khá hiệu quả, nhưng có thể ức chế hạ đồi mạnh, nên chỉ sử dụng ngắn hạn. Dùng dài hạn có thể ảnh hưởng lâu dài đến hoạt động trục HPG.  
+       :::
 
 ## Nguồn tham khảo
 

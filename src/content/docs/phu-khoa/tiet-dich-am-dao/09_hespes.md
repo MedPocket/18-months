@@ -18,13 +18,12 @@ Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV typ
 2. **Tổn thương tại chỗ**
    - Vị trí: Vùng mu, môi lớn – môi bé, âm đạo, cổ tử cung (phụ nữ), bao quy đầu – thân dương vật, bìu (nam), quanh hậu môn (cả hai giới).
    - Giai đoạn khởi phát (lần đầu):
+     _Hình ảnh "Herpes sinh dục: Mụn nước, vết loét ở vùng môi bé và âm đạo"._
+     ![Herpes sinh dục](./_images/herpes/herpes.jpg)
      - Ban đầu là các đám mụn nước nhỏ (hạt kê) mọc thành cụm, nổi cao trên nền da niêm đỏ.
      - Sau 1–2 ngày, mụn nước vỡ, tạo thành các vết loét nông, rìa vết loét không đều, đáy ướt, rỉ dịch, đau dữ dội, kèm cảm giác bỏng rát.
      - Vết loét thường kéo dài 2–3 tuần mới tái tạo da hoàn toàn.
-   - Khí hư (ở phụ nữ):
-     - Thường xuất hiện dịch tiết âm đạo đục, đôi khi lẫn máu hoặc mủ nếu có bội nhiễm.
-       ![Herpes sinh dục](./_images/herpes/herpes.jpg)
-       _Herpes sinh dục: Mụn nước, vết loét ở vùng môi bé và âm đạo._
+   - Khí hư (ở phụ nữ): Thường xuất hiện dịch tiết âm đạo đục, đôi khi lẫn máu hoặc mủ nếu có bội nhiễm.
 3. **Hạch bẹn**
    - Xuất hiện hạch bẹn lớn, thường 1 hoặc 2 bên, hạch mềm, di động, đau khi sờ.
    - Trong lần nhiễm đầu tiên, hạch bẹn thường to và đau nhiều hơn so với các đợt tái phát.
@@ -63,10 +62,8 @@ Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV typ
 - **Acyclovir**:
   - 400 mg uống 3 lần/ngày x 7–10 ngày.
   - Hoặc 200 mg uống 5 lần/ngày x 7–10 ngày.
-- **Famciclovir**:
-  - 250 mg uống 3 lần/ngày x 7–10 ngày.
-- **Valacyclovir**:
-  - 1 g uống 2 lần/ngày x 7–10 ngày.
+- **Famciclovir**: 250 mg uống 3 lần/ngày x 7–10 ngày.
+- **Valacyclovir**: 1 g uống 2 lần/ngày x 7–10 ngày.
 - Tất cả các chế phẩm trên cần bắt đầu càng sớm càng tốt, lý tưởng trong vòng 72 giờ kể từ khi xuất hiện ban đầu để đạt hiệu quả tối ưu.
 
 ### Giai đoạn tái phát
@@ -97,8 +94,7 @@ Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV typ
   - Rửa vùng sinh dục bằng nước muối ấm pha loãng hoặc dung dịch sát khuẩn nhẹ (ví dụ Chlorhexidine 0.05%) 2 – 3 lần/ngày, nhẹ nhàng để tránh kích ứng thêm.
   - Giữ khô thoáng, tránh mặc đồ bó sát, quần lót bằng sợi tổng hợp – ưu tiên cotton.
   - Không dùng quần lót chung hay cọ xát mạnh lên vết loét để hạn chế lây nhiễm và bội nhiễm.
-- **Kháng sinh dự phòng hoặc điều trị bội nhiễm**:
-  - Chỉ khi có bằng chứng bội nhiễm vi khuẩn (chảy mủ đục, mùi hôi, sốt cao, hạch bẹn sưng to, đau nhiều hơn) mới dùng kháng sinh kín phổ (Cephalosporin thế hệ 2–3, hay β-lactam kết hợp clavulanate) trong 5–7 ngày hoặc điều trị theo kháng sinh đồ.
+- **Kháng sinh dự phòng hoặc điều trị bội nhiễm**: Chỉ khi có bằng chứng bội nhiễm vi khuẩn (chảy mủ đục, mùi hôi, sốt cao, hạch bẹn sưng to, đau nhiều hơn) mới dùng kháng sinh kín phổ (Cephalosporin thế hệ 2–3, hay β-lactam kết hợp clavulanate) trong 5–7 ngày hoặc điều trị theo kháng sinh đồ.
 
 ### Dự phòng tái phát
 
@@ -106,7 +102,9 @@ Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV typ
   - Acyclovir 400 mg uống 2 lần/ngày.
   - Valacyclovir 500 mg uống 1 lần/ngày.
   - Thời gian: 6–12 tháng, đánh giá lại mỗi 6 tháng để quyết định tiếp tục hay ngừng.
-    :::caution
+
+:::caution
+
 - **Thuốc kháng virus hiện nay không thể loại bỏ hoàn toàn HSV trong cơ thể**, chỉ ức chế sự nhân lên của virus, giảm mức độ triệu chứng và rút ngắn thời gian lành thương.
 - **Nguy cơ nhiễm HIV**: Người bị Herpes sinh dục có nguy cơ nhiễm HIV cao hơn do tổn thương niêm mạc tạo điều kiện cho HIV xâm nhập.
 - **Nguy cơ lây cho bạn tình và thai nhi**:
@@ -118,7 +116,8 @@ Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV typ
   - Từ tuần 36 thái kỳ, có thể dùng Valacyclovir 500 mg uống 2 lần/ngày để giảm nguy cơ tái phát tại thời điểm sinh.
   - Nếu có tổn thương hoạt động (tiếp tục có mụn nước, vết loét) khi chuyển dạ, chỉ định sinh mổ để tránh lây nhiễm cho trẻ.
   - Nếu không có tổn thương (đã lành > 4 tuần), có thể cân nhắc sinh đường âm đạo nhưng cần kiểm tra kỹ âm đạo – cổ tử cung trước khi chuyển dạ.
-    :::
+
+:::
 
 ### Theo dõi sau điều trị
 
@@ -129,8 +128,7 @@ Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV typ
 - **Khám phụ khoa/nội tiết định kỳ (nữ)**:
   - Đánh giá tình trạng nhiễm khuẩn phối hợp, HPV, tầm soát ung thư cổ tử cung theo khuyến cáo (Pap smear, HPV-DNA test).
   - Tư vấn sức khỏe sinh sản, tránh quan hệ khi đang có tổn thương.
-- **Theo dõi chức năng thận (với thuốc ức chế dài ngày)**:
-  - Định kỳ 3 – 6 tháng xét nghiệm creatinin huyết thanh, ước tính độ lọc cầu thận (eGFR) để điều chỉnh liều Acyclovir/Valacyclovir nếu cần.
+- **Theo dõi chức năng thận (với thuốc ức chế dài ngày)**: Định kỳ 3 – 6 tháng xét nghiệm creatinin huyết thanh, ước tính độ lọc cầu thận (eGFR) để điều chỉnh liều Acyclovir/Valacyclovir nếu cần.
 
 ## Nguồn tham khảo
 

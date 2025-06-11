@@ -13,8 +13,9 @@ Tử cung được chia làm hai phần chính phần trên là thân tử cung 
 - **Cổ trong cổ tử cung (endocervix)** nằm phía trên cổ ngoài, hướng về buồng tử cung, tạo thành kênh cổ tử cung (cervical canal) nối từ lỗ ngoài đến lỗ trong cổ tử cung. Kênh cổ tử cung có nhiều nếp gấp dạng "cây cọ" (arbor vitae) giúp giữ kín sinh lý.
 - **Lỗ ngoài cổ tử cung (external os)** là vị trí mở của kênh cổ tử cung ra âm đạo. Hình dạng lỗ ngoài thường tròn ở phụ nữ chưa sinh và hơi dẹt ở phụ nữ đã sinh con.
 - **Lỗ trong cổ tử cung (internal os)** là vị trí mở của kênh cổ tử cung vào buồng tử cung.
-  ![Các điểm mốc nhận diện quan trọng trong bệnh học cổ tử cung](./_images/viem-lo-tuyen-co-tu-cung/cac-moc-nhan-dien-benh-hoc-co-tu-cung.png)
-  _Từ ngoài vào trong: Cổ ngoài (ectocervix), lỗ ngoài, kênh cổ tử cung, lỗ trong._
+
+_Hình ảnh "Từ ngoài vào trong: Cổ ngoài (ectocervix), lỗ ngoài, kênh cổ tử cung, lỗ trong"._
+![Các điểm mốc nhận diện quan trọng trong bệnh học cổ tử cung](./_images/viem-lo-tuyen-co-tu-cung/cac-moc-nhan-dien-benh-hoc-co-tu-cung.png)
 
 ## Mô học
 
@@ -35,41 +36,35 @@ Cổ tử cung được cấu tạo bởi biểu mô phủ và mô đệm dướ
 
 ### Chuyển sản lát
 
+_Hình ảnh "Dịch chuyển SCJ nguyên thủy và SCJ mới"._
 ![Dịch chuyển SCJ nguyên thủy và SCJ mới](./_images/viem-lo-tuyen-co-tu-cung/dich-truyen-cua-scj-nguyen-thuy-va-moi.jpeg)
-_Dịch chuyển SCJ nguyên thủy và SCJ mới._
 
-1. Biểu mô trụ cổ trong.
-2. Biểu mô lát nguyên thủy.
-3. SCJ nguyên thủy (ban đầu sát lỗ ngoài).
-4. Biểu mô trụ lộ tuyến (màu đỏ).
-5. Vùng chuyển sản (TZ).
-6. SCJ mới (functional SCJ).
-7. Nang Naboth.
-   ![Các ranh giới lát trụ nguyên thủy và mới](./_images/viem-lo-tuyen-co-tu-cung/cac-ranh-gioi-lat-tru-nguyen-thuy-va-moi.png)
-   _Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủy, (3) SCJ nguyên thủy, (4) biểu mô trụ lộ tuyến, (5) vùng chuyển sản, (6) SCJ mới, (7) nang Naboth._
-8. **Tiếp xúc với pH acid**:
-   - Môi trường âm đạo có pH acid (khoảng 3.8–4.5) do lactobacilli sản xuất acid lactic.
-   - Biểu mô trụ không chịu được môi trường acid, tế bào trụ dễ tổn thương và hoại tử.
-9. **Kích thích tế bào dự trữ (reserve cells)**:
-   - Biểu mô trụ bị phá hủy, tế bào dự trữ cận trụ (sub-columnar cells) xuất hiện và tăng sinh.
-   - Các tế bào này có nhân to, bào tương ít, tương tự tế bào đáy của biểu mô lát.
-10. **Hình thành biểu mô lát chuyển sản**:
-    - Tế bào dự trữ biệt hóa thành biểu mô lát không sừng hóa, gọi là **biểu mô lát chuyển sản non** (immature squamous metaplasia).
-    - Biểu mô lát non không chứa glycogen, không bắt màu Lugol, dễ phân tầng.
-11. **Biểu mô lát chuyển sản hoàn thiện**:
-    - Các tế bào lát chuyển sản non tiếp tục trưởng thành, có chứa glycogen, bắt màu Lugol dương tính, trở thành biểu mô lát trưởng thành (mature squamous epithelium).
-    - Quá trình chuyển sản thường bắt đầu từ SCJ nguyên thủy, từ từ mở rộng vào trung tâm về phía lỗ ngoài cổ tử cung.
-12. **Vùng chuyển sản (Transformation Zone – TZ)**:
-    - Là vùng nằm giữa SCJ nguyên thủy và SCJ mới (functional SCJ).
-    - TZ là nơi xuất hiện các tổn thương loạn sản (neoplasia) và là vị trí dễ bị HPV xâm nhập, do tế bào lát mới non chưa đầy đủ khả năng bảo vệ.
+_Hình ảnh "Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủy, (3) SCJ nguyên thủy, (4) biểu mô trụ lộ tuyến, (5) vùng chuyển sản, (6) SCJ mới, (7) nang Naboth"._
+![Các ranh giới lát trụ nguyên thủy và mới](./_images/viem-lo-tuyen-co-tu-cung/cac-ranh-gioi-lat-tru-nguyen-thuy-va-moi.png)
+
+- **Tiếp xúc với pH acid**:
+  - Môi trường âm đạo có pH acid (khoảng 3.8–4.5) do lactobacilli sản xuất acid lactic.
+  - Biểu mô trụ không chịu được môi trường acid, tế bào trụ dễ tổn thương và hoại tử.
+- **Kích thích tế bào dự trữ (reserve cells)**:
+  - Biểu mô trụ bị phá hủy, tế bào dự trữ cận trụ (sub-columnar cells) xuất hiện và tăng sinh.
+  - Các tế bào này có nhân to, bào tương ít, tương tự tế bào đáy của biểu mô lát.
+- **Hình thành biểu mô lát chuyển sản**:
+  - Tế bào dự trữ biệt hóa thành biểu mô lát không sừng hóa, gọi là **biểu mô lát chuyển sản non** (immature squamous metaplasia).
+  - Biểu mô lát non không chứa glycogen, không bắt màu Lugol, dễ phân tầng.
+- **Biểu mô lát chuyển sản hoàn thiện**:
+  - Các tế bào lát chuyển sản non tiếp tục trưởng thành, có chứa glycogen, bắt màu Lugol dương tính, trở thành biểu mô lát trưởng thành (mature squamous epithelium).
+  - Quá trình chuyển sản thường bắt đầu từ SCJ nguyên thủy, từ từ mở rộng vào trung tâm về phía lỗ ngoài cổ tử cung.
+- **Vùng chuyển sản (Transformation Zone – TZ)**:
+  - Là vùng nằm giữa SCJ nguyên thủy và SCJ mới (functional SCJ).
+  - TZ là nơi xuất hiện các tổn thương loạn sản (neoplasia) và là vị trí dễ bị HPV xâm nhập, do tế bào lát mới non chưa đầy đủ khả năng bảo vệ.
 
 ### Lộ tuyến
 
-- **Lộ tuyến cổ tử cung (endocervical ectropion)** biểu mô trụ của cổ trong lộn ra bề mặt cổ ngoài (ectocervix), tiếp xúc với môi trường acid âm đạo.
+- **Lộ tuyến cổ tử cung (endocervical ectropion)** biểu mô trụ của cổ trong lộn ra bề mặt cổ ngoài (ectocervix), tiếp xúc với môi trường acid âm đạo.<br>
+  _Hình ảnh "Soi cổ tử cung thấy vùng lộ tuyến (màu đỏ) khởi đầu ở phía ngoài cổ tử cung"._
   ![Lộ tuyến cổ tử cung](./_images/viem-lo-tuyen-co-tu-cung/lo-tuyen-co-tu-cung.png)
-  _Soi cổ tử cung thấy vùng lộ tuyến (màu đỏ) khởi đầu ở phía ngoài cổ tử cung._
+  _Hình ảnh "Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới"._
   ![Vùng chuyển sản](./_images/viem-lo-tuyen-co-tu-cung/vung-chuyen-san.png)
-  _Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới._
 - **Sinh lý**:
   - Thường gặp ở phụ nữ tuổi sinh sản, mang thai, hoặc dùng estrogen ngoại sinh (thuốc tránh thai).
   - Thường không có triệu chứng, chỉ phát hiện khi soi cổ tử cung thấy vùng đỏ rạng rỡ.
@@ -84,8 +79,8 @@ _Dịch chuyển SCJ nguyên thủy và SCJ mới._
 
 ### Nang Naboth
 
+_Hình ảnh "Nang Naboth trên bề mặt cổ tử cung, trông giống túi dịch nhỏ màu vàng"._
 ![Nang Naboth trên soi cổ tử cung](./_images/viem-lo-tuyen-co-tu-cung/nang-naboth-tren-soi-co.png)
-_Nang Naboth trên bề mặt cổ tử cung, trông giống túi dịch nhỏ màu vàng._
 
 - Khi biểu mô lát chuyển sản phát triển, có thể bít tắc cổ nang tuyến, tạo ra **nang Naboth** (Nabothian cyst).
 - Nang Naboth chứa dịch nhầy, nằm bên dưới bề mặt biểu mô lát, thường không triệu chứng, chỉ phát hiện khi soi hoặc siêu âm.
@@ -99,8 +94,7 @@ Lộ tuyến bản thân là tiến trình sinh lý, thường không cần can 
 - **Kháng sinh/ kháng nấm/ kháng ký sinh** tùy tác nhân:
   - Ví dụ: Metronidazole hoặc Clindamycin đặt âm đạo (Trichomonas, viêm khí hư do vi khuẩn).
   - Fluconazole đường uống hoặc đặt âm đạo (Candida).
-- **Thuốc chống viêm tại chỗ**:
-  - Gel hoặc đặt âm đạo chứa corticosteroid nhẹ hoặc các chế phẩm có thành phần kháng viêm, làm lành biểu mô.
+- **Thuốc chống viêm tại chỗ**: Gel hoặc đặt âm đạo chứa corticosteroid nhẹ hoặc các chế phẩm có thành phần kháng viêm, làm lành biểu mô.
 - **Điều chỉnh nội tiết**:
   - Ngưng hoặc thay đổi loại thuốc tránh thai nếu nghi ngờ estrogen ngoại sinh là nguyên nhân làm nặng lộ tuyến.
   - Với phụ nữ tiền mãn kinh/ mãn kinh bị giảm estrogen, có thể cân nhắc liệu pháp bổ sung estrogen tại chỗ (nhưng chỉ khi cần thiết và thận trọng).
@@ -126,14 +120,15 @@ Chỉ thực hiện khi viêm đã được kiểm soát hoặc sau điều tr�
 
 ### Theo dõi sau điều trị
 
+_Hình ảnh "Sau đốt hoặc áp lạnh, vùng chuyển sản dần hồi phục biểu mô lát trưởng thành"._
 ![Vùng chuyển sản sau điều trị](./_images/viem-lo-tuyen-co-tu-cung/vung-chuyen-san-sau-dieu-tri.png)
-_Sau đốt hoặc áp lạnh, vùng chuyển sản dần hồi phục biểu mô lát trưởng thành._
 
 - Tái khám sau 4–6 tuần để kiểm tra vết thương, đảm bảo không còn viêm.
 - Làm xét nghiệm Pap smear (tế bào cổ tử cung) định kỳ 6–12 tháng nếu có yếu tố nguy cơ (tiền căn viêm lộ tuyến nặng, nhiễm HPV).
 - Khuyến khích khám phụ khoa định kỳ (6–12 tháng/lần) để phát hiện sớm bất thường.
-  ![Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV](./_images/viem-lo-tuyen-co-tu-cung/qua-trinh-chuyen-san.png)
-  _Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV._
+
+_Hình ảnh "Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV"._
+![Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV](./_images/viem-lo-tuyen-co-tu-cung/qua-trinh-chuyen-san.png)
 
 ## Nguồn tham khảo
 
