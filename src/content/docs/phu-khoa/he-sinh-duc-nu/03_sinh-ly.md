@@ -16,14 +16,14 @@ Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chi
 - **Cơ chế cận tiết**:
   - **PTEN–PI3K–Akt**: Cân bằng PTEN (ức chế) và PI3K (kích hoạt) quyết định nang nào "thức giấc".
   - **AMH** (từ tế bào hạt nang tiền hốc → nang hốc nhỏ) ức chế quá mức chiêu mộ, như "người gác cổng".
-    ![Con đường PTEN/PI3K/AKT](./_images/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/con-duong-pten-pi3k-akt.png)
+    ![Con đường PTEN/PI3K/AKT](./_images/sinh-ly/con-duong-pten-pi3k-akt.png)
     _Con đường PTEN/PI3K/AKT._
 
 ## Phát triển nang trước khi lệ thuộc gonadotropin
 
 - Nang đã chiêu mộ → noãn sơ cấp → noãn thứ cấp sớm → noãn thứ cấp muộn.
 - AMH tiếp tục kìm hãm tăng tốc phát triển, bảo vệ chỉ còn 10 nang/noãn trên 60–90 ngày vào giai đoạn "lệ thuộc gonadotropin".
-  ![Điều hòa chiêu mộ noãn nang](./_images/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/dieu-hoa-chieu-mo-noan-nang.png)
+  ![Điều hòa chiêu mộ noãn nang](./_images/sinh-ly/dieu-hoa-chieu-mo-noan-nang.png)
   _Điều hòa chiêu mộ noãn nang._
 
 ## Trục hạ đồi–tuyến yên–buồng trứng
@@ -32,7 +32,7 @@ Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chi
 
 - **KNDy neuron** (kisspeptin, neurokinin B, dynorphin): điều khiển GnRH neuron.
 - Kisspeptin → kích thích GnRH → phóng thích theo xung vào máu cửa tuyến yên.
-  ![KNDy và GnRH neuron](./_images/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/lien-quan-giua-kndy-neutron-va-gnrh-neutro.png)
+  ![KNDy và GnRH neuron](./_images/sinh-ly/lien-quan-giua-kndy-neutron-va-gnrh-neutro.png)
   _KNDy và GnRH neuron._
 
 ### Tuyến yên
@@ -42,7 +42,7 @@ Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chi
 
 ### Buồng trứng
 
-![Thuyết 2 tế bào, 2 hormone](./_images/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/thuyet-2-te-bai-2-hormone.png)
+![Thuyết 2 tế bào, 2 hormone](./_images/sinh-ly/thuyet-2-te-bai-2-hormone.png)
 _Thuyết 2 tế bào, 2 hormone._
 | Giai đoạn nang | Nguồn androgen | Nguồn estrogen | Phát triển |
 | ------------------------ | --------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -51,7 +51,7 @@ _Thuyết 2 tế bào, 2 hormone._
 
 ## Phóng noãn và hoàng thể hóa
 
-![Tiến trình phát triển noãn nang](./_images/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/tien-trinh-phat-trien-cua-noan-nang.png)
+![Tiến trình phát triển noãn nang](./_images/sinh-ly/tien-trinh-phat-trien-cua-noan-nang.png)
 _Tiến trình phát triển noãn nang._
 
 1. **Đỉnh LH** (phản hồi dương estradiol) → hoàn thành giảm nhiễm I, bắt đầu giảm nhiễm II → phóng noãn sau 36 giờ.
@@ -60,7 +60,7 @@ _Tiến trình phát triển noãn nang._
 
 ## Biến động hormone trong chu kỳ
 
-![Biến động hormone](./_images/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/bien-dong-cua-cac-hormon-tuyen-yen-va-steroids-sinh-duc-trong-chu-ky-buong-trung.png)
+![Biến động hormone](./_images/sinh-ly/bien-dong-cua-cac-hormon-tuyen-yen-va-steroids-sinh-duc-trong-chu-ky-buong-trung.png)
 _Biến động hormone._
 
 - **FSH** tăng nhẹ giai đoạn nang → giảm do estradiol & inhibin B.
@@ -70,7 +70,7 @@ _Biến động hormone._
 
 ## Chu kỳ nối tiếp
 
-![Chu kỳ nối tiếp](./_images/chu-ky-buong-truc-va-he-truc-ha-doi-yen-buong-trung/cac-chu-ky-buong-trung-noi-tiep-nhau.png)
+![Chu kỳ nối tiếp](./_images/sinh-ly/cac-chu-ky-buong-trung-noi-tiep-nhau.png)
 _Chu kỳ nối tiếp._
 
 - Mỗi chu kỳ kéo dài 90–120 ngày từ chiêu mộ nguyên thủy đến thoái triển bạch thể.

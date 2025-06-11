@@ -18,7 +18,7 @@ Buồng trứng là tuyến kép đảm nhận đồng thời hai vai trò:
 
 ### Hình thái và liên quan
 
-![Giải phẫu tử cung – buồng trứng](./_images/giai-phau-buong-trung-va-cac-cau-truc-lien-quan/giai-phau-tu-cung-buong-trung.png)
+![Giải phẫu tử cung – buồng trứng](./_images/giai-phau-mo-hoc/giai-phau-tu-cung-buong-trung.png)
 _Giải phẫu tử cung – buồng trứng._
 
 - **Mặt trong** (mặt tự do): Lồi, hướng về phễu vòi tử cung và quai ruột.
@@ -33,7 +33,7 @@ _Giải phẫu tử cung – buồng trứng._
 
 ### Mạch máu và bạch huyết
 
-![Giải phẫu mạch máu tử cung buồng trứng](./_images/giai-phau-buong-trung-va-cac-cau-truc-lien-quan/giai-phau-mach-mau-tu-cung-buong-trung.png)
+![Giải phẫu mạch máu tử cung buồng trứng](./_images/giai-phau-mo-hoc/giai-phau-mach-mau-tu-cung-buong-trung.png)
 _Giải phẫu mạch máu tử cung buồng trứng._
 
 - **Động mạch buồng trứng**
