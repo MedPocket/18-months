@@ -1,262 +1,170 @@
 ---
 title: Chửa ở vết mổ lấy thai
-description: Chửa ở vết mổ lấy thai (Thai ở sẹo mổ lấy thai).
+description: Chửa ở vết mổ lấy thai (còn gọi là thai làm tổ ở sẹo mổ lấy thai) là một dạng thai ngoài tử cung nguy hiểm, xảy ra khi túi thai bám và phát triển tại vị trí sẹo mổ cũ trên cơ tử cung.
 ---
 
-Chửa ở vết mổ lấy thai (Thai ở sẹo mổ lấy thai) là dạng thai ngoài tử cung do thai làm tổ trên sẹo cơ tử cung.
+Chửa ở vết mổ lấy thai là một dạng thai ngoài tử cung hiếm gặp, trong đó túi thai làm tổ tại vị trí sẹo mổ cũ trên cơ tử cung (thường là sẹo do mổ lấy thai trước đó).
 
-Chiếm 1/1800-1/2500 tổng số sinh. Chiếm <1% các trường hợp thai ngoài tử cung.
+- Tỷ lệ mắc: 1/1800 - 1/2500 ca sinh.
+- Chiếm < 1% các trường hợp thai ngoài tử cung.
 
 ## Yếu tố nguy cơ
 
-Tiền căn mổ lấy thai.
+- Tiền căn mổ lấy thai.
+- Tiền căn rau bám chặt.
+- Phẫu thuật cơ tử cung: Bóc u xơ, khâu tái tạo cơ tử cung, xử trí rau cài răng lược.
+- Tiền sử thai ngoài tử cung.
+- Thụ tinh trong ống nghiệm (IVF).
+- Tiền sử nạo phá thai nhiều lần.
 
-Tiền căn rau bám chặt.
-
-Tiền căn phẫu thuật cơ tử cung như bóc u xơ, may tái tạo cơ tử cung, rau cài răng lược.
-
-Thai ngoài tử cung.
-
-Thụ tinh trong ống nghiệm.
-
-Tiền sử nạo phá thai nhiều lần.
-
-## Chẩn đoán xác định
+## Chẩn đoán
 
 ### Lâm sàng
 
-Tam chứng kinh điển:
-
-- Trễ kinh.
-- Ra máu âm đạo bất thường (33-44%).
-- Đau bụng (25%).
-
-Khoảng 50% không có triệu chứng, chỉ phát hiện qua siêu âm.
+- Triệu chứng không đặc hiệu, khoảng 50% trường hợp không có biểu hiện rõ, phát hiện qua siêu âm.
+- Tam chứng kinh điển:
+  - Trễ kinh.
+  - Ra máu âm đạo bất thường (33–44%).
+  - Đau bụng (25%).
 
 ### Cận lâm sàng
 
-#### Siêu âm đường âm đạo kết hợp với Doppler
+#### Siêu âm
 
-Túi thai nằm giữa bàng quang và phần trước đoạn eo tử cung, lớp cơ tử cung giữa bàng quang và túi thai có hay rất mỏng (1-3mm).
-
-Siêu âm 3D Doppler có phình mạch máu quanh túi thai, có hình ảnh mất liên tục của vách trước cơ tử cung trên mặt cắt ngang qua túi ối.
-
-Buồng tử cung không có hình ảnh túi thai.
-
-Kênh cổ tử cung không có hình ảnh túi thai.
-
-Phân nhóm thai ở sẹo mổ cũ trong hình ảnh siêu âm 3 tháng đầu là Crossover sign (COS). Trong mặt cắt dọc giữa của siêu âm, so sánh đường thẳng nối từ lỗ trong cổ tử cung đến đáy tử cung chứa nội mạc tử cung và đường kính trước sau túi thai:
-
-- COS-1: túi thai xâm lấn vào sẹo mổ cũ và mặt trước cơ tử cung, lớn hơn 2/3 đường kính trước sau túi thai nằm trên đường nối nội mạc tử cung.
-
-- COS-2: túi thai xâm lấn vào sẹo mổ và mặt trước cơ tử cung, nhỏ hơn 2/3 đường kính trước sau túi thai nằm trên đường nối nội mạc tử cung. Trong đó lại chia ra:
-  - COS-2- có sự giao nhau của đường kính trước sau túi thai và đường nối nội mạc tử cung.
-  - COS-2+ không có sự giao nhau của đường kính trước sau túi thai và đường nối nội mạc tử cung.
-
-![Mối liên hệ thai và sẹo mổ lấy thai](../../../assets/phu-khoa/chua-vet-mo-lay-thai/moi-lien-he-giua-tui-thai-va-seo-mo-lay-thai.jpg)
+- Siêu âm qua đường âm đạo kết hợp Doppler.
+- Túi thai nằm giữa bàng quang và phần trước đoạn eo tử cung.
+- Lớp cơ giữa túi thai và bàng quang mỏng (1–3 mm) hoặc không thấy.
+- Không thấy túi thai trong buồng tử cung hay cổ tử cung.
+- Siêu âm Doppler 3D: Hình ảnh phình mạch máu quanh túi thai, mất liên tục vách trước cơ tử cung.
 
 #### Xét nghiệm khác
 
-β-hCG dương tính.
+- β-hCG dương tính.
+- MRI khi khó xác định.
 
-Siêu âm 3D và MRI trong trường hợp khó phân biệt.
+### Chẩn đoán phân biệt
 
-## Chẩn đoán phân biệt
+- Thai trong buồng tử cung.
+- Sảy thai không hoàn toàn (thai tụt qua sẹo).
+- Thai ở cổ tử cung (phân biệt bằng siêu âm màu – không có mạch máu quanh khối):<br>
+  _Bảng "Phân biệt với thai ở cổ tử cung"._
+  | Tiêu chuẩn lâm sàng | Tiêu chuẩn siêu âm |
+  | ------------------------------------------ | ------------------------------------------------------------ |
+  | **Tử cung nhỏ, cổ phình to** | Buồng tử cung trống, nội mạc giả dạng màng rụng |
+  | **Lỗ trong cổ tử cung không mở** | Có túi thai trong kênh cổ tử cung |
+  | **Nạo nội mạc không thấy mô nhau** | Cổ tử cung hình "đồng hồ cát", có mô nhau ở cổ tử cung trong |
+  | **Lỗ ngoài cổ tử cung mở to hơn sảy thai** | Lỗ trong đóng kín |
+- U nguyên bào nuôi.
 
-Thai trong buồng tử cung.
+## Phân loại
 
-Sẩy thai và khối thai tụt ngang vết mổ (trên siêu âm màu không thấy mạch máu quanh thai).
+_Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"._
+![Mối liên hệ thai và sẹo mổ lấy thai](./_images/chua-vet-mo-lay-thai/moi-lien-he-giua-tui-thai-va-seo-mo-lay-thai.jpg)
 
-Thai ở cổ tử cung.
+**COS-1**: Túi thai nằm > 2/3 phía trên đường nối nội mạc tử cung → bám sâu vào cơ tử cung, nguy cơ vỡ tử cung cao.
 
-:::note[Chẩn đoán thai ngoài tử cung ở cổ tử cung]
-|Tiêu chuẩn lâm sàng|Tiêu chuẩn siêu âm|
-|---|---|
-|1. Tử cung nhỏ, cổ tử cung phình to.|1. Buồng tử cung trống chỉ có túi thai giả.|
-|2. Lỗ trong cổ tử cung không nở to.|2. Nội mạc tử cung giả màng rụng dày.|
-|3. Nạo nội mạc tử cung không có mô nhau.|3. Cấu trúc thành tử cung lan tỏa.|
-|4. Lỗ ngoài cổ tử cung mở to hơn sẩy thai.|4. Tử cung hình đồng hồ cát.|
-||5. Cổ tử cung phình to.|
-||6. Có túi thai trong kênh tử cung.|
-||7. Có mô nhau tại cổ tử cung trong.|
-||8. Lỗ trong cổ tử cung đóng kín.|
-:::
+**COS-2**: Túi thai < 2/3 nằm trên đường nối nội mạc, chia nhỏ:
 
-U nguyên bào nuôi.
+- **COS-2-**: Có giao nhau với đường nối nội mạc tử cung.
+- **COS-2+**: Không giao nhau với đường nối nội mạc tử cung.
 
 ## Diễn tiến
 
-COS-2 túi thai phát triển hướng vào trong eo tử cung hay buồng, có thể tiến triển đến sinh sống nhưng có nguy cơ xuất huyết ồ ạt nơi rau bám.
-
-![Túi thai phát triển về buồng](../../../assets/phu-khoa/chua-vet-mo-lay-thai/tui-thai-phat-trien-ve-buong.jpg)
-_Túi thai phát triển về buồng._
-
-COS-1 túi thai cắm sâu trong khe hở sẹo và tiến triển gây vỡ tử cung trong 3 tháng đầu và xuất huyết ồ ạt nguy hiểm đến tính mạng.
-
-![Túi thai cắm sâu vào vết mổ](../../../assets/phu-khoa/chua-vet-mo-lay-thai/tui-thai-cam-sau-vao-vet-mo.jpg)
-_Túi thai cắm sâu vào vết mổ._
+- **COS-1**: Thai cắm sâu vào sẹo, nguy cơ vỡ tử cung sớm, đe dọa tính mạng.
+- **COS-2**: Thai có thể phát triển về buồng tử cung nhưng nguy cơ xuất huyết rau bám.
 
 ## Điều trị
 
-Xu hướng điều trị nội khoa và can thiệp ngoại khoa tối thiểu để kết thúc thai kỳ sớm, tránh phẫu thuật lớn và bảo tồn khả năng sinh sản.
-
 ### Nguyên tắc
 
-Ngưng hoạt động của tim thai và loại bỏ túi thai.
+- Kết thúc thai kỳ sớm.
+- Ưu tiên bảo tồn tử cung và khả năng sinh sản nếu điều kiện cho phép.
+- Không nong nạo đầu tiên vì nguy cơ xuất huyết lớn.
+- Tùy tình trạng huyết động và triệu chứng để chọn phương pháp.
 
-Bảo tồn khả năng sinh sản nếu đủ điều kiện.
+### Nội khoa
 
-Tùy theo mức độ khẩn cấp và có biện pháp điều trị phù hợp:
+#### Methotrexate (MTX)
 
-- Xuất huyết ồ ạt cần can thiệt cấp cứu, cắt tử cung để cầm máu nếu cần.
-- Huyết động ổn định, không xuất huyết hay lượng ít có thể có nhiều phương pháp điều trị.
+- **Chỉ định**: Thai < 14 tuần, chưa vỡ, huyết động ổn định, không chống chỉ định MTX.
+- **Phác đồ**:
+  - Thai lưu ≤ 8 tuần, β-hCG tăng → MTX 50mg tiêm bắp.
+  - Thai chưa có tim: Hút phôi dưới siêu âm, tiêm MTX tại chỗ và bắp (25mg + 25mg).
+  - Thai có tim:
+    - Hút mô tim thai (nếu > 9 tuần).
+    - Tiêm MTX hoặc KCl vào tim + tiêm MTX quanh bánh rau → kiểm tra sau 60–90 phút.
+    - Tổng liều MTX: 75mg.
+- **Theo dõi sau điều trị**:
+  - β-hCG giảm > 15%/tuần trong 3 tuần, sau đó mỗi tháng đến khi âm tính.
+  - Nếu giảm < 15% → tiêm MTX liều 2.
+  - Siêu âm mỗi tuần để theo dõi khối thai và mạch máu quanh.
+- **Kháng sinh và hỗ trợ**:
+  - Ceftriaxone 1 g x 2 lần/ngày x 2 ngày, sau đó uống Cephalosporin + Metronidazole.
+  - Oxytocin, Tranexamic, nghỉ ngơi, không giao hợp.
 
-Không can thiệt ban đầu bằng nong và nạo vì nguy cơ xuất huyết ồ ạt.
+#### HIFU (siêu âm hội tụ cường độ cao)
 
-Điều trị MTX tại chỗ kết hợp với toàn thân cho kết quả tốt.
+- Là phương pháp điều trị không xâm lấn mới, hiệu quả cần nghiên cứu thêm.
 
-### Điều trị nội khoa
-
-#### Điều trị MTX
-
-Chỉ định:
-
-- Các trường hợp thai <14 tuần, huyết động ổn định và không chống chỉ định MTX.
-
-- Thai lưu ≤8 tuần, β-hCG tăng: MTX 50mg, tiêm bắp.
-
-- Thai chưa có tim thai: dưới hướng dẫn siêu âm đường âm đạo hút trọn phôi thai, hút hết nước ối và tiêm MTX 25mg quanh túi thai và 25mg tiêm bắp (tổng 50mg/m² diện tích da).
-
-- Thai có hoạt động tim thai: hủy thai bằng hút trọn phôi thai (thai <9 tuần) hoặc hút mô buồng tim thai (thai>9 tuần) hoặc tiêm bắp MTX 25mg (hoặc KCl) và tim thai, phối hợp MTX 25mg tiêm vị trí bánh rau. Sau 60-90 phút siêu âm lại kiểm tra đã mất hay chưa và xem có xuất huyết tại chỗ không, tiêm bắp 25mg MTX (tổng liều 75mg MTX).
-
-Chống chỉ định và xét nghiệm theo dõi như thai ngoài tử cung.
-
-#### Sau thủ thuật cần chú ý kháng sinh, thuốc tăng co và cầm máu
-
-Ceftriaxone 1g/lọ x 2 lần tiêm tĩnh mạch 2 ngày, sau đó chuyển sang Cephalosporin thế hệ 3 phối hợp Metronidazole 250mg x 2 viên (uống) x 2 lần/ngày x 7 ngày.
-
-Thuốc bổ trợ:
-
-- Oxytocin 5 IU x tiêm bắp 02 lần/ngày.
-- Tranexamic 500mg uống 1 viên/lần x 2 lần/ngày x 5 ngày.
-
-Hạn chế vận động và nên nằm nghỉ ngơi.
-
-#### Theo dõi ngoại trú
-
-Theo dõi β-hCG giảm >15% theo dõi mỗi tuần trong 3 tuần liên tiếp, sau đó mỗi tháng đến khi β-hCG âm tính. Nếu giảm <15% cần nhập viện tiêm MTX liều 2.
-
-Siêu âm khối thai và tăng sinh mạch mỗi tuần trong 3 tuần, sau đó siêu âm mỗi tháng đến khi kích thước túi thai không quan sát được và chỉ số tưới máu giảm:
-  - Đường kính khối thai <5-7cm đến khi không còn.
-  - Đường kính khối thai >7cm hoặc tăng cần nhập viện phối hợp thuyên tắc chọn lọc động mạch tử cung nuôi khối thai hay phẫu thuật.
-  - Nếu tăng sinh mạch nhiều cần nhập viện phối hợp thuyên tắc động mạch tử cung chọn lọc.
-
-#### Tư vấn
-
-Không được vận động mạnh, không quan hệ tình dục, hạn chế đi lại cho đến khi khối chửa tiêu hoàn toàn.
-
-Nhập viện ngay khi chảy máu trung bình/nhiều, β-hCG tăng, thể tích khối thai tăng hay có gia tăng tưới máu.
-
-Thăm khám nhẹ nhàng tránh làm khối thai vỡ và gây xuất huyết ồ ạt cần phẫu thuật.
-
-#### Điều trị bằng siêu âm độ tập trung cường độ cao (HIFU - high-intensity focused ultrasound)
-
-### Điều trị ngoại khoa
+### Ngoại khoa
 
 #### Nong nạo
 
-Chỉ định:
+- **Chỉ định hạn chế**:
+  - β-hCG < 2000 sau MTX, khối thai nhỏ, không đáp ứng điều trị thuốc.
+  - Phân loại COS-2-.
+- **Kỹ thuật**:
+  - Dùng ống hút nhỏ (Karman 6–8), hút nhẹ vùng trên vết mổ.
+  - Tránh hút vùng mỏng vết mổ để hạn chế thủng tử cung.
+  - Nếu chảy máu: đặt bóng chèn 12–24 giờ.
 
-- 1 số ít trường hợp β-hCG <2000 mIU/mL sau điều trị MTX, chảy máu khối thai sảy hoặc khối thai không giảm kích thước.
-- Phân độ trên siêu âm là COS-2-.
+#### Đặt foley & hút thai
 
-Nong nạo không nên là điều trị đầu tiên vì nguy cơ thủng tử cung và xuất huyết ồ ạt cần phẫu thuật.
-
-Cần tư vấn nguy cơ thủng tử cung, tổn thương bàng quang, niệu quản phải chuyển phẫu thuật nếu cần thiết, chuẩn bị máu, dịch truyền.
-
-Kỹ thuật: Dùng Karman 1 van, đặt ống số 6 hay số 8 tại phía trên vết mổ cũ, hút nhẹ nhàng (tránh hút ngay vết mổ vì nguy cơ tổn thương vết mổ cũ vốn mỏng và rau xâm lấn nhiều), hút vừa đủ mô (mục tiêu giảm thể tích khối thai không cố gắng lấy hết toàn bộ).
-
-Khi có chảy máu trung bình/nhiều đặt bóng chèn bơm 20-30mL nước muối sinh lý có hiệu quả cầm máu. Rút bóng chèn sau 12-24h.
-
-#### Đặt foley kết hợp hút thai
-
-Chỉ định thai ≤8 tuần.
-
-Đặt foley để đẩy khối thai tách khỏi vết mổ:
-
-- Thực hiện dưới hướng dẫn của siêu âm.
-- Ống foley 14 hoặc 16.
-- Bơm 20-25mL nước cất để đẩy khối thai lên và foley ép vào vết mổ.
-- Nếu foley rơi trước 6h và chưa có dấu hiệu sẩy: đặt lại foley lần 2 và chèn 1 tampon. Nếu foley rơi sau 6h kèm dấu hiệu sảy: tiến hành hút thai.
-- Lưu foley 24h.
-- Sử dụng kháng sinh ngay sau đặt foley.
-- Sau 24h rút foley và hút thai dưới siêu âm:
-  - Sử dụng Karman 1 van và ống hút số 6.
-  - Chừa ít mô rau ở vị trí vết mổ cũ, không cố gắng hút hết hay hút sạch vì nguy cơ tổn thương tử cung gây chảy máu.
-  - Thuốc co tử cung oxytocin 5 đơn vị, 2 ống tiêm bắp và Misoprostol 200mcg x 3 viên đặt trực tràng.
-  - Nếu tình trạng ổn sau 48h được xuất viện điều trị ngoại trú.
-- Theo dõi ngoại trú:
-  - Tái khám mỗi 3 tuần đầu, sau đó 1 tháng cho đến khi mất khối thai, β-hCG âm tính, không có tăng sinh mạch máu.
-  - Dặn dò người bệnh không làm việc nặng, không đi lại nhiều, không giao hợp.
-  - Tái khám theo hẹn hoặc khi đau bụng nhiều hoặc ra huyết âm đạo nhiều (2 băng vệ sinh mỗi giờ trong 2h).
-- Dấu hiệu người bệnh phải nhập viện:
-  - β-hCG tăng.
-  - Kích thước khối echo hỗn âm ở sẹo mổ tăng.
-  - Tăng sinh mạch máu nhiều.
+- **Chỉ định**: Thai ≤ 8 tuần.
+- **Kỹ thuật**:
+  - Đặt foley 14–16 dưới siêu âm, bơm 20–25mL để đẩy túi thai.
+  - Rút sau 24 giờ → hút thai bằng Karman 6.
+  - Dùng oxytocin, misoprostol hậu môn, kháng sinh sau thủ thuật.
+  - Theo dõi tương tự điều trị MTX.
 
 #### Phẫu thuật
 
-Chỉ định khi có 1 trong 3 yếu tố:
-
-- Tuổi thai ≥14 tuần.
-- Người bệnh >40 tuổi và không có nguyện vọng sinh sản.
-- Huyết động không ổn định, xuất huyết nhiều, có thể có choáng hay không.
-
-Phẫu thuật thường khó khăn vì khối rau có thể xâm lấn bàng quang. Cần tư vấn nguy cơ tổn thường bàng quang, niệu quản. Chuẩn bị máu, dịch truyền.
-
-Phẫu thuật mở bụng cắt bỏ khối thai và bảo tồn nếu được hoặc cắt tử cung hoàn toàn. Cần thực hiện bởi phẫu thuật viên nhiều kinh nghiệm.
+- **Chỉ định**:
+  - Thai ≥ 14 tuần.
+  - Người bệnh > 40 tuổi không còn nhu cầu sinh sản.
+  - Huyết động không ổn định, xuất huyết nhiều.
+- **Kỹ thuật**:
+  - Mở bụng cắt khối thai và bảo tồn tử cung nếu có thể, hoặc cắt tử cung hoàn toàn.
+  - Chuẩn bị máu, dịch, tư vấn nguy cơ tổn thương bàng quang, niệu quản.
 
 ### Phối hợp nhiều kỹ thuật
 
-#### MTX tại chỗ, toàn thân và nong nạo
+- MTX + nong nạo.
+- MTX + thuyên tắc động mạch tử cung (UAE).
+- MTX trong lúc UAE.
+- UAE trước mổ.
+- Theo dõi không can thiệp nếu thai lưu < 8 tuần, β-hCG < 1000 và giảm dần.
 
-Nong nạo chỉ áp dụng cho các trường hợp ổn định, β-hCG 2000mIU/mL có chảy máu và khối thai sảy.
+### Tỷ lệ tai biến
 
-#### MTX tại chỗ/toàn thân và thuyên tắc động mạch tử cung
+_Bảng "Tỷ lệ tai biến các phương pháp điều trị tahi ở sẹo mổ lấy thai"._
+| Phương pháp | Tỷ lệ tai biến (%) |
+| -------------------------------- | ------------------ |
+| **MTX tiêm bắp** | 62.1 |
+| **Nong và nạo** | 61.9 |
+| **Thuyên tắc động mạch tử cung** | 46.9 |
+| **Soi buồng tử cung** | 18.4 |
+| **MTX tại chỗ/toàn thân** | 9.7 |
 
-Có hiệu quả trong các trường hợp khối thai to nhiều mạch máu. Đặc biệt trường hợp rong huyết kéo dài sau điều trị MTX, khối thai giảm kích thước và β-hCG giảm về mức bình thường nhưng không hết triệu chứng, có thể tồn tại thông nối động tĩnh mạch vùng sẹo.
+_Hình ảnh "Phác đồ điều trị thai ở sẹo mổ lấy thai – Bệnh viện Từ Dũ"._
+![Phác đồ điều trị thai ở sẹo mổ lấy thai - Bệnh viện Từ Dũ](./_images/chua-vet-mo-lay-thai/phac-do-xu-tri-thai-o-seo-mo-lay-thai.jpg)
 
-#### MTX trong lúc thuyên tắc động mạch tử cung
+## Ngừa thai và thai kỳ sau
 
-#### Thuyên tắc động mạch tử cung và phẫu thuật
-
-#### Chờ đợi không can thiệp và theo dõi
-
-Thai lưu<8 tuần, toàn trạng ổn, β-hCG <1000mIU/mL giảm đều, chỉ cần theo dõi, không can thiệp, khối thai sẽ tự hủy theo thời gian vài tuần hoặc vài tháng.
-
-Nếu β-hCG tăng lại hay không giảm cần can thiệp nội khoa hoặc ngoại khoa.
-
-![Phác đồ điều trị thai ở sẹo mổ lấy thai Bệnh viện Từ Dũ.](../../../assets/phu-khoa/chua-vet-mo-lay-thai/phac-do-xu-tri-thai-o-seo-mo-lay-thai.jpg)
-_Phác đồ điều trị thai ở sẹo mổ lấy thai Bệnh viện Từ Dũ._
-
-## Tai biến theo phương pháp điều trị
-
-MTX tiêm bắp (62.1%).
-
-Nong và nạo (61.9%).
-
-Thuyên tắc động mạch tử cung (46.9%).
-
-Soi buồng tử cung (18.4%).
-
-MTX tại chỗ/vào thai và toàn thân (9.7%).
-
-## Ngừa thai và khuyến cáo thai kỳ sau
-
-Ngừa thai ít nhất 12-24 tháng, không sử dụng dụng cụ tử cung.
-
-Thai kỳ sau chủ động mổ lấy thai khi thai đủ tháng.
+- Tránh thai ít nhất 12–24 tháng.
+- Không sử dụng dụng cụ tử cung.
+- Thai kỳ sau: Chủ động mổ lấy thai khi đủ tháng.
 
 ## Nguồn tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

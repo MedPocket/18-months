@@ -1,7 +1,7 @@
 {
   "name": "@medpocket/18-months",
-  "version": "0.1.0",
-  "description": "Bắt đầu một hành trình",
+  "version": "0.2.0",
+  "description": "Hiểu đúng - Chọn an toàn - Sống khỏe mạnh",
   "author": "MedPocket",
   "scripts": {
     "build": "astro build",
@@ -9,8 +9,9 @@
     "preview": "astro preview",
     "start": "astro dev",
     "format": "biome format --write .",
+    "format:md": "prettier --write '**/*.{md,mdx}'",
     "lint": "biome lint --write .",
-    "check": "biome check --write ."
+    "check": "biome check --write . && prettier --write '**/*.{md,mdx}'"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.34.3",
@@ -37,6 +38,7 @@
     "@biomejs/biome": "^1.9.4",
     "@types/hast": "^3.0.4",
     "@types/html-escaper": "^3.0.4",
+    "prettier": "^3.5.3",
     "typescript": "^5.8.3"
   },
   "packageManager": "pnpm@10.12.1"

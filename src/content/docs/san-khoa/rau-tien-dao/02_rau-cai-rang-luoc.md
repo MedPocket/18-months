@@ -1,104 +1,72 @@
 ---
 title: Rau cài răng lược
-description: Rau cài răng lược.
+description: Rau cài răng lược (Placenta accreta spectrum) là tình trạng bánh rau bám và xâm lấn sâu bất thường vào thành cơ tử cung, làm tăng cao nguy cơ chảy máu nghiêm trọng, phải truyền máu, cắt tử cung và tỷ lệ tử vong mẹ.
 ---
 
-Rau cài răng lược là trường hợp bánh rau bám sâu bất thường vào thành cơ của tử cung. Rau cài răng lược làm tăng nguy cơ chảy máu, và là mối đe dọa đến sinh mạng của thai phụ.
+Rau cài răng lược bao gồm các mức độ bám và xâm lấn sâu của gai rau vào cơ tử cung, từ chỉ dính chặt đến xuyên qua thanh mạc và các cơ quan lân cận.
 
 ## Phân loại
 
-Phân loại dựa trên tiêu chuẩn FIGO 2019
-
-| Phân loại                                                                                | Tiêu chuẩn lâm sàng                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Tiêu chuẩn mô học                                                                                                                                                                                                                                               |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Độ 1: rau bám chặt bất thường (thể adherenta hoặc creta)                                 | a. Khi sinh đường âm đạo:<br>- Rau không bong khi xử trí tích cực giai đoạn 3 chuyển dạ.<br>- Khi bóc rau nhân tạo gây chảy máu ồ ạt từ vị trí rau bám và cần can thiệp cầm máu bằng cơ học hoặc phẫu thuật.<br> b. Khi mở bụng:<br>- Rau không bong khi sử dụng Oxytocin và kéo dây rốn có kiểm soát.<br>- Khi bóc rau bằng tay gây chảy máu ồ ạt từ vị trí rau bám.<br>- Về đại thể, tử cung tại vị trí rau bám không phình căng, không quan sát thấy mô rau xâm lấn tử cung, không/ít mạch máu tăng sinh. | - Về vi thể: qua mẫu cắt tử cung ghi nhận vị trí rau bám không có màng rụng giữa gai rau và cơ tử cung, gai rau bám trực tiếp và bề mặt cơ tử cung.<br>- Chẩn đoán không nên chỉ căn cử đơn thuần trên mô rau đã sổ hoặc sinh thiết ngẫu nhiên tại nơi rau bám. |
-| Độ 2: rau bám xâm lấn bất thường (thể increta)                                           | Khi mở bụng:<br>- Về đại thể: có các bất thường tử cung tại vị trí rau bám như màu xanh/tím, phồng căng.<br>- Tăng sinh mạch máu nhiều: các mạch máu tăng sinh dày đặc hoặc nhiều mạch máu chạy song song theo chiều dọc thanh mạc tử cung.<br>- Không quan sát thấy mô rau xâm lấn xuyên qua tử cung.<br>- Kéo nhẹ dây rốn làm tử cung bị co lại và rau không bong (dấu hiệu lúm đồng tiền - dimple sign)                                                                                                   | Mẫu bệnh phẩm cắt tử cung hoặc 1 phần cơ tử cung vùng rau xâm lấn ghi nhận gai rau xuyên các sợi cơ tử cung hoặc trong lòng các mạch máu ở cơ tử cung.                                                                                                          |
-| Độ 3: rau bám xâm lấn bất thường (thể perceta)<br> Độ 3a: Giới hạn đến thanh mạc tử cung | Khi mở bụng:<br>- Về đại thể: có các bất thường tử cung tại vị trí rau bám như màu xanh/tím, phồng căng.<br>- Tăng sinh mạch máu nhiều: các mạch máu tăng sinh dày đặc hoặc nhiều mạch máu chạy song song theo chiều dọc thanh mạc tử cung.<br>- Mô rau xâm lấn qua lớp thanh mạc tử cung.<br>- Không xâm lấn đến các cơ quan khác bao gồm bàng quang (có thể dễ dàng bóc tách bàng quang và tử cung)                                                                                                        | Mẫu bệnh phẩm ghi nhận gai rau xâm lấn đến/xuyên qua thanh mạc tử cung.                                                                                                                                                                                         |
-| Độ 3b: Xâm lấn bàng quang                                                                | Khi mở bụng:<br>- Tương tự độ 3a.<br>- Gai rau chỉ xâm lấn đến bàng quang không xâm lấn đến các cơ quan khác.<br>- Không thể dễ dàng bóc tách bàng quang và tử cung)                                                                                                                                                                                                                                                                                                                                         | Mẫu bệnh phẩm cắt tử cung ghi nhận gai rau xâm lấn xuyên qua thanh mạc tử cung và xâm lấn thành bàng quang hoặc niêm mạc bàng quang.                                                                                                                            |
-| Độ 3b: Xâm lấn vùng chậu/các cơ quan                                                     | Khi mở bụng:<br>- Tương tự độ 3a.<br>- Gai rau xâm lấn dây chằng rộng, thành âm đạo, vách chậu hoặc đến các cơ quan khác(kèm/không kèm xâm lấn bàng quang)                                                                                                                                                                                                                                                                                                                                                   | Mẫu bệnh phẩm ghi nhận gai rau xâm lấn đến/xuyên qua thanh mạc tử cung và xâm lấn vùng chậu/các cơ quan.                                                                                                                                                        |
-
-![Phân loại rau cài răng lược](../../../../assets/san-khoa/rau-cai-rang-luoc/phan-loai-rau-cai-rang-luoc.png)
-_Hình ảnh rau cài răng lược._
+_Bảng "Phân loại rau cài răng lược theo FIGO 2019"._
+| Mức độ | Tiêu chuẩn lâm sàng | Tiêu chuẩn mô học |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Độ 1: Adherenta (rau bám chặt)** | - Rau không bong sau sổ thai dù dùng oxytocin và kéo dây rốn.<br>- Bóc rau thủ công gây chảy máu ồ ạt nhưng không thấy mô rau xâm lấn sâu.<br>- Tử cung tại vị trí rau bám không phình căng, ít mạch máu tăng sinh. | - Gai rau bám trực tiếp lên bề mặt cơ tử cung, không có màng rụng ở giữa gai rau và cơ tử cung. |
+| **Độ 2: Increta (xâm lấn cơ tử cung)** | - Khi mở bụng thấy mô rau bám vào cơ, tử cung tại vị trí đó phồng căng, màu xanh/tím.<br>- Tăng sinh mạch máu dày đặc trong cơ tử cung.<br>- Kéo dây rốn gây co bóp tử cung nhưng rau không bong (dimple sign). | - Gai rau xuyên vào lớp cơ tử cung nhưng không xuyên qua thanh mạc. |
+| **Độ 3a: Percreta tới thanh mạc** | - Mô rau xâm lấn xuyên qua cơ và lớp thanh mạc, thấy dưới thanh mạc tử cung phồng căng, mạch máu tăng sinh rõ.<br>- Dễ phân biệt bàng quang và tử cung do chưa xâm lấn sâu vào bàng quang. | - Gai rau xuyên qua thanh mạc tử cung nhưng không vượt ra ngoài khoang chậu hoặc xâm lấn bàng quang. |
+| **Độ 3b: Percreta xâm lấn bàng quang** | - Tương tự độ 3a nhưng mô rau còn dính chặt vào thành bàng quang, không tách rời được.<br>- Tiểu máu có thể xuất hiện do xâm lấn niêm mạc bàng quang. | - Gai rau xuyên qua thanh mạc và phần thành bàng quang hoặc niêm mạc bàng quang. |
+| **Độ 3c: Percreta xâm lấn vùng chậu/khác** | - Rau xâm lấn dây chằng rộng, thành âm đạo, thành chậu hoặc các cơ quan khác (gan, ruột...) kèm/không kèm xâm lấn bàng quang. | - Gai rau xuyên qua thanh mạc tử cung và xâm lấn vào các cấu trúc ngoài tử cung. |
 
 ## Yếu tố nguy cơ
 
-- Mổ cũ lấy thai. Tần suất tăng theo số lần mổ lấy thai đặc biệt kèm rau tiền đạo.
-- Tiền căn nạo buồng tử cung.
-- Vết mổ bóc u xơ cơ tử cung.
+- Tiền căn mổ lấy thai (tỷ lệ tăng theo số lần mổ), đặc biệt kèm rau tiền đạo.
+- Tiền sử nạo buồng tử cung hoặc can thiệp nội mạc khác.
+- Phẫu thuật bóc u xơ cơ tử cung trước đó.
+- Tuổi mẹ > 35.
+- Hút thuốc lá, dùng cocaine.
 
 ## Chẩn đoán
 
 ### Lâm sàng
 
-Không đặc hiệu:
-
-- Ra huyết âm đạo.
-- Tiểu máu (khi có xâm lấn bàng quang).
-- Rau không bong sau sinh, không bóc rau hoặc bóc rau khó khăn gây máu chảy ồ ạt.
+- Ra máu âm đạo không đặc hiệu, có thể tiểu máu nếu xâm lấn bàng quang.
+- Rau không bong sau sinh hoặc bong khó, bóc rau thủ công gây chảy máu ồ ạt.
 
 ### Cận lâm sàng
 
 #### Siêu âm
 
-Tam cá nguyệt thứ nhất, có 1 số dấu hiệu tùy từng giai đoạn sớm (6-9 tuần) hoặc muộn (11-14 tuần):
+- Tam cá nguyệt I (6–14 tuần): Túi thai làm tổ thấp, gần sẹo mổ cũ; thành trước đoạn dưới mỏng < 3 mm.
+- Tam cá nguyệt II–III (TVS & TAS):
+  - Lacunae ("moth-eaten"): Xoang mạch đa hình trong bánh rau.
+  - Đường echo ranh giới rau-cơ mỏng hoặc mất liên tục.
+  - "Placental bulge": Lồi rau qua thành tử cung.
+  - Cầu mạch máu và Doppler tăng sinh mạch rõ.
+  - Xâm lấn bàng quang: Mất đường echo thanh mạc và bàng quang.
 
-- Túi thai bám thấp được định nghĩa là túi rau làm tổ đoạn dưới tử cung, trong hay gần khuyết sẹo mổ lấy thai.
-- Túi thai nằm thấp và làm tổ ở thành trước đoạn dưới tử cung, cơ tử cung đoạn dưới thành trước mỏng<3mm so với thành sau.
-- Ở giai đoạn muộn, thai bám sẹo mổ lấy thai có xu hướng di chuyển lên đáy tử cung nên dấu hiệu túi thai bám thấp không còn nhưng vẫn còn ở khuyết sẹo mổ lấy thai.
+#### MRI
 
-Tam cá nguyệt thứ 2 siêu âm ngả bụng và đường âm đạo. Siêu âm ngả bụng cần có 1 phần nước tiểu:
+- Khi siêu âm không rõ hoặc cần đánh giá xâm lấn mặt sau, mức độ percreta.
 
-- Lacunae: bánh rau có nhiều xoang mạch máu đa hình nên hình ảnh bánh rau không đồng nhất, có dạng "moth-eaten".
-- Cơ tử cung vùng đoạn dưới vết mổ cũ mỏng hoặc biến mất và được thay thế bằng mạch máu tăng sinh.
-- Bất thường mặt phân cách tử cung - rau: mất đường echo kém ranh giới giữa cơ tử cung và bánh rau, cơ tử cung vùng sau rau mỏng<1mm.
-- Thành bàng quang mất liên tục do sự xâm lấn của chồi rau và mạch máu tăng sinh.
-- Bất thường bờ tử cung - lồi rau, mô rau xâm lấn làm cơ tử cung yếu và bờ ngoài tử cung bị biến dạng tạo thành hình lồi rau ("placetal bulge"), thanh mạc tử cung và bàng quang nguyên vẹn.
-- Chồi rau, mô rau phá vỡ lớp thanh mạc tử cung và xâm lấn ra ngoài, đặc hiệu thể perceta.
-- Cầu mạch máu, mạch máu từ rau xuyên qua tử cung và ra khỏi thanh mạch tử cung, thường đi kèm với dấu hiệu lồi rau.
-- Dấu hiệu khác: bánh rau dày, đường ray xe lửa ("rail sign"), xâm lấn cổ tử cung.
-- Doppler tăng sinh mạch máu trên Doppler màu, các dòng chảy với vận tốc cao ở trong rau, cơ tử cung và bàng quang.
+## Điều trị
 
-#### Cộng hưởng từ (MRI)
+### Chấm dứt thai kỳ
 
-Chỉ định MRI khi siêu âm không phù hợp với lâm sàng hoặc/và siêu âm không thể chẩn đoán chắc chắn, đặc biệt rau bám mặt sau.
+- Thường 34–36 tuần, sau corticosteroids tiền sinh.
 
-Đánh giá mức độ xâm lấn khi cần thiết.
+### Chuẩn bị mổ
 
-## Xử trí
-
-### Thời điểm chấm dứt thai kỳ
-
-- Cá thể hóa từng trường hợp.
-- Khuyến cáo chấm dứt thai kỳ từ 34-36 tuần sau liệu pháp corticosteroids trước sinh.
-
-### Chuẩn bị trước phẫu thuật
-
-Cần chuẩn bị kỹ trước mổ:
-
-- Khi có chẩn đoán nghi ngờ cần tư vấn cho sản phụ và người nhà nguy cơ, phương pháp mổ và các nguy cơ như con non tháng, băng huyết sau sinh, truyền máu, cắt tử cung, nhiễm trùng, chăm sóc đặc biệt do tổn thương đường niệu, ruột, phẫu thuật nhiều lần, thậm chí tử vong mẹ.
-- Điều trị thiếu máu, thiếu sắt (nếu có). Duy trì Hb>11g/dL trước phẫu thuật (trừ cấp cứu).
-- Liệu pháp corticosteroids trước sinh từ 28-33 tuần 6 ngày.
-- Tùy vòa tình trạng người bệnh xác định thời điểm nhập viện (tối thiểu 1 tuần trước thời điểm chấm dứt thai kỳ).
-- Điều trị tại cơ sở y tế đầy đủ phương tiện hồi sức mẹ và sơ sinh, ngân hàng máu.
-- Phẫu thuật viên phải có đủ kinh nghiệm.
-- Cần phối hợp nhiều chuyên khoa như ngoại khoa, gây mê hồi sức, huyết học, chẩn đoán hình ảnh, sản khoa…
-- Chuẩn bị đủ máu và chế phẩm tại thời điểm phẫu thuật.
-- Đặt thông tiểu với ống Foley niệu đạo số 18-20, đặt thông niệu quản 2 bên trước mổ đối với rau cài răng lược độ 3.
+- Tư vấn nguy cơ (băng huyết, truyền máu, cắt tử cung, tổn thương tuyến niệu, tử vong mẹ...).
+- Điều chỉnh Hb > 11 g/dL, bổ sung sắt/nước tiểu tươi.
+- Phối hợp đa chuyên khoa (gây mê, huyết học, ngoại, chẩn đoán hình ảnh...).
+- Sẵn sàng ngân hàng máu, 2 đường truyền, Foley niệu đạo; đặt niệu quản ngăn ngừa tổn thương khi percreta độ 3.
 
 ### Nguyên tắc phẫu thuật
 
-Cá thể hóa từng trường hợp.
-
-Phẫu thuật gồm:
-
-- Phẫu thuật lấy thai, tránh bánh rau + cắt tử cung toàn phần trong trường hợp thể nặng, phức tạp hoặc huyết động không ổn định, chảy máu nhiều.
-- Phẫu thuật lấy thai + bảo tồn tử cung theo quy trình kỹ thuật trong các trường hợp sản phụ trẻ tuổi và/hoặc có mong muốn giữ tử cung, không xuất huyết nhiều trước phẫu thuật, huyết động ổn định.
-
-Nắm rõ phân bố mạch máu tử cung và các nhánh nối liên quan, cấu trúc giải phẫu và mạch máu vùng chậu để giảm mất máu và tránh tổn thương và biến chứng.
-
-Dự đoán và đánh giá khó khăn trước và trong lúc phẫu thuật, đặc biệt là đánh giá vị trí và mức xâm lấn của bánh rau.
+- Cá thể hóa: Lấy thai + bảo tồn tử cung nếu ổn định và có mong muốn sinh tiếp; hoặc lấy thai + cắt tử cung toàn phần nếu chảy máu nhiều, percreta nặng.
+- Nắm vững giải phẫu mạch vùng chậu, dự phòng thắt động mạch tử cung hoặc bóng chèn nội mạch.
+- Chuẩn bị xử trí biến chứng (niệu quản, ruột).
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

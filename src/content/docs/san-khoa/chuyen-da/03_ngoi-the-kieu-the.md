@@ -1,103 +1,112 @@
 ---
 title: Ngôi, thế, kiểu thế
-description: Ngôi, thế, kiểu thế.
+description: Ngôi, thế, kiểu thế khi sinh.
 ---
 
-Ngôi, thế kiểu thế là cách dùng để mô tả tư thế, vị trí tương đối của phần thai sẽ đi qua đường sanh, so với các điểm mốc.
+**Ngôi, thế, kiểu thế** là cách mô tả tư thế và vị trí tương đối của phần thai sẽ đi qua đường sinh, dựa trên mối liên hệ giữa các mốc giải phẫu của thai nhi và khung chậu người mẹ.
 
 ## Ngôi
 
-Ngôi được định nghĩa là phần của thai nhi trình diện trước eo trên để qua đó ngôi sẽ lọt và tiến triển theo cơ chế sinh của nó:
+**Ngôi** được định nghĩa là phần của thai nhi trình diện đầu tiên trước **eo trên** và sẽ tiến triển qua đường sinh theo cơ chế tương ứng:
 
-- Ngôi có thể là ngôi dọc. Trong ngôi dọc, trục dọc của thai song song với trục của của cơ thể người mẹ. Ngôi dọc có thể là ngôi đầu hoặc ngôi mông.
-- Ngôi cũng có thể là ngôi ngang. Trong ngôi ngang, trục của thai nhi vuông góc với trục của cơ thể người mẹ. Đôi khi, trục của thai nhi hợp với trục mẹ thai nhi nằm xéo, không ổn định và sẽ định hình trở thành ngôi dọc hoặc ngôi ngang khi vào chuyển dạ.
+- **Ngôi dọc**: Trục dọc của thai nhi song song với trục của cơ thể người mẹ. Bao gồm:
+  - **Ngôi đầu**.
+  - **Ngôi mông**.
+- **Ngôi ngang**: Trục của thai nhi vuông góc với trục cơ thể người mẹ. Thai có thể ở tư thế **chéo**, không ổn định, và thường chuyển thành ngôi dọc hoặc ngang khi vào chuyển dạ.
 
-![Ngôi đầu](../../../../assets/san-khoa/ngoi-the-kieu-the/ngoi-dau.png)
-_Ngôi đầu._
+### Phân loại ngôi đầu
 
-Tùy theo tương quan giữa đầu và thân thai nhi, ta có:
+_Hìh ảnh "Phân loại ngôi đầu"._
+![Phân loại ngôi đầu](./_images/ngoi-the-kieu-the/ngoi-dau.png)
 
-- Ngôi chỏm là ngôi đầu với đầu cúi tối đa, cằm chạm vào thân.
-- Ngôi thóp trước là ngôi đầu với đầu ở tư thế trung gian, thóp trước trình trước eo trên.
-- Ngôi trán là ngôi đầu với đầu ở tư thế trung gian, trán trình trước eo trên.
-- Ngôi mặt là ngôi đầu với đầu ngửa tối đa thật tốt, gáy chạm vào lưng.
+- **Ngôi chỏm**: Đầu cúi tối đa, cằm áp sát ngực.
+- **Ngôi thóp trước**: Đầu ở tư thế trung gian, thóp trước trình diện.
+- **Ngôi trán**: Đầu ngửa trung gian, trán là phần trình diện.
+- **Ngôi mặt**: Đầu ngửa tối đa, gáy chạm lưng, cằm là phần trình diện.
 
-Mỗi ngôi có 1 điểm chuẩn đặc biệt gọi là mốc của ngôi. Mốc là đặc điểm giúp nhận diện được ngôi:
+### Mốc của ngôi
 
-- Ngôi chỏm có mốc là thóp sau.
-- Ngôi trán có mốc là gốc mũi.
-- Ngôi mặt có mốc là cằm.
-- Ngôi mông có mốc là đỉnh xương cùng.
-- Ngôi ngang có mốc là mỏm vai.
+Mỗi ngôi có **mốc giải phẫu** đặc trưng giúp nhận biết:
+
+- Ngôi chỏm: **Thóp sau**.
+- Ngôi trán: **Gốc mũi**.
+- Ngôi mặt: **Cằm**.
+- Ngôi mông: **Đỉnh xương cùng**.
+- Ngôi ngang: **Mỏm vai**.
 
 ## Thế
 
-Thế là tương quan giữa điểm mốc của ngôi với bên phải hoặc bên trái khung chậu người mẹ.
+**Thế** là tương quan giữa mốc của ngôi với **bên phải** hoặc **bên trái** của khung chậu người mẹ. Mỗi ngôi có 2 thế:
 
-Như vậy mỗi ngôi có 2 thế:
-
-- Thế phải.
-- Thế trái.
+- **Thế phải**.
+- **Thế trái**.
 
 ## Kiểu thế
 
-Kiểu thế là tương quan giữa điểm mốc của ngôi với các điểm mốc của khung chậu người mẹ:
+**Kiểu thế** là mối liên hệ giữa điểm mốc của ngôi với các mốc giải phẫu của khung chậu mẹ, gồm:
 
 1. Gai mào chậu lược.
-2. Khớp cùng chậu.
-3. Điểm chính giữa của gờ vô danh.
+2. Khớp cùng-chậu.
+3. Trung điểm của gờ vô danh.
 
-Như vậy mỗi ngôi có 6 kiểu thế:
+Từ đó, mỗi ngôi có 6 **kiểu thế**:
 
-- Trái trước.
-- Trái ngang.
-- Trái sau.
-- Phải trước.
-- Phải ngang.
-- Phải sau.
+- **Trái trước**.
+- **Trái ngang**.
+- **Trái sau**.
+- **Phải trước**.
+- **Phải ngang**.
+- **Phải sau**.
 
-Riêng với ngôi ngang, cần xác định được vai ở phía phải hay trái của người mẹ và lưng thai ở phía trước hay phía sau, để có thể mô tả được kiểu của thai nhi nằm trong tử cung.
+Riêng ngôi ngang cần xác định thêm vai thai nhi ở bên nào (trái/phải mẹ) và **lưng thai** nằm phía trước hay sau, để mô tả đầy đủ tư thế thai nhi trong tử cung.
 
-## Chẩn đoán ngôi thế kiểu thế
+## Chẩn đoán
 
-Có nhiều phương pháp chẩn đoán ngôi, thế, kiểu thế: sờ nắn bụng, thăm khám âm đạo, vị trí nghe tim thai. Trong những trường hợp khó, có thể sử dụng đến siêu âm hoặc X-quang trong trường hợp hãn hữu.
+Chẩn đoán dựa vào:
 
-### Leopold
+- **Sờ nắn bụng (thủ thuật Leopold)**.
+- **Khám âm đạo**.
+- **Nghe tim thai**.
+- **Siêu âm** (trong một số trường hợp khó).
+- **X-quang** (hiếm khi chỉ định).
 
-4 thủ thuật Leopold giúp xác định ngôi và thế thai nhi.
+### Thủ thuật Leopold
 
-Thủ thuật thứ nhất: Dùng 2 bàn tay nắn nhẹ nhàng vùng đáy tử cung để xác định cưc nào là của thai nhi (đầu hay mông) đang ở vùng đáy của tử cung. Trên hình là cực mông ở đáy tử cung.
+Bốn thủ thuật Leopold giúp xác định ngôi và thế thai:
 
-Thủ thuật thứ hai: Nắn nhẹ nhàng nhưng sâu ở 2 bên bụng để xác định bên nào là lưng, bên nào là chi của thai nhi. Trên hình là lưng ở bên phải, chi ở bên trái.
+1. **Thủ thuật thứ nhất**: Nắn đáy tử cung để xác định phần thai (đầu hoặc mông).
+2. **Thủ thuật thứ hai**: Nắn hai bên bụng để xác định bên nào là **lưng** và bên nào là **chi**.
+3. **Thủ thuật thứ ba**: Nắn vùng trên xương vệ để xác định phần thai ở đoạn dưới tử cung (đầu hoặc mông).
+4. **Thủ thuật thứ tư**: Khám từ hướng chân sản phụ, dùng đầu ngón tay ấn trên xương vệ để đánh giá **mức độ lọt** của đầu thai → Nếu đầu chưa lọt, hai bàn tay **hội tụ vào nhau**. Khi đầu đã lọt, hai bàn tay **phân kỳ ra ngoài**.
 
-Thủ thuật thứ ba: Người khám dùng ngón cái và các ngón còn lại của bàn tay phải nắn vùng trên xương vệ của sản phụ để xác định lại tên của phần thai nằm ở đoạn dưới của tử cung. Trên hình là cực đầu ở đoạn dưới tử cung.
+Trong ngôi chỏm, **ụ đầu** cùng bên với chi; trong ngôi mặt, ụ đầu ngược bên với chi.
 
-Thủ thuật thứ tư: người khám xoay người lại, mặt hướng về phía chân sản phụ. Dùng các đầu ngón tay ấn sâu trên xương vệ theo hướng trục của eo trên. Nếu là ngôi đầu, 1 bàn tay sẽ bị chặn lại bởi khối u tròn (ụ đầu), trong khi bàn tay kia xuống được sâu hơn. Trên hình là ngôi chỏm với đầu cao chưa lọt, bàn tay hội tụ, hướng chụm vào nhau. Ụ đầu cùng bên với chi trong ngôi chỏm và ngược bên với chi trong ngôi mặt. Khi đầu chưa lọt, 2 bàn tay sẽ có hướng hội tụ, do có thể ôm được đầu thai dễ dàng. Đầu càng xuống thấp trong tiểu khung, sờ ụ đầu càng khó. Khi đầu đã lọt, 2 bàn tay có hướng phân kỳ ra ngoài, vì không ôm được chỏm đã xuống sâu trong tiểu khung.
+### Khám âm đạo
 
-### Thăm khám âm đạo
+_Hình ảnh "Các kiểu thế trong ngôi chỏm"._
+![Các kiểu thế trong ngôi chỏm](./_images/ngoi-the-kieu-the/cac-kieu-the-ngoi-chom.png)
 
-Thăm khám âm đạo trong lúc chuyển dạ, cổ tử cung đã mở, tạo điều kiện tốt nhất và thuận lợi nhất cho việc tìm và xác định các điểm mốc của ngôi, nhờ đó, cung cấp yếu tố giúp chẩn đoán chính xác ngôi, thế, kiểu thế. Cần lưu ý khi khám âm đạo:
+Khám âm đạo lúc cổ tử cung đã mở là **phương pháp chính xác nhất** để xác định ngôi – thế – kiểu thế:
 
-Trong ngôi chỏm phải xác định vị trí của các thóp và rãnh liên đỉnh.
+- Ngôi chỏm: Tìm **thóp trước**, **thóp sau**, và **các đường khớp sọ**.
+- Ngôi mặt: Xác định **cằm**.
+- Ngôi mông: Xác định **đỉnh xương cùng** và **2 ụ ngồi**.
 
-![Các kiểu thế trong ngôi chỏm](../../../../assets/san-khoa/ngoi-the-kieu-the/cac-kieu-the-ngoi-chom.png)
-_Các kiểu thế trong ngôi chỏm._
+### Vị trí nghe tim thai
 
-Trong ngôi mặt, cần xác định vị trí của cằm.
-
-Trong ngôi mông, cần xác định vị trí của đỉnh xương cùng
-và 2 ụ ngồi.
-
-### Vị trí ổ tim thai
-
-Thông thường tiếng tim thai truyền theo cột sống của thai nhi nằm sát với thành tử cung, hoặc qua mỏm cùng vai. Vì vậy, xác định vị trí nghe được tim thai rõ nhất qua ống nghe Pinard là phương pháp hỗ trợ chẩn đoán.
-
-Trong ngôi chỏm và ngôi mông, tim thai nghe rõ nhất ở phía lưng thai nhi và mỏm vai. Trong ngôi mặt, tim thai nghe rõ nhất ở vùng ngực thai.
+- Tim thai thường nghe rõ nhất **ở lưng thai nhi**, đặc biệt tại **mỏm vai**.
+- Ngôi chỏm/ngôi mông: Tim thai nghe rõ ở vùng lưng.
+- Ngôi mặt: Tim thai nghe rõ ở vùng **ngực thai nhi**.
 
 ### Siêu âm
 
-Đôi khi việc thăm khám qua thành bụng hay qua khám âm đạo không phải lúc nào cũng dễ dàng, ví dụ như sản phụ quá mập, thành bụng quá dày, quá chắc, nước ối quá nhiều. Trong trường hợp này, siêu âm là biện pháp an toàn, được sử dụng cho chẩn đoán ngôi và thế.
+Siêu âm có giá trị khi:
+
+- Bụng sản phụ dày, khó sờ nắn.
+- Nước ối quá nhiều.
+- Không xác định được rõ ngôi qua sờ nắn hoặc khám âm đạo.
+  Đây là phương tiện **an toàn, chính xác** trong xác định ngôi, thế và kiểu thế.
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

@@ -1,106 +1,105 @@
 ---
 title: Đẻ thường ngôi chỏm
-description: Đẻ thường ngôi chỏm.
+description: Đặc điểm ẻ thường ngôi chỏm.
 ---
 
-Ngôi chỏm là ngôi mà trong phần lớn các trường hợp sẽ sinh được qua đường âm đạo.
+Ngôi chỏm là ngôi thai mà trong đa số các trường hợp có thể sinh qua đường âm đạo.
 
-## Cơ chế đẻ thường ngôi chỏm
+## Cơ chế
 
-Trong cuộc sinh ngôi chỏm, mỗi phần lớn nhất của thai nhi (đầu, vai, mông) đều phải lần lượt qua các eo của
-khung chậu: eo trên, eo giữa, eo dưới, được chia ra những thì tuần tự như sau:
+Trong cuộc sinh ngôi chỏm, các phần lớn nhất của thai (đầu, vai, mông) sẽ lần lượt vượt qua các eo của khung chậu: Eo trên, eo giữa, eo dưới. Quá trình này bao gồm các thì tuần tự sau:
 
-1. Qua eo trên gọi là thì lọt.
-2. Đi từ eo trên xuống eo dưới gọi là thì xuống và xoay.
-3. Qua eo dưới gọi là thì sổ.
-
-Trong thực tế, các hiện tượng trên xảy ra kế tiếp nhau, hiện tượng này chưa hoàn tất thì hiện tượng sau đã bắt đầu, nên cũng có thể chia cơ chế sinh thành 2 thì:
-
-1. Thì lọt và xuống, xảy ra ở các vị trí cao.
-2. Thì xoay và sổ, xảy ra ở các vị trí thấp.
-
-Bình chỉnh ngôi thai trong những tuần cuối cùng của thai kỳ, khi phần thân thai đã trở nên lớn hơn rất nhiều so với phần đầu thai, thì thân thai sẽ có xu hướng di chuyển lên phía đáy tử cung, là nơi rộng rãi hơn, còn đầu thai, do có kích thước nhỏ, sẽ hướng về phía dưới, là nơi có thể tích hẹp hơn.
+1. **Lọt**: Khi phần thai đi qua eo trên.
+2. **Xuống và xoay**: Khi phần thai di chuyển từ eo trên xuống eo dưới, đồng thời xoay.
+3. **Sổ**: Khi phần thai đi qua eo dưới và ra ngoài. Trên lâm sàng, các hiện tượng này diễn ra nối tiếp và có thể chồng lấp nhau. Vì vậy, cơ chế sinh cũng có thể chia thành hai giai đoạn:
+4. **Thì lọt và xuống**: Xảy ra ở vị trí cao.
+5. **Thì xoay và sổ**: Xảy ra ở vị trí thấp. Trong những tuần cuối thai kỳ, do thân thai lớn hơn đầu, thân thường hướng lên phía đáy tử cung – vùng rộng hơn – còn đầu hướng xuống vùng eo – nơi hẹp hơn.
 
 ### Lọt
 
-Ngôi gọi là lọt khi đường kính lọt của ngôi đã đi qua được măt phẳng của eo trên 12.75cm. Đường kính lọt lý thuyết của ngôi chỏm là đường kính hạ chẩm-thóp trước (9.5cm). Trên lâm sàng, người ta dùng đường kính lưỡng đỉnh (9.5cm) thay vì dùng đường kính hạ chẩm-thóp trước. Chẩn đoán hiện tượng lọt qua khám bụng và khám âm đạo.
+Ngôi được xem là đã lọt khi đường kính lọt của ngôi vượt qua mặt phẳng eo trên (12.75 cm). Ở ngôi chỏm, đường kính lọt lý thuyết là **hạ chẩm - thóp trước** (9.5 cm), nhưng lâm sàng thường dùng đường kính **lưỡng đỉnh** (cũng 9.5 cm). Chẩn đoán lọt dựa vào khám bụng và khám âm đạo.
 
-- Khám bụng: Phần đầu thai nhi còn trên xương vệ tương ứng độ rộng bao nhiêu ngón tay khép lại sẽ tương ứng với độ lọt bao nhiêu phần năm. Nếu toàn bộ đầu thai nhi nằm trên xương vệ, tương ứng với chiều rộng của năm ngón tay khi khép lại, ta nói đầu ở vị trí 5/5. Nếu toàn bộ thai nhi đã xuống dưới xương vệ, ta nói đầu ở vị trí 0/5. Ngôi thai lọt sẽ có vị trí khoảng 2/5.
-- Khám âm đạo: Khi ngôi thai chưa lọt, phần thấp nhất của xương đầu vẫn còn ở trên vị trí của gai hông, được đánh giá -1, -2, -3. Khi ngôi thai đã lọt, phần thấp nhất của xương đầu (phần xương cứng) đã vượt khỏi vị trí của gai hông, được đánh giá +1, +2, +3.
-
-![Độ lọt ngôi thai](../../../../assets/san-khoa/de-thuong-ngoi-chom/do-lot-ngoi-thai.png)
+- **Khám bụng**: đánh giá độ lọt bằng cách ước lượng phần đầu thai nhi còn nằm trên xương vệ so với chiều rộng của năm ngón tay khép lại:
+  - Toàn bộ đầu trên xương vệ: 5/5.
+  - Toàn bộ đầu dưới xương vệ: 0/5.
+  - Ngôi lọt thường ở khoảng 2/5.
+- **Khám âm đạo**: Xác định vị trí thấp nhất của xương đầu so với gai hông:
+  - Chưa lọt: -1, -2, -3.
+  - Đã lọt: +1, +2, +3.<br>
+    _Hình ảnh "Độ lọt ngôi thai"._
+    ![Độ lọt ngôi thai](./_images/de-thuong-ngoi-chom/do-lot-ngoi-thai.png)
 
 ### Xuống
 
-Hiện tượng xuống là sự di chuyển của ngôi trong tiểu khung sau khi ngôi đã lọt.
+Là sự di chuyển tiếp theo của ngôi thai trong tiểu khung sau khi đã lọt.
 
 ### Xoay
 
-Hệ quả của xoay trong là ngôi hướng được đường kính sổ của mình trùng với đường kính trước sau của eo dưới.
+Xoay trong giúp ngôi điều chỉnh để đường kính sổ của đầu trùng với đường kính trước - sau của eo dưới.
 
-![Xuống và xoay trong](../../../../assets/san-khoa/de-thuong-ngoi-chom/xuong-va-xoay-trong.png)
+_Hình ảnh "Xuống và xoay trong"._
+![Xuống và xoay trong](./_images/de-thuong-ngoi-chom/xuong-va-xoay-trong.png)
 
 ### Sổ
 
-Hiện tượng sổ thai qua eo dưới có điểm tựa bờ dưới khớp vệ. Ngôi sẽ thực hiện động tác sổ trên điểm tựa này.
+Sổ thai xảy ra khi ngôi vượt qua eo dưới, điểm tựa chính là **bờ dưới khớp vệ**, nơi ngôi thực hiện động tác sổ ra ngoài.
 
-## Kỹ thuật đỡ đẻ ngôi chỏm
+## Kỹ thuật đỡ đẻ
 
-Các giai đoạn sau đây (a đến d) diễn ra theo cơ chế sinh tự nhiên. Không được can thiệp vào các giai đoạn này.
+Các giai đoạn **(a → d)** xảy ra theo cơ chế tự nhiên, **không được can thiệp**:
 
-![Đẻ thường ngôi chỏm a-d](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-a-d.png)
+_Hình ảnh "Đẻ thường ngôi chỏm a → d"._
+![Đẻ thường ngôi chỏm a-d](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-a-d.png)
 
-Giai đoạn cần hỗ trợ để cuộc sinh an toàn (e đến h). Chỉ được phép can thiệp khi có đủ tất cả các điều kiện sau:
+Từ giai đoạn **(e → h)**, người đỡ sinh có thể **hỗ trợ** nếu thỏa 3 điều kiện:
 
-1. Ngôi đã hoàn thành xoay về chẩm vệ.
-2. Ngôi đã sẵn sàng để sổ, ở vị trí +3 làm căng phồng tầng sinh môn, âm hộ nhìn về phía trần nhà.
-3. 2 âm môi bé tách rộng ra.
+1. Ngôi đã xoay về chẩm vệ.
+2. Đầu đã xuống đến vị trí +3, làm căng phồng tầng sinh môn.
+3. Hai môi bé tách rộng.
 
-Người đỡ sinh dùng 3 ngón tay giữa của tay phải đè vào vùng thượng chẩm để cho đầu cúi thêm, cho tới khi hạ chẩm ra đến bờ dưới khớp vệ. Song song với giúp đầu cúi bằng tay phải, người đỡ sinh tay trái đè vào vùng tầng sinh môn tránh rách thêm tầng sinh môn.
+- **Giúp đầu cúi tối đa**: Tay phải dùng 3 ngón giữa ấn vào thượng chẩm, tay trái giữ tầng sinh môn.<br>
+  _Hình ảnh "Đẻ thường ngôi chỏm e → f"._
+  ![Đẻ thường ngôi chỏm e-f](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-e-f.png)
+- **Khi hạ chẩm ra khỏi bờ dưới khớp vệ**: Tay phải kiểm soát tốc độ ngửa đầu để sổ trán, nếu tầng sinh môn căng quá có thể cắt chủ động.
+- **Sổ đầu xong**: Kiểm tra dây rốn quấn cổ:
+  - Quấn lỏng: Tháo.
+  - Quấn chặt: Kẹp và cắt.
+- **Xoay ngoài thì 1st**: đầu tự xoay về vị trí ban đầu.
+- **Xoay ngoài thì 2nd**: Vai xoay trong → đầu xoay ngoài thêm → vào đường kính trước sau.
+- **Đỡ vai trước**: Kéo đầu về phía chân người đỡ, xuống dưới để vai ra.
+- **Đỡ vai sau**: Kéo thai lên trên, vai sau sổ nhẹ nhàng, giữ tầng sinh môn.
+  _Hình ảnh "Đẻ thường ngôi chỏm g → h"._
+  ![Đẻ thường ngôi chỏm g-h](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-g-h.png)
+- **Sổ phần còn lại**: Tay trái đỡ cổ, tay phải vuốt dọc lưng, nắm 2 bàn chân bằng 3 ngón tay (cái, trỏ, giữa). Sau sổ, giữ đầu thai thấp hơn bàn sinh.
+- **Cắt tầng sinh môn**: Chỉ thực hiện khi thực sự cần, không phải thủ thuật thường quy. Cần thiết khi:
+  - Tầng sinh môn quá căng.
+  - Thai to, sinh thủ thuật.
+    :::caution
+    Cắt tầng sinh môn không rút ngắn thời gian rặn, không giúp sinh nhanh hơn.
+    :::
+    _Hình ảnh "Cắt tầng sinh môn"._
+    ![Cắt tầng sinh môn](./_images/de-thuong-ngoi-chom/cat-tang-sinh-mon.png)
 
-Khi hạ chẩm ra đến bờ dưới khớp vệ, bắt đầu dùng tay phải kiểm soát tốc độ ngửa của đầu khi thực hiện sổ trán. Tay còn lại giữ tầng sinh môn. Nếu tầng sinh môn quá căng thì có thể thực hiện cắt tầng sinh môn lúc này.
-
-Khi đầu đã sổ, nếu thấy dây rốn quấn cổ lỏng, tháo dây rốn qua đầu thai ngay. Nếu dây rốn quấn cổ chặt thì kẹp cắt dây rốn ngay tại vùng cổ thai.
-
-![Đẻ thường ngôi chỏm e-f](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-e-f.png)
-
-Sau khi đầu sổ hoàn toàn, để đầu tự xoay ngoài về vị trí nguyên thủy của nó (xoay ngoài thì 1st), chờ thêm để cho cơn co tự nhiên đưa vai lọt vào tiểu khung. Khi vai đã lọt, đường kính lưỡng mỏm vai đi vào đường kính chéo của eo trên và xoay. Vai xoay trong sẽ làm cho đầu xoay ngoài thêm 1 thì nữa, gọi là xoay ngoài thì 2nd. Cuối thì này, vai đã vào đến đường kính trước sau eo dưới, đầu có vị trí chẩm ngang. Người đỡ sinh có thể giúp thai hoàn thành thì xoay ngoài thứ 2nd, rồi bắt đầu đỡ vai.
-
-- Đỡ vai trước: người đỡ sinh dùng 2 tay ôm 2 bên đầu thai nhi, vùng đỉnh, kéo đầu thai về phía chân mình và hơi xuống phía dưới để mỏm vai trước ra hẳn cho đến khi bờ dưới cơ delta tì dưới khớp vệ. Nhớ chú ý giữ đúng phương kéo để tránh gãy xương đòn.
-- Đỡ vai sau: sau khi vai trước đã sổ hoàn toàn, người đỡ kéo ngược thai lên trên, vai trước sát vùng tiền đình, thân thai nhi sẽ cong lại và vai sau sẽ sổ nhẹ nhàng, không làm rách âm tầng sinh môn. Nhớ chú ý giữ tầng sinh môn khi sổ vai sau.
-
-![Đẻ thường ngôi chỏm g-h](../../../../assets/san-khoa/de-thuong-ngoi-chom/de-thuong-noi-chom-g-h.png)
-
-Phần còn lại của thai và mông sẽ dễ dàng. Bàn tay trái đỡ cổ thai nhi, bàn tay phải vuốt dọc lưng thai
-nhi tới chân, nắm 2 chân bằng cách cầm 2 bàn chân bằng 3 ngón cái, trỏ và giữa bàn tay phải. Sau sổ thai, cần giữ đầu thai nhi thấp hơn bàn sinh.
-
-Thủ thuật cắt tầng sinh môn là cần thiết nhưng không phải là can thiệp thường quy. Trong khi đỡ sinh, sau khi đã giúp cho đầu cúi tối đa, hạ chẩm đã ra đến bờ dưới khớp vệ, có thể bắt đầu cho đầu thai ngửa dần làm thoát âm các phần của đầu thai với đường kính ngày càng lớn đi qua tầng sinh môn. Nên cắt tầng sinh môn khi quá căng để mở rộng chủ động ở lối ra của đường sinh, nhằm tránh các tổn thương không kiểm soát được.
-Việc cắt tầng sinh môn không phải luôn luôn cần thiết. 1 số tình huống mà trong đó việc cắt tầng sinh môn sẽ có lợi như sinh con to, sinh thủ thuật. Con so không phải là tình huống mà trong đó việc cắt tầng môn được thực hiện thường quy.
-
-:::caution[Lưu ý]
-Cắt tầng sinh môn không giúp rút ngắn giai đoạn rặn sổ thai, không làm cho sản phụ sinh nhanh hơn.
-:::
-
-![Cắt tầng sinh môn](../../../../assets/san-khoa/de-thuong-ngoi-chom/cat-tang-sinh-mon.png)
-
-## Cách thở và rặn trong cuộc đẻ
+## Thở và rặn
 
 ### Cách thở
 
-Dựa theo tính chất chu kỳ của cơn gò tử cung, sản phụ sẽ chú ý, tập trung vào hơi thở:
+Dựa trên chu kỳ co tử cung:
 
-- Khi bắt đầu cảm nhận đau, nghĩa là khi bắt đầu thì co, có cơn co xuất hiện thai phụ nên tập trung vào hơi thở để tập thở nhanh dần. Hít vào bằng mũi và thở ra bằng miệng. Cơn đau càng tăng thì thở càng nhanh hơn và nông hơn, tần suất nhịp thở tăng dần ở thì kéo dài. Cảm nhận đau càng nhiều thì thở càng nhanh hơn. Ở thì thở ra làm sao tạo được tiếng rít gần như tiếng rít, tiếng huýt sáo nhỏ. Đến khi cảm nhận bớt đau thì thở chậm lại và thở sâu hơn, tần suất nhịp thở giảm dần.
-- Ở thì nghỉ giữa các cơn co tử cung, thai phụ nên thở sâu và nhẹ nhàng bình thường để lấy lại năng lượng đã bị mất đi khi thở nhanh, nông ở thì co và tích trữ năng lượng cho lần thở của cơn đau kế tiếp. Nên thư giãn toàn thân là tốt nhất.
-
-Khi rặn, thai phụ nên tập rặn đúng cách thì mới có hiệu quả đẩy thai ra khỏi bụng mẹ và ống sinh dục được. Rặn không hiệu quả, giai đoạn xổ thai kéo dài sẽ làm mất sức người mẹ và em bé có thể bị ngạt ngay khi chưa kịp sinh ra.
+- **Khi bắt đầu đau**: Thở nhanh, nông, hít bằng mũi – thở ra bằng miệng, tạo âm thanh rít nhẹ. Khi bớt đau, thở chậm và sâu.
+- **Giữa các cơn**: Thở đều, thư giãn toàn thân, tích lũy năng lượng.
 
 ### Cách rặn
 
-Khi cảm nhận được cơn co tử cung (bụng gò cứng dần và xuất hiện cơn đau): thai phụ nên hít vào 1 hơi thở thất sâu. Sau đó nín thở, miệng ngậm chặt, 2 tay nắm chặt vào 2 thành của bàn sinh, 2 chân đạp mạnh vào 2 ống treo cổ chân của bàn sinh, dồn hơi rặn mạnh để đẩy hơi xuống vùng bụng dưới giúp tống xuất thai nhi ra ngoài. Khi cảm thấy sắp hết hơi nhưng vẫn còn đau có thể hít vào 1 hơi khác và rặn tiếp tục cho đến khi hết cảm thấy đau bụng nữa. Chú ý là trong khi rặn, thai phụ phải giữ sao cho lưng thẳng, áp sát vào bề mặt bàn sinh và phần mông phải cong lên phía trước. Đặt biệt là phải giữ để khi rặn thì miệng không được phát ra bất cứ âm thanh nào.
-
-Giữa 2 cơn co tử cung, hết đau thì thở sâu điều hòa, dưỡng sức để tập trung vào đợt rặn kế tiếp.
+- Khi có cơn co:
+  1. Hít sâu.
+  2. Nín thở, ngậm miệng, nắm hai bên bàn sinh, chân đạp ống treo.
+  3. Dồn hơi rặn mạnh xuống bụng dưới.
+  4. Rặn thêm nếu còn đau và còn hơi.
+  5. Lưng giữ thẳng, sát bàn sinh; mông cong lên; **không phát âm** khi rặn.
+- Khi hết đau: Thở sâu, nghỉ và dưỡng sức cho đợt tiếp theo.
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
-- [Cách thở và rặn sinh trong cuộc chuyển dạ](https://tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/cach-tho-va-ran-sinh-trong-cuoc-chuyen-da/) - Bệnh viện Từ Dũ.
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- – Bệnh viện Từ Dũ – [_Cách thở và rặn sinh trong cuộc chuyển dạ_](https://tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/cach-tho-va-ran-sinh-trong-cuoc-chuyen-da/)

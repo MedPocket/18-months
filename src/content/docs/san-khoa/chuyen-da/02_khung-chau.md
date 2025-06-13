@@ -1,92 +1,129 @@
 ---
 title: Khung chậu trong sản khoa
-description: Khung chậu trong sản khoa.
+description: Giải phẫu và vai trò của khung chậu trong sản khoa, bao gồm cấu tạo, các eo khung chậu, đánh giá lâm sàng và các dạng khung chậu ảnh hưởng đến chuyển dạ.
 ---
 
 Khung chậu có vai trò rất quan trọng trong sản khoa, vì thai từ trong tử cung muốn sinh qua ngã âm đạo phải vượt qua được đoạn đường bên trong lòng khung chậu.
 
-Khung chậu được cấu tạo bởi 4 xương: phía trước và 2 bên là 2 xương chậu, phía sau là xương cùng-cụt. Mặt trong xương chậu có gờ vô danh chia khung chậu làm 2 phần: đại khung phía trên và tiểu khung phía dưới.
+## Giải phẫu
 
-Tiểu khung là phần quan trọng nhất vì ngôi thai phải vượt qua tiểu khung để đi ra ngoài qua ngã âm đạo. Trên đoạn đường đi từ trong ra ngoài này, thai nhi phải lần lượt vượt qua các vòng eo hẹp, có thể được cấu tạo bằng xương, hay bằng xương và cân-cơ, đó là eo trên, eo giữa và eo dưới.
+Khung chậu được cấu tạo bởi 4 xương: Phía trước và 2 bên là 2 xương chậu, phía sau là xương cùng-cụt. Mặt trong xương chậu có gờ vô danh chia khung chậu làm 2 phần: **đại khung** phía trên và **tiểu khung** phía dưới.
 
-Khi nhìn ngang, lòng tiểu khung có dạng ống cong về phía trước với 2 thành trước và sau không đều nhau. Thành trước ngắn khoảng 4cm tương ứng với măt sau khớp vệ. Thành sau dài 12-15cm tương ứng mặt trước xương cùng và xương cụt.
+Tiểu khung là phần quan trọng nhất vì ngôi thai phải vượt qua tiểu khung để đi ra ngoài qua ngã âm đạo. Trên đoạn đường đi từ trong ra ngoài này, thai nhi phải lần lượt vượt qua các vòng eo hẹp – có thể được cấu tạo bằng xương hoặc xương kết hợp với cân-cơ – đó là: **eo trên**, **eo giữa** và **eo dưới**.
 
-Khi ngôi thai đi qua eo trên gọi là thì lọt, đi từ eo trên đến eo dưới thì gọi là thì xuống; ra khỏi eo dưới gọi là thì sổ.
+_Hình ảnh "Tiểu khung trên thiết đồ đứng dọc"._
+![Tiểu khung trên thiết đồ đứng dọc](./_images/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
 
-## Eo trên
+Khi nhìn ngang, lòng tiểu khung có dạng ống cong về phía trước với 2 thành không đều nhau:
 
-Eo trên được giới hạn ở phía sau là mỏm nhô của xương cùng, ở 2 bên là 2 đường vô danh của 2 xương cánh chậu, ở phía trước là mặt sau của khớp vệ. Như vậy, eo trên là vòng xương cứng, có số đo bất biến trong chuyển dạ.
+- Thành trước ngắn, khoảng 4cm, tương ứng với mặt sau khớp vệ.
+- Thành sau dài hơn, 12–15cm, tương ứng với mặt trước xương cùng và xương cụt.
 
-Kích thước của eo trên được thể hiện qua các đường kính (diameter). Các đường kính quan trọng là đường kính trước-sau, đường kính chéo, đường kính ngang hữu dụng:
+Các thì trong quá trình ngôi thai đi qua khung chậu:
 
-![Các đường kính eo trên](../../../../assets/san-khoa/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
-_Các đường kính eo trên._
+- **Lọt**: Ngôi thai đi qua **eo trên**.
+- **Xuống**: Ngôi di chuyển từ **eo trên đến eo dưới**.
+- **Sổ**: Ngôi vượt qua **eo dưới** và ra ngoài.
 
-- Các đường kính trước sau:
-  - Đường kính mỏm nhô-thượng vệ 11cm.
-  - Đường kính mỏm nhô-hạ vệ 12cm là đường kính duy nhất của eo trên có thể đo được bằng tay, nhưng lại chỉ phản ánh gián tiếp đường kính trước-sau hữu dụng của eo trên.
-  - Đường kính mỏm nhô-hậu vệ 10.5cm là đường kính quan trọng nhất vì là đường kính thật sự mà ngôi thai phải vượt qua, nên còn gọi là đường kính hữu dụng.
-- Các đường kính chéo: Các đường kính chéo đi từ khớp cùng-chậu 1 bên (ở phía sau) đến gai mào chậu lược bên đối diện (ở phía trước) có trị số bình thường 12.75cm.
-- Các đường kính ngang:
-  - Đường kính ngang tối đa 13.5cm là khoảng cách xa nhất giữa 2 đường vô danh. Tuy là đường kính lớn nhất, nhưng ngôi thai không thể sử dụng được đường kính này, do đường kính này nằm quá gần với mỏm nhô. Đường kính này không có giá trị về mặt sản khoa.
-  - Đường kính ngang hữu dụng 12.5cm là đường kính ngang tưởng tượng, đi ngang qua trung điểm của đường kính trước-sau, có trị số khoảng 12.5cm. Tuy là đường kính hữu dụng nhưng nó lại không đo được trên lâm sàng.
+### Eo trên
 
-## Eo giữa
+Eo trên là mặt phẳng xương đầu tiên mà ngôi thai phải vượt qua khi bắt đầu chuyển dạ. **Giới hạn**:
 
-Eo giữa là mặt phẳng tưởng tượng được dựng bằng điểm là mặt sau của khớp vệ, và 2 điểm khác là 2 gai hông. Mặt phẳng tưởng tượng này sẽ cắt mặt trước của xương cùng khoảng giữa đốt sống S4 và S5.
+- Sau: Mỏm nhô của xương cùng.
+- Hai bên: Đường vô danh của 2 xương cánh chậu.
+- Trước: Mặt sau của khớp vệ.
 
-Xương cùng có dạng cong, và tạo ra hõm trước xương cùng. Hõm này tạo ra khúc quanh, như "khúc cua cùi chỏ trên đèo" mà thai phải vượt qua. Ở hõm này, ngôi sẽ phải xoay sở để có thể đi tiếp qua khúc quanh.
+Eo trên là vòng xương cứng, không thay đổi trong chuyển dạ. Kích thước của eo trên được thể hiện qua các **đường kính**:
 
-Eo giữa có cấu tạo phía sau là vách xương cứng. 2 bên là 2 gai hông, tạo ra điểm nhô hẳn vào lòng của eo giữa và thắt hẹp eo này. Phần còn lại là các cơ-mạc.
+- **Đường kính trước-sau**:
+  - **Mỏm nhô – thượng vệ**: 11 cm.
+  - **Mỏm nhô – hạ vệ**: 12 cm. Đo được bằng tay, nhưng chỉ phản ánh gián tiếp đường kính thật sự của eo trên.
+  - **Mỏm nhô – hậu vệ**: 10.5 cm. Đây là đường kính **hữu dụng** và **quan trọng nhất**, vì là đường kính thật sự mà ngôi thai phải vượt qua.
+- **Đường kính chéo**:
+  - Từ khớp cùng-chậu bên này đến gai mào chậu lược bên kia.
+  - Trị số bình thường: 12.75 cm.
+- **Đường kính ngang**:
+  - **Ngang tối đa**: 13.5 cm – không có giá trị sản khoa vì nằm gần mỏm nhô.
+  - **Ngang hữu dụng**: 12.5 cm – là đường kính ngang đi qua trung điểm của đường kính trước-sau. Dù quan trọng, nhưng **không thể đo được lâm sàng**.<br>
+    _Hình ảnh "Các đường kính eo trên"._
+    ![Các đường kính eo trên](./_images/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
 
-Do các đặc điểm vừa kể nên khi nói đến eo giữa, ta thường nói đến đường kính ngang và độ cong xương cùng:
+### Eo giữa
 
-![Tiểu khung trên thiết đồ đứng dọc](../../../../assets/san-khoa/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
-_Tiểu khung trên thiết đồ đứng dọc._
+Eo giữa là đoạn hẹp nhất về mặt giải phẫu của đường sinh. Được tạo bởi:
 
-- Đường kính trước sau của eo giữa 11.5cm. Đường kính này không có ý nghĩa trên lâm sàng.
-- Đường kính ngang của eo giữa là khoảng cách giữa 2 gai hông 10.5cm. Đường kính có ý nghĩa quan trọng, và là đường
-  kính có đo thể được trực tiếp trên lâm sàng.
-- Đường kính dọc sau là phần đường kính trước sau đi từ giao điểm với đường kính ngang qua 2 gai hông đến mặt trước xương cùng. Trị số bình thường của nó là 4.5cm. Đường kính này phản ánh gián tiếp độ cong của xương cùng, và như vậy phản ánh gián tiếp những khó khăn mà thai có thể gặp trong hành trình vượt eo giữa.
+- Sau: Xương cùng (hõm xương cùng).
+- Hai bên: Gai hông – điểm nhô vào lòng tiểu khung, gây hẹp rõ rệt.
+- Trước: Mặt sau khớp vệ.
+- Phần còn lại là cơ và mạc.
 
-## Eo dưới
+Hõm xương cùng tạo thành một **khúc cong**, giống như "khúc cua cùi chỏ", đòi hỏi ngôi thai phải xoay để vượt qua.
 
-Eo dưới tạo bởi 2 tam giác không đồng phẳng, 1 bằng xương ở phía trước và 1 bằng cân-cơ-màng ở phía sau:
+**Các đường kính chính**:
 
-1. Tam giác xương ở phía trước được tạo bởi bờ dưới khớp vệ và 2 bên là 2 nhánh tọa của xương chậu.
-2. Tam giác cân-cơ-màng ở phía sau có đáy là 2 ụ ngồi, và đỉnh là đỉnh xương cụt. Dây chằng tọa-cùng được xem như 2 cạnh bên của tam giác sau của eo dưới. Do khớp cùng-cụt là khớp bán động nên đỉnh xương cụt có thể bị đẩy ra sau khi ngôi thai đi ngang qua đó, nên kích thước của tam giác sau là có thể biến đổi trong cuộc sinh.
+- **Đường kính trước-sau**: 11.5 cm – không có ý nghĩa lâm sàng.
+- **Đường kính ngang**: 10.5 cm – khoảng cách giữa 2 gai hông; **có thể đo được và có giá trị lâm sàng cao**.
+- **Đường kính dọc sau**: 4.5 cm – từ điểm giao với đường kính ngang đến mặt trước xương cùng; phản ánh **độ cong xương cùng** và **khả năng di chuyển của ngôi**.
 
-Do đặc tính không đồng phẳng, cấu tạo cứng ở phía trước và cân mạc phía sau, nên trong đa số các trường hợp, eo dưới không phải là trở ngại thực sự trên đường sinh:
+### Eo dưới
 
-- Đường kính trước sau của eo dưới 9.5-11.5cm. Đường kính này không có ý nghĩa lâm sàng, do tính không đồng phẳng của eo dưới.
-- Đường kính ngang 11cm là khoảng cách giữa 2 ụ ngồi, có trị số cố định, đo đạc được trên lâm sàng, có ý nghĩa nhất định, nhưng không mạnh vì eo dưới thực sự không phải là trở ngại lớn trên đường sinh.
+Eo dưới là đoạn cuối cùng của đường sinh, không phải là trở ngại lớn trong phần lớn các trường hợp. Cấu tạo gồm 2 tam giác:
 
-## Đánh giá khung chậu
+- **Tam giác xương (phía trước)**
+  - Bờ dưới khớp vệ.
+  - Hai bên là hai nhánh tọa của xương chậu.
+- **Tam giác cân-cơ-màng (phía sau)**
+  - Đỉnh: Đỉnh xương cụt.
+  - Đáy: 2 ụ ngồi.
+  - Hai cạnh bên: Dây chằng tọa-cùng.
+  - Do khớp cùng-cụt là **khớp bán động**, đỉnh xương cụt có thể bị đẩy ra sau, giúp mở rộng thêm không gian eo dưới trong chuyển dạ.
 
-Trên lâm sàng, khám khung chậu cung cấp ý niệm về đường sinh (giới hạn, hẹp hay biến dạng), thông việc đánh giá hay đo đạc (khi có thể) các kích thước của khung chậu.
+**Các đường kính chính**:
 
-Khám khung chậu được tiến hành khi sản phụ bắt đầu có dấu hiệu chuyển dạ sinh hay khi thai đã đủ trưởng thành.
+- **Trước-sau**: 9.5–11.5 cm – không có ý nghĩa lâm sàng vì tính chất không đồng phẳng.
+- **Ngang**: 11 cm – khoảng cách giữa hai ụ ngồi; đo được trên lâm sàng, **có giá trị nhất định**.
 
-- Các đường kính có thể đo đạc được gồm: (1) đường kính mỏm nhô-hạ vệ: đo được bằng thước Beaudelocque, (2) đường kính ngang eo giữa: đo được bằng thước De Lee và (3) đường kính ngang eo dưới đo được bằng thước dây hay thước Beaudelocque.
-- Các đường kính có thể khám và đánh giá được gồm: (1) đường kính ngang eo trên: cảm nhận qua độ dài của phần gờ vô danh sờ thấy được, bình thường chỉ sờ được khoảng 1/2 của gờ vô danh, (2) độ cong xương cùng chỉ có thể cảm nhận tương đối, và (3) độ rộng hẹp của góc tạo bởi 2 ngành ngồi-mu.
+## Đánh giá
 
-Quang kích chậu phương pháp dùng X-quang để đo đạc các kích thước của khung chậu, nhằm có được trị số chính xác của các đường kính khung chậu.
+### Lâm sàng
 
-Dù có được những thông số về kích thước, nhưng không có chỉ định chụp quang kích chậu thường qui. Việc chụp kích quang chậu thường qui cho mọi sản phụ là tăng nguy cơ mổ sinh không cần thiết do thai nhi còn có khả năng tự bình chỉnh để vượt qua các trở ngại cơ học trên tiểu khung.
+Thực hiện khi sản phụ chuyển dạ hoặc thai đủ trưởng thành. Mục tiêu là đánh giá khả năng sinh ngả âm đạo thông qua việc cảm nhận và đo đạc:
+
+- **Đo đạc được**:
+  - Mỏm nhô – hạ vệ: Thước Beaudelocque.
+  - Đường kính ngang eo giữa: Thước De Lee.
+  - Đường kính ngang eo dưới: Thước dây hoặc thước Beaudelocque.
+- **Đánh giá cảm nhận**:
+  - Đường kính ngang eo trên: Đánh giá qua chiều dài phần gờ vô danh sờ được (thường chỉ sờ được khoảng ½ nếu bình thường).
+  - Độ cong xương cùng: Chỉ ước lượng tương đối.
+  - Độ rộng của góc tạo bởi 2 ngành ngồi-mu.
+
+### Cận lâm sàng
+
+- Phương pháp sử dụng X-quang để đo chính xác các đường kính khung chậu.
+- **Không chỉ định thường quy** vì có thể dẫn đến **can thiệp không cần thiết** (như chỉ định mổ lấy thai sớm).
+- Thai có khả năng tự điều chỉnh để vượt qua khung chậu nếu không có biến dạng rõ ràng.
 
 ## Xếp loại khung chậu
 
-![Các dạng khung chậu](../../../../assets/san-khoa/khung-chau-trong-san-khoa/cac-dang-khung-chau-theo-caldwell-moloy.png)
-_4 dạng khung chậu theo Caldwell-Moloy._
+Theo Caldwell–Moloy, khung chậu được chia thành 4 loại chính:
 
-Khung chậu dạng phụ (gynecoid) là dạng khung chậu thường thấy nhất ở phụ nữ (50.6%). Là dạng khung chậu thuận lợi nhất cho cuộc sanh.
+_Hình ảnh "4 dạng khung chậu theo Caldwell-Moloy"._
+![Các dạng khung chậu](./_images/khung-chau-trong-san-khoa/cac-dang-khung-chau-theo-caldwell-moloy.png)
 
-Khung chậu dạng hầu (andropoid) giống như khung chậu ở loài khỉ (22.7%). Tỉ lệ sinh bằng dụng cụ rất cao với dạng khung chậu này.
-
-Khung chậu dạng nam (android) giống khung chậu đàn ông (22.4%). Dạng này gây nhiều khó khăn cho cuộc sanh.
-
-Khung chậu dạng dẹt (platypelloid) là dạng khung chậu hiếm gặp nhất ở phụ nữ (4.4%). Dạng khung chậu này gây khó khăn rất nhiều cho thì lọt của ngôi.
+- **Gynecoid (dạng phụ nữ)** – 50.6%:
+  - Thường gặp nhất ở phụ nữ.
+  - Thuận lợi cho sinh ngả âm đạo.
+- **Anthropoid (dạng hầu)** – 22.7%:
+  - Giống khung chậu loài khỉ.
+  - Tỷ lệ sinh bằng dụng cụ cao.
+- **Android (dạng nam)** – 22.4%:
+  - Giống khung chậu đàn ông.
+  - Gây nhiều khó khăn khi sinh.
+- **Platypelloid (dạng dẹt)** – 4.4%:
+  - Hiếm gặp.
+  - Gây trở ngại lớn cho **thì lọt** của ngôi.
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

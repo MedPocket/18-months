@@ -1,170 +1,162 @@
 ---
 title: Ối vỡ non
-description: Ối vỡ non.
+description: Chẩn đoán, xử trí ối vỡ non.
 ---
 
-Ối vỡ non được định nghĩa tình trạng không toàn vẹn của các màng đệm và màng ối, dẫn đến chảy nước ối ra ngoài, xảy ra khi thai phụ chưa có chuyển dạ.
+Ối vỡ non được định nghĩa là tình trạng màng ối và màng đệm bị mất tính toàn vẹn, dẫn đến nước ối chảy ra ngoài trước khi thai phụ có dấu hiệu chuyển dạ.
 
 ## Yếu tố nguy cơ
 
 - Tiền căn ối vỡ non.
-- Xuất huyết 3 tháng đầu thai kỳ.
+- Xuất huyết trong tam cá nguyệt đầu.
 - Mẹ hút thuốc lá.
 - Nhiễm trùng đường sinh dục dưới.
-- Các yếu tố của chuyển dạ sinh non.
+- Các yếu tố nguy cơ của chuyển dạ sinh non.
 
 ## Chẩn đoán
 
 ### Lâm sàng
 
-Mọi thai phụ đến bệnh viện vì ra nước âm đạo, trước tiên bắt buộc phải loại trừ trường hợp thượng khẩn là cấp cứu sa dây rốn bằng cách nghe tim thai. Không đi tìm sa dây rốn bằng khám âm đạo.
-
-Kế đến, dùng mỏ vịt được tiệt trùng tốt để khảo sát và đánh giá hiện tượng ra nước ở âm đạo, bằng quan sát mắt thường và nghiệm pháp Valsava, test Nitrazine.
-
-Chẩn đoán vỡ ối được xác định dễ dàng khi thấy nước ối với đặc tính lâm sàng điển hình: ra nước đột ngột, lượng nhiều, liên tục và có mùi điển hình của nước ối.
-
-Không được thực hiện khám âm đạo bằng tay vì điều này không giúp gì cho việc thực hiện chẩn đoán và có thể dẫn đến tình trạng nhiễm trùng.
-
-Đặt băng vệ sinh âm hộ và kiểm tra miếng băng vệ sinh 1h sau bằng cách nhìn và đánh giá mùi.
-
-:::note[Tiêu chuẩn chẩn đoán ối vỡ non]
-![Ối vỡ non](../../../../assets/san-khoa/oi-vo-non/oi-vo-non.png)
-:::
+- Mọi thai phụ nhập viện vì ra nước âm đạo cần được loại trừ **sa dây rốn**, một tình trạng cấp cứu sản khoa. Việc đầu tiên là **nghe tim thai**, không được khám âm đạo bằng tay để tìm dây rốn sa.
+- Tiếp theo, sử dụng **mỏ vịt vô khuẩn** để quan sát âm đạo, đánh giá tình trạng rỉ ối bằng mắt thường và các nghiệm pháp như Valsalva hoặc test Nitrazine.
+- Chẩn đoán xác định khi quan sát thấy dịch lỏng chảy ra đột ngột, số lượng nhiều, liên tục và có mùi đặc trưng của nước ối.
+- **Không được khám âm đạo bằng tay** vì không có giá trị chẩn đoán và có nguy cơ làm tăng nguy cơ nhiễm trùng.
+- Có thể **đặt băng vệ sinh ngoài âm hộ**, kiểm tra sau 1 giờ bằng cách quan sát màu sắc và mùi dịch.
 
 ### Cận lâm sàng
 
 #### Test Nitrazine
 
-Dựa trên cơ sở là dịch tiết của âm đạo và nước tiểu có tính acid, trong khi nước ối có tính kiềm. Giữ mẫu giấy nitrazine bằnkẹp Kelly và nhúng nó vào dịch đọng lại ở lưỡi mỏ vịt. Dịch có tính kiềm (hiện diện của nước ối) sẽ được thể hiện bằng sự đổi màu của giấy thử, từ màu vàng thành màu xanh lơ.
+Dựa trên nguyên lý: Dịch âm đạo và nước tiểu có tính acid, còn nước ối có tính kiềm. Dùng giấy thử Nitrazine nhúng vào dịch tại lưỡi mỏ vịt. Nếu có nước ối, giấy sẽ đổi màu từ **vàng sang xanh lam**.
 
-:::caution[Lưu ý]
-Máu và 1 số nhiễm trùng âm đạo có thể cho kết quả dương tính giả.
+:::caution
+Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một số nhiễm trùng âm đạo.
 :::
 
 #### Test dương sỉ
 
-Test lá dương xỉ dựa trên đặc tính kết tinh tạo tinh thể hình lá dương xỉ của muối NaCl trong môi trường có mặt estrogen (dịch ối). Trải ít dịch cần khảo sát lên trên lam kính và để nó khô, sau đó xem dưới kinh hiển vi. Nước ối sẽ kết tinh và có thể tạo nên các cấu trúc có hình lá dương xỉ. Âm tính giả rất thường gặp.
+Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới tác dụng của estrogen, tạo hình ảnh như **lá dương xỉ** khi quan sát dưới kính hiển vi sau khi làm khô lam kính. Dễ gặp kết quả âm tính giả.
 
 #### Siêu âm
 
-Đánh giá lượng nước ối, ngôi thai, tăng trưởng thai.
+Đánh giá lượng nước ối, ngôi thai, sự phát triển thai.
 
-#### Các xét nghiệm khác
+#### Xét nghiệm cơ bản
 
-Công thức máu và CRP đánh giá dấu hiệu nhiễm trùng.
+- **Công thức máu, CRP**: đánh giá nhiễm trùng.
+- **CTG hoặc Non-stress test** nếu cần thiết.
+- **Xét nghiệm liên cầu nhóm B (GBS)** nếu có chỉ định.
 
-CTG hoặc Non-stress test nếu cần.
+### Chẩn đoán phân biệt
 
-Liên cầu nhóm B (GBS) nếu cần.
+_Bảng "Chẩn đoán ra nước âm đạo"._
+| Triệu chứng hiện hữu và dấu hiệu điển hình | Triệu chứng/dấu hiệu không thường xuyên | Khả năng chẩn đoán |
+| -------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------- |
+| Ra nước âm đạo | Ra dịch đột ngột/rĩ rã, lặp đi lặp lại<br>Đặt mỏ vịt có dịch ÂĐ<br>Không cơn gò sau 1 giờ | Vỡ ối non |
+| Ra nước âm đạo (sau 22 tuần) <br>Sốt/ớn lạnh<br>Đau bụng | Bệnh sử ra nước ÂĐ<br>Tử cung căng<br>Nhịp tim thai nhanh<br>Ra máu âm đạo ít\* | Nhiễm trùng ối |
+| Tiết dịch ÂĐ hôi <br>Không có bệnh sử ra nước âm đạo | Ngứa<br>Dịch ÂĐ có bọt/đặc <br>Đau bụng<br> Tiểu khó | Viêm ÂĐ/CTC |
+| Xuất huyết ÂĐ | Đau bụng <br> Mất cử động thai <br>Máu ÂĐ nhiều, kéo dài | Xuất huyết âm đạo trước sinh |
+| Dịch âm đạo dạng nước/nhầy lẫn máu | Xóa mở cổ tử cung<br>Cơn gò tử cung | Chuyển dạ non/đủ tháng |
 
-## Xử trí
+_\* Chảy máu nhẹ: Mất > 5 phút để máu thấm ướt băng vệ sinh._
 
-Xử trí ối vỡ non tùy thuộc 2 yếu tố chủ chốt:
+## Điều trị
 
-1. Tuổi thai ở thời điểm vỡ ối.
-2. Tình trạng có hay không có nhiễm trùng ối.
+Xử trí ối vỡ non phụ thuộc vào 2 yếu tố chính:
+
+1. Tuổi thai tại thời điểm vỡ ối.
+2. Có hay không có dấu hiệu nhiễm trùng ối.
 
 ### Có dấu hiệu nhiễm trùng
 
-Nếu có dấu hiệu nhiễm trùng (sốt, dịch âm đạo có mùi hôi), cho kháng sinh như trong điều trị nhiễm trùng ối và phải chấm dứt thai kỳ bất chấp tuổi thai.
+Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhiễm trùng ối**:
 
-- Khi đã có nhiễm trùng thì không được trì hoãn chấm dứt thai kỳ vì bất cứ lý do gì.
-- Không được dùng corticosteroids trong trường hợp có dấu hiệu nhiễm trùng, bất chấp tuổi thai.
+- **Chỉ định kháng sinh** theo phác đồ điều trị nhiễm trùng ối.
+- **Chấm dứt thai kỳ ngay**, không phụ thuộc tuổi thai.
+- **Không dùng corticosteroids** trong bất kỳ trường hợp nhiễm trùng ối.
 
 ### Không có dấu hiệu nhiễm trùng
 
 #### Điều trị mong đợi
 
-Đối với thai <34 tuần không có nhiễm trùng, không đe dọa mẹ và thai, cần điều trị mong đợi, tư vấn về nguy cơ và lợi ích.
-
-Cho kháng sinh để giảm nguy cơ nhiễm trùng ở mẹ và ở sơ sinh và trì hoãn cuộc sinh: thường là kháng sinh nhắm vào Streptococcus nhóm B. Dùng Ampicillin, đường tĩnh mạch, 2g mỗi 6h hoặc Penicillin G, đường tĩnh mạch, 2 triệu đơn vị mỗi 6h, cho đến lúc sinh.
-
-:::caution[Lưu ý]
-Với ối vỡ non, thai non tháng phức bộ [Amoxicillin + Acid Clavulanic] bị chống chỉ định do khả năng gây viêm ruột hoại tử ở sơ sinh. Cụ thể:
-
-- Lựa chọn 1:
-  - Azithromycin 1g (uống) ngay khi nhập viện, và
-  - Ampicillin 2g (tĩnh mạch chậm) mỗi 6h trong 48h, sau đó
-  - Amoxicillin 500mg (uống) mỗi 8h trong 5 ngày.
-- Lựa chọn 2:
-  - Ampicillin 1g (uống) ngay khi nhập viện, và
-  - Cefazolin 1g (tĩnh mạch chậm) mỗi 8h trong 48h, sau đó
-  - Cephalexin 500mg (uống) mỗi 6h trong 5 ngày.
-- Trường hợp nguy cơ cao phản ứng phản vệ với Penicillin:
-  - Azithromycin 1g (uống) ngay khi nhập viện, và
-  - Clindamycin 900mg (truyền tĩnh mạch) mỗi 8h trong 48h + Gentamicin 5mg/kg (truyền tĩnh mạch) mỗi 24h trong 48h, sau đó
-  - Clindamycin 300mg (uống) mỗi 8h trong 5 ngày.
-- Trường hợp dị ứng nặng với Penicillin, GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ:
-  - Azithromycin 1g (uống) ngay khi nhập viện, và
-  - Vancomycin 20mg/kg (tối đa 2g) (truyền tĩnh mạch) mỗi 24h trong 48h. Lưu ý xét nghiệm creatinine trước khi sử dụng Vancomycin. _Yếu tố nguy cơ của độc tính trên thận liên quan đến vancomycin có thể được chia thành 3 nhóm: yếu tố liên quan đến việc sử dụng vancomycin, yếu tố liên quan đến bệnh nhân và việc sử dụng đồng thời các thuốc gây độc trên thận. Yếu tố liên quan đến việc sử dụng vancomycin bao gồm sử dụng vancomycin liều cao, ví dụ nồng độ đáy >15mg/L và thời gian sử dụng kéo dài. Liều của vancomycin vượt quá 4g/ngày liên quan đến tăng độc tính trên thận. Các chỉ số kết hợp với nồng độ đáy bệnh nhân trong theo dõi liều vancomycin có thể hữu ích, tuy nhiên nồng độ đáy cao có thể gây độc tính trên thận hay không vẫn chưa rõ ràng._
-
-:::
-
-Dùng corticosteroids cho mẹ để giảm khả năng xảy ra hội chứng suy hô hấp cấp ở sơ sinh. Dùng ngay cả khi không chắc có đủ thời gian để hoàn thành đủ liều corticosteroids.
-
-Xét nghiệm máu mỗi 48h hoặc khi nghi ngờ có dấu hiệu nhiễm trùng.
-
-Siêu âm kiểm tra chỉ số ối mỗi 48h nếu ối bình thường, mỗi ngày nếu thiểu ối hoặc nghi ngờ ra nước âm đạo nhiều.
-
-Đặt mỏ vịt đánh giá tính chất nước ối mỗi 3 ngày.
-
-Không sử dụng thuốc cắt cơn.
-
-Cân nhắc điều trị ngoại trú, tái khám sau 1 tuần nếu:
-
-- Ối vỡ non không ra thêm nước sau 7 ngày điều trị kháng sinh dự phòng.
-- Lượng nước ối bình thường trên siêu âm.
-- Sản phụ ký tư vấn đồng thuận về lợi ích và nguy cơ của việc điều trị mong đợi.
-- Hướng dẫn sản phụ tự đo nhiệt độ 2 lần/ngày, các dấu hiệu cần tái khám như sốt, ra nước âm đạo, dịch âm đạo hôi, thai máy ít…
+- Áp dụng khi **thai < 34 tuần**, **không có dấu hiệu nhiễm trùng**, **không có đe dọa mẹ và thai**.
+- **Kháng sinh dự phòng** để giảm nguy cơ nhiễm trùng và trì hoãn sinh. Mục tiêu là phòng ngừa nhiễm Streptococcus nhóm B.
+  :::caution
+  Không dùng **Amoxicillin + Acid Clavulanic** vì có nguy cơ gây **viêm ruột hoại tử** ở sơ sinh. Phác đồ khuyến cáo:
+  - **Lựa chọn 1**:
+    - Azithromycin 1 g (uống) khi nhập viện.
+    - Ampicillin 2 g (tĩnh mạch chậm) mỗi 6 giờ × 48 giờ.
+    - Sau đó: Amoxicillin 500mg (uống) mỗi 8 giờ × 5 ngày.
+  - **Lựa chọn 2**:
+    - Ampicillin 1 g (uống) khi nhập viện.
+    - Cefazolin 1 g (tĩnh mạch chậm) mỗi 8 giờ × 48 giờ.
+    - Sau đó: Cephalexin 500mg (uống) mỗi 6 giờ × 5 ngày.
+  - **Dị ứng nặng với Penicillin**:
+    - Azithromycin 1 g (uống) khi nhập viện.
+    - Clindamycin 900 mg (truyền TM) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền TM) mỗi 24 giờ × 48 giờ.
+    - Sau đó: Clindamycin 300mg (uống) mỗi 8 giờ × 5 ngày.
+  - **GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ**:
+    - Azithromycin 1 g (uống) khi nhập viện.
+    - Vancomycin 20 mg/kg (tối đa 2 g/ngày) mỗi 24 giờ × 48 giờ.
+    - Cần đo creatinine trước dùng. Cân nhắc độc tính thận ở liều cao hoặc thời gian dùng kéo dài.
+      :::
+- **Corticosteroids**: Dùng sớm cho mẹ để giảm nguy cơ suy hô hấp sơ sinh, ngay cả khi chưa chắc đủ thời gian hoàn tất phác đồ.
+- **Theo dõi**:
+  - Xét nghiệm máu mỗi 48 giờ hoặc khi nghi ngờ nhiễm trùng.
+  - Siêu âm kiểm tra chỉ số ối mỗi 48 giờ (nếu bình thường) hoặc mỗi ngày (nếu thiểu ối).
+  - Đặt mỏ vịt đánh giá dịch âm đạo mỗi 3 ngày.
+- **Không dùng thuốc cắt cơn chuyển dạ**.
+- **Cân nhắc điều trị ngoại trú** nếu:
+  - Không rỉ ối thêm sau 7 ngày điều trị kháng sinh.
+  - Lượng nước ối bình thường.
+  - Sản phụ đồng thuận sau tư vấn.
+  - Hướng dẫn tự theo dõi: đo nhiệt độ 2 lần/ngày, theo dõi dấu hiệu bất thường (sốt, dịch âm đạo hôi, thai máy yếu...).
 
 #### Chấm dứt thai kỳ
 
-Chấm dứt thai kỳ khi:
+**Chỉ định**:
 
-- Thai ≥34 tuần hoặc <24 tuần.
-- Chuyển dạ thực sự.
+- Tuổi thai ≥ 34 tuần hoặc < 24 tuần.
+- Có chuyển dạ.
 - Sa dây rốn.
-- Rau bong nong.
-- Bất thường sức khỏe mẹ và con.
-- Nghi ngờ hoặc xác định nhiễm trùng ối.
+- Rau bong non.
+- Bất thường sức khỏe mẹ hoặc thai.
+- Nghi ngờ/xác định nhiễm trùng ối.
 
-Dùng Magnesium sulfate bảo vệ não ở trẻ sinh non:
+**MgSO₄** bảo vệ não sơ sinh:
 
-- Chỉ định thai 24 tuần đến <32 tuần có nguy cơ sinh non trong vòng 24h, áp dụng đơn thai và đa thai.
-- Thường quy từ 28 đến <32 tuần. Cân nhắc trường hợp 24 đến <28 tuần.
-- Chống chỉ định khi mẹ bị nhược cơ.
-- Thận trọng khi mẹ có tiền căn thiếu máu cơ tim, rối loạn dẫn truyền.
-- Trường hợp mẹ tăng huyết áp hay tiền sản giật sử dụng theo phác đồ [Tăng huyết áp thai kỳ](/san-khoa/tang-huyet-ap-thai-ky/#magnesium-sulfate).
-- Liều Magnesium sulfate 4.5g liều duy nhất, truyền tĩnh mạch chậm trong 20-30 phút. Giảm liều khi BN có thiểu niệu hay suy thận.
-- Khi có chỉ định chấm dứt thai kỳ, Magnesium sulfate được chỉ định lý tưởng nhất trước sinh 4h.
+- **Chỉ định**:
+  - Thai 24–< 32 tuần có nguy cơ sinh non trong 24 giờ.
+  - Dùng thường quy từ 28–< 32 tuần, cân nhắc từ 24–< 28 tuần.
+- **Chống chỉ định**: Nhược cơ.
+- **Thận trọng**: Tiền sử thiếu máu cơ tim, rối loạn dẫn truyền.
+- **Liều dùng**:
+  - 4.5g tĩnh mạch chậm trong 20–30 phút.
+  - Nên truyền trước sinh 4 giờ.
 
-Khi có chuyển dạ, đánh giá tiến triển cuộc chuyển dạ mỗi 4h ở giai đoạn tiềm tàng và 1-2h ở giai đoạn hành động, đánh giá các dấu hiệu nhiễm trùng ối.
+**Trong chuyển dạ**:
 
-Nếu màng ối đã vỡ hơn 12h, dùng kháng sinh dự phòng, với mục đích giúp giảm nguy cơ nhiễm Streptococcus nhóm B cho trẻ sơ sinh. Nếu sau khi sinh xong mà không có dấu hiệu nhiễm trùng, ngưng kháng sinh.
+- Đánh giá tiến triển mỗi 4 giờ (giai đoạn tiềm tàng), mỗi 1–2 giờ (giai đoạn hoạt động).
+- Theo dõi nhiễm trùng ối.
+- Nếu ối vỡ > 12 giờ, dùng kháng sinh dự phòng GBS, ngưng nếu sau sinh không có dấu hiệu nhiễm trùng.
 
-Các phương pháp chấm dứt thai kỳ:
+**Phương pháp chấm dứt thai kỳ**:
 
-- Ưu tiên sinh đường âm đạo, mổ lấy thai khi có chỉ định.
-- Theo dõi sinh đường âm đạo: không có dấu hiệu nhiễm trùng, không có dấu hiệu de dọa mẹ và thai, có thể theo dõi sau 12h nếu không có chuyển dạ tự nhiên, khởi phát chuyển dạ dựa trên Bishop:
-  - Bishop ≥6 khởi phát bằng Oxytocin.
-  - Bishop<6 gây chín muồi cổ tử cung bằng PGE2 trước khi dùng Oxytocin.
+- Ưu tiên sinh thường, mổ lấy thai khi có chỉ định.
+- Nếu chưa có chuyển dạ sau 12 giờ: Khởi phát tùy Bishop:
+  - Bishop ≥ 6: Khởi phát bằng Oxytocin.
+  - Bishop < 6: Làm chín muồi cổ tử cung bằng Prostaglandin E2 trước Oxytocin.
 
 ## Nhiễm trùng ối
 
-Nhiễm trùng ối là nhiễm trùng ngoại khoa. Khi có nhiễm trùng ối, buộc phải giải quyết ổ nhiễm, tức là nước ối, màng ối. Điều trị gồm có:
-
-1. Kháng sinh.
-2. Chấm dứt thai kỳ.
-
-Khi đã có nhiễm trùng ối, nếu không chấm dứt thai kỳ, tình trạng nhiễm trùng sẽ diễn tiến nặng dần, đưa đến nhiễm trùng huyết và tử vong.
-
-Sử dụng kháng sinh phổ rộng và phối hợp đến sau sinh và đã kiểm soát được nhiễm trùng, ít nhất là đã được 48h liên tục không dấu nhiễm trùng.
-
-Đánh giá tình trạng cổ tử cung trước khởi phát chuyển dạ. Cuộc mổ có thể là nguy hiểm hơn cuộc sinh, do khả năng vấy bẩn phúc mạc. Cần cân nhắc lợi ích và nguy cơ của sinh đường âm đạo và sinh mổ.
-
-Xem thêm tại [Nhiễm trùng ối](/san-khoa/nhiem-trung-oi/).
+- Là tình trạng nhiễm trùng ngoại khoa cần xử lý ngay. **Nguyên tắc**:
+  1. Dùng kháng sinh phổ rộng phối hợp.
+  2. Chấm dứt thai kỳ càng sớm càng tốt.
+- Không xử trí triệt để sẽ dẫn đến nhiễm trùng huyết và tử vong.
+- Dùng kháng sinh đến khi sinh và ít nhất **48 giờ sau sinh**, nếu không còn dấu hiệu nhiễm trùng.
+- Cân nhắc sinh thường nếu điều kiện cổ tử cung thuận lợi. Mổ lấy thai có thể làm tăng nguy cơ vấy bẩn phúc mạc.
 
 ## Nguồn tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _TEAM-BASED LEARNING_
-- Bệnh viện Từ Dũ (2022) - _PHÁC ĐỒ ĐIỀU TRỊ SẢN PHỤ KHOA_
+- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
