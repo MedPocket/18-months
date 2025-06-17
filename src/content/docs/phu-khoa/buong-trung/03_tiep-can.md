@@ -179,6 +179,6 @@ ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
 - **CTNNB1 exon 3**: Gặp u dạng nội mạc ác tính grade thấp, giai đoạn sớm.
 - **KRAS**, **BRAF**: Thường gặp ở ung thư grade thấp.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

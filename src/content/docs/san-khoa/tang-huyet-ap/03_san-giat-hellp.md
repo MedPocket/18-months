@@ -89,7 +89,7 @@ HELLP không điển hình khi chỉ có 1–2 tiêu chí trên.
 
 :::
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

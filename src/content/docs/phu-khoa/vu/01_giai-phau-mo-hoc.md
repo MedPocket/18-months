@@ -79,7 +79,7 @@ _Hình ảnh "Giải phẫu mặt cắt ngang tuyến vú và mối tương quan
 _Hình ảnh "(Trái) Nang sữa (acinus) gồm lớp tế bào cơ biểu mô (myoepithelial) bên ngoài và tế bào biểu mô trụ thấp/trụ lót bên trong, dựa trên màng đáy. (Phải) Mô hình hóa mô mi immunohistochemistry cho thấy sự biểu hiện của thụ thể estrogen (màu nâu) trên tế bào biểu mô ống tuyến"._
 ![Nang sữa](./_images/giai-phau-va-mo-hoc-tuyen-vu/nang-sua.png)
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning: Giải phẫu và mô học tuyến vú_
 - Gray H (2019) – _Gray’s Anatomy for Students: Breast Anatomy_

@@ -69,6 +69,6 @@ Trong trường hợp thiếu oxy trường diễn, hiện tượng giãn mạch
 
 Đỉnh tâm thu của động mạch não giữa liên quan chặt chẽ đến tình trạng thiếu máu nặng của bào thai (độ nhạy gần 100%). Khi thiếu máu mức độ trung bình hoặc nhẹ, độ dương giả sẽ tăng dần.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

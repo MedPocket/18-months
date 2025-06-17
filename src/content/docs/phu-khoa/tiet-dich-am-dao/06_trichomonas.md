@@ -119,7 +119,7 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 
 :::
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
 - Centers for Disease Control and Prevention (CDC) (2015) – _Sexually Transmitted Diseases Treatment Guidelines: Trichomoniasis_

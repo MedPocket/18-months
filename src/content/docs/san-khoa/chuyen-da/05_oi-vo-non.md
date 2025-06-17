@@ -156,7 +156,7 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 - Dùng kháng sinh đến khi sinh và ít nhất **48 giờ sau sinh**, nếu không còn dấu hiệu nhiễm trùng.
 - Cân nhắc sinh thường nếu điều kiện cổ tử cung thuận lợi. Mổ lấy thai có thể làm tăng nguy cơ vấy bẩn phúc mạc.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

@@ -481,7 +481,7 @@ _Hình ảnh "Bệnh Paget núm vú thường bị chẩn đoán trễ do biểu
    - Phẫu thuật cắt u bảo tồn: Cắt bỏ vùng Paget (núm vú và quầng) với biên an toàn ≥ 1–2 cm, kết hợp xạ trị toàn vú sau phẫu thuật.
    - Nếu không thể bảo tồn vú vì vị trí hoặc diện tích tổn thương, có thể phẫu thuật mastectomy.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường Đại học Y Dược TP. HCM (2020) – _Team-Based Learning_
 - American Cancer Society (ACS) (2016) – _Breast Cancer Screening Guidelines_

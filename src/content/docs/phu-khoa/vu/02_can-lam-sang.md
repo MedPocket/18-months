@@ -185,7 +185,7 @@ _Hình ảnh "MRI vú cung cấp hình ảnh động học và giải phẫu chi
   2. Lấy mẫu máu/ni-tơ bạch cầu để phân tích đột biến BRCA1/BRCA2 (sequencing + MLPA).
   3. Nếu dương tính: Lập kế hoạch tầm soát, dự phòng và điều trị dài hạn.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning: Cận lâm sàng tuyến vú_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

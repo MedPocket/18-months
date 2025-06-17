@@ -189,6 +189,6 @@ _Hình ảnh "Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản 
   - Condyloma và papilloma.
   - Polyp kênh cổ tử cung, u nhú, nang Naboth...
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

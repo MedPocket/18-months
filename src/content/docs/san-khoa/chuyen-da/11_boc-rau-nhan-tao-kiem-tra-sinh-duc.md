@@ -126,6 +126,6 @@ Tương tự kiểm tra cổ tử cung.
 - Rách nhẹ: Khâu tại giường sinh, tê tại chỗ.
 - Đảm bảo khâu đúng tầng, không để khoang ảo, thăm trực tràng sau khâu.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài – _Thực hành Sản Phụ khoa_

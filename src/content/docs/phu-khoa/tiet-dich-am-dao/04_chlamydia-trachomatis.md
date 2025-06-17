@@ -191,7 +191,7 @@ Không sử dung **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây �
 - **Đánh giá biến chứng**: Với phụ nữ có dấu hiệu PID, cần siêu âm đầu dò âm đạo; với nam giới viêm mào tinh hoàn, cần siêu âm tinh hoàn.
 - **Sàng lọc đồng nhiễm STI**: Luôn thực hiện xét nghiệm HIV, giang mai, lậu khi chẩn đoán Chlamydia vì tỷ lệ đồng nhiễm cao.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
 - Centers for Disease Control and Prevention (CDC) (2015) – _Sexually Transmitted Diseases Treatment Guidelines: Trichomoniasis_

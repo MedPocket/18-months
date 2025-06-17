@@ -174,7 +174,7 @@ Việc quyết định điều trị phụ thuộc vào:
 - Ngưng hẳn liệu pháp nội tiết khi chuyển sang giai đoạn mãn kinh hoàn toàn (> 12 tháng vô kinh) và nội mạc mỏng (< 4 mm).
 - Tiếp tục tầm soát ung thư cổ tử cung theo hướng dẫn chuẩn (Pap smear/HPV test).
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - UpToDate (2024) – _Abnormal uterine bleeding in perimenopausal women (truy cập tháng 5/2025)_

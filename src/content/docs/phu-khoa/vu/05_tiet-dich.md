@@ -181,7 +181,7 @@ _Hình ảnh "Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ
     - Phẫu thuật cắt rộng hơn hoặc theo dõi chặt chẽ (nhũ ảnh + siêu âm 6 tháng/lần).
   - **Ung thư ống tại chỗ (DCIS) hoặc carcinoma xâm lấn**: - Chuyển sang phác đồ điều trị ung thư vú (phẫu thuật, xạ trị, hóa – nội tiết tùy giai đoạn và phân nhóm mô học).
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

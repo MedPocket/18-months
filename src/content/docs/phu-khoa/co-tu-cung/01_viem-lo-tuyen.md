@@ -130,7 +130,7 @@ _Hình ảnh "Sau đốt hoặc áp lạnh, vùng chuyển sản dần hồi ph�
 _Hình ảnh "Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV"._
 ![Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV](./_images/viem-lo-tuyen-co-tu-cung/qua-trinh-chuyen-san.png)
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Hội Y học TP. HCM (2019) – _Hướng dẫn chẩn đoán và điều trị các bệnh phụ khoa thường gặp_

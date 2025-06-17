@@ -85,7 +85,7 @@ Nhiễm thủy đậu có thể gây hội chứng thủy đậu bẩm sinh vớ
 - Phụ nữ mang thai không tiêm vaccine sống.
 - Nếu mẹ tiếp xúc VZV và chưa có miễn dịch, có thể tiêm immunoglobulin đặc hiệu (Varicella-Zoster IG) 125–250 đơn vị tĩnh mạch/liều, tùy nguy cơ.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Từ Dũ – [_Bệnh thủy đậu ảnh hưởng trên thai kỳ như thế nào?_](https://www.tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/benh-thuy-dau-anh-huong-tren-thai-ky-nhu-the-nao/)
 - WHO position paper (2014) – [_Varicella and herpes zoster vaccines._](https://www.who.int/publications/i/item/who-wer8925)

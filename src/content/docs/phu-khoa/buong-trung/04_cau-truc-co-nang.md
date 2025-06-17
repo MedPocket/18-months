@@ -61,6 +61,6 @@ _Hình ảnh "Hoàng thể xuất huyết trên siêu âm"._
 - Thường gặp trong thai trứng hoặc đa thai; β-hCG ngoại sinh (hỗ trợ sinh sản) có thể gây hội chứng quá kích buồng trứng (hyperreactio luteinalis).
 - Do kích thích mọi nang, thường xảy ra hai bên, tạo khối hỗn hợp lớn. Nang hoàng tuyến tự thoái triển khi β-hCG giảm (kết thúch thai kỳ hoặc hết liệu pháp β-hCG).
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

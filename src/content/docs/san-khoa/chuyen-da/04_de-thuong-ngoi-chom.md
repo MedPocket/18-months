@@ -99,7 +99,7 @@ Dựa trên chu kỳ co tử cung:
   5. Lưng giữ thẳng, sát bàn sinh; mông cong lên; **không phát âm** khi rặn.
 - Khi hết đau: Thở sâu, nghỉ và dưỡng sức cho đợt tiếp theo.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - – Bệnh viện Từ Dũ – [_Cách thở và rặn sinh trong cuộc chuyển dạ_](https://tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/cach-tho-va-ran-sinh-trong-cuoc-chuyen-da/)

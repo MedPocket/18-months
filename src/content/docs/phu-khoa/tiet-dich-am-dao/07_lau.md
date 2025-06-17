@@ -205,7 +205,7 @@ Xác định thất bại điều trị khi:
 - **Đào tạo chuyên môn**: Cập nhật kiến thức về kháng thuốc lậu cầu cho các bác sĩ đa khoa, chuyên khoa da liễu và sản phụ khoa.
 - **Theo dõi kháng thuốc**: Đẩy mạnh nuôi cấy và làm kháng sinh đồ để giám sát mức độ kháng thuốc của **N. gonorrhoeae** tại địa phương.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - BỘ Y TẾ (2021) – _Hành hướng dẫn chẩn đoán và điều trị bệnh lậu_
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

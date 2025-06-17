@@ -78,6 +78,6 @@ _Hình ảnh "Chu kỳ nối tiếp"._
 - Mỗi chu kỳ kéo dài 90–120 ngày từ chiêu mộ nguyên thủy đến thoái triển bạch thể.
 - Chỉ 4 tuần cuối chịu ảnh hưởng trực tiếp của trục HĐ–Y–BT, phần còn lại phát triển độc lập.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

@@ -218,7 +218,7 @@ _Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng �
 
 - **Không dùng ức chế men chuyển** do nguy cơ dị tật.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

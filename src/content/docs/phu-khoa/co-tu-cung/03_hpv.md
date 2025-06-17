@@ -129,6 +129,6 @@ _Bảng "So sánh vaccine HPV nhị giá và tứ giá"._
   - HPV (+) type 16/18: Soi cổ tử cung.
   - HPV (+) type cao khác: Làm tế bào học; nếu bình thường → theo dõi 1 năm; nếu bất thường → soi cổ tử cung.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

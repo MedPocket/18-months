@@ -124,6 +124,6 @@ _Hình ảnh "4 dạng khung chậu theo Caldwell-Moloy"._
   - Hiếm gặp.
   - Gây trở ngại lớn cho **thì lọt** của ngôi.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

@@ -135,7 +135,7 @@ _Hình ảnh "Sơ đồ xử trí tiết dịch âm đạo bất thường – B
   - Điều trị: Nhiễm nấm âm hộ âm đạo, đặc biệt Candida, hoặc viêm hỗn hợp kèm vi khuẩn, Trichomonas.
   - Liều: đặt 1 viên vào âm đạo trước khi ngủ × 7–14 ngày tùy mức độ.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

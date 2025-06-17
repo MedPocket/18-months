@@ -55,6 +55,6 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 _Bảng "Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp"._
 ![Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp](./_images/thai-that-bai-som-lien-tiep/luoc-do-tiep-can-thai-nghen-that-bai-som-lien-tiep.png)
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

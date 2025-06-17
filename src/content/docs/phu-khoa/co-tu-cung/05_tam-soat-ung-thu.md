@@ -23,7 +23,7 @@ _\*\* Ưu tiên._
 _\*\*\* Chấp nhận được nhưng không phải lựa chọn tối ưu._  
 _\*\*\*\* Kết quả tầm soát âm tính đầy đủ: 3 lần tế bào học âm tính hoặc 2 lần co-testing âm tính trong 10 năm gần nhất, với lần gần nhất trong 5 năm qua._
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

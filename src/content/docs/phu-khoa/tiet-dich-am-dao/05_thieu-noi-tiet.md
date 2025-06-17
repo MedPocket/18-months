@@ -92,6 +92,6 @@ Mục tiêu điều trị là phục hồi lớp biểu mô âm đạo, tăng đ
 
 :::
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

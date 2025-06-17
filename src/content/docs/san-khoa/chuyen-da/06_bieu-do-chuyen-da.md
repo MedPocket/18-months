@@ -100,6 +100,6 @@ Sản đồ WHO model 1993 là công cụ mạnh trong theo dõi và phát hiệ
 - Cải thiện kết cục thai kỳ ở mọi tuyến y tế, đặc biệt ở tuyến cơ sở.
 - Hỗ trợ giảng dạy và thực hành lâm sàng.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

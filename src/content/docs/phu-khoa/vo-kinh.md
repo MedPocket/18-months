@@ -140,7 +140,7 @@ Mục tiêu điều trị tùy theo nguyên nhân và mong muốn sinh đẻ:
    - Nong/khâu mở cổ tử cung, tách dính trong Asherman.
    - Điều trị u vùng hạ đồi/tuyến yên.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Dieutri – [_Bài giảng vô kinh không hành kinh_](https://www.dieutri.vn/bgsanphukhoa/bai-giang-vo-kinh-khong-hanh-kinh)
 - MSD Manua – [_Amenorrhea_](https://www.msdmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea)

@@ -136,7 +136,7 @@ _Hình ảnh "Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh vi�
 - Nếu không có di căn và NST thai bình thường, có thể tiếp tục theo dõi đến khi sinh.
 - Cần siêu âm thường xuyên và định lượng β-hCG để phát hiện biến chứng sớm.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning: Bệnh nguyên bào nuôi_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa: Thai trứng_

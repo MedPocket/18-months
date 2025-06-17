@@ -60,7 +60,7 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 - Ưu tiên chu kỳ ICSI nếu vòi Fallop tổn thương nặng.
 - Đối với nhân xơ kích thước nhỏ, không biến dạng lòng tử cung, có thể bắt đầu ART, theo dõi sát.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

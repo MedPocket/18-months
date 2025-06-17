@@ -136,7 +136,7 @@ _Bảng "Hướng dẫn bổ sung acid folic, DHA, sắt, canxi, magie hằng ng
 
 :::
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - WHO – [_Iron and folic acid supplementation_](https://www.who.int/nutrition/publications/micronutrients/guidelines/iron_folic_acid_supplementation/en/)
 - CDC – [_Nutrition During Pregnancy_](https://www.cdc.gov/nutrition/pregnancy-and-breastfeeding.html)

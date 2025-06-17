@@ -26,6 +26,6 @@ Theo khuyến cáo của CDC:
 - **3 tháng đầu & 3 tháng cuối**: Hb < 11 g/dL.
 - **3 tháng giữa**: Hb < 10.5 g/dL.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

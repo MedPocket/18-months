@@ -64,6 +64,6 @@ Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lư�
 - Nếu NST bình thường nhưng thai kỳ có nguy cơ, nên thực hiện thêm test hỗ trợ khác trong vòng 24 giờ.
 - Nếu NST không điển hình hay bất thường thì test hỗ trợ được khuyên thực hiện sớm nhất có thể.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

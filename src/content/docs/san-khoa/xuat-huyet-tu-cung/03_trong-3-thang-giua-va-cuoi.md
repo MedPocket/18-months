@@ -43,6 +43,6 @@ Siêu âm là công cụ chẩn đoán hình ảnh quan trọng, giúp đánh gi
 
 **Hemoglobin/hematocrit** và **xét nghiệm đông máu** nếu có dấu hiệu mất máu nhiều hoặc bất ổn huyết động học.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

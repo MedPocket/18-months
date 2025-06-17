@@ -103,7 +103,7 @@ _Bảng "Thụ thể của các steroids"._
 | **PR** | PGR | PR-A (ức chế), PR-B | PR-B hoạt hóa PRE; PR-A đối kháng PR-B, điều hòa ngược bộ máy PR. |
 | **AR** | AR (X-chr) | 1 isoform chính | Kích hoạt ARE → điều hòa biệt hóa cơ quan sinh dục nam, mô xương. |
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Goodman & Gilman – _The Pharmacological Basis of Therapeutics, 13th ed_

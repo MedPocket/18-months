@@ -92,6 +92,6 @@ _Hình ảnh "3 mức độ chăm sóc sau hồi sức"._
 - Nằm đầu cao, nghiêng về bên thoát vị.
 - Chuyển phẫu thuật cấp cứu.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

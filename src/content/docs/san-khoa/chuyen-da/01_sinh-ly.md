@@ -124,6 +124,6 @@ Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo d
 _Hình ảnh "Biểu đồ chuyển dạ giúp theo dõi tiến trình chuyển dạ một cách trực quan"._
 ![Biểu đồ chuyển dạ](./_images/sinh-ly-chuyen-da/bieu-do-chuyen-da.jpeg)
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

@@ -66,6 +66,6 @@ _Hình ảnh "Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậ
 - Ứ dịch vòi sau _Chlamydia_ có thể giảm hiệu quả làm tổ trong IVF. **Cắt bỏ vòi ứ dịch** trước IVF cải thiện tỉ lệ làm tổ. Dịch vòi tổn thương chứa độc tố, ảnh hưởng sản xuất cytokine (IL-1, LIF, CSF-1, integrin αvβ3) làm tổ.
 - Nếu không thể cắt toàn bộ vòi do dính chặt, có thể **đứt vòi** gần buồng tử cung (salpingostomy), hiệu quả tương tự cắt vòi, nhưng ổ dịch tái ứ còn tồn tại, nguy cơ viêm lâu dài.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

@@ -119,7 +119,7 @@ _Bảng "Các thuốc nội khoa điều trị u xơ"._
 - **Xâm lấn tối thiểu**
   - UAE, HIFU, RFA.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

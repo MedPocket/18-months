@@ -98,6 +98,6 @@ Mục tiêu: Hạn chế tiến triển của khối máu tụ, phòng biến ch
 - Nếu thai đã mất hoặc không khả năng sống, có thể sinh ngả.
 - Rau bong non càng để lâu càng mất máu và DIC càng nặng.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

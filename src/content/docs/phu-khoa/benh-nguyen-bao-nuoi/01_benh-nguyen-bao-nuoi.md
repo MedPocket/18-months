@@ -35,7 +35,7 @@ Bệnh nguyên bào nuôi thai kỳ (GTD) là nhóm bệnh có sự tăng sinh b
   - Hiếm, trung mô hóa, tế bào giống biểu mô nhau thai.
   - Diễn biến chậm, thường kháng hóa trị, ưu tiên phẫu thuật triệt để.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning: Bệnh nguyên bào nuôi_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa: Bệnh nguyên bào nuôi_

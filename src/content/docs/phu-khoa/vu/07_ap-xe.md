@@ -112,6 +112,6 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 - Nặn hút sữa, tiếp tục nuôi con bằng sữa mẹ nếu có thể.
 - Theo dõi ít nhất 3 tháng.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

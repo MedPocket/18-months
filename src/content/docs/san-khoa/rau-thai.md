@@ -84,6 +84,6 @@ Một số rối loạn thường gặp trong lâm sàng:
 - **Rau cài răng lược**: Gai rau xâm lấn quá sâu vào cơ tử cung, gây khó bong rau sau sinh.
 - **Rau không trọn (sót rau)**: Phần rau còn sót lại trong tử cung sau sổ rau → nguy cơ băng huyết.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Vinmec – [_Quá trình hình thành rau thai?_](https://www.vinmec.com/vi/bai-viet/qua-trinh-hinh-thanh-rau-thai)

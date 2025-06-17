@@ -45,7 +45,7 @@ Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc 
 
 - **Ibuprofen**: 400–600 mg mỗi 6–8 giờ, giúp giảm đau và viêm khi vú căng tức.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - American College of Obstetricians and Gynecologists (2017) – _Inhibition of Lactation_
 - Journal of Human Lactation (2016) – _Non-pharmacologic Strategies for Lactation Suppression_
