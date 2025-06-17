@@ -130,7 +130,7 @@ Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV typ
   - Tư vấn sức khỏe sinh sản, tránh quan hệ khi đang có tổn thương.
 - **Theo dõi chức năng thận (với thuốc ức chế dài ngày)**: Định kỳ 3 – 6 tháng xét nghiệm creatinin huyết thanh, ước tính độ lọc cầu thận (eGFR) để điều chỉnh liều Acyclovir/Valacyclovir nếu cần.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
 - Bộ Y tế (2021) – _Hướng dẫn chẩn đoán và điều trị một số bệnh nhiễm khuẩn lây truyền qua đường tình dục_

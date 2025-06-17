@@ -110,6 +110,6 @@ _Bảng "Thuốc tăng co tử cung và hồi phục tử cung"._
 - **Ưu điểm**: Rẻ, dễ bảo quản, nhiều đường dùng.
 - **Tác dụng phụ**: Sốt, tiêu chảy, buồn nôn.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài – _Thực hành Sản Phụ khoa_

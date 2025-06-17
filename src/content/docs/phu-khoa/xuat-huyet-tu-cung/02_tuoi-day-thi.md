@@ -223,7 +223,7 @@ Chỉ định khi chảy máu nặng, mất máu nhiều, hoặc nội mạc bon
        COC giúp cầm máu khá hiệu quả, nhưng có thể ức chế hạ đồi mạnh, nên chỉ sử dụng ngắn hạn. Dùng dài hạn có thể ảnh hưởng lâu dài đến hoạt động trục HPG.  
        :::
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - UpToDate (2024) – _Abnormal uterine bleeding in adolescents (truy cập tháng 5/2025)_

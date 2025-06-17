@@ -32,6 +32,6 @@ Về chức năng tuyến giáp của thai:
 
 Một số chất như **propylthiouracil (PTU)** và **methimazole** (thuốc kháng giáp) với trọng lượng phân tử nhỏ cũng có thể qua rau, gây **nhược giáp thai nhi** nếu không được theo dõi sát. **TRH (Thyroid Releasing Hormone)** cũng có thể qua rau nhưng với nồng độ thấp, nên **không có ý nghĩa lâm sàng đáng kể**.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

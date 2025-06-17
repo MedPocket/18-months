@@ -80,6 +80,6 @@ _Bảng "So sánh tê tủy sống và tê ngoài màng cứng"._
 | Tê tủy sống | Thuốc tê vào dịch não tủy → tác dụng nhanh, phong bế mạnh. | Phù hợp trong mổ lấy thai nhờ khởi phát nhanh. |
 | Tê ngoài màng cứng | Thuốc vào khoang ngoài màng cứng → tác dụng chậm hơn, nhưng duy trì lâu hơn. | Thích hợp cho chuyển dạ kéo dài, có thể điều chỉnh liều liên tục. |
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

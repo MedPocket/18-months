@@ -165,6 +165,6 @@ _Hình ảnh "Phác đồ điều trị thai ở sẹo mổ lấy thai – Bện
 - Không sử dụng dụng cụ tử cung.
 - Thai kỳ sau: Chủ động mổ lấy thai khi đủ tháng.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

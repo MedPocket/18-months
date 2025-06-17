@@ -49,7 +49,7 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
    - Tăng huyết áp mạn không đạm niệu + đạm niệu từ tuần thứ 20.
    - Hoặc tăng huyết áp mạn có đạm niệu + dấu hiệu nặng.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

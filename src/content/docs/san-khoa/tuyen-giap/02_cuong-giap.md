@@ -79,6 +79,6 @@ Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồ
 
 :::
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

@@ -57,6 +57,6 @@ Nguyên nhân chính của xuất huyết tử cung bất thường trong 3 thá
 _Hình ảnh "Lược đồ tiếp cận xuất huyết 3 tháng đầu theo siêu âm"._
 ![Lược đồ tiếp cận xuất huyết 3 tháng đầu theo siêu âm](./_images/luoc-do-xuat-huyet-3-thang-dau-theo-sieu-am.png)
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

@@ -211,7 +211,7 @@ _Hình ảnh "Tóm tắt thời điểm và chỉ định cách sinh"._
 4. **Thuốc dự phòng tiền sản giật**: Aspirin 60–150 mg/ngày trong 3 tháng đầu.
 5. **Tư vấn dinh dưỡng – luyện tập** sớm, đánh giá các biến chứng mạch máu, thận trước khi mang thai.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bộ Y tế (2023) – _Hướng dẫn quốc gia về sàng lọc và quản lý ĐTĐ thai kỳ_
 - FIGO (2015) – _Management of Pre-existing Diabetes and GDM in Pregnancy_

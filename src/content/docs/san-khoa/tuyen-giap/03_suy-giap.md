@@ -38,6 +38,6 @@ Suy giáp bẩm sinh:
 - **Levothyroxine**, chỉnh liều dựa trên TSH (mỗi 4 tuần).
 - Mục tiêu giữ TSH trong ngưỡng thấp bình thường theo từng tam cá nguyệt.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

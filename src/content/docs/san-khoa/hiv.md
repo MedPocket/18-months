@@ -114,7 +114,7 @@ _Bảng "Thời gian phát hiện HIV qua xét nghiệm"._
 - Nếu mới tiếp xúc < 72 giờ → **đi khám ngay để cân nhắc dùng PEP (thuốc phơi nhiễm)** nhằm giảm nguy cơ nhiễm.
 - Tránh quan hệ tình dục, hiến máu trong thời gian chờ xét nghiệm.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - World Health Organization (WHO) (2021) – _Consolidated Guidelines on HIV Prevention, Testing, Treatment, Service Delivery and Monitoring_
 - Centers for Disease Control and Prevention (CDC) (2022) – _HIV and Pregnancy_

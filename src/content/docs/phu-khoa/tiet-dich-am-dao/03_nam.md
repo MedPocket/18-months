@@ -150,7 +150,7 @@ _Bảng "Thuốc kháng nấm tại chỗ (First line therapy) điều trị VVC
 
 :::
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning: Viêm âm đạo do nấm_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

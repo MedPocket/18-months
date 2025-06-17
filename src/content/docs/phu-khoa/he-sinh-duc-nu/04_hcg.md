@@ -66,7 +66,7 @@ _Bảng "Ngưỡng β-hCG"._
 Nếu β-hCG > 1500 mIU/mL (TV âm đạo) hoặc > 3000 mIU/mL (TV bụng) mà không thấy túi thai → cân nhắc thai ngoài tử cung hoặc thai bất thường.
 :::
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - American Pregnancy Association – _Early Fetal Development_

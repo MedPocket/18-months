@@ -50,7 +50,7 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 _Hình ảnh "Quy trình theo dõi và quản lý ĐTĐ sau sinh"._
 ![Theo dõi và quản lý ĐTĐ sau sinh](./_images/theo-doi-va-quan-ly-dai-thao-duong-sau-sinh.jpg)
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bộ Y Tế (2023) – _Hướng dẫn quốc gia về sàng lọc và quản lý đái tháo đường thai kỳ_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

@@ -80,7 +80,7 @@ Thalassemia là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọ
 - Chẩn đoán di truyền tiền làm tổ (PGD) trên phôi IVF để chọn phôi không mang gen bệnh.
 - Lưu trữ tế bào gốc cuống rốn cho điều trị ghép tế bào gốc sau này.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - WHO 2021 – _Guidelines for screening and management of haemoglobinopathies_

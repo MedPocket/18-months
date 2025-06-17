@@ -55,6 +55,6 @@ _Hình ảnh "Các giai đoạn ung thư buồng trứng theo FIGO"._
 
 **Giai đoạn IV** (di căn xa): Tràn dịch màng phổi hoặc di căn nhu mô gan.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

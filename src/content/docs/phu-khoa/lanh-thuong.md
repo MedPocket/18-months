@@ -26,6 +26,6 @@ Mạng lưới collagen dày đặc hình thành sẹo, proteoglycan và acid hy
 Trong nhiều tháng, collagen được tái định hướng và tái cấu trúc, mạch máu và tế bào giảm số lượng. Sẹo chuyển từ đỏ hồng sang nhạt và mỏng dần. Tốc độ tổng hợp collagen cao nhất 6–12 tháng sau khi tổn thương, sau đó vết sẹo ổn định với độ bền lâu dài.
 Co kéo sẹo lành tính nhưng có thể gây mất thẩm mỹ hoặc hạn chế vận động nếu ở vị trí căng da.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài – _Thực hành sản phụ khoa_

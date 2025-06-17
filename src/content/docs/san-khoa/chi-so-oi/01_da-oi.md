@@ -98,6 +98,6 @@ Siêu âm hình thái, đo chiều dài cổ tử cung; nghiệm pháp dung nạ
 _Hình ảnh "Phác đồ xử trí đa ối đơn thuần (đơn thai) – Bệnh viện Từ Dũ"._
 ![Phác đồ xử trí đa ối đơn thuần – Bệnh viện Từ Dũ](./_images/da-oi/phac-do-xu-tri-da-oi-don-thuan.jpg)
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

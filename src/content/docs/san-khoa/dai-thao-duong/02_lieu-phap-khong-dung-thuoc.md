@@ -75,7 +75,7 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
   - ≥ 50% giá trị đạt mục tiêu → tiếp tục MNT và vận động.
   - < 50% → cân nhắc bắt đầu insulin.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bộ Y tế (2023) – _Hướng dẫn quốc gia về sàng lọc và quản lý Đái tháo đường thai kỳ_
 - ADA (2024) – _Standards of Medical Care in Diabetes – Pregnancy Section_

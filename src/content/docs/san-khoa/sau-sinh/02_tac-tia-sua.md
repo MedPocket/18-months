@@ -50,7 +50,7 @@ Các thuốc kích thích chỉ dùng khi sản lượng sữa giảm.
 - **Tiếp tục cho bú/vắt**: Duy trì tần suất 3–4 giờ/lần, ngay cả khi đã hết tắc.
 - **Theo dõi tái phát**: Kiểm tra định kỳ, đảm bảo không có cục sữa ứ đọng mới.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - American Family Physician (2015) – _Management of Lactational Mastitis and Blocked Milk Ducts_
 - Journal of Human Lactation (2018) – _Strategies for Resolving Blocked Milk Ducts_

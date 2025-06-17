@@ -137,6 +137,6 @@ _Hình ảnh "Phẫu thuật đường âm đạo – Bệnh viện Từ Dũ"._
   - **Ngả bụng/nội soi**: BN trẻ, mong muốn bảo tồn tử cung, sa độ III–IV, thất bại phẫu thuật ngả âm đạo.
   - **Kết hợp**: Khi cần đặt mảnh ghép qua cả hai đường để tăng hiệu quả.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

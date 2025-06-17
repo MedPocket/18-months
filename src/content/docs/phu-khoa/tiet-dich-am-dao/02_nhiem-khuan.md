@@ -179,7 +179,7 @@ Tùy chọn điều trị BV tại Bệnh viện Từ Dũ (áp dụng cho cả B
 
 :::
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning: Viêm âm đạo nhiễm khuẩn_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

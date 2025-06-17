@@ -59,6 +59,6 @@ Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic 
   | | 9 - 10.9 | Bất kỳ | 60 - 120 mg sắt/ngày |
 - WHO: 60 mg sắt nguyên tố và 200 µg acid folic hàng ngày từ khi mang thai đến khi sinh để phòng ngừa thiếu máu thiếu sắt.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

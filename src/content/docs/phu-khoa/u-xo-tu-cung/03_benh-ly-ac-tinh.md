@@ -75,7 +75,7 @@ Sarcoma cơ trơn thân tử cung là khối u ác tính rất hiếm, chiếm <
 2. **Theo dõi**: Siêu âm/MRI không dùng thuốc cản quang nếu cần.
 3. **Chấm dứt thai kỳ**: ưu tiên sinh non có kiểm soát (≥ 34 tuần).
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - WHO – _Classification of Tumours, Female Genital Tumours (5th ed.)_
 - ACOG – _Practice Bulletin on Uterine Sarcoma và STUMP_

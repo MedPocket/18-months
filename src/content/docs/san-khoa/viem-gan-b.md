@@ -74,7 +74,7 @@ Phụ nữ viêm gan B mạn tính không xơ hóa tiến triển có thể trì
 - **Tiêm HBIG (Globulin miễn dịch đặc hiệu)**: Nếu chưa tiêm vắc-xin hoặc chưa có kháng thể.
 - **Tiêm vắc-xin viêm gan B**: Đồng thời hoặc sau tiêm HBIG tùy từng trường hợp.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bộ Y tế (2019) 3310/QĐ-BYT – _Hướng dẫn chẩn đoán, điều trị bệnh viêm gan virus B_

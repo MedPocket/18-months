@@ -49,7 +49,7 @@ Vaccine uốn ván cho phụ nữ mang thai được tiêm theo tiền sử mi�
 - Bệnh lý cấp tính, sốt cao, suy giảm miễn dịch nặng — hoãn đến khi ổn định.
 - Bệnh nền nặng (suy tim, suy thận, tự miễn, rối loạn đông máu) — thực hiện khi có chỉ định của bác sĩ chuyên khoa.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bộ Y tế (2017) – _THÔNG TƯ 38/2017/TT-BYT HƯỚNG DẪN TIÊM CHỦNG MỞ RỘNG_
 - WHO (2018) – _Maternal and Neonatal Tetanus Elimination_

@@ -234,6 +234,6 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 - **Tập huấn chuyên môn** cho nhân viên y tế tuyến xã, huyện, tỉnh về chẩn đoán sớm, điều trị đúng, chống kháng thuốc.
 - **Giám sát kháng thuốc**: Đẩy mạnh nuôi cấy _N. gonorrhoeae_ và làm kháng sinh đồ để theo dõi tình hình kháng thuốc, điều chỉnh phác đồ thuốc kịp thời.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - BỘ Y TẾ (2021) – _Hướng dẫn chẩn đoán và điều trị bệnh giang mai_

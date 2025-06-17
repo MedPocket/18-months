@@ -104,7 +104,7 @@ _Bảng "Các tình huống cụ thể"._
 | **Cần tránh thai khẩn cấp** | Viên levonorgestrel, DCTC đồng | Trong vòng 5 ngày sau giao hợp |
 | **Vợ chồng ổn định, không muốn sinh thêm** | Triệt sản | Biện pháp vĩnh viễn |
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based Learning_
 - WHO – _Medical Eligibility Criteria for Contraceptive Use_

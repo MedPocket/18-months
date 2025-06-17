@@ -49,7 +49,7 @@ Chỉ định cho phụ nữ mang thai có nguy cơ sinh non trước 34 tuần,
 
 - Theo dõi huyết áp, đường huyết và dấu hiệu nhiễm trùng sau tiêm corticoids.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - American Journal of Obstetrics and Gynecology (1995) – _Antenatal corticosteroids: A meta-analysis of clinical trials_
 - Cochrane Database of Systematic Reviews (2006) – _Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth_

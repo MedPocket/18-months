@@ -66,7 +66,7 @@ _Bảng "Phân loại rau cài răng lược theo FIGO 2019"._
 - Nắm vững giải phẫu mạch vùng chậu, dự phòng thắt động mạch tử cung hoặc bóng chèn nội mạch.
 - Chuẩn bị xử trí biến chứng (niệu quản, ruột).
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

@@ -96,7 +96,7 @@ Quyết định dựa trên tuổi thai, tình trạng mẹ và mức độ ch�
   - Cắt tử cung toàn phần nếu băng huyết không kiểm soát.
 - Gây tê vùng nếu dự kiến mổ nhanh, gây mê nội khí quản nếu phẫu thuật phức tạp (rau cài răng lược).
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

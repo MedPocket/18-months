@@ -79,6 +79,6 @@ Xét nghiệm TORCH, karyotype để phát hiện nhiễm trùng hoặc dị t�
 _Hình ảnh "Phác đồ xử trí thiểu ối đơn thuần – Bệnh viện Từ Dũ"._
 ![Phác đồ xử trí thiểu ối đơn thuần – Bệnh viện Từ Dũ](./_images/thieu-oi/phac-do-xu-tri-thieu-oi-don-thuan.png)
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

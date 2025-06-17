@@ -221,7 +221,7 @@ _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của
      - Bệnh nhân không còn nhu cầu sinh thêm con.
    - Các đường mổ: Mổ mở, nội soi, nội soi hỗ trợ qua âm đạo (TLH, LAVH, VH) tùy điều kiện.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

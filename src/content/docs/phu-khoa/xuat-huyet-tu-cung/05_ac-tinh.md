@@ -186,7 +186,7 @@ Chọn progestin với hoạt tính kháng estrogen mạnh. Tác dụng chính c
 - Không thể theo dõi bằng nội khoa và sinh thiết định kỳ.
 - Xuất huyết trầm trọng, ảnh hưởng nặng.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

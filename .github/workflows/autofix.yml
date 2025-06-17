@@ -28,7 +28,7 @@ jobs:
       - name: Run Biome
         run: biome ci .
 
-      - name: Rung Prettier
+      - name: Run Prettier
         run: pnpm format:md # Format markdown files
 
       - name: Run autofix.ci

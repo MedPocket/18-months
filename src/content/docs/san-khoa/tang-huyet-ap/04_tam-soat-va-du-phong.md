@@ -63,7 +63,7 @@ _Bảng "Đánh giá lâm sàng nguy cơ tiền sản giật"._
 _Lưu đồ tầm soát tiền sản giật 3 tháng đầu – Bệnh viện Từ Dũ._
 ![Lưu đồ tầm soát tiền sản giật 3 tháng đầu – Bệnh viện Từ Dũ](./_images/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

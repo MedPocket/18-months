@@ -196,6 +196,6 @@ _Hình ảnh "Sơ đồ cổ điển và giản lược về các khối u tế 
 
 - Xuất huyết trong nang, vỡ u, chèn ép, nhiễm trùng hiếm gặp.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

@@ -25,7 +25,7 @@ Kháng histamin thường được dùng để điều trị dị ứng (viêm m
   - Liều khuyến cáo: 4 mg mỗi 4–6 giờ, không vượt quá 24 mg/ngày.
   - Đặc điểm: Ít buồn ngủ hơn diphenhydramine nhưng vẫn thuộc thế hệ 1, chỉ dùng khi cần thiết trong quý đầu.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Journal of Clinical Medicine (2020) – _Use of Antihistamines in Pregnancy: A Review_
 - American Family Physician (2017) – _The Safety of Antihistamines During Pregnancy_

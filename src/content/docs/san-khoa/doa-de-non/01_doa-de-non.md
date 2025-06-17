@@ -266,7 +266,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 _Hình ảnh "Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ"._
 ![Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ.](./_images/luu-do-du-phong-sinh-non.png)
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based Learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

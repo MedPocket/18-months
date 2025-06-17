@@ -130,7 +130,7 @@ Vancomycin chỉ dùng khi:
 _Hình ảnh "Lưu đồ xử trí nhiễm trùng ối – Bệnh viện Từ Dũ"._
 ![Lưu đồ xử trí nhiễm trùng ối – Bệnh viện Từ Dũ](./_images/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

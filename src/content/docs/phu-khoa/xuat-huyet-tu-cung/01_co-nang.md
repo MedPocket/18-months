@@ -144,6 +144,6 @@ Chỉ định khi điều trị nội khoa thất bại hoặc có nguyên nhân
 - **Đốt nội mạc tử cung**: Giải pháp lâu dài nhưng làm mất khả năng sinh sản.
 - **Cắt tử cung**: Chỉ định sau cùng khi thất bại với mọi phương pháp điều trị khác.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

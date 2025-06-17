@@ -89,7 +89,7 @@ _Bảng "Chiều dài & cân nặng thai nhi theo tuần (WHO tham khảo)"._
 - **IUGR thực sự**: Hội chứng truyền máu (TTTS) hoặc bất thường tử cung–rau không đủ cho hai thai.
 - Đánh giá riêng biệt từng thai bằng Doppler mạch rốn, NST và sinh đồ sinh vật lý.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - ACOG Practice Bulletin No. 134 (2013) – _Intrauterine Growth Restriction_

@@ -325,7 +325,7 @@ Bệnh vú thay đổi sợi bọc (Fibrocystic changes) là nhóm tổn thươn
   - Thay đổi chế độ ăn (giảm caffein, muối), bổ sung vitamin E, dầu cá (có thể cải thiện đau căng vú).
 - Theo dõi định kỳ: Siêu âm/nhũ ảnh 6–12 tháng nếu có rối loạn mô học không điển hình nhưng không ung thư.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Gray H (2019) – _Gray’s Anatomy for Students: Breast Anatomy_

@@ -99,6 +99,6 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 - Cho bú sớm để tăng co hồi tử cung.
 - Kiểm tra bánh rau và đường sinh dưới sau sổ rau.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_

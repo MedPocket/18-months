@@ -185,6 +185,6 @@ Tỷ lệ thành công đường toàn thân 70–95%.
 
 - Bệnh nhân sốc, mất máu nặng, không thể nội soi.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_

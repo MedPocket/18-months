@@ -115,7 +115,7 @@ Có 3 lựa chọn chính:
 3. Hút lòng tử cung. Thực hiện nhanh, ít mất máu, nhưng có nguy cơ thủng tử cung và nhiễm trùng.
    Khi chọn theo dõi, cần tái siêu âm và có thể đo β-hCG để đánh giá giảm nồng độ (> 80% sau 1 tuần).
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
 - Perinatology – [_Beta hCG Doubling Time Calculator_](https://perinatology.com/calculators/betahCG.htm)
