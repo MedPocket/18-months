@@ -34,7 +34,7 @@
     "starlight-sidebar-topics": "^0.6.0"
   },
   "devDependencies": {
-    "@area44/biome-config": "^0.4.1",
+    "@area44/biome-config": "^2.0.1",
     "@biomejs/biome": "^2.0.0",
     "@types/hast": "^3.0.4",
     "@types/html-escaper": "^3.0.4",
