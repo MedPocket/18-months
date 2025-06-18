@@ -3,7 +3,7 @@ title: Đa ối
 description: Đa ối là tình trạng dư thừa dịch ối so với mức bình thường theo tuổi thai, làm tăng nguy cơ biến chứng cho mẹ và thai nhi.
 ---
 
-Đa ối là tình trạng dịch ối nhiều hơn so với tuổi thai tương ứng, chẩn đoán qua siêu âm.
+Đa ối là tình trạng dịch ối nhiều hơn so với tuổi thai tương ứng và được chẩn đoán qua siêu âm.
 
 ## Nguyên nhân
 
@@ -44,8 +44,8 @@ description: Đa ối là tình trạng dư thừa dịch ối so với mức b�
 Chủ yếu dựa vào siêu âm:
 
 - AFI ≥ 22 cm ở 3 tháng giữa và ≥ 25 cm ở 3 tháng cuối.
-- SDP ≥ 8 cm (SDP ≥ 16 cm là đa ối nặng).<br>
-  _Bảng "Mức độ đa ối"._
+- SDP ≥ 8 cm (SDP ≥ 16 cm là đa ối nặng).
+
   | Mức độ | Nhẹ | Trung bình | Nặng |
   | ------- | --------- | ---------- | ------- |
   | **AFI** | 25–30 cm | 30.1–35 cm | > 35 cm |
@@ -67,16 +67,6 @@ Siêu âm hình thái, đo chiều dài cổ tử cung; nghiệm pháp dung nạ
 
 ## Điều trị
 
-### Hướng điều trị
-
-- Điều trị nguyên nhân nếu xác định được.
-- Giảm ối thoát vị nếu có quá tải (khó thở, tim nhanh), tốc độ ≤ 1 L/20 phút.
-- Indomethacin (đa ối vô căn, thai chưa trưởng thành):
-  - Liều 25 mg uống 4 lần/ngày.
-  - Nếu AFI không giảm sau 2–3 ngày, có thể tăng lên 3 mg/kg/ngày.
-  - Nguy cơ đóng ống động mạch sớm → theo dõi Doppler thai mỗi 2 ngày.
-- Liệu pháp corticosteroids khi có nguy cơ sinh non.
-
 ### Ngoại trú
 
 - < 34 tuần: Tái khám mỗi 2 tuần, đo chiều dài cổ tử cung, cân nhắc corticosteroids trước sinh.
@@ -84,10 +74,19 @@ Siêu âm hình thái, đo chiều dài cổ tử cung; nghiệm pháp dung nạ
 
 ### Nhập viện
 
+**Chỉ định**:
+
 - Biểu hiện quá tải dịch.
 - Dọa đẻ non.
 - Thai ≥ 39 tuần.
 - CTG nhóm II trở lên hoặc Doppler bất thường.
+
+**Hướng điều trị**:
+
+- Điều trị nguyên nhân nếu xác định được.
+- **Giảm ối** thoát vị nếu có quá tải (khó thở, tim nhanh), tốc độ ≤ 1 L/20 phút.
+- **Indomethacin** (đa ối vô căn, thai chưa trưởng thành) liều 25 mg uống 4 lần/ngày. Nếu AFI không giảm sau 2–3 ngày, có thể tăng lên 3 mg/kg/ngày. Nguy cơ đóng ống động mạch sớm → theo dõi Doppler thai mỗi 2 ngày.
+- Liệu pháp corticosteroids khi có nguy cơ sinh non.
 
 ### Chấm dứt thai kỳ
 

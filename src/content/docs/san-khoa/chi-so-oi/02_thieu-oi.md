@@ -22,7 +22,7 @@ Thiểu ối là tình trạng dịch ối ít hơn so với tuổi thai tương
 - Ối vỡ sớm, ối vỡ non.
 
 :::caution
-Nguyên nhân thai thường xuất hiện sau 17–20 tuần.
+Nguyên nhân từ phía thai thường xuất hiện sau 17–20 tuần.
 :::
 
 ### Từ phần phụ
@@ -42,9 +42,7 @@ Chủ yếu dựa vào siêu âm:
 
 :::
 
-Lâm sàng có thể thấy bề cao tử cung nhỏ hơn tuổi thai.
-
-Có thể thấy ối rỉ; test Nitrazine dương tính khi vỡ ối.
+Lâm sàng có thể thấy bề cao tử cung nhỏ hơn tuổi thai. Có thể thấy ối rỉ; test Nitrazine dương tính khi vỡ ối.
 
 Xét nghiệm TORCH, karyotype để phát hiện nhiễm trùng hoặc dị tật.
 
@@ -52,29 +50,27 @@ Xét nghiệm TORCH, karyotype để phát hiện nhiễm trùng hoặc dị t�
 
 ### 3 tháng đầu
 
-- Hầu như không chỉ định điều trị.
-- Tư vấn nguy cơ thai chết lưu.
-- Khám lại sau 1–2 tuần.
+Hầu như không chỉ định điều trị. Tư vấn nguy cơ thai chết lưu và khám lại sau 1–2 tuần.
 
 ### 3 tháng giữa
 
-- Tư vấn tình trạng thai.
-- Truyền ối khi có chỉ định:
-  - Tuổi thai > 16 tuần.
-  - Lấy ối làm xét nghiệm nhiễm sắc thể, TORCH...
-  - Hỗ trợ siêu âm tầm soát hình thái học thai nhi.
+Tư vấn tình trạng thai. **Truyền ối** khi có chỉ định:
+
+- Tuổi thai > 16 tuần.
+- Lấy ối làm xét nghiệm nhiễm sắc thể, TORCH...
+- Hỗ trợ siêu âm tầm soát hình thái học thai nhi.
 
 ### 3 tháng cuối
 
-- Tư vấn tình trạng thai.
-- Chấm dứt thai kỳ:
-  - SDP ≤ 1 cm:
-    - ≥ 34 tuần: Mổ lấy thai.
-    - < 34 tuần: điều trị chờ chuyển dạ.
-  - 1 ≤ SDP ≤ 2 cm: Thai ≥ 37 tuần sinh thường hoặc mổ lấy thai.
-- Liệu pháp corticosteroids:
-  - Thường quy từ 28 tuần đến 33 tuần 6 ngày.
-  - Cân nhắc với trường hợp 24–27 tuần 6 ngày.
+Tư vấn tình trạng thai. **Chấm dứt thai kỳ**:
+
+- SDP ≤ 1 cm: ≥ 34 tuần mổ lấy thai. < 34 tuần điều trị chờ chuyển dạ.
+- 1 ≤ SDP ≤ 2 cm: Thai ≥ 37 tuần sinh thường hoặc mổ lấy thai.
+
+**Liệu pháp corticosteroids**:
+
+- Thường quy từ 28 tuần đến 33 tuần 6 ngày.
+- Cân nhắc với trường hợp 24–27 tuần 6 ngày.
 
 _Hình ảnh "Phác đồ xử trí thiểu ối đơn thuần – Bệnh viện Từ Dũ"._
 ![Phác đồ xử trí thiểu ối đơn thuần – Bệnh viện Từ Dũ](./_images/thieu-oi/phac-do-xu-tri-thieu-oi-don-thuan.png)
