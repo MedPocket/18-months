@@ -82,7 +82,7 @@ Siêu âm đầu dò âm đạo (TVUS) là bước đầu tiên trong khảo sá
 
 #### Phương pháp hình ảnh khác
 
-- **CT bụng-chậu**: đánh giá giai đoạn lan rộng, hạch, di căn xa.
+- **CT bụng-chậu**: Đánh giá giai đoạn lan rộng, hạch, di căn xa.
 - **MRI vùng chậu**: Phân biệt u xơ, lạc nội mạc, sarcoma, xác định ranh giới khối u, xâm lấn xung quanh.
 - Các kỹ thuật này chỉ dùng khi siêu âm không đủ thông tin hoặc nghi ngờ lan rộng.
 

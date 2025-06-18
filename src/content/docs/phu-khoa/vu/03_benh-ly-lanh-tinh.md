@@ -108,7 +108,7 @@ _Hình ảnh "Bướu diệp thể: Khối lớn, rõ, có các vùng hóa nang 
 - **Phẫu thuật cắt rộng**: Bướu benign cần mổ lấy rộng bờ ≥ 1 cm, bướu borderline/ ác tính cần cắt rộng càng nhiều càng tốt.
 - **Tái phát**: Liên quan trực tiếp đến bờ phẫu thuật. Khoảng 20% bướu diệp thể tái phát khi bờ phẫu thuật không đủ rộng.
 - **Mổ cắt đoạn hoặc cắt toàn bộ vú (mastectomy)**: Nếu khối quá lớn so với vú, không thể bảo tồn vú.
-- **Xạ trị hậu phẫu**: đôi khi cân nhắc cho bướu borderline hoặc ác tính, nhất là khối tái phát hoặc bờ mổ dương tính.
+- **Xạ trị hậu phẫu**: Đôi khi cân nhắc cho bướu borderline hoặc ác tính, nhất là khối tái phát hoặc bờ mổ dương tính.
 
 ## Bướu nhú trong ống dẫn sữa
 
@@ -207,7 +207,7 @@ _Hình ảnh "Nhũ ảnh Hamartoma vú: Hình ảnh "vú trong vú", vỏ bao m�
 
 - Hamartoma lành tính, không triệu chứng: Theo dõi định kỳ, không cần điều trị.
 - Nếu khối to, gây lo ngại thẩm mỹ hoặc biểu hiện tăng nhanh: Phẫu thuật cắt bỏ trọn khối cùng vỏ bao.
-- Lưu ý: đa hamartoma có thể là thành phần hội chứng Cowden hoặc Bannayan-Riley-Ruvalcaba (đột biến gene PTEN) – cần tầm soát thêm khi nghi ngờ hội chứng.
+- Lưu ý: Đa hamartoma có thể là thành phần hội chứng Cowden hoặc Bannayan-Riley-Ruvalcaba (đột biến gene PTEN) – cần tầm soát thêm khi nghi ngờ hội chứng.
 
 :::caution
 Đa hamartoma (xuất hiện nhiều khối ở nhiều vị trí khác cơ quan) là dấu hiệu gợi ý hội chứng Cowden hoặc Bannayan-Riley-Ruvalcaba (đột biến gene PTEN). Đối tượng này cần tầm soát ung thư vú, giáp và mô lympho khác theo hướng dẫn nguy cơ cao.
@@ -254,7 +254,7 @@ U mỡ (Lipoma) là khối u lành tính thường gặp nhất ở mô mỡ, ba
 #### Cận lâm sàng
 
 - **Siêu âm**: Khối giảm âm đồng nhất, bóng lưng nhẹ, bờ rõ, cấu trúc âm học giống mô mỡ xung quanh.
-- **Nhũ ảnh**: đậm độ thấp, giống mô mỡ, bờ mờ nhẹ hoặc rõ; nếu khối lớn, có thể thấy vùng thấu quang.
+- **Nhũ ảnh**: Đậm độ thấp, giống mô mỡ, bờ mờ nhẹ hoặc rõ; nếu khối lớn, có thể thấy vùng thấu quang.
 - **MRI**: Khối có tính chất tín hiệu giống mỡ, căng tín hiệu trên T1, giảm tín hiệu trên STIR/ fat-sat, không bắt thuốc tương phản.
 
 #### Chẩn đoán phân biệt

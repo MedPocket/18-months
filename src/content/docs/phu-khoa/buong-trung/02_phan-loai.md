@@ -189,7 +189,7 @@ _Hình ảnh "Sơ đồ cổ điển và giản lược về các khối u tế 
 
 - U di động, tỷ trọng lớn dễ xoắn.
 - Buồng trứng chỉ cố định bằng mạc treo, dây chằng thắt lưng và dây chằng tử cung–buồng trứng, rất lỏng lẻo.
-- Triệu chứng: đau đột ngột, dữ dội vùng bụng, có thể sốc, thăm khám thấy khối cạnh tử cung rất đau, phúc mạc kích thích gây nôn. Bụng vẫn mềm nếu u không vỡ.
+- Triệu chứng: Đau đột ngột, dữ dội vùng bụng, có thể sốc, thăm khám thấy khối cạnh tử cung rất đau, phúc mạc kích thích gây nôn. Bụng vẫn mềm nếu u không vỡ.
 - Điều trị ngoại khoa khẩn: Bảo tồn buồng trứng nếu tưới máu hồi phục, qua nội soi hoặc mở bụng. Nếu không chắc lành, cắt bỏ trọn phần phụ bị xoắn.
 
 #### Khác

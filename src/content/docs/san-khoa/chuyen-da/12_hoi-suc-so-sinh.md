@@ -57,7 +57,7 @@ _Hình ảnh "Lưu đồ hồi sức sơ sinh"._
    - Nhịp tim 60–99: Tiếp tục PPV.
    - Nhịp tim < 60: Bắt đầu **ấn ngực**, 3:1 (PPV:ấn chèn), 120 lần/phút, đồng thời xem xét **adrenaline**.
    - Hầu hết trẻ phục hồi nhịp tim nhanh sau thông khí hiệu quả.
-   - Nếu vẫn < 60 sau 30 giây ấn ngực: đặt nội khí quản, cho thuốc.
+   - Nếu vẫn < 60 sau 30 giây ấn ngực: Đặt nội khí quản, cho thuốc.
 4. **Chuyển giai đoạn theo đáp ứng**
    - Tim ≥ 100, tự hô hấp → chuyển về chăm sóc thông thường.
    - Tiếp tục các bước khi tim < 100.

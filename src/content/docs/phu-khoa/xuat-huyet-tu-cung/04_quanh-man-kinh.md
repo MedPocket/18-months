@@ -69,7 +69,7 @@ _Hình ảnh "Lưu đồ tiếp cận xuất huyết tử cung bất thường q
 #### Bệnh sử
 
 - Tuổi mãn kinh dự kiến, tiền sử chu kỳ trước đó (độ dài, tính chất, lượng máu).
-- Triệu chứng đi kèm: đau bụng dưới, rối loạn tiểu tiện, thay đổi cân nặng, bứt rứt, khó ngủ (các dấu hiệu tiền mãn kinh).
+- Triệu chứng đi kèm: Đau bụng dưới, rối loạn tiểu tiện, thay đổi cân nặng, bứt rứt, khó ngủ (các dấu hiệu tiền mãn kinh).
 
 #### Thực thể
 
@@ -83,7 +83,7 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
 - **Nguyên nhân từ các cơ quan lận cận**:
   - Xuất huyết đường tiết niệu (thận, bàng quang), tiêu hóa (trực tràng) chảy xuống âm đạo giả.
   - Chấn thương vùng chậu, sa tạng, tổn thương âm hộ.
-- Khám tổng quát: đánh giá tình trạng mất máu (da niêm nhợt, mệt, choáng váng), dấu hiệu tăng sản androgen (nếu nghi PCOS muộn).
+- Khám tổng quát: Đánh giá tình trạng mất máu (da niêm nhợt, mệt, choáng váng), dấu hiệu tăng sản androgen (nếu nghi PCOS muộn).
 - Khám phụ khoa: Kiểm tra lâm sàng tử cung (kích thước, hình dạng), buồng trứng qua siêu âm (nếu cần). Khám cổ tử cung (Pap smear/nội soi cổ tử cung nếu chỉ định).
 
 ### Cận lâm sàng
@@ -93,7 +93,7 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
 - Thời điểm tối ưu: Ngay sau sạch kinh để đo độ dày nội mạc mỏng nhất (thông thường < 4–5 mm).
 - Đặc điểm cần ghi nhận:
   - Độ dày nội mạc: ≥ 5 mm ở phụ nữ quanh mãn kinh cần đánh giá thêm.
-  - Hình thái nội mạc: đều mỏng, lòng tử cung không có khối, không có kẽ tăng tín hiệu nhấp nhô.
+  - Hình thái nội mạc: Đều mỏng, lòng tử cung không có khối, không có kẽ tăng tín hiệu nhấp nhô.
   - Tổn thương khu trú: Polyp (có cuống), u xơ dưới niêm mạc, nang buồng trứng sản xuất estrogen.<br>
     _Hình ảnh "Tăng sinh nội mạc tử cung: Nội mạc dày 21.6 mm đầu chu kỳ là bất thường. Không thể chẩn đoán cơ năng khi có hình ảnh này"._
     ![Tăng sinh nội mạc tử cung trên siêu âm](./_images/xuat-huyet-tu-cung-quanh-man-kinh/hinh-anh-sieu-am-tang-sinh-noi-mac-tu-cung.png)

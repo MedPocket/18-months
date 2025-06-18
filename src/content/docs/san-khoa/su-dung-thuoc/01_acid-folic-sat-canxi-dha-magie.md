@@ -24,7 +24,7 @@ Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydro
 - **Nguồn thực phẩm giàu folate**:
   - Rau lá xanh đậm: Bina, cải bó xôi, súp lơ xanh.
   - Gan động vật.
-  - Các loại đậu: đậu lăng, đậu hà lan.
+  - Các loại đậu: Đậu lăng, đậu hà lan.
   - Trái cây họ cam quýt, bơ.
   - Măng tây, trứng, ngũ cốc tăng cường.
 
@@ -96,7 +96,7 @@ Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong c�
   - Tiêu chảy nếu dùng quá liều hoặc dạng magie không phù hợp.
 - **Nguồn thực phẩm giàu magie**:
   - Hạt: Bí, hướng dương, điều.
-  - Các loại đậu: đậu đen, đỏ, nành.
+  - Các loại đậu: Đậu đen, đỏ, nành.
   - Rau lá xanh: Bina, cải bó xôi.
   - Bơ, chuối, socola đen (≥ 70% cacao).
   - Ngũ cốc nguyên hạt: Yến mạch, gạo lứt.

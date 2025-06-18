@@ -98,7 +98,7 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"._
   - Thay đổi liên tục về tần suất, khối lượng, thời gian.
 - **Các thông tin khác**:
   - Ngày đầu kỳ kinh cuối, độ dài và độ đều chu kỳ, lượng và mô tả kinh nguyệt.
-  - Triệu chứng kèm: đau bụng, đau vú, thay đổi tâm trạng.
+  - Triệu chứng kèm: Đau bụng, đau vú, thay đổi tâm trạng.
   - Thói quen ăn uống, tập luyện, stress, cân nặng, tiền sử rối loạn ăn uống.
 
 #### Thực thể

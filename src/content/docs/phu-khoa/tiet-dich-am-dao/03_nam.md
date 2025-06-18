@@ -96,7 +96,7 @@ Tái phát sau 1 tháng chiếm 20–30% trường hợp.
 ### Có biến chứng
 
 - Tái phát ≥ 4 lần/năm hoặc nhiễm nấm không phải C. albicans, cần cấy nấm và kháng nấm đồ.
-- Đánh giá yếu tố nguy cơ: đái tháo đường, suy giảm miễn dịch.
+- Đánh giá yếu tố nguy cơ: Đái tháo đường, suy giảm miễn dịch.
 - Liệu pháp dự phòng: Fluconazole 150 mg uống mỗi tuần x 6 tháng.
 - Khuyến khích đánh giá và điều chỉnh các nguyên nhân nền (kiểm soát đường huyết, cân bằng miễn dịch).
 - Probiotics chưa được chứng minh chắc chắn hiệu quả, chỉ dùng theo kinh nghiệm cho một số trường hợp tái phát nhiều lần.

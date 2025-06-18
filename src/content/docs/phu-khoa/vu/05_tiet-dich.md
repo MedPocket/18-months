@@ -33,7 +33,7 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 
 1. **Tăng prolactin từ u tuyến yên**
    - U tuyến yên (prolactinoma) thường đi kèm triệu chứng phù gai thị, rối loạn thị giác (do khối u chèn ép thần kinh thị).
-   - Triệu chứng toàn thân: đau đầu, giảm thị lực, rối loạn kinh nguyệt, vô kinh.
+   - Triệu chứng toàn thân: Đau đầu, giảm thị lực, rối loạn kinh nguyệt, vô kinh.
 2. **Tổn thương thần kinh tủy sống hoặc chấn thương thành ngực**
    - Tác động cơ học làm tăng tín hiệu thần kinh kích thích quá mức vào vùng trung ương điều hòa prolactin.
 3. **Bệnh lý nội tiết – chuyển hóa**
@@ -60,14 +60,14 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 4. **Xét nghiệm chức năng thận – gan**
    - Để loại trừ suy thận mạn, xơ gan (gây giảm thanh thải prolactin).
 5. **Xét nghiệm nội tiết tố khác**
-   - Estradiol, FSH, LH: đánh giá tình trạng mãn kinh hoặc rối loạn tuyến sinh dục.
+   - Estradiol, FSH, LH: Đánh giá tình trạng mãn kinh hoặc rối loạn tuyến sinh dục.
 
 ### Điều trị
 
 #### Theo nguyên nhân
 
 - Nếu do thuốc: Ngưng hoặc thay thế bằng thuốc khác ít gây tăng prolactin.
-- Nếu do nhược giáp: điều trị thay thế hormone tuyến giáp (levothyroxine).
+- Nếu do nhược giáp: Điều trị thay thế hormone tuyến giáp (levothyroxine).
 - Nếu do rối loạn chức năng thận/ gan: Xử lý theo chuyên khoa tương ứng.
 
 #### Nội khoa
@@ -154,7 +154,7 @@ _Hình ảnh "Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ
 ![Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ Dũ](./_images/tiet-dich-num-vu/xu-tri-tiet-dich-num-vu-benh-ly.jpeg)
 
 - **Bước 1: Phân loại dịch**
-  - **Dịch sữa (trắng đục)**: đo prolactin, TSH → xử trí như tiết sữa.
+  - **Dịch sữa (trắng đục)**: Đo prolactin, TSH → xử trí như tiết sữa.
   - **Dịch bệnh lý (màu bất thường, một bên, một ống)**: Chuyển sang bước chẩn đoán hình ảnh.
 - **Bước 2: Kết hợp chẩn đoán hình ảnh**
   - **Nhũ ảnh + Siêu âm** (đều ưu tiên cho phụ nữ ≥ 35 tuổi):

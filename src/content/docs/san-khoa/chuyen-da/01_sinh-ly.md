@@ -42,7 +42,7 @@ Phân biệt với cơn co Braxton-Hicks:
 
 Hiện tượng này xảy ra chủ yếu nhờ:
 
-- Cơn co tử cung: động lực chính.
+- Cơn co tử cung: Động lực chính.
 - Đầu ối và ngôi thai: Hỗ trợ mở cổ tử cung, đặc biệt trong giai đoạn đầu.
 
 Vòng thắt sinh lý nằm giữa thân và đoạn dưới tử cung, nếu chuyển dạ bị tắc nghẽn lâu dài, vòng này có thể trở thành vòng thắt Bandl – dấu hiệu bệnh lý.

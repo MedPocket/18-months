@@ -106,11 +106,11 @@ Chỉ thực hiện khi viêm đã được kiểm soát hoặc sau điều tr�
 1. **Đốt điện (Electrocautery/LEEP)**
    - Sử dụng dòng điện để phá hủy vùng mô lộ tuyến.
    - Ưu điểm: Nhanh, chi phí thấp.
-   - Nhược điểm: đau nhẹ, có thể chảy máu sau thủ thuật, cần xem xét kỹ trước sinh nở.
+   - Nhược điểm: Đau nhẹ, có thể chảy máu sau thủ thuật, cần xem xét kỹ trước sinh nở.
 2. **Áp lạnh (Cryotherapy)**
    - Dùng nitơ lỏng để gây hoại tử đông lạnh vùng lộ tuyến.
    - Ít đau hơn đốt điện, hồi phục nhanh, ít sẹo.
-   - Nhược điểm: đôi khi vết thương lâu lành, mất nhiều buổi điều trị nếu diện lộ tuyến rộng.
+   - Nhược điểm: Đôi khi vết thương lâu lành, mất nhiều buổi điều trị nếu diện lộ tuyến rộng.
 3. **Laser CO₂**
    - Sử dụng chùm tia laser để bốc hơi mô lộ tuyến.
    - Ít chảy máu hơn đốt điện, vết thương nhỏ, lành nhanh.

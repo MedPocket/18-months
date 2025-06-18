@@ -66,7 +66,7 @@ _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của
 
 - **Kinh nguyệt**:
   - Tuổi có kinh lần đầu, tính chất chu kỳ (dài/ ngắn, đều/ không đều), độ dài và lượng máu, có cục máu đông kèm không.
-  - Các triệu chứng đi kèm: đau bụng kinh, mệt mỏi, choáng váng, triệu chứng thiếu máu (hoa mắt, chóng mặt).
+  - Các triệu chứng đi kèm: Đau bụng kinh, mệt mỏi, choáng váng, triệu chứng thiếu máu (hoa mắt, chóng mặt).
   - Tần suất spotting giữa chu kỳ.
 
 #### Thực thể
@@ -84,12 +84,12 @@ _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của
 
 - **Xét nghiệm loại trừ thai kỳ**: β-hCG huyết thanh (loại trừ thai sớm, thai ngoài tử cung).
 - **Đánh giá chức năng đông cầm máu, tình trạng xuất huyết** (khuyến cáo cho AUB nặng, tuổi dậy thì hoặc có tiền sử gia đình):
-  - Tổng phân tích tế bào máu (CBC): đánh giá thiếu máu, số lượng tiểu cầu.
+  - Tổng phân tích tế bào máu (CBC): Đánh giá thiếu máu, số lượng tiểu cầu.
   - APTT, PT/INR, fibrinogen, yếu tố Von Willebrand (VW) nếu nghi ngờ rối loạn đông.
 - **Xét nghiệm nội tiết** (tùy theo lâm sàng, dấu hiệu và tuổi):
   - **Tuyến giáp**: TSH, T₄, FT₃ (loại trừ cường/ suy giáp).
   - **Prolactin**: Nếu có rối loạn kinh kéo dài, chảy sữa núm vú, dấu hiệu u tuyến yên.
-  - **LH, FSH, Estradiol**: đánh giá trục buồng trứng (đặc biệt ở tuổi thanh niên hoặc nghi rối loạn phóng noãn).
+  - **LH, FSH, Estradiol**: Đánh giá trục buồng trứng (đặc biệt ở tuổi thanh niên hoặc nghi rối loạn phóng noãn).
   - **Testosterone, DHEA-S**: Nếu nghi cường androgen (PCOS, u tiết androgen).
   - **Glucose, Insulin**: Nếu BMI > 25 kg/m² hoặc nghi kháng insulin.
 
@@ -113,7 +113,7 @@ _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của
   - Đo độ dày nội mạc:
     - < 4–5 mm (đã qua giai đoạn hành kinh, không dùng tamoxifen) được coi là bình thường.
     - ≥ 5 mm cần đánh giá thêm (đặc biệt ≥ 8 mm hoặc có dày không đều nên nghi tăng sinh).
-  - Hình thái nội mạc: đồng nhất hay không, có polyp, u xơ dưới niêm mạc, hình ảnh _chuỗi hạt_ PCOS (ở tuổi trẻ).
+  - Hình thái nội mạc: Đồng nhất hay không, có polyp, u xơ dưới niêm mạc, hình ảnh _chuỗi hạt_ PCOS (ở tuổi trẻ).
   - Buồng trứng: U nang, u lạc nội mạc, PCOS.
 - **Siêu âm bơm nước buồng tử cung (SIS)**:
   - Chỉ định khi nghi polyp nội mạc hoặc dính buồng tử cung (nội mạc không bong đều).
@@ -139,8 +139,8 @@ _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của
    - Các thuốc cầm máu không chuyên biệt: NSAID (ibuprofen, naproxen) giảm prostaglandin, anti-fibrinolytics (tranexamic acid).
 2. **Xử trí nguyên nhân**
    - Nếu do nguyên nhân cấu trúc (PALM): Loại bỏ polyp, cắt bỏ u xơ, điều trị lạc nội mạc cơ tử cung, xử lý tăng sinh/nội mạc.
-   - Nếu do rối loạn nội tiết (COEIN-O hoặc E): điều chỉnh steroid ngoại sinh, cân bằng estrogen-progestogen, cân nhắc GnRH đồng vận, SERM, SPRM.
-   - Nếu do rối loạn đông (COEIN-C): điều trị rối loạn đông, phối hợp với chuyên khoa huyết học.
+   - Nếu do rối loạn nội tiết (COEIN-O hoặc E): Điều chỉnh steroid ngoại sinh, cân bằng estrogen-progestogen, cân nhắc GnRH đồng vận, SERM, SPRM.
+   - Nếu do rối loạn đông (COEIN-C): Điều trị rối loạn đông, phối hợp với chuyên khoa huyết học.
 3. **Tái lập chu kỳ kinh nguyệt đều đặn**
    - Duy trì nội tiết tố cân bằng để nội mạc phát triển–phân tiết đều đặn, tránh bong tróc không đều.
 4. **Các yếu tố cần cân nhắc**

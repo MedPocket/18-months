@@ -29,7 +29,7 @@ Các phương pháp hình ảnh chính:
 _Hình ảnh "Phân loại u buồng trứng theo hình thái siêu âm Tokyo"._
 ![Phân loại u buồng trứng theo hình thái siêu âm Tokyo](./_images/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-theo-Tokyo.jpeg)
 
-- **Kiểu I**: đa số u nang thanh dịch hoặc nang cơ năng.
+- **Kiểu I**: Đa số u nang thanh dịch hoặc nang cơ năng.
 - **Kiểu II**: Thường endometrioma, u nang thanh dịch hoặc dịch nhầy.
 - **Kiểu III**: Phản âm sáng/đường sáng bên trong → u nang bì.
 - **Kiểu I–III**: PPV ung thư gần 0.
@@ -123,7 +123,7 @@ _Hình ảnh "Phân loại u buồng trứng theo IOTA"._
 - Trong u biểu mô buồng trứng: CA125 tăng chủ yếu ở u thanh dịch, ít ở u nhầy, tế bào sáng hoặc giáp biên.
 - **Không dùng để sàng lọc u sớm** (độ nhạy 10–50%, độ đặc hiệu 30%).
 - **Độ nhạy CA125** cho ung thư tiến triển xa 85%.
-- **Theo dõi tái phát**: độ nhạy 60%, độ đặc hiệu 20%.
+- **Theo dõi tái phát**: Độ nhạy 60%, độ đặc hiệu 20%.
 
 ### HE4
 

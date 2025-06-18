@@ -116,7 +116,7 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"._
 - **Kỹ thuật**:
   - Dùng ống hút nhỏ (Karman 6–8), hút nhẹ vùng trên vết mổ.
   - Tránh hút vùng mỏng vết mổ để hạn chế thủng tử cung.
-  - Nếu chảy máu: đặt bóng chèn 12–24 giờ.
+  - Nếu chảy máu: Đặt bóng chèn 12–24 giờ.
 
 #### Đặt foley & hút thai
 

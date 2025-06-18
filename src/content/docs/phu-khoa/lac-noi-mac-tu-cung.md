@@ -157,7 +157,7 @@ _Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung
       Không dùng quá 3 tháng nếu không giảm đau; ít hiệu quả với lạc nội mạc sâu.
       :::
 - **Aromatase inhibitors (AIs)**:
-  - **Chỉ định**: đau tái phát sau NSAIDs/COCs; phối hợp khi cường estrogen cục bộ nặng.
+  - **Chỉ định**: Đau tái phát sau NSAIDs/COCs; phối hợp khi cường estrogen cục bộ nặng.
   - **Liều dùng**: Letrozole 2.5 mg/ngày, Anastrozole 1 mg/ngày.
   - **Tác dụng phụ**: Giảm mật độ xương, bốc hỏa, mệt mỏi.
 - **Đồng vận GnRH**:
@@ -167,7 +167,7 @@ _Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung
   - **Hạn chế**: Chỉ dùng tối đa 6 tháng nếu không có add-back; bốc hỏa, loãng xương.
 - **Progestin tại chỗ & toàn thân**:
   - **Progestin uống**: Dienogest 2 mg/ngày; Norethindrone 5–10 mg/ngày.
-  - **IUS–LNG**: đặt 1 lần, tác dụng 5 năm.
+  - **IUS–LNG**: Đặt 1 lần, tác dụng 5 năm.
   - **Tác dụng**: Teo nội mạc, giảm viêm; LNG-IUS còn giảm cường kinh.
     :::caution
     Chọn progestin ít tác dụng toàn thân; ưu tiên LNG-IUS hoặc Dienogest nếu có AUB-A.

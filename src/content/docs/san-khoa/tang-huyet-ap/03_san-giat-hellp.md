@@ -14,7 +14,7 @@ Sản giật và hội chứng HELLP là hai biến chứng nghiêm trọng và 
 
 - Cơn **co giật** + **hôn mê**.
 - Xảy ra trên nền tiền sản giật.
-- Có thể có dấu hiệu tiền triệu: đau đầu, mờ mắt, sợ ánh sáng, thay đổi cảm xúc.
+- Có thể có dấu hiệu tiền triệu: Đau đầu, mờ mắt, sợ ánh sáng, thay đổi cảm xúc.
 
 ### Điều trị
 

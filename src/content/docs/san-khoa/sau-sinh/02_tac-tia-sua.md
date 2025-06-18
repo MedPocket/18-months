@@ -19,7 +19,7 @@ Tắc tia sữa là tình trạng sữa ứ đọng trong các ống dẫn sữa
 - **Massage và vỗ ấm**:
   - Massage nhẹ vùng tia tắc theo hướng từ nền ngực về núm vú.
   - Chườm khăn ấm 10–15 phút trước bú/vắt để làm mềm mô và kích thích thông tuyến.
-- **Thay đổi tư thế bú**: Thử các tư thế: đứng, ngồi thẳng, nằm nghiêng, bế chéo để bé hút đủ các tia sữa bị tắc.
+- **Thay đổi tư thế bú**: Thử các tư thế: Đứng, ngồi thẳng, nằm nghiêng, bế chéo để bé hút đủ các tia sữa bị tắc.
 - **Mặc áo ngực thoải mái**: Dùng áo lót chuyên dụng cho con bú, không ép chặt ngực.
 - **Nghỉ ngơi và dinh dưỡng**: Uống đủ nước, ăn đa dạng dưỡng chất, ngủ đủ giấc, giảm stress.
 

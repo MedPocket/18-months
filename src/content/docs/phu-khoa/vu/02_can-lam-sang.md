@@ -66,7 +66,7 @@ _Hình ảnh "(Trái) Khối nang hỗn hợp và nang đơn thuần trên siêu
 - **Quy trình**:
   - Bệnh nhân nằm ngửa, hai tay đưa lên đầu để căng mô vú.
   - Thăm dò lần lượt theo các lát cắt:
-    1. Lưới dọc – ngang (grid): để khảo sát toàn bộ vú theo từng hàng ngang.
+    1. Lưới dọc – ngang (grid): Để khảo sát toàn bộ vú theo từng hàng ngang.
     2. Lát cắt hình nan hoa (radial) và hình tiếp tuyến (antiradial): Theo hướng tia phóng xạ tỏa ra từ núm-vú, giúp phát hiện khối lồi ra hoặc tổn thương đậm đặc.
     3. Khảo sát hạch nách: Tìm hạch to, thay đổi cấu trúc, tăng sinh mạch máu (Doppler).
 - **Hình ảnh đặc trưng**:
@@ -126,7 +126,7 @@ _Hình ảnh "MRI vú cung cấp hình ảnh động học và giải phẫu chi
   1. Khám lâm sàng, định vị khối qua siêu âm hoặc bằng tay.
   2. Gây vô cảm tại chỗ, luồn kim 22–25G vào tổn thương, hút dịch hoặc tế bào.
   3. Truyền mẫu lên lam kính, nhuộm nhanh (Romanowsky, Giemsa, Wright).
-  4. Giải phẫu tế bào: đánh giá tính chất tế bào, phân loại lành – ác, yêu cầu thêm sinh thiết lõi nếu nghi ngờ.
+  4. Giải phẫu tế bào: Đánh giá tính chất tế bào, phân loại lành – ác, yêu cầu thêm sinh thiết lõi nếu nghi ngờ.
 
 ## Sinh thiết lõi (Core Needle Biopsy)
 

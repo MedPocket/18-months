@@ -40,13 +40,13 @@ _Bảng "Phân loại - Phân độ sa tạng chậu"._
   - Pb: Thể sàn chậu.
   - Tvl: Chiều dài âm đạo.
 - **Điểm thay đổi**:
-  - Ba, Bp: điểm phồng xa nhất của đoạn âm đạo (khi rặn hoặc kéo cổ tử cung).
-- Trên/dưới mép màng trinh: đánh dấu +/– trước giá trị.
+  - Ba, Bp: Điểm phồng xa nhất của đoạn âm đạo (khi rặn hoặc kéo cổ tử cung).
+- Trên/dưới mép màng trinh: Đánh dấu +/– trước giá trị.
 
 **Phân độ POP-Q**:
 
 - **Độ 0**: Không sa tạng chậu.
-  - Aa, Ba, Ap, Bp: đều ở +3 cm trên màng trinh.
+  - Aa, Ba, Ap, Bp: Đều ở +3 cm trên màng trinh.
   - C, D: (tvl–2) cm ≤ C, D ≤ tvl.
 - **Độ I**: Bất kỳ điểm Ba hoặc Bp ở trên màng trinh > 1 cm.
 - **Độ II**: Ba hoặc Bp nằm trong khoảng ±1 cm quanh màng trinh.

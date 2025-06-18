@@ -43,7 +43,7 @@ Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới t�
 
 #### Xét nghiệm cơ bản
 
-- **Công thức máu, CRP**: đánh giá nhiễm trùng.
+- **Công thức máu, CRP**: Đánh giá nhiễm trùng.
 - **CTG hoặc Non-stress test** nếu cần thiết.
 - **Xét nghiệm liên cầu nhóm B (GBS)** nếu có chỉ định.
 
@@ -110,7 +110,7 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
   - Không rỉ ối thêm sau 7 ngày điều trị kháng sinh.
   - Lượng nước ối bình thường.
   - Sản phụ đồng thuận sau tư vấn.
-  - Hướng dẫn tự theo dõi: đo nhiệt độ 2 lần/ngày, theo dõi dấu hiệu bất thường (sốt, dịch âm đạo hôi, thai máy yếu...).
+  - Hướng dẫn tự theo dõi: Đo nhiệt độ 2 lần/ngày, theo dõi dấu hiệu bất thường (sốt, dịch âm đạo hôi, thai máy yếu...).
 
 #### Chấm dứt thai kỳ
 

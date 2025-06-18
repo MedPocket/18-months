@@ -57,7 +57,7 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
   - **Xử trí**: Lấy rau sót, hút nạo, kiểm tra siêu âm.
 - **Lộn tử cung**:
   - Đáy tử cung lộn ngược qua cổ tử cung.
-  - **Xử trí**: đỡ tay trả cổ tử cung về, gây mềm cơ tử cung (MgSO₄, terbutaline), nếu thất bại phẫu thuật.
+  - **Xử trí**: Đỡ tay trả cổ tử cung về, gây mềm cơ tử cung (MgSO₄, terbutaline), nếu thất bại phẫu thuật.
 
 ## Bệnh sinh
 

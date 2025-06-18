@@ -19,7 +19,7 @@ Trong cuộc sinh ngôi chỏm, các phần lớn nhất của thai (đầu, vai
 
 Ngôi được xem là đã lọt khi đường kính lọt của ngôi vượt qua mặt phẳng eo trên (12.75 cm). Ở ngôi chỏm, đường kính lọt lý thuyết là **hạ chẩm - thóp trước** (9.5 cm), nhưng lâm sàng thường dùng đường kính **lưỡng đỉnh** (cũng 9.5 cm). Chẩn đoán lọt dựa vào khám bụng và khám âm đạo.
 
-- **Khám bụng**: đánh giá độ lọt bằng cách ước lượng phần đầu thai nhi còn nằm trên xương vệ so với chiều rộng của năm ngón tay khép lại:
+- **Khám bụng**: Đánh giá độ lọt bằng cách ước lượng phần đầu thai nhi còn nằm trên xương vệ so với chiều rộng của năm ngón tay khép lại:
   - Toàn bộ đầu trên xương vệ: 5/5.
   - Toàn bộ đầu dưới xương vệ: 0/5.
   - Ngôi lọt thường ở khoảng 2/5.
@@ -64,7 +64,7 @@ Từ giai đoạn **(e → h)**, người đỡ sinh có thể **hỗ trợ** n�
 - **Sổ đầu xong**: Kiểm tra dây rốn quấn cổ:
   - Quấn lỏng: Tháo.
   - Quấn chặt: Kẹp và cắt.
-- **Xoay ngoài thì 1st**: đầu tự xoay về vị trí ban đầu.
+- **Xoay ngoài thì 1st**: Đầu tự xoay về vị trí ban đầu.
 - **Xoay ngoài thì 2nd**: Vai xoay trong → đầu xoay ngoài thêm → vào đường kính trước sau.
 - **Đỡ vai trước**: Kéo đầu về phía chân người đỡ, xuống dưới để vai ra.
 - **Đỡ vai sau**: Kéo thai lên trên, vai sau sổ nhẹ nhàng, giữ tầng sinh môn.

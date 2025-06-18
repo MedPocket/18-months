@@ -52,7 +52,7 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 #### Rối loạn kinh nguyệt
 
 - **Progestogen đơn thuần**: Dùng tối thiểu 12 ngày để giảm nguy cơ tăng sinh nội mạc tử cung và ung thư nội mạc tử cung.
-- **Viên tránh thai kết hợp** (ethinyl estradiol + progestogen kháng androgen như cyproterone, drospirenone): điều hòa kinh nguyệt, giảm nguy cơ tăng sinh nội mạc tử cung.
+- **Viên tránh thai kết hợp** (ethinyl estradiol + progestogen kháng androgen như cyproterone, drospirenone): Điều hòa kinh nguyệt, giảm nguy cơ tăng sinh nội mạc tử cung.
   :::caution
 - Progestogen cần kéo dài tối thiểu 12 ngày mỗi đợt để bảo vệ nội mạc tử cung.
 - Viên phối hợp không nên dùng liên tục mà chỉ sử dụng mỗi 3–4 tháng một lần để tránh tác dụng phụ trên béo phì và chuyển hóa.

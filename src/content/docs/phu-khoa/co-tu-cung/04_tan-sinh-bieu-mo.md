@@ -238,7 +238,7 @@ _Hình ảnh "Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có t
 - Đơn giản, ít đau, thực hiện ngoại trú.
 - Không điều chỉnh chính xác độ sâu và rìa điều trị.
 
-_Hình ảnh "Áp lạnh cổ tử cung: đầu áp nối với nitrogen lỏng hoặc CO₂ lỏng"._
+_Hình ảnh "Áp lạnh cổ tử cung: Đầu áp nối với nitrogen lỏng hoặc CO₂ lỏng"._
 ![Áp lạnh cổ tử cung](./_images/tan-sinh-bieu-mo-co-tu-cung/ap-lanh-co-tu-cung.png)
 
 ### Hủy mô bằng đốt laser (Laser Vaporization)

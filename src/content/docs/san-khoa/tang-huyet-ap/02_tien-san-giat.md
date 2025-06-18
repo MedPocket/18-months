@@ -205,8 +205,8 @@ _Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng �
 - **Liều dùng**:
   - Uống 20 mg x 3 lần/ngày.
   - **TM**: Bolus 0.5–1 mg, duy trì 1–3 mg/h (pha 10 mL nicardipine vào 40 mL Glucose 5%, truyền 5–15 mL/h).
-- **Tác dụng phụ**: đau đầu, chóng mặt, buồn nôn.
-- **Chống chỉ định**: đau thắt ngực không ổn định, sốc tim, hẹp van ĐMC nặng; thận trọng 3 tháng đầu.
+- **Tác dụng phụ**: Đau đầu, chóng mặt, buồn nôn.
+- **Chống chỉ định**: Đau thắt ngực không ổn định, sốc tim, hẹp van ĐMC nặng; thận trọng 3 tháng đầu.
 
 #### Lợi tiểu
 

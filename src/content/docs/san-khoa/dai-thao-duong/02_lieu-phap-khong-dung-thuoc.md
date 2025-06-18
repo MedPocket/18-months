@@ -64,7 +64,7 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
   | **Bữa tối** | 20 | 25 |
   | **Phụ tối** | 10 | 10 |
 - **Hoạt động thể chất**:
-  - Loại hình: đi bộ, yoga, bơi, tập cơ bản sau ăn.
+  - Loại hình: Đi bộ, yoga, bơi, tập cơ bản sau ăn.
   - Cường độ: Trung bình, không gây mệt quá sức; giám sát y tế nếu có biến chứng (nhau tiền đạo, dọa sinh non).
   - Thời gian: ≥ 30 phút/ngày hoặc 150 phút/tuần.
 

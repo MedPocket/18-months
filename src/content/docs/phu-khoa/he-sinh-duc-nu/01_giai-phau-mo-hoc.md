@@ -24,8 +24,8 @@ _Hình ảnh "Giải phẫu tử cung – buồng trứng"._
 - **Mặt trong** (mặt tự do): Lồi, hướng về phễu vòi tử cung và quai ruột.
 - **Mặt ngoài** (áp phúc mạc thành bên chậu): Nằm trong hố buồng trứng, giới hạn bởi
   - Trước – dưới: Dây chằng rộng
-  - Trên: động mạch chậu ngoài
-  - Sau: động mạch chậu trong và niệu quản
+  - Trên: Động mạch chậu ngoài
+  - Sau: Động mạch chậu trong và niệu quản
 - **Bờ tự do**: Tiếp xúc quai ruột.
 - **Bờ mạc treo**: Gắn vào mặt sau dây chằng rộng qua mạc treo buồng trứng.
 - **Đầu vòi**: Hướng lên trên, nơi vào của hệ mạch buồng trứng (trong dây chằng treo).
@@ -40,7 +40,7 @@ _Hình ảnh "Giải phẫu mạch máu tử cung buồng trứng"._
   - Tách từ động mạch chủ bụng ngang mức L2.
   - Chạy trong dây chằng treo, vào buồng trứng tại đầu vòi.
 - **Nhánh nối từ động mạch tử cung**: Chảy dọc dây chằng buồng trứng riêng, góp phần cấp máu cho cực dưới.
-- **Tĩnh mạch**: đám rối quanh rốn buồng trứng nên phải đổ vào tĩnh mạch chủ dưới. Bên trái đổ vào tĩnh mạch thận trái.
+- **Tĩnh mạch**: Đám rối quanh rốn buồng trứng nên phải đổ vào tĩnh mạch chủ dưới. Bên trái đổ vào tĩnh mạch thận trái.
 - **Bạch huyết**: Theo mạch máu buồng trứng, đổ vào hạch thắt lưng (para-aortic).
 - **Thần kinh**:
   - Sợi giao cảm từ đám rối mạc treo (renal–aortic plexus).

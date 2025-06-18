@@ -97,7 +97,7 @@ _Hình ảnh "Sơ đồ xử trí tiết dịch âm đạo bất thường – B
 
 1. **Đánh giá ban đầu**
    - Hỏi tiền sử: Thời điểm khởi phát, tính chất dịch, mùi, triệu chứng kèm.
-   - Khám ngoại vi: đáy chậu, âm hộ, âm đạo, cổ tử cung.
+   - Khám ngoại vi: Đáy chậu, âm hộ, âm đạo, cổ tử cung.
    - Xem xét các yếu tố thuận lợi: Kháng sinh gần đây, đường tình dục, thói quen thụt rửa.
 2. **Xét nghiệm cơ bản**
    - **Soi tươi dịch âm đạo**:
@@ -124,16 +124,16 @@ _Hình ảnh "Sơ đồ xử trí tiết dịch âm đạo bất thường – B
 
 - **Clomaz Forte (Clotrimazole 500 mg)**
   - Điều trị: Nhiễm nấm Candida, viêm âm đạo do nấm, hỗn hợp Trichomonas và Gardnerella, các vi khuẩn Gram (+).
-  - Liều: đặt 1 viên duy nhất vào âm đạo trước khi ngủ.
+  - Liều: Đặt 1 viên duy nhất vào âm đạo trước khi ngủ.
 - **Neo Penotran (Metronidazole 500 mg + Miconazole nitrate 100 mg)**
   - Điều trị: Viêm âm đạo do vi khuẩn kỵ khí, Gardnerella vaginalis, Trichomonas vaginalis và nhiễm hỗn hợp kèm Candida.
-  - Liều: đặt 1 viên vào âm đạo trước khi ngủ mỗi đêm × 7 ngày.
+  - Liều: Đặt 1 viên vào âm đạo trước khi ngủ mỗi đêm × 7 ngày.
 - **Sadetabs (Neomycin sulphate 83 mg + Clotrimazole 100 mg + Metronidazole 500 mg)**
   - Điều trị: Viêm âm đạo do tạp khuẩn và nấm Candida nhẹ.
-  - Liều: đặt 1 viên vào âm đạo mỗi đêm × 7 ngày.
+  - Liều: Đặt 1 viên vào âm đạo mỗi đêm × 7 ngày.
 - **Timbov (Clotrimazole 500 mg)**
   - Điều trị: Nhiễm nấm âm hộ âm đạo, đặc biệt Candida, hoặc viêm hỗn hợp kèm vi khuẩn, Trichomonas.
-  - Liều: đặt 1 viên vào âm đạo trước khi ngủ × 7–14 ngày tùy mức độ.
+  - Liều: Đặt 1 viên vào âm đạo trước khi ngủ × 7–14 ngày tùy mức độ.
 
 ## Tài liệu tham khảo
 

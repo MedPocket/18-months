@@ -55,7 +55,7 @@ _Bảng "Thuốc tăng co tử cung và hồi phục tử cung"._
 | **Ergonovine / Methylergonovine** | 0.2 mg/ống tiêm bắp | — | ✓ | Kéo dài |
 | **Syntometrine** (oxytocin 5 IU + ergometrine 0.5 mg) | 1 mL/ống tiêm bắp hoặc tĩnh mạch | — | ✓ | Kéo dài |
 | **Carboprost (PGF₂α)** / Sulprostone, Nalador® | 125–250 µg/1 mL tiêm bắp; 500 µg bột pha tiêm bắp/tĩnh mạch | — | ✓ | Kéo dài |
-| **Misoprostol (PGE₁)** (Cytotec®) | 200 µg: đường uống, ngậm, đặt âm đạo/trực tràng | ✓ | ✓ | Kéo dài |
+| **Misoprostol (PGE₁)** (Cytotec®) | 200 µg: Đường uống, ngậm, đặt âm đạo/trực tràng | ✓ | ✓ | Kéo dài |
 
 ## Đặc điểm một số thuốc
 
@@ -87,7 +87,7 @@ _Bảng "Thuốc tăng co tử cung và hồi phục tử cung"._
 - **Liều dùng**:
   - 100 µg tiêm bắp một lần sau sổ rau.
   - **Thời gian bán hủy**: 40 phút; co tử cung kéo dài 1–2 giờ.
-- **Tác dụng phụ**: đau co tử cung, buồn nôn, bốc hỏa.
+- **Tác dụng phụ**: Đau co tử cung, buồn nôn, bốc hỏa.
 
 ### Ergot alkaloids (Ergometrine / Methylergonovine)
 

@@ -26,7 +26,7 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
    - **Mang thai**: Nhiễm Chlamydia khi mang thai tăng nguy cơ sinh non, vỡ ối non, sinh con nhẹ cân.
 2. **Nam giới**
    - **Viêm niệu đạo không biến chứng**: Tiểu buốt, tiểu rát, chảy mủ niệu đạo, đau dọc niệu đạo.
-   - **Viêm mào tinh hoàn, viêm tinh hoàn**: đau tinh hoàn, sưng, có thể ảnh hưởng đến khả năng sinh tinh.
+   - **Viêm mào tinh hoàn, viêm tinh hoàn**: Đau tinh hoàn, sưng, có thể ảnh hưởng đến khả năng sinh tinh.
    - **Ureaplasma và Mycoplasma thường đồng nhiễm**, cần phân biệt khi điều trị kháng sinh.
 3. **Trẻ sơ sinh**
    - **Viêm kết mạc**: Xuất hiện sau 5–14 ngày sau sinh, chảy mủ mắt, sưng nề mí.
@@ -46,7 +46,7 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 - **Phụ nữ**
   - 70–80% không có triệu chứng rõ rệt.
   - Có thể: Tiết dịch âm đạo bất thường (dịch nhầy hoặc dịch vàng nhạt), chảy máu khi giao hợp, chảy máu sau khi thăm khám.
-  - Đôi khi: đau hạ vị âm ỉ khi PID khởi phát, tiểu buốt, tiểu rắt nhẹ.
+  - Đôi khi: Đau hạ vị âm ỉ khi PID khởi phát, tiểu buốt, tiểu rắt nhẹ.
 - **Nam giới**
   - 50% không có triệu chứng; khi có: Tiết dịch mủ niệu đạo, tiểu buốt, tiểu rát, cảm giác đái khó.
   - Đau dọc niệu đạo, có thể kèm ngứa.
@@ -57,11 +57,11 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 #### Có biến chứng
 
 - **Phụ nữ**
-  - Viêm tiểu khung (PID): đau hạ vị, sốt, ra khí hư nhiều, có mùi hôi, ra máu bất thường.
+  - Viêm tiểu khung (PID): Đau hạ vị, sốt, ra khí hư nhiều, có mùi hôi, ra máu bất thường.
   - Vô sinh do dính vòi trứng, tăng nguy cơ thai ngoài tử cung.
   - Mang thai: Sinh non, vỡ ối non, trẻ nhẹ cân.
 - **Trẻ sơ sinh**
-  - Viêm kết mạc: đỏ mắt, chảy mủ, sưng mí sau 5–14 ngày, cần chẩn đoán sớm để tránh loét giác mạc.
+  - Viêm kết mạc: Đỏ mắt, chảy mủ, sưng mí sau 5–14 ngày, cần chẩn đoán sớm để tránh loét giác mạc.
   - Viêm phổi bẩm sinh: Khởi phát sau 2–3 tuần, ho khan, không đáp ứng kháng sinh thông thường; cần điều trị sulfamethoxazole–trimethoprim (TMP–SMX).
 
 #### Bệnh hột xoài (LGV)

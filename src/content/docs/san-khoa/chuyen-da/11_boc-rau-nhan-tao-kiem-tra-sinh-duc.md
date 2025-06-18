@@ -111,7 +111,7 @@ Tương tự kiểm tra cổ tử cung.
 
 1. Khám toàn bộ thành âm đạo bằng ngón tay: Tìm rách niêm mạc, cơ.
 2. Mở valve, kiểm tra đáy chậu, tầng sinh môn.
-3. Thăm trực tràng: đánh giá cơ vòng hậu môn.
+3. Thăm trực tràng: Đánh giá cơ vòng hậu môn.
 
 **Phân độ rách tầng sinh môn**
 

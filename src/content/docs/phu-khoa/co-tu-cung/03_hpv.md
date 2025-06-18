@@ -15,7 +15,7 @@ Bên trong là DNA kép vòng, dài 7904 bp, gồm các gen:
 - **E1, E2**: Nhân bản.
 - **E4, E5**: Tái tổ hợp.
 - **L1, L2**: Protein vỏ capsid.
-- **E6, E7**: đa chức năng, tương tác với p53 và pRb, quyết định khả năng sinh ung thư.
+- **E6, E7**: Đa chức năng, tương tác với p53 và pRb, quyết định khả năng sinh ung thư.
 
 _Hình ảnh "Sơ đồ DNA 7904 bp của HPV type 16"._
 ![DNA HPV16 7904 bp](./_images/hpv/so-do-dna-hpv-16.png)

@@ -39,7 +39,7 @@ Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng v�
 #### Có biến chứng
 
 - **Nam giới**
-  - Viêm mào tinh hoàn: đau, sưng tinh hoàn, kèm sốt, ớn lạnh. Nếu không điều trị, có thể apsxe bìu và dẫn đến vô sinh.
+  - Viêm mào tinh hoàn: Đau, sưng tinh hoàn, kèm sốt, ớn lạnh. Nếu không điều trị, có thể apsxe bìu và dẫn đến vô sinh.
   - Hẹp niệu đạo: Do nhiễm trùng tái phát hoặc không được điều trị, gây tiểu khó mạn tính.
 - **Nữ giới**
   - Viêm tiểu khung (PID): Lan ngược lên vòi trứng, buồng trứng, gây đau bụng dưới, sốt, đôi khi áp xe buồng trứng.
@@ -184,9 +184,9 @@ Xác định thất bại điều trị khi:
   - **Cefixim 800 mg uống liều duy nhất** + **Azithromycin 2 g uống liều duy nhất**.
   - **Gentamicin 240 mg tiêm bắp liều duy nhất** + **Azithromycin 2 g uống liều duy nhất**.
   - **Spectinomycin 2 g tiêm bắp liều duy nhất** (nếu không phải nhiễm hầu họng) + **Azithromycin 2 g uống liều duy nhất**.
-- Nếu đã điều trị nhưng không theo phác đồ khuyến cáo: điều trị lại theo hướng dẫn.
-- Nếu có kháng sinh đồ: điều trị lại dựa vào kết quả kháng sinh đồ.
-- Nếu nghi ngờ tái nhiễm (bạn tình không điều trị hoặc quan hệ với người mới nhiễm): điều trị lại theo phác đồ ưu tiên và điều trị bạn tình.
+- Nếu đã điều trị nhưng không theo phác đồ khuyến cáo: Điều trị lại theo hướng dẫn.
+- Nếu có kháng sinh đồ: Điều trị lại dựa vào kết quả kháng sinh đồ.
+- Nếu nghi ngờ tái nhiễm (bạn tình không điều trị hoặc quan hệ với người mới nhiễm): Điều trị lại theo phác đồ ưu tiên và điều trị bạn tình.
 
 ### Theo dõi sau điều trị
 

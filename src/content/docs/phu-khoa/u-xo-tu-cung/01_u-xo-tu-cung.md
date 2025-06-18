@@ -13,7 +13,7 @@ U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô
 ## Yếu tố nguy cơ
 
 - **Tuổi**: Tăng đến tiền mãn kinh, giảm sau mãn kinh.
-- **Di truyền**: đột biến MED12, trisomy 12, đảo đoạn 12q, 6p...
+- **Di truyền**: Đột biến MED12, trisomy 12, đảo đoạn 12q, 6p...
 - **Nội tiết/chuyển hóa**: Béo phì, kháng insulin, tăng lipid, tăng huyết áp.
 - **Gia đình**: Mẹ/chị em gái có u xơ.
 
@@ -56,7 +56,7 @@ _Bảng "Phân loại FIGO 2011"._
   ![U xơ tử cung trên siêu âm Doppler](./_images/u-xo-tu-cung-tren-sieu-am-doppler.png)
   _Hình ảnh "Adenomyosis trên siêu âm Doppler"._
   ![Adenomyosis trên siêu âm Doppler](./_images/adenomyosis-tren-sieu-am-doppler.png)
-- **Siêu âm 4D/đàn hồi**: đánh giá JZ, độ cứng.
+- **Siêu âm 4D/đàn hồi**: Đánh giá JZ, độ cứng.
   _Hình ảnh "Adenomyosis trên siêu âm đàn hồi"._
   ![Adenomyosis trên siêu âm đàn hồi](./_images/adenomyosis-tren-sieu-am-dan-hoi.png)
 - **Siêu âm bơm nước**: Với u xơ dưới niêm mạc.
@@ -82,7 +82,7 @@ _Bảng "Phân loại FIGO 2011"._
 
 - **Xuất huyết**: Cường/rong kinh (30% chỉ định can thiệp).
 - **Chèn ép**: Bàng quang, niệu quản (thận ứ nước), trực tràng, TM chủ dưới.
-- **Thoái hóa/u xoắn**: đau cấp, sốt, tăng bạch cầu.
+- **Thoái hóa/u xoắn**: Đau cấp, sốt, tăng bạch cầu.
 - **Hiếm muộn**: Dưới niêm mạc, biến dạng lòng tử cung.
 - **Thai kỳ**: Ngôi bất thường, rau tiền đạo, bong non, sinh non
 

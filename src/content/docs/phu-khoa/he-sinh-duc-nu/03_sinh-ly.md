@@ -30,7 +30,7 @@ Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chi
 
 ### Hạ đồi
 
-- **KNDy neuron** (kisspeptin, neurokinin B, dynorphin): điều khiển GnRH neuron.
+- **KNDy neuron** (kisspeptin, neurokinin B, dynorphin): Điều khiển GnRH neuron.
 - Kisspeptin → kích thích GnRH → phóng thích theo xung vào máu cửa tuyến yên.<br>
   _Hình ảnh "KNDy và GnRH neuron"._
   ![KNDy và GnRH neuron](./_images/sinh-ly/lien-quan-giua-kndy-neutron-va-gnrh-neutro.png)

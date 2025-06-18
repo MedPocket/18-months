@@ -10,7 +10,7 @@ Chẩn đoán khối tân lập ở buồng trứng luôn phải đi kèm dự �
 - **Tất cả khối tân lập** buồng trứng được điều trị ngoại khoa.
 - **Mục tiêu**: ước đoán chính xác nhất khả năng lành/ác tính dựa vào tiền sử, lâm sàng, hình ảnh, chỉ báo khối u.
 - **Khối nghi lành tính** (dân số nguy cơ thấp, thỏa IOTA lành, ROMA thấp...):
-  - Phẫu thuật nội soi bảo tồn: đánh giá đại thể, bóc u, bảo tồn mô lành (trẻ) hoặc cắt phần phụ (người lớn tuổi).
+  - Phẫu thuật nội soi bảo tồn: Đánh giá đại thể, bóc u, bảo tồn mô lành (trẻ) hoặc cắt phần phụ (người lớn tuổi).
   - Hạn chế sang chấn để tránh giảm dự trữ buồng trứng.
 - **Khối nghi ác tính** (IOTA ác, ROMA cao...):
   1.  Mổ mở:

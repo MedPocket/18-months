@@ -28,7 +28,7 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 
 - **Insulin**: Thường ngưng ngay sau sinh.
 - **Đường huyết đói**: Kiểm tra trong vòng 24 giờ sau sinh; nếu bất thường (≥ 7.0 mmol/L), giảm liều insulin còn 50% nếu vẫn duy trì.
-- **Theo dõi huyết áp, cân nặng, cử động tử cung**: để phát hiện tiền sản giật còn sót, xuất huyết sau sinh.
+- **Theo dõi huyết áp, cân nặng, cử động tử cung**: Để phát hiện tiền sản giật còn sót, xuất huyết sau sinh.
 
 ### Với ĐTĐ thực sự
 
