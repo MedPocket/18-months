@@ -46,9 +46,9 @@ Chủ yếu dựa vào siêu âm:
 - AFI ≥ 22 cm ở 3 tháng giữa và ≥ 25 cm ở 3 tháng cuối.
 - SDP ≥ 8 cm (SDP ≥ 16 cm là đa ối nặng).
 
-  | Mức độ | Nhẹ | Trung bình | Nặng |
+  | Mức độ  | Nhẹ       | Trung bình | Nặng    |
   | ------- | --------- | ---------- | ------- |
-  | **AFI** | 25–30 cm | 30.1–35 cm | > 35 cm |
+  | **AFI** | 25–30 cm  | 30.1–35 cm | > 35 cm |
   | **SDP** | 8–11.9 cm | 12–15.9 cm | ≥ 16 cm |
 
 :::

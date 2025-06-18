@@ -65,7 +65,7 @@ Các trường hợp trên lâm sàng:
 ### Thai lưu
 
 **Siêu âm xác nhận** khi đáp ứng ≥ 1 tiêu chí sau:
-  
+
 1. CRL ≥ 7 mm không thấy tim thai.
 2. MSD ≥ 25 mm không thấy phôi thai.
 3. Phôi không xuất hiện sau 14 ngày kể từ siêu âm xác nhận túi thai không có yolk-sac.
