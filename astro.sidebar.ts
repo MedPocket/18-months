@@ -7,8 +7,13 @@ export const sidebar = starlightSidebarTopics([
     icon: "external",
     items: [
       "san-khoa/rau-thai",
-      "san-khoa/cu-dong-thai",
-      "san-khoa/sieu-am-doppler",
+      {
+        label: "Sức khỏe thai",
+        autogenerate: {
+          directory: "san-khoa/suc-khoe-thai",
+        },
+        collapsed: true,
+      },
       {
         label: "Chỉ số ối",
         autogenerate: {
