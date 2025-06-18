@@ -3,12 +3,7 @@ title: Rau thai
 description: Nguồn gốc, quá trình hình thành và vai trò của rau thai trong thai kỳ.
 ---
 
-Nguồn gốc bánh rau:
-
-1. Rau thuộc thai: Màng đệm có nhung mao.
-2. Rau thuộc mẹ: Màng rụng rau.
-
-Rau thường bám ở 1/3 trên của buồng tử cung (thành trước hoặc thành sau).
+Nhau thai là một cơ quan tạm thời hình thành trong tử cung trong thời kỳ mang thai, có chức năng chính là đảm bảo sự trao đổi khí, chất dinh dưỡng và chất thải giữa mẹ và thai nhi thông qua hệ thống tuần hoàn máu của nhau thai. Đồng thời, nhau thai còn tiết ra các hormone cần thiết để duy trì và điều hòa thai kỳ, như hCG (human chorionic gonadotropin), progesterone và estrogen.
 
 ## Nguồn gốc
 
