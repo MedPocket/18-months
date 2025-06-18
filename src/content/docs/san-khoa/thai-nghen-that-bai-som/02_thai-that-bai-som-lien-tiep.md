@@ -5,8 +5,8 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 
 **Thai nghén thất bại sớm liên tiếp (Recurrent Pregnancy Loss - RPL)** được xác định khi thai nghén bị thất bại từ 2 lần trở lên, không bao gồm thai ngoài tử cung hay thai trứng. Thai nghén thất bại sớm được định nghĩa khi thai kỳ sụp đổ tự phát trước khi thai nhi có khả năng sinh sống (thường trước 24 tuần tuổi thai vô kinh). Mốc này có thể thay đổi tùy theo quốc gia và tiến bộ y học. Có sự phân biệt giữa RPL nguyên phát và RPL thứ phát:
 
-- RPL nguyên phát xảy ra mà không có thai kỳ nào vượt qua 24 tuần trước đó.
-- RPL thứ phát xảy ra sau hoặc nhiều thai kỳ có con sống trước đó.
+1. RPL nguyên phát xảy ra mà không có thai kỳ nào vượt qua 24 tuần trước đó.
+2. RPL thứ phát xảy ra sau hoặc nhiều thai kỳ có con sống trước đó.
 
 ## Yếu tố nguy cơ
 
