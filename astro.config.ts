@@ -3,9 +3,6 @@
 import starlight from "@astrojs/starlight";
 import { defineConfig } from "astro/config";
 import rehypeExternalLinks from "rehype-external-links";
-import rehypeKatex from "rehype-katex";
-import rehypeSlug from "rehype-slug";
-import remarkMath from "remark-math";
 import starlightImageZoom from "starlight-image-zoom";
 import starlightLinksValidator from "starlight-links-validator";
 import { sidebar } from "./astro.sidebar";
@@ -20,10 +17,8 @@ const site =
 export default defineConfig({
   site,
   markdown: {
-    remarkPlugins: [remarkMath, remarkReadingTime],
+    remarkPlugins: [remarkReadingTime],
     rehypePlugins: [
-      rehypeSlug,
-      rehypeKatex,
       [
         rehypeExternalLinks,
         {
@@ -97,7 +92,7 @@ export default defineConfig({
         Footer: "./src/components/Footer.astro",
         PageTitle: "./src/components/PageTitle.astro",
       },
-      customCss: ["./src/styles/globals.css", "katex/dist/katex.min.css"],
+      customCss: ["./src/styles/globals.css"],
       social: [
         {
           icon: "github",
