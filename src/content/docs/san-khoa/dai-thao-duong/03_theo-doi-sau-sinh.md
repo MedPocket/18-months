@@ -14,13 +14,21 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 
 ## Theo dõi trẻ sơ sinh
 
-- **Hạ đường huyết sơ sinh**: Thường xảy ra trong 2–24 giờ đầu.
-  - Mục tiêu: Duy trì glucose ≥ 45 mg/dL (2.5 mmol/L).
-  - Xét nghiệm glucose mao mạch ngay trong 2 giờ đầu, sau đó 6 giờ và 12 giờ nếu vẫn có yếu tố nguy cơ.
-- **Thân nhiệt, tim mạch, hô hấp**:
-  - Đo mỗi 4–6 giờ trong 24 giờ đầu.
-  - Phát hiện sớm hội chứng suy hô hấp, hạ thân nhiệt, vàng da.
-- **Dinh dưỡng**: ưu tiên bú mẹ; nếu cần, bổ sung sữa công thức cho trẻ hạ đường huyết nặng hoặc không bú tốt.
+**Hạ đường huyết sơ sinh**:
+
+- Thường xảy ra trong 2–24 giờ đầu.
+- Mục tiêu: Duy trì glucose ≥ 45 mg/dL (2.5 mmol/L).
+- Xét nghiệm glucose mao mạch ngay trong 2 giờ đầu, sau đó 6 giờ và 12 giờ nếu vẫn có yếu tố nguy cơ.
+
+**Thân nhiệt, tim mạch, hô hấp**:
+
+- Đo mỗi 4–6 giờ trong 24 giờ đầu.
+- Phát hiện sớm hội chứng suy hô hấp, hạ thân nhiệt, vàng da.
+
+**Dinh dưỡng**:
+
+- Ưu tiên bú mẹ.
+- Nếu cần, bổ sung sữa công thức cho trẻ hạ đường huyết nặng hoặc không bú tốt.
 
 ## Theo dõi sản phụ
 
@@ -37,15 +45,18 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 
 ## Đánh giá
 
-- **OGTT 75 g** thực hiện ở 4–12 tuần sau sinh:<br>
-  _Bảng "Đánh giá OGTT 75 g sau sinh"._
-  | **Thời điểm** | Bình thường | Tiền đái tháo đường | Đái tháo đường |
-  | ------------------- | -------------------------- | ------------------------------- | --------------------------- |
-  | **Glucose khi đói** | < 5.6 mmol/L (< 100 mg/dL) | 5.6–6.9 mmol/L (100–125 mg/dL) | ≥ 7.0 mmol/L (≥ 126 mg/dL) |
-  | **Glucose 2 giờ** | < 7.8 mmol/L (< 140 mg/dL) | 7.8–11.0 mmol/L (140–199 mg/dL) | ≥ 11.1 mmol/L (≥ 200 mg/dL) |
-- **Kết quả và xử trí**:
-  - **Bình thường**: Kiểm tra định kỳ 1–3 năm/lần, tư vấn lối sống lành mạnh.
-  - **Tiền đái tháo đường/ĐTĐ**: Chuyển khám Nội tiết, cân nhắc điều trị nội tiết và chương trình thay đổi lối sống tích cực.
+**OGTT 75 g** thực hiện ở 4–12 tuần sau sinh:
+
+_Bảng "Đánh giá OGTT 75 g sau sinh"._
+| **Thời điểm** | Bình thường | Tiền đái tháo đường | Đái tháo đường |
+| ------------------- | -------------------------- | ------------------------------- | --------------------------- |
+| **Glucose khi đói** | < 5.6 mmol/L (< 100 mg/dL) | 5.6–6.9 mmol/L (100–125 mg/dL) | ≥ 7.0 mmol/L (≥ 126 mg/dL) |
+| **Glucose 2 giờ** | < 7.8 mmol/L (< 140 mg/dL) | 7.8–11.0 mmol/L (140–199 mg/dL) | ≥ 11.1 mmol/L (≥ 200 mg/dL) |
+
+**Kết quả và xử trí**:
+
+- **Bình thường**: Kiểm tra định kỳ 1–3 năm/lần, tư vấn lối sống lành mạnh.
+- **Tiền đái tháo đường/ĐTĐ**: Chuyển khám Nội tiết, cân nhắc điều trị nội tiết và chương trình thay đổi lối sống tích cực.
 
 _Hình ảnh "Quy trình theo dõi và quản lý ĐTĐ sau sinh"._
 ![Theo dõi và quản lý ĐTĐ sau sinh](./_images/theo-doi-va-quan-ly-dai-thao-duong-sau-sinh.jpg)
