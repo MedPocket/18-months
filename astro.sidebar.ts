@@ -92,10 +92,13 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "san-khoa/viem-gan-b",
-      "san-khoa/hiv",
-      "san-khoa/uon-van",
-      "san-khoa/thuy-dau",
+      {
+        label: "Bệnh truyền nhiễm trong thai kỳ",
+        autogenerate: {
+          directory: "san-khoa/truyen-nhiem",
+        },
+        collapsed: true,
+      },
       {
         label: "Sử dụng thuốc trong thai kỳ",
         autogenerate: {

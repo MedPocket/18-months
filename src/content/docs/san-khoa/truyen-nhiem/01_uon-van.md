@@ -3,7 +3,7 @@ title: Phòng uốn ván khi mang thai
 description: Dự phòng uốn ván với phụ nữ có thai.
 ---
 
-Bệnh uốn ván (phong đòn gánh) do độc tố tetanospasmin của _Clostridium tetani_ gây co giật và căng cứng cơ. Vi khuẩn tồn tại khắp nơi, xâm nhập qua vết thương hở và rất bền với nhiệt độ cũng như chất tiệt trùng. Triệu chứng thường khởi phát ở cơ nhai, cơ mặt, cơ gáy rồi lan dần toàn thân, có tỷ lệ tử vong cao, đặc biệt với phụ nữ mang thai và trẻ sơ sinh.
+**Bệnh uốn ván (phong đòn gánh)** do độc tố tetanospasmin của _Clostridium tetani_ gây co giật và căng cứng cơ. Vi khuẩn tồn tại khắp nơi, xâm nhập qua vết thương hở và rất bền với nhiệt độ cũng như chất tiệt trùng. Triệu chứng thường khởi phát ở cơ nhai, cơ mặt, cơ gáy rồi lan dần toàn thân, có tỷ lệ tử vong cao, đặc biệt với phụ nữ mang thai và trẻ sơ sinh.
 
 ## Lợi ích của vaccine
 
