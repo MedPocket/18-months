@@ -5,7 +5,11 @@ description: Dự phòng uốn ván với phụ nữ có thai.
 
 **Bệnh uốn ván (phong đòn gánh)** do độc tố tetanospasmin của _Clostridium tetani_ gây co giật và căng cứng cơ. Vi khuẩn tồn tại khắp nơi, xâm nhập qua vết thương hở và rất bền với nhiệt độ cũng như chất tiệt trùng. Triệu chứng thường khởi phát ở cơ nhai, cơ mặt, cơ gáy rồi lan dần toàn thân, có tỷ lệ tử vong cao, đặc biệt với phụ nữ mang thai và trẻ sơ sinh.
 
-## Lợi ích của vaccine
+## Vaccine uốn ván
+
+Vaccine **không chứa vi khuẩn sống, mà chứa giải độc tố uốn ván (tetanus toxoid)** — tức là độc tố đã bị làm yếu không còn gây bệnh nhưng vẫn kích thích hệ miễn dịch sản xuất kháng thể. Những kháng thể này sẽ bảo vệ cơ thể nếu sau này bị vi khuẩn uốn ván xâm nhập.
+
+### Lợi ích
 
 - **Bảo vệ mẹ**: Ngăn ngừa uốn ván tử cung trong quá trình sinh đẻ.
 - **Bảo vệ bé**: Kháng thể mẹ truyền qua nhau thai giúp phòng uốn ván rốn sơ sinh.
@@ -13,24 +17,29 @@ description: Dự phòng uốn ván với phụ nữ có thai.
 
 ## Chỉ định
 
-Vaccine uốn ván cho phụ nữ mang thai được tiêm theo tiền sử miễn dịch:
+**Chưa tiêm hoặc không rõ lịch sử**:
 
-- **Chưa tiêm hoặc không rõ lịch sử**
-  - Mũi đầu tiên khi mang thai lần đầu.
-  - Mũi nhắc lại sau ≥ 1 tháng.
-  - Mũi tiếp theo sau ≥ 6 tháng (hoặc ở lần mang thai sau).
-  - Mũi thứ tư sau ≥ 1 năm (hoặc ở lần mang thai sau).
-  - Mũi thứ năm sau ≥ 1 năm (hoặc ở lần mang thai sau).
-- **Đã tiêm 3 mũi cơ bản**
-  - Mũi đầu khi mang thai lần đầu.
-  - Mũi nhắc lại sau ≥ 1 tháng.
-  - Mũi thứ ba sau ≥ 1 năm.
-- **Đã tiêm đủ 4 mũi trong vòng 10 năm**
-  - Không cần tiêm lại.
-  - Nếu mũi cuối cách > 10 năm, tiêm 2 mũi nhắc lại.
-- **Mang thai lần đầu, chưa đủ 3 mũi cơ bản**
-  - Mũi đầu sau 20 tuần.
-  - Mũi nhắc lại ≥ 30 ngày sau (hoặc trước sinh ≥ 30 ngày).
+- Mũi đầu tiên khi mang thai lần đầu.
+- Mũi nhắc lại sau ≥ 1 tháng.
+- Mũi tiếp theo sau ≥ 6 tháng (hoặc ở lần mang thai sau).
+- Mũi thứ tư sau ≥ 1 năm (hoặc ở lần mang thai sau).
+- Mũi thứ năm sau ≥ 1 năm (hoặc ở lần mang thai sau).
+
+**Đã tiêm 3 mũi cơ bản**:
+
+- Mũi đầu khi mang thai lần đầu.
+- Mũi nhắc lại sau ≥ 1 tháng.
+- Mũi thứ ba sau ≥ 1 năm.
+
+**Đã tiêm đủ 4 mũi trong vòng 10 năm**:
+
+- Không cần tiêm lại.
+- Nếu mũi cuối cách > 10 năm, tiêm 2 mũi nhắc lại.
+
+**Mang thai lần đầu, chưa đủ 3 mũi cơ bản**:
+
+- Mũi đầu sau 20 tuần.
+- Mũi nhắc lại ≥ 1 tháng sau (hoặc trước sinh ≥ 1 tháng).
 
 :::caution
 
