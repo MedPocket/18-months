@@ -74,7 +74,9 @@ Nhiễm thủy đậu có thể gây **hội chứng thủy đậu bẩm sinh** 
 - Diphenhydramine 25–50 mg mỗi 4–6 giờ (tối đa 300 mg/ngày).
 - Loratadine 10 mg/ngày.
 
-Chăm sóc da tắm nước mát, kem bôi làm dịu, giữ da sạch, dưỡng ẩm. Nghỉ ngơi, uống đủ nước, bổ sung dinh dưỡng (vitamin C, sắt, canxi, folate).
+**Chăm sóc da**: Tắm nước mát, kem bôi làm dịu, giữ da sạch, dưỡng ẩm.
+
+**Nghỉ ngơi và dinh dưỡng**: Uống đủ nước, bổ sung dinh dưỡng (vitamin C, sắt, canxi, folate).
 
 ### Thuốc kháng virus
 
