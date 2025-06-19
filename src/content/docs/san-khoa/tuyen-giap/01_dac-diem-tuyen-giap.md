@@ -5,7 +5,7 @@ description: Những thay đổi sinh lý tuyến giáp trong thai kỳ.
 
 Trong thai kỳ, chức năng tuyến giáp của mẹ bị thay đổi đáng kể do sự thay đổi nội tiết và chuyển hóa. Những thay đổi này có thể ảnh hưởng đến sức khỏe của cả mẹ và thai nhi nếu không được phát hiện và xử lý kịp thời.
 
-## Sinh lý tuyến giáp mẹ và thai
+## Sinh lý
 
 Sự tăng lọc cầu thận trong thai kỳ dẫn đến tăng thải iod qua nước tiểu, từ đó làm giảm nồng độ iod vô cơ trong huyết thanh. Đây là một yếu tố góp phần gây suy giáp nếu không được bổ sung iod đầy đủ.
 
@@ -22,7 +22,7 @@ _Bảng "Chức năng tuyến giáp ở phụ nữ, phụ nữ mang thai và má
 
 **Free T₄ (free thyroxine - FT₄)** là chỉ số đánh giá chức năng tuyến giáp chính xác nhất trong thai kỳ, do sự thay đổi nồng độ **TBG (Thyroxine Binding Globulin)** khiến tổng nồng độ T₃ và T₄ tăng suốt thai kỳ.
 
-Về chức năng tuyến giáp của thai:
+Về **chức năng tuyến giáp** của thai:
 
 - Trước tuần thứ 10: Không có iod hữu cơ trong tuyến giáp thai nhi.
 - Từ tuần 11–12: Tuyến giáp thai nhi bắt đầu sản xuất iodothyronine và T₄.

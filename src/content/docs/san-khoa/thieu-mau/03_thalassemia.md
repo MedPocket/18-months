@@ -3,14 +3,12 @@ title: Thalassemia trong thai kỳ
 description: Thalassemia – bệnh hemoglobin di truyền gây thiếu máu, bao gồm nguyên nhân, phân loại, biểu hiện lâm sàng, chẩn đoán tiền sản và quản lý thai kỳ.
 ---
 
-Thalassemia là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọc chuỗi globin trong phân tử hemoglobin. Đây là bệnh di truyền đơn gen, lặn trên nhiễm sắc thể thường theo quy luật Mendel. Ở Việt Nam hiện có khoảng 1700 trẻ sinh ra mỗi năm mắc Thalassemia. Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, tan huyết và gây thiếu máu mạn tính. Mức độ nặng hay nhẹ phụ thuộc vào loại và số lượng gen bị tổn thương.
+**Thalassemia** là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọc chuỗi globin trong phân tử hemoglobin. Đây là bệnh di truyền đơn gen, lặn trên nhiễm sắc thể thường theo quy luật Mendel. Ở Việt Nam hiện có khoảng 1700 trẻ sinh ra mỗi năm mắc Thalassemia. Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, tan huyết và gây thiếu máu mạn tính. Mức độ nặng hay nhẹ phụ thuộc vào loại và số lượng gen bị tổn thương.
 
 ## Bệnh sinh
 
-- **Chuỗi α-globin** do 4 gene trên NST 16 quy định; đột biến kiểu deletion gây α-thalassemia.
-- **Chuỗi β-globin** do 2 gene trên NST 11 quy định; đột biến điểm (mutation) gây β-thalassemia.
-- Phân tử chỉ có chuỗi α (Hb Bart’s) mất ổn định nhanh, không phóng thích O₂ → thai phù → thường tử vong trước hoặc ngay sau sinh.
-- Phân tử chỉ có chuỗi β (Hb H) tương đối ổn định hơn → thiếu máu nhẹ/trung bình.
+- **Chuỗi α-globin** do 4 gene trên NST 16 quy định; đột biến kiểu deletion gây α-thalassemia. **Phân tử chỉ có chuỗi α (Hb Bart’s)** mất ổn định nhanh, không phóng thích O₂ → thai phù → thường tử vong trước hoặc ngay sau sinh.
+- **Chuỗi β-globin** do 2 gene trên NST 11 quy định; đột biến điểm (mutation) gây β-thalassemia. **Phân tử chỉ có chuỗi β (Hb H)** tương đối ổn định hơn → thiếu máu nhẹ/trung bình.
 
 ## Phân loại
 
@@ -23,17 +21,9 @@ Thalassemia là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọ
 
 ### β-thalassemia
 
-- **Thể nặng (β⁰/β⁰ hoặc β⁰/β⁰ kép)**:
-  - Biểu hiện sớm ngay sau sinh hoặc vài tháng tuổi.
-  - Thiếu máu nặng, vàng da, gan lách to.
-  - Cần truyền máu định kỳ và thải sắt để duy trì sự sống.
-  - Huyết học: Hb < 70 g/L; MCV, MCH giảm; ferritin bình thường hoặc tăng; điện di Hb: ↑ HbF, ↑ HbA2.
-- **Thể trung gian (β⁺/β⁺ hoặc β⁺/β⁰)**:
-  - Thiếu máu nhẹ–vừa, biểu hiện muộn hơn thể nặng.
-  - Có thể cần truyền máu từng đợt, ít phụ thuộc hơn.
-- **Thể ẩn (dị hợp tử 1 đột biến)**:
-  - Thường không triệu chứng; chỉ phát hiện tình cờ khi xét nghiệm.
-  - Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3.5–7%); HbF 1–3% tùy loại đột biến.
+- **Thể nặng (β⁰/β⁰ hoặc β⁰/β⁰ kép)**: Biểu hiện sớm ngay sau sinh hoặc vài tháng tuổi. Thiếu máu nặng, vàng da, gan lách to. Cần truyền máu định kỳ và thải sắt để duy trì sự sống. Huyết học: Hb < 70 g/L; MCV, MCH giảm; ferritin bình thường hoặc tăng; điện di Hb: ↑ HbF, ↑ HbA2.
+- **Thể trung gian (β⁺/β⁺ hoặc β⁺/β⁰)**: Thiếu máu nhẹ–vừa, biểu hiện muộn hơn thể nặng. Có thể cần truyền máu từng đợt, ít phụ thuộc hơn.
+- **Thể ẩn (dị hợp tử 1 đột biến)**: Thường không triệu chứng; chỉ phát hiện tình cờ khi xét nghiệm. Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3.5–7%); HbF 1–3% tùy loại đột biến.
 
 ## Đặc điểm
 
@@ -47,24 +37,26 @@ Thalassemia là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọ
 
 ### Với thai
 
+_Thai phù trong hội chứng Hb Bart’s._
+![Thai phù trong hội chứng Bart](./_images/thai-phu-trong-hoi-chung-Bart.png)
+
 - Thể nặng có thể không sống sót sau sinh.
 - Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.<br>
-  _Thai phù trong hội chứng Hb Bart’s._
-  ![Thai phù trong hội chứng Bart](./_images/thai-phu-trong-hoi-chung-Bart.png)
 
 ## Tầm soát
 
 - Huyết đồ: Hb < 11 g/dL; MCV < 80 fL; MCH < 27 pg.
 - Định lượng ferritin: Bình thường hoặc tăng → chuyển sang điện di Hb.
 - Điện di Hb: Xác định tỉ lệ HbA2, HbF để phân loại.<br>
-  _Kết quả điện di Hb ở người trưởng thành._
-  ![Kết quả điện di Hb ở người trưởng thành](./_images/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
 - Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.
 - Chẩn đoán trên thai: Sinh thiết gai rau, chọc ối hoặc lấy máu cuống rốn nếu có nguy cơ cao.
 
+_Kết quả điện di Hb ở người trưởng thành._
+![Kết quả điện di Hb ở người trưởng thành](./_images/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
+
 ## Thai phụ mắc β-thalassemia
 
-- Đa chuyên khoa: Sản khoa, huyết học, gây mê, nữ hộ sinh.
+- Điều trị đa chuyên khoa: Sản khoa, huyết học, gây mê, nữ hộ sinh.
 - Duy trì Hb 10 g/dL bằng truyền máu định kỳ; kiểm soát ferritin < 1000 ng/mL.
 - Siêu âm tim, gan, tuyến giáp mỗi tam cá nguyệt.
 - Sàng lọc tiểu đường: Lần đầu 16 tuần, lặp lại 24–28 tuần.

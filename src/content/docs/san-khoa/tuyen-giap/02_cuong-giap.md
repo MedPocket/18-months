@@ -3,7 +3,7 @@ title: Cường giáp trong thai kỳ
 description: Ảnh hưởng của cường giáp đến mẹ và thai nhi, bao gồm cả chẩn đoán và hướng xử trí phù hợp.
 ---
 
-Cường giáp trong thai kỳ là tình trạng tuyến giáp hoạt động quá mức, tiết ra quá nhiều hormone giáp (T₃ – T₄), ảnh hưởng đến sức khỏe của mẹ và thai nhi nếu không được phát hiện và điều trị kịp thời. Cường giáp trong thai kỳ làm tăng nguy cơ:
+Cường giáp trong thai kỳ là tình trạng tuyến giáp hoạt động quá mức, tiết ra quá nhiều hormone giáp (T₃ – T₄), ảnh hưởng đến sức khỏe của mẹ và thai nhi nếu không được phát hiện và điều trị kịp thời. Cường giáp trong thai kỳ làm **tăng nguy cơ**:
 
 - Sinh non.
 - Thai chậm phát triển trong tử cung (IUGR).
@@ -32,18 +32,20 @@ Các triệu chứng lâm sàng định hướng chẩn đoán:
 
 ## Điều trị
 
-- Mục tiêu là duy trì **FT₄ ở giới hạn cao bình thường** bằng **liều thấp nhất của thuốc kháng giáp**.
-- **Iod phóng xạ bị chống chỉ định tuyệt đối trong thai kỳ**.
-- **Thioamides** là nhóm chính của thuốc kháng giáp, bao gồm:
-  - **Propylthiouracil (PTU)**: ưu tiên dùng trong tam cá nguyệt đầu tiên.
-  - **Methimazole (Tapazole)**: Có thể dùng sau tam cá nguyệt thứ nhất để giảm độc tính gan của PTU.
+**Mục tiêu** là duy trì **FT₄ ở giới hạn cao bình thường** bằng **liều thấp nhất của thuốc kháng giáp**.
+
+**Thioamides** là nhóm chính của thuốc kháng giáp, bao gồm:
+
+- **Propylthiouracil (PTU)**: ưu tiên dùng trong tam cá nguyệt đầu tiên.
+- **Methimazole (Tapazole)**: Có thể dùng sau tam cá nguyệt thứ nhất để giảm độc tính gan của PTU.
 
 :::caution
 
 1. PTU và methimazole có thể qua bánh rau → có thể gây **bướu giáp hoặc nhược giáp thai nhi**. Khoảng 1–5% trẻ phơi nhiễm với PTU trong tử cung có bướu giáp.
 2. PTU có thể ức chế chuyển T₄ thành T₃ ngoại vi, trong khi methimazole có thể gây **dị tật bẩm sinh**, đặc biệt là dị tật đường tiêu hóa nếu dùng trong tam cá nguyệt đầu.
 3. PTU bài tiết rất ít qua sữa mẹ → có thể dùng cho mẹ cho con bú.
-4. Phẫu thuật tuyến giáp (cắt thùy) chỉ xem xét trong **tam cá nguyệt thứ hai** nếu điều trị nội khoa thất bại hoặc có biến chứng.
+4. **Iod phóng xạ bị chống chỉ định tuyệt đối trong thai kỳ**.
+5. Phẫu thuật tuyến giáp (cắt thùy) chỉ xem xét trong **tam cá nguyệt thứ hai** nếu điều trị nội khoa thất bại hoặc có biến chứng.
 
 :::
 
