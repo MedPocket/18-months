@@ -15,7 +15,7 @@ _Hình ảnh "Tuần hoàn bào thai (trái) với shunt qua lỗ Botal & ống 
 
 ## Đánh giá ban đầu (APGAR)
 
-Thực hiện tại **1, 5** và khi cần **10 phút** sau sinh theo 5 tiêu chí: Nhịp tim, hô hấp, trương lực cơ, phản xạ (co kéo khi kích thích), màu da.
+Thực hiện tại **1, 5** và khi cần **10 phút** sau sinh theo 5 tiêu chí:
 
 _Bảng "Điểm APGAR"._
 | Dấu hiệu đánh giá | 0 điểm | 1 điểm | 2 điểm |
@@ -32,8 +32,7 @@ _Bảng "Điểm APGAR"._
 
 ## Chỉ định
 
-Khoảng 10% trẻ sơ sinh cần hỗ trợ, chỉ 1% cần hồi sức tích cực (thông khí/ấn ngực/thuốc).  
-**Dấu hiệu nguy cơ**:
+Khoảng 10% trẻ sơ sinh cần hỗ trợ, chỉ 1% cần hồi sức tích cực (thông khí/ấn ngực/thuốc). Khi có **dấu hiệu nguy cơ**:
 
 - Không tự thở hoặc khóc.
 - Nhịp tim < 100 lần/phút.
@@ -45,22 +44,10 @@ Khoảng 10% trẻ sơ sinh cần hỗ trợ, chỉ 1% cần hồi sức tích c
 _Hình ảnh "Lưu đồ hồi sức sơ sinh"._
 ![Lưu đồ hồi sức sơ sinh](./_images/hoi-suc-so-sinh/luu-do-hoi-suc-so-sinh.jpeg)
 
-1. **Giảm thất thoát nhiệt**
-   - Lau khô, đặt dưới đèn sưởi.
-   - Hút dịch mũi-họng nếu cần.
-2. **Đánh giá hô hấp & hỗ trợ**
-   - Chờ **30 giây** đầu để trẻ hít thở tự nhiên.
-   - Nếu không thở hoặc thở yếu: **Thông khí áp lực dương** (PPV) qua mặt nạ, 40–60 lần/phút, FiO₂ 21–100%.
-   - Áp lực phục hồi phế nang 30–40 cmH₂O, có van an toàn.
-3. **Đánh giá nhịp tim** sau 30 giây PPV:
-   - Nhịp tim ≥ 100: Tiếp tục theo dõi, ngừng PPV.
-   - Nhịp tim 60–99: Tiếp tục PPV.
-   - Nhịp tim < 60: Bắt đầu **ấn ngực**, 3:1 (PPV:ấn chèn), 120 lần/phút, đồng thời xem xét **adrenaline**.
-   - Hầu hết trẻ phục hồi nhịp tim nhanh sau thông khí hiệu quả.
-   - Nếu vẫn < 60 sau 30 giây ấn ngực: Đặt nội khí quản, cho thuốc.
-4. **Chuyển giai đoạn theo đáp ứng**
-   - Tim ≥ 100, tự hô hấp → chuyển về chăm sóc thông thường.
-   - Tiếp tục các bước khi tim < 100.
+1. **Giảm thất thoát nhiệt**: Lau khô, đặt dưới đèn sưởi. Hút dịch mũi-họng nếu cần.
+2. **Đánh giá hô hấp & hỗ trợ**: Chờ 30 giây đầu để trẻ hít thở tự nhiên. Nếu không thở hoặc thở yếu **thông khí áp lực dương** (PPV) qua mặt nạ, 40–60 lần/phút, FiO₂ 21–100%. Áp lực phục hồi phế nang 30–40 cmH₂O, có van an toàn.
+3. **Đánh giá nhịp tim** sau 30 giây PPV: Nhịp tim ≥ 100 ck/p tiếp tục theo dõi, ngừng PPV. Nhịp tim 60–99 ck/p tiếp tục PPV. Nhịp tim < 60 ck/p bắt đầu **ấn ngực**, 3:1 (PPV:ấn chèn), 120 lần/phút, đồng thời xem xét **adrenaline**. Hầu hết trẻ phục hồi nhịp tim nhanh sau thông khí hiệu quả. Nếu vẫn < 60 ck/p sau 30 giây ấn ngực, đặt nội khí quản, cho thuốc.
+4. **Chuyển giai đoạn theo đáp ứng**: Tim ≥ 100 ck/p, tự hô hấp → chuyển về chăm sóc thông thường. Tiếp tục các bước khi tim < 100 ck/p.
 
 ## Theo dõi
 
@@ -71,21 +58,25 @@ _Hình ảnh "3 mức độ chăm sóc sau hồi sức"._
 - **Chăm sóc cấp cứu**: Theo dõi sát 24–48 giờ, kiểm soát đường huyết, thân nhiệt, điện giải.
 - **Chăm sóc thường quy**: ổn định hô hấp, dinh dưỡng, cho bú sớm.
 
-**Cảnh báo**:
+:::caution
+
+Cần lưu ý nguy cơ:
 
 - Giảm đường huyết, hạ thân nhiệt.
 - Phù não, co giật do hạ Ca²⁺.
 - Nhiễm trùng bội nhiễm.
 
+:::
+
 ## Thoát vị hoành
 
-**Đặc điểm**:
+Là trường hợp đặc biệt với **đặc điểm**:
 
 - Trẻ khỏe bỗng ngừng thở, tím tái, nhịp tim giảm.
 - Khám thấy lồng ngực phồng, bụng xẹp.
 - Tim nghe rõ lệch phải.
 
-**Xử trí**:
+**Xử trí ngay**:
 
 - **Không** thông khí mặt nạ.
 - Đặt nội khí quản, kèm sonde dạ dày.
