@@ -104,9 +104,9 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Các vấn đề sau sinh",
+        label: "Hậu sản",
         autogenerate: {
-          directory: "san-khoa/sau-sinh",
+          directory: "san-khoa/hau-san",
         },
         collapsed: true,
       },
