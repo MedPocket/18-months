@@ -63,7 +63,7 @@ _Kết quả điện di Hb ở người trưởng thành._
 - Siêu âm đánh giá tăng trưởng thai: 24–26 tuần rồi mỗi 4 tuần.
 - Acid folic 5 mg/ngày để phòng thiếu máu hồng cầu to.
 - Tránh uống thêm sắt; nếu cần thải sắt sử dụng DFO (cân nhắc nguy cơ teratogen).
-- Chuyển dạ: ưu tiên sinh thường có gây tê ngoài màng cứng; tránh mê nội khí quản nếu có bất thường hàm mặt.
+- Chuyển dạ: Ưu tiên sinh thường có gây tê ngoài màng cứng; tránh mê nội khí quản nếu có bất thường hàm mặt.
 - Tránh IUD và thuốc ngừa phối hợp; ưu tiên progesterone đơn thuần hoặc bao cao su.
 
 ## Dự phòng

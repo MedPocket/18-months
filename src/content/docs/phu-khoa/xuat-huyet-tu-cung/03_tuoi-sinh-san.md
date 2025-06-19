@@ -145,7 +145,7 @@ _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của
    - Duy trì nội tiết tố cân bằng để nội mạc phát triển–phân tiết đều đặn, tránh bong tróc không đều.
 4. **Các yếu tố cần cân nhắc**
    - **Tuổi bệnh nhân**:
-     - < 35 tuổi: ưu tiên điều trị bảo tồn, mong muốn có thai.
+     - < 35 tuổi: Ưu tiên điều trị bảo tồn, mong muốn có thai.
      - 35–45 tuổi: Cân nhắc nguy cơ tăng sinh nội mạc, ung thư nội mạc.
      - \> 45 tuổi: Thăm khám, loại trừ tăng sinh/nội mạc, ung thư, cân nhắc điều trị triệt để (nạo, cắt tử cung).
    - **Mong muốn sinh con**:

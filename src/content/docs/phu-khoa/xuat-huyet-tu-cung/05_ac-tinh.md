@@ -135,7 +135,7 @@ Cho phép quan sát trực tiếp buồng tử cung và sinh thiết tổn thư�
   4. Theo dõi điều trị qua sinh thiết định kỳ (3–6 tháng).
 - **Ung thư nội mạc tử cung**, điều trị chính là phẫu thuật, bắt buộc xác định giai đoạn. Có thể bổ sung xạ trị hoặc hóa trị tùy giai đoạn.
 - **Tăng sinh nội mạc tử cung**, dựa vào có/không tế bào không điển hình và mong muốn bảo tồn sinh sản:
-  - Tăng sinh điển hình: ưu tiên điều trị progestin, tránh phẫu thuật nếu có thể.
+  - Tăng sinh điển hình: Ưu tiên điều trị progestin, tránh phẫu thuật nếu có thể.
   - Tăng sinh không điển hình: Progestin là chính, cân nhắc phẫu thuật nếu thất bại hoặc không bảo tồn được.
 
 ### Nội khoa

@@ -14,7 +14,7 @@ _Hình ảnh "N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thư
 
 **Thời gian ủ bệnh**
 
-- Nam giới: ước tính 3–5 ngày (có thể sớm 2 ngày hoặc kéo dài đến 7 ngày).
+- Nam giới: Ước tính 3–5 ngày (có thể sớm 2 ngày hoặc kéo dài đến 7 ngày).
 - Nữ giới: Thường 5–7 ngày, đôi khi kéo dài đến 14 ngày.
 
 Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng vẫn có khả năng lây truyền.

@@ -36,7 +36,7 @@ Các triệu chứng lâm sàng định hướng chẩn đoán:
 
 **Thioamides** là nhóm chính của thuốc kháng giáp, bao gồm:
 
-- **Propylthiouracil (PTU)**: ưu tiên dùng trong tam cá nguyệt đầu tiên.
+- **Propylthiouracil (PTU)**: Ưu tiên dùng trong tam cá nguyệt đầu tiên.
 - **Methimazole (Tapazole)**: Có thể dùng sau tam cá nguyệt thứ nhất để giảm độc tính gan của PTU.
 
 :::caution
