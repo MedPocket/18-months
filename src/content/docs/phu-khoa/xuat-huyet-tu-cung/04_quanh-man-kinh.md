@@ -207,11 +207,9 @@ Phương pháp: Mổ mở, mổ nội soi hoặc mổ robotic tùy tình trạng
 
 ### Theo dõi sau điều trị
 
-Sau điều trị, kiểm tra độ dày nội mạc 6–12 tháng/lần nếu còn dùng progestogen/chưa phẫu thuật.
-
-Ngưng hẳn liệu pháp nội tiết khi chuyển sang giai đoạn mãn kinh hoàn toàn (> 12 tháng vô kinh) và nội mạc mỏng (< 4 mm).
-
-Tiếp tục tầm soát ung thư cổ tử cung theo hướng dẫn chuẩn (Pap smear/HPV test).
+- Sau điều trị, kiểm tra độ dày nội mạc 6–12 tháng/lần nếu còn dùng progestogen/chưa phẫu thuật.
+- Ngưng hẳn liệu pháp nội tiết khi chuyển sang giai đoạn mãn kinh hoàn toàn (> 12 tháng vô kinh) và nội mạc mỏng (< 4 mm).
+- Tiếp tục tầm soát ung thư cổ tử cung theo hướng dẫn chuẩn (Pap smear/HPV test).
 
 ## Tài liệu tham khảo
 
