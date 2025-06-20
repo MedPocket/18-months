@@ -3,7 +3,7 @@ title: Pap's test và soi cổ tử cung
 description: Đánh giá Pap's test và soi cổ tử cung.
 ---
 
-Pap's test và soi cổ tử cung là hai phương pháp sàng lọc bất thường cổ tử cung.
+**Pap's test** và **soi cổ tử cung** là hai phương pháp sàng lọc bất thường cổ tử cung.
 
 ## Pap's test
 
@@ -22,38 +22,34 @@ _Bảng "So sánh 2 kỹ thuật thực hiện Pap's test"._
 | **Chất lượng lame** | Khó đọc do đảm độ tế bào không đều. Buộc phải đọc hoàn toàn thủ công | Tế bào dàn trải đều. Có thể đọc sơ cấp bằng máy |
 | **Sensitivity (%)** | 68 | 76 |
 | **Specificity (%)** | 79 | 89 |
-| **Khảo sát vi sinh bổ túc** | Ngẫu nhiên: _Candida_ sp. _Trichomonas vaginalis_ | Có thể thực hiện được các khảo sát vi sinh bổ sung khi có yêu cầu |
+| **Khảo sát vi sinh bổ túc** | Ngẫu nhiên: _Candida sp._ _Trichomonas vaginalis_ | Có thể thực hiện được các khảo sát vi sinh bổ sung khi có yêu cầu |
 
 ### Điều kiện thực hiện
 
 Để đảm bảo chất lượng mẫu, Pap’s test phải thực hiện khi:
 
-1. Không đang ra huyết âm đạo.
-2. Không có viêm âm đạo-cổ tử cung cấp tính.
-3. Không đặt thuốc ở âm đạo trong vòng 3 ngày gần đây.
-4. Không giao hợp, không thụt rửa âm đạo trong vòng 48 giờ trước.
-5. Không khám âm đạo bằng tay hoặc dùng dầu bôi trơn trước đó.
+- Không đang ra huyết âm đạo.
+- Không có viêm âm đạo-cổ tử cung cấp tính.
+- Không đặt thuốc ở âm đạo trong vòng 3 ngày gần đây.
+- Không giao hợp, không thụt rửa âm đạo trong vòng 48 giờ trước.
+- Không khám âm đạo bằng tay hoặc dùng dầu bôi trơn trước đó.
 
 Phụ nữ mãn kinh nên dùng estrogen tại chỗ vài ngày trước khi lấy mẫu.
 
 ### Quy trình
 
-Trước khi lấy mẫu, cần điền thông tin trên phiếu xét nghiệm:
+**Pap’s test quy ước**: Lấy hai lam phết tế bào từ cổ ngoài và cổ trong. Ghi bằng bút chì tên, tuổi và vị trí lấy trên lam. Mẫu cố định bằng cồn 95° hoặc keo phun.
 
-1. Họ và tên, tuổi, PARA.
-2. Ngày kinh chót / có thai / mãn kinh.
-3. Lý do làm Pap’s test: Tầm soát / theo dõi CIN.
-4. Phương pháp ngừa thai: Thuốc / vòng.
-5. Kết quả tầm soát lần trước.
+**Pap’s test Thin Prep**: Lấy mẫu tương tự nhưng cho vào lọ chứa dung dịch nhúng dịch.
 
-- **Pap’s test quy ước**: Lấy hai lam phết tế bào từ cổ ngoài và cổ trong. Ghi bằng bút chì tên, tuổi và vị trí lấy trên lam. Mẫu cố định bằng cồn 95° hoặc keo phun.
-- **Pap’s test Thin Prep**: Lấy mẫu tương tự nhưng cho vào lọ chứa dung dịch nhúng dịch.<br>
-  _Hình ảnh "Dụng cụ làm Pap’s test (từ trái sang):<br> 1. Cytobrush cho kênh cổ tử cung.<br> 2. Que Ayre cho Pap’s test quy ước.<br> 3. Chổi lớn cho Thin Prep"._
-  ![Dụng cụ làm Pap's test](./_images/pap-test-va-soi-co-tu-cung/dung-cu-lam-pap.png)
-  _Hình ảnh "Cách lấy mẫu (từ trái sang):<br> 1. Cytobrush: Lấy ở kênh tử cung, áp vào SCJ, không đưa quá sâu.<br> 2. Que Ayre: Lấy hai lần, đầu to và đầu nhọn, áp vào vùng chuyển sản để lấy SCJ.<br> 3. Chổi lớn: Áp vào SCJ và vùng chuyển sản"._
-  ![Cách lấy mẫu](./_images/pap-test-va-soi-co-tu-cung/cach-lay-mau-pap.png)
-  _Hình ảnh "Cách trải lam:<br> 1. Chổi lớn: Kéo để trải.<br> 2. Cytobrush: Lăn tròn để trải.<br> 3. Que Ayre: Kéo để trải"._
-  ![Cách trải lame](./_images/pap-test-va-soi-co-tu-cung/cach-trai-lame.png)
+_Hình ảnh "Dụng cụ làm Pap’s test (từ trái sang):<br> 1. Cytobrush cho kênh cổ tử cung.<br> 2. Que Ayre cho Pap’s test quy ước.<br> 3. Chổi lớn cho Thin Prep"._
+![Dụng cụ làm Pap's test](./_images/pap-test-va-soi-co-tu-cung/dung-cu-lam-pap.png)
+
+_Hình ảnh "Cách lấy mẫu (từ trái sang):<br> 1. Cytobrush: Lấy ở kênh tử cung, áp vào SCJ, không đưa quá sâu.<br> 2. Que Ayre: Lấy hai lần, đầu to và đầu nhọn, áp vào vùng chuyển sản để lấy SCJ.<br> 3. Chổi lớn: Áp vào SCJ và vùng chuyển sản"._
+![Cách lấy mẫu](./_images/pap-test-va-soi-co-tu-cung/cach-lay-mau-pap.png)
+
+_Hình ảnh "Cách trải lam:<br> 1. Chổi lớn: Kéo để trải.<br> 2. Cytobrush: Lăn tròn để trải.<br> 3. Que Ayre: Kéo để trải"._
+![Cách trải lame](./_images/pap-test-va-soi-co-tu-cung/cach-trai-lame.png)
 
 ### HPV testing
 
@@ -69,9 +65,11 @@ Theo Bethesda 2014, kết quả phân thành ba nhóm chính:
 
 #### Âm tính với tổn thương trong biểu mô
 
-- Các biểu hiện không tân sinh (Non-neoplastic findings): Chuyển sản gai, thay đổi sừng, thay đổi thai kỳ, teo...
-- Các thay đổi tế bào do phản ứng (Reactive cellular changes): Viêm, tổn thương do tia xạ, sau cắt tử cung...
-- Thay đổi do vi sinh vật: _Trichomonas vaginalis_, _Candida_ sp., _Gardnerella_, _Chlamydia trachomatis_, HSV, HPV...
+Các biểu hiện không tân sinh (Non-neoplastic findings): Chuyển sản gai, thay đổi sừng, thay đổi thai kỳ, teo...
+
+Các thay đổi tế bào do phản ứng (Reactive cellular changes): Viêm, tổn thương do tia xạ, sau cắt tử cung...
+
+Thay đổi do vi sinh vật: Trichomonas vaginalis, Candida sp., Gardnerella, Chlamydia trachomatis, HSV, HPV...
 
 #### Khác
 
@@ -79,28 +77,26 @@ Theo Bethesda 2014, kết quả phân thành ba nhóm chính:
 
 #### Bất thường tế bào biểu mô
 
-- **Tế bào gai (Squamous cell)**
-  - Tế bào gai không điển hình (Atypical squamous cells - ASC).
-    - ASC-US: Không xác định được tổn thương mức cao.
-    - ASC-H: Không thể loại trừ tổn thương trong biểu mô vảy mức độ cao.
-  - LSIL (Low-grade squamous intraepithelial lesions): Dị sản nhẹ/CIN 1/HPV.
-  - HSIL (High-grade squamous intraepithelial lesions): Dị sản vừa/nặng, CIN 2/3, carcinoma in situ.
-  - Với tính chất nghi ngờ xâm lấn: Có đặc trưng nghi ngờ xâm lấn.
-  - Ung thư tế bào gai (Squamous cell carcinoma).
-- **Tế bào tuyến (Glandular cell)**
-  - Atypical:
-    - Endocervical cells, no otherwise specified (N/O).
-    - Endometrial cells, N/O.
-    - Glandular cells, N/O.
-  - Atypical favor neoplastic:
-    - Endocervical cells, favor neoplastic.
-    - Glandular cells, favor neoplastic.
-  - Endocervical adenocarcinoma in situ.
-  - Adenocarcinoma (có thể ở kênh cổ tử cung, nội mạc tử cung, ngoài tử cung hoặc N/O).
-- **Các tổn thương tiền xâm lấn của ung thư cổ tử cung**
-  - ASC (ASC-US, ASC-H).
-  - LSIL (CIN 1, koilocytotic atypia).
-  - HSIL (CIN 2, CIN 3, carcinoma in situ).
+**Tế bào gai (Squamous cell)**:
+
+- Tế bào gai không điển hình (Atypical squamous cells - ASC). ASC-US: Không xác định được tổn thương mức cao; ASC-H: Không thể loại trừ tổn thương trong biểu mô vảy mức độ cao.
+- LSIL (Low-grade squamous intraepithelial lesions): Dị sản nhẹ/CIN 1/HPV.
+- HSIL (High-grade squamous intraepithelial lesions): Dị sản vừa/nặng, CIN 2/3, carcinoma in situ.
+- Với tính chất nghi ngờ xâm lấn: Có đặc trưng nghi ngờ xâm lấn.
+- Ung thư tế bào gai (Squamous cell carcinoma).
+
+**Tế bào tuyến (Glandular cell)**:
+
+- Atypical: Endocervical cells, no otherwise specified (N/O); Endometrial cells, N/O; Glandular cells, N/O.
+- Atypical favor neoplastic: Endocervical cells, favor neoplastic; Glandular cells, favor neoplastic.
+- Endocervical adenocarcinoma in situ.
+- Adenocarcinoma (có thể ở kênh cổ tử cung, nội mạc tử cung, ngoài tử cung hoặc N/O).
+
+**Các tổn thương tiền xâm lấn của ung thư cổ tử cung**:
+
+- ASC (ASC-US, ASC-H).
+- LSIL (CIN 1, koilocytotic atypia).
+- HSIL (CIN 2, CIN 3, carcinoma in situ).
 
 ### Quản lý
 
@@ -119,11 +115,13 @@ Soi cổ tử cung là kỹ thuật quan sát cổ tử cung qua kính lúp (má
 
 ### Điều kiện thực hiện
 
-- Thực hiện sau khi có kết quả Pap’s test, vào ngày N8–N12 của chu kỳ kinh, tốt nhất sau sạch kinh 3 ngày.
-- Dụng cụ:
-  - Dung dịch NaCl 0.9%, Acid Acetic 3%, Lugol 1%.
-  - Mỏ vịt, bông gòn, kẹp hình tim.
-  - Kềm bấm sinh thiết, muỗng nạo kênh, lọ chứa formaldehyde 4%.
+Thực hiện sau khi có kết quả Pap’s test, vào ngày N8–N12 của chu kỳ kinh, tốt nhất sau sạch kinh 3 ngày.
+
+Dụng cụ:
+
+- Dung dịch NaCl 0.9%, Acid Acetic 3%, Lugol 1%.
+- Mỏ vịt, bông gòn, kẹp hình tim.
+- Kềm bấm sinh thiết, muỗng nạo kênh, lọ chứa formaldehyde 4%.
 
 ### Quy trình
 
@@ -133,30 +131,31 @@ Tiến trình soi gồm ba bước:
 2. Soi cổ tử cung sau bôi acid acetic 5%.
 3. Soi cổ tử cung sau bôi Lugol 1%.
 
-#### Soi cổ tử cung không chuẩn bị
+**Soi cổ tử cung không chuẩn bị**:
 
 - Dưới ánh sáng trắng: Quan sát bạch sản (leukoplasia), nang Naboth (NF).
 - Dưới ánh sáng xanh: Quan sát mạch máu bất thường.
 
-#### Soi cổ tử cung bằng acid acetic
+**Soi cổ tử cung bằng acid acetic**:
 
 - Bôi acid acetic 5%, chờ 5 phút.
 - Quan sát: Ranh giới lát trụ (J), vùng chuyển tiếp (TZ), biểu mô tuyến, cửa tuyến (OG), các hình ảnh bất thường: Acetowhite (AW), Mosaic (M), Punctuation (P).
 
-#### Soi cổ tử cung bằng Lugol
+**Soi cổ tử cung bằng Lugol**:
 
 - Bôi Lugol 1%.
 - Lugol (+): Toàn bộ biểu mô lát bắt màu vàng sậm.
 - Lugol (–): Biểu mô lát hoặc vùng chuyển sản không bắt màu.
 
-#### Đọc kết quả
+**Đọc kết quả**:
 
 - Mô tả chi tiết quá trình soi, hình ảnh theo từng bước và lập sơ đồ tổn thương (cervicography).
 - Nếu cần sinh thiết, ghi rõ số mẫu, vị trí và kết quả mô học.
 
 ### Phân loại
 
-Theo ASCCP:
+Phân loại dựa theo ASCCP.
+
 _Hình ảnh "Cổ tử cung bình thường qua soi"._
 ![Hình ảnh cổ tử cung bình thường qua soi cổ](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-binh-thuong.png)
 
@@ -169,25 +168,32 @@ _Hình ảnh "Cổ tử cung chuyển sản với cửa tuyến, đảo tuyến"
 _Hình ảnh "Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non"._
 ![Hình ảnh cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-tai-tao-voi-luoi-bieu-mo-chuyen-san-non.png)
 
-- **Nhóm hình ảnh bình thường**:
-  - Biểu mô lát nguyên thủy (Original Squamous Epithelium - OSE).
-  - Biểu mô trụ.
-  - Vùng chuyển tiếp.
-- **Nhóm hình ảnh bất thường** (trong hoặc ngoài TZ):
-  - Acetowhite (AW).
-  - Punctuation (P).
-  - Mosaic (M).
-  - Leukoplasia (L).
-  - Vùng không bắt màu Iodine.
-  - Mạch máu bất thường.
-- **Nghi ngờ ung thư xâm lấn**.
-- **Nhóm hình ảnh không đầy đủ**: Không thấy vùng chuyển tiếp, nhiễm trùng nặng, teo sau mãn kinh, hẹp âm đạo.
-- **Nhóm dấu hiệu khác**:
-  - Viêm cổ tử cung-âm đạo.
-  - Loét cổ tử cung.
-  - Teo biểu mô.
-  - Condyloma và papilloma.
-  - Polyp kênh cổ tử cung, u nhú, nang Naboth...
+**Nhóm hình ảnh bình thường**:
+
+- Biểu mô lát nguyên thủy (Original Squamous Epithelium - OSE).
+- Biểu mô trụ.
+- Vùng chuyển tiếp.
+
+**Nhóm hình ảnh bất thường** (trong hoặc ngoài TZ):
+
+- Acetowhite (AW).
+- Punctuation (P).
+- Mosaic (M).
+- Leukoplasia (L).
+- Vùng không bắt màu Iodine.
+- Mạch máu bất thường.
+
+**Nghi ngờ ung thư xâm lấn**.
+
+**Nhóm hình ảnh không đầy đủ**: Không thấy vùng chuyển tiếp, nhiễm trùng nặng, teo sau mãn kinh, hẹp âm đạo.
+
+**Nhóm dấu hiệu khác**:
+
+- Viêm cổ tử cung-âm đạo.
+- Loét cổ tử cung.
+- Teo biểu mô.
+- Condyloma và papilloma.
+- Polyp kênh cổ tử cung, u nhú, nang Naboth...
 
 ## Tài liệu tham khảo
 
