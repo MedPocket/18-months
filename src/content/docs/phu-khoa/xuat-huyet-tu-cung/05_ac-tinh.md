@@ -118,7 +118,7 @@ Khảo sát nội mạc tử cung khi nghi ngờ nguyên nhân ác tính hoặc 
 Nhiều loại tăng sinh có thể cùng tồn tại với ung thư nội mạc. Trước khi điều trị bảo tồn, phải đảm bảo không bỏ sót tổn thương (sinh thiết kỹ, kết hợp nội soi khi cần). Điều trị càng sớm (đặc biệt tăng sinh không điển hình) càng có cơ hội thoái triển.
 :::
 
-Chọn progestin với hoạt tính kháng estrogen mạnh. Tác dụng chính của progestin là kháng estrogen, ức chế phân bào nội mạc:
+**Chọn progestin với hoạt tính kháng estrogen mạnh**. Tác dụng chính của progestin là kháng estrogen, ức chế phân bào nội mạc:
 
 - Kích hoạt thụ thể progesterone → thoái triển tăng sinh.
 - Giảm biểu hiện thụ thể estrogen, tăng chuyển hóa estradiol thành estrone (yếu hơn).
