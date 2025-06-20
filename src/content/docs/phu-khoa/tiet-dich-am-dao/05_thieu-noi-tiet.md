@@ -17,7 +17,7 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
    - Mạch máu niêm mạc giảm, dễ khô rát, tăng ma sát khi giao hợp.
 3. **Dễ nhiễm khuẩn hoặc nhiễm nấm phụ trợ**
    - Niêm mạc mỏng, kém đàn hồi, dễ bị tổn thương khi giao hợp hoặc thăm khám → xuất huyết, viêm.
-   - Điều kiện pH kiềm hơn làm vi khuẩn yếm khí, vi khuẩn không điển hình (Escherichia coli, Gardnerella, Staphylococcus...) hoặc nấm men (Candida sp.) dễ phát triển.
+   - Điều kiện pH kiềm hơn làm vi khuẩn yếm khí, vi khuẩn không điển hình (Escherichia coli, _Gardnerella_, Staphylococcus...) hoặc nấm men (_Candida_ sp.) dễ phát triển.
 
 ## Chẩn đoán
 
@@ -40,12 +40,12 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
 
 - **Soi dịch âm đạo**: Thấy tỷ lệ tế bào biểu mô bề mặt giảm, tế bào trung gian (parabasal cells) tăng lên. Tỷ lệ tế bào trung gian > 15% gợi ý teo niêm mạc do thiếu estrogen.
 - **pH âm đạo**: Thường > 5, do giảm Lactobacilli sinh acid lactic.
-- **Khám niêm mạc**: Dấu vết xuất huyết dễ chảy máu khi thăm khám, không có nhiều vi khuẩn đặc hiệu (khác với loạn khuẩn hay trichomonas).
+- **Khám niêm mạc**: Dấu vết xuất huyết dễ chảy máu khi thăm khám, không có nhiều vi khuẩn đặc hiệu (khác với loạn khuẩn hay _Trichomonas_).
 - **Không có tế bào nấm hoặc vi khuẩn đặc hiệu**: Nếu thấy nhiều bạch cầu hoặc vi khuẩn yếm khí vượt trội, cần loại trừ nhiễm khuẩn đồng thời.
 
 ### Chẩn đoán phân biệt
 
-Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, Trichomonas) vì phương pháp điều trị khác nhau.
+Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, _Trichomonas_) vì phương pháp điều trị khác nhau.
 
 ## Điều trị
 

@@ -22,7 +22,7 @@ _Bảng "So sánh 2 kỹ thuật thực hiện Pap's test"._
 | **Chất lượng lame** | Khó đọc do đảm độ tế bào không đều. Buộc phải đọc hoàn toàn thủ công | Tế bào dàn trải đều. Có thể đọc sơ cấp bằng máy |
 | **Sensitivity (%)** | 68 | 76 |
 | **Specificity (%)** | 79 | 89 |
-| **Khảo sát vi sinh bổ túc** | Ngẫu nhiên: Candida sp. Trichomonas vaginalis | Có thể thực hiện được các khảo sát vi sinh bổ sung khi có yêu cầu |
+| **Khảo sát vi sinh bổ túc** | Ngẫu nhiên: _Candida_ sp. _Trichomonas vaginalis_ | Có thể thực hiện được các khảo sát vi sinh bổ sung khi có yêu cầu |
 
 ### Điều kiện thực hiện
 
@@ -71,7 +71,7 @@ Theo Bethesda 2014, kết quả phân thành ba nhóm chính:
 
 - Các biểu hiện không tân sinh (Non-neoplastic findings): Chuyển sản gai, thay đổi sừng, thay đổi thai kỳ, teo...
 - Các thay đổi tế bào do phản ứng (Reactive cellular changes): Viêm, tổn thương do tia xạ, sau cắt tử cung...
-- Thay đổi do vi sinh vật: Trichomonas vaginalis, Candida sp., Gardnerella, Chlamydia trachomatis, HSV, HPV...
+- Thay đổi do vi sinh vật: _Trichomonas vaginalis_, _Candida_ sp., _Gardnerella_, _Chlamydia trachomatis_, HSV, HPV...
 
 #### Khác
 

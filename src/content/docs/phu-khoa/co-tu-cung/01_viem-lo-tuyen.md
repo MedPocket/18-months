@@ -69,7 +69,7 @@ _Hình ảnh "Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát 
   - Thường gặp ở phụ nữ tuổi sinh sản, mang thai, hoặc dùng estrogen ngoại sinh (thuốc tránh thai).
   - Thường không có triệu chứng, chỉ phát hiện khi soi cổ tử cung thấy vùng đỏ rạng rỡ.
 - **Bệnh lý (viêm lộ tuyến)**:
-  - Khi lộ tuyến tiếp xúc lâu với môi trường âm đạo, vi khuẩn (E. coli, Gardnerella vaginalis), nấm (Candida spp.), trùng roi (Trichomonas vaginalis) dễ xâm nhập.
+  - Khi lộ tuyến tiếp xúc lâu với môi trường âm đạo, vi khuẩn (E. coli, _Gardnerella vaginalis_), nấm (_Candida spp._), trùng roi (_Trichomonas vaginalis_) dễ xâm nhập.
   - Triệu chứng:
     - **Khí hư**: Nhiều, màu vàng/ xanh, mùi hôi.
     - **Ngứa hoặc rát vùng âm hộ, âm đạo**.
@@ -92,8 +92,8 @@ Lộ tuyến bản thân là tiến trình sinh lý, thường không cần can 
 ### Nội khoa
 
 - **Kháng sinh/ kháng nấm/ kháng ký sinh** tùy tác nhân:
-  - Ví dụ: Metronidazole hoặc Clindamycin đặt âm đạo (Trichomonas, viêm khí hư do vi khuẩn).
-  - Fluconazole đường uống hoặc đặt âm đạo (Candida).
+  - Ví dụ: Metronidazole hoặc Clindamycin đặt âm đạo (_Trichomonas_, viêm khí hư do vi khuẩn).
+  - Fluconazole đường uống hoặc đặt âm đạo (_Candida_).
 - **Thuốc chống viêm tại chỗ**: Gel hoặc đặt âm đạo chứa corticosteroid nhẹ hoặc các chế phẩm có thành phần kháng viêm, làm lành biểu mô.
 - **Điều chỉnh nội tiết**:
   - Ngưng hoặc thay đổi loại thuốc tránh thai nếu nghi ngờ estrogen ngoại sinh là nguyên nhân làm nặng lộ tuyến.

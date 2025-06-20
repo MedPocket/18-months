@@ -3,50 +3,49 @@ title: Viêm âm đạo nhiễm khuẩn
 description: Viêm âm đạo nhiễm khuẩn (hay loạn khuẩn âm đạo) là tình trạng rối loạn cân bằng hệ vi sinh vật tại âm đạo, dẫn đến giảm Lactobacilli bảo vệ và gia tăng hệ vi khuẩn yếm khí. Bệnh thường gây tiết dịch nhiều, có mùi hôi "cá thối" và có thể liên quan đến nhiều biến chứng sản phụ khoa nếu không được điều trị kịp thời.
 ---
 
-Nhiễm khuẩn âm đạo (loạn khuẩn âm đạo) là hội chứng do rối loạn cân bằng vi sinh vật ở âm đạo: Giảm sút tỉ lệ Lactobacilli và gia tăng vi khuẩn yếm khí, tạo điều kiện cho nhiều vi sinh vật gây bệnh phát triển quá mức.
+Nhiễm khuẩn âm đạo (loạn khuẩn âm đạo) là hội chứng do rối loạn cân bằng vi sinh vật ở âm đạo: Giảm sút tỉ lệ _Lactobacilli_ và gia tăng vi khuẩn yếm khí, tạo điều kiện cho nhiều vi sinh vật gây bệnh phát triển quá mức.
 
 ## Nguyên nhân
 
-BV xảy ra khi có sự thay đổi về tỷ lệ vi khuẩn trong hệ vi sinh âm đạo:
+BV xảy ra khi có sự thay đổi về tỷ lệ vi khuẩn trong hệ vi sinh âm đạo.
 
-1. **Giảm Lactobacilli**
-   - Lactobacilli (chủ yếu là Lactobacillus crispatus, L. jensenii) tạo ra acid lactic, giữ pH âm đạo 3.8–4.5 và tiết ra hydrogen peroxide diệt khuẩn.
-   - Khi Lactobacilli suy giảm (do stress, kháng sinh, thay đổi nội tiết), pH âm đạo tăng, tạo điều kiện cho vi khuẩn yếm khí phát triển.
-2. **Tăng vi khuẩn yếm khí**
-   - Gardnerella vaginalis là tác nhân phổ biến nhất, nhưng còn có Prevotella spp., Mobiluncus spp., Bacteroides spp., Peptostreptococcus spp., Mycoplasma hominis.
-   - Các vi khuẩn này tiết ra amin dễ bay hơi (putrescin, cadaverin), gây mùi hôi đặc trưng.
-3. **Cơ chế bệnh sinh và biến chứng**
-   - Các vi khuẩn yếm khí có thể xâm nhập ngược vào trên qua cổ tử cung, tăng nguy cơ viêm vùng chậu (PID), viêm nội mạc tử cung sau sinh hoặc sau mổ, và làm khởi phát quá trình viêm niêm mạc ối—điều này liên quan đến sinh non và nhiễm trùng ối ở phụ nữ mang thai.
-   - Phụ nữ BV có nguy cơ cao hơn nhiễm HIV và các bệnh lây truyền qua đường tình dục khác do hàng rào bảo vệ niêm mạc bị tổn thương.
+**Giảm _Lactobacilli_**:
+
+- _Lactobacilli_ (chủ yếu là Lactobacillus crispatus, L. jensenii) tạo ra acid lactic, giữ pH âm đạo 3.8–4.5 và tiết ra hydrogen peroxide diệt khuẩn.
+- Khi _Lactobacilli_ suy giảm (do stress, kháng sinh, thay đổi nội tiết), pH âm đạo tăng, tạo điều kiện cho vi khuẩn yếm khí phát triển.
+
+**Tăng vi khuẩn yếm khí**:
+
+- _Gardnerella vaginalis_ là tác nhân phổ biến nhất, nhưng còn có _Prevotella spp._, _Mobiluncus spp._, _Bacteroides spp._, _Peptostreptococcus spp._, _Mycoplasma hominis_.
+- Các vi khuẩn này tiết ra amin dễ bay hơi (putrescin, cadaverin), gây mùi hôi đặc trưng.
+
+**Cơ chế bệnh sinh và biến chứng**:
+
+- Các vi khuẩn yếm khí có thể xâm nhập ngược vào trên qua cổ tử cung, tăng nguy cơ viêm vùng chậu (PID), viêm nội mạc tử cung sau sinh hoặc sau mổ, và làm khởi phát quá trình viêm niêm mạc ối—điều này liên quan đến sinh non và nhiễm trùng ối ở phụ nữ mang thai.
+- Phụ nữ BV có nguy cơ cao hơn nhiễm HIV và các bệnh lây truyền qua đường tình dục khác do hàng rào bảo vệ niêm mạc bị tổn thương.
 
 ## Yếu tố nguy cơ
 
 Các yếu tố làm mất cân bằng hệ vi sinh âm đạo:
 
 - **Quan hệ tình dục không dùng bao cao su** hoặc có bạn tình mới: Làm thay đổi hệ vi sinh từ bạn tình.
-- **Thói quen thụt rửa âm đạo (douching)**: Trực tiếp làm rửa trôi Lactobacilli, nâng cao pH âm đạo.
-- **Sử dụng kháng sinh kéo dài**: Tiêu diệt hại khuẩn nhưng cũng làm giảm Lactobacilli.
+- **Thói quen thụt rửa âm đạo (douching)**: Trực tiếp làm rửa trôi _Lactobacilli_, nâng cao pH âm đạo.
+- **Sử dụng kháng sinh kéo dài**: Tiêu diệt hại khuẩn nhưng cũng làm giảm _Lactobacilli_.
 - **Thói quen vệ sinh không đúng**: Dùng dung dịch quá kiềm hoặc quá axit, mặc đồ lót ẩm ướt, chật.
-- **Hút thuốc lá**: Liên quan đến giảm Lactobacilli và tăng nguy cơ BV.
+- **Hút thuốc lá**: Liên quan đến giảm _Lactobacilli_ và tăng nguy cơ BV.
 - **Mang thai**: Do thay đổi nội tiết, tăng nguy cơ rối loạn pH.
 - **Nội tiết tố thay đổi (tháng kinh, mãn kinh)**: Cũng có thể làm tăng pH âm đạo tạm thời.
 
-## Đặc điểm
+## Chẩn đoán
 
-Loạn khuẩn âm đạo (bacterial vaginosis – BV) là tình trạng rối loạn vi khuẩn rất thường gặp ở phụ nữ trong độ tuổi sinh sản, chiếm khoảng 20–30% phụ nữ có triệu chứng tiết dịch âm đạo và 10–15% phụ nữ không có triệu chứng. BV không được xếp vào nhiễm trùng tình dục (STI) nhưng có thể liên quan đến hoạt động tình dục và một số hành vi chăm sóc vùng kín.
+Loạn khuẩn âm đạo (bacterial vaginosis – BV) là tình trạng rối loạn vi khuẩn rất thường gặp ở phụ nữ trong độ tuổi sinh sản, chiếm khoảng 20–30% phụ nữ có triệu chứng tiết dịch âm đạo và 10–15% phụ nữ không có triệu chứng. BV không được xếp vào nhiễm trùng tình dục (STI) nhưng có thể liên quan đến hoạt động tình dục và một số hành vi chăm sóc vùng kín. **Biểu hiện lâm sàng chính**:
 
-**Biểu hiện lâm sàng chính**:
-
-- Tiết dịch âm đạo nhiều, thường màu trắng xám hoặc vàng nhạt, có độ nhớt nhẹ.
-- Dịch thường không gây ngứa, không kèm đỏ hoặc phù nề âm hộ—điểm khác biệt so với viêm âm đạo do nấm hoặc trùng roi.
-- Mùi hôi đặc trưng **"cá thối"** (odour), thường rõ hơn sau giao hợp hoặc sau khi nước ối lợi phá vỡ cân bằng pH âm đạo.
+- **Tiết dịch âm đạo nhiều**, thường màu trắng xám hoặc vàng nhạt, có độ nhớt nhẹ.
+- Dịch thường **không gây ngứa, không kèm đỏ hoặc phù nề âm hộ**—điểm khác biệt so với viêm âm đạo do nấm hoặc trùng roi.
+- Mùi hôi đặc trưng **cá thối** (odour), thường rõ hơn sau giao hợp hoặc sau khi nước ối lợi phá vỡ cân bằng pH âm đạo.
 
 _Hình ảnh "Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "cá thối". Khoảng 25% trường hợp có kích ứng nhẹ ở âm hộ, biểu hiện bằng ngứa hoặc rát nhẹ"._
 ![Dịch âm đạo bất thường](./_images/viem-am-dao-nhiem-khuan/dich-am-dao-bat-thuong.png)
-
-## Chẩn đoán
-
-BV được chẩn đoán dựa trên lâm sàng và xét nghiệm thường quy (Amsel, Nugent), hoặc theo hướng dẫn của từng cơ sở y tế.
 
 ### Tiêu chuẩn Amsel
 
@@ -56,22 +55,24 @@ BV được chẩn đoán dựa trên lâm sàng và xét nghiệm thường quy
 1. **Tiết dịch âm đạo đồng nhất**: Dịch màu trắng xám, loãng, phủ đều thành âm đạo, không kèm dấu hiệu viêm (không đỏ, không phù nề).
 2. **Tế bào "clue cells"**: Xuất hiện khi quan sát phiến tươi/phết Gram; là tế bào biểu mô âm đạo phủ kín bởi vi khuẩn, làm méo góc bào tương.
 3. **pH âm đạo > 4.5**: Dùng giấy quỳ hoặc đo pH trực tiếp tại niêm mạc thành âm đạo.
-4. **Whiff test (+)**: Khi nhỏ dung dịch KOH 10% vào dịch âm đạo, có mùi hôi đặc trưng "cá thối". **Độ nhạy (Sensitivity) 70%, độ đặc hiệu (Specificity) 94%** so với các xét nghiệm tham chiếu khác.
+4. **Whiff test (+)**: Khi nhỏ dung dịch KOH 10% vào dịch âm đạo, có mùi hôi đặc trưng "cá thối".
 
 :::
+
+**Độ nhạy (Sensitivity) 70%, độ đặc hiệu (Specificity) 94%** so với các xét nghiệm tham chiếu khác.
 
 ### Điểm Nugent
 
 Điểm Nugent là phương pháp xét nghiệm Gram đồ đánh giá tỷ lệ các loại vi khuẩn để chẩn đoán BV. Căn cứ vào mật độ ba nhóm vi khuẩn trên phiến Gram đồ:
 
-1. **Nhóm I – Lactobacillus (vi khuẩn Gram dương, hình que lớn)**: Càng nhiều Lactobacilli, điểm càng thấp (0–4).
-2. **Nhóm II – Gardnerella & Bacteroides (vi khuẩn Gram âm, hình que ngắn hoặc coccobacilli)**: Càng nhiều vi khuẩn nhóm này, điểm càng cao (0–4).
-3. **Nhóm III – Mobiluncus spp. (vi khuẩn Gram đổi màu, trực khuẩn cong)**: Càng nhiều, điểm càng cao (0–2).
+1. **Nhóm I – _Lactobacillus_ (vi khuẩn Gram dương, hình que lớn)**: Càng nhiều _Lactobacilli_, điểm càng thấp (0–4).
+2. **Nhóm II – _Gardnerella_ & _Bacteroides_ (vi khuẩn Gram âm, hình que ngắn hoặc _coccobacilli_)**: Càng nhiều vi khuẩn nhóm này, điểm càng cao (0–4).
+3. **Nhóm III – _Mobiluncus spp._ (vi khuẩn Gram đổi màu, trực khuẩn cong)**: Càng nhiều, điểm càng cao (0–2).
 
 _Bảng "Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0–10)"._
-| Điểm I (Lactobacillus) | Điểm II (Gardnerella/Bacteroides) | Điểm III (Mobiluncus) |
+| Điểm I (_Lactobacillus_) | Điểm II (_Gardnerella_/_Bacteroides_) | Điểm III (_Mobiluncus_) |
 | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ |
-| **Vi khuẩn Gram dương, hình que lớn** | **Vi khuẩn Gram âm, hình que ngắn/coccobacilli** | **Trực khuẩn cong, Gram đổi màu** |
+| **Vi khuẩn Gram dương, hình que lớn** | **Vi khuẩn Gram âm, hình que ngắn/_coccobacilli_** | **Trực khuẩn cong, Gram đổi màu** |
 | Quang trường lớn x1000 | Quang trường lớn x1000 | Quang trường lớn x1000 |
 | **Số lượng tế bào/vi khuẩn trên 10 trường trung bình** | **Số lượng tế bào/vi khuẩn trên 10 trường trung bình** | **Số lượng tế bào/vi khuẩn trên 10 trường trung bình** |
 | 0: > 30 | 0: < 1 | 0: < 5 |
@@ -82,45 +83,50 @@ _Bảng "Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0–10)".
 
 - **0–3**: Kết quả âm tính với BV (hệ vi khuẩn cân bằng).
 - **4–6**: Khu vực trung gian (nghi ngờ, cần theo dõi hoặc xét nghiệm lại).
-- **≥ 7**: Dương tính với BV (mật độ vi khuẩn yếm khí cao, Lactobacilli giảm).
-  Độ nhạy 89%, độ đặc hiệu 83% so với tiêu chuẩn Amsel.
+- **≥ 7**: Dương tính với BV (mật độ vi khuẩn yếm khí cao, _Lactobacilli_ giảm).
+
+**Độ nhạy 89%, độ đặc hiệu 83%** so với tiêu chuẩn Amsel.
 
 ### Tiêu chuẩn Từ Dũ
 
 :::note[Tiêu chuẩn chẩn đoán loạn khuẩn âm đạo]
-Theo Bệnh viện Từ Dũ, BV được chẩn đoán khi đủ **2/3** tiêu chuẩn sau:
+Theo Bệnh viện Từ Dũ, BV được chẩn đoán khi đủ 2/3 tiêu chuẩn sau:
 
-1. **Lâm sàng**
-   - Huyết trắng nhiều, màu trắng xám, rất hôi, đặc biệt rõ sau giao hợp.
-2. **Cận lâm sàng**
-   - **Whiff test (+)**: Thêm KOH 10% lên mẫu huyết trắng, xuất hiện mùi hôi như cá ươn.
-   - **Phết âm đạo**: Nhiều "clue cells" (> 20% tế bào biểu mô nhìn thấy có bám vi khuẩn); nhuộm Gram thấy nhiều coccobacilli.
-     :::
+- Huyết trắng nhiều, màu trắng xám, rất hôi, đặc biệt rõ sau giao hợp.
+- **Whiff test (+)**: Thêm KOH 10% lên mẫu huyết trắng, xuất hiện mùi hôi như cá ươn.
+- **Phết âm đạo**: Nhiều "clue cells" (> 20% tế bào biểu mô nhìn thấy có bám vi khuẩn); nhuộm Gram thấy nhiều _coccobacilli_.
+
+:::
 
 ## Điều trị
 
-Mục tiêu: Khôi phục cân bằng hệ vi sinh, giảm triệu chứng và ngăn ngừa biến chứng, đặc biệt ở phụ nữ mang thai.
-
 ### Nguyên tắc
 
-- **Ưu tiên tiêu chuẩn Amsel ≥ 3/4 hoặc Nugent ≥ 7** trước khi chỉ định điều trị, trừ trường hợp dự phòng trước mổ hoặc phụ nữ mang thai nguy cơ cao.
-- **Điều trị thuốc**: Chọn Metronidazole hoặc Clindamycin theo liều và đường dùng nêu trên.
-- **Bổ sung probiotic chứa Lactobacillus** sau khi hoàn thành kháng sinh: Probiotic uống hoặc đặt âm đạo (L. rhamnosus GR-1, L. reuteri RC-14) giúp tái thiết lập hệ vi sinh, giảm tỉ lệ tái phát.
-- **Thay đổi thói quen sinh hoạt**:
-  - Tránh thụt rửa âm đạo;
-  - Áp dụng vệ sinh đúng cách: Rửa nhẹ nhàng bằng nước ấm hoặc dung dịch pH trung tính;
-  - Sử dụng đồ lót thoáng, thấm hút tốt;
-  - Hạn chế quan hệ tình dục không dùng bao cao su hoặc có nhiều bạn tình.
+**Mục tiêu**: Khôi phục cân bằng hệ vi sinh, giảm triệu chứng và ngăn ngừa biến chứng, **đặc biệt ở phụ nữ mang thai**.
+
+**Ưu tiên tiêu chuẩn Amsel ≥ 3/4 hoặc Nugent ≥ 7** trước khi chỉ định điều trị, trừ trường hợp dự phòng trước mổ hoặc phụ nữ mang thai nguy cơ cao.
+
+**Điều trị thuốc**: Chọn Metronidazole hoặc Clindamycin theo liều và đường dùng nêu trên.
+
+**Bổ sung probiotic chứa Lactobacillus sau khi hoàn thành kháng sinh**: Probiotic uống hoặc đặt âm đạo (L. rhamnosus GR-1, L. reuteri RC-14) giúp tái thiết lập hệ vi sinh, giảm tỉ lệ tái phát.
+
+**Thay đổi thói quen sinh hoạt**:
+
+- Tránh thụt rửa âm đạo;
+- Áp dụng vệ sinh đúng cách: Rửa nhẹ nhàng bằng nước ấm hoặc dung dịch pH trung tính;
+- Sử dụng đồ lót thoáng, thấm hút tốt;
+- Hạn chế quan hệ tình dục không dùng bao cao su hoặc có nhiều bạn tình.
 
 ### Chỉ định
 
-1. **BV có triệu chứng lâm sàng (huyết trắng nhiều, mùi hôi)**:
-   - Ảnh hưởng chất lượng cuộc sống, nên điều trị kháng sinh để nhanh chóng cải thiện triệu chứng.
-2. **BV không triệu chứng nhưng thuộc nhóm nguy cơ cao**:
-   - **Phụ nữ mang thai có nguy cơ cao sinh non** (ví dụ: Tiền sử sinh non, viêm màng ối)
-   - **Chuẩn bị phẫu thuật sản phụ khoa hoặc can thiệp âm đạo** (cắt tử cung, đặt dụng cụ tử cung...). Trong các trường hợp này, điều trị dự phòng có thể giảm tỷ lệ biến chứng viêm hậu phẫu và sinh non.
-3. **BV tái phát nhiều lần**:
-   - Nếu đã điều trị đúng phác đồ nhưng BV tái phát > 3 lần/năm, cần đánh giá thêm yếu tố nguy cơ: Quan hệ tình dục không an toàn, thụt rửa, vệ sinh sai cách, cân nhắc bổ sung probiotic và theo dõi kỹ.
+**BV có triệu chứng lâm sàng (huyết trắng nhiều, mùi hôi)**: Ảnh hưởng chất lượng cuộc sống, nên điều trị kháng sinh để nhanh chóng cải thiện triệu chứng.
+
+**BV không triệu chứng nhưng thuộc nhóm nguy cơ cao**:
+
+- **Phụ nữ mang thai có nguy cơ cao sinh non** (ví dụ: Tiền sử sinh non, viêm màng ối)
+- **Chuẩn bị phẫu thuật sản phụ khoa hoặc can thiệp âm đạo** (cắt tử cung, đặt dụng cụ tử cung...). Trong các trường hợp này, điều trị dự phòng có thể giảm tỷ lệ biến chứng viêm hậu phẫu và sinh non.
+
+**BV tái phát nhiều lần**: Nếu đã điều trị đúng phác đồ nhưng BV tái phát > 3 lần/năm, cần đánh giá thêm yếu tố nguy cơ: Quan hệ tình dục không an toàn, thụt rửa, vệ sinh sai cách, cân nhắc bổ sung probiotic và theo dõi kỹ.
 
 :::caution
 
@@ -169,7 +175,7 @@ Tùy chọn điều trị BV tại Bệnh viện Từ Dũ (áp dụng cho cả B
 
 - Rửa vùng kín bằng dung dịch **muối NaBica (NaHCO₃)** loãng để giảm kích ứng, giữ pH âm đạo hơi kiềm.
 - Tránh lạm dụng dung dịch sát khuẩn (ví dụ povidone iodine 10%) vì dễ gây khô và làm mất cân bằng pH.
-- Sử dụng **acid lactic + lactoserum atomist** để duy trì môi trường acid nhẹ, hỗ trợ Lactobacilli phát triển.
+- Sử dụng **acid lactic + lactoserum atomist** để duy trì môi trường acid nhẹ, hỗ trợ _Lactobacilli_ phát triển.
 
 :::caution
 
@@ -184,4 +190,4 @@ Tùy chọn điều trị BV tại Bệnh viện Từ Dũ (áp dụng cho cả B
 - Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning: Viêm âm đạo nhiễm khuẩn_
 - Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
 - Centers for Disease Control and Prevention (CDC) (2010) – _Sexually Transmitted Diseases Treatment Guidelines_
-- Workowski KA, Bolan GA – _Sexually transmitted diseases treatment guidelines, 2010_
+- Workowski KA, Bolan GA (2010) – _Sexually transmitted diseases treatment guidelines_

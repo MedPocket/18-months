@@ -6,7 +6,7 @@ description: Hướng dẫn quản lý khối thực thể không tân lập ở
 Các khối thực thể không tân lập tại phần phụ là tất cả các khối bất thường ở phần phụ, không mang đặc điểm tân sinh. Thường gặp nhất:
 
 - **Nang lạc tuyến nội mạc tử cung** (endometrioma) ở buồng trứng.
-- **Ứ dịch vòi Fallope** do di chứng nhiễm _Chlamydia trachomatis_ hoặc viêm dính vùng chậu.
+- **Ứ dịch vòi Fallope** do di chứng nhiễm **Chlamydia trachomatis** hoặc viêm dính vùng chậu.
 - **Khối dính do lao**.
 - **Giả nang phúc mạc** do nhiễm trùng kinh niên vùng chậu hoặc sau phẫu thuật.
   Đặc trưng chung: Triệu chứng thường rõ (đau, rối loạn kinh, hiếm muộn...), khác với khối tân lập (thường âm thầm).

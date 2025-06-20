@@ -3,7 +3,7 @@ title: Giang mai
 description: Giang mai là bệnh lây truyền qua đường tình dục do xoắn khuẩn Treponema pallidum gây ra.
 ---
 
-Xoắn khuẩn giang mai (**Treponema pallidum**) rất yếu, chỉ sống vài giờ ngoài cơ thể. Ở điều kiện ẩm và nhiệt độ 37 °C, chúng có thể tồn tại và xâm nhập qua da, niêm mạc tổn thương khi quan hệ tình dục đường âm đạo, hậu môn hoặc miệng. Bệnh cũng có thể lây qua tiếp xúc gián tiếp với đồ dùng, vật dụng nhiễm xoắn khuẩn hoặc qua đường máu, từ mẹ sang con trong thai kỳ hoặc chuyển dạ.
+Xoắn khuẩn giang mai (_Treponema pallidum_) rất yếu, chỉ sống vài giờ ngoài cơ thể. Ở điều kiện ẩm và nhiệt độ 37 °C, chúng có thể tồn tại và xâm nhập qua da, niêm mạc tổn thương khi quan hệ tình dục đường âm đạo, hậu môn hoặc miệng. Bệnh cũng có thể lây qua tiếp xúc gián tiếp với đồ dùng, vật dụng nhiễm xoắn khuẩn hoặc qua đường máu, từ mẹ sang con trong thai kỳ hoặc chuyển dạ.
 
 ## Chẩn đoán
 
@@ -162,7 +162,7 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 
 #### Giang mai bẩm sinh
 
-- **Nhiễm khuẩn khác ở trẻ sơ sinh**: Staphylococcus, Streptococcus, Haemophilus influenzae, Chlamydia trachomatis (gây viêm kết mạc, viêm phổi).
+- **Nhiễm khuẩn khác ở trẻ sơ sinh**: Staphylococcus, Streptococcus, Haemophilus influenzae, _Chlamydia trachomatis_ (gây viêm kết mạc, viêm phổi).
 - **Rickets (nhuyễn xương)**: Giống viêm xương sụn giang mai muộn nhưng xét nghiệm huyết thanh âm tính giang mai.
 - **Bệnh nấm (Blastomyces, Histoplasma) hoặc bệnh lý di truyền ảnh hưởng xương, da**.
 

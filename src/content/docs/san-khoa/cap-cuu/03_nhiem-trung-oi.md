@@ -17,7 +17,7 @@ Nhiễm trùng ối thường do vi khuẩn xâm nhập ngược dòng từ đư
 
 - _Ureaplasma urealyticum_.
 - _Mycoplasma hominis_.
-- _Gardnerella vaginalis_.
+- **Gardnerella vaginalis**.
 - _Bacteroides bivius_.
 - Vi khuẩn Gram âm.
 - Liên cầu khuẩn nhóm B (_Group B Streptococcus – GBS_).

@@ -3,7 +3,7 @@ title: Chlamydia trachomatis
 description: Nhiễm Chlamydia trachomatis là một trong các nhiễm khuẩn lây truyền qua đường tình dục (STI) rất thường gặp, có thể gây viêm niệu đạo – sinh dục không triệu chứng hoặc có triệu chứng nhẹ nhưng nếu không điều trị kịp thời sẽ dẫn đến các biến chứng nặng như viêm tiểu khung, vô sinh, thai ngoài tử cung, viêm mào tinh hoàn, và ảnh hưởng đến trẻ sơ sinh.
 ---
 
-Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân đôi phức tạp, tồn tại trong hai dạng: Thể lưới (reticulate body) và thể rời (elementary body). Vi khuẩn lây truyền chủ yếu qua quan hệ tình dục không bảo vệ, ảnh hưởng cả nam và nữ ở độ tuổi sinh sản.
+_Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nhân đôi phức tạp, tồn tại trong hai dạng: Thể lưới (reticulate body) và thể rời (elementary body). Vi khuẩn lây truyền chủ yếu qua quan hệ tình dục không bảo vệ, ảnh hưởng cả nam và nữ ở độ tuổi sinh sản.
 
 ## Nguyên nhân
 
@@ -89,7 +89,7 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 
 ### Chẩn đoán xác định
 
-:::note[Tiêu chuẩn chẩn đoán nhiễm Chlamydia trachomatis]
+:::note[Tiêu chuẩn chẩn đoán nhiễm _Chlamydia trachomatis_]
 
 - **NAAT (+)** hoặc **DFA/ELISA kháng nguyên (+)** trên mẫu dịch niệu đạo, dịch cổ tử cung, dịch trực tràng, hoặc nước tiểu.
 - Nếu không có xét nghiệm bảo đảm, có thể chẩn đoán lâm sàng – dịch tễ (khi tiếp xúc với nguồn bệnh hoặc triệu chứng gợi ý) để điều trị sớm, đồng thời làm xét nghiệm xác định sau.
@@ -99,8 +99,8 @@ Chlamydia trachomatis là vi khuẩn nội bào bắt buộc, có chu kỳ nhân
 ### Chẩn đoán phân biệt
 
 - **Viêm đường sinh dục – tiết niệu khác**:
-  - **Neisseria gonorrhoeae**: Tiểu buốt, tiểu nhiều, tiết dịch mủ, thường diễn biến nhanh (1–5 ngày sau quan hệ).
-  - **Trichomonas vaginalis**: Huyết trắng bọt, mùi tanh, ngứa âm đạo.
+  - _Neisseria gonorrhoeae_: Tiểu buốt, tiểu nhiều, tiết dịch mủ, thường diễn biến nhanh (1–5 ngày sau quan hệ).
+  - _Trichomonas vaginalis_: Huyết trắng bọt, mùi tanh, ngứa âm đạo.
   - **Mycoplasma genitalium**: Triệu chứng giống Chlamydia nhưng ít gặp và khó chẩn đoán.
 - **Viêm cổ tử cung**:
   - **Gonorrhea, Herpes simplex virus (HSV)**: Loét, đau rát rõ hơn, dịch mủ hoặc loét nông.
@@ -178,7 +178,7 @@ Không sử dung **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây �
 :::caution
 
 - **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** không dùng cho phụ nữ có thai hoặc cho con bú.
-- **Metronidazole không dùng trong 3 tháng đầu thai kỳ**, nhưng có thể cân nhắc nếu kết hợp điều trị các STI phối hợp (Trichomonas).
+- **Metronidazole không dùng trong 3 tháng đầu thai kỳ**, nhưng có thể cân nhắc nếu kết hợp điều trị các STI phối hợp (_Trichomonas_).
 - **Erythromycin và Amoxicillin** là lựa chọn an toàn trong thai kỳ, nhưng tỷ lệ tuân thủ thấp hơn (Erythromycin dễ gây buồn nôn).
 - Tránh sử dụng kháng sinh đơn lẻ khi đồng nhiễm HIV, cần bổ sung kháng sinh dự phòng cơ hội.
 

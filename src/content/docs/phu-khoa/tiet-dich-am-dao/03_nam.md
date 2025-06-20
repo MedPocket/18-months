@@ -3,12 +3,12 @@ title: Viêm âm đạo do nấm Candida
 description: Viêm âm đạo do nấm Candida (Vulvo-Vaginal Candidiasis - VVC) là tình trạng nhiễm nấm gây viêm âm hộ - âm đạo, thường do Candida albicans.
 ---
 
-Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm hộ - âm đạo do Candida sp (Vulvo-Vaginal Candidiasis – VVC) trong vòng 1 năm gần nhất. Có tới 10% bạn tình nam bị nhiễm nấm dương vật. VVC không được xem như bệnh lây truyền qua đường tình dục.
+Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm hộ - âm đạo do _Candida_ sp (Vulvo-Vaginal Candidiasis – VVC) trong vòng 1 năm gần nhất. Có tới 10% bạn tình nam bị nhiễm nấm dương vật. VVC không được xem như bệnh lây truyền qua đường tình dục.
 
 ## Nguyên nhân
 
-- Candida sp là vi nấm men, gồm nhiều chủng khác nhau. Trong các chủng Candida, **Candida albicans** là phổ biến nhất. Các chủng khác có thể gặp là _Candida glabrata_, _Candida tropicalis_, hoặc _Torulopsis glabrata_. Candida albicans tồn tại tự nhiên trong hệ vi sinh âm đạo bình thường.
-- Sự hiện diện của **glucose** và **sucrose** là điều kiện thuận lợi cho sự phát triển của Candida albicans. Chỉ khi Candida albicans phát triển quá mức thì bệnh nhân mới có biểu hiện lâm sàng. Cơ chế chuyển từ trạng thái cộng sinh sang gây bệnh của Candida albicans vẫn chưa được làm rõ hoàn toàn.
+- _Candida_ sp là vi nấm men, gồm nhiều chủng khác nhau. Trong các chủng _Candida_, _Candida albicans_ là phổ biến nhất. Các chủng khác có thể gặp là **Candida* glabrata*, **Candida* tropicalis*, hoặc _Torulopsis glabrata_. _Candida albicans_ tồn tại tự nhiên trong hệ vi sinh âm đạo bình thường.
+- Sự hiện diện của **glucose** và **sucrose** là điều kiện thuận lợi cho sự phát triển của _Candida albicans_. Chỉ khi _Candida albicans_ phát triển quá mức thì bệnh nhân mới có biểu hiện lâm sàng. Cơ chế chuyển từ trạng thái cộng sinh sang gây bệnh của _Candida albicans_ vẫn chưa được làm rõ hoàn toàn.
 
 ## Yếu tố nguy cơ
 
@@ -31,17 +31,17 @@ _Hình ảnh "3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (m
   - Âm hộ và niêm mạc âm đạo viêm đỏ, lột da nhẹ.
 
 _Hình ảnh "Âm hộ viêm đỏ rực, với các mảng trắng dầy. Bệnh nhân thường than phiền ngứa, rát, đau khi giao hợp và tiểu rát"._
-![Viêm âm hộ do Candida](./_images/viem-am-dao-do-nam/nam-candida-am-ho.png)
+![Viêm âm hộ do _Candida_](./_images/viem-am-dao-do-nam/nam-candida-am-ho.png)
 
 _Hình ảnh "Tiết dịch âm đạo đặc, các mảng trắng bám thành âm đạo, niêm mạc viêm đỏ, khô"._
-![Viêm âm đạo do Candida](./_images/viem-am-dao-do-nam/nam-candida-am-dao.png)
+![Viêm âm đạo do _Candida_](./_images/viem-am-dao-do-nam/nam-candida-am-dao.png)
 
 ### Cận lâm sàng
 
 - **Soi tươi**: Hòa bệnh phẩm (dịch âm đạo hoặc mảng bào tử) với NaCl 0.9% rồi quan sát dưới kính hiển vi; nhuộm xanh methylene hoặc Gram để phát hiện sợi tơ nấm và bào tử.
 - **Nhuộm Gram**: Thường thấy bào tử nấm và sợi nấm giả (pseudohyphae).
-- **Cấy nấm**: Chỉ định khi thất bại điều trị hoặc nghi ngờ chủng không phải Candida albicans, nhằm xác định chủng và làm kháng nấm đồ.
-- **Xét nghiệm latex agglutination**: Dùng để xác định nhanh một số chủng Candida không sinh giả tơ nấm.
+- **Cấy nấm**: Chỉ định khi thất bại điều trị hoặc nghi ngờ chủng không phải _Candida albicans_, nhằm xác định chủng và làm kháng nấm đồ.
+- **Xét nghiệm latex agglutination**: Dùng để xác định nhanh một số chủng _Candida_ không sinh giả tơ nấm.
 
 ## Phân loại
 
@@ -50,12 +50,12 @@ Phân loại theo CDC 2010 chia thành 2 nhóm:
 - **VVC không biến chứng**:
   - Nhiễm đơn thuần hoặc thỉnh thoảng.
   - Triệu chứng nhẹ đến trung bình.
-  - Nghi ngờ Candida albicans.
+  - Nghi ngờ _Candida albicans_.
   - Phụ nữ không suy giảm miễn dịch.
 - **VVC có biến chứng**:
   - Tái phát ≥ 4 lần/năm.
   - Triệu chứng nặng.
-  - Nghi ngờ hoặc có bằng chứng nhiễm nấm không phải Candida albicans.
+  - Nghi ngờ hoặc có bằng chứng nhiễm nấm không phải _Candida albicans_.
   - Phụ nữ đái tháo đường, bệnh nội khoa nặng, hoặc suy giảm miễn dịch.
 
 ## Điều trị
@@ -63,9 +63,9 @@ Phân loại theo CDC 2010 chia thành 2 nhóm:
 ### Nguyên tắc
 
 - Việc tự dùng thuốc không kê toa cho VVC có thể an toàn và hiệu quả nếu bệnh nhân hiểu rõ triệu chứng điển hình.
-- Nếu không đáp ứng hoặc tái phát sớm sau điều trị, cần khám bởi bác sĩ để xác định chính xác tình trạng và nguyên nhân (chủng Candida, yếu tố nguy cơ).
+- Nếu không đáp ứng hoặc tái phát sớm sau điều trị, cần khám bởi bác sĩ để xác định chính xác tình trạng và nguyên nhân (chủng _Candida_, yếu tố nguy cơ).
 - Tránh sử dụng phối hợp kháng nấm với kháng sinh không cần thiết, vì có thể làm rối loạn thêm hệ vi sinh và mycobiome. Kháng viêm (steroid) chỉ giúp giảm triệu chứng viêm nhưng có thể ảnh hưởng tiêu cực đến cân bằng vi sinh.
-- Điều trị cần dựa trên mức độ nặng, loại Candida, tình trạng thai kỳ, bệnh lý kèm theo.
+- Điều trị cần dựa trên mức độ nặng, loại _Candida_, tình trạng thai kỳ, bệnh lý kèm theo.
 
 ### Không biến chứng
 
@@ -88,7 +88,7 @@ Tái phát sau 1 tháng chiếm 20–30% trường hợp.
 - Nếu không có triệu chứng, không phải điều trị.
 - Chỉ cân nhắc điều trị bạn tình khi bạn nữ tái phát nhiều lần mà không có yếu tố nguy cơ rõ ràng.
 
-**Chủng Candida glabrata**:
+**Chủng _Candida_ glabrata**:
 
 - Thường kháng với imidazole.
 - Điều trị thay thế có thể dùng **Boric acid viên nang đặt âm đạo** hoặc **Gentian violet** (mực tím).

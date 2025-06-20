@@ -1,18 +1,18 @@
 ---
-title: Viêm âm đạo do Trichomonas
-description: Viêm âm đạo do Trichomonas là nhiễm ký sinh trùng Trichomonas vaginalis qua đường tình dục, gây viêm nhiễm cấp tính hoặc mạn tính ở âm đạo và niệu đạo.
+title: Viêm âm đạo do _Trichomonas_
+description: Viêm âm đạo do _Trichomonas_ là nhiễm ký sinh trùng _Trichomonas_ vaginalis qua đường tình dục, gây viêm nhiễm cấp tính hoặc mạn tính ở âm đạo và niệu đạo.
 ---
 
-Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vaginalis**, thường gặp ở phụ nữ độ tuổi sinh sản và có xu hướng tái phát nếu không điều trị triệt để.
+Bệnh lây truyền qua đường tình dục do trùng roi _Trichomonas vaginalis_, thường gặp ở phụ nữ độ tuổi sinh sản và có xu hướng tái phát nếu không điều trị triệt để.
 
 ## Nguyên nhân
 
-**Trichomonas vaginalis** là ký sinh trùng hình chiếc lá, có 4 roi ở vùng đầu và roi ngắn ở phía sau, sống ký sinh trong âm đạo, cổ tử cung và niệu đạo. T. vaginalis chỉ có thể tồn tại và sinh sản trong môi trường ẩm ướt, pH hơi kiềm của âm đạo (pH thường > 5).
+_Trichomonas vaginalis_ là ký sinh trùng hình chiếc lá, có 4 roi ở vùng đầu và roi ngắn ở phía sau, sống ký sinh trong âm đạo, cổ tử cung và niệu đạo. T. vaginalis chỉ có thể tồn tại và sinh sản trong môi trường ẩm ướt, pH hơi kiềm của âm đạo (pH thường > 5).
 
 - **Dịch tễ học**:
   - Tỷ lệ nhiễm ở phụ nữ tuổi sinh sản dao động 5–15%, có thể cao hơn ở nhóm nguy cơ (quan hệ tình dục sớm, nhiều bạn tình).
   - Ở nam giới, đa số không có triệu chứng, nhưng có thể là nguồn lây tiềm ẩn (niệu đạo nhiễm).
-  - Phụ nữ mang thai nhiễm Trichomonas có thể tăng nguy cơ sinh non, vỡ ối non, viêm màng ối.
+  - Phụ nữ mang thai nhiễm _Trichomonas_ có thể tăng nguy cơ sinh non, vỡ ối non, viêm màng ối.
 - **Đường lây**:
   - Chủ yếu qua quan hệ tình dục không an toàn (âm đạo – âm đạo, âm đạo – dương vật).
   - Ít gặp lây gián tiếp qua đồ dùng cá nhân (đồ lót, khăn, bồn tắm chung), vì T. vaginalis kém bền ngoài môi trường.
@@ -31,7 +31,7 @@ Bệnh lây truyền qua đường tình dục do trùng roi **Trichomonas vagin
 
 ## Chẩn đoán
 
-:::note[Tiêu chuẩn chẩn đoán viêm âm đạo do Trichomonas]
+:::note[Tiêu chuẩn chẩn đoán viêm âm đạo do _Trichomonas_]
 **Chẩn đoán xác định** khi phát hiện trùng roi di động trong soi tươi hoặc kháng nguyên (+), hoặc NAAT (+).
 :::
 

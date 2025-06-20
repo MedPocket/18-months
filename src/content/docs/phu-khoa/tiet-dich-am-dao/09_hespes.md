@@ -3,7 +3,7 @@ title: Herpes
 description: Bệnh do virus Herpes simplex (HSV), thường là HSV type 2 (có thể kèm HSV type 1), gây tổn thương niêm mạc và da sinh dục – hậu môn, với thời gian ủ bệnh 3–7 ngày.
 ---
 
-Herpes sinh dục do virus Herpes simplex (HSV) type 2 (hiếm hơn kèm HSV type 1) có ái lực mạnh với niêm mạc và da vùng sinh dục – hậu môn. Sau khi xâm nhập qua các vi tổn thương trên da niêm, HSV di chuyển dọc sợi thần kinh đến hạch bạch huyết vùng chậu (thường là hạch cùng – S2 – S4) và tồn tại ở dạng tiềm ẩn (latent) trong các tế bào thần kinh. Khi có điều kiện thuận lợi (stress, suy giảm miễn dịch, rối loạn kinh nguyệt...), virus tái hoạt và di chuyển ngược lên niêm mạc, gây tái phát tổn thương.
+Herpes sinh dục do virus _Herpes simplex (HSV)_ type 2 (hiếm hơn kèm HSV type 1) có ái lực mạnh với niêm mạc và da vùng sinh dục – hậu môn. Sau khi xâm nhập qua các vi tổn thương trên da niêm, HSV di chuyển dọc sợi thần kinh đến hạch bạch huyết vùng chậu (thường là hạch cùng – S2 – S4) và tồn tại ở dạng tiềm ẩn (latent) trong các tế bào thần kinh. Khi có điều kiện thuận lợi (stress, suy giảm miễn dịch, rối loạn kinh nguyệt...), virus tái hoạt và di chuyển ngược lên niêm mạc, gây tái phát tổn thương.
 
 ## Chẩn đoán
 

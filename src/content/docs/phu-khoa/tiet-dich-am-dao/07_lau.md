@@ -3,7 +3,7 @@ title: Lậu
 description: Bệnh lậu (Gonorrhea) là nhiễm khuẩn lây truyền qua đường tình dục do song cầu khuẩn Gram âm Neisseria gonorrhoeae gây ra.
 ---
 
-Bệnh lậu là bệnh lây truyền qua đường tình dục do song cầu khuẩn Gram âm **Neisseria gonorrhoeae** gây ra. Vi khuẩn này chủ yếu lây qua quan hệ tình dục đường âm đạo, đường miệng hoặc đường hậu môn. Mức độ kháng thuốc của **N. gonorrhoeae** đang ngày càng gia tăng, khiến việc chẩn đoán, điều trị và phòng ngừa trở nên thách thức hơn.
+Bệnh lậu là bệnh lây truyền qua đường tình dục do song cầu khuẩn Gram âm _Neisseria gonorrhoeae_ gây ra. Vi khuẩn này chủ yếu lây qua quan hệ tình dục đường âm đạo, đường miệng hoặc đường hậu môn. Mức độ kháng thuốc của **N. gonorrhoeae** đang ngày càng gia tăng, khiến việc chẩn đoán, điều trị và phòng ngừa trở nên thách thức hơn.
 
 _Hình ảnh "N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm trong và ngoài bạch cầu trung tính"._
 ![N. gonorrhoeae](./_images/lau/song-cau-khuan.png)
@@ -95,14 +95,14 @@ Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng v�
 
 - **Lậu sinh dục**:
   - **Chlamydia trachomatis**: Tiết dịch mủ niệu đạo hoặc dịch âm đạo tương tự, nhưng thường ít mủ hơn, soi tươi nhuộm Gram không thấy song cầu.
-  - **Trichomonas vaginalis**: Huyết trắng bọt, mùi tanh, soi tươi thấy trùng roi lắc lư.
-  - **Candida albicans**: Khí hư đặc, trắng như phô mai, ngứa nhiều, soi tươi thấy bào tử và giả sợi.
+  - _Trichomonas vaginalis_: Huyết trắng bọt, mùi tanh, soi tươi thấy trùng roi lắc lư.
+  - _Candida albicans_: Khí hư đặc, trắng như phô mai, ngứa nhiều, soi tươi thấy bào tử và giả sợi.
   - **Ureaplasma urealyticum**/**Mycoplasma genitalium**: Ít triệu chứng, tiểu buốt, chẩn đoán bằng PCR chuyên biệt.
   - Viêm niệu đạo không do nhiễm trùng (viêm do chấn thương, kích ứng hóa chất).
     :::caution
     **N. gonorrhoeae** và **C. trachomatis** thường đồng nhiễm. Do đó, khi nghi ngờ lậu, luôn làm thêm xét nghiệm Chlamydia (NAATs) để điều trị đồng thời.  
     :::
-- **Lậu hậu môn – trực tràng**: **Chlamydia trachomatis**, **Treponema pallidum** (giang mai), **Herpes simplex virus** (HSV), **Candida**; cần soi, nuôi cấy, NAATs đặc hiệu.
+- **Lậu hậu môn – trực tràng**: **Chlamydia trachomatis**, _Treponema pallidum_ (giang mai), **Herpes simplex virus** (HSV), **_Candida_**; cần soi, nuôi cấy, NAATs đặc hiệu.
 - **Lậu hầu họng**: **Streptococcus nhóm A** (viêm họng liên cầu), **Mycoplasma pneumoniae**, **Chlamydia pneumoniae**, virus đường hô hấp.
 - **Viêm kết mạc mắt do lậu ở trẻ sơ sinh**: **Staphylococcus aureus**, **Streptococcus pneumoniae**, **Haemophilus influenzae**, **Chlamydia trachomatis**; cần nuôi cấy mẫu mủ mắt, NAATs nếu có.
 
@@ -124,7 +124,7 @@ Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng v�
   - **Ceftriaxon 250 mg tiêm bắp liều duy nhất**.
   - **Spectinomycin 2 g tiêm bắp liều duy nhất** (nếu không dùng được cephalosporin).
   - **Cefixim 400 mg uống liều duy nhất** (thay thế khi không tiêm bắp được).
-- **Kết hợp**: **Azithromycin 1 g uống liều duy nhất** để điều trị đồng nhiễm _Chlamydia trachomatis_.
+- **Kết hợp**: **Azithromycin 1 g uống liều duy nhất** để điều trị đồng nhiễm **Chlamydia trachomatis**.
 
 :::caution
 
