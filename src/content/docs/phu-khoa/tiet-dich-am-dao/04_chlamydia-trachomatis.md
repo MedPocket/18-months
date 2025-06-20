@@ -7,35 +7,47 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 
 ## Nguyên nhân
 
-- **Dịch tễ học**:
-  - Là STI phổ biến nhất trong nhóm vi khuẩn trên thế giới, đặc biệt ở phụ nữ dưới 25 tuổi.
-  - 70–80% nữ và 50% nam mắc Chlamydia không có triệu chứng rõ ràng, làm tăng nguy cơ lây lan và khó phát hiện.
-- **Chlamydia trachomatis** gồm nhiều tuýp huyết thanh (serotype):
-  - **Tuýp D–K**: Gây nhiễm niệu đạo, cổ tử cung, trực tràng, họng; thường gọi chung là nhiễm Chlamydia sinh dục – tiết niệu.
-  - **Tuýp L1, L2, L3**: Gây bệnh hột xoài (Lymphogranuloma venereum – LGV), tổn thương sâu ở hạch bẹn hoặc hạch đùi, đôi khi viêm trực tràng mạn.
-  - **Tuýp A–C**: Gây viêm kết mạc ở trẻ em, ít liên quan đến đường sinh dục.
-- **Đường lây**:
-  - Chủ yếu qua quan hệ tình dục (âm đạo – dương vật, hậu môn – dương vật, miệng – dương vật).
-  - Truyền từ mẹ sang con khi sinh: Gây viêm kết mạc, viêm phổi bẩm sinh ở trẻ.
+**Dịch tễ học**:
+
+- Là STI phổ biến nhất trong nhóm vi khuẩn trên thế giới, đặc biệt ở phụ nữ dưới 25 tuổi.
+- 70–80% nữ và 50% nam mắc Chlamydia không có triệu chứng rõ ràng, làm tăng nguy cơ lây lan và khó phát hiện.
+
+**Chlamydia trachomatis** gồm nhiều tuýp huyết thanh (serotype):
+
+- **Tuýp D–K**: Gây nhiễm niệu đạo, cổ tử cung, trực tràng, họng; thường gọi chung là nhiễm Chlamydia sinh dục – tiết niệu.
+- **Tuýp L1, L2, L3**: Gây bệnh hột xoài (Lymphogranuloma venereum – LGV), tổn thương sâu ở hạch bẹn hoặc hạch đùi, đôi khi viêm trực tràng mạn.
+- **Tuýp A–C**: Gây viêm kết mạc ở trẻ em, ít liên quan đến đường sinh dục.
+
+**Đường lây**:
+
+- Chủ yếu qua quan hệ tình dục (âm đạo – dương vật, hậu môn – dương vật, miệng – dương vật).
+- Truyền từ mẹ sang con khi sinh: Gây viêm kết mạc, viêm phổi bẩm sinh ở trẻ.
 
 ## Biến chứng
 
-1. **Nữ giới**
-   - **Viêm tiểu khung (PID)**: Lan ngược lên vòi trứng, buồng trứng, gây đau vùng hạ vị, đôi khi sốt, có thể dẫn đến dính vòi trứng, vô sinh hoặc thai ngoài tử cung.
-   - **Viêm vòi trứng, viêm buồng trứng**: Là nguyên nhân hàng đầu gây vô sinh ống dẫn trứng.
-   - **Mang thai**: Nhiễm Chlamydia khi mang thai tăng nguy cơ sinh non, vỡ ối non, sinh con nhẹ cân.
-2. **Nam giới**
-   - **Viêm niệu đạo không biến chứng**: Tiểu buốt, tiểu rát, chảy mủ niệu đạo, đau dọc niệu đạo.
-   - **Viêm mào tinh hoàn, viêm tinh hoàn**: Đau tinh hoàn, sưng, có thể ảnh hưởng đến khả năng sinh tinh.
-   - **Ureaplasma và Mycoplasma thường đồng nhiễm**, cần phân biệt khi điều trị kháng sinh.
-3. **Trẻ sơ sinh**
-   - **Viêm kết mạc**: Xuất hiện sau 5–14 ngày sau sinh, chảy mủ mắt, sưng nề mí.
-   - **Viêm phổi bẩm sinh**: Khởi phát muộn sau 2–3 tuần, ho khan, âm thanh "rán rít" (staccato cough), không sốt.
-4. **Bệnh hột xoài (LGV)**
-   - Tuýp L1–L3 xâm nhập sâu vào mô dưới niêm mạc và hạch bạch huyết.
-   - Giai đoạn I: Loét sinh dục nhỏ, tự lành sau vài ngày.
-   - Giai đoạn II: Sưng hạch bẹn hoặc đùi một bên, hạch mềm đau, vỡ mủ, có thể hình thành rò, nang hạch.
-   - Giai đoạn III (mạn tính): Hẹp hậu môn, rò hậu môn, phản ứng xơ hóa ở mô.
+**Nữ giới**:
+
+- **Viêm tiểu khung (PID)**: Lan ngược lên vòi trứng, buồng trứng, gây đau vùng hạ vị, đôi khi sốt, có thể dẫn đến dính vòi trứng, vô sinh hoặc thai ngoài tử cung.
+- **Viêm vòi trứng, viêm buồng trứng**: Là nguyên nhân hàng đầu gây vô sinh ống dẫn trứng.
+- **Mang thai**: Nhiễm Chlamydia khi mang thai tăng nguy cơ sinh non, vỡ ối non, sinh con nhẹ cân.
+
+**Nam giới**:
+
+- **Viêm niệu đạo không biến chứng**: Tiểu buốt, tiểu rát, chảy mủ niệu đạo, đau dọc niệu đạo.
+- **Viêm mào tinh hoàn, viêm tinh hoàn**: Đau tinh hoàn, sưng, có thể ảnh hưởng đến khả năng sinh tinh.
+- **Ureaplasma và Mycoplasma thường đồng nhiễm**, cần phân biệt khi điều trị kháng sinh.
+
+**Trẻ sơ sinh**:
+
+- **Viêm kết mạc**: Xuất hiện sau 5–14 ngày sau sinh, chảy mủ mắt, sưng nề mí.
+- **Viêm phổi bẩm sinh**: Khởi phát muộn sau 2–3 tuần, ho khan, âm thanh "rán rít" (staccato cough), không sốt.
+
+**Bệnh hột xoài (LGV)**:
+
+- Tuýp L1–L3 xâm nhập sâu vào mô dưới niêm mạc và hạch bạch huyết.
+- Giai đoạn I: Loét sinh dục nhỏ, tự lành sau vài ngày.
+- Giai đoạn II: Sưng hạch bẹn hoặc đùi một bên, hạch mềm đau, vỡ mủ, có thể hình thành rò, nang hạch.
+- Giai đoạn III (mạn tính): Hẹp hậu môn, rò hậu môn, phản ứng xơ hóa ở mô.
 
 ## Chẩn đoán
 
@@ -43,26 +55,34 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 
 #### Không biến chứng
 
-- **Phụ nữ**
-  - 70–80% không có triệu chứng rõ rệt.
-  - Có thể: Tiết dịch âm đạo bất thường (dịch nhầy hoặc dịch vàng nhạt), chảy máu khi giao hợp, chảy máu sau khi thăm khám.
-  - Đôi khi: Đau hạ vị âm ỉ khi PID khởi phát, tiểu buốt, tiểu rắt nhẹ.
-- **Nam giới**
-  - 50% không có triệu chứng; khi có: Tiết dịch mủ niệu đạo, tiểu buốt, tiểu rát, cảm giác đái khó.
-  - Đau dọc niệu đạo, có thể kèm ngứa.
-- **Nhiễm ngoài sinh dục**
-  - **Trực tràng**: Thường không triệu chứng hoặc chảy dịch, đau, chảy máu trực tràng.
-  - **Hầu họng**: Hiếm triệu chứng, có thể viêm họng nhẹ, đau họng. Đôi khi được phát hiện ngẫu nhiên khi sàng lọc STI ở người quan hệ qua đường miệng.
+**Phụ nữ**:
+
+- 70–80% không có triệu chứng rõ rệt.
+- Có thể: Tiết dịch âm đạo bất thường (dịch nhầy hoặc dịch vàng nhạt), chảy máu khi giao hợp, chảy máu sau khi thăm khám.
+- Đôi khi: Đau hạ vị âm ỉ khi PID khởi phát, tiểu buốt, tiểu rắt nhẹ.
+
+**Nam giới**:
+
+- 50% không có triệu chứng; khi có: Tiết dịch mủ niệu đạo, tiểu buốt, tiểu rát, cảm giác đái khó.
+- Đau dọc niệu đạo, có thể kèm ngứa.
+
+**Nhiễm ngoài sinh dục**:
+
+- **Trực tràng**: Thường không triệu chứng hoặc chảy dịch, đau, chảy máu trực tràng.
+- **Hầu họng**: Hiếm triệu chứng, có thể viêm họng nhẹ, đau họng. Đôi khi được phát hiện ngẫu nhiên khi sàng lọc STI ở người quan hệ qua đường miệng.
 
 #### Có biến chứng
 
-- **Phụ nữ**
-  - Viêm tiểu khung (PID): Đau hạ vị, sốt, ra khí hư nhiều, có mùi hôi, ra máu bất thường.
-  - Vô sinh do dính vòi trứng, tăng nguy cơ thai ngoài tử cung.
-  - Mang thai: Sinh non, vỡ ối non, trẻ nhẹ cân.
-- **Trẻ sơ sinh**
-  - Viêm kết mạc: Đỏ mắt, chảy mủ, sưng mí sau 5–14 ngày, cần chẩn đoán sớm để tránh loét giác mạc.
-  - Viêm phổi bẩm sinh: Khởi phát sau 2–3 tuần, ho khan, không đáp ứng kháng sinh thông thường; cần điều trị sulfamethoxazole–trimethoprim (TMP–SMX).
+**Phụ nữ**:
+
+- Viêm tiểu khung (PID): Đau hạ vị, sốt, ra khí hư nhiều, có mùi hôi, ra máu bất thường.
+- Vô sinh do dính vòi trứng, tăng nguy cơ thai ngoài tử cung.
+- Mang thai: Sinh non, vỡ ối non, trẻ nhẹ cân.
+
+**Trẻ sơ sinh**:
+
+- Viêm kết mạc: Đỏ mắt, chảy mủ, sưng mí sau 5–14 ngày, cần chẩn đoán sớm để tránh loét giác mạc.
+- Viêm phổi bẩm sinh: Khởi phát sau 2–3 tuần, ho khan, không đáp ứng kháng sinh thông thường; cần điều trị sulfamethoxazole–trimethoprim (TMP–SMX).
 
 #### Bệnh hột xoài (LGV)
 
@@ -72,22 +92,27 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 
 ### Cận lâm sàng
 
-1. **Xét nghiệm NAATs (Nucleic Acid Amplification Tests)**
-   - **Ưu điểm**: Độ nhạy và độ đặc hiệu > 95%, có thể sử dụng trên đa dạng mẫu: dịch niệu đạo, dịch cổ tử cung, dịch trực tràng, nước tiểu.
-   - **Thời gian trả kết quả**: 1–4 giờ (tại phòng xét nghiệm chẩn đoán nhanh) hoặc 1–2 ngày.
-   - **Ứng dụng**: Chẩn đoán xác định cho mọi trường hợp nghi ngờ, Sàng lọc phụ nữ < 25 tuổi hoặc người có nhiều bạn tình.
-2. **Xét nghiệm kháng nguyên (DFA, ELISA)**
-   - **DFA (Direct Fluorescent Antibody)**: Nhuộm kháng thể huỳnh quang gắn kháng nguyên Chlamydia. Độ nhạy 80–90%, độ đặc hiệu 95%.
-   - **ELISA (Enzyme-Linked Immunosorbent Assay)**: Phát hiện kháng nguyên Chlamydia. Ít nhạy hơn NAAT, nhưng chi phí thấp, có thể áp dụng tại tuyến cơ sở.
-3. **Nuôi cấy (Culture)**
-   - Yêu cầu tế bào tế bào McCoy hoặc HeLa, kỹ thuật viên có tay nghề.
-   - Độ nhạy 50–70%, độ đặc hiệu cao.
-   - Ít được dùng vì phức tạp, tốn kém, thời gian lâu (3–7 ngày).
-4. **Xét nghiệm huyết thanh**
-   - Thường không dùng để chẩn đoán cấp tính đường sinh dục – tiết niệu.
-   - Dùng trong chẩn đoán LGV giai đoạn muộn (các kháng thể IgG, IgA tăng).
+**Xét nghiệm NAATs (Nucleic Acid Amplification Tests)**:
 
-### Chẩn đoán xác định
+- **Ưu điểm**: Độ nhạy và độ đặc hiệu > 95%, có thể sử dụng trên đa dạng mẫu: dịch niệu đạo, dịch cổ tử cung, dịch trực tràng, nước tiểu.
+- **Thời gian trả kết quả**: 1–4 giờ (tại phòng xét nghiệm chẩn đoán nhanh) hoặc 1–2 ngày.
+- **Ứng dụng**: Chẩn đoán xác định cho mọi trường hợp nghi ngờ, Sàng lọc phụ nữ < 25 tuổi hoặc người có nhiều bạn tình.
+
+**Xét nghiệm kháng nguyên (DFA, ELISA)**:
+
+- **DFA (Direct Fluorescent Antibody)**: Nhuộm kháng thể huỳnh quang gắn kháng nguyên Chlamydia. Độ nhạy 80–90%, độ đặc hiệu 95%.
+- **ELISA (Enzyme-Linked Immunosorbent Assay)**: Phát hiện kháng nguyên Chlamydia. Ít nhạy hơn NAAT, nhưng chi phí thấp, có thể áp dụng tại tuyến cơ sở.
+
+**Nuôi cấy (Culture)**:
+
+- Yêu cầu tế bào tế bào McCoy hoặc HeLa, kỹ thuật viên có tay nghề.
+- Độ nhạy 50–70%, độ đặc hiệu cao.
+- Ít được dùng vì phức tạp, tốn kém, thời gian lâu (3–7 ngày).
+
+**Xét nghiệm huyết thanh**:
+
+- Thường không dùng để chẩn đoán cấp tính đường sinh dục – tiết niệu.
+- Dùng trong chẩn đoán LGV giai đoạn muộn (các kháng thể IgG, IgA tăng).
 
 :::note[Tiêu chuẩn chẩn đoán nhiễm _Chlamydia trachomatis_]
 
@@ -98,20 +123,28 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 
 ### Chẩn đoán phân biệt
 
-- **Viêm đường sinh dục – tiết niệu khác**:
-  - _Neisseria gonorrhoeae_: Tiểu buốt, tiểu nhiều, tiết dịch mủ, thường diễn biến nhanh (1–5 ngày sau quan hệ).
-  - _Trichomonas vaginalis_: Huyết trắng bọt, mùi tanh, ngứa âm đạo.
-  - **Mycoplasma genitalium**: Triệu chứng giống Chlamydia nhưng ít gặp và khó chẩn đoán.
-- **Viêm cổ tử cung**:
-  - **Gonorrhea, Herpes simplex virus (HSV)**: Loét, đau rát rõ hơn, dịch mủ hoặc loét nông.
-  - **Lao sinh dục**: Thăm khám thấy các ổ viêm, chảy máu dễ, cần cấy Mycobacterium tuberculosis.
-  - **Ureaplasma urealyticum, Ureaplasma parvum, Mycoplasma hominis**: Thường đồng nhiễm, khó tách biệt lâm sàng, cần xét nghiệm PCR chuyên biệt.
-  - **Cytomegalovirus (CMV)**: Hiếm nếu không suy giảm miễn dịch.
-  - **Liên cầu tan huyết beta nhóm B (Streptococcus agalactiae)**: Thường là tác nhân gây viêm hậu sản hơn là STD.
-- **Viêm hậu môn – trực tràng**: **Gonorrhea, Herpes simplex virus, Treponema pallidum (giang mai)**: Loét, mụn nước, ngứa dữ dội, scleroatrophic papulosis, có thể kèm u hạch.
-  :::caution
-  **N. gonorrhoeae** và **C. trachomatis** thường đồng nhiễm; do đó, khi nghi ngờ Chlamydia, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
-   :::
+**Viêm đường sinh dục – tiết niệu khác**:
+
+- _Neisseria gonorrhoeae_: Tiểu buốt, tiểu nhiều, tiết dịch mủ, thường diễn biến nhanh (1–5 ngày sau quan hệ).
+- _Trichomonas vaginalis_: Huyết trắng bọt, mùi tanh, ngứa âm đạo.
+- _Mycoplasma genitalium_: Triệu chứng giống Chlamydia nhưng ít gặp và khó chẩn đoán.
+
+**Viêm cổ tử cung**:
+
+- _Gonorrhea_, _Herpes simplex virus (HSV)_: Loét, đau rát rõ hơn, dịch mủ hoặc loét nông.
+- _Lao sinh dục_: Thăm khám thấy các ổ viêm, chảy máu dễ, cần cấy Mycobacterium tuberculosis.
+- _Ureaplasma urealyticum_, _Ureaplasma parvum_, _Mycoplasma hominis_: Thường đồng nhiễm, khó tách biệt lâm sàng, cần xét nghiệm PCR chuyên biệt.
+- _Cytomegalovirus (CMV)_: Hiếm nếu không suy giảm miễn dịch.
+- _Liên cầu tan huyết beta nhóm B (Streptococcus agalactiae)_: Thường là tác nhân gây viêm hậu sản hơn là STD.
+
+**Viêm hậu môn – trực tràng**:
+
+- _Gonorrhea_, _Herpes simplex virus_, _Treponema pallidum (giang mai)_.
+- Loét, mụn nước, ngứa dữ dội, scleroatrophic papulosis, có thể kèm u hạch.
+
+:::caution
+_N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; do đó, khi nghi ngờ _Chlamydia_, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
+:::
 
 ## Điều trị
 
@@ -129,12 +162,8 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 
 **Phác đồ ưu tiên** (tùy chọn 1 hoặc 2):
 
-- **Azithromycin 1 g uống liều duy nhất**
-  - Ưu điểm: Thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%.
-  - Thận trọng: Có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
-- **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**
-  - Hiệu quả 97%.
-  - Thận trọng: Không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
+- **Azithromycin 1 g uống liều duy nhất**: Ưu điểm: Thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%; Thận trọng: Có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
+- **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**: Hiệu quả 97%; Thận trọng: Không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
 
 **Phác đồ thay thế** (khi không thể dùng thuốc ưu tiên):
 
@@ -144,8 +173,6 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 - **Levofloxacin 500 mg uống 1 lần/ngày x 7 ngày** (không dùng cho phụ nữ có thai, giá thành cao).
 
 #### Chlamydia hậu môn – trực tràng (Rectal Chlamydia)
-
-**Phác đồ ưu tiên**:
 
 - **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**.
 - **Azithromycin 1 g uống liều duy nhất** (ít ưu tiên hơn do hiệu quả ruột thấp hơn, đặc biệt lâm sàng ở rectal chlamydia).
@@ -160,8 +187,6 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 **Phác đồ thay thế** (khi không thể dùng doxycycline hoặc azithromycin): **Erythromycin 500 mg uống 4 lần/ngày x 7–10 ngày** (ít hiệu quả hơn, chỉ dùng khi không dùng được các thành phần trên).
 
 #### Chlamydia ở phụ nữ có thai
-
-**Phác đồ ưu tiên**:
 
 - **Azithromycin 1 g uống liều duy nhất** (an toàn, hiệu quả tốt).
 - **Amoxicillin 500 mg uống 3 lần/ngày x 7 ngày** (thay thế nếu dị ứng macrolide).

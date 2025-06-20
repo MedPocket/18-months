@@ -3,11 +3,11 @@ title: Viêm âm đạo do nấm Candida
 description: Viêm âm đạo do nấm Candida (Vulvo-Vaginal Candidiasis - VVC) là tình trạng nhiễm nấm gây viêm âm hộ - âm đạo, thường do Candida albicans.
 ---
 
-Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm hộ - âm đạo do _Candida_ sp (Vulvo-Vaginal Candidiasis – VVC) trong vòng 1 năm gần nhất. Có tới 10% bạn tình nam bị nhiễm nấm dương vật. VVC không được xem như bệnh lây truyền qua đường tình dục.
+Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm hộ - âm đạo do _Candida sp_ (Vulvo-Vaginal Candidiasis – VVC) trong vòng 1 năm gần nhất. Có tới 10% bạn tình nam bị nhiễm nấm dương vật. VVC không được xem như bệnh lây truyền qua đường tình dục.
 
 ## Nguyên nhân
 
-- _Candida_ sp là vi nấm men, gồm nhiều chủng khác nhau. Trong các chủng _Candida_, _Candida albicans_ là phổ biến nhất. Các chủng khác có thể gặp là **Candida* glabrata*, **Candida* tropicalis*, hoặc _Torulopsis glabrata_. _Candida albicans_ tồn tại tự nhiên trong hệ vi sinh âm đạo bình thường.
+- _Candida sp_ là vi nấm men, gồm nhiều chủng khác nhau. Trong các chủng _Candida_, _Candida albicans_ là phổ biến nhất. Các chủng khác có thể gặp là _Candida glabrata_, _Candida tropicalis_, hoặc _Torulopsis glabrata_. _Candida albicans_ tồn tại tự nhiên trong hệ vi sinh âm đạo bình thường.
 - Sự hiện diện của **glucose** và **sucrose** là điều kiện thuận lợi cho sự phát triển của _Candida albicans_. Chỉ khi _Candida albicans_ phát triển quá mức thì bệnh nhân mới có biểu hiện lâm sàng. Cơ chế chuyển từ trạng thái cộng sinh sang gây bệnh của _Candida albicans_ vẫn chưa được làm rõ hoàn toàn.
 
 ## Yếu tố nguy cơ
@@ -23,12 +23,9 @@ _Hình ảnh "3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (m
 
 ### Lâm sàng
 
-- **Khí hư**: Đặc trưng giống "phô mai sữa" (cottage cheese), không mùi, đặc, dính.
+- **Khí hư**: Đặc trưng giống **"phô mai sữa"** (cottage cheese), không mùi, đặc, dính.
 - **pH âm đạo**: Thường duy trì từ 4.0–5.0.
-- **Triệu chứng**:
-  - Ngứa âm đạo, âm hộ.
-  - Đôi khi nóng rát, đau khi giao hợp, tiểu buốt.
-  - Âm hộ và niêm mạc âm đạo viêm đỏ, lột da nhẹ.
+- **Triệu chứng**: Ngứa âm đạo, âm hộ. Đôi khi nóng rát, đau khi giao hợp, tiểu buốt. Âm hộ và niêm mạc âm đạo viêm đỏ, lột da nhẹ.
 
 _Hình ảnh "Âm hộ viêm đỏ rực, với các mảng trắng dầy. Bệnh nhân thường than phiền ngứa, rát, đau khi giao hợp và tiểu rát"._
 ![Viêm âm hộ do _Candida_](./_images/viem-am-dao-do-nam/nam-candida-am-ho.png)
@@ -45,18 +42,21 @@ _Hình ảnh "Tiết dịch âm đạo đặc, các mảng trắng bám thành �
 
 ## Phân loại
 
-Phân loại theo CDC 2010 chia thành 2 nhóm:
+Phân loại theo CDC 2010 chia thành 2 nhóm VVC không biến chứng và VVC có biến chứng.
 
-- **VVC không biến chứng**:
-  - Nhiễm đơn thuần hoặc thỉnh thoảng.
-  - Triệu chứng nhẹ đến trung bình.
-  - Nghi ngờ _Candida albicans_.
-  - Phụ nữ không suy giảm miễn dịch.
-- **VVC có biến chứng**:
-  - Tái phát ≥ 4 lần/năm.
-  - Triệu chứng nặng.
-  - Nghi ngờ hoặc có bằng chứng nhiễm nấm không phải _Candida albicans_.
-  - Phụ nữ đái tháo đường, bệnh nội khoa nặng, hoặc suy giảm miễn dịch.
+**VVC không biến chứng**:
+
+- Nhiễm đơn thuần hoặc thỉnh thoảng.
+- Triệu chứng nhẹ đến trung bình.
+- Nghi ngờ _Candida albicans_.
+- Phụ nữ không suy giảm miễn dịch.
+
+**VVC có biến chứng**:
+
+- Tái phát ≥ 4 lần/năm.
+- Triệu chứng nặng.
+- Nghi ngờ hoặc có bằng chứng nhiễm nấm không phải _Candida albicans_.
+- Phụ nữ đái tháo đường, bệnh nội khoa nặng, hoặc suy giảm miễn dịch.
 
 ## Điều trị
 
@@ -71,12 +71,9 @@ Phân loại theo CDC 2010 chia thành 2 nhóm:
 
 **Thuốc nhóm Azole (Imidazoles)**:
 
-- **Miconazole, Clotrimazole, Butoconazole, Tioconazole, Terconazole** (dạng kem hoặc viên đặt).
-  - Ví dụ: Clotrimazole 200 mg đặt âm đạo mỗi ngày x 3 ngày, hoặc Miconazole 100 mg đặt mỗi ngày x 7 ngày.
-- **Fluconazole uống** 150 mg liều đơn.
-  - Tác dụng nhanh, hiệu quả 90%.
-  - Fluconazole liều thấp (150 mg) an toàn trong thai kỳ. Liều cao hàng ngày (400–800 mg) có liên quan đến nguy cơ khuyết tật thai nhi.
-- **Nystatin** (dạng viên đặt âm đạo) là lựa chọn an toàn khi mang thai.
+- **Miconazole, Clotrimazole, Butoconazole, Tioconazole, Terconazole** (dạng kem hoặc viên đặt). Ví dụ: Clotrimazole 200 mg đặt âm đạo mỗi ngày x 3 ngày, hoặc Miconazole 100 mg đặt mỗi ngày x 7 ngày.
+- **Fluconazole uống** 150 mg liều đơn. Tác dụng nhanh, hiệu quả 90%. Fluconazole liều thấp (150 mg) an toàn trong thai kỳ. Liều cao hàng ngày (400–800 mg) có liên quan đến nguy cơ khuyết tật thai nhi.
+- **Nystatin (dạng viên đặt âm đạo)** là lựa chọn an toàn khi mang thai.
 
 Tái phát sau 1 tháng chiếm 20–30% trường hợp.
 
@@ -88,16 +85,16 @@ Tái phát sau 1 tháng chiếm 20–30% trường hợp.
 - Nếu không có triệu chứng, không phải điều trị.
 - Chỉ cân nhắc điều trị bạn tình khi bạn nữ tái phát nhiều lần mà không có yếu tố nguy cơ rõ ràng.
 
-**Chủng _Candida_ glabrata**:
+Chủng _Candida glabrata_:
 
 - Thường kháng với imidazole.
 - Điều trị thay thế có thể dùng **Boric acid viên nang đặt âm đạo** hoặc **Gentian violet** (mực tím).
 
 ### Có biến chứng
 
-- Tái phát ≥ 4 lần/năm hoặc nhiễm nấm không phải C. albicans, cần cấy nấm và kháng nấm đồ.
+- Tái phát ≥ 4 lần/năm hoặc nhiễm nấm không phải _C. albicans_, cần cấy nấm và kháng nấm đồ.
 - Đánh giá yếu tố nguy cơ: Đái tháo đường, suy giảm miễn dịch.
-- Liệu pháp dự phòng: Fluconazole 150 mg uống mỗi tuần x 6 tháng.
+- Liệu pháp dự phòng: **Fluconazole 150 mg uống** mỗi tuần x 6 tháng.
 - Khuyến khích đánh giá và điều chỉnh các nguyên nhân nền (kiểm soát đường huyết, cân bằng miễn dịch).
 - Probiotics chưa được chứng minh chắc chắn hiệu quả, chỉ dùng theo kinh nghiệm cho một số trường hợp tái phát nhiều lần.
 
@@ -141,12 +138,13 @@ _Bảng "Thuốc kháng nấm tại chỗ (First line therapy) điều trị VVC
 - Rửa bằng natri hydrocarbonat (muối NaBica) 5 g pha với nước ấm.
 
 :::caution
+**Chỉ điều trị bạn tình khi có một trong các triệu chứng sau**:
 
-- Chỉ điều trị bạn tình khi có một trong các triệu chứng sau:
-  - Viêm ngứa bao quy đầu.
-  - Nấm có trong nước tiểu.
-  - Bạn nữ tái phát nhiều lần mà không có yếu tố nguy cơ rõ ràng.
-- **Metronidazole không dùng trong 3 tháng đầu thai kỳ** (dẫn xuất 5-nitroimidazole).
+- Viêm ngứa bao quy đầu.
+- Nấm có trong nước tiểu.
+- Bạn nữ tái phát nhiều lần mà không có yếu tố nguy cơ rõ ràng.
+
+**Metronidazole không dùng trong 3 tháng đầu thai kỳ** (dẫn xuất 5-nitroimidazole).
 
 :::
 
