@@ -36,7 +36,7 @@ Tiêu chuẩn chẩn đoán bao gồm siêu âm, định lượng β-hCG và gi�
 
 **U nguyên bào nuôi nơi rau bám (Placental Site Trophoblastic Tumor – PSTT)**:
 
-- Phát sinh từ tế bào nuôi làm tổ tại điểm bám rau; Β-hCG thường thấp.
+- Phát sinh từ tế bào nuôi làm tổ tại điểm bám rau; β-hCG thường thấp.
 - Ít nhạy với hóa chất; Điều trị chủ yếu là phẫu thuật.
 
 **U nguyên bào nuôi dạng biểu mô (Epithelioid Trophoblastic Tumor – ETT)**:
