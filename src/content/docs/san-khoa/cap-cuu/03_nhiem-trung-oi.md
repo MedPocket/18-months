@@ -3,7 +3,7 @@ title: Nhiễm trùng ối
 description: Nhiễm trùng ối (Intra-amniotic Infection - IAI) là tình trạng nhiễm trùng xảy ra ở một hoặc nhiều thành phần trong buồng ối như dịch ối, thai nhi, dây rốn, bánh rau hoặc màng đệm.
 ---
 
-Nhiễm trùng ối (intra-amniotic infection - IAI) được xác định khi có nhiễm trùng tại một hoặc nhiều cấu trúc trong buồng ối bao gồm: Dịch ối, thai nhi, dây rốn, bánh rau, màng ối hoặc màng đệm.
+**Nhiễm trùng ối (intra-amniotic infection - IAI**) được xác định khi có nhiễm trùng tại một hoặc nhiều cấu trúc trong buồng ối bao gồm: Dịch ối, thai nhi, dây rốn, bánh rau, màng ối hoặc màng đệm.
 
 ## Nguyên nhân
 
@@ -17,7 +17,7 @@ Nhiễm trùng ối thường do vi khuẩn xâm nhập ngược dòng từ đư
 
 - _Ureaplasma urealyticum_.
 - _Mycoplasma hominis_.
-- _Gardnerella vaginalis_.
+- **Gardnerella vaginalis**.
 - _Bacteroides bivius_.
 - Vi khuẩn Gram âm.
 - Liên cầu khuẩn nhóm B (_Group B Streptococcus – GBS_).
@@ -68,7 +68,9 @@ Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu b
 - Viêm màng não.
 - Nhiễm khuẩn huyết.
 - Tử vong sơ sinh.
-  **Di chứng lâu dài**:
+
+**Di chứng lâu dài**:
+
 - Loạn sản phế quản phổi (BPD).
 - Bại não.
 
@@ -93,7 +95,7 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 
 ### Kháng sinh
 
-#### Lựa chọn 1 (ưu tiên)
+**Phác đồ 1 (ưu tiên)**:
 
 - Ampicillin 2 g tiêm TM mỗi 6 giờ + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ. Nếu mổ lấy thai, thêm Clindamycin 900mg mỗi 8 giờ hoặc Metronidazole 500 mg truyền TM mỗi 8 giờ.
 - Hoặc Ampicillin–sulbactam 3 g tiêm TM mỗi 6h.
@@ -101,11 +103,12 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 - Hoặc Cefotetan 2 g tiêm TM mỗi 12h.
 - Hoặc Mezlocillin 4 g tiêm TM mỗi 6h.
 
-#### Lựa chọn 2: Dị ứng nhẹ với Penicillin
+**Phác đồ 2: Dị ứng nhẹ với Penicillin**:
 
-- Cefazolin 2 g tiêm TM mỗi 8 giờ + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ. Nếu mổ lấy thai, thêm Clindamycin hoặc Metronidazole như trên.
+- Cefazolin 2 g tiêm TM mỗi 8 giờ + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
+- Nếu mổ lấy thai, thêm Clindamycin hoặc Metronidazole như trên.
 
-#### Lựa chọn 3: Dị ứng nặng với Penicillin
+**Phác đồ 3: Dị ứng nặng với Penicillin**:
 
 - Clindamycin 900 mg truyền TM mỗi 8 giờ.
 - Hoặc Vancomycin 1 g truyền TM mỗi 12h + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
@@ -118,7 +121,7 @@ Vancomycin chỉ dùng khi:
 
 :::
 
-#### Nếu không đáp ứng
+**Nếu không đáp ứng**:
 
 - Piperacillin–Tazobactam 4.5 g truyền TM mỗi 8 giờ.
 - Hoặc Ertapenem 1 g truyền TM mỗi 24 giờ.

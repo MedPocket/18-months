@@ -31,11 +31,11 @@ Sau sổ thai, cần theo dõi sinh hiệu và lượng máu mất, **không** x
 _Hình ảnh "Kỹ thuật bóc rau nhân tạo"._
 ![Kỹ thuật bóc rau nhân tạo](./_images/boc-rau-nhan-tao-kiem-tra-sinh-duc/ky-thuat-boc-rau-nhan-tao.png)
 
-1. Ấn giữ đáy tử cung qua thành bụng bằng 1 tay.
-2. Tay kia (đeo găng) lần theo dây rốn vào buồng tử cung, tìm mép bánh rau.
-3. Lách bề mặt lòng bàn tay giữa rau và thành tử cung, lòng bàn tay ôm rau.
-4. Tách nhẹ & từ từ cho đến khi rau bong hoàn toàn, rồi kéo rau ra ngoài.
-5. Kiểm tra bánh rau, màng rau, dây rốn đầy đủ.
+- Ấn giữ đáy tử cung qua thành bụng bằng 1 tay.
+- Tay kia (đeo găng) lần theo dây rốn vào buồng tử cung, tìm mép bánh rau.
+- Lách bề mặt lòng bàn tay giữa rau và thành tử cung, lòng bàn tay ôm rau.
+- Tách nhẹ & từ từ cho đến khi rau bong hoàn toàn, rồi kéo rau ra ngoài.
+- Kiểm tra bánh rau, màng rau, dây rốn đầy đủ.
 
 ### Tai biến
 
@@ -55,21 +55,17 @@ _Hình ảnh "Kỹ thuật bóc rau nhân tạo"._
 
 ### Chuẩn bị
 
-Tương tự bóc rau: Vô khuẩn, đường truyền TM, thuốc giảm đau.
+- Tương tự bóc rau: Vô khuẩn, đường truyền TM, thuốc giảm đau.
 
 ### Kỹ thuật
 
-1. Tay ngoài cố định đáy tử cung.
-2. Tay trong kiểm tra dọc thân tử cung (mặt trước, sau, hai bên).
-3. Kiểm tra đoạn dưới từ "3 giờ–9 giờ" theo kim đồng hồ.
-4. Đánh giá:
-   - **Co hồi**: Chắc (tốt) hay mềm (đờ).
-   - **Sót rau**: Thành tử cung nhám, gồ lên hay nhẵn.
-   - **Toàn vẹn**: Vết mổ cũ, vết rách.
-   - **Dị dạng/khối u**.
-5. Rút tay ra sau khi đã kiểm tra xong, không thao tác nhiều lần để tránh nhiễm trùng.
+- Tay ngoài cố định đáy tử cung.
+- Tay trong kiểm tra dọc thân tử cung (mặt trước, sau, hai bên).
+- Kiểm tra đoạn dưới từ "3 giờ–9 giờ" theo kim đồng hồ.
+- Đánh giá: **Co hồi tử cung** chắc (tốt) hay mềm (đờ). **Sót rau** thành tử cung nhám, gồ lên hay nhẵn. **Toàn vẹn** vết mổ cũ, vết rách. **Dị dạng/khối u**.
+- Rút tay ra sau khi đã kiểm tra xong, không thao tác nhiều lần để tránh nhiễm trùng.
 
-### Sau thủ thuật
+**Sau thủ thuật**:
 
 - Tiêm thêm thuốc co hồi (oxytocin).
 - Theo dõi sinh hiệu, lượng máu âm đạo.
@@ -85,33 +81,31 @@ Tương tự bóc rau: Vô khuẩn, đường truyền TM, thuốc giảm đau.
 
 ### Chuẩn bị
 
-Như kiểm tra tử cung, thêm valve âm đạo, kìm tim, gạc, dụng cụ khâu.
+- Như kiểm tra tử cung, thêm valve âm đạo, kìm tim, gạc, dụng cụ khâu.
 
 ### Kỹ thuật
 
-Rách nhỏ (< 2 cm) thường tự lành; rách lớn phải khâu, ưu tiên khâu cổ trước, sau đó khâu âm đạo.
-
-1. Ấn đáy tử cung giữ cố định.
-2. Người thứ hai đặt valve mở âm đạo.
-3. Dùng kìm tim kẹp lần lượt ở các "giờ" trên vòng cổ tử cung (12 giờ, 2 giờ, 4 giờ... 10 giờ), kiểm tra khoảng giữa mỗi lần kẹp: Rách, chảy máu, phù nền.
-4. Lần mò quanh toàn bộ cổ tử cung theo kim đồng hồ.
-5. Lưu ý rách thường ở 3 giờ hoặc 9 giờ, có thể lan vào đoạn dưới.
+- Ấn đáy tử cung giữ cố định.
+- Người thứ hai đặt valve mở âm đạo.
+- Dùng kìm tim kẹp lần lượt ở các "giờ" trên vòng cổ tử cung (12 giờ, 2 giờ, 4 giờ... 10 giờ), kiểm tra khoảng giữa mỗi lần kẹp: Rách, chảy máu, phù nền.
+- Lần mò quanh toàn bộ cổ tử cung theo kim đồng hồ.
+- Rách thường ở 3 giờ hoặc 9 giờ, có thể lan vào đoạn dưới. Rách nhỏ (< 2 cm) thường tự lành; rách lớn phải khâu, ưu tiên khâu cổ trước, sau đó khâu âm đạo.
 
 ## Kiểm tra âm đạo & tầng sinh môn
 
 ### Chỉ định
 
-Tất cả sản phụ sinh âm đạo, dù cắt tầng sinh môn hay không.
+- Tất cả sản phụ sinh âm đạo, dù cắt tầng sinh môn hay không.
 
 ### Chuẩn bị
 
-Tương tự kiểm tra cổ tử cung.
+- Tương tự kiểm tra cổ tử cung.
 
 ### Kỹ thuật
 
-1. Khám toàn bộ thành âm đạo bằng ngón tay: Tìm rách niêm mạc, cơ.
-2. Mở valve, kiểm tra đáy chậu, tầng sinh môn.
-3. Thăm trực tràng: đánh giá cơ vòng hậu môn.
+- Khám toàn bộ thành âm đạo bằng ngón tay: Tìm rách niêm mạc, cơ.
+- Mở valve, kiểm tra đáy chậu, tầng sinh môn.
+- Thăm trực tràng: Đánh giá cơ vòng hậu môn.
 
 **Phân độ rách tầng sinh môn**
 
@@ -120,7 +114,7 @@ Tương tự kiểm tra cổ tử cung.
 - **Độ III**: + cơ vòng hậu môn.
 - **Độ IV**: + niêm mạc trực tràng.
 
-### Khâu phục hồi
+**Khâu phục hồi**:
 
 - Rạch sâu hoặc chảy máu nhiều: Khâu tại phòng mổ + gây tê/ mê.
 - Rách nhẹ: Khâu tại giường sinh, tê tại chỗ.

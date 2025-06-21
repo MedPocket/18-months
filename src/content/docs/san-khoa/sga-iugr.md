@@ -3,13 +3,13 @@ title: SGA & IUGR
 description: Thai nhỏ so với tuổi thai (Small-for-Gestational Age – SGA) và thai với tăng trưởng trong tử cung bị giới hạn (Fetal Growth Restriction – FGR hay Intrauterine Growth Restriction – IUGR) là hai tình trạng thường gặp và ảnh hưởng đáng kể đến sức khỏe, phát triển và tiên lượng của thai nhi trước và sau sinh.
 ---
 
-SGA (Small-for-Gestational Age) và IUGR (Fetal Growth Restriction/Intra-Uterine Growth Retardation) là tình trạng thai nhi có kích thước hoặc trọng lượng nhỏ hơn so với chuẩn tuổi thai. Chẩn đoán và quản lý kịp thời giúp giảm tỷ lệ biến chứng chu sinh và cải thiện kết cục dài hạn.
+**SGA (Small-for-Gestational Age)** và **IUGR (Fetal Growth Restriction/Intra-Uterine Growth Retardation)** là tình trạng thai nhi có kích thước hoặc trọng lượng nhỏ hơn so với chuẩn tuổi thai. Chẩn đoán và quản lý kịp thời giúp giảm tỷ lệ biến chứng chu sinh và cải thiện kết cục dài hạn.
 
 ## Phân loại
 
-1. Thai nhỏ nhưng không bệnh lý (constitutionally small).
-2. Thai IUGR không do rau thai (do bất thường nhiễm sắc thể, chuyển hóa hoặc nhiễm trùng bào thai).
-3. Thai IUGR do bất thường trao đổi qua rau (thoái hóa nhau, suy chức năng rau).
+- Thai nhỏ nhưng không bệnh lý (constitutionally small).
+- Thai IUGR không do rau thai (do bất thường nhiễm sắc thể, chuyển hóa hoặc nhiễm trùng bào thai).
+- Thai IUGR do bất thường trao đổi qua rau (thoái hóa nhau, suy chức năng rau).
 
 ## Yếu tố nguy cơ
 
@@ -47,45 +47,49 @@ _Bảng "Chiều dài & cân nặng thai nhi theo tuần (WHO tham khảo)"._
 | **26** | 35.6 | 760 | **41** | 51.5 | 3550 |
 | **27** | 36.6 | 875 | **42** | 51.7 | 3700 |
 
-## Biến chứng chu sinh và sơ sinh
+## Biến chứng
+
+Biến chứng chu sinh và sơ sinh:
 
 - **Hạ đường huyết**: Do dự trữ glycogen thấp; cần sữa công thức bổ sung ngay.
 - **Hạ thân nhiệt**: Thiếu mỡ dưới da, cần giữ ấm tích cực.
 - **Rối loạn hô hấp**: Ngưng thở, suy hô hấp, cần theo dõi tích cực.
-- **Đa hồng cầu**: đáp ứng thiếu oxy mạn tính; nguy cơ tăng độ nhớt máu.
+- **Đa hồng cầu**: Đáp ứng thiếu oxy mạn tính; nguy cơ tăng độ nhớt máu.
 - **Vàng da nặng**: Do tăng huyết tán và chức năng gan chưa hoàn chỉnh.
 - **Nhiễm trùng**: Hệ miễn dịch kém phát triển; cần kháng sinh theo dõi.
 - **Di chứng thần kinh dài hạn**: Chậm phát triển vận động và nhận thức.
 
 ## Quản lý
 
-### Loại trừ nguyên nhân cấu trúc – di truyền – nhiễm trùng
+### Xác định nguyên nhân
 
-- Xét nghiệm di truyền: NIPT, chọc ối hoặc sinh thiết gai rau để đánh giá lệch bội hoặc đột biến gen.
-- Siêu âm đánh giá hình thái: đo độ mờ da gáy, soft markers, dị tật bẩm sinh.
-- Xét nghiệm nhiễm trùng: Rubella IgM/IgG, CMV IgM, toxoplasma.
+Cần loại trừ nguyên nhân cấu trúc – di truyền – nhiễm trùng:
+
+- **Xét nghiệm di truyền**: NIPT, chọc ối hoặc sinh thiết gai rau để đánh giá lệch bội hoặc đột biến gen.
+- **Siêu âm đánh giá hình thái**: Đo độ mờ da gáy, soft markers, dị tật bẩm sinh.
+- **Xét nghiệm nhiễm trùng**: Rubella IgM/IgG, CMV IgM, toxoplasma.
 
 ### Theo dõi tăng trưởng
 
-- **Siêu âm định kỳ**: đánh giá EFW, AC, chiều dài xương đùi (FL), chu vi đầu (HC).
-- **Doppler velocimetry**: động mạch tử cung, động mạch rốn, động mạch não giữa, để phát hiện tăng sức cản hoặc giảm lưu lượng (đặc biệt ở IUGR sớm).
+- **Siêu âm định kỳ**: Đánh giá EFW, AC, chiều dài xương đùi (FL), chu vi đầu (HC).
+- **Doppler velocimetry**: Động mạch tử cung, động mạch rốn, động mạch não giữa, để phát hiện tăng sức cản hoặc giảm lưu lượng (đặc biệt ở IUGR sớm).
 - **Sinh đồ sinh vật lý** (NST + đánh giá cử động thai, trương lực, thở, nước ối).
 - **Thử nghiệm không căng thẳng (NST)** và **thử nghiệm căng thẳng co tử cung (CST)** nếu cần.
 
 ### Chỉ định corticosteroids
 
-- Mở rộng chỉ định đến 36 tuần vô kinh ở SGA/FGR, không chỉ dừng ở 34 tuần, để giảm nguy cơ suy hô hấp và xuất huyết não ở trẻ.
+- Mở rộng chỉ định đến **36 tuần vô kinh ở SGA/FGR, không chỉ dừng ở 34 tuần**, để giảm nguy cơ suy hô hấp và xuất huyết não ở trẻ.
 
 ### Chấm dứt thai kỳ
 
 - Cân bằng giữa lợi ích của nong nuôi dưỡng trong tử cung và nguy cơ thiếu oxy, toan máu thai nhi.
-- **IUGR sớm (< 32 tuần)**: ưu tiên sinh khi có bằng chứng Doppler bất lợi tiến triển (đảo dòng trong thì tâm trương, tăng chỉ số phản xạ kháng lực).
-- **IUGR muộn (> 32 tuần)**: ưu tiên dựa trên NST/CST và mức độ thiểu ối.
+- **IUGR sớm (< 32 tuần)**: Ưu tiên sinh khi có bằng chứng Doppler bất lợi tiến triển (đảo dòng trong thì tâm trương, tăng chỉ số phản xạ kháng lực).
+- **IUGR muộn (> 32 tuần)**: Ưu tiên dựa trên NST/CST và mức độ thiểu ối.
 - Sinh ngả âm đạo nếu đánh giá thai khả năng chịu đựng tốt và không có chỉ định sản khoa khác; ngược lại, cân nhắc mổ lấy thai.
 
-## IUGR trong song thai
+## Song thai
 
-- SGA trong song thai không đồng nghĩa IUGR; nhiều trường hợp chỉ là thai nhỏ theo constitution.
+- **SGA trong song thai không đồng nghĩa IUGR**; nhiều trường hợp chỉ là thai nhỏ theo constitution.
 - **IUGR thực sự**: Hội chứng truyền máu (TTTS) hoặc bất thường tử cung–rau không đủ cho hai thai.
 - Đánh giá riêng biệt từng thai bằng Doppler mạch rốn, NST và sinh đồ sinh vật lý.
 

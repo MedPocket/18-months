@@ -3,7 +3,7 @@ title: Rau tiền đạo
 description: Rau tiền đạo (Placenta previa) là tình trạng bánh rau bám thấp che hoặc đến lỗ trong cổ tử cung, gặp khoảng 0.5–1% các thai kỳ, có nguy cơ cao chảy máu, sinh non, truyền máu và mổ cắt tử cung do băng huyết
 ---
 
-Rau tiền đạo là khi bánh rau bám ở đoạn dưới tử cung thay vì bám ở thân tử cung bình thường, với bờ mép bánh rau cách hoặc che kín lỗ trong cổ tử cung.
+**Rau tiền đạo** là khi bánh rau bám ở đoạn dưới tử cung thay vì bám ở thân tử cung bình thường, với bờ mép bánh rau cách hoặc che kín lỗ trong cổ tử cung.
 
 ## Phân loại
 
@@ -32,9 +32,9 @@ Siêu âm qua đường âm đạo đo khoảng cách (mm) giữa mép bánh rau
 
 ### Lâm sàng
 
-- Ra huyết âm đạo đỏ tươi, đột ngột, không đau bụng, thường xuất hiện 3 tháng giữa hoặc 3 tháng cuối thai kỳ. Máu chảy từ các hồ máu mẹ ở đoạn dưới tử cung không được cơ tử cung co chặt sau sổ rau do thiếu lớp cơ đan chéo như ở thân tử cung. Đợt chảy máu đầu thường ngưng tự nhiên trong 1–2 giờ, nhưng dễ tái phát, không liên quan đến số lần xuất huyết trước.
-- Khám bụng: Tử cung mềm, không căng cứng.
-- Khám mỏ vịt (chỉ thực hiện trong phòng mổ): Thấy máu đỏ tươi từ lỗ trong cổ tử cung.
+- **Ra huyết âm đạo** đỏ tươi, đột ngột, không đau bụng, thường xuất hiện 3 tháng giữa hoặc 3 tháng cuối thai kỳ. Máu chảy từ các hồ máu mẹ ở đoạn dưới tử cung không được cơ tử cung co chặt sau sổ rau do thiếu lớp cơ đan chéo như ở thân tử cung. Đợt chảy máu đầu thường ngưng tự nhiên trong 1–2 giờ, nhưng dễ tái phát, không liên quan đến số lần xuất huyết trước.
+- **Khám bụng**: Tử cung mềm, không căng cứng.
+- **Khám mỏ vịt** (chỉ thực hiện trong phòng mổ): Thấy máu đỏ tươi từ lỗ trong cổ tử cung.
 
 ### Cận lâm sàng
 
@@ -90,10 +90,7 @@ Quyết định dựa trên tuổi thai, tình trạng mẹ và mức độ ch�
 - Nhập ICU hoặc phòng phẫu thuật, đặt 2 đường truyền, bù dịch, truyền máu (dự trù 2–4 đơn vị).
 - Giữ sonde tiểu để theo dõi lượng nước tiểu ≥ 30 mL/h.
 - Giảm đau, ổn định huyết động.
-- Mổ lấy thai cấp cứu và cầm máu:
-  - Thuốc co hồi tử cung (oxytocin, carbetocin, ergotamine...).
-  - Thắt động mạch tử cung hoặc bóng chẹn nội mạch.
-  - Cắt tử cung toàn phần nếu băng huyết không kiểm soát.
+- Mổ lấy thai cấp cứu và cầm máu: Thuốc co hồi tử cung (oxytocin, carbetocin, ergotamine...). Thắt động mạch tử cung hoặc bóng chẹn nội mạch. Cắt tử cung toàn phần nếu băng huyết không kiểm soát.
 - Gây tê vùng nếu dự kiến mổ nhanh, gây mê nội khí quản nếu phẫu thuật phức tạp (rau cài răng lược).
 
 ## Tài liệu tham khảo

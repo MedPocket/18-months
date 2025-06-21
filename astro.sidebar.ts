@@ -7,8 +7,13 @@ export const sidebar = starlightSidebarTopics([
     icon: "external",
     items: [
       "san-khoa/rau-thai",
-      "san-khoa/cu-dong-thai",
-      "san-khoa/sieu-am-doppler",
+      {
+        label: "Sức khỏe thai",
+        autogenerate: {
+          directory: "san-khoa/suc-khoe-thai",
+        },
+        collapsed: true,
+      },
       {
         label: "Chỉ số ối",
         autogenerate: {
@@ -87,10 +92,13 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "san-khoa/viem-gan-b",
-      "san-khoa/hiv",
-      "san-khoa/uon-van",
-      "san-khoa/thuy-dau",
+      {
+        label: "Bệnh truyền nhiễm trong thai kỳ",
+        autogenerate: {
+          directory: "san-khoa/truyen-nhiem",
+        },
+        collapsed: true,
+      },
       {
         label: "Sử dụng thuốc trong thai kỳ",
         autogenerate: {
@@ -99,9 +107,9 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Các vấn đề sau sinh",
+        label: "Hậu sản",
         autogenerate: {
-          directory: "san-khoa/sau-sinh",
+          directory: "san-khoa/hau-san",
         },
         collapsed: true,
       },

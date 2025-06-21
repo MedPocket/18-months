@@ -3,7 +3,7 @@ title: Rau cài răng lược
 description: Rau cài răng lược (Placenta accreta spectrum) là tình trạng bánh rau bám và xâm lấn sâu bất thường vào thành cơ tử cung, làm tăng cao nguy cơ chảy máu nghiêm trọng, phải truyền máu, cắt tử cung và tỷ lệ tử vong mẹ.
 ---
 
-Rau cài răng lược bao gồm các mức độ bám và xâm lấn sâu của gai rau vào cơ tử cung, từ chỉ dính chặt đến xuyên qua thanh mạc và các cơ quan lân cận.
+**Rau cài răng lược** bao gồm các mức độ bám và xâm lấn sâu của gai rau vào cơ tử cung, từ chỉ dính chặt đến xuyên qua thanh mạc và các cơ quan lân cận.
 
 ## Phân loại
 
@@ -28,24 +28,17 @@ _Bảng "Phân loại rau cài răng lược theo FIGO 2019"._
 
 ### Lâm sàng
 
-- Ra máu âm đạo không đặc hiệu, có thể tiểu máu nếu xâm lấn bàng quang.
-- Rau không bong sau sinh hoặc bong khó, bóc rau thủ công gây chảy máu ồ ạt.
+- **Ra máu âm đạo** không đặc hiệu, có thể tiểu máu nếu xâm lấn bàng quang.
+- **Rau không bong** sau sinh hoặc bong khó, bóc rau thủ công gây chảy máu ồ ạt.
 
 ### Cận lâm sàng
 
-#### Siêu âm
+**Siêu âm** là xét nghiệm đầu tay:
 
 - Tam cá nguyệt I (6–14 tuần): Túi thai làm tổ thấp, gần sẹo mổ cũ; thành trước đoạn dưới mỏng < 3 mm.
-- Tam cá nguyệt II–III (TVS & TAS):
-  - Lacunae ("moth-eaten"): Xoang mạch đa hình trong bánh rau.
-  - Đường echo ranh giới rau-cơ mỏng hoặc mất liên tục.
-  - "Placental bulge": Lồi rau qua thành tử cung.
-  - Cầu mạch máu và Doppler tăng sinh mạch rõ.
-  - Xâm lấn bàng quang: Mất đường echo thanh mạc và bàng quang.
+- Tam cá nguyệt II–III (TVS & TAS): Lacunae ("moth-eaten") xoang mạch đa hình trong bánh rau; Đường echo ranh giới rau-cơ mỏng hoặc mất liên tục; "Placental bulge" lồi rau qua thành tử cung; Cầu mạch máu và Doppler tăng sinh mạch rõ; Xâm lấn bàng quang mất đường echo thanh mạc và bàng quang.
 
-#### MRI
-
-- Khi siêu âm không rõ hoặc cần đánh giá xâm lấn mặt sau, mức độ percreta.
+**MRI**: Khi siêu âm không rõ hoặc cần đánh giá xâm lấn mặt sau, mức độ percreta.
 
 ## Điều trị
 

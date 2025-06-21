@@ -3,48 +3,57 @@ title: Steroid sinh dục
 description: Các steroid sinh dục (progesterone, androgen, estrogen) - nguồn gốc, sinh tổng hợp, cơ chế tác động và cơ quan đích.
 ---
 
-Steroid sinh dục (gonadal steroids) là các hormone có nguồn gốc từ buồng trứng ở nữ và tinh hoàn ở nam, chịu trách nhiệm điều hòa chức năng sinh sản và phát triển các đặc điểm sinh dục thứ cấp. Có ba họ chính:
+**Steroid sinh dục (gonadal steroids)** là các hormone có nguồn gốc từ buồng trứng ở nữ và tinh hoàn ở nam, chịu trách nhiệm điều hòa chức năng sinh sản và phát triển các đặc điểm sinh dục thứ cấp. Có ba họ chính:
 
-- **Progesterone** (C₂₁)
-- **Androgen** (C₁₉)
-- **Estrogen** (C₁₈)
-
-Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, rồi cắt ngắn dần chuỗi bên để tạo phân tử đích.
+- **Progesterone** (C₂₁).
+- **Androgen** (C₁₉).
+- **Estrogen** (C₁₈).
 
 ## Sinh tổng hợp
 
-1. **Cholesterol → Pregnenolone**: Tại ty thể, qua enzyme P450scc (side-chain cleavage).
-2. **Progesterone (C₂₁)**: Pregnenolone → progesterone (3β-HSD).
-3. **Androgen (C₁₉)**: Progesterone → 17α-OH-progesterone → androstenedione → testosterone.
-4. **Estrogen (C₁₈)**: Aromatase (P450aro) chuyển testosterone/androstenedione → estradiol/estrone; estriol chủ yếu sinh ra từ chuyển hóa ở gan và rau thai.
+Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, rồi cắt ngắn dần chuỗi bên để tạo phân tử đích:
+
+- **Cholesterol → Pregnenolone**: Tại ty thể, qua enzyme P450scc (side-chain cleavage).
+- **Progesterone (C₂₁)**: Pregnenolone → progesterone (3β-HSD).
+- **Androgen (C₁₉)**: Progesterone → 17α-OH-progesterone → androstenedione → testosterone.
+- **Estrogen (C₁₈)**: Aromatase (P450aro) chuyển testosterone/androstenedione → estradiol/estrone; estriol chủ yếu sinh ra từ chuyển hóa ở gan và rau thai.
 
 ## Vai trò và nguồn gốc
 
 ### Androgen
 
-- **Nguồn gốc**: Tế bào vỏ (theca interna) của nang noãn chưa lệ thuộc gonadotropin.
-- **Dạng lưu hành**: DHEA, androstenedione.
-- **Chức năng**:
-  - Chuẩn bị tế bào hạt (granulosa) để đáp ứng FSH, kích thích biểu hiện aromatase.
-  - Duy trì androgen–AMH–FSH–estrogen cân bằng, ngăn nang noãn lệ thuộc gonadotropin quá sớm.
+**Nguồn gốc**: Tế bào vỏ (theca interna) của nang noãn chưa lệ thuộc gonadotropin.
+
+**Dạng lưu hành**: DHEA, androstenedione.
+
+**Chức năng**:
+
+- Chuẩn bị tế bào hạt (granulosa) để đáp ứng FSH, kích thích biểu hiện aromatase.
+- Duy trì androgen–AMH–FSH–estrogen cân bằng, ngăn nang noãn lệ thuộc gonadotropin quá sớm.
 
 ### Estrogen
 
-- **Nguồn gốc**: Tế bào hạt của các nang noãn phát triển và hoàng thể.
-- **Dạng lưu hành**:
-  - **Estradiol (E₂)**: Mạnh nhất, chiếm ưu thế ở người trưởng thành.
-  - **Estrone (E₁)**: Yếu hơn, có thể đảo ngược ↔ E₂.
-  - **Estriol (E₃)**: Yếu nhất, chủ yếu ở thai kỳ (gan + rau).
-- **Tổng hợp**: Androgen → aromatase → estrogen.
-- **Chức năng**: Phát triển niêm mạc tử cung, hình thành các đặc điểm sinh dục thứ cấp, điều hòa GnRH/LH/FSH.
+**Nguồn gốc**: Tế bào hạt của các nang noãn phát triển và hoàng thể.
+
+**Dạng lưu hành**:
+
+- **Estradiol (E₂)**: Mạnh nhất, chiếm ưu thế ở người trưởng thành.
+- **Estrone (E₁)**: Yếu hơn, có thể đảo ngược ↔ E₂.
+- **Estriol (E₃)**: Yếu nhất, chủ yếu ở thai kỳ (gan + rau).
+
+**Tổng hợp**: Androgen → aromatase → estrogen.
+
+**Chức năng**: Phát triển niêm mạc tử cung, hình thành các đặc điểm sinh dục thứ cấp, điều hòa GnRH/LH/FSH.
 
 ### Progesterone
 
-- **Nguồn gốc**: Tế bào hoàng thể sau phóng noãn; một phần từ vỏ thượng thận.
-- **Chức năng**:
-  - Chuẩn bị nội mạc tử cung cho giai đoạn "phân tiết" (secretory), hỗ trợ làm tổ.
-  - Ức chế co cơ trơn tử cung, đóng cổ tử cung.
-  - Phối hợp với estrogen điều hòa trục HPT.
+**Nguồn gốc**: Tế bào hoàng thể sau phóng noãn; một phần từ vỏ thượng thận.
+
+**Chức năng**:
+
+- Chuẩn bị nội mạc tử cung cho giai đoạn "phân tiết" (secretory), hỗ trợ làm tổ.
+- Ức chế co cơ trơn tử cung, đóng cổ tử cung.
+- Phối hợp với estrogen điều hòa trục HPT.
 
 ## Tác động
 

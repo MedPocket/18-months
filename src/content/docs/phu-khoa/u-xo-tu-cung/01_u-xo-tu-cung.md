@@ -3,7 +3,7 @@ title: U xơ tử cung
 description: Tổng quan về u xơ cơ tử cung (leiomyoma) bệnh học, phân loại, chẩn đoán và điều trị nội – ngoại khoa.
 ---
 
-U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô liên kết tử cung, phụ thuộc estrogen–progesterone để phát triển.
+**U xơ cơ tử cung (leiomyoma)** là khối u lành tính của cơ trơn và mô liên kết tử cung, phụ thuộc estrogen–progesterone để phát triển.
 
 ## Bệnh sinh
 
@@ -13,7 +13,7 @@ U xơ cơ tử cung (leiomyoma) là khối u lành tính của cơ trơn và mô
 ## Yếu tố nguy cơ
 
 - **Tuổi**: Tăng đến tiền mãn kinh, giảm sau mãn kinh.
-- **Di truyền**: đột biến MED12, trisomy 12, đảo đoạn 12q, 6p...
+- **Di truyền**: Đột biến MED12, trisomy 12, đảo đoạn 12q, 6p...
 - **Nội tiết/chuyển hóa**: Béo phì, kháng insulin, tăng lipid, tăng huyết áp.
 - **Gia đình**: Mẹ/chị em gái có u xơ.
 
@@ -39,36 +39,51 @@ _Bảng "Phân loại FIGO 2011"._
 
 ### Lâm sàng
 
-- **Cơ năng**: Cường/rong kinh, thống kinh, đau hạ vị, chèn ép bàng quang/niệu quản/trực tràng, thiếu máu
-- **Thực thể**: Tử cung to, khối cứng, di động kém, sốt (thoái hóa)
+**Cơ năng**: Cường/rong kinh, thống kinh, đau hạ vị, chèn ép bàng quang/niệu quản/trực tràng, thiếu máu.
+
+**Thực thể**: Tử cung to, khối cứng, di động kém, sốt (thoái hóa)
 
 ### Cận lâm sàng
 
-- **Siêu âm thang xám**: Khối giảm âm, giới hạn rõ, bóng giảm âm sau.<br>
-  _Hình ảnh "U xơ tử cung trên siêu âm"._
-  ![U xơ tử cung trên siêu âm](./_images/u-xo-tu-cung-tren-sieu-am.png)
-  _Hình ảnh "Adenomyosis trên siêu âm"._
-  ![Adenomyosis trên siêu âm](./_images/adenomyosis-tren-sieu-am.png)
-  _Hình ảnh "Leiomyosarcoma trên siêu âm"._
-  ![Leiomyosarcoma trên siêu âm](./_images/leiomyosarcoma-tren-sieu-am.png)
-- **Doppler**: Mạch ngoại vi u xơ; phân biệt với polyp (mạch trung tâm) và adenomyosis (mạch nội vi).<br>
-  _Hình ảnh "U xơ tử cung trên siêu âm Doppler"._
-  ![U xơ tử cung trên siêu âm Doppler](./_images/u-xo-tu-cung-tren-sieu-am-doppler.png)
-  _Hình ảnh "Adenomyosis trên siêu âm Doppler"._
-  ![Adenomyosis trên siêu âm Doppler](./_images/adenomyosis-tren-sieu-am-doppler.png)
-- **Siêu âm 4D/đàn hồi**: đánh giá JZ, độ cứng.
-  _Hình ảnh "Adenomyosis trên siêu âm đàn hồi"._
-  ![Adenomyosis trên siêu âm đàn hồi](./_images/adenomyosis-tren-sieu-am-dan-hoi.png)
-- **Siêu âm bơm nước**: Với u xơ dưới niêm mạc.
-  _Hình ảnh "U xơ tử cung FIGO 0 trên SIS"._
-  ![U xơ tử cung FIGO 0 trên SIS](./_images/u-xo-tu-cung-figo-0-qua-sis.png)
-  _Hình ảnh "Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler"._
-  ![Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler](./_images/phan-biet-polyp-va-u-xo-tu-cung-figo-1-bang-doppler.png)
-- **MRI**: Phân biệt adenomyosis (JZ dày > 40%, tín hiệu hỗn hợp) với u xơ (tín hiệu đồng nhất giảm trên T2W).<br>
-  _Hình ảnh "MRI của adenomyosis và u xơ tử cung"._
-  ![MRI của adenomyosis và u xơ tử cung](./_images/adenomyosis-u-xo-tu-cung-tren-mri.png)
-  _Hình ảnh "Leiomyosarcoma trên MRI"._
-  ![Leiomyosarcoma trên MRI](./_images/leiomyosarcoma-tren-mri.png)
+**Siêu âm thang xám**: Khối giảm âm, giới hạn rõ, bóng giảm âm sau.
+
+_Hình ảnh "U xơ tử cung trên siêu âm"._
+![U xơ tử cung trên siêu âm](./_images/u-xo-tu-cung-tren-sieu-am.png)
+
+_Hình ảnh "Adenomyosis trên siêu âm"._
+![Adenomyosis trên siêu âm](./_images/adenomyosis-tren-sieu-am.png)
+
+_Hình ảnh "Leiomyosarcoma trên siêu âm"._
+![Leiomyosarcoma trên siêu âm](./_images/leiomyosarcoma-tren-sieu-am.png)
+
+**Doppler**: Mạch ngoại vi u xơ; phân biệt với polyp (mạch trung tâm) và adenomyosis (mạch nội vi).
+
+_Hình ảnh "U xơ tử cung trên siêu âm Doppler"._
+![U xơ tử cung trên siêu âm Doppler](./_images/u-xo-tu-cung-tren-sieu-am-doppler.png)
+
+_Hình ảnh "Adenomyosis trên siêu âm Doppler"._
+![Adenomyosis trên siêu âm Doppler](./_images/adenomyosis-tren-sieu-am-doppler.png)
+
+**Siêu âm 4D/đàn hồi**: Đánh giá JZ, độ cứng.
+
+_Hình ảnh "Adenomyosis trên siêu âm đàn hồi"._
+![Adenomyosis trên siêu âm đàn hồi](./_images/adenomyosis-tren-sieu-am-dan-hoi.png)
+
+**Siêu âm bơm nước**: Với u xơ dưới niêm mạc.
+
+_Hình ảnh "U xơ tử cung FIGO 0 trên SIS"._
+![U xơ tử cung FIGO 0 trên SIS](./_images/u-xo-tu-cung-figo-0-qua-sis.png)
+
+_Hình ảnh "Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler"._
+![Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler](./_images/phan-biet-polyp-va-u-xo-tu-cung-figo-1-bang-doppler.png)
+
+**MRI**: Phân biệt adenomyosis (JZ dày > 40%, tín hiệu hỗn hợp) với u xơ (tín hiệu đồng nhất giảm trên T2W).
+
+_Hình ảnh "MRI của adenomyosis và u xơ tử cung"._
+![MRI của adenomyosis và u xơ tử cung](./_images/adenomyosis-u-xo-tu-cung-tren-mri.png)
+
+_Hình ảnh "Leiomyosarcoma trên MRI"._
+![Leiomyosarcoma trên MRI](./_images/leiomyosarcoma-tren-mri.png)
 
 ### Chẩn đoán phân biệt
 
@@ -82,7 +97,7 @@ _Bảng "Phân loại FIGO 2011"._
 
 - **Xuất huyết**: Cường/rong kinh (30% chỉ định can thiệp).
 - **Chèn ép**: Bàng quang, niệu quản (thận ứ nước), trực tràng, TM chủ dưới.
-- **Thoái hóa/u xoắn**: đau cấp, sốt, tăng bạch cầu.
+- **Thoái hóa/u xoắn**: Đau cấp, sốt, tăng bạch cầu.
 - **Hiếm muộn**: Dưới niêm mạc, biến dạng lòng tử cung.
 - **Thai kỳ**: Ngôi bất thường, rau tiền đạo, bong non, sinh non
 
@@ -109,15 +124,18 @@ _Bảng "Các thuốc nội khoa điều trị u xơ"._
 
 ### Ngoại khoa
 
-- **Bóc u xơ**
-  - Nội soi buồng tử cung: Submucosal L0–L2 ≤ 5 cm.
-  - Nội soi ổ bụng: Subserosal/intramural ≤ 10 cm.
-  - Mổ mở: U lớn, lan tỏa, đa nhân.
-- **Cắt tử cung**
-  - Nghi ngờ ác tính, u đa nhân khó bóc, đủ con hoặc mong muốn bỏ tử cung.
-  - Đường nội soi, âm đạo hoặc mở tùy tổn thương & BN.
-- **Xâm lấn tối thiểu**
-  - UAE, HIFU, RFA.
+**Bóc u xơ**:
+
+- Nội soi buồng tử cung: Submucosal L0–L2 ≤ 5 cm.
+- Nội soi ổ bụng: Subserosal/intramural ≤ 10 cm.
+- Mổ mở: U lớn, lan tỏa, đa nhân.
+
+**Cắt tử cung**:
+
+- Nghi ngờ ác tính, u đa nhân khó bóc, đủ con hoặc mong muốn bỏ tử cung.
+- Đường nội soi, âm đạo hoặc mở tùy tổn thương & BN.
+
+**Xâm lấn tối thiểu**: UAE, HIFU, RFA.
 
 ## Tài liệu tham khảo
 

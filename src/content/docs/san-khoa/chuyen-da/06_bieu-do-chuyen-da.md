@@ -3,7 +3,7 @@ title: Biểu đồ chuyển dạ
 description: Sử dụng biểu đồ chuyển dạ.
 ---
 
-Hậu quả của chuyển dạ kéo dài rất nặng nề. Phần lớn các biến chứng sản khoa có liên quan đến chuyển dạ kéo dài hoặc chuyển dạ tắc nghẽn, nguyên nhân chính thường là bất xứng đầu-chậu. Tuy nhiên, cả hai tình trạng này đều có thể phòng tránh nếu được phát hiện sớm và xử trí đúng. Việc phòng ngừa chuyển dạ kéo dài mang lại nhiều lợi ích, và sản đồ là công cụ hiệu quả nhất trong việc này.
+Hậu quả của **chuyển dạ kéo dài** rất nặng nề. Phần lớn các biến chứng sản khoa có liên quan đến chuyển dạ kéo dài hoặc chuyển dạ tắc nghẽn, nguyên nhân chính thường là bất xứng đầu-chậu. Tuy nhiên, cả hai tình trạng này đều có thể phòng tránh nếu được phát hiện sớm và xử trí đúng. Việc phòng ngừa chuyển dạ kéo dài mang lại nhiều lợi ích, và sản đồ là công cụ hiệu quả nhất trong việc này.
 
 ## Chuyển dạ kéo dài
 
@@ -39,9 +39,9 @@ Chuyển dạ tắc nghẽn là tình trạng có cản trở cơ học khiến 
 
 ### Nguyên nhân
 
-- Nguyên nhân chủ yếu là do bất xứng đầu-chậu, ngôi bất thường (như ngôi mặt cằm sau, ngôi trán, ngôi ngang), dị tật thai (não úng thủy), hoặc khối u vùng chậu.
-- Bất xứng đầu-chậu là sự không tương thích giữa đường kính của phần trình thai và kích thước khung chậu.
-- Tình trạng này chỉ được xác định rõ trong quá trình chuyển dạ, khi thai không thể vượt qua khung chậu dù đã thực hiện các cơ chế điều chỉnh như cúi đầu, uốn khuôn... Những trường hợp có thể chẩn đoán bất xứng đầu-chậu trước chuyển dạ thường là thai quá to hoặc khung chậu quá nhỏ.
+Nguyên nhân chủ yếu là do **bất xứng đầu-chậu**, ngôi bất thường (như ngôi mặt cằm sau, ngôi trán, ngôi ngang), dị tật thai (não úng thủy), hoặc khối u vùng chậu. Bất xứng đầu-chậu là sự không tương thích giữa đường kính của phần trình thai và kích thước khung chậu.
+
+Tình trạng này chỉ được xác định rõ trong quá trình chuyển dạ, khi thai không thể vượt qua khung chậu dù đã thực hiện các cơ chế điều chỉnh như cúi đầu, uốn khuôn... Những trường hợp có thể chẩn đoán bất xứng đầu-chậu trước chuyển dạ thường là thai quá to hoặc khung chậu quá nhỏ.
 
 ### Hậu quả
 
@@ -71,15 +71,18 @@ Thai bị chèn ép lâu ngày giữa khung chậu và đầu thai sẽ gây ho�
 
 Khi ối vỡ kéo dài:
 
-1. Áp lực thay đổi trong buồng tử cung có thể đẩy vi khuẩn ngược dòng vào buồng ối.
-2. Khám âm đạo nhiều lần làm tăng nguy cơ nhiễm khuẩn.
+- Áp lực thay đổi trong buồng tử cung có thể đẩy vi khuẩn ngược dòng vào buồng ối.
+- Khám âm đạo nhiều lần làm tăng nguy cơ nhiễm khuẩn.
 
-Nhiễm trùng ối dẫn đến nhiễm trùng thai, sơ sinh, rồi đến nhiễm trùng mẹ (nội mạc tử cung, du khuẩn huyết, nhiễm trùng huyết...). Streptococcus nhóm B đặc biệt nguy hiểm. Dịch ối hôi, có phân su là dấu hiệu nghi ngờ. Khi có biểu hiện toàn thân ở mẹ (sốt, bạch cầu tăng, CRP tăng), cần xử trí khẩn cấp.
+Nhiễm trùng ối dẫn đến nhiễm trùng thai, sơ sinh, rồi đến nhiễm trùng mẹ (nội mạc tử cung, du khuẩn huyết, nhiễm trùng huyết...). Trong đó Streptococcus nhóm B đặc biệt nguy hiểm.
 
-## Biểu đồ chuyển dạ (Sản đồ)
+Dịch ối hôi, có phân su là dấu hiệu nghi ngờ. Khi có biểu hiện toàn thân ở mẹ (sốt, bạch cầu tăng, CRP tăng), cần xử trí khẩn cấp.
+
+## Biểu đồ chuyển dạ
+
+Biểu đồ chuyển dạ (Sản đồ) WHO model 1993 là công cụ mạnh trong theo dõi và phát hiện sớm chuyển dạ kéo dài, hỗ trợ can thiệp kịp thời.
 
 _Hình ảnh "Sản đồ WHO 1993"._
-Sản đồ WHO model 1993 là công cụ mạnh trong theo dõi và phát hiện sớm chuyển dạ kéo dài, hỗ trợ can thiệp kịp thời.
 ![Sản đồ WHO 1993](./_images/bieu-do-chuyen-da/bieu-do-chuyen-da-who-1993.png)
 
 ### Đặc điểm
@@ -88,7 +91,9 @@ Sản đồ WHO model 1993 là công cụ mạnh trong theo dõi và phát hiệ
 - **Đường hành động**: Song song với đường báo động, cách 4 giờ về bên phải. Khi chạm đường này, cần can thiệp quyết đoán (không nhất thiết là mổ).
 - Pha tiềm thời không được ghi trong sản đồ do khó xác định thời điểm bắt đầu. Việc ghi nhận diễn tiến được bắt đầu từ khi cổ tử cung mở ≥ 3 cm (model 1993).
 
-### Cải tiến WHO 2002
+### Cải tiến
+
+WHO 2002 cải tiến:
 
 - **Bỏ ghi pha tiềm thời và bỏ tịnh tiến**.
 - **Chỉ bắt đầu ghi từ khi cổ tử cung ≥ 4 cm**, nhằm tránh can thiệp sớm khi chưa vào pha hoạt động thực sự.

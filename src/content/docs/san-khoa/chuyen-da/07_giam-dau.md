@@ -3,17 +3,15 @@ title: Giảm đau trong chuyển dạ
 description: Sử dụng giảm đau trong chuyển dạ.
 ---
 
-Đau là một hiện tượng chủ quan, thay đổi tùy theo tính chất và cường độ cảm nhận của từng cá nhân. Trong chuyển dạ, cảm giác đau truyền qua các đoạn tủy sống, nơi tiếp nhận tín hiệu từ tử cung, cổ tử cung, khung chậu và tầng sinh môn. Khi không có biện pháp giảm đau, các tín hiệu thần kinh này có thể lan rộng và kích hoạt các đoạn tủy kế cận, làm tăng cảm giác đau lan tỏa.
+**Đau** là một hiện tượng chủ quan, thay đổi tùy theo tính chất và cường độ cảm nhận của từng cá nhân. Trong chuyển dạ, cảm giác đau truyền qua các đoạn tủy sống, nơi tiếp nhận tín hiệu từ tử cung, cổ tử cung, khung chậu và tầng sinh môn. Khi không có biện pháp giảm đau, các tín hiệu thần kinh này có thể lan rộng và kích hoạt các đoạn tủy kế cận, làm tăng cảm giác đau lan tỏa.
 
-## Đau trong chuyển dạ
+## Sinh lý
 
-### Đặc điểm
+- Trong giai đoạn I, đau chủ yếu xuất phát từ các cơn co tử cung gây **xóa và mở cổ tử cung**. Cơn co làm căng và kéo giãn cổ tử cung, tạo áp lực lên các đầu dây thần kinh tại cơ tử cung và vùng đáy tử cung, dẫn đến đau. Ngoài ra, đau còn có thể đến từ co thắt tử cung, thiếu máu cục bộ và co mạch do hoạt động giao cảm gia tăng. Đáp ứng của hệ thần kinh trung ương và ngoại vi đối với các kích thích này làm tăng cảm nhận đau, thường biểu hiện ở vùng giữa rốn và xương mu, lan ra sau lưng trên vùng xương cùng. Đây là sự kết hợp giữa đau nội tạng từ tử cung, cổ tử cung và đau thân thể từ khung chậu, âm đạo, tầng sinh môn, thành bụng và lưng.
+- Ở giai đoạn II, khi cổ tử cung đã mở hoàn toàn, đau do **căng giãn các cấu trúc sàn chậu và tầng sinh môn** trở nên nổi bật. Phần trình diện của thai gây áp lực lên niệu đạo, bàng quang, cơ và dây chằng của vùng tiểu khung.
+- Vào cuối giai đoạn II và trong giai đoạn III, đau phản ánh **quá trình thai lọt và rau bong**, cùng với tình trạng tăng cảm giác đau ở cả hệ thần kinh ngoại vi và trung ương. Tăng cảm giác đau cơ học, dẫn truyền qua sợi Aδ, có thể tồn tại sau sinh, đặc biệt nếu có thực hiện thủ thuật cắt tầng sinh môn.
 
-- Trong giai đoạn I, đau chủ yếu xuất phát từ các cơn co tử cung gây xóa và mở cổ tử cung. Cơn co làm căng và kéo giãn cổ tử cung, tạo áp lực lên các đầu dây thần kinh tại cơ tử cung và vùng đáy tử cung, dẫn đến đau. Ngoài ra, đau còn có thể đến từ co thắt tử cung, thiếu máu cục bộ và co mạch do hoạt động giao cảm gia tăng. Đáp ứng của hệ thần kinh trung ương và ngoại vi đối với các kích thích này làm tăng cảm nhận đau, thường biểu hiện ở vùng giữa rốn và xương mu, lan ra sau lưng trên vùng xương cùng. Đây là sự kết hợp giữa đau nội tạng từ tử cung, cổ tử cung và đau thân thể từ khung chậu, âm đạo, tầng sinh môn, thành bụng và lưng.
-- Ở giai đoạn II, khi cổ tử cung đã mở hoàn toàn, đau do căng giãn các cấu trúc sàn chậu và tầng sinh môn trở nên nổi bật. Phần trình diện của thai gây áp lực lên niệu đạo, bàng quang, cơ và dây chằng của vùng tiểu khung.
-- Vào cuối giai đoạn II và trong giai đoạn III, đau phản ánh quá trình thai lọt và rau bong, cùng với tình trạng tăng cảm giác đau ở cả hệ thần kinh ngoại vi và trung ương. Tăng cảm giác đau cơ học, dẫn truyền qua sợi Aδ, có thể tồn tại sau sinh, đặc biệt nếu có thực hiện thủ thuật cắt tầng sinh môn.
-
-### Yếu tố ảnh hưởng
+## Yếu tố ảnh hưởng
 
 _Hình ảnh "Các yếu tố ảnh hưởng đến đau trong chuyển dạ"._
 ![Các yếu tố ảnh hưởng đến đau trong chuyển dạ](./_images/giam-dau-trong-chuyen-da/yeu-to-anh-huong-den-dau-trong-chuyen-da.png)
@@ -25,9 +23,9 @@ _Hình ảnh "Các yếu tố ảnh hưởng đến đau trong chuyển dạ"._
 - **Tuổi**: Phụ nữ lớn tuổi thường chịu đau tốt hơn trong chuyển dạ so với những sản phụ trẻ tuổi.
 - **Yếu tố khác**: Tiền sử đau nhiều khi hành kinh, đau lưng mạn tính có thể ảnh hưởng đến cảm nhận đau trong chuyển dạ. Tư thế thai và sử dụng oxytocin vẫn còn gây tranh cãi về vai trò đối với cảm giác đau. Sự khác biệt về văn hóa, tôn giáo, cá tính và kinh nghiệm sinh đẻ cũng ảnh hưởng rõ rệt đến cảm nhận đau.
 
-## Giảm đau trong chuyển dạ
+## Lợi ích
 
-Đau trong chuyển dạ không có lợi ích sinh lý thiết yếu và không nên bị coi là "cần thiết". Giảm đau hiệu quả không những nâng cao trải nghiệm sinh đẻ mà còn có thể cải thiện kết cục sản khoa. Tuy nhiên, một số người vẫn tin rằng chịu đựng đau sẽ giúp sinh nở tốt hơn hoặc sợ rằng giảm đau sẽ làm chậm chuyển dạ — những điều này chưa có bằng chứng rõ ràng.
+Đau trong chuyển dạ **không có lợi ích sinh lý thiết yếu và không nên bị coi là "cần thiết"**. Giảm đau hiệu quả không những nâng cao trải nghiệm sinh đẻ mà còn có thể cải thiện kết cục sản khoa. Tuy nhiên, một số người vẫn tin rằng chịu đựng đau sẽ giúp sinh nở tốt hơn hoặc sợ rằng giảm đau sẽ làm chậm chuyển dạ — những điều này chưa có bằng chứng rõ ràng.
 
 _Hình ảnh "Các phương pháp có thể dùng để giảm đau trong chuyển dạ"._
 ![Các phương pháp có thể dùng để giảm đau trong chuyển dạ](./_images/giam-dau-trong-chuyen-da/cac-phuong-phap-gay-te.png)
@@ -48,7 +46,7 @@ _Hình ảnh "Vị trí đâm kim tê ngoài màng cứng"._
 
 ### Chống chỉ định
 
-Hai chống chỉ định tuyệt đối của tê ngoài màng cứng:
+**Hai chống chỉ định tuyệt đối** của tê ngoài màng cứng:
 
 1. Bệnh nhân từ chối.
 2. Nhiễm trùng tại vị trí chọc kim.

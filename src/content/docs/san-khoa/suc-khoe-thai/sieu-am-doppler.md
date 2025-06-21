@@ -10,11 +10,9 @@ Trong sản khoa, khảo sát động học dòng chảy trong các mạch máu 
 - **RI**: Resistance Index, chỉ số kháng trở. RI = (S-D)/S.
 - **PI**: Pulsatility Index, chỉ số đập. PI = (S-D)/A (với A = Vm, vận tốc trung bình).
 
-## Doppler động mạch tử cung
+## Doppler động mạch tử cung (UtA)
 
-Siêu âm khảo sát động học dòng chảy động mạch tử cung bằng Doppler là phương pháp không xâm lấn đánh giá trở kháng của các mạch máu cung cấp cho bánh rau.
-
-Trong thai kỳ bình thường, động mạch tử cung có trở kháng thấp. Tăng vận tốc dòng chảy và giảm trở kháng của hệ thống động mạch tử cung là đặc điểm phổ Doppler bình thường.
+Siêu âm khảo sát động học dòng chảy động mạch tử cung (Uterine artery - UtA) bằng Doppler là phương pháp không xâm lấn đánh giá trở kháng của các mạch máu cung cấp cho bánh rau. Trong thai kỳ bình thường, động mạch tử cung có trở kháng thấp. Tăng vận tốc dòng chảy và giảm trở kháng của hệ thống động mạch tử cung là đặc điểm phổ Doppler bình thường.
 
 Bánh rau phát triển sâu vào màng rụng của tử cung. Các nguyên bào nuôi xâm nhập, tấn công các động mạch xoắn, và biến những mạch máu này thành những shunt (cầu nối giữa tiểu động mạch và tiểu tĩnh mạch). Sự hiện diện các shunt tại các hồ máu đã triệt tiêu trở kháng của hệ thống động mạch tử cung. Hình thành các shunt là điều kiện tiên quyết cho tưới máu nuôi dưỡng bào thai. Thai kỳ càng tiến triển, sự xâm nhập của tế bào nuôi càng mãnh liệt, dẫn đến trở kháng động mạch tử cung giảm dần do cấu trúc cơ thành tiểu động mạch bị phá hủy.
 
@@ -36,17 +34,13 @@ _Bảng "Chỉ định Doppler động mạch tử cung tuần 17-22"._
 
 Tầm soát bằng phổ Doppler động mạch tử cung được xem là bất thường khi chỉ số kháng trở (RI) > 0.57, chỉ số đập (PI) > bách phân vị 95th và/hoặc hiện diện notch ở động mạch tử cung.
 
-## Doppler động mạch rốn
+## Doppler động mạch rốn (UmA)
 
-Trong thai kỳ bình thường, động mạch rốn có trở kháng thấp và giảm dần về cuối thai kỳ.
+Trong thai kỳ bình thường, động mạch rốn (Umbilical artery - UmA) có trở kháng thấp và giảm dần về cuối thai kỳ.
 
-Lưu thông máu qua động mạch rốn thai nhi đặc trưng bởi dòng chảy với trở kháng thấp, liên tục về phía bánh rau. Trên phổ Doppler, tỷ lệ vận tốc tâm thu và tâm trương (S/D) giảm dần theo tuổi thai.
+Lưu thông máu qua động mạch rốn thai nhi đặc trưng bởi dòng chảy với trở kháng thấp, liên tục về phía bánh rau. Trên phổ Doppler, tỷ lệ vận tốc tâm thu và tâm trương (S/D) giảm dần theo tuổi thai. Động mạch rốn đổ vào các vi nhung mao của rau, hệ thống phát triển tăng dần theo tuổi thai. Tuổi thai càng lớn, các cấu trúc mạch máu trong bánh rau càng phân nhánh nhỏ dần làm giảm trở kháng của giường rau (placenta bed).
 
-Động mạch rốn đổ vào các vi nhung mao của rau, hệ thống phát triển tăng dần theo tuổi thai. Tuổi thai càng lớn, các cấu trúc mạch máu trong bánh rau càng phân nhánh nhỏ dần làm giảm trở kháng của giường rau (placenta bed).
-
-Không nên tầm soát thường quy bằng Doppler động mạch rốn ở thai kỳ khỏe mạnh, phát triển bình thường, do chưa chứng minh được lợi ích và có thể gây ảnh hưởng không mong muốn.
-
-Các bệnh lý như tăng huyết áp thai kỳ, thai chậm tăng trưởng trong tử cung dẫn đến suy thoái chức năng tuần hoàn rau thai, do kết tập tiểu cầu, lắng đọng fibrin và xơ hóa bánh rau. Điều này làm tăng trở kháng dòng chảy của tuần hoàn rốn. Các chỉ số Doppler bất thường như tăng tỷ lệ S/D, RI hoặc PI cao hơn bách phân vị 95th.
+Không nên tầm soát thường quy bằng Doppler động mạch rốn ở thai kỳ khỏe mạnh, phát triển bình thường, do chưa chứng minh được lợi ích và có thể gây ảnh hưởng không mong muốn. Các bệnh lý như tăng huyết áp thai kỳ, thai chậm tăng trưởng trong tử cung dẫn đến suy thoái chức năng tuần hoàn rau thai, do kết tập tiểu cầu, lắng đọng fibrin và xơ hóa bánh rau. Điều này làm tăng trở kháng dòng chảy của tuần hoàn rốn. Các chỉ số Doppler bất thường như tăng tỷ lệ S/D, RI hoặc PI cao hơn bách phân vị 95th.
 
 _Hình ảnh "PI trung bình của động mạch rốn"._
 ![PI trung bình của động mạch rốn](./_images/sieu-am-doppler/pi-trung-binh-cua-dong-mach-ron.png)
@@ -61,11 +55,9 @@ _Hỉnh ảnh "Vắng mặt dòng chảy trong tâm trương động mạch rố
 _Hỉnh ảnh "Đảo ngược dòng chảy trong tâm trương động mạch rốn"._
 ![Đảo ngược dòng chảy trong tâm trương động mạch rốn](./_images/sieu-am-doppler/dao-nguoc-dong-chay-trong-tam-truong-dong-mach-ron.png)
 
-## Doppler động mạch não giữa
+## Doppler động mạch não giữa (MCA)
 
-Ở thai kỳ bình thường, trở kháng của động mạch não giữa cao hơn động mạch rốn.
-
-Trong trường hợp thiếu oxy trường diễn, hiện tượng giãn mạch não xảy ra, làm chỉ số trở kháng này đảo ngược.
+Ở thai kỳ bình thường, trở kháng của động mạch não giữa (Middle Cerebral Artery - MCA) cao hơn động mạch rốn. Trong trường hợp thiếu O₂ trường diễn, hiện tượng giãn mạch não xảy ra, làm chỉ số trở kháng này đảo ngược.
 
 Đỉnh tâm thu của động mạch não giữa liên quan chặt chẽ đến tình trạng thiếu máu nặng của bào thai (độ nhạy gần 100%). Khi thiếu máu mức độ trung bình hoặc nhẹ, độ dương giả sẽ tăng dần.
 

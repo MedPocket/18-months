@@ -9,7 +9,7 @@ description: Ý nghĩa, cách thực hiện và quản lý khi đếm cử độ
 
 **Tình trạng tưới máu bánh rau bị giảm sút và thai nhi bị toan hóa máu** thì cử động thai cũng giảm. Đây là cơ sở cho việc thực hiện đếm cử động thai (fetal movement count):
 
-- **Thai kỳ có nguy cơ (high risk pregnancies)** thì sự kiện cử động thai giảm có liên quan với việc tăng tỷ lệ các thai kỳ với kết cục xấu như tử vong thai, thai chậm tăng trưởng, điểm số Apgar thấp, cần mổ lấy thai cấp cứu...
+- **Thai kỳ có nguy cơ cao** thì sự kiện cử động thai giảm có liên quan với việc tăng tỷ lệ các thai kỳ với kết cục xấu như tử vong thai, thai chậm tăng trưởng, điểm số Apgar thấp, cần mổ lấy thai cấp cứu...
 - **Thai phụ có nguy cơ thấp** thì việc đếm cử động thai cũng giúp làm giảm tỷ lệ tử vong thai so với nhóm chứng, mặc dù sự khác biệt này không có ý nghĩa thống kê.
 
 ## Yếu tố nguy cơ
@@ -27,13 +27,11 @@ Hầu hết thai phụ **nhận biết cử động thai đều đặn sau 24 tu
 Đếm cử động thai được **khuyến cáo thực hiện khi tuổi thai từ khoảng 26–32 tuần** vì:
 
 - Phát hiện các bất thường về tình trạng thai và có can thiệp cứu sống thai khi tình trạng sức khỏe thai bất thường.
-- Việc can thiệp cho sinh ở những thai cực non cũng không giúp cứu sống trẻ sau đó, nên phương pháp này không được xem là cần thiết để thực hiện trước thời điểm sơ sinh có thể sống sót được (viable).
+- Việc can thiệp cho sinh ở những thai cực non cũng không giúp cứu sống trẻ sau đó, nên phương pháp này không được xem là cần thiết để thực hiện trước thời điểm sơ sinh có thể sống sót được.
 
-Thai nhi khỏe mạnh thường có **khoảng 10 cử động trong 20 phút**. Chu kỳ ngủ của bé có thể kéo dài từ 20 đến 40 phút. Sadovsky, Moore và Neldam đề nghị ≤ 3 cử động/giờ là bất thường. Ở thai nhi khỏe mạnh, chu kỳ ngủ không bao giờ kéo dài quá 90 phút.
+Thai nhi khỏe mạnh thường có **khoảng 10 cử động trong 20 phút**. Chu kỳ ngủ của bé có thể kéo dài từ 20 đến 40 phút. Sadovsky, Moore và Neldam đề nghị **≤ 3 cử động/giờ là bất thường**. Ở thai nhi khỏe mạnh, **chu kỳ ngủ không bao giờ kéo dài quá 90 phút**.
 
-Tư thế nằm là tư thế đếm cử động thai được nhận biết tốt hơn.
-
-Thời điểm được lựa chọn để đếm cử động thai là đầu buổi tối, khi sản phụ có thể tập trung vào việc này.
+Tư thế nằm là tư thế đếm cử động thai được nhận biết tốt hơn. Thời điểm được lựa chọn để đếm cử động thai là đầu buổi tối, khi sản phụ có thể tập trung vào việc này.
 
 Cử động thai không liên quan đến bữa ăn.
 
@@ -41,10 +39,9 @@ Cử động thai không liên quan đến bữa ăn.
 
 Có nhiều cách đếm cử động thai:
 
+- Hiệp hội các nhà Sản Phụ khoa Canada (SOGC) khuyến cáo thai phụ nên được hướng dẫn đếm cho tới 6 cử động thai riêng biệt. Nếu không đạt được trong vòng 2 giờ, cần thực hiện thêm các phương pháp đánh giá sức khỏe thai khác.
 - Phương pháp Cardiff do Pearson báo cáo đầu tiên đề nghị đếm tới 10 cử động trong khoảng thời gian nhất định. Những nghiên cứu ban đầu yêu cầu đếm trong 12 giờ, sau đó được rút ngắn còn 6 giờ (Liston) hoặc 2 giờ (Moore).
 - Phương pháp Sadovsky đề nghị đếm cử động thai trong khoảng thời gian từ 30 phút đến 2 giờ.
-
-Hiệp hội các nhà Sản Phụ khoa Canada (SOGC) khuyến cáo thai phụ nên được hướng dẫn đếm cho tới 6 cử động thai riêng biệt. Nếu không đạt được trong vòng 2 giờ, cần thực hiện thêm các phương pháp đánh giá sức khỏe thai khác.
 
 :::caution
 Nên thông tin cho thai phụ biết rằng ở những trường hợp dương tính (< 6 cử động trong 2 giờ) có tỷ lệ dương giả khá cao, và kết cục thai kỳ sau đó thường là tốt.
@@ -52,11 +49,9 @@ Nên thông tin cho thai phụ biết rằng ở những trường hợp dương
 
 ## Quản lý
 
-Non-stress test (NST) và siêu âm là 2 test đầu tay khi ghi nhận có giảm cử động thai.
+Non-stress test (NST) và siêu âm là 2 test đầu tay khi ghi nhận có giảm cử động thai. Các test hỗ trợ nên được thực hiện càng sớm càng tốt (trong vòng 1–12 giờ sau khi phát hiện giảm cử động thai) theo sau bất thường của đếm cử động thai.
 
-Các test hỗ trợ nên được thực hiện càng sớm càng tốt (trong vòng 1–12 giờ sau khi phát hiện giảm cử động thai) theo sau bất thường của đếm cử động thai.
-
-Siêu âm giúp loại trừ bất thường về cấu trúc, khảo sát lượng nước ối, đánh giá sinh trắc thai...
+**Siêu âm** giúp loại trừ bất thường về cấu trúc, khảo sát lượng nước ối, đánh giá sinh trắc thai...
 
 **Non-stress test (NST)**:
 

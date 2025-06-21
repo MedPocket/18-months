@@ -79,19 +79,22 @@ Phụ thuộc vào:
 
 ### Các bước tư vấn
 
-1. **Sàng lọc về tính an toàn**
-   - Hỏi về: Bệnh lý tim mạch, nội tiết, gan, huyết khối, thuốc đang dùng...
-   - Phân loại theo **WHO 1–4**. **Loại 3–4** → Không đưa vào danh sách gợi ý.
-2. **Lập danh sách phương pháp phù hợp**
-   - Ưu tiên:
-     - Loại 1 → Theo hiệu quả giảm dần.
-     - Sau đó đến loại 2.
-   - Cung cấp thông tin: Hiệu quả, tác dụng phụ, cách sử dụng.
-3. **Lựa chọn của người dùng**
-   - Người dùng chọn trong danh sách, dựa trên điều kiện và sở thích cá nhân.
-4. **Chỉ định phương tiện cụ thể**
-   - Lựa chọn thương hiệu, kích cỡ, liều lượng cụ thể.
-   - Đảm bảo sẵn có trên thị trường & phù hợp về kinh tế.
+**Sàng lọc về tính an toàn**:
+
+- Hỏi về: Bệnh lý tim mạch, nội tiết, gan, huyết khối, thuốc đang dùng...
+- Phân loại theo **WHO 1–4**. **Loại 3–4** → Không đưa vào danh sách gợi ý.
+
+**Lập danh sách phương pháp phù hợp**:
+
+- Ưu tiên: Loại 1 → Theo hiệu quả giảm dần.
+- Cung cấp thông tin: Hiệu quả, tác dụng phụ, cách sử dụng.
+
+**Lựa chọn của người dùng**: Người dùng chọn trong danh sách, dựa trên điều kiện và sở thích cá nhân.
+
+**Chỉ định phương tiện cụ thể**:
+
+- Lựa chọn thương hiệu, kích cỡ, liều lượng cụ thể.
+- Đảm bảo sẵn có trên thị trường & phù hợp về kinh tế.
 
 ### Tình huống cụ thể
 

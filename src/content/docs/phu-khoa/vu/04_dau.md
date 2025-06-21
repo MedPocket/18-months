@@ -3,13 +3,14 @@ title: Đau vú
 description: Đau vú (mastalgia) là triệu chứng phổ biến khiến phụ nữ đến khám, với nhiều nguyên nhân và mức độ khác nhau. Tài liệu này tổng hợp phân loại, cơ chế, chẩn đoán hình ảnh, cũng như các phương pháp điều trị và quản lý đau vú.
 ---
 
-Đau vú (mastalgia) là triệu chứng thường gặp và là nguyên nhân chính khiến phụ nữ tìm đến khám tuyến vú.
+**Đau vú (mastalgia)** là triệu chứng thường gặp và là nguyên nhân chính khiến phụ nữ tìm đến khám tuyến vú.
 
-- Khoảng 50% phụ nữ khi đến khám liên quan đến vấn đề đau vú.
-- Có đến 60–70% phụ nữ từng trải qua ít nhất một lần đau vú ở mức độ nhẹ, trong khi khoảng 10–20% từng bị đau vú trầm trọng hơn.
-- Hai mối lo ngại lớn nhất của người phụ nữ khi bị đau vú là:
-  1. Đau vú có phải là biểu hiện của ung thư vú không?
-  2. Đau vú ảnh hưởng đến sinh hoạt hàng ngày và đời sống tình dục ra sao?
+Khoảng 50% phụ nữ khi đến khám liên quan đến vấn đề đau vú. Có đến 60–70% phụ nữ từng trải qua ít nhất một lần đau vú ở mức độ nhẹ, trong khi khoảng 10–20% từng bị đau vú trầm trọng hơn.
+
+**Hai mối lo ngại lớn nhất** của người phụ nữ khi bị đau vú là:
+
+1. Đau vú có phải là biểu hiện của ung thư vú không?
+2. Đau vú ảnh hưởng đến sinh hoạt hàng ngày và đời sống tình dục ra sao?
 
 ## Phân loại
 
@@ -25,17 +26,22 @@ description: Đau vú (mastalgia) là triệu chứng phổ biến khiến phụ
 
 Nguyên nhân chính của đau vú theo chu kỳ liên quan đến thay đổi nội tiết tố trong chu kỳ kinh nguyệt. Có ba giả thuyết lớn:
 
-1. **Tăng nồng độ estrogen**
-   - Khi estrogen tăng cao trong pha nang trứng, có thể gây quá kích tế bào biểu mô vú, dẫn đến căng giãn và đau.
-   - Tuy nhiên, các nghiên cứu cho thấy nồng độ estrogen ở nhóm phụ nữ đau vú và nhóm chứng tương tự, nên giả thuyết này chưa được khẳng định.
-2. **Thiếu progesterone**
-   - Một số nghiên cứu ghi nhận nồng độ progesterone ở pha hoàng thể thấp hơn ở phụ nữ đau vú so với nhóm đối chứng.
-   - Thiếu progesterone có thể khiến mô vú không được duy trì cân bằng, dẫn đến phù nề và đau.
-   - Tuy vậy, lẽ ra nếu nguyên nhân chỉ do progesterone thì đau phải đều ở hai bên vú, nhưng thực tế một số trường hợp lại đau nặng ở một bên, cho thấy còn có yếu tố khác phối hợp.
-3. **Tăng prolactin**
-   - Nồng độ prolactin cao bất thường, kể cả khi không có thai, có thể gây ra đau căng vú.
-   - Stress cũng làm tăng prolactin và gây co giãn các ống dẫn sữa, dẫn đến đau.
-     Ngoài ra, một số yếu tố khác có thể góp phần:
+**Tăng nồng độ estrogen**:
+
+- Khi estrogen tăng cao trong pha nang trứng, có thể gây quá kích tế bào biểu mô vú, dẫn đến căng giãn và đau.
+- Tuy nhiên, các nghiên cứu cho thấy nồng độ estrogen ở nhóm phụ nữ đau vú và nhóm chứng tương tự, nên giả thuyết này chưa được khẳng định.
+
+**Thiếu progesterone**:
+
+- Một số nghiên cứu ghi nhận nồng độ progesterone ở pha hoàng thể thấp hơn ở phụ nữ đau vú so với nhóm đối chứng.
+- Thiếu progesterone có thể khiến mô vú không được duy trì cân bằng, dẫn đến phù nề và đau.
+- Tuy vậy, lẽ ra nếu nguyên nhân chỉ do progesterone thì đau phải đều ở hai bên vú, nhưng thực tế một số trường hợp lại đau nặng ở một bên, cho thấy còn có yếu tố khác phối hợp.
+
+**Tăng prolactin**:
+
+- Nồng độ prolactin cao bất thường, kể cả khi không có thai, có thể gây ra đau căng vú.
+- Stress cũng làm tăng prolactin và gây co giãn các ống dẫn sữa, dẫn đến đau.
+  Ngoài ra, một số yếu tố khác có thể góp phần:
 
 **Giữa nước chu kỳ**: Giữ nước có thể khiến mô vú phù nề, nhưng các nghiên cứu so sánh tổng lượng nước cơ thể ở ngày thứ 5 và thứ 25 của chu kỳ không thấy khác biệt rõ rệt giữa nhóm đau vú và nhóm không đau.
 
@@ -91,26 +97,29 @@ Nguyên nhân chính của đau vú theo chu kỳ liên quan đến thay đổi 
 
 - Với phụ nữ ≥ 35 tuổi khi có triệu chứng đau vú, **nhũ ảnh** cần được thực hiện để loại trừ các bất thường cấu trúc (như u đặc, vôi hóa vi thể).
 - Nhũ ảnh kỹ thuật số (Digital Mammography) ưu việt hơn nhũ ảnh phim nhờ khả năng xử lý hình ảnh số, cho phép phóng to, điều chỉnh độ tương phản.
-- Hai tư thế tiêu chuẩn bắt buộc:
-  1. **CC (Craniocaudal View)**: Cho hình ảnh toàn bộ vú, thấy rõ cơ ngực lớn phía sau, bao gồm cả 1/4 trong và 1/4 ngoài của vú.
-  2. **MLO (Mediolateral Oblique View)**: Cho phép đánh giá vùng 1/4 trên ngoài – nơi thường gặp tổn thương ác tính, và nhìn thấy cơ ngực lớn để xác định độ sâu của mô vú.
+- Hai tư thế tiêu chuẩn bắt buộc: **CC (Craniocaudal View)** cho hình ảnh toàn bộ vú, thấy rõ cơ ngực lớn phía sau, bao gồm cả 1/4 trong và 1/4 ngoài của vú. **MLO (Mediolateral Oblique View)** cho phép đánh giá vùng 1/4 trên ngoài – nơi thường gặp tổn thương ác tính, và nhìn thấy cơ ngực lớn để xác định độ sâu của mô vú.
 - Nếu hình ảnh nhũ ảnh bình thường và không phát hiện khối cục, bệnh nhân có thể được trấn an. Nếu có bất thường (khối, vôi hóa, xơ hóa nghi ngờ), cần kết hợp siêu âm hoặc sinh thiết.
 
 ### Siêu âm
 
-- **Chỉ định**:
-  - Phụ nữ < 35 tuổi hoặc vú đậm đặc mà nhũ ảnh kém nhạy.
-  - Khám lâm sàng phát hiện khối u hoặc đau khu trú không rõ nguyên nhân.
-  - Hướng dẫn thủ thuật FNA (chọc hút tế bào) hoặc core biopsy.
-- **Ưu điểm**:
-  - Phân biệt nang – khối đặc, xác định tính chất dịch bên trong.
-  - Định vị chính xác khối để sinh thiết hoặc chọc hút.
-  - Không sử dụng tia X, an toàn cho phụ nữ mang thai hoặc cho con bú.
-- **Kỹ thuật thực hiện**:
-  1. Bệnh nhân nằm ngửa, hai tay đặt lên đầu để căng giãn mô vú.
-  2. Thăm dò theo các lát cắt: Lưới dọc – ngang, nan hoa (radial) và tiếp tuyến (antiradial).
-  3. Khảo sát hạch nách để phát hiện hạch to, thay đổi cấu trúc.
-  4. Siêu âm Doppler để đánh giá tưới máu khối u (giúp phân biệt lành – ác).
+**Chỉ định**:
+
+- Phụ nữ < 35 tuổi hoặc vú đậm đặc mà nhũ ảnh kém nhạy.
+- Khám lâm sàng phát hiện khối u hoặc đau khu trú không rõ nguyên nhân.
+- Hướng dẫn thủ thuật FNA (chọc hút tế bào) hoặc core biopsy.
+
+**Ưu điểm**:
+
+- Phân biệt nang – khối đặc, xác định tính chất dịch bên trong.
+- Định vị chính xác khối để sinh thiết hoặc chọc hút.
+- Không sử dụng tia X, an toàn cho phụ nữ mang thai hoặc cho con bú.
+
+**Quy trình**:
+
+- Bệnh nhân nằm ngửa, hai tay đặt lên đầu để căng giãn mô vú.
+- Thăm dò theo các lát cắt: Lưới dọc – ngang, nan hoa (radial) và tiếp tuyến (antiradial).
+- Khảo sát hạch nách để phát hiện hạch to, thay đổi cấu trúc.
+- Siêu âm Doppler để đánh giá tưới máu khối u (giúp phân biệt lành – ác).
 
 :::caution
 Nếu nhũ ảnh và siêu âm đều không phát hiện tổn thương, bệnh nhân có thể được theo dõi lâm sàng. Nếu vẫn đau dai dẳng hoặc có hình ảnh nghi ngờ, cần cân nhắc sinh thiết.
@@ -142,49 +151,65 @@ _Hình ảnh "Đánh giá và xử trí đau vú – Bệnh viện Từ Dũ"._
 
 ### Không dùng thuốc
 
-1. **Chọn áo ngực phù hợp**
-   - Khuyến khích phụ nữ đo đúng kích cỡ áo ngực, tránh mặc áo chật hoặc dây chật ngang lưng.
-   - Áo ngực thể thao hoặc áo định hình vú ôm sát có thể giảm co kéo dây chằng Cooper, giảm đau đáng kể.
-2. **Liệu pháp thư giãn**
-   - Các bài tập thở, yoga, thiền tập trung thư giãn vùng ngực trong 4 tuần giúp giảm cường độ đau ở khoảng 60% phụ nữ.
-3. **Giảm đau tại chỗ bằng gel NSAIDs**
-   - Gel Diclofenac 1% thoa vào vùng đau 2–3 lần/ngày trong 2–4 tuần.
-   - Gel Ibuprofen hoặc Ketoprofen cũng có tác dụng giảm đau tương tự, không gây tác dụng phụ hệ thống.
-4. **Chế độ ăn và lối sống**
-   - Hạn chế thực phẩm chứa nhiều chất béo bão hòa và đường tinh luyện (có thể làm tăng estrogen nội sinh).
-   - Giảm cân nếu béo phì: Béo phì ở phụ nữ mãn kinh liên quan đến tăng estrogen (do mô mỡ tổng hợp aromatase), có thể làm tăng đau vú.
-   - Hạn chế caffeine (cà phê, trà đặc, cacao, chocolate): Các nghiên cứu về lợi ích giảm đau khi kiêng caffeine cho kết quả không đồng nhất, nhưng một số phụ nữ vẫn cảm thấy giảm triệu chứng khi hạn chế.
-   - Tập thể dục nhẹ nhàng (đi bộ, bơi, yoga) giúp điều hòa nội tiết, giảm đau và cải thiện tâm trạng.
-5. **Bổ sung vitamin**
-   - Vitamin E (400–800 IU/ngày) đôi khi được chỉ định theo kinh nghiệm lâm sàng, nhưng các nghiên cứu chưa cung cấp bằng chứng mạnh.
-   - Vitamin B6 (pyridoxine) liều thấp (50–100 mg/ngày) có thể giúp cải thiện triệu chứng, nhưng cần theo dõi tác dụng phụ.
-6. **Thoa dầu thảo dược**
-   - Một số dầu thảo dược (dầu hoa anh thảo, dầu dừa, dầu jojoba) được thoa lên vú vào buổi tối theo kinh nghiệm, nhưng hiệu quả không khác biệt so với giả dược.
+**Chọn áo ngực phù hợp**:
+
+- Khuyến khích phụ nữ đo đúng kích cỡ áo ngực, tránh mặc áo chật hoặc dây chật ngang lưng.
+- Áo ngực thể thao hoặc áo định hình vú ôm sát có thể giảm co kéo dây chằng Cooper, giảm đau đáng kể.
+
+**Liệu pháp thư giãn**: Các bài tập thở, yoga, thiền tập trung thư giãn vùng ngực trong 4 tuần giúp giảm cường độ đau ở khoảng 60% phụ nữ.
+
+**Giảm đau tại chỗ bằng gel NSAIDs**:
+
+- Gel Diclofenac 1% thoa vào vùng đau 2–3 lần/ngày trong 2–4 tuần.
+- Gel Ibuprofen hoặc Ketoprofen cũng có tác dụng giảm đau tương tự, không gây tác dụng phụ hệ thống.
+
+**Chế độ ăn và lối sống**:
+
+- Hạn chế thực phẩm chứa nhiều chất béo bão hòa và đường tinh luyện (có thể làm tăng estrogen nội sinh).
+- Giảm cân nếu béo phì: Béo phì ở phụ nữ mãn kinh liên quan đến tăng estrogen (do mô mỡ tổng hợp aromatase), có thể làm tăng đau vú.
+- Hạn chế caffeine (cà phê, trà đặc, cacao, chocolate): Các nghiên cứu về lợi ích giảm đau khi kiêng caffeine cho kết quả không đồng nhất, nhưng một số phụ nữ vẫn cảm thấy giảm triệu chứng khi hạn chế.
+- Tập thể dục nhẹ nhàng (đi bộ, bơi, yoga) giúp điều hòa nội tiết, giảm đau và cải thiện tâm trạng.
+
+**Bổ sung vitamin**:
+
+- Vitamin E (400–800 IU/ngày) đôi khi được chỉ định theo kinh nghiệm lâm sàng, nhưng các nghiên cứu chưa cung cấp bằng chứng mạnh.
+- Vitamin B6 (pyridoxine) liều thấp (50–100 mg/ngày) có thể giúp cải thiện triệu chứng, nhưng cần theo dõi tác dụng phụ.
+
+**Thoa dầu thảo dược**: Một số dầu thảo dược (dầu hoa anh thảo, dầu dừa, dầu jojoba) được thoa lên vú vào buổi tối theo kinh nghiệm, nhưng hiệu quả không khác biệt so với giả dược.
 
 ### Nội khoa
 
 Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 2–6 tháng, khi biện pháp không dùng thuốc không hiệu quả.
 
-1. **Thuốc tránh thai kết hợp (COCs)**
-   - Ở một số phụ nữ, COCs liều thấp (Ethinylestradiol 20 μg phối hợp một progestin) giúp cân bằng nội tiết, giảm đau vú.
-   - Một số phụ nữ khởi dùng COCs có thể bị đau vú tăng lên trong 1–2 chu kỳ đầu.
-   - Nếu dùng COCs, cần theo dõi sát sao và đánh giá lại sau 3 tháng.
-2. **Progestogen (progesterone)**
-   - Các progestogen đường uống như lynestrenol hoặc promegestone dùng trong pha hoàng thể (ngày 14–28) có thể cải thiện đau vú ở 66–80% phụ nữ.
-   - Có thể dùng progestogen tại chỗ (gel hoặc kem thoa) nếu chỉ đau khu trú, nhưng bằng chứng còn hạn chế.
-3. **Tamoxifen**
-   - Tamoxifen 10 mg/ngày trong 3 tháng giúp giảm 70–90% đau vú theo chu kỳ, giảm 56% đau vú không theo chu kỳ.
-   - Tái phát đau ở 50% sau khi ngừng thuốc.
-   - Chưa được cấp phép chính thức cho điều trị đau vú; liều dùng không quá 6 tháng để tránh nguy cơ ung thư nội mạc tử cung, đông đặc, hay thay đổi chuyển hóa mỡ máu.
-   - Tác dụng phụ: Bốc hỏa, rối loạn kinh nguyệt, đau khớp, nguy cơ tăng ung thư nội mạc tử cung sau 5 năm sử dụng.
-4. **Danazol**
-   - Danazol (200 mg/ngày) chẹn gonadotropin, có tác dụng androgen nhẹ, giảm đau vú ở 70% chu kỳ và 31% không theo chu kỳ.
-   - Tác dụng phụ nặng: Rậm lông, mụn trứng cá, giọng trầm, tăng cân, rối loạn kinh nguyệt, thay đổi tâm thần kinh. Tiếp tục ngưng nếu xuất hiện triệu chứng nam hóa hoặc trầm cảm.
-   - Chỉ dùng khi thất bại với Tamoxifen (3–6 tháng), duy trì tối thiểu 3 tháng, tối đa 6 tháng.
-   - Cảnh báo: Gây quái thai, phụ nữ dùng cần kết hợp biện pháp tránh thai không hormone (ví dụ dùng bao cao su).
-5. **Bromocriptine**
-   - Đồng vận dopamine, ức chế tiết prolactin, liều 2.5–5 mg/ngày chia 2 lần, kéo dài 2–3 tháng. Giảm đau vú ở 47–88% trường hợp.
-   - Tác dụng phụ: Buồn nôn, nôn, chóng mặt, hạ huyết áp tư thế. Nhiều bệnh nhân không chịu được các tác dụng phụ nên tự ngưng thuốc.
+**Thuốc tránh thai kết hợp (COCs)**:
+
+- Ở một số phụ nữ, COCs liều thấp (Ethinylestradiol 20 μg phối hợp một progestin) giúp cân bằng nội tiết, giảm đau vú.
+- Một số phụ nữ khởi dùng COCs có thể bị đau vú tăng lên trong 1–2 chu kỳ đầu.
+- Nếu dùng COCs, cần theo dõi sát sao và đánh giá lại sau 3 tháng.
+
+**Progestogen (progesterone)**:
+
+- Các progestogen đường uống như lynestrenol hoặc promegestone dùng trong pha hoàng thể (ngày 14–28) có thể cải thiện đau vú ở 66–80% phụ nữ.
+- Có thể dùng progestogen tại chỗ (gel hoặc kem thoa) nếu chỉ đau khu trú, nhưng bằng chứng còn hạn chế.
+
+**Tamoxifen**:
+
+- Tamoxifen 10 mg/ngày trong 3 tháng giúp giảm 70–90% đau vú theo chu kỳ, giảm 56% đau vú không theo chu kỳ.
+- Tái phát đau ở 50% sau khi ngừng thuốc.
+- Chưa được cấp phép chính thức cho điều trị đau vú; liều dùng không quá 6 tháng để tránh nguy cơ ung thư nội mạc tử cung, đông đặc, hay thay đổi chuyển hóa mỡ máu.
+- Tác dụng phụ: Bốc hỏa, rối loạn kinh nguyệt, đau khớp, nguy cơ tăng ung thư nội mạc tử cung sau 5 năm sử dụng.
+
+**Danazol**:
+
+- Danazol (200 mg/ngày) chẹn gonadotropin, có tác dụng androgen nhẹ, giảm đau vú ở 70% chu kỳ và 31% không theo chu kỳ.
+- Tác dụng phụ nặng: Rậm lông, mụn trứng cá, giọng trầm, tăng cân, rối loạn kinh nguyệt, thay đổi tâm thần kinh. Tiếp tục ngưng nếu xuất hiện triệu chứng nam hóa hoặc trầm cảm.
+- Chỉ dùng khi thất bại với Tamoxifen (3–6 tháng), duy trì tối thiểu 3 tháng, tối đa 6 tháng.
+- Cảnh báo: Gây quái thai, phụ nữ dùng cần kết hợp biện pháp tránh thai không hormone (ví dụ dùng bao cao su).
+
+**Bromocriptine**:
+
+- Đồng vận dopamine, ức chế tiết prolactin, liều 2.5–5 mg/ngày chia 2 lần, kéo dài 2–3 tháng. Giảm đau vú ở 47–88% trường hợp.
+- Tác dụng phụ: Buồn nôn, nôn, chóng mặt, hạ huyết áp tư thế. Nhiều bệnh nhân không chịu được các tác dụng phụ nên tự ngưng thuốc.
 
 ### Ngoại khoa
 

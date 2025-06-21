@@ -3,7 +3,7 @@ title: Tắc tia sữa sau sinh
 description: Tắc tia sữa sau sinh - nguyên nhân, điều trị.
 ---
 
-Tắc tia sữa là tình trạng sữa ứ đọng trong các ống dẫn sữa, gây sưng, đau và có thể dẫn đến viêm vú nếu không xử lý kịp thời. Tình trạng này thường gặp trong giai đoạn cho con bú, nhất là khi bé bú không hết hoặc vắt sữa không triệt để.
+**Tắc tia sữa** là tình trạng sữa ứ đọng trong các ống dẫn sữa, gây sưng, đau và có thể dẫn đến viêm vú nếu không xử lý kịp thời. Tình trạng này thường gặp trong giai đoạn cho con bú, nhất là khi bé bú không hết hoặc vắt sữa không triệt để.
 
 ## Nguyên nhân
 
@@ -16,29 +16,16 @@ Tắc tia sữa là tình trạng sữa ứ đọng trong các ống dẫn sữa
 ## Phương pháp không dùng thuốc
 
 - **Cho con bú/vắt sữa thường xuyên**: Bú kéo dài 15–20 phút mỗi bên, hoặc kết hợp vắt tay/vắt máy ngay khi cảm giác căng tức.
-- **Massage và vỗ ấm**:
-  - Massage nhẹ vùng tia tắc theo hướng từ nền ngực về núm vú.
-  - Chườm khăn ấm 10–15 phút trước bú/vắt để làm mềm mô và kích thích thông tuyến.
-- **Thay đổi tư thế bú**: Thử các tư thế: đứng, ngồi thẳng, nằm nghiêng, bế chéo để bé hút đủ các tia sữa bị tắc.
+- **Massage và vỗ ấm**: Massage nhẹ vùng tia tắc theo hướng từ nền ngực về núm vú. Chườm khăn ấm 10–15 phút trước bú/vắt để làm mềm mô và kích thích thông tuyến.
+- **Thay đổi tư thế bú**: Thử các tư thế: Đứng, ngồi thẳng, nằm nghiêng, bế chéo để bé hút đủ các tia sữa bị tắc.
 - **Mặc áo ngực thoải mái**: Dùng áo lót chuyên dụng cho con bú, không ép chặt ngực.
 - **Nghỉ ngơi và dinh dưỡng**: Uống đủ nước, ăn đa dạng dưỡng chất, ngủ đủ giấc, giảm stress.
 
 ## Phương pháp dùng thuốc
 
-### Giảm đau và kháng viêm
-
-- **Ibuprofen** 400–600mg mỗi 6–8 giờ (uống sau ăn).
-- **Paracetamol** 500–1.000mg mỗi 4–6h (tối đa 4g/ngày).
-
-### Kháng sinh (nếu có viêm)
-
-- **Dicloxacillin** 500mg × 4 lần/ngày, 10–14 ngày.
-- **Cephalexin** 500mg × 4 lần/ngày, 10–14 ngày.
-
-### Kích thích tiết sữa (khi cần)
-
-- **Metoclopramide** 10mg × 3 lần/ngày, 5–7 ngày.
-- **Domperidone** 10mg × 3 lần/ngày, 5–7 ngày.
+- **Giảm đau và kháng viêm**: Ibuprofen 400–600mg mỗi 6–8 giờ (uống sau ăn); Paracetamol 500–1000mg mỗi 4–6h (tối đa 4g/ngày).
+- **Kháng sinh (nếu có viêm)**: Dicloxacillin 500mg × 4 lần/ngày, 10–14 ngày; Cephalexin 500mg × 4 lần/ngày, 10–14 ngày.
+- **Kích thích tiết sữa (khi cần)**: Metoclopramide 10mg × 3 lần/ngày, 5–7 ngày; Domperidone 10mg × 3 lần/ngày, 5–7 ngày.
 
 :::caution
 Các thuốc kích thích chỉ dùng khi sản lượng sữa giảm.
