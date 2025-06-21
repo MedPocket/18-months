@@ -17,8 +17,9 @@ Theo Rotterdam 2003, chẩn đoán khi có ≥ 2/3 tiêu chí:
 **Rối loạn phóng noãn**: Kinh thưa (> 35 ngày hoặc < 8 lần/năm).
 
 **Cường androgen**:
-   - **Lâm sàng**: Rậm lông (Ferriman–Gallwey), mụn trứng cá, hói đầu kiểu nam, béo phì trung tâm (BMI > 23 kg/m² hoặc vòng eo > 80 cm, WHR > 0.85).
-   - **Cận lâm sàng**: FTI (TT/SHBG × 100) > 6.
+
+- **Lâm sàng**: Rậm lông (Ferriman–Gallwey), mụn trứng cá, hói đầu kiểu nam, béo phì trung tâm (BMI > 23 kg/m² hoặc vòng eo > 80 cm, WHR > 0.85).
+- **Cận lâm sàng**: FTI (TT/SHBG × 100) > 6.
 
 **Buồng trứng đa nang**: ≥ 12 nang 2–9 mm trên mặt cắt **và/hoặc** thể tích > 10 mL.
 

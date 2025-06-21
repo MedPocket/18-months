@@ -195,6 +195,9 @@ export const sidebar = starlightSidebarTopics([
     label: "Hỗ trợ sinh sản",
     link: "/ho-tro-sinh-san/",
     icon: "random",
-    items: ["ho-tro-sinh-san/buong-trung-da-nang"],
+    items: [
+      "ho-tro-sinh-san/buong-trung-da-nang",
+      "ho-tro-sinh-san/phac-do-kich-trung",
+    ],
   },
 ]);
