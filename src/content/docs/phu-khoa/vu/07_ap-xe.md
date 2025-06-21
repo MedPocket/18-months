@@ -3,7 +3,7 @@ title: Áp xe vú
 description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 ---
 
-Áp xe vú là tình trạng tụ mủ khu trú trong mô vú. Trong giai đoạn tiết sữa, tỷ lệ viêm vú chiếm khoảng 1–10%. Áp xe vú chiếm 3–11% trong số các trường hợp viêm vú và gặp ở khoảng 0.1–0.3% phụ nữ đang nuôi con bằng sữa mẹ.
+**Áp xe vú** là tình trạng tụ mủ khu trú trong mô vú. Trong giai đoạn tiết sữa, tỷ lệ viêm vú chiếm khoảng 1–10%. Áp xe vú chiếm 3–11% trong số các trường hợp viêm vú và gặp ở khoảng 0.1–0.3% phụ nữ đang nuôi con bằng sữa mẹ.
 
 ## Phân loại
 
@@ -12,14 +12,12 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 - Áp xe vú trong giai đoạn tiết sữa.
 - Áp xe vú ngoài giai đoạn tiết sữa.
 
-**Thứ phát**:
-
-- Nhiễm trùng da dưới vú sau viêm tuyến bã, xạ trị.
+**Thứ phát**: Nhiễm trùng da dưới vú sau viêm tuyến bã, xạ trị.
 
 ## Nguyên nhân
 
-- Giai đoạn tiết sữa: Thường do **Staphylococcus aureus** (93%).
-- Ngoài giai đoạn tiết sữa: **Staphylococcus aureus** (40%), **Staphylococcus coagulase âm tính** (40%)...
+- Giai đoạn tiết sữa: Thường do _Staphylococcus aureus_ (93%).
+- Ngoài giai đoạn tiết sữa: _Staphylococcus aureus_ (40%), _Staphylococcus coagulase âm tính_ (40%)...
 
 ## Yếu tố nguy cơ
 
@@ -61,10 +59,9 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 - Chườm lạnh.
 - Tiếp tục cho trẻ bú hoặc vắt sữa đều đặn.
 - Ngưng cho bú nếu không có chỉ định tiếp tục hoặc trong trường hợp nặng, tái phát nhiều lần.
+- **Kháng sinh – chống viêm – giảm đau**.
 
 ### Nội khoa
-
-**Kháng sinh – chống viêm – giảm đau**.
 
 **Nguyên tắc**:
 
@@ -75,16 +72,9 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 **Nhiễm trùng nhẹ**:
 
 - Dicloxacillin hoặc Cloxacillin 500 mg × 4 lần/ngày, 10–14 ngày.
-- Không đáp ứng sau 24–48 giờ: Chuyển sang:
-  - Cephalexin 500 mg × 4 lần/ngày, hoặc
-  - Cefadroxyl 500 mg × 2 viên × 2 lần/ngày, hoặc
-  - Amoxicillin-clavulanate 625 mg × 3 lần/ngày.
-- Nếu nghi ngờ vi khuẩn kỵ khí (áp xe dưới quầng vú) phối hợp thêm:
-  - Clindamycin 300 mg × 4 lần/ngày, hoặc
-  - Metronidazole 250 mg × 2 viên × 2 lần/ngày.
-- Nếu nghi ngờ tụ cầu kháng Methicillin (MRSA):
-  - Trimethoprim/Sulfamethoxazole 160/800 mg × 2 lần/ngày, hoặc
-  - Clindamycin 300 mg × 4 lần/ngày.
+- Không đáp ứng sau 24–48 giờ thì chuyển sang: Cephalexin 500 mg × 4 lần/ngày, hoặc Cefadroxyl 500 mg × 2 viên × 2 lần/ngày, hoặc Amoxicillin-clavulanate 625 mg × 3 lần/ngày.
+- Nếu nghi ngờ vi khuẩn kỵ khí (áp xe dưới quầng vú) phối hợp thêm: Clindamycin 300 mg × 4 lần/ngày, hoặc Metronidazole 250 mg × 2 viên × 2 lần/ngày.
+- Nếu nghi ngờ tụ cầu kháng Methicillin (MRSA): Trimethoprim/Sulfamethoxazole 160/800 mg × 2 lần/ngày, hoặc Clindamycin 300 mg × 4 lần/ngày.
 
 **Nhiễm trùng nặng**:
 
@@ -102,9 +92,9 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 
 ### Ngoại khoa
 
-- Ổ áp xe < 3 cm: Chọc hút bằng kim 18–19G + bơm rửa NaCl 0.9% dưới hướng dẫn siêu âm. Lặp lại tối đa 3 lần. Nếu không đáp ứng → rạch dẫn lưu.
-- Ổ áp xe 3–5 cm: Chọc hút + dẫn lưu bằng catheter dưới hướng dẫn siêu âm.
-- Ổ áp xe > 5 cm: Rạch dẫn lưu.
+- **Ổ áp xe < 3 cm**: Chọc hút bằng kim 18–19G + bơm rửa NaCl 0.9% dưới hướng dẫn siêu âm. Lặp lại tối đa 3 lần. Nếu không đáp ứng → rạch dẫn lưu.
+- **Ổ áp xe 3–5 cm**: Chọc hút + dẫn lưu bằng catheter dưới hướng dẫn siêu âm.
+- **Ổ áp xe > 5 cm**: Rạch dẫn lưu.
 
 ### Theo dõi sau điều trị
 

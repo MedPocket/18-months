@@ -21,7 +21,7 @@ Tiết dịch núm vú (nipple discharge) là hiện tượng có dịch chảy 
 
 :::caution
 
-- **Tiết dịch tự phát, một bên, có lẫn máu** là dấu hiệu cảnh báo cao đối với bướu nhú (intraductal papilloma) hoặc carcinoma tại chỗ/ xâm lấn trong ống tuyến vú.
+- **Tiết dịch tự phát, một bên, có lẫn máu** là dấu hiệu cảnh báo cao đối với bướu nhú (intraductal papilloma) hoặc carcinoma tại chỗ/xâm lấn trong ống tuyến vú.
 - Khi có các đặc điểm kể trên, cần thực hiện các bước chẩn đoán hình ảnh và xâm lấn để loại trừ ác tính.
 
 :::
@@ -34,10 +34,7 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 
 #### Lâm sàng
 
-**Tăng prolactin từ u tuyến yên**:
-
-- U tuyến yên (prolactinoma) thường đi kèm triệu chứng phù gai thị, rối loạn thị giác (do khối u chèn ép thần kinh thị).
-- Triệu chứng toàn thân: Đau đầu, giảm thị lực, rối loạn kinh nguyệt, vô kinh.
+**Tăng prolactin từ u tuyến yên**: U tuyến yên (prolactinoma) thường đi kèm triệu chứng phù gai thị, rối loạn thị giác (do khối u chèn ép thần kinh thị); Triệu chứng toàn thân: Đau đầu, giảm thị lực, rối loạn kinh nguyệt, vô kinh.
 
 **Tổn thương thần kinh tủy sống hoặc chấn thương thành ngực**: Tác động cơ học làm tăng tín hiệu thần kinh kích thích quá mức vào vùng trung ương điều hòa prolactin.
 
@@ -77,9 +74,9 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 
 #### Theo nguyên nhân
 
-- Nếu do thuốc: Ngưng hoặc thay thế bằng thuốc khác ít gây tăng prolactin.
-- Nếu do nhược giáp: Điều trị thay thế hormone tuyến giáp (levothyroxine).
-- Nếu do rối loạn chức năng thận/ gan: Xử lý theo chuyên khoa tương ứng.
+- **Nếu do thuốc**: Ngưng hoặc thay thế bằng thuốc khác ít gây tăng prolactin.
+- **Nếu do nhược giáp**: Điều trị thay thế hormone tuyến giáp (levothyroxine).
+- **Nếu do rối loạn chức năng thận-gan**: Xử lý theo chuyên khoa tương ứng.
 
 #### Nội khoa
 
@@ -191,18 +188,18 @@ _Hình ảnh "Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ
 - **Dịch sữa (trắng đục)**: Đo prolactin, TSH → xử trí như tiết sữa.
 - **Dịch bệnh lý (màu bất thường, một bên, một ống)**: Chuyển sang bước chẩn đoán hình ảnh.
 
-**Bước 2: Kết hợp chẩn đoán hình ảnh**:
+**Bước 2 Kết hợp chẩn đoán hình ảnh**:
 
 - **Nhũ ảnh + Siêu âm** (đều ưu tiên cho phụ nữ ≥ 35 tuổi): Nếu phát hiện **khối** hoặc **microcalcification** đáng ngờ → Sinh thiết lõi (core biopsy). Nếu có **ống giãn khu trú** mà không thấy khối → Chụp ống tuyến (ductography) để khoanh vùng, sau đó sinh thiết định vị.
 - **Chụp ống tuyến** (nếu siêu âm và nhũ ảnh không xác định rõ tổn thương nhưng vẫn có tiết máu/lẫn máu): Bơm thuốc cản quang, xác định chỗ lấp đầy, khối u nhỏ trong ống. Dựa vào kết quả ductography, chỉ định sinh thiết mở hoặc sinh thiết lõi có định vị dưới hình ảnh.
 
-**Bước 3: Sinh thiết**:
+**Bước 3 Sinh thiết**:
 
 - **Core biopsy (sinh thiết lõi) hướng dẫn siêu âm/nhũ ảnh**: Ưu tiên khi phát hiện khối u rõ hoặc vùng ống có dãn bất thường. Lấy ít nhất 4–6 mẫu mô để đánh giá mô học (xác định bướu nhú, DCIS, carcinoma xâm lấn).
 - **Wire localization biopsy (định vị bằng kim dẫn hướng)**: Dùng khi tổn thương chỉ thấy trên ductography hoặc MRI, không phát hiện rõ trên siêu âm. Kim định vị được đặt chính xác vào tổn thương, sau đó phẫu thuật cắt mô định hướng.
 - **Sinh thiết mở (excisional biopsy)**: Khi core biopsy không thể thực hiện hoặc kết quả không rõ ràng. Lấy toàn bộ tổn thương cùng vỏ bao, vừa chẩn đoán vừa điều trị.
 
-**Bước 4: Xử trí hậu sinh thiết**:
+**Bước 4 Xử trí hậu sinh thiết**:
 
 - **Hoàn toàn lành tính (ví dụ Intraductal papilloma lành, duct ectasia không viêm)**: Nếu không triệu chứng (ít dịch, không đau), có thể theo dõi lâm sàng, không cần phẫu thuật. Nếu còn tiếp tục chảy dịch hoặc cảm giác khó chịu, có thể cân nhắc phẫu thuật cắt ống chảy dịch (microdochectomy).
 - **Tổn thương có nguy cơ (bướu nhú có tế bào atypia, sclerosing lesion phức tạp)**: Phẫu thuật cắt rộng hơn hoặc theo dõi chặt chẽ (nhũ ảnh + siêu âm 6 tháng/lần).

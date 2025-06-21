@@ -7,7 +7,7 @@ description: Đau vú (mastalgia) là triệu chứng phổ biến khiến phụ
 
 Khoảng 50% phụ nữ khi đến khám liên quan đến vấn đề đau vú. Có đến 60–70% phụ nữ từng trải qua ít nhất một lần đau vú ở mức độ nhẹ, trong khi khoảng 10–20% từng bị đau vú trầm trọng hơn.
 
-Hai mối lo ngại lớn nhất của người phụ nữ khi bị đau vú là:
+**Hai mối lo ngại lớn nhất** của người phụ nữ khi bị đau vú là:
 
 1. Đau vú có phải là biểu hiện của ung thư vú không?
 2. Đau vú ảnh hưởng đến sinh hoạt hàng ngày và đời sống tình dục ra sao?
