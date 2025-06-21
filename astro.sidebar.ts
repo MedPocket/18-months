@@ -22,7 +22,7 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Xuất huyết tử cung trong thai kỳ",
+        label: "Xuất huyết tử cung",
         autogenerate: {
           directory: "san-khoa/xuat-huyet-tu-cung",
         },
@@ -93,16 +93,16 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Bệnh truyền nhiễm trong thai kỳ",
+        label: "Bệnh truyền nhiễm",
         autogenerate: {
           directory: "san-khoa/truyen-nhiem",
         },
         collapsed: true,
       },
       {
-        label: "Sử dụng thuốc trong thai kỳ",
+        label: "Sử dụng thuốc",
         autogenerate: {
-          directory: "san-khoa/su-dung-thuoc",
+          directory: "san-khoa/thuoc",
         },
         collapsed: true,
       },
@@ -145,7 +145,7 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Bệnh lây truyền qua đường tình dục",
+        label: "Bệnh đường tình dục",
         autogenerate: {
           directory: "phu-khoa/benh-tinh-duc",
         },
