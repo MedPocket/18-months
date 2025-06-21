@@ -22,7 +22,7 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Xuất huyết tử cung trong thai kỳ",
+        label: "Xuất huyết tử cung",
         autogenerate: {
           directory: "san-khoa/xuat-huyet-tu-cung",
         },
@@ -31,7 +31,7 @@ export const sidebar = starlightSidebarTopics([
       {
         label: "Thai nghén thất bại sớm",
         autogenerate: {
-          directory: "san-khoa/thai-nghen-that-bai-som",
+          directory: "san-khoa/thai-that-bai-som",
         },
         collapsed: true,
       },
@@ -93,16 +93,16 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Bệnh truyền nhiễm trong thai kỳ",
+        label: "Bệnh truyền nhiễm",
         autogenerate: {
           directory: "san-khoa/truyen-nhiem",
         },
         collapsed: true,
       },
       {
-        label: "Sử dụng thuốc trong thai kỳ",
+        label: "Sử dụng thuốc",
         autogenerate: {
-          directory: "san-khoa/su-dung-thuoc",
+          directory: "san-khoa/thuoc",
         },
         collapsed: true,
       },
@@ -141,6 +141,13 @@ export const sidebar = starlightSidebarTopics([
         label: "Tiết dịch âm đạo bất thường",
         autogenerate: {
           directory: "phu-khoa/tiet-dich-am-dao",
+        },
+        collapsed: true,
+      },
+      {
+        label: "Bệnh đường tình dục",
+        autogenerate: {
+          directory: "phu-khoa/benh-tinh-duc",
         },
         collapsed: true,
       },
@@ -197,7 +204,7 @@ export const sidebar = starlightSidebarTopics([
     icon: "random",
     items: [
       "ho-tro-sinh-san/buong-trung-da-nang",
-      "ho-tro-sinh-san/phac-do-kich-trung",
+      "ho-tro-sinh-san/kich-trung",
     ],
   },
 ]);
