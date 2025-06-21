@@ -15,7 +15,7 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 
 - **Giang mai thời kỳ I (Primary syphilis)**: Xuất hiện săng đơn độc tại vị trí xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn hoặc vị trí ngoài sinh dục hiếm gặp). Săng thường có rìa nâng cao, không đau hoặc ít đau, xuất hiện sau 9–90 ngày (trung bình 21 ngày), tự lui trong 3–10 tuần dù không điều trị.
 - **Giang mai thời kỳ II (Secondary syphilis)**: Xuất hiện 4–8 tuần sau săng, biểu hiện tổn thương da, niêm mạc lan tỏa, kèm hạch ngoại biên và triệu chứng nhiễm khuẩn hệ thống.
-- **Giang mai kín sớm (Early latent syphilis)**: Không có triệu chứng lâm sàng, giai đoạn tiềm ẩn ≤ 2 năm kể từ khi nhiễm; chỉ phát hiện qua xét nghiệm huyết thanh.
+- **Giang mai kín sớm (Early latent syphilis)**: Không có triệu chứng lâm sàng, giai đoạn tiềm ẩn ≤ 2 năm kể từ khi nhiễm; Chỉ phát hiện qua xét nghiệm huyết thanh.
 
 **Giang mai muộn (> 2 năm kể từ khi nhiễm hoặc không xác định được thời gian)**:
 
@@ -26,10 +26,10 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 
 **Săng giang mai**:
 
-- Xuất hiện tại nơi xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn; có thể ở miệng khi quan hệ đường miệng).
+- Xuất hiện tại nơi xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn; Có thể ở miệng khi quan hệ đường miệng).
 - Hình thức: Vết loét đơn hoặc ít, rìa gồ, nền cứng, không đau hoặc ít đau.
 - Xuất hiện sau 9–90 ngày (trung bình 21 ngày).
-- Tự lui sau 3–10 tuần mà không cần điều trị; nhiều người không để ý hoặc nhầm với vết loét lành tính.
+- Tự lui sau 3–10 tuần mà không cần điều trị; Nhiều người không để ý hoặc nhầm với vết loét lành tính.
 
 **Hạch ngoại biên**: Hạch bẹn (với săng sinh dục) sưng một hoặc hai bên, mềm, không đau.
 
@@ -56,7 +56,7 @@ Giang mai thời kỳ II có thể tự lui sau vài tuần đến vài tháng, 
 
 #### Giang mai kín (Latent syphilis)
 
-**Không có triệu chứng lâm sàng**; chỉ phát hiện bằng xét nghiệm huyết thanh.
+**Không có triệu chứng lâm sàng**; Chỉ phát hiện bằng xét nghiệm huyết thanh.
 
 **Phân loại**:
 
@@ -107,18 +107,18 @@ Nhiều trẻ sơ sinh bị giang mai bẩm sinh không có triệu chứng đi�
 **Xét nghiệm không đặc hiệu (Non-treponemal tests)**:
 
 - RPR (Rapid Plasma Reagin) và VDRL (Venereal Disease Research Laboratory).
-- Phát hiện kháng thể kháng lipid do tổn thương tế bào; sử dụng huyết thanh (có thể dùng huyết tương).
-- **Ưu điểm**: Theo dõi đáp ứng điều trị qua hiệu giá kháng thể; giá thành thấp.
+- Phát hiện kháng thể kháng lipid do tổn thương tế bào; Sử dụng huyết thanh (có thể dùng huyết tương).
+- **Ưu điểm**: Theo dõi đáp ứng điều trị qua hiệu giá kháng thể; Giá thành thấp.
 - **Hạn chế**: Dương tính giả khi bệnh nhân mắc các bệnh tự miễn, viêm nhiễm nặng, bệnh gan mạn, HIV.
-- **Âm tính giả**: Ở giai đoạn rất sớm (4 tuần đầu tiên) hoặc giang mai muộn; hiện tượng prozone (nồng độ kháng thể quá cao) có thể gây âm tính giả → nếu nghi ngờ, mẫu huyết thanh cần pha loãng và thử lại.
-- **Theo dõi điều trị**: Hiệu giá giảm ≥ 4 lần (2 lần pha loãng) có nghĩa là đáp ứng điều trị; nếu thay đổi ≤ 2 lần (≤ 1 lần pha loãng) không có ý nghĩa lâm sàng.
+- **Âm tính giả**: Ở giai đoạn rất sớm (4 tuần đầu tiên) hoặc giang mai muộn; Hiện tượng prozone (nồng độ kháng thể quá cao) có thể gây âm tính giả → nếu nghi ngờ, mẫu huyết thanh cần pha loãng và thử lại.
+- **Theo dõi điều trị**: Hiệu giá giảm ≥ 4 lần (2 lần pha loãng) có nghĩa là đáp ứng điều trị; Nếu thay đổi ≤ 2 lần (≤ 1 lần pha loãng) không có ý nghĩa lâm sàng.
 
 **Xét nghiệm đặc hiệu (Treponemal tests)**:
 
 - TPHA (Treponema pallidum Hemagglutination Assay), TPPA (Treponema pallidum Particle Agglutination Assay), FTA-ABS (Fluorescent Treponemal Antibody Absorption).
 - Phát hiện kháng thể kháng kháng nguyên giang mai đặc hiệu.
 - **Ưu điểm**: Độ đặc hiệu cao, ít dương tính giả.
-- **Hạn chế**: Dương tính kéo dài suốt đời ở khoảng 85% trường hợp dù đã điều trị; không dùng để theo dõi đáp ứng điều trị.
+- **Hạn chế**: Dương tính kéo dài suốt đời ở khoảng 85% trường hợp dù đã điều trị; Không dùng để theo dõi đáp ứng điều trị.
 
 Quy trình chẩn đoán thường là:
 
@@ -132,24 +132,24 @@ Quy trình chẩn đoán thường là:
 - Bệnh phẩm: Dịch tiết từ săng, tổn thương trợt/loét, dịch hạch.
 - Quan sát xoắn khuẩn giang mai di động dưới dạng lò xo, không phân biệt được với một số xoắn khuẩn khác (do đó phải kết hợp với lâm sàng).
 - **Ưu điểm**: Phát hiện trực tiếp xoắn khuẩn vào giai đoạn sớm (Primary syphilis).
-- **Hạn chế**: Độ nhạy thấp (< 50%), phụ thuộc chất lượng mẫu và kỹ năng người soi; cần làm ngay sau khi lấy bệnh phẩm.
+- **Hạn chế**: Độ nhạy thấp (< 50%), phụ thuộc chất lượng mẫu và kỹ năng người soi; Cần làm ngay sau khi lấy bệnh phẩm.
 
 **DFA (Direct Fluorescent Antibody)**:
 
 - Dùng kháng thể gắn huỳnh quang để nhuộm xoắn khuẩn trên kính hiển vi huỳnh quang.
-- Độ nhạy và đặc hiệu cao hơn soi nền đen; cần trang thiết bị và hoá chất đặc biệt.
+- Độ nhạy và đặc hiệu cao hơn soi nền đen; Cần trang thiết bị và hoá chất đặc biệt.
 
 **Xét nghiệm khuếch đại acid nucleic (NAATs/PCR)**:
 
 - Phát hiện ADN của **T. pallidum** trong dịch tiết tổn thương, mô, dịch cơ thể.
-- Độ nhạy khác nhau tùy bộ kit; chi phí cao, đòi hỏi kỹ thuật viên có kinh nghiệm.
+- Độ nhạy khác nhau tùy bộ kit; Chi phí cao, đòi hỏi kỹ thuật viên có kinh nghiệm.
 - Không phổ biến trong thực hành lâm sàng thường quy do chi phí và yêu cầu trang thiết bị.
 
 #### Xét nghiệm nhanh (Rapid diagnostic tests)
 
 - **Xét nghiệm nhanh đặc hiệu**: Phát hiện kháng thể kháng _T. pallidum_.
 - **Xét nghiệm nhanh không đặc hiệu**: Phát hiện kháng thể kháng cardiolipin (tương tự RPR/VDRL).
-- **Xét nghiệm phối hợp đặc hiệu & không đặc hiệu**: Cho phép sàng lọc và khẳng định trong 1 xét nghiệm; chưa được WHO chuẩn hóa rộng rãi.
+- **Xét nghiệm phối hợp đặc hiệu & không đặc hiệu**: Cho phép sàng lọc và khẳng định trong 1 xét nghiệm; Chưa được WHO chuẩn hóa rộng rãi.
 - Các xét nghiệm nhanh có: Độ nhạy: 85–98% (so với TPHA/TPPA). Độ đặc hiệu: 93–98%.
 - Ưu tiên sử dụng ở cộng đồng, sàng lọc người có nguy cơ cao (phụ nữ mại dâm, nam quan hệ đồng giới, người chuyển giới) và phụ nữ mang thai.
 
@@ -176,7 +176,7 @@ Quy trình chẩn đoán thường là:
 - Trẻ có triệu chứng giang mai bẩm sinh hoặc xét nghiệm huyết thanh trẻ có hiệu giá RPR ≥ 4 lần hiệu giá của mẹ.
 - Soi kính hiển vi nền đen hoặc DFA (+) trên dịch từ da, mũi hoặc mô nhau.
 
-**Theo dõi lâu dài**: Trẻ không triệu chứng nhưng mẹ RPR/VDRL (+) cần xét nghiệm lại hàng tháng trong 3–4 tháng đầu; kháng thể thụ động từ mẹ có thể tồn tại tới 18 tháng. Nếu kháng thể trẻ tăng gấp ≥ 4 lần của mẹ, chẩn đoán chắc giang mai bẩm sinh.
+**Theo dõi lâu dài**: Trẻ không triệu chứng nhưng mẹ RPR/VDRL (+) cần xét nghiệm lại hàng tháng trong 3–4 tháng đầu; Kháng thể thụ động từ mẹ có thể tồn tại tới 18 tháng. Nếu kháng thể trẻ tăng gấp ≥ 4 lần của mẹ, chẩn đoán chắc giang mai bẩm sinh.
 
 ### Chẩn đoán phân biệt
 
@@ -211,7 +211,7 @@ Quy trình chẩn đoán thường là:
 - **Điều trị sớm, đúng phác đồ, đủ liều** để ngăn ngừa biến chứng và lây lan.
 - **Điều trị bạn tình hiện tại và trong vòng 1 năm** để tránh lây nhiễm qua lại.
 - **Kiêng quan hệ tình dục** trong thời gian điều trị và 7 ngày sau khi hoàn thành.
-- **Chủ yếu điều trị ngoại trú**; chỉ nhập viện khi giang mai thần kinh, giang mai tim mạch nặng hoặc giang mai bẩm sinh cần theo dõi chặt chẽ.
+- **Chủ yếu điều trị ngoại trú**; Chỉ nhập viện khi giang mai thần kinh, giang mai tim mạch nặng hoặc giang mai bẩm sinh cần theo dõi chặt chẽ.
 
 ### Phác đồ
 
@@ -220,30 +220,30 @@ Quy trình chẩn đoán thường là:
 **Giang mai sớm (≤ 2 năm)**:
 
 - **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất.
-- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 10–14 ngày; Doxycycline 100 mg uống 2 lần/ngày x 14 ngày; Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày x 10–14 ngày; Azithromycin 2 g uống liều duy nhất.
+- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày × 10–14 ngày; Doxycycline 100 mg uống 2 lần/ngày × 14 ngày; Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày × 10–14 ngày; Azithromycin 2 g uống liều duy nhất.
 
 **Giang mai muộn (> 2 năm hoặc không rõ)**
 
-- **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần x 3 tuần liên tiếp (Khoảng cách giữa các lần tiêm không quá 14 ngày).
-- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 20 ngày; Doxycycline 100 mg uống 2 lần/ngày x 30 ngày.
+- **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần × 3 tuần liên tiếp (Khoảng cách giữa các lần tiêm không quá 14 ngày).
+- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày × 20 ngày; Doxycycline 100 mg uống 2 lần/ngày × 30 ngày.
 
 #### Phụ nữ có thai
 
 **Giang mai sớm (≤ 2 năm)**:
 
 - **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất.
-- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 10–14 ngày; Erythromycin 500 mg uống 4 lần/ngày x 14 ngày; Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày x 10–14 ngày; Azithromycin 2 g uống liều duy nhất.
+- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày × 10–14 ngày; Erythromycin 500 mg uống 4 lần/ngày × 14 ngày; Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày × 10–14 ngày; Azithromycin 2 g uống liều duy nhất.
 
 **Giang mai muộn (> 2 năm hoặc không rõ)**:
 
-- **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần x 3 tuần liên tiếp.
-- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 20 ngày; Erythromycin 500 mg uống 4 lần/ngày x 30 ngày.
+- **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần × 3 tuần liên tiếp.
+- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày × 20 ngày; Erythromycin 500 mg uống 4 lần/ngày × 30 ngày.
 
 :::caution
 
 - **Doxycycline chống chỉ định cho phụ nữ mang thai** do gây tác động bất lợi lên xương và răng của thai nhi.
 - **Erythromycin, Azithromycin** không qua nhau thai, có thể dùng thay thế trong thai kỳ nếu dị ứng penicillin.
-- Trẻ sơ sinh của mẹ giang mai chưa điều trị đủ cần đánh giá lâm sàng và xét nghiệm sớm; điều trị dự phòng hoặc điều trị ngay nếu cần.
+- Trẻ sơ sinh của mẹ giang mai chưa điều trị đủ cần đánh giá lâm sàng và xét nghiệm sớm; Điều trị dự phòng hoặc điều trị ngay nếu cần.
 
 :::
 
@@ -256,7 +256,7 @@ Quy trình chẩn đoán thường là:
 
 **Phác đồ ưu tiên**: Benzyl penicillin 100,000–150,000 Đơn vị/kg/ngày, tiêm TM chậm chia 2–3 lần/ngày (nếu thể trạng đảm bảo) hoặc truyền liên tục trong 10–15 ngày.
 
-**Phác đồ thay thế nếu không tiêm TM được**: Procain penicillin 50,000 Đơn vị/kg/ngày, tiêm bắp sâu 1 liều/ngày x 10–15 ngày.
+**Phác đồ thay thế nếu không tiêm TM được**: Procain penicillin 50,000 Đơn vị/kg/ngày, tiêm bắp sâu 1 liều/ngày × 10–15 ngày.
 
 **Trẻ không triệu chứng** và mẹ đã điều trị đầy đủ trước sinh: Chỉ cần theo dõi chặt chẽ, xét nghiệm huyết thanh định kỳ (tháng 1, 2, 3). Nếu xét nghiệm không đặc hiệu vẫn dương tính, điều trị phác đồ: Benzathin penicillin G 50,000 Đơn vị/kg, tiêm bắp liều duy nhất (nếu không có dấu hiệu lâm sàng).
 
@@ -264,7 +264,7 @@ Quy trình chẩn đoán thường là:
 
 - **Xét nghiệm giang mai cho phụ nữ mang thai lần khám đầu**: Dùng xét nghiệm nhanh đặc hiệu, nếu (+) điều trị sớm để ngăn lây truyền từ mẹ sang con.
 - **Truyền thông, giáo dục** về nguyên nhân, đường lây, biến chứng và cách phòng giang mai, đặc biệt ở nhóm nguy cơ cao (phụ nữ mại dâm, nam quan hệ đồng giới, người chuyển giới).
-- **Thực hành tình dục an toàn**: Sử dụng bao cao su đúng cách khi quan hệ âm đạo, hậu môn, miệng; hạn chế số bạn tình.
+- **Thực hành tình dục an toàn**: Sử dụng bao cao su đúng cách khi quan hệ âm đạo, hậu môn, miệng; Hạn chế số bạn tình.
 - **Khám sàng lọc định kỳ STI** cho nhóm nguy cơ cao.
 - **Tập huấn chuyên môn** cho nhân viên y tế tuyến xã, huyện, tỉnh về chẩn đoán sớm, điều trị đúng, chống kháng thuốc.
 - **Giám sát kháng thuốc**: Đẩy mạnh nuôi cấy _N. gonorrhoeae_ và làm kháng sinh đồ để theo dõi tình hình kháng thuốc, điều chỉnh phác đồ thuốc kịp thời.

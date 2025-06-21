@@ -53,7 +53,7 @@ _Hình ảnh "Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "c
 Để chẩn đoán BV theo Amsel, cần có **ít nhất 3/4** tiêu chuẩn sau:
 
 1. **Tiết dịch âm đạo đồng nhất**: Dịch màu trắng xám, loãng, phủ đều thành âm đạo, không kèm dấu hiệu viêm (không đỏ, không phù nề).
-2. **Tế bào "clue cells"**: Xuất hiện khi quan sát phiến tươi/phết Gram; là tế bào biểu mô âm đạo phủ kín bởi vi khuẩn, làm méo góc bào tương.
+2. **Tế bào "clue cells"**: Xuất hiện khi quan sát phiến tươi/phết Gram; Là tế bào biểu mô âm đạo phủ kín bởi vi khuẩn, làm méo góc bào tương.
 3. **pH âm đạo > 4.5**: Dùng giấy quỳ hoặc đo pH trực tiếp tại niêm mạc thành âm đạo.
 4. **Whiff test (+)**: Khi nhỏ dung dịch KOH 10% vào dịch âm đạo, có mùi hôi đặc trưng "cá thối".
 
@@ -94,7 +94,7 @@ Theo Bệnh viện Từ Dũ, BV được chẩn đoán khi đủ 2/3 tiêu chu�
 
 - Huyết trắng nhiều, màu trắng xám, rất hôi, đặc biệt rõ sau giao hợp.
 - **Whiff test (+)**: Thêm KOH 10% lên mẫu huyết trắng, xuất hiện mùi hôi như cá ươn.
-- **Phết âm đạo**: Nhiều "clue cells" (> 20% tế bào biểu mô nhìn thấy có bám vi khuẩn); nhuộm Gram thấy nhiều _coccobacilli_.
+- **Phết âm đạo**: Nhiều "clue cells" (> 20% tế bào biểu mô nhìn thấy có bám vi khuẩn); Nhuộm Gram thấy nhiều _coccobacilli_.
 
 :::
 
@@ -164,12 +164,12 @@ Việc bổ sung **probiotic chứa Lactobacillus** sau điều trị có thể 
 
 Tùy chọn điều trị BV tại Bệnh viện Từ Dũ (áp dụng cho cả BV có triệu chứng và BV không triệu chứng trong nhóm nguy cơ):
 
-- **Metronidazole 500 mg uống** x 2 lần/ngày x 7 ngày (uống trong bữa ăn để giảm kích ứng tiêu hóa).
-- **Metronidazole gel 0.75% (5 g)/ngày** x 5 ngày (đặt âm đạo).
-- **Clindamycin 300 mg uống** x 2 lần/ngày x 7 ngày.
-- **Clindamycin 100 mg đặt âm đạo** x 1 lần/ngày x 3 ngày.
-- **Dequalinium chloride 10 mg đặt âm đạo** x 1 lần/ngày x 6 ngày.
-- **Policresulen 90 mg đặt âm đạo** x 1 lần/ngày x 6 ngày.
+- **Metronidazole 500 mg uống** × 2 lần/ngày × 7 ngày (uống trong bữa ăn để giảm kích ứng tiêu hóa).
+- **Metronidazole gel 0.75% (5 g)/ngày** × 5 ngày (đặt âm đạo).
+- **Clindamycin 300 mg uống** × 2 lần/ngày × 7 ngày.
+- **Clindamycin 100 mg đặt âm đạo** × 1 lần/ngày × 3 ngày.
+- **Dequalinium chloride 10 mg đặt âm đạo** × 1 lần/ngày × 6 ngày.
+- **Policresulen 90 mg đặt âm đạo** × 1 lần/ngày × 6 ngày.
 
 **Vệ sinh tại chỗ**
 

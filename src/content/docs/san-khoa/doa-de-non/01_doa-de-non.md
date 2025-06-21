@@ -119,7 +119,7 @@ _Bảng "Thuốc cắt cơn gò"._
 | Nhóm thuốc | Tác động | Tác dụng phụ | Lưu ý |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Đối vận với thụ thể oxytocin** | Đối vận với thụ thể của oxytocin trên cơ tử cung, ngăn cản tác dụng co cơ tử cung của oxytocin nội sinh | Hiện không có tác dụng phụ quan trọng được ghi nhận | Là thuốc duy nhất được dán nhãn (_labelled_) cho điều trị sinh non |
-| **Ức chế kênh calcium** | Ngăn chặn Ca²⁺ đi vào tế bào | Hạ huyết áp và nhức đầu; có thể làm giảm lưu lượng máu nhau-tử cung, giảm oxygen và tăng CO₂ ở thai nhi | - Có thể làm nặng thêm tác dụng phụ của MgSO₄<br>- Không được dán nhãn cho điều trị sinh non<br>- Thường ít dùng do tác dụng phụ |
+| **Ức chế kênh calcium** | Ngăn chặn Ca²⁺ đi vào tế bào | Hạ huyết áp và nhức đầu; Có thể làm giảm lưu lượng máu nhau-tử cung, giảm oxygen và tăng CO₂ ở thai nhi | - Có thể làm nặng thêm tác dụng phụ của MgSO₄<br>- Không được dán nhãn cho điều trị sinh non<br>- Thường ít dùng do tác dụng phụ |
 | **Đồng vận β-adrenergic** | Tăng nồng độ cAMP (_cyclic adenosine MonoPhosphate_) trong tế bào, làm giảm nồng độ calcium | - Hạ huyết áp, nhịp tim nhanh, nặng ngực/đau ngực, thay đổi ECG<br>- Có thể gây phù phổi (đặc biệt khi quá tải tuần hoàn)<br>- Chống chỉ định tương đối: Bệnh mạch vành, suy thận | - Salbutamol không được dán nhãn cho điều trị sinh non<br>- Dùng kéo dài không được xem là an toàn cho thai nhi |
 
 :::caution
@@ -210,7 +210,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 **Liều dùng**:
 
 - Hạn chế dịch truyền nhất ở song thai hoặc đang dùng corticosteroids.
-- Pha 5 mg Salbutamol/5 mL trong 95 mL NaCl 0.9%; truyền 12 mL/h (10 µg/phút), tăng 4 mL/h mỗi 30 phút đến khi cắt cơn hoặc mẹ đạt nhịp tim ≥ 120 lần/phút hoặc tối đa 36 mL/h.
+- Pha 5 mg Salbutamol/5 mL trong 95 mL NaCl 0.9%; Truyền 12 mL/h (10 µg/phút), tăng 4 mL/h mỗi 30 phút đến khi cắt cơn hoặc mẹ đạt nhịp tim ≥ 120 lần/phút hoặc tối đa 36 mL/h.
 - Có thể truyền TM pha 5 mg Salbutamol/5 mL trong dung dịch glucose 5% (10 µg/mL), tốc độ 60 mL/h (10 µg/phút), tăng 20 mL/h mỗi 30 phút đến khi cắt cơn hoặc nhịp tim mẹ ≥ 120 lần/phút hoặc tối đa 180 mL/h.
 - Thời gian điều trị đường TM 24–48 giờ.
 - Duy trì uống/đặt: Ventolin 2 viên × 4–6 viên/ngày hoặc Salbutamol 1 viên × 1–3 viên/ngày (đặt hậu môn).
@@ -219,7 +219,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 - Mạch và huyết áp mẹ mỗi 15 phút trong 1 giờ đầu, sau đó mỗi 4 giờ.
 - Theo dõi lượng nước tiểu (thiểu niệu là dấu hiệu ngộ độc).
-- Xét nghiệm ure, điện giải, Hct mỗi 24 giờ; đo đường huyết mỗi 4 giờ.
+- Xét nghiệm ure, điện giải, Hct mỗi 24 giờ; Đo đường huyết mỗi 4 giờ.
 - Monitor tim thai và cơn gò 1 giờ liều đầu và mỗi 6 giờ liều duy trì.
 
 ### Liệu pháp corticosteroids

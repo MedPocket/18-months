@@ -89,7 +89,7 @@ _Hình ảnh "Kỹ thuật bóc rau nhân tạo"._
 - Người thứ hai đặt valve mở âm đạo.
 - Dùng kìm tim kẹp lần lượt ở các "giờ" trên vòng cổ tử cung (12 giờ, 2 giờ, 4 giờ... 10 giờ), kiểm tra khoảng giữa mỗi lần kẹp: Rách, chảy máu, phù nền.
 - Lần mò quanh toàn bộ cổ tử cung theo kim đồng hồ.
-- Rách thường ở 3 giờ hoặc 9 giờ, có thể lan vào đoạn dưới. Rách nhỏ (< 2 cm) thường tự lành; rách lớn phải khâu, ưu tiên khâu cổ trước, sau đó khâu âm đạo.
+- Rách thường ở 3 giờ hoặc 9 giờ, có thể lan vào đoạn dưới. Rách nhỏ (< 2 cm) thường tự lành; Rách lớn phải khâu, ưu tiên khâu cổ trước, sau đó khâu âm đạo.
 
 ## Kiểm tra âm đạo & tầng sinh môn
 

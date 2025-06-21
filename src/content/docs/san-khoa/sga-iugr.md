@@ -25,7 +25,7 @@ description: Thai nhỏ so với tuổi thai (Small-for-Gestational Age – SGA)
 - **IUGR**: SGA kèm bằng chứng tăng trưởng chậm (bất thường Doppler động học hoặc sinh đồ sinh vật lý).
 
 :::caution
-Khi EFW hoặc AC đạt ngưỡng bách phân vị thứ 10, cần theo dõi tích cực; dưới bách phân vị thứ 3, cân nhắc chỉ định can thiệp sớm.
+Khi EFW hoặc AC đạt ngưỡng bách phân vị thứ 10, cần theo dõi tích cực; Dưới bách phân vị thứ 3, cân nhắc chỉ định can thiệp sớm.
 :::
 
 _Bảng "Chiều dài & cân nặng thai nhi theo tuần (WHO tham khảo)"._
@@ -51,12 +51,12 @@ _Bảng "Chiều dài & cân nặng thai nhi theo tuần (WHO tham khảo)"._
 
 Biến chứng chu sinh và sơ sinh:
 
-- **Hạ đường huyết**: Do dự trữ glycogen thấp; cần sữa công thức bổ sung ngay.
+- **Hạ đường huyết**: Do dự trữ glycogen thấp; Cần sữa công thức bổ sung ngay.
 - **Hạ thân nhiệt**: Thiếu mỡ dưới da, cần giữ ấm tích cực.
 - **Rối loạn hô hấp**: Ngưng thở, suy hô hấp, cần theo dõi tích cực.
-- **Đa hồng cầu**: Đáp ứng thiếu oxy mạn tính; nguy cơ tăng độ nhớt máu.
+- **Đa hồng cầu**: Đáp ứng thiếu oxy mạn tính; Nguy cơ tăng độ nhớt máu.
 - **Vàng da nặng**: Do tăng huyết tán và chức năng gan chưa hoàn chỉnh.
-- **Nhiễm trùng**: Hệ miễn dịch kém phát triển; cần kháng sinh theo dõi.
+- **Nhiễm trùng**: Hệ miễn dịch kém phát triển; Cần kháng sinh theo dõi.
 - **Di chứng thần kinh dài hạn**: Chậm phát triển vận động và nhận thức.
 
 ## Quản lý
@@ -85,11 +85,11 @@ Cần loại trừ nguyên nhân cấu trúc – di truyền – nhiễm trùng:
 - Cân bằng giữa lợi ích của nong nuôi dưỡng trong tử cung và nguy cơ thiếu oxy, toan máu thai nhi.
 - **IUGR sớm (< 32 tuần)**: Ưu tiên sinh khi có bằng chứng Doppler bất lợi tiến triển (đảo dòng trong thì tâm trương, tăng chỉ số phản xạ kháng lực).
 - **IUGR muộn (> 32 tuần)**: Ưu tiên dựa trên NST/CST và mức độ thiểu ối.
-- Sinh ngả âm đạo nếu đánh giá thai khả năng chịu đựng tốt và không có chỉ định sản khoa khác; ngược lại, cân nhắc mổ lấy thai.
+- Sinh ngả âm đạo nếu đánh giá thai khả năng chịu đựng tốt và không có chỉ định sản khoa khác; Ngược lại, cân nhắc mổ lấy thai.
 
 ## Song thai
 
-- **SGA trong song thai không đồng nghĩa IUGR**; nhiều trường hợp chỉ là thai nhỏ theo constitution.
+- **SGA trong song thai không đồng nghĩa IUGR**; Nhiều trường hợp chỉ là thai nhỏ theo constitution.
 - **IUGR thực sự**: Hội chứng truyền máu (TTTS) hoặc bất thường tử cung–rau không đủ cho hai thai.
 - Đánh giá riêng biệt từng thai bằng Doppler mạch rốn, NST và sinh đồ sinh vật lý.
 

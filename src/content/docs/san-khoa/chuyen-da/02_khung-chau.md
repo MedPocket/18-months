@@ -55,7 +55,7 @@ Hõm xương cùng tạo thành một **khúc cong**, giống như "khúc cua c�
 
 - **Đường kính trước-sau**: 11.5 cm – không có ý nghĩa lâm sàng.
 - **Đường kính ngang**: 10.5 cm – khoảng cách giữa 2 gai hông; **có thể đo được và có giá trị lâm sàng cao**.
-- **Đường kính dọc sau**: 4.5 cm – từ điểm giao với đường kính ngang đến mặt trước xương cùng; phản ánh **độ cong xương cùng** và **khả năng di chuyển của ngôi**.
+- **Đường kính dọc sau**: 4.5 cm – từ điểm giao với đường kính ngang đến mặt trước xương cùng; Phản ánh **độ cong xương cùng** và **khả năng di chuyển của ngôi**.
 
 ### Eo dưới
 
@@ -67,7 +67,7 @@ Eo dưới là đoạn cuối cùng của đường sinh, không phải là tr�
 **Các đường kính chính**:
 
 - **Trước-sau**: 9.5–11.5 cm – không có ý nghĩa lâm sàng vì tính chất không đồng phẳng.
-- **Ngang**: 11 cm – khoảng cách giữa hai ụ ngồi; đo được trên lâm sàng, **có giá trị nhất định**.
+- **Ngang**: 11 cm – khoảng cách giữa hai ụ ngồi; Đo được trên lâm sàng, **có giá trị nhất định**.
 
 ## Đánh giá
 

@@ -87,7 +87,7 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"._
 
 **Kháng sinh và hỗ trợ**:
 
-- Ceftriaxone 1 g x 2 lần/ngày x 2 ngày, sau đó uống Cephalosporin + Metronidazole.
+- Ceftriaxone 1 g × 2 lần/ngày × 2 ngày, sau đó uống Cephalosporin + Metronidazole.
 - Oxytocin, Tranexamic, nghỉ ngơi, không giao hợp.
 
 #### HIFU (siêu âm hội tụ cường độ cao)

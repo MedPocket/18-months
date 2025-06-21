@@ -16,7 +16,7 @@ Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, 
 - **Cholesterol → Pregnenolone**: Tại ty thể, qua enzyme P450scc (side-chain cleavage).
 - **Progesterone (C₂₁)**: Pregnenolone → progesterone (3β-HSD).
 - **Androgen (C₁₉)**: Progesterone → 17α-OH-progesterone → androstenedione → testosterone.
-- **Estrogen (C₁₈)**: Aromatase (P450aro) chuyển testosterone/androstenedione → estradiol/estrone; estriol chủ yếu sinh ra từ chuyển hóa ở gan và rau thai.
+- **Estrogen (C₁₈)**: Aromatase (P450aro) chuyển testosterone/androstenedione → estradiol/estrone; Estriol chủ yếu sinh ra từ chuyển hóa ở gan và rau thai.
 
 ## Vai trò và nguồn gốc
 
@@ -47,7 +47,7 @@ Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, 
 
 ### Progesterone
 
-**Nguồn gốc**: Tế bào hoàng thể sau phóng noãn; một phần từ vỏ thượng thận.
+**Nguồn gốc**: Tế bào hoàng thể sau phóng noãn; Một phần từ vỏ thượng thận.
 
 **Chức năng**:
 

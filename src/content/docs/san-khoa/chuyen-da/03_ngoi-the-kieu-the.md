@@ -75,7 +75,7 @@ Bốn thủ thuật Leopold giúp xác định ngôi và thế thai:
 3. **Thủ thuật thứ ba**: Nắn vùng trên xương vệ để xác định phần thai ở đoạn dưới tử cung (đầu hoặc mông).
 4. **Thủ thuật thứ tư**: Khám từ hướng chân sản phụ, dùng đầu ngón tay ấn trên xương vệ để đánh giá **mức độ lọt** của đầu thai → Nếu đầu chưa lọt, hai bàn tay **hội tụ vào nhau**. Khi đầu đã lọt, hai bàn tay **phân kỳ ra ngoài**.
 
-Trong ngôi chỏm, **ụ đầu** cùng bên với chi; trong ngôi mặt, ụ đầu ngược bên với chi.
+Trong ngôi chỏm, **ụ đầu** cùng bên với chi; Trong ngôi mặt, ụ đầu ngược bên với chi.
 
 ### Khám âm đạo
 

@@ -66,7 +66,7 @@ Chức năng:
 
 Rau thai là phần phụ của thai, giữ vai trò sống còn trong thai kỳ:
 
-- **Trao đổi chất**: Cung cấp dinh dưỡng, nước, oxy, kháng thể, hormone từ mẹ sang thai; loại bỏ CO₂ và các chất thải từ thai về mẹ.
+- **Trao đổi chất**: Cung cấp dinh dưỡng, nước, oxy, kháng thể, hormone từ mẹ sang thai; Loại bỏ CO₂ và các chất thải từ thai về mẹ.
 - **Nội tiết**: Tiết các hormone quan trọng như hCG (human chorionic gonadotropin), estrogen, progesterone...
 - **Miễn dịch**: Truyền miễn dịch thụ động nhờ kháng thể từ máu mẹ qua hàng rào rau sang thai, bảo vệ thai nhi.
 

@@ -19,7 +19,7 @@ Hệ trục hạ đồi–tuyến yên–buồng trứng (HPG axis) ở tuổi d
 
 **Giai đoạn giữa dậy thì**:
 
-- Hoạt động chế tiết FSH ngày càng ổn định hơn; buồng trứng tăng sản xuất estrogen.
+- Hoạt động chế tiết FSH ngày càng ổn định hơn; Buồng trứng tăng sản xuất estrogen.
 - Các đặc điểm sinh dục thứ phát như phát triển tuyến vú, phát triển tử cung, sừng hóa niêm mạc âm đạo dần hoàn thiện.
 - Trung bình, kinh nguyệt lần đầu xuất hiện khi bé gái khoảng 12.8 ± 1.2 tuổi, đánh dấu rằng estrogen đã đủ để kích thích phát triển nội mạc tử cung.
 
@@ -161,7 +161,7 @@ _Bảng "Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xu�
 
 **Liều và thời gian**:
 
-- **Dydrogesterone** 10 mg × 2 lần/ngày (sáng–tối) trong 10–14 ngày; hoặc
+- **Dydrogesterone** 10 mg × 2 lần/ngày (sáng–tối) trong 10–14 ngày; Hoặc
 - **Lynestrenol** 5 mg × 2 lần/ngày trong 10–14 ngày.
 - Sau đó ngưng: Bé gái có thể có hành kinh trong vài ngày kế tiếp.
 
@@ -186,7 +186,7 @@ Chọn progestogen có **tính kháng estrogen** vừa đủ và **ít ức ch�
 **Chọn lựa estrogen**:
 
 - **Ethinyl estradiol** (từ viên COC) hoặc **Estrogen liên hợp** (Premarin®) liều đủ cao. Tối ưu tương đương Ethinyl estradiol 2 mg/ngày trong 7–10 ngày, không khuyến cáo liều càng cao càng tốt, vì tác dụng genomic cần thời gian.
-- Cung cấp qua đường uống; thụt hậu môn hoặc truyền TM hiếm sử dụng ở lứa tuổi này.
+- Cung cấp qua đường uống; Thụt hậu môn hoặc truyền TM hiếm sử dụng ở lứa tuổi này.
 
 **Chọn lựa progestogen**:
 

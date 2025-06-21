@@ -9,7 +9,7 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 
 - **Cho bú sớm**: Bắt đầu trong vòng 1 giờ đầu sau sinh để ổn định đường huyết sơ sinh và kích thích tiết oxytocin, hỗ trợ co hồi tử cung mẹ.
 - **Da kề da**: ít nhất 1 ngày đầu để duy trì nhiệt độ, ổn định hô hấp và glucose cho bé, đồng thời giảm stress cho mẹ.
-- **Cho bú sữa non**: Mỗi 2–3 giờ một lần, đảm bảo bé có năng lượng và kháng thể; khuyến khích bú mẹ hoàn toàn ít nhất 6 tháng đầu.
+- **Cho bú sữa non**: Mỗi 2–3 giờ một lần, đảm bảo bé có năng lượng và kháng thể; Khuyến khích bú mẹ hoàn toàn ít nhất 6 tháng đầu.
 - **Biện pháp tránh thai**: Trì hoãn thai kỳ tiếp theo ≥ 6–12 tháng, ưu tiên phương pháp an toàn (bao cao su, dụng cụ tử cung, viên thuốc kết hợp hàm lượng thấp).
 
 ## Theo dõi trẻ sơ sinh
@@ -35,7 +35,7 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ – con ngay sau sinh và 
 ### Với ĐTĐ thai kỳ
 
 - **Insulin**: Thường ngưng ngay sau sinh.
-- **Đường huyết đói**: Kiểm tra trong vòng 24 giờ sau sinh; nếu bất thường (≥ 7.0 mmol/L), giảm liều insulin còn 50% nếu vẫn duy trì.
+- **Đường huyết đói**: Kiểm tra trong vòng 24 giờ sau sinh; Nếu bất thường (≥ 7.0 mmol/L), giảm liều insulin còn 50% nếu vẫn duy trì.
 - **Theo dõi huyết áp, cân nặng, cử động tử cung**: Để phát hiện tiền sản giật còn sót, xuất huyết sau sinh.
 
 ### Với ĐTĐ thực sự

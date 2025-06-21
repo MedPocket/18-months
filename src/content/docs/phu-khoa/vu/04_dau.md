@@ -196,7 +196,7 @@ Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 
 
 - Tamoxifen 10 mg/ngày trong 3 tháng giúp giảm 70–90% đau vú theo chu kỳ, giảm 56% đau vú không theo chu kỳ.
 - Tái phát đau ở 50% sau khi ngừng thuốc.
-- Chưa được cấp phép chính thức cho điều trị đau vú; liều dùng không quá 6 tháng để tránh nguy cơ ung thư nội mạc tử cung, đông đặc, hay thay đổi chuyển hóa mỡ máu.
+- Chưa được cấp phép chính thức cho điều trị đau vú; Liều dùng không quá 6 tháng để tránh nguy cơ ung thư nội mạc tử cung, đông đặc, hay thay đổi chuyển hóa mỡ máu.
 - Tác dụng phụ: Bốc hỏa, rối loạn kinh nguyệt, đau khớp, nguy cơ tăng ung thư nội mạc tử cung sau 5 năm sử dụng.
 
 **Danazol**:

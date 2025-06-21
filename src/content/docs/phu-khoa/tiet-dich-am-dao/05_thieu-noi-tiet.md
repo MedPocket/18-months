@@ -55,10 +55,10 @@ Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, Trichomona
 
 **Liệu pháp estrogen tại chỗ** giúp tăng sinh lớp biểu mô, phục hồi glycogen, tạo môi trường acid, tăng lượng _Lactobacilli_, giảm teo niêm mạc.:
 
-- **Estriol 0.5 mg đặt âm đạo**: 1 viên/đêm x 20 đêm → sau đó duy trì 1–2 lần/tuần tùy mức độ triệu chứng.
-- **Promestriene 10 mg đặt âm đạo**: 1 viên/ngày x 20 ngày, có thể lặp lại đợt sau 3–6 tháng nếu cần.
-- **Kem/cream Estrogen**: bôi âm đạo, âm hộ 1 lần/ngày x 2–3 tuần, sau đó giảm dần tần suất.
-- **Chlorquinaldol + Promestriene (200 mg + 10 mg) đặt âm đạo**: 1 viên/ngày x 18 ngày (kết hợp kháng khuẩn và estrogen hóa).
+- **Estriol 0.5 mg đặt âm đạo**: 1 viên/đêm × 20 đêm → sau đó duy trì 1–2 lần/tuần tùy mức độ triệu chứng.
+- **Promestriene 10 mg đặt âm đạo**: 1 viên/ngày × 20 ngày, có thể lặp lại đợt sau 3–6 tháng nếu cần.
+- **Kem/cream Estrogen**: bôi âm đạo, âm hộ 1 lần/ngày × 2–3 tuần, sau đó giảm dần tần suất.
+- **Chlorquinaldol + Promestriene (200 mg + 10 mg) đặt âm đạo**: 1 viên/ngày × 18 ngày (kết hợp kháng khuẩn và estrogen hóa).
 
 **Dưỡng ẩm và bôi trơn**:
 
@@ -68,7 +68,7 @@ Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, Trichomona
 **Kháng sinh/kháng khuẩn khi có nhiễm khuẩn thứ phát**:
 
 - Nếu có bằng chứng nhiễm khuẩn hoặc nhiễm nấm đồng thời (phải làm cấy hoặc soi tươi), lựa chọn kháng sinh phù hợp (ví dụ: Metronidazole cho BV, Fluconazole cho VVC).
-- Khi không có xét nghiệm rõ ràng nhưng nghi ngờ nhiễm khuẩn thứ phát (tiết dịch mủ, mùi hôi, bạch cầu nhiều), có thể dùng kháng sinh kinh nghiệm theo phác đồ BV (ví dụ: Metronidazole gel 0.75% đặt âm đạo x 5 ngày).
+- Khi không có xét nghiệm rõ ràng nhưng nghi ngờ nhiễm khuẩn thứ phát (tiết dịch mủ, mùi hôi, bạch cầu nhiều), có thể dùng kháng sinh kinh nghiệm theo phác đồ BV (ví dụ: Metronidazole gel 0.75% đặt âm đạo × 5 ngày).
 
 ### Điều trị toàn thân
 

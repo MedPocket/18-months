@@ -106,7 +106,7 @@ Dựa trên chu kỳ co tử cung:
 
 ### Cách rặn
 
-**Khi có cơn co**: Hít sâu. Nín thở, ngậm miệng, nắm hai bên bàn sinh, chân đạp ống treo. Dồn hơi rặn mạnh xuống bụng dưới. Rặn thêm nếu còn đau và còn hơi. Lưng giữ thẳng, sát bàn sinh; mông cong lên; **không phát âm** khi rặn.
+**Khi có cơn co**: Hít sâu. Nín thở, ngậm miệng, nắm hai bên bàn sinh, chân đạp ống treo. Dồn hơi rặn mạnh xuống bụng dưới. Rặn thêm nếu còn đau và còn hơi. Lưng giữ thẳng, sát bàn sinh; Mông cong lên; **không phát âm** khi rặn.
 
 **Khi hết đau**: Thở sâu, nghỉ và dưỡng sức cho đợt tiếp theo.
 

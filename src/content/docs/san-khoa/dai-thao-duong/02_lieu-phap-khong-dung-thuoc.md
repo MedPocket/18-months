@@ -23,7 +23,7 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 - Ăn nhiều bữa nhỏ: Mỗi bữa chính 25–30% năng lượng, bữa phụ 10%.
 - Hạn chế thực phẩm GI > 70 (bánh kẹo, trái cây sấy, nước ngọt).
 - Tăng cường protein nạc: Thịt nạc, cá, đậu phụ, sữa chua ít béo.
-- Hạn chế muối (< 5 g/ngày; ưu tiên muối iốt), rượu bia, thuốc lá.
+- Hạn chế muối (< 5 g/ngày; Ưu tiên muối iốt), rượu bia, thuốc lá.
 
 **Kiểm soát tăng cân**:
 
@@ -54,9 +54,9 @@ _Bảng "Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châ
 _Bảng "Phân bố glucid, protein và lipid"._
 | Nhóm chất | Tỉ lệ năng lượng | Ghi chú |
 | ----------- | ---------------- | --------------------------------------------------------- |
-| **Glucid** | 35–40% | ≥ 175 g/ngày; chia 3 bữa chính + 2–3 phụ; ưu tiên GI thấp |
-| **Protein** | 20–25% | ≥ 1.1 g/kg/ngày; động – thực vật ≥ 35% động vật |
-| **Lipid** | 30–35% | ≤ 60% mỡ động vật; tăng dầu thực vật, cá béo (omega-3) |
+| **Glucid** | 35–40% | ≥ 175 g/ngày; Chia 3 bữa chính + 2–3 phụ; Ưu tiên GI thấp |
+| **Protein** | 20–25% | ≥ 1.1 g/kg/ngày; Động – thực vật ≥ 35% động vật |
+| **Lipid** | 30–35% | ≤ 60% mỡ động vật; Tăng dầu thực vật, cá béo (omega-3) |
 
 **Chất xơ và vi chất**:
 
@@ -79,7 +79,7 @@ _Bảng "Phân bố bữa ăn"._
 **Hoạt động thể chất**:
 
 - Loại hình: Đi bộ, yoga, bơi, tập cơ bản sau ăn.
-- Cường độ: Trung bình, không gây mệt quá sức; giám sát y tế nếu có biến chứng (nhau tiền đạo, dọa sinh non).
+- Cường độ: Trung bình, không gây mệt quá sức; Giám sát y tế nếu có biến chứng (nhau tiền đạo, dọa sinh non).
 - Thời gian: ≥ 30 phút/ngày hoặc 150 phút/tuần.
 
 ## Theo dõi

@@ -39,11 +39,11 @@ _Bảng "Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ"
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **BMI trước mang thai** | ≥ 23 kg/m² (người châu Á) |
 | **Tiền sử gia đình** | Cha/mẹ/anh/chị/em ruột có ĐTĐ |
-| **Tiền sử sản khoa** | Con ≥ 4.0 kg; thai chết lưu vô căn; dị tật bẩm sinh |
-| **Bệnh lý kèm theo** | Tăng huyết áp; bệnh tim mạch; HDL < 0.9 mmol/L; TG > 2.82 mmol/L; PCOS; HIV |
+| **Tiền sử sản khoa** | Con ≥ 4.0 kg; Thai chết lưu vô căn; Dị tật bẩm sinh |
+| **Bệnh lý kèm theo** | Tăng huyết áp; Bệnh tim mạch; HDL < 0.9 mmol/L; TG > 2.82 mmol/L; PCOS; HIV |
 | **Tuổi mẹ** | > 35 tuổi |
 | **Tiền sử cá nhân** | GDM lần trước; IFG/IGT trước đó; HbA1c 5.7–6.4% |
-| **Lối sống** | Ít vận động; stress; hút thuốc |
+| **Lối sống** | Ít vận động; Stress; Hút thuốc |
 | **Glucosuria (+)** | Có thể dương tính cơ học, không đặc hiệu cho GDM (gặp 10–15% thai phụ không GDM, cần kết hợp xét nghiệm chính xác) |
 
 ## Sàng lọc và chẩn đoán
@@ -162,7 +162,7 @@ _Bảng "Đường huyết tương mao mạch mục tiêu"._
 ### Không dùng thuốc
 
 - **Cá nhân hóa khẩu phần**: Dựa trên kết quả OGTT và cân nặng hiện tại.
-- **Theo dõi**: Đánh giá MNT hiệu quả sau 2 tuần (≥ 4/8 giá trị glucose đạt mục tiêu → tiếp tục MNT; ngược lại → cân nhắc nhập viện → theo dõi liên tục 5 ngày → đạt mục tiêu ra viện điều chỉnh chế độ ăn, không đạt mục tiêu tiêm insulin).
+- **Theo dõi**: Đánh giá MNT hiệu quả sau 2 tuần (≥ 4/8 giá trị glucose đạt mục tiêu → tiếp tục MNT; Ngược lại → cân nhắc nhập viện → theo dõi liên tục 5 ngày → đạt mục tiêu ra viện điều chỉnh chế độ ăn, không đạt mục tiêu tiêm insulin).
 
 ### Insulin
 
@@ -202,7 +202,7 @@ _Hình ảnh "Tóm tắt thời điểm và chỉ định cách sinh"._
 **Trong chuyển dạ**:
 
 - Giữ glucose mao mạch 70–100 mg/dL (3.9–5.6 mmol/L).
-- Theo dõi: Không dùng insulin → 4–6 giờ/lần; dùng insulin → 1–2 giờ/lần hoặc theo chỉ định.
+- Theo dõi: Không dùng insulin → 4–6 giờ/lần; Dùng insulin → 1–2 giờ/lần hoặc theo chỉ định.
 
 **Ngay sau sinh**:
 

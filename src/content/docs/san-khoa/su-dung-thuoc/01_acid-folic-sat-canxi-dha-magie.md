@@ -21,7 +21,7 @@ Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydro
 - Tăng cường chức năng tim mạch và thần kinh.
 - Hỗ trợ phân chia tế bào, tạo máu và hình thành nhau thai.
 
-**Tác dụng phụ**: Hiếm gặp; liều rất cao có thể che giấu thiếu hụt vitamin B12 (gây rối loạn thần kinh).
+**Tác dụng phụ**: Hiếm gặp; Liều rất cao có thể che giấu thiếu hụt vitamin B12 (gây rối loạn thần kinh).
 
 **Nguồn thực phẩm**:
 
@@ -129,7 +129,7 @@ _Bảng "Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai"._
 
 :::caution
 
-- Bắt đầu bổ sung acid folic ít nhất 1 tháng trước khi mang thai; nếu có tiền sử dị tật ống thần kinh, có thể cần 4–5 mg/ngày theo chỉ định bác sĩ.
+- Bắt đầu bổ sung acid folic ít nhất 1 tháng trước khi mang thai; Nếu có tiền sử dị tật ống thần kinh, có thể cần 4–5 mg/ngày theo chỉ định bác sĩ.
 - Magie chỉ cần bổ sung nếu có triệu chứng như chuột rút, mất ngủ, lo âu.
 
 :::
@@ -146,7 +146,7 @@ _Bảng "Hướng dẫn bổ sung acid folic, DHA, sắt, canxi, magie hằng ng
 :::caution
 
 - **Không** uống sắt và canxi cùng lúc (canxi ức chế hấp thu sắt).
-- DHA nên chọn loại tinh khiết, không mùi tanh; uống sau ăn để hấp thu tốt hơn.
+- DHA nên chọn loại tinh khiết, không mùi tanh; Uống sau ăn để hấp thu tốt hơn.
 - Magie nên uống sau bữa ăn nhẹ để giảm nguy cơ tiêu chảy.
 - Tránh uống canxi với cà phê, trà, nước ngọt có ga vì làm giảm hấp thu.
 - Uống đủ nước mỗi ngày (1.5–2 L) để hỗ trợ tiêu hóa và phòng táo bón.

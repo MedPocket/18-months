@@ -23,7 +23,7 @@ Cổ tử cung được cấu tạo bởi biểu mô phủ và mô đệm dướ
 
 - **Lớp tế bào đáy**: Chồng lên màng đáy, nơi tế bào phân chia mạnh nhất.
 - **Lớp tế bào cận đáy** và **lớp tế bào trung gian** (cùng gọi là lớp gai/prickle cell layer).
-- **Lớp tế bào bề mặt**: Tùy theo nồng độ estrogen, dày mỏng khác nhau; chứa nhiều glycogen, bắt màu Lugol dương tính khi nhuộm.
+- **Lớp tế bào bề mặt**: Tùy theo nồng độ estrogen, dày mỏng khác nhau; Chứa nhiều glycogen, bắt màu Lugol dương tính khi nhuộm.
 
 **Cổ trong (Endocervix)** được phủ bởi **biểu mô trụ đơn tiết nhầy**, gồm các tế bào hình trụ cao, nhân tròn hoặc bầu dục nằm sát đáy, bào tương chứa nhiều hạt nhầy. Mô trụ này không tạo thành các tuyến hoàn chỉnh, nhưng có chức năng tiết chất nhầy bảo vệ kênh cổ tử cung.
 

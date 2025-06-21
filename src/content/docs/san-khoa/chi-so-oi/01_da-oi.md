@@ -55,7 +55,7 @@ Chủ yếu dựa vào siêu âm:
 
 Bề cao tử cung lớn hơn tuổi thai, dấu hiệu quá tải (khó thở, tim nhanh), sờ bụng có "sóng vỗ", thăm âm đạo thấy "cục đá".
 
-Siêu âm hình thái, đo chiều dài cổ tử cung; nghiệm pháp dung nạp đường huyết; xét nghiệm TORCH, karyotype, thalassemia...
+Siêu âm hình thái, đo chiều dài cổ tử cung; Nghiệm pháp dung nạp đường huyết; Xét nghiệm TORCH, karyotype, thalassemia...
 
 ## Biến chứng
 

@@ -35,7 +35,7 @@ _Hình ảnh "N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thư
 
 **Lậu hầu họng**:
 
-- Thường không triệu chứng; có thể viêm họng nhẹ, đau họng, sưng hạch góc hàm.
+- Thường không triệu chứng; Có thể viêm họng nhẹ, đau họng, sưng hạch góc hàm.
 - Được phát hiện khi sàng lọc STI hầu họng ở người quan hệ bằng miệng.
 
 #### Có biến chứng
@@ -74,7 +74,7 @@ _Hình ảnh "Lậu hầu họng"._
 
 **Môi trường Thayer-Martin** bổ sung vancomycin (ức chế vi khuẩn Gram dương), colistin, nystatin (ức chế nấm), trimethoprim (ức chế Proteus).
 
-**Độ nhạy**: 85–95% (niệu đạo, cổ tử cung); thấp hơn ở hầu họng và trực tràng (50–70%).
+**Độ nhạy**: 85–95% (niệu đạo, cổ tử cung); Thấp hơn ở hầu họng và trực tràng (50–70%).
 
 **Ưu điểm**: Là tiêu chuẩn vàng để chẩn đoán. Cho phép làm kháng sinh đồ (phải thiết để theo dõi kháng thuốc).
 
@@ -108,7 +108,7 @@ Tại cơ sở không đủ điều kiện xét nghiệm, có thể chẩn đoá
 
 **Lậu hầu họng**: _Streptococcus nhóm A_ (viêm họng liên cầu), _Mycoplasma pneumoniae_, _Chlamydia pneumoniae_, virus đường hô hấp.
 
-**Viêm kết mạc mắt do lậu ở trẻ sơ sinh**: _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_, _Chlamydia trachomatis_; cần nuôi cấy mẫu mủ mắt, NAATs nếu có.
+**Viêm kết mạc mắt do lậu ở trẻ sơ sinh**: _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_, _Chlamydia trachomatis_; Cần nuôi cấy mẫu mủ mắt, NAATs nếu có.
 
 :::caution
 _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi nghi ngờ lậu, luôn làm thêm xét nghiệm Chlamydia (NAATs) để điều trị đồng thời.  
@@ -186,7 +186,7 @@ Tránh chạm mắt khi tra thuốc. Không dùng Povidon Iod dung môi cồn do
 - Điều trị bằng **Ceftriaxon 250 mg tiêm bắp liều duy nhất** + **Azithromycin 1 g uống liều duy nhất** (nếu chưa loại trừ nhiễm Chlamydia).
 - Tránh dùng Gentamicin vì nguy cơ độc tính trên tai và thận của thai nhi.
 
-**Người nhiễm HIV**: Điều trị tương tự người không nhiễm HIV; lưu ý nguy cơ kháng thuốc cao hơn, cần theo dõi kỹ đáp ứng điều trị.
+**Người nhiễm HIV**: Điều trị tương tự người không nhiễm HIV; Lưu ý nguy cơ kháng thuốc cao hơn, cần theo dõi kỹ đáp ứng điều trị.
 
 ### Thất bại điều trị
 
@@ -213,7 +213,7 @@ Tránh chạm mắt khi tra thuốc. Không dùng Povidon Iod dung môi cồn do
 
 - **Tái khám 3 tháng**: Tất cả trường hợp nhiễm lậu sinh dục hoặc trực tràng không biến chứng nên làm NAAT sau 3 tháng kể từ khi điều trị để phát hiện tái nhiễm, kể cả khi không còn triệu chứng.
 - **Nếu không thể tái khám sau 3 tháng**: Có thể xét nghiệm lại bất kỳ lúc nào trong 3–12 tháng sau điều trị đầu tiên.
-- **Nhiễm lậu hầu họng**: Tái khám sau 7–14 ngày để kiểm tra bằng nuôi cấy hoặc NAAT; lưu ý NAAT sau 7 ngày có thể dương tính giả do mảnh gien còn tồn tại, nên ưu tiên nuôi cấy để khẳng định.
+- **Nhiễm lậu hầu họng**: Tái khám sau 7–14 ngày để kiểm tra bằng nuôi cấy hoặc NAAT; Lưu ý NAAT sau 7 ngày có thể dương tính giả do mảnh gien còn tồn tại, nên ưu tiên nuôi cấy để khẳng định.
 - **Viêm niệu đạo, viêm cổ tử cung hoặc viêm trực tràng dai dẳng**: Xem xét nguyên nhân khác (ví dụ: **Mycoplasma genitalium**, **Ureaplasma urealyticum**, **HSV**), làm xét nghiệm bổ sung khi cần.
 
 ## Phòng bệnh

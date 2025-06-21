@@ -28,14 +28,14 @@ _Hình ảnh "Phân chia cổ điển: CIN theo mô học, tế bào học quan 
 
 ### Luận điểm hiện đại
 
-Hiện nay, biết rằng CIN không nhất thiết phải trải qua tuần tự từ thấp lên cao; một số CIN 2–3 xuất hiện "nhảy bậc" mà không qua CIN 1. Yếu tố then chốt bao gồm:
+Hiện nay, biết rằng CIN không nhất thiết phải trải qua tuần tự từ thấp lên cao; Một số CIN 2–3 xuất hiện "nhảy bậc" mà không qua CIN 1. Yếu tố then chốt bao gồm:
 
 - **Genotype HPV**: HPV type 16 chịu trách nhiệm khoảng 55–60% ca ung thư cổ tử cung, type 18 chiếm 10–15%. Có khoảng 12 type HPV nguy cơ cao khác.
 - **Khả năng thanh thải HPV**: Đa số nhiễm HPV ở phụ nữ trẻ (≤ 21 tuổi) tự khỏi trong 8–24 tháng do đáp ứng miễn dịch.
 - **Tích hợp gene HPV**: Khi virus tích hợp vào genome tế bào—đặc biệt ở CIN 2–3—nguy cơ tiến triển cao hơn.
 - **Yếu tố thuận lợi**: Hút thuốc, suy giảm miễn dịch, nhiễm HIV làm giảm khả năng thanh thải HPV.
 
-Hầu hết nhiễm HPV cấp (CIN 1) thoái triển; khoảng 10% CIN 1 tiến triển lên CIN 2–3 sau 2 năm. CIN 3 hiếm khi thoái triển, có khoảng 30% nguy cơ thành ung thư xâm lấn sau 30 năm.
+Hầu hết nhiễm HPV cấp (CIN 1) thoái triển; Khoảng 10% CIN 1 tiến triển lên CIN 2–3 sau 2 năm. CIN 3 hiếm khi thoái triển, có khoảng 30% nguy cơ thành ung thư xâm lấn sau 30 năm.
 
 _Hình ảnh "Các trường hợp nhiễm HPV có thể thoái triển hoặc tiến triển trực tiếp lên HSIL/ung thư mà không qua giai đoạn trung gian"._
 ![Luận điểm hiện đại về tiến triển không theo trình tự cổ điển](./_images/tan-sinh-bieu-mo-co-tu-cung/luan-diem-hien-dai-ve-tien-trien-tu-nhien-bieu-mo-co-tu-cung.png)
@@ -89,7 +89,7 @@ Làm **HPV testing** để phân tầng nguy cơ:
 
 - Nếu kết quả ≥ ASC-H hoặc HSIL → soi cổ tử cung.
 - Nếu bình thường → lặp lại Pap’s test sau 1 năm, nếu vẫn bình thường → tầm soát định kỳ.
-- Có thể làm HPV ngay, nếu HPV (-) → tầm soát định kỳ; nếu HPV (+) → theo dõi như trên.
+- Có thể làm HPV ngay, nếu HPV (-) → tầm soát định kỳ; Nếu HPV (+) → theo dõi như trên.
 
 **Phụ nữ có thai**: Không nạo kênh cổ tử cung, có thể hoãn soi đến 6 tuần sau sinh.
 
@@ -103,7 +103,7 @@ _Hình ảnh "Quản lý ASC-US – Bệnh viện Từ Dũ"._
 
 #### Đặc điểm
 
-**LSIL** biểu hiện CIN 1 hoặc nhiễm HPV type nguy cơ cao. Tế bào LSIL có nhân ≥ 3 lần nhân trung gian, tỷ lệ nhân:bào tương ≤ 1/3; hầu hết HPV (+). Sau 24 tháng:
+**LSIL** biểu hiện CIN 1 hoặc nhiễm HPV type nguy cơ cao. Tế bào LSIL có nhân ≥ 3 lần nhân trung gian, tỷ lệ nhân:bào tương ≤ 1/3; Hầu hết HPV (+). Sau 24 tháng:
 
 - 47% thoái triển về bình thường.
 - 20% tiến triển HSIL.

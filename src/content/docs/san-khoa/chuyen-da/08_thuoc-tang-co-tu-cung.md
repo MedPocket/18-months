@@ -93,7 +93,7 @@ _Bảng "Thuốc tăng co tử cung và hồi phục tử cung"._
 **Liều dùng**:
 
 - 100 µg tiêm bắp một lần sau sổ rau.
-- **Thời gian bán hủy**: 40 phút; co tử cung kéo dài 1–2 giờ.
+- **Thời gian bán hủy**: 40 phút; Co tử cung kéo dài 1–2 giờ.
 
 **Tác dụng phụ**: Đau co tử cung, buồn nôn, bốc hỏa.
 

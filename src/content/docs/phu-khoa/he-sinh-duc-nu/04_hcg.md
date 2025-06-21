@@ -7,21 +7,21 @@ description: human Chorionic Gonadotropin (hCG) nguồn gốc, cấu trúc, th�
 
 ## Nguồn gốc
 
-**Chủ yếu**: Tế bào hội bào nuôi (syncytiotrophoblast) của bánh rau; giai đoạn < 5 tuần còn từ nguyên bào nuôi (cytotrophoblast). **Ngoài ra**: Thận, tuyến yên, một số mô khác → giải thích hCG tăng trong u tân sinh ngoài bánh rau.
+**Chủ yếu**: Tế bào hội bào nuôi (syncytiotrophoblast) của bánh rau; Giai đoạn < 5 tuần còn từ nguyên bào nuôi (cytotrophoblast). **Ngoài ra**: Thận, tuyến yên, một số mô khác → giải thích hCG tăng trong u tân sinh ngoài bánh rau.
 
 **Mức nền**: Rất thấp ở nam và nữ không có thai (nhiều khả năng từ tuyến yên trước).
 
 ## Sinh tổng hợp
 
-**Hai tiểu đơn vị** α (CGA, chung với FSH/LH/TSH; gene trên Chr6) và β (CGB, gene đa bản sao trên Chr19).
+**Hai tiểu đơn vị** α (CGA, chung với FSH/LH/TSH; Gene trên Chr6) và β (CGB, gene đa bản sao trên Chr19).
 
 **β-hCG** có đoạn C-terminal kéo dài → thời gian bán hủy dài hơn LH.
 
-**Lắp ghép α+β trong Golgi** → hormone hoàn chỉnh; các tiểu đơn vị tự do (free α, free β) và tiêu chí α/β bất cân đối có ý nghĩa chẩn đoán.
+**Lắp ghép α+β trong Golgi** → hormone hoàn chỉnh; Các tiểu đơn vị tự do (free α, free β) và tiêu chí α/β bất cân đối có ý nghĩa chẩn đoán.
 
 ## Thụ thể
 
-**LHCGR** (LH/CG receptor) – GPCR: Phần ngoại bào lớn (340 aa) gắn LH & hCG. LH kích hoạt chủ yếu MAPK/PKC; hCG ưu tiên cAMP/PKA.
+**LHCGR** (LH/CG receptor) – GPCR: Phần ngoại bào lớn (340 aa) gắn LH & hCG. LH kích hoạt chủ yếu MAPK/PKC; HCG ưu tiên cAMP/PKA.
 
 ## Chuyển hóa
 
@@ -48,7 +48,7 @@ description: human Chorionic Gonadotropin (hCG) nguồn gốc, cấu trúc, th�
 
 **Bình thường không có thai**: < 5 mIU/mL.
 
-**Có thai**: > 25 mIU/mL (que thử 20–25 mIU/mL). **Tăng gấp đôi**: Mỗi 48 giờ trong 6 tuần đầu; đỉnh 8–10 tuần (100,000 mIU/mL); sau giảm đạt ổn định 16–20 tuần.
+**Có thai**: > 25 mIU/mL (que thử 20–25 mIU/mL). **Tăng gấp đôi**: Mỗi 48 giờ trong 6 tuần đầu; Đỉnh 8–10 tuần (100,000 mIU/mL); Sau giảm đạt ổn định 16–20 tuần.
 
 **Động học sau sảy thai**: Giảm ≥ 21–35% mỗi 48 giờ; < 20% gợi ý sót rau hoặc thai ngoài tử cung.
 

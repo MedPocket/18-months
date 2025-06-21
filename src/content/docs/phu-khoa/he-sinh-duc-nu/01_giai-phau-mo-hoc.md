@@ -1,6 +1,6 @@
 ---
 title: Giải phẫu và mô học buồng trứng
-description: Giải phẫu buồng trứng gồm vị trí, kích thước, bề mặt, các mặt, bờ, đầu của buồng trứng; hệ thống dây chằng, mạc treo; mạch máu, thần kinh, bạch huyết và mô học buồng trứng.
+description: Giải phẫu buồng trứng gồm vị trí, kích thước, bề mặt, các mặt, bờ, đầu của buồng trứng; Hệ thống dây chằng, mạc treo; Mạch máu, thần kinh, bạch huyết và mô học buồng trứng.
 ---
 
 **Buồng trứng là tuyến kép** đảm nhận đồng thời hai vai trò:

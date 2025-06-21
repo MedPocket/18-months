@@ -23,7 +23,7 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 **Nguồn gốc** xuất hiện tiền sản giật bắt đầu từ **bánh rau**, nhưng **cơ quan đích** là các tế bào nội mô của mẹ dẫn đến:
 
 - **Huyết áp**: Co mạch làm tăng huyết áp.
-- **Mạch máu**: Tổn thương nội mô gây thoát quản các thành phần huyết tương và huyết cầu như cô đặc máu, tăng Hematocrit do mất đạm, giảm áp lực keo, nặng có thể gây sốc tim; tiêu thụ tiểu cầu ngoài lòng mạch.
+- **Mạch máu**: Tổn thương nội mô gây thoát quản các thành phần huyết tương và huyết cầu như cô đặc máu, tăng Hematocrit do mất đạm, giảm áp lực keo, nặng có thể gây sốc tim; Tiêu thụ tiểu cầu ngoài lòng mạch.
 - **Gan**: Nhồi máu, hoại tử và xuất huyết trong nhu mô, gây rối loạn chức năng tế bào gan và làm tiến triển thêm các rối loạn đông máu.
 - **Thận**: Tổn thương tế bào nội mô của thận làm tổn hại nghiêm trọng chức năng lọc vi cầu thận. Độ lọc cầu thận giảm tới 40% so với bình thường, gây tăng creatinine máu, tăng acid uric máu và xuất hiện đạm niệu.
 - **Não**: Tổn thương nội mô ở não gây các triệu chứng thần kinh, phù não và xuất huyết trong nhu mô não.

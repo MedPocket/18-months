@@ -102,7 +102,7 @@ _Hình ảnh "Lộ trình của các ngón tay khi tự khám vú"._
 **Tiết dịch núm vú**:
 
 - Cần phân biệt tiết dịch 1 hay 2 bên, màu sắc (trong, vàng, máu) và độ quánh.
-- Nghiêm trọng nếu: Người ≥ 50 tuổi tiết dịch; tiết dịch 1 bên ở người < 50 tuổi; tiết dịch lẫn máu; kèm co rút/núm vú biến dạng.
+- Nghiêm trọng nếu: Người ≥ 50 tuổi tiết dịch; Tiết dịch 1 bên ở người < 50 tuổi; Tiết dịch lẫn máu; Kèm co rút/núm vú biến dạng.
 
 ### Chẩn đoán hình ảnh
 
@@ -244,7 +244,7 @@ Theo ACS (2015), với các nhóm nguy cơ đặc biệt tăng cao như LCIS, AD
 
 - Người thân bậc 1 (FDR) có mắc ung thư vú hoặc buồng trứng (chiếm 20–30% ca ung thư vú).
 - Đột biến gene BRCA1/BRCA2: Làm tăng nguy cơ ung thư vú lên 35–85% trong suốt đời, và nguy cơ ung thư vú đối bên lên đến 65%. BRCA1 còn liên quan đến ung thư buồng trứng, BRCA2 liên quan đến ung thư vú ở nam.
-- Nên làm xét nghiệm BRCA khi có ≥ 3 người thân (bao gồm một người < 50 tuổi) mắc ung thư vú/buồng trứng; hoặc ≥ 2 FDR mắc ung thư vú/buồng trứng; hoặc người thân mắc ung thư vú nam; hoặc bệnh nhân ung thư vú được chẩn đoán trước 50 tuổi.
+- Nên làm xét nghiệm BRCA khi có ≥ 3 người thân (bao gồm một người < 50 tuổi) mắc ung thư vú/buồng trứng; Hoặc ≥ 2 FDR mắc ung thư vú/buồng trứng; Hoặc người thân mắc ung thư vú nam; Hoặc bệnh nhân ung thư vú được chẩn đoán trước 50 tuổi.
 
 **Bệnh lý vú tiền căn**:
 
@@ -255,13 +255,13 @@ Theo ACS (2015), với các nhóm nguy cơ đặc biệt tăng cao như LCIS, AD
 **Hormone và sinh sản**:
 
 - Dậy thì sớm (< 11 tuổi) và mãn kinh muộn (> 55 tuổi) do kéo dài thời gian tiếp xúc estrogen-progesterone.
-- Chưa từng sinh con hoặc sinh con đầu lòng ở tuổi > 30 tuổi: Phụ nữ sinh con đầu sau 30 tuổi có nguy cơ cao gấp 2 lần so với sinh con đầu khi < 20 tuổi; sinh con muộn (> 35 tuổi) làm tăng nguy cơ gấp 3 lần.
+- Chưa từng sinh con hoặc sinh con đầu lòng ở tuổi > 30 tuổi: Phụ nữ sinh con đầu sau 30 tuổi có nguy cơ cao gấp 2 lần so với sinh con đầu khi < 20 tuổi; Sinh con muộn (> 35 tuổi) làm tăng nguy cơ gấp 3 lần.
 - Không cho con bú: Cho con bú mẹ có liên quan giảm nguy cơ ung thư vú, đặc biệt với các khối u dương tính nội tiết.
-- Điều trị liệu pháp hormone thay thế (hormonotherapy) sau mãn kinh: Dùng phối hợp estrogen-progestin ≥ 5 năm làm tăng nguy cơ ung thư vú đáng kể; nguy cơ tăng vẫn kéo dài đến 10 năm sau khi ngưng thuốc.
+- Điều trị liệu pháp hormone thay thế (hormonotherapy) sau mãn kinh: Dùng phối hợp estrogen-progestin ≥ 5 năm làm tăng nguy cơ ung thư vú đáng kể; Nguy cơ tăng vẫn kéo dài đến 10 năm sau khi ngưng thuốc.
 
 **Đặc điểm cá nhân**:
 
-- Tuổi càng cao: Sau 30 tuổi, nguy cơ ung thư vú tăng đột biến; cứ mỗi 10 năm tuổi, nguy cơ tăng gấp đôi. Dưới 25 tuổi chỉ chiếm 1% số ca.
+- Tuổi càng cao: Sau 30 tuổi, nguy cơ ung thư vú tăng đột biến; Cứ mỗi 10 năm tuổi, nguy cơ tăng gấp đôi. Dưới 25 tuổi chỉ chiếm 1% số ca.
 - Chủng tộc: Phụ nữ Do Thái Ashkenazi có tỷ lệ đột biến BRCA cao hơn.
 - Chỉ số khối cơ thể (BMI) lớn, uống rượu, hút thuốc làm tăng nguy cơ.
 - Mật độ mô vú dày trên nhũ ảnh: Phụ nữ có mô vú dày có nguy cơ ung thư vú cao hơn do khó phát hiện tổn thương nhỏ.
@@ -327,7 +327,7 @@ CT scan, MRI toàn thân hoặc xạ hình xương chỉ cần thiết khi có t
 **Sinh thiết lõi (Core Needle Biopsy)**:
 
 - Xác nhận chẩn đoán mô học, xác định biểu hiện ER, PR, HER2 để định hướng điều trị toàn thân.
-- Nếu khối ở vú đã sờ thấy hoặc hình ảnh có vị trí rõ, có thể sinh thiết trực tiếp; nếu không, sinh thiết dưới hướng dẫn siêu âm hoặc nhũ ảnh (khi phát hiện vôi hóa).
+- Nếu khối ở vú đã sờ thấy hoặc hình ảnh có vị trí rõ, có thể sinh thiết trực tiếp; Nếu không, sinh thiết dưới hướng dẫn siêu âm hoặc nhũ ảnh (khi phát hiện vôi hóa).
 
 **Xét nghiệm cơ bản**:
 

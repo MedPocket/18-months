@@ -44,7 +44,7 @@ _Hình ảnh "Nang lạc tuyến nội mạc tử cung ở buồng trứng"._
 **Nang đơn thuần, không triệu chứng**:
 
 - Lành tính, tiềm năng ác tính rất thấp. Phát hiện tình cờ, không cần điều trị nếu không đau, không hiếm muộn.
-- **Không có điều trị nội khoa** làm mất nang; nếu không muốn có thai, có thể dùng COC để ngăn nang mới.
+- **Không có điều trị nội khoa** làm mất nang; Nếu không muốn có thai, có thể dùng COC để ngăn nang mới.
 - **Chỉ định phẫu thuật** khi: Nghi ngờ ác tính (IOTA M-rules, CA125 tăng hoặc nang > 5–6 cm), nang to nhanh, diễn biến bất thường. Cân nhắc yếu tố cá nhân (tình trạng hôn nhân, kế hoạch sinh con, triệu chứng).
 
 **Nang kèm đau**:

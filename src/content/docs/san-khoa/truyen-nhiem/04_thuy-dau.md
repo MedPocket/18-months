@@ -7,7 +7,7 @@ description: Chẩn đoán, điều trị, phòng lẫy nhiễm thủy đậu tr
 
 ## Dịch tễ
 
-**Bệnh xảy ra quanh năm, tăng cao vào mùa xuân – đầu hè (tháng 2–6)**. Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; dễ thành dịch nhỏ nếu không cách ly kịp thời.
+**Bệnh xảy ra quanh năm, tăng cao vào mùa xuân – đầu hè (tháng 2–6)**. Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; Dễ thành dịch nhỏ nếu không cách ly kịp thời.
 
 Nguồn lây duy nhất là người mắc thủy đậu và người bị zona. **Đường truyền**:
 
@@ -27,7 +27,7 @@ Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch 
 - Khởi phát với sốt nhẹ hoặc vừa (37.5–39 °C), đau đầu, mệt mỏi, chán ăn.
 - Phát ban mụn nước mọc từng đợt không đồng đều: Có cả mụn mới và mụn đã đóng vảy cùng lúc.
 - Vị trí khởi phát thường ở mặt, thân mình, sau lan toàn thân.
-- Mụn nước tròn, đường kính 2–5 mm, có thể ngứa; vài ngày sau vỡ → đóng vảy → lành không để sẹo (trừ khi bội nhiễm).
+- Mụn nước tròn, đường kính 2–5 mm, có thể ngứa; Vài ngày sau vỡ → đóng vảy → lành không để sẹo (trừ khi bội nhiễm).
 - Diễn tiến tự giới hạn, thường 7–10 ngày.
 
 **Yếu tố dịch tễ**:

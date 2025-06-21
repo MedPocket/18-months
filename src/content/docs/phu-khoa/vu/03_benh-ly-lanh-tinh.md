@@ -37,7 +37,7 @@ _Bảng "Phân loại bệnh lý tuyến vú theo mô học"._
 #### Lâm sàng
 
 - Thường gặp nhất ở phụ nữ 20–30 tuổi.
-- Thường đơn độc; khi có nhiều khối, cần phân biệt với đa nang sợi, bệnh di truyền...
+- Thường đơn độc; Khi có nhiều khối, cần phân biệt với đa nang sợi, bệnh di truyền...
 - Người bệnh sờ thấy khối vú không đau, di động, mật độ chắc, có thể kích thước từ 1–5 cm (nhỏ hơn 2 cm là phổ biến).
 - Vị trí: Thường ở 1/4 trên ngoài vú, ít khi ở giữa hoặc vú đối diện.
 - Biến đổi kích thước nhẹ theo chu kỳ kinh nguyệt, có thể tự teo dần sau mãn kinh.
@@ -176,7 +176,7 @@ _Hình ảnh "Nang vú trên siêu âm: (Trái) nang điển hình: phản âm t
 ### Điều trị
 
 - Nếu nang điển hình, không triệu chứng: Theo dõi định kỳ 6–12 tuần.
-- **Chọc hút FNA**: Nếu dịch trong, màu vàng; nang xẹp hoàn toàn sau hút; không cần tái khám sớm. Nếu dịch màu sắc bất thường (máu, cặn), hoặc nang không xẹp hoàn toàn: Chỉ định sinh thiết định vị hoặc sinh thiết mở.
+- **Chọc hút FNA**: Nếu dịch trong, màu vàng; Nang xẹp hoàn toàn sau hút; Không cần tái khám sớm. Nếu dịch màu sắc bất thường (máu, cặn), hoặc nang không xẹp hoàn toàn: Chỉ định sinh thiết định vị hoặc sinh thiết mở.
 - Nang tái phát nhiều lần hoặc nang lớn gây đau: Có thể cân nhắc phẫu thuật cắt nang.
 
 ## Bệnh Hamartoma (Fibroadenolipoma)
@@ -208,7 +208,7 @@ _Hình ảnh "Nhũ ảnh Hamartoma vú: Hình ảnh "vú trong vú", vỏ bao m�
 
 #### Chẩn đoán phân biệt
 
-- Fibroadenoma: Hamartoma có thành phần mỡ rõ, không đồng nhất; fibroadenoma thường đặc đồng nhất và không có mỡ.
+- Fibroadenoma: Hamartoma có thành phần mỡ rõ, không đồng nhất; Fibroadenoma thường đặc đồng nhất và không có mỡ.
 - Lipoma: Lipoma hoàn toàn mỡ, siêu âm hoàn toàn giảm âm, không có vùng cản quang.
 - U xơ-nhân khác: Cần core biopsy khi có nghi ngờ.
 
@@ -230,7 +230,7 @@ Bệnh Mondor (Mondor’s disease) là tình trạng viêm tắc tĩnh mạch n�
 
 #### Lâm sàng
 
-- Gặp ở nữ > nam; tiền sử chấn thương, phẫu thuật vú, tập thể thao mạnh hoặc rối loạn đông máu (ví dụ đột biến yếu tố V Leiden).
+- Gặp ở nữ > nam; Tiền sử chấn thương, phẫu thuật vú, tập thể thao mạnh hoặc rối loạn đông máu (ví dụ đột biến yếu tố V Leiden).
 - Triệu chứng: Đau nhói dọc theo đường TM nông, sờ thấy dải cứng, đau khi ấn, căng da. Thay đổi màu da có thể đỏ, tím theo đường TM.
 - Thường tự giới hạn, triệu chứng giảm dần trong 4–8 tuần.
 
@@ -244,7 +244,7 @@ Bệnh Mondor (Mondor’s disease) là tình trạng viêm tắc tĩnh mạch n�
 - Nghỉ ngơi, tránh ép da mạnh.
 - Giảm đau và viêm: NSAIDs (Ibuprofen, Naproxen).
 - Đeo băng ép nhẹ hoặc hỗ trợ áo ngực ôm sát.
-- Theo dõi khỏi tự nhiên; nếu kéo dài > 8 tuần, cần đánh giá tắc tĩnh mạch sâu hoặc nguyên nhân ác tính.
+- Theo dõi khỏi tự nhiên; Nếu kéo dài > 8 tuần, cần đánh giá tắc tĩnh mạch sâu hoặc nguyên nhân ác tính.
 
 ## U mỡ
 
@@ -261,7 +261,7 @@ U mỡ (Lipoma) là khối u lành tính thường gặp nhất ở mô mỡ, ba
 #### Cận lâm sàng
 
 - **Siêu âm**: Khối giảm âm đồng nhất, bóng lưng nhẹ, bờ rõ, cấu trúc âm học giống mô mỡ xung quanh.
-- **Nhũ ảnh**: Đậm độ thấp, giống mô mỡ, bờ mờ nhẹ hoặc rõ; nếu khối lớn, có thể thấy vùng thấu quang.
+- **Nhũ ảnh**: Đậm độ thấp, giống mô mỡ, bờ mờ nhẹ hoặc rõ; Nếu khối lớn, có thể thấy vùng thấu quang.
 - **MRI**: Khối có tính chất tín hiệu giống mỡ, căng tín hiệu trên T1, giảm tín hiệu trên STIR/ fat-sat, không bắt thuốc tương phản.
 
 #### Chẩn đoán phân biệt
@@ -286,7 +286,7 @@ _Hình ảnh "(Trái) Tuyến vú phụ ở nách; (Phải) Sơ đồ đường 
 
 - Tần suất khoảng 1–5% trong dân số, nữ > nam (một số nghiên cứu ghi nhận tỉ lệ gần nhau).
 - Vị trí phổ biến: Vùng nách (most common), dưới vú chính, dọc đường sữa.
-- Thường không triệu chứng, chỉ thẩm mỹ; mô vú phụ vẫn có thể bị bệnh lý giống vú chính (u, viêm, nhiễm trùng).
+- Thường không triệu chứng, chỉ thẩm mỹ; Mô vú phụ vẫn có thể bị bệnh lý giống vú chính (u, viêm, nhiễm trùng).
 
 ### Điều trị
 

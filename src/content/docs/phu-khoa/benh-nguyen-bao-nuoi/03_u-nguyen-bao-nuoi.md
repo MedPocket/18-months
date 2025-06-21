@@ -3,13 +3,13 @@ title: U nguyên bào nuôi
 description: U nguyên bào nuôi (Gestational Trophoblastic Neoplasia – GTN) là tình trạng tăng sinh ác tính của tế bào nguyên bào nuôi phát sinh sau các biến cố thai kỳ, bao gồm thai trứng, thai lưu, sảy thai, thai đủ tháng hoặc thai ngoài tử cung.
 ---
 
-Xuất hiện sau thai trứng (60%); thai lưu/sảy thai (30%); thai đủ tháng hoặc thai ngoài tử cung (10%). Thường khởi đầu bằng xuất huyết âm đạo kéo dài, có thể kèm đau vùng hạ vị hoặc dấu hiệu di căn.
+Xuất hiện sau thai trứng (60%); Thai lưu/sảy thai (30%); Thai đủ tháng hoặc thai ngoài tử cung (10%). Thường khởi đầu bằng xuất huyết âm đạo kéo dài, có thể kèm đau vùng hạ vị hoặc dấu hiệu di căn.
 
 **Theo FIGO 2018** gồm:
 
 - **Thai trứng xâm lấn (Invasive mole)**. Tổ chức nguyên bào nuôi phồng nước xâm nhập vào cơ tử cung, gây chảy máu nặng và có thể thủng tử cung. Tiến triển từ 15% thai trứng. β-hCG thường 20 000–30 000 mIU/mL. Siêu âm Doppler thấy khối tăng sinh mạch trong cơ. Giải phẫu bệnh sau cắt tử cung ghi nhận gai rau thoái hóa nước trong cơ tử cung.
 - **U nguyên bào nuôi tại vị trí rau bám (Placental Site Trophoblastic Tumour – PSTT)**. Khối u phát sinh từ tế bào nuôi nơi bám rau, β-hCG thường thấp (16–400 mIU/mL). Ít đáp ứng hóa chất, cần phẫu thuật triệt căn.
-- **Ung thư nguyên bào nuôi (Choriocarcinoma)**. Tân lập ác tính toàn tế bào nuôi, không còn gai rau; khởi phát sau thai trứng, thai bình thường hoặc tự phát không liên quan thai kỳ (non-gestational). Di căn xa sớm (phổi, não, gan...).
+- **Ung thư nguyên bào nuôi (Choriocarcinoma)**. Tân lập ác tính toàn tế bào nuôi, không còn gai rau; Khởi phát sau thai trứng, thai bình thường hoặc tự phát không liên quan thai kỳ (non-gestational). Di căn xa sớm (phổi, não, gan...).
 - **U nguyên bào nuôi dạng biểu mô (Epithelioid Trophoblastic Tumour – ETT)**. Hiếm, tế bào giống biểu mô nhau thai, diễn tiến chậm, kháng hóa chất, ưu tiên phẫu thuật.
 
 ## Chẩn đoán
@@ -102,7 +102,7 @@ _Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi t
 **EMA-CO** (Etoposide, MTX, Act-D / Cyclophosphamide, Vincristine) theo phác đồ 2 tuần:
 
 - **Ngày 1**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5mg tĩnh mạch. MTX 100 mg/m² da tĩnh mạch. MTX 200 mg/m² da tĩnh mạch trong 12 giờ.
-- **Ngày 2**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5mg tĩnh mạch. Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24 giờ.
+- **Ngày 2**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5mg tĩnh mạch. Folinic acid 15mg tiêm bắp 2 lần/ngày × 2 ngày sau MTX 24 giờ.
 - **Ngày 8**: Oncovin (Vincristin) 1 mg/m² da tĩnh mạch, tối đa 2mg. Cyclophosphamid 600 mg/m² da truyền TM trong 30 phút.
 - **Tiêu chuẩn để hóa trị**: Ngày 1 và 2: Bạch cầu ≥ 3000/mm³, bạch cầu đa nhân trung tính ≥ 1500/mm³; Ngày 8: Bạch cầu ≥ 2000/mm³, bạch cầu đa nhân trung tính ≥ 1000/mm³.
 - Lặp lại thêm 3–4 chu kỳ sau khi β-hCG âm tính.
@@ -135,7 +135,7 @@ _Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi t
 Sử dụng **phác đồ**:
 
 - **Ngày 1**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5 mg tĩnh mạch. MTX 100 mg/m² da tĩnh mạch. MTX 200 mg/m² da tĩnh mạch trong 12 giờ.
-- **Ngày 2**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5 mg tĩnh mạch. Folinic acid 15 mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24 giờ.
+- **Ngày 2**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5 mg tĩnh mạch. Folinic acid 15 mg tiêm bắp 2 lần/ngày × 2 ngày sau MTX 24 giờ.
 - **Ngày 8**: Oncovin (Vincristin) 1 mg/m² da tĩnh mạch, tối đa 2 mg. Cyclophosphamid 600 mg/m² da truyền TM trong 30 phút.
 
 **Kết hợp xạ trị 3000 cGy**.

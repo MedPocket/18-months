@@ -42,7 +42,7 @@ Chủ yếu dựa vào siêu âm:
 
 :::
 
-Lâm sàng có thể thấy bề cao tử cung nhỏ hơn tuổi thai. Có thể thấy ối rỉ; test Nitrazine dương tính khi vỡ ối.
+Lâm sàng có thể thấy bề cao tử cung nhỏ hơn tuổi thai. Có thể thấy ối rỉ; Test Nitrazine dương tính khi vỡ ối.
 
 Xét nghiệm TORCH, karyotype để phát hiện nhiễm trùng hoặc dị tật.
 

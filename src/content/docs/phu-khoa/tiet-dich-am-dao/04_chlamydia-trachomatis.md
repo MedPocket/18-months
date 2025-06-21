@@ -14,7 +14,7 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 
 **Chlamydia trachomatis** gồm nhiều tuýp huyết thanh (serotype):
 
-- **Tuýp D–K**: Gây nhiễm niệu đạo, cổ tử cung, trực tràng, họng; thường gọi chung là nhiễm Chlamydia sinh dục – tiết niệu.
+- **Tuýp D–K**: Gây nhiễm niệu đạo, cổ tử cung, trực tràng, họng; Thường gọi chung là nhiễm Chlamydia sinh dục – tiết niệu.
 - **Tuýp L1, L2, L3**: Gây bệnh hột xoài (Lymphogranuloma venereum – LGV), tổn thương sâu ở hạch bẹn hoặc hạch đùi, đôi khi viêm trực tràng mạn.
 - **Tuýp A–C**: Gây viêm kết mạc ở trẻ em, ít liên quan đến đường sinh dục.
 
@@ -63,7 +63,7 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 
 **Nam giới**:
 
-- 50% không có triệu chứng; khi có: Tiết dịch mủ niệu đạo, tiểu buốt, tiểu rát, cảm giác đái khó.
+- 50% không có triệu chứng; Khi có: Tiết dịch mủ niệu đạo, tiểu buốt, tiểu rát, cảm giác đái khó.
 - Đau dọc niệu đạo, có thể kèm ngứa.
 
 **Nhiễm ngoài sinh dục**:
@@ -82,7 +82,7 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 **Trẻ sơ sinh**:
 
 - Viêm kết mạc: Đỏ mắt, chảy mủ, sưng mí sau 5–14 ngày, cần chẩn đoán sớm để tránh loét giác mạc.
-- Viêm phổi bẩm sinh: Khởi phát sau 2–3 tuần, ho khan, không đáp ứng kháng sinh thông thường; cần điều trị sulfamethoxazole–trimethoprim (TMP–SMX).
+- Viêm phổi bẩm sinh: Khởi phát sau 2–3 tuần, ho khan, không đáp ứng kháng sinh thông thường; Cần điều trị sulfamethoxazole–trimethoprim (TMP–SMX).
 
 #### Bệnh hột xoài (LGV)
 
@@ -143,7 +143,7 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 - Loét, mụn nước, ngứa dữ dội, scleroatrophic papulosis, có thể kèm u hạch.
 
 :::caution
-_N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; do đó, khi nghi ngờ _Chlamydia_, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
+_N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; Do đó, khi nghi ngờ _Chlamydia_, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
 :::
 
 ## Điều trị
@@ -162,34 +162,34 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; do đó, khi ng
 
 **Phác đồ ưu tiên** (tùy chọn 1 hoặc 2):
 
-- **Azithromycin 1 g uống liều duy nhất**: Ưu điểm: Thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%; Thận trọng: Có thể gây buồn nôn, đau bụng, tiêu chảy; không dùng đồng thời cùng uống sultanol.
-- **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**: Hiệu quả 97%; Thận trọng: Không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
+- **Azithromycin 1 g uống liều duy nhất**: Ưu điểm: Thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%; Thận trọng: Có thể gây buồn nôn, đau bụng, tiêu chảy; Không dùng đồng thời cùng uống sultanol.
+- **Doxycycline 100 mg uống 2 lần/ngày × 7 ngày**: Hiệu quả 97%; Thận trọng: Không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
 
 **Phác đồ thay thế** (khi không thể dùng thuốc ưu tiên):
 
-- **Tetracycline 500 mg uống 4 lần/ngày x 7 ngày**.
-- **Erythromycin 500 mg uống 4 lần/ngày x 7 ngày** (tùy chọn cho phụ nữ có thai, nhưng dung nạp kém, nhiều tác dụng phụ tiêu hóa).
-- **Ofloxacin 200–400 mg uống 2 lần/ngày x 7 ngày** (không dùng cho phụ nữ có thai).
-- **Levofloxacin 500 mg uống 1 lần/ngày x 7 ngày** (không dùng cho phụ nữ có thai, giá thành cao).
+- **Tetracycline 500 mg uống 4 lần/ngày × 7 ngày**.
+- **Erythromycin 500 mg uống 4 lần/ngày × 7 ngày** (tùy chọn cho phụ nữ có thai, nhưng dung nạp kém, nhiều tác dụng phụ tiêu hóa).
+- **Ofloxacin 200–400 mg uống 2 lần/ngày × 7 ngày** (không dùng cho phụ nữ có thai).
+- **Levofloxacin 500 mg uống 1 lần/ngày × 7 ngày** (không dùng cho phụ nữ có thai, giá thành cao).
 
 #### Chlamydia hậu môn – trực tràng (Rectal Chlamydia)
 
-- **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày**.
+- **Doxycycline 100 mg uống 2 lần/ngày × 7 ngày**.
 - **Azithromycin 1 g uống liều duy nhất** (ít ưu tiên hơn do hiệu quả ruột thấp hơn, đặc biệt lâm sàng ở rectal chlamydia).
 
 #### Bệnh hột xoài (LGV)
 
 **Phác đồ ưu tiên**:
 
-- **Doxycycline 100 mg uống 2 lần/ngày x 21 ngày**.
-- **Azithromycin 1 g uống 1 lần/tuần x 3 tuần** (nếu không tuân thủ được doxycycline).
+- **Doxycycline 100 mg uống 2 lần/ngày × 21 ngày**.
+- **Azithromycin 1 g uống 1 lần/tuần × 3 tuần** (nếu không tuân thủ được doxycycline).
 
-**Phác đồ thay thế** (khi không thể dùng doxycycline hoặc azithromycin): **Erythromycin 500 mg uống 4 lần/ngày x 7–10 ngày** (ít hiệu quả hơn, chỉ dùng khi không dùng được các thành phần trên).
+**Phác đồ thay thế** (khi không thể dùng doxycycline hoặc azithromycin): **Erythromycin 500 mg uống 4 lần/ngày × 7–10 ngày** (ít hiệu quả hơn, chỉ dùng khi không dùng được các thành phần trên).
 
 #### Chlamydia ở phụ nữ có thai
 
 - **Azithromycin 1 g uống liều duy nhất** (an toàn, hiệu quả tốt).
-- **Amoxicillin 500 mg uống 3 lần/ngày x 7 ngày** (thay thế nếu dị ứng macrolide).
+- **Amoxicillin 500 mg uống 3 lần/ngày × 7 ngày** (thay thế nếu dị ứng macrolide).
 
 :::caution
 Không sử dung **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây ảnh hưởng đến phát triển xương, răng thai nhi).
@@ -198,7 +198,7 @@ Không sử dung **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây �
 #### Chlamydia ở trẻ sơ sinh
 
 - **Viêm kết mạc**: **Erythromycin 0.5% kem bôi mắt** mỗi khi nhỏ mắt hoặc dùng **Azithromycin liều đơn (20 mg/kg uống)** nếu nặng.
-- **Viêm phổi bẩm sinh**: **Erythromycin 50 mg/kg/ngày chia 4 lần x 14 ngày**, nếu không đáp ứng, chuyển sang **TMP–SMX** theo cân nặng.
+- **Viêm phổi bẩm sinh**: **Erythromycin 50 mg/kg/ngày chia 4 lần × 14 ngày**, nếu không đáp ứng, chuyển sang **TMP–SMX** theo cân nặng.
 
 :::caution
 
@@ -213,7 +213,7 @@ Không sử dung **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây �
 
 - **Tái khám sau 3 tháng**: Tất cả các trường hợp nhiễm Chlamydia nên được sàng lọc lại NAAT sau 3 tháng kể từ ngày điều trị dù đã hết triệu chứng để phát hiện tái nhiễm.
 - **Nếu không thể tái khám sau 3 tháng**, có thể xét nghiệm bất kỳ lúc nào trong khoảng 3–12 tháng sau điều trị đầu tiên.
-- **Đánh giá biến chứng**: Với phụ nữ có dấu hiệu PID, cần siêu âm đầu dò âm đạo; với nam giới viêm mào tinh hoàn, cần siêu âm tinh hoàn.
+- **Đánh giá biến chứng**: Với phụ nữ có dấu hiệu PID, cần siêu âm đầu dò âm đạo; Với nam giới viêm mào tinh hoàn, cần siêu âm tinh hoàn.
 - **Sàng lọc đồng nhiễm STI**: Luôn thực hiện xét nghiệm HIV, giang mai, lậu khi chẩn đoán Chlamydia vì tỷ lệ đồng nhiễm cao.
 
 ## Tài liệu tham khảo

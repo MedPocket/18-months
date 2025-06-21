@@ -132,7 +132,7 @@ _Bảng "Giảm đau bước 1"._
 _Bảng "Giảm đau bước 2"._
 | Loại thuốc | Liều dùng | Hiệu quả | Tác dụng phụ / Lưu ý |
 | ------------------------ | -------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------- |
-| **GnRH đồng vận** | Goserelin 3.6 mg mỗi 28 ngày SC<br>Leuprolide 3.75 mg mỗi 28 ngày IM | Ức chế HPA → giảm estrogen toàn thân | Bốc hỏa, loãng xương; cần add-back therapy |
+| **GnRH đồng vận** | Goserelin 3.6 mg mỗi 28 ngày SC<br>Leuprolide 3.75 mg mỗi 28 ngày IM | Ức chế HPA → giảm estrogen toàn thân | Bốc hỏa, loãng xương; Cần add-back therapy |
 | **AI** | Letrozole 2.5 mg/ngày<br>Anastrozole 1 mg/ngày | Giảm estrogen cục bộ | Giảm mật độ xương, bốc hỏa, mệt mỏi |
 | **Danazol / Gestrinone** | Danazol 200 mg ×2/ngày<br>Gestrinone 2.5 mg ×2/ngày | Khi thất bại các liệu pháp trên | Vô kinh, nam hóa, rối loạn lipid, tác dụng androgen |
 
@@ -148,12 +148,12 @@ _Bảng "Giảm đau bước 2"._
 - **Liều dùng**: EE 20–30 µg + progestin, 1 viên/ngày liên tục hoặc theo chu kỳ; Miếng dán mỗi tuần 1 miếng.
 
 :::caution
-Không dùng quá 3 tháng nếu không giảm đau; ít hiệu quả với lạc nội mạc sâu.
+Không dùng quá 3 tháng nếu không giảm đau; Ít hiệu quả với lạc nội mạc sâu.
 :::
 
 **Aromatase inhibitors (AIs)**:
 
-- **Chỉ định**: Đau tái phát sau NSAIDs/COCs; phối hợp khi cường estrogen cục bộ nặng.
+- **Chỉ định**: Đau tái phát sau NSAIDs/COCs; Phối hợp khi cường estrogen cục bộ nặng.
 - **Liều dùng**: Letrozole 2.5 mg/ngày, Anastrozole 1 mg/ngày.
 - **Tác dụng phụ**: Giảm mật độ xương, bốc hỏa, mệt mỏi.
 
@@ -162,7 +162,7 @@ Không dùng quá 3 tháng nếu không giảm đau; ít hiệu quả với lạ
 - **Cơ chế**: ức chế trục HPA → giảm estrogen toàn thân.
 - **Phối hợp**: Luôn dùng add-back estrogen/progestin để bảo vệ xương.
 - **Liều dùng**: Goserelin 3.6 mg tiêm bắp mỗi 28 ngày; Leuprolide 3.75 mg TM mỗi 28 ngày.
-- **Hạn chế**: Chỉ dùng tối đa 6 tháng nếu không có add-back; bốc hỏa, loãng xương.
+- **Hạn chế**: Chỉ dùng tối đa 6 tháng nếu không có add-back; Bốc hỏa, loãng xương.
 
 **Progestin tại chỗ & toàn thân**:
 
@@ -171,7 +171,7 @@ Không dùng quá 3 tháng nếu không giảm đau; ít hiệu quả với lạ
 - **Tác dụng**: Teo nội mạc, giảm viêm; LNG-IUS còn giảm cường kinh.
 
 :::caution
-Chọn progestin ít tác dụng toàn thân; ưu tiên LNG-IUS hoặc Dienogest nếu có AUB-A.
+Chọn progestin ít tác dụng toàn thân; Ưu tiên LNG-IUS hoặc Dienogest nếu có AUB-A.
 :::
 
 #### Ngoại khoa

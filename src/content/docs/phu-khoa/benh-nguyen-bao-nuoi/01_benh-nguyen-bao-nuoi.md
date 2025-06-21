@@ -14,7 +14,7 @@ Tiêu chuẩn chẩn đoán bao gồm siêu âm, định lượng β-hCG và gi�
 **Thai trứng toàn phần (Complete mole)**:
 
 - NST thường là 46,XX toàn bố (đơn bố) hoặc 46,XY (hiếm).
-- Không có mô phôi phôi thai; hình ảnh siêu âm "mây tuyết", tăng sản gai rau lan toả.
+- Không có mô phôi phôi thai; Hình ảnh siêu âm "mây tuyết", tăng sản gai rau lan toả.
 
 **Thai trứng bán phần (Partial mole)**:
 
@@ -30,14 +30,14 @@ Tiêu chuẩn chẩn đoán bao gồm siêu âm, định lượng β-hCG và gi�
 
 **Ung thư nguyên bào nuôi (Choriocarcinoma)**:
 
-- Không còn mô gai rau; toàn tế bào nuôi thể trung tâm và tế bào nuôi thể lá.
+- Không còn mô gai rau; Toàn tế bào nuôi thể trung tâm và tế bào nuôi thể lá.
 - Xuất hiện sau thai trứng, sảy thai, sinh non hoặc có thể sau thai bình thường.
 - Khả năng di căn rất cao (phổi, não, gan).
 
 **U nguyên bào nuôi nơi rau bám (Placental Site Trophoblastic Tumor – PSTT)**:
 
-- Phát sinh từ tế bào nuôi làm tổ tại điểm bám rau; β-hCG thường thấp.
-- Ít nhạy với hóa chất; điều trị chủ yếu là phẫu thuật.
+- Phát sinh từ tế bào nuôi làm tổ tại điểm bám rau; Β-hCG thường thấp.
+- Ít nhạy với hóa chất; Điều trị chủ yếu là phẫu thuật.
 
 **U nguyên bào nuôi dạng biểu mô (Epithelioid Trophoblastic Tumor – ETT)**:
 

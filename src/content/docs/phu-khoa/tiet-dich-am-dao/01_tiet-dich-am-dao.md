@@ -9,7 +9,7 @@ Hệ vi khuẩn âm đạo (vaginal microbiome) của phụ nữ trong độ tu�
 
 ## Hệ vi khuẩn âm đạo
 
-Các trạng thái hệ vi khuẩn âm đạo khác nhau (dựa trên chủng chiếm ưu thế, điểm Nugent) phản ánh sự biến động chức năng bảo vệ ở từng cá thể. Khi _Lactobacillus_ chiếm ưu thế, âm đạo được bảo vệ tốt; ngược lại, giảm _Lactobacillus_ hoặc tăng vi khuẩn kỵ khí/gây hại sẽ dẫn đến rối loạn tiết dịch.
+Các trạng thái hệ vi khuẩn âm đạo khác nhau (dựa trên chủng chiếm ưu thế, điểm Nugent) phản ánh sự biến động chức năng bảo vệ ở từng cá thể. Khi _Lactobacillus_ chiếm ưu thế, âm đạo được bảo vệ tốt; Ngược lại, giảm _Lactobacillus_ hoặc tăng vi khuẩn kỵ khí/gây hại sẽ dẫn đến rối loạn tiết dịch.
 
 _Hình ảnh "Phân kiểu trạng thái khuẩn hệ dựa trên chủng vi khuẩn ưu thế và điểm Nugent"._
 ![Các kiểu trạng thái khuẩn hệ âm đạo](./_images/tiet-dich-am-dao-bat-thuong/cac-trang-thai-khuan-he-am-dao.png)

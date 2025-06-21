@@ -15,7 +15,7 @@ Các phương pháp hình ảnh chính:
 
 ### Siêu âm
 
-**Qua bụng** sóng tần số thấp → tầm quan sát rộng, đánh giá u lớn, di căn phúc mạc; độ phân giải thấp. **Qua đường âm đạo** sóng tần số cao → hình ảnh chi tiết, phân biệt lành/ác tốt; tầm quan sát hạn chế, phù hợp u nhỏ-vừa. Siêu âm qua âm đạo (NPV 91–100%, PPV 35–75%) giúp loại trừ hầu hết ác tính. **Các đặc điểm quan trọng** để đánh giá:
+**Qua bụng** sóng tần số thấp → tầm quan sát rộng, đánh giá u lớn, di căn phúc mạc; Độ phân giải thấp. **Qua đường âm đạo** sóng tần số cao → hình ảnh chi tiết, phân biệt lành/ác tốt; Tầm quan sát hạn chế, phù hợp u nhỏ-vừa. Siêu âm qua âm đạo (NPV 91–100%, PPV 35–75%) giúp loại trừ hầu hết ác tính. **Các đặc điểm quan trọng** để đánh giá:
 
 1. Nang hay đặc.
 2. Phản âm bên trong.
@@ -56,7 +56,7 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
   ![O-RADS 4A](./_images/phuong-tien-tiep-can-u-buong-trung/orads-4a.png)
   _Hình ảnh "O-RADS 4B"._
   ![O-RADS 4B](./_images/phuong-tien-tiep-can-u-buong-trung/orads-4b.png)
-- **O-RADS 5** (≥ 50% ác): Sang thương đặc bờ không đều, nang đa thùy có thành phần đặc với CS cao; hoặc kèm báng bụng/nốt phúc mạc (ngoại trừ báng do nang chức năng hoặc nang chắc chắn lành).<br>
+- **O-RADS 5** (≥ 50% ác): Sang thương đặc bờ không đều, nang đa thùy có thành phần đặc với CS cao; Hoặc kèm báng bụng/nốt phúc mạc (ngoại trừ báng do nang chức năng hoặc nang chắc chắn lành).<br>
   _Hình ảnh "O-RADS 5"._
   ![O-RADS 5](./_images/phuong-tien-tiep-can-u-buong-trung/orads-5.png)
 
@@ -106,13 +106,13 @@ Hiệu quả để: Mô tả u rất nhỏ vùng bụng Xác định vị trí u
 
 ## Các chỉ báo sinh học
 
-**Chủ yếu dùng để theo dõi sau mổ**; giá trị chẩn đoán trước mổ chưa rõ ràng.
+**Chủ yếu dùng để theo dõi sau mổ**; Giá trị chẩn đoán trước mổ chưa rõ ràng.
 
 ### CA125
 
 - Là glycoprotein (MUC16) do thượng mô phúc mạc và mô Müllerian tiết.
 - Tăng trong: Ung thư buồng trứng, vú, phổi, tụy, đại tràng... và nhiều tình trạng lành: thai kỳ, lạc nội mạc tử cung, hành kinh, tràn dịch màng bụng/ phổi (lao, suy tim...).
-- Giá trị ngưỡng chung: 35 IU/mL; sau mãn kinh hoặc đã cắt TC + 2 buồng trứng nên dùng ngưỡng 20–26 IU/mL.
+- Giá trị ngưỡng chung: 35 IU/mL; Sau mãn kinh hoặc đã cắt TC + 2 buồng trứng nên dùng ngưỡng 20–26 IU/mL.
 - Trong u biểu mô buồng trứng: CA125 tăng chủ yếu ở u thanh dịch, ít ở u nhầy, tế bào sáng hoặc giáp biên.
 - **Không dùng để sàng lọc u sớm** (độ nhạy 10–50%, độ đặc hiệu 30%).
 - **Độ nhạy CA125** cho ung thư tiến triển xa 85%.
@@ -160,7 +160,7 @@ ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
 
 ### Các đột biến khác
 
-- **TP53**: Liên quan ung thư biểu mô buồng trứng thanh dịch grade cao; cũng gặp nhiều ung thư khác, là chỉ báo tiên lượng xấu.
+- **TP53**: Liên quan ung thư biểu mô buồng trứng thanh dịch grade cao; Cũng gặp nhiều ung thư khác, là chỉ báo tiên lượng xấu.
 - **PIK3CA**: Liên quan u tế bào sáng, u nhầy, u dạng nội mạc.
 - **CTNNB1 exon 3**: Gặp u dạng nội mạc ác tính grade thấp, giai đoạn sớm.
 - **KRAS**, **BRAF**: Thường gặp ở ung thư grade thấp.

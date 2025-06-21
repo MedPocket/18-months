@@ -152,9 +152,9 @@ Nhiều loại tăng sinh có thể cùng tồn tại với ung thư nội mạc
 
 **Theo dõi sau điều trị**:
 
-- Sinh thiết sau 3 tháng điều trị; nếu còn tồn tại, tăng liều hoặc kéo dài thời gian điều trị.
-- Thời gian thoái triển trung bình 9 tháng; nếu còn tồn tại sau 7–9 tháng, tiên lượng thất bại cao (cân nhắc cắt tử cung).
-- Sau khi mẫu bình thường: Khuyến khích thụ thai sớm; nếu chưa, sinh thiết 6–12 tháng/lần.
+- Sinh thiết sau 3 tháng điều trị; Nếu còn tồn tại, tăng liều hoặc kéo dài thời gian điều trị.
+- Thời gian thoái triển trung bình 9 tháng; Nếu còn tồn tại sau 7–9 tháng, tiên lượng thất bại cao (cân nhắc cắt tử cung).
+- Sau khi mẫu bình thường: Khuyến khích thụ thai sớm; Nếu chưa, sinh thiết 6–12 tháng/lần.
 
 ### Ngoại khoa
 

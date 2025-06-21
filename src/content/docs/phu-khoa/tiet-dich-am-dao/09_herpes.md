@@ -69,15 +69,15 @@ _Hình ảnh "Herpes sinh dục: Mụn nước, vết loét ở vùng môi bé v
 
 ## Điều trị
 
-Herpes sinh dục điều trị bao gồm: Dùng thuốc kháng virus toàn thân làm giảm triệu chứng, rút ngắn thời gian lành thương, giảm khả năng lây lan; kết hợp điều trị hỗ trợ tại chỗ, giảm đau và phòng bội nhiễm.
+Herpes sinh dục điều trị bao gồm: Dùng thuốc kháng virus toàn thân làm giảm triệu chứng, rút ngắn thời gian lành thương, giảm khả năng lây lan; Kết hợp điều trị hỗ trợ tại chỗ, giảm đau và phòng bội nhiễm.
 
 ### Giai đoạn cấp
 
-**Acyclovir**: 400 mg uống 3 lần/ngày x 7–10 ngày; Hoặc 200 mg uống 5 lần/ngày x 7–10 ngày.
+**Acyclovir**: 400 mg uống 3 lần/ngày × 7–10 ngày; Hoặc 200 mg uống 5 lần/ngày × 7–10 ngày.
 
-**Famciclovir**: 250 mg uống 3 lần/ngày x 7–10 ngày.
+**Famciclovir**: 250 mg uống 3 lần/ngày × 7–10 ngày.
 
-**Valacyclovir**: 1 g uống 2 lần/ngày x 7–10 ngày.
+**Valacyclovir**: 1 g uống 2 lần/ngày × 7–10 ngày.
 
 Tất cả các chế phẩm trên cần bắt đầu càng sớm càng tốt, lý tưởng trong vòng 72 giờ kể từ khi xuất hiện ban đầu để đạt hiệu quả tối ưu.
 
@@ -85,21 +85,21 @@ Tất cả các chế phẩm trên cần bắt đầu càng sớm càng tốt, l
 
 **Acyclovir**:
 
-- 400 mg uống 3 lần/ngày x 5 ngày.
-- Hoặc 800 mg uống 2 lần/ngày x 5 ngày.
-- Hoặc 800 mg uống 3 lần/ngày x 2 ngày.
+- 400 mg uống 3 lần/ngày × 5 ngày.
+- Hoặc 800 mg uống 2 lần/ngày × 5 ngày.
+- Hoặc 800 mg uống 3 lần/ngày × 2 ngày.
 
 **Famciclovir**:
 
-- 125 mg uống 2 lần/ngày x 5 ngày.
-- Hoặc 1000 mg uống 2 lần/ngày x 1 ngày (liệu trình nhanh).
-- Hoặc 500 mg uống 2 lần/ngày x 1 ngày.
-- Hoặc 500 mg uống liều duy nhất, sau đó 250 mg 2 lần/ngày x 2 ngày.
+- 125 mg uống 2 lần/ngày × 5 ngày.
+- Hoặc 1000 mg uống 2 lần/ngày × 1 ngày (liệu trình nhanh).
+- Hoặc 500 mg uống 2 lần/ngày × 1 ngày.
+- Hoặc 500 mg uống liều duy nhất, sau đó 250 mg 2 lần/ngày × 2 ngày.
 
 **Valacyclovir**:
 
-- 500 mg uống 2 lần/ngày x 3 ngày.
-- Hoặc 1 g uống 1 lần/ngày x 5 ngày.
+- 500 mg uống 2 lần/ngày × 3 ngày.
+- Hoặc 1 g uống 1 lần/ngày × 5 ngày.
 
 Liều dùng và thời gian có thể điều chỉnh tùy theo mức độ nặng – nhẹ của đợt tái phát, chức năng thận người bệnh và khả năng tuân thủ điều trị.
 
@@ -108,7 +108,7 @@ Liều dùng và thời gian có thể điều chỉnh tùy theo mức độ n�
 **Thuốc bôi kháng virus tại chỗ**:
 
 - Acyclovir kem 5% bôi vùng tổn thương 5 lần/ngày, kéo dài 4–5 ngày (hỗ trợ giảm triệu chứng nhưng không thay thế điều trị toàn thân).
-- Kem Penciclovir 1% tương tự (bôi 2 giờ/lần x 4 ngày).
+- Kem Penciclovir 1% tương tự (bôi 2 giờ/lần × 4 ngày).
 
 **Thuốc giảm đau, kháng viêm**:
 

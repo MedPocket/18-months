@@ -188,7 +188,7 @@ _Bảng "Phân loại thuốc chống tăng huyết áp trong thai kỳ"._
 
 **An toàn nhất** trong thai kỳ.
 
-**Liều dùng**: 250 mg x 1–3 lần/ngày; tối đa 2 g/ngày.
+**Liều dùng**: 250 mg × 1–3 lần/ngày; Tối đa 2 g/ngày.
 
 **Tác dụng phụ**: Trầm cảm, buồn ngủ, chóng mặt, rối loạn gan.
 
@@ -198,7 +198,7 @@ _Bảng "Phân loại thuốc chống tăng huyết áp trong thai kỳ"._
 
 **Cơ chế**: Giãn tiểu động mạch ngoại vi nhanh, hạ áp sau 10–30 phút, tác dụng kéo dài 2–4 giờ.
 
-**Liều dùng**: 5 mg (1–2 phút) TM chậm; nếu cần, 5–10 mg sau 15–20 phút; tối đa 25 mg.
+**Liều dùng**: 5 mg (1–2 phút) TM chậm; Nếu cần, 5–10 mg sau 15–20 phút; Tối đa 25 mg.
 
 **Tác dụng phụ**: Nhịp nhanh, đánh trống ngực, đau đầu, hạ áp đột ngột → suy thai.
 
@@ -210,8 +210,8 @@ _Bảng "Phân loại thuốc chống tăng huyết áp trong thai kỳ"._
 
 **Liều dùng**:
 
-- Bolus TM 10–20 mg; nếu cần, 20–80 mg mỗi 10–30 phút (tối đa 300 mg).
-- **Duy trì uống**: 200 mg x 3 lần/ngày (tối đa 800 mg/8 h), điều chỉnh 200–400 mg/ngày.
+- Bolus TM 10–20 mg; Nếu cần, 20–80 mg mỗi 10–30 phút (tối đa 300 mg).
+- **Duy trì uống**: 200 mg × 3 lần/ngày (tối đa 800 mg/8 h), điều chỉnh 200–400 mg/ngày.
 
 **Tác dụng phụ**: Ít nhịp nhanh phản xạ.
 
@@ -233,16 +233,16 @@ _Bảng "Phân loại thuốc chống tăng huyết áp trong thai kỳ"._
 
 #### Nicardipine
 
-**Cơ chế**: Tác dụng giống nifedipine, ít ảnh hưởng tim; bắt đầu sau 10 phút, đỉnh 30–120 phút, kéo dài 8 giờ.
+**Cơ chế**: Tác dụng giống nifedipine, ít ảnh hưởng tim; Bắt đầu sau 10 phút, đỉnh 30–120 phút, kéo dài 8 giờ.
 
 **Liều dùng**:
 
-- Uống 20 mg x 3 lần/ngày.
+- Uống 20 mg × 3 lần/ngày.
 - **TM**: Bolus 0.5–1 mg, duy trì 1–3 mg/h (pha 10 mL nicardipine vào 40 mL Glucose 5%, truyền 5–15 mL/h).
 
 **Tác dụng phụ**: Đau đầu, chóng mặt, buồn nôn.
 
-**Chống chỉ định**: Đau thắt ngực không ổn định, sốc tim, hẹp van ĐMC nặng; thận trọng 3 tháng đầu.
+**Chống chỉ định**: Đau thắt ngực không ổn định, sốc tim, hẹp van ĐMC nặng; Thận trọng 3 tháng đầu.
 
 #### Lợi tiểu
 

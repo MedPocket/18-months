@@ -18,7 +18,7 @@ Chẩn đoán **khối tân lập ở buồng trứng luôn phải đi kèm dự
 
 **Khối nghi ác tính** (IOTA ác, ROMA cao...):
 
-- Mổ mở: Đầu tiên: Xét nghiệm tế bào học dịch báng/dịch rửa ổ bụng. Khảo sát các tạng bụng (dạy dày, đại trực tràng, ruột thừa...) để phát hiện di căn. Cắt trọn khối, không vỡ u; cắt ruột thừa, mạc nối lớn khi cần.
+- Mổ mở: Đầu tiên: Xét nghiệm tế bào học dịch báng/dịch rửa ổ bụng. Khảo sát các tạng bụng (dạy dày, đại trực tràng, ruột thừa...) để phát hiện di căn. Cắt trọn khối, không vỡ u; Cắt ruột thừa, mạc nối lớn khi cần.
 - Ghi chép đầy đủ TNM để xác định giai đoạn FIGO.
 - Điều trị bổ sung (hóa/trị xạ) tùy loại ung thư, giai đoạn, grade.
 - Nội soi "second look" để đánh giá đáp ứng và tái phát.

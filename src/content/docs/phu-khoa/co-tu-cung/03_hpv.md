@@ -9,7 +9,7 @@ description: Tổng quan virus HPV.
 
 ### Cấu tạo
 
-HPV thuộc họ Papovaviridae, đường kính 55 nm, không có màng lipid. Capsid gồm 72 capsom hình sao 5 cánh, chính bởi protein L1; protein L2 ít hơn, giữ vai trò nâng đỡ.
+HPV thuộc họ Papovaviridae, đường kính 55 nm, không có màng lipid. Capsid gồm 72 capsom hình sao 5 cánh, chính bởi protein L1; Protein L2 ít hơn, giữ vai trò nâng đỡ.
 Bên trong là DNA kép vòng, dài 7904 bp, gồm các gen:
 
 - **E1, E2**: Nhân bản.
@@ -42,7 +42,7 @@ Hơn 200 type HPV đã được định danh, trong đó 85 type đã mô tả �
 - Đa số lành tính, có thể tự khỏi nếu miễn dịch tốt.
 - Nhiễm tồn tại (> 2 năm) tăng nguy cơ tái phát và sinh ung thư.
 - Biểu hiện: Mụn cóc da, mụn cóc miệng (Heck’s), u nhú thanh quản.
-- Tại cổ tử cung: HPV type thấp gây mụn cóc sinh dục; type cao (16, 18, 31, 45...) liên quan đến tổn thương tiền ung thư và ung thư.
+- Tại cổ tử cung: HPV type thấp gây mụn cóc sinh dục; Type cao (16, 18, 31, 45...) liên quan đến tổn thương tiền ung thư và ung thư.
 - **Cơ chế sinh ung thư**: E6 liên kết p53 → thoái giáng p53 → mất kiểm soát chu kỳ tế bào. E7 bất hoạt pRb → giải phóng E2F1 → kích hoạt phân bào không kiểm soát.
 - Miễn dịch qua trung gian tế bào quyết định khả năng thanh thải HPV.
 
@@ -96,7 +96,7 @@ _Bảng "So sánh vaccine HPV nhị giá và tứ giá"._
 
 - Trẻ gái và trai 9–12 tuổi (khuyến cáo mạnh 11–12 tuổi).
 - Trẻ trai ưu tiên 4vHPV.
-- Người chưa tiêm: Nữ đến 26 tuổi; nam đến 21 tuổi (mở rộng đến 26 tuổi cho đồng tính và người chuyển giới).
+- Người chưa tiêm: Nữ đến 26 tuổi; Nam đến 21 tuổi (mở rộng đến 26 tuổi cho đồng tính và người chuyển giới).
 - Trẻ em bị lạm dụng tình dục: Bắt đầu từ 9 tuổi.
 
 **Phác đồ**:
@@ -107,7 +107,7 @@ _Bảng "So sánh vaccine HPV nhị giá và tứ giá"._
 :::caution
 
 - Không cần tầm soát Pap, HPV DNA hay kháng thể trước tiêm.
-- Tuân thủ khoảng cách tối thiểu: Liều 1–2 ≥ 4 tuần; liều 2–3 ≥ 12 tuần; liều 1–3 ≥ 40 tuần.
+- Tuân thủ khoảng cách tối thiểu: Liều 1–2 ≥ 4 tuần; Liều 2–3 ≥ 12 tuần; Liều 1–3 ≥ 40 tuần.
 - Trễ hẹn: Tiếp tục liệu trình, không phải bắt đầu lại.
 - Chống chỉ định: Dị ứng nấm men (4v/9vHPV), không tiêm khi mang thai.
 - Có thể tiêm đồng thời với vaccine khác, nhưng không trộn chung ống tiêm.
@@ -133,7 +133,7 @@ Thường thực hiện cùng Pap smear (co-testing). **Âm tính HPV → độ 
 
 - HPV (−): Xét nghiệm lại sau 3 năm.
 - HPV (+) type 16/18: Soi cổ tử cung.
-- HPV (+) type cao khác: Làm tế bào học; nếu bình thường → theo dõi 1 năm; nếu bất thường → soi cổ tử cung.
+- HPV (+) type cao khác: Làm tế bào học; Nếu bình thường → theo dõi 1 năm; Nếu bất thường → soi cổ tử cung.
 
 ## Tài liệu tham khảo
 

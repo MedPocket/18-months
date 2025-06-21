@@ -113,12 +113,12 @@ Tân sinh của tế bào biểu mô cổ ống Muller tại buồng trứng, ch
 **U tế bào sáng (clear cell tumour)**:
 
 - Hầu hết ác tính, liên quan chặt chẽ với lạc nội mạc tử cung vùng chậu.
-- Liên quan đột biến PIK3CA, PTEN; không liên quan BRCA; liên quan hội chứng Lynch.
+- Liên quan đột biến PIK3CA, PTEN; Không liên quan BRCA; Liên quan hội chứng Lynch.
 
 **U Brenner (Brenner tumour)**:
 
 - Dạng đặc, nhiều mô đệm và mô xơ bao quanh biểu mô.
-- Hiếm ác tính; u biểu mô lành tính hiếm, thường ở phụ nữ lớn tuổi; có thể liên quan u dịch nhầy.
+- Hiếm ác tính; U biểu mô lành tính hiếm, thường ở phụ nữ lớn tuổi; Có thể liên quan u dịch nhầy.
 - Thường nhỏ khi phát hiện.
 
 #### U xuất phát từ tế bào mầm
@@ -142,7 +142,7 @@ Khối u từ tế bào nguồn dòng sinh dục đã trải qua một phần gi
 **U nghịch phôi theo hướng cấu trúc ngoài phôi**:
 
 - Tế bào sau giảm phân I thoái giáng thành cấu trúc ngoài phôi (lá nuôi hoặc túi noãn hoàng).
-- Thường ác tính: **U yolk-sac** là u tế bào mầm có tỉ lệ tử vong cao nhất, chiếm 20% u tế bào mầm, độ tuổi trung bình 19, thường một bên; **Choriocarcinoma không thai kỳ** là tế bào nuôi ngoại bào thai, hCG tăng nhẹ, gây cường nội tiết, dậy thì sớm, chảy máu tử cung, vô kinh; vi thể gồm nguyên bào nuôi, nguyên bào nuôi trung gian, hợp bào nuôi; độ ác tính cao.
+- Thường ác tính: **U yolk-sac** là u tế bào mầm có tỉ lệ tử vong cao nhất, chiếm 20% u tế bào mầm, độ tuổi trung bình 19, thường một bên; **Choriocarcinoma không thai kỳ** là tế bào nuôi ngoại bào thai, hCG tăng nhẹ, gây cường nội tiết, dậy thì sớm, chảy máu tử cung, vô kinh; Vi thể gồm nguyên bào nuôi, nguyên bào nuôi trung gian, hợp bào nuôi; Độ ác tính cao.
 
 **U nghịch mầm (dysgerminoma)**:
 
@@ -207,7 +207,7 @@ Triệu chứng đa dạng, ít liên quan chức năng buồng trứng, không 
 
 **Bản chất hóa ác**:
 
-- U buồng trứng không "hóa ác" từ lành; chỉ bỏ sót u ác tính.
+- U buồng trứng không "hóa ác" từ lành; Chỉ bỏ sót u ác tính.
 - Ung thư buồng trứng khó phân biệt lành–ác lâm sàng, hình ảnh, giải phẫu bệnh do tiến triển âm thầm, diễn biến khu trú vài vùng ác tính.
 
 **Xoắn khối u buồng trứng**:

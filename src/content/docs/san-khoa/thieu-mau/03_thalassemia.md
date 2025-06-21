@@ -7,8 +7,8 @@ description: Thalassemia – bệnh hemoglobin di truyền gây thiếu máu, ba
 
 ## Bệnh sinh
 
-- **Chuỗi α-globin** do 4 gene trên NST 16 quy định; đột biến kiểu deletion gây α-thalassemia. **Phân tử chỉ có chuỗi α (Hb Bart’s)** mất ổn định nhanh, không phóng thích O₂ → thai phù → thường tử vong trước hoặc ngay sau sinh.
-- **Chuỗi β-globin** do 2 gene trên NST 11 quy định; đột biến điểm (mutation) gây β-thalassemia. **Phân tử chỉ có chuỗi β (Hb H)** tương đối ổn định hơn → thiếu máu nhẹ/trung bình.
+- **Chuỗi α-globin** do 4 gene trên NST 16 quy định; Đột biến kiểu deletion gây α-thalassemia. **Phân tử chỉ có chuỗi α (Hb Bart’s)** mất ổn định nhanh, không phóng thích O₂ → thai phù → thường tử vong trước hoặc ngay sau sinh.
+- **Chuỗi β-globin** do 2 gene trên NST 11 quy định; Đột biến điểm (mutation) gây β-thalassemia. **Phân tử chỉ có chuỗi β (Hb H)** tương đối ổn định hơn → thiếu máu nhẹ/trung bình.
 
 ## Phân loại
 
@@ -16,14 +16,14 @@ description: Thalassemia – bệnh hemoglobin di truyền gây thiếu máu, ba
 
 - **Mất 1 gene α**: Người mang gen, không có triệu chứng lâm sàng.
 - **Mất 2 gene α (thể nhẹ)**: Thiếu máu hồng cầu nhỏ nhược sắc nhẹ; HbA2, HbF bình thường.
-- **Mất 3 gene α (Hb H)**: Thiếu máu tương đối nặng; lách to; HbA2 bình thường hoặc tăng nhẹ.
-- **Mất 4 gene α (Hb Bart’s, thai phù)**: Không có chuỗi α; chỉ có chuỗi γ với ái lực O₂ cao → thai phù đa màng, suy tim, tử vong thường từ tuần 30 đến ngay sau sinh.
+- **Mất 3 gene α (Hb H)**: Thiếu máu tương đối nặng; Lách to; HbA2 bình thường hoặc tăng nhẹ.
+- **Mất 4 gene α (Hb Bart’s, thai phù)**: Không có chuỗi α; Chỉ có chuỗi γ với ái lực O₂ cao → thai phù đa màng, suy tim, tử vong thường từ tuần 30 đến ngay sau sinh.
 
 ### β-thalassemia
 
-- **Thể nặng (β⁰/β⁰ hoặc β⁰/β⁰ kép)**: Biểu hiện sớm ngay sau sinh hoặc vài tháng tuổi. Thiếu máu nặng, vàng da, gan lách to. Cần truyền máu định kỳ và thải sắt để duy trì sự sống. Huyết học: Hb < 70 g/L; MCV, MCH giảm; ferritin bình thường hoặc tăng; điện di Hb: ↑ HbF, ↑ HbA2.
+- **Thể nặng (β⁰/β⁰ hoặc β⁰/β⁰ kép)**: Biểu hiện sớm ngay sau sinh hoặc vài tháng tuổi. Thiếu máu nặng, vàng da, gan lách to. Cần truyền máu định kỳ và thải sắt để duy trì sự sống. Huyết học: Hb < 70 g/L; MCV, MCH giảm; Ferritin bình thường hoặc tăng; Điện di Hb: ↑ HbF, ↑ HbA2.
 - **Thể trung gian (β⁺/β⁺ hoặc β⁺/β⁰)**: Thiếu máu nhẹ–vừa, biểu hiện muộn hơn thể nặng. Có thể cần truyền máu từng đợt, ít phụ thuộc hơn.
-- **Thể ẩn (dị hợp tử 1 đột biến)**: Thường không triệu chứng; chỉ phát hiện tình cờ khi xét nghiệm. Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3.5–7%); HbF 1–3% tùy loại đột biến.
+- **Thể ẩn (dị hợp tử 1 đột biến)**: Thường không triệu chứng; Chỉ phát hiện tình cờ khi xét nghiệm. Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3.5–7%); HbF 1–3% tùy loại đột biến.
 
 ## Đặc điểm
 
@@ -57,14 +57,14 @@ _Kết quả điện di Hb ở người trưởng thành._
 ## Thai phụ mắc β-thalassemia
 
 - Điều trị đa chuyên khoa: Sản khoa, huyết học, gây mê, nữ hộ sinh.
-- Duy trì Hb 10 g/dL bằng truyền máu định kỳ; kiểm soát ferritin < 1000 ng/mL.
+- Duy trì Hb 10 g/dL bằng truyền máu định kỳ; Kiểm soát ferritin < 1000 ng/mL.
 - Siêu âm tim, gan, tuyến giáp mỗi tam cá nguyệt.
 - Sàng lọc tiểu đường: Lần đầu 16 tuần, lặp lại 24–28 tuần.
 - Siêu âm đánh giá tăng trưởng thai: 24–26 tuần rồi mỗi 4 tuần.
 - Acid folic 5 mg/ngày để phòng thiếu máu hồng cầu to.
-- Tránh uống thêm sắt; nếu cần thải sắt sử dụng DFO (cân nhắc nguy cơ teratogen).
-- Chuyển dạ: Ưu tiên sinh thường có gây tê ngoài màng cứng; tránh mê nội khí quản nếu có bất thường hàm mặt.
-- Tránh IUD và thuốc ngừa phối hợp; ưu tiên progesterone đơn thuần hoặc bao cao su.
+- Tránh uống thêm sắt; Nếu cần thải sắt sử dụng DFO (cân nhắc nguy cơ teratogen).
+- Chuyển dạ: Ưu tiên sinh thường có gây tê ngoài màng cứng; Tránh mê nội khí quản nếu có bất thường hàm mặt.
+- Tránh IUD và thuốc ngừa phối hợp; Ưu tiên progesterone đơn thuần hoặc bao cao su.
 
 ## Dự phòng
 

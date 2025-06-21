@@ -24,11 +24,11 @@ Sarcoma cơ trơn thân tử cung là khối u ác tính rất hiếm, chiếm <
 #### Cận lâm sàng
 
 - **Siêu âm** và **MRI** không thể phân biệt chắc chắn u xơ lành tính và leiomyosarcoma. **Gợi ý ác tính** khi: Khối u không đều tín hiệu trên T2W (MRI); Hoại tử bên trong, xuất huyết, ranh giới không rõ; Dò rỉ mạch máu nội vi trên Doppler.
-- **Sinh thiết**: Sinh thiết qua kim nhỏ (FNA) hoặc sinh thiết mở khó phân biệt leiomyosarcoma do độ không đồng nhất mô; phẫu thuật giải phẫu bệnh vẫn là tiêu chuẩn vàng.
+- **Sinh thiết**: Sinh thiết qua kim nhỏ (FNA) hoặc sinh thiết mở khó phân biệt leiomyosarcoma do độ không đồng nhất mô; Phẫu thuật giải phẫu bệnh vẫn là tiêu chuẩn vàng.
 
 ### Điều trị
 
-- **Phẫu thuật**: Cắt tử cung toàn phần đường mở bụng; buồng trứng thường không cần cắt trừ khi phụ nữ đã mãn kinh.
+- **Phẫu thuật**: Cắt tử cung toàn phần đường mở bụng; Buồng trứng thường không cần cắt trừ khi phụ nữ đã mãn kinh.
 - **Hóa trị** và **xạ trị**: Hạn chế, thường chỉ trong thử nghiệm lâm sàng.
 
 ## U cơ trơn với khuynh hướng ác tính không xác định (STUMP)
@@ -44,20 +44,20 @@ _Bảng "So sánh u xơ tử cung, STUMP và sarcoma thân tử cung"._
 | **Độ dị dạng nhân** | Thấp | Trung bình | Cao |
 
 - STUMP (Smooth muscle Tumour of Uncertain Malignant Potential) là khối u cơ trơn có đặc điểm mô học trung gian.
-- STUMP có thể **tái phát** hoặc **xâm lấn** tại chỗ; nguy cơ di căn thấp (< 5%).
+- STUMP có thể **tái phát** hoặc **xâm lấn** tại chỗ; Nguy cơ di căn thấp (< 5%).
 - Theo dõi lâu dài ≥ 5 năm vì có thể tái phát muộn.
 
 ### Điều trị
 
 - **Cắt tử cung toàn phần**: Tiêu chuẩn.
-- **Buồng trứng**: Bảo tồn ở phụ nữ trẻ; cắt nếu phụ nữ lớn tuổi hoặc có biểu hiện kích thích nội tiết.
+- **Buồng trứng**: Bảo tồn ở phụ nữ trẻ; Cắt nếu phụ nữ lớn tuổi hoặc có biểu hiện kích thích nội tiết.
 - **Theo dõi**: Siêu âm/MRI mỗi 6–12 tháng trong 5 năm đầu.
 
 ## Các bệnh lý ác tính khác
 
 ### Carcinoma biểu mô tuyến (Endometrial carcinoma)
 
-- Ít gặp trong thai kỳ; thường phát hiện sau sinh hoặc chẩn đoán nhầm xuất huyết.
+- Ít gặp trong thai kỳ; Thường phát hiện sau sinh hoặc chẩn đoán nhầm xuất huyết.
 - **Điều trị**: Cắt tử cung toàn phần và nạo hạch chậu – thắt động mạch tử cung sau sinh hoặc kết thúc thai kỳ.
 
 ### Sarcoma hỗn hợp (Carcinosarcoma)
