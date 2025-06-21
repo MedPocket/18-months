@@ -12,6 +12,15 @@ description: Quản lý các đột biến gen tăng đông (thrombophilia di tr
 - Thiếu hụt Antithrombin III (ATIII).
 - Không bao gồm MTHFR đơn thuần trừ khi kèm hyperhomocysteinemia.
 
+_Bảng "So sánh Hội chứng kháng phosphilipid và Hội chứng tăng đông di truyền"_
+| | APS | Di truyền tăng đông |
+| ----------- | --------------------------------- | ----------------------------------- |
+| **Nguyên nhân** | Tự miễn | Di truyền |
+| **Xét nghiệm** | Kháng thể kháng phospholipid | Đột biến gen, thiếu yếu tố đông máu |
+| **Huyết khối** | Cả động mạch và tĩnh mạch | Chủ yếu tĩnh mạch |
+| **Thai kỳ** | Sẩy thai, thai lưu, tiền sản giật | Ít gặp hơn |
+| **Điều trị ** | Kháng đông + điều chỉnh miễn dịch | Kháng đông nếu cần |
+
 ## Chẩn đoán
 
 ### Lâm sàng
