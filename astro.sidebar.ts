@@ -204,7 +204,7 @@ export const sidebar = starlightSidebarTopics([
     icon: "random",
     items: [
       "ho-tro-sinh-san/buong-trung-da-nang",
-      "ho-tro-sinh-san/phac-do-kich-trung",
+      "ho-tro-sinh-san/kich-trung",
     ],
   },
 ]);
