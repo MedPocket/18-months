@@ -14,6 +14,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 **Liều dùng**: 500–1000 mg/lần, tối đa 3–4 g/ngày.
 
 **Tác dụng phụ** (hiếm gặp khi dùng đúng liều):
+
 - Rối loạn tiêu hóa: buồn nôn, đau dạ dày nhẹ.
 - Tăng men gan nếu dùng liều cao kéo dài.
 - Nguy cơ độc gan nếu quá liều hoặc phối hợp rượu.
@@ -34,10 +35,12 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 **Liều dùng** (ví dụ với Ibuprofen): 200–400 mg/lần, 2–3 lần/ngày; tối đa 1200 mg/ngày (không kê đơn) hoặc theo chỉ định bác sĩ.
 
 **Chống chỉ định trong tam cá nguyệt III** do:
+
 - Nguy cơ **đóng sớm ống động mạch** ở thai nhi.
 - Nguy cơ **thiểu ối, suy thận thai nhi**, kéo dài chuyển dạ.
 
 **Tác dụng phụ**:
+
 - Loét hoặc xuất huyết dạ dày, rối loạn tiêu hóa.
 - Tăng huyết áp nhẹ, giữ nước.
 - Tăng nguy cơ rối loạn đông máu.
@@ -47,7 +50,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 - Có thể xem xét dùng ngắn hạn trong tam cá nguyệt I–II với chỉ định rõ ràng.
 - Tránh dùng kéo dài hoặc liều cao.
 - Không phối hợp với aspirin hoặc corticosteroid nếu không có chỉ định chuyên khoa.
-:::
+  :::
 
 ## Opioid
 
@@ -58,6 +61,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 **Liều dùng** (ví dụ với Tramadol): 50–100 mg/lần, cách nhau ≥ 6 giờ; tối đa 400 mg/ngày (theo chỉ định bác sĩ).
 
 **Tác dụng phụ**:
+
 - Buồn ngủ, chóng mặt, táo bón, buồn nôn.
 - Ức chế hô hấp, đặc biệt khi dùng liều cao hoặc gần ngày sinh.
 - Gây nghiện, lệ thuộc thuốc nếu dùng kéo dài.
@@ -67,7 +71,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 - Chỉ dùng khi thật cần thiết và có chỉ định chuyên khoa.
 - Codein: nguy cơ chuyển hóa nhanh → tăng nồng độ morphin → độc tính cao ở mẹ và thai.
-:::
+  :::
 
 ## Thuốc chống co thắt
 
@@ -78,6 +82,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 **Liều dùng (Phloroglucinol)**: 40–80 mg/lần, 2–3 lần/ngày.
 
 **Tác dụng phụ** (hiếm):
+
 - Rối loạn tiêu hóa nhẹ (buồn nôn, tiêu chảy).
 - Dị ứng (hiếm gặp).
 
@@ -97,6 +102,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 **Liều dùng** (ví dụ với Pregabalin): bắt đầu 75 mg/ngày, tăng dần theo đáp ứng. **Chỉ dùng khi có chỉ định chuyên khoa**.
 
 **Tác dụng phụ**:
+
 - Chóng mặt, buồn ngủ, rối loạn thăng bằng.
 - Tăng cân, phù.
 - Nguy cơ trên phát triển thần kinh thai nhi nếu dùng kéo dài.
@@ -111,6 +117,6 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế Việt Nam (2021) – _Hướng dẫn sử dụng thuốc hợp lý cho phụ nữ có thai và cho con bú_  
-- WHO – _Pregnancy and Pain Management Guidelines_  
+- Bộ Y tế Việt Nam (2021) – _Hướng dẫn sử dụng thuốc hợp lý cho phụ nữ có thai và cho con bú_
+- WHO – _Pregnancy and Pain Management Guidelines_
 - CDC – _Treating Pain During Pregnancy: Safety Information_

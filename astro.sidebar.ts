@@ -31,7 +31,7 @@ export const sidebar = starlightSidebarTopics([
       {
         label: "Thai nghén thất bại sớm",
         autogenerate: {
-          directory: "san-khoa/thai-nghen-that-bai-som",
+          directory: "san-khoa/thai-that-bai-som",
         },
         collapsed: true,
       },
