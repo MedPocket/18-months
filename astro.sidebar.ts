@@ -145,6 +145,13 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
+        label: "Bệnh lây truyền qua đường tình dục",
+        autogenerate: {
+          directory: "phu-khoa/benh-tinh-duc",
+        },
+        collapsed: true,
+      },
+      {
         label: "Bất thường cổ tử cung",
         autogenerate: {
           directory: "phu-khoa/co-tu-cung",
