@@ -15,9 +15,9 @@ description: Kích thích buồng trứng là quy trình sử dụng thuốc đ�
 
 ## Các phác đồ phổ biến
 
-### Phác đồ kích thích nhẹ (Minimal stimulation / Natural cycle)
+### Phác đồ kích thích nhẹ
 
-**Đối tượng**: Phụ nữ trẻ, đáp ứng buồng trứng tốt, chống chỉ định với gonadotropin liều cao.
+Phác đồ kích thích nhẹ (Minimal stimulation/Natural cycle) **đối tượng**: Phụ nữ trẻ, đáp ứng buồng trứng tốt, chống chỉ định với gonadotropin liều cao.
 
 **Thuốc**:
 
@@ -26,22 +26,22 @@ description: Kích thích buồng trứng là quy trình sử dụng thuốc đ�
 
 **Theo dõi**: Siêu âm nang noãn từ ngày 9–11, trigger rụng trứng khi nang >18 mm.
 
-### 2. Phác đồ GnRH antagonist (phổ biến nhất hiện nay)
+### Phác đồ GnRH antagonist
 
-**Bắt đầu**: Ngày 2–3 chu kỳ kinh.
+Phác đồ GnRH antagonist là phổ biến nhất hiện nay **bắt đầu**: Ngày 2–3 chu kỳ kinh.
 
 **Thuốc**:
 
 - FSH (Gonal-F, Puregon, Menopur): 150–300 IU/ngày.
-- GnRH antagonist (Cetrotide, Orgalutran): bắt đầu khi nang >12–14 mm.
+- GnRH antagonist (Cetrotide, Orgalutran): Bắt đầu khi nang > 12–14 mm.
 
-**Trigger**: hCG (Ovitrelle) khi có ≥2–3 nang ≥18 mm.
+**Trigger**: hCG (Ovitrelle) khi có ≥ 2–3 nang kích thước ≥ 18 mm.
 
-**Chọc hút trứng**: sau 34–36 giờ.
+**Chọc hút trứng**: Sau 34–36 giờ.
 
-### Phác đồ GnRH agonist dài (Long protocol)
+### Phác đồ GnRH agonist dài
 
-**Bắt đầu**: Tiêm GnRH agonist từ ngày 21 chu kỳ trước.
+Phác đồ GnRH agonist dài (Long protocol) **bắt đầu**: Tiêm GnRH agonist từ ngày 21 chu kỳ trước.
 
 **Thuốc**:
 
@@ -62,6 +62,12 @@ description: Kích thích buồng trứng là quy trình sử dụng thuốc đ�
 - Rụng trứng sớm.
 - Đa thai.
 
+**Chống OHSS**:
+
+- Sử dụng liều thấp gonadotropin.
+- Trigger bằng GnRH agonist nếu có nguy cơ cao.
+- Đông phôi toàn bộ, hoãn chuyển phôi.
+
 ## Biến chứng
 
 - Quá kích buồng trứng.
@@ -69,23 +75,13 @@ description: Kích thích buồng trứng là quy trình sử dụng thuốc đ�
 - Rối loạn nội tiết.
 - Vấn đề tâm lý (căng thẳng, lo âu trong điều trị).
 
-## Điều trị hỗ trợ
-
-**Corticosteroids**: Dự phòng sinh non nếu cần.
-
-**Chống OHSS**:
-
-- Sử dụng liều thấp gonadotropin.
-- Trigger bằng GnRH agonist nếu có nguy cơ cao.
-- Đông phôi toàn bộ, hoãn chuyển phôi.
-
 ## Chỉ định chọc hút trứng
 
-- ≥ 2–3 nang noãn ≥17–18 mm.
-- Estradiol ≥150–200 pg/mL/nang trưởng thành.
+- ≥ 2–3 nang noãn ≥ 17–18 mm.
+- Estradiol ≥ 150–200 pg/mL/nang trưởng thành.
 - Trigger bằng hCG hoặc GnRH agonist.
 
-## Chấm dứt chu kỳ kích trứng
+## Chấm dứt chu kỳ
 
 - Không có nang phát triển → hủy chu kỳ.
 - Estradiol tăng cao bất thường → nguy cơ OHSS → hủy hoặc chuyển phôi trữ.
