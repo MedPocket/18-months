@@ -11,11 +11,11 @@
     "format": "biome format --write .",
     "format:md": "prettier --write '**/*.{md,mdx}'",
     "lint": "biome lint --write .",
-    "check": "biome check --write . && prettier --write '**/*.{md,mdx}'"
+    "check": "biome check --write . && prettier --write --experimental-cli '**/*.{md,mdx}'"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.34.4",
-    "astro": "^5.10.0",
+    "astro": "^5.10.1",
     "astro-og-canvas": "^0.7.0",
     "canvaskit-wasm": "^0.40.0",
     "mdast-util-to-string": "^4.0.0",
@@ -28,8 +28,8 @@
   },
   "devDependencies": {
     "@area44/biome-config": "^2.0.1",
-    "@biomejs/biome": "^2.0.2",
-    "prettier": "^3.5.3",
+    "@biomejs/biome": "^2.0.5",
+    "prettier": "^3.6.0",
     "typescript": "^5.8.3"
   },
   "packageManager": "pnpm@10.12.1"
