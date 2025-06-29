@@ -28,9 +28,9 @@
   },
   "devDependencies": {
     "@area44/biome-config": "^2.0.1",
-    "@biomejs/biome": "^2.0.5",
-    "prettier": "^3.6.0",
+    "@biomejs/biome": "^2.0.6",
+    "prettier": "^3.6.2",
     "typescript": "^5.8.3"
   },
-  "packageManager": "pnpm@10.12.1"
+  "packageManager": "pnpm@10.12.4"
 }
