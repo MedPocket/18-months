@@ -1,0 +1,15 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches: ['main']
+  pull_request:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  astro:
+    uses: area44/actions/.github/workflows/astro.yml@v0.4.2
