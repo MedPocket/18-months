@@ -1,0 +1,10 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches: ['main']
+  pull_request:
+
+jobs:
+  astro:
+    uses: area44/actions/.github/workflows/astro.yml@v0.4.1
