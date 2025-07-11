@@ -11,5 +11,11 @@ permissions:
   id-token: write
 
 jobs:
-  astro:
-    uses: area44/actions/.github/workflows/astro.yml@v0.4.2
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Run build
+        uses: area44/workflows/astro@v2.0.1
