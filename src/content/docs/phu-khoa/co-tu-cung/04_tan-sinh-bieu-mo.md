@@ -119,7 +119,7 @@ Soi cổ tử cung và sinh thiết theo tổn thương qua soi. Nếu **HPV (-)
 
 **Phụ nữ có thai**: Như người không có thai, không nạo kênh cổ tử cung và hoãn soi đến 6 tuần sau sinh.
 
-**Phụ nữ mãn kinh** chọn một trong các cách: làm HPV hoặc lặp lại Pap’s test sau 6 và 12 tháng, hoặc soi ngay:
+**Phụ nữ mãn kinh** chọn một trong các cách làm HPV hoặc lặp lại Pap’s test sau 6 và 12 tháng, hoặc soi ngay:
 
 - Nếu HPV (-) hoặc không có CIN khi soi → Pap’s test sau 12 tháng.
 - Nếu HPV (+) hoặc Pap’s test ≥ ASC → soi cổ tử cung ngay.
