@@ -2,9 +2,7 @@
 
 ### Cấu trúc file Markdown
 
-- Lưu trong thư mục: `src/content/docs/`.
-- Mỗi file đại diện cho một chuyên đề hoặc bệnh lý.
-- Cấu trúc frontmatter:
+Lưu nội dung trong thư mục: `src/content/docs/`. Mỗi file đại diện cho một chuyên đề hoặc bệnh lý. Cấu trúc frontmatter:
 
 ```md
 ---
@@ -15,8 +13,7 @@ description: 'Chẩn đoán, xử trí và theo dõi dọa sảy thai trong 3 th
 
 ### Heading (Tiêu đề phân cấp)
 
-- `#` được dùng làm tiêu đề trang.
-- Sử dụng theo cấu trúc nội dung y khoa:
+`#` được dùng làm tiêu đề trang. Sử dụng theo cấu trúc nội dung dưới đây:
 
 ```md
 ## Định nghĩa
@@ -40,9 +37,7 @@ description: 'Chẩn đoán, xử trí và theo dõi dọa sảy thai trong 3 th
 
 ### Danh sách và phân tích nội dung
 
-- Dùng danh sách để trình bày các tiêu chuẩn, tiêu chí chẩn đoán, yếu tố nguy cơ...
-
-**Ví dụ:**
+Dùng danh sách để trình bày các tiêu chuẩn, tiêu chí chẩn đoán, yếu tố nguy cơ... **Ví dụ**:
 
 ```md
 ### Yếu tố nguy cơ dọa sảy thai
@@ -67,7 +62,7 @@ Siêu âm đầu dò là phương tiện chẩn đoán hình ảnh ưu tiên tro
 
 #### Dạng liệt kê cơ bản
 
-Dùng `-` hoặc `*` hoặc `1. 2. 3.` để liệt kê các ý.
+Dùng `-` hoặc `1. 2. 3.` để liệt kê các ý.
 
 ```md
 ### Nguyên nhân dọa sảy thai
