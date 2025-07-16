@@ -7,6 +7,8 @@ Dưới đây tổng hợp đặc điểm chính của các phương pháp trán
 
 ## Dụng cụ tử cung
 
+### Đặc điểm
+
 **Tính hiệu quản (Pearl Index)**:
 
 - **Copper IUD**: Perfect 0.6; Typical 0.8.
@@ -19,7 +21,7 @@ Dưới đây tổng hợp đặc điểm chính của các phương pháp trán
 
 **Tính kinh tế**: Chi phí ban đầu trung bình. Dùng lâu dài (5–10 năm) nên rất kinh tế.
 
-### Cơ chế tác dụng
+**Cơ chế tác dụng**:
 
 - **Copper IUD**: Ion đồng gây độc với tinh trùng.
 - **LNG-IUS**: Giải phóng levonorgestrel làm đặc chất nhầy cổ tử cung, ức chế nhẹ rụng trứng.
@@ -60,7 +62,7 @@ Dưới đây tổng hợp đặc điểm chính của các phương pháp trán
 - Có thể đau, ra máu ít vài ngày.
 - Một số người có kinh nguyệt ra nhiều (copper IUD).
 
-### Hướng dẫn
+### Lưu ý
 
 **Sau đặt vòng**:
 
@@ -71,6 +73,8 @@ Dưới đây tổng hợp đặc điểm chính của các phương pháp trán
 
 ## Thuốc tránh thai hằng ngày
 
+### Đặc điểm
+
 **Tính hiệu quản (Pearl Index)**: Perfect 0.1–0.3; Typical 7.
 
 **Tính an toàn**:
@@ -80,7 +84,7 @@ Dưới đây tổng hợp đặc điểm chính của các phương pháp trán
 
 **Tính kinh tế**: Chi phí trung bình, dễ tiếp cận.
 
-### Cơ chế tác dụng
+**Cơ chế tác dụng**:
 
 - Ức chế rụng trứng.
 - Làm thay đổi chất nhầy cổ tử cung, ngăn tinh trùng xâm nhập.
@@ -133,12 +137,14 @@ Dưới đây tổng hợp đặc điểm chính của các phương pháp trán
 
 **Sử dụng tránh thai không nội tiết**: Sử dụng được ngay lập tức nếu khẳng định không có thai. Nếu quá 7 ngày đầu chu kỳ kinh cần tránh giao hợp hoặc sử dụng thêm biện pháp hỗ trợ.
 
-### Hướng dẫn
+### Lưu ý
 
 - Uống vào cùng một thời điểm mỗi ngày.
 - Nếu quên > 12 giờ dùng ngay viên quên và tiếp tục, đồng thời dùng biện pháp bảo vệ phụ trợ trong 7 ngày.
 
 ## Que cấy progestogen
+
+### Đặc điểm
 
 **Tính hiệu quản (Pearl Index)**: Perfect 0.05; Typical 0.05.
 
@@ -149,9 +155,7 @@ Dưới đây tổng hợp đặc điểm chính của các phương pháp trán
 
 **Tính kinh tế**: Chi phí cao. Dùng 3–5 năm.
 
-### Cơ chế tác dụng
-
-Giải phóng etonogestrel/progestin ổn định, ức chế rụng trứng, làm đặc chất nhầy cổ tử cung.
+**Cơ chế tác dụng**: Giải phóng etonogestrel/progestin ổn định, ức chế rụng trứng, làm đặc chất nhầy cổ tử cung.
 
 ### Chỉ định và chống chỉ định
 
@@ -170,12 +174,14 @@ Tư tự như thuốc tránh thai kết hợp.
 - Rối loạn kinh nguyệt (rong, mất kinh).
 - Đau, bầm tại chỗ cấy.
 
-### Hướng dẫn
+### Lưu ý
 
 - Giữ sạch vùng cấy, không ngâm nước 24 giờ đầu.
 - Kiêng vận động mạnh tay cấy trong 48 giờ.
 
 ## Bao cao su
+
+### Đặc điểm
 
 **Tính hiệu quản (Pearl Index)**: Perfect 2; Typical 18.
 
@@ -183,9 +189,7 @@ Tư tự như thuốc tránh thai kết hợp.
 
 **Tính kinh tế**: Rẻ khoảng 10–200 nghìn VNĐ/chiếc.
 
-### Cơ chế tác dụng
-
-Tạo rào vật lý ngăn tinh trùng vào âm đạo.
+**Cơ chế tác dụng**: Tạo rào vật lý ngăn tinh trùng vào âm đạo.
 
 ### Chỉ định và chống chỉ định
 
@@ -205,12 +209,14 @@ Tạo rào vật lý ngăn tinh trùng vào âm đạo.
 - Giảm khoái cảm, có thể rách hoặc tuột.
 - Phải có hành vi chèn trước mỗi lần giao hợp.
 
-### Hướng dẫn
+### Lưu ý
 
 - Kiểm tra hạn sử dụng, không để túi bao lâu ngày trong nhiệt độ cao.
 - Sử dụng thêm gel bôi trơn gốc nước nếu cần.
 
 ## Thuốc tiêm DMPA
+
+### Đặc điểm
 
 **Tính hiệu quản (Pearl Index)**: Perfect 0.3; Typical use 3–4.
 
@@ -221,9 +227,7 @@ Tạo rào vật lý ngăn tinh trùng vào âm đạo.
 
 **Tính kinh tế**: Chi phí ~ 150–300 nghìn VNĐ/lần (tái tiêm 3 tháng/lần).
 
-### Cơ chế tác dụng
-
-Progestin liều cao ức chế rụng trứng, làm đặc chất nhầy cổ tử cung.
+**Cơ chế tác dụng**: Progestin liều cao ức chế rụng trứng, làm đặc chất nhầy cổ tử cung.
 
 ### Chỉ định và chống chỉ định
 
@@ -241,12 +245,14 @@ Tương tự như thuốc tránh thai kết hợp.
 - Tác dụng phụ: Rối loạn kinh nguyệt, tăng cân, đau đầu.
 - Thời gian phục hồi sinh sản có thể chậm.
 
-### Hướng dẫn
+### Lưu ý
 
 - Tái tiêm đúng hẹn (tối đa trễ 2 tuần) để giữ hiệu quả.
 - Bổ sung canxi và theo dõi mật độ xương nếu dùng lâu dài.
 
 ## Thuốc tránh thai khẩn cấp
+
+### Đặc điểm
 
 **Tính hiệu quản (Pearl Index)**:
 
@@ -257,9 +263,7 @@ Tương tự như thuốc tránh thai kết hợp.
 
 **Tính kinh tế**: Chi phí ~ 100–200 nghìn VNĐ/lần.
 
-### Cơ chế tác dụng
-
-Hoãn hoặc ức chế rụng trứng; làm thay đổi niêm mạc tử cung
+**Cơ chế tác dụng**: Hoãn hoặc ức chế rụng trứng; làm thay đổi niêm mạc tử cung
 
 ### Chỉ định và chống chỉ định
 
@@ -279,12 +283,14 @@ Hoãn hoặc ức chế rụng trứng; làm thay đổi niêm mạc tử cung
 - Không dùng như biện pháp tránh thai thường xuyên.
 - Giảm hiệu quả nếu BMI cao.
 
-### Hướng dẫn
+### Lưu ý
 
 - Uống càng sớm càng tốt; nếu nôn trong 2 giờ phải uống lại.
 - Không bảo vệ bệnh lây qua đường tình dục.
 
 ## Xuất tinh ngoài
+
+### Đặc điểm
 
 **Tính hiệu quản (Pearl Index)**: Perfect 4; Typical 20.
 
@@ -292,9 +298,7 @@ Hoãn hoặc ức chế rụng trứng; làm thay đổi niêm mạc tử cung
 
 **Tính kinh tế**: Không tốn kém.
 
-### Cơ chế tác dụng
-
-Rút dương vật trước khi xuất tinh để tinh trùng không vào âm đạo
+**Cơ chế tác dụng**: Rút dương vật trước khi xuất tinh để tinh trùng không vào âm đạo
 
 ### Chỉ định và chống chỉ định
 
@@ -311,12 +315,14 @@ Rút dương vật trước khi xuất tinh để tinh trùng không vào âm đ
 - Hiệu quả phụ thuộc cao vào kỹ năng
 - Không bảo vệ STI
 
-### Hướng dẫn
+### Lưu ý
 
 - Cần rút sớm, tránh dịch trước có thể chứa tinh trùng.
 - Kết hợp với bao cao su tăng hiệu quả.
 
 ## Cho con bú vô kinh
+
+### Đặc điểm
 
 **Tính hiệu quản (Pearl Index)**:
 
@@ -327,9 +333,7 @@ Rút dương vật trước khi xuất tinh để tinh trùng không vào âm đ
 
 **Tính kinh tế**: Không tốn kém.
 
-### Cơ chế tác dụng
-
-Hút sữa thường xuyên làm tăng prolactin, ức chế rụng trứng.
+**Cơ chế tác dụng**: Hút sữa thường xuyên làm tăng prolactin, ức chế rụng trứng.
 
 ### Chỉ định và chống chỉ định
 
@@ -346,7 +350,7 @@ Hút sữa thường xuyên làm tăng prolactin, ức chế rụng trứng.
 - Hạn chế khoảng 6 tháng đầu.
 - Hiệu quả giảm khi bổ sung sữa ngoài.
 
-### Hướng dẫn
+### Lưu ý
 
 - Cho bú ít nhất 6–8 lần/ngày, bao gồm đêm.
 - Không bổ sung thức ăn hay nước ngoài sữa mẹ.
