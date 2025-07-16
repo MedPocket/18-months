@@ -62,14 +62,15 @@ Dưới đây tổng hợp đặc điểm chính của các phương pháp trán
 - Có thể đau, ra máu ít vài ngày.
 - Một số người có kinh nguyệt ra nhiều (copper IUD).
 
-### Lưu ý
-
-**Sau đặt vòng**:
+:::caution
+Sau đặt vòng:
 
 - Kiêng quan hệ và không thụt rửa âm đạo ít nhất 7 ngày.
 - Sử dụng kháng sinh chống viêm, giảm co thắt alverin citrat 40 mg x 2 viên x 2 lần/ngày x 3 ngày.
 - Không ngâm bồn tắm hoặc bơi chung hồ trong 3–5 ngày đầu.
 - Tái khám sau 4–6 tuần để kiểm tra dây vòng.
+
+:::
 
 ## Thuốc tránh thai hằng ngày
 
@@ -137,10 +138,9 @@ Dưới đây tổng hợp đặc điểm chính của các phương pháp trán
 
 **Sử dụng tránh thai không nội tiết**: Sử dụng được ngay lập tức nếu khẳng định không có thai. Nếu quá 7 ngày đầu chu kỳ kinh cần tránh giao hợp hoặc sử dụng thêm biện pháp hỗ trợ.
 
-### Lưu ý
-
-- Uống vào cùng một thời điểm mỗi ngày.
-- Nếu quên > 12 giờ dùng ngay viên quên và tiếp tục, đồng thời dùng biện pháp bảo vệ phụ trợ trong 7 ngày.
+:::caution
+Uống vào cùng một thời điểm mỗi ngày. Nếu quên > 12 giờ dùng ngay viên quên và tiếp tục, đồng thời dùng biện pháp bảo vệ phụ trợ trong 7 ngày.
+:::
 
 ## Que cấy progestogen
 
@@ -174,10 +174,9 @@ Tư tự như thuốc tránh thai kết hợp.
 - Rối loạn kinh nguyệt (rong, mất kinh).
 - Đau, bầm tại chỗ cấy.
 
-### Lưu ý
-
-- Giữ sạch vùng cấy, không ngâm nước 24 giờ đầu.
-- Kiêng vận động mạnh tay cấy trong 48 giờ.
+:::caution
+Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. Kiêng vận động mạnh tay cấy trong 48 giờ.
+:::
 
 ## Bao cao su
 
@@ -209,10 +208,11 @@ Tư tự như thuốc tránh thai kết hợp.
 - Giảm khoái cảm, có thể rách hoặc tuột.
 - Phải có hành vi chèn trước mỗi lần giao hợp.
 
-### Lưu ý
+:::caution
+Kiểm tra hạn sử dụng, không để túi bao lâu ngày trong nhiệt độ cao.
 
-- Kiểm tra hạn sử dụng, không để túi bao lâu ngày trong nhiệt độ cao.
-- Sử dụng thêm gel bôi trơn gốc nước nếu cần.
+Sử dụng thêm gel bôi trơn gốc nước nếu cần.
+:::
 
 ## Thuốc tiêm DMPA
 
@@ -245,10 +245,11 @@ Tương tự như thuốc tránh thai kết hợp.
 - Tác dụng phụ: Rối loạn kinh nguyệt, tăng cân, đau đầu.
 - Thời gian phục hồi sinh sản có thể chậm.
 
-### Lưu ý
+:::caution
+Tái tiêm đúng hẹn (tối đa trễ 2 tuần) để giữ hiệu quả.
 
-- Tái tiêm đúng hẹn (tối đa trễ 2 tuần) để giữ hiệu quả.
-- Bổ sung canxi và theo dõi mật độ xương nếu dùng lâu dài.
+Bổ sung canxi và theo dõi mật độ xương nếu dùng lâu dài.
+:::
 
 ## Thuốc tránh thai khẩn cấp
 
@@ -283,10 +284,11 @@ Tương tự như thuốc tránh thai kết hợp.
 - Không dùng như biện pháp tránh thai thường xuyên.
 - Giảm hiệu quả nếu BMI cao.
 
-### Lưu ý
+:::caution
+Uống càng sớm càng tốt; nếu nôn trong 2 giờ phải uống lại.
 
-- Uống càng sớm càng tốt; nếu nôn trong 2 giờ phải uống lại.
-- Không bảo vệ bệnh lây qua đường tình dục.
+Không bảo vệ bệnh lây qua đường tình dục.
+:::
 
 ## Xuất tinh ngoài
 
@@ -315,10 +317,11 @@ Tương tự như thuốc tránh thai kết hợp.
 - Hiệu quả phụ thuộc cao vào kỹ năng
 - Không bảo vệ STI
 
-### Lưu ý
+:::caution
+Cần rút sớm, tránh dịch trước có thể chứa tinh trùng.
 
-- Cần rút sớm, tránh dịch trước có thể chứa tinh trùng.
-- Kết hợp với bao cao su tăng hiệu quả.
+Kết hợp với bao cao su tăng hiệu quả.
+:::
 
 ## Cho con bú vô kinh
 
@@ -350,10 +353,11 @@ Tương tự như thuốc tránh thai kết hợp.
 - Hạn chế khoảng 6 tháng đầu.
 - Hiệu quả giảm khi bổ sung sữa ngoài.
 
-### Lưu ý
+:::caution
+Cho bú ít nhất 6–8 lần/ngày, bao gồm đêm.
 
-- Cho bú ít nhất 6–8 lần/ngày, bao gồm đêm.
-- Không bổ sung thức ăn hay nước ngoài sữa mẹ.
+Không bổ sung thức ăn hay nước ngoài sữa mẹ.
+:::
 
 ## Tài liệu tham khảo
 

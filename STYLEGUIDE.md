@@ -112,7 +112,7 @@ Sử dụng bảng để so sánh chẩn đoán phân biệt, phác đồ điề
 
 ### Tài liệu tham khảo
 
-- Cuối mỗi bài nên có danh sách tài liệu tham khảo hoặc guideline theo định dạng sau:
+Cuối mỗi bài nên có danh sách tài liệu tham khảo hoặc guideline theo định dạng sau:
 
 ```md
 ## Tài liệu tham khảo
