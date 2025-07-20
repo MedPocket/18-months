@@ -6,7 +6,6 @@ export const sidebar = starlightSidebarTopics([
     link: "/san-khoa/",
     icon: "external",
     items: [
-      "san-khoa/rau-thai",
       {
         label: "Sức khỏe thai",
         autogenerate: {
@@ -70,7 +69,6 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "san-khoa/sga-iugr",
       {
         label: "Chuyển dạ",
         autogenerate: {
@@ -100,9 +98,9 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Sử dụng thuốc",
+        label: "Một số vấn đề khi mang thai",
         autogenerate: {
-          directory: "san-khoa/thuoc",
+          directory: "san-khoa/mang-thai",
         },
         collapsed: true,
       },
@@ -110,6 +108,13 @@ export const sidebar = starlightSidebarTopics([
         label: "Hậu sản",
         autogenerate: {
           directory: "san-khoa/hau-san",
+        },
+        collapsed: true,
+      },
+      {
+        label: "Sử dụng thuốc",
+        autogenerate: {
+          directory: "san-khoa/thuoc",
         },
         collapsed: true,
       },
