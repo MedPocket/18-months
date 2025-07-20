@@ -14,8 +14,8 @@
     "check": "biome check --write . && prettier --write --experimental-cli '**/*.{md,mdx}'"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.34.5",
-    "astro": "^5.11.0",
+    "@astrojs/starlight": "^0.35.1",
+    "astro": "^5.12.0",
     "astro-og-canvas": "^0.7.0",
     "canvaskit-wasm": "^0.40.0",
     "mdast-util-to-string": "^4.0.0",
@@ -27,8 +27,8 @@
     "starlight-sidebar-topics": "^0.6.0"
   },
   "devDependencies": {
-    "@area44/biome-config": "^2.2.2",
-    "@biomejs/biome": "^2.1.1",
+    "@area44/biome-config": "^2.2.5",
+    "@biomejs/biome": "^2.1.2",
     "prettier": "^3.6.2",
     "typescript": "^5.8.3"
   }
