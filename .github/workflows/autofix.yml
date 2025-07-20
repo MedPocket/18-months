@@ -1,35 +1,19 @@
 name: autofix.ci
 
 on:
-  pull_request:
   push:
     branches: ['main']
+  pull_request:
+
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   autofix:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout your repository using git
+      - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Install PNPM
-        uses: pnpm/action-setup@v4
-        with:
-          version: 10
-
-      - name: Install dependencies
-        run: pnpm install
-
-      - name: Setup Biome CLI
-        uses: biomejs/setup-biome@v2
-
-      - name: Run Biome
-        run: biome ci .
-
-      - name: Run Prettier
-        run: pnpm format:md # Format markdown files
-
-      - name: Run autofix.ci
-        uses: autofix-ci/action@v1.3
+      
+      - name: Run autofix
+        uses: area44/workflows/autofix@v2.0.5
