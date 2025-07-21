@@ -44,7 +44,7 @@ Vaccine **không chứa vi khuẩn sống, mà chứa giải độc tố uốn v
 :::caution
 
 - Chỉ tiêm ở cơ sở y tế được Bộ Y tế cấp phép.
-- Theo dõi tối thiểu 15–30 phút sau tiêm.
+- Theo dõi tối thiểu 15-30 phút sau tiêm.
 - Phản ứng thường gặp: Đau tại chỗ, sốt nhẹ, mệt mỏi — tự khỏi, không cần can thiệp.
 - Kháng thể xuất hiện sau 2 tuần; Tránh rượu bia, tuân thủ hướng dẫn bác sĩ.
 - Khi có dấu hiệu nghiêm trọng (da xanh, tim nhanh, khó thở...) cần đến viện cấp cứu ngay.
@@ -60,6 +60,6 @@ Vaccine **không chứa vi khuẩn sống, mà chứa giải độc tố uốn v
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế (2017) – _THÔNG TƯ 38/2017/TT-BYT HƯỚNG DẪN TIÊM CHỦNG MỞ RỘNG_
-- WHO (2018) – _Maternal and Neonatal Tetanus Elimination_
-- ACIP – _Tetanus Vaccination: Recommendations of the Advisory Committee on Immunization Practices_
+- Bộ Y tế (2017) - _THÔNG TƯ 38/2017/TT-BYT HƯỚNG DẪN TIÊM CHỦNG MỞ RỘNG_
+- WHO (2018) - _Maternal and Neonatal Tetanus Elimination_
+- ACIP - _Tetanus Vaccination: Recommendations of the Advisory Committee on Immunization Practices_

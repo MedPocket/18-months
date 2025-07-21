@@ -1,6 +1,6 @@
 ---
 title: Rau tiền đạo
-description: Rau tiền đạo (Placenta previa) là tình trạng bánh rau bám thấp che hoặc đến lỗ trong cổ tử cung, gặp khoảng 0.5–1% các thai kỳ, có nguy cơ cao chảy máu, sinh non, truyền máu và mổ cắt tử cung do băng huyết
+description: Rau tiền đạo (Placenta previa) là tình trạng bánh rau bám thấp che hoặc đến lỗ trong cổ tử cung, gặp khoảng 0.5-1% các thai kỳ, có nguy cơ cao chảy máu, sinh non, truyền máu và mổ cắt tử cung do băng huyết
 ---
 
 **Rau tiền đạo** là khi bánh rau bám ở đoạn dưới tử cung thay vì bám ở thân tử cung bình thường, với bờ mép bánh rau cách hoặc che kín lỗ trong cổ tử cung.
@@ -32,13 +32,13 @@ Siêu âm qua đường âm đạo đo khoảng cách (mm) giữa mép bánh rau
 
 ### Lâm sàng
 
-- **Ra huyết âm đạo** đỏ tươi, đột ngột, không đau bụng, thường xuất hiện 3 tháng giữa hoặc 3 tháng cuối thai kỳ. Máu chảy từ các hồ máu mẹ ở đoạn dưới tử cung không được cơ tử cung co chặt sau sổ rau do thiếu lớp cơ đan chéo như ở thân tử cung. Đợt chảy máu đầu thường ngưng tự nhiên trong 1–2 giờ, nhưng dễ tái phát, không liên quan đến số lần xuất huyết trước.
+- **Ra huyết âm đạo** đỏ tươi, đột ngột, không đau bụng, thường xuất hiện 3 tháng giữa hoặc 3 tháng cuối thai kỳ. Máu chảy từ các hồ máu mẹ ở đoạn dưới tử cung không được cơ tử cung co chặt sau sổ rau do thiếu lớp cơ đan chéo như ở thân tử cung. Đợt chảy máu đầu thường ngưng tự nhiên trong 1-2 giờ, nhưng dễ tái phát, không liên quan đến số lần xuất huyết trước.
 - **Khám bụng**: Tử cung mềm, không căng cứng.
 - **Khám mỏ vịt** (chỉ thực hiện trong phòng mổ): Thấy máu đỏ tươi từ lỗ trong cổ tử cung.
 
 ### Cận lâm sàng
 
-- **Siêu âm đầu dò âm đạo (TVS)**. Tiêu chuẩn chẩn đoán sau 28 tuần tuổi thai, đo khoảng cách mép bánh rau – lỗ trong cổ tử cung.
+- **Siêu âm đầu dò âm đạo (TVS)**. Tiêu chuẩn chẩn đoán sau 28 tuần tuổi thai, đo khoảng cách mép bánh rau - lỗ trong cổ tử cung.
 - **Siêu âm Doppler hoặc MRI**. Hỗ trợ khi nghi ngờ rau cài răng lược.
 - **Soi bàng quang**. Khi nghi ngờ xâm lấn bàng quang.
 
@@ -72,22 +72,22 @@ Quyết định dựa trên tuổi thai, tình trạng mẹ và mức độ ch�
 ### Ngoại trú
 
 - Nghỉ ngơi tại nhà, tránh giao hợp, không gắng sức.
-- Siêu âm định kỳ để theo dõi khoảng cách bánh rau – lỗ trong cổ tử cung.
-- Dự phòng corticosteroids khi tuổi thai 28–34 tuần để thúc đẩy trưởng thành phổi.
-- Lên lịch mổ lấy thai chủ động ở 36–37 tuần nếu ổn định.
+- Siêu âm định kỳ để theo dõi khoảng cách bánh rau - lỗ trong cổ tử cung.
+- Dự phòng corticosteroids khi tuổi thai 28-34 tuần để thúc đẩy trưởng thành phổi.
+- Lên lịch mổ lấy thai chủ động ở 36-37 tuần nếu ổn định.
 
 ### Nhập viện
 
 #### Chảy máu nhẹ, thai chưa trưởng thành
 
 - Dinh dưỡng và theo dõi sinh hiệu, tim thai.
-- Corticosteroids 28–34 tuần.
+- Corticosteroids 28-34 tuần.
 - Truyền máu khi Hb < 10 g/dL.
 - Khi đủ điều kiện, xuất viện sau 48 giờ.
 
 #### Chảy máu nặng hoặc cấp cứu
 
-- Nhập ICU hoặc phòng phẫu thuật, đặt 2 đường truyền, bù dịch, truyền máu (dự trù 2–4 đơn vị).
+- Nhập ICU hoặc phòng phẫu thuật, đặt 2 đường truyền, bù dịch, truyền máu (dự trù 2-4 đơn vị).
 - Giữ sonde tiểu để theo dõi lượng nước tiểu ≥ 30 mL/h.
 - Giảm đau, ổn định huyết động.
 - Mổ lấy thai cấp cứu và cầm máu: Thuốc co hồi tử cung (oxytocin, carbetocin, ergotamine...). Thắt động mạch tử cung hoặc bóng chẹn nội mạch. Cắt tử cung toàn phần nếu băng huyết không kiểm soát.
@@ -95,5 +95,5 @@ Quyết định dựa trên tuổi thai, tình trạng mẹ và mức độ ch�
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

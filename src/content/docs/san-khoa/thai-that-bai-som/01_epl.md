@@ -3,7 +3,7 @@ title: Thai nghén thất bại sớm
 description: Thai nghén thất bại sớm (Early Pregnancy Loss - EPL) là tình trạng thai lâm sàng được xác định qua siêu âm hoặc khám phụ khoa có dấu hiệu thai không phát triển.
 ---
 
-Thai nghén thất bại sớm (Early Pregnancy Failure) thường được biết dưới dạng trứng trống (blighted ovum) hoặc thai ngưng phát triển (embryonic demise). Tình trạng này xảy ra trước 12 tuần tuổi thai và ảnh hưởng tới khoảng 10–15% các thai lâm sàng, với nguyên nhân chủ yếu do bất thường nhiễm sắc thể, rối loạn nội mạc tử cung hoặc bệnh lý toàn thân của người mẹ.
+Thai nghén thất bại sớm (Early Pregnancy Failure) thường được biết dưới dạng trứng trống (blighted ovum) hoặc thai ngưng phát triển (embryonic demise). Tình trạng này xảy ra trước 12 tuần tuổi thai và ảnh hưởng tới khoảng 10-15% các thai lâm sàng, với nguyên nhân chủ yếu do bất thường nhiễm sắc thể, rối loạn nội mạc tử cung hoặc bệnh lý toàn thân của người mẹ.
 
 Có một số định nghĩa cơ bản:
 
@@ -42,11 +42,11 @@ _Hình ảnh "Trứng trống: MSD ≥ 25 mm không thấy túi noãn hoàng hay
 **Các tình huống nghi ngờ khác (chưa đủ tiêu chuẩn)** gồm:
 
 - Phôi CRL < 7 mm không hoạt động tim phôi.
-- MSD 16–24 mm không có phôi.
-- Không thấy phôi có tim sau 7–10 ngày từ khi phát hiện túi thai và túi noãn hoàng.
+- MSD 16-24 mm không có phôi.
+- Không thấy phôi có tim sau 7-10 ngày từ khi phát hiện túi thai và túi noãn hoàng.
 - Không có màng ối rõ sau 6 tuần vô kinh.
 - Yolk-sac giãn > 7 mm.
-- Hiệu (MSD – CRL) < 5 mm.
+- Hiệu (MSD - CRL) < 5 mm.
 
 :::caution
 Nếu nghi ngờ, phải tái siêu âm tối thiểu 7 ngày sau lần đầu trước khi chẩn đoán chắc chắn.
@@ -69,7 +69,7 @@ Các trường hợp trên lâm sàng:
 1. CRL ≥ 7 mm không thấy tim thai.
 2. MSD ≥ 25 mm không thấy phôi thai.
 3. Phôi không xuất hiện sau 14 ngày kể từ siêu âm xác nhận túi thai không có yolk-sac.
-4. Không thấy tim thai qua ≥ 2 lần siêu âm cách nhau 7–10 ngày.
+4. Không thấy tim thai qua ≥ 2 lần siêu âm cách nhau 7-10 ngày.
 
 **Không dùng β-hCG để chẩn đoán thai lưu** vì không phản ánh tính sinh tồn của phôi.
 
@@ -81,8 +81,8 @@ Triệu chứng **ra máu, đau bụng, cổ tử cung đóng**. **Dấu hiệu 
 
 - Không thấy phôi sau 6 tuần vô kinh.
 - Yolk-sac giãn > 7 mm.
-- (MSD – CRL) < 5 mm.
-- Tim thai chậm < 80–90 nhịp/phút.
+- (MSD - CRL) < 5 mm.
+- Tim thai chậm < 80-90 nhịp/phút.
 - Xuất huyết dưới màng nuôi.
 - Xoang ối giãn rộng (expanded amnion sign).
 
@@ -125,5 +125,5 @@ Khi chọn theo dõi, cần tái siêu âm và có thể đo β-hCG để đánh
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Perinatology – [_Beta hCG Doubling Time Calculator_](https://perinatology.com/calculators/betahCG.htm)
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Perinatology - [_Beta hCG Doubling Time Calculator_](https://perinatology.com/calculators/betahCG.htm)

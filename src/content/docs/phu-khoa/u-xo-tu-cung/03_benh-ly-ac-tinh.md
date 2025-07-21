@@ -11,7 +11,7 @@ Sarcoma cơ trơn thân tử cung là khối u ác tính rất hiếm, chiếm <
 
 ### Yếu tố nguy cơ
 
-- Thường gặp ở phụ nữ tuổi tiền mãn kinh và mãn kinh (50–60 tuổi).
+- Thường gặp ở phụ nữ tuổi tiền mãn kinh và mãn kinh (50-60 tuổi).
 - Nguồn gốc: Chưa rõ có phát triển từ u xơ-cơ tử cung hay độc lập.
 
 ### Chẩn đoán
@@ -39,7 +39,7 @@ _Bảng "So sánh u xơ tử cung, STUMP và sarcoma thân tử cung"._
 | Tiêu chí | U xơ-cơ lành tính | STUMP | Sarcoma cơ trơn |
 | ------------------- | ----------------- | ----------------------------------- | --------------------------- |
 | **Đột biến nhân** | Hiếm | Có thể có, không rõ rệt | Thường |
-| **Số phân bào** | < 5/10 HPF | 5–10/10 HPF | > 10/10 HPF |
+| **Số phân bào** | < 5/10 HPF | 5-10/10 HPF | > 10/10 HPF |
 | **Hoại tử tế bào** | Không | Ít thấy hoặc hoại tử không đặc hiệu | Hoại tử dạng tăng sinh mạch |
 | **Độ dị dạng nhân** | Thấp | Trung bình | Cao |
 
@@ -51,14 +51,14 @@ _Bảng "So sánh u xơ tử cung, STUMP và sarcoma thân tử cung"._
 
 - **Cắt tử cung toàn phần**: Tiêu chuẩn.
 - **Buồng trứng**: Bảo tồn ở phụ nữ trẻ; Cắt nếu phụ nữ lớn tuổi hoặc có biểu hiện kích thích nội tiết.
-- **Theo dõi**: Siêu âm/MRI mỗi 6–12 tháng trong 5 năm đầu.
+- **Theo dõi**: Siêu âm/MRI mỗi 6-12 tháng trong 5 năm đầu.
 
 ## Các bệnh lý ác tính khác
 
 ### Carcinoma biểu mô tuyến (Endometrial carcinoma)
 
 - Ít gặp trong thai kỳ; Thường phát hiện sau sinh hoặc chẩn đoán nhầm xuất huyết.
-- **Điều trị**: Cắt tử cung toàn phần và nạo hạch chậu – thắt động mạch tử cung sau sinh hoặc kết thúc thai kỳ.
+- **Điều trị**: Cắt tử cung toàn phần và nạo hạch chậu - thắt động mạch tử cung sau sinh hoặc kết thúc thai kỳ.
 
 ### Sarcoma hỗn hợp (Carcinosarcoma)
 
@@ -73,6 +73,6 @@ _Bảng "So sánh u xơ tử cung, STUMP và sarcoma thân tử cung"._
 
 ## Tài liệu tham khảo
 
-- WHO – _Classification of Tumours, Female Genital Tumours (5th ed.)_
-- ACOG – _Practice Bulletin on Uterine Sarcoma và STUMP_
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning_
+- WHO - _Classification of Tumours, Female Genital Tumours (5th ed.)_
+- ACOG - _Practice Bulletin on Uterine Sarcoma và STUMP_
+- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning_

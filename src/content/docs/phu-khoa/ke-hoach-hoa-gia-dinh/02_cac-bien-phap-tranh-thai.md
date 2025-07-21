@@ -17,9 +17,9 @@ Dưới đây tổng hợp đặc điểm chính của các phương pháp trán
 **Tính an toàn**:
 
 - An toàn với hầu hết phụ nữ.
-- Trung bình nguy cơ viêm nhiễm trong 1–3 tháng đầu.
+- Trung bình nguy cơ viêm nhiễm trong 1-3 tháng đầu.
 
-**Tính kinh tế**: Chi phí ban đầu trung bình. Dùng lâu dài (5–10 năm) nên rất kinh tế.
+**Tính kinh tế**: Chi phí ban đầu trung bình. Dùng lâu dài (5-10 năm) nên rất kinh tế.
 
 **Cơ chế tác dụng**:
 
@@ -67,8 +67,8 @@ Sau đặt vòng:
 
 - Kiêng quan hệ và không thụt rửa âm đạo ít nhất 7 ngày.
 - Sử dụng kháng sinh chống viêm, giảm co thắt alverin citrat 40 mg x 2 viên x 2 lần/ngày x 3 ngày.
-- Không ngâm bồn tắm hoặc bơi chung hồ trong 3–5 ngày đầu.
-- Tái khám sau 4–6 tuần để kiểm tra dây vòng.
+- Không ngâm bồn tắm hoặc bơi chung hồ trong 3-5 ngày đầu.
+- Tái khám sau 4-6 tuần để kiểm tra dây vòng.
 
 :::
 
@@ -76,7 +76,7 @@ Sau đặt vòng:
 
 ### Đặc điểm
 
-**Tính hiệu quản (Pearl Index)**: Perfect 0.1–0.3; Typical 7.
+**Tính hiệu quản (Pearl Index)**: Perfect 0.1-0.3; Typical 7.
 
 **Tính an toàn**:
 
@@ -101,7 +101,7 @@ Sau đặt vòng:
 **Chống chỉ định tuyệt đối**:
 
 - Có thai.
-- Đang cho con bú dưới 6 tuần sau sinh (với viên phối hợp estrogen–progestin).
+- Đang cho con bú dưới 6 tuần sau sinh (với viên phối hợp estrogen-progestin).
 - Ung thư vú đang điều trị hoặc nghi ngờ.
 
 **Chống chỉ định tương đối**:
@@ -153,7 +153,7 @@ Uống vào cùng một thời điểm mỗi ngày. Nếu quên > 12 giờ dùng
 - Rất an toàn, tác dụng phụ nhẹ.
 - Không ảnh hưởng chuyển hóa lipid.
 
-**Tính kinh tế**: Chi phí cao. Dùng 3–5 năm.
+**Tính kinh tế**: Chi phí cao. Dùng 3-5 năm.
 
 **Cơ chế tác dụng**: Giải phóng etonogestrel/progestin ổn định, ức chế rụng trứng, làm đặc chất nhầy cổ tử cung.
 
@@ -186,7 +186,7 @@ Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. K
 
 **Tính an toàn**: Rất an toàn, bảo vệ cả khỏi bệnh lây qua đường tình dục và HIV.
 
-**Tính kinh tế**: Rẻ khoảng 10–200 nghìn VNĐ/chiếc.
+**Tính kinh tế**: Rẻ khoảng 10-200 nghìn VNĐ/chiếc.
 
 **Cơ chế tác dụng**: Tạo rào vật lý ngăn tinh trùng vào âm đạo.
 
@@ -218,14 +218,14 @@ Sử dụng thêm gel bôi trơn gốc nước nếu cần.
 
 ### Đặc điểm
 
-**Tính hiệu quản (Pearl Index)**: Perfect 0.3; Typical use 3–4.
+**Tính hiệu quản (Pearl Index)**: Perfect 0.3; Typical use 3-4.
 
 **Tính an toàn**:
 
 - An toàn với hầu hết phụ nữ.
 - Có thể làm giảm mật độ xương nếu dùng lâu (> 2 năm).
 
-**Tính kinh tế**: Chi phí ~ 150–300 nghìn VNĐ/lần (tái tiêm 3 tháng/lần).
+**Tính kinh tế**: Chi phí ~ 150-300 nghìn VNĐ/lần (tái tiêm 3 tháng/lần).
 
 **Cơ chế tác dụng**: Progestin liều cao ức chế rụng trứng, làm đặc chất nhầy cổ tử cung.
 
@@ -258,11 +258,11 @@ Bổ sung canxi và theo dõi mật độ xương nếu dùng lâu dài.
 **Tính hiệu quản (Pearl Index)**:
 
 - Không dùng liên tục nên không có PI truyền thống.
-- Hiệu quả giảm nguy cơ có thai 75–95% nếu dùng trong 72 giờ đầu.
+- Hiệu quả giảm nguy cơ có thai 75-95% nếu dùng trong 72 giờ đầu.
 
 **Tính an toàn**: An toàn, tác dụng phụ nhẹ (buồn nôn, chóng mặt)
 
-**Tính kinh tế**: Chi phí ~ 100–200 nghìn VNĐ/lần.
+**Tính kinh tế**: Chi phí ~ 100-200 nghìn VNĐ/lần.
 
 **Cơ chế tác dụng**: Hoãn hoặc ức chế rụng trứng; làm thay đổi niêm mạc tử cung
 
@@ -329,7 +329,7 @@ Kết hợp với bao cao su tăng hiệu quả.
 
 **Tính hiệu quản (Pearl Index)**:
 
-- 6 tháng đầu: Perfect 0.5–2; Typical ~2.
+- 6 tháng đầu: Perfect 0.5-2; Typical ~2.
 - Sau 6 tháng: Hiệu quả giảm còn ~50%.
 
 **Tính an toàn**: Tuyệt đối an toàn cho mẹ và bé.
@@ -354,12 +354,12 @@ Kết hợp với bao cao su tăng hiệu quả.
 - Hiệu quả giảm khi bổ sung sữa ngoài.
 
 :::caution
-Cho bú ít nhất 6–8 lần/ngày, bao gồm đêm.
+Cho bú ít nhất 6-8 lần/ngày, bao gồm đêm.
 
 Không bổ sung thức ăn hay nước ngoài sữa mẹ.
 :::
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
 - World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_

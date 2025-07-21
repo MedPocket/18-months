@@ -41,4 +41,4 @@ Hỏi bệnh sử và khám lâm sàng nhằm tìm các yếu tố định hư�
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

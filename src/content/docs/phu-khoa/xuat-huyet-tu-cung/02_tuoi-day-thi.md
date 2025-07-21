@@ -1,20 +1,20 @@
 ---
 title: Xuất huyết tử cung bất thường tuổi dậy thì
-description: Các đặc điểm sinh lý của hệ trục hạ đồi–tuyến yên–buồng trứng ở tuổi dậy thì và cách nhận biết, đánh giá, chẩn đoán cũng như xử trí tình trạng xuất huyết tử cung cơ năng ở bé gái giai đoạn dậy thì, không do nguyên nhân thực thể hoặc thai nghén.
+description: Các đặc điểm sinh lý của hệ trục hạ đồi-tuyến yên-buồng trứng ở tuổi dậy thì và cách nhận biết, đánh giá, chẩn đoán cũng như xử trí tình trạng xuất huyết tử cung cơ năng ở bé gái giai đoạn dậy thì, không do nguyên nhân thực thể hoặc thai nghén.
 ---
 
-Tuổi dậy thì ở bé gái là tiến trình chuyển hóa sinh lý quan trọng, chuyển đổi từ cá thể chưa trưởng thành trở thành người phụ nữ có khả năng sinh sản. Quá trình này thường bắt đầu khi bé gái khoảng 8–10 tuổi và kết thúc khi hệ trục hạ đồi–tuyến yên–buồng trứng ổn định, với kinh nguyệt đều đặn.
+Tuổi dậy thì ở bé gái là tiến trình chuyển hóa sinh lý quan trọng, chuyển đổi từ cá thể chưa trưởng thành trở thành người phụ nữ có khả năng sinh sản. Quá trình này thường bắt đầu khi bé gái khoảng 8-10 tuổi và kết thúc khi hệ trục hạ đồi-tuyến yên-buồng trứng ổn định, với kinh nguyệt đều đặn.
 
-## Trục hạ đồi–tuyến yên–buồng trứng
+## Trục hạ đồi-tuyến yên-buồng trứng
 
-Hệ trục hạ đồi–tuyến yên–buồng trứng (HPG axis) ở tuổi dậy thì chưa hoàn thiện và rất không ổn định.
+Hệ trục hạ đồi-tuyến yên-buồng trứng (HPG axis) ở tuổi dậy thì chưa hoàn thiện và rất không ổn định.
 
 **Trước dậy thì**: Trục HPG hầu như ở trạng thái nghỉ, các xung GnRH rất ít, tuyến yên ít tiết FSH/LH, buồng trứng không hoạt động.
 
 **Khởi phát dậy thì**:
 
 - Xung GnRH xuất hiện đầu tiên với tần số thưa thớt, chỉ đủ kích thích tuyến yên tiết FSH.
-- Dưới tác dụng FSH, các nang noãn được chiêu mộ bắt đầu phát triển, sản xuất estradiol, gây xuất hiện đặc điểm sinh dục thứ phát (tuyến vú, lông mu, tăng tích mỡ ở hông–đùi...).
+- Dưới tác dụng FSH, các nang noãn được chiêu mộ bắt đầu phát triển, sản xuất estradiol, gây xuất hiện đặc điểm sinh dục thứ phát (tuyến vú, lông mu, tăng tích mỡ ở hông-đùi...).
 - Estrogen cũng thúc đẩy cốt hóa các đầu xương dài.
 
 **Giai đoạn giữa dậy thì**:
@@ -34,9 +34,9 @@ Hệ trục hạ đồi–tuyến yên–buồng trứng (HPG axis) ở tuổi d
 **Lần hành kinh đầu tiên**: Bản chất là sự sụp đổ nội mạc tử cung do thiếu hụt steroid (cả estrogen và progesterone hoặc chỉ estrogen). Sau đó:
 
 - Nếu không có phóng noãn: Nội mạc tiếp tục phát triển dưới tác dụng estrogen đơn độc → dày lên nhưng không phân tiết → đến lúc nào đó bong tróc không đồng đều → chảy máu không đều, kéo dài.
-- Nếu có phóng noãn: Nội mạc phát triển và phân tiết bình thường dưới tác động phối hợp estrogen–progesterone, nhưng tần suất phóng noãn không ổn định, vẫn có thể xuất huyết bất thường.
+- Nếu có phóng noãn: Nội mạc phát triển và phân tiết bình thường dưới tác động phối hợp estrogen-progesterone, nhưng tần suất phóng noãn không ổn định, vẫn có thể xuất huyết bất thường.
 
-**Thời gian xuất huyết** thường kéo dài trong 2–3 năm đầu sau khi có kinh nguyệt, với:
+**Thời gian xuất huyết** thường kéo dài trong 2-3 năm đầu sau khi có kinh nguyệt, với:
 
 - Chu kỳ không đều (có thể dài hoặc ngắn bất thường).
 - Lượng máu không ổn định (từ nhẹ đến rất nhiều).
@@ -61,14 +61,14 @@ Chẩn đoán XHTC cơ năng tuổi dậy thì là chẩn đoán loại trừ. K
 **Nguyên nhân tại sinh dục (thực thể)**:
 
 - **Nhiễm trùng**: Viêm nhiễm âm đạo, cổ tử cung liên quan hoặc không liên quan đến tình dục (vi khuẩn, virus, nấm).
-- **Tổn thương u buồng trứng**: U tế bào vỏ-hạt (Granulosa–Theca cell tumor): Sản xuất estrogen cục bộ → tăng sinh nội mạc; U tế bào mầm, u nang buồng trứng, nang hoàng thể bất thường...
+- **Tổn thương u buồng trứng**: U tế bào vỏ-hạt (Granulosa-Theca cell tumor): Sản xuất estrogen cục bộ → tăng sinh nội mạc; U tế bào mầm, u nang buồng trứng, nang hoàng thể bất thường...
 - **Bệnh lý tử cung**: Polyp nội mạc, dính buồng tử cung, Dị dạng bẩm sinh tử cung (hiếm gặp ở tuổi dậy thì).
 - **Nội tiết sinh dục ngoại lai**: Sử dụng progestin, estrogens (thường là tránh thai khẩn cấp) → gây rối loạn nội mạc.
 - **Thai kỳ**: Mặc dù phóng noãn hiếm, nhưng không loại trừ khả năng có Thai(> 1%): Cần đo β-hCG.
 
 **Rối loạn phóng noãn sinh lý tuổi dậy thì**:
 
-- Do tính không ổn định kéo dài của phản hồi dương estrogen–LH, dẫn đến chu kỳ không phóng noãn chiếm ưu thế.
+- Do tính không ổn định kéo dài của phản hồi dương estrogen-LH, dẫn đến chu kỳ không phóng noãn chiếm ưu thế.
 - Chu kỳ không phóng noãn → hoàng thể bất toàn hoặc vắng mặt progesterone → nội mạc không phân tiết → bong tróc không đều.
 
 ## Chẩn đoán
@@ -137,7 +137,7 @@ _Bảng "Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xu�
 ### Nguyên tắc
 
 - Không làm ảnh hưởng đến hệ trục hạ đồi-yên-buồng trứng.
-- Xuất huyết tử cung cơ năng tuổi dậy thì thường **tự ổn định** sau 2–3 năm, khi hệ trục HPG hoàn thiện.
+- Xuất huyết tử cung cơ năng tuổi dậy thì thường **tự ổn định** sau 2-3 năm, khi hệ trục HPG hoàn thiện.
 - Tiên lượng tốt: > 80% bé gái có chu kỳ đều đặn trở lại sau khoảng 2 năm kể từ lần hành kinh đầu.
 - **Mục tiêu theo dõi**: Nhật ký kinh nguyệt (menstrual calendar) để ghi nhận tần suất, thời gian, lượng máu. Đo lường mức độ thiếu máu (huyết sắc tố, ferritin) và bổ sung sắt khi cần. Theo dõi cân nặng, BMI, dấu hiệu rối loạn nội tiết khác.
 - **Khi chảy máu nhẹ và không ảnh hưởng sinh hoạt**: Có thể chỉ theo dõi, hỗ trợ tâm lý, khuyến khích dinh dưỡng đầy đủ, tránh căng thẳng. Không dùng nội tiết nếu không thật cần thiết, vì có thể làm trục HPG trì trệ lâu hơn.
@@ -161,8 +161,8 @@ _Bảng "Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xu�
 
 **Liều và thời gian**:
 
-- **Dydrogesterone** 10 mg × 2 lần/ngày (sáng–tối) trong 10–14 ngày; Hoặc
-- **Lynestrenol** 5 mg × 2 lần/ngày trong 10–14 ngày.
+- **Dydrogesterone** 10 mg × 2 lần/ngày (sáng-tối) trong 10-14 ngày; Hoặc
+- **Lynestrenol** 5 mg × 2 lần/ngày trong 10-14 ngày.
 - Sau đó ngưng: Bé gái có thể có hành kinh trong vài ngày kế tiếp.
 
 **Theo dõi sau điều trị**:
@@ -185,13 +185,13 @@ Chọn progestogen có **tính kháng estrogen** vừa đủ và **ít ức ch�
 
 **Chọn lựa estrogen**:
 
-- **Ethinyl estradiol** (từ viên COC) hoặc **Estrogen liên hợp** (Premarin®) liều đủ cao. Tối ưu tương đương Ethinyl estradiol 2 mg/ngày trong 7–10 ngày, không khuyến cáo liều càng cao càng tốt, vì tác dụng genomic cần thời gian.
+- **Ethinyl estradiol** (từ viên COC) hoặc **Estrogen liên hợp** (Premarin®) liều đủ cao. Tối ưu tương đương Ethinyl estradiol 2 mg/ngày trong 7-10 ngày, không khuyến cáo liều càng cao càng tốt, vì tác dụng genomic cần thời gian.
 - Cung cấp qua đường uống; Thụt hậu môn hoặc truyền TM hiếm sử dụng ở lứa tuổi này.
 
 **Chọn lựa progestogen**:
 
-- Sau 7–10 ngày dùng estrogen, thêm dydrogesterone 10 mg × 2/ngày trong 10–14 ngày.
-- Hoặc dùng phối hợp COC (Ethinyl estradiol + Levonorgestrel) liều trung bình (Ethinyl estradiol 30 µg) liên tục trong 21–28 ngày.
+- Sau 7-10 ngày dùng estrogen, thêm dydrogesterone 10 mg × 2/ngày trong 10-14 ngày.
+- Hoặc dùng phối hợp COC (Ethinyl estradiol + Levonorgestrel) liều trung bình (Ethinyl estradiol 30 µg) liên tục trong 21-28 ngày.
 
 _Bảng "Tóm lược hoạt tính của các progestin. Các progestin dẫn xuất 19-nor testosterone có kháng estrogen mạnh nhưng ảnh hưởng hạ đồi cao, nhóm retroprogesterone ít ức chế trục nhất. Ghi chú (+) có tác dụng; (±) tác dụng yếu, (-) không có tác dụng này"._
 | Loại progestin | Tính progestogen | Tính kháng gonadotropin | Tính kháng estrogen | Tính estrogen androgen | Tính androgen | Tính kháng glucocorticoid | Tính kháng mineralocort. |
@@ -226,7 +226,7 @@ _Bảng "Tóm lược hoạt tính của các progestin. Các progestin dẫn xu
 - Bé gái cần uống đều đặn, ghi lại ngày bắt đầu và kết thúc chảy máu.
 - Sau khi hoàn thành liệu trình, nếu hết chảy máu thì chuyển sang theo dõi chu kỳ tự nhiên.
 - Nếu vẫn ra máu nhiều, cân nhắc đánh giá lại nguyên nhân (có thể kèm theo u thực thể, rối loạn đông nặng...).
-- **Nếu sau 2–3 năm** kinh nguyệt vẫn không đều, xuất huyết tái phát nhiều lần: Cần đánh giá lại toàn diện, tìm nguyên nhân rối loạn phóng noãn vĩnh viễn (PCOS, rối loạn tuyến giáp, rối loạn cushing, nguyên nhân di truyền...). Có thể cần hội chẩn nội tiết, sản khoa – nhi khoa để tiếp tục điều trị chuyên sâu.
+- **Nếu sau 2-3 năm** kinh nguyệt vẫn không đều, xuất huyết tái phát nhiều lần: Cần đánh giá lại toàn diện, tìm nguyên nhân rối loạn phóng noãn vĩnh viễn (PCOS, rối loạn tuyến giáp, rối loạn cushing, nguyên nhân di truyền...). Có thể cần hội chẩn nội tiết, sản khoa - nhi khoa để tiếp tục điều trị chuyên sâu.
 
 :::caution
 COC giúp cầm máu khá hiệu quả, nhưng có thể ức chế hạ đồi mạnh, nên chỉ sử dụng ngắn hạn. Dùng dài hạn có thể ảnh hưởng lâu dài đến hoạt động trục HPG.  
@@ -234,6 +234,6 @@ COC giúp cầm máu khá hiệu quả, nhưng có thể ức chế hạ đồi 
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- UpToDate (2024) – _Abnormal uterine bleeding in adolescents (truy cập tháng 5/2025)_
-- WHO (2018) – _Adolescent health: Abnormal uterine bleeding_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- UpToDate (2024) - _Abnormal uterine bleeding in adolescents (truy cập tháng 5/2025)_
+- WHO (2018) - _Adolescent health: Abnormal uterine bleeding_

@@ -7,7 +7,7 @@ description: Lạc nội mạc tử cung là bệnh phụ khoa mạn tính, dễ
 
 Lạc nội mạc tử cung có thể ở phúc mạc, buồng trứng, lạc nội mạc sâu, bệnh tuyến cơ-tử cung (adenomyosis). Đây là **chẩn đoán phân biệt quan trọng nhất** của u xơ-cơ tử cung trong thực hành hàng ngày.
 
-**Tần suất mắc bệnh** không được biết chính xác, ước tính khoảng 10% phụ nữ độ tuổi sinh sản bị lạc nội mạc tử cung. Trong số BN lạc nội mạc tử cung có khoảng 40–82% phụ nữ bị đau vùng chậu mạn tính, 50% phụ nữ lạc nội mạc tử cung bị ảnh hưởng gây hiếm muộn vô sinh, 17–48% có khối lạc nội mạc tử cung ở buồng trứng.
+**Tần suất mắc bệnh** không được biết chính xác, ước tính khoảng 10% phụ nữ độ tuổi sinh sản bị lạc nội mạc tử cung. Trong số BN lạc nội mạc tử cung có khoảng 40-82% phụ nữ bị đau vùng chậu mạn tính, 50% phụ nữ lạc nội mạc tử cung bị ảnh hưởng gây hiếm muộn vô sinh, 17-48% có khối lạc nội mạc tử cung ở buồng trứng.
 
 ## Mô học
 
@@ -96,8 +96,8 @@ _Hình ảnh "Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)"._
 
 ## Điều trị
 
-_Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh viện Từ Dũ"._
-![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung – Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
+_Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung - Bệnh viện Từ Dũ"._
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung - Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
 
 ### Nguyên tắc
 
@@ -107,14 +107,14 @@ _Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung
 
 1. Đau bụng kinh (thống kinh).
 2. Xuất huyết tử cung bất thường (AUB-A).
-3. Hiếm muộn – vô sinh.
+3. Hiếm muộn - vô sinh.
 
 ### Thống kinh
 
 **Áp dụng khi thống kinh nặng**, ảnh hưởng chất lượng sống và không kèm hiếm muộn. Nếu có hiếm muộn, chỉ điều trị triệu chứng đau, ưu tiên kỹ thuật hỗ trợ sinh sản.
 
-_Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau – Bệnh viện Từ Dũ"._
-![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau – Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
+_Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau - Bệnh viện Từ Dũ"._
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau - Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
 
 #### Nội khoa
 
@@ -123,9 +123,9 @@ _Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung
 _Bảng "Giảm đau bước 1"._
 | Loại thuốc | Liều dùng & cách dùng | Hiệu quả | Chống chỉ định / Tác dụng phụ |
 | ------------- | ------------------------------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------- |
-| **NSAIDs** | Ibuprofen 400 mg mỗi 4–6 h<br>Naproxen 250 mg mỗi 8–12 h | Giảm viêm, co thắt, giảm thống kinh | Loét dạ dày, suy thận, hen nặng, tim mạch |
-| **COCs** | EE 20–30 µg + progestin, 1 viên/ngày (liên tục hoặc chu kỳ)<br>Miếng dán 1 miếng/tuần | Giảm sinh nội mạc, giảm COX-2, giảm đau | Rong huyết, buồn nôn, căng vú, tăng cân, mụn |
-| **Progestin** | Dienogest 2 mg/ngày<br>LNG-IUS 5 năm<br>Norethindrone 5–10 mg/ngày | Teo nội mạc, giảm đau và cường kinh | Rong huyết thất thường, mụn, ảnh hưởng kinh nguyệt |
+| **NSAIDs** | Ibuprofen 400 mg mỗi 4-6 h<br>Naproxen 250 mg mỗi 8-12 h | Giảm viêm, co thắt, giảm thống kinh | Loét dạ dày, suy thận, hen nặng, tim mạch |
+| **COCs** | EE 20-30 µg + progestin, 1 viên/ngày (liên tục hoặc chu kỳ)<br>Miếng dán 1 miếng/tuần | Giảm sinh nội mạc, giảm COX-2, giảm đau | Rong huyết, buồn nôn, căng vú, tăng cân, mụn |
+| **Progestin** | Dienogest 2 mg/ngày<br>LNG-IUS 5 năm<br>Norethindrone 5-10 mg/ngày | Teo nội mạc, giảm đau và cường kinh | Rong huyết thất thường, mụn, ảnh hưởng kinh nguyệt |
 
 **Giảm đau bước 2**:
 
@@ -139,13 +139,13 @@ _Bảng "Giảm đau bước 2"._
 **NSAIDs**:
 
 - **Cơ chế**: Ức chế COX-2 → giảm PGE₂ → giảm viêm và co thắt.
-- **Liều dùng**: Ibuprofen 400 mg mỗi 4–6 giờ; Naproxen 250 mg mỗi 8–12 giờ.
+- **Liều dùng**: Ibuprofen 400 mg mỗi 4-6 giờ; Naproxen 250 mg mỗi 8-12 giờ.
 - **Chống chỉ định**: Loét dạ dày, suy thận, hen phế quản nặng, bệnh tim mạch.
 
-**COCs (Estrogen–Progestin)**:
+**COCs (Estrogen-Progestin)**:
 
 - **Cơ chế**: Ức chế phát triển nội mạc, giảm COX-2.
-- **Liều dùng**: EE 20–30 µg + progestin, 1 viên/ngày liên tục hoặc theo chu kỳ; Miếng dán mỗi tuần 1 miếng.
+- **Liều dùng**: EE 20-30 µg + progestin, 1 viên/ngày liên tục hoặc theo chu kỳ; Miếng dán mỗi tuần 1 miếng.
 
 :::caution
 Không dùng quá 3 tháng nếu không giảm đau; Ít hiệu quả với lạc nội mạc sâu.
@@ -166,8 +166,8 @@ Không dùng quá 3 tháng nếu không giảm đau; Ít hiệu quả với lạ
 
 **Progestin tại chỗ & toàn thân**:
 
-- **Progestin uống**: Dienogest 2 mg/ngày; Norethindrone 5–10 mg/ngày.
-- **IUS–LNG**: Đặt 1 lần, tác dụng 5 năm.
+- **Progestin uống**: Dienogest 2 mg/ngày; Norethindrone 5-10 mg/ngày.
+- **IUS-LNG**: Đặt 1 lần, tác dụng 5 năm.
 - **Tác dụng**: Teo nội mạc, giảm viêm; LNG-IUS còn giảm cường kinh.
 
 :::caution
@@ -179,21 +179,21 @@ Chọn progestin ít tác dụng toàn thân; Ưu tiên LNG-IUS hoặc Dienogest
 **Chỉ định**:
 
 - Thất bại tối đa với mọi liệu pháp nội khoa (đau vẫn nặng, u nang lạc nội mạc tái phát).
-- Tổn thương adenomyosis khu trú gây đau nặng hoặc u to > 5 cm (đặc biệt u nang buồng trứng lạc nội mạc > 5–10 cm).
+- Tổn thương adenomyosis khu trú gây đau nặng hoặc u to > 5 cm (đặc biệt u nang buồng trứng lạc nội mạc > 5-10 cm).
 - Đa dính vùng chậu nặng, ảnh hưởng cơ năng.
 - Bệnh nhân mong muốn điều trị triệt để, không còn nhu cầu sinh đẻ.
 
 **Phương pháp**:
 
 - **Nội soi ổ bụng**: Cắt hoặc đốt tổn thương phúc mạc; Bóc nang lạc nội mạc buồng trứng; Cắt/gỡ adenomyosis khu trú (chèn RMN xác định vị trí).
-- **Mở bụng**: Khi tổn thương lan tỏa, u > 10 cm, dính ruột – bàng quang phức tạp; Ưu tiên đường mổ cũ nếu đã từng mổ buồng trứng/tử cung.
+- **Mở bụng**: Khi tổn thương lan tỏa, u > 10 cm, dính ruột - bàng quang phức tạp; Ưu tiên đường mổ cũ nếu đã từng mổ buồng trứng/tử cung.
 - **Phẫu thuật Osada**: Giảm khối adenomyosis lan tỏa. Bảo tồn tối đa cơ tử cung, khâu phục hồi cân cơ.
 - **Cắt tử cung**: Cuối cùng, khi không còn nhu cầu sinh đẻ và thất bại mọi lựa chọn khác. Có thể kèm lấy buồng trứng hoặc giữ lại buồng trứng tùy chỉ định.
 
 **Điều trị nội tiết liên quan**:
 
 - **Không chỉ định** dùng NSAIDs/COCs/Đồng vận GnRH... để chuẩn bị trước mổ.
-- **Dự phòng tái phát** sau phẫu thuật: - Điều trị ≥ 6 tháng với: IUS–LNG (levonorgestrel), Dienogest 2 mg/ngày, COCs liên tục. - Thời gian khuyến cáo: 18–24 tháng nhằm ngăn ngừa tái phát đau và tổn thương.
+- **Dự phòng tái phát** sau phẫu thuật: - Điều trị ≥ 6 tháng với: IUS-LNG (levonorgestrel), Dienogest 2 mg/ngày, COCs liên tục. - Thời gian khuyến cáo: 18-24 tháng nhằm ngăn ngừa tái phát đau và tổn thương.
 
 ### Xuất huyết tử cung
 
@@ -204,18 +204,18 @@ Chọn progestin ít tác dụng toàn thân; Ưu tiên LNG-IUS hoặc Dienogest
 
 ### Hiếm muộn
 
-_Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn – Bệnh viện Từ Dũ"._
-![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn – Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
+_Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn - Bệnh viện Từ Dũ"._
+![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn - Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
 
 - **Ưu tiên hiếm muộn** nếu kèm thống kinh nặng.
 - **Nội khoa**: Không dùng liệu pháp ức chế buồng trứng trước IVF.
-- **Phẫu thuật**: Bóc nang lạc nội mạc độ I–II nếu ảnh hưởng đến chức năng buồng trứng.
+- **Phẫu thuật**: Bóc nang lạc nội mạc độ I-II nếu ảnh hưởng đến chức năng buồng trứng.
 - **ART**: IVF/ICSI khi vòi trứng tổn thương hoặc các biện pháp khác thất bại.
-- **Chuẩn bị**: GnRHa 3–6 tháng trước chuyển phôi có thể cải thiện tỉ lệ thành công.
+- **Chuẩn bị**: GnRHa 3-6 tháng trước chuyển phôi có thể cải thiện tỉ lệ thành công.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
-- Bộ Y Tế (2019) 5306/QĐ-BYT – _Hướng dẫn chẩn đoán và điều trị lạc nội mạc tử cung_
-- Hội Nội tiết sinh sản và Vô sinh TPHCM (HOSREM) – _Hướng dẫn lâm sàng về lạc nội mạc tử cung_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- Bộ Y Tế (2019) 5306/QĐ-BYT - _Hướng dẫn chẩn đoán và điều trị lạc nội mạc tử cung_
+- Hội Nội tiết sinh sản và Vô sinh TPHCM (HOSREM) - _Hướng dẫn lâm sàng về lạc nội mạc tử cung_

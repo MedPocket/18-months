@@ -1,9 +1,9 @@
 ---
 title: U xơ tử cung
-description: Tổng quan về u xơ cơ tử cung (leiomyoma) bệnh học, phân loại, chẩn đoán và điều trị nội – ngoại khoa.
+description: Tổng quan về u xơ cơ tử cung (leiomyoma) bệnh học, phân loại, chẩn đoán và điều trị nội - ngoại khoa.
 ---
 
-**U xơ cơ tử cung (leiomyoma)** là khối u lành tính của cơ trơn và mô liên kết tử cung, phụ thuộc estrogen–progesterone để phát triển.
+**U xơ cơ tử cung (leiomyoma)** là khối u lành tính của cơ trơn và mô liên kết tử cung, phụ thuộc estrogen-progesterone để phát triển.
 
 ## Bệnh sinh
 
@@ -105,28 +105,28 @@ _Hình ảnh "Leiomyosarcoma trên MRI"._
 
 ### Không can thiệp
 
-**Theo dõi** triệu chứng và kích thước mỗi 6–12 tháng (sau mãn kinh 3–6 tháng) nếu không triệu chứng.
+**Theo dõi** triệu chứng và kích thước mỗi 6-12 tháng (sau mãn kinh 3-6 tháng) nếu không triệu chứng.
 
 ### Nội khoa
 
 _Bảng "Các thuốc nội khoa điều trị u xơ"._
 | Phương pháp | Mục tiêu | Ghi chú |
 | -------------------------------- | ------------------------- | --------------------------------------------------------------------- |
-| **Tranexamic acid** | Giảm cường kinh | 250–500 mg × 3 lần/ngày; Chống chỉ định tràn khí màng phổi/thuyên tắc |
+| **Tranexamic acid** | Giảm cường kinh | 250-500 mg × 3 lần/ngày; Chống chỉ định tràn khí màng phổi/thuyên tắc |
 | **COC** | Giảm máu kinh | Không ảnh hưởng khối u |
 | **Progestin (LNG-IUS, implant)** | Tạo teo nội mạc, giảm máu | LNG-IUS không giảm thể tích u |
-| **GnRHa** | Giảm > 50% thể tích u | Chuẩn bị trước mổ 1–3 tháng; Hạn chế < 6 tháng, có flare-up |
+| **GnRHa** | Giảm > 50% thể tích u | Chuẩn bị trước mổ 1-3 tháng; Hạn chế < 6 tháng, có flare-up |
 | **GnRHa add-back (E/P)** | Hạn chế tác dụng phụ | Chưa chứng minh giảm khối u thêm |
 | **GnRH anta** | Giảm estrogen nhanh | Tránh flare-up; Hiệu quả tương đương GnRHa |
 | **Aromatase inhibitors** | ức chế tổng hợp estrogen | Letrozole 12 tuần; Ít tác dụng phụ hơn GnRHa |
 | **SPRMs (Ulipristal acetate)** | Giảm chảy máu, thu nhỏ u | 5 mg/ngày, 3 tháng; Gián đoạn 2 tháng ≤ 8 đợt; Theo dõi chức năng gan |
-| **Mifepristone** | Giảm thể tích u | 2.5 mg/ngày, 3–6 tháng; Không có đăng ký chính thức |
+| **Mifepristone** | Giảm thể tích u | 2.5 mg/ngày, 3-6 tháng; Không có đăng ký chính thức |
 
 ### Ngoại khoa
 
 **Bóc u xơ**:
 
-- Nội soi buồng tử cung: Submucosal L0–L2 ≤ 5 cm.
+- Nội soi buồng tử cung: Submucosal L0-L2 ≤ 5 cm.
 - Nội soi ổ bụng: Subserosal/intramural ≤ 10 cm.
 - Mổ mở: U lớn, lan tỏa, đa nhân.
 
@@ -139,5 +139,5 @@ _Bảng "Các thuốc nội khoa điều trị u xơ"._
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

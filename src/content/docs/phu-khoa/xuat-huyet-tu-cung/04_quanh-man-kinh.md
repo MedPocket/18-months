@@ -7,7 +7,7 @@ description: Sinh lý và cận lâm sàng của giai đoạn quanh mãn kinh, c
 
 ## Trục hạ đồi-yên-buồng trứng
 
-Giai đoạn quanh mãn kinh (perimenopause) thường kéo dài từ cuối 40 đến đầu 50 tuổi, là thời điểm chuyển tiếp giữa giai đoạn sinh sản và mãn kinh. Đặc trưng chính của hệ trục HPG (hạ đồi–tuyến yên–buồng trứng) lúc này là suy giảm trữ lượng nang noãn và mất dần sự ức chế tầng trên.
+Giai đoạn quanh mãn kinh (perimenopause) thường kéo dài từ cuối 40 đến đầu 50 tuổi, là thời điểm chuyển tiếp giữa giai đoạn sinh sản và mãn kinh. Đặc trưng chính của hệ trục HPG (hạ đồi-tuyến yên-buồng trứng) lúc này là suy giảm trữ lượng nang noãn và mất dần sự ức chế tầng trên.
 
 **Suy giảm dự trữ buồng trứng**:
 
@@ -49,7 +49,7 @@ Xuất huyết bất thường ở phụ nữ quanh mãn kinh không chỉ do r�
 
 ## Nguyên nhân
 
-**Nguyên nhân cơ năng do rối loạn nội tiết (đồng bộ estrogen–progesterone)**:
+**Nguyên nhân cơ năng do rối loạn nội tiết (đồng bộ estrogen-progesterone)**:
 
 - Giai đoạn trung gian: Chu kỳ chồng lấn, bong tróc nội mạc không hoàn toàn → spotting hoặc rong kinh nhẹ.
 - Giai đoạn muộn: Mất hoàn toàn progesterone trong chu kỳ không phóng noãn → bong tróc rời rạc, rong huyết.
@@ -94,7 +94,7 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
 
 - **Thai kỳ**: Luôn xét nghiệm β-hCG cho phụ nữ độ tuổi sinh sản, dù khả năng có thai quanh mãn kinh thấp (< 1%).
 - **Nguyên nhân tại tử cung**: U xơ tử cung, polyp nội mạc, viêm nội mạc tử cung, dính buồng tử cung. Dị dạng bẩm sinh hiếm gặp (hội chứng Asherman...).
-- **Nguyên nhân tại cổ tử cung–âm đạo**: Viêm cổ tử cung mạn, loạn sản hay ung thư biểu mô cổ tử cung, lạc nội mạc cổ tử cung.
+- **Nguyên nhân tại cổ tử cung-âm đạo**: Viêm cổ tử cung mạn, loạn sản hay ung thư biểu mô cổ tử cung, lạc nội mạc cổ tử cung.
 - **Nguyên nhân từ các cơ quan lận cận**: Xuất huyết đường tiết niệu (thận, bàng quang), tiêu hóa (trực tràng) chảy xuống âm đạo giả. Chấn thương vùng chậu, sa tạng, tổn thương âm hộ.
 - **Khám tổng quát**: Đánh giá tình trạng mất máu (da niêm nhợt, mệt, choáng váng), dấu hiệu tăng sản androgen (nếu nghi PCOS muộn).
 - **Khám phụ khoa**: Kiểm tra lâm sàng tử cung (kích thước, hình dạng), buồng trứng qua siêu âm (nếu cần). Khám cổ tử cung (Pap smear/nội soi cổ tử cung nếu chỉ định).
@@ -103,7 +103,7 @@ Trước khi chẩn đoán xuất huyết tử cung cơ năng, cần loại tr�
 
 #### Chẩn đoán hình ảnh
 
-**Siêu âm là chỉ định đầu tay**. **Thời điểm tối ưu** ngay sau sạch kinh để đo độ dày nội mạc mỏng nhất (thông thường < 4–5 mm). Đặc điểm cần ghi nhận:
+**Siêu âm là chỉ định đầu tay**. **Thời điểm tối ưu** ngay sau sạch kinh để đo độ dày nội mạc mỏng nhất (thông thường < 4-5 mm). Đặc điểm cần ghi nhận:
 
 - Độ dày nội mạc ≥ 5 mm ở phụ nữ quanh mãn kinh cần đánh giá thêm.
 - Hình thái nội mạc đều mỏng, lòng tử cung không có khối, không có kẽ tăng tín hiệu nhấp nhô.
@@ -165,22 +165,22 @@ Việc quyết định điều trị phụ thuộc vào:
 
 **Nạo buồng tử cung (D&C)**: Cầm máu nhanh, lấy mẫu mô để làm giải phẫu bệnh.
 
-Đồng thời bù dịch, truyền máu/các chế phẩm máu nếu cần thiết (Hb < 7–8 g/dL hoặc mất máu cấp).
+Đồng thời bù dịch, truyền máu/các chế phẩm máu nếu cần thiết (Hb < 7-8 g/dL hoặc mất máu cấp).
 
 Sau khi ổn định, xem xét kết quả sinh thiết để hướng điều trị tiếp theo.
 
 ### Nội khoa
 
-**Chỉ định**: Nếu xuất huyết vừa phải–nhẹ, đã loại trừ ác tính.
+**Chỉ định**: Nếu xuất huyết vừa phải-nhẹ, đã loại trừ ác tính.
 
 **Liệu pháp progestogen**:
 
 - Ưu tiên progestin có hoạt tính kháng estrogen mạnh, ít ức chế trục HPG (ví dụ: Medroxyprogesterone acetate, Dydrogesterone, hoặc Levonorgestrel IUD).
-- Medroxyprogesterone acetate 10–20 mg/ngày (ngày 5–25 chu kỳ), hoặc
-- Dydrogesterone 10 mg × 2/ngày trong 10–14 ngày.
+- Medroxyprogesterone acetate 10-20 mg/ngày (ngày 5-25 chu kỳ), hoặc
+- Dydrogesterone 10 mg × 2/ngày trong 10-14 ngày.
 - Levonorgestrel intrauterine device (LNG-IUD) phóng thích 20 µg/ngày có thể dùng để điều trị dài hạn, vừa cầm máu vừa ngừa tăng sinh nội mạc.
 
-**Liệu pháp phối hợp estrogen–progestogen (COC)**:
+**Liệu pháp phối hợp estrogen-progestogen (COC)**:
 
 - Dùng 21 ngày liên tục (Ethinyl estradiol 30 µg + Levonorgestrel 150 µg), sau đó nghỉ 7 ngày.
 - Ưu tiên ngắn hạn, không khuyến cáo dùng lâu dài ở quanh mãn kinh vì ức chế trục mạnh.
@@ -188,7 +188,7 @@ Sau khi ổn định, xem xét kết quả sinh thiết để hướng điều t
 **Theo dõi sau điều trị**:
 
 - Lịch kinh (menstrual calendar), cân nặng, huyết áp, xét nghiệm định kỳ (nếu dùng IUD cần khám siêu âm kiểm tra vị trí).
-- Đánh giá lại độ dày nội mạc sau 3–6 tháng, nếu vẫn > 5 mm hoặc tái xuất huyết, cần làm lại sinh thiết.
+- Đánh giá lại độ dày nội mạc sau 3-6 tháng, nếu vẫn > 5 mm hoặc tái xuất huyết, cần làm lại sinh thiết.
 
 ### Ngoại khoa
 
@@ -207,13 +207,13 @@ Phương pháp: Mổ mở, mổ nội soi hoặc mổ robotic tùy tình trạng
 
 ### Theo dõi sau điều trị
 
-- Sau điều trị, kiểm tra độ dày nội mạc 6–12 tháng/lần nếu còn dùng progestogen/chưa phẫu thuật.
+- Sau điều trị, kiểm tra độ dày nội mạc 6-12 tháng/lần nếu còn dùng progestogen/chưa phẫu thuật.
 - Ngưng hẳn liệu pháp nội tiết khi chuyển sang giai đoạn mãn kinh hoàn toàn (> 12 tháng vô kinh) và nội mạc mỏng (< 4 mm).
 - Tiếp tục tầm soát ung thư cổ tử cung theo hướng dẫn chuẩn (Pap smear/HPV test).
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- UpToDate (2024) – _Abnormal uterine bleeding in perimenopausal women (truy cập tháng 5/2025)_
-- ACOG Practice Bulletin No. 128 (2021) – _Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women_
-- WHO (2018) – _Abnormal uterine bleeding: Malta consensus on short-term medical management_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- UpToDate (2024) - _Abnormal uterine bleeding in perimenopausal women (truy cập tháng 5/2025)_
+- ACOG Practice Bulletin No. 128 (2021) - _Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women_
+- WHO (2018) - _Abnormal uterine bleeding: Malta consensus on short-term medical management_

@@ -23,15 +23,15 @@ Các cấu trúc này tự thoái lui khi yếu tố kích thích biến mất. 
 
 ## Nang noãn nang
 
-_Hình ảnh "Nang đơn trên siêu âm, 5–8 cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ"._
+_Hình ảnh "Nang đơn trên siêu âm, 5-8 cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ"._
 ![Nang noãn nang trên siêu âm](./_images/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-noan-nang-tren-sieu-am.png)
 
-Là nang noãn không trưởng thành và không phóng noãn. Nang tiếp tục tăng kích thước, sản xuất steroid bất thường. **Nguyên nhân** do phản hồi steroid bị triệt tiêu (ví dụ dậy thì, quanh mãn kinh, steroid ngoại sinh, stress). **Cấu trúc** gồm thành lót tế bào hạt xung quanh tế bào vỏ, lòng nang chứa estrogen; Đôi khi chỉ còn tế bào vỏ nếu tế bào hạt tróc rời; Nang có thể đạt 5–8 cm, tồn tại xuyên chu kỳ.
+Là nang noãn không trưởng thành và không phóng noãn. Nang tiếp tục tăng kích thước, sản xuất steroid bất thường. **Nguyên nhân** do phản hồi steroid bị triệt tiêu (ví dụ dậy thì, quanh mãn kinh, steroid ngoại sinh, stress). **Cấu trúc** gồm thành lót tế bào hạt xung quanh tế bào vỏ, lòng nang chứa estrogen; Đôi khi chỉ còn tế bào vỏ nếu tế bào hạt tróc rời; Nang có thể đạt 5-8 cm, tồn tại xuyên chu kỳ.
 
 **Triệu chứng**:
 
 - Rối loạn kinh (vắng progesterone).
-- Đau bụng nhẹ–vừa, lệch một bên, kèm rối loạn kinh.
+- Đau bụng nhẹ-vừa, lệch một bên, kèm rối loạn kinh.
 - Thăm khám thấy nang di động.
 - Nang có thể vỡ gây đau cấp, nhưng thường tự lành, chỉ cần giảm đau.
 
@@ -67,4 +67,4 @@ Hình thành khi tất cả noãn nang (kể cả nang chưa phóng noãn) bị 
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

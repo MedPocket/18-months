@@ -3,7 +3,7 @@ title: Viêm âm đạo do nấm Candida
 description: Viêm âm đạo do nấm Candida (Vulvo-Vaginal Candidiasis - VVC) là tình trạng nhiễm nấm gây viêm âm hộ - âm đạo, thường do Candida albicans.
 ---
 
-Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm hộ - âm đạo do _Candida sp_ (Vulvo-Vaginal Candidiasis – VVC) trong vòng 1 năm gần nhất. Có tới 10% bạn tình nam bị nhiễm nấm dương vật. VVC không được xem như bệnh lây truyền qua đường tình dục.
+Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm hộ - âm đạo do _Candida sp_ (Vulvo-Vaginal Candidiasis - VVC) trong vòng 1 năm gần nhất. Có tới 10% bạn tình nam bị nhiễm nấm dương vật. VVC không được xem như bệnh lây truyền qua đường tình dục.
 
 ## Nguyên nhân
 
@@ -24,7 +24,7 @@ _Hình ảnh "3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (m
 ### Lâm sàng
 
 - **Khí hư**: Đặc trưng giống **"phô mai sữa"** (cottage cheese), không mùi, đặc, dính.
-- **pH âm đạo**: Thường duy trì từ 4.0–5.0.
+- **pH âm đạo**: Thường duy trì từ 4.0-5.0.
 - **Triệu chứng**: Ngứa âm đạo, âm hộ. Đôi khi nóng rát, đau khi giao hợp, tiểu buốt. Âm hộ và niêm mạc âm đạo viêm đỏ, lột da nhẹ.
 
 _Hình ảnh "Âm hộ viêm đỏ rực, với các mảng trắng dầy. Bệnh nhân thường than phiền ngứa, rát, đau khi giao hợp và tiểu rát"._
@@ -72,13 +72,13 @@ Phân loại theo CDC 2010 chia thành 2 nhóm VVC không biến chứng và VVC
 **Thuốc nhóm Azole (Imidazoles)**:
 
 - **Miconazole, Clotrimazole, Butoconazole, Tioconazole, Terconazole** (dạng kem hoặc viên đặt). Ví dụ: Clotrimazole 200 mg đặt âm đạo mỗi ngày × 3 ngày, hoặc Miconazole 100 mg đặt mỗi ngày × 7 ngày.
-- **Fluconazole uống** 150 mg liều đơn. Tác dụng nhanh, hiệu quả 90%. Fluconazole liều thấp (150 mg) an toàn trong thai kỳ. Liều cao hàng ngày (400–800 mg) có liên quan đến nguy cơ khuyết tật thai nhi.
+- **Fluconazole uống** 150 mg liều đơn. Tác dụng nhanh, hiệu quả 90%. Fluconazole liều thấp (150 mg) an toàn trong thai kỳ. Liều cao hàng ngày (400-800 mg) có liên quan đến nguy cơ khuyết tật thai nhi.
 - **Nystatin (dạng viên đặt âm đạo)** là lựa chọn an toàn khi mang thai.
 
-Tái phát sau 1 tháng chiếm 20–30% trường hợp.
+Tái phát sau 1 tháng chiếm 20-30% trường hợp.
 
 - Nếu tái phát, có thể **Fluconazole uống 150 mg mỗi tuần × 6 tháng** (giảm tái phát 50%).
-- Ngoài ra, liệu pháp đặt âm đạo 1–2 lần/tuần cũng được dùng để dự phòng.
+- Ngoài ra, liệu pháp đặt âm đạo 1-2 lần/tuần cũng được dùng để dự phòng.
 
 **Bạn tình**:
 
@@ -104,10 +104,10 @@ _Bảng "Thuốc kháng nấm tại chỗ (First line therapy) điều trị VVC
 | Loại thuốc | Biệt dược | Dạng thuốc | Liều dùng |
 | -------------------------------- | ------------------------------------------ | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Butoconazole** | Gynazole-1, Mycclex-3 | 2% cream âm đạo | Gynazole-1: 1 lần/ngày × 1 ngày<br>Mycclex-3: 1 lần/ngày × 3 ngày |
-| **Clotrimazole** | Gyne-Lotrimin 7, Mecclex-7 | 1%–2% cream âm đạo hoặc viên | Gyne-Lotrimin 7 (1% cream) × 1/ngày × 7 ngày<br>Mecclex-7 (2% cream) × 1/ngày × 3 ngày<br>Gyne-Lotrimin 3 (200 mg viên) × 1/ngày × 3 ngày |
+| **Clotrimazole** | Gyne-Lotrimin 7, Mecclex-7 | 1%-2% cream âm đạo hoặc viên | Gyne-Lotrimin 7 (1% cream) × 1/ngày × 7 ngày<br>Mecclex-7 (2% cream) × 1/ngày × 3 ngày<br>Gyne-Lotrimin 3 (200 mg viên) × 1/ngày × 3 ngày |
 | **Clotrimazole + Betamethasone** | Lotrisone | 1% Clotrimazole + 0.05% Betamethasone cream | Bôi vùng âm hộ 2 lần/ngày × tối đa 2 tuần |
-| **Miconazole** | Monistat-3, Monistat-7, Monistat Dual Pack | 2%–4% cream âm đạo hoặc viên đặt | Monistat-3 (4% cream) × 1/ngày × 7 ngày<br>Monistat-7 (2% cream) × 1/ngày × 3 hoặc 7 ngày<br>Monistat Dual Pack (1200 mg viên + 2% cream) × 1/ngày × 1 ngày |
-| **Terconazole** (kê toa) | Terazol 3, Terazol 7 | 80 mg viên đặt hoặc 0.4–0.8% cream | Terazol 3 (80 mg viên) × 1/ngày × 3 ngày<br>Terazol 7 (0.4% cream) × 1/ngày × 7 ngày hoặc 0.8% cream × 1/ngày × 3 ngày |
+| **Miconazole** | Monistat-3, Monistat-7, Monistat Dual Pack | 2%-4% cream âm đạo hoặc viên đặt | Monistat-3 (4% cream) × 1/ngày × 7 ngày<br>Monistat-7 (2% cream) × 1/ngày × 3 hoặc 7 ngày<br>Monistat Dual Pack (1200 mg viên + 2% cream) × 1/ngày × 1 ngày |
+| **Terconazole** (kê toa) | Terazol 3, Terazol 7 | 80 mg viên đặt hoặc 0.4-0.8% cream | Terazol 3 (80 mg viên) × 1/ngày × 3 ngày<br>Terazol 7 (0.4% cream) × 1/ngày × 7 ngày hoặc 0.8% cream × 1/ngày × 3 ngày |
 | **Tioconazole** | Vagistat-1, Monistat-1 | 6.5% gel/dầu âm đạo | 1 lần đặt âm đạo × 1 ngày |
 | **Econazole nitrate** | Spectrazole | 1% cream âm đạo | Bôi vùng âm hộ 2 lần/ngày × 7 ngày |
 | **Nystatin** | Pyolette Nystatin, Mycostatin | Viên đặt âm đạo hoặc bột bôi | Pyolette: 100,000 ĐV/viên × 1/ngày × 14 ngày (ưu tiên 3 tháng đầu thai kỳ)<br>Mycostatin bột: 100,000 ĐV/g, bôi âm hộ 2 lần/ngày × 14 ngày |
@@ -150,8 +150,8 @@ _Bảng "Thuốc kháng nấm tại chỗ (First line therapy) điều trị VVC
 
 ## Tài liệu tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) – _Team-based learning: Viêm âm đạo do nấm_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
-- Ghebre, M., & Wang, X. (2018) – _Diagnosis and Treatment of Vulvovaginal Candidiasis_
-- Centers for Disease Control and Prevention (CDC) (2010) – _Sexually Transmitted Diseases Treatment Guidelines_
+- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning: Viêm âm đạo do nấm_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- Ghebre, M., & Wang, X. (2018) - _Diagnosis and Treatment of Vulvovaginal Candidiasis_
+- Centers for Disease Control and Prevention (CDC) (2010) - _Sexually Transmitted Diseases Treatment Guidelines_
 - Sobel, J. D. (2016). _Vulvovaginal candidosis_

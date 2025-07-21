@@ -10,7 +10,7 @@ description: Định nghĩa, bệnh sinh, nguyên nhân, đánh giá chẩn đo�
 
 ## Bệnh sinh
 
-Khi một phần của trục hạ đồi – yên – buồng trứng gặp trục trặc, sự rối loạn chức năng rụng trứng sẽ dẫn đến:
+Khi một phần của trục hạ đồi - yên - buồng trứng gặp trục trặc, sự rối loạn chức năng rụng trứng sẽ dẫn đến:
 
 - Chu kỳ sản sinh estrogen do gonadotropin kích thích bị gián đoạn.
 - Nội mạc tử cung không phát triển theo chu kỳ.
@@ -27,12 +27,12 @@ Vô kinh có thể phân loại theo:
 
 ### Rối loạn chức năng rụng trứng
 
-**Thường gặp nhất ở vô kinh thứ phát**, có thể là nguyên phát nếu rụng trứng chưa từng khởi phát (dậy thì muộn, bất thường giới tính, hội chứng nhiễm sắc thể Y...). Nguyên nhân chính liên quan đến trục hạ đồi – yên – buồng trứng.
+**Thường gặp nhất ở vô kinh thứ phát**, có thể là nguyên phát nếu rụng trứng chưa từng khởi phát (dậy thì muộn, bất thường giới tính, hội chứng nhiễm sắc thể Y...). Nguyên nhân chính liên quan đến trục hạ đồi - yên - buồng trứng.
 
 _Bảng "Nguyên nhân vô kinh do rối loạn chức năng rụng trứng"._
 | Nhóm nguyên nhân | Ví dụ điển hình |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| **Rối loạn vùng dưới đồi** | - Giảm sản sinh GnRH: Do thiếu hụt năng lượng (ăn kiêng quá mức, tập luyện nặng), stress, bệnh mạn tính.<br>- Rối loạn di truyền: Thiếu hụt GnRH bẩm sinh, hội chứng Prader–Willi.<br>- Xâm lấn hoặc tổn thương (u, nhiễm lao, lymphoma, chấn thương sọ não, xạ trị). |
+| **Rối loạn vùng dưới đồi** | - Giảm sản sinh GnRH: Do thiếu hụt năng lượng (ăn kiêng quá mức, tập luyện nặng), stress, bệnh mạn tính.<br>- Rối loạn di truyền: Thiếu hụt GnRH bẩm sinh, hội chứng Prader-Willi.<br>- Xâm lấn hoặc tổn thương (u, nhiễm lao, lymphoma, chấn thương sọ não, xạ trị). |
 | **Rối loạn tuyến yên** | - U tuyến yên hoặc mô ngoại lai (adenoma, meningioma, tăng prolactin...).<br>- Hoại tử sau sinh (Sheehan), chấn thương, sarcoidosis, lao.<br>- Thiếu hụt gonadotropin đơn độc, hội chứng Kallmann. |
 | **Suy buồng trứng nguyên phát** | - Tự miễn (viêm buồng trứng tự miễn).<br>- Di truyền (Hội chứng Turner, bất sản nang noãn).<br>- Hóa trị, xạ trị vùng chậu.<br>- U buồng trứng (theca, Brenner, u quái...). |
 | **Rối loạn nội tiết khác** | - Hội chứng buồng trứng đa nang (PCOS).<br>- Cushing, suy giáp, cường giáp.<br>- Thiếu nhạy cảm androgen/estrogen.<br>- Nam hóa (androgen, progestin liều cao, steroid đồng hóa).<br>- Béo phì, khối u sản sinh androgen/estrogen. |
@@ -107,8 +107,8 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"._
 
 #### Thử nghiệm nội tiết động
 
-- **Thử thách progestin** (medroxyprogesterone 5–10 mg × 7–10 ngày).
-- **Thử thách estrogen/progestin** (estrogen 21 ngày + progestin 7–10 ngày).
+- **Thử thách progestin** (medroxyprogesterone 5-10 mg × 7-10 ngày).
+- **Thử thách estrogen/progestin** (estrogen 21 ngày + progestin 7-10 ngày).
 - **Thử nghiệm clomiphene hoặc gonadotropin stimulation**.
 
 ## Điều trị
@@ -122,5 +122,5 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"._
 
 ## Tài liệu tham khảo
 
-- Dieutri – [_Bài giảng vô kinh không hành kinh_](https://www.dieutri.vn/bgsanphukhoa/bai-giang-vo-kinh-khong-hanh-kinh)
-- MSD Manua – [_Amenorrhea_](https://www.msdmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea)
+- Dieutri - [_Bài giảng vô kinh không hành kinh_](https://www.dieutri.vn/bgsanphukhoa/bai-giang-vo-kinh-khong-hanh-kinh)
+- MSD Manua - [_Amenorrhea_](https://www.msdmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea)

@@ -39,4 +39,4 @@ Thiếu hormone tuyến giáp trong thai kỳ và giai đoạn sơ sinh sớm g�
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

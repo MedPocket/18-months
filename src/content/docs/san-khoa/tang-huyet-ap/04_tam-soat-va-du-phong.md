@@ -20,19 +20,19 @@ _Bảng "Đánh giá lâm sàng nguy cơ tiền sản giật"._
 
 **Aspirin liều thấp** (WHO khuyến cáo):
 
-- 81–162 mg/ngày (1–2 viên 81 mg), uống buổi tối sau ăn 15–30 phút.
+- 81-162 mg/ngày (1-2 viên 81 mg), uống buổi tối sau ăn 15-30 phút.
 - Khởi trị khi nguy cơ FMF > 1/100.
 - Tiếp tục đến tuần 36.
 
 **Theo ACOG**:
 
-- Khởi aspirin từ tuần 12–16, tối đa không muộn hơn 28 tuần.
+- Khởi aspirin từ tuần 12-16, tối đa không muộn hơn 28 tuần.
 - Dừng vào tuần 36.
 
-_Lưu đồ tầm soát tiền sản giật 3 tháng đầu – Bệnh viện Từ Dũ._
-![Lưu đồ tầm soát tiền sản giật 3 tháng đầu – Bệnh viện Từ Dũ](./_images/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
+_Lưu đồ tầm soát tiền sản giật 3 tháng đầu - Bệnh viện Từ Dũ._
+![Lưu đồ tầm soát tiền sản giật 3 tháng đầu - Bệnh viện Từ Dũ](./_images/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

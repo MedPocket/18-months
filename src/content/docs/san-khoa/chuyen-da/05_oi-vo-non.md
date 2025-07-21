@@ -123,14 +123,14 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
 **MgSO₄** bảo vệ não sơ sinh:
 
-- **Chỉ định**: Thai 24–< 32 tuần có nguy cơ sinh non trong 24 giờ. Dùng thường quy từ 28–< 32 tuần, cân nhắc từ 24–< 28 tuần.
+- **Chỉ định**: Thai 24-< 32 tuần có nguy cơ sinh non trong 24 giờ. Dùng thường quy từ 28-< 32 tuần, cân nhắc từ 24-< 28 tuần.
 - **Chống chỉ định**: Nhược cơ.
-- **Liều dùng**: 4.5g tĩnh mạch chậm trong 20–30 phút. Nên truyền trước sinh 4 giờ.
+- **Liều dùng**: 4.5g tĩnh mạch chậm trong 20-30 phút. Nên truyền trước sinh 4 giờ.
 - **Thận trọng**: Tiền sử thiếu máu cơ tim, rối loạn dẫn truyền.
 
 **Trong chuyển dạ**:
 
-- Đánh giá tiến triển mỗi 4 giờ (giai đoạn tiềm tàng), mỗi 1–2 giờ (giai đoạn hoạt động).
+- Đánh giá tiến triển mỗi 4 giờ (giai đoạn tiềm tàng), mỗi 1-2 giờ (giai đoạn hoạt động).
 - Theo dõi nhiễm trùng ối.
 - Nếu ối vỡ > 12 giờ, dùng kháng sinh dự phòng GBS, ngưng nếu sau sinh không có dấu hiệu nhiễm trùng.
 
@@ -154,5 +154,5 @@ Cân nhắc sinh thường nếu điều kiện cổ tử cung thuận lợi. M�
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

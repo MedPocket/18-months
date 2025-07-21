@@ -35,8 +35,8 @@ _Bảng "Phân loại rau cài răng lược theo FIGO 2019"._
 
 **Siêu âm** là xét nghiệm đầu tay:
 
-- Tam cá nguyệt I (6–14 tuần): Túi thai làm tổ thấp, gần sẹo mổ cũ; Thành trước đoạn dưới mỏng < 3 mm.
-- Tam cá nguyệt II–III (TVS & TAS): Lacunae ("moth-eaten") xoang mạch đa hình trong bánh rau; Đường echo ranh giới rau-cơ mỏng hoặc mất liên tục; "Placental bulge" lồi rau qua thành tử cung; Cầu mạch máu và Doppler tăng sinh mạch rõ; Xâm lấn bàng quang mất đường echo thanh mạc và bàng quang.
+- Tam cá nguyệt I (6-14 tuần): Túi thai làm tổ thấp, gần sẹo mổ cũ; Thành trước đoạn dưới mỏng < 3 mm.
+- Tam cá nguyệt II-III (TVS & TAS): Lacunae ("moth-eaten") xoang mạch đa hình trong bánh rau; Đường echo ranh giới rau-cơ mỏng hoặc mất liên tục; "Placental bulge" lồi rau qua thành tử cung; Cầu mạch máu và Doppler tăng sinh mạch rõ; Xâm lấn bàng quang mất đường echo thanh mạc và bàng quang.
 
 **MRI**: Khi siêu âm không rõ hoặc cần đánh giá xâm lấn mặt sau, mức độ percreta.
 
@@ -44,7 +44,7 @@ _Bảng "Phân loại rau cài răng lược theo FIGO 2019"._
 
 ### Chấm dứt thai kỳ
 
-- Thường 34–36 tuần, sau corticosteroids tiền sinh.
+- Thường 34-36 tuần, sau corticosteroids tiền sinh.
 
 ### Chuẩn bị mổ
 
@@ -61,5 +61,5 @@ _Bảng "Phân loại rau cài răng lược theo FIGO 2019"._
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

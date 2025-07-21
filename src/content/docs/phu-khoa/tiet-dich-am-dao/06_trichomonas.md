@@ -11,13 +11,13 @@ _Trichomonas vaginalis_ là ký sinh trùng hình chiếc lá, có 4 roi ở vù
 
 **Dịch tễ học**:
 
-- Tỷ lệ nhiễm ở phụ nữ tuổi sinh sản dao động 5–15%, có thể cao hơn ở nhóm nguy cơ (quan hệ tình dục sớm, nhiều bạn tình).
+- Tỷ lệ nhiễm ở phụ nữ tuổi sinh sản dao động 5-15%, có thể cao hơn ở nhóm nguy cơ (quan hệ tình dục sớm, nhiều bạn tình).
 - Ở nam giới, đa số không có triệu chứng, nhưng có thể là nguồn lây tiềm ẩn (niệu đạo nhiễm).
 - Phụ nữ mang thai nhiễm _Trichomonas_ có thể tăng nguy cơ sinh non, vỡ ối non, viêm màng ối.
 
 **Đường lây**:
 
-- Chủ yếu qua quan hệ tình dục không an toàn (âm đạo – âm đạo, âm đạo – dương vật).
+- Chủ yếu qua quan hệ tình dục không an toàn (âm đạo - âm đạo, âm đạo - dương vật).
 - Ít gặp lây gián tiếp qua đồ dùng cá nhân (đồ lót, khăn, bồn tắm chung), vì _T. vaginalis_ kém bền ngoài môi trường.
 
 **Bệnh sinh**:
@@ -39,15 +39,15 @@ _Trichomonas vaginalis_ là ký sinh trùng hình chiếc lá, có 4 roi ở vù
 ### Lâm sàng
 
 - **Huyết trắng**: Lượng nhiều, màu vàng hoặc xanh (lục), loãng, có bọt (bọt khí do sự di động của trùng roi), mùi tanh.
-- **Triệu chứng kèm**: Có thể ngứa âm hộ – âm đạo. Tiểu rát, tiểu buốt (nếu niệu đạo có liên quan). Trường hợp nặng có thể có "dấu hiệu trái dâu tây" (strawberry cervix): âm đạo và cổ tử cung có những điểm xuất huyết nhỏ, lấm tấm do mao mạch vỡ.
+- **Triệu chứng kèm**: Có thể ngứa âm hộ - âm đạo. Tiểu rát, tiểu buốt (nếu niệu đạo có liên quan). Trường hợp nặng có thể có "dấu hiệu trái dâu tây" (strawberry cervix): âm đạo và cổ tử cung có những điểm xuất huyết nhỏ, lấm tấm do mao mạch vỡ.
 
 ### Cận lâm sàng
 
 **Soi tươi**:
 
-- Lấy dịch âm đạo (hoặc niệu đạo nam giới) pha loãng với NaCl 0.9%, soi tươi ngay dưới kính hiển vi ×400–×1000.
-- Thấy trùng roi _T. vaginalis_ di động, kích thước 10–20 µm, chuyển động lắc lư, kèm tăng bạch cầu trung tính (≥ 10 bạch cầu/khung trung bình).
-- Độ nhạy 60–70%, phụ thuộc chất lượng mẫu và kinh nghiệm người soi.
+- Lấy dịch âm đạo (hoặc niệu đạo nam giới) pha loãng với NaCl 0.9%, soi tươi ngay dưới kính hiển vi ×400-×1000.
+- Thấy trùng roi _T. vaginalis_ di động, kích thước 10-20 µm, chuyển động lắc lư, kèm tăng bạch cầu trung tính (≥ 10 bạch cầu/khung trung bình).
+- Độ nhạy 60-70%, phụ thuộc chất lượng mẫu và kinh nghiệm người soi.
 
 **Nhuộm Gram**:
 
@@ -57,12 +57,12 @@ _Trichomonas vaginalis_ là ký sinh trùng hình chiếc lá, có 4 roi ở vù
 **Cấy tế bào (culture)**:
 
 - Môi trường đặc biệt (InPouch TV, Diamond’s medium).
-- Độ nhạy cao (≥ 75–95%), phát hiện được cả khi soi tươi âm tính. Thời gian có kết quả 2–5 ngày.
+- Độ nhạy cao (≥ 75-95%), phát hiện được cả khi soi tươi âm tính. Thời gian có kết quả 2-5 ngày.
 
 **Xét nghiệm kháng nguyên nhanh (Rapid antigen test)**:
 
 - Sử dụng kháng thể monoclonal phát hiện kháng nguyên _T. vaginalis_ trong dịch âm đạo.
-- Độ nhạy 80%, độ đặc hiệu 98%. Cho kết quả trong vòng 10–30 phút.
+- Độ nhạy 80%, độ đặc hiệu 98%. Cho kết quả trong vòng 10-30 phút.
 
 **Phản ứng khuếch đại acid nucleic (NAAT, PCR)**:
 
@@ -124,7 +124,7 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 
 ### Theo dõi sau điều trị
 
-- Hẹn tái khám sau 2–4 tuần để kiểm tra lâm sàng và cận lâm sàng (nếu cần).
+- Hẹn tái khám sau 2-4 tuần để kiểm tra lâm sàng và cận lâm sàng (nếu cần).
 - Hướng dẫn vệ sinh vùng kín đúng cách: Tránh thụt rửa âm đạo, dùng xà phòng pH trung tính, mặc đồ lót thoáng, thấm hút tốt.
 - Khuyến khích dùng bao cao su khi quan hệ để giảm nguy cơ tái nhiễm và lây truyền các STI khác.
 - Thông báo và điều trị bạn tình, khuyến nghị tất cả bạn tình trong vòng 60 ngày trước để xét nghiệm và điều trị.
@@ -140,7 +140,7 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
-- Centers for Disease Control and Prevention (CDC) (2015) – _Sexually Transmitted Diseases Treatment Guidelines: Trichomoniasis_
-- World Health Organization (WHO) (2020) – _Global Health Sector Strategy on Sexually Transmitted Infections, 2016–2021_
-- Schwebke, J. R., Burgess, D. (2004) – _Trichomoniasis: Reevaluation of clinical and public health significance_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- Centers for Disease Control and Prevention (CDC) (2015) - _Sexually Transmitted Diseases Treatment Guidelines: Trichomoniasis_
+- World Health Organization (WHO) (2020) - _Global Health Sector Strategy on Sexually Transmitted Infections, 2016-2021_
+- Schwebke, J. R., Burgess, D. (2004) - _Trichomoniasis: Reevaluation of clinical and public health significance_

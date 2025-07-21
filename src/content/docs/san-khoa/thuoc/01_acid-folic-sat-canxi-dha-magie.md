@@ -11,7 +11,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 ## Acid Folic (Folate)
 
-Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydrofolate – dạng hoạt động sinh học) có vai trò thiết yếu trong quá trình tạo mới tế bào và tổng hợp DNA.
+Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydrofolate - dạng hoạt động sinh học) có vai trò thiết yếu trong quá trình tạo mới tế bào và tổng hợp DNA.
 
 **Vai trò**:
 
@@ -49,7 +49,7 @@ DHA là axit béo omega-3 chuỗi dài, rất cần thiết cho sự phát tri�
 
 - Cá béo: Cá hồi, cá thu, cá mòi (ưu tiên cá đánh bắt tự nhiên, tránh cá chứa thủy ngân).
 - Trứng bổ sung DHA, tảo biển.
-- Hạt chia, óc chó (chứa ALA – tiền chất chuyển hóa thành DHA).
+- Hạt chia, óc chó (chứa ALA - tiền chất chuyển hóa thành DHA).
 - Dầu cá tinh khiết dạng viên nang.
 
 ## Sắt
@@ -58,7 +58,7 @@ Sắt là khoáng chất thiết yếu tạo hemoglobin, giúp vận chuyển O�
 
 **Vai trò**:
 
-- Ngăn ngừa thiếu máu do thiếu sắt – tình trạng phổ biến trong thai kỳ.
+- Ngăn ngừa thiếu máu do thiếu sắt - tình trạng phổ biến trong thai kỳ.
 - Đảm bảo cung cấp O₂ đầy đủ cho thai nhi và cơ thể mẹ.
 - Giảm nguy cơ sinh non, thai nhẹ cân.
 - Hỗ trợ phát triển hệ miễn dịch và thần kinh của thai nhi.
@@ -123,13 +123,13 @@ Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong c�
 _Bảng "Nhu cầu acid folic, DHA, sắt, canxi, magie theo tuổi thai"._
 | Giai đoạn | Acid folic | DHA | Sắt | Canxi | Magie |
 | ---------------------------------- | --------------- | --------------- | -------------------------- | ---------------------- | ------------------------------- |
-| **Tam cá nguyệt I (0–13 tuần)** | 400–800 µg/ngày | 200–300 mg/ngày | 30 mg/ngày (nếu thiếu máu) | Qua thực phẩm là chính | Tùy triệu chứng, không bắt buộc |
-| **Tam cá nguyệt II (14–27 tuần)** | 400–800 µg/ngày | 200–300 mg/ngày | 30–60 mg/ngày | 1000 mg/ngày | Tùy triệu chứng |
-| **Tam cá nguyệt III (28–40 tuần)** | 400–800 µg/ngày | 200–300 mg/ngày | 30–60 mg/ngày | 1000–1200 mg/ngày | 200 mg/ngày nếu có triệu chứng |
+| **Tam cá nguyệt I (0-13 tuần)** | 400-800 µg/ngày | 200-300 mg/ngày | 30 mg/ngày (nếu thiếu máu) | Qua thực phẩm là chính | Tùy triệu chứng, không bắt buộc |
+| **Tam cá nguyệt II (14-27 tuần)** | 400-800 µg/ngày | 200-300 mg/ngày | 30-60 mg/ngày | 1000 mg/ngày | Tùy triệu chứng |
+| **Tam cá nguyệt III (28-40 tuần)** | 400-800 µg/ngày | 200-300 mg/ngày | 30-60 mg/ngày | 1000-1200 mg/ngày | 200 mg/ngày nếu có triệu chứng |
 
 :::caution
 
-- Bắt đầu bổ sung acid folic ít nhất 1 tháng trước khi mang thai; Nếu có tiền sử dị tật ống thần kinh, có thể cần 4–5 mg/ngày theo chỉ định bác sĩ.
+- Bắt đầu bổ sung acid folic ít nhất 1 tháng trước khi mang thai; Nếu có tiền sử dị tật ống thần kinh, có thể cần 4-5 mg/ngày theo chỉ định bác sĩ.
 - Magie chỉ cần bổ sung nếu có triệu chứng như chuột rút, mất ngủ, lo âu.
 
 :::
@@ -149,14 +149,14 @@ _Bảng "Hướng dẫn bổ sung acid folic, DHA, sắt, canxi, magie hằng ng
 - DHA nên chọn loại tinh khiết, không mùi tanh; Uống sau ăn để hấp thu tốt hơn.
 - Magie nên uống sau bữa ăn nhẹ để giảm nguy cơ tiêu chảy.
 - Tránh uống canxi với cà phê, trà, nước ngọt có ga vì làm giảm hấp thu.
-- Uống đủ nước mỗi ngày (1.5–2 L) để hỗ trợ tiêu hóa và phòng táo bón.
+- Uống đủ nước mỗi ngày (1.5-2 L) để hỗ trợ tiêu hóa và phòng táo bón.
 
 :::
 
 ## Tài liệu tham khảo
 
-- WHO – [_Iron and folic acid supplementation_](https://www.who.int/nutrition/publications/micronutrients/guidelines/iron_folic_acid_supplementation/en/)
-- CDC – [_Nutrition During Pregnancy_](https://www.cdc.gov/nutrition/pregnancy-and-breastfeeding.html)
-- NCBI – [_Nutrition During Pregnancy_](https://www.ncbi.nlm.nih.gov/books/NBK217107/)
-- ACOG – [_Nutrition During Pregnancy_](https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy)
-- UNICEF – [_Maternal Nutrition_](https://www.unicef.org/documents/maternal-nutrition)
+- WHO - [_Iron and folic acid supplementation_](https://www.who.int/nutrition/publications/micronutrients/guidelines/iron_folic_acid_supplementation/en/)
+- CDC - [_Nutrition During Pregnancy_](https://www.cdc.gov/nutrition/pregnancy-and-breastfeeding.html)
+- NCBI - [_Nutrition During Pregnancy_](https://www.ncbi.nlm.nih.gov/books/NBK217107/)
+- ACOG - [_Nutrition During Pregnancy_](https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy)
+- UNICEF - [_Maternal Nutrition_](https://www.unicef.org/documents/maternal-nutrition)

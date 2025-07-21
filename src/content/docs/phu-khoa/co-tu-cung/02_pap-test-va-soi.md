@@ -115,7 +115,7 @@ Soi cổ tử cung là kỹ thuật quan sát cổ tử cung qua kính lúp (má
 
 ### Điều kiện thực hiện
 
-Thực hiện sau khi có kết quả Pap’s test, vào ngày N8–N12 của chu kỳ kinh, tốt nhất sau sạch kinh 3 ngày.
+Thực hiện sau khi có kết quả Pap’s test, vào ngày N8-N12 của chu kỳ kinh, tốt nhất sau sạch kinh 3 ngày.
 
 Dụng cụ:
 
@@ -145,7 +145,7 @@ Tiến trình soi gồm ba bước:
 
 - Bôi Lugol 1%.
 - Lugol (+): Toàn bộ biểu mô lát bắt màu vàng sậm.
-- Lugol (–): Biểu mô lát hoặc vùng chuyển sản không bắt màu.
+- Lugol (-): Biểu mô lát hoặc vùng chuyển sản không bắt màu.
 
 **Đọc kết quả**:
 
@@ -197,4 +197,4 @@ _Hình ảnh "Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản 
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

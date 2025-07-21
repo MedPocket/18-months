@@ -13,14 +13,14 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 
 **Giang mai sớm (≤ 2 năm kể từ khi nhiễm)**:
 
-- **Giang mai thời kỳ I (Primary syphilis)**: Xuất hiện săng đơn độc tại vị trí xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn hoặc vị trí ngoài sinh dục hiếm gặp). Săng thường có rìa nâng cao, không đau hoặc ít đau, xuất hiện sau 9–90 ngày (trung bình 21 ngày), tự lui trong 3–10 tuần dù không điều trị.
-- **Giang mai thời kỳ II (Secondary syphilis)**: Xuất hiện 4–8 tuần sau săng, biểu hiện tổn thương da, niêm mạc lan tỏa, kèm hạch ngoại biên và triệu chứng nhiễm khuẩn hệ thống.
+- **Giang mai thời kỳ I (Primary syphilis)**: Xuất hiện săng đơn độc tại vị trí xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn hoặc vị trí ngoài sinh dục hiếm gặp). Săng thường có rìa nâng cao, không đau hoặc ít đau, xuất hiện sau 9-90 ngày (trung bình 21 ngày), tự lui trong 3-10 tuần dù không điều trị.
+- **Giang mai thời kỳ II (Secondary syphilis)**: Xuất hiện 4-8 tuần sau săng, biểu hiện tổn thương da, niêm mạc lan tỏa, kèm hạch ngoại biên và triệu chứng nhiễm khuẩn hệ thống.
 - **Giang mai kín sớm (Early latent syphilis)**: Không có triệu chứng lâm sàng, giai đoạn tiềm ẩn ≤ 2 năm kể từ khi nhiễm; Chỉ phát hiện qua xét nghiệm huyết thanh.
 
 **Giang mai muộn (> 2 năm kể từ khi nhiễm hoặc không xác định được thời gian)**:
 
 - **Giang mai kín muộn (Late latent syphilis)**: Tiềm ẩn > 2 năm, không triệu chứng và chỉ phát hiện qua xét nghiệm huyết thanh.
-- **Giang mai thời kỳ III (Tertiary syphilis)**: Xuất hiện sau nhiều năm (có thể 10–30 năm), gây tổn thương ăn sâu vào da, niêm mạc, xương – khớp, tim mạch (với biến chứng viêm động mạch chủ, phình động mạch chủ, hở van động mạch chủ) và thần kinh (giang mai thần kinh muộn), kèm gôm giang mai.
+- **Giang mai thời kỳ III (Tertiary syphilis)**: Xuất hiện sau nhiều năm (có thể 10-30 năm), gây tổn thương ăn sâu vào da, niêm mạc, xương - khớp, tim mạch (với biến chứng viêm động mạch chủ, phình động mạch chủ, hở van động mạch chủ) và thần kinh (giang mai thần kinh muộn), kèm gôm giang mai.
 
 #### Giang mai thời kỳ I (Primary syphilis)
 
@@ -28,12 +28,12 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 
 - Xuất hiện tại nơi xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn; Có thể ở miệng khi quan hệ đường miệng).
 - Hình thức: Vết loét đơn hoặc ít, rìa gồ, nền cứng, không đau hoặc ít đau.
-- Xuất hiện sau 9–90 ngày (trung bình 21 ngày).
-- Tự lui sau 3–10 tuần mà không cần điều trị; Nhiều người không để ý hoặc nhầm với vết loét lành tính.
+- Xuất hiện sau 9-90 ngày (trung bình 21 ngày).
+- Tự lui sau 3-10 tuần mà không cần điều trị; Nhiều người không để ý hoặc nhầm với vết loét lành tính.
 
 **Hạch ngoại biên**: Hạch bẹn (với săng sinh dục) sưng một hoặc hai bên, mềm, không đau.
 
-Nếu không điều trị, sau 4–8 tuần săng lui, chuyển sang giai đoạn II hoặc tiềm ẩn sớm.
+Nếu không điều trị, sau 4-8 tuần săng lui, chuyển sang giai đoạn II hoặc tiềm ẩn sớm.
 
 #### Giang mai thời kỳ II (Secondary syphilis)
 
@@ -90,7 +90,7 @@ Khoảng 25% bệnh nhân trong giai đoạn kín tiến triển thành giang ma
 **Biểu hiện giang mai bẩm sinh sớm (< 2 tuổi)**:
 
 - Thai lưu, sinh non, nhẹ cân.
-- Trẻ sơ sinh: Viêm kết mạc (chảy mủ mắt, sưng mí), viêm mũi ("snuffles" – hắt hơi, chảy máu mũi), gan lách to, viêm xương sụn (viêm xương Tính chất xơ → đau, sưng), viêm màng não, viêm màng tim, viêm da chảy dịch. Hạch ngoại vi sưng to.
+- Trẻ sơ sinh: Viêm kết mạc (chảy mủ mắt, sưng mí), viêm mũi ("snuffles" - hắt hơi, chảy máu mũi), gan lách to, viêm xương sụn (viêm xương Tính chất xơ → đau, sưng), viêm màng não, viêm màng tim, viêm da chảy dịch. Hạch ngoại vi sưng to.
 
 **Biểu hiện giang mai bẩm sinh muộn (> 2 tuổi)**:
 
@@ -150,7 +150,7 @@ Quy trình chẩn đoán thường là:
 - **Xét nghiệm nhanh đặc hiệu**: Phát hiện kháng thể kháng _T. pallidum_.
 - **Xét nghiệm nhanh không đặc hiệu**: Phát hiện kháng thể kháng cardiolipin (tương tự RPR/VDRL).
 - **Xét nghiệm phối hợp đặc hiệu & không đặc hiệu**: Cho phép sàng lọc và khẳng định trong 1 xét nghiệm; Chưa được WHO chuẩn hóa rộng rãi.
-- Các xét nghiệm nhanh có: Độ nhạy: 85–98% (so với TPHA/TPPA). Độ đặc hiệu: 93–98%.
+- Các xét nghiệm nhanh có: Độ nhạy: 85-98% (so với TPHA/TPPA). Độ đặc hiệu: 93-98%.
 - Ưu tiên sử dụng ở cộng đồng, sàng lọc người có nguy cơ cao (phụ nữ mại dâm, nam quan hệ đồng giới, người chuyển giới) và phụ nữ mang thai.
 
 ### Chẩn đoán xác định
@@ -176,7 +176,7 @@ Quy trình chẩn đoán thường là:
 - Trẻ có triệu chứng giang mai bẩm sinh hoặc xét nghiệm huyết thanh trẻ có hiệu giá RPR ≥ 4 lần hiệu giá của mẹ.
 - Soi kính hiển vi nền đen hoặc DFA (+) trên dịch từ da, mũi hoặc mô nhau.
 
-**Theo dõi lâu dài**: Trẻ không triệu chứng nhưng mẹ RPR/VDRL (+) cần xét nghiệm lại hàng tháng trong 3–4 tháng đầu; Kháng thể thụ động từ mẹ có thể tồn tại tới 18 tháng. Nếu kháng thể trẻ tăng gấp ≥ 4 lần của mẹ, chẩn đoán chắc giang mai bẩm sinh.
+**Theo dõi lâu dài**: Trẻ không triệu chứng nhưng mẹ RPR/VDRL (+) cần xét nghiệm lại hàng tháng trong 3-4 tháng đầu; Kháng thể thụ động từ mẹ có thể tồn tại tới 18 tháng. Nếu kháng thể trẻ tăng gấp ≥ 4 lần của mẹ, chẩn đoán chắc giang mai bẩm sinh.
 
 ### Chẩn đoán phân biệt
 
@@ -188,7 +188,7 @@ Quy trình chẩn đoán thường là:
 
 #### Đào ban giang mai (Secondary rash)
 
-- **Vảy phấn hồng (Pityriasis rosea)**: Dát dẹt, hình chiếc thuyền, lan toàn thân nhưng không xuất hiện ở lòng bàn tay – bàn chân.
+- **Vảy phấn hồng (Pityriasis rosea)**: Dát dẹt, hình chiếc thuyền, lan toàn thân nhưng không xuất hiện ở lòng bàn tay - bàn chân.
 - **Vảy nến (Psoriasis)**: Vảy dày, gương bóng, ngứa và tổn thương khu trú tại khớp gối, khuỷu tay.
 - **Viêm da cơ địa (Eczema)**: Ngứa nhiều, tiết dịch, tổn thương có vảy mỡ.
 
@@ -220,7 +220,7 @@ Quy trình chẩn đoán thường là:
 **Giang mai sớm (≤ 2 năm)**:
 
 - **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất.
-- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày × 10–14 ngày; Doxycycline 100 mg uống 2 lần/ngày × 14 ngày; Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày × 10–14 ngày; Azithromycin 2 g uống liều duy nhất.
+- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày × 10-14 ngày; Doxycycline 100 mg uống 2 lần/ngày × 14 ngày; Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày × 10-14 ngày; Azithromycin 2 g uống liều duy nhất.
 
 **Giang mai muộn (> 2 năm hoặc không rõ)**
 
@@ -232,7 +232,7 @@ Quy trình chẩn đoán thường là:
 **Giang mai sớm (≤ 2 năm)**:
 
 - **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất.
-- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày × 10–14 ngày; Erythromycin 500 mg uống 4 lần/ngày × 14 ngày; Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày × 10–14 ngày; Azithromycin 2 g uống liều duy nhất.
+- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày × 10-14 ngày; Erythromycin 500 mg uống 4 lần/ngày × 14 ngày; Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày × 10-14 ngày; Azithromycin 2 g uống liều duy nhất.
 
 **Giang mai muộn (> 2 năm hoặc không rõ)**:
 
@@ -254,9 +254,9 @@ Quy trình chẩn đoán thường là:
 - Trẻ sinh ra từ mẹ huyết thanh giang mai dương tính mà mẹ chưa điều trị đúng, đủ trước sinh hoặc điều trị muộn (< 30 ngày trước sinh).
 - Trẻ < 2 tuổi có triệu chứng lâm sàng giang mai bẩm sinh hoặc xét nghiệm huyết thanh (+).
 
-**Phác đồ ưu tiên**: Benzyl penicillin 100,000–150,000 Đơn vị/kg/ngày, tiêm TM chậm chia 2–3 lần/ngày (nếu thể trạng đảm bảo) hoặc truyền liên tục trong 10–15 ngày.
+**Phác đồ ưu tiên**: Benzyl penicillin 100,000-150,000 Đơn vị/kg/ngày, tiêm TM chậm chia 2-3 lần/ngày (nếu thể trạng đảm bảo) hoặc truyền liên tục trong 10-15 ngày.
 
-**Phác đồ thay thế nếu không tiêm TM được**: Procain penicillin 50,000 Đơn vị/kg/ngày, tiêm bắp sâu 1 liều/ngày × 10–15 ngày.
+**Phác đồ thay thế nếu không tiêm TM được**: Procain penicillin 50,000 Đơn vị/kg/ngày, tiêm bắp sâu 1 liều/ngày × 10-15 ngày.
 
 **Trẻ không triệu chứng** và mẹ đã điều trị đầy đủ trước sinh: Chỉ cần theo dõi chặt chẽ, xét nghiệm huyết thanh định kỳ (tháng 1, 2, 3). Nếu xét nghiệm không đặc hiệu vẫn dương tính, điều trị phác đồ: Benzathin penicillin G 50,000 Đơn vị/kg, tiêm bắp liều duy nhất (nếu không có dấu hiệu lâm sàng).
 
@@ -271,4 +271,4 @@ Quy trình chẩn đoán thường là:
 
 ## Tài liệu tham khảo
 
-- BỘ Y TẾ (2021) – _Hướng dẫn chẩn đoán và điều trị bệnh giang mai_
+- BỘ Y TẾ (2021) - _Hướng dẫn chẩn đoán và điều trị bệnh giang mai_

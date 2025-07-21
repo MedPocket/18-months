@@ -34,10 +34,10 @@ _Bảng "Tính hiệu quả"._
 | -------------------------- | --------------------------------- | ------------------------------------ |
 | **DCTC đồng** | < 1 | Hiệu quả cao, kéo dài đến 10 năm |
 | **DCTC LNG (hormone)** | < 1 | Giảm thống kinh, rong kinh |
-| **Que cấy progestogen** | < 1 | Hiệu quả 3–5 năm |
+| **Que cấy progestogen** | < 1 | Hiệu quả 3-5 năm |
 | **Thuốc tiêm progestogen** | ~0.3 | Tiêm 3 tháng/lần |
 | **Viên phối hợp** | ~0.3 (dùng đúng) / ~8 (thực tế) | Cần uống đều mỗi ngày |
-| **Bao cao su nam** | ~2 (dùng đúng) / ~13–18 (thực tế) | Giúp phòng tránh STDs |
+| **Bao cao su nam** | ~2 (dùng đúng) / ~13-18 (thực tế) | Giúp phòng tránh STDs |
 | **Xuất tinh ngoài** | ~4 (dùng đúng) / ~20 (thực tế) | Hiệu quả kém nếu kiểm soát không tốt |
 
 ### Tính an toàn
@@ -48,10 +48,10 @@ _Bảng "Tính an toàn"._
 | Phương pháp | An toàn chung | Hạn chế thường gặp |
 | ----------------- | ------------- | ------------------------------------------------------------ |
 | **Bao cao su** | Loại 1 | Không có |
-| **DCTC đồng** | Loại 1–2 | Không dùng khi viêm nhiễm tiểu khung |
-| **Viên phối hợp** | Loại 1–4 | Không dùng nếu có nguy cơ huyết khối, trên 35 tuổi hút thuốc |
-| **Thuốc tiêm** | Loại 1–2 | Có thể gây mất kinh, tăng cân |
-| **Que cấy** | Loại 1–2 | Cần thực hiện thủ thuật đặt & rút |
+| **DCTC đồng** | Loại 1-2 | Không dùng khi viêm nhiễm tiểu khung |
+| **Viên phối hợp** | Loại 1-4 | Không dùng nếu có nguy cơ huyết khối, trên 35 tuổi hút thuốc |
+| **Thuốc tiêm** | Loại 1-2 | Có thể gây mất kinh, tăng cân |
+| **Que cấy** | Loại 1-2 | Cần thực hiện thủ thuật đặt & rút |
 | **Triệt sản** | Loại 1 | Không hồi phục |
 
 ### Tính kinh tế
@@ -61,7 +61,7 @@ _Bảng "Tính kinh tế"._
 | -------------- | --------------- | -------------------- | ---------------- |
 | **Bao cao su** | Thấp | Tăng theo thời gian | Mua lặp lại |
 | **Viên uống** | Thấp | Trung bình | Uống hàng ngày |
-| **DCTC** | Trung bình | Rất thấp | Dùng 5–10 năm |
+| **DCTC** | Trung bình | Rất thấp | Dùng 5-10 năm |
 | **Que cấy** | Cao | Rẻ về lâu dài | Hiệu quả cao |
 | **Triệt sản** | Cao | Không phát sinh thêm | Một lần duy nhất |
 
@@ -82,7 +82,7 @@ Phụ thuộc vào:
 **Sàng lọc về tính an toàn**:
 
 - Hỏi về: Bệnh lý tim mạch, nội tiết, gan, huyết khối, thuốc đang dùng...
-- Phân loại theo **WHO 1–4**. **Loại 3–4** → Không đưa vào danh sách gợi ý.
+- Phân loại theo **WHO 1-4**. **Loại 3-4** → Không đưa vào danh sách gợi ý.
 
 **Lập danh sách phương pháp phù hợp**:
 
@@ -109,6 +109,6 @@ _Bảng "Các tình huống cụ thể"._
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based Learning_
-- WHO – _Medical Eligibility Criteria for Contraceptive Use_
-- CDC U.S – _Selected Practice Recommendations for Contraceptive Use_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based Learning_
+- WHO - _Medical Eligibility Criteria for Contraceptive Use_
+- CDC U.S - _Selected Practice Recommendations for Contraceptive Use_

@@ -3,12 +3,12 @@ title: Sản giật và hội chứng HELLP
 description: Đặc điểm của sản giật và hội chứng HELLP trong thai kỳ.
 ---
 
-Sản giật và hội chứng HELLP là hai biến chứng nghiêm trọng và nguy hiểm tính mạng của tiền sản giật – thường xuất hiện trong tam cá nguyệt thứ ba (từ tuần 28 trở đi), nhưng cũng có thể xảy ra trong lúc chuyển dạ hoặc sau sinh.
+Sản giật và hội chứng HELLP là hai biến chứng nghiêm trọng và nguy hiểm tính mạng của tiền sản giật - thường xuất hiện trong tam cá nguyệt thứ ba (từ tuần 28 trở đi), nhưng cũng có thể xảy ra trong lúc chuyển dạ hoặc sau sinh.
 
 ## Sản giật
 
-- Là biến chứng nặng có thể xảy ra **trước, trong khi chuyển dạ, hoặc 48–72 giờ sau sinh**.
-- 20–38% không có dấu hiệu báo trước.
+- Là biến chứng nặng có thể xảy ra **trước, trong khi chuyển dạ, hoặc 48-72 giờ sau sinh**.
+- 20-38% không có dấu hiệu báo trước.
 
 ### Chẩn đoán
 
@@ -26,8 +26,8 @@ Sản giật và hội chứng HELLP là hai biến chứng nghiêm trọng và 
 
 #### Phòng co giật
 
-- Tấn công: MgSO₄ 4–6 g TM chậm.
-- Duy trì: MgSO₄ 1–2 g/h đến 24 giờ sau sinh
+- Tấn công: MgSO₄ 4-6 g TM chậm.
+- Duy trì: MgSO₄ 1-2 g/h đến 24 giờ sau sinh
 - Ngưng khi có dấu hiệu ngộ độc.
 
 :::caution
@@ -41,19 +41,19 @@ Không dùng Diazepam/Phenytoin vì không hiệu quả, có thể gây hại th
 - Ngáng lưỡi để tránh tắc nghẽn.
 - Hút đàm nhớt nếu cần thiết.
 - Đặt bệnh nhân nằm nghiêng sang 1 bên.
-- Cho thở O₂ 6–8 L/phút qua mặt nạ.
+- Cho thở O₂ 6-8 L/phút qua mặt nạ.
 
 **Đặt đường truyền TM**.
 
 **Sử dụng MgSO₄**:
 
 - Thuốc chống co giật hiệu quả nhất, đồng thời giúp hạ huyết áp nhẹ.
-- **Liều dùng**: Liều tấn công 4–6 g tiêm TM chậm (trong 15–20 phút). Liều duy trì 1–2 g/giờ truyền TM liên tục. Tiếp tục truyền tối thiểu 24 giờ sau cơn sản giật cuối cùng hoặc sau sinh.
+- **Liều dùng**: Liều tấn công 4-6 g tiêm TM chậm (trong 15-20 phút). Liều duy trì 1-2 g/giờ truyền TM liên tục. Tiếp tục truyền tối thiểu 24 giờ sau cơn sản giật cuối cùng hoặc sau sinh.
 - **Theo dõi dấu hiệu ngộ độc MgSO₄**.
 
 **Điều trị tăng huyết áp**:
 
-- Mục tiêu giữ huyết áp tâm thu 140–155 mmHg, tâm trương 90–105 mmHg.
+- Mục tiêu giữ huyết áp tâm thu 140-155 mmHg, tâm trương 90-105 mmHg.
 - Thuốc thường dùng: Methyldopa, Nifedipin, Labetalol (nếu có).
 
 **Chấm dứt thai kỳ**:
@@ -69,7 +69,7 @@ Biến chứng nặng của tiền sản giật/sản giật, tổn thương n�
 2. Tăng men gan (Elevated Liver Enzyme).
 3. Giảm tiểu cầu (Low Platelet Count).
 
-HELLP không điển hình khi chỉ có 1–2 tiêu chí trên.
+HELLP không điển hình khi chỉ có 1-2 tiêu chí trên.
 
 :::note[Tiêu chuẩn chẩn đoán hội chứng HELLP]
 **Lâm sàng**:
@@ -88,5 +88,5 @@ HELLP không điển hình khi chỉ có 1–2 tiêu chí trên.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

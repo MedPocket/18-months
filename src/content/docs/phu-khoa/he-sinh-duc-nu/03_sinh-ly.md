@@ -1,9 +1,9 @@
 ---
 title: Sinh lý buồng trứng
-description: Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chiêu mộ nang, điều hòa qua AMH/PTEN–PI3K–Akt và hoạt động trục hạ đồi–yên–buồng trứng trong chu kỳ buồng trứng.
+description: Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chiêu mộ nang, điều hòa qua AMH/PTEN-PI3K-Akt và hoạt động trục hạ đồi-yên-buồng trứng trong chu kỳ buồng trứng.
 ---
 
-Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chiêu mộ nang, điều hòa qua AMH/PTEN–PI3K–Akt và hoạt động trục hạ đồi–yên–buồng trứng trong chu kỳ buồng trứng.
+Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chiêu mộ nang, điều hòa qua AMH/PTEN-PI3K-Akt và hoạt động trục hạ đồi-yên-buồng trứng trong chu kỳ buồng trứng.
 
 ## Buồng trứng và kho nang nguyên thủy
 
@@ -15,7 +15,7 @@ Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chi
 
 **Chiêu mộ nguyên khởi (Primordial Recruitment)**: Mỗi đợt 400 nang nguyên thủy được đánh thức, độc lập với FSH/LH. **Cơ chế cận tiết**:
 
-- **PTEN–PI3K–Akt**: Cân bằng PTEN (ức chế) và PI3K (kích hoạt) quyết định nang nào "thức giấc".
+- **PTEN-PI3K-Akt**: Cân bằng PTEN (ức chế) và PI3K (kích hoạt) quyết định nang nào "thức giấc".
 - **AMH** (từ tế bào hạt nang tiền hốc → nang hốc nhỏ) ức chế quá mức chiêu mộ, như "người gác cổng".<br>
 
 _Hình ảnh "Con đường PTEN/PI3K/AKT"._
@@ -25,12 +25,12 @@ _Hình ảnh "Con đường PTEN/PI3K/AKT"._
 
 Nang đã chiêu mộ → noãn sơ cấp → noãn thứ cấp sớm → noãn thứ cấp muộn.
 
-**AMH** tiếp tục kìm hãm tăng tốc phát triển, bảo vệ chỉ còn 10 nang/noãn trên 60–90 ngày vào giai đoạn "lệ thuộc gonadotropin".
+**AMH** tiếp tục kìm hãm tăng tốc phát triển, bảo vệ chỉ còn 10 nang/noãn trên 60-90 ngày vào giai đoạn "lệ thuộc gonadotropin".
 
 _Hình ảnh "Điều hòa chiêu mộ noãn nang"._
 ![Điều hòa chiêu mộ noãn nang](./_images/sinh-ly/dieu-hoa-chieu-mo-noan-nang.png)
 
-## Trục hạ đồi–tuyến yên–buồng trứng
+## Trục hạ đồi-tuyến yên-buồng trứng
 
 ### Hạ đồi
 
@@ -82,9 +82,9 @@ _Hình ảnh "Biến động hormone"._
 _Hình ảnh "Chu kỳ nối tiếp"._
 ![Chu kỳ nối tiếp](./_images/sinh-ly/cac-chu-ky-buong-trung-noi-tiep-nhau.png)
 
-- Mỗi chu kỳ kéo dài 90–120 ngày từ chiêu mộ nguyên thủy đến thoái triển bạch thể.
-- Chỉ 4 tuần cuối chịu ảnh hưởng trực tiếp của trục HĐ–Y–BT, phần còn lại phát triển độc lập.
+- Mỗi chu kỳ kéo dài 90-120 ngày từ chiêu mộ nguyên thủy đến thoái triển bạch thể.
+- Chỉ 4 tuần cuối chịu ảnh hưởng trực tiếp của trục HĐ-Y-BT, phần còn lại phát triển độc lập.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

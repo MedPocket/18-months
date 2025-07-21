@@ -1,16 +1,16 @@
 ---
 title: U nguyên bào nuôi
-description: U nguyên bào nuôi (Gestational Trophoblastic Neoplasia – GTN) là tình trạng tăng sinh ác tính của tế bào nguyên bào nuôi phát sinh sau các biến cố thai kỳ, bao gồm thai trứng, thai lưu, sảy thai, thai đủ tháng hoặc thai ngoài tử cung.
+description: U nguyên bào nuôi (Gestational Trophoblastic Neoplasia - GTN) là tình trạng tăng sinh ác tính của tế bào nguyên bào nuôi phát sinh sau các biến cố thai kỳ, bao gồm thai trứng, thai lưu, sảy thai, thai đủ tháng hoặc thai ngoài tử cung.
 ---
 
 Xuất hiện sau thai trứng (60%); Thai lưu/sảy thai (30%); Thai đủ tháng hoặc thai ngoài tử cung (10%). Thường khởi đầu bằng xuất huyết âm đạo kéo dài, có thể kèm đau vùng hạ vị hoặc dấu hiệu di căn.
 
 **Theo FIGO 2018** gồm:
 
-- **Thai trứng xâm lấn (Invasive mole)**. Tổ chức nguyên bào nuôi phồng nước xâm nhập vào cơ tử cung, gây chảy máu nặng và có thể thủng tử cung. Tiến triển từ 15% thai trứng. β-hCG thường 20 000–30 000 mIU/mL. Siêu âm Doppler thấy khối tăng sinh mạch trong cơ. Giải phẫu bệnh sau cắt tử cung ghi nhận gai rau thoái hóa nước trong cơ tử cung.
-- **U nguyên bào nuôi tại vị trí rau bám (Placental Site Trophoblastic Tumour – PSTT)**. Khối u phát sinh từ tế bào nuôi nơi bám rau, β-hCG thường thấp (16–400 mIU/mL). Ít đáp ứng hóa chất, cần phẫu thuật triệt căn.
+- **Thai trứng xâm lấn (Invasive mole)**. Tổ chức nguyên bào nuôi phồng nước xâm nhập vào cơ tử cung, gây chảy máu nặng và có thể thủng tử cung. Tiến triển từ 15% thai trứng. β-hCG thường 20 000-30 000 mIU/mL. Siêu âm Doppler thấy khối tăng sinh mạch trong cơ. Giải phẫu bệnh sau cắt tử cung ghi nhận gai rau thoái hóa nước trong cơ tử cung.
+- **U nguyên bào nuôi tại vị trí rau bám (Placental Site Trophoblastic Tumour - PSTT)**. Khối u phát sinh từ tế bào nuôi nơi bám rau, β-hCG thường thấp (16-400 mIU/mL). Ít đáp ứng hóa chất, cần phẫu thuật triệt căn.
 - **Ung thư nguyên bào nuôi (Choriocarcinoma)**. Tân lập ác tính toàn tế bào nuôi, không còn gai rau; Khởi phát sau thai trứng, thai bình thường hoặc tự phát không liên quan thai kỳ (non-gestational). Di căn xa sớm (phổi, não, gan...).
-- **U nguyên bào nuôi dạng biểu mô (Epithelioid Trophoblastic Tumour – ETT)**. Hiếm, tế bào giống biểu mô nhau thai, diễn tiến chậm, kháng hóa chất, ưu tiên phẫu thuật.
+- **U nguyên bào nuôi dạng biểu mô (Epithelioid Trophoblastic Tumour - ETT)**. Hiếm, tế bào giống biểu mô nhau thai, diễn tiến chậm, kháng hóa chất, ưu tiên phẫu thuật.
 
 ## Chẩn đoán
 
@@ -38,11 +38,11 @@ _Bảng "Điểm tiên lượng FIGO/WHO 2018"_
 | ---------------------------------------- | ---------- | ---------- | ------------- | ---------- |
 | **Tuổi** | < 40 | ≥ 40 | — | — |
 | **Tiền cân thai** | Thai trứng | Bố thai | Đủ tháng | — |
-| **Số tháng (từ thai lần)** | < 4 | 4 – 6 | 7 – 12 | > 12 |
+| **Số tháng (từ thai lần)** | < 4 | 4 - 6 | 7 - 12 | > 12 |
 | **hCG trước điều trị IU/ml** | < 10³ | 10³ - 10⁴ | 10⁴ - 10⁵ | > 10⁵ |
-| **Kích thước bướu lớn nhất gồm TC (cm)** | | 3 – 4 cm | ≥ 5 cm | — |
-| **Vị trí di căn** | Phổi | Lách, Thận | Dạ dày – ruột | Não Gan |
-| **Số điểm di căn** | — | 1 – 4 | 5 – 8 | > 8 |
+| **Kích thước bướu lớn nhất gồm TC (cm)** | | 3 - 4 cm | ≥ 5 cm | — |
+| **Vị trí di căn** | Phổi | Lách, Thận | Dạ dày - ruột | Não Gan |
+| **Số điểm di căn** | — | 1 - 4 | 5 - 8 | > 8 |
 | **Hóa trị thất bại trước đó** | — | — | Đơn hóa trị | Đa hóa trị |
 
 _Bảng "Phân loại NIH (Mỹ)"._
@@ -54,14 +54,14 @@ _Bảng "Phân loại NIH (Mỹ)"._
 
 ## Điều trị
 
-_Hình ảnh "Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ"._
-![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
+_Hình ảnh "Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ"._
+![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
 
-_Hình ảnh "Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi – Bệnh viện Từ Dũ"._
-![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
+_Hình ảnh "Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi - Bệnh viện Từ Dũ"._
+![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
 
-_Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ"._
-![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
+_Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ"._
+![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
 
 ### Nguyên tắc
 
@@ -89,9 +89,9 @@ _Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi t
 
 - **MTX 5 ngày**: 0.4 mg/kg/ngày × 5 ngày (≤ 25 mg/ngày), lặp lại mỗi 14 ngày.
 - **MTX/FA 8 ngày**: MTX 1 mg/kg (hoặc 50 mg) ngày 1, 3, 5, 7 + Folinic acid 0.1 mg/kg (hoặc 15 mg) ngày 2, 4, 6, 8, lặp lại mỗi 14 ngày.
-- **MTX liều cao tuần**: 30–50 mg/m² tĩnh mạch/tuần.
+- **MTX liều cao tuần**: 30-50 mg/m² tĩnh mạch/tuần.
 - **Dactinomycin (Act-D)**: 1.25 mg/m² tĩnh mạch mỗi 2 tuần, hoặc 12 µg/kg/ngày × 5 ngày, lặp lại mỗi 14 ngày.
-- Tiếp tục 2–3 chu kỳ sau khi β-hCG âm tính.
+- Tiếp tục 2-3 chu kỳ sau khi β-hCG âm tính.
 
 ### Nhóm nguy cơ cao
 
@@ -105,7 +105,7 @@ _Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi t
 - **Ngày 2**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5mg tĩnh mạch. Folinic acid 15mg tiêm bắp 2 lần/ngày × 2 ngày sau MTX 24 giờ.
 - **Ngày 8**: Oncovin (Vincristin) 1 mg/m² da tĩnh mạch, tối đa 2mg. Cyclophosphamid 600 mg/m² da truyền TM trong 30 phút.
 - **Tiêu chuẩn để hóa trị**: Ngày 1 và 2: Bạch cầu ≥ 3000/mm³, bạch cầu đa nhân trung tính ≥ 1500/mm³; Ngày 8: Bạch cầu ≥ 2000/mm³, bạch cầu đa nhân trung tính ≥ 1000/mm³.
-- Lặp lại thêm 3–4 chu kỳ sau khi β-hCG âm tính.
+- Lặp lại thêm 3-4 chu kỳ sau khi β-hCG âm tính.
 
 **Nếu kháng EMA-CO** chuyển sang EP-EMA, BEP hoặc TP/TE:
 
@@ -158,7 +158,7 @@ Etoposide 100 mg/m² truyền TM trong 1 giờ + Cisplatin 20 mg/m² truyền TM
 
 ### Theo dõi sau điều trị
 
-**β-hCG** hàng tuần đến âm tính 3 lần liên tiếp, sau đó hàng tháng 6–12 tháng tùy nhóm. **Thời gian theo dõi tối thiểu** 5 năm.
+**β-hCG** hàng tuần đến âm tính 3 lần liên tiếp, sau đó hàng tháng 6-12 tháng tùy nhóm. **Thời gian theo dõi tối thiểu** 5 năm.
 
 **Khám lâm sàng, siêu âm, X-quang ngực, cận lâm sàng** khi β-hCG bất thường hoặc có triệu chứng lâm sàng. Xét nghiệm huyết đồ, chức năng gan, thận, điện giải... phát hiện nhiễm độc hóa chất.
 
@@ -169,5 +169,5 @@ Sau thời gian theo dõi, người bệnh được có thai trở lại, tùy t
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

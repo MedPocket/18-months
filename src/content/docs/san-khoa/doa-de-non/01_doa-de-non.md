@@ -23,7 +23,7 @@ Nguyên nhân sinh non chia làm hai nhóm chính:
 
 Các cơ chế bệnh sinh liên quan:
 
-- Hoạt hóa trục hạ đồi–tuyến yên–tuyến thượng thận ở mẹ hoặc thai nhi do stress, tăng corticosteroids.
+- Hoạt hóa trục hạ đồi-tuyến yên-tuyến thượng thận ở mẹ hoặc thai nhi do stress, tăng corticosteroids.
 - Nhiễm trùng màng ối, màng đệm hoặc nhiễm khuẩn âm đạo.
 - Giảm tưới máu màng rụng và xuất huyết tại lớp màng rụng (bong rau).
 - Tử cung căng giãn quá mức do đa thai, đa ối hoặc dị dạng tử cung.
@@ -65,7 +65,7 @@ _Hình ảnh "Chiều dài cổ tử cung"._
 
 Đo siêu âm ngả âm đạo, từ lỗ ngoài đến lỗ trong cổ tử cung:
 
-- Tuần 19–23 tuần 6 ngày: Nên khảo sát định kỳ.
+- Tuần 19-23 tuần 6 ngày: Nên khảo sát định kỳ.
 - Tuần 24, nếu không triệu chứng mà cổ tử cung < 25 mm → nguy cơ sinh non tăng.
 - Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ 1%.
 
@@ -89,13 +89,13 @@ _Hình ảnh "Hình dạng lỗ tử cung"._
 
 - Cổ tử cung mở ≥ 3 cm.
 - Hoặc chiều dài cổ tử cung < 20 mm.
-- Hoặc chiều dài 20 – < 30 mm kèm fFN (+).
+- Hoặc chiều dài 20 - < 30 mm kèm fFN (+).
 
 **Song thai** cơn co tử cung đều đặn (như trên) và:
 
 - Cổ tử cung mở ≥ 3 cm.
 - Hoặc chiều dài cổ tử cung < 25 mm.
-- Hoặc chiều dài 25 – < 35 mm kèm fFN (+).
+- Hoặc chiều dài 25 - < 35 mm kèm fFN (+).
 
 Biểu hiện kèm: Ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng bụng, có thể vỡ ối non.
 :::
@@ -174,8 +174,8 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 **Liều dùng**:
 
-- Liều tấn công 20–30 mg viên tác dụng nhanh, hiệu quả sau 20–30 phút.
-- Tiếp tục 10–20 mg mỗi 3–8 giờ, tối đa 48 giờ, liều tối đa 180 mg/ngày.
+- Liều tấn công 20-30 mg viên tác dụng nhanh, hiệu quả sau 20-30 phút.
+- Tiếp tục 10-20 mg mỗi 3-8 giờ, tối đa 48 giờ, liều tối đa 180 mg/ngày.
 
 **Tác dụng phụ**:
 
@@ -212,8 +212,8 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 - Hạn chế dịch truyền nhất ở song thai hoặc đang dùng corticosteroids.
 - Pha 5 mg Salbutamol/5 mL trong 95 mL NaCl 0.9%; Truyền 12 mL/h (10 µg/phút), tăng 4 mL/h mỗi 30 phút đến khi cắt cơn hoặc mẹ đạt nhịp tim ≥ 120 lần/phút hoặc tối đa 36 mL/h.
 - Có thể truyền TM pha 5 mg Salbutamol/5 mL trong dung dịch glucose 5% (10 µg/mL), tốc độ 60 mL/h (10 µg/phút), tăng 20 mL/h mỗi 30 phút đến khi cắt cơn hoặc nhịp tim mẹ ≥ 120 lần/phút hoặc tối đa 180 mL/h.
-- Thời gian điều trị đường TM 24–48 giờ.
-- Duy trì uống/đặt: Ventolin 2 viên × 4–6 viên/ngày hoặc Salbutamol 1 viên × 1–3 viên/ngày (đặt hậu môn).
+- Thời gian điều trị đường TM 24-48 giờ.
+- Duy trì uống/đặt: Ventolin 2 viên × 4-6 viên/ngày hoặc Salbutamol 1 viên × 1-3 viên/ngày (đặt hậu môn).
 
 **Theo dõi**:
 
@@ -224,20 +224,20 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 ### Liệu pháp corticosteroids
 
-**Chỉ định**: Sinh non dự kiến 24–34 tuần, có nguy cơ trong 7 ngày.
+**Chỉ định**: Sinh non dự kiến 24-34 tuần, có nguy cơ trong 7 ngày.
 
 **Liều dùng**:
 
 - Betamethasone 12 mg bắp × 2 liều cách 24 giờ.
 - Hoặc dexamethasone 6 mg bắp × 4 liều cách 12 giờ.
 
-Xem xét lặp lại sau 7–14 ngày nếu còn nguy cơ và < 34 tuần.
+Xem xét lặp lại sau 7-14 ngày nếu còn nguy cơ và < 34 tuần.
 
 ### Bảo vệ thần kinh thai bằng MgSO₄
 
 MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ định**:
 
-- Thai 24–31 tuần 6 ngày có nguy cơ sinh non trong 24 giờ.
+- Thai 24-31 tuần 6 ngày có nguy cơ sinh non trong 24 giờ.
 - Dùng lý tưởng 4 giờ trước sinh khi có chỉ định chấm dứt thai kỳ.
 
 **Chống chỉ định**: Mẹ bị nhược cơ.
@@ -246,7 +246,7 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 
 **Liều dùng**:
 
-- MgSO₄ 4.5 g truyền TM chậm 20–30 phút.
+- MgSO₄ 4.5 g truyền TM chậm 20-30 phút.
 - Giảm liều nếu thiểu niệu hoặc suy thận.
 - Không phối hợp với thuốc cắt cơn.
 
@@ -279,16 +279,16 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 
 - Giảm tỷ lệ sinh non < 34 và < 37 tuần.
 - Gây tiết dịch âm đạo, cần theo dõi viêm.
-- Đặt 14–32 tuần hoặc 2 tuần trước mốc sinh non trước đó.
+- Đặt 14-32 tuần hoặc 2 tuần trước mốc sinh non trước đó.
 - Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.<br>
   _Hình ảnh "Vòng nâng cổ tử cung"._
   ![Vòng nâng cổ tử cung](./_images/vong-nang-co-tu-cung.png)
 
-_Hình ảnh "Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ"._
-![Lưu đồ dự phòng sinh non đơn thai – Bệnh viện Từ Dũ.](./_images/luu-do-du-phong-sinh-non.png)
+_Hình ảnh "Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ"._
+![Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ.](./_images/luu-do-du-phong-sinh-non.png)
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based Learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
-- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài – _Thực hành Sản phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based Learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản phụ khoa_

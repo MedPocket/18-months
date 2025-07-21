@@ -11,7 +11,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 **Chỉ định**: Đau đầu, đau cơ, sốt, đau nhẹ đến trung bình.
 
-**Liều dùng**: 500–1000 mg/lần, tối đa 3–4 g/ngày.
+**Liều dùng**: 500-1000 mg/lần, tối đa 3-4 g/ngày.
 
 **Tác dụng phụ** (hiếm gặp khi dùng đúng liều):
 
@@ -32,7 +32,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 **Chỉ định**: Đau viêm, đau cơ xương, đau răng, đau khớp.
 
-**Liều dùng** (ví dụ với Ibuprofen): 200–400 mg/lần, 2–3 lần/ngày; tối đa 1200 mg/ngày (không kê đơn) hoặc theo chỉ định bác sĩ.
+**Liều dùng** (ví dụ với Ibuprofen): 200-400 mg/lần, 2-3 lần/ngày; tối đa 1200 mg/ngày (không kê đơn) hoặc theo chỉ định bác sĩ.
 
 **Chống chỉ định trong tam cá nguyệt III** do:
 
@@ -47,7 +47,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 :::caution
 
-- Có thể xem xét dùng ngắn hạn trong tam cá nguyệt I–II với chỉ định rõ ràng.
+- Có thể xem xét dùng ngắn hạn trong tam cá nguyệt I-II với chỉ định rõ ràng.
 - Tránh dùng kéo dài hoặc liều cao.
 - Không phối hợp với aspirin hoặc corticosteroid nếu không có chỉ định chuyên khoa.
   :::
@@ -58,7 +58,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 **Chỉ định**: Đau trung bình đến nặng khi không đáp ứng với các thuốc khác.
 
-**Liều dùng** (ví dụ với Tramadol): 50–100 mg/lần, cách nhau ≥ 6 giờ; tối đa 400 mg/ngày (theo chỉ định bác sĩ).
+**Liều dùng** (ví dụ với Tramadol): 50-100 mg/lần, cách nhau ≥ 6 giờ; tối đa 400 mg/ngày (theo chỉ định bác sĩ).
 
 **Tác dụng phụ**:
 
@@ -79,7 +79,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 **Chỉ định**: Đau do co thắt đường tiêu hóa, tiết niệu, tử cung.
 
-**Liều dùng (Phloroglucinol)**: 40–80 mg/lần, 2–3 lần/ngày.
+**Liều dùng (Phloroglucinol)**: 40-80 mg/lần, 2-3 lần/ngày.
 
 **Tác dụng phụ** (hiếm):
 
@@ -111,12 +111,12 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 - Không khuyến cáo dùng thường quy trong thai kỳ.
 - Cần hội chẩn chuyên khoa trước khi sử dụng.
-- Tư vấn nguy cơ – lợi ích rõ ràng với bệnh nhân.
+- Tư vấn nguy cơ - lợi ích rõ ràng với bệnh nhân.
 
 :::
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế Việt Nam (2021) – _Hướng dẫn sử dụng thuốc hợp lý cho phụ nữ có thai và cho con bú_
-- WHO – _Pregnancy and Pain Management Guidelines_
-- CDC – _Treating Pain During Pregnancy: Safety Information_
+- Bộ Y tế Việt Nam (2021) - _Hướng dẫn sử dụng thuốc hợp lý cho phụ nữ có thai và cho con bú_
+- WHO - _Pregnancy and Pain Management Guidelines_
+- CDC - _Treating Pain During Pregnancy: Safety Information_

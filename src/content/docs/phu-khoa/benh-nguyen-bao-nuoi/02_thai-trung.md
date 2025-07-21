@@ -3,7 +3,7 @@ title: Thai trứng
 description: Thai trứng (Hydatidiform mole) là một dạng bệnh lý nguyên bào nuôi thai kỳ, đặc trưng bởi sự tăng sinh bất thường của các gai rau (nhau) với biến đổi nang nước, không có hoặc chỉ có phôi thai thoái hóa.
 ---
 
-**Thai trứng** là tình trạng gặp trong 1/200–1/1000 ca thai nghén, do bất thường thụ tinh dẫn đến tăng sinh quá mức tế bào nguyên bào nuôi, hình thành các túi nang nước hình chùm nho. Mặc dù phần lớn là lành tính, thai trứng toàn phần có nguy cơ cao tiến triển thành u nguyên bào nuôi (khoảng 5–15%), trong khi thai trứng bán phần tiến triển ít hơn (1–5%).
+**Thai trứng** là tình trạng gặp trong 1/200-1/1000 ca thai nghén, do bất thường thụ tinh dẫn đến tăng sinh quá mức tế bào nguyên bào nuôi, hình thành các túi nang nước hình chùm nho. Mặc dù phần lớn là lành tính, thai trứng toàn phần có nguy cơ cao tiến triển thành u nguyên bào nuôi (khoảng 5-15%), trong khi thai trứng bán phần tiến triển ít hơn (1-5%).
 
 ## Yếu tố nguy cơ
 
@@ -35,7 +35,7 @@ Thai trứng là **kết quả của thụ tinh bất thường**.
 
 ## Diễn biến
 
-**Sau hút nạo**: 80% tự hồi phục. 10–15% tiến triển thành thai trứng xâm lấn (invasive mole). 5% tiến triển thành choriocarcinoma (u nguyên bào nuôi ác tính). **Thai trứng toàn phần có nguy cơ ác tính cao hơn thai trứng bán phần**.
+**Sau hút nạo**: 80% tự hồi phục. 10-15% tiến triển thành thai trứng xâm lấn (invasive mole). 5% tiến triển thành choriocarcinoma (u nguyên bào nuôi ác tính). **Thai trứng toàn phần có nguy cơ ác tính cao hơn thai trứng bán phần**.
 
 ## Chẩn đoán
 
@@ -43,7 +43,7 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 ### Lâm sàng
 
-- **Chảy máu âm đạo**: Rong huyết, thường xuất hiện 6–16 tuần.
+- **Chảy máu âm đạo**: Rong huyết, thường xuất hiện 6-16 tuần.
 - **Tử cung to nhanh**: Kích thước > tuổi thai.
 - **Nghén nặng**: Buồn nôn, nôn ói do β-hCG rất cao.
 - **Triệu chứng hiếm**: Cường giáp, tiền sản giật sớm, nang buồng trứng dạng luteoma.
@@ -81,7 +81,7 @@ _Hình ảnh "Siêu âm thai trứng bán phần"._
 
 ### Nạo hút buồng tử cung
 
-**Mọi trường hợp** thai trứng toàn phần hoặc thai trứng bán phần đều cần hút nạo kết hợp hút chân không. Chuẩn bị kháng sinh dự phòng, mê tĩnh mạch, truyền dịch, misoprostol/nong cổ tử cung, oxytocin. Nếu còn mô trứng sau 48–72 giờ, cần nạo lại.
+**Mọi trường hợp** thai trứng toàn phần hoặc thai trứng bán phần đều cần hút nạo kết hợp hút chân không. Chuẩn bị kháng sinh dự phòng, mê tĩnh mạch, truyền dịch, misoprostol/nong cổ tử cung, oxytocin. Nếu còn mô trứng sau 48-72 giờ, cần nạo lại.
 
 ### Cắt tử cung
 
@@ -89,8 +89,8 @@ Chỉ định ở **người ≥ 40 tuổi đã đủ con hoặc khi có băng h
 
 ### Hóa trị dự phòng
 
-_Hình ảnh "Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh viện Từ Dũ"._
-![Phác đồ 1 nguyên tắc xử trí thai trứng – Bệnh viện Từ Dũ](./_images/tu-du-phac-do-1-nguyen-tac-xu-tri-thai-trung.png)
+_Hình ảnh "Phác đồ 1 nguyên tắc xử trí thai trứng - Bệnh viện Từ Dũ"._
+![Phác đồ 1 nguyên tắc xử trí thai trứng - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-1-nguyen-tac-xu-tri-thai-trung.png)
 
 **Chỉ cân nhắc cho nhóm nguy cơ cao**: Thai trứng toàn phần lớn, β-hCG > 100,000, siêu âm nghi ngờ xâm lấn.
 
@@ -134,7 +134,7 @@ Hiếm, chẩn đoán khi siêu âm thấy nang nước kèm túi thai bình th�
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning: Bệnh nguyên bào nuôi_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa: Thai trứng_
-- FIGO Oncology Committee (2002) – _FIGO staging for gestational trophoblastic tumors_
-- Lurain JR (2010) – _Gestational trophoblastic disease II: Classification and management_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning: Bệnh nguyên bào nuôi_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa: Thai trứng_
+- FIGO Oncology Committee (2002) - _FIGO staging for gestational trophoblastic tumors_
+- Lurain JR (2010) - _Gestational trophoblastic disease II: Classification and management_

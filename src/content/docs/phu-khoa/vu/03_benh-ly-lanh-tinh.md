@@ -30,15 +30,15 @@ _Bảng "Phân loại bệnh lý tuyến vú theo mô học"._
 
 ## Bướu sợi tuyến
 
-**Bướu sợi-tuyến (Fibroadenoma)** là khối u lành tính phát triển từ cả biểu mô ống và mô đệm của đơn vị tận cùng (terminal duct lobular unit – TDLU). Nếu xét về mô học, bướu sợi-tuyến là kết quả tăng sinh đồng thời cả hai thành phần: Biểu mô và mô đệm, tạo thành một khối chắc, di động.
+**Bướu sợi-tuyến (Fibroadenoma)** là khối u lành tính phát triển từ cả biểu mô ống và mô đệm của đơn vị tận cùng (terminal duct lobular unit - TDLU). Nếu xét về mô học, bướu sợi-tuyến là kết quả tăng sinh đồng thời cả hai thành phần: Biểu mô và mô đệm, tạo thành một khối chắc, di động.
 
 ### Chẩn đoán
 
 #### Lâm sàng
 
-- Thường gặp nhất ở phụ nữ 20–30 tuổi.
+- Thường gặp nhất ở phụ nữ 20-30 tuổi.
 - Thường đơn độc; Khi có nhiều khối, cần phân biệt với đa nang sợi, bệnh di truyền...
-- Người bệnh sờ thấy khối vú không đau, di động, mật độ chắc, có thể kích thước từ 1–5 cm (nhỏ hơn 2 cm là phổ biến).
+- Người bệnh sờ thấy khối vú không đau, di động, mật độ chắc, có thể kích thước từ 1-5 cm (nhỏ hơn 2 cm là phổ biến).
 - Vị trí: Thường ở 1/4 trên ngoài vú, ít khi ở giữa hoặc vú đối diện.
 - Biến đổi kích thước nhẹ theo chu kỳ kinh nguyệt, có thể tự teo dần sau mãn kinh.
 
@@ -55,7 +55,7 @@ _Hình ảnh "(Trái, trên) Siêu âm bướu sợi-tuyến: Khối giảm âm,
 **Nhũ ảnh**:
 
 - Khối hình tròn/bầu dục, bờ sắc nét, có thùy nhẹ, không xâm lấn mô xung quanh.
-- Thường bao quanh bởi vầng sáng mỏng (halo) do mô mỡ – đặc trưng cho khối lành tính.
+- Thường bao quanh bởi vầng sáng mỏng (halo) do mô mỡ - đặc trưng cho khối lành tính.
 - Đôi khi thấy vùng thấu quang bên trong do thoái hóa mỡ.
 
 #### Chẩn đoán phân biệt
@@ -67,7 +67,7 @@ _Hình ảnh "(Trái, trên) Siêu âm bướu sợi-tuyến: Khối giảm âm,
 
 ### Điều trị
 
-- Nếu khối nhỏ (< 2 cm), không triệu chứng, có thể theo dõi định kỳ 6–12 tháng bằng siêu âm và khám vú.
+- Nếu khối nhỏ (< 2 cm), không triệu chứng, có thể theo dõi định kỳ 6-12 tháng bằng siêu âm và khám vú.
 - Khối lớn (> 2 cm) hoặc có triệu chứng (đau, lo ngại thẩm mỹ), hoặc chẩn đoán hình ảnh nghi ngờ, phẫu thuật lấy khối để chẩn đoán giải phẫu bệnh.
 - Hiếm khi tái phát nếu mổ lấy trọn vẹn vỏ bao.
 
@@ -79,7 +79,7 @@ Bướu diệp thể (Phyllodes tumor) là khối u phát triển nhanh, xuất 
 
 #### Lâm sàng
 
-- Thường gặp ở phụ nữ > 40 tuổi (trong khi fibroadenoma phổ biến hơn ở 20–30 tuổi).
+- Thường gặp ở phụ nữ > 40 tuổi (trong khi fibroadenoma phổ biến hơn ở 20-30 tuổi).
 - Kích thước khối thường lớn, phát triển nhanh trong vài tuần đến vài tháng.
 - Khối to, chắc, di động, thường không đau.
 - Da vùng khối căng, mỏng, có thể giãn tĩnh mạch hoặc loét do khối chèn ép.
@@ -98,7 +98,7 @@ _Hình ảnh "Bướu diệp thể: Khối lớn, rõ, có các vùng hóa nang 
 
 **Nhũ ảnh**: Khối lớn, giới hạn rõ, có thể bầu dục, hình tròn hoặc chia thùy, thỉnh thoảng thấy vôi hóa (ít phổ biến hơn fibroadenoma).
 
-**MRI**: Thần kinh hóa mô đệm rõ, khối đồng nhất hoặc có vùng thoái hóa, bắt thuốc mạnh – thường dùng trong khối nghi ngờ ác tính hoặc khối tái phát.
+**MRI**: Thần kinh hóa mô đệm rõ, khối đồng nhất hoặc có vùng thoái hóa, bắt thuốc mạnh - thường dùng trong khối nghi ngờ ác tính hoặc khối tái phát.
 
 #### Chẩn đoán phân biệt
 
@@ -120,7 +120,7 @@ Bướu nhú (Intraductal papilloma) là khối tăng sinh dạng nhú, xuất p
 
 #### Lâm sàng
 
-- Chiếm 60–80% trường hợp tiết dịch núm vú dạng máu/huyết thanh-máu.
+- Chiếm 60-80% trường hợp tiết dịch núm vú dạng máu/huyết thanh-máu.
 - Khối thường đơn độc, vị trí gần quầng vú (< 1 cm), có thể nhỏ, khó sờ thấy.
 - Tiết dịch thường là dấu hiệu chính, lượng ít, lẫn máu hoặc huyết thanh.
 
@@ -153,7 +153,7 @@ Nang vú (Simple/Macrocystic cyst) là hình ảnh giãn dãn và thoái triển
 
 #### Lâm sàng
 
-- Có thể gặp ở bất kỳ lứa tuổi nào, phổ biến nhất ở phụ nữ 35–50 tuổi.
+- Có thể gặp ở bất kỳ lứa tuổi nào, phổ biến nhất ở phụ nữ 35-50 tuổi.
 - Tỷ lệ giảm dần sau mãn kinh (do thoái hóa mô tuyến).
 - Nang có thể thay đổi kích thước theo chu kỳ kinh nguyệt, thường đau, căng tức trước kỳ kinh.
 - Nang đơn độc hoặc đa nang, thường di động, bờ rõ, mật độ trung tâm.
@@ -171,11 +171,11 @@ _Hình ảnh "Nang vú trên siêu âm: (Trái) nang điển hình: phản âm t
 **Nhũ ảnh**:
 
 - Nang xuất hiện dưới dạng vùng đậm độ thấp (hypodense), giới hạn rõ, không vôi hóa.
-- Đôi khi không phân biệt rõ nang đặc – đặc biệt nang nhỏ < 5 mm.
+- Đôi khi không phân biệt rõ nang đặc - đặc biệt nang nhỏ < 5 mm.
 
 ### Điều trị
 
-- Nếu nang điển hình, không triệu chứng: Theo dõi định kỳ 6–12 tuần.
+- Nếu nang điển hình, không triệu chứng: Theo dõi định kỳ 6-12 tuần.
 - **Chọc hút FNA**: Nếu dịch trong, màu vàng; Nang xẹp hoàn toàn sau hút; Không cần tái khám sớm. Nếu dịch màu sắc bất thường (máu, cặn), hoặc nang không xẹp hoàn toàn: Chỉ định sinh thiết định vị hoặc sinh thiết mở.
 - Nang tái phát nhiều lần hoặc nang lớn gây đau: Có thể cân nhắc phẫu thuật cắt nang.
 
@@ -188,12 +188,12 @@ Hamartoma là khối tổ chức lành tính, gồm các thành phần bình th�
 #### Lâm sàng
 
 - Gặp ở phụ nữ mọi lứa tuổi, thường u ổn định phát triển chậm.
-- Khối thường không đau, di động, mật độ mềm – chắc.
+- Khối thường không đau, di động, mật độ mềm - chắc.
 - Ít khi gây triệu chứng, thường phát hiện tình cờ qua chẩn đoán hình ảnh.
 
 #### Cận lâm sàng
 
-_Hình ảnh "Nhũ ảnh Hamartoma vú: Hình ảnh "vú trong vú", vỏ bao mỏng bao quanh tổ hợp mô thấu quang – cản quang"._
+_Hình ảnh "Nhũ ảnh Hamartoma vú: Hình ảnh "vú trong vú", vỏ bao mỏng bao quanh tổ hợp mô thấu quang - cản quang"._
 ![Nhũ ảnh của Hamartoma vú, phim LMO vú phải và phim CC](./_images/benh-ly-tuyen-vu-lanh-tinh/benh-hamartoma.png)
 
 **Siêu âm**:
@@ -203,7 +203,7 @@ _Hình ảnh "Nhũ ảnh Hamartoma vú: Hình ảnh "vú trong vú", vỏ bao m�
 
 **Nhũ ảnh**:
 
-- Hình ảnh "vú trong vú" (breast within breast): Khối tròn/bầu dục, biên rõ, có vùng mỡ thấu quang xen lẫn vùng cản quang (tổ hợp mô đặc – mỡ).
+- Hình ảnh "vú trong vú" (breast within breast): Khối tròn/bầu dục, biên rõ, có vùng mỡ thấu quang xen lẫn vùng cản quang (tổ hợp mô đặc - mỡ).
 - Có vỏ bao mỏng, phân biệt rõ với mô xung quanh.
 
 #### Chẩn đoán phân biệt
@@ -216,7 +216,7 @@ _Hình ảnh "Nhũ ảnh Hamartoma vú: Hình ảnh "vú trong vú", vỏ bao m�
 
 - Hamartoma lành tính, không triệu chứng: Theo dõi định kỳ, không cần điều trị.
 - Nếu khối to, gây lo ngại thẩm mỹ hoặc biểu hiện tăng nhanh: Phẫu thuật cắt bỏ trọn khối cùng vỏ bao.
-- Lưu ý: Đa hamartoma có thể là thành phần hội chứng Cowden hoặc Bannayan-Riley-Ruvalcaba (đột biến gene PTEN) – cần tầm soát thêm khi nghi ngờ hội chứng.
+- Lưu ý: Đa hamartoma có thể là thành phần hội chứng Cowden hoặc Bannayan-Riley-Ruvalcaba (đột biến gene PTEN) - cần tầm soát thêm khi nghi ngờ hội chứng.
 
 :::caution
 Đa hamartoma (xuất hiện nhiều khối ở nhiều vị trí khác cơ quan) là dấu hiệu gợi ý hội chứng Cowden hoặc Bannayan-Riley-Ruvalcaba (đột biến gene PTEN). Đối tượng này cần tầm soát ung thư vú, giáp và mô lympho khác theo hướng dẫn nguy cơ cao.
@@ -224,7 +224,7 @@ _Hình ảnh "Nhũ ảnh Hamartoma vú: Hình ảnh "vú trong vú", vỏ bao m�
 
 ## Bệnh Mondor
 
-Bệnh Mondor (Mondor’s disease) là tình trạng viêm tắc tĩnh mạch nông vùng ngực – vú, thường gặp ở tĩnh mạch ngực thượng vị hoặc tĩnh mạch xung quanh vú.
+Bệnh Mondor (Mondor’s disease) là tình trạng viêm tắc tĩnh mạch nông vùng ngực - vú, thường gặp ở tĩnh mạch ngực thượng vị hoặc tĩnh mạch xung quanh vú.
 
 ### Chẩn đoán
 
@@ -232,7 +232,7 @@ Bệnh Mondor (Mondor’s disease) là tình trạng viêm tắc tĩnh mạch n�
 
 - Gặp ở nữ > nam; Tiền sử chấn thương, phẫu thuật vú, tập thể thao mạnh hoặc rối loạn đông máu (ví dụ đột biến yếu tố V Leiden).
 - Triệu chứng: Đau nhói dọc theo đường TM nông, sờ thấy dải cứng, đau khi ấn, căng da. Thay đổi màu da có thể đỏ, tím theo đường TM.
-- Thường tự giới hạn, triệu chứng giảm dần trong 4–8 tuần.
+- Thường tự giới hạn, triệu chứng giảm dần trong 4-8 tuần.
 
 #### Cận lâm sàng
 
@@ -284,7 +284,7 @@ U mỡ (Lipoma) là khối u lành tính thường gặp nhất ở mô mỡ, ba
 _Hình ảnh "(Trái) Tuyến vú phụ ở nách; (Phải) Sơ đồ đường sữa dọc ngực"._
 ![Tuyến vú phụ](./_images/benh-ly-tuyen-vu-lanh-tinh/tuyen-vu-phu.png)
 
-- Tần suất khoảng 1–5% trong dân số, nữ > nam (một số nghiên cứu ghi nhận tỉ lệ gần nhau).
+- Tần suất khoảng 1-5% trong dân số, nữ > nam (một số nghiên cứu ghi nhận tỉ lệ gần nhau).
 - Vị trí phổ biến: Vùng nách (most common), dưới vú chính, dọc đường sữa.
 - Thường không triệu chứng, chỉ thẩm mỹ; Mô vú phụ vẫn có thể bị bệnh lý giống vú chính (u, viêm, nhiễm trùng).
 
@@ -299,9 +299,9 @@ Bệnh vú thay đổi sợi bọc (Fibrocystic changes) là nhóm tổn thươn
 
 ### Chẩn đoán
 
-Thường gặp ở phụ nữ 20–50 tuổi, đặc biệt tuổi sinh đẻ. Phân loại theo mô bệnh học: xơ hóa tuyến, sẹo hình sao, fibrocystic changes tổng quát.
+Thường gặp ở phụ nữ 20-50 tuổi, đặc biệt tuổi sinh đẻ. Phân loại theo mô bệnh học: xơ hóa tuyến, sẹo hình sao, fibrocystic changes tổng quát.
 
-Khoảng 50–60% phụ nữ có thay đổi mô học, khoảng 30–50% có triệu chứng lâm sàng:
+Khoảng 50-60% phụ nữ có thay đổi mô học, khoảng 30-50% có triệu chứng lâm sàng:
 
 - Đau căng vú (mastodynia) hai bên, tăng khi đến kỳ kinh.
 - Sờ thấy nhiều mô cục, hạt nhỏ (lumpiness), đặc biệt ở 1/4 trên ngoài.
@@ -338,10 +338,10 @@ Khoảng 50–60% phụ nữ có thay đổi mô học, khoảng 30–50% có tr
 
 - Khi nghi ngờ hình ảnh bất thường (hình xơ spiculated, microcalcifications đáng ngờ), cần **core biopsy** để loại trừ carcinoma in situ hoặc invasive.
 - Điều trị triệu chứng: NSAIDs, thuốc giảm đau, vú đeo áo mút mềm hỗ trợ. Thay đổi chế độ ăn (giảm caffein, muối), bổ sung vitamin E, dầu cá (có thể cải thiện đau căng vú).
-- Theo dõi định kỳ: Siêu âm/nhũ ảnh 6–12 tháng nếu có rối loạn mô học không điển hình nhưng không ung thư.
+- Theo dõi định kỳ: Siêu âm/nhũ ảnh 6-12 tháng nếu có rối loạn mô học không điển hình nhưng không ung thư.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Gray H (2019) – _Gray’s Anatomy for Students: Breast Anatomy_
-- Kurman RJ, Ellenson LH, Ronnett BM (2019) – _Blaustein’s Pathology of the Female Genital Tract_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Gray H (2019) - _Gray’s Anatomy for Students: Breast Anatomy_
+- Kurman RJ, Ellenson LH, Ronnett BM (2019) - _Blaustein’s Pathology of the Female Genital Tract_

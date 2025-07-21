@@ -10,18 +10,18 @@ Có nhiều yếu tố ảnh hưởng đến đáp ứng co tử cung:
 - Con rạ khởi phát chuyển dạ dễ hơn con so.
 - Độ chín muồi của cổ tử cung (Bishop score).
 
-_Bảng "Điểm Bishop – đánh giá độ chín muồi cổ tử cung"._
+_Bảng "Điểm Bishop - đánh giá độ chín muồi cổ tử cung"._
 | | 0 điểm | 1 điểm | 2 điểm | 3 điểm |
 | --------------------- | ------------ | ---------- | ------------------------ | -------------- |
-| **Độ mở cổ tử cung** | đóng | 1–2 cm | 3–4 cm | ≥ 5 cm |
-| **Độ xóa cổ tử cung** | 0–30% | 40–50% | 60–70% | ≥ 80% |
+| **Độ mở cổ tử cung** | đóng | 1-2 cm | 3-4 cm | ≥ 5 cm |
+| **Độ xóa cổ tử cung** | 0-30% | 40-50% | 60-70% | ≥ 80% |
 | **Mật độ cổ tử cung** | chắc | trung bình | mềm | — |
 | **Hướng cổ tử cung** | sau | trung gian | trước | — |
 | **Độ lọt ngôi thai** | di động (-3) | chúc (-2) | ghim chặt/lọt cao (-1/0) | đã lọt (+1,+2) |
 
-- **Tổng ≥ 10**: Sinh trong 2–3 giờ.
-- **7–9**: Sinh trong 8 giờ.
-- **5–6**: Tiên lượng dè dặt.
+- **Tổng ≥ 10**: Sinh trong 2-3 giờ.
+- **7-9**: Sinh trong 8 giờ.
+- **5-6**: Tiên lượng dè dặt.
 - **< 5**: Nguy cơ thất bại khi khởi phát chuyển dạ.
 
 ## Chỉ định
@@ -56,7 +56,7 @@ _Bảng "Thuốc tăng co tử cung và hồi phục tử cung"._
 | **Carbetocin** (Duratocin®) | 100 µg/ống tiêm bắp | — | ✓ | Kéo dài |
 | **Ergonovine / Methylergonovine** | 0.2 mg/ống tiêm bắp | — | ✓ | Kéo dài |
 | **Syntometrine** (oxytocin 5 IU + ergometrine 0.5 mg) | 1 mL/ống tiêm bắp hoặc tĩnh mạch | — | ✓ | Kéo dài |
-| **Carboprost (PGF₂α)** / Sulprostone, Nalador® | 125–250 µg/1 mL tiêm bắp; 500 µg bột pha tiêm bắp/tĩnh mạch | — | ✓ | Kéo dài |
+| **Carboprost (PGF₂α)** / Sulprostone, Nalador® | 125-250 µg/1 mL tiêm bắp; 500 µg bột pha tiêm bắp/tĩnh mạch | — | ✓ | Kéo dài |
 | **Misoprostol (PGE₁)** (Cytotec®) | 200 µg: Đường uống, ngậm, đặt âm đạo/trực tràng | ✓ | ✓ | Kéo dài |
 
 ### Oxytocin
@@ -68,15 +68,15 @@ _Bảng "Thuốc tăng co tử cung và hồi phục tử cung"._
 **Liều khởi phát chuyển dạ (tĩnh mạch với bơm truyền tự động)**:
 
 - Pha 5 IU oxytocin + 500 mL glucose 5%.
-- Bắt đầu 1–2 mIU/phút.
-- Tăng 1–2 mIU/phút mỗi 15–30 phút dựa trên đáp ứng co.
+- Bắt đầu 1-2 mIU/phút.
+- Tăng 1-2 mIU/phút mỗi 15-30 phút dựa trên đáp ứng co.
 - Tại VN thường bắt đầu 4 mIU/phút, tăng mỗi 30 phút thêm 4 mIU.
 - Giảm hoặc ngưng nếu co cường tính hoặc tim thai bất thường.
 
 **Liều dự phòng & điều trị băng huyết sau sinh**:
 
 - **Dự phòng**: 10 IU oxytocin tiêm bắp ngay sau sổ rau.
-- **Điều trị cấp**: 5–10 IU oxytocin/500 mL NaCl 0.9% truyền nhanh 1 giờ.
+- **Điều trị cấp**: 5-10 IU oxytocin/500 mL NaCl 0.9% truyền nhanh 1 giờ.
 - **Duy trì**: 10 IU/500 mL mỗi 8 giờ.
 
 **Tác dụng phụ**:
@@ -93,7 +93,7 @@ _Bảng "Thuốc tăng co tử cung và hồi phục tử cung"._
 **Liều dùng**:
 
 - 100 µg tiêm bắp một lần sau sổ rau.
-- **Thời gian bán hủy**: 40 phút; Co tử cung kéo dài 1–2 giờ.
+- **Thời gian bán hủy**: 40 phút; Co tử cung kéo dài 1-2 giờ.
 
 **Tác dụng phụ**: Đau co tử cung, buồn nôn, bốc hỏa.
 
@@ -121,10 +121,10 @@ _Bảng "Thuốc tăng co tử cung và hồi phục tử cung"._
 
 **Cơ chế**: Tăng co cơ tử cung, đồng thời làm chín cổ tử cung.
 
-**Liều dùng**: 400–800 µg đường uống/ngậm/trực tràng.
+**Liều dùng**: 400-800 µg đường uống/ngậm/trực tràng.
 
 **Tác dụng phụ**: Sốt, tiêu chảy, buồn nôn.
 
 ## Tài liệu tham khảo
 
-- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài – _Thực hành Sản Phụ khoa_
+- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản Phụ khoa_

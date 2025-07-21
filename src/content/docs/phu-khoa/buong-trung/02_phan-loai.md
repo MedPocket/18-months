@@ -77,7 +77,7 @@ Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu r�
 
 #### U xuất phát từ thượng mô
 
-Tân sinh của tế bào biểu mô cổ ống Muller tại buồng trứng, chiếm 50–60% các u buồng trứng, 85% ung thư biểu mô buồng trứng:
+Tân sinh của tế bào biểu mô cổ ống Muller tại buồng trứng, chiếm 50-60% các u buồng trứng, 85% ung thư biểu mô buồng trứng:
 
 1. Biểu mô trụ thấp có lông chuyển: U tuyến thanh dịch.
 2. Biểu mô trụ tiết nhầy: U tuyến dịch nhầy.
@@ -135,7 +135,7 @@ Khối u từ tế bào nguồn dòng sinh dục đã trải qua một phần gi
 
 - Từ tế bào đã qua giảm phân I, thoái giáng trực tiếp từ n kép → 2n, không qua giảm phân II.
 - U chứa thành phần của 3 lá phôi, tiềm năng ác tính thấp.
-- **U quái trưởng thành (teratoma)**: Lành tính 95%, đơn mô hoặc đa mô, thường gặp 10–30 tuổi, khối u trơn láng, chứa mô ngoại bì, trung bì, nội bì (răng, da, tóc, nang, tuyến mồ hôi, tuyến bã). Vi thể: mô trưởng thành.
+- **U quái trưởng thành (teratoma)**: Lành tính 95%, đơn mô hoặc đa mô, thường gặp 10-30 tuổi, khối u trơn láng, chứa mô ngoại bì, trung bì, nội bì (răng, da, tóc, nang, tuyến mồ hôi, tuyến bã). Vi thể: mô trưởng thành.
 - **U quái không trưởng thành**: Luôn ác tính, chiếm 15% u tế bào mầm, tuổi trung bình 19, trung bình 18 cm, bề mặt trơn láng, cấu trúc hỗn hợp nang-đặc, vi thể: mô phôi chưa biệt hóa.
 - **U quái giáp đơn mô**: ác tính cao, có thể gây cường giáp "không bướu giáp," chụp xạ hình giáp bình thường nhưng tập trung iod ở vùng chậu.
 
@@ -152,9 +152,9 @@ Khối u từ tế bào nguồn dòng sinh dục đã trải qua một phần gi
 - Là khối ác tính, chiếm 45% u tế bào mầm ác tính, 2/3 chẩn đoán giai đoạn I, tiên lượng tốt.
 - Vấn đề: Bảo tồn sinh sản. Đáp ứng tốt với xạ trị (không muốn sinh thêm) và hóa trị (muốn sinh thêm).
 
-#### U xuất phát từ dây giới bào–mô đệm
+#### U xuất phát từ dây giới bào-mô đệm
 
-U mô đệm hoặc từ dây giới bào, đơn thuần hoặc hỗn hợp, chiếm 5–8% tân sinh buồng trứng, 2% u ác tính.
+U mô đệm hoặc từ dây giới bào, đơn thuần hoặc hỗn hợp, chiếm 5-8% tân sinh buồng trứng, 2% u ác tính.
 
 **U mô đệm đơn thuần Fibroma (u sợi) & hội chứng Meigs**:
 
@@ -175,7 +175,7 @@ U mô đệm hoặc từ dây giới bào, đơn thuần hoặc hỗn hợp, chi
 
 - Ác tính thấp, đặc trưng vi thể tế bào hạt, tiết estrogen.
 - Thường đơn bên, kích thước 15 cm, dạng nang, mô mềm/chắc, mặt cắt chứa dịch máu. Vi thể: Thể Call-Exner.
-- 80–90% chẩn đoán giai đoạn I, 95% dạng mô học trưởng thành (adult granulosa tumour, sau mãn kinh), 5% dạng thiếu niên (juvenile granulosa tumour, tuổi dậy thì–sinh sản).
+- 80-90% chẩn đoán giai đoạn I, 95% dạng mô học trưởng thành (adult granulosa tumour, sau mãn kinh), 5% dạng thiếu niên (juvenile granulosa tumour, tuổi dậy thì-sinh sản).
 - Triệu chứng: Cường estrogen → tăng sinh nội mạc, xuất huyết bất thường, dậy thì sớm, đôi khi đau do vỡ u.
 
 **U tế bào Sertoli**:
@@ -184,10 +184,10 @@ U mô đệm hoặc từ dây giới bào, đơn thuần hoặc hỗn hợp, chi
 - Thường < 30 tuổi, > 95% tiết estrogen.
 - Gây nam hóa, dễ phát hiện sớm (giai đoạn I).
 
-**U hỗn hợp Sertoli–Leydig (Sertoli-Leydig cell tumour, androblastoma)**:
+**U hỗn hợp Sertoli-Leydig (Sertoli-Leydig cell tumour, androblastoma)**:
 
 - Hiếm, ác tính thấp, phụ thuộc độ biệt hóa.
-- Tiết androgen ở 40–60% bệnh nhân → rậm lông, vú teo, phì đại âm vật, dậy thì sớm, rong huyết.
+- Tiết androgen ở 40-60% bệnh nhân → rậm lông, vú teo, phì đại âm vật, dậy thì sớm, rong huyết.
 - Cận lâm sàng: Testosterone, androstenedione, 17-hydroxy progesterone.
 
 #### U tân sinh di căn đến buồng trứng
@@ -208,12 +208,12 @@ Triệu chứng đa dạng, ít liên quan chức năng buồng trứng, không 
 **Bản chất hóa ác**:
 
 - U buồng trứng không "hóa ác" từ lành; Chỉ bỏ sót u ác tính.
-- Ung thư buồng trứng khó phân biệt lành–ác lâm sàng, hình ảnh, giải phẫu bệnh do tiến triển âm thầm, diễn biến khu trú vài vùng ác tính.
+- Ung thư buồng trứng khó phân biệt lành-ác lâm sàng, hình ảnh, giải phẫu bệnh do tiến triển âm thầm, diễn biến khu trú vài vùng ác tính.
 
 **Xoắn khối u buồng trứng**:
 
 - U di động, tỷ trọng lớn dễ xoắn.
-- Buồng trứng chỉ cố định bằng mạc treo, dây chằng thắt lưng và dây chằng tử cung–buồng trứng, rất lỏng lẻo.
+- Buồng trứng chỉ cố định bằng mạc treo, dây chằng thắt lưng và dây chằng tử cung-buồng trứng, rất lỏng lẻo.
 - Triệu chứng: Đau đột ngột, dữ dội vùng bụng, có thể sốc, thăm khám thấy khối cạnh tử cung rất đau, phúc mạc kích thích gây nôn. Bụng vẫn mềm nếu u không vỡ.
 - Điều trị ngoại khoa khẩn: Bảo tồn buồng trứng nếu tưới máu hồi phục, qua nội soi hoặc mở bụng. Nếu không chắc lành, cắt bỏ trọn phần phụ bị xoắn.
 
@@ -221,4 +221,4 @@ Triệu chứng đa dạng, ít liên quan chức năng buồng trứng, không 
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

@@ -3,7 +3,7 @@ title: Xuất huyết tử cung bất thường trong độ tuổi sinh sản
 description: Định nghĩa, phân loại, tiếp cận chẩn đoán và xử trí xuất huyết tử cung bất thường ở phụ nữ trong độ tuổi sinh sản.
 ---
 
-**Xuất huyết tử cung bất thường (Abnormal uterine bleeding – AUB)** là tình trạng chảy máu từ tử cung nhưng có sự thay đổi khác với chu kỳ kinh bình thường về tính chu kỳ, số ngày hành kinh, lượng máu kinh và/hoặc các triệu chứng đi kèm. AUB thường gặp ở phụ nữ trong độ tuổi sinh sản và có thể ảnh hưởng đến chất lượng cuộc sống, khả năng sinh sản và sức khỏe tổng thể.
+**Xuất huyết tử cung bất thường (Abnormal uterine bleeding - AUB)** là tình trạng chảy máu từ tử cung nhưng có sự thay đổi khác với chu kỳ kinh bình thường về tính chu kỳ, số ngày hành kinh, lượng máu kinh và/hoặc các triệu chứng đi kèm. AUB thường gặp ở phụ nữ trong độ tuổi sinh sản và có thể ảnh hưởng đến chất lượng cuộc sống, khả năng sinh sản và sức khỏe tổng thể.
 
 ## Phân loại
 
@@ -47,8 +47,8 @@ _Bảng "Nguyên nhân không thuộc cấu trúc (COEIN)"._
 
 ## Chẩn đoán
 
-_Hình ảnh "Sơ đồ tiếp cận AUB mạn tính – Bệnh viện Từ Dũ"._
-![Sơ đồ tiếp cận AUB mạn tính – Bệnh viện Từ Dũ.](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
+_Hình ảnh "Sơ đồ tiếp cận AUB mạn tính - Bệnh viện Từ Dũ"._
+![Sơ đồ tiếp cận AUB mạn tính - Bệnh viện Từ Dũ.](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
 
 _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp AUB"._
 ![Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/tom-luoc-khao-sat-va-chan-doan-1-so-truong-hop.jpeg)
@@ -57,7 +57,7 @@ _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của
 
 #### Tiền sử
 
-- **Tiền sử sản khoa – tình dục**: Hoạt động tình dục, phương thức tránh thai (đặc biệt dụng cụ tử cung), đánh giá nguy cơ STI. Tiền sử sảy thai, nong nạo, nạo hút buồng tử cung, chấn thương, can thiệp phụ khoa.
+- **Tiền sử sản khoa - tình dục**: Hoạt động tình dục, phương thức tránh thai (đặc biệt dụng cụ tử cung), đánh giá nguy cơ STI. Tiền sử sảy thai, nong nạo, nạo hút buồng tử cung, chấn thương, can thiệp phụ khoa.
 - **Tiền sử bệnh lý hệ thống và nội tiết**: Bệnh lý đông máu (bản thân, gia đình), đái tháo đường, tăng huyết áp, rối loạn tuyến giáp, hội chứng buồng trứng đa nang (PCOS). Thuốc đang dùng: NSAID, kháng đông (warfarin, heparin...), corticosteroid, thuốc điều trị tuyến giáp, thuốc tránh thai, thuốc nội tiết thay thế, GnRH đồng vận, tamoxifen, SERM, SPRM.
 
 #### Bệnh sử
@@ -72,7 +72,7 @@ _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của
 - **Khám dấu hiệu nội tiết**: Cường androgen (mụn trứng cá, rậm lông, acanthosis nigricans), rối loạn tuyến giáp (bướu cổ, run tay), dấu hiệu Cushing (gầy yếu, vết rạn, mỡ bụng).
 - **Chỉ số BMI**: Thừa cân/ béo phì gợi ý PCOS, kháng insulin.
 - **Quan sát bên ngoài âm hộ, âm đạo** để loại trừ tổn thương viêm nhiễm, loét, u.
-- **Khám âm đạo – cổ tử cung** (nếu bệnh nhân cho phép): Quan sát polyp, viêm cổ tử cung. Nếu chưa quan hệ, chỉ khám ngoài và siêu âm qua thành bụng hoặc đầu dò nhỏ.
+- **Khám âm đạo - cổ tử cung** (nếu bệnh nhân cho phép): Quan sát polyp, viêm cổ tử cung. Nếu chưa quan hệ, chỉ khám ngoài và siêu âm qua thành bụng hoặc đầu dò nhỏ.
 
 ### Cận lâm sàng
 
@@ -94,7 +94,7 @@ _Bảng "Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xu�
 
 **Siêu âm đầu dò âm đạo (TVUS)** là khảo sát hình ảnh đầu tay:
 
-- Đo độ dày nội mạc: < 4–5 mm (đã qua giai đoạn hành kinh, không dùng tamoxifen) được coi là bình thường. ≥ 5 mm cần đánh giá thêm (đặc biệt ≥ 8 mm hoặc có dày không đều nên nghi tăng sinh).
+- Đo độ dày nội mạc: < 4-5 mm (đã qua giai đoạn hành kinh, không dùng tamoxifen) được coi là bình thường. ≥ 5 mm cần đánh giá thêm (đặc biệt ≥ 8 mm hoặc có dày không đều nên nghi tăng sinh).
 - Hình thái nội mạc: Đồng nhất hay không, có polyp, u xơ dưới niêm mạc, hình ảnh _chuỗi hạt_ PCOS (ở tuổi trẻ).
 - Buồng trứng: U nang, u lạc nội mạc, PCOS.
 
@@ -145,19 +145,19 @@ Chỉ định khi SIS hoặc TVUS không xác định rõ tổn thương, hoặc
 - Nếu do rối loạn nội tiết (COEIN-O hoặc E): Điều chỉnh steroid ngoại sinh, cân bằng estrogen-progestogen, cân nhắc GnRH đồng vận, SERM, SPRM.
 - Nếu do rối loạn đông (COEIN-C): Điều trị rối loạn đông, phối hợp với chuyên khoa huyết học.
 
-**Tái lập chu kỳ kinh nguyệt đều đặn**: Duy trì nội tiết tố cân bằng để nội mạc phát triển–phân tiết đều đặn, tránh bong tróc không đều.
+**Tái lập chu kỳ kinh nguyệt đều đặn**: Duy trì nội tiết tố cân bằng để nội mạc phát triển-phân tiết đều đặn, tránh bong tróc không đều.
 
 **Các yếu tố cần cân nhắc**:
 
-- **Tuổi bệnh nhân**: < 35 tuổi ưu tiên điều trị bảo tồn, mong muốn có thai; 35–45 tuổi cân nhắc nguy cơ tăng sinh nội mạc, ung thư nội mạc; > 45 tuổi thăm khám, loại trừ tăng sinh/nội mạc, ung thư, cân nhắc điều trị triệt để (nạo, cắt tử cung).
+- **Tuổi bệnh nhân**: < 35 tuổi ưu tiên điều trị bảo tồn, mong muốn có thai; 35-45 tuổi cân nhắc nguy cơ tăng sinh nội mạc, ung thư nội mạc; > 45 tuổi thăm khám, loại trừ tăng sinh/nội mạc, ung thư, cân nhắc điều trị triệt để (nạo, cắt tử cung).
 - **Mong muốn sinh con**: Nếu bệnh nhân muốn có thai, hạn chế dùng biện pháp triệt phá nội mạc (ablation, cắt tử cung); Nếu không có nhu cầu sinh thêm, có thể chọn liệu pháp xâm lấn tối thiểu hoặc cắt tử cung khi điều trị bảo tồn thất bại.
 
 ### Nội khoa
 
 **Cầm máu cấp bằng steroid sinh dục**:
 
-- **Estrogen đơn thuần** (trường hợp chảy máu nặng, nội mạc rất mỏng): Ethinyl estradiol 2 mg × 4 lần/ngày trong 2–3 ngày, sau đó giảm dần dần; Hoặc estradiol valerate 2–3 mg × 3 lần/ngày.
-- **Estrogen phối hợp progestogen**: Ethinyl estradiol 30 µg + Levonorgestrel 150 µg × 2–3 viên/ngày trong 5–7 ngày, sau đó chuyển sang liều duy trì (1 viên/ngày); Hoặc premarin (estrogen liên hợp) 25 mg/ngày × 5–7 ngày, sau đó bổ sung progestin (medroxyprogesterone acetate 10 mg/ngày × 10–14 ngày).
+- **Estrogen đơn thuần** (trường hợp chảy máu nặng, nội mạc rất mỏng): Ethinyl estradiol 2 mg × 4 lần/ngày trong 2-3 ngày, sau đó giảm dần dần; Hoặc estradiol valerate 2-3 mg × 3 lần/ngày.
+- **Estrogen phối hợp progestogen**: Ethinyl estradiol 30 µg + Levonorgestrel 150 µg × 2-3 viên/ngày trong 5-7 ngày, sau đó chuyển sang liều duy trì (1 viên/ngày); Hoặc premarin (estrogen liên hợp) 25 mg/ngày × 5-7 ngày, sau đó bổ sung progestin (medroxyprogesterone acetate 10 mg/ngày × 10-14 ngày).
 
 :::caution
 Estrogen cần được cho đủ liều để nội mạc phát triển nhanh nhằm bít kín mạch máu hở. Không nên tăng liều quá mức, vì tác dụng genomic cần thời gian và liều quá cao tăng nguy cơ huyết khối.
@@ -165,16 +165,16 @@ Estrogen cần được cho đủ liều để nội mạc phát triển nhanh n
 
 **Cầm máu cấp bằng hỗ trợ không chuyên biệt**:
 
-- **NSAID** (giảm prostaglandin, co mạch nhẹ): Ibuprofen 400–600 mg × 3 lần/ngày, hoặc naproxen 500 mg × 2 lần/ngày, dùng trong 3–5 ngày đầu chảy máu.
-- **Anti-fibrinolytics**: Tranexamic acid 1 g × 3–4 lần/ngày khi còn chảy máu, tối đa 4–5 ngày; Giúp giảm thể tích máu mất khoảng 30–50%.
+- **NSAID** (giảm prostaglandin, co mạch nhẹ): Ibuprofen 400-600 mg × 3 lần/ngày, hoặc naproxen 500 mg × 2 lần/ngày, dùng trong 3-5 ngày đầu chảy máu.
+- **Anti-fibrinolytics**: Tranexamic acid 1 g × 3-4 lần/ngày khi còn chảy máu, tối đa 4-5 ngày; Giúp giảm thể tích máu mất khoảng 30-50%.
 
 **Xử trí nguyên nhân nội tiết**:
 
-- **Progestogen đơn thuần** (đối với rối loạn phóng noãn hoặc nội mạc suy yếu): Medroxyprogesterone acetate 10–20 mg/ngày (ngày 14–25 chu kỳ hoặc 10–14 ngày mỗi tháng); Hoặc Dydrogesterone 10 mg × 2 lần/ngày (ngày 14–25 chu kỳ); Hoặc Levonorgestrel IUD (LNG-IUD) phóng thích 20 µg/ngày cầm máu hiệu quả cao trong cầm máu AUB do nguyên nhân nội mạc, u xơ dưới niêm mạc nhỏ, PCOS. Dùng dài hạn (5 năm), đồng thời bảo vệ nội mạc khỏi tăng sinh do estrogen ngoại sinh.
-- **Liệu pháp phối hợp estrogen – progestogen (COC)**: Ethinyl estradiol 30 µg + Levonorgestrel 150 µg: Dùng hàng ngày trong 21 ngày, nghỉ 7 ngày; Có thể chỉ định liên tục (28 ngày liền) nếu cần ổn định nội mạc nhanh.
+- **Progestogen đơn thuần** (đối với rối loạn phóng noãn hoặc nội mạc suy yếu): Medroxyprogesterone acetate 10-20 mg/ngày (ngày 14-25 chu kỳ hoặc 10-14 ngày mỗi tháng); Hoặc Dydrogesterone 10 mg × 2 lần/ngày (ngày 14-25 chu kỳ); Hoặc Levonorgestrel IUD (LNG-IUD) phóng thích 20 µg/ngày cầm máu hiệu quả cao trong cầm máu AUB do nguyên nhân nội mạc, u xơ dưới niêm mạc nhỏ, PCOS. Dùng dài hạn (5 năm), đồng thời bảo vệ nội mạc khỏi tăng sinh do estrogen ngoại sinh.
+- **Liệu pháp phối hợp estrogen - progestogen (COC)**: Ethinyl estradiol 30 µg + Levonorgestrel 150 µg: Dùng hàng ngày trong 21 ngày, nghỉ 7 ngày; Có thể chỉ định liên tục (28 ngày liền) nếu cần ổn định nội mạc nhanh.
 - **GnRH đồng vận (GnRH agonist)**: Leuprolide 3.75 mg tiêm bắp mỗi tháng hoặc 11.25 mg mỗi 3 tháng. Tạo _cắt tuyến yên nội khoa_, giảm sản xuất estrogen từ buồng trứng. Chỉ định ngắn hạn (6 tháng), thường kết hợp add-back therapy (estrogen/progestin liều thấp) để giảm triệu chứng mãn kinh.
-- **Selective Estrogen Receptor Modulator (SERM)**: Clomiphene citrate 50–100 mg/ngày (ngày 5–9 chu kỳ) để kích phóng noãn ở trường hợp PCOS; Hoặc Raloxifene không thường dùng cho AUB nhưng có thể tác động đến nội mạc.
-- **Selective Progesterone Receptor Modulator (SPRM)**: Ulipristal acetate 5 mg/ngày trong 3 tháng (dành cho u xơ tử cung) hoặc mifepristone liều thấp (5–10 mg/ngày). Giảm kích thước u xơ, giảm xuất huyết, ổn định nội mạc.
+- **Selective Estrogen Receptor Modulator (SERM)**: Clomiphene citrate 50-100 mg/ngày (ngày 5-9 chu kỳ) để kích phóng noãn ở trường hợp PCOS; Hoặc Raloxifene không thường dùng cho AUB nhưng có thể tác động đến nội mạc.
+- **Selective Progesterone Receptor Modulator (SPRM)**: Ulipristal acetate 5 mg/ngày trong 3 tháng (dành cho u xơ tử cung) hoặc mifepristone liều thấp (5-10 mg/ngày). Giảm kích thước u xơ, giảm xuất huyết, ổn định nội mạc.
 
 ### Ngoại khoa
 
@@ -188,9 +188,9 @@ Estrogen cần được cho đủ liều để nội mạc phát triển nhanh n
 
 - Dùng các phương pháp: Sóng vi sóng, laser, năng lượng radio, thòng lọng điện (resectoscope) để tiêu hủy lớp nội mạc tận gốc.
 - Chỉ định cho phụ nữ đã đủ con và muốn điều trị triệt để AUB cơ năng hoặc tăng sinh nội mạc nhẹ.
-- Hạn chế: Không áp dụng khi nghi ngờ hoặc đã chẩn đoán tăng sinh nội mạc nặng, loạn sản hoặc ung thư; Không dành cho người có u xơ lớn > 3–4 cm (ngoại trừ u xơ dưới niêm mạc nhỏ đã cắt hết).
+- Hạn chế: Không áp dụng khi nghi ngờ hoặc đã chẩn đoán tăng sinh nội mạc nặng, loạn sản hoặc ung thư; Không dành cho người có u xơ lớn > 3-4 cm (ngoại trừ u xơ dưới niêm mạc nhỏ đã cắt hết).
 
-**Thuyên tắc động mạch tử cung (Uterine artery embolization – UAE)**:
+**Thuyên tắc động mạch tử cung (Uterine artery embolization - UAE)**:
 
 - Chỉ định chủ yếu cho u xơ tử cung gây chảy máu nặng, không muốn phẫu thuật, hoặc nguy cơ phẫu thuật cao.
 - Phương pháp: Bít tắc động mạch cung cấp máu cho cơ tử cung, làm khối u xơ teo nhỏ, giảm chảy máu.
@@ -206,8 +206,8 @@ Thuyên tắc động mạch tử cung có thể coi là biện pháp tương đ
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
-- FIGO (2018) – _PALM-COEIN Classification of Causes of Abnormal Uterine Bleeding_
-- UpToDate (2024) – _Abnormal uterine bleeding in reproductive-aged women (truy cập tháng 5/2025)_
-- ACOG Practice Bulletin No. 128 (2021) – _Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- FIGO (2018) - _PALM-COEIN Classification of Causes of Abnormal Uterine Bleeding_
+- UpToDate (2024) - _Abnormal uterine bleeding in reproductive-aged women (truy cập tháng 5/2025)_
+- ACOG Practice Bulletin No. 128 (2021) - _Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women_

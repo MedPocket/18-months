@@ -25,7 +25,7 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 
 - Nhân xơ **đoạn dưới tử cung** có nguy cơ bế sản dịch, viêm nội mạc sau mổ.
 - Nhân xơ **gần đường rạch** cơ tử cung, gây khó khâu vết mổ.
-- Nhân xơ **dưới thanh mạc có cuống** (FIGO 5–7), bóc dễ, không làm tăng đáng kể chảy máu.
+- Nhân xơ **dưới thanh mạc có cuống** (FIGO 5-7), bóc dễ, không làm tăng đáng kể chảy máu.
 
 **Theo dõi sau phẫu thuật**: Phụ nữ từng bóc u đoạn dưới có thể **sinh thường** các lần sau, nhưng phải theo dõi sát cơn chuyển dạ và vết mổ cũ.
 
@@ -34,9 +34,9 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 _Bảng "Phẫu thuật u xơ tử cung"._
 | Vị trí u xơ (FIGO) | Kích thước | Khuyến nghị can thiệp trước ART |
 | --------------------------------- | ---------- | ------------------------------------------------------------------- |
-| **L0–L2 (dưới niêm mạc)** | > 3 cm | Nội soi buồng tử cung bóc u xơ trước ART |
-| **L0–L2** | ≤ 3 cm | Có thể chuyển ART ngay nếu không biến dạng |
-| **L3–L5 (trong cơ)** | — | Nếu sảy thai liên tiếp hoặc thất bại chu kỳ ICSI: Cân nhắc bóc u xơ |
+| **L0-L2 (dưới niêm mạc)** | > 3 cm | Nội soi buồng tử cung bóc u xơ trước ART |
+| **L0-L2** | ≤ 3 cm | Có thể chuyển ART ngay nếu không biến dạng |
+| **L3-L5 (trong cơ)** | — | Nếu sảy thai liên tiếp hoặc thất bại chu kỳ ICSI: Cân nhắc bóc u xơ |
 | **L6 (kẹt giữa cơ và thanh mạc)** | — | Ít ảnh hưởng → ưu tiên ART trước nếu tuổi > 35 |
 
 :::caution
@@ -49,5 +49,5 @@ Trước can thiệp, bệnh nhân phải được tư vấn về nguy cơ dính
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

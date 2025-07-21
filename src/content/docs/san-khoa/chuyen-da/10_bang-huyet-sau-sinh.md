@@ -3,7 +3,7 @@ title: Băng huyết sau sinh
 description: Chẩn đoán, điều trị băng huyết sau sinh.
 ---
 
-**Băng huyết sau sinh (Postpartum hemorrhage – PPH)** là nguyên nhân hàng đầu gây tử vong mẹ, chiếm trung bình 140,000 ca tử vong mỗi năm toàn cầu (1 ca/4 phút), với > 50% xảy ra trong 24 giờ đầu sau sinh. PPH cũng dẫn tới suy hô hấp, rối loạn đông cầm máu, sốc, mất khả năng sinh sản, hoại tử tuyến yên...
+**Băng huyết sau sinh (Postpartum hemorrhage - PPH)** là nguyên nhân hàng đầu gây tử vong mẹ, chiếm trung bình 140,000 ca tử vong mỗi năm toàn cầu (1 ca/4 phút), với > 50% xảy ra trong 24 giờ đầu sau sinh. PPH cũng dẫn tới suy hô hấp, rối loạn đông cầm máu, sốc, mất khả năng sinh sản, hoại tử tuyến yên...
 
 ## Chẩn đoán
 
@@ -26,10 +26,10 @@ Chảy máu ≥ 500 mL trong 24 giờ đầu sau sổ thai, từ bất kỳ vị
 
 ## Nguyên nhân (4T)
 
-1. **Tone** – Đờ tử cung (80%).
-2. **Tissue** – Sót rau hoặc rau bám bất thường.
-3. **Trauma** – Tổn thương đường sinh dục (rách tầng sinh môn, cổ tử cung, âm đạo).
-4. **Thrombin** – Rối loạn đông máu (có sẵn hoặc mắc mới).
+1. **Tone** - Đờ tử cung (80%).
+2. **Tissue** - Sót rau hoặc rau bám bất thường.
+3. **Trauma** - Tổn thương đường sinh dục (rách tầng sinh môn, cổ tử cung, âm đạo).
+4. **Thrombin** - Rối loạn đông máu (có sẵn hoặc mắc mới).
 
 ### Đờ tử cung
 
@@ -100,4 +100,4 @@ _Lộn tử cung và kỹ thuật đưa tử cung về bình thường._
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

@@ -19,7 +19,7 @@ Tiếp theo đó:
 - Tuần thứ 2: Rau nguyên phát hình thành khi các tiểu động mạch và tĩnh mạch của niêm mạc tử cung bị xói mòn do sự phát triển của lá nuôi hợp bào. Máu mẹ chảy vào các khoảng trống trong lá nuôi hợp bào.
 - Cuối tuần thứ 2: Các cột lá nuôi tế bào xâm nhập vào các tua hình ngón tay của lá nuôi hợp bào, tạo ra nhung mao đệm nguyên phát (gai rau bậc 1).
 - Tuần thứ 3: Trung mô ngoài phôi phát triển vào gai rau bậc 1, hình thành gai rau bậc 2.
-- Cuối tuần thứ 3: Trung mô biệt hóa tạo mạch máu trong gai rau, thiết lập kết nối với hệ mạch máu của dây rốn và phôi, tạo nên gai rau bậc 3 – là gai rau hoàn chỉnh, đảm nhận chức năng trao đổi chất.
+- Cuối tuần thứ 3: Trung mô biệt hóa tạo mạch máu trong gai rau, thiết lập kết nối với hệ mạch máu của dây rốn và phôi, tạo nên gai rau bậc 3 - là gai rau hoàn chỉnh, đảm nhận chức năng trao đổi chất.
 
 ### Từ phía mẹ
 
@@ -32,7 +32,7 @@ Nội mạc tử cung của mẹ, còn gọi là màng rụng, chia thành 3 ph�
 **Biến đổi của màng rụng rau**:
 
 - Lá nuôi hợp bào làm xói mòn mô màng rụng rau → tạo khoảng gian gai rau kích thước không đều.
-- Các vách rau còn lại nhô vào khoang gai rau → chia thành nhiều khoang, mỗi khoang chứa một múi rau gồm vài gai rau gốc. Một bánh rau có khoảng 10–38 múi.
+- Các vách rau còn lại nhô vào khoang gai rau → chia thành nhiều khoang, mỗi khoang chứa một múi rau gồm vài gai rau gốc. Một bánh rau có khoảng 10-38 múi.
 - Nhung mao bám vào đĩa đáy hoặc vách rau giúp neo giữ phần rau của mẹ và con.
 
 **Biến đổi của màng rụng tử cung**:
@@ -81,4 +81,4 @@ Một số rối loạn thường gặp trong lâm sàng:
 
 ## Tài liệu tham khảo
 
-- Vinmec – [_Quá trình hình thành rau thai?_](https://www.vinmec.com/vi/bai-viet/qua-trinh-hinh-thanh-rau-thai)
+- Vinmec - [_Quá trình hình thành rau thai?_](https://www.vinmec.com/vi/bai-viet/qua-trinh-hinh-thanh-rau-thai)

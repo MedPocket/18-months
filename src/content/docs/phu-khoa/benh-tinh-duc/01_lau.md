@@ -12,13 +12,13 @@ _Hình ảnh "N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thư
 
 ### Lâm sàng
 
-**Thời gian ủ bệnh** nam giới ước tính 3–5 ngày (có thể sớm 2 ngày hoặc kéo dài đến 7 ngày) và nữ giới thường 5–7 ngày, đôi khi kéo dài đến 14 ngày. Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng vẫn có khả năng lây truyền.
+**Thời gian ủ bệnh** nam giới ước tính 3-5 ngày (có thể sớm 2 ngày hoặc kéo dài đến 7 ngày) và nữ giới thường 5-7 ngày, đôi khi kéo dài đến 14 ngày. Trong giai đoạn ủ bệnh, bệnh nhân không có triệu chứng nhưng vẫn có khả năng lây truyền.
 
 #### Không biến chứng
 
 **Nam giới**:
 
-- Tiết dịch niệu đạo: Ban đầu nhầy trắng, sau 2–3 ngày có thể chuyển thành mủ vàng xen lẫn mủ xanh.
+- Tiết dịch niệu đạo: Ban đầu nhầy trắng, sau 2-3 ngày có thể chuyển thành mủ vàng xen lẫn mủ xanh.
 - Tiểu buốt, tiểu khó, có cảm giác nóng rát dọc niệu đạo.
 - Khám niệu đạo có thể thấy đầu niệu đạo đỏ, phù nề và có mủ chảy ra khi bóp nhẹ.
 
@@ -58,7 +58,7 @@ _Hình ảnh "Lậu hầu họng"._
 - Viêm nội mạc tử cung: Nhẹ triệu chứng nhưng ảnh hưởng niêm mạc tử cung.
 - Mang thai: Tăng nguy cơ sinh non, vỡ ối non, thai nhi nhẹ cân.<br>
 
-**Trẻ sơ sinh** (lây nhiễm qua đường sinh dục khi mẹ nhiễm lậu): Viêm kết mạc mắt khởi phát 2–5 ngày sau sinh, chảy mủ mắt, sưng mí, nếu không điều trị có thể dẫn đến loét giác mạc, sẹo và mù loà.
+**Trẻ sơ sinh** (lây nhiễm qua đường sinh dục khi mẹ nhiễm lậu): Viêm kết mạc mắt khởi phát 2-5 ngày sau sinh, chảy mủ mắt, sưng mí, nếu không điều trị có thể dẫn đến loét giác mạc, sẹo và mù loà.
 
 ### Cận lâm sàng
 
@@ -68,23 +68,23 @@ _Hình ảnh "Lậu hầu họng"._
 
 **Kỹ thuật**: Lấy bệnh phẩm dịch niệu đạo (nam) hoặc dịch cổ tử cung (nữ), nhuộm Gram, quan sát song cầu Gram âm nằm trong bạch cầu đa nhân trung tính (PMN).
 
-**Độ nhạy**: Nam có triệu chứng: 95%. Nam không triệu chứng: 50–70%. Nữ: 30–50% (kém nhạy hơn, thường dùng để loại trừ, vẫn cần xét nghiệm bổ sung nếu âm tính). Nếu nhuộm Gram dương tính ở nam giới có triệu chứng, có thể chẩn đoán lậu ngay. Nếu âm tính hoặc ở nữ, cần kết hợp thêm xét nghiệm khác.
+**Độ nhạy**: Nam có triệu chứng: 95%. Nam không triệu chứng: 50-70%. Nữ: 30-50% (kém nhạy hơn, thường dùng để loại trừ, vẫn cần xét nghiệm bổ sung nếu âm tính). Nếu nhuộm Gram dương tính ở nam giới có triệu chứng, có thể chẩn đoán lậu ngay. Nếu âm tính hoặc ở nữ, cần kết hợp thêm xét nghiệm khác.
 
 #### Nuôi cấy
 
 **Môi trường Thayer-Martin** bổ sung vancomycin (ức chế vi khuẩn Gram dương), colistin, nystatin (ức chế nấm), trimethoprim (ức chế Proteus).
 
-**Độ nhạy**: 85–95% (niệu đạo, cổ tử cung); Thấp hơn ở hầu họng và trực tràng (50–70%).
+**Độ nhạy**: 85-95% (niệu đạo, cổ tử cung); Thấp hơn ở hầu họng và trực tràng (50-70%).
 
 **Ưu điểm**: Là tiêu chuẩn vàng để chẩn đoán. Cho phép làm kháng sinh đồ (phải thiết để theo dõi kháng thuốc).
 
-**Hạn chế**: Cần điều kiện phòng xét nghiệm chuyên sâu, kỹ thuật viên có kỹ năng. Thời gian có kết quả: 2–5 ngày.
+**Hạn chế**: Cần điều kiện phòng xét nghiệm chuyên sâu, kỹ thuật viên có kỹ năng. Thời gian có kết quả: 2-5 ngày.
 
 #### Xét nghiệm khuếch đại acid nucleic (NAATs)
 
 **Cơ chế**: Phát hiện DNA hoặc RNA của _N. gonorrhoeae_ trên nhiều loại bệnh phẩm: nước tiểu, dịch niệu đạo, dịch cổ tử cung, mẫu hầu họng, mẫu trực tràng.
 
-**Độ nhạy/độ đặc hiệu**: > 90–95%. Cao hơn nuôi cấy, đặc biệt ở mẫu không phải niệu đạo.
+**Độ nhạy/độ đặc hiệu**: > 90-95%. Cao hơn nuôi cấy, đặc biệt ở mẫu không phải niệu đạo.
 
 **Ưu điểm**: Kết quả nhanh (vài giờ đến 1 ngày). Có thể sàng lọc người không triệu chứng (nữ, quan hệ bằng miệng, hậu môn).
 
@@ -104,7 +104,7 @@ Tại cơ sở không đủ điều kiện xét nghiệm, có thể chẩn đoá
 - _Ureaplasma urealyticum_/_Mycoplasma genitalium_: Ít triệu chứng, tiểu buốt, chẩn đoán bằng PCR chuyên biệt.
 - Viêm niệu đạo không do nhiễm trùng (viêm do chấn thương, kích ứng hóa chất).
 
-**Lậu hậu môn – trực tràng**: _Chlamydia trachomatis_, _Treponema pallidum_ (giang mai), _Herpes simplex virus_ (HSV), _Candida_ cần soi, nuôi cấy, NAATs đặc hiệu.
+**Lậu hậu môn - trực tràng**: _Chlamydia trachomatis_, _Treponema pallidum_ (giang mai), _Herpes simplex virus_ (HSV), _Candida_ cần soi, nuôi cấy, NAATs đặc hiệu.
 
 **Lậu hầu họng**: _Streptococcus nhóm A_ (viêm họng liên cầu), _Mycoplasma pneumoniae_, _Chlamydia pneumoniae_, virus đường hô hấp.
 
@@ -126,7 +126,7 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
 
 ### Phác đồ
 
-#### Lậu sinh dục và hậu môn – trực tràng
+#### Lậu sinh dục và hậu môn - trực tràng
 
 **Ưu tiên** (dựa vào kháng sinh đồ nếu có):
 
@@ -152,7 +152,7 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
 
 **Kết hợp**: **Azithromycin 1 g uống liều duy nhất** để điều trị đồng nhiễm Chlamydia.
 
-**Theo dõi**: Tái khám sau 7–14 ngày để kiểm tra bằng nuôi cấy hoặc NAATs (lưu ý dương tính giả do tồn dư acid nucleic). Nếu NAAT (+), làm nuôi cấy để khẳng định kháng thuốc trước khi điều trị lại.
+**Theo dõi**: Tái khám sau 7-14 ngày để kiểm tra bằng nuôi cấy hoặc NAATs (lưu ý dương tính giả do tồn dư acid nucleic). Nếu NAAT (+), làm nuôi cấy để khẳng định kháng thuốc trước khi điều trị lại.
 
 #### Lậu mắt ở trẻ sơ sinh
 
@@ -192,7 +192,7 @@ Tránh chạm mắt khi tra thuốc. Không dùng Povidon Iod dung môi cồn do
 
 **Xác định thất bại điều trị khi**:
 
-- **Triệu chứng không cải thiện** sau 3–5 ngày điều trị, không có quan hệ tình dục trở lại.
+- **Triệu chứng không cải thiện** sau 3-5 ngày điều trị, không có quan hệ tình dục trở lại.
 - **Nuôi cấy dương tính** sau ≥ 3 ngày điều trị hoặc **NAAT (+)** sau ≥ 7 ngày điều trị, không quan hệ tình dục.
 - **Kháng sinh đồ** cho thấy giảm nhạy cảm với cephalosporin, dù có quan hệ tình dục lại hay không.
 
@@ -212,8 +212,8 @@ Tránh chạm mắt khi tra thuốc. Không dùng Povidon Iod dung môi cồn do
 ### Theo dõi sau điều trị
 
 - **Tái khám 3 tháng**: Tất cả trường hợp nhiễm lậu sinh dục hoặc trực tràng không biến chứng nên làm NAAT sau 3 tháng kể từ khi điều trị để phát hiện tái nhiễm, kể cả khi không còn triệu chứng.
-- **Nếu không thể tái khám sau 3 tháng**: Có thể xét nghiệm lại bất kỳ lúc nào trong 3–12 tháng sau điều trị đầu tiên.
-- **Nhiễm lậu hầu họng**: Tái khám sau 7–14 ngày để kiểm tra bằng nuôi cấy hoặc NAAT; Lưu ý NAAT sau 7 ngày có thể dương tính giả do mảnh gien còn tồn tại, nên ưu tiên nuôi cấy để khẳng định.
+- **Nếu không thể tái khám sau 3 tháng**: Có thể xét nghiệm lại bất kỳ lúc nào trong 3-12 tháng sau điều trị đầu tiên.
+- **Nhiễm lậu hầu họng**: Tái khám sau 7-14 ngày để kiểm tra bằng nuôi cấy hoặc NAAT; Lưu ý NAAT sau 7 ngày có thể dương tính giả do mảnh gien còn tồn tại, nên ưu tiên nuôi cấy để khẳng định.
 - **Viêm niệu đạo, viêm cổ tử cung hoặc viêm trực tràng dai dẳng**: Xem xét nguyên nhân khác (ví dụ: **Mycoplasma genitalium**, **Ureaplasma urealyticum**, **HSV**), làm xét nghiệm bổ sung khi cần.
 
 ## Phòng bệnh
@@ -226,5 +226,5 @@ Tránh chạm mắt khi tra thuốc. Không dùng Povidon Iod dung môi cồn do
 
 ## Tài liệu tham khảo
 
-- BỘ Y TẾ (2021) – _Hành hướng dẫn chẩn đoán và điều trị bệnh lậu_
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- BỘ Y TẾ (2021) - _Hành hướng dẫn chẩn đoán và điều trị bệnh lậu_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

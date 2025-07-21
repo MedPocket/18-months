@@ -8,9 +8,9 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 ## Nguyên tắc
 
 - **Cung cấp đủ năng lượng** cho mẹ và thai nhi, không quá thừa để tránh tăng cân quá mức.
-- **Phân bố đa dạng chất** theo tỉ lệ năng lượng: Glucid 45–55%; Protein 15–20%; Lipid 25–35%.
+- **Phân bố đa dạng chất** theo tỉ lệ năng lượng: Glucid 45-55%; Protein 15-20%; Lipid 25-35%.
 - **Chọn thức ăn** ưu tiên chỉ số đường huyết thấp/trung bình, giàu chất xơ và vi chất.
-- **Chia bữa ăn** nhỏ, 3 bữa chính + 2–3 bữa phụ để ổn định glucose huyết.
+- **Chia bữa ăn** nhỏ, 3 bữa chính + 2-3 bữa phụ để ổn định glucose huyết.
 
 ## Thai phụ có nguy cơ cao (chưa GDM)
 
@@ -18,9 +18,9 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 
 **Chế độ ăn tiết chế**:
 
-- Glucid chiếm 55–60% tổng năng lượng, ưu tiên ngũ cốc nguyên hạt, gạo lứt.
-- Ăn ≥ 400 g rau củ/ngày, 15–20 loại thực phẩm khác nhau.
-- Ăn nhiều bữa nhỏ: Mỗi bữa chính 25–30% năng lượng, bữa phụ 10%.
+- Glucid chiếm 55-60% tổng năng lượng, ưu tiên ngũ cốc nguyên hạt, gạo lứt.
+- Ăn ≥ 400 g rau củ/ngày, 15-20 loại thực phẩm khác nhau.
+- Ăn nhiều bữa nhỏ: Mỗi bữa chính 25-30% năng lượng, bữa phụ 10%.
 - Hạn chế thực phẩm GI > 70 (bánh kẹo, trái cây sấy, nước ngọt).
 - Tăng cường protein nạc: Thịt nạc, cá, đậu phụ, sữa chua ít béo.
 - Hạn chế muối (< 5 g/ngày; Ưu tiên muối iốt), rượu bia, thuốc lá.
@@ -30,10 +30,10 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 _Bảng "Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)"._
 | BMI trước khi mang thai | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
 | --------------------------------------------------- | ------------- | ------------------------------------------------------------------------ |
-| **Thiếu năng lượng trường diễn (BMI < 18.5 kg/m²)** | 12.5–18 | 0.51 (0.44–0.58) |
-| **Bình thường (BMI 18.5–22.9 kg/m²)** | 11.5–16 | 0.42 (0.35–0.50) |
-| **Thừa cân (BMI 23.0–24.9 kg/m²)** | 7–11.5 | 0.28 (0.23–0.33) |
-| **Béo phì (BMI > 24.9 kg/m²)** | 5–9 | 0.22 (0.17–0.27) |
+| **Thiếu năng lượng trường diễn (BMI < 18.5 kg/m²)** | 12.5-18 | 0.51 (0.44-0.58) |
+| **Bình thường (BMI 18.5-22.9 kg/m²)** | 11.5-16 | 0.42 (0.35-0.50) |
+| **Thừa cân (BMI 23.0-24.9 kg/m²)** | 7-11.5 | 0.28 (0.23-0.33) |
+| **Béo phì (BMI > 24.9 kg/m²)** | 5-9 | 0.22 (0.17-0.27) |
 
 **Hoạt động thể chất**:
 
@@ -45,24 +45,24 @@ _Bảng "Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châ
 
 **Năng lượng** tính theo cân nặng trước thai kỳ:
 
-- Thiếu cân: 35–40 kcal/kg/ngày.
-- Bình thường: 30–35 kcal/kg/ngày.
-- Thừa cân/béo phì: 20–30 kcal/kg/ngày (không < 1600 kcal/ngày).
+- Thiếu cân: 35-40 kcal/kg/ngày.
+- Bình thường: 30-35 kcal/kg/ngày.
+- Thừa cân/béo phì: 20-30 kcal/kg/ngày (không < 1600 kcal/ngày).
 
 **Glucid, protein và lipid**:
 
 _Bảng "Phân bố glucid, protein và lipid"._
 | Nhóm chất | Tỉ lệ năng lượng | Ghi chú |
 | ----------- | ---------------- | --------------------------------------------------------- |
-| **Glucid** | 35–40% | ≥ 175 g/ngày; Chia 3 bữa chính + 2–3 phụ; Ưu tiên GI thấp |
-| **Protein** | 20–25% | ≥ 1.1 g/kg/ngày; Động – thực vật ≥ 35% động vật |
-| **Lipid** | 30–35% | ≤ 60% mỡ động vật; Tăng dầu thực vật, cá béo (omega-3) |
+| **Glucid** | 35-40% | ≥ 175 g/ngày; Chia 3 bữa chính + 2-3 phụ; Ưu tiên GI thấp |
+| **Protein** | 20-25% | ≥ 1.1 g/kg/ngày; Động - thực vật ≥ 35% động vật |
+| **Lipid** | 30-35% | ≤ 60% mỡ động vật; Tăng dầu thực vật, cá béo (omega-3) |
 
 **Chất xơ và vi chất**:
 
 - Chất xơ ≥ 28 g/ngày (rau củ quả ≥ 400 g/ngày).
 - Canxi, sắt, acid folic, vitamin D... theo khuyến nghị.
-- Sữa/chế phẩm ít béo: 3–6 đơn vị IU/ngày tuỳ tam cá nguyệt.
+- Sữa/chế phẩm ít béo: 3-6 đơn vị IU/ngày tuỳ tam cá nguyệt.
 
 **Phân bố bữa ăn mẫu**:
 
@@ -86,13 +86,13 @@ _Bảng "Phân bố bữa ăn"._
 
 **Ghi sổ**: Kết quả đường huyết mao mạch (lúc đói, 1 giờ sau ăn).
 
-**Đánh giá sau 1–2 tuần** MNT:
+**Đánh giá sau 1-2 tuần** MNT:
 
 - ≥ 50% giá trị đạt mục tiêu → tiếp tục MNT và vận động.
 - < 50% → cân nhắc bắt đầu insulin.
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế (2023) – _Hướng dẫn quốc gia về sàng lọc và quản lý Đái tháo đường thai kỳ_
-- ADA (2024) – _Standards of Medical Care in Diabetes – Pregnancy Section_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Bộ Y tế (2023) - _Hướng dẫn quốc gia về sàng lọc và quản lý Đái tháo đường thai kỳ_
+- ADA (2024) - _Standards of Medical Care in Diabetes - Pregnancy Section_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

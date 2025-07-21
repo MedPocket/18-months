@@ -22,7 +22,7 @@ description: Chửa ở vết mổ lấy thai (còn gọi là thai làm tổ ở
 ### Lâm sàng
 
 - **Triệu chứng không đặc hiệu**, khoảng 50% trường hợp không có biểu hiện rõ, phát hiện qua siêu âm.
-- **Tam chứng kinh điển**: Trễ kinh. Ra máu âm đạo bất thường (33–44%). Đau bụng (25%).
+- **Tam chứng kinh điển**: Trễ kinh. Ra máu âm đạo bất thường (33-44%). Đau bụng (25%).
 
 ### Cận lâm sàng
 
@@ -30,7 +30,7 @@ description: Chửa ở vết mổ lấy thai (còn gọi là thai làm tổ ở
 
 - Siêu âm qua đường âm đạo kết hợp Doppler.
 - Túi thai nằm giữa bàng quang và phần trước đoạn eo tử cung.
-- Lớp cơ giữa túi thai và bàng quang mỏng (1–3 mm) hoặc không thấy.
+- Lớp cơ giữa túi thai và bàng quang mỏng (1-3 mm) hoặc không thấy.
 - Không thấy túi thai trong buồng tử cung hay cổ tử cung.
 - Siêu âm Doppler 3D: Hình ảnh phình mạch máu quanh túi thai, mất liên tục vách trước cơ tử cung.
 
@@ -43,7 +43,7 @@ description: Chửa ở vết mổ lấy thai (còn gọi là thai làm tổ ở
 
 - Thai trong buồng tử cung.
 - Sảy thai không hoàn toàn (thai tụt qua sẹo).
-- Thai ở cổ tử cung (phân biệt bằng siêu âm màu – không có mạch máu quanh khối).
+- Thai ở cổ tử cung (phân biệt bằng siêu âm màu - không có mạch máu quanh khối).
 - U nguyên bào nuôi.
 
 ## Phân loại
@@ -77,7 +77,7 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"._
 
 - Thai lưu ≤ 8 tuần, β-hCG tăng → MTX 50mg tiêm bắp.
 - Thai chưa có tim: Hút phôi dưới siêu âm, tiêm MTX tại chỗ và bắp (25mg + 25mg).
-- Thai có tim: Hút mô tim thai (nếu > 9 tuần). Tiêm MTX hoặc KCl vào tim + tiêm MTX quanh bánh rau → kiểm tra sau 60–90 phút. Tổng liều MTX: 75mg.
+- Thai có tim: Hút mô tim thai (nếu > 9 tuần). Tiêm MTX hoặc KCl vào tim + tiêm MTX quanh bánh rau → kiểm tra sau 60-90 phút. Tổng liều MTX: 75mg.
 
 **Theo dõi sau điều trị**:
 
@@ -105,9 +105,9 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"._
 
 **Kỹ thuật**:
 
-- Dùng ống hút nhỏ (Karman 6–8), hút nhẹ vùng trên vết mổ.
+- Dùng ống hút nhỏ (Karman 6-8), hút nhẹ vùng trên vết mổ.
 - Tránh hút vùng mỏng vết mổ để hạn chế thủng tử cung.
-- Nếu chảy máu: Đặt bóng chèn 12–24 giờ.
+- Nếu chảy máu: Đặt bóng chèn 12-24 giờ.
 
 #### Đặt foley & hút thai
 
@@ -115,7 +115,7 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"._
 
 **Kỹ thuật**:
 
-- Đặt foley 14–16 dưới siêu âm, bơm 20–25mL để đẩy túi thai.
+- Đặt foley 14-16 dưới siêu âm, bơm 20-25mL để đẩy túi thai.
 - Rút sau 24 giờ → hút thai bằng Karman 6.
 - Dùng oxytocin, misoprostol hậu môn, kháng sinh sau thủ thuật.
 - Theo dõi tương tự điều trị MTX.
@@ -152,15 +152,15 @@ _Bảng "Tỷ lệ tai biến các phương pháp điều trị tahi ở sẹo m
 | **Soi buồng tử cung** | 18.4 |
 | **MTX tại chỗ/toàn thân** | 9.7 |
 
-_Hình ảnh "Phác đồ điều trị thai ở sẹo mổ lấy thai – Bệnh viện Từ Dũ"._
+_Hình ảnh "Phác đồ điều trị thai ở sẹo mổ lấy thai - Bệnh viện Từ Dũ"._
 ![Phác đồ điều trị thai ở sẹo mổ lấy thai - Bệnh viện Từ Dũ](./_images/chua-vet-mo-lay-thai/phac-do-xu-tri-thai-o-seo-mo-lay-thai.jpg)
 
 ## Thai kỳ sau
 
-- Tránh thai ít nhất 12–24 tháng.
+- Tránh thai ít nhất 12-24 tháng.
 - Không sử dụng dụng cụ tử cung.
 - Thai kỳ sau: Chủ động mổ lấy thai khi đủ tháng.
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

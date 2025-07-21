@@ -49,7 +49,7 @@ Tình trạng này chỉ được xác định rõ trong quá trình chuyển d�
 
 Cơn co tử cung quá mạnh và dồn dập làm giảm lưu lượng máu tử cung-rau, gây suy thai do thiếu O₂ và toan hóa máu.
 
-#### Hội chứng vượt trở ngại – Dọa vỡ tử cung – Vỡ tử cung
+#### Hội chứng vượt trở ngại - Dọa vỡ tử cung - Vỡ tử cung
 
 :::note[Tiêu chuẩn chẩn đoán dọa vỡ tử cung]
 
@@ -61,7 +61,7 @@ Cơn co tử cung quá mạnh và dồn dập làm giảm lưu lượng máu t�
 
 :::
 
-Cơn co mạnh làm phần thân tử cung dày lên, đoạn dưới mỏng đi, tạo thành vòng Bandl, đi kèm dấu hiệu Frommel (căng dây chằng tròn). Nếu không xử trí, tử cung có thể bị xé toạc và thai rơi vào ổ bụng – một cấp cứu sản khoa nguy kịch.
+Cơn co mạnh làm phần thân tử cung dày lên, đoạn dưới mỏng đi, tạo thành vòng Bandl, đi kèm dấu hiệu Frommel (căng dây chằng tròn). Nếu không xử trí, tử cung có thể bị xé toạc và thai rơi vào ổ bụng - một cấp cứu sản khoa nguy kịch.
 
 #### Đường dò sinh dục
 
@@ -107,4 +107,4 @@ WHO 2002 cải tiến:
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

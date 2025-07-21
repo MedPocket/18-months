@@ -86,7 +86,7 @@ _Hình ảnh "Tử cung Couvelaire"._
 
 ### Tử vong sơ sinh
 
-Bong rau làm gián đoạn trao đổi khí mẹ-thai. Nguy cơ tử vong trong chuyển dạ lên đến 25%. 15–20% trẻ sống sót có di chứng thần kinh dài hạn.
+Bong rau làm gián đoạn trao đổi khí mẹ-thai. Nguy cơ tử vong trong chuyển dạ lên đến 25%. 15-20% trẻ sống sót có di chứng thần kinh dài hạn.
 
 ## Điều trị
 
@@ -108,4 +108,4 @@ Bong rau làm gián đoạn trao đổi khí mẹ-thai. Nguy cơ tử vong trong
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

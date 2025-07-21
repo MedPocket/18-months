@@ -13,16 +13,16 @@ description: Giải phẫu buồng trứng gồm vị trí, kích thước, bề
 **Vị trí buồng trứng**:
 
 - Nằm trong ổ chậu, không được thanh mạc bao phủ hoàn toàn.
-- Mỗi bên một buồng trứng, kích thước trung bình 2×3×3 cm, trọng lượng 4–8 g.
+- Mỗi bên một buồng trứng, kích thước trung bình 2×3×3 cm, trọng lượng 4-8 g.
 - Bề mặt phẳng mịn ở trẻ em, trở nên sần do tạo vết sẹo phóng noãn sau tuổi dậy thì.
 
 **Hình thái và liên quan**:
 
-_Hình ảnh "Giải phẫu tử cung – buồng trứng"._
-![Giải phẫu tử cung – buồng trứng](./_images/giai-phau-mo-hoc/giai-phau-tu-cung-buong-trung.png)
+_Hình ảnh "Giải phẫu tử cung - buồng trứng"._
+![Giải phẫu tử cung - buồng trứng](./_images/giai-phau-mo-hoc/giai-phau-tu-cung-buong-trung.png)
 
 - **Mặt trong** (mặt tự do): Lồi, hướng về phễu vòi tử cung và quai ruột.
-- **Mặt ngoài** (áp phúc mạc thành bên chậu) nằm trong hố buồng trứng, giới hạn bởi: Trước – dưới là dây chằng rộng; Trên là động mạch chậu ngoài; Sau là động mạch chậu trong và niệu quản.
+- **Mặt ngoài** (áp phúc mạc thành bên chậu) nằm trong hố buồng trứng, giới hạn bởi: Trước - dưới là dây chằng rộng; Trên là động mạch chậu ngoài; Sau là động mạch chậu trong và niệu quản.
 - **Bờ tự do**: Tiếp xúc quai ruột.
 - **Bờ mạc treo**: Gắn vào mặt sau dây chằng rộng qua mạc treo buồng trứng.
 - **Đầu vòi**: Hướng lên trên, nơi vào của hệ mạch buồng trứng (trong dây chằng treo).
@@ -37,14 +37,14 @@ _Hình ảnh "Giải phẫu mạch máu tử cung buồng trứng"._
 - **Nhánh nối từ động mạch tử cung**: Chảy dọc dây chằng buồng trứng riêng, góp phần cấp máu cho cực dưới.
 - **Tĩnh mạch**: Đám rối quanh rốn buồng trứng nên phải đổ vào tĩnh mạch chủ dưới. Bên trái đổ vào tĩnh mạch thận trái.
 - **Bạch huyết**: Theo mạch máu buồng trứng, đổ vào hạch thắt lưng (para-aortic).
-- **Thần kinh**: Sợi giao cảm từ đám rối mạc treo (renal–aortic plexus). Sợi cảm giác theo mạch máu đến tủy sống T10–T12.
+- **Thần kinh**: Sợi giao cảm từ đám rối mạc treo (renal-aortic plexus). Sợi cảm giác theo mạch máu đến tủy sống T10-T12.
 
 **Hệ thống dây chằng và mạc treo**:
 
 - **Mạc treo buồng trứng** (mesovarium): Gôm mạch máu, thần kinh, bạch huyết.
 - **Dây chằng buồng trứng riêng** (ligamentum ovarii proprium): Nối đầu tử cung buồng trứng đến góc tử cung.
 - **Dây chằng rộng tử cung** (ligamentum latum): Phúc mạc phủ, tạo túi sau vòi trứng.
-- **Dây chằng treo buồng trứng** (suspensory ligament): Chứa động – tĩnh mạch buồng trứng, thần kinh, bạch huyết.
+- **Dây chằng treo buồng trứng** (suspensory ligament): Chứa động - tĩnh mạch buồng trứng, thần kinh, bạch huyết.
 
 ## Mô học
 
@@ -61,4 +61,4 @@ _Hình ảnh "Giải phẫu mạch máu tử cung buồng trứng"._
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

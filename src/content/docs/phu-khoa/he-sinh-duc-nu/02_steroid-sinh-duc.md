@@ -29,7 +29,7 @@ Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, 
 **Chức năng**:
 
 - Chuẩn bị tế bào hạt (granulosa) để đáp ứng FSH, kích thích biểu hiện aromatase.
-- Duy trì androgen–AMH–FSH–estrogen cân bằng, ngăn nang noãn lệ thuộc gonadotropin quá sớm.
+- Duy trì androgen-AMH-FSH-estrogen cân bằng, ngăn nang noãn lệ thuộc gonadotropin quá sớm.
 
 ### Estrogen
 
@@ -62,14 +62,14 @@ Steroid sinh dục tác động lên tế bào đích theo hai đường qua gen
 ### Qua gene
 
 - Hormone khuếch tán vào tế bào, gắn với **thụ thể nhân** (ER-α/ER-β cho estrogen; PR-A/PR-B cho progesterone; AR cho androgen).
-- Phức hợp hormone–thụ thể cắt HSP, hóa trị dimer, gắn lên ERE/​PRE/​ARE (Estrogen/Progesterone/​Androgen Response Elements) trên DNA.
-- Tuyến tính: Chậm (giờ–ngày), khởi phát protein mới.
+- Phức hợp hormone-thụ thể cắt HSP, hóa trị dimer, gắn lên ERE/​PRE/​ARE (Estrogen/Progesterone/​Androgen Response Elements) trên DNA.
+- Tuyến tính: Chậm (giờ-ngày), khởi phát protein mới.
 
 ### Không qua gene
 
 - Gắn với **thụ thể màng** (GPCR như GPER cho estrogen, mAR cho androgen).
 - Kích hoạt second messenger (Ca²⁺, cAMP, PI3K/Akt, MAPK...)
-- Khởi phát nhanh (giây–phút), không yêu cầu nồng độ quá thấp.
+- Khởi phát nhanh (giây-phút), không yêu cầu nồng độ quá thấp.
 
 :::caution
 Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có thể điều hòa biểu hiện gene gián tiếp qua các đường tín hiệu thứ cấp.
@@ -93,7 +93,7 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 - **Estrogen**: Tăng co thắt nhu động trứng về tử cung, đóng lỗ vòi.
 - **Progesterone**: Giãn cơ trơn, mở lối vào buồng tử cung, hỗ trợ làm tổ.
 
-### Hạ đồi – Tuyến yên
+### Hạ đồi - Tuyến yên
 
 - **Estrogen** (đỉnh giữa chu kỳ): Kích thích LH surge qua KNDy neuron/kisspeptin.
 - **Progesterone** (pha hoàng thể): ức chế GnRH, ổn định trục HPT.
@@ -114,5 +114,5 @@ _Bảng "Thụ thể của các steroids"._
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Goodman & Gilman – _The Pharmacological Basis of Therapeutics, 13th ed_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Goodman & Gilman - _The Pharmacological Basis of Therapeutics, 13th ed_

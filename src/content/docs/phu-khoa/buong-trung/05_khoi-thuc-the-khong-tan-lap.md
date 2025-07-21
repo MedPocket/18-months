@@ -45,7 +45,7 @@ _Hình ảnh "Nang lạc tuyến nội mạc tử cung ở buồng trứng"._
 
 - Lành tính, tiềm năng ác tính rất thấp. Phát hiện tình cờ, không cần điều trị nếu không đau, không hiếm muộn.
 - **Không có điều trị nội khoa** làm mất nang; Nếu không muốn có thai, có thể dùng COC để ngăn nang mới.
-- **Chỉ định phẫu thuật** khi: Nghi ngờ ác tính (IOTA M-rules, CA125 tăng hoặc nang > 5–6 cm), nang to nhanh, diễn biến bất thường. Cân nhắc yếu tố cá nhân (tình trạng hôn nhân, kế hoạch sinh con, triệu chứng).
+- **Chỉ định phẫu thuật** khi: Nghi ngờ ác tính (IOTA M-rules, CA125 tăng hoặc nang > 5-6 cm), nang to nhanh, diễn biến bất thường. Cân nhắc yếu tố cá nhân (tình trạng hôn nhân, kế hoạch sinh con, triệu chứng).
 
 **Nang kèm đau**:
 
@@ -65,7 +65,7 @@ _Hình ảnh "Nang lạc tuyến nội mạc tử cung ở buồng trứng"._
 
 **Các tình trạng ưu tiên ngoại khoa**: Ứ dịch vòi, áp-xe vòi-buồng trứng không đáp ứng kháng sinh, lao vòi trứng.
 
-**Siêu âm**: ứ dịch vòi hình ảnh dãn, chứa dịch – thường hai bên.
+**Siêu âm**: ứ dịch vòi hình ảnh dãn, chứa dịch - thường hai bên.
 
 _Hình ảnh "Vòi Fallope ứ dịch trên siêu âm"._
 ![Vòi Fallope ứ dịch trên siêu âm](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/u-dich-voi-fallope-tren-sieu-am.png)
@@ -76,4 +76,4 @@ Nếu không thể cắt toàn bộ vòi do dính chặt, có thể **đứt vò
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

@@ -3,7 +3,7 @@ title: Thiếu máu thiếu sắt trong thai kỳ
 description: Nguyên nhân, hệ quả, chẩn đoán, điều trị và dự phòng thiếu máu thiếu sắt trong thai kỳ.
 ---
 
-Thiếu máu thiếu sắt trong thai kỳ là tình trạng rất phổ biến, chiếm khoảng 40–50% các ca thiếu máu ở phụ nữ mang thai, và là nguyên nhân hàng đầu gây mệt mỏi, sinh non, nhẹ cân và băng huyết sau sinh nếu không được chẩn đoán và điều trị kịp thời.
+Thiếu máu thiếu sắt trong thai kỳ là tình trạng rất phổ biến, chiếm khoảng 40-50% các ca thiếu máu ở phụ nữ mang thai, và là nguyên nhân hàng đầu gây mệt mỏi, sinh non, nhẹ cân và băng huyết sau sinh nếu không được chẩn đoán và điều trị kịp thời.
 
 ## Hậu quả
 
@@ -28,14 +28,14 @@ Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic 
 
 - Hb < 11 g/dL; Hct < 30%.
 - MCV < 80 fL; MCH < 28 pg; MCHC < 32 g/dL.
-- Ferritin huyết thanh < 10–50 µg/L; < 10 µg/L khi nặng.
+- Ferritin huyết thanh < 10-50 µg/L; < 10 µg/L khi nặng.
 
 :::
 
 ## Điều trị
 
-- **Thiếu máu thiếu sắt nhẹ–trung bình**: Uống 100–200 mg sắt nguyên tố/ngày, chia sau bữa ăn.
-- **Thiếu acid folic**: Uống 2–5 mg acid folic/ngày.
+- **Thiếu máu thiếu sắt nhẹ-trung bình**: Uống 100-200 mg sắt nguyên tố/ngày, chia sau bữa ăn.
+- **Thiếu acid folic**: Uống 2-5 mg acid folic/ngày.
 - **Thiếu máu thiếu sắt nặng**: Truyền máu và bổ sung sắt tĩnh mạch (Iron Dextran Injection 50 mL), đánh giá lại sau 1 tuần (Hb tăng ≥ 0.8 g/dL/ngày và Hct tăng ≥ 1%/ngày là đáp ứng), tiếp tục duy trì cho đến sau sinh và khi cho con bú.
 
 ## Dự phòng
@@ -63,4 +63,4 @@ _Bảng "Bổ sung sắt trong thai kỳ theo tình trạng thiếu máu (ACOG)"
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

@@ -3,7 +3,7 @@ title: Buồng trứng đa nang
 description: Tổng quan về hội chứng buồng trứng đa nang (PCOS) định nghĩa, chẩn đoán, cơ chế bệnh sinh và chiến lược điều trị.
 ---
 
-**Hội chứng buồng trứng đa nang (PCOS – Polycystic Ovary Syndrome)** là rối loạn nội tiết-chuyển hóa thường gặp (5–10% phụ nữ trong độ tuổi sinh sản) với ba dấu ấn chính:
+**Hội chứng buồng trứng đa nang (PCOS - Polycystic Ovary Syndrome)** là rối loạn nội tiết-chuyển hóa thường gặp (5-10% phụ nữ trong độ tuổi sinh sản) với ba dấu ấn chính:
 
 - Rối loạn phóng noãn (rong kinh, kinh thưa, vô kinh).
 - Cường androgen (rậm lông, mụn, hói đầu, cường testosterone).
@@ -18,10 +18,10 @@ Theo Rotterdam 2003, chẩn đoán khi có ≥ 2/3 tiêu chí:
 
 **Cường androgen**:
 
-- **Lâm sàng**: Rậm lông (Ferriman–Gallwey), mụn trứng cá, hói đầu kiểu nam, béo phì trung tâm (BMI > 23 kg/m² hoặc vòng eo > 80 cm, WHR > 0.85).
+- **Lâm sàng**: Rậm lông (Ferriman-Gallwey), mụn trứng cá, hói đầu kiểu nam, béo phì trung tâm (BMI > 23 kg/m² hoặc vòng eo > 80 cm, WHR > 0.85).
 - **Cận lâm sàng**: FTI (TT/SHBG × 100) > 6.
 
-**Buồng trứng đa nang**: ≥ 12 nang 2–9 mm trên mặt cắt **và/hoặc** thể tích > 10 mL.
+**Buồng trứng đa nang**: ≥ 12 nang 2-9 mm trên mặt cắt **và/hoặc** thể tích > 10 mL.
 
 **Nếu chỉ có hình ảnh buồng trứng đa nang mà không có triệu chứng khác, chưa chẩn đoán PCOS cho đến khi xuất hiện rối loạn kinh nguyệt hoặc cường androgen**.
 :::
@@ -38,9 +38,9 @@ Có 3 trong 5 tiêu chuẩn.
 | --------------------------------------------------------- | ------------------------------------------------- |
 | **Béo phì ở bụng (đo vòng eo)** | > 80cm |
 | **Triglycerides** | ≥ 150 mg/dL |
-| **HDL–C** | < 50 mg/dL |
+| **HDL-C** | < 50 mg/dL |
 | **Huyết áp** | ≥ 130 / ≥ 85mmHg |
-| **Đường huyết lúc đói và 2h sau làm test dung nạp đường** | 110–126 mg/dL và/hay glucose sau 2h 140–199 mg/dL |
+| **Đường huyết lúc đói và 2h sau làm test dung nạp đường** | 110-126 mg/dL và/hay glucose sau 2h 140-199 mg/dL |
 :::
 
 ## Điều trị
@@ -61,7 +61,7 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 :::caution
 
 - Progestogen cần kéo dài tối thiểu 12 ngày mỗi đợt để bảo vệ nội mạc tử cung.
-- Viên phối hợp không nên dùng liên tục mà chỉ sử dụng mỗi 3–4 tháng một lần để tránh tác dụng phụ trên béo phì và chuyển hóa.
+- Viên phối hợp không nên dùng liên tục mà chỉ sử dụng mỗi 3-4 tháng một lần để tránh tác dụng phụ trên béo phì và chuyển hóa.
 
 :::
 
@@ -82,9 +82,9 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 #### Clomiphene citrate (CC)
 
 - Lựa chọn đầu tay khi PCOS là nguyên nhân chính gây vô sinh và không có yếu tố phối hợp khác.
-- Liều khởi đầu: 50 mg/ngày × 5 ngày (ngày 2–5 chu kỳ).
+- Liều khởi đầu: 50 mg/ngày × 5 ngày (ngày 2-5 chu kỳ).
 - Liều tối đa: 150 mg/ngày; Không điều trị quá 6 chu kỳ liên tiếp hoặc > 12 chu kỳ suốt đời sinh sản.
-- Đề kháng CC: Không phóng noãn sau 3–6 chu kỳ điều trị.
+- Đề kháng CC: Không phóng noãn sau 3-6 chu kỳ điều trị.
 
 #### Metformin (thuốc tăng nhạy cảm insulin)
 
@@ -100,14 +100,14 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 #### Gây phóng noãn bằng gonadotropin
 
 - Lựa chọn thứ hai sau CC hoặc ở người kháng CC.
-- **Phác đồ step-up**: FSH khởi đầu 37.5–50 IU/ngày trong 14 ngày, sau đó tăng dần 25–37.5 IU/ngày tùy đáp ứng; Theo dõi siêu âm chặt chẽ.
+- **Phác đồ step-up**: FSH khởi đầu 37.5-50 IU/ngày trong 14 ngày, sau đó tăng dần 25-37.5 IU/ngày tùy đáp ứng; Theo dõi siêu âm chặt chẽ.
 - Ở người có BMI thấp, có thể khởi đầu 25 IU/ngày.
 
 #### Nội soi đốt điểm buồng trứng đa nang
 
 - Dành cho người kháng CC và thất bại với gonadotropin.
-- Đốt 4–10 điểm, sâu 4 mm, công suất 40 W × 4 giây.
-- Theo dõi hiệu quả 3–6 tháng; Không lặp lại nếu không hiệu quả.
+- Đốt 4-10 điểm, sâu 4 mm, công suất 40 W × 4 giây.
+- Theo dõi hiệu quả 3-6 tháng; Không lặp lại nếu không hiệu quả.
 
 #### Thụ tinh trong ống nghiệm (IVF/ICSI)
 

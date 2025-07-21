@@ -12,20 +12,20 @@ _Hình ảnh “Sùi mào gà vùng sinh dục”._
 
 ### Lâm sàng
 
-**Thời gian ủ bệnh** trung bình từ 2–8 tháng (có thể kéo dài tới 1 năm). Trong thời gian này, bệnh nhân có thể không có triệu chứng nhưng vẫn có khả năng lây lan cho bạn tình.
+**Thời gian ủ bệnh** trung bình từ 2-8 tháng (có thể kéo dài tới 1 năm). Trong thời gian này, bệnh nhân có thể không có triệu chứng nhưng vẫn có khả năng lây lan cho bạn tình.
 
 **Đặc điểm tổn thương**:
 
 - Tổn thương dạng **u nhú, mềm, màu hồng nhạt hoặc trắng**, bề mặt sần sùi, mọc riêng lẻ hoặc kết lại thành đám giống mào gà, súp lơ.
 - Không đau, không ngứa, nhưng đôi khi dễ chảy máu khi cọ xát hoặc quan hệ.
-- Vị trí thường gặp: Vùng sinh dục ngoài, quanh hậu môn, âm hộ, âm đạo, cổ tử cung (nữ); quy đầu, rãnh quy đầu, thân dương vật, bìu (nam); vùng bẹn, quanh hậu môn, niêm mạc miệng, họng nếu có quan hệ miệng – sinh dục.
+- Vị trí thường gặp: Vùng sinh dục ngoài, quanh hậu môn, âm hộ, âm đạo, cổ tử cung (nữ); quy đầu, rãnh quy đầu, thân dương vật, bìu (nam); vùng bẹn, quanh hậu môn, niêm mạc miệng, họng nếu có quan hệ miệng - sinh dục.
 
 **Phụ nữ mang thai**:
 
 - **Tăng nguy cơ bùng phát sùi mào gà** trong thai kỳ do thay đổi nội tiết và suy giảm miễn dịch sinh lý.
 - Tổn thương có thể phát triển nhanh, lan rộng hơn bình thường.
-- Nguy cơ **lây truyền cho trẻ sơ sinh khi sinh thường** nếu tổn thương nhiều ở âm hộ – âm đạo – cổ tử cung.
-- **Biến chứng có thể gặp**: Tăng kích thước sùi → chảy máu, nhiễm trùng, tắc đường sinh dục, cản trở sinh thường; Hiếm gặp lây truyền HPV từ mẹ sang con, dẫn đến u nhú thanh quản tái phát (Recurrent Respiratory Papillomatosis – RRP) ở trẻ nhỏ là một bệnh lý hiếm nhưng nghiêm trọng, thường xuất hiện trong vài năm đầu đời.
+- Nguy cơ **lây truyền cho trẻ sơ sinh khi sinh thường** nếu tổn thương nhiều ở âm hộ - âm đạo - cổ tử cung.
+- **Biến chứng có thể gặp**: Tăng kích thước sùi → chảy máu, nhiễm trùng, tắc đường sinh dục, cản trở sinh thường; Hiếm gặp lây truyền HPV từ mẹ sang con, dẫn đến u nhú thanh quản tái phát (Recurrent Respiratory Papillomatosis - RRP) ở trẻ nhỏ là một bệnh lý hiếm nhưng nghiêm trọng, thường xuất hiện trong vài năm đầu đời.
 
 **Biến thể**:
 
@@ -37,7 +37,7 @@ _Hình ảnh “Sùi mào gà vùng sinh dục”._
 
 **Soi cổ tử cung**:
 
-- Dùng **acid acetic 3–5%** bôi lên vùng nghi ngờ → vùng nhiễm HPV sẽ chuyển sang màu trắng đục.
+- Dùng **acid acetic 3-5%** bôi lên vùng nghi ngờ → vùng nhiễm HPV sẽ chuyển sang màu trắng đục.
 - Sinh thiết tổn thương nghi ngờ ác tính hoặc kéo dài không cải thiện.
 
 **Sinh thiết**:
@@ -78,12 +78,12 @@ _Hình ảnh “Sùi mào gà vùng sinh dục”._
 
 **Imiquimod 5% (kem bôi miễn dịch tại chỗ)**:
 
-- Bôi 3 lần/tuần, rửa sạch sau 6–10 giờ; điều trị đến khi tổn thương biến mất (tối đa 16 tuần).
+- Bôi 3 lần/tuần, rửa sạch sau 6-10 giờ; điều trị đến khi tổn thương biến mất (tối đa 16 tuần).
 - Dùng được cho phụ nữ mang thai (dưới chỉ định bác sĩ).
 
-**Trichloroacetic acid (TCA) 80–90%**:
+**Trichloroacetic acid (TCA) 80-90%**:
 
-- Do bác sĩ bôi tại chỗ tổn thương 1–2 lần/tuần.
+- Do bác sĩ bôi tại chỗ tổn thương 1-2 lần/tuần.
 - Gây hoại tử mô tại chỗ, không ảnh hưởng mô lành nếu dùng đúng cách.
 
 ### Phương pháp vật lý
@@ -111,8 +111,8 @@ _Bảng "Phương pháp điều trị an toàn cho thai kỳ"_
 
 | Phương pháp                           | Ghi chú                                                                                                                          |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **Trichloroacetic acid (TCA) 80–90%** | Bôi tại chỗ bởi bác sĩ. An toàn cho thai kỳ.                                                                                     |
-| **Đốt điện – Laser – Phẫu thuật**     | Áp dụng cho sùi lớn, tắc âm đạo. Nên thực hiện ở tam cá nguyệt 2–3.                                                              |
+| **Trichloroacetic acid (TCA) 80-90%** | Bôi tại chỗ bởi bác sĩ. An toàn cho thai kỳ.                                                                                     |
+| **Đốt điện - Laser - Phẫu thuật**     | Áp dụng cho sùi lớn, tắc âm đạo. Nên thực hiện ở tam cá nguyệt 2-3.                                                              |
 | **Imiquimod 5%**                      | Chưa khuyến cáo dùng do thiếu dữ liệu an toàn hoàn toàn. Chỉ cân nhắc nếu lợi ích vượt trội nguy cơ, có chỉ định của chuyên gia. |
 | **Podophyllotoxin / Podophyllin**     | **Chống chỉ định tuyệt đối** trong thai kỳ. Gây độc cho thai.                                                                    |
 
@@ -124,13 +124,13 @@ _Bảng "Phương pháp điều trị an toàn cho thai kỳ"_
 **Sau sinh**:
 
 - Nhiều trường hợp **tổn thương sùi thoái lui tự nhiên sau sinh**.
-- Nếu không tự khỏi, nên **điều trị triệt để sau 6–8 tuần hậu sản**.
+- Nếu không tự khỏi, nên **điều trị triệt để sau 6-8 tuần hậu sản**.
 - Nên **tiêm vaccine HPV sau sinh** (nếu chưa tiêm trước đó), không chống chỉ định với cho con bú.
 
 ### Theo dõi sau điều trị
 
-- **Tái khám định kỳ sau 2–4 tuần** để đánh giá đáp ứng.
-- **Khám lại sau 3–6 tháng**, vì trên 30% bệnh nhân có thể tái phát.
+- **Tái khám định kỳ sau 2-4 tuần** để đánh giá đáp ứng.
+- **Khám lại sau 3-6 tháng**, vì trên 30% bệnh nhân có thể tái phát.
 - Nếu tổn thương tái đi tái lại, cần **làm xét nghiệm HPV type** và sàng lọc ung thư cổ tử cung (ở nữ).
 
 ## Phòng bệnh
@@ -148,6 +148,6 @@ _Bảng "Phương pháp điều trị an toàn cho thai kỳ"_
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế (2021) – _Hướng dẫn chẩn đoán và điều trị sùi mào gà_
-- CDC (2021) – _Sexually Transmitted Infections Treatment Guidelines_
-- WHO – _Human papillomavirus (HPV) and cervical cancer fact sheet_
+- Bộ Y tế (2021) - _Hướng dẫn chẩn đoán và điều trị sùi mào gà_
+- CDC (2021) - _Sexually Transmitted Infections Treatment Guidelines_
+- WHO - _Human papillomavirus (HPV) and cervical cancer fact sheet_

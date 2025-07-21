@@ -24,7 +24,7 @@ description: Ý nghĩa, cách thực hiện và quản lý khi đếm cử độ
 
 Hầu hết thai phụ **nhận biết cử động thai đều đặn sau 24 tuần**.
 
-Đếm cử động thai được **khuyến cáo thực hiện khi tuổi thai từ khoảng 26–32 tuần** vì:
+Đếm cử động thai được **khuyến cáo thực hiện khi tuổi thai từ khoảng 26-32 tuần** vì:
 
 - Phát hiện các bất thường về tình trạng thai và có can thiệp cứu sống thai khi tình trạng sức khỏe thai bất thường.
 - Việc can thiệp cho sinh ở những thai cực non cũng không giúp cứu sống trẻ sau đó, nên phương pháp này không được xem là cần thiết để thực hiện trước thời điểm sơ sinh có thể sống sót được.
@@ -49,7 +49,7 @@ Nên thông tin cho thai phụ biết rằng ở những trường hợp dương
 
 ## Quản lý
 
-Non-stress test (NST) và siêu âm là 2 test đầu tay khi ghi nhận có giảm cử động thai. Các test hỗ trợ nên được thực hiện càng sớm càng tốt (trong vòng 1–12 giờ sau khi phát hiện giảm cử động thai) theo sau bất thường của đếm cử động thai.
+Non-stress test (NST) và siêu âm là 2 test đầu tay khi ghi nhận có giảm cử động thai. Các test hỗ trợ nên được thực hiện càng sớm càng tốt (trong vòng 1-12 giờ sau khi phát hiện giảm cử động thai) theo sau bất thường của đếm cử động thai.
 
 **Siêu âm** giúp loại trừ bất thường về cấu trúc, khảo sát lượng nước ối, đánh giá sinh trắc thai...
 
@@ -61,4 +61,4 @@ Non-stress test (NST) và siêu âm là 2 test đầu tay khi ghi nhận có gi�
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

@@ -112,7 +112,7 @@ Cuối mỗi bài nên có danh sách tài liệu tham khảo hoặc guideline t
 ```md
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- ACOG Practice Bulletin No. 134 (2013) – _Intrauterine Growth Restriction_
-- WHO (2014) – _WHO Recommendations for Prevention and Treatment of Pre-eclampsia and Eclampsia_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- ACOG Practice Bulletin No. 134 (2013) - _Intrauterine Growth Restriction_
+- WHO (2014) - _WHO Recommendations for Prevention and Treatment of Pre-eclampsia and Eclampsia_
 ```

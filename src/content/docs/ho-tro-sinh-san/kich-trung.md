@@ -21,23 +21,23 @@ Phác đồ kích thích nhẹ (Minimal stimulation/Natural cycle) **đối tư�
 
 **Thuốc**:
 
-- Clomiphene citrate hoặc Letrozole (uống 5 ngày từ ngày 2–5 chu kỳ).
-- ± FSH liều thấp (75–150 IU/ngày).
+- Clomiphene citrate hoặc Letrozole (uống 5 ngày từ ngày 2-5 chu kỳ).
+- ± FSH liều thấp (75-150 IU/ngày).
 
-**Theo dõi**: Siêu âm nang noãn từ ngày 9–11, trigger rụng trứng khi nang >18 mm.
+**Theo dõi**: Siêu âm nang noãn từ ngày 9-11, trigger rụng trứng khi nang >18 mm.
 
 ### Phác đồ GnRH antagonist
 
-Phác đồ GnRH antagonist là phổ biến nhất hiện nay **bắt đầu**: Ngày 2–3 chu kỳ kinh.
+Phác đồ GnRH antagonist là phổ biến nhất hiện nay **bắt đầu**: Ngày 2-3 chu kỳ kinh.
 
 **Thuốc**:
 
-- FSH (Gonal-F, Puregon, Menopur): 150–300 IU/ngày.
-- GnRH antagonist (Cetrotide, Orgalutran): Bắt đầu khi nang > 12–14 mm.
+- FSH (Gonal-F, Puregon, Menopur): 150-300 IU/ngày.
+- GnRH antagonist (Cetrotide, Orgalutran): Bắt đầu khi nang > 12-14 mm.
 
-**Trigger**: hCG (Ovitrelle) khi có ≥ 2–3 nang kích thước ≥ 18 mm.
+**Trigger**: hCG (Ovitrelle) khi có ≥ 2-3 nang kích thước ≥ 18 mm.
 
-**Chọc hút trứng**: Sau 34–36 giờ.
+**Chọc hút trứng**: Sau 34-36 giờ.
 
 ### Phác đồ GnRH agonist dài
 
@@ -77,8 +77,8 @@ Phác đồ GnRH agonist dài (Long protocol) **bắt đầu**: Tiêm GnRH agoni
 
 ## Chỉ định chọc hút trứng
 
-- ≥ 2–3 nang noãn ≥ 17–18 mm.
-- Estradiol ≥ 150–200 pg/mL/nang trưởng thành.
+- ≥ 2-3 nang noãn ≥ 17-18 mm.
+- Estradiol ≥ 150-200 pg/mL/nang trưởng thành.
 - Trigger bằng hCG hoặc GnRH agonist.
 
 ## Chấm dứt chu kỳ
@@ -88,6 +88,6 @@ Phác đồ GnRH agonist dài (Long protocol) **bắt đầu**: Tiêm GnRH agoni
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Hỗ trợ sinh sản_
-- ASRM Practice Committee (2023) – _Guidelines for ovarian stimulation_
-- ESHRE Guideline (2022) – _Ovarian stimulation for IVF/ICSI_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Hỗ trợ sinh sản_
+- ASRM Practice Committee (2023) - _Guidelines for ovarian stimulation_
+- ESHRE Guideline (2022) - _Ovarian stimulation for IVF/ICSI_

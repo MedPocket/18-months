@@ -49,7 +49,7 @@ _Hình ảnh "Các vị trí chửa ngoài tử cung"._
 - Chẩn đoán xác định khi túi thai có yolk sac hoặc phôi nằm ở phần phụ, và tử cung không có túi thai.
 - β-hCG > 1500 mIU/mL: Nên thấy túi thai qua siêu âm ngả âm đạo.
 - β-hCG > 6500 mIU/mL: Siêu âm ngả bụng thường thấy túi thai.
-- **Dấu hiệu vòng nhẫn (vòng lửa – "ring of fire")** trên siêu âm Doppler có giá trị gợi ý.
+- **Dấu hiệu vòng nhẫn (vòng lửa - "ring of fire")** trên siêu âm Doppler có giá trị gợi ý.
 - Cần phân biệt với túi thai giả: Không có yolk sac, màng rụng viền mỏng, không có hai vòng đồng tâm.
 
 **Nội soi ổ bụng**: Là tiêu chuẩn vàng nhưng có thể bỏ sót nếu khối thai còn nhỏ.
@@ -90,7 +90,7 @@ Chọc dò cùng đồ: Máu sẫm, không đông (cân nhắc chỉ định do 
 
 ### Trong ổ bụng
 
-- Hiếm gặp: Khoảng 1/10000–1/25000 trường hợp.
+- Hiếm gặp: Khoảng 1/10000-1/25000 trường hợp.
 - Thai nằm ngoài tử cung, trong ổ bụng, thường do thai thoát khỏi vòi trứng sau vỡ.
 - Sờ bụng thấy thai sát thành bụng, có thể có ngôi bất thường.
 - Siêu âm: Thai nằm xen giữa quai ruột, không nằm trong tử cung.
@@ -99,13 +99,13 @@ Chọc dò cùng đồ: Máu sẫm, không đông (cân nhắc chỉ định do 
 
 ### Tại cổ tử cung
 
-- Rất hiếm: Khoảng 1/9000–1/12000.
+- Rất hiếm: Khoảng 1/9000-1/12000.
 - Siêu âm thấy túi thai nằm ở cổ tử cung, lòng tử cung trống.
 - Hình ảnh "đồng hồ cát", mạch máu quanh túi thai phát triển mạnh, không có dấu hiệu trượt.
 
 ### Tại buồng trứng
 
-- Rất hiếm: Khoảng 1/7000–1/12000.
+- Rất hiếm: Khoảng 1/7000-1/12000.
 - Lâm sàng tương tự các vị trí khác, siêu âm thấy túi thai nằm trong buồng trứng.
 
 ## Điều trị
@@ -131,13 +131,13 @@ Tiêm Methotrexate (MTX) để điều trị chửa ngoài tử cung là một p
 
 **MTX liều đôi**:
 
-- β-hCG từ 3500–5000 mIU/mL.
+- β-hCG từ 3500-5000 mIU/mL.
 - Khối thai < 5 cm, đoạn kẽ < 3 cm.
 - Không có tim thai.
 
 **MTX đa liều**:
 
-- β-hCG 5000–10000 mIU/mL.
+- β-hCG 5000-10000 mIU/mL.
 - Khối thai < 5 cm, đoạn kẽ < 3 cm.
 
 #### Chống chỉ định
@@ -152,7 +152,7 @@ Tiêm Methotrexate (MTX) để điều trị chửa ngoài tử cung là một p
 
 #### Phác đồ cụ thể
 
-Tỷ lệ thành công đường toàn thân 70–95%.
+Tỷ lệ thành công đường toàn thân 70-95%.
 
 **MTX đơn liều**:
 
@@ -162,7 +162,7 @@ Tỷ lệ thành công đường toàn thân 70–95%.
 **MTX liều đôi**:
 
 - MTX ngày 1 và 4.
-- Theo dõi tương tự đơn liều, nhưng thêm liều 3–4 nếu cần.
+- Theo dõi tương tự đơn liều, nhưng thêm liều 3-4 nếu cần.
 
 **MTX đa liều**:
 
@@ -174,7 +174,7 @@ Tỷ lệ thành công đường toàn thân 70–95%.
 
 - Buồn nôn, nôn, viêm miệng.
 - Xuất huyết âm đạo nhẹ.
-- Đau bụng 2–3 ngày sau tiêm (cần phân biệt với vỡ).
+- Đau bụng 2-3 ngày sau tiêm (cần phân biệt với vỡ).
 - Tăng men gan tạm thời.
 - Rụng tóc (hiếm).
 - Viêm phổi (rất hiếm).
@@ -216,4 +216,4 @@ Khi điều trị MTX cần lưu ý:
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

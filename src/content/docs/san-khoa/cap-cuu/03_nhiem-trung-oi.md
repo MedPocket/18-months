@@ -20,7 +20,7 @@ Nhiễm trùng ối thường do vi khuẩn xâm nhập ngược dòng từ đư
 - **Gardnerella vaginalis**.
 - _Bacteroides bivius_.
 - Vi khuẩn Gram âm.
-- Liên cầu khuẩn nhóm B (_Group B Streptococcus – GBS_).
+- Liên cầu khuẩn nhóm B (_Group B Streptococcus - GBS_).
 
 ## Yếu tố nguy cơ
 
@@ -98,7 +98,7 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 **Phác đồ 1 (ưu tiên)**:
 
 - Ampicillin 2 g tiêm TM mỗi 6 giờ + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ. Nếu mổ lấy thai, thêm Clindamycin 900mg mỗi 8 giờ hoặc Metronidazole 500 mg truyền TM mỗi 8 giờ.
-- Hoặc Ampicillin–sulbactam 3 g tiêm TM mỗi 6h.
+- Hoặc Ampicillin-sulbactam 3 g tiêm TM mỗi 6h.
 - Hoặc Cefoxitin 2 g tiêm TM mỗi 8 giờ.
 - Hoặc Cefotetan 2 g tiêm TM mỗi 12h.
 - Hoặc Mezlocillin 4 g tiêm TM mỗi 6h.
@@ -123,17 +123,17 @@ Vancomycin chỉ dùng khi:
 
 **Nếu không đáp ứng**:
 
-- Piperacillin–Tazobactam 4.5 g truyền TM mỗi 8 giờ.
+- Piperacillin-Tazobactam 4.5 g truyền TM mỗi 8 giờ.
 - Hoặc Ertapenem 1 g truyền TM mỗi 24 giờ.
 
 ### Hạ sốt
 
 - Dùng thuốc hạ sốt theo chỉ định để giảm khó chịu cho mẹ và nguy cơ cho thai.
 
-_Hình ảnh "Lưu đồ xử trí nhiễm trùng ối – Bệnh viện Từ Dũ"._
-![Lưu đồ xử trí nhiễm trùng ối – Bệnh viện Từ Dũ](./_images/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)
+_Hình ảnh "Lưu đồ xử trí nhiễm trùng ối - Bệnh viện Từ Dũ"._
+![Lưu đồ xử trí nhiễm trùng ối - Bệnh viện Từ Dũ](./_images/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

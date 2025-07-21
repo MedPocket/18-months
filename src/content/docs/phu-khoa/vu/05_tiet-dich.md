@@ -38,7 +38,7 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 
 **Tổn thương thần kinh tủy sống hoặc chấn thương thành ngực**: Tác động cơ học làm tăng tín hiệu thần kinh kích thích quá mức vào vùng trung ương điều hòa prolactin.
 
-**Bệnh lý nội tiết – chuyển hóa**:
+**Bệnh lý nội tiết - chuyển hóa**:
 
 - **Nhược giáp (hypothyroidism)**: Tăng TRH làm kích thích đồng thời tiết prolactin.
 - **Suy thận mạn**: Giảm thanh thải prolactin, dẫn đến tăng prolactin máu.
@@ -56,7 +56,7 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 
 **Đo prolactin máu**
 
-- Mẫu máu lấy lúc sáng (8–9 giờ), sau khi bệnh nhân nghỉ ngơi 30 phút và nhịn ăn.
+- Mẫu máu lấy lúc sáng (8-9 giờ), sau khi bệnh nhân nghỉ ngơi 30 phút và nhịn ăn.
 - Mức prolactin > 20 ng/mL (nữ) hoặc > 15 ng/mL (nam) gợi ý galactorrhea.
 
 **Định lượng TSH (Thyroid Stimulating Hormone)**: Thăm dò chức năng tuyến giáp, loại trừ nhược giáp (TSH thường > 4.0 µIU/mL).
@@ -66,7 +66,7 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 - Nếu prolactin tăng > 50 ng/mL hoặc có triệu chứng lâm sàng gợi ý u tuyến yên (đau đầu, rối loạn thị giác), cần MRI để xác định khối u.
 - Nếu bệnh nhân chống chỉ định MRI (ví dụ mang máy tạo nhịp), có thể dùng CT scan có tương phản.
 
-**Xét nghiệm chức năng thận – gan**: Để loại trừ suy thận mạn, xơ gan (gây giảm thanh thải prolactin).
+**Xét nghiệm chức năng thận - gan**: Để loại trừ suy thận mạn, xơ gan (gây giảm thanh thải prolactin).
 
 **Xét nghiệm nội tiết tố khác**: Estradiol, FSH, LH: Đánh giá tình trạng mãn kinh hoặc rối loạn tuyến sinh dục.
 
@@ -82,19 +82,19 @@ Tiết sữa (galactorrhea) là tình trạng tiết dịch giống sữa, thư�
 
 **Bromocriptine** (đồng vận dopamine):
 
-- Liều khởi đầu 1.25–2.5 mg/ngày, chia 2 lần, sau đó tăng dần 2.5 mg mỗi 2–7 ngày, đến khi prolactin về mức bình thường.
-- Liều duy trì: 2.5–15 mg/ngày, chia 2–3 lần.
-- Theo dõi prolactin sau 4–6 tuần điều trị; Nếu hết tiết sữa, bắt đầu giảm liều dần và ngưng sau 3 tháng ổn định.
+- Liều khởi đầu 1.25-2.5 mg/ngày, chia 2 lần, sau đó tăng dần 2.5 mg mỗi 2-7 ngày, đến khi prolactin về mức bình thường.
+- Liều duy trì: 2.5-15 mg/ngày, chia 2-3 lần.
+- Theo dõi prolactin sau 4-6 tuần điều trị; Nếu hết tiết sữa, bắt đầu giảm liều dần và ngưng sau 3 tháng ổn định.
 
 **Cabergoline** (đồng vận dopamine chọn lọc):
 
-- Liều 0.25–0.5 mg 1–2 lần/tuần, hiệu quả kéo dài, ít tác dụng phụ vã mồ hôi, buồn nôn hơn Bromocriptine.
-- Dùng trong 3–6 tháng, theo dõi prolactin mỗi 4–6 tuần.
+- Liều 0.25-0.5 mg 1-2 lần/tuần, hiệu quả kéo dài, ít tác dụng phụ vã mồ hôi, buồn nôn hơn Bromocriptine.
+- Dùng trong 3-6 tháng, theo dõi prolactin mỗi 4-6 tuần.
 
 #### Theo dõi sau điều trị
 
-- Đo lại prolactin máu sau 1–2 tháng.
-- Nếu u tuyến yên > 10 mm hoặc còn triệu chứng thần kinh thị, cần tái khám chuyên khoa thần kinh – nội tiết đánh giá khả năng phẫu thuật hoặc xạ trị.
+- Đo lại prolactin máu sau 1-2 tháng.
+- Nếu u tuyến yên > 10 mm hoặc còn triệu chứng thần kinh thị, cần tái khám chuyên khoa thần kinh - nội tiết đánh giá khả năng phẫu thuật hoặc xạ trị.
 
 ## Tiết dịch bệnh lý
 
@@ -106,7 +106,7 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
 
 - Tổn thương lành tính, xuất phát từ biểu mô ống, thường nằm ở khu vực quanh quầng vú (< 1 cm).
 - Dịch máu hoặc dịch lẫn máu là đặc trưng, bệnh nhân sờ không rõ khối (vì khối nhỏ).
-- Tần suất: Chiếm 60–80% trường hợp tiết dịch bệnh lý có máu hoặc giả máu.
+- Tần suất: Chiếm 60-80% trường hợp tiết dịch bệnh lý có máu hoặc giả máu.
 
 **Dãn ống tuyến (Duct ectasia)**:
 
@@ -114,7 +114,7 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
 - Dịch có thể vàng, xanh đục, đôi khi lẫn mủ.
 - Thường gặp ở phụ nữ mãn kinh, kèm cảm giác rát, sưng quanh núm.
 
-**Ung thư ống tại chỗ (Ductal Carcinoma In Situ – DCIS)**:
+**Ung thư ống tại chỗ (Ductal Carcinoma In Situ - DCIS)**:
 
 - Tổn thương tiền ung thư, đôi khi biểu hiện bằng máu từ ống.
 - Cần loại trừ ngay khi dịch máu xuất hiện, nhất là ở phụ nữ > 50 tuổi.
@@ -135,7 +135,7 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
 
 - **Nang áp-xe ống tuyến**: Dịch mủ kèm biểu hiện viêm.
 - **Xơ hóa ống tuyến phức tạp (Complex sclerosing lesion/Radial scar)**: Hiếm hơn nhưng có thể làm chảy dịch lẫn máu.
-- **Từng xạ trị ngực**: Viêm mạch máu – ống tuyến dễ chảy dịch.
+- **Từng xạ trị ngực**: Viêm mạch máu - ống tuyến dễ chảy dịch.
 
 ### Chẩn đoán
 
@@ -180,8 +180,8 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
 
 ### Điều trị
 
-_Hình ảnh "Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ Dũ"._
-![Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ Dũ](./_images/tiet-dich-num-vu/xu-tri-tiet-dich-num-vu-benh-ly.jpeg)
+_Hình ảnh "Xử trí tiết dịch núm vú bệnh lý - Bệnh viện Từ Dũ"._
+![Xử trí tiết dịch núm vú bệnh lý - Bệnh viện Từ Dũ](./_images/tiet-dich-num-vu/xu-tri-tiet-dich-num-vu-benh-ly.jpeg)
 
 **Bước 1 Phân loại dịch**:
 
@@ -195,7 +195,7 @@ _Hình ảnh "Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ
 
 **Bước 3 Sinh thiết**:
 
-- **Core biopsy (sinh thiết lõi) hướng dẫn siêu âm/nhũ ảnh**: Ưu tiên khi phát hiện khối u rõ hoặc vùng ống có dãn bất thường. Lấy ít nhất 4–6 mẫu mô để đánh giá mô học (xác định bướu nhú, DCIS, carcinoma xâm lấn).
+- **Core biopsy (sinh thiết lõi) hướng dẫn siêu âm/nhũ ảnh**: Ưu tiên khi phát hiện khối u rõ hoặc vùng ống có dãn bất thường. Lấy ít nhất 4-6 mẫu mô để đánh giá mô học (xác định bướu nhú, DCIS, carcinoma xâm lấn).
 - **Wire localization biopsy (định vị bằng kim dẫn hướng)**: Dùng khi tổn thương chỉ thấy trên ductography hoặc MRI, không phát hiện rõ trên siêu âm. Kim định vị được đặt chính xác vào tổn thương, sau đó phẫu thuật cắt mô định hướng.
 - **Sinh thiết mở (excisional biopsy)**: Khi core biopsy không thể thực hiện hoặc kết quả không rõ ràng. Lấy toàn bộ tổn thương cùng vỏ bao, vừa chẩn đoán vừa điều trị.
 
@@ -203,9 +203,9 @@ _Hình ảnh "Xử trí tiết dịch núm vú bệnh lý – Bệnh viện Từ
 
 - **Hoàn toàn lành tính (ví dụ Intraductal papilloma lành, duct ectasia không viêm)**: Nếu không triệu chứng (ít dịch, không đau), có thể theo dõi lâm sàng, không cần phẫu thuật. Nếu còn tiếp tục chảy dịch hoặc cảm giác khó chịu, có thể cân nhắc phẫu thuật cắt ống chảy dịch (microdochectomy).
 - **Tổn thương có nguy cơ (bướu nhú có tế bào atypia, sclerosing lesion phức tạp)**: Phẫu thuật cắt rộng hơn hoặc theo dõi chặt chẽ (nhũ ảnh + siêu âm 6 tháng/lần).
-- **Ung thư ống tại chỗ (DCIS) hoặc carcinoma xâm lấn**: - Chuyển sang phác đồ điều trị ung thư vú (phẫu thuật, xạ trị, hóa – nội tiết tùy giai đoạn và phân nhóm mô học).
+- **Ung thư ống tại chỗ (DCIS) hoặc carcinoma xâm lấn**: - Chuyển sang phác đồ điều trị ung thư vú (phẫu thuật, xạ trị, hóa - nội tiết tùy giai đoạn và phân nhóm mô học).
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

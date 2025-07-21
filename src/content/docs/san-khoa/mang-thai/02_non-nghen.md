@@ -3,7 +3,7 @@ title: Nôn nghén
 description: Đặc điểm nôn nghén trong thai kỳ.
 ---
 
-Nôn nghén (Nausea and Vomiting of Pregnancy - NVP) là tình trạng buồn nôn và/hoặc nôn mửa thường gặp trong thai kỳ, đặc biệt là trong 3 tháng đầu. Khoảng 70–80% phụ nữ mang thai gặp phải triệu chứng này. Phụ nữ thường bị ảnh hưởng thường trong khoảng từ 6-8 tuần đầu thai kỳ. Buồn nôn và nôn có xu hướng giảm dần sau tuần thứ 12 và hiếm khi kéo dài đến 3 tháng giữa thai kỳ. Chỉ có khoảng 0.3–2% phụ nữ mang thai sẽ tiếp tục phát triển và có thể gây mất nước, rối loạn điện giải, sụt cân nghiêm trọng để đảm bảo chẩn đoán chứng nghén nặng cần điều trị tại bệnh viện.
+Nôn nghén (Nausea and Vomiting of Pregnancy - NVP) là tình trạng buồn nôn và/hoặc nôn mửa thường gặp trong thai kỳ, đặc biệt là trong 3 tháng đầu. Khoảng 70-80% phụ nữ mang thai gặp phải triệu chứng này. Phụ nữ thường bị ảnh hưởng thường trong khoảng từ 6-8 tuần đầu thai kỳ. Buồn nôn và nôn có xu hướng giảm dần sau tuần thứ 12 và hiếm khi kéo dài đến 3 tháng giữa thai kỳ. Chỉ có khoảng 0.3-2% phụ nữ mang thai sẽ tiếp tục phát triển và có thể gây mất nước, rối loạn điện giải, sụt cân nghiêm trọng để đảm bảo chẩn đoán chứng nghén nặng cần điều trị tại bệnh viện.
 
 ## Nguyên nhân
 
@@ -42,8 +42,8 @@ Các nguyên nhân gây ra nôn nghén, bao gồm sự thay đổi nội tiết 
 
 Liều dùng:
 
-- 10–25 mg uống, mỗi 8 giờ/lần.
-- Tối đa 75–100 mg/ngày.
+- 10-25 mg uống, mỗi 8 giờ/lần.
+- Tối đa 75-100 mg/ngày.
 
 Giảm buồn nôn mức nhẹ đến trung bình. Tác dụng sau vài ngày.
 
@@ -63,19 +63,19 @@ Có thể gây buồn ngủ.
 
 **Dimenhydrinate**:
 
-- Liều dùng: 50–100 mg uống mỗi 6 giờ (tối đa 400 mg/ngày).
+- Liều dùng: 50-100 mg uống mỗi 6 giờ (tối đa 400 mg/ngày).
 - Có thể gây buồn ngủ, khô miệng.
 
 **Meclizine**:
 
-- Liều dùng: 25–50 mg uống mỗi 6–8 giờ.
+- Liều dùng: 25-50 mg uống mỗi 6-8 giờ.
 - Có thể gây chóng mặt, buồn ngủ.
 
 #### Metoclopramide (Primperan)
 
 Chống nôn loại kháng Dopamine.
 
-Liều dùng: 5–10 mg uống hoặc tiêm bắp mỗi 8 giờ.
+Liều dùng: 5-10 mg uống hoặc tiêm bắp mỗi 8 giờ.
 
 Tác dụng phụ gây mệt, tăng nhu động ruột, hiếm gặp phản ứng ngoại tháp (cử động không kiểm soát).
 
@@ -83,9 +83,9 @@ Tác dụng phụ gây mệt, tăng nhu động ruột, hiếm gặp phản ứn
 
 Kháng serotonin 5-HT3.
 
-Liều dùng: 4–8 mg uống/lần, mỗi 8 giờ.
+Liều dùng: 4-8 mg uống/lần, mỗi 8 giờ.
 
-Tác dụng phụ gây táo bón, nhức đầu, rất hiếm rối loạn dẫn truyền tim. Một số khuyến cáo thận trọng dùng trong 3 tháng đầu (cân nhắc lợi ích – nguy cơ). Dùng khi các thuốc trên không hiệu quả.
+Tác dụng phụ gây táo bón, nhức đầu, rất hiếm rối loạn dẫn truyền tim. Một số khuyến cáo thận trọng dùng trong 3 tháng đầu (cân nhắc lợi ích - nguy cơ). Dùng khi các thuốc trên không hiệu quả.
 
 #### Thiamine (vitamin B1)
 
@@ -116,6 +116,6 @@ Nôn nghén thể nặng cần nhập viện:
 ## Tài liệu tham khảo
 
 - American College of Obstetricians and Gynecologists (2018) - _Practice Bulletin No. 189: Nausea and Vomiting of Pregnancy_
-- Niebyl, J. R. (2010). Nausea and vomiting in pregnancy - _New England Journal of Medicine_, 363(16), 1544–1550
+- Niebyl, J. R. (2010). Nausea and vomiting in pregnancy - _New England Journal of Medicine_, 363(16), 1544-1550
 - WHO - _Hyperemesis gravidarum: Clinical management_
 - Philip Wiffen, Marc Mitchell, Melanie Snelling, Nicola Stoner (2017) - _Oxford Handbook of Clinical Pharmacy_, 513-514-515

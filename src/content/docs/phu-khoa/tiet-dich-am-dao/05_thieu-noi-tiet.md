@@ -9,7 +9,7 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
 
 **Giảm estrogen**:
 
-- Tuổi mãn kinh: Sản xuất estrogen ở buồng trứng giảm rõ rệt sau 45–50 tuổi.
+- Tuổi mãn kinh: Sản xuất estrogen ở buồng trứng giảm rõ rệt sau 45-50 tuổi.
 - Cắt hai buồng trứng (surgical menopause) hoặc điều trị hóa chất/hóa xạ: Làm cho mức estrogen tụt nhanh.
 - Sau sinh và cho con bú: Nồng độ estrogen giảm khiến niêm mạc âm đạo tương đối teo nhẹ.
 
@@ -28,7 +28,7 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
 
 ### Lâm sàng
 
-- **Ngứa, rát âm đạo – âm hộ**: Thường dai dẳng, đặc biệt sau giao hợp hoặc sau vận động mạnh.
+- **Ngứa, rát âm đạo - âm hộ**: Thường dai dẳng, đặc biệt sau giao hợp hoặc sau vận động mạnh.
 - **Khô âm đạo**: Cảm giác thiếu ẩm, khó chịu, có thể chảy máu khi giao hợp hoặc thăm khám.
 - **Tiết dịch rất ít hoặc không có** do teo tuyến tiết dịch. Nếu có, huyết trắng thường lẫn mủ, đôi khi lẫn máu (vì niêm mạc dễ chảy máu).
 - **Đau tức hạ vị**: Do viêm lan tỏa niêm mạc và dưới niêm mạc.
@@ -55,9 +55,9 @@ Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, Trichomona
 
 **Liệu pháp estrogen tại chỗ** giúp tăng sinh lớp biểu mô, phục hồi glycogen, tạo môi trường acid, tăng lượng _Lactobacilli_, giảm teo niêm mạc.:
 
-- **Estriol 0.5 mg đặt âm đạo**: 1 viên/đêm × 20 đêm → sau đó duy trì 1–2 lần/tuần tùy mức độ triệu chứng.
-- **Promestriene 10 mg đặt âm đạo**: 1 viên/ngày × 20 ngày, có thể lặp lại đợt sau 3–6 tháng nếu cần.
-- **Kem/cream Estrogen**: bôi âm đạo, âm hộ 1 lần/ngày × 2–3 tuần, sau đó giảm dần tần suất.
+- **Estriol 0.5 mg đặt âm đạo**: 1 viên/đêm × 20 đêm → sau đó duy trì 1-2 lần/tuần tùy mức độ triệu chứng.
+- **Promestriene 10 mg đặt âm đạo**: 1 viên/ngày × 20 ngày, có thể lặp lại đợt sau 3-6 tháng nếu cần.
+- **Kem/cream Estrogen**: bôi âm đạo, âm hộ 1 lần/ngày × 2-3 tuần, sau đó giảm dần tần suất.
 - **Chlorquinaldol + Promestriene (200 mg + 10 mg) đặt âm đạo**: 1 viên/ngày × 18 ngày (kết hợp kháng khuẩn và estrogen hóa).
 
 **Dưỡng ẩm và bôi trơn**:
@@ -76,7 +76,7 @@ Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, Trichomona
 
 - Xem xét ở phụ nữ mãn kinh có triệu chứng teo âm đạo đồng thời có triệu chứng mãn kinh khác (bốc hỏa, đổ mồ hôi đêm).
 - Có thể dùng **estrogen đường uống hoặc đường dán** kết hợp với progestin (nếu còn tử cung) để cải thiện toàn thân và tại chỗ.
-- Cân nhắc nguy cơ – lợi ích, đặc biệt với phụ nữ có tiền sử ung thư vú, tim mạch, huyết khối.
+- Cân nhắc nguy cơ - lợi ích, đặc biệt với phụ nữ có tiền sử ung thư vú, tim mạch, huyết khối.
 
 **Đánh giá và điều chỉnh các yếu tố nguy cơ**:
 
@@ -87,9 +87,9 @@ Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, Trichomona
 
 ### Theo dõi sau điều trị
 
-- Khám lại sau 4–6 tuần sau khi bắt đầu điều trị tại chỗ để đánh giá triệu chứng, kiểm tra niêm mạc âm đạo.
+- Khám lại sau 4-6 tuần sau khi bắt đầu điều trị tại chỗ để đánh giá triệu chứng, kiểm tra niêm mạc âm đạo.
 - Đo lại pH và soi dịch âm đạo nếu cần để đánh giá đáp ứng.
-- Duy trì điều trị duy trì estrogen tại chỗ 1–2 lần/tuần nếu triệu chứng tái phát.
+- Duy trì điều trị duy trì estrogen tại chỗ 1-2 lần/tuần nếu triệu chứng tái phát.
 
 :::caution
 
@@ -101,4 +101,4 @@ Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, Trichomona
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

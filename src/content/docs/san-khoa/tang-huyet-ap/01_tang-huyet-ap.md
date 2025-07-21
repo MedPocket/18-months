@@ -40,12 +40,12 @@ Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai
 
 ## Phân loại
 
-1. **Tiền sản giật – sản giật**: Tăng huyết áp + Đạm niệu + Từ tuần thứ 20 của thai kỳ.
+1. **Tiền sản giật - sản giật**: Tăng huyết áp + Đạm niệu + Từ tuần thứ 20 của thai kỳ.
 2. **Tăng huyết áp thai kỳ**: Tăng huyết áp + Không đạm niệu + Từ tuần thứ 20 của thai kỳ và huyết áp trở về bình thường sau sinh.
 3. **Tăng huyết áp mạn**: Trước tuần thứ 20 của thai kỳ và kéo dài 12 tuần hậu sản.
 4. **Tiền sản giật ghép trên tăng huyết áp mạn**: Tăng huyết áp mạn không đạm niệu + đạm niệu từ tuần thứ 20 hoặc Tăng huyết áp mạn có đạm niệu + dấu hiệu nặng.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

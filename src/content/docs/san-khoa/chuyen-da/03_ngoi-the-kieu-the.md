@@ -82,7 +82,7 @@ Trong ngôi chỏm, **ụ đầu** cùng bên với chi; Trong ngôi mặt, ụ 
 _Hình ảnh "Các kiểu thế trong ngôi chỏm"._
 ![Các kiểu thế trong ngôi chỏm](./_images/ngoi-the-kieu-the/cac-kieu-the-ngoi-chom.png)
 
-Khám âm đạo lúc cổ tử cung đã mở là **phương pháp chính xác nhất** để xác định ngôi – thế – kiểu thế:
+Khám âm đạo lúc cổ tử cung đã mở là **phương pháp chính xác nhất** để xác định ngôi - thế - kiểu thế:
 
 - Ngôi chỏm: Tìm **thóp trước**, **thóp sau**, và **các đường khớp sọ**.
 - Ngôi mặt: Xác định **cằm**.
@@ -106,4 +106,4 @@ Siêu âm có giá trị khi:
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

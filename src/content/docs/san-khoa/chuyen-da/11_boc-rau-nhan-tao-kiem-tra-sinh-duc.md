@@ -61,7 +61,7 @@ _Hình ảnh "Kỹ thuật bóc rau nhân tạo"._
 
 - Tay ngoài cố định đáy tử cung.
 - Tay trong kiểm tra dọc thân tử cung (mặt trước, sau, hai bên).
-- Kiểm tra đoạn dưới từ "3 giờ–9 giờ" theo kim đồng hồ.
+- Kiểm tra đoạn dưới từ "3 giờ-9 giờ" theo kim đồng hồ.
 - Đánh giá: **Co hồi tử cung** chắc (tốt) hay mềm (đờ). **Sót rau** thành tử cung nhám, gồ lên hay nhẵn. **Toàn vẹn** vết mổ cũ, vết rách. **Dị dạng/khối u**.
 - Rút tay ra sau khi đã kiểm tra xong, không thao tác nhiều lần để tránh nhiễm trùng.
 
@@ -122,4 +122,4 @@ _Hình ảnh "Kỹ thuật bóc rau nhân tạo"._
 
 ## Tài liệu tham khảo
 
-- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài – _Thực hành Sản Phụ khoa_
+- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản Phụ khoa_

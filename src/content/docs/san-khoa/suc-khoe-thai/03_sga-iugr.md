@@ -1,6 +1,6 @@
 ---
 title: SGA & IUGR
-description: Thai nhỏ so với tuổi thai (Small-for-Gestational Age – SGA) và thai với tăng trưởng trong tử cung bị giới hạn (Fetal Growth Restriction – FGR hay Intrauterine Growth Restriction – IUGR) là hai tình trạng thường gặp và ảnh hưởng đáng kể đến sức khỏe, phát triển và tiên lượng của thai nhi trước và sau sinh.
+description: Thai nhỏ so với tuổi thai (Small-for-Gestational Age - SGA) và thai với tăng trưởng trong tử cung bị giới hạn (Fetal Growth Restriction - FGR hay Intrauterine Growth Restriction - IUGR) là hai tình trạng thường gặp và ảnh hưởng đáng kể đến sức khỏe, phát triển và tiên lượng của thai nhi trước và sau sinh.
 ---
 
 **SGA (Small-for-Gestational Age)** và **IUGR (Fetal Growth Restriction/Intra-Uterine Growth Retardation)** là tình trạng thai nhi có kích thước hoặc trọng lượng nhỏ hơn so với chuẩn tuổi thai. Chẩn đoán và quản lý kịp thời giúp giảm tỷ lệ biến chứng chu sinh và cải thiện kết cục dài hạn.
@@ -63,7 +63,7 @@ Biến chứng chu sinh và sơ sinh:
 
 ### Xác định nguyên nhân
 
-Cần loại trừ nguyên nhân cấu trúc – di truyền – nhiễm trùng:
+Cần loại trừ nguyên nhân cấu trúc - di truyền - nhiễm trùng:
 
 - **Xét nghiệm di truyền**: NIPT, chọc ối hoặc sinh thiết gai rau để đánh giá lệch bội hoặc đột biến gen.
 - **Siêu âm đánh giá hình thái**: Đo độ mờ da gáy, soft markers, dị tật bẩm sinh.
@@ -90,11 +90,11 @@ Cần loại trừ nguyên nhân cấu trúc – di truyền – nhiễm trùng:
 ## Song thai
 
 - **SGA trong song thai không đồng nghĩa IUGR**; Nhiều trường hợp chỉ là thai nhỏ theo constitution.
-- **IUGR thực sự**: Hội chứng truyền máu (TTTS) hoặc bất thường tử cung–rau không đủ cho hai thai.
+- **IUGR thực sự**: Hội chứng truyền máu (TTTS) hoặc bất thường tử cung-rau không đủ cho hai thai.
 - Đánh giá riêng biệt từng thai bằng Doppler mạch rốn, NST và sinh đồ sinh vật lý.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- ACOG Practice Bulletin No. 134 (2013) – _Intrauterine Growth Restriction_
-- WHO (2014) – _WHO Recommendations for Prevention and Treatment of Pre-eclampsia and Eclampsia_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- ACOG Practice Bulletin No. 134 (2013) - _Intrauterine Growth Restriction_
+- WHO (2014) - _WHO Recommendations for Prevention and Treatment of Pre-eclampsia and Eclampsia_

@@ -22,7 +22,7 @@ Thiểu ối là tình trạng dịch ối ít hơn so với tuổi thai tương
 - Ối vỡ sớm, ối vỡ non.
 
 :::caution
-Nguyên nhân từ phía thai thường xuất hiện sau 17–20 tuần.
+Nguyên nhân từ phía thai thường xuất hiện sau 17-20 tuần.
 :::
 
 ### Từ phần phụ
@@ -36,8 +36,8 @@ Nguyên nhân từ phía thai thường xuất hiện sau 17–20 tuần.
 :::note[Tiêu chuẩn chẩn đoán thiểu ối]
 Chủ yếu dựa vào siêu âm:
 
-- Chỉ số ối (Amniotic Fluid Index – AFI) ≤ 5 cm.
-- Khoang ối lớn nhất (Single Deepest Pocket – SDP) ≤ 2 cm.
+- Chỉ số ối (Amniotic Fluid Index - AFI) ≤ 5 cm.
+- Khoang ối lớn nhất (Single Deepest Pocket - SDP) ≤ 2 cm.
 - SDP ≤ 1 cm là thiểu ối nặng (tương đương AFI ≤ 3 cm).
 
 :::
@@ -50,7 +50,7 @@ Xét nghiệm TORCH, karyotype để phát hiện nhiễm trùng hoặc dị t�
 
 ### 3 tháng đầu
 
-Hầu như không chỉ định điều trị. Tư vấn nguy cơ thai chết lưu và khám lại sau 1–2 tuần.
+Hầu như không chỉ định điều trị. Tư vấn nguy cơ thai chết lưu và khám lại sau 1-2 tuần.
 
 ### 3 tháng giữa
 
@@ -70,11 +70,11 @@ Tư vấn tình trạng thai. **Chấm dứt thai kỳ**:
 **Liệu pháp corticosteroids**:
 
 - Thường quy từ 28 tuần đến 33 tuần 6 ngày.
-- Cân nhắc với trường hợp 24–27 tuần 6 ngày.
+- Cân nhắc với trường hợp 24-27 tuần 6 ngày.
 
-_Hình ảnh "Phác đồ xử trí thiểu ối đơn thuần – Bệnh viện Từ Dũ"._
-![Phác đồ xử trí thiểu ối đơn thuần – Bệnh viện Từ Dũ](./_images/thieu-oi/phac-do-xu-tri-thieu-oi-don-thuan.png)
+_Hình ảnh "Phác đồ xử trí thiểu ối đơn thuần - Bệnh viện Từ Dũ"._
+![Phác đồ xử trí thiểu ối đơn thuần - Bệnh viện Từ Dũ](./_images/thieu-oi/phac-do-xu-tri-thieu-oi-don-thuan.png)
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

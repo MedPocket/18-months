@@ -3,7 +3,7 @@ title: Tiết dịch âm đạo bất thường
 description: Cấu trúc và chức năng của hệ vi khuẩn âm đạo, thành phần sinh lý của dịch tiết âm đạo, nguyên nhân và phân loại các rối loạn tiết dịch, cùng hướng xử trí và các biệt dược thường dùng.
 ---
 
-Hệ vi khuẩn âm đạo (vaginal microbiome) của phụ nữ trong độ tuổi sinh sản bao gồm cả vi khuẩn kỵ khí và hiếu khí thường trú, tồn tại trong quan hệ cộng sinh với môi trường âm đạo. Âm đạo cung cấp dưỡng chất (glycogen, protein, muối điện giải) cho vi sinh vật, đồng thời cộng đồng vi khuẩn đóng vai trò bảo vệ chủ thể bằng cách ngăn chặn vi khuẩn gây bệnh xâm nhập và phát triển quá mức. Rối loạn hệ vi khuẩn âm đạo có thể dẫn đến nhiều vấn đề sức khỏe, như viêm nhiễm, sảy thai, sinh non, thậm chí tăng nguy cơ lây nhiễm qua đường tình dục. Mật độ vi khuẩn trong dịch âm đạo rất cao, khoảng 10⁸–10⁹ vi khuẩn trên mỗi mL.
+Hệ vi khuẩn âm đạo (vaginal microbiome) của phụ nữ trong độ tuổi sinh sản bao gồm cả vi khuẩn kỵ khí và hiếu khí thường trú, tồn tại trong quan hệ cộng sinh với môi trường âm đạo. Âm đạo cung cấp dưỡng chất (glycogen, protein, muối điện giải) cho vi sinh vật, đồng thời cộng đồng vi khuẩn đóng vai trò bảo vệ chủ thể bằng cách ngăn chặn vi khuẩn gây bệnh xâm nhập và phát triển quá mức. Rối loạn hệ vi khuẩn âm đạo có thể dẫn đến nhiều vấn đề sức khỏe, như viêm nhiễm, sảy thai, sinh non, thậm chí tăng nguy cơ lây nhiễm qua đường tình dục. Mật độ vi khuẩn trong dịch âm đạo rất cao, khoảng 10⁸-10⁹ vi khuẩn trên mỗi mL.
 
 Ở phụ nữ trong độ tuổi sinh sản bình thường, _Lactobacillus spp._ (khuẩn Döderlein) chiếm ưu thế. Đây là vi khuẩn Gram dương, hình que, kỵ khí không bắt buộc, thuộc nhóm vi khuẩn lactic acid, có khả năng chuyển hóa glycogen thành lactic acid.
 
@@ -19,7 +19,7 @@ _Hình ảnh "Lactobacillus spp. sản xuất lactic acid, H₂O₂ và bacterio
 
 **Vai trò** của _Lactobacillus_:
 
-- **Duy trì pH âm đạo**: _Lactobacillus_ sản xuất lactic acid giúp giữ pH âm đạo ở mức 3.5–4.5, tạo môi trường không thuận lợi cho vi sinh vật gây bệnh.
+- **Duy trì pH âm đạo**: _Lactobacillus_ sản xuất lactic acid giúp giữ pH âm đạo ở mức 3.5-4.5, tạo môi trường không thuận lợi cho vi sinh vật gây bệnh.
 - **Sản xuất H₂O₂**: Nhiều chủng _Lactobacillus_ tạo H₂O₂, có tác dụng ức chế một số vi khuẩn kỵ khí và vi nấm.
 - **Tiết bacteriocins**: _Lactobacillus_ sinh ra các protein có hoạt tính kháng khuẩn (bacteriocins), nhắm kiểm soát vi khuẩn ngoại lai hoặc có hại.
 - **Kích hoạt miễn dịch bẩm sinh**: Lactic acid không chỉ hạ pH mà còn kích thích đại thực bào, tế bào hình răng (dendritic cells), tế bào NK giải phóng cytokine (IFN-γ), góp phần chống lại vi khuẩn Gram âm.
@@ -27,9 +27,9 @@ _Hình ảnh "Lactobacillus spp. sản xuất lactic acid, H₂O₂ và bacterio
 Ngoài vai trò của _Lactobacillus_, hệ miễn dịch bẩm sinh (innate immunity) và thích ứng (adaptive immunity) cũng tham gia bảo vệ:
 
 - **Miễn dịch bẩm sinh**: Đại thực bào, tế bào hình răng cưa (DC), tế bào giết tự nhiên (NK) thực bào và tiết cytokine (IFN-γ, TNF-α) để tiêu diệt mầm bệnh.
-- **Miễn dịch thích ứng**: Khi vi khuẩn xuyên qua hàng rào biểu mô, lympho B–T sinh kháng thể IgA, IgG, CD4+ và CD8+ tham gia phản ứng đặc hiệu.
+- **Miễn dịch thích ứng**: Khi vi khuẩn xuyên qua hàng rào biểu mô, lympho B-T sinh kháng thể IgA, IgG, CD4+ và CD8+ tham gia phản ứng đặc hiệu.
 
-Môi trường âm đạo được hình thành bởi estrogen, kích thích biểu mô lát tầng tích tụ glycogen, tạo chất nền cho _Lactobacillus_ phát triển. Ở người chưa dậy thì và mãn kinh, thiếu estrogen → giảm glycogen → hệ vi khuẩn ít _Lactobacillus_, pH âm đạo cao (6–8). Ở tuổi sinh sản, pH 3.5–4.7, _Lactobacillus_ chiếm ưu thế, bảo vệ môi trường cân bằng. Hệ vi khuẩn âm đạo có thể thay đổi do các yếu tố:
+Môi trường âm đạo được hình thành bởi estrogen, kích thích biểu mô lát tầng tích tụ glycogen, tạo chất nền cho _Lactobacillus_ phát triển. Ở người chưa dậy thì và mãn kinh, thiếu estrogen → giảm glycogen → hệ vi khuẩn ít _Lactobacillus_, pH âm đạo cao (6-8). Ở tuổi sinh sản, pH 3.5-4.7, _Lactobacillus_ chiếm ưu thế, bảo vệ môi trường cân bằng. Hệ vi khuẩn âm đạo có thể thay đổi do các yếu tố:
 
 - **Thuốc kháng sinh**.
 - **Thuốc tránh thai nội tiết**.
@@ -62,7 +62,7 @@ Khi bị nhiễm hoặc rối loạn, các vi khuẩn kỵ khí (_Gardnerella va
 
 ## Tiếp cận
 
-Bình thường, phụ nữ sinh sản sản xuất khoảng 1.5 g dịch mỗi ngày. Thay đổi tính chất (màu, mùi, độ đặc, lượng) thường do các yếu tố nội tiết (thời kỳ rụng trứng, thai kỳ), tình trạng viêm nhiễm, thụt rửa hoặc stress. Tiết dịch âm đạo bất thường (abnormal vaginal discharge – AVD) là khi dịch có bất kỳ thay đổi nào so với bình thường.
+Bình thường, phụ nữ sinh sản sản xuất khoảng 1.5 g dịch mỗi ngày. Thay đổi tính chất (màu, mùi, độ đặc, lượng) thường do các yếu tố nội tiết (thời kỳ rụng trứng, thai kỳ), tình trạng viêm nhiễm, thụt rửa hoặc stress. Tiết dịch âm đạo bất thường (abnormal vaginal discharge - AVD) là khi dịch có bất kỳ thay đổi nào so với bình thường.
 
 ### Lâm sàng
 
@@ -122,8 +122,8 @@ Bình thường, phụ nữ sinh sản sản xuất khoảng 1.5 g dịch mỗi 
 
 ## Điều trị
 
-_Hình ảnh "Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện Từ Dũ"._
-![Sơ đồ xử trí tiết dịch âm đạo bất thường – Bệnh viện Từ Dũ](./_images/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
+_Hình ảnh "Sơ đồ xử trí tiết dịch âm đạo bất thường - Bệnh viện Từ Dũ"._
+![Sơ đồ xử trí tiết dịch âm đạo bất thường - Bệnh viện Từ Dũ](./_images/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
 
 **Clomaz Forte (Clotrimazole 500 mg)**:
 
@@ -143,9 +143,9 @@ _Hình ảnh "Sơ đồ xử trí tiết dịch âm đạo bất thường – B
 **Timbov (Clotrimazole 500 mg)**:
 
 - Điều trị: Nhiễm nấm âm hộ âm đạo, đặc biệt _Candida_, hoặc viêm hỗn hợp kèm vi khuẩn, _Trichomonas_.
-- Liều: Đặt 1 viên vào âm đạo trước khi ngủ × 7–14 ngày tùy mức độ.
+- Liều: Đặt 1 viên vào âm đạo trước khi ngủ × 7-14 ngày tùy mức độ.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_

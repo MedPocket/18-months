@@ -35,7 +35,7 @@ Hơn 200 type HPV đã được định danh, trong đó 85 type đã mô tả �
 
 - Quan hệ tình dục sớm, có nhiều bạn tình, tiền sử các bệnh lây truyền qua đường tình dục.
 - Sử dụng bao cao su không hoàn toàn ngăn chặn được HPV.
-- Tỷ lệ nhiễm cao ở độ tuổi 18–30, giảm sau 30 do tế bào cổ tử cung biệt hóa hoàn chỉnh, giảm tính cảm nhiễm với virus.
+- Tỷ lệ nhiễm cao ở độ tuổi 18-30, giảm sau 30 do tế bào cổ tử cung biệt hóa hoàn chỉnh, giảm tính cảm nhiễm với virus.
 
 ### Bệnh sinh
 
@@ -67,7 +67,7 @@ _Bảng "Phổ bảo vệ của vaccine 2vHPV, 4vHPV và 9vHPV"._
 | ------------ | --------------------------------- | -------------------------------------------------------- |
 | **2vHPV** | 16, 18 | Ngừa ung thư cổ tử cung (66% trường hợp) |
 | **4vHPV** | 6, 11, 16, 18 | Ngừa ung thư cổ tử cung và mụn cóc sinh dục (type 6, 11) |
-| **9vHPV** | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên 81–90% |
+| **9vHPV** | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên 81-90% |
 
 _Bảng "So sánh vaccine HPV nhị giá và tứ giá"._
 | Thông số | Vaccine HPV tứ giá | Vaccine HPV nhị giá |
@@ -85,7 +85,7 @@ _Bảng "So sánh vaccine HPV nhị giá và tứ giá"._
 | **Hiệu quả trên mụn cóc sinh dục** | Đã được chứng minh | Không phải là mục tiêu |
 | **An toàn sau 6 năm theo dõi** | An toàn | An toàn |
 | **Tính chấp nhận (dung nạp)** | Chấp nhận | Chấp nhận |
-| **Thời gian bảo vệ** | 5–6 năm | 5–6 năm |
+| **Thời gian bảo vệ** | 5-6 năm | 5-6 năm |
 | **Tạo miễn dịch ở vị thành niên** | Đã được chứng minh | Đã được chứng minh |
 | **Tạo miễn dịch ở nữ lớn tuổi hơn** | Đã được chứng minh | Đã được chứng minh |
 | **Ký ức miễn dịch sau 6 năm** | Đã được chứng minh | Chưa báo cáo |
@@ -94,20 +94,20 @@ _Bảng "So sánh vaccine HPV nhị giá và tứ giá"._
 
 **Chỉ định**:
 
-- Trẻ gái và trai 9–12 tuổi (khuyến cáo mạnh 11–12 tuổi).
+- Trẻ gái và trai 9-12 tuổi (khuyến cáo mạnh 11-12 tuổi).
 - Trẻ trai ưu tiên 4vHPV.
 - Người chưa tiêm: Nữ đến 26 tuổi; Nam đến 21 tuổi (mở rộng đến 26 tuổi cho đồng tính và người chuyển giới).
 - Trẻ em bị lạm dụng tình dục: Bắt đầu từ 9 tuổi.
 
 **Phác đồ**:
 
-- Trước 15 tuổi: 2 liều, cách 6–12 tháng.
-- Từ 15 tuổi: 3 liều (0, 1–2 tháng, 6 tháng).
+- Trước 15 tuổi: 2 liều, cách 6-12 tháng.
+- Từ 15 tuổi: 3 liều (0, 1-2 tháng, 6 tháng).
 
 :::caution
 
 - Không cần tầm soát Pap, HPV DNA hay kháng thể trước tiêm.
-- Tuân thủ khoảng cách tối thiểu: Liều 1–2 ≥ 4 tuần; Liều 2–3 ≥ 12 tuần; Liều 1–3 ≥ 40 tuần.
+- Tuân thủ khoảng cách tối thiểu: Liều 1-2 ≥ 4 tuần; Liều 2-3 ≥ 12 tuần; Liều 1-3 ≥ 40 tuần.
 - Trễ hẹn: Tiếp tục liệu trình, không phải bắt đầu lại.
 - Chống chỉ định: Dị ứng nấm men (4v/9vHPV), không tiêm khi mang thai.
 - Có thể tiêm đồng thời với vaccine khác, nhưng không trộn chung ống tiêm.
@@ -125,7 +125,7 @@ Thường thực hiện cùng Pap smear (co-testing). **Âm tính HPV → độ 
 **Chỉ định**:
 
 - Reflex testing khi ASC-US.
-- Co-testing cho phụ nữ 30–65 tuổi.
+- Co-testing cho phụ nữ 30-65 tuổi.
 - Sau điều trị HSIL.
 - Có xu hướng làm test đầu tay từ 25 tuổi.
 
@@ -137,4 +137,4 @@ Thường thực hiện cùng Pap smear (co-testing). **Âm tính HPV → độ 
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

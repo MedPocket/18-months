@@ -16,7 +16,7 @@ Trong cuộc sinh ngôi chỏm, các phần lớn nhất của thai (đầu, vai
 Trên lâm sàng, các hiện tượng này diễn ra nối tiếp và có thể chồng lấp nhau. Vì vậy, cơ chế sinh cũng có thể chia thành hai giai đoạn:
 
 1. **Thì lọt và xuống**: Xảy ra ở vị trí cao.
-2. **Thì xoay và sổ**: Xảy ra ở vị trí thấp. Trong những tuần cuối thai kỳ, do thân thai lớn hơn đầu, thân thường hướng lên phía đáy tử cung – vùng rộng hơn – còn đầu hướng xuống vùng eo – nơi hẹp hơn.
+2. **Thì xoay và sổ**: Xảy ra ở vị trí thấp. Trong những tuần cuối thai kỳ, do thân thai lớn hơn đầu, thân thường hướng lên phía đáy tử cung - vùng rộng hơn - còn đầu hướng xuống vùng eo - nơi hẹp hơn.
 
 ### Lọt
 
@@ -101,7 +101,7 @@ _Hình ảnh "Cắt tầng sinh môn"._
 
 Dựa trên chu kỳ co tử cung:
 
-- **Khi bắt đầu đau**: Thở nhanh, nông, hít bằng mũi – thở ra bằng miệng, tạo âm thanh rít nhẹ. Khi bớt đau, thở chậm và sâu.
+- **Khi bắt đầu đau**: Thở nhanh, nông, hít bằng mũi - thở ra bằng miệng, tạo âm thanh rít nhẹ. Khi bớt đau, thở chậm và sâu.
 - **Giữa các cơn**: Thở đều, thư giãn toàn thân, tích lũy năng lượng.
 
 ### Cách rặn
@@ -112,5 +112,5 @@ Dựa trên chu kỳ co tử cung:
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
-- Bệnh viện Từ Dũ – [_Cách thở và rặn sinh trong cuộc chuyển dạ_](https://tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/cach-tho-va-ran-sinh-trong-cuoc-chuyen-da/)
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Bệnh viện Từ Dũ - [_Cách thở và rặn sinh trong cuộc chuyển dạ_](https://tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/cach-tho-va-ran-sinh-trong-cuoc-chuyen-da/)

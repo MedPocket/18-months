@@ -3,7 +3,7 @@ title: Cường giáp trong thai kỳ
 description: Ảnh hưởng của cường giáp đến mẹ và thai nhi, bao gồm cả chẩn đoán và hướng xử trí phù hợp.
 ---
 
-Cường giáp trong thai kỳ là tình trạng tuyến giáp hoạt động quá mức, tiết ra quá nhiều hormone giáp (T₃ – T₄), ảnh hưởng đến sức khỏe của mẹ và thai nhi nếu không được phát hiện và điều trị kịp thời. Cường giáp trong thai kỳ làm **tăng nguy cơ**:
+Cường giáp trong thai kỳ là tình trạng tuyến giáp hoạt động quá mức, tiết ra quá nhiều hormone giáp (T₃ - T₄), ảnh hưởng đến sức khỏe của mẹ và thai nhi nếu không được phát hiện và điều trị kịp thời. Cường giáp trong thai kỳ làm **tăng nguy cơ**:
 
 - Sinh non.
 - Thai chậm phát triển trong tử cung (IUGR).
@@ -41,7 +41,7 @@ Các triệu chứng lâm sàng định hướng chẩn đoán:
 
 :::caution
 
-1. PTU và methimazole có thể qua bánh rau → có thể gây **bướu giáp hoặc nhược giáp thai nhi**. Khoảng 1–5% trẻ phơi nhiễm với PTU trong tử cung có bướu giáp.
+1. PTU và methimazole có thể qua bánh rau → có thể gây **bướu giáp hoặc nhược giáp thai nhi**. Khoảng 1-5% trẻ phơi nhiễm với PTU trong tử cung có bướu giáp.
 2. PTU có thể ức chế chuyển T₄ thành T₃ ngoại vi, trong khi methimazole có thể gây **dị tật bẩm sinh**, đặc biệt là dị tật đường tiêu hóa nếu dùng trong tam cá nguyệt đầu.
 3. PTU bài tiết rất ít qua sữa mẹ → có thể dùng cho mẹ cho con bú.
 4. **Iod phóng xạ bị chống chỉ định tuyệt đối trong thai kỳ**.
@@ -68,13 +68,13 @@ Các triệu chứng lâm sàng định hướng chẩn đoán:
 ### Cấp cứu ban đầu
 
 - **Sodium iodide** 1 g tiêm mạch để ức chế tiết hormone tuyến giáp.
-- **PTU** 1200–1800 mg/ngày chia liều để chặn tổng hợp và chuyển hóa T₄.
+- **PTU** 1200-1800 mg/ngày chia liều để chặn tổng hợp và chuyển hóa T₄.
 - **Dexamethasone** 8 mg/ngày: Ngăn nitrat hóa T₄.
-- **Propranolol** 20–80 mg mỗi 6 giờ: Kiểm soát triệu chứng cường giao cảm.
+- **Propranolol** 20-80 mg mỗi 6 giờ: Kiểm soát triệu chứng cường giao cảm.
 - Bù dịch và hạ thân nhiệt.
 
 :::caution
-Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồn tại 2–3 tháng → khoảng **1% trẻ sơ sinh của mẹ Graves có nhiễm độc giáp**, nguy cơ tử vong lên đến 16%. Nghi ngờ khi:
+Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồn tại 2-3 tháng → khoảng **1% trẻ sơ sinh của mẹ Graves có nhiễm độc giáp**, nguy cơ tử vong lên đến 16%. Nghi ngờ khi:
 
 - Tim thai > 160 lần/phút kéo dài.
 - Siêu âm: Phát hiện bướu giáp thai.
@@ -83,4 +83,4 @@ Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồ
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

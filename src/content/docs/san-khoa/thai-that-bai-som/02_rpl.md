@@ -20,8 +20,8 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 
 ### Khảo sát vật chất di truyền
 
-- **Bất thường di truyền phôi** chiếm 86–91% RPL. Khuyến cáo **xét nghiệm array-CGH cho mô thai tống xuất** để xác định nguyên nhân, hạn chế nhiễm chéo từ mẹ.
-- **Bất thường nhiễm sắc thể ở bố mẹ** (chuyển đoạn, đảo đoạn...) chiếm 1.9–3.5% RPL; Chỉ làm karyotype khi có yếu tố nguy cơ gia đình.
+- **Bất thường di truyền phôi** chiếm 86-91% RPL. Khuyến cáo **xét nghiệm array-CGH cho mô thai tống xuất** để xác định nguyên nhân, hạn chế nhiễm chéo từ mẹ.
+- **Bất thường nhiễm sắc thể ở bố mẹ** (chuyển đoạn, đảo đoạn...) chiếm 1.9-3.5% RPL; Chỉ làm karyotype khi có yếu tố nguy cơ gia đình.
 - **Tầm soát tiền làm tổ (PGT)** phát hiện lệch bội và bất thường DNA ti thể/phôi.
 
 ### Khảo sát tăng đông
@@ -57,4 +57,4 @@ _Bảng "Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp"
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) – _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
