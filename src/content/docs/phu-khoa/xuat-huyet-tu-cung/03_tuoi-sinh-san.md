@@ -14,7 +14,6 @@ Theo khuyến cáo của FIGO 2018, AUB được phân thành hai hệ thống:
 
 ### Theo định nghĩa
 
-_Bảng "Các thuật ngữ liên quan đến xuất huyết tử cung bất thường theo FIGO"._
 ![Các thuật ngữ về xuất huyết tử cung bất thường](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/cac-thuat-ngu-ve-xuat-huyet-tu-cung-bat-thuong.jpeg)
 
 **AUB mạn tính**: Chảy máu tử cung bất thường kéo dài ít nhất **6 tháng** gần nhất, với bất thường ở một hoặc nhiều khía cạnh sau:
@@ -28,29 +27,27 @@ _Bảng "Các thuật ngữ liên quan đến xuất huyết tử cung bất th�
 
 ### Theo nguyên nhân (PALM-COEIN)
 
-_Bảng "Nguyên nhân thuộc cấu trúc (PALM)"._
-| | Nguyên nhân thuộc cấu trúc (PALM) |
+|                              | Nguyên nhân thuộc cấu trúc (PALM)                                                  |
 | ---------------------------- | ---------------------------------------------------------------------------------- |
-| **P**olyps | Polyp nội mạc tử cung |
-| **A**denomyosis | Lạc nội mạc trong cơ tử cung |
-| **L**eiomyomas | U xơ tử cung (chủ yếu u xơ dưới niêm mạc và trong cơ) |
+| **P**olyps                   | Polyp nội mạc tử cung                                                              |
+| **A**denomyosis              | Lạc nội mạc trong cơ tử cung                                                       |
+| **L**eiomyomas               | U xơ tử cung (chủ yếu u xơ dưới niêm mạc và trong cơ)                              |
 | **M**alignancy & Hyperplasia | Tăng sinh nội mạc (simple/complex, có/không loạn sản) hoặc ung thư nội mạc tử cung |
 
-_Bảng "Nguyên nhân không thuộc cấu trúc (COEIN)"._
-| | Nguyên nhân không thuộc cấu trúc (COEIN) |
+|                           | Nguyên nhân không thuộc cấu trúc (COEIN)                                             |
 | ------------------------- | ------------------------------------------------------------------------------------ |
-| **C**oagulopathy | Rối loạn đông máu (di truyền hoặc mắc phải) |
-| **O**vulatory Dysfunction | Rối loạn phóng noãn (ví dụ: PCOS, thiếu hụt nội tiết) |
-| **E**ndometrial | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: Bất thường mạch máu nội mạc) |
-| **I**atrogenic | Do thuốc hoặc các thủ thuật y tế (thiếu ốc chèn, dụng cụ tử cung, thuốc nội tiết...) |
-| **N**ot yet classified | Nguyên nhân chưa rõ hoặc chưa phân loại được |
+| **C**oagulopathy          | Rối loạn đông máu (di truyền hoặc mắc phải)                                          |
+| **O**vulatory Dysfunction | Rối loạn phóng noãn (ví dụ: PCOS, thiếu hụt nội tiết)                                |
+| **E**ndometrial           | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: Bất thường mạch máu nội mạc)             |
+| **I**atrogenic            | Do thuốc hoặc các thủ thuật y tế (thiếu ốc chèn, dụng cụ tử cung, thuốc nội tiết...) |
+| **N**ot yet classified    | Nguyên nhân chưa rõ hoặc chưa phân loại được                                         |
 
 ## Chẩn đoán
 
-_Hình ảnh "Sơ đồ tiếp cận AUB mạn tính - Bệnh viện Từ Dũ"._
+_Hình ảnh "Sơ đồ tiếp cận AUB mạn tính - Bệnh viện Từ Dũ"_.
 ![Sơ đồ tiếp cận AUB mạn tính - Bệnh viện Từ Dũ.](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
 
-_Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp AUB"._
+_Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp AUB"_.
 ![Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/tom-luoc-khao-sat-va-chan-doan-1-so-truong-hop.jpeg)
 
 ### Lâm sàng
@@ -78,17 +75,16 @@ _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của
 
 #### Xét nghiệm cơ bản
 
-_Bảng "Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng"._
-| Loại xét nghiệm | Mục đích |
-| ---------------------------------------------- | -------------------------------------------------------------------------- |
-| **hCG (nước tiểu hay máu)** | Loại trừ thai |
-| **Công thức máu và chức năng đông máu** | Loại trừ bệnh lý rối loạn đông máu |
-| **FSH, LH, Estrogen** | Đánh giá giai đoạn của buồng trứng |
-| **Free T₄/T₃, TSH** | Loại trừ bệnh lý tuyến giáp |
-| **Androgen (Testosterone tự do, DHEA-S)** | Chẩn đoán tình trạng cường androgen trong hội chứng buồng trứng đa nang |
-| **Insulin, glucose máu**| Khi BMI > 25 hoặc nghi kháng insulin (PCOS)|
-| **Prolactin máu** | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn |
-| **MRI sọ não** | Nếu prolactin > 100 ng/mL, cần thêm MRI để khảo sát microadenoma tuyến yên |
+| Xét nghiệm cần cân nhắc thực hiện         | Mục đích                                                                   |
+| ----------------------------------------- | -------------------------------------------------------------------------- |
+| **hCG (nước tiểu hay máu)**               | Loại trừ thai                                                              |
+| **Công thức máu và chức năng đông máu**   | Loại trừ bệnh lý rối loạn đông máu                                         |
+| **FSH, LH, Estrogen**                     | Đánh giá giai đoạn của buồng trứng                                         |
+| **Free T₄/T₃, TSH**                       | Loại trừ bệnh lý tuyến giáp                                                |
+| **Androgen (Testosterone tự do, DHEA-S)** | Chẩn đoán tình trạng cường androgen trong hội chứng buồng trứng đa nang    |
+| **Insulin, glucose máu**                  | Khi BMI > 25 hoặc nghi kháng insulin (PCOS)                                |
+| **Prolactin máu**                         | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn                       |
+| **MRI sọ não**                            | Nếu prolactin > 100 ng/mL, cần thêm MRI để khảo sát microadenoma tuyến yên |
 
 #### Chẩn đoán hình ảnh
 

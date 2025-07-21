@@ -35,12 +35,11 @@ Mục tiêu quản lý là **phòng ngừa huyết khối** và **đảm bảo k
 
 ## Điều trị
 
-_Bảng "Phân tầng nguy cơ và phác đồ điều trị Hội chứng kháng phospholipid"_
-| Nhóm | Tiền sử lâm sàng | Phác đồ điều trị trong thai kỳ |
-|-----------------------------|------------------------------------|-----------------------------------------------------------------|
-| **APS cao** | - Huyết khối (tĩnh-động mạch) trước/sau khi có thai<br/>- Biến chứng thai kỳ nặng (≥ 1 lần sẩy/lưu/sinh non < 34 tuần) | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH điều trị**: Enoxaparin 1 mg/kg tiêm dưới da mỗi 12 giờ; Hoặc Dalteparin 100 IU/kg tiêm dưới da mỗi 12 giờ<br/>- Duy trì đến ít nhất 6 tuần hậu sản |
-| **APS trung bình** | - Chưa huyết khối, chỉ ≥ 1 biến chứng thai kỳ nhẹ (sẩy thai tự nhiên < 10 tuần) | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH dự phòng**: Enoxaparin 40 mg tiêm dưới da/ngày;Hoặc Dalteparin 5 000 IU tiêm dưới da/ngày<br/>- Tiếp tục đến 6 tuần hậu sản |
-| **APS thấp** | - Dương kháng thể, chưa có biểu hiện lâm sàng | - **Aspirin 75-100 mg/ngày** từ khi chẩn đoán đến sinh rồi dừng sau sinh |
+| Phân tầng nguy cơ và phác đồ điều trị Hội chứng kháng phospholipid | Tiền sử lâm sàng                                                                                                       | Phác đồ điều trị trong thai kỳ                                                                                                                                                               |
+| ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **APS cao**                                                        | - Huyết khối (tĩnh-động mạch) trước/sau khi có thai<br/>- Biến chứng thai kỳ nặng (≥ 1 lần sẩy/lưu/sinh non < 34 tuần) | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH điều trị**: Enoxaparin 1 mg/kg tiêm dưới da mỗi 12 giờ; Hoặc Dalteparin 100 IU/kg tiêm dưới da mỗi 12 giờ<br/>- Duy trì đến ít nhất 6 tuần hậu sản |
+| **APS trung bình**                                                 | - Chưa huyết khối, chỉ ≥ 1 biến chứng thai kỳ nhẹ (sẩy thai tự nhiên < 10 tuần)                                        | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH dự phòng**: Enoxaparin 40 mg tiêm dưới da/ngày;Hoặc Dalteparin 5 000 IU tiêm dưới da/ngày<br/>- Tiếp tục đến 6 tuần hậu sản                        |
+| **APS thấp**                                                       | - Dương kháng thể, chưa có biểu hiện lâm sàng                                                                          | - **Aspirin 75-100 mg/ngày** từ khi chẩn đoán đến sinh rồi dừng sau sinh                                                                                                                     |
 
 **Sau sinh**:
 

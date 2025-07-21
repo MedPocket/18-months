@@ -10,14 +10,13 @@ Có nhiều yếu tố ảnh hưởng đến đáp ứng co tử cung:
 - Con rạ khởi phát chuyển dạ dễ hơn con so.
 - Độ chín muồi của cổ tử cung (Bishop score).
 
-_Bảng "Điểm Bishop - đánh giá độ chín muồi cổ tử cung"._
-| | 0 điểm | 1 điểm | 2 điểm | 3 điểm |
-| --------------------- | ------------ | ---------- | ------------------------ | -------------- |
-| **Độ mở cổ tử cung** | đóng | 1-2 cm | 3-4 cm | ≥ 5 cm |
-| **Độ xóa cổ tử cung** | 0-30% | 40-50% | 60-70% | ≥ 80% |
-| **Mật độ cổ tử cung** | chắc | trung bình | mềm | — |
-| **Hướng cổ tử cung** | sau | trung gian | trước | — |
-| **Độ lọt ngôi thai** | di động (-3) | chúc (-2) | ghim chặt/lọt cao (-1/0) | đã lọt (+1,+2) |
+| Điểm Bishop - đánh giá độ chín muồi cổ tử cung | 0 điểm       | 1 điểm     | 2 điểm                   | 3 điểm         |
+| ---------------------------------------------- | ------------ | ---------- | ------------------------ | -------------- |
+| **Độ mở cổ tử cung**                           | đóng         | 1-2 cm     | 3-4 cm                   | ≥ 5 cm         |
+| **Độ xóa cổ tử cung**                          | 0-30%        | 40-50%     | 60-70%                   | ≥ 80%          |
+| **Mật độ cổ tử cung**                          | chắc         | trung bình | mềm                      | —              |
+| **Hướng cổ tử cung**                           | sau          | trung gian | trước                    | —              |
+| **Độ lọt ngôi thai**                           | di động (-3) | chúc (-2)  | ghim chặt/lọt cao (-1/0) | đã lọt (+1,+2) |
 
 - **Tổng ≥ 10**: Sinh trong 2-3 giờ.
 - **7-9**: Sinh trong 8 giờ.
@@ -49,15 +48,14 @@ _Bảng "Điểm Bishop - đánh giá độ chín muồi cổ tử cung"._
 
 ## Các thuốc thường dùng
 
-_Bảng "Thuốc tăng co tử cung và hồi phục tử cung"._
-| Thuốc | Dạng | Khởi phát chuyển dạ | Dự phòng/Điều trị băng huyết | Tác dụng |
+| Thuốc tăng co tử cung và hồi phục tử cung             | Dạng                                                        | Khởi phát chuyển dạ | Dự phòng/Điều trị băng huyết | Tác dụng |
 | ----------------------------------------------------- | ----------------------------------------------------------- | ------------------- | ---------------------------- | -------- |
-| **Oxytocin** | 5 IU/ống tiêm bắp hoặc tĩnh mạch | ✓ | ✓ | Ngắn |
-| **Carbetocin** (Duratocin®) | 100 µg/ống tiêm bắp | — | ✓ | Kéo dài |
-| **Ergonovine / Methylergonovine** | 0.2 mg/ống tiêm bắp | — | ✓ | Kéo dài |
-| **Syntometrine** (oxytocin 5 IU + ergometrine 0.5 mg) | 1 mL/ống tiêm bắp hoặc tĩnh mạch | — | ✓ | Kéo dài |
-| **Carboprost (PGF₂α)** / Sulprostone, Nalador® | 125-250 µg/1 mL tiêm bắp; 500 µg bột pha tiêm bắp/tĩnh mạch | — | ✓ | Kéo dài |
-| **Misoprostol (PGE₁)** (Cytotec®) | 200 µg: Đường uống, ngậm, đặt âm đạo/trực tràng | ✓ | ✓ | Kéo dài |
+| **Oxytocin**                                          | 5 IU/ống tiêm bắp hoặc tĩnh mạch                            | ✓                   | ✓                            | Ngắn     |
+| **Carbetocin** (Duratocin®)                          | 100 µg/ống tiêm bắp                                         | —                   | ✓                            | Kéo dài  |
+| **Ergonovine / Methylergonovine**                     | 0.2 mg/ống tiêm bắp                                         | —                   | ✓                            | Kéo dài  |
+| **Syntometrine** (oxytocin 5 IU + ergometrine 0.5 mg) | 1 mL/ống tiêm bắp hoặc tĩnh mạch                            | —                   | ✓                            | Kéo dài  |
+| **Carboprost (PGF₂α)** / Sulprostone, Nalador®       | 125-250 µg/1 mL tiêm bắp; 500 µg bột pha tiêm bắp/tĩnh mạch | —                   | ✓                            | Kéo dài  |
+| **Misoprostol (PGE₁)** (Cytotec®)                    | 200 µg: Đường uống, ngậm, đặt âm đạo/trực tràng             | ✓                   | ✓                            | Kéo dài  |
 
 ### Oxytocin
 

@@ -44,15 +44,14 @@ Siêu âm qua đường âm đạo đo khoảng cách (mm) giữa mép bánh rau
 
 ### Chẩn đoán phân biệt
 
-_Bảng "Phân biệt rau tiền đạo và rau bong non"._
-| Đặc điểm | Rau tiền đạo | Rau bong non |
-| ----------------------------- | ------------------------- | ---------------------------------------------------------------------------- |
-| **Lượng máu mất** | Thay đổi | Thay đổi |
-| **Diễn tiến** | Thường tự hết sau 1-2 giờ | Thường tiến triển |
-| **Đau bụng** | Không có | Thường có, nặng nề |
-| **Tình trạng thai** | Bình thường | Tim thai nhanh, sau đó chậm, mất dao động nội tại, nhịp giảm, có thể tử vong |
-| **Rối loạn đông máu** | HIẾM | Có thể có, nếu xuất hiện DIC thì tiên lượng nặng nề |
-| **Bệnh cảnh/ Yếu tố nguy cơ** | | Chấn thương bụng, tăng huyết áp thai kỳ-tiền sản giật, đa thai, đa ối |
+| Phân biệt rau tiền đạo và rau bong non | Rau tiền đạo              | Rau bong non                                                                 |
+| -------------------------------------- | ------------------------- | ---------------------------------------------------------------------------- |
+| **Lượng máu mất**                      | Thay đổi                  | Thay đổi                                                                     |
+| **Diễn tiến**                          | Thường tự hết sau 1-2 giờ | Thường tiến triển                                                            |
+| **Đau bụng**                           | Không có                  | Thường có, nặng nề                                                           |
+| **Tình trạng thai**                    | Bình thường               | Tim thai nhanh, sau đó chậm, mất dao động nội tại, nhịp giảm, có thể tử vong |
+| **Rối loạn đông máu**                  | HIẾM                      | Có thể có, nếu xuất hiện DIC thì tiên lượng nặng nề                          |
+| **Bệnh cảnh/ Yếu tố nguy cơ**          |                           | Chấn thương bụng, tăng huyết áp thai kỳ-tiền sản giật, đa thai, đa ối        |
 
 ## Biến chứng
 

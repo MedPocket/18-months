@@ -35,13 +35,12 @@ Sarcoma cơ trơn thân tử cung là khối u ác tính rất hiếm, chiếm <
 
 ### Đặc điểm
 
-_Bảng "So sánh u xơ tử cung, STUMP và sarcoma thân tử cung"._
-| Tiêu chí | U xơ-cơ lành tính | STUMP | Sarcoma cơ trơn |
-| ------------------- | ----------------- | ----------------------------------- | --------------------------- |
-| **Đột biến nhân** | Hiếm | Có thể có, không rõ rệt | Thường |
-| **Số phân bào** | < 5/10 HPF | 5-10/10 HPF | > 10/10 HPF |
-| **Hoại tử tế bào** | Không | Ít thấy hoặc hoại tử không đặc hiệu | Hoại tử dạng tăng sinh mạch |
-| **Độ dị dạng nhân** | Thấp | Trung bình | Cao |
+| So sánh u xơ tử cung, STUMP và sarcoma thân tử cung | U xơ-cơ lành tính | STUMP                               | Sarcoma cơ trơn             |
+| --------------------------------------------------- | ----------------- | ----------------------------------- | --------------------------- |
+| **Đột biến nhân**                                   | Hiếm              | Có thể có, không rõ rệt             | Thường                      |
+| **Số phân bào**                                     | < 5/10 HPF        | 5-10/10 HPF                         | > 10/10 HPF                 |
+| **Hoại tử tế bào**                                  | Không             | Ít thấy hoặc hoại tử không đặc hiệu | Hoại tử dạng tăng sinh mạch |
+| **Độ dị dạng nhân**                                 | Thấp              | Trung bình                          | Cao                         |
 
 - STUMP (Smooth muscle Tumour of Uncertain Malignant Potential) là khối u cơ trơn có đặc điểm mô học trung gian.
 - STUMP có thể **tái phát** hoặc **xâm lấn** tại chỗ; Nguy cơ di căn thấp (< 5%).

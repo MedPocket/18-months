@@ -33,7 +33,7 @@ Ngôi được xem là đã lọt khi đường kính lọt của ngôi vượt 
 - Chưa lọt: -1, -2, -3.
 - Đã lọt: +1, +2, +3.
 
-_Hình ảnh "Độ lọt ngôi thai"._
+_Hình ảnh "Độ lọt ngôi thai"_.
 ![Độ lọt ngôi thai](./_images/de-thuong-ngoi-chom/do-lot-ngoi-thai.png)
 
 ### Xuống
@@ -44,7 +44,7 @@ Là sự di chuyển tiếp theo của ngôi thai trong tiểu khung sau khi đ�
 
 Xoay trong giúp ngôi điều chỉnh để đường kính sổ của đầu trùng với đường kính trước - sau của eo dưới.
 
-_Hình ảnh "Xuống và xoay trong"._
+_Hình ảnh "Xuống và xoay trong"_.
 ![Xuống và xoay trong](./_images/de-thuong-ngoi-chom/xuong-va-xoay-trong.png)
 
 ### Sổ
@@ -55,7 +55,7 @@ Sổ thai xảy ra khi ngôi vượt qua eo dưới, điểm tựa chính là **
 
 Các giai đoạn **(a → d)** xảy ra theo cơ chế tự nhiên, **không được can thiệp**:
 
-_Hình ảnh "Đẻ thường ngôi chỏm a → d"._
+_Hình ảnh "Đẻ thường ngôi chỏm a → d"_.
 ![Đẻ thường ngôi chỏm a-d](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-a-d.png)
 
 Từ giai đoạn **(e → h)**, người đỡ sinh có thể **hỗ trợ** nếu thỏa 3 điều kiện:
@@ -65,7 +65,7 @@ Từ giai đoạn **(e → h)**, người đỡ sinh có thể **hỗ trợ** n�
 3. Hai môi bé tách rộng.
 
 **Giúp đầu cúi tối đa**: Tay phải dùng 3 ngón giữa ấn vào thượng chẩm, tay trái giữ tầng sinh môn.
-_Hình ảnh "Đẻ thường ngôi chỏm e → f"._
+_Hình ảnh "Đẻ thường ngôi chỏm e → f"_.
 ![Đẻ thường ngôi chỏm e-f](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-e-f.png)
 
 **Khi hạ chẩm ra khỏi bờ dưới khớp vệ**: Tay phải kiểm soát tốc độ ngửa đầu để sổ trán, nếu tầng sinh môn căng quá có thể cắt chủ động.
@@ -79,7 +79,7 @@ _Hình ảnh "Đẻ thường ngôi chỏm e → f"._
 
 **Đỡ vai trước** kéo đầu về phía chân người đỡ, xuống dưới để vai ra. **Đỡ vai sau** kéo thai lên trên, vai sau sổ nhẹ nhàng, giữ tầng sinh môn.
 
-_Hình ảnh "Đẻ thường ngôi chỏm g → h"._
+_Hình ảnh "Đẻ thường ngôi chỏm g → h"_.
 ![Đẻ thường ngôi chỏm g-h](./_images/de-thuong-ngoi-chom/de-thuong-noi-chom-g-h.png)
 
 **Sổ phần còn lại** tay trái đỡ cổ, tay phải vuốt dọc lưng, nắm 2 bàn chân bằng 3 ngón tay (cái, trỏ, giữa). Sau sổ, giữ đầu thai thấp hơn bàn sinh.
@@ -92,7 +92,7 @@ _Hình ảnh "Đẻ thường ngôi chỏm g → h"._
   Cắt tầng sinh môn không rút ngắn thời gian rặn, không giúp sinh nhanh hơn.
   :::
 
-_Hình ảnh "Cắt tầng sinh môn"._
+_Hình ảnh "Cắt tầng sinh môn"_.
 ![Cắt tầng sinh môn](./_images/de-thuong-ngoi-chom/cat-tang-sinh-mon.png)
 
 ## Thở và rặn

@@ -123,7 +123,7 @@ Tân sinh của tế bào biểu mô cổ ống Muller tại buồng trứng, ch
 
 #### U xuất phát từ tế bào mầm
 
-_Hình ảnh "Sơ đồ cổ điển và giản lược về các khối u tế bào mầm"._
+_Hình ảnh "Sơ đồ cổ điển và giản lược về các khối u tế bào mầm"_.
 ![Sơ đồ cổ điển và giản lược về các khối u tế bào mầm](./_images/u-buong-trung-theo-who/so-do-co-dien-va-gian-luoc-u-te-bao-mam.png)
 
 Khối u từ tế bào nguồn dòng sinh dục đã trải qua một phần giảm phân I:

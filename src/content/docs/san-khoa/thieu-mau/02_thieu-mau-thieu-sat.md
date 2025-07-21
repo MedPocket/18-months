@@ -7,12 +7,11 @@ Thiếu máu thiếu sắt trong thai kỳ là tình trạng rất phổ biến,
 
 ## Hậu quả
 
-_Bảng "Thiếu máu thiếu sắt, thiếu máu thiếu acid folic và hệ quả"._
-| Đối tượng | Thiếu máu thiếu sắt | Thiếu máu thiếu acid folic |
+| Đối tượng                 | Thiếu máu thiếu sắt                                                                                                                          | Thiếu máu thiếu acid folic                                                                                                                                    |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Phụ nữ mọi lứa tuổi** | - Giảm trí nhớ<br>- Khả năng tư duy kém<br>- Giảm năng suất lao động | - Giảm miễn dịch |
-| **Phụ nữ mang thai** | - Sảy thai/sinh non<br>- Chậm tăng trưởng trong tử cung<br>- Băng huyết sau sinh<br>- Tăng nguy cơ tử vong mẹ và con<br>- Mệt mỏi, chóng mặt | - Bệnh lý bánh nhau (nhau tiền đạo)<br>- Dị tật thai nhi:<br> + Tật ống thần kinh<br> + Gai đôi cột sống<br> + Thoát vị não<br> + Thai vô sọ<br> + Hở hàm ếch |
-| **Trẻ sơ sinh và trẻ em** | - Nhẹ cân<br>- Suy dinh dưỡng<br>- Tử vong chu sinh<br>- Mệt mỏi, tiếp thu chậm | - Tử vong chu sinh |
+| **Phụ nữ mọi lứa tuổi**   | - Giảm trí nhớ<br>- Khả năng tư duy kém<br>- Giảm năng suất lao động                                                                         | - Giảm miễn dịch                                                                                                                                              |
+| **Phụ nữ mang thai**      | - Sảy thai/sinh non<br>- Chậm tăng trưởng trong tử cung<br>- Băng huyết sau sinh<br>- Tăng nguy cơ tử vong mẹ và con<br>- Mệt mỏi, chóng mặt | - Bệnh lý bánh nhau (nhau tiền đạo)<br>- Dị tật thai nhi:<br> + Tật ống thần kinh<br> + Gai đôi cột sống<br> + Thoát vị não<br> + Thai vô sọ<br> + Hở hàm ếch |
+| **Trẻ sơ sinh và trẻ em** | - Nhẹ cân<br>- Suy dinh dưỡng<br>- Tử vong chu sinh<br>- Mệt mỏi, tiếp thu chậm                                                              | - Tử vong chu sinh                                                                                                                                            |
 
 ## Chẩn đoán
 
@@ -42,22 +41,21 @@ Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic 
 
 **ACOG** bổ sung sắt nguyên tố suốt thai kỳ, liều tùy tình trạng thiếu máu:
 
-_Bảng "Bổ sung sắt trong thai kỳ theo tình trạng thiếu máu (ACOG)"._
-| Giai đoạn | Hemoglobin (g/dL) | Ferritin (µg/L) | Khuyến cáo |
+| Giai đoạn        | Hemoglobin (g/dL) | Ferritin (µg/L) | Khuyến cáo             |
 | ---------------- | ----------------- | --------------- | ---------------------- |
-| **3 tháng đầu** | < 9 | Bất kỳ | Đánh giá bệnh nội khoa |
-| | 9 - 10.9 | > 30 | Đánh giá bệnh nội khoa |
-| | 9 - 10.9 | 12 - 20 | 30 mg sắt/ngày |
-| | ≥ 11 | ≤ 20 | 30 mg sắt/ngày |
-| | 9 - 10.9 | < 12 | 60 - 120 mg sắt/ngày |
-| | > 11 | > 20 | Không cần bổ sung sắt |
-| **3 tháng giữa** | < 9 | Bất kỳ | Đánh giá bệnh nội khoa |
-| | ≥ 10.5 | ≤ 20 | 30 mg sắt/ngày |
-| | 9 - 10.4 | < 12 | 60 - 120 mg sắt/ngày |
-| | > 10.5 | > 20 | Không cần bổ sung sắt |
-| **3 tháng cuối** | < 9 | Bất kỳ | Đánh giá bệnh nội khoa |
-| | ≥ 11 | Bất kỳ | 30 mg sắt/ngày |
-| | 9 - 10.9 | Bất kỳ | 60 - 120 mg sắt/ngày |
+| **3 tháng đầu**  | < 9               | Bất kỳ          | Đánh giá bệnh nội khoa |
+|                  | 9 - 10.9          | > 30            | Đánh giá bệnh nội khoa |
+|                  | 9 - 10.9          | 12 - 20         | 30 mg sắt/ngày         |
+|                  | ≥ 11              | ≤ 20            | 30 mg sắt/ngày         |
+|                  | 9 - 10.9          | < 12            | 60 - 120 mg sắt/ngày   |
+|                  | > 11              | > 20            | Không cần bổ sung sắt  |
+| **3 tháng giữa** | < 9               | Bất kỳ          | Đánh giá bệnh nội khoa |
+|                  | ≥ 10.5            | ≤ 20            | 30 mg sắt/ngày         |
+|                  | 9 - 10.4          | < 12            | 60 - 120 mg sắt/ngày   |
+|                  | > 10.5            | > 20            | Không cần bổ sung sắt  |
+| **3 tháng cuối** | < 9               | Bất kỳ          | Đánh giá bệnh nội khoa |
+|                  | ≥ 11              | Bất kỳ          | 30 mg sắt/ngày         |
+|                  | 9 - 10.9          | Bất kỳ          | 60 - 120 mg sắt/ngày   |
 
 **WHO** khuyến nghị bổ sung 60 mg sắt nguyên tố và 200 µg acid folic hàng ngày từ khi mang thai đến khi sinh để phòng ngừa thiếu máu thiếu sắt.
 

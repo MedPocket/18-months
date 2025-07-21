@@ -41,8 +41,7 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 
 ### Khảo sát giải phẫu tử cung
 
-- Siêu âm 3D là lựa chọn đầu tay, có thể thay thế bằng SIS hoặc MRI nếu cần.<br>
-  _Bảng "Bất thường giải phẫu tử cung"._
+- Siêu âm 3D là lựa chọn đầu tay, có thể thay thế bằng SIS hoặc MRI nếu cần.
   | Bất thường giải phẫu tử cung | Điều trị |
   | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
   | **Tử cung có vách ngăn** | Nội soi buồng tử cung cắt vách ngăn |
@@ -52,7 +51,6 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
   | **Các dị dạng khác (tử cung đôi, tử cung 2 sừng...)** | Không khuyến cáo can thiệp do thiếu chứng cứ lợi ích |
 - Khảo sát hệ niệu khi phát hiện dị dạng.
 
-_Bảng "Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp"._
 ![Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp](./_images/thai-that-bai-som-lien-tiep/luoc-do-tiep-can-thai-nghen-that-bai-som-lien-tiep.png)
 
 ## Tài liệu tham khảo

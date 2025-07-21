@@ -37,7 +37,7 @@ description: Thalassemia - bệnh hemoglobin di truyền gây thiếu máu, bao 
 
 ### Với thai
 
-_Thai phù trong hội chứng Hb Bart’s._
+_Thai phù trong hội chứng Hb Bart’s_.
 ![Thai phù trong hội chứng Bart](./_images/thai-phu-trong-hoi-chung-Bart.png)
 
 - Thể nặng có thể không sống sót sau sinh.
@@ -51,7 +51,7 @@ _Thai phù trong hội chứng Hb Bart’s._
 - Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.
 - Chẩn đoán trên thai: Sinh thiết gai rau, chọc ối hoặc lấy máu cuống rốn nếu có nguy cơ cao.
 
-_Kết quả điện di Hb ở người trưởng thành._
+_Kết quả điện di Hb ở người trưởng thành_.
 ![Kết quả điện di Hb ở người trưởng thành](./_images/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
 
 ## Thai phụ mắc β-thalassemia

@@ -9,12 +9,11 @@ Việc tầm soát và dự phòng tiền sản giật là cực kỳ quan trọ
 
 ## Đánh giá nguy cơ
 
-_Bảng "Đánh giá lâm sàng nguy cơ tiền sản giật"._
-| Nguy cơ | Yếu tố nguy cơ | Khuyến cáo |
-| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| **Cao** | - Tiền sử tiền sản giật (đặc biệt kèm kết cục xấu)<br>- Đa thai<br>- Tăng huyết áp mạn tính<br>- Đái tháo đường type 1/type 2<br>- Bệnh thận<br>- Bệnh lý tự miễn (Lupus ban đỏ, hội chứng kháng Phospholipid) | **Khuyến cáo dùng aspirin liều thấp** khi có ≥ 1 yếu tố nguy cơ cao. |
-| **Trung bình** | - Con so<br>- Béo phì (BMI > 30)<br>- Tiền sử gia đình tiền sản giật (mẹ/chị em gái)<br>- Kinh tế-xã hội thấp/người Mỹ gốc Phi<br>- Sinh con nhẹ cân, thai tăng trưởng hạn chế trong tử cung<br>- Kết cục xấu ở thai kỳ trước<br>- Khoảng cách giữa 2 lần mang thai > 10 năm | **Khuyến cáo dùng aspirin liều thấp** khi có ≥ 2 yếu tố nguy cơ trung bình. |
-| **Thấp** | - Thai kỳ trước đủ tháng không biến chứng | **Không khuyến cáo dùng aspirin liều thấp**. |
+| Đánh giá lâm sàng nguy cơ tiền sản giật | Yếu tố nguy cơ                                                                                                                                                                                                                                                               | Khuyến cáo                                                                  |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| **Cao**                                 | - Tiền sử tiền sản giật (đặc biệt kèm kết cục xấu)<br>- Đa thai<br>- Tăng huyết áp mạn tính<br>- Đái tháo đường type 1/type 2<br>- Bệnh thận<br>- Bệnh lý tự miễn (Lupus ban đỏ, hội chứng kháng Phospholipid)                                                               | **Khuyến cáo dùng aspirin liều thấp** khi có ≥ 1 yếu tố nguy cơ cao.        |
+| **Trung bình**                          | - Con so<br>- Béo phì (BMI > 30)<br>- Tiền sử gia đình tiền sản giật (mẹ/chị em gái)<br>- Kinh tế-xã hội thấp/người Mỹ gốc Phi<br>- Sinh con nhẹ cân, thai tăng trưởng hạn chế trong tử cung<br>- Kết cục xấu ở thai kỳ trước<br>- Khoảng cách giữa 2 lần mang thai > 10 năm | **Khuyến cáo dùng aspirin liều thấp** khi có ≥ 2 yếu tố nguy cơ trung bình. |
+| **Thấp**                                | - Thai kỳ trước đủ tháng không biến chứng                                                                                                                                                                                                                                    | **Không khuyến cáo dùng aspirin liều thấp**.                                |
 
 ## Dự phòng
 
@@ -29,7 +28,7 @@ _Bảng "Đánh giá lâm sàng nguy cơ tiền sản giật"._
 - Khởi aspirin từ tuần 12-16, tối đa không muộn hơn 28 tuần.
 - Dừng vào tuần 36.
 
-_Lưu đồ tầm soát tiền sản giật 3 tháng đầu - Bệnh viện Từ Dũ._
+_Lưu đồ tầm soát tiền sản giật 3 tháng đầu - Bệnh viện Từ Dũ_.
 ![Lưu đồ tầm soát tiền sản giật 3 tháng đầu - Bệnh viện Từ Dũ](./_images/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
 
 ## Tài liệu tham khảo

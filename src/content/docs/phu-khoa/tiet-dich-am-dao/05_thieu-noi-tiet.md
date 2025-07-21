@@ -22,7 +22,7 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
 **Dễ nhiễm khuẩn hoặc nhiễm nấm phụ trợ**:
 
 - Niêm mạc mỏng, kém đàn hồi, dễ bị tổn thương khi giao hợp hoặc thăm khám → xuất huyết, viêm.
-- Điều kiện pH kiềm hơn làm vi khuẩn yếm khí, vi khuẩn không điển hình (_Escherichia coli_, _Gardnerella_, _Staphylococcus_...) hoặc nấm men (_Candida sp._) dễ phát triển.
+- Điều kiện pH kiềm hơn làm vi khuẩn yếm khí, vi khuẩn không điển hình (_Escherichia coli_, _Gardnerella_, _Staphylococcus_...) hoặc nấm men (_Candida sp_.) dễ phát triển.
 
 ## Chẩn đoán
 

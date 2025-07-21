@@ -18,7 +18,7 @@ description: Giải phẫu buồng trứng gồm vị trí, kích thước, bề
 
 **Hình thái và liên quan**:
 
-_Hình ảnh "Giải phẫu tử cung - buồng trứng"._
+_Hình ảnh "Giải phẫu tử cung - buồng trứng"_.
 ![Giải phẫu tử cung - buồng trứng](./_images/giai-phau-mo-hoc/giai-phau-tu-cung-buong-trung.png)
 
 - **Mặt trong** (mặt tự do): Lồi, hướng về phễu vòi tử cung và quai ruột.
@@ -30,7 +30,7 @@ _Hình ảnh "Giải phẫu tử cung - buồng trứng"._
 
 **Mạch máu và bạch huyết**:
 
-_Hình ảnh "Giải phẫu mạch máu tử cung buồng trứng"._
+_Hình ảnh "Giải phẫu mạch máu tử cung buồng trứng"_.
 ![Giải phẫu mạch máu tử cung buồng trứng](./_images/giai-phau-mo-hoc/giai-phau-mach-mau-tu-cung-buong-trung.png)
 
 - **Động mạch buồng trứng**: Tách từ động mạch chủ bụng ngang mức L2. Chạy trong dây chằng treo, vào buồng trứng tại đầu vòi.

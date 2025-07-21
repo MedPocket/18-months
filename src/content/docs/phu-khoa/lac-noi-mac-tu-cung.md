@@ -16,30 +16,30 @@ Tên gọi "lạc nội mạc tử cung trong cơ" quá đơn giản, gây nhi�
 1. Hiện diện của mô tuyến nội mạc và mô đệm trong lớp cơ tử cung.
 2. Tăng sản và tăng dưỡng của cơ tử cung xung quanh.
 
-_Hình ảnh "Cộng hưởng từ của adenomyosis"._
+_Hình ảnh "Cộng hưởng từ của adenomyosis"_.
 ![Cộng hưởng từ của adenomyosis](./_images/lac-noi-mac-tu-cung/hinh-anh-cong-huong-tu-adenomyosis.png)
 
 Tổn thương có thể khu trú tạo giả u xơ, hoặc kết hợp với u xơ thật, khó phân biệt.
 
-_Hình ảnh "Kết hợp adenomyosis và u xơ tử cung"._
+_Hình ảnh "Kết hợp adenomyosis và u xơ tử cung"_.
 ![Kết hợp adenomyosis và u xơ tử cung](./_images/lac-noi-mac-tu-cung/u-xo-tu-cung-va-adenomyosis.png)
 
 ## Bệnh sinh
 
 **Thuyết vi sang chấn và tái tạo (TIAR)**: Vi sang chấn → xâm nhập tế bào gốc → viêm → cường estrogen cục bộ → đề kháng progesterone → co thắt nghịch thường → tăng vi sang chấn... (vòng Leyendecke).
 
-_Hình ảnh "Sơ đồ mô hình TIAR"._
+_Hình ảnh "Sơ đồ mô hình TIAR"_.
 ![Sơ đồ mô hình TIAR](./_images/lac-noi-mac-tu-cung/so-do-mo-hinh-tiar.png)
 
-_Hình ảnh "Thay đổi biểu hiện gene của thụ thể steroid (mô hình TIAR)"._
+_Hình ảnh "Thay đổi biểu hiện gene của thụ thể steroid (mô hình TIAR)"_.
 ![Thay đổi biểu hiện gene của thụ thể steroid (mô hình TIAR)](./_images/lac-noi-mac-tu-cung/thay-doi-bieu-hien-gene-cua-thu-the-steroid.png)
 
 **Thuyết tử cung hai nguồn gốc**: Tử cung phát triển từ hai nguồn Muller và trung mô, gặp nhau tại vùng kết nối (JZ). Adenomyosis xuất phát từ chồng lấn bất thường tại JZ.
 
-_Hình ảnh "Tử cung bình thường trên MRI"._
+_Hình ảnh "Tử cung bình thường trên MRI"_.
 ![Tử cung bình thường trên MRI](./_images/lac-noi-mac-tu-cung/tu-cung-binh-thuong-tren-mri.png)
 
-_Hình ảnh "Adenomyosis trên MRI"._
+_Hình ảnh "Adenomyosis trên MRI"_.
 ![Adenomyosis trên MRI](./_images/lac-noi-mac-tu-cung/adenomyosis-tren-mri.png)
 
 ## Yếu tố nguy cơ
@@ -59,7 +59,7 @@ Adenomyosis thường **ồn ào triệu chứng**: Thống kinh, xuất huyết
 
 **Xuất huyết tử cung bất thường (AUB-A)**: Cường estrogen cục bộ và đề kháng progesterone gây rong huyết.
 
-_Hình ảnh "Adenomyosis qua nội soi buồng tử cung"._
+_Hình ảnh "Adenomyosis qua nội soi buồng tử cung"_.
 ![Adenomyosis qua nội soi buồng tử cung](./_images/lac-noi-mac-tu-cung/adenomyosis-qua-noi-soi-buong.png)
 
 **Hiếm muộn**: Cường estrogen và đề kháng progesterone ảnh hưởng làm tổ và kết quả ART.
@@ -91,12 +91,12 @@ _Hình ảnh "Adenomyosis qua nội soi buồng tử cung"._
 
 ## Phân độ
 
-_Hình ảnh "Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)"._
+_Hình ảnh "Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)"_.
 ![Phân độ lạc nội mạc tử cung (ASRM hiệu chỉnh)](./_images/lac-noi-mac-tu-cung/phan-do-lac-noi-mac-tu-cung-asrm.jpeg)
 
 ## Điều trị
 
-_Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung - Bệnh viện Từ Dũ"._
+_Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung - Bệnh viện Từ Dũ"_.
 ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung - Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-chan-doan-xu-tri-lạc-noi-mac-tu-cung.png)
 
 ### Nguyên tắc
@@ -113,28 +113,26 @@ _Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung
 
 **Áp dụng khi thống kinh nặng**, ảnh hưởng chất lượng sống và không kèm hiếm muộn. Nếu có hiếm muộn, chỉ điều trị triệu chứng đau, ưu tiên kỹ thuật hỗ trợ sinh sản.
 
-_Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau - Bệnh viện Từ Dũ"._
+_Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau - Bệnh viện Từ Dũ"_.
 ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và đau - Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-dau.png)
 
 #### Nội khoa
 
 **Giảm đau bước 1**:
 
-_Bảng "Giảm đau bước 1"._
-| Loại thuốc | Liều dùng & cách dùng | Hiệu quả | Chống chỉ định / Tác dụng phụ |
+| Loại thuốc    | Liều dùng & cách dùng                                                                 | Hiệu quả                                | Chống chỉ định / Tác dụng phụ                      |
 | ------------- | ------------------------------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------- |
-| **NSAIDs** | Ibuprofen 400 mg mỗi 4-6 h<br>Naproxen 250 mg mỗi 8-12 h | Giảm viêm, co thắt, giảm thống kinh | Loét dạ dày, suy thận, hen nặng, tim mạch |
-| **COCs** | EE 20-30 µg + progestin, 1 viên/ngày (liên tục hoặc chu kỳ)<br>Miếng dán 1 miếng/tuần | Giảm sinh nội mạc, giảm COX-2, giảm đau | Rong huyết, buồn nôn, căng vú, tăng cân, mụn |
-| **Progestin** | Dienogest 2 mg/ngày<br>LNG-IUS 5 năm<br>Norethindrone 5-10 mg/ngày | Teo nội mạc, giảm đau và cường kinh | Rong huyết thất thường, mụn, ảnh hưởng kinh nguyệt |
+| **NSAIDs**    | Ibuprofen 400 mg mỗi 4-6 h<br>Naproxen 250 mg mỗi 8-12 h                              | Giảm viêm, co thắt, giảm thống kinh     | Loét dạ dày, suy thận, hen nặng, tim mạch          |
+| **COCs**      | EE 20-30 µg + progestin, 1 viên/ngày (liên tục hoặc chu kỳ)<br>Miếng dán 1 miếng/tuần | Giảm sinh nội mạc, giảm COX-2, giảm đau | Rong huyết, buồn nôn, căng vú, tăng cân, mụn       |
+| **Progestin** | Dienogest 2 mg/ngày<br>LNG-IUS 5 năm<br>Norethindrone 5-10 mg/ngày                    | Teo nội mạc, giảm đau và cường kinh     | Rong huyết thất thường, mụn, ảnh hưởng kinh nguyệt |
 
 **Giảm đau bước 2**:
 
-_Bảng "Giảm đau bước 2"._
-| Loại thuốc | Liều dùng | Hiệu quả | Tác dụng phụ / Lưu ý |
+| Loại thuốc               | Liều dùng                                                            | Hiệu quả                             | Tác dụng phụ / Lưu ý                                |
 | ------------------------ | -------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------- |
-| **GnRH đồng vận** | Goserelin 3.6 mg mỗi 28 ngày SC<br>Leuprolide 3.75 mg mỗi 28 ngày IM | Ức chế HPA → giảm estrogen toàn thân | Bốc hỏa, loãng xương; Cần add-back therapy |
-| **AI** | Letrozole 2.5 mg/ngày<br>Anastrozole 1 mg/ngày | Giảm estrogen cục bộ | Giảm mật độ xương, bốc hỏa, mệt mỏi |
-| **Danazol / Gestrinone** | Danazol 200 mg ×2/ngày<br>Gestrinone 2.5 mg ×2/ngày | Khi thất bại các liệu pháp trên | Vô kinh, nam hóa, rối loạn lipid, tác dụng androgen |
+| **GnRH đồng vận**        | Goserelin 3.6 mg mỗi 28 ngày SC<br>Leuprolide 3.75 mg mỗi 28 ngày IM | Ức chế HPA → giảm estrogen toàn thân | Bốc hỏa, loãng xương; Cần add-back therapy          |
+| **AI**                   | Letrozole 2.5 mg/ngày<br>Anastrozole 1 mg/ngày                       | Giảm estrogen cục bộ                 | Giảm mật độ xương, bốc hỏa, mệt mỏi                 |
+| **Danazol / Gestrinone** | Danazol 200 mg ×2/ngày<br>Gestrinone 2.5 mg ×2/ngày                  | Khi thất bại các liệu pháp trên      | Vô kinh, nam hóa, rối loạn lipid, tác dụng androgen |
 
 **NSAIDs**:
 
@@ -204,7 +202,7 @@ Chọn progestin ít tác dụng toàn thân; Ưu tiên LNG-IUS hoặc Dienogest
 
 ### Hiếm muộn
 
-_Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn - Bệnh viện Từ Dũ"._
+_Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn - Bệnh viện Từ Dũ"_.
 ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn - Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
 
 - **Ưu tiên hiếm muộn** nếu kèm thống kinh nặng.

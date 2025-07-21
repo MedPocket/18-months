@@ -37,12 +37,13 @@ Nhiễm trùng ối thường do vi khuẩn xâm nhập ngược dòng từ đư
 ## Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán nhiễm trùng ối]
-_Bảng "Chẩn đoán nhiễm trùng ối"._
-| Chẩn đoán | Đặc điểm |
+
+| Chẩn đoán nhiễm trùng ối    | Đặc điểm                                                                                                                                                                                                                                                                             |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Mẹ sốt đơn thuần** | Nhiệt độ mẹ ≥ 38.0°C nhưng < 39.0°C, không có nguyên nhân khác, tình trạng sốt có thể thoáng qua hoặc kéo dài |
+| **Mẹ sốt đơn thuần**        | Nhiệt độ mẹ ≥ 38.0°C nhưng < 39.0°C, không có nguyên nhân khác, tình trạng sốt có thể thoáng qua hoặc kéo dài                                                                                                                                                                        |
 | **Nghi ngờ nhiễm trùng ối** | Sốt không rõ nguyên nhân kết hợp với một hoặc nhiều dấu hiệu sau:<br> 1. Tim thai cơ bản > 160 lần/phút kéo dài ≥ 10 phút<br> 2. Bạch cầu máu mẹ > 15000/mm³, không dùng corticosteroids hoặc xét nghiệm sau 48 giờ nếu có<br> 3. Dịch âm đạo đục chảy qua cổ tử cung khi đặt mỏ vịt |
-| **Xác định nhiễm trùng ối** | Có dấu hiệu nghi ngờ + ít nhất một trong các xét nghiệm dịch ối sau:<br> 1. Nhuộm Gram thấy vi khuẩn<br> 2. Nồng độ glucose ≤ 14 mg/dL<br> 3. Bạch cầu dịch ối > 30 tế bào/mm³ (không lẫn máu) |
+| **Xác định nhiễm trùng ối** | Có dấu hiệu nghi ngờ + ít nhất một trong các xét nghiệm dịch ối sau:<br> 1. Nhuộm Gram thấy vi khuẩn<br> 2. Nồng độ glucose ≤ 14 mg/dL<br> 3. Bạch cầu dịch ối > 30 tế bào/mm³ (không lẫn máu)                                                                                       |
+
 :::
 :::caution
 Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu bệnh có vai trò nghiên cứu, không giúp cải thiện kết cục sản khoa nếu dùng làm tiêu chuẩn xử trí.
@@ -130,7 +131,7 @@ Vancomycin chỉ dùng khi:
 
 - Dùng thuốc hạ sốt theo chỉ định để giảm khó chịu cho mẹ và nguy cơ cho thai.
 
-_Hình ảnh "Lưu đồ xử trí nhiễm trùng ối - Bệnh viện Từ Dũ"._
+_Hình ảnh "Lưu đồ xử trí nhiễm trùng ối - Bệnh viện Từ Dũ"_.
 ![Lưu đồ xử trí nhiễm trùng ối - Bệnh viện Từ Dũ](./_images/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)
 
 ## Tài liệu tham khảo

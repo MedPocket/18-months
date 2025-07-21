@@ -73,7 +73,7 @@ Tiền sản giật **có dấu hiệu nặng** (chỉ cần một trong các d�
 - Nghi ngờ rau bong non.
 - Thai ≥ 34 tuần + 1 trong các yếu tố: Chuyển dạ/vỡ ối; Trọng lượng thai < bách phân vị 5; Thiểu ối (AFI < 5 cm, 2 lần cách nhau 24 giờ).
 
-_Hình ảnh "Lưu đồ xử trí tiền sản giật không dấu hiệu nặng - Bệnh viện Từ Dũ"._
+_Hình ảnh "Lưu đồ xử trí tiền sản giật không dấu hiệu nặng - Bệnh viện Từ Dũ"_.
 ![Lưu đồ xử trí tiền sản giật không dấu hiệu nặng - Bệnh viện Từ Dũ](./_images/luu-do-xu-tri-tien-san-giat-khong-co-dau-hieu-nang.png)
 
 ### Có dấu hiệu nặng
@@ -91,7 +91,7 @@ Có thể trì hoãn nếu thai < 34 tuần và mẹ - thai ổn định để s
 
 Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại địa phương 7-10 ngày sau sinh.
 
-_Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng - Bệnh viện Từ Dũ"._
+_Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng - Bệnh viện Từ Dũ"_.
 ![Lưu đồ xử trí tiền sản giật có dấu hiệu nặng - Bệnh viện Từ Dũ](./_images/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
 
 ### Không chờ đợi điều trị
@@ -133,8 +133,7 @@ _Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng -
 **Theo dõi**:
 
 - Theo dõi phản xạ gân xương (mất dấu hiệu sớm nhất), nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4h).
-- Định lượng Mg²⁺ huyết thanh khi cần, giữ 4-7 mEq/L (5-9 mg/dL; 2-3.5 mmol/L).<br>
-  _Bảng "Mối tương quan giữa nồng độ Magnesium máu và biểu hiện lâm sàng"._
+- Định lượng Mg²⁺ huyết thanh khi cần, giữ 4-7 mEq/L (5-9 mg/dL; 2-3.5 mmol/L).
   | Nồng độ Mg²⁺ trong máu (mEq/dL) | Biểu hiện lâm sàng |
   | ------------------------------- | ------------------------------------------------------------------ |
   | **1.5 - 3** | Nồng độ sinh lý bình thường |
@@ -175,14 +174,13 @@ _Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng -
 
 **Thuốc không được sử dụng**: Nitroprusside, thuốc ức chế men chuyển.
 
-_Bảng "Phân loại thuốc chống tăng huyết áp trong thai kỳ"._
-| Thuốc | Cơ chế tác dụng | Ảnh hưởng |
-| -------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Alpha methyldopa** | Ức chế thụ thể Alpha trung ương | **Trên mẹ**:<br>- Cung lượng tim và lưu lượng máu thận không thay đổi<br>- Tác dụng phụ: Sốt, lơ mơ, viêm gan, thiếu máu tán huyết<br>**Trên thai**:<br>- An toàn tương đối, không ảnh hưởng rõ rệt |
-| **Hydralazin** | Giảm trở kháng mạch ngoại vi | **Trên mẹ**:<br>- Tăng cung lượng tim, đau đầu, nhịp tim nhanh, hội chứng giống Lupus<br>**Trên thai**:<br>- Lưu lượng máu thận không đổi hoặc tăng |
-| **Propranolol** | Ức chế thụ thể Beta | **Trên mẹ**:<br>- Giảm cung lượng tim, tăng co bóp tử cung<br>**Trên thai**:<br>- Giảm tưới máu nhau thai, nguy cơ suy hô hấp sơ sinh. |
-| **Labetalol** | Ức chế thụ thể Alpha và Beta | **Trên mẹ**:<br>- Run cơ, đau đầu<br>- Chống chỉ định: Hen suyễn, suy tim<br>**Trên thai**:<br>- Nguy cơ suy hô hấp sơ sinh |
-| **Nifedipine** | Ức chế kênh Canxi | **Trên mẹ**:<br>- Hạ huyết áp tư thế, đau đầu<br>**Trên thai**:<br>- Chưa ghi nhận tác dụng rõ rệt |
+| Phân loại thuốc chống tăng huyết áp trong thai kỳ | Cơ chế tác dụng                 | Ảnh hưởng                                                                                                                                                                                           |
+| ------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Alpha methyldopa**                              | Ức chế thụ thể Alpha trung ương | **Trên mẹ**:<br>- Cung lượng tim và lưu lượng máu thận không thay đổi<br>- Tác dụng phụ: Sốt, lơ mơ, viêm gan, thiếu máu tán huyết<br>**Trên thai**:<br>- An toàn tương đối, không ảnh hưởng rõ rệt |
+| **Hydralazin**                                    | Giảm trở kháng mạch ngoại vi    | **Trên mẹ**:<br>- Tăng cung lượng tim, đau đầu, nhịp tim nhanh, hội chứng giống Lupus<br>**Trên thai**:<br>- Lưu lượng máu thận không đổi hoặc tăng                                                 |
+| **Propranolol**                                   | Ức chế thụ thể Beta             | **Trên mẹ**:<br>- Giảm cung lượng tim, tăng co bóp tử cung<br>**Trên thai**:<br>- Giảm tưới máu nhau thai, nguy cơ suy hô hấp sơ sinh.                                                              |
+| **Labetalol**                                     | Ức chế thụ thể Alpha và Beta    | **Trên mẹ**:<br>- Run cơ, đau đầu<br>- Chống chỉ định: Hen suyễn, suy tim<br>**Trên thai**:<br>- Nguy cơ suy hô hấp sơ sinh                                                                         |
+| **Nifedipine**                                    | Ức chế kênh Canxi               | **Trên mẹ**:<br>- Hạ huyết áp tư thế, đau đầu<br>**Trên thai**:<br>- Chưa ghi nhận tác dụng rõ rệt                                                                                                  |
 
 #### α-Methyldopa
 

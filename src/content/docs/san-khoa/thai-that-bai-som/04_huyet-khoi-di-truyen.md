@@ -12,14 +12,13 @@ description: Quản lý các đột biến gen tăng đông (thrombophilia di tr
 - Thiếu hụt Antithrombin III (ATIII).
 - Không bao gồm MTHFR đơn thuần trừ khi kèm hyperhomocysteinemia.
 
-_Bảng "So sánh Hội chứng kháng phosphilipid và Hội chứng tăng đông di truyền"_
-| | APS | Di truyền tăng đông |
-| ----------- | --------------------------------- | ----------------------------------- |
-| **Nguyên nhân** | Tự miễn | Di truyền |
-| **Xét nghiệm** | Kháng thể kháng phospholipid | Đột biến gen, thiếu yếu tố đông máu |
-| **Huyết khối** | Cả động mạch và tĩnh mạch | Chủ yếu tĩnh mạch |
-| **Thai kỳ** | Sẩy thai, thai lưu, tiền sản giật | Ít gặp hơn |
-| **Điều trị ** | Kháng đông + điều chỉnh miễn dịch | Kháng đông nếu cần |
+| So sánh Hội chứng kháng phosphilipid và Hội chứng tăng đông di truyền | APS                               | Di truyền tăng đông                 |
+| --------------------------------------------------------------------- | --------------------------------- | ----------------------------------- |
+| **Nguyên nhân**                                                       | Tự miễn                           | Di truyền                           |
+| **Xét nghiệm**                                                        | Kháng thể kháng phospholipid      | Đột biến gen, thiếu yếu tố đông máu |
+| **Huyết khối**                                                        | Cả động mạch và tĩnh mạch         | Chủ yếu tĩnh mạch                   |
+| **Thai kỳ**                                                           | Sẩy thai, thai lưu, tiền sản giật | Ít gặp hơn                          |
+| **Điều trị **                                                         | Kháng đông + điều chỉnh miễn dịch | Kháng đông nếu cần                  |
 
 ## Chẩn đoán
 
@@ -47,12 +46,11 @@ Tiền sử **huyết khối tĩnh mạch sâu (DVT)**, **thuyên tắc phổi**
 
 **Điều trị tương đối giống với Hội chứng kháng phospholipid**.
 
-_Bảng "Phân tầng nguy cơ và phác đồ điều trị Hội chứng mang gene tăng đông"_
-| Nhóm nguy cơ | Tiền sử lâm sàng | Phác đồ thai kỳ |
-| -------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **Cao** | - Tiền sử DVT/thuyên tắc phổi<br/>- Huyết khối động mạch | - **LMWH điều trị**: Enoxaparin 1 mg/kg tiêm dưới da mỗi 12 giờ<br/>- **Aspirin 75-100 mg/ngày**<br/>- Duy trì đến ≥ 6 tuần hậu sản |
-| **Trung bình** | - Đột biến kép (e.g. Factor V + Prothrombin)<br/>- Thiếu ATIII kèm hoặc Protein S rất thấp | - **LMWH dự phòng**: Enoxaparin 40 mg tiêm dưới da/ngày<br/>- **Aspirin 75 mg/ngày**<br/>- Đến ≥ 6 tuần hậu sản |
-| **Thấp** | - Đột biến đơn độc nhẹ (e.g. Prothrombin heterozygous)<br/>- Thiếu Protein C hoặc Protein S nhẹ | **Aspirin 75 mg/ngày** từ khi chẩn đoán đến sinh, có thể không cần LMWH nếu không có tiền sử huyết khối |
+| Phân tầng nguy cơ và phác đồ điều trị Hội chứng mang gene tăng đông | Tiền sử lâm sàng                                                                                | Phác đồ thai kỳ                                                                                                                     |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Cao**                                                             | - Tiền sử DVT/thuyên tắc phổi<br/>- Huyết khối động mạch                                        | - **LMWH điều trị**: Enoxaparin 1 mg/kg tiêm dưới da mỗi 12 giờ<br/>- **Aspirin 75-100 mg/ngày**<br/>- Duy trì đến ≥ 6 tuần hậu sản |
+| **Trung bình**                                                      | - Đột biến kép (e.g. Factor V + Prothrombin)<br/>- Thiếu ATIII kèm hoặc Protein S rất thấp      | - **LMWH dự phòng**: Enoxaparin 40 mg tiêm dưới da/ngày<br/>- **Aspirin 75 mg/ngày**<br/>- Đến ≥ 6 tuần hậu sản                     |
+| **Thấp**                                                            | - Đột biến đơn độc nhẹ (e.g. Prothrombin heterozygous)<br/>- Thiếu Protein C hoặc Protein S nhẹ | **Aspirin 75 mg/ngày** từ khi chẩn đoán đến sinh, có thể không cần LMWH nếu không có tiền sử huyết khối                             |
 
 **Sau sinh**:
 

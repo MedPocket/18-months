@@ -12,7 +12,7 @@ Tử cung được chia làm hai phần chính phần trên là thân tử cung 
 - **Cổ ngoài cổ tử cung (ectocervix/exocervix)** phần thấp nhất tiếp xúc trực tiếp với âm đạo, có hình dạng elíp hoặc hình chóp nón, chia thành mép trước và mép sau cổ tử cung. Phần này bình thường được phủ bởi biểu mô lát tầng không sừng hóa. **Lỗ ngoài cổ tử cung (external os)** là vị trí mở của kênh cổ tử cung ra âm đạo. Hình dạng lỗ ngoài thường tròn ở phụ nữ chưa sinh và hơi dẹt ở phụ nữ đã sinh con. **Lỗ trong cổ tử cung (internal os)** là vị trí mở của kênh cổ tử cung vào buồng tử cung.
 - **Cổ trong cổ tử cung (endocervix)** nằm phía trên cổ ngoài, hướng về buồng tử cung, tạo thành kênh cổ tử cung (cervical canal) nối từ lỗ ngoài đến lỗ trong cổ tử cung. Kênh cổ tử cung có nhiều nếp gấp dạng "cây cọ" (arbor vitae) giúp giữ kín sinh lý.
 
-_Hình ảnh "Từ ngoài vào trong: Cổ ngoài (ectocervix), lỗ ngoài, kênh cổ tử cung, lỗ trong"._
+_Hình ảnh "Từ ngoài vào trong: Cổ ngoài (ectocervix), lỗ ngoài, kênh cổ tử cung, lỗ trong"_.
 ![Các điểm mốc nhận diện quan trọng trong bệnh học cổ tử cung](./_images/viem-lo-tuyen-co-tu-cung/cac-moc-nhan-dien-benh-hoc-co-tu-cung.png)
 
 ## Mô học
@@ -38,10 +38,10 @@ Cổ tử cung được cấu tạo bởi biểu mô phủ và mô đệm dướ
 
 ### Chuyển sản lát
 
-_Hình ảnh "Dịch chuyển SCJ nguyên thủy và SCJ mới"._
+_Hình ảnh "Dịch chuyển SCJ nguyên thủy và SCJ mới"_.
 ![Dịch chuyển SCJ nguyên thủy và SCJ mới](./_images/viem-lo-tuyen-co-tu-cung/dich-truyen-cua-scj-nguyen-thuy-va-moi.jpeg)
 
-_Hình ảnh "Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủy, (3) SCJ nguyên thủy, (4) biểu mô trụ lộ tuyến, (5) vùng chuyển sản, (6) SCJ mới, (7) nang Naboth"._
+_Hình ảnh "Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát nguyên thủy, (3) SCJ nguyên thủy, (4) biểu mô trụ lộ tuyến, (5) vùng chuyển sản, (6) SCJ mới, (7) nang Naboth"_.
 ![Các ranh giới lát trụ nguyên thủy và mới](./_images/viem-lo-tuyen-co-tu-cung/cac-ranh-gioi-lat-tru-nguyen-thuy-va-moi.png)
 
 **Tiếp xúc với pH acid**:
@@ -73,10 +73,10 @@ _Hình ảnh "Trên hình: (1) biểu mô trụ ban đầu, (2) biểu mô lát 
 
 **Lộ tuyến cổ tử cung (endocervical ectropion)** biểu mô trụ của cổ trong lộn ra bề mặt cổ ngoài (ectocervix), tiếp xúc với môi trường acid âm đạo.
 
-_Hình ảnh "Soi cổ tử cung thấy vùng lộ tuyến (màu đỏ) khởi đầu ở phía ngoài cổ tử cung"._
+_Hình ảnh "Soi cổ tử cung thấy vùng lộ tuyến (màu đỏ) khởi đầu ở phía ngoài cổ tử cung"_.
 ![Lộ tuyến cổ tử cung](./_images/viem-lo-tuyen-co-tu-cung/lo-tuyen-co-tu-cung.png)
 
-_Hình ảnh "Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới"._
+_Hình ảnh "Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ mới"_.
 ![Vùng chuyển sản](./_images/viem-lo-tuyen-co-tu-cung/vung-chuyen-san.png)
 
 **Sinh lý**:
@@ -86,13 +86,13 @@ _Hình ảnh "Phía ngay lỗ ngoài cổ tử cung giải phẫu là vùng SCJ 
 
 **Bệnh lý (viêm lộ tuyến)**:
 
-- Khi lộ tuyến tiếp xúc lâu với môi trường âm đạo, vi khuẩn (E. coli, _Gardnerella vaginalis_), nấm (_Candida spp._), trùng roi (_Trichomonas vaginalis_) dễ xâm nhập.
+- Khi lộ tuyến tiếp xúc lâu với môi trường âm đạo, vi khuẩn (E. coli, _Gardnerella vaginalis_), nấm (_Candida spp_.), trùng roi (_Trichomonas vaginalis_) dễ xâm nhập.
 - **Triệu chứng**: Khí hư nhiều, màu vàng/ xanh, mùi hôi. Ngứa hoặc rát vùng âm hộ, âm đạo. Đau rát khi giao hợp (dyspareunia). Chảy máu sau quan hệ (postcoital bleeding).
 - **Dễ nhầm lẫn với**: Viêm cổ tử cung do loét, chấn thương cơ học, hoặc các tổn thương ác tính.
 
 ### Nang Naboth
 
-_Hình ảnh "Nang Naboth trên bề mặt cổ tử cung, trông giống túi dịch nhỏ màu vàng"._
+_Hình ảnh "Nang Naboth trên bề mặt cổ tử cung, trông giống túi dịch nhỏ màu vàng"_.
 ![Nang Naboth trên soi cổ tử cung](./_images/viem-lo-tuyen-co-tu-cung/nang-naboth-tren-soi-co.png)
 
 Khi biểu mô lát chuyển sản phát triển, có thể bít tắc cổ nang tuyến, tạo ra **nang Naboth** (Nabothian cyst). Nang Naboth chứa dịch nhầy, nằm bên dưới bề mặt biểu mô lát, thường không triệu chứng, chỉ phát hiện khi soi hoặc siêu âm.
@@ -138,14 +138,14 @@ Chỉ thực hiện khi viêm đã được kiểm soát hoặc sau điều tr�
 
 ### Theo dõi sau điều trị
 
-_Hình ảnh "Sau đốt hoặc áp lạnh, vùng chuyển sản dần hồi phục biểu mô lát trưởng thành"._
+_Hình ảnh "Sau đốt hoặc áp lạnh, vùng chuyển sản dần hồi phục biểu mô lát trưởng thành"_.
 ![Vùng chuyển sản sau điều trị](./_images/viem-lo-tuyen-co-tu-cung/vung-chuyen-san-sau-dieu-tri.png)
 
 - Tái khám sau 4-6 tuần để kiểm tra vết thương, đảm bảo không còn viêm.
 - Làm xét nghiệm Pap smear (tế bào cổ tử cung) định kỳ 6-12 tháng nếu có yếu tố nguy cơ (tiền căn viêm lộ tuyến nặng, nhiễm HPV).
 - Khuyến khích khám phụ khoa định kỳ (6-12 tháng/lần) để phát hiện sớm bất thường.
 
-_Hình ảnh "Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV"._
+_Hình ảnh "Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV"_.
 ![Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV](./_images/viem-lo-tuyen-co-tu-cung/qua-trinh-chuyen-san.png)
 
 ## Tài liệu tham khảo

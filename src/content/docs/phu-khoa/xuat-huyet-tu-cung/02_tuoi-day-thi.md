@@ -103,16 +103,15 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
 
 #### Xét nghiệm cơ bản
 
-_Bảng "Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng"._
-| Loại xét nghiệm | Mục đích |
-| ---------------------------------------------- | -------------------------------------------------------------------------- |
-| **hCG (nước tiểu hay máu)** | Loại trừ thai |
-| **Công thức máu và chức năng đông máu** | Loại trừ bệnh lý rối loạn đông máu |
-| **FSH, LH, Estrogen** | Đánh giá giai đoạn dậy thì và phóng noãn |
-| **Free T₄/T₃, TSH** | Loại trừ bệnh lý tuyến giáp |
+| Xét nghiệm cần cân nhắc thực hiện         | Mục đích                                                                |
+| ----------------------------------------- | ----------------------------------------------------------------------- |
+| **hCG (nước tiểu hay máu)**               | Loại trừ thai                                                           |
+| **Công thức máu và chức năng đông máu**   | Loại trừ bệnh lý rối loạn đông máu                                      |
+| **FSH, LH, Estrogen**                     | Đánh giá giai đoạn dậy thì và phóng noãn                                |
+| **Free T₄/T₃, TSH**                       | Loại trừ bệnh lý tuyến giáp                                             |
 | **Androgen (Testosterone tự do, DHEA-S)** | Chẩn đoán tình trạng cường androgen trong hội chứng buồng trứng đa nang |
-| **Insulin, glucose máu**| Khi BMI > 25 hoặc nghi kháng insulin (PCOS)|
-| **Prolactin máu** | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn |
+| **Insulin, glucose máu**                  | Khi BMI > 25 hoặc nghi kháng insulin (PCOS)                             |
+| **Prolactin máu**                         | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn                    |
 
 #### Chẩn đoán hình ảnh
 
@@ -193,33 +192,32 @@ Chọn progestogen có **tính kháng estrogen** vừa đủ và **ít ức ch�
 - Sau 7-10 ngày dùng estrogen, thêm dydrogesterone 10 mg × 2/ngày trong 10-14 ngày.
 - Hoặc dùng phối hợp COC (Ethinyl estradiol + Levonorgestrel) liều trung bình (Ethinyl estradiol 30 µg) liên tục trong 21-28 ngày.
 
-_Bảng "Tóm lược hoạt tính của các progestin. Các progestin dẫn xuất 19-nor testosterone có kháng estrogen mạnh nhưng ảnh hưởng hạ đồi cao, nhóm retroprogesterone ít ức chế trục nhất. Ghi chú (+) có tác dụng; (±) tác dụng yếu, (-) không có tác dụng này"._
-| Loại progestin | Tính progestogen | Tính kháng gonadotropin | Tính kháng estrogen | Tính estrogen androgen | Tính androgen | Tính kháng glucocorticoid | Tính kháng mineralocort. |
+| Loại progestin                             | Tính progestogen | Tính kháng gonadotropin | Tính kháng estrogen | Tính estrogen androgen | Tính androgen | Tính kháng glucocorticoid | Tính kháng mineralocort. |
 | ------------------------------------------ | ---------------- | ----------------------- | ------------------- | ---------------------- | ------------- | ------------------------- | ------------------------ |
-| **Dẫn xuất gần với progesterone tự nhiên** | | | | | | | |
-| Progesterone | + | + | + | - | - | ± | + |
-| Dydrogesterone | + | - | + | - | - | ± | - |
-| Medrogestone | + | + | + | - | - | ± | - |
-| **Dẫn xuất 17α-OH progesterone** | | | | | | | |
-| Chlormadinone | + | + | + | - | - | + | + |
-| Cyproterone | + | + | + | - | - | ++ | + |
-| Megestrol | + | + | + | - | ± | + | + |
-| MPA | + | + | + | - | ± | - | + |
-| **Dẫn xuất 19-Nor-progesterone** | | | | | | | |
-| Nomegestrol | + | + | + | - | - | ± | - |
-| Promegestone | + | + | + | - | - | - | - |
-| Trimegestone | + | + | + | - | - | ± | ± |
-| **Dẫn xuất spirolactone** | | | | | | | |
-| Drospirenone | + | + | + | - | - | + | - |
-| **Dẫn xuất 19-Nor-testosterone** | | | | | | | |
-| Norethisterone | + | + | + | + | + | - | - |
-| Lynestrenol | + | + | + | + | + | - | - |
-| Norethinodrel | ± | + | ± | + | ± | - | - |
-| Levonorgestrel | + | + | + | - | + | - | - |
-| Norgestimate | + | + | + | - | + | - | - |
-| 3-keto-desogestrel | + | + | + | - | + | - | - |
-| Gestodene | + | + | + | - | + | - | + |
-| Dienogest | + | + | ± | ± | - | + | - |
+| **Dẫn xuất gần với progesterone tự nhiên** |                  |                         |                     |                        |               |                           |                          |
+| Progesterone                               | +                | +                       | +                   | -                      | -             | ±                         | +                        |
+| Dydrogesterone                             | +                | -                       | +                   | -                      | -             | ±                         | -                        |
+| Medrogestone                               | +                | +                       | +                   | -                      | -             | ±                         | -                        |
+| **Dẫn xuất 17α-OH progesterone**           |                  |                         |                     |                        |               |                           |                          |
+| Chlormadinone                              | +                | +                       | +                   | -                      | -             | +                         | +                        |
+| Cyproterone                                | +                | +                       | +                   | -                      | -             | ++                        | +                        |
+| Megestrol                                  | +                | +                       | +                   | -                      | ±             | +                         | +                        |
+| MPA                                        | +                | +                       | +                   | -                      | ±             | -                         | +                        |
+| **Dẫn xuất 19-Nor-progesterone**           |                  |                         |                     |                        |               |                           |                          |
+| Nomegestrol                                | +                | +                       | +                   | -                      | -             | ±                         | -                        |
+| Promegestone                               | +                | +                       | +                   | -                      | -             | -                         | -                        |
+| Trimegestone                               | +                | +                       | +                   | -                      | -             | ±                         | ±                        |
+| **Dẫn xuất spirolactone**                  |                  |                         |                     |                        |               |                           |                          |
+| Drospirenone                               | +                | +                       | +                   | -                      | -             | +                         | -                        |
+| **Dẫn xuất 19-Nor-testosterone**           |                  |                         |                     |                        |               |                           |                          |
+| Norethisterone                             | +                | +                       | +                   | +                      | +             | -                         | -                        |
+| Lynestrenol                                | +                | +                       | +                   | +                      | +             | -                         | -                        |
+| Norethinodrel                              | ±                | +                       | ±                   | +                      | ±             | -                         | -                        |
+| Levonorgestrel                             | +                | +                       | +                   | -                      | +             | -                         | -                        |
+| Norgestimate                               | +                | +                       | +                   | -                      | +             | -                         | -                        |
+| 3-keto-desogestrel                         | +                | +                       | +                   | -                      | +             | -                         | -                        |
+| Gestodene                                  | +                | +                       | +                   | -                      | +             | -                         | +                        |
+| Dienogest                                  | +                | +                       | ±                   | ±                      | -             | +                         | -                        |
 
 **Theo dõi**:
 

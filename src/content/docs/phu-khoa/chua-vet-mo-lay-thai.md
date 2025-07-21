@@ -48,7 +48,7 @@ description: Chửa ở vết mổ lấy thai (còn gọi là thai làm tổ ở
 
 ## Phân loại
 
-_Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"._
+_Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"_.
 ![Mối liên hệ thai và sẹo mổ lấy thai](./_images/chua-vet-mo-lay-thai/moi-lien-he-giua-tui-thai-va-seo-mo-lay-thai.jpg)
 
 **COS-1**: Túi thai nằm > 2/3 phía trên đường nối nội mạc tử cung → bám sâu vào cơ tử cung, nguy cơ vỡ tử cung cao. Thai cắm sâu vào sẹo, nguy cơ vỡ tử cung sớm, đe dọa tính mạng.
@@ -143,16 +143,15 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"._
 
 ### Tỷ lệ tai biến
 
-_Bảng "Tỷ lệ tai biến các phương pháp điều trị tahi ở sẹo mổ lấy thai"._
-| Phương pháp | Tỷ lệ tai biến (%) |
+| Phương pháp điều trị             | Tỷ lệ tai biến (%) |
 | -------------------------------- | ------------------ |
-| **MTX tiêm bắp** | 62.1 |
-| **Nong và nạo** | 61.9 |
-| **Thuyên tắc động mạch tử cung** | 46.9 |
-| **Soi buồng tử cung** | 18.4 |
-| **MTX tại chỗ/toàn thân** | 9.7 |
+| **MTX tiêm bắp**                 | 62.1               |
+| **Nong và nạo**                  | 61.9               |
+| **Thuyên tắc động mạch tử cung** | 46.9               |
+| **Soi buồng tử cung**            | 18.4               |
+| **MTX tại chỗ/toàn thân**        | 9.7                |
 
-_Hình ảnh "Phác đồ điều trị thai ở sẹo mổ lấy thai - Bệnh viện Từ Dũ"._
+_Hình ảnh "Phác đồ điều trị thai ở sẹo mổ lấy thai - Bệnh viện Từ Dũ"_.
 ![Phác đồ điều trị thai ở sẹo mổ lấy thai - Bệnh viện Từ Dũ](./_images/chua-vet-mo-lay-thai/phac-do-xu-tri-thai-o-seo-mo-lay-thai.jpg)
 
 ## Thai kỳ sau

@@ -31,12 +31,12 @@ The Society of Radiologists in Ultrasound Multispecialty Panel, chẩn đoán th
 **Tiêu chuẩn rõ nhất là CRL ≥ 7 mm không thấy tim thai**. Nếu CRL < 7 mm và không thấy tim, phải chờ tái siêu âm.
 :::
 
-_Hình ảnh "Thai ngưng phát triển: Phôi với CRL ≥ 7 mm không có tim phôi (xác nhận bằng phổ Doppler)"._
+_Hình ảnh "Thai ngưng phát triển: Phôi với CRL ≥ 7 mm không có tim phôi (xác nhận bằng phổ Doppler)"_.
 ![Thai ngưng phát triển](./_images/thai-that-bai-som/thai-ngung-phat-trien.png)
 
 Để **chẩn đoán trứng trống**, không đủ khi chỉ không thấy phôi hoặc túi noãn hoàng với MSD < 25 mm. **Phải có MSD ≥ 25 mm không thấy phôi hoặc túi noãn hoàng**.
 
-_Hình ảnh "Trứng trống: MSD ≥ 25 mm không thấy túi noãn hoàng hay phôi"._
+_Hình ảnh "Trứng trống: MSD ≥ 25 mm không thấy túi noãn hoàng hay phôi"_.
 ![Trứng trống](./_images/thai-that-bai-som/trung-trong.png)
 
 **Các tình huống nghi ngờ khác (chưa đủ tiêu chuẩn)** gồm:
@@ -86,31 +86,31 @@ Triệu chứng **ra máu, đau bụng, cổ tử cung đóng**. **Dấu hiệu 
 - Xuất huyết dưới màng nuôi.
 - Xoang ối giãn rộng (expanded amnion sign).
 
-_Hình ảnh "Doạ sảy thai lưu: Túi thai rất nhỏ, (MSD-CRL) < 5mm, có tụ máu dưới màng đệm"._
+_Hình ảnh "Doạ sảy thai lưu: Túi thai rất nhỏ, (MSD-CRL) < 5mm, có tụ máu dưới màng đệm"_.
 ![Túi ối nhỏ](./_images/thai-that-bai-som/doa-say-thai-luu-tui-oi-nho.png)
 
-_Hình ảnh "Doạ sảy thai lưu: Xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm"._
+_Hình ảnh "Doạ sảy thai lưu: Xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm"_.
 ![Túi ối giãn](./_images/thai-that-bai-som/doa-say-thai-luu-tui-oi-gian.png)
 
 ### Sảy thai khó tránh
 
 **Ra máu kèm mở cổ tử cung** khi thai vẫn còn trong buồng tử cung. Cần phân biệt với thai ngoài tử cung ở cổ tử cung bằng β-hCG và siêu âm.
 
-_Hình ảnh "Sảy thai khó tránh: Thai vẫn nằm trong cổ tử cung, cổ tử cung mở"._
+_Hình ảnh "Sảy thai khó tránh: Thai vẫn nằm trong cổ tử cung, cổ tử cung mở"_.
 ![Sảy thai khó tránh](./_images/thai-that-bai-som/say-thai-kho-tranh.png)
 
 ### Sảy thai không trọn
 
 Ra huyết rỉ rả, đau quặn bụng, cổ tử cung hé mở, siêu âm thấy khối echo hỗn hợp trong lòng tử cung.
 
-_Hình ảnh "Sảy thai không trọn: Cấu trúc echo hỗn hợp trong buồng tử cung"._
+_Hình ảnh "Sảy thai không trọn: Cấu trúc echo hỗn hợp trong buồng tử cung"_.
 ![Sảy thai không trọn](./_images/thai-that-bai-som/say-thai-khong-tron.png)
 
 ### Sảy thai trọn
 
 Hoàn toàn tống xuất mô thai, cổ tử cung đóng, siêu âm buồng tử cung rỗng hoặc chỉ có ít dịch.
 
-_Hình ảnh "Sảy thai trọn: Lòng tử cung trống sau sảy thai trọn"._
+_Hình ảnh "Sảy thai trọn: Lòng tử cung trống sau sảy thai trọn"_.
 ![Sảy thai trọn](./_images/thai-that-bai-som/say-thai-tron.jpeg)
 
 ## Điều trị

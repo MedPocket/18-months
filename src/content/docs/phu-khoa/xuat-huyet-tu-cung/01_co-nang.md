@@ -46,33 +46,32 @@ Xuất huyết tử cung cơ năng thường xảy ra khi nội mạc tử cung 
 - Dấu hiệu cường androgen (mụn trứng cá nặng, rậm lông, béo phì kiểu nam).
 - Khám phụ khoa để loại trừ các bất thường cấu trúc của tử cung và buồng trứng.
 
-_Hình ảnh "Acantosis nigricans, rậm lông và mụn trứng cá nặng, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường"._
+_Hình ảnh "Acantosis nigricans, rậm lông và mụn trứng cá nặng, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường"_.
 ![Acantosis nigricans, rậm lông và mụn trứng cá nặng](./_images/xuat-huyet-tu-cung-co-nang/acantosis-nigricans-ram-long-mun-trung-ca.png)
 
 ### Cận lâm sàng
 
 #### Xét nghiệm cơ bản
 
-_Bảng "Các xét nghiệm cần cân nhắc thực hiện khi khảo sát xuất huyết tử cung chức năng"._
-| Loại xét nghiệm | Mục đích |
-| ---------------------------------------------- | -------------------------------------------------------------------------- |
-| **hCG (nước tiểu hay máu)** | Loại trừ thai |
-| **Công thức máu và chức năng đông máu** | Loại trừ bệnh lý rối loạn đông máu |
-| **FSH, LH, Estrogen** | Đánh giá giai đoạn của buồng trứng |
-| **Free T₄/T₃, TSH** | Loại trừ bệnh lý tuyến giáp |
-| **Androgen (Testosterone tự do, DHEA-S)** | Chẩn đoán tình trạng cường androgen trong hội chứng buồng trứng đa nang |
-| **Insulin, glucose máu**| Khi BMI > 25 hoặc nghi kháng insulin (PCOS)|
-| **Prolactin máu** | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn |
-| **MRI sọ não** | Nếu prolactin > 100 ng/mL, cần thêm MRI để khảo sát microadenoma tuyến yên |
+| Xét nghiệm cần cân nhắc thực hiện         | Mục đích                                                                   |
+| ----------------------------------------- | -------------------------------------------------------------------------- |
+| **hCG (nước tiểu hay máu)**               | Loại trừ thai                                                              |
+| **Công thức máu và chức năng đông máu**   | Loại trừ bệnh lý rối loạn đông máu                                         |
+| **FSH, LH, Estrogen**                     | Đánh giá giai đoạn của buồng trứng                                         |
+| **Free T₄/T₃, TSH**                       | Loại trừ bệnh lý tuyến giáp                                                |
+| **Androgen (Testosterone tự do, DHEA-S)** | Chẩn đoán tình trạng cường androgen trong hội chứng buồng trứng đa nang    |
+| **Insulin, glucose máu**                  | Khi BMI > 25 hoặc nghi kháng insulin (PCOS)                                |
+| **Prolactin máu**                         | Chẩn đoán tăng prolactin máu gây rối loạn phóng noãn                       |
+| **MRI sọ não**                            | Nếu prolactin > 100 ng/mL, cần thêm MRI để khảo sát microadenoma tuyến yên |
 
 #### Chẩn đoán hình ảnh
 
 Có thể thực hiện **siêu âm quy ước** để khảo sát độ dày nội mạc tử cung, phản âm, bất thường trong buồng tử cung.
 
-_Hình ảnh "Chuỗi hạt kinh điển của buồng trứng đa nang. Các nang noãn nhỏ xếp thành chuỗi, phân bố ở ngoại vi buồng trứng"._
+_Hình ảnh "Chuỗi hạt kinh điển của buồng trứng đa nang. Các nang noãn nhỏ xếp thành chuỗi, phân bố ở ngoại vi buồng trứng"_.
 ![Hình ảnh siêu âm của hội chứng buồng trứng đa nang](./_images/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-buong-trung-da-nang.png)
 
-_Hình ảnh "Siêu âm bơm nước của polyps buồng tử cung (SIS)"._
+_Hình ảnh "Siêu âm bơm nước của polyps buồng tử cung (SIS)"_.
 ![Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)](./_images/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-polyp-tu-cung.png)
 
 :::caution

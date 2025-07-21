@@ -9,7 +9,7 @@ Vú được cấu tạo chính bởi hai thành phần: Mô tuyến (epithelial
 
 ## Giải phẫu
 
-_Hình ảnh "Giải phẫu mặt cắt ngang tuyến vú và mối tương quan với cơ ngực"._
+_Hình ảnh "Giải phẫu mặt cắt ngang tuyến vú và mối tương quan với cơ ngực"_.
 ![Giải phẫu tuyến vú](./_images/giai-phau-va-mo-hoc-tuyen-vu/giai-phau-tuyen-vu.jpeg)
 
 **Vị trí**: Tuyến vú nằm trên thành ngực, phủ lên các cơ ngực lớn (pectoralis major) và cơ ngực bé (pectoralis minor). Vú được cố định vào thành ngực bởi hệ thống cân mạc sâu (Cooper’s ligaments) và các dây chằng lỏng lẻo (suspensory ligaments) nối từ da xuống cân cơ ngực.
@@ -72,7 +72,7 @@ _Hình ảnh "Giải phẫu mặt cắt ngang tuyến vú và mối tương quan
 | - Thúc đẩy tăng sinh tế bào mỡ xen kẽ mô tuyến.  | - Kích thích phân chia và biệt hóa tế bào nang sữa (acinus).  |
 | - Quyết định tính nhạy cảm với liệu pháp hormon. | - Tham gia quá trình bài xuất sữa trong giai đoạn cho con bú. |
 
-_Hình ảnh "(Trái) Nang sữa (acinus) gồm lớp tế bào cơ biểu mô (myoepithelial) bên ngoài và tế bào biểu mô trụ thấp/trụ lót bên trong, dựa trên màng đáy. (Phải) Mô hình hóa mô mi immunohistochemistry cho thấy sự biểu hiện của thụ thể estrogen (màu nâu) trên tế bào biểu mô ống tuyến"._
+_Hình ảnh "(Trái) Nang sữa (acinus) gồm lớp tế bào cơ biểu mô (myoepithelial) bên ngoài và tế bào biểu mô trụ thấp/trụ lót bên trong, dựa trên màng đáy. (Phải) Mô hình hóa mô mi immunohistochemistry cho thấy sự biểu hiện của thụ thể estrogen (màu nâu) trên tế bào biểu mô ống tuyến"_.
 ![Nang sữa](./_images/giai-phau-va-mo-hoc-tuyen-vu/nang-sua.png)
 
 ## Tài liệu tham khảo

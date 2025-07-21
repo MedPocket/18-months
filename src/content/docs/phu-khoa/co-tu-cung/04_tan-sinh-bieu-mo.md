@@ -20,10 +20,10 @@ Dựa trên mức độ tế bào bề mặt, phân loại tế bào học cũng
 - **LSIL** (Low-grade): Tương ứng CIN 1.
 - **HSIL** (High-grade): Tương ứng CIN 2-3.
 
-_Hình ảnh "Luận điểm cổ điển về tiến triển tự nhiên của tổn thương biểu mô cổ tử cung"._
+_Hình ảnh "Luận điểm cổ điển về tiến triển tự nhiên của tổn thương biểu mô cổ tử cung"_.
 ![Luận điểm cổ điển về tiến triển tự nhiên của tân sinh biểu mô cổ tử cung](./_images/tan-sinh-bieu-mo-co-tu-cung/luan-diem-co-dien-ve-tien-trien-tu-nhien-bieu-mo-co-tu-cung.png)
 
-_Hình ảnh "Phân chia cổ điển: CIN theo mô học, tế bào học quan sát tế bào bề mặt"._
+_Hình ảnh "Phân chia cổ điển: CIN theo mô học, tế bào học quan sát tế bào bề mặt"_.
 ![Phân chia cổ điển](./_images/tan-sinh-bieu-mo-co-tu-cung/phan-chia-co-dien.png)
 
 ### Luận điểm hiện đại
@@ -37,7 +37,7 @@ Hiện nay, biết rằng CIN không nhất thiết phải trải qua tuần t�
 
 Hầu hết nhiễm HPV cấp (CIN 1) thoái triển; Khoảng 10% CIN 1 tiến triển lên CIN 2-3 sau 2 năm. CIN 3 hiếm khi thoái triển, có khoảng 30% nguy cơ thành ung thư xâm lấn sau 30 năm.
 
-_Hình ảnh "Các trường hợp nhiễm HPV có thể thoái triển hoặc tiến triển trực tiếp lên HSIL/ung thư mà không qua giai đoạn trung gian"._
+_Hình ảnh "Các trường hợp nhiễm HPV có thể thoái triển hoặc tiến triển trực tiếp lên HSIL/ung thư mà không qua giai đoạn trung gian"_.
 ![Luận điểm hiện đại về tiến triển không theo trình tự cổ điển](./_images/tan-sinh-bieu-mo-co-tu-cung/luan-diem-hien-dai-ve-tien-trien-tu-nhien-bieu-mo-co-tu-cung.png)
 
 ## Dị sản cổ tử cung
@@ -60,10 +60,10 @@ _Hình ảnh "Các trường hợp nhiễm HPV có thể thoái triển hoặc t
 - HPV thể hiện chức năng sinh ung qua hai protein E6 (bất hoạt p53, ngăn apoptosis) và E7 (bất hoạt pRb, kích hoạt E2F → tăng sinh không kiểm soát).
 - Dị sản còn phụ thuộc vào đáp ứng miễn dịch: Khoảng 80% có thể tự cải thiện, nhưng 10% tiến triển thành ung thư.
 
-_Hình ảnh "E6 và E7 bất hoạt p53 và pRb, khiến tế bào dị sản tăng sinh không kiểm soát"._
+_Hình ảnh "E6 và E7 bất hoạt p53 và pRb, khiến tế bào dị sản tăng sinh không kiểm soát"_.
 ![E6 và E7 trong cơ chế sinh ung thư của HPV type 16](./_images/tan-sinh-bieu-mo-co-tu-cung/e6-va-e7-trong-co-che-gay-ung-thu-cua-hpv.png)
 
-_Hình ảnh "Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xoá và dễ tiến triển"._
+_Hình ảnh "Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như không tự xoá và dễ tiến triển"_.
 ![Sự khác biệt về sinh học tế bào giữa CIN 1, CIN 2 và CIN 3](./_images/tan-sinh-bieu-mo-co-tu-cung/su-khac-biet-ve-sinh-hoc-cin-1-2-3-va-chieu-huong-cua-chung.png)
 
 ## Bất thường
@@ -93,10 +93,10 @@ Làm **HPV testing** để phân tầng nguy cơ:
 
 **Phụ nữ có thai**: Không nạo kênh cổ tử cung, có thể hoãn soi đến 6 tuần sau sinh.
 
-_Hình ảnh "Quản lý ASC-US - Hướng dẫn của ASCCP 2012"._
+_Hình ảnh "Quản lý ASC-US - Hướng dẫn của ASCCP 2012"_.
 ![Quản lý ASC-US - Hướng dẫn của ASCCP 2012](./_images/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-asc-us.png)
 
-_Hình ảnh "Quản lý ASC-US - Bệnh viện Từ Dũ"._
+_Hình ảnh "Quản lý ASC-US - Bệnh viện Từ Dũ"_.
 ![Quản lý ASC-US - Bệnh viện Từ Dũ](./_images/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-us.jpeg)
 
 ### LSIL
@@ -125,10 +125,10 @@ Soi cổ tử cung và sinh thiết theo tổn thương qua soi. Nếu **HPV (-)
 - Nếu HPV (+) hoặc Pap’s test ≥ ASC → soi cổ tử cung ngay.
 - Nếu Pap’s test âm tính hai lần liên tiếp → trở lại tầm soát định kỳ.
 
-_Hình ảnh "Quản lý LSIL - Hướng dẫn của ASCCP 2012"._
+_Hình ảnh "Quản lý LSIL - Hướng dẫn của ASCCP 2012"_.
 ![Quản lý LSIL - Hướng dẫn của ASCCP 2012](./_images/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-lsil.png)
 
-_Hình ảnh "Quản lý LSIL - Bệnh viện Từ Dũ"._
+_Hình ảnh "Quản lý LSIL - Bệnh viện Từ Dũ"_.
 ![Quản lý LSIL - Bệnh viện Từ Dũ](./_images/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-lsil.jpeg)
 
 ### HSIL
@@ -150,10 +150,10 @@ Nạo kênh cổ tử cung nếu không mang thai hoặc khoét chóp ngay (tr�
 
 LEEP (cắt vòng điện) có thể thực hiện cùng lúc với soi, bỏ qua sinh thiết và đánh giá kênh sau khi cắt.
 
-_Hình ảnh "Quản lý HSIL - Hướng dẫn của ASCCP 2012"._
+_Hình ảnh "Quản lý HSIL - Hướng dẫn của ASCCP 2012"_.
 ![Quản lý HSIL - Hướng dẫn của ASCCP 2012](./_images/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-hsil.png)
 
-_Hình ảnh "Quản lý HSIL - Bệnh viện Từ Dũ"._
+_Hình ảnh "Quản lý HSIL - Bệnh viện Từ Dũ"_.
 ![Quản lý HSIL - Bệnh viện Từ Dũ](./_images/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-hsil.jpeg)
 
 ### ASC-H
@@ -166,7 +166,7 @@ _Hình ảnh "Quản lý HSIL - Bệnh viện Từ Dũ"._
 
 Soi cổ tử cung và sinh thiết tổn thương.
 
-_Hình ảnh "Quản lý ASC-H - Bệnh viện Từ Dũ"._
+_Hình ảnh "Quản lý ASC-H - Bệnh viện Từ Dũ"_.
 ![Quản lý ASC-H - Bệnh viện Từ Dũ](./_images/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-h.jpeg)
 
 ### AGC / AGUS
@@ -179,10 +179,10 @@ _Hình ảnh "Quản lý ASC-H - Bệnh viện Từ Dũ"._
 
 Soi cổ tử cung, nạo kênh, và sinh thiết tổn thương tuyến nếu có. Tùy theo kết quả, có thể khoét chóp bằng dao lạnh.
 
-_Hình ảnh "Quản lý AGC / AGUS - Bệnh viện Từ Dũ"._
+_Hình ảnh "Quản lý AGC / AGUS - Bệnh viện Từ Dũ"_.
 ![Quản lý AGC hoặc AGUS - Bệnh viện Từ Dũ](./_images/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-agus.jpeg)
 
-_Hình ảnh "Quản lý AGC hướng về tăng sản tuyến - Bệnh viện Từ Dũ"._
+_Hình ảnh "Quản lý AGC hướng về tăng sản tuyến - Bệnh viện Từ Dũ"_.
 ![Quản lý AGC hướng về tăng sản tuyến - Bệnh viện Từ Dũ](./_images/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-huong-ve-tang-san-tuyen.jpeg)
 
 ### CIN 1
@@ -195,7 +195,7 @@ _Hình ảnh "Quản lý AGC hướng về tăng sản tuyến - Bệnh viện T
 
 Theo dõi Pap’s test hoặc co-testing định kỳ, tránh can thiệp quá mức.
 
-_Hình ảnh "Quản lý CIN 1 - Bệnh viện Từ Dũ"._
+_Hình ảnh "Quản lý CIN 1 - Bệnh viện Từ Dũ"_.
 ![Quản lý CIN 1 - Bệnh viện Từ Dũ](./_images/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-cin-1.jpeg)
 
 ### CIN 2 và CIN 3
@@ -208,7 +208,7 @@ _Hình ảnh "Quản lý CIN 1 - Bệnh viện Từ Dũ"._
 
 Khoét chóp (cold knife conization) hoặc LEEP/LLETZ để cắt bỏ mô xét nghiệm và điều trị, trừ khi có chỉ định đặc biệt ở phụ nữ trẻ hoặc đang mang thai.
 
-_Hình ảnh "Quản lý CIN 2, 3 - Bệnh viện Từ Dũ"._
+_Hình ảnh "Quản lý CIN 2, 3 - Bệnh viện Từ Dũ"_.
 ![Quản lý CIN 2, 3 - Bệnh viện Từ Dũ](./_images/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-cin-2-3.jpeg)
 
 ### AIS
@@ -225,14 +225,14 @@ Cắt tử cung toàn phần: Lựa chọn nếu không còn nhu cầu sinh con.
 
 Khoét chóp bằng dao lạnh được ưu tiên hơn LEEP để đánh giá bờ phẫu thuật chính xác. Nếu bờ còn bất thường hoặc kênh có CIN/AIS, cần cắt lại hoặc đánh giá sau 6 tháng.
 
-_Hình ảnh "Quản lý AIS - ASCCP 2012"._
+_Hình ảnh "Quản lý AIS - ASCCP 2012"_.
 ![Quản lý AIS - Hướng dẫn của ASCCP 2012](./_images/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-ais.png)
 
 ### Trong thai kỳ
 
 Xử trí tương tự người không mang thai, nhưng hoãn một số can thiệp (nạo kênh) đến sau sinh hoặc lựa chọn kỹ thuật ít xâm lấn.
 
-_Hình ảnh "Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai - Bệnh viện Từ Dũ"._
+_Hình ảnh "Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai - Bệnh viện Từ Dũ"_.
 ![Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có thai - Bệnh viện Từ Dũ](./_images/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-nghi-ngo-ung-thu-co-tu-cung-va-thai-ky.png)
 
 ## Điều trị
@@ -243,7 +243,7 @@ _Hình ảnh "Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có t
 - Đơn giản, ít đau, thực hiện ngoại trú.
 - Không điều chỉnh chính xác độ sâu và rìa điều trị.
 
-_Hình ảnh "Áp lạnh cổ tử cung: Đầu áp nối với nitrogen lỏng hoặc CO₂ lỏng"._
+_Hình ảnh "Áp lạnh cổ tử cung: Đầu áp nối với nitrogen lỏng hoặc CO₂ lỏng"_.
 ![Áp lạnh cổ tử cung](./_images/tan-sinh-bieu-mo-co-tu-cung/ap-lanh-co-tu-cung.png)
 
 **Hủy mô bằng đốt laser (Laser Vaporization)**:
@@ -264,7 +264,7 @@ _Hình ảnh "Áp lạnh cổ tử cung: Đầu áp nối với nitrogen lỏng 
 - Mẫu mô rõ ràng, không bị cháy, giúp đánh giá bờ phẫu thuật và xâm lấn.
 - Khó cầm máu và có thể gây hẹp kênh cổ tử cung.
 
-_Hình ảnh "Khoét chóp cổ tử cung bằng dao lạnh"._
+_Hình ảnh "Khoét chóp cổ tử cung bằng dao lạnh"_.
 ![Khoét chóp cổ tử cung bằng dao lạnh](./_images/tan-sinh-bieu-mo-co-tu-cung/khoet-chop-bang-dao-lanh.png)
 
 **Cắt bỏ mô tổn thương bằng vòng điện (LEEP / LLETZ)**:
@@ -273,7 +273,7 @@ _Hình ảnh "Khoét chóp cổ tử cung bằng dao lạnh"._
 - Mẫu mô dễ bị cháy, khó đánh giá bờ cắt.
 - Dần thay thế đốt laser do chi phí và tính đơn giản.
 
-_Hình ảnh "LEEP và các loại vòng cắt phổ biến"._
+_Hình ảnh "LEEP và các loại vòng cắt phổ biến"_.
 ![LEEP và các loại vòng cắt phổ biến](./_images/tan-sinh-bieu-mo-co-tu-cung/leep.png)
 
 ## Tài liệu tham khảo

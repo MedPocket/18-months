@@ -33,34 +33,32 @@ Theo FIGO 2018, có ≥ 1 tiêu chí sau (không bao gồm PSTT/ETT):
 
 ## Tiên lượng
 
-_Bảng "Điểm tiên lượng FIGO/WHO 2018"_
-| Thang điểm FIGO (WHO) | 0 | 1 | 2 | 4 |
+| Điểm tiên lượng FIGO/WHO 2018            | 0          | 1          | 2             | 4          |
 | ---------------------------------------- | ---------- | ---------- | ------------- | ---------- |
-| **Tuổi** | < 40 | ≥ 40 | — | — |
-| **Tiền cân thai** | Thai trứng | Bố thai | Đủ tháng | — |
-| **Số tháng (từ thai lần)** | < 4 | 4 - 6 | 7 - 12 | > 12 |
-| **hCG trước điều trị IU/ml** | < 10³ | 10³ - 10⁴ | 10⁴ - 10⁵ | > 10⁵ |
-| **Kích thước bướu lớn nhất gồm TC (cm)** | | 3 - 4 cm | ≥ 5 cm | — |
-| **Vị trí di căn** | Phổi | Lách, Thận | Dạ dày - ruột | Não Gan |
-| **Số điểm di căn** | — | 1 - 4 | 5 - 8 | > 8 |
-| **Hóa trị thất bại trước đó** | — | — | Đơn hóa trị | Đa hóa trị |
+| **Tuổi**                                 | < 40       | ≥ 40       | —             | —          |
+| **Tiền cân thai**                        | Thai trứng | Bố thai    | Đủ tháng      | —          |
+| **Số tháng (từ thai lần)**               | < 4        | 4 - 6      | 7 - 12        | > 12       |
+| **hCG trước điều trị IU/ml**             | < 10³      | 10³ - 10⁴  | 10⁴ - 10⁵     | > 10⁵      |
+| **Kích thước bướu lớn nhất gồm TC (cm)** |            | 3 - 4 cm   | ≥ 5 cm        | —          |
+| **Vị trí di căn**                        | Phổi       | Lách, Thận | Dạ dày - ruột | Não Gan    |
+| **Số điểm di căn**                       | —          | 1 - 4      | 5 - 8         | > 8        |
+| **Hóa trị thất bại trước đó**            | —          | —          | Đơn hóa trị   | Đa hóa trị |
 
-_Bảng "Phân loại NIH (Mỹ)"._
-| Phân loại | Tiêu chuẩn chẩn đoán |
+| Phân loại NIH (Mỹ)          | Tiêu chuẩn chẩn đoán                                                                                                                                                                                                                                                           |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Không di căn** | Không có bất cứ bằng chứng nào của di căn |
+| **Không di căn**            | Không có bất cứ bằng chứng nào của di căn                                                                                                                                                                                                                                      |
 | **Di căn - Tiên lượng tốt** | Không có bất kỳ yếu tố nguy cơ nào sau:<br>- Thời gian từ có thai trước đến phát hiện bệnh < 4 tháng<br>- Beta hCG trước điều trị < 40000 UI/ml<br>- Thai kỳ trước không phải thai đủ tháng<br>- Chưa từng hóa trị trước<br>- Không có di căn não hay gan (có thể di căn phổi) |
-| **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên |
+| **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên                                                                                                                                                                                                                                          |
 
 ## Điều trị
 
-_Hình ảnh "Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ"._
+_Hình ảnh "Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ"_.
 ![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
 
-_Hình ảnh "Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi - Bệnh viện Từ Dũ"._
+_Hình ảnh "Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi - Bệnh viện Từ Dũ"_.
 ![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
 
-_Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ"._
+_Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ"_.
 ![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
 
 ### Nguyên tắc
@@ -162,7 +160,7 @@ Etoposide 100 mg/m² truyền TM trong 1 giờ + Cisplatin 20 mg/m² truyền TM
 
 **Khám lâm sàng, siêu âm, X-quang ngực, cận lâm sàng** khi β-hCG bất thường hoặc có triệu chứng lâm sàng. Xét nghiệm huyết đồ, chức năng gan, thận, điện giải... phát hiện nhiễm độc hóa chất.
 
-_Hình ảnh "Di căn phổi bóng bay trên X-quang"._
+_Hình ảnh "Di căn phổi bóng bay trên X-quang"_.
 ![Di căn phổi](./_images/choriocarcinoma-di-can-phoi-hinh-anh-tha-bong.png)
 
 Sau thời gian theo dõi, người bệnh được có thai trở lại, tùy trường hợp. **Yêu cầu ít nhất 2 năm sau điều trị khỏi mới có thai lại**. Khi có dấu hiệu mang thai cần đi khám thai ngày, chú ý siêu âm và β-hCG để phòng bệnh tái phát.

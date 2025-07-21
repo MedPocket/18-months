@@ -22,7 +22,7 @@ description: Mô tả các phương tiện chẩn đoán hình ảnh và xâm l�
 
 Nhũ ảnh là phương pháp chụp X-quang tuyến vú với năng lượng thấp, được xem là tiêu chuẩn vàng trong tầm soát và chẩn đoán tổn thương vú.
 
-_Hình ảnh "Nhũ ảnh: Phim MLO (trái) cho thấy mô vú và cơ ngực rõ, đặc biệt 1/4 trên ngoài. Phim CC (phải) cho thấy toàn bộ mô vú từ chân vú đến núm, cơ ngực lớn và túi Chassaignac"._
+_Hình ảnh "Nhũ ảnh: Phim MLO (trái) cho thấy mô vú và cơ ngực rõ, đặc biệt 1/4 trên ngoài. Phim CC (phải) cho thấy toàn bộ mô vú từ chân vú đến núm, cơ ngực lớn và túi Chassaignac"_.
 ![Nhũ ảnh, phim MLO (trái) và phim CC (phải).](./_images/can-lam-sang-tuyen-vu/nhu-anh.png)
 
 **Mục đích**:
@@ -54,7 +54,7 @@ _Hình ảnh "Nhũ ảnh: Phim MLO (trái) cho thấy mô vú và cơ ngực rõ
 
 ## Siêu âm
 
-_Hình ảnh "(Trái) Khối nang hỗn hợp và nang đơn thuần trên siêu âm vú. (Phải) Hướng dẫn sinh thiết nang vú qua siêu âm"._
+_Hình ảnh "(Trái) Khối nang hỗn hợp và nang đơn thuần trên siêu âm vú. (Phải) Hướng dẫn sinh thiết nang vú qua siêu âm"_.
 ![Siêu âm tuyến vú](./_images/can-lam-sang-tuyen-vu/sieu-am-vu.png)
 
 Siêu âm tuyến vú sử dụng sóng âm tần số cao (7-12 MHz) để khảo sát tổn thương mô mềm.
@@ -86,7 +86,7 @@ Siêu âm tuyến vú sử dụng sóng âm tần số cao (7-12 MHz) để kh�
 
 ## MRI
 
-_Hình ảnh "MRI vú cung cấp hình ảnh động học và giải phẫu chi tiết, giúp đánh giá tổn thương và mức độ xâm lấn xung quanh"._
+_Hình ảnh "MRI vú cung cấp hình ảnh động học và giải phẫu chi tiết, giúp đánh giá tổn thương và mức độ xâm lấn xung quanh"_.
 ![Cộng hưởng từ tuyến vú](./_images/can-lam-sang-tuyen-vu/cong-huong-tu-tuyen-vu.png)
 
 MRI tuyến vú sử dụng nguyên tắc cộng hưởng hạt nhân, cho phép khảo sát mô vú ở không gian ba chiều với độ tương phản mô mềm rất cao. Thường tiêm thuốc tương phản gadolinium để tăng nét.

@@ -15,18 +15,16 @@ description: Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là
 
 ## Phân loại
 
-_Bảng "Phân loại theo giải phẫu"._
-| Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại | Xét nghiệm cần thiết |
+| Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại                                                              | Xét nghiệm cần thiết     |
 | ------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------ |
-| **Thành trước (ngăn trước)** | Sa bàng quang: Trung tâm, bên, kết hợp<br>Sa niệu đạo | Niệu động học |
-| **Vòm âm đạo (ngăn giữa)** | Túi sa ruột non: Trước, sau<br>Sa tử cung<br>Sa mỏm cắt | MRI động ± Niệu động học |
-| **Thành sau (ngăn sau)** | Túi trực tràng: Cao, giữa, thấp<br>Sa trực tràng<br>Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
+| **Thành trước (ngăn trước)**         | Sa bàng quang: Trung tâm, bên, kết hợp<br>Sa niệu đạo                                  | Niệu động học            |
+| **Vòm âm đạo (ngăn giữa)**           | Túi sa ruột non: Trước, sau<br>Sa tử cung<br>Sa mỏm cắt                                | MRI động ± Niệu động học |
+| **Thành sau (ngăn sau)**             | Túi trực tràng: Cao, giữa, thấp<br>Sa trực tràng<br>Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
 
 ## Chẩn đoán
 
 ### Lâm sàng
 
-_Bảng "Phân loại - Phân độ sa tạng chậu"._
 ![Phân loại - Phân độ sa tạng chậu](./_images/sa-tang-chau/phan-loai-phan-do-sa-tang-chau.jpg)
 
 Đơn vị đo cm, người bệnh tư thế sản phụ khoa, đầu cao 45°, rặn trong quá trình đánh giá. Dụng cụ van âm đạo, thước đo, kẹp tim, pozzi.
@@ -51,7 +49,7 @@ _Bảng "Phân loại - Phân độ sa tạng chậu"._
 - Độ III: Ba hoặc Bp sa > 1 cm dưới màng trinh nhưng <(tvl-2) cm.
 - Độ IV: Sa toàn bộ, Ba hoặc Bp ≥ (tvl-2) cm.
 
-_Hình ảnh "Sơ đồ chẩn đoán sa tạng chậu"._
+_Hình ảnh "Sơ đồ chẩn đoán sa tạng chậu"_.
 ![Sơ đồ chẩn đoán sa tạng chậu](./_images/sa-tang-chau/so-do-chan-doan-sa-tang-chau.jpg)
 
 Dựa vào lâm sàng (POP-Q) và kết quả cận lâm sàng, ghi rõ:
@@ -98,13 +96,13 @@ Phương pháp:
 
 ### Ngoại khoa
 
-_Hình ảnh "Phác đồ chẩn đoán và xử trí sa tạng chậu - Bệnh viện Từ Dũ"._
+_Hình ảnh "Phác đồ chẩn đoán và xử trí sa tạng chậu - Bệnh viện Từ Dũ"_.
 ![Phác đồ chẩn đoán và xử trí sa tạng chậu - Bệnh viện Từ Dũ](./_images/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
 
-_Hình ảnh "Phẫu thuật ngả bụng - Bệnh viện Từ Dũ"._
+_Hình ảnh "Phẫu thuật ngả bụng - Bệnh viện Từ Dũ"_.
 ![Phẫu thuật ngả bụng - Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-bung.jpeg)
 
-_Hình ảnh "Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ"._
+_Hình ảnh "Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ"_.
 ![Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-am-dao.png)
 
 **Nguyên tắc**:

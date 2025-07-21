@@ -7,7 +7,7 @@ Mục tiêu chính của hồi sức sơ sinh là giúp trẻ thiết lập **tu
 
 ## Từ tuần hoàn bào thai sang sơ sinh
 
-_Hình ảnh "Tuần hoàn bào thai (trái) với shunt qua lỗ Botal & ống động mạch - Phổi không trao đổi khí. Tuần hoàn sơ sinh (phải) - Phổi mở, shunt đóng"._
+_Hình ảnh "Tuần hoàn bào thai (trái) với shunt qua lỗ Botal & ống động mạch - Phổi không trao đổi khí. Tuần hoàn sơ sinh (phải) - Phổi mở, shunt đóng"_.
 ![Tuần hoàn bào thai và sơ sinh](./_images/hoi-suc-so-sinh/tuan-hoan-bao-thai-va-tuan-hoan-so-sinh.jpeg)
 
 - **Bào thai**: Trao đổi khí qua rau, phổi không vận hành, trở kháng mạch phổi cao → máu qua shunt tim-phổi.
@@ -17,14 +17,15 @@ _Hình ảnh "Tuần hoàn bào thai (trái) với shunt qua lỗ Botal & ống 
 
 Thực hiện tại **1, 5** và khi cần **10 phút** sau sinh theo 5 tiêu chí:
 
-_Bảng "Điểm APGAR"._
-| Dấu hiệu đánh giá | 0 điểm | 1 điểm | 2 điểm |
+| Điểm APGAR        | 0 điểm            | 1 điểm                  | 2 điểm                    |
 | ----------------- | ----------------- | ----------------------- | ------------------------- |
-| **Nhịp tim** | < 80 lần/phút | 80-100 lần/phút | > 100 lần/phút |
-| **Hô hấp** | Không thở | Thở không đều, khóc yếu | Thở đều, khóc to |
-| **Trương lực cơ** | Mềm nhũn | Vận động yếu | Vận động tốt |
-| **Phản xạ** | Không có | Phản ứng yếu, nhăn mặt | Phản ứng tốt, cử động tốt |
-| **Màu da** | Toàn thân tím tái | Thân hồng, tay chân tím | Toàn thân hồng hào |
+| **Nhịp tim**      | < 80 lần/phút     | 80-100 lần/phút         | > 100 lần/phút            |
+| **Hô hấp**        | Không thở         | Thở không đều, khóc yếu | Thở đều, khóc to          |
+| **Trương lực cơ** | Mềm nhũn          | Vận động yếu            | Vận động tốt              |
+| **Phản xạ**       | Không có          | Phản ứng yếu, nhăn mặt  | Phản ứng tốt, cử động tốt |
+| **Màu da**        | Toàn thân tím tái | Thân hồng, tay chân tím | Toàn thân hồng hào        |
+
+**Điểm APGAR**:
 
 - **0-3**: Ngạt nặng, cần hồi sức cấp cứu.
 - **4-7**: Ngạt nhẹ-vừa, hỗ trợ hô hấp.
@@ -41,7 +42,7 @@ Khoảng 10% trẻ sơ sinh cần hỗ trợ, chỉ 1% cần hồi sức tích c
 
 ## Quy trình
 
-_Hình ảnh "Lưu đồ hồi sức sơ sinh"._
+_Hình ảnh "Lưu đồ hồi sức sơ sinh"_.
 ![Lưu đồ hồi sức sơ sinh](./_images/hoi-suc-so-sinh/luu-do-hoi-suc-so-sinh.jpeg)
 
 1. **Giảm thất thoát nhiệt**: Lau khô, đặt dưới đèn sưởi. Hút dịch mũi-họng nếu cần.
@@ -51,7 +52,7 @@ _Hình ảnh "Lưu đồ hồi sức sơ sinh"._
 
 ## Theo dõi
 
-_Hình ảnh "3 mức độ chăm sóc sau hồi sức"._
+_Hình ảnh "3 mức độ chăm sóc sau hồi sức"_.
 ![3 mức độ chăm sóc sau hồi sức](./_images/hoi-suc-so-sinh/3-muc-do-cham-soc-sau-hoi-suc.jpeg)
 
 - **Chăm sóc hồi sức**: Trẻ cần PPV/ấn ngực/thuốc.

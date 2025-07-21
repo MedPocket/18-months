@@ -5,16 +5,16 @@ description: Cấu trúc và chức năng của hệ vi khuẩn âm đạo, thà
 
 Hệ vi khuẩn âm đạo (vaginal microbiome) của phụ nữ trong độ tuổi sinh sản bao gồm cả vi khuẩn kỵ khí và hiếu khí thường trú, tồn tại trong quan hệ cộng sinh với môi trường âm đạo. Âm đạo cung cấp dưỡng chất (glycogen, protein, muối điện giải) cho vi sinh vật, đồng thời cộng đồng vi khuẩn đóng vai trò bảo vệ chủ thể bằng cách ngăn chặn vi khuẩn gây bệnh xâm nhập và phát triển quá mức. Rối loạn hệ vi khuẩn âm đạo có thể dẫn đến nhiều vấn đề sức khỏe, như viêm nhiễm, sảy thai, sinh non, thậm chí tăng nguy cơ lây nhiễm qua đường tình dục. Mật độ vi khuẩn trong dịch âm đạo rất cao, khoảng 10⁸-10⁹ vi khuẩn trên mỗi mL.
 
-Ở phụ nữ trong độ tuổi sinh sản bình thường, _Lactobacillus spp._ (khuẩn Döderlein) chiếm ưu thế. Đây là vi khuẩn Gram dương, hình que, kỵ khí không bắt buộc, thuộc nhóm vi khuẩn lactic acid, có khả năng chuyển hóa glycogen thành lactic acid.
+Ở phụ nữ trong độ tuổi sinh sản bình thường, _Lactobacillus spp_. (khuẩn Döderlein) chiếm ưu thế. Đây là vi khuẩn Gram dương, hình que, kỵ khí không bắt buộc, thuộc nhóm vi khuẩn lactic acid, có khả năng chuyển hóa glycogen thành lactic acid.
 
 ## Hệ vi khuẩn âm đạo
 
 Các trạng thái hệ vi khuẩn âm đạo khác nhau (dựa trên chủng chiếm ưu thế, điểm Nugent) phản ánh sự biến động chức năng bảo vệ ở từng cá thể. Khi _Lactobacillus_ chiếm ưu thế, âm đạo được bảo vệ tốt; Ngược lại, giảm _Lactobacillus_ hoặc tăng vi khuẩn kỵ khí/gây hại sẽ dẫn đến rối loạn tiết dịch.
 
-_Hình ảnh "Phân kiểu trạng thái khuẩn hệ dựa trên chủng vi khuẩn ưu thế và điểm Nugent"._
+_Hình ảnh "Phân kiểu trạng thái khuẩn hệ dựa trên chủng vi khuẩn ưu thế và điểm Nugent"_.
 ![Các kiểu trạng thái khuẩn hệ âm đạo](./_images/tiet-dich-am-dao-bat-thuong/cac-trang-thai-khuan-he-am-dao.png)
 
-_Hình ảnh "Lactobacillus spp. sản xuất lactic acid, H₂O₂ và bacteriocins để ức chế vi sinh vật gây bệnh"._
+_Hình ảnh "Lactobacillus spp. sản xuất lactic acid, H₂O₂ và bacteriocins để ức chế vi sinh vật gây bệnh"_.
 ![Lactobacillus sp sản xuất lactic acid và H₂O₂, ức chế vi sinh vật có hại](./_images/tiet-dich-am-dao-bat-thuong/lactobacillus-sp-san-xuat-acid-lactic-h2o2.png)
 
 **Vai trò** của _Lactobacillus_:
@@ -37,7 +37,7 @@ Môi trường âm đạo được hình thành bởi estrogen, kích thích bi�
 - **Thụt rửa âm đạo**.
 - **Stress, thay đổi dinh dưỡng**.
 
-Khi bị nhiễm hoặc rối loạn, các vi khuẩn kỵ khí (_Gardnerella vaginalis_, _Mobiluncus spp._), nấm (_Candida spp._) hoặc ký sinh (_Trichomonas vaginalis_) có cơ hội phát triển quá mức, gây tiết dịch bất thường.
+Khi bị nhiễm hoặc rối loạn, các vi khuẩn kỵ khí (_Gardnerella vaginalis_, _Mobiluncus spp_.), nấm (_Candida spp_.) hoặc ký sinh (_Trichomonas vaginalis_) có cơ hội phát triển quá mức, gây tiết dịch bất thường.
 
 ## Thành phần dịch âm đạo
 
@@ -51,7 +51,7 @@ Khi bị nhiễm hoặc rối loạn, các vi khuẩn kỵ khí (_Gardnerella va
 - Dịch tuyến Bartholin (âm hộ ngoài).
 - Tế bào niêm mạc lát tầng bong tróc (dẫn đến dịch trắng sữa).
 
-**Thành phần**: Nước, glycoprotein (mucins), protein, amino acid, muối vô cơ, các vi sinh vật thường trú (_Lactobacillus spp._).
+**Thành phần**: Nước, glycoprotein (mucins), protein, amino acid, muối vô cơ, các vi sinh vật thường trú (_Lactobacillus spp_.).
 
 **Chức năng**:
 
@@ -122,7 +122,7 @@ Bình thường, phụ nữ sinh sản sản xuất khoảng 1.5 g dịch mỗi 
 
 ## Điều trị
 
-_Hình ảnh "Sơ đồ xử trí tiết dịch âm đạo bất thường - Bệnh viện Từ Dũ"._
+_Hình ảnh "Sơ đồ xử trí tiết dịch âm đạo bất thường - Bệnh viện Từ Dũ"_.
 ![Sơ đồ xử trí tiết dịch âm đạo bất thường - Bệnh viện Từ Dũ](./_images/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
 
 **Clomaz Forte (Clotrimazole 500 mg)**:

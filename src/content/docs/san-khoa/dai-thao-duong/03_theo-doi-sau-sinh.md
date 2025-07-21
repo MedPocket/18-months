@@ -47,18 +47,17 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ - con ngay sau sinh và tr
 
 **OGTT 75 g** thực hiện ở 4-12 tuần sau sinh:
 
-_Bảng "Đánh giá OGTT 75 g sau sinh"._
-| **Thời điểm** | Bình thường | Tiền đái tháo đường | Đái tháo đường |
+| **Thời điểm**       | Bình thường                | Tiền đái tháo đường             | Đái tháo đường              |
 | ------------------- | -------------------------- | ------------------------------- | --------------------------- |
-| **Glucose khi đói** | < 5.6 mmol/L (< 100 mg/dL) | 5.6-6.9 mmol/L (100-125 mg/dL) | ≥ 7.0 mmol/L (≥ 126 mg/dL) |
-| **Glucose 2 giờ** | < 7.8 mmol/L (< 140 mg/dL) | 7.8-11.0 mmol/L (140-199 mg/dL) | ≥ 11.1 mmol/L (≥ 200 mg/dL) |
+| **Glucose khi đói** | < 5.6 mmol/L (< 100 mg/dL) | 5.6-6.9 mmol/L (100-125 mg/dL)  | ≥ 7.0 mmol/L (≥ 126 mg/dL)  |
+| **Glucose 2 giờ**   | < 7.8 mmol/L (< 140 mg/dL) | 7.8-11.0 mmol/L (140-199 mg/dL) | ≥ 11.1 mmol/L (≥ 200 mg/dL) |
 
 **Kết quả và xử trí**:
 
 - **Bình thường**: Kiểm tra định kỳ 1-3 năm/lần, tư vấn lối sống lành mạnh.
 - **Tiền đái tháo đường/ĐTĐ**: Chuyển khám Nội tiết, cân nhắc điều trị nội tiết và chương trình thay đổi lối sống tích cực.
 
-_Hình ảnh "Quy trình theo dõi và quản lý ĐTĐ sau sinh"._
+_Hình ảnh "Quy trình theo dõi và quản lý ĐTĐ sau sinh"_.
 ![Theo dõi và quản lý ĐTĐ sau sinh](./_images/theo-doi-va-quan-ly-dai-thao-duong-sau-sinh.jpg)
 
 ## Tài liệu tham khảo

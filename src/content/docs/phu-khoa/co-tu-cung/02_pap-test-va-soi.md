@@ -14,15 +14,14 @@ Pap's test hay phết mỏng tế bào cổ tử cung là công cụ tầm soát
 
 Pap’s test quy ước rẻ hơn nhưng độ nhạy và đặc hiệu thấp hơn. Pap’s test nhúng dịch tốn kém hơn nhưng giữ được tế bào tốt hơn, nên độ nhạy và đặc hiệu cao hơn.
 
-_Bảng "So sánh 2 kỹ thuật thực hiện Pap's test"._
-| | PAP quy ước | PAP những dịch |
-| --------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **Lấy mẫu** | Tương đương | |
-| **Mất tế bào khi làm lame** | Mất đến 80% số tế bào thu thập được | Không bị mất tế bào |
-| **Chất lượng lame** | Khó đọc do đảm độ tế bào không đều. Buộc phải đọc hoàn toàn thủ công | Tế bào dàn trải đều. Có thể đọc sơ cấp bằng máy |
-| **Sensitivity (%)** | 68 | 76 |
-| **Specificity (%)** | 79 | 89 |
-| **Khảo sát vi sinh bổ túc** | Ngẫu nhiên: _Candida sp._ _Trichomonas vaginalis_ | Có thể thực hiện được các khảo sát vi sinh bổ sung khi có yêu cầu |
+| So sánh 2 kỹ thuật thực hiện Pap's test | PAP quy ước                                                          | PAP những dịch                                                    |
+| --------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **Lấy mẫu**                             | Tương đương                                                          |                                                                   |
+| **Mất tế bào khi làm lame**             | Mất đến 80% số tế bào thu thập được                                  | Không bị mất tế bào                                               |
+| **Chất lượng lame**                     | Khó đọc do đảm độ tế bào không đều. Buộc phải đọc hoàn toàn thủ công | Tế bào dàn trải đều. Có thể đọc sơ cấp bằng máy                   |
+| **Sensitivity (%)**                     | 68                                                                   | 76                                                                |
+| **Specificity (%)**                     | 79                                                                   | 89                                                                |
+| **Khảo sát vi sinh bổ túc**             | Ngẫu nhiên: _Candida sp_. _Trichomonas vaginalis_                    | Có thể thực hiện được các khảo sát vi sinh bổ sung khi có yêu cầu |
 
 ### Điều kiện thực hiện
 
@@ -42,13 +41,13 @@ Phụ nữ mãn kinh nên dùng estrogen tại chỗ vài ngày trước khi l�
 
 **Pap’s test Thin Prep**: Lấy mẫu tương tự nhưng cho vào lọ chứa dung dịch nhúng dịch.
 
-_Hình ảnh "Dụng cụ làm Pap’s test (từ trái sang):<br> 1. Cytobrush cho kênh cổ tử cung.<br> 2. Que Ayre cho Pap’s test quy ước.<br> 3. Chổi lớn cho Thin Prep"._
+_Hình ảnh "Dụng cụ làm Pap’s test (từ trái sang):<br> 1. Cytobrush cho kênh cổ tử cung.<br> 2. Que Ayre cho Pap’s test quy ước.<br> 3. Chổi lớn cho Thin Prep"_.
 ![Dụng cụ làm Pap's test](./_images/pap-test-va-soi-co-tu-cung/dung-cu-lam-pap.png)
 
-_Hình ảnh "Cách lấy mẫu (từ trái sang):<br> 1. Cytobrush: Lấy ở kênh tử cung, áp vào SCJ, không đưa quá sâu.<br> 2. Que Ayre: Lấy hai lần, đầu to và đầu nhọn, áp vào vùng chuyển sản để lấy SCJ.<br> 3. Chổi lớn: Áp vào SCJ và vùng chuyển sản"._
+_Hình ảnh "Cách lấy mẫu (từ trái sang):<br> 1. Cytobrush: Lấy ở kênh tử cung, áp vào SCJ, không đưa quá sâu.<br> 2. Que Ayre: Lấy hai lần, đầu to và đầu nhọn, áp vào vùng chuyển sản để lấy SCJ.<br> 3. Chổi lớn: Áp vào SCJ và vùng chuyển sản"_.
 ![Cách lấy mẫu](./_images/pap-test-va-soi-co-tu-cung/cach-lay-mau-pap.png)
 
-_Hình ảnh "Cách trải lam:<br> 1. Chổi lớn: Kéo để trải.<br> 2. Cytobrush: Lăn tròn để trải.<br> 3. Que Ayre: Kéo để trải"._
+_Hình ảnh "Cách trải lam:<br> 1. Chổi lớn: Kéo để trải.<br> 2. Cytobrush: Lăn tròn để trải.<br> 3. Que Ayre: Kéo để trải"_.
 ![Cách trải lame](./_images/pap-test-va-soi-co-tu-cung/cach-trai-lame.png)
 
 ### HPV testing
@@ -100,14 +99,15 @@ Thay đổi do vi sinh vật: Trichomonas vaginalis, Candida sp., Gardnerella, C
 
 ### Quản lý
 
-_Bảng "Các khuyến cáo dựa theo American Cancer Society, ASCCP, và ASCP. A: Mạnh, chứng cứ rõ ràng. B: Trung bình, chứng cứ không hằng định. C: Theo kinh nghiệm"._
-| Phương pháp tầm soát | Kết quả | Xử trí |
+| Phương pháp tầm soát     | Kết quả                                                              | Xử trí                                                                                                                                                                         |
 | ------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tế bào học đơn thuần** | Tế bào học âm tính _hoặc_ ASC-US và HPV âm tính | Tầm soát lại sau 3 năm |
-| | Các kết quả khác | Xử trí theo khuyến cáo ASCCP |
-| **Co-testing** | Tế bào học âm tính, HPV testing âm tính _hoặc_ ASC-US và HPV âm tính | Tầm soát lại sau 5 năm |
-| | Tế bào học âm tính và HPV testing dương tính | **Lựa chọn 1**: Lập lại co-testing sau 12 tháng (B)_<br>**Lựa chọn 2**: Genotypes HPV 16 hoặc HPV 16/18 (B)_<br>Nếu dương → soi cổ tử cung<br>Nếu âm → co-testing sau 12 tháng |
-| | Tất cả các kết quả khác | Xử trí theo khuyến cáo ASCCP |
+| **Tế bào học đơn thuần** | Tế bào học âm tính _hoặc_ ASC-US và HPV âm tính                      | Tầm soát lại sau 3 năm                                                                                                                                                         |
+|                          | Các kết quả khác                                                     | Xử trí theo khuyến cáo ASCCP                                                                                                                                                   |
+| **Co-testing**           | Tế bào học âm tính, HPV testing âm tính _hoặc_ ASC-US và HPV âm tính | Tầm soát lại sau 5 năm                                                                                                                                                         |
+|                          | Tế bào học âm tính và HPV testing dương tính                         | **Lựa chọn 1**: Lập lại co-testing sau 12 tháng (B)_<br>**Lựa chọn 2**: Genotypes HPV 16 hoặc HPV 16/18 (B)_<br>Nếu dương → soi cổ tử cung<br>Nếu âm → co-testing sau 12 tháng |
+|                          | Tất cả các kết quả khác                                              | Xử trí theo khuyến cáo ASCCP                                                                                                                                                   |
+
+_"Các khuyến cáo dựa theo American Cancer Society, ASCCP, và ASCP. A: Mạnh, chứng cứ rõ ràng. B: Trung bình, chứng cứ không hằng định. C: Theo kinh nghiệm"_.
 
 ## Soi cổ tử cung
 
@@ -156,16 +156,16 @@ Tiến trình soi gồm ba bước:
 
 Phân loại dựa theo ASCCP.
 
-_Hình ảnh "Cổ tử cung bình thường qua soi"._
+_Hình ảnh "Cổ tử cung bình thường qua soi"_.
 ![Hình ảnh cổ tử cung bình thường qua soi cổ](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-binh-thuong.png)
 
-_Hình ảnh "Cổ tử cung chuyển sản với ranh giới lát trụ, biểu mô lát non"._
+_Hình ảnh "Cổ tử cung chuyển sản với ranh giới lát trụ, biểu mô lát non"_.
 ![Hình ảnh chuyển sản với ranh giới lát trụ, biểu mô lát non](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-ranh-gioi-lat-tru-bieu-mo-lat-non.png)
 
-_Hình ảnh "Cổ tử cung chuyển sản với cửa tuyến, đảo tuyến"._
+_Hình ảnh "Cổ tử cung chuyển sản với cửa tuyến, đảo tuyến"_.
 ![Hình ảnh cổ tử cung chuyển sản với cửa tuyến, đảo tuyến](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-chuyen-san-voi-cua-tuyen-dao-tuyen.png)
 
-_Hình ảnh "Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non"._
+_Hình ảnh "Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non"_.
 ![Hình ảnh cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát non](./_images/pap-test-va-soi-co-tu-cung/hinh-anh-co-tu-cung-tai-tao-voi-luoi-bieu-mo-chuyen-san-non.png)
 
 **Nhóm hình ảnh bình thường**:

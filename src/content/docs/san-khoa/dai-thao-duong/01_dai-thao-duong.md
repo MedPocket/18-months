@@ -25,7 +25,7 @@ description: Định nghĩa, phân loại, sàng lọc, chẩn đoán, điều t
 
 ## Bệnh sinh
 
-_Hình ảnh "Thay đổi nhu cầu insulin theo các giai đoạn thai kỳ"._
+_Hình ảnh "Thay đổi nhu cầu insulin theo các giai đoạn thai kỳ"_.
 ![Thay đổi nhu cầu insulin trong thai kỳ](./_images/thay-doi-ve-nhu-cau-insulin.png)
 
 1. **Kháng insulin sinh lý**: Bắt đầu tăng từ giữa thai kỳ (tuần 20-24) do hormon nhau thai (hPL, cortisol, estrogen, progesterone, prolactin...) làm giảm tiêu thụ glucose của mẹ, ưu tiên cho thai nhi.
@@ -34,28 +34,26 @@ _Hình ảnh "Thay đổi nhu cầu insulin theo các giai đoạn thai kỳ"._
 
 ## Yếu tố nguy cơ
 
-_Bảng "Yếu tố nguy cơ của bệnh nhân đái tháo đường thai kỳ"._
-| Yếu tố | Tiêu chí / Ngưỡng |
+| Yếu tố nguy cơ          | Tiêu chí / Ngưỡng                                                                                                  |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **BMI trước mang thai** | ≥ 23 kg/m² (người châu Á) |
-| **Tiền sử gia đình** | Cha/mẹ/anh/chị/em ruột có ĐTĐ |
-| **Tiền sử sản khoa** | Con ≥ 4.0 kg; Thai chết lưu vô căn; Dị tật bẩm sinh |
-| **Bệnh lý kèm theo** | Tăng huyết áp; Bệnh tim mạch; HDL < 0.9 mmol/L; TG > 2.82 mmol/L; PCOS; HIV |
-| **Tuổi mẹ** | > 35 tuổi |
-| **Tiền sử cá nhân** | GDM lần trước; IFG/IGT trước đó; HbA1c 5.7-6.4% |
-| **Lối sống** | Ít vận động; Stress; Hút thuốc |
-| **Glucosuria (+)** | Có thể dương tính cơ học, không đặc hiệu cho GDM (gặp 10-15% thai phụ không GDM, cần kết hợp xét nghiệm chính xác) |
+| **BMI trước mang thai** | ≥ 23 kg/m² (người châu Á)                                                                                          |
+| **Tiền sử gia đình**    | Cha/mẹ/anh/chị/em ruột có ĐTĐ                                                                                      |
+| **Tiền sử sản khoa**    | Con ≥ 4.0 kg; Thai chết lưu vô căn; Dị tật bẩm sinh                                                                |
+| **Bệnh lý kèm theo**    | Tăng huyết áp; Bệnh tim mạch; HDL < 0.9 mmol/L; TG > 2.82 mmol/L; PCOS; HIV                                        |
+| **Tuổi mẹ**             | > 35 tuổi                                                                                                          |
+| **Tiền sử cá nhân**     | GDM lần trước; IFG/IGT trước đó; HbA1c 5.7-6.4%                                                                    |
+| **Lối sống**            | Ít vận động; Stress; Hút thuốc                                                                                     |
+| **Glucosuria (+)**      | Có thể dương tính cơ học, không đặc hiệu cho GDM (gặp 10-15% thai phụ không GDM, cần kết hợp xét nghiệm chính xác) |
 
 ## Sàng lọc và chẩn đoán
 
 ### 3 tháng đầu (≤ 13 tuần 6 ngày)
 
-_Bảng "Kết quả sàng lọc 3 tháng đầu"._
-| Kết quả | Tiêu chí | Xử trí |
-| ---------------- | -------------------------------------------------------------------------------------- | --------------------------- |
-| **Bình thường** | Glucose đói 70-90 mg/dL (3.9-5.0 mmol/L) và Glucose bất kỳ ≤ 199 mg/dL (≤ 11.0 mmol/L) | Sàng lọc lại 24-28 tuần |
-| **Nghi ngờ GDM** | Glucose đói 91-125 mg/dL (5.1-6.9 mmol/L) và/hoặc HbA1c 5.7-6.4% | Sàng lọc hoặc OGTT ngay |
-| **ĐTĐ rõ (DIP)** | Glucose đói ≥ 126 mg/dL hoặc bất kỳ ≥ 200 mg/dL + triệu chứng | Chuyển chuyên khoa Nội tiết |
+| Kết quả sàng lọc 3 tháng đầu | Tiêu chí                                                                               | Xử trí                      |
+| ---------------------------- | -------------------------------------------------------------------------------------- | --------------------------- |
+| **Bình thường**              | Glucose đói 70-90 mg/dL (3.9-5.0 mmol/L) và Glucose bất kỳ ≤ 199 mg/dL (≤ 11.0 mmol/L) | Sàng lọc lại 24-28 tuần     |
+| **Nghi ngờ GDM**             | Glucose đói 91-125 mg/dL (5.1-6.9 mmol/L) và/hoặc HbA1c 5.7-6.4%                       | Sàng lọc hoặc OGTT ngay     |
+| **ĐTĐ rõ (DIP)**             | Glucose đói ≥ 126 mg/dL hoặc bất kỳ ≥ 200 mg/dL + triệu chứng                          | Chuyển chuyên khoa Nội tiết |
 
 **Đánh giá nguy cơ** ngay lần khám đầu tiên:
 
@@ -77,13 +75,14 @@ _Bảng "Kết quả sàng lọc 3 tháng đầu"._
 - Trong thời gian làm nghiệm pháp thai phụ không ăn uống gì thêm, được ngồi nghỉ ngơi hoặc đi lại nhẹ nhàng.
 
 :::note[Tiêu chuẩn chẩn đoán GDM]
-**Chẩn đoán GDM** khi có ≥ 1 tiêu chí bất thường theo<br>
-_Bảng "Tiêu chuẩn chẩn đoán GDM (IADPSG/WHO 2013)"._
+**Chẩn đoán GDM** khi có ≥ 1 tiêu chí bất thường theo IADPSG/WHO 2013):
+
 | Thời điểm | Glucose (mg/dL) | Glucose (mmol/L) |
 | --------- | --------------- | ---------------- |
-| **Đói** | ≥ 92 | ≥ 5.1 |
-| **1h** | ≥ 180 | ≥ 10.0 |
-| **2h** | ≥ 153 | ≥ 8.5 |
+| **Đói**   | ≥ 92            | ≥ 5.1            |
+| **1h**    | ≥ 180           | ≥ 10.0           |
+| **2h**    | ≥ 153           | ≥ 8.5            |
+
 :::
 
 ### 3 tháng cuối (> 28 tuần)
@@ -129,22 +128,20 @@ Không cần sàng lọc lại nếu đã chẩn đoán GDM. Nếu bỏ sót tr�
 
 **Tăng phù hợp với BMI trước mang thai**:
 
-_Bảng "Khuyến cáo về mức tăng cân trong thai kỳ (tiêu chuẩn Châu Á)"._
-| BMI trước khi mang thai | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) |
-| --------------------------------------------------- | ------------- | ------------------------------------------------------------------------ |
-| **Thiếu năng lượng trường diễn (BMI < 18.5 kg/m²)** | 12.5-18 | 0.51 (0.44-0.58) |
-| **Bình thường (BMI 18.5-22.9 kg/m²)** | 11.5-16 | 0.42 (0.35-0.50) |
-| **Thừa cân (BMI 23.0-24.9 kg/m²)** | 7-11.5 | 0.28 (0.23-0.33) |
-| **Béo phì (BMI > 24.9 kg/m²)** | 5-9 | 0.22 (0.17-0.27) |
+| BMI trước khi mang thai                             | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) theo tiêu chuẩn châu Á |
+| --------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------- |
+| **Thiếu năng lượng trường diễn (BMI < 18.5 kg/m²)** | 12.5-18       | 0.51 (0.44-0.58)                                                                                |
+| **Bình thường (BMI 18.5-22.9 kg/m²)**               | 11.5-16       | 0.42 (0.35-0.50)                                                                                |
+| **Thừa cân (BMI 23.0-24.9 kg/m²)**                  | 7-11.5        | 0.28 (0.23-0.33)                                                                                |
+| **Béo phì (BMI > 24.9 kg/m²)**                      | 5-9           | 0.22 (0.17-0.27)                                                                                |
 
 ### Mục tiêu
 
-_Bảng "Đường huyết tương mao mạch mục tiêu"._
-| Thời điểm | Glucose (mg/dL) | Glucose (mmol/L) |
-| ------------- | --------------- | ---------------- |
-| **Lúc đói** | < 95 | < 5.3 |
-| **Sau ăn 1h** | < 140 | < 7.8 |
-| **Sau ăn 2h** | < 120 | < 6.7 |
+| Thời điểm     | Glucose mao mạch mục tiêu (mg/dL) | Glucose mao mạch mục tiêu (mmol/L) |
+| ------------- | --------------------------------- | ---------------------------------- |
+| **Lúc đói**   | < 95                              | < 5.3                              |
+| **Sau ăn 1h** | < 140                             | < 7.8                              |
+| **Sau ăn 2h** | < 120                             | < 6.7                              |
 
 :::caution
 
@@ -177,7 +174,7 @@ _Bảng "Đường huyết tương mao mạch mục tiêu"._
 - **Basal**: Insulin NPH hoặc Detemir nếu chỉ tăng glucose lúc đói.
 - **Bolus**: Insulin tác dụng nhanh (Regular, Lispro, Aspart) nếu tăng sau ăn.
 - **Basal-bolus**: Phối hợp khi tăng cả đói và sau ăn.<br>
-  _Hình ảnh "Các loại insulin và dấu đỏ: Loại được phép dùng cho phụ nữ mang thai"._
+  _Hình ảnh "Các loại insulin và dấu đỏ: Loại được phép dùng cho phụ nữ mang thai"_.
   ![Các loại insulin thai kỳ](./_images/cac-loai-insulin.png)
 
 **Điều chỉnh liều**:
@@ -194,7 +191,7 @@ Phẫu thuật ở BN dùng insulin:
 
 :::
 
-_Hình ảnh "Tóm tắt thời điểm và chỉ định cách sinh"._
+_Hình ảnh "Tóm tắt thời điểm và chỉ định cách sinh"_.
 ![Tóm tắt thời điểm và chỉ định cách sinh](./_images/tom-tat-thoi-diem-va-chi-dinh-cach-sinh.webp)
 
 ## Theo dõi chuyển dạ

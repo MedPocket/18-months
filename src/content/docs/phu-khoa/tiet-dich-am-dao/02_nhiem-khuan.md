@@ -16,7 +16,7 @@ BV xảy ra khi có sự thay đổi về tỷ lệ vi khuẩn trong hệ vi sin
 
 **Tăng vi khuẩn yếm khí**:
 
-- _Gardnerella vaginalis_ là tác nhân phổ biến nhất, nhưng còn có _Prevotella spp._, _Mobiluncus spp._, _Bacteroides spp._, _Peptostreptococcus spp._, _Mycoplasma hominis_.
+- _Gardnerella vaginalis_ là tác nhân phổ biến nhất, nhưng còn có _Prevotella spp_., _Mobiluncus spp_., _Bacteroides spp_., _Peptostreptococcus spp_., _Mycoplasma hominis_.
 - Các vi khuẩn này tiết ra amin dễ bay hơi (putrescin, cadaverin), gây mùi hôi đặc trưng.
 
 **Cơ chế bệnh sinh và biến chứng**:
@@ -44,7 +44,7 @@ Loạn khuẩn âm đạo (bacterial vaginosis - BV) là tình trạng rối lo�
 - Dịch thường **không gây ngứa, không kèm đỏ hoặc phù nề âm hộ**—điểm khác biệt so với viêm âm đạo do nấm hoặc trùng roi.
 - Mùi hôi đặc trưng **cá thối** (odour), thường rõ hơn sau giao hợp hoặc sau khi nước ối lợi phá vỡ cân bằng pH âm đạo.
 
-_Hình ảnh "Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "cá thối". Khoảng 25% trường hợp có kích ứng nhẹ ở âm hộ, biểu hiện bằng ngứa hoặc rát nhẹ"._
+_Hình ảnh "Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "cá thối". Khoảng 25% trường hợp có kích ứng nhẹ ở âm hộ, biểu hiện bằng ngứa hoặc rát nhẹ"_.
 ![Dịch âm đạo bất thường](./_images/viem-am-dao-nhiem-khuan/dich-am-dao-bat-thuong.png)
 
 ### Tiêu chuẩn Amsel
@@ -67,19 +67,20 @@ _Hình ảnh "Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "c
 
 1. **Nhóm I - _Lactobacillus_ (vi khuẩn Gram dương, hình que lớn)**: Càng nhiều _Lactobacilli_, điểm càng thấp (0-4).
 2. **Nhóm II - _Gardnerella_ & _Bacteroides_ (vi khuẩn Gram âm, hình que ngắn hoặc _coccobacilli_)**: Càng nhiều vi khuẩn nhóm này, điểm càng cao (0-4).
-3. **Nhóm III - _Mobiluncus spp._ (vi khuẩn Gram đổi màu, trực khuẩn cong)**: Càng nhiều, điểm càng cao (0-2).
+3. **Nhóm III - _Mobiluncus spp_. (vi khuẩn Gram đổi màu, trực khuẩn cong)**: Càng nhiều, điểm càng cao (0-2).
 
-_Bảng "Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0-10)"._
-| Điểm I (_Lactobacillus_) | Điểm II (_Gardnerella_/_Bacteroides_) | Điểm III (_Mobiluncus_) |
+| Điểm I (_Lactobacillus_)                               | Điểm II (_Gardnerella_/_Bacteroides_)                  | Điểm III (_Mobiluncus_)                                |
 | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ |
-| **Vi khuẩn Gram dương, hình que lớn** | **Vi khuẩn Gram âm, hình que ngắn/_coccobacilli_** | **Trực khuẩn cong, Gram đổi màu** |
-| Quang trường lớn x1000 | Quang trường lớn x1000 | Quang trường lớn x1000 |
+| **Vi khuẩn Gram dương, hình que lớn**                  | **Vi khuẩn Gram âm, hình que ngắn/_coccobacilli_**     | **Trực khuẩn cong, Gram đổi màu**                      |
+| Quang trường lớn x1000                                 | Quang trường lớn x1000                                 | Quang trường lớn x1000                                 |
 | **Số lượng tế bào/vi khuẩn trên 10 trường trung bình** | **Số lượng tế bào/vi khuẩn trên 10 trường trung bình** | **Số lượng tế bào/vi khuẩn trên 10 trường trung bình** |
-| 0: > 30 | 0: < 1 | 0: < 5 |
-| 1: 5-30 | 1: 1-4 | 1: 5-30 |
-| 2: 1-4 | 2: 5-30 | 2: 5-30 |
-| 3: < 1 | 3: > 30 | 3: > 30 |
-| 4: 0 | 4: Phủ kín toàn bộ trường | 4: Phủ kín toàn bộ trường |
+| 0: > 30                                                | 0: < 1                                                 | 0: < 5                                                 |
+| 1: 5-30                                                | 1: 1-4                                                 | 1: 5-30                                                |
+| 2: 1-4                                                 | 2: 5-30                                                | 2: 5-30                                                |
+| 3: < 1                                                 | 3: > 30                                                | 3: > 30                                                |
+| 4: 0                                                   | 4: Phủ kín toàn bộ trường                              | 4: Phủ kín toàn bộ trường                              |
+
+**Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0-10)**:
 
 - **0-3**: Kết quả âm tính với BV (hệ vi khuẩn cân bằng).
 - **4-6**: Khu vực trung gian (nghi ngờ, cần theo dõi hoặc xét nghiệm lại).
@@ -140,14 +141,13 @@ Theo Bệnh viện Từ Dũ, BV được chẩn đoán khi đủ 2/3 tiêu chu�
 
 Phần lớn trường hợp BV không có triệu chứng có thể tự cải thiện nhờ hệ vi sinh thay đổi. Tuy nhiên, khi có triệu chứng hoặc thuộc nhóm nguy cơ cao (phụ nữ mang thai, chuẩn bị phẫu thuật sản phụ khoa), cần can thiệp.
 
-_Bảng "Kháng sinh (áp dụng cho BV có triệu chứng)"._
-| Loại thuốc | Đường dùng & Liều dùng |
-| --------------------------- | -------------------------------------------------------------- |
-| **Metronidazole uống** | 500 mg uống 2 lần/ngày trong 7 ngày |
-| **Metronidazole gel 0.75%** | 5 g gel (một lần/ngày) đặt âm đạo trong 5 ngày |
-| **Clindamycin cream 2%** | 5 g cream (một lần/ngày) đặt âm đạo trước khi ngủ trong 7 ngày |
-| **Tinidazole** | 2 g liều duy nhất uống, có thể thay cho Metronidazole |
-| **Clindamycin viên** | 300 mg uống 2 lần/ngày trong 7 ngày |
+| Kháng sinh (áp dụng cho BV có triệu chứng) | Đường dùng & Liều dùng                                         |
+| ------------------------------------------ | -------------------------------------------------------------- |
+| **Metronidazole uống**                     | 500 mg uống 2 lần/ngày trong 7 ngày                            |
+| **Metronidazole gel 0.75%**                | 5 g gel (một lần/ngày) đặt âm đạo trong 5 ngày                 |
+| **Clindamycin cream 2%**                   | 5 g cream (một lần/ngày) đặt âm đạo trước khi ngủ trong 7 ngày |
+| **Tinidazole**                             | 2 g liều duy nhất uống, có thể thay cho Metronidazole          |
+| **Clindamycin viên**                       | 300 mg uống 2 lần/ngày trong 7 ngày                            |
 
 :::caution
 Metronidazole uống có thể gây khô miệng, vị kim loại, và nên tránh rượu bia trong thời gian điều trị và 48 giờ sau khi kết thúc. Tinidazole ít tác dụng phụ hơn nhưng giá thành cao hơn.

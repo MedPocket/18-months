@@ -9,16 +9,17 @@ Trong thai kỳ, chức năng tuyến giáp của mẹ bị thay đổi đáng k
 
 Sự tăng lọc cầu thận trong thai kỳ dẫn đến tăng thải iod qua nước tiểu, từ đó làm giảm nồng độ iod vô cơ trong huyết thanh. Đây là một yếu tố góp phần gây suy giáp nếu không được bổ sung iod đầy đủ.
 
-_Bảng "Chức năng tuyến giáp ở phụ nữ, phụ nữ mang thai và máu cuống rốn thai trưởng thành (Giá trị tham khảo, có thể thay đổi theo phương pháp xét nghiệm)"._
-| Chỉ số | Không mang thai | Mang thai | Máu cuống rốn |
+| Chỉ số                  | Không mang thai | Mang thai | Máu cuống rốn |
 | ----------------------- | --------------- | --------- | ------------- |
-| **T₄ (µg/dL)** | 5 - 12 | 10 - 16 | 6 - 13 |
-| **Free T₄ (ng/dL)** | 1 - 2.3 | 2.5 - 3.5 | 1.5 - 3 |
-| **T₃ (ng/dL)** | 110 - 230 | 150 - 250 | 40 - 60 |
-| **Reverse T₃ (ng/dL)** | 15 - 30 | 35 - 65 | 80 - 360 |
-| **Resin T₃ uptake (%)** | 20 - 30 | 10 | 10 - 15 |
-| **TBG (g/dL)** | 12 - 28 | 40 - 50 | 10 - 16 |
-| **TSH (U/mL)** | 1.94 | 0 - 6 | 0 - 20 |
+| **T₄ (µg/dL)**          | 5 - 12          | 10 - 16   | 6 - 13        |
+| **Free T₄ (ng/dL)**     | 1 - 2.3         | 2.5 - 3.5 | 1.5 - 3       |
+| **T₃ (ng/dL)**          | 110 - 230       | 150 - 250 | 40 - 60       |
+| **Reverse T₃ (ng/dL)**  | 15 - 30         | 35 - 65   | 80 - 360      |
+| **Resin T₃ uptake (%)** | 20 - 30         | 10        | 10 - 15       |
+| **TBG (g/dL)**          | 12 - 28         | 40 - 50   | 10 - 16       |
+| **TSH (U/mL)**          | 1.94            | 0 - 6     | 0 - 20        |
+
+_Chức năng tuyến giáp ở phụ nữ, phụ nữ mang thai và máu cuống rốn thai trưởng thành (Giá trị tham khảo, có thể thay đổi theo phương pháp xét nghiệm)_.
 
 **Free T₄ (free thyroxine - FT₄)** là chỉ số đánh giá chức năng tuyến giáp chính xác nhất trong thai kỳ, do sự thay đổi nồng độ **TBG (Thyroxine Binding Globulin)** khiến tổng nồng độ T₃ và T₄ tăng suốt thai kỳ.
 

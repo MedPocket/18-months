@@ -23,7 +23,7 @@ Các cấu trúc này tự thoái lui khi yếu tố kích thích biến mất. 
 
 ## Nang noãn nang
 
-_Hình ảnh "Nang đơn trên siêu âm, 5-8 cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ"._
+_Hình ảnh "Nang đơn trên siêu âm, 5-8 cm, thành mỏng, không chồi, không vách. Nang noãn nang thường tự mất sau vài chu kỳ"_.
 ![Nang noãn nang trên siêu âm](./_images/quan-ly-cac-cau-truc-co-nang-buong-trung/nang-noan-nang-tren-sieu-am.png)
 
 Là nang noãn không trưởng thành và không phóng noãn. Nang tiếp tục tăng kích thước, sản xuất steroid bất thường. **Nguyên nhân** do phản hồi steroid bị triệt tiêu (ví dụ dậy thì, quanh mãn kinh, steroid ngoại sinh, stress). **Cấu trúc** gồm thành lót tế bào hạt xung quanh tế bào vỏ, lòng nang chứa estrogen; Đôi khi chỉ còn tế bào vỏ nếu tế bào hạt tróc rời; Nang có thể đạt 5-8 cm, tồn tại xuyên chu kỳ.
@@ -43,7 +43,7 @@ Là nang noãn không trưởng thành và không phóng noãn. Nang tiếp tụ
 
 ## Nang hoàng thể
 
-_Hình ảnh "Hoàng thể xuất huyết trên siêu âm"._
+_Hình ảnh "Hoàng thể xuất huyết trên siêu âm"_.
 ![Hoàng thể xuất huyết trên siêu âm](./_images/quan-ly-cac-cau-truc-co-nang-buong-trung/hoang-the-xuat-huyet-tren-sieu-am.png)
 
 Hoàng thể hình thành sau phóng noãn, từ tế bào vỏ-hạt dưới tác dụng LH. **Chức năng** tiết estrogen và progesterone, chuẩn bị làm tổ và duy trì thai. Progesterone gây feedback giảm GnRH/LH, dẫn đến ly giai hoàng thể.

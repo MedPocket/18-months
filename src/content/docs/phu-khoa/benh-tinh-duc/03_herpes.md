@@ -12,7 +12,7 @@ description: Bệnh do virus Herpes simplex (HSV), thường là HSV type 2 (có
 
 ### Lâm sàng
 
-_Hình ảnh "Herpes sinh dục: Mụn nước, vết loét ở vùng môi bé và âm đạo"._
+_Hình ảnh "Herpes sinh dục: Mụn nước, vết loét ở vùng môi bé và âm đạo"_.
 ![Herpes sinh dục](./_images/herpes/herpes.jpg)
 
 **Triệu chứng toàn thân (thường gặp ở lần nhiễm đầu tiên)**:

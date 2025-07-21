@@ -5,7 +5,7 @@ description: Bệnh sùi mào gà (Condyloma acuminata) là bệnh lây truyền
 
 **Bệnh sùi mào gà (Condyloma acuminata)** là một bệnh lý lây truyền qua đường tình dục do virus HPV (Human Papillomavirus) gây ra, đặc biệt là các chủng nguy cơ thấp như HPV týp 6 và 11. Đây là loại virus DNA không vỏ, có ái tính mạnh với biểu mô lát tầng. Virus HPV còn được chia thành hai nhóm chính: nhóm nguy cơ thấp (gây sùi mào gà, mụn cóc) và nhóm nguy cơ cao (gây ung thư cổ tử cung, dương vật, hậu môn...).
 
-_Hình ảnh “Sùi mào gà vùng sinh dục”._
+_Hình ảnh “Sùi mào gà vùng sinh dục”_.
 ![Sùi mào gà](./_images/sui-mao-ga/sui-mao-ga.png)
 
 ## Chẩn đoán
@@ -107,9 +107,7 @@ _Hình ảnh “Sùi mào gà vùng sinh dục”._
 - **Chỉ định điều trị khi tổn thương lớn, gây chảy máu, vướng víu hoặc nguy cơ tắc đường sinh dục**.
 - **Trì hoãn điều trị nếu tổn thương nhỏ, không triệu chứng**, vì nhiều trường hợp có thể thoái lui sau sinh.
 
-_Bảng "Phương pháp điều trị an toàn cho thai kỳ"_
-
-| Phương pháp                           | Ghi chú                                                                                                                          |
+| Phương pháp điều trị                  | Ghi chú                                                                                                                          |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Trichloroacetic acid (TCA) 80-90%** | Bôi tại chỗ bởi bác sĩ. An toàn cho thai kỳ.                                                                                     |
 | **Đốt điện - Laser - Phẫu thuật**     | Áp dụng cho sùi lớn, tắc âm đạo. Nên thực hiện ở tam cá nguyệt 2-3.                                                              |

@@ -143,10 +143,10 @@ Việc điều trị đau vú chỉ được khuyến nghị khi triệu chứng
 - Với các trường hợp đau vú lành tính, không có khối trên hình ảnh, áp dụng biện pháp không dùng thuốc, điều chỉnh lối sống và theo dõi sau 6-12 tuần.
 - Nếu không cải thiện, cân nhắc điều trị nội tiết tố theo thứ tự: Tamoxifen → Danazol → Bromocriptine (chỉ khi thật cần và có giám sát).
 
-_Hình ảnh "Điều trị đau vú - Phác đồ Cardiff, 2009"._
+_Hình ảnh "Điều trị đau vú - Phác đồ Cardiff, 2009"_.
 ![Điều trị đau vú - Phác đồ Cardiff, 2009](./_images/dau-vu/dieu-tri-dau-vu-theo-phac-do-cardiff.png)
 
-_Hình ảnh "Đánh giá và xử trí đau vú - Bệnh viện Từ Dũ"._
+_Hình ảnh "Đánh giá và xử trí đau vú - Bệnh viện Từ Dũ"_.
 ![Đánh giá và xử trí đau vú - Bệnh viện Từ Dũ](./_images/dau-vu/danh-gia-va-xu-tri-dau-vu.png)
 
 ### Không dùng thuốc

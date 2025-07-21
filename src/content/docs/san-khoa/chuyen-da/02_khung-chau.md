@@ -11,7 +11,7 @@ Khung chậu được cấu tạo bởi **4 xương** gồm phía **trước và
 
 **Tiểu khung** là phần quan trọng nhất vì ngôi thai phải vượt qua tiểu khung để đi ra ngoài qua ngã âm đạo. Trên đoạn đường đi từ trong ra ngoài này, thai nhi phải lần lượt vượt qua các vòng eo hẹp - có thể được cấu tạo bằng xương hoặc xương kết hợp với cân-cơ - đó là **eo trên**, **eo giữa** và **eo dưới**.
 
-_Hình ảnh "Tiểu khung trên thiết đồ đứng dọc"._
+_Hình ảnh "Tiểu khung trên thiết đồ đứng dọc"_.
 ![Tiểu khung trên thiết đồ đứng dọc](./_images/khung-chau-trong-san-khoa/tieu-khung-tren-thiet-do-dung-doc.png)
 
 Khi nhìn ngang, lòng tiểu khung có dạng ống cong về phía trước với 2 thành không đều nhau:
@@ -39,7 +39,7 @@ Eo trên là vòng xương cứng, không thay đổi trong chuyển dạ. Kích
 - **Đường kính chéo**: Từ khớp cùng-chậu bên này đến gai mào chậu lược bên kia. Trị số bình thường 12.75 cm.
 - **Đường kính ngang**: **Ngang tối đa** 13.5 cm - không có giá trị sản khoa vì nằm gần mỏm nhô. **Ngang hữu dụng** 12.5 cm là đường kính ngang đi qua trung điểm của đường kính trước-sau. Dù quan trọng, nhưng **không thể đo được lâm sàng**.
 
-_Hình ảnh "Các đường kính eo trên"._
+_Hình ảnh "Các đường kính eo trên"_.
 ![Các đường kính eo trên](./_images/khung-chau-trong-san-khoa/cac-duong-kinh-eo-tren.png)
 
 ### Eo giữa
@@ -95,7 +95,7 @@ Phương pháp sử dụng X-quang để đo chính xác các đường kính kh
 
 Theo Caldwell-Moloy, khung chậu được chia thành 4 loại chính:
 
-_Hình ảnh "4 dạng khung chậu theo Caldwell-Moloy"._
+_Hình ảnh "4 dạng khung chậu theo Caldwell-Moloy"_.
 ![Các dạng khung chậu](./_images/khung-chau-trong-san-khoa/cac-dang-khung-chau-theo-caldwell-moloy.png)
 
 1. **Gynecoid (dạng phụ nữ)** - 50.6%: Thường gặp nhất ở phụ nữ. Thuận lợi cho sinh ngả âm đạo.
