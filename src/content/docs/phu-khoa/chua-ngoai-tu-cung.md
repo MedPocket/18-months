@@ -79,7 +79,7 @@ Chọc dò cùng đồ: Máu sẫm, không đông (cân nhắc chỉ định do 
 
 ### Huyết tụ thành nang
 
-#### Lâm sàng
+Khối chửa ngoài chảy máu ít một, được ruột và mạc nối lớn bao bọc lại thành khối huyết tụ.
 
 **Cơ năng**: Trễ kinh, ra huyết kéo dài, đau bụng vùng chậu kéo dài.
 
@@ -90,7 +90,7 @@ Chọc dò cùng đồ: Máu sẫm, không đông (cân nhắc chỉ định do 
 
 ### Trong ổ bụng
 
-- Hiếm gặp: Khoảng 1/10000-1/25000 trường hợp.
+- Hiếm gặp: Khoảng 1/10 000-1/25 000 trường hợp.
 - Thai nằm ngoài tử cung, trong ổ bụng, thường do thai thoát khỏi vòi trứng sau vỡ.
 - Sờ bụng thấy thai sát thành bụng, có thể có ngôi bất thường.
 - Siêu âm: Thai nằm xen giữa quai ruột, không nằm trong tử cung.
@@ -99,13 +99,13 @@ Chọc dò cùng đồ: Máu sẫm, không đông (cân nhắc chỉ định do 
 
 ### Tại cổ tử cung
 
-- Rất hiếm: Khoảng 1/9000-1/12000.
+- Rất hiếm: Khoảng 1/9000-1/12 000.
 - Siêu âm thấy túi thai nằm ở cổ tử cung, lòng tử cung trống.
 - Hình ảnh "đồng hồ cát", mạch máu quanh túi thai phát triển mạnh, không có dấu hiệu trượt.
 
 ### Tại buồng trứng
 
-- Rất hiếm: Khoảng 1/7000-1/12000.
+- Rất hiếm: Khoảng 1/7000-1/12 000.
 - Lâm sàng tương tự các vị trí khác, siêu âm thấy túi thai nằm trong buồng trứng.
 
 ## Điều trị
@@ -137,7 +137,7 @@ Tiêm Methotrexate (MTX) để điều trị chửa ngoài tử cung là một p
 
 **MTX đa liều**:
 
-- β-hCG 5000-10000 mIU/mL.
+- β-hCG 5000-10 000 mIU/mL.
 - Khối thai < 5 cm, đoạn kẽ < 3 cm.
 
 #### Chống chỉ định
@@ -194,6 +194,8 @@ Khi điều trị MTX cần lưu ý:
 ### Ngoại khoa
 
 #### Bảo tồn ống dẫn trứng
+
+Gần giống với điều trị nội khoa:
 
 - β-hCG < 5000 mIU/mL.
 - Khối thai < 4 cm.
