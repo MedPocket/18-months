@@ -24,25 +24,31 @@ Theo FIGO 2018, có ≥ 1 tiêu chí sau (không bao gồm PSTT/ETT):
 
 :::
 
-**Phân giai đoạn FIGO (2018)**:
-
-- I: Khu trú tử cung.
-- II: Lan tới đường sinh dục nhưng chưa ra ngoài.
-- III: Di căn phổi.
-- IV: Di căn xa khác.
-
 ## Tiên lượng
 
-| Điểm tiên lượng FIGO/WHO 2018            | 0          | 1          | 2             | 4          |
+### Phân giai đoạn
+
+Theo FIGO (2018):
+
+- I: Khu trú tử cung.
+- II: Lan tới đường sinh dục nhưng chưa ra ngoài (phần phụ, âm đạo, dây chằng rộng).
+- III: Di căn phổi (dù có hay không tổn thương ở tử cung hoặc cơ quan sinh dục khác).
+- IV: Di căn xa đến các cơ quan ngoài phổi: gan, não, ruột, thận...
+
+### Phân loại nguy cơ
+
+| Điểm tiên lượng FIGO/WHO (2018)            | 0          | 1          | 2             | 4          |
 | ---------------------------------------- | ---------- | ---------- | ------------- | ---------- |
 | **Tuổi**                                 | < 40       | ≥ 40       | —             | —          |
 | **Tiền cân thai**                        | Thai trứng | Bố thai    | Đủ tháng      | —          |
 | **Số tháng (từ thai lần)**               | < 4        | 4 - 6      | 7 - 12        | > 12       |
 | **hCG trước điều trị IU/ml**             | < 10³      | 10³ - 10⁴  | 10⁴ - 10⁵     | > 10⁵      |
-| **Kích thước bướu lớn nhất gồm TC (cm)** | —          | 3 - 4 cm   | ≥ 5 cm        | —          |
-| **Vị trí di căn**                        | Phổi       | Lách, Thận | Dạ dày - ruột | Não Gan    |
+| **Kích thước bướu lớn nhất gồm TC (cm)** | <3 cm          | 3 - 4 cm   | ≥ 5 cm        | —          |
+| **Vị trí di căn**                        | Không | Phổi       | Lách, Thận | Não, Gan    |
 | **Số điểm di căn**                       | —          | 1 - 4      | 5 - 8         | > 8        |
-| **Hóa trị thất bại trước đó**            | —          | —          | Đơn hóa trị   | Đa hóa trị |
+| **Hóa trị thất bại trước đó**            | Không          | —          | Đơn hóa trị   | Đa hóa trị |
+
+_Nguy cơ thấp: 0-6 điểm (FIGO < 7 điểm, NIH không di căn). Nguy cơ cao: ≥ 7 điểm (FIGO ≥ 7 điểm, NIH di căn). Nguy cơ rất cao: ≥ 12 điểm (FIGO ≥ 12 điểm hoặc di căn gan, não, kháng hóa trị)._
 
 | Phân loại NIH (Mỹ)          | Tiêu chuẩn chẩn đoán                                                                                                                                                                                                                                                                |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
