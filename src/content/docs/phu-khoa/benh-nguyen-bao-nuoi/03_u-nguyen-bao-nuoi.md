@@ -44,11 +44,11 @@ Theo FIGO 2018, có ≥ 1 tiêu chí sau (không bao gồm PSTT/ETT):
 | **Số điểm di căn**                       | —          | 1 - 4      | 5 - 8         | > 8        |
 | **Hóa trị thất bại trước đó**            | —          | —          | Đơn hóa trị   | Đa hóa trị |
 
-| Phân loại NIH (Mỹ)          | Tiêu chuẩn chẩn đoán                                                                                                                                                                                                                                                           |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Không di căn**            | Không có bất cứ bằng chứng nào của di căn.                                                                                                                                                                                                                                     |
+| Phân loại NIH (Mỹ)          | Tiêu chuẩn chẩn đoán                                                                                                                                                                                                                                                                |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Không di căn**            | Không có bất cứ bằng chứng nào của di căn.                                                                                                                                                                                                                                          |
 | **Di căn - Tiên lượng tốt** | Không có bất kỳ yếu tố nguy cơ nào sau:<br>- Thời gian từ có thai trước đến phát hiện bệnh < 4 tháng.<br>- Beta hCG trước điều trị < 40000 UI/ml.<br>- Thai kỳ trước không phải thai đủ tháng.<br>- Chưa từng hóa trị trước.<br>- Không có di căn não hay gan (có thể di căn phổi). |
-| **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên.                                                                                                                                                                                                                                          |
+| **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên.                                                                                                                                                                                                                                              |
 
 ## Điều trị
 
