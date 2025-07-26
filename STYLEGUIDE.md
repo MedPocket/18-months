@@ -2,20 +2,14 @@
 
 ### Cấu trúc file Markdown
 
-Lưu nội dung trong thư mục: `src/content/docs/`. Mỗi file đại diện cho một chuyên đề hoặc bệnh lý. Cấu trúc frontmatter:
+Lưu nội dung trong thư mục: `src/content/docs/`. Mỗi file đại diện cho một chuyên đề hoặc bệnh lý.
 
 ```md
 ---
-title: 'Dọa sảy thai'
-description: 'Chẩn đoán, xử trí và theo dõi dọa sảy thai trong 3 tháng đầu'
+title: Tiêu đều
+description: Mô tả.
 ---
-```
 
-### Heading (Tiêu đề phân cấp)
-
-`#` được dùng làm tiêu đề trang. Sử dụng theo cấu trúc nội dung dưới đây:
-
-```md
 ## Định nghĩa
 
 ## Nguyên nhân
@@ -30,9 +24,13 @@ description: 'Chẩn đoán, xử trí và theo dõi dọa sảy thai trong 3 th
 
 ## Điều trị
 
+### Nguyên tắc
+
 ### Nội khoa
 
 ### Ngoại khoa
+
+## Nguồn tham khảo
 ```
 
 ### Danh sách và phân tích nội dung
@@ -40,12 +38,12 @@ description: 'Chẩn đoán, xử trí và theo dõi dọa sảy thai trong 3 th
 Dùng danh sách để trình bày các tiêu chuẩn, tiêu chí chẩn đoán, yếu tố nguy cơ... **Ví dụ**:
 
 ```md
-### Yếu tố nguy cơ dọa sảy thai
+### Yếu tố nguy cơ
 
-- Tuổi mẹ > 35
-- Tiền sử sảy thai liên tiếp
-- Bất thường tử cung (vách ngăn tử cung, tử cung hai sừng)
-- Nhiễm trùng niệu sinh dục
+- Tuổi mẹ > 35.
+- Tiền sử sảy thai liên tiếp.
+- Bất thường tử cung (vách ngăn tử cung, tử cung hai sừng).
+- Nhiễm trùng niệu sinh dục.
 ```
 
 ### Callouts (Lưu ý chuyên môn)
@@ -81,14 +79,14 @@ Dùng indent (4 dấu cách hoặc 1 tab) để viết danh sách lồng nhau.
 ### Tiêu chuẩn chẩn đoán
 
 1. Triệu chứng lâm sàng
-   - Ra huyết âm đạo
-   - Đau bụng dưới
+   - Ra huyết âm đạo.
+   - Đau bụng dưới.
 2. Khám thực thể
-   - Cổ tử cung đóng
-   - Tử cung tương ứng tuổi thai
+   - Cổ tử cung đóng.
+   - Tử cung tương ứng tuổi thai.
 3. Siêu âm
-   - Thai trong tử cung
-   - Tim thai dương tính
+   - Thai trong tử cung.
+   - Tim thai dương tính.
 ```
 
 ### Chèn bảng nội dung y khoa
@@ -98,11 +96,11 @@ Sử dụng bảng để so sánh chẩn đoán phân biệt, phác đồ điề
 **Ví dụ:**
 
 ```md
-| Tiêu chí            | Dọa sảy thai         | Thai ngoài tử cung    |
-| ------------------- | -------------------- | --------------------- |
-| **Đau bụng**        | Âm ỉ vùng hạ vị      | Đau nhói 1 bên        |
-| **Ra huyết âm đạo** | Lượng ít, đỏ sẫm     | Có thể nhiều, đỏ tươi |
-| **Siêu âm tử cung** | Có túi thai trong TC | Không thấy túi thai   |
+| Tiêu chí            | Dọa sảy thai               | Thai ngoài tử cung     |
+| ------------------- | -------------------------- | ---------------------- |
+| **Đau bụng**        | Âm ỉ vùng hạ vị.           | Đau nhói 1 bên.        |
+| **Ra huyết âm đạo** | Lượng ít, đỏ sẫm.          | Có thể nhiều, đỏ tươi. |
+| **Siêu âm tử cung** | Có túi thai trong tử cung. | Không thấy túi thai.   |
 ```
 
 ### Tài liệu tham khảo

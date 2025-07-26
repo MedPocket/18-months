@@ -47,7 +47,7 @@ _Hình ảnh “Sùi mào gà vùng sinh dục”_.
 
 **Xét nghiệm HPV DNA**:
 
-- Dùng trong trường hợp nghi ngờ nhiễm HPV nguy cơ cao (typ 16, 18…), đặc biệt khi có tổn thương cổ tử cung hoặc sàng lọc ung thư cổ tử cung.
+- Dùng trong trường hợp nghi ngờ nhiễm HPV nguy cơ cao (typ 16, 18...), đặc biệt khi có tổn thương cổ tử cung hoặc sàng lọc ung thư cổ tử cung.
 - Có thể thực hiện trên bệnh phẩm phết cổ tử cung, phết hậu môn, dịch miệng...
 
 ### Chẩn đoán phân biệt
