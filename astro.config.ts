@@ -1,5 +1,3 @@
-// astro.config.ts
-
 import starlight from "@astrojs/starlight";
 import { defineConfig } from "astro/config";
 import rehypeExternalLinks from "rehype-external-links";
@@ -8,14 +6,15 @@ import starlightLinksValidator from "starlight-links-validator";
 import { sidebar } from "./astro.sidebar";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 
-// Determine site URL based on environment
 const site =
-  process.env.CF_PAGES_BRANCH && process.env.CF_PAGES_BRANCH !== "main"
-    ? `https://${process.env.CF_PAGES_URL}`
-    : "https://18-months.pages.dev";
+  process.env.NODE_ENV === "production"
+    ? (process.env.SITE ?? "https://18-months.pages.dev")
+    : "http://localhost:4321";
+const base = process.env.BASE || "/";
 
 export default defineConfig({
   site,
+  base,
   markdown: {
     remarkPlugins: [remarkReadingTime],
     rehypePlugins: [
