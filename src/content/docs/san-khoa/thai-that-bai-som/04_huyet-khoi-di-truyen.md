@@ -35,12 +35,23 @@ Tiền sử **huyết khối tĩnh mạch sâu (DVT)**, **thuyên tắc phổi**
 
 ### Cận lâm sàng
 
-**Xét nghiệm gen** tìm đột biến: PCR/multiplex assay Factor V Leiden, Prothrombin G20210A.
+**Xét nghiệm gen** tìm đột biến di truyền làm tăng nguy cơ đông máu:
 
-**Định lượng/hoạt tính protein chống đông**:
+- F5 (Factor V Leiden) - đột biến G1691A
+- F2 (Prothrombin gene) - đột biến G20210A
+- MTHFR C677T, A1298C - liên quan gián tiếp qua homocysteine
 
-- Protein C, Protein S (miễn dịch và hoạt tính).
-- Antithrombin III hoạt tính.
+Kết quả xét nghiệm:
+
+| Gene        | Kết quả      | Ý nghĩa                                               |
+| ----------- | ------------ | ----------------------------------------------------- |
+| F5 Leiden   | Heterozygous | Nguy cơ tăng đông tăng khoảng 3–5 lần                 |
+| F2 G20210A  | Wild type    | Bình thường                                           |
+| MTHFR C677T | Homozygous   | Có thể làm tăng homocysteine, cần xét nghiệm thêm máu |
+
+- Homozygous (đồng hợp tử): nguy cơ cao.
+- Heterozygous (dị hợp tử): nguy cơ vừa.
+- Wild type/Normal: không đột biến.
 
 ## Điều trị
 

@@ -21,11 +21,24 @@ Mục tiêu quản lý là **phòng ngừa huyết khối** và **đảm bảo k
 
 ### Cận lâm sàng
 
-**Kháng thể APS dương tính ≥ 2 lần, cách nhau ≥ 12 tuần** để chẩn đoán:
+Xét nghiệm phát hiện **kháng thể kháng phospholipid** (tự miễn), không phải gen:
 
-- Lupus anticoagulant (LA).
-- Anticardiolipin IgG/IgM > 40 GPL/MPL.
+- Lupus anticoagulant (LA): Xét nghiệm pha loãng phospholipid dRVVT, aPTT kéo dài và không sửa khi thêm phospholipid.
+- Anticardiolipin (aCL) IgG/IgM > 40 GPL/MPL.
 - Anti-β2GPI IgG/IgM > 99th percentile.
+
+Kết quả xét nghiệm:
+
+:::note[Tiêu chuẩn chẩn đoán APS]
+Chẩn đoán APS cần **ít nhất 1 xét nghiệm dương tính** (ở mức trung bình – cao) **lặp lại sau ≥12 tuần**, kèm theo bằng chứng lâm sàng (huyết khối hoặc biến chứng thai kỳ).
+:::
+
+| Xét nghiệm       | Kết quả | Ngưỡng bình thường | Ý nghĩa                        |
+| ---------------- | ------- | ------------------ | ------------------------------ |
+| aCL IgG          | 45 GPL  | <20 GPL            | Dương tính, mức trung bình-cao |
+| aCL IgM          | 10 MPL  | <20 MPL            | Âm tính                        |
+| anti-β2GPI IgG   | 30 SGU  | <20 SGU            | Dương tính                     |
+| LA (dRVVT ratio) | 1.35    | <1.20              | Dương tính nhẹ                 |
 
 ## Biến chứng
 
