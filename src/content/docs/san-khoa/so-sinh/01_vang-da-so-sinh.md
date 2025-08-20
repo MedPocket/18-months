@@ -5,23 +5,24 @@ description: Vàng da sơ sinh là tình trạng thường gặp ở trẻ mới
 
 Vàng da sơ sinh là tình trạng da và niêm mạc của trẻ sơ sinh có màu vàng do tăng bilirubin tự do trong máu. Đây là một triệu chứng thường gặp, xuất hiện ở khoảng 60% trẻ đủ tháng và 80% trẻ non tháng.
 
-| Đặc điểm phân biệt           | Vàng da sinh lý                                                  | Vàng da bệnh lý                                                                                            |
-| ---------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Thời điểm xuất hiện**      | Sau **24 giờ** sau sinh (thường ngày 2-3)                            | Trong **24 giờ đầu** sau sinh                                                                                  |
-| **Mức độ vàng da**           | Nhẹ đến vừa, bilirubin tăng chậm                                     | Nặng, bilirubin tăng nhanh                                                                                     |
-| **Tốc độ tăng bilirubin**    | <**5 mg/dL/ngày**                                                   | ≥**5 mg/dL/ngày**                                                                                             |
-| **Giá trị bilirubin tối đa** | <**12 mg/dL** (trẻ đủ tháng) <br> <**14–15 mg/dL** (trẻ non tháng) | >**12–15 mg/dL** (đủ tháng) <br> >**10 mg/dL** (non tháng)                                                   |
-| **Thời gian kéo dài**        | <**7 ngày** (trẻ đủ tháng) <br> <**10–14 ngày** (trẻ non tháng)    | >**7 ngày** (đủ tháng) <br> >**14 ngày** (non tháng)                                                         |
-| **Bilirubin trực tiếp**      | Bình thường (<2 mg/dL, <20% tổng bilirubin)                         | >2 mg/dL hoặc >20% tổng bilirubin                                                                             |
-| **Triệu chứng đi kèm**       | Trẻ bú tốt, tỉnh táo, tăng cân                                       | Trẻ bú kém, lừ đừ, sốt, thiếu máu, gan lách to, dấu hiệu thần kinh                                             |
-| **Nguyên nhân**              | Sinh lý: Gan chưa hoàn thiện, tăng hồng cầu, chu trình ruột–gan      | Trẻ non tháng, bất đồng nhóm máu mẹ-con (ABO, Rh), tan huyết, nhiễm trùng, teo đường mật, mẹ đái tháo đường... |
-| **Tiên lượng**               | Tự hết, không di chứng                                               | Nguy cơ **vàng da nhân não**, di chứng thần kinh nếu không điều trị kịp                                        |
+| Đặc điểm phân biệt           | Vàng da sinh lý                                                    | Vàng da bệnh lý                                                                                                |
+| ---------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| **Thời điểm xuất hiện**      | Sau **24 giờ** sau sinh (thường ngày 2-3)                          | Trong **24 giờ đầu** sau sinh                                                                                  |
+| **Mức độ vàng da**           | Nhẹ đến vừa, bilirubin tăng chậm                                   | Nặng, bilirubin tăng nhanh                                                                                     |
+| **Tốc độ tăng bilirubin**    | <**5 mg/dL/ngày**                                                  | ≥**5 mg/dL/ngày**                                                                                              |
+| **Giá trị bilirubin tối đa** | <**12 mg/dL** (trẻ đủ tháng) <br> <**14–15 mg/dL** (trẻ non tháng) | >**12–15 mg/dL** (đủ tháng) <br> >**10 mg/dL** (non tháng)                                                     |
+| **Thời gian kéo dài**        | <**7 ngày** (trẻ đủ tháng) <br> <**10–14 ngày** (trẻ non tháng)    | >**7 ngày** (đủ tháng) <br> >**14 ngày** (non tháng)                                                           |
+| **Bilirubin trực tiếp**      | Bình thường (<2 mg/dL, <20% tổng bilirubin)                        | >2 mg/dL hoặc >20% tổng bilirubin                                                                              |
+| **Triệu chứng đi kèm**       | Trẻ bú tốt, tỉnh táo, tăng cân                                     | Trẻ bú kém, lừ đừ, sốt, thiếu máu, gan lách to, dấu hiệu thần kinh                                             |
+| **Nguyên nhân**              | Sinh lý: Gan chưa hoàn thiện, tăng hồng cầu, chu trình ruột–gan    | Trẻ non tháng, bất đồng nhóm máu mẹ-con (ABO, Rh), tan huyết, nhiễm trùng, teo đường mật, mẹ đái tháo đường... |
+| **Tiên lượng**               | Tự hết, không di chứng                                             | Nguy cơ **vàng da nhân não**, di chứng thần kinh nếu không điều trị kịp                                        |
 
 ## Chẩn đoán
 
 ### Lâm sàng
 
 **Thời điểm xuất hiện vàng da, mức độ và diễn tiến của vàng da**:
+
 - Vàng da xuất hiện sớm (trước 36 giờ tuổi) hay vàng da xuất hiện muộn (sau 36 giờ tuổi).
 - Nếu muộn, cần xác định là ngày thứ mấy.
 
@@ -69,11 +70,13 @@ Ngoài ra kèm các triệu chứng biểu hiện riêng biệt của những b�
 ## Vàng da nhân
 
 **Bệnh não bilirubin hay vàng da nhân**:
+
 - Bilirubin tự do **không kết hợp albumin là độc, sẽ tẩm nhuận dễ dàng vào các nhân xám của não**.
 - Xảy ra khi **bilirubin >20 mg/dL (>340 µmol/L), nhất là trong 15 ngày đầu sau sinh**. Ngưỡng bilirubin gây độc có thể thay đổi thấp hơn khi có mặt các yếu tố nguy cơ: Đẻ non, tăng thẩm thấu, co giật, tăng CO₂ máu, tăng huyết áp, viêm mạch, viêm màng não, bệnh não thiếu máu cục bộ, xuất huyết trong não thất.
-- Có thể làm cho trẻ bị hôn mê, co giật, dẫn đến tử vong hoặc để lại di chứng về tâm thần vận động vĩnh viễn. 
+- Có thể làm cho trẻ bị hôn mê, co giật, dẫn đến tử vong hoặc để lại di chứng về tâm thần vận động vĩnh viễn.
 
 Trải qua 4 giai đoạn, với di chứng nặng nề:
+
 - Giai đoạn 1: Phản xạ nguyên thủy giảm hoặc mất, bỏ bú, li bì, nôn, giảm trương lực cơ, khóc thét.
 - Giai đoạn 2: Kích thích thần kinh, cổ ngửa, co cứng người, đi dần đến hôn mê và tử vong trong cơn ngừng thở.
 - Giai đoạn 3: Co cứng giảm dần trong khoảng 1 tuần.
@@ -101,7 +104,7 @@ Khoảng cách từ nguồn sáng đến bệnh nhi không vượt quá 50cm. Kh
 
 Ngưng chiếu khi nồng độ bilirubin đã ở dưới ngưỡng chỉ định chiếu 25-50 µmol/L (1.5-3 mg/dL). Không ngưng chiếu đột ngột vì nguy cơ dội lại.
 
-Cần lưu tâm đến phát hiện một số biến chứng có thể có với quang liệu pháp như đỏ da, tiêu chảy phân xanh, mất nước khoảng 1-1.5 mL/kg/giờ, tăng thân nhiệt, hội chứng da đồng, hủy DNA, giảm Riboflavin. 
+Cần lưu tâm đến phát hiện một số biến chứng có thể có với quang liệu pháp như đỏ da, tiêu chảy phân xanh, mất nước khoảng 1-1.5 mL/kg/giờ, tăng thân nhiệt, hội chứng da đồng, hủy DNA, giảm Riboflavin.
 
 Liệu pháp ánh sáng bị chống chỉ định khi can thiệp có thể không có hiệu quả.
 
@@ -111,9 +114,9 @@ Hội chứng mật đặc.
 
 ### Thay máu
 
-Thay máu là điều trị hàng thứ nhì. 
+Thay máu là điều trị hàng thứ nhì.
 
-Mục đích để nhanh chóng đưa bớt Bilirubin tự do ra ngoài cơ thể và ngoài ra còn để loại bớt kháng thể kháng hồng cầu con trong trường hợp có bất đồng nhóm máu.  Thay máu được tiến hành trong các tình huống sau. 
+Mục đích để nhanh chóng đưa bớt Bilirubin tự do ra ngoài cơ thể và ngoài ra còn để loại bớt kháng thể kháng hồng cầu con trong trường hợp có bất đồng nhóm máu. Thay máu được tiến hành trong các tình huống sau.
 
 Bilirubin máu dây rốn > 4.5 mg/dL (> 75 µmol/L) và Hb < 11g %.
 
@@ -125,9 +128,9 @@ Tai biến của thay máu có thế thấy là ngưng tim do bơm nhanh, rối 
 
 Các phương thức hỗ trợ khác có vai trò nhất định trong điều trị vàng da
 
-Nuôi dưỡng sớm: cho bú sữa sớm sau sinh. 
+Nuôi dưỡng sớm: cho bú sữa sớm sau sinh.
 
-Tránh vàng da do nuôi con bằng sữa mẹ sai cách. Điều trị nguyên nhân: Tùy theo từng nguyên nhân gây vàng da để có những chỉ định điều trị triệu chứng và điều trị đặc hiệu bằng thuốc (như Intravenous immune globulin - IVIG, kháng sinh trong vàng da nhiễm khuẩn…) hay phẫu thuật (tắc mật bẩm sinh) một cách thích hợp. 
+Tránh vàng da do nuôi con bằng sữa mẹ sai cách. Điều trị nguyên nhân: Tùy theo từng nguyên nhân gây vàng da để có những chỉ định điều trị triệu chứng và điều trị đặc hiệu bằng thuốc (như Intravenous immune globulin - IVIG, kháng sinh trong vàng da nhiễm khuẩn…) hay phẫu thuật (tắc mật bẩm sinh) một cách thích hợp.
 
 ### Phương pháp hỗ trợ khác
 
