@@ -35,13 +35,13 @@ Chẩn đoán xác định khi quan sát thấy dịch lỏng chảy ra đột n
 
 ### Chẩn đoán phân biệt
 
-| Triệu chứng hiện hữu và dấu hiệu điển hình               | Triệu chứng/dấu hiệu không thường xuyên                                                   | Khả năng chẩn đoán           |
-| -------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------- |
-| Ra nước âm đạo                                           | Ra dịch đột ngột/rĩ rã, lặp đi lặp lại<br>Đặt mỏ vịt có dịch ÂĐ<br>Không cơn gò sau 1 giờ | Vỡ ối non                    |
-| Ra nước âm đạo (sau 22 tuần) <br>Sốt/ớn lạnh<br>Đau bụng | Bệnh sử ra nước ÂĐ<br>Tử cung căng<br>Nhịp tim thai nhanh<br>Ra máu âm đạo ít\*           | Nhiễm trùng ối               |
-| Tiết dịch ÂĐ hôi <br>Không có bệnh sử ra nước âm đạo     | Ngứa<br>Dịch ÂĐ có bọt/đặc <br>Đau bụng<br> Tiểu khó                                      | Viêm ÂĐ/CTC                  |
-| Xuất huyết ÂĐ                                            | Đau bụng <br> Mất cử động thai <br>Máu ÂĐ nhiều, kéo dài                                  | Xuất huyết âm đạo trước sinh |
-| Dịch âm đạo dạng nước/nhầy lẫn máu                       | Xóa mở cổ tử cung<br>Cơn gò tử cung                                                       | Chuyển dạ non/đủ tháng       |
+| Triệu chứng hiện hữu và dấu hiệu điển hình               | Triệu chứng/dấu hiệu không thường xuyên                                                       | Khả năng chẩn đoán           |
+| -------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------- |
+| Ra nước âm đạo                                           | Ra dịch đột ngột/rĩ rã, lặp đi lặp lại<br>Đặt mỏ vịt có dịch âm đạo<br>Không cơn gò sau 1 giờ | Vỡ ối non                    |
+| Ra nước âm đạo (sau 22 tuần) <br>Sốt/ớn lạnh<br>Đau bụng | Bệnh sử ra nước âm đạo<br>Tử cung căng<br>Nhịp tim thai nhanh<br>Ra máu âm đạo ít\*           | Nhiễm trùng ối               |
+| Tiết dịch âm đạo hôi <br>Không có bệnh sử ra nước âm đạo | Ngứa<br>Dịch âm đạo có bọt/đặc <br>Đau bụng<br> Tiểu khó                                      | Viêm âm đạo/CTC              |
+| Xuất huyết âm đạo                                        | Đau bụng <br> Mất cử động thai <br>Máu âm đạo nhiều, kéo dài                                  | Xuất huyết âm đạo trước sinh |
+| Dịch âm đạo dạng nước/nhầy lẫn máu                       | Xóa mở cổ tử cung<br>Cơn gò tử cung                                                           | Chuyển dạ non/đủ tháng       |
 
 _\* Chảy máu nhẹ: Mất > 5 phút để máu thấm ướt băng vệ sinh_.
 

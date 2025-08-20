@@ -112,6 +112,13 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
+        label: "Sơ sinh",
+        autogenerate: {
+          directory: "san-khoa/so-sinh",
+        },
+        collapsed: true,
+      },
+      {
         label: "Sử dụng thuốc",
         autogenerate: {
           directory: "san-khoa/thuoc",
