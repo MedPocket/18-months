@@ -3,14 +3,18 @@ title: Vô kinh
 description: Định nghĩa, bệnh sinh, nguyên nhân, đánh giá chẩn đoán và phương pháp điều trị vô kinh.
 ---
 
-**Vô kinh** là hiện tượng không hành kinh trong khoảng thời gian quy định:
+**Vô kinh** là tình trạng vắng mặt hoặc ngừng kinh nguyệt bất thường.
 
-- **Vô kinh nguyên phát**: Chưa từng có kinh đến 18 tuổi, hoặc chưa có dấu hiệu dậy thì muộn (không phát triển vú) đến 13 tuổi.
-- **Vô kinh thứ phát**: Từng có kinh nhưng sau đó mất kinh ≥ 3 tháng (nếu chu kỳ trước đó đều) hoặc ≥ 6 tháng (nếu chu kỳ không đều).
+**Vô kinh nguyên phát** chưa có kinh nguyệt ở những trường hợp sau:
+- Chưa có kinh nguyệt ở tuổi 15 trong khi đã phát triển giới tính thứ cấp bình thường.
+- Chưa có kinh nguyệt trong vòng 5 năm sau khi phát triển vú nếu tuyến vú phát triển trước 10 tuổi.
+- Không phát triển vú ở tuổi 13.
+
+**Vô kinh thứ phát**: Không có kinh nguyệt ≥ 3 tháng ở người có kinh nguyệt đều, hoặc ≥ 6 tháng ở người có kinh nguyệt không đều.
 
 ## Bệnh sinh
 
-Khi một phần của trục hạ đồi - yên - buồng trứng gặp trục trặc, sự rối loạn chức năng rụng trứng sẽ dẫn đến:
+Khi một phần của trục hạ đồi-yên-buồng trứng gặp trục trặc, sự rối loạn chức năng rụng trứng sẽ dẫn đến:
 
 - Chu kỳ sản sinh estrogen do gonadotropin kích thích bị gián đoạn.
 - Nội mạc tử cung không phát triển theo chu kỳ.
@@ -20,14 +24,17 @@ Khi một phần của trục hạ đồi - yên - buồng trứng gặp trục 
 
 ## Nguyên nhân
 
-Vô kinh có thể phân loại theo:
-
-- **Nguyên phát** hoặc **thứ phát**.
-- Rối loạn **rụng trứng**, **giải phẫu** hoặc **nội tiết**.
+Mặc dù có nhiều nguyên nhân khác nhau, nhưng hầu hết các trường hợp vô kinh là do 6 tình trạng chính:
+- Hội chứng buồng trứng đa nang (PCOS).
+- Tăng prolactin máu (hyperprolactinemia).
+- Rối loạn chức năng tuyến giáp (thyroid dysfunction).
+- Suy tuyến sinh dục do vùng dưới đồi/tuyến yên (hypogonadotropic hypogonadism).
+- Suy tuyến sinh dục do buồng trứng (hypergonadotropic hypogonadism).
+- Bất thường giải phẫu (anatomic abnormalities).
 
 ### Rối loạn chức năng rụng trứng
 
-**Thường gặp nhất ở vô kinh thứ phát**, có thể là nguyên phát nếu rụng trứng chưa từng khởi phát (dậy thì muộn, bất thường giới tính, hội chứng nhiễm sắc thể Y...). Nguyên nhân chính liên quan đến trục hạ đồi - yên - buồng trứng.
+**Thường gặp nhất ở vô kinh thứ phát**, có thể là nguyên phát nếu rụng trứng chưa từng khởi phát (dậy thì muộn, bất thường giới tính, hội chứng nhiễm sắc thể Y...). Nguyên nhân chính liên quan đến trục hạ đồi-yên-buồng trứng.
 
 | Nguyên nhân vô kinh do rối loạn chức năng rụng trứng | Ví dụ điển hình                                                                                                                                                                                                                                                       |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,8 +49,8 @@ Vô kinh có thể phân loại theo:
 
 | Nguyên nhân vô kinh do bất thường đường sinh dục | Ví dụ                                                                  |
 | ------------------------------------------------ | ---------------------------------------------------------------------- |
-| **Bẩm sinh**                                     | Màng trinh bất thường, vách ngăn âm đạo, bất sản âm đạo/tử cung        |
-| **Mắc phải**                                     | Hội chứng Asherman, hẹp cổ tử cung, polyp, u xơ tắc nghẽn, lao nội mạc |
+| **Bẩm sinh**                                     | Màng trinh bất thường, vách ngăn âm đạo, bất sản âm đạo/tử cung.        |
+| **Mắc phải**                                     | Hội chứng Asherman, hẹp cổ tử cung, polyp, u xơ tắc nghẽn, lao nội mạc. |
 
 ## Chẩn đoán
 
@@ -62,15 +69,15 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 
 #### Bệnh sử
 
-**Nguyên phát** cưa có kinh + ≥ 1 tiêu chí:
+**Nguyên phát** cưa có kinh + ≥  1 tiêu chí:
 
 - 13 tuổi không dấu hiệu dậy thì.
 - 3 năm sau xuất hiện nhú vú.
 - 15 tuổi chưa kinh dù phát triển giới tính bình thường.
 
-**Thứ phát** từng có kinh + ≥ 1 tiêu chí:
+**Thứ phát** từng có kinh + ≥  1 tiêu chí:
 
-- Mất ≥ 3 tháng (chu kỳ trước đều) hoặc ≥ 6 tháng (không đều).
+- Mất ≥  3 tháng (chu kỳ trước đều) hoặc ≥  6 tháng (không đều).
 - < 9 kỳ/năm hoặc chu kỳ > 38 ngày.
 - Thay đổi liên tục về tần suất, khối lượng, thời gian.
 
@@ -84,7 +91,7 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 
 - **Đánh giá dấu hiệu dậy thì**: Giai đoạn Tanner.
 - **Khám tuyến vú**: Tiết sữa.
-- **Khám vùng chậu**: âm hộ, âm đạo, cổ tử cung, tử cung, buồng trứng.
+- **Khám vùng chậu**: Ấm hộ, âm đạo, cổ tử cung, tử cung, buồng trứng.
 - **Dấu hiệu nội tiết**: Nam hóa, rậm lông, sắc tố da (acanthosis nigricans), triệu chứng suy giáp/cường giáp.
 - Sinh hiệu, BMI, dấu hiệu cảm ứng stress hay biếng ăn.
 
@@ -122,3 +129,4 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 
 - Dieutri - [_Bài giảng vô kinh không hành kinh_](https://www.dieutri.vn/bgsanphukhoa/bai-giang-vo-kinh-khong-hanh-kinh)
 - MSD Manua - [_Amenorrhea_](https://www.msdmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea)
+- ASRM 2024 - _Đánh giá vô kinh_

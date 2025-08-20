@@ -19,7 +19,7 @@ Nhiễm khuẩn sơ sinh (neonatal sepsis) là tình trạng nhiễm trùng toà
 ## Yếu tố nguy cơ
 
 - Mẹ bị nhiễm trùng trong thai kỳ hoặc khi sinh (viêm màng ối, sốt khi sinh).
-- Vỡ ối sớm kéo dài (>18 giờ).
+- Vỡ ối sớm kéo dài (> 18 giờ).
 - Chuyển dạ kéo dài.
 - Sử dụng thủ thuật xâm lấn khi sinh.
 - Trẻ non tháng, nhẹ cân.
@@ -32,9 +32,9 @@ Nhiễm khuẩn sơ sinh (neonatal sepsis) là tình trạng nhiễm trùng toà
 
 Triệu chứng thường không đặc hiệu, bao gồm:
 
-- Toàn thân: Bú kém, li bì, hạ thân nhiệt (<36°C) hoặc sốt (>38°C), vàng da kéo dài.
-- Hô hấp: Thở nhanh >60 lần/phút, rút lõm lồng ngực, ngừng thở, tím tái.
-- Tuần hoàn: Nhịp tim nhanh >180 lần/phút hoặc chậm <100 lần/phút, tụt huyết áp (MAP <40 mmHg ở sơ sinh đủ tháng; <30 mmHg ở non tháng), da nổi vân tím, đầu chi lạnh.
+- Toàn thân: Bú kém, li bì, hạ thân nhiệt (< 36°C) hoặc sốt (> 38°C), vàng da kéo dài.
+- Hô hấp: Thở nhanh > 60 lần/phút, rút lõm lồng ngực, ngừng thở, tím tái.
+- Tuần hoàn: Nhịp tim nhanh > 180 lần/phút hoặc chậm < 100 lần/phút, tụt huyết áp (MAP < 40 mmHg ở sơ sinh đủ tháng; < 30 mmHg ở non tháng), da nổi vân tím, đầu chi lạnh.
 - Tiêu hoá: Nôn, chướng bụng, tiêu chảy, xuất huyết tiêu hoá.
 - Thần kinh: Co giật, giảm trương lực, kích thích.
 
@@ -42,21 +42,21 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 
 **Công thức máu**:
 
-- Bạch cầu <5000/mm³ hoặc >25 000/mm³.
-- Tỷ lệ bạch cầu non/trưởng thành >0.2.
-- Tiểu cầu <100 000/mm³.
+- Bạch cầu < 5000/mm³ hoặc > 25 000/mm³.
+- Tỷ lệ bạch cầu non/trưởng thành > 0.2.
+- Tiểu cầu < 100 000/mm³.
 
-**CRP**: >10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12–24h).
+**CRP**: > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12–24h).
 
-**Procalcitonin (PCT)**: >2 ng/mL gợi ý nhiễm khuẩn nặng.
+**Procalcitonin (PCT)**: > 2 ng/mL gợi ý nhiễm khuẩn nặng.
 
 **Cấy máu**: Tiêu chuẩn vàng (nhưng cần 48–72 giờ).
 
 **Dịch não tuỷ** (khi nghi viêm màng não):
 
-- Bạch cầu >20/mm³ (đa số bạch cầu đa nhân).
-- Protein >150 mg/dL.
-- Glucose <50% đường huyết máu.
+- Bạch cầu > 20/mm³ (đa số bạch cầu đa nhân).
+- Protein > 150 mg/dL.
+- Glucose < 50% đường huyết máu.
 
 **X-quang phổi**: Hình ảnh thâm nhiễm rải rác hoặc đông đặc.
 
@@ -93,7 +93,7 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 - Thở oxy, CPAP, hoặc thở máy khi suy hô hấp.
 - Truyền dịch 60–80 mL/kg/ngày (điều chỉnh theo tình trạng).
 - Dopamine/Dobutamine khi sốc.
-- Truyền tiểu cầu khi <50 000/mm³ có xuất huyết.
+- Truyền tiểu cầu khi < 50 000/mm³ có xuất huyết.
 - Ưu tiên nuôi dưỡng bằng sữa mẹ.
 
 ### Ngoại khoa
