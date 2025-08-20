@@ -18,7 +18,7 @@ description: Mô tả.
 
 ## Chẩn đoán
 
-### Triệu chứng lâm sàng
+### Lâm sàng
 
 ### Cận lâm sàng
 

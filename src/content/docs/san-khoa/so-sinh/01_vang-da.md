@@ -124,7 +124,7 @@ Thay máu là **điều trị hàng thứ hai**.
 
 **Tai biến**: Ngưng tim do bơm nhanh, rối loạn nhịp tim, tắc mạch, sốc, rối loạn điện giải, xuất huyết giảm tiểu cầu, rối loạn đông máu, nhiễm trùng máu, viêm gan, sốt rét, cytomegalovirus, HIV, tắc ống thông.
 
-### Phương pháp hỗ trợ khác
+### Hỗ trợ khác
 
 **Nuôi dưỡng sớm**: Cho bú sữa sớm sau sinh.
 
