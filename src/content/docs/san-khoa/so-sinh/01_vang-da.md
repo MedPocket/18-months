@@ -5,17 +5,17 @@ description: Vàng da sơ sinh là tình trạng thường gặp ở trẻ mới
 
 Vàng da sơ sinh là tình trạng da và niêm mạc của trẻ sơ sinh có màu vàng do tăng bilirubin tự do trong máu. Đây là một triệu chứng thường gặp, xuất hiện ở khoảng 60% trẻ đủ tháng và 80% trẻ non tháng.
 
-| Đặc điểm phân biệt           | Vàng da sinh lý                                                    | Vàng da bệnh lý                                                                                                |
-| ---------------------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| **Thời điểm xuất hiện**      | Sau **24 giờ** sau sinh (thường ngày 2-3)                          | Trong **24 giờ đầu** sau sinh                                                                                  |
-| **Mức độ vàng da**           | Nhẹ đến vừa, bilirubin tăng chậm                                   | Nặng, bilirubin tăng nhanh                                                                                     |
-| **Tốc độ tăng bilirubin**    | < **5 mg/dL/ngày**                                                  | ≥**5 mg/dL/ngày**                                                                                              |
-| **Giá trị bilirubin tối đa** | < **12 mg/dL** (trẻ đủ tháng) <br>  < **14–15 mg/dL** (trẻ non tháng) | > **12–15 mg/dL** (đủ tháng) <br>  > **10 mg/dL** (non tháng)                                                     |
-| **Thời gian kéo dài**        | < **7 ngày** (trẻ đủ tháng) <br>  < **10–14 ngày** (trẻ non tháng)    | > **7 ngày** (đủ tháng) <br>  > **14 ngày** (non tháng)                                                           |
-| **Bilirubin trực tiếp**      | Bình thường (< 2 mg/dL, < 20% tổng bilirubin)                        | > 2 mg/dL hoặc > 20% tổng bilirubin                                                                              |
-| **Triệu chứng đi kèm**       | Trẻ bú tốt, tỉnh táo, tăng cân                                     | Trẻ bú kém, lừ đừ, sốt, thiếu máu, gan lách to, dấu hiệu thần kinh                                             |
-| **Nguyên nhân**              | Sinh lý: Gan chưa hoàn thiện, tăng hồng cầu, chu trình ruột–gan    | Trẻ non tháng, bất đồng nhóm máu mẹ-con (ABO, Rh), tan huyết, nhiễm trùng, teo đường mật, mẹ đái tháo đường... |
-| **Tiên lượng**               | Tự hết, không di chứng                                             | Nguy cơ **vàng da nhân não**, di chứng thần kinh nếu không điều trị kịp                                        |
+| Đặc điểm phân biệt           | Vàng da sinh lý                                                      | Vàng da bệnh lý                                                                                                |
+| ---------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Thời điểm xuất hiện**      | Sau **24 giờ** sau sinh (thường ngày 2-3)                            | Trong **24 giờ đầu** sau sinh                                                                                  |
+| **Mức độ vàng da**           | Nhẹ đến vừa, bilirubin tăng chậm                                     | Nặng, bilirubin tăng nhanh                                                                                     |
+| **Tốc độ tăng bilirubin**    | < **5 mg/dL/ngày**                                                   | ≥**5 mg/dL/ngày**                                                                                              |
+| **Giá trị bilirubin tối đa** | < **12 mg/dL** (trẻ đủ tháng) <br> < **14–15 mg/dL** (trẻ non tháng) | > **12–15 mg/dL** (đủ tháng) <br> > **10 mg/dL** (non tháng)                                                   |
+| **Thời gian kéo dài**        | < **7 ngày** (trẻ đủ tháng) <br> < **10–14 ngày** (trẻ non tháng)    | > **7 ngày** (đủ tháng) <br> > **14 ngày** (non tháng)                                                         |
+| **Bilirubin trực tiếp**      | Bình thường (< 2 mg/dL, < 20% tổng bilirubin)                        | > 2 mg/dL hoặc > 20% tổng bilirubin                                                                            |
+| **Triệu chứng đi kèm**       | Trẻ bú tốt, tỉnh táo, tăng cân                                       | Trẻ bú kém, lừ đừ, sốt, thiếu máu, gan lách to, dấu hiệu thần kinh                                             |
+| **Nguyên nhân**              | Sinh lý: Gan chưa hoàn thiện, tăng hồng cầu, chu trình ruột–gan      | Trẻ non tháng, bất đồng nhóm máu mẹ-con (ABO, Rh), tan huyết, nhiễm trùng, teo đường mật, mẹ đái tháo đường... |
+| **Tiên lượng**               | Tự hết, không di chứng                                               | Nguy cơ **vàng da nhân não**, di chứng thần kinh nếu không điều trị kịp                                        |
 
 ## Chẩn đoán
 
@@ -107,7 +107,7 @@ Trải qua **4 giai đoạn**:
 **Chống chỉ định**:
 
 - Khi can thiệp có thể không có hiệu quả.
-- Bilirubin trực tiếp >  20% Bilirubin toàn phần.
+- Bilirubin trực tiếp > 20% Bilirubin toàn phần.
 - Hội chứng mật đặc.
 
 ### Thay máu

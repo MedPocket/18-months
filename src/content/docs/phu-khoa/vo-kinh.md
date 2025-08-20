@@ -6,6 +6,7 @@ description: Định nghĩa, bệnh sinh, nguyên nhân, đánh giá chẩn đo�
 **Vô kinh** là tình trạng vắng mặt hoặc ngừng kinh nguyệt bất thường.
 
 **Vô kinh nguyên phát** chưa có kinh nguyệt ở những trường hợp sau:
+
 - Chưa có kinh nguyệt ở tuổi 15 trong khi đã phát triển giới tính thứ cấp bình thường.
 - Chưa có kinh nguyệt trong vòng 5 năm sau khi phát triển vú nếu tuyến vú phát triển trước 10 tuổi.
 - Không phát triển vú ở tuổi 13.
@@ -25,6 +26,7 @@ Khi một phần của trục hạ đồi-yên-buồng trứng gặp trục tr�
 ## Nguyên nhân
 
 Mặc dù có nhiều nguyên nhân khác nhau, nhưng hầu hết các trường hợp vô kinh là do 6 tình trạng chính:
+
 - Hội chứng buồng trứng đa nang (PCOS).
 - Tăng prolactin máu (hyperprolactinemia).
 - Rối loạn chức năng tuyến giáp (thyroid dysfunction).
@@ -47,8 +49,8 @@ Mặc dù có nhiều nguyên nhân khác nhau, nhưng hầu hết các trườn
 
 **Dòng chảy kinh nguyệt bị tắc nghẽn dù nội tiết bình thường**. Hậu quả bế kinh (âm đạo/phúc mạc phồng), tích huyết tử cung (tử cung to, có thể nhầm khối vùng chậu).
 
-| Nguyên nhân vô kinh do bất thường đường sinh dục | Ví dụ                                                                  |
-| ------------------------------------------------ | ---------------------------------------------------------------------- |
+| Nguyên nhân vô kinh do bất thường đường sinh dục | Ví dụ                                                                   |
+| ------------------------------------------------ | ----------------------------------------------------------------------- |
 | **Bẩm sinh**                                     | Màng trinh bất thường, vách ngăn âm đạo, bất sản âm đạo/tử cung.        |
 | **Mắc phải**                                     | Hội chứng Asherman, hẹp cổ tử cung, polyp, u xơ tắc nghẽn, lao nội mạc. |
 
@@ -69,15 +71,15 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 
 #### Bệnh sử
 
-**Nguyên phát** cưa có kinh + ≥  1 tiêu chí:
+**Nguyên phát** cưa có kinh + ≥ 1 tiêu chí:
 
 - 13 tuổi không dấu hiệu dậy thì.
 - 3 năm sau xuất hiện nhú vú.
 - 15 tuổi chưa kinh dù phát triển giới tính bình thường.
 
-**Thứ phát** từng có kinh + ≥  1 tiêu chí:
+**Thứ phát** từng có kinh + ≥ 1 tiêu chí:
 
-- Mất ≥  3 tháng (chu kỳ trước đều) hoặc ≥  6 tháng (không đều).
+- Mất ≥ 3 tháng (chu kỳ trước đều) hoặc ≥ 6 tháng (không đều).
 - < 9 kỳ/năm hoặc chu kỳ > 38 ngày.
 - Thay đổi liên tục về tần suất, khối lượng, thời gian.
 
