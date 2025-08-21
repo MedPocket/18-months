@@ -12,7 +12,7 @@ Thai lưu là tình trạng thai chết trong tử cung sau tuần thứ 20 củ
 - Bệnh lý mẹ: Tiền sản giật, tăng huyết áp mạn, đái tháo đường, lupus ban đỏ hệ thống, hội chứng kháng phospholipid.
 - Nhiễm trùng: TORCH, giang mai, viêm gan, sốt rét, listeria.
 - Tai biến sản khoa: Sa dây rốn, dây rốn thắt nút, chấn thương bụng.
-- Không rõ nguyên nhân (25–50%).
+- Không rõ nguyên nhân (25-50%).
 
 ## Yếu tố nguy cơ
 
@@ -34,9 +34,9 @@ Thai lưu là tình trạng thai chết trong tử cung sau tuần thứ 20 củ
 
 Thai chết trong tử cung trải qua các giai đoạn biến đổi đặc trưng:
 
-- **Giai đoạn sớm (vài giờ – vài ngày)**: Thai mềm, mô bắt đầu thoái hóa.
-- **Giai đoạn ngấm nước (thai 3–4 ngày)**: Da bong tróc, xuất huyết dưới da, dịch hồng thấm qua da.
-- **Giai đoạn da tím xanh (thai 1–2 tuần)**: Da nhăn, đổi màu tím xanh, dịch ối có màu nâu sẫm.
+- **Giai đoạn sớm (vài giờ - vài ngày)**: Thai mềm, mô bắt đầu thoái hóa.
+- **Giai đoạn ngấm nước (thai 3-4 ngày)**: Da bong tróc, xuất huyết dưới da, dịch hồng thấm qua da.
+- **Giai đoạn da tím xanh (thai 1-2 tuần)**: Da nhăn, đổi màu tím xanh, dịch ối có màu nâu sẫm.
 - **Giai đoạn teo khô (thai chết lâu, vài tuần)**: Thai teo nhỏ, da khô nhăn như xác ướp (thai khô).
 
 ### Cận lâm sàng
@@ -46,7 +46,7 @@ Thai chết trong tử cung trải qua các giai đoạn biến đổi đặc tr
 
 ## Biến chứng
 
-- Rối loạn đông máu (DIC) do thai chết lưu kéo dài > 2–3 tuần.
+- Rối loạn đông máu (DIC) do thai chết lưu kéo dài > 2-3 tuần.
 - Nhiễm trùng tử cung.
 - Băng huyết sau sổ thai.
 - Vô sinh thứ phát hoặc sảy thai tái diễn.
@@ -63,7 +63,7 @@ Thai chết trong tử cung trải qua các giai đoạn biến đổi đặc tr
 
 ### Nội khoa
 
-**Thai < 20–24 tuần**:
+**Thai < 20-24 tuần**:
 
 - Misoprostol đường âm đạo/ngoài tử cung để gây co tử cung.
 - Có thể phối hợp mifepristone nếu có điều kiện.
