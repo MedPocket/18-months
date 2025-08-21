@@ -180,7 +180,7 @@ Estrogen cần được cho đủ liều để nội mạc phát triển nhanh n
 - **Cắt class u xơ dưới niêm mạc**: Bóc tách khối u xơ chèn ép nội mạc, giảm chứng rong huyết.
 - **Dính buồng tử cung**: Nong tách và cắt dính, khôi phục buồng tử cung.
 
-**Đốt/vắc bỏ nội mạc tử cung (Endometrial ablation / resection)**:
+**Đốt/vắc bỏ nội mạc tử cung (Endometrial ablation/resection)**:
 
 - Dùng các phương pháp: Sóng vi sóng, laser, năng lượng radio, thòng lọng điện (resectoscope) để tiêu hủy lớp nội mạc tận gốc.
 - Chỉ định cho phụ nữ đã đủ con và muốn điều trị triệt để AUB cơ năng hoặc tăng sinh nội mạc nhẹ.

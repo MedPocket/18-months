@@ -116,9 +116,9 @@ Bình thường, phụ nữ sinh sản sản xuất khoảng 1.5 g dịch mỗi 
 - **Bacterial Vaginosis (BV)**: Dịch xám, loãng, mùi tanh ("fishy"), pH âm đạo > 4.5, tế bào clue dương tính.
 - **Viêm âm đạo do _Trichomonas vaginalis_**: Dịch vàng xanh, bọt, mùi hôi, pH âm đạo > 5, ngứa, tiểu rát.
 - **Viêm cổ tử cung mủ (Cervicitis)**: Dịch mủ vàng chảy tự do từ cổ tử cung, thường do _Chlamydia/Gonorrhea_.
-- **_Chlamydia trachomatis_ / _Neisseria gonorrhoeae_**: Dịch mủ, đôi khi không triệu chứng, đau vùng chậu, đôi khi viêm cổ tử cung mạn tính.
+- **_Chlamydia trachomatis_/_Neisseria gonorrhoeae_**: Dịch mủ, đôi khi không triệu chứng, đau vùng chậu, đôi khi viêm cổ tử cung mạn tính.
 - **Viêm vùng chậu (PID)**: Dịch mủ, sốt, đau vùng chậu, đau khi di động cổ tử cung.
-- **Dị dạng cổ tử cung / polyp cổ tử cung / ung thư cổ tử cung**: Dịch lẫn máu, chảy máu sau giao hợp, dịch hôi lẫn mùi máu.
+- **Dị dạng cổ tử cung/polyp cổ tử cung/ung thư cổ tử cung**: Dịch lẫn máu, chảy máu sau giao hợp, dịch hôi lẫn mùi máu.
 
 ## Điều trị
 

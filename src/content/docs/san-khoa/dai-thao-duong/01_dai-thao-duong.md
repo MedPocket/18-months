@@ -34,7 +34,7 @@ _Hình ảnh "Thay đổi nhu cầu insulin theo các giai đoạn thai kỳ"_.
 
 ## Yếu tố nguy cơ
 
-| Yếu tố nguy cơ          | Tiêu chí / Ngưỡng                                                                                                  |
+| Yếu tố nguy cơ          | Tiêu chí/Ngưỡng                                                                                                  |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **BMI trước mang thai** | ≥ 23 kg/m² (người châu Á)                                                                                          |
 | **Tiền sử gia đình**    | Cha/mẹ/anh/chị/em ruột có ĐTĐ                                                                                      |

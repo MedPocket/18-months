@@ -10,7 +10,7 @@ title: Tiêu đều
 description: Mô tả.
 ---
 
-## Định nghĩa
+## Tổng quan
 
 ## Nguyên nhân
 

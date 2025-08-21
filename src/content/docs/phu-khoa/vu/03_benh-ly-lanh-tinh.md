@@ -310,7 +310,7 @@ Khoảng 50-60% phụ nữ có thay đổi mô học, khoảng 30-50% có triệ
 - Tăng sinh acini và mô đệm xơ hóa, đôi khi làm tổn thương giống u đặc (mass) trên hình ảnh.
 - Đôi khi kèm vi xâm (microinvasion) không rõ, cần sinh thiết để loại trừ carcinoma in situ.
 
-**Complex sclerosing lesion / Radial scar (sẹo hình sao)**:
+**Complex sclerosing lesion/Radial scar (sẹo hình sao)**:
 
 - Kết cấu gồm mô xơ hình sao, xoay quanh một vùng trung tâm có nang hoặc acini giãn.
 - Trên nhũ ảnh có thể tạo bóng xơ (spiculated mass) giả u ác tính, cần sinh thiết để phân biệt.
