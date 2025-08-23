@@ -1,9 +1,9 @@
 ---
-title: Các biện pháp tránh thai
-description: Đặc điểm và hướng dẫn sử dụng các phương pháp tránh thai phổ biến.
+title: Tránh thai khẩn cấp
+description: Đặc điểm và hướng dẫn sử dụng tránh thai khẩn cấp.
 ---
 
-Dưới đây tổng hợp đặc điểm chính của các phương pháp tránh thai hiệu quả (Pearl Index), an toàn, chi phí, cơ chế tác dụng, chỉ định - chống chỉ định, ưu - nhược điểm và hướng dẫn sử dụng.
+Các phương pháp phổ biến gồm .
 
 ## Dụng cụ tử cung
 
