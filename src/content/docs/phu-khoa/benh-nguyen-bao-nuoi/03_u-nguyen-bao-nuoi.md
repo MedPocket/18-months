@@ -103,7 +103,7 @@ _Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi t
 
 Áp dụng **đa hóa chất** (EMA-CO, MAC).
 
-**EMA-CO** (Etoposide, MTX, Act-D / Cyclophosphamide, Vincristine) theo phác đồ 2 tuần:
+**EMA-CO** (Etoposide, MTX, Act-D/Cyclophosphamide, Vincristine) theo phác đồ 2 tuần:
 
 - **Ngày 1**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5mg tĩnh mạch. MTX 100 mg/m² da tĩnh mạch. MTX 200 mg/m² da tĩnh mạch trong 12 giờ.
 - **Ngày 2**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5mg tĩnh mạch. Folinic acid 15mg tiêm bắp 2 lần/ngày × 2 ngày sau MTX 24 giờ.

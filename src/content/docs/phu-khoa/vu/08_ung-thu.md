@@ -177,7 +177,7 @@ _Hình ảnh "Lộ trình của các ngón tay khi tự khám vú"_.
 
 **Kỹ thuật**: Kim nhỏ (20-22G) xuyên qua da vào khối để hút tế bào.
 
-**Ưu nhược điểm**:
+**Ưu - Nhược điểm**:
 
 - Độ chính xác cao (độ nhạy 85-90%, âm tính giả 10-15%, dương tính giả < 1%).
 - Không lấy được cấu trúc mô nên không thể đánh giá đầy đủ loại u hoặc đánh giá các chỉ điểm hóa học.
@@ -279,7 +279,7 @@ Theo ACS (2015), với các nhóm nguy cơ đặc biệt tăng cao như LCIS, AD
 
 **Chỉ báo hóa mô miễn dịch (Biomarkers)**:
 
-- **ER (Estrogen Receptor) / PR (Progesterone Receptor)**: Dương tính hay âm tính với thụ thể steroid, quyết định hướng điều trị nội tiết.
+- **ER (Estrogen Receptor)/PR (Progesterone Receptor)**: Dương tính hay âm tính với thụ thể steroid, quyết định hướng điều trị nội tiết.
 - **HER2/neu (Human Epidermal Growth Factor Receptor 2)**: Ung thư HER2 dương tính có xu hướng phát triển nhanh, đáp ứng điều trị kháng HER2 (trastuzumab).
 - **Ki-67**: Chỉ số phân bào, cho biết mức độ tăng sinh tế bào.
 - **Triple-negative (ER-, PR-, HER2-)**: Thể ung thư ác tính, khó điều trị bằng liệu pháp hormone hoặc kháng HER2.
