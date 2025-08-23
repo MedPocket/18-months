@@ -5,7 +5,7 @@ description: Đặc điểm, thành phần, hướng dẫn sử dụng các phư
 
 Các phương pháp phổ biến gồm: thuốc tránh thai hằng ngày (kết hợp hoặc chỉ progestin), que cấy, thuốc tiêm, miếng dán, vòng âm đạo.
 
-## Thuốc tránh thai hằng ngày dạng kết hợp
+## Thuốc tránh thai hằng ngày kết hợp (COCs)
 
 ### Đặc điểm
 
@@ -61,7 +61,7 @@ Các phương pháp phổ biến gồm: thuốc tránh thai hằng ngày (kết 
 
 **Sau sinh**:
 
-- Nếu cho con bú < 6 tuần: Hạn chế, chỉ dùng khi không có biện pháp khác.
+- Nếu cho con bú < 6 tuần: Hạn chế, chỉ dùng khi không có biện pháp khác. Nguyên nhân Estrogen trong COCs có thể làm **giảm tiết sữa và giảm chất lượng sữa (ít chất béo, ít protein)**, nguy cơ **huyết khối tĩnh mạch cao hơn bình thường**.
 - Từ 6 tuần - 6 tháng và vô kinh: Có thể dùng bất cứ lúc nào.
 - Sau sinh không cho bú: Có thể dùng từ ngày 21.
 
@@ -120,7 +120,7 @@ Uống vào cùng một thời điểm mỗi ngày. Nếu quên > 12 giờ uốn
 
 Bất cứ lúc nào, nếu chắc chắn không có thai.
 
-Sau sinh có thể bắt đầu ngay sau sinh, kể cả khi cho con bú.
+**Có thể bắt đầu ngay sau sinh, kể cả khi cho con bú**.
 
 Cần uống **cùng giờ tuyệt đối** mỗi ngày (chênh lệch > 3 giờ làm giảm hiệu quả).
 
@@ -172,7 +172,7 @@ Trong vòng 5 ngày đầu chu kỳ kinh.
 
 Bất cứ lúc nào nếu chắc chắn không có thai (cần hỗ trợ thêm 7 ngày).
 
-Sau sinh đặt được ngay nếu không cho con bú; Nếu cho con bú, đặt sau 4 tuần.
+**Sau sinh đặt được ngay nếu không cho con bú; Nếu cho con bú, đặt sau 4 tuần**.
 
 :::caution
 Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. Kiêng vận động mạnh tay cấy trong 48 giờ.

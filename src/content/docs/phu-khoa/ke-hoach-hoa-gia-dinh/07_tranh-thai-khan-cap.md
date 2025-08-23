@@ -62,10 +62,10 @@ Các phương pháp phổ biến gồm thuốc tránh thai khẩn cấp (levonor
 Uống thuốc càng sớm càng tốt sau quan hệ (hiệu quả cao nhất trong 24 giờ đầu):
 
 - Levonorgestrel: Uống liều duy nhất 1.5 mg hoặc 0.75 mg × 2 lần (cách nhau 12 giờ).
-- Ulipristal acetate: uống 1 viên 30 mg, hiệu quả đến 120 giờ sau quan hệ.
+- Ulipristal acetate: Uống 1 viên 30 mg, hiệu quả đến 120 giờ sau quan hệ.
 - Nếu nôn trong vòng 2 giờ sau uống → cần uống lại liều mới.
 
-Theo dõi kỳ kinh tiếp theo: nếu trễ > 7 ngày → cần thử thai.
+Theo dõi kỳ kinh tiếp theo: Nếu trễ > 7 ngày → cần thử thai.
 
 :::caution
 Không nên dùng thuốc tránh thai khẩn cấp quá 2 lần/tháng vì dễ gây rối loạn kinh nguyệt.
