@@ -25,7 +25,7 @@ Mỗi phương pháp được đặc trưng bằng:
 
 ### Tính hiệu quả
 
-Tính bằng **chỉ số Pearl** (số thai kỳ/100 năm-phụ nữ sử dụng)
+Tính bằng **chỉ số Pearl** (số thai kỳ/100 năm-phụ nữ sử dụng).
 
 | Phương pháp                | Chỉ số Pearl (dùng đúng cách)   | Ghi chú                              |
 | -------------------------- | ------------------------------- | ------------------------------------ |

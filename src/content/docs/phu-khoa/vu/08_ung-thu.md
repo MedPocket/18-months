@@ -177,7 +177,7 @@ _Hình ảnh "Lộ trình của các ngón tay khi tự khám vú"_.
 
 **Kỹ thuật**: Kim nhỏ (20-22G) xuyên qua da vào khối để hút tế bào.
 
-**Ưu nhược điểm**:
+**Ưu - Nhược điểm**:
 
 - Độ chính xác cao (độ nhạy 85-90%, âm tính giả 10-15%, dương tính giả < 1%).
 - Không lấy được cấu trúc mô nên không thể đánh giá đầy đủ loại u hoặc đánh giá các chỉ điểm hóa học.

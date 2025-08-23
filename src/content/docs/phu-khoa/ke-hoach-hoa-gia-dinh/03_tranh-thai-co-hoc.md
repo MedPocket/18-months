@@ -23,7 +23,7 @@ Các phương pháp phổ biến gồm: bao cao su, màng chắn âm đạo, mũ
 
 **Chống chỉ định**: Dị ứng latex (có thể dùng loại polyurethane hoặc polyisoprene thay thế).
 
-### Ưu nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm**:
 
@@ -70,7 +70,7 @@ Các phương pháp phổ biến gồm: bao cao su, màng chắn âm đạo, mũ
 - Có tiền sử nhiễm trùng tiểu tái phát hoặc viêm âm đạo nặng.
 - Không phù hợp nếu khó đặt đúng vị trí.
 
-### Ưu nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm**:
 
@@ -111,7 +111,7 @@ Các phương pháp phổ biến gồm: bao cao su, màng chắn âm đạo, mũ
 - Người dị ứng hoặc kích ứng với nonoxynol-9 (thành phần chính).
 - Người có tiền sử nhiễm trùng tiểu tái phát.
 
-### Ưu nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm**:
 

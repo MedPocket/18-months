@@ -40,7 +40,7 @@ Các phương pháp phổ biến gồm: thuốc tránh thai hằng ngày (kết 
 - U gan, ung thư vú.
 - Hút thuốc > 35 tuổi, ≥ 15 điếu/ngày.
 
-### Ưu nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm**:
 
@@ -53,7 +53,7 @@ Các phương pháp phổ biến gồm: thuốc tránh thai hằng ngày (kết 
 - Tác dụng phụ: Buồn nôn, căng ngực, tăng cân nhẹ.
 - Nguy cơ huyết khối.
 
-### Thời điểm sử dụng
+### Áp dụng
 
 **7 ngày đầu chu kỳ kinh hoặc đang sử dùng tránh thai nội tiết trước đó**: Uống ngay, có hiệu quả tức thì.
 
@@ -104,7 +104,7 @@ Uống vào cùng một thời điểm mỗi ngày. Nếu quên > 12 giờ uốn
 - Ung thư vú hiện tại hoặc tiền sử.
 - Xuất huyết âm đạo chưa rõ nguyên nhân.
 
-### Ưu nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm**:
 
@@ -116,7 +116,7 @@ Uống vào cùng một thời điểm mỗi ngày. Nếu quên > 12 giờ uốn
 - Kém hiệu quả hơn COC nếu uống trễ > 3 giờ.
 - Có thể gây rối loạn kinh nguyệt.
 
-### Thời điểm sử dụng
+### Áp dụng
 
 Bất cứ lúc nào, nếu chắc chắn không có thai.
 
@@ -153,7 +153,7 @@ Cần uống **cùng giờ tuyệt đối** mỗi ngày (chênh lệch > 3 giờ
 - Ung thư vú.
 - Xuất huyết âm đạo bất thường chưa rõ nguyên nhân.
 
-### Ưu nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm**:
 
@@ -166,7 +166,7 @@ Cần uống **cùng giờ tuyệt đối** mỗi ngày (chênh lệch > 3 giờ
 - Có thể gây rong kinh, vô kinh.
 - Cần thủ thuật đặt và tháo.
 
-### Thời điểm sử dụng
+### Áp dụng
 
 Trong vòng 5 ngày đầu chu kỳ kinh.
 
@@ -208,7 +208,7 @@ Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. K
 - Xuất huyết âm đạo chưa rõ nguyên nhân.
 - Bệnh gan nặng.
 
-### Ưu nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm**:
 
@@ -221,7 +221,7 @@ Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. K
 - Giảm mật độ xương khi dùng lâu dài.
 - Chậm hồi phục khả năng sinh sản (6-12 tháng).
 
-### Thời điểm sử dụng
+### Áp dụng
 
 - Tiêm trong vòng 5 ngày đầu chu kỳ kinh.
 - Bất cứ lúc nào nếu chắc chắn không có thai (cần tránh giao hợp/biện pháp hỗ trợ 7 ngày).
@@ -254,7 +254,7 @@ Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. K
 
 **Chống chỉ định**: Như COC (huyết khối, ung thư vú, gan, hút thuốc >35 tuổi).
 
-### Ưu nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm**:
 
@@ -266,7 +266,7 @@ Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. K
 - Có thể bong, gây kích ứng da.
 - Ít hiệu quả hơn ở phụ nữ > 90 kg.
 
-### Thời điểm sử dụng
+### Áp dụng
 
 Dán trong vòng 5 ngày đầu chu kỳ.
 
@@ -292,7 +292,7 @@ Thay mỗi tuần, liên tục 3 tuần, nghỉ 1 tuần.
 
 **Chống chỉ định**: Như COC (huyết khối, ung thư vú, gan, hút thuốc >35 tuổi).
 
-### Ưu nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm**:
 
@@ -304,7 +304,7 @@ Thay mỗi tuần, liên tục 3 tuần, nghỉ 1 tuần.
 - Có thể gây khó chịu khi đặt.
 - Nguy cơ nhiễm trùng âm đạo.
 
-### Thời điểm sử dụng
+### Áp dụng
 
 Đặt trong vòng 5 ngày đầu chu kỳ.
 

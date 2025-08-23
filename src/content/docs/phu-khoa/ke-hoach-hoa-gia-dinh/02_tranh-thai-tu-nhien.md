@@ -29,7 +29,7 @@ Các phương pháp phổ biến gồm xuất tinh ngoài, tính ngày an toàn,
 - Nam giới khó kiểm soát xuất tinh.
 - Người chưa có nhiều kinh nghiệm quan hệ tình dục.
 
-### Ưu nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm**:
 
@@ -72,7 +72,7 @@ Các phương pháp phổ biến gồm xuất tinh ngoài, tính ngày an toàn,
 - Phụ nữ có chu kỳ kinh không đều.
 - Người khó tuân thủ hoặc không có điều kiện theo dõi sát chu kỳ.
 
-### Ưu nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm**:
 
@@ -84,12 +84,19 @@ Các phương pháp phổ biến gồm xuất tinh ngoài, tính ngày an toàn,
 - Hiệu quả thấp, dễ sai sót.
 - Không bảo vệ khỏi các bệnh lây qua đường tình dục.
 
-:::caution
+### Áp dụng
 
-- Chu kỳ cần theo dõi ít nhất 6 tháng để tính chính xác.
-- Bệnh, stress, thay đổi nội tiết có thể làm sai lệch ngày rụng trứng.
+Theo dõi chu kỳ kinh nguyệt **ít nhất 6 tháng liên tiếp** để xác định độ dài chu kỳ ngắn nhất và dài nhất. Bệnh, stress, thay đổi nội tiết có thể làm sai lệch ngày rụng trứng.
 
-:::
+Tính ngày có khả năng rụng trứng và tránh quan hệ vào những ngày này:
+
+- Ngày đầu dễ thụ thai = ngày ngắn nhất của chu kỳ - 18.
+- Ngày cuối dễ thụ thai = ngày dài nhất của chu kỳ - 11.
+- Các ngày giữa khoảng này là giai đoạn **không an toàn**.
+
+Quan hệ ngoài giai đoạn nguy cơ (các ngày an toàn đầu và cuối chu kỳ).
+
+Có thể kết hợp theo dõi nhiệt độ cơ thể hoặc dịch nhầy cổ tử cung để tăng chính xác.
 
 ## Cho con bú vô kinh (LAM)
 
@@ -120,7 +127,7 @@ Các phương pháp phổ biến gồm xuất tinh ngoài, tính ngày an toàn,
 - Giảm số lần bú, đặc biệt bỏ bú đêm.
 - Sau 6 tháng sau sinh.
 
-### Ưu nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm**:
 
@@ -132,12 +139,22 @@ Các phương pháp phổ biến gồm xuất tinh ngoài, tính ngày an toàn,
 - Hiệu quả giới hạn trong 6 tháng đầu.
 - Giảm hiệu quả khi trẻ bắt đầu ăn dặm hoặc bú ít.
 
-:::caution
+### Áp dụng
 
-- Mẹ cần cho bé bú ít nhất 6–8 lần/ngày, bao gồm cả bú đêm.
-- Không nên bổ sung nước, thức ăn hoặc sữa ngoài trong 6 tháng đầu.
+Cho trẻ bú mẹ **hoàn toàn trong 6 tháng đầu**:
 
-:::
+- Bú bất cứ khi nào bé muốn, cả ngày lẫn đêm.
+- Ít nhất 6–8 lần/ngày, không bỏ bú đêm.
+
+Không cho trẻ ăn thêm sữa ngoài, nước, hay thức ăn bổ sung trong 6 tháng đầu.
+
+Phương pháp chỉ hiệu quả khi hội đủ **3 điều kiện**:
+
+- Sau sinh < 6 tháng.
+- Cho bú hoàn toàn.
+- Chưa có kinh trở lại.
+
+Sau 6 tháng hoặc khi kinh nguyệt xuất hiện, **cần chuyển sang biện pháp tránh thai khác**.
 
 ## Tài liệu tham khảo
 
