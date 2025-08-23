@@ -1,5 +1,5 @@
 ---
-title: Tránh thai bằng dụng cụ tử cung
+title: Dụng cụ tử cung
 description: Đặc điểm và hướng dẫn sử dụng tránh thai bằng dụng cụ tử cung.
 ---
 

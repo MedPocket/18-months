@@ -17,12 +17,14 @@ Các phương pháp phổ biến gồm xuất tinh ngoài, tính ngày an toàn,
 
 **Cơ chế tác dụng**: Rút dương vật ra khỏi âm đạo trước khi xuất tinh để tinh trùng không vào trong.
 
-### Chỉ định
+### Chỉ định - Chống chỉ định
+
+**Chỉ định**:
 
 - Cặp đôi có khả năng kiểm soát tốt phản xạ xuất tinh.
 - Những người ngại hoặc không muốn dùng biện pháp khác.
 
-### Chống chỉ định
+**Chống chỉ định**:
 
 - Nam giới khó kiểm soát xuất tinh.
 - Người chưa có nhiều kinh nghiệm quan hệ tình dục.
@@ -58,12 +60,14 @@ Các phương pháp phổ biến gồm xuất tinh ngoài, tính ngày an toàn,
 
 **Cơ chế tác dụng**: Tính toán ngày rụng trứng dựa trên chu kỳ kinh, tránh quan hệ vào những ngày dễ thụ thai.
 
-### Chỉ định
+### Chỉ định - Chống chỉ định
+
+**Chỉ định**:
 
 - Phụ nữ có chu kỳ kinh nguyệt đều.
 - Cặp đôi muốn phương pháp tự nhiên, không can thiệp.
 
-### Chống chỉ định
+**Chống chỉ định**:
 
 - Phụ nữ có chu kỳ kinh không đều.
 - Người khó tuân thủ hoặc không có điều kiện theo dõi sát chu kỳ.
@@ -102,13 +106,15 @@ Các phương pháp phổ biến gồm xuất tinh ngoài, tính ngày an toàn,
 
 **Cơ chế tác dụng**: Cho bú hoàn toàn và thường xuyên giúp tăng prolactin, ức chế rụng trứng.
 
-### Chỉ định
+### Chỉ định - Chống chỉ định
+
+**Chỉ định**:
 
 - Phụ nữ sau sinh < 6 tháng.
 - Cho con bú hoàn toàn (không bổ sung sữa ngoài, không bỏ bú đêm).
 - Chưa có kinh trở lại.
 
-### Chống chỉ định
+**Chống chỉ định**:
 
 - Trẻ không bú mẹ hoàn toàn.
 - Giảm số lần bú, đặc biệt bỏ bú đêm.
