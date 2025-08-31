@@ -10,7 +10,7 @@ title: Tiêu đều
 description: Mô tả.
 ---
 
-## Định nghĩa
+## Tổng quan
 
 ## Nguyên nhân
 
@@ -18,7 +18,7 @@ description: Mô tả.
 
 ## Chẩn đoán
 
-### Triệu chứng lâm sàng
+### Lâm sàng
 
 ### Cận lâm sàng
 

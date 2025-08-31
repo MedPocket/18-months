@@ -39,7 +39,7 @@ Có 3 trong 5 tiêu chuẩn.
 | **Béo phì ở bụng (đo vòng eo)** | > 80cm |
 | **Triglycerides** | ≥ 150 mg/dL |
 | **HDL-C** | < 50 mg/dL |
-| **Huyết áp** | ≥ 130 / ≥ 85mmHg |
+| **Huyết áp** | ≥ 130/≥ 85mmHg |
 | **Đường huyết lúc đói và 2h sau làm test dung nạp đường** | 110-126 mg/dL và/hay glucose sau 2h 140-199 mg/dL |
 :::
 
@@ -49,7 +49,7 @@ Có 3 trong 5 tiêu chuẩn.
 
 Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 
-- Rối loạn kinh nguyệt / vô kinh.
+- Rối loạn kinh nguyệt/vô kinh.
 - Cường androgen (rậm lông, béo phì, mụn trứng cá, hói đầu).
 - Hội chứng chuyển hóa (tiểu đường, tăng lipid máu).
 

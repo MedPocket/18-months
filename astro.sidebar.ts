@@ -28,9 +28,9 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Thai nghén thất bại sớm",
+        label: "Thai lưu",
         autogenerate: {
-          directory: "san-khoa/thai-that-bai-som",
+          directory: "san-khoa/thai-luu",
         },
         collapsed: true,
       },
@@ -108,6 +108,13 @@ export const sidebar = starlightSidebarTopics([
         label: "Hậu sản",
         autogenerate: {
           directory: "san-khoa/hau-san",
+        },
+        collapsed: true,
+      },
+      {
+        label: "Sơ sinh",
+        autogenerate: {
+          directory: "san-khoa/so-sinh",
         },
         collapsed: true,
       },
@@ -209,6 +216,7 @@ export const sidebar = starlightSidebarTopics([
     icon: "random",
     items: [
       "ho-tro-sinh-san/buong-trung-da-nang",
+      "ho-tro-sinh-san/tac-voi-trung",
       "ho-tro-sinh-san/kich-trung",
     ],
   },

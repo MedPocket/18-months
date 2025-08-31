@@ -40,7 +40,7 @@ description: HIV (Human Immunodeficiency Virus) là virus gây suy giảm miễn
 - **Tenofovir disoproxil fumarate (TDF) 300 mg × 1 lần/ngày**: Cơ chế ức chế men sao chép ngược, ngăn chặn sao chép RNA HIV thành DNA. Tác dụng phụ có thể gây suy giảm chức năng thận, giảm khối lượng xương. Theo dõi Creatinine huyết thanh, độ lọc cầu thận, đặc biệt mỗi 3 tháng.
 - **Lamivudine (3TC) 150 mg × 2 lần/ngày** hoặc **300 mg × 1 lần/ngày**: Cơ chế tương tự TDF, kết hợp đồng thời tăng hiệu quả ức chế virus. Tác dụng phụ buồn nôn, tiêu chảy, đau đầu nhẹ. Theo dõi sinh hóa máu định kỳ, thường không cần theo dõi đặc biệt.
 
-**Nhóm ức chế men sao chép ngược không nucleoside (NNRTIs) / ức chế integrase (INSTIs)**
+**Nhóm ức chế men sao chép ngược không nucleoside (NNRTIs)/ức chế integrase (INSTIs)**
 
 - **Efavirenz (EFV) 600 mg × 1 lần/ngày**: Cơ chế gắn không cạnh tranh vào men sao chép ngược, ức chế hoạt động Lưu ý: Không dùng trong quý I do nguy cơ quái thai thần kinh Tác dụng phụ mất ngủ, chóng mặt, thay đổi tâm thần. Theo dõi các triệu chứng thần kinh - tâm thần.
 - **Dolutegravir (DTG) 50 mg × 1 lần/ngày**: Cơ chế ức chế integrase, ngăn chặn việc chèn DNA virus vào DNA chủ. Ưu điểm giảm tải lượng rất nhanh, ít tương tác thuốc. Cẩn trọng trong quý I do nguy cơ hiếm gặp dị tật thần kinh. Theo dõi phản ứng dị ứng, chức năng gan.

@@ -169,7 +169,7 @@ Soi cổ tử cung và sinh thiết tổn thương.
 _Hình ảnh "Quản lý ASC-H - Bệnh viện Từ Dũ"_.
 ![Quản lý ASC-H - Bệnh viện Từ Dũ](./_images/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-asc-h.jpeg)
 
-### AGC / AGUS
+### AGC/AGUS
 
 #### Đặc điểm
 
@@ -179,7 +179,7 @@ _Hình ảnh "Quản lý ASC-H - Bệnh viện Từ Dũ"_.
 
 Soi cổ tử cung, nạo kênh, và sinh thiết tổn thương tuyến nếu có. Tùy theo kết quả, có thể khoét chóp bằng dao lạnh.
 
-_Hình ảnh "Quản lý AGC / AGUS - Bệnh viện Từ Dũ"_.
+_Hình ảnh "Quản lý AGC/AGUS - Bệnh viện Từ Dũ"_.
 ![Quản lý AGC hoặc AGUS - Bệnh viện Từ Dũ](./_images/tan-sinh-bieu-mo-co-tu-cung/tu-du-quan-ly-agc-agus.jpeg)
 
 _Hình ảnh "Quản lý AGC hướng về tăng sản tuyến - Bệnh viện Từ Dũ"_.
@@ -267,7 +267,7 @@ _Hình ảnh "Áp lạnh cổ tử cung: Đầu áp nối với nitrogen lỏng 
 _Hình ảnh "Khoét chóp cổ tử cung bằng dao lạnh"_.
 ![Khoét chóp cổ tử cung bằng dao lạnh](./_images/tan-sinh-bieu-mo-co-tu-cung/khoet-chop-bang-dao-lanh.png)
 
-**Cắt bỏ mô tổn thương bằng vòng điện (LEEP / LLETZ)**:
+**Cắt bỏ mô tổn thương bằng vòng điện (LEEP/LLETZ)**:
 
 - Lấy vùng chuyển tiếp bằng vòng điện, thuận tiện và nhanh chóng.
 - Mẫu mô dễ bị cháy, khó đánh giá bờ cắt.

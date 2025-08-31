@@ -1,7 +1,7 @@
 {
   "name": "@medpocket/18-months",
   "version": "0.2.0",
-  "description": "Hiểu đúng - Chọn an toàn - Sống khỏe mạnh",
+  "description": "Đây là tài liệu sản khoa",
   "author": "MedPocket",
   "scripts": {
     "build": "astro build",

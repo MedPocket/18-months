@@ -118,7 +118,8 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"_.
 - Đặt foley 14-16 dưới siêu âm, bơm 20-25mL để đẩy túi thai.
 - Rút sau 24 giờ → hút thai bằng Karman 6.
 - Dùng oxytocin, misoprostol hậu môn, kháng sinh sau thủ thuật.
-- Theo dõi tương tự điều trị MTX.
+
+Theo dõi tương tự điều trị MTX.
 
 #### Phẫu thuật
 
