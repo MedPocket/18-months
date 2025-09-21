@@ -14,20 +14,20 @@
     "check": "biome check --write . && prettier --write --experimental-cli '**/*.{md,mdx}'"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.35.3",
-    "astro": "^5.13.7",
+    "@astrojs/starlight": "^0.36.0",
+    "astro": "^5.13.9",
     "astro-og-canvas": "^0.7.0",
     "canvaskit-wasm": "^0.40.0",
     "mdast-util-to-string": "^4.0.0",
     "reading-time": "^1.5.0",
     "rehype-external-links": "^3.0.0",
-    "sharp": "^0.34.3",
+    "sharp": "^0.34.4",
     "starlight-image-zoom": "^0.13.0",
-    "starlight-links-validator": "^0.17.2",
-    "starlight-sidebar-topics": "^0.6.0"
+    "starlight-links-validator": "^0.18.0",
+    "starlight-sidebar-topics": "^0.6.1"
   },
   "devDependencies": {
-    "@area44/biome-config": "^2.2.5",
+    "@area44/biome-config": "^2.2.6",
     "@biomejs/biome": "^2.2.4",
     "@types/hast": "^3.0.4",
     "@types/mdast": "^4.0.4",
