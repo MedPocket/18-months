@@ -80,7 +80,7 @@ _Hình ảnh "Lưu đồ tiếp cận xuất huyết tử cung bất thường q
 
 #### Tiền sử
 
-- Tiền sử bệnh lý: Tăng huyết áp, đái tháo đường, béo phì, rối loạn đông máu,...
+- Tiền sử bệnh lý: Tăng huyết áp, đái tháo đường, béo phì, rối loạn đông máu...
 - Tiền sử sử dụng thuốc: Dùng tamoxifen hoặc liệu pháp hormone thay thế.
 
 #### Bệnh sử
