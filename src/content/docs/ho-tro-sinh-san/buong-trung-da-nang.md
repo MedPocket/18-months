@@ -109,6 +109,7 @@ BN PCOS nên được thông báo dự phòng gồm điều chỉnh cân nặng,
 ### Phụ nữ có thai
 
 Phụ nữ PCOS có nguy cơ cao hơn với:
+
 - Tăng cân trong thai kỳ.
 - Sảy thai.
 - Đái tháo đường.
@@ -134,6 +135,7 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 **Progestogen đơn thuần**: Dùng tối thiểu 12 ngày để giảm nguy cơ tăng sinh nội mạc tử cung và ung thư nội mạc tử cung.
 
 **Viên tránh thai kết hợp** (ethinyl estradiol + progestogen kháng androgen như cyproterone, drospirenone):
+
 - Điều hòa kinh nguyệt, giảm nguy cơ tăng sinh nội mạc tử cung. Chế phẩm estrogen tự nhiên và estrogen thấp nhất có hiệu quả (20-30 μg thinyl oestradiol hoặc tương đương) được xem xét sử dụng.
 - Viên phối hợp không nên dùng liên tục mà chỉ sử dụng mỗi 3-4 tháng/lần để tránh tác dụng phụ trên béo phì và chuyển hóa.
 - Ethinylestradiol liều cao (≥ 30 μg) không có lợi ích lâm sàng hơn so với ethinylestradiol liều thấp (< 30 μg) trong điều trị rậm lông.
@@ -225,11 +227,11 @@ CC kết hợp metformin có thể được ưu tiên hơn CC đơn lẻ.
 
 Gonadotropin là một nhóm hormone peptide điều hòa tuyến sinh dục (buồng trứng và tinh hoàn), bao gồm các hormone chính như FSH (kích thích nang noãn) và LH (kích thích hoàng thể) do tuyến yên tiết ra, cùng với hCG (hCG):
 
-- FSH được tiết ra bởi tuyến yên trước, FSH kích thích sự phát triển của các nang noãn trong buồng trứng. 
-- LH cũng được tuyến yên trước tiết ra, LH đóng vai trò quan trọng trong việc gây ra sự rụng trứng và thúc đẩy hoàng thể sản xuất progesterone. 
-- hCG được sản xuất bởi nhau thai trong thai kỳ, hCG có tác dụng tương tự như LH và giúp duy trì thai kỳ. 
+- FSH được tiết ra bởi tuyến yên trước, FSH kích thích sự phát triển của các nang noãn trong buồng trứng.
+- LH cũng được tuyến yên trước tiết ra, LH đóng vai trò quan trọng trong việc gây ra sự rụng trứng và thúc đẩy hoàng thể sản xuất progesterone.
+- hCG được sản xuất bởi nhau thai trong thai kỳ, hCG có tác dụng tương tự như LH và giúp duy trì thai kỳ.
 
-Thường sử dụng ở người kháng CC. Cũng có thể được dùng để tăng số lượng tinh trùng. 
+Thường sử dụng ở người kháng CC. Cũng có thể được dùng để tăng số lượng tinh trùng.
 
 **Phác đồ step-up**: FSH khởi đầu 37.5-50 IU/ngày trong 14 ngày, sau đó tăng dần 25-37.5 IU/ngày tùy đáp ứng; Theo dõi siêu âm chặt chẽ. Ở người có BMI thấp, có thể khởi đầu 25 IU/ngày.
 
