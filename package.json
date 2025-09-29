@@ -10,8 +10,8 @@
     "start": "astro dev",
     "format": "biome format --write .",
     "format:md": "prettier --write --experimental-cli '**/*.{md,mdx}'",
-    "lint": "biome lint --write .",
-    "check": "biome check --write . && prettier --write --experimental-cli '**/*.{md,mdx}'"
+    "lint": "biome lint --write",
+    "check": "biome check --write && prettier --write --experimental-cli '**/*.{md,mdx}'"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.36.0",
