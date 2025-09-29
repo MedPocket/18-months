@@ -106,6 +106,19 @@ Vô kinh kéo dài không được điều trị, thừa cân, đái tháo đư�
 
 BN PCOS nên được thông báo dự phòng gồm điều chỉnh cân nặng, điều hòa kinh nguyệt và liệu pháp progesteron.
 
+### Phụ nữ có thai
+
+Phụ nữ PCOS có nguy cơ cao hơn với:
+- Tăng cân trong thai kỳ.
+- Sảy thai.
+- Đái tháo đường.
+- Tăng huyết áp và tiền sản giật.
+- Thai chậm tăng trưởng, thai nhỏ hơn tuổi thai.
+- Sinh non.
+- Mổ lấy thai.
+
+Nên chỉ định OGTT cho phụ nữ PCOS trước hoặc khi khám hiếm muộn. Nếu không thực hiện trước mang thai nên thực hiện ở lần khám thai đầu tiên và lặp lại tuần 24-28.
+
 ## Điều trị
 
 ### Không mong có thai
@@ -118,73 +131,147 @@ Các vấn đề sức khỏe chính của nhóm người bệnh này gồm:
 
 #### Thuốc tránh thai kết hợp
 
-- **Progestogen đơn thuần**: Dùng tối thiểu 12 ngày để giảm nguy cơ tăng sinh nội mạc tử cung và ung thư nội mạc tử cung.
-- **Viên tránh thai kết hợp** (ethinyl estradiol + progestogen kháng androgen như cyproterone, drospirenone): Điều hòa kinh nguyệt, giảm nguy cơ tăng sinh nội mạc tử cung. Chế phẩm estrogen tự nhiên và estrogen thấp nhất có hiệu quả (20-30 μg thinyl oestradiol hoặc tương đương) được xem xét sử dụng.
-- **Viên 35 μg ethinyloestradiol và cyproterone acetae** nên là lựa chọn hàng thứ 2 sau viên ngừa thai phối hợp.
+**Progestogen đơn thuần**: Dùng tối thiểu 12 ngày để giảm nguy cơ tăng sinh nội mạc tử cung và ung thư nội mạc tử cung.
 
-:::caution
-
-- Progestogen cần kéo dài tối thiểu 12 ngày mỗi đợt để bảo vệ nội mạc tử cung.
-- Viên phối hợp không nên dùng liên tục mà chỉ sử dụng mỗi 3-4 tháng một lần để tránh tác dụng phụ trên béo phì và chuyển hóa.
+**Viên tránh thai kết hợp** (ethinyl estradiol + progestogen kháng androgen như cyproterone, drospirenone):
+- Điều hòa kinh nguyệt, giảm nguy cơ tăng sinh nội mạc tử cung. Chế phẩm estrogen tự nhiên và estrogen thấp nhất có hiệu quả (20-30 μg thinyl oestradiol hoặc tương đương) được xem xét sử dụng.
+- Viên phối hợp không nên dùng liên tục mà chỉ sử dụng mỗi 3-4 tháng/lần để tránh tác dụng phụ trên béo phì và chuyển hóa.
 - Ethinylestradiol liều cao (≥ 30 μg) không có lợi ích lâm sàng hơn so với ethinylestradiol liều thấp (< 30 μg) trong điều trị rậm lông.
-
-:::
+- **Viên 35 μg ethinyloestradiol và cyproterone acetae** nên là lựa chọn hàng thứ 2 sau viên ngừa thai phối hợp.
 
 #### Metformin
 
+Sử dụng đơn trị khi có BMI ≥ 25 kg/m² nhằm cải thiện nhân chắc học, rối loạn chuyển hóa như kháng insuslin, đường huyết và mỡ máu.
+
+Bắt đầu với liều thấp, tăng dần 500mg mỗi 1-2 tuần, sử dụng các chế phẩm phóng thích kéo dài để giảm tác dụng phụ và tăng tuân thủ thuốc.
+
+Liều tối đa 2.5 g ở phụ nữ trưởng thành và 2 g ở trẻ gái vị thành niên.
+
+Metformin an toàn khi sử dụng lâu dài. Sử dụng metformin liên quan đến giảm nồng độ vitamin B12 (nên cân nhắc với nhóm đối tượng đái tháo đường, sau phẫu thuật giảm cân/chuyển hóa, thiếu máu ác tính, chế độ ăn chay...).
+
+Kết hợp COCs và metformin mang lại nhiều lợi ích ở nhóm có BMI > 30 kg/m². Nhưng không mang lại hiệu quả so với điều trị COCs và metformin đơn đọc ở phụ nữ trưởng thành BMI ≤ 30 kg/m².
+
 #### Thuốc điều trị béo phì
 
+Các thuốc liraglutide, semaglutide (đồng vận thụ thể GLP-1) và orlistat có thể được xem xét sử dụng khi BMI ≥ 25 kg/m².
+
+Khuyến cáo sử dụng GLP-1 để giảm tác dụng phụ trên đường tiêu hóa.
+
 #### Thuốc kháng androgen
+
+Cân nhắc sử dụng thuốc kháng androgen điều trị rậm lông, hói đầu. Nếu sau ít nhất 6 tháng sử dụng COCs và/hoặc liệu pháp thẩm mỹ chưa tối ưu.
+
+Các thuốc cân nhắc được sử dụng:
+
+- Spironolactone liều 25-100 mg/ngày ít tác dụng phụ.
+- Cyproterone acetate ≥ 10 mg không được khuyến cáo do tăng nguy cơ phát triển u màng não.
+- Finasteride làm tăng nguy cơ tổn thương gan.
+- Flutamide và bicalutamide nguy cơ tổn thương gan nặng.
+
+#### Inositol
+
+Được cân nhắc sử dụng. Có khả năng cải thiện về chỉ số sinh hóa mạc dù lợi ích lâm sàng còn hạn chế.
+
+#### Laser và liệu pháp ánh sáng
+
+Giúp điều trị giảm rậm lông vùng mặt và giảm rối loạn lo âu, trầm cảm, giúp nâng cao chất lượng cuộc sống.
 
 ### Mong có thai
 
 **Mục tiêu**: Gây phóng noãn đơn noãn, gần với sinh lý, tránh quá kích buồng trứng và đa thai.
 
+_Hình ảnh "Lược đồ điều trị hiếm muộn cho phụ nữ buồng trứng đa nang" - HOREM._
+![Lược đồ điều trị hiếm muộn cho phụ nữ buồng trứng đa nang](./_images/buong-trung-da-nang/horem-dieu-tri-hiem-muon-cho-phu-nu-pcos.png)
+
+- Letrozole là điều trị đầu tay.
+- Metformin có hiệu quả thấp hơn nhưng chí phí và tỷ lệ đa thai thấp hơn hơn.
+- Gonadotrophins có hiệu quả cao hơn nhưng chi phí và tỷ lệ đa thai cao hơn.
+- IVF là điều trị hàng thứ 3 trừ khi không có tác nhân hiếm muộn khác như yếu tố nam hoặc ống dẫn trứng.
+
 #### Thay đổi lối sống
 
-- Chế độ ăn giảm năng lượng (giảm chất béo, tăng chất xơ) và tăng hoạt động thể chất.
-- Giảm ≥ 5% trọng lượng cơ thể có thể phục hồi phóng noãn tự nhiên.
+Chế độ ăn giảm năng lượng (giảm chất béo, tăng chất xơ) và tăng hoạt động thể chất.
 
-#### Clomiphene citrate (CC)
+Giảm ≥ 5% trọng lượng cơ thể có thể phục hồi phóng noãn tự nhiên.
 
-- Lựa chọn đầu tay khi PCOS là nguyên nhân chính gây vô sinh và không có yếu tố phối hợp khác.
+Metformin được xem xét trong 1 số tình huống như nguy cơ dọa đẻ non. Thai phụ được tư vấn về những ảnh hưởng của metformin lên sức khỏe lâu dài của em bé chưa được làm rõ. Nên ngừng thuốc vào cuối tam cá nguyệt đầu tiên.
+
+Nên sử dụng vitamins bổ trợ trước mang thai thường quy cùng thời điểm gây phóng noãn.
+
+#### Letrozole
+
+Letrozole (LE) là chất ức chế aromatase. Được xem là thuốc gây phóng noãn đầu tay do không phóng noãn nguyên phát:
+
+- LE ức chế sinh tổng hợp estrogen do đó làm cản trở phản hồi âm của trục hạ đồi-tuyến yên của estrogen, do đó tăng FSH nội sinh và thúc đẩy nang noãn phát triển.
+- Phác đồ LE thường sử dụng liều 2.5 - 5 mg dùng trong 5 ngày (bắt đầu vào ngày thứ 2, 3 hoặc 4 của chu kỳ kinh) và liều tối đa là 7.5 mg.
+- Nang trứng đáp ứng khi nang > 10 mm, E2 < 70 pg /mL, progesterone < 1,0ng/mL.
+
+Đa thai ít hơn khi sử dụng letrozole so với clomiphone citrate.
+
+Giao hợp thường xuyên mỗi 2-4 ngày và khi phát hiện có tăng LH. Sự rụng trứng được ghi nhận bằng sự biến mất của một nang trứng > 14 mm đồng thời với giảm E2 > 50% và tăng progesterone > 1,0 ng/mL, hoặc progesterone huyết thanh > 5 ng/mL với kết quả là mang thai hoặc hành kinh.
+
+#### Clomiphene citrate
+
+Clomiphene citrate (CC):
+
+- Hoạt động như chất kháng estrogen, gắn vào thụ thể estrogen ở vùng hạ đồi và tuyến yên. Việc này ức chế tín hiệu feedback âm tính của estrogen, khiến não bộ tăng cường sản xuất hormone giải phóng Gonadotropin (GnRH), sau đó là Follicle-Stimulating hormone (FSH) và Luteinizing hormone (LH). FSH và LH là các hormone quan trọng thúc đẩy sự phát triển của nang noãn (trứng) trong buồng trứng.
 - Liều khởi đầu: 50 mg/ngày × 5 ngày (ngày 2-5 chu kỳ).
 - Liều tối đa: 150 mg/ngày; Không điều trị quá 6 chu kỳ liên tiếp hoặc > 12 chu kỳ suốt đời sinh sản.
-- Đề kháng CC: Không phóng noãn sau 3-6 chu kỳ điều trị.
+- Đề kháng CC khi không đáp ứng sau 3-6 chu kỳ điều trị.
 
-#### Metformin (thuốc tăng nhạy cảm insulin)
+CC kết hợp metformin có thể được ưu tiên hơn CC đơn lẻ.
 
-- Dùng cho người PCOS béo phì hoặc có rối loạn dung nạp đường.
-- Liều gợi ý: 500 mg × 3 lần/ngày trong 1 tháng, sau đó 500 mg × 2 lần/ngày trong 6 tháng.
-- Mục tiêu: Cải thiện phóng noãn, giảm cân và giảm cường androgen.
+#### Gonadotropin
 
-#### Letrozole (chất ức chế men thơm hóa)
+Gonadotropin là một nhóm hormone peptide điều hòa tuyến sinh dục (buồng trứng và tinh hoàn), bao gồm các hormone chính như FSH (kích thích nang noãn) và LH (kích thích hoàng thể) do tuyến yên tiết ra, cùng với hCG (hCG):
 
-- Chưa được công nhận là thuốc đầu tay để kích thích rụng trứng ở PCOS.
-- An toàn cho thai chưa rõ, do đó không ưu tiên sử dụng.
+- FSH được tiết ra bởi tuyến yên trước, FSH kích thích sự phát triển của các nang noãn trong buồng trứng. 
+- LH cũng được tuyến yên trước tiết ra, LH đóng vai trò quan trọng trong việc gây ra sự rụng trứng và thúc đẩy hoàng thể sản xuất progesterone. 
+- hCG được sản xuất bởi nhau thai trong thai kỳ, hCG có tác dụng tương tự như LH và giúp duy trì thai kỳ. 
 
-#### Gây phóng noãn bằng gonadotropin
+Thường sử dụng ở người kháng CC. Cũng có thể được dùng để tăng số lượng tinh trùng. 
 
-- Lựa chọn thứ hai sau CC hoặc ở người kháng CC.
-- **Phác đồ step-up**: FSH khởi đầu 37.5-50 IU/ngày trong 14 ngày, sau đó tăng dần 25-37.5 IU/ngày tùy đáp ứng; Theo dõi siêu âm chặt chẽ.
-- Ở người có BMI thấp, có thể khởi đầu 25 IU/ngày.
+**Phác đồ step-up**: FSH khởi đầu 37.5-50 IU/ngày trong 14 ngày, sau đó tăng dần 25-37.5 IU/ngày tùy đáp ứng; Theo dõi siêu âm chặt chẽ. Ở người có BMI thấp, có thể khởi đầu 25 IU/ngày.
 
-#### Nội soi đốt điểm buồng trứng đa nang
+Sử dụng gonatropin cần lưu ý:
 
-- Dành cho người kháng CC và thất bại với gonadotropin.
-- Đốt 4-10 điểm, sâu 4 mm, công suất 40 W × 4 giây.
-- Theo dõi hiệu quả 3-6 tháng; Không lặp lại nếu không hiệu quả.
+- Chi phí.
+- Sử dụng phác đồ liều thấp, tăng dần nhằm tối ưu hóa tỷ lệ phát triển đơn noãn.
+- Nguy cơ đa thai.
+
+#### Metformin
+
+Mục tiêu: Cải thiện phóng noãn, giảm cân và giảm cường androgen. Dùng cho người PCOS béo phì hoặc có rối loạn dung nạp đường.
+
+Liều gợi ý: 500 mg × 3 lần/ngày trong 1 tháng, sau đó 500 mg × 2 lần/ngày trong 6 tháng.
+
+#### Nội soi đốt điểm
+
+Dành cho người kháng CC và thất bại với gonadotropin.
+
+Đốt 4-10 điểm, sâu 4 mm, công suất 40 W × 4 giây. Theo dõi hiệu quả 3-6 tháng; Không lặp lại nếu không hiệu quả.
 
 #### Thụ tinh trong ống nghiệm (IVF/ICSI)
 
-- Khi thất bại với mọi phương pháp trên hoặc có chỉ định khác.
-- Dùng phác đồ GnRH antagonist để giảm nguy cơ hội chứng quá kích.
-- Metformin 1500 mg/ngày trong 8 tuần trước kích thích có thể giảm nguy cơ quá kích buồng trứng.
+Khi thất bại với mọi phương pháp trên hoặc có chỉ định khác.
+
+Dùng phác đồ GnRH antagonist để giảm nguy cơ hội chứng quá kích.
+
+Dùng metformin 1000-2500 mg/ngày trong 8 tuần trước và/ hoặc trong kích thích có thể giảm nguy cơ quá kích buồng trứng.
 
 #### In-Vitro Maturation (IVM)
 
-- Lấy noãn non, nuôi trưởng thành ngoài cơ thể, tránh kích thích buồng trứng mạnh.
+Lấy noãn non, nuôi trưởng thành ngoài cơ thể, tránh kích thích buồng trứng mạnh. Tuy nhiên tỷ lệ trẻ sinh sống thấp hơn.
+
+IVM ưu tiên lựa chọn ở phụ nữ có tiền sử hoặc nguy cơ cao hội chứng quá kích buồng trứng mức độ nặng khi điều kiện trung tâm đủ đáp ứng.
+
+IVM kém hiệu quả hơn so với IVF/ICSI.
+
+#### Inositol và thuốc giảm cân
+
+Cân nhắc sử dụng có khả năng cải thiện về chỉ số sinh hóa mạc dù lợi ích lâm sàng còn hạn chế dù chưa có bằng trứng.
 
 ## Tài liệu tham khảo
 
 - HOSREM - _[Cẩm nang Hội chứng buồng trứng đa nang](https://hosrem.org.vn/detailNews/hoatdong/te-bao-la-nuoi-phoi-trophectoderm-te-o-phoi-kham-cho-thay-muc-do-chet-theo-chuong-trinh-te-bao-tang-va-khiem-khuyet-kha-nang-biet-hoa-bang-chung-sinh-hoc-phan-tu-ve-tiem-nang-sinh-san-cua-phoi-kham-8303)_
+- HOSTEM - _[Kéo dài thời gian điều trị letrozole có hiệu quả trong việc gây rụng trứng ở phụ nữ mắc hội chứng buồng trứng đa nang và kháng letrozole](https://hosrem.org.vn/detailNews/thongtin/keo-dai-thoi-gian-dieu-tri-letrozole-co-hieu-qua-trong-viec-gay-rung-trung-o-phu-nu-mac-hoi-chung-buong-trung-da-nang-va-khang-letrozole-6668)_
