@@ -186,7 +186,7 @@ _Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng -
 
 **An toàn nhất** trong thai kỳ.
 
-**Liều dùng**: 250 mg × 1-3 lần/ngày; Tối đa 2 g/ngày.
+**Liều dùng**: 250 mg x 1-3 lần/ngày; Tối đa 2 g/ngày.
 
 **Tác dụng phụ**: Trầm cảm, buồn ngủ, chóng mặt, rối loạn gan.
 
@@ -209,7 +209,7 @@ _Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng -
 **Liều dùng**:
 
 - Bolus TM 10-20 mg; Nếu cần, 20-80 mg mỗi 10-30 phút (tối đa 300 mg).
-- **Duy trì uống**: 200 mg × 3 lần/ngày (tối đa 800 mg/8 h), điều chỉnh 200-400 mg/ngày.
+- **Duy trì uống**: 200 mg x 3 lần/ngày (tối đa 800 mg/8 h), điều chỉnh 200-400 mg/ngày.
 
 **Tác dụng phụ**: Ít nhịp nhanh phản xạ.
 
@@ -235,7 +235,7 @@ _Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng -
 
 **Liều dùng**:
 
-- Uống 20 mg × 3 lần/ngày.
+- Uống 20 mg x 3 lần/ngày.
 - **TM**: Bolus 0.5-1 mg, duy trì 1-3 mg/h (pha 10 mL nicardipine vào 40 mL Glucose 5%, truyền 5-15 mL/h).
 
 **Tác dụng phụ**: Đau đầu, chóng mặt, buồn nôn.

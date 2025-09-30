@@ -26,7 +26,7 @@ Sau sổ thai, cần theo dõi sinh hiệu và lượng máu mất, **không** x
 - Thuốc: Atropin 0.25 mg tiêm bắp/tĩnh mạch, giảm đau (morphin, dolargan), seduxen.
 - Sát khuẩn âm hộ, đặt sản phụ tư thế sản khoa (đầu hơi cao).
 
-### Kỹ thuật
+### Thực hiện
 
 _Hình ảnh "Kỹ thuật bóc rau nhân tạo"_.
 ![Kỹ thuật bóc rau nhân tạo](./_images/boc-rau-nhan-tao-kiem-tra-sinh-duc/ky-thuat-boc-rau-nhan-tao.png)
@@ -57,7 +57,7 @@ _Hình ảnh "Kỹ thuật bóc rau nhân tạo"_.
 
 - Tương tự bóc rau: Vô khuẩn, đường truyền TM, thuốc giảm đau.
 
-### Kỹ thuật
+### Thực hiện
 
 - Tay ngoài cố định đáy tử cung.
 - Tay trong kiểm tra dọc thân tử cung (mặt trước, sau, hai bên).
@@ -83,7 +83,7 @@ _Hình ảnh "Kỹ thuật bóc rau nhân tạo"_.
 
 - Như kiểm tra tử cung, thêm valve âm đạo, kìm tim, gạc, dụng cụ khâu.
 
-### Kỹ thuật
+### Thực hiện
 
 - Ấn đáy tử cung giữ cố định.
 - Người thứ hai đặt valve mở âm đạo.
@@ -101,7 +101,7 @@ _Hình ảnh "Kỹ thuật bóc rau nhân tạo"_.
 
 - Tương tự kiểm tra cổ tử cung.
 
-### Kỹ thuật
+### Thực hiện
 
 - Khám toàn bộ thành âm đạo bằng ngón tay: Tìm rách niêm mạc, cơ.
 - Mở valve, kiểm tra đáy chậu, tầng sinh môn.

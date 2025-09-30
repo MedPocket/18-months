@@ -218,6 +218,7 @@ export const sidebar = starlightSidebarTopics([
       "ho-tro-sinh-san/pcos",
       "ho-tro-sinh-san/hiem-muon-khong-rung-trung",
       "ho-tro-sinh-san/kich-trung",
+      "ho-tro-sinh-san/niem-mac-tu-cung-va-chuyen-phoi",
       "ho-tro-sinh-san/tac-voi-trung",
       "ho-tro-sinh-san/hsg-sis",
     ],

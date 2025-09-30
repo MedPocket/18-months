@@ -96,9 +96,9 @@ _Hình ảnh "Phác đồ 1 nguyên tắc xử trí thai trứng - Bệnh viện
 
 **Phác đồ thường dùng**:
 
-- **MTX 5 ngày**: MTX 0.4 mg/kg/ngày tĩnh mạch hoặc tiêm bắp × 5 ngày, không quá 25 mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
+- **MTX 5 ngày**: MTX 0.4 mg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25 mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
 - **MTX 8 ngày (MTX/FA)**: MTX 1 mg/kg hoặc MTX 50 mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0.1 mg/kg tiêm bắp hoặc uống 15mg sau liều MTX 24-30 giờ vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
-- **Dacticin**: 12 µg/kg (10-13 µg/kg) hoặc 0.5 mg/ngày tĩnh mạch × 5 ngày liên tục. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
+- **Dacticin**: 12 µg/kg (10-13 µg/kg) hoặc 0.5 mg/ngày tĩnh mạch x 5 ngày liên tục. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
 
 **Chống chỉ định**:
 

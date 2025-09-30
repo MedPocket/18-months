@@ -212,7 +212,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 - Pha 5 mg Salbutamol/5 mL trong 95 mL NaCl 0.9%; Truyền 12 mL/h (10 µg/phút), tăng 4 mL/h mỗi 30 phút đến khi cắt cơn hoặc mẹ đạt nhịp tim ≥ 120 lần/phút hoặc tối đa 36 mL/h.
 - Có thể truyền TM pha 5 mg Salbutamol/5 mL trong dung dịch glucose 5% (10 µg/mL), tốc độ 60 mL/h (10 µg/phút), tăng 20 mL/h mỗi 30 phút đến khi cắt cơn hoặc nhịp tim mẹ ≥ 120 lần/phút hoặc tối đa 180 mL/h.
 - Thời gian điều trị đường TM 24-48 giờ.
-- Duy trì uống/đặt: Ventolin 2 viên × 4-6 viên/ngày hoặc Salbutamol 1 viên × 1-3 viên/ngày (đặt hậu môn).
+- Duy trì uống/đặt: Ventolin 2 viên x 4-6 viên/ngày hoặc Salbutamol 1 viên x 1-3 viên/ngày (đặt hậu môn).
 
 **Theo dõi**:
 
@@ -227,8 +227,8 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 **Liều dùng**:
 
-- Betamethasone 12 mg bắp × 2 liều cách 24 giờ.
-- Hoặc dexamethasone 6 mg bắp × 4 liều cách 12 giờ.
+- Betamethasone 12 mg bắp x 2 liều cách 24 giờ.
+- Hoặc dexamethasone 6 mg bắp x 4 liều cách 12 giờ.
 
 Xem xét lặp lại sau 7-14 ngày nếu còn nguy cơ và < 34 tuần.
 

@@ -220,24 +220,24 @@ Quy trình chẩn đoán thường là:
 **Giang mai sớm (≤ 2 năm)**:
 
 - **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất.
-- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày × 10-14 ngày; Doxycycline 100 mg uống 2 lần/ngày × 14 ngày; Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày × 10-14 ngày; Azithromycin 2 g uống liều duy nhất.
+- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 10-14 ngày; Doxycycline 100 mg uống 2 lần/ngày x 14 ngày; Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày x 10-14 ngày; Azithromycin 2 g uống liều duy nhất.
 
 **Giang mai muộn (> 2 năm hoặc không rõ)**
 
-- **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần × 3 tuần liên tiếp (Khoảng cách giữa các lần tiêm không quá 14 ngày).
-- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày × 20 ngày; Doxycycline 100 mg uống 2 lần/ngày × 30 ngày.
+- **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần x 3 tuần liên tiếp (Khoảng cách giữa các lần tiêm không quá 14 ngày).
+- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 20 ngày; Doxycycline 100 mg uống 2 lần/ngày x 30 ngày.
 
 #### Phụ nữ có thai
 
 **Giang mai sớm (≤ 2 năm)**:
 
 - **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu, liều duy nhất.
-- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày × 10-14 ngày; Erythromycin 500 mg uống 4 lần/ngày × 14 ngày; Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày × 10-14 ngày; Azithromycin 2 g uống liều duy nhất.
+- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 10-14 ngày; Erythromycin 500 mg uống 4 lần/ngày x 14 ngày; Ceftriaxon 1 g tiêm bắp sâu 1 lần/ngày x 10-14 ngày; Azithromycin 2 g uống liều duy nhất.
 
 **Giang mai muộn (> 2 năm hoặc không rõ)**:
 
-- **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần × 3 tuần liên tiếp.
-- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày × 20 ngày; Erythromycin 500 mg uống 4 lần/ngày × 30 ngày.
+- **Phác đồ ưu tiên**: Benzathin penicillin G 2.4 triệu đơn vị, tiêm bắp sâu 1 lần/tuần x 3 tuần liên tiếp.
+- **Phác đồ thay thế (nếu không có Benzathin penicillin hoặc dị ứng penicillin)**: Procain penicillin 1.2 triệu đơn vị, tiêm bắp sâu 1 lần/ngày x 20 ngày; Erythromycin 500 mg uống 4 lần/ngày x 30 ngày.
 
 :::caution
 
@@ -256,7 +256,7 @@ Quy trình chẩn đoán thường là:
 
 **Phác đồ ưu tiên**: Benzyl penicillin 100,000-150,000 Đơn vị/kg/ngày, tiêm TM chậm chia 2-3 lần/ngày (nếu thể trạng đảm bảo) hoặc truyền liên tục trong 10-15 ngày.
 
-**Phác đồ thay thế nếu không tiêm TM được**: Procain penicillin 50,000 Đơn vị/kg/ngày, tiêm bắp sâu 1 liều/ngày × 10-15 ngày.
+**Phác đồ thay thế nếu không tiêm TM được**: Procain penicillin 50,000 Đơn vị/kg/ngày, tiêm bắp sâu 1 liều/ngày x 10-15 ngày.
 
 **Trẻ không triệu chứng** và mẹ đã điều trị đầy đủ trước sinh: Chỉ cần theo dõi chặt chẽ, xét nghiệm huyết thanh định kỳ (tháng 1, 2, 3). Nếu xét nghiệm không đặc hiệu vẫn dương tính, điều trị phác đồ: Benzathin penicillin G 50,000 Đơn vị/kg, tiêm bắp liều duy nhất (nếu không có dấu hiệu lâm sàng).
 

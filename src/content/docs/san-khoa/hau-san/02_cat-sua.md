@@ -29,9 +29,9 @@ Prolactin là hormone chính chịu trách nhiệm về sự tiết sữa. Các 
 
 **Ít được sử dụng**. Dùng kết hợp estrogen-progestin trong thuốc tránh thai hoặc thuốc điều hòa kinh nguyệt để ức chế tiết sữa. Liều dùng của một số thuốc:
 
-- **Ethinylestradiol**: 50 µg (0,05mg) × 4 lần/ngày, uống liên tục 5-7 ngày.
-- **Conjugated equine estrogens (Premarin)**: 0.625 mg × 2 lần/ngày, uống 5-7 ngày.
-- **Diethylstilbestrol**: 1 mg × 3 lần/ngày, uống 5-7 ngày.
+- **Ethinylestradiol**: 50 µg (0,05mg) x 4 lần/ngày, uống liên tục 5-7 ngày.
+- **Conjugated equine estrogens (Premarin)**: 0.625 mg x 2 lần/ngày, uống 5-7 ngày.
+- **Diethylstilbestrol**: 1 mg x 3 lần/ngày, uống 5-7 ngày.
 
 :::caution
 Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc có chỉ định riêng; Theo dõi nguy cơ huyết khối.

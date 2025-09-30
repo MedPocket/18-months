@@ -160,8 +160,8 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
 
 **Liều và thời gian**:
 
-- **Dydrogesterone** 10 mg × 2 lần/ngày (sáng-tối) trong 10-14 ngày; Hoặc
-- **Lynestrenol** 5 mg × 2 lần/ngày trong 10-14 ngày.
+- **Dydrogesterone** 10 mg x 2 lần/ngày (sáng-tối) trong 10-14 ngày; Hoặc
+- **Lynestrenol** 5 mg x 2 lần/ngày trong 10-14 ngày.
 - Sau đó ngưng: Bé gái có thể có hành kinh trong vài ngày kế tiếp.
 
 **Theo dõi sau điều trị**:
@@ -189,7 +189,7 @@ Chọn progestogen có **tính kháng estrogen** vừa đủ và **ít ức ch�
 
 **Chọn lựa progestogen**:
 
-- Sau 7-10 ngày dùng estrogen, thêm dydrogesterone 10 mg × 2/ngày trong 10-14 ngày.
+- Sau 7-10 ngày dùng estrogen, thêm dydrogesterone 10 mg x 2/ngày trong 10-14 ngày.
 - Hoặc dùng phối hợp COC (Ethinyl estradiol + Levonorgestrel) liều trung bình (Ethinyl estradiol 30 µg) liên tục trong 21-28 ngày.
 
 | Loại progestin                             | Tính progestogen | Tính kháng gonadotropin | Tính kháng estrogen | Tính estrogen androgen | Tính androgen | Tính kháng glucocorticoid | Tính kháng mineralocort. |

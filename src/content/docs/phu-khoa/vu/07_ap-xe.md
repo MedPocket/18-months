@@ -71,10 +71,10 @@ description: Chẩn đoán, xử trí, phân lọai áp xe vú.
 
 **Nhiễm trùng nhẹ**:
 
-- Dicloxacillin hoặc Cloxacillin 500 mg × 4 lần/ngày, 10-14 ngày.
-- Không đáp ứng sau 24-48 giờ thì chuyển sang: Cephalexin 500 mg × 4 lần/ngày, hoặc Cefadroxyl 500 mg × 2 viên × 2 lần/ngày, hoặc Amoxicillin-clavulanate 625 mg × 3 lần/ngày.
-- Nếu nghi ngờ vi khuẩn kỵ khí (áp xe dưới quầng vú) phối hợp thêm: Clindamycin 300 mg × 4 lần/ngày, hoặc Metronidazole 250 mg × 2 viên × 2 lần/ngày.
-- Nếu nghi ngờ tụ cầu kháng Methicillin (MRSA): Trimethoprim/Sulfamethoxazole 160/800 mg × 2 lần/ngày, hoặc Clindamycin 300 mg × 4 lần/ngày.
+- Dicloxacillin hoặc Cloxacillin 500 mg x 4 lần/ngày, 10-14 ngày.
+- Không đáp ứng sau 24-48 giờ thì chuyển sang: Cephalexin 500 mg x 4 lần/ngày, hoặc Cefadroxyl 500 mg x 2 viên x 2 lần/ngày, hoặc Amoxicillin-clavulanate 625 mg x 3 lần/ngày.
+- Nếu nghi ngờ vi khuẩn kỵ khí (áp xe dưới quầng vú) phối hợp thêm: Clindamycin 300 mg x 4 lần/ngày, hoặc Metronidazole 250 mg x 2 viên x 2 lần/ngày.
+- Nếu nghi ngờ tụ cầu kháng Methicillin (MRSA): Trimethoprim/Sulfamethoxazole 160/800 mg x 2 lần/ngày, hoặc Clindamycin 300 mg x 4 lần/ngày.
 
 **Nhiễm trùng nặng**:
 

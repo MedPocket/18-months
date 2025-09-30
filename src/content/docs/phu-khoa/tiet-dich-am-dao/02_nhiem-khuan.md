@@ -164,12 +164,12 @@ Việc bổ sung **probiotic chứa Lactobacillus** sau điều trị có thể 
 
 Tùy chọn điều trị BV tại Bệnh viện Từ Dũ (áp dụng cho cả BV có triệu chứng và BV không triệu chứng trong nhóm nguy cơ):
 
-- **Metronidazole 500 mg uống** × 2 lần/ngày × 7 ngày (uống trong bữa ăn để giảm kích ứng tiêu hóa).
-- **Metronidazole gel 0.75% (5 g)/ngày** × 5 ngày (đặt âm đạo).
-- **Clindamycin 300 mg uống** × 2 lần/ngày × 7 ngày.
-- **Clindamycin 100 mg đặt âm đạo** × 1 lần/ngày × 3 ngày.
-- **Dequalinium chloride 10 mg đặt âm đạo** × 1 lần/ngày × 6 ngày.
-- **Policresulen 90 mg đặt âm đạo** × 1 lần/ngày × 6 ngày.
+- **Metronidazole 500 mg uống** x 2 lần/ngày x 7 ngày (uống trong bữa ăn để giảm kích ứng tiêu hóa).
+- **Metronidazole gel 0.75% (5 g)/ngày** x 5 ngày (đặt âm đạo).
+- **Clindamycin 300 mg uống** x 2 lần/ngày x 7 ngày.
+- **Clindamycin 100 mg đặt âm đạo** x 1 lần/ngày x 3 ngày.
+- **Dequalinium chloride 10 mg đặt âm đạo** x 1 lần/ngày x 6 ngày.
+- **Policresulen 90 mg đặt âm đạo** x 1 lần/ngày x 6 ngày.
 
 **Vệ sinh tại chỗ**
 

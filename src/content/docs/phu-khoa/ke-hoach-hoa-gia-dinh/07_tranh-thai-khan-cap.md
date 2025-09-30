@@ -11,7 +11,7 @@ Các phương pháp phổ biến gồm thuốc tránh thai khẩn cấp (levonor
 
 **Tính hiệu quả (Pearl Index, tùy loại và thời điểm dùng):**
 
-- Levonorgestrel (1.5 mg liều duy nhất hoặc 0.75 mg × 2 lần cách nhau 12 giờ): Giảm nguy cơ có thai 75–85%.
+- Levonorgestrel (1.5 mg liều duy nhất hoặc 0.75 mg x 2 lần cách nhau 12 giờ): Giảm nguy cơ có thai 75–85%.
 - Ulipristal acetate (30 mg): Hiệu quả cao hơn levonorgestrel, có thể dùng trong vòng 120 giờ.
 
 **Tính an toàn**:
@@ -61,7 +61,7 @@ Các phương pháp phổ biến gồm thuốc tránh thai khẩn cấp (levonor
 
 Uống thuốc càng sớm càng tốt sau quan hệ (hiệu quả cao nhất trong 24 giờ đầu):
 
-- Levonorgestrel: Uống liều duy nhất 1.5 mg hoặc 0.75 mg × 2 lần (cách nhau 12 giờ).
+- Levonorgestrel: Uống liều duy nhất 1.5 mg hoặc 0.75 mg x 2 lần (cách nhau 12 giờ).
 - Ulipristal acetate: Uống 1 viên 30 mg, hiệu quả đến 120 giờ sau quan hệ.
 - Nếu nôn trong vòng 2 giờ sau uống → cần uống lại liều mới.
 

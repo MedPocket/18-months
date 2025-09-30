@@ -91,10 +91,10 @@ _Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi t
 
 Áp dụng **đơn hóa chất** (khả năng khỏi 98%) hoặc kèm cắt tử cung nếu đã đủ con:
 
-- **MTX 5 ngày**: 0.4 mg/kg/ngày × 5 ngày (≤ 25 mg/ngày), lặp lại mỗi 14 ngày.
+- **MTX 5 ngày**: 0.4 mg/kg/ngày x 5 ngày (≤ 25 mg/ngày), lặp lại mỗi 14 ngày.
 - **MTX/FA 8 ngày**: MTX 1 mg/kg (hoặc 50 mg) ngày 1, 3, 5, 7 + Folinic acid 0.1 mg/kg (hoặc 15 mg) ngày 2, 4, 6, 8, lặp lại mỗi 14 ngày.
 - **MTX liều cao tuần**: 30-50 mg/m² tĩnh mạch/tuần.
-- **Dactinomycin (Act-D)**: 1.25 mg/m² tĩnh mạch mỗi 2 tuần, hoặc 12 µg/kg/ngày × 5 ngày, lặp lại mỗi 14 ngày.
+- **Dactinomycin (Act-D)**: 1.25 mg/m² tĩnh mạch mỗi 2 tuần, hoặc 12 µg/kg/ngày x 5 ngày, lặp lại mỗi 14 ngày.
 - Tiếp tục 2-3 chu kỳ sau khi β-hCG âm tính.
 
 ### Nhóm nguy cơ cao
@@ -106,7 +106,7 @@ _Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi t
 **EMA-CO** (Etoposide, MTX, Act-D/Cyclophosphamide, Vincristine) theo phác đồ 2 tuần:
 
 - **Ngày 1**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5mg tĩnh mạch. MTX 100 mg/m² da tĩnh mạch. MTX 200 mg/m² da tĩnh mạch trong 12 giờ.
-- **Ngày 2**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5mg tĩnh mạch. Folinic acid 15mg tiêm bắp 2 lần/ngày × 2 ngày sau MTX 24 giờ.
+- **Ngày 2**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5mg tĩnh mạch. Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24 giờ.
 - **Ngày 8**: Oncovin (Vincristin) 1 mg/m² da tĩnh mạch, tối đa 2mg. Cyclophosphamid 600 mg/m² da truyền TM trong 30 phút.
 - **Tiêu chuẩn để hóa trị**: Ngày 1 và 2: Bạch cầu ≥ 3000/mm³, bạch cầu đa nhân trung tính ≥ 1500/mm³; Ngày 8: Bạch cầu ≥ 2000/mm³, bạch cầu đa nhân trung tính ≥ 1000/mm³.
 - Lặp lại thêm 3-4 chu kỳ sau khi β-hCG âm tính.
@@ -139,7 +139,7 @@ _Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi t
 Sử dụng **phác đồ**:
 
 - **Ngày 1**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5 mg tĩnh mạch. MTX 100 mg/m² da tĩnh mạch. MTX 200 mg/m² da tĩnh mạch trong 12 giờ.
-- **Ngày 2**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5 mg tĩnh mạch. Folinic acid 15 mg tiêm bắp 2 lần/ngày × 2 ngày sau MTX 24 giờ.
+- **Ngày 2**: Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5 mg tĩnh mạch. Folinic acid 15 mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24 giờ.
 - **Ngày 8**: Oncovin (Vincristin) 1 mg/m² da tĩnh mạch, tối đa 2 mg. Cyclophosphamid 600 mg/m² da truyền TM trong 30 phút.
 
 **Kết hợp xạ trị 3000 cGy**.
@@ -158,7 +158,7 @@ Phẫu thuật **cắt tử cung toàn phần**. **Nạo hạch** (chủ-chậu)
 
 ### Cấp cứu ban đầu
 
-Etoposide 100 mg/m² truyền TM trong 1 giờ + Cisplatin 20 mg/m² truyền TM trong 2 giờ mỗi ngày × 3 ngày, lặp lại hàng tuần cho tới ổn định.
+Etoposide 100 mg/m² truyền TM trong 1 giờ + Cisplatin 20 mg/m² truyền TM trong 2 giờ mỗi ngày x 3 ngày, lặp lại hàng tuần cho tới ổn định.
 
 ### Theo dõi sau điều trị
 

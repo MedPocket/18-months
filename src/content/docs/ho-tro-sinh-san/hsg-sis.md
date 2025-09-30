@@ -31,7 +31,7 @@ Sử dụng tia X với thuốc cản quang bơm ngược vào buồng tử cung
 - Dùng kháng sinh trước và sau: Ofloxacine 200mg x 2 lần/ngày x 14 ngày và Doxycyline 100mg x 2 lần/ngày x 14 ngày. Nếu dị ứng đổi sang Ceftriaxone 500mg x 3 lần/ngày x 7 ngày.
 - Sử dụng giảm đau và kháng viêm không steroid.
 
-### Nhận định kết quả
+### Kết quả
 
 Bình thường:
 
@@ -72,7 +72,7 @@ Tương tự HSG **mang thai**, **nhiễm trùng tiểu khung/cổ tử cung đa
 
 Thực hiện sau sạch kinh giai đoạn sớm.
 
-### Nhận định kết quả
+### Kết quả
 
 Nhận định kết quả SIS:
 

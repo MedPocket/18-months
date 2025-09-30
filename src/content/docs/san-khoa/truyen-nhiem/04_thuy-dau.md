@@ -80,7 +80,7 @@ Nhiễm thủy đậu có thể gây **hội chứng thủy đậu bẩm sinh** 
 
 ### Thuốc kháng virus
 
-- **Acyclovir uống 800 mg mỗi 4 giờ × 5 lần/ngày, 7-10 ngày**.
+- **Acyclovir uống 800 mg mỗi 4 giờ x 5 lần/ngày, 7-10 ngày**.
 - **Trường hợp nặng hoặc viêm phổi**, tiêm TM Acyclovir 10 mg/kg mỗi 8 giờ, 7-10 ngày.
 - Điều chỉnh liều ở bệnh nhân suy thận hoặc có yếu tố nguy cơ.
 

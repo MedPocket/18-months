@@ -133,17 +133,17 @@ _Hình ảnh "Sơ đồ xử trí tiết dịch âm đạo bất thường - B�
 **Neo Penotran (Metronidazole 500 mg + Miconazole nitrate 100 mg)**:
 
 - Điều trị: Viêm âm đạo do vi khuẩn kỵ khí, _Gardnerella vaginalis_, _Trichomonas vaginalis_ và nhiễm hỗn hợp kèm _Candida_.
-- Liều: Đặt 1 viên vào âm đạo trước khi ngủ mỗi đêm × 7 ngày.
+- Liều: Đặt 1 viên vào âm đạo trước khi ngủ mỗi đêm x 7 ngày.
 
 **Sadetabs (Neomycin sulphate 83 mg + Clotrimazole 100 mg + Metronidazole 500 mg)**:
 
 - Điều trị: Viêm âm đạo do tạp khuẩn và nấm _Candida_ nhẹ.
-- Liều: Đặt 1 viên vào âm đạo mỗi đêm × 7 ngày.
+- Liều: Đặt 1 viên vào âm đạo mỗi đêm x 7 ngày.
 
 **Timbov (Clotrimazole 500 mg)**:
 
 - Điều trị: Nhiễm nấm âm hộ âm đạo, đặc biệt _Candida_, hoặc viêm hỗn hợp kèm vi khuẩn, _Trichomonas_.
-- Liều: Đặt 1 viên vào âm đạo trước khi ngủ × 7-14 ngày tùy mức độ.
+- Liều: Đặt 1 viên vào âm đạo trước khi ngủ x 7-14 ngày tùy mức độ.
 
 ## Tài liệu tham khảo
 

@@ -87,7 +87,7 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"_.
 
 **Kháng sinh và hỗ trợ**:
 
-- Ceftriaxone 1 g × 2 lần/ngày × 2 ngày, sau đó uống Cephalosporin + Metronidazole.
+- Ceftriaxone 1 g x 2 lần/ngày x 2 ngày, sau đó uống Cephalosporin + Metronidazole.
 - Oxytocin, Tranexamic, nghỉ ngơi, không giao hợp.
 
 #### HIFU (siêu âm hội tụ cường độ cao)
@@ -103,7 +103,7 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"_.
 - β-hCG < 2000 sau MTX, khối thai nhỏ, không đáp ứng điều trị thuốc.
 - Phân loại COS-2-.
 
-**Kỹ thuật**:
+**Thực hiện**:
 
 - Dùng ống hút nhỏ (Karman 6-8), hút nhẹ vùng trên vết mổ.
 - Tránh hút vùng mỏng vết mổ để hạn chế thủng tử cung.
@@ -113,7 +113,7 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"_.
 
 **Chỉ định**: Thai ≤ 8 tuần.
 
-**Kỹ thuật**:
+**Thực hiện**:
 
 - Đặt foley 14-16 dưới siêu âm, bơm 20-25mL để đẩy túi thai.
 - Rút sau 24 giờ → hút thai bằng Karman 6.
@@ -129,7 +129,7 @@ Theo dõi tương tự điều trị MTX.
 - Người bệnh > 40 tuổi không còn nhu cầu sinh sản.
 - Huyết động không ổn định, xuất huyết nhiều.
 
-**Kỹ thuật**:
+**Thực hiện**:
 
 - Mở bụng cắt khối thai và bảo tồn tử cung nếu có thể, hoặc cắt tử cung hoàn toàn.
 - Chuẩn bị máu, dịch, tư vấn nguy cơ tổn thương bàng quang, niệu quản.

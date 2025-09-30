@@ -152,8 +152,8 @@ Chỉ định khi SIS hoặc TVUS không xác định rõ tổn thương, hoặc
 
 **Cầm máu cấp bằng steroid sinh dục**:
 
-- **Estrogen đơn thuần** (trường hợp chảy máu nặng, nội mạc rất mỏng): Ethinyl estradiol 2 mg × 4 lần/ngày trong 2-3 ngày, sau đó giảm dần dần; Hoặc estradiol valerate 2-3 mg × 3 lần/ngày.
-- **Estrogen phối hợp progestogen**: Ethinyl estradiol 30 µg + Levonorgestrel 150 µg × 2-3 viên/ngày trong 5-7 ngày, sau đó chuyển sang liều duy trì (1 viên/ngày); Hoặc premarin (estrogen liên hợp) 25 mg/ngày × 5-7 ngày, sau đó bổ sung progestin (medroxyprogesterone acetate 10 mg/ngày × 10-14 ngày).
+- **Estrogen đơn thuần** (trường hợp chảy máu nặng, nội mạc rất mỏng): Ethinyl estradiol 2 mg x 4 lần/ngày trong 2-3 ngày, sau đó giảm dần dần; Hoặc estradiol valerate 2-3 mg x 3 lần/ngày.
+- **Estrogen phối hợp progestogen**: Ethinyl estradiol 30 µg + Levonorgestrel 150 µg x 2-3 viên/ngày trong 5-7 ngày, sau đó chuyển sang liều duy trì (1 viên/ngày); Hoặc premarin (estrogen liên hợp) 25 mg/ngày x 5-7 ngày, sau đó bổ sung progestin (medroxyprogesterone acetate 10 mg/ngày x 10-14 ngày).
 
 :::caution
 Estrogen cần được cho đủ liều để nội mạc phát triển nhanh nhằm bít kín mạch máu hở. Không nên tăng liều quá mức, vì tác dụng genomic cần thời gian và liều quá cao tăng nguy cơ huyết khối.
@@ -161,12 +161,12 @@ Estrogen cần được cho đủ liều để nội mạc phát triển nhanh n
 
 **Cầm máu cấp bằng hỗ trợ không chuyên biệt**:
 
-- **NSAID** (giảm prostaglandin, co mạch nhẹ): Ibuprofen 400-600 mg × 3 lần/ngày, hoặc naproxen 500 mg × 2 lần/ngày, dùng trong 3-5 ngày đầu chảy máu.
-- **Anti-fibrinolytics**: Tranexamic acid 1 g × 3-4 lần/ngày khi còn chảy máu, tối đa 4-5 ngày; Giúp giảm thể tích máu mất khoảng 30-50%.
+- **NSAID** (giảm prostaglandin, co mạch nhẹ): Ibuprofen 400-600 mg x 3 lần/ngày, hoặc naproxen 500 mg x 2 lần/ngày, dùng trong 3-5 ngày đầu chảy máu.
+- **Anti-fibrinolytics**: Tranexamic acid 1 g x 3-4 lần/ngày khi còn chảy máu, tối đa 4-5 ngày; Giúp giảm thể tích máu mất khoảng 30-50%.
 
 **Xử trí nguyên nhân nội tiết**:
 
-- **Progestogen đơn thuần** (đối với rối loạn phóng noãn hoặc nội mạc suy yếu): Medroxyprogesterone acetate 10-20 mg/ngày (ngày 14-25 chu kỳ hoặc 10-14 ngày mỗi tháng); Hoặc Dydrogesterone 10 mg × 2 lần/ngày (ngày 14-25 chu kỳ); Hoặc Levonorgestrel IUD (LNG-IUD) phóng thích 20 µg/ngày cầm máu hiệu quả cao trong cầm máu AUB do nguyên nhân nội mạc, u xơ dưới niêm mạc nhỏ, PCOS. Dùng dài hạn (5 năm), đồng thời bảo vệ nội mạc khỏi tăng sinh do estrogen ngoại sinh.
+- **Progestogen đơn thuần** (đối với rối loạn phóng noãn hoặc nội mạc suy yếu): Medroxyprogesterone acetate 10-20 mg/ngày (ngày 14-25 chu kỳ hoặc 10-14 ngày mỗi tháng); Hoặc Dydrogesterone 10 mg x 2 lần/ngày (ngày 14-25 chu kỳ); Hoặc Levonorgestrel IUD (LNG-IUD) phóng thích 20 µg/ngày cầm máu hiệu quả cao trong cầm máu AUB do nguyên nhân nội mạc, u xơ dưới niêm mạc nhỏ, PCOS. Dùng dài hạn (5 năm), đồng thời bảo vệ nội mạc khỏi tăng sinh do estrogen ngoại sinh.
 - **Liệu pháp phối hợp estrogen - progestogen (COC)**: Ethinyl estradiol 30 µg + Levonorgestrel 150 µg: Dùng hàng ngày trong 21 ngày, nghỉ 7 ngày; Có thể chỉ định liên tục (28 ngày liền) nếu cần ổn định nội mạc nhanh.
 - **GnRH đồng vận (GnRH agonist)**: Leuprolide 3.75 mg tiêm bắp mỗi tháng hoặc 11.25 mg mỗi 3 tháng. Tạo _cắt tuyến yên nội khoa_, giảm sản xuất estrogen từ buồng trứng. Chỉ định ngắn hạn (6 tháng), thường kết hợp add-back therapy (estrogen/progestin liều thấp) để giảm triệu chứng mãn kinh.
 - **Selective Estrogen Receptor Modulator (SERM)**: Clomiphene citrate 50-100 mg/ngày (ngày 5-9 chu kỳ) để kích phóng noãn ở trường hợp PCOS; Hoặc Raloxifene không thường dùng cho AUB nhưng có thể tác động đến nội mạc.

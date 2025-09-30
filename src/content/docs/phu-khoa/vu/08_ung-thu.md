@@ -164,7 +164,7 @@ _Hình ảnh "Lộ trình của các ngón tay khi tự khám vú"_.
 - Chẩn đoán mô học xác định ung thư hoặc lành tính.
 - Lấy đủ mô để nghiên cứu về các chỉ điểm hóa mô miễn dịch (ER, PR, HER2) trước khi quyết định phẫu thuật và điều trị toàn thân.
 
-**Kỹ thuật**:
+**Thực hiện**:
 
 - Dùng kim lõi trung bình (14-18G) dưới hướng dẫn của hình ảnh (nhũ ảnh đối với vôi hóa, siêu âm đối với khối u sờ thấy hoặc không sờ thấy).
 - Có thể đánh dấu vị trí bằng kim titanium để hỗ trợ phẫu thuật định vị sau này.
@@ -175,7 +175,7 @@ _Hình ảnh "Lộ trình của các ngón tay khi tự khám vú"_.
 
 **Mục đích**: Lấy tế bào từ khối u hoặc hạch nghi ngờ di căn để xét nghiệm tế bào học nhanh.
 
-**Kỹ thuật**: Kim nhỏ (20-22G) xuyên qua da vào khối để hút tế bào.
+**Thực hiện**: Kim nhỏ (20-22G) xuyên qua da vào khối để hút tế bào.
 
 **Ưu - Nhược điểm**:
 

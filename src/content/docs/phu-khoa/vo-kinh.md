@@ -114,7 +114,7 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 
 #### Thử nghiệm nội tiết động
 
-- **Thử thách progestin** (medroxyprogesterone 5-10 mg × 7-10 ngày).
+- **Thử thách progestin** (medroxyprogesterone 5-10 mg x 7-10 ngày).
 - **Thử thách estrogen/progestin** (estrogen 21 ngày + progestin 7-10 ngày).
 - **Thử nghiệm clomiphene hoặc gonadotropin stimulation**.
 
@@ -123,7 +123,7 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 Điều trị tùy **theo nguyên nhân** và **mong muốn sinh đẻ**:
 
 - **Gây rụng trứng**: Clomiphene citrate, letrozole, gonadotropin.
-- **Thay thế hormon**: Vòng kinh nhân tạo (estriol 1 mg × 14 ngày → kết hợp estrogen/progestin 12 ngày; Dừng 2 ngày để xuất huyết); Điều trị kéo dài để phòng loãng xương, khô âm đạo.
+- **Thay thế hormon**: Vòng kinh nhân tạo (estriol 1 mg x 14 ngày → kết hợp estrogen/progestin 12 ngày; Dừng 2 ngày để xuất huyết); Điều trị kéo dài để phòng loãng xương, khô âm đạo.
 - **Giảm thừa androgen**: Spironolactone, thuốc ức chế androgen, biện pháp tẩy lông.
 - **Phẫu thuật hoặc can thiệp giải phẫu**: Nong/khâu mở cổ tử cung, tách dính trong Asherman; Điều trị u vùng hạ đồi/tuyến yên.
 

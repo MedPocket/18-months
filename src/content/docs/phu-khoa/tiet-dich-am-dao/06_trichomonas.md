@@ -45,7 +45,7 @@ _Trichomonas vaginalis_ là ký sinh trùng hình chiếc lá, có 4 roi ở vù
 
 **Soi tươi**:
 
-- Lấy dịch âm đạo (hoặc niệu đạo nam giới) pha loãng với NaCl 0.9%, soi tươi ngay dưới kính hiển vi ×400-×1000.
+- Lấy dịch âm đạo (hoặc niệu đạo nam giới) pha loãng với NaCl 0.9%, soi tươi ngay dưới kính hiển vi x400-x1000.
 - Thấy trùng roi _T. vaginalis_ di động, kích thước 10-20 µm, chuyển động lắc lư, kèm tăng bạch cầu trung tính (≥ 10 bạch cầu/khung trung bình).
 - Độ nhạy 60-70%, phụ thuộc chất lượng mẫu và kinh nghiệm người soi.
 
@@ -100,7 +100,7 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 
 **Metronidazole kéo dài**:
 
-- 500 mg uống 2 lần/ngày × 7 ngày (dùng khi liều đơn thất bại hoặc trường hợp đề kháng).
+- 500 mg uống 2 lần/ngày x 7 ngày (dùng khi liều đơn thất bại hoặc trường hợp đề kháng).
 - Khuyến cáo dùng trong bữa ăn để giảm kích ứng tiêu hóa.
 
 ### Đặc biệt
@@ -109,11 +109,11 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 
 - Metronidazole 2 g liều đơn vẫn được chấp nhận sau 1 quý đầu thai kỳ nếu lợi ích vượt rủi ro.
 - Tránh dùng trong 3 tháng đầu (đặc biệt liều kéo dài).
-- Nếu cần, có thể dùng Metronidazole 500 mg × 2 lần/ngày × 7 ngày sau quý I.
+- Nếu cần, có thể dùng Metronidazole 500 mg x 2 lần/ngày x 7 ngày sau quý I.
 
 **Trường hợp tái phát hoặc kháng thuốc**:
 
-- Nếu tái phát sau 3 tháng, dùng Metronidazole 500 mg × 2 lần/ngày × 7 ngày.
+- Nếu tái phát sau 3 tháng, dùng Metronidazole 500 mg x 2 lần/ngày x 7 ngày.
 - Nếu tiếp tục tái phát, chuyển sang Tinidazole 2 g liều đơn hoặc điều trị kéo dài Metronidazole.
 
 ### Bạn tình

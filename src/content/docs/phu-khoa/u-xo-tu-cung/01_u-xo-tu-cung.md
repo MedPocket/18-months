@@ -110,7 +110,7 @@ _Hình ảnh "Leiomyosarcoma trên MRI"_.
 
 | Phương pháp nội khoa điều trị u xơ | Mục tiêu                  | Ghi chú                                                               |
 | ---------------------------------- | ------------------------- | --------------------------------------------------------------------- |
-| **Tranexamic acid**                | Giảm cường kinh           | 250-500 mg × 3 lần/ngày; Chống chỉ định tràn khí màng phổi/thuyên tắc |
+| **Tranexamic acid**                | Giảm cường kinh           | 250-500 mg x 3 lần/ngày; Chống chỉ định tràn khí màng phổi/thuyên tắc |
 | **COC**                            | Giảm máu kinh             | Không ảnh hưởng khối u                                                |
 | **Progestin (LNG-IUS, implant)**   | Tạo teo nội mạc, giảm máu | LNG-IUS không giảm thể tích u                                         |
 | **GnRHa**                          | Giảm > 50% thể tích u     | Chuẩn bị trước mổ 1-3 tháng; Hạn chế < 6 tháng, có flare-up           |

@@ -71,25 +71,25 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 **Phác đồ khuyến cáo 1**:
 
 - Azithromycin 1 g (uống) khi nhập viện.
-- Ampicillin 2 g (tĩnh mạch chậm) mỗi 6 giờ × 48 giờ.
-- Sau đó Amoxicillin 500mg (uống) mỗi 8 giờ × 5 ngày.
+- Ampicillin 2 g (tĩnh mạch chậm) mỗi 6 giờ x 48 giờ.
+- Sau đó Amoxicillin 500mg (uống) mỗi 8 giờ x 5 ngày.
 
 **Phác đồ khuyến cáo 2**:
 
 - Ampicillin 1 g (uống) khi nhập viện.
-- Cefazolin 1 g (tĩnh mạch chậm) mỗi 8 giờ × 48 giờ.
-- Sau đó Cephalexin 500mg (uống) mỗi 6 giờ × 5 ngày.
+- Cefazolin 1 g (tĩnh mạch chậm) mỗi 8 giờ x 48 giờ.
+- Sau đó Cephalexin 500mg (uống) mỗi 6 giờ x 5 ngày.
 
 **Phác đồ dị ứng nặng với Penicillin**:
 
 - Azithromycin 1 g (uống) khi nhập viện.
-- Clindamycin 900 mg (truyền TM) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền TM) mỗi 24 giờ × 48 giờ.
-- Sau đó Clindamycin 300mg (uống) mỗi 8 giờ × 5 ngày.
+- Clindamycin 900 mg (truyền TM) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền TM) mỗi 24 giờ x 48 giờ.
+- Sau đó Clindamycin 300mg (uống) mỗi 8 giờ x 5 ngày.
 
 **Phác đồ GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ**:
 
 - Azithromycin 1 g (uống) khi nhập viện.
-- Vancomycin 20 mg/kg (tối đa 2 g/ngày) mỗi 24 giờ × 48 giờ.
+- Vancomycin 20 mg/kg (tối đa 2 g/ngày) mỗi 24 giờ x 48 giờ.
 - Cần đo creatinine trước dùng. Cân nhắc độc tính thận ở liều cao hoặc thời gian dùng kéo dài.
 
 **Corticosteroids** dùng sớm cho mẹ để giảm nguy cơ suy hô hấp sơ sinh, ngay cả khi chưa chắc đủ thời gian hoàn tất phác đồ.

@@ -177,7 +177,7 @@ Sau khi ổn định, xem xét kết quả sinh thiết để hướng điều t
 
 - Ưu tiên progestin có hoạt tính kháng estrogen mạnh, ít ức chế trục HPG (ví dụ: Medroxyprogesterone acetate, Dydrogesterone, hoặc Levonorgestrel IUD).
 - Medroxyprogesterone acetate 10-20 mg/ngày (ngày 5-25 chu kỳ), hoặc
-- Dydrogesterone 10 mg × 2/ngày trong 10-14 ngày.
+- Dydrogesterone 10 mg x 2/ngày trong 10-14 ngày.
 - Levonorgestrel intrauterine device (LNG-IUD) phóng thích 20 µg/ngày có thể dùng để điều trị dài hạn, vừa cầm máu vừa ngừa tăng sinh nội mạc.
 
 **Liệu pháp phối hợp estrogen-progestogen (COC)**:

@@ -132,9 +132,9 @@ Nhiều loại tăng sinh có thể cùng tồn tại với ung thư nội mạc
 
 **Thuốc lựa chọn**:
 
-- Medroxyprogesterone acetate (MPA): Đường uống: 10 mg/ngày trong 3-6 tháng, hoặc 10 mg/ngày × 12-14 ngày mỗi tháng; Đường tiêm bắp (DMPA depot): 150 mg mỗi 3-6 tháng.
+- Medroxyprogesterone acetate (MPA): Đường uống: 10 mg/ngày trong 3-6 tháng, hoặc 10 mg/ngày x 12-14 ngày mỗi tháng; Đường tiêm bắp (DMPA depot): 150 mg mỗi 3-6 tháng.
 - Levonorgestrel (LNG-IUD): Phóng thích 15-20 µg/ngày, thời gian tác dụng 3-5 năm (Mirena®, Liletta®).
-- Micronized progesterone (đối với đơn giản điển hình): 200 mg/ngày × 12-14 ngày/tháng trong 3-6 tháng; Utrogestan®, Cyclogest®: 100-200 mg đặt âm đạo/ngày × 14 ngày/tháng.
+- Micronized progesterone (đối với đơn giản điển hình): 200 mg/ngày x 12-14 ngày/tháng trong 3-6 tháng; Utrogestan®, Cyclogest®: 100-200 mg đặt âm đạo/ngày x 14 ngày/tháng.
 
 **Theo dõi sau điều trị**:
 

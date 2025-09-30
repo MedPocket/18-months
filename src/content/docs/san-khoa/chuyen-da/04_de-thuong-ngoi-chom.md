@@ -51,7 +51,7 @@ _Hình ảnh "Xuống và xoay trong"_.
 
 Sổ thai xảy ra khi ngôi vượt qua eo dưới, điểm tựa chính là **bờ dưới khớp vệ**, nơi ngôi thực hiện động tác sổ ra ngoài.
 
-## Kỹ thuật đỡ đẻ
+## Thực hiện đỡ đẻ
 
 Các giai đoạn **(a → d)** xảy ra theo cơ chế tự nhiên, **không được can thiệp**:
 
