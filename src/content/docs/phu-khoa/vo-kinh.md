@@ -15,7 +15,7 @@ description: Định nghĩa, bệnh sinh, nguyên nhân, đánh giá chẩn đo�
 
 ## Bệnh sinh
 
-Khi một phần của trục hạ đồi-yên-buồng trứng gặp trục trặc, sự rối loạn chức năng rụng trứng sẽ dẫn đến:
+Khi trục hạ đồi-yên-buồng trứng gặp trục trặc, sự rối loạn chức năng rụng trứng sẽ dẫn đến:
 
 - Chu kỳ sản sinh estrogen do gonadotropin kích thích bị gián đoạn.
 - Nội mạc tử cung không phát triển theo chu kỳ.
