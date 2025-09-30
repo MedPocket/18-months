@@ -34,67 +34,10 @@ Tắc vòi trứng (Fallopian tube obstruction) là một trong những nguyên 
 
 ### Cận lâm sàng
 
-#### Chụp tử cung-vòi trứng (HSG)
-
-Chỉ định:
-
-- Đánh giá thông vòi trứng và hình thái buồng tử cung trong khảo sát vô sinh/hiếm muộn; Nghi ngờ dính buồng tử cung, polyp, u xơ dưới niêm, dị dạng tử cung.
-- Đánh giá sau thắt/đoạn nhánh vòi trứng (kiểm tra tắc), sau nối lại vòi (kiểm tra thông).
-
-Chống chỉ định:
-
-- Tuyệt đối khi đang/khả năng mang thai; viêm tiểu khung/nhiễm trùng sinh dục đang hoạt động; dị ứng nặng với thuốc cản quang iod.
-- Tương đối ra máu âm đạo nhiều/đang viêm cấp cổ tử cung; nghi lao sinh dục; bệnh tuyến giáp cường do iod; mới phẫu thuật vùng chậu; đau nhiễm trùng chưa kiểm soát.
-
-Thời điểm: Sau sạch kinh **ngày 6-11** (tránh thai sớm, hạn chế nhiễm trùng).
-
-Nhận định kết quả:
-
-- Bình thường buồng tử cung tam giác đều, thấy thuốc đi qua vòi 2 bên, **tràn tự do ổ bụng**.
-- Tắc gần (đoạn kẽ/eo): Thuốc **dừng ở góc tử cung**; nghĩ đến **co thắt** hoặc **nhầy nút** → cân nhắc **chụp chọn lọc/canulation** để loại trừ **dương tính giả**.
-- Tắc xa (đoạn bóng/loa): Vòi **giãn hình bóng đèn**, **không tràn** thuốc.
-- Hydrosalpinx: Vòi giãn lớn, **ứ thuốc**; thường không tràn.
-- Dính phúc mạc quanh vòi: Thuốc thoát **ít/khu trú**, vờn quanh một chỗ, không lan tỏa.
-- Tổn thương buồng tử cung: Khuyết thuốc (polyp/u xơ dưới niêm), biến dạng (dính, vách ngăn, hai sừng).
-
-Biến chứng:
-
-- Thường gặp đau quặn, ra huyết nhẹ, phản xạ **vagal** (choáng váng).
-- Ít gặp **nhiễm trùng vùng chậu**, **dị ứng iod**, chảy máu, **tổn thương/đâm thủng tử cung**.
-
-#### Siêu âm bơm nước buồng tử cung-vòi trứng (SIS/HyCoSy)
-
-Chỉ định:
-
-- Khảo sát buồng tử cung (polyp, u xơ dưới niêm, dính, dị dạng) và **đánh giá thông vòi** trong **vô sinh/hiếm muộn**.
-- Lựa chọn thay thế **không tia X**, thuận tiện ngoại trú.
-
-Chống chỉ định: Tương tự HSG **mang thai**, **nhiễm trùng tiểu khung/cổ tử cung đang hoạt động**; thận trọng khi **ra máu nhiều**, **đau nhiễm trùng chưa kiểm soát**.
-
-Thời điểm: Sau sạch kinh giai đoạn sớm.
-
-Nhận định kết quả SIS:
-
-- Bình thường khoang đều, đường viền trơn láng.
-- Bất thường **khuyết** (polyp/u xơ), **dải dính**, **vách ngăn**, bất thường hình dạng.
-
-Nhận định kết quả HyCoSy:
-
-- Thông: Thấy **dòng vi bọt** đi qua vòi và **tràn tự do túi cùng**.
-- Nghi tắc gần: Không thấy dòng qua đoạn kẽ; cân nhắc co thắt → có thể lặp lại/chuyển phương tiện khác.
-- Tắc xa/Hydrosalpinx: Giãn vòi, ứ vi bọt, **không tràn** túi cùng.
-- Dính phúc mạc: Vi bọt **đọng khu trú**, không lan toả.
-
-Biến chứng: Nhẹ, hiếm đau quặn, choáng váng, ra huyết nhẹ, nhiễm trùng rất hiếm.
-
-#### Nội soi ổ bụng
-
-Tiêu chuẩn vàng, cho phép quan sát trực tiếp tình trạng vòi, mức độ dính vùng chậu, có thể kết hợp phẫu thuật.
-
-#### Xét nghiệm kèm theo
-
-- Công thức máu, CRP nếu nghi viêm.
-- Xét nghiệm Chlamydia.
+- Chụp tử cung-vòi trứng (HSG).
+- Siêu âm bơm nước buồng tử cung-vòi trứng (SIS/HyCoSy).
+- Nội soi ổ bụng: **Tiêu chuẩn vàng** cho phép quan sát trực tiếp tình trạng vòi, mức độ dính vùng chậu, có thể kết hợp phẫu thuật.
+- Xét nghiệm kèm theo: Công thức máu, CRP nếu nghi viêm, chlamydia.
 
 ## Điều trị
 

@@ -215,9 +215,11 @@ export const sidebar = starlightSidebarTopics([
     link: "/ho-tro-sinh-san/",
     icon: "random",
     items: [
-      "ho-tro-sinh-san/buong-trung-da-nang",
-      "ho-tro-sinh-san/tac-voi-trung",
+      "ho-tro-sinh-san/pcos",
+      "ho-tro-sinh-san/hiem-muon-khong-rung-trung",
       "ho-tro-sinh-san/kich-trung",
+      "ho-tro-sinh-san/tac-voi-trung",
+      "ho-tro-sinh-san/hsg-sis",
     ],
   },
 ]);
