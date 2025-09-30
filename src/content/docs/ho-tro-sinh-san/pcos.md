@@ -16,7 +16,7 @@ Chẩn đoán hội chứng buồng trứng đa nang khi có 2/3 tiêu chuẩn k
 
 - Rối loạn phóng noãn hay không phóng noãn.
 - Cường androgen.
-- Hình ảnh buồng trứng đa nang trên siêu âm. 
+- Hình ảnh buồng trứng đa nang trên siêu âm.
 
 :::
 
