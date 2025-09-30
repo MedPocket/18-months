@@ -1,9 +1,9 @@
 ---
-title: Tắc vòi trứng
-description: Tắc vòi trứng là tình trạng vòi tử cung bị bít tắc một phần hoặc toàn bộ, gây cản trở quá trình thụ tinh và vận chuyển phôi, là nguyên nhân thường gặp của vô sinh nữ.
+title: Tổn thương ống dẫn trứng
+description: Tổn thương ống dẫn trứng là tình trạng vòi tử cung bị bít tắc một phần hoặc toàn bộ, gây cản trở quá trình thụ tinh và vận chuyển phôi, là nguyên nhân thường gặp của vô sinh nữ.
 ---
 
-Tắc vòi trứng (Fallopian tube obstruction) là một trong những nguyên nhân phổ biến nhất của vô sinh ở nữ giới, chiếm khoảng 25-35% các trường hợp. Vòi tử cung đóng vai trò quan trọng trong việc tiếp nhận noãn, là nơi thụ tinh và vận chuyển phôi vào buồng tử cung. Khi vòi bị tắc, quá trình thụ tinh và làm tổ bị cản trở, đồng thời làm tăng nguy cơ chửa ngoài tử cung.
+Tổn thương ống dẫn trứng là một trong những nguyên nhân phổ biến nhất của vô sinh ở nữ giới, chiếm khoảng 25-35% các trường hợp. Vòi tử cung đóng vai trò quan trọng trong việc tiếp nhận noãn, là nơi thụ tinh và vận chuyển phôi vào buồng tử cung. Khi vòi bị tắc, quá trình thụ tinh và làm tổ bị cản trở, đồng thời làm tăng nguy cơ chửa ngoài tử cung.
 
 ## Nguyên nhân
 
@@ -57,10 +57,24 @@ Tắc vòi trứng (Fallopian tube obstruction) là một trong những nguyên 
 
 - **Nội soi ổ bụng - tái tạo vòi tử cung**: Cắt dính, mở loa vòi, nối vòi.
 - **Cắt bỏ vòi tử cung (salpingectomy)**: Khi vòi bị tổn thương nặng, hydrosalpinx lớn, hoặc thất bại điều trị bảo tồn.
-- **Hỗ trợ sinh sản (IVF - thụ tinh trong ống nghiệm)**: Là phương pháp hiệu quả nhất đối với tắc vòi trứng hai bên hoặc không thể tái thông. Trường hợp hydrosalpinx, nên cắt bỏ vòi trước khi IVF để tăng tỉ lệ thành công.
+- **Hỗ trợ sinh sản (IVF - thụ tinh trong ống nghiệm)**: Là phương pháp hiệu quả nhất đối với tổn thương ống dẫn trứng 2 bên hoặc không thể tái thông. Trường hợp hydrosalpinx, nên cắt bỏ vòi trước khi IVF để tăng tỉ lệ thành công.
+
+## Tiên lượng
+
+Tắc vòi trứng đoạn gần:
+
+- Nếu tắc vòi trứng đoạn gần không phải do SIN có thể cân nhắc chụp lần 2 hay thực hiện thông vòi trứng.
+- Tỷ lệ khai thông là 85%, 50% có thai, 1/3 trường hợp sau đó tắc lại.
+
+Tắc vòi dẫn trứng đoạn xa:
+
+- Tiên lượng tốt nếu dải dính 2 phần phụ ít. Vòi dãn nhẹ <3 cm, thành mềm mại và mỏng. Nếp niêm mạc còn tốt. Tỷ lệ có thai sau 12 tháng nội soi gỡ dính là 40%. Nội soi tái tạo
+  loa vòi trường hợp ứ dịch nhẹ tỷ lệ có thai là 58-77%.
+- Tiên lượng xấu nếu vòi dính dày đặc, vòi dãn rộng thành xơ hóa và/hoặc giảm hay mất nếp niêm mạc.
 
 ## Nguồn tham khảo
 
+- Bệnh Viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
 - Bộ Y tế Việt Nam - _Hướng dẫn chẩn đoán và điều trị vô sinh_
 - WHO - _Infertility: a tabulation of available data on prevalence_
 - Practice Committee of the American Society for Reproductive Medicine - _Role of tubal surgery in the era of assisted reproductive technology_

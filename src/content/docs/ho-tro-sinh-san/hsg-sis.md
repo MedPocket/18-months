@@ -57,7 +57,7 @@ Sử dụng nghiệm pháp Cotte đánh giá lan tỏa thuốc trong vùng chậ
 
 ## Siêu âm bơm nước buồng tử cung - vòi trứng
 
-Bơm nước muối hoặc dung dịch vi bọt qua cổ tử cung để khảo sát buồng tử cung và sự thông thương vòi trứng bằng siêu âm..
+Bơm nước muối hoặc dung dịch vi bọt qua cổ tử cung để khảo sát buồng tử cung và sự thông thương vòi trứng bằng siêu âm.
 
 ### Chỉ định
 
