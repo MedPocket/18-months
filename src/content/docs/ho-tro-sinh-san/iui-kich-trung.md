@@ -3,117 +3,116 @@ title: Kích trứng trong IUI
 description: Phác đồ kích thích buồng trứng trong IUI.
 ---
 
-Trong IUI, thường kích thích buồng trứng (thay vì để rụng trứng tự nhiên) nhằm:
+Trong IUI, kích thích buồng trứng thường được sử dụng (thay vì để rụng trứng tự nhiên) nhằm:
 
-- Tạo nhiều nang noãn trưởng thành hơn → tăng khả năng có ít nhất 1 trứng tốt để thụ tinh.
-- Đồng bộ thời điểm rụng trứng với bơm tinh trùng.
-- Tăng tỷ lệ thành công (so với chu kỳ tự nhiên).
+- Tạo nhiều nang noãn trưởng thành hơn → tăng cơ hội có ít nhất 1 trứng chất lượng để thụ tinh.
+- Đồng bộ thời điểm rụng trứng với thời điểm bơm tinh trùng.
+- Nâng cao tỷ lệ thành công so với chu kỳ tự nhiên.
 
 ## Chỉ định
 
-Có chỉ định làm IUI sau khi đã thăm dò các bilan hiếm muộn:
+Chỉ định IUI được đặt ra sau khi đã thăm dò hiếm muộn đầy đủ:
 
-- Có ít nhất 1 ống dẫn trứng thông trên phim HSG và sau mổ nội soi.
-- Định lượng nội tiết cơ bản nằm trong giới hạn.
-- Chưa phát hiện bất thường trong lòng tử cung và 2 buồng trứng.
-- Tinh trùng có thể thực hiện IUI.
+- Có ít nhất 1 vòi trứng thông trên phim HSG hoặc sau nội soi.
+- Định lượng nội tiết cơ bản trong giới hạn.
+- Không phát hiện bất thường trong buồng tử cung và hai buồng trứng.
+- Tinh trùng đủ điều kiện thực hiện IUI.
 
-Bên cạnh đó cần đầy đủ giấy tờ chứng minh tình trạng hôn nhân.
+Ngoài ra, cần có giấy tờ hợp pháp chứng minh tình trạng hôn nhân.
 
 ## Các phác đồ kích trứng trong IUI
 
-_Hình ảnh "Lược đồ tiếp cận bệnh nhân kích thích đơn noãn" - Bệnh viện Hùng Vương._
+_Hình: "Lược đồ tiếp cận bệnh nhân kích thích đơn noãn" - Bệnh viện Hùng Vương_  
 ![Lược đồ tiếp cận bệnh nhân kích thích đơn noãn](./_images/iui-kich-trung/horem-luoc-do-tiep-can-kich-trung-don-noan.png)
 
-### Clomiphene citrate
+### Clomiphene citrate (CC)
 
-#### Chỉ định
+CC là thuốc kháng estrogen. Hiệu quả với bệnh nhân rối loạn phóng noãn WHO nhóm 2; không hiệu quả với nhóm 1 và 3.
 
-Clomiphene citrate (CC) là chất kháng estrogen. Hiệu quả trên những BN rối loạn phóng noãn WHO nhóm 2 nhưng không hiệu quả trên nhóm 1 và 3.
-
-_Theo WHO, không phóng noãn được chia thành 3 nhóm:<br>- Nhóm 1 (10%): Nguồn gốc từ hạ đồi - tuyến yên → nồng độ gonadotropins thấp lẫn estrogen thấp.<br>- Nhóm 2 (80-90%): FSH và estrogen bình thường, đa phần do hội chứng buồng trứng đa nang.<br>- Nhóm 3 (5%): Suy giảm chức năng buồng trứng → estrogen thấp nhưng gonadotropin tăng cao._
+_Theo WHO, vô phóng noãn được chia 3 nhóm:<br>- Nhóm 1 (10%): Suy hạ đồi - tuyến yên → gonadotropin thấp, estrogen thấp.<br>- Nhóm 2 (80-90%): FSH và estrogen bình thường, thường gặp trong PCOS.<br>- Nhóm 3 (5%): suy buồng trứng → estrogen thấp, gonadotropin tăng cao._
 
 #### Thực hiện
 
-Liều 25 mg x 2 lần/ngày từ ngày 2-5 chu kỳ kinh, tối đa 150 mg. Đề kháng với CC khi không phóng noãn với liều 200 mg/ngày.
+Liều: 25 mg x 2 lần/ngày từ ngày 2-5 chu kỳ. Đề kháng CC khi không phóng noãn với liều 200 mg/ngày.  
+Siêu âm ngày 10:
 
-Siêu âm đánh giá nang noãn vào ngày 10 chu kỳ kinh:
-- Nếu xuất hiện nang trội > 12 mm tiếp tục theo dõi đến khi trưởng thành.
-- Nếu không xuất hiện siêu âm lại ngày 13 và 14 chu kỳ kinh.
-- Không đáp ứng nếu 16-17 chu kỳ kinh không có nang trọi.
-- Nếu nang > 25 mm vào ngày 10, quan hệ tự nhiên, tiên lượng nang trống.
+- Có nang > 12 mm → tiếp tục theo dõi.
+- Không có nang → siêu âm lại ngày 13-14.
+- Không nang trội đến ngày 16-17 → không đáp ứng.
+- Nang > 25 mm sớm → thường nang trống.
 
-Đỉnh LH xuất hiện sau 5-12 ngày sau viên CC cuối cùng:
+Đỉnh LH xuất hiện 5-12 ngày sau viên CC cuối cùng.
 
-- Không chủ động trưởng thành noãn: Quan hệ cách ngày trong 1 tuần sau viên CC cuối cùng.
-- Chủ động trưởng thành noãn khi có nang trội 18-20 mm: hCG 5000 IU (Pregnyl). hCG không được khuyến cáo sử dụng cho những trường hợp có đỉnh LH nội sinh.
+- Không tiêm hCG: khuyến khích giao hợp cách ngày trong 1 tuần sau liều cuối.
+- Có nang 18-20 mm: có thể tiêm hCG 5000 IU, tránh dùng nếu đã có đỉnh LH nội sinh.
 
 Tác dụng phụ:
 
-- Làm chất nhày cổ tử cung đặc và ít.
-- Làm mỏng niêm mạc tử cung.
-- Giảm sự chấp nhận nội mạc và tăng tỷ lệ sảy thai sớm.
+- Làm chất nhầy cổ tử cung ít, đặc; niêm mạc tử cung mỏng.
+- Giảm khả năng tiếp nhận nội mạc, tăng nguy cơ sảy thai sớm.
 - Giảm tưới máu cơ tử cung.
-- Nóng mặt, chướng bụng, căng ngực, buồn nôn, nôn, hoa mắt, nhức đầu.
+- Nóng mặt, căng ngực, chướng bụng, buồn nôn, nhức đầu, hoa mắt.
 
 #### Đánh giá
 
-Trong 6 chu kỳ đầu dùng CC, tỷ lệ phóng noãn 73%. Tỷ lệ ngày giảm theo tuổi bệnh nhân, BMI và FAI tăng. Sau 6 tháng tỷ lệ có thai giảm do tác dụng kháng estrogen với niêm mạc và chất nhày cổ tử cung.
+Trong 6 chu kỳ đầu tỷ lệ phóng noãn 73%. Sau 6 tháng tỷ lệ có thai giảm do tác dụng kháng estrogen.
 
-Thất bại với CC:
+**Xử trí thất bại với CC**:
 
-- Tăng liều đến 200-250 mmg x 8-10 ngày.
-- Giảm cân phối hợp với CC. Sử dụng metformin với CC, liều 500 mg x 2 lần/ngày x 8 tuần với trường hợp đề kháng với insulin.
-- Dexamethasone 0.5 mg x 1 lần/ngày với CC hoặc thuốc ngừa thai dạng uống với trường hợp WHO nhóm 2 có DHEA > 2 µg/mL.
-- Phối hợp gonadotrophin (hMG, rFSH).
-- Sử dụng aromatase inhibitor thay thế.
-- Điều chỉnh prolactine máu nếu cao bằng bromocriptine hoặc carbegolin.
-- Nội soi đốt điểm.
+- Tăng liều đến 200-250 mg x 8-10 ngày.
+- Giảm cân kết hợp CC; phối hợp metformin (500 mg x 2 lần/ngày x 8 tuần) ở bệnh nhân kháng insulin.
+- Dexamethasone 0.5 mg/ngày kết hợp CC hoặc OCP khi WHO nhóm 2 có DHEA > 2 µg/mL.
+- Kết hợp gonadotrophin (hMG, rFSH).
+- Thay thế bằng aromatase inhibitor.
+- Điều chỉnh prolactin bằng bromocriptine/cabergoline khi tăng prolactin máu.
+- Nội soi đốt điểm buồng trứng.
 
-### Aromatase inhibitor
+### Aromatase inhibitor (AI)
 
-#### Chi định
+AI ức chế enzym aromatase, giảm tổng hợp estrogen → tăng tiết FSH. Không gây bất lợi trên niêm mạc tử cung và chất nhầy cổ tử cung như CC.
 
-Aromatase inhibitor (AI) là men phụ thuộc ty thể P450, tham gia bước cuối chuyển hóa androgen thành estrogen. AI ức chế men aromatase bằng cách gắn kết với heme của men này làm giảm hoạt tính với estrogen. Khi nống độ E2 hạ thấp kích thích tuyến yên tiết FSH. Khác CC, AI không tác dụng bất lợi trên niêm mạc tử cung và chất nhày cổ tử cung.
+Dùng khi:
 
-_Bảng "Phân loại aromatase inhibitor (AI)"._
-| Thế hệ | Type I (steroid analoge của androstenedion) | Type II (nonsteroid analoge của androstenedion) |
-|---------|------------------------------------------------|---------------------------------------------------|
-| 1       |                                               | Aminoglutethimid                                  |
-| 2       | Formestane                                     | Fadrozole Roglethimide                            |
-| 3       | Exemestane                                     | Anastrozole (Arimidex)<br> Letrozole (Femara 2,5mg)<br> Vorozole |
+- Rối loạn phóng noãn, thất bại với CC.
+- Niêm mạc tử cung < 5 mm.
 
-Sử dụng ở phụ nữ rối loạn phóng noãn, thất bại với CC hoặc niêm mạc tử cung < 5mm. Ngoài ra còn được dùng điều trị ung thư vú ở phụ nữ mãn kinh.
+Ngoài hiếm muộn, còn dùng điều trị ung thư vú sau mãn kinh.
+
+_Bảng: Phân loại aromatase inhibitor (AI)_  
+| Thế hệ | Type I (steroid analog) | Type II (nonsteroid analog) |  
+|--------|----------------------------|-----------------------------------------------|  
+| 1 | | Aminoglutethimid |  
+| 2 | Formestane | Fadrozole, Roglethimide |  
+| 3 | Exemestane | Anastrozole (Arimidex), Letrozole (Femara 2.5mg), Vorozole |
 
 #### Thực hiện
 
-Liều khởi đầu letrozole 2.5 mg x 2 lần/ngày từ ngày 2-5 chu kỳ kinh.
+Letrozole 2.5 mg x 2 lần/ngày từ ngày 2-5 chu kỳ kinh.
 
-Tác dụng phụ gồm:
-- Đau xương, nóng mặt, đau lưng, buồn nôn, tiêu chảy.
-- Cần loại trừ có thai trước điều trị do nguy cơ bất thường vận động, tim mạch, dị tật ở trẻ sơ sinh.
+Tác dụng phụ:
+
+- Đau xương, đau lưng, nóng mặt, buồn nôn, tiêu chảy.
+- Trước điều trị cần loại trừ có thai (nguy cơ dị tật tim mạch, xương).
 
 #### Đánh giá
 
-Tỷ lệ phóng noãn 75%, có thai 25%. Số noãn trung bình 2.3 trong đó 90% có > 2 noãn.
+Tỷ lệ phóng noãn 75%. Tỷ lệ có thai 25%. Trung bình 2.3 nang trưởng thành, 90% có > 2 nang.
 
 ### HMG
 
-_Hình ảnh "Phác đồ kích trứng HMG" - Bệnh viện Hùng Vương._
+_Hình: "Phác đồ kích trứng HMG" - Bệnh viện Hùng Vương_  
 ![Phác đồ kích trứng HMG](./_images/iui-kich-trung/horem-kich-trung-hmg.png)
 
 ### FSH tái tổ hợp
 
-_Hình ảnh "Phác đồ kích trứng FSH tái tổ hợp" Bệnh viện Hùng Vương._
+_Hình: "Phác đồ kích trứng FSH tái tổ hợp" - Bệnh viện Hùng Vương_  
 ![Phác đồ kích trứng FSH tái tổ hợp](./_images/iui-kich-trung/horem-kich-trung-FSH-tai-to-hop.png)
 
-### CC và/hoặc AI + HMG/FSH
+### Phối hợp CC/AI + HMG hoặc FSH tái tổ hợp
 
-Sử dụng theo phác đồ sau:
-
-- CC 25 mg x 2 lần/ngày x 5 từ ngày 2-5 chu kỳ. AI 2.5 mg x 2 lần/ngày x 5 từ ngày 2-5 chu kỳ.
-- Siêu âm kiểm tra nang trội vào ngày 8 chu kỳ kinh. Nếu chưa có nang trội sử dụng HMG hoặc FSH tái tổ hợp từ ngày 8 của chu kỳ kinh. Siêu âm sau 2-3 ngày, nếu chưa có nang trội duy trì thêm 14 ngày. Nếu sau 14 ngày không có nang noãn. Hủy chu kỳ, bắt đầu chu kỳ khác.
+- CC 25 mg x 2 lần/ngày x 5 ngày (ngày 2-5) và/hoặc AI 2.5 mg x 2 lần/ngày x 5 ngày (ngày 2-5).
+- Siêu âm ngày 8, nếu chưa có nang trội → bổ sung HMG hoặc rFSH và siêu âm sau 2-3 ngày. Nếu sau 2-3 ngày chưa có nang → duy trì thêm tối đa 14 ngày. Không có nang sau 14 ngày → hủy chu kỳ, bắt đầu chu kỳ mới.
 
 ## Nguồn tham khảo
 
-- Bệnh Viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)

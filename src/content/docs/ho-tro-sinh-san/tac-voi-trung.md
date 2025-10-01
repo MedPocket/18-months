@@ -74,7 +74,7 @@ Tắc vòi dẫn trứng đoạn xa:
 
 ## Nguồn tham khảo
 
-- Bệnh Viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
 - Bộ Y tế Việt Nam - _Hướng dẫn chẩn đoán và điều trị vô sinh_
 - WHO - _Infertility: a tabulation of available data on prevalence_
 - Practice Committee of the American Society for Reproductive Medicine - _Role of tubal surgery in the era of assisted reproductive technology_

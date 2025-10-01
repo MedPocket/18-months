@@ -92,4 +92,4 @@ Nhẹ, hiếm đau quặn, choáng váng, ra huyết nhẹ, nhiễm trùng rất
 
 ## Nguồn tham khảo
 
-- Bệnh Viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
