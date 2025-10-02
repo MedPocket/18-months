@@ -222,6 +222,13 @@ export const sidebar = starlightSidebarTopics([
       "ho-tro-sinh-san/niem-mac-tu-cung-va-chuyen-phoi",
       "ho-tro-sinh-san/tac-voi-trung",
       "ho-tro-sinh-san/hsg-sis",
+      {
+        label: "IVF",
+        autogenerate: {
+          directory: "ho-tro-sinh-san/ivf",
+        },
+        collapsed: true,
+      },
     ],
   },
 ]);
