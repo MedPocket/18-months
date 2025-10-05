@@ -10,13 +10,13 @@ importers:
     dependencies:
       '@astrojs/starlight':
         specifier: ^0.36.0
-        version: 0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2))
+        version: 0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3))
       astro:
         specifier: ^5.14.1
-        version: 5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2)
+        version: 5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3)
       astro-og-canvas:
         specifier: ^0.7.0
-        version: 0.7.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2))
+        version: 0.7.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3))
       canvaskit-wasm:
         specifier: ^0.40.0
         version: 0.40.0
@@ -33,21 +33,21 @@ importers:
         specifier: ^0.34.4
         version: 0.34.4
       starlight-image-zoom:
-        specifier: ^0.13.0
-        version: 0.13.0(@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2)))
+        specifier: ^0.13.1
+        version: 0.13.1(@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3)))
       starlight-links-validator:
         specifier: ^0.18.0
-        version: 0.18.0(@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2)))
+        version: 0.18.0(@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3)))
       starlight-sidebar-topics:
         specifier: ^0.6.1
-        version: 0.6.1(@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2)))
+        version: 0.6.1(@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3)))
     devDependencies:
       '@area44/biome-config':
         specifier: ^2.2.6
         version: 2.2.6
       '@biomejs/biome':
-        specifier: ^2.2.4
-        version: 2.2.4
+        specifier: ^2.2.5
+        version: 2.2.5
       '@types/hast':
         specifier: ^3.0.4
         version: 3.0.4
@@ -58,8 +58,8 @@ importers:
         specifier: ^3.6.2
         version: 3.6.2
       typescript:
-        specifier: ^5.9.2
-        version: 5.9.2
+        specifier: ^5.9.3
+        version: 5.9.3
       unified:
         specifier: ^11.0.5
         version: 11.0.5
@@ -121,55 +121,55 @@ packages:
     resolution: {integrity: sha512-bkFqkLhh3pMBUQQkpVgWDWq/lqzc2678eUyDlTBhRqhCHFguYYGM0Efga7tYk4TogG/3x0EEl66/OQ+WGbWB/Q==}
     engines: {node: '>=6.9.0'}
 
-  '@biomejs/biome@2.2.4':
-    resolution: {integrity: sha512-TBHU5bUy/Ok6m8c0y3pZiuO/BZoY/OcGxoLlrfQof5s8ISVwbVBdFINPQZyFfKwil8XibYWb7JMwnT8wT4WVPg==}
+  '@biomejs/biome@2.2.5':
+    resolution: {integrity: sha512-zcIi+163Rc3HtyHbEO7CjeHq8DjQRs40HsGbW6vx2WI0tg8mYQOPouhvHSyEnCBAorfYNnKdR64/IxO7xQ5faw==}
     engines: {node: '>=14.21.3'}
     hasBin: true
 
-  '@biomejs/cli-darwin-arm64@2.2.4':
-    resolution: {integrity: sha512-RJe2uiyaloN4hne4d2+qVj3d3gFJFbmrr5PYtkkjei1O9c+BjGXgpUPVbi8Pl8syumhzJjFsSIYkcLt2VlVLMA==}
+  '@biomejs/cli-darwin-arm64@2.2.5':
+    resolution: {integrity: sha512-MYT+nZ38wEIWVcL5xLyOhYQQ7nlWD0b/4mgATW2c8dvq7R4OQjt/XGXFkXrmtWmQofaIM14L7V8qIz/M+bx5QQ==}
     engines: {node: '>=14.21.3'}
     cpu: [arm64]
     os: [darwin]
 
-  '@biomejs/cli-darwin-x64@2.2.4':
-    resolution: {integrity: sha512-cFsdB4ePanVWfTnPVaUX+yr8qV8ifxjBKMkZwN7gKb20qXPxd/PmwqUH8mY5wnM9+U0QwM76CxFyBRJhC9tQwg==}
+  '@biomejs/cli-darwin-x64@2.2.5':
+    resolution: {integrity: sha512-FLIEl73fv0R7dI10EnEiZLw+IMz3mWLnF95ASDI0kbx6DDLJjWxE5JxxBfmG+udz1hIDd3fr5wsuP7nwuTRdAg==}
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [darwin]
 
-  '@biomejs/cli-linux-arm64-musl@2.2.4':
-    resolution: {integrity: sha512-7TNPkMQEWfjvJDaZRSkDCPT/2r5ESFPKx+TEev+I2BXDGIjfCZk2+b88FOhnJNHtksbOZv8ZWnxrA5gyTYhSsQ==}
+  '@biomejs/cli-linux-arm64-musl@2.2.5':
+    resolution: {integrity: sha512-5Ov2wgAFwqDvQiESnu7b9ufD1faRa+40uwrohgBopeY84El2TnBDoMNXx6iuQdreoFGjwW8vH6k68G21EpNERw==}
     engines: {node: '>=14.21.3'}
     cpu: [arm64]
     os: [linux]
 
-  '@biomejs/cli-linux-arm64@2.2.4':
-    resolution: {integrity: sha512-M/Iz48p4NAzMXOuH+tsn5BvG/Jb07KOMTdSVwJpicmhN309BeEyRyQX+n1XDF0JVSlu28+hiTQ2L4rZPvu7nMw==}
+  '@biomejs/cli-linux-arm64@2.2.5':
+    resolution: {integrity: sha512-5DjiiDfHqGgR2MS9D+AZ8kOfrzTGqLKywn8hoXpXXlJXIECGQ32t+gt/uiS2XyGBM2XQhR6ztUvbjZWeccFMoQ==}
     engines: {node: '>=14.21.3'}
     cpu: [arm64]
     os: [linux]
 
-  '@biomejs/cli-linux-x64-musl@2.2.4':
-    resolution: {integrity: sha512-m41nFDS0ksXK2gwXL6W6yZTYPMH0LughqbsxInSKetoH6morVj43szqKx79Iudkp8WRT5SxSh7qVb8KCUiewGg==}
+  '@biomejs/cli-linux-x64-musl@2.2.5':
+    resolution: {integrity: sha512-AVqLCDb/6K7aPNIcxHaTQj01sl1m989CJIQFQEaiQkGr2EQwyOpaATJ473h+nXDUuAcREhccfRpe/tu+0wu0eQ==}
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [linux]
 
-  '@biomejs/cli-linux-x64@2.2.4':
-    resolution: {integrity: sha512-orr3nnf2Dpb2ssl6aihQtvcKtLySLta4E2UcXdp7+RTa7mfJjBgIsbS0B9GC8gVu0hjOu021aU8b3/I1tn+pVQ==}
+  '@biomejs/cli-linux-x64@2.2.5':
+    resolution: {integrity: sha512-fq9meKm1AEXeAWan3uCg6XSP5ObA6F/Ovm89TwaMiy1DNIwdgxPkNwxlXJX8iM6oRbFysYeGnT0OG8diCWb9ew==}
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [linux]
 
-  '@biomejs/cli-win32-arm64@2.2.4':
-    resolution: {integrity: sha512-NXnfTeKHDFUWfxAefa57DiGmu9VyKi0cDqFpdI+1hJWQjGJhJutHPX0b5m+eXvTKOaf+brU+P0JrQAZMb5yYaQ==}
+  '@biomejs/cli-win32-arm64@2.2.5':
+    resolution: {integrity: sha512-xaOIad4wBambwJa6mdp1FigYSIF9i7PCqRbvBqtIi9y29QtPVQ13sDGtUnsRoe6SjL10auMzQ6YAe+B3RpZXVg==}
     engines: {node: '>=14.21.3'}
     cpu: [arm64]
     os: [win32]
 
-  '@biomejs/cli-win32-x64@2.2.4':
-    resolution: {integrity: sha512-3Y4V4zVRarVh/B/eSHczR4LYoSVyv3Dfuvm3cWs5w/HScccS0+Wt/lHOcDTRYeHjQmMYVC3rIRWqyN2EI52+zg==}
+  '@biomejs/cli-win32-x64@2.2.5':
+    resolution: {integrity: sha512-F/jhuXCssPFAuciMhHKk00xnCAxJRS/pUzVfXYmOMUp//XW7mO6QeCjsjvnm8L4AO/dG2VOB0O+fJPiJ2uXtIw==}
     engines: {node: '>=14.21.3'}
     cpu: [x64]
     os: [win32]
@@ -1649,8 +1649,8 @@ packages:
   space-separated-tokens@2.0.2:
     resolution: {integrity: sha512-PEGlAwrG8yXGXRjW32fGbg66JAlOAwbObuqVoJpv/mRgoWDQfgH1wDPvtzWyUSNAXBGSk8h755YDbbcEy3SH2Q==}
 
-  starlight-image-zoom@0.13.0:
-    resolution: {integrity: sha512-7K/7gshnKooYd4ePy5vtyv1jFoFVNUb8IoXWDcnY69+nxvmLATNrmOzD2M4TJ/aKynPSBSM6j9ia4s/PPy/JGA==}
+  starlight-image-zoom@0.13.1:
+    resolution: {integrity: sha512-lzSAymjOnI8Ny8NnSjmOEKLp+KaHYDMyKeK4VX0WhwbA3bZ1V13mmjUJ0Mwi+EiqA885rUnoDhPAPrCbgqqNEg==}
     engines: {node: '>=18'}
     peerDependencies:
       '@astrojs/starlight': '>=0.32.0'
@@ -1743,8 +1743,8 @@ packages:
     resolution: {integrity: sha512-TeTSQ6H5YHvpqVwBRcnLDCBnDOHWYu7IvGbHT6N8AOymcr9PJGjc1GTtiWZTYg0NCgYwvnYWEkVChQAr9bjfwA==}
     engines: {node: '>=16'}
 
-  typescript@5.9.2:
-    resolution: {integrity: sha512-CWBzXQrc/qOkhidw1OzBTQuYRbfyxDXJMVJ1XNwUHGROVmuaeiEm3OslpZ1RV96d7SKKjZKrSJu3+t/xlw3R9A==}
+  typescript@5.9.3:
+    resolution: {integrity: sha512-jl1vZzPDinLr9eUt3J/t7V6FgNEw9QjvBPdysz9KfQDD41fQrC2Y4vKQdiaUpFT4bXlb1RHhLpp8wtm6M5TgSw==}
     engines: {node: '>=14.17'}
     hasBin: true
 
@@ -2015,12 +2015,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/mdx@4.3.6(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2))':
+  '@astrojs/mdx@4.3.6(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3))':
     dependencies:
       '@astrojs/markdown-remark': 6.3.7
       '@mdx-js/mdx': 3.1.1
       acorn: 8.15.0
-      astro: 5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2)
+      astro: 5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3)
       es-module-lexer: 1.7.0
       estree-util-visit: 2.0.0
       hast-util-to-html: 9.0.5
@@ -2044,17 +2044,17 @@ snapshots:
       stream-replace-string: 2.0.0
       zod: 3.25.76
 
-  '@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2))':
+  '@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3))':
     dependencies:
       '@astrojs/markdown-remark': 6.3.7
-      '@astrojs/mdx': 4.3.6(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2))
+      '@astrojs/mdx': 4.3.6(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3))
       '@astrojs/sitemap': 3.6.0
       '@pagefind/default-ui': 1.4.0
       '@types/hast': 3.0.4
       '@types/js-yaml': 4.0.9
       '@types/mdast': 4.0.4
-      astro: 5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2)
-      astro-expressive-code: 0.41.3(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2))
+      astro: 5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3)
+      astro-expressive-code: 0.41.3(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3))
       bcp-47: 2.1.0
       hast-util-from-html: 2.0.3
       hast-util-select: 6.0.4
@@ -2104,39 +2104,39 @@ snapshots:
       '@babel/helper-string-parser': 7.27.1
       '@babel/helper-validator-identifier': 7.27.1
 
-  '@biomejs/biome@2.2.4':
+  '@biomejs/biome@2.2.5':
     optionalDependencies:
-      '@biomejs/cli-darwin-arm64': 2.2.4
-      '@biomejs/cli-darwin-x64': 2.2.4
-      '@biomejs/cli-linux-arm64': 2.2.4
-      '@biomejs/cli-linux-arm64-musl': 2.2.4
-      '@biomejs/cli-linux-x64': 2.2.4
-      '@biomejs/cli-linux-x64-musl': 2.2.4
-      '@biomejs/cli-win32-arm64': 2.2.4
-      '@biomejs/cli-win32-x64': 2.2.4
+      '@biomejs/cli-darwin-arm64': 2.2.5
+      '@biomejs/cli-darwin-x64': 2.2.5
+      '@biomejs/cli-linux-arm64': 2.2.5
+      '@biomejs/cli-linux-arm64-musl': 2.2.5
+      '@biomejs/cli-linux-x64': 2.2.5
+      '@biomejs/cli-linux-x64-musl': 2.2.5
+      '@biomejs/cli-win32-arm64': 2.2.5
+      '@biomejs/cli-win32-x64': 2.2.5
 
-  '@biomejs/cli-darwin-arm64@2.2.4':
+  '@biomejs/cli-darwin-arm64@2.2.5':
     optional: true
 
-  '@biomejs/cli-darwin-x64@2.2.4':
+  '@biomejs/cli-darwin-x64@2.2.5':
     optional: true
 
-  '@biomejs/cli-linux-arm64-musl@2.2.4':
+  '@biomejs/cli-linux-arm64-musl@2.2.5':
     optional: true
 
-  '@biomejs/cli-linux-arm64@2.2.4':
+  '@biomejs/cli-linux-arm64@2.2.5':
     optional: true
 
-  '@biomejs/cli-linux-x64-musl@2.2.4':
+  '@biomejs/cli-linux-x64-musl@2.2.5':
     optional: true
 
-  '@biomejs/cli-linux-x64@2.2.4':
+  '@biomejs/cli-linux-x64@2.2.5':
     optional: true
 
-  '@biomejs/cli-win32-arm64@2.2.4':
+  '@biomejs/cli-win32-arm64@2.2.5':
     optional: true
 
-  '@biomejs/cli-win32-x64@2.2.4':
+  '@biomejs/cli-win32-x64@2.2.5':
     optional: true
 
   '@capsizecss/unpack@2.4.0':
@@ -2597,19 +2597,19 @@ snapshots:
 
   astring@1.9.0: {}
 
-  astro-expressive-code@0.41.3(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2)):
+  astro-expressive-code@0.41.3(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3)):
     dependencies:
-      astro: 5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2)
+      astro: 5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3)
       rehype-expressive-code: 0.41.3
 
-  astro-og-canvas@0.7.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2)):
+  astro-og-canvas@0.7.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3)):
     dependencies:
-      astro: 5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2)
+      astro: 5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3)
       canvaskit-wasm: 0.39.1
       deterministic-object-hash: 2.0.2
       entities: 4.5.0
 
-  astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2):
+  astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3):
     dependencies:
       '@astrojs/compiler': 2.13.0
       '@astrojs/internal-helpers': 0.7.3
@@ -2659,7 +2659,7 @@ snapshots:
       smol-toml: 1.4.2
       tinyexec: 0.3.2
       tinyglobby: 0.2.15
-      tsconfck: 3.1.6(typescript@5.9.2)
+      tsconfck: 3.1.6(typescript@5.9.3)
       ultrahtml: 1.6.0
       unifont: 0.5.2
       unist-util-visit: 5.0.0
@@ -2672,7 +2672,7 @@ snapshots:
       yocto-spinner: 0.2.3
       zod: 3.25.76
       zod-to-json-schema: 3.24.6(zod@3.25.76)
-      zod-to-ts: 1.2.0(typescript@5.9.2)(zod@3.25.76)
+      zod-to-ts: 1.2.0(typescript@5.9.3)(zod@3.25.76)
     optionalDependencies:
       sharp: 0.34.4
     transitivePeerDependencies:
@@ -4108,9 +4108,9 @@ snapshots:
 
   space-separated-tokens@2.0.2: {}
 
-  starlight-image-zoom@0.13.0(@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2))):
+  starlight-image-zoom@0.13.1(@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3))):
     dependencies:
-      '@astrojs/starlight': 0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2))
+      '@astrojs/starlight': 0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3))
       mdast-util-mdx-jsx: 3.2.0
       rehype-raw: 7.0.0
       unist-util-visit: 5.0.0
@@ -4118,9 +4118,9 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  starlight-links-validator@0.18.0(@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2))):
+  starlight-links-validator@0.18.0(@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3))):
     dependencies:
-      '@astrojs/starlight': 0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2))
+      '@astrojs/starlight': 0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3))
       '@types/picomatch': 3.0.2
       github-slugger: 2.0.0
       hast-util-from-html: 2.0.3
@@ -4135,9 +4135,9 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  starlight-sidebar-topics@0.6.1(@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2))):
+  starlight-sidebar-topics@0.6.1(@astrojs/starlight@0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3))):
     dependencies:
-      '@astrojs/starlight': 0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.2))
+      '@astrojs/starlight': 0.36.0(astro@5.14.1(@types/node@24.5.2)(rollup@4.52.3)(typescript@5.9.3))
       picomatch: 4.0.3
 
   stream-replace-string@2.0.0: {}
@@ -4202,15 +4202,15 @@ snapshots:
 
   trough@2.2.0: {}
 
-  tsconfck@3.1.6(typescript@5.9.2):
+  tsconfck@3.1.6(typescript@5.9.3):
     optionalDependencies:
-      typescript: 5.9.2
+      typescript: 5.9.3
 
   tslib@2.8.1: {}
 
   type-fest@4.41.0: {}
 
-  typescript@5.9.2: {}
+  typescript@5.9.3: {}
 
   ufo@1.6.1: {}
 
@@ -4373,9 +4373,9 @@ snapshots:
     dependencies:
       zod: 3.25.76
 
-  zod-to-ts@1.2.0(typescript@5.9.2)(zod@3.25.76):
+  zod-to-ts@1.2.0(typescript@5.9.3)(zod@3.25.76):
     dependencies:
-      typescript: 5.9.2
+      typescript: 5.9.3
       zod: 3.25.76
 
   zod@3.25.76: {}
