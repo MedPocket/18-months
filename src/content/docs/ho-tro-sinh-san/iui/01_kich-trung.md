@@ -23,7 +23,7 @@ Ngoài ra, cần có giấy tờ hợp pháp chứng minh tình trạng hôn nh�
 ## Các phác đồ kích trứng trong IUI
 
 _Hình: "Lược đồ tiếp cận bệnh nhân kích thích đơn noãn" - Bệnh viện Hùng Vương_  
-![Lược đồ tiếp cận bệnh nhân kích thích đơn noãn](./_images/iui-kich-trung/horem-luoc-do-tiep-can-kich-trung-don-noan.png)
+![Lược đồ tiếp cận bệnh nhân kích thích đơn noãn](./_images/kich-trung/horem-luoc-do-tiep-can-kich-trung-don-noan.png)
 
 ### Clomiphene citrate (CC)
 
@@ -101,12 +101,12 @@ Tỷ lệ phóng noãn 75%. Tỷ lệ có thai 25%. Trung bình 2.3 nang trưở
 ### HMG
 
 _Hình: "Phác đồ kích trứng HMG" - Bệnh viện Hùng Vương_  
-![Phác đồ kích trứng HMG](./_images/iui-kich-trung/horem-kich-trung-hmg.png)
+![Phác đồ kích trứng HMG](./_images/kich-trung/horem-kich-trung-hmg.png)
 
 ### FSH tái tổ hợp
 
 _Hình: "Phác đồ kích trứng FSH tái tổ hợp" - Bệnh viện Hùng Vương_  
-![Phác đồ kích trứng FSH tái tổ hợp](./_images/iui-kich-trung/horem-kich-trung-FSH-tai-to-hop.png)
+![Phác đồ kích trứng FSH tái tổ hợp](./_images/kich-trung/horem-kich-trung-FSH-tai-to-hop.png)
 
 ### Phối hợp CC/AI + HMG hoặc FSH tái tổ hợp
 
