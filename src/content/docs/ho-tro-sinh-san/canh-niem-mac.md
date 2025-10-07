@@ -17,7 +17,7 @@ Các phác đồ chuẩn bị niêm mạc tử cung bao gồm:
 - Phác đồ aromatase inhibitor và N-acetyl cysteine: Các trường hợp có lạc tuyến trong cơ tử cung (xác định qua siêu âm, MRI, CA125). Hoặc thất bại với phác đồ E+P.
 - Phác đồ FSH/HMG: Niêm mạc không đáp ứng đầy đủ với E+P.
 
-## Thực hiện
+## Phác đồ
 
 **Ngày 2-5 chu kỳ kinh** siêu âm niêm mạc và đánh giá 2 buồng trứng.
 

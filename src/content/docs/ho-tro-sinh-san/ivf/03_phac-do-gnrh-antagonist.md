@@ -1,69 +1,68 @@
 ---
-title: Phác đồ GnRH antagonist
-description: Phác đồ GnRH antagonist trong IVF.
+title: Phác đồ GnRH Antagonist trong Thụ tinh trong ống nghiệm (IVF)
+description: Phác đồ GnRH antagonist là lựa chọn phổ biến trong hỗ trợ sinh sản hiện đại, với ưu điểm kiểm soát tốt đỉnh LH, giảm nguy cơ quá kích buồng trứng.
 ---
 
-Phác đồ GnRH antagonist (GnRH đối vận) ức chế tuyến yên.
+Phác đồ GnRH antagonist (GnRH đối vận) là chiến lược điều trị được sử dụng trong chu kỳ thụ tinh trong ống nghiệm (IVF), nhằm **ức chế đỉnh LH nội sinh** xảy ra sớm, tránh hiện tượng rụng trứng tự phát.
 
-Mục tiêu ngăn chặn sự xuất hiện của đỉnh LH, kết quả của phản hồi dương tính với nồng độ cao vượt ngưỡng kéo dài của estradiol:
+**Khác với phác đồ GnRH agonist, đối vận GnRH**:
 
-- Gonadotrophin ngoại sinh được đưa vào cơ thể trước, GnRH đối vận chỉ được đưa sau khi buồng trứng được kích thích nhưng trước khi đủ điều kiện khởi phát LH nội sinh.
-- GnRH đối vận được đưa dưới da vào cơ thể 1 lần/ngày → gắn kết và làm bão hoà thụ thể GnRH trên bề mặt tế bào có chức năng tiết gonadotrophin của tuyến yên → mất khả năng chế tiết hormone, trong đó có LH. GnRH đối vận được đưa vào cơ thể xảy ra hiện tượng giảm LH.
+- Ức chế LH nhanh, không có flare-up. Ức chế tuyến yên nhanh chóng, trực tiếp và có thể đảo ngược.
+- Giảm triệu chứng khó chịu do thiếu hụt estradiol.
+- Giảm tổng liều gonadotrophin ngoại sinh.
+- Rút ngắn thời gian kích thích buồng trứng.
+- Thời gian phục hồi nhanh hơn.
+- Có thể sử dụng linh hoạt 2 phương pháp trưởng thành noãn **hCG hoặc GnRH agonist**.
+
+**Cơ chế**:
+
+- Gonadotrophin ngoại sinh (FSH ± LH) được bắt đầu trước.
+- Sau khi đáp ứng nang noãn bắt đầu xuất hiện, **GnRH antagonist được thêm vào** để ức chế nhanh chóng tuyến yên, ngăn tiết LH.
+- Antagonist gắn lên thụ thể GnRH tại tuyến yên → ức chế tiết gonadotrophin, đặc biệt là LH.
 
 ## Chỉ định
 
 ### Chỉ định tuyệt đối
 
-BN có nguy cơ cao quá kích buồng trứng do loại trừ được khả năng qua kích buồng trứng:
-- BN chẩn đoán buồng trứng đa nang theo Rotterdam 2003 giữa ASRM và ESHRE.
-- Tiền sử quá kích buồng trứng.
-- AMH ≥ 3.3.
+Bệnh nhân **nguy cơ cao hội chứng quá kích buồng trứng (OHSS)**:
 
-Kích trứng cho người cho noãn, do tính thân thiện, đơn giản và ít biến chứng.
+- Buồng trứng đa nang (PCOS) - tiêu chuẩn Rotterdam 2003.
+- Tiền sử OHSS.
+- AMH ≥ 3.3 ng/mL.
+
+**Người cho noãn**: do tính đơn giản, thân thiện và ít nguy cơ.
 
 ### Chỉ định ưu tiên
 
-BN có đáp ứng kém hoặc có nguy cơ đáp ứng kém theo tiêu chuẩn Gologna (2011) của ESHRE, có ≥ 2/3 đặc điểm:
+Bệnh nhân **có nguy cơ đáp ứng kém** theo tiêu chuẩn Bologna (ESHRE 2011), khi có ≥ 2/3 tiêu chí:
 
-- Tuổi ≥ 40 hay có bất cứ nguy cơ nào của đáp ứng kém.
-- Tiền sử đáp ứng kém ≤ 3 noãn bào thu hoạch được trong chu kỳ trước.
-- Dự trữ buồng trứng thấp: AMH < 0.5-1.1 ng/mL; AFS < 5-7.
+- Tuổi ≥ 40 hoặc có yếu tố nguy cơ khác của đáp ứng kém.
+- Lịch sử đáp ứng kém: ≤ 3 noãn bào thu được trong chu kỳ trước.
+- Dự trữ buồng trứng thấp: AMH < 0.5-1.1 ng/mL, AFC < 5-7.
 
 ### Không ưu tiên
 
-BN có lạc nội mạc tử cung vùng chậu hoặc có lạc tuyến trong cơ tử cung nên sử dụng phác đồ dài.
+Bệnh nhân có **lạc nội mạc tử cung vùng chậu** hoặc **lạc tuyến trong cơ tử cung** → nên ưu tiên sử dụng phác đồ GnRH agonist dài.
 
-## Thực hiện
+## Phác đồ
 
-**Phác đồ GnRH đối vận vào ngày cố định (fixed)**:
+**Phác đồ đối vận cố định (Fixed protocol)**:
 
-- Đưa GnRH đối vận vào ngày trước kích thích buồng trứng, thường là ngày 5 hoặc ngày 6 của chu kỳ.
-- Biến thể ngày đơn giản hơn, ít tốn kém hơn.
+- Bắt đầu tiêm GnRH antagonist từ **ngày thứ 5 hoặc 6 của chu kỳ kích thích buồng trứng**.
+- Đơn giản, dễ áp dụng, ít tốn kém.
 
-**Phác đồ GnRH đối vận vào ngày không cố định (flexible)**:
+**Phác đồ đối vận linh hoạt (Flexible protocol)**:
 
-- GnRH đối vận đưa vào cơ thể 1 ngày không cố định, thay đổi theo: **kích thước nang noãn dẫn đầu đoàn hệ > 12 mm** và/hoặc **LH > 10 IU/L** và/hoặc **estradiol > 150 pg/mL**.
-- Biến thể ngày dùng nhiều GnRH đối vận hơn phác đồ cố định.
+- Bắt đầu tiêm GnRH antagonist khi: **Nang noãn dẫn đầu đạt kích thước > 12 mm** và/hoặc **nồng độ LH > 10 IU/L** và/hoặc **estradiol > 150 pg/mL**.
+- Phác đồ này sử dụng antagonist nhiều hơn so với phác đồ cố định.
 
 :::caution
 
-- Nên lựa chọn chế phẩm chứa rec-LH/hCG nếu bệnh nhân có đáp ứng kém hay > 35 tuổi.
-- Nếu có nguy cơ quá kích có thể chuyển sang IVM hoặc dừng trưởng thành cuối cùng của noãn bằng bolus GnRH đồng vận để giảm tối đa quá kích buồng trứng. Nếu vẫn còn nguy cơ sử dụng thêm các biện pháp khác: trữ phôi toàn bộ, sử dụng dopamin agonist (bromcryptine hoặc cabergoline) sau chọc hút noãn, truyền hydroxyethyl starch hay human albumin sau chọc hút noãn.
-- Nếu đáp ứng không lý tưởng cần bổ sung LH. Có thể dưới nhiều dạng nhưng đơn giản nhất là HMG.
+- Lựa chọn chế phẩm chứa rec-LH/hCG nếu BN có đáp ứng kém hay > 35 tuổi.
+- Nếu có nguy cơ OHSS chuyển sang IVM hoặc dừng trưởng thành cuối cùng của noãn bằng bolus GnRH đồng vận để giảm tối đa quá kích buồng trứng. Nếu còn nguy cơ sử dụng thêm các biện pháp khác: trữ phôi toàn bộ, sử dụng dopamin agonist (bromcryptine hoặc cabergoline) sau chọc hút noãn, truyền hydroxyethyl starch hay human albumin sau chọc hút noãn.
+- Nếu đáp ứng không lý tưởng cần bổ sung LH, đơn giản nhất là HMG.
 
 :::
-
-## Ưu - nhược điểm
-
-**Ưu điểm**:
-
-- Không xảy ra hiện tượng flare-up.
-- Không có triệu chứng khó chịu liên quan đến giảm sâu nồng độ estradiol.
-- Tổng liều gonadotrophin ngoại sinh thấp hơn.
-- Thời gian kích trứng ngắn hơn.
-- Thời gian hồi phục nhanh hơn.
-- Thời gian thực hiện trưởng thành cuối cùng noãn bào dựa trên cơ sở noãn nang chủ mà không dựa vào đoàn hệ noãn nang.
-- Cho phép thực hiện khởi động trưởng thành cuối cùng của noãn bào bằng 2 phương án là hCG hoặc bolus GnRH đồng vận.
 
 ## Nguồn tham khảo
 
