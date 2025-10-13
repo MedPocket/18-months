@@ -12,11 +12,12 @@ Theo ACOG Task Force 2013, chẩn đoán tiền sản giật khi:
 
 _Bảng "Chẩn đoán tiền sản giật" - ACOG._
 
-| Tiêu chí | Chi tiết |
+| Tiêu chí     | Chi tiết                                                                                                                                                                                                                                                                                                                              |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Huyết áp** | - Huyết áp tâm thu ≥ 140 mmHg **HOẶC** huyết áp tâm trương ≥ 90 mmHg qua 2 lần đo cách nhau ít nhất 4 giờ, xuất hiện sau tuần thứ 20 của thai kỳ ở phụ nữ có huyết áp bình thường trước đó<br>- Huyết áp tâm thu ≥ 160 mmHg **HOẶC** huyết áp tâm trương ≥ 110 mmHg (xác định trong khoảng thời gian ngắn và cần điều trị hạ áp ngay) |
-| và | |
-| **Đạm niệu** | - ≥ 300 mg/24 giờ (hoặc suy ra từ thời gian thu thập nước tiểu tương ứng)<br>- Tỷ số Protein/creatinin ≥ 0.3<br>- Dip-Stick ≥ 1+ (chỉ dùng khi không có phương pháp định lượng khác) |
+| và           |                                                                                                                                                                                                                                                                                                                                       |
+| **Đạm niệu** | - ≥ 300 mg/24 giờ (hoặc suy ra từ thời gian thu thập nước tiểu tương ứng)<br>- Tỷ số Protein/creatinin ≥ 0.3<br>- Dip-Stick ≥ 1+ (chỉ dùng khi không có phương pháp định lượng khác)                                                                                                                                                  |
+
 **Hoặc** trong trường hợp **không có đạm niệu**, tăng huyết áp mới xuất hiện kèm **ít nhất 1 trong các dấu hiệu sau**:
 
 - **Giảm tiểu cầu**: Tiểu cầu < 100,000 /µL.
@@ -140,15 +141,15 @@ _Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng -
 
   _Bảng "Lâm sàng nồng độ Mg²⁺ trong máu"._
 
-  | Nồng độ Mg²⁺ trong máu (mEq/dL) | Biểu hiện lâm sàng |
+  | Nồng độ Mg²⁺ trong máu (mEq/dL) | Biểu hiện lâm sàng                                                 |
   | ------------------------------- | ------------------------------------------------------------------ |
-  | **1.5 - 3** | Nồng độ sinh lý bình thường |
-  | **4 - 6** | Ngưỡng điều trị (phòng ngừa/điều trị sản giật) |
-  | **5 - 10** | Thay đổi trên điện tâm đồ (ECG): Kéo dài khoảng PR, QT, dẹt sóng T |
-  | **8 - 12** | Mất phản xạ gân xương (phản xạ xương bánh chè) |
-  | **10 - 12** | Rối loạn ý thức: Lơ mơ, nói lảm nhảm |
-  | **15 - 17** | Liệt cơ hô hấp, suy hô hấp |
-  | **≥ 30** | Ngừng tim, tử vong |
+  | **1.5 - 3**                     | Nồng độ sinh lý bình thường                                        |
+  | **4 - 6**                       | Ngưỡng điều trị (phòng ngừa/điều trị sản giật)                     |
+  | **5 - 10**                      | Thay đổi trên điện tâm đồ (ECG): Kéo dài khoảng PR, QT, dẹt sóng T |
+  | **8 - 12**                      | Mất phản xạ gân xương (phản xạ xương bánh chè)                     |
+  | **10 - 12**                     | Rối loạn ý thức: Lơ mơ, nói lảm nhảm                               |
+  | **15 - 17**                     | Liệt cơ hô hấp, suy hô hấp                                         |
+  | **≥ 30**                        | Ngừng tim, tử vong                                                 |
 
 **Ngộ độc (Mg > 8 mEq/L)**:
 

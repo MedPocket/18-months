@@ -122,21 +122,21 @@ _Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung
 
 _Bảng "Giảm đau bước 1"._
 
-| Loại thuốc | Liều dùng & cách dùng | Hiệu quả | Chống chỉ định/Tác dụng phụ |
+| Loại thuốc    | Liều dùng & cách dùng                                                                 | Hiệu quả                                | Chống chỉ định/Tác dụng phụ                        |
 | ------------- | ------------------------------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------- |
-| **NSAIDs** | Ibuprofen 400 mg mỗi 4-6 h<br>Naproxen 250 mg mỗi 8-12 h | Giảm viêm, co thắt, giảm thống kinh | Loét dạ dày, suy thận, hen nặng, tim mạch |
-| **COCs** | EE 20-30 µg + progestin, 1 viên/ngày (liên tục hoặc chu kỳ)<br>Miếng dán 1 miếng/tuần | Giảm sinh nội mạc, giảm COX-2, giảm đau | Rong huyết, buồn nôn, căng vú, tăng cân, mụn |
-| **Progestin** | Dienogest 2 mg/ngày<br>LNG-IUS 5 năm<br>Norethindrone 5-10 mg/ngày | Teo nội mạc, giảm đau và cường kinh | Rong huyết thất thường, mụn, ảnh hưởng kinh nguyệt |
+| **NSAIDs**    | Ibuprofen 400 mg mỗi 4-6 h<br>Naproxen 250 mg mỗi 8-12 h                              | Giảm viêm, co thắt, giảm thống kinh     | Loét dạ dày, suy thận, hen nặng, tim mạch          |
+| **COCs**      | EE 20-30 µg + progestin, 1 viên/ngày (liên tục hoặc chu kỳ)<br>Miếng dán 1 miếng/tuần | Giảm sinh nội mạc, giảm COX-2, giảm đau | Rong huyết, buồn nôn, căng vú, tăng cân, mụn       |
+| **Progestin** | Dienogest 2 mg/ngày<br>LNG-IUS 5 năm<br>Norethindrone 5-10 mg/ngày                    | Teo nội mạc, giảm đau và cường kinh     | Rong huyết thất thường, mụn, ảnh hưởng kinh nguyệt |
 
 **Giảm đau bước 2**:
 
 _Bảng "Giảm đau bước 2"._
 
-| Loại thuốc | Liều dùng | Hiệu quả | Tác dụng phụ/Lưu ý |
+| Loại thuốc             | Liều dùng                                                            | Hiệu quả                             | Tác dụng phụ/Lưu ý                                  |
 | ---------------------- | -------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------- |
-| **GnRH đồng vận** | Goserelin 3.6 mg mỗi 28 ngày SC<br>Leuprolide 3.75 mg mỗi 28 ngày IM | Ức chế HPA → giảm estrogen toàn thân | Bốc hỏa, loãng xương; Cần add-back therapy |
-| **AI** | Letrozole 2.5 mg/ngày<br>Anastrozole 1 mg/ngày | Giảm estrogen cục bộ | Giảm mật độ xương, bốc hỏa, mệt mỏi |
-| **Danazol/Gestrinone** | Danazol 200 mg x2/ngày<br>Gestrinone 2.5 mg x2/ngày | Khi thất bại các liệu pháp trên | Vô kinh, nam hóa, rối loạn lipid, tác dụng androgen |
+| **GnRH đồng vận**      | Goserelin 3.6 mg mỗi 28 ngày SC<br>Leuprolide 3.75 mg mỗi 28 ngày IM | Ức chế HPA → giảm estrogen toàn thân | Bốc hỏa, loãng xương; Cần add-back therapy          |
+| **AI**                 | Letrozole 2.5 mg/ngày<br>Anastrozole 1 mg/ngày                       | Giảm estrogen cục bộ                 | Giảm mật độ xương, bốc hỏa, mệt mỏi                 |
+| **Danazol/Gestrinone** | Danazol 200 mg x2/ngày<br>Gestrinone 2.5 mg x2/ngày                  | Khi thất bại các liệu pháp trên      | Vô kinh, nam hóa, rối loạn lipid, tác dụng androgen |
 
 **NSAIDs**:
 

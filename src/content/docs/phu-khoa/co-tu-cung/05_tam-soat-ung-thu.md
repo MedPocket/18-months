@@ -9,14 +9,14 @@ description: Hướng dẫn tầm soát ung thư cổ tử cung.
 
 _Bảng "Tầm soát ung thư cổ tử cung"._
 
-| Dân số | Phương pháp tầm soát | Ghi chú |
+| Dân số                       | Phương pháp tầm soát                                                  | Ghi chú                                                                                                                                          |
 | ---------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **< 21 tuổi** | Không tầm soát (A) | Bất kể tuổi khởi đầu hoạt động tình dục hoặc có hành vi nguy cơ. |
-| **21-29 tuổi** | Tế bào học đơn thuần mỗi 3 năm (A) | Không khuyến cáo tầm soát bằng HPV testing đơn thuần (A). |
-| **30-65 tuổi** | - HPV và tế bào học mỗi 5 năm** (A)<br>- Tế bào học mỗi 3 năm\*** (A) | Không nên tầm soát hàng năm (A). |
-| **> 65 tuổi** | Ngưng tầm soát nếu trước đó đã tầm soát đầy đủ và âm tính\*\*\*\* (A) | Phụ nữ có tiền căn CIN2, CIN3, ung thư tuyến tại chỗ hay ung thư cổ tử cung nên tiếp tục tầm soát ít nhất 20 năm (B). |
-| **Đã cắt tử cung toàn phần** | Không tầm soát (A) | Áp dụng cho phụ nữ không còn cổ tử cung và không có tiền căn CIN2, CIN3, ung thư tuyến tại chỗ hay ung thư cổ tử cung trong 20 năm gần nhất (A). |
-| **Đã tiêm ngừa HPV** | Tầm soát như người không tiêm ngừa (C) | |
+| **< 21 tuổi**                | Không tầm soát (A)                                                    | Bất kể tuổi khởi đầu hoạt động tình dục hoặc có hành vi nguy cơ.                                                                                 |
+| **21-29 tuổi**               | Tế bào học đơn thuần mỗi 3 năm (A)                                    | Không khuyến cáo tầm soát bằng HPV testing đơn thuần (A).                                                                                        |
+| **30-65 tuổi**               | - HPV và tế bào học mỗi 5 năm** (A)<br>- Tế bào học mỗi 3 năm\*** (A) | Không nên tầm soát hàng năm (A).                                                                                                                 |
+| **> 65 tuổi**                | Ngưng tầm soát nếu trước đó đã tầm soát đầy đủ và âm tính\*\*\*\* (A) | Phụ nữ có tiền căn CIN2, CIN3, ung thư tuyến tại chỗ hay ung thư cổ tử cung nên tiếp tục tầm soát ít nhất 20 năm (B).                            |
+| **Đã cắt tử cung toàn phần** | Không tầm soát (A)                                                    | Áp dụng cho phụ nữ không còn cổ tử cung và không có tiền căn CIN2, CIN3, ung thư tuyến tại chỗ hay ung thư cổ tử cung trong 20 năm gần nhất (A). |
+| **Đã tiêm ngừa HPV**         | Tầm soát như người không tiêm ngừa (C)                                |                                                                                                                                                  |
 
 _Phụ nữ có tiền căn ung thư cổ tử cung, nhiễm HIV hoặc suy giảm miễn dịch không áp dụng hướng dẫn tầm soát thông thường (A)_.
 _\* Các khuyến cáo dựa theo: American Cancer Society (ACS), ASCCP, và ASCP. A: khuyến cáo mạnh, chứng cứ rõ ràng. B: khuyến cáo trung bình. C: theo kinh nghiệm_.  

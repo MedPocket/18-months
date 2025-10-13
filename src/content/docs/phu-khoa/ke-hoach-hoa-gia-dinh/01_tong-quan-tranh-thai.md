@@ -7,14 +7,14 @@ Có nhiều phương pháp tránh thai, hoạt động dựa trên những nguy�
 
 _Bảng "Các phương pháp tránh thai"._
 
-| Phân loại | Phương pháp | Cơ chế tác động |
+| Phân loại                 | Phương pháp                                                                                                             | Cơ chế tác động                                                                                                         |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| **Tự nhiên** | - Xuất tinh ngoài <br>- Tính ngày an toàn <br>- Cho bú vô kinh (LAM) | - Tránh để tinh trùng vào âm đạo <br>- Tránh quan hệ trong ngày dễ thụ thai <br>- Cho bú ức chế rụng trứng |
-| **Rào cản (cơ học)** | - Bao cao su nam/nữ <br>- Màng chắn âm đạo, mũ cổ tử cung <br>- Miếng xốp + thuốc diệt tinh trùng | Ngăn tinh trùng xâm nhập vào tử cung và gặp trứng |
-| **Nội tiết** | - Thuốc tránh thai uống (kết hợp, minipill) <br>- Thuốc tiêm DMPA <br>- Cấy que tránh thai <br>- Miếng dán, vòng âm đạo | Ức chế rụng trứng, làm đặc chất nhầy cổ tử cung, thay đổi niêm mạc tử cung ngăn trứng làm tổ |
-| **Dụng cụ tử cung (IUD)** | - Vòng tránh thai chứa đồng <br>- Vòng tránh thai nội tiết (LNG-IUS) | - Đồng gây độc cho tinh trùng, ngăn thụ tinh <br>- Nội tiết làm đặc chất nhầy, mỏng niêm mạc tử cung, ức chế rụng trứng |
-| **Triệt sản** | - Thắt ống dẫn trứng (nữ) <br>- Thắt ống dẫn tinh (nam) | Ngăn không cho tinh trùng và trứng gặp nhau (vĩnh viễn, không hồi phục tự nhiên) |
-| **Khẩn cấp** | - Thuốc tránh thai khẩn cấp (Levonorgestrel, Ulipristal) <br>- Đặt vòng đồng sau quan hệ | Ức chế hoặc trì hoãn rụng trứng, ngăn tinh trùng thụ tinh, hoặc ngăn trứng đã thụ tinh làm tổ |
+| **Tự nhiên**              | - Xuất tinh ngoài <br>- Tính ngày an toàn <br>- Cho bú vô kinh (LAM)                                                    | - Tránh để tinh trùng vào âm đạo <br>- Tránh quan hệ trong ngày dễ thụ thai <br>- Cho bú ức chế rụng trứng              |
+| **Rào cản (cơ học)**      | - Bao cao su nam/nữ <br>- Màng chắn âm đạo, mũ cổ tử cung <br>- Miếng xốp + thuốc diệt tinh trùng                       | Ngăn tinh trùng xâm nhập vào tử cung và gặp trứng                                                                       |
+| **Nội tiết**              | - Thuốc tránh thai uống (kết hợp, minipill) <br>- Thuốc tiêm DMPA <br>- Cấy que tránh thai <br>- Miếng dán, vòng âm đạo | Ức chế rụng trứng, làm đặc chất nhầy cổ tử cung, thay đổi niêm mạc tử cung ngăn trứng làm tổ                            |
+| **Dụng cụ tử cung (IUD)** | - Vòng tránh thai chứa đồng <br>- Vòng tránh thai nội tiết (LNG-IUS)                                                    | - Đồng gây độc cho tinh trùng, ngăn thụ tinh <br>- Nội tiết làm đặc chất nhầy, mỏng niêm mạc tử cung, ức chế rụng trứng |
+| **Triệt sản**             | - Thắt ống dẫn trứng (nữ) <br>- Thắt ống dẫn tinh (nam)                                                                 | Ngăn không cho tinh trùng và trứng gặp nhau (vĩnh viễn, không hồi phục tự nhiên)                                        |
+| **Khẩn cấp**              | - Thuốc tránh thai khẩn cấp (Levonorgestrel, Ulipristal) <br>- Đặt vòng đồng sau quan hệ                                | Ức chế hoặc trì hoãn rụng trứng, ngăn tinh trùng thụ tinh, hoặc ngăn trứng đã thụ tinh làm tổ                           |
 
 ## Đặc trưng
 
@@ -31,15 +31,15 @@ Tính bằng **chỉ số Pearl** (số thai kỳ/100 năm-phụ nữ sử dụn
 
 _Bảng "Tính hiệu quả của các phương pháp tránh thai"._
 
-| Phương pháp | Chỉ số Pearl (dùng đúng cách) | Ghi chú |
+| Phương pháp                | Chỉ số Pearl (dùng đúng cách)   | Ghi chú                              |
 | -------------------------- | ------------------------------- | ------------------------------------ |
-| **DCTC đồng** | < 1 | Hiệu quả cao, kéo dài đến 10 năm |
-| **DCTC LNG (hormone)** | < 1 | Giảm thống kinh, rong kinh |
-| **Que cấy progestogen** | < 1 | Hiệu quả 3-5 năm |
-| **Thuốc tiêm progestogen** | ~0.3 | Tiêm 3 tháng/lần |
-| **Viên phối hợp** | ~0.3 (dùng đúng)/~8 (thực tế) | Cần uống đều mỗi ngày |
-| **Bao cao su nam** | ~2 (dùng đúng)/~13-18 (thực tế) | Giúp phòng tránh STDs |
-| **Xuất tinh ngoài** | ~4 (dùng đúng)/~20 (thực tế) | Hiệu quả kém nếu kiểm soát không tốt |
+| **DCTC đồng**              | < 1                             | Hiệu quả cao, kéo dài đến 10 năm     |
+| **DCTC LNG (hormone)**     | < 1                             | Giảm thống kinh, rong kinh           |
+| **Que cấy progestogen**    | < 1                             | Hiệu quả 3-5 năm                     |
+| **Thuốc tiêm progestogen** | ~0.3                            | Tiêm 3 tháng/lần                     |
+| **Viên phối hợp**          | ~0.3 (dùng đúng)/~8 (thực tế)   | Cần uống đều mỗi ngày                |
+| **Bao cao su nam**         | ~2 (dùng đúng)/~13-18 (thực tế) | Giúp phòng tránh STDs                |
+| **Xuất tinh ngoài**        | ~4 (dùng đúng)/~20 (thực tế)    | Hiệu quả kém nếu kiểm soát không tốt |
 
 ### Tính an toàn
 

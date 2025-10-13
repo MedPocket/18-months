@@ -17,11 +17,11 @@ description: Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là
 
 _Bảng "Phân loại sa tạng chậu"._
 
-| Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại | Xét nghiệm cần thiết |
+| Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại                                                              | Xét nghiệm cần thiết     |
 | ------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------ |
-| **Thành trước (ngăn trước)** | Sa bàng quang: Trung tâm, bên, kết hợp<br>Sa niệu đạo | Niệu động học |
-| **Vòm âm đạo (ngăn giữa)** | Túi sa ruột non: Trước, sau<br>Sa tử cung<br>Sa mỏm cắt | MRI động ± Niệu động học |
-| **Thành sau (ngăn sau)** | Túi trực tràng: Cao, giữa, thấp<br>Sa trực tràng<br>Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
+| **Thành trước (ngăn trước)**         | Sa bàng quang: Trung tâm, bên, kết hợp<br>Sa niệu đạo                                  | Niệu động học            |
+| **Vòm âm đạo (ngăn giữa)**           | Túi sa ruột non: Trước, sau<br>Sa tử cung<br>Sa mỏm cắt                                | MRI động ± Niệu động học |
+| **Thành sau (ngăn sau)**             | Túi trực tràng: Cao, giữa, thấp<br>Sa trực tràng<br>Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
 
 ## Chẩn đoán
 
