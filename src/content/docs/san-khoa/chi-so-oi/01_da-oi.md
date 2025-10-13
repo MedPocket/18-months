@@ -45,6 +45,7 @@ Chủ yếu dựa vào siêu âm:
 
 - AFI ≥ 22 cm ở 3 tháng giữa và ≥ 25 cm ở 3 tháng cuối.
 - SDP ≥ 8 cm (SDP ≥ 16 cm là đa ối nặng).
+
   _Bảng "Phân loại đa ối"._
 
   | Mức độ đa ối | Nhẹ       | Trung bình | Nặng    |
