@@ -94,7 +94,7 @@ Theo dõi huyết động, xét nghiệm đông máu.
 
 **Nhiễm trùng**: Kháng sinh phổ rộng, dẫn lưu ổ nhiễm, nạo buồng tử cung nếu cần.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bộ Y tế Việt Nam - _Hướng dẫn chẩn đoán và xử trí thai lưu_
 - Cunningham F.G. et al - _Williams Obstetrics_

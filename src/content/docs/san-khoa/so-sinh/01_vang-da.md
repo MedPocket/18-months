@@ -135,7 +135,7 @@ Thay máu là **điều trị hàng thứ hai**.
 - Điều trị đặc hiệu bằng thuốc (như Intravenous immune globulin - IVIG, kháng sinh trong vàng da nhiễm khuẩn...)
 - Phẫu thuật (tắc mật bẩm sinh).
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Trần Thị Lợi - _Nhi khoa - Bài giảng vàng da sơ sinh_
 - Cloherty JP, Eichenwald EC, Hansen AR, Stark AR - _Manual of Neonatal Care_. Wolters Kluwer

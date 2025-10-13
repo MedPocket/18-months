@@ -72,7 +72,7 @@ Tắc vòi dẫn trứng đoạn xa:
   loa vòi trường hợp ứ dịch nhẹ tỷ lệ có thai là 58-77%.
 - Tiên lượng xấu nếu vòi dính dày đặc, vòi dãn rộng thành xơ hóa và/hoặc giảm hay mất nếp niêm mạc.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
 - Bộ Y tế Việt Nam - _Hướng dẫn chẩn đoán và điều trị vô sinh_

@@ -101,7 +101,7 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 - Dẫn lưu ổ mủ, áp-xe, viêm phúc mạc, viêm xương khớp mủ khi có chỉ định.
 - Lấy bỏ dụng cụ y tế (catheter, ống thông) nếu là nguồn nhiễm khuẩn.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Nelson Textbook of Pediatrics, 21st Edition.
 - WHO - _Hướng dẫn chẩn đoán và điều trị nhiễm khuẩn sơ sinh_

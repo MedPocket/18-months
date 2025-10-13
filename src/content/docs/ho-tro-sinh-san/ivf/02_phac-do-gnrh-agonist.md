@@ -47,6 +47,6 @@ Phác đồ GnRH agonist (GnRH đồng vận) được sử dụng rộng rãi v
 - Nguy cơ hình thành nang cơ năng trước kích thích → ảnh hưởng chất lượng trứng.
 - Tăng nguy cơ hội chứng quá kích buồng trứng (OHSS) so với phác đồ antagonist.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)

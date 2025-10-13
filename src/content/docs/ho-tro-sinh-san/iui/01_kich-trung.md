@@ -22,7 +22,7 @@ Ngoài ra, cần có giấy tờ hợp pháp chứng minh tình trạng hôn nh�
 
 ## Các phác đồ kích trứng trong IUI
 
-_Hình: "Lược đồ tiếp cận bệnh nhân kích thích đơn noãn" - Bệnh viện Hùng Vương_  
+_Hình ảnh "Lược đồ tiếp cận bệnh nhân kích thích đơn noãn" - Bệnh viện Hùng Vương._  
 ![Lược đồ tiếp cận bệnh nhân kích thích đơn noãn](./_images/kich-trung/horem-luoc-do-tiep-can-kich-trung-don-noan.png)
 
 ### Clomiphene citrate (CC)
@@ -78,7 +78,7 @@ Dùng khi:
 
 Ngoài hiếm muộn, còn dùng điều trị ung thư vú sau mãn kinh.
 
-_Bảng: Phân loại aromatase inhibitor (AI)_  
+_Bảng: "Phân loại aromatase inhibitor (AI)"_  
 | Thế hệ | Type I (steroid analog) | Type II (nonsteroid analog) |  
 |--------|----------------------------|-----------------------------------------------|  
 | 1 | | Aminoglutethimid |  
@@ -100,12 +100,12 @@ Tỷ lệ phóng noãn 75%. Tỷ lệ có thai 25%. Trung bình 2.3 nang trưở
 
 ### HMG
 
-_Hình: "Phác đồ kích trứng HMG" - Bệnh viện Hùng Vương_  
+_Hình ảnh "Phác đồ kích trứng HMG" - Bệnh viện Hùng Vương_  
 ![Phác đồ kích trứng HMG](./_images/kich-trung/horem-kich-trung-hmg.png)
 
 ### FSH tái tổ hợp
 
-_Hình: "Phác đồ kích trứng FSH tái tổ hợp" - Bệnh viện Hùng Vương_  
+_Hình ảnh "Phác đồ kích trứng FSH tái tổ hợp" - Bệnh viện Hùng Vương_  
 ![Phác đồ kích trứng FSH tái tổ hợp](./_images/kich-trung/horem-kich-trung-FSH-tai-to-hop.png)
 
 ### Phối hợp CC/AI + HMG hoặc FSH tái tổ hợp
@@ -113,6 +113,6 @@ _Hình: "Phác đồ kích trứng FSH tái tổ hợp" - Bệnh viện Hùng V�
 - CC 25 mg x 2 lần/ngày x 5 ngày (ngày 2-5) và/hoặc AI 2.5 mg x 2 lần/ngày x 5 ngày (ngày 2-5).
 - Siêu âm ngày 8, nếu chưa có nang trội → bổ sung HMG hoặc rFSH và siêu âm sau 2-3 ngày. Nếu sau 2-3 ngày chưa có nang → duy trì thêm tối đa 14 ngày. Không có nang sau 14 ngày → hủy chu kỳ, bắt đầu chu kỳ mới.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)

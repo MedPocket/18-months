@@ -82,6 +82,6 @@ Thường áp dụng cho BN có dự trữ buồng trứng kém, ít hơn 3 noã
 
 Áp dụng cho phụ nữ đa nang buồng trứng. Nang noãn thứ cấp được hút và nuôi cấy trong môi trường chuẩn IVF sau đó được tiêm tinh trùng tạo phôi và chuyển phôi.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)

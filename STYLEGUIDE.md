@@ -30,7 +30,7 @@ description: Mô tả.
 
 ### Ngoại khoa
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 ```
 
 ### Danh sách và phân tích nội dung
@@ -96,6 +96,7 @@ Sử dụng bảng để so sánh chẩn đoán phân biệt, phác đồ điề
 **Ví dụ:**
 
 ```md
+_Bảng: "Phân biệt ra huyết âm đạo"._
 | Tiêu chí            | Dọa sảy thai               | Thai ngoài tử cung     |
 | ------------------- | -------------------------- | ---------------------- |
 | **Đau bụng**        | Âm ỉ vùng hạ vị.           | Đau nhói 1 bên.        |
