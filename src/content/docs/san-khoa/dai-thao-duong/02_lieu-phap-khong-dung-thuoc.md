@@ -27,6 +27,8 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 
 **Kiểm soát tăng cân**:
 
+_Bảng "BMI trước khi mang thai"._
+
 | BMI trước khi mang thai                             | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) theo tiêu chuẩn châu Á |
 | --------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------- |
 | **Thiếu năng lượng trường diễn (BMI < 18.5 kg/m²)** | 12.5-18       | 0.51 (0.44-0.58)                                                                                |
@@ -50,6 +52,8 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 
 **Glucid, protein và lipid**:
 
+_Bảng "Phân bố glucid, protein và lipid"._
+
 | Phân bố glucid, protein và lipid | Tỉ lệ năng lượng | Ghi chú                                                   |
 | -------------------------------- | ---------------- | --------------------------------------------------------- |
 | **Glucid**                       | 35-40%           | ≥ 175 g/ngày; Chia 3 bữa chính + 2-3 phụ; Ưu tiên GI thấp |
@@ -63,6 +67,8 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 - Sữa/chế phẩm ít béo: 3-6 đơn vị IU/ngày tuỳ tam cá nguyệt.
 
 **Phân bố bữa ăn mẫu**:
+
+_Bảng "Phân bố bữa ăn"._
 
 | Phân bố bữa ăn | % năng lượng (6 bữa/ngày) | % năng lượng (5 bữa/ngày) |
 | -------------- | ------------------------- | ------------------------- |

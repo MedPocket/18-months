@@ -9,6 +9,8 @@ Việc tầm soát và dự phòng tiền sản giật là cực kỳ quan trọ
 
 ## Đánh giá nguy cơ
 
+_Bảng "Đánh giá lâm sàng nguy cơ tiền sản giật"._
+
 | Đánh giá lâm sàng nguy cơ tiền sản giật | Yếu tố nguy cơ                                                                                                                                                                                                                                                               | Khuyến cáo                                                                  |
 | --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | **Cao**                                 | - Tiền sử tiền sản giật (đặc biệt kèm kết cục xấu)<br>- Đa thai<br>- Tăng huyết áp mạn tính<br>- Đái tháo đường type 1/type 2<br>- Bệnh thận<br>- Bệnh lý tự miễn (Lupus ban đỏ, hội chứng kháng Phospholipid)                                                               | **Khuyến cáo dùng aspirin liều thấp** khi có ≥ 1 yếu tố nguy cơ cao.        |

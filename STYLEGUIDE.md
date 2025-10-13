@@ -96,12 +96,13 @@ Sử dụng bảng để so sánh chẩn đoán phân biệt, phác đồ điề
 **Ví dụ:**
 
 ```md
-_Bảng: "Phân biệt ra huyết âm đạo"._
-| Tiêu chí            | Dọa sảy thai               | Thai ngoài tử cung     |
+_Bảng "Phân biệt ra huyết âm đạo"._
+
+| Tiêu chí | Dọa sảy thai | Thai ngoài tử cung |
 | ------------------- | -------------------------- | ---------------------- |
-| **Đau bụng**        | Âm ỉ vùng hạ vị.           | Đau nhói 1 bên.        |
-| **Ra huyết âm đạo** | Lượng ít, đỏ sẫm.          | Có thể nhiều, đỏ tươi. |
-| **Siêu âm tử cung** | Có túi thai trong tử cung. | Không thấy túi thai.   |
+| **Đau bụng** | Âm ỉ vùng hạ vị. | Đau nhói 1 bên. |
+| **Ra huyết âm đạo** | Lượng ít, đỏ sẫm. | Có thể nhiều, đỏ tươi. |
+| **Siêu âm tử cung** | Có túi thai trong tử cung. | Không thấy túi thai. |
 ```
 
 ### Tài liệu tham khảo

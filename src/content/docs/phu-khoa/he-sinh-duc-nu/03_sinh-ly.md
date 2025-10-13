@@ -50,10 +50,12 @@ _Hình ảnh "KNDy và GnRH neuron"_.
 _Hình ảnh "Thuyết 2 tế bào, 2 hormone"_.
 ![Thuyết 2 tế bào, 2 hormone](./_images/sinh-ly/thuyet-2-te-bai-2-hormone.png)
 
-| Giai đoạn nang           | Nguồn androgen              | Nguồn estrogen                                                | Phát triển                                                                               |
+_Bảng "Các giai đoạn phát triển nang trứng"._
+
+| Giai đoạn nang | Nguồn androgen | Nguồn estrogen | Phát triển |
 | ------------------------ | --------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| **Nang thứ cấp sớm**     | Tế bào vỏ (theca)           | Tế bào hạt: Aromatase hóa androstenedione → estrone/estradiol | Nang nào nhiều tế bào hạt & thụ thể FSH hơn sẽ sinh estrogen nhiều hơn → cạnh tranh FSH  |
-| **Nang de Graaf (chín)** | LH ↑ → tế bào vỏ → androgen | FSH ↑ → tế bào hạt → estradiol mạnh                           | Estradiol đạt ngưỡng & duy trì đủ lâu → phản hồi dương lên hạ đồi → đỉnh LH → phóng noãn |
+| **Nang thứ cấp sớm** | Tế bào vỏ (theca) | Tế bào hạt: Aromatase hóa androstenedione → estrone/estradiol | Nang nào nhiều tế bào hạt & thụ thể FSH hơn sẽ sinh estrogen nhiều hơn → cạnh tranh FSH |
+| **Nang de Graaf (chín)** | LH ↑ → tế bào vỏ → androgen | FSH ↑ → tế bào hạt → estradiol mạnh | Estradiol đạt ngưỡng & duy trì đủ lâu → phản hồi dương lên hạ đồi → đỉnh LH → phóng noãn |
 
 ## Phóng noãn và hoàng thể hóa
 

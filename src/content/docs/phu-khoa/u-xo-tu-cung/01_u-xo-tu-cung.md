@@ -28,6 +28,8 @@ description: Tổng quan về u xơ cơ tử cung (leiomyoma) bệnh học, phâ
 _Hình ảnh "Phân loại FIGO 2011"_.
 ![Phân loại FIGO 2011](./_images/phan-loai-u-xo-tu-cung-figo-2011.jpg)
 
+_Bảng "Phân loại u xơ tử cung" - FIGO 2011._
+
 | Phân loại FIGO 2011                                               | Mô tả                                                                                                                                                                                                               |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **S (Submucosal)**<br>Dưới niêm mạc                               | **0** Có cuống, hoàn toàn trong lòng tử cung<br>**1** < 50% trong cơ<br>**2** ≥ 50% trong cơ _(inferred)_                                                                                                           |
@@ -107,6 +109,8 @@ _Hình ảnh "Leiomyosarcoma trên MRI"_.
 **Theo dõi** triệu chứng và kích thước mỗi 6-12 tháng (sau mãn kinh 3-6 tháng) nếu không triệu chứng.
 
 ### Nội khoa
+
+_Bảng "Các phương pháp nội khoa điều trị u xơ"._
 
 | Phương pháp nội khoa điều trị u xơ | Mục tiêu                  | Ghi chú                                                               |
 | ---------------------------------- | ------------------------- | --------------------------------------------------------------------- |

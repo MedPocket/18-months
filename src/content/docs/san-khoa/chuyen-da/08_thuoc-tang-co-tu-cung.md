@@ -10,6 +10,8 @@ Có nhiều yếu tố ảnh hưởng đến đáp ứng co tử cung:
 - Con rạ khởi phát chuyển dạ dễ hơn con so.
 - Độ chín muồi của cổ tử cung (Bishop score).
 
+_Bảng "Điểm Bishop"._
+
 | Điểm Bishop - đánh giá độ chín muồi cổ tử cung | 0 điểm       | 1 điểm     | 2 điểm                   | 3 điểm         |
 | ---------------------------------------------- | ------------ | ---------- | ------------------------ | -------------- |
 | **Độ mở cổ tử cung**                           | đóng         | 1-2 cm     | 3-4 cm                   | ≥ 5 cm         |
@@ -47,6 +49,8 @@ Có nhiều yếu tố ảnh hưởng đến đáp ứng co tử cung:
 - Ngôi mông (cân nhắc kỹ trước khởi phát).
 
 ## Các thuốc thường dùng
+
+_Bảng "Thuốc tăng co tử cung"._
 
 | Thuốc tăng co tử cung và hồi phục tử cung             | Dạng                                                        | Khởi phát chuyển dạ | Dự phòng/Điều trị băng huyết | Tác dụng |
 | ----------------------------------------------------- | ----------------------------------------------------------- | ------------------- | ---------------------------- | -------- |

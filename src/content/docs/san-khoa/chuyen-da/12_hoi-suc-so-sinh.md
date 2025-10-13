@@ -17,6 +17,8 @@ _Hình ảnh "Tuần hoàn bào thai (trái) với shunt qua lỗ Botal & ống 
 
 Thực hiện tại **1, 5** và khi cần **10 phút** sau sinh theo 5 tiêu chí:
 
+_Bảng "Điểm APGAR"._
+
 | Điểm APGAR        | 0 điểm            | 1 điểm                  | 2 điểm                    |
 | ----------------- | ----------------- | ----------------------- | ------------------------- |
 | **Nhịp tim**      | < 80 lần/phút     | 80-100 lần/phút         | > 100 lần/phút            |

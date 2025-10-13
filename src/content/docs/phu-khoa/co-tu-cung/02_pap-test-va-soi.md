@@ -14,14 +14,16 @@ Pap's test hay phết mỏng tế bào cổ tử cung là công cụ tầm soát
 
 Pap’s test quy ước rẻ hơn nhưng độ nhạy và đặc hiệu thấp hơn. Pap’s test nhúng dịch tốn kém hơn nhưng giữ được tế bào tốt hơn, nên độ nhạy và đặc hiệu cao hơn.
 
-| So sánh 2 kỹ thuật thực hiện Pap's test | PAP quy ước                                                          | PAP những dịch                                                    |
+_Bảng "So sánh 2 kỹ thuật thực hiện Pap's test"._
+
+| So sánh 2 kỹ thuật thực hiện Pap's test | PAP quy ước | PAP những dịch |
 | --------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **Lấy mẫu**                             | Tương đương                                                          |                                                                   |
-| **Mất tế bào khi làm lame**             | Mất đến 80% số tế bào thu thập được                                  | Không bị mất tế bào                                               |
-| **Chất lượng lame**                     | Khó đọc do đảm độ tế bào không đều. Buộc phải đọc hoàn toàn thủ công | Tế bào dàn trải đều. Có thể đọc sơ cấp bằng máy                   |
-| **Sensitivity (%)**                     | 68                                                                   | 76                                                                |
-| **Specificity (%)**                     | 79                                                                   | 89                                                                |
-| **Khảo sát vi sinh bổ túc**             | Ngẫu nhiên: _Candida sp_. _Trichomonas vaginalis_                    | Có thể thực hiện được các khảo sát vi sinh bổ sung khi có yêu cầu |
+| **Lấy mẫu** | Tương đương | |
+| **Mất tế bào khi làm lame** | Mất đến 80% số tế bào thu thập được | Không bị mất tế bào |
+| **Chất lượng lame** | Khó đọc do đảm độ tế bào không đều. Buộc phải đọc hoàn toàn thủ công | Tế bào dàn trải đều. Có thể đọc sơ cấp bằng máy |
+| **Sensitivity (%)** | 68 | 76 |
+| **Specificity (%)** | 79 | 89 |
+| **Khảo sát vi sinh bổ túc** | Ngẫu nhiên: _Candida sp_. _Trichomonas vaginalis_ | Có thể thực hiện được các khảo sát vi sinh bổ sung khi có yêu cầu |
 
 ### Điều kiện thực hiện
 
@@ -99,13 +101,15 @@ Thay đổi do vi sinh vật: Trichomonas vaginalis, Candida sp., Gardnerella, C
 
 ### Quản lý
 
-| Phương pháp tầm soát     | Kết quả                                                              | Xử trí                                                                                                                                                                         |
+_Bảng "Tầm soát ung thư cổ tử cung"._
+
+| Phương pháp tầm soát | Kết quả | Xử trí |
 | ------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Tế bào học đơn thuần** | Tế bào học âm tính _hoặc_ ASC-US và HPV âm tính                      | Tầm soát lại sau 3 năm                                                                                                                                                         |
-|                          | Các kết quả khác                                                     | Xử trí theo khuyến cáo ASCCP                                                                                                                                                   |
-| **Co-testing**           | Tế bào học âm tính, HPV testing âm tính _hoặc_ ASC-US và HPV âm tính | Tầm soát lại sau 5 năm                                                                                                                                                         |
-|                          | Tế bào học âm tính và HPV testing dương tính                         | **Lựa chọn 1**: Lập lại co-testing sau 12 tháng (B)_<br>**Lựa chọn 2**: Genotypes HPV 16 hoặc HPV 16/18 (B)_<br>Nếu dương → soi cổ tử cung<br>Nếu âm → co-testing sau 12 tháng |
-|                          | Tất cả các kết quả khác                                              | Xử trí theo khuyến cáo ASCCP                                                                                                                                                   |
+| **Tế bào học đơn thuần** | Tế bào học âm tính _hoặc_ ASC-US và HPV âm tính | Tầm soát lại sau 3 năm |
+| | Các kết quả khác | Xử trí theo khuyến cáo ASCCP |
+| **Co-testing** | Tế bào học âm tính, HPV testing âm tính _hoặc_ ASC-US và HPV âm tính | Tầm soát lại sau 5 năm |
+| | Tế bào học âm tính và HPV testing dương tính | **Lựa chọn 1**: Lập lại co-testing sau 12 tháng (B)_<br>**Lựa chọn 2**: Genotypes HPV 16 hoặc HPV 16/18 (B)_<br>Nếu dương → soi cổ tử cung<br>Nếu âm → co-testing sau 12 tháng |
+| | Tất cả các kết quả khác | Xử trí theo khuyến cáo ASCCP |
 
 _"Các khuyến cáo dựa theo American Cancer Society, ASCCP, và ASCP. A: Mạnh, chứng cứ rõ ràng. B: Trung bình, chứng cứ không hằng định. C: Theo kinh nghiệm"_.
 

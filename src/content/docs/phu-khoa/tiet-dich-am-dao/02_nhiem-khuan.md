@@ -69,6 +69,8 @@ _Hình ảnh "Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "c
 2. **Nhóm II - _Gardnerella_ & _Bacteroides_ (vi khuẩn Gram âm, hình que ngắn hoặc _coccobacilli_)**: Càng nhiều vi khuẩn nhóm này, điểm càng cao (0-4).
 3. **Nhóm III - _Mobiluncus spp_. (vi khuẩn Gram đổi màu, trực khuẩn cong)**: Càng nhiều, điểm càng cao (0-2).
 
+_Bảng "Điểm Nugent"._
+
 | Điểm I (_Lactobacillus_)                               | Điểm II (_Gardnerella_/_Bacteroides_)                  | Điểm III (_Mobiluncus_)                                |
 | ------------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------ |
 | **Vi khuẩn Gram dương, hình que lớn**                  | **Vi khuẩn Gram âm, hình que ngắn/_coccobacilli_**     | **Trực khuẩn cong, Gram đổi màu**                      |
@@ -140,6 +142,8 @@ Theo Bệnh viện Từ Dũ, BV được chẩn đoán khi đủ 2/3 tiêu chu�
 ### Phác đồ CDC 2010
 
 Phần lớn trường hợp BV không có triệu chứng có thể tự cải thiện nhờ hệ vi sinh thay đổi. Tuy nhiên, khi có triệu chứng hoặc thuộc nhóm nguy cơ cao (phụ nữ mang thai, chuẩn bị phẫu thuật sản phụ khoa), cần can thiệp.
+
+_Bảng "Kháng sinh sử dụng"._
 
 | Kháng sinh (áp dụng cho BV có triệu chứng) | Đường dùng & Liều dùng                                         |
 | ------------------------------------------ | -------------------------------------------------------------- |

@@ -38,16 +38,20 @@ Mặc dù có nhiều nguyên nhân khác nhau, nhưng hầu hết các trườn
 
 **Thường gặp nhất ở vô kinh thứ phát**, có thể là nguyên phát nếu rụng trứng chưa từng khởi phát (dậy thì muộn, bất thường giới tính, hội chứng nhiễm sắc thể Y...). Nguyên nhân chính liên quan đến trục hạ đồi-yên-buồng trứng.
 
-| Nguyên nhân vô kinh do rối loạn chức năng rụng trứng | Ví dụ điển hình                                                                                                                                                                                                                                                       |
+_Bảng "Nguyên nhân vô kinh do rối loạn chức năng rụng trứng"._
+
+| Nguyên nhân vô kinh do rối loạn chức năng rụng trứng | Ví dụ điển hình |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Rối loạn vùng dưới đồi**                           | - Giảm sản sinh GnRH: Do thiếu hụt năng lượng (ăn kiêng quá mức, tập luyện nặng), stress, bệnh mạn tính.<br>- Rối loạn di truyền: Thiếu hụt GnRH bẩm sinh, hội chứng Prader-Willi.<br>- Xâm lấn hoặc tổn thương (u, nhiễm lao, lymphoma, chấn thương sọ não, xạ trị). |
-| **Rối loạn tuyến yên**                               | - U tuyến yên hoặc mô ngoại lai (adenoma, meningioma, tăng prolactin...).<br>- Hoại tử sau sinh (Sheehan), chấn thương, sarcoidosis, lao.<br>- Thiếu hụt gonadotropin đơn độc, hội chứng Kallmann.                                                                    |
-| **Suy buồng trứng nguyên phát**                      | - Tự miễn (viêm buồng trứng tự miễn).<br>- Di truyền (Hội chứng Turner, bất sản nang noãn).<br>- Hóa trị, xạ trị vùng chậu.<br>- U buồng trứng (theca, Brenner, u quái...).                                                                                           |
-| **Rối loạn nội tiết khác**                           | - Hội chứng buồng trứng đa nang (PCOS).<br>- Cushing, suy giáp, cường giáp.<br>- Thiếu nhạy cảm androgen/estrogen.<br>- Nam hóa (androgen, progestin liều cao, steroid đồng hóa).<br>- Béo phì, khối u sản sinh androgen/estrogen.                                    |
+| **Rối loạn vùng dưới đồi** | - Giảm sản sinh GnRH: Do thiếu hụt năng lượng (ăn kiêng quá mức, tập luyện nặng), stress, bệnh mạn tính.<br>- Rối loạn di truyền: Thiếu hụt GnRH bẩm sinh, hội chứng Prader-Willi.<br>- Xâm lấn hoặc tổn thương (u, nhiễm lao, lymphoma, chấn thương sọ não, xạ trị). |
+| **Rối loạn tuyến yên** | - U tuyến yên hoặc mô ngoại lai (adenoma, meningioma, tăng prolactin...).<br>- Hoại tử sau sinh (Sheehan), chấn thương, sarcoidosis, lao.<br>- Thiếu hụt gonadotropin đơn độc, hội chứng Kallmann. |
+| **Suy buồng trứng nguyên phát** | - Tự miễn (viêm buồng trứng tự miễn).<br>- Di truyền (Hội chứng Turner, bất sản nang noãn).<br>- Hóa trị, xạ trị vùng chậu.<br>- U buồng trứng (theca, Brenner, u quái...). |
+| **Rối loạn nội tiết khác** | - Hội chứng buồng trứng đa nang (PCOS).<br>- Cushing, suy giáp, cường giáp.<br>- Thiếu nhạy cảm androgen/estrogen.<br>- Nam hóa (androgen, progestin liều cao, steroid đồng hóa).<br>- Béo phì, khối u sản sinh androgen/estrogen. |
 
 ### Bất thường giải phẫu đường sinh dục
 
 **Dòng chảy kinh nguyệt bị tắc nghẽn dù nội tiết bình thường**. Hậu quả bế kinh (âm đạo/phúc mạc phồng), tích huyết tử cung (tử cung to, có thể nhầm khối vùng chậu).
+
+_Bảng "Nguyên nhân vô kinh do bất thường sinh dục"._
 
 | Nguyên nhân vô kinh do bất thường đường sinh dục | Ví dụ                                                                   |
 | ------------------------------------------------ | ----------------------------------------------------------------------- |

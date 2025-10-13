@@ -47,6 +47,8 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ - con ngay sau sinh và tr
 
 **OGTT 75 g** thực hiện ở 4-12 tuần sau sinh:
 
+_Bảng "OGTT 75 g thực hiện sau sinh"._
+
 | **Thời điểm**       | Bình thường                | Tiền đái tháo đường             | Đái tháo đường              |
 | ------------------- | -------------------------- | ------------------------------- | --------------------------- |
 | **Glucose khi đói** | < 5.6 mmol/L (< 100 mg/dL) | 5.6-6.9 mmol/L (100-125 mg/dL)  | ≥ 7.0 mmol/L (≥ 126 mg/dL)  |

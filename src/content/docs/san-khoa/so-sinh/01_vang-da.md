@@ -5,6 +5,8 @@ description: Vàng da sơ sinh là tình trạng thường gặp ở trẻ mới
 
 Vàng da sơ sinh là tình trạng da và niêm mạc của trẻ sơ sinh có màu vàng do tăng bilirubin tự do trong máu. Đây là một triệu chứng thường gặp, xuất hiện ở khoảng 60% trẻ đủ tháng và 80% trẻ non tháng.
 
+_Bảng "Đặc điểm vàng da sơ sinh"._
+
 | Đặc điểm phân biệt           | Vàng da sinh lý                                                      | Vàng da bệnh lý                                                                                                |
 | ---------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **Thời điểm xuất hiện**      | Sau **24 giờ** sau sinh (thường ngày 2-3)                            | Trong **24 giờ đầu** sau sinh                                                                                  |

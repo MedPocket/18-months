@@ -35,6 +35,8 @@ Chẩn đoán xác định khi quan sát thấy dịch lỏng chảy ra đột n
 
 ### Chẩn đoán phân biệt
 
+_Bảng "Chẩn đoán phân biệt ối vỡ non"._
+
 | Triệu chứng hiện hữu và dấu hiệu điển hình               | Triệu chứng/dấu hiệu không thường xuyên                                                       | Khả năng chẩn đoán           |
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------- |
 | Ra nước âm đạo                                           | Ra dịch đột ngột/rĩ rã, lặp đi lặp lại<br>Đặt mỏ vịt có dịch âm đạo<br>Không cơn gò sau 1 giờ | Vỡ ối non                    |

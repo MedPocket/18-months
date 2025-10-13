@@ -78,7 +78,8 @@ Dùng khi:
 
 Ngoài hiếm muộn, còn dùng điều trị ung thư vú sau mãn kinh.
 
-_Bảng: "Phân loại aromatase inhibitor (AI)"_  
+_Bảng "Phân loại aromatase inhibitor (AI)"_
+
 | Thế hệ | Type I (steroid analog) | Type II (nonsteroid analog) |  
 |--------|----------------------------|-----------------------------------------------|  
 | 1 | | Aminoglutethimid |  

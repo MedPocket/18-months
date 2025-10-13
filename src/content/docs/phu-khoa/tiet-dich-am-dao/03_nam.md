@@ -100,6 +100,8 @@ Chủng _Candida glabrata_:
 
 ### Tại chỗ
 
+_Bảng "Thuốc kháng nấm tại chỗ điều trị VVC không biến chứng"._
+
 | Thuốc kháng nấm tại chỗ (First line therapy) điều trị VVC không biến chứng | Biệt dược                                  | Dạng thuốc                                  | Liều dùng                                                                                                                                                   |
 | -------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Butoconazole**                                                           | Gynazole-1, Mycclex-3                      | 2% cream âm đạo                             | Gynazole-1: 1 lần/ngày x 1 ngày<br>Mycclex-3: 1 lần/ngày x 3 ngày                                                                                           |

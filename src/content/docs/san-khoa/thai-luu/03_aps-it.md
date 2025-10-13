@@ -7,6 +7,8 @@ description: Quản lý hội chứng kháng phospholipid (Antiphospholipid Synd
 
 **Hội chứng tăng đông di truyền (Inherited Thrombophilia)** là tình trạng **tăng nguy cơ huyết khối** do **đột biến gen** hoặc **thiếu hụt protein chống đông** bẩm sinh. Ở phụ nữ mang thai, nguy cơ huyết khối vốn đã tăng cao sinh lý nên khi có thrombophilia di truyền, cần đánh giá và điều trị dự phòng để tránh thuyên tắc mạch, tiền sản giật, sẩy thai tái diễn hoặc hạn chế tăng trưởng trong tử cung. **Các đột biến và thiếu hụt thường gặp** Factor V Leiden (G1691A), Prothrombin G20210A, thiếu hụt Protein S, thiếu hụt Protein C, Thiếu hụt Antithrombin III (ATIII), Không bao gồm MTHFR đơn thuần trừ khi kèm hyperhomocysteinemia.
 
+_Bảng "So sánh Hội chứng kháng phosphilipid và Hội chứng tăng đông di truyền"._
+
 | So sánh Hội chứng kháng phosphilipid và Hội chứng tăng đông di truyền | APS                               | Tăng đông di truyền                 |
 | --------------------------------------------------------------------- | --------------------------------- | ----------------------------------- |
 | **Nguyên nhân**                                                       | Tự miễn                           | Di truyền                           |
@@ -43,6 +45,8 @@ Xét nghiệm phát hiện **kháng thể kháng phospholipid** (tự miễn), k
 
 Kết quả xét nghiệm:
 
+_Bảng "Kháng thể kháng phospholipid"._
+
 | Xét nghiệm       | Kết quả | Ngưỡng bình thường | Ý nghĩa                        |
 | ---------------- | ------- | ------------------ | ------------------------------ |
 | aCL IgG          | 45 GPL  | <20 GPL            | Dương tính, mức trung bình-cao |
@@ -73,6 +77,8 @@ Tiền sử **huyết khối tĩnh mạch sâu (DVT)**, **thuyên tắc phổi**
 
 Kết quả xét nghiệm:
 
+_Bảng "Xét nghiệm gene tăng đông"._
+
 | Gene        | Kết quả      | Ý nghĩa                                               |
 | ----------- | ------------ | ----------------------------------------------------- |
 | F5 Leiden   | Heterozygous | Nguy cơ tăng đông tăng khoảng 3–5 lần                 |
@@ -90,6 +96,8 @@ Kết quả xét nghiệm:
 - Huyết khối cấp tính.
 
 ## Điều trị
+
+_Bảng "Phân tầng nguy cơ và phác đồ điều trị Hội chứng kháng phospholipid"._
 
 | Phân tầng nguy cơ và phác đồ điều trị Hội chứng kháng phospholipid | Tiền sử lâm sàng                                                                                                       | Phác đồ điều trị trong thai kỳ                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

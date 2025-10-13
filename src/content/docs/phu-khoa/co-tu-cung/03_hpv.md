@@ -62,31 +62,35 @@ _Hình ảnh "Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào 
 
 ### Phân loại
 
-| Loại vaccine | Type bảo vệ                       | Phổ bảo vệ                                               |
-| ------------ | --------------------------------- | -------------------------------------------------------- |
-| **2vHPV**    | 16, 18                            | Ngừa ung thư cổ tử cung (66% trường hợp)                 |
-| **4vHPV**    | 6, 11, 16, 18                     | Ngừa ung thư cổ tử cung và mụn cóc sinh dục (type 6, 11) |
-| **9vHPV**    | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên 81-90%  |
+_Bảng "Các loại vaccine phòng HPV"._
 
-| So sánh vaccine HPV nhị giá và tứ giá     | Vaccine HPV tứ giá  | Vaccine HPV nhị giá    |
+| Loại vaccine | Type bảo vệ | Phổ bảo vệ |
+| ------------ | --------------------------------- | -------------------------------------------------------- |
+| **2vHPV** | 16, 18 | Ngừa ung thư cổ tử cung (66% trường hợp) |
+| **4vHPV** | 6, 11, 16, 18 | Ngừa ung thư cổ tử cung và mụn cóc sinh dục (type 6, 11) |
+| **9vHPV** | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên 81-90% |
+
+_Bảng "So sánh vaccine HPV"._
+
+| So sánh vaccine HPV nhị giá và tứ giá | Vaccine HPV tứ giá | Vaccine HPV nhị giá |
 | ----------------------------------------- | ------------------- | ---------------------- |
-| **Thời gian theo dõi**                    | 36 tháng (nâng cao) | 15 tháng (tạm thời)    |
-| **Type bảo vệ**                           | 6, 11, 16, 18       | 16, 18                 |
-| **Hiệu quả trên CIN 2 do 16 hay 18**      | Đã được chứng minh  | Đã được chứng minh     |
-| **Hiệu quả trên CIN 2 do 16**             | Đã được chứng minh  | Đã được chứng minh     |
-| **Hiệu quả trên CIN 2 do 18**             | Đã được chứng minh  | Chưa chứng minh        |
-| **Hiệu quả trên CIN 2 do 16 hay 18**      | Đã được chứng minh  | Đã được chứng minh     |
-| **Hiệu quả trên CIN 3 do 16 hay 18**      | Đã được chứng minh  | Chưa chứng minh        |
-| **Hiệu quả điều trị**                     | Không               | Không                  |
-| **Hiệu quả trên tân sinh biểu mô âm hộ**  | Đã được chứng minh  | Chưa được báo cáo      |
-| **Hiệu quả trên tân sinh biểu mô âm đạo** | Đã được chứng minh  | Chưa được báo cáo      |
-| **Hiệu quả trên mụn cóc sinh dục**        | Đã được chứng minh  | Không phải là mục tiêu |
-| **An toàn sau 6 năm theo dõi**            | An toàn             | An toàn                |
-| **Tính chấp nhận (dung nạp)**             | Chấp nhận           | Chấp nhận              |
-| **Thời gian bảo vệ**                      | 5-6 năm             | 5-6 năm                |
-| **Tạo miễn dịch ở vị thành niên**         | Đã được chứng minh  | Đã được chứng minh     |
-| **Tạo miễn dịch ở nữ lớn tuổi hơn**       | Đã được chứng minh  | Đã được chứng minh     |
-| **Ký ức miễn dịch sau 6 năm**             | Đã được chứng minh  | Chưa báo cáo           |
+| **Thời gian theo dõi** | 36 tháng (nâng cao) | 15 tháng (tạm thời) |
+| **Type bảo vệ** | 6, 11, 16, 18 | 16, 18 |
+| **Hiệu quả trên CIN 2 do 16 hay 18** | Đã được chứng minh | Đã được chứng minh |
+| **Hiệu quả trên CIN 2 do 16** | Đã được chứng minh | Đã được chứng minh |
+| **Hiệu quả trên CIN 2 do 18** | Đã được chứng minh | Chưa chứng minh |
+| **Hiệu quả trên CIN 2 do 16 hay 18** | Đã được chứng minh | Đã được chứng minh |
+| **Hiệu quả trên CIN 3 do 16 hay 18** | Đã được chứng minh | Chưa chứng minh |
+| **Hiệu quả điều trị** | Không | Không |
+| **Hiệu quả trên tân sinh biểu mô âm hộ** | Đã được chứng minh | Chưa được báo cáo |
+| **Hiệu quả trên tân sinh biểu mô âm đạo** | Đã được chứng minh | Chưa được báo cáo |
+| **Hiệu quả trên mụn cóc sinh dục** | Đã được chứng minh | Không phải là mục tiêu |
+| **An toàn sau 6 năm theo dõi** | An toàn | An toàn |
+| **Tính chấp nhận (dung nạp)** | Chấp nhận | Chấp nhận |
+| **Thời gian bảo vệ** | 5-6 năm | 5-6 năm |
+| **Tạo miễn dịch ở vị thành niên** | Đã được chứng minh | Đã được chứng minh |
+| **Tạo miễn dịch ở nữ lớn tuổi hơn** | Đã được chứng minh | Đã được chứng minh |
+| **Ký ức miễn dịch sau 6 năm** | Đã được chứng minh | Chưa báo cáo |
 
 ### Sử dụng
 

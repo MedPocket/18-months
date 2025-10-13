@@ -107,12 +107,14 @@ _Hình ảnh “Sùi mào gà vùng sinh dục”_.
 - **Chỉ định điều trị khi tổn thương lớn, gây chảy máu, vướng víu hoặc nguy cơ tắc đường sinh dục**.
 - **Trì hoãn điều trị nếu tổn thương nhỏ, không triệu chứng**, vì nhiều trường hợp có thể thoái lui sau sinh.
 
-| Phương pháp điều trị                  | Ghi chú                                                                                                                          |
+_Bảng "Điều trị sù mào gà"._
+
+| Phương pháp điều trị | Ghi chú |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **Trichloroacetic acid (TCA) 80-90%** | Bôi tại chỗ bởi bác sĩ. An toàn cho thai kỳ.                                                                                     |
-| **Đốt điện - Laser - Phẫu thuật**     | Áp dụng cho sùi lớn, tắc âm đạo. Nên thực hiện ở tam cá nguyệt 2-3.                                                              |
-| **Imiquimod 5%**                      | Chưa khuyến cáo dùng do thiếu dữ liệu an toàn hoàn toàn. Chỉ cân nhắc nếu lợi ích vượt trội nguy cơ, có chỉ định của chuyên gia. |
-| **Podophyllotoxin/Podophyllin**       | **Chống chỉ định tuyệt đối** trong thai kỳ. Gây độc cho thai.                                                                    |
+| **Trichloroacetic acid (TCA) 80-90%** | Bôi tại chỗ bởi bác sĩ. An toàn cho thai kỳ. |
+| **Đốt điện - Laser - Phẫu thuật** | Áp dụng cho sùi lớn, tắc âm đạo. Nên thực hiện ở tam cá nguyệt 2-3. |
+| **Imiquimod 5%** | Chưa khuyến cáo dùng do thiếu dữ liệu an toàn hoàn toàn. Chỉ cân nhắc nếu lợi ích vượt trội nguy cơ, có chỉ định của chuyên gia. |
+| **Podophyllotoxin/Podophyllin** | **Chống chỉ định tuyệt đối** trong thai kỳ. Gây độc cho thai. |
 
 **Xử trí khi chuyển dạ**:
 

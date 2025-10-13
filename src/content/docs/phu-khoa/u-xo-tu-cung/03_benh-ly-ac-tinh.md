@@ -35,6 +35,8 @@ Sarcoma cơ trơn thân tử cung là khối u ác tính rất hiếm, chiếm <
 
 ### Đặc điểm
 
+_Bảng "So sánh u xơ tử cung, STUMP và sarcoma thân tử cung"._
+
 | So sánh u xơ tử cung, STUMP và sarcoma thân tử cung | U xơ-cơ lành tính | STUMP                               | Sarcoma cơ trơn             |
 | --------------------------------------------------- | ----------------- | ----------------------------------- | --------------------------- |
 | **Đột biến nhân**                                   | Hiếm              | Có thể có, không rõ rệt             | Thường                      |

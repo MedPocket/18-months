@@ -42,6 +42,9 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 ### Khảo sát giải phẫu tử cung
 
 - Siêu âm 3D là lựa chọn đầu tay, có thể thay thế bằng SIS hoặc MRI nếu cần.
+
+  _Bảng "Bất thường giải phẫu tử cung"._
+
   | Bất thường giải phẫu tử cung | Điều trị |
   | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
   | **Tử cung có vách ngăn** | Nội soi buồng tử cung cắt vách ngăn |

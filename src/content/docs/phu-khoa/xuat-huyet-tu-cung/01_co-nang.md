@@ -53,6 +53,8 @@ _Hình ảnh "Acantosis nigricans, rậm lông và mụn trứng cá nặng, qua
 
 #### Xét nghiệm cơ bản
 
+_Bảng "Các xét nghiệm cơ bản"._
+
 | Xét nghiệm cần cân nhắc thực hiện         | Mục đích                                                                   |
 | ----------------------------------------- | -------------------------------------------------------------------------- |
 | **hCG (nước tiểu hay máu)**               | Loại trừ thai                                                              |

@@ -72,6 +72,8 @@ Một số chống chỉ định tương đối:
 
 ### Ứng dụng
 
+_Bảng "So sánh tê tủy sống và tê ngoài màng cứng"._
+
 | So sánh tê tủy sống và tê ngoài màng cứng | Cơ chế                                                                       | Ứng dụng                                                          |
 | ----------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Tê tủy sống                               | Thuốc tê vào dịch não tủy → tác dụng nhanh, phong bế mạnh.                   | Phù hợp trong mổ lấy thai nhờ khởi phát nhanh.                    |

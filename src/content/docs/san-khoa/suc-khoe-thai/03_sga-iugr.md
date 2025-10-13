@@ -28,6 +28,8 @@ description: Thai nhỏ so với tuổi thai (Small-for-Gestational Age - SGA) v
 Khi EFW hoặc AC đạt ngưỡng bách phân vị thứ 10, cần theo dõi tích cực; Dưới bách phân vị thứ 3, cân nhắc chỉ định can thiệp sớm.
 :::
 
+_Bảng "Cân nặng theo tuần thai"._
+
 | Tuần thai | Chiều dài (cm) | Cân nặng (gram) | Tuần thai | Chiều dài (cm) | Cân nặng (gram) |
 | --------- | -------------- | --------------- | --------- | -------------- | --------------- |
 | **13**    | 7.4            | 23              | **28**    | 37.6           | 1000            |

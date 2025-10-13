@@ -27,12 +27,16 @@ Theo khuyến cáo của FIGO 2018, AUB được phân thành hai hệ thống:
 
 ### Theo nguyên nhân (PALM-COEIN)
 
+_Bảng "Phân loại PALM"._
+
 |                              | Nguyên nhân thuộc cấu trúc (PALM)                                                  |
 | ---------------------------- | ---------------------------------------------------------------------------------- |
 | **P**olyps                   | Polyp nội mạc tử cung                                                              |
 | **A**denomyosis              | Lạc nội mạc trong cơ tử cung                                                       |
 | **L**eiomyomas               | U xơ tử cung (chủ yếu u xơ dưới niêm mạc và trong cơ)                              |
 | **M**alignancy & Hyperplasia | Tăng sinh nội mạc (simple/complex, có/không loạn sản) hoặc ung thư nội mạc tử cung |
+
+_Bảng "Phân loại COEIN"._
 
 |                           | Nguyên nhân không thuộc cấu trúc (COEIN)                                             |
 | ------------------------- | ------------------------------------------------------------------------------------ |
@@ -74,6 +78,8 @@ _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của
 ### Cận lâm sàng
 
 #### Xét nghiệm cơ bản
+
+_Bảng "Xét nghiệm cơ bản"._
 
 | Xét nghiệm cần cân nhắc thực hiện         | Mục đích                                                                   |
 | ----------------------------------------- | -------------------------------------------------------------------------- |

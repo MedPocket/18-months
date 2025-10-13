@@ -34,6 +34,8 @@ _Hình ảnh "Thay đổi nhu cầu insulin theo các giai đoạn thai kỳ"_.
 
 ## Yếu tố nguy cơ
 
+_Bảng "Yếu tố nguy cơ đái tháo đường"._
+
 | Yếu tố nguy cơ          | Tiêu chí/Ngưỡng                                                                                                    |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | **BMI trước mang thai** | ≥ 23 kg/m² (người châu Á)                                                                                          |
@@ -48,6 +50,8 @@ _Hình ảnh "Thay đổi nhu cầu insulin theo các giai đoạn thai kỳ"_.
 ## Sàng lọc và chẩn đoán
 
 ### 3 tháng đầu (≤ 13 tuần 6 ngày)
+
+_Bảng "Kết quả lâm sàng 3 tháng đầu"._
 
 | Kết quả sàng lọc 3 tháng đầu | Tiêu chí                                                                               | Xử trí                      |
 | ---------------------------- | -------------------------------------------------------------------------------------- | --------------------------- |
@@ -76,6 +80,8 @@ _Hình ảnh "Thay đổi nhu cầu insulin theo các giai đoạn thai kỳ"_.
 
 :::note[Tiêu chuẩn chẩn đoán GDM]
 **Chẩn đoán GDM** khi có ≥ 1 tiêu chí bất thường theo IADPSG/WHO 2013):
+
+_Bảng "Chẩn đoán GDM"._
 
 | Thời điểm | Glucose (mg/dL) | Glucose (mmol/L) |
 | --------- | --------------- | ---------------- |
@@ -128,6 +134,8 @@ Không cần sàng lọc lại nếu đã chẩn đoán GDM. Nếu bỏ sót tr�
 
 **Tăng phù hợp với BMI trước mang thai**:
 
+_Bảng "BMI trước khi mang thai"._
+
 | BMI trước khi mang thai                             | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) theo tiêu chuẩn châu Á |
 | --------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------- |
 | **Thiếu năng lượng trường diễn (BMI < 18.5 kg/m²)** | 12.5-18       | 0.51 (0.44-0.58)                                                                                |
@@ -136,6 +144,8 @@ Không cần sàng lọc lại nếu đã chẩn đoán GDM. Nếu bỏ sót tr�
 | **Béo phì (BMI > 24.9 kg/m²)**                      | 5-9           | 0.22 (0.17-0.27)                                                                                |
 
 ### Mục tiêu
+
+_Bảng "Mục tiêu đường máu"._
 
 | Thời điểm     | Glucose mao mạch mục tiêu (mg/dL) | Glucose mao mạch mục tiêu (mmol/L) |
 | ------------- | --------------------------------- | ---------------------------------- |

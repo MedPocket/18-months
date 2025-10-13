@@ -26,6 +26,8 @@ Khảo sát động học dòng chảy bằng Doppler có giá trị dự báo c
 _Hình ảnh "PI trung bình của động mạch tử cung"_.
 ![PI trung bình của động mạch tử cung](./_images/sieu-am-doppler/pi-trung-binh-cua-dong-mach-tu-cung.png)
 
+_Bảng "Chỉ định Doppler động mạch tử cung tuần 17-22"._
+
 | Chỉ định Doppler động mạch tử cung tuần 17-22 | Các chỉ định siêu âm Doppler khảo sát dòng chảy động mạch tử cung lúc thai 17-22 tuần                                                                                                                                        |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Tiền căn thai kỳ trước**                    | - Tăng huyết áp thai kỳ với khởi phát thai kỳ sớm<br>- Nhau bong non<br>- Thai chậm tăng trưởng trong tử cung<br>- Chết chu sinh<br>- Tăng huyết áp tồn tại trước khi mang thai<br>- Tăng huyết áp thai kỳ                   |

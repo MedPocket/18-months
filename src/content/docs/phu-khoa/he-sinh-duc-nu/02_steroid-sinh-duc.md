@@ -105,11 +105,13 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 
 ## Thụ thể
 
-| Thụ thể của các steroids | Gene       | Isoform             | Chức năng                                                         |
+_Bảng "Các thụ thể steroids"._
+
+| Thụ thể của các steroids | Gene | Isoform | Chức năng |
 | ------------------------ | ---------- | ------------------- | ----------------------------------------------------------------- |
-| **ER**                   | ESR1, ESR2 | ER-α, ER-β          | Kích hoạt ERE → điều hòa gene phát triển nội mạc, vú, xương...    |
-| **PR**                   | PGR        | PR-A (ức chế), PR-B | PR-B hoạt hóa PRE; PR-A đối kháng PR-B, điều hòa ngược bộ máy PR. |
-| **AR**                   | AR (X-chr) | 1 isoform chính     | Kích hoạt ARE → điều hòa biệt hóa cơ quan sinh dục nam, mô xương. |
+| **ER** | ESR1, ESR2 | ER-α, ER-β | Kích hoạt ERE → điều hòa gene phát triển nội mạc, vú, xương... |
+| **PR** | PGR | PR-A (ức chế), PR-B | PR-B hoạt hóa PRE; PR-A đối kháng PR-B, điều hòa ngược bộ máy PR. |
+| **AR** | AR (X-chr) | 1 isoform chính | Kích hoạt ARE → điều hòa biệt hóa cơ quan sinh dục nam, mô xương. |
 
 ## Tài liệu tham khảo
 

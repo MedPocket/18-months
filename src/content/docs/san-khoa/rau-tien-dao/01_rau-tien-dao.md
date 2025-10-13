@@ -44,6 +44,8 @@ Siêu âm qua đường âm đạo đo khoảng cách (mm) giữa mép bánh rau
 
 ### Chẩn đoán phân biệt
 
+_Bảng "Phân biệt rau tiền đạo và rau bong non"._
+
 | Phân biệt rau tiền đạo và rau bong non | Rau tiền đạo              | Rau bong non                                                                 |
 | -------------------------------------- | ------------------------- | ---------------------------------------------------------------------------- |
 | **Lượng máu mất**                      | Thay đổi                  | Thay đổi                                                                     |

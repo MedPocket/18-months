@@ -64,13 +64,15 @@ PCOS tăng nguy cơ: rối loạn đường huyết đói, rối loạn dung n�
 
 Chẩn đoán hội chứng chuyển hóa khi có ≥ 3/5 tiêu chuẩn:
 
-| Yếu tố nguy cơ | Ngưỡng bất thường                                    |
+_Bảng "Hội chứng chuyển hóa"._
+
+| Yếu tố nguy cơ | Ngưỡng bất thường |
 | -------------- | ---------------------------------------------------- |
-| Vòng eo        | > 80 cm                                              |
-| Triglycerides  | ≥ 150 mg/dL                                          |
-| HDL-C          | < 50 mg/dL                                           |
-| Huyết áp       | ≥ 130/85 mmHg                                        |
-| Đường huyết    | 110–126 mg/dL (đói) hoặc 140–199 mg/dL (2h sau OGTT) |
+| Vòng eo | > 80 cm |
+| Triglycerides | ≥ 150 mg/dL |
+| HDL-C | < 50 mg/dL |
+| Huyết áp | ≥ 130/85 mmHg |
+| Đường huyết | 110–126 mg/dL (đói) hoặc 140–199 mg/dL (2h sau OGTT) |
 
 Khuyến cáo OGTT 75 g đường để sàng lọc; HbA1c/đường đói chỉ mang tính tham khảo.
 
