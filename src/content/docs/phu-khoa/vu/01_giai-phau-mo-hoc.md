@@ -66,7 +66,7 @@ _Hình ảnh "Giải phẫu mặt cắt ngang tuyến vú và mối tương quan
 - Tương tác ER/PR với estrogen và progesterone góp phần điều hòa phát triển ống, nang và bài xuất sữa.
 - Trong ung thư vú, đánh giá ER/PR là bắt buộc để xác định hướng điều trị (hormon therapy) và tiên lượng: **ER/PR dương tính**: Khối u thường đáp ứng thuốc ức chế hormon (tamoxifen, aromatase inhibitors), tiến triển chậm hơn. **ER/PR âm tính**: Khối u không đáp ứng liệu pháp hormon, khả năng xâm lấn và di căn cao hơn.
 
-_Bảng "Phân biệt thụ thể estrogen và progesterone"._
+_Bảng "Phân biệt thụ thể estrogen và progesterone"_.
 
 | Thụ thể Estrogen (ER)                            | Thụ thể Progesterone (PR)                                     |
 | ------------------------------------------------ | ------------------------------------------------------------- |

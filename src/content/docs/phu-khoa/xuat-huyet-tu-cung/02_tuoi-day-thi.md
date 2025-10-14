@@ -103,7 +103,7 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
 
 #### Xét nghiệm cơ bản
 
-_Bảng "Các xét nghiệm cơ bản"._
+_Bảng "Các xét nghiệm cơ bản"_.
 
 | Xét nghiệm cần cân nhắc thực hiện         | Mục đích                                                                |
 | ----------------------------------------- | ----------------------------------------------------------------------- |
@@ -194,7 +194,7 @@ Chọn progestogen có **tính kháng estrogen** vừa đủ và **ít ức ch�
 - Sau 7-10 ngày dùng estrogen, thêm dydrogesterone 10 mg x 2/ngày trong 10-14 ngày.
 - Hoặc dùng phối hợp COC (Ethinyl estradiol + Levonorgestrel) liều trung bình (Ethinyl estradiol 30 µg) liên tục trong 21-28 ngày.
 
-_Bảng "Các loại progestin"._
+_Bảng "Các loại progestin"_.
 
 | Loại progestin                             | Tính progestogen | Tính kháng gonadotropin | Tính kháng estrogen | Tính estrogen androgen | Tính androgen | Tính kháng glucocorticoid | Tính kháng mineralocort. |
 | ------------------------------------------ | ---------------- | ----------------------- | ------------------- | ---------------------- | ------------- | ------------------------- | ------------------------ |

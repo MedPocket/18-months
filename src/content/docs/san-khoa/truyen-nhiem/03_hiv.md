@@ -18,7 +18,7 @@ description: HIV (Human Immunodeficiency Virus) là virus gây suy giảm miễn
 
 ### Phân loại
 
-_Bảng "Phân loại HIV lâm sàng"._
+_Bảng "Phân loại HIV lâm sàng"_.
 
 | Phân loại HIV lâm sàng theo CDC | Triệu chứng chính                                                                                                     | CD4 > 500 | CD4 200-499 | CD4 < 200 |
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --------- |
@@ -84,7 +84,7 @@ _Bảng "Phân loại HIV lâm sàng"._
 
 ### Ủ bệnh
 
-_Bảng "Xét nghiệm HIV"._
+_Bảng "Xét nghiệm HIV"_.
 
 | Loại xét nghiệm                          | Phát hiện HIV sớm nhất sau phơi nhiễm | Thời gian khuyến nghị làm xét nghiệm   |
 | ---------------------------------------- | ------------------------------------- | -------------------------------------- |

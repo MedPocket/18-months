@@ -5,7 +5,7 @@ description: Tổng quan về hiệu quả, độ an toàn, tính kinh tế và 
 
 Có nhiều phương pháp tránh thai, hoạt động dựa trên những nguyên lý và cơ chế khác nhau.
 
-_Bảng "Các phương pháp tránh thai"._
+_Bảng "Các phương pháp tránh thai"_.
 
 | Phân loại                 | Phương pháp                                                                                                             | Cơ chế tác động                                                                                                         |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
@@ -29,7 +29,7 @@ Mỗi phương pháp được đặc trưng bằng:
 
 Tính bằng **chỉ số Pearl** (số thai kỳ/100 năm-phụ nữ sử dụng).
 
-_Bảng "Tính hiệu quả của các phương pháp tránh thai"._
+_Bảng "Tính hiệu quả của các phương pháp tránh thai"_.
 
 | Phương pháp                | Chỉ số Pearl (dùng đúng cách)   | Ghi chú                              |
 | -------------------------- | ------------------------------- | ------------------------------------ |
@@ -45,7 +45,7 @@ _Bảng "Tính hiệu quả của các phương pháp tránh thai"._
 
 Các yếu tố ảnh hưởng đến an toàn: Tuổi, hút thuốc, tiền sử huyết khối, bệnh lý tim mạch, tiểu đường, động kinh, cho con bú...
 
-_Bảng "Tính an toàn của các phương pháp tránh thai"._
+_Bảng "Tính an toàn của các phương pháp tránh thai"_.
 
 | Phương pháp       | An toàn chung | Hạn chế thường gặp                                           |
 | ----------------- | ------------- | ------------------------------------------------------------ |
@@ -58,7 +58,7 @@ _Bảng "Tính an toàn của các phương pháp tránh thai"._
 
 ### Tính kinh tế
 
-_Bảng "Tính kinh tế của các phương pháp tránh thai"._
+_Bảng "Tính kinh tế của các phương pháp tránh thai"_.
 
 | Phương pháp    | Chi phí ban đầu | Chi phí dài hạn      | Ghi chú          |
 | -------------- | --------------- | -------------------- | ---------------- |
@@ -101,7 +101,7 @@ Phụ thuộc vào:
 
 ### Tình huống cụ thể
 
-_Bảng "Các tình huống tránh thai cụ thể"._
+_Bảng "Các tình huống tránh thai cụ thể"_.
 
 | Tình huống                                         | Gợi ý phương pháp               | Lý do                          |
 | -------------------------------------------------- | ------------------------------- | ------------------------------ |

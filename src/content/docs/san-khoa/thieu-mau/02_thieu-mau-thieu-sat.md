@@ -7,7 +7,7 @@ Thiếu máu thiếu sắt trong thai kỳ là tình trạng rất phổ biến,
 
 ## Hậu quả
 
-_Bảng "Đối tượng thiếu sắt trong thai kỳ"._
+_Bảng "Đối tượng thiếu sắt trong thai kỳ"_.
 
 | Đối tượng                 | Thiếu máu thiếu sắt                                                                                                                          | Thiếu máu thiếu acid folic                                                                                                                                    |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,7 +43,7 @@ Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic 
 
 **ACOG** bổ sung sắt nguyên tố suốt thai kỳ, liều tùy tình trạng thiếu máu:
 
-_Bảng "Bổ sung sắt trong thai kỳ"._
+_Bảng "Bổ sung sắt trong thai kỳ"_.
 
 | Giai đoạn        | Hemoglobin (g/dL) | Ferritin (µg/L) | Khuyến cáo             |
 | ---------------- | ----------------- | --------------- | ---------------------- |

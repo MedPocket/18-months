@@ -34,7 +34,7 @@ _Hình ảnh "Thay đổi nhu cầu insulin theo các giai đoạn thai kỳ"_.
 
 ## Yếu tố nguy cơ
 
-_Bảng "Yếu tố nguy cơ đái tháo đường"._
+_Bảng "Yếu tố nguy cơ đái tháo đường"_.
 
 | Yếu tố nguy cơ          | Tiêu chí/Ngưỡng                                                                                                    |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -51,7 +51,7 @@ _Bảng "Yếu tố nguy cơ đái tháo đường"._
 
 ### 3 tháng đầu (≤ 13 tuần 6 ngày)
 
-_Bảng "Kết quả lâm sàng 3 tháng đầu"._
+_Bảng "Kết quả lâm sàng 3 tháng đầu"_.
 
 | Kết quả sàng lọc 3 tháng đầu | Tiêu chí                                                                               | Xử trí                      |
 | ---------------------------- | -------------------------------------------------------------------------------------- | --------------------------- |
@@ -81,7 +81,7 @@ _Bảng "Kết quả lâm sàng 3 tháng đầu"._
 :::note[Tiêu chuẩn chẩn đoán GDM]
 **Chẩn đoán GDM** khi có ≥ 1 tiêu chí bất thường theo IADPSG/WHO 2013):
 
-_Bảng "Chẩn đoán GDM"._
+_Bảng "Chẩn đoán GDM"_.
 
 | Thời điểm | Glucose (mg/dL) | Glucose (mmol/L) |
 | --------- | --------------- | ---------------- |
@@ -134,7 +134,7 @@ Không cần sàng lọc lại nếu đã chẩn đoán GDM. Nếu bỏ sót tr�
 
 **Tăng phù hợp với BMI trước mang thai**:
 
-_Bảng "BMI trước khi mang thai"._
+_Bảng "BMI trước khi mang thai"_.
 
 | BMI trước khi mang thai                             | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) theo tiêu chuẩn châu Á |
 | --------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------- |
@@ -145,7 +145,7 @@ _Bảng "BMI trước khi mang thai"._
 
 ### Mục tiêu
 
-_Bảng "Mục tiêu đường máu"._
+_Bảng "Mục tiêu đường máu"_.
 
 | Thời điểm     | Glucose mao mạch mục tiêu (mg/dL) | Glucose mao mạch mục tiêu (mmol/L) |
 | ------------- | --------------------------------- | ---------------------------------- |

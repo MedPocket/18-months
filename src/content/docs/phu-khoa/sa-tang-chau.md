@@ -15,7 +15,7 @@ description: Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là
 
 ## Phân loại
 
-_Bảng "Phân loại sa tạng chậu"._
+_Bảng "Phân loại sa tạng chậu"_.
 
 | Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại                                                              | Xét nghiệm cần thiết     |
 | ------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------ |

@@ -28,7 +28,7 @@ description: Tổng quan về u xơ cơ tử cung (leiomyoma) bệnh học, phâ
 _Hình ảnh "Phân loại FIGO 2011"_.
 ![Phân loại FIGO 2011](./_images/phan-loai-u-xo-tu-cung-figo-2011.jpg)
 
-_Bảng "Phân loại u xơ tử cung" - FIGO 2011._
+_Bảng "Phân loại u xơ tử cung" - FIGO 2011_.
 
 | Phân loại FIGO 2011                                               | Mô tả                                                                                                                                                                                                               |
 | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -110,7 +110,7 @@ _Hình ảnh "Leiomyosarcoma trên MRI"_.
 
 ### Nội khoa
 
-_Bảng "Các phương pháp nội khoa điều trị u xơ"._
+_Bảng "Các phương pháp nội khoa điều trị u xơ"_.
 
 | Phương pháp nội khoa điều trị u xơ | Mục tiêu                  | Ghi chú                                                               |
 | ---------------------------------- | ------------------------- | --------------------------------------------------------------------- |

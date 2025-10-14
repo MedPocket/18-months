@@ -120,7 +120,7 @@ Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong c�
 
 ## Nhu cầu
 
-_Bảng "Bổ sung vi chất trong thai kỳ"._
+_Bảng "Bổ sung vi chất trong thai kỳ"_.
 
 | Giai đoạn                          | Acid folic      | DHA             | Sắt                        | Canxi                  | Magie                           |
 | ---------------------------------- | --------------- | --------------- | -------------------------- | ---------------------- | ------------------------------- |
@@ -137,7 +137,7 @@ _Bảng "Bổ sung vi chất trong thai kỳ"._
 
 ## Hướng dẫn
 
-_Bảng "Sử dụng vi chất trong ngày"._
+_Bảng "Sử dụng vi chất trong ngày"_.
 
 | Buổi     | Sản phẩm bổ sung | Hướng dẫn bổ sung hằng ngày                                                           |
 | -------- | ---------------- | ------------------------------------------------------------------------------------- |

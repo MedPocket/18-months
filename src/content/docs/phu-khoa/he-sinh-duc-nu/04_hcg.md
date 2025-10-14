@@ -54,7 +54,7 @@ description: human Chorionic Gonadotropin (hCG) nguồn gốc, cấu trúc, th�
 
 ### Ngưỡng β-hCG
 
-_Bảng "Ngưỡng β-hCG"._
+_Bảng "Ngưỡng β-hCG"_.
 
 | Tuổi thai             | Mức β-hCG (mIU/mL) |
 | --------------------- | ------------------ |

@@ -12,7 +12,7 @@ Các bệnh lý này được phân loại theo:
 1. **Đặc điểm lâm sàng**: Dựa vào triệu chứng, dấu hiệu khi thăm khám, chẩn đoán hình ảnh (hình thành khối, tiết dịch, đau, thay đổi da).
 2. **Mô học**: Dựa vào kết quả sinh thiết, phân loại tổn thương tế bào và mô đệm.
 
-_Bảng "Phân loại bệnh lý tuyến vú theo đặc điểm lâm sàng"._
+_Bảng "Phân loại bệnh lý tuyến vú theo đặc điểm lâm sàng"_.
 
 | Phân loại bệnh lý tuyến vú theo đặc điểm lâm sàng           | Các dạng cụ thể                                                                                                                                                                                                                                                                  |
 | ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

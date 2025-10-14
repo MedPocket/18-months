@@ -144,7 +144,7 @@ Theo dõi tương tự điều trị MTX.
 
 ### Tỷ lệ tai biến
 
-_Bảng "Tỷ lệ tai biến các phương pháp điều trị chửa vết mổ lấy thai"._
+_Bảng "Tỷ lệ tai biến các phương pháp điều trị chửa vết mổ lấy thai"_.
 
 | Phương pháp điều trị             | Tỷ lệ tai biến (%) |
 | -------------------------------- | ------------------ |

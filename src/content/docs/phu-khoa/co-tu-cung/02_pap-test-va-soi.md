@@ -14,7 +14,7 @@ Pap's test hay phết mỏng tế bào cổ tử cung là công cụ tầm soát
 
 Pap’s test quy ước rẻ hơn nhưng độ nhạy và đặc hiệu thấp hơn. Pap’s test nhúng dịch tốn kém hơn nhưng giữ được tế bào tốt hơn, nên độ nhạy và đặc hiệu cao hơn.
 
-_Bảng "So sánh 2 kỹ thuật thực hiện Pap's test"._
+_Bảng "So sánh 2 kỹ thuật thực hiện Pap's test"_.
 
 | So sánh 2 kỹ thuật thực hiện Pap's test | PAP quy ước                                                          | PAP những dịch                                                    |
 | --------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -101,7 +101,7 @@ Thay đổi do vi sinh vật: Trichomonas vaginalis, Candida sp., Gardnerella, C
 
 ### Quản lý
 
-_Bảng "Tầm soát ung thư cổ tử cung"._
+_Bảng "Tầm soát ung thư cổ tử cung"_.
 
 | Phương pháp tầm soát     | Kết quả                                                              | Xử trí                                                                                                                                                                         |
 | ------------------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

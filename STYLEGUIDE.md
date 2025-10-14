@@ -96,7 +96,7 @@ Sử dụng bảng để so sánh chẩn đoán phân biệt, phác đồ điề
 **Ví dụ:**
 
 ```md
-_Bảng "Phân biệt ra huyết âm đạo"._
+_Bảng "Phân biệt ra huyết âm đạo"_.
 
 | Tiêu chí            | Dọa sảy thai               | Thai ngoài tử cung     |
 | ------------------- | -------------------------- | ---------------------- |

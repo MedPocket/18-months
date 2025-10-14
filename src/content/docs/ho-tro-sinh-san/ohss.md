@@ -3,112 +3,102 @@ title: Quá kích buồng trứng
 description: Tổng quan về hội chứng quá kích buồng trứng (OHSS) chẩn đoán, điều trị.
 ---
 
-Quá kích buồng trứng (Ovarian Hyperstimulation syndrome - OHSS) là hội chứng có thể gặp trong quá trình sử dụng thuốc kích thích buồng trứng với biểu hiện tăng tính thấm thành mạch, tràn dịch đa màng, giảm nồng độ albumin máu và giảm thể tích tuần hoàn.
+Hội chứng quá kích buồng trứng (Ovarian Hyperstimulation syndrome - OHSS) là biến chứng có thể gặp trong quá trình sử dụng thuốc kích thích buồng trứng, đặc trưng bởi tình trạng **tăng tính thấm thành mạch**, dẫn đến **tràn dịch đa màng, giảm albumin máu và giảm thể tích tuần hoàn**.
 
 ## Chẩn đoán
 
-_Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ._
+_Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ_.
 
-| Triệu chứng                    | Nhẹ                        | Vừa                                                                                                                  | Nặng                                                                                                                                                                                                                  | Rất nặng                                                                                                                                                                                                            |
-| ------------------------------ | -------------------------- | -------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Lâm sàng                       | Căng bụng</br>Đau bụng nhẹ | Đau bụng mức độ trung bình</br>Căng bụng nhiều</br>Buồn nôn, nôn</br>Tiêu chảy</br>Dấu hiệu dịch ổ bụng trên siêu âm | Rối loạn chức năng gan, phù toàn thân</br>Căng bụng nhiều</br>Khó thở, thở nhanh (> 20 lần/phút)</br>Đau bụng vùng thấp</br>Hạ huyết áp</br>Thiểu niệu</br>Tràn dịch màng phổi</br>Dấu hiệu dịch ổ bụng trên lâm sàng | Có thể gây nguy hiểm đến tính mạng</br>Dịch ổ bụng, dịch màng phổi nhiều</br>Tràn dịch màng tim</br>Suy thận</br>Thuyên tắc mạch (có thể mạch não)</br>Suy hô hấp cấp</br>Thiểu niệu hoặc vô niệu</br>Thiếu oxy máu |
-| Siêu âm kích thước buồng trứng | ≤ 5 cm                     | 5-12 cm                                                                                                              | > 12 cm                                                                                                                                                                                                               |                                                                                                                                                                                                                     |
-| Hct                            | < 41%                      | 41-< 45%                                                                                                             | 45-< 55%                                                                                                                                                                                                              | ≥ 55%                                                                                                                                                                                                               |
-| Bạch cầu                       |                            | 10 000-15 000/mm³                                                                                                    | 15 000-25 000/mm³                                                                                                                                                                                                     | > 25 000/mm³                                                                                                                                                                                                        |
-| Xét nghiệm khác                |                            |                                                                                                                      | Creatinine > 1.5 mg/dL</br>Thanh thải creatinine ≥ 50 mL/phút (nếu có)</br>Hạ natri máu</br>Tăng kali máu                                                                                                             | Creatinine 1-1.5 mg/dL</br>Thanh thải creatinine < 50 mL/phút                                                                                                                                                       |
+| Triệu chứng                          | Nhẹ                       | Vừa                                                                                                 | Nặng                                                                                                                                                                     | Rất nặng                                                                                                                                                                             |
+| ------------------------------------ | ------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Lâm sàng**                         | Căng bụng<br>Đau bụng nhẹ | Đau bụng trung bình<br>Căng bụng nhiều<br>Buồn nôn, nôn<br>Tiêu chảy<br>Có dịch ổ bụng trên siêu âm | Căng bụng nhiều<br>Rối loạn chức năng gan<br>Phù toàn thân<br>Khó thở, thở nhanh (>20 lần/phút)<br>Hạ huyết áp<br>Thiểu niệu<br>Tràn dịch màng phổi<br>Có dịch ổ bụng rõ | Nguy hiểm tính mạng<br>Tràn dịch màng phổi, màng tim, dịch ổ bụng nhiều<br>Suy thận, suy hô hấp cấp<br>Thiểu niệu hoặc vô niệu<br>Thuyên tắc mạch (có thể mạch não)<br>Thiếu oxy máu |
+| **Kích thước buồng trứng (siêu âm)** | ≤ 5 cm                    | 5–12 cm                                                                                             | > 12 cm                                                                                                                                                                  | -                                                                                                                                                                                    |
+| **Hematocrit (Hct)**                 | < 41%                     | 41–<45%                                                                                             | 45–<55%                                                                                                                                                                  | ≥ 55%                                                                                                                                                                                |
+| **Bạch cầu**                         | -                         | 10,000–15,000/mm³                                                                                   | 15,000–25,000/mm³                                                                                                                                                        | > 25,000/mm³                                                                                                                                                                         |
+| **Xét nghiệm khác**                  | -                         | -                                                                                                   | Creatinine > 1.5 mg/dL<br>ClCr ≥ 50 mL/phút (nếu có)<br>Hạ natri máu<br>Tăng kali máu                                                                                    | Creatinine 1–1.5 mg/dL<br>ClCr < 50 mL/phút                                                                                                                                          |
 
 ## Điều trị
 
-### Nguyên tắc
+### Nguyên tắc chung
 
-- Điều trị nội khoa là chủ yếu (bù dịch, điện giải và giải áp sớm), hạn chế can thiệp ngoại khoa.
-- Chỉ can thiệp ngoại khoa khi buồng trứng vỡ, xuất huyết nội, buồng trứng bị xoắn.
-- Dự phòng quá kích buồng trứng là quan trọng.
+- Điều trị **nội khoa là chủ yếu**: Bù dịch, điện giải và giải áp sớm.
+- **Hạn chế phẫu thuật**, chỉ thực hiện khi có: vỡ buồng trứng, xuất huyết nội, xoắn buồng trứng.
+- **Dự phòng** là yếu tố quan trọng nhất trong quản lý OHSS.
 
-### Quá kích nhẹ và vừa
+### Mức độ nhẹ và vừa
 
-Theo dõi điều trị ngoại trú.
+**Điều trị ngoại trú, theo dõi sát**.
 
-Uống nhiều nước. Ăn thực phẩm nhiều chất đạm, ăn mặn.
+**Hướng dẫn chăm sóc**:
 
-Theo dõi vòng bụng, cân nặng, theo dõi nước tiểu.
+- Uống nhiều nước, ăn thực phẩm giàu đạm và muối.
+- Theo dõi **cân nặng, vòng bụng, lượng nước tiểu** hàng ngày.
 
-Tái khám khi:
+**Tái khám ngay khi có**:
 
-- Nôn nhiều.
-- Khó thở.
-- Cân nặng và vòng bụng tiếp tục tăng nhanh.
-- Tiểu ít đi (< 500ml nước tiểu/24h).
-
-:::caution
-Nếu dịch ổ bụng vừa, tổng trạng mệt, tiên lượng tình trạng nặng thêm: Chọc dịch sớm qua đường âm đạo, triệu chứng có thể cải thiện rõ rệt sau khi rút dịch. Bồi hoàn sớm đạm, điện giải và kháng sinh dự phòng.
-:::
-
-### Quá kích nặng
-
-Điều trị tại hồi sức.
-
-Nghỉ ngơi tuyệt đối.
-
-Cân bằng nước điện giải:
-
-- NaCl 0.9% (500-1000 mL/ngày);
-- Glucose 5% (500-1000 mL/ngày);
-- Hạn chế Lactated Ringer's vì sẵn tình trạng tăng K⁺.
-
-Chọc dịch ổ bụng khi:
-
-- Bụng quá căng.
-- Khó thở.
-- Thiểu niệu.
-- Ăn uống kém, suy kiệt do bụng căng.
-
-Chọc dò, dẫn lưu màng phổi, màng tim:
-
-- Dịch màng phổi gây khó thở do chèn ép nhu mô, giảm chức năng hô hấp, SpO₂ < 90%.
-- Dịch màng tim làm suy giảm chức năng co bóp.
-
-Suy thận cân nhắc sử dụng dopamin liều thấp (0.18 mg/kg/h).
+- Nôn nhiều, khó thở.
+- Cân nặng hoặc vòng bụng tăng nhanh.
+- Tiểu ít (< 500 mL/24 giờ).
 
 :::caution
-Quá kích buồng trứng nặng thêm, không đáp ứng điều trị, suy đa cơ quan cần cân nhắc chấm dứt thai kỳ.
+- Nếu có dịch ổ bụng lượng vừa, mệt mỏi, tiên lượng nặng thêm → **chọc hút dịch sớm qua đường âm đạo** giúp cải thiện nhanh triệu chứng.
+- Đồng thời **bồi hoàn đạm, điện giải và dùng kháng sinh dự phòng**.
 :::
 
-Theo dõi:
+### Mức độ nặng
 
-- Cân nặng, vòng bụng mỗi 24h. Lưu ý khi cân nặng ≥ 1 kg/h.
-- Lượng dịch vào, ra cơ thể mỗi 12h. Theo dõi nước tiểu, điều chỉnh nước tiểu thu được nhiều hơn lượng nước vào cơ thể.
-- Dấu hiệu sinh tồn mỗi 6h.
-- Công thức máu, điện giải đồ, albumin mỗi 24h.
-- Chức năng gan, thận, đông máu mỗi 2 ngày.
+**Điều trị nội trú tại khoa Hồi sức**. Nghỉ ngơi tuyệt đối.
+**Cân bằng dịch – điện giải**:
+- NaCl 0,9%: 500–1000 mL/ngày.
+- Glucose 5%: 500–1000 mL/ngày.
+- **Tránh Lactated Ringer** vì nguy cơ tăng K⁺.
 
-### Dự phòng
+**Chọc hút dịch ổ bụng khi** bụng căng, khó thở, thiểu niệu, ăn uống kém.
 
-#### Đối tượng nguy cơ
+**Chọc dò – dẫn lưu màng phổi/màng tim khi**:
+
+- Tràn dịch gây khó thở, SpO₂ < 90%.
+- Dịch màng tim ảnh hưởng co bóp tim.
+
+**Hỗ trợ khác**:
+
+- Cân nhắc **dopamin liều thấp (0,18 mg/kg/giờ)** khi có suy thận.
+- Nếu tình trạng nặng thêm, suy đa cơ quan → **cân nhắc chấm dứt thai kỳ**.
+
+**Theo dõi định kỳ**:
+
+- Cân nặng, vòng bụng mỗi 24 giờ (cảnh báo khi tăng ≥ 1 kg/ngày).
+- Lượng dịch vào – ra mỗi 12 giờ (ưu tiên lượng nước tiểu > lượng dịch vào).
+- Dấu hiệu sinh tồn mỗi 6 giờ.
+- Xét nghiệm công thức máu, điện giải, albumin mỗi 24 giờ.
+- Chức năng gan, thận, đông máu mỗi 48 giờ.
+
+## Dự phòng
+
+### Đối tượng nguy cơ cao
 
 - Tuổi < 35.
 - Hội chứng buồng trứng đa nang (PCOS).
 - Sử dụng FSH trong kích trứng.
-- Tiền căn quá kích buồng trứng.
-- Estradiol máu > 6000 pg/mL trước tiêm hCG hoặc tăng nhanh trong kích trứng.
-- Nhiều nang > 15 nang kích thước trung bình và nhỏ (12-14 mm) ở 2 buồng trứng.
+- Tiền sử OHSS.
+- Estradiol > 6000 pg/mL trước tiêm hCG hoặc tăng nhanh trong chu kỳ kích trứng.
+- Có > 15 nang kích thước 12–14 mm ở hai buồng trứng.
 
-#### Dự phòng
+### Biện pháp dự phòng
 
-**Dự phòng cấp 1 (nguy cơ trước khi kích trứng)**:
+**Cấp 1 – Trước khi kích trứng**:
 
-- Sử dụng phác đồ kích trứng thích hợp.
-- Sử dụng phác đồ antagonist.
-- Không sử dụng hCG trong hỗ trợ giai đoạn hoàng thể.
-- Nuôi trứng nong trong ống nghiệm.
+- Lựa chọn **phác đồ kích trứng phù hợp**.
+- Ưu tiên **phác đồ antagonist**.
+- Không dùng **hCG hỗ trợ pha hoàng thể**.
+- Cân nhắc **nuôi trứng non trong ống nghiệm (IVM)**.
 
-**Dự phòng cấp 2 (đáp ứng quá mức khi kích trứng)**:
+**Cấp 2 – Khi đáp ứng quá mức**:
 
-- Giảm liều hCG gây phóng noãn.
-- Không tiêm hCG, thay kích, thay bằng GnRH đồng vận (truptorelin 0.1 mg x 02 ống tiêm dưới da).
-- Hủy chu kỳ.
-- Không chuyển phôi, trữ phôi toàn bộ.
+- **Giảm liều hCG** kích phóng noãn.
+- **Không tiêm hCG**, thay bằng **GnRH đồng vận** (Triptorelin 0,1 mg × 2 ống tiêm dưới da).
+- **Hủy chu kỳ** hoặc **trữ toàn bộ phôi**, không chuyển phôi tươi.
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa: Bệnh nguyên bào nuôi_
+- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa: Bệnh nguyên bào nuôi_

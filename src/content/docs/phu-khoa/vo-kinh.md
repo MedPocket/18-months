@@ -38,7 +38,7 @@ Mặc dù có nhiều nguyên nhân khác nhau, nhưng hầu hết các trườn
 
 **Thường gặp nhất ở vô kinh thứ phát**, có thể là nguyên phát nếu rụng trứng chưa từng khởi phát (dậy thì muộn, bất thường giới tính, hội chứng nhiễm sắc thể Y...). Nguyên nhân chính liên quan đến trục hạ đồi-yên-buồng trứng.
 
-_Bảng "Nguyên nhân vô kinh do rối loạn chức năng rụng trứng"._
+_Bảng "Nguyên nhân vô kinh do rối loạn chức năng rụng trứng"_.
 
 | Nguyên nhân vô kinh do rối loạn chức năng rụng trứng | Ví dụ điển hình                                                                                                                                                                                                                                                       |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,7 +51,7 @@ _Bảng "Nguyên nhân vô kinh do rối loạn chức năng rụng trứng"._
 
 **Dòng chảy kinh nguyệt bị tắc nghẽn dù nội tiết bình thường**. Hậu quả bế kinh (âm đạo/phúc mạc phồng), tích huyết tử cung (tử cung to, có thể nhầm khối vùng chậu).
 
-_Bảng "Nguyên nhân vô kinh do bất thường sinh dục"._
+_Bảng "Nguyên nhân vô kinh do bất thường sinh dục"_.
 
 | Nguyên nhân vô kinh do bất thường đường sinh dục | Ví dụ                                                                   |
 | ------------------------------------------------ | ----------------------------------------------------------------------- |

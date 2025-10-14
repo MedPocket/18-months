@@ -9,7 +9,7 @@ Trong thai kỳ, chức năng tuyến giáp của mẹ bị thay đổi đáng k
 
 Sự tăng lọc cầu thận trong thai kỳ dẫn đến tăng thải iod qua nước tiểu, từ đó làm giảm nồng độ iod vô cơ trong huyết thanh. Đây là một yếu tố góp phần gây suy giáp nếu không được bổ sung iod đầy đủ.
 
-_Bảng "Các chỉ số tuyến giáp"._
+_Bảng "Các chỉ số tuyến giáp"_.
 
 | Chỉ số                  | Không mang thai | Mang thai | Máu cuống rốn |
 | ----------------------- | --------------- | --------- | ------------- |

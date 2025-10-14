@@ -22,14 +22,14 @@ Ngoài ra, cần có giấy tờ hợp pháp chứng minh tình trạng hôn nh�
 
 ## Các phác đồ kích trứng trong IUI
 
-_Hình ảnh "Lược đồ tiếp cận bệnh nhân kích thích đơn noãn" - Bệnh viện Hùng Vương._  
+_Hình ảnh "Lược đồ tiếp cận bệnh nhân kích thích đơn noãn" - Bệnh viện Hùng Vương_.  
 ![Lược đồ tiếp cận bệnh nhân kích thích đơn noãn](./_images/kich-trung/horem-luoc-do-tiep-can-kich-trung-don-noan.png)
 
 ### Clomiphene citrate (CC)
 
 CC là thuốc kháng estrogen. Hiệu quả với bệnh nhân rối loạn phóng noãn WHO nhóm 2; không hiệu quả với nhóm 1 và 3.
 
-_Theo WHO, vô phóng noãn được chia 3 nhóm:<br>- Nhóm 1 (10%): Suy hạ đồi - tuyến yên → gonadotropin thấp, estrogen thấp.<br>- Nhóm 2 (80-90%): FSH và estrogen bình thường, thường gặp trong PCOS.<br>- Nhóm 3 (5%): suy buồng trứng → estrogen thấp, gonadotropin tăng cao._
+_Theo WHO, vô phóng noãn được chia 3 nhóm:<br>- Nhóm 1 (10%): Suy hạ đồi - tuyến yên → gonadotropin thấp, estrogen thấp.<br>- Nhóm 2 (80-90%): FSH và estrogen bình thường, thường gặp trong PCOS.<br>- Nhóm 3 (5%): suy buồng trứng → estrogen thấp, gonadotropin tăng cao_.
 
 #### Thực hiện
 

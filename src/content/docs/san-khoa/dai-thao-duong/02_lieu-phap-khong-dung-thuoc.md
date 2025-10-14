@@ -27,7 +27,7 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 
 **Kiểm soát tăng cân**:
 
-_Bảng "BMI trước khi mang thai"._
+_Bảng "BMI trước khi mang thai"_.
 
 | BMI trước khi mang thai                             | Tăng cân (kg) | Mức tăng cân trung bình trong quý 2 và quý 3 thời kỳ mang thai (kg/tuần) theo tiêu chuẩn châu Á |
 | --------------------------------------------------- | ------------- | ----------------------------------------------------------------------------------------------- |
@@ -52,7 +52,7 @@ _Bảng "BMI trước khi mang thai"._
 
 **Glucid, protein và lipid**:
 
-_Bảng "Phân bố glucid, protein và lipid"._
+_Bảng "Phân bố glucid, protein và lipid"_.
 
 | Phân bố glucid, protein và lipid | Tỉ lệ năng lượng | Ghi chú                                                   |
 | -------------------------------- | ---------------- | --------------------------------------------------------- |
@@ -68,7 +68,7 @@ _Bảng "Phân bố glucid, protein và lipid"._
 
 **Phân bố bữa ăn mẫu**:
 
-_Bảng "Phân bố bữa ăn"._
+_Bảng "Phân bố bữa ăn"_.
 
 | Phân bố bữa ăn | % năng lượng (6 bữa/ngày) | % năng lượng (5 bữa/ngày) |
 | -------------- | ------------------------- | ------------------------- |

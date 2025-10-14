@@ -64,7 +64,7 @@ PCOS tăng nguy cơ: rối loạn đường huyết đói, rối loạn dung n�
 
 Chẩn đoán hội chứng chuyển hóa khi có ≥ 3/5 tiêu chuẩn:
 
-_Bảng "Hội chứng chuyển hóa"._
+_Bảng "Hội chứng chuyển hóa"_.
 
 | Yếu tố nguy cơ | Ngưỡng bất thường                                    |
 | -------------- | ---------------------------------------------------- |
@@ -138,7 +138,7 @@ Laser/ánh sáng: Giảm rậm lông, cải thiện chất lượng sống.
 
 **Mục tiêu**: Gây phóng noãn đơn nang, giảm đa thai, giảm quá kích buồng trứng.
 
-_Hình ảnh "Lược đồ điều trị hiếm muộn cho phụ nữ buồng trứng đa nang" - HOREM._
+_Hình ảnh "Lược đồ điều trị hiếm muộn cho phụ nữ buồng trứng đa nang" - HOREM_.
 ![Lược đồ điều trị hiếm muộn cho phụ nữ PCOS](./_images/pcos/horem-dieu-tri-hiem-muon-cho-phu-nu-pcos.png)
 
 #### Thay đổi lối sống

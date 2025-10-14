@@ -50,7 +50,7 @@ _Hình ảnh "KNDy và GnRH neuron"_.
 _Hình ảnh "Thuyết 2 tế bào, 2 hormone"_.
 ![Thuyết 2 tế bào, 2 hormone](./_images/sinh-ly/thuyet-2-te-bai-2-hormone.png)
 
-_Bảng "Các giai đoạn phát triển nang trứng"._
+_Bảng "Các giai đoạn phát triển nang trứng"_.
 
 | Giai đoạn nang           | Nguồn androgen              | Nguồn estrogen                                                | Phát triển                                                                               |
 | ------------------------ | --------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |

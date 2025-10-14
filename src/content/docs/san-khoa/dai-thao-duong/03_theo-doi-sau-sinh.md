@@ -47,7 +47,7 @@ Quy trình chăm sóc và theo dõi sức khỏe mẹ - con ngay sau sinh và tr
 
 **OGTT 75 g** thực hiện ở 4-12 tuần sau sinh:
 
-_Bảng "OGTT 75 g thực hiện sau sinh"._
+_Bảng "OGTT 75 g thực hiện sau sinh"_.
 
 | **Thời điểm**       | Bình thường                | Tiền đái tháo đường             | Đái tháo đường              |
 | ------------------- | -------------------------- | ------------------------------- | --------------------------- |

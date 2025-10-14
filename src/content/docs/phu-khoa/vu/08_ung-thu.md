@@ -40,7 +40,7 @@ Do vậy, tầm soát định kỳ giúp phát hiện ung thư vú giai đoạn 
 
 **Chọc hút kim nhỏ (Fine-Needle Aspiration, FNA) và Sinh thiết lõi (Core Needle Biopsy)**: Không phải công cụ tầm soát, mà là phương pháp chẩn đoán mô học khi đã có tổn thương nghi ngờ trên lâm sàng hoặc hình ảnh.
 
-_Bảng "Giá trị của các phương tiện chẩn đoán và tầm soát ung thư vú"._
+_Bảng "Giá trị của các phương tiện chẩn đoán và tầm soát ung thư vú"_.
 
 | Giá trị của các phương tiện chẩn đoán và tầm soát ung thư vú | Độ nhạy (%) | Độ đặc hiệu (%) | PPV (%) |
 | ------------------------------------------------------------ | ----------- | --------------- | ------- |
@@ -127,7 +127,7 @@ _Hình ảnh "Lộ trình của các ngón tay khi tự khám vú"_.
 
 **BIRADS (Breast Imaging-Reporting and Data System)**: Hệ thống phân loại kết quả nhũ ảnh và MRI, giúp chuẩn hóa báo cáo và hướng dẫn xử trí.
 
-_Bảng "Thang điểm BIRADS"._
+_Bảng "Thang điểm BIRADS"_.
 
 | BIRADS | Kết quả                                               | Hướng xử trí                                                |
 | ------ | ----------------------------------------------------- | ----------------------------------------------------------- |
@@ -202,7 +202,7 @@ _Bảng "Thang điểm BIRADS"._
 
 #### Nguy cơ trung bình
 
-_Bảng "Lịch tầm soát ung thư vú cho phụ nữ nguy cơ trung bình"._
+_Bảng "Lịch tầm soát ung thư vú cho phụ nữ nguy cơ trung bình"_.
 
 | Lịch tầm soát ung thư vú cho phụ nữ nguy cơ trung bình | ACOG, 2017                                                                | USPSTF, 2018                                        | ACS, 2016                                                                                                            | Mạng lưới Ung thư Quốc gia (NCCN), 2015                          |
 | ------------------------------------------------------ | ------------------------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
@@ -217,7 +217,7 @@ Khi thực hiện nhũ ảnh thường quy ở phụ nữ 40-49 tuổi, có ít 
 
 #### Nguy cơ cao
 
-_Bảng "Lịch tầm soát ung thư vú cho phụ nữ nguy cơ cao"._
+_Bảng "Lịch tầm soát ung thư vú cho phụ nữ nguy cơ cao"_.
 
 | Lịch tầm soát ung thư vú cho phụ nữ nguy cơ cao          | ACOG, 2011                                                                                     | USPSTF, 2016                                                                    | ACS, 2015                                                                  |
 | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
@@ -300,7 +300,7 @@ Theo ACS (2015), với các nhóm nguy cơ đặc biệt tăng cao như LCIS, AD
 
 ### Phân chia giai đoạn (TNM)
 
-_Bảng "Phân loại ung thư vú theo hệ TNM"._
+_Bảng "Phân loại ung thư vú theo hệ TNM"_.
 
 | Phân giai đoạn ung thư vú theo hệ TNM | Phân loại TNM                    | Giải thích                                                                                           |
 | ------------------------------------- | -------------------------------- | ---------------------------------------------------------------------------------------------------- |
@@ -445,7 +445,7 @@ Yếu tố nguy cơ tái phát tại chỗ:
 - Kích thước khối u ≥ 4 cm.
 - Đặc điểm sinh học: ER/PR âm tính, HER2 dương tính, Ki-67 cao.
 
-_Bảng "Yếu tố nguy cơ tái phát ung thư vú"._
+_Bảng "Yếu tố nguy cơ tái phát ung thư vú"_.
 
 | Yếu tố nguy cơ của tái phát tại chỗ | Tăng nguy cơ tái phát | Giảm nguy cơ tái phát |
 | ----------------------------------- | --------------------- | --------------------- |

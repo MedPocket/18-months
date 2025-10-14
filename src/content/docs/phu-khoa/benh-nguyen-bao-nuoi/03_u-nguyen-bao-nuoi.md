@@ -37,7 +37,7 @@ Theo FIGO (2018):
 
 ### Phân loại nguy cơ
 
-_Bảng "Tiên lượng u nguyên bào nuôi" - WHO (2018)._
+_Bảng "Tiên lượng u nguyên bào nuôi" - WHO (2018)_.
 
 | Điểm tiên lượng FIGO/WHO (2018)          | 0          | 1         | 2           | 4          |
 | ---------------------------------------- | ---------- | --------- | ----------- | ---------- |
@@ -50,9 +50,9 @@ _Bảng "Tiên lượng u nguyên bào nuôi" - WHO (2018)._
 | **Số điểm di căn**                       | —          | 1 - 4     | 5 - 8       | > 8        |
 | **Hóa trị thất bại trước đó**            | Không      | —         | Đơn hóa trị | Đa hóa trị |
 
-_Nguy cơ thấp: 0-6 điểm (FIGO < 7 điểm, NIH không di căn). Nguy cơ cao: ≥ 7 điểm (FIGO ≥ 7 điểm, NIH di căn). Nguy cơ rất cao: ≥ 12 điểm (FIGO ≥ 12 điểm hoặc di căn gan, não, kháng hóa trị)._
+_Nguy cơ thấp: 0-6 điểm (FIGO < 7 điểm, NIH không di căn). Nguy cơ cao: ≥ 7 điểm (FIGO ≥ 7 điểm, NIH di căn). Nguy cơ rất cao: ≥ 12 điểm (FIGO ≥ 12 điểm hoặc di căn gan, não, kháng hóa trị)_.
 
-_Bảng "Phân loại nguy cơ u nguyên bào nuôi" - NIH._
+_Bảng "Phân loại nguy cơ u nguyên bào nuôi" - NIH_.
 
 | Phân loại NIH (Mỹ)          | Tiêu chuẩn chẩn đoán                                                                                                                                                                                                                                                                |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

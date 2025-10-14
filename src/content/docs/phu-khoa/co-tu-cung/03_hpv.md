@@ -62,7 +62,7 @@ _Hình ảnh "Miễn dịch bẩm sinh và thích nghi qua trung gian tế bào 
 
 ### Phân loại
 
-_Bảng "Các loại vaccine phòng HPV"._
+_Bảng "Các loại vaccine phòng HPV"_.
 
 | Loại vaccine | Type bảo vệ                       | Phổ bảo vệ                                               |
 | ------------ | --------------------------------- | -------------------------------------------------------- |
@@ -70,7 +70,7 @@ _Bảng "Các loại vaccine phòng HPV"._
 | **4vHPV**    | 6, 11, 16, 18                     | Ngừa ung thư cổ tử cung và mụn cóc sinh dục (type 6, 11) |
 | **9vHPV**    | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Bổ sung 5 type nguy cơ cao khác, tăng bảo vệ lên 81-90%  |
 
-_Bảng "So sánh vaccine HPV"._
+_Bảng "So sánh vaccine HPV"_.
 
 | So sánh vaccine HPV nhị giá và tứ giá     | Vaccine HPV tứ giá  | Vaccine HPV nhị giá    |
 | ----------------------------------------- | ------------------- | ---------------------- |

@@ -105,7 +105,7 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 
 ## Thụ thể
 
-_Bảng "Các thụ thể steroids"._
+_Bảng "Các thụ thể steroids"_.
 
 | Thụ thể của các steroids | Gene       | Isoform             | Chức năng                                                         |
 | ------------------------ | ---------- | ------------------- | ----------------------------------------------------------------- |

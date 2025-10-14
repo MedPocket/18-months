@@ -35,7 +35,7 @@ Chẩn đoán xác định khi quan sát thấy dịch lỏng chảy ra đột n
 
 ### Chẩn đoán phân biệt
 
-_Bảng "Chẩn đoán phân biệt ối vỡ non"._
+_Bảng "Chẩn đoán phân biệt ối vỡ non"_.
 
 | Triệu chứng hiện hữu và dấu hiệu điển hình               | Triệu chứng/dấu hiệu không thường xuyên                                                       | Khả năng chẩn đoán           |
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------- |

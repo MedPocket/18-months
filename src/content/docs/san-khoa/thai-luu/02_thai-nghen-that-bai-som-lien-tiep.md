@@ -43,7 +43,7 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 
 - Siêu âm 3D là lựa chọn đầu tay, có thể thay thế bằng SIS hoặc MRI nếu cần.
 
-  _Bảng "Bất thường giải phẫu tử cung"._
+  _Bảng "Bất thường giải phẫu tử cung"_.
 
   | Bất thường giải phẫu tử cung                          | Điều trị                                                                                                   |
   | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |

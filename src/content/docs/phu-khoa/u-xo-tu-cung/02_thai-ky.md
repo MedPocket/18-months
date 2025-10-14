@@ -31,7 +31,7 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 
 ## U xơ tử cung và hiếm muộn
 
-_Bảng "Vị trí u xơ" - FIGO._
+_Bảng "Vị trí u xơ" - FIGO_.
 
 | Vị trí u xơ (FIGO)                | Kích thước | Khuyến nghị can thiệp trước ART                                     |
 | --------------------------------- | ---------- | ------------------------------------------------------------------- |
