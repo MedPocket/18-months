@@ -41,14 +41,16 @@ _Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ_.
 - Tiểu ít (< 500 mL/24 giờ).
 
 :::caution
+
 - Nếu có dịch ổ bụng lượng vừa, mệt mỏi, tiên lượng nặng thêm → **chọc hút dịch sớm qua đường âm đạo** giúp cải thiện nhanh triệu chứng.
 - Đồng thời **bồi hoàn đạm, điện giải và dùng kháng sinh dự phòng**.
-:::
+  :::
 
 ### Mức độ nặng
 
 **Điều trị nội trú tại khoa Hồi sức**. Nghỉ ngơi tuyệt đối.
 **Cân bằng dịch – điện giải**:
+
 - NaCl 0,9%: 500–1000 mL/ngày.
 - Glucose 5%: 500–1000 mL/ngày.
 - **Tránh Lactated Ringer** vì nguy cơ tăng K⁺.
