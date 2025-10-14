@@ -44,7 +44,8 @@ _Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ_.
 
 - Nếu có dịch ổ bụng lượng vừa, mệt mỏi, tiên lượng nặng thêm → **chọc hút dịch sớm qua đường âm đạo** giúp cải thiện nhanh triệu chứng.
 - Đồng thời **bồi hoàn đạm, điện giải và dùng kháng sinh dự phòng**.
-  :::
+
+:::
 
 ### Mức độ nặng
 
