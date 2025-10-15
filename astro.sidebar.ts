@@ -215,7 +215,9 @@ export const sidebar = starlightSidebarTopics([
     link: "/ho-tro-sinh-san/",
     icon: "random",
     items: [
+      "ho-tro-sinh-san/vo-sinh",
       "ho-tro-sinh-san/khong-rung-trung",
+      "ho-tro-sinh-san/vo-sinh-nam",
       "ho-tro-sinh-san/pcos",
       "ho-tro-sinh-san/canh-niem-mac",
       "ho-tro-sinh-san/hsg-sis",
