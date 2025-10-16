@@ -1,8 +1,8 @@
 ## Quy tắc viết tài liệu
 
-### Cấu trúc file Markdown
+### Cấu trúc tệp Markdown
 
-Lưu nội dung trong thư mục: `src/content/docs/`. Mỗi file đại diện cho một chuyên đề hoặc bệnh lý.
+Lưu nội dung trong thư mục: `src/content/docs/`. Mỗi tệp đại diện cho một chuyên đề hoặc bệnh lý.
 
 ```md
 ---
@@ -71,24 +71,6 @@ Dùng `-` hoặc `1. 2. 3.` để liệt kê các ý.
 - Tử cung dị dạng.
 ```
 
-#### Dạng liệt kê phân cấp (nested list)
-
-Dùng indent (4 dấu cách hoặc 1 tab) để viết danh sách lồng nhau.
-
-```md
-### Tiêu chuẩn chẩn đoán
-
-1. Triệu chứng lâm sàng
-   - Ra huyết âm đạo.
-   - Đau bụng dưới.
-2. Khám thực thể
-   - Cổ tử cung đóng.
-   - Tử cung tương ứng tuổi thai.
-3. Siêu âm
-   - Thai trong tử cung.
-   - Tim thai dương tính.
-```
-
 ### Chèn bảng nội dung y khoa
 
 Sử dụng bảng để so sánh chẩn đoán phân biệt, phác đồ điều trị, v.v.
@@ -96,6 +78,8 @@ Sử dụng bảng để so sánh chẩn đoán phân biệt, phác đồ điề
 **Ví dụ:**
 
 ```md
+_Bảng "Phân biệt ra máu âm đạo"._
+
 | Tiêu chí            | Dọa sảy thai               | Thai ngoài tử cung     |
 | ------------------- | -------------------------- | ---------------------- |
 | **Đau bụng**        | Âm ỉ vùng hạ vị.           | Đau nhói 1 bên.        |
