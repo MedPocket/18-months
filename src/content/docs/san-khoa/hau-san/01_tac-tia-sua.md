@@ -7,25 +7,25 @@ description: Tắc tia sữa sau sinh - nguyên nhân, điều trị.
 
 ## Nguyên nhân
 
-- **Cho bú không đều hoặc không đúng cách**: Bé ngậm vú không đúng, bú không đủ thời gian
-- **Vắt sữa không hoàn toàn**: Máy hoặc tay vắt không lấy hết sữa tồn đọng
-- **Áo ngực chật**: Chèn ép nhu mô vú, cản trở dòng chảy
-- **Căng thẳng, mệt mỏi**: Ức chế tiết tố và reflex tiết sữa
-- **Thay đổi chế độ ăn uống hoặc thuốc**: Gây sữa đặc, dễ vón cục
+- **Cho bú không đều hoặc không đúng cách:** Bé ngậm vú không đúng, bú không đủ thời gian
+- **Vắt sữa không hoàn toàn:** Máy hoặc tay vắt không lấy hết sữa tồn đọng
+- **Áo ngực chật:** Chèn ép nhu mô vú, cản trở dòng chảy
+- **Căng thẳng, mệt mỏi:** Ức chế tiết tố và reflex tiết sữa
+- **Thay đổi chế độ ăn uống hoặc thuốc:** Gây sữa đặc, dễ vón cục
 
 ## Phương pháp không dùng thuốc
 
-- **Cho con bú/vắt sữa thường xuyên**: Bú kéo dài 15-20 phút mỗi bên, hoặc kết hợp vắt tay/vắt máy ngay khi cảm giác căng tức.
-- **Massage và vỗ ấm**: Massage nhẹ vùng tia tắc theo hướng từ nền ngực về núm vú. Chườm khăn ấm 10-15 phút trước bú/vắt để làm mềm mô và kích thích thông tuyến.
-- **Thay đổi tư thế bú**: Thử các tư thế: Đứng, ngồi thẳng, nằm nghiêng, bế chéo để bé hút đủ các tia sữa bị tắc.
-- **Mặc áo ngực thoải mái**: Dùng áo lót chuyên dụng cho con bú, không ép chặt ngực.
-- **Nghỉ ngơi và dinh dưỡng**: Uống đủ nước, ăn đa dạng dưỡng chất, ngủ đủ giấc, giảm stress.
+- **Cho con bú/vắt sữa thường xuyên:** Bú kéo dài 15-20 phút mỗi bên, hoặc kết hợp vắt tay/vắt máy ngay khi cảm giác căng tức.
+- **Massage và vỗ ấm:** Massage nhẹ vùng tia tắc theo hướng từ nền ngực về núm vú. Chườm khăn ấm 10-15 phút trước bú/vắt để làm mềm mô và kích thích thông tuyến.
+- **Thay đổi tư thế bú:** Thử các tư thế: Đứng, ngồi thẳng, nằm nghiêng, bế chéo để bé hút đủ các tia sữa bị tắc.
+- **Mặc áo ngực thoải mái:** Dùng áo lót chuyên dụng cho con bú, không ép chặt ngực.
+- **Nghỉ ngơi và dinh dưỡng:** Uống đủ nước, ăn đa dạng dưỡng chất, ngủ đủ giấc, giảm stress.
 
 ## Phương pháp dùng thuốc
 
-- **Giảm đau và kháng viêm**: Ibuprofen 400-600mg mỗi 6-8 giờ (uống sau ăn); Paracetamol 500-1000mg mỗi 4-6h (tối đa 4g/ngày).
-- **Kháng sinh (nếu có viêm)**: Dicloxacillin 500mg x 4 lần/ngày, 10-14 ngày; Cephalexin 500mg x 4 lần/ngày, 10-14 ngày.
-- **Kích thích tiết sữa (khi cần)**: Metoclopramide 10mg x 3 lần/ngày, 5-7 ngày; Domperidone 10mg x 3 lần/ngày, 5-7 ngày.
+- **Giảm đau và kháng viêm:** Ibuprofen 400-600mg mỗi 6-8 giờ (uống sau ăn); Paracetamol 500-1000mg mỗi 4-6h (tối đa 4g/ngày).
+- **Kháng sinh (nếu có viêm):** Dicloxacillin 500mg x 4 lần/ngày, 10-14 ngày; Cephalexin 500mg x 4 lần/ngày, 10-14 ngày.
+- **Kích thích tiết sữa (khi cần):** Metoclopramide 10mg x 3 lần/ngày, 5-7 ngày; Domperidone 10mg x 3 lần/ngày, 5-7 ngày.
 
 :::caution
 Các thuốc kích thích chỉ dùng khi sản lượng sữa giảm.
@@ -33,9 +33,9 @@ Các thuốc kích thích chỉ dùng khi sản lượng sữa giảm.
 
 ### Theo dõi sau điều trị
 
-- **Vệ sinh ngực**: Rửa bằng nước sạch, lau khô nhẹ nhàng.
-- **Tiếp tục cho bú/vắt**: Duy trì tần suất 3-4 giờ/lần, ngay cả khi đã hết tắc.
-- **Theo dõi tái phát**: Kiểm tra định kỳ, đảm bảo không có cục sữa ứ đọng mới.
+- **Vệ sinh ngực:** Rửa bằng nước sạch, lau khô nhẹ nhàng.
+- **Tiếp tục cho bú/vắt:** Duy trì tần suất 3-4 giờ/lần, ngay cả khi đã hết tắc.
+- **Theo dõi tái phát:** Kiểm tra định kỳ, đảm bảo không có cục sữa ứ đọng mới.
 
 ## Tài liệu tham khảo
 

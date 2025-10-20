@@ -15,17 +15,17 @@ Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm
 _Hình ảnh "3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (microbiome) và hệ vi nấm (mycobiome): Tổn thương niêm mạc, kháng sinh và rối loạn miễn dịch"_.
 ![Yếu tố nguy cơ viêm âm đạo do nấm](./_images/viem-am-dao-do-nam/yeu-to-nguy-co-cua-nam.png)
 
-1. **Tổn thương niêm mạc âm đạo**: Trầy xước, viêm loét do quan hệ tình dục thô bạo, thủ thuật y khoa, hoặc kích ứng hóa chất.
-2. **Sử dụng kháng sinh**: Kháng sinh diệt vi khuẩn nhưng cũng tiêu diệt Lactobacilli bảo vệ, tạo điều kiện cho nấm phát triển.
-3. **Rối loạn miễn dịch và tăng glycogen âm đạo**: Thai kỳ, đái tháo đường, dùng thuốc ngừa thai chứa estrogen liều cao, suy giảm miễn dịch, môi trường âm đạo ẩm ướt, dùng corticosteroids.
+1. **Tổn thương niêm mạc âm đạo:** Trầy xước, viêm loét do quan hệ tình dục thô bạo, thủ thuật y khoa, hoặc kích ứng hóa chất.
+2. **Sử dụng kháng sinh:** Kháng sinh diệt vi khuẩn nhưng cũng tiêu diệt Lactobacilli bảo vệ, tạo điều kiện cho nấm phát triển.
+3. **Rối loạn miễn dịch và tăng glycogen âm đạo:** Thai kỳ, đái tháo đường, dùng thuốc ngừa thai chứa estrogen liều cao, suy giảm miễn dịch, môi trường âm đạo ẩm ướt, dùng corticosteroids.
 
 ## Chẩn đoán
 
 ### Lâm sàng
 
-- **Khí hư**: Đặc trưng giống **"phô mai sữa"** (cottage cheese), không mùi, đặc, dính.
-- **pH âm đạo**: Thường duy trì từ 4.0-5.0.
-- **Triệu chứng**: Ngứa âm đạo, âm hộ. Đôi khi nóng rát, đau khi giao hợp, tiểu buốt. Âm hộ và niêm mạc âm đạo viêm đỏ, lột da nhẹ.
+- **Khí hư:** Đặc trưng giống **"phô mai sữa"** (cottage cheese), không mùi, đặc, dính.
+- **pH âm đạo:** Thường duy trì từ 4.0-5.0.
+- **Triệu chứng:** Ngứa âm đạo, âm hộ. Đôi khi nóng rát, đau khi giao hợp, tiểu buốt. Âm hộ và niêm mạc âm đạo viêm đỏ, lột da nhẹ.
 
 _Hình ảnh "Âm hộ viêm đỏ rực, với các mảng trắng dầy. Bệnh nhân thường than phiền ngứa, rát, đau khi giao hợp và tiểu rát"_.
 ![Viêm âm hộ do _Candida_](./_images/viem-am-dao-do-nam/nam-candida-am-ho.png)
@@ -35,23 +35,23 @@ _Hình ảnh "Tiết dịch âm đạo đặc, các mảng trắng bám thành �
 
 ### Cận lâm sàng
 
-- **Soi tươi**: Hòa bệnh phẩm (dịch âm đạo hoặc mảng bào tử) với NaCl 0.9% rồi quan sát dưới kính hiển vi; Nhuộm xanh methylene hoặc Gram để phát hiện sợi tơ nấm và bào tử.
-- **Nhuộm Gram**: Thường thấy bào tử nấm và sợi nấm giả (pseudohyphae).
-- **Cấy nấm**: Chỉ định khi thất bại điều trị hoặc nghi ngờ chủng không phải _Candida albicans_, nhằm xác định chủng và làm kháng nấm đồ.
-- **Xét nghiệm latex agglutination**: Dùng để xác định nhanh một số chủng _Candida_ không sinh giả tơ nấm.
+- **Soi tươi:** Hòa bệnh phẩm (dịch âm đạo hoặc mảng bào tử) với NaCl 0.9% rồi quan sát dưới kính hiển vi; Nhuộm xanh methylene hoặc Gram để phát hiện sợi tơ nấm và bào tử.
+- **Nhuộm Gram:** Thường thấy bào tử nấm và sợi nấm giả (pseudohyphae).
+- **Cấy nấm:** Chỉ định khi thất bại điều trị hoặc nghi ngờ chủng không phải _Candida albicans_, nhằm xác định chủng và làm kháng nấm đồ.
+- **Xét nghiệm latex agglutination:** Dùng để xác định nhanh một số chủng _Candida_ không sinh giả tơ nấm.
 
 ## Phân loại
 
 Phân loại theo CDC 2010 chia thành 2 nhóm VVC không biến chứng và VVC có biến chứng.
 
-**VVC không biến chứng**:
+**VVC không biến chứng:**
 
 - Nhiễm đơn thuần hoặc thỉnh thoảng.
 - Triệu chứng nhẹ đến trung bình.
 - Nghi ngờ _Candida albicans_.
 - Phụ nữ không suy giảm miễn dịch.
 
-**VVC có biến chứng**:
+**VVC có biến chứng:**
 
 - Tái phát ≥ 4 lần/năm.
 - Triệu chứng nặng.
@@ -69,7 +69,7 @@ Phân loại theo CDC 2010 chia thành 2 nhóm VVC không biến chứng và VVC
 
 ### Không biến chứng
 
-**Thuốc nhóm Azole (Imidazoles)**:
+**Thuốc nhóm Azole (Imidazoles):**
 
 - **Miconazole, Clotrimazole, Butoconazole, Tioconazole, Terconazole** (dạng kem hoặc viên đặt). Ví dụ: Clotrimazole 200 mg đặt âm đạo mỗi ngày x 3 ngày, hoặc Miconazole 100 mg đặt mỗi ngày x 7 ngày.
 - **Fluconazole uống** 150 mg liều đơn. Tác dụng nhanh, hiệu quả 90%. Fluconazole liều thấp (150 mg) an toàn trong thai kỳ. Liều cao hàng ngày (400-800 mg) có liên quan đến nguy cơ khuyết tật thai nhi.
@@ -80,12 +80,12 @@ Tái phát sau 1 tháng chiếm 20-30% trường hợp.
 - Nếu tái phát, có thể **Fluconazole uống 150 mg mỗi tuần x 6 tháng** (giảm tái phát 50%).
 - Ngoài ra, liệu pháp đặt âm đạo 1-2 lần/tuần cũng được dùng để dự phòng.
 
-**Bạn tình**:
+**Bạn tình:**
 
 - Nếu không có triệu chứng, không phải điều trị.
 - Chỉ cân nhắc điều trị bạn tình khi bạn nữ tái phát nhiều lần mà không có yếu tố nguy cơ rõ ràng.
 
-Chủng _Candida glabrata_:
+Chủng _Candida glabrata:_
 
 - Thường kháng với imidazole.
 - Điều trị thay thế có thể dùng **Boric acid viên nang đặt âm đạo** hoặc **Gentian violet** (mực tím).
@@ -116,7 +116,7 @@ _Bảng "Thuốc kháng nấm tại chỗ điều trị VVC không biến chứn
 
 ### Phác đồ Từ Dũ
 
-**Thuốc đặt âm đạo**:
+**Thuốc đặt âm đạo:**
 
 - Nystatin 100,000 đơn vị x 1 viên/ngày x 14 ngày.
 - Clotrimazole 100 mg hoặc Metronidazole 100 mg đặt âm đạo x 1 viên/ngày x 7 ngày.
@@ -126,20 +126,20 @@ _Bảng "Thuốc kháng nấm tại chỗ điều trị VVC không biến chứn
 - Econazole nitrate (vi hạt) 150 mg đặt âm đạo x 1 viên/12 giờ x 1 ngày.
 - Metronidazole 1200 mg đặt âm đạo x 1 viên duy nhất.
 
-**Thuốc uống**:
+**Thuốc uống:**
 
 - Fluconazole 150 mg uống 1 viên duy nhất.
 - Itraconazole 100 mg uống 2 viên/ngày x 3 ngày.
 
-**Thuốc bôi ngoài da (âm hộ)**: Clotrimazole kem bôi x 7 ngày.
+**Thuốc bôi ngoài da (âm hộ):** Clotrimazole kem bôi x 7 ngày.
 
-**Vệ sinh tại chỗ**:
+**Vệ sinh tại chỗ:**
 
 - Rửa âm hộ bằng dung dịch povidone iodine 10%.
 - Rửa bằng natri hydrocarbonat (muối NaBica) 5 g pha với nước ấm.
 
 :::caution
-**Chỉ điều trị bạn tình khi có một trong các triệu chứng sau**:
+**Chỉ điều trị bạn tình khi có một trong các triệu chứng sau:**
 
 - Viêm ngứa bao quy đầu.
 - Nấm có trong nước tiểu.

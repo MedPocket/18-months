@@ -3,11 +3,11 @@ title: Phòng ngừa ung thư buồng trứng
 description: Ung thư buồng trứng và cách phòng ngừa.
 ---
 
-Chẩn đoán **khối tân lập ở buồng trứng luôn phải đi kèm dự đoán khả năng lành/ác tính**.
+Chẩn đoán **khối tân lập ở buồng trứng luôn phải đi kèm dự đoán khả năng lành/ác tính.**
 
 ## Nguyên tắc
 
-**Mục tiêu**: Ước đoán chính xác nhất khả năng lành/ác tính dựa vào tiền sử, lâm sàng, hình ảnh, chỉ báo khối u.
+**Mục tiêu:** Ước đoán chính xác nhất khả năng lành/ác tính dựa vào tiền sử, lâm sàng, hình ảnh, chỉ báo khối u.
 
 **Tất cả khối tân lập** buồng trứng được điều trị ngoại khoa.
 

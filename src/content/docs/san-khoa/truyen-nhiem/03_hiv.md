@@ -10,11 +10,11 @@ description: HIV (Human Immunodeficiency Virus) là virus gây suy giảm miễn
 ### Xét nghiệm
 
 - Xét nghiệm HIV nên thực hiện ngay từ lần khám thai đầu tiên. Nếu âm tính ban đầu và có yếu tố nguy cơ (quan hệ tình dục không an toàn, tiêm chích ma túy, bạn tình nhiễm HIV), lặp lại xét nghiệm vào tuần 24-28.
-- **Xét nghiệm sàng lọc**: ELISA hoặc test nhanh HIV.
-- **Xác nhận**: Western blot hoặc PCR để phát hiện HIV RNA.
+- **Xét nghiệm sàng lọc:** ELISA hoặc test nhanh HIV.
+- **Xác nhận:** Western blot hoặc PCR để phát hiện HIV RNA.
 - **Đo tải lượng virus** (HIV RNA) để đánh giá mức độ hoạt động của virus.
 - **Đo CD4** nhằm đánh giá tổn thương miễn dịch.
-- **Xét nghiệm trẻ sơ sinh**: PCR HIV RNA ngay sau sinh vì kháng thể mẹ truyền qua có thể dương tính giả.
+- **Xét nghiệm trẻ sơ sinh:** PCR HIV RNA ngay sau sinh vì kháng thể mẹ truyền qua có thể dương tính giả.
 
 ### Phân loại
 
@@ -37,29 +37,29 @@ _Bảng "Phân loại HIV lâm sàng"_.
 
 ### Thuốc kháng virus (ARV)
 
-**Nhóm ức chế men sao chép ngược nucleoside (NRTIs)**:
+**Nhóm ức chế men sao chép ngược nucleoside (NRTIs):**
 
-- **Tenofovir disoproxil fumarate (TDF) 300 mg x 1 lần/ngày**: Cơ chế ức chế men sao chép ngược, ngăn chặn sao chép RNA HIV thành DNA. Tác dụng phụ có thể gây suy giảm chức năng thận, giảm khối lượng xương. Theo dõi Creatinine huyết thanh, độ lọc cầu thận, đặc biệt mỗi 3 tháng.
-- **Lamivudine (3TC) 150 mg x 2 lần/ngày** hoặc **300 mg x 1 lần/ngày**: Cơ chế tương tự TDF, kết hợp đồng thời tăng hiệu quả ức chế virus. Tác dụng phụ buồn nôn, tiêu chảy, đau đầu nhẹ. Theo dõi sinh hóa máu định kỳ, thường không cần theo dõi đặc biệt.
+- **Tenofovir disoproxil fumarate (TDF) 300 mg x 1 lần/ngày:** Cơ chế ức chế men sao chép ngược, ngăn chặn sao chép RNA HIV thành DNA. Tác dụng phụ có thể gây suy giảm chức năng thận, giảm khối lượng xương. Theo dõi Creatinine huyết thanh, độ lọc cầu thận, đặc biệt mỗi 3 tháng.
+- **Lamivudine (3TC) 150 mg x 2 lần/ngày** hoặc **300 mg x 1 lần/ngày:** Cơ chế tương tự TDF, kết hợp đồng thời tăng hiệu quả ức chế virus. Tác dụng phụ buồn nôn, tiêu chảy, đau đầu nhẹ. Theo dõi sinh hóa máu định kỳ, thường không cần theo dõi đặc biệt.
 
 **Nhóm ức chế men sao chép ngược không nucleoside (NNRTIs)/ức chế integrase (INSTIs)**
 
-- **Efavirenz (EFV) 600 mg x 1 lần/ngày**: Cơ chế gắn không cạnh tranh vào men sao chép ngược, ức chế hoạt động Lưu ý: Không dùng trong quý I do nguy cơ quái thai thần kinh Tác dụng phụ mất ngủ, chóng mặt, thay đổi tâm thần. Theo dõi các triệu chứng thần kinh - tâm thần.
-- **Dolutegravir (DTG) 50 mg x 1 lần/ngày**: Cơ chế ức chế integrase, ngăn chặn việc chèn DNA virus vào DNA chủ. Ưu điểm giảm tải lượng rất nhanh, ít tương tác thuốc. Cẩn trọng trong quý I do nguy cơ hiếm gặp dị tật thần kinh. Theo dõi phản ứng dị ứng, chức năng gan.
+- **Efavirenz (EFV) 600 mg x 1 lần/ngày:** Cơ chế gắn không cạnh tranh vào men sao chép ngược, ức chế hoạt động Lưu ý: Không dùng trong quý I do nguy cơ quái thai thần kinh Tác dụng phụ mất ngủ, chóng mặt, thay đổi tâm thần. Theo dõi các triệu chứng thần kinh - tâm thần.
+- **Dolutegravir (DTG) 50 mg x 1 lần/ngày:** Cơ chế ức chế integrase, ngăn chặn việc chèn DNA virus vào DNA chủ. Ưu điểm giảm tải lượng rất nhanh, ít tương tác thuốc. Cẩn trọng trong quý I do nguy cơ hiếm gặp dị tật thần kinh. Theo dõi phản ứng dị ứng, chức năng gan.
 
-**Nhóm ức chế protease (PIs)**:
+**Nhóm ức chế protease (PIs):**
 
-- **Lopinavir/ritonavir (LPV/r): Lopinavir 200 mg + Ritonavir 50 mg x 2 lần/ngày**: Cơ chế ức chế protease HIV, ngăn giai đoạn đóng gói virus. Tác dụng phụ buồn nôn, tiêu chảy, tăng lipid máu, men gan tăng. Theo dõi chức năng gan, lipid máu mỗi 3-6 tháng.
+- **Lopinavir/ritonavir (LPV/r): Lopinavir 200 mg + Ritonavir 50 mg x 2 lần/ngày:** Cơ chế ức chế protease HIV, ngăn giai đoạn đóng gói virus. Tác dụng phụ buồn nôn, tiêu chảy, tăng lipid máu, men gan tăng. Theo dõi chức năng gan, lipid máu mỗi 3-6 tháng.
 
-**Thuốc bổ trợ**:
+**Thuốc bổ trợ:**
 
-- **Zidovudine (AZT) 300 mg x 2 lần/ngày**: Cơ chế NRTI thế hệ đầu, giảm tải lượng virus, đặc biệt trong chuyển dạ. Tác dụng phụ thiếu máu, buồn nôn, nhức đầu. Theo dõi công thức máu (hồng cầu, bạch cầu) mỗi tháng.
+- **Zidovudine (AZT) 300 mg x 2 lần/ngày:** Cơ chế NRTI thế hệ đầu, giảm tải lượng virus, đặc biệt trong chuyển dạ. Tác dụng phụ thiếu máu, buồn nôn, nhức đầu. Theo dõi công thức máu (hồng cầu, bạch cầu) mỗi tháng.
 
 #### Với mẹ
 
-- **Phác đồ chuẩn**: TDF + 3TC + EFV (bắt đầu sau quý I).
-- **Phác đồ thay thế**: TDF + 3TC + DTG (từ quý II, ưu tiên khi không dùng EFV).
-- **Khi tải lượng cao (> 1000 copies/mL) hoặc thất bại phác đồ**: Thêm hoặc chuyển sang LPV/r.
+- **Phác đồ chuẩn:** TDF + 3TC + EFV (bắt đầu sau quý I).
+- **Phác đồ thay thế:** TDF + 3TC + DTG (từ quý II, ưu tiên khi không dùng EFV).
+- **Khi tải lượng cao (> 1000 copies/mL) hoặc thất bại phác đồ:** Thêm hoặc chuyển sang LPV/r.
 
 #### Với con
 
@@ -72,13 +72,13 @@ _Bảng "Phân loại HIV lâm sàng"_.
 ### Cho con bú
 
 - **Không khuyến cáo bú mẹ** nếu có cách nuôi thay thế an toàn.
-- **Nếu buộc phải cho bú mẹ**: Mẹ tiếp tục ART đầy đủ, trẻ nhận AZT dự phòng.
+- **Nếu buộc phải cho bú mẹ:** Mẹ tiếp tục ART đầy đủ, trẻ nhận AZT dự phòng.
 
 ### Theo dõi sau điều trị
 
-- **Tải lượng HIV RNA và CD4**: Mỗi 4-8 tuần trong quý I, mỗi 12 tuần sau đó.
-- **Chức năng thận, gan, lipid máu**: Theo dõi định kỳ do tác dụng phụ ARV.
-- **Tuân thủ điều trị**: Tư vấn, hỗ trợ tâm lý, đánh giá tác dụng phụ để đảm bảo mẹ dùng thuốc đều đặn.
+- **Tải lượng HIV RNA và CD4:** Mỗi 4-8 tuần trong quý I, mỗi 12 tuần sau đó.
+- **Chức năng thận, gan, lipid máu:** Theo dõi định kỳ do tác dụng phụ ARV.
+- **Tuân thủ điều trị:** Tư vấn, hỗ trợ tâm lý, đánh giá tác dụng phụ để đảm bảo mẹ dùng thuốc đều đặn.
 
 ## Phơi nhiễm
 
@@ -92,9 +92,9 @@ _Bảng "Xét nghiệm HIV"_.
 | **Kháng nguyên/kháng thể combo (Ag/Ab)** | 18-45 ngày                            | Sau 4-6 tuần, kiểm tra lại sau 3 tháng |
 | **Kháng thể HIV (ELISA, test nhanh)**    | 3-12 tuần                             | Sau 6 tuần và nhắc lại sau 3 tháng     |
 
-**Triệu chứng sớm (nếu có)**: **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng...).
+**Triệu chứng sớm (nếu có):** **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng...).
 
-**Thời gian "cửa sổ" (window period)**: Khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm. Kết quả được coi là đáng tin cậy nếu:
+**Thời gian "cửa sổ" (window period):** Khoảng thời gian sau phơi nhiễm chưa thể phát hiện được virus qua xét nghiệm, tùy loại xét nghiệm. Kết quả được coi là đáng tin cậy nếu:
 
 - **Xét nghiệm combo Ag/Ab sau 4-6 tuần âm tính** → độ chính xác cao.
 - **Xét nghiệm kháng thể sau 12 tuần (3 tháng)** âm tính → gần như chắc chắn không nhiễm HIV.

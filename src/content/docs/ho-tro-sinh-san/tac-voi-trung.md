@@ -7,12 +7,12 @@ Tổn thương ống dẫn trứng là một trong những nguyên nhân phổ b
 
 ## Nguyên nhân
 
-- **Viêm nhiễm vùng chậu (PID)**: Do lậu cầu, Chlamydia, lao sinh dục, viêm vòi tử cung - buồng trứng.
-- **Hậu quả phẫu thuật vùng chậu**: Mổ ruột thừa, mổ u nang buồng trứng, mổ lấy thai, gây dính hoặc tắc.
-- **Lạc nội mạc tử cung**: Gây dính vòi trứng và vùng chậu.
-- **Bẩm sinh**: Dị dạng, teo hẹp vòi tử cung.
-- **Khối u**: U xơ tử cung, u buồng trứng chèn ép vòi.
-- **Nguyên nhân khác**: Tiền sử chửa ngoài tử cung, thủ thuật nạo hút buồng tử cung gây viêm dính.
+- **Viêm nhiễm vùng chậu (PID):** Do lậu cầu, Chlamydia, lao sinh dục, viêm vòi tử cung - buồng trứng.
+- **Hậu quả phẫu thuật vùng chậu:** Mổ ruột thừa, mổ u nang buồng trứng, mổ lấy thai, gây dính hoặc tắc.
+- **Lạc nội mạc tử cung:** Gây dính vòi trứng và vùng chậu.
+- **Bẩm sinh:** Dị dạng, teo hẹp vòi tử cung.
+- **Khối u:** U xơ tử cung, u buồng trứng chèn ép vòi.
+- **Nguyên nhân khác:** Tiền sử chửa ngoài tử cung, thủ thuật nạo hút buồng tử cung gây viêm dính.
 
 ## Yếu tố nguy cơ
 
@@ -55,9 +55,9 @@ Tổn thương ống dẫn trứng là một trong những nguyên nhân phổ b
 
 ### Ngoại khoa
 
-- **Nội soi ổ bụng - tái tạo vòi tử cung**: Cắt dính, mở loa vòi, nối vòi.
-- **Cắt bỏ vòi tử cung (salpingectomy)**: Khi vòi bị tổn thương nặng, hydrosalpinx lớn, hoặc thất bại điều trị bảo tồn.
-- **Hỗ trợ sinh sản (IVF - thụ tinh trong ống nghiệm)**: Là phương pháp hiệu quả nhất đối với tổn thương ống dẫn trứng 2 bên hoặc không thể tái thông. Trường hợp hydrosalpinx, nên cắt bỏ vòi trước khi IVF để tăng tỉ lệ thành công.
+- **Nội soi ổ bụng - tái tạo vòi tử cung:** Cắt dính, mở loa vòi, nối vòi.
+- **Cắt bỏ vòi tử cung (salpingectomy):** Khi vòi bị tổn thương nặng, hydrosalpinx lớn, hoặc thất bại điều trị bảo tồn.
+- **Hỗ trợ sinh sản (IVF - thụ tinh trong ống nghiệm):** Là phương pháp hiệu quả nhất đối với tổn thương ống dẫn trứng 2 bên hoặc không thể tái thông. Trường hợp hydrosalpinx, nên cắt bỏ vòi trước khi IVF để tăng tỉ lệ thành công.
 
 ## Tiên lượng
 
@@ -68,8 +68,7 @@ Tắc vòi trứng đoạn gần:
 
 Tắc vòi dẫn trứng đoạn xa:
 
-- Tiên lượng tốt nếu dải dính 2 phần phụ ít. Vòi dãn nhẹ <3 cm, thành mềm mại và mỏng. Nếp niêm mạc còn tốt. Tỷ lệ có thai sau 12 tháng nội soi gỡ dính là 40%. Nội soi tái tạo
-  loa vòi trường hợp ứ dịch nhẹ tỷ lệ có thai là 58-77%.
+- Tiên lượng tốt nếu dải dính 2 phần phụ ít. Vòi dãn nhẹ <3 cm, thành mềm mại và mỏng. Nếp niêm mạc còn tốt. Tỷ lệ có thai sau 12 tháng nội soi gỡ dính là 40%. Nội soi tái tạo loa vòi trường hợp ứ dịch nhẹ tỷ lệ có thai là 58-77%.
 - Tiên lượng xấu nếu vòi dính dày đặc, vòi dãn rộng thành xơ hóa và/hoặc giảm hay mất nếp niêm mạc.
 
 ## Tài liệu tham khảo

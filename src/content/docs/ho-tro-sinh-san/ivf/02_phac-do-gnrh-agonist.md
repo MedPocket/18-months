@@ -36,12 +36,12 @@ Phác đồ GnRH agonist (GnRH đồng vận) được sử dụng rộng rãi v
 
 ## Ưu - nhược điểm
 
-**Ưu điểm**:
+**Ưu điểm:**
 
 - Cho phép lập kế hoạch điều trị rõ ràng, dễ kiểm soát quá trình kích thích.
 - Đáp ứng tốt ở những bệnh nhân có chức năng buồng trứng bình thường.
 
-**Nhược điểm**:
+**Nhược điểm:**
 
 - Cần liều FSH ngoại sinh cao hơn, kéo dài thời gian tiêm → gây khó chịu cho bệnh nhân.
 - Nguy cơ hình thành nang cơ năng trước kích thích → ảnh hưởng chất lượng trứng.

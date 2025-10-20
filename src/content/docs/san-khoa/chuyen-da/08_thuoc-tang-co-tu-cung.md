@@ -20,10 +20,10 @@ _Bảng "Điểm Bishop"_.
 | **Hướng cổ tử cung**                           | sau          | trung gian | trước                    | —              |
 | **Độ lọt ngôi thai**                           | di động (-3) | chúc (-2)  | ghim chặt/lọt cao (-1/0) | đã lọt (+1,+2) |
 
-- **Tổng ≥ 10**: Sinh trong 2-3 giờ.
-- **7-9**: Sinh trong 8 giờ.
-- **5-6**: Tiên lượng dè dặt.
-- **< 5**: Nguy cơ thất bại khi khởi phát chuyển dạ.
+- **Tổng ≥ 10:** Sinh trong 2-3 giờ.
+- **7-9:** Sinh trong 8 giờ.
+- **5-6:** Tiên lượng dè dặt.
+- **< 5:** Nguy cơ thất bại khi khởi phát chuyển dạ.
 
 ## Chỉ định
 
@@ -63,11 +63,11 @@ _Bảng "Thuốc tăng co tử cung"_.
 
 ### Oxytocin
 
-**Cơ chế**: Sản xuất từ đồi thị, tiết qua tủy sống. Thụ thể oxytocin ở tử cung tăng từ tuần 20, đạt đỉnh sau 34 tuần và khi chuyển dạ. Oxytocin ngoại sinh gắn vào thụ thể gây co cơ tử cung.
+**Cơ chế:** Sản xuất từ đồi thị, tiết qua tủy sống. Thụ thể oxytocin ở tử cung tăng từ tuần 20, đạt đỉnh sau 34 tuần và khi chuyển dạ. Oxytocin ngoại sinh gắn vào thụ thể gây co cơ tử cung.
 
-**Chỉ định**: Khởi phát chuyển dạ và cầm máu sau sinh.
+**Chỉ định:** Khởi phát chuyển dạ và cầm máu sau sinh.
 
-**Liều khởi phát chuyển dạ (tĩnh mạch với bơm truyền tự động)**:
+**Liều khởi phát chuyển dạ (tĩnh mạch với bơm truyền tự động):**
 
 - Pha 5 IU oxytocin + 500 mL glucose 5%.
 - Bắt đầu 1-2 mIU/phút.
@@ -75,13 +75,13 @@ _Bảng "Thuốc tăng co tử cung"_.
 - Tại VN thường bắt đầu 4 mIU/phút, tăng mỗi 30 phút thêm 4 mIU.
 - Giảm hoặc ngưng nếu co cường tính hoặc tim thai bất thường.
 
-**Liều dự phòng & điều trị băng huyết sau sinh**:
+**Liều dự phòng & điều trị băng huyết sau sinh:**
 
-- **Dự phòng**: 10 IU oxytocin tiêm bắp ngay sau sổ rau.
-- **Điều trị cấp**: 5-10 IU oxytocin/500 mL NaCl 0.9% truyền nhanh 1 giờ.
-- **Duy trì**: 10 IU/500 mL mỗi 8 giờ.
+- **Dự phòng:** 10 IU oxytocin tiêm bắp ngay sau sổ rau.
+- **Điều trị cấp:** 5-10 IU oxytocin/500 mL NaCl 0.9% truyền nhanh 1 giờ.
+- **Duy trì:** 10 IU/500 mL mỗi 8 giờ.
 
-**Tác dụng phụ**:
+**Tác dụng phụ:**
 
 - Co cường tính → nguy cơ vỡ tử cung.
 - Ngộ độc nước (dùng liều cao kéo dài).
@@ -90,42 +90,42 @@ _Bảng "Thuốc tăng co tử cung"_.
 
 ### Carbetocin
 
-**Cơ chế**: Tương tự oxytocin, gắn thụ thể mạnh và kéo dài.
+**Cơ chế:** Tương tự oxytocin, gắn thụ thể mạnh và kéo dài.
 
-**Liều dùng**:
+**Liều dùng:**
 
 - 100 µg tiêm bắp một lần sau sổ rau.
-- **Thời gian bán hủy**: 40 phút; Co tử cung kéo dài 1-2 giờ.
+- **Thời gian bán hủy:** 40 phút; Co tử cung kéo dài 1-2 giờ.
 
-**Tác dụng phụ**: Đau co tử cung, buồn nôn, bốc hỏa.
+**Tác dụng phụ:** Đau co tử cung, buồn nôn, bốc hỏa.
 
 ### Ergot alkaloids (Ergometrine/Methylergonovine)
 
-**Cơ chế**: Kích thích thụ thể adrenergic và serotonin → co cơ tử cung mạnh.
+**Cơ chế:** Kích thích thụ thể adrenergic và serotonin → co cơ tử cung mạnh.
 
-**Chỉ định**: Chỉ dùng sau sổ rau để ngăn băng huyết.
+**Chỉ định:** Chỉ dùng sau sổ rau để ngăn băng huyết.
 
-**Chống chỉ định**: Tim mạch, tăng huyết áp, tiền sản giật, suy gan/thận.
+**Chống chỉ định:** Tim mạch, tăng huyết áp, tiền sản giật, suy gan/thận.
 
-**Tác dụng phụ**: Tăng huyết áp, co thắt mạch → thiếu máu cơ tim, buồn nôn.
+**Tác dụng phụ:** Tăng huyết áp, co thắt mạch → thiếu máu cơ tim, buồn nôn.
 
 ### Prostaglandin (Carboprost, Sulprostone)
 
-**Cơ chế**: Co cơ trơn tử cung, tăng trương lực cơ bản.
+**Cơ chế:** Co cơ trơn tử cung, tăng trương lực cơ bản.
 
-**Liều dùng**: Carboprost 250 µg IM, có thể lặp lại; Sulprostone 5 IU tĩnh mạch.
+**Liều dùng:** Carboprost 250 µg IM, có thể lặp lại; Sulprostone 5 IU tĩnh mạch.
 
-**Chống chỉ định**: Hen nặng, suy tim, tăng huyết áp nặng.
+**Chống chỉ định:** Hen nặng, suy tim, tăng huyết áp nặng.
 
-**Tác dụng phụ**: Co thắt phế quản, tiêu chảy, buồn nôn, đau chỗ tiêm.
+**Tác dụng phụ:** Co thắt phế quản, tiêu chảy, buồn nôn, đau chỗ tiêm.
 
 ### Misoprostol (PGE₁)
 
-**Cơ chế**: Tăng co cơ tử cung, đồng thời làm chín cổ tử cung.
+**Cơ chế:** Tăng co cơ tử cung, đồng thời làm chín cổ tử cung.
 
-**Liều dùng**: 400-800 µg đường uống/ngậm/trực tràng.
+**Liều dùng:** 400-800 µg đường uống/ngậm/trực tràng.
 
-**Tác dụng phụ**: Sốt, tiêu chảy, buồn nôn.
+**Tác dụng phụ:** Sốt, tiêu chảy, buồn nôn.
 
 ## Tài liệu tham khảo
 

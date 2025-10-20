@@ -14,15 +14,15 @@ Xuất huyết tử cung cơ năng thường xảy ra khi nội mạc tử cung 
 
 ## Nguyên nhân
 
-- **Tuổi dậy thì**: Chiếm 20% nguyên nhân. Trong vòng 18 tháng đầu sau khi hành kinh, trục hạ đồi - tuyến yên - buồng trứng chưa trưởng thành hoàn toàn nên có thể không đáp ứng đầy đủ với estrogen và progesterone, dẫn đến tình trạng không phóng noãn và xuất huyết tử cung chức năng.
-- **Tuổi tiền mãn kinh**: Chiếm 50% nguyên nhân. Ở phụ nữ tuổi 40-50, số lượng và chất lượng nang noãn đều giảm. Các nang noãn phát triển nhưng không tạo đỉnh LH để gây phóng noãn, do nồng độ gonadotropin cơ bản tăng cao (giảm Inhibin B). Nang noãn tiếp tục sản xuất lượng nhỏ estrogen kéo dài, không có progesterone đối kháng, gây tăng sinh nội mạc tử cung và xuất huyết tử cung chức năng.
-- **Phụ nữ béo phì**: Ở phụ nữ béo phì, estrone (một dạng estrogen) có thể được tổng hợp từ androgen tại mô mỡ ngoại vi thông qua enzym aromatase. Lượng estrone này không có đối kháng của progesterone, dẫn đến nội mạc tử cung bị kích thích kéo dài, gây xuất huyết tử cung chức năng.
-- **Thiếu hụt hormone hoàng thể**: Tình trạng này xảy ra khi buồng trứng có phóng noãn nhưng hoàng thể không sản xuất đủ progesterone, hoặc đáp ứng nội mạc tử cung với progesterone không đầy đủ. Điều này làm rối loạn chu kỳ nội mạc tương tự như không phóng noãn.
-- **Tăng prolactin máu**: Ức chế hoạt động trục hạ đồi - tuyến yên - buồng trứng, gây rối loạn phóng noãn. Nguyên nhân có thể do u tuyến yên (microadenoma), thuốc hướng thần kinh, thuốc kháng histamin, thuốc kháng bơm proton, thuốc chống nôn, thuốc điều trị trầm cảm
-- **Hội chứng buồng trứng đa nang (PCOS)**: Do rối loạn phát triển nang noãn, không hình thành nang trội, dẫn đến không phóng noãn. Đây là nguyên nhân phổ biến gây xuất huyết tử cung chức năng.
-- **Thuốc tránh thai kết hợp (estrogen-progestogen)**: Loại liều thấp (ethinyl estradiol dưới 20 µg) có thể gây xuất huyết nhẹ, kéo dài.
-- **Thuốc tránh thai khẩn cấp**: Dùng progestin liều cao hoặc SPRM (selective progesterone receptor modulator) gây mất cân bằng estrogen-progesterone, dẫn đến bong nội mạc tử cung sớm.
-- **Các hệ thống phóng thích steroid kéo dài (que cấy, thuốc tiêm progestin, viên uống progestin đơn thuần)**: Dễ gây mất cân bằng nội tiết và xuất huyết tử cung bất thường.
+- **Tuổi dậy thì:** Chiếm 20% nguyên nhân. Trong vòng 18 tháng đầu sau khi hành kinh, trục hạ đồi - tuyến yên - buồng trứng chưa trưởng thành hoàn toàn nên có thể không đáp ứng đầy đủ với estrogen và progesterone, dẫn đến tình trạng không phóng noãn và xuất huyết tử cung chức năng.
+- **Tuổi tiền mãn kinh:** Chiếm 50% nguyên nhân. Ở phụ nữ tuổi 40-50, số lượng và chất lượng nang noãn đều giảm. Các nang noãn phát triển nhưng không tạo đỉnh LH để gây phóng noãn, do nồng độ gonadotropin cơ bản tăng cao (giảm Inhibin B). Nang noãn tiếp tục sản xuất lượng nhỏ estrogen kéo dài, không có progesterone đối kháng, gây tăng sinh nội mạc tử cung và xuất huyết tử cung chức năng.
+- **Phụ nữ béo phì:** Ở phụ nữ béo phì, estrone (một dạng estrogen) có thể được tổng hợp từ androgen tại mô mỡ ngoại vi thông qua enzym aromatase. Lượng estrone này không có đối kháng của progesterone, dẫn đến nội mạc tử cung bị kích thích kéo dài, gây xuất huyết tử cung chức năng.
+- **Thiếu hụt hormone hoàng thể:** Tình trạng này xảy ra khi buồng trứng có phóng noãn nhưng hoàng thể không sản xuất đủ progesterone, hoặc đáp ứng nội mạc tử cung với progesterone không đầy đủ. Điều này làm rối loạn chu kỳ nội mạc tương tự như không phóng noãn.
+- **Tăng prolactin máu:** Ức chế hoạt động trục hạ đồi - tuyến yên - buồng trứng, gây rối loạn phóng noãn. Nguyên nhân có thể do u tuyến yên (microadenoma), thuốc hướng thần kinh, thuốc kháng histamin, thuốc kháng bơm proton, thuốc chống nôn, thuốc điều trị trầm cảm
+- **Hội chứng buồng trứng đa nang (PCOS):** Do rối loạn phát triển nang noãn, không hình thành nang trội, dẫn đến không phóng noãn. Đây là nguyên nhân phổ biến gây xuất huyết tử cung chức năng.
+- **Thuốc tránh thai kết hợp (estrogen-progestogen):** Loại liều thấp (ethinyl estradiol dưới 20 µg) có thể gây xuất huyết nhẹ, kéo dài.
+- **Thuốc tránh thai khẩn cấp:** Dùng progestin liều cao hoặc SPRM (selective progesterone receptor modulator) gây mất cân bằng estrogen-progesterone, dẫn đến bong nội mạc tử cung sớm.
+- **Các hệ thống phóng thích steroid kéo dài (que cấy, thuốc tiêm progestin, viên uống progestin đơn thuần):** Dễ gây mất cân bằng nội tiết và xuất huyết tử cung bất thường.
 
 ## Chẩn đoán
 
@@ -83,7 +83,7 @@ _Hình ảnh "Siêu âm bơm nước của polyps buồng tử cung (SIS)"_.
 
 :::
 
-**MRI**: Tuyến yên nếu Prolactin tăng cao nghiêm trọng (> 100 ng/mL) hoặc có triệu chứng u tuyến yên (nhức đầu, rối loạn thị giác); Nghi u xơ tử cung kích thước lớn, nhiều khối u, cần đánh giá mối liên quan với cơ tử cung; Nghi ngờ lạc nội mạc tử cung.
+**MRI:** Tuyến yên nếu Prolactin tăng cao nghiêm trọng (> 100 ng/mL) hoặc có triệu chứng u tuyến yên (nhức đầu, rối loạn thị giác); Nghi u xơ tử cung kích thước lớn, nhiều khối u, cần đánh giá mối liên quan với cơ tử cung; Nghi ngờ lạc nội mạc tử cung.
 
 #### Pap’s test (Pap smear)
 
@@ -103,9 +103,9 @@ Giúp quan sát trực tiếp và loại trừ nguyên nhân thực thể trong 
 
 ## Điều trị
 
-**Mục tiêu**: Cầm máu và tái lập chu kỳ kinh nguyệt bình thường.
+**Mục tiêu:** Cầm máu và tái lập chu kỳ kinh nguyệt bình thường.
 
-**Lựa chọn điều trị dựa vào**:
+**Lựa chọn điều trị dựa vào:**
 
 - Nguyên nhân xuất huyết tử cung.
 - Mức độ chảy máu.
@@ -114,18 +114,18 @@ Giúp quan sát trực tiếp và loại trừ nguyên nhân thực thể trong 
 
 ### Nội khoa
 
-**Thuốc cầm máu và tăng co tử cung**:
+**Thuốc cầm máu và tăng co tử cung:**
 
 - **Oxytocin** tiêm bắp hoặc truyền TM.
 - **Ergometri**n 0.2 mg, 1-2 ống/ngày, tiêm bắp.
 - **Tranexamic acid, calci clorid** tiêm TM.
 
-**Thuốc nội tiết**:
+**Thuốc nội tiết:**
 
-- **Thuốc tránh thai phối hợp (estrogen-progestogen)**: 2-4 viên/ngày, giảm dần khi ngừng ra máu. Không dùng loại có < 20 µg ethinyl estradiol.
-- **Estrogen đơn thuần**: Dùng khi nội mạc tử cung < 5 mm để phục hồi nội mạc → sau đó bổ sung progestogen.
-- **Progestin**: Dùng nếu nội mạc tử cung > 10 mm, liều 2 viên/ngày trong 10-15 ngày. Có thể dùng đơn độc để đối kháng.
-- **Biệt dược phổ biến**: Estrogen: Progynova®, Valiera®, Provames®; Progesterone: Utrogestan®, Duphaston®; Thuốc tránh thai phối hợp: Marvelon®, Regulon®, Rigevidon®, Microgynon®.
+- **Thuốc tránh thai phối hợp (estrogen-progestogen):** 2-4 viên/ngày, giảm dần khi ngừng ra máu. Không dùng loại có < 20 µg ethinyl estradiol.
+- **Estrogen đơn thuần:** Dùng khi nội mạc tử cung < 5 mm để phục hồi nội mạc → sau đó bổ sung progestogen.
+- **Progestin:** Dùng nếu nội mạc tử cung > 10 mm, liều 2 viên/ngày trong 10-15 ngày. Có thể dùng đơn độc để đối kháng.
+- **Biệt dược phổ biến:** Estrogen: Progynova®, Valiera®, Provames®; Progesterone: Utrogestan®, Duphaston®; Thuốc tránh thai phối hợp: Marvelon®, Regulon®, Rigevidon®, Microgynon®.
 
 :::caution
 Thường uống vào buổi tối, giờ cố định để giảm tác dụng phụ. Khi giảm liều mà ra máu lại, cần tăng liều trở lại và giảm từ từ.
@@ -133,11 +133,11 @@ Thường uống vào buổi tối, giờ cố định để giảm tác dụng 
 
 ### Ngoại khoa
 
-**Chỉ định khi điều trị nội khoa thất bại hoặc có nguyên nhân thực thể**:
+**Chỉ định khi điều trị nội khoa thất bại hoặc có nguyên nhân thực thể:**
 
-- **Nạo buồng tử cung**: Giúp cầm máu tức thì.
-- **Đốt nội mạc tử cung**: Giải pháp lâu dài nhưng làm mất khả năng sinh sản.
-- **Cắt tử cung**: Chỉ định sau cùng khi thất bại với mọi phương pháp điều trị khác.
+- **Nạo buồng tử cung:** Giúp cầm máu tức thì.
+- **Đốt nội mạc tử cung:** Giải pháp lâu dài nhưng làm mất khả năng sinh sản.
+- **Cắt tử cung:** Chỉ định sau cùng khi thất bại với mọi phương pháp điều trị khác.
 
 ## Tài liệu tham khảo
 

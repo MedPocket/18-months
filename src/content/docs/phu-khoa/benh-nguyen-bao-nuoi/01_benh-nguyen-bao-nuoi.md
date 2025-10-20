@@ -11,35 +11,35 @@ Tiêu chuẩn chẩn đoán bao gồm siêu âm, định lượng β-hCG và gi�
 
 ### Thai trứng (Hydatidiform mole)
 
-**Thai trứng toàn phần (Complete mole)**:
+**Thai trứng toàn phần (Complete mole):**
 
 - NST thường là 46,XX toàn bố (đơn bố) hoặc 46,XY (hiếm).
 - Không có mô phôi phôi thai; Hình ảnh siêu âm "mây tuyết", tăng sản gai rau lan toả.
 
-**Thai trứng bán phần (Partial mole)**:
+**Thai trứng bán phần (Partial mole):**
 
 - Thường tam bội 69,XXY/69,XXX/69,XYY.
 - Có mô phôi hoặc túi phôi nhỏ, gai rau phồng nước không đồng nhất.
 
 ### U nguyên bào nuôi (Gestational Trophoblastic Neoplasia - GTN)
 
-**Thai trứng xâm lấn (Invasive mole)**:
+**Thai trứng xâm lấn (Invasive mole):**
 
 - Gai rau phồng nước xâm lấn vào cơ tử cung, đôi khi lan ra mạch máu.
 - β-hCG kéo dài hoặc tăng sau hút nạo.
 
-**Ung thư nguyên bào nuôi (Choriocarcinoma)**:
+**Ung thư nguyên bào nuôi (Choriocarcinoma):**
 
 - Không còn mô gai rau; Toàn tế bào nuôi thể trung tâm và tế bào nuôi thể lá.
 - Xuất hiện sau thai trứng, sảy thai, sinh non hoặc có thể sau thai bình thường.
 - Khả năng di căn rất cao (phổi, não, gan).
 
-**U nguyên bào nuôi nơi rau bám (Placental Site Trophoblastic Tumor - PSTT)**:
+**U nguyên bào nuôi nơi rau bám (Placental Site Trophoblastic Tumor - PSTT):**
 
 - Phát sinh từ tế bào nuôi làm tổ tại điểm bám rau; β-hCG thường thấp.
 - Ít nhạy với hóa chất; Điều trị chủ yếu là phẫu thuật.
 
-**U nguyên bào nuôi dạng biểu mô (Epithelioid Trophoblastic Tumor - ETT)**:
+**U nguyên bào nuôi dạng biểu mô (Epithelioid Trophoblastic Tumor - ETT):**
 
 - Hiếm, trung mô hóa, tế bào giống biểu mô nhau thai.
 - Diễn biến chậm, thường kháng hóa trị, ưu tiên phẫu thuật triệt để.

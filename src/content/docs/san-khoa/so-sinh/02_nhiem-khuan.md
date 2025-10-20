@@ -7,14 +7,14 @@ Nhiễm khuẩn sơ sinh (neonatal sepsis) là tình trạng nhiễm trùng toà
 
 ## Nguyên nhân
 
-**Vi khuẩn**:
+**Vi khuẩn:**
 
 - Khởi phát sớm: Thường do vi khuẩn từ mẹ truyền sang con trong quá trình chuyển dạ và sinh (Streptococcus nhóm B, E. coli, Listeria monocytogenes).
 - Khởi phát muộn: Thường liên quan đến nhiễm khuẩn bệnh viện hoặc môi trường (Staphylococcus aureus, Klebsiella, Pseudomonas, Candida).
 
-**Virus**: Cytomegalovirus, Herpes simplex virus, enterovirus.
+**Virus:** Cytomegalovirus, Herpes simplex virus, enterovirus.
 
-**Nấm**: Candida albicans, đặc biệt ở trẻ non tháng hoặc nằm viện lâu dài.
+**Nấm:** Candida albicans, đặc biệt ở trẻ non tháng hoặc nằm viện lâu dài.
 
 ## Yếu tố nguy cơ
 
@@ -40,17 +40,17 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 
 ### Cận lâm sàng
 
-**Công thức máu**:
+**Công thức máu:**
 
 - Bạch cầu < 5000/mm³ hoặc > 25 000/mm³.
 - Tỷ lệ bạch cầu non/trưởng thành > 0.2.
 - Tiểu cầu < 100 000/mm³.
 
-**CRP**: > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12–24h).
+**CRP:** > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12–24h).
 
-**Procalcitonin (PCT)**: > 2 ng/mL gợi ý nhiễm khuẩn nặng.
+**Procalcitonin (PCT):** > 2 ng/mL gợi ý nhiễm khuẩn nặng.
 
-**Cấy máu**: Tiêu chuẩn vàng (nhưng cần 48–72 giờ).
+**Cấy máu:** Tiêu chuẩn vàng (nhưng cần 48–72 giờ).
 
 **Dịch não tuỷ** (khi nghi viêm màng não):
 
@@ -58,7 +58,7 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 - Protein > 150 mg/dL.
 - Glucose < 50% đường huyết máu.
 
-**X-quang phổi**: Hình ảnh thâm nhiễm rải rác hoặc đông đặc.
+**X-quang phổi:** Hình ảnh thâm nhiễm rải rác hoặc đông đặc.
 
 ## Điều trị
 
@@ -70,25 +70,25 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 
 ### Nội khoa
 
-**Nhiễm khuẩn sơ sinh khởi phát sớm**:
+**Nhiễm khuẩn sơ sinh khởi phát sớm:**
 
-- **Ampicillin**: 100–200 mg/kg/ngày, chia 2–3 lần, đường tĩnh mạch.
-- **Gentamicin**: 4–5 mg/kg/lần, mỗi 24–48 giờ (tùy tuổi thai và chức năng thận).
-- Hoặc thay Gentamicin bằng **Cefotaxime**: 100–150 mg/kg/ngày, chia 2–3 lần, đường tĩnh mạch.
+- **Ampicillin:** 100–200 mg/kg/ngày, chia 2–3 lần, đường tĩnh mạch.
+- **Gentamicin:** 4–5 mg/kg/lần, mỗi 24–48 giờ (tùy tuổi thai và chức năng thận).
+- Hoặc thay Gentamicin bằng **Cefotaxime:** 100–150 mg/kg/ngày, chia 2–3 lần, đường tĩnh mạch.
 
-**Nhiễm khuẩn khởi phát muộn hoặc bệnh viện**:
+**Nhiễm khuẩn khởi phát muộn hoặc bệnh viện:**
 
-- **Vancomycin**: 15 mg/kg/lần, mỗi 8–12 giờ.
-- \+ **Amikacin**: 15 mg/kg/lần, mỗi 24–48 giờ.
-- Hoặc **Meropenem**: 40 mg/kg/lần, mỗi 8 giờ (trường hợp nặng, đa kháng).
+- **Vancomycin:** 15 mg/kg/lần, mỗi 8–12 giờ.
+- \+ **Amikacin:** 15 mg/kg/lần, mỗi 24–48 giờ.
+- Hoặc **Meropenem:** 40 mg/kg/lần, mỗi 8 giờ (trường hợp nặng, đa kháng).
 
-**Thời gian điều trị**:
+**Thời gian điều trị:**
 
 - Nhiễm khuẩn huyết: 10–14 ngày.
 - Viêm phổi: 10–14 ngày.
 - Viêm màng não: 14–21 ngày.
 
-**Điều trị hỗ trợ**:
+**Điều trị hỗ trợ:**
 
 - Thở oxy, CPAP, hoặc thở máy khi suy hô hấp.
 - Truyền dịch 60–80 mL/kg/ngày (điều chỉnh theo tình trạng).

@@ -35,7 +35,7 @@ description: Mô tả.
 
 ### Danh sách và phân tích nội dung
 
-Dùng danh sách để trình bày các tiêu chuẩn, tiêu chí chẩn đoán, yếu tố nguy cơ... **Ví dụ**:
+Dùng danh sách để trình bày các tiêu chuẩn, tiêu chí chẩn đoán, yếu tố nguy cơ... **Ví dụ:**
 
 ```md
 ### Yếu tố nguy cơ

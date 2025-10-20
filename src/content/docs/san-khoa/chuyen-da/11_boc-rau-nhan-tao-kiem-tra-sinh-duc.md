@@ -39,10 +39,10 @@ _Hình ảnh "Kỹ thuật bóc rau nhân tạo"_.
 
 ### Tai biến
 
-- **Shock phế vị**: Ngất do kích thích phản xạ vagal (giảm nhịp tim, giãn mạch).
-- **Thủng tử cung**: Khi lực quá mạnh hoặc vết mổ cũ.
-- **Lộn tử cung**: Nếu kéo dây rốn sai cách.
-- **Nhiễm trùng**.
+- **Shock phế vị:** Ngất do kích thích phản xạ vagal (giảm nhịp tim, giãn mạch).
+- **Thủng tử cung:** Khi lực quá mạnh hoặc vết mổ cũ.
+- **Lộn tử cung:** Nếu kéo dây rốn sai cách.
+- **Nhiễm trùng.**
 
 ## Kiểm tra tử cung
 
@@ -62,10 +62,10 @@ _Hình ảnh "Kỹ thuật bóc rau nhân tạo"_.
 - Tay ngoài cố định đáy tử cung.
 - Tay trong kiểm tra dọc thân tử cung (mặt trước, sau, hai bên).
 - Kiểm tra đoạn dưới từ "3 giờ-9 giờ" theo kim đồng hồ.
-- Đánh giá: **Co hồi tử cung** chắc (tốt) hay mềm (đờ). **Sót rau** thành tử cung nhám, gồ lên hay nhẵn. **Toàn vẹn** vết mổ cũ, vết rách. **Dị dạng/khối u**.
+- Đánh giá: **Co hồi tử cung** chắc (tốt) hay mềm (đờ). **Sót rau** thành tử cung nhám, gồ lên hay nhẵn. **Toàn vẹn** vết mổ cũ, vết rách. **Dị dạng/khối u.**
 - Rút tay ra sau khi đã kiểm tra xong, không thao tác nhiều lần để tránh nhiễm trùng.
 
-**Sau thủ thuật**:
+**Sau thủ thuật:**
 
 - Tiêm thêm thuốc co hồi (oxytocin).
 - Theo dõi sinh hiệu, lượng máu âm đạo.
@@ -109,12 +109,12 @@ _Hình ảnh "Kỹ thuật bóc rau nhân tạo"_.
 
 **Phân độ rách tầng sinh môn**
 
-- **Độ I**: Niêm mạc + da.
-- **Độ II**: + cơ tầng sinh môn.
-- **Độ III**: + cơ vòng hậu môn.
-- **Độ IV**: + niêm mạc trực tràng.
+- **Độ I:** Niêm mạc + da.
+- **Độ II:** + cơ tầng sinh môn.
+- **Độ III:** + cơ vòng hậu môn.
+- **Độ IV:** + niêm mạc trực tràng.
 
-**Khâu phục hồi**:
+**Khâu phục hồi:**
 
 - Rạch sâu hoặc chảy máu nhiều: Khâu tại phòng mổ + gây tê/ mê.
 - Rách nhẹ: Khâu tại giường sinh, tê tại chỗ.

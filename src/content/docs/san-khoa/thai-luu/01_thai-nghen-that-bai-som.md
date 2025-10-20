@@ -18,7 +18,7 @@ Thai nghén thất bại sớm không bao gồm thai sinh hóa.
 
 ## Chẩn đoán
 
-Triệu chứng lâm sàng thường bao gồm ra **huyết âm đạo** và **đau bụng âm ỉ**.
+Triệu chứng lâm sàng thường bao gồm ra **huyết âm đạo** và **đau bụng âm ỉ.**
 
 :::note[Tiêu chuẩn chẩn đoán thai nghén thất bại sớm]
 The Society of Radiologists in Ultrasound Multispecialty Panel, chẩn đoán thai kỳ thất bại khi siêu âm qua đường âm đạo đáp ứng ≥ 1 tiêu chí sau:
@@ -28,13 +28,13 @@ The Society of Radiologists in Ultrasound Multispecialty Panel, chẩn đoán th
 3. Không có phôi có nhịp tim sau ≥ 14 ngày kể từ khi siêu âm thấy túi thai không có túi noãn hoàng.
 4. Không có phôi có nhịp tim sau ≥ 11 ngày kể từ khi siêu âm thấy túi thai có túi noãn hoàng.
 
-**Tiêu chuẩn rõ nhất là CRL ≥ 7 mm không thấy tim thai**. Nếu CRL < 7 mm và không thấy tim, phải chờ tái siêu âm.
+**Tiêu chuẩn rõ nhất là CRL ≥ 7 mm không thấy tim thai.** Nếu CRL < 7 mm và không thấy tim, phải chờ tái siêu âm.
 :::
 
 _Hình ảnh "Thai ngưng phát triển: Phôi với CRL ≥ 7 mm không có tim phôi (xác nhận bằng phổ Doppler)"_.
 ![Thai ngưng phát triển](./_images/thai-nghen-that-bai-som/thai-ngung-phat-trien.png)
 
-Để **chẩn đoán trứng trống**, không đủ khi chỉ không thấy phôi hoặc túi noãn hoàng với MSD < 25 mm. **Phải có MSD ≥ 25 mm không thấy phôi hoặc túi noãn hoàng**.
+Để **chẩn đoán trứng trống**, không đủ khi chỉ không thấy phôi hoặc túi noãn hoàng với MSD < 25 mm. **Phải có MSD ≥ 25 mm không thấy phôi hoặc túi noãn hoàng.**
 
 _Hình ảnh "Trứng trống: MSD ≥ 25 mm không thấy túi noãn hoàng hay phôi"_.
 ![Trứng trống](./_images/thai-nghen-that-bai-som/trung-trong.png)
@@ -77,7 +77,7 @@ Các trường hợp trên lâm sàng:
 
 Nguyên nhân thường là **bất thường nhiễm sắc thể** và khó ngăn chặn sự phát triển thành thai lưu.
 
-Triệu chứng **ra máu, đau bụng, cổ tử cung đóng**. **Dấu hiệu siêu âm dự báo (không khẳng định)** bao gồm:
+Triệu chứng **ra máu, đau bụng, cổ tử cung đóng.** **Dấu hiệu siêu âm dự báo (không khẳng định)** bao gồm:
 
 - Không thấy phôi sau 6 tuần vô kinh.
 - Yolk-sac giãn > 7 mm.
@@ -117,9 +117,9 @@ _Hình ảnh "Sảy thai trọn: Lòng tử cung trống sau sảy thai trọn"_
 
 Có 3 lựa chọn chính:
 
-1. **Theo dõi diễn tiến**: Phù hợp sảy thai không trọn, tỷ lệ thành công 90% nhưng thời gian kéo dài.
-2. **Điều trị nội khoa bằng misoprostol**: Khuyến cáo 800 µg đặt âm đạo khởi đầu, có thể lặp lại nếu cần.
-3. **Hút lòng tử cung**: Thực hiện nhanh, ít mất máu, nhưng có nguy cơ thủng tử cung và nhiễm trùng.
+1. **Theo dõi diễn tiến:** Phù hợp sảy thai không trọn, tỷ lệ thành công 90% nhưng thời gian kéo dài.
+2. **Điều trị nội khoa bằng misoprostol:** Khuyến cáo 800 µg đặt âm đạo khởi đầu, có thể lặp lại nếu cần.
+3. **Hút lòng tử cung:** Thực hiện nhanh, ít mất máu, nhưng có nguy cơ thủng tử cung và nhiễm trùng.
 
 Khi chọn theo dõi, cần tái siêu âm và có thể đo β-hCG để đánh giá giảm nồng độ (> 80% sau 1 tuần).
 

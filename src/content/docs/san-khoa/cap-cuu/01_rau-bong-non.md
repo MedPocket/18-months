@@ -9,12 +9,12 @@ description: Rau bong non là tình trạng rau bám đúng vị trí nhưng bon
 
 **Khởi đầu của rau bong non** là sự xuất huyết trong màng rụng đáy và hình thành khối máu tụ ở màng rụng. Cấu trúc của màng rụng bị đứt gãy ở một vị trí, gây chảy máu do sự phá vỡ các tiểu động mạch xoắn của màng rụng. Diện tích xuất huyết tăng dần, tạo thành khối máu tụ tách màng đệm khỏi lớp cơ tử cung. Khối máu tụ này lớn lên, gây bóc tách lan rộng và chèn ép vào mô rau lân cận, kết quả là rau bị bong một phần hoặc bong toàn bộ.
 
-Máu chảy ra giữa lớp cơ tử cung và các màng thai bị giam cầm trong **khối máu tụ**. Khi khối máu tụ lớn hơn, cùng áp lực tăng lên sẽ gây rò rỉ máu ra ngoài qua cổ tử cung, dẫn đến xuất huyết âm đạo.
+Máu chảy ra giữa lớp cơ tử cung và các màng thai bị giam cầm trong **khối máu tụ.** Khi khối máu tụ lớn hơn, cùng áp lực tăng lên sẽ gây rò rỉ máu ra ngoài qua cổ tử cung, dẫn đến xuất huyết âm đạo.
 
 _Hình ảnh "Khối máu tụ"_.
 ![Khối máu tụ](./_images/rau-bong-non/khoi-mau-tu.png)
 
-**Nguồn chảy máu**:
+**Nguồn chảy máu:**
 
 - Trong trường hợp tự phát (không do chấn thương), máu trong khối máu tụ chủ yếu là máu mẹ, xuất phát từ đổ vỡ các mạch xoắn màng rụng, trong khi các gai rau vẫn còn nguyên vẹn.
 - Nếu bong non sau chấn thương (tổn thương tử cung do va đập hoặc thủ thuật), gai rau có thể bị rách vỡ cùng với màng rụng, dẫn đến mất cả máu thai và máu mẹ.
@@ -44,8 +44,8 @@ Triệu chứng để nghĩ tới rau bong non:
 
 - **Đau bụng** khởi phát đột ngột, liên tục hoặc co thắt cường tính.
 - **Chảy máu âm đạo** (có thể ít hoặc nhiều).
-- **Tăng trương lực cơ bản tử cung**.
-- **Dấu hiệu suy thai**: Tim thai thay đổi, giảm vận động thai.
+- **Tăng trương lực cơ bản tử cung.**
+- **Dấu hiệu suy thai:** Tim thai thay đổi, giảm vận động thai.
 - **Thai lưu** có thể xảy ra trong trường hợp nặng.
 
 _Hình ảnh "EFM rau bong non"_.
@@ -90,7 +90,7 @@ Bong rau làm gián đoạn trao đổi khí mẹ-thai. Nguy cơ tử vong trong
 
 ## Điều trị
 
-**Mục tiêu**: Hạn chế tiến triển của khối máu tụ, phòng biến chứng và bảo toàn tính mạng mẹ con.
+**Mục tiêu:** Hạn chế tiến triển của khối máu tụ, phòng biến chứng và bảo toàn tính mạng mẹ con.
 
 ### Cấp cứu ban đầu
 
@@ -101,10 +101,10 @@ Bong rau làm gián đoạn trao đổi khí mẹ-thai. Nguy cơ tử vong trong
 ### Sản khoa
 
 - **Ưu tiên sinh càng sớm càng tốt**, trừ khi khối máu tụ rất nhỏ.
-- **Tia ối sớm**: Giảm áp lực khối máu tụ, giảm phóng thích thromboplastin, thúc đẩy chuyển dạ.
+- **Tia ối sớm:** Giảm áp lực khối máu tụ, giảm phóng thích thromboplastin, thúc đẩy chuyển dạ.
 - Nếu thai đủ khả năng sống và không thể sinh ngả nhanh, mổ lấy thai là ưu tiên.
 - Nếu thai đã mất hoặc không khả năng sống, có thể sinh ngả.
-- **Rau bong non càng để lâu càng mất máu và DIC càng nặng**.
+- **Rau bong non càng để lâu càng mất máu và DIC càng nặng.**
 
 ## Tài liệu tham khảo
 

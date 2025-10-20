@@ -13,22 +13,22 @@ description: Các nguyên nhân ác tính và tiền ác tính gây xuất huy�
 
 ### Tăng sinh nội mạc tử cung
 
-Tăng sinh nội mạc tử cung là tổn thương tiền ung thư, thường do nội mạc bị kích thích liên tục bởi estrogen mà không có progesterone đối kháng. Nguy cơ tiến triển thành ung thư nội mạc tùy theo đặc điểm giải phẫu bệnh. Chia thành bốn nhóm dựa trên hai yếu tố chính **thành phần tuyến/mô đệm (đơn giản hay phức tạp)** và **sự hiện diện của nhân không điển hình**:
+Tăng sinh nội mạc tử cung là tổn thương tiền ung thư, thường do nội mạc bị kích thích liên tục bởi estrogen mà không có progesterone đối kháng. Nguy cơ tiến triển thành ung thư nội mạc tùy theo đặc điểm giải phẫu bệnh. Chia thành bốn nhóm dựa trên hai yếu tố chính **thành phần tuyến/mô đệm (đơn giản hay phức tạp)** và **sự hiện diện của nhân không điển hình:**
 
-- **Tăng sinh cổ điển (đơn giản)-điển hình**: Nguy cơ tiến triển thành ung thư nội mạc 1%. Mô bệnh học cho thấy biểu mô tuyến tăng sinh nhẹ, nhân tế bào vẫn bình thường. Thường gặp ở người có tình trạng phơi bày estrogen quá mức (béo phì, PCOS, estrogen ngoại sinh...).
-- **Tăng sinh phức tạp-điển hình**: Nguy cơ tiến triển thành ung thư 3%. Thể hiện qua mô tuyến tăng nhiều, tỷ lệ tuyến:mô đệm > 50%, các tuyến sắp xếp lộn xộn, nhưng nhân tế bào vẫn bình thường.
-- **Tăng sinh cổ điển (đơn giản)-không điển hình**: Nguy cơ tiến triển thành ung thư 8%. Mô bệnh học ghi nhận tuyến tăng nhẹ nhưng lớp tế bào lót có nhân to, dị dạng và tăng sắc.
-- **Tăng sinh phức tạp-không điển hình**: Nguy cơ tiến triển thành ung thư 29%. Mô bệnh học cho thấy các tuyến tăng sinh dày, lộn xộn, lớp tế bào lót có nhân to, dị dạng và tăng sắc.
+- **Tăng sinh cổ điển (đơn giản)-điển hình:** Nguy cơ tiến triển thành ung thư nội mạc 1%. Mô bệnh học cho thấy biểu mô tuyến tăng sinh nhẹ, nhân tế bào vẫn bình thường. Thường gặp ở người có tình trạng phơi bày estrogen quá mức (béo phì, PCOS, estrogen ngoại sinh...).
+- **Tăng sinh phức tạp-điển hình:** Nguy cơ tiến triển thành ung thư 3%. Thể hiện qua mô tuyến tăng nhiều, tỷ lệ tuyến:mô đệm > 50%, các tuyến sắp xếp lộn xộn, nhưng nhân tế bào vẫn bình thường.
+- **Tăng sinh cổ điển (đơn giản)-không điển hình:** Nguy cơ tiến triển thành ung thư 8%. Mô bệnh học ghi nhận tuyến tăng nhẹ nhưng lớp tế bào lót có nhân to, dị dạng và tăng sắc.
+- **Tăng sinh phức tạp-không điển hình:** Nguy cơ tiến triển thành ung thư 29%. Mô bệnh học cho thấy các tuyến tăng sinh dày, lộn xộn, lớp tế bào lót có nhân to, dị dạng và tăng sắc.
 
 **Yếu tố nguy cơ** của tăng sinh nội mạc tử cung:
 
-- **Tuổi dậy thì**: Chu kỳ không phóng noãn kéo dài.
+- **Tuổi dậy thì:** Chu kỳ không phóng noãn kéo dài.
 - **Phụ nữ trẻ, tiền mãn kinh/quanh mãn kinh** (suy giảm progesterone của hoàng thể): Nội sinh: Béo phì, u buồng trứng sản xuất estrogen, thiểu năng buồng trứng, PCOS; Ngoại sinh: Dùng estrogen đơn thuần; Kèm theo các bệnh lý toàn thân như đái tháo đường, tăng huyết áp.
-- **Hậu mãn kinh**: Dùng estrogen đơn thuần trong điều trị thay thế. Kích thích nội sinh (ví dụ: Estrogen ngoại sinh hoặc từ mô mỡ); Dùng tamoxifen.
+- **Hậu mãn kinh:** Dùng estrogen đơn thuần trong điều trị thay thế. Kích thích nội sinh (ví dụ: Estrogen ngoại sinh hoặc từ mô mỡ); Dùng tamoxifen.
 
 ### Ung thư nội mạc tử cung
 
-Ung thư nội mạc tử cung (endometrial carcinoma) chiếm khoảng 5-10% các trường hợp xuất huyết tử cung bất thường sau mãn kinh. **Yếu tố nguy cơ**:
+Ung thư nội mạc tử cung (endometrial carcinoma) chiếm khoảng 5-10% các trường hợp xuất huyết tử cung bất thường sau mãn kinh. **Yếu tố nguy cơ:**
 
 - Tuổi ≥ 45.
 - Béo phì (BMI > 30 kg/m²).
@@ -58,9 +58,9 @@ Khảo sát nội mạc tử cung khi nghi ngờ nguyên nhân ác tính hoặc 
 - Buồng tử cung bơm căng bằng nước muối sinh lý, quan sát các khối u nhỏ, polyp hoặc dính buồng tử cung.
 - Chưa có bằng chứng chắc chắn về việc SIS làm tăng nguy cơ di căn tế bào ung thư qua vòi trứng, nhưng cần cẩn trọng với khối u nghi ngờ ác tính.
 
-**CT bụng-chậu**: Đánh giá giai đoạn lan rộng, hạch, di căn xa.
+**CT bụng-chậu:** Đánh giá giai đoạn lan rộng, hạch, di căn xa.
 
-**MRI vùng chậu**: Phân biệt u xơ, lạc nội mạc, sarcoma, xác định ranh giới khối u, xâm lấn xung quanh.
+**MRI vùng chậu:** Phân biệt u xơ, lạc nội mạc, sarcoma, xác định ranh giới khối u, xâm lấn xung quanh.
 
 ### Xâm nhập
 
@@ -76,7 +76,7 @@ Khảo sát nội mạc tử cung khi nghi ngờ nguyên nhân ác tính hoặc 
 - Thực hiện tại phòng khám, không vô cảm.
 - Hiệu quả cao với chi phí thấp.
 
-**Chỉ định sinh thiết hoặc D&C khi**:
+**Chỉ định sinh thiết hoặc D&C khi:**
 
 - Xuất huyết tử cung bất thường ở đối tượng có nguy cơ cao (gia tăng nguy cơ ung thư nội mạc).
 - Phụ nữ hậu mãn kinh có chảy máu (độ dày nội mạc ≥ 4 mm).
@@ -118,7 +118,7 @@ Khảo sát nội mạc tử cung khi nghi ngờ nguyên nhân ác tính hoặc 
 Nhiều loại tăng sinh có thể cùng tồn tại với ung thư nội mạc. Trước khi điều trị bảo tồn, phải đảm bảo không bỏ sót tổn thương (sinh thiết kỹ, kết hợp nội soi khi cần). Điều trị càng sớm (đặc biệt tăng sinh không điển hình) càng có cơ hội thoái triển.
 :::
 
-**Chọn progestin với hoạt tính kháng estrogen mạnh**. Tác dụng chính của progestin là kháng estrogen, ức chế phân bào nội mạc:
+**Chọn progestin với hoạt tính kháng estrogen mạnh.** Tác dụng chính của progestin là kháng estrogen, ức chế phân bào nội mạc:
 
 - Kích hoạt thụ thể progesterone → thoái triển tăng sinh.
 - Giảm biểu hiện thụ thể estrogen, tăng chuyển hóa estradiol thành estrone (yếu hơn).
@@ -130,13 +130,13 @@ Nhiều loại tăng sinh có thể cùng tồn tại với ung thư nội mạc
 - Đơn giản điển hình 80%.
 - Phức tạp điển hình 71%.
 
-**Thuốc lựa chọn**:
+**Thuốc lựa chọn:**
 
 - Medroxyprogesterone acetate (MPA): Đường uống: 10 mg/ngày trong 3-6 tháng, hoặc 10 mg/ngày x 12-14 ngày mỗi tháng; Đường tiêm bắp (DMPA depot): 150 mg mỗi 3-6 tháng.
 - Levonorgestrel (LNG-IUD): Phóng thích 15-20 µg/ngày, thời gian tác dụng 3-5 năm (Mirena®, Liletta®).
 - Micronized progesterone (đối với đơn giản điển hình): 200 mg/ngày x 12-14 ngày/tháng trong 3-6 tháng; Utrogestan®, Cyclogest®: 100-200 mg đặt âm đạo/ngày x 14 ngày/tháng.
 
-**Theo dõi sau điều trị**:
+**Theo dõi sau điều trị:**
 
 - Sinh thiết kiểm tra mỗi 3-6 tháng cho đến khi mẫu bình thường.
 - Nếu có chảy máu bất thường, sinh thiết lại.
@@ -145,12 +145,12 @@ Nhiều loại tăng sinh có thể cùng tồn tại với ung thư nội mạc
 
 #### Tăng sinh không điển hình
 
-**Progestin dùng liên tục, không nghỉ, nhằm ức chế hoàn toàn estrogen**:
+**Progestin dùng liên tục, không nghỉ, nhằm ức chế hoàn toàn estrogen:**
 
 - Medroxyprogesterone acetate (MPA) hoặc LNG-IUD.
 - Micronized progesterone ít được chọn vì hoạt tính kháng estrogen yếu hơn.
 
-**Theo dõi sau điều trị**:
+**Theo dõi sau điều trị:**
 
 - Sinh thiết sau 3 tháng điều trị; Nếu còn tồn tại, tăng liều hoặc kéo dài thời gian điều trị.
 - Thời gian thoái triển trung bình 9 tháng; Nếu còn tồn tại sau 7-9 tháng, tiên lượng thất bại cao (cân nhắc cắt tử cung).

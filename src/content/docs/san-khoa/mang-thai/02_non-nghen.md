@@ -11,12 +11,12 @@ Các nguyên nhân gây ra nôn nghén, bao gồm sự thay đổi nội tiết 
 
 ## Phân loại
 
-**Nôn nghén thông thường**:
+**Nôn nghén thông thường:**
 
 - Buồn nôn ± nôn.
 - Thường nhẹ và không ảnh hưởng nghiêm trọng đến sức khỏe.
 
-**Nôn nghén nặng**:
+**Nôn nghén nặng:**
 
 - Nôn mửa liên tục, không ăn uống được.
 - Sụt cân > 5% cân nặng trước khi mang thai.
@@ -61,12 +61,12 @@ Có thể gây buồn ngủ.
 
 #### Kháng histamin H1
 
-**Dimenhydrinate**:
+**Dimenhydrinate:**
 
 - Liều dùng: 50-100 mg uống mỗi 6 giờ (tối đa 400 mg/ngày).
 - Có thể gây buồn ngủ, khô miệng.
 
-**Meclizine**:
+**Meclizine:**
 
 - Liều dùng: 25-50 mg uống mỗi 6-8 giờ.
 - Có thể gây chóng mặt, buồn ngủ.

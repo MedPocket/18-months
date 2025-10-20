@@ -57,7 +57,7 @@ Tác dụng phụ:
 
 Trong 6 chu kỳ đầu tỷ lệ phóng noãn 73%. Sau 6 tháng tỷ lệ có thai giảm do tác dụng kháng estrogen.
 
-**Xử trí thất bại với CC**:
+**Xử trí thất bại với CC:**
 
 - Tăng liều đến 200-250 mg x 8-10 ngày.
 - Giảm cân kết hợp CC; phối hợp metformin (500 mg x 2 lần/ngày x 8 tuần) ở bệnh nhân kháng insulin.

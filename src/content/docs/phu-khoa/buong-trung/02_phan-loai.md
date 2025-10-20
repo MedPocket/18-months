@@ -86,7 +86,7 @@ Tân sinh của tế bào biểu mô cổ ống Muller tại buồng trứng, ch
 5. Biểu mô kiểu chuyển tiếp: U Brenner.
 6. U tế bào ống Muller hỗn hợp ác tính.
 
-**U tuyến thanh dịch (serous cystadenoma)**:
+**U tuyến thanh dịch (serous cystadenoma):**
 
 - Lót bởi tế bào trụ thấp, giống biểu mô vòi trứng.
 - Có thể lành tính, giáp biên, ác tính.
@@ -95,7 +95,7 @@ Tân sinh của tế bào biểu mô cổ ống Muller tại buồng trứng, ch
 - U giáp biên: Không xâm lấn, không di căn nhưng có khả năng tái phát, chiếm 10% u tuyến thanh dịch giáp biên ác, tuổi trung bình 40, 30% hai bên, kích thước có thể đến 25 cm. Vi thể: cấu trúc u nhú, tế bào xếp tầng, tăng phân bào nhưng không xâm lấn.
 - U tuyến thanh dịch ác tính chiếm 20% u tuyến thanh dịch.
 
-**U tuyến dịch nhầy (mucinous cystadenoma)**:
+**U tuyến dịch nhầy (mucinous cystadenoma):**
 
 - Lót bởi tế bào trụ tiết nhầy, giống biểu mô cổ tử cung.
 - Có thể lành tính, giáp biên, ác tính.
@@ -103,19 +103,19 @@ Tân sinh của tế bào biểu mô cổ ống Muller tại buồng trứng, ch
 - 15% là ác tính.
 - U giáp biên ác có thể gây pseudomyxoma peritonei.
 
-**U dạng nội mạc tử cung (endometroid tumour)**:
+**U dạng nội mạc tử cung (endometroid tumour):**
 
 - Lót bởi tế bào giống tuyến nội mạc tử cung.
 - Khác với nang endometrioma (lạc nội mạc không tân lập có vỏ và mô đệm), u dạng nội mạc chỉ gồm tế bào nội mạc, không kèm mô đệm.
 - Hầu hết ác tính, mô học giống ung thư nội mạc tử cung, 15% kèm lạc nội mạc tử cung.
 - Phân biệt với nang endometrioma rất quan trọng.
 
-**U tế bào sáng (clear cell tumour)**:
+**U tế bào sáng (clear cell tumour):**
 
 - Hầu hết ác tính, liên quan chặt chẽ với lạc nội mạc tử cung vùng chậu.
 - Liên quan đột biến PIK3CA, PTEN; Không liên quan BRCA; Liên quan hội chứng Lynch.
 
-**U Brenner (Brenner tumour)**:
+**U Brenner (Brenner tumour):**
 
 - Dạng đặc, nhiều mô đệm và mô xơ bao quanh biểu mô.
 - Hiếm ác tính; U biểu mô lành tính hiếm, thường ở phụ nữ lớn tuổi; Có thể liên quan u dịch nhầy.
@@ -131,20 +131,20 @@ Khối u từ tế bào nguồn dòng sinh dục đã trải qua một phần gi
 - Thoái giáng trực tiếp từ 2n kép → 2n (ung thư nghịch mầm, ác tính cao).
 - Qua phân bào I giảm nhiễm → tế bào n kép → thoái giáng thành u (ung thư nghịch phôi, đa số lành tính).
 
-**U nghịch phôi theo hướng cấu trúc phôi**:
+**U nghịch phôi theo hướng cấu trúc phôi:**
 
 - Từ tế bào đã qua giảm phân I, thoái giáng trực tiếp từ n kép → 2n, không qua giảm phân II.
 - U chứa thành phần của 3 lá phôi, tiềm năng ác tính thấp.
-- **U quái trưởng thành (teratoma)**: Lành tính 95%, đơn mô hoặc đa mô, thường gặp 10-30 tuổi, khối u trơn láng, chứa mô ngoại bì, trung bì, nội bì (răng, da, tóc, nang, tuyến mồ hôi, tuyến bã). Vi thể: mô trưởng thành.
-- **U quái không trưởng thành**: Luôn ác tính, chiếm 15% u tế bào mầm, tuổi trung bình 19, trung bình 18 cm, bề mặt trơn láng, cấu trúc hỗn hợp nang-đặc, vi thể: mô phôi chưa biệt hóa.
-- **U quái giáp đơn mô**: ác tính cao, có thể gây cường giáp "không bướu giáp," chụp xạ hình giáp bình thường nhưng tập trung iod ở vùng chậu.
+- **U quái trưởng thành (teratoma):** Lành tính 95%, đơn mô hoặc đa mô, thường gặp 10-30 tuổi, khối u trơn láng, chứa mô ngoại bì, trung bì, nội bì (răng, da, tóc, nang, tuyến mồ hôi, tuyến bã). Vi thể: mô trưởng thành.
+- **U quái không trưởng thành:** Luôn ác tính, chiếm 15% u tế bào mầm, tuổi trung bình 19, trung bình 18 cm, bề mặt trơn láng, cấu trúc hỗn hợp nang-đặc, vi thể: mô phôi chưa biệt hóa.
+- **U quái giáp đơn mô:** ác tính cao, có thể gây cường giáp "không bướu giáp," chụp xạ hình giáp bình thường nhưng tập trung iod ở vùng chậu.
 
-**U nghịch phôi theo hướng cấu trúc ngoài phôi**:
+**U nghịch phôi theo hướng cấu trúc ngoài phôi:**
 
 - Tế bào sau giảm phân I thoái giáng thành cấu trúc ngoài phôi (lá nuôi hoặc túi noãn hoàng).
 - Thường ác tính: **U yolk-sac** là u tế bào mầm có tỉ lệ tử vong cao nhất, chiếm 20% u tế bào mầm, độ tuổi trung bình 19, thường một bên; **Choriocarcinoma không thai kỳ** là tế bào nuôi ngoại bào thai, hCG tăng nhẹ, gây cường nội tiết, dậy thì sớm, chảy máu tử cung, vô kinh; Vi thể gồm nguyên bào nuôi, nguyên bào nuôi trung gian, hợp bào nuôi; Độ ác tính cao.
 
-**U nghịch mầm (dysgerminoma)**:
+**U nghịch mầm (dysgerminoma):**
 
 - Tạo từ tế bào giảm phân dở, thoái giáng trực tiếp từ n kép → 2n.
 - Tuổi trung bình 22, 50% phát hiện tình cờ trong thai kỳ, 20% hai bên.
@@ -156,35 +156,35 @@ Khối u từ tế bào nguồn dòng sinh dục đã trải qua một phần gi
 
 U mô đệm hoặc từ dây giới bào, đơn thuần hoặc hỗn hợp, chiếm 5-8% tân sinh buồng trứng, 2% u ác tính.
 
-**U mô đệm đơn thuần Fibroma (u sợi) & hội chứng Meigs**:
+**U mô đệm đơn thuần Fibroma (u sợi) & hội chứng Meigs:**
 
 - Hội chứng Meigs gồm: U sợi buồng trứng, báng bụng, tràn dịch màng phổi.
 - U sợi buồng trứng trong hội chứng Meigs lành tính một bên, bệnh nhân thường khám do báng bụng/tràn dịch, không do u.
 - Cơ chế: VEGF tăng tính thấm mạch máu → báng bụng, tràn dịch. Bệnh thoái lui sau cắt u.
 
-**U mô đệm đơn thuần: Thecoma (u tế bào vỏ)**:
+**U mô đệm đơn thuần: Thecoma (u tế bào vỏ):**
 
 - Hầu hết lành tính, thường ở tuổi mãn kinh.
 - Chế tiết estrogen, hiếm khi tiết androgen.
 - Đại thể: Khối đặc, màu vàng do steroid, dạng sợi.
 - Triệu chứng: Xuất huyết tử cung, tăng sinh nội mạc do cường estrogen.
 
-**U dây giới bào đơn thuần**: Xuất phát từ dây giới bào, thường chế tiết steroid hướng nữ tiết estrogen và hướng nam tiết androgen.
+**U dây giới bào đơn thuần:** Xuất phát từ dây giới bào, thường chế tiết steroid hướng nữ tiết estrogen và hướng nam tiết androgen.
 
-**U tế bào hạt (Granulosa cell tumour)**:
+**U tế bào hạt (Granulosa cell tumour):**
 
 - Ác tính thấp, đặc trưng vi thể tế bào hạt, tiết estrogen.
 - Thường đơn bên, kích thước 15 cm, dạng nang, mô mềm/chắc, mặt cắt chứa dịch máu. Vi thể: Thể Call-Exner.
 - 80-90% chẩn đoán giai đoạn I, 95% dạng mô học trưởng thành (adult granulosa tumour, sau mãn kinh), 5% dạng thiếu niên (juvenile granulosa tumour, tuổi dậy thì-sinh sản).
 - Triệu chứng: Cường estrogen → tăng sinh nội mạc, xuất huyết bất thường, dậy thì sớm, đôi khi đau do vỡ u.
 
-**U tế bào Sertoli**:
+**U tế bào Sertoli:**
 
 - Xuất phát từ dây giới bào, biệt hóa theo hướng nam, ác tính thấp.
 - Thường < 30 tuổi, > 95% tiết estrogen.
 - Gây nam hóa, dễ phát hiện sớm (giai đoạn I).
 
-**U hỗn hợp Sertoli-Leydig (Sertoli-Leydig cell tumour, androblastoma)**:
+**U hỗn hợp Sertoli-Leydig (Sertoli-Leydig cell tumour, androblastoma):**
 
 - Hiếm, ác tính thấp, phụ thuộc độ biệt hóa.
 - Tiết androgen ở 40-60% bệnh nhân → rậm lông, vú teo, phì đại âm vật, dậy thì sớm, rong huyết.
@@ -205,19 +205,19 @@ Triệu chứng đa dạng, ít liên quan chức năng buồng trứng, không 
 
 ### Biến chứng
 
-**Bản chất hóa ác**:
+**Bản chất hóa ác:**
 
 - U buồng trứng không "hóa ác" từ lành; Chỉ bỏ sót u ác tính.
 - Ung thư buồng trứng khó phân biệt lành-ác lâm sàng, hình ảnh, giải phẫu bệnh do tiến triển âm thầm, diễn biến khu trú vài vùng ác tính.
 
-**Xoắn khối u buồng trứng**:
+**Xoắn khối u buồng trứng:**
 
 - U di động, tỷ trọng lớn dễ xoắn.
 - Buồng trứng chỉ cố định bằng mạc treo, dây chằng thắt lưng và dây chằng tử cung-buồng trứng, rất lỏng lẻo.
 - Triệu chứng: Đau đột ngột, dữ dội vùng bụng, có thể sốc, thăm khám thấy khối cạnh tử cung rất đau, phúc mạc kích thích gây nôn. Bụng vẫn mềm nếu u không vỡ.
 - Điều trị ngoại khoa khẩn: Bảo tồn buồng trứng nếu tưới máu hồi phục, qua nội soi hoặc mở bụng. Nếu không chắc lành, cắt bỏ trọn phần phụ bị xoắn.
 
-**Khác**: Xuất huyết trong nang, vỡ u, chèn ép, nhiễm trùng hiếm gặp.
+**Khác:** Xuất huyết trong nang, vỡ u, chèn ép, nhiễm trùng hiếm gặp.
 
 ## Tài liệu tham khảo
 

@@ -29,18 +29,18 @@ Nội mạc tử cung của mẹ, còn gọi là màng rụng, chia thành 3 ph�
 2. Màng rụng trứng: Giữa phôi và khoang tử cung.
 3. Màng rụng tử cung: Phần nội mạc còn lại.
 
-**Biến đổi của màng rụng rau**:
+**Biến đổi của màng rụng rau:**
 
 - Lá nuôi hợp bào làm xói mòn mô màng rụng rau → tạo khoảng gian gai rau kích thước không đều.
 - Các vách rau còn lại nhô vào khoang gai rau → chia thành nhiều khoang, mỗi khoang chứa một múi rau gồm vài gai rau gốc. Một bánh rau có khoảng 10-38 múi.
 - Nhung mao bám vào đĩa đáy hoặc vách rau giúp neo giữ phần rau của mẹ và con.
 
-**Biến đổi của màng rụng tử cung**:
+**Biến đổi của màng rụng tử cung:**
 
 - Phản ứng màng rụng: Tế bào liên kết phình to, tích trữ chất dinh dưỡng → hình thành tế bào rụng → tạo lớp đặc.
 - Lớp sâu: Các tuyến bị ép dẹt → tạo lớp xốp.
 
-**Biến đổi của màng rụng trứng**:
+**Biến đổi của màng rụng trứng:**
 
 - Tháng thứ 4: Màng rụng trứng áp sát màng rụng tử cung, làm mất khoang tử cung.
 - Nửa sau thai kỳ: 4 lớp (màng ối, màng đệm, màng rụng trứng, màng rụng tử cung) hợp lại thành màng bọc thai.
@@ -66,18 +66,18 @@ Chức năng:
 
 Rau thai là phần phụ của thai, giữ vai trò sống còn trong thai kỳ:
 
-- **Trao đổi chất**: Cung cấp dinh dưỡng, nước, oxy, kháng thể, hormone từ mẹ sang thai; Loại bỏ CO₂ và các chất thải từ thai về mẹ.
-- **Nội tiết**: Tiết các hormone quan trọng như hCG (human chorionic gonadotropin), estrogen, progesterone...
-- **Miễn dịch**: Truyền miễn dịch thụ động nhờ kháng thể từ máu mẹ qua hàng rào rau sang thai, bảo vệ thai nhi.
+- **Trao đổi chất:** Cung cấp dinh dưỡng, nước, oxy, kháng thể, hormone từ mẹ sang thai; Loại bỏ CO₂ và các chất thải từ thai về mẹ.
+- **Nội tiết:** Tiết các hormone quan trọng như hCG (human chorionic gonadotropin), estrogen, progesterone...
+- **Miễn dịch:** Truyền miễn dịch thụ động nhờ kháng thể từ máu mẹ qua hàng rào rau sang thai, bảo vệ thai nhi.
 
 ## Bất thường liên quan
 
 Một số rối loạn thường gặp trong lâm sàng:
 
-- **Rau tiền đạo**: Rau bám gần hoặc che lỗ trong cổ tử cung.
-- **Rau bong non**: Rau bong ra sớm trước khi thai ra đời → gây chảy máu và suy thai.
-- **Rau cài răng lược**: Gai rau xâm lấn quá sâu vào cơ tử cung, gây khó bong rau sau sinh.
-- **Rau không trọn (sót rau)**: Phần rau còn sót lại trong tử cung sau sổ rau → nguy cơ băng huyết.
+- **Rau tiền đạo:** Rau bám gần hoặc che lỗ trong cổ tử cung.
+- **Rau bong non:** Rau bong ra sớm trước khi thai ra đời → gây chảy máu và suy thai.
+- **Rau cài răng lược:** Gai rau xâm lấn quá sâu vào cơ tử cung, gây khó bong rau sau sinh.
+- **Rau không trọn (sót rau):** Phần rau còn sót lại trong tử cung sau sổ rau → nguy cơ băng huyết.
 
 ## Tài liệu tham khảo
 

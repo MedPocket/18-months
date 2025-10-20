@@ -9,7 +9,7 @@ description: Vỡ tử cung là tình trạng cấp cứu hiếm gặp nhưng r�
 
 Có hai dạng thức vỡ tử cung:
 
-1. **Vỡ tử cung hoàn toàn**: Tình trạng vỡ tách rời toàn bộ bề dày của thành tử cung cho đến thanh mạc tử cung, thai và các phần phụ của thai bị đẩy vào trong khoang phúc mạc.
+1. **Vỡ tử cung hoàn toàn:** Tình trạng vỡ tách rời toàn bộ bề dày của thành tử cung cho đến thanh mạc tử cung, thai và các phần phụ của thai bị đẩy vào trong khoang phúc mạc.
 2. **Vỡ tử cung không hoàn toàn** hay nứt tử cung (uterine dehiscence): Tình trạng vỡ tách rời lớp cơ tử cung, nhưng thanh mạc còn nguyên vẹn.
 
 Có hai tình huống vỡ tử cung:
@@ -31,19 +31,19 @@ Có hai tình huống vỡ tử cung:
 ### Chuyển dạ tắc nghẽn
 
 - **Đau bụng đột ngột** và nhanh chóng rơi vào sốc mất máu.
-- Chuyển dạ tắc nghẽn thể hiện **hội chứng vượt trở ngại**: Cơn co tachysystole, dấu vòng Bandl, căng của dây chằng tròn (dấu Frommel), biến dạng đầu thai.
-- **Khi tử cung vỡ**: Ngưng hoàn toàn cơn gò, mất tim thai, khám bụng thấy ngôi thai trồi cao hoặc rơi vào ổ bụng, các phần thai dễ sờ thấy, khối tử cung co rút.
+- Chuyển dạ tắc nghẽn thể hiện **hội chứng vượt trở ngại:** Cơn co tachysystole, dấu vòng Bandl, căng của dây chằng tròn (dấu Frommel), biến dạng đầu thai.
+- **Khi tử cung vỡ:** Ngưng hoàn toàn cơn gò, mất tim thai, khám bụng thấy ngôi thai trồi cao hoặc rơi vào ổ bụng, các phần thai dễ sờ thấy, khối tử cung co rút.
 - **Chảy máu âm đạo** không phải lúc nào cũng có. Khám âm đạo có thể phát hiện phần thai trồi lên rất cao hoặc mất dấu phần thai.
 - Thường vỡ ở cạnh bên đoạn dưới tử cung, nơi yếu nhất khi có hội chứng vượt trở ngại.
 
 ### Chuyển dạ có sẹo mổ cũ
 
-- Biểu hiện lâm sàng nghèo nàn, thường chỉ là **bất thường trên EFM**.
+- Biểu hiện lâm sàng nghèo nàn, thường chỉ là **bất thường trên EFM.**
 
 ## Điều trị
 
 - **Phẫu thuật khẩn cấp** ngay khi nghi ngờ vỡ tử cung.
-- Nếu hội chứng vượt trở ngại mà **tử cung chưa vỡ**: Ngậm nitroglycerine dưới lưỡi để giảm co, tránh vỡ và cải thiện tưới máu thai khi chuyển phòng mổ.
+- Nếu hội chứng vượt trở ngại mà **tử cung chưa vỡ:** Ngậm nitroglycerine dưới lưỡi để giảm co, tránh vỡ và cải thiện tưới máu thai khi chuyển phòng mổ.
 
 ## Tài liệu tham khảo
 

@@ -14,16 +14,16 @@ description: Thalassemia - bệnh hemoglobin di truyền gây thiếu máu, bao 
 
 ### α-thalassemia
 
-- **Mất 1 gene α**: Người mang gen, không có triệu chứng lâm sàng.
-- **Mất 2 gene α (thể nhẹ)**: Thiếu máu hồng cầu nhỏ nhược sắc nhẹ; HbA2, HbF bình thường.
-- **Mất 3 gene α (Hb H)**: Thiếu máu tương đối nặng; Lách to; HbA2 bình thường hoặc tăng nhẹ.
-- **Mất 4 gene α (Hb Bart’s, thai phù)**: Không có chuỗi α; Chỉ có chuỗi γ với ái lực O₂ cao → thai phù đa màng, suy tim, tử vong thường từ tuần 30 đến ngay sau sinh.
+- **Mất 1 gene α:** Người mang gen, không có triệu chứng lâm sàng.
+- **Mất 2 gene α (thể nhẹ):** Thiếu máu hồng cầu nhỏ nhược sắc nhẹ; HbA2, HbF bình thường.
+- **Mất 3 gene α (Hb H):** Thiếu máu tương đối nặng; Lách to; HbA2 bình thường hoặc tăng nhẹ.
+- **Mất 4 gene α (Hb Bart’s, thai phù):** Không có chuỗi α; Chỉ có chuỗi γ với ái lực O₂ cao → thai phù đa màng, suy tim, tử vong thường từ tuần 30 đến ngay sau sinh.
 
 ### β-thalassemia
 
-- **Thể nặng (β⁰/β⁰ hoặc β⁰/β⁰ kép)**: Biểu hiện sớm ngay sau sinh hoặc vài tháng tuổi. Thiếu máu nặng, vàng da, gan lách to. Cần truyền máu định kỳ và thải sắt để duy trì sự sống. Huyết học: Hb < 70 g/L; MCV, MCH giảm; Ferritin bình thường hoặc tăng; Điện di Hb: ↑ HbF, ↑ HbA2.
-- **Thể trung gian (β⁺/β⁺ hoặc β⁺/β⁰)**: Thiếu máu nhẹ-vừa, biểu hiện muộn hơn thể nặng. Có thể cần truyền máu từng đợt, ít phụ thuộc hơn.
-- **Thể ẩn (dị hợp tử 1 đột biến)**: Thường không triệu chứng; Chỉ phát hiện tình cờ khi xét nghiệm. Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3.5-7%); HbF 1-3% tùy loại đột biến.
+- **Thể nặng (β⁰/β⁰ hoặc β⁰/β⁰ kép):** Biểu hiện sớm ngay sau sinh hoặc vài tháng tuổi. Thiếu máu nặng, vàng da, gan lách to. Cần truyền máu định kỳ và thải sắt để duy trì sự sống. Huyết học: Hb < 70 g/L; MCV, MCH giảm; Ferritin bình thường hoặc tăng; Điện di Hb: ↑ HbF, ↑ HbA2.
+- **Thể trung gian (β⁺/β⁺ hoặc β⁺/β⁰):** Thiếu máu nhẹ-vừa, biểu hiện muộn hơn thể nặng. Có thể cần truyền máu từng đợt, ít phụ thuộc hơn.
+- **Thể ẩn (dị hợp tử 1 đột biến):** Thường không triệu chứng; Chỉ phát hiện tình cờ khi xét nghiệm. Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3.5-7%); HbF 1-3% tùy loại đột biến.
 
 ## Đặc điểm
 

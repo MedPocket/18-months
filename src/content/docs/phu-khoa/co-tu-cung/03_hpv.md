@@ -12,10 +12,10 @@ description: Tổng quan virus HPV.
 HPV thuộc họ Papovaviridae, đường kính 55 nm, không có màng lipid. Capsid gồm 72 capsom hình sao 5 cánh, chính bởi protein L1; Protein L2 ít hơn, giữ vai trò nâng đỡ.
 Bên trong là DNA kép vòng, dài 7904 bp, gồm các gen:
 
-- **E1, E2**: Nhân bản.
-- **E4, E5**: Tái tổ hợp.
-- **L1, L2**: Protein vỏ capsid.
-- **E6, E7**: Đa chức năng, tương tác với p53 và pRb, quyết định khả năng sinh ung thư.
+- **E1, E2:** Nhân bản.
+- **E4, E5:** Tái tổ hợp.
+- **L1, L2:** Protein vỏ capsid.
+- **E6, E7:** Đa chức năng, tương tác với p53 và pRb, quyết định khả năng sinh ung thư.
 
 _Hình ảnh "Sơ đồ DNA 7904 bp của HPV type 16"_.
 ![DNA HPV16 7904 bp](./_images/hpv/so-do-dna-hpv-16.png)
@@ -24,12 +24,12 @@ _Hình ảnh "Sơ đồ DNA 7904 bp của HPV type 16"_.
 
 Hơn 200 type HPV đã được định danh, trong đó 85 type đã mô tả đầy đủ gene; > 40 type lây qua quan hệ tình dục. Do chỉ có capsid, HPV bền ngoài môi trường, có thể lây gián tiếp qua tiếp xúc đồ dùng:
 
-- **Nhóm da**: Tổn thương ở da tay, chân.
-- **Nhóm niêm mạc**: Xâm nhiễm tế bào đáy niêm mạc môi, miệng, hô hấp, cơ quan sinh dục.
+- **Nhóm da:** Tổn thương ở da tay, chân.
+- **Nhóm niêm mạc:** Xâm nhiễm tế bào đáy niêm mạc môi, miệng, hô hấp, cơ quan sinh dục.
 
-**Nguy cơ thấp**: 6, 11, 42, 43, 44.
+**Nguy cơ thấp:** 6, 11, 42, 43, 44.
 
-**Nguy cơ cao**: 16, 18, 31, 33, 34, 35, 39, 45, 51, 52, 56, 58, 59, 66, 68, 70.
+**Nguy cơ cao:** 16, 18, 31, 33, 34, 35, 39, 45, 51, 52, 56, 58, 59, 66, 68, 70.
 
 ### Yếu tố nguy cơ
 
@@ -43,7 +43,7 @@ Hơn 200 type HPV đã được định danh, trong đó 85 type đã mô tả �
 - Nhiễm tồn tại (> 2 năm) tăng nguy cơ tái phát và sinh ung thư.
 - Biểu hiện: Mụn cóc da, mụn cóc miệng (Heck’s), u nhú thanh quản.
 - Tại cổ tử cung: HPV type thấp gây mụn cóc sinh dục; Type cao (16, 18, 31, 45...) liên quan đến tổn thương tiền ung thư và ung thư.
-- **Cơ chế sinh ung thư**: E6 liên kết p53 → thoái giáng p53 → mất kiểm soát chu kỳ tế bào. E7 bất hoạt pRb → giải phóng E2F1 → kích hoạt phân bào không kiểm soát.
+- **Cơ chế sinh ung thư:** E6 liên kết p53 → thoái giáng p53 → mất kiểm soát chu kỳ tế bào. E7 bất hoạt pRb → giải phóng E2F1 → kích hoạt phân bào không kiểm soát.
 - Miễn dịch qua trung gian tế bào quyết định khả năng thanh thải HPV.
 
 _Hình ảnh "Cơ chế hình thành tế bào bất tử khi nhiễm HPV"_.
@@ -94,14 +94,14 @@ _Bảng "So sánh vaccine HPV"_.
 
 ### Sử dụng
 
-**Chỉ định**:
+**Chỉ định:**
 
 - Trẻ gái và trai 9-12 tuổi (khuyến cáo mạnh 11-12 tuổi).
 - Trẻ trai ưu tiên 4vHPV.
 - Người chưa tiêm: Nữ đến 26 tuổi; Nam đến 21 tuổi (mở rộng đến 26 tuổi cho đồng tính và người chuyển giới).
 - Trẻ em bị lạm dụng tình dục: Bắt đầu từ 9 tuổi.
 
-**Phác đồ**:
+**Phác đồ:**
 
 - Trước 15 tuổi: 2 liều, cách 6-12 tháng.
 - Từ 15 tuổi: 3 liều (0, 1-2 tháng, 6 tháng).
@@ -122,16 +122,16 @@ _Bảng "So sánh vaccine HPV"_.
 
 ## HPV testing
 
-Thường thực hiện cùng Pap smear (co-testing). **Âm tính HPV → độ tin cậy cao, có thể tầm soát 3 năm/lần**.
+Thường thực hiện cùng Pap smear (co-testing). **Âm tính HPV → độ tin cậy cao, có thể tầm soát 3 năm/lần.**
 
-**Chỉ định**:
+**Chỉ định:**
 
 - Reflex testing khi ASC-US.
 - Co-testing cho phụ nữ 30-65 tuổi.
 - Sau điều trị HSIL.
 - Có xu hướng làm test đầu tay từ 25 tuổi.
 
-**Quản lý (ACOG/ASCCP)**:
+**Quản lý (ACOG/ASCCP):**
 
 - HPV (−): Xét nghiệm lại sau 3 năm.
 - HPV (+) type 16/18: Soi cổ tử cung.

@@ -32,13 +32,13 @@ Chẩn đoán hội chứng buồng trứng đa nang khi có 2/3 tiêu chuẩn k
 
 ### Cường androgen
 
-**Cường androgen sinh hóa**:
+**Cường androgen sinh hóa:**
 
 - Testosterone toàn phần ≥ 1.8 nmol/L và FAI (Free androgen index) ≥ 6 (theo dữ liệu dân số Việt Nam).
 - Đánh giá khó khăn ở phụ nữ đang dùng COCs → cần ngưng thuốc ít nhất 3 tháng.
 - Nếu androgen cao → cần loại trừ u buồng trứng, u thượng thận, tăng sản thượng thận bẩm sinh, Cushing, ovarian hyperthecosis, nguyên nhân iatrogenic, kháng insulin nặng.
 
-**Lâm sàng**:
+**Lâm sàng:**
 
 - Rậm lông. Thang điểm Ferriman–Gallwey (điểm ≥ 3 được coi là rậm lông).
 - Hói đầu kiểu nam giới. Thang điểm Ludwig/Olsen (đánh giá hói đầu).
@@ -102,9 +102,9 @@ Mục tiêu: Kiểm soát kinh nguyệt, điều trị cường androgen, hội 
 
 #### Thuốc tránh thai
 
-**Progestogen đơn thuần**: Dùng ≥ 12 ngày/tháng để bảo vệ nội mạc tử cung.
+**Progestogen đơn thuần:** Dùng ≥ 12 ngày/tháng để bảo vệ nội mạc tử cung.
 
-**Viên kết hợp (EE + progestogen kháng androgen: cyproterone, drospirenone)**:
+**Viên kết hợp (EE + progestogen kháng androgen: cyproterone, drospirenone):**
 
 - Điều hòa kinh nguyệt, giảm nguy cơ tăng sản nội mạc tử cung.
 - Liều EE thấp (20–30 µg) được ưu tiên.
@@ -136,7 +136,7 @@ Laser/ánh sáng: Giảm rậm lông, cải thiện chất lượng sống.
 
 ### Nhóm mong có thai
 
-**Mục tiêu**: Gây phóng noãn đơn nang, giảm đa thai, giảm quá kích buồng trứng.
+**Mục tiêu:** Gây phóng noãn đơn nang, giảm đa thai, giảm quá kích buồng trứng.
 
 _Hình ảnh "Lược đồ điều trị hiếm muộn cho phụ nữ buồng trứng đa nang" - HOREM_.
 ![Lược đồ điều trị hiếm muộn cho phụ nữ PCOS](./_images/pcos/horem-dieu-tri-hiem-muon-cho-phu-nu-pcos.png)

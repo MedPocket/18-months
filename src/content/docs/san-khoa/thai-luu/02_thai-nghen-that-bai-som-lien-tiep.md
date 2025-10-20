@@ -10,11 +10,11 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 
 ## Yếu tố nguy cơ
 
-- **Tuổi**: Lớn tuổi liên quan mật thiết đến vô sinh, dị tật thai, thai chết lưu và RPL. Phụ nữ trên 35 tuổi có nguy cơ mất thai sau RPL tăng gấp đôi và tỷ lệ bất thường nhiễm sắc thể cao hơn. Tuổi cha tuy có liên quan đến sảy thai nhưng chưa chứng minh rõ với RPL.
-- **Stress**: Có liên quan đến RPL nhưng không được xác định là nguyên nhân trực tiếp.
-- **Môi trường và nghề nghiệp**: Một số nghiên cứu nhỏ gợi ý thuốc trừ sâu, kim loại nặng, thiếu vi chất có thể tăng RPL, nhưng chưa đủ chứng cứ.
-- **Viêm mạn nội mạc tử cung**: Viêm mạn và bất thường cơ chế "kiểm soát" làm tổ tại nội mạc tử cung có thể góp phần vào RPL, cần thêm nghiên cứu và dữ liệu đối chứng.
-- **Hút thuốc lá, béo phì và uống rượu**: Giảm cơ hội sinh sống và ảnh hưởng tiêu cực đến kết cục thai kỳ.
+- **Tuổi:** Lớn tuổi liên quan mật thiết đến vô sinh, dị tật thai, thai chết lưu và RPL. Phụ nữ trên 35 tuổi có nguy cơ mất thai sau RPL tăng gấp đôi và tỷ lệ bất thường nhiễm sắc thể cao hơn. Tuổi cha tuy có liên quan đến sảy thai nhưng chưa chứng minh rõ với RPL.
+- **Stress:** Có liên quan đến RPL nhưng không được xác định là nguyên nhân trực tiếp.
+- **Môi trường và nghề nghiệp:** Một số nghiên cứu nhỏ gợi ý thuốc trừ sâu, kim loại nặng, thiếu vi chất có thể tăng RPL, nhưng chưa đủ chứng cứ.
+- **Viêm mạn nội mạc tử cung:** Viêm mạn và bất thường cơ chế "kiểm soát" làm tổ tại nội mạc tử cung có thể góp phần vào RPL, cần thêm nghiên cứu và dữ liệu đối chứng.
+- **Hút thuốc lá, béo phì và uống rượu:** Giảm cơ hội sinh sống và ảnh hưởng tiêu cực đến kết cục thai kỳ.
 
 ## Tiếp cận
 

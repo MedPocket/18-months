@@ -7,22 +7,22 @@ Tất cả thai phụ được khuyến cáo tầm soát nhiễm HBV ngay trong 
 
 ## Tầm soát
 
-**Markers của virus viêm gan B**:
+**Markers của virus viêm gan B:**
 
-- **HBsAg**: Kháng nguyên vỏ bọc, xuất hiện sớm trong huyết thanh sau khi nhiễm HBV và (+) khẳng định chắc chắn nhiễm HBV.
-- **Anti-HBs**: Kháng thể trung hòa; (+) ở bệnh nhân hồi phục hoặc đã tiêm vaccine.
-- **HBcAg**: Kháng nguyên lõi chỉ có trong tế bào gan, không có trong huyết tương.
-- **Anti-HBc IgM/IgG**: IgM xuất hiện trong viêm gan cấp hoặc đợt cấp mạn; IgG tồn tại lâu ở viêm gan mạn.
-- **HBeAg**: Khẳng định virus đang sao chép tích cực, nguy cơ lây nhiễm cao.
-- **Anti-HBe**: Xuất hiện giai đoạn cuối cấp tính và duy trì kéo dài.
-- **HBV DNA**: Đo tải lượng virus, theo dõi và đánh giá đáp ứng điều trị.
+- **HBsAg:** Kháng nguyên vỏ bọc, xuất hiện sớm trong huyết thanh sau khi nhiễm HBV và (+) khẳng định chắc chắn nhiễm HBV.
+- **Anti-HBs:** Kháng thể trung hòa; (+) ở bệnh nhân hồi phục hoặc đã tiêm vaccine.
+- **HBcAg:** Kháng nguyên lõi chỉ có trong tế bào gan, không có trong huyết tương.
+- **Anti-HBc IgM/IgG:** IgM xuất hiện trong viêm gan cấp hoặc đợt cấp mạn; IgG tồn tại lâu ở viêm gan mạn.
+- **HBeAg:** Khẳng định virus đang sao chép tích cực, nguy cơ lây nhiễm cao.
+- **Anti-HBe:** Xuất hiện giai đoạn cuối cấp tính và duy trì kéo dài.
+- **HBV DNA:** Đo tải lượng virus, theo dõi và đánh giá đáp ứng điều trị.
 
-**Nếu HBsAg (+)**:
+**Nếu HBsAg (+):**
 
 - Khảo sát HBeAg.
 - Nếu HBeAg (+), đo HBV DNA để quyết định điều trị kháng virus.
 
-**Lây truyền từ mẹ sang con (Mother-To-Child Transmission - MTCT)**:
+**Lây truyền từ mẹ sang con (Mother-To-Child Transmission - MTCT):**
 
 - 70-90% trẻ sinh từ mẹ HBsAg (+) và HBeAg (+) sẽ bị nhiễm HBV nếu không dự phòng.
 - 90% trẻ nhiễm từ mẹ có nguy cơ thành mạn tính nếu không được phòng ngừa.
@@ -31,10 +31,10 @@ Tất cả thai phụ được khuyến cáo tầm soát nhiễm HBV ngay trong 
 
 ### Với mẹ
 
-**Chỉ định thuốc kháng virus**:
+**Chỉ định thuốc kháng virus:**
 
-- **HBsAg (+), HBeAg (+) và HBV DNA > 10⁶ copies/mL (200 000 IU/mL) hoặc HBsAg định lượng > 10⁴ IU/mL**.
-- Phụ nữ viêm gan B mạn tính không xơ hóa tiến triển có thể trì hoãn điều trị đến sau sinh, trừ khi: **Xơ gan còn bù hoặc mất bù** với tải lượng HBV DNA bất kể ALT/HBeAg. Hoặc không xơ gan nhưng đồng thời **ALT > 2 lần bình thường và/hoặc xơ hóa F ≥ 2 cùng HBV DNA ≥ 10⁵ copies/mL (nếu HBeAg +) hoặc ≥ 10⁴ copies/mL (nếu HBeAg -)**.
+- **HBsAg (+), HBeAg (+) và HBV DNA > 10⁶ copies/mL (200 000 IU/mL) hoặc HBsAg định lượng > 10⁴ IU/mL.**
+- Phụ nữ viêm gan B mạn tính không xơ hóa tiến triển có thể trì hoãn điều trị đến sau sinh, trừ khi: **Xơ gan còn bù hoặc mất bù** với tải lượng HBV DNA bất kể ALT/HBeAg. Hoặc không xơ gan nhưng đồng thời **ALT > 2 lần bình thường và/hoặc xơ hóa F ≥ 2 cùng HBV DNA ≥ 10⁵ copies/mL (nếu HBeAg +) hoặc ≥ 10⁴ copies/mL (nếu HBeAg -).**
 
 **Bắt đầu** Tenofovir disoproxil fumarate (TDF) 300 mg/ngày từ tuần 24-28 của thai kỳ. Nếu muộn hơn, cần **khởi trị ít nhất 4 tuần trước sinh và kéo dài 4-12 tuần sau sinh** (chú ý điều chỉnh liều theo độ lọc cầu thận).
 
@@ -51,7 +51,7 @@ Tất cả thai phụ được khuyến cáo tầm soát nhiễm HBV ngay trong 
 
 ### Với con
 
-**Sau sinh thực hiện**:
+**Sau sinh thực hiện:**
 
 - Tiêm HBIG cho trẻ trong 11-12 giờ đầu (trước 24 giờ).
 - Tiêm vaccine HBV mũi 1 cùng thời điểm (vị trí khác nhau).
@@ -63,19 +63,19 @@ Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng để đánh giá hiệu 
 
 ### Ủ bệnh
 
-**Thời gian ủ bệnh**: 45-180 ngày (trung bình 60-90 ngày).
+**Thời gian ủ bệnh:** 45-180 ngày (trung bình 60-90 ngày).
 
-**Đường lây**: Máu, dịch sinh dục, quan hệ tình dục không an toàn, dùng chung kim tiêm, từ mẹ sang con (trong thai kỳ, chuyển dạ, cho con bú).
+**Đường lây:** Máu, dịch sinh dục, quan hệ tình dục không an toàn, dùng chung kim tiêm, từ mẹ sang con (trong thai kỳ, chuyển dạ, cho con bú).
 
-**Xét nghiệm phát hiện**:
+**Xét nghiệm phát hiện:**
 
 - Sớm nhất 4-6 tuần sau phơi nhiễm.
 - Độ chính xác cao sau 3 tháng.
 
 ### Điều trị
 
-- **Tiêm HBIG (Globulin miễn dịch đặc hiệu)**: Nếu chưa tiêm vắc-xin hoặc chưa có kháng thể.
-- **Tiêm vắc-xin viêm gan B**: Đồng thời hoặc sau tiêm HBIG tùy từng trường hợp.
+- **Tiêm HBIG (Globulin miễn dịch đặc hiệu):** Nếu chưa tiêm vắc-xin hoặc chưa có kháng thể.
+- **Tiêm vắc-xin viêm gan B:** Đồng thời hoặc sau tiêm HBIG tùy từng trường hợp.
 
 ## Tài liệu tham khảo
 

@@ -20,10 +20,10 @@ _Bảng "Các phương pháp tránh thai"_.
 
 Mỗi phương pháp được đặc trưng bằng:
 
-1. **Tính hiệu quả**.
-2. **Tính an toàn**.
-3. **Tính kinh tế**.
-4. **Khả năng chấp nhận của người dùng cụ thể**.
+1. **Tính hiệu quả.**
+2. **Tính an toàn.**
+3. **Tính kinh tế.**
+4. **Khả năng chấp nhận của người dùng cụ thể.**
 
 ### Tính hiệu quả
 
@@ -82,19 +82,19 @@ Phụ thuộc vào:
 
 ### Các bước tư vấn
 
-**Sàng lọc về tính an toàn**:
+**Sàng lọc về tính an toàn:**
 
 - Hỏi về: Bệnh lý tim mạch, nội tiết, gan, huyết khối, thuốc đang dùng...
-- Phân loại theo **WHO 1-4**. **Loại 3-4** → Không đưa vào danh sách gợi ý.
+- Phân loại theo **WHO 1-4.** **Loại 3-4** → Không đưa vào danh sách gợi ý.
 
-**Lập danh sách phương pháp phù hợp**:
+**Lập danh sách phương pháp phù hợp:**
 
 - Ưu tiên: Loại 1 → Theo hiệu quả giảm dần.
 - Cung cấp thông tin: Hiệu quả, tác dụng phụ, cách sử dụng.
 
-**Lựa chọn của người dùng**: Người dùng chọn trong danh sách, dựa trên điều kiện và sở thích cá nhân.
+**Lựa chọn của người dùng:** Người dùng chọn trong danh sách, dựa trên điều kiện và sở thích cá nhân.
 
-**Chỉ định phương tiện cụ thể**:
+**Chỉ định phương tiện cụ thể:**
 
 - Lựa chọn thương hiệu, kích cỡ, liều lượng cụ thể.
 - Đảm bảo sẵn có trên thị trường & phù hợp về kinh tế.

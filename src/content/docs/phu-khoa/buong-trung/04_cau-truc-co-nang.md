@@ -28,14 +28,14 @@ _Hình ảnh "Nang đơn trên siêu âm, 5-8 cm, thành mỏng, không chồi, 
 
 Là nang noãn không trưởng thành và không phóng noãn. Nang tiếp tục tăng kích thước, sản xuất steroid bất thường. **Nguyên nhân** do phản hồi steroid bị triệt tiêu (ví dụ dậy thì, quanh mãn kinh, steroid ngoại sinh, stress). **Cấu trúc** gồm thành lót tế bào hạt xung quanh tế bào vỏ, lòng nang chứa estrogen; Đôi khi chỉ còn tế bào vỏ nếu tế bào hạt tróc rời; Nang có thể đạt 5-8 cm, tồn tại xuyên chu kỳ.
 
-**Triệu chứng**:
+**Triệu chứng:**
 
 - Rối loạn kinh (vắng progesterone).
 - Đau bụng nhẹ-vừa, lệch một bên, kèm rối loạn kinh.
 - Thăm khám thấy nang di động.
 - Nang có thể vỡ gây đau cấp, nhưng thường tự lành, chỉ cần giảm đau.
 
-**Điều trị**:
+**Điều trị:**
 
 - Hầu hết tự mất trong 6 tuần, không cần can thiệp.
 - COC không tiêu nang mà chỉ ngăn nang mới hình thành, chờ nang cũ thoái triển.
@@ -48,18 +48,18 @@ _Hình ảnh "Hoàng thể xuất huyết trên siêu âm"_.
 
 Hoàng thể hình thành sau phóng noãn, từ tế bào vỏ-hạt dưới tác dụng LH. **Chức năng** tiết estrogen và progesterone, chuẩn bị làm tổ và duy trì thai. Progesterone gây feedback giảm GnRH/LH, dẫn đến ly giai hoàng thể.
 
-**Hoàng thể tồn lưu**:
+**Hoàng thể tồn lưu:**
 
 - Progesterone không ức chế LH đủ, hoàng thể phì đại, sản xuất progesterone không ổn định dẫn đến trễ kinh, đau hạ vị âm ỉ, rong huyết, thăm khám thấy khối phần phụ mềm. Triệu chứng giống thai ngoài tử cung nhưng β-hCG âm tính.
-- **Nguyên nhân**: Rối loạn feedback progesterone lên hạ đồi (có thể tạm thời hoặc kéo dài).
-- **Điều trị**: COC giữ cho trục hạ đồi-yên nghỉ ngơi.
+- **Nguyên nhân:** Rối loạn feedback progesterone lên hạ đồi (có thể tạm thời hoặc kéo dài).
+- **Điều trị:** COC giữ cho trục hạ đồi-yên nghỉ ngơi.
 
-**Hoàng thể xuất huyết**:
+**Hoàng thể xuất huyết:**
 
 - Khi hình thành hoàng thể, mạch máu xâm nhập lòng nang, xuất huyết thường tự cầm. Nếu xuất huyết không giới hạn, hoàng thể to > 3 cm.
 - Nếu vỡ nang, có thể chảy máu ổ bụng, cần phẫu thuật cầm máu. Nếu chỉ căng nang, gây đau, xử trí giảm đau và theo dõi.
 - Bệnh nhân không dùng COC, có kinh đều, đau cấp hạ vị ở pha hoàng thể. Một số hiếm chảy máu nhiều cần mổ.
-- **Nhóm nguy cơ**: Người dùng thuốc chống đông hoặc rối loạn đông máu.
+- **Nhóm nguy cơ:** Người dùng thuốc chống đông hoặc rối loạn đông máu.
 
 ## Nang hoàng tuyến
 

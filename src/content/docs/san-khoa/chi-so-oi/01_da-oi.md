@@ -76,14 +76,14 @@ Siêu âm hình thái, đo chiều dài cổ tử cung; Nghiệm pháp dung nạ
 
 ### Nhập viện
 
-**Chỉ định**:
+**Chỉ định:**
 
 - Biểu hiện quá tải dịch.
 - Dọa đẻ non.
 - Thai ≥ 39 tuần.
 - CTG nhóm II trở lên hoặc Doppler bất thường.
 
-**Hướng điều trị**:
+**Hướng điều trị:**
 
 - Điều trị nguyên nhân nếu xác định được.
 - **Giảm ối** thoát vị nếu có quá tải (khó thở, tim nhanh), tốc độ ≤ 1 L/20 phút.

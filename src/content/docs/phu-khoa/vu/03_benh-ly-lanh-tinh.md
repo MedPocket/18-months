@@ -9,8 +9,8 @@ Bệnh lý lành tính tuyến vú rất đa dạng, thường ít nguy hiểm n
 
 Các bệnh lý này được phân loại theo:
 
-1. **Đặc điểm lâm sàng**: Dựa vào triệu chứng, dấu hiệu khi thăm khám, chẩn đoán hình ảnh (hình thành khối, tiết dịch, đau, thay đổi da).
-2. **Mô học**: Dựa vào kết quả sinh thiết, phân loại tổn thương tế bào và mô đệm.
+1. **Đặc điểm lâm sàng:** Dựa vào triệu chứng, dấu hiệu khi thăm khám, chẩn đoán hình ảnh (hình thành khối, tiết dịch, đau, thay đổi da).
+2. **Mô học:** Dựa vào kết quả sinh thiết, phân loại tổn thương tế bào và mô đệm.
 
 _Bảng "Phân loại bệnh lý tuyến vú theo đặc điểm lâm sàng"_.
 
@@ -47,12 +47,12 @@ _Bảng "Phân loại bệnh lý tuyến vú theo đặc điểm lâm sàng"_.
 _Hình ảnh "(Trái, trên) Siêu âm bướu sợi-tuyến: Khối giảm âm, bờ đa cung, đồng nhất. (Trái, dưới) MRI bướu sợi-tuyến: giới hạn rõ, đồng nhất, có vùng thoái hóa. (Giữa) Nhũ ảnh MLO: khối có lớp mỡ mỏng bao quanh. (Phải) Hình ảnh đại thể bướu sợi-tuyến: vỏ bao rõ, mặt cắt phồng đồng nhất"_.
 ![Bướu sợi tuyến](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-soi-tuyen.png)
 
-**Siêu âm**:
+**Siêu âm:**
 
 - Khối giảm âm đồng nhất, bờ rõ, đôi khi có múi, thành trước dày, tăng âm phía sau (posterior acoustic enhancement).
 - Hình dạng: Hình tròn hoặc bầu dục, chiều dài lớn hơn chiều ngang (orientation "parallel" với da).
 
-**Nhũ ảnh**:
+**Nhũ ảnh:**
 
 - Khối hình tròn/bầu dục, bờ sắc nét, có thùy nhẹ, không xâm lấn mô xung quanh.
 - Thường bao quanh bởi vầng sáng mỏng (halo) do mô mỡ - đặc trưng cho khối lành tính.
@@ -60,10 +60,10 @@ _Hình ảnh "(Trái, trên) Siêu âm bướu sợi-tuyến: Khối giảm âm,
 
 #### Chẩn đoán phân biệt
 
-- **Ung thư vú**: Ung thư thường có đóng vôi vi thể (microcalcifications) tập trung ở trung tâm khối, bờ không đều, xâm lấn mô xung quanh.
-- **Nang vú**: Nang thường có phản âm trống (anechoic) trên siêu âm, bờ mỏng, bóng lưng rõ.
-- **FNA**: Chọc hút tế bào bằng kim nhỏ có thể giúp phân biệt khối đặc (bướu sợi-tuyến) và nang, nhưng không đáp ứng mô học.
-- **Core biopsy**: Cần thiết khi khối > 2 cm, có hình ảnh không điển hình hoặc nghi ngờ: giúp xác định chắc chắn mô học.
+- **Ung thư vú:** Ung thư thường có đóng vôi vi thể (microcalcifications) tập trung ở trung tâm khối, bờ không đều, xâm lấn mô xung quanh.
+- **Nang vú:** Nang thường có phản âm trống (anechoic) trên siêu âm, bờ mỏng, bóng lưng rõ.
+- **FNA:** Chọc hút tế bào bằng kim nhỏ có thể giúp phân biệt khối đặc (bướu sợi-tuyến) và nang, nhưng không đáp ứng mô học.
+- **Core biopsy:** Cần thiết khi khối > 2 cm, có hình ảnh không điển hình hoặc nghi ngờ: giúp xác định chắc chắn mô học.
 
 ### Điều trị
 
@@ -91,26 +91,26 @@ Bướu diệp thể (Phyllodes tumor) là khối u phát triển nhanh, xuất 
 _Hình ảnh "Bướu diệp thể: Khối lớn, rõ, có các vùng hóa nang và thùy. Nhũ ảnh cho thấy vôi hóa không đồng nhất, siêu âm thể hiện khe rãnh và hóa nang"_.
 ![Bướu diệp thể](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-diep-the.png)
 
-**Siêu âm**:
+**Siêu âm:**
 
 - Khối giảm âm, bờ rõ, có thể có các vùng hóa nang (cystic spaces) phân bố rải rác.
 - Gợi ý phẫu thuật ngay nếu khối lớn, tăng sinh mạch máu bất thường.
 
-**Nhũ ảnh**: Khối lớn, giới hạn rõ, có thể bầu dục, hình tròn hoặc chia thùy, thỉnh thoảng thấy vôi hóa (ít phổ biến hơn fibroadenoma).
+**Nhũ ảnh:** Khối lớn, giới hạn rõ, có thể bầu dục, hình tròn hoặc chia thùy, thỉnh thoảng thấy vôi hóa (ít phổ biến hơn fibroadenoma).
 
-**MRI**: Thần kinh hóa mô đệm rõ, khối đồng nhất hoặc có vùng thoái hóa, bắt thuốc mạnh - thường dùng trong khối nghi ngờ ác tính hoặc khối tái phát.
+**MRI:** Thần kinh hóa mô đệm rõ, khối đồng nhất hoặc có vùng thoái hóa, bắt thuốc mạnh - thường dùng trong khối nghi ngờ ác tính hoặc khối tái phát.
 
 #### Chẩn đoán phân biệt
 
-- **Fibroadenoma lớn, khối u xơ-nhân khác**: Khối không tăng nhanh hoặc không có vùng hóa nang rõ. FNA kém tin cậy do thành phần mô không đồng nhất.
-- **Core biopsy**: Cần thiết để phân biệt giữa lành, giáp biên và ác, dựa vào độ xâm lấn mô đệm, biệt hóa tế bào, tỷ lệ tế bào nhân lên.
+- **Fibroadenoma lớn, khối u xơ-nhân khác:** Khối không tăng nhanh hoặc không có vùng hóa nang rõ. FNA kém tin cậy do thành phần mô không đồng nhất.
+- **Core biopsy:** Cần thiết để phân biệt giữa lành, giáp biên và ác, dựa vào độ xâm lấn mô đệm, biệt hóa tế bào, tỷ lệ tế bào nhân lên.
 
 ### Điều trị
 
-- **Phẫu thuật cắt rộng**: Bướu benign cần mổ lấy rộng bờ ≥ 1 cm, bướu borderline/ ác tính cần cắt rộng càng nhiều càng tốt.
-- **Tái phát**: Liên quan trực tiếp đến bờ phẫu thuật. Khoảng 20% bướu diệp thể tái phát khi bờ phẫu thuật không đủ rộng.
-- **Mổ cắt đoạn hoặc cắt toàn bộ vú (mastectomy)**: Nếu khối quá lớn so với vú, không thể bảo tồn vú.
-- **Xạ trị hậu phẫu**: Đôi khi cân nhắc cho bướu borderline hoặc ác tính, nhất là khối tái phát hoặc bờ mổ dương tính.
+- **Phẫu thuật cắt rộng:** Bướu benign cần mổ lấy rộng bờ ≥ 1 cm, bướu borderline/ ác tính cần cắt rộng càng nhiều càng tốt.
+- **Tái phát:** Liên quan trực tiếp đến bờ phẫu thuật. Khoảng 20% bướu diệp thể tái phát khi bờ phẫu thuật không đủ rộng.
+- **Mổ cắt đoạn hoặc cắt toàn bộ vú (mastectomy):** Nếu khối quá lớn so với vú, không thể bảo tồn vú.
+- **Xạ trị hậu phẫu:** Đôi khi cân nhắc cho bướu borderline hoặc ác tính, nhất là khối tái phát hoặc bờ mổ dương tính.
 
 ## Bướu nhú trong ống dẫn sữa
 
@@ -129,21 +129,21 @@ Bướu nhú (Intraductal papilloma) là khối tăng sinh dạng nhú, xuất p
 _Hình ảnh "(Trái) Sơ đồ vị trí u nhú gây tiết dịch máu. (Phải) Chụp cản quang ống tuyến vú cho thấy hình ảnh u nhú trong ống"_.
 ![Bướu nhú](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-nhu.png)
 
-**Siêu âm**:
+**Siêu âm:**
 
 - Ba dạng hình ảnh: Trong ống tuyến (đường ống giãn có khối nội dịch), trong nang (khối trong khối nang), hoặc dạng đặc (khối ranh giới rõ).
 - Nếu khối quá nhỏ, chỉ thấy ống dẫn sữa giãn.
 
-**Nhũ ảnh**: Thường không thấy khối rõ ngoại trừ trường hợp kích thước lớn. Nếu có, khối nhỏ, bờ rõ, có thể có vôi hóa vi thể nhẹ.
+**Nhũ ảnh:** Thường không thấy khối rõ ngoại trừ trường hợp kích thước lớn. Nếu có, khối nhỏ, bờ rõ, có thể có vôi hóa vi thể nhẹ.
 
-**Chụp cản quang ống tuyến (Ductogram/ Galactogram)**: Bơm thuốc cản quang vào ống dẫn sữa, quan sát hình ảnh lấp đầy ống bằng khối nhú.
+**Chụp cản quang ống tuyến (Ductogram/ Galactogram):** Bơm thuốc cản quang vào ống dẫn sữa, quan sát hình ảnh lấp đầy ống bằng khối nhú.
 
 ### Điều trị
 
-- **Bệnh nhú đa ổ, carcinoma dạng nhú (Papillary carcinoma)**: Phân biệt bằng sinh thiết lõi hoặc sinh thiết mở.
-- **Chọc hút FNA**: ít giá trị, thường không phân biệt được với tổn thương sợi bọc hoặc carcinoma in situ.
-- **Sinh thiết định vị dưới siêu âm (Wire Localization Biopsy)**: Giúp xác định chính xác vị trí tổn thương trong ống, phẫu thuật lấy trọn khối thám bệnh.
-- **Sinh thiết mở**: Chỉ định khi khối nhú có triệu chứng tiết dịch máu, khối lớn, nghi ngờ dị sản hoặc carcinoma.
+- **Bệnh nhú đa ổ, carcinoma dạng nhú (Papillary carcinoma):** Phân biệt bằng sinh thiết lõi hoặc sinh thiết mở.
+- **Chọc hút FNA:** ít giá trị, thường không phân biệt được với tổn thương sợi bọc hoặc carcinoma in situ.
+- **Sinh thiết định vị dưới siêu âm (Wire Localization Biopsy):** Giúp xác định chính xác vị trí tổn thương trong ống, phẫu thuật lấy trọn khối thám bệnh.
+- **Sinh thiết mở:** Chỉ định khi khối nhú có triệu chứng tiết dịch máu, khối lớn, nghi ngờ dị sản hoặc carcinoma.
 
 ## Nang vú
 
@@ -163,12 +163,12 @@ Nang vú (Simple/Macrocystic cyst) là hình ảnh giãn dãn và thoái triển
 _Hình ảnh "Nang vú trên siêu âm: (Trái) nang điển hình: phản âm trống, bóng lưng rõ; (Phải) nang không điển hình: vách dày, cặn lắng"_.
 ![Nang vú](./_images/benh-ly-tuyen-vu-lanh-tinh/nang-vu.png)
 
-**Siêu âm**:
+**Siêu âm:**
 
-- **Nang điển hình**: Khối dạng tròn/bầu dục, bờ mỏng, phản âm trống (anechoic), bóng lưng (posterior acoustic enhancement), không có thành dày hay chồi nội dịch.
+- **Nang điển hình:** Khối dạng tròn/bầu dục, bờ mỏng, phản âm trống (anechoic), bóng lưng (posterior acoustic enhancement), không có thành dày hay chồi nội dịch.
 - **Nang không điển hình** (complicated cyst): Có vách dày, cặn lắng bờ dưới, không hoàn toàn bóng lưng. Cần chọc hút hoặc theo dõi chặt.
 
-**Nhũ ảnh**:
+**Nhũ ảnh:**
 
 - Nang xuất hiện dưới dạng vùng đậm độ thấp (hypodense), giới hạn rõ, không vôi hóa.
 - Đôi khi không phân biệt rõ nang đặc - đặc biệt nang nhỏ < 5 mm.
@@ -176,7 +176,7 @@ _Hình ảnh "Nang vú trên siêu âm: (Trái) nang điển hình: phản âm t
 ### Điều trị
 
 - Nếu nang điển hình, không triệu chứng: Theo dõi định kỳ 6-12 tuần.
-- **Chọc hút FNA**: Nếu dịch trong, màu vàng; Nang xẹp hoàn toàn sau hút; Không cần tái khám sớm. Nếu dịch màu sắc bất thường (máu, cặn), hoặc nang không xẹp hoàn toàn: Chỉ định sinh thiết định vị hoặc sinh thiết mở.
+- **Chọc hút FNA:** Nếu dịch trong, màu vàng; Nang xẹp hoàn toàn sau hút; Không cần tái khám sớm. Nếu dịch màu sắc bất thường (máu, cặn), hoặc nang không xẹp hoàn toàn: Chỉ định sinh thiết định vị hoặc sinh thiết mở.
 - Nang tái phát nhiều lần hoặc nang lớn gây đau: Có thể cân nhắc phẫu thuật cắt nang.
 
 ## Bệnh Hamartoma (Fibroadenolipoma)
@@ -196,12 +196,12 @@ Hamartoma là khối tổ chức lành tính, gồm các thành phần bình th�
 _Hình ảnh "Nhũ ảnh Hamartoma vú: Hình ảnh "vú trong vú", vỏ bao mỏng bao quanh tổ hợp mô thấu quang - cản quang"_.
 ![Nhũ ảnh của Hamartoma vú, phim LMO vú phải và phim CC](./_images/benh-ly-tuyen-vu-lanh-tinh/benh-hamartoma.png)
 
-**Siêu âm**:
+**Siêu âm:**
 
 - Khối đồng nhất, hỗn hợp âm (mixed echogenicity) do thành phần mỡ và mô đặc xen kẽ.
 - Bờ rõ, đôi khi có vòng sáng mỏng (halo) do mô mỡ tràn xung quanh.
 
-**Nhũ ảnh**:
+**Nhũ ảnh:**
 
 - Hình ảnh "vú trong vú" (breast within breast): Khối tròn/bầu dục, biên rõ, có vùng mỡ thấu quang xen lẫn vùng cản quang (tổ hợp mô đặc - mỡ).
 - Có vỏ bao mỏng, phân biệt rõ với mô xung quanh.
@@ -236,7 +236,7 @@ Bệnh Mondor (Mondor’s disease) là tình trạng viêm tắc tĩnh mạch n�
 
 #### Cận lâm sàng
 
-- **Siêu âm Doppler**: Tĩnh mạch nông dày lên, không có lưu thông (no flow) hoặc giảm tín hiệu Doppler, biểu hiện tụ huyết nội mạch (echogenic clot).
+- **Siêu âm Doppler:** Tĩnh mạch nông dày lên, không có lưu thông (no flow) hoặc giảm tín hiệu Doppler, biểu hiện tụ huyết nội mạch (echogenic clot).
 
 ### Điều trị
 
@@ -260,9 +260,9 @@ U mỡ (Lipoma) là khối u lành tính thường gặp nhất ở mô mỡ, ba
 
 #### Cận lâm sàng
 
-- **Siêu âm**: Khối giảm âm đồng nhất, bóng lưng nhẹ, bờ rõ, cấu trúc âm học giống mô mỡ xung quanh.
-- **Nhũ ảnh**: Đậm độ thấp, giống mô mỡ, bờ mờ nhẹ hoặc rõ; Nếu khối lớn, có thể thấy vùng thấu quang.
-- **MRI**: Khối có tính chất tín hiệu giống mỡ, căng tín hiệu trên T1, giảm tín hiệu trên STIR/ fat-sat, không bắt thuốc tương phản.
+- **Siêu âm:** Khối giảm âm đồng nhất, bóng lưng nhẹ, bờ rõ, cấu trúc âm học giống mô mỡ xung quanh.
+- **Nhũ ảnh:** Đậm độ thấp, giống mô mỡ, bờ mờ nhẹ hoặc rõ; Nếu khối lớn, có thể thấy vùng thấu quang.
+- **MRI:** Khối có tính chất tín hiệu giống mỡ, căng tín hiệu trên T1, giảm tín hiệu trên STIR/ fat-sat, không bắt thuốc tương phản.
 
 #### Chẩn đoán phân biệt
 
@@ -276,8 +276,8 @@ U mỡ (Lipoma) là khối u lành tính thường gặp nhất ở mô mỡ, ba
 
 ## Tuyến vú phụ (Polythelia & Polymastia)
 
-- **Tuyến vú phụ (Polymastia)**: Xuất hiện mô tuyến vú ngoài vị trí vú chính, thường dọc theo "đường sữa" (milk line) từ nách đến háng.
-- **Núm vú phụ (Polythelia)**: Núm vú hoặc các nhú vú phụ không kèm nhu mô đầy đủ.
+- **Tuyến vú phụ (Polymastia):** Xuất hiện mô tuyến vú ngoài vị trí vú chính, thường dọc theo "đường sữa" (milk line) từ nách đến háng.
+- **Núm vú phụ (Polythelia):** Núm vú hoặc các nhú vú phụ không kèm nhu mô đầy đủ.
 
 ### Chẩn đoán
 
@@ -307,29 +307,29 @@ Khoảng 50-60% phụ nữ có thay đổi mô học, khoảng 30-50% có triệ
 - Sờ thấy nhiều mô cục, hạt nhỏ (lumpiness), đặc biệt ở 1/4 trên ngoài.
 - Tiết dịch núm vú (hiếm), thường là dịch trong suốt lệch pha.
 
-**Sclerosing adenosis (xơ hóa tuyến)**:
+**Sclerosing adenosis (xơ hóa tuyến):**
 
 - Tăng sinh acini và mô đệm xơ hóa, đôi khi làm tổn thương giống u đặc (mass) trên hình ảnh.
 - Đôi khi kèm vi xâm (microinvasion) không rõ, cần sinh thiết để loại trừ carcinoma in situ.
 
-**Complex sclerosing lesion/Radial scar (sẹo hình sao)**:
+**Complex sclerosing lesion/Radial scar (sẹo hình sao):**
 
 - Kết cấu gồm mô xơ hình sao, xoay quanh một vùng trung tâm có nang hoặc acini giãn.
 - Trên nhũ ảnh có thể tạo bóng xơ (spiculated mass) giả u ác tính, cần sinh thiết để phân biệt.
 
-**Fibrocystic changes tổng quát**:
+**Fibrocystic changes tổng quát:**
 
 - Nang đa, xơ hóa mô đệm, tăng sản biểu mô không điển hình (atypical hyperplasia).
 - Thay đổi thường phân bố rải rác khắp vú, không thành khối lớn.
 
 #### Cận lâm sàng
 
-**Siêu âm**:
+**Siêu âm:**
 
 - Nhiều nang nhỏ, cấu trúc hỗn hợp âm do nang và mô đặc xen kẽ.
 - Khu vực xơ hóa có thể giảm âm không đồng nhất, bờ không rõ bước.
 
-**Nhũ ảnh**:
+**Nhũ ảnh:**
 
 - Vú đậm đặc, mô xơ tăng sinh, có thể thấy vi xơ (microcalcifications) dạng "chuỗi" hoặc "hạt" rải rác.
 - Radial scar biểu hiện dưới dạng bóng xơ có tia kéo (spiculated).

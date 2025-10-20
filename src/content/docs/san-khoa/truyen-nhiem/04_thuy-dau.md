@@ -7,22 +7,22 @@ description: Chẩn đoán, điều trị, phòng lẫy nhiễm thủy đậu tr
 
 ## Dịch tễ
 
-**Bệnh xảy ra quanh năm, tăng cao vào mùa xuân - đầu hè (tháng 2-6)**. Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; Dễ thành dịch nhỏ nếu không cách ly kịp thời.
+**Bệnh xảy ra quanh năm, tăng cao vào mùa xuân - đầu hè (tháng 2-6).** Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; Dễ thành dịch nhỏ nếu không cách ly kịp thời.
 
-Nguồn lây duy nhất là người mắc thủy đậu và người bị zona. **Đường truyền**:
+Nguồn lây duy nhất là người mắc thủy đậu và người bị zona. **Đường truyền:**
 
 - Qua giọt bắn đường hô hấp khi ho, hắt hơi, nói chuyện.
 - Tiếp xúc trực tiếp với dịch mụn nước rồi chạm vào mắt, miệng, mũi hoặc da.
 - Hiếm gặp: Gián tiếp qua vật dụng nhiễm dịch mụn nước (quần áo, khăn, ga giường...) nếu có dịch dính.
 
-**Thời gian lây**: Bắt đầu từ 1-2 ngày trước khi nổi ban/mụn nước, kéo dài đến khi tất cả mụn nước khô vảy hoàn toàn (khoảng 5-7 ngày sau phát ban).
+**Thời gian lây:** Bắt đầu từ 1-2 ngày trước khi nổi ban/mụn nước, kéo dài đến khi tất cả mụn nước khô vảy hoàn toàn (khoảng 5-7 ngày sau phát ban).
 
 ## Chẩn đoán
 
 :::note[Tiêu chuẩn chẩn đoán thủy đậu]
 Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch tễ học. Khi cần - đặc biệt ở người lớn, suy giảm miễn dịch hoặc nghi biến chứng - làm xét nghiệm bổ sung.
 
-**Lâm sàng**:
+**Lâm sàng:**
 
 - Khởi phát với sốt nhẹ hoặc vừa (37.5-39 °C), đau đầu, mệt mỏi, chán ăn.
 - Phát ban mụn nước mọc từng đợt không đồng đều: Có cả mụn mới và mụn đã đóng vảy cùng lúc.
@@ -30,13 +30,13 @@ Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch 
 - Mụn nước tròn, đường kính 2-5 mm, có thể ngứa; Vài ngày sau vỡ → đóng vảy → lành không để sẹo (trừ khi bội nhiễm).
 - Diễn tiến tự giới hạn, thường 7-10 ngày.
 
-**Yếu tố dịch tễ**:
+**Yếu tố dịch tễ:**
 
 - Tiếp xúc với người mắc thủy đậu trong vòng 10-21 ngày.
 - Dịch thủy đậu đang lưu hành trong cộng đồng.
 - Chưa tiêm vaccine hoặc chưa mắc bệnh trước đó.
 
-**Cận lâm sàng (nếu cần)**:
+**Cận lâm sàng (nếu cần):**
 
 - PCR: Phát hiện DNA VZV (độ nhạy cao).
 - Huyết thanh học: IgM (nhiễm cấp), IgG (tiền sử hoặc sau tiêm vaccine).
@@ -58,7 +58,7 @@ Nhiễm thủy đậu có thể gây **hội chứng thủy đậu bẩm sinh** 
 
 ### Giai đoạn giữa và cuối (tuần 13-40)
 
-- **Viêm phổi do thủy đậu ở mẹ**: Biến chứng nguy hiểm, có thể tử vong.
+- **Viêm phổi do thủy đậu ở mẹ:** Biến chứng nguy hiểm, có thể tử vong.
 - Nếu mẹ nhiễm gần ngày sinh, thai nhi có thể lây VZV và phát bệnh ngay sau sinh, thường nặng và cần điều trị tích cực.
 
 ## Điều trị
@@ -67,20 +67,20 @@ Nhiễm thủy đậu có thể gây **hội chứng thủy đậu bẩm sinh** 
 
 ### Hỗ trợ
 
-**Paracetamol**: 500-1000 mg mỗi 4-6 giờ (tối đa 4000 mg/ngày).
+**Paracetamol:** 500-1000 mg mỗi 4-6 giờ (tối đa 4000 mg/ngày).
 
 **Thuốc kháng histamin** (giảm ngứa):
 
 - Diphenhydramine 25-50 mg mỗi 4-6 giờ (tối đa 300 mg/ngày).
 - Loratadine 10 mg/ngày.
 
-**Chăm sóc da**: Tắm nước mát, kem bôi làm dịu, giữ da sạch, dưỡng ẩm.
+**Chăm sóc da:** Tắm nước mát, kem bôi làm dịu, giữ da sạch, dưỡng ẩm.
 
-**Nghỉ ngơi và dinh dưỡng**: Uống đủ nước, bổ sung dinh dưỡng (vitamin C, sắt, canxi, folate).
+**Nghỉ ngơi và dinh dưỡng:** Uống đủ nước, bổ sung dinh dưỡng (vitamin C, sắt, canxi, folate).
 
 ### Thuốc kháng virus
 
-- **Acyclovir uống 800 mg mỗi 4 giờ x 5 lần/ngày, 7-10 ngày**.
+- **Acyclovir uống 800 mg mỗi 4 giờ x 5 lần/ngày, 7-10 ngày.**
 - **Trường hợp nặng hoặc viêm phổi**, tiêm TM Acyclovir 10 mg/kg mỗi 8 giờ, 7-10 ngày.
 - Điều chỉnh liều ở bệnh nhân suy thận hoặc có yếu tố nguy cơ.
 
@@ -88,7 +88,7 @@ Nhiễm thủy đậu có thể gây **hội chứng thủy đậu bẩm sinh** 
 
 - Cách ly người bệnh cho đến khi mụn nước khô vảy hoàn toàn.
 - Vệ sinh cá nhân và môi trường (khử khuẩn bề mặt, giặt giũ đồ dùng).
-- Tiêm vaccine thủy đậu sống giảm độc lực (hiệu quả 85-95%) **trước khi mang thai ít nhất 1 tháng**.
+- Tiêm vaccine thủy đậu sống giảm độc lực (hiệu quả 85-95%) **trước khi mang thai ít nhất 1 tháng.**
 - Phụ nữ mang thai không tiêm vaccine sống.
 - Nếu mẹ tiếp xúc VZV và chưa có miễn dịch, có thể tiêm immunoglobulin đặc hiệu (_Varicella-Zoster_ IG) 125-250 đơn vị tĩnh mạch/liều, tùy nguy cơ.
 

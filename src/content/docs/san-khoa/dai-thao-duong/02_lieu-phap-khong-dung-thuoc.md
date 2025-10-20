@@ -16,7 +16,7 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 
 Đối với mọi thai phụ, nhất là nhóm nguy cơ cao (≥ 35 tuổi, tiền sử con ≥ 4 kg, BMI ≥ 23 kg/m²...).
 
-**Chế độ ăn tiết chế**:
+**Chế độ ăn tiết chế:**
 
 - Glucid chiếm 55-60% tổng năng lượng, ưu tiên ngũ cốc nguyên hạt, gạo lứt.
 - Ăn ≥ 400 g rau củ/ngày, 15-20 loại thực phẩm khác nhau.
@@ -25,7 +25,7 @@ Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận �
 - Tăng cường protein nạc: Thịt nạc, cá, đậu phụ, sữa chua ít béo.
 - Hạn chế muối (< 5 g/ngày; Ưu tiên muối iốt), rượu bia, thuốc lá.
 
-**Kiểm soát tăng cân**:
+**Kiểm soát tăng cân:**
 
 _Bảng "BMI trước khi mang thai"_.
 
@@ -36,7 +36,7 @@ _Bảng "BMI trước khi mang thai"_.
 | **Thừa cân (BMI 23.0-24.9 kg/m²)**                  | 7-11.5        | 0.28 (0.23-0.33)                                                                                |
 | **Béo phì (BMI > 24.9 kg/m²)**                      | 5-9           | 0.22 (0.17-0.27)                                                                                |
 
-**Hoạt động thể chất**:
+**Hoạt động thể chất:**
 
 - Ít nhất 150 phút/tuần (đi bộ, yoga, bơi nhẹ...).
 - Chia nhỏ thời gian (ví dụ 30 phút/ngày).
@@ -50,7 +50,7 @@ _Bảng "BMI trước khi mang thai"_.
 - Bình thường: 30-35 kcal/kg/ngày.
 - Thừa cân/béo phì: 20-30 kcal/kg/ngày (không < 1600 kcal/ngày).
 
-**Glucid, protein và lipid**:
+**Glucid, protein và lipid:**
 
 _Bảng "Phân bố glucid, protein và lipid"_.
 
@@ -60,13 +60,13 @@ _Bảng "Phân bố glucid, protein và lipid"_.
 | **Protein**                      | 20-25%           | ≥ 1.1 g/kg/ngày; Động - thực vật ≥ 35% động vật           |
 | **Lipid**                        | 30-35%           | ≤ 60% mỡ động vật; Tăng dầu thực vật, cá béo (omega-3)    |
 
-**Chất xơ và vi chất**:
+**Chất xơ và vi chất:**
 
 - Chất xơ ≥ 28 g/ngày (rau củ quả ≥ 400 g/ngày).
 - Canxi, sắt, acid folic, vitamin D... theo khuyến nghị.
 - Sữa/chế phẩm ít béo: 3-6 đơn vị IU/ngày tuỳ tam cá nguyệt.
 
-**Phân bố bữa ăn mẫu**:
+**Phân bố bữa ăn mẫu:**
 
 _Bảng "Phân bố bữa ăn"_.
 
@@ -79,7 +79,7 @@ _Bảng "Phân bố bữa ăn"_.
 | **Bữa tối**    | 20                        | 25                        |
 | **Phụ tối**    | 10                        | 10                        |
 
-**Hoạt động thể chất**:
+**Hoạt động thể chất:**
 
 - Loại hình: Đi bộ, yoga, bơi, tập cơ bản sau ăn.
 - Cường độ: Trung bình, không gây mệt quá sức; Giám sát y tế nếu có biến chứng (nhau tiền đạo, dọa sinh non).
@@ -87,7 +87,7 @@ _Bảng "Phân bố bữa ăn"_.
 
 ## Theo dõi
 
-**Ghi sổ**: Kết quả đường huyết mao mạch (lúc đói, 1 giờ sau ăn).
+**Ghi sổ:** Kết quả đường huyết mao mạch (lúc đói, 1 giờ sau ăn).
 
 **Đánh giá sau 1-2 tuần** MNT:
 

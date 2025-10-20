@@ -9,28 +9,28 @@ Các phương pháp phổ biến gồm vòng tránh thai chứa đồng (Copper 
 
 ### Đặc điểm
 
-**Tính hiệu quả (Pearl Index)**: Perfect 0.6; Typical 0.8.
+**Tính hiệu quả (Pearl Index):** Perfect 0.6; Typical 0.8.
 
-**Tính an toàn**:
+**Tính an toàn:**
 
 - An toàn với hầu hết phụ nữ.
 - Nguy cơ viêm nhiễm tăng nhẹ trong 1-3 tháng đầu.
 
-**Tính kinh tế**:
+**Tính kinh tế:**
 
 - Chi phí ban đầu trung bình.
 - Sử dụng lâu dài (5-10 năm) → rất kinh tế.
 
-**Cơ chế tác dụng**: Ion đồng gây độc với tinh trùng, ngăn thụ tinh.
+**Cơ chế tác dụng:** Ion đồng gây độc với tinh trùng, ngăn thụ tinh.
 
 ### Chỉ định - Chống chỉ định
 
-**Chỉ định**:
+**Chỉ định:**
 
 - Mong muốn tránh thai lâu dài, không cần chăm sóc thường xuyên.
 - Phụ nữ đã sinh con hoặc chưa sinh (tùy loại vòng).
 
-**Chống chỉ định tuyệt đối**:
+**Chống chỉ định tuyệt đối:**
 
 - Nhiễm khuẩn đường sinh dục trên.
 - Nghi ngờ hoặc đang có thai.
@@ -38,7 +38,7 @@ Các phương pháp phổ biến gồm vòng tránh thai chứa đồng (Copper 
 - Rong kinh rong huyết chưa rõ nguyên nhân.
 - Sa sinh dục.
 
-**Chống chỉ định tương đối**:
+**Chống chỉ định tương đối:**
 
 - Tiền sử chửa ngoài tử cung.
 - Bất thường tử cung (u xơ, vách ngăn).
@@ -47,12 +47,12 @@ Các phương pháp phổ biến gồm vòng tránh thai chứa đồng (Copper 
 
 ### Ưu - Nhược điểm
 
-**Ưu điểm**:
+**Ưu điểm:**
 
 - Không cần tuân thủ hằng ngày.
 - Hiệu quả rất cao, phục hồi sinh sản nhanh sau tháo.
 
-**Nhược điểm**:
+**Nhược điểm:**
 
 - Đặt - tháo cần bác sĩ chuyên khoa.
 - Có thể đau, ra máu nhẹ vài ngày đầu.
@@ -75,16 +75,16 @@ Sau đặt:
 
 ### Đặc điểm
 
-**Tính hiệu quả (Pearl Index)**: Perfect 0.1-0.3; Typical 7.
+**Tính hiệu quả (Pearl Index):** Perfect 0.1-0.3; Typical 7.
 
-**Tính an toàn**:
+**Tính an toàn:**
 
 - Rất an toàn ở phụ nữ không có chống chỉ định nội tiết.
 - Có thể tăng nhẹ nguy cơ huyết khối tĩnh mạch ở người có yếu tố nguy cơ.
 
-**Tính kinh tế**: Chi phí trung bình, dễ tiếp cận.
+**Tính kinh tế:** Chi phí trung bình, dễ tiếp cận.
 
-**Cơ chế tác dụng**:
+**Cơ chế tác dụng:**
 
 - Ức chế rụng trứng.
 - Làm đặc chất nhầy cổ tử cung, ngăn tinh trùng.
@@ -92,19 +92,19 @@ Sau đặt:
 
 ### Chỉ định - Chống chỉ định
 
-**Chỉ định**:
+**Chỉ định:**
 
 - Mong muốn tránh thai dài hạn.
 - Cần khả năng phục hồi sinh sản ngay khi tháo.
 - Phụ nữ có chu kỳ kinh đều, muốn kiểm soát kinh nguyệt.
 
-**Chống chỉ định tuyệt đối**:
+**Chống chỉ định tuyệt đối:**
 
 - Có thai.
 - Đang cho con bú dưới 6 tuần sau sinh (nếu dùng viên phối hợp estrogen-progestin dạng uống).
 - Ung thư vú đang điều trị hoặc nghi ngờ.
 
-**Chống chỉ định tương đối**:
+**Chống chỉ định tương đối:**
 
 - Tiền sử huyết khối tĩnh mạch, đột quỵ, nhồi máu cơ tim.
 - Lupus ban đỏ hệ thống có kháng thể kháng phospholipid.
@@ -113,13 +113,13 @@ Sau đặt:
 
 ### Ưu - Nhược điểm
 
-**Ưu điểm**:
+**Ưu điểm:**
 
 - Hiệu quả cao khi tuân thủ.
 - Đặt một lần, có thể tháo bất cứ lúc nào.
 - Giúp điều hòa kinh nguyệt, giảm đau bụng kinh.
 
-**Nhược điểm**:
+**Nhược điểm:**
 
 - Đặt/tháo phải do bác sĩ thực hiện.
 - Một số tác dụng phụ: buồn nôn, đau đầu, tăng cân, thay đổi tâm trạng.

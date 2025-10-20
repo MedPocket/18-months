@@ -62,12 +62,12 @@ Tư vấn tình trạng thai. **Truyền ối** khi có chỉ định:
 
 ### 3 tháng cuối
 
-Tư vấn tình trạng thai. **Chấm dứt thai kỳ**:
+Tư vấn tình trạng thai. **Chấm dứt thai kỳ:**
 
 - SDP ≤ 1 cm: ≥ 34 tuần mổ lấy thai. < 34 tuần điều trị chờ chuyển dạ.
 - 1 ≤ SDP ≤ 2 cm: Thai ≥ 37 tuần sinh thường hoặc mổ lấy thai.
 
-**Liệu pháp corticosteroids**:
+**Liệu pháp corticosteroids:**
 
 - Thường quy từ 28 tuần đến 33 tuần 6 ngày.
 - Cân nhắc với trường hợp 24-27 tuần 6 ngày.

@@ -11,9 +11,9 @@ Cổ tử cung có thể tổn thương ở nhiều mức độ khác nhau, từ
 
 Theo mô học, tổn thương tân sinh trong biểu mô cổ tử cung (CIN) được chia thành ba mức:
 
-- **CIN 1**: Tế bào bất thường giới hạn 1/3 dưới biểu mô lát.
-- **CIN 2**: Tế bào bất thường lan tới 2/3 độ dày biểu mô lát.
-- **CIN 3**: Toàn bộ độ dày biểu mô lát bị thay thế bởi tế bào bất thường.
+- **CIN 1:** Tế bào bất thường giới hạn 1/3 dưới biểu mô lát.
+- **CIN 2:** Tế bào bất thường lan tới 2/3 độ dày biểu mô lát.
+- **CIN 3:** Toàn bộ độ dày biểu mô lát bị thay thế bởi tế bào bất thường.
 
 Dựa trên mức độ tế bào bề mặt, phân loại tế bào học cũng tách thành:
 
@@ -30,10 +30,10 @@ _Hình ảnh "Phân chia cổ điển: CIN theo mô học, tế bào học quan 
 
 Hiện nay, biết rằng CIN không nhất thiết phải trải qua tuần tự từ thấp lên cao; Một số CIN 2-3 xuất hiện "nhảy bậc" mà không qua CIN 1. Yếu tố then chốt bao gồm:
 
-- **Genotype HPV**: HPV type 16 chịu trách nhiệm khoảng 55-60% ca ung thư cổ tử cung, type 18 chiếm 10-15%. Có khoảng 12 type HPV nguy cơ cao khác.
-- **Khả năng thanh thải HPV**: Đa số nhiễm HPV ở phụ nữ trẻ (≤ 21 tuổi) tự khỏi trong 8-24 tháng do đáp ứng miễn dịch.
-- **Tích hợp gene HPV**: Khi virus tích hợp vào genome tế bào—đặc biệt ở CIN 2-3—nguy cơ tiến triển cao hơn.
-- **Yếu tố thuận lợi**: Hút thuốc, suy giảm miễn dịch, nhiễm HIV làm giảm khả năng thanh thải HPV.
+- **Genotype HPV:** HPV type 16 chịu trách nhiệm khoảng 55-60% ca ung thư cổ tử cung, type 18 chiếm 10-15%. Có khoảng 12 type HPV nguy cơ cao khác.
+- **Khả năng thanh thải HPV:** Đa số nhiễm HPV ở phụ nữ trẻ (≤ 21 tuổi) tự khỏi trong 8-24 tháng do đáp ứng miễn dịch.
+- **Tích hợp gene HPV:** Khi virus tích hợp vào genome tế bào—đặc biệt ở CIN 2-3—nguy cơ tiến triển cao hơn.
+- **Yếu tố thuận lợi:** Hút thuốc, suy giảm miễn dịch, nhiễm HIV làm giảm khả năng thanh thải HPV.
 
 Hầu hết nhiễm HPV cấp (CIN 1) thoái triển; Khoảng 10% CIN 1 tiến triển lên CIN 2-3 sau 2 năm. CIN 3 hiếm khi thoái triển, có khoảng 30% nguy cơ thành ung thư xâm lấn sau 30 năm.
 
@@ -55,7 +55,7 @@ _Hình ảnh "Các trường hợp nhiễm HPV có thể thoái triển hoặc t
 
 ### Quá trình
 
-- **Chuyển sản lát**: Biểu mô trụ lộ tuyến (lộ tuyến) bị thay thế bởi biểu mô lát tầng không sừng hóa.
+- **Chuyển sản lát:** Biểu mô trụ lộ tuyến (lộ tuyến) bị thay thế bởi biểu mô lát tầng không sừng hóa.
 - **Dị sản** (dysplasia): Khi tế bào chuyển sản bị tổn thương bởi HPV, hóa chất, tia xạ..., dẫn đến CIN.
 - HPV thể hiện chức năng sinh ung qua hai protein E6 (bất hoạt p53, ngăn apoptosis) và E7 (bất hoạt pRb, kích hoạt E2F → tăng sinh không kiểm soát).
 - Dị sản còn phụ thuộc vào đáp ứng miễn dịch: Khoảng 80% có thể tự cải thiện, nhưng 10% tiến triển thành ung thư.
@@ -72,7 +72,7 @@ _Hình ảnh "Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như k
 
 #### Đặc điểm
 
-**ASC-US (Atypical Squamous Cells of Undetermined Significance)**: Tế bào vảy có nhân to, đôi khi nhân đôi, không đủ tiêu chuẩn HSIL hay LSIL. Phần lớn do phản ứng viêm, ít khi tiến triển: Nguy cơ HSIL 7%, ung thư xâm lấn 0.25%. Sau 24 tháng:
+**ASC-US (Atypical Squamous Cells of Undetermined Significance):** Tế bào vảy có nhân to, đôi khi nhân đôi, không đủ tiêu chuẩn HSIL hay LSIL. Phần lớn do phản ứng viêm, ít khi tiến triển: Nguy cơ HSIL 7%, ung thư xâm lấn 0.25%. Sau 24 tháng:
 
 - 65% thoái lui về bình thường.
 - 7% tiến triển HSIL.
@@ -82,16 +82,16 @@ _Hình ảnh "Sinh học tế bào CIN 1 thoái triển dễ, CIN 3 gần như k
 
 Làm **HPV testing** để phân tầng nguy cơ:
 
-- Nếu **HPV (-)**: Thực hiện co-testing sau 3 năm.
-- Nếu **HPV (+)**: Soi cổ tử cung ngay hoặc lặp lại Pap’s test sau 1 năm.
+- Nếu **HPV (-):** Thực hiện co-testing sau 3 năm.
+- Nếu **HPV (+):** Soi cổ tử cung ngay hoặc lặp lại Pap’s test sau 1 năm.
 
-**Phụ nữ < 24 tuổi**: Do nguy cơ thấp, có thể theo dõi Pap’s test lại sau 1 năm:
+**Phụ nữ < 24 tuổi:** Do nguy cơ thấp, có thể theo dõi Pap’s test lại sau 1 năm:
 
 - Nếu kết quả ≥ ASC-H hoặc HSIL → soi cổ tử cung.
 - Nếu bình thường → lặp lại Pap’s test sau 1 năm, nếu vẫn bình thường → tầm soát định kỳ.
 - Có thể làm HPV ngay, nếu HPV (-) → tầm soát định kỳ; Nếu HPV (+) → theo dõi như trên.
 
-**Phụ nữ có thai**: Không nạo kênh cổ tử cung, có thể hoãn soi đến 6 tuần sau sinh.
+**Phụ nữ có thai:** Không nạo kênh cổ tử cung, có thể hoãn soi đến 6 tuần sau sinh.
 
 _Hình ảnh "Quản lý ASC-US - Hướng dẫn của ASCCP 2012"_.
 ![Quản lý ASC-US - Hướng dẫn của ASCCP 2012](./_images/tan-sinh-bieu-mo-co-tu-cung/asccp-2012-quan-ly-asc-us.png)
@@ -113,11 +113,11 @@ _Hình ảnh "Quản lý ASC-US - Bệnh viện Từ Dũ"_.
 
 Soi cổ tử cung và sinh thiết theo tổn thương qua soi. Nếu **HPV (-)** sau co-testing → co-testing lại sau 1 năm.
 
-**Phụ nữ 21-24 tuổi**: Do tỷ lệ thoái triển cao, lặp lại Pap’s test sau 12 và 24 tháng.
+**Phụ nữ 21-24 tuổi:** Do tỷ lệ thoái triển cao, lặp lại Pap’s test sau 12 và 24 tháng.
 
-**Phụ nữ ≤ 20 tuổi**: Theo dõi giống 21-24 tuổi.
+**Phụ nữ ≤ 20 tuổi:** Theo dõi giống 21-24 tuổi.
 
-**Phụ nữ có thai**: Như người không có thai, không nạo kênh cổ tử cung và hoãn soi đến 6 tuần sau sinh.
+**Phụ nữ có thai:** Như người không có thai, không nạo kênh cổ tử cung và hoãn soi đến 6 tuần sau sinh.
 
 **Phụ nữ mãn kinh** chọn một trong các cách làm HPV hoặc lặp lại Pap’s test sau 6 và 12 tháng, hoặc soi ngay:
 
@@ -135,7 +135,7 @@ _Hình ảnh "Quản lý LSIL - Bệnh viện Từ Dũ"_.
 
 #### Đặc điểm
 
-**HSIL**: Dị sản vừa-nặng (CIN 2-3, carcinoma in situ). **CIN 2**: Tế bào bất thường lan tới 2/3 dày biểu mô, nhân chiếm ½ kích thước tế bào, tỷ lệ nhân:bào tương giảm. **CIN 3**: Tế bào bất thường thay thế toàn bộ dày biểu mô, nhân lớn so với bào tương. Sau 24 tháng:
+**HSIL:** Dị sản vừa-nặng (CIN 2-3, carcinoma in situ). **CIN 2:** Tế bào bất thường lan tới 2/3 dày biểu mô, nhân chiếm ½ kích thước tế bào, tỷ lệ nhân:bào tương giảm. **CIN 3:** Tế bào bất thường thay thế toàn bộ dày biểu mô, nhân lớn so với bào tương. Sau 24 tháng:
 
 - 35% thoái lui về bình thường.
 - 23% tiếp tục HSIL.
@@ -173,7 +173,7 @@ _Hình ảnh "Quản lý ASC-H - Bệnh viện Từ Dũ"_.
 
 #### Đặc điểm
 
-**AGC (Atypical Glandular Cells)**: Tế bào tuyến không điển hình. **AGUS (Atypical Glandular Cells of Undetermined Significance)**: Tương tự AGC nhưng ý nghĩa chưa rõ.
+**AGC (Atypical Glandular Cells):** Tế bào tuyến không điển hình. **AGUS (Atypical Glandular Cells of Undetermined Significance):** Tương tự AGC nhưng ý nghĩa chưa rõ.
 
 #### Quản lý
 
@@ -237,7 +237,7 @@ _Hình ảnh "Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có t
 
 ## Điều trị
 
-**Hủy mô bằng áp lạnh (Cryotherapy)**:
+**Hủy mô bằng áp lạnh (Cryotherapy):**
 
 - Sử dụng nitrogen hoặc CO₂ lỏng làm lạnh mô bất thường.
 - Đơn giản, ít đau, thực hiện ngoại trú.
@@ -246,19 +246,19 @@ _Hình ảnh "Quản lý nghi ngờ ung thư cổ tử cung ở phụ nữ có t
 _Hình ảnh "Áp lạnh cổ tử cung: Đầu áp nối với nitrogen lỏng hoặc CO₂ lỏng"_.
 ![Áp lạnh cổ tử cung](./_images/tan-sinh-bieu-mo-co-tu-cung/ap-lanh-co-tu-cung.png)
 
-**Hủy mô bằng đốt laser (Laser Vaporization)**:
+**Hủy mô bằng đốt laser (Laser Vaporization):**
 
 - Sử dụng chùm tia laser để phá hủy tế bào.
 - Chính xác về độ sâu và biên giới tổn thương, có thể xử lý đồng thời nhiều ổ.
 - Chi phí cao, có thể chảy máu, gây khó chịu hơn.
 
-**Nạo kênh cổ tử cung (Endocervical Curettage)**:
+**Nạo kênh cổ tử cung (Endocervical Curettage):**
 
 - Dùng thìa nạo niêm mạc ống cổ tử cung.
 - Thực hiện tại phòng khám, không gây mê.
 - Có thể gây đau bụng và chảy máu nhẹ.
 
-**Khoét chóp bằng dao lạnh (Cold Knife Conization)**:
+**Khoét chóp bằng dao lạnh (Cold Knife Conization):**
 
 - Lấy mô hình nón bao gồm tổn thương và rìa bình thường.
 - Mẫu mô rõ ràng, không bị cháy, giúp đánh giá bờ phẫu thuật và xâm lấn.
@@ -267,7 +267,7 @@ _Hình ảnh "Áp lạnh cổ tử cung: Đầu áp nối với nitrogen lỏng 
 _Hình ảnh "Khoét chóp cổ tử cung bằng dao lạnh"_.
 ![Khoét chóp cổ tử cung bằng dao lạnh](./_images/tan-sinh-bieu-mo-co-tu-cung/khoet-chop-bang-dao-lanh.png)
 
-**Cắt bỏ mô tổn thương bằng vòng điện (LEEP/LLETZ)**:
+**Cắt bỏ mô tổn thương bằng vòng điện (LEEP/LLETZ):**
 
 - Lấy vùng chuyển tiếp bằng vòng điện, thuận tiện và nhanh chóng.
 - Mẫu mô dễ bị cháy, khó đánh giá bờ cắt.

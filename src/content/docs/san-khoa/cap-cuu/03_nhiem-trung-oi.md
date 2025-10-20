@@ -13,11 +13,11 @@ Nhiễm trùng ối thường do vi khuẩn xâm nhập ngược dòng từ đư
 - Sinh thiết gai nhau.
 - Nội soi bào thai.
 
-**Các tác nhân thường gặp**:
+**Các tác nhân thường gặp:**
 
 - _Ureaplasma urealyticum_.
 - _Mycoplasma hominis_.
-- **Gardnerella vaginalis**.
+- **Gardnerella vaginalis.**
 - _Bacteroides bivius_.
 - Vi khuẩn Gram âm.
 - Liên cầu khuẩn nhóm B (_Group B Streptococcus - GBS_).
@@ -65,14 +65,14 @@ Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu b
 
 ### Với thai
 
-**Giai đoạn cấp tính**:
+**Giai đoạn cấp tính:**
 
 - Viêm phổi sơ sinh.
 - Viêm màng não.
 - Nhiễm khuẩn huyết.
 - Tử vong sơ sinh.
 
-**Di chứng lâu dài**:
+**Di chứng lâu dài:**
 
 - Loạn sản phế quản phổi (BPD).
 - Bại não.
@@ -98,7 +98,7 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 
 ### Kháng sinh
 
-**Phác đồ 1 (ưu tiên)**:
+**Phác đồ 1 (ưu tiên):**
 
 - Ampicillin 2 g tiêm TM mỗi 6 giờ + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ. Nếu mổ lấy thai, thêm Clindamycin 900mg mỗi 8 giờ hoặc Metronidazole 500 mg truyền TM mỗi 8 giờ.
 - Hoặc Ampicillin-sulbactam 3 g tiêm TM mỗi 6h.
@@ -106,12 +106,12 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 - Hoặc Cefotetan 2 g tiêm TM mỗi 12h.
 - Hoặc Mezlocillin 4 g tiêm TM mỗi 6h.
 
-**Phác đồ 2: Dị ứng nhẹ với Penicillin**:
+**Phác đồ 2: Dị ứng nhẹ với Penicillin:**
 
 - Cefazolin 2 g tiêm TM mỗi 8 giờ + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
 - Nếu mổ lấy thai, thêm Clindamycin hoặc Metronidazole như trên.
 
-**Phác đồ 3: Dị ứng nặng với Penicillin**:
+**Phác đồ 3: Dị ứng nặng với Penicillin:**
 
 - Clindamycin 900 mg truyền TM mỗi 8 giờ.
 - Hoặc Vancomycin 1 g truyền TM mỗi 12h + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
@@ -124,7 +124,7 @@ Vancomycin chỉ dùng khi:
 
 :::
 
-**Nếu không đáp ứng**:
+**Nếu không đáp ứng:**
 
 - Piperacillin-Tazobactam 4.5 g truyền TM mỗi 8 giờ.
 - Hoặc Ertapenem 1 g truyền TM mỗi 24 giờ.

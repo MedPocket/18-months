@@ -37,11 +37,11 @@ Bình thường:
 
 - Buồng tử cung tam giác đều các cạnh 3-4 cm. Đoạn kẽ dài 1-2 cm, ngang 0.4 cm. Đoạn eo dài 3-4 cm, ngang ≤ 0.4 cm. Đoạn bóng và đoạn loa 6-8 cm, ngang 0.5-1 cm.
 - Niêm mạc bắt thuốc đều.
-- Thuốc đi qua vòi 2 bên, **tràn tự do ổ bụng**.
+- Thuốc đi qua vòi 2 bên, **tràn tự do ổ bụng.**
 
 Bất thường:
 
-- Tắc gần (đoạn kẽ/eo): Thuốc **dừng ở góc tử cung**; nghĩ đến **co thắt** hoặc **nhầy nút** → cân nhắc **chụp chọn lọc/canulation** để loại trừ **dương tính giả**.
+- Tắc gần (đoạn kẽ/eo): Thuốc **dừng ở góc tử cung**; nghĩ đến **co thắt** hoặc **nhầy nút** → cân nhắc **chụp chọn lọc/canulation** để loại trừ **dương tính giả.**
 - Tắc xa (đoạn bóng/loa): Vòi **giãn hình bóng đèn**, **không tràn** thuốc.
 - Hydrosalpinx: Vòi giãn lớn, **ứ thuốc**; thường không tràn.
 - Dính phúc mạc quanh vòi: Thuốc thoát **ít/khu trú**, vờn quanh một chỗ, không lan tỏa.
@@ -52,7 +52,7 @@ Sử dụng nghiệm pháp Cotte đánh giá lan tỏa thuốc trong vùng chậ
 ### Biến chứng
 
 - Thường gặp đau quặn, ra huyết nhẹ, phản xạ **vagal** (choáng váng).
-- Ít gặp **nhiễm trùng vùng chậu**, **dị ứng iod**, chảy máu, **tổn thương/đâm thủng tử cung**.
+- Ít gặp **nhiễm trùng vùng chậu**, **dị ứng iod**, chảy máu, **tổn thương/đâm thủng tử cung.**
 - Theo dõi đau bụng, sốt, ra huyết âm đạo: Nếu đau bụng tăng dần, nghi ngờ viêm, áp-xe vòi trứng; 5 ngày còn ra máu cần nhập viện kiểm tra.
 
 ## Siêu âm bơm nước buồng tử cung - vòi trứng
@@ -61,12 +61,12 @@ Bơm nước muối hoặc dung dịch vi bọt qua cổ tử cung để khảo 
 
 ### Chỉ định
 
-- Khảo sát buồng tử cung (polyp, u xơ dưới niêm, dính, dị dạng) và **đánh giá thông vòi** trong **vô sinh/hiếm muộn**.
+- Khảo sát buồng tử cung (polyp, u xơ dưới niêm, dính, dị dạng) và **đánh giá thông vòi** trong **vô sinh/hiếm muộn.**
 - Lựa chọn thay thế **không tia X**, thuận tiện ngoại trú.
 
 ### Chống chỉ định
 
-Tương tự HSG **mang thai**, **nhiễm trùng tiểu khung/cổ tử cung đang hoạt động**; thận trọng khi **ra máu nhiều**, **đau nhiễm trùng chưa kiểm soát**.
+Tương tự HSG **mang thai**, **nhiễm trùng tiểu khung/cổ tử cung đang hoạt động**; thận trọng khi **ra máu nhiều**, **đau nhiễm trùng chưa kiểm soát.**
 
 ### Chuẩn bị
 
@@ -81,7 +81,7 @@ Nhận định kết quả SIS:
 
 Nhận định kết quả HyCoSy:
 
-- Thông: Thấy **dòng vi bọt** đi qua vòi và **tràn tự do túi cùng**.
+- Thông: Thấy **dòng vi bọt** đi qua vòi và **tràn tự do túi cùng.**
 - Nghi tắc gần: Không thấy dòng qua đoạn kẽ; cân nhắc co thắt → có thể lặp lại/chuyển phương tiện khác.
 - Tắc xa/Hydrosalpinx: Giãn vòi, ứ vi bọt, **không tràn** túi cùng.
 - Dính phúc mạc: Vi bọt **đọng khu trú**, không lan toả.

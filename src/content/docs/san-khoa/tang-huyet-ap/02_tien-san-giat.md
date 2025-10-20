@@ -18,18 +18,18 @@ _Bảng "Chẩn đoán tiền sản giật" - ACOG_.
 | và           |                                                                                                                                                                                                                                                                                                                                       |
 | **Đạm niệu** | - ≥ 300 mg/24 giờ (hoặc suy ra từ thời gian thu thập nước tiểu tương ứng)<br>- Tỷ số Protein/creatinin ≥ 0.3<br>- Dip-Stick ≥ 1+ (chỉ dùng khi không có phương pháp định lượng khác)                                                                                                                                                  |
 
-**Hoặc** trong trường hợp **không có đạm niệu**, tăng huyết áp mới xuất hiện kèm **ít nhất 1 trong các dấu hiệu sau**:
+**Hoặc** trong trường hợp **không có đạm niệu**, tăng huyết áp mới xuất hiện kèm **ít nhất 1 trong các dấu hiệu sau:**
 
-- **Giảm tiểu cầu**: Tiểu cầu < 100,000 /µL.
-- **Suy thận**: Creatinin huyết thanh > 1.1 mg/dL hoặc gấp đôi nồng độ bình thường (không do bệnh lý thận khác).
-- **Suy tế bào gan**: Men gan tăng gấp 2 lần bình thường.
-- **Phù phổi**.
-- **Triệu chứng não/thị giác**: Đau đầu dữ dội, rối loạn thị giác, co giật.
+- **Giảm tiểu cầu:** Tiểu cầu < 100,000 /µL.
+- **Suy thận:** Creatinin huyết thanh > 1.1 mg/dL hoặc gấp đôi nồng độ bình thường (không do bệnh lý thận khác).
+- **Suy tế bào gan:** Men gan tăng gấp 2 lần bình thường.
+- **Phù phổi.**
+- **Triệu chứng não/thị giác:** Đau đầu dữ dội, rối loạn thị giác, co giật.
   :::
 
 ## Phân loại
 
-Gồm hai loại **không có dấu hiệu nặng** và **có dấu hiệu nặng**.
+Gồm hai loại **không có dấu hiệu nặng** và **có dấu hiệu nặng.**
 
 Tiền sản giật **có dấu hiệu nặng** (chỉ cần một trong các dấu hiệu dưới đây):
 
@@ -42,7 +42,7 @@ Tiền sản giật **có dấu hiệu nặng** (chỉ cần một trong các d�
 
 ## Tiên lượng
 
-**Trước 34 tuần**: Tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật...
+**Trước 34 tuần:** Tiên lượng xấu hơn — tử vong sơ sinh, phù phổi, sản giật...
 
 ## Biến chứng
 
@@ -65,13 +65,13 @@ Tiền sản giật **có dấu hiệu nặng** (chỉ cần một trong các d�
 
 ## Điều trị
 
-**Sinh là biện pháp duy nhất để chấm dứt tiền sản giật**.
+**Sinh là biện pháp duy nhất để chấm dứt tiền sản giật.**
 
 ### Không có dấu hiệu nặng
 
-**Theo dõi ngoại trú**. Không dùng thuốc hạ áp, lợi tiểu hay an thần.
+**Theo dõi ngoại trú.** Không dùng thuốc hạ áp, lợi tiểu hay an thần.
 
-**Nhập viện và chấm dứt thai kỳ nếu**:
+**Nhập viện và chấm dứt thai kỳ nếu:**
 
 - Thai ≥ 37 tuần.
 - Nghi ngờ rau bong non.
@@ -120,21 +120,21 @@ _Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng -
 
 ### Chống co giật (MgSO₄)
 
-**Cơ chế**:
+**Cơ chế:**
 
 - Mg²⁺ cạnh tranh với Ca²⁺ tại bản đệm thần kinh-cơ, ngăn co giật.
 - Giãn mạch não, giảm thiếu máu cục bộ trong cơn sản giật.
 
-**Chỉ định**: Dự phòng/chống co giật trong tiền sản giật, hội chứng HELLP, sản giật.
+**Chỉ định:** Dự phòng/chống co giật trong tiền sản giật, hội chứng HELLP, sản giật.
 
-**Liều dùng**:
+**Liều dùng:**
 
-- **Tấn công**: 4-6 g MgSO₄ 15% (50 mL) TM chậm (15-20 phút).
-- **Duy trì**: 1-2 g/giờ TM liên tục (pha 6 g MgSO₄ 15% vào 500 mL glucose 5% hoặc bơm tiêm điện 6.7 mL/h).
+- **Tấn công:** 4-6 g MgSO₄ 15% (50 mL) TM chậm (15-20 phút).
+- **Duy trì:** 1-2 g/giờ TM liên tục (pha 6 g MgSO₄ 15% vào 500 mL glucose 5% hoặc bơm tiêm điện 6.7 mL/h).
 - Suy thận (Creatinine 1-1.5 mg/dL) hoặc thiểu niệu (< 30 mL/h) → duy trì 1 g/h.
 - Tiếp tục ít nhất 24 giờ sau cơn cuối hoặc sau sinh.
 
-**Theo dõi**:
+**Theo dõi:**
 
 - Theo dõi phản xạ gân xương (mất dấu hiệu sớm nhất), nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4h).
 - Định lượng Mg²⁺ huyết thanh khi cần, giữ 4-7 mEq/L (5-9 mg/dL; 2-3.5 mmol/L).
@@ -151,7 +151,7 @@ _Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng -
   | **15 - 17**                     | Liệt cơ hô hấp, suy hô hấp                                         |
   | **≥ 30**                        | Ngừng tim, tử vong                                                 |
 
-**Ngộ độc (Mg > 8 mEq/L)**:
+**Ngộ độc (Mg > 8 mEq/L):**
 
 - Ngừng MgSO₄.
 - 10 mL Calcium gluconate 10% TM trong 10 phút.
@@ -160,100 +160,100 @@ _Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng -
 
 ### Chống tăng huyết áp
 
-**Mục tiêu**: HA duy trì 140-150/90-100 mmHg (không hạ quá nhanh để tránh giảm tưới máu tử cung-rau).
+**Mục tiêu:** HA duy trì 140-150/90-100 mmHg (không hạ quá nhanh để tránh giảm tưới máu tử cung-rau).
 
-**Chỉ định**:
+**Chỉ định:**
 
 - HA tâm thu ≥ 150 mmHg.
 - HA tâm trương ≥ 100 mmHg.
 
-**Theo dõi điều trị sau 2 giờ**:
+**Theo dõi điều trị sau 2 giờ:**
 
 - HA trung bình không giảm > 25%.
 - HA tâm thu 130-150 mmHg, tâm trương 80-100 mmHg.
 
-**Thuốc sử dụng**:
+**Thuốc sử dụng:**
 
-- **Labetalol**.
-- **Hydralazine**.
-- **Chẹn kênh canxi**: Nifedipine, nicardipine.
-- **Methyldopa**.
+- **Labetalol.**
+- **Hydralazine.**
+- **Chẹn kênh canxi:** Nifedipine, nicardipine.
+- **Methyldopa.**
 
-**Thuốc không được sử dụng**: Nitroprusside, thuốc ức chế men chuyển.
+**Thuốc không được sử dụng:** Nitroprusside, thuốc ức chế men chuyển.
 
 _Bảng "Phân loại thuốc chống tăng huyết áp trong thai kỳ"_.
 
 | Phân loại thuốc chống tăng huyết áp trong thai kỳ | Cơ chế tác dụng                 | Ảnh hưởng                                                                                                                                                                                           |
 | ------------------------------------------------- | ------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Alpha methyldopa**                              | Ức chế thụ thể Alpha trung ương | **Trên mẹ**:<br>- Cung lượng tim và lưu lượng máu thận không thay đổi<br>- Tác dụng phụ: Sốt, lơ mơ, viêm gan, thiếu máu tán huyết<br>**Trên thai**:<br>- An toàn tương đối, không ảnh hưởng rõ rệt |
-| **Hydralazin**                                    | Giảm trở kháng mạch ngoại vi    | **Trên mẹ**:<br>- Tăng cung lượng tim, đau đầu, nhịp tim nhanh, hội chứng giống Lupus<br>**Trên thai**:<br>- Lưu lượng máu thận không đổi hoặc tăng                                                 |
-| **Propranolol**                                   | Ức chế thụ thể Beta             | **Trên mẹ**:<br>- Giảm cung lượng tim, tăng co bóp tử cung<br>**Trên thai**:<br>- Giảm tưới máu nhau thai, nguy cơ suy hô hấp sơ sinh.                                                              |
-| **Labetalol**                                     | Ức chế thụ thể Alpha và Beta    | **Trên mẹ**:<br>- Run cơ, đau đầu<br>- Chống chỉ định: Hen suyễn, suy tim<br>**Trên thai**:<br>- Nguy cơ suy hô hấp sơ sinh                                                                         |
-| **Nifedipine**                                    | Ức chế kênh Canxi               | **Trên mẹ**:<br>- Hạ huyết áp tư thế, đau đầu<br>**Trên thai**:<br>- Chưa ghi nhận tác dụng rõ rệt                                                                                                  |
+| **Alpha methyldopa**                              | Ức chế thụ thể Alpha trung ương | **Trên mẹ:**<br>- Cung lượng tim và lưu lượng máu thận không thay đổi<br>- Tác dụng phụ: Sốt, lơ mơ, viêm gan, thiếu máu tán huyết<br>**Trên thai:**<br>- An toàn tương đối, không ảnh hưởng rõ rệt |
+| **Hydralazin**                                    | Giảm trở kháng mạch ngoại vi    | **Trên mẹ:**<br>- Tăng cung lượng tim, đau đầu, nhịp tim nhanh, hội chứng giống Lupus<br>**Trên thai:**<br>- Lưu lượng máu thận không đổi hoặc tăng                                                 |
+| **Propranolol**                                   | Ức chế thụ thể Beta             | **Trên mẹ:**<br>- Giảm cung lượng tim, tăng co bóp tử cung<br>**Trên thai:**<br>- Giảm tưới máu nhau thai, nguy cơ suy hô hấp sơ sinh.                                                              |
+| **Labetalol**                                     | Ức chế thụ thể Alpha và Beta    | **Trên mẹ:**<br>- Run cơ, đau đầu<br>- Chống chỉ định: Hen suyễn, suy tim<br>**Trên thai:**<br>- Nguy cơ suy hô hấp sơ sinh                                                                         |
+| **Nifedipine**                                    | Ức chế kênh Canxi               | **Trên mẹ:**<br>- Hạ huyết áp tư thế, đau đầu<br>**Trên thai:**<br>- Chưa ghi nhận tác dụng rõ rệt                                                                                                  |
 
 #### α-Methyldopa
 
 **An toàn nhất** trong thai kỳ.
 
-**Liều dùng**: 250 mg x 1-3 lần/ngày; Tối đa 2 g/ngày.
+**Liều dùng:** 250 mg x 1-3 lần/ngày; Tối đa 2 g/ngày.
 
-**Tác dụng phụ**: Trầm cảm, buồn ngủ, chóng mặt, rối loạn gan.
+**Tác dụng phụ:** Trầm cảm, buồn ngủ, chóng mặt, rối loạn gan.
 
-**Chống chỉ định**: Viêm/xơ gan, thiếu máu tán huyết, trầm cảm nặng.
+**Chống chỉ định:** Viêm/xơ gan, thiếu máu tán huyết, trầm cảm nặng.
 
 #### Hydralazine
 
-**Cơ chế**: Giãn tiểu động mạch ngoại vi nhanh, hạ áp sau 10-30 phút, tác dụng kéo dài 2-4 giờ.
+**Cơ chế:** Giãn tiểu động mạch ngoại vi nhanh, hạ áp sau 10-30 phút, tác dụng kéo dài 2-4 giờ.
 
-**Liều dùng**: 5 mg (1-2 phút) TM chậm; Nếu cần, 5-10 mg sau 15-20 phút; Tối đa 25 mg.
+**Liều dùng:** 5 mg (1-2 phút) TM chậm; Nếu cần, 5-10 mg sau 15-20 phút; Tối đa 25 mg.
 
-**Tác dụng phụ**: Nhịp nhanh, đánh trống ngực, đau đầu, hạ áp đột ngột → suy thai.
+**Tác dụng phụ:** Nhịp nhanh, đánh trống ngực, đau đầu, hạ áp đột ngột → suy thai.
 
 **Chống chỉ định:** mẫn cảm, bệnh động mạch vành nặng, van 2 lá, lupus hoạt động.
 
 #### Labetalol
 
-**Cơ chế**: Chẹn α, β giao cảm → chậm nhịp, hạ áp.
+**Cơ chế:** Chẹn α, β giao cảm → chậm nhịp, hạ áp.
 
-**Liều dùng**:
+**Liều dùng:**
 
 - Bolus TM 10-20 mg; Nếu cần, 20-80 mg mỗi 10-30 phút (tối đa 300 mg).
-- **Duy trì uống**: 200 mg x 3 lần/ngày (tối đa 800 mg/8 h), điều chỉnh 200-400 mg/ngày.
+- **Duy trì uống:** 200 mg x 3 lần/ngày (tối đa 800 mg/8 h), điều chỉnh 200-400 mg/ngày.
 
-**Tác dụng phụ**: Ít nhịp nhanh phản xạ.
+**Tác dụng phụ:** Ít nhịp nhanh phản xạ.
 
-**Chống chỉ định**: Suy tim, hen, block tim.
+**Chống chỉ định:** Suy tim, hen, block tim.
 
 #### Nifedipine
 
-**Cơ chế**: Chẹn kênh Ca²⁺ loại L → giãn mạch nhanh hơn Hydralazine.
+**Cơ chế:** Chẹn kênh Ca²⁺ loại L → giãn mạch nhanh hơn Hydralazine.
 
-**Liều dùng**:
+**Liều dùng:**
 
 - Uống tác dụng nhanh 10-20 mg cách 20-30 phút (tối đa 50 mg).
-- **Duy trì**: 10-20 mg mỗi 2-6 h (tối đa 180 mg/ngày) hoặc viên tác dụng kéo dài 30-120 mg/ngày.
+- **Duy trì:** 10-20 mg mỗi 2-6 h (tối đa 180 mg/ngày) hoặc viên tác dụng kéo dài 30-120 mg/ngày.
 
-**Tác dụng phụ**:
+**Tác dụng phụ:**
 
 - Nhịp nhanh, đau đầu, hồi hộp.
 - Phối hợp MgSO₄ có thể hạ áp quá mức.
 
 #### Nicardipine
 
-**Cơ chế**: Tác dụng giống nifedipine, ít ảnh hưởng tim; Bắt đầu sau 10 phút, đỉnh 30-120 phút, kéo dài 8 giờ.
+**Cơ chế:** Tác dụng giống nifedipine, ít ảnh hưởng tim; Bắt đầu sau 10 phút, đỉnh 30-120 phút, kéo dài 8 giờ.
 
-**Liều dùng**:
+**Liều dùng:**
 
 - Uống 20 mg x 3 lần/ngày.
-- **TM**: Bolus 0.5-1 mg, duy trì 1-3 mg/h (pha 10 mL nicardipine vào 40 mL Glucose 5%, truyền 5-15 mL/h).
+- **TM:** Bolus 0.5-1 mg, duy trì 1-3 mg/h (pha 10 mL nicardipine vào 40 mL Glucose 5%, truyền 5-15 mL/h).
 
-**Tác dụng phụ**: Đau đầu, chóng mặt, buồn nôn.
+**Tác dụng phụ:** Đau đầu, chóng mặt, buồn nôn.
 
-**Chống chỉ định**: Đau thắt ngực không ổn định, sốc tim, hẹp van ĐMC nặng; Thận trọng 3 tháng đầu.
+**Chống chỉ định:** Đau thắt ngực không ổn định, sốc tim, hẹp van ĐMC nặng; Thận trọng 3 tháng đầu.
 
 #### Lợi tiểu
 
-**Furosemide**:
+**Furosemide:**
 
 - Chỉ dùng khi thiểu/vô niệu, phù phổi cấp.
 - Liều 20 mg TM chậm.

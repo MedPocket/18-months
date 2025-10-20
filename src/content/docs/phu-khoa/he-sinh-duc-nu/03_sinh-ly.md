@@ -7,15 +7,15 @@ Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chi
 
 ## Buồng trứng và kho nang nguyên thủy
 
-**Tuần 7 thai kỳ**: Noãn nguyên bào (germ cell) từ túi noãn hoàng di chuyển vào ụ sinh dục, phân chia nguyên nhiễm nhanh chóng.
+**Tuần 7 thai kỳ:** Noãn nguyên bào (germ cell) từ túi noãn hoàng di chuyển vào ụ sinh dục, phân chia nguyên nhiễm nhanh chóng.
 
-**Nang noãn nguyên thủy**: Mỗi noãn nguyên bào được bọc quanh bởi lớp tế bào tùy hành (từ trung mô/phúc mạc). Vào giữa thai kỳ, toàn bộ noãn nguyên bào đồng loạt ngưng phân chia → nằm im trong nang nguyên thủy cho đến tuổi dậy thì.
+**Nang noãn nguyên thủy:** Mỗi noãn nguyên bào được bọc quanh bởi lớp tế bào tùy hành (từ trung mô/phúc mạc). Vào giữa thai kỳ, toàn bộ noãn nguyên bào đồng loạt ngưng phân chia → nằm im trong nang nguyên thủy cho đến tuổi dậy thì.
 
 ## Chiêu mộ nang noãn nguyên thủy
 
-**Chiêu mộ nguyên khởi (Primordial Recruitment)**: Mỗi đợt 400 nang nguyên thủy được đánh thức, độc lập với FSH/LH. **Cơ chế cận tiết**:
+**Chiêu mộ nguyên khởi (Primordial Recruitment):** Mỗi đợt 400 nang nguyên thủy được đánh thức, độc lập với FSH/LH. **Cơ chế cận tiết:**
 
-- **PTEN-PI3K-Akt**: Cân bằng PTEN (ức chế) và PI3K (kích hoạt) quyết định nang nào "thức giấc".
+- **PTEN-PI3K-Akt:** Cân bằng PTEN (ức chế) và PI3K (kích hoạt) quyết định nang nào "thức giấc".
 - **AMH** (từ tế bào hạt nang tiền hốc → nang hốc nhỏ) ức chế quá mức chiêu mộ, như "người gác cổng".<br>
 
 _Hình ảnh "Con đường PTEN/PI3K/AKT"_.
@@ -64,7 +64,7 @@ _Hình ảnh "Tiến trình phát triển noãn nang"_.
 
 **Đỉnh LH** (phản hồi dương estradiol) → hoàn thành giảm nhiễm I, bắt đầu giảm nhiễm II → phóng noãn sau 36 giờ.
 
-**Hoàng thể**: Tế bào vỏ + tế bào hạt chuyển sang hoàng thể → tiết **progesterone** & estradiol (đỉnh 7 ngày sau phóng noãn).
+**Hoàng thể:** Tế bào vỏ + tế bào hạt chuyển sang hoàng thể → tiết **progesterone** & estradiol (đỉnh 7 ngày sau phóng noãn).
 
 **Progesterone** → pha tiết nội mạc tử cung, ức chế GnRH/FSH/LH (phản hồi âm) → hoàng thể thoái triển → mức steroid giảm đột ngột → khởi động chu kỳ mới.
 

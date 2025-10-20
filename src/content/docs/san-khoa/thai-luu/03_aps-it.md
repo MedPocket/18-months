@@ -27,7 +27,7 @@ Chẩn đoán APS cần **ít nhất 1 xét nghiệm dương tính** (ở mức 
 
 #### Lâm sàng
 
-**Tiền sử sản khoa**:
+**Tiền sử sản khoa:**
 
 - Sẩy thai liên tiếp ≥ 3 lần < 10 tuần.
 - Thai lưu ≥ 1 lần ≥ 10 tuần.
@@ -60,7 +60,7 @@ _Bảng "Kháng thể kháng phospholipid"_.
 
 Tiền sử **huyết khối tĩnh mạch sâu (DVT)**, **thuyên tắc phổi** hoặc **huyết khối động mạch** (đột quỵ trẻ tuổi, nhồi máu cơ tim).
 
-**Biến chứng thai kỳ**:
+**Biến chứng thai kỳ:**
 
 - Sẩy thai tự nhiên tái diễn (≥ 2 lần liên tiếp).
 - Thai lưu không rõ nguyên nhân.
@@ -101,8 +101,8 @@ _Bảng "Phân tầng nguy cơ và phác đồ điều trị Hội chứng khán
 
 | Phân tầng nguy cơ và phác đồ điều trị Hội chứng kháng phospholipid | Tiền sử lâm sàng                                                                                                       | Phác đồ điều trị trong thai kỳ                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **APS cao**                                                        | - Huyết khối (tĩnh-động mạch) trước/sau khi có thai<br/>- Biến chứng thai kỳ nặng (≥ 1 lần sẩy/lưu/sinh non < 34 tuần) | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH điều trị**: Enoxaparin 1 mg/kg tiêm dưới da mỗi 12 giờ; Hoặc Dalteparin 100 IU/kg tiêm dưới da mỗi 12 giờ<br/>- Duy trì đến ít nhất 6 tuần hậu sản: Enoxaparin 40 mg/ngày hoặc chuyển sang Warfarin (INR 2.0-3.0) nếu không cho con bú |
-| **APS trung bình**                                                 | - Chưa huyết khối, chỉ ≥ 1 biến chứng thai kỳ nhẹ (sẩy thai tự nhiên < 10 tuần)                                        | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH dự phòng**: Enoxaparin 40 mg tiêm dưới da/ngày; Hoặc Dalteparin 5 000 IU tiêm dưới da/ngày<br/>- Tiếp tục đến 6 tuần hậu sản: Enoxaparin 40 mg/ngày hoặc chuyển sang Warfarin (INR 2.0-3.0) nếu không cho con bú                       |
+| **APS cao**                                                        | - Huyết khối (tĩnh-động mạch) trước/sau khi có thai<br/>- Biến chứng thai kỳ nặng (≥ 1 lần sẩy/lưu/sinh non < 34 tuần) | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH điều trị:** Enoxaparin 1 mg/kg tiêm dưới da mỗi 12 giờ; Hoặc Dalteparin 100 IU/kg tiêm dưới da mỗi 12 giờ<br/>- Duy trì đến ít nhất 6 tuần hậu sản: Enoxaparin 40 mg/ngày hoặc chuyển sang Warfarin (INR 2.0-3.0) nếu không cho con bú |
+| **APS trung bình**                                                 | - Chưa huyết khối, chỉ ≥ 1 biến chứng thai kỳ nhẹ (sẩy thai tự nhiên < 10 tuần)                                        | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH dự phòng:** Enoxaparin 40 mg tiêm dưới da/ngày; Hoặc Dalteparin 5 000 IU tiêm dưới da/ngày<br/>- Tiếp tục đến 6 tuần hậu sản: Enoxaparin 40 mg/ngày hoặc chuyển sang Warfarin (INR 2.0-3.0) nếu không cho con bú                       |
 | **APS thấp**                                                       | - Dương kháng thể, chưa có biểu hiện lâm sàng                                                                          | - **Aspirin 75-100 mg/ngày** từ khi chẩn đoán đến sinh rồi dừng sau sinh                                                                                                                                                                                                         |
 
 :::caution
@@ -114,34 +114,34 @@ _Bảng "Phân tầng nguy cơ và phác đồ điều trị Hội chứng khán
 
 ## Theo dõi
 
-**Tiểu cầu, hematocrit, creatinin, AST/ALT**: Theo dõi tác dụng phụ kháng đông.
+**Tiểu cầu, hematocrit, creatinin, AST/ALT:** Theo dõi tác dụng phụ kháng đông.
 
-**aPTT (Heparin không phân đoạn - UFH)**:
+**aPTT (Heparin không phân đoạn - UFH):**
 
 - Mục tiêu: 1.5-2.5 lần giá trị bình thường.
 - Tham chiếu: Thường tương đương 60-80 giây (giá trị bình thường 25-35 giây).
 - Theo dõi: Đo aPTT 6 giờ sau liều đầu và định kỳ 1-2 lần/tuần hoặc khi điều chỉnh liều.
 
-**Anti-Xa (Heparin trọng lượng phân tử thấp - LMWH)**:
+**Anti-Xa (Heparin trọng lượng phân tử thấp - LMWH):**
 
-- **Liều điều trị**: Đỉnh (4 giờ sau tiêm): 0.6-1.0 IU/mL.
-- **Liều dự phòng**: Đỉnh (4 giờ sau tiêm): 0.2-0.4 IU/mL.
+- **Liều điều trị:** Đỉnh (4 giờ sau tiêm): 0.6-1.0 IU/mL.
+- **Liều dự phòng:** Đỉnh (4 giờ sau tiêm): 0.2-0.4 IU/mL.
 - Theo dõi: Đo anti-Xa 4 giờ sau liều thứ 3 hoặc khi cân nặng thay đổi > 10%.
 
-**INR (Warfarin - hậu sản hoặc không cho con bú)**:
+**INR (Warfarin - hậu sản hoặc không cho con bú):**
 
 - Mục tiêu: INR 2.0-3.0 với điều trị thường quy; INR 3.0-4.0 nếu tái phát huyết khối hoặc có nguy cơ rất cao.
 - Theo dõi: Đo INR hàng tuần đến khi ổn định, sau đó mỗi 2-4 tuần.
 
-**D-dimer**:
+**D-dimer:**
 
 - Vai trò: Không dùng để điều chỉnh liều kháng đông, nhưng giúp **chẩn đoán huyết khối cấp** khi nghi ngờ.
 - Tham chiếu: Thường < 500 ng/mL (ngưng tăng dần trong thai kỳ); Ở phụ nữ mang thai, D-dimer có thể tăng sinh lý; ưu tiên theo dõi **xu hướng giảm** sau khi khởi trị.
 - Theo dõi: Khi có triệu chứng mới hoặc biến cố lâm sàng.
 
-**Siêu âm Doppler mạch tử cung 11-14 tuần và 20-24 tuần**: Đánh giá nguy cơ tiền sản giật, tổn thương mạch máu nhau.
+**Siêu âm Doppler mạch tử cung 11-14 tuần và 20-24 tuần:** Đánh giá nguy cơ tiền sản giật, tổn thương mạch máu nhau.
 
-**Siêu âm tăng trưởng thai: Mỗi 4-6 tuần từ 24 tuần**: Theo dõi hạn chế tăng trưởng trong tử cung (IUGR).
+**Siêu âm tăng trưởng thai: Mỗi 4-6 tuần từ 24 tuần:** Theo dõi hạn chế tăng trưởng trong tử cung (IUGR).
 
 ## Tài liệu tham khảo
 

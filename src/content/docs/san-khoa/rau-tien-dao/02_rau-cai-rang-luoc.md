@@ -39,7 +39,7 @@ _Bảng "Phân loại rau cài răng lược" - FIGO_.
 - Tam cá nguyệt I (6-14 tuần): Túi thai làm tổ thấp, gần sẹo mổ cũ; Thành trước đoạn dưới mỏng < 3 mm.
 - Tam cá nguyệt II-III (TVS & TAS): Lacunae ("moth-eaten") xoang mạch đa hình trong bánh rau; Đường echo ranh giới rau-cơ mỏng hoặc mất liên tục; "Placental bulge" lồi rau qua thành tử cung; Cầu mạch máu và Doppler tăng sinh mạch rõ; Xâm lấn bàng quang mất đường echo thanh mạc và bàng quang.
 
-**MRI**: Khi siêu âm không rõ hoặc cần đánh giá xâm lấn mặt sau, mức độ percreta.
+**MRI:** Khi siêu âm không rõ hoặc cần đánh giá xâm lấn mặt sau, mức độ percreta.
 
 ## Điều trị
 

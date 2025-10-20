@@ -7,9 +7,9 @@ description: human Chorionic Gonadotropin (hCG) nguồn gốc, cấu trúc, th�
 
 ## Nguồn gốc
 
-**Chủ yếu**: Tế bào hội bào nuôi (syncytiotrophoblast) của bánh rau; Giai đoạn < 5 tuần còn từ nguyên bào nuôi (cytotrophoblast). **Ngoài ra**: Thận, tuyến yên, một số mô khác → giải thích hCG tăng trong u tân sinh ngoài bánh rau.
+**Chủ yếu:** Tế bào hội bào nuôi (syncytiotrophoblast) của bánh rau; Giai đoạn < 5 tuần còn từ nguyên bào nuôi (cytotrophoblast). **Ngoài ra:** Thận, tuyến yên, một số mô khác → giải thích hCG tăng trong u tân sinh ngoài bánh rau.
 
-**Mức nền**: Rất thấp ở nam và nữ không có thai (nhiều khả năng từ tuyến yên trước).
+**Mức nền:** Rất thấp ở nam và nữ không có thai (nhiều khả năng từ tuyến yên trước).
 
 ## Sinh tổng hợp
 
@@ -25,19 +25,19 @@ description: human Chorionic Gonadotropin (hCG) nguồn gốc, cấu trúc, th�
 
 ## Chuyển hóa
 
-**Bán thai**: 36 giờ (LH 20 phút) → duy trì tác dụng lâu dài.
+**Bán thai:** 36 giờ (LH 20 phút) → duy trì tác dụng lâu dài.
 
-**Thải trừ**: HCG nguyên vẹn, phân mảnh α/β, thoái giáng → phát hiện trong cả huyết thanh và nước tiểu.
+**Thải trừ:** HCG nguyên vẹn, phân mảnh α/β, thoái giáng → phát hiện trong cả huyết thanh và nước tiểu.
 
 ## Chức năng
 
-**Dấu ấn sinh hóa**: Ngày 10 sau thụ tinh: hCG xuất hiện trong máu mẹ → xác nhận làm tổ.
+**Dấu ấn sinh hóa:** Ngày 10 sau thụ tinh: hCG xuất hiện trong máu mẹ → xác nhận làm tổ.
 
-**Duy trì hoàng thể**: Thay thế LH sau phóng noãn → duy trì hoàng thể chu kỳ thành hoàng thể thai kỳ → tiếp tục tiết estrogen & progesterone.
+**Duy trì hoàng thể:** Thay thế LH sau phóng noãn → duy trì hoàng thể chu kỳ thành hoàng thể thai kỳ → tiếp tục tiết estrogen & progesterone.
 
-**Phản ánh hoạt động lá nuôi**: Diễn biến hCG phản ánh chức năng tế bào ngoại bì lá nuôi hơn là tình trạng phôi.
+**Phản ánh hoạt động lá nuôi:** Diễn biến hCG phản ánh chức năng tế bào ngoại bì lá nuôi hơn là tình trạng phôi.
 
-**Ứng dụng lâm sàng**:
+**Ứng dụng lâm sàng:**
 
 - Thay thế LH trong kích thích phóng noãn cuối cùng.
 - Hỗ trợ phát triển nội mạc, mạch xoắn ốc, relaxin, testosterone thai nhi.
@@ -46,11 +46,11 @@ description: human Chorionic Gonadotropin (hCG) nguồn gốc, cấu trúc, th�
 
 ### Động học β-hCG
 
-**Bình thường không có thai**: < 5 mIU/mL.
+**Bình thường không có thai:** < 5 mIU/mL.
 
-**Có thai**: > 25 mIU/mL (que thử 20-25 mIU/mL). **Tăng gấp đôi**: Mỗi 48 giờ trong 6 tuần đầu; Đỉnh 8-10 tuần (100,000 mIU/mL); Sau giảm đạt ổn định 16-20 tuần.
+**Có thai:** > 25 mIU/mL (que thử 20-25 mIU/mL). **Tăng gấp đôi:** Mỗi 48 giờ trong 6 tuần đầu; Đỉnh 8-10 tuần (100,000 mIU/mL); Sau giảm đạt ổn định 16-20 tuần.
 
-**Động học sau sảy thai**: Giảm ≥ 21-35% mỗi 48 giờ; < 20% gợi ý sót rau hoặc thai ngoài tử cung.
+**Động học sau sảy thai:** Giảm ≥ 21-35% mỗi 48 giờ; < 20% gợi ý sót rau hoặc thai ngoài tử cung.
 
 ### Ngưỡng β-hCG
 

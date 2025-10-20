@@ -33,7 +33,7 @@ Về **chức năng tuyến giáp** của thai:
 
 **Iod tự do có thể đi qua bánh rau**, nhưng TSH không. Do đó, một lượng T₄ giới hạn từ mẹ có thể qua bánh rau và đóng vai trò quan trọng cho sự phát triển hệ thần kinh của thai nhi, đặc biệt trong **tam cá nguyệt đầu tiên** trước khi tuyến giáp thai hoạt động hiệu quả.
 
-Một số chất như **propylthiouracil (PTU)** và **methimazole** (thuốc kháng giáp) với trọng lượng phân tử nhỏ cũng có thể qua rau, gây **nhược giáp thai nhi** nếu không được theo dõi sát. **TRH (Thyroid Releasing Hormone)** cũng có thể qua rau nhưng với nồng độ thấp, nên **không có ý nghĩa lâm sàng đáng kể**.
+Một số chất như **propylthiouracil (PTU)** và **methimazole** (thuốc kháng giáp) với trọng lượng phân tử nhỏ cũng có thể qua rau, gây **nhược giáp thai nhi** nếu không được theo dõi sát. **TRH (Thyroid Releasing Hormone)** cũng có thể qua rau nhưng với nồng độ thấp, nên **không có ý nghĩa lâm sàng đáng kể.**
 
 ## Tài liệu tham khảo
 
