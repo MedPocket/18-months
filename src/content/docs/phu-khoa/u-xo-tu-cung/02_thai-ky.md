@@ -11,25 +11,27 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 
 ### Nội khoa
 
-**Điều trị ban đầu**: Acetaminophen (paracetamol) liều tối đa 3 g/ngày. Nếu đau nặng: Có thể dùng opioid liều chuẩn trong 48 giờ.
+**Điều trị ban đầu:** Acetaminophen (paracetamol) liều tối đa 3 g/ngày. Nếu đau nặng: Có thể dùng opioid liều chuẩn trong 48 giờ.
 
 **NSAIDs** (ibuprofen, indomethacin) chỉ khi thai < 32 tuần do nguy cơ: Đóng ống động mạch sớm. Tăng áp phổi sơ sinh. Đa ối, rối loạn chức năng tiểu cầu thai nhi.
 
-**Hỗ trợ**: Nghỉ ngơi, tư thế nghiêng trái giảm chèn ép tĩnh mạch chủ dưới. Bù đủ nước và điện giải khi có dấu hiệu đa ối do u xơ.
+**Hỗ trợ:** Nghỉ ngơi, tư thế nghiêng trái giảm chèn ép tĩnh mạch chủ dưới. Bù đủ nước và điện giải khi có dấu hiệu đa ối do u xơ.
 
 ### Ngoại khoa
 
-**Bóc u xơ trong mổ lấy thai**: Không bóc u xơ "đại trà" trong mổ lấy thai nếu không có chỉ định; Cân nhắc kỹ: kinh nghiệm phẫu thuật viên. Lượng máu dự trữ. Vị trí, số lượng, kích thước nhân xơ.
+**Bóc u xơ trong mổ lấy thai:** Không bóc u xơ "đại trà" trong mổ lấy thai nếu không có chỉ định; Cân nhắc kỹ: kinh nghiệm phẫu thuật viên. Lượng máu dự trữ. Vị trí, số lượng, kích thước nhân xơ.
 
-**Chỉ định**:
+**Chỉ định:**
 
 - Nhân xơ **đoạn dưới tử cung** có nguy cơ bế sản dịch, viêm nội mạc sau mổ.
 - Nhân xơ **gần đường rạch** cơ tử cung, gây khó khâu vết mổ.
 - Nhân xơ **dưới thanh mạc có cuống** (FIGO 5-7), bóc dễ, không làm tăng đáng kể chảy máu.
 
-**Theo dõi sau phẫu thuật**: Phụ nữ từng bóc u đoạn dưới có thể **sinh thường** các lần sau, nhưng phải theo dõi sát cơn chuyển dạ và vết mổ cũ.
+**Theo dõi sau phẫu thuật:** Phụ nữ từng bóc u đoạn dưới có thể **sinh thường** các lần sau, nhưng phải theo dõi sát cơn chuyển dạ và vết mổ cũ.
 
 ## U xơ tử cung và hiếm muộn
+
+_Bảng "Vị trí u xơ" - FIGO_.
 
 | Vị trí u xơ (FIGO)                | Kích thước | Khuyến nghị can thiệp trước ART                                     |
 | --------------------------------- | ---------- | ------------------------------------------------------------------- |

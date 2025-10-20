@@ -5,10 +5,10 @@ description: Siêu âm Doppler khảo sát các dòng chảy mạch máu thai v�
 
 Trong sản khoa, khảo sát động học dòng chảy trong các mạch máu cho phép có ý niệm về trở kháng của các mạch máu được khảo sát, thông qua việc khảo sát tốc độ dòng chảy. Các trở kháng được thể hiện bằng nhiều cách. Phổ biến nhất là thể hiện bằng chỉ số kháng trở hoặc chỉ số Pourcelot. Khi đánh giá trở kháng, người ta thường dựa vào các chỉ số trở kháng được xác định theo các bách phân vị và so sánh với trở kháng của các mạch máu tương ứng khác. Các chỉ số thông dụng gồm:
 
-- **S**: Peak systolic velocity, đỉnh tâm thu.
-- **D**: End diastolic velocity, vận tốc cuối tâm trương.
-- **RI**: Resistance Index, chỉ số kháng trở. RI = (S-D)/S.
-- **PI**: Pulsatility Index, chỉ số đập. PI = (S-D)/A (với A = Vm, vận tốc trung bình).
+- **S:** Peak systolic velocity, đỉnh tâm thu.
+- **D:** End diastolic velocity, vận tốc cuối tâm trương.
+- **RI:** Resistance Index, chỉ số kháng trở. RI = (S-D)/S.
+- **PI:** Pulsatility Index, chỉ số đập. PI = (S-D)/A (với A = Vm, vận tốc trung bình).
 
 ## Doppler động mạch tử cung (UtA)
 
@@ -25,6 +25,8 @@ Khảo sát động học dòng chảy bằng Doppler có giá trị dự báo c
 
 _Hình ảnh "PI trung bình của động mạch tử cung"_.
 ![PI trung bình của động mạch tử cung](./_images/sieu-am-doppler/pi-trung-binh-cua-dong-mach-tu-cung.png)
+
+_Bảng "Chỉ định Doppler động mạch tử cung tuần 17-22"_.
 
 | Chỉ định Doppler động mạch tử cung tuần 17-22 | Các chỉ định siêu âm Doppler khảo sát dòng chảy động mạch tử cung lúc thai 17-22 tuần                                                                                                                                        |
 | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

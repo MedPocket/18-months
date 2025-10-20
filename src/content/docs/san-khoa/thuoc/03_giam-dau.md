@@ -9,9 +9,9 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 **Thành phần chính** Acetaminophen. **Là lựa chọn an toàn hàng đầu trong thai kỳ**, kể cả trong 3 tháng đầu.
 
-**Chỉ định**: Đau đầu, đau cơ, sốt, đau nhẹ đến trung bình.
+**Chỉ định:** Đau đầu, đau cơ, sốt, đau nhẹ đến trung bình.
 
-**Liều dùng**: 500-1000 mg/lần, tối đa 3-4 g/ngày.
+**Liều dùng:** 500-1000 mg/lần, tối đa 3-4 g/ngày.
 
 **Tác dụng phụ** (hiếm gặp khi dùng đúng liều):
 
@@ -28,9 +28,9 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 ## NSAIDs
 
-**Các thuốc thường dùng**: Ibuprofen, Diclofenac, Naproxen, Ketoprofen...
+**Các thuốc thường dùng:** Ibuprofen, Diclofenac, Naproxen, Ketoprofen...
 
-**Chỉ định**: Đau viêm, đau cơ xương, đau răng, đau khớp.
+**Chỉ định:** Đau viêm, đau cơ xương, đau răng, đau khớp.
 
 **Liều dùng** (ví dụ với Ibuprofen): 200-400 mg/lần, 2-3 lần/ngày; tối đa 1200 mg/ngày (không kê đơn) hoặc theo chỉ định bác sĩ.
 
@@ -39,7 +39,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 - Nguy cơ **đóng sớm ống động mạch** ở thai nhi.
 - Nguy cơ **thiểu ối, suy thận thai nhi**, kéo dài chuyển dạ.
 
-**Tác dụng phụ**:
+**Tác dụng phụ:**
 
 - Loét hoặc xuất huyết dạ dày, rối loạn tiêu hóa.
 - Tăng huyết áp nhẹ, giữ nước.
@@ -54,13 +54,13 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 ## Opioid
 
-**Các thuốc thường dùng**: Codein, Tramadol, Morphin, Oxycodon...
+**Các thuốc thường dùng:** Codein, Tramadol, Morphin, Oxycodon...
 
-**Chỉ định**: Đau trung bình đến nặng khi không đáp ứng với các thuốc khác.
+**Chỉ định:** Đau trung bình đến nặng khi không đáp ứng với các thuốc khác.
 
 **Liều dùng** (ví dụ với Tramadol): 50-100 mg/lần, cách nhau ≥ 6 giờ; tối đa 400 mg/ngày (theo chỉ định bác sĩ).
 
-**Tác dụng phụ**:
+**Tác dụng phụ:**
 
 - Buồn ngủ, chóng mặt, táo bón, buồn nôn.
 - Ức chế hô hấp, đặc biệt khi dùng liều cao hoặc gần ngày sinh.
@@ -75,11 +75,11 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 ## Thuốc chống co thắt
 
-**Các thuốc thường dùng**: Spasmaverine, Phloroglucinol
+**Các thuốc thường dùng:** Spasmaverine, Phloroglucinol
 
-**Chỉ định**: Đau do co thắt đường tiêu hóa, tiết niệu, tử cung.
+**Chỉ định:** Đau do co thắt đường tiêu hóa, tiết niệu, tử cung.
 
-**Liều dùng (Phloroglucinol)**: 40-80 mg/lần, 2-3 lần/ngày.
+**Liều dùng (Phloroglucinol):** 40-80 mg/lần, 2-3 lần/ngày.
 
 **Tác dụng phụ** (hiếm):
 
@@ -95,13 +95,13 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 ## Thuốc giảm đau thần kinh
 
-**Các thuốc thường dùng**: Pregabalin, Gabapentin, Amitriptylin...
+**Các thuốc thường dùng:** Pregabalin, Gabapentin, Amitriptylin...
 
-**Chỉ định**: Đau thần kinh mạn tính (đau dây thần kinh tọa, zona...)
+**Chỉ định:** Đau thần kinh mạn tính (đau dây thần kinh tọa, zona...)
 
-**Liều dùng** (ví dụ với Pregabalin): bắt đầu 75 mg/ngày, tăng dần theo đáp ứng. **Chỉ dùng khi có chỉ định chuyên khoa**.
+**Liều dùng** (ví dụ với Pregabalin): bắt đầu 75 mg/ngày, tăng dần theo đáp ứng. **Chỉ dùng khi có chỉ định chuyên khoa.**
 
-**Tác dụng phụ**:
+**Tác dụng phụ:**
 
 - Chóng mặt, buồn ngủ, rối loạn thăng bằng.
 - Tăng cân, phù.

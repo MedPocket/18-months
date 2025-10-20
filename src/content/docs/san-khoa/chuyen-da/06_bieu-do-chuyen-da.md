@@ -15,14 +15,14 @@ Chuyển dạ được coi là kéo dài khi tổng thời gian vượt quá 24 
 
 Vì giai đoạn xóa mở cổ tử cung bao gồm hai pha liên tiếp, nên chuyển dạ kéo dài có thể được chia thành:
 
-1. **Chuyển dạ pha tiềm thời kéo dài**: Khó xác định do không rõ thời điểm khởi đầu chuyển dạ.
-2. **Chuyển dạ pha hoạt động kéo dài**: Khi pha hoạt động kéo dài trên 12 giờ.
+1. **Chuyển dạ pha tiềm thời kéo dài:** Khó xác định do không rõ thời điểm khởi đầu chuyển dạ.
+2. **Chuyển dạ pha hoạt động kéo dài:** Khi pha hoạt động kéo dài trên 12 giờ.
 
 ### Yếu tố ảnh hưởng
 
-1. **Power (Cơn co tử cung)**: Là động lực chính thúc đẩy xóa mở cổ tử cung. Cơn co yếu, không đều hoặc không phối hợp làm chậm tiến trình chuyển dạ.
-2. **Passenger (Thai nhi)**: Ngôi bất thường, thai quá to hoặc dị tật làm tăng nguy cơ kéo dài chuyển dạ. Lưu ý: thuật ngữ "chuyển dạ kéo dài" thường áp dụng cho ngôi chỏm.
-3. **Passage (Đường sinh)**: Các bất thường về kích thước, hình dạng hoặc khối u cản trở đường sinh cũng là nguyên nhân quan trọng.
+1. **Power (Cơn co tử cung):** Là động lực chính thúc đẩy xóa mở cổ tử cung. Cơn co yếu, không đều hoặc không phối hợp làm chậm tiến trình chuyển dạ.
+2. **Passenger (Thai nhi):** Ngôi bất thường, thai quá to hoặc dị tật làm tăng nguy cơ kéo dài chuyển dạ. Lưu ý: thuật ngữ "chuyển dạ kéo dài" thường áp dụng cho ngôi chỏm.
+3. **Passage (Đường sinh):** Các bất thường về kích thước, hình dạng hoặc khối u cản trở đường sinh cũng là nguyên nhân quan trọng.
 
 ## Chuyển dạ tắc nghẽn
 
@@ -87,15 +87,15 @@ _Hình ảnh "Sản đồ WHO 1993"_.
 
 ### Đặc điểm
 
-- **Đường báo động**: Bắt đầu từ độ mở cổ tử cung 3 cm đến giờ thứ 8, tốc độ mở 1 cm/giờ. Nếu biểu đồ nằm bên phải đường này, nghĩa là cổ tử cung mở chậm, cần theo dõi sát.
-- **Đường hành động**: Song song với đường báo động, cách 4 giờ về bên phải. Khi chạm đường này, cần can thiệp quyết đoán (không nhất thiết là mổ).
+- **Đường báo động:** Bắt đầu từ độ mở cổ tử cung 3 cm đến giờ thứ 8, tốc độ mở 1 cm/giờ. Nếu biểu đồ nằm bên phải đường này, nghĩa là cổ tử cung mở chậm, cần theo dõi sát.
+- **Đường hành động:** Song song với đường báo động, cách 4 giờ về bên phải. Khi chạm đường này, cần can thiệp quyết đoán (không nhất thiết là mổ).
 - Pha tiềm thời không được ghi trong sản đồ do khó xác định thời điểm bắt đầu. Việc ghi nhận diễn tiến được bắt đầu từ khi cổ tử cung mở ≥ 3 cm (model 1993).
 
 ### Cải tiến
 
 WHO 2002 cải tiến:
 
-- **Bỏ ghi pha tiềm thời và bỏ tịnh tiến**.
+- **Bỏ ghi pha tiềm thời và bỏ tịnh tiến.**
 - **Chỉ bắt đầu ghi từ khi cổ tử cung ≥ 4 cm**, nhằm tránh can thiệp sớm khi chưa vào pha hoạt động thực sự.
 
 ### Ý nghĩa

@@ -5,6 +5,8 @@ description: Tổng quan về hiệu quả, độ an toàn, tính kinh tế và 
 
 Có nhiều phương pháp tránh thai, hoạt động dựa trên những nguyên lý và cơ chế khác nhau.
 
+_Bảng "Các phương pháp tránh thai"_.
+
 | Phân loại                 | Phương pháp                                                                                                             | Cơ chế tác động                                                                                                         |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
 | **Tự nhiên**              | - Xuất tinh ngoài <br>- Tính ngày an toàn <br>- Cho bú vô kinh (LAM)                                                    | - Tránh để tinh trùng vào âm đạo <br>- Tránh quan hệ trong ngày dễ thụ thai <br>- Cho bú ức chế rụng trứng              |
@@ -18,14 +20,16 @@ Có nhiều phương pháp tránh thai, hoạt động dựa trên những nguy�
 
 Mỗi phương pháp được đặc trưng bằng:
 
-1. **Tính hiệu quả**.
-2. **Tính an toàn**.
-3. **Tính kinh tế**.
-4. **Khả năng chấp nhận của người dùng cụ thể**.
+1. **Tính hiệu quả.**
+2. **Tính an toàn.**
+3. **Tính kinh tế.**
+4. **Khả năng chấp nhận của người dùng cụ thể.**
 
 ### Tính hiệu quả
 
 Tính bằng **chỉ số Pearl** (số thai kỳ/100 năm-phụ nữ sử dụng).
+
+_Bảng "Tính hiệu quả của các phương pháp tránh thai"_.
 
 | Phương pháp                | Chỉ số Pearl (dùng đúng cách)   | Ghi chú                              |
 | -------------------------- | ------------------------------- | ------------------------------------ |
@@ -41,6 +45,8 @@ Tính bằng **chỉ số Pearl** (số thai kỳ/100 năm-phụ nữ sử dụn
 
 Các yếu tố ảnh hưởng đến an toàn: Tuổi, hút thuốc, tiền sử huyết khối, bệnh lý tim mạch, tiểu đường, động kinh, cho con bú...
 
+_Bảng "Tính an toàn của các phương pháp tránh thai"_.
+
 | Phương pháp       | An toàn chung | Hạn chế thường gặp                                           |
 | ----------------- | ------------- | ------------------------------------------------------------ |
 | **Bao cao su**    | Loại 1        | Không có                                                     |
@@ -51,6 +57,8 @@ Các yếu tố ảnh hưởng đến an toàn: Tuổi, hút thuốc, tiền s�
 | **Triệt sản**     | Loại 1        | Không hồi phục                                               |
 
 ### Tính kinh tế
+
+_Bảng "Tính kinh tế của các phương pháp tránh thai"_.
 
 | Phương pháp    | Chi phí ban đầu | Chi phí dài hạn      | Ghi chú          |
 | -------------- | --------------- | -------------------- | ---------------- |
@@ -74,24 +82,26 @@ Phụ thuộc vào:
 
 ### Các bước tư vấn
 
-**Sàng lọc về tính an toàn**:
+**Sàng lọc về tính an toàn:**
 
 - Hỏi về: Bệnh lý tim mạch, nội tiết, gan, huyết khối, thuốc đang dùng...
-- Phân loại theo **WHO 1-4**. **Loại 3-4** → Không đưa vào danh sách gợi ý.
+- Phân loại theo **WHO 1-4.** **Loại 3-4** → Không đưa vào danh sách gợi ý.
 
-**Lập danh sách phương pháp phù hợp**:
+**Lập danh sách phương pháp phù hợp:**
 
 - Ưu tiên: Loại 1 → Theo hiệu quả giảm dần.
 - Cung cấp thông tin: Hiệu quả, tác dụng phụ, cách sử dụng.
 
-**Lựa chọn của người dùng**: Người dùng chọn trong danh sách, dựa trên điều kiện và sở thích cá nhân.
+**Lựa chọn của người dùng:** Người dùng chọn trong danh sách, dựa trên điều kiện và sở thích cá nhân.
 
-**Chỉ định phương tiện cụ thể**:
+**Chỉ định phương tiện cụ thể:**
 
 - Lựa chọn thương hiệu, kích cỡ, liều lượng cụ thể.
 - Đảm bảo sẵn có trên thị trường & phù hợp về kinh tế.
 
 ### Tình huống cụ thể
+
+_Bảng "Các tình huống tránh thai cụ thể"_.
 
 | Tình huống                                         | Gợi ý phương pháp               | Lý do                          |
 | -------------------------------------------------- | ------------------------------- | ------------------------------ |

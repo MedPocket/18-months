@@ -5,9 +5,9 @@ description: Xử trí tích cực giai đoạn 3 chuyển dạ — kỹ thuật
 
 **Giai đoạn 3** của chuyển dạ từ khi thai sổ đến khi rau bong và cầm máu hoàn toàn. Nếu không can thiệp, rau bong tự nhiên theo 3 thì:
 
-1. **Bong rau**.
-2. **Sổ rau**.
-3. **Cầm máu**.
+1. **Bong rau.**
+2. **Sổ rau.**
+3. **Cầm máu.**
 
 ## Sinh lý
 
@@ -45,9 +45,9 @@ _Hình ảnh "Thì cầm máu"_.
 
 Can thiệp tích cực gồm ba bước chính, thực hiện ngay sau sổ vai:
 
-1. **Thuốc co hồi tử cung**: Oxytocin 10 IU tiêm bắp/vào dây rốn ngay, hoặc 5 IU tĩnh mạch nếu chỉ định. Giúp tăng co bóp nhanh, giảm mất máu.
-2. **Kéo dây rốn có kiểm soát**: Kẹp dây rốn gần âm hộ, đặt tay kia chặn đáy tử cung. Khi có cơn co (dưới tác dụng oxytocin), khuyến khích sản phụ rặn nhẹ, vừa kéo dây rốn vừa chặn đáy để rau tróc ra chậm, an toàn. Ngưng kéo nếu không xuống sau 30 giây, thử lại trong cơn co kế tiếp.
-3. **Xoa bóp đáy tử cung**: Xoa đáy tử cung sau khi rau sổ để duy trì co cơ, đảm bảo cơ chế cầm máu cơ học. Các nghiên cứu cho thấy giảm tổng mất máu dù không đến 100 mL, nhưng việc này giúp phòng ngừa băng huyết sau sinh và được WHO khuyến khích nếu có nhân sự đào tạo bài bản.
+1. **Thuốc co hồi tử cung:** Oxytocin 10 IU tiêm bắp/vào dây rốn ngay, hoặc 5 IU tĩnh mạch nếu chỉ định. Giúp tăng co bóp nhanh, giảm mất máu.
+2. **Kéo dây rốn có kiểm soát:** Kẹp dây rốn gần âm hộ, đặt tay kia chặn đáy tử cung. Khi có cơn co (dưới tác dụng oxytocin), khuyến khích sản phụ rặn nhẹ, vừa kéo dây rốn vừa chặn đáy để rau tróc ra chậm, an toàn. Ngưng kéo nếu không xuống sau 30 giây, thử lại trong cơn co kế tiếp.
+3. **Xoa bóp đáy tử cung:** Xoa đáy tử cung sau khi rau sổ để duy trì co cơ, đảm bảo cơ chế cầm máu cơ học. Các nghiên cứu cho thấy giảm tổng mất máu dù không đến 100 mL, nhưng việc này giúp phòng ngừa băng huyết sau sinh và được WHO khuyến khích nếu có nhân sự đào tạo bài bản.
 
 ## Theo dõi sau xử trí
 

@@ -13,43 +13,43 @@ description: Các steroid sinh dục (progesterone, androgen, estrogen) - nguồ
 
 Tất cả đều được sinh tổng hợp từ cholesterol qua pregnenolone, rồi cắt ngắn dần chuỗi bên để tạo phân tử đích:
 
-- **Cholesterol → Pregnenolone**: Tại ty thể, qua enzyme P450scc (side-chain cleavage).
-- **Progesterone (C₂₁)**: Pregnenolone → progesterone (3β-HSD).
-- **Androgen (C₁₉)**: Progesterone → 17α-OH-progesterone → androstenedione → testosterone.
-- **Estrogen (C₁₈)**: Aromatase (P450aro) chuyển testosterone/androstenedione → estradiol/estrone; Estriol chủ yếu sinh ra từ chuyển hóa ở gan và rau thai.
+- **Cholesterol → Pregnenolone:** Tại ty thể, qua enzyme P450scc (side-chain cleavage).
+- **Progesterone (C₂₁):** Pregnenolone → progesterone (3β-HSD).
+- **Androgen (C₁₉):** Progesterone → 17α-OH-progesterone → androstenedione → testosterone.
+- **Estrogen (C₁₈):** Aromatase (P450aro) chuyển testosterone/androstenedione → estradiol/estrone; Estriol chủ yếu sinh ra từ chuyển hóa ở gan và rau thai.
 
 ## Vai trò và nguồn gốc
 
 ### Androgen
 
-**Nguồn gốc**: Tế bào vỏ (theca interna) của nang noãn chưa lệ thuộc gonadotropin.
+**Nguồn gốc:** Tế bào vỏ (theca interna) của nang noãn chưa lệ thuộc gonadotropin.
 
-**Dạng lưu hành**: DHEA, androstenedione.
+**Dạng lưu hành:** DHEA, androstenedione.
 
-**Chức năng**:
+**Chức năng:**
 
 - Chuẩn bị tế bào hạt (granulosa) để đáp ứng FSH, kích thích biểu hiện aromatase.
 - Duy trì androgen-AMH-FSH-estrogen cân bằng, ngăn nang noãn lệ thuộc gonadotropin quá sớm.
 
 ### Estrogen
 
-**Nguồn gốc**: Tế bào hạt của các nang noãn phát triển và hoàng thể.
+**Nguồn gốc:** Tế bào hạt của các nang noãn phát triển và hoàng thể.
 
-**Dạng lưu hành**:
+**Dạng lưu hành:**
 
-- **Estradiol (E₂)**: Mạnh nhất, chiếm ưu thế ở người trưởng thành.
-- **Estrone (E₁)**: Yếu hơn, có thể đảo ngược ↔ E₂.
-- **Estriol (E₃)**: Yếu nhất, chủ yếu ở thai kỳ (gan + rau).
+- **Estradiol (E₂):** Mạnh nhất, chiếm ưu thế ở người trưởng thành.
+- **Estrone (E₁):** Yếu hơn, có thể đảo ngược ↔ E₂.
+- **Estriol (E₃):** Yếu nhất, chủ yếu ở thai kỳ (gan + rau).
 
-**Tổng hợp**: Androgen → aromatase → estrogen.
+**Tổng hợp:** Androgen → aromatase → estrogen.
 
-**Chức năng**: Phát triển niêm mạc tử cung, hình thành các đặc điểm sinh dục thứ cấp, điều hòa GnRH/LH/FSH.
+**Chức năng:** Phát triển niêm mạc tử cung, hình thành các đặc điểm sinh dục thứ cấp, điều hòa GnRH/LH/FSH.
 
 ### Progesterone
 
-**Nguồn gốc**: Tế bào hoàng thể sau phóng noãn; Một phần từ vỏ thượng thận.
+**Nguồn gốc:** Tế bào hoàng thể sau phóng noãn; Một phần từ vỏ thượng thận.
 
-**Chức năng**:
+**Chức năng:**
 
 - Chuẩn bị nội mạc tử cung cho giai đoạn "phân tiết" (secretory), hỗ trợ làm tổ.
 - Ức chế co cơ trơn tử cung, đóng cổ tử cung.
@@ -81,17 +81,17 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 
 - **Estrogen** (pha proliferative): Thúc đẩy phân bào tuyến & mô đệm, gia tăng ER/PR, phát triển mạch thẳng.
 - **Progesterone** (pha secretory): Chuyển tuyến sang chế tiết, xoắn mạch, ứ glycogen, chuẩn bị làm tổ.
-- **Hành kinh**: Sụt đột ngột E₂ & P₄ → bong niêm mạc.
+- **Hành kinh:** Sụt đột ngột E₂ & P₄ → bong niêm mạc.
 
 ### Cổ tử cung
 
-- **Estrogen**: Chế tiết chất nhầy loãng, thuận tinh trùng.
-- **Progesterone**: Chất nhầy đặc, ngăn vi khuẩn và tinh trùng.
+- **Estrogen:** Chế tiết chất nhầy loãng, thuận tinh trùng.
+- **Progesterone:** Chất nhầy đặc, ngăn vi khuẩn và tinh trùng.
 
 ### Ống dẫn trứng & tử cung
 
-- **Estrogen**: Tăng co thắt nhu động trứng về tử cung, đóng lỗ vòi.
-- **Progesterone**: Giãn cơ trơn, mở lối vào buồng tử cung, hỗ trợ làm tổ.
+- **Estrogen:** Tăng co thắt nhu động trứng về tử cung, đóng lỗ vòi.
+- **Progesterone:** Giãn cơ trơn, mở lối vào buồng tử cung, hỗ trợ làm tổ.
 
 ### Hạ đồi - Tuyến yên
 
@@ -100,10 +100,12 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 
 ### Các cơ quan khác
 
-- **Tuyến vú**: Genomic qua ER → phát triển ống tuyến, mô đệm.
-- **Xương, mạch máu, não**: Non-genomic & genomic → duy trì mật độ xương, phân bố mỡ, chức năng thần kinh.
+- **Tuyến vú:** Genomic qua ER → phát triển ống tuyến, mô đệm.
+- **Xương, mạch máu, não:** Non-genomic & genomic → duy trì mật độ xương, phân bố mỡ, chức năng thần kinh.
 
 ## Thụ thể
+
+_Bảng "Các thụ thể steroids"_.
 
 | Thụ thể của các steroids | Gene       | Isoform             | Chức năng                                                         |
 | ------------------------ | ---------- | ------------------- | ----------------------------------------------------------------- |

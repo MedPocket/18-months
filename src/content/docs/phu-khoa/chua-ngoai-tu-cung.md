@@ -17,7 +17,7 @@ _Hình ảnh "Các vị trí chửa ngoài tử cung"_.
 - Bất thường giải phẫu tử cung hoặc phần phụ như polyp, dính buồng tử cung, túi thừa ống dẫn trứng.
 - Đặt dụng cụ tử cung (IUD), đặc biệt nếu xảy ra có thai trong khi đang đặt vòng.
 - Một số yếu tố khác: Hút thuốc lá, tuổi mẹ lớn, tiền sử vô sinh.
-- Các biện pháp tránh thai nội tiết (thuốc tránh thai hằng ngày, tránh thai khẩn cấp) hoặc tiền sử sảy thai, phá thai, mổ lấy thai **không làm tăng nguy cơ chửa ngoài tử cung**.
+- Các biện pháp tránh thai nội tiết (thuốc tránh thai hằng ngày, tránh thai khẩn cấp) hoặc tiền sử sảy thai, phá thai, mổ lấy thai **không làm tăng nguy cơ chửa ngoài tử cung.**
 
 ## Chẩn đoán
 
@@ -25,9 +25,9 @@ _Hình ảnh "Các vị trí chửa ngoài tử cung"_.
 
 #### Lâm sàng
 
-**Cơ năng**: Tam chứng điển hình trễ kinh, ra huyết âm đạo bất thường (thường ít, kéo dài), đau bụng vùng hạ vị.
+**Cơ năng:** Tam chứng điển hình trễ kinh, ra huyết âm đạo bất thường (thường ít, kéo dài), đau bụng vùng hạ vị.
 
-**Thực thể**:
+**Thực thể:**
 
 - Sinh hiệu bình thường.
 - Bụng không căng, có thể có cảm ứng phúc mạc nhẹ.
@@ -38,13 +38,13 @@ _Hình ảnh "Các vị trí chửa ngoài tử cung"_.
 
 #### Cận lâm sàng
 
-**β-hCG huyết thanh**:
+**β-hCG huyết thanh:**
 
 - Định lượng cách nhau 48 giờ.
 - Nếu β-hCG tăng ≥ 60% sau 48h → theo dõi thai trong tử cung.
 - Nếu tăng không đạt chuẩn hoặc giảm → nghi CNTC.
 
-**Siêu âm**:
+**Siêu âm:**
 
 - Chẩn đoán xác định khi túi thai có yolk sac hoặc phôi nằm ở phần phụ, và tử cung không có túi thai.
 - β-hCG > 1500 mIU/mL: Nên thấy túi thai qua siêu âm ngả âm đạo.
@@ -52,9 +52,9 @@ _Hình ảnh "Các vị trí chửa ngoài tử cung"_.
 - **Dấu hiệu vòng nhẫn (vòng lửa - "ring of fire")** trên siêu âm Doppler có giá trị gợi ý.
 - Cần phân biệt với túi thai giả: Không có yolk sac, màng rụng viền mỏng, không có hai vòng đồng tâm.
 
-**Nội soi ổ bụng**: Là tiêu chuẩn vàng nhưng có thể bỏ sót nếu khối thai còn nhỏ.
+**Nội soi ổ bụng:** Là tiêu chuẩn vàng nhưng có thể bỏ sót nếu khối thai còn nhỏ.
 
-**Hút/nạo buồng tử cung**:
+**Hút/nạo buồng tử cung:**
 
 - Thực hiện nếu không thấy vị trí thai rõ ràng.
 - Mô bệnh học thấy gai nhau → sảy thai sớm.
@@ -64,9 +64,9 @@ _Hình ảnh "Các vị trí chửa ngoài tử cung"_.
 
 #### Lâm sàng
 
-**Cơ năng**: Tam chứng điển hình trễ kinh, ra huyết âm đạo, đau bụng dữ dội vùng hạ vị (có thể lan vai), dấu hiệu kích thích phúc mạc.
+**Cơ năng:** Tam chứng điển hình trễ kinh, ra huyết âm đạo, đau bụng dữ dội vùng hạ vị (có thể lan vai), dấu hiệu kích thích phúc mạc.
 
-**Thực thể**:
+**Thực thể:**
 
 - Sinh hiệu thay đổi: Huyết áp tụt, mạch nhanh.
 - Bụng co cứng, đau dữ dội.
@@ -81,9 +81,9 @@ Chọc dò cùng đồ: Máu sẫm, không đông (cân nhắc chỉ định do 
 
 Khối chửa ngoài chảy máu ít một, được ruột và mạc nối lớn bao bọc lại thành khối huyết tụ.
 
-**Cơ năng**: Trễ kinh, ra huyết kéo dài, đau bụng vùng chậu kéo dài.
+**Cơ năng:** Trễ kinh, ra huyết kéo dài, đau bụng vùng chậu kéo dài.
 
-**Thực thể**:
+**Thực thể:**
 
 - Có thể thấy khối cạnh tử cung giới hạn không rõ, căng đau.
 - Thiếu máu mạn tính nhẹ.
@@ -122,20 +122,20 @@ Tiêm Methotrexate (MTX) để điều trị chửa ngoài tử cung là một p
 
 #### Chỉ định
 
-**Methotrexate (MTX) đơn liều**:
+**Methotrexate (MTX) đơn liều:**
 
 - Huyết động ổn định.
 - β-hCG ≤ 5000 mIU/mL.
 - Khối thai < 4 cm.
 - Không có tim thai.
 
-**MTX liều đôi**:
+**MTX liều đôi:**
 
 - β-hCG từ 3500-5000 mIU/mL.
 - Khối thai < 5 cm, đoạn kẽ < 3 cm.
 - Không có tim thai.
 
-**MTX đa liều**:
+**MTX đa liều:**
 
 - β-hCG 5000-10 000 mIU/mL.
 - Khối thai < 5 cm, đoạn kẽ < 3 cm.
@@ -154,17 +154,17 @@ Tiêm Methotrexate (MTX) để điều trị chửa ngoài tử cung là một p
 
 Tỷ lệ thành công đường toàn thân 70-95%.
 
-**MTX đơn liều**:
+**MTX đơn liều:**
 
 - Tiêm bắp MTX 50 mg/m² hoặc 1 mg/kg ngày 1.
 - β-hCG ngày 4 và 7: Giảm ≥ 15% → theo dõi hàng tuần; Giảm < 15% → tiêm lại (tối đa 3 liều); Sau 3 liều mà β-hCG giảm < 15% → chuyển phẫu thuật.
 
-**MTX liều đôi**:
+**MTX liều đôi:**
 
 - MTX ngày 1 và 4.
 - Theo dõi tương tự đơn liều, nhưng thêm liều 3-4 nếu cần.
 
-**MTX đa liều**:
+**MTX đa liều:**
 
 - MTX tiêm ngày 1, 3, 5, 7.
 - Acid folic 0.1 mg/kg ngày 2, 4, 6, 8.
@@ -220,18 +220,18 @@ Chỉ định bệnh nhân sốc, mất máu nặng, không thể nội soi.
 
 ### Theo dõi sau điều trị
 
-**Lâm sàng và cận lâm sàng**:
+**Lâm sàng và cận lâm sàng:**
 
 - Theo dõi dấu hiệu đau bụng, ra huyết, choáng mất máu (phòng vỡ khối thai muộn).
 - Kiêng quan hệ tình dục, tránh vận động mạnh.
 - Tái khám định kỳ cho đến khi β-hCG âm tính hoàn toàn.
 
-**Mong có thai lại**:
+**Mong có thai lại:**
 
-- **Tỷ lệ có thai lại**: Khoảng 60–70% phụ nữ có thể mang thai lại bình thường.
-- **Thời gian trung bình có thai lại**: Thường sau 6–12 tháng (nên chờ tối thiểu 3 tháng nếu điều trị MTX để tránh ảnh hưởng đến phôi thai).
-- **Tỷ lệ chửa ngoài tử cung tái phát**: 10–20% (cao hơn nếu đã có tiền sử chửa ngoài tử cung nhiều lần, hoặc còn tổn thương ống dẫn trứng đối bên).
-- **Tỷ lệ vô sinh sau mổ**: 15–30% tùy mức độ tổn thương vòi trứng và bệnh lý kèm theo (viêm dính, lạc nội mạc tử cung...).
+- **Tỷ lệ có thai lại:** Khoảng 60–70% phụ nữ có thể mang thai lại bình thường.
+- **Thời gian trung bình có thai lại:** Thường sau 6–12 tháng (nên chờ tối thiểu 3 tháng nếu điều trị MTX để tránh ảnh hưởng đến phôi thai).
+- **Tỷ lệ chửa ngoài tử cung tái phát:** 10–20% (cao hơn nếu đã có tiền sử chửa ngoài tử cung nhiều lần, hoặc còn tổn thương ống dẫn trứng đối bên).
+- **Tỷ lệ vô sinh sau mổ:** 15–30% tùy mức độ tổn thương vòi trứng và bệnh lý kèm theo (viêm dính, lạc nội mạc tử cung...).
 
 ## Tài liệu tham khảo
 

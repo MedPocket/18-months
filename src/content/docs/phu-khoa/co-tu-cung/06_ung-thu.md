@@ -7,18 +7,18 @@ Ung thư cổ tử cung là tình trạng tăng sản ác tính của niêm mạ
 
 ## Nguyên nhân
 
-- **Nhiễm HPV mạn tính**: Các type HPV nguy cơ cao (như HPV 16, 18) gây tổn thương ADN tế bào biểu mô, dẫn đến đột biến và ác tính hóa.
-- **Yếu tố đồng tác nhân**: Hút thuốc lá, nhiễm HIV, sử dụng thuốc tránh thai đường dài, mang thai nhiều lần...
+- **Nhiễm HPV mạn tính:** Các type HPV nguy cơ cao (như HPV 16, 18) gây tổn thương ADN tế bào biểu mô, dẫn đến đột biến và ác tính hóa.
+- **Yếu tố đồng tác nhân:** Hút thuốc lá, nhiễm HIV, sử dụng thuốc tránh thai đường dài, mang thai nhiều lần...
 
 ## Yếu tố nguy cơ
 
-- **Nhiễm HPV kéo dài**: Đặc biệt các typ 16, 18 chiếm khoảng 70% các trường hợp.
-- **Hệ miễn dịch suy giảm**: HIV/AIDS, dùng thuốc ức chế miễn dịch.
-- **Quan hệ tình dục sớm**: Trước 18 tuổi, quan hệ với nhiều bạn tình.
-- **Đẻ nhiều**: Hơn 5 con.
-- **Hút thuốc lá**: Các chất độc trong khói thuốc làm tổn thương tại chỗ, thuận lợi cho HPV phát triển.
-- **Tiền sử tổn thương cổ tử cung**: Tổn thương tiền ung thư (CIN II/III) không được điều trị triệt để.
-- **Suy giảm miễn dịch**.
+- **Nhiễm HPV kéo dài:** Đặc biệt các typ 16, 18 chiếm khoảng 70% các trường hợp.
+- **Hệ miễn dịch suy giảm:** HIV/AIDS, dùng thuốc ức chế miễn dịch.
+- **Quan hệ tình dục sớm:** Trước 18 tuổi, quan hệ với nhiều bạn tình.
+- **Đẻ nhiều:** Hơn 5 con.
+- **Hút thuốc lá:** Các chất độc trong khói thuốc làm tổn thương tại chỗ, thuận lợi cho HPV phát triển.
+- **Tiền sử tổn thương cổ tử cung:** Tổn thương tiền ung thư (CIN II/III) không được điều trị triệt để.
+- **Suy giảm miễn dịch.**
 
 ## Chẩn đoán
 
@@ -31,24 +31,24 @@ Ung thư cổ tử cung là tình trạng tăng sản ác tính của niêm mạ
 
 ### Cận lâm sàng
 
-- **Soi cổ tử cung và lấy sinh thiết**: Tiêu chuẩn vàng để khẳng định tổn thương ác tính.
-- **Phết tế bào cổ tử cung (Pap smear) và HPV‑DNA**: Tầm soát sớm tổn thương tiền ung thư.
-- **Siêu âm đầu dò âm đạo**: Đánh giá kích thước khối u, xâm lấn nội mạc tử cung.
-- **MRI vùng chậu**: Xác định giai đoạn bệnh, xâm lấn mô cạnh cổ tử cung, đáy chậu.
-- **CT/PET-CT**: Ít dùng để đánh giá giai đoạn sớm, nhưng quan trọng khi nghi ngờ di căn xa hoặc đánh giá hạch vùng chậu/hạch cạnh động mạch chủ.
+- **Soi cổ tử cung và lấy sinh thiết:** Tiêu chuẩn vàng để khẳng định tổn thương ác tính.
+- **Phết tế bào cổ tử cung (Pap smear) và HPV‑DNA:** Tầm soát sớm tổn thương tiền ung thư.
+- **Siêu âm đầu dò âm đạo:** Đánh giá kích thước khối u, xâm lấn nội mạc tử cung.
+- **MRI vùng chậu:** Xác định giai đoạn bệnh, xâm lấn mô cạnh cổ tử cung, đáy chậu.
+- **CT/PET-CT:** Ít dùng để đánh giá giai đoạn sớm, nhưng quan trọng khi nghi ngờ di căn xa hoặc đánh giá hạch vùng chậu/hạch cạnh động mạch chủ.
 
 ## Phân loại
 
 Dưới đây là các **loại ung thư cổ tử cung** được phân loại theo mô học chính:
 
-- **Ung thư biểu mô tế bào vảy (Squamous Cell Carcinoma)**: Chiếm khoảng 70–80% các trường hợp. Phát sinh từ tế bào lát tầng cổ tử cung, liên quan chặt chẽ với nhiễm HPV type nguy cơ cao (như 16, 18).
-- **Ung thư biểu mô tuyến (Adenocarcinoma)**: Chiếm khoảng 15–25%. Phát sinh từ tế bào tuyến cổ tử cung. Tỷ lệ adenocarcinoma đang gia tăng, đặc biệt ở nhóm trẻ tuổi.
-- **Ung thư hỗn hợp tế bào vảy – tuyến (Adenosquamous Carcinoma)**: Có cả thành phần tế bào vảy và tế bào tuyến. Ít gặp hơn, nhưng thường có tiên lượng tương đương ung thư tế bào vảy.
-- **Ung thư biểu mô nội tiết thần kinh (Neuroendocrine Carcinoma)**: Ví dụ Small cell carcinoma, Large cell neuroendocrine carcinoma. Hiếm nhưng rất ác tính, thường tiến triển nhanh và dễ di căn.
-- **Ung thư biểu mô trong suốt (Clear Cell Carcinoma)**: Liên quan với tiền sử mẹ dùng thuốc DES (diethylstilbestrol) khi mang thai. Hiếm, thường khởi phát ở độ tuổi trẻ.
-- **Glassy Cell Carcinoma**: Một dạng biệt hóa kém của tế bào vảy; rất ác tính, đáp ứng kém với điều trị.
-- **Sarcoma (khối mô liên kết)**: Ví dụ Leiomyosarcoma, Carcinosarcoma (Malignant Mixed Müllerian Tumor). Rất hiếm, phát sinh từ mô liên kết hoặc cơ cổ tử cung.
-- **Lymphoma và di căn đến cổ tử cung**: Hiếm gặp; thường là sự xâm lấn thứ phát từ các tổn thương lympho nguyên phát khác.
+- **Ung thư biểu mô tế bào vảy (Squamous Cell Carcinoma):** Chiếm khoảng 70–80% các trường hợp. Phát sinh từ tế bào lát tầng cổ tử cung, liên quan chặt chẽ với nhiễm HPV type nguy cơ cao (như 16, 18).
+- **Ung thư biểu mô tuyến (Adenocarcinoma):** Chiếm khoảng 15–25%. Phát sinh từ tế bào tuyến cổ tử cung. Tỷ lệ adenocarcinoma đang gia tăng, đặc biệt ở nhóm trẻ tuổi.
+- **Ung thư hỗn hợp tế bào vảy – tuyến (Adenosquamous Carcinoma):** Có cả thành phần tế bào vảy và tế bào tuyến. Ít gặp hơn, nhưng thường có tiên lượng tương đương ung thư tế bào vảy.
+- **Ung thư biểu mô nội tiết thần kinh (Neuroendocrine Carcinoma):** Ví dụ Small cell carcinoma, Large cell neuroendocrine carcinoma. Hiếm nhưng rất ác tính, thường tiến triển nhanh và dễ di căn.
+- **Ung thư biểu mô trong suốt (Clear Cell Carcinoma):** Liên quan với tiền sử mẹ dùng thuốc DES (diethylstilbestrol) khi mang thai. Hiếm, thường khởi phát ở độ tuổi trẻ.
+- **Glassy Cell Carcinoma:** Một dạng biệt hóa kém của tế bào vảy; rất ác tính, đáp ứng kém với điều trị.
+- **Sarcoma (khối mô liên kết):** Ví dụ Leiomyosarcoma, Carcinosarcoma (Malignant Mixed Müllerian Tumor). Rất hiếm, phát sinh từ mô liên kết hoặc cơ cổ tử cung.
+- **Lymphoma và di căn đến cổ tử cung:** Hiếm gặp; thường là sự xâm lấn thứ phát từ các tổn thương lympho nguyên phát khác.
 
 ## Giai đoạn
 
@@ -88,22 +88,22 @@ Phân giai đoạn theo hệ FIGO 2018 (lâm sàng - hỗ trợ hình ảnh, sin
 
 ## Điều trị
 
-**Giai đoạn 0**:
+**Giai đoạn 0:**
 
 - Cắt nón cổ tử cung (cone biopsy): Ưu tiên cho phụ nữ còn nhu cầu sinh đẻ. Cắt đủ rộng để phẫu thuật đạt giới hạn âm tính ở rìa.
 - Loại bỏ cổ tử cung (LEEP/LLETZ): Sử dụng vòng điện/dao LEEP để loại bỏ mô bất thường.
 - Cắt tử cung toàn phần: Khi không còn nhu cầu sinh đẻ hoặc tổn thương vùng rộng không thể xử lý bằng cone/LEEP.
 - Theo dõi sau điều trị: Pap smear + HPV test mỗi 6 tháng trong 2 năm đầu. Nếu âm tính liên tiếp ≥ 2 lần, chuyển sang tầm soát định kỳ hàng năm.
 
-**Giai đoạn sớm (IA-IB1)**: Phẫu thuật bảo tồn (đối với IA1 không có yếu tố nguy cơ, lựa chọn giữ khả năng sinh sản) hoặc cắt tử cung toàn phần + vét hạch chậu.
+**Giai đoạn sớm (IA-IB1):** Phẫu thuật bảo tồn (đối với IA1 không có yếu tố nguy cơ, lựa chọn giữ khả năng sinh sản) hoặc cắt tử cung toàn phần + vét hạch chậu.
 
-**Giai đoạn trung gian (IB2-IIA2)**: Phẫu thuật triệt để (cắt tử cung tận gốc + vét hạch), có thể kết hợp hóa xạ trị bổ trợ tùy yếu tố nguy cơ.
+**Giai đoạn trung gian (IB2-IIA2):** Phẫu thuật triệt để (cắt tử cung tận gốc + vét hạch), có thể kết hợp hóa xạ trị bổ trợ tùy yếu tố nguy cơ.
 
-**Giai đoạn tiến triển (IIB-IVA)**: Hóa xạ trị đồng thời (xạ ngoài và xạ áp sát kết hợp cisplatin liều tuần).
+**Giai đoạn tiến triển (IIB-IVA):** Hóa xạ trị đồng thời (xạ ngoài và xạ áp sát kết hợp cisplatin liều tuần).
 
-**Giai đoạn di căn (IVB)**: Hóa chất toàn thân (combo cisplatin + paclitaxel, có thể thêm bevacizumab), xạ trị giảm nhẹ triệu chứng.
+**Giai đoạn di căn (IVB):** Hóa chất toàn thân (combo cisplatin + paclitaxel, có thể thêm bevacizumab), xạ trị giảm nhẹ triệu chứng.
 
-**Chăm sóc giảm nhẹ**: Đau, dinh dưỡng, hỗ trợ tâm lý, xử trí biến chứng (tắc nghẽn niệu quản, chèn ép tủy...).
+**Chăm sóc giảm nhẹ:** Đau, dinh dưỡng, hỗ trợ tâm lý, xử trí biến chứng (tắc nghẽn niệu quản, chèn ép tủy...).
 
 ## Tiên lượng
 

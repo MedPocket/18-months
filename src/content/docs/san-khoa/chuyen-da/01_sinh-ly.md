@@ -38,8 +38,8 @@ _Hình ảnh "Cơn co Braxton-Hicks là những cơn co thưa, không đều, kh
 
 Đặc điểm của xóa mở cổ tử cung:
 
-- **Xóa cổ tử cung**: Các thớ cơ dọc của thân tử cung co lại, kéo cổ tử cung lên trên, làm nó mỏng dần.
-- **Mở cổ tử cung**: Sự co rút các cơ tử cung kèm với sự tiến triển của ngôi thai và đầu ối tạo nên hiện tượng cổ tử cung giãn rộng ra.
+- **Xóa cổ tử cung:** Các thớ cơ dọc của thân tử cung co lại, kéo cổ tử cung lên trên, làm nó mỏng dần.
+- **Mở cổ tử cung:** Sự co rút các cơ tử cung kèm với sự tiến triển của ngôi thai và đầu ối tạo nên hiện tượng cổ tử cung giãn rộng ra.
 
 Hiện tượng này xảy ra chủ yếu nhờ:
 
@@ -82,21 +82,21 @@ Chuyển dạ gồm 3 giai đoạn:
 
 Xóa mở cổ tử cung chia thành 2 pha:
 
-- **Pha tiềm thời**: Cổ tử cung mềm dần, xóa và định hướng trục. Cơn co thưa, ngắn và không đều. Ngôi thai bắt đầu bình chỉnh. Được xác định khi cổ tử cung mở < 3cm.
-- **Pha hoạt động**: Cổ tử cung mở nhanh và hoàn tất xóa. Cơn co tử cung mạnh, đều, tăng dần về cường độ. Ngôi thai tiến triển trong đường sinh. Được xác định khi cổ tử cung mở ≥ 3cm.
+- **Pha tiềm thời:** Cổ tử cung mềm dần, xóa và định hướng trục. Cơn co thưa, ngắn và không đều. Ngôi thai bắt đầu bình chỉnh. Được xác định khi cổ tử cung mở < 3cm.
+- **Pha hoạt động:** Cổ tử cung mở nhanh và hoàn tất xóa. Cơn co tử cung mạnh, đều, tăng dần về cường độ. Ngôi thai tiến triển trong đường sinh. Được xác định khi cổ tử cung mở ≥ 3cm.
 
 _Hình ảnh "So sánh pha tiềm thời và pha hoạt động"_.
 ![So sánh pha tiềm thời và pha hoạt động](./_images/sinh-ly-chuyen-da/so-sanh-pha-tiem-thoi-va-pha-hoat-dong.png)
 
 ## Theo dõi
 
-Chuyển dạ là quá trình tương tác của **3 yếu tố chính - còn gọi là "3P"**:
+Chuyển dạ là quá trình tương tác của **3 yếu tố chính - còn gọi là "3P":**
 
-1. **Power - Cơn co tử cung**: Động lực chính tạo ra xóa mở cổ tử cung và đẩy thai xuống. Cơn co có hiệu quả khi nhịp nhàng, đều đặn và có biên độ lớn.
-2. **Passenger - Ngôi thai**: Kích thước, tư thế, kiểu thế của ngôi thai ảnh hưởng đến khả năng vượt qua khung chậu. Ngôi thai cần biến dạng phù hợp để thích nghi với đường sinh.
-3. **Passage - Đường sinh (khung chậu)**: Gồm khung chậu xương và phần mềm. Tạo ra lực cản và ảnh hưởng đến sự tiến triển của ngôi thai.
+1. **Power - Cơn co tử cung:** Động lực chính tạo ra xóa mở cổ tử cung và đẩy thai xuống. Cơn co có hiệu quả khi nhịp nhàng, đều đặn và có biên độ lớn.
+2. **Passenger - Ngôi thai:** Kích thước, tư thế, kiểu thế của ngôi thai ảnh hưởng đến khả năng vượt qua khung chậu. Ngôi thai cần biến dạng phù hợp để thích nghi với đường sinh.
+3. **Passage - Đường sinh (khung chậu):** Gồm khung chậu xương và phần mềm. Tạo ra lực cản và ảnh hưởng đến sự tiến triển của ngôi thai.
 
-Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo dõi bằng **biểu đồ chuyển dạ**:
+Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo dõi bằng **biểu đồ chuyển dạ:**
 
 1. Cường độ và tần số cơn co tử cung.
 2. Mức độ xóa mở cổ tử cung.

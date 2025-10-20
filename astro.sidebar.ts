@@ -215,9 +215,28 @@ export const sidebar = starlightSidebarTopics([
     link: "/ho-tro-sinh-san/",
     icon: "random",
     items: [
-      "ho-tro-sinh-san/buong-trung-da-nang",
+      "ho-tro-sinh-san/vo-sinh",
+      "ho-tro-sinh-san/khong-rung-trung",
+      "ho-tro-sinh-san/vo-sinh-nam",
+      "ho-tro-sinh-san/pcos",
+      "ho-tro-sinh-san/canh-niem-mac",
+      "ho-tro-sinh-san/hsg-sis",
       "ho-tro-sinh-san/tac-voi-trung",
-      "ho-tro-sinh-san/kich-trung",
+      {
+        label: "IUI",
+        autogenerate: {
+          directory: "ho-tro-sinh-san/iui",
+        },
+        collapsed: true,
+      },
+      {
+        label: "IVF",
+        autogenerate: {
+          directory: "ho-tro-sinh-san/ivf",
+        },
+        collapsed: true,
+      },
+      "ho-tro-sinh-san/ohss",
     ],
   },
 ]);

@@ -13,7 +13,7 @@ Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất c
 
 Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydrofolate - dạng hoạt động sinh học) có vai trò thiết yếu trong quá trình tạo mới tế bào và tổng hợp DNA.
 
-**Vai trò**:
+**Vai trò:**
 
 - Ngăn ngừa dị tật ống thần kinh (nứt đốt sống, não úng thủy).
 - Hỗ trợ phát triển não bộ và tủy sống thai nhi.
@@ -21,9 +21,9 @@ Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydro
 - Tăng cường chức năng tim mạch và thần kinh.
 - Hỗ trợ phân chia tế bào, tạo máu và hình thành nhau thai.
 
-**Tác dụng phụ**: Hiếm gặp; Liều rất cao có thể che giấu thiếu hụt vitamin B12 (gây rối loạn thần kinh).
+**Tác dụng phụ:** Hiếm gặp; Liều rất cao có thể che giấu thiếu hụt vitamin B12 (gây rối loạn thần kinh).
 
-**Nguồn thực phẩm**:
+**Nguồn thực phẩm:**
 
 - Rau lá xanh đậm: Bina, cải bó xôi, súp lơ xanh.
 - Gan động vật.
@@ -35,7 +35,7 @@ Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydro
 
 DHA là axit béo omega-3 chuỗi dài, rất cần thiết cho sự phát triển hệ thần kinh và thị giác:
 
-**Vai trò**:
+**Vai trò:**
 
 - Thúc đẩy phát triển não bộ và võng mạc, đặc biệt trong 3 tháng cuối thai kỳ và 2 năm đầu đời.
 - Tăng khả năng nhận thức, trí thông minh (IQ).
@@ -43,9 +43,9 @@ DHA là axit béo omega-3 chuỗi dài, rất cần thiết cho sự phát tri�
 - Giảm nguy cơ sinh non, nhẹ cân, trầm cảm sau sinh.
 - Hỗ trợ ổn định huyết áp, giảm nguy cơ tiền sản giật.
 
-**Tác dụng phụ**: Mùi tanh, ợ nóng nếu sản phẩm kém tinh khiết.
+**Tác dụng phụ:** Mùi tanh, ợ nóng nếu sản phẩm kém tinh khiết.
 
-**Nguồn thực phẩm**:
+**Nguồn thực phẩm:**
 
 - Cá béo: Cá hồi, cá thu, cá mòi (ưu tiên cá đánh bắt tự nhiên, tránh cá chứa thủy ngân).
 - Trứng bổ sung DHA, tảo biển.
@@ -56,19 +56,19 @@ DHA là axit béo omega-3 chuỗi dài, rất cần thiết cho sự phát tri�
 
 Sắt là khoáng chất thiết yếu tạo hemoglobin, giúp vận chuyển O₂:
 
-**Vai trò**:
+**Vai trò:**
 
 - Ngăn ngừa thiếu máu do thiếu sắt - tình trạng phổ biến trong thai kỳ.
 - Đảm bảo cung cấp O₂ đầy đủ cho thai nhi và cơ thể mẹ.
 - Giảm nguy cơ sinh non, thai nhẹ cân.
 - Hỗ trợ phát triển hệ miễn dịch và thần kinh của thai nhi.
 
-**Tác dụng phụ**:
+**Tác dụng phụ:**
 
 - Táo bón, phân sẫm màu, buồn nôn, đau dạ dày.
 - Giảm hấp thu nếu dùng cùng canxi hoặc thực phẩm giàu phytate.
 
-**Nguồn thực phẩm**:
+**Nguồn thực phẩm:**
 
 - Gan động vật, thịt đỏ (bò, cừu).
 - Hải sản: Sò huyết, ngao, hến.
@@ -79,16 +79,16 @@ Sắt là khoáng chất thiết yếu tạo hemoglobin, giúp vận chuyển O�
 
 Canxi là thành phần chính cấu tạo xương, răng và hỗ trợ chức năng cơ bắp, thần kinh:
 
-**Vai trò**:
+**Vai trò:**
 
 - Hình thành và phát triển hệ xương, răng cho thai nhi.
 - Bảo vệ mẹ khỏi loãng xương trong và sau thai kỳ.
 - Hỗ trợ co cơ, dẫn truyền thần kinh, điều hòa huyết áp.
 - Giảm nguy cơ tiền sản giật và chuột rút cơ.
 
-**Tác dụng phụ**: Táo bón, đầy bụng khi dùng liều cao hoặc dạng khó hấp thu.
+**Tác dụng phụ:** Táo bón, đầy bụng khi dùng liều cao hoặc dạng khó hấp thu.
 
-**Nguồn thực phẩm**:
+**Nguồn thực phẩm:**
 
 - Sữa, phô mai, sữa chua.
 - Cá nhỏ ăn cả xương: Cá cơm, cá mòi.
@@ -100,7 +100,7 @@ Canxi là thành phần chính cấu tạo xương, răng và hỗ trợ chức 
 
 Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong cơ thể:
 
-**Vai trò**:
+**Vai trò:**
 
 - Giảm chuột rút, cải thiện giấc ngủ và thư giãn cơ bắp.
 - Điều hòa huyết áp, hỗ trợ giảm nguy cơ tiền sản giật.
@@ -108,9 +108,9 @@ Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong c�
 - Giảm lo âu, cải thiện tâm trạng.
 - Hỗ trợ nhịp tim ổn định và chức năng thần kinh.
 
-**Tác dụng phụ**: Tiêu chảy nếu dùng quá liều hoặc dạng magie không phù hợp.
+**Tác dụng phụ:** Tiêu chảy nếu dùng quá liều hoặc dạng magie không phù hợp.
 
-**Nguồn thực phẩm**:
+**Nguồn thực phẩm:**
 
 - Hạt: Bí, hướng dương, điều.
 - Các loại đậu: Đậu đen, đỏ, nành.
@@ -119,6 +119,8 @@ Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong c�
 - Ngũ cốc nguyên hạt: Yến mạch, gạo lứt.
 
 ## Nhu cầu
+
+_Bảng "Bổ sung vi chất trong thai kỳ"_.
 
 | Giai đoạn                          | Acid folic      | DHA             | Sắt                        | Canxi                  | Magie                           |
 | ---------------------------------- | --------------- | --------------- | -------------------------- | ---------------------- | ------------------------------- |
@@ -134,6 +136,8 @@ Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong c�
 :::
 
 ## Hướng dẫn
+
+_Bảng "Sử dụng vi chất trong ngày"_.
 
 | Buổi     | Sản phẩm bổ sung | Hướng dẫn bổ sung hằng ngày                                                           |
 | -------- | ---------------- | ------------------------------------------------------------------------------------- |

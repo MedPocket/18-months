@@ -25,15 +25,17 @@ Chẩn đoán xác định khi quan sát thấy dịch lỏng chảy ra đột n
 
 ### Cận lâm sàng
 
-**Test Nitrazine**: Dựa trên nguyên lý dịch âm đạo và nước tiểu có tính acid, còn nước ối có tính kiềm. Dùng giấy thử Nitrazine nhúng vào dịch tại lưỡi mỏ vịt. Nếu có nước ối, giấy sẽ đổi màu từ **vàng sang xanh lam**. Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một số nhiễm trùng âm đạo.
+**Test Nitrazine:** Dựa trên nguyên lý dịch âm đạo và nước tiểu có tính acid, còn nước ối có tính kiềm. Dùng giấy thử Nitrazine nhúng vào dịch tại lưỡi mỏ vịt. Nếu có nước ối, giấy sẽ đổi màu từ **vàng sang xanh lam.** Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một số nhiễm trùng âm đạo.
 
-**Test dương sỉ**: Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới tác dụng của estrogen, tạo hình ảnh như **lá dương xỉ** khi quan sát dưới kính hiển vi sau khi làm khô lam kính. Dễ gặp kết quả âm tính giả.
+**Test dương sỉ:** Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới tác dụng của estrogen, tạo hình ảnh như **lá dương xỉ** khi quan sát dưới kính hiển vi sau khi làm khô lam kính. Dễ gặp kết quả âm tính giả.
 
-**Siêu âm**: Đánh giá lượng nước ối, ngôi thai, sự phát triển thai.
+**Siêu âm:** Đánh giá lượng nước ối, ngôi thai, sự phát triển thai.
 
-**Xét nghiệm cơ bản**: **Công thức máu, CRP** đánh giá nhiễm trùng. **CTG hoặc Non-stress test** nếu cần thiết. **Xét nghiệm liên cầu nhóm B (GBS)** nếu có chỉ định.
+**Xét nghiệm cơ bản:** **Công thức máu, CRP** đánh giá nhiễm trùng. **CTG hoặc Non-stress test** nếu cần thiết. **Xét nghiệm liên cầu nhóm B (GBS)** nếu có chỉ định.
 
 ### Chẩn đoán phân biệt
+
+_Bảng "Chẩn đoán phân biệt ối vỡ non"_.
 
 | Triệu chứng hiện hữu và dấu hiệu điển hình               | Triệu chứng/dấu hiệu không thường xuyên                                                       | Khả năng chẩn đoán           |
 | -------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ---------------------------- |
@@ -54,7 +56,7 @@ Xử trí ối vỡ non phụ thuộc vào 2 yếu tố chính:
 
 ### Có dấu hiệu nhiễm trùng
 
-Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhiễm trùng ối**:
+Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhiễm trùng ối:**
 
 - **Chỉ định kháng sinh** theo phác đồ điều trị nhiễm trùng ối.
 - **Chấm dứt thai kỳ ngay**, không phụ thuộc tuổi thai.
@@ -64,39 +66,39 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
 #### Điều trị mong đợi
 
-Áp dụng khi **thai < 34 tuần**, **không có dấu hiệu nhiễm trùng**, **không có đe dọa mẹ và thai**.
+Áp dụng khi **thai < 34 tuần**, **không có dấu hiệu nhiễm trùng**, **không có đe dọa mẹ và thai.**
 
 **Kháng sinh dự phòng** để giảm nguy cơ nhiễm trùng và trì hoãn sinh. Mục tiêu là phòng ngừa nhiễm Streptococcus nhóm B. **Không dùng Amoxicillin + Acid Clavulanic** vì có nguy cơ gây **viêm ruột hoại tử** ở sơ sinh.
 
-**Phác đồ khuyến cáo 1**:
+**Phác đồ khuyến cáo 1:**
 
 - Azithromycin 1 g (uống) khi nhập viện.
-- Ampicillin 2 g (tĩnh mạch chậm) mỗi 6 giờ × 48 giờ.
-- Sau đó Amoxicillin 500mg (uống) mỗi 8 giờ × 5 ngày.
+- Ampicillin 2 g (tĩnh mạch chậm) mỗi 6 giờ x 48 giờ.
+- Sau đó Amoxicillin 500mg (uống) mỗi 8 giờ x 5 ngày.
 
-**Phác đồ khuyến cáo 2**:
+**Phác đồ khuyến cáo 2:**
 
 - Ampicillin 1 g (uống) khi nhập viện.
-- Cefazolin 1 g (tĩnh mạch chậm) mỗi 8 giờ × 48 giờ.
-- Sau đó Cephalexin 500mg (uống) mỗi 6 giờ × 5 ngày.
+- Cefazolin 1 g (tĩnh mạch chậm) mỗi 8 giờ x 48 giờ.
+- Sau đó Cephalexin 500mg (uống) mỗi 6 giờ x 5 ngày.
 
-**Phác đồ dị ứng nặng với Penicillin**:
-
-- Azithromycin 1 g (uống) khi nhập viện.
-- Clindamycin 900 mg (truyền TM) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền TM) mỗi 24 giờ × 48 giờ.
-- Sau đó Clindamycin 300mg (uống) mỗi 8 giờ × 5 ngày.
-
-**Phác đồ GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ**:
+**Phác đồ dị ứng nặng với Penicillin:**
 
 - Azithromycin 1 g (uống) khi nhập viện.
-- Vancomycin 20 mg/kg (tối đa 2 g/ngày) mỗi 24 giờ × 48 giờ.
+- Clindamycin 900 mg (truyền TM) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền TM) mỗi 24 giờ x 48 giờ.
+- Sau đó Clindamycin 300mg (uống) mỗi 8 giờ x 5 ngày.
+
+**Phác đồ GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ:**
+
+- Azithromycin 1 g (uống) khi nhập viện.
+- Vancomycin 20 mg/kg (tối đa 2 g/ngày) mỗi 24 giờ x 48 giờ.
 - Cần đo creatinine trước dùng. Cân nhắc độc tính thận ở liều cao hoặc thời gian dùng kéo dài.
 
 **Corticosteroids** dùng sớm cho mẹ để giảm nguy cơ suy hô hấp sơ sinh, ngay cả khi chưa chắc đủ thời gian hoàn tất phác đồ.
 
-**Không dùng thuốc cắt cơn chuyển dạ**.
+**Không dùng thuốc cắt cơn chuyển dạ.**
 
-**Theo dõi sau dùng kháng sinh**:
+**Theo dõi sau dùng kháng sinh:**
 
 - Xét nghiệm máu mỗi 48 giờ hoặc khi nghi ngờ nhiễm trùng.
 - Siêu âm kiểm tra chỉ số ối mỗi 48 giờ (nếu bình thường) hoặc mỗi ngày (nếu thiểu ối).
@@ -111,7 +113,7 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
 #### Chấm dứt thai kỳ
 
-**Chỉ định**:
+**Chỉ định:**
 
 - Tuổi thai ≥ 34 tuần hoặc < 24 tuần.
 - Có chuyển dạ.
@@ -122,30 +124,30 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
 **MgSO₄** bảo vệ não sơ sinh:
 
-- **Chỉ định**: Thai 24-< 32 tuần có nguy cơ sinh non trong 24 giờ. Dùng thường quy từ 28-< 32 tuần, cân nhắc từ 24-< 28 tuần.
-- **Chống chỉ định**: Nhược cơ.
-- **Liều dùng**: 4.5g tĩnh mạch chậm trong 20-30 phút. Nên truyền trước sinh 4 giờ.
-- **Thận trọng**: Tiền sử thiếu máu cơ tim, rối loạn dẫn truyền.
+- **Chỉ định:** Thai 24-< 32 tuần có nguy cơ sinh non trong 24 giờ. Dùng thường quy từ 28-< 32 tuần, cân nhắc từ 24-< 28 tuần.
+- **Chống chỉ định:** Nhược cơ.
+- **Liều dùng:** 4.5g tĩnh mạch chậm trong 20-30 phút. Nên truyền trước sinh 4 giờ.
+- **Thận trọng:** Tiền sử thiếu máu cơ tim, rối loạn dẫn truyền.
 
-**Trong chuyển dạ**:
+**Trong chuyển dạ:**
 
 - Đánh giá tiến triển mỗi 4 giờ (giai đoạn tiềm tàng), mỗi 1-2 giờ (giai đoạn hoạt động).
 - Theo dõi nhiễm trùng ối.
 - Nếu ối vỡ > 12 giờ, dùng kháng sinh dự phòng GBS, ngưng nếu sau sinh không có dấu hiệu nhiễm trùng.
 
-**Phương pháp chấm dứt thai kỳ**:
+**Phương pháp chấm dứt thai kỳ:**
 
 - Ưu tiên sinh thường, mổ lấy thai khi có chỉ định.
 - Nếu chưa có chuyển dạ sau 12 giờ, khởi phát tùy Bishop: Bishop ≥ 6 khởi phát bằng Oxytocin. Bishop < 6 làm chín muồi cổ tử cung bằng Prostaglandin E2 trước Oxytocin.
 
 ## Nhiễm trùng ối
 
-Là tình trạng nhiễm trùng ngoại khoa cần xử lý ngay. **Nguyên tắc**:
+Là tình trạng nhiễm trùng ngoại khoa cần xử lý ngay. **Nguyên tắc:**
 
 - Dùng kháng sinh phổ rộng phối hợp.
 - Chấm dứt thai kỳ càng sớm càng tốt.
 
-**Không xử trí triệt để sẽ dẫn đến nhiễm trùng huyết và tử vong**.
+**Không xử trí triệt để sẽ dẫn đến nhiễm trùng huyết và tử vong.**
 
 Dùng kháng sinh đến khi sinh và ít nhất **48 giờ sau sinh**, nếu không còn dấu hiệu nhiễm trùng.
 

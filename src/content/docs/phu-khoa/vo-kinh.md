@@ -11,11 +11,11 @@ description: Định nghĩa, bệnh sinh, nguyên nhân, đánh giá chẩn đo�
 - Chưa có kinh nguyệt trong vòng 5 năm sau khi phát triển vú nếu tuyến vú phát triển trước 10 tuổi.
 - Không phát triển vú ở tuổi 13.
 
-**Vô kinh thứ phát**: Không có kinh nguyệt ≥ 3 tháng ở người có kinh nguyệt đều, hoặc ≥ 6 tháng ở người có kinh nguyệt không đều.
+**Vô kinh thứ phát:** Không có kinh nguyệt ≥ 3 tháng ở người có kinh nguyệt đều, hoặc ≥ 6 tháng ở người có kinh nguyệt không đều.
 
 ## Bệnh sinh
 
-Khi một phần của trục hạ đồi-yên-buồng trứng gặp trục trặc, sự rối loạn chức năng rụng trứng sẽ dẫn đến:
+Khi trục hạ đồi-yên-buồng trứng gặp trục trặc, sự rối loạn chức năng rụng trứng sẽ dẫn đến:
 
 - Chu kỳ sản sinh estrogen do gonadotropin kích thích bị gián đoạn.
 - Nội mạc tử cung không phát triển theo chu kỳ.
@@ -38,6 +38,8 @@ Mặc dù có nhiều nguyên nhân khác nhau, nhưng hầu hết các trườn
 
 **Thường gặp nhất ở vô kinh thứ phát**, có thể là nguyên phát nếu rụng trứng chưa từng khởi phát (dậy thì muộn, bất thường giới tính, hội chứng nhiễm sắc thể Y...). Nguyên nhân chính liên quan đến trục hạ đồi-yên-buồng trứng.
 
+_Bảng "Nguyên nhân vô kinh do rối loạn chức năng rụng trứng"_.
+
 | Nguyên nhân vô kinh do rối loạn chức năng rụng trứng | Ví dụ điển hình                                                                                                                                                                                                                                                       |
 | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Rối loạn vùng dưới đồi**                           | - Giảm sản sinh GnRH: Do thiếu hụt năng lượng (ăn kiêng quá mức, tập luyện nặng), stress, bệnh mạn tính.<br>- Rối loạn di truyền: Thiếu hụt GnRH bẩm sinh, hội chứng Prader-Willi.<br>- Xâm lấn hoặc tổn thương (u, nhiễm lao, lymphoma, chấn thương sọ não, xạ trị). |
@@ -47,7 +49,9 @@ Mặc dù có nhiều nguyên nhân khác nhau, nhưng hầu hết các trườn
 
 ### Bất thường giải phẫu đường sinh dục
 
-**Dòng chảy kinh nguyệt bị tắc nghẽn dù nội tiết bình thường**. Hậu quả bế kinh (âm đạo/phúc mạc phồng), tích huyết tử cung (tử cung to, có thể nhầm khối vùng chậu).
+**Dòng chảy kinh nguyệt bị tắc nghẽn dù nội tiết bình thường.** Hậu quả bế kinh (âm đạo/phúc mạc phồng), tích huyết tử cung (tử cung to, có thể nhầm khối vùng chậu).
+
+_Bảng "Nguyên nhân vô kinh do bất thường sinh dục"_.
 
 | Nguyên nhân vô kinh do bất thường đường sinh dục | Ví dụ                                                                   |
 | ------------------------------------------------ | ----------------------------------------------------------------------- |
@@ -83,7 +87,7 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 - < 9 kỳ/năm hoặc chu kỳ > 38 ngày.
 - Thay đổi liên tục về tần suất, khối lượng, thời gian.
 
-**Các thông tin khác**:
+**Các thông tin khác:**
 
 - Ngày đầu kỳ kinh cuối, độ dài và độ đều chu kỳ, lượng và mô tả kinh nguyệt.
 - Triệu chứng kèm: Đau bụng, đau vú, thay đổi tâm trạng.
@@ -91,10 +95,10 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 
 #### Thực thể
 
-- **Đánh giá dấu hiệu dậy thì**: Giai đoạn Tanner.
-- **Khám tuyến vú**: Tiết sữa.
-- **Khám vùng chậu**: Ấm hộ, âm đạo, cổ tử cung, tử cung, buồng trứng.
-- **Dấu hiệu nội tiết**: Nam hóa, rậm lông, sắc tố da (acanthosis nigricans), triệu chứng suy giáp/cường giáp.
+- **Đánh giá dấu hiệu dậy thì:** Giai đoạn Tanner.
+- **Khám tuyến vú:** Tiết sữa.
+- **Khám vùng chậu:** Ấm hộ, âm đạo, cổ tử cung, tử cung, buồng trứng.
+- **Dấu hiệu nội tiết:** Nam hóa, rậm lông, sắc tố da (acanthosis nigricans), triệu chứng suy giáp/cường giáp.
 - Sinh hiệu, BMI, dấu hiệu cảm ứng stress hay biếng ăn.
 
 ### Cận lâm sàng
@@ -114,18 +118,18 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 
 #### Thử nghiệm nội tiết động
 
-- **Thử thách progestin** (medroxyprogesterone 5-10 mg × 7-10 ngày).
+- **Thử thách progestin** (medroxyprogesterone 5-10 mg x 7-10 ngày).
 - **Thử thách estrogen/progestin** (estrogen 21 ngày + progestin 7-10 ngày).
-- **Thử nghiệm clomiphene hoặc gonadotropin stimulation**.
+- **Thử nghiệm clomiphene hoặc gonadotropin stimulation.**
 
 ## Điều trị
 
-Điều trị tùy **theo nguyên nhân** và **mong muốn sinh đẻ**:
+Điều trị tùy **theo nguyên nhân** và **mong muốn sinh đẻ:**
 
-- **Gây rụng trứng**: Clomiphene citrate, letrozole, gonadotropin.
-- **Thay thế hormon**: Vòng kinh nhân tạo (estriol 1 mg × 14 ngày → kết hợp estrogen/progestin 12 ngày; Dừng 2 ngày để xuất huyết); Điều trị kéo dài để phòng loãng xương, khô âm đạo.
-- **Giảm thừa androgen**: Spironolactone, thuốc ức chế androgen, biện pháp tẩy lông.
-- **Phẫu thuật hoặc can thiệp giải phẫu**: Nong/khâu mở cổ tử cung, tách dính trong Asherman; Điều trị u vùng hạ đồi/tuyến yên.
+- **Gây rụng trứng:** Clomiphene citrate, letrozole, gonadotropin.
+- **Thay thế hormon:** Vòng kinh nhân tạo (estriol 1 mg x 14 ngày → kết hợp estrogen/progestin 12 ngày; Dừng 2 ngày để xuất huyết); Điều trị kéo dài để phòng loãng xương, khô âm đạo.
+- **Giảm thừa androgen:** Spironolactone, thuốc ức chế androgen, biện pháp tẩy lông.
+- **Phẫu thuật hoặc can thiệp giải phẫu:** Nong/khâu mở cổ tử cung, tách dính trong Asherman; Điều trị u vùng hạ đồi/tuyến yên.
 
 ## Tài liệu tham khảo
 

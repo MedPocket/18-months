@@ -34,15 +34,15 @@ Thai lưu là tình trạng thai chết trong tử cung sau tuần thứ 20 củ
 
 Thai chết trong tử cung trải qua các giai đoạn biến đổi đặc trưng:
 
-- **Giai đoạn sớm (vài giờ - vài ngày)**: Thai mềm, mô bắt đầu thoái hóa.
-- **Giai đoạn ngấm nước (thai 3-4 ngày)**: Da bong tróc, xuất huyết dưới da, dịch hồng thấm qua da.
-- **Giai đoạn da tím xanh (thai 1-2 tuần)**: Da nhăn, đổi màu tím xanh, dịch ối có màu nâu sẫm.
-- **Giai đoạn teo khô (thai chết lâu, vài tuần)**: Thai teo nhỏ, da khô nhăn như xác ướp (thai khô).
+- **Giai đoạn sớm (vài giờ - vài ngày):** Thai mềm, mô bắt đầu thoái hóa.
+- **Giai đoạn ngấm nước (thai 3-4 ngày):** Da bong tróc, xuất huyết dưới da, dịch hồng thấm qua da.
+- **Giai đoạn da tím xanh (thai 1-2 tuần):** Da nhăn, đổi màu tím xanh, dịch ối có màu nâu sẫm.
+- **Giai đoạn teo khô (thai chết lâu, vài tuần):** Thai teo nhỏ, da khô nhăn như xác ướp (thai khô).
 
 ### Cận lâm sàng
 
-- **Siêu âm**: Không có hoạt động tim thai, không thấy cử động, hình ảnh phù thai, thoái hóa mô thai.
-- **Xét nghiệm**: β-hCG giảm, fibrinogen giảm, D-dimer tăng, có thể rối loạn đông máu.
+- **Siêu âm:** Không có hoạt động tim thai, không thấy cử động, hình ảnh phù thai, thoái hóa mô thai.
+- **Xét nghiệm:** β-hCG giảm, fibrinogen giảm, D-dimer tăng, có thể rối loạn đông máu.
 
 ## Biến chứng
 
@@ -63,12 +63,12 @@ Thai chết trong tử cung trải qua các giai đoạn biến đổi đặc tr
 
 ### Nội khoa
 
-**Thai < 20-24 tuần**:
+**Thai < 20-24 tuần:**
 
 - Misoprostol đường âm đạo/ngoài tử cung để gây co tử cung.
 - Có thể phối hợp mifepristone nếu có điều kiện.
 
-**Thai ≥ 24 tuần hoặc tử cung lớn**:
+**Thai ≥ 24 tuần hoặc tử cung lớn:**
 
 - Truyền oxytocin tăng dần liều để gây chuyển dạ.
 - Nếu cổ tử cung chưa thuận lợi, có thể đặt bóng Foley hoặc dùng prostaglandin.
@@ -79,22 +79,22 @@ Theo dõi huyết động, xét nghiệm đông máu.
 
 ### Ngoại khoa
 
-**Hút thai/nong nạo tử cung**: Khi tuổi thai nhỏ, cổ tử cung thuận lợi.
+**Hút thai/nong nạo tử cung:** Khi tuổi thai nhỏ, cổ tử cung thuận lợi.
 
-**Mổ lấy thai**:
+**Mổ lấy thai:**
 
 - Khi có chống chỉ định gây chuyển dạ (sẹo mổ cũ nhiều lần, bất thường khung chậu).
 - Khi thất bại với nội khoa hoặc có biến chứng cấp cứu.
 
 ### Xử trí biến chứng
 
-**Rối loạn đông máu**: Truyền huyết tương tươi đông lạnh, fibrinogen, tiểu cầu.
+**Rối loạn đông máu:** Truyền huyết tương tươi đông lạnh, fibrinogen, tiểu cầu.
 
-**Băng huyết sau sổ thai**: Uterotonics (oxytocin, misoprostol), nạo kiểm soát buồng tử cung, thắt động mạch tử cung, cắt tử cung khi cần.
+**Băng huyết sau sổ thai:** Uterotonics (oxytocin, misoprostol), nạo kiểm soát buồng tử cung, thắt động mạch tử cung, cắt tử cung khi cần.
 
-**Nhiễm trùng**: Kháng sinh phổ rộng, dẫn lưu ổ nhiễm, nạo buồng tử cung nếu cần.
+**Nhiễm trùng:** Kháng sinh phổ rộng, dẫn lưu ổ nhiễm, nạo buồng tử cung nếu cần.
 
-## Nguồn tham khảo
+## Tài liệu tham khảo
 
 - Bộ Y tế Việt Nam - _Hướng dẫn chẩn đoán và xử trí thai lưu_
 - Cunningham F.G. et al - _Williams Obstetrics_

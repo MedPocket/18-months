@@ -7,12 +7,12 @@ description: Đẻ non (sinh non) và dọa đẻ non là tình trạng thai k�
 
 ## Phân loại
 
-- **Sinh cực non**: < 28 tuần.
-- **Sinh rất non**: 28 đến < 32 tuần.
-- **Sinh non vừa**: 32 đến < 34 tuần.
-- **Sinh non muộn**: 34 đến < 37 tuần.
-- **Gần đủ tháng**: 37 đến < 39 tuần.
-- **Đủ tháng**: 39 đến 41 tuần.
+- **Sinh cực non:** < 28 tuần.
+- **Sinh rất non:** 28 đến < 32 tuần.
+- **Sinh non vừa:** 32 đến < 34 tuần.
+- **Sinh non muộn:** 34 đến < 37 tuần.
+- **Gần đủ tháng:** 37 đến < 39 tuần.
+- **Đủ tháng:** 39 đến 41 tuần.
 
 ## Bệnh sinh
 
@@ -79,8 +79,8 @@ _Hình ảnh "Hình dạng lỗ tử cung"_.
 
 ### Xét nghiệm sinh hóa
 
-- **Fetal Fibronectin (fFN)**: Giá trị dự báo âm quan trọng, dự báo dương giới hạn.
-- **PAMG-1 (Placental α-microglobulin-1)**: Tương tự fFN, nhưng khi (+) cho khả năng chuyển dạ gấp 4 lần so với fFN.
+- **Fetal Fibronectin (fFN):** Giá trị dự báo âm quan trọng, dự báo dương giới hạn.
+- **PAMG-1 (Placental α-microglobulin-1):** Tương tự fFN, nhưng khi (+) cho khả năng chuyển dạ gấp 4 lần so với fFN.
 
 ## Chẩn đoán
 
@@ -115,6 +115,8 @@ Biểu hiện kèm: Ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng 
 
 ### Thuốc cắt cơn gò
 
+_Bảng "Thuốc cắt cơn gò"_.
+
 | Thuốc cắt cơn gò                 | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                      | Lưu ý                                                                                                                            |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | **Đối vận với thụ thể oxytocin** | Đối vận với thụ thể của oxytocin trên cơ tử cung, ngăn cản tác dụng co cơ tử cung của oxytocin nội sinh | Hiện không có tác dụng phụ quan trọng được ghi nhận                                                                                                                               | Là thuốc duy nhất được dán nhãn (_labelled_) cho điều trị sinh non                                                               |
@@ -140,16 +142,16 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 #### Đối vận với oxytocin
 
-**Cơ chế**: Antosiban (Tractocile) có cấu trúc mô phỏng peptide 9 của oxytocin. Đây là peptide tổng hợp có tác dụng đối kháng cạnh tranh với oxytocin, làm giảm tần số cơn gò và trương lực cơ tử cung, đồng thời gắn kết với các thụ thể vasopressin.
+**Cơ chế:** Antosiban (Tractocile) có cấu trúc mô phỏng peptide 9 của oxytocin. Đây là peptide tổng hợp có tác dụng đối kháng cạnh tranh với oxytocin, làm giảm tần số cơn gò và trương lực cơ tử cung, đồng thời gắn kết với các thụ thể vasopressin.
 
-**Chống chỉ định**:
+**Chống chỉ định:**
 
 - Mẹ bị dị ứng với thuốc.
 - Ối vỡ non thai từ 30 tuần.
 - Thai chậm phát triển trong tử cung.
 - Nhau tiền đạo.
 
-**Liều dùng**:
+**Liều dùng:**
 
 - **Liều tấn công** lọ 1 (37.5 mg/5 mL) lấy 6.75 mg (0.9 mL) pha vào 10 mL Ringer lactate, tiêm TM chậm > 1 phút (còn 4.1 mL).
 - **Liều duy trì** với lọ 1 còn 30.75 mg (4.1 mL) pha 36.9 mL Ringer lactate, truyền bơm tiêm điện 24 mL/h. Sau đó pha tiếp lọ 2 (37.5 mg/5 mL) trong 45 mL Ringer lactate, truyền 24 mL/h trong 3 giờ đầu.
@@ -157,13 +159,13 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 **Tác dụng phụ** thường nhẹ: Buồn nôn, nhức đầu, chóng mặt, bừng nóng, nôn, nhịp tim nhanh, dị ứng thuốc.
 
-**Theo dõi**: Tim thai và cơn gò trên monitor trong 1 giờ đầu điều trị.
+**Theo dõi:** Tim thai và cơn gò trên monitor trong 1 giờ đầu điều trị.
 
 #### Ức chế calcium
 
-**Cơ chế**: Nifedipine ức chế kênh calci type II, có nhiều ở mạch máu, tử cung và bàng quang. Gây dãn cơ trơn, giảm lượng calci vào tế bào. Hoạt động trên cơ trơn mạch gấp 18 lần so với cơ tim, ảnh hưởng huyết động, giảm huyết áp động mạch và tăng nhịp tim.
+**Cơ chế:** Nifedipine ức chế kênh calci type II, có nhiều ở mạch máu, tử cung và bàng quang. Gây dãn cơ trơn, giảm lượng calci vào tế bào. Hoạt động trên cơ trơn mạch gấp 18 lần so với cơ tim, ảnh hưởng huyết động, giảm huyết áp động mạch và tăng nhịp tim.
 
-**Chống chỉ định**:
+**Chống chỉ định:**
 
 - Huyết áp mẹ < 90/50 mmHg hoặc có bệnh tim mạch nặng.
 - Rối loạn chức năng gan hoặc thận.
@@ -171,12 +173,12 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 - Đa thai.
 - Mẫn cảm với nifedipine, nicardipine.
 
-**Liều dùng**:
+**Liều dùng:**
 
 - Liều tấn công 20-30 mg viên tác dụng nhanh, hiệu quả sau 20-30 phút.
 - Tiếp tục 10-20 mg mỗi 3-8 giờ, tối đa 48 giờ, liều tối đa 180 mg/ngày.
 
-**Tác dụng phụ**:
+**Tác dụng phụ:**
 
 - Đau đầu.
 - Nổi mẩn.
@@ -187,7 +189,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 - Phù chi dưới.
 - Suy thai.
 
-**Theo dõi**:
+**Theo dõi:**
 
 - Mạch và huyết áp mẹ mỗi 30 phút trong 1 giờ đầu, sau đó 30 phút sau mỗi liều.
 - Monitor tim thai và cơn gò 1 giờ liều đầu và mỗi 6 giờ sau đó.
@@ -195,9 +197,9 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 #### Betamimetics
 
-**Cơ chế**: Betamimetics (ví dụ Salbutamol) là dẫn xuất catecholamines làm dãn cơ tử cung và cơ trơn khác qua kích thích thụ thể β₂.
+**Cơ chế:** Betamimetics (ví dụ Salbutamol) là dẫn xuất catecholamines làm dãn cơ tử cung và cơ trơn khác qua kích thích thụ thể β₂.
 
-**Chống chỉ định**:
+**Chống chỉ định:**
 
 - Mẹ có bệnh tim mạch.
 - Tăng huyết áp nặng hoặc không kiểm soát.
@@ -206,15 +208,15 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 - Bệnh tuyến giáp hoặc dị ứng với thuốc.
 - Đa thai.
 
-**Liều dùng**:
+**Liều dùng:**
 
 - Hạn chế dịch truyền nhất ở song thai hoặc đang dùng corticosteroids.
 - Pha 5 mg Salbutamol/5 mL trong 95 mL NaCl 0.9%; Truyền 12 mL/h (10 µg/phút), tăng 4 mL/h mỗi 30 phút đến khi cắt cơn hoặc mẹ đạt nhịp tim ≥ 120 lần/phút hoặc tối đa 36 mL/h.
 - Có thể truyền TM pha 5 mg Salbutamol/5 mL trong dung dịch glucose 5% (10 µg/mL), tốc độ 60 mL/h (10 µg/phút), tăng 20 mL/h mỗi 30 phút đến khi cắt cơn hoặc nhịp tim mẹ ≥ 120 lần/phút hoặc tối đa 180 mL/h.
 - Thời gian điều trị đường TM 24-48 giờ.
-- Duy trì uống/đặt: Ventolin 2 viên × 4-6 viên/ngày hoặc Salbutamol 1 viên × 1-3 viên/ngày (đặt hậu môn).
+- Duy trì uống/đặt: Ventolin 2 viên x 4-6 viên/ngày hoặc Salbutamol 1 viên x 1-3 viên/ngày (đặt hậu môn).
 
-**Theo dõi**:
+**Theo dõi:**
 
 - Mạch và huyết áp mẹ mỗi 15 phút trong 1 giờ đầu, sau đó mỗi 4 giờ.
 - Theo dõi lượng nước tiểu (thiểu niệu là dấu hiệu ngộ độc).
@@ -223,27 +225,27 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 ### Liệu pháp corticosteroids
 
-**Chỉ định**: Sinh non dự kiến 24-34 tuần, có nguy cơ trong 7 ngày.
+**Chỉ định:** Sinh non dự kiến 24-34 tuần, có nguy cơ trong 7 ngày.
 
-**Liều dùng**:
+**Liều dùng:**
 
-- Betamethasone 12 mg bắp × 2 liều cách 24 giờ.
-- Hoặc dexamethasone 6 mg bắp × 4 liều cách 12 giờ.
+- Betamethasone 12 mg bắp x 2 liều cách 24 giờ.
+- Hoặc dexamethasone 6 mg bắp x 4 liều cách 12 giờ.
 
 Xem xét lặp lại sau 7-14 ngày nếu còn nguy cơ và < 34 tuần.
 
 ### Bảo vệ thần kinh thai bằng MgSO₄
 
-MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ định**:
+MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ định:**
 
 - Thai 24-31 tuần 6 ngày có nguy cơ sinh non trong 24 giờ.
 - Dùng lý tưởng 4 giờ trước sinh khi có chỉ định chấm dứt thai kỳ.
 
-**Chống chỉ định**: Mẹ bị nhược cơ.
+**Chống chỉ định:** Mẹ bị nhược cơ.
 
-**Thận trọng**: Mẹ có bệnh cơ tim hoặc rối loạn dẫn truyền nhịp.
+**Thận trọng:** Mẹ có bệnh cơ tim hoặc rối loạn dẫn truyền nhịp.
 
-**Liều dùng**:
+**Liều dùng:**
 
 - MgSO₄ 4.5 g truyền TM chậm 20-30 phút.
 - Giảm liều nếu thiểu niệu hoặc suy thận.
@@ -256,7 +258,7 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 - Điều trị nhiễm trùng sinh dục trước và trong thai kỳ.
 - Giảm số phôi chuyển IVF để hạn chế đa thai.
 
-**Ba biện pháp dự phòng chính**:
+**Ba biện pháp dự phòng chính:**
 
 1. Progesterone.
 2. Khâu vòng cổ tử cung.
@@ -265,7 +267,7 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 ### Progesterone
 
 - Dùng cho thai phụ có cổ tử cung < 25 mm hoặc tiền sử sinh non.
-- **Tác dụng phụ**: Mẹ có thể bị ứ mật trong thai kỳ.
+- **Tác dụng phụ:** Mẹ có thể bị ứ mật trong thai kỳ.
 
 ### Khâu vòng cổ tử cung
 

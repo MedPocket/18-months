@@ -15,17 +15,17 @@ Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm
 _Hình ảnh "3 yếu tố dẫn đến mất cân bằng giữa hệ vi sinh (microbiome) và hệ vi nấm (mycobiome): Tổn thương niêm mạc, kháng sinh và rối loạn miễn dịch"_.
 ![Yếu tố nguy cơ viêm âm đạo do nấm](./_images/viem-am-dao-do-nam/yeu-to-nguy-co-cua-nam.png)
 
-1. **Tổn thương niêm mạc âm đạo**: Trầy xước, viêm loét do quan hệ tình dục thô bạo, thủ thuật y khoa, hoặc kích ứng hóa chất.
-2. **Sử dụng kháng sinh**: Kháng sinh diệt vi khuẩn nhưng cũng tiêu diệt Lactobacilli bảo vệ, tạo điều kiện cho nấm phát triển.
-3. **Rối loạn miễn dịch và tăng glycogen âm đạo**: Thai kỳ, đái tháo đường, dùng thuốc ngừa thai chứa estrogen liều cao, suy giảm miễn dịch, môi trường âm đạo ẩm ướt, dùng corticosteroids.
+1. **Tổn thương niêm mạc âm đạo:** Trầy xước, viêm loét do quan hệ tình dục thô bạo, thủ thuật y khoa, hoặc kích ứng hóa chất.
+2. **Sử dụng kháng sinh:** Kháng sinh diệt vi khuẩn nhưng cũng tiêu diệt Lactobacilli bảo vệ, tạo điều kiện cho nấm phát triển.
+3. **Rối loạn miễn dịch và tăng glycogen âm đạo:** Thai kỳ, đái tháo đường, dùng thuốc ngừa thai chứa estrogen liều cao, suy giảm miễn dịch, môi trường âm đạo ẩm ướt, dùng corticosteroids.
 
 ## Chẩn đoán
 
 ### Lâm sàng
 
-- **Khí hư**: Đặc trưng giống **"phô mai sữa"** (cottage cheese), không mùi, đặc, dính.
-- **pH âm đạo**: Thường duy trì từ 4.0-5.0.
-- **Triệu chứng**: Ngứa âm đạo, âm hộ. Đôi khi nóng rát, đau khi giao hợp, tiểu buốt. Âm hộ và niêm mạc âm đạo viêm đỏ, lột da nhẹ.
+- **Khí hư:** Đặc trưng giống **"phô mai sữa"** (cottage cheese), không mùi, đặc, dính.
+- **pH âm đạo:** Thường duy trì từ 4.0-5.0.
+- **Triệu chứng:** Ngứa âm đạo, âm hộ. Đôi khi nóng rát, đau khi giao hợp, tiểu buốt. Âm hộ và niêm mạc âm đạo viêm đỏ, lột da nhẹ.
 
 _Hình ảnh "Âm hộ viêm đỏ rực, với các mảng trắng dầy. Bệnh nhân thường than phiền ngứa, rát, đau khi giao hợp và tiểu rát"_.
 ![Viêm âm hộ do _Candida_](./_images/viem-am-dao-do-nam/nam-candida-am-ho.png)
@@ -35,23 +35,23 @@ _Hình ảnh "Tiết dịch âm đạo đặc, các mảng trắng bám thành �
 
 ### Cận lâm sàng
 
-- **Soi tươi**: Hòa bệnh phẩm (dịch âm đạo hoặc mảng bào tử) với NaCl 0.9% rồi quan sát dưới kính hiển vi; Nhuộm xanh methylene hoặc Gram để phát hiện sợi tơ nấm và bào tử.
-- **Nhuộm Gram**: Thường thấy bào tử nấm và sợi nấm giả (pseudohyphae).
-- **Cấy nấm**: Chỉ định khi thất bại điều trị hoặc nghi ngờ chủng không phải _Candida albicans_, nhằm xác định chủng và làm kháng nấm đồ.
-- **Xét nghiệm latex agglutination**: Dùng để xác định nhanh một số chủng _Candida_ không sinh giả tơ nấm.
+- **Soi tươi:** Hòa bệnh phẩm (dịch âm đạo hoặc mảng bào tử) với NaCl 0.9% rồi quan sát dưới kính hiển vi; Nhuộm xanh methylene hoặc Gram để phát hiện sợi tơ nấm và bào tử.
+- **Nhuộm Gram:** Thường thấy bào tử nấm và sợi nấm giả (pseudohyphae).
+- **Cấy nấm:** Chỉ định khi thất bại điều trị hoặc nghi ngờ chủng không phải _Candida albicans_, nhằm xác định chủng và làm kháng nấm đồ.
+- **Xét nghiệm latex agglutination:** Dùng để xác định nhanh một số chủng _Candida_ không sinh giả tơ nấm.
 
 ## Phân loại
 
 Phân loại theo CDC 2010 chia thành 2 nhóm VVC không biến chứng và VVC có biến chứng.
 
-**VVC không biến chứng**:
+**VVC không biến chứng:**
 
 - Nhiễm đơn thuần hoặc thỉnh thoảng.
 - Triệu chứng nhẹ đến trung bình.
 - Nghi ngờ _Candida albicans_.
 - Phụ nữ không suy giảm miễn dịch.
 
-**VVC có biến chứng**:
+**VVC có biến chứng:**
 
 - Tái phát ≥ 4 lần/năm.
 - Triệu chứng nặng.
@@ -69,23 +69,23 @@ Phân loại theo CDC 2010 chia thành 2 nhóm VVC không biến chứng và VVC
 
 ### Không biến chứng
 
-**Thuốc nhóm Azole (Imidazoles)**:
+**Thuốc nhóm Azole (Imidazoles):**
 
-- **Miconazole, Clotrimazole, Butoconazole, Tioconazole, Terconazole** (dạng kem hoặc viên đặt). Ví dụ: Clotrimazole 200 mg đặt âm đạo mỗi ngày × 3 ngày, hoặc Miconazole 100 mg đặt mỗi ngày × 7 ngày.
+- **Miconazole, Clotrimazole, Butoconazole, Tioconazole, Terconazole** (dạng kem hoặc viên đặt). Ví dụ: Clotrimazole 200 mg đặt âm đạo mỗi ngày x 3 ngày, hoặc Miconazole 100 mg đặt mỗi ngày x 7 ngày.
 - **Fluconazole uống** 150 mg liều đơn. Tác dụng nhanh, hiệu quả 90%. Fluconazole liều thấp (150 mg) an toàn trong thai kỳ. Liều cao hàng ngày (400-800 mg) có liên quan đến nguy cơ khuyết tật thai nhi.
 - **Nystatin (dạng viên đặt âm đạo)** là lựa chọn an toàn khi mang thai.
 
 Tái phát sau 1 tháng chiếm 20-30% trường hợp.
 
-- Nếu tái phát, có thể **Fluconazole uống 150 mg mỗi tuần × 6 tháng** (giảm tái phát 50%).
+- Nếu tái phát, có thể **Fluconazole uống 150 mg mỗi tuần x 6 tháng** (giảm tái phát 50%).
 - Ngoài ra, liệu pháp đặt âm đạo 1-2 lần/tuần cũng được dùng để dự phòng.
 
-**Bạn tình**:
+**Bạn tình:**
 
 - Nếu không có triệu chứng, không phải điều trị.
 - Chỉ cân nhắc điều trị bạn tình khi bạn nữ tái phát nhiều lần mà không có yếu tố nguy cơ rõ ràng.
 
-Chủng _Candida glabrata_:
+Chủng _Candida glabrata:_
 
 - Thường kháng với imidazole.
 - Điều trị thay thế có thể dùng **Boric acid viên nang đặt âm đạo** hoặc **Gentian violet** (mực tím).
@@ -94,50 +94,52 @@ Chủng _Candida glabrata_:
 
 - Tái phát ≥ 4 lần/năm hoặc nhiễm nấm không phải _C. albicans_, cần cấy nấm và kháng nấm đồ.
 - Đánh giá yếu tố nguy cơ: Đái tháo đường, suy giảm miễn dịch.
-- Liệu pháp dự phòng: **Fluconazole 150 mg uống** mỗi tuần × 6 tháng.
+- Liệu pháp dự phòng: **Fluconazole 150 mg uống** mỗi tuần x 6 tháng.
 - Khuyến khích đánh giá và điều chỉnh các nguyên nhân nền (kiểm soát đường huyết, cân bằng miễn dịch).
 - Probiotics chưa được chứng minh chắc chắn hiệu quả, chỉ dùng theo kinh nghiệm cho một số trường hợp tái phát nhiều lần.
 
 ### Tại chỗ
 
+_Bảng "Thuốc kháng nấm tại chỗ điều trị VVC không biến chứng"_.
+
 | Thuốc kháng nấm tại chỗ (First line therapy) điều trị VVC không biến chứng | Biệt dược                                  | Dạng thuốc                                  | Liều dùng                                                                                                                                                   |
 | -------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Butoconazole**                                                           | Gynazole-1, Mycclex-3                      | 2% cream âm đạo                             | Gynazole-1: 1 lần/ngày × 1 ngày<br>Mycclex-3: 1 lần/ngày × 3 ngày                                                                                           |
-| **Clotrimazole**                                                           | Gyne-Lotrimin 7, Mecclex-7                 | 1%-2% cream âm đạo hoặc viên                | Gyne-Lotrimin 7 (1% cream) × 1/ngày × 7 ngày<br>Mecclex-7 (2% cream) × 1/ngày × 3 ngày<br>Gyne-Lotrimin 3 (200 mg viên) × 1/ngày × 3 ngày                   |
-| **Clotrimazole + Betamethasone**                                           | Lotrisone                                  | 1% Clotrimazole + 0.05% Betamethasone cream | Bôi vùng âm hộ 2 lần/ngày × tối đa 2 tuần                                                                                                                   |
-| **Miconazole**                                                             | Monistat-3, Monistat-7, Monistat Dual Pack | 2%-4% cream âm đạo hoặc viên đặt            | Monistat-3 (4% cream) × 1/ngày × 7 ngày<br>Monistat-7 (2% cream) × 1/ngày × 3 hoặc 7 ngày<br>Monistat Dual Pack (1200 mg viên + 2% cream) × 1/ngày × 1 ngày |
-| **Terconazole** (kê toa)                                                   | Terazol 3, Terazol 7                       | 80 mg viên đặt hoặc 0.4-0.8% cream          | Terazol 3 (80 mg viên) × 1/ngày × 3 ngày<br>Terazol 7 (0.4% cream) × 1/ngày × 7 ngày hoặc 0.8% cream × 1/ngày × 3 ngày                                      |
-| **Tioconazole**                                                            | Vagistat-1, Monistat-1                     | 6.5% gel/dầu âm đạo                         | 1 lần đặt âm đạo × 1 ngày                                                                                                                                   |
-| **Econazole nitrate**                                                      | Spectrazole                                | 1% cream âm đạo                             | Bôi vùng âm hộ 2 lần/ngày × 7 ngày                                                                                                                          |
-| **Nystatin**                                                               | Pyolette Nystatin, Mycostatin              | Viên đặt âm đạo hoặc bột bôi                | Pyolette: 100,000 ĐV/viên × 1/ngày × 14 ngày (ưu tiên 3 tháng đầu thai kỳ)<br>Mycostatin bột: 100,000 ĐV/g, bôi âm hộ 2 lần/ngày × 14 ngày                  |
+| **Butoconazole**                                                           | Gynazole-1, Mycclex-3                      | 2% cream âm đạo                             | Gynazole-1: 1 lần/ngày x 1 ngày<br>Mycclex-3: 1 lần/ngày x 3 ngày                                                                                           |
+| **Clotrimazole**                                                           | Gyne-Lotrimin 7, Mecclex-7                 | 1%-2% cream âm đạo hoặc viên                | Gyne-Lotrimin 7 (1% cream) x 1/ngày x 7 ngày<br>Mecclex-7 (2% cream) x 1/ngày x 3 ngày<br>Gyne-Lotrimin 3 (200 mg viên) x 1/ngày x 3 ngày                   |
+| **Clotrimazole + Betamethasone**                                           | Lotrisone                                  | 1% Clotrimazole + 0.05% Betamethasone cream | Bôi vùng âm hộ 2 lần/ngày x tối đa 2 tuần                                                                                                                   |
+| **Miconazole**                                                             | Monistat-3, Monistat-7, Monistat Dual Pack | 2%-4% cream âm đạo hoặc viên đặt            | Monistat-3 (4% cream) x 1/ngày x 7 ngày<br>Monistat-7 (2% cream) x 1/ngày x 3 hoặc 7 ngày<br>Monistat Dual Pack (1200 mg viên + 2% cream) x 1/ngày x 1 ngày |
+| **Terconazole** (kê toa)                                                   | Terazol 3, Terazol 7                       | 80 mg viên đặt hoặc 0.4-0.8% cream          | Terazol 3 (80 mg viên) x 1/ngày x 3 ngày<br>Terazol 7 (0.4% cream) x 1/ngày x 7 ngày hoặc 0.8% cream x 1/ngày x 3 ngày                                      |
+| **Tioconazole**                                                            | Vagistat-1, Monistat-1                     | 6.5% gel/dầu âm đạo                         | 1 lần đặt âm đạo x 1 ngày                                                                                                                                   |
+| **Econazole nitrate**                                                      | Spectrazole                                | 1% cream âm đạo                             | Bôi vùng âm hộ 2 lần/ngày x 7 ngày                                                                                                                          |
+| **Nystatin**                                                               | Pyolette Nystatin, Mycostatin              | Viên đặt âm đạo hoặc bột bôi                | Pyolette: 100,000 ĐV/viên x 1/ngày x 14 ngày (ưu tiên 3 tháng đầu thai kỳ)<br>Mycostatin bột: 100,000 ĐV/g, bôi âm hộ 2 lần/ngày x 14 ngày                  |
 | **Gentian violet**                                                         | (mực tím)                                  | Dung dịch 1%                                | Bôi vào sang thương (được sử dụng khi kháng nấm thất bại)                                                                                                   |
 
 ### Phác đồ Từ Dũ
 
-**Thuốc đặt âm đạo**:
+**Thuốc đặt âm đạo:**
 
-- Nystatin 100,000 đơn vị × 1 viên/ngày × 14 ngày.
-- Clotrimazole 100 mg hoặc Metronidazole 100 mg đặt âm đạo × 1 viên/ngày × 7 ngày.
-- Clotrimazole 200 mg hoặc Metronidazole 200 mg đặt âm đạo × 1 viên/ngày × 3 ngày.
-- Clotrimazole 500 mg đặt âm đạo × 1 viên duy nhất.
-- Econazole 150 mg đặt âm đạo × 1 viên/ngày × 3 ngày.
-- Econazole nitrate (vi hạt) 150 mg đặt âm đạo × 1 viên/12 giờ × 1 ngày.
-- Metronidazole 1200 mg đặt âm đạo × 1 viên duy nhất.
+- Nystatin 100,000 đơn vị x 1 viên/ngày x 14 ngày.
+- Clotrimazole 100 mg hoặc Metronidazole 100 mg đặt âm đạo x 1 viên/ngày x 7 ngày.
+- Clotrimazole 200 mg hoặc Metronidazole 200 mg đặt âm đạo x 1 viên/ngày x 3 ngày.
+- Clotrimazole 500 mg đặt âm đạo x 1 viên duy nhất.
+- Econazole 150 mg đặt âm đạo x 1 viên/ngày x 3 ngày.
+- Econazole nitrate (vi hạt) 150 mg đặt âm đạo x 1 viên/12 giờ x 1 ngày.
+- Metronidazole 1200 mg đặt âm đạo x 1 viên duy nhất.
 
-**Thuốc uống**:
+**Thuốc uống:**
 
 - Fluconazole 150 mg uống 1 viên duy nhất.
-- Itraconazole 100 mg uống 2 viên/ngày × 3 ngày.
+- Itraconazole 100 mg uống 2 viên/ngày x 3 ngày.
 
-**Thuốc bôi ngoài da (âm hộ)**: Clotrimazole kem bôi × 7 ngày.
+**Thuốc bôi ngoài da (âm hộ):** Clotrimazole kem bôi x 7 ngày.
 
-**Vệ sinh tại chỗ**:
+**Vệ sinh tại chỗ:**
 
 - Rửa âm hộ bằng dung dịch povidone iodine 10%.
 - Rửa bằng natri hydrocarbonat (muối NaBica) 5 g pha với nước ấm.
 
 :::caution
-**Chỉ điều trị bạn tình khi có một trong các triệu chứng sau**:
+**Chỉ điều trị bạn tình khi có một trong các triệu chứng sau:**
 
 - Viêm ngứa bao quy đầu.
 - Nấm có trong nước tiểu.

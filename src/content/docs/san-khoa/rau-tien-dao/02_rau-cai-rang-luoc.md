@@ -7,6 +7,8 @@ description: Rau cài răng lược (Placenta accreta spectrum) là tình trạn
 
 ## Phân loại
 
+_Bảng "Phân loại rau cài răng lược" - FIGO_.
+
 | Phân loại rau cài răng lược theo FIGO 2019 | Tiêu chuẩn lâm sàng                                                                                                                                                                                                 | Tiêu chuẩn mô học                                                                                    |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | **Độ 1: Adherenta (rau bám chặt)**         | - Rau không bong sau sổ thai dù dùng oxytocin và kéo dây rốn.<br>- Bóc rau thủ công gây chảy máu ồ ạt nhưng không thấy mô rau xâm lấn sâu.<br>- Tử cung tại vị trí rau bám không phình căng, ít mạch máu tăng sinh. | - Gai rau bám trực tiếp lên bề mặt cơ tử cung, không có màng rụng ở giữa gai rau và cơ tử cung.      |
@@ -37,7 +39,7 @@ description: Rau cài răng lược (Placenta accreta spectrum) là tình trạn
 - Tam cá nguyệt I (6-14 tuần): Túi thai làm tổ thấp, gần sẹo mổ cũ; Thành trước đoạn dưới mỏng < 3 mm.
 - Tam cá nguyệt II-III (TVS & TAS): Lacunae ("moth-eaten") xoang mạch đa hình trong bánh rau; Đường echo ranh giới rau-cơ mỏng hoặc mất liên tục; "Placental bulge" lồi rau qua thành tử cung; Cầu mạch máu và Doppler tăng sinh mạch rõ; Xâm lấn bàng quang mất đường echo thanh mạc và bàng quang.
 
-**MRI**: Khi siêu âm không rõ hoặc cần đánh giá xâm lấn mặt sau, mức độ percreta.
+**MRI:** Khi siêu âm không rõ hoặc cần đánh giá xâm lấn mặt sau, mức độ percreta.
 
 ## Điều trị
 

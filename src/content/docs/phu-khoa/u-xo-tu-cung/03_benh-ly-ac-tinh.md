@@ -19,21 +19,23 @@ Sarcoma cơ trơn thân tử cung là khối u ác tính rất hiếm, chiếm <
 #### Lâm sàng
 
 - **Tăng nhanh kích thước** khối u, đặc biệt ở phụ nữ mãn kinh hoặc đã được chẩn đoán u xơ-cơ tử cung trước đó.
-- **Triệu chứng**: Chảy máu bất thường, đau âm ỉ, khối tử cung to nhanh.
+- **Triệu chứng:** Chảy máu bất thường, đau âm ỉ, khối tử cung to nhanh.
 
 #### Cận lâm sàng
 
 - **Siêu âm** và **MRI** không thể phân biệt chắc chắn u xơ lành tính và leiomyosarcoma. **Gợi ý ác tính** khi: Khối u không đều tín hiệu trên T2W (MRI); Hoại tử bên trong, xuất huyết, ranh giới không rõ; Dò rỉ mạch máu nội vi trên Doppler.
-- **Sinh thiết**: Sinh thiết qua kim nhỏ (FNA) hoặc sinh thiết mở khó phân biệt leiomyosarcoma do độ không đồng nhất mô; Phẫu thuật giải phẫu bệnh vẫn là tiêu chuẩn vàng.
+- **Sinh thiết:** Sinh thiết qua kim nhỏ (FNA) hoặc sinh thiết mở khó phân biệt leiomyosarcoma do độ không đồng nhất mô; Phẫu thuật giải phẫu bệnh vẫn là tiêu chuẩn vàng.
 
 ### Điều trị
 
-- **Phẫu thuật**: Cắt tử cung toàn phần đường mở bụng; Buồng trứng thường không cần cắt trừ khi phụ nữ đã mãn kinh.
-- **Hóa trị** và **xạ trị**: Hạn chế, thường chỉ trong thử nghiệm lâm sàng.
+- **Phẫu thuật:** Cắt tử cung toàn phần đường mở bụng; Buồng trứng thường không cần cắt trừ khi phụ nữ đã mãn kinh.
+- **Hóa trị** và **xạ trị:** Hạn chế, thường chỉ trong thử nghiệm lâm sàng.
 
 ## U cơ trơn với khuynh hướng ác tính không xác định (STUMP)
 
 ### Đặc điểm
+
+_Bảng "So sánh u xơ tử cung, STUMP và sarcoma thân tử cung"_.
 
 | So sánh u xơ tử cung, STUMP và sarcoma thân tử cung | U xơ-cơ lành tính | STUMP                               | Sarcoma cơ trơn             |
 | --------------------------------------------------- | ----------------- | ----------------------------------- | --------------------------- |
@@ -48,27 +50,27 @@ Sarcoma cơ trơn thân tử cung là khối u ác tính rất hiếm, chiếm <
 
 ### Điều trị
 
-- **Cắt tử cung toàn phần**: Tiêu chuẩn.
-- **Buồng trứng**: Bảo tồn ở phụ nữ trẻ; Cắt nếu phụ nữ lớn tuổi hoặc có biểu hiện kích thích nội tiết.
-- **Theo dõi**: Siêu âm/MRI mỗi 6-12 tháng trong 5 năm đầu.
+- **Cắt tử cung toàn phần:** Tiêu chuẩn.
+- **Buồng trứng:** Bảo tồn ở phụ nữ trẻ; Cắt nếu phụ nữ lớn tuổi hoặc có biểu hiện kích thích nội tiết.
+- **Theo dõi:** Siêu âm/MRI mỗi 6-12 tháng trong 5 năm đầu.
 
 ## Các bệnh lý ác tính khác
 
 ### Carcinoma biểu mô tuyến (Endometrial carcinoma)
 
 - Ít gặp trong thai kỳ; Thường phát hiện sau sinh hoặc chẩn đoán nhầm xuất huyết.
-- **Điều trị**: Cắt tử cung toàn phần và nạo hạch chậu - thắt động mạch tử cung sau sinh hoặc kết thúc thai kỳ.
+- **Điều trị:** Cắt tử cung toàn phần và nạo hạch chậu - thắt động mạch tử cung sau sinh hoặc kết thúc thai kỳ.
 
 ### Sarcoma hỗn hợp (Carcinosarcoma)
 
 - Gồm cả thành phần biểu mô và mô đệm ác tính.
-- **Điều trị**: Tương tự leiomyosarcoma, thường thêm hóa xạ trị.
+- **Điều trị:** Tương tự leiomyosarcoma, thường thêm hóa xạ trị.
 
 ## Trong thai kỳ
 
-- **Chẩn đoán gợi ý**: U xơ-cơ tăng nhanh hoặc xuất huyết bất thường → cân nhắc ác tính.
-- **Theo dõi**: Siêu âm/MRI không dùng thuốc cản quang nếu cần.
-- **Chấm dứt thai kỳ**: Ưu tiên sinh non có kiểm soát (≥ 34 tuần).
+- **Chẩn đoán gợi ý:** U xơ-cơ tăng nhanh hoặc xuất huyết bất thường → cân nhắc ác tính.
+- **Theo dõi:** Siêu âm/MRI không dùng thuốc cản quang nếu cần.
+- **Chấm dứt thai kỳ:** Ưu tiên sinh non có kiểm soát (≥ 34 tuần).
 
 ## Tài liệu tham khảo
 

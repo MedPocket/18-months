@@ -17,7 +17,7 @@ Tăng TSH, giảm FT₄, có thể giảm FT₃.
 
 ## Biến chứng
 
-Thiếu hormone tuyến giáp trong thai kỳ và giai đoạn sơ sinh sớm gây ảnh hưởng lớn đến sự phát triển thần kinh, đặc biệt là trong **3 năm đầu đời**. Nếu không điều trị làm **tăng nguy cơ**:
+Thiếu hormone tuyến giáp trong thai kỳ và giai đoạn sơ sinh sớm gây ảnh hưởng lớn đến sự phát triển thần kinh, đặc biệt là trong **3 năm đầu đời.** Nếu không điều trị làm **tăng nguy cơ:**
 
 - Sảy thai.
 - Tiền sản giật.

@@ -26,7 +26,7 @@ _Hình ảnh "Kết hợp adenomyosis và u xơ tử cung"_.
 
 ## Bệnh sinh
 
-**Thuyết vi sang chấn và tái tạo (TIAR)**: Vi sang chấn → xâm nhập tế bào gốc → viêm → cường estrogen cục bộ → đề kháng progesterone → co thắt nghịch thường → tăng vi sang chấn... (vòng Leyendecke).
+**Thuyết vi sang chấn và tái tạo (TIAR):** Vi sang chấn → xâm nhập tế bào gốc → viêm → cường estrogen cục bộ → đề kháng progesterone → co thắt nghịch thường → tăng vi sang chấn... (vòng Leyendecke).
 
 _Hình ảnh "Sơ đồ mô hình TIAR"_.
 ![Sơ đồ mô hình TIAR](./_images/lac-noi-mac-tu-cung/so-do-mo-hinh-tiar.png)
@@ -34,7 +34,7 @@ _Hình ảnh "Sơ đồ mô hình TIAR"_.
 _Hình ảnh "Thay đổi biểu hiện gene của thụ thể steroid (mô hình TIAR)"_.
 ![Thay đổi biểu hiện gene của thụ thể steroid (mô hình TIAR)](./_images/lac-noi-mac-tu-cung/thay-doi-bieu-hien-gene-cua-thu-the-steroid.png)
 
-**Thuyết tử cung hai nguồn gốc**: Tử cung phát triển từ hai nguồn Muller và trung mô, gặp nhau tại vùng kết nối (JZ). Adenomyosis xuất phát từ chồng lấn bất thường tại JZ.
+**Thuyết tử cung hai nguồn gốc:** Tử cung phát triển từ hai nguồn Muller và trung mô, gặp nhau tại vùng kết nối (JZ). Adenomyosis xuất phát từ chồng lấn bất thường tại JZ.
 
 _Hình ảnh "Tử cung bình thường trên MRI"_.
 ![Tử cung bình thường trên MRI](./_images/lac-noi-mac-tu-cung/tu-cung-binh-thuong-tren-mri.png)
@@ -53,18 +53,18 @@ _Hình ảnh "Adenomyosis trên MRI"_.
 
 ### Lâm sàng
 
-Adenomyosis thường **ồn ào triệu chứng**: Thống kinh, xuất huyết tử cung bất thường, hiếm muộn.
+Adenomyosis thường **ồn ào triệu chứng:** Thống kinh, xuất huyết tử cung bất thường, hiếm muộn.
 
-**Thống kinh**: Đau trước và trong kỳ kinh, kéo dài sau sạch kinh, có thể đau không theo chu kỳ hoặc sau giao hợp. Tử cung to, cứng, ít di động, chạm đau. Giai đoạn viêm → giai đoạn thần kinh-sinh mạch → giai đoạn nhạy cảm trung ương.
+**Thống kinh:** Đau trước và trong kỳ kinh, kéo dài sau sạch kinh, có thể đau không theo chu kỳ hoặc sau giao hợp. Tử cung to, cứng, ít di động, chạm đau. Giai đoạn viêm → giai đoạn thần kinh-sinh mạch → giai đoạn nhạy cảm trung ương.
 
-**Xuất huyết tử cung bất thường (AUB-A)**: Cường estrogen cục bộ và đề kháng progesterone gây rong huyết.
+**Xuất huyết tử cung bất thường (AUB-A):** Cường estrogen cục bộ và đề kháng progesterone gây rong huyết.
 
 _Hình ảnh "Adenomyosis qua nội soi buồng tử cung"_.
 ![Adenomyosis qua nội soi buồng tử cung](./_images/lac-noi-mac-tu-cung/adenomyosis-qua-noi-soi-buong.png)
 
-**Hiếm muộn**: Cường estrogen và đề kháng progesterone ảnh hưởng làm tổ và kết quả ART.
+**Hiếm muộn:** Cường estrogen và đề kháng progesterone ảnh hưởng làm tổ và kết quả ART.
 
-**Khám thực thể**:
+**Khám thực thể:**
 
 - Lạc nội mạc sâu: Nốt xanh tím, sờ đau, nề cứng.
 - Lạc nội mạc buồng trứng: Khối cạnh tử cung.
@@ -72,16 +72,16 @@ _Hình ảnh "Adenomyosis qua nội soi buồng tử cung"_.
 
 ### Cận lâm sàng
 
-**Siêu âm ngả âm đạo**:
+**Siêu âm ngả âm đạo:**
 
 - Nang lạc nội mạc: Phản âm kém, kính mờ.
 - Adenomyosis khu trú hoặc lan tỏa: Phản âm sọc, vùng âm kém.
 
-**MRI**: Phân biệt adenomyosis vs u xơ, đánh giá lạc nội mạc sâu.
+**MRI:** Phân biệt adenomyosis vs u xơ, đánh giá lạc nội mạc sâu.
 
-**Dấu ấn sinh học**: CA125 có thể tăng nhưng không đặc hiệu, không khuyến cáo để chẩn đoán.
+**Dấu ấn sinh học:** CA125 có thể tăng nhưng không đặc hiệu, không khuyến cáo để chẩn đoán.
 
-**Khác**: Nội soi tiêu hóa/niệu quản... khi nghi ngại xâm lấn.
+**Khác:** Nội soi tiêu hóa/niệu quản... khi nghi ngại xâm lấn.
 
 ### Chẩn đoán phân biệt
 
@@ -101,7 +101,7 @@ _Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung
 
 ### Nguyên tắc
 
-**Không triệu chứng**: Chỉ theo dõi, không can thiệp.
+**Không triệu chứng:** Chỉ theo dõi, không can thiệp.
 
 **Cá thể hóa điều trị** dựa trên vấn đề chính của người bệnh:
 
@@ -118,7 +118,9 @@ _Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung
 
 #### Nội khoa
 
-**Giảm đau bước 1**:
+**Giảm đau bước 1:**
+
+_Bảng "Giảm đau bước 1"_.
 
 | Loại thuốc    | Liều dùng & cách dùng                                                                 | Hiệu quả                                | Chống chỉ định/Tác dụng phụ                        |
 | ------------- | ------------------------------------------------------------------------------------- | --------------------------------------- | -------------------------------------------------- |
@@ -126,47 +128,49 @@ _Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung
 | **COCs**      | EE 20-30 µg + progestin, 1 viên/ngày (liên tục hoặc chu kỳ)<br>Miếng dán 1 miếng/tuần | Giảm sinh nội mạc, giảm COX-2, giảm đau | Rong huyết, buồn nôn, căng vú, tăng cân, mụn       |
 | **Progestin** | Dienogest 2 mg/ngày<br>LNG-IUS 5 năm<br>Norethindrone 5-10 mg/ngày                    | Teo nội mạc, giảm đau và cường kinh     | Rong huyết thất thường, mụn, ảnh hưởng kinh nguyệt |
 
-**Giảm đau bước 2**:
+**Giảm đau bước 2:**
+
+_Bảng "Giảm đau bước 2"_.
 
 | Loại thuốc             | Liều dùng                                                            | Hiệu quả                             | Tác dụng phụ/Lưu ý                                  |
 | ---------------------- | -------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------- |
 | **GnRH đồng vận**      | Goserelin 3.6 mg mỗi 28 ngày SC<br>Leuprolide 3.75 mg mỗi 28 ngày IM | Ức chế HPA → giảm estrogen toàn thân | Bốc hỏa, loãng xương; Cần add-back therapy          |
 | **AI**                 | Letrozole 2.5 mg/ngày<br>Anastrozole 1 mg/ngày                       | Giảm estrogen cục bộ                 | Giảm mật độ xương, bốc hỏa, mệt mỏi                 |
-| **Danazol/Gestrinone** | Danazol 200 mg ×2/ngày<br>Gestrinone 2.5 mg ×2/ngày                  | Khi thất bại các liệu pháp trên      | Vô kinh, nam hóa, rối loạn lipid, tác dụng androgen |
+| **Danazol/Gestrinone** | Danazol 200 mg x2/ngày<br>Gestrinone 2.5 mg x2/ngày                  | Khi thất bại các liệu pháp trên      | Vô kinh, nam hóa, rối loạn lipid, tác dụng androgen |
 
-**NSAIDs**:
+**NSAIDs:**
 
-- **Cơ chế**: Ức chế COX-2 → giảm PGE₂ → giảm viêm và co thắt.
-- **Liều dùng**: Ibuprofen 400 mg mỗi 4-6 giờ; Naproxen 250 mg mỗi 8-12 giờ.
-- **Chống chỉ định**: Loét dạ dày, suy thận, hen phế quản nặng, bệnh tim mạch.
+- **Cơ chế:** Ức chế COX-2 → giảm PGE₂ → giảm viêm và co thắt.
+- **Liều dùng:** Ibuprofen 400 mg mỗi 4-6 giờ; Naproxen 250 mg mỗi 8-12 giờ.
+- **Chống chỉ định:** Loét dạ dày, suy thận, hen phế quản nặng, bệnh tim mạch.
 
-**COCs (Estrogen-Progestin)**:
+**COCs (Estrogen-Progestin):**
 
-- **Cơ chế**: Ức chế phát triển nội mạc, giảm COX-2.
-- **Liều dùng**: EE 20-30 µg + progestin, 1 viên/ngày liên tục hoặc theo chu kỳ; Miếng dán mỗi tuần 1 miếng.
+- **Cơ chế:** Ức chế phát triển nội mạc, giảm COX-2.
+- **Liều dùng:** EE 20-30 µg + progestin, 1 viên/ngày liên tục hoặc theo chu kỳ; Miếng dán mỗi tuần 1 miếng.
 
 :::caution
 Không dùng quá 3 tháng nếu không giảm đau; Ít hiệu quả với lạc nội mạc sâu.
 :::
 
-**Aromatase inhibitors (AIs)**:
+**Aromatase inhibitors (AIs):**
 
-- **Chỉ định**: Đau tái phát sau NSAIDs/COCs; Phối hợp khi cường estrogen cục bộ nặng.
-- **Liều dùng**: Letrozole 2.5 mg/ngày, Anastrozole 1 mg/ngày.
-- **Tác dụng phụ**: Giảm mật độ xương, bốc hỏa, mệt mỏi.
+- **Chỉ định:** Đau tái phát sau NSAIDs/COCs; Phối hợp khi cường estrogen cục bộ nặng.
+- **Liều dùng:** Letrozole 2.5 mg/ngày, Anastrozole 1 mg/ngày.
+- **Tác dụng phụ:** Giảm mật độ xương, bốc hỏa, mệt mỏi.
 
-**Đồng vận GnRH**:
+**Đồng vận GnRH:**
 
-- **Cơ chế**: ức chế trục HPA → giảm estrogen toàn thân.
-- **Phối hợp**: Luôn dùng add-back estrogen/progestin để bảo vệ xương.
-- **Liều dùng**: Goserelin 3.6 mg tiêm bắp mỗi 28 ngày; Leuprolide 3.75 mg TM mỗi 28 ngày.
-- **Hạn chế**: Chỉ dùng tối đa 6 tháng nếu không có add-back; Bốc hỏa, loãng xương.
+- **Cơ chế:** ức chế trục HPA → giảm estrogen toàn thân.
+- **Phối hợp:** Luôn dùng add-back estrogen/progestin để bảo vệ xương.
+- **Liều dùng:** Goserelin 3.6 mg tiêm bắp mỗi 28 ngày; Leuprolide 3.75 mg TM mỗi 28 ngày.
+- **Hạn chế:** Chỉ dùng tối đa 6 tháng nếu không có add-back; Bốc hỏa, loãng xương.
 
-**Progestin tại chỗ & toàn thân**:
+**Progestin tại chỗ & toàn thân:**
 
-- **Progestin uống**: Dienogest 2 mg/ngày; Norethindrone 5-10 mg/ngày.
-- **IUS-LNG**: Đặt 1 lần, tác dụng 5 năm.
-- **Tác dụng**: Teo nội mạc, giảm viêm; LNG-IUS còn giảm cường kinh.
+- **Progestin uống:** Dienogest 2 mg/ngày; Norethindrone 5-10 mg/ngày.
+- **IUS-LNG:** Đặt 1 lần, tác dụng 5 năm.
+- **Tác dụng:** Teo nội mạc, giảm viêm; LNG-IUS còn giảm cường kinh.
 
 :::caution
 Chọn progestin ít tác dụng toàn thân; Ưu tiên LNG-IUS hoặc Dienogest nếu có AUB-A.
@@ -174,21 +178,21 @@ Chọn progestin ít tác dụng toàn thân; Ưu tiên LNG-IUS hoặc Dienogest
 
 #### Ngoại khoa
 
-**Chỉ định**:
+**Chỉ định:**
 
 - Thất bại tối đa với mọi liệu pháp nội khoa (đau vẫn nặng, u nang lạc nội mạc tái phát).
 - Tổn thương adenomyosis khu trú gây đau nặng hoặc u to > 5 cm (đặc biệt u nang buồng trứng lạc nội mạc > 5-10 cm).
 - Đa dính vùng chậu nặng, ảnh hưởng cơ năng.
 - Bệnh nhân mong muốn điều trị triệt để, không còn nhu cầu sinh đẻ.
 
-**Phương pháp**:
+**Phương pháp:**
 
-- **Nội soi ổ bụng**: Cắt hoặc đốt tổn thương phúc mạc; Bóc nang lạc nội mạc buồng trứng; Cắt/gỡ adenomyosis khu trú (chèn RMN xác định vị trí).
-- **Mở bụng**: Khi tổn thương lan tỏa, u > 10 cm, dính ruột - bàng quang phức tạp; Ưu tiên đường mổ cũ nếu đã từng mổ buồng trứng/tử cung.
-- **Phẫu thuật Osada**: Giảm khối adenomyosis lan tỏa. Bảo tồn tối đa cơ tử cung, khâu phục hồi cân cơ.
-- **Cắt tử cung**: Cuối cùng, khi không còn nhu cầu sinh đẻ và thất bại mọi lựa chọn khác. Có thể kèm lấy buồng trứng hoặc giữ lại buồng trứng tùy chỉ định.
+- **Nội soi ổ bụng:** Cắt hoặc đốt tổn thương phúc mạc; Bóc nang lạc nội mạc buồng trứng; Cắt/gỡ adenomyosis khu trú (chèn RMN xác định vị trí).
+- **Mở bụng:** Khi tổn thương lan tỏa, u > 10 cm, dính ruột - bàng quang phức tạp; Ưu tiên đường mổ cũ nếu đã từng mổ buồng trứng/tử cung.
+- **Phẫu thuật Osada:** Giảm khối adenomyosis lan tỏa. Bảo tồn tối đa cơ tử cung, khâu phục hồi cân cơ.
+- **Cắt tử cung:** Cuối cùng, khi không còn nhu cầu sinh đẻ và thất bại mọi lựa chọn khác. Có thể kèm lấy buồng trứng hoặc giữ lại buồng trứng tùy chỉ định.
 
-**Điều trị nội tiết liên quan**:
+**Điều trị nội tiết liên quan:**
 
 - **Không chỉ định** dùng NSAIDs/COCs/Đồng vận GnRH... để chuẩn bị trước mổ.
 - **Dự phòng tái phát** sau phẫu thuật: - Điều trị ≥ 6 tháng với: IUS-LNG (levonorgestrel), Dienogest 2 mg/ngày, COCs liên tục. - Thời gian khuyến cáo: 18-24 tháng nhằm ngăn ngừa tái phát đau và tổn thương.
@@ -196,9 +200,9 @@ Chọn progestin ít tác dụng toàn thân; Ưu tiên LNG-IUS hoặc Dienogest
 ### Xuất huyết tử cung
 
 - Xử lý thiếu máu, ổn định huyết động trước khi can thiệp.
-- **Đầu tay**: COCs hoặc LNG-IUS.
-- **Thứ hai**: Dienogest hoặc progestin uống.
-- **Không ưu tiên**: GnRH đồng vận, AI (tác dụng phụ nhiều).
+- **Đầu tay:** COCs hoặc LNG-IUS.
+- **Thứ hai:** Dienogest hoặc progestin uống.
+- **Không ưu tiên:** GnRH đồng vận, AI (tác dụng phụ nhiều).
 
 ### Hiếm muộn
 
@@ -206,10 +210,10 @@ _Hình ảnh "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung
 ![Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và hiếm muộn - Bệnh viện Từ Dũ](./_images/lac-noi-mac-tu-cung/tu-du-xu-tri-lạc-noi-mac-tu-cung-va-hiem-muon.png)
 
 - **Ưu tiên hiếm muộn** nếu kèm thống kinh nặng.
-- **Nội khoa**: Không dùng liệu pháp ức chế buồng trứng trước IVF.
-- **Phẫu thuật**: Bóc nang lạc nội mạc độ I-II nếu ảnh hưởng đến chức năng buồng trứng.
-- **ART**: IVF/ICSI khi vòi trứng tổn thương hoặc các biện pháp khác thất bại.
-- **Chuẩn bị**: GnRHa 3-6 tháng trước chuyển phôi có thể cải thiện tỉ lệ thành công.
+- **Nội khoa:** Không dùng liệu pháp ức chế buồng trứng trước IVF.
+- **Phẫu thuật:** Bóc nang lạc nội mạc độ I-II nếu ảnh hưởng đến chức năng buồng trứng.
+- **ART:** IVF/ICSI khi vòi trứng tổn thương hoặc các biện pháp khác thất bại.
+- **Chuẩn bị:** GnRHa 3-6 tháng trước chuyển phôi có thể cải thiện tỉ lệ thành công.
 
 ## Tài liệu tham khảo
 

@@ -46,6 +46,8 @@ Chủ yếu dựa vào siêu âm:
 - AFI ≥ 22 cm ở 3 tháng giữa và ≥ 25 cm ở 3 tháng cuối.
 - SDP ≥ 8 cm (SDP ≥ 16 cm là đa ối nặng).
 
+  _Bảng "Phân loại đa ối"_.
+
   | Mức độ đa ối | Nhẹ       | Trung bình | Nặng    |
   | ------------ | --------- | ---------- | ------- |
   | **AFI**      | 25-30 cm  | 30.1-35 cm | > 35 cm |
@@ -74,14 +76,14 @@ Siêu âm hình thái, đo chiều dài cổ tử cung; Nghiệm pháp dung nạ
 
 ### Nhập viện
 
-**Chỉ định**:
+**Chỉ định:**
 
 - Biểu hiện quá tải dịch.
 - Dọa đẻ non.
 - Thai ≥ 39 tuần.
 - CTG nhóm II trở lên hoặc Doppler bất thường.
 
-**Hướng điều trị**:
+**Hướng điều trị:**
 
 - Điều trị nguyên nhân nếu xác định được.
 - **Giảm ối** thoát vị nếu có quá tải (khó thở, tim nhanh), tốc độ ≤ 1 L/20 phút.

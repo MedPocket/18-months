@@ -10,8 +10,8 @@ _Hình ảnh "Thay đổi thể tích huyết thanh và hồng cầu trong thai 
 
 Thiếu máu trong thai kỳ gây ra:
 
-- **Với mẹ**: Tăng tỷ lệ tử vong khi sinh, băng huyết sau sinh, nhiễm trùng hậu sản....
-- **Với thai**: Tăng nguy cơ sảy thai, hạn chế tăng trưởng trong tử cung, tăng tỷ lệ chết chu sinh. Thalassemia ở thai nhi có thể từ nhẹ không đe dọa đến nghiêm trọng, thậm chí tử vong sơ sinh.
+- **Với mẹ:** Tăng tỷ lệ tử vong khi sinh, băng huyết sau sinh, nhiễm trùng hậu sản....
+- **Với thai:** Tăng nguy cơ sảy thai, hạn chế tăng trưởng trong tử cung, tăng tỷ lệ chết chu sinh. Thalassemia ở thai nhi có thể từ nhẹ không đe dọa đến nghiêm trọng, thậm chí tử vong sơ sinh.
 
 ## Nguyên nhân
 
@@ -23,8 +23,8 @@ Thiếu máu trong thai kỳ gây ra:
 
 Theo khuyến cáo của CDC:
 
-- **3 tháng đầu & 3 tháng cuối**: Hb < 11 g/dL.
-- **3 tháng giữa**: Hb < 10.5 g/dL.
+- **3 tháng đầu & 3 tháng cuối:** Hb < 11 g/dL.
+- **3 tháng giữa:** Hb < 10.5 g/dL.
 
 ## Tài liệu tham khảo
 

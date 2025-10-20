@@ -22,7 +22,7 @@ description: Chửa ở vết mổ lấy thai (còn gọi là thai làm tổ ở
 ### Lâm sàng
 
 - **Triệu chứng không đặc hiệu**, khoảng 50% trường hợp không có biểu hiện rõ, phát hiện qua siêu âm.
-- **Tam chứng kinh điển**: Trễ kinh. Ra máu âm đạo bất thường (33-44%). Đau bụng (25%).
+- **Tam chứng kinh điển:** Trễ kinh. Ra máu âm đạo bất thường (33-44%). Đau bụng (25%).
 
 ### Cận lâm sàng
 
@@ -51,12 +51,12 @@ description: Chửa ở vết mổ lấy thai (còn gọi là thai làm tổ ở
 _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"_.
 ![Mối liên hệ thai và sẹo mổ lấy thai](./_images/chua-vet-mo-lay-thai/moi-lien-he-giua-tui-thai-va-seo-mo-lay-thai.jpg)
 
-**COS-1**: Túi thai nằm > 2/3 phía trên đường nối nội mạc tử cung → bám sâu vào cơ tử cung, nguy cơ vỡ tử cung cao. Thai cắm sâu vào sẹo, nguy cơ vỡ tử cung sớm, đe dọa tính mạng.
+**COS-1:** Túi thai nằm > 2/3 phía trên đường nối nội mạc tử cung → bám sâu vào cơ tử cung, nguy cơ vỡ tử cung cao. Thai cắm sâu vào sẹo, nguy cơ vỡ tử cung sớm, đe dọa tính mạng.
 
-**COS-2**: Túi thai < 2/3 nằm trên đường nối nội mạc. Thai có thể phát triển về buồng tử cung nhưng nguy cơ xuất huyết rau bám. Gồm:
+**COS-2:** Túi thai < 2/3 nằm trên đường nối nội mạc. Thai có thể phát triển về buồng tử cung nhưng nguy cơ xuất huyết rau bám. Gồm:
 
-- **COS-2-**: Có giao nhau với đường nối nội mạc tử cung.
-- **COS-2+**: Không giao nhau với đường nối nội mạc tử cung.
+- **COS-2-:** Có giao nhau với đường nối nội mạc tử cung.
+- **COS-2+:** Không giao nhau với đường nối nội mạc tử cung.
 
 ## Điều trị
 
@@ -71,23 +71,23 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"_.
 
 #### Methotrexate (MTX)
 
-**Chỉ định**: Thai < 14 tuần, chưa vỡ, huyết động ổn định, không chống chỉ định MTX.
+**Chỉ định:** Thai < 14 tuần, chưa vỡ, huyết động ổn định, không chống chỉ định MTX.
 
-**Phác đồ**:
+**Phác đồ:**
 
 - Thai lưu ≤ 8 tuần, β-hCG tăng → MTX 50mg tiêm bắp.
 - Thai chưa có tim: Hút phôi dưới siêu âm, tiêm MTX tại chỗ và bắp (25mg + 25mg).
 - Thai có tim: Hút mô tim thai (nếu > 9 tuần). Tiêm MTX hoặc KCl vào tim + tiêm MTX quanh bánh rau → kiểm tra sau 60-90 phút. Tổng liều MTX: 75mg.
 
-**Theo dõi sau điều trị**:
+**Theo dõi sau điều trị:**
 
 - β-hCG giảm > 15%/tuần trong 3 tuần, sau đó mỗi tháng đến khi âm tính.
 - Nếu giảm < 15% → tiêm MTX liều 2.
 - Siêu âm mỗi tuần để theo dõi khối thai và mạch máu quanh.
 
-**Kháng sinh và hỗ trợ**:
+**Kháng sinh và hỗ trợ:**
 
-- Ceftriaxone 1 g × 2 lần/ngày × 2 ngày, sau đó uống Cephalosporin + Metronidazole.
+- Ceftriaxone 1 g x 2 lần/ngày x 2 ngày, sau đó uống Cephalosporin + Metronidazole.
 - Oxytocin, Tranexamic, nghỉ ngơi, không giao hợp.
 
 #### HIFU (siêu âm hội tụ cường độ cao)
@@ -103,7 +103,7 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"_.
 - β-hCG < 2000 sau MTX, khối thai nhỏ, không đáp ứng điều trị thuốc.
 - Phân loại COS-2-.
 
-**Kỹ thuật**:
+**Thực hiện:**
 
 - Dùng ống hút nhỏ (Karman 6-8), hút nhẹ vùng trên vết mổ.
 - Tránh hút vùng mỏng vết mổ để hạn chế thủng tử cung.
@@ -111,9 +111,9 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"_.
 
 #### Đặt foley & hút thai
 
-**Chỉ định**: Thai ≤ 8 tuần.
+**Chỉ định:** Thai ≤ 8 tuần.
 
-**Kỹ thuật**:
+**Thực hiện:**
 
 - Đặt foley 14-16 dưới siêu âm, bơm 20-25mL để đẩy túi thai.
 - Rút sau 24 giờ → hút thai bằng Karman 6.
@@ -123,13 +123,13 @@ Theo dõi tương tự điều trị MTX.
 
 #### Phẫu thuật
 
-**Chỉ định**:
+**Chỉ định:**
 
 - Thai ≥ 14 tuần.
 - Người bệnh > 40 tuổi không còn nhu cầu sinh sản.
 - Huyết động không ổn định, xuất huyết nhiều.
 
-**Kỹ thuật**:
+**Thực hiện:**
 
 - Mở bụng cắt khối thai và bảo tồn tử cung nếu có thể, hoặc cắt tử cung hoàn toàn.
 - Chuẩn bị máu, dịch, tư vấn nguy cơ tổn thương bàng quang, niệu quản.
@@ -143,6 +143,8 @@ Theo dõi tương tự điều trị MTX.
 - Theo dõi không can thiệp nếu thai lưu < 8 tuần, β-hCG < 1000 và giảm dần.
 
 ### Tỷ lệ tai biến
+
+_Bảng "Tỷ lệ tai biến các phương pháp điều trị chửa vết mổ lấy thai"_.
 
 | Phương pháp điều trị             | Tỷ lệ tai biến (%) |
 | -------------------------------- | ------------------ |

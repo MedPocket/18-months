@@ -28,19 +28,19 @@ Các phương pháp hình ảnh chính:
 _Hình ảnh "Phân loại u buồng trứng theo hình thái siêu âm Tokyo"_.
 ![Phân loại u buồng trứng theo hình thái siêu âm Tokyo](./_images/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-theo-Tokyo.jpeg)
 
-- **Kiểu I**: Đa số u nang thanh dịch hoặc nang cơ năng.
-- **Kiểu II**: Thường endometrioma, u nang thanh dịch hoặc dịch nhầy.
-- **Kiểu III**: Phản âm sáng/đường sáng bên trong → u nang bì.
-- **Kiểu I-III**: PPV ung thư gần 0.
-- **Kiểu IV-V**: Liên quan ung thư nhưng PPV thấp.
-- **Kiểu VI**: PPV ung thư > 90%.
+- **Kiểu I:** Đa số u nang thanh dịch hoặc nang cơ năng.
+- **Kiểu II:** Thường endometrioma, u nang thanh dịch hoặc dịch nhầy.
+- **Kiểu III:** Phản âm sáng/đường sáng bên trong → u nang bì.
+- **Kiểu I-III:** PPV ung thư gần 0.
+- **Kiểu IV-V:** Liên quan ung thư nhưng PPV thấp.
+- **Kiểu VI:** PPV ung thư > 90%.
 
 #### Phân tầng O-RADS (ACR Ovarian-Adnexal Reporting và Data System)
 
 Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 
-- **O-RADS 0**: Khó đánh giá (hơi ruột, sang thương lớn, vị trí khó...).
-- **O-RADS 1**: Sang thương sinh lý (nang noãn, nang hoàng thể).<br>
+- **O-RADS 0:** Khó đánh giá (hơi ruột, sang thương lớn, vị trí khó...).
+- **O-RADS 1:** Sang thương sinh lý (nang noãn, nang hoàng thể).<br>
   _Hình ảnh "O-RADS 1"_.
   ![O-RADS 1](./_images/phuong-tien-tiep-can-u-buong-trung/orads-1.png)
 - **O-RADS 2** (< 1% ác): Nang đơn thùy < 10 cm (đơn giản hoặc "lành kinh điển" như nang xuất huyết điển hình, nang bì, endometrioma, nang cạnh buồng trứng, nang vùi phúc mạc, ứ dịch tai vòi).<br>
@@ -67,7 +67,7 @@ _Hình ảnh "Phác đồ xử trí và phân loại O-RADS"_.
 
 **Phân loại IOTA (2010)** có độ nhạy 91%, độ chuyên biệt 95%.
 
-**B-rules (lành tính)**:
+**B-rules (lành tính):**
 
 - B1: U đơn thuần 1 thùy.
 - B2: Thành phần rắn ≤ 7 mm.
@@ -75,7 +75,7 @@ _Hình ảnh "Phác đồ xử trí và phân loại O-RADS"_.
 - B4: U đa thùy trơn láng ≤ 100 mm.
 - B5: Không có dòng chảy (điểm màu 1).
 
-**M-rules (ác tính)**:
+**M-rules (ác tính):**
 
 - M1: U đặc không đồng nhất.
 - M2: Kèm dịch báng bụng.
@@ -116,14 +116,14 @@ Hiệu quả để: Mô tả u rất nhỏ vùng bụng Xác định vị trí u
 - Trong u biểu mô buồng trứng: CA125 tăng chủ yếu ở u thanh dịch, ít ở u nhầy, tế bào sáng hoặc giáp biên.
 - **Không dùng để sàng lọc u sớm** (độ nhạy 10-50%, độ đặc hiệu 30%).
 - **Độ nhạy CA125** cho ung thư tiến triển xa 85%.
-- **Theo dõi tái phát**: Độ nhạy 60%, độ đặc hiệu 20%.
+- **Theo dõi tái phát:** Độ nhạy 60%, độ đặc hiệu 20%.
 
 ### HE4
 
 - Chỉ báo tái phát & tiến triển ung thư biểu mô buồng trứng.
 - Tăng ở 93% u tuyến thanh dịch, 100% u dạng nội mạc, 50% u tế bào sáng. Ít tăng ở u nhầy.
 - Độ nhạy 67%, độ đặc hiệu có thể > 90% → FDA công nhận HE4 để theo dõi tái phát/tiến triển.
-- Thường đo cùng CA125, kết hợp trong **ROMA test**.
+- Thường đo cùng CA125, kết hợp trong **ROMA test.**
 
 ### ROMA test
 
@@ -156,14 +156,14 @@ ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
 ### Đột biến BRCA1/BRCA2
 
 - Khiếm khuyết sửa DNA, tăng nguy cơ ung thư vú và buồng trứng.
-- Xét nghiệm khi có **tiền căn gia đình**: ≥ 3 người cùng huyết thống 1 hoặc 2 bị ung thư vú/buồng trứng (ít nhất một dưới 50 tuổi); 2 người trong cùng thế hệ (1 hoặc 2) bị ung thư vú/buồng trứng; Ung thư vú ở nam giới; Bệnh nhân < 50 tuổi; Người thân cùng lúc mắc ung thư vú và buồng trứng.
+- Xét nghiệm khi có **tiền căn gia đình:** ≥ 3 người cùng huyết thống 1 hoặc 2 bị ung thư vú/buồng trứng (ít nhất một dưới 50 tuổi); 2 người trong cùng thế hệ (1 hoặc 2) bị ung thư vú/buồng trứng; Ung thư vú ở nam giới; Bệnh nhân < 50 tuổi; Người thân cùng lúc mắc ung thư vú và buồng trứng.
 
 ### Các đột biến khác
 
-- **TP53**: Liên quan ung thư biểu mô buồng trứng thanh dịch grade cao; Cũng gặp nhiều ung thư khác, là chỉ báo tiên lượng xấu.
-- **PIK3CA**: Liên quan u tế bào sáng, u nhầy, u dạng nội mạc.
-- **CTNNB1 exon 3**: Gặp u dạng nội mạc ác tính grade thấp, giai đoạn sớm.
-- **KRAS**, **BRAF**: Thường gặp ở ung thư grade thấp.
+- **TP53:** Liên quan ung thư biểu mô buồng trứng thanh dịch grade cao; Cũng gặp nhiều ung thư khác, là chỉ báo tiên lượng xấu.
+- **PIK3CA:** Liên quan u tế bào sáng, u nhầy, u dạng nội mạc.
+- **CTNNB1 exon 3:** Gặp u dạng nội mạc ác tính grade thấp, giai đoạn sớm.
+- **KRAS**, **BRAF:** Thường gặp ở ung thư grade thấp.
 
 ## Tài liệu tham khảo
 

@@ -10,11 +10,11 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 
 ## Yếu tố nguy cơ
 
-- **Tuổi**: Lớn tuổi liên quan mật thiết đến vô sinh, dị tật thai, thai chết lưu và RPL. Phụ nữ trên 35 tuổi có nguy cơ mất thai sau RPL tăng gấp đôi và tỷ lệ bất thường nhiễm sắc thể cao hơn. Tuổi cha tuy có liên quan đến sảy thai nhưng chưa chứng minh rõ với RPL.
-- **Stress**: Có liên quan đến RPL nhưng không được xác định là nguyên nhân trực tiếp.
-- **Môi trường và nghề nghiệp**: Một số nghiên cứu nhỏ gợi ý thuốc trừ sâu, kim loại nặng, thiếu vi chất có thể tăng RPL, nhưng chưa đủ chứng cứ.
-- **Viêm mạn nội mạc tử cung**: Viêm mạn và bất thường cơ chế "kiểm soát" làm tổ tại nội mạc tử cung có thể góp phần vào RPL, cần thêm nghiên cứu và dữ liệu đối chứng.
-- **Hút thuốc lá, béo phì và uống rượu**: Giảm cơ hội sinh sống và ảnh hưởng tiêu cực đến kết cục thai kỳ.
+- **Tuổi:** Lớn tuổi liên quan mật thiết đến vô sinh, dị tật thai, thai chết lưu và RPL. Phụ nữ trên 35 tuổi có nguy cơ mất thai sau RPL tăng gấp đôi và tỷ lệ bất thường nhiễm sắc thể cao hơn. Tuổi cha tuy có liên quan đến sảy thai nhưng chưa chứng minh rõ với RPL.
+- **Stress:** Có liên quan đến RPL nhưng không được xác định là nguyên nhân trực tiếp.
+- **Môi trường và nghề nghiệp:** Một số nghiên cứu nhỏ gợi ý thuốc trừ sâu, kim loại nặng, thiếu vi chất có thể tăng RPL, nhưng chưa đủ chứng cứ.
+- **Viêm mạn nội mạc tử cung:** Viêm mạn và bất thường cơ chế "kiểm soát" làm tổ tại nội mạc tử cung có thể góp phần vào RPL, cần thêm nghiên cứu và dữ liệu đối chứng.
+- **Hút thuốc lá, béo phì và uống rượu:** Giảm cơ hội sinh sống và ảnh hưởng tiêu cực đến kết cục thai kỳ.
 
 ## Tiếp cận
 
@@ -42,13 +42,17 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 ### Khảo sát giải phẫu tử cung
 
 - Siêu âm 3D là lựa chọn đầu tay, có thể thay thế bằng SIS hoặc MRI nếu cần.
-  | Bất thường giải phẫu tử cung | Điều trị |
+
+  _Bảng "Bất thường giải phẫu tử cung"_.
+
+  | Bất thường giải phẫu tử cung                          | Điều trị                                                                                                   |
   | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-  | **Tử cung có vách ngăn** | Nội soi buồng tử cung cắt vách ngăn |
-  | **U xơ tử cung** | Nội soi buồng tử cung cắt u xơ dưới niêm mạc hoặc phẫu thuật tối thiểu trên u xơ có biến dạng lòng tử cung |
-  | **Polyp nội mạc tử cung** | Nội soi buồng tử cung cắt polyp |
-  | **Dính buồng tử cung** | Nội soi cắt dính và phòng ngừa dính tái phát |
-  | **Các dị dạng khác (tử cung đôi, tử cung 2 sừng...)** | Không khuyến cáo can thiệp do thiếu chứng cứ lợi ích |
+  | **Tử cung có vách ngăn**                              | Nội soi buồng tử cung cắt vách ngăn                                                                        |
+  | **U xơ tử cung**                                      | Nội soi buồng tử cung cắt u xơ dưới niêm mạc hoặc phẫu thuật tối thiểu trên u xơ có biến dạng lòng tử cung |
+  | **Polyp nội mạc tử cung**                             | Nội soi buồng tử cung cắt polyp                                                                            |
+  | **Dính buồng tử cung**                                | Nội soi cắt dính và phòng ngừa dính tái phát                                                               |
+  | **Các dị dạng khác (tử cung đôi, tử cung 2 sừng...)** | Không khuyến cáo can thiệp do thiếu chứng cứ lợi ích                                                       |
+
 - Khảo sát hệ niệu khi phát hiện dị dạng.
 
 ![Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp](./_images/thai-nghen-that-bai-som-lien-tiep/luoc-do-tiep-can-thai-nghen-that-bai-som-lien-tiep.png)
