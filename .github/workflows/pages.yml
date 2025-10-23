@@ -19,6 +19,8 @@ jobs:
 
       - name: Run build
         uses: area44/workflows/astro@v2.2.2
+        env:
+          BASE: / # Set base to "/" because Starlight doesn't support custom base paths
 
   # deploy:
   #   needs: build

@@ -1,7 +1,7 @@
 {
   "name": "@medpocket/18-months",
   "version": "0.2.0",
-  "description": "Đây là tài liệu sản khoa",
+  "description": "Kiến thức sản phụ khoa",
   "author": "MedPocket",
   "scripts": {
     "build": "astro build",
