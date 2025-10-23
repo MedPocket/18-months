@@ -20,7 +20,7 @@ Các phương pháp phổ biến gồm triệt sản nam và triệt sản nữ.
 
 **Cơ chế tác dụng:** Thắt hoặc cắt ống dẫn tinh → tinh trùng không đi vào tinh dịch, không thể thụ tinh.
 
-### Chỉ định – Chống chỉ định
+### Chỉ định - Chống chỉ định
 
 **Chỉ định:**
 
@@ -37,7 +37,7 @@ Các phương pháp phổ biến gồm triệt sản nam và triệt sản nữ.
 - Bệnh nội khoa nặng chưa kiểm soát.
 - Rối loạn đông máu.
 
-### Ưu – Nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm:**
 
@@ -53,9 +53,9 @@ Các phương pháp phổ biến gồm triệt sản nam và triệt sản nữ.
 
 :::caution
 
-- Thủ thuật thường kéo dài 15–30 phút, không cần nằm viện.
+- Thủ thuật thường kéo dài 15-30 phút, không cần nằm viện.
 - Nghỉ ngơi, chườm lạnh sau mổ để giảm sưng đau.
-- Sau 2–3 tháng hoặc 20 lần xuất tinh, cần xét nghiệm tinh dịch đồ để xác nhận không còn tinh trùng hoặc cần dùng biện pháp tránh thai khác (bao cao su).
+- Sau 2-3 tháng hoặc 20 lần xuất tinh, cần xét nghiệm tinh dịch đồ để xác nhận không còn tinh trùng hoặc cần dùng biện pháp tránh thai khác (bao cao su).
 
 :::
 
@@ -63,7 +63,7 @@ Các phương pháp phổ biến gồm triệt sản nam và triệt sản nữ.
 
 ### Đặc điểm
 
-**Tính hiệu quả (Pearl Index):** Perfect 0.5; Typical 0.5–1.
+**Tính hiệu quả (Pearl Index):** Perfect 0.5; Typical 0.5-1.
 
 **Tính an toàn:**
 
@@ -74,7 +74,7 @@ Các phương pháp phổ biến gồm triệt sản nam và triệt sản nữ.
 
 **Cơ chế tác dụng:** Thắt, cắt hoặc bịt kín ống dẫn trứng → tinh trùng không gặp được trứng.
 
-### Chỉ định – Chống chỉ định
+### Chỉ định - Chống chỉ định
 
 **Chỉ định:**
 
@@ -91,7 +91,7 @@ Các phương pháp phổ biến gồm triệt sản nam và triệt sản nữ.
 - Tiền sử mổ bụng nhiều lần → nguy cơ dính.
 - Bệnh nội khoa chưa kiểm soát (tim mạch, hô hấp).
 
-### Ưu – Nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm:**
 
@@ -107,5 +107,5 @@ Các phương pháp phổ biến gồm triệt sản nam và triệt sản nữ.
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
-- World Health Organization (2018) – _Family Planning: A Global Handbook for Providers_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_

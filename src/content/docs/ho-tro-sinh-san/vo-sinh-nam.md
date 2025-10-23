@@ -38,7 +38,7 @@ _Bảng "Phân loại tổn thương chức năng tinh hoàn theo vùng tổn th
 |                                                   | Giảm sản tế bào Leydig                                      | Đột biến thụ thể LH                                                                                          |
 |                                                   | Rối loạn tổng hợp steroid                                   | Khiếm khuyết men tổng hợp testosterone                                                                       |
 |                                                   | Vô căn                                                      | N46                                                                                                          |
-| **Trục hạ đồi – tuyến yên – tinh hoàn**           |                                                             |                                                                                                              |
+| **Trục hạ đồi - tuyến yên - tinh hoàn**           |                                                             |                                                                                                              |
 |                                                   | Hội chứng suy sinh dục khởi phát muộn                       | Suy sinh dục nguyên phát hoặc thứ phát                                                                       |
 | **Tổn thương ống dẫn tinh và tuyến phụ sinh dục** |                                                             |                                                                                                              |
 |                                                   | Viêm nhiễm                                                  | Vi khuẩn, virus, Chlamydia                                                                                   |
@@ -182,7 +182,7 @@ Tùy theo kết quả thăm khám sẽ có những hình thức điều trị c�
 | Nhiễm trùng                                                   | Kháng sinh                                                                   |
 | Bệnh lý mãn tính (suy thận, đái tháo đường)                   | Điều trị bệnh lý nền                                                         |
 | Thuốc, thuốc phiện, độc chất                                  | Điều trị hỗ trợ loại trừ hoặc tăng đào thải                                  |
-| Vô tinh do tắc                                                | Nối ống dẫn tinh – mào tinh, nối ống dẫn tinh đầu – tận, TESE                |
+| Vô tinh do tắc                                                | Nối ống dẫn tinh - mào tinh, nối ống dẫn tinh đầu - tận, TESE                |
 | Rối loạn cương                                                | Tư vấn tâm lý tính dục, ức chế PDE-5, tiêm prostaglandin                     |
 | Xuất tinh ngược dòng                                          | Imipramine, Midodrine                                                        |
 | **Điều trị dự phòng**                                         |                                                                              |
@@ -207,7 +207,7 @@ _Hình ảnh "Lưu đồ xử trí tinh trùng yếu, ít, dị dạng"._
 
 ![Lưu đồ xử trí tinh trùng yếu, ít, dị dạng](./_images/vo-sinh-nam/hung-vuong-luu-do-xu-tri-thieu-tinh.png)
 
-**Tinh dịch đồ** thực hiện ít nhất 2 lần, cách nhau 3 – 4 tuần: Phân loại mức độ nhẹ, trung bình, nặng để có hướng xử trí thích hợp.
+**Tinh dịch đồ** thực hiện ít nhất 2 lần, cách nhau 3 - 4 tuần: Phân loại mức độ nhẹ, trung bình, nặng để có hướng xử trí thích hợp.
 
 - Nếu mức độ nặng xử trí trữ đông tinh trùng và tư vấn thụ tinh ống nghiệm.
 - Thực hiện thăm khám tầm soát nguyên nhân cho cả 3 trường hợp.
@@ -215,7 +215,7 @@ _Hình ảnh "Lưu đồ xử trí tinh trùng yếu, ít, dị dạng"._
 **Định lượng nội tiết sinh sản:**
 
 - Nếu **FSH > 12 IU/L và/hoặc LH > 12 IU/L** → Hypergonadotropin → Trữ đông tinh trùng và tư vấn thụ tinh ống nghiệm.
-- Nếu **FSH < 12 IU/L và LH < 12 IU/L:** Điều trị nội khoa; Giãn tĩnh mạch thừng tinh đủ chỉ định phẫu thuật → phẫu thuật; Tinh dịch đồ kiểm tra mỗi tháng trong 6 – 12 tháng.
+- Nếu **FSH < 12 IU/L và LH < 12 IU/L:** Điều trị nội khoa; Giãn tĩnh mạch thừng tinh đủ chỉ định phẫu thuật → phẫu thuật; Tinh dịch đồ kiểm tra mỗi tháng trong 6 - 12 tháng.
 
 Chỉ định **bơm tinh trùng vào buồng tử cung (IUI)** hoặc **thụ tinh ống nghiệm (IVF)** tùy thuộc mức độ cải thiện tinh trùng sau điều trị.
 
@@ -225,7 +225,7 @@ _Hình ảnh "Lưu đồ xử trí vô tinh"._
 
 ![Lưu đồ xử trí vô tinh](./_images/vo-sinh-nam/hung-vuong-luu-do-xu-tri-vo-tinh.png)
 
-**Tinh dịch đồ** thực hiện ít nhất 2 lần, cách nhau 3 – 4 tuần: xác định vô tinh.
+**Tinh dịch đồ** thực hiện ít nhất 2 lần, cách nhau 3 - 4 tuần: xác định vô tinh.
 
 **Phân loại vô tinh do tắc và vô tinh không do tắc:**
 
@@ -235,7 +235,7 @@ _Hình ảnh "Lưu đồ xử trí vô tinh"._
 **Định lượng nội tiết sinh sản:**
 
 - **Hypogonadotropin:** Bổ sung Gonadotropin ngoại sinh, đánh giá điều trị bằng định lượng nội tiết, tinh dịch đồ, kích thước tinh hoàn mỗi tháng.
-- **Gonadotropin bình thường hoặc tăng** điều trị theo chỉ số testosterone và tỉ lệ testosterone và Estradiol (T/E): Aromatase inhibitor 1mg/ngày trong 1-3 tháng, nếu thất bại đổi phác đồ; hCG 250 mcg/tuần trong 3-6 tháng, nếu thất bại đổi phác đồ; FSH 75IU – 225 IU cách ngày trong 3-6 tháng, nếu thất bại đánh giá ngưng điều trị nội khoa, tư vấn xin tinh trùng hiến hoặc xin con nuôi.
+- **Gonadotropin bình thường hoặc tăng** điều trị theo chỉ số testosterone và tỉ lệ testosterone và Estradiol (T/E): Aromatase inhibitor 1mg/ngày trong 1-3 tháng, nếu thất bại đổi phác đồ; hCG 250 mcg/tuần trong 3-6 tháng, nếu thất bại đổi phác đồ; FSH 75IU - 225 IU cách ngày trong 3-6 tháng, nếu thất bại đánh giá ngưng điều trị nội khoa, tư vấn xin tinh trùng hiến hoặc xin con nuôi.
 
 **Mục tiêu điều trị** là T > 8 ng/mL, T/E > 10 kéo dài ít nhất 3 tháng, có tinh trùng trong mẫu xuất tinh.
 
@@ -246,4 +246,4 @@ Chỉ định **IUI** hoặc **IVF** tùy thuộc mức độ cải thiện tinh
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Hùng Vương – [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)

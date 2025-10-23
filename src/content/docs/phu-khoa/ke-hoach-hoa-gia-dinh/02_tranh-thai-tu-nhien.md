@@ -104,8 +104,8 @@ Có thể kết hợp theo dõi nhiệt độ cơ thể hoặc dịch nhầy c�
 
 **Tính hiệu quả (Pearl Index):**
 
-- 6 tháng đầu: Perfect 0.5–2; Typical ~2.
-- Sau 6 tháng: Hiệu quả giảm còn ~50%.
+- 6 tháng đầu: Perfect 0.5-2; Typical 2.
+- Sau 6 tháng: Hiệu quả giảm còn 50%.
 
 **Tính an toàn:** An toàn tuyệt đối cho mẹ và bé.
 
@@ -144,7 +144,7 @@ Có thể kết hợp theo dõi nhiệt độ cơ thể hoặc dịch nhầy c�
 Cho trẻ bú mẹ **hoàn toàn trong 6 tháng đầu:**
 
 - Bú bất cứ khi nào bé muốn, cả ngày lẫn đêm.
-- Ít nhất 6–8 lần/ngày, không bỏ bú đêm.
+- Ít nhất 6-8 lần/ngày, không bỏ bú đêm.
 
 Không cho trẻ ăn thêm sữa ngoài, nước, hay thức ăn bổ sung trong 6 tháng đầu.
 

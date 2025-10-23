@@ -12,10 +12,10 @@ _Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ_.
 | Triệu chứng                          | Nhẹ                       | Vừa                                                                                                 | Nặng                                                                                                                                                                     | Rất nặng                                                                                                                                                                             |
 | ------------------------------------ | ------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Lâm sàng**                         | Căng bụng<br>Đau bụng nhẹ | Đau bụng trung bình<br>Căng bụng nhiều<br>Buồn nôn, nôn<br>Tiêu chảy<br>Có dịch ổ bụng trên siêu âm | Căng bụng nhiều<br>Rối loạn chức năng gan<br>Phù toàn thân<br>Khó thở, thở nhanh (>20 lần/phút)<br>Hạ huyết áp<br>Thiểu niệu<br>Tràn dịch màng phổi<br>Có dịch ổ bụng rõ | Nguy hiểm tính mạng<br>Tràn dịch màng phổi, màng tim, dịch ổ bụng nhiều<br>Suy thận, suy hô hấp cấp<br>Thiểu niệu hoặc vô niệu<br>Thuyên tắc mạch (có thể mạch não)<br>Thiếu oxy máu |
-| **Kích thước buồng trứng (siêu âm)** | ≤ 5 cm                    | 5–12 cm                                                                                             | > 12 cm                                                                                                                                                                  | -                                                                                                                                                                                    |
-| **Hematocrit (Hct)**                 | < 41%                     | 41–<45%                                                                                             | 45–<55%                                                                                                                                                                  | ≥ 55%                                                                                                                                                                                |
-| **Bạch cầu**                         | -                         | 10,000–15,000/mm³                                                                                   | 15,000–25,000/mm³                                                                                                                                                        | > 25,000/mm³                                                                                                                                                                         |
-| **Xét nghiệm khác**                  | -                         | -                                                                                                   | Creatinine > 1.5 mg/dL<br>ClCr ≥ 50 mL/phút (nếu có)<br>Hạ natri máu<br>Tăng kali máu                                                                                    | Creatinine 1–1.5 mg/dL<br>ClCr < 50 mL/phút                                                                                                                                          |
+| **Kích thước buồng trứng (siêu âm)** | ≤ 5 cm                    | 5-12 cm                                                                                             | > 12 cm                                                                                                                                                                  | -                                                                                                                                                                                    |
+| **Hematocrit (Hct)**                 | < 41%                     | 41-<45%                                                                                             | 45-<55%                                                                                                                                                                  | ≥ 55%                                                                                                                                                                                |
+| **Bạch cầu**                         | -                         | 10,000-15,000/mm³                                                                                   | 15,000-25,000/mm³                                                                                                                                                        | > 25,000/mm³                                                                                                                                                                         |
+| **Xét nghiệm khác**                  | -                         | -                                                                                                   | Creatinine > 1.5 mg/dL<br>ClCr ≥ 50 mL/phút (nếu có)<br>Hạ natri máu<br>Tăng kali máu                                                                                    | Creatinine 1-1.5 mg/dL<br>ClCr < 50 mL/phút                                                                                                                                          |
 
 ## Điều trị
 
@@ -50,15 +50,15 @@ _Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ_.
 ### Mức độ nặng
 
 **Điều trị nội trú tại khoa Hồi sức.** Nghỉ ngơi tuyệt đối.
-**Cân bằng dịch – điện giải:**
+**Cân bằng dịch - điện giải:**
 
-- NaCl 0,9%: 500–1000 mL/ngày.
-- Glucose 5%: 500–1000 mL/ngày.
+- NaCl 0,9%: 500-1000 mL/ngày.
+- Glucose 5%: 500-1000 mL/ngày.
 - **Tránh Lactated Ringer** vì nguy cơ tăng K⁺.
 
 **Chọc hút dịch ổ bụng khi** bụng căng, khó thở, thiểu niệu, ăn uống kém.
 
-**Chọc dò – dẫn lưu màng phổi/màng tim khi:**
+**Chọc dò - dẫn lưu màng phổi/màng tim khi:**
 
 - Tràn dịch gây khó thở, SpO₂ < 90%.
 - Dịch màng tim ảnh hưởng co bóp tim.
@@ -71,7 +71,7 @@ _Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ_.
 **Theo dõi định kỳ:**
 
 - Cân nặng, vòng bụng mỗi 24 giờ (cảnh báo khi tăng ≥ 1 kg/ngày).
-- Lượng dịch vào – ra mỗi 12 giờ (ưu tiên lượng nước tiểu > lượng dịch vào).
+- Lượng dịch vào - ra mỗi 12 giờ (ưu tiên lượng nước tiểu > lượng dịch vào).
 - Dấu hiệu sinh tồn mỗi 6 giờ.
 - Xét nghiệm công thức máu, điện giải, albumin mỗi 24 giờ.
 - Chức năng gan, thận, đông máu mỗi 48 giờ.
@@ -85,18 +85,18 @@ _Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ_.
 - Sử dụng FSH trong kích trứng.
 - Tiền sử OHSS.
 - Estradiol > 6000 pg/mL trước tiêm hCG hoặc tăng nhanh trong chu kỳ kích trứng.
-- Có > 15 nang kích thước 12–14 mm ở hai buồng trứng.
+- Có > 15 nang kích thước 12-14 mm ở hai buồng trứng.
 
 ### Biện pháp dự phòng
 
-**Cấp 1 – Trước khi kích trứng:**
+**Cấp 1 - Trước khi kích trứng:**
 
 - Lựa chọn **phác đồ kích trứng phù hợp.**
 - Ưu tiên **phác đồ antagonist.**
 - Không dùng **hCG hỗ trợ pha hoàng thể.**
 - Cân nhắc **nuôi trứng non trong ống nghiệm (IVM).**
 
-**Cấp 2 – Khi đáp ứng quá mức:**
+**Cấp 2 - Khi đáp ứng quá mức:**
 
 - **Giảm liều hCG** kích phóng noãn.
 - **Không tiêm hCG**, thay bằng **GnRH đồng vận** (Triptorelin 0,1 mg × 2 ống tiêm dưới da).
@@ -104,4 +104,4 @@ _Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ_.
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa: Bệnh nguyên bào nuôi_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa: Bệnh nguyên bào nuôi_

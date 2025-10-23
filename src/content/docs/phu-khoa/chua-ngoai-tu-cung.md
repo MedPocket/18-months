@@ -228,10 +228,10 @@ Chỉ định bệnh nhân sốc, mất máu nặng, không thể nội soi.
 
 **Mong có thai lại:**
 
-- **Tỷ lệ có thai lại:** Khoảng 60–70% phụ nữ có thể mang thai lại bình thường.
-- **Thời gian trung bình có thai lại:** Thường sau 6–12 tháng (nên chờ tối thiểu 3 tháng nếu điều trị MTX để tránh ảnh hưởng đến phôi thai).
-- **Tỷ lệ chửa ngoài tử cung tái phát:** 10–20% (cao hơn nếu đã có tiền sử chửa ngoài tử cung nhiều lần, hoặc còn tổn thương ống dẫn trứng đối bên).
-- **Tỷ lệ vô sinh sau mổ:** 15–30% tùy mức độ tổn thương vòi trứng và bệnh lý kèm theo (viêm dính, lạc nội mạc tử cung...).
+- **Tỷ lệ có thai lại:** Khoảng 60-70% phụ nữ có thể mang thai lại bình thường.
+- **Thời gian trung bình có thai lại:** Thường sau 6-12 tháng (nên chờ tối thiểu 3 tháng nếu điều trị MTX để tránh ảnh hưởng đến phôi thai).
+- **Tỷ lệ chửa ngoài tử cung tái phát:** 10-20% (cao hơn nếu đã có tiền sử chửa ngoài tử cung nhiều lần, hoặc còn tổn thương ống dẫn trứng đối bên).
+- **Tỷ lệ vô sinh sau mổ:** 15-30% tùy mức độ tổn thương vòi trứng và bệnh lý kèm theo (viêm dính, lạc nội mạc tử cung...).
 
 ## Tài liệu tham khảo
 

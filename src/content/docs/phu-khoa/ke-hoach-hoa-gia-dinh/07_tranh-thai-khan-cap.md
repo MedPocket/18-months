@@ -11,7 +11,7 @@ Các phương pháp phổ biến gồm thuốc tránh thai khẩn cấp (levonor
 
 **Tính hiệu quả (Pearl Index, tùy loại và thời điểm dùng):**
 
-- Levonorgestrel (1.5 mg liều duy nhất hoặc 0.75 mg x 2 lần cách nhau 12 giờ): Giảm nguy cơ có thai 75–85%.
+- Levonorgestrel (1.5 mg liều duy nhất hoặc 0.75 mg x 2 lần cách nhau 12 giờ): Giảm nguy cơ có thai 75-85%.
 - Ulipristal acetate (30 mg): Hiệu quả cao hơn levonorgestrel, có thể dùng trong vòng 120 giờ.
 
 **Tính an toàn:**
@@ -26,7 +26,7 @@ Các phương pháp phổ biến gồm thuốc tránh thai khẩn cấp (levonor
 - Ức chế hoặc làm chậm rụng trứng.
 - Giảm khả năng thụ tinh và làm tổ.
 
-### Chỉ định – Chống chỉ định
+### Chỉ định - Chống chỉ định
 
 **Chỉ định:**
 
@@ -42,7 +42,7 @@ Các phương pháp phổ biến gồm thuốc tránh thai khẩn cấp (levonor
 - Dị ứng với thành phần thuốc.
 - Đang dùng thuốc cảm ứng enzym gan (giảm hiệu quả, nhất là với levonorgestrel).
 
-### Ưu – Nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm:**
 
@@ -82,14 +82,14 @@ Không nên dùng thuốc tránh thai khẩn cấp quá 2 lần/tháng vì dễ 
 - An toàn với phụ nữ không có chống chỉ định đặt vòng.
 - Không ảnh hưởng khả năng sinh sản khi tháo vòng.
 
-**Tính kinh tế:** Chi phí ban đầu cao hơn thuốc, nhưng có thể dùng lâu dài (5–10 năm).
+**Tính kinh tế:** Chi phí ban đầu cao hơn thuốc, nhưng có thể dùng lâu dài (5-10 năm).
 
 **Cơ chế tác dụng:**
 
 - Ion đồng gây độc với tinh trùng và trứng, ngăn thụ tinh.
 - Ức chế niêm mạc tử cung, ngăn trứng làm tổ.
 
-### Chỉ định – Chống chỉ định
+### Chỉ định - Chống chỉ định
 
 **Chỉ định:**
 
@@ -109,7 +109,7 @@ Không nên dùng thuốc tránh thai khẩn cấp quá 2 lần/tháng vì dễ 
 - U xơ tử cung, bất thường cấu trúc tử cung.
 - Dị ứng với đồng, hội chứng Wilson.
 
-### Ưu – Nhược điểm
+### Ưu - Nhược điểm
 
 **Ưu điểm:**
 
@@ -131,11 +131,11 @@ Sau đặt:
 
 - Kiêng quan hệ 7 ngày.
 - Không thụt rửa âm đạo.
-- Tái khám sau 4–6 tuần.
+- Tái khám sau 4-6 tuần.
 
 Có thể giữ vòng để tránh thai lâu dài hoặc tháo khi không còn nhu cầu. Nếu chỉ muốn tránh thai khẩn cấp tạm thời, có thể tháo vòng khi đến kỳ kinh tiếp theo.
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) – _Phác đồ điều trị Sản Phụ khoa_
-- World Health Organization (2018) – _Family Planning: A Global Handbook for Providers_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_

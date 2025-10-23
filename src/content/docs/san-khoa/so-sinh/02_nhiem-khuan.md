@@ -46,11 +46,11 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 - Tỷ lệ bạch cầu non/trưởng thành > 0.2.
 - Tiểu cầu < 100 000/mm³.
 
-**CRP:** > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12–24h).
+**CRP:** > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12-24h).
 
 **Procalcitonin (PCT):** > 2 ng/mL gợi ý nhiễm khuẩn nặng.
 
-**Cấy máu:** Tiêu chuẩn vàng (nhưng cần 48–72 giờ).
+**Cấy máu:** Tiêu chuẩn vàng (nhưng cần 48-72 giờ).
 
 **Dịch não tuỷ** (khi nghi viêm màng não):
 
@@ -72,26 +72,26 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 
 **Nhiễm khuẩn sơ sinh khởi phát sớm:**
 
-- **Ampicillin:** 100–200 mg/kg/ngày, chia 2–3 lần, đường tĩnh mạch.
-- **Gentamicin:** 4–5 mg/kg/lần, mỗi 24–48 giờ (tùy tuổi thai và chức năng thận).
-- Hoặc thay Gentamicin bằng **Cefotaxime:** 100–150 mg/kg/ngày, chia 2–3 lần, đường tĩnh mạch.
+- **Ampicillin:** 100-200 mg/kg/ngày, chia 2-3 lần, đường tĩnh mạch.
+- **Gentamicin:** 4-5 mg/kg/lần, mỗi 24-48 giờ (tùy tuổi thai và chức năng thận).
+- Hoặc thay Gentamicin bằng **Cefotaxime:** 100-150 mg/kg/ngày, chia 2-3 lần, đường tĩnh mạch.
 
 **Nhiễm khuẩn khởi phát muộn hoặc bệnh viện:**
 
-- **Vancomycin:** 15 mg/kg/lần, mỗi 8–12 giờ.
-- \+ **Amikacin:** 15 mg/kg/lần, mỗi 24–48 giờ.
+- **Vancomycin:** 15 mg/kg/lần, mỗi 8-12 giờ.
+- \+ **Amikacin:** 15 mg/kg/lần, mỗi 24-48 giờ.
 - Hoặc **Meropenem:** 40 mg/kg/lần, mỗi 8 giờ (trường hợp nặng, đa kháng).
 
 **Thời gian điều trị:**
 
-- Nhiễm khuẩn huyết: 10–14 ngày.
-- Viêm phổi: 10–14 ngày.
-- Viêm màng não: 14–21 ngày.
+- Nhiễm khuẩn huyết: 10-14 ngày.
+- Viêm phổi: 10-14 ngày.
+- Viêm màng não: 14-21 ngày.
 
 **Điều trị hỗ trợ:**
 
 - Thở oxy, CPAP, hoặc thở máy khi suy hô hấp.
-- Truyền dịch 60–80 mL/kg/ngày (điều chỉnh theo tình trạng).
+- Truyền dịch 60-80 mL/kg/ngày (điều chỉnh theo tình trạng).
 - Dopamine/Dobutamine khi sốc.
 - Truyền tiểu cầu khi < 50 000/mm³ có xuất huyết.
 - Ưu tiên nuôi dưỡng bằng sữa mẹ.

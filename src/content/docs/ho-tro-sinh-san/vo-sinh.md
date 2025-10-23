@@ -21,4 +21,4 @@ Khả năng sinh sản cao nhất của nam và nữ là ở 24 tuổi, sau tu�
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Hùng Vương – [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)

@@ -22,7 +22,7 @@ _Bảng "So sánh Hội chứng kháng phosphilipid và Hội chứng tăng đô
 ### Hội chứng kháng phospholipid
 
 :::note[Tiêu chuẩn chẩn đoán APS]
-Chẩn đoán APS cần **ít nhất 1 xét nghiệm dương tính** (ở mức trung bình – cao) **lặp lại sau ≥12 tuần**, kèm theo bằng chứng lâm sàng (huyết khối hoặc biến chứng thai kỳ).
+Chẩn đoán APS cần **ít nhất 1 xét nghiệm dương tính** (ở mức trung bình - cao) **lặp lại sau ≥12 tuần**, kèm theo bằng chứng lâm sàng (huyết khối hoặc biến chứng thai kỳ).
 :::
 
 #### Lâm sàng
@@ -81,7 +81,7 @@ _Bảng "Xét nghiệm gene tăng đông"_.
 
 | Gene        | Kết quả      | Ý nghĩa                                               |
 | ----------- | ------------ | ----------------------------------------------------- |
-| F5 Leiden   | Heterozygous | Nguy cơ tăng đông tăng khoảng 3–5 lần                 |
+| F5 Leiden   | Heterozygous | Nguy cơ tăng đông tăng khoảng 3-5 lần                 |
 | F2 G20210A  | Wild type    | Bình thường                                           |
 | MTHFR C677T | Homozygous   | Có thể làm tăng homocysteine, cần xét nghiệm thêm máu |
 

@@ -41,9 +41,9 @@ Ung thư cổ tử cung là tình trạng tăng sản ác tính của niêm mạ
 
 Dưới đây là các **loại ung thư cổ tử cung** được phân loại theo mô học chính:
 
-- **Ung thư biểu mô tế bào vảy (Squamous Cell Carcinoma):** Chiếm khoảng 70–80% các trường hợp. Phát sinh từ tế bào lát tầng cổ tử cung, liên quan chặt chẽ với nhiễm HPV type nguy cơ cao (như 16, 18).
-- **Ung thư biểu mô tuyến (Adenocarcinoma):** Chiếm khoảng 15–25%. Phát sinh từ tế bào tuyến cổ tử cung. Tỷ lệ adenocarcinoma đang gia tăng, đặc biệt ở nhóm trẻ tuổi.
-- **Ung thư hỗn hợp tế bào vảy – tuyến (Adenosquamous Carcinoma):** Có cả thành phần tế bào vảy và tế bào tuyến. Ít gặp hơn, nhưng thường có tiên lượng tương đương ung thư tế bào vảy.
+- **Ung thư biểu mô tế bào vảy (Squamous Cell Carcinoma):** Chiếm khoảng 70-80% các trường hợp. Phát sinh từ tế bào lát tầng cổ tử cung, liên quan chặt chẽ với nhiễm HPV type nguy cơ cao (như 16, 18).
+- **Ung thư biểu mô tuyến (Adenocarcinoma):** Chiếm khoảng 15-25%. Phát sinh từ tế bào tuyến cổ tử cung. Tỷ lệ adenocarcinoma đang gia tăng, đặc biệt ở nhóm trẻ tuổi.
+- **Ung thư hỗn hợp tế bào vảy - tuyến (Adenosquamous Carcinoma):** Có cả thành phần tế bào vảy và tế bào tuyến. Ít gặp hơn, nhưng thường có tiên lượng tương đương ung thư tế bào vảy.
 - **Ung thư biểu mô nội tiết thần kinh (Neuroendocrine Carcinoma):** Ví dụ Small cell carcinoma, Large cell neuroendocrine carcinoma. Hiếm nhưng rất ác tính, thường tiến triển nhanh và dễ di căn.
 - **Ung thư biểu mô trong suốt (Clear Cell Carcinoma):** Liên quan với tiền sử mẹ dùng thuốc DES (diethylstilbestrol) khi mang thai. Hiếm, thường khởi phát ở độ tuổi trẻ.
 - **Glassy Cell Carcinoma:** Một dạng biệt hóa kém của tế bào vảy; rất ác tính, đáp ứng kém với điều trị.
@@ -111,8 +111,8 @@ Tiên lượng phụ thuộc giai đoạn tại chẩn đoán:
 
 - Giai đoạn 0: Tỷ lệ sống gần 100%. Nguy cơ tái phát < 5% khi rìa cắt âm tính và theo dõi đầy đủ.
 - Giai đoạn I: Tỷ lệ sống 5 năm > 90%.
-- Giai đoạn II: 60–75%.
-- Giai đoạn III: 30–50%.
+- Giai đoạn II: 60-75%.
+- Giai đoạn III: 30-50%.
 - Giai đoạn IV: < 20%.
 
 ## Tài liệu tham khảo
@@ -121,5 +121,5 @@ Tiên lượng phụ thuộc giai đoạn tại chẩn đoán:
 - WHO (2025) - _Cervical cancer: Key facts_
 - American Cancer Society (2025) - _Cervical Cancer Early Detection, Diagnosis, and Staging_
 - Berek JS, Novak E. (2019) - _Berek & Novak’s Gynecology_, 16th Edition
-- Landoni F., Maneo A., Colombo A., et al. (1997) - _Randomized study of radical surgery versus radiotherapy for stage Ib–IIa cervical cancer_ (The Lancet)
+- Landoni F., Maneo A., Colombo A., et al. (1997) - _Randomized study of radical surgery versus radiotherapy for stage Ib-IIa cervical cancer_ (The Lancet)
 - NCCN (2025) - _NCCN Clinical Practice Guidelines in Oncology: Cervical Cancer_, Version 1.2025

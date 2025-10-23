@@ -40,7 +40,7 @@ Chẩn đoán hội chứng buồng trứng đa nang khi có 2/3 tiêu chuẩn k
 
 **Lâm sàng:**
 
-- Rậm lông. Thang điểm Ferriman–Gallwey (điểm ≥ 3 được coi là rậm lông).
+- Rậm lông. Thang điểm Ferriman-Gallwey (điểm ≥ 3 được coi là rậm lông).
 - Hói đầu kiểu nam giới. Thang điểm Ludwig/Olsen (đánh giá hói đầu).
 - Mụn trứng cá.
 - Béo phì kiểu trung tâm.
@@ -72,11 +72,11 @@ _Bảng "Hội chứng chuyển hóa"_.
 | Triglycerides  | ≥ 150 mg/dL                                          |
 | HDL-C          | < 50 mg/dL                                           |
 | Huyết áp       | ≥ 130/85 mmHg                                        |
-| Đường huyết    | 110–126 mg/dL (đói) hoặc 140–199 mg/dL (2h sau OGTT) |
+| Đường huyết    | 110-126 mg/dL (đói) hoặc 140-199 mg/dL (2h sau OGTT) |
 
 Khuyến cáo OGTT 75 g đường để sàng lọc; HbA1c/đường đói chỉ mang tính tham khảo.
 
-Ở phụ nữ mang thai: nên làm OGTT lần đầu, và lặp lại 24–28 tuần.
+Ở phụ nữ mang thai: nên làm OGTT lần đầu, và lặp lại 24-28 tuần.
 
 ### Nguy cơ tim mạch
 
@@ -107,8 +107,8 @@ Mục tiêu: Kiểm soát kinh nguyệt, điều trị cường androgen, hội 
 **Viên kết hợp (EE + progestogen kháng androgen: cyproterone, drospirenone):**
 
 - Điều hòa kinh nguyệt, giảm nguy cơ tăng sản nội mạc tử cung.
-- Liều EE thấp (20–30 µg) được ưu tiên.
-- Không nên dùng liên tục; chu kỳ 3–4 tháng/lần.
+- Liều EE thấp (20-30 µg) được ưu tiên.
+- Không nên dùng liên tục; chu kỳ 3-4 tháng/lần.
 - EE 35 µg + cyproterone acetate là lựa chọn hàng 2.
 
 #### Metformin
@@ -125,7 +125,7 @@ GLP-1 agonists (liraglutide, semaglutide) hoặc orlistat (nếu BMI ≥ 25).
 
 Chỉ dùng khi sau ≥ 6 tháng COCs/thẩm mỹ chưa hiệu quả:
 
-- Spironolactone 25–100 mg/ngày tương đối an toàn.
+- Spironolactone 25-100 mg/ngày tương đối an toàn.
 - Hạn chế cyproterone acetate (≥ 10 mg), finasteride, flutamide, bicalutamide (nguy cơ gan/u màng não).
 
 #### Inositol, laser/ánh sáng
@@ -150,7 +150,7 @@ _Hình ảnh "Lược đồ điều trị hiếm muộn cho phụ nữ buồng t
 Letrozole (LE) là lựa chọn đầu tay:
 
 - Đây là chất ức chế aromatase → ức chế tổng hợp androgen thành estrogen → giảm feedback âm tính → tăng FSH nội sinh → kích thích phát triển nang noãn.
-- Liều: Femara 2.5–7.5 mg x 5 ngày (từ ngày 2–4 của chu kỳ), tối đa 7.5 mg.
+- Liều: Femara 2.5-7.5 mg x 5 ngày (từ ngày 2-4 của chu kỳ), tối đa 7.5 mg.
 - Nang đáp ứng > 10 mm, E2 < 70 pg/mL, P4 < 1 ng/mL. Dùng từ 2-3 chu kỳ kinh.
 - Tỷ lệ đa thai thấp hơn clomiphene.
 
@@ -159,7 +159,7 @@ Letrozole (LE) là lựa chọn đầu tay:
 Clomiphene citrate điều hòa thụ thể estrogen chọn lọc:
 
 - Gắn vào thụ thể estrogen vùng hạ đồi và tuyến yên → ức chế feedback âm tính → tăng GnRH → tăng FSH và LH → kích thích phát triển nang noãn.
-- Liều: CC 50-150 mg x 5 ngày (ngày 2–5); tối đa 150 mg/ngày.
+- Liều: CC 50-150 mg x 5 ngày (ngày 2-5); tối đa 150 mg/ngày.
 - Không > 6 chu kỳ liên tiếp, hoặc > 12 chu kỳ trọn đời.
 - CC + metformin hiệu quả hơn CC đơn lẻ.
 
@@ -168,7 +168,7 @@ Clomiphene citrate điều hòa thụ thể estrogen chọn lọc:
 PCOS đề kháng insulin → cường androgen tại buồng trứng gây không phóng noãn:
 
 - Dùng metformin cải thiện kháng insulin, tăng nhạy cảm insulin, giảm sản xuất glucose gan → hỗ trợ phóng noãn, giảm cân, giảm androgen.
-- Liều: Metformin 500 mg x 2–3 lần/ngày.
+- Liều: Metformin 500 mg x 2-3 lần/ngày.
 
 Dùng CC + Metformin nên ưu tiên với BN béo phì (BMI ≥ 30) hoặc có tình trạng đề kháng với CC.
 
@@ -178,12 +178,12 @@ Gonadotropin là nhóm hormone peptide điều hòa tuyến sinh dục (buồng 
 
 - FSH kích thích nang noãn, LH gây rụng trứng và hoàng thể hóa, hCG mô phỏng LH duy trì thai kỳ.
 - Thường dùng khi kháng CC.
-- Phác đồ step-up: FSH 37.5–50 IU/ngày x 14 ngày, tăng dần 25–37.5 IU tùy đáp ứng. Chỉ khởi động kích trứng khi có ≤ 2 nang trứng > 14 mm.
+- Phác đồ step-up: FSH 37.5-50 IU/ngày x 14 ngày, tăng dần 25-37.5 IU tùy đáp ứng. Chỉ khởi động kích trứng khi có ≤ 2 nang trứng > 14 mm.
 - Nguy cơ: Đa thai, chi phí cao.
 
 #### Nội soi đốt điểm buồng trứng
 
-Chỉ định khi kháng CC/gonadotropin. Đốt 4–10 điểm, sâu 4 mm, 40 W x 4 giây. Theo dõi hiệu quả 3-6 tháng; Không lặp lại nếu không hiệu quả.
+Chỉ định khi kháng CC/gonadotropin. Đốt 4-10 điểm, sâu 4 mm, 40 W x 4 giây. Theo dõi hiệu quả 3-6 tháng; Không lặp lại nếu không hiệu quả.
 
 #### IVF/ICSI
 
@@ -192,7 +192,7 @@ Khi thất bại với biện pháp khác hoặc có yếu tố vô sinh kèm th
 - Ưu tiên phác đồ GnRH antagonist và khởi động rụng trứng bằng GnRH agonist để giảm quá kích buồng trứng (OHSS - Ovarian hyperstimulation syndrome).
 - Có thể dụng FSH tái tổ hợp hoặc FSH từ nước tiểu, không cần bổ sung LH tái tổ hợp.
 
-Có thể sử dụng metformin 1000–2500 mg/ngày trước 8 tuần và/hoặc trong kích thích có thể giảm nguy cơ quá kích.
+Có thể sử dụng metformin 1000-2500 mg/ngày trước 8 tuần và/hoặc trong kích thích có thể giảm nguy cơ quá kích.
 
 #### In-Vitro Maturation (IVM)
 
@@ -200,6 +200,6 @@ Lấy noãn non, nuôi trưởng thành ngoài cơ thể → tránh kích thích
 
 ## Tài liệu tham khảo
 
-- HOSREM – [_Cẩm nang Hội chứng buồng trứng đa nang_](https://hosrem.org.vn/detailNews/hoatdong/te-bao-la-nuoi-phoi-trophectoderm-te-o-phoi-kham-cho-thay-muc-do-chet-theo-chuong-trinh-te-bao-tang-va-khiem-khuyet-kha-nang-biet-hoa-bang-chung-sinh-hoc-phan-tu-ve-tiem-nang-sinh-san-cua-phoi-kham-8303)
-- HOSREM – [_Kéo dài thời gian điều trị letrozole ở PCOS kháng letrozole_](https://hosrem.org.vn/detailNews/thongtin/keo-dai-thoi-gian-dieu-tri-letrozole-co-hieu-qua-trong-viec-gay-rung-trung-o-phu-nu-mac-hoi-chung-buong-trung-da-nang-va-khang-letrozole-6668)
-- Bệnh viện Hùng Vương – [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+- HOSREM - [_Cẩm nang Hội chứng buồng trứng đa nang_](https://hosrem.org.vn/detailNews/hoatdong/te-bao-la-nuoi-phoi-trophectoderm-te-o-phoi-kham-cho-thay-muc-do-chet-theo-chuong-trinh-te-bao-tang-va-khiem-khuyet-kha-nang-biet-hoa-bang-chung-sinh-hoc-phan-tu-ve-tiem-nang-sinh-san-cua-phoi-kham-8303)
+- HOSREM - [_Kéo dài thời gian điều trị letrozole ở PCOS kháng letrozole_](https://hosrem.org.vn/detailNews/thongtin/keo-dai-thoi-gian-dieu-tri-letrozole-co-hieu-qua-trong-viec-gay-rung-trung-o-phu-nu-mac-hoi-chung-buong-trung-da-nang-va-khang-letrozole-6668)
+- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)

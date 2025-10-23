@@ -207,6 +207,13 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       "phu-khoa/sa-tang-chau",
+      {
+        label: "Tổn thương trong phẫu thuật",
+        autogenerate: {
+          directory: "phu-khoa/ton-thuong-phau-thuat",
+        },
+        collapsed: true,
+      },
       "phu-khoa/lanh-thuong",
     ],
   },
