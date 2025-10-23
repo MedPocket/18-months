@@ -11,7 +11,7 @@ _Bảng "Đặc điểm vàng da sơ sinh"_.
 | ---------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **Thời điểm xuất hiện**      | Sau **24 giờ** sau sinh (thường ngày 2-3)                            | Trong **24 giờ đầu** sau sinh                                                                                  |
 | **Mức độ vàng da**           | Nhẹ đến vừa, bilirubin tăng chậm                                     | Nặng, bilirubin tăng nhanh                                                                                     |
-| **Tốc độ tăng bilirubin**    | < **5 mg/dL/ngày**                                                   | ≥**5 mg/dL/ngày**                                                                                              |
+| **Tốc độ tăng bilirubin**    | < **5 mg/dL/ngày**                                                   | ≥ **5 mg/dL/ngày**                                                                                             |
 | **Giá trị bilirubin tối đa** | < **12 mg/dL** (trẻ đủ tháng) <br> < **14–15 mg/dL** (trẻ non tháng) | > **12–15 mg/dL** (đủ tháng) <br> > **10 mg/dL** (non tháng)                                                   |
 | **Thời gian kéo dài**        | < **7 ngày** (trẻ đủ tháng) <br> < **10–14 ngày** (trẻ non tháng)    | > **7 ngày** (đủ tháng) <br> > **14 ngày** (non tháng)                                                         |
 | **Bilirubin trực tiếp**      | Bình thường (< 2 mg/dL, < 20% tổng bilirubin)                        | > 2 mg/dL hoặc > 20% tổng bilirubin                                                                            |
@@ -120,8 +120,8 @@ Thay máu là **điều trị hàng thứ hai.**
 
 **Chỉ định:**
 
-- Bilirubin máu dây rốn > 4.5 mg/dL (> 75 µmol/L) và Hb < 11g%.
-- Bilirubin tăng > 1 mg/dL/giờ (> 17 µmol/L/giờ) dù đã chiếu đèn và Hb 11-13g%.
+- Bilirubin máu dây rốn > 4.5 mg/dL (> 75 µmol/L) và Hb < 11 g%.
+- Bilirubin tăng > 1 mg/dL/giờ (> 17 µmol/L/giờ) dù đã chiếu đèn và Hb 11-13 g%.
 - Bilirubin tăng > 20 mg/dL (> 340 µmol/L) và vẫn tiếp tục tăng cao sau 24 giờ điều trị dự phòng và nhất là ở trẻ đẻ non có nguy cơ.
 
 **Tai biến:** Ngưng tim do bơm nhanh, rối loạn nhịp tim, tắc mạch, sốc, rối loạn điện giải, xuất huyết giảm tiểu cầu, rối loạn đông máu, nhiễm trùng máu, viêm gan, sốt rét, cytomegalovirus, HIV, tắc ống thông.
