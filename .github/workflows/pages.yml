@@ -18,9 +18,9 @@ jobs:
         uses: actions/checkout@v5
 
       - name: Run build
-        uses: area44/workflows/astro@v2.2.2
+        uses: area44/workflows/astro@v3.0.0
         env:
-          BASE: / # Set base to "/" because Starlight doesn't support custom base paths
+          base: / # Set base to "/" because Starlight doesn't support custom base paths
 
   # deploy:
   #   needs: build
