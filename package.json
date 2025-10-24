@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.36.1",
-    "astro": "^5.14.6",
+    "astro": "^5.15.1",
     "astro-og-canvas": "^0.7.2",
     "canvaskit-wasm": "^0.40.0",
     "mdast-util-to-string": "^4.0.0",
@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@area44/biome-config": "^2.2.6",
-    "@biomejs/biome": "^2.2.6",
+    "@biomejs/biome": "^2.2.7",
     "@types/hast": "^3.0.4",
     "@types/mdast": "^4.0.4",
     "prettier": "^3.6.2",
