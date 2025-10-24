@@ -20,7 +20,7 @@ jobs:
       - name: Run build
         uses: area44/workflows/astro@v3.0.0
         env:
-          base: / # Set base to "/" because Starlight doesn't support custom base paths
+          BASE: / # Set base to "/" because Starlight doesn't support custom base paths
 
   # deploy:
   #   needs: build
@@ -33,3 +33,4 @@ jobs:
   #     - name: Deploy to GitHub Pages
   #       id: deployment
   #       uses: actions/deploy-pages@v4
+
