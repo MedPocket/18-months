@@ -1,5 +1,5 @@
 ---
-title: Bổ sung vi chất trong thai kỳ
+title: Vi chất
 description: Hướng dẫn đầy đủ về vai trò, cách bổ sung và liều lượng acid folic, sắt, canxi, DHA, magie cho phụ nữ mang thai.
 ---
 

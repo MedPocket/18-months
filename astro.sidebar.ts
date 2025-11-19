@@ -98,7 +98,7 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Một số vấn đề khi mang thai",
+        label: "Các vấn đề thường gặp",
         autogenerate: {
           directory: "san-khoa/mang-thai",
         },
@@ -119,7 +119,7 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Sử dụng thuốc",
+        label: "Thuốc",
         autogenerate: {
           directory: "san-khoa/thuoc",
         },

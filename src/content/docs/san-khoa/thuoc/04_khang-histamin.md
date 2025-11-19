@@ -1,5 +1,5 @@
 ---
-title: Kháng histamin trong thai kỳ
+title: Kháng histamin
 description: Hướng dẫn sử dụng kháng histamin trong thai kỳ.
 ---
 

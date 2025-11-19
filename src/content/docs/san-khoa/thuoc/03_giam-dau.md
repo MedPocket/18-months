@@ -1,5 +1,5 @@
 ---
-title: Giảm đau trong thai kỳ
+title: Giảm đau
 description: Sử dụng các thuốc giảm đau trong thai kỳ.
 ---
 
