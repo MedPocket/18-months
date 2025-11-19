@@ -8,38 +8,16 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 1. RPL nguyên phát xảy ra mà không có thai kỳ nào vượt qua 24 tuần trước đó.
 2. RPL thứ phát xảy ra sau hoặc nhiều thai kỳ có con sống trước đó.
 
-## Yếu tố nguy cơ
+## Nguyên nhân
 
-- **Tuổi:** Lớn tuổi liên quan mật thiết đến vô sinh, dị tật thai, thai chết lưu và RPL. Phụ nữ trên 35 tuổi có nguy cơ mất thai sau RPL tăng gấp đôi và tỷ lệ bất thường nhiễm sắc thể cao hơn. Tuổi cha tuy có liên quan đến sảy thai nhưng chưa chứng minh rõ với RPL.
-- **Stress:** Có liên quan đến RPL nhưng không được xác định là nguyên nhân trực tiếp.
-- **Môi trường và nghề nghiệp:** Một số nghiên cứu nhỏ gợi ý thuốc trừ sâu, kim loại nặng, thiếu vi chất có thể tăng RPL, nhưng chưa đủ chứng cứ.
-- **Viêm mạn nội mạc tử cung:** Viêm mạn và bất thường cơ chế "kiểm soát" làm tổ tại nội mạc tử cung có thể góp phần vào RPL, cần thêm nghiên cứu và dữ liệu đối chứng.
-- **Hút thuốc lá, béo phì và uống rượu:** Giảm cơ hội sinh sống và ảnh hưởng tiêu cực đến kết cục thai kỳ.
+### Vật chất di truyền
 
-## Tiếp cận
-
-### Khảo sát vật chất di truyền
-
-- **Bất thường di truyền phôi** chiếm 86-91% RPL. Khuyến cáo **xét nghiệm array-CGH cho mô thai tống xuất** để xác định nguyên nhân, hạn chế nhiễm chéo từ mẹ.
+- **Bất thường di truyền phôi** chiếm 86-91% RPL. Tuổi mẹ càng cao càng tăng nguy cơ RPL. Khuyến cáo **xét nghiệm array-CGH cho mô thai tống xuất** để xác định nguyên nhân, hạn chế nhiễm chéo từ mẹ.
 - **Bất thường nhiễm sắc thể ở bố mẹ** (chuyển đoạn, đảo đoạn...) chiếm 1.9-3.5% RPL; Chỉ làm karyotype khi có yếu tố nguy cơ gia đình.
-- **Tầm soát tiền làm tổ (PGT)** phát hiện lệch bội và bất thường DNA ti thể/phôi.
+- **Tầm soát tiền làm tổ (PGT)** phát hiện lệch bội và bất thường DNA ty thể/phôi.
+- **Phân tích di truyền phôi thai (POC):** Có thể thực hiện cho mục đích giải thích.
 
-### Khảo sát tăng đông
-
-- **Thrombophilia di truyền** không khuyến cáo sàng lọc thường quy.
-- **Hội chứng kháng phospholipid (APS)** cần xét nghiệm Lupus anticoagulant và anticardiolipin antibodies với chứng cứ mạnh; Β2-Glycoprotein 1 antibodies cân nhắc.
-
-### Khảo sát miễn dịch
-
-- HLA, anti-HY, cytokine polymorphism, antinuclear antibodies không khuyến cáo thường quy, chỉ theo trường hợp.
-
-### Khảo sát nội tiết - chuyển hóa
-
-- TSH và TPO-Ab nên sàng lọc định kỳ.
-- Bất thường thyroid theo dõi thêm FT₄. Prolactin, insulin, PCOS, sex steroids không khuyến cáo nếu không có dấu hiệu lâm sàng.
-- Vitamin D được bổ sung theo khuyến nghị chung.
-
-### Khảo sát giải phẫu tử cung
+### Cấu trúc tử cung
 
 - Siêu âm 3D là lựa chọn đầu tay, có thể thay thế bằng SIS hoặc MRI nếu cần.
 
@@ -55,7 +33,59 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 
 - Khảo sát hệ niệu khi phát hiện dị dạng.
 
-![Lược đồ tiếp cận thai nghén thất bại sớm liên tiếp](./_images/thai-nghen-that-bai-som-lien-tiep/luoc-do-tiep-can-thai-nghen-that-bai-som-lien-tiep.png)
+### Tăng đông
+
+- **Thrombophilia di truyền (Factor V Leiden, Prothrombin G20210A, Protein C/S, Antithrombin III, MTHFR)** không khuyến cáo sàng lọc thường quy.
+- **Hội chứng kháng phospholipid (APS)** chiếm 8-42% các trường hợp. Cần xét nghiệm Lupus anticoagulant và anticardiolipin antibodies với chứng cứ mạnh; Β2-Glycoprotein 1 antibodies cân nhắc.
+
+### Miễn dịch
+
+- HLA, anti-HY, cytokine polymorphism, antinuclear antibodies không khuyến cáo thường quy, chỉ theo trường hợp.
+
+### Nội tiết - chuyển hóa
+
+- Suy giáp/TSH >2.5 mIU/mL tăng nguy cơ sảy RPL. Kháng thể kháng giáp (TPO-Ab) liên quan đến RPL nhưng chưa khuyến nghị điều trị levothyroxine nếu TSH bình thường.
+- PCOS cường androgen, kháng insulin gây viêm nội mạc tử cung gây tăng nguy cơ sảy thai.
+- Bất thường thyroid theo dõi thêm FT₄. Prolactin, insulin, PCOS, sex steroids không khuyến cáo nếu không có dấu hiệu lâm sàng.
+- Vitamin D được bổ sung theo khuyến nghị chung.
+
+### Nhiễm trùng và môi trường sống
+
+- Viêm nội mạc tử cung làm giảm làm tổ, tăng sảy thai. **Chẩn đoán dựa vào CD138, sinh thiết, microbiome.** Có thể dùng kháng sinh điều trị cải thiện tỷ lệ sống.
+- Hút thuốc lá, béo phì, thiếu cân, tiêu thụ rượu và caffein quá mức cũng làm tăng RPL.
+- Mẹ tuổi cao khiến chất lượng trứng suy giảm.
+- Căng thẳng, stress không là nguyên nhân trực tiếp nhưng cần hỗ trợ tâm lý.
+
+### Yếu tố từ chồng
+
+- Tuổi >35, hút thuốc, rượu, béo phì, nghề nghiệp độc hại.
+- Chỉ định làm tinh dịch đồ khi có chỉ định.
+
+## Điều trị
+
+### Theo nguyên nhân
+
+- **Điều trị APS:** Aspirin liều thấp (75-150 mg/ngày) + Heparin trọng lượng phân tử thấp trong thai kỳ tới ít nhất tuần thứ 34.
+- **Bất thường giải phẫu tử cung:** Phẫu thuật cắt bỏ vách tử cung.
+- **Rối loạn nội tiết:** Ưu tiên kiểm soát nội tiết.
+- **Yếu tố di truyền:** Tư vấn làm IVF với PGT-SR cho các cặp vợ chồng chuyển đoạn nhiễm sắc thể.
+- **Thay đổi lối sống:** Ngưng hút thuốc, duy trì BMI khỏe mạnh (18.5-24.9) trước khi mang thai, hạn chế rượu/caffein.
+
+### Progesterone
+
+**Tác dụng:**
+
+- Chuẩn bị niêm mạc tử cung (từ tăng sản sang chế tiết).
+- Điều hòa đáp ứng miễn dịch mẹ-thai nhi (bán dị ghép).
+- Tăng tuần hoàn.
+- Giảm cytokine gây viêm, giảm tạo prostaglandin, giảm viêm nội mạc tử cung.
+- Giảm co thắt tử cung, ức chế đối vận với oxytocin.
+- Giữ môi trường tử cung yên tĩnh.
+- Giữ toàn vẹn cổ tử cung.
+
+**Liều dùng:**
+
+- Đặt âm đạo 400-800 mg/ngày đến 16 tuần khi có ra huyết sớm ở thai kỳ nguy cơ/RPL.
 
 ## Tài liệu tham khảo
 

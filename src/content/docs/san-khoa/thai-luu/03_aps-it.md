@@ -23,6 +23,8 @@ _Bảng "So sánh Hội chứng kháng phosphilipid và Hội chứng tăng đô
 
 :::note[Tiêu chuẩn chẩn đoán APS]
 Chẩn đoán APS cần **ít nhất 1 xét nghiệm dương tính** (ở mức trung bình - cao) **lặp lại sau ≥12 tuần**, kèm theo bằng chứng lâm sàng (huyết khối hoặc biến chứng thai kỳ).
+
+Việc xét nghiệm máu cần được tiến hành ít nhất 6 tuần sau sảy để đảm bảo độ chính xác.
 :::
 
 #### Lâm sàng
@@ -71,9 +73,9 @@ Tiền sử **huyết khối tĩnh mạch sâu (DVT)**, **thuyên tắc phổi**
 
 **Xét nghiệm gen** tìm đột biến di truyền làm tăng nguy cơ đông máu:
 
-- F5 (Factor V Leiden) - đột biến G1691A
-- F2 (Prothrombin gene) - đột biến G20210A
-- MTHFR C677T, A1298C - liên quan gián tiếp qua homocysteine
+- F5 (Factor V Leiden) - đột biến G1691A.
+- F2 (Prothrombin gene) - đột biến G20210A.
+- MTHFR C677T, A1298C - liên quan gián tiếp qua homocysteine.
 
 Kết quả xét nghiệm:
 
@@ -102,7 +104,7 @@ _Bảng "Phân tầng nguy cơ và phác đồ điều trị Hội chứng khán
 | Phân tầng nguy cơ và phác đồ điều trị Hội chứng kháng phospholipid | Tiền sử lâm sàng                                                                                                       | Phác đồ điều trị trong thai kỳ                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **APS cao**                                                        | - Huyết khối (tĩnh-động mạch) trước/sau khi có thai<br/>- Biến chứng thai kỳ nặng (≥ 1 lần sẩy/lưu/sinh non < 34 tuần) | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH điều trị:** Enoxaparin 1 mg/kg tiêm dưới da mỗi 12 giờ; Hoặc Dalteparin 100 IU/kg tiêm dưới da mỗi 12 giờ<br/>- Duy trì đến ít nhất 6 tuần hậu sản: Enoxaparin 40 mg/ngày hoặc chuyển sang Warfarin (INR 2.0-3.0) nếu không cho con bú |
-| **APS trung bình**                                                 | - Chưa huyết khối, chỉ ≥ 1 biến chứng thai kỳ nhẹ (sẩy thai tự nhiên < 10 tuần)                                        | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH dự phòng:** Enoxaparin 40 mg tiêm dưới da/ngày; Hoặc Dalteparin 5 000 IU tiêm dưới da/ngày<br/>- Tiếp tục đến 6 tuần hậu sản: Enoxaparin 40 mg/ngày hoặc chuyển sang Warfarin (INR 2.0-3.0) nếu không cho con bú                       |
+| **APS trung bình**                                                 | - Chưa huyết khối, chỉ ≥ 1 biến chứng thai kỳ nhẹ (sẩy thai tự nhiên < 10 tuần)                                        | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH dự phòng:** Enoxaparin 40 mg tiêm dưới da/ngày; Hoặc Dalteparin 5000 IU tiêm dưới da/ngày<br/>- Tiếp tục đến 6 tuần hậu sản: Enoxaparin 40 mg/ngày hoặc chuyển sang Warfarin (INR 2.0-3.0) nếu không cho con bú                        |
 | **APS thấp**                                                       | - Dương kháng thể, chưa có biểu hiện lâm sàng                                                                          | - **Aspirin 75-100 mg/ngày** từ khi chẩn đoán đến sinh rồi dừng sau sinh                                                                                                                                                                                                         |
 
 :::caution
