@@ -21,6 +21,7 @@ export default defineConfig({
   },
   integrations: [
     starlight({
+      routeMiddleware: "./src/routeData.ts",
       title: "18 Months",
       logo: {
         src: "/src/assets/logo.png",
