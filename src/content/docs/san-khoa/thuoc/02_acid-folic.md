@@ -5,23 +5,15 @@ description: Vai trò của acid folic, 5-MTHF và MTHFR.
 
 **Acid folic, folat (dạng anion)** là các dạng hòa tan trong nước của vitamin B9, cần thiết để thực hiện các quá trình sinh sản tế bào cho cơ thể con người.
 
-**Sử dụng 5-MTHF (5-methyltetrahydrofolate)** để ngăn ngừa sẩy thai ở những người mang đột biến gen MTHFR và để phòng dị tật ống thần kinh.
+**Sử dụng 5-MTHF (5-methyltetrahydrofolate)** là dạng hoạt động chính của acid folic để ngăn ngừa sẩy thai ở những người mang đột biến gen MTHFR và để phòng dị tật ống thần kinh.
 
-## Vai trò của acid folic, 5-MTHF và MTHFR
+## Vai trò của acid folic
 
 Vai trò của **acid folic**:
 
 - Tăng cao ở phụ nữ mang thai và trẻ sơ sinh vì acid folic đặc biệt quan trọng trong giai đoạn phân chia và lớn lên nhanh của tế bào giúp sự phát triển và tăng trưởng của thai nhi.
 - Cần thiết trong sự nhân đôi DNA và giúp tránh sự đột biến DNA là yếu tố thuận lợi gây ung thư.
-
-Chuyển hóa acid folic thành **5-MTHF**:
-
-Acid folic là dạng tổng hợp, thường có trong thực phẩm. Khi vào cơ thể, acid folic không hoạt động ngay, mà cần trải qua nhiều bước chuyển hóa nhờ enzyme (trong đó có enzyme MTHFR) để trở thành:
-
-- Dihydrofolate (DHF).
-- Tetrahydrofolate (THF).
-- 5,10-methylenetetrahydrofolate (5,10-MTHF).
-- Cuối cùng chuyển thành 5-methyltetrahydrofolate (5-MTHF) là dạng hoạt động chính mà cơ thể sử dụng.
+- Acid folic là dạng tổng hợp, thường có trong thực phẩm. Khi vào cơ thể, **acid folic không hoạt động ngay** mà cần trải qua nhiều bước chuyển hóa nhờ enzyme (trong đó có enzyme MTHFR) để trở thành **5-MTHF** là dạng hoạt động chính mà cơ thể sử dụng.
 
 Vai trò của **MTHFR**:
 
@@ -50,16 +42,16 @@ Do cung cấp không đủ.
 
 Do đột biến gen MTHFR:
 
-- MTHFR là enzyme quan trọng trong điều hòa biến dưỡng homocysteine và khử 5,10-methylenetetrahydrofolate thành 5-methyltetrahydrofolate (5MTHF) là dạng hoạt động sinh học chính của folate (Vit B9).
+- MTHFR là enzyme quan trọng trong điều hòa biến dưỡng homocysteine và khử 5,10-methylenetetrahydrofolate thành 5-methyltetrahydrofolate (5-MTHF) là dạng hoạt động sinh học chính của folate (vitamin B9).
 - **2 đột biến phổ biến nhất của gen MTHFR** là C677T và A1298C.
 
 ## Điều trị thiếu acid folic
 
-**Đối với người có đột biến MTHFR và sẩy thai liên tiếp:**
+**Đối với phụ nữ mang thai, đặc biệt người có đột biến MTHFR:**
 
 - Nên bắt đầu dùng ít nhất 3 tháng trước khi mang thai để đảm bảo cơ thể có đủ folate hỗ trợ quá trình phân chia tế bào và phát triển thai nhi.
 - Tiếp tục sử dụng trong suốt thai kỳ, đặc biệt trong 3 tháng đầu, vì đây là giai đoạn quan trọng trong sự phát triển ống thần kinh của thai nhi.
-- Nếu có mức homocysteine cao, bác sĩ có thể khuyên dùng suốt cả thai kỳ và thời gian cho con bú.
+- Nếu có mức homocysteine cao, có thể khuyên dùng suốt cả thai kỳ và thời gian cho con bú.
 
 **Đối với người có homocysteine cao hoặc vấn đề tim mạch:**
 
@@ -84,9 +76,9 @@ Do đột biến gen MTHFR:
 
 ### Theo dõi
 
-- Sau khi bắt đầu bổ sung 5 MTHF, nên xét nghiệm lại mức homocysteine sau 6-8 tuần để đánh giá hiệu quả.
+- Sau khi bắt đầu bổ sung 5-MTHF, nên xét nghiệm lại mức homocysteine sau 6-8 tuần để đánh giá hiệu quả.
 - Trong thời gian mang thai, cần theo dõi mức folate, B12 và các chỉ số đông máu.
-- Nếu có tiền sử sẩy thai do đông máu, có thể chỉ định heparin Trọng lượng phân tử thấp hoặc aspirin liều thấp (enoxaparin) bên cạnh 5-MTHF.
+- Nếu có tiền sử sẩy thai do đông máu, có thể chỉ định heparin trọng lượng phân tử thấp hoặc aspirin liều thấp (enoxaparin) bên cạnh 5-MTHF.
 
 ## Tài liệu tham khảo
 
