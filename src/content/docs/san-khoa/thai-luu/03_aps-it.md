@@ -1,11 +1,11 @@
 ---
 title: Antiphospholipid Syndrome và Inherited Thrombophilia
-description: Quản lý hội chứng kháng phospholipid (Antiphospholipid Syndrome - APS) và Hội chứng tăng đông di truyền (Inherited Thrombophilia) trong thai kỳ để phòng ngừa huyết khối và biến chứng sản khoa.
+description: Quản lý hội chứng kháng phospholipid và Hội chứng tăng đông di truyền trong thai kỳ để phòng ngừa huyết khối và biến chứng sản khoa.
 ---
 
-**Hội chứng kháng phospholipid (Antiphospholipid Syndrome - APS)** ở phụ nữ mang thai đặc trưng bởi nguy cơ **huyết khối tĩnh - động mạch** và **biến chứng thai kỳ** cao (sẩy thai tái diễn, thai lưu, tiền sản giật, hạn chế tăng trưởng thai).
+**Hội chứng kháng phospholipid (Antiphospholipid Syndrome - APS)** ở phụ nữ mang thai đặc trưng bởi nguy cơ **huyết khối tĩnh - động mạch** và **biến chứng thai kỳ** cao (sảy thai tái diễn, thai lưu, tiền sản giật, hạn chế tăng trưởng thai).
 
-**Hội chứng tăng đông di truyền (Inherited Thrombophilia)** là tình trạng **tăng nguy cơ huyết khối** do **đột biến gen** hoặc **thiếu hụt protein chống đông** bẩm sinh. Ở phụ nữ mang thai, nguy cơ huyết khối vốn đã tăng cao sinh lý nên khi có thrombophilia di truyền, cần đánh giá và điều trị dự phòng để tránh thuyên tắc mạch, tiền sản giật, sẩy thai tái diễn hoặc hạn chế tăng trưởng trong tử cung. **Các đột biến và thiếu hụt thường gặp** Factor V Leiden (G1691A), Prothrombin G20210A, thiếu hụt Protein S, thiếu hụt Protein C, Thiếu hụt Antithrombin III (ATIII), Không bao gồm MTHFR đơn thuần trừ khi kèm hyperhomocysteinemia.
+**Hội chứng tăng đông di truyền (Inherited Thrombophilia)** là tình trạng **tăng nguy cơ huyết khối** do **đột biến gen** hoặc **thiếu hụt protein chống đông** bẩm sinh. Ở phụ nữ mang thai, nguy cơ huyết khối vốn đã tăng cao sinh lý nên khi có thrombophilia di truyền, cần đánh giá và điều trị dự phòng để tránh thuyên tắc mạch, tiền sản giật, sảy thai tái diễn hoặc hạn chế tăng trưởng trong tử cung. **Các đột biến và thiếu hụt thường gặp** Factor V Leiden (G1691A), Prothrombin G20210A, thiếu hụt Protein S, thiếu hụt Protein C, Thiếu hụt Antithrombin III (ATIII), Không bao gồm MTHFR đơn thuần trừ khi kèm hyperhomocysteinemia.
 
 _Bảng "So sánh Hội chứng kháng phosphilipid và Hội chứng tăng đông di truyền"_.
 
@@ -14,7 +14,7 @@ _Bảng "So sánh Hội chứng kháng phosphilipid và Hội chứng tăng đô
 | **Nguyên nhân**                                                       | Tự miễn                           | Di truyền                           |
 | **Xét nghiệm**                                                        | Kháng thể kháng phospholipid      | Đột biến gen, thiếu yếu tố đông máu |
 | **Huyết khối**                                                        | Cả động mạch và tĩnh mạch         | Chủ yếu tĩnh mạch                   |
-| **Thai kỳ**                                                           | Sẩy thai, thai lưu, tiền sản giật | Ít gặp hơn                          |
+| **Thai kỳ**                                                           | sảy thai, thai lưu, tiền sản giật | Ít gặp hơn                          |
 | **Điều trị**                                                          | Kháng đông + điều chỉnh miễn dịch | Kháng đông nếu cần                  |
 
 ## Chẩn đoán
@@ -31,7 +31,7 @@ Việc xét nghiệm máu cần được tiến hành ít nhất 6 tuần sau s�
 
 **Tiền sử sản khoa:**
 
-- Sẩy thai liên tiếp ≥ 3 lần < 10 tuần.
+- Sảy thai liên tiếp ≥ 3 lần < 10 tuần.
 - Thai lưu ≥ 1 lần ≥ 10 tuần.
 - Sinh non < 34 tuần do tiền sản giật nặng, suy bánh rau hoặc hạn chế tăng trưởng thai.
 
@@ -64,7 +64,7 @@ Tiền sử **huyết khối tĩnh mạch sâu (DVT)**, **thuyên tắc phổi**
 
 **Biến chứng thai kỳ:**
 
-- Sẩy thai tự nhiên tái diễn (≥ 2 lần liên tiếp).
+- Sảy thai tự nhiên tái diễn (≥ 2 lần liên tiếp).
 - Thai lưu không rõ nguyên nhân.
 - Tiền sản giật nặng, hạn chế tăng trưởng thai (IUGR).
 - Sinh non do bất thường bánh rau.
@@ -96,7 +96,7 @@ _Bảng "Phân tầng nguy cơ và phác đồ điều trị Hội chứng khán
 | Phân tầng nguy cơ và phác đồ điều trị Hội chứng kháng phospholipid | Tiền sử lâm sàng                                                                                                       | Phác đồ điều trị trong thai kỳ                                                                                                                                                                                                                                                   |
 | ------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **APS cao**                                                        | - Huyết khối (tĩnh-động mạch) trước/sau khi có thai<br/>- Biến chứng thai kỳ nặng (≥ 1 lần sẩy/lưu/sinh non < 34 tuần) | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH điều trị:** Enoxaparin 1 mg/kg tiêm dưới da mỗi 12 giờ; Hoặc Dalteparin 100 IU/kg tiêm dưới da mỗi 12 giờ<br/>- Duy trì đến ít nhất 6 tuần hậu sản: Enoxaparin 40 mg/ngày hoặc chuyển sang Warfarin (INR 2.0-3.0) nếu không cho con bú |
-| **APS trung bình**                                                 | - Chưa huyết khối, chỉ ≥ 1 biến chứng thai kỳ nhẹ (sẩy thai tự nhiên < 10 tuần)                                        | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH dự phòng:** Enoxaparin 40 mg tiêm dưới da/ngày; Hoặc Dalteparin 5000 IU tiêm dưới da/ngày<br/>- Tiếp tục đến 6 tuần hậu sản: Enoxaparin 40 mg/ngày hoặc chuyển sang Warfarin (INR 2.0-3.0) nếu không cho con bú                        |
+| **APS trung bình**                                                 | - Chưa huyết khối, chỉ ≥ 1 biến chứng thai kỳ nhẹ (sảy thai tự nhiên < 10 tuần)                                        | - **Aspirin 75-100 mg/ngày**<br/>- **LMWH dự phòng:** Enoxaparin 40 mg tiêm dưới da/ngày; Hoặc Dalteparin 5000 IU tiêm dưới da/ngày<br/>- Tiếp tục đến 6 tuần hậu sản: Enoxaparin 40 mg/ngày hoặc chuyển sang Warfarin (INR 2.0-3.0) nếu không cho con bú                        |
 | **APS thấp**                                                       | - Dương kháng thể, chưa có biểu hiện lâm sàng                                                                          | - **Aspirin 75-100 mg/ngày** từ khi chẩn đoán đến sinh rồi dừng sau sinh                                                                                                                                                                                                         |
 
 :::caution

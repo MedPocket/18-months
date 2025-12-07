@@ -5,7 +5,7 @@ description: Vai trò của acid folic, 5-MTHF và MTHFR.
 
 **Acid folic** và **folate (dạng anion)** đều là các dạng hòa tan trong nước của vitamin B9, cần thiết cho quá trình nhân lên của tế bào và nhiều hoạt động sinh học quan trọng của cơ thể.
 
-**5-MTHF (5-methyltetrahydrofolate)** là dạng hoạt động chính của folate trong máu. Việc bổ sung 5-MTHF đặc biệt hữu ích ở những người có **đột biến gen MTHFR**, giúp giảm nguy cơ sẩy thai và phòng ngừa dị tật ống thần kinh.
+**5-MTHF (5-methyltetrahydrofolate)** là dạng hoạt động chính của folate trong máu. Việc bổ sung 5-MTHF đặc biệt hữu ích ở những người có **đột biến gen MTHFR**, giúp giảm nguy cơ sảy thai và phòng ngừa dị tật ống thần kinh.
 
 ## Vai trò của acid folic
 
@@ -29,7 +29,7 @@ _Hình ảnh: "Chu trình folate và chu trình methionine"._
 **Với phụ nữ mang thai:**
 
 - Nguy cơ **khuyết tật ống thần kinh** (spina bifida, anencephaly…).
-- Tăng nguy cơ **sẩy thai, sinh non** do giảm tưới máu nhau thai.
+- Tăng nguy cơ **sảy thai, sinh non** do giảm tưới máu nhau thai.
 
 **Tăng homocysteine (Hcy > 15 μmol/L):**
 
@@ -79,4 +79,4 @@ _Hình ảnh: "Chu trình folate và chu trình methionine"._
 
 ## Tài liệu tham khảo
 
-- PGS.TS Vũ Thị Nhung - _[Sảy thai và vai trò của MTHFR](https://drive.google.com/file/d/173C1XnVbzQqV7jPuuh5mDn3kgv2N4Gzl)_
+- PGS.TS Vũ Thị Nhung - [_Sảy thai và vai trò của MTHFR_](https://drive.google.com/file/d/173C1XnVbzQqV7jPuuh5mDn3kgv2N4Gzl)

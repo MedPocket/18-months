@@ -235,7 +235,7 @@ _Hình ảnh "Lưu đồ xử trí vô tinh"._
 **Định lượng nội tiết sinh sản:**
 
 - **Hypogonadotropin:** Bổ sung Gonadotropin ngoại sinh, đánh giá điều trị bằng định lượng nội tiết, tinh dịch đồ, kích thước tinh hoàn mỗi tháng.
-- **Gonadotropin bình thường hoặc tăng** điều trị theo chỉ số testosterone và tỉ lệ testosterone và Estradiol (T/E): Aromatase inhibitor 1mg/ngày trong 1-3 tháng, nếu thất bại đổi phác đồ; hCG 250 mcg/tuần trong 3-6 tháng, nếu thất bại đổi phác đồ; FSH 75IU - 225 IU cách ngày trong 3-6 tháng, nếu thất bại đánh giá ngưng điều trị nội khoa, tư vấn xin tinh trùng hiến hoặc xin con nuôi.
+- **Gonadotropin bình thường hoặc tăng** điều trị theo chỉ số testosterone và tỉ lệ testosterone và Estradiol (T/E): Aromatase inhibitor 1mg/ngày trong 1-3 tháng, nếu thất bại đổi phác đồ; hCG 250 µg/tuần trong 3-6 tháng, nếu thất bại đổi phác đồ; FSH 75IU - 225 IU cách ngày trong 3-6 tháng, nếu thất bại đánh giá ngưng điều trị nội khoa, tư vấn xin tinh trùng hiến hoặc xin con nuôi.
 
 **Mục tiêu điều trị** là T > 8 ng/mL, T/E > 10 kéo dài ít nhất 3 tháng, có tinh trùng trong mẫu xuất tinh.
 
