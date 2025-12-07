@@ -1,35 +1,13 @@
 ---
 title: Vi chất
-description: Hướng dẫn đầy đủ về vai trò, cách bổ sung và liều lượng acid folic, sắt, canxi, DHA, magie cho phụ nữ mang thai.
+description: Hướng dẫn đầy đủ về sắt, canxi, DHA, magie cho phụ nữ mang thai.
 ---
 
-Việc bổ sung acid folic, sắt, canxi, DHA và magie trong thai kỳ rất cần thiết để:
+Việc bổ sung sắt, canxi, DHA và magie trong thai kỳ rất cần thiết để:
 
 - Đảm bảo sự phát triển toàn diện của thai nhi.
 - Giúp mẹ bầu duy trì sức khỏe tốt, tránh thiếu hụt vi chất.
 - Phòng ngừa các biến chứng nguy hiểm trong thai kỳ và sau sinh.
-
-## Acid Folic (Folate)
-
-Acid folic (dạng tổng hợp của vitamin B9) và 5-MTHF (5-methyltetrahydrofolate - dạng hoạt động sinh học) có vai trò thiết yếu trong quá trình tạo mới tế bào và tổng hợp DNA.
-
-**Vai trò:**
-
-- Ngăn ngừa dị tật ống thần kinh (nứt đốt sống, não úng thủy).
-- Hỗ trợ phát triển não bộ và tủy sống thai nhi.
-- Giảm nguy cơ sinh non, trẻ nhẹ cân, tiền sản giật.
-- Tăng cường chức năng tim mạch và thần kinh.
-- Hỗ trợ phân chia tế bào, tạo máu và hình thành nhau thai.
-
-**Tác dụng phụ:** Hiếm gặp; Liều rất cao có thể che giấu thiếu hụt vitamin B12 (gây rối loạn thần kinh).
-
-**Nguồn thực phẩm:**
-
-- Rau lá xanh đậm: Bina, cải bó xôi, súp lơ xanh.
-- Gan động vật.
-- Các loại đậu: Đậu lăng, đậu hà lan.
-- Trái cây họ cam quýt, bơ.
-- Măng tây, trứng, ngũ cốc tăng cường.
 
 ## DHA (Docosahexaenoic Acid)
 
@@ -120,24 +98,23 @@ Magie (Mg) là khoáng chất tham gia hơn 300 phản ứng sinh học trong c�
 
 ## Nhu cầu
 
-_Bảng "Bổ sung vi chất trong thai kỳ"_.
+_Bảng "Bổ sung sắt, canxi, DHA trong thai kỳ"_.
 
-| Giai đoạn                          | Acid folic      | DHA             | Sắt                        | Canxi                  | Magie                           |
-| ---------------------------------- | --------------- | --------------- | -------------------------- | ---------------------- | ------------------------------- |
-| **Tam cá nguyệt I (0-13 tuần)**    | 400-800 µg/ngày | 200-300 mg/ngày | 30 mg/ngày (nếu thiếu máu) | Qua thực phẩm là chính | Tùy triệu chứng, không bắt buộc |
-| **Tam cá nguyệt II (14-27 tuần)**  | 400-800 µg/ngày | 200-300 mg/ngày | 30-60 mg/ngày              | 1000 mg/ngày           | Tùy triệu chứng                 |
-| **Tam cá nguyệt III (28-40 tuần)** | 400-800 µg/ngày | 200-300 mg/ngày | 30-60 mg/ngày              | 1000-1200 mg/ngày      | 200 mg/ngày nếu có triệu chứng  |
+| Giai đoạn                          | DHA             | Sắt                        | Canxi                  | Magie                           |
+| ---------------------------------- | --------------- | -------------------------- | ---------------------- | ------------------------------- |
+| **Tam cá nguyệt I (0-13 tuần)**    | 200-300 mg/ngày | 30 mg/ngày (nếu thiếu máu) | Qua thực phẩm là chính | Tùy triệu chứng, không bắt buộc |
+| **Tam cá nguyệt II (14-27 tuần)**  | 200-300 mg/ngày | 30-60 mg/ngày              | 1000 mg/ngày           | Tùy triệu chứng                 |
+| **Tam cá nguyệt III (28-40 tuần)** | 200-300 mg/ngày | 30-60 mg/ngày              | 1000-1200 mg/ngày      | 200 mg/ngày nếu có triệu chứng  |
 
 :::caution
 
-- Bắt đầu bổ sung acid folic ít nhất 1 tháng trước khi mang thai; Nếu có tiền sử dị tật ống thần kinh, có thể cần 4-5 mg/ngày theo chỉ định bác sĩ.
-- Magie chỉ cần bổ sung nếu có triệu chứng như chuột rút, mất ngủ, lo âu.
+Magie chỉ cần bổ sung nếu có triệu chứng như chuột rút, mất ngủ, lo âu.
 
 :::
 
-## Hướng dẫn
+## Thảm khảo hướng dẫn
 
-_Bảng "Sử dụng vi chất trong ngày"_.
+_Bảng "Sử dụng sắt, canxi, DHA trong ngày"_.
 
 | Buổi     | Sản phẩm bổ sung | Hướng dẫn bổ sung hằng ngày                                                           |
 | -------- | ---------------- | ------------------------------------------------------------------------------------- |
