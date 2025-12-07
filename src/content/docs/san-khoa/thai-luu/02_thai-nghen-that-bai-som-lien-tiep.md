@@ -90,3 +90,4 @@ description: Yếu tố nguy cơ, tiếp cận, chẩn đoán thai nghén thất
 ## Tài liệu tham khảo
 
 - Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- GS.TS.BS. Cao Ngọc Thành - _[Sẩy thai tái phát: Cập nhật chẩn đoán và điều trị 2025](https://drive.google.com/file/d/1Km3EM_KxV_NAYusCTUyfEXqNXwFOxVwU/view)_
