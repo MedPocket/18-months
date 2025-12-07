@@ -69,10 +69,11 @@ Các khuyến cáo ACOG, RCOG, WHO, FIGO: Chỉ nên nghỉ ngơi **tương đ�
 
 - Thời điểm dùng càng sớm càng tốt ngay khi xác định loại trừ chửa ngoài tử cung hay thậm chí giai đoạn hoàng thể đối với các trường hợp sẩy thai liên tiếp.
 - Thời gian dùng đến 16 tuần vô kinh.
-- Sản phẩm dùng: Dydrogesterone hay Microprogesterone đặt âm đạo hay Progesterone tiêm bắp.
-- Liều dùng trung bình: Dydrogesterone: 10-30 mg/ngày; Microprogesterone: 400- 800 mg/ngày; Progesterone TB: 25-50 mg/ngày.
+- Liều dùng: Dydrogesterone: 10-30 mg/ngày; Microprogesterone: 400- 800 mg/ngày; Progesterone TB: 25-50 mg/ngày.
 
 ### Sảy thai hoặc thai lưu
+
+**Hướng xử trí tùy vào tình trạng mất máu** (chờ sảy tự nhiên, nội khoa, ngoại khoa).
 
 **Đánh giá tình trạng mất máu:**
 
@@ -82,10 +83,7 @@ Các khuyến cáo ACOG, RCOG, WHO, FIGO: Chỉ nên nghỉ ngơi **tương đ�
 - Mạch > 100l/p Mất > 750 ml.
 - Huyết áp < 90 mmHg, mất > 1000 ml.
 - Choáng, mất ≥ 1500 ml.
-- Chỉ số shock M/HA max, bình thường 0.5-0.7;
-- SI ≥ 0.9 nguy cơ cao.
-
-Hướng xử trí tùy vào tình trạng mất máu (chờ sảy tự nhiên, nội khoa, ngoại khoa).
+- Shock index (SI - Mạch/Huyết áp tâm thu), bình thường 0.5-0.7; ≥ 0.9 nguy cơ cao.
 
 #### Chờ sảy tự nhiên
 
