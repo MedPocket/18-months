@@ -7,6 +7,20 @@ export const sidebar = starlightSidebarTopics([
     icon: "external",
     items: [
       {
+        label: "Giải phẫu và thai kỳ",
+        autogenerate: {
+          directory: "san-khoa/giai-phau",
+        },
+        collapsed: true,
+      },
+      {
+        label: "Sàng lọc và chẩn đoán trước sinh",
+        autogenerate: {
+          directory: "san-khoa/sang-loc-chan-doan",
+        },
+        collapsed: true,
+      },
+      {
         label: "Sức khỏe thai",
         autogenerate: {
           directory: "san-khoa/suc-khoe-thai",
