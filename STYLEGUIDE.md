@@ -214,7 +214,7 @@ Tuyệt đối không thăm khám âm đạo bằng tay khi nghi ngờ rau tiề
 
 ```md
 :::note
-Nồng độ Beta-hCG thường tăng gấp đôi sau mỗi 48 giờ trong thai kỳ bình thường giai đoạn sớm.
+Nồng độ β-hCG thường tăng gấp đôi sau mỗi 48 giờ trong thai kỳ bình thường giai đoạn sớm.
 :::
 ```
 
