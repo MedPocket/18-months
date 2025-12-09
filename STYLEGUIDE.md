@@ -6,10 +6,10 @@ Tài liệu này quy định các chuẩn mực về nội dung, định dạng 
 
 ## 1. Nguyên tắc chung
 
-*   **Tính chính xác:** Mọi thông tin y khoa phải dựa trên bằng chứng (Medline, ACOG, RCOG, WHO, Bộ Y tế). Ưu tiên dữ liệu định lượng hơn định tính.
-*   **Tính khách quan:** Sử dụng giọng văn trung tính, khoa học. Tránh cảm xúc cá nhân hoặc từ ngữ mang tính chủ quan (ví dụ: "rất nguy hiểm", "khủng khiếp").
-*   **Tính súc tích:** Viết ngắn gọn, đi thẳng vào vấn đề. Tránh câu dài dòng, lặp từ.
-*   **Đối tượng độc giả:** Viết cho cả nhân viên y tế và người dùng phổ thông có kiến thức. Giải thích thuật ngữ khó nếu cần thiết.
+- **Tính chính xác:** Mọi thông tin y khoa phải dựa trên bằng chứng (Medline, ACOG, RCOG, WHO, Bộ Y tế). Ưu tiên dữ liệu định lượng hơn định tính.
+- **Tính khách quan:** Sử dụng giọng văn trung tính, khoa học. Tránh cảm xúc cá nhân hoặc từ ngữ mang tính chủ quan (ví dụ: "rất nguy hiểm", "khủng khiếp").
+- **Tính súc tích:** Viết ngắn gọn, đi thẳng vào vấn đề. Tránh câu dài dòng, lặp từ.
+- **Đối tượng độc giả:** Viết cho cả nhân viên y tế và người dùng phổ thông có kiến thức. Giải thích thuật ngữ khó nếu cần thiết.
 
 ---
 
@@ -17,48 +17,49 @@ Tài liệu này quy định các chuẩn mực về nội dung, định dạng 
 
 ### In đậm và In nghiêng
 
-*   **In đậm (`**text**`):** Dùng để nhấn mạnh **từ khóa quan trọng**, các **con số ý nghĩa** hoặc **điểm mấu chốt**.
-    *   *Đúng:* Tỷ lệ tử vong là **5%**.
-    *   *Sai:* **Tỷ lệ tử vong là 5%**. (Không in đậm cả câu trừ tiêu đề).
-*   **In nghiêng (`_text_` hoặc `*text*`):** Dùng cho:
-    *   Tên khoa học của vi khuẩn/virus: *Clostridium tetani*, *Helicobacter pylori*.
-    *   Thuật ngữ tiếng Anh đi kèm lần đầu: Tiền sản giật (*Preeclampsia*).
-    *   Tên tài liệu tham khảo: *Williams Obstetrics*.
+- **In đậm (`**text**`):** Dùng để nhấn mạnh **từ khóa quan trọng**, các **con số ý nghĩa** hoặc **điểm mấu chốt**.
+  - _Đúng:_ Tỷ lệ tử vong là **5%**.
+  - _Sai:_ **Tỷ lệ tử vong là 5%**. (Không in đậm cả câu trừ tiêu đề).
+- **In nghiêng (`_text_` hoặc `*text*`):** Dùng cho:
+  - Tên khoa học của vi khuẩn/virus: _Clostridium tetani_, _Helicobacter pylori_.
+  - Thuật ngữ tiếng Anh đi kèm lần đầu: Tiền sản giật (_Preeclampsia_).
+  - Tên tài liệu tham khảo: _Williams Obstetrics_.
 
 ### Kí hiệu toán học và Đơn vị đo lường
 
-*   **Phép so sánh:** Viết liền các dấu so sánh với số.
-    *   *Đúng:* `>5 cm`, `<100 mg`, `≥20 tuần`.
-    *   *Sai:* `> 5 cm`, `< 100 mg`.
-*   **Đơn vị đo lường:** Luôn có **một khoảng trắng** giữa số và đơn vị.
-    *   *Đúng:* 10 mg, 50 ml, 37 °C.
-    *   *Sai:* 10mg, 50ml, 37°C.
-*   **Phần trăm:** Viết liền số và dấu phần trăm.
-    *   *Đúng:* 50%, 95% CI.
-    *   *Sai:* 50 %.
-*   **Khoảng giá trị:** Dùng dấu gạch nối `-` (hyphen) không có khoảng trắng hoặc dùng từ "đến".
-    *   *Đúng:* 10-20 mg, 5-7 ngày.
-    *   *Sai:* 10 - 20 mg.
+- **Phép so sánh:** Viết liền các dấu so sánh với số.
+  - _Đúng:_ `>5 cm`, `<100 mg`, `≥20 tuần`.
+  - _Sai:_ `> 5 cm`, `< 100 mg`.
+- **Đơn vị đo lường:** Luôn có **một khoảng trắng** giữa số và đơn vị.
+  - _Đúng:_ 10 mg, 50 ml, 37 °C.
+  - _Sai:_ 10mg, 50ml, 37°C.
+- **Phần trăm:** Viết liền số và dấu phần trăm.
+  - _Đúng:_ 50%, 95% CI.
+  - _Sai:_ 50 %.
+- **Khoảng giá trị:** Dùng dấu gạch nối `-` (hyphen) không có khoảng trắng hoặc dùng từ "đến".
+  - _Đúng:_ 10-20 mg, 5-7 ngày.
+  - _Sai:_ 10 - 20 mg.
 
 ### Chú thích (Footnotes)
 
 Dùng số mũ hoặc dấu sao để chú thích ngắn gọn nếu không muốn làm ngắt mạch văn bản.
-*   Ví dụ: Dân số nghiên cứu^1^ bao gồm...
+
+- Ví dụ: Dân số nghiên cứu^1^ bao gồm...
 
 ---
 
 ## 3. Thuật ngữ Y khoa
 
-*   **Ưu tiên Tiếng Việt:** Sử dụng thuật ngữ chuyên môn Tiếng Việt chuẩn xác nhất.
-*   **Thuật ngữ Tiếng Anh:**
-    *   Cung cấp thuật ngữ gốc Tiếng Anh trong ngoặc đơn ở lần xuất hiện đầu tiên nếu thuật ngữ Tiếng Việt ít phổ biến hoặc dễ gây nhầm lẫn.
-    *   Ví dụ: Thai trứng (*Hydatidiform mole*).
-*   **Viết tắt:**
-    *   Viết đầy đủ từ trong lần xuất hiện đầu tiên, kèm từ viết tắt trong ngoặc đơn.
-    *   Ví dụ: Đái tháo đường thai kỳ (GDM).
-*   **Tên thuốc:**
-    *   Dùng tên hoạt chất (Generic name), viết thường, không viết hoa (trừ đầu câu).
-    *   Ví dụ: *paracetamol*, *oxytocin*.
+- **Ưu tiên Tiếng Việt:** Sử dụng thuật ngữ chuyên môn Tiếng Việt chuẩn xác nhất.
+- **Thuật ngữ Tiếng Anh:**
+  - Cung cấp thuật ngữ gốc Tiếng Anh trong ngoặc đơn ở lần xuất hiện đầu tiên nếu thuật ngữ Tiếng Việt ít phổ biến hoặc dễ gây nhầm lẫn.
+  - Ví dụ: Thai trứng (_Hydatidiform mole_).
+- **Viết tắt:**
+  - Viết đầy đủ từ trong lần xuất hiện đầu tiên, kèm từ viết tắt trong ngoặc đơn.
+  - Ví dụ: Đái tháo đường thai kỳ (GDM).
+- **Tên thuốc:**
+  - Dùng tên hoạt chất (Generic name), viết thường, không viết hoa (trừ đầu câu).
+  - Ví dụ: _paracetamol_, _oxytocin_.
 
 ---
 
@@ -80,28 +81,35 @@ description: Tóm tắt 1 câu về nội dung bài viết (Dùng cho SEO).
 Sử dụng H2 (`##`) cho các phần chính và H3 (`###`) cho các phần phụ.
 
 #### 1. Tổng quan (`## Tổng quan`)
+
 Định nghĩa, dịch tễ học, tầm quan trọng của vấn đề đối với sản phụ khoa.
 
 #### 2. Nguyên nhân (`## Nguyên nhân`)
+
 Cơ chế bệnh sinh, nguyên nhân gốc rễ.
 
 #### 3. Yếu tố nguy cơ (`## Yếu tố nguy cơ`)
+
 Liệt kê các yếu tố làm tăng khả năng mắc bệnh (Tuổi, tiền sử, lối sống...).
 
 #### 4. Chẩn đoán (`## Chẩn đoán`)
-*   `### Lâm sàng`: Triệu chứng cơ năng (bệnh nhân kể), triệu chứng thực thể (bác sĩ khám).
-*   `### Cận lâm sàng`: Xét nghiệm máu, hình ảnh học (Siêu âm, MRI...), giải phẫu bệnh.
-*   `### Chẩn đoán phân biệt` (nếu cần): So sánh với các bệnh có triệu chứng tương tự.
+
+- `### Lâm sàng`: Triệu chứng cơ năng (bệnh nhân kể), triệu chứng thực thể (bác sĩ khám).
+- `### Cận lâm sàng`: Xét nghiệm máu, hình ảnh học (Siêu âm, MRI...), giải phẫu bệnh.
+- `### Chẩn đoán phân biệt` (nếu cần): So sánh với các bệnh có triệu chứng tương tự.
 
 #### 5. Điều trị (`## Điều trị`)
-*   `### Nguyên tắc`: Mục tiêu điều trị là gì?
-*   `### Nội khoa`: Thuốc, liều dùng, đường dùng.
-*   `### Ngoại khoa`: Chỉ định phẫu thuật, phương pháp.
+
+- `### Nguyên tắc`: Mục tiêu điều trị là gì?
+- `### Nội khoa`: Thuốc, liều dùng, đường dùng.
+- `### Ngoại khoa`: Chỉ định phẫu thuật, phương pháp.
 
 #### 6. Dự phòng (`## Dự phòng`)
+
 Biện pháp phòng ngừa (Vaccine, thay đổi lối sống, sàng lọc).
 
 #### 7. Tài liệu tham khảo (`## Tài liệu tham khảo`)
+
 Danh sách nguồn tài liệu uy tín.
 
 ---
@@ -112,14 +120,15 @@ Danh sách nguồn tài liệu uy tín.
 
 Sử dụng dấu gạch ngang `-` cho các ý ngang hàng, không cần thứ tự ưu tiên.
 
-*   Viết hoa chữ cái đầu dòng.
-*   Kết thúc bằng dấu chấm `.` nếu là một câu hoàn chỉnh.
-*   Kết thúc bằng dấu chấm phẩy `;` hoặc không dấu nếu là cụm từ ngắn (nhưng cần thống nhất trong cùng một list).
+- Viết hoa chữ cái đầu dòng.
+- Kết thúc bằng dấu chấm `.` nếu là một câu hoàn chỉnh.
+- Kết thúc bằng dấu chấm phẩy `;` hoặc không dấu nếu là cụm từ ngắn (nhưng cần thống nhất trong cùng một list).
 
 **Ví dụ:**
 
 ```md
 ### Triệu chứng cơ năng
+
 - Đau vùng hạ vị âm ỉ.
 - Ra huyết âm đạo rỉ rả, màu nâu đen.
 - Buồn nôn hoặc nôn.
@@ -133,6 +142,7 @@ Sử dụng `1.`, `2.` khi trình bày quy trình, các bước thực hiện, h
 
 ```md
 ### Các bước xử trí cấp cứu
+
 1. Đánh giá tri giác, đường thở (Airway).
 2. Kiểm tra hô hấp (Breathing).
 3. Đánh giá tuần hoàn (Circulation), thiết lập đường truyền tĩnh mạch.
@@ -144,9 +154,9 @@ Sử dụng `1.`, `2.` khi trình bày quy trình, các bước thực hiện, h
 
 ### Hình ảnh
 
-*   Lưu ảnh trong thư mục: `src/assets/images/` hoặc thư mục con tương ứng.
-*   Cú pháp Markdown chuẩn: `![Mô tả ảnh (Alt text)](/đường/dẫn/ảnh.jpg)`
-*   **Luôn có chú thích ảnh** dưới dạng *text nghiêng* hoặc caption rõ ràng ngay dưới ảnh.
+- Lưu ảnh trong thư mục: `src/assets/images/` hoặc thư mục con tương ứng.
+- Cú pháp Markdown chuẩn: `![Mô tả ảnh (Alt text)](/đường/dẫn/ảnh.jpg)`
+- **Luôn có chú thích ảnh** dưới dạng _text nghiêng_ hoặc caption rõ ràng ngay dưới ảnh.
 
 ### Bảng (Tables)
 
@@ -157,19 +167,19 @@ Sử dụng bảng để so sánh hoặc trình bày dữ liệu cấu trúc.
 ```md
 _Bảng 1: Phân loại mức độ thiếu máu._
 
-| Mức độ | Hemoglobin (g/dL) | Biểu hiện lâm sàng |
-| :--- | :--- | :--- |
-| Nhẹ | 10 - 11 | Mệt mỏi nhẹ, da hơi xanh. |
-| Trung bình | 7 - 10 | Chóng mặt, nhịp tim nhanh. |
-| Nặng | < 7 | Khó thở, suy tim. |
+| Mức độ     | Hemoglobin (g/dL) | Biểu hiện lâm sàng         |
+| :--------- | :---------------- | :------------------------- |
+| Nhẹ        | 10 - 11           | Mệt mỏi nhẹ, da hơi xanh.  |
+| Trung bình | 7 - 10            | Chóng mặt, nhịp tim nhanh. |
+| Nặng       | < 7               | Khó thở, suy tim.          |
 ```
 
 ### Callouts (Lưu ý đặc biệt)
 
 Sử dụng cú pháp đặc biệt để tạo hộp thông tin nổi bật.
 
-*   **Thông tin quan trọng/Cảnh báo:** Dùng `:::caution` hoặc `:::warning`.
-*   **Ghi chú bổ sung:** Dùng `:::note` hoặc `:::tip`.
+- **Thông tin quan trọng/Cảnh báo:** Dùng `:::caution` hoặc `:::warning`.
+- **Ghi chú bổ sung:** Dùng `:::note` hoặc `:::tip`.
 
 **Ví dụ:**
 
