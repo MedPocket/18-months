@@ -11,7 +11,7 @@ BV xảy ra khi có sự thay đổi về tỷ lệ vi khuẩn trong hệ vi sin
 
 **Giảm _Lactobacilli:_**
 
-- _Lactobacilli_ (chủ yếu là Lactobacillus crispatus, L. jensenii) tạo ra acid lactic, giữ pH âm đạo 3.8-4.5 và tiết ra hydrogen peroxide diệt khuẩn.
+- _Lactobacilli_ (chủ yếu là _Lactobacillus crispatus_, _L. jensenii_) tạo ra acid lactic, giữ pH âm đạo 3.8-4.5 và tiết ra hydrogen peroxide diệt khuẩn.
 - Khi _Lactobacilli_ suy giảm (do stress, kháng sinh, thay đổi nội tiết), pH âm đạo tăng, tạo điều kiện cho vi khuẩn yếm khí phát triển.
 
 **Tăng vi khuẩn yếm khí:**
@@ -109,9 +109,9 @@ Theo Bệnh viện Từ Dũ, BV được chẩn đoán khi đủ 2/3 tiêu chu�
 
 **Ưu tiên tiêu chuẩn Amsel ≥ 3/4 hoặc Nugent ≥ 7** trước khi chỉ định điều trị, trừ trường hợp dự phòng trước mổ hoặc phụ nữ mang thai nguy cơ cao.
 
-**Điều trị thuốc:** Chọn Metronidazole hoặc Clindamycin theo liều và đường dùng nêu trên.
+**Điều trị thuốc:** Chọn metronidazole hoặc clindamycin theo liều và đường dùng nêu trên.
 
-**Bổ sung probiotic chứa Lactobacillus sau khi hoàn thành kháng sinh:** Probiotic uống hoặc đặt âm đạo (L. rhamnosus GR-1, L. reuteri RC-14) giúp tái thiết lập hệ vi sinh, giảm tỉ lệ tái phát.
+**Bổ sung probiotic chứa Lactobacillus sau khi hoàn thành kháng sinh:** Probiotic uống hoặc đặt âm đạo (_L. rhamnosus_ GR-1, _L. reuteri_ RC-14) giúp tái thiết lập hệ vi sinh, giảm tỉ lệ tái phát.
 
 **Thay đổi thói quen sinh hoạt:**
 
@@ -134,7 +134,7 @@ Theo Bệnh viện Từ Dũ, BV được chẩn đoán khi đủ 2/3 tiêu chu�
 :::caution
 
 - **Nếu không có yếu tố nguy cơ** (không mang thai, không chuẩn bị phẫu thuật, không có triệu chứng), có thể **theo dõi không điều trị** vì hệ vi sinh có thể tự điều chỉnh.
-- **Nếu mang thai nguy cơ cao:** Điều trị trước 20 tuần giúp giảm nguy cơ sinh non do ngăn chặn sớm quá trình viêm niêm mạc ối. Nghiên cứu cho thấy **Clindamycin uống** có hiệu quả hơn Metronidazole trong ngăn ngừa sinh non khi điều trị sớm BV không triệu chứng ở phụ nữ mang thai.
+- **Nếu mang thai nguy cơ cao:** Điều trị trước 20 tuần giúp giảm nguy cơ sinh non do ngăn chặn sớm quá trình viêm niêm mạc ối. Nghiên cứu cho thấy **clindamycin uống** có hiệu quả hơn metronidazole trong ngăn ngừa sinh non khi điều trị sớm BV không triệu chứng ở phụ nữ mang thai.
 - **Nếu chuẩn bị can thiệp phụ khoa/âm đạo:** Điều trị dự phòng BV giúp giảm nguy cơ viêm nhiễm hậu phẫu, viêm vùng chậu.
 
 :::
@@ -162,7 +162,7 @@ Tỷ lệ tái phát sau điều trị cao:
 - Ngắn hạn (3 tháng): 15-30%.
 - Trung hạn (1 năm): Có thể lên đến 70%.
 
-Việc bổ sung **probiotic chứa Lactobacillus** sau điều trị có thể giúp giảm tỉ lệ tái phát.
+Việc bổ sung **probiotic chứa _Lactobacillus_** sau điều trị có thể giúp giảm tỉ lệ tái phát.
 
 ### Phác đồ Từ Dũ
 
@@ -185,7 +185,7 @@ Tùy chọn điều trị BV tại Bệnh viện Từ Dũ (áp dụng cho cả B
 
 - **Metronidazole không dùng trong 3 tháng đầu thai kỳ** do tiềm ẩn nguy cơ quái thai.
 - Phụ nữ mang thai chỉ điều trị khi có triệu chứng rõ và cân nhắc lợi ích - nguy cơ.
-- Cần khai thác tiền sử dị ứng Penicillin, Clindamycin để lựa chọn kháng sinh phù hợp.
+- Cần khai thác tiền sử dị ứng penicillin, clindamycin để lựa chọn kháng sinh phù hợp.
 
 :::
 

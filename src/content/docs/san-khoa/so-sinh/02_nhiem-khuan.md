@@ -9,12 +9,12 @@ Nhiễm khuẩn sơ sinh (neonatal sepsis) là tình trạng nhiễm trùng toà
 
 **Vi khuẩn:**
 
-- Khởi phát sớm: Thường do vi khuẩn từ mẹ truyền sang con trong quá trình chuyển dạ và sinh (Streptococcus nhóm B, E. coli, Listeria monocytogenes).
-- Khởi phát muộn: Thường liên quan đến nhiễm khuẩn bệnh viện hoặc môi trường (Staphylococcus aureus, Klebsiella, Pseudomonas, Candida).
+- Khởi phát sớm: Thường do vi khuẩn từ mẹ truyền sang con trong quá trình chuyển dạ và sinh (_Streptococcus_ nhóm B, _E. coli_, _Listeria monocytogenes_).
+- Khởi phát muộn: Thường liên quan đến nhiễm khuẩn bệnh viện hoặc môi trường (_Staphylococcus aureus_, _Klebsiella_, _Pseudomonas_, _Candida_).
 
 **Virus:** Cytomegalovirus, Herpes simplex virus, enterovirus.
 
-**Nấm:** Candida albicans, đặc biệt ở trẻ non tháng hoặc nằm viện lâu dài.
+**Nấm:** _Candida albicans_, đặc biệt ở trẻ non tháng hoặc nằm viện lâu dài.
 
 ## Yếu tố nguy cơ
 
@@ -32,9 +32,9 @@ Nhiễm khuẩn sơ sinh (neonatal sepsis) là tình trạng nhiễm trùng toà
 
 Triệu chứng thường không đặc hiệu, bao gồm:
 
-- Toàn thân: Bú kém, li bì, hạ thân nhiệt (< 36°C) hoặc sốt (> 38°C), vàng da kéo dài.
+- Toàn thân: Bú kém, li bì, hạ thân nhiệt (< 36 °C) hoặc sốt (> 38 °C), vàng da kéo dài.
 - Hô hấp: Thở nhanh > 60 lần/phút, rút lõm lồng ngực, ngừng thở, tím tái.
-- Tuần hoàn: Nhịp tim nhanh > 180 lần/phút hoặc chậm < 100 lần/phút, tụt huyết áp (MAP < 40 mmHg ở sơ sinh đủ tháng; < 30 mmHg ở non tháng), da nổi vân tím, đầu chi lạnh.
+- Tuần hoàn: Nhịp tim nhanh > 180 lần/phút hoặc chậm < 100 lần/phút, tụt huyết áp (huyết áp trung bình - MAP < 40 mmHg ở sơ sinh đủ tháng; < 30 mmHg ở non tháng), da nổi vân tím, đầu chi lạnh.
 - Tiêu hoá: Nôn, chướng bụng, tiêu chảy, xuất huyết tiêu hoá.
 - Thần kinh: Co giật, giảm trương lực, kích thích.
 
@@ -46,7 +46,7 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 - Tỷ lệ bạch cầu non/trưởng thành > 0.2.
 - Tiểu cầu < 100 000/mm³.
 
-**CRP:** > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12-24h).
+**C-reactive protein (CRP):** > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12-24h).
 
 **Procalcitonin (PCT):** > 2 ng/mL gợi ý nhiễm khuẩn nặng.
 
@@ -74,7 +74,7 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 
 - **Ampicillin:** 100-200 mg/kg/ngày, chia 2-3 lần, đường tĩnh mạch.
 - **Gentamicin:** 4-5 mg/kg/lần, mỗi 24-48 giờ (tùy tuổi thai và chức năng thận).
-- Hoặc thay Gentamicin bằng **Cefotaxime:** 100-150 mg/kg/ngày, chia 2-3 lần, đường tĩnh mạch.
+- Hoặc thay gentamicin bằng **cefotaxime:** 100-150 mg/kg/ngày, chia 2-3 lần, đường tĩnh mạch.
 
 **Nhiễm khuẩn khởi phát muộn hoặc bệnh viện:**
 
@@ -90,7 +90,7 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 
 **Điều trị hỗ trợ:**
 
-- Thở oxy, CPAP, hoặc thở máy khi suy hô hấp.
+- Thở oxy, thở áp lực dương liên tục (CPAP), hoặc thở máy khi suy hô hấp.
 - Truyền dịch 60-80 mL/kg/ngày (điều chỉnh theo tình trạng).
 - Dopamine/Dobutamine khi sốc.
 - Truyền tiểu cầu khi < 50 000/mm³ có xuất huyết.

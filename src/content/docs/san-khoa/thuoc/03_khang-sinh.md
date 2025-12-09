@@ -58,4 +58,4 @@ _Bảng "Phân loại mức độ an toàn của kháng sinh trên phụ nữ c�
 
 ## Tài liệu tham khảo
 
-- Bookstaver PB, Bland CM, Griffin B, Stover KR, Eiland LS, McLaughlin M - _A Review of Antibiotic Use in Pregnancy. Pharmacotherapy. 2015 Nov;35(11):1052-62. doi: 10.1002/phar.1649._
+- Bookstaver PB, Bland CM, Griffin B, Stover KR, Eiland LS, McLaughlin M - _A Review of Antibiotic Use in Pregnancy. Pharmacotherapy. 2015 Nov;35(11):1052-62. doi: 10.1002/phar.1649_.

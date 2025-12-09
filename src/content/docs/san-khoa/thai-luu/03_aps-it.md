@@ -22,7 +22,7 @@ _Bảng "So sánh Hội chứng kháng phospholipid và Hội chứng tăng đô
 ### Hội chứng kháng phospholipid
 
 :::note[Tiêu chuẩn chẩn đoán APS]
-Chẩn đoán APS cần **ít nhất 1 xét nghiệm dương tính** (ở mức trung bình - cao) **lặp lại sau ≥12 tuần**, kèm theo bằng chứng lâm sàng (huyết khối hoặc biến chứng thai kỳ).
+Chẩn đoán APS cần **ít nhất 1 xét nghiệm dương tính** (ở mức trung bình - cao) **lặp lại sau ≥ 12 tuần**, kèm theo bằng chứng lâm sàng (huyết khối hoặc biến chứng thai kỳ).
 
 Việc xét nghiệm máu cần được tiến hành ít nhất 6 tuần sau sảy để đảm bảo độ chính xác.
 :::
@@ -51,10 +51,10 @@ _Bảng "Kháng thể kháng phospholipid"_.
 
 | Xét nghiệm       | Kết quả | Ngưỡng bình thường | Ý nghĩa                        |
 | ---------------- | ------- | ------------------ | ------------------------------ |
-| aCL IgG          | 45 GPL  | <20 GPL            | Dương tính, mức trung bình-cao |
-| aCL IgM          | 10 MPL  | <20 MPL            | Âm tính                        |
-| anti-β2GPI IgG   | 30 SGU  | <20 SGU            | Dương tính                     |
-| LA (dRVVT ratio) | 1.35    | <1.20              | Dương tính nhẹ                 |
+| aCL IgG          | 45 GPL  | < 20 GPL           | Dương tính, mức trung bình-cao |
+| aCL IgM          | 10 MPL  | < 20 MPL           | Âm tính                        |
+| anti-β2GPI IgG   | 30 SGU  | < 20 SGU           | Dương tính                     |
+| LA (dRVVT ratio) | 1.35    | < 1.20             | Dương tính nhẹ                 |
 
 ### Hội chứng tăng đông di truyền
 

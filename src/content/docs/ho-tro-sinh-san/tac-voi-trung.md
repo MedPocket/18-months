@@ -68,7 +68,7 @@ Tắc vòi trứng đoạn gần:
 
 Tắc vòi dẫn trứng đoạn xa:
 
-- Tiên lượng tốt nếu dải dính 2 phần phụ ít. Vòi dãn nhẹ <3 cm, thành mềm mại và mỏng. Nếp niêm mạc còn tốt. Tỷ lệ có thai sau 12 tháng nội soi gỡ dính là 40%. Nội soi tái tạo loa vòi trường hợp ứ dịch nhẹ tỷ lệ có thai là 58-77%.
+- Tiên lượng tốt nếu dải dính 2 phần phụ ít. Vòi dãn nhẹ < 3 cm, thành mềm mại và mỏng. Nếp niêm mạc còn tốt. Tỷ lệ có thai sau 12 tháng nội soi gỡ dính là 40%. Nội soi tái tạo loa vòi trường hợp ứ dịch nhẹ tỷ lệ có thai là 58-77%.
 - Tiên lượng xấu nếu vòi dính dày đặc, vòi dãn rộng thành xơ hóa và/hoặc giảm hay mất nếp niêm mạc.
 
 ## Tài liệu tham khảo

@@ -1,9 +1,9 @@
 ---
 title: Viêm âm đạo do nấm Candida
-description: Viêm âm đạo do nấm Candida (Vulvo-Vaginal Candidiasis - VVC) là tình trạng nhiễm nấm gây viêm âm hộ - âm đạo, thường do Candida albicans.
+description: Tình trạng nhiễm nấm gây viêm âm hộ-âm đạo, thường do Candida albicans.
 ---
 
-Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm hộ - âm đạo do _Candida sp_ (Vulvo-Vaginal Candidiasis - VVC) trong vòng 1 năm gần nhất. Có tới 10% bạn tình nam bị nhiễm nấm dương vật. VVC không được xem như bệnh lây truyền qua đường tình dục.
+Khoảng 10% phụ nữ trên 18 tuổi trải qua ít nhất 2 đợt viêm âm hộ-âm đạo do _Candida sp_ (Vulvo-Vaginal Candidiasis - VVC) trong vòng 1 năm gần nhất. Có tới 10% bạn tình nam bị nhiễm nấm dương vật. VVC không được xem như bệnh lây truyền qua đường tình dục.
 
 ## Nguyên nhân
 

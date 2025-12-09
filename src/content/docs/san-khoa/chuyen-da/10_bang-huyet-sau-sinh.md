@@ -82,14 +82,14 @@ Mất máu cấp → giảm thể tích tuần hoàn → choáng giảm thể t�
 
 ### Theo nguyên nhân
 
-- **Đờ tử cung:** Xoa đáy tử cung ngay. Sử dụng thuốc tăng co Oxytocin, Methylergonovine, PGF₂α, Misoprostol. Nếu thất bại chèn bóng buồng tử cung, khâu B-Lynch, thắt động mạch tử cung, cắt tử cung.
+- **Đờ tử cung:** Xoa đáy tử cung ngay. Sử dụng thuốc tăng co oxytocin, methylergonovine, PGF₂α, misoprostol. Nếu thất bại chèn bóng buồng tử cung, khâu B-Lynch, thắt động mạch tử cung, cắt tử cung.
 - **Tổn thương đường sinh dục:** Khâu cầm máu trực tiếp, sửa tổn thương, dẫn lưu khối máu tụ.
 - **Rối loạn đông máu:** Bù yếu tố đông máu (TC, FFP, cryo), điều trị nguyên nhân (DIC, thuyên tắc ối).
 - **Sót rau:** Lấy rau sót, hút nạo buồng tử cung.
 - **Lộn tử cung:** Trả tử cung, gây mềm cơ tử cung, phẫu thuật nếu cần.
 
-_Lộn tử cung và kỹ thuật đưa tử cung về bình thường_.
 ![Lộn tử cung và kỹ thuật đưa tử cung về bình thường](./_images/bang-huyet-sau-sinh/lon-tu-cung-va-ky-thuat-dua-tu-cung-ve-binh-thuong.png)
+_Hình ảnh "Lộn tử cung và kỹ thuật đưa tử cung về bình thường"_.
 
 ## Phòng ngừa
 

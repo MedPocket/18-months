@@ -45,7 +45,7 @@ Kết quả là **giảm sản sinh estrogen, progesterone và testosterone**, g
 ### Điều trị và can thiệp y khoa
 
 - Hóa trị (alkyl hóa).
-- Tia xạ buồng trứng (>6 Gy).
+- Tia xạ buồng trứng (> 6 Gy).
 - Cắt hai buồng trứng.
 
 ## Chẩn đoán
@@ -53,8 +53,8 @@ Kết quả là **giảm sản sinh estrogen, progesterone và testosterone**, g
 :::note[Chẩn đoán suy buồng trứng sớm (ESHRE)]
 Để chẩn đoán xác định POI, cần có 2 tiêu chuẩn:
 
-- Kinh thưa/vô kinh trong ≥4 tháng liên tục.
-- Nồng độ FSH huyết thanh >25 mIU/mL, được đo tại 2 thời điểm cách nhau ≥4 tuần.
+- Kinh thưa/vô kinh trong ≥ 4 tháng liên tục.
+- Nồng độ FSH huyết thanh > 25 mIU/mL, được đo tại 2 thời điểm cách nhau ≥ 4 tuần.
 
 Kết hợp triệu chứng lâm sàng và xét nghiệm nội tiết để xác định chẩn đoán.
 :::
@@ -72,14 +72,14 @@ Kết hợp triệu chứng lâm sàng và xét nghiệm nội tiết để xác
 
 Các xét nghiệm chẩn đoán:
 
-- **FSH cao >20-30 mIU/mL**, **estradiol thấp <20 pg/mL** (lặp lại xét nghiệm cách nhau 1-4 tuần). Bình thường FSH đầu chu kỳ kinh (ngày 2-4) 1.4 - 9.6 IU/L hoặc 3.5 - 12.5 mIU/mL, giai đoạn rụng trứng 4.7 - 21.5 mIU/mL, giai đoạn hoàng thể 1.7 - 7.7 mIU/mL, sau mãn kinh 25.8 - 134.8 mIU/mL; estrogen 70 - 220 pmol/L đầu chu kỳ kinh.
-- **AMH <1.5 ng/mL** giảm dự trữ buồng trứng.
+- **FSH cao > 20-30 mIU/mL**, **estradiol thấp < 20 pg/mL** (lặp lại xét nghiệm cách nhau 1-4 tuần). Bình thường FSH đầu chu kỳ kinh (ngày 2-4) 1.4-9.6 IU/L hoặc 3.5-12.5 mIU/mL, giai đoạn rụng trứng 4.7-21.5 mIU/mL, giai đoạn hoàng thể 1.7-7.7 mIU/mL, sau mãn kinh 25.8-134.8 mIU/mL; estrogen 70-220 pmol/L đầu chu kỳ kinh.
+- **AMH < 1.5 ng/mL** giảm dự trữ buồng trứng.
 - Siêu âm AFC giảm, buồng trứng nhỏ.
 
 Các xét nghiệm tìm nguyên nhân:
 
 - **FMR1 premutation** nếu tiền sử gia đình POI, trí tuệ kém, run/mất điều hòa.
-- **Nhiễm sắc thể đồ** POI <35 tuổi hoặc nghi bất thường di truyền.
+- **Nhiễm sắc thể đồ** POI < 35 tuổi hoặc nghi bất thường di truyền.
 - Tầm soát bệnh tự miễn: TSH, FT4; Anti-TPO, anti-Tg; Đột biến AIRE (APS-1)
 - Tầm soát suy thượng thận cortisol sáng, test ACTH, 21-hydroxylase.
 - Kháng thể anti-LH receptor, anti-FSH receptor, anti-zona pellucida.

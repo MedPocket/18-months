@@ -41,7 +41,7 @@ _Bảng "Phân loại COEIN"_.
 |                           | Nguyên nhân không thuộc cấu trúc (COEIN)                                                |
 | ------------------------- | --------------------------------------------------------------------------------------- |
 | **C**oagulopathy          | Rối loạn đông máu (di truyền hoặc mắc phải)                                             |
-| **O**vulatory Dysfunction | Rối loạn phóng noãn (ví dụ: PCOS, thiếu hụt nội tiết)                                   |
+| **O**vulatory Dysfunction | Rối loạn phóng noãn (ví dụ: hội chứng buồng trứng đa nang - PCOS, thiếu hụt nội tiết)   |
 | **E**ndometrial           | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: Bất thường mạch máu nội mạc)                |
 | **I**atrogenic            | Do thuốc hoặc các thủ thuật y tế (thuốc kháng đông, dụng cụ tử cung, thuốc nội tiết...) |
 | **N**ot yet classified    | Nguyên nhân chưa rõ hoặc chưa phân loại được                                            |
@@ -58,8 +58,8 @@ _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của
 
 #### Tiền sử
 
-- **Tiền sử sản khoa - tình dục:** Hoạt động tình dục, phương thức tránh thai (đặc biệt dụng cụ tử cung), đánh giá nguy cơ STI. Tiền sử sảy thai, nong nạo, nạo hút buồng tử cung, chấn thương, can thiệp phụ khoa.
-- **Tiền sử bệnh lý hệ thống và nội tiết:** Bệnh lý đông máu (bản thân, gia đình), đái tháo đường, tăng huyết áp, rối loạn tuyến giáp, hội chứng buồng trứng đa nang (PCOS). Thuốc đang dùng: NSAID, kháng đông (warfarin, heparin...), corticosteroid, thuốc điều trị tuyến giáp, thuốc tránh thai, thuốc nội tiết thay thế, GnRH đồng vận, tamoxifen, SERM, SPRM.
+- **Tiền sử sản khoa - tình dục:** Hoạt động tình dục, phương thức tránh thai (đặc biệt dụng cụ tử cung), đánh giá nguy cơ bệnh lây truyền qua đường tình dục (STI). Tiền sử sảy thai, nong nạo, nạo hút buồng tử cung, chấn thương, can thiệp phụ khoa.
+- **Tiền sử bệnh lý hệ thống và nội tiết:** Bệnh lý đông máu (bản thân, gia đình), đái tháo đường, tăng huyết áp, rối loạn tuyến giáp, hội chứng buồng trứng đa nang (PCOS). Thuốc đang dùng: thuốc kháng viêm không steroid (NSAID), kháng đông (warfarin, heparin...), corticosteroid, thuốc điều trị tuyến giáp, thuốc tránh thai, thuốc nội tiết thay thế, GnRH đồng vận, tamoxifen, SERM, SPRM.
 
 #### Bệnh sử
 
@@ -172,10 +172,10 @@ Estrogen cần được cho đủ liều để nội mạc phát triển nhanh n
 
 **Xử trí nguyên nhân nội tiết:**
 
-- **Progestogen đơn thuần** (đối với rối loạn phóng noãn hoặc nội mạc suy yếu): Medroxyprogesterone acetate 10-20 mg/ngày (ngày 14-25 chu kỳ hoặc 10-14 ngày mỗi tháng); Hoặc Dydrogesterone 10 mg x 2 lần/ngày (ngày 14-25 chu kỳ); Hoặc Levonorgestrel IUD (LNG-IUD) phóng thích 20 µg/ngày cầm máu hiệu quả cao trong cầm máu AUB do nguyên nhân nội mạc, u xơ dưới niêm mạc nhỏ, PCOS. Dùng dài hạn (5 năm), đồng thời bảo vệ nội mạc khỏi tăng sinh do estrogen ngoại sinh.
-- **Liệu pháp phối hợp estrogen - progestogen (COC):** Ethinyl estradiol 30 µg + Levonorgestrel 150 µg: Dùng hàng ngày trong 21 ngày, nghỉ 7 ngày; Có thể chỉ định liên tục (28 ngày liền) nếu cần ổn định nội mạc nhanh.
+- **Progestogen đơn thuần** (đối với rối loạn phóng noãn hoặc nội mạc suy yếu): Medroxyprogesterone acetate 10-20 mg/ngày (ngày 14-25 chu kỳ hoặc 10-14 ngày mỗi tháng); Hoặc dydrogesterone 10 mg x 2 lần/ngày (ngày 14-25 chu kỳ); Hoặc Levonorgestrel IUD (LNG-IUD) phóng thích 20 µg/ngày cầm máu hiệu quả cao trong cầm máu AUB do nguyên nhân nội mạc, u xơ dưới niêm mạc nhỏ, PCOS. Dùng dài hạn (5 năm), đồng thời bảo vệ nội mạc khỏi tăng sinh do estrogen ngoại sinh.
+- **Liệu pháp phối hợp estrogen - progestogen (COC):** Ethinyl estradiol 30 µg + levonorgestrel 150 µg: Dùng hàng ngày trong 21 ngày, nghỉ 7 ngày; Có thể chỉ định liên tục (28 ngày liền) nếu cần ổn định nội mạc nhanh.
 - **GnRH đồng vận (GnRH agonist):** Leuprolide 3.75 mg tiêm bắp mỗi tháng hoặc 11.25 mg mỗi 3 tháng. Tạo _cắt tuyến yên nội khoa_, giảm sản xuất estrogen từ buồng trứng. Chỉ định ngắn hạn (6 tháng), thường kết hợp add-back therapy (estrogen/progestin liều thấp) để giảm triệu chứng mãn kinh.
-- **Selective Estrogen Receptor Modulator (SERM):** Clomiphene citrate 50-100 mg/ngày (ngày 5-9 chu kỳ) để kích phóng noãn ở trường hợp PCOS; Hoặc Raloxifene không thường dùng cho AUB nhưng có thể tác động đến nội mạc.
+- **Selective Estrogen Receptor Modulator (SERM):** Clomiphene citrate 50-100 mg/ngày (ngày 5-9 chu kỳ) để kích phóng noãn ở trường hợp PCOS; Hoặc raloxifene không thường dùng cho AUB nhưng có thể tác động đến nội mạc.
 - **Selective Progesterone Receptor Modulator (SPRM):** Ulipristal acetate 5 mg/ngày trong 3 tháng (dành cho u xơ tử cung) hoặc mifepristone liều thấp (5-10 mg/ngày). Giảm kích thước u xơ, giảm xuất huyết, ổn định nội mạc.
 
 ### Ngoại khoa

@@ -3,7 +3,7 @@ title: Viêm gan B và thai kỳ
 description: Quản lý viêm gan B trong thai kỳ.
 ---
 
-Tất cả thai phụ được khuyến cáo tầm soát nhiễm HBV ngay trong quý 1 của thai kỳ.
+Tất cả thai phụ được khuyến cáo tầm soát nhiễm virus viêm gan B (HBV) ngay trong quý 1 của thai kỳ.
 
 ## Tầm soát
 
@@ -33,8 +33,8 @@ Tất cả thai phụ được khuyến cáo tầm soát nhiễm HBV ngay trong 
 
 **Chỉ định thuốc kháng virus:**
 
-- **HBsAg (+), HBeAg (+) và HBV DNA >10⁶ copies/mL (200 000 IU/mL) hoặc HBsAg định lượng >10⁴ IU/mL.**
-- Phụ nữ viêm gan B mạn tính không xơ hóa tiến triển có thể trì hoãn điều trị đến sau sinh, trừ khi: **Xơ gan còn bù hoặc mất bù** với tải lượng HBV DNA bất kể ALT/HBeAg. Hoặc không xơ gan nhưng đồng thời **ALT >2 lần bình thường và/hoặc xơ hóa F ≥2 cùng HBV DNA ≥10⁵ copies/mL (nếu HBeAg +) hoặc ≥10⁴ copies/mL (nếu HBeAg -).**
+- **HBsAg (+), HBeAg (+)** và HBV DNA > 10⁶ copies/mL (200 000 IU/mL) hoặc HBsAg định lượng > 10⁴ IU/mL.
+- Phụ nữ viêm gan B mạn tính không xơ hóa tiến triển có thể trì hoãn điều trị đến sau sinh, trừ khi: **Xơ gan còn bù hoặc mất bù** với tải lượng HBV DNA bất kể ALT/HBeAg. Hoặc không xơ gan nhưng đồng thời **ALT > 2 lần bình thường và/hoặc xơ hóa F ≥ 2 cùng HBV DNA ≥ 10⁵ copies/mL (nếu HBeAg +) hoặc ≥ 10⁴ copies/mL (nếu HBeAg -).**
 
 **Bắt đầu** Tenofovir disoproxil fumarate (TDF) 300 mg/ngày từ tuần 24-28 của thai kỳ. Nếu muộn hơn, cần **khởi trị ít nhất 4 tuần trước sinh và kéo dài 4-12 tuần sau sinh** (chú ý điều chỉnh liều theo độ lọc cầu thận).
 
@@ -57,7 +57,7 @@ Tất cả thai phụ được khuyến cáo tầm soát nhiễm HBV ngay trong 
 - Tiêm vaccine HBV mũi 1 cùng thời điểm (vị trí khác nhau).
 - Hoàn thiện 3 mũi vaccine theo chương trình: Tháng 2, 3 và 4.
 
-Xét nghiệm HBsAg và anti-HBs cho trẻ >12 tháng để đánh giá hiệu quả.
+Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng để đánh giá hiệu quả.
 
 ## Phơi nhiễm
 

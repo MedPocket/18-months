@@ -59,8 +59,8 @@ _Bảng "OGTT 75 g thực hiện sau sinh"_.
 - **Bình thường:** Kiểm tra định kỳ 1-3 năm/lần, tư vấn lối sống lành mạnh.
 - **Tiền đái tháo đường/ĐTĐ:** Chuyển khám Nội tiết, cân nhắc điều trị nội tiết và chương trình thay đổi lối sống tích cực.
 
-_Hình ảnh "Quy trình theo dõi và quản lý ĐTĐ sau sinh"_.
 ![Theo dõi và quản lý ĐTĐ sau sinh](./_images/theo-doi-va-quan-ly-dai-thao-duong-sau-sinh.jpg)
+_Hình ảnh "Quy trình theo dõi và quản lý ĐTĐ sau sinh"_.
 
 ## Tài liệu tham khảo
 

@@ -21,8 +21,8 @@ Vai trò của **MTHFR**:
 - Acid folic muốn được hấp thu vào tế bào cần có men MTHFR. Nếu có đột biến MTHFR thì acid folic sẽ giảm tác dụng.
 - MTHFR tham gia vào con đường chuyển hóa homocysteine thành methionine, một axit amin quan trọng để tạo ra các protein và hợp chất khác như S-adenosylmethionine (SAMe), cần thiết cho quá trình methyl hóa trong tế bào.
 
-_Hình ảnh: "Chu trình folate và chu trình methionine"._
 ![Chu trình folate và chu trình methionine](./_images/acid-folic/chu-trinh-folate-va-chu-trinh-methionine.png)
+_Hình ảnh: "Chu trình folate và chu trình methionine"_.
 
 ## Hậu quả của thiếu acid folic
 

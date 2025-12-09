@@ -89,7 +89,7 @@ Phẫu thuật sản phụ khoa chiếm **65% các trường hợp tổn thươn
 ### Tổn thương bàng quang
 
 - Điều trị tùy vị trí, loại và mức độ.
-- Tổn thương >1 cm cần khâu phục hồi.
+- Tổn thương > 1 cm cần khâu phục hồi.
 - Lưu ống thông Foley 10–14 ngày.
 - Có thể khâu **1 hoặc 2 lớp** tùy kinh nghiệm.
 - Cần chụp CT kiểm tra trước khi rút ống thông.

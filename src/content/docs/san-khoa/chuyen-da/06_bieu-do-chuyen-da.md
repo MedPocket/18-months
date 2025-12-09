@@ -74,7 +74,7 @@ Khi ối vỡ kéo dài:
 - Áp lực thay đổi trong buồng tử cung có thể đẩy vi khuẩn ngược dòng vào buồng ối.
 - Khám âm đạo nhiều lần làm tăng nguy cơ nhiễm khuẩn.
 
-Nhiễm trùng ối dẫn đến nhiễm trùng thai, sơ sinh, rồi đến nhiễm trùng mẹ (nội mạc tử cung, du khuẩn huyết, nhiễm trùng huyết...). Trong đó Streptococcus nhóm B đặc biệt nguy hiểm.
+Nhiễm trùng ối dẫn đến nhiễm trùng thai, sơ sinh, rồi đến nhiễm trùng mẹ (nội mạc tử cung, du khuẩn huyết, nhiễm trùng huyết...). Trong đó _Streptococcus_ nhóm B đặc biệt nguy hiểm.
 
 Dịch ối hôi, có phân su là dấu hiệu nghi ngờ. Khi có biểu hiện toàn thân ở mẹ (sốt, bạch cầu tăng, CRP tăng), cần xử trí khẩn cấp.
 
@@ -82,8 +82,8 @@ Dịch ối hôi, có phân su là dấu hiệu nghi ngờ. Khi có biểu hiệ
 
 Biểu đồ chuyển dạ (Sản đồ) WHO model 1993 là công cụ mạnh trong theo dõi và phát hiện sớm chuyển dạ kéo dài, hỗ trợ can thiệp kịp thời.
 
-_Hình ảnh "Sản đồ WHO 1993"_.
 ![Sản đồ WHO 1993](./_images/bieu-do-chuyen-da/bieu-do-chuyen-da-who-1993.png)
+_Hình ảnh "Sản đồ WHO 1993"_.
 
 ### Đặc điểm
 

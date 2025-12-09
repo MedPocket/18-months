@@ -36,7 +36,7 @@ _Hình ảnh "N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thư
 **Lậu hầu họng:**
 
 - Thường không triệu chứng; Có thể viêm họng nhẹ, đau họng, sưng hạch góc hàm.
-- Được phát hiện khi sàng lọc STI hầu họng ở người quan hệ bằng miệng.
+- Được phát hiện khi sàng lọc bệnh lây truyền qua đường tình dục (STI) hầu họng ở người quan hệ bằng miệng.
 
 #### Có biến chứng
 
@@ -138,7 +138,7 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
 
 :::caution
 
-- Phác đồ trên áp dụng cho cả phụ nữ mang thai (Ceftriaxon tiêm bắp an toàn, Azithromycin an toàn khi điều trị Chlamydia).
+- Phác đồ trên áp dụng cho cả phụ nữ mang thai (ceftriaxon tiêm bắp an toàn, azithromycin an toàn khi điều trị Chlamydia).
 - Nếu tiền sử dị ứng ceftriaxon hoặc cephalosporin thế hệ ba.
 
 :::
@@ -171,20 +171,20 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi ng
 - Mỡ Chloramphenicol 1%.
 
 :::caution
-Tránh chạm mắt khi tra thuốc. Không dùng Povidon Iod dung môi cồn do kích ứng.
+Tránh chạm mắt khi tra thuốc. Không dùng povidon iod dung môi cồn do kích ứng.
 :::
 
 #### Trường hợp đặc biệt
 
 **Dị ứng Penicillin/cephalosporin:**
 
-- Nguy cơ phản ứng chéo giữa Penicillin và Cephalosporin thế hệ đầu cao hơn, nhưng với cephalosporin thế hệ ba (Ceftriaxon, Cefixim) nguy cơ rất thấp (< 1%).
-- Nếu nghi ngờ quá mẫn IgE với Penicillin, có thể dùng: **Gentamicin 240 mg tiêm bắp liều duy nhất** + **Azithromycin 2 g uống liều duy nhất**; Nếu cơ sở có xét nghiệm đột biến **gyrA** (chỉ điểm kháng Ciprofloxacin), có thể dùng **Ciprofloxacin 500 mg uống liều duy nhất** nếu mẫu nhạy.
+- Nguy cơ phản ứng chéo giữa penicillin và cephalosporin thế hệ đầu cao hơn, nhưng với cephalosporin thế hệ ba (ceftriaxon, cefixim) nguy cơ rất thấp (< 1%).
+- Nếu nghi ngờ quá mẫn IgE với penicillin, có thể dùng: **Gentamicin 240 mg tiêm bắp liều duy nhất** + **Azithromycin 2 g uống liều duy nhất**; Nếu cơ sở có xét nghiệm đột biến **gyrA** (chỉ điểm kháng ciprofloxacin), có thể dùng **ciprofloxacin 500 mg uống liều duy nhất** nếu mẫu nhạy.
 
 **Phụ nữ mang thai:**
 
-- Điều trị bằng **Ceftriaxon 250 mg tiêm bắp liều duy nhất** + **Azithromycin 1 g uống liều duy nhất** (nếu chưa loại trừ nhiễm Chlamydia).
-- Tránh dùng Gentamicin vì nguy cơ độc tính trên tai và thận của thai nhi.
+- Điều trị bằng **ceftriaxon 250 mg tiêm bắp liều duy nhất** + **azithromycin 1 g uống liều duy nhất** (nếu chưa loại trừ nhiễm Chlamydia).
+- Tránh dùng gentamicin vì nguy cơ độc tính trên tai và thận của thai nhi.
 
 **Người nhiễm HIV:** Điều trị tương tự người không nhiễm HIV; Lưu ý nguy cơ kháng thuốc cao hơn, cần theo dõi kỹ đáp ứng điều trị.
 

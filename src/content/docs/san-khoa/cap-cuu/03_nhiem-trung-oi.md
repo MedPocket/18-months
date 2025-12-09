@@ -42,7 +42,7 @@ _Bảng "Chẩn đoán nhiễm trùng ối"_.
 
 | Chẩn đoán nhiễm trùng ối    | Đặc điểm                                                                                                                                                                                                                                                                             |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Mẹ sốt đơn thuần**        | Nhiệt độ mẹ ≥ 38.0°C nhưng < 39.0°C, không có nguyên nhân khác, tình trạng sốt có thể thoáng qua hoặc kéo dài                                                                                                                                                                        |
+| **Mẹ sốt đơn thuần**        | Nhiệt độ mẹ ≥ 38.0 °C nhưng < 39.0 °C, không có nguyên nhân khác, tình trạng sốt có thể thoáng qua hoặc kéo dài                                                                                                                                                                      |
 | **Nghi ngờ nhiễm trùng ối** | Sốt không rõ nguyên nhân kết hợp với một hoặc nhiều dấu hiệu sau:<br> 1. Tim thai cơ bản > 160 lần/phút kéo dài ≥ 10 phút<br> 2. Bạch cầu máu mẹ > 15000/mm³, không dùng corticosteroids hoặc xét nghiệm sau 48 giờ nếu có<br> 3. Dịch âm đạo đục chảy qua cổ tử cung khi đặt mỏ vịt |
 | **Xác định nhiễm trùng ối** | Có dấu hiệu nghi ngờ + ít nhất một trong các xét nghiệm dịch ối sau:<br> 1. Nhuộm Gram thấy vi khuẩn<br> 2. Nồng độ glucose ≤ 14 mg/dL<br> 3. Bạch cầu dịch ối > 30 tế bào/mm³ (không lẫn máu)                                                                                       |
 
@@ -100,7 +100,7 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 
 **Phác đồ 1 (ưu tiên):**
 
-- Ampicillin 2 g tiêm TM mỗi 6 giờ + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ. Nếu mổ lấy thai, thêm Clindamycin 900mg mỗi 8 giờ hoặc Metronidazole 500 mg truyền TM mỗi 8 giờ.
+- Ampicillin 2 g tiêm TM mỗi 6 giờ + gentamicin 5 mg/kg truyền TM mỗi 24 giờ. Nếu mổ lấy thai, thêm clindamycin 900 mg mỗi 8 giờ hoặc metronidazole 500 mg truyền TM mỗi 8 giờ.
 - Hoặc Ampicillin-sulbactam 3 g tiêm TM mỗi 6h.
 - Hoặc Cefoxitin 2 g tiêm TM mỗi 8 giờ.
 - Hoặc Cefotetan 2 g tiêm TM mỗi 12h.
@@ -108,18 +108,18 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 
 **Phác đồ 2: Dị ứng nhẹ với Penicillin:**
 
-- Cefazolin 2 g tiêm TM mỗi 8 giờ + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
-- Nếu mổ lấy thai, thêm Clindamycin hoặc Metronidazole như trên.
+- Cefazolin 2 g tiêm TM mỗi 8 giờ + gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
+- Nếu mổ lấy thai, thêm clindamycin hoặc metronidazole như trên.
 
 **Phác đồ 3: Dị ứng nặng với Penicillin:**
 
 - Clindamycin 900 mg truyền TM mỗi 8 giờ.
-- Hoặc Vancomycin 1 g truyền TM mỗi 12h + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
+- Hoặc Vancomycin 1 g truyền TM mỗi 12h + gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
 
 :::caution
 Vancomycin chỉ dùng khi:
 
-- GBS đề kháng Clindamycin hoặc Erythromycin.
+- GBS đề kháng clindamycin hoặc erythromycin.
 - GBS nhưng chưa có kết quả kháng sinh đồ.
 
 :::
@@ -133,8 +133,8 @@ Vancomycin chỉ dùng khi:
 
 - Dùng thuốc hạ sốt theo chỉ định để giảm khó chịu cho mẹ và nguy cơ cho thai.
 
-_Hình ảnh "Lưu đồ xử trí nhiễm trùng ối - Bệnh viện Từ Dũ"_.
 ![Lưu đồ xử trí nhiễm trùng ối - Bệnh viện Từ Dũ](./_images/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)
+_Hình ảnh "Lưu đồ xử trí nhiễm trùng ối - Bệnh viện Từ Dũ"_.
 
 ## Tài liệu tham khảo
 

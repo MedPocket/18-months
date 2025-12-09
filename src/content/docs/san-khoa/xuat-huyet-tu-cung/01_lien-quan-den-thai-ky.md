@@ -17,14 +17,14 @@ Các kiểu xuất huyết có thể nhẹ hoặc nặng, thỉnh thoảng hoặ
 - **Sảy thai (Miscarriage)** chiếm khoảng 15-20%: Thường đau bụng, chảy máu.
 - **Thai ngoài tử cung (Ectopic pregnancy):** Thường xảy ra trong vòi tử cung (95% trường hợp), cũng có thể là ổ bụng, cổ tử cung hoặc buồng trứng. Chảy máu kèm đau một bên hạ vị, có thể xuất huyết ổ bụng sau vỡ, đe dọa tính mạng.
 - **Bệnh nguyên bào nuôi (Trophoblastic disease).**
-- **Xuất huyết do làm tổ của phôi (Implantation bleeding):** Xảy ra khoảng 6-12 ngày sau thụ tinh, thường là vết máu hồng nhạt, ngắn ngày. Là hiện tượng sinh lý nhưng có thể bị nhầm với sảy thai.
+- **Xuất huyết do làm tổ của phôi (_Implantation bleeding_):** Xảy ra khoảng 6-12 ngày sau thụ tinh, thường là vết máu hồng nhạt, ngắn ngày. Là hiện tượng sinh lý nhưng có thể bị nhầm với sảy thai.
 - **Các nguyên nhân không do thai kỳ** như Polyp tử cung, u xơ, viêm cổ tử cung, nhiễm trùng âm đạo...
 
 ### Trong 3 tháng giữa và 3 tháng cuối
 
 Sau 13 tuần 6 ngày, các nguyên nhân chính gồm:
 
-- **Chuyển dạ sớm do hở eo tử cung (Cervical insufficiency):** Cổ tử cung không chịu được sức nặng của thai, thường trong giai đoạn 14-24 tuần, gây chảy máu không đau hoặc đau ít, có thể dẫn đến sinh non.
+- **Chuyển dạ sớm do hở eo tử cung (_Cervical insufficiency_):** Cổ tử cung không chịu được sức nặng của thai, thường trong giai đoạn 14-24 tuần, gây chảy máu không đau hoặc đau ít, có thể dẫn đến sinh non.
 - **Sảy thai muộn (Late miscarriage):** Sảy thai sau 14 tuần và trước 20 tuần, cơ chế tương tự sảy thai sớm nhưng cần phân biệt với chuyển dạ non.
 - **Dọa sinh non (Preterm labor):** Chuẩn bị chuyển dạ trước 37 tuần, chảy máu kèm co thắt tử cung.
 - **Rau tiền đạo (Placenta praevia):** Rau bám thấp che lỗ trong cổ tử cung, chảy máu đỏ tươi không đau, thường xảy ra sau 28 tuần.

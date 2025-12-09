@@ -68,9 +68,9 @@ Sử dụng `1.`, `2.` khi trình bày quy trình, các bước thực hiện th
 
 ### Kí hiệu toán học và Đơn vị đo lường
 
-- **Phép so sánh:** Viết liền các dấu so sánh với số. Sử dụng kí hiệu toán học chuẩn `≥`, `≤` thay vì `>=` hay `<=`.
-  - _Đúng:_ `>5 cm`, `<100 mg`, `≥20 tuần`.
-  - _Sai:_ `> 5 cm`, `< 100 mg`, `>= 20 tuần`.
+- **Phép so sánh:** Không viết liền các dấu so sánh với số. Sử dụng kí hiệu toán học chuẩn `≥`, `≤` thay vì `>=` hay `<=`.
+  - _Đúng:_ `> 5 cm`, `< 100 mg`, `≥ 20 tuần`.
+  - _Sai:_ `>5 cm`, `<100 mg`, `≥20 tuần`.
 - **Đơn vị đo lường:** Luôn có **một khoảng trắng** giữa số và đơn vị.
   - _Đúng:_ 10 mg, 50 ml, 37 °C.
   - _Sai:_ 10mg, 50ml, 37°C.
@@ -184,12 +184,15 @@ Sử dụng bảng để so sánh hoặc trình bày dữ liệu cấu trúc.
 **Ví dụ:**
 
 ```md
-_Bảng 1: Phân loại mức độ thiếu máu._
+![Các nguyên nhân gây thiếu máu trong thai kỳ](./_images/cac-nguyen-nhan-giay-thieu-mau-trong-thai-ky.png)
+_Hình "Các nguyên nhân gây thiếu máu trong thai kỳ"_.
+
+_Bảng "Phân loại mức độ thiếu máu"_.
 
 | Mức độ     | Hemoglobin (g/dL) | Biểu hiện lâm sàng         |
 | ---------- | ----------------- | -------------------------- |
-| Nhẹ        | 10 - 11           | Mệt mỏi nhẹ, da hơi xanh.  |
-| Trung bình | 7 - 10            | Chóng mặt, nhịp tim nhanh. |
+| Nhẹ        | 10-11           | Mệt mỏi nhẹ, da hơi xanh.  |
+| Trung bình | 7-10            | Chóng mặt, nhịp tim nhanh. |
 | Nặng       | < 7               | Khó thở, suy tim.          |
 ```
 
@@ -210,7 +213,7 @@ Tuyệt đối không thăm khám âm đạo bằng tay khi nghi ngờ rau tiề
 
 ```md
 :::note
-Nồng độ Beta-hCG thường tăng gấp đôi sau mỗi 48 giờ trong thai kỳ bình thường giai đoạn sớm.
+Nồng độ β-hCG thường tăng gấp đôi sau mỗi 48 giờ trong thai kỳ bình thường giai đoạn sớm.
 :::
 ```
 

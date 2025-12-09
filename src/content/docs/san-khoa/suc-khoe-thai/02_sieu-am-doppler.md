@@ -18,13 +18,13 @@ Bánh rau phát triển sâu vào màng rụng của tử cung. Các nguyên bà
 
 Trong thai kỳ bệnh lý, động mạch tử cung có trở kháng cao với sự tồn tại của khuyết đầu tâm trương (notch). Trong các thai kỳ có bệnh lý, như tăng huyết áp hay thai chậm tăng trưởng trong tử cung, tế bào nuôi không xâm nhập hoàn toàn vào hệ thống mạch máu màng rụng. Các mạch máu không bị phá hủy hoàn toàn, giữ khẩu kính rất hẹp, làm cho trở kháng động mạch tử cung không giảm.
 
-_Hình ảnh "Thay đổi của Doppler động mạch tử cung"_.
 ![Thay đổi của Doppler động mạch tử cung](./_images/sieu-am-doppler/thay-doi-doppler-dong-mach-tu-cung.png)
+_Hình ảnh "Thay đổi của Doppler động mạch tử cung"_.
 
 Khảo sát động học dòng chảy bằng Doppler có giá trị dự báo cao khi thực hiện trên dân số nguy cơ cao với biến chứng liên quan đến suy yếu bánh rau (như tăng huyết áp mãn tính, thai chậm tăng trưởng). Thời điểm khảo sát là khoảng 17-22 tuần tuổi thai, đồng thời với siêu âm hình thái. Nếu Doppler bất thường, nên thực hiện thêm xét nghiệm alpha-fetoprotein và free β-hCG ở thời điểm thai dưới 18 tuần trong khuôn khổ triple test. Doppler động mạch tử cung nên được lặp lại ở tuần 24-26. Nếu bất thường tiếp tục tồn tại, quản lý thai kỳ nên được chuyển về các trung tâm chăm sóc chuyên biệt. Nếu trở kháng động mạch tử cung cao bất thường và/hoặc có ngấn tiền tâm trương sau 26 tuần, nguy cơ tăng huyết áp thai kỳ và thai chậm tăng trưởng tăng cao gấp 4 đến 8 lần.
 
-_Hình ảnh "PI trung bình của động mạch tử cung"_.
 ![PI trung bình của động mạch tử cung](./_images/sieu-am-doppler/pi-trung-binh-cua-dong-mach-tu-cung.png)
+_Hình ảnh "PI trung bình của động mạch tử cung"_.
 
 _Bảng "Chỉ định Doppler động mạch tử cung tuần 17-22"_.
 
@@ -43,18 +43,18 @@ Lưu thông máu qua động mạch rốn thai nhi đặc trưng bởi dòng ch�
 
 Không nên tầm soát thường quy bằng Doppler động mạch rốn ở thai kỳ khỏe mạnh, phát triển bình thường, do chưa chứng minh được lợi ích và có thể gây ảnh hưởng không mong muốn. Các bệnh lý như tăng huyết áp thai kỳ, thai chậm tăng trưởng trong tử cung dẫn đến suy thoái chức năng tuần hoàn rau thai, do kết tập tiểu cầu, lắng đọng fibrin và xơ hóa bánh rau. Điều này làm tăng trở kháng dòng chảy của tuần hoàn rốn. Các chỉ số Doppler bất thường như tăng tỷ lệ S/D, RI hoặc PI cao hơn bách phân vị 95th.
 
-_Hình ảnh "PI trung bình của động mạch rốn"_.
 ![PI trung bình của động mạch rốn](./_images/sieu-am-doppler/pi-trung-binh-cua-dong-mach-ron.png)
+_Hình ảnh "PI trung bình của động mạch rốn"_.
 
 Khảo sát dòng chảy động mạch rốn bằng Doppler nên được dùng để đánh giá chức năng tuần hoàn rau thai ở thai kỳ nghi ngờ suy yếu chức năng bánh rau (tăng huyết áp, thai chậm tăng trưởng).
 
 Trở kháng động mạch rốn tăng cao có thể dẫn đến mất dòng chảy cuối tâm trương hoặc đảo ngược dòng chảy cuối tâm trương. Khi xuất hiện giảm, mất hoặc đảo ngược dòng chảy cuối tâm trương trên Doppler động mạch rốn, cần đánh giá kỹ lâm sàng để quyết định chấm dứt thai kỳ hoặc theo dõi chặt chẽ.
 
-_Hỉnh ảnh "Vắng mặt dòng chảy trong tâm trương động mạch rốn"_.
 ![Vắng mặt dòng chảy trong tâm trương động mạch rốn](./_images/sieu-am-doppler/vang-mat-dong-chay-trong-tam-truong-dong-mach-ron.png)
+_Hỉnh ảnh "Vắng mặt dòng chảy trong tâm trương động mạch rốn"_.
 
-_Hỉnh ảnh "Đảo ngược dòng chảy trong tâm trương động mạch rốn"_.
 ![Đảo ngược dòng chảy trong tâm trương động mạch rốn](./_images/sieu-am-doppler/dao-nguoc-dong-chay-trong-tam-truong-dong-mach-ron.png)
+_Hỉnh ảnh "Đảo ngược dòng chảy trong tâm trương động mạch rốn"_.
 
 ## Doppler động mạch não giữa (MCA)
 

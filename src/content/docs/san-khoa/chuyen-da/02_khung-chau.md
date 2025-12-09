@@ -16,8 +16,8 @@ _Hình ảnh "Tiểu khung trên thiết đồ đứng dọc"_.
 
 Khi nhìn ngang, lòng tiểu khung có dạng ống cong về phía trước với 2 thành không đều nhau:
 
-- Thành trước ngắn, khoảng 4cm, tương ứng với mặt sau khớp vệ.
-- Thành sau dài hơn, 12-15cm, tương ứng với mặt trước xương cùng và xương cụt.
+- Thành trước ngắn, khoảng 4 cm, tương ứng với mặt sau khớp vệ.
+- Thành sau dài hơn, 12-15 cm, tương ứng với mặt trước xương cùng và xương cụt.
 
 Các thì trong **quá trình ngôi thai đi qua khung chậu:**
 

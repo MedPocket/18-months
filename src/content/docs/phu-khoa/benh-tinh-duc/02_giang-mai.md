@@ -199,7 +199,7 @@ Quy trình chẩn đoán thường là:
 
 #### Giang mai bẩm sinh
 
-- **Nhiễm khuẩn khác ở trẻ sơ sinh:** Staphylococcus, Streptococcus, Haemophilus influenzae, _Chlamydia trachomatis_ (gây viêm kết mạc, viêm phổi).
+- **Nhiễm khuẩn khác ở trẻ sơ sinh:** _Staphylococcus_, _Streptococcus_, _Haemophilus influenzae_, _Chlamydia trachomatis_ (gây viêm kết mạc, viêm phổi).
 - **Rickets (còi xương):** Giống viêm xương sụn giang mai muộn nhưng xét nghiệm huyết thanh âm tính giang mai.
 - **Bệnh nấm (Blastomyces, Histoplasma) hoặc bệnh lý di truyền ảnh hưởng xương, da.**
 

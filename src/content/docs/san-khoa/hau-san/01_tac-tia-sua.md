@@ -23,9 +23,9 @@ description: Chẩn đoán và điều trị tắc tia sữa.
 
 ## Phương pháp dùng thuốc
 
-- **Giảm đau và kháng viêm:** Ibuprofen 400-600mg mỗi 6-8 giờ (uống sau ăn); Paracetamol 500-1000mg mỗi 4-6h (tối đa 4g/ngày).
-- **Kháng sinh (nếu có viêm):** Dicloxacillin 500mg x 4 lần/ngày, 10-14 ngày; Cephalexin 500mg x 4 lần/ngày, 10-14 ngày.
-- **Kích thích tiết sữa (khi cần):** Metoclopramide 10mg x 3 lần/ngày, 5-7 ngày; Domperidone 10mg x 3 lần/ngày, 5-7 ngày.
+- **Giảm đau và kháng viêm:** Ibuprofen 400-600 mg mỗi 6-8 giờ (uống sau ăn); paracetamol 500-1000 mg mỗi 4-6h (tối đa 4 g/ngày).
+- **Kháng sinh (nếu có viêm):** Dicloxacillin 500 mg x 4 lần/ngày, 10-14 ngày; Cephalexin 500 mg x 4 lần/ngày, 10-14 ngày.
+- **Kích thích tiết sữa (khi cần):** Metoclopramide 10 mg x 3 lần/ngày, 5-7 ngày; Domperidone 10 mg x 3 lần/ngày, 5-7 ngày.
 
 :::caution
 Các thuốc kích thích chỉ dùng khi sản lượng sữa giảm.

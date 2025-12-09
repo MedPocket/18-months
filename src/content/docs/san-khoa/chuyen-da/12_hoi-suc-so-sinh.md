@@ -7,8 +7,8 @@ Mục tiêu chính của hồi sức sơ sinh là giúp trẻ thiết lập **tu
 
 ## Từ tuần hoàn bào thai sang sơ sinh
 
-_Hình ảnh "Tuần hoàn bào thai (trái) với shunt qua lỗ Botal & ống động mạch - Phổi không trao đổi khí. Tuần hoàn sơ sinh (phải) - Phổi mở, shunt đóng"_.
 ![Tuần hoàn bào thai và sơ sinh](./_images/hoi-suc-so-sinh/tuan-hoan-bao-thai-va-tuan-hoan-so-sinh.jpeg)
+_Hình ảnh "Tuần hoàn bào thai (trái) với shunt qua lỗ Botal & ống động mạch - Phổi không trao đổi khí. Tuần hoàn sơ sinh (phải) - Phổi mở, shunt đóng"_.
 
 - **Bào thai:** Trao đổi khí qua rau, phổi không vận hành, trở kháng mạch phổi cao → máu qua shunt tim-phổi.
 - **Sơ sinh:** Hít vào đầu tiên → phổi nở, giảm kháng trở mạch phổi. Cắt rốn → tăng kháng trở ngoại vi → dòng máu qua phổi để trao đổi khí.
@@ -44,8 +44,8 @@ Khoảng 10% trẻ sơ sinh cần hỗ trợ, chỉ 1% cần hồi sức tích c
 
 ## Quy trình
 
-_Hình ảnh "Lưu đồ hồi sức sơ sinh"_.
 ![Lưu đồ hồi sức sơ sinh](./_images/hoi-suc-so-sinh/luu-do-hoi-suc-so-sinh.jpeg)
+_Hình ảnh "Lưu đồ hồi sức sơ sinh"_.
 
 1. **Giảm thất thoát nhiệt:** Lau khô, đặt dưới đèn sưởi. Hút dịch mũi-họng nếu cần.
 2. **Đánh giá hô hấp & hỗ trợ:** Chờ 30 giây đầu để trẻ hít thở tự nhiên. Nếu không thở hoặc thở yếu **thông khí áp lực dương** (PPV) qua mặt nạ, 40-60 lần/phút, FiO₂ 21-100%. Áp lực phục hồi phế nang 30-40 cmH₂O, có van an toàn.
@@ -54,8 +54,8 @@ _Hình ảnh "Lưu đồ hồi sức sơ sinh"_.
 
 ## Theo dõi
 
-_Hình ảnh "3 mức độ chăm sóc sau hồi sức"_.
 ![3 mức độ chăm sóc sau hồi sức](./_images/hoi-suc-so-sinh/3-muc-do-cham-soc-sau-hoi-suc.jpeg)
+_Hình ảnh "3 mức độ chăm sóc sau hồi sức"_.
 
 - **Chăm sóc hồi sức:** Trẻ cần PPV/ấn ngực/thuốc.
 - **Chăm sóc cấp cứu:** Theo dõi sát 24-48 giờ, kiểm soát đường huyết, thân nhiệt, điện giải.

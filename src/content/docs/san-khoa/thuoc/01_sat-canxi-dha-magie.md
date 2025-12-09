@@ -3,7 +3,7 @@ title: Vi chất
 description: Bổ sung vi chất trong thai kỳ.
 ---
 
-Việc bổ sung sắt, canxi, DHA và magie trong thai kỳ rất cần thiết để:
+Việc bổ sung sắt, canxi, DHA và magie trong thai kỳ cần thiết để:
 
 - Đảm bảo sự phát triển toàn diện của thai nhi.
 - Giúp mẹ bầu duy trì sức khỏe tốt, tránh thiếu hụt vi chất.
@@ -11,7 +11,7 @@ Việc bổ sung sắt, canxi, DHA và magie trong thai kỳ rất cần thiết
 
 ## DHA (Docosahexaenoic Acid)
 
-DHA là axit béo omega-3 chuỗi dài, rất cần thiết cho sự phát triển hệ thần kinh và thị giác:
+DHA là axit béo omega-3 chuỗi dài, cần thiết cho sự phát triển hệ thần kinh và thị giác:
 
 **Vai trò:**
 

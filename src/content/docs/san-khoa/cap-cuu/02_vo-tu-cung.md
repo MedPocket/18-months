@@ -23,7 +23,7 @@ Có hai tình huống vỡ tử cung:
 - Đa sản, ngôi sinh khó như ngôi trán, ngôi mặt, ngôi ngang, bất xứng đầu chậu.
 - Sinh giúp khi không đủ điều kiện hoặc sai kỹ thuật.
 - Khối u ở vị trí tiền đạo.
-- Tăng co bằng Oxytocin, nhất là khi thực hiện không đúng hoặc trên thai phụ đa sản.
+- Tăng co bằng oxytocin, nhất là khi thực hiện không đúng hoặc trên thai phụ đa sản.
 - Khởi phát chuyển dạ bằng misoprostol (không được phép dùng cho thai sống đủ tháng ở Việt Nam).
 
 ## Chẩn đoán

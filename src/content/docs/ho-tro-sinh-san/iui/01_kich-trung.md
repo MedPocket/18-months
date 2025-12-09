@@ -80,11 +80,11 @@ Ngoài hiếm muộn, còn dùng điều trị ung thư vú sau mãn kinh.
 
 _Bảng "Phân loại aromatase inhibitor (AI)"_
 
-| Thế hệ | Type I (steroid analog) | Type II (nonsteroid analog)                                |
-| ------ | ----------------------- | ---------------------------------------------------------- |
-| 1      |                         | Aminoglutethimid                                           |
-| 2      | Formestane              | Fadrozole, Roglethimide                                    |
-| 3      | Exemestane              | Anastrozole (Arimidex), Letrozole (Femara 2.5mg), Vorozole |
+| Thế hệ | Type I (steroid analog) | Type II (nonsteroid analog)                                 |
+| ------ | ----------------------- | ----------------------------------------------------------- |
+| 1      |                         | Aminoglutethimid                                            |
+| 2      | Formestane              | Fadrozole, Roglethimide                                     |
+| 3      | Exemestane              | Anastrozole (Arimidex), Letrozole (Femara 2.5 mg), Vorozole |
 
 #### Thực hiện
 

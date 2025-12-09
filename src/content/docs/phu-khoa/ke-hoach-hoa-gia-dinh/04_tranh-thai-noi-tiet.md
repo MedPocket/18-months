@@ -13,7 +13,7 @@ Các phương pháp phổ biến gồm: thuốc tránh thai hằng ngày (kết 
 
 - Ethinyl estradiol (20-35 µg/viên).
 - Progestin tùy loại: Levonorgestrel 100-150 µg, Desogestrel 150 µg, Drospirenone 3 mg, Norgestimate 250 µg.
-- Ví dụ: Marvelon (EE 30 µg + Desogestrel 150 µg), Rigevidon (EE 30 µg + Levonorgestrel 150 µg).
+- Ví dụ: Marvelon (EE 30 µg + desogestrel 150 µg), Rigevidon (EE 30 µg + levonorgestrel 150 µg).
 
 **Tính hiệu quả (Pearl Index):** Perfect 0.1-0.3; Typical 7.
 
@@ -61,7 +61,7 @@ Các phương pháp phổ biến gồm: thuốc tránh thai hằng ngày (kết 
 
 **Sau sinh:**
 
-- Nếu cho con bú < 6 tuần: Hạn chế, chỉ dùng khi không có biện pháp khác. Nguyên nhân Estrogen trong COCs có thể làm **giảm tiết sữa và giảm chất lượng sữa (ít chất béo, ít protein)**, nguy cơ **huyết khối tĩnh mạch cao hơn bình thường.**
+- Nếu cho con bú < 6 tuần: Hạn chế, chỉ dùng khi không có biện pháp khác. Nguyên nhân estrogen trong COCs có thể làm **giảm tiết sữa và giảm chất lượng sữa (ít chất béo, ít protein)**, nguy cơ **huyết khối tĩnh mạch cao hơn bình thường.**
 - Từ 6 tuần - 6 tháng và vô kinh: Có thể dùng bất cứ lúc nào.
 - Sau sinh không cho bú: Có thể dùng từ ngày 21.
 
@@ -79,7 +79,7 @@ Uống vào cùng một thời điểm mỗi ngày. Nếu quên > 12 giờ uốn
 
 - Levonorgestrel 30 µg/viên.
 - Desogestrel 75 µg/viên.
-- Ví dụ: Cerazette (Desogestrel 75 µg), Microlut (Levonorgestrel 30 µg).
+- Ví dụ: Cerazette (desogestrel 75 µg), Microlut (levonorgestrel 30 µg).
 
 **Tính hiệu quả (Pearl Index):** Perfect 0.3; Typical 9.
 
@@ -182,7 +182,7 @@ Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. K
 
 ### Đặc điểm
 
-**Thành phần:** 150 mg Medroxyprogesterone acetate/1 ml tiêm bắp.
+**Thành phần:** 150 mg medroxyprogesterone acetate/1 ml tiêm bắp.
 
 **Tính hiệu quả (Pearl Index):** Perfect 0.3; Typical 3-4.
 
@@ -252,7 +252,7 @@ Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. K
 
 **Chỉ định:** Người khó tuân thủ uống hằng ngày.
 
-**Chống chỉ định:** Như COC (huyết khối, ung thư vú, gan, hút thuốc >35 tuổi).
+**Chống chỉ định:** Như COC (huyết khối, ung thư vú, gan, hút thuốc > 35 tuổi).
 
 ### Ưu - Nhược điểm
 
@@ -290,7 +290,7 @@ Thay mỗi tuần, liên tục 3 tuần, nghỉ 1 tuần.
 
 **Chỉ định:** Người muốn biện pháp kín đáo, không cần uống hằng ngày.
 
-**Chống chỉ định:** Như COC (huyết khối, ung thư vú, gan, hút thuốc >35 tuổi).
+**Chống chỉ định:** Như COC (huyết khối, ung thư vú, gan, hút thuốc > 35 tuổi).
 
 ### Ưu - Nhược điểm
 

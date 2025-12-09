@@ -117,7 +117,7 @@ Liều dùng và thời gian có thể điều chỉnh tùy theo mức độ n�
 
 **Vệ sinh tại chỗ:**
 
-- Rửa vùng sinh dục bằng nước muối ấm pha loãng hoặc dung dịch sát khuẩn nhẹ (ví dụ Chlorhexidine 0.05%) 2 - 3 lần/ngày, nhẹ nhàng để tránh kích ứng thêm.
+- Rửa vùng sinh dục bằng nước muối ấm pha loãng hoặc dung dịch sát khuẩn nhẹ (ví dụ Chlorhexidine 0.05%) 2-3 lần/ngày, nhẹ nhàng để tránh kích ứng thêm.
 - Giữ khô thoáng, tránh mặc đồ bó sát, quần lót bằng sợi tổng hợp - ưu tiên cotton.
 - Không dùng quần lót chung hay cọ xát mạnh lên vết loét để hạn chế lây nhiễm và bội nhiễm.
 
@@ -164,7 +164,7 @@ Liều dùng và thời gian có thể điều chỉnh tùy theo mức độ n�
 - Đánh giá tình trạng nhiễm khuẩn phối hợp, HPV, tầm soát ung thư cổ tử cung theo khuyến cáo (Pap smear, HPV-DNA test).
 - Tư vấn sức khỏe sinh sản, tránh quan hệ khi đang có tổn thương.
 
-**Theo dõi chức năng thận (với thuốc ức chế dài ngày):** Định kỳ 3 - 6 tháng xét nghiệm creatinin huyết thanh, ước tính độ lọc cầu thận (eGFR) để điều chỉnh liều Acyclovir/Valacyclovir nếu cần.
+**Theo dõi chức năng thận (với thuốc ức chế dài ngày):** Định kỳ 3-6 tháng xét nghiệm creatinin huyết thanh, ước tính độ lọc cầu thận (eGFR) để điều chỉnh liều Acyclovir/Valacyclovir nếu cần.
 
 ## Tài liệu tham khảo
 

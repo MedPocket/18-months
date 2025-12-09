@@ -77,8 +77,8 @@ Tiền sản giật **có dấu hiệu nặng** (chỉ cần một trong các d�
 - Nghi ngờ rau bong non.
 - Thai ≥ 34 tuần + 1 trong các yếu tố: Chuyển dạ/vỡ ối; Trọng lượng thai < bách phân vị 5; Thiểu ối (AFI < 5 cm, 2 lần cách nhau 24 giờ).
 
-_Hình ảnh "Lưu đồ xử trí tiền sản giật không dấu hiệu nặng - Bệnh viện Từ Dũ"_.
 ![Lưu đồ xử trí tiền sản giật không dấu hiệu nặng - Bệnh viện Từ Dũ](./_images/luu-do-xu-tri-tien-san-giat-khong-co-dau-hieu-nang.png)
+_Hình ảnh "Lưu đồ xử trí tiền sản giật không dấu hiệu nặng - Bệnh viện Từ Dũ"_.
 
 ### Có dấu hiệu nặng
 
@@ -95,8 +95,8 @@ Có thể trì hoãn nếu thai < 34 tuần và mẹ - thai ổn định để s
 
 Theo dõi huyết áp đến 72 giờ sau sinh và tiếp tục theo dõi tại địa phương 7-10 ngày sau sinh.
 
-_Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng - Bệnh viện Từ Dũ"_.
 ![Lưu đồ xử trí tiền sản giật có dấu hiệu nặng - Bệnh viện Từ Dũ](./_images/luu-do-xu-tri-tien-san-giat-co-dau-hieu-nang.png)
+_Hình ảnh "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng - Bệnh viện Từ Dũ"_.
 
 ### Không chờ đợi điều trị
 

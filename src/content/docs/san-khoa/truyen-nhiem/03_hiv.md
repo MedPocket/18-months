@@ -3,7 +3,7 @@ title: HIV và thai kỳ
 description: Quản lý HIV trong thai kỳ.
 ---
 
-**HIV (Human Immunodeficiency Virus)** là bệnh lây truyền chủ yếu qua đường tình dục, có thể truyền từ mẹ sang con trong quá trình mang thai, sinh nở hoặc cho con bú. Việc sàng lọc và điều trị ARV sớm trong thai kỳ rất quan trọng để giảm thiểu nguy cơ lây truyền virus cho thai nhi và duy trì sức khỏe của người mẹ.
+**HIV (Human Immunodeficiency Virus)** là bệnh lây truyền chủ yếu qua đường tình dục, có thể truyền từ mẹ sang con trong quá trình mang thai, sinh nở hoặc cho con bú. Việc sàng lọc và điều trị ARV sớm trong thai kỳ quan trọng để giảm thiểu nguy cơ lây truyền virus cho thai nhi và duy trì sức khỏe của người mẹ.
 
 ## Chẩn đoán
 
@@ -20,11 +20,11 @@ description: Quản lý HIV trong thai kỳ.
 
 _Bảng "Phân loại HIV lâm sàng"_.
 
-| Phân loại HIV lâm sàng theo CDC | Triệu chứng chính                                                                                                     | CD4 >500 | CD4 200-499 | CD4 <200 |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------- | ----------- | -------- |
-| **A**                           | Không triệu chứng hoặc chỉ hạch to toàn thân kéo dài                                                                  | A1       | A2          | A3       |
-| **B**                           | Biểu hiện liên quan HIV nhưng không AIDS định nghĩa (zona tái phát, viêm âm đạo dai dẳng, tăng sản bạch cầu miệng...) | B1       | B2          | B3       |
-| **C**                           | Bệnh xác định AIDS (Pneumocystis jirovecii, lao, toxoplasma não, Kaposi...)                                           | C1       | C2          | C3       |
+| Phân loại HIV lâm sàng theo CDC | Triệu chứng chính                                                                                                     | CD4 > 500 | CD4 200-499 | CD4 < 200 |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --------- |
+| **A**                           | Không triệu chứng hoặc chỉ hạch to toàn thân kéo dài                                                                  | A1        | A2          | A3        |
+| **B**                           | Biểu hiện liên quan HIV nhưng không AIDS định nghĩa (zona tái phát, viêm âm đạo dai dẳng, tăng sản bạch cầu miệng...) | B1        | B2          | B3        |
+| **C**                           | Bệnh xác định AIDS (Pneumocystis jirovecii, lao, toxoplasma não, Kaposi...)                                           | C1        | C2          | C3        |
 
 ## Điều trị
 
@@ -32,8 +32,8 @@ _Bảng "Phân loại HIV lâm sàng"_.
 
 ### Mục tiêu
 
-- **CD4 ≥500 cells/mm³** nếu có thể, để giảm nguy cơ nhiễm trùng cơ hội.
-- **Tải lượng HIV RNA <ngưỡng phát hiện** (<20-50 copies/mL) trước khi sinh.
+- **CD4 ≥ 500 cells/mm³** nếu có thể, để giảm nguy cơ nhiễm trùng cơ hội.
+- **Tải lượng HIV RNA < ngưỡng phát hiện** (< 20-50 copies/mL) trước khi sinh.
 
 ### Thuốc kháng virus (ARV)
 
@@ -45,7 +45,7 @@ _Bảng "Phân loại HIV lâm sàng"_.
 **Nhóm ức chế men sao chép ngược không nucleoside (NNRTIs)/ức chế integrase (INSTIs)**
 
 - **Efavirenz (EFV) 600 mg x 1 lần/ngày:** Cơ chế gắn không cạnh tranh vào men sao chép ngược, ức chế hoạt động. Lưu ý: Không dùng trong quý I do nguy cơ quái thai thần kinh. Tác dụng phụ mất ngủ, chóng mặt, thay đổi tâm thần. Theo dõi các triệu chứng thần kinh - tâm thần.
-- **Dolutegravir (DTG) 50 mg x 1 lần/ngày:** Cơ chế ức chế integrase, ngăn chặn việc chèn DNA virus vào DNA chủ. Ưu điểm giảm tải lượng rất nhanh, ít tương tác thuốc. Cẩn trọng trong quý I do nguy cơ hiếm gặp dị tật thần kinh. Theo dõi phản ứng dị ứng, chức năng gan.
+- **Dolutegravir (DTG) 50 mg x 1 lần/ngày:** Cơ chế ức chế integrase, ngăn chặn việc chèn DNA virus vào DNA chủ. Ưu điểm giảm tải lượng nhanh, ít tương tác thuốc. Cẩn trọng trong quý I do nguy cơ hiếm gặp dị tật thần kinh. Theo dõi phản ứng dị ứng, chức năng gan.
 
 **Nhóm ức chế protease (PIs):**
 
@@ -59,7 +59,7 @@ _Bảng "Phân loại HIV lâm sàng"_.
 
 - **Phác đồ chuẩn:** TDF + 3TC + EFV (bắt đầu sau quý I).
 - **Phác đồ thay thế:** TDF + 3TC + DTG (từ quý II, ưu tiên khi không dùng EFV).
-- **Khi tải lượng cao (>1000 copies/mL) hoặc thất bại phác đồ:** Thêm hoặc chuyển sang LPV/r.
+- **Khi tải lượng cao (> 1000 copies/mL) hoặc thất bại phác đồ:** Thêm hoặc chuyển sang LPV/r.
 
 #### Với con
 
@@ -67,7 +67,7 @@ _Bảng "Phân loại HIV lâm sàng"_.
 
 ### Phẫu thuật
 
-- **Chỉ định** khi tải lượng HIV mẹ >1000 copies/mL vào thời điểm chuyển dạ để giảm tối đa phơi nhiễm virus.
+- **Chỉ định** khi tải lượng HIV mẹ > 1000 copies/mL vào thời điểm chuyển dạ để giảm tối đa phơi nhiễm virus.
 
 ### Cho con bú
 
@@ -101,7 +101,7 @@ _Bảng "Xét nghiệm HIV"_.
 
 ### Điều trị
 
-- Nếu mới tiếp xúc <72 giờ → **đi khám ngay để cân nhắc dùng PEP (thuốc phơi nhiễm)** nhằm giảm nguy cơ nhiễm.
+- Nếu mới tiếp xúc < 72 giờ → **đi khám ngay để cân nhắc dùng PEP (thuốc phơi nhiễm)** nhằm giảm nguy cơ nhiễm.
 - Tránh quan hệ tình dục, hiến máu trong thời gian chờ xét nghiệm.
 
 ## Tài liệu tham khảo
