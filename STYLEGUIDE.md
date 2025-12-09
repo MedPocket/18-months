@@ -168,7 +168,7 @@ Sử dụng bảng để so sánh hoặc trình bày dữ liệu cấu trúc.
 _Bảng 1: Phân loại mức độ thiếu máu._
 
 | Mức độ     | Hemoglobin (g/dL) | Biểu hiện lâm sàng         |
-| :--------- | :---------------- | :------------------------- |
+| ---------- | ----------------- | -------------------------- |
 | Nhẹ        | 10 - 11           | Mệt mỏi nhẹ, da hơi xanh.  |
 | Trung bình | 7 - 10            | Chóng mặt, nhịp tim nhanh. |
 | Nặng       | < 7               | Khó thở, suy tim.          |
