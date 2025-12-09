@@ -68,9 +68,9 @@ Sử dụng `1.`, `2.` khi trình bày quy trình, các bước thực hiện th
 
 ### Kí hiệu toán học và Đơn vị đo lường
 
-- **Phép so sánh:** Viết liền các dấu so sánh với số. Sử dụng kí hiệu toán học chuẩn `≥`, `≤` thay vì `>=` hay `<=`.
-  - _Đúng:_ `>5 cm`, `<100 mg`, `≥20 tuần`.
-  - _Sai:_ `> 5 cm`, `< 100 mg`, `>= 20 tuần`.
+- **Phép so sánh:** Không viết liền các dấu so sánh với số. Sử dụng kí hiệu toán học chuẩn `≥`, `≤` thay vì `>=` hay `<=`.
+  - _Đúng:_ `> 5 cm`, `< 100 mg`, `≥ 20 tuần`.
+  - _Sai:_ `>5 cm`, `<100 mg`, `≥20 tuần`.
 - **Đơn vị đo lường:** Luôn có **một khoảng trắng** giữa số và đơn vị.
   - _Đúng:_ 10 mg, 50 ml, 37 °C.
   - _Sai:_ 10mg, 50ml, 37°C.
