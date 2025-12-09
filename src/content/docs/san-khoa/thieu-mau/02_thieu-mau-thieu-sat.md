@@ -3,7 +3,7 @@ title: Thiếu máu thiếu sắt trong thai kỳ
 description: Thiếu máu thiếu sắt trong thai kỳ.
 ---
 
-Thiếu máu thiếu sắt trong thai kỳ là tình trạng rất phổ biến, chiếm khoảng 40-50% các ca thiếu máu ở phụ nữ mang thai, và là nguyên nhân hàng đầu gây mệt mỏi, sinh non, nhẹ cân và băng huyết sau sinh nếu không được chẩn đoán và điều trị kịp thời.
+Thiếu máu thiếu sắt trong thai kỳ là tình trạng phổ biến, chiếm khoảng 40-50% các ca thiếu máu ở phụ nữ mang thai, và là nguyên nhân hàng đầu gây mệt mỏi, sinh non, nhẹ cân và băng huyết sau sinh nếu không được chẩn đoán và điều trị kịp thời.
 
 ## Hậu quả
 

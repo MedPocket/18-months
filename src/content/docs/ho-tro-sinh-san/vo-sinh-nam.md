@@ -207,7 +207,7 @@ _Hình ảnh "Lưu đồ xử trí tinh trùng yếu, ít, dị dạng"._
 
 ![Lưu đồ xử trí tinh trùng yếu, ít, dị dạng](./_images/vo-sinh-nam/hung-vuong-luu-do-xu-tri-thieu-tinh.png)
 
-**Tinh dịch đồ** thực hiện ít nhất 2 lần, cách nhau 3 - 4 tuần: Phân loại mức độ nhẹ, trung bình, nặng để có hướng xử trí thích hợp.
+**Tinh dịch đồ** thực hiện ít nhất 2 lần, cách nhau 3-4 tuần: Phân loại mức độ nhẹ, trung bình, nặng để có hướng xử trí thích hợp.
 
 - Nếu mức độ nặng xử trí trữ đông tinh trùng và tư vấn thụ tinh ống nghiệm.
 - Thực hiện thăm khám tầm soát nguyên nhân cho cả 3 trường hợp.
@@ -215,7 +215,7 @@ _Hình ảnh "Lưu đồ xử trí tinh trùng yếu, ít, dị dạng"._
 **Định lượng nội tiết sinh sản:**
 
 - Nếu **FSH > 12 IU/L và/hoặc LH > 12 IU/L** → Hypergonadotropin → Trữ đông tinh trùng và tư vấn thụ tinh ống nghiệm.
-- Nếu **FSH < 12 IU/L và LH < 12 IU/L:** Điều trị nội khoa; Giãn tĩnh mạch thừng tinh đủ chỉ định phẫu thuật → phẫu thuật; Tinh dịch đồ kiểm tra mỗi tháng trong 6 - 12 tháng.
+- Nếu **FSH < 12 IU/L và LH < 12 IU/L:** Điều trị nội khoa; Giãn tĩnh mạch thừng tinh đủ chỉ định phẫu thuật → phẫu thuật; Tinh dịch đồ kiểm tra mỗi tháng trong 6-12 tháng.
 
 Chỉ định **bơm tinh trùng vào buồng tử cung (IUI)** hoặc **thụ tinh ống nghiệm (IVF)** tùy thuộc mức độ cải thiện tinh trùng sau điều trị.
 
@@ -225,7 +225,7 @@ _Hình ảnh "Lưu đồ xử trí vô tinh"._
 
 ![Lưu đồ xử trí vô tinh](./_images/vo-sinh-nam/hung-vuong-luu-do-xu-tri-vo-tinh.png)
 
-**Tinh dịch đồ** thực hiện ít nhất 2 lần, cách nhau 3 - 4 tuần: xác định vô tinh.
+**Tinh dịch đồ** thực hiện ít nhất 2 lần, cách nhau 3-4 tuần: xác định vô tinh.
 
 **Phân loại vô tinh do tắc và vô tinh không do tắc:**
 

@@ -7,7 +7,7 @@ Nguyên nhân chính của xuất huyết tử cung bất thường trong 3 thá
 
 1. **Sảy thai:** Chiếm khoảng 15-20% trường hợp chảy máu 3 tháng đầu, bao gồm dọa sảy, sảy khó tránh, không trọn, trọn và lưu.
 2. **Thai ngoài tử cung:** Chiếm khoảng 2% các trường hợp, thường ở vòi tử cung; Vỡ có thể gây chảy máu ổ bụng nguy hiểm.
-3. **Bệnh nguyên bào nuôi:** Gồm trứng trống (hydatidiform mole) và choriocarcinoma, thường có nồng độ β-hCG rất cao.
+3. **Bệnh nguyên bào nuôi:** Gồm trứng trống (hydatidiform mole) và choriocarcinoma, thường có nồng độ β-hCG cao.
 4. **Thai làm tổ của phôi:** Thường xuất hiện 6-12 ngày sau thụ tinh, lượng máu ít, màu hồng nhạt.
 5. **Các nguyên nhân không do thai kỳ:** Polyp tử cung, u xơ, viêm cổ tử cung, nhiễm trùng âm đạo.
 

@@ -72,7 +72,7 @@ Kết hợp triệu chứng lâm sàng và xét nghiệm nội tiết để xác
 
 Các xét nghiệm chẩn đoán:
 
-- **FSH cao > 20-30 mIU/mL**, **estradiol thấp < 20 pg/mL** (lặp lại xét nghiệm cách nhau 1-4 tuần). Bình thường FSH đầu chu kỳ kinh (ngày 2-4) 1.4 - 9.6 IU/L hoặc 3.5 - 12.5 mIU/mL, giai đoạn rụng trứng 4.7 - 21.5 mIU/mL, giai đoạn hoàng thể 1.7 - 7.7 mIU/mL, sau mãn kinh 25.8 - 134.8 mIU/mL; estrogen 70 - 220 pmol/L đầu chu kỳ kinh.
+- **FSH cao > 20-30 mIU/mL**, **estradiol thấp < 20 pg/mL** (lặp lại xét nghiệm cách nhau 1-4 tuần). Bình thường FSH đầu chu kỳ kinh (ngày 2-4) 1.4-9.6 IU/L hoặc 3.5-12.5 mIU/mL, giai đoạn rụng trứng 4.7-21.5 mIU/mL, giai đoạn hoàng thể 1.7-7.7 mIU/mL, sau mãn kinh 25.8-134.8 mIU/mL; estrogen 70-220 pmol/L đầu chu kỳ kinh.
 - **AMH < 1.5 ng/mL** giảm dự trữ buồng trứng.
 - Siêu âm AFC giảm, buồng trứng nhỏ.
 

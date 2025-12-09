@@ -7,7 +7,7 @@ description: Quản lý thủy đậu trong thai kỳ.
 
 ## Dịch tễ
 
-**Bệnh xảy ra quanh năm, tăng cao vào mùa xuân - đầu hè (tháng 2-6).** Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; Dễ thành dịch nhỏ nếu không cách ly kịp thời.
+Bệnh xảy ra quanh năm, tăng cao vào **mùa xuân - đầu hè (tháng 2-6)**. Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; Dễ thành dịch nhỏ nếu không cách ly kịp thời.
 
 Nguồn lây duy nhất là người mắc thủy đậu và người bị zona. **Đường truyền:**
 
@@ -80,7 +80,7 @@ Nhiễm thủy đậu có thể gây **hội chứng thủy đậu bẩm sinh** 
 
 ### Thuốc kháng virus
 
-- **Acyclovir uống 800 mg mỗi 4 giờ x 5 lần/ngày, 7-10 ngày.**
+- **Acyclovir** uống 800 mg mỗi 4 giờ x 5 lần/ngày, 7-10 ngày.
 - **Trường hợp nặng hoặc viêm phổi**, tiêm TM Acyclovir 10 mg/kg mỗi 8 giờ, 7-10 ngày.
 - Điều chỉnh liều ở bệnh nhân suy thận hoặc có yếu tố nguy cơ.
 
