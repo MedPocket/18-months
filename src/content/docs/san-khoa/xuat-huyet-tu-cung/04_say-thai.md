@@ -69,7 +69,7 @@ Các khuyến cáo ACOG, RCOG, WHO, FIGO: Chỉ nên nghỉ ngơi **tương đ�
 
 - Thời điểm dùng càng sớm càng tốt ngay khi xác định loại trừ chửa ngoài tử cung hay thậm chí giai đoạn hoàng thể đối với các trường hợp sẩy thai liên tiếp.
 - Thời gian dùng đến 16 tuần vô kinh.
-- Liều dùng: Dydrogesterone: 10-30 mg/ngày; Microprogesterone: 400- 800 mg/ngày; Progesterone TB: 25-50 mg/ngày.
+- Liều dùng: Dydrogesterone uống 10-30 mg/ngày; Microprogesterone uống 400- 800 mg/ngày; Progesterone tiêm bắp 25-50 mg/ngày.
 
 ### Sảy thai hoặc thai lưu
 
@@ -78,11 +78,11 @@ Các khuyến cáo ACOG, RCOG, WHO, FIGO: Chỉ nên nghỉ ngơi **tương đ�
 **Đánh giá tình trạng mất máu:**
 
 - Ra huyết ít, trung bình, nhiều, băng huyết
-- Mức độ thấm băng vệ sinh, loại băng vệ sinh (0.5 ml -12 ml)
-- Cân trọng lượng được thấm máu (1 g = 1 ml).
-- Mạch > 100l/p Mất > 750 ml.
-- Huyết áp < 90 mmHg, mất > 1000 ml.
-- Choáng, mất ≥ 1500 ml.
+- Mức độ thấm băng vệ sinh, loại băng vệ sinh (0.5 mL -12 mL)
+- Cân trọng lượng được thấm máu (1 g = 1 mL).
+- Mạch > 100 lần/phút Mất > 750 mL.
+- Huyết áp < 90 mmHg, mất > 1000 mL.
+- Choáng, mất ≥ 1500 mL.
 - Shock index (SI - Mạch/Huyết áp tâm thu), bình thường 0.5-0.7; ≥ 0.9 nguy cơ cao.
 
 #### Chờ sảy tự nhiên
@@ -119,7 +119,7 @@ Các khuyến cáo ACOG, RCOG, WHO, FIGO: Chỉ nên nghỉ ngơi **tương đ�
 **Thai lưu:**
 
 - Misoprostol 800 µg đặt âm đạo/dưới lưỡi/áp má, lặp lại nếu cần.
-- Phối hợp: Mifepristone 200 mg uống → 24h sau dùng Misoprostol
+- Phối hợp: Mifepristone 200 mg uống → 24 giờ sau dùng Misoprostol
 
 **Sẩy thai không hoàn toàn:**
 
@@ -157,7 +157,7 @@ Không khuyến cáo kháng sinh dự phòng:
 
 - **Hút chân không bằng tay (MVA)** được khuyến cáo là phương pháp hút tử cung an toàn, hiệu quả, thay thế nạo (D&C), dùng trong phá thai, sẩy thai và sinh thiết nội mạc tử cung.
 - **Nong và gắp thai (D&E)** áp dụng cho thai từ 13 tuần vô khuẩn.
-- **Không khuyến cáo nạo buồng tử cung (D&C)** chi thai sảy <12 tuần.
+- **Không khuyến cáo nạo buồng tử cung (D&C)** chi thai sảy < 12 tuần.
 
 **Lựa chọn ống hút theo tuổi thai:**
 
