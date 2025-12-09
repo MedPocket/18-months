@@ -11,7 +11,7 @@ Mục đích của việc khảo sát vô sinh ở nam giới là nhằm xác đ
 
 ## Chẩn đoán
 
-_Bảng "Phân loại tổn thương chức năng tinh hoàn theo vùng tổn thương"._
+_Bảng "Phân loại tổn thương chức năng tinh hoàn theo vùng tổn thương"_.
 
 | Vùng tổn thương                                   | Loại tổn thương                                             | Nguyên nhân                                                                                                |
 | ------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
@@ -203,7 +203,7 @@ Tùy theo kết quả thăm khám sẽ có những hình thức điều trị c�
 
 ### Thiểu tinh
 
-_Hình ảnh "Lưu đồ xử trí tinh trùng yếu, ít, dị dạng"._
+_Hình ảnh "Lưu đồ xử trí tinh trùng yếu, ít, dị dạng"_.
 
 ![Lưu đồ xử trí tinh trùng yếu, ít, dị dạng](./_images/vo-sinh-nam/hung-vuong-luu-do-xu-tri-thieu-tinh.png)
 
@@ -221,7 +221,7 @@ Chỉ định **bơm tinh trùng vào buồng tử cung (IUI)** hoặc **thụ t
 
 ### Vô tinh
 
-_Hình ảnh "Lưu đồ xử trí vô tinh"._
+_Hình ảnh "Lưu đồ xử trí vô tinh"_.
 
 ![Lưu đồ xử trí vô tinh](./_images/vo-sinh-nam/hung-vuong-luu-do-xu-tri-vo-tinh.png)
 

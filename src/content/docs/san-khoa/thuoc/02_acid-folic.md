@@ -22,7 +22,7 @@ Vai trò của **MTHFR**:
 - MTHFR tham gia vào con đường chuyển hóa homocysteine thành methionine, một axit amin quan trọng để tạo ra các protein và hợp chất khác như S-adenosylmethionine (SAMe), cần thiết cho quá trình methyl hóa trong tế bào.
 
 ![Chu trình folate và chu trình methionine](./_images/acid-folic/chu-trinh-folate-va-chu-trinh-methionine.png)
-_Hình ảnh: "Chu trình folate và chu trình methionine"._
+_Hình ảnh: "Chu trình folate và chu trình methionine"_.
 
 ## Hậu quả của thiếu acid folic
 

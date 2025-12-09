@@ -38,7 +38,7 @@ description: Thalassemia trong thai kỳ.
 ### Với thai
 
 ![Thai phù trong hội chứng Bart](./_images/thai-phu-trong-hoi-chung-Bart.png)
-_Hình: Thai phù trong hội chứng Hb Bart’s._
+_Hình: Thai phù trong hội chứng Hb Bart’s_.
 
 - Thể nặng có thể không sống sót sau sinh.
 - Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.<br>
