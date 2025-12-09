@@ -119,7 +119,7 @@ _Bảng "Các phương pháp nội khoa điều trị u xơ"_.
 | **Progestin (LNG-IUS, implant)**   | Tạo teo nội mạc, giảm máu | LNG-IUS không giảm thể tích u                                         |
 | **GnRHa**                          | Giảm > 50% thể tích u     | Chuẩn bị trước mổ 1-3 tháng; Hạn chế < 6 tháng, có flare-up           |
 | **GnRHa add-back (E/P)**           | Hạn chế tác dụng phụ      | Chưa chứng minh giảm khối u thêm                                      |
-| **GnRH antagonist**          | Giảm estrogen nhanh       | Tránh flare-up; Hiệu quả tương đương GnRHa                            |
+| **GnRH antagonist**                | Giảm estrogen nhanh       | Tránh flare-up; Hiệu quả tương đương GnRHa                            |
 | **Aromatase inhibitors**           | ức chế tổng hợp estrogen  | Letrozole 12 tuần; Ít tác dụng phụ hơn GnRHa                          |
 | **SPRMs (Ulipristal acetate)**     | Giảm chảy máu, thu nhỏ u  | 5 mg/ngày, 3 tháng; Gián đoạn 2 tháng ≤ 8 đợt; Theo dõi chức năng gan |
 | **Mifepristone**                   | Giảm thể tích u           | 2.5 mg/ngày, 3-6 tháng; Không có đăng ký chính thức                   |
