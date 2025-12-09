@@ -1,6 +1,6 @@
 ---
 title: Bệnh nguyên bào nuôi
-description: Bệnh nguyên bào nuôi thai kỳ: Đặc điểm, phân loại và chẩn đoán.
+description: Đặc điểm, phân loại và chẩn đoán bệnh nguyên bào nuôi.
 ---
 
 **Bệnh nguyên bào nuôi thai kỳ (GTD)** là nhóm bệnh có sự tăng sinh bất thường của các nguyên bào nuôi liên quan đến thai nghén. Mặc dù đa số là lành tính (thai trứng), nhưng có thể tiến triển thành u nguyên bào nuôi ác tính với khả năng xâm lấn tại chỗ và di căn xa (phổi, não, gan...).

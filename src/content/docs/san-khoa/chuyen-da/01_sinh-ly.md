@@ -1,6 +1,6 @@
 ---
 title: Sinh lý chuyển dạ
-description: Sinh lý chuyển dạ: Các giai đoạn và cơ chế.
+description: Các giai đoạn và cơ chế sinh lý chuyển dạ.
 ---
 
 **Chuyển dạ** là quá trình có sự xuất hiện các cơn co tử cung hiệu quả, gây nên hiện tượng xóa và mở cổ tử cung, nhằm tống xuất thai nhi và phần phụ ra ngoài qua ngả âm đạo.
