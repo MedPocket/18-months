@@ -68,25 +68,25 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
 Áp dụng khi **thai < 34 tuần**, **không có dấu hiệu nhiễm trùng**, **không có đe dọa mẹ và thai.**
 
-**Kháng sinh dự phòng** để giảm nguy cơ nhiễm trùng và trì hoãn sinh. Mục tiêu là phòng ngừa nhiễm Streptococcus nhóm B. **Không dùng Amoxicillin + Acid Clavulanic** vì có nguy cơ gây **viêm ruột hoại tử** ở sơ sinh.
+**Kháng sinh dự phòng** để giảm nguy cơ nhiễm trùng và trì hoãn sinh. Mục tiêu là phòng ngừa nhiễm _Streptococcus_ nhóm B. **Không dùng amoxicillin + acid clavulanic** vì có nguy cơ gây **viêm ruột hoại tử** ở sơ sinh.
 
 **Phác đồ khuyến cáo 1:**
 
 - Azithromycin 1 g (uống) khi nhập viện.
 - Ampicillin 2 g (tĩnh mạch chậm) mỗi 6 giờ x 48 giờ.
-- Sau đó Amoxicillin 500 mg (uống) mỗi 8 giờ x 5 ngày.
+- Sau đó amoxicillin 500 mg (uống) mỗi 8 giờ x 5 ngày.
 
 **Phác đồ khuyến cáo 2:**
 
 - Ampicillin 1 g (uống) khi nhập viện.
 - Cefazolin 1 g (tĩnh mạch chậm) mỗi 8 giờ x 48 giờ.
-- Sau đó Cephalexin 500 mg (uống) mỗi 6 giờ x 5 ngày.
+- Sau đó cephalexin 500 mg (uống) mỗi 6 giờ x 5 ngày.
 
 **Phác đồ dị ứng nặng với Penicillin:**
 
 - Azithromycin 1 g (uống) khi nhập viện.
-- Clindamycin 900 mg (truyền TM) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền TM) mỗi 24 giờ x 48 giờ.
-- Sau đó Clindamycin 300 mg (uống) mỗi 8 giờ x 5 ngày.
+- Clindamycin 900 mg (truyền TM) mỗi 8 giờ + gentamicin 5 mg/kg (truyền TM) mỗi 24 giờ x 48 giờ.
+- Sau đó clindamycin 300 mg (uống) mỗi 8 giờ x 5 ngày.
 
 **Phác đồ GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ:**
 
@@ -138,7 +138,7 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 **Phương pháp chấm dứt thai kỳ:**
 
 - Ưu tiên sinh thường, mổ lấy thai khi có chỉ định.
-- Nếu chưa có chuyển dạ sau 12 giờ, khởi phát tùy Bishop: Bishop ≥ 6 khởi phát bằng Oxytocin. Bishop < 6 làm chín muồi cổ tử cung bằng Prostaglandin E2 trước Oxytocin.
+- Nếu chưa có chuyển dạ sau 12 giờ, khởi phát tùy Bishop: Bishop ≥ 6 khởi phát bằng oxytocin. Bishop < 6 làm chín muồi cổ tử cung bằng prostaglandin E2 trước oxytocin.
 
 ## Nhiễm trùng ối
 

@@ -74,7 +74,7 @@ Khi ối vỡ kéo dài:
 - Áp lực thay đổi trong buồng tử cung có thể đẩy vi khuẩn ngược dòng vào buồng ối.
 - Khám âm đạo nhiều lần làm tăng nguy cơ nhiễm khuẩn.
 
-Nhiễm trùng ối dẫn đến nhiễm trùng thai, sơ sinh, rồi đến nhiễm trùng mẹ (nội mạc tử cung, du khuẩn huyết, nhiễm trùng huyết...). Trong đó Streptococcus nhóm B đặc biệt nguy hiểm.
+Nhiễm trùng ối dẫn đến nhiễm trùng thai, sơ sinh, rồi đến nhiễm trùng mẹ (nội mạc tử cung, du khuẩn huyết, nhiễm trùng huyết...). Trong đó _Streptococcus_ nhóm B đặc biệt nguy hiểm.
 
 Dịch ối hôi, có phân su là dấu hiệu nghi ngờ. Khi có biểu hiện toàn thân ở mẹ (sốt, bạch cầu tăng, CRP tăng), cần xử trí khẩn cấp.
 

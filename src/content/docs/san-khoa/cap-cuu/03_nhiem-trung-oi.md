@@ -100,7 +100,7 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 
 **Phác đồ 1 (ưu tiên):**
 
-- Ampicillin 2 g tiêm TM mỗi 6 giờ + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ. Nếu mổ lấy thai, thêm Clindamycin 900 mg mỗi 8 giờ hoặc Metronidazole 500 mg truyền TM mỗi 8 giờ.
+- Ampicillin 2 g tiêm TM mỗi 6 giờ + gentamicin 5 mg/kg truyền TM mỗi 24 giờ. Nếu mổ lấy thai, thêm clindamycin 900 mg mỗi 8 giờ hoặc metronidazole 500 mg truyền TM mỗi 8 giờ.
 - Hoặc Ampicillin-sulbactam 3 g tiêm TM mỗi 6h.
 - Hoặc Cefoxitin 2 g tiêm TM mỗi 8 giờ.
 - Hoặc Cefotetan 2 g tiêm TM mỗi 12h.
@@ -108,18 +108,18 @@ Khi nghi ngờ hoặc xác định nhiễm trùng ối, cần hội chẩn bác 
 
 **Phác đồ 2: Dị ứng nhẹ với Penicillin:**
 
-- Cefazolin 2 g tiêm TM mỗi 8 giờ + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
-- Nếu mổ lấy thai, thêm Clindamycin hoặc Metronidazole như trên.
+- Cefazolin 2 g tiêm TM mỗi 8 giờ + gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
+- Nếu mổ lấy thai, thêm clindamycin hoặc metronidazole như trên.
 
 **Phác đồ 3: Dị ứng nặng với Penicillin:**
 
 - Clindamycin 900 mg truyền TM mỗi 8 giờ.
-- Hoặc Vancomycin 1 g truyền TM mỗi 12h + Gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
+- Hoặc Vancomycin 1 g truyền TM mỗi 12h + gentamicin 5 mg/kg truyền TM mỗi 24 giờ.
 
 :::caution
 Vancomycin chỉ dùng khi:
 
-- GBS đề kháng Clindamycin hoặc Erythromycin.
+- GBS đề kháng clindamycin hoặc erythromycin.
 - GBS nhưng chưa có kết quả kháng sinh đồ.
 
 :::
