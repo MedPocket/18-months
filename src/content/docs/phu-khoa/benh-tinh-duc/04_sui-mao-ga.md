@@ -107,7 +107,7 @@ _Hình ảnh “Sùi mào gà vùng sinh dục”_.
 - **Chỉ định điều trị khi tổn thương lớn, gây chảy máu, vướng víu hoặc nguy cơ tắc đường sinh dục.**
 - **Trì hoãn điều trị nếu tổn thương nhỏ, không triệu chứng**, vì nhiều trường hợp có thể thoái lui sau sinh.
 
-_Bảng "Điều trị sù mào gà"_.
+_Bảng "Điều trị sùi mào gà"_.
 
 | Phương pháp điều trị                  | Ghi chú                                                                                                                          |
 | ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
@@ -119,7 +119,7 @@ _Bảng "Điều trị sù mào gà"_.
 **Xử trí khi chuyển dạ:**
 
 - **Không phải tất cả các trường hợp sùi mào gà đều cần mổ lấy thai.**
-- **Chỉ định mổ lấy thai** khi: Tổn thương lớn, gây tắc âm đạo; Lo sợ chảy máu sùi trong khi sinh; Lo ngại nguy cơ lây HPV cho trẻ (hiếm, nhưng có thể cân nhắc với tổn thương lan rộng, nhiều).
+- **Chỉ định mổ lấy thai** khi: Tổn thương lớn, gây tắc âm đạo; Nguy cơ chảy máu sùi trong khi sinh; Lo ngại nguy cơ lây HPV cho trẻ (hiếm, nhưng có thể cân nhắc với tổn thương lan rộng, nhiều).
 
 **Sau sinh:**
 

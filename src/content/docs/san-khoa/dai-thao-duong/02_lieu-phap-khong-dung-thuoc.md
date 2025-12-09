@@ -64,7 +64,7 @@ _Bảng "Phân bố glucid, protein và lipid"_.
 
 - Chất xơ ≥ 28 g/ngày (rau củ quả ≥ 400 g/ngày).
 - Canxi, sắt, acid folic, vitamin D... theo khuyến nghị.
-- Sữa/chế phẩm ít béo: 3-6 đơn vị IU/ngày tuỳ tam cá nguyệt.
+- Sữa/chế phẩm ít béo: 3-6 đơn vị/ngày tuỳ tam cá nguyệt.
 
 **Phân bố bữa ăn mẫu:**
 

@@ -59,7 +59,7 @@ Mục tiêu thu 1 noãn bào duy nhất sử dụng gonadotropin hoặc GnRH đ�
 Có thể gồm:
 
 - Sử dụng hCG để gây phóng noãn có thể có hoặc không có hỗ trợ hoàng thể.
-- GnRH antagonist ngăn sự diễn tiến của đỉnh LH có hoặc không bổ sung FSH hoặc HMG nhưng cần dùng kích rụng trứng và hỗ trợ hoàn thể.
+- GnRH antagonist ngăn sự diễn tiến của đỉnh LH có hoặc không bổ sung FSH hoặc HMG nhưng cần dùng kích rụng trứng và hỗ trợ hoàng thể.
 
 ### IVF kích trứng nhẹ (Mild IVF)
 

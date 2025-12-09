@@ -28,7 +28,7 @@ Thai trứng là **kết quả của thụ tinh bất thường.**
 
 ## Mô học
 
-**Đại thể** tử cung to hơn tuổi thai, mô rau biến thành túi nang nước nhỏ như chùm nho. **Vi thể** gai rau phồng to chứa dịch, hóa nang, phủ bởi lớp nguyên bào nuôi tăng sinh:
+**Đại thể:** tử cung to hơn tuổi thai, mô rau biến thành túi nang nước nhỏ như chùm nho. **Vi thể:** gai rau phồng to chứa dịch, hóa nang, phủ bởi lớp nguyên bào nuôi tăng sinh:
 
 - Toàn phần: Không có mô phôi, gai rau đồng đều phồng nang.
 - Bán phần: Có mô phôi/phôi thai, gai rau chỉ thoái hóa một phần, có cấu trúc nhung mao hỗn hợp.

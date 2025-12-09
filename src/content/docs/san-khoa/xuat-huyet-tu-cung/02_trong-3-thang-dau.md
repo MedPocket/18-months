@@ -28,7 +28,7 @@ Nguyên nhân chính của xuất huyết tử cung bất thường trong 3 thá
 
 - Triệu chứng **nghén gợi ý có thai.**
 - **Nghén nặng** có thể liên quan đa thai hoặc thai trứng
-- **Nghén mất đột** ngột gợi ý thai lưu.
+- **Mất nghén đột ngột** gợi ý thai lưu.
 
 #### Thực thể
 

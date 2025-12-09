@@ -50,7 +50,7 @@ _Bảng "Phân loại rau cài răng lược" - FIGO_.
 ### Chuẩn bị mổ
 
 - Tư vấn nguy cơ (băng huyết, truyền máu, cắt tử cung, tổn thương tuyến niệu, tử vong mẹ...).
-- Điều chỉnh Hb > 11 g/dL, bổ sung sắt/nước tiểu tươi.
+- Điều chỉnh Hb > 11 g/dL, bổ sung sắt.
 - Phối hợp đa chuyên khoa (gây mê, huyết học, ngoại, chẩn đoán hình ảnh...).
 - Sẵn sàng ngân hàng máu, 2 đường truyền, Foley niệu đạo; Đặt niệu quản ngăn ngừa tổn thương khi percreta độ 3.
 

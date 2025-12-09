@@ -20,7 +20,7 @@ Chẩn đoán hội chứng buồng trứng đa nang khi có 2/3 tiêu chuẩn k
 
 :::
 
-**Loại trừ bệnh lý khác** bằng xét nghiệm TSH, prolactin, 17-OH progesterone, FSH hoặc khám lâm sàng tìm dấu hiệu hội chứng Cushing, u tuyến thượng thận. Suy hạ đồi - suy tuyến yên (do mỡ thấp, vận động quá mức) có thể loại trừ dựa trên lâm sàng và LH/FSH.
+**Loại trừ bệnh lý khác** bằng xét nghiệm TSH, prolactin, 17-OH progesterone, FSH hoặc khám lâm sàng tìm dấu hiệu hội chứng Cushing, u tuyến thượng thận. Suy hạ đồi - suy tuyến yên (do lượng mỡ cơ thể thấp, vận động quá mức) có thể loại trừ dựa trên lâm sàng và LH/FSH.
 
 ### Rối loạn kinh nguyệt
 

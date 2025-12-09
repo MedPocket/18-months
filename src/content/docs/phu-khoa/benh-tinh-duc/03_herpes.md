@@ -18,7 +18,7 @@ _Hình ảnh "Herpes sinh dục: Mụn nước, vết loét ở vùng môi bé v
 **Triệu chứng toàn thân (thường gặp ở lần nhiễm đầu tiên):**
 
 - Sốt nhẹ đến sốt vừa (37.5-38.5 °C), mệt mỏi, đau cơ, nhức đầu...
-- Trong 1-2 ngày trước khi xuất hiện tổn thương, bệnh nhân có thể cảm giác ngứa, tê, bỏng rát tại vùng dự định phát ban (gia đoạn tiền triệu).
+- Trong 1-2 ngày trước khi xuất hiện tổn thương, bệnh nhân có thể cảm giác ngứa, tê, bỏng rát tại vùng dự định phát ban (giai đoạn tiền triệu).
 
 **Tổn thương tại chỗ:**
 
@@ -125,7 +125,7 @@ Liều dùng và thời gian có thể điều chỉnh tùy theo mức độ n�
 
 ### Dự phòng tái phát
 
-Ở người tái phát ≥ 6 lần/năm hoặc có yếu tố nguy cơ cao (suy giảm miễn dịch, HIV), cân nhắc điều trị ức chế long-term:
+Ở người tái phát ≥ 6 lần/năm hoặc có yếu tố nguy cơ cao (suy giảm miễn dịch, HIV), cân nhắc điều trị ức chế dài hạn (long-term):
 
 - Acyclovir 400 mg uống 2 lần/ngày.
 - Valacyclovir 500 mg uống 1 lần/ngày.
@@ -145,7 +145,7 @@ Liều dùng và thời gian có thể điều chỉnh tùy theo mức độ n�
 **Phụ nữ mang thai:**
 
 - Hạn chế dùng kháng virus trong 3 tháng đầu.
-- Từ tuần 36 thái kỳ, có thể dùng Valacyclovir 500 mg uống 2 lần/ngày để giảm nguy cơ tái phát tại thời điểm sinh.
+- Từ tuần 36 thai kỳ, có thể dùng Valacyclovir 500 mg uống 2 lần/ngày để giảm nguy cơ tái phát tại thời điểm sinh.
 - Nếu có tổn thương hoạt động (tiếp tục có mụn nước, vết loét) khi chuyển dạ, chỉ định sinh mổ để tránh lây nhiễm cho trẻ.
 - Nếu không có tổn thương (đã lành > 4 tuần), có thể cân nhắc sinh đường âm đạo nhưng cần kiểm tra kỹ âm đạo - cổ tử cung trước khi chuyển dạ.
 

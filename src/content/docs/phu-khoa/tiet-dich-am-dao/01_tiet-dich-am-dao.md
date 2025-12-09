@@ -62,7 +62,7 @@ Khi bị nhiễm hoặc rối loạn, các vi khuẩn kỵ khí (_Gardnerella va
 
 ## Tiếp cận
 
-Bình thường, phụ nữ sinh sản sản xuất khoảng 1.5 g dịch mỗi ngày. Thay đổi tính chất (màu, mùi, độ đặc, lượng) thường do các yếu tố nội tiết (thời kỳ rụng trứng, thai kỳ), tình trạng viêm nhiễm, thụt rửa hoặc stress. Tiết dịch âm đạo bất thường (abnormal vaginal discharge - AVD) là khi dịch có bất kỳ thay đổi nào so với bình thường.
+Bình thường, phụ nữ tuổi sinh sản tiết khoảng 1.5 g dịch mỗi ngày. Thay đổi tính chất (màu, mùi, độ đặc, lượng) thường do các yếu tố nội tiết (thời kỳ rụng trứng, thai kỳ), tình trạng viêm nhiễm, thụt rửa hoặc stress. Tiết dịch âm đạo bất thường (abnormal vaginal discharge - AVD) là khi dịch có bất kỳ thay đổi nào so với bình thường.
 
 ### Lâm sàng
 

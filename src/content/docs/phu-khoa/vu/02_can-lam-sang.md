@@ -167,7 +167,7 @@ Sinh thiết lõi (Core Needle Biopsy) là kỹ thuật sử dụng kim rỗng (
 
 - Tổn thương dạng đặc (solid mass) ≥ 15 mm - cần đánh giá mô học.
 - FNA có kết quả nghi ngờ hoặc không chính xác (cần khẳng định).
-- Tổn thương dạng đóng vôi không điển hình trên nhũ ảnh (hướng dẫn hẹn hò bằng nhũ ảnh).
+- Tổn thương dạng đóng vôi không điển hình trên nhũ ảnh (hướng dẫn định vị bằng nhũ ảnh).
 - Tình huống lâm sàng yêu cầu chẩn đoán mô học để quyết định hướng điều trị (trước phẫu thuật, trước điều trị neoadjuvant).
 
 **Quy trình:**

@@ -59,7 +59,7 @@ Bệnh nhân có **lạc nội mạc tử cung vùng chậu** hoặc **lạc tuy
 :::caution
 
 - Lựa chọn chế phẩm chứa rec-LH/hCG nếu BN có đáp ứng kém hay > 35 tuổi.
-- Nếu có nguy cơ OHSS chuyển sang IVM hoặc dừng trưởng thành cuối cùng của noãn bằng bolus GnRH đồng vận để giảm tối đa quá kích buồng trứng. Nếu còn nguy cơ sử dụng thêm các biện pháp khác: trữ phôi toàn bộ, sử dụng dopamin agonist (bromcryptine hoặc cabergoline) sau chọc hút noãn, truyền hydroxyethyl starch hay human albumin sau chọc hút noãn.
+- Nếu có nguy cơ OHSS chuyển sang IVM hoặc dừng trưởng thành cuối cùng của noãn bằng bolus GnRH đồng vận để giảm tối đa quá kích buồng trứng. Nếu còn nguy cơ sử dụng thêm các biện pháp khác: trữ phôi toàn bộ, sử dụng dopamin agonist (bromocriptine hoặc cabergoline) sau chọc hút noãn, truyền hydroxyethyl starch hay human albumin sau chọc hút noãn.
 - Nếu đáp ứng không lý tưởng cần bổ sung LH, đơn giản nhất là HMG.
 
 :::

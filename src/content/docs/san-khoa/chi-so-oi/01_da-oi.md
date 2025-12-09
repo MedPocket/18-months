@@ -18,7 +18,7 @@ description: Tổng quan chẩn đoán và xử trí đa ối.
 - Nhiễm trùng bào thai (TORCH).
 - Thiếu máu thai.
 - Bất thường thần kinh trung ương: Não úng thủy, vô sọ, chẻ đôi đốt sống.
-- Bất thường thần kinh-cơ: Nhược cơ, bệnh Steinert, rối loạn nuốt, sức môi...
+- Bất thường thần kinh-cơ: Nhược cơ, bệnh Steinert, rối loạn nuốt, sứt môi...
 - Bất thường vùng cổ-lồng ngực: Tăng sinh tuyến dạng nang ở phổi.
 - Tim bẩm sinh.
 - Bất thường hệ tiêu hóa: Hẹp thực quản, hẹp tá tràng.
@@ -86,7 +86,7 @@ Siêu âm hình thái, đo chiều dài cổ tử cung; Nghiệm pháp dung nạ
 **Hướng điều trị:**
 
 - Điều trị nguyên nhân nếu xác định được.
-- **Giảm ối** thoát vị nếu có quá tải (khó thở, tim nhanh), tốc độ ≤ 1 L/20 phút.
+- **Chọc ối giảm áp** nếu có quá tải (khó thở, tim nhanh), tốc độ ≤ 1 L/20 phút.
 - **Indomethacin** (đa ối vô căn, thai chưa trưởng thành) liều 25 mg uống 4 lần/ngày. Nếu AFI không giảm sau 2-3 ngày, có thể tăng lên 3 mg/kg/ngày. Nguy cơ đóng ống động mạch sớm → theo dõi Doppler thai mỗi 2 ngày.
 - Liệu pháp corticosteroids khi có nguy cơ sinh non.
 

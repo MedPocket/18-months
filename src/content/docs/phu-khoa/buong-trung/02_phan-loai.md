@@ -29,7 +29,7 @@ Nếu khối u đã được chẩn đoán là nang noãn nang mà vẫn tồn t
 
 Khi đường kính hoàng thể vượt quá 3 cm, nó được nhận dạng như là loại nang chứ không còn là hoàng thể đơn thuần:
 
-- Nang hoàng thể tồn lưu là nang hoàng thể phì đại nhẹ, có thể vẫn tiếp tục sản xuất progesterone dài ngày hơn so với thông thường, kỳ kinh nguyệt bị trì hoàn từ vài ngày đến vài tuần, thông thường là trong vòng 2 tuần so với chu kỳ đã lỡ.
+- Nang hoàng thể tồn lưu là nang hoàng thể phì đại nhẹ, có thể vẫn tiếp tục sản xuất progesterone dài ngày hơn so với thông thường, kỳ kinh nguyệt bị trì hoãn từ vài ngày đến vài tuần, thông thường là trong vòng 2 tuần so với chu kỳ đã lỡ.
 - Nang hoàng thể xuất huyết là nang hoàng thể to nhanh do xuất huyết trong nang vào giai đoạn hoàng thể của chu kỳ kinh nguyệt, có thể diễn tiến tới vỡ muộn trong giai đoạn hoàng thể.
 
 ### Nang hoàng tuyến
@@ -60,7 +60,7 @@ Lạc tuyến nội mạc tử cung tại buồng trứng là cấu trúc không
 
 Nang lạc nội mạc tử cung được hình thành do sự cấy ghép lên bề mặt buồng trứng của mô nội mạc tử cung bình thường có nguồn gốc từ máu kinh trào ngược. Khi có bất thường về khả năng đáp ứng miễn dịch (có thể do liên quan đến các đột biến gene), cấy ghép bất thường sẽ thành công dẫn đến hình thành các tuyến nội mạc tử cung lạc vị, vẫn còn hoạt động chức năng trên bề mặt buồng trứng. Xuất huyết kinh làm cho các nang bịt này lớn dần lên do chứa đầy máu "kinh" không có đường thoát, gây ra cấu trúc nang, với đặc trưng là viêm, với tân mạch và tàn phá cấu trúc vùng chậu.
 
-Khả năng ác tính của nang lạc nội mạc tử cung tại buồng trứng là rất thấp, nhưng không thể loại trừ. Chẩn đoán phân biệt quan trọng nhất của nang lạc nội mạc tử cung tại buồng trứng là u dạng nội mạc tử cung (endometroid tumour), tân lập, với tế bào giống tế bào nội mạc, nhưng không có mô đệm tùy hành và liên quan mạnh đến ác tính.
+Khả năng ác tính của nang lạc nội mạc tử cung tại buồng trứng là rất thấp, nhưng không thể loại trừ. Chẩn đoán phân biệt quan trọng nhất của nang lạc nội mạc tử cung tại buồng trứng là u dạng nội mạc tử cung (endometrioid tumor), tân lập, với tế bào giống tế bào nội mạc, nhưng không có mô đệm tùy hành và liên quan mạnh đến ác tính.
 
 ## Các cấu trúc tân lập
 
@@ -68,12 +68,12 @@ Khả năng ác tính của nang lạc nội mạc tử cung tại buồng trứ
 
 Phân loại dựa trên nguồn gốc mô học và phôi học giúp hiểu rõ tính đa dạng về hình thái, tiên lượng và hệ thống hóa các tân sinh buồng trứng:
 
-1. U xuất phát từ thượng mô (epithelial tumours).
-2. U xuất phát từ tế bào mầm (germ cell tumours).
-3. U xuất phát từ dây giới bào-mô đệm (sex cord-stromal tumours).
-4. U xuất phát từ trung mô (mesenchymal tumours).
-5. U tân sinh có nguồn gốc ở nơi khác di căn đến buồng trứng (secondary tumours).
-6. Những tổn thương giống u (tumour-like lesions).
+1. U xuất phát từ thượng mô (epithelial tumors).
+2. U xuất phát từ tế bào mầm (germ cell tumors).
+3. U xuất phát từ dây giới bào-mô đệm (sex cord-stromal tumors).
+4. U xuất phát từ trung mô (mesenchymal tumors).
+5. U tân sinh có nguồn gốc ở nơi khác di căn đến buồng trứng (secondary tumors).
+6. Những tổn thương giống u (tumor-like lesions).
 
 #### U xuất phát từ thượng mô
 
@@ -103,7 +103,7 @@ Tân sinh của tế bào biểu mô cổ ống Muller tại buồng trứng, ch
 - 15% là ác tính.
 - U giáp biên ác có thể gây pseudomyxoma peritonei.
 
-**U dạng nội mạc tử cung (endometroid tumour):**
+**U dạng nội mạc tử cung (endometrioid tumor):**
 
 - Lót bởi tế bào giống tuyến nội mạc tử cung.
 - Khác với nang endometrioma (lạc nội mạc không tân lập có vỏ và mô đệm), u dạng nội mạc chỉ gồm tế bào nội mạc, không kèm mô đệm.
@@ -205,9 +205,9 @@ Triệu chứng đa dạng, ít liên quan chức năng buồng trứng, không 
 
 ### Biến chứng
 
-**Bản chất hóa ác:**
+**Tiến triển ác tính:**
 
-- U buồng trứng không "hóa ác" từ lành; Chỉ bỏ sót u ác tính.
+- U buồng trứng không chuyển dạng ác tính từ u lành; Chỉ bỏ sót u ác tính.
 - Ung thư buồng trứng khó phân biệt lành-ác lâm sàng, hình ảnh, giải phẫu bệnh do tiến triển âm thầm, diễn biến khu trú vài vùng ác tính.
 
 **Xoắn khối u buồng trứng:**

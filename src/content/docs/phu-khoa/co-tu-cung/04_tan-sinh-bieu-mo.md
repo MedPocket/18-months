@@ -140,7 +140,7 @@ _Hình ảnh "Quản lý LSIL - Bệnh viện Từ Dũ"_.
 - 35% thoái lui về bình thường.
 - 23% tiếp tục HSIL.
 - 1.44% tiến triển thành ung thư xâm lấn.
-- 70% HSIL qua tế bào phẩm tương ứng với CIN 2-3, 1-2% có ung thư xâm lấn.
+- 70% HSIL qua xét nghiệm tế bào học tương ứng với CIN 2-3, 1-2% có ung thư xâm lấn.
 
 #### Quản lý
 

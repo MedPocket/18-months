@@ -80,12 +80,12 @@ Khảo sát nội mạc tử cung khi nghi ngờ nguyên nhân ác tính hoặc 
 
 - Xuất huyết tử cung bất thường ở đối tượng có nguy cơ cao (gia tăng nguy cơ ung thư nội mạc).
 - Phụ nữ hậu mãn kinh có chảy máu (độ dày nội mạc ≥ 4 mm).
-- Phụ nữ 45-menopa dùng bất kỳ kiểu xuất huyết nào (spotting, chảy máu giữa kỳ, rong huyết, rong kinh).
+- Phụ nữ 45 tuổi - mãn kinh dùng bất kỳ kiểu xuất huyết nào (spotting, chảy máu giữa kỳ, rong huyết, rong kinh).
 - Phụ nữ < 45 tuổi có xuất huyết kéo dài, không phóng noãn mạn tính (béo phì, PCOS), hoặc thất bại sau điều trị nội khoa.
 - Theo dõi điều trị tăng sinh nội mạc.
 
 :::caution
-Đối với phụ nữ hậu mãn kinh, mọi trường hợp xuất huyết dù nhẹ (spotting) cũng phải sinh thiết. Với phụ nữ 45-menopa, mọi trường hợp chảy máu bất thường (ngắn chu kỳ, chảy nhiều > 80 mL, kéo dài > 7 ngày) cần sinh thiết. Với < 45 tuổi, chỉ khi có tiếp xúc estrogen kéo dài không có progesterone (béo phì, PCOS) hoặc thất bại điều trị nội khoa.
+Đối với phụ nữ hậu mãn kinh, mọi trường hợp xuất huyết dù nhẹ (spotting) cũng phải sinh thiết. Với phụ nữ 45 tuổi - mãn kinh, mọi trường hợp chảy máu bất thường (ngắn chu kỳ, chảy nhiều > 80 mL, kéo dài > 7 ngày) cần sinh thiết. Với < 45 tuổi, chỉ khi có tiếp xúc estrogen kéo dài không có progesterone (béo phì, PCOS) hoặc thất bại điều trị nội khoa.
 :::
 
 **Nội soi buồng tử cung** cho phép quan sát trực tiếp buồng tử cung và sinh thiết tổn thương có hình ảnh bất thường (polyp, tăng sinh khu trú). Nhược điểm:

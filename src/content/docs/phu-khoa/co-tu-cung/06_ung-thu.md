@@ -12,12 +12,12 @@ Ung thư cổ tử cung là tình trạng tăng sản ác tính của niêm mạ
 
 ## Yếu tố nguy cơ
 
-- **Nhiễm HPV kéo dài:** Đặc biệt các typ 16, 18 chiếm khoảng 70% các trường hợp.
+- **Nhiễm HPV kéo dài:** Đặc biệt các type 16, 18 chiếm khoảng 70% các trường hợp.
 - **Hệ miễn dịch suy giảm:** HIV/AIDS, dùng thuốc ức chế miễn dịch.
 - **Quan hệ tình dục sớm:** Trước 18 tuổi, quan hệ với nhiều bạn tình.
 - **Đẻ nhiều:** Hơn 5 con.
 - **Hút thuốc lá:** Các chất độc trong khói thuốc làm tổn thương tại chỗ, thuận lợi cho HPV phát triển.
-- **Tiền sử tổn thương cổ tử cung:** Tổn thương tiền ung thư (CIN II/III) không được điều trị triệt để.
+- **Tiền sử tổn thương cổ tử cung:** Tổn thương tiền ung thư (CIN 2/3) không được điều trị triệt để.
 - **Suy giảm miễn dịch.**
 
 ## Chẩn đoán
@@ -54,9 +54,9 @@ Dưới đây là các **loại ung thư cổ tử cung** được phân loại 
 
 Phân giai đoạn theo hệ FIGO 2018 (lâm sàng - hỗ trợ hình ảnh, sinh thiết):
 
-**Giai đoạn O** hay ung thư tại chỗ (carcinoma in situ, CIS) tương đương CIN III, tổn thương tiền ung thư nặng nhất, loạn sản biểu mô cổ tử cung, khi tế bào ác tính chỉ khu trú trong biểu mô cổ tử cung, chưa xuyên qua màng đáy vào mô đệm.
+**Giai đoạn 0** hay ung thư tại chỗ (carcinoma in situ, CIS) tương đương CIN 3, tổn thương tiền ung thư nặng nhất, loạn sản biểu mô cổ tử cung, khi tế bào ác tính chỉ khu trú trong biểu mô cổ tử cung, chưa xuyên qua màng đáy vào mô đệm.
 
-**Giai đoạn I** giới hạn ở cổ tử cung (mở rộng đến tử cung nên được bỏ qua):
+**Giai đoạn I** giới hạn ở cổ tử cung (lan đến thân tử cung không làm thay đổi giai đoạn):
 
 - IA: Ung thư được chẩn đoán chỉ bằng kính hiển vi, với chiều sâu xâm nhập tối đa ≤ 5 mm.
 - IA1: Chiều sâu xâm nhập mô đệm được đo ≤ 3 mm.
@@ -68,7 +68,7 @@ Phân giai đoạn theo hệ FIGO 2018 (lâm sàng - hỗ trợ hình ảnh, sin
 
 **Giai đoạn II** tổn thương lan rộng ra ngoài tử cung nhưng không vào thành khung chậu hoặc tới 1/3 dưới của âm đạo:
 
-- IIA: Giới hạn ở 2/3 trên của âm đạo mà không có liên quan đến các tham số.
+- IIA: Giới hạn ở 2/3 trên của âm đạo mà không xâm lấn mô cạnh tử cung.
 - IIA1: Thương tổn ≤ 4 cm theo kích thước lớn nhất.
 - IIA2: Thương tổn > 4 cm theo kích thước lớn nhất.
 - IIB: Xâm lấn vùng xung quanh cổ tử cung nhưng không đến khung chậu.
@@ -84,7 +84,7 @@ Phân giai đoạn theo hệ FIGO 2018 (lâm sàng - hỗ trợ hình ảnh, sin
 **Giai đoạn IV** mở rộng ra ngoài khung chậu thật hoặc sự liên quan đến niêm mạc bàng quang hoặc trực tràng đã được chứng minh bằng sinh thiết:
 
 - IVA: Xâm lấn bàng quang hoặc trực tràng.
-- IVB: di căn xa (gan, phổi, xương...)
+- IVB: Di căn xa (gan, phổi, xương...)
 
 ## Điều trị
 

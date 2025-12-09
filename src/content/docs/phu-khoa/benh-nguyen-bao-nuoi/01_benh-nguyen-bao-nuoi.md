@@ -14,7 +14,7 @@ Tiêu chuẩn chẩn đoán bao gồm siêu âm, định lượng β-hCG và gi�
 **Thai trứng toàn phần (Complete mole):**
 
 - NST thường là 46,XX toàn bố (đơn bố) hoặc 46,XY (hiếm).
-- Không có mô phôi phôi thai; Hình ảnh siêu âm "mây tuyết", tăng sản gai rau lan toả.
+- Không có mô phôi thai; Hình ảnh siêu âm "mây tuyết", tăng sản gai rau lan toả.
 
 **Thai trứng bán phần (Partial mole):**
 

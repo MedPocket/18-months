@@ -156,8 +156,8 @@ Không khuyến cáo kháng sinh dự phòng:
 **Phương pháp sử dung:**
 
 - **Hút chân không bằng tay (MVA)** được khuyến cáo là phương pháp hút tử cung an toàn, hiệu quả, thay thế nạo (D&C), dùng trong phá thai, sẩy thai và sinh thiết nội mạc tử cung.
-- **Nong và gắp thai (D&E)** áp dụng cho thai từ 13 tuần vô khuẩn.
-- **Không khuyến cáo nạo buồng tử cung (D&C)** chi thai sảy < 12 tuần.
+- **Nong và gắp thai (D&E)** áp dụng cho thai từ 13 tuần.
+- **Không khuyến cáo nạo buồng tử cung (D&C)** cho thai sảy < 12 tuần.
 
 **Lựa chọn ống hút theo tuổi thai:**
 

@@ -15,7 +15,7 @@ Kết quả là **giảm sản sinh estrogen, progesterone và testosterone**, g
 
 ### Bất thường di truyền
 
-- Turner (45,X; 45,X/46,XX; 45,X/47,XXX), rối loạn sinh tuyến sinh dục hỗn hợp.
+- Turner (45,X; 45,X/46,XX; 45,X/47,XXX), loạn sản tuyến sinh dục hỗn hợp.
 - Premutation FMR1 (hội chứng X dễ vỡ).
 - Trisomy X (± khảm).
 - Các bất thường nhiễm sắc thể thường (hiếm).
@@ -66,7 +66,7 @@ Kết hợp triệu chứng lâm sàng và xét nghiệm nội tiết để xác
 - Triệu chứng thiếu estrogen: khô âm đạo, giảm libido, bốc hỏa, loãng xương.
 - Thay đổi cảm xúc: dễ buồn bực, trầm cảm.
 - Buồng trứng nhỏ, khó sờ.
-- Có thể xuất hiện biểu hiện của nguyên nhân đi kèm như Turner bất thường hình thái, vóc dáng; Fragile X tự kỷ, chậm phát triển; Addison tụt huyết áp tư thế, tăng sắc tố, giảm lông nách - mu.
+- Có thể xuất hiện biểu hiện của nguyên nhân đi kèm như: Turner (bất thường hình thái, vóc dáng); Fragile X (tự kỷ, chậm phát triển); Addison (tụt huyết áp tư thế, tăng sắc tố, giảm lông nách - mu).
 
 ### Cận lâm sàng
 

@@ -83,7 +83,7 @@ Cần loại trừ nguyên nhân cấu trúc - di truyền - nhiễm trùng:
 
 ### Chấm dứt thai kỳ
 
-- Cân bằng giữa lợi ích của nong nuôi dưỡng trong tử cung và nguy cơ thiếu oxy, toan máu thai nhi.
+- Cân bằng giữa lợi ích của tiếp tục nuôi dưỡng trong tử cung và nguy cơ thiếu oxy, toan máu thai nhi.
 - **IUGR sớm (< 32 tuần):** Ưu tiên sinh khi có bằng chứng Doppler bất lợi tiến triển (đảo dòng trong thì tâm trương, tăng chỉ số phản xạ kháng lực).
 - **IUGR muộn (> 32 tuần):** Ưu tiên dựa trên NST/CST và mức độ thiểu ối.
 - Sinh ngả âm đạo nếu đánh giá thai khả năng chịu đựng tốt và không có chỉ định sản khoa khác; Ngược lại, cân nhắc mổ lấy thai.

@@ -55,7 +55,7 @@ Các phương pháp phổ biến gồm: thuốc tránh thai hằng ngày (kết 
 
 ### Áp dụng
 
-**7 ngày đầu chu kỳ kinh hoặc đang sử dùng tránh thai nội tiết trước đó:** Uống ngay, có hiệu quả tức thì.
+**7 ngày đầu chu kỳ kinh hoặc đang sử dụng tránh thai nội tiết trước đó:** Uống ngay, có hiệu quả tức thì.
 
 **Sau 7 ngày đầu chu kỳ hoặc không dùng tránh thai nội tiết trước đó:** Uống và cần dùng thêm biện pháp hỗ trợ 7 ngày.
 

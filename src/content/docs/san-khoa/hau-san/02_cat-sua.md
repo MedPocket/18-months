@@ -20,8 +20,10 @@ description: Chỉ định và phương pháp cắt sữa.
 
 Prolactin là hormone chính chịu trách nhiệm về sự tiết sữa. Các thuốc ức chế prolactin có thể giúp ngừng tiết sữa:
 
-- **Bromocriptine (đồng vận dopamine):** Liều khởi đầu 1.25-2.5 mg/ngày, chia 2 lần, sau đó tăng dần 2.5 mg mỗi 2-7 ngày, đến khi prolactin về mức bình thường. Liều duy trì 2.5-15 mg/ngày, chia 2-3 lần. Theo dõi prolactin sau 4-6 tuần điều trị; Nếu hết tiết sữa, bắt đầu giảm liều dần và ngưng sau 3 tháng ổn định.
-- **Cabergoline (đồng vận dopamine chọn lọc):** Liều 0.25-0.5 mg 1-2 lần/tuần, hiệu quả kéo dài, ít tác dụng phụ vã mồ hôi, buồn nôn hơn Bromocriptine. Dùng trong 3-6 tháng, theo dõi prolactin mỗi 4-6 tuần.
+- **Bromocriptine (đồng vận dopamine):** Liều 2.5 mg uống 2 lần/ngày trong 14 ngày. _Lưu ý:_ Hiện nay ít được chỉ định làm thuốc đầu tay do nguy cơ tác dụng phụ nghiêm trọng (tai biến mạch máu não, nhồi máu cơ tim, co giật) và hiện tượng tiết sữa trở lại (rebound) sau ngưng thuốc.
+- **Cabergoline (đồng vận dopamine chọn lọc):** Hiệu quả cao và ít tác dụng phụ hơn Bromocriptine.
+  - _Ức chế sữa ngay sau sinh:_ 1 mg (2 viên 0.5 mg) uống liều duy nhất trong ngày đầu sau sinh.
+  - _Cắt sữa khi đã có sữa (established lactation):_ 0.25 mg (1/2 viên) uống mỗi 12 giờ trong 2 ngày (tổng liều 1 mg).
 
 **Theo dõi sau điều trị:** Đo lại prolactin máu sau 1-2 tháng.
 

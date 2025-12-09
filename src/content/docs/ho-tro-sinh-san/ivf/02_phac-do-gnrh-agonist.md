@@ -15,7 +15,7 @@ Phác đồ GnRH agonist (GnRH đồng vận) được sử dụng rộng rãi v
 ### Phác đồ dài (Long protocol)
 
 - **Dùng thuốc tránh thai hằng ngày** từ ngày 2 đến ngày 21 của chu kỳ kinh.
-- **Ức chế trục dưới đồi - tuyến yên** tiêm dưới da triptorelin 0.1 mg mỗi ngày từ ngày 21 (hoặc sau khi kết thúc thuốc tránh thai), kéo dài 10-12 ngày cho đến khi đạt ức chế buồng trứng (LH < 5 mIU/mL, estradiol < 50 pg/mL).
+- **Ức chế trục hạ đồi - tuyến yên** tiêm dưới da triptorelin 0.1 mg mỗi ngày từ ngày 21 (hoặc sau khi kết thúc thuốc tránh thai), kéo dài 10-12 ngày cho đến khi đạt ức chế buồng trứng (LH < 5 mIU/mL, estradiol < 50 pg/mL).
 - **Kích thích buồng trứng** tiêm FSH ngoại sinh dưới da, đồng thời giảm một nửa liều Triptorelin (0.05 mg/ngày).
 
 ### Phác đồ rất dài (Ultra-long protocol)

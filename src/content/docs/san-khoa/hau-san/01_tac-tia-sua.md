@@ -10,7 +10,7 @@ description: Chẩn đoán và điều trị tắc tia sữa.
 - **Cho bú không đều hoặc không đúng cách:** Bé ngậm vú không đúng, bú không đủ thời gian
 - **Vắt sữa không hoàn toàn:** Máy hoặc tay vắt không lấy hết sữa tồn đọng
 - **Áo ngực chật:** Chèn ép nhu mô vú, cản trở dòng chảy
-- **Căng thẳng, mệt mỏi:** Ức chế tiết tố và reflex tiết sữa
+- **Căng thẳng, mệt mỏi:** Ức chế tiết tố và phản xạ tiết sữa
 - **Thay đổi chế độ ăn uống hoặc thuốc:** Gây sữa đặc, dễ vón cục
 
 ## Phương pháp không dùng thuốc

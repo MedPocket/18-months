@@ -80,7 +80,7 @@ HELLP không điển hình khi chỉ có 1-2 tiêu chí trên.
 **Cận lâm sàng:**
 
 - LDH > 600 IU/L.
-- Bilirubin toàn phần > 12 mg/dL.
+- Bilirubin toàn phần > 1.2 mg/dL.
 - AST > 70 IU/L.
 - Giảm Haptoglobin.
 

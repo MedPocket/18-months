@@ -7,9 +7,9 @@ description: Hội chứng kháng phospholipid và tăng đông trong thai kỳ.
 
 **Hội chứng tăng đông di truyền (Inherited Thrombophilia)** là tình trạng **tăng nguy cơ huyết khối** do **đột biến gen** hoặc **thiếu hụt protein chống đông** bẩm sinh. Ở phụ nữ mang thai, nguy cơ huyết khối vốn đã tăng cao sinh lý nên khi có thrombophilia di truyền, cần đánh giá và điều trị dự phòng để tránh thuyên tắc mạch, tiền sản giật, sảy thai tái diễn hoặc hạn chế tăng trưởng trong tử cung. **Các đột biến và thiếu hụt thường gặp** Factor V Leiden (G1691A), Prothrombin G20210A, thiếu hụt Protein S, thiếu hụt Protein C, Thiếu hụt Antithrombin III (ATIII), Không bao gồm MTHFR đơn thuần trừ khi kèm hyperhomocysteinemia.
 
-_Bảng "So sánh Hội chứng kháng phosphilipid và Hội chứng tăng đông di truyền"_.
+_Bảng "So sánh Hội chứng kháng phospholipid và Hội chứng tăng đông di truyền"_.
 
-| So sánh Hội chứng kháng phosphilipid và Hội chứng tăng đông di truyền | APS                               | Tăng đông di truyền                 |
+| So sánh Hội chứng kháng phospholipid và Hội chứng tăng đông di truyền | APS                               | Tăng đông di truyền                 |
 | --------------------------------------------------------------------- | --------------------------------- | ----------------------------------- |
 | **Nguyên nhân**                                                       | Tự miễn                           | Di truyền                           |
 | **Xét nghiệm**                                                        | Kháng thể kháng phospholipid      | Đột biến gen, thiếu yếu tố đông máu |

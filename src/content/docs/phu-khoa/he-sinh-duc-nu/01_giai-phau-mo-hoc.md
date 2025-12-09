@@ -41,7 +41,7 @@ _Hình ảnh "Giải phẫu mạch máu tử cung buồng trứng"_.
 
 **Hệ thống dây chằng và mạc treo:**
 
-- **Mạc treo buồng trứng** (mesovarium): Gôm mạch máu, thần kinh, bạch huyết.
+- **Mạc treo buồng trứng** (mesovarium): Gồm mạch máu, thần kinh, bạch huyết.
 - **Dây chằng buồng trứng riêng** (ligamentum ovarii proprium): Nối đầu tử cung buồng trứng đến góc tử cung.
 - **Dây chằng rộng tử cung** (ligamentum latum): Phúc mạc phủ, tạo túi sau vòi trứng.
 - **Dây chằng treo buồng trứng** (suspensory ligament): Chứa động - tĩnh mạch buồng trứng, thần kinh, bạch huyết.
@@ -51,7 +51,7 @@ _Hình ảnh "Giải phẫu mạch máu tử cung buồng trứng"_.
 - **Vỏ ngoài** (tunica albuginea): Lớp mô liên kết dày, phủ bề mặt buồng trứng.
 - **Vùng vỏ** (cortex): Chứa nang noãn ở các giai đoạn (nguyên thủy → Graaf).
 - **Vùng tuỷ** (medulla): Mô liên kết lỏng lẻo, chứa mạch máu, thần kinh, bạch huyết.
-- **Biểu mô phủ** (germinal epithelium): Tế bào vuông hoặc hình trụ thấp trên tunica albuginea.
+- **Biểu mô phủ** (germinal epithelium): Tế bào vuông hoặc hình trụ thấp trên màng trắng (tunica albuginea).
 
 ## Ứng dụng
 

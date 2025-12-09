@@ -44,7 +44,7 @@ _Bảng "Phân loại HIV lâm sàng"_.
 
 **Nhóm ức chế men sao chép ngược không nucleoside (NNRTIs)/ức chế integrase (INSTIs)**
 
-- **Efavirenz (EFV) 600 mg x 1 lần/ngày:** Cơ chế gắn không cạnh tranh vào men sao chép ngược, ức chế hoạt động Lưu ý: Không dùng trong quý I do nguy cơ quái thai thần kinh Tác dụng phụ mất ngủ, chóng mặt, thay đổi tâm thần. Theo dõi các triệu chứng thần kinh - tâm thần.
+- **Efavirenz (EFV) 600 mg x 1 lần/ngày:** Cơ chế gắn không cạnh tranh vào men sao chép ngược, ức chế hoạt động. Lưu ý: Không dùng trong quý I do nguy cơ quái thai thần kinh. Tác dụng phụ mất ngủ, chóng mặt, thay đổi tâm thần. Theo dõi các triệu chứng thần kinh - tâm thần.
 - **Dolutegravir (DTG) 50 mg x 1 lần/ngày:** Cơ chế ức chế integrase, ngăn chặn việc chèn DNA virus vào DNA chủ. Ưu điểm giảm tải lượng rất nhanh, ít tương tác thuốc. Cẩn trọng trong quý I do nguy cơ hiếm gặp dị tật thần kinh. Theo dõi phản ứng dị ứng, chức năng gan.
 
 **Nhóm ức chế protease (PIs):**

@@ -26,7 +26,7 @@ _Bảng "Phân loại tổn thương chức năng tinh hoàn theo vùng tổn th
 |                                                   | Thiếu tinh hoàn bẩm sinh                                    | Thiếu tinh hoàn trong giai đoạn bào thai                                                                   |
 |                                                   | Thiếu tinh hoàn mắc phải                                    | Chấn thương, xoắn tinh hoàn, khối u, viêm nhiễm, phẫu thuật                                                |
 |                                                   | Tinh hoàn lạc chỗ                                           | Suy giảm testosterone và/ hoặc AMH, bẩm sinh, do yếu tố cản trở giải phẫu học                              |
-|                                                   | Giãn tĩnh mạch tinh                                         | Suy giảm chức năng tĩnh mạch                                                                               |
+|                                                   | Giãn tĩnh mạch thừng tinh                                   | Suy giảm chức năng tĩnh mạch                                                                               |
 |                                                   | Viêm tinh hoàn                                              | Nhiễm trùng kèm theo sự phá hủy lớp biểu mô tế bào mầm sinh dục                                            |
 |                                                   | Hội chứng một lớp tế bào Sertoli                            | Bẩm sinh, mắc phải                                                                                         |
 |                                                   | Sinh tinh nửa chừng                                         | Bẩm sinh, mắc phải                                                                                         |
@@ -111,7 +111,7 @@ _Bảng "Phân loại tổn thương chức năng tinh hoàn theo vùng tổn th
 - Phơi nhiễm với hóa chất và nhiệt.
 - Tắm nước nóng, xông hơi.
 - Tiếp xúc tia xạ.
-- Hút thuốc lá, uống rượu, dùng thuốc túy tiện.
+- Hút thuốc lá, uống rượu, dùng thuốc tùy tiện.
 - Thuốc làm căng phồng cơ bắp.
 - Tiền sử từng có thai hay có con với người khác.
 - Các đánh giá và điều trị vô sinh trước đó.
@@ -197,7 +197,7 @@ Tùy theo kết quả thăm khám sẽ có những hình thức điều trị c�
 | **Điều trị theo kinh nghiệm**                                 |                                                                              |
 | Vô sinh nguyên phát                                           | Điều trị nội khoa hỗ trợ                                                     |
 | Vô sinh do yếu tố miễn dịch                                   | Giảm miễn dịch                                                               |
-| Giãn tĩnh mạch tinh                                           | Tối ưu hóa chức năng sinh sản của vợ hoặc Phẫu thuật cột tĩnh mạch tinh giãn |
+| Giãn tĩnh mạch thừng tinh                                     | Tối ưu hóa chức năng sinh sản của vợ hoặc Phẫu thuật thắt tĩnh mạch thừng tinh giãn |
 | **Điều trị triệu chứng**                                      |                                                                              |
 | Suy giảm khả năng sinh sản                                    | Hỗ trợ sinh sản (IUI/IVF)                                                    |
 

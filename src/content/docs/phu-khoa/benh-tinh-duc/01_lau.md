@@ -48,7 +48,7 @@ _Hình ảnh "Lậu hầu họng"_.
 
 **Nam giới:**
 
-- Viêm mào tinh hoàn: Đau, sưng tinh hoàn, kèm sốt, ớn lạnh. Nếu không điều trị, có thể apsxe bìu và dẫn đến vô sinh.
+- Viêm mào tinh hoàn: Đau, sưng tinh hoàn, kèm sốt, ớn lạnh. Nếu không điều trị, có thể áp xe bìu và dẫn đến vô sinh.
 - Hẹp niệu đạo: Do nhiễm trùng tái phát hoặc không được điều trị, gây tiểu khó mạn tính.
 
 **Nữ giới:**
@@ -76,7 +76,7 @@ _Hình ảnh "Lậu hầu họng"_.
 
 **Độ nhạy:** 85-95% (niệu đạo, cổ tử cung); Thấp hơn ở hầu họng và trực tràng (50-70%).
 
-**Ưu điểm:** Là tiêu chuẩn vàng để chẩn đoán. Cho phép làm kháng sinh đồ (phải thiết để theo dõi kháng thuốc).
+**Ưu điểm:** Là tiêu chuẩn vàng để chẩn đoán. Cho phép làm kháng sinh đồ (cần thiết để theo dõi kháng thuốc).
 
 **Hạn chế:** Cần điều kiện phòng xét nghiệm chuyên sâu, kỹ thuật viên có kỹ năng. Thời gian có kết quả: 2-5 ngày.
 
@@ -213,7 +213,7 @@ Tránh chạm mắt khi tra thuốc. Không dùng Povidon Iod dung môi cồn do
 
 - **Tái khám 3 tháng:** Tất cả trường hợp nhiễm lậu sinh dục hoặc trực tràng không biến chứng nên làm NAAT sau 3 tháng kể từ khi điều trị để phát hiện tái nhiễm, kể cả khi không còn triệu chứng.
 - **Nếu không thể tái khám sau 3 tháng:** Có thể xét nghiệm lại bất kỳ lúc nào trong 3-12 tháng sau điều trị đầu tiên.
-- **Nhiễm lậu hầu họng:** Tái khám sau 7-14 ngày để kiểm tra bằng nuôi cấy hoặc NAAT; Lưu ý NAAT sau 7 ngày có thể dương tính giả do mảnh gien còn tồn tại, nên ưu tiên nuôi cấy để khẳng định.
+- **Nhiễm lậu hầu họng:** Tái khám sau 7-14 ngày để kiểm tra bằng nuôi cấy hoặc NAAT; Lưu ý NAAT sau 7 ngày có thể dương tính giả do mảnh gen còn tồn tại, nên ưu tiên nuôi cấy để khẳng định.
 - **Viêm niệu đạo, viêm cổ tử cung hoặc viêm trực tràng dai dẳng:** Xem xét nguyên nhân khác (ví dụ: **Mycoplasma genitalium**, **Ureaplasma urealyticum**, **HSV**), làm xét nghiệm bổ sung khi cần.
 
 ## Phòng bệnh
@@ -226,5 +226,5 @@ Tránh chạm mắt khi tra thuốc. Không dùng Povidon Iod dung môi cồn do
 
 ## Tài liệu tham khảo
 
-- BỘ Y TẾ (2021) - _Hành hướng dẫn chẩn đoán và điều trị bệnh lậu_
+- BỘ Y TẾ (2021) - _Hướng dẫn chẩn đoán và điều trị bệnh lậu_
 - Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_

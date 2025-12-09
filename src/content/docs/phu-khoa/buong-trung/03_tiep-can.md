@@ -102,7 +102,7 @@ Hữu ích hơn nếu có thuốc cản quang.
 - Tổn thương trong bối cảnh bệnh lý vùng chậu đã lan tràn.
 - Cấu trúc u & mối liên hệ với cơ quan xung quanh.
 
-Hiệu quả để: Mô tả u rất nhỏ vùng bụng Xác định vị trí u và dính vào cơ quan xung quanh Phát hiện di căn hoặc chèn ép.
+Hiệu quả để: Mô tả u rất nhỏ vùng bụng. Xác định vị trí u và dính vào cơ quan xung quanh. Phát hiện di căn hoặc chèn ép.
 
 ## Các chỉ báo sinh học
 

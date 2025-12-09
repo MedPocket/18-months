@@ -162,7 +162,7 @@ _N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; Do đó, khi ng
 
 **Phác đồ ưu tiên** (tùy chọn 1 hoặc 2):
 
-- **Azithromycin 1 g uống liều duy nhất:** Ưu điểm: Thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%; Thận trọng: Có thể gây buồn nôn, đau bụng, tiêu chảy; Không dùng đồng thời cùng uống sultanol.
+- **Azithromycin 1 g uống liều duy nhất:** Ưu điểm: Thuận tiện, tuân thủ tốt, hiệu quả ≥ 95%; Thận trọng: Có thể gây buồn nôn, đau bụng, tiêu chảy; Không dùng đồng thời cùng uống các thuốc kháng acid (antacids).
 - **Doxycycline 100 mg uống 2 lần/ngày x 7 ngày:** Hiệu quả 97%; Thận trọng: Không dùng cho phụ nữ có thai hoặc cho con bú (gây vôi hóa răng ở trẻ).
 
 **Phác đồ thay thế** (khi không thể dùng thuốc ưu tiên):

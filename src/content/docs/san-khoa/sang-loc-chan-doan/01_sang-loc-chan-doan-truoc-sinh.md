@@ -3,7 +3,7 @@ title: Chẩn đoán trước sinh
 description: Xu thế và ứng dụng chẩn đoán trước sinh.
 ---
 
-**Sàng lọc trước sinh**: Các xét nghiệm không xâm lấn nhằm xác định nhóm sản phụ có nguy cơ sinh ra các trẻ mắc bệnh. Hoặc là về những bất thường hình thái hoặc bất thường liên quan đến di truyền thường liên quan đến bất thường nhiễm sắc thể.
+**Sàng lọc trước sinh**: Các xét nghiệm không xâm lấn nhằm xác định nhóm sản phụ có nguy cơ sinh ra các trẻ mắc bệnh. Bao gồm các bất thường hình thái hoặc bất thường di truyền (thường là bất thường nhiễm sắc thể).
 
 **Chẩn đoán trước sinh**: Các kỹ thuật (thường xâm lấn) để xác định chính xác các rối loạn di truyền hoặc bất thường cấu trúc ở thai nhi.
 
@@ -72,7 +72,7 @@ Có thể thực hiện cho tất cả phụ nữ mang thai, **đặc biệt đ�
 
 - Không thực hiện khi lượng DNA tự do của thai thấp.
 - Không phát hiện bất thường cấu trúc NST hoặc trường hợp khảm.
-- Không xác định sự bất thường xứng của bánh rau và thai.
+- Không xác định sự bất tương xứng của bánh rau và thai.
 - Tỷ lệ không kết luận được: 1-5%.
 
 ## Các phương pháp chẩn đoán trước sinh

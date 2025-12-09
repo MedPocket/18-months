@@ -152,7 +152,7 @@ _Bảng "Thang điểm BIRADS"_.
 **Ưu điểm:**
 
 - Độ nhạy rất cao (98%).
-- Phát hiện tổn thương nhỏ, nhiều ổ, hoặc ung thư dưới mầu xạ (occult lesion).
+- Phát hiện tổn thương nhỏ, nhiều ổ, hoặc ung thư ẩn (occult lesion).
 
 **Hạn chế:**
 
@@ -185,7 +185,7 @@ _Bảng "Thang điểm BIRADS"_.
 
 - Độ chính xác cao (độ nhạy 85-90%, âm tính giả 10-15%, dương tính giả < 1%).
 - Không lấy được cấu trúc mô nên không thể đánh giá đầy đủ loại u hoặc đánh giá các chỉ điểm hóa học.
-- Nếu FNA âm tính nhưng lâm sàng hoặc hình ảnh vẫn nghi ngờ, cần phải sinh thiết lõi hoặc sinh thiết mỏm (excisional biopsy).
+- Nếu FNA âm tính nhưng lâm sàng hoặc hình ảnh vẫn nghi ngờ, cần phải sinh thiết lõi hoặc sinh thiết mở (excisional biopsy).
 
 #### Sinh thiết trọn khối
 
@@ -352,7 +352,7 @@ CT scan, MRI toàn thân hoặc xạ hình xương chỉ cần thiết khi có t
 
 **Phẫu thuật bảo tồn vú (Breast-Conserving Surgery, BCS):**
 
-- Cắt bỏ khối u kèm biên an toàn tối thiểu 1 cm mô lành xung quanh (hoặc rìa âm tính). Đảm bảo không còn tổ chức ép tinto hay vôi hóa bất thường ở rìa cắt. Kèm nạo vét hạch nách (sentinel lymph node biopsy hoặc nạo vét hạch một phần).
+- Cắt bỏ khối u kèm biên an toàn tối thiểu 1 cm mô lành xung quanh (hoặc rìa âm tính). Đảm bảo không còn mô ung thư hay vôi hóa bất thường ở rìa cắt. Kèm nạo vét hạch nách (sentinel lymph node biopsy hoặc nạo vét hạch một phần).
 - **Chỉ định:** Sang thương đơn độc trên nhũ ảnh và lâm sàng; U ≤ 4 cm (nếu > 4 cm, có thể bớt lựa chọn nếu vú lớn và khoang mô đủ để bảo tồn); Không di căn hạch lâm sàng.
 - **Yếu tố tiên lượng tái phát tại chỗ** sau BCS: Bờ mô dương tính (positive margin); Tuổi < 35 tuổi; Xâm lấn mạch máu hoặc bạch huyết; Mức độ mô học grade II-III; Đặc điểm sinh học ác tính (ER/PR âm tính, HER2 dương tính, Ki-67 cao).
 - Tiên lượng sống còn sau 20 năm tương đương với phẫu thuật đoạn nhũ (mastectomy) nếu điều trị xạ trị hậu phẫu đầy đủ.
@@ -364,7 +364,7 @@ _Hình ảnh "Đoạn nhũ đơn giản (Simple mastectomy), Đoạn nhũ tận 
 
 - **Simple Mastectomy (Đoạn nhũ đơn giản):** Cắt bỏ toàn bộ vú (mô vú, núm vú, quầng vú), nhưng không cắt các cơ ngực. Nạo vét hạch 1/4 trên ngoài hoặc hạch nách dưới tùy thiết kế.
 - **Modified Radical Mastectomy (Đoạn nhũ tận gốc cải tiến):** Cắt bỏ toàn bộ vú và nạo vét hạch nách mức I-II, bảo tồn các cơ ngực lớn và bé.
-- **Radical Mastectomy (Halsted, Đoạn nhũ tận gốc):** Cắt bỏ toàn bộ vú, cơ ngực lớn+bé và nạo vét hạch nách toàn bộ. Do tỷ lệ tử suất cao và di chứng nặng, hiện chỉ áp dụng khi ung thư xâm lấn rộng vào cơ ngực.
+- **Radical Mastectomy (Halsted, Đoạn nhũ tận gốc):** Cắt bỏ toàn bộ vú, cơ ngực lớn+bé và nạo vét hạch nách toàn bộ. Do tỷ lệ tử vong cao và di chứng nặng, hiện chỉ áp dụng khi ung thư xâm lấn rộng vào cơ ngực.
 - **Chỉ định:** U trung tâm, đa ổ (multifocal/multicentric) không thể bảo tồn; U > 4 cm, không thể bảo tồn do kích thước; Bệnh nhân yêu cầu đoạn nhũ hoặc có chỉ định dự phòng (đột biến BRCA); Không có bằng chứng di căn hạch lâm sàng hoặc âm tính nhưng gia đình có nguyện vọng cắt bỏ.
 
 #### Theo dõi sau phẫu thuật
