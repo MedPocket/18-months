@@ -1,6 +1,6 @@
 ---
 title: Xử trí tích cực giai đoạn 3
-description: Xử trí tích cực giai đoạn 3 chuyển dạ — kỹ thuật và cơ chế giảm mất máu sau sổ thai.
+description: Xử trí tích cực giai đoạn 3 chuyển dạ.
 ---
 
 **Giai đoạn 3** của chuyển dạ từ khi thai sổ đến khi rau bong và cầm máu hoàn toàn. Nếu không can thiệp, rau bong tự nhiên theo 3 thì:

@@ -1,6 +1,6 @@
 ---
 title: Tiền sản giật
-description: Chẩn đoán, biến chứng, xử trí và dự phòng tiền sản giật trong thai kỳ.
+description: Chẩn đoán và dự phòng tiền sản giật.
 ---
 
 Tiền sản giật (Preeclampsia) là một rối loạn đặc trưng bởi tăng huyết áp và tổn thương các cơ quan (thường là thận) xuất hiện sau tuần thai thứ 20. Đây là một trong những biến chứng sản khoa nghiêm trọng, có thể ảnh hưởng cả mẹ và thai nhi nếu không được phát hiện, theo dõi và xử trí kịp thời.

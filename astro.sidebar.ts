@@ -243,6 +243,7 @@ export const sidebar = starlightSidebarTopics([
       "ho-tro-sinh-san/canh-niem-mac",
       "ho-tro-sinh-san/hsg-sis",
       "ho-tro-sinh-san/tac-voi-trung",
+      "ho-tro-sinh-san/suy-buong-trung",
       {
         label: "IUI",
         autogenerate: {

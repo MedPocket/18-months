@@ -1,6 +1,6 @@
 ---
 title: Khung chậu trong sản khoa
-description: Giải phẫu và vai trò của khung chậu trong sản khoa, bao gồm cấu tạo, các eo khung chậu, đánh giá lâm sàng và các dạng khung chậu ảnh hưởng đến chuyển dạ.
+description: Giải phẫu khung chậu và vai trò trong chuyển dạ.
 ---
 
 Khung chậu có vai trò rất quan trọng trong sản khoa, vì thai từ trong tử cung muốn sinh qua ngã âm đạo phải vượt qua được đoạn đường bên trong lòng khung chậu.

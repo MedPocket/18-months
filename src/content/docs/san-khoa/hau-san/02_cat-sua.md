@@ -1,6 +1,6 @@
 ---
 title: Cắt sữa sau sinh
-description: Biện pháp cần thiết khi người mẹ không muốn cho con bú hoặc phải ngừng cho con bú do lý do sức khỏe.
+description: Chỉ định và phương pháp cắt sữa.
 ---
 
 **Cắt sữa (ức chế tiết sữa)** là biện pháp cần thiết khi người mẹ không muốn cho con bú hoặc phải ngừng cho con bú do lý do sức khỏe, cá nhân hoặc y tế. Có thể thực hiện bằng phương pháp tự nhiên hoặc dùng thuốc ức chế prolactin và các biện pháp hỗ trợ.

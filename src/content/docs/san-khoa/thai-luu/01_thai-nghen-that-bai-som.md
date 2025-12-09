@@ -1,6 +1,6 @@
 ---
 title: Thai nghén thất bại sớm
-description: Thai nghén thất bại sớm (Early Pregnancy Loss - EPL) là tình trạng thai lâm sàng được xác định qua siêu âm hoặc khám phụ khoa có dấu hiệu thai không phát triển.
+description: Chẩn đoán thai nghén thất bại sớm (EPL).
 ---
 
 Thai nghén thất bại sớm (Early Pregnancy Failure) thường được biết dưới dạng trứng trống (blighted ovum) hoặc thai ngưng phát triển (embryonic demise). Tình trạng này xảy ra trước 12 tuần tuổi thai và ảnh hưởng tới khoảng 10-15% các thai lâm sàng, với nguyên nhân chủ yếu do bất thường nhiễm sắc thể, rối loạn nội mạc tử cung hoặc bệnh lý toàn thân của người mẹ.

@@ -1,6 +1,6 @@
 ---
 title: Vỡ tử cung
-description: Vỡ tử cung là tình trạng cấp cứu hiếm gặp nhưng rất nguy hiểm, gây ra kết cục rất xấu cho cả mẹ và thai.
+description: Tổng quan chẩn đoán và xử trí vỡ tử cung.
 ---
 
 **Vỡ tử cung** là tình trạng cấp cứu hiếm gặp nhưng rất nguy hiểm, gây ra kết cục rất xấu cho cả mẹ và thai.

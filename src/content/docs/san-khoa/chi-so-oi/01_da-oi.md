@@ -1,6 +1,6 @@
 ---
 title: Đa ối
-description: Đa ối là tình trạng dư thừa dịch ối so với mức bình thường theo tuổi thai, làm tăng nguy cơ biến chứng cho mẹ và thai nhi.
+description: Tổng quan chẩn đoán và xử trí đa ối.
 ---
 
 Đa ối là tình trạng dịch ối nhiều hơn so với tuổi thai tương ứng và được chẩn đoán qua siêu âm.

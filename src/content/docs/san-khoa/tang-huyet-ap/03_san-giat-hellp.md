@@ -1,6 +1,6 @@
 ---
 title: Sản giật và hội chứng HELLP
-description: Đặc điểm của sản giật và hội chứng HELLP trong thai kỳ.
+description: Sản giật và hội chứng HELLP.
 ---
 
 Sản giật và hội chứng HELLP là hai biến chứng nghiêm trọng và nguy hiểm tính mạng của tiền sản giật - thường xuất hiện trong tam cá nguyệt thứ ba (từ tuần 28 trở đi), nhưng cũng có thể xảy ra trong lúc chuyển dạ hoặc sau sinh.

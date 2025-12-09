@@ -1,6 +1,6 @@
 ---
 title: SGA & IUGR
-description: Thai nhỏ so với tuổi thai (Small-for-Gestational Age - SGA) và thai với tăng trưởng trong tử cung bị giới hạn (Fetal Growth Restriction - FGR hay Intrauterine Growth Restriction - IUGR) là hai tình trạng thường gặp và ảnh hưởng đáng kể đến sức khỏe, phát triển và tiên lượng của thai nhi trước và sau sinh.
+description: Chẩn đoán và quản lý thai chậm tăng trưởng.
 ---
 
 **SGA (Small-for-Gestational Age)** và **IUGR (Fetal Growth Restriction/Intra-Uterine Growth Retardation)** là tình trạng thai nhi có kích thước hoặc trọng lượng nhỏ hơn so với chuẩn tuổi thai. Chẩn đoán và quản lý kịp thời giúp giảm tỷ lệ biến chứng chu sinh và cải thiện kết cục dài hạn.

@@ -1,6 +1,6 @@
 ---
 title: Đẻ non/Dọa đẻ non
-description: Đẻ non (sinh non) và dọa đẻ non là tình trạng thai kỳ dưới 37 tuần có nguy cơ hoặc đã xảy ra sinh non, làm tăng nguy cơ biến chứng và tử vong sơ sinh.
+description: Chẩn đoán và xử trí dọa đẻ non.
 ---
 
 **Đẻ non (sinh non)** là hiện tượng trẻ được sinh ra khi tuổi thai **dưới 37 tuần**, tính từ ngày đầu kỳ kinh cuối cùng. Ngược lại sơ sinh **đủ tháng** lúc sinh từ 37 đến 42 tuần và **thai già tháng** > 42 tuần vô kinh.

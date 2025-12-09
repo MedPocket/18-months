@@ -1,6 +1,6 @@
 ---
 title: Liệu pháp không dùng thuốc ở bệnh nhân đái tháo đường thai kỳ
-description: Các biện pháp điều chỉnh lối sống, dinh dưỡng và vận động cho phụ nữ mang thai để phòng ngừa và kiểm soát đái tháo đường thai kỳ.
+description: Điều trị đái tháo đường thai kỳ không dùng thuốc.
 ---
 
 Có nhiều biện pháp điều chỉnh lối sống, dinh dưỡng và vận động cho phụ nữ mang thai để phòng ngừa và kiểm soát đái tháo đường thai kỳ.

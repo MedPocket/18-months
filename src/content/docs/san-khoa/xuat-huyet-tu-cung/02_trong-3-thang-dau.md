@@ -1,6 +1,6 @@
 ---
 title: Xuất huyết tử cung trong 3 tháng đầu thai kỳ
-description: Xuất huyết âm đạo bất thường trong 3 tháng đầu thai kỳ, có thể do các tình trạng từ lành tính (xuất huyết làm tổ) đến nguy hiểm (sảy thai, thai ngoài tử cung, bệnh nguyên bào nuôi).
+description: Xuất huyết 3 tháng đầu thai kỳ.
 ---
 
 Nguyên nhân chính của xuất huyết tử cung bất thường trong 3 tháng đầu thai kỳ (không liên quan đến chấn thương) gồm:

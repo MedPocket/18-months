@@ -1,6 +1,6 @@
 ---
 title: Bóc rau nhân tạo và kiểm tra sinh dục
-description: Kỹ thuật bóc rau nhân tạo và kiểm tra toàn bộ đường sinh dưới sau sổ thai.
+description: Kỹ thuật bóc rau nhân tạo và soát buồng tử cung.
 ---
 
 Sau sổ thai, cần theo dõi sinh hiệu và lượng máu mất, **không** xoa đáy tử cung quá sớm để tôn trọng giai đoạn nghỉ sinh lý. Khi rau không bong hoặc có chỉ định, thực hiện **bóc rau nhân tạo** và kiểm tra kỹ tử cung, cổ tử cung, âm đạo và tầng sinh môn.

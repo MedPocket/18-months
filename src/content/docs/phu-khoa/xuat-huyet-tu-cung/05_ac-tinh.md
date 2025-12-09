@@ -1,6 +1,6 @@
 ---
 title: Xuất huyết tử cung bất thường với nguyên nhân ác tính
-description: Các nguyên nhân ác tính và tiền ác tính gây xuất huyết tử cung bất thường, bao gồm tăng sinh nội mạc, ung thư nội mạc và sarcoma thân tử cung, cùng hướng tiếp cận chẩn đoán và điều trị.
+description: Xuất huyết tử cung bất thường do nguyên nhân ác tính.
 ---
 
 **Xuất huyết tử cung bất thường do bệnh lý ác tính hay tiền ác tính** thường gặp ở phụ nữ lớn tuổi nhưng cũng có thể xảy ra ở phụ nữ trẻ có nguy cơ ung thư nội mạc tử cung. Ba bệnh lý tiền ác tính hoặc ác tính thường gặp nhất là:

@@ -1,6 +1,6 @@
 ---
 title: U xơ tử cung và thai kỳ
-description: Ảnh hưởng của u xơ cơ tử cung lên quá trình mang thai chẩn đoán, điều trị đau, bóc u kết hợp mổ lấy thai và can thiệp ở phụ nữ hiếm muộn.
+description: U xơ tử cung và thai kỳ.
 ---
 
 U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi mang thai. Vị trí, số lượng, kích thước và biến chứng của nhân xơ sẽ quyết định triệu chứng và hướng xử trí.

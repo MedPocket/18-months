@@ -1,6 +1,6 @@
 ---
 title: Tầm soát và dự phòng tiền sản giật
-description: Tầm soát và dự phòng tiền sản giật trong tam cá nguyệt đầu.
+description: Tầm soát tiền sản giật quý 1.
 ---
 
 Việc tầm soát và dự phòng tiền sản giật là cực kỳ quan trọng để đảm bảo an toàn cho mẹ và thai nhi, vì tiền sản giật thường khởi phát âm thầm, nhưng có thể diễn tiến nhanh và gây hậu quả nghiêm trọng nếu không phát hiện sớm. Tầm soát tiền sản giật là quá trình xác định sớm nguy cơ từ tam cá nguyệt đầu tiên (trước 13 tuần) để có biện pháp can thiệp kịp thời.

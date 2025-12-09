@@ -1,6 +1,6 @@
 ---
 title: Giang mai
-description: Giang mai là bệnh lây truyền qua đường tình dục do xoắn khuẩn Treponema pallidum gây ra.
+description: Tổng quan, chẩn đoán và điều trị bệnh giang mai.
 ---
 
 Xoắn khuẩn giang mai (_Treponema pallidum_) rất yếu, chỉ sống vài giờ ngoài cơ thể. Ở điều kiện ẩm và nhiệt độ 37 °C, chúng có thể tồn tại và xâm nhập qua da, niêm mạc tổn thương khi quan hệ tình dục đường âm đạo, hậu môn hoặc miệng. Bệnh cũng có thể lây qua tiếp xúc gián tiếp với đồ dùng, vật dụng nhiễm xoắn khuẩn hoặc qua đường máu, từ mẹ sang con trong thai kỳ hoặc chuyển dạ.

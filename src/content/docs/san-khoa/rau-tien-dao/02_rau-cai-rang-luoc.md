@@ -1,6 +1,6 @@
 ---
 title: Rau cài răng lược
-description: Rau cài răng lược (Placenta accreta spectrum) là tình trạng bánh rau bám và xâm lấn sâu bất thường vào thành cơ tử cung, làm tăng cao nguy cơ chảy máu nghiêm trọng, phải truyền máu, cắt tử cung và tỷ lệ tử vong mẹ.
+description: Tổng quan chẩn đoán và điều trị rau cài răng lược.
 ---
 
 **Rau cài răng lược** bao gồm các mức độ bám và xâm lấn sâu của gai rau vào cơ tử cung, từ chỉ dính chặt đến xuyên qua thanh mạc và các cơ quan lân cận.

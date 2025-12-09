@@ -1,6 +1,6 @@
 ---
 title: Giải phẫu và mô học tuyến vú
-description: Mô tả chi tiết cấu trúc giải phẫu và đặc điểm mô học của tuyến vú, bao gồm thành phần mô, mạch máu, hệ bạch huyết, và các đơn vị chức năng chịu tác động của hormone.
+description: Tổng quan giải phẫu và mô học tuyến vú.
 ---
 
 **Tuyến vú (mammary gland)** là một cơ quan da phụ có chức năng sinh sản quan trọng, chịu trách nhiệm sản xuất và bài xuất sữa.

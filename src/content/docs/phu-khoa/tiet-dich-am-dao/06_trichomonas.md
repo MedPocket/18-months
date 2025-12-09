@@ -1,6 +1,6 @@
 ---
 title: Viêm âm đạo do Trichomonas
-description: Viêm âm đạo do Trichomonas là nhiễm ký sinh trùng Trichomonas vaginalis qua đường tình dục, gây viêm nhiễm cấp tính hoặc mạn tính ở âm đạo và niệu đạo.
+description: Chẩn đoán và điều trị nhiễm Trichomonas.
 ---
 
 Bệnh lây truyền qua đường tình dục do trùng roi _Trichomonas vaginalis_, thường gặp ở phụ nữ độ tuổi sinh sản và có xu hướng tái phát nếu không điều trị triệt để.

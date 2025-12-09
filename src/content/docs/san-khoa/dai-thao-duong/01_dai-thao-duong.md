@@ -1,6 +1,6 @@
 ---
 title: Đái tháo đường thai kỳ
-description: Định nghĩa, phân loại, sàng lọc, chẩn đoán, điều trị và theo dõi đái tháo đường trong thai kỳ.
+description: Tổng quan chẩn đoán và điều trị đái tháo đường thai kỳ.
 ---
 
 Đái tháo đường là nhóm rối loạn chuyển hóa không đồng nhất, đặc trưng bởi tăng glucose huyết và/hoặc rối loạn dung nạp glucose do thiếu insulin, giảm tác dụng insulin hoặc cả hai.

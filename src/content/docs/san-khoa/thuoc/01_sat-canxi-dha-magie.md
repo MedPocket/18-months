@@ -1,6 +1,6 @@
 ---
 title: Vi chất
-description: Hướng dẫn đầy đủ về sắt, canxi, DHA, magie cho phụ nữ mang thai.
+description: Bổ sung vi chất trong thai kỳ.
 ---
 
 Việc bổ sung sắt, canxi, DHA và magie trong thai kỳ rất cần thiết để:

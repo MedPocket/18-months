@@ -1,6 +1,6 @@
 ---
 title: Steroid sinh dục
-description: Các steroid sinh dục (progesterone, androgen, estrogen) - nguồn gốc, sinh tổng hợp, cơ chế tác động và cơ quan đích.
+description: Nguồn gốc, tổng hợp và tác động của steroid sinh dục.
 ---
 
 **Steroid sinh dục (gonadal steroids)** là các hormone có nguồn gốc từ buồng trứng ở nữ và tinh hoàn ở nam, chịu trách nhiệm điều hòa chức năng sinh sản và phát triển các đặc điểm sinh dục thứ cấp. Có ba họ chính:

@@ -1,6 +1,6 @@
 ---
 title: Phác đồ GnRH Antagonist trong Thụ tinh trong ống nghiệm (IVF)
-description: Phác đồ GnRH antagonist là lựa chọn phổ biến trong hỗ trợ sinh sản hiện đại, với ưu điểm kiểm soát tốt đỉnh LH, giảm nguy cơ quá kích buồng trứng.
+description: Giới thiệu phác đồ GnRH antagonist trong IVF.
 ---
 
 Phác đồ GnRH antagonist (GnRH đối vận) là chiến lược điều trị được sử dụng trong chu kỳ thụ tinh trong ống nghiệm (IVF), nhằm **ức chế đỉnh LH nội sinh** xảy ra sớm, tránh hiện tượng rụng trứng tự phát.

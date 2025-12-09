@@ -1,6 +1,6 @@
 ---
 title: Tiết dịch âm đạo bất thường
-description: Cấu trúc và chức năng của hệ vi khuẩn âm đạo, thành phần sinh lý của dịch tiết âm đạo, nguyên nhân và phân loại các rối loạn tiết dịch, cùng hướng xử trí và các biệt dược thường dùng.
+description: Tổng quan về dịch tiết âm đạo và hệ vi khuẩn.
 ---
 
 Hệ vi khuẩn âm đạo (vaginal microbiome) của phụ nữ trong độ tuổi sinh sản bao gồm cả vi khuẩn kỵ khí và hiếu khí thường trú, tồn tại trong quan hệ cộng sinh với môi trường âm đạo. Âm đạo cung cấp dưỡng chất (glycogen, protein, muối điện giải) cho vi sinh vật, đồng thời cộng đồng vi khuẩn đóng vai trò bảo vệ chủ thể bằng cách ngăn chặn vi khuẩn gây bệnh xâm nhập và phát triển quá mức. Rối loạn hệ vi khuẩn âm đạo có thể dẫn đến nhiều vấn đề sức khỏe, như viêm nhiễm, sảy thai, sinh non, thậm chí tăng nguy cơ lây nhiễm qua đường tình dục. Mật độ vi khuẩn trong dịch âm đạo rất cao, khoảng 10⁸-10⁹ vi khuẩn trên mỗi mL.

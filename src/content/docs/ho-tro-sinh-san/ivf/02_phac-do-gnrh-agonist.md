@@ -1,6 +1,6 @@
 ---
 title: Phác đồ GnRH agonist
-description: Phác đồ GnRH agonist là lựa chọn hàng đầu trong hỗ trợ sinh sản, đặc biệt trong thụ tinh trong ống nghiệm, và là tiêu chuẩn tham chiếu cho các phác đồ kích thích buồng trứng khác.
+description: Giới thiệu phác đồ GnRH agonist trong IVF.
 ---
 
 Phác đồ GnRH agonist (GnRH đồng vận) được sử dụng rộng rãi và lâu đời nhất trong điều trị hỗ trợ sinh sản. Đây được xem là "tiêu chuẩn vàng" để so sánh hiệu quả với các phác đồ khác, đặc biệt là trong kỹ thuật thụ tinh trong ống nghiệm (IVF).

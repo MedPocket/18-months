@@ -1,6 +1,6 @@
 ---
 title: Lạc nội mạc tử cung
-description: Lạc nội mạc tử cung là bệnh phụ khoa mạn tính, dễ tái phát, với sự hiện diện của mô tuyến và mô đệm giống nội mạc tử cung nằm ngoài buồng tử cung, thường ở phúc mạc, buồng trứng, hoặc xâm nhập sâu (adenomyosis).
+description: Tổng quan, chẩn đoán và điều trị lạc nội mạc tử cung.
 ---
 
 **Lạc nội mạc tử cung** là bệnh phụ khoa mãn tính, dễ tái phát, trong đó có sự hiện diện của mô giống mô tuyến ở nội mạc tử cung và mô đệm tùy hành nằm ngoài buồng tử cung.

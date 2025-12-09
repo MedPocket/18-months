@@ -1,6 +1,6 @@
 ---
 title: Ngôi, thế, kiểu thế
-description: Ngôi, thế, kiểu thế khi sinh.
+description: Đại cương về ngôi, thế và kiểu thế.
 ---
 
 **Ngôi, thế, kiểu thế** là cách mô tả tư thế và vị trí tương đối của phần thai sẽ đi qua đường sinh, dựa trên mối liên hệ giữa các mốc giải phẫu của thai nhi và khung chậu người mẹ.

@@ -1,6 +1,6 @@
 ---
 title: Xuất huyết tử cung sau 3 tháng giữa và 3 tháng cuối
-description: Xuất huyết âm đạo bất thường xuất hiện từ tuần 14 đến khi sinh, có thể là dấu hiệu của các biến chứng sản khoa đe dọa mẹ và thai nhi.
+description: Xuất huyết 3 tháng giữa và cuối thai kỳ.
 ---
 
 Xuất huyết âm đạo bất thường xuất hiện từ tuần 14 đến khi sinh, có thể là dấu hiệu của các biến chứng sản khoa đe dọa mẹ và thai nhi.

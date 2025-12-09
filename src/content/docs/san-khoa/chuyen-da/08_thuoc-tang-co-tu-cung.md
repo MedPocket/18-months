@@ -1,6 +1,6 @@
 ---
 title: Thuốc tăng co tử cung
-description: Thuốc tăng co tử cung cơ chế tác dụng, chỉ định, chống chỉ định, liều dùng và tác dụng phụ.
+description: Cơ chế và chỉ định thuốc tăng co tử cung.
 ---
 
 Có nhiều yếu tố ảnh hưởng đến đáp ứng co tử cung:

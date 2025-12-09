@@ -1,6 +1,6 @@
 ---
 title: Tăng huyết áp thai kỳ
-description: Cơ chế sinh bệnh, phân loại tăng huyết áp thai kỳ.
+description: Cơ chế và phân loại tăng huyết áp thai kỳ.
 ---
 
 Thai kỳ với tăng huyết áp là nhóm lớn các bệnh lý với bệnh sinh không thuần nhất, đòi hỏi các kế hoạch quản lý khác nhau.

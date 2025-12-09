@@ -1,6 +1,6 @@
 ---
 title: Suy giáp trong thai kỳ
-description: Ảnh hưởng của suy giáp đến mẹ và thai nhi, bao gồm cả chẩn đoán và hướng xử trí phù hợp.
+description: Quản lý suy giáp thai kỳ.
 ---
 
 Suy giáp trong thai kỳ là tình trạng tuyến giáp hoạt động kém, sản xuất không đủ hormone T₃ và T₄, ảnh hưởng nghiêm trọng đến sức khỏe của mẹ và sự phát triển trí não, thần kinh của thai nhi nếu không được chẩn đoán và điều trị đúng.

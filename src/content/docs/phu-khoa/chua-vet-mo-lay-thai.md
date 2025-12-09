@@ -1,6 +1,6 @@
 ---
 title: Chửa ở vết mổ lấy thai
-description: Chửa ở vết mổ lấy thai (còn gọi là thai làm tổ ở sẹo mổ lấy thai) là một dạng thai ngoài tử cung nguy hiểm, xảy ra khi túi thai bám và phát triển tại vị trí sẹo mổ cũ trên cơ tử cung.
+description: Tổng quan, chẩn đoán và xử trí thai bám sẹo mổ lấy thai.
 ---
 
 **Chửa ở vết mổ lấy thai** là một dạng thai ngoài tử cung hiếm gặp, trong đó túi thai làm tổ tại vị trí sẹo mổ cũ trên cơ tử cung (thường là sẹo do mổ lấy thai trước đó):

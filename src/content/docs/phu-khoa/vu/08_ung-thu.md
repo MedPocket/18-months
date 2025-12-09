@@ -1,6 +1,6 @@
 ---
 title: Ung thư vú
-description: Ung thư vú là một bệnh lý ác tính phát triển từ các tế bào vú, chiếm khoảng 18% trong tổng số bệnh nhân ung thư ở phụ nữ.
+description: Tổng quan ung thư vú.
 ---
 
 **Ung thư vú là bệnh lý ác tính** thường gặp nhất ở phụ nữ, chiếm khoảng 18% các trường hợp ung thư ở nữ giới, và là nguyên nhân gây tử vong hàng đầu trong độ tuổi từ 40-50. Tỷ lệ mắc ung thư vú đã gia tăng trong những thập kỷ gần đây, tuy nhiên nếu được phát hiện ở giai đoạn sớm, khả năng sống còn sau 5 năm có thể lên tới hơn 90%. Do đó, tầm soát ung thư vú giữ vai trò sống còn trong cải thiện kết quả điều trị.

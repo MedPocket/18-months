@@ -1,6 +1,6 @@
 ---
 title: hCG (human Chorionic Gonadotropin)
-description: human Chorionic Gonadotropin (hCG) nguồn gốc, cấu trúc, thụ thể, chuyển hóa, chức năng và động học.
+description: Tổng quan về hormone hCG.
 ---
 
 **hCG** là glycoprotein nặng 36-40 kDa, chứa tỉ lệ carbohydrate cao nhất trong các hormone người.

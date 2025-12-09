@@ -1,6 +1,6 @@
 ---
 title: Sa các tạng chậu
-description: Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP) là tình trạng tụt xuống của tử cung, bàng quang, trực tràng hoặc thành âm đạo ra khỏi vị trí giải phẫu bình thường do tổn thương và suy yếu hệ cân - cơ - dây chằng nâng đỡ sàn chậu.
+description: Tổng quan và chẩn đoán sa tạng chậu (POP).
 ---
 
 **Sa các tạng trong vùng chậu (Pelvic Organ Prolapse - POP)** là sự tụt xuống của tử cung, bàng quang, trực tràng, thành trước, thành sau âm đạo... ra khỏi vị trí giải phẫu bình thường, do tổn thương và suy yếu các cấu trúc cân - cơ - dây chằng nâng đỡ sàn chậu.

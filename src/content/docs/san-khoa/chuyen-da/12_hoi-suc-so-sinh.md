@@ -1,6 +1,6 @@
 ---
 title: Hồi sức sơ sinh
-description: Nguyên lý, đánh giá và quy trình hồi sức sơ sinh để thiết lập tuần hoàn và hô hấp chức năng.
+description: Quy trình hồi sức sơ sinh.
 ---
 
 Mục tiêu chính của hồi sức sơ sinh là giúp trẻ thiết lập **tuần hoàn phổi chức năng** và **hô hấp hiệu quả** ngay lập tức sau sinh, tránh ngạt kéo dài và tổn thương não.

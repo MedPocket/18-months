@@ -1,6 +1,6 @@
 ---
 title: Xuất huyết tử cung do cơ năng
-description: Cơ chế, nguyên nhân, cách tiếp cận chẩn đoán và xử trí tình trạng xuất huyết tử cung do rối loạn nội tiết, không do nguyên nhân thực thể hoặc thai kỳ.
+description: Tổng quan xuất huyết tử cung cơ năng.
 ---
 
 **Xuất huyết tử cung cơ năng** là kiểu xuất huyết tử cung bất thường gây ra do các cơ chế liên quan đến hoạt động nội tiết của buồng trứng hoặc do sử dụng nội tiết ngoại lai. Thuật ngữ này loại trừ tất cả các trường hợp xuất huyết tử cung có liên quan đến bệnh lý thực thể vùng chậu, bệnh lý nội khoa hoặc thai nghén.

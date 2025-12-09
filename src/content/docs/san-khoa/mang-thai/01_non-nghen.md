@@ -1,6 +1,6 @@
 ---
 title: Nôn nghén
-description: Đặc điểm nôn nghén trong thai kỳ.
+description: Chẩn đoán và điều trị nôn nghén.
 ---
 
 Nôn nghén (Nausea and Vomiting of Pregnancy - NVP) là tình trạng buồn nôn và/hoặc nôn mửa thường gặp trong thai kỳ, đặc biệt là trong 3 tháng đầu. Khoảng 70-80% phụ nữ mang thai gặp phải triệu chứng này. Phụ nữ thường bị ảnh hưởng thường trong khoảng từ 6-8 tuần đầu thai kỳ. Buồn nôn và nôn có xu hướng giảm dần sau tuần thứ 12 và hiếm khi kéo dài đến 3 tháng giữa thai kỳ. Chỉ có khoảng 0.3-2% phụ nữ mang thai sẽ tiếp tục phát triển và có thể gây mất nước, rối loạn điện giải, sụt cân nghiêm trọng để đảm bảo chẩn đoán chứng nghén nặng cần điều trị tại bệnh viện.

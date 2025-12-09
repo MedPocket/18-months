@@ -1,6 +1,6 @@
 ---
 title: Sảy thai
-description: Xủ trí sảy thai trong thực hành lâm sàng.
+description: Xử trí sảy thai.
 ---
 
 **Sảy thai** là hiện tượng thai nhi thoát khỏi tử cung trước khi sinh.

@@ -1,6 +1,6 @@
 ---
 title: HIV và thai kỳ
-description: HIV (Human Immunodeficiency Virus) là virus gây suy giảm miễn dịch, có thể lây truyền từ mẹ sang con qua nhau thai, khi sinh hoặc cho con bú.
+description: Quản lý HIV trong thai kỳ.
 ---
 
 **HIV (Human Immunodeficiency Virus)** là bệnh lây truyền chủ yếu qua đường tình dục, có thể truyền từ mẹ sang con trong quá trình mang thai, sinh nở hoặc cho con bú. Việc sàng lọc và điều trị ARV sớm trong thai kỳ rất quan trọng để giảm thiểu nguy cơ lây truyền virus cho thai nhi và duy trì sức khỏe của người mẹ.

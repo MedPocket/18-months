@@ -1,6 +1,6 @@
 ---
 title: Nhiễm khuẩn sơ sinh
-description: Định nghĩa, nguyên nhân, yếu tố nguy cơ, chẩn đoán và điều trị nhiễm khuẩn sơ sinh.
+description: Tổng quan nhiễm khuẩn sơ sinh.
 ---
 
 Nhiễm khuẩn sơ sinh (neonatal sepsis) là tình trạng nhiễm trùng toàn thân xảy ra ở trẻ trong vòng 28 ngày đầu sau sinh, có thể khởi phát sớm (trong 72 giờ đầu) hoặc muộn (sau 72 giờ). Đây là một trong những nguyên nhân hàng đầu gây tử vong sơ sinh.

@@ -1,6 +1,6 @@
 ---
 title: Sinh lý buồng trứng
-description: Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chiêu mộ nang, điều hòa qua AMH/PTEN-PI3K-Akt và hoạt động trục hạ đồi-yên-buồng trứng trong chu kỳ buồng trứng.
+description: Sinh lý phát triển nang noãn và chu kỳ buồng trứng.
 ---
 
 Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chiêu mộ nang, điều hòa qua AMH/PTEN-PI3K-Akt và hoạt động trục hạ đồi-yên-buồng trứng trong chu kỳ buồng trứng.

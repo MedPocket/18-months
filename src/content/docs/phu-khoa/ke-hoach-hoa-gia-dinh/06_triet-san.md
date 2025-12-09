@@ -1,6 +1,6 @@
 ---
 title: Triệt sản
-description: Đặc điểm và hướng dẫn áp dụng phương pháp triệt sản nam (thắt ống dẫn tinh) và triệt sản nữ (thắt, cắt ống dẫn trứng).
+description: Các phương pháp triệt sản nam và nữ.
 ---
 
 Các phương pháp phổ biến gồm triệt sản nam và triệt sản nữ.

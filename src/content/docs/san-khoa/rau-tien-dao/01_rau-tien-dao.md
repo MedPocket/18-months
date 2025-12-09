@@ -1,6 +1,6 @@
 ---
 title: Rau tiền đạo
-description: Rau tiền đạo (Placenta previa) là tình trạng bánh rau bám thấp che hoặc đến lỗ trong cổ tử cung, gặp khoảng 0.5-1% các thai kỳ, có nguy cơ cao chảy máu, sinh non, truyền máu và mổ cắt tử cung do băng huyết
+description: Tổng quan chẩn đoán và điều trị rau tiền đạo.
 ---
 
 **Rau tiền đạo** là khi bánh rau bám ở đoạn dưới tử cung thay vì bám ở thân tử cung bình thường, với bờ mép bánh rau cách hoặc che kín lỗ trong cổ tử cung.

@@ -1,6 +1,6 @@
 ---
 title: Thai trứng
-description: Thai trứng (Hydatidiform mole) là một dạng bệnh lý nguyên bào nuôi thai kỳ, đặc trưng bởi sự tăng sinh bất thường của các gai rau (nhau) với biến đổi nang nước, không có hoặc chỉ có phôi thai thoái hóa.
+description: Thai trứng: Định nghĩa, đặc điểm và chẩn đoán.
 ---
 
 **Thai trứng** là tình trạng gặp trong 1/200-1/1000 ca thai nghén, do bất thường thụ tinh dẫn đến tăng sinh quá mức tế bào nguyên bào nuôi, hình thành các túi nang nước hình chùm nho. Mặc dù phần lớn là lành tính, thai trứng toàn phần có nguy cơ cao tiến triển thành u nguyên bào nuôi (khoảng 5-15%), trong khi thai trứng bán phần tiến triển ít hơn (1-5%).

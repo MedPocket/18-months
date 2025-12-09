@@ -1,6 +1,6 @@
 ---
 title: Viêm âm đạo nhiễm khuẩn
-description: Viêm âm đạo nhiễm khuẩn (hay loạn khuẩn âm đạo) là tình trạng rối loạn cân bằng hệ vi sinh vật tại âm đạo, dẫn đến giảm Lactobacilli bảo vệ và gia tăng hệ vi khuẩn yếm khí. Bệnh thường gây tiết dịch nhiều, có mùi hôi "cá thối" và có thể liên quan đến nhiều biến chứng sản phụ khoa nếu không được điều trị kịp thời.
+description: Chẩn đoán và điều trị viêm âm đạo nhiễm khuẩn.
 ---
 
 Nhiễm khuẩn âm đạo (loạn khuẩn âm đạo) là hội chứng do rối loạn cân bằng vi sinh vật ở âm đạo: Giảm sút tỉ lệ _Lactobacilli_ và gia tăng vi khuẩn yếm khí, tạo điều kiện cho nhiều vi sinh vật gây bệnh phát triển quá mức.

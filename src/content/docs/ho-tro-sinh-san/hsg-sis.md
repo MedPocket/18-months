@@ -1,6 +1,6 @@
 ---
 title: Khảo sát tử cung vòi trứng
-description: Hiểu về chụp X-quang tử cung - vòi trứng với thuốc cản quan (HSG) và siêu âm bơm nước buồng tử cung-vòi trứng (SIS/HyCoSy).
+description: Tổng quan phương pháp HSG và SIS trong chẩn đoán vô sinh.
 ---
 
 Hiểu về chụp X-quang tử cung - vòi trứng (HSG - Hysterosalpingography) và siêu âm bơm nước buồng tử cung - vòi trứng (SIS/HyCoSy - Saline Infusion Sonohysterography/Hysterosalpingo-Contrast Sonography) trong đánh giá vô sinh - hiếm muộn.

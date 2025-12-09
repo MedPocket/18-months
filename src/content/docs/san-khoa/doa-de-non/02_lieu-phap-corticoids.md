@@ -1,6 +1,6 @@
 ---
 title: Liệu pháp corticoids dự phòng sinh non
-description: Sử dụng corticosteroids trước sinh nhằm thúc đẩy trưởng thành phổi và các hệ cơ quan khác của thai nhi khi có nguy cơ sinh non, giảm đáng kể tỷ lệ hội chứng suy hô hấp (RDS), xuất huyết nội sọ, hoại tử ruột và tử vong chu sinh.
+description: Liệu pháp Corticosteroids trong dọa đẻ non.
 ---
 
 Corticosteroids (betamethasone hoặc dexamethasone) kích thích biểu hiện gen tổng hợp surfactant trong các tế bào tiểu phế quản của phổi thai nhi, giảm sức căng bề mặt phế nang, ngăn ngừa xẹp phổi và giảm nguy cơ hội chứng suy hô hấp (RDS) ở trẻ sinh non. Ngoài phổi, corticoids còn tăng trưởng thành mạch máu não, chuyển hóa ruột, và trưởng thành hệ miễn dịch.

@@ -1,6 +1,6 @@
 ---
 title: Bệnh lý lành tính tuyến vú
-description: Bệnh lý lành tính thường gặp ở tuyến vú, phân loại theo lâm sàng và mô học, bao gồm bướu sợi-tuyến, bướu diệp thể, bướu nhú, nang vú, hamartoma, bệnh Mondor, u mỡ, tuyến vú phụ và bệnh vú thay đổi sợi bọc.
+description: Tổng quan bệnh lý lành tính tuyến vú.
 ---
 
 Bệnh lý lành tính tuyến vú rất đa dạng, thường ít nguy hiểm nhưng có thể gây lo lắng cho người bệnh do sờ thấy khối hoặc có triệu chứng tiết dịch.

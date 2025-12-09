@@ -1,6 +1,6 @@
 ---
 title: Viêm lộ tuyến cổ tử cung
-description: Lộ tuyến cổ tử cung (endocervical ectropion) là hiện tượng biểu mô trụ của kênh cổ tử cung bị lộ ra bề mặt ngoài cổ tử cung, nơi bình thường được phủ bởi biểu mô lát tầng không sừng hóa.
+description: Tổng quan và điều trị lộ tuyến cổ tử cung.
 ---
 
 **Lộ tuyến cổ tử cung (endocervical ectropion)** là hiện tượng biểu mô trụ nằm ở trong kênh cổ tử cung bị lộn ra trên cổ ngoài cổ tử cung. Biểu mô trụ này có khả năng tiết nhầy mạnh, màu đỏ, dễ chảy máu khi chạm vào và dễ bội nhiễm, do đó khi có viêm nhiễm sẽ hình thành viêm lộ tuyến với triệu chứng khí hư bất thường, có mùi hôi, đau rát khi quan hệ và chảy máu sau giao hợp.

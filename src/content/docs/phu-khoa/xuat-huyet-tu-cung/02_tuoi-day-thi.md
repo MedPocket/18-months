@@ -1,6 +1,6 @@
 ---
 title: Xuất huyết tử cung bất thường tuổi dậy thì
-description: Các đặc điểm sinh lý của hệ trục hạ đồi-tuyến yên-buồng trứng ở tuổi dậy thì và cách nhận biết, đánh giá, chẩn đoán cũng như xử trí tình trạng xuất huyết tử cung cơ năng ở bé gái giai đoạn dậy thì, không do nguyên nhân thực thể hoặc thai nghén.
+description: Xuất huyết tử cung bất thường tuổi dậy thì.
 ---
 
 Tuổi dậy thì ở bé gái là tiến trình chuyển hóa sinh lý quan trọng, chuyển đổi từ cá thể chưa trưởng thành trở thành người phụ nữ có khả năng sinh sản. Quá trình này thường bắt đầu khi bé gái khoảng 8-10 tuổi và kết thúc khi hệ trục hạ đồi-tuyến yên-buồng trứng ổn định, với kinh nguyệt đều đặn.

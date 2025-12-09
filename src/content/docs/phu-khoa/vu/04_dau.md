@@ -1,6 +1,6 @@
 ---
 title: Đau vú
-description: Đau vú (mastalgia) là triệu chứng phổ biến khiến phụ nữ đến khám, với nhiều nguyên nhân và mức độ khác nhau. Tài liệu này tổng hợp phân loại, cơ chế, chẩn đoán hình ảnh, cũng như các phương pháp điều trị và quản lý đau vú.
+description: Tổng quan, chẩn đoán và điều trị đau vú.
 ---
 
 **Đau vú (mastalgia)** là triệu chứng thường gặp và là nguyên nhân chính khiến phụ nữ tìm đến khám tuyến vú.

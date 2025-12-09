@@ -1,6 +1,6 @@
 ---
 title: Thai lưu
-description: Nguyên nhân, yếu tố nguy cơ, chẩn đoán, giải phẫu bệnh, biến chứng và xử trí thai lưu.
+description: Tổng quan về thai lưu.
 ---
 
 Thai lưu là tình trạng thai chết trong tử cung sau tuần thứ 20 của thai kỳ (theo một số tài liệu có thể là sau tuần thứ 22 hoặc khi thai ≥ 500g) nhưng chưa được sổ ra ngoài. Đây là biến cố sản khoa nghiêm trọng, ảnh hưởng đến sức khỏe thể chất và tinh thần của thai phụ.

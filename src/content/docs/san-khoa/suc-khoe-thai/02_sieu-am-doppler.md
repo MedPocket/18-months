@@ -1,6 +1,6 @@
 ---
 title: Siêu âm Doppler
-description: Siêu âm Doppler khảo sát các dòng chảy mạch máu thai và ý nghĩa lâm sàng.
+description: Siêu âm Doppler trong đánh giá sức khỏe thai.
 ---
 
 Trong sản khoa, khảo sát động học dòng chảy trong các mạch máu cho phép có ý niệm về trở kháng của các mạch máu được khảo sát, thông qua việc khảo sát tốc độ dòng chảy. Các trở kháng được thể hiện bằng nhiều cách. Phổ biến nhất là thể hiện bằng chỉ số kháng trở hoặc chỉ số Pourcelot. Khi đánh giá trở kháng, người ta thường dựa vào các chỉ số trở kháng được xác định theo các bách phân vị và so sánh với trở kháng của các mạch máu tương ứng khác. Các chỉ số thông dụng gồm:

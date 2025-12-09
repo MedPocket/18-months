@@ -1,6 +1,6 @@
 ---
 title: Tắc tia sữa sau sinh
-description: Tắc tia sữa sau sinh - nguyên nhân, điều trị.
+description: Chẩn đoán và điều trị tắc tia sữa.
 ---
 
 **Tắc tia sữa** là tình trạng sữa ứ đọng trong các ống dẫn sữa, gây sưng, đau và có thể dẫn đến viêm vú nếu không xử lý kịp thời. Tình trạng này thường gặp trong giai đoạn cho con bú, nhất là khi bé bú không hết hoặc vắt sữa không triệt để.

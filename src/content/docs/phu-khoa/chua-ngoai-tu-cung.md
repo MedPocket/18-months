@@ -1,6 +1,6 @@
 ---
 title: Chửa ngoài tử cung
-description: Chửa ngoài tử cung là tình trạng trứng đã thụ tinh làm tổ và phát triển bên ngoài buồng tử cung, thường gặp nhất ở ống dẫn trứng. Đây là một tình trạng nguy hiểm có thể đe dọa tính mạng nếu không được phát hiện và điều trị kịp thời.
+description: Tổng quan, chẩn đoán và điều trị chửa ngoài tử cung.
 ---
 
 **Chửa ngoài tử cung (CNTC)** là hiện tượng trứng đã thụ tinh không làm tổ trong buồng tử cung mà phát triển ở vị trí bất thường, phổ biến nhất là ở ống dẫn trứng. Đây là một cấp cứu sản khoa cần được phát hiện sớm để tránh nguy cơ vỡ khối thai, xuất huyết trong ổ bụng và ảnh hưởng đến khả năng sinh sản.

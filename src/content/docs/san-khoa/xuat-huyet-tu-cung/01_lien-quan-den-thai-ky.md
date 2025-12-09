@@ -1,6 +1,6 @@
 ---
 title: Xuất huyết tử cung liên quan thai kỳ
-description: Xuất huyết âm đạo bất thường xuất hiện trong suốt thai kỳ, có thể là dấu hiệu sinh lý hoặc cảnh báo các tình trạng sản khoa từ lành tính đến nguy hiểm.
+description: Tổng quan xuất huyết trong thai kỳ.
 ---
 
 Xuất huyết âm đạo ở phụ nữ mang thai (xuất huyết tử cung liên quan thai kỳ) khá thường gặp, với tỷ lệ khoảng 20-30% trong 3 tháng đầu và khoảng 5-10% trong giai đoạn sau đó. Hầu hết nguồn gốc máu là từ mẹ (niêm mạc tử cung, cổ tử cung, âm đạo) hơn là từ thai. Dựa vào tuổi thai và cơ chế bệnh sinh, chúng ta chia làm hai nhóm chính:

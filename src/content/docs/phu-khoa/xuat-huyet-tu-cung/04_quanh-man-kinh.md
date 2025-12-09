@@ -1,6 +1,6 @@
 ---
 title: Xuất huyết tử cung bất thường quanh mãn kinh
-description: Sinh lý và cận lâm sàng của giai đoạn quanh mãn kinh, các nguyên nhân cơ năng và thực thể gây xuất huyết tử cung bất thường, hướng tiếp cận chẩn đoán và các lựa chọn xử trí cho phụ nữ tuổi quanh mãn kinh.
+description: Xuất huyết tử cung bất thường quanh mãn kinh.
 ---
 
 **Xuất huyết tử cung bất thường ở độ tuổi quanh mãn kinh** có thể là xuất huyết cơ năng nhưng cũng có thể xuất phát từ các nguyên nhân thực thể hoặc biểu hiện của tình trạng ác tính. Việc đánh giá kịp thời và chính xác giúp loại trừ ung thư hoặc tăng sinh nội mạc tử cung, đồng thời giảm lo lắng cho người bệnh và có hướng điều trị phù hợp.

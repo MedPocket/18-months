@@ -1,6 +1,6 @@
 ---
 title: Antiphospholipid Syndrome và Inherited Thrombophilia
-description: Quản lý hội chứng kháng phospholipid và Hội chứng tăng đông di truyền trong thai kỳ để phòng ngừa huyết khối và biến chứng sản khoa.
+description: Hội chứng kháng phospholipid và tăng đông trong thai kỳ.
 ---
 
 **Hội chứng kháng phospholipid (Antiphospholipid Syndrome - APS)** ở phụ nữ mang thai đặc trưng bởi nguy cơ **huyết khối tĩnh - động mạch** và **biến chứng thai kỳ** cao (sảy thai tái diễn, thai lưu, tiền sản giật, hạn chế tăng trưởng thai).

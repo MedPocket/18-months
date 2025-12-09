@@ -1,6 +1,6 @@
 ---
 title: Quá kích buồng trứng
-description: Tổng quan về hội chứng quá kích buồng trứng (OHSS) chẩn đoán, điều trị.
+description: Chẩn đoán và điều trị hội chứng quá kích buồng trứng (OHSS).
 ---
 
 Hội chứng quá kích buồng trứng (Ovarian Hyperstimulation syndrome - OHSS) là biến chứng có thể gặp trong quá trình sử dụng thuốc kích thích buồng trứng, đặc trưng bởi tình trạng **tăng tính thấm thành mạch**, dẫn đến **tràn dịch đa màng, giảm albumin máu và giảm thể tích tuần hoàn.**

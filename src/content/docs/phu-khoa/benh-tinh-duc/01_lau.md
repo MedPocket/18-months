@@ -1,6 +1,6 @@
 ---
 title: Lậu
-description: Bệnh lậu (Gonorrhea) là nhiễm khuẩn lây truyền qua đường tình dục do song cầu khuẩn Gram âm Neisseria gonorrhoeae gây ra.
+description: Tổng quan, chẩn đoán và điều trị bệnh lậu.
 ---
 
 Bệnh lậu là bệnh lây truyền qua đường tình dục do song cầu khuẩn Gram âm _Neisseria gonorrhoeae_ gây ra. Vi khuẩn này chủ yếu lây qua quan hệ tình dục đường âm đạo, đường miệng hoặc đường hậu môn. Mức độ kháng thuốc của _N. gonorrhoeae_ đang ngày càng gia tăng, khiến việc chẩn đoán, điều trị và phòng ngừa trở nên thách thức hơn.

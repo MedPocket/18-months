@@ -1,6 +1,6 @@
 ---
 title: Cử động thai
-description: Ý nghĩa, cách thực hiện và quản lý khi đếm cử động thai.
+description: Hướng dẫn theo dõi cử động thai.
 ---
 
 Đếm cử động thai là ý tưởng khá hấp dẫn vì phương pháp này luôn có thể thực hiện ở mọi thai phụ và không tốn kém tiền bạc.

@@ -1,6 +1,6 @@
 ---
 title: Giảm đau
-description: Sử dụng các thuốc giảm đau trong thai kỳ.
+description: Sử dụng thuốc giảm đau trong thai kỳ.
 ---
 
 Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữa lợi ích và nguy cơ**, tùy vào loại thuốc, liều lượng, thời điểm của thai kỳ và tình trạng lâm sàng của sản phụ.

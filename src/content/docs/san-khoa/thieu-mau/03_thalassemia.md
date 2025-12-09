@@ -1,6 +1,6 @@
 ---
 title: Thalassemia trong thai kỳ
-description: Thalassemia - bệnh hemoglobin di truyền gây thiếu máu, bao gồm nguyên nhân, phân loại, biểu hiện lâm sàng, chẩn đoán tiền sản và quản lý thai kỳ.
+description: Thalassemia trong thai kỳ.
 ---
 
 **Thalassemia** là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọc chuỗi globin trong phân tử hemoglobin. Đây là bệnh di truyền đơn gen, lặn trên nhiễm sắc thể thường theo quy luật Mendel. Ở Việt Nam hiện có khoảng 1700 trẻ sinh ra mỗi năm mắc Thalassemia. Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, tan huyết và gây thiếu máu mạn tính. Mức độ nặng hay nhẹ phụ thuộc vào loại và số lượng gen bị tổn thương.

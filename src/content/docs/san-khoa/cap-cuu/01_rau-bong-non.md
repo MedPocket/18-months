@@ -1,6 +1,6 @@
 ---
 title: Rau bong non
-description: Rau bong non là tình trạng rau bám đúng vị trí nhưng bong sớm trước khi thai sổ, gây nguy cơ cao cho mẹ và thai nhi.
+description: Tổng quan chẩn đoán và xử trí rau bong non.
 ---
 
 **Rau bong non** được định nghĩa là trường hợp rau bám đúng vị trí nhưng bị bong sớm trước khi thai sổ ra ngoài.

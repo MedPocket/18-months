@@ -1,6 +1,6 @@
 ---
 title: Kháng sinh
-description: Phân loại mức độ an toàn của kháng sinh trên phụ nữ có thai.
+description: Sử dụng kháng sinh an toàn trong thai kỳ.
 ---
 
 Kháng sinh cho phụ nữ có thai được phân loại an toàn như sau:

@@ -1,6 +1,6 @@
 ---
 title: U xơ tử cung
-description: Tổng quan về u xơ cơ tử cung (leiomyoma) bệnh học, phân loại, chẩn đoán và điều trị nội - ngoại khoa.
+description: Tổng quan u xơ cơ tử cung.
 ---
 
 **U xơ cơ tử cung (leiomyoma)** là khối u lành tính của cơ trơn và mô liên kết tử cung, phụ thuộc estrogen-progesterone để phát triển.

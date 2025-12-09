@@ -1,6 +1,6 @@
 ---
 title: Đẻ thường ngôi chỏm
-description: Đặc điểm ẻ thường ngôi chỏm.
+description: Cơ chế đẻ thường ngôi chỏm.
 ---
 
 Ngôi chỏm là ngôi thai mà trong đa số các trường hợp có thể sinh qua đường âm đạo.

@@ -1,6 +1,6 @@
 ---
 title: Viêm âm đạo do thiếu nội tiết
-description: Viêm âm đạo do thiếu nội tiết (atrophic vaginitis) là tình trạng thường gặp ở phụ nữ mãn kinh hoặc sau cắt buồng trứng khi giảm nồng độ estrogen dẫn đến teo niêm mạc âm đạo.
+description: Chẩn đoán và điều trị viêm âm đạo do thiếu nội tiết.
 ---
 
 Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt buồng trứng), niêm mạc âm đạo mất dần lớp biểu mô bề mặt và trung gian, trở nên mỏng, giảm glycogen, mất tính đàn hồi và khả năng giữ ẩm. Môi trường âm đạo trở nên ít acid, pH tăng, làm giảm _Lactobacilli_, tạo điều kiện cho vi khuẩn xâm nhập và gây viêm.

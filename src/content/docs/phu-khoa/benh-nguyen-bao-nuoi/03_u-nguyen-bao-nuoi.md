@@ -1,6 +1,6 @@
 ---
 title: U nguyên bào nuôi
-description: U nguyên bào nuôi (Gestational Trophoblastic Neoplasia - GTN) là tình trạng tăng sinh ác tính của tế bào nguyên bào nuôi phát sinh sau các biến cố thai kỳ, bao gồm thai trứng, thai lưu, sảy thai, thai đủ tháng hoặc thai ngoài tử cung.
+description: Tổng quan về u nguyên bào nuôi (GTN).
 ---
 
 Xuất hiện sau thai trứng (60%); Thai lưu/sảy thai (30%); Thai đủ tháng hoặc thai ngoài tử cung (10%). Thường khởi đầu bằng xuất huyết âm đạo kéo dài, có thể kèm đau vùng hạ vị hoặc dấu hiệu di căn.

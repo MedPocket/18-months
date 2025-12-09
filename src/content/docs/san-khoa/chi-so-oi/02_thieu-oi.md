@@ -1,6 +1,6 @@
 ---
 title: Thiểu ối
-description: Thiểu ối là tình trạng lượng dịch ối giảm xuống dưới mức bình thường theo tuổi thai, có thể gây nguy cơ tiềm ẩn cho thai nhi và mẹ.
+description: Tổng quan chẩn đoán và xử trí thiểu ối.
 ---
 
 Thiểu ối là tình trạng dịch ối ít hơn so với tuổi thai tương ứng và được chẩn đoán qua siêu âm.

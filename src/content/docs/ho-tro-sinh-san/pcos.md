@@ -1,6 +1,6 @@
 ---
 title: Buồng trứng đa nang
-description: Tổng quan về hội chứng buồng trứng đa nang (PCOS) định nghĩa, chẩn đoán, cơ chế bệnh sinh và chiến lược điều trị.
+description: Tổng quan chẩn đoán và điều trị hội chứng buồng trứng đa nang (PCOS).
 ---
 
 **Hội chứng buồng trứng đa nang (PCOS - Polycystic Ovary Syndrome)** là rối loạn nội tiết-chuyển hóa thường gặp (5-10% phụ nữ trong độ tuổi sinh sản) với 3 dấu ấn chính:

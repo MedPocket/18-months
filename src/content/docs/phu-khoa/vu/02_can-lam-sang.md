@@ -1,6 +1,6 @@
 ---
 title: Cận lâm sàng tuyến vú
-description: Mô tả các phương tiện chẩn đoán hình ảnh và xâm lấn thường dùng để đánh giá tổn thương tuyến vú, bao gồm nhũ ảnh, siêu âm, MRI, các kỹ thuật lấy mẫu tế bào và mô (FNA, core biopsy, open biopsy) cũng như xét nghiệm đột biến gene BRCA.
+description: Các phương tiện chẩn đoán bệnh lý tuyến vú.
 ---
 
 **Tuyến vú có thể được khảo sát bằng nhiều phương tiện cận lâm sàng chuyên sâu.** Mỗi phương pháp có ưu - nhược điểm riêng, cho phép:

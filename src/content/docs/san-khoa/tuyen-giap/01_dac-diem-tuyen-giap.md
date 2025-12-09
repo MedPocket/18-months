@@ -1,6 +1,6 @@
 ---
 title: Đặc điểm tuyến giáp và thai kỳ
-description: Những thay đổi sinh lý tuyến giáp trong thai kỳ.
+description: Thay đổi sinh lý tuyến giáp khi mang thai.
 ---
 
 Trong thai kỳ, chức năng tuyến giáp của mẹ bị thay đổi đáng kể do sự thay đổi nội tiết và chuyển hóa. Những thay đổi này có thể ảnh hưởng đến sức khỏe của cả mẹ và thai nhi nếu không được phát hiện và xử lý kịp thời.

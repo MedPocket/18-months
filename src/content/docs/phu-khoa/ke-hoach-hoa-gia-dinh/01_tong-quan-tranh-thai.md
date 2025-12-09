@@ -1,6 +1,6 @@
 ---
 title: Tổng quan về tránh thai
-description: Tổng quan về hiệu quả, độ an toàn, tính kinh tế và khả năng chấp nhận của các phương pháp tránh thai.
+description: Tổng quan các phương pháp tránh thai.
 ---
 
 Có nhiều phương pháp tránh thai, hoạt động dựa trên những nguyên lý và cơ chế khác nhau.

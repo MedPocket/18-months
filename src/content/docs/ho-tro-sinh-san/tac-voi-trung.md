@@ -1,6 +1,6 @@
 ---
 title: Tổn thương ống dẫn trứng
-description: Tổn thương ống dẫn trứng là tình trạng vòi tử cung bị bít tắc một phần hoặc toàn bộ, gây cản trở quá trình thụ tinh và vận chuyển phôi, là nguyên nhân thường gặp của vô sinh nữ.
+description: Nguyên nhân, chẩn đoán và điều trị tắc vòi trứng.
 ---
 
 Tổn thương ống dẫn trứng là một trong những nguyên nhân phổ biến nhất của vô sinh ở nữ giới, chiếm khoảng 25-35% các trường hợp. Vòi tử cung đóng vai trò quan trọng trong việc tiếp nhận noãn, là nơi thụ tinh và vận chuyển phôi vào buồng tử cung. Khi vòi bị tắc, quá trình thụ tinh và làm tổ bị cản trở, đồng thời làm tăng nguy cơ chửa ngoài tử cung.

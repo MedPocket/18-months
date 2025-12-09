@@ -1,6 +1,6 @@
 ---
 title: Kháng histamin
-description: Hướng dẫn sử dụng kháng histamin trong thai kỳ.
+description: Sử dụng kháng histamin trong thai kỳ.
 ---
 
 **Kháng histamin** thường được dùng để điều trị dị ứng (viêm mũi dị ứng, mày đay, ngứa) nhưng trong thai kỳ cần thận trọng vì có thể ảnh hưởng đến sự phát triển của thai nhi. Không phải tất cả kháng histamin đều an toàn cho phụ nữ mang thai; Việc lựa chọn và liều dùng phải do bác sĩ chỉ định.

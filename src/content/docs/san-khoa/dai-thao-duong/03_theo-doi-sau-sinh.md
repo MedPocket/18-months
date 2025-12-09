@@ -1,6 +1,6 @@
 ---
 title: Theo dõi sau sinh ở phụ nữ đái tháo đường thai kỳ
-description: Đánh giá và chăm sóc mẹ và bé trong giai đoạn sau sinh ở phụ nữ từng bị đái tháo đường thai kỳ.
+description: Theo dõi và chăm sóc sau sinh ở bệnh nhân đái tháo đường.
 ---
 
 Quy trình chăm sóc và theo dõi sức khỏe mẹ - con ngay sau sinh và trong những tuần đầu tiên, nhằm phát hiện sớm rối loạn chuyển hóa đường, giảm thiểu biến chứng và phòng ngừa chuyển sang đái tháo đường type 2 sau này.

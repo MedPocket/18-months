@@ -1,6 +1,6 @@
 ---
 title: Tiết dịch núm vú
-description: Nguyên nhân, phân loại và cách xử trí tiết dịch núm vú, bao gồm tiết sữa sinh lý và tiết dịch bệnh lý cần lưu ý.
+description: Chẩn đoán và xử trí tiết dịch núm vú.
 ---
 
 Tiết dịch núm vú (nipple discharge) là hiện tượng có dịch chảy ra từ một hoặc cả hai núm vú. Phần lớn nguyên nhân gây tiết dịch núm vú là lành tính, nhưng cần phân biệt kỹ để không bỏ sót các tổn thương ác tính. Dịch tiết có thể đa dạng về màu sắc (trắng như sữa, vàng, máu, nâu, đục, mủ), số lượng, tính chất, và mức độ liên quan đến kích thích hay chủ động tự phát.
