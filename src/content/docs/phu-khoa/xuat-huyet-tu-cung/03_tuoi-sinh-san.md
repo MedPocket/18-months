@@ -41,7 +41,7 @@ _Bảng "Phân loại COEIN"_.
 |                           | Nguyên nhân không thuộc cấu trúc (COEIN)                                                |
 | ------------------------- | --------------------------------------------------------------------------------------- |
 | **C**oagulopathy          | Rối loạn đông máu (di truyền hoặc mắc phải)                                             |
-| **O**vulatory Dysfunction | Rối loạn phóng noãn (ví dụ: hội chứng buồng trứng đa nang - PCOS, thiếu hụt nội tiết) |
+| **O**vulatory Dysfunction | Rối loạn phóng noãn (ví dụ: hội chứng buồng trứng đa nang - PCOS, thiếu hụt nội tiết)   |
 | **E**ndometrial           | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: Bất thường mạch máu nội mạc)                |
 | **I**atrogenic            | Do thuốc hoặc các thủ thuật y tế (thuốc kháng đông, dụng cụ tử cung, thuốc nội tiết...) |
 | **N**ot yet classified    | Nguyên nhân chưa rõ hoặc chưa phân loại được                                            |
