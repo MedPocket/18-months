@@ -30,7 +30,7 @@ Giới hạn tuổi thai không hoàn toàn thống nhất trên thế giới:
 | Sẩy thai hoàn toàn       | Ra huyết âm đạo, cổ tử cung mở, đau bụng. Buồng tử cung sạch.                                              |
 | Sẩy thai lưu             | Kèm dấu hiệu phôi thai không tim thai.                                                                     |
 | Sẩy thai nhiễm trùng     | Kèm hội chứng nhiễm trùng.                                                                                 |
-| Sẩy thai liên tiếp       | ≥ 2 lần (ACOG) hay ≥ 3 (RCOG) lần sẩy thai liên tiếp.                                                        |
+| Sẩy thai liên tiếp       | ≥ 2 lần (ACOG) hay ≥ 3 (RCOG) lần sẩy thai liên tiếp.                                                      |
 
 ## Điều trị
 

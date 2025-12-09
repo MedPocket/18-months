@@ -51,10 +51,10 @@ _Bảng "Kháng thể kháng phospholipid"_.
 
 | Xét nghiệm       | Kết quả | Ngưỡng bình thường | Ý nghĩa                        |
 | ---------------- | ------- | ------------------ | ------------------------------ |
-| aCL IgG          | 45 GPL  | < 20 GPL            | Dương tính, mức trung bình-cao |
-| aCL IgM          | 10 MPL  | < 20 MPL            | Âm tính                        |
-| anti-β2GPI IgG   | 30 SGU  | < 20 SGU            | Dương tính                     |
-| LA (dRVVT ratio) | 1.35    | < 1.20              | Dương tính nhẹ                 |
+| aCL IgG          | 45 GPL  | < 20 GPL           | Dương tính, mức trung bình-cao |
+| aCL IgM          | 10 MPL  | < 20 MPL           | Âm tính                        |
+| anti-β2GPI IgG   | 30 SGU  | < 20 SGU           | Dương tính                     |
+| LA (dRVVT ratio) | 1.35    | < 1.20             | Dương tính nhẹ                 |
 
 ### Hội chứng tăng đông di truyền
 
