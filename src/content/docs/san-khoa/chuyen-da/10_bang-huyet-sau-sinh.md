@@ -88,8 +88,8 @@ Mất máu cấp → giảm thể tích tuần hoàn → choáng giảm thể t�
 - **Sót rau:** Lấy rau sót, hút nạo buồng tử cung.
 - **Lộn tử cung:** Trả tử cung, gây mềm cơ tử cung, phẫu thuật nếu cần.
 
-_Lộn tử cung và kỹ thuật đưa tử cung về bình thường_.
 ![Lộn tử cung và kỹ thuật đưa tử cung về bình thường](./_images/bang-huyet-sau-sinh/lon-tu-cung-va-ky-thuat-dua-tu-cung-ve-binh-thuong.png)
+_Hình ảnh "Lộn tử cung và kỹ thuật đưa tử cung về bình thường"_.
 
 ## Phòng ngừa
 

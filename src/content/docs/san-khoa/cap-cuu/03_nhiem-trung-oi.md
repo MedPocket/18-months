@@ -133,8 +133,8 @@ Vancomycin chỉ dùng khi:
 
 - Dùng thuốc hạ sốt theo chỉ định để giảm khó chịu cho mẹ và nguy cơ cho thai.
 
-_Hình ảnh "Lưu đồ xử trí nhiễm trùng ối - Bệnh viện Từ Dũ"_.
 ![Lưu đồ xử trí nhiễm trùng ối - Bệnh viện Từ Dũ](./_images/nhiem-trung-oi/luu-do-chan-doan-va-xu-tri-nhiem-trung-oi.jpg)
+_Hình ảnh "Lưu đồ xử trí nhiễm trùng ối - Bệnh viện Từ Dũ"_.
 
 ## Tài liệu tham khảo
 

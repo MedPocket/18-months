@@ -13,8 +13,8 @@ description: Sử dụng giảm đau trong chuyển dạ.
 
 ## Yếu tố ảnh hưởng
 
-_Hình ảnh "Các yếu tố ảnh hưởng đến đau trong chuyển dạ"_.
 ![Các yếu tố ảnh hưởng đến đau trong chuyển dạ](./_images/giam-dau-trong-chuyen-da/yeu-to-anh-huong-den-dau-trong-chuyen-da.png)
+_Hình ảnh "Các yếu tố ảnh hưởng đến đau trong chuyển dạ"_.
 
 - **Tăng endorphin trong thai kỳ:** Mang thai làm tăng ngưỡng chịu đau, một phần do nồng độ endorphin huyết tương tăng cao. Tác dụng này bị đảo ngược khi sử dụng thuốc đối kháng opioid như naltrexone. Nồng độ chất P giảm và tác động điều hòa của progesterone lên chất dẫn truyền thần kinh cũng góp phần vào thay đổi cảm nhận đau. Lâm sàng ghi nhận phụ nữ mang thai cần lượng thuốc tê ít hơn khoảng 30% để đạt hiệu quả khi gây tê ngoài màng cứng.
 - **Tăng nhạy cảm với thuốc tê và thuốc mê:** Thai kỳ làm tăng độ nhạy cảm với gây mê và gây tê vùng, có thể do tác dụng của progesterone lên tính thấm của màng tế bào hoặc gián tiếp qua chất dẫn truyền thần kinh.
@@ -27,8 +27,8 @@ _Hình ảnh "Các yếu tố ảnh hưởng đến đau trong chuyển dạ"_.
 
 Đau trong chuyển dạ **không có lợi ích sinh lý thiết yếu và không nên bị coi là "cần thiết".** Giảm đau hiệu quả không những nâng cao trải nghiệm sinh đẻ mà còn có thể cải thiện kết cục sản khoa. Tuy nhiên, một số người vẫn tin rằng chịu đựng đau sẽ giúp sinh nở tốt hơn hoặc sợ rằng giảm đau sẽ làm chậm chuyển dạ — những điều này chưa có bằng chứng rõ ràng.
 
-_Hình ảnh "Các phương pháp có thể dùng để giảm đau trong chuyển dạ"_.
 ![Các phương pháp có thể dùng để giảm đau trong chuyển dạ](./_images/giam-dau-trong-chuyen-da/cac-phuong-phap-gay-te.png)
+_Hình ảnh "Các phương pháp có thể dùng để giảm đau trong chuyển dạ"_.
 
 ## Gây tê ngoài màng cứng
 
@@ -41,8 +41,8 @@ Tê ngoài màng cứng là phương pháp phổ biến trong giảm đau sản 
 - Khởi phát phong bế chậm giúp giảm nguy cơ hạ huyết áp đột ngột.
 - Phương pháp này an toàn với sản phụ có tiền sản giật nặng hoặc một số bệnh tim như hẹp van động mạch chủ.
 
-_Hình ảnh "Vị trí đâm kim tê ngoài màng cứng"_.
 ![Vị trí đâm kim tê ngoài màng cứng](./_images/giam-dau-trong-chuyen-da/gay-te-ngoai-mang-cung.png)
+_Hình ảnh "Vị trí đâm kim tê ngoài màng cứng"_.
 
 ### Chống chỉ định
 

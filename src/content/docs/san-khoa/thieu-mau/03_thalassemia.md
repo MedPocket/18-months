@@ -51,9 +51,8 @@ _Hình: Thai phù trong hội chứng Hb Bart’s._
 - Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.
 - Chẩn đoán trên thai: Sinh thiết gai rau, chọc ối hoặc lấy máu cuống rốn nếu có nguy cơ cao.
 
-_Hình: Kết quả điện di Hb ở người trưởng thành._
-
 ![Kết quả điện di Hb ở người trưởng thành](./_images/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
+_Hình "Kết quả điện di Hb ở người trưởng thành"_.
 
 ## Điều trị
 

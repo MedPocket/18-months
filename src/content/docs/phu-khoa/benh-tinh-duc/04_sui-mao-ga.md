@@ -5,8 +5,8 @@ description: Tổng quan, chẩn đoán và điều trị sùi mào gà.
 
 **Bệnh sùi mào gà (Condyloma acuminata)** là một bệnh lý lây truyền qua đường tình dục do virus HPV (Human Papillomavirus) gây ra, đặc biệt là các chủng nguy cơ thấp như HPV týp 6 và 11. Đây là loại virus DNA không vỏ, có ái tính mạnh với biểu mô lát tầng. Virus HPV còn được chia thành hai nhóm chính: nhóm nguy cơ thấp (gây sùi mào gà, mụn cóc) và nhóm nguy cơ cao (gây ung thư cổ tử cung, dương vật, hậu môn...).
 
+![Sùi mào gà vùng sinh dục](./_images/sui-mao-ga/sui-mao-ga.png)
 _Hình ảnh "Sùi mào gà vùng sinh dục"_.
-![Sùi mào gà](./_images/sui-mao-ga/sui-mao-ga.png)
 
 ## Chẩn đoán
 

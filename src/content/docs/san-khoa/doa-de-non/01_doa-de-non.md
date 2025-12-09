@@ -60,8 +60,8 @@ Các cơ chế bệnh sinh liên quan:
 
 ### Chiều dài cổ tử cung
 
-_Hình ảnh "Chiều dài cổ tử cung"_.
 ![Chiều dài cổ tử cung](./_images/chieu-dai-co-tu-cung.png)
+_Hình ảnh "Chiều dài cổ tử cung"_.
 
 Đo siêu âm ngả âm đạo, từ lỗ ngoài đến lỗ trong cổ tử cung:
 
@@ -71,8 +71,8 @@ _Hình ảnh "Chiều dài cổ tử cung"_.
 
 ### Hình dạng lỗ tử cung
 
-_Hình ảnh "Hình dạng lỗ tử cung"_.
 ![Hình dạng lỗ tử cung](./_images/hinh-dang-lo-tu-cung.png)
+_Hình ảnh "Hình dạng lỗ tử cung"_.
 
 - Cổ tử cung dạng U, Y: Nguy cơ cao.
 - Dạng I (hình phễu nhẹ): Tiên lượng tốt hơn.<br>
@@ -273,8 +273,8 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 
 - Cho trường hợp hở eo tử cung, kênh cổ ngắn < 25 mm.
 - Không lợi ở cổ ngắn không có tiền sử sinh non, có nguy cơ ở song thai.<br>
-  _Hình ảnh "Khâu vòng cổ tử cung"_.
   ![Khâu vòng cổ tử cung](./_images/khau-vong-co-tu-cung.png)
+  _Hình ảnh "Khâu vòng cổ tử cung"_.
 
 ### Pessary
 
@@ -282,11 +282,11 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 - Gây tiết dịch âm đạo, cần theo dõi viêm.
 - Đặt 14-32 tuần hoặc 2 tuần trước mốc sinh non trước đó.
 - Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.<br>
-  _Hình ảnh "Vòng nâng cổ tử cung"_.
   ![Vòng nâng cổ tử cung](./_images/vong-nang-co-tu-cung.png)
+  _Hình ảnh "Vòng nâng cổ tử cung"_.
 
-_Hình ảnh "Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ"_.
 ![Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ](./_images/luu-do-du-phong-sinh-non.png)
+_Hình ảnh "Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ"_.
 
 ## Tài liệu tham khảo
 

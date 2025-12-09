@@ -25,8 +25,8 @@ description: Tổng quan chẩn đoán và điều trị đái tháo đường t
 
 ## Bệnh sinh
 
-_Hình ảnh "Thay đổi nhu cầu insulin theo các giai đoạn thai kỳ"_.
 ![Thay đổi nhu cầu insulin trong thai kỳ](./_images/thay-doi-ve-nhu-cau-insulin.png)
+_Hình ảnh "Thay đổi nhu cầu insulin theo các giai đoạn thai kỳ"_.
 
 1. **Kháng insulin sinh lý:** Bắt đầu tăng từ giữa thai kỳ (tuần 20-24) do hormon nhau thai (hPL, cortisol, estrogen, progesterone, prolactin...) làm giảm tiêu thụ glucose của mẹ, ưu tiên cho thai nhi.
 2. **Kháng insulin mạn tính:** Do tiền sử gia đình ĐTĐ, thừa cân - béo phì, tuổi mẹ cao, PCOS...
@@ -184,8 +184,8 @@ _Bảng "Mục tiêu đường máu"_.
 - **Basal:** Insulin NPH hoặc Detemir nếu chỉ tăng glucose lúc đói.
 - **Bolus:** Insulin tác dụng nhanh (Regular, Lispro, Aspart) nếu tăng sau ăn.
 - **Basal-bolus:** Phối hợp khi tăng cả đói và sau ăn.<br>
-  _Hình ảnh "Các loại insulin và dấu đỏ: Loại được phép dùng cho phụ nữ mang thai"_.
   ![Các loại insulin thai kỳ](./_images/cac-loai-insulin.png)
+  _Hình ảnh "Các loại insulin và dấu đỏ: Loại được phép dùng cho phụ nữ mang thai"_.
 
 **Điều chỉnh liều:**
 
@@ -201,8 +201,8 @@ Phẫu thuật ở BN dùng insulin:
 
 :::
 
-_Hình ảnh "Tóm tắt thời điểm và chỉ định cách sinh"_.
 ![Tóm tắt thời điểm và chỉ định cách sinh](./_images/tom-tat-thoi-diem-va-chi-dinh-cach-sinh.webp)
+_Hình ảnh "Tóm tắt thời điểm và chỉ định cách sinh"_.
 
 ## Theo dõi chuyển dạ
 

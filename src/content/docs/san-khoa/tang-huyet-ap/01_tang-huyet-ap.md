@@ -15,8 +15,8 @@ Giả thiết do nhiều nguyên nhân phối hợp dẫn tới tổn thương n
 
 Bánh rau đóng vai trò then chốt trong sự phát triển và thoái lui của tiền sản giật. **Bánh rau**, không phải thai, là điều kiện cần trong sự phát triển tiền sản giật.
 
-_Hình ảnh "Sơ đồ cơ chế tăng huyết áp thai kỳ"_.
 ![Sơ đồ cơ chế tăng huyết áp thai kỳ](./_images/so-do-co-che.png)
+_Hình ảnh "Sơ đồ cơ chế tăng huyết áp thai kỳ"_.
 
 Mất cân bằng giữa yếu tố tân tạo và kháng tạo mạch giữ vai trò then chốt trong cơ chế bệnh sinh của tiền sản giật. Do đó, khảo sát **sFlt-1** và **PlGF** có thể giúp tiên đoán tiền sản giật. Khoảng 5 tuần trước khi tiền sản giật xuất hiện trên lâm sàng, tỷ số **sFlt-1/PlGF** tăng cao ở nhóm sau này bị tiền sản giật.
 

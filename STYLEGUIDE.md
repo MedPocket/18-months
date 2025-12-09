@@ -184,11 +184,10 @@ Sử dụng bảng để so sánh hoặc trình bày dữ liệu cấu trúc.
 **Ví dụ:**
 
 ```md
-_Hình: Các nguyên nhân gây thiếu máu trong thai kỳ._
+![Các nguyên nhân gây thiếu máu trong thai kỳ](./_images/cac-nguyen-nhan-giay-thieu-mau-trong-thai-ky.png)
+_Hình "Các nguyên nhân gây thiếu máu trong thai kỳ"_.
 
-![Hình ảnh: Các nguyên nhân gây thiếu máu trong thai kỳ](./_images/cac-nguyen-nhan-giay-thieu-mau-trong-thai-ky.png)
-
-_Bảng: Phân loại mức độ thiếu máu._
+_Bảng "Phân loại mức độ thiếu máu"_.
 
 | Mức độ     | Hemoglobin (g/dL) | Biểu hiện lâm sàng         |
 | ---------- | ----------------- | -------------------------- |
