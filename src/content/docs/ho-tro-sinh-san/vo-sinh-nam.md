@@ -173,33 +173,33 @@ Tùy theo kết quả thăm khám sẽ có những hình thức điều trị c�
 
 ## Điều trị
 
-| Nhóm bệnh lý                                                  | Điều trị                                                                     |
-| ------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| **Điều trị theo nguyên nhân**                                 |                                                                              |
-| Hội chứng Kallmann và suy giảm chức năng sinh sản nguyên phát | GnRH hoặc Gonadotropin                                                       |
-| Suy tuyến yên                                                 | Gonadotropin                                                                 |
-| U tăng tiết Prolactin                                         | Dopamine agonist                                                             |
-| Nhiễm trùng                                                   | Kháng sinh                                                                   |
-| Bệnh lý mãn tính (suy thận, đái tháo đường)                   | Điều trị bệnh lý nền                                                         |
-| Thuốc, thuốc phiện, độc chất                                  | Điều trị hỗ trợ loại trừ hoặc tăng đào thải                                  |
-| Vô tinh do tắc                                                | Nối ống dẫn tinh - mào tinh, nối ống dẫn tinh đầu - tận, TESE                |
-| Rối loạn cương                                                | Tư vấn tâm lý tính dục, ức chế PDE-5, tiêm prostaglandin                     |
-| Xuất tinh ngược dòng                                          | Imipramine, Midodrine                                                        |
-| **Điều trị dự phòng**                                         |                                                                              |
-| Tinh hoàn lạc chỗ                                             | Chuyển vị tinh hoàn (GnRH/hCG)                                               |
-| Dậy thì muộn                                                  | Testosterone/GnRH/hCG                                                        |
-| Yếu tố ngoại sinh (Xquang, thuốc, độc chất)                   | Hạn chế tiếp xúc                                                             |
-| Bệnh lý ác tính                                               | Bảo tồn hoặc trữ đông mô tuyến sinh tinh                                     |
-| **Điều trị không theo nguyên nhân**                           |                                                                              |
-| Không tinh hoàn 2 bên                                         | (Testosterone thay thế)                                                      |
-| Hội chứng một lớp tế bào Sertoli hoàn toàn                    | -                                                                            |
-| Suy giảm phát triển mô tuyến sinh dục                         | (Testosterone thay thế)                                                      |
-| **Điều trị theo kinh nghiệm**                                 |                                                                              |
-| Vô sinh nguyên phát                                           | Điều trị nội khoa hỗ trợ                                                     |
-| Vô sinh do yếu tố miễn dịch                                   | Giảm miễn dịch                                                               |
+| Nhóm bệnh lý                                                  | Điều trị                                                                            |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Điều trị theo nguyên nhân**                                 |                                                                                     |
+| Hội chứng Kallmann và suy giảm chức năng sinh sản nguyên phát | GnRH hoặc Gonadotropin                                                              |
+| Suy tuyến yên                                                 | Gonadotropin                                                                        |
+| U tăng tiết Prolactin                                         | Dopamine agonist                                                                    |
+| Nhiễm trùng                                                   | Kháng sinh                                                                          |
+| Bệnh lý mãn tính (suy thận, đái tháo đường)                   | Điều trị bệnh lý nền                                                                |
+| Thuốc, thuốc phiện, độc chất                                  | Điều trị hỗ trợ loại trừ hoặc tăng đào thải                                         |
+| Vô tinh do tắc                                                | Nối ống dẫn tinh - mào tinh, nối ống dẫn tinh đầu - tận, TESE                       |
+| Rối loạn cương                                                | Tư vấn tâm lý tính dục, ức chế PDE-5, tiêm prostaglandin                            |
+| Xuất tinh ngược dòng                                          | Imipramine, Midodrine                                                               |
+| **Điều trị dự phòng**                                         |                                                                                     |
+| Tinh hoàn lạc chỗ                                             | Chuyển vị tinh hoàn (GnRH/hCG)                                                      |
+| Dậy thì muộn                                                  | Testosterone/GnRH/hCG                                                               |
+| Yếu tố ngoại sinh (Xquang, thuốc, độc chất)                   | Hạn chế tiếp xúc                                                                    |
+| Bệnh lý ác tính                                               | Bảo tồn hoặc trữ đông mô tuyến sinh tinh                                            |
+| **Điều trị không theo nguyên nhân**                           |                                                                                     |
+| Không tinh hoàn 2 bên                                         | (Testosterone thay thế)                                                             |
+| Hội chứng một lớp tế bào Sertoli hoàn toàn                    | -                                                                                   |
+| Suy giảm phát triển mô tuyến sinh dục                         | (Testosterone thay thế)                                                             |
+| **Điều trị theo kinh nghiệm**                                 |                                                                                     |
+| Vô sinh nguyên phát                                           | Điều trị nội khoa hỗ trợ                                                            |
+| Vô sinh do yếu tố miễn dịch                                   | Giảm miễn dịch                                                                      |
 | Giãn tĩnh mạch thừng tinh                                     | Tối ưu hóa chức năng sinh sản của vợ hoặc Phẫu thuật thắt tĩnh mạch thừng tinh giãn |
-| **Điều trị triệu chứng**                                      |                                                                              |
-| Suy giảm khả năng sinh sản                                    | Hỗ trợ sinh sản (IUI/IVF)                                                    |
+| **Điều trị triệu chứng**                                      |                                                                                     |
+| Suy giảm khả năng sinh sản                                    | Hỗ trợ sinh sản (IUI/IVF)                                                           |
 
 ### Thiểu tinh
 

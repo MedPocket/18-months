@@ -19,8 +19,8 @@ _Bảng "So sánh 2 kỹ thuật thực hiện Pap's test"_.
 | So sánh 2 kỹ thuật thực hiện Pap's test | PAP quy ước                                                          | PAP nhúng dịch                                                    |
 | --------------------------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | **Lấy mẫu**                             | Tương đương                                                          |                                                                   |
-| **Mất tế bào khi làm lam**             | Mất đến 80% số tế bào thu thập được                                  | Không bị mất tế bào                                               |
-| **Chất lượng lam**                     | Khó đọc do mật độ tế bào không đều. Buộc phải đọc hoàn toàn thủ công | Tế bào dàn trải đều. Có thể đọc sơ cấp bằng máy                   |
+| **Mất tế bào khi làm lam**              | Mất đến 80% số tế bào thu thập được                                  | Không bị mất tế bào                                               |
+| **Chất lượng lam**                      | Khó đọc do mật độ tế bào không đều. Buộc phải đọc hoàn toàn thủ công | Tế bào dàn trải đều. Có thể đọc sơ cấp bằng máy                   |
 | **Sensitivity (%)**                     | 68                                                                   | 76                                                                |
 | **Specificity (%)**                     | 79                                                                   | 89                                                                |
 | **Khảo sát vi sinh bổ túc**             | Ngẫu nhiên: _Candida sp_. _Trichomonas vaginalis_                    | Có thể thực hiện được các khảo sát vi sinh bổ sung khi có yêu cầu |

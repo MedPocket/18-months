@@ -68,10 +68,10 @@ _Hình ảnh "Giải phẫu mặt cắt ngang tuyến vú và mối tương quan
 
 _Bảng "Phân biệt thụ thể estrogen và progesterone"_.
 
-| Thụ thể Estrogen (ER)                            | Thụ thể Progesterone (PR)                                     |
-| ------------------------------------------------ | ------------------------------------------------------------- |
-| - Kích thích tăng sinh ống tuyến vú.             | - Hỗ trợ phát triển các tiểu thùy (lobule).                   |
-| - Thúc đẩy tăng sinh tế bào mỡ xen kẽ mô tuyến.  | - Kích thích phân chia và biệt hóa tế bào nang sữa (acinus).  |
+| Thụ thể Estrogen (ER)                             | Thụ thể Progesterone (PR)                                     |
+| ------------------------------------------------- | ------------------------------------------------------------- |
+| - Kích thích tăng sinh ống tuyến vú.              | - Hỗ trợ phát triển các tiểu thùy (lobule).                   |
+| - Thúc đẩy tăng sinh tế bào mỡ xen kẽ mô tuyến.   | - Kích thích phân chia và biệt hóa tế bào nang sữa (acinus).  |
 | - Quyết định tính nhạy cảm với liệu pháp hormone. | - Tham gia quá trình bài xuất sữa trong giai đoạn cho con bú. |
 
 _Hình ảnh "(Trái) Nang sữa (acinus) gồm lớp tế bào cơ biểu mô (myoepithelial) bên ngoài và tế bào biểu mô trụ thấp/trụ lót bên trong, dựa trên màng đáy. (Phải) Mô hình hóa mô miễn dịch (immunohistochemistry) cho thấy sự biểu hiện của thụ thể estrogen (màu nâu) trên tế bào biểu mô ống tuyến"_.
