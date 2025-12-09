@@ -27,9 +27,7 @@ export const { getStaticPaths, GET } = OGImageRoute({
           families: ["Inter"],
         },
       },
-      fonts: [
-        "https://cdn.jsdelivr.net/npm/inter-font@3.19.0/ttf/Inter-Regular.ttf",
-      ],
+      fonts: ["https://cdn.jsdelivr.net/npm/inter-font@3.19.0/ttf/Inter-Regular.ttf"],
     };
   },
 });

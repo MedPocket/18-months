@@ -2,7 +2,7 @@ name: GitHub Pages
 
 on:
   push:
-    branches: ['main']
+    branches: ["main"]
   pull_request:
 
 permissions:
@@ -22,6 +22,7 @@ jobs:
         env:
           BASE: / # Set base to "/" because Starlight doesn't support custom base paths
 
+
   # deploy:
   #   needs: build
   #   if: github.event_name == 'push' && github.ref == 'refs/heads/main'
@@ -33,4 +34,3 @@ jobs:
   #     - name: Deploy to GitHub Pages
   #       id: deployment
   #       uses: actions/deploy-pages@v4
-

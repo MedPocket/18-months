@@ -30,7 +30,7 @@
 }
 
 /* Hover row background for table rows. */
-table tbody tr:Hover {
+table tbody tr:hover {
   background-color: Rgba(255, 255, 255, 0.1);
   transition:
     Background-color 0.1s ease-in-out,

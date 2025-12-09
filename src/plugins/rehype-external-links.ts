@@ -7,10 +7,7 @@ interface ExternalLinksOptions {
   content?: Element;
 }
 
-export function rehypeExternalLinks(): [
-  typeof rehypeExternalLinksPlugin,
-  ExternalLinksOptions,
-] {
+export function rehypeExternalLinks(): [typeof rehypeExternalLinksPlugin, ExternalLinksOptions] {
   const svgIcon: Element = {
     type: "element",
     tagName: "svg",
