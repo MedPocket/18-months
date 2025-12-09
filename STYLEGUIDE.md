@@ -40,6 +40,13 @@ Tài liệu này quy định các chuẩn mực về nội dung, định dạng 
   - _Đúng:_ 10-20 mg, 5-7 ngày.
   - _Sai:_ 10 - 20 mg.
 
+### Kí tự đặc biệt
+
+- **Dấu gạch chéo `/`:** Viết liền với các từ, dùng để biểu thị sự lựa chọn hoặc tỷ lệ.
+  - _Đúng:_ Buồn nôn/nôn, 120/80 mmHg.
+  - _Sai:_ Buồn nôn / nôn.
+- **Mũi tên:** Dùng `→` để biểu thị kết quả/hệ quả thay vì `->`.
+
 ### Chú thích (Footnotes)
 
 Dùng số mũ hoặc dấu sao để chú thích ngắn gọn nếu không muốn làm ngắt mạch văn bản.
@@ -123,6 +130,7 @@ Sử dụng dấu gạch ngang `-` cho các ý ngang hàng, không cần thứ t
 - Viết hoa chữ cái đầu dòng.
 - Kết thúc bằng dấu chấm `.` nếu là một câu hoàn chỉnh.
 - Kết thúc bằng dấu chấm phẩy `;` hoặc không dấu nếu là cụm từ ngắn (nhưng cần thống nhất trong cùng một list).
+- Không nên lồng quá 2 cấp danh sách để tránh gây rối mắt.
 
 **Ví dụ:**
 
