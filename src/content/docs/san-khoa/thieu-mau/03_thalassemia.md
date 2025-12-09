@@ -5,7 +5,7 @@ description: Thalassemia trong thai kỳ.
 
 **Thalassemia** là nhóm bệnh lý thiếu máu do giảm sản xuất chọn lọc chuỗi globin trong phân tử hemoglobin. Đây là bệnh di truyền đơn gen, lặn trên nhiễm sắc thể thường theo quy luật Mendel. Ở Việt Nam hiện có khoảng 1700 trẻ sinh ra mỗi năm mắc Thalassemia. Thiếu chuỗi globin dẫn đến phân tử hemoglobin không ổn định, tan huyết và gây thiếu máu mạn tính. Mức độ nặng hay nhẹ phụ thuộc vào loại và số lượng gen bị tổn thương.
 
-## Bệnh sinh
+## Nguyên nhân
 
 - **Chuỗi α-globin** do 4 gene trên NST 16 quy định; Đột biến kiểu deletion gây α-thalassemia. **Phân tử chỉ có chuỗi α (Hb Bart’s)** mất ổn định nhanh, không phóng thích O₂ → thai phù → thường tử vong trước hoặc ngay sau sinh.
 - **Chuỗi β-globin** do 2 gene trên NST 11 quy định; Đột biến điểm (mutation) gây β-thalassemia. **Phân tử chỉ có chuỗi β (Hb H)** tương đối ổn định hơn → thiếu máu nhẹ/trung bình.
@@ -37,13 +37,13 @@ description: Thalassemia trong thai kỳ.
 
 ### Với thai
 
-_Thai phù trong hội chứng Hb Bart’s_.
 ![Thai phù trong hội chứng Bart](./_images/thai-phu-trong-hoi-chung-Bart.png)
+_Hình: Thai phù trong hội chứng Hb Bart’s._
 
 - Thể nặng có thể không sống sót sau sinh.
 - Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.<br>
 
-## Tầm soát
+## Chẩn đoán
 
 - Huyết đồ: Hb <11 g/dL; MCV <80 fL; MCH <27 pg.
 - Định lượng ferritin: Bình thường hoặc tăng → chuyển sang điện di Hb.
@@ -51,10 +51,11 @@ _Thai phù trong hội chứng Hb Bart’s_.
 - Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.
 - Chẩn đoán trên thai: Sinh thiết gai rau, chọc ối hoặc lấy máu cuống rốn nếu có nguy cơ cao.
 
-_Kết quả điện di Hb ở người trưởng thành_.
+_Hình: Kết quả điện di Hb ở người trưởng thành._
+
 ![Kết quả điện di Hb ở người trưởng thành](./_images/ket-qua-dien-di-Hb-o-nguoi-truong-thanh.png)
 
-## Thai phụ mắc β-thalassemia
+## Điều trị
 
 - Điều trị đa chuyên khoa: Sản khoa, huyết học, gây mê, nữ hộ sinh.
 - Duy trì Hb 10 g/dL bằng truyền máu định kỳ; Kiểm soát ferritin <1000 ng/mL.
