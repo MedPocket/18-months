@@ -75,9 +75,9 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"_.
 
 **Phác đồ:**
 
-- Thai lưu ≤ 8 tuần, β-hCG tăng → MTX 50mg tiêm bắp.
-- Thai chưa có tim: Hút phôi dưới siêu âm, tiêm MTX tại chỗ và bắp (25mg + 25mg).
-- Thai có tim: Hút mô tim thai (nếu > 9 tuần). Tiêm MTX hoặc KCl vào tim + tiêm MTX quanh bánh rau → kiểm tra sau 60-90 phút. Tổng liều MTX: 75mg.
+- Thai lưu ≤ 8 tuần, β-hCG tăng → MTX 50 mg tiêm bắp.
+- Thai chưa có tim: Hút phôi dưới siêu âm, tiêm MTX tại chỗ và bắp (25 mg + 25 mg).
+- Thai có tim: Hút mô tim thai (nếu > 9 tuần). Tiêm MTX hoặc KCl vào tim + tiêm MTX quanh bánh rau → kiểm tra sau 60-90 phút. Tổng liều MTX: 75 mg.
 
 **Theo dõi sau điều trị:**
 
@@ -115,7 +115,7 @@ _Hình ảnh "Mối liên hệ thai và sẹo mổ lấy thai"_.
 
 **Thực hiện:**
 
-- Đặt foley 14-16 dưới siêu âm, bơm 20-25mL để đẩy túi thai.
+- Đặt foley 14-16 dưới siêu âm, bơm 20-25 mL để đẩy túi thai.
 - Rút sau 24 giờ → hút thai bằng Karman 6.
 - Dùng oxytocin, misoprostol hậu môn, kháng sinh sau thủ thuật.
 

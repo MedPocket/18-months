@@ -252,7 +252,7 @@ Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. K
 
 **Chỉ định:** Người khó tuân thủ uống hằng ngày.
 
-**Chống chỉ định:** Như COC (huyết khối, ung thư vú, gan, hút thuốc >35 tuổi).
+**Chống chỉ định:** Như COC (huyết khối, ung thư vú, gan, hút thuốc > 35 tuổi).
 
 ### Ưu - Nhược điểm
 
@@ -290,7 +290,7 @@ Thay mỗi tuần, liên tục 3 tuần, nghỉ 1 tuần.
 
 **Chỉ định:** Người muốn biện pháp kín đáo, không cần uống hằng ngày.
 
-**Chống chỉ định:** Như COC (huyết khối, ung thư vú, gan, hút thuốc >35 tuổi).
+**Chống chỉ định:** Như COC (huyết khối, ung thư vú, gan, hút thuốc > 35 tuổi).
 
 ### Ưu - Nhược điểm
 

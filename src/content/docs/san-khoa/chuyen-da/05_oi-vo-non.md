@@ -74,19 +74,19 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
 - Azithromycin 1 g (uống) khi nhập viện.
 - Ampicillin 2 g (tĩnh mạch chậm) mỗi 6 giờ x 48 giờ.
-- Sau đó Amoxicillin 500mg (uống) mỗi 8 giờ x 5 ngày.
+- Sau đó Amoxicillin 500 mg (uống) mỗi 8 giờ x 5 ngày.
 
 **Phác đồ khuyến cáo 2:**
 
 - Ampicillin 1 g (uống) khi nhập viện.
 - Cefazolin 1 g (tĩnh mạch chậm) mỗi 8 giờ x 48 giờ.
-- Sau đó Cephalexin 500mg (uống) mỗi 6 giờ x 5 ngày.
+- Sau đó Cephalexin 500 mg (uống) mỗi 6 giờ x 5 ngày.
 
 **Phác đồ dị ứng nặng với Penicillin:**
 
 - Azithromycin 1 g (uống) khi nhập viện.
 - Clindamycin 900 mg (truyền TM) mỗi 8 giờ + Gentamicin 5 mg/kg (truyền TM) mỗi 24 giờ x 48 giờ.
-- Sau đó Clindamycin 300mg (uống) mỗi 8 giờ x 5 ngày.
+- Sau đó Clindamycin 300 mg (uống) mỗi 8 giờ x 5 ngày.
 
 **Phác đồ GBS (+), kháng Clindamycin hoặc không có kháng sinh đồ:**
 
@@ -126,7 +126,7 @@ Nếu sản phụ có sốt hoặc dịch âm đạo hôi → **nghi ngờ nhi�
 
 - **Chỉ định:** Thai 24-< 32 tuần có nguy cơ sinh non trong 24 giờ. Dùng thường quy từ 28-< 32 tuần, cân nhắc từ 24-< 28 tuần.
 - **Chống chỉ định:** Nhược cơ.
-- **Liều dùng:** 4.5g tĩnh mạch chậm trong 20-30 phút. Nên truyền trước sinh 4 giờ.
+- **Liều dùng:** 4.5 g tĩnh mạch chậm trong 20-30 phút. Nên truyền trước sinh 4 giờ.
 - **Thận trọng:** Tiền sử thiếu máu cơ tim, rối loạn dẫn truyền.
 
 **Trong chuyển dạ:**

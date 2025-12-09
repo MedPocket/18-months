@@ -26,15 +26,15 @@ Chẩn đoán hội chứng buồng trứng đa nang khi có 2/3 tiêu chuẩn k
 
 Định nghĩa:
 
-- Dưới 3 năm sau khi có kinh: Chu kỳ <21 ngày hoặc >45 ngày.
-- Trên 3 năm sau khi có kinh: Chu kỳ <21 ngày hoặc >35 ngày, hoặc <8 chu kỳ/năm.
-- Chu kỳ >90 ngày, kéo dài trên 1 năm sau khi bắt đầu có kinh.
+- Dưới 3 năm sau khi có kinh: Chu kỳ < 21 ngày hoặc > 45 ngày.
+- Trên 3 năm sau khi có kinh: Chu kỳ < 21 ngày hoặc > 35 ngày, hoặc < 8 chu kỳ/năm.
+- Chu kỳ > 90 ngày, kéo dài trên 1 năm sau khi bắt đầu có kinh.
 
 ### Cường androgen
 
 **Cường androgen sinh hóa:**
 
-- Testosterone toàn phần ≥1.8 nmol/L và FAI (Free androgen index) ≥6 (theo dữ liệu dân số Việt Nam).
+- Testosterone toàn phần ≥ 1.8 nmol/L và FAI (Free androgen index) ≥ 6 (theo dữ liệu dân số Việt Nam).
 - Đánh giá khó khăn ở phụ nữ đang dùng COCs → cần ngưng thuốc ít nhất 3 tháng.
 - Nếu androgen cao → cần loại trừ u buồng trứng, u thượng thận, tăng sản thượng thận bẩm sinh, Cushing, ovarian hyperthecosis, nguyên nhân iatrogenic, kháng insulin nặng.
 
@@ -49,8 +49,8 @@ Chẩn đoán hội chứng buồng trứng đa nang khi có 2/3 tiêu chuẩn k
 
 Đánh giá hình ảnh buồng trứng đa nang (PCOM) sử dụng số nang noãn trên mỗi buồng trứng (FNPO), số lượng nang noãn trên một mặt cắt nang (FNPS) và thể tích buồng trứng (OV):
 
-- FNPO ≥20 nang/buồng trứng ở 1 bên hoặc cả 2 bên ở phụ nữ trưởng thành.
-- OV ≥10 ml hoặc FNPS ≥10 ở 1 bên hoặc cả 2 bên ở phụ nữ trưởng thành.
+- FNPO ≥ 20 nang/buồng trứng ở 1 bên hoặc cả 2 bên ở phụ nữ trưởng thành.
+- OV ≥ 10 ml hoặc FNPS ≥ 10 ở 1 bên hoặc cả 2 bên ở phụ nữ trưởng thành.
 
 Khi đánh giá cần chuẩn hóa: Chu kỳ, tần số đầu dò, kỹ thuật đo, đặc điểm nang, thể tích buồng trứng, nội mạc tử cung. Siêu âm đầu dò đánh giá chính xác hơn đường bụng.
 
@@ -68,10 +68,10 @@ _Bảng "Hội chứng chuyển hóa"_.
 
 | Yếu tố nguy cơ | Ngưỡng bất thường                                    |
 | -------------- | ---------------------------------------------------- |
-| Vòng eo        | >80 cm                                               |
-| Triglycerides  | ≥150 mg/dL                                           |
-| HDL-C          | <50 mg/dL                                            |
-| Huyết áp       | ≥130/85 mmHg                                         |
+| Vòng eo        | > 80 cm                                               |
+| Triglycerides  | ≥ 150 mg/dL                                           |
+| HDL-C          | < 50 mg/dL                                            |
+| Huyết áp       | ≥ 130/85 mmHg                                         |
 | Đường huyết    | 110-126 mg/dL (đói) hoặc 140-199 mg/dL (2h sau OGTT) |
 
 Khuyến cáo OGTT 75 g đường để sàng lọc; HbA1c/đường đói chỉ mang tính tham khảo.
@@ -115,18 +115,18 @@ Mục tiêu: Kiểm soát kinh nguyệt, điều trị cường androgen, hội 
 
 Chỉ định khi BMI ≥ 25 hoặc rối loạn chuyển hóa. Liều tăng dần, tối đa 2.5 g (trưởng thành) hoặc 2 g (vị thành niên). Xem xét nguy cơ giảm B12 khi dùng lâu dài.
 
-Kết hợp COCs nếu BMI >30.
+Kết hợp COCs nếu BMI > 30.
 
 #### Thuốc điều trị béo phì
 
-GLP-1 agonists (liraglutide, semaglutide) hoặc orlistat (nếu BMI ≥25).
+GLP-1 agonists (liraglutide, semaglutide) hoặc orlistat (nếu BMI ≥ 25).
 
 #### Thuốc kháng androgen
 
-Chỉ dùng khi sau ≥6 tháng COCs/thẩm mỹ chưa hiệu quả:
+Chỉ dùng khi sau ≥ 6 tháng COCs/thẩm mỹ chưa hiệu quả:
 
 - Spironolactone 25-100 mg/ngày tương đối an toàn.
-- Hạn chế cyproterone acetate (≥10 mg), finasteride, flutamide, bicalutamide (nguy cơ gan/u màng não).
+- Hạn chế cyproterone acetate (≥ 10 mg), finasteride, flutamide, bicalutamide (nguy cơ gan/u màng não).
 
 #### Inositol, laser/ánh sáng
 
@@ -143,7 +143,7 @@ _Hình ảnh "Lược đồ điều trị hiếm muộn cho phụ nữ buồng t
 
 #### Thay đổi lối sống
 
-Ăn giảm năng lượng, tăng xơ, tập luyện. Giảm ≥5% cân nặng có thể khôi phục phóng noãn.
+Ăn giảm năng lượng, tăng xơ, tập luyện. Giảm ≥ 5% cân nặng có thể khôi phục phóng noãn.
 
 #### Letrozole (LE)
 
@@ -151,7 +151,7 @@ Letrozole (LE) là lựa chọn đầu tay:
 
 - Đây là chất ức chế aromatase → ức chế tổng hợp androgen thành estrogen → giảm feedback âm tính → tăng FSH nội sinh → kích thích phát triển nang noãn.
 - Liều: Femara 2.5-7.5 mg x 5 ngày (từ ngày 2-4 của chu kỳ), tối đa 7.5 mg.
-- Nang đáp ứng >10 mm, E2 <70 pg/mL, P4 <1 ng/mL. Dùng từ 2-3 chu kỳ kinh.
+- Nang đáp ứng > 10 mm, E2 < 70 pg/mL, P4 < 1 ng/mL. Dùng từ 2-3 chu kỳ kinh.
 - Tỷ lệ đa thai thấp hơn clomiphene.
 
 #### Clomiphene citrate (CC)
@@ -160,7 +160,7 @@ Clomiphene citrate điều hòa thụ thể estrogen chọn lọc:
 
 - Gắn vào thụ thể estrogen vùng hạ đồi và tuyến yên → ức chế feedback âm tính → tăng GnRH → tăng FSH và LH → kích thích phát triển nang noãn.
 - Liều: CC 50-150 mg x 5 ngày (ngày 2-5); tối đa 150 mg/ngày.
-- Không >6 chu kỳ liên tiếp, hoặc >12 chu kỳ trọn đời.
+- Không > 6 chu kỳ liên tiếp, hoặc > 12 chu kỳ trọn đời.
 - CC + metformin hiệu quả hơn CC đơn lẻ.
 
 #### Metformin
@@ -170,7 +170,7 @@ PCOS đề kháng insulin → cường androgen tại buồng trứng gây khôn
 - Dùng metformin cải thiện kháng insulin, tăng nhạy cảm insulin, giảm sản xuất glucose gan → hỗ trợ phóng noãn, giảm cân, giảm androgen.
 - Liều: Metformin 500 mg x 2-3 lần/ngày.
 
-Dùng CC + Metformin nên ưu tiên với BN béo phì (BMI ≥30) hoặc có tình trạng đề kháng với CC.
+Dùng CC + Metformin nên ưu tiên với BN béo phì (BMI ≥ 30) hoặc có tình trạng đề kháng với CC.
 
 #### Gonadotropins
 
@@ -178,7 +178,7 @@ Gonadotropin là nhóm hormone peptide điều hòa tuyến sinh dục (buồng 
 
 - FSH kích thích nang noãn, LH gây rụng trứng và hoàng thể hóa, hCG mô phỏng LH duy trì thai kỳ.
 - Thường dùng khi kháng CC.
-- Phác đồ step-up: FSH 37.5-50 IU/ngày x 14 ngày, tăng dần 25-37.5 IU tùy đáp ứng. Chỉ khởi động kích trứng khi có ≤2 nang trứng >14 mm.
+- Phác đồ step-up: FSH 37.5-50 IU/ngày x 14 ngày, tăng dần 25-37.5 IU tùy đáp ứng. Chỉ khởi động kích trứng khi có ≤ 2 nang trứng > 14 mm.
 - Nguy cơ: Đa thai, chi phí cao.
 
 #### Nội soi đốt điểm buồng trứng

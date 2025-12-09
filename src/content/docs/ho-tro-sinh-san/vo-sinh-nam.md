@@ -214,8 +214,8 @@ _Hình ảnh "Lưu đồ xử trí tinh trùng yếu, ít, dị dạng"._
 
 **Định lượng nội tiết sinh sản:**
 
-- Nếu **FSH >12 IU/L và/hoặc LH >12 IU/L** → Hypergonadotropin → Trữ đông tinh trùng và tư vấn thụ tinh ống nghiệm.
-- Nếu **FSH <12 IU/L và LH <12 IU/L:** Điều trị nội khoa; Giãn tĩnh mạch thừng tinh đủ chỉ định phẫu thuật → phẫu thuật; Tinh dịch đồ kiểm tra mỗi tháng trong 6 - 12 tháng.
+- Nếu **FSH > 12 IU/L và/hoặc LH > 12 IU/L** → Hypergonadotropin → Trữ đông tinh trùng và tư vấn thụ tinh ống nghiệm.
+- Nếu **FSH < 12 IU/L và LH < 12 IU/L:** Điều trị nội khoa; Giãn tĩnh mạch thừng tinh đủ chỉ định phẫu thuật → phẫu thuật; Tinh dịch đồ kiểm tra mỗi tháng trong 6 - 12 tháng.
 
 Chỉ định **bơm tinh trùng vào buồng tử cung (IUI)** hoặc **thụ tinh ống nghiệm (IVF)** tùy thuộc mức độ cải thiện tinh trùng sau điều trị.
 
@@ -235,9 +235,9 @@ _Hình ảnh "Lưu đồ xử trí vô tinh"._
 **Định lượng nội tiết sinh sản:**
 
 - **Hypogonadotropin:** Bổ sung Gonadotropin ngoại sinh, đánh giá điều trị bằng định lượng nội tiết, tinh dịch đồ, kích thước tinh hoàn mỗi tháng.
-- **Gonadotropin bình thường hoặc tăng** điều trị theo chỉ số testosterone và tỉ lệ testosterone và Estradiol (T/E): Aromatase inhibitor 1mg/ngày trong 1-3 tháng, nếu thất bại đổi phác đồ; hCG 250 µg/tuần trong 3-6 tháng, nếu thất bại đổi phác đồ; FSH 75IU - 225 IU cách ngày trong 3-6 tháng, nếu thất bại đánh giá ngưng điều trị nội khoa, tư vấn xin tinh trùng hiến hoặc xin con nuôi.
+- **Gonadotropin bình thường hoặc tăng** điều trị theo chỉ số testosterone và tỉ lệ testosterone và Estradiol (T/E): Aromatase inhibitor 1 mg/ngày trong 1-3 tháng, nếu thất bại đổi phác đồ; hCG 250 µg/tuần trong 3-6 tháng, nếu thất bại đổi phác đồ; FSH 75 IU - 225 IU cách ngày trong 3-6 tháng, nếu thất bại đánh giá ngưng điều trị nội khoa, tư vấn xin tinh trùng hiến hoặc xin con nuôi.
 
-**Mục tiêu điều trị** là T >8 ng/mL, T/E >10 kéo dài ít nhất 3 tháng, có tinh trùng trong mẫu xuất tinh.
+**Mục tiêu điều trị** là T > 8 ng/mL, T/E > 10 kéo dài ít nhất 3 tháng, có tinh trùng trong mẫu xuất tinh.
 
 - Nếu đạt mục tiêu nội tiết, vẫn không có tinh trùng trong tinh dịch → **MicroTESE**.
 - Nếu đạt mục tiêu có tinh trùng, duy trì điều trị 6-12 tháng tiếp theo.

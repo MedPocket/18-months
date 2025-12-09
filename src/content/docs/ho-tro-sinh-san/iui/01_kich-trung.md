@@ -84,7 +84,7 @@ _Bảng "Phân loại aromatase inhibitor (AI)"_
 | ------ | ----------------------- | ---------------------------------------------------------- |
 | 1      |                         | Aminoglutethimid                                           |
 | 2      | Formestane              | Fadrozole, Roglethimide                                    |
-| 3      | Exemestane              | Anastrozole (Arimidex), Letrozole (Femara 2.5mg), Vorozole |
+| 3      | Exemestane              | Anastrozole (Arimidex), Letrozole (Femara 2.5 mg), Vorozole |
 
 #### Thực hiện
 

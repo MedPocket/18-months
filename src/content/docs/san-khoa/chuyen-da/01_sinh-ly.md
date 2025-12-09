@@ -82,8 +82,8 @@ Chuyển dạ gồm 3 giai đoạn:
 
 Xóa mở cổ tử cung chia thành 2 pha:
 
-- **Pha tiềm thời:** Cổ tử cung mềm dần, xóa và định hướng trục. Cơn co thưa, ngắn và không đều. Ngôi thai bắt đầu bình chỉnh. Được xác định khi cổ tử cung mở < 3cm.
-- **Pha hoạt động:** Cổ tử cung mở nhanh và hoàn tất xóa. Cơn co tử cung mạnh, đều, tăng dần về cường độ. Ngôi thai tiến triển trong đường sinh. Được xác định khi cổ tử cung mở ≥ 3cm.
+- **Pha tiềm thời:** Cổ tử cung mềm dần, xóa và định hướng trục. Cơn co thưa, ngắn và không đều. Ngôi thai bắt đầu bình chỉnh. Được xác định khi cổ tử cung mở < 3 cm.
+- **Pha hoạt động:** Cổ tử cung mở nhanh và hoàn tất xóa. Cơn co tử cung mạnh, đều, tăng dần về cường độ. Ngôi thai tiến triển trong đường sinh. Được xác định khi cổ tử cung mở ≥ 3 cm.
 
 _Hình ảnh "So sánh pha tiềm thời và pha hoạt động"_.
 ![So sánh pha tiềm thời và pha hoạt động](./_images/sinh-ly-chuyen-da/so-sanh-pha-tiem-thoi-va-pha-hoat-dong.png)

@@ -71,7 +71,7 @@ _Bảng "Kết quả lâm sàng 3 tháng đầu"_.
 - 3 ngày trước thực hiện: Chế độ ăn chứa ≥ 150 g glucid/ngày.
 - Nhịn đói ít nhất 8 giờ (chỉ được uống nước lọc).
 
-**Quy trình OGTT 75g chuẩn:**
+**Quy trình OGTT 75 g chuẩn:**
 
 - Lấy máu tĩnh mạch đo glucose lúc đói.
 - Uống dung dịch chứa 75 g glucose trong vòng 5 phút.

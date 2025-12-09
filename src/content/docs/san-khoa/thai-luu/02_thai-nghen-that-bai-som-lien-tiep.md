@@ -44,7 +44,7 @@ description: Thai nghén thất bại sớm liên tiếp.
 
 ### Nội tiết - chuyển hóa
 
-- Suy giáp/TSH >2.5 mIU/mL tăng nguy cơ sảy RPL. Kháng thể kháng giáp (TPO-Ab) liên quan đến RPL nhưng chưa khuyến nghị điều trị levothyroxine nếu TSH bình thường.
+- Suy giáp/TSH > 2.5 mIU/mL tăng nguy cơ sảy RPL. Kháng thể kháng giáp (TPO-Ab) liên quan đến RPL nhưng chưa khuyến nghị điều trị levothyroxine nếu TSH bình thường.
 - PCOS cường androgen, kháng insulin gây viêm nội mạc tử cung gây tăng nguy cơ sảy thai.
 - Bất thường thyroid theo dõi thêm FT₄. Prolactin, insulin, PCOS, sex steroids không khuyến cáo nếu không có dấu hiệu lâm sàng.
 - Vitamin D được bổ sung theo khuyến nghị chung.
@@ -58,7 +58,7 @@ description: Thai nghén thất bại sớm liên tiếp.
 
 ### Yếu tố từ chồng
 
-- Tuổi >35, hút thuốc, rượu, béo phì, nghề nghiệp độc hại.
+- Tuổi > 35, hút thuốc, rượu, béo phì, nghề nghiệp độc hại.
 - Chỉ định làm tinh dịch đồ khi có chỉ định.
 
 ## Điều trị

@@ -32,7 +32,7 @@ Nhiễm khuẩn sơ sinh (neonatal sepsis) là tình trạng nhiễm trùng toà
 
 Triệu chứng thường không đặc hiệu, bao gồm:
 
-- Toàn thân: Bú kém, li bì, hạ thân nhiệt (< 36°C) hoặc sốt (> 38°C), vàng da kéo dài.
+- Toàn thân: Bú kém, li bì, hạ thân nhiệt (< 36 °C) hoặc sốt (> 38 °C), vàng da kéo dài.
 - Hô hấp: Thở nhanh > 60 lần/phút, rút lõm lồng ngực, ngừng thở, tím tái.
 - Tuần hoàn: Nhịp tim nhanh > 180 lần/phút hoặc chậm < 100 lần/phút, tụt huyết áp (MAP < 40 mmHg ở sơ sinh đủ tháng; < 30 mmHg ở non tháng), da nổi vân tím, đầu chi lạnh.
 - Tiêu hoá: Nôn, chướng bụng, tiêu chảy, xuất huyết tiêu hoá.

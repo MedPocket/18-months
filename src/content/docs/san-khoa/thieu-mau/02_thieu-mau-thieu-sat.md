@@ -27,9 +27,9 @@ Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic 
 
 **Cận lâm sàng:**
 
-- Hb <11 g/dL; Hct <30%.
-- MCV <80 fL; MCH <28 pg; MCHC <32 g/dL.
-- Ferritin huyết thanh <10-50 µg/L; <10 µg/L khi nặng.
+- Hb < 11 g/dL; Hct < 30%.
+- MCV < 80 fL; MCH < 28 pg; MCHC < 32 g/dL.
+- Ferritin huyết thanh < 10-50 µg/L; < 10 µg/L khi nặng.
 
 :::
 
@@ -37,7 +37,7 @@ Chẩn đoán thiếu máu thiếu sắt và thiếu máu do thiếu acid folic 
 
 - **Thiếu máu thiếu sắt nhẹ-trung bình:** Uống 100-200 mg sắt nguyên tố/ngày, chia sau bữa ăn.
 - **Thiếu acid folic:** Uống 2-5 mg acid folic/ngày.
-- **Thiếu máu thiếu sắt nặng:** Truyền máu nếu cần thiết hoặc bổ sung sắt tĩnh mạch (_iron dextran_ hoặc _iron sucrose_), đánh giá lại sau 2-3 tuần (Hb tăng ≥0.8 g/dL/tuần và Hct tăng ≥1%/tuần là đáp ứng), tiếp tục duy trì cho đến sau sinh và khi cho con bú.
+- **Thiếu máu thiếu sắt nặng:** Truyền máu nếu cần thiết hoặc bổ sung sắt tĩnh mạch (_iron dextran_ hoặc _iron sucrose_), đánh giá lại sau 2-3 tuần (Hb tăng ≥ 0.8 g/dL/tuần và Hct tăng ≥ 1%/tuần là đáp ứng), tiếp tục duy trì cho đến sau sinh và khi cho con bú.
 
 ## Dự phòng
 
@@ -47,18 +47,18 @@ _Bảng: Bổ sung sắt trong thai kỳ._
 
 | Giai đoạn        | Hemoglobin (g/dL) | Ferritin (µg/L) | Khuyến cáo             |
 | ---------------- | ----------------- | --------------- | ---------------------- |
-| **3 tháng đầu**  | <9                | Bất kỳ          | Đánh giá bệnh nội khoa |
-|                  | 9-10.9            | >30             | Đánh giá bệnh nội khoa |
+| **3 tháng đầu**  | < 9                | Bất kỳ          | Đánh giá bệnh nội khoa |
+|                  | 9-10.9            | > 30             | Đánh giá bệnh nội khoa |
 |                  | 9-10.9            | 12-20           | 30 mg sắt/ngày         |
-|                  | ≥11               | ≤20             | 30 mg sắt/ngày         |
-|                  | 9-10.9            | <12             | 60-120 mg sắt/ngày     |
-|                  | >11               | >20             | Không cần bổ sung sắt  |
-| **3 tháng giữa** | <9                | Bất kỳ          | Đánh giá bệnh nội khoa |
-|                  | ≥10.5             | ≤20             | 30 mg sắt/ngày         |
-|                  | 9-10.4            | <12             | 60-120 mg sắt/ngày     |
-|                  | >10.5             | >20             | Không cần bổ sung sắt  |
-| **3 tháng cuối** | <9                | Bất kỳ          | Đánh giá bệnh nội khoa |
-|                  | ≥11               | Bất kỳ          | 30 mg sắt/ngày         |
+|                  | ≥ 11               | ≤ 20             | 30 mg sắt/ngày         |
+|                  | 9-10.9            | < 12             | 60-120 mg sắt/ngày     |
+|                  | > 11               | > 20             | Không cần bổ sung sắt  |
+| **3 tháng giữa** | < 9                | Bất kỳ          | Đánh giá bệnh nội khoa |
+|                  | ≥ 10.5             | ≤ 20             | 30 mg sắt/ngày         |
+|                  | 9-10.4            | < 12             | 60-120 mg sắt/ngày     |
+|                  | > 10.5             | > 20             | Không cần bổ sung sắt  |
+| **3 tháng cuối** | < 9                | Bất kỳ          | Đánh giá bệnh nội khoa |
+|                  | ≥ 11               | Bất kỳ          | 30 mg sắt/ngày         |
 |                  | 9-10.9            | Bất kỳ          | 60-120 mg sắt/ngày     |
 
 **WHO** khuyến nghị bổ sung 60 mg sắt nguyên tố và 200 µg acid folic hàng ngày từ khi mang thai đến khi sinh để phòng ngừa thiếu máu thiếu sắt.

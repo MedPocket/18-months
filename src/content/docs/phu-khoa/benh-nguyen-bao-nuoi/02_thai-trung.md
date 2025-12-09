@@ -97,20 +97,20 @@ _Hình ảnh "Phác đồ 1 nguyên tắc xử trí thai trứng - Bệnh viện
 **Phác đồ thường dùng:**
 
 - **MTX 5 ngày:** MTX 0.4 mg/kg/ngày tĩnh mạch hoặc tiêm bắp x 5 ngày, không quá 25 mg/ngày. Lặp lại chu kỳ mỗi 14 ngày.
-- **MTX 8 ngày (MTX/FA):** MTX 1 mg/kg hoặc MTX 50 mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0.1 mg/kg tiêm bắp hoặc uống 15mg sau liều MTX 24-30 giờ vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
+- **MTX 8 ngày (MTX/FA):** MTX 1 mg/kg hoặc MTX 50 mg/ngày tiêm bắp ngày 1, 3, 5, 7 + Folinic acid 0.1 mg/kg tiêm bắp hoặc uống 15 mg sau liều MTX 24-30 giờ vào ngày 2, 4, 6, 8. Lặp lại chu kỳ mỗi 14 ngày.
 - **Dacticin:** 12 µg/kg (10-13 µg/kg) hoặc 0.5 mg/ngày tĩnh mạch x 5 ngày liên tục. Thay thế cho MTX 5 ngày ở người bệnh có men gan cao. Lặp lại chu kỳ mỗi 14 ngày.
 
 **Chống chỉ định:**
 
 - Bạch cầu < 3000/mm³, bạch cầu đa nhân trung tính < 1500/mm³, tiểu cầu < 100,000/mm³.
-- Men gan AST, ALT > 100IU/L.
+- Men gan AST, ALT > 100 IU/L.
 
 **Tác dụng phụ:**
 
 - Nhiễm độc về huyết học và tủy xương như giảm bạch cầu, giảm 3 dòng tế bào, thiếu máu: Giảm bạch cầu dùng thuốc nâng bạch cầu (Filgrastim); Truyền máu hồng cầu lắng, tiểu cầu.
 - Nhiễm độc đường tiêu hóa như viêm niêm mạc miệng, viêm dạ dày, viêm ruột hoại tử: Nuôi bằng đường TM, ăn thức ăn lỏng, chia nhiều bữa nhỏ; Kháng sinh, vitamin; Truyền dịch và bù điện giải.
 - Nhiễm độc da: Rụng tóc, tăng dị ứng mẫn cảm.
-- Sử dụng kháng histamin và corticoid nếu có dị ứng: Ngưng hóa trị nếu men gan > 100IU/L; Thuốc bảo vệ tế bào gan: Biphenyl dimethyl dicarrboxylat.
+- Sử dụng kháng histamin và corticoid nếu có dị ứng: Ngưng hóa trị nếu men gan > 100 IU/L; Thuốc bảo vệ tế bào gan: Biphenyl dimethyl dicarrboxylat.
 
 **Không hóa dự phòng nếu bệnh nhân có thể tuân thủ theo dõi β-hCG nghiêm ngặt.**
 
