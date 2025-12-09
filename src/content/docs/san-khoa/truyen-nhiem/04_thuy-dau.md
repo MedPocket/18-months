@@ -3,7 +3,7 @@ title: Thủy đậu trong thai kỳ
 description: Quản lý thủy đậu trong thai kỳ.
 ---
 
-**Thủy đậu (trái rạ)** là bệnh truyền nhiễm cấp tính do virus _Varicella-Zoster - VZV_ họ Herpesviridae gây ra. Sau lần nhiễm đầu, virus có thể ẩn trong hạch thần kinh và tái hoạt động sau này gây zona (giời leo).
+**Thủy đậu (trái rạ)** là bệnh truyền nhiễm cấp tính do virus _Varicella-Zoster_ (VZV) họ _Herpesviridae_ gây ra. Sau lần nhiễm đầu, virus có thể ẩn trong hạch thần kinh và tái hoạt động sau này gây zona (giời leo).
 
 ## Dịch tễ
 

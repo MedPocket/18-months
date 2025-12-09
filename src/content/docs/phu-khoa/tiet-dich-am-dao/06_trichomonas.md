@@ -109,17 +109,17 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 
 - Metronidazole 2 g liều đơn vẫn được chấp nhận sau 1 quý đầu thai kỳ nếu lợi ích vượt rủi ro.
 - Tránh dùng trong 3 tháng đầu (đặc biệt liều kéo dài).
-- Nếu cần, có thể dùng Metronidazole 500 mg x 2 lần/ngày x 7 ngày sau quý I.
+- Nếu cần, có thể dùng metronidazole 500 mg x 2 lần/ngày x 7 ngày sau quý I.
 
 **Trường hợp tái phát hoặc kháng thuốc:**
 
-- Nếu tái phát sau 3 tháng, dùng Metronidazole 500 mg x 2 lần/ngày x 7 ngày.
-- Nếu tiếp tục tái phát, chuyển sang Tinidazole 2 g liều đơn hoặc điều trị kéo dài Metronidazole.
+- Nếu tái phát sau 3 tháng, dùng metronidazole 500 mg x 2 lần/ngày x 7 ngày.
+- Nếu tiếp tục tái phát, chuyển sang tinidazole 2 g liều đơn hoặc điều trị kéo dài metronidazole.
 
 ### Bạn tình
 
-- **Luôn điều trị đồng thời cho bạn tình** với Metronidazole 2 g liều đơn.
-- Nếu bạn tình dị ứng Metronidazole, có thể cân nhắc Tinidazole 2 g liều đơn.
+- **Luôn điều trị đồng thời cho bạn tình** với metronidazole 2 g liều đơn.
+- Nếu bạn tình dị ứng metronidazole, có thể cân nhắc tinidazole 2 g liều đơn.
 - Hạn chế quan hệ tình dục cho đến khi cả hai đã hoàn thành điều trị và triệu chứng hết hoàn toàn (ít nhất 7 ngày sau dùng Metronidazole liều đơn).
 
 ### Theo dõi sau điều trị

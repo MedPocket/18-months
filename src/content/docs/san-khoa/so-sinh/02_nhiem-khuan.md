@@ -9,12 +9,12 @@ Nhiễm khuẩn sơ sinh (neonatal sepsis) là tình trạng nhiễm trùng toà
 
 **Vi khuẩn:**
 
-- Khởi phát sớm: Thường do vi khuẩn từ mẹ truyền sang con trong quá trình chuyển dạ và sinh (Streptococcus nhóm B, E. coli, Listeria monocytogenes).
-- Khởi phát muộn: Thường liên quan đến nhiễm khuẩn bệnh viện hoặc môi trường (Staphylococcus aureus, Klebsiella, Pseudomonas, Candida).
+- Khởi phát sớm: Thường do vi khuẩn từ mẹ truyền sang con trong quá trình chuyển dạ và sinh (_Streptococcus_ nhóm B, _E. coli_, _Listeria monocytogenes_).
+- Khởi phát muộn: Thường liên quan đến nhiễm khuẩn bệnh viện hoặc môi trường (_Staphylococcus aureus_, _Klebsiella_, _Pseudomonas_, _Candida_).
 
 **Virus:** Cytomegalovirus, Herpes simplex virus, enterovirus.
 
-**Nấm:** Candida albicans, đặc biệt ở trẻ non tháng hoặc nằm viện lâu dài.
+**Nấm:** _Candida albicans_, đặc biệt ở trẻ non tháng hoặc nằm viện lâu dài.
 
 ## Yếu tố nguy cơ
 
@@ -74,7 +74,7 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 
 - **Ampicillin:** 100-200 mg/kg/ngày, chia 2-3 lần, đường tĩnh mạch.
 - **Gentamicin:** 4-5 mg/kg/lần, mỗi 24-48 giờ (tùy tuổi thai và chức năng thận).
-- Hoặc thay Gentamicin bằng **Cefotaxime:** 100-150 mg/kg/ngày, chia 2-3 lần, đường tĩnh mạch.
+- Hoặc thay gentamicin bằng **cefotaxime:** 100-150 mg/kg/ngày, chia 2-3 lần, đường tĩnh mạch.
 
 **Nhiễm khuẩn khởi phát muộn hoặc bệnh viện:**
 

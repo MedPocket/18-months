@@ -127,7 +127,7 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 
 - _Neisseria gonorrhoeae:_ Tiểu buốt, tiểu nhiều, tiết dịch mủ, thường diễn biến nhanh (1-5 ngày sau quan hệ).
 - _Trichomonas vaginalis:_ Huyết trắng bọt, mùi tanh, ngứa âm đạo.
-- _Mycoplasma genitalium:_ Triệu chứng giống Chlamydia nhưng ít gặp và khó chẩn đoán.
+- _Mycoplasma genitalium:_ Triệu chứng giống _Chlamydia_ nhưng ít gặp và khó chẩn đoán.
 
 **Viêm cổ tử cung:**
 
@@ -135,7 +135,7 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 - _Lao sinh dục:_ Thăm khám thấy các ổ viêm, chảy máu dễ, cần cấy Mycobacterium tuberculosis.
 - _Ureaplasma urealyticum_, _Ureaplasma parvum_, _Mycoplasma hominis:_ Thường đồng nhiễm, khó tách biệt lâm sàng, cần xét nghiệm PCR chuyên biệt.
 - _Cytomegalovirus (CMV):_ Hiếm nếu không suy giảm miễn dịch.
-- _Liên cầu tan huyết beta nhóm B (Streptococcus agalactiae):_ Thường là tác nhân gây viêm hậu sản hơn là STD.
+- Liên cầu tan huyết beta nhóm B (_Streptococcus agalactiae_): Thường là tác nhân gây viêm hậu sản hơn là STD.
 
 **Viêm hậu môn - trực tràng:**
 

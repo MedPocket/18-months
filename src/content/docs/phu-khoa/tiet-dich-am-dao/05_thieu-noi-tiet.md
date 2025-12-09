@@ -45,7 +45,7 @@ Do thiếu hụt estrogen ở phụ nữ tuổi mãn kinh (hoặc sau cắt bu�
 
 ### Chẩn đoán phân biệt
 
-Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, Trichomonas) vì phương pháp điều trị khác nhau.
+Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, _Trichomonas_) vì phương pháp điều trị khác nhau.
 
 ## Điều trị
 
