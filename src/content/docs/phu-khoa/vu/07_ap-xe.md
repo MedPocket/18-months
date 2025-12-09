@@ -1,6 +1,6 @@
 ---
 title: Áp xe vú
-description: Chẩn đoán, xử trí, phân lọai áp xe vú.
+description: Chẩn đoán, xử trí, phân loại áp xe vú.
 ---
 
 **Áp xe vú** là tình trạng tụ mủ khu trú trong mô vú. Trong giai đoạn tiết sữa, tỷ lệ viêm vú chiếm khoảng 1-10%. Áp xe vú chiếm 3-11% trong số các trường hợp viêm vú và gặp ở khoảng 0.1-0.3% phụ nữ đang nuôi con bằng sữa mẹ.

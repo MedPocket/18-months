@@ -90,7 +90,7 @@ Nhiễm thủy đậu có thể gây **hội chứng thủy đậu bẩm sinh** 
 - Vệ sinh cá nhân và môi trường (khử khuẩn bề mặt, giặt giũ đồ dùng).
 - Tiêm vaccine thủy đậu sống giảm độc lực (hiệu quả 85-95%) **trước khi mang thai ít nhất 1 tháng.**
 - Phụ nữ mang thai không tiêm vaccine sống.
-- Nếu mẹ tiếp xúc VZV và chưa có miễn dịch, có thể tiêm immunoglobulin đặc hiệu (_Varicella-Zoster_ IG) 125-250 đơn vị tĩnh mạch/liều, tùy nguy cơ.
+- Nếu mẹ tiếp xúc VZV và chưa có miễn dịch, có thể tiêm immunoglobulin đặc hiệu (_Varicella-Zoster_ IG) 125-250 đơn vị tiêm bắp/liều, tùy nguy cơ.
 
 ## Tài liệu tham khảo
 

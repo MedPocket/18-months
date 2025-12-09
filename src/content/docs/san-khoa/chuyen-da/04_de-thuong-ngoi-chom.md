@@ -75,7 +75,7 @@ _Hình ảnh "Đẻ thường ngôi chỏm e → f"_.
 - Quấn lỏng: Tháo.
 - Quấn chặt: Kẹp và cắt.
 
-**Xoay ngoài thì 1st** đầu tự xoay về vị trí ban đầu. **Xoay ngoài thì 2nd** vai xoay trong → đầu xoay ngoài thêm → vào đường kính trước sau.
+**Xoay ngoài thì thứ nhất** đầu tự xoay về vị trí ban đầu. **Xoay ngoài thì thứ hai** vai xoay trong → đầu xoay ngoài thêm → vào đường kính trước sau.
 
 **Đỡ vai trước** kéo đầu về phía chân người đỡ, xuống dưới để vai ra. **Đỡ vai sau** kéo thai lên trên, vai sau sổ nhẹ nhàng, giữ tầng sinh môn.
 

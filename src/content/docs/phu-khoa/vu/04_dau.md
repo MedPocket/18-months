@@ -65,7 +65,7 @@ Nguyên nhân chính của đau vú theo chu kỳ liên quan đến thay đổi 
 - **Stress tâm lý:** Tăng cortisol, thay đổi hormone, gây đau mạn tính.
 - **Hoại tử mô mỡ (fat necrosis):** Sau chấn thương hoặc phẫu thuật vú, mô mỡ có thể bị tổn thương, tạo nên cục đau tại chỗ.
 - **Sẹo mổ cũ:** Tạo dải xơ hóa kéo căng dây chằng Cooper, gây đau khi vặn người hoặc vận động.
-- **Viêm mô vú không nhiễm khuẩn:** Ví dụ viêm xơ tuyến vú, viêm quanh chẩn tuyến.
+- **Viêm mô vú không nhiễm khuẩn:** Ví dụ viêm xơ tuyến vú, viêm quanh ống tuyến.
 - **Xoắn dây chằng Cooper:** Nhiều khi chẩn đoán muộn do mô vú nhỏ co kéo dây chằng.
 - **Hội chứng Mondor:** Viêm tắc tĩnh mạch nông vùng thành ngực, đau dọc theo tĩnh mạch.
 - **Bệnh lý tuyến vú ở người đái tháo đường:** Thường kèm xơ hóa và đau.

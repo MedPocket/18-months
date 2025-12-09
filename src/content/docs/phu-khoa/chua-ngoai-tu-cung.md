@@ -187,7 +187,7 @@ Khi điều trị MTX cần lưu ý:
 - Tránh tiếp xúc ánh nắng mạnh.
 - Hoãn mang thai ít nhất 3 tháng sau điều trị.
 - Không chỉ định siêu âm thường quy sau tiêm.
-- Xét nghiệm tiền hóa trị: Công thức máu, nhóm máu, đông máu; Chức năng gan, thận; X-quang phổi, ECG.
+- Xét nghiệm tiền hóa trị: Công thức máu, nhóm máu, đông máu; Chức năng gan, thận; X-quang phổi, điện tâm đồ (ECG).
 
 :::
 

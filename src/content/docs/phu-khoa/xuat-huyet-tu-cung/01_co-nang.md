@@ -46,8 +46,8 @@ Xuất huyết tử cung cơ năng thường xảy ra khi nội mạc tử cung 
 - Dấu hiệu cường androgen (mụn trứng cá nặng, rậm lông, béo phì kiểu nam).
 - Khám phụ khoa để loại trừ các bất thường cấu trúc của tử cung và buồng trứng.
 
-_Hình ảnh "Acantosis nigricans, rậm lông và mụn trứng cá nặng, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường"_.
-![Acantosis nigricans, rậm lông và mụn trứng cá nặng](./_images/xuat-huyet-tu-cung-co-nang/acantosis-nigricans-ram-long-mun-trung-ca.png)
+_Hình ảnh "Acanthosis nigricans, rậm lông và mụn trứng cá nặng, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường"_.
+![Acanthosis nigricans, rậm lông và mụn trứng cá nặng](./_images/xuat-huyet-tu-cung-co-nang/acantosis-nigricans-ram-long-mun-trung-ca.png)
 
 ### Cận lâm sàng
 
@@ -117,7 +117,7 @@ Giúp quan sát trực tiếp và loại trừ nguyên nhân thực thể trong 
 **Thuốc cầm máu và tăng co tử cung:**
 
 - **Oxytocin** tiêm bắp hoặc truyền TM.
-- **Ergometri**n 0.2 mg, 1-2 ống/ngày, tiêm bắp.
+- **Ergometrin** 0.2 mg, 1-2 ống/ngày, tiêm bắp.
 - **Tranexamic acid, calci clorid** tiêm TM.
 
 **Thuốc nội tiết:**

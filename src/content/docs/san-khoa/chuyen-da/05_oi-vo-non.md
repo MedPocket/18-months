@@ -27,7 +27,7 @@ Chẩn đoán xác định khi quan sát thấy dịch lỏng chảy ra đột n
 
 **Test Nitrazine:** Dựa trên nguyên lý dịch âm đạo và nước tiểu có tính acid, còn nước ối có tính kiềm. Dùng giấy thử Nitrazine nhúng vào dịch tại lưỡi mỏ vịt. Nếu có nước ối, giấy sẽ đổi màu từ **vàng sang xanh lam.** Kết quả dương tính giả có thể xảy ra nếu có máu hoặc một số nhiễm trùng âm đạo.
 
-**Test dương sỉ:** Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới tác dụng của estrogen, tạo hình ảnh như **lá dương xỉ** khi quan sát dưới kính hiển vi sau khi làm khô lam kính. Dễ gặp kết quả âm tính giả.
+**Test dương xỉ:** Dựa trên hiện tượng kết tinh muối NaCl trong nước ối dưới tác dụng của estrogen, tạo hình ảnh như **lá dương xỉ** khi quan sát dưới kính hiển vi sau khi làm khô lam kính. Dễ gặp kết quả âm tính giả.
 
 **Siêu âm:** Đánh giá lượng nước ối, ngôi thai, sự phát triển thai.
 

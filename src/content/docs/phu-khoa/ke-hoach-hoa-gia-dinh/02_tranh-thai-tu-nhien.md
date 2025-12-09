@@ -39,7 +39,7 @@ Các phương pháp phổ biến gồm xuất tinh ngoài, tính ngày an toàn,
 **Nhược điểm:**
 
 - Hiệu quả thấp, phụ thuộc vào kỹ năng và kỷ luật.
-- Không bảo vệ khỏi các bệnh lây qua đường tình dục (các bệnh lây qua đường tình dục).
+- Không bảo vệ khỏi các bệnh lây qua đường tình dục (STDs).
 
 :::caution
 

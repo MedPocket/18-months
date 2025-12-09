@@ -119,7 +119,7 @@ _Hình ảnh "Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ"_.
 
 **Phương pháp** lựa chọn dựa vào tạng sa, độ sa, tuổi, mong muốn sinh đẻ, sức khỏe, điều kiện thiết bị, kinh nghiệm phẫu thuật viên:
 
-- **Sa thành trước:** **Bàng quang:** Repair paravaginal defect (mảnh ghép polypropylene hoặc may cân ngang). **Niệu đạo:** Sling (TOT/TVT/mini-sling), phẫu thuật Burch.
+- **Sa thành trước:** **Bàng quang:** Sửa chữa khiếm khuyết cạnh âm đạo (Repair paravaginal defect - mảnh ghép polypropylene hoặc may cân ngang). **Niệu đạo:** Sling (TOT/TVT/mini-sling), phẫu thuật Burch.
 - **Sa thành sau:** **Trực tràng:** May cân trực tràng-âm đạo, mảnh ghép polypropylene. Khâu phục hồi cơ nâng hậu môn, tái tạo nút sàn chậu.
 - **Sa tử cung và mỏm cắt:** Treo tử cung vào mỏm nhô hoặc dây chằng cùng-gai (khâu không tan hoặc mảnh ghép). May ngắn dây chằng tử cung-cùng. Cắt tử cung bán phần hoặc toàn phần kèm cố định mỏm cắt.
 - **Mảnh ghép tổng hợp:** **Chỉ định:** Sa độ III-IV, sa tái phát, chống chỉ định phẫu thuật kéo dài. **Chống chỉ định tuyệt đối:** Rối loạn đông máu, xơ gan, bệnh lý mạch máu, đái tháo đường không kiểm soát, nhiễm khuẩn, tiền ung thư chưa điều trị, xạ trị vùng chậu, nghiện thuốc lá nặng. **Chống chỉ định tương đối:** Niêm mạc âm đạo mỏng, vết thương niệu đạo/bàng quang/trực tràng, kèm cắt tử cung, không đủ mô che phủ.

@@ -19,7 +19,7 @@ Các phương pháp phổ biến gồm: bao cao su, màng chắn âm đạo, mũ
 
 ### Chỉ định - Chống chỉ định
 
-**Chỉ định:** Tất cả các cặp đôi muốn tránh thai và phòng bệnh lây truyền qua đường tình dục (các bệnh lây truyền qua đường tình dục, HIV).
+**Chỉ định:** Tất cả các cặp đôi muốn tránh thai và phòng bệnh lây truyền qua đường tình dục (STDs, HIV).
 
 **Chống chỉ định:** Dị ứng latex (có thể dùng loại polyurethane hoặc polyisoprene thay thế).
 

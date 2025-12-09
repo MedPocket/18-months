@@ -17,7 +17,7 @@ Khả năng sinh sản cao nhất của nam và nữ là ở 24 tuổi, sau tu�
 - Chỉ từ vợ chiếm 30-40% các trường hợp.
 - Chỉ từ chồng chiếm 30-40% các trường hợp.
 - Cả vợ và chồng chiếm 20% các trường hợp.
-- Không rõ nguyên nhần chiếm 10-15% các trường hợp.
+- Không rõ nguyên nhân chiếm 10-15% các trường hợp.
 
 ## Tài liệu tham khảo
 

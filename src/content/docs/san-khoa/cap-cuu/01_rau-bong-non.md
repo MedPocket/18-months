@@ -73,7 +73,7 @@ Sốc có thể xảy ra nhanh dù máu mất qua âm đạo ít. Nặng có th�
 
 ### Rối loạn đông máu
 
-Tiêu thụ yếu tố đông máu do khối máu tụ → Thromboplastin từ màng rụng phóng thích kích hoạt DIC → DIC thúc đẩy tiêu fibrin, tạo sản phẩm chống đông.
+Tiêu thụ yếu tố đông máu do khối máu tụ → Thromboplastin từ màng rụng phóng thích kích hoạt DIC → DIC thúc đẩy tiêu sợi huyết, tạo sản phẩm chống đông.
 
 Tử cung Couvelaire:
 

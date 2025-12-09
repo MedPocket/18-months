@@ -22,11 +22,11 @@ _Bảng "Phân loại bệnh lý tuyến vú theo đặc điểm lâm sàng"_.
 | **Nhiễm trùng vú và viêm vú**                               | - Viêm vú nội sinh (Intrinsic mastitis)<br>- Căng sữa sau sinh<br>- Viêm vú khi cho bú<br>- Áp xe vú khi cho bú<br>- Áp xe dưới quầng vú tái phát mạn tính<br>- Viêm vú cấp tính liên quan đến các nang vú<br>- Nhiễm trùng vú ngoại sinh (Extrinsic infection)<br>- Bệnh Mondor |
 | **Những tổn thương có nguy cơ phát triển thành ung thư vú** | - Tăng sinh trong ống dẫn sữa (Ductal hyperplasia)<br>- Bệnh lý xơ nang tuyến vú (Sclerosing adenosis)<br>- Bướu sợi tuyến phức tạp (Complex fibroadenomas)<br>- Tăng sản không điển hình (Atypical hyperplasia)<br>- Sẹo hình sao (Radial scar)                                 |
 
-| Phân loại bệnh lý tuyến vú theo mô học                                    | Các dạng cụ thể                                                                                                                                                                                      |
-| ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tổn thương không tăng sinh**                                            | - Nang đơn giản<br>- Nang phức tạp                                                                                                                                                                   |
-| **Tổn thương tăng sinh không có tế bào không điển hình (without atypia)** | - Tăng sinh ống tuyến vú (Ductal hyperplasia)<br>- Bướu sợi tuyến<br>- U nhú trong ống tuyến (Intraductal adenoma)<br>- Bệnh xơ nang tuyến vú (Sclerosing adenoma)<br>- Sẹo hình sao (Radical scars) |
-| **Tăng sinh không điển hình**                                             | - Tăng sinh ống tuyến không điển hình (Ductal)<br>- Tăng sinh tiểu thùy không điển hình (Lobular)                                                                                                    |
+| Phân loại bệnh lý tuyến vú theo mô học                                    | Các dạng cụ thể                                                                                                                                                                                     |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Tổn thương không tăng sinh**                                            | - Nang đơn giản<br>- Nang phức tạp                                                                                                                                                                  |
+| **Tổn thương tăng sinh không có tế bào không điển hình (without atypia)** | - Tăng sinh ống tuyến vú (Ductal hyperplasia)<br>- Bướu sợi tuyến<br>- U nhú trong ống tuyến (Intraductal adenoma)<br>- Bệnh xơ nang tuyến vú (Sclerosing adenoma)<br>- Sẹo hình sao (Radial scars) |
+| **Tăng sinh không điển hình**                                             | - Tăng sinh ống tuyến không điển hình (Ductal)<br>- Tăng sinh tiểu thùy không điển hình (Lobular)                                                                                                   |
 
 ## Bướu sợi tuyến
 
@@ -50,7 +50,7 @@ _Hình ảnh "(Trái, trên) Siêu âm bướu sợi-tuyến: Khối giảm âm,
 **Siêu âm:**
 
 - Khối giảm âm đồng nhất, bờ rõ, đôi khi có múi, thành trước dày, tăng âm phía sau (posterior acoustic enhancement).
-- Hình dạng: Hình tròn hoặc bầu dục, chiều dài lớn hơn chiều ngang (orientation "parallel" với da).
+- Hình dạng: Hình tròn hoặc bầu dục, chiều dài lớn hơn chiều ngang (định hướng song song với da).
 
 **Nhũ ảnh:**
 
@@ -103,11 +103,11 @@ _Hình ảnh "Bướu diệp thể: Khối lớn, rõ, có các vùng hóa nang 
 #### Chẩn đoán phân biệt
 
 - **Fibroadenoma lớn, khối u xơ-nhân khác:** Khối không tăng nhanh hoặc không có vùng hóa nang rõ. FNA kém tin cậy do thành phần mô không đồng nhất.
-- **Core biopsy:** Cần thiết để phân biệt giữa lành, giáp biên và ác, dựa vào độ xâm lấn mô đệm, biệt hóa tế bào, tỷ lệ tế bào nhân lên.
+- **Core biopsy:** Cần thiết để phân biệt giữa bướu lành, giáp biên và ác tính, dựa vào độ xâm lấn mô đệm, biệt hóa tế bào, tỷ lệ tế bào nhân lên.
 
 ### Điều trị
 
-- **Phẫu thuật cắt rộng:** Bướu benign cần mổ lấy rộng bờ ≥ 1 cm, bướu borderline/ ác tính cần cắt rộng càng nhiều càng tốt.
+- **Phẫu thuật cắt rộng:** Bướu lành tính cần mổ lấy rộng bờ ≥ 1 cm, bướu giáp biên/ ác tính cần cắt rộng càng nhiều càng tốt.
 - **Tái phát:** Liên quan trực tiếp đến bờ phẫu thuật. Khoảng 20% bướu diệp thể tái phát khi bờ phẫu thuật không đủ rộng.
 - **Mổ cắt đoạn hoặc cắt toàn bộ vú (mastectomy):** Nếu khối quá lớn so với vú, không thể bảo tồn vú.
 - **Xạ trị hậu phẫu:** Đôi khi cân nhắc cho bướu borderline hoặc ác tính, nhất là khối tái phát hoặc bờ mổ dương tính.

@@ -38,13 +38,13 @@ _Bảng "Phân loại PALM"_.
 
 _Bảng "Phân loại COEIN"_.
 
-|                           | Nguyên nhân không thuộc cấu trúc (COEIN)                                             |
-| ------------------------- | ------------------------------------------------------------------------------------ |
-| **C**oagulopathy          | Rối loạn đông máu (di truyền hoặc mắc phải)                                          |
-| **O**vulatory Dysfunction | Rối loạn phóng noãn (ví dụ: PCOS, thiếu hụt nội tiết)                                |
-| **E**ndometrial           | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: Bất thường mạch máu nội mạc)             |
-| **I**atrogenic            | Do thuốc hoặc các thủ thuật y tế (thiếu ốc chèn, dụng cụ tử cung, thuốc nội tiết...) |
-| **N**ot yet classified    | Nguyên nhân chưa rõ hoặc chưa phân loại được                                         |
+|                           | Nguyên nhân không thuộc cấu trúc (COEIN)                                                |
+| ------------------------- | --------------------------------------------------------------------------------------- |
+| **C**oagulopathy          | Rối loạn đông máu (di truyền hoặc mắc phải)                                             |
+| **O**vulatory Dysfunction | Rối loạn phóng noãn (ví dụ: PCOS, thiếu hụt nội tiết)                                   |
+| **E**ndometrial           | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: Bất thường mạch máu nội mạc)                |
+| **I**atrogenic            | Do thuốc hoặc các thủ thuật y tế (thuốc kháng đông, dụng cụ tử cung, thuốc nội tiết...) |
+| **N**ot yet classified    | Nguyên nhân chưa rõ hoặc chưa phân loại được                                            |
 
 ## Chẩn đoán
 
@@ -139,7 +139,7 @@ Chỉ định khi SIS hoặc TVUS không xác định rõ tổn thương, hoặc
 **Cầm máu cấp** (nếu AUB cấp tính hoặc mạn tính nặng):
 
 - Điều trị nội khoa khẩn cấp bằng steroid ngoại sinh (estrogen và/hoặc progestogen).
-- Các thuốc cầm máu không chuyên biệt: NSAID (ibuprofen, naproxen) giảm prostaglandin, anti-fibrinolytics (tranexamic acid).
+- Các thuốc cầm máu không chuyên biệt: NSAID (ibuprofen, naproxen) giảm prostaglandin, thuốc chống tiêu sợi huyết (anti-fibrinolytics) như tranexamic acid.
 
 **Xử trí nguyên nhân:**
 
@@ -183,10 +183,10 @@ Estrogen cần được cho đủ liều để nội mạc phát triển nhanh n
 **Nội soi buồng tử cung (Hysteroscopic surgery):**
 
 - **Cắt polyp nội mạc:** Loại bỏ polyp lành tính, hạn chế chảy máu và cải thiện sinh sản.
-- **Cắt class u xơ dưới niêm mạc:** Bóc tách khối u xơ chèn ép nội mạc, giảm chứng rong huyết.
+- **Cắt khối u xơ dưới niêm mạc:** Bóc tách khối u xơ chèn ép nội mạc, giảm chứng rong huyết.
 - **Dính buồng tử cung:** Nong tách và cắt dính, khôi phục buồng tử cung.
 
-**Đốt/vắc bỏ nội mạc tử cung (Endometrial ablation/resection):**
+**Đốt/cắt bỏ nội mạc tử cung (Endometrial ablation/resection):**
 
 - Dùng các phương pháp: Sóng vi sóng, laser, năng lượng radio, thòng lọng điện (resectoscope) để tiêu hủy lớp nội mạc tận gốc.
 - Chỉ định cho phụ nữ đã đủ con và muốn điều trị triệt để AUB cơ năng hoặc tăng sinh nội mạc nhẹ.

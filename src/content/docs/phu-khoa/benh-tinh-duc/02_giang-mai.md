@@ -90,7 +90,7 @@ Khoảng 25% bệnh nhân trong giai đoạn kín tiến triển thành giang ma
 **Biểu hiện giang mai bẩm sinh sớm (< 2 tuổi):**
 
 - Thai lưu, sinh non, nhẹ cân.
-- Trẻ sơ sinh: Viêm kết mạc (chảy mủ mắt, sưng mí), viêm mũi ("snuffles" - hắt hơi, chảy máu mũi), gan lách to, viêm xương sụn (viêm xương Tính chất xơ → đau, sưng), viêm màng não, viêm màng tim, viêm da chảy dịch. Hạch ngoại vi sưng to.
+- Trẻ sơ sinh: Viêm kết mạc (chảy mủ mắt, sưng mí), viêm mũi ("snuffles" - hắt hơi, chảy máu mũi), gan lách to, viêm xương sụn (viêm xương tính chất xơ → đau, sưng), viêm màng não, viêm màng tim, viêm da chảy dịch. Hạch ngoại vi sưng to.
 
 **Biểu hiện giang mai bẩm sinh muộn (> 2 tuổi):**
 
@@ -200,7 +200,7 @@ Quy trình chẩn đoán thường là:
 #### Giang mai bẩm sinh
 
 - **Nhiễm khuẩn khác ở trẻ sơ sinh:** Staphylococcus, Streptococcus, Haemophilus influenzae, _Chlamydia trachomatis_ (gây viêm kết mạc, viêm phổi).
-- **Rickets (nhuyễn xương):** Giống viêm xương sụn giang mai muộn nhưng xét nghiệm huyết thanh âm tính giang mai.
+- **Rickets (còi xương):** Giống viêm xương sụn giang mai muộn nhưng xét nghiệm huyết thanh âm tính giang mai.
 - **Bệnh nấm (Blastomyces, Histoplasma) hoặc bệnh lý di truyền ảnh hưởng xương, da.**
 
 ## Điều trị

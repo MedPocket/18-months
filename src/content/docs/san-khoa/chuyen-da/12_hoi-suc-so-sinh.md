@@ -49,7 +49,7 @@ _Hình ảnh "Lưu đồ hồi sức sơ sinh"_.
 
 1. **Giảm thất thoát nhiệt:** Lau khô, đặt dưới đèn sưởi. Hút dịch mũi-họng nếu cần.
 2. **Đánh giá hô hấp & hỗ trợ:** Chờ 30 giây đầu để trẻ hít thở tự nhiên. Nếu không thở hoặc thở yếu **thông khí áp lực dương** (PPV) qua mặt nạ, 40-60 lần/phút, FiO₂ 21-100%. Áp lực phục hồi phế nang 30-40 cmH₂O, có van an toàn.
-3. **Đánh giá nhịp tim** sau 30 giây PPV: Nhịp tim ≥ 100 ck/p tiếp tục theo dõi, ngừng PPV. Nhịp tim 60-99 ck/p tiếp tục PPV. Nhịp tim < 60 ck/p bắt đầu **ấn ngực**, 3:1 (PPV:ấn chèn), 120 lần/phút, đồng thời xem xét **adrenaline.** Hầu hết trẻ phục hồi nhịp tim nhanh sau thông khí hiệu quả. Nếu vẫn < 60 ck/p sau 30 giây ấn ngực, đặt nội khí quản, cho thuốc.
+3. **Đánh giá nhịp tim** sau 30 giây PPV: Nhịp tim ≥ 100 ck/p tiếp tục theo dõi, ngừng PPV. Nhịp tim 60-99 ck/p tiếp tục PPV. Nhịp tim < 60 ck/p bắt đầu **ấn ngực**, 3:1 (ấn ngực : thông khí), 120 lần/phút, đồng thời xem xét **adrenaline.** Hầu hết trẻ phục hồi nhịp tim nhanh sau thông khí hiệu quả. Nếu vẫn < 60 ck/p sau 30 giây ấn ngực, đặt nội khí quản, cho thuốc.
 4. **Chuyển giai đoạn theo đáp ứng:** Tim ≥ 100 ck/p, tự hô hấp → chuyển về chăm sóc thông thường. Tiếp tục các bước khi tim < 100 ck/p.
 
 ## Theo dõi

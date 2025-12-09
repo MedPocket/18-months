@@ -62,7 +62,7 @@ Steroid sinh dục tác động lên tế bào đích theo hai đường qua gen
 ### Qua gene
 
 - Hormone khuếch tán vào tế bào, gắn với **thụ thể nhân** (ER-α/ER-β cho estrogen; PR-A/PR-B cho progesterone; AR cho androgen).
-- Phức hợp hormone-thụ thể cắt HSP, hóa trị dimer, gắn lên ERE/​PRE/​ARE (Estrogen/Progesterone/​Androgen Response Elements) trên DNA.
+- Phức hợp hormone-thụ thể cắt HSP, dimer hóa, gắn lên ERE/​PRE/​ARE (Estrogen/Progesterone/​Androgen Response Elements) trên DNA.
 - Tuyến tính: Chậm (giờ-ngày), khởi phát protein mới.
 
 ### Không qua gene
@@ -79,8 +79,8 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 
 ### Nội mạc tử cung
 
-- **Estrogen** (pha proliferative): Thúc đẩy phân bào tuyến & mô đệm, gia tăng ER/PR, phát triển mạch thẳng.
-- **Progesterone** (pha secretory): Chuyển tuyến sang chế tiết, xoắn mạch, ứ glycogen, chuẩn bị làm tổ.
+- **Estrogen** (pha tăng sinh - proliferative): Thúc đẩy phân bào tuyến & mô đệm, gia tăng ER/PR, phát triển mạch thẳng.
+- **Progesterone** (pha chế tiết - secretory): Chuyển tuyến sang chế tiết, xoắn mạch, ứ glycogen, chuẩn bị làm tổ.
 - **Hành kinh:** Sụt đột ngột E₂ & P₄ → bong niêm mạc.
 
 ### Cổ tử cung

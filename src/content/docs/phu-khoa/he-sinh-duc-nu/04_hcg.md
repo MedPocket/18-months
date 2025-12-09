@@ -7,7 +7,7 @@ description: Tổng quan về hormone hCG.
 
 ## Nguồn gốc
 
-**Chủ yếu:** Tế bào hội bào nuôi (syncytiotrophoblast) của bánh rau; Giai đoạn < 5 tuần còn từ nguyên bào nuôi (cytotrophoblast). **Ngoài ra:** Thận, tuyến yên, một số mô khác → giải thích hCG tăng trong u tân sinh ngoài bánh rau.
+**Chủ yếu:** Tế bào hợp bào nuôi (syncytiotrophoblast) của bánh rau; Giai đoạn < 5 tuần còn từ nguyên bào nuôi (cytotrophoblast). **Ngoài ra:** Thận, tuyến yên, một số mô khác → giải thích hCG tăng trong u tân sinh ngoài bánh rau.
 
 **Mức nền:** Rất thấp ở nam và nữ không có thai (nhiều khả năng từ tuyến yên trước).
 
@@ -25,7 +25,7 @@ description: Tổng quan về hormone hCG.
 
 ## Chuyển hóa
 
-**Bán thai:** 36 giờ (LH 20 phút) → duy trì tác dụng lâu dài.
+**Bán thải:** 36 giờ (LH 20 phút) → duy trì tác dụng lâu dài.
 
 **Thải trừ:** HCG nguyên vẹn, phân mảnh α/β, thoái giáng → phát hiện trong cả huyết thanh và nước tiểu.
 
@@ -70,7 +70,7 @@ _Bảng "Ngưỡng β-hCG"_.
 | **4-6 tuần sau sinh** | < 5                |
 
 :::caution
-Nếu β-hCG > 1500 mIU/mL (TV âm đạo) hoặc > 3000 mIU/mL (TV bụng) mà không thấy túi thai → cân nhắc thai ngoài tử cung hoặc thai bất thường.
+Nếu β-hCG > 1500 mIU/mL (siêu âm đầu dò âm đạo) hoặc > 3000 mIU/mL (siêu âm qua thành bụng) mà không thấy túi thai → cân nhắc thai ngoài tử cung hoặc thai bất thường.
 :::
 
 ## Tài liệu tham khảo

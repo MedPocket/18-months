@@ -1,6 +1,6 @@
 ---
 title: Bệnh nguyên bào nuôi
-description: Bệnh nguyên bào nuôi thai kỳ: Đặc điểm, phân loại và chẩn đoán.
+description: Đặc điểm, phân loại và chẩn đoán bệnh nguyên bào nuôi.
 ---
 
 **Bệnh nguyên bào nuôi thai kỳ (GTD)** là nhóm bệnh có sự tăng sinh bất thường của các nguyên bào nuôi liên quan đến thai nghén. Mặc dù đa số là lành tính (thai trứng), nhưng có thể tiến triển thành u nguyên bào nuôi ác tính với khả năng xâm lấn tại chỗ và di căn xa (phổi, não, gan...).
@@ -14,7 +14,7 @@ Tiêu chuẩn chẩn đoán bao gồm siêu âm, định lượng β-hCG và gi�
 **Thai trứng toàn phần (Complete mole):**
 
 - NST thường là 46,XX toàn bố (đơn bố) hoặc 46,XY (hiếm).
-- Không có mô phôi phôi thai; Hình ảnh siêu âm "mây tuyết", tăng sản gai rau lan toả.
+- Không có mô phôi thai; Hình ảnh siêu âm "mây tuyết", tăng sản gai rau lan toả.
 
 **Thai trứng bán phần (Partial mole):**
 

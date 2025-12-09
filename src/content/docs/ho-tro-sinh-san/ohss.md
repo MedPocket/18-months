@@ -54,7 +54,7 @@ _Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ_.
 
 - NaCl 0,9%: 500-1000 mL/ngày.
 - Glucose 5%: 500-1000 mL/ngày.
-- **Tránh Lactated Ringer** vì nguy cơ tăng K⁺.
+- **Tránh Ringer lactat** vì nguy cơ tăng K⁺.
 
 **Chọc hút dịch ổ bụng khi** bụng căng, khó thở, thiểu niệu, ăn uống kém.
 
@@ -104,4 +104,4 @@ _Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ_.
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa: Bệnh nguyên bào nuôi_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa: Quá kích buồng trứng_

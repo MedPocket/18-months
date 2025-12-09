@@ -35,7 +35,7 @@ Cụ thể:
 
 Có thể bổ sung progesterone sau gây phóng noãn 2 ngày:
 
-- Progesterone micronised (utrogestan, progendo, cyclogest, crinone 8%) liều 200 mg x 3 lần/ngày, dùng 3-5 ngày.
+- Progesterone micronized (utrogestan, progendo, cyclogest, crinone 8%) liều 200 mg x 3 lần/ngày, dùng 3-5 ngày.
 - Chuyển phôi ngày 3 sau 5 ngày kể từ khi gây phóng noãn. Chuyển phôi ngày 5 sau 7 ngày kể từ khi gây phóng noãn.
 
 ## Tài liệu tham khảo

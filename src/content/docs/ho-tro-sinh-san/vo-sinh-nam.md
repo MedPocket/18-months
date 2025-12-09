@@ -13,60 +13,60 @@ Mục đích của việc khảo sát vô sinh ở nam giới là nhằm xác đ
 
 _Bảng "Phân loại tổn thương chức năng tinh hoàn theo vùng tổn thương"._
 
-| Vùng tổn thương                                   | Loại tổn thương                                             | Nguyên nhân                                                                                                  |
-| ------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| **Hạ đồi và tuyến yên**                           |                                                             |                                                                                                              |
-|                                                   | Hội chứng Kallmann, Suy giảm chức năng sinh sản nguyên phát | Rối loạn di truyền về chế tiết GnRH                                                                          |
-|                                                   | Hội chứng Prader-Labhart-Willi                              | Rối loạn di truyền về chế tiết GnRH                                                                          |
-|                                                   | Dậy thì muộn                                                | Rối loạn dậy thì                                                                                             |
-|                                                   | Rối loạn chế tiết GnRH thứ phát                             | Khối u, nhiễm trùng, chấn thương, nhiễm xạ, rối loạn tuần hoàn, dinh dưỡng kém, bệnh hệ thống                |
-|                                                   | Hội chứng Pasqualini                                        | Suy giảm LH đơn độc                                                                                          |
-|                                                   | U tăng tiết Prolactin                                       | U dạng tuyến, thuốc                                                                                          |
-| **Tinh hoàn**                                     |                                                             |                                                                                                              |
-|                                                   | Thiếu tinh hoàn bẩm sinh                                    | Thiếu tinh hoàn trong giai đoạn bào thai                                                                     |
-|                                                   | Thiếu tinh hoàn mắc phải                                    | Chấn thương, xoắn tinh hoàn, khối u, viêm nhiễm, phẫu thuật                                                  |
-|                                                   | Tinh hoàn lạc chỗ                                           | Suy giảm testosterone và/ hoặc AMH, bẩm sinh, do yếu tố cản trở giải phẫu học                                |
-|                                                   | Giãn tĩnh mạch tinh                                         | Suy giảm chức năng tĩnh mạch                                                                                 |
-|                                                   | Viêm tinh hoàn                                              | Nhiễm trùng kèm theo sự phá hủy lớp biểu mô tế bào mầm sinh dục                                              |
-|                                                   | Hội chứng một lớp tế bào Sertoli                            | Bẩm sinh, mắc phải                                                                                           |
-|                                                   | Sinh tinh nửa chừng                                         | Bẩm sinh, mắc phải                                                                                           |
-|                                                   | Tinh trùng đầu tròn                                         | Thiếu thành phần acrosome                                                                                    |
-|                                                   | Hội chứng lông mao không chuyển động                        | Thiếu nhánh dynein                                                                                           |
-|                                                   | Rối loạn phát triển sinh dục                                | Giảm biểu hiện ở vùng biệt hóa sinh dục                                                                      |
-|                                                   | U tinh hoàn                                                 | Bẩm sinh / mắc phải                                                                                          |
-|                                                   | Dấu tích ống dẫn trứng                                      | Đột biến thụ thể AMH                                                                                         |
-|                                                   | Giảm sản tế bào Leydig                                      | Đột biến thụ thể LH                                                                                          |
-|                                                   | Rối loạn tổng hợp steroid                                   | Khiếm khuyết men tổng hợp testosterone                                                                       |
-|                                                   | Vô căn                                                      | N46                                                                                                          |
-| **Trục hạ đồi - tuyến yên - tinh hoàn**           |                                                             |                                                                                                              |
-|                                                   | Hội chứng suy sinh dục khởi phát muộn                       | Suy sinh dục nguyên phát hoặc thứ phát                                                                       |
-| **Tổn thương ống dẫn tinh và tuyến phụ sinh dục** |                                                             |                                                                                                              |
-|                                                   | Viêm nhiễm                                                  | Vi khuẩn, virus, Chlamydia                                                                                   |
-|                                                   | Tắc nghẽn                                                   | Bất thường bẩm sinh, nhiễm trùng, tắc ống dẫn tinh. Hoặc do lỗi sau phẫu thuật cắt ruột thừa, ghép thận, ... |
-|                                                   | Xơ nang                                                     | Đột biến gen CFTR                                                                                            |
-|                                                   | Bất sản ống dẫn tinh                                        | Đột biến gen CFTR                                                                                            |
-|                                                   | Vô sinh do miễn dịch                                        | Tự miễn                                                                                                      |
-|                                                   | Rối loạn tiết dịch                                          | -                                                                                                            |
-| **Rối loạn hình thành tinh dịch**                 |                                                             |                                                                                                              |
-|                                                   | Bất thường lỗ niệu đạo                                      | Bẩm sinh                                                                                                     |
-|                                                   | Dương vật dị dạng                                           | Bẩm sinh / mắc phải                                                                                          |
-|                                                   | Rối loạn cương                                              | Do sự kết hợp của nhiều yếu tố gây ra                                                                        |
-|                                                   | Rối loạn xuất tinh                                          | Bẩm sinh / mắc phải                                                                                          |
-|                                                   | Hẹp bao da quy đầu                                          | Bẩm sinh                                                                                                     |
-| **Cơ quan đích của Androgen**                     |                                                             |                                                                                                              |
-|                                                   | Hội chứng giảm nhạy cảm với Androgen hoàn toàn              | Tổn thương thụ thể Androgen                                                                                  |
-|                                                   | Hội chứng Reifenstein                                       | Tổn thương thụ thể Androgen mức độ nhẹ                                                                       |
-|                                                   | Bìu và quy đầu chẻ đôi hoặc lỗ tiểu đóng thấp               | Tổn thương thụ thể Androgen mức độ nhẹ                                                                       |
-|                                                   | Teo cơ Bulbo                                                | Tổn thương thụ thể Androgen                                                                                  |
-|                                                   | Lỗ tiểu đóng thấp dưới bìu, âm đạo giả                      | Rối loạn 5α-reductase                                                                                        |
-|                                                   | Kháng estrogen                                              | Tổn thương thụ thể Estrogen                                                                                  |
-|                                                   | Suy giảm estrogen                                           | Rối loạn aromatase                                                                                           |
-| **Gen và biểu hiện gen**                          |                                                             |                                                                                                              |
-|                                                   | Hội chứng Klinefelter, 47, XXY                              | Phân bào giảm nhiễm không phân ly                                                                            |
-|                                                   | Hội chứng nam, 46, XX                                       | Chuyển đoạn của một phần thuộc NST Y                                                                         |
-|                                                   | Hội chứng 47, XYY                                           | Phân bào giảm nhiễm không phân ly                                                                            |
-|                                                   | Hội chứng Noonan                                            | Đột biến gen PTPN11, KRAS, SOS1, và RAF1                                                                     |
-|                                                   | Biểu hiện exogenous                                         | Thuốc, chiếu xạ, nhiệt, môi trường, chất độc, xơ gan, suy thận                                               |
+| Vùng tổn thương                                   | Loại tổn thương                                             | Nguyên nhân                                                                                                |
+| ------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Hạ đồi và tuyến yên**                           |                                                             |                                                                                                            |
+|                                                   | Hội chứng Kallmann, Suy giảm chức năng sinh sản nguyên phát | Rối loạn di truyền về chế tiết GnRH                                                                        |
+|                                                   | Hội chứng Prader-Labhart-Willi                              | Rối loạn di truyền về chế tiết GnRH                                                                        |
+|                                                   | Dậy thì muộn                                                | Rối loạn dậy thì                                                                                           |
+|                                                   | Rối loạn chế tiết GnRH thứ phát                             | Khối u, nhiễm trùng, chấn thương, nhiễm xạ, rối loạn tuần hoàn, dinh dưỡng kém, bệnh hệ thống              |
+|                                                   | Hội chứng Pasqualini                                        | Suy giảm LH đơn độc                                                                                        |
+|                                                   | U tăng tiết Prolactin                                       | U dạng tuyến, thuốc                                                                                        |
+| **Tinh hoàn**                                     |                                                             |                                                                                                            |
+|                                                   | Thiếu tinh hoàn bẩm sinh                                    | Thiếu tinh hoàn trong giai đoạn bào thai                                                                   |
+|                                                   | Thiếu tinh hoàn mắc phải                                    | Chấn thương, xoắn tinh hoàn, khối u, viêm nhiễm, phẫu thuật                                                |
+|                                                   | Tinh hoàn lạc chỗ                                           | Suy giảm testosterone và/ hoặc AMH, bẩm sinh, do yếu tố cản trở giải phẫu học                              |
+|                                                   | Giãn tĩnh mạch thừng tinh                                   | Suy giảm chức năng tĩnh mạch                                                                               |
+|                                                   | Viêm tinh hoàn                                              | Nhiễm trùng kèm theo sự phá hủy lớp biểu mô tế bào mầm sinh dục                                            |
+|                                                   | Hội chứng một lớp tế bào Sertoli                            | Bẩm sinh, mắc phải                                                                                         |
+|                                                   | Sinh tinh nửa chừng                                         | Bẩm sinh, mắc phải                                                                                         |
+|                                                   | Tinh trùng đầu tròn                                         | Thiếu thành phần acrosome                                                                                  |
+|                                                   | Hội chứng lông mao không chuyển động                        | Thiếu nhánh dynein                                                                                         |
+|                                                   | Rối loạn phát triển sinh dục                                | Giảm biểu hiện ở vùng biệt hóa sinh dục                                                                    |
+|                                                   | U tinh hoàn                                                 | Bẩm sinh / mắc phải                                                                                        |
+|                                                   | Dấu tích ống dẫn trứng                                      | Đột biến thụ thể AMH                                                                                       |
+|                                                   | Giảm sản tế bào Leydig                                      | Đột biến thụ thể LH                                                                                        |
+|                                                   | Rối loạn tổng hợp steroid                                   | Khiếm khuyết men tổng hợp testosterone                                                                     |
+|                                                   | Vô căn                                                      | N46                                                                                                        |
+| **Trục hạ đồi - tuyến yên - tinh hoàn**           |                                                             |                                                                                                            |
+|                                                   | Hội chứng suy sinh dục khởi phát muộn                       | Suy sinh dục nguyên phát hoặc thứ phát                                                                     |
+| **Tổn thương ống dẫn tinh và tuyến phụ sinh dục** |                                                             |                                                                                                            |
+|                                                   | Viêm nhiễm                                                  | Vi khuẩn, virus, Chlamydia                                                                                 |
+|                                                   | Tắc nghẽn                                                   | Bất thường bẩm sinh, nhiễm trùng, tắc ống dẫn tinh. Hoặc do lỗi sau phẫu thuật cắt ruột thừa, ghép thận... |
+|                                                   | Xơ nang                                                     | Đột biến gen CFTR                                                                                          |
+|                                                   | Bất sản ống dẫn tinh                                        | Đột biến gen CFTR                                                                                          |
+|                                                   | Vô sinh do miễn dịch                                        | Tự miễn                                                                                                    |
+|                                                   | Rối loạn tiết dịch                                          | -                                                                                                          |
+| **Rối loạn hình thành tinh dịch**                 |                                                             |                                                                                                            |
+|                                                   | Bất thường lỗ niệu đạo                                      | Bẩm sinh                                                                                                   |
+|                                                   | Dương vật dị dạng                                           | Bẩm sinh / mắc phải                                                                                        |
+|                                                   | Rối loạn cương                                              | Do sự kết hợp của nhiều yếu tố gây ra                                                                      |
+|                                                   | Rối loạn xuất tinh                                          | Bẩm sinh / mắc phải                                                                                        |
+|                                                   | Hẹp bao da quy đầu                                          | Bẩm sinh                                                                                                   |
+| **Cơ quan đích của Androgen**                     |                                                             |                                                                                                            |
+|                                                   | Hội chứng giảm nhạy cảm với Androgen hoàn toàn              | Tổn thương thụ thể Androgen                                                                                |
+|                                                   | Hội chứng Reifenstein                                       | Tổn thương thụ thể Androgen mức độ nhẹ                                                                     |
+|                                                   | Bìu và quy đầu chẻ đôi hoặc lỗ tiểu đóng thấp               | Tổn thương thụ thể Androgen mức độ nhẹ                                                                     |
+|                                                   | Teo cơ Bulbo                                                | Tổn thương thụ thể Androgen                                                                                |
+|                                                   | Lỗ tiểu đóng thấp dưới bìu, âm đạo giả                      | Rối loạn 5α-reductase                                                                                      |
+|                                                   | Kháng estrogen                                              | Tổn thương thụ thể Estrogen                                                                                |
+|                                                   | Suy giảm estrogen                                           | Rối loạn aromatase                                                                                         |
+| **Gen và biểu hiện gen**                          |                                                             |                                                                                                            |
+|                                                   | Hội chứng Klinefelter, 47, XXY                              | Phân bào giảm nhiễm không phân ly                                                                          |
+|                                                   | Hội chứng nam, 46, XX                                       | Chuyển đoạn của một phần thuộc NST Y                                                                       |
+|                                                   | Hội chứng 47, XYY                                           | Phân bào giảm nhiễm không phân ly                                                                          |
+|                                                   | Hội chứng Noonan                                            | Đột biến gen PTPN11, KRAS, SOS1, và RAF1                                                                   |
+|                                                   | Biểu hiện exogenous                                         | Thuốc, chiếu xạ, nhiệt, môi trường, chất độc, xơ gan, suy thận                                             |
 
 ### Lâm sàng
 
@@ -111,7 +111,7 @@ _Bảng "Phân loại tổn thương chức năng tinh hoàn theo vùng tổn th
 - Phơi nhiễm với hóa chất và nhiệt.
 - Tắm nước nóng, xông hơi.
 - Tiếp xúc tia xạ.
-- Hút thuốc lá, uống rượu, dùng thuốc túy tiện.
+- Hút thuốc lá, uống rượu, dùng thuốc tùy tiện.
 - Thuốc làm căng phồng cơ bắp.
 - Tiền sử từng có thai hay có con với người khác.
 - Các đánh giá và điều trị vô sinh trước đó.
@@ -173,33 +173,33 @@ Tùy theo kết quả thăm khám sẽ có những hình thức điều trị c�
 
 ## Điều trị
 
-| Nhóm bệnh lý                                                  | Điều trị                                                                     |
-| ------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| **Điều trị theo nguyên nhân**                                 |                                                                              |
-| Hội chứng Kallmann và suy giảm chức năng sinh sản nguyên phát | GnRH hoặc Gonadotropin                                                       |
-| Suy tuyến yên                                                 | Gonadotropin                                                                 |
-| U tăng tiết Prolactin                                         | Dopamine agonist                                                             |
-| Nhiễm trùng                                                   | Kháng sinh                                                                   |
-| Bệnh lý mãn tính (suy thận, đái tháo đường)                   | Điều trị bệnh lý nền                                                         |
-| Thuốc, thuốc phiện, độc chất                                  | Điều trị hỗ trợ loại trừ hoặc tăng đào thải                                  |
-| Vô tinh do tắc                                                | Nối ống dẫn tinh - mào tinh, nối ống dẫn tinh đầu - tận, TESE                |
-| Rối loạn cương                                                | Tư vấn tâm lý tính dục, ức chế PDE-5, tiêm prostaglandin                     |
-| Xuất tinh ngược dòng                                          | Imipramine, Midodrine                                                        |
-| **Điều trị dự phòng**                                         |                                                                              |
-| Tinh hoàn lạc chỗ                                             | Chuyển vị tinh hoàn (GnRH/hCG)                                               |
-| Dậy thì muộn                                                  | Testosterone/GnRH/hCG                                                        |
-| Yếu tố ngoại sinh (Xquang, thuốc, độc chất)                   | Hạn chế tiếp xúc                                                             |
-| Bệnh lý ác tính                                               | Bảo tồn hoặc trữ đông mô tuyến sinh tinh                                     |
-| **Điều trị không theo nguyên nhân**                           |                                                                              |
-| Không tinh hoàn 2 bên                                         | (Testosterone thay thế)                                                      |
-| Hội chứng một lớp tế bào Sertoli hoàn toàn                    | -                                                                            |
-| Suy giảm phát triển mô tuyến sinh dục                         | (Testosterone thay thế)                                                      |
-| **Điều trị theo kinh nghiệm**                                 |                                                                              |
-| Vô sinh nguyên phát                                           | Điều trị nội khoa hỗ trợ                                                     |
-| Vô sinh do yếu tố miễn dịch                                   | Giảm miễn dịch                                                               |
-| Giãn tĩnh mạch tinh                                           | Tối ưu hóa chức năng sinh sản của vợ hoặc Phẫu thuật cột tĩnh mạch tinh giãn |
-| **Điều trị triệu chứng**                                      |                                                                              |
-| Suy giảm khả năng sinh sản                                    | Hỗ trợ sinh sản (IUI/IVF)                                                    |
+| Nhóm bệnh lý                                                  | Điều trị                                                                            |
+| ------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Điều trị theo nguyên nhân**                                 |                                                                                     |
+| Hội chứng Kallmann và suy giảm chức năng sinh sản nguyên phát | GnRH hoặc Gonadotropin                                                              |
+| Suy tuyến yên                                                 | Gonadotropin                                                                        |
+| U tăng tiết Prolactin                                         | Dopamine agonist                                                                    |
+| Nhiễm trùng                                                   | Kháng sinh                                                                          |
+| Bệnh lý mãn tính (suy thận, đái tháo đường)                   | Điều trị bệnh lý nền                                                                |
+| Thuốc, thuốc phiện, độc chất                                  | Điều trị hỗ trợ loại trừ hoặc tăng đào thải                                         |
+| Vô tinh do tắc                                                | Nối ống dẫn tinh - mào tinh, nối ống dẫn tinh đầu - tận, TESE                       |
+| Rối loạn cương                                                | Tư vấn tâm lý tính dục, ức chế PDE-5, tiêm prostaglandin                            |
+| Xuất tinh ngược dòng                                          | Imipramine, Midodrine                                                               |
+| **Điều trị dự phòng**                                         |                                                                                     |
+| Tinh hoàn lạc chỗ                                             | Chuyển vị tinh hoàn (GnRH/hCG)                                                      |
+| Dậy thì muộn                                                  | Testosterone/GnRH/hCG                                                               |
+| Yếu tố ngoại sinh (Xquang, thuốc, độc chất)                   | Hạn chế tiếp xúc                                                                    |
+| Bệnh lý ác tính                                               | Bảo tồn hoặc trữ đông mô tuyến sinh tinh                                            |
+| **Điều trị không theo nguyên nhân**                           |                                                                                     |
+| Không tinh hoàn 2 bên                                         | (Testosterone thay thế)                                                             |
+| Hội chứng một lớp tế bào Sertoli hoàn toàn                    | -                                                                                   |
+| Suy giảm phát triển mô tuyến sinh dục                         | (Testosterone thay thế)                                                             |
+| **Điều trị theo kinh nghiệm**                                 |                                                                                     |
+| Vô sinh nguyên phát                                           | Điều trị nội khoa hỗ trợ                                                            |
+| Vô sinh do yếu tố miễn dịch                                   | Giảm miễn dịch                                                                      |
+| Giãn tĩnh mạch thừng tinh                                     | Tối ưu hóa chức năng sinh sản của vợ hoặc Phẫu thuật thắt tĩnh mạch thừng tinh giãn |
+| **Điều trị triệu chứng**                                      |                                                                                     |
+| Suy giảm khả năng sinh sản                                    | Hỗ trợ sinh sản (IUI/IVF)                                                           |
 
 ### Thiểu tinh
 

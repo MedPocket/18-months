@@ -158,7 +158,7 @@ _Bảng "Các xét nghiệm cơ bản"_.
 
 - Ưu tiên **dydrogesterone** (Retrogeston®, Duphaston®): Ái lực cao với thụ thể progesterone, vừa đủ kháng estrogen, ít ức chế trục HPG.
 - **Lynestrenol**, **Norethindrone:** Kháng estrogen mạnh nhưng ức chế hạ đồi cao, dùng ngắn ngày sẽ ít tác động lâu dài.
-- **Retroprogesterone** (Drospirenone, Desogestrel): Ít ức chế LH, cân bằng lý tưởng, dùng khi không muốn ảnh hưởng trục lâu dài.
+- **Các progestogen khác** (Drospirenone, Desogestrel): Ít ức chế LH, cân bằng lý tưởng, dùng khi không muốn ảnh hưởng trục lâu dài.
 
 **Liều và thời gian:**
 

@@ -75,7 +75,7 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 
 #### Bệnh sử
 
-**Nguyên phát** cưa có kinh + ≥ 1 tiêu chí:
+**Nguyên phát** chưa có kinh + ≥ 1 tiêu chí:
 
 - 13 tuổi không dấu hiệu dậy thì.
 - 3 năm sau xuất hiện nhú vú.
@@ -97,7 +97,7 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 
 - **Đánh giá dấu hiệu dậy thì:** Giai đoạn Tanner.
 - **Khám tuyến vú:** Tiết sữa.
-- **Khám vùng chậu:** Ấm hộ, âm đạo, cổ tử cung, tử cung, buồng trứng.
+- **Khám vùng chậu:** Âm hộ, âm đạo, cổ tử cung, tử cung, buồng trứng.
 - **Dấu hiệu nội tiết:** Nam hóa, rậm lông, sắc tố da (acanthosis nigricans), triệu chứng suy giáp/cường giáp.
 - Sinh hiệu, BMI, dấu hiệu cảm ứng stress hay biếng ăn.
 

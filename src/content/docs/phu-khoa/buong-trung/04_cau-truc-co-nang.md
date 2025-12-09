@@ -46,7 +46,7 @@ Là nang noãn không trưởng thành và không phóng noãn. Nang tiếp tụ
 _Hình ảnh "Hoàng thể xuất huyết trên siêu âm"_.
 ![Hoàng thể xuất huyết trên siêu âm](./_images/quan-ly-cac-cau-truc-co-nang-buong-trung/hoang-the-xuat-huyet-tren-sieu-am.png)
 
-Hoàng thể hình thành sau phóng noãn, từ tế bào vỏ-hạt dưới tác dụng LH. **Chức năng** tiết estrogen và progesterone, chuẩn bị làm tổ và duy trì thai. Progesterone gây feedback giảm GnRH/LH, dẫn đến ly giai hoàng thể.
+Hoàng thể hình thành sau phóng noãn, từ tế bào vỏ-hạt dưới tác dụng LH. **Chức năng** tiết estrogen và progesterone, chuẩn bị làm tổ và duy trì thai. Progesterone gây feedback giảm GnRH/LH, dẫn đến ly giải hoàng thể.
 
 **Hoàng thể tồn lưu:**
 
@@ -63,7 +63,7 @@ Hoàng thể hình thành sau phóng noãn, từ tế bào vỏ-hạt dưới t�
 
 ## Nang hoàng tuyến
 
-Hình thành khi tất cả noãn nang (kể cả nang chưa phóng noãn) bị kích thích bởi β-hCG rất cao. Thường gặp trong thai trứng hoặc đa thai; β-hCG ngoại sinh (hỗ trợ sinh sản) có thể gây hội chứng quá kích buồng trứng (hyperreactio luteinalis). Do kích thích mọi nang, thường xảy ra hai bên, tạo khối hỗn hợp lớn. Nang hoàng tuyến tự thoái triển khi β-hCG giảm (kết thúch thai kỳ hoặc hết liệu pháp β-hCG).
+Hình thành khi tất cả noãn nang (kể cả nang chưa phóng noãn) bị kích thích bởi β-hCG rất cao. Thường gặp trong thai trứng hoặc đa thai; β-hCG ngoại sinh (hỗ trợ sinh sản) có thể gây hội chứng quá kích buồng trứng (hyperreactio luteinalis). Do kích thích mọi nang, thường xảy ra hai bên, tạo khối hỗn hợp lớn. Nang hoàng tuyến tự thoái triển khi β-hCG giảm (kết thúc thai kỳ hoặc hết liệu pháp β-hCG).
 
 ## Tài liệu tham khảo
 
