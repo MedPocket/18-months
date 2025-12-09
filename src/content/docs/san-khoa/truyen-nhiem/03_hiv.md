@@ -20,7 +20,7 @@ description: Quản lý HIV trong thai kỳ.
 
 _Bảng "Phân loại HIV lâm sàng"_.
 
-| Phân loại HIV lâm sàng theo CDC | Triệu chứng chính                                                                                                     | CD4 > 500 | CD4 200-499 | CD4 < 200 |
+| Phân loại HIV lâm sàng theo CDC | Triệu chứng chính                                                                                                     | CD4 >500 | CD4 200-499 | CD4 <200 |
 | ------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --------- |
 | **A**                           | Không triệu chứng hoặc chỉ hạch to toàn thân kéo dài                                                                  | A1        | A2          | A3        |
 | **B**                           | Biểu hiện liên quan HIV nhưng không AIDS định nghĩa (zona tái phát, viêm âm đạo dai dẳng, tăng sản bạch cầu miệng...) | B1        | B2          | B3        |
@@ -32,8 +32,8 @@ _Bảng "Phân loại HIV lâm sàng"_.
 
 ### Mục tiêu
 
-- **CD4 ≥ 500 cells/mm³** nếu có thể, để giảm nguy cơ nhiễm trùng cơ hội.
-- **Tải lượng HIV RNA < ngưỡng phát hiện** (< 20-50 copies/mL) trước khi sinh.
+- **CD4 ≥500 cells/mm³** nếu có thể, để giảm nguy cơ nhiễm trùng cơ hội.
+- **Tải lượng HIV RNA <ngưỡng phát hiện** (<20-50 copies/mL) trước khi sinh.
 
 ### Thuốc kháng virus (ARV)
 
@@ -59,7 +59,7 @@ _Bảng "Phân loại HIV lâm sàng"_.
 
 - **Phác đồ chuẩn:** TDF + 3TC + EFV (bắt đầu sau quý I).
 - **Phác đồ thay thế:** TDF + 3TC + DTG (từ quý II, ưu tiên khi không dùng EFV).
-- **Khi tải lượng cao (> 1000 copies/mL) hoặc thất bại phác đồ:** Thêm hoặc chuyển sang LPV/r.
+- **Khi tải lượng cao (>1000 copies/mL) hoặc thất bại phác đồ:** Thêm hoặc chuyển sang LPV/r.
 
 #### Với con
 
@@ -67,7 +67,7 @@ _Bảng "Phân loại HIV lâm sàng"_.
 
 ### Phẫu thuật
 
-- **Chỉ định** khi tải lượng HIV mẹ > 1000 copies/mL vào thời điểm chuyển dạ để giảm tối đa phơi nhiễm virus.
+- **Chỉ định** khi tải lượng HIV mẹ >1000 copies/mL vào thời điểm chuyển dạ để giảm tối đa phơi nhiễm virus.
 
 ### Cho con bú
 
@@ -101,7 +101,7 @@ _Bảng "Xét nghiệm HIV"_.
 
 ### Điều trị
 
-- Nếu mới tiếp xúc < 72 giờ → **đi khám ngay để cân nhắc dùng PEP (thuốc phơi nhiễm)** nhằm giảm nguy cơ nhiễm.
+- Nếu mới tiếp xúc <72 giờ → **đi khám ngay để cân nhắc dùng PEP (thuốc phơi nhiễm)** nhằm giảm nguy cơ nhiễm.
 - Tránh quan hệ tình dục, hiến máu trong thời gian chờ xét nghiệm.
 
 ## Tài liệu tham khảo

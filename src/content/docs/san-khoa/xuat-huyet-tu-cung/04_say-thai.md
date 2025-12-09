@@ -14,11 +14,11 @@ Sảy thai là biến cố phổ biến trong sản khoa:
 
 Giới hạn tuổi thai không hoàn toàn thống nhất trên thế giới:
 
-- WHO < 22 tuần hay cân nặng thai dưới 500g.
-- ACOG < 20 tuần.
-- RCOG < 24 tuần.
-- FIGO < 20-22 tuần.
-- Việt Nam < 22 tuần hoặc cân nặng thai dưới 500g.
+- WHO <22 tuần hay cân nặng thai dưới 500g.
+- ACOG <20 tuần.
+- RCOG <24 tuần.
+- FIGO <20-22 tuần.
+- Việt Nam <22 tuần hoặc cân nặng thai dưới 500g.
 
 ## Phân loại
 
@@ -30,7 +30,7 @@ Giới hạn tuổi thai không hoàn toàn thống nhất trên thế giới:
 | Sẩy thai hoàn toàn       | Ra huyết âm đạo, cổ tử cung mở, đau bụng. Buồng tử cung sạch.                                              |
 | Sẩy thai lưu             | Kèm dấu hiệu phôi thai không tim thai.                                                                     |
 | Sẩy thai nhiễm trùng     | Kèm hội chứng nhiễm trùng.                                                                                 |
-| Sẩy thai liên tiếp       | ≥ 2 lần (ACOG) hay ≥ 3 (RCOG) lần sẩy thai liên tiếp.                                                      |
+| Sẩy thai liên tiếp       | ≥2 lần (ACOG) hay ≥3 (RCOG) lần sẩy thai liên tiếp.                                                      |
 
 ## Điều trị
 
@@ -53,8 +53,8 @@ Các khuyến cáo ACOG, RCOG, WHO, FIGO: Chỉ nên nghỉ ngơi **tương đ�
 **Chỉ định:**
 
 - RCOG (2023) có thể cân nhắc trong sẩy thai tái phát nếu có triệu chứng.
-- NICE (2021) có chảy máu âm đạo và tiền sử ≥ 1 lần sẩy thai.
-- Scotland (2024) cân nhắc sử dụng nếu có chảy máu và ≥ 3 lần sẩy thai, giúp tăng đến 15% khả năng sinh sống.
+- NICE (2021) có chảy máu âm đạo và tiền sử ≥1 lần sẩy thai.
+- Scotland (2024) cân nhắc sử dụng nếu có chảy máu và ≥3 lần sẩy thai, giúp tăng đến 15% khả năng sinh sống.
 
 **Vai trò:**
 
@@ -80,10 +80,10 @@ Các khuyến cáo ACOG, RCOG, WHO, FIGO: Chỉ nên nghỉ ngơi **tương đ�
 - Ra huyết ít, trung bình, nhiều, băng huyết
 - Mức độ thấm băng vệ sinh, loại băng vệ sinh (0.5 mL -12 mL)
 - Cân trọng lượng được thấm máu (1 g = 1 mL).
-- Mạch > 100 lần/phút Mất > 750 mL.
-- Huyết áp < 90 mmHg, mất > 1000 mL.
-- Choáng, mất ≥ 1500 mL.
-- Shock index (SI - Mạch/Huyết áp tâm thu), bình thường 0.5-0.7; ≥ 0.9 nguy cơ cao.
+- Mạch >100 lần/phút Mất >750 mL.
+- Huyết áp <90 mmHg, mất >1000 mL.
+- Choáng, mất ≥1500 mL.
+- Shock index (SI - Mạch/Huyết áp tâm thu), bình thường 0.5-0.7; ≥0.9 nguy cơ cao.
 
 #### Chờ sảy tự nhiên
 
@@ -157,7 +157,7 @@ Không khuyến cáo kháng sinh dự phòng:
 
 - **Hút chân không bằng tay (MVA)** được khuyến cáo là phương pháp hút tử cung an toàn, hiệu quả, thay thế nạo (D&C), dùng trong phá thai, sẩy thai và sinh thiết nội mạc tử cung.
 - **Nong và gắp thai (D&E)** áp dụng cho thai từ 13 tuần.
-- **Không khuyến cáo nạo buồng tử cung (D&C)** cho thai sảy < 12 tuần.
+- **Không khuyến cáo nạo buồng tử cung (D&C)** cho thai sảy <12 tuần.
 
 **Lựa chọn ống hút theo tuổi thai:**
 
@@ -180,7 +180,7 @@ Không khuyến cáo kháng sinh dự phòng:
 
 - Sót thai, sót rau (1-3%).
 - Nhiễm trùng (0.1-1%).
-- Viêm dính buồng tử cung (< 0.5%).
+- Viêm dính buồng tử cung (<0.5%).
 
 **Kháng sinh:**
 
@@ -193,7 +193,7 @@ Không khuyến cáo kháng sinh dự phòng:
 
 - Cần loại trừ chửa ngoài tử cung nhất là các trường hợp trứng trống hay ứ dịch lòng tử cung.
 - β-hCG cao cần loại trừ bệnh lý nguyên bào nuôi.
-- BN có thai lần đầu với Rh âm sảy thai < 12 tuần hoặc ra máu nhiều hoặc hút thai > 12 tuần cần tiêm antiD trong 72 giờ sau can thiệp (50/300 µg - 1500 IU).
+- BN có thai lần đầu với Rh âm sảy thai <12 tuần hoặc ra máu nhiều hoặc hút thai >12 tuần cần tiêm antiD trong 72 giờ sau can thiệp (50/300 µg - 1500 IU).
 
 :::
 

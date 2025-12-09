@@ -7,7 +7,7 @@ Tổn thương hệ tiêu hóa có thể xảy ra trong các phẫu thuật sả
 
 ## Yếu tố nguy cơ
 
-- Tiền căn mổ hở bụng (đặc biệt đường giữa > Pfannenstiel).
+- Tiền căn mổ hở bụng (đặc biệt đường giữa >Pfannenstiel).
 - Tiền sử viêm phúc mạc toàn thể, viêm ruột thừa vỡ, tắc ruột.
 - Phẫu thuật ung thư ổ bụng, xạ trị hoặc hóa trị trước đó.
 - Bệnh lý viêm ruột, viêm vùng chậu.

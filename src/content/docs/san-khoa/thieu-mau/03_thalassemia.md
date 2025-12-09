@@ -21,7 +21,7 @@ description: Thalassemia trong thai kỳ.
 
 ### β-thalassemia
 
-- **Thể nặng (β⁰/β⁰ hoặc β⁰/β⁰ kép):** Biểu hiện sớm ngay sau sinh hoặc vài tháng tuổi. Thiếu máu nặng, vàng da, gan lách to. Cần truyền máu định kỳ và thải sắt để duy trì sự sống. Huyết học: Hb < 70 g/L; MCV, MCH giảm; Ferritin bình thường hoặc tăng; Điện di Hb: ↑ HbF, ↑ HbA2.
+- **Thể nặng (β⁰/β⁰ hoặc β⁰/β⁰ kép):** Biểu hiện sớm ngay sau sinh hoặc vài tháng tuổi. Thiếu máu nặng, vàng da, gan lách to. Cần truyền máu định kỳ và thải sắt để duy trì sự sống. Huyết học: Hb <70 g/L; MCV, MCH giảm; Ferritin bình thường hoặc tăng; Điện di Hb: ↑ HbF, ↑ HbA2.
 - **Thể trung gian (β⁺/β⁺ hoặc β⁺/β⁰):** Thiếu máu nhẹ-vừa, biểu hiện muộn hơn thể nặng. Có thể cần truyền máu từng đợt, ít phụ thuộc hơn.
 - **Thể ẩn (dị hợp tử 1 đột biến):** Thường không triệu chứng; Chỉ phát hiện tình cờ khi xét nghiệm. Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3.5-7%); HbF 1-3% tùy loại đột biến.
 
@@ -45,7 +45,7 @@ _Thai phù trong hội chứng Hb Bart’s_.
 
 ## Tầm soát
 
-- Huyết đồ: Hb < 11 g/dL; MCV < 80 fL; MCH < 27 pg.
+- Huyết đồ: Hb <11 g/dL; MCV <80 fL; MCH <27 pg.
 - Định lượng ferritin: Bình thường hoặc tăng → chuyển sang điện di Hb.
 - Điện di Hb: Xác định tỉ lệ HbA2, HbF để phân loại.<br>
 - Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.
@@ -57,7 +57,7 @@ _Kết quả điện di Hb ở người trưởng thành_.
 ## Thai phụ mắc β-thalassemia
 
 - Điều trị đa chuyên khoa: Sản khoa, huyết học, gây mê, nữ hộ sinh.
-- Duy trì Hb 10 g/dL bằng truyền máu định kỳ; Kiểm soát ferritin < 1000 ng/mL.
+- Duy trì Hb 10 g/dL bằng truyền máu định kỳ; Kiểm soát ferritin <1000 ng/mL.
 - Siêu âm tim, gan, tuyến giáp mỗi tam cá nguyệt.
 - Sàng lọc tiểu đường: Lần đầu 16 tuần, lặp lại 24-28 tuần.
 - Siêu âm đánh giá tăng trưởng thai: 24-26 tuần rồi mỗi 4 tuần.
