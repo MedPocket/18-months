@@ -134,7 +134,7 @@ Thay máu là **điều trị hàng thứ hai.**
 
 **Điều trị nguyên nhân:**
 
-- Điều trị đặc hiệu bằng thuốc (như Intravenous immune globulin - IVIG, kháng sinh trong vàng da nhiễm khuẩn...)
+- Điều trị đặc hiệu bằng thuốc (như Globulin miễn dịch tiêm tĩnh mạch - IVIG, kháng sinh trong vàng da nhiễm khuẩn...)
 - Phẫu thuật (tắc mật bẩm sinh).
 
 ## Tài liệu tham khảo

@@ -99,7 +99,7 @@ _Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ_.
 **Cấp 2 - Khi đáp ứng quá mức:**
 
 - **Giảm liều hCG** kích phóng noãn.
-- **Không tiêm hCG**, thay bằng **GnRH đồng vận** (Triptorelin 0,1 mg × 2 ống tiêm dưới da).
+- **Không tiêm hCG**, thay bằng **GnRH đồng vận** (Triptorelin 0,1 mg x 2 ống tiêm dưới da).
 - **Hủy chu kỳ** hoặc **trữ toàn bộ phôi**, không chuyển phôi tươi.
 
 ## Tài liệu tham khảo

@@ -92,7 +92,7 @@ BN nên được dự phòng bằng giảm cân, điều hòa kinh nguyệt, pro
 
 ### Nguy cơ khi mang thai
 
-PCOS tăng nguy cơ sảy thai, GDM, tiền sản giật, thai chậm tăng trưởng, sinh non, mổ lấy thai.
+PCOS tăng nguy cơ sảy thai, đái tháo đường thai kỳ (GDM), tiền sản giật, thai chậm tăng trưởng, sinh non, mổ lấy thai.
 
 ## Điều trị
 

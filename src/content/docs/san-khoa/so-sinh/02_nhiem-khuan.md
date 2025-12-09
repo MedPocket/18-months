@@ -34,7 +34,7 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 
 - Toàn thân: Bú kém, li bì, hạ thân nhiệt (< 36 °C) hoặc sốt (> 38 °C), vàng da kéo dài.
 - Hô hấp: Thở nhanh > 60 lần/phút, rút lõm lồng ngực, ngừng thở, tím tái.
-- Tuần hoàn: Nhịp tim nhanh > 180 lần/phút hoặc chậm < 100 lần/phút, tụt huyết áp (MAP < 40 mmHg ở sơ sinh đủ tháng; < 30 mmHg ở non tháng), da nổi vân tím, đầu chi lạnh.
+- Tuần hoàn: Nhịp tim nhanh > 180 lần/phút hoặc chậm < 100 lần/phút, tụt huyết áp (huyết áp trung bình - MAP < 40 mmHg ở sơ sinh đủ tháng; < 30 mmHg ở non tháng), da nổi vân tím, đầu chi lạnh.
 - Tiêu hoá: Nôn, chướng bụng, tiêu chảy, xuất huyết tiêu hoá.
 - Thần kinh: Co giật, giảm trương lực, kích thích.
 
@@ -46,7 +46,7 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 - Tỷ lệ bạch cầu non/trưởng thành > 0.2.
 - Tiểu cầu < 100 000/mm³.
 
-**CRP:** > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12-24h).
+**C-reactive protein (CRP):** > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12-24h).
 
 **Procalcitonin (PCT):** > 2 ng/mL gợi ý nhiễm khuẩn nặng.
 
@@ -90,7 +90,7 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 
 **Điều trị hỗ trợ:**
 
-- Thở oxy, CPAP, hoặc thở máy khi suy hô hấp.
+- Thở oxy, thở áp lực dương liên tục (CPAP), hoặc thở máy khi suy hô hấp.
 - Truyền dịch 60-80 mL/kg/ngày (điều chỉnh theo tình trạng).
 - Dopamine/Dobutamine khi sốc.
 - Truyền tiểu cầu khi < 50 000/mm³ có xuất huyết.

@@ -3,7 +3,7 @@ title: Viêm gan B và thai kỳ
 description: Quản lý viêm gan B trong thai kỳ.
 ---
 
-Tất cả thai phụ được khuyến cáo tầm soát nhiễm HBV ngay trong quý 1 của thai kỳ.
+Tất cả thai phụ được khuyến cáo tầm soát nhiễm virus viêm gan B (HBV) ngay trong quý 1 của thai kỳ.
 
 ## Tầm soát
 

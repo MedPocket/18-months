@@ -41,7 +41,7 @@ _Bảng "Phân loại COEIN"_.
 |                           | Nguyên nhân không thuộc cấu trúc (COEIN)                                                |
 | ------------------------- | --------------------------------------------------------------------------------------- |
 | **C**oagulopathy          | Rối loạn đông máu (di truyền hoặc mắc phải)                                             |
-| **O**vulatory Dysfunction | Rối loạn phóng noãn (ví dụ: PCOS, thiếu hụt nội tiết)                                   |
+| **O**vulatory Dysfunction | Rối loạn phóng noãn (ví dụ: hội chứng buồng trứng đa nang - PCOS, thiếu hụt nội tiết) |
 | **E**ndometrial           | Rối loạn cơ chế cầm máu tại nội mạc (ví dụ: Bất thường mạch máu nội mạc)                |
 | **I**atrogenic            | Do thuốc hoặc các thủ thuật y tế (thuốc kháng đông, dụng cụ tử cung, thuốc nội tiết...) |
 | **N**ot yet classified    | Nguyên nhân chưa rõ hoặc chưa phân loại được                                            |
@@ -58,8 +58,8 @@ _Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của
 
 #### Tiền sử
 
-- **Tiền sử sản khoa - tình dục:** Hoạt động tình dục, phương thức tránh thai (đặc biệt dụng cụ tử cung), đánh giá nguy cơ STI. Tiền sử sảy thai, nong nạo, nạo hút buồng tử cung, chấn thương, can thiệp phụ khoa.
-- **Tiền sử bệnh lý hệ thống và nội tiết:** Bệnh lý đông máu (bản thân, gia đình), đái tháo đường, tăng huyết áp, rối loạn tuyến giáp, hội chứng buồng trứng đa nang (PCOS). Thuốc đang dùng: NSAID, kháng đông (warfarin, heparin...), corticosteroid, thuốc điều trị tuyến giáp, thuốc tránh thai, thuốc nội tiết thay thế, GnRH đồng vận, tamoxifen, SERM, SPRM.
+- **Tiền sử sản khoa - tình dục:** Hoạt động tình dục, phương thức tránh thai (đặc biệt dụng cụ tử cung), đánh giá nguy cơ bệnh lây truyền qua đường tình dục (STI). Tiền sử sảy thai, nong nạo, nạo hút buồng tử cung, chấn thương, can thiệp phụ khoa.
+- **Tiền sử bệnh lý hệ thống và nội tiết:** Bệnh lý đông máu (bản thân, gia đình), đái tháo đường, tăng huyết áp, rối loạn tuyến giáp, hội chứng buồng trứng đa nang (PCOS). Thuốc đang dùng: thuốc kháng viêm không steroid (NSAID), kháng đông (warfarin, heparin...), corticosteroid, thuốc điều trị tuyến giáp, thuốc tránh thai, thuốc nội tiết thay thế, GnRH đồng vận, tamoxifen, SERM, SPRM.
 
 #### Bệnh sử
 

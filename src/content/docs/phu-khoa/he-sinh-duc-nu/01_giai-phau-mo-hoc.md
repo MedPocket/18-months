@@ -13,7 +13,7 @@ description: Tổng quan giải phẫu và mô học buồng trứng.
 **Vị trí buồng trứng:**
 
 - Nằm trong ổ chậu, không được thanh mạc bao phủ hoàn toàn.
-- Mỗi bên một buồng trứng, kích thước trung bình 2 × 3 × 3 cm, trọng lượng 4-8 g.
+- Mỗi bên một buồng trứng, kích thước trung bình 2 x 3 x 3 cm, trọng lượng 4-8 g.
 - Bề mặt phẳng mịn ở trẻ em, trở nên sần do tạo vết sẹo phóng noãn sau tuổi dậy thì.
 
 **Hình thái và liên quan:**

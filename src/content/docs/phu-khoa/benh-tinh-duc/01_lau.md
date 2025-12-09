@@ -36,7 +36,7 @@ _Hình ảnh "N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thư
 **Lậu hầu họng:**
 
 - Thường không triệu chứng; Có thể viêm họng nhẹ, đau họng, sưng hạch góc hàm.
-- Được phát hiện khi sàng lọc STI hầu họng ở người quan hệ bằng miệng.
+- Được phát hiện khi sàng lọc bệnh lây truyền qua đường tình dục (STI) hầu họng ở người quan hệ bằng miệng.
 
 #### Có biến chứng
 
