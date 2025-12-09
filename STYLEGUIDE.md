@@ -27,9 +27,9 @@ Tài liệu này quy định các chuẩn mực về nội dung, định dạng 
 
 ### Kí hiệu toán học và Đơn vị đo lường
 
-- **Phép so sánh:** Viết liền các dấu so sánh với số.
+- **Phép so sánh:** Viết liền các dấu so sánh với số. Sử dụng kí hiệu toán học chuẩn `≥`, `≤` thay vì `>=` hay `<=`.
   - _Đúng:_ `>5 cm`, `<100 mg`, `≥20 tuần`.
-  - _Sai:_ `> 5 cm`, `< 100 mg`.
+  - _Sai:_ `> 5 cm`, `< 100 mg`, `>= 20 tuần`.
 - **Đơn vị đo lường:** Luôn có **một khoảng trắng** giữa số và đơn vị.
   - _Đúng:_ 10 mg, 50 ml, 37 °C.
   - _Sai:_ 10mg, 50ml, 37°C.
@@ -45,7 +45,10 @@ Tài liệu này quy định các chuẩn mực về nội dung, định dạng 
 - **Dấu gạch chéo `/`:** Viết liền với các từ, dùng để biểu thị sự lựa chọn hoặc tỷ lệ.
   - _Đúng:_ Buồn nôn/nôn, 120/80 mmHg.
   - _Sai:_ Buồn nôn / nôn.
-- **Mũi tên:** Dùng `→` để biểu thị kết quả/hệ quả thay vì `->`.
+- **Mũi tên:** Dùng `→`, `←`, `↔` để biểu thị kết quả, hướng đi thay vì dùng `->`, `<-`.
+- **Ký tự Hy Lạp:** Sử dụng ký tự chuẩn như `α` (Alpha), `β` (Beta), `γ` (Gamma), `δ` (Delta), `µ` (Micro)... không viết phiên âm tiếng Việt.
+- **Chỉ số trên/dưới (Subscript/Superscript):** Sử dụng thẻ HTML `<sub>` (cho chỉ số dưới) và `<sup>` (cho chỉ số trên).
+  - _Ví dụ:_ HbA<sub>1c</sub>, mét vuông (m<sup>2</sup>).
 
 ### Chú thích (Footnotes)
 
