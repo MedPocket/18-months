@@ -47,8 +47,10 @@ Tài liệu này quy định các chuẩn mực về nội dung, định dạng 
   - _Sai:_ Buồn nôn / nôn.
 - **Mũi tên:** Dùng `→`, `←`, `↔` để biểu thị kết quả, hướng đi thay vì dùng `->`, `<-`.
 - **Ký tự Hy Lạp:** Sử dụng ký tự chuẩn như `α` (Alpha), `β` (Beta), `γ` (Gamma), `δ` (Delta), `µ` (Micro)... không viết phiên âm tiếng Việt.
-- **Chỉ số trên/dưới (Subscript/Superscript):** Sử dụng thẻ HTML `<sub>` (cho chỉ số dưới) và `<sup>` (cho chỉ số trên).
-  - _Ví dụ:_ HbA<sub>1c</sub>, mét vuông (m<sup>2</sup>).
+- **Chỉ số trên/dưới (Subscript/Superscript):** Sử dụng ký tự Unicode trực tiếp:
+  - _Chỉ số trên:_ `⁰` `¹` `²` `³` `⁴` `⁵` `⁶` `⁷` `⁸` `⁹` `⁺` `⁻`.
+  - _Chỉ số dưới:_ `₀` `₁` `₂` `₃` `₄` `₅` `₆` `₇` `₈` `₉`.
+  - _Ví dụ:_ HbA₁c, m².
 
 ### Chú thích (Footnotes)
 
