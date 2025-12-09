@@ -13,7 +13,7 @@ Tài liệu này quy định các chuẩn mực về nội dung, định dạng 
 
 ---
 
-## 2. Định dạng văn bản và Kí hiệu
+## 2. Định dạng văn bản (Text Formatting)
 
 ### In đậm và In nghiêng
 
@@ -24,6 +24,47 @@ Tài liệu này quy định các chuẩn mực về nội dung, định dạng 
   - Tên khoa học của vi khuẩn/virus: _Clostridium tetani_, _Helicobacter pylori_.
   - Thuật ngữ tiếng Anh đi kèm lần đầu: Tiền sản giật (_Preeclampsia_).
   - Tên tài liệu tham khảo: _Williams Obstetrics_.
+
+### Quy tắc List (Liệt kê)
+
+#### Danh sách không thứ tự (Unordered List)
+
+Sử dụng dấu gạch ngang `-` cho các ý ngang hàng.
+
+- **Ký tự đầu dòng:** Luôn viết hoa chữ cái đầu tiên.
+- **Cấu trúc song song:** Các mục trong danh sách phải đồng nhất về mặt ngữ pháp (cùng bắt đầu bằng động từ, danh từ hoặc đều là câu hoàn chỉnh).
+- **Dấu câu kết thúc:** Kết thúc bằng dấu chấm `.` cho tất cả các mục (kể cả cụm từ ngắn hay câu hoàn chỉnh) để đảm bảo tính nhất quán.
+- **Danh sách lồng nhau (Nested list):** Thụt đầu dòng 2 khoảng trắng (spaces) so với cấp cha. Hạn chế lồng quá 2 cấp.
+
+**Ví dụ:**
+
+```md
+### Triệu chứng cơ năng
+
+- Đau vùng hạ vị âm ỉ.
+- Ra huyết âm đạo rỉ rả, màu nâu đen.
+- Buồn nôn hoặc nôn.
+```
+
+#### Danh sách có thứ tự (Ordered List)
+
+Sử dụng `1.`, `2.` khi trình bày quy trình, các bước thực hiện theo trình tự thời gian, hoặc mức độ ưu tiên/quan trọng giảm dần.
+
+- Luôn bắt đầu từ `1.` cho mục đầu tiên.
+
+**Ví dụ:**
+
+```md
+### Các bước xử trí cấp cứu
+
+1. Đánh giá tri giác, đường thở (Airway).
+2. Kiểm tra hô hấp (Breathing).
+3. Đánh giá tuần hoàn (Circulation), thiết lập đường truyền tĩnh mạch.
+```
+
+---
+
+## 3. Kí hiệu và Kí tự đặc biệt
 
 ### Kí hiệu toán học và Đơn vị đo lường
 
@@ -42,9 +83,11 @@ Tài liệu này quy định các chuẩn mực về nội dung, định dạng 
 
 ### Kí tự đặc biệt
 
+- **Dấu ngoặc kép:** Sử dụng dấu ngoặc kép thẳng `"`. Không dùng kí tự ngoặc kép cong hoặc thay thế khác.
 - **Dấu gạch chéo `/`:** Viết liền với các từ, dùng để biểu thị sự lựa chọn hoặc tỷ lệ.
   - _Đúng:_ Buồn nôn/nôn, 120/80 mmHg.
   - _Sai:_ Buồn nôn / nôn.
+- **Kí hiệu `&`:** Hạn chế sử dụng, hãy viết "và" trong văn bản chính thức, trừ khi xuất hiện trong tên riêng hoặc tài liệu tham khảo.
 - **Mũi tên:** Dùng `→`, `←`, `↔` để biểu thị kết quả, hướng đi thay vì dùng `->`, `<-`.
 - **Ký tự Hy Lạp:** Sử dụng ký tự chuẩn như `α` (Alpha), `β` (Beta), `γ` (Gamma), `δ` (Delta), `µ` (Micro)... không viết phiên âm tiếng Việt.
 - **Chỉ số trên/dưới (Subscript/Superscript):** Sử dụng ký tự Unicode trực tiếp:
@@ -60,7 +103,7 @@ Dùng số mũ hoặc dấu sao để chú thích ngắn gọn nếu không mu�
 
 ---
 
-## 3. Thuật ngữ Y khoa
+## 4. Thuật ngữ Y khoa
 
 - **Ưu tiên Tiếng Việt:** Sử dụng thuật ngữ chuyên môn Tiếng Việt chuẩn xác nhất.
 - **Thuật ngữ Tiếng Anh:**
@@ -75,7 +118,7 @@ Dùng số mũ hoặc dấu sao để chú thích ngắn gọn nếu không mu�
 
 ---
 
-## 4. Cấu trúc bài viết
+## 5. Cấu trúc bài viết
 
 Mỗi bài viết bệnh học cần tuân theo cấu trúc chuẩn để dễ tra cứu.
 
@@ -123,42 +166,6 @@ Biện pháp phòng ngừa (Vaccine, thay đổi lối sống, sàng lọc).
 #### 7. Tài liệu tham khảo (`## Tài liệu tham khảo`)
 
 Danh sách nguồn tài liệu uy tín.
-
----
-
-## 5. Quy tắc List (Liệt kê)
-
-### Danh sách không thứ tự (Unordered List)
-
-Sử dụng dấu gạch ngang `-` cho các ý ngang hàng, không cần thứ tự ưu tiên.
-
-- Viết hoa chữ cái đầu dòng.
-- Kết thúc bằng dấu chấm `.` cho tất cả các mục (kể cả cụm từ ngắn hay câu hoàn chỉnh) để đảm bảo tính nhất quán.
-- Hạn chế lồng quá 2 cấp danh sách để tránh gây rối mắt.
-
-**Ví dụ:**
-
-```md
-### Triệu chứng cơ năng
-
-- Đau vùng hạ vị âm ỉ.
-- Ra huyết âm đạo rỉ rả, màu nâu đen.
-- Buồn nôn hoặc nôn.
-```
-
-### Danh sách có thứ tự (Ordered List)
-
-Sử dụng `1.`, `2.` khi trình bày quy trình, các bước thực hiện, hoặc thứ tự ưu tiên.
-
-**Ví dụ:**
-
-```md
-### Các bước xử trí cấp cứu
-
-1. Đánh giá tri giác, đường thở (Airway).
-2. Kiểm tra hô hấp (Breathing).
-3. Đánh giá tuần hoàn (Circulation), thiết lập đường truyền tĩnh mạch.
-```
 
 ---
 
