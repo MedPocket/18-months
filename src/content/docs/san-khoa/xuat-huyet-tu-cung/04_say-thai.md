@@ -77,8 +77,8 @@ Các khuyến cáo ACOG, RCOG, WHO, FIGO: Chỉ nên nghỉ ngơi **tương đ�
 
 **Đánh giá tình trạng mất máu:**
 
-- Ra huyết ít, trung bình, nhiều, băng huyết
-- Mức độ thấm băng vệ sinh, loại băng vệ sinh (0.5 mL -12 mL)
+- Ra huyết ít, trung bình, nhiều, băng huyết.
+- Mức độ thấm băng vệ sinh, loại băng vệ sinh (0.5 mL -12 mL).
 - Cân trọng lượng được thấm máu (1 g = 1 mL).
 - Mạch > 100 lần/phút Mất > 750 mL.
 - Huyết áp < 90 mmHg, mất > 1000 mL.
@@ -119,7 +119,7 @@ Các khuyến cáo ACOG, RCOG, WHO, FIGO: Chỉ nên nghỉ ngơi **tương đ�
 **Thai lưu:**
 
 - Misoprostol 800 µg đặt âm đạo/dưới lưỡi/áp má, lặp lại nếu cần.
-- Phối hợp: Mifepristone 200 mg uống → 24 giờ sau dùng misoprostol
+- Phối hợp: Mifepristone 200 mg uống → 24 giờ sau dùng misoprostol.
 
 **Sẩy thai không hoàn toàn:**
 
