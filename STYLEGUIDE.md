@@ -133,9 +133,8 @@ Danh sách nguồn tài liệu uy tín.
 Sử dụng dấu gạch ngang `-` cho các ý ngang hàng, không cần thứ tự ưu tiên.
 
 - Viết hoa chữ cái đầu dòng.
-- Kết thúc bằng dấu chấm `.` nếu là một câu hoàn chỉnh.
-- Kết thúc bằng dấu chấm phẩy `;` hoặc không dấu nếu là cụm từ ngắn (nhưng cần thống nhất trong cùng một list).
-- Không nên lồng quá 2 cấp danh sách để tránh gây rối mắt.
+- Kết thúc bằng dấu chấm `.` cho tất cả các mục (kể cả cụm từ ngắn hay câu hoàn chỉnh) để đảm bảo tính nhất quán.
+- Hạn chế lồng quá 2 cấp danh sách để tránh gây rối mắt.
 
 **Ví dụ:**
 
