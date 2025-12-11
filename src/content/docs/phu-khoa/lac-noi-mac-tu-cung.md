@@ -134,7 +134,7 @@ _Bảng "Giảm đau bước 2"_.
 
 | Loại thuốc             | Liều dùng                                                            | Hiệu quả                             | Tác dụng phụ/Lưu ý                                  |
 | ---------------------- | -------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------- |
-| **GnRH đồng vận**      | Goserelin 3.6 mg mỗi 28 ngày SC<br>Leuprolide 3.75 mg mỗi 28 ngày IM | Ức chế HPA → giảm estrogen toàn thân | Bốc hỏa, loãng xương; Cần add-back therapy          |
+| **GnRH đồng vận**      | Goserelin 3.6 mg mỗi 28 ngày tiêm dưới da<br>Leuprolide 3.75 mg mỗi 28 ngày tiêm bắp | Ức chế HPA → giảm estrogen toàn thân | Bốc hỏa, loãng xương; Cần add-back therapy          |
 | **AI**                 | Letrozole 2.5 mg/ngày<br>Anastrozole 1 mg/ngày                       | Giảm estrogen cục bộ                 | Giảm mật độ xương, bốc hỏa, mệt mỏi                 |
 | **Danazol/Gestrinone** | Danazol 200 mg x2/ngày<br>Gestrinone 2.5 mg x2/ngày                  | Khi thất bại các liệu pháp trên      | Vô kinh, nam hóa, rối loạn lipid, tác dụng androgen |
 
