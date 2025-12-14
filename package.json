@@ -13,8 +13,8 @@
     "check": "oxlint && oxfmt"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.37.0",
-    "astro": "^5.16.4",
+    "@astrojs/starlight": "^0.37.1",
+    "astro": "^5.16.5",
     "astro-og-canvas": "^0.7.2",
     "canvaskit-wasm": "^0.40.0",
     "mdast-util-to-string": "^4.0.0",
