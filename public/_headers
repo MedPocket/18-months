@@ -10,7 +10,3 @@
 
   # --- CORS (if needed for fonts or APIs) ---
   Access-Control-Allow-Origin: *
-
-  # --- Content Security Policy (optional but recommended) ---
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src * blob: data:; font-src 'self' https://fonts.gstatic.com; connect-src *; frame-src 'none'; object-src 'none'
-
