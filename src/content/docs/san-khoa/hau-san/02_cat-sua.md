@@ -18,12 +18,14 @@ description: Chỉ định và phương pháp cắt sữa.
 
 ### Ức chế prolactin
 
-Prolactin là hormone chính chịu trách nhiệm về sự tiết sữa. Các thuốc ức chế prolactin có thể giúp ngừng tiết sữa:
+Prolactin là hormone chính chịu trách nhiệm về sự tiết sữa. Các thuốc ức chế prolactin có thể giúp ngừng tiết sữa.
 
-- **Bromocriptine (đồng vận dopamine):** Liều 2.5 mg uống 2 lần/ngày trong 14 ngày. _Lưu ý:_ Hiện nay ít được chỉ định làm thuốc đầu tay do nguy cơ tác dụng phụ nghiêm trọng (tai biến mạch máu não, nhồi máu cơ tim, co giật) và hiện tượng tiết sữa trở lại (rebound) sau ngưng thuốc.
-- **Cabergoline (đồng vận dopamine chọn lọc):** Hiệu quả cao và ít tác dụng phụ hơn Bromocriptine.
-  - _Ức chế sữa ngay sau sinh:_ 1 mg (2 viên 0.5 mg) uống liều duy nhất trong ngày đầu sau sinh.
-  - _Cắt sữa khi đã có sữa (established lactation):_ 0.25 mg (1/2 viên) uống mỗi 12 giờ trong 2 ngày (tổng liều 1 mg).
+**Bromocriptine (đồng vận dopamine):** Liều 2.5 mg uống 2 lần/ngày trong 14 ngày. Hiện nay ít được chỉ định làm thuốc đầu tay do nguy cơ tác dụng phụ nghiêm trọng (tai biến mạch máu não, nhồi máu cơ tim, co giật) và hiện tượng tiết sữa trở lại (rebound) sau ngưng thuốc.
+
+**Cabergoline (đồng vận dopamine chọn lọc)** hiệu quả cao và ít tác dụng phụ hơn Bromocriptine:
+
+- Ức chế sữa ngay sau sinh: 1 mg (2 viên Dostinex 0.5 mg) uống liều duy nhất trong ngày đầu sau sinh.
+- Cắt sữa khi đã có sữa (established lactation): 0.25 mg (1/2 viên) uống mỗi 12 giờ trong 2 ngày (tổng liều 1 mg).
 
 **Theo dõi sau điều trị:** Đo lại prolactin máu sau 1-2 tháng.
 
