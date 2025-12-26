@@ -51,7 +51,7 @@ _Hình ảnh "Các trường hợp nhiễm HPV có thể thoái triển hoặc t
 - Tiếp xúc DES (diethylstilbestrol).
 - Tiền căn CIN 2-3, ung thư cổ tử cung.
 - Pap’s test không định kỳ hoặc chưa từng làm.
-- Nhiễm các STD khác.
+- Nhiễm các bệnh lây qua đường tình dục (STDs) khác.
 
 ### Quá trình
 

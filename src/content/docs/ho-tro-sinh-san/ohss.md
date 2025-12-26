@@ -22,7 +22,7 @@ _Bảng "Phân loại quá kích buồng trứng" - Bệnh viện Từ Dũ_.
 ### Nguyên tắc chung
 
 - Điều trị **nội khoa là chủ yếu:** Bù dịch, điện giải và giải áp sớm.
-- **Hạn chế phẫu thuật**, chỉ thực hiện khi có: vỡ buồng trứng, xuất huyết nội, xoắn buồng trứng.
+- **Hạn chế phẫu thuật**, chỉ thực hiện khi có: Vỡ buồng trứng, xuất huyết nội, xoắn buồng trứng.
 - **Dự phòng** là yếu tố quan trọng nhất trong quản lý OHSS.
 
 ### Mức độ nhẹ và vừa

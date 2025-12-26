@@ -135,7 +135,7 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 - _Lao sinh dục:_ Thăm khám thấy các ổ viêm, chảy máu dễ, cần cấy Mycobacterium tuberculosis.
 - _Ureaplasma urealyticum_, _Ureaplasma parvum_, _Mycoplasma hominis:_ Thường đồng nhiễm, khó tách biệt lâm sàng, cần xét nghiệm PCR chuyên biệt.
 - _Cytomegalovirus (CMV):_ Hiếm nếu không suy giảm miễn dịch.
-- Liên cầu tan huyết beta nhóm B (_Streptococcus agalactiae_): Thường là tác nhân gây viêm hậu sản hơn là STD.
+- Liên cầu tan huyết beta nhóm B (_Streptococcus agalactiae_): Thường là tác nhân gây viêm hậu sản hơn là các bệnh lây qua đường tình dục.
 
 **Viêm hậu môn - trực tràng:**
 

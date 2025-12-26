@@ -38,7 +38,7 @@ _Bảng "Tính hiệu quả của các phương pháp tránh thai"_.
 | **Que cấy progestogen**    | < 1                           | Hiệu quả 3-5 năm                     |
 | **Thuốc tiêm progestogen** | 0.3                           | Tiêm 3 tháng/lần                     |
 | **Viên phối hợp**          | 0.3 (dùng đúng)/8 (thực tế)   | Cần uống đều mỗi ngày                |
-| **Bao cao su nam**         | 2 (dùng đúng)/13-18 (thực tế) | Giúp phòng tránh STDs                |
+| **Bao cao su nam**         | 2 (dùng đúng)/13-18 (thực tế) | Giúp phòng tránh các bệnh lây qua đường tình dục                |
 | **Xuất tinh ngoài**        | 4 (dùng đúng)/20 (thực tế)    | Hiệu quả kém nếu kiểm soát không tốt |
 
 ### Tính an toàn

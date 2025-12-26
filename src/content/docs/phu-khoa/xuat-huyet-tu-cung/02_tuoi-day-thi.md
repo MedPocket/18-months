@@ -86,7 +86,7 @@ Khi loại trừ tất cả các nguyên nhân thực thể và toàn thân, n�
 
 - **Kinh nguyệt:** Tuổi mới có kinh lần đầu (menarche). Tần suất (chu kỳ dài/ ngắn), độ dài kỳ kinh, lượng máu, có cục máu đông không.
 - **Triệu chứng kèm theo:** Đau bụng kinh, mệt mỏi, choáng váng.
-- **Hoạt động tình dục:** Kể cả thủ dâm, đánh giá nguy cơ STD, khả năng có thai.
+- **Hoạt động tình dục:** Kể cả thủ dâm, đánh giá nguy cơ các bệnh lây qua đường tình dục (STDs), khả năng có thai.
 - **Thuốc sử dụng:** Thuốc tránh thai khẩn cấp, progestin, corticosteroid, kháng đông, NSAIDs lâu ngày, thuốc hướng thần kinh...
 
 #### Thực thể
