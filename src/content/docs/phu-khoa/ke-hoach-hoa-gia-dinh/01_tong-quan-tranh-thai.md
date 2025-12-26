@@ -31,15 +31,15 @@ Tính bằng **chỉ số Pearl** (số thai kỳ/100 năm-phụ nữ sử dụn
 
 _Bảng "Tính hiệu quả của các phương pháp tránh thai"_.
 
-| Phương pháp                | Chỉ số Pearl (dùng đúng cách) | Ghi chú                              |
-| -------------------------- | ----------------------------- | ------------------------------------ |
-| **DCTC đồng**              | < 1                           | Hiệu quả cao, kéo dài đến 10 năm     |
-| **DCTC LNG (hormone)**     | < 1                           | Giảm thống kinh, rong kinh           |
-| **Que cấy progestogen**    | < 1                           | Hiệu quả 3-5 năm                     |
-| **Thuốc tiêm progestogen** | 0.3                           | Tiêm 3 tháng/lần                     |
-| **Viên phối hợp**          | 0.3 (dùng đúng)/8 (thực tế)   | Cần uống đều mỗi ngày                |
-| **Bao cao su nam**         | 2 (dùng đúng)/13-18 (thực tế) | Giúp phòng tránh các bệnh lây qua đường tình dục                |
-| **Xuất tinh ngoài**        | 4 (dùng đúng)/20 (thực tế)    | Hiệu quả kém nếu kiểm soát không tốt |
+| Phương pháp                | Chỉ số Pearl (dùng đúng cách) | Ghi chú                                          |
+| -------------------------- | ----------------------------- | ------------------------------------------------ |
+| **DCTC đồng**              | < 1                           | Hiệu quả cao, kéo dài đến 10 năm                 |
+| **DCTC LNG (hormone)**     | < 1                           | Giảm thống kinh, rong kinh                       |
+| **Que cấy progestogen**    | < 1                           | Hiệu quả 3-5 năm                                 |
+| **Thuốc tiêm progestogen** | 0.3                           | Tiêm 3 tháng/lần                                 |
+| **Viên phối hợp**          | 0.3 (dùng đúng)/8 (thực tế)   | Cần uống đều mỗi ngày                            |
+| **Bao cao su nam**         | 2 (dùng đúng)/13-18 (thực tế) | Giúp phòng tránh các bệnh lây qua đường tình dục |
+| **Xuất tinh ngoài**        | 4 (dùng đúng)/20 (thực tế)    | Hiệu quả kém nếu kiểm soát không tốt             |
 
 ### Tính an toàn
 
