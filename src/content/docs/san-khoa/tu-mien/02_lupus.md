@@ -24,9 +24,9 @@ _Bảng "Tiêu chuẩn EULAR/ACR cho phân loại Lupus ban đỏ hệ thống".
 | Tâm thần kinh:<br> - Sảng<br> - Loạn thần<br> - Co giật (toàn thể hoặc cục bộ/khu trú)                                                                                          | <br>2<br>3<br>5      |
 | Da và niêm mạc:<br> - Rụng tóc không để lại sẹo [e]<br> - Các vết loét miệng [e]<br> - Lupus ban đỏ bán cấp ở da hoặc lupus ban đỏ dạng đĩa<br> - Triệu chứng da Lupus cấp tính | <br>2<br>2<br>4<br>6 |
 | Huyết thanh:<br> - Tràn dịch màng phổi hay màng ngoài tim<br> - Viêm màng ngoài tim cấp tính                                                                                    | <br>5<br>6           |
-| Cơ xương khớp: Khớp bị tổn thương [f]                                                                                                                                            | 6                    |
-| Thận:<br> - Protein niệu (> 0.5 g/24 giờ)<br> - Sinh thiết thận lớp II hoặc viêm thận lupus V<br> - Sinh thiết thận lớp III hoặc IV                                            | <br>4<br>8<br>10     |
-| **Các yếu tố miễn dịch**                                                                                                                                                            |                      |
+| Cơ xương khớp: Khớp bị tổn thương [f]                                                                                                                                           | 6                    |
+| Thận:<br> - Protein niệu (> 0.5 g/24 giờ)<br> - Sinh thiết thận lớp II hoặc viêm thận lupus V<br> - Sinh thiết thận lớp III hoặc IV                                             | <br>4<br>8<br>10     |
+| **Các yếu tố miễn dịch**                                                                                                                                                        |                      |
 | Kháng thể kháng phospholipid:<br> - Kháng thể kháng cardiolipin cao hoặc<br> - Kháng thể kháng beta2 glycoprotein 1 hoặc<br>Thuốc chống đông máu lupus                          | 2                    |
 | Protein bổ thể:<br> - C3 thấp hoặc C4 thấp<br> - C3 thấp và C4 thấp                                                                                                             | <br>3<br>4           |
 | Kháng thể đặc hiệu SLE:<br> - Kháng thể kháng dsDNA hoặc<br> - Kháng thể kháng Smith                                                                                            | 6                    |
@@ -45,8 +45,8 @@ Cần lưu ý phân biệt đợt bùng phát của lupus và tiền sản giậ
 
 _Bảng "Phân biệt đợt bùng phát lupus và tiền sản giật"._
 
-| Đặc điểm   | Lupus bùng phát | Tiền sản giật      |
-| ---------- | --------------- | ------------------ |
+| Đặc điểm       | Lupus bùng phát | Tiền sản giật      |
+| -------------- | --------------- | ------------------ |
 | **Thời điểm**  | Bất kỳ          | Thường sau 20 tuần |
 | **Anti-dsDNA** | Tăng            | Không              |
 | **Bổ thể**     | Giảm            | Bình thường        |
@@ -58,15 +58,15 @@ _Bảng "Phân biệt đợt bùng phát lupus và tiền sản giật"._
 
 Đợt bùng phát bệnh lupus (flare), đặc biệt ở:
 
-  - Thận (viêm thận lupus).
-  - Huyết học (thiếu máu, giảm tiểu cầu).
-  - Thần kinh trung ương.
+- Thận (viêm thận lupus).
+- Huyết học (thiếu máu, giảm tiểu cầu).
+- Thần kinh trung ương.
 
 Tăng nguy cơ:
 
-  - Tiền sản giật.
-  - Huyết khối (đặc biệt khi có hội chứng kháng phospholipid).
-  - Nhiễm trùng.
+- Tiền sản giật.
+- Huyết khối (đặc biệt khi có hội chứng kháng phospholipid).
+- Nhiễm trùng.
 
 ### Nguy cơ đối với thai
 
@@ -81,14 +81,15 @@ Tăng nguy cơ:
 ### Trước khi mang thai
 
 Khuyến cáo mang thai khi:
-  - Bệnh ổn định ≥ 6 tháng.
-  - Không có đợt bùng phát thận nặng.
+
+- Bệnh ổn định ≥ 6 tháng.
+- Không có đợt bùng phát thận nặng.
 
 Đánh giá:
 
-  - Chức năng thận.
-  - Kháng thể kháng phospholipid.
-  - Anti-Ro/SSA, Anti-La/SSB.
+- Chức năng thận.
+- Kháng thể kháng phospholipid.
+- Anti-Ro/SSA, Anti-La/SSB.
 
 Điều chỉnh thuốc sang các thuốc **an toàn trong thai kỳ**.
 
@@ -96,10 +97,11 @@ Khuyến cáo mang thai khi:
 
 Khám định kỳ mỗi 2-4 tuần.
 Theo dõi:
-  - Huyết áp.
-  - Protein niệu.
-  - Công thức máu.
-  - Anti-dsDNA, C3, C4.
+
+- Huyết áp.
+- Protein niệu.
+- Công thức máu.
+- Anti-dsDNA, C3, C4.
 
 Siêu âm theo dõi sự phát triển thai. Siêu âm tim thai (16-26 tuần) nếu mẹ có anti-Ro/SSA.
 
