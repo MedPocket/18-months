@@ -3,16 +3,21 @@ title: Lupus ban đỏ hệ thống
 description: Chẩn đoán và điều trị Lupus ban đỏ hệ thống trong thai kỳ.
 ---
 
-**Lupus ban đỏ hệ thống (Systemic Lupus Erythematosus - SLE)** là bệnh tự miễn mạn tính, đặc trưng bởi sự hình thành tự kháng thể và tổn thương đa cơ quan. Bệnh gặp chủ yếu ở phụ nữ trong độ tuổi sinh sản, do đó việc quản lý SLE trong thai kỳ có ý nghĩa quan trọng nhằm bảo vệ sức khỏe của cả mẹ và thai nhi.
+**Lupus ban đỏ hệ thống (Systemic Lupus Erythematosus - SLE)** là bệnh tự miễn mạn tính, đặc trưng bởi sự hình thành tự kháng thể và tổn thương đa cơ quan. Bệnh gặp chủ yếu ở phụ nữ trong độ tuổi sinh sản, do đó vấn đề mang thai và sinh con ở bệnh nhân SLE có ý nghĩa lâm sàng đặc biệt quan trọng.
 
-Thai kỳ ở bệnh nhân SLE được xếp vào nhóm **thai kỳ nguy cơ cao**, đòi hỏi theo dõi chặt chẽ và phối hợp đa chuyên khoa (sản khoa - thấp khớp - nội khoa).
+Thai kỳ ở phụ nữ mắc SLE được xếp vào nhóm **thai kỳ nguy cơ cao**, đòi hỏi theo dõi chặt chẽ và phối hợp đa chuyên khoa, bao gồm sản khoa, thấp khớp học và nội khoa, nhằm giảm thiểu biến chứng cho cả mẹ và thai nhi.
+
 
 ## Chẩn đoán
 
-:::note[Tiêu chuẩn chẩn đoán SLE (ACR/EULAR 2019)]
+:::note[Tiêu chuẩn phân loại SLE (ACR/EULAR 2019)]
+Bệnh nhân chỉ được xem xét phân loại SLE khi có **kháng thể kháng nhân (ANA) dương tính ≥ 1:80**.
 
-Bệnh nhân chỉ đủ điều kiện đáp ứng các tiêu chuẩn này nếu có kết quả ANA dương tính ≥ 1:80. Các tiêu chí phân loại EULAR/ACR 2019 bao gồm các lĩnh vực lâm sàng và miễn dịch, và mỗi tiêu chí được chỉ định trọng số từ 2 đến 10. Nếu điểm của bệnh nhân là 10 trở lên và đáp ứng ít nhất 1 tiêu chuẩn lâm sàng thì bệnh được phân loại là SLE. Tuy nhiên, ANA dương tính không chỉ ra chẩn đoán bệnh lupus. Xét nghiệm ANA dương tính khi có mệt mỏi và đau cơ toàn thân mà không có các phát hiện lâm sàng hoặc xét nghiệm khác hiếm khi có ý nghĩa.
-Dựa trên tiêu chuẩn phân loại SLE (ACR/EULAR), bao gồm:
+Hệ thống tiêu chuẩn ACR/EULAR 2019 bao gồm các **lĩnh vực lâm sàng và miễn dịch**, mỗi tiêu chí được cho điểm từ 2-10. Chẩn đoán SLE được đặt ra khi:
+
+- Tổng điểm ≥ 10 **và**
+- Có ít nhất **một tiêu chí lâm sàng**,
+- Đồng thời SLE là nguyên nhân hợp lý nhất giải thích các biểu hiện đó.
 
 _Bảng "Tiêu chuẩn EULAR/ACR cho phân loại Lupus ban đỏ hệ thống"._
 
@@ -41,106 +46,105 @@ ANA = kháng thể kháng nhân; anti-dsDNA = anti-DNA chuỗi kép (ds); EULAR/
 
 :::
 
-Cần lưu ý phân biệt đợt bùng phát của lupus và tiền sản giật.
+:::caution
+ANA dương tính đơn độc **không đủ** để chẩn đoán lupus, đặc biệt ở bệnh nhân chỉ có triệu chứng mơ hồ như mệt mỏi hay đau cơ.
+:::
+
+Việc phân biệt **đợt bùng phát lupus**, đặc biệt là viêm thận lupus, với **tiền sản giật** có ý nghĩa quyết định trong xử trí thai kỳ.
 
 _Bảng "Phân biệt đợt bùng phát lupus và tiền sản giật"._
 
-| Đặc điểm       | Lupus bùng phát | Tiền sản giật      |
-| -------------- | --------------- | ------------------ |
-| **Thời điểm**  | Bất kỳ          | Thường sau 20 tuần |
-| **Anti-dsDNA** | Tăng            | Không              |
-| **Bổ thể**     | Giảm            | Bình thường        |
-| **Nước tiểu**  | Trụ hồng cầu    | Không              |
+| Đặc điểm            | Lupus bùng phát      | Tiền sản giật      |
+| ------------------- | -------------------- | ------------------ |
+| Thời điểm xuất hiện | Bất kỳ giai đoạn nào | Thường sau 20 tuần |
+| Anti-dsDNA          | Tăng                 | Không tăng         |
+| Bổ thể (C3, C4)     | Giảm                 | Bình thường        |
+| Cặn lắng nước tiểu  | Trụ hồng cầu         | Không              |
 
 ## Biến chứng
 
-### Nguy cơ đối với mẹ
+### Với mẹ
 
-Đợt bùng phát bệnh lupus (flare), đặc biệt ở:
+Đợt bùng phát lupus, đặc biệt ở:
 
-- Thận (viêm thận lupus).
-- Huyết học (thiếu máu, giảm tiểu cầu).
-- Thần kinh trung ương.
-
+  - Thận (viêm thận lupus),
+  - Hệ tạo máu (thiếu máu, giảm tiểu cầu),
+  - Hệ thần kinh trung ương.
 Tăng nguy cơ:
 
-- Tiền sản giật.
-- Huyết khối (đặc biệt khi có hội chứng kháng phospholipid).
-- Nhiễm trùng.
+  - Tiền sản giật,
+  - Huyết khối (đặc biệt khi có hội chứng kháng phospholipid),
+  - Nhiễm trùng.
 
-### Nguy cơ đối với thai
+### Với thai nhi
 
 - Sảy thai, thai lưu.
 - Sinh non.
 - Thai chậm phát triển trong tử cung (IUGR).
-- Lupus sơ sinh (neonatal lupus), đặc biệt khi mẹ có kháng thể anti-Ro/SSA hoặc anti-La/SSB.
-- Block nhĩ-thất bẩm sinh (hiếm nhưng nghiêm trọng).
+- **Lupus sơ sinh**, đặc biệt khi mẹ có kháng thể anti-Ro/SSA hoặc anti-La/SSB.
+- **Block nhĩ-thất bẩm sinh** (hiếm gặp nhưng nặng).
 
 ## Nguyên tắc quản lý thai kỳ
 
 ### Trước khi mang thai
 
-Khuyến cáo mang thai khi:
+Khuyến cáo chỉ nên mang thai khi:
 
-- Bệnh ổn định ≥ 6 tháng.
-- Không có đợt bùng phát thận nặng.
+- Bệnh ổn định **ít nhất 6 tháng**.
+- Không có viêm thận lupus hoạt động nặng.
 
-Đánh giá:
+Cần đánh giá:
 
-- Chức năng thận.
-- Kháng thể kháng phospholipid.
-- Anti-Ro/SSA, Anti-La/SSB.
+- Chức năng thận,
+- Kháng thể kháng phospholipid,
+- Anti-Ro/SSA và anti-La/SSB.
 
-Điều chỉnh thuốc sang các thuốc **an toàn trong thai kỳ**.
+Điều chỉnh phác đồ điều trị sang các thuốc **an toàn cho thai kỳ** trước khi thụ thai.
 
 ### Theo dõi trong thai kỳ
 
-Khám định kỳ mỗi 2-4 tuần.
-Theo dõi:
+- Khám định kỳ mỗi **2-4 tuần**.
+- Theo dõi: Huyết áp, protein niệu, công thức máu, anti-dsDNA, C3, C4.
 
-- Huyết áp.
-- Protein niệu.
-- Công thức máu.
-- Anti-dsDNA, C3, C4.
-
-Siêu âm theo dõi sự phát triển thai. Siêu âm tim thai (16-26 tuần) nếu mẹ có anti-Ro/SSA.
+- Siêu âm đánh giá sự phát triển thai.
+- Siêu âm tim thai từ **16-26 tuần** nếu mẹ có anti-Ro/SSA hoặc anti-La/SSB.
 
 ## Điều trị
 
 ### Các thuốc an toàn
 
-- **Hydroxychloroquine (HCQ)**: Nên duy trì suốt thai kỳ.
-- **Corticosteroid** (prednisolone): Liều thấp-trung bình.
-- **Azathioprine** (≤ 2 mg/kg/ngày).
+- **Hydroxychloroquine (HCQ)**: Khuyến cáo duy trì suốt thai kỳ.
+- **Corticosteroid** (prednisolone): Liều thấp đến trung bình.
+- **Azathioprine**: ≤ 2 mg/kg/ngày.
 - **Aspirin liều thấp** (75-100 mg/ngày): Dự phòng tiền sản giật.
-- **Heparin trọng lượng phân tử thấp**: Nếu có hội chứng kháng phospholipid.
+- **Heparin trọng lượng phân tử thấp**: Chỉ định khi có hội chứng kháng phospholipid.
 
 ### Các thuốc chống chỉ định
 
 - Mycophenolate mofetil.
 - Methotrexate.
-- Cyclophosphamide (trừ trường hợp đặc biệt, nguy cơ-lợi ích).
 - Leflunomide.
+- Cyclophosphamide (chỉ cân nhắc trong trường hợp đặc biệt, khi lợi ích vượt trội nguy cơ).
 
 ## Chăm sóc sau sinh
 
-- Nguy cơ bùng phát lupus tăng trong 6 tháng sau sinh.
-- Đánh giá lại phác đồ điều trị.
-- Tư vấn cho con bú sử dụng HCQ, prednisolone liều thấp **an toàn khi cho con bú**.
-- Theo dõi trẻ sơ sinh nếu mẹ có kháng thể anti-Ro/SSA.
+- Nguy cơ bùng phát lupus tăng trong **6 tháng đầu sau sinh**.
+- Đánh giá và điều chỉnh lại phác đồ điều trị.
+- **Hydroxychloroquine và prednisolone liều thấp an toàn khi cho con bú**.
+- Theo dõi trẻ sơ sinh nếu mẹ có kháng thể anti-Ro/SSA hoặc anti-La/SSB.
 
 ## Tiên lượng
 
-Với quản lý tốt và theo dõi chặt chẽ, **đa số phụ nữ mắc lupus có thể mang thai và sinh con an toàn**. Yếu tố tiên lượng xấu bao gồm:
+Với quản lý thích hợp và theo dõi chặt chẽ, **đa số phụ nữ mắc SLE có thể mang thai và sinh con an toàn**.
+
+Các yếu tố tiên lượng xấu bao gồm:
 
 - Viêm thận lupus hoạt động.
 - Hội chứng kháng phospholipid.
-- Không kiểm soát bệnh trước khi mang thai.
+- Bệnh không được kiểm soát tốt trước khi mang thai.
 
 ## Tài liệu tham khảo
 
 - MSD Manual - [Lupus ban đỏ hệ thống (SLE)](https://www.msdmanuals.com/vi/professional/rối-loạn-mô-cơ-xương-và-mô-liên-kết/bệnh-thấp-khớp-hệ-thống/lupus-ban-đỏ-hệ-thống-sle)
-- EULAR recommendations for the management of systemic lupus erythematosus in pregnancy.
-- ACOG Practice Bulletin: Autoimmune diseases and pregnancy.
-- UpToDate: Systemic lupus erythematosus and pregnancy.
-- Cunningham FG et al. _Williams Obstetrics_
+- EULAR - EULAR recommendations for the management of systemic lupus erythematosus in pregnancy.
+- UpToDate - Pregnancy in women with systemic lupus erythematosus.
