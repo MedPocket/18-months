@@ -11,15 +11,33 @@ Thai kỳ ở bệnh nhân SLE được xếp vào nhóm **thai kỳ nguy cơ ca
 
 :::note[Tiêu chuẩn chẩn đoán SLE (ACR/EULAR 2019)]
 
+Bệnh nhân chỉ đủ điều kiện đáp ứng các tiêu chuẩn này nếu có kết quả ANA dương tính ≥ 1:80. Các tiêu chí phân loại EULAR/ACR 2019 bao gồm các lĩnh vực lâm sàng và miễn dịch, và mỗi tiêu chí được chỉ định trọng số từ 2 đến 10. Nếu điểm của bệnh nhân là 10 trở lên và đáp ứng ít nhất 1 tiêu chuẩn lâm sàng thì bệnh được phân loại là SLE. Tuy nhiên, ANA dương tính không chỉ ra chẩn đoán bệnh lupus. Xét nghiệm ANA dương tính khi có mệt mỏi và đau cơ toàn thân mà không có các phát hiện lâm sàng hoặc xét nghiệm khác hiếm khi có ý nghĩa.
 Dựa trên tiêu chuẩn phân loại SLE (ACR/EULAR), bao gồm:
 
-- Lâm sàng: ban cánh bướm, viêm khớp, loét miệng, viêm màng thanh dịch, tổn thương thận, thần kinh
-- Cận lâm sàng:
-  - ANA (+)
-  - Anti-dsDNA
-  - Anti-Sm
-  - Giảm bổ thể (C3, C4)
-  - Bất thường tổng phân tích nước tiểu
+_Bảng "Tiêu chuẩn EULAR/ACR cho phân loại Lupus ban đỏ hệ thống"._
+
+|Miền [b]|Trọng lượng [c]|
+|---|---|
+|Các yếu tố lâm sàng||
+|Triệu chứng toàn thân sốt (> 38°C)|2|
+|Huyết học:<br>Giảm bạch cầu (< 4000/mcL)<br>Giảm tiểu cầu với số lượng tiểu cầu < 100.000/mcL<br>Tan máu tự miễn dịch [d]|<br>3<br>4<br>4|
+|Thần kinh:<br>Co giật (toàn thể hoặc cục bộ/khu trú)<|3<br>4<br>4|
+|Tâm thần kinh:<br>Sảng<br>Loạn thần<br>Co giật (toàn thể hoặc cục bộ/khu trú)|<br>2<br>3<br>5|
+|Da và niêm mạc:<br>Rụng tóc không để lại sẹo [e]<br>Các vết loét miệng [e]<br>Lupus ban đỏ bán cấp ở da hoặc lupus ban đỏ dạng đĩa<br>Triệu chứng da Lupus cấp tính|<br>2<br>2<br>4<br>6|
+|Huyết thanh:<br>Tràn dịch màng phổi hay màng ngoài tim<br>Viêm màng ngoài tim cấp tính|<br>5<br>6|
+|Cơ xương khớp: Khớp bị tổn thương[f]|6|
+|Thận:<br>Protein niệu (> 0.5 g/24 giờ)<br>Sinh thiết thận lớp II hoặc viêm thận lupus V<br>Sinh thiết thận lớp III hoặc IV|<br>4<br>8<br>10|
+|Các yếu tố miễn dịch||
+|Kháng thể kháng phospholipid:<br>Kháng thể kháng cardiolipin cao hoặc<br>Kháng thể kháng beta2 glycoprotein 1 hoặc<br>Thuốc chống đông máu lupus|2|
+|Protein bổ thể:<br>C3 thấp hoặc C4 thấp<br>C3 thấp và C4 thấp|<br>3<br>4|
+|Kháng thể đặc hiệu SLE:<br>Kháng thể kháng dsDNA hoặc<br>Kháng thể kháng Smith|6|
+[a] Bệnh nhân chỉ đủ điều kiện đáp ứng các tiêu chuẩn này nếu họ có xét nghiệm ANA dương tính ≥ 1:80<br>
+[b] Các tiêu chí không cần phải xảy ra đồng thời. Chỉ nên sử dụng điểm số có trọng số cao nhất trong một miền. SLE phải là giải thích có khả năng nhất cho mỗi tiêu chí.<br>
+[c] Mỗi tiêu chí được chỉ định trọng số từ 2 đến 10. Nếu điểm của bệnh nhân là 10 trở lên và đáp ứng ít nhất 1 tiêu chuẩn lâm sàng thì bệnh được phân loại là SLE.<br>
+[d] Bằng chứng về sự tan máu tự miễn (như sự hiện diện của hồng cầu lưới, haptoglobin thấp, tăng bilirubin gián tiếp, tăng lactate dehydrogenase) và một xét nghiệm kháng globulin trực tiếp dương tính (trực tiếp Coombs).<br>
+[e] Tiêu chí này có thể được ghi nhận trong quá trình khám hoặc xem lại một bức ảnh.<br>
+[f] Tổn thương khớp được định nghĩa là viêm màng hoạt dịch bao gồm ≥ 2 khớp có đặc điểm là sưng hoặc tràn dịch hoặc đau ở 2 khớp và ít nhất là 30 phút buổi sáng.<br>
+ANA = kháng thể kháng nhân; anti-dsDNA = anti-DNA chuỗi kép (ds); EULAR/ACR = Liên minh châu Âu chống lại bệnh thấp khớp/Hội thấp khớp học Hoa Kỳ; SLE = lupus ban đỏ hệ thống.
 
 :::
 
