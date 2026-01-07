@@ -3,13 +3,13 @@ title: Rối loạn tự miễn trong thai kỳ
 description: Tổng quan và đặc điểm lâm sàng của các rối loạn tự miễn trong thai kỳ.
 ---
 
-Các rối loạn tự miễn gặp ở phụ nữ **cao gấp khoảng 5 lần so với nam giới**, với tỷ lệ mắc bệnh thường đạt đỉnh trong **độ tuổi sinh sản**. Do đó, không ít bệnh lý tự miễn xuất hiện hoặc diễn tiến trong thời kỳ mang thai, đặt thai kỳ vào nhóm **nguy cơ cao**, cần được theo dõi và quản lý chặt chẽ.
+Các rối loạn tự miễn gặp ở phụ nữ **cao gấp khoảng 5 lần so với nam giới**, với tỷ lệ mắc bệnh thường đạt đỉnh trong **độ tuổi sinh sản**.
 
 ## Lupus ban đỏ hệ thống
 
-Lupus ban đỏ hệ thống (Systemic Lupus Erythematosus - SLE) có thể **khởi phát lần đầu trong thai kỳ**. Những phụ nữ có tiền sử thai chết lưu không rõ nguyên nhân trong tam cá nguyệt thứ 2, thai chậm phát triển trong tử cung, sinh non hoặc sảy thai tự nhiên tái diễn cần được nghĩ đến khả năng mắc SLE.
+Lupus ban đỏ hệ thống (Systemic Lupus Erythematosus - SLE) có thể **khởi phát lần đầu trong thai kỳ**. Những phụ nữ có **tiền sử thai chết lưu không rõ nguyên nhân trong tam cá nguyệt thứ 2, thai chậm phát triển trong tử cung, sinh non hoặc sảy thai tự nhiên tái diễn** cần được nghĩ đến khả năng mắc SLE.
 
-Diễn tiến của lupus trong thai kỳ **khó dự đoán**, tuy nhiên bệnh có xu hướng **nặng lên trong giai đoạn sau sinh**. Kết cục thai kỳ thường thuận lợi hơn nếu việc thụ thai được trì hoãn cho đến khi bệnh **ổn định ít nhất 6 tháng**, phác đồ điều trị đã được điều chỉnh phù hợp, huyết áp và chức năng thận bình thường.
+Diễn tiến của lupus trong thai kỳ **khó dự đoán**, có xu hướng **nặng lên trong giai đoạn sau sinh**. Kết cục thai kỳ thường thuận lợi hơn nếu việc thụ thai được trì hoãn cho đến khi bệnh **ổn định ít nhất 6 tháng**, phác đồ điều trị đã được điều chỉnh phù hợp, huyết áp và chức năng thận bình thường.
 
 Các biến chứng thường gặp bao gồm:
 
@@ -55,8 +55,8 @@ Corticosteroid là điều trị hàng đầu, giúp giảm IgG và đạt lui b
 
 Globulin miễn dịch truyền tĩnh mạch có thể làm tăng nhanh số lượng tiểu cầu nhưng hiệu quả ngắn hạn, thường được dùng khi cần chuẩn bị sinh. Truyền tiểu cầu chỉ được khuyến cáo khi:
 
-- Mổ lấy thai với số lượng tiểu cầu < 50.000/µL.
-- Dự kiến sinh thường với số lượng tiểu cầu < 30.000/µL.
+- Mổ lấy thai với số lượng tiểu cầu < 50,000/µL.
+- Dự kiến sinh thường với số lượng tiểu cầu < 30,000/µL.
 
 Mặc dù IgG kháng tiểu cầu có thể qua nhau thai, giảm tiểu cầu ở thai nhi hoặc sơ sinh là **hiếm gặp**. Nồng độ kháng thể ở mẹ không dự đoán được mức độ ảnh hưởng ở thai. Nguy cơ xuất huyết nội sọ sơ sinh không phụ thuộc vào phương thức sinh; do đó, sinh thường được khuyến nghị và chỉ mổ lấy thai khi có chỉ định sản khoa.
 
@@ -78,4 +78,4 @@ Trong chuyển dạ, bệnh nhân nhược cơ có thể cần hỗ trợ hô h�
 
 ## Tài liệu tham khảo
 
-- MSD Manuals - [Rối loạn tự miễn dịch trong thai kỳ](https://www.msdmanuals.com/vi/professional/phụ-khoa-và-sản-khoa/biến-chứng-thai-nghén-do-bệnh-tật/rối-loạn-tự-miễn-dịch-trong-thai-kỳ)
+- MSD Manual - [Rối loạn tự miễn dịch trong thai kỳ](https://www.msdmanuals.com/vi/professional/phụ-khoa-và-sản-khoa/biến-chứng-thai-nghén-do-bệnh-tật/rối-loạn-tự-miễn-dịch-trong-thai-kỳ)

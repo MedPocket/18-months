@@ -134,5 +134,5 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 ## Tài liệu tham khảo
 
 - Dieutri - [_Bài giảng vô kinh không hành kinh_](https://www.dieutri.vn/bgsanphukhoa/bai-giang-vo-kinh-khong-hanh-kinh)
-- MSD Manuals - [_Amenorrhea_](https://www.msdmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea)
+- MSD Manual - [_Amenorrhea_](https://www.msdmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea)
 - ASRM 2024 - _Đánh giá vô kinh_
