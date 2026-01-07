@@ -130,4 +130,4 @@ Các lựa chọn khác:
 
 - ThS. BS. Huỳnh Phúc Khánh Minh - [_Vai trò của liệu pháp estrogen trong kích thích buồng trứng ở bệnh nhân suy buồng trứng sớm_](https://drive.google.com/file/d/1q--VAN2LXmtcGBmVkLO92XDoOtnnAI-g)
 - BS. Lê Khác Tiến, BS. Lê Thị Hà Xuyên - [_Suy buồng trứng sớm_](https://hosrem.org.vn/ckfinder/userfiles/files/52-15_LeKhacTien.pdf)
-- MSD Manual - [_Suy giảm buồng trứng nguyên phát_](https://www.msdmanuals.com/vi/professional/phụ-khoa-và-sản-khoa/rối-loạn-kinh-nguyệt/suy-giảm-buồng-trứng-nguyên-phát)
+- MSD Manuals - [_Suy giảm buồng trứng nguyên phát_](https://www.msdmanuals.com/vi/professional/phụ-khoa-và-sản-khoa/rối-loạn-kinh-nguyệt/suy-giảm-buồng-trứng-nguyên-phát)
