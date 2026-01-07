@@ -24,14 +24,14 @@ _Bảng "Tiêu chuẩn EULAR/ACR cho phân loại Lupus ban đỏ hệ thống".
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
 | **Các yếu tố lâm sàng**                                                                                                                                                         |                      |
 | Triệu chứng toàn thân sốt (> 38°C)                                                                                                                                              | 2                    |
-| Huyết học:<br> - Giảm bạch cầu (< 4000/mcL)<br> - Giảm tiểu cầu với số lượng tiểu cầu < 100,000/mcL<br> - Tan máu tự miễn dịch [d]                                               | <br>3<br>4<br>4      |
+| Huyết học:<br> - Giảm bạch cầu (< 4000/mcL)<br> - Giảm tiểu cầu với số lượng tiểu cầu < 100,000/mcL<br> - Tan máu tự miễn dịch [d]                                              | <br>3<br>4<br>4      |
 | Tâm thần kinh:<br> - Sảng<br> - Loạn thần<br> - Co giật (toàn thể hoặc cục bộ/khu trú)                                                                                          | <br>2<br>3<br>5      |
 | Da và niêm mạc:<br> - Rụng tóc không để lại sẹo [e]<br> - Các vết loét miệng [e]<br> - Lupus ban đỏ bán cấp ở da hoặc lupus ban đỏ dạng đĩa<br> - Triệu chứng da Lupus cấp tính | <br>2<br>2<br>4<br>6 |
 | Huyết thanh:<br> - Tràn dịch màng phổi hay màng ngoài tim<br> - Viêm màng ngoài tim cấp tính                                                                                    | <br>5<br>6           |
 | Cơ xương khớp: Khớp bị tổn thương [f]                                                                                                                                           | 6                    |
 | Thận:<br> - Protein niệu (> 0.5 g/24 giờ)<br> - Sinh thiết thận lớp II hoặc viêm thận lupus V<br> - Sinh thiết thận lớp III hoặc IV                                             | <br>4<br>8<br>10     |
 | **Các yếu tố miễn dịch**                                                                                                                                                        |                      |
-| Kháng thể kháng phospholipid:<br> - Kháng thể kháng cardiolipin cao hoặc<br> - Kháng thể kháng β2 glycoprotein 1 hoặc<br>Thuốc chống đông máu lupus                          | 2                    |
+| Kháng thể kháng phospholipid:<br> - Kháng thể kháng cardiolipin cao hoặc<br> - Kháng thể kháng β2 glycoprotein 1 hoặc<br>Thuốc chống đông máu lupus                             | 2                    |
 | Protein bổ thể:<br> - C3 thấp hoặc C4 thấp<br> - C3 thấp và C4 thấp                                                                                                             | <br>3<br>4           |
 | Kháng thể đặc hiệu SLE:<br> - Kháng thể kháng dsDNA hoặc<br> - Kháng thể kháng Smith                                                                                            | 6                    |
 
