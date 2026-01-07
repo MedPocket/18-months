@@ -24,14 +24,14 @@ _Bảng "Tiêu chuẩn EULAR/ACR cho phân loại Lupus ban đỏ hệ thống".
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
 | **Các yếu tố lâm sàng**                                                                                                                                                         |                      |
 | Triệu chứng toàn thân sốt (> 38°C)                                                                                                                                              | 2                    |
-| Huyết học:<br> - Giảm bạch cầu (< 4000/mcL)<br> - Giảm tiểu cầu với số lượng tiểu cầu < 100.000/mcL<br> - an máu tự miễn dịch [d]                                               | <br>3<br>4<br>4      |
+| Huyết học:<br> - Giảm bạch cầu (< 4000/mcL)<br> - Giảm tiểu cầu với số lượng tiểu cầu < 100,000/mcL<br> - Tan máu tự miễn dịch [d]                                               | <br>3<br>4<br>4      |
 | Tâm thần kinh:<br> - Sảng<br> - Loạn thần<br> - Co giật (toàn thể hoặc cục bộ/khu trú)                                                                                          | <br>2<br>3<br>5      |
 | Da và niêm mạc:<br> - Rụng tóc không để lại sẹo [e]<br> - Các vết loét miệng [e]<br> - Lupus ban đỏ bán cấp ở da hoặc lupus ban đỏ dạng đĩa<br> - Triệu chứng da Lupus cấp tính | <br>2<br>2<br>4<br>6 |
 | Huyết thanh:<br> - Tràn dịch màng phổi hay màng ngoài tim<br> - Viêm màng ngoài tim cấp tính                                                                                    | <br>5<br>6           |
 | Cơ xương khớp: Khớp bị tổn thương [f]                                                                                                                                           | 6                    |
 | Thận:<br> - Protein niệu (> 0.5 g/24 giờ)<br> - Sinh thiết thận lớp II hoặc viêm thận lupus V<br> - Sinh thiết thận lớp III hoặc IV                                             | <br>4<br>8<br>10     |
 | **Các yếu tố miễn dịch**                                                                                                                                                        |                      |
-| Kháng thể kháng phospholipid:<br> - Kháng thể kháng cardiolipin cao hoặc<br> - Kháng thể kháng beta2 glycoprotein 1 hoặc<br>Thuốc chống đông máu lupus                          | 2                    |
+| Kháng thể kháng phospholipid:<br> - Kháng thể kháng cardiolipin cao hoặc<br> - Kháng thể kháng β2 glycoprotein 1 hoặc<br>Thuốc chống đông máu lupus                          | 2                    |
 | Protein bổ thể:<br> - C3 thấp hoặc C4 thấp<br> - C3 thấp và C4 thấp                                                                                                             | <br>3<br>4           |
 | Kháng thể đặc hiệu SLE:<br> - Kháng thể kháng dsDNA hoặc<br> - Kháng thể kháng Smith                                                                                            | 6                    |
 
@@ -66,13 +66,14 @@ _Bảng "Phân biệt đợt bùng phát lupus và tiền sản giật"._
 
 Đợt bùng phát lupus, đặc biệt ở:
 
-- Thận (viêm thận lupus),
-- Hệ tạo máu (thiếu máu, giảm tiểu cầu),
+- Thận (viêm thận lupus).
+- Hệ tạo máu (thiếu máu, giảm tiểu cầu).
 - Hệ thần kinh trung ương.
-  Tăng nguy cơ:
 
-- Tiền sản giật,
-- Huyết khối (đặc biệt khi có hội chứng kháng phospholipid),
+Tăng nguy cơ:
+
+- Tiền sản giật.
+- Huyết khối (đặc biệt khi có hội chứng kháng phospholipid).
 - Nhiễm trùng.
 
 ### Với thai nhi
@@ -94,8 +95,8 @@ Khuyến cáo chỉ nên mang thai khi:
 
 Cần đánh giá:
 
-- Chức năng thận,
-- Kháng thể kháng phospholipid,
+- Chức năng thận.
+- Kháng thể kháng phospholipid.
 - Anti-Ro/SSA và anti-La/SSB.
 
 Điều chỉnh phác đồ điều trị sang các thuốc **an toàn cho thai kỳ** trước khi thụ thai.
@@ -104,7 +105,6 @@ Cần đánh giá:
 
 - Khám định kỳ mỗi **2-4 tuần**.
 - Theo dõi: Huyết áp, protein niệu, công thức máu, anti-dsDNA, C3, C4.
-
 - Siêu âm đánh giá sự phát triển thai.
 - Siêu âm tim thai từ **16-26 tuần** nếu mẹ có anti-Ro/SSA hoặc anti-La/SSB.
 
