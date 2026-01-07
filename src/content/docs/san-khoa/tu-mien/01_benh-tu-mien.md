@@ -77,4 +77,5 @@ Các đợt nhược cơ cấp có thể cần tăng liều thuốc kháng choli
 Trong chuyển dạ, bệnh nhân nhược cơ có thể cần hỗ trợ hô hấp và rất nhạy cảm với các thuốc ức chế hô hấp như thuốc an thần, opioid và magiê sulfat. Do đó, **gây tê vùng được ưu tiên** để giảm đau khi sinh. IgG gây bệnh có thể qua nhau thai, dẫn đến nhược cơ thoáng qua ở khoảng 20% trẻ sơ sinh, đặc biệt nếu mẹ chưa cắt tuyến ức. Sinh thường được khuyến nghị, tuy nhiên có thể cần hỗ trợ sinh do yếu cơ.
 
 ## Tài liệu tham khảo
+
 - MSD Manuals - [Rối loạn tự miễn dịch trong thai kỳ](https://www.msdmanuals.com/vi/professional/phụ-khoa-và-sản-khoa/biến-chứng-thai-nghén-do-bệnh-tật/rối-loạn-tự-miễn-dịch-trong-thai-kỳ)
