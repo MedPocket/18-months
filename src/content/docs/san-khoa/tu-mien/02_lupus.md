@@ -12,6 +12,7 @@ Thai kỳ ở bệnh nhân SLE được xếp vào nhóm **thai kỳ nguy cơ ca
 :::note[Tiêu chuẩn chẩn đoán SLE (ACR/EULAR 2019)]
 
 Dựa trên tiêu chuẩn phân loại SLE (ACR/EULAR), bao gồm:
+
 - Lâm sàng: ban cánh bướm, viêm khớp, loét miệng, viêm màng thanh dịch, tổn thương thận, thần kinh
 - Cận lâm sàng:
   - ANA (+)
@@ -24,16 +25,17 @@ Dựa trên tiêu chuẩn phân loại SLE (ACR/EULAR), bao gồm:
 
 ### Phân biệt đợt bùng phát lupus và tiền sản giật
 
-| Đặc điểm | Lupus bùng phát | Tiền sản giật |
-|--------|----------------|---------------|
-| Thời điểm | Bất kỳ | Thường sau 20 tuần |
-| Anti-dsDNA | Tăng | Không |
-| Bổ thể | Giảm | Bình thường |
-| Nước tiểu | Trụ hồng cầu | Không |
+| Đặc điểm   | Lupus bùng phát | Tiền sản giật      |
+| ---------- | --------------- | ------------------ |
+| Thời điểm  | Bất kỳ          | Thường sau 20 tuần |
+| Anti-dsDNA | Tăng            | Không              |
+| Bổ thể     | Giảm            | Bình thường        |
+| Nước tiểu  | Trụ hồng cầu    | Không              |
 
 ## Biến chứng
 
 ### Nguy cơ đối với mẹ
+
 - Đợt bùng phát bệnh lupus (flare), đặc biệt ở:
   - Thận (viêm thận lupus)
   - Huyết học (thiếu máu, giảm tiểu cầu)
@@ -51,7 +53,6 @@ Dựa trên tiêu chuẩn phân loại SLE (ACR/EULAR), bao gồm:
 - Lupus sơ sinh (neonatal lupus), đặc biệt khi mẹ có kháng thể anti-Ro/SSA hoặc anti-La/SSB
 - Block nhĩ-thất bẩm sinh (hiếm nhưng nghiêm trọng)
 
-
 ## Nguyên tắc quản lý thai kỳ ở bệnh nhân Lupus
 
 ### Trước khi mang thai
@@ -66,6 +67,7 @@ Dựa trên tiêu chuẩn phân loại SLE (ACR/EULAR), bao gồm:
 - Điều chỉnh thuốc sang các thuốc **an toàn trong thai kỳ**
 
 ### Theo dõi trong thai kỳ
+
 - Khám định kỳ mỗi 2-4 tuần
 - Theo dõi:
   - Huyết áp
@@ -103,14 +105,15 @@ Dựa trên tiêu chuẩn phân loại SLE (ACR/EULAR), bao gồm:
 ## Tiên lượng
 
 Với quản lý tốt và theo dõi chặt chẽ, **đa số phụ nữ mắc lupus có thể mang thai và sinh con an toàn**. Yếu tố tiên lượng xấu bao gồm:
+
 - Viêm thận lupus hoạt động
 - Hội chứng kháng phospholipid
 - Không kiểm soát bệnh trước khi mang thai
 
 ## Tài liệu tham khảo
 
-- EULAR recommendations for the management of systemic lupus erythematosus in pregnancy  
-- ACOG Practice Bulletin: Autoimmune diseases and pregnancy  
-- UpToDate: Systemic lupus erythematosus and pregnancy  
-- Cunningham FG et al. *Williams Obstetrics*  
+- EULAR recommendations for the management of systemic lupus erythematosus in pregnancy
+- ACOG Practice Bulletin: Autoimmune diseases and pregnancy
+- UpToDate: Systemic lupus erythematosus and pregnancy
+- Cunningham FG et al. _Williams Obstetrics_
 - Ministry of Health Vietnam - Hướng dẫn quản lý bệnh tự miễn trong thai kỳ
