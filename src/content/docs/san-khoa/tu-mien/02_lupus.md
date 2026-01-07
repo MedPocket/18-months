@@ -7,7 +7,6 @@ description: Chẩn đoán và điều trị Lupus ban đỏ hệ thống trong 
 
 Thai kỳ ở phụ nữ mắc SLE được xếp vào nhóm **thai kỳ nguy cơ cao**, đòi hỏi theo dõi chặt chẽ và phối hợp đa chuyên khoa, bao gồm sản khoa, thấp khớp học và nội khoa, nhằm giảm thiểu biến chứng cho cả mẹ và thai nhi.
 
-
 ## Chẩn đoán
 
 :::note[Tiêu chuẩn phân loại SLE (ACR/EULAR 2019)]
@@ -67,14 +66,14 @@ _Bảng "Phân biệt đợt bùng phát lupus và tiền sản giật"._
 
 Đợt bùng phát lupus, đặc biệt ở:
 
-  - Thận (viêm thận lupus),
-  - Hệ tạo máu (thiếu máu, giảm tiểu cầu),
-  - Hệ thần kinh trung ương.
-Tăng nguy cơ:
+- Thận (viêm thận lupus),
+- Hệ tạo máu (thiếu máu, giảm tiểu cầu),
+- Hệ thần kinh trung ương.
+  Tăng nguy cơ:
 
-  - Tiền sản giật,
-  - Huyết khối (đặc biệt khi có hội chứng kháng phospholipid),
-  - Nhiễm trùng.
+- Tiền sản giật,
+- Huyết khối (đặc biệt khi có hội chứng kháng phospholipid),
+- Nhiễm trùng.
 
 ### Với thai nhi
 
