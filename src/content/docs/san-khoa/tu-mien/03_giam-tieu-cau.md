@@ -83,4 +83,4 @@ Cần phân biệt giảm tiểu cầu miễn dịch với:
 
 ## Tài liệu tham khảo
 
-- MSD Manual - [Giảm tiểu cầu miễn dịch (ITP)](www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/giảm-tiểu-cầu-và-rối-loạn-chức-năng-tiểu-cầu/giảm-tiểu-cầu-miễn-dịch-itp)
+- MSD Manual - [Giảm tiểu cầu miễn dịch (ITP)](https://www.msdmanuals.com/vi/professional/huyết-học-và-ung-thư-học/giảm-tiểu-cầu-và-rối-loạn-chức-năng-tiểu-cầu/giảm-tiểu-cầu-miễn-dịch-itp)
