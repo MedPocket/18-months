@@ -19,6 +19,8 @@ Trong thai kỳ, sự thay đổi về miễn dịch và nội tiết có thể 
 
 ## Chẩn đoán
 
+### Lâm sàng
+
 Phần lớn thai phụ mắc giảm tiểu cầu miễn dịch có triệu chứng nhẹ hoặc không triệu chứng. Các biểu hiện có thể bao gồm:
 
 - Xuất huyết dưới da: Chấm xuất huyết, bầm tím.
@@ -64,8 +66,7 @@ Cần phân biệt giảm tiểu cầu miễn dịch với:
 - **Globulin miễn dịch truyền tĩnh mạch (IVIG)** dùng khi cần tăng tiểu cầu nhanh hoặc không đáp ứng steroid. Tiêm tĩnh mạch globulin miễn dịch có thể làm tăng đáng kể số lượng tiểu cầu nhưng trong thời gian ngắn, do đó có thể gây chuyển dạ ở những thai phụ có số tiểu cầu thấp.
 - **Cắt lách** hiếm khi chỉ định, thường trì hoãn đến tam cá nguyệt thứ 2 nếu bắt buộc.
 - Các thuốc ức chế miễn dịch khác ít được sử dụng trong thai kỳ do nguy cơ cho thai.
-
-* Việc truyền tiểu cầu chỉ được khuyến nghị khi: Cần phải mổ lấy thai và số lượng tiểu cầu của mẹ < 50000/µL hoặc dự kiến sẽ sinh thường và số lượng tiểu cầu của mẹ là < 30000/µL.
+- Việc truyền tiểu cầu chỉ được khuyến nghị khi: Cần phải mổ lấy thai và số lượng tiểu cầu của mẹ < 50000/µL hoặc dự kiến sẽ sinh thường và số lượng tiểu cầu của mẹ là < 30000/µL.
 
 ## Quản lý sinh và theo dõi thai nhi
 
