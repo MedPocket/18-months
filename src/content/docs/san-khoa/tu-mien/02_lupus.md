@@ -1,6 +1,6 @@
 ---
 title: Lupus ban đỏ hệ thống
-description: Chẩn đoán và điều trị Lupus ban đỏ hệ thống trong thai kỳ.
+description: Tổng quan Lupus ban đỏ hệ thống trong thai kỳ.
 ---
 
 **Lupus ban đỏ hệ thống (Systemic Lupus Erythematosus - SLE)** là bệnh tự miễn mạn tính, đặc trưng bởi sự hình thành tự kháng thể và tổn thương đa cơ quan. Bệnh gặp chủ yếu ở phụ nữ trong độ tuổi sinh sản, do đó vấn đề mang thai và sinh con ở bệnh nhân SLE có ý nghĩa lâm sàng đặc biệt quan trọng.
