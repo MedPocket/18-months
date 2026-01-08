@@ -112,6 +112,13 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
+        label: "Bệnh tự miễn",
+        autogenerate: {
+          directory: "san-khoa/tu-mien",
+        },
+        collapsed: true,
+      },
+      {
         label: "Các vấn đề thường gặp",
         autogenerate: {
           directory: "san-khoa/mang-thai",
