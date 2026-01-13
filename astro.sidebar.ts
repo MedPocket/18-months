@@ -21,7 +21,7 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Sức khỏe thai",
+        label: "Lượng giá sức khỏe thai",
         autogenerate: {
           directory: "san-khoa/suc-khoe-thai",
         },
