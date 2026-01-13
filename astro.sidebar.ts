@@ -21,7 +21,7 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Sức khỏe thai",
+        label: "Lượng giá sức khỏe thai",
         autogenerate: {
           directory: "san-khoa/suc-khoe-thai",
         },
@@ -66,6 +66,13 @@ export const sidebar = starlightSidebarTopics([
         label: "Tăng huyết áp thai kỳ",
         autogenerate: {
           directory: "san-khoa/tang-huyet-ap",
+        },
+        collapsed: true,
+      },
+      {
+        label: "Thai chậm tăng trưởng",
+        autogenerate: {
+          directory: "san-khoa/sga-iugr",
         },
         collapsed: true,
       },
