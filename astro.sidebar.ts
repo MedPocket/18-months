@@ -70,6 +70,13 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
+        label: "Thai chậm tăng trưởng",
+        autogenerate: {
+          directory: "san-khoa/sga-iugr",
+        },
+        collapsed: true,
+      },
+      {
         label: "Tuyến giáp và thai kỳ",
         autogenerate: {
           directory: "san-khoa/tuyen-giap",
