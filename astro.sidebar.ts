@@ -174,7 +174,13 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      "phu-khoa/vo-kinh",
+      {
+        label: "Vô kinh",
+        autogenerate: {
+          directory: "phu-khoa/vo-kinh",
+        },
+        collapsed: true,
+      },
       "phu-khoa/chua-ngoai-tu-cung",
       "phu-khoa/chua-vet-mo-lay-thai",
       {
