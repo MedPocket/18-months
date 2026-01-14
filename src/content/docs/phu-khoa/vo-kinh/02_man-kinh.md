@@ -36,12 +36,12 @@ Trong giai đoạn chuyển mãn kinh, **estradiol có thể tăng thoáng qua**
 
 Sự giảm estrogen và inhibin làm **mất feedback âm**, dẫn đến **tăng rõ rệt LH và FSH** trong tuần hoàn.
 
-### Thay đổi androgen
+**Thay đổi androgen**:
 
 - Androstenedione giảm khoảng 50%.
 - Testosterone giảm dần theo tuổi, **không giảm đột ngột trong mãn kinh** do vẫn được tiết từ tuyến thượng thận và mô đệm buồng trứng sau mãn kinh.
 
-### Thay đổi tại đường sinh dục dưới
+**Thay đổi tại đường sinh dục dưới**:
 
 - Teo biểu mô âm đạo.
 - pH âm đạo tăng (kiềm hơn).
@@ -177,10 +177,10 @@ _Bảng "Chế phẩm kết hợp estrogen + progestogen"._
 
 ### Thuốc không nội tiết
 
-- Các chất ức chế tái hấp thu serotonin có chọn lọc SSRI/ Chất ức chế tái hấp thu serotonin-norepinephrine SNRI (paroxetine 7.5 mg/ngày, venlafaxine).
-- Gabapentin 300 mg tối đa 3 lần/ngày. Sử dụng còn hạn chế và nguy cơ tác dụng bất lợi, bao gồm cả khả năng lạm dụng chất kích thích.
-- Oxybutynin là thuốc kháng cholinergic được sử dụng để điều trị bàng quang hoạt động quá mức và hiệu quả các triệu chứng vận mạch (liều trong các nghiên cứu bao gồm 2.5 mg hoặc 5 mg x 2 lần/ngày; hoặc lên đến 15 mg dạng phóng thích kéo dài mỗi ngày).
-- Fezolinetant (đối kháng NK3R). Tác dụng phụ gồm đau bụng, tiêu chảy, khó ngủ, đau lưng, bốc hỏa và hiếm gặp về tổn thương gan. Kiểm tra chức năng gan trước khi bắt đầu dùng fezolinetant và 3 tháng/lần trong 9 tháng đầu điều trị. Fezolinetant chống chỉ định ở những bệnh nhân sử dụng thuốc ức chế CYP1A2 (ví dụ ciprofloxacin, cimetidine và các loại thuốc khác).
+- **Các chất ức chế tái hấp thu serotonin có chọn lọc SSRI**/**Chất ức chế tái hấp thu serotonin-norepinephrine SNRI** (paroxetine 7.5 mg/ngày, venlafaxine).
+- **Gabapentin 300 mg** tối đa 3 lần/ngày. Sử dụng còn hạn chế và nguy cơ tác dụng bất lợi, bao gồm cả khả năng lạm dụng chất kích thích.
+- **Oxybutynin** là thuốc kháng cholinergic được sử dụng để điều trị bàng quang hoạt động quá mức và hiệu quả các triệu chứng vận mạch (liều trong các nghiên cứu bao gồm 2.5 mg hoặc 5 mg x 2 lần/ngày; hoặc lên đến 15 mg dạng phóng thích kéo dài mỗi ngày).
+- **Fezolinetan**t (đối kháng NK3R), tác dụng phụ gồm đau bụng, tiêu chảy, khó ngủ, đau lưng, bốc hỏa và hiếm gặp về tổn thương gan. Kiểm tra chức năng gan trước khi bắt đầu dùng fezolinetant và 3 tháng/lần trong 9 tháng đầu điều trị. Fezolinetant chống chỉ định ở những bệnh nhân sử dụng thuốc ức chế CYP1A2 (ví dụ ciprofloxacin, cimetidine và các loại thuốc khác).
 
 :::caution
 Các thuốc này **kém hiệu quả hơn HRT** nhưng hữu ích khi HRT chống chỉ định.
