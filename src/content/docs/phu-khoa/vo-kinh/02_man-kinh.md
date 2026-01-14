@@ -11,12 +11,12 @@ Mãn kinh là hậu quả của sự suy giảm nang noãn buồng trứng, làm
 
 _Bảng "Giai đoạn của thời kỳ mãn kinh"._
 
-|Đặc điểm|Chuyển mãn kinh sớm|Chuyển mãn kinh muộn|Sau mãn kinh sớm|Sau mãn kinh muộn|
-|---|---|---|---|---|
-|Thời lượng|Thay đổi|1–3 tuổi|2 năm|3-6 tuổi|Tuổi thọ còn lại|
-|Chu kỳ kinh nguyệt|Chiều dài thay đổi (sự khác biệt kéo dài ≥ 7 ngày trong các chu kỳ liên tiếp)|Khoảng thời gian ngừng kinh nguyệt kéo dài ≥ 60 ngày|-|Thời kỳ mãn kinh bắt đầu sau kỳ kinh nguyệt cuối cùng|-|-|
-|Nồng độ FSH vào ngày thứ 2-5 chu kỳ|Cao nhưng thay đổi|Cao (≥ 30 IU/L)|Cao nhưng thay đổi|Ổn định ở mức cao*|-|
-|Triệu chứng|-|Các triệu chứng vận mạch có thể xảy ra|Các triệu chứng vận mạch có nhiều khả năng xảy ra|-|Gia tăng các triệu chứng của hội chứng sinh dục-tiết niệu của thời kỳ mãn kinh|
+| Đặc điểm                            | Chuyển mãn kinh sớm                                                           | Chuyển mãn kinh muộn                                 | Sau mãn kinh sớm                                  | Sau mãn kinh muộn                                     |
+| ----------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------ | --- |
+| Thời lượng                          | Thay đổi                                                                      | 1–3 tuổi                                             | 2 năm                                             | 3-6 tuổi                                              | Tuổi thọ còn lại                                                               |
+| Chu kỳ kinh nguyệt                  | Chiều dài thay đổi (sự khác biệt kéo dài ≥ 7 ngày trong các chu kỳ liên tiếp) | Khoảng thời gian ngừng kinh nguyệt kéo dài ≥ 60 ngày | -                                                 | Thời kỳ mãn kinh bắt đầu sau kỳ kinh nguyệt cuối cùng | -                                                                              | -   |
+| Nồng độ FSH vào ngày thứ 2-5 chu kỳ | Cao nhưng thay đổi                                                            | Cao (≥ 30 IU/L)                                      | Cao nhưng thay đổi                                | Ổn định ở mức cao\*                                   | -                                                                              |
+| Triệu chứng                         | -                                                                             | Các triệu chứng vận mạch có thể xảy ra               | Các triệu chứng vận mạch có nhiều khả năng xảy ra | -                                                     | Gia tăng các triệu chứng của hội chứng sinh dục-tiết niệu của thời kỳ mãn kinh |
 
 Khi các buồng trứng già đi, đáp ứng của chúng đối với hormone tuyến yên gonadotropins kích thích noãn (FSH) và hormone luteinizing (LH) giảm, bước đầu gây ra những biểu hiện sau đây:
 
