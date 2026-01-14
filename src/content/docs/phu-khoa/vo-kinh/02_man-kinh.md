@@ -24,37 +24,37 @@ _Bảng "Giai đoạn của thời kỳ mãn kinh"._
 
 Khi buồng trứng lão hóa, khả năng đáp ứng với **FSH và LH** giảm dần, dẫn đến:
 
-* Giai đoạn nang noãn rút ngắn → chu kỳ kinh ngắn và không đều.
-* Giảm hoặc mất phóng noãn.
-* Giảm sản xuất progesterone.
+- Giai đoạn nang noãn rút ngắn → chu kỳ kinh ngắn và không đều.
+- Giảm hoặc mất phóng noãn.
+- Giảm sản xuất progesterone.
 
 Trong giai đoạn chuyển mãn kinh, **estradiol có thể tăng thoáng qua** do hiện tượng **rụng trứng kép và lệch pha hoàng thể (LOOP)**. Tuy nhiên, về lâu dài:
 
-* Số lượng nang noãn giảm nghiêm trọng.
-* Buồng trứng sản xuất rất ít estradiol.
-* Estrogen ngoại vi (chủ yếu là **estrone**) được tạo ra từ chuyển hóa androgen tại mô mỡ và da.
+- Số lượng nang noãn giảm nghiêm trọng.
+- Buồng trứng sản xuất rất ít estradiol.
+- Estrogen ngoại vi (chủ yếu là **estrone**) được tạo ra từ chuyển hóa androgen tại mô mỡ và da.
 
 Sự giảm estrogen và inhibin làm **mất feedback âm**, dẫn đến **tăng rõ rệt LH và FSH** trong tuần hoàn.
 
 ### Thay đổi androgen
 
-* Androstenedione giảm khoảng 50%.
-* Testosterone giảm dần theo tuổi, **không giảm đột ngột trong mãn kinh** do vẫn được tiết từ tuyến thượng thận và mô đệm buồng trứng sau mãn kinh.
+- Androstenedione giảm khoảng 50%.
+- Testosterone giảm dần theo tuổi, **không giảm đột ngột trong mãn kinh** do vẫn được tiết từ tuyến thượng thận và mô đệm buồng trứng sau mãn kinh.
 
 ### Thay đổi tại đường sinh dục dưới
 
-* Teo biểu mô âm đạo.
-* pH âm đạo tăng (kiềm hơn).
-* Giảm lactobacilli → tăng vi khuẩn gây bệnh → Tăng nguy cơ **viêm âm đạo, nhiễm trùng tiểu, giao hợp đau**.
+- Teo biểu mô âm đạo.
+- pH âm đạo tăng (kiềm hơn).
+- Giảm lactobacilli → tăng vi khuẩn gây bệnh → Tăng nguy cơ **viêm âm đạo, nhiễm trùng tiểu, giao hợp đau**.
 
 ## Chẩn đoán
 
 Mãn kinh được chẩn đoán khi có đủ các yếu tố:
 
-* **Vô kinh ≥ 12 tháng liên tiếp**.
-* Không do mang thai, cho con bú, bệnh lý nội tiết hoặc thuốc.
-* Thường gặp ở phụ nữ **45-55 tuổi**.
-* Xét nghiệm hormone **không bắt buộc** trong trường hợp điển hình.
+- **Vô kinh ≥ 12 tháng liên tiếp**.
+- Không do mang thai, cho con bú, bệnh lý nội tiết hoặc thuốc.
+- Thường gặp ở phụ nữ **45-55 tuổi**.
+- Xét nghiệm hormone **không bắt buộc** trong trường hợp điển hình.
 
 ### Lâm sàng
 
@@ -62,86 +62,86 @@ Triệu chứng có thể kéo dài từ vài tháng đến > 10 năm, mức đ�
 
 #### Triệu chứng vận mạch
 
-* Bốc hỏa.
-* Đổ mồ hôi ban đêm.
-* Hồi hộp, đánh trống ngực.
+- Bốc hỏa.
+- Đổ mồ hôi ban đêm.
+- Hồi hộp, đánh trống ngực.
 
 #### Triệu chứng tâm thần - thần kinh
 
-* Mất ngủ.
-* Dễ cáu gắt, lo âu.
-* Giảm trí nhớ, giảm tập trung.
+- Mất ngủ.
+- Dễ cáu gắt, lo âu.
+- Giảm trí nhớ, giảm tập trung.
 
 #### Triệu chứng sinh dục - tiết niệu
 
-* Khô âm đạo.
-* Giao hợp đau.
-* Tiểu gấp, tiểu không kiểm soát.
+- Khô âm đạo.
+- Giao hợp đau.
+- Tiểu gấp, tiểu không kiểm soát.
 
 #### Triệu chứng toàn thân
 
-* Đau khớp.
-* Da khô, rụng tóc.
-* Tăng cân, thay đổi phân bố mỡ.
+- Đau khớp.
+- Da khô, rụng tóc.
+- Tăng cân, thay đổi phân bố mỡ.
 
 ### Cận lâm sàng
 
 **Chỉ định khi**:
 
-* Phụ nữ < 40-45 tuổi.
-* Triệu chứng không điển hình.
-* Đã cắt tử cung (không đánh giá được vô kinh).
+- Phụ nữ < 40-45 tuổi.
+- Triệu chứng không điển hình.
+- Đã cắt tử cung (không đánh giá được vô kinh).
 
 **Xét nghiệm**:
 
-* FSH tăng (≥ 30-40 IU/L).
-* Estradiol giảm.
-* TSH, prolactin nếu nghi ngờ nguyên nhân khác.
+- FSH tăng (≥ 30-40 IU/L).
+- Estradiol giảm.
+- TSH, prolactin nếu nghi ngờ nguyên nhân khác.
 
 ### Chẩn đoán phân biệt
 
-* Mang thai.
-* Suy buồng trứng sớm.
-* Rối loạn tuyến giáp.
-* Tăng prolactin máu.
-* Stress, giảm cân, luyện tập quá mức.
-* Vô kinh do thuốc.
+- Mang thai.
+- Suy buồng trứng sớm.
+- Rối loạn tuyến giáp.
+- Tăng prolactin máu.
+- Stress, giảm cân, luyện tập quá mức.
+- Vô kinh do thuốc.
 
 ## Điều trị
 
 ### Nguyên tắc chung
 
-* **Cá thể hóa điều trị**.
-* Chỉ điều trị khi **triệu chứng ảnh hưởng chất lượng cuộc sống**.
-* Luôn cân nhắc **lợi ích - nguy cơ**.
+- **Cá thể hóa điều trị**.
+- Chỉ điều trị khi **triệu chứng ảnh hưởng chất lượng cuộc sống**.
+- Luôn cân nhắc **lợi ích - nguy cơ**.
 
 ### Không dùng thuốc
 
-* Tư vấn, giáo dục sức khỏe.
-* Chế độ ăn giàu canxi, vitamin D.
-* Tập thể dục đều đặn.
-* Ngủ đủ, giảm stress.
-* Tránh rượu bia, cà phê, thuốc lá.
+- Tư vấn, giáo dục sức khỏe.
+- Chế độ ăn giàu canxi, vitamin D.
+- Tập thể dục đều đặn.
+- Ngủ đủ, giảm stress.
+- Tránh rượu bia, cà phê, thuốc lá.
 
 ### Liệu pháp hormone thay thế
 
 **Chỉ định**:
 
-* Triệu chứng vận mạch trung bình - nặng.
-* Không có chống chỉ định.
+- Triệu chứng vận mạch trung bình - nặng.
+- Không có chống chỉ định.
 
 **Chống chỉ định**:
 
-* Ung thư vú, ung thư nội mạc tử cung.
-* Huyết khối tĩnh mạch, đột quỵ, bệnh mạch vành.
-* Bệnh gan nặng.
-* Xuất huyết âm đạo chưa rõ nguyên nhân.
+- Ung thư vú, ung thư nội mạc tử cung.
+- Huyết khối tĩnh mạch, đột quỵ, bệnh mạch vành.
+- Bệnh gan nặng.
+- Xuất huyết âm đạo chưa rõ nguyên nhân.
 
 **Phác đồ**:
 
-* **Estrogen đơn thuần** ở BN đã cắt tử cung.
-* **Estrogen + progestogen** ở BN còn tử cung.
-* Dùng **liều thấp nhất có hiệu quả**, tăng liều từ từ mỗi 2-4 tuần nếu cần.
+- **Estrogen đơn thuần** ở BN đã cắt tử cung.
+- **Estrogen + progestogen** ở BN còn tử cung.
+- Dùng **liều thấp nhất có hiệu quả**, tăng liều từ từ mỗi 2-4 tuần nếu cần.
 
 _Bảng "Chế phẩm estrogen"._
 
@@ -153,15 +153,14 @@ _Bảng "Chế phẩm estrogen"._
 | Đặt âm đạo (vòng)  | Estradiol         | 0.05 mg/ngày           | Đặt vòng, thay mỗi 3 tháng |
 | Qua da (gel/xịt)   | Estradiol         | Nhiều liều khác nhau   | Bôi/xịt lên da mỗi ngày    |
 
-
 _Bảng "Chế phẩm progestogen"._
 
-| **Chế phẩm**                             | **Liều liên tục** | **Liều tuần tự**                | **Ghi chú**                                               |
-| ---------------------------------------- | ----------------- | ------------------------------- | --------------------------------------------------------- |
-| Medroxyprogesterone acetate              | 2.5 mg/ngày       | 5 mg/ngày × 12-14 ngày/4 tuần   | Dạng tổng hợp                                             |
-| Progesterone tự nhiên (vi hạt)           | 100 mg/ngày       | 200 mg/ngày × 12-14 ngày/4 tuần | Ít ảnh hưởng chuyển hóa                                   |
-| Levonorgestrel (vòng tránh thai tử cung) | 52 mg             | —                               | Giải phóng 20 mcg/ngày (5 năm đầu), 10 mcg/ngày (5-8 năm) |
-|Chảy máu do ngừng sử dụng progestogen ít xảy ra hơn khi điều trị liên tục, mặc dù chảy máu bất thường có thể xảy ra trong 6 tháng đến 9 tháng đầu điều trị.||
+| **Chế phẩm**                                                                                                                                                | **Liều liên tục** | **Liều tuần tự**                | **Ghi chú**                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------- | --------------------------------------------------------- |
+| Medroxyprogesterone acetate                                                                                                                                 | 2.5 mg/ngày       | 5 mg/ngày × 12-14 ngày/4 tuần   | Dạng tổng hợp                                             |
+| Progesterone tự nhiên (vi hạt)                                                                                                                              | 100 mg/ngày       | 200 mg/ngày × 12-14 ngày/4 tuần | Ít ảnh hưởng chuyển hóa                                   |
+| Levonorgestrel (vòng tránh thai tử cung)                                                                                                                    | 52 mg             | —                               | Giải phóng 20 mcg/ngày (5 năm đầu), 10 mcg/ngày (5-8 năm) |
+| Chảy máu do ngừng sử dụng progestogen ít xảy ra hơn khi điều trị liên tục, mặc dù chảy máu bất thường có thể xảy ra trong 6 tháng đến 9 tháng đầu điều trị. |                   |
 
 _Bảng "Chế phẩm kết hợp estrogen + progestogen"._
 
@@ -172,16 +171,16 @@ _Bảng "Chế phẩm kết hợp estrogen + progestogen"._
 
 ### SERM và liệu pháp thay thế
 
-* **Ospemifene** giao hợp đau do teo âm đạo.
-* **Bazedoxifene + estrogen liên hợp** thay thế estrogen + progestogen.
-* **Raloxifene** phòng ngừa loãng xương (không điều trị bốc hỏa).
+- **Ospemifene** giao hợp đau do teo âm đạo.
+- **Bazedoxifene + estrogen liên hợp** thay thế estrogen + progestogen.
+- **Raloxifene** phòng ngừa loãng xương (không điều trị bốc hỏa).
 
 ### Thuốc không nội tiết
 
-* Các chất ức chế tái hấp thu serotonin có chọn lọc SSRI/ Chất ức chế tái hấp thu serotonin-norepinephrine SNRI (paroxetine 7.5 mg/ngày, venlafaxine).
-* Gabapentin 300 mg tối đa 3 lần/ngày. Sử dụng còn hạn chế và nguy cơ tác dụng bất lợi, bao gồm cả khả năng lạm dụng chất kích thích.
-* Oxybutynin là thuốc kháng cholinergic được sử dụng để điều trị bàng quang hoạt động quá mức và hiệu quả các triệu chứng vận mạch (liều trong các nghiên cứu bao gồm 2.5 mg hoặc 5 mg x 2 lần/ngày; hoặc lên đến 15 mg dạng phóng thích kéo dài mỗi ngày).
-* Fezolinetant (đối kháng NK3R). Tác dụng phụ gồm đau bụng, tiêu chảy, khó ngủ, đau lưng, bốc hỏa và hiếm gặp về tổn thương gan. Kiểm tra chức năng gan trước khi bắt đầu dùng fezolinetant và 3 tháng/lần trong 9 tháng đầu điều trị. Fezolinetant chống chỉ định ở những bệnh nhân sử dụng thuốc ức chế CYP1A2 (ví dụ ciprofloxacin, cimetidine và các loại thuốc khác).
+- Các chất ức chế tái hấp thu serotonin có chọn lọc SSRI/ Chất ức chế tái hấp thu serotonin-norepinephrine SNRI (paroxetine 7.5 mg/ngày, venlafaxine).
+- Gabapentin 300 mg tối đa 3 lần/ngày. Sử dụng còn hạn chế và nguy cơ tác dụng bất lợi, bao gồm cả khả năng lạm dụng chất kích thích.
+- Oxybutynin là thuốc kháng cholinergic được sử dụng để điều trị bàng quang hoạt động quá mức và hiệu quả các triệu chứng vận mạch (liều trong các nghiên cứu bao gồm 2.5 mg hoặc 5 mg x 2 lần/ngày; hoặc lên đến 15 mg dạng phóng thích kéo dài mỗi ngày).
+- Fezolinetant (đối kháng NK3R). Tác dụng phụ gồm đau bụng, tiêu chảy, khó ngủ, đau lưng, bốc hỏa và hiếm gặp về tổn thương gan. Kiểm tra chức năng gan trước khi bắt đầu dùng fezolinetant và 3 tháng/lần trong 9 tháng đầu điều trị. Fezolinetant chống chỉ định ở những bệnh nhân sử dụng thuốc ức chế CYP1A2 (ví dụ ciprofloxacin, cimetidine và các loại thuốc khác).
 
 :::caution
 Các thuốc này **kém hiệu quả hơn HRT** nhưng hữu ích khi HRT chống chỉ định.
@@ -189,10 +188,10 @@ Các thuốc này **kém hiệu quả hơn HRT** nhưng hữu ích khi HRT chố
 
 ## Theo dõi và dự phòng biến chứng lâu dài
 
-* Loãng xương.
-* Bệnh tim mạch.
-* Sa sút trí tuệ.
-* Rối loạn chuyển hóa.
+- Loãng xương.
+- Bệnh tim mạch.
+- Sa sút trí tuệ.
+- Rối loạn chuyển hóa.
 
 ## Tài liệu tham khảo
 
