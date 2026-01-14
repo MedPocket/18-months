@@ -15,12 +15,12 @@ _Bảng "Giai đoạn của thời kỳ mãn kinh"._
 
 | Đặc điểm       | Chuyển mãn kinh sớm                      | Chuyển mãn kinh muộn         | Sau mãn kinh sớm    | Sau mãn kinh muộn                       |
 | -------------- | ---------------------------------------- | ---------------------------- | ------------------- | --------------------------------------- |
-| Thời lượng     | Thay đổi                                 | 1-3 năm                      | 2 năm               | 3-6 năm đến hết đời                     |
-| Chu kỳ kinh    | Chu kỳ thay đổi ≥ 7 ngày giữa các chu kỳ | Vô kinh ≥ 60 ngày            | Đã mãn kinh         | Ổn định                                 |
-| FSH (ngày 2-5) | Tăng nhưng dao động                      | ≥ 30 IU/L                    | Tăng nhưng dao động | Cao ổn định                             |
-| Triệu chứng    | Ít hoặc không                            | Bắt đầu triệu chứng vận mạch | Rõ rệt nhất         | Hội chứng sinh dục - tiết niệu tăng dần |
+| **Thời lượng**     | Thay đổi                                 | 1-3 năm                      | 2 năm               | 3-6 năm đến hết đời                     |
+| **Chu kỳ kinh**    | Chu kỳ thay đổi ≥ 7 ngày giữa các chu kỳ | Vô kinh ≥ 60 ngày            | Đã mãn kinh         | Ổn định                                 |
+| **FSH (ngày 2-5)** | Tăng nhưng dao động                      | ≥ 30 IU/L                    | Tăng nhưng dao động | Cao ổn định                             |
+| **Triệu chứng**    | Ít hoặc không                            | Bắt đầu triệu chứng vận mạch | Rõ rệt nhất         | Hội chứng sinh dục - tiết niệu tăng dần |
 
-###Cơ chế nội tiết
+### Cơ chế
 
 Khi buồng trứng lão hóa, khả năng đáp ứng với **FSH và LH** giảm dần, dẫn đến:
 
@@ -145,7 +145,7 @@ Triệu chứng có thể kéo dài từ vài tháng đến > 10 năm, mức đ�
 
 _Bảng "Chế phẩm estrogen"._
 
-| **Dạng dùng**      | **Chế phẩm**      | **Liều thấp**          | **Cách dùng / Tần suất**   |
+| Dạng dùng      | Chế phẩm      | Liều thấp          | Cách dùng / Tần suất   |
 | ------------------ | ----------------- | ---------------------- | -------------------------- |
 | Uống               | Estrogen liên hợp | 0.3 mg                 | Uống 1 lần/ngày            |
 | Uống               | Estradiol         | 0.5 mg                 | Uống 1 lần/ngày            |
@@ -155,19 +155,19 @@ _Bảng "Chế phẩm estrogen"._
 
 _Bảng "Chế phẩm progestogen"._
 
-| **Chế phẩm**                                                                                                                                                | **Liều liên tục** | **Liều tuần tự**                | **Ghi chú**                                               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------------------------- | --------------------------------------------------------- |
-| Medroxyprogesterone acetate                                                                                                                                 | 2.5 mg/ngày       | 5 mg/ngày × 12-14 ngày/4 tuần   | Dạng tổng hợp                                             |
-| Progesterone tự nhiên (vi hạt)                                                                                                                              | 100 mg/ngày       | 200 mg/ngày × 12-14 ngày/4 tuần | Ít ảnh hưởng chuyển hóa                                   |
-| Levonorgestrel (vòng tránh thai tử cung)                                                                                                                    | 52 mg             | —                               | Giải phóng 20 mcg/ngày (5 năm đầu), 10 mcg/ngày (5-8 năm) |
-| Chảy máu do ngừng sử dụng progestogen ít xảy ra hơn khi điều trị liên tục, mặc dù chảy máu bất thường có thể xảy ra trong 6 tháng đến 9 tháng đầu điều trị. |                   |
+| Chế phẩm                             | Liều liên tục | Liều tuần tự                | Ghi chú                                               |
+| ---------------------------------------- | ----------------- | ------------------------------- | --------------------------------------------------------- |
+| Medroxyprogesterone acetate              | 2.5 mg/ngày       | 5 mg/ngày × 12-14 ngày/4 tuần   | Dạng tổng hợp                                             |
+| Progesterone tự nhiên (vi hạt)           | 100 mg/ngày       | 200 mg/ngày × 12-14 ngày/4 tuần | Ít ảnh hưởng chuyển hóa                                   |
+| Levonorgestrel (vòng tránh thai tử cung) | 52 mg             | —                               | Giải phóng 20 mcg/ngày (5 năm đầu), 10 mcg/ngày (5-8 năm) |
+|Chảy máu do ngừng sử dụng progestogen ít xảy ra hơn khi điều trị liên tục, mặc dù chảy máu bất thường có thể xảy ra trong 6 tháng đến 9 tháng đầu điều trị.||
 
 _Bảng "Chế phẩm kết hợp estrogen + progestogen"._
 
-| **Thành phần**                                                | **Liều dùng** | **Cách dùng**   |
+| Thành phần                                                | Liều dùng | Cách dùng   |
 | ------------------------------------------------------------- | ------------- | --------------- |
-| Estrogen liên hợp 0.3 mg + Medroxyprogesterone acetate 1.5 mg | 1 viên/ngày   | Uống 1 lần/ngày |
-| Estradiol 0.5 mg + Norethindrone acetate 0.1 mg               | 1 viên/ngày   | Uống 1 lần/ngày |
+| **Estrogen liên hợp 0.3 mg + Medroxyprogesterone acetate 1.5 mg** | 1 viên/ngày   | Uống 1 lần/ngày |
+| **Estradiol 0.5 mg + Norethindrone acetate 0.1 mg**               | 1 viên/ngày   | Uống 1 lần/ngày |
 
 ### SERM và liệu pháp thay thế
 
