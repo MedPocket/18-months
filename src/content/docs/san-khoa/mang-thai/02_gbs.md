@@ -73,7 +73,7 @@ GBS tiết enzyme phospholipase A₂, kích thích tổng hợp prostaglandin c�
 - Đã có chỉ định dùng kháng sinh dự phòng (ví dụ nhiễm trùng tiểu do GBS trong thai kỳ).
 - Tiền căn sinh con bị bệnh lý GBS giai đoạn sơ sinh.
 
-### Chỉ định kháng sinh dự phòng
+### Kháng sinh dự phòng
 
 **Chỉ định:**
 
