@@ -9,8 +9,8 @@ description: Xu thế và ứng dụng chẩn đoán trước sinh.
 
 ## Mục đích
 
-- **Phát hiện sớm các bất thường nhiễm sắc thể** (Down, Edwards, Patau…).
-- **Xác định các dị tật bẩm sinh** (dị tật ống thần kinh, tim bẩm sinh…).
+- **Phát hiện sớm các bất thường nhiễm sắc thể** (Down, Edwards, Patau...).
+- **Xác định các dị tật bẩm sinh** (dị tật ống thần kinh, tim bẩm sinh...).
 - **Hỗ trợ tư vấn di truyền**, giúp đưa ra quyết định quản lý thai kỳ phù hợp.
 
 ## Các phương pháp sàng lọc trước sinh
@@ -80,7 +80,7 @@ Có thể thực hiện cho tất cả phụ nữ mang thai, **đặc biệt đ�
 ### Chọc ối
 
 - Thực hiện: ≥ 16 tuần.
-- Ứng dụng: Phân tích karyotype, xét nghiệm gen (FISH, QF-PCR) để phát hiện bất thường NST và bệnh di truyền đơn gen (Thalassemia, SMA…).
+- Ứng dụng: Phân tích karyotype, xét nghiệm gen (FISH, QF-PCR) để phát hiện bất thường NST và bệnh di truyền đơn gen (Thalassemia, SMA...).
 - Rủi ro: < 1%.
 
 ### Sinh thiết gai rau
