@@ -7,13 +7,6 @@ export const sidebar = starlightSidebarTopics([
     icon: "external",
     items: [
       {
-        label: "Giải phẫu và thai kỳ",
-        autogenerate: {
-          directory: "san-khoa/giai-phau",
-        },
-        collapsed: true,
-      },
-      {
         label: "Sàng lọc và chẩn đoán trước sinh",
         autogenerate: {
           directory: "san-khoa/sang-loc-chan-doan",
@@ -98,9 +91,9 @@ export const sidebar = starlightSidebarTopics([
         collapsed: true,
       },
       {
-        label: "Rau tiền đạo",
+        label: "Phần phụ của thai",
         autogenerate: {
-          directory: "san-khoa/rau-tien-dao",
+          directory: "san-khoa/phan-phu-thai",
         },
         collapsed: true,
       },

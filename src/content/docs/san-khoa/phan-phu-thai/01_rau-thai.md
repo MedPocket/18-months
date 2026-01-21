@@ -3,7 +3,7 @@ title: Rau thai
 description: Nguồn gốc và sự hình thành rau thai.
 ---
 
-Nhau thai là một cơ quan tạm thời hình thành trong tử cung trong thời kỳ mang thai, có chức năng chính là đảm bảo sự trao đổi khí, chất dinh dưỡng và chất thải giữa mẹ và thai nhi thông qua hệ thống tuần hoàn máu của nhau thai. Đồng thời, nhau thai còn tiết ra các hormone cần thiết để duy trì và điều hòa thai kỳ, như hCG (human chorionic gonadotropin), progesterone và estrogen.
+Nhau thai là cơ quan tạm thời hình thành trong tử cung trong thời kỳ mang thai, có chức năng chính là đảm bảo sự trao đổi khí, chất dinh dưỡng và chất thải giữa mẹ và thai nhi thông qua hệ thống tuần hoàn máu của nhau thai. Đồng thời, nhau thai còn tiết ra các hormone cần thiết để duy trì và điều hòa thai kỳ, như hCG (human chorionic gonadotropin), progesterone và estrogen.
 
 ## Nguồn gốc
 
@@ -32,7 +32,7 @@ Nội mạc tử cung của mẹ, còn gọi là màng rụng, chia thành 3 ph�
 **Biến đổi của màng rụng rau:**
 
 - Lá nuôi hợp bào làm xói mòn mô màng rụng rau → tạo khoảng gian gai rau kích thước không đều.
-- Các vách rau còn lại nhô vào khoang gai rau → chia thành nhiều khoang, mỗi khoang chứa một múi rau gồm vài gai rau gốc. Một bánh rau có khoảng 10-38 múi.
+- Các vách rau còn lại nhô vào khoang gai rau → chia thành nhiều khoang, mỗi khoang chứa 1 múi rau gồm vài gai rau gốc. Bánh rau có khoảng 10-38 múi.
 - Nhung mao bám vào đĩa đáy hoặc vách rau giúp neo giữ phần rau của mẹ và con.
 
 **Biến đổi của màng rụng tử cung:**
@@ -72,7 +72,7 @@ Rau thai là phần phụ của thai, giữ vai trò sống còn trong thai kỳ
 
 ## Bất thường liên quan
 
-Một số rối loạn thường gặp trong lâm sàng:
+Các rối loạn thường gặp trong lâm sàng:
 
 - **Rau tiền đạo:** Rau bám gần hoặc che lỗ trong cổ tử cung.
 - **Rau bong non:** Rau bong ra sớm trước khi thai ra đời → gây chảy máu và suy thai.
