@@ -139,13 +139,6 @@ export const sidebar = starlightSidebarTopics([
         },
         collapsed: true,
       },
-      {
-        label: "Thuốc",
-        autogenerate: {
-          directory: "san-khoa/thuoc",
-        },
-        collapsed: true,
-      },
     ],
   },
   {

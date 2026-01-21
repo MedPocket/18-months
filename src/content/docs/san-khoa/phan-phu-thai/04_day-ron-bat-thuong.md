@@ -15,8 +15,8 @@ Dây rốn có thể bám ở các vị trí bất thường trên bánh rau ho�
 
 **Mạch máu tiền đạo** các mạch máu thai nhi không được bảo vệ bởi mô rau thai và thạch Wharton, đi qua màng ối và bắt chéo qua cổ tử cung. Tần suất chung khoảng 1/2500 thai kỳ, tăng lên đến 1/202 ở các thai kỳ có hỗ trợ sinh sản. Chia thành 2 type:
 
-- **Type I**: Dây rốn bám màng rau, mạch máu thai nhi chạy tự do trong màng ối phía trên cổ tử cung hoặc cách lỗ trong cổ tử cung ≤ 2 cm; thường gặp trong rau tiền đạo hoặc rau bám thấp.
-- **Type II**: Gặp trong bánh rau phụ hoặc bánh rau nhiều thùy, khi các mạch máu thai nhi nối giữa các thùy bánh rau đi qua hoặc gần cổ tử cung (≤ 2 cm).
+- **Type I:** Dây rốn bám màng rau, mạch máu thai nhi chạy tự do trong màng ối phía trên cổ tử cung hoặc cách lỗ trong cổ tử cung ≤ 2 cm; thường gặp trong rau tiền đạo hoặc rau bám thấp.
+- **Type II:** Gặp trong bánh rau phụ hoặc bánh rau nhiều thùy, khi các mạch máu thai nhi nối giữa các thùy bánh rau đi qua hoặc gần cổ tử cung (≤ 2 cm).
 
 ## Yếu tố nguy cơ
 
@@ -30,7 +30,7 @@ Các yếu tố nguy cơ thường gặp của mạch máu tiền đạo bao g�
 
 ## Chẩn đoán
 
-**Trước sinh**: Thường được chẩn đoán bằng siêu âm:
+**Trước sinh:** Thường được chẩn đoán bằng siêu âm:
 
 - Tầm soát mạch máu tiền đạo trong quá trình khám thai, đặc biệt ở những trường hợp có nguy cơ cao.
 - Nên kết hợp siêu âm màu qua đường bụng và đường âm đạo.
@@ -38,7 +38,7 @@ Các yếu tố nguy cơ thường gặp của mạch máu tiền đạo bao g�
 - Siêu âm có độ nhạy khoảng 67% và độ đặc hiệu 100% trong chẩn đoán bất thường dây rốn ở tam cá nguyệt thứ hai.
 - Thời điểm đánh giá mạch máu tiền đạo từ 18–26 tuần và đánh giá lại ở 32 tuần.
 
-**Sau sinh**: Chẩn đoán xác định dựa vào kiểm tra toàn diện bánh rau, màng rau và dây rốn sau sinh.
+**Sau sinh:** Chẩn đoán xác định dựa vào kiểm tra toàn diện bánh rau, màng rau và dây rốn sau sinh.
 
 ## Biến chứng
 
