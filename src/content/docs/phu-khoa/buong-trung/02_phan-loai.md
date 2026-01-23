@@ -162,7 +162,7 @@ U mô đệm hoặc từ dây giới bào, đơn thuần hoặc hỗn hợp, chi
 - U sợi buồng trứng trong hội chứng Meigs lành tính một bên, bệnh nhân thường khám do báng bụng/tràn dịch, không do u.
 - Cơ chế: VEGF tăng tính thấm mạch máu → báng bụng, tràn dịch. Bệnh thoái lui sau cắt u.
 
-**U mô đệm đơn thuần: Thecoma (u tế bào vỏ):**
+**U mô đệm đơn thuần Thecoma (u tế bào vỏ):**
 
 - Hầu hết lành tính, thường ở tuổi mãn kinh.
 - Chế tiết estrogen, hiếm khi tiết androgen.
