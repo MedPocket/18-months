@@ -51,7 +51,7 @@ Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 - **O-RADS 3** (1-< 10% ác): Nang đơn giản/đơn thùy trơn láng ≥ 10 cm. Nang đơn thùy với thành không đều. Nang đa thùy < 10 cm không thành phần đặc, điểm < 4. Sang thương đặc không tăng sinh mạch, bờ trơn láng. Có thể cần Doppler để xác định thành phần đặc.<br>
   _Hình ảnh "O-RADS 3"_.
   ![O-RADS 3](./_images/phuong-tien-tiep-can-u-buong-trung/orads-3.png)
-- **O-RADS 4** (10-< 50% ác): Nang đa thùy ≥ 10 cm hoặc có vách/ thành không đều (< 3 mm). Nang đơn/đa thùy có thành phần đặc hoặc CS 4. Sang thương đặc bờ trơn láng (> 80% đặc) với CS 2-3. "Nhú" là thành phần đặc ≥ 3 mm.<br>
+- **O-RADS 4** (10-< 50% ác): Nang đa thùy ≥ 10 cm hoặc có vách/thành không đều (< 3 mm). Nang đơn/đa thùy có thành phần đặc hoặc CS 4. Sang thương đặc bờ trơn láng (> 80% đặc) với CS 2-3. "Nhú" là thành phần đặc ≥ 3 mm.<br>
   _Hình ảnh "O-RADS 4A"_.
   ![O-RADS 4A](./_images/phuong-tien-tiep-can-u-buong-trung/orads-4a.png)
   _Hình ảnh "O-RADS 4B"_.
