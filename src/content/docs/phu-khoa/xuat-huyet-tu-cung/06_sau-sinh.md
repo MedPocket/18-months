@@ -32,15 +32,15 @@ Xuất huyết sau sinh (Postpartum Hemorrhage-PPH) được định nghĩa là:
 
 _Bảng "Các biến chứng và triệu chứng thường gặp sau sinh"_.
 
-| PPH sớm |PPH muộn                                                                          | Đau vùng chậu                          |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------- |
-| Đờ tử cung  | Sót rau                                                                   | Viêm nội mạc tử cung                   |
-| Sót rau                                                         | Viêm nội mạc tử cung                                                                               | Chấn thương vùng chậu                  |
-| Chấn thương vùng chậu                                                                | Rối loạn đông máu                                                                                  | Vỡ tử cung                             |
-| Rối loạn đông máu                                                                        | Rau thai bám chặt             | Tách thành tử cung                     |
-| Lộn tử cung                                                                       | Sự thoái hóa của rau thai                                                                | Xoắn buồng trứng                       |
-| Vỡ tử cung                                                                           | Chấn thương vùng chậu                                                                              | Viêm tắc tĩnh mạch buồng trứng         |
-| Rau cài răng | Các bệnh lý mạch máu tử cung (dị dạng động tĩnh mạch tử cung, phình mạch giả động mạch tử cung) | Màng bàng quang và lớp dưới cân tụ máu |
+| PPH sớm               | PPH muộn                                                                                        | Đau vùng chậu                          |
+| --------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------- |
+| Đờ tử cung            | Sót rau                                                                                         | Viêm nội mạc tử cung                   |
+| Sót rau               | Viêm nội mạc tử cung                                                                            | Chấn thương vùng chậu                  |
+| Chấn thương vùng chậu | Rối loạn đông máu                                                                               | Vỡ tử cung                             |
+| Rối loạn đông máu     | Rau thai bám chặt                                                                               | Tách thành tử cung                     |
+| Lộn tử cung           | Sự thoái hóa của rau thai                                                                       | Xoắn buồng trứng                       |
+| Vỡ tử cung            | Chấn thương vùng chậu                                                                           | Viêm tắc tĩnh mạch buồng trứng         |
+| Rau cài răng          | Các bệnh lý mạch máu tử cung (dị dạng động tĩnh mạch tử cung, phình mạch giả động mạch tử cung) | Màng bàng quang và lớp dưới cân tụ máu |
 
 ## Tiếp cận
 
