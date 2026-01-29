@@ -7,7 +7,7 @@ description: Tiếp cận xuất huyết tử cung và đau bụng sau sinh.
 
 - Sót nhau thai (RPOC).
 - Viêm nội mạc tử cung.
-- Dị dạng động - tĩnh mạch tử cung (UAVM).
+- Dị dạng động-tĩnh mạch tử cung (UAVM).
 - Phình động mạch giả tử cung (UAP).
 - Huyết khối tĩnh mạch buồng trứng (OVT).
 - Tụ máu vạt bàng quang hoặc tụ máu dưới cân.
@@ -15,7 +15,7 @@ description: Tiếp cận xuất huyết tử cung và đau bụng sau sinh.
 
 Siêu âm, đặc biệt kết hợp Doppler màu, đóng vai trò then chốt trong tiếp cận chẩn đoán các tình trạng này.
 
-## Hậu sản
+## Định nghĩa
 
 Giai đoạn hậu sản bắt đầu ngay sau khi em bé và nhau thai được sinh ra và kéo dài khoảng **6-8 tuần**, trong đó hệ sinh sản dần trở về trạng thái không mang thai về mặt giải phẫu và sinh lý.
 
@@ -32,16 +32,15 @@ Xuất huyết sau sinh (Postpartum Hemorrhage-PPH) được định nghĩa là:
 
 _Bảng "Các biến chứng và triệu chứng thường gặp sau sinh"_.
 
-|                                                                                          | Xuất huyết sau sinh (PPH)                                                                          | Đau vùng chậu                          |
-| :--------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------- | :------------------------------------- |
-| **Xuất huyết sau sinh nguyên phát**<br>**(sớm) và chứng nhão tử cung**                   | PPH thứ phát (muộn)                                                                                |                                        |
-|                                                                                          | Sản phẩm còn sót lại của thai kỳ                                                                   | Viêm nội mạc tử cung                   |
-| Sản phẩm còn sót lại của thai kỳ                                                         | Viêm nội mạc tử cung                                                                               | Chấn thương vùng chậu                  |
-| **Chấn thương vùng chậu**                                                                | Rối loạn đông máu                                                                                  | Vỡ tử cung                             |
-| Rối loạn đông máu                                                                        | Phổ nhau thai bám chặt<br>Lưu ý: Dòng này nên nằm ở cột PPH, dưới "Rối loạn đông máu".             | Tách thành tử cung                     |
-| Lật ngược tử cung                                                                        | Sự thoái hóa một phần của nhau thai                                                                | Xoắn buồng trứng                       |
-| **Vỡ tử cung**                                                                           | Chấn thương vùng chậu                                                                              | Viêm tắc tĩnh mạch buồng trứng         |
-| Phổ nhau thai cài răng<br>(nhau thai cài răng, nhau thai increta, và nhau thai percreta) | Các bệnh lý mạch máu tử cung<br>(dị dạng động tĩnh mạch tử cung, phình mạch giả động mạch tử cung) | Màng bàng quang và lớp dưới cân tụ máu |
+| PPH sớm |PPH muộn                                                                          | Đau vùng chậu                          |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| Đờ tử cung  | Sót rau                                                                   | Viêm nội mạc tử cung                   |
+| Sót rau                                                         | Viêm nội mạc tử cung                                                                               | Chấn thương vùng chậu                  |
+| Chấn thương vùng chậu                                                                | Rối loạn đông máu                                                                                  | Vỡ tử cung                             |
+| Rối loạn đông máu                                                                        | Rau thai bám chặt             | Tách thành tử cung                     |
+| Lộn tử cung                                                                       | Sự thoái hóa của rau thai                                                                | Xoắn buồng trứng                       |
+| Vỡ tử cung                                                                           | Chấn thương vùng chậu                                                                              | Viêm tắc tĩnh mạch buồng trứng         |
+| Rau cài răng | Các bệnh lý mạch máu tử cung (dị dạng động tĩnh mạch tử cung, phình mạch giả động mạch tử cung) | Màng bàng quang và lớp dưới cân tụ máu |
 
 ## Tiếp cận
 
