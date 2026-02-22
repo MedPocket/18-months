@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@astrojs/starlight": "^0.37.6",
-    "astro": "^5.17.2",
+    "astro": "^5.17.3",
     "astro-og-canvas": "^0.10.1",
     "canvaskit-wasm": "^0.40.0",
     "mdast-util-to-string": "^4.0.0",
@@ -29,8 +29,8 @@
   "devDependencies": {
     "@types/hast": "^3.0.4",
     "@types/mdast": "^4.0.4",
-    "oxfmt": "^0.32.0",
-    "oxlint": "^1.47.0",
+    "oxfmt": "^0.34.0",
+    "oxlint": "^1.49.0",
     "typescript": "^5.9.3",
     "unified": "^11.0.5"
   }
