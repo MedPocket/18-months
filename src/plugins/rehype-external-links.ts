@@ -1,4 +1,5 @@
 import type { Element } from "hast";
+
 import rehypeExternalLinksPlugin from "rehype-external-links";
 
 interface ExternalLinksOptions {

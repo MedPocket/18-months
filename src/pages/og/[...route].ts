@@ -1,7 +1,7 @@
 // For details, see: Https://hideoo.dev/notes/starlight-og-images
 
-import { getCollection } from "astro:content";
 import { OGImageRoute } from "astro-og-canvas";
+import { getCollection } from "astro:content";
 
 const entries = await getCollection("docs");
 

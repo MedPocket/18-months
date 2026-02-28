@@ -1,7 +1,8 @@
 import type { Root } from "mdast";
+import type { Plugin } from "unified";
+
 import { toString as mdToString } from "mdast-util-to-string";
 import getReadingTime from "reading-time";
-import type { Plugin } from "unified";
 
 interface AstroRemarkData {
   astro: {

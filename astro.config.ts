@@ -3,6 +3,7 @@ import { defineConfig } from "astro/config";
 import starlightCoolerCredit from "starlight-cooler-credit";
 import starlightImageZoom from "starlight-image-zoom";
 import starlightLinksValidator from "starlight-links-validator";
+
 import { sidebar } from "./astro.sidebar";
 import { rehypeExternalLinks } from "./src/plugins/rehype-external-links";
 import { remarkReadingTime } from "./src/plugins/remark-reading-time";
