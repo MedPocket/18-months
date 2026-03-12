@@ -34,7 +34,7 @@ export const { getStaticPaths, GET } = await OGImageRoute({
           families: ["DejaVuSans"],
         },
       },
-      fonts: ["./src/assets/font/DejaVuSans.ttf"],
+      fonts: ["./src/assets/fonts/DejaVuSans.ttf"],
     };
   },
 });
