@@ -13,7 +13,7 @@
     "check": "oxlint && oxfmt"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.37.7",
+    "@astrojs/starlight": "^0.38.1",
     "astro": "^6.0.3",
     "astro-og-canvas": "^0.10.1",
     "canvaskit-wasm": "^0.40.0",
@@ -22,15 +22,15 @@
     "rehype-external-links": "^3.0.0",
     "sharp": "^0.34.5",
     "starlight-cooler-credit": "^0.5.0",
-    "starlight-image-zoom": "^0.13.2",
-    "starlight-links-validator": "^0.19.2",
+    "starlight-image-zoom": "^0.14.0",
+    "starlight-links-validator": "^0.20.0",
     "starlight-sidebar-topics": "^0.6.2"
   },
   "devDependencies": {
     "@types/hast": "^3.0.4",
     "@types/mdast": "^4.0.4",
-    "oxfmt": "^0.36.0",
-    "oxlint": "^1.51.0",
+    "oxfmt": "^0.38.0",
+    "oxlint": "^1.53.0",
     "typescript": "^5.9.3",
     "unified": "^11.0.5"
   }
