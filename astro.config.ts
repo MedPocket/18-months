@@ -1,6 +1,5 @@
 import starlight from "@astrojs/starlight";
 import { defineConfig } from "astro/config";
-import starlightCoolerCredit from "starlight-cooler-credit";
 import starlightImageZoom from "starlight-image-zoom";
 import starlightLinksValidator from "starlight-links-validator";
 
@@ -53,26 +52,8 @@ export default defineConfig({
       },
       pagination: true,
       lastUpdated: true,
-      plugins: [
-        sidebar,
-        starlightCoolerCredit({
-          credit: {
-            title: {
-              en: "Made by MedPocket",
-              vi: "Xây dựng bởi MedPocket",
-            },
-            href: "https://github.com/MedPocket/18-months",
-            description: {
-              en: "Knowledge of obstetrics and gynecology.",
-              vi: "Kiến thức sản phụ khoa.",
-            },
-          },
-          customImage: "./src/assets/medpocket-logo.svg",
-          customImageAlt: "MedPocket Logo",
-        }),
-        starlightImageZoom(),
-        starlightLinksValidator(),
-      ],
+      sidebar,
+      plugins: [starlightImageZoom(), starlightLinksValidator()],
     }),
   ],
 });
