@@ -1,10 +1,6 @@
-import starlightSidebarTopics from "starlight-sidebar-topics";
-
-export const sidebar = starlightSidebarTopics([
+export const sidebar = [
   {
     label: "Sản Khoa",
-    link: "/san-khoa/",
-    icon: "external",
     items: [
       {
         label: "Sàng lọc và chẩn đoán trước sinh",
@@ -143,8 +139,6 @@ export const sidebar = starlightSidebarTopics([
   },
   {
     label: "Phụ Khoa",
-    link: "/phu-khoa/",
-    icon: "forward-slash",
     items: [
       {
         label: "Hệ sinh dục nữ",
@@ -239,8 +233,6 @@ export const sidebar = starlightSidebarTopics([
   },
   {
     label: "Hỗ trợ sinh sản",
-    link: "/ho-tro-sinh-san/",
-    icon: "random",
     items: [
       "ho-tro-sinh-san/vo-sinh",
       "ho-tro-sinh-san/khong-rung-trung",
@@ -267,4 +259,4 @@ export const sidebar = starlightSidebarTopics([
       "ho-tro-sinh-san/ohss",
     ],
   },
-]);
+];

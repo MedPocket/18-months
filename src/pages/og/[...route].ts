@@ -1,16 +1,23 @@
 // For details, see: Https://hideoo.dev/notes/starlight-og-images
 
 import { OGImageRoute } from "astro-og-canvas";
-import { getCollection } from "astro:content";
+import { getCollection, type CollectionEntry } from "astro:content";
 
 const entries = await getCollection("docs");
 
-const pages = Object.fromEntries(entries.map(({ data, id }) => [id, { data }]));
+type OGPageData = Pick<CollectionEntry<"docs">["data"], "title" | "description">;
+
+const pages: Record<string, { data: OGPageData }> = Object.fromEntries(
+  entries.map(({ data, id }) => [
+    id,
+    { data: { title: data.title, description: data.description } },
+  ]),
+);
 
 export const { getStaticPaths, GET } = await OGImageRoute({
   pages,
   param: "route",
-  getImageOptions: (_path, page: (typeof pages)[number]) => {
+  getImageOptions: (_path, page) => {
     return {
       title: page.data.title,
       description: page.data.description,
@@ -21,13 +28,13 @@ export const { getStaticPaths, GET } = await OGImageRoute({
       },
       font: {
         title: {
-          families: ["Inter"],
+          families: ["DejaVuSans"],
         },
         description: {
-          families: ["Inter"],
+          families: ["DejaVuSans"],
         },
       },
-      fonts: ["https://cdn.jsdelivr.net/npm/inter-font@3.19.0/ttf/Inter-Regular.ttf"],
+      fonts: ["./src/assets/font/DejaVuSans.ttf"],
     };
   },
 });
