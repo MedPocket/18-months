@@ -1,0 +1,35 @@
+---
+---
+
+<div class="scroll-progress-wrapper">
+  <div id="scroll-progress" class="scroll-progress-bar"></div>
+</div>
+
+<script>
+  const progress = document.getElementById('scroll-progress');
+  window.addEventListener('scroll', () => {
+    const winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+    const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+    const scrolled = (winScroll / height) * 100;
+    if (progress) {
+      progress.style.width = scrolled + "%";
+    }
+  });
+</script>
+
+<style>
+  .scroll-progress-wrapper {
+    position: fixed;
+    top: var(--sl-nav-height);
+    left: 0;
+    width: 100%;
+    height: 2px;
+    z-index: 100;
+    pointer-events: none;
+  }
+  .scroll-progress-bar {
+    height: 100%;
+    background-color: var(--sl-color-accent);
+    width: 0%;
+  }
+</style>

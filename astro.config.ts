@@ -38,6 +38,8 @@ export default defineConfig({
       },
       components: {
         PageTitle: "./src/components/PageTitle.astro",
+        Header: "./src/components/Header.astro",
+        Sidebar: "./src/components/Sidebar.astro",
       },
       customCss: ["./src/styles/globals.css"],
       social: [

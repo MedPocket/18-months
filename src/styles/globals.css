@@ -1,53 +1,64 @@
-/* Dark mode colors. */
 :root {
-  --sl-color-accent-low: #0a2c14;
-  --sl-color-accent: #008038;
-  --sl-color-accent-high: #aed4b4;
-  --sl-color-white: #ffffff;
-  --sl-color-gray-1: #eceef2;
-  --sl-color-gray-2: #c0c2c7;
-  --sl-color-gray-3: #888b96;
-  --sl-color-gray-4: #545861;
-  --sl-color-gray-5: #353841;
-  --sl-color-gray-6: #24272f;
-  --sl-color-black: #17181c;
+  --sb-track: oklch(0.985 0 0);
+  --sb-thumb: oklch(0.92 0 0);
+  --sb-thumb-hover: oklch(0.85 0 0);
+  --sb-size: 10px;
+
+  /* Font from astro-persona */
+  --__sl-font: "Inter", "Mona Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-/* Light mode colors. */
-:root[data-theme="light"] {
-  --sl-color-accent-low: #c3e0c8;
-  --sl-color-accent: #008239;
-  --sl-color-accent-high: #003e18;
-  --sl-color-white: #17181c;
-  --sl-color-gray-1: #24272f;
-  --sl-color-gray-2: #353841;
-  --sl-color-gray-3: #545861;
-  --sl-color-gray-4: #888b96;
-  --sl-color-gray-5: #c0c2c7;
-  --sl-color-gray-6: #eceef2;
-  --sl-color-gray-7: #f5f6f8;
-  --sl-color-black: #ffffff;
+[data-theme='dark'] {
+  --sb-track: oklch(0.145 0 0);
+  --sb-thumb: oklch(0.25 0 0);
+  --sb-thumb-hover: oklch(0.3 0 0);
 }
 
-/* Hover row background for table rows. */
-table tbody tr:hover {
-  background-color: Rgba(255, 255, 255, 0.1);
-  transition:
-    Background-color 0.1s ease-in-out,
-    color 0.1s ease-in-out;
+/* Scrollbar styles */
+::-webkit-scrollbar {
+  width: var(--sb-size);
+  height: var(--sb-size);
 }
 
-:root[data-theme="light"] table tbody tr:hover {
-  background-color: Rgba(0, 0, 0, 0.1);
+::-webkit-scrollbar-track {
+  background: var(--sb-track);
 }
 
-/* Custom styles for external links. */
-/* Prevent style conflicts by targeting only external link icons */
-a[href^="http"] .external-link-icon {
-  display: inline-block;
-  width: 0.75em;
-  height: 0.75em;
-  margin-left: 0.2em;
-  vertical-align: text-bottom;
-  fill: currentColor;
+::-webkit-scrollbar-thumb {
+  background: var(--sb-thumb);
+  border-radius: 5px;
+  border: 2px solid var(--sb-track);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--sb-thumb-hover);
+}
+
+/* Sidebar overrides */
+.sidebar-pane {
+  border-inline-end: 1px solid var(--sl-color-gray-5) !important;
+  background-color: color-mix(in srgb, var(--sl-color-bg-sidebar, var(--sl-color-black)), transparent 20%) !important;
+  backdrop-filter: blur(12px) !important;
+}
+
+.sidebar-content {
+  padding-top: 0 !important; /* Adjusted for tabs */
+}
+
+/* Table row hover effect from persona */
+tr:hover {
+  background-color: color-mix(in oklch, currentColor, transparent 96%);
+}
+
+/* External links icon */
+.sl-markdown-content a[rel~="external"]::after {
+  content: "↗";
+  margin-left: 0.25rem;
+  font-size: 0.8em;
+  opacity: 0.7;
+}
+
+/* Scroll Progress Bar styling */
+.scroll-progress-bar {
+  box-shadow: 0 0 10px var(--sl-color-accent);
 }

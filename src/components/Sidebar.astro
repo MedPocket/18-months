@@ -1,0 +1,93 @@
+---
+import type { Props } from "@astrojs/starlight/props";
+import Default from "@astrojs/starlight/components/Sidebar.astro";
+
+const { sidebar } = Astro.props;
+
+const groups = sidebar.map(group => ({
+  label: (group as any).label || 'Other',
+  items: (group as any).items || (group.type === 'link' ? [group] : [])
+}));
+---
+
+<sidebar-tabs class="astro-ssfzsv2f">
+  <div class="sidebar-tabs-header astro-ssfzsv2f">
+    {groups.map((group, index) => (
+      <button class="sidebar-tab-button astro-ssfzsv2f" data-index={index} aria-selected={index === 0}>
+        {group.label}
+      </button>
+    ))}
+  </div>
+  <div class="sidebar-tabs-content astro-ssfzsv2f">
+    {groups.map((group, index) => (
+      <div class="sidebar-tab-panel astro-ssfzsv2f" data-index={index} hidden={index !== 0}>
+        <Default {...Astro.props} sidebar={group.items} />
+      </div>
+    ))}
+  </div>
+</sidebar-tabs>
+
+<script>
+  class SidebarTabs extends HTMLElement {
+    constructor() {
+      super();
+      const buttons = this.querySelectorAll('.sidebar-tab-button');
+      const panels = this.querySelectorAll('.sidebar-tab-panel');
+
+      buttons.forEach((button) => {
+        button.addEventListener('click', () => {
+          const index = (button as HTMLElement).dataset.index;
+
+          buttons.forEach((b) => b.setAttribute('aria-selected', 'false'));
+          panels.forEach((p) => (p as HTMLElement).hidden = true);
+
+          button.setAttribute('aria-selected', 'true');
+          const panel = this.querySelector(`.sidebar-tab-panel[data-index="${index}"]`) as HTMLElement;
+          if (panel) panel.hidden = false;
+        });
+      });
+    }
+  }
+  customElements.define('sidebar-tabs', SidebarTabs);
+</script>
+
+<style is:global>
+  sidebar-tabs {
+    display: block;
+  }
+  .sidebar-tabs-header {
+    display: flex;
+    gap: 0.25rem;
+    padding: 0.5rem;
+    border-bottom: 1px solid var(--sl-color-hairline);
+    overflow-x: auto;
+    scrollbar-width: none;
+    background-color: var(--sl-color-bg-sidebar);
+    position: sticky;
+    top: 0;
+    z-index: 10;
+  }
+  .sidebar-tabs-header::-webkit-scrollbar {
+    display: none;
+  }
+  .sidebar-tab-button {
+    background: none;
+    border: none;
+    padding: 0.4rem 0.8rem;
+    color: var(--sl-color-gray-3);
+    cursor: pointer;
+    white-space: nowrap;
+    font-size: var(--sl-text-xs);
+    font-weight: 600;
+    border-radius: 0.25rem;
+    transition: all 0.2s ease;
+  }
+  .sidebar-tab-button[aria-selected="true"] {
+    background-color: var(--sl-color-accent-low);
+    color: var(--sl-color-white);
+  }
+  .sidebar-tab-button:hover:not([aria-selected="true"]) {
+    color: var(--sl-color-white);
+    background-color: var(--sl-color-gray-6);
+  }
+</style>
