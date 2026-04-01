@@ -5,10 +5,13 @@
   --sb-size: 10px;
 
   /* Font from astro-persona */
-  --__sl-font: "Inter", "Mona Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --__sl-font:
+    "Inter", "Mona Sans", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-[data-theme='dark'] {
+[data-theme="dark"] {
   --sb-track: oklch(0.145 0 0);
   --sb-thumb: oklch(0.25 0 0);
   --sb-thumb-hover: oklch(0.3 0 0);
@@ -37,7 +40,11 @@
 /* Sidebar overrides */
 .sidebar-pane {
   border-inline-end: 1px solid var(--sl-color-gray-5) !important;
-  background-color: color-mix(in srgb, var(--sl-color-bg-sidebar, var(--sl-color-black)), transparent 20%) !important;
+  background-color: color-mix(
+    in srgb,
+    var(--sl-color-bg-sidebar, var(--sl-color-black)),
+    transparent 20%
+  ) !important;
   backdrop-filter: blur(12px) !important;
 }
 
