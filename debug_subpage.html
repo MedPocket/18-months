@@ -2294,12 +2294,14 @@ how we do it.
                 2
             );
             display: grid;
-            grid-template-columns: minmax(
+            grid-template-columns:
+              minmax(
                 calc(
                   var(--__sidebar-width) + max(0rem, var(--__main-column-fr) - var(--sl-nav-gap))
                 ),
                 auto
-              ) 1fr auto;
+              )
+              1fr auto;
             align-content: center;
           }
         }
