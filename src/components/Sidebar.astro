@@ -4,56 +4,85 @@ import Default from "@astrojs/starlight/components/Sidebar.astro";
 
 const { sidebar } = Astro.props;
 
-const groups = sidebar.map(group => ({
-  label: (group as any).label || 'Other',
-  items: (group as any).items || (group.type === 'link' ? [group] : [])
-}));
+// If sidebar is undefined or empty, it might be that we're on a page where it's not passed
+// or Starlight's sidebar logic is different in dev vs build.
+// Let's try to see if we can get the full sidebar from somewhere else if needed,
+// but usually it should be in Props.
 ---
 
-<sidebar-tabs class="astro-ssfzsv2f">
-  <div class="sidebar-tabs-header astro-ssfzsv2f">
-    {groups.map((group, index) => (
-      <button class="sidebar-tab-button astro-ssfzsv2f" data-index={index} aria-selected={index === 0}>
-        {group.label}
-      </button>
-    ))}
-  </div>
-  <div class="sidebar-tabs-content astro-ssfzsv2f">
-    {groups.map((group, index) => (
-      <div class="sidebar-tab-panel astro-ssfzsv2f" data-index={index} hidden={index !== 0}>
-        <Default {...Astro.props} sidebar={group.items} />
-      </div>
-    ))}
-  </div>
-</sidebar-tabs>
+{sidebar && sidebar.length > 0 ? (
+  <starlight-sidebar-tabs class="sidebar-tabs-container">
+    <div class="sidebar-tabs-header">
+      {sidebar.map((group, index) => (
+        <button
+          class="sidebar-tab-button"
+          data-index={index}
+          aria-selected={index === 0}
+          type="button"
+        >
+          {(group as any).label || 'Other'}
+        </button>
+      ))}
+    </div>
+    <div class="sidebar-tabs-content">
+      {sidebar.map((group, index) => (
+        <div
+          class="sidebar-tab-panel"
+          data-index={index}
+          hidden={index !== 0}
+        >
+          <Default {...Astro.props} sidebar={(group as any).items || (group.type === 'link' ? [group] : [])} />
+        </div>
+      ))}
+    </div>
+  </starlight-sidebar-tabs>
+) : (
+  <Default {...Astro.props} />
+)}
 
 <script>
-  class SidebarTabs extends HTMLElement {
+  class StarlightSidebarTabs extends HTMLElement {
     constructor() {
       super();
-      const buttons = this.querySelectorAll('.sidebar-tab-button');
-      const panels = this.querySelectorAll('.sidebar-tab-panel');
+      const buttons = this.querySelectorAll<HTMLButtonElement>('.sidebar-tab-button');
+      const panels = this.querySelectorAll<HTMLElement>('.sidebar-tab-panel');
+
+      const savedIndex = sessionStorage.getItem('starlight-sidebar-active-tab');
+      if (savedIndex !== null) {
+        this.setActiveTab(parseInt(savedIndex, 10), buttons, panels);
+      }
 
       buttons.forEach((button) => {
         button.addEventListener('click', () => {
-          const index = (button as HTMLElement).dataset.index;
-
-          buttons.forEach((b) => b.setAttribute('aria-selected', 'false'));
-          panels.forEach((p) => (p as HTMLElement).hidden = true);
-
-          button.setAttribute('aria-selected', 'true');
-          const panel = this.querySelector(`.sidebar-tab-panel[data-index="${index}"]`) as HTMLElement;
-          if (panel) panel.hidden = false;
+          const index = parseInt(button.dataset.index || '0', 10);
+          this.setActiveTab(index, buttons, panels);
+          sessionStorage.setItem('starlight-sidebar-active-tab', index.toString());
         });
       });
     }
+
+    setActiveTab(index: number, buttons: NodeListOf<HTMLButtonElement>, panels: NodeListOf<HTMLElement>) {
+      buttons.forEach((b, i) => {
+        const isSelected = i === index;
+        b.setAttribute('aria-selected', isSelected.toString());
+      });
+      panels.forEach((p, i) => {
+        const isSelected = i === index;
+        p.hidden = !isSelected;
+      });
+    }
   }
-  customElements.define('sidebar-tabs', SidebarTabs);
+
+  if (!customElements.get('starlight-sidebar-tabs')) {
+    customElements.define('starlight-sidebar-tabs', StarlightSidebarTabs);
+  }
 </script>
 
 <style is:global>
-  sidebar-tabs {
-    display: block;
+  starlight-sidebar-tabs {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
   }
   .sidebar-tabs-header {
     display: flex;
@@ -89,5 +118,9 @@ const groups = sidebar.map(group => ({
   .sidebar-tab-button:hover:not([aria-selected="true"]) {
     color: var(--sl-color-white);
     background-color: var(--sl-color-gray-6);
+  }
+  .sidebar-tabs-content {
+    flex: 1;
+    overflow-y: auto;
   }
 </style>
