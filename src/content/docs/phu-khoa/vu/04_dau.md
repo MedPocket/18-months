@@ -24,7 +24,7 @@ Khoảng 50% phụ nữ khi đến khám liên quan đến vấn đề đau vú.
 
 #### Bệnh sinh
 
-Nguyên nhân chính của đau vú theo chu kỳ liên quan đến thay đổi nội tiết tố trong chu kỳ kinh nguyệt. Có ba giả thuyết lớn:
+Nguyên nhân chính của đau vú theo chu kỳ liên quan đến thay đổi nội tiết tố trong chu kỳ kinh nguyệt. Có 3 giả thuyết lớn:
 
 **Tăng nồng độ estrogen:**
 
