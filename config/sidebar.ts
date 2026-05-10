@@ -4,135 +4,230 @@ export const sidebar = [
     items: [
       {
         label: "Sàng lọc và chẩn đoán trước sinh",
-        autogenerate: {
-          directory: "san-khoa/sang-loc-chan-doan",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/sang-loc-chan-doan",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Lượng giá sức khỏe thai",
-        autogenerate: {
-          directory: "san-khoa/suc-khoe-thai",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/suc-khoe-thai",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Chỉ số ối",
-        autogenerate: {
-          directory: "san-khoa/chi-so-oi",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/chi-so-oi",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Xuất huyết tử cung",
-        autogenerate: {
-          directory: "san-khoa/xuat-huyet-tu-cung",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/xuat-huyet-tu-cung",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Thai lưu",
-        autogenerate: {
-          directory: "san-khoa/thai-luu",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/thai-luu",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Dọa đẻ non",
-        autogenerate: {
-          directory: "san-khoa/doa-de-non",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/doa-de-non",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Đái tháo đường thai kỳ",
-        autogenerate: {
-          directory: "san-khoa/dai-thao-duong",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/dai-thao-duong",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Tăng huyết áp thai kỳ",
-        autogenerate: {
-          directory: "san-khoa/tang-huyet-ap",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/tang-huyet-ap",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Thai chậm tăng trưởng",
-        autogenerate: {
-          directory: "san-khoa/sga-iugr",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/sga-iugr",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Tuyến giáp và thai kỳ",
-        autogenerate: {
-          directory: "san-khoa/tuyen-giap",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/tuyen-giap",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Thiếu máu hồng cầu nhỏ nhược sắc",
-        autogenerate: {
-          directory: "san-khoa/thieu-mau",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/thieu-mau",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Chuyển dạ",
-        autogenerate: {
-          directory: "san-khoa/chuyen-da",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/chuyen-da",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Phần phụ của thai",
-        autogenerate: {
-          directory: "san-khoa/phan-phu-thai",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/phan-phu-thai",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Cấp cứu sản khoa",
-        autogenerate: {
-          directory: "san-khoa/cap-cuu",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/cap-cuu",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Bệnh truyền nhiễm",
-        autogenerate: {
-          directory: "san-khoa/truyen-nhiem",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/truyen-nhiem",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Bệnh tự miễn",
-        autogenerate: {
-          directory: "san-khoa/tu-mien",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/tu-mien",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Các vấn đề thường gặp",
-        autogenerate: {
-          directory: "san-khoa/mang-thai",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/mang-thai",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Hậu sản",
-        autogenerate: {
-          directory: "san-khoa/hau-san",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/hau-san",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Sơ sinh",
-        autogenerate: {
-          directory: "san-khoa/so-sinh",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "san-khoa/so-sinh",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
     ],
@@ -142,90 +237,150 @@ export const sidebar = [
     items: [
       {
         label: "Hệ sinh dục nữ",
-        autogenerate: {
-          directory: "phu-khoa/he-sinh-duc-nu",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "phu-khoa/he-sinh-duc-nu",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Xuất huyết tử cung",
-        autogenerate: {
-          directory: "phu-khoa/xuat-huyet-tu-cung",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "phu-khoa/xuat-huyet-tu-cung",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Vô kinh",
-        autogenerate: {
-          directory: "phu-khoa/vo-kinh",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "phu-khoa/vo-kinh",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       "phu-khoa/chua-ngoai-tu-cung",
       "phu-khoa/chua-vet-mo-lay-thai",
       {
         label: "Tiết dịch âm đạo bất thường",
-        autogenerate: {
-          directory: "phu-khoa/tiet-dich-am-dao",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "phu-khoa/tiet-dich-am-dao",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Bệnh đường tình dục",
-        autogenerate: {
-          directory: "phu-khoa/benh-tinh-duc",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "phu-khoa/benh-tinh-duc",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Bất thường cổ tử cung",
-        autogenerate: {
-          directory: "phu-khoa/co-tu-cung",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "phu-khoa/co-tu-cung",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Bất thường buồng trứng",
-        autogenerate: {
-          directory: "phu-khoa/buong-trung",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "phu-khoa/buong-trung",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "U xơ tử cung",
-        autogenerate: {
-          directory: "phu-khoa/u-xo-tu-cung",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "phu-khoa/u-xo-tu-cung",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       "phu-khoa/lac-noi-mac-tu-cung",
       {
         label: "Bệnh nguyên bào nuôi",
-        autogenerate: {
-          directory: "phu-khoa/benh-nguyen-bao-nuoi",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "phu-khoa/benh-nguyen-bao-nuoi",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Bất thường tuyến vú",
-        autogenerate: {
-          directory: "phu-khoa/vu",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "phu-khoa/vu",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "Kế hoạch hóa gia đình",
-        autogenerate: {
-          directory: "phu-khoa/ke-hoach-hoa-gia-dinh",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "phu-khoa/ke-hoach-hoa-gia-dinh",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       "phu-khoa/sa-tang-chau",
       {
         label: "Tổn thương trong phẫu thuật",
-        autogenerate: {
-          directory: "phu-khoa/ton-thuong-phau-thuat",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "phu-khoa/ton-thuong-phau-thuat",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       "phu-khoa/lanh-thuong",
@@ -244,16 +399,26 @@ export const sidebar = [
       "ho-tro-sinh-san/suy-buong-trung",
       {
         label: "IUI",
-        autogenerate: {
-          directory: "ho-tro-sinh-san/iui",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "ho-tro-sinh-san/iui",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       {
         label: "IVF",
-        autogenerate: {
-          directory: "ho-tro-sinh-san/ivf",
-        },
+        items: [
+          {
+            autogenerate: {
+              directory: "ho-tro-sinh-san/ivf",
+              collapsed: true,
+            },
+          },
+        ],
         collapsed: true,
       },
       "ho-tro-sinh-san/ohss",
