@@ -11,9 +11,21 @@ description: Xu thế và ứng dụng chẩn đoán trước sinh.
 
 - **Phát hiện sớm các bất thường nhiễm sắc thể** (Down, Edwards, Patau...).
 - **Xác định các dị tật bẩm sinh** (dị tật ống thần kinh, tim bẩm sinh...).
+- **Tầm soát các biến chứng thai kỳ quan trọng** (tiền sản giật).
 - **Hỗ trợ tư vấn di truyền**, giúp đưa ra quyết định quản lý thai kỳ phù hợp.
 
 ## Các phương pháp sàng lọc trước sinh
+
+### Sàng lọc tiền sản giật
+
+Đây là một phần quan trọng của sàng lọc trước sinh, nhằm phát hiện sớm nguy cơ mắc bệnh lý tăng huyết áp nguy hiểm nhất trong thai kỳ.
+
+- **Quý 1 (11 tuần – 13 tuần 6 ngày):** Sử dụng thuật toán FMF kết hợp yếu tố mẹ, huyết áp (MAP), siêu âm (UtPI) và xét nghiệm máu (PlGF). Mục đích chính là dự phòng bằng Aspirin liều thấp.
+- **Quý 2 & 3:** Sử dụng tỷ số **sFlt-1/PlGF** để tiên đoán nguy cơ xuất hiện tiền sản giật trong ngắn hạn (1-4 tuần).
+
+:::tip[Chi tiết]
+Xem chi tiết tại bài viết: [Tầm soát và dự phòng tiền sản giật](/san-khoa/tang-huyet-ap/04_tam-soat-va-du-phong).
+:::
 
 ### Double test
 
@@ -24,7 +36,7 @@ Xét nghiệm sàng lọc trước sinh không xâm lấn, thực hiện trong t
 **Hạn chế:**
 
 - Không sàng lọc dị tật ống thần kinh.
-- Độ chính xác thấp hơn NIPT: Độ nhạy 85-90% với hội chứng Down, 75-85% với Trisomy 18, 65-75% với Trisomy 13. Dương tính giả khoảng 5%, âm tính giả 10-15%.
+- Độ chính xác thấp hơn NIPT: Độ nhạy 85-90% với hội chứng Down, 75-85% với Trisomy 18, 65-75% with Trisomy 13. Dương tính giả khoảng 5%, âm tính giả 10-15%.
 - Kết quả bị ảnh hưởng bởi tuổi mẹ, cân nặng, tình trạng thai đôi, bệnh lý của mẹ, hút thuốc.
 
 Double test chính xác hơn Triple test, đặc biệt khi kết hợp với siêu âm NT.
