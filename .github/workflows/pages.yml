@@ -15,10 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6
 
       - name: Run build
-        uses: area44/workflows/astro@v4.5.0
+        uses: area44/workflows/astro@5a0434b9aeafb1c33607d6f624984e58a139ca54 # v4.5.0
         env:
           BASE: / # Set base to "/" because Starlight doesn't support custom base paths
 
