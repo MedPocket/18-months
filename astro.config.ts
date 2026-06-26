@@ -1,11 +1,12 @@
+import { satteri } from "@astrojs/markdown-satteri";
 import starlight from "@astrojs/starlight";
 import { defineConfig } from "astro/config";
 import starlightImageZoom from "starlight-image-zoom";
 import starlightLinksValidator from "starlight-links-validator";
 
 import { sidebar } from "./config/sidebar";
-import { rehypeExternalLinks } from "./src/plugins/rehype-external-links";
-import { remarkReadingTime } from "./src/plugins/remark-reading-time";
+import { satteriExternalLinks } from "./src/plugins/satteri-external-links";
+import { satteriReadingTime } from "./src/plugins/satteri-reading-time";
 
 const site =
   process.env.NODE_ENV === "production"
@@ -17,8 +18,10 @@ export default defineConfig({
   site,
   base,
   markdown: {
-    remarkPlugins: [remarkReadingTime],
-    rehypePlugins: [rehypeExternalLinks()],
+    processor: satteri({
+      mdastPlugins: [satteriReadingTime],
+      hastPlugins: [satteriExternalLinks],
+    }),
   },
   integrations: [
     starlight({
