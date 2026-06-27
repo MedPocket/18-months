@@ -20,9 +20,6 @@ importers:
       astro:
         specifier: ^7.0.3
         version: 7.0.3(@astrojs/markdown-remark@7.2.0)(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@types/node@24.13.2)(yaml@2.9.0)
-      mdast-util-to-string:
-        specifier: ^4.0.0
-        version: 4.0.0
       reading-time:
         specifier: ^1.5.0
         version: 1.5.0
@@ -42,12 +39,6 @@ importers:
         specifier: ^0.25.1
         version: 0.25.1(@astrojs/starlight@0.41.1(@astrojs/markdown-remark@7.2.0)(astro@7.0.3(@astrojs/markdown-remark@7.2.0)(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@types/node@24.13.2)(yaml@2.9.0))(typescript@6.0.3))(astro@7.0.3(@astrojs/markdown-remark@7.2.0)(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(@types/node@24.13.2)(yaml@2.9.0))
     devDependencies:
-      '@types/hast':
-        specifier: ^3.0.4
-        version: 3.0.4
-      '@types/mdast':
-        specifier: ^4.0.4
-        version: 4.0.4
       oxfmt:
         specifier: ^0.56.0
         version: 0.56.0
@@ -57,9 +48,6 @@ importers:
       typescript:
         specifier: ^6.0.3
         version: 6.0.3
-      unified:
-        specifier: ^11.0.5
-        version: 11.0.5
 
 packages:
 
