@@ -12,7 +12,10 @@ const site =
   process.env.NODE_ENV === "production"
     ? (process.env.SITE ?? "https://18-months.pages.dev")
     : "http://localhost:4321";
-const base = process.env.BASE || "/";
+
+let base = process.env.BASE || "/";
+if (base !== "/" && !base.startsWith("/")) base = "/" + base;
+if (base !== "/" && !base.endsWith("/")) base = base + "/";
 
 export default defineConfig({
   site,
@@ -57,7 +60,7 @@ export default defineConfig({
       pagination: true,
       lastUpdated: true,
       sidebar,
-      plugins: [starlightImageZoom(), starlightLinksValidator()],
+      plugins: [starlightImageZoom(), starlightLinksValidator({ errorOnRelativeLinks: false })],
     }),
   ],
 });
