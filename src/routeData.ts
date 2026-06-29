@@ -2,7 +2,7 @@ import { defineRouteMiddleware } from "@astrojs/starlight/route-data";
 
 export const onRequest = defineRouteMiddleware((context) => {
   const ogImageUrl = new URL(
-    `/og/${context.locals.starlightRoute.id || "index"}.png`,
+    `${import.meta.env.BASE_URL}og/${context.locals.starlightRoute.id || "index"}.png`,
     context.site,
   );
 
