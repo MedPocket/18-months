@@ -1,5 +1,6 @@
 ---
 import { Icon } from "@astrojs/starlight/components";
+import MobileMenuFooter from "@astrojs/starlight/components/MobileMenuFooter.astro";
 import SidebarPersister from "@astrojs/starlight/components/SidebarPersister.astro";
 import SidebarSublist from "@astrojs/starlight/components/SidebarSublist.astro";
 import type { Props } from "@astrojs/starlight/props";
@@ -72,14 +73,11 @@ const isInitial = (entries: SidebarEntry[], index: number) =>
       ))
     }
   </TabbedContent>
-
-  <div class="sidebar-footer">
-    <a href="https://github.com/MedPocket/18-months" class="sl-flex">
-      <Icon name="github" />
-      <span>GitHub</span>
-    </a>
-  </div>
 </SidebarPersister>
+
+<div class="md:sl-hidden">
+  <MobileMenuFooter />
+</div>
 
 <style>
   /** Always show the scrollbar gutter. */
@@ -174,20 +172,5 @@ const isInitial = (entries: SidebarEntry[], index: number) =>
   }
   .tab-item :global(a[aria-selected="true"]) .icon {
     color: var(--tab-switcher-icon-color--active);
-  }
-
-  .sidebar-footer {
-    margin-top: 1rem;
-    padding-top: 1rem;
-    border-top: 1px solid var(--sl-color-hairline);
-  }
-  .sidebar-footer a {
-    align-items: center;
-    gap: 0.5rem;
-    text-decoration: none;
-    color: var(--sl-color-gray-3);
-  }
-  .sidebar-footer a:hover {
-    color: var(--sl-color-white);
   }
 </style>
