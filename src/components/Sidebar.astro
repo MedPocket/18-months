@@ -72,6 +72,13 @@ const isInitial = (entries: SidebarEntry[], index: number) =>
       ))
     }
   </TabbedContent>
+
+  <div class="sidebar-footer">
+    <a href="https://github.com/MedPocket/18-months" class="sl-flex">
+      <Icon name="github" />
+      <span>GitHub</span>
+    </a>
+  </div>
 </SidebarPersister>
 
 <style>
@@ -167,5 +174,20 @@ const isInitial = (entries: SidebarEntry[], index: number) =>
   }
   .tab-item :global(a[aria-selected="true"]) .icon {
     color: var(--tab-switcher-icon-color--active);
+  }
+
+  .sidebar-footer {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--sl-color-hairline);
+  }
+  .sidebar-footer a {
+    align-items: center;
+    gap: 0.5rem;
+    text-decoration: none;
+    color: var(--sl-color-gray-3);
+  }
+  .sidebar-footer a:hover {
+    color: var(--sl-color-white);
   }
 </style>

@@ -45,6 +45,7 @@ export default defineConfig({
       components: {
         Sidebar: "./src/components/Sidebar.astro",
         PageTitle: "./src/components/PageTitle.astro",
+        Footer: "./src/components/Footer.astro",
       },
       customCss: ["./src/styles/globals.css"],
       social: [
