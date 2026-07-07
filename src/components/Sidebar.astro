@@ -1,5 +1,6 @@
 ---
 import { Icon } from "@astrojs/starlight/components";
+import MobileMenuFooter from "@astrojs/starlight/components/MobileMenuFooter.astro";
 import SidebarPersister from "@astrojs/starlight/components/SidebarPersister.astro";
 import SidebarSublist from "@astrojs/starlight/components/SidebarSublist.astro";
 import type { Props } from "@astrojs/starlight/props";
@@ -73,6 +74,10 @@ const isInitial = (entries: SidebarEntry[], index: number) =>
     }
   </TabbedContent>
 </SidebarPersister>
+
+<div class="md:sl-hidden">
+  <MobileMenuFooter />
+</div>
 
 <style>
   /** Always show the scrollbar gutter. */
