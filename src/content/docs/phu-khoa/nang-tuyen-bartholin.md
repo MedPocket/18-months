@@ -89,8 +89,8 @@ Kỹ thuật đặt ống Word (_Word Catheter_) hiện là tiêu chuẩn vàng 
 _Hình "Xác định điểm rạch trên thành nang căng phồng" (Nguồn: emDocs)_.
 ![Xác định điểm rạch](./_images/nang-tuyen-bartholin/dat-ong-word.png)
 
-_Hình "Thực hiện đường rạch nhỏ khoảng 0.5-1 cm và lấy dịch mủ" (Nguồn: emDocs)_.
-![Đường rạch thoát dịch mủ](./_images/nang-tuyen-bartholin/rach-thoat-dich.png)
+_Hình "Bơm nước cất làm phồng bong bóng để giữ ống cố định" (Nguồn: emDocs)_.
+![Bơm bóng giữ catheter](./_images/nang-tuyen-bartholin/bom-bong-catheter.png)
 
 _Hình "Giấu đầu ngoài của ống thông cao su vào trong âm đạo của bệnh nhân" (Nguồn: emDocs)_.
 ![Giấu đầu ngoài catheter](./_images/nang-tuyen-bartholin/giau-duoi-catheter.png)
