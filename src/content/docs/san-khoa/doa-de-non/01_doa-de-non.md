@@ -75,7 +75,7 @@ _Hình "Chiều dài cổ tử cung"_.
 _Hình "Hình dạng lỗ tử cung"_.
 
 - Cổ tử cung dạng U, Y: Nguy cơ cao.
-- Dạng I (hình phễu nhẹ): Tiên lượng tốt hơn.<br>
+- Dạng I (hình phễu nhẹ): Tiên lượng tốt hơn.
 
 ### Xét nghiệm sinh hóa
 
