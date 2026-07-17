@@ -283,8 +283,9 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 - Đặt 14 - 32 tuần hoặc 2 tuần trước mốc sinh non trước đó.
 - Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.<br >
   ![Vòng nâng cổ tử cung](./_images/vong-nang-co-tu-cung.png)
-  ![Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ](./_images/luu-do-du-phong-sinh-non.png)
   _Hình "Vòng nâng cổ tử cung"_.
+
+  ![Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ](./_images/luu-do-du-phong-sinh-non.png)
   _Hình "Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ"_.
 
 ## Tài liệu tham khảo
