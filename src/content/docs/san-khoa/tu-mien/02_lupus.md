@@ -35,12 +35,12 @@ _Bảng "Tiêu chuẩn EULAR/ACR cho phân loại Lupus ban đỏ hệ thống"_
 | Protein bổ thể:<br> - C3 thấp hoặc C4 thấp<br> - C3 thấp và C4 thấp                                                                                                             | <br> 3<br> 4             |
 | Kháng thể đặc hiệu SLE:<br> - Kháng thể kháng dsDNA hoặc<br> - Kháng thể kháng Smith                                                                                            | 6                        |
 
-[a] Bệnh nhân chỉ đủ điều kiện đáp ứng các tiêu chuẩn này nếu họ có xét nghiệm ANA dương tính ≥ 1:80<br>
-[b] Các tiêu chí không cần phải xảy ra đồng thời. Chỉ nên sử dụng điểm số có trọng số cao nhất trong một miền. SLE phải là giải thích có khả năng nhất cho mỗi tiêu chí.<br>
-[c] Mỗi tiêu chí được chỉ định trọng số từ 2 đến 10. Nếu điểm của bệnh nhân là 10 trở lên và đáp ứng ít nhất 1 tiêu chuẩn lâm sàng thì bệnh được phân loại là SLE.<br>
-[d] Bằng chứng về sự tan máu tự miễn (như sự hiện diện của hồng cầu lưới, haptoglobin thấp, tăng bilirubin gián tiếp, tăng lactate dehydrogenase) và một xét nghiệm kháng globulin trực tiếp dương tính (trực tiếp Coombs).<br>
-[e] Tiêu chí này có thể được ghi nhận trong quá trình khám hoặc xem lại một bức ảnh.<br>
-[f] Tổn thương khớp được định nghĩa là viêm màng hoạt dịch bao gồm ≥ 2 khớp có đặc điểm là sưng hoặc tràn dịch hoặc đau ở 2 khớp và ít nhất là 30 phút buổi sáng.<br>
+[a] Bệnh nhân chỉ đủ điều kiện đáp ứng các tiêu chuẩn này nếu họ có xét nghiệm ANA dương tính ≥ 1:80
+[b] Các tiêu chí không cần phải xảy ra đồng thời. Chỉ nên sử dụng điểm số có trọng số cao nhất trong một miền. SLE phải là giải thích có khả năng nhất cho mỗi tiêu chí.
+[c] Mỗi tiêu chí được chỉ định trọng số từ 2 đến 10. Nếu điểm của bệnh nhân là 10 trở lên và đáp ứng ít nhất 1 tiêu chuẩn lâm sàng thì bệnh được phân loại là SLE.
+[d] Bằng chứng về sự tan máu tự miễn (như sự hiện diện của hồng cầu lưới, haptoglobin thấp, tăng bilirubin gián tiếp, tăng lactate dehydrogenase) và một xét nghiệm kháng globulin trực tiếp dương tính (trực tiếp Coombs).
+[e] Tiêu chí này có thể được ghi nhận trong quá trình khám hoặc xem lại một bức ảnh.
+[f] Tổn thương khớp được định nghĩa là viêm màng hoạt dịch bao gồm ≥ 2 khớp có đặc điểm là sưng hoặc tràn dịch hoặc đau ở 2 khớp và ít nhất là 30 phút buổi sáng.
 ANA = kháng thể kháng nhân; anti-dsDNA = anti-DNA chuỗi kép (ds); EULAR/ACR = Liên minh châu Âu chống lại bệnh thấp khớp/Hội thấp khớp học Hoa Kỳ; SLE = lupus ban đỏ hệ thống.
 
 :::

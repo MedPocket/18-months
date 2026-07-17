@@ -25,7 +25,7 @@ Giữa bong và sổ rau, tử cung có giai đoạn **nghỉ sinh lý**, không
 Tử cung tái co bóp tống khối rau đã bong ra âm đạo. Gồm 2 kiểu:
 
 - **Kiểu Beaudelocque** (phổ biến): Máu tụ trung tâm, rau phồng lên rồi tróc dần, mặt thai (fetal side) xuất trước.
-- **Kiểu Duncan** (ít gặp): Máu tụ ở mép, rau bong kém, mặt mẹ (maternal side) xuất trước, mất máu nhiều.<br>
+- **Kiểu Duncan** (ít gặp): Máu tụ ở mép, rau bong kém, mặt mẹ (maternal side) xuất trước, mất máu nhiều.
 
 ![Thì sổ rau](./_images/xu-tri-tich-cuc-giai-doan-3/so-rau.png)
 _Hình "Thì sổ rau"_.

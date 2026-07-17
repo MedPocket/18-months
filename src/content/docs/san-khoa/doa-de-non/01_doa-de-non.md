@@ -272,7 +272,7 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 ### Khâu vòng cổ tử cung
 
 - Cho trường hợp hở eo tử cung, kênh cổ ngắn < 25 mm.
-- Không lợi ở cổ ngắn không có tiền sử sinh non, có nguy cơ ở song thai.<br>
+- Không lợi ở cổ ngắn không có tiền sử sinh non, có nguy cơ ở song thai.
   ![Khâu vòng cổ tử cung](./_images/khau-vong-co-tu-cung.png)
   _Hình "Khâu vòng cổ tử cung"_.
 
@@ -281,7 +281,7 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 - Giảm tỷ lệ sinh non < 34 và < 37 tuần.
 - Gây tiết dịch âm đạo, cần theo dõi viêm.
 - Đặt 14 - 32 tuần hoặc 2 tuần trước mốc sinh non trước đó.
-- Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.<br>
+- Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.
   ![Vòng nâng cổ tử cung](./_images/vong-nang-co-tu-cung.png)
   _Hình "Vòng nâng cổ tử cung"_.
 
