@@ -183,8 +183,7 @@ _Bảng "Mục tiêu đường máu"_.
 
 - **Basal:** Insulin NPH hoặc Detemir nếu chỉ tăng glucose lúc đói.
 - **Bolus:** Insulin tác dụng nhanh (Regular, Lispro, Aspart) nếu tăng sau ăn.
-- **Basal-bolus:** Phối hợp khi tăng cả đói và sau ăn.
-
+- **Basal-bolus:** Phối hợp khi tăng cả đói và sau ăn.<br>
   ![Các loại insulin thai kỳ](./_images/cac-loai-insulin.png)
   _Hình "Các loại insulin và dấu đỏ: Loại được phép dùng cho phụ nữ mang thai"_.
 
