@@ -17,11 +17,11 @@ description: Tổng quan và chẩn đoán sa tạng chậu (POP).
 
 _Bảng "Phân loại sa tạng chậu"_.
 
-| Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại                                                                  | Xét nghiệm cần thiết     |
-| ------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------ |
-| **Thành trước (ngăn trước)**         | Sa bàng quang: Trung tâm, bên, kết hợp<br > Sa niệu đạo                                    | Niệu động học            |
-| **Vòm âm đạo (ngăn giữa)**           | Túi sa ruột non: Trước, sau<br > Sa tử cung<br > Sa mỏm cắt                                | MRI động ± Niệu động học |
-| **Thành sau (ngăn sau)**             | Túi trực tràng: Cao, giữa, thấp<br > Sa trực tràng<br > Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
+| Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại                                                                | Xét nghiệm cần thiết     |
+| ------------------------------------ | ---------------------------------------------------------------------------------------- | ------------------------ |
+| **Thành trước (ngăn trước)**         | Sa bàng quang: Trung tâm, bên, kết hợp<br> Sa niệu đạo                                   | Niệu động học            |
+| **Vòm âm đạo (ngăn giữa)**           | Túi sa ruột non: Trước, sau<br> Sa tử cung<br> Sa mỏm cắt                                | MRI động ± Niệu động học |
+| **Thành sau (ngăn sau)**             | Túi trực tràng: Cao, giữa, thấp<br> Sa trực tràng<br> Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
 
 ## Chẩn đoán
 
@@ -99,13 +99,13 @@ Phương pháp:
 ### Ngoại khoa
 
 ![Phác đồ chẩn đoán và xử trí sa tạng chậu - Bệnh viện Từ Dũ](./_images/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
-_Hình "Phác đồ chẩn đoán và xử trí sa tạng chậu - Bệnh viện Từ Dũ"_.
+_Hình "Phác đồ chẩn đoán và xử trí sa tạng chậu". Nguồn: Bệnh viện Từ Dũ_.
 
 ![Phẫu thuật ngả bụng - Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-bung.jpeg)
-_Hình "Phẫu thuật ngả bụng - Bệnh viện Từ Dũ"_.
+_Hình "Phẫu thuật ngả bụng". Nguồn: Bệnh viện Từ Dũ_.
 
 ![Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-am-dao.png)
-_Hình "Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ"_.
+_Hình "Phẫu thuật đường âm đạo". Nguồn: Bệnh viện Từ Dũ_.
 
 **Nguyên tắc:**
 

@@ -38,16 +38,16 @@ description: Thalassemia trong thai kỳ.
 ### Với thai
 
 ![Thai phù trong hội chứng Bart](./_images/thai-phu-trong-hoi-chung-Bart.png)
-_Hình: Thai phù trong hội chứng Hb Bart’s_.
+_Hình "Thai phù trong hội chứng Hb Bart’s"_.
 
 - Thể nặng có thể không sống sót sau sinh.
-- Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.<br >
+- Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.
 
 ## Chẩn đoán
 
 - Huyết đồ: Hb < 11 g/dL; MCV < 80 fL; MCH < 27 pg.
 - Định lượng ferritin: Bình thường hoặc tăng → chuyển sang điện di Hb.
-- Điện di Hb: Xác định tỉ lệ HbA2, HbF để phân loại.<br >
+- Điện di Hb: Xác định tỉ lệ HbA2, HbF để phân loại.
 - Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.
 - Chẩn đoán trên thai: Sinh thiết gai rau, chọc ối hoặc lấy máu cuống rốn nếu có nguy cơ cao.
 

@@ -75,7 +75,7 @@ _Hình "Chiều dài cổ tử cung"_.
 _Hình "Hình dạng lỗ tử cung"_.
 
 - Cổ tử cung dạng U, Y: Nguy cơ cao.
-- Dạng I (hình phễu nhẹ): Tiên lượng tốt hơn.<br >
+- Dạng I (hình phễu nhẹ): Tiên lượng tốt hơn.
 
 ### Xét nghiệm sinh hóa
 
@@ -117,11 +117,11 @@ Biểu hiện kèm: Ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng 
 
 _Bảng "Thuốc cắt cơn gò"_.
 
-| Thuốc cắt cơn gò                 | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                          | Lưu ý                                                                                                                                |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| **Đối vận với thụ thể oxytocin** | Đối vận với thụ thể của oxytocin trên cơ tử cung, ngăn cản tác dụng co cơ tử cung của oxytocin nội sinh | Hiện không có tác dụng phụ quan trọng được ghi nhận                                                                                                                                   | Là thuốc duy nhất được dán nhãn (_labelled_) cho điều trị sinh non                                                                   |
-| **Ức chế kênh calcium**          | Ngăn chặn Ca²⁺ đi vào tế bào                                                                            | Hạ huyết áp và nhức đầu; Có thể làm giảm lưu lượng máu nhau-tử cung, giảm oxygen và tăng CO₂ ở thai nhi                                                                               | - Có thể làm nặng thêm tác dụng phụ của MgSO₄<br > - Không được dán nhãn cho điều trị sinh non<br > - Thường ít dùng do tác dụng phụ |
-| **Đồng vận β-adrenergic**        | Tăng nồng độ cAMP (_cyclic adenosine MonoPhosphate_) trong tế bào, làm giảm nồng độ calcium             | - Hạ huyết áp, nhịp tim nhanh, nặng ngực/đau ngực, thay đổi ECG<br > - Có thể gây phù phổi (đặc biệt khi quá tải tuần hoàn)<br > - Chống chỉ định tương đối: Bệnh mạch vành, suy thận | - Salbutamol không được dán nhãn cho điều trị sinh non<br > - Dùng kéo dài không được xem là an toàn cho thai nhi                    |
+| Thuốc cắt cơn gò                 | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                        | Lưu ý                                                                                                                              |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| **Đối vận với thụ thể oxytocin** | Đối vận với thụ thể của oxytocin trên cơ tử cung, ngăn cản tác dụng co cơ tử cung của oxytocin nội sinh | Hiện không có tác dụng phụ quan trọng được ghi nhận                                                                                                                                 | Là thuốc duy nhất được dán nhãn (_labelled_) cho điều trị sinh non                                                                 |
+| **Ức chế kênh calcium**          | Ngăn chặn Ca²⁺ đi vào tế bào                                                                            | Hạ huyết áp và nhức đầu; Có thể làm giảm lưu lượng máu nhau-tử cung, giảm oxygen và tăng CO₂ ở thai nhi                                                                             | - Có thể làm nặng thêm tác dụng phụ của MgSO₄<br> - Không được dán nhãn cho điều trị sinh non<br> - Thường ít dùng do tác dụng phụ |
+| **Đồng vận β-adrenergic**        | Tăng nồng độ cAMP (_cyclic adenosine MonoPhosphate_) trong tế bào, làm giảm nồng độ calcium             | - Hạ huyết áp, nhịp tim nhanh, nặng ngực/đau ngực, thay đổi ECG<br> - Có thể gây phù phổi (đặc biệt khi quá tải tuần hoàn)<br> - Chống chỉ định tương đối: Bệnh mạch vành, suy thận | - Salbutamol không được dán nhãn cho điều trị sinh non<br> - Dùng kéo dài không được xem là an toàn cho thai nhi                   |
 
 :::caution
 Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều loại, hoặc sau 34 tuần.  
@@ -272,7 +272,7 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 ### Khâu vòng cổ tử cung
 
 - Cho trường hợp hở eo tử cung, kênh cổ ngắn < 25 mm.
-- Không lợi ở cổ ngắn không có tiền sử sinh non, có nguy cơ ở song thai.<br >
+- Không lợi ở cổ ngắn không có tiền sử sinh non, có nguy cơ ở song thai.
   ![Khâu vòng cổ tử cung](./_images/khau-vong-co-tu-cung.png)
   _Hình "Khâu vòng cổ tử cung"_.
 
@@ -281,12 +281,12 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 - Giảm tỷ lệ sinh non < 34 và < 37 tuần.
 - Gây tiết dịch âm đạo, cần theo dõi viêm.
 - Đặt 14 - 32 tuần hoặc 2 tuần trước mốc sinh non trước đó.
-- Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.<br >
+- Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.
   ![Vòng nâng cổ tử cung](./_images/vong-nang-co-tu-cung.png)
   _Hình "Vòng nâng cổ tử cung"_.
 
   ![Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ](./_images/luu-do-du-phong-sinh-non.png)
-  _Hình "Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ"_.
+  _Hình "Lưu đồ dự phòng sinh non đơn thai". Nguồn: Bệnh viện Từ Dũ_.
 
 ## Tài liệu tham khảo
 

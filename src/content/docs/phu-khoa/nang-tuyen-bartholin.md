@@ -87,13 +87,13 @@ Thao tác này thường được thực hiện ngay tại phòng thủ thuật 
 Kỹ thuật đặt ống Word (_Word Catheter_) hiện là tiêu chuẩn vàng trong chích dẫn lưu vì nó giúp tạo ra một biểu mô hóa đường rò mới, ngăn ngừa tái phát rất hiệu quả mà không cần phải phẫu thuật cắt bỏ tuyến. Dưới đây là các bước thao tác chi tiết:
 
 ![Xác định điểm rạch](./_images/nang-tuyen-bartholin/dat-ong-word.png)
-_Hình "Xác định điểm rạch trên thành nang căng phồng" (Nguồn: emDocs)_.
+_Hình "Xác định điểm rạch trên thành nang căng phồng". Nguồn: emDocs_.
 
 ![Bơm bóng giữ catheter](./_images/nang-tuyen-bartholin/bom-bong-catheter.png)
-_Hình "Bơm nước cất làm phồng bong bóng để giữ ống cố định" (Nguồn: emDocs)_.
+_Hình "Bơm nước cất làm phồng bong bóng để giữ ống cố định". Nguồn: emDocs_.
 
 ![Giấu đầu ngoài catheter](./_images/nang-tuyen-bartholin/giau-duoi-catheter.png)
-_Hình "Giấu đầu ngoài của ống thông cao su vào trong âm đạo của bệnh nhân" (Nguồn: emDocs)_.
+_Hình "Giấu đầu ngoài của ống thông cao su vào trong âm đạo của bệnh nhân". Nguồn: emDocs_.
 
 #### Chăm sóc sau khi chích rạch
 
@@ -140,13 +140,13 @@ Phương pháp này thường không phải là lựa chọn đầu tay cho các
 Khi thực hiện bóc tách, phẫu thuật viên phải giữ cho khối nang căng tròn để dễ xác định ranh giới giữa vỏ nang và các mô cơ, mạch máu xung quanh:
 
 ![Bộc lộ đường rạch dọc](./_images/nang-tuyen-bartholin/boc-lo-duong-rach.jpg)
-_Hình "Đường rạch dọc niêm mạc âm hộ để bộc lộ rõ vùng tuyến Bartholin" (Nguồn: Atlas of Pelvic Surgery)_.
+_Hình "Đường rạch dọc niêm mạc âm hộ để bộc lộ rõ vùng tuyến Bartholin". Nguồn: Atlas of Pelvic Surgery_.
 
 ![Kỹ thuật bóc tách nang tuyến Bartholin](./_images/nang-tuyen-bartholin/boc-tach-nang.jpg)
-_Hình "Sử dụng kéo tù phẫu thuật bóc tách tỉ mỉ vỏ nang ra khỏi các mô cơ liên kết" (Nguồn: Atlas of Pelvic Surgery)_.
+_Hình "Sử dụng kéo tù phẫu thuật bóc tách tỉ mỉ vỏ nang ra khỏi các mô cơ liên kết". Nguồn: Atlas of Pelvic Surgery_.
 
 ![Khâu phục hồi khoảng trống](./_images/nang-tuyen-bartholin/khau-phuc-hoi-khoang-trong.jpg)
-_Hình "Tiến hành khâu đóng các lớp cơ đáy vết mổ để xóa bỏ khoảng chết" (Nguồn: Atlas of Pelvic Surgery)_.
+_Hình "Tiến hành khâu đóng các lớp cơ đáy vết mổ để xóa bỏ khoảng chết". Nguồn: Atlas of Pelvic Surgery_.
 
 #### Chăm sóc và theo dõi sau phẫu thuật
 

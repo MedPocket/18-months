@@ -28,10 +28,10 @@ _Hình "PI trung bình của động mạch tử cung"_.
 
 _Bảng "Chỉ định Doppler động mạch tử cung tuần 17 - 22"_.
 
-| Chỉ định Doppler động mạch tử cung tuần 17 - 22 | Các chỉ định siêu âm Doppler khảo sát dòng chảy động mạch tử cung lúc thai 17 - 22 tuần                                                                                                                                           |
-| ----------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Tiền căn thai kỳ trước**                      | - Tăng huyết áp thai kỳ với khởi phát thai kỳ sớm<br > - Nhau bong non<br > - Thai chậm tăng trưởng trong tử cung<br > - Chết chu sinh<br > - Tăng huyết áp tồn tại trước khi mang thai<br > - Tăng huyết áp thai kỳ              |
-| **Yếu tố nguy cơ cho thai kỳ lần này**          | - Bệnh thận tồn tại trước khi mang thai<br > - Đái tháo đường type 1 lâu ngày với biến chứng mạch máu, bệnh cầu thận, bệnh lý võng mạc<br > - Bất thường về huyết thanh tầm soát free β-hCG hoặc AFP > 2.0 MoM<br > - PAPP-A thấp |
+| Chỉ định Doppler động mạch tử cung tuần 17 - 22 | Các chỉ định siêu âm Doppler khảo sát dòng chảy động mạch tử cung lúc thai 17 - 22 tuần                                                                                                                                        |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Tiền căn thai kỳ trước**                      | - Tăng huyết áp thai kỳ với khởi phát thai kỳ sớm<br> - Nhau bong non<br> - Thai chậm tăng trưởng trong tử cung<br> - Chết chu sinh<br> - Tăng huyết áp tồn tại trước khi mang thai<br> - Tăng huyết áp thai kỳ                |
+| **Yếu tố nguy cơ cho thai kỳ lần này**          | - Bệnh thận tồn tại trước khi mang thai<br> - Đái tháo đường type 1 lâu ngày với biến chứng mạch máu, bệnh cầu thận, bệnh lý võng mạc<br> - Bất thường về huyết thanh tầm soát free β-hCG hoặc AFP > 2.0 MoM<br> - PAPP-A thấp |
 
 Tầm soát bằng phổ Doppler động mạch tử cung được xem là bất thường khi chỉ số kháng trở (RI) > 0.57, chỉ số đập (PI) > bách phân vị 95th và/hoặc hiện diện notch ở động mạch tử cung.
 
