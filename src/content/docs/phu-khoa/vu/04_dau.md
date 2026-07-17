@@ -5,7 +5,7 @@ description: Tổng quan, chẩn đoán và điều trị đau vú.
 
 **Đau vú (mastalgia)** là triệu chứng thường gặp và là nguyên nhân chính khiến phụ nữ tìm đến khám tuyến vú.
 
-Khoảng 50% phụ nữ khi đến khám liên quan đến vấn đề đau vú. Có đến 60-70% phụ nữ từng trải qua ít nhất một lần đau vú ở mức độ nhẹ, trong khi khoảng 10-20% từng bị đau vú trầm trọng hơn.
+Khoảng 50% phụ nữ khi đến khám liên quan đến vấn đề đau vú. Có đến 60 - 70% phụ nữ từng trải qua ít nhất một lần đau vú ở mức độ nhẹ, trong khi khoảng 10 - 20% từng bị đau vú trầm trọng hơn.
 
 **Hai mối lo ngại lớn nhất** của người phụ nữ khi bị đau vú là:
 
@@ -49,8 +49,8 @@ Nguyên nhân chính của đau vú theo chu kỳ liên quan đến thay đổi 
 
 #### Đặc điểm
 
-- Thường gặp ở phụ nữ từ 30-40 tuổi, liên quan chặt chẽ đến chu kỳ kinh nguyệt.
-- Xuất hiện 1-2 tuần trước khi hành kinh, đau lan toả hai bên vú, khó định vị. Nhiều trường hợp đau nghiêm trọng hơn ở một bên vú.
+- Thường gặp ở phụ nữ từ 30 - 40 tuổi, liên quan chặt chẽ đến chu kỳ kinh nguyệt.
+- Xuất hiện 1 - 2 tuần trước khi hành kinh, đau lan toả hai bên vú, khó định vị. Nhiều trường hợp đau nghiêm trọng hơn ở một bên vú.
 - Người bệnh mô tả cảm giác nặng, căng tức, thậm chí có thể lan lên nách hoặc cánh tay.
 - Đau thường giảm dần hoặc hết hẳn khi hành kinh bắt đầu.
 - Triệu chứng có thể tự hết khi mang thai hoặc sau thời kỳ mãn kinh, nhưng cũng có một số phụ nữ vẫn bị đau vú kéo dài sau mãn kinh.
@@ -74,7 +74,7 @@ Nguyên nhân chính của đau vú theo chu kỳ liên quan đến thay đổi 
 
 #### Đặc điểm
 
-- Thường gặp ở phụ nữ 40-50 tuổi, giai đoạn gần hoặc sau mãn kinh.
+- Thường gặp ở phụ nữ 40 - 50 tuổi, giai đoạn gần hoặc sau mãn kinh.
 - Vị trí đau thường khu trú một bên, thường ở một phần tư vú (thường là 1/4 trên ngoài).
 - Bệnh nhân mô tả cảm giác nóng bỏng, nhói, đau liên tục hoặc tái phát không theo chu kỳ.
 
@@ -140,13 +140,13 @@ Việc điều trị đau vú chỉ được khuyến nghị khi triệu chứng
 - Nếu ≥ 35 tuổi và chưa có nhũ ảnh gần đây (< 1 năm), chỉ định nhũ ảnh kết hợp siêu âm (nếu cần).
 - Nếu < 35 tuổi, bắt đầu với siêu âm toàn bộ vú.
 - Nếu phát hiện khối bất thường hoặc bất kỳ hình ảnh nghi ngờ, thực hiện sinh thiết (FNA, core biopsy) tùy hướng dẫn hình ảnh.
-- Với các trường hợp đau vú lành tính, không có khối trên hình ảnh, áp dụng biện pháp không dùng thuốc, điều chỉnh lối sống và theo dõi sau 6-12 tuần.
+- Với các trường hợp đau vú lành tính, không có khối trên hình ảnh, áp dụng biện pháp không dùng thuốc, điều chỉnh lối sống và theo dõi sau 6 - 12 tuần.
 - Nếu không cải thiện, cân nhắc điều trị nội tiết tố theo thứ tự: Tamoxifen → Danazol → Bromocriptine (chỉ khi thật cần và có giám sát).
 
-_Hình ảnh "Điều trị đau vú - Phác đồ Cardiff, 2009"_.
+_Hình "Điều trị đau vú - Phác đồ Cardiff, 2009"_.
 ![Điều trị đau vú - Phác đồ Cardiff, 2009](./_images/dau-vu/dieu-tri-dau-vu-theo-phac-do-cardiff.png)
 
-_Hình ảnh "Đánh giá và xử trí đau vú - Bệnh viện Từ Dũ"_.
+_Hình "Đánh giá và xử trí đau vú - Bệnh viện Từ Dũ"_.
 ![Đánh giá và xử trí đau vú - Bệnh viện Từ Dũ](./_images/dau-vu/danh-gia-va-xu-tri-dau-vu.png)
 
 ### Không dùng thuốc
@@ -179,17 +179,17 @@ _Hình ảnh "Đánh giá và xử trí đau vú - Bệnh viện Từ Dũ"_.
 
 ### Nội khoa
 
-Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 2-6 tháng, khi biện pháp không dùng thuốc không hiệu quả.
+Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 2 - 6 tháng, khi biện pháp không dùng thuốc không hiệu quả.
 
 **Thuốc tránh thai kết hợp (COCs):**
 
 - Ở một số phụ nữ, COCs liều thấp (Ethinylestradiol 20 μg phối hợp một progestin) giúp cân bằng nội tiết, giảm đau vú.
-- Một số phụ nữ khởi dùng COCs có thể bị đau vú tăng lên trong 1-2 chu kỳ đầu.
+- Một số phụ nữ khởi dùng COCs có thể bị đau vú tăng lên trong 1 - 2 chu kỳ đầu.
 - Nếu dùng COCs, cần theo dõi sát sao và đánh giá lại sau 3 tháng.
 
 **Progestogen (progesterone):**
 
-- Các progestogen đường uống như lynestrenol hoặc promegestone dùng trong pha hoàng thể (ngày 14-28) có thể cải thiện đau vú ở 66-80% phụ nữ.
+- Các progestogen đường uống như lynestrenol hoặc promegestone dùng trong pha hoàng thể (ngày 14 - 28) có thể cải thiện đau vú ở 66 - 80% phụ nữ.
 - Có thể dùng progestogen tại chỗ (gel hoặc kem thoa) nếu chỉ đau khu trú, nhưng bằng chứng còn hạn chế.
 
 **Tamoxifen:**
@@ -203,7 +203,7 @@ Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 
 
 - Danazol (200 mg/ngày) chẹn gonadotropin, có tác dụng androgen nhẹ, giảm đau vú ở 70% chu kỳ và 31% không theo chu kỳ.
 - Tác dụng phụ nặng: Rậm lông, mụn trứng cá, giọng trầm, tăng cân, rối loạn kinh nguyệt, thay đổi tâm thần kinh. Tiếp tục ngưng nếu xuất hiện triệu chứng nam hóa hoặc trầm cảm.
-- Chỉ dùng khi thất bại với Tamoxifen (3-6 tháng), duy trì tối thiểu 3 tháng, tối đa 6 tháng.
+- Chỉ dùng khi thất bại với Tamoxifen (3 - 6 tháng), duy trì tối thiểu 3 tháng, tối đa 6 tháng.
 - Cảnh báo: Gây quái thai, phụ nữ dùng cần kết hợp biện pháp tránh thai không hormone (ví dụ dùng bao cao su).
 
 **Bromocriptine:**
@@ -220,5 +220,5 @@ Do nguy cơ tác dụng phụ, liệu pháp nội tiết chỉ nên dùng trong 
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.

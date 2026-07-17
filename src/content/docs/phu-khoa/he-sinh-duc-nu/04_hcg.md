@@ -3,7 +3,7 @@ title: hCG (human Chorionic Gonadotropin)
 description: Tổng quan về hormone hCG.
 ---
 
-**hCG** là glycoprotein nặng 36-40 kDa, chứa tỉ lệ carbohydrate cao nhất trong các hormone người.
+**hCG** là glycoprotein nặng 36 - 40 kDa, chứa tỉ lệ carbohydrate cao nhất trong các hormone người.
 
 ## Nguồn gốc
 
@@ -50,24 +50,24 @@ description: Tổng quan về hormone hCG.
 
 **Có thai:** > 25 mIU/mL (que thử 20-25 mIU/mL). **Tăng gấp đôi:** Mỗi 48 giờ trong 6 tuần đầu; Đỉnh 8-10 tuần (100,000 mIU/mL); Sau giảm đạt ổn định 16-20 tuần.
 
-**Động học sau sảy thai:** Giảm ≥ 21-35% mỗi 48 giờ; < 20% gợi ý sót rau hoặc thai ngoài tử cung.
+**Động học sau sảy thai:** Giảm ≥ 21 - 35% mỗi 48 giờ; < 20% gợi ý sót rau hoặc thai ngoài tử cung.
 
 ### Ngưỡng β-hCG
 
 _Bảng "Ngưỡng β-hCG"_.
 
-| Tuổi thai             | Mức β-hCG (mIU/mL) |
-| --------------------- | ------------------ |
-| **3 tuần**            | 5-50               |
-| **4 tuần**            | 5-426              |
-| **5 tuần**            | 18-7340            |
-| **6 tuần**            | 1080-56 500        |
-| **7-8 tuần**          | 7650-229 000       |
-| **9-12 tuần**         | 25700-288 000      |
-| **13-16 tuần**        | 13300-254 000      |
-| **17-24 tuần**        | 4060-165 400       |
-| **25 tuần-sinh**      | 3640-117 000       |
-| **4-6 tuần sau sinh** | < 5                |
+| Tuổi thai               | Mức β-hCG (mIU/mL) |
+| ----------------------- | ------------------ |
+| **3 tuần**              | 5 - 50             |
+| **4 tuần**              | 5 - 426            |
+| **5 tuần**              | 18 - 7340          |
+| **6 tuần**              | 1080 - 56 500      |
+| **7 - 8 tuần**          | 7650 - 229 000     |
+| **9 - 12 tuần**         | 25700 - 288 000    |
+| **13 - 16 tuần**        | 13300 - 254 000    |
+| **17 - 24 tuần**        | 4060 - 165 400     |
+| **25 tuần-sinh**        | 3640 - 117 000     |
+| **4 - 6 tuần sau sinh** | < 5                |
 
 :::caution
 Nếu β-hCG > 1500 mIU/mL (siêu âm đầu dò âm đạo) hoặc > 3000 mIU/mL (siêu âm qua thành bụng) mà không thấy túi thai → cân nhắc thai ngoài tử cung hoặc thai bất thường.
@@ -75,5 +75,5 @@ Nếu β-hCG > 1500 mIU/mL (siêu âm đầu dò âm đạo) hoặc > 3000 mIU/m
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
-- American Pregnancy Association - _Early Fetal Development_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+- American Pregnancy Association - _Early Fetal Development_.

@@ -13,8 +13,8 @@ Trong thai kỳ, sự thay đổi về miễn dịch và nội tiết có thể 
 
 ## Dịch tễ học
 
-- Giảm tiểu cầu miễn dịch chiếm khoảng 3-5% các trường hợp giảm tiểu cầu trong thai kỳ.
-- Tỷ lệ ước tính khoảng 1-2 trường hợp trên 1000 thai phụ.
+- Giảm tiểu cầu miễn dịch chiếm khoảng 3 - 5% các trường hợp giảm tiểu cầu trong thai kỳ.
+- Tỷ lệ ước tính khoảng 1 - 2 trường hợp trên 1000 thai phụ.
 - Bệnh có thể được chẩn đoán lần đầu trong thai kỳ hoặc tồn tại từ trước khi mang thai.
 
 ## Chẩn đoán

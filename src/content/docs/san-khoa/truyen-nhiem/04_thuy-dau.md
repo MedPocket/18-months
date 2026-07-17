@@ -7,7 +7,7 @@ description: Quản lý thủy đậu trong thai kỳ.
 
 ## Dịch tễ
 
-Bệnh xảy ra quanh năm, tăng cao vào **mùa xuân - đầu hè (tháng 2-6)**. Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; Dễ thành dịch nhỏ nếu không cách ly kịp thời.
+Bệnh xảy ra quanh năm, tăng cao vào **mùa xuân - đầu hè (tháng 2 - 6)**. Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; Dễ thành dịch nhỏ nếu không cách ly kịp thời.
 
 Nguồn lây duy nhất là người mắc thủy đậu và người bị zona. **Đường truyền:**
 
@@ -24,15 +24,15 @@ Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch 
 
 **Lâm sàng:**
 
-- Khởi phát với sốt nhẹ hoặc vừa (37.5-39 °C), đau đầu, mệt mỏi, chán ăn.
+- Khởi phát với sốt nhẹ hoặc vừa (37.5 - 39 °C), đau đầu, mệt mỏi, chán ăn.
 - Phát ban mụn nước mọc từng đợt không đồng đều: Có cả mụn mới và mụn đã đóng vảy cùng lúc.
 - Vị trí khởi phát thường ở mặt, thân mình, sau lan toàn thân.
-- Mụn nước tròn, đường kính 2-5 mm, có thể ngứa; Vài ngày sau vỡ → đóng vảy → lành không để sẹo (trừ khi bội nhiễm).
-- Diễn tiến tự giới hạn, thường 7-10 ngày.
+- Mụn nước tròn, đường kính 2 - 5 mm, có thể ngứa; Vài ngày sau vỡ → đóng vảy → lành không để sẹo (trừ khi bội nhiễm).
+- Diễn tiến tự giới hạn, thường 7 - 10 ngày.
 
 **Yếu tố dịch tễ:**
 
-- Tiếp xúc với người mắc thủy đậu trong vòng 10-21 ngày.
+- Tiếp xúc với người mắc thủy đậu trong vòng 10 - 21 ngày.
 - Dịch thủy đậu đang lưu hành trong cộng đồng.
 - Chưa tiêm vaccine hoặc chưa mắc bệnh trước đó.
 
@@ -46,7 +46,7 @@ Chẩn đoán xác định chủ yếu dựa vào lâm sàng kết hợp dịch 
 
 ## Biến chứng
 
-### Giai đoạn sớm (tuần 1-12)
+### Giai đoạn sớm (tuần 1 - 12)
 
 Nhiễm thủy đậu có thể gây **hội chứng thủy đậu bẩm sinh** với tỷ lệ khoảng 0.4% nếu mẹ mắc trong 13 tuần đầu, gồm:
 
@@ -56,7 +56,7 @@ Nhiễm thủy đậu có thể gây **hội chứng thủy đậu bẩm sinh** 
 - Biến dạng cơ xương, thấp lùn.
 - Vấn đề tim mạch và hô hấp.
 
-### Giai đoạn giữa và cuối (tuần 13-40)
+### Giai đoạn giữa và cuối (tuần 13 - 40)
 
 - **Viêm phổi do thủy đậu ở mẹ:** Biến chứng nguy hiểm, có thể tử vong.
 - Nếu mẹ nhiễm gần ngày sinh, thai nhi có thể lây VZV và phát bệnh ngay sau sinh, thường nặng và cần điều trị tích cực.
@@ -88,7 +88,7 @@ Nhiễm thủy đậu có thể gây **hội chứng thủy đậu bẩm sinh** 
 
 - Cách ly người bệnh cho đến khi mụn nước khô vảy hoàn toàn.
 - Vệ sinh cá nhân và môi trường (khử khuẩn bề mặt, giặt giũ đồ dùng).
-- Tiêm vaccine thủy đậu sống giảm độc lực (hiệu quả 85-95%) **trước khi mang thai ít nhất 1 tháng.**
+- Tiêm vaccine thủy đậu sống giảm độc lực (hiệu quả 85 - 95%) **trước khi mang thai ít nhất 1 tháng.**
 - Phụ nữ mang thai không tiêm vaccine sống.
 - Nếu mẹ tiếp xúc VZV và chưa có miễn dịch, có thể tiêm immunoglobulin đặc hiệu (_Varicella-Zoster_ IG) 125-250 đơn vị tiêm bắp/liều, tùy nguy cơ.
 

@@ -3,17 +3,17 @@ title: Thiếu máu thiếu sắt trong thai kỳ
 description: Thiếu máu thiếu sắt trong thai kỳ.
 ---
 
-Thiếu máu thiếu sắt trong thai kỳ là tình trạng phổ biến, chiếm khoảng 40-50% các ca thiếu máu ở phụ nữ mang thai, và là nguyên nhân hàng đầu gây mệt mỏi, sinh non, nhẹ cân và băng huyết sau sinh nếu không được chẩn đoán và điều trị kịp thời.
+Thiếu máu thiếu sắt trong thai kỳ là tình trạng phổ biến, chiếm khoảng 40 - 50% các ca thiếu máu ở phụ nữ mang thai, và là nguyên nhân hàng đầu gây mệt mỏi, sinh non, nhẹ cân và băng huyết sau sinh nếu không được chẩn đoán và điều trị kịp thời.
 
 ## Hậu quả
 
 _Bảng "Đối tượng thiếu sắt trong thai kỳ"_.
 
-| Đối tượng                 | Thiếu máu thiếu sắt                                                                                                                          | Thiếu máu thiếu acid folic                                                                                                                                    |
-| ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Phụ nữ mọi lứa tuổi**   | - Giảm trí nhớ<br>- Khả năng tư duy kém<br>- Giảm năng suất lao động                                                                         | - Giảm miễn dịch                                                                                                                                              |
-| **Phụ nữ mang thai**      | - Sảy thai/sinh non<br>- Chậm tăng trưởng trong tử cung<br>- Băng huyết sau sinh<br>- Tăng nguy cơ tử vong mẹ và con<br>- Mệt mỏi, chóng mặt | - Bệnh lý bánh nhau (nhau tiền đạo)<br>- Dị tật thai nhi:<br> + Tật ống thần kinh<br> + Gai đôi cột sống<br> + Thoát vị não<br> + Thai vô sọ<br> + Hở hàm ếch |
-| **Trẻ sơ sinh và trẻ em** | - Nhẹ cân<br>- Suy dinh dưỡng<br>- Tử vong chu sinh<br>- Mệt mỏi, tiếp thu chậm                                                              | - Tử vong chu sinh                                                                                                                                            |
+| Đối tượng                 | Thiếu máu thiếu sắt                                                                                                                                  | Thiếu máu thiếu acid folic                                                                                                                                           |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Phụ nữ mọi lứa tuổi**   | - Giảm trí nhớ<br > - Khả năng tư duy kém<br > - Giảm năng suất lao động                                                                             | - Giảm miễn dịch                                                                                                                                                     |
+| **Phụ nữ mang thai**      | - Sảy thai/sinh non<br > - Chậm tăng trưởng trong tử cung<br > - Băng huyết sau sinh<br > - Tăng nguy cơ tử vong mẹ và con<br > - Mệt mỏi, chóng mặt | - Bệnh lý bánh nhau (nhau tiền đạo)<br > - Dị tật thai nhi:<br > + Tật ống thần kinh<br > + Gai đôi cột sống<br > + Thoát vị não<br > + Thai vô sọ<br > + Hở hàm ếch |
+| **Trẻ sơ sinh và trẻ em** | - Nhẹ cân<br > - Suy dinh dưỡng<br > - Tử vong chu sinh<br > - Mệt mỏi, tiếp thu chậm                                                                | - Tử vong chu sinh                                                                                                                                                   |
 
 ## Chẩn đoán
 
@@ -48,7 +48,7 @@ _Bảng "Bổ sung sắt trong thai kỳ"_.
 | Giai đoạn        | Hemoglobin (g/dL) | Ferritin (µg/L) | Khuyến cáo             |
 | ---------------- | ----------------- | --------------- | ---------------------- |
 | **3 tháng đầu**  | < 9               | Bất kỳ          | Đánh giá bệnh nội khoa |
-|                  | 9-10.9            | > 30            | Đánh giá bệnh nội khoa |
+|                  | 9 - 10.9          | > 30            | Đánh giá bệnh nội khoa |
 |                  | 9-10.9            | 12-20           | 30 mg sắt/ngày         |
 |                  | ≥ 11              | ≤ 20            | 30 mg sắt/ngày         |
 |                  | 9-10.9            | < 12            | 60-120 mg sắt/ngày     |
@@ -65,4 +65,4 @@ _Bảng "Bổ sung sắt trong thai kỳ"_.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.

@@ -12,8 +12,8 @@ description: Thai nghén thất bại sớm liên tiếp.
 
 ### Vật chất di truyền
 
-- **Bất thường di truyền phôi** chiếm 86-91% RPL. Tuổi mẹ càng cao càng tăng nguy cơ RPL. Khuyến cáo **xét nghiệm array-CGH cho mô thai tống xuất** để xác định nguyên nhân, hạn chế nhiễm chéo từ mẹ.
-- **Bất thường nhiễm sắc thể ở bố mẹ** (chuyển đoạn, đảo đoạn...) chiếm 1.9-3.5% RPL; Chỉ làm karyotype khi có yếu tố nguy cơ gia đình.
+- **Bất thường di truyền phôi** chiếm 86 - 91% RPL. Tuổi mẹ càng cao càng tăng nguy cơ RPL. Khuyến cáo **xét nghiệm array-CGH cho mô thai tống xuất** để xác định nguyên nhân, hạn chế nhiễm chéo từ mẹ.
+- **Bất thường nhiễm sắc thể ở bố mẹ** (chuyển đoạn, đảo đoạn...) chiếm 1.9 - 3.5% RPL; Chỉ làm karyotype khi có yếu tố nguy cơ gia đình.
 - **Tầm soát tiền làm tổ (PGT)** phát hiện lệch bội và bất thường DNA ty thể/phôi.
 - **Phân tích di truyền phôi thai (POC):** Có thể thực hiện cho mục đích giải thích.
 
@@ -21,22 +21,22 @@ description: Thai nghén thất bại sớm liên tiếp.
 
 - Siêu âm 3D là lựa chọn đầu tay, có thể thay thế bằng SIS hoặc MRI nếu cần.
 
-  _Bảng "Bất thường giải phẫu tử cung"_.
+_Bảng "Bất thường giải phẫu tử cung"_.
 
-  | Bất thường giải phẫu tử cung                          | Điều trị                                                                                                   |
-  | ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-  | **Tử cung có vách ngăn**                              | Nội soi buồng tử cung cắt vách ngăn                                                                        |
-  | **U xơ tử cung**                                      | Nội soi buồng tử cung cắt u xơ dưới niêm mạc hoặc phẫu thuật tối thiểu trên u xơ có biến dạng lòng tử cung |
-  | **Polyp nội mạc tử cung**                             | Nội soi buồng tử cung cắt polyp                                                                            |
-  | **Dính buồng tử cung**                                | Nội soi cắt dính và phòng ngừa dính tái phát                                                               |
-  | **Các dị dạng khác (tử cung đôi, tử cung 2 sừng...)** | Không khuyến cáo can thiệp do thiếu chứng cứ lợi ích                                                       |
+| Bất thường giải phẫu tử cung                          | Điều trị                                                                                                   |
+| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| **Tử cung có vách ngăn**                              | Nội soi buồng tử cung cắt vách ngăn                                                                        |
+| **U xơ tử cung**                                      | Nội soi buồng tử cung cắt u xơ dưới niêm mạc hoặc phẫu thuật tối thiểu trên u xơ có biến dạng lòng tử cung |
+| **Polyp nội mạc tử cung**                             | Nội soi buồng tử cung cắt polyp                                                                            |
+| **Dính buồng tử cung**                                | Nội soi cắt dính và phòng ngừa dính tái phát                                                               |
+| **Các dị dạng khác (tử cung đôi, tử cung 2 sừng...)** | Không khuyến cáo can thiệp do thiếu chứng cứ lợi ích                                                       |
 
 - Khảo sát hệ niệu khi phát hiện dị dạng.
 
 ### Tăng đông
 
 - **Thrombophilia di truyền (Factor V Leiden, Prothrombin G20210A, Protein C/S, Antithrombin III, MTHFR)** không khuyến cáo sàng lọc thường quy.
-- **Hội chứng kháng phospholipid (APS)** chiếm 8-42% các trường hợp. Cần xét nghiệm Lupus anticoagulant và anticardiolipin antibodies với chứng cứ mạnh; Β2-Glycoprotein 1 antibodies cân nhắc.
+- **Hội chứng kháng phospholipid (APS)** chiếm 8 - 42% các trường hợp. Cần xét nghiệm Lupus anticoagulant và anticardiolipin antibodies với chứng cứ mạnh; Β2-Glycoprotein 1 antibodies cân nhắc.
 
 ### Miễn dịch
 
@@ -89,5 +89,5 @@ description: Thai nghén thất bại sớm liên tiếp.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
 - GS.TS.BS. Cao Ngọc Thành - [_Sẩy thai tái phát: Cập nhật chẩn đoán và điều trị 2025_](https://drive.google.com/file/d/1Km3EM_KxV_NAYusCTUyfEXqNXwFOxVwU)

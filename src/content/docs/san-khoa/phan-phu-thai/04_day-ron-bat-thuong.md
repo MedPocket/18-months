@@ -94,4 +94,4 @@ Khi màng ối vỡ, các mạch máu có thể bị vỡ, làm tăng nguy cơ t
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.

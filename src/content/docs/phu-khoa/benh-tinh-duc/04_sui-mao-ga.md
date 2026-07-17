@@ -6,13 +6,13 @@ description: Tổng quan, chẩn đoán và điều trị sùi mào gà.
 **Bệnh sùi mào gà (Condyloma acuminata)** là một bệnh lý lây truyền qua đường tình dục do virus HPV (Human Papillomavirus) gây ra, đặc biệt là các chủng nguy cơ thấp như HPV týp 6 và 11. Đây là loại virus DNA không vỏ, có ái tính mạnh với biểu mô lát tầng. Virus HPV còn được chia thành hai nhóm chính: nhóm nguy cơ thấp (gây sùi mào gà, mụn cóc) và nhóm nguy cơ cao (gây ung thư cổ tử cung, dương vật, hậu môn...).
 
 ![Sùi mào gà vùng sinh dục](./_images/sui-mao-ga/sui-mao-ga.png)
-_Hình ảnh "Sùi mào gà vùng sinh dục"_.
+_Hình "Sùi mào gà vùng sinh dục"_.
 
 ## Chẩn đoán
 
 ### Lâm sàng
 
-**Thời gian ủ bệnh** trung bình từ 2-8 tháng (có thể kéo dài tới 1 năm). Trong thời gian này, bệnh nhân có thể không có triệu chứng nhưng vẫn có khả năng lây lan cho bạn tình.
+**Thời gian ủ bệnh** trung bình từ 2 - 8 tháng (có thể kéo dài tới 1 năm). Trong thời gian này, bệnh nhân có thể không có triệu chứng nhưng vẫn có khả năng lây lan cho bạn tình.
 
 **Đặc điểm tổn thương:**
 
@@ -37,7 +37,7 @@ _Hình ảnh "Sùi mào gà vùng sinh dục"_.
 
 **Soi cổ tử cung:**
 
-- Dùng **acid acetic 3-5%** bôi lên vùng nghi ngờ → vùng nhiễm HPV sẽ chuyển sang màu trắng đục.
+- Dùng **acid acetic 3 - 5%** bôi lên vùng nghi ngờ → vùng nhiễm HPV sẽ chuyển sang màu trắng đục.
 - Sinh thiết tổn thương nghi ngờ ác tính hoặc kéo dài không cải thiện.
 
 **Sinh thiết:**
@@ -81,7 +81,7 @@ _Hình ảnh "Sùi mào gà vùng sinh dục"_.
 - Bôi 3 lần/tuần, rửa sạch sau 6-10 giờ; điều trị đến khi tổn thương biến mất (tối đa 16 tuần).
 - Dùng được cho phụ nữ mang thai (dưới chỉ định bác sĩ).
 
-**Trichloroacetic acid (TCA) 80-90%:**
+**Trichloroacetic acid (TCA) 80 - 90%:**
 
 - Do bác sĩ bôi tại chỗ tổn thương 1-2 lần/tuần.
 - Gây hoại tử mô tại chỗ, không ảnh hưởng mô lành nếu dùng đúng cách.
@@ -109,12 +109,12 @@ _Hình ảnh "Sùi mào gà vùng sinh dục"_.
 
 _Bảng "Điều trị sùi mào gà"_.
 
-| Phương pháp điều trị                  | Ghi chú                                                                                                                          |
-| ------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **Trichloroacetic acid (TCA) 80-90%** | Bôi tại chỗ bởi bác sĩ. An toàn cho thai kỳ.                                                                                     |
-| **Đốt điện - Laser - Phẫu thuật**     | Áp dụng cho sùi lớn, tắc âm đạo. Nên thực hiện ở tam cá nguyệt 2-3.                                                              |
-| **Imiquimod 5%**                      | Chưa khuyến cáo dùng do thiếu dữ liệu an toàn hoàn toàn. Chỉ cân nhắc nếu lợi ích vượt trội nguy cơ, có chỉ định của chuyên gia. |
-| **Podophyllotoxin/Podophyllin**       | **Chống chỉ định tuyệt đối** trong thai kỳ. Gây độc cho thai.                                                                    |
+| Phương pháp điều trị                    | Ghi chú                                                                                                                          |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Trichloroacetic acid (TCA) 80 - 90%** | Bôi tại chỗ bởi bác sĩ. An toàn cho thai kỳ.                                                                                     |
+| **Đốt điện - Laser - Phẫu thuật**       | Áp dụng cho sùi lớn, tắc âm đạo. Nên thực hiện ở tam cá nguyệt 2 - 3.                                                            |
+| **Imiquimod 5%**                        | Chưa khuyến cáo dùng do thiếu dữ liệu an toàn hoàn toàn. Chỉ cân nhắc nếu lợi ích vượt trội nguy cơ, có chỉ định của chuyên gia. |
+| **Podophyllotoxin/Podophyllin**         | **Chống chỉ định tuyệt đối** trong thai kỳ. Gây độc cho thai.                                                                    |
 
 **Xử trí khi chuyển dạ:**
 
@@ -124,13 +124,13 @@ _Bảng "Điều trị sùi mào gà"_.
 **Sau sinh:**
 
 - Nhiều trường hợp **tổn thương sùi thoái lui tự nhiên sau sinh.**
-- Nếu không tự khỏi, nên **điều trị triệt để sau 6-8 tuần hậu sản.**
+- Nếu không tự khỏi, nên **điều trị triệt để sau 6 - 8 tuần hậu sản.**
 - Nên **tiêm vaccine HPV sau sinh** (nếu chưa tiêm trước đó), không chống chỉ định với cho con bú.
 
 ### Theo dõi sau điều trị
 
-- **Tái khám định kỳ sau 2-4 tuần** để đánh giá đáp ứng.
-- **Khám lại sau 3-6 tháng**, vì trên 30% bệnh nhân có thể tái phát.
+- **Tái khám định kỳ sau 2 - 4 tuần** để đánh giá đáp ứng.
+- **Khám lại sau 3 - 6 tháng**, vì trên 30% bệnh nhân có thể tái phát.
 - Nếu tổn thương tái đi tái lại, cần **làm xét nghiệm HPV type** và sàng lọc ung thư cổ tử cung (ở nữ).
 
 ## Phòng bệnh
@@ -148,6 +148,6 @@ _Bảng "Điều trị sùi mào gà"_.
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế (2021) - _Hướng dẫn chẩn đoán và điều trị sùi mào gà_
-- CDC (2021) - _Sexually Transmitted Infections Treatment Guidelines_
-- WHO - _Human papillomavirus (HPV) and cervical cancer fact sheet_
+- Bộ Y tế (2021) - _Hướng dẫn chẩn đoán và điều trị sùi mào gà_.
+- CDC (2021) - _Sexually Transmitted Infections Treatment Guidelines_.
+- WHO - _Human papillomavirus (HPV) and cervical cancer fact sheet_.

@@ -3,7 +3,7 @@ title: Buồng trứng đa nang
 description: Tổng quan chẩn đoán và điều trị hội chứng buồng trứng đa nang (PCOS).
 ---
 
-**Hội chứng buồng trứng đa nang (PCOS - Polycystic Ovary Syndrome)** là rối loạn nội tiết-chuyển hóa thường gặp (5-10% phụ nữ trong độ tuổi sinh sản) với 3 dấu ấn chính:
+**Hội chứng buồng trứng đa nang (PCOS - Polycystic Ovary Syndrome)** là rối loạn nội tiết-chuyển hóa thường gặp (5 - 10% phụ nữ trong độ tuổi sinh sản) với 3 dấu ấn chính:
 
 - Rối loạn phóng noãn (rong kinh, kinh thưa, vô kinh).
 - Cường androgen (rậm lông, mụn, hói đầu, cường testosterone).
@@ -66,17 +66,17 @@ Chẩn đoán hội chứng chuyển hóa khi có ≥ 3/5 tiêu chuẩn:
 
 _Bảng "Hội chứng chuyển hóa"_.
 
-| Yếu tố nguy cơ | Ngưỡng bất thường                                    |
-| -------------- | ---------------------------------------------------- |
-| Vòng eo        | > 80 cm                                              |
-| Triglycerides  | ≥ 150 mg/dL                                          |
-| HDL-C          | < 50 mg/dL                                           |
-| Huyết áp       | ≥ 130/85 mmHg                                        |
-| Đường huyết    | 110-126 mg/dL (đói) hoặc 140-199 mg/dL (2h sau OGTT) |
+| Yếu tố nguy cơ | Ngưỡng bất thường                                     |
+| -------------- | ----------------------------------------------------- |
+| Vòng eo        | > 80 cm                                               |
+| Triglycerides  | ≥ 150 mg/dL                                           |
+| HDL-C          | < 50 mg/dL                                            |
+| Huyết áp       | ≥ 130/85 mmHg                                         |
+| Đường huyết    | 110-126 mg/dL (đói) hoặc 140-199 mg/dL (2 h sau OGTT) |
 
 Khuyến cáo OGTT 75 g đường để sàng lọc; HbA1c/đường đói chỉ mang tính tham khảo.
 
-Ở phụ nữ mang thai: nên làm OGTT lần đầu, và lặp lại 24-28 tuần.
+Ở phụ nữ mang thai: nên làm OGTT lần đầu, và lặp lại 24 - 28 tuần.
 
 ### Nguy cơ tim mạch
 
@@ -107,7 +107,7 @@ Mục tiêu: Kiểm soát kinh nguyệt, điều trị cường androgen, hội 
 **Viên kết hợp (EE + progestogen kháng androgen: cyproterone, drospirenone):**
 
 - Điều hòa kinh nguyệt, giảm nguy cơ tăng sản nội mạc tử cung.
-- Liều EE thấp (20-30 µg) được ưu tiên.
+- Liều EE thấp (20 - 30 µg) được ưu tiên.
 - Không nên dùng liên tục; chu kỳ 3-4 tháng/lần.
 - EE 35 µg + cyproterone acetate là lựa chọn hàng 2.
 
@@ -138,7 +138,7 @@ Laser/ánh sáng: Giảm rậm lông, cải thiện chất lượng sống.
 
 **Mục tiêu:** Gây phóng noãn đơn nang, giảm đa thai, giảm quá kích buồng trứng.
 
-_Hình ảnh "Lược đồ điều trị hiếm muộn cho phụ nữ buồng trứng đa nang" - HOREM_.
+_Hình "Lược đồ điều trị hiếm muộn cho phụ nữ buồng trứng đa nang" - HOREM_.
 ![Lược đồ điều trị hiếm muộn cho phụ nữ PCOS](./_images/pcos/horem-dieu-tri-hiem-muon-cho-phu-nu-pcos.png)
 
 #### Thay đổi lối sống
@@ -150,7 +150,7 @@ _Hình ảnh "Lược đồ điều trị hiếm muộn cho phụ nữ buồng t
 Letrozole (LE) là lựa chọn đầu tay:
 
 - Đây là chất ức chế aromatase → ức chế tổng hợp androgen thành estrogen → giảm feedback âm tính → tăng FSH nội sinh → kích thích phát triển nang noãn.
-- Liều: Femara 2.5-7.5 mg x 5 ngày (từ ngày 2-4 của chu kỳ), tối đa 7.5 mg.
+- Liều: Femara 2.5 - 7.5 mg x 5 ngày (từ ngày 2 - 4 của chu kỳ), tối đa 7.5 mg.
 - Nang đáp ứng > 10 mm, E2 < 70 pg/mL, P4 < 1 ng/mL. Dùng từ 2-3 chu kỳ kinh.
 - Tỷ lệ đa thai thấp hơn clomiphene.
 

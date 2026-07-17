@@ -14,16 +14,16 @@ _Bảng "Điểm Bishop"_.
 
 | Điểm Bishop - đánh giá độ chín muồi cổ tử cung | 0 điểm       | 1 điểm     | 2 điểm                   | 3 điểm         |
 | ---------------------------------------------- | ------------ | ---------- | ------------------------ | -------------- |
-| **Độ mở cổ tử cung**                           | đóng         | 1-2 cm     | 3-4 cm                   | ≥ 5 cm         |
-| **Độ xóa cổ tử cung**                          | 0-30%        | 40-50%     | 60-70%                   | ≥ 80%          |
+| **Độ mở cổ tử cung**                           | đóng         | 1 - 2 cm   | 3 - 4 cm                 | ≥ 5 cm         |
+| **Độ xóa cổ tử cung**                          | 0 - 30%      | 40 - 50%   | 60 - 70%                 | ≥ 80%          |
 | **Mật độ cổ tử cung**                          | chắc         | trung bình | mềm                      | —              |
 | **Hướng cổ tử cung**                           | sau          | trung gian | trước                    | —              |
 | **Độ lọt ngôi thai**                           | di động (-3) | chúc (-2)  | ghim chặt/lọt cao (-1/0) | đã lọt (+1,+2) |
 
-- **Tổng ≥ 10:** Sinh trong 2-3 giờ.
-- **7-9:** Sinh trong 8 giờ.
-- **5-6:** Tiên lượng dè dặt.
-- **< 5:** Nguy cơ thất bại khi khởi phát chuyển dạ.
+- **Tổng ≥ 10:** Sinh trong 2 - 3 giờ.
+- **7 - 9:** Sinh trong 8 giờ.
+- **5 - 6:** Tiên lượng dè dặt.
+- ** < 5:** Nguy cơ thất bại khi khởi phát chuyển dạ.
 
 ## Chỉ định
 
@@ -95,7 +95,7 @@ _Bảng "Thuốc tăng co tử cung"_.
 **Liều dùng:**
 
 - 100 µg tiêm bắp một lần sau sổ rau.
-- **Thời gian bán hủy:** 40 phút; Co tử cung kéo dài 1-2 giờ.
+- **Thời gian bán hủy:** 40 phút; Co tử cung kéo dài 1 - 2 giờ.
 
 **Tác dụng phụ:** Đau co tử cung, buồn nôn, bốc hỏa.
 
@@ -129,4 +129,4 @@ _Bảng "Thuốc tăng co tử cung"_.
 
 ## Tài liệu tham khảo
 
-- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản Phụ khoa_
+- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản Phụ khoa_.

@@ -35,7 +35,7 @@ Theo ACOG, giữ lại buồng trứng nếu chưa mãn kinh. Tuy nhiên, xét n
 
 ## Các giai đoạn
 
-_Hình ảnh "Các giai đoạn ung thư buồng trứng theo FIGO"_.
+_Hình "Các giai đoạn ung thư buồng trứng theo FIGO"_.
 ![Các giai đoạn ung thư buồng trứng theo FIGO](./_images/phong-ngua-ung-thu-buong-trung/giai-doan-ung-thu-buong-trung-theo-figo.png)
 
 **Giai đoạn I** (chỉ ở buồng trứng):
@@ -60,4 +60,4 @@ _Hình ảnh "Các giai đoạn ung thư buồng trứng theo FIGO"_.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.

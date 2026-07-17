@@ -25,7 +25,7 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 
 - Nhân xơ **đoạn dưới tử cung** có nguy cơ bế sản dịch, viêm nội mạc sau mổ.
 - Nhân xơ **gần đường rạch** cơ tử cung, gây khó khâu vết mổ.
-- Nhân xơ **dưới thanh mạc có cuống** (FIGO 5-7), bóc dễ, không làm tăng đáng kể chảy máu.
+- Nhân xơ **dưới thanh mạc có cuống** (FIGO 5 - 7), bóc dễ, không làm tăng đáng kể chảy máu.
 
 **Theo dõi sau phẫu thuật:** Phụ nữ từng bóc u đoạn dưới có thể **sinh thường** các lần sau, nhưng phải theo dõi sát cơn chuyển dạ và vết mổ cũ.
 
@@ -50,5 +50,5 @@ Trước can thiệp, bệnh nhân phải được tư vấn về nguy cơ dính
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.

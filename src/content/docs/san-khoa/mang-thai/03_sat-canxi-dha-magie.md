@@ -128,7 +128,7 @@ _Bảng "Sử dụng sắt, canxi, DHA trong ngày"_.
 - DHA nên chọn loại tinh khiết, không mùi tanh; Uống sau ăn để hấp thu tốt hơn.
 - Magie nên uống sau bữa ăn nhẹ để giảm nguy cơ tiêu chảy.
 - Tránh uống canxi với cà phê, trà, nước ngọt có ga vì làm giảm hấp thu.
-- Uống đủ nước mỗi ngày (1.5-2 L) để hỗ trợ tiêu hóa và phòng táo bón.
+- Uống đủ nước mỗi ngày (1.5 - 2 L) để hỗ trợ tiêu hóa và phòng táo bón.
 
 :::
 

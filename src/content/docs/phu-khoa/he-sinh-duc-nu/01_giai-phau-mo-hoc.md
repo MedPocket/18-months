@@ -13,12 +13,12 @@ description: Tổng quan giải phẫu và mô học buồng trứng.
 **Vị trí buồng trứng:**
 
 - Nằm trong ổ chậu, không được thanh mạc bao phủ hoàn toàn.
-- Mỗi bên một buồng trứng, kích thước trung bình 2 x 3 x 3 cm, trọng lượng 4-8 g.
+- Mỗi bên một buồng trứng, kích thước trung bình 2 x 3 x 3 cm, trọng lượng 4 - 8 g.
 - Bề mặt phẳng mịn ở trẻ em, trở nên sần do tạo vết sẹo phóng noãn sau tuổi dậy thì.
 
 **Hình thái và liên quan:**
 
-_Hình ảnh "Giải phẫu tử cung - buồng trứng"_.
+_Hình "Giải phẫu tử cung - buồng trứng"_.
 ![Giải phẫu tử cung - buồng trứng](./_images/giai-phau-mo-hoc/giai-phau-tu-cung-buong-trung.png)
 
 - **Mặt trong** (mặt tự do): Lồi, hướng về phễu vòi tử cung và quai ruột.
@@ -30,7 +30,7 @@ _Hình ảnh "Giải phẫu tử cung - buồng trứng"_.
 
 **Mạch máu và bạch huyết:**
 
-_Hình ảnh "Giải phẫu mạch máu tử cung buồng trứng"_.
+_Hình "Giải phẫu mạch máu tử cung buồng trứng"_.
 ![Giải phẫu mạch máu tử cung buồng trứng](./_images/giai-phau-mo-hoc/giai-phau-mach-mau-tu-cung-buong-trung.png)
 
 - **Động mạch buồng trứng:** Tách từ động mạch chủ bụng ngang mức L2. Chạy trong dây chằng treo, vào buồng trứng tại đầu vòi.
@@ -61,4 +61,4 @@ _Hình ảnh "Giải phẫu mạch máu tử cung buồng trứng"_.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.

@@ -17,11 +17,11 @@ description: Tổng quan và chẩn đoán sa tạng chậu (POP).
 
 _Bảng "Phân loại sa tạng chậu"_.
 
-| Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại                                                              | Xét nghiệm cần thiết     |
-| ------------------------------------ | -------------------------------------------------------------------------------------- | ------------------------ |
-| **Thành trước (ngăn trước)**         | Sa bàng quang: Trung tâm, bên, kết hợp<br>Sa niệu đạo                                  | Niệu động học            |
-| **Vòm âm đạo (ngăn giữa)**           | Túi sa ruột non: Trước, sau<br>Sa tử cung<br>Sa mỏm cắt                                | MRI động ± Niệu động học |
-| **Thành sau (ngăn sau)**             | Túi trực tràng: Cao, giữa, thấp<br>Sa trực tràng<br>Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
+| Vị trí giải phẫu so với thành âm đạo | Tạng chậu sa và phân loại                                                                  | Xét nghiệm cần thiết     |
+| ------------------------------------ | ------------------------------------------------------------------------------------------ | ------------------------ |
+| **Thành trước (ngăn trước)**         | Sa bàng quang: Trung tâm, bên, kết hợp<br > Sa niệu đạo                                    | Niệu động học            |
+| **Vòm âm đạo (ngăn giữa)**           | Túi sa ruột non: Trước, sau<br > Sa tử cung<br > Sa mỏm cắt                                | MRI động ± Niệu động học |
+| **Thành sau (ngăn sau)**             | Túi trực tràng: Cao, giữa, thấp<br > Sa trực tràng<br > Khối lồng trong trực tràng hậu môn | MRI động ± Niệu động học |
 
 ## Chẩn đoán
 
@@ -41,17 +41,17 @@ _Bảng "Phân loại sa tạng chậu"_.
 
 **Điểm thay đổi:** Ba, Bp: Điểm phồng xa nhất của đoạn âm đạo (khi rặn hoặc kéo cổ tử cung).
 
-**Trên/dưới mép màng trinh:** Đánh dấu +/- trước giá trị.
+**Trên/dưới mép màng trinh:** Đánh dấu ± trước giá trị.
 
 **Phân độ POP-Q:**
 
 - Độ 0: Không sa tạng chậu; Aa, Ba, Ap, Bp: Đều ở +3 cm trên màng trinh; C, D: (tvl-2) cm ≤ C, D ≤ tvl.
 - Độ I: Bất kỳ điểm Ba hoặc Bp ở trên màng trinh > 1 cm.
-- Độ II: Ba hoặc Bp nằm trong khoảng ±1 cm quanh màng trinh.
-- Độ III: Ba hoặc Bp sa > 1 cm dưới màng trinh nhưng <(tvl-2) cm.
+- Độ II: Ba hoặc Bp nằm trong khoảng ± 1 cm quanh màng trinh.
+- Độ III: Ba hoặc Bp sa > 1 cm dưới màng trinh nhưng < (tvl-2) cm.
 - Độ IV: Sa toàn bộ, Ba hoặc Bp ≥ (tvl-2) cm.
 
-_Hình ảnh "Sơ đồ chẩn đoán sa tạng chậu"_.
+_Hình "Sơ đồ chẩn đoán sa tạng chậu"_.
 ![Sơ đồ chẩn đoán sa tạng chậu](./_images/sa-tang-chau/so-do-chan-doan-sa-tang-chau.jpg)
 
 Dựa vào lâm sàng (POP-Q) và kết quả cận lâm sàng, ghi rõ:
@@ -98,13 +98,13 @@ Phương pháp:
 
 ### Ngoại khoa
 
-_Hình ảnh "Phác đồ chẩn đoán và xử trí sa tạng chậu - Bệnh viện Từ Dũ"_.
+_Hình "Phác đồ chẩn đoán và xử trí sa tạng chậu - Bệnh viện Từ Dũ"_.
 ![Phác đồ chẩn đoán và xử trí sa tạng chậu - Bệnh viện Từ Dũ](./_images/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
 
-_Hình ảnh "Phẫu thuật ngả bụng - Bệnh viện Từ Dũ"_.
+_Hình "Phẫu thuật ngả bụng - Bệnh viện Từ Dũ"_.
 ![Phẫu thuật ngả bụng - Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-bung.jpeg)
 
-_Hình ảnh "Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ"_.
+_Hình "Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ"_.
 ![Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-am-dao.png)
 
 **Nguyên tắc:**
@@ -114,7 +114,7 @@ _Hình ảnh "Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ"_.
 
 **Chỉ định:**
 
-- Sa độ ≥ II có triệu chứng, thất bại điều trị bảo tồn 3-6 tháng.
+- Sa độ ≥ II có triệu chứng, thất bại điều trị bảo tồn 3 - 6 tháng.
 - BN yêu cầu phẫu thuật sau tư vấn đầy đủ.
 
 **Phương pháp** lựa chọn dựa vào tạng sa, độ sa, tuổi, mong muốn sinh đẻ, sức khỏe, điều kiện thiết bị, kinh nghiệm phẫu thuật viên:
@@ -132,4 +132,4 @@ _Hình ảnh "Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ"_.
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.

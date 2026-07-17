@@ -16,7 +16,7 @@ Các khối thực thể không tân lập tại phần phụ là tất cả cá
 
 ### Bệnh sinh
 
-_Hình ảnh "Thuyết cấy ghép, quá trình viêm và cường estrogen"_.
+_Hình "Thuyết cấy ghép, quá trình viêm và cường estrogen"_.
 ![Thuyết cấy ghép, quá trình viêm và cường estrogen](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/thuyet-cay-ghep-qua-trinh-viem-va-cuong-estrogen.png)
 
 Là **"giả nang"** không vỏ, phát triển trên bề mặt buồng trứng, bao gồm biểu mô nội mạc tử cung và mô đệm tùy hành. Trong chu kỳ, lớp nội mạc bên trong nang cũng hành kinh—máu bị giữ lại, cô đặc thành dịch nâu **"chocolate"** giàu hemosiderin.
@@ -27,12 +27,12 @@ Là **"giả nang"** không vỏ, phát triển trên bề mặt buồng trứng
 
 ### Phân loại
 
-_Hình ảnh "Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)"_.
+_Hình "Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)"_.
 ![Phân giai đoạn lạc tuyến nội mạc tử cung vùng chậu (AFS-ASRM)](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/AFS-ASRM.png)
 
 ### Cận lâm sàng
 
-_Hình ảnh "Nang lạc tuyến nội mạc tử cung ở buồng trứng"_.
+_Hình "Nang lạc tuyến nội mạc tử cung ở buồng trứng"_.
 ![Nang lạc tuyến nội mạc tử cung ở buồng trứng](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/nang-lac-tuyen-noi-mac-tu-cung-tren-sieu-am.png)
 
 **Siêu âm thang xám:** Nang đơn/multiple phản âm kém đều, giới hạn rõ, không chồi/vách, không tăng dòng mạch. IOTA M-rules âm tính. Siêu âm đủ để chẩn đoán; MRI chỉ khi nghi ngờ lạc nội mạc sâu hay đau dữ dội.
@@ -45,7 +45,7 @@ _Hình ảnh "Nang lạc tuyến nội mạc tử cung ở buồng trứng"_.
 
 - Lành tính, tiềm năng ác tính rất thấp. Phát hiện tình cờ, không cần điều trị nếu không đau, không hiếm muộn.
 - **Không có điều trị nội khoa** làm mất nang; Nếu không muốn có thai, có thể dùng COC để ngăn nang mới.
-- **Chỉ định phẫu thuật** khi: Nghi ngờ ác tính (IOTA M-rules, CA125 tăng hoặc nang > 5-6 cm), nang to nhanh, diễn biến bất thường. Cân nhắc yếu tố cá nhân (tình trạng hôn nhân, kế hoạch sinh con, triệu chứng).
+- **Chỉ định phẫu thuật** khi: Nghi ngờ ác tính (IOTA M-rules, CA125 tăng hoặc nang > 5 - 6 cm), nang to nhanh, diễn biến bất thường. Cân nhắc yếu tố cá nhân (tình trạng hôn nhân, kế hoạch sinh con, triệu chứng).
 
 **Nang kèm đau:**
 
@@ -67,7 +67,7 @@ _Hình ảnh "Nang lạc tuyến nội mạc tử cung ở buồng trứng"_.
 
 **Siêu âm:** ứ dịch vòi hình ảnh dãn, chứa dịch - thường hai bên.
 
-_Hình ảnh "Vòi Fallope ứ dịch trên siêu âm"_.
+_Hình "Vòi Fallope ứ dịch trên siêu âm"_.
 ![Vòi Fallope ứ dịch trên siêu âm](./_images/quan-ly-khoi-thuc-the-khong-tan-lap-phan-phu/u-dich-voi-fallope-tren-sieu-am.png)
 
 **Bệnh học:** Viêm mạn tính khiến vòi xơ hóa, bít tắc, dễ tạo ổ viêm thứ phát đa vi khuẩn (kể cả kỵ khí). Nội độc tố, cytokine, gốc tự do từ ổ viêm lan vào buồng tử cung. Môi trường dịch vòi nghèo dinh dưỡng, đặc biệt ít glucose. Ứ dịch vòi sau _Chlamydia_ có thể giảm hiệu quả làm tổ trong IVF. **Cắt bỏ vòi ứ dịch** trước IVF cải thiện tỉ lệ làm tổ. Dịch vòi tổn thương chứa độc tố, ảnh hưởng sản xuất cytokine (IL-1, LIF, CSF-1, integrin αvβ3) làm tổ.
@@ -76,4 +76,4 @@ Nếu không thể cắt toàn bộ vòi do dính chặt, có thể **đứt vò
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.

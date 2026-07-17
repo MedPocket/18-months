@@ -7,11 +7,11 @@ description: Chẩn đoán và điều trị tắc tia sữa.
 
 ## Nguyên nhân
 
-- **Cho bú không đều hoặc không đúng cách:** Bé ngậm vú không đúng, bú không đủ thời gian
-- **Vắt sữa không hoàn toàn:** Máy hoặc tay vắt không lấy hết sữa tồn đọng
-- **Áo ngực chật:** Chèn ép nhu mô vú, cản trở dòng chảy
-- **Căng thẳng, mệt mỏi:** Ức chế tiết tố và phản xạ tiết sữa
-- **Thay đổi chế độ ăn uống hoặc thuốc:** Gây sữa đặc, dễ vón cục
+- **Cho bú không đều hoặc không đúng cách:** Bé ngậm vú không đúng, bú không đủ thời gian.
+- **Vắt sữa không hoàn toàn:** Máy hoặc tay vắt không lấy hết sữa tồn đọng.
+- **Áo ngực chật:** Chèn ép nhu mô vú, cản trở dòng chảy.
+- **Căng thẳng, mệt mỏi:** Ức chế tiết tố và phản xạ tiết sữa.
+- **Thay đổi chế độ ăn uống hoặc thuốc:** Gây sữa đặc, dễ vón cục.
 
 ## Phương pháp không dùng thuốc
 
@@ -23,7 +23,7 @@ description: Chẩn đoán và điều trị tắc tia sữa.
 
 ## Phương pháp dùng thuốc
 
-- **Giảm đau và kháng viêm:** Ibuprofen 400-600 mg mỗi 6-8 giờ (uống sau ăn); paracetamol 500-1000 mg mỗi 4-6h (tối đa 4 g/ngày).
+- **Giảm đau và kháng viêm:** Ibuprofen 400-600 mg mỗi 6-8 giờ (uống sau ăn); paracetamol 500-1000 mg mỗi 4-6 h (tối đa 4 g/ngày).
 - **Kháng sinh (nếu có viêm):** Dicloxacillin 500 mg x 4 lần/ngày, 10-14 ngày; Cephalexin 500 mg x 4 lần/ngày, 10-14 ngày.
 - **Kích thích tiết sữa (khi cần):** Metoclopramide 10 mg x 3 lần/ngày, 5-7 ngày; Domperidone 10 mg x 3 lần/ngày, 5-7 ngày.
 
@@ -39,7 +39,7 @@ Các thuốc kích thích chỉ dùng khi sản lượng sữa giảm.
 
 ## Tài liệu tham khảo
 
-- American Family Physician (2015) - _Management of Lactational Mastitis and Blocked Milk Ducts_
-- Journal of Human Lactation (2018) - _Strategies for Resolving Blocked Milk Ducts_
-- Clinical Pediatrics (2012) - _Treatment of Mastitis and Breast Abscess_
-- World Health Organization (2003) - _Breastfeeding Counselling: A Training Course_
+- American Family Physician (2015) - _Management of Lactational Mastitis and Blocked Milk Ducts_.
+- Journal of Human Lactation (2018) - _Strategies for Resolving Blocked Milk Ducts_.
+- Clinical Pediatrics (2012) - _Treatment of Mastitis and Breast Abscess_.
+- World Health Organization (2003) - _Breastfeeding Counselling: A Training Course_.

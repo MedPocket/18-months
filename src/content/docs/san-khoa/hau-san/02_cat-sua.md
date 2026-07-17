@@ -9,7 +9,7 @@ description: Chỉ định và phương pháp cắt sữa.
 
 - **Giảm dần tần suất cho bú:** Giảm 1 lần bú hoặc vắt sữa mỗi ngày cho đến khi ngừng hoàn toàn.
 - **Giảm dần lượng sữa vắt:** Nếu vẫn vắt, giảm từng phần lượng sữa vắt ra và giảm số lần vắt.
-- **Chườm lạnh:** Dùng khăn lạnh hoặc túi đá bọc vải, 10-15 phút mỗi lần để giảm căng tức và tiết sữa.
+- **Chườm lạnh:** Dùng khăn lạnh hoặc túi đá bọc vải, 10 - 15 phút mỗi lần để giảm căng tức và tiết sữa.
 - **Áo ngực ép nhẹ:** Mặc áo ngực ôm vừa phải, không quá chặt để tránh giảm lưu thông máu.
 - **Massage nhẹ:** Xoa nhẹ vùng vú theo vòng tròn nhỏ để giảm đau mà không kích thích tiết sữa.
 - **Hạn chế kích thích tiết sữa:** Uống nhiều nước, tránh caffeine và thảo mộc kích thích prolactin.
@@ -27,7 +27,7 @@ Prolactin là hormone chính chịu trách nhiệm về sự tiết sữa. Các 
 - Ức chế sữa ngay sau sinh: 1 mg (2 viên Dostinex 0.5 mg) uống liều duy nhất trong ngày đầu sau sinh.
 - Cắt sữa khi đã có sữa (established lactation): 0.25 mg (1/2 viên) uống mỗi 12 giờ trong 2 ngày (tổng liều 1 mg).
 
-**Theo dõi sau điều trị:** Đo lại prolactin máu sau 1-2 tháng.
+**Theo dõi sau điều trị:** Đo lại prolactin máu sau 1 - 2 tháng.
 
 ### Estrogen
 
@@ -43,13 +43,13 @@ Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc 
 
 ### Giảm đau và kháng viêm
 
-- **Ibuprofen:** 400-600 mg mỗi 6-8 giờ, giúp giảm đau và viêm khi vú căng tức.
-- **Paracetamol:** 500-1000 mg mỗi 4-6h (tối đa 4g/ngày).
+- **Ibuprofen:** 400 - 600 mg mỗi 6 - 8 giờ, giúp giảm đau và viêm khi vú căng tức.
+- **Paracetamol:** 500-1000 mg mỗi 4-6 h (tối đa 4 g/ngày).
 
 ## Tài liệu tham khảo
 
-- American College of Obstetricians and Gynecologists (2017) - _Inhibition of Lactation_
-- Journal of Human Lactation (2016) - _Non-pharmacologic Strategies for Lactation Suppression_
-- McKinney et al. (2018) - _Use of Dopamine Agonists for Lactation Inhibition_
-- British Journal of Obstetrics and Gynaecology (2003) - _Pharmacological Suppression of Lactation with Bromocriptine_
-- BMJ (1993) - _Efficacy and Safety of Cabergoline for Lactation Inhibition_
+- American College of Obstetricians and Gynecologists (2017) - _Inhibition of Lactation_.
+- Journal of Human Lactation (2016) - _Non-pharmacologic Strategies for Lactation Suppression_.
+- McKinney et al. (2018) - _Use of Dopamine Agonists for Lactation Inhibition_.
+- British Journal of Obstetrics and Gynaecology (2003) - _Pharmacological Suppression of Lactation with Bromocriptine_.
+- BMJ (1993) - _Efficacy and Safety of Cabergoline for Lactation Inhibition_.

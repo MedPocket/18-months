@@ -46,11 +46,11 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 - Tỷ lệ bạch cầu non/trưởng thành > 0.2.
 - Tiểu cầu < 100 000/mm³.
 
-**C-reactive protein (CRP):** > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12-24h).
+**C-reactive protein (CRP):** > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12-24 h).
 
 **Procalcitonin (PCT):** > 2 ng/mL gợi ý nhiễm khuẩn nặng.
 
-**Cấy máu:** Tiêu chuẩn vàng (nhưng cần 48-72 giờ).
+**Cấy máu:** Tiêu chuẩn vàng (nhưng cần 48 - 72 giờ).
 
 **Dịch não tuỷ** (khi nghi viêm màng não):
 
@@ -84,9 +84,9 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 
 **Thời gian điều trị:**
 
-- Nhiễm khuẩn huyết: 10-14 ngày.
-- Viêm phổi: 10-14 ngày.
-- Viêm màng não: 14-21 ngày.
+- Nhiễm khuẩn huyết: 10 - 14 ngày.
+- Viêm phổi: 10 - 14 ngày.
+- Viêm màng não: 14 - 21 ngày.
 
 **Điều trị hỗ trợ:**
 
@@ -104,5 +104,5 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 ## Tài liệu tham khảo
 
 - Nelson Textbook of Pediatrics, 21st Edition.
-- WHO - _Hướng dẫn chẩn đoán và điều trị nhiễm khuẩn sơ sinh_
-- Bộ Y tế - _Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ sơ sinh_
+- WHO - _Hướng dẫn chẩn đoán và điều trị nhiễm khuẩn sơ sinh_.
+- Bộ Y tế - _Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ sơ sinh_.

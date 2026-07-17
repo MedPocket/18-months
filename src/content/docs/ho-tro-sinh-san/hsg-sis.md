@@ -25,7 +25,7 @@ Sử dụng tia X với thuốc cản quang bơm ngược vào buồng tử cung
 
 ### Chuẩn bị
 
-- Sau khi sạch kinh **ngày 6-11** (tránh thai sớm, hạn chế nhiễm trùng).
+- Sau khi sạch kinh **ngày 6 - 11** (tránh thai sớm, hạn chế nhiễm trùng).
 - Không xuất huyết và không nhiễm trùng đường sinh dục.
 - Không quan hệ tình dục từ có kinh đến thời điểm chụp.
 - Dùng kháng sinh trước và sau: Ofloxacine 200 mg x 2 lần/ngày x 14 ngày và Doxycycline 100 mg x 2 lần/ngày x 14 ngày. Nếu dị ứng đổi sang Ceftriaxone 500 mg x 3 lần/ngày x 7 ngày.
@@ -35,7 +35,7 @@ Sử dụng tia X với thuốc cản quang bơm ngược vào buồng tử cung
 
 Bình thường:
 
-- Buồng tử cung tam giác đều các cạnh 3-4 cm. Đoạn kẽ dài 1-2 cm, ngang 0.4 cm. Đoạn eo dài 3-4 cm, ngang ≤ 0.4 cm. Đoạn bóng và đoạn loa 6-8 cm, ngang 0.5-1 cm.
+- Buồng tử cung tam giác đều các cạnh 3 - 4 cm. Đoạn kẽ dài 1 - 2 cm, ngang 0.4 cm. Đoạn eo dài 3 - 4 cm, ngang ≤ 0.4 cm. Đoạn bóng và đoạn loa 6 - 8 cm, ngang 0.5 - 1 cm.
 - Niêm mạc bắt thuốc đều.
 - Thuốc đi qua vòi 2 bên, **tràn tự do ổ bụng.**
 

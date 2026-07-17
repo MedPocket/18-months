@@ -11,7 +11,7 @@ Sarcoma cơ trơn thân tử cung là khối u ác tính rất hiếm, chiếm <
 
 ### Yếu tố nguy cơ
 
-- Thường gặp ở phụ nữ tuổi tiền mãn kinh và mãn kinh (50-60 tuổi).
+- Thường gặp ở phụ nữ tuổi tiền mãn kinh và mãn kinh (50 - 60 tuổi).
 - Nguồn gốc: Chưa rõ có phát triển từ u xơ-cơ tử cung hay độc lập.
 
 ### Chẩn đoán
@@ -75,5 +75,5 @@ _Bảng "So sánh u xơ tử cung, STUMP và sarcoma thân tử cung"_.
 ## Tài liệu tham khảo
 
 - WHO - _Classification of Tumours, Female Genital Tumours (5th ed.)_
-- ACOG - _Practice Bulletin on Uterine Sarcoma và STUMP_
-- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning_
+- ACOG - _Practice Bulletin on Uterine Sarcoma và STUMP_.
+- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning_.

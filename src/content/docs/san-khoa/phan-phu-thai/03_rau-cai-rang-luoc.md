@@ -9,13 +9,13 @@ description: Tổng quan chẩn đoán và điều trị rau cài răng lược.
 
 _Bảng "Phân loại rau cài răng lược" - FIGO_.
 
-| Phân loại rau cài răng lược theo FIGO 2019 | Tiêu chuẩn lâm sàng                                                                                                                                                                                                 | Tiêu chuẩn mô học                                                                                    |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Độ 1: Adherenta (rau bám chặt)**         | - Rau không bong sau sổ thai dù dùng oxytocin và kéo dây rốn.<br>- Bóc rau thủ công gây chảy máu ồ ạt nhưng không thấy mô rau xâm lấn sâu.<br>- Tử cung tại vị trí rau bám không phình căng, ít mạch máu tăng sinh. | - Gai rau bám trực tiếp lên bề mặt cơ tử cung, không có màng rụng ở giữa gai rau và cơ tử cung.      |
-| **Độ 2: Increta (xâm lấn cơ tử cung)**     | - Khi mở bụng thấy mô rau bám vào cơ, tử cung tại vị trí đó phồng căng, màu xanh/tím.<br>- Tăng sinh mạch máu dày đặc trong cơ tử cung.<br>- Kéo dây rốn gây co bóp tử cung nhưng rau không bong (dimple sign).     | - Gai rau xuyên vào lớp cơ tử cung nhưng không xuyên qua thanh mạc.                                  |
-| **Độ 3a: Percreta tới thanh mạc**          | - Mô rau xâm lấn xuyên qua cơ và lớp thanh mạc, thấy dưới thanh mạc tử cung phồng căng, mạch máu tăng sinh rõ.<br>- Dễ phân biệt bàng quang và tử cung do chưa xâm lấn sâu vào bàng quang.                          | - Gai rau xuyên qua thanh mạc tử cung nhưng không vượt ra ngoài khoang chậu hoặc xâm lấn bàng quang. |
-| **Độ 3b: Percreta xâm lấn bàng quang**     | - Tương tự độ 3a nhưng mô rau còn dính chặt vào thành bàng quang, không tách rời được.<br>- Tiểu máu có thể xuất hiện do xâm lấn niêm mạc bàng quang.                                                               | - Gai rau xuyên qua thanh mạc và phần thành bàng quang hoặc niêm mạc bàng quang.                     |
-| **Độ 3c: Percreta xâm lấn vùng chậu/khác** | - Rau xâm lấn dây chằng rộng, thành âm đạo, thành chậu hoặc các cơ quan khác (gan, ruột...) kèm/không kèm xâm lấn bàng quang.                                                                                       | - Gai rau xuyên qua thanh mạc tử cung và xâm lấn vào các cấu trúc ngoài tử cung.                     |
+| Phân loại rau cài răng lược theo FIGO 2019 | Tiêu chuẩn lâm sàng                                                                                                                                                                                                     | Tiêu chuẩn mô học                                                                                    |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Độ 1: Adherenta (rau bám chặt)**         | - Rau không bong sau sổ thai dù dùng oxytocin và kéo dây rốn.<br > - Bóc rau thủ công gây chảy máu ồ ạt nhưng không thấy mô rau xâm lấn sâu.<br > - Tử cung tại vị trí rau bám không phình căng, ít mạch máu tăng sinh. | - Gai rau bám trực tiếp lên bề mặt cơ tử cung, không có màng rụng ở giữa gai rau và cơ tử cung.      |
+| **Độ 2: Increta (xâm lấn cơ tử cung)**     | - Khi mở bụng thấy mô rau bám vào cơ, tử cung tại vị trí đó phồng căng, màu xanh/tím.<br > - Tăng sinh mạch máu dày đặc trong cơ tử cung.<br > - Kéo dây rốn gây co bóp tử cung nhưng rau không bong (dimple sign).     | - Gai rau xuyên vào lớp cơ tử cung nhưng không xuyên qua thanh mạc.                                  |
+| **Độ 3a: Percreta tới thanh mạc**          | - Mô rau xâm lấn xuyên qua cơ và lớp thanh mạc, thấy dưới thanh mạc tử cung phồng căng, mạch máu tăng sinh rõ.<br > - Dễ phân biệt bàng quang và tử cung do chưa xâm lấn sâu vào bàng quang.                            | - Gai rau xuyên qua thanh mạc tử cung nhưng không vượt ra ngoài khoang chậu hoặc xâm lấn bàng quang. |
+| **Độ 3b: Percreta xâm lấn bàng quang**     | - Tương tự độ 3a nhưng mô rau còn dính chặt vào thành bàng quang, không tách rời được.<br > - Tiểu máu có thể xuất hiện do xâm lấn niêm mạc bàng quang.                                                                 | - Gai rau xuyên qua thanh mạc và phần thành bàng quang hoặc niêm mạc bàng quang.                     |
+| **Độ 3c: Percreta xâm lấn vùng chậu/khác** | - Rau xâm lấn dây chằng rộng, thành âm đạo, thành chậu hoặc các cơ quan khác (gan, ruột...) kèm/không kèm xâm lấn bàng quang.                                                                                           | - Gai rau xuyên qua thanh mạc tử cung và xâm lấn vào các cấu trúc ngoài tử cung.                     |
 
 ## Yếu tố nguy cơ
 
@@ -36,7 +36,7 @@ _Bảng "Phân loại rau cài răng lược" - FIGO_.
 
 **Siêu âm** là xét nghiệm đầu tay:
 
-- Tam cá nguyệt I (6-14 tuần): Túi thai làm tổ thấp, gần sẹo mổ cũ; Thành trước đoạn dưới mỏng < 3 mm.
+- Tam cá nguyệt I (6 - 14 tuần): Túi thai làm tổ thấp, gần sẹo mổ cũ; Thành trước đoạn dưới mỏng < 3 mm.
 - Tam cá nguyệt II-III (TVS & TAS): Lacunae ("moth-eaten") xoang mạch đa hình trong bánh rau; Đường echo ranh giới rau-cơ mỏng hoặc mất liên tục; "Placental bulge" lồi rau qua thành tử cung; Cầu mạch máu và Doppler tăng sinh mạch rõ; Xâm lấn bàng quang mất đường echo thanh mạc và bàng quang.
 
 **MRI:** Khi siêu âm không rõ hoặc cần đánh giá xâm lấn mặt sau, mức độ percreta.
@@ -45,7 +45,7 @@ _Bảng "Phân loại rau cài răng lược" - FIGO_.
 
 ### Chấm dứt thai kỳ
 
-- Thường 34-36 tuần, sau corticosteroids tiền sinh.
+- Thường 34 - 36 tuần, sau corticosteroids tiền sinh.
 
 ### Chuẩn bị mổ
 
@@ -62,5 +62,5 @@ _Bảng "Phân loại rau cài răng lược" - FIGO_.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.

@@ -40,12 +40,12 @@ Mặc dù có nhiều nguyên nhân khác nhau, nhưng hầu hết các trườn
 
 _Bảng "Nguyên nhân vô kinh do rối loạn chức năng rụng trứng"_.
 
-| Nguyên nhân vô kinh do rối loạn chức năng rụng trứng | Ví dụ điển hình                                                                                                                                                                                                                                                       |
-| ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Rối loạn vùng dưới đồi**                           | - Giảm sản sinh GnRH: Do thiếu hụt năng lượng (ăn kiêng quá mức, tập luyện nặng), stress, bệnh mạn tính.<br>- Rối loạn di truyền: Thiếu hụt GnRH bẩm sinh, hội chứng Prader-Willi.<br>- Xâm lấn hoặc tổn thương (u, nhiễm lao, lymphoma, chấn thương sọ não, xạ trị). |
-| **Rối loạn tuyến yên**                               | - U tuyến yên hoặc mô ngoại lai (adenoma, meningioma, tăng prolactin...).<br>- Hoại tử sau sinh (Sheehan), chấn thương, sarcoidosis, lao.<br>- Thiếu hụt gonadotropin đơn độc, hội chứng Kallmann.                                                                    |
-| **Suy buồng trứng nguyên phát**                      | - Tự miễn (viêm buồng trứng tự miễn).<br>- Di truyền (Hội chứng Turner, bất sản nang noãn).<br>- Hóa trị, xạ trị vùng chậu.<br>- U buồng trứng (theca, Brenner, u quái...).                                                                                           |
-| **Rối loạn nội tiết khác**                           | - Hội chứng buồng trứng đa nang (PCOS).<br>- Cushing, suy giáp, cường giáp.<br>- Thiếu nhạy cảm androgen/estrogen.<br>- Nam hóa (androgen, progestin liều cao, steroid đồng hóa).<br>- Béo phì, khối u sản sinh androgen/estrogen.                                    |
+| Nguyên nhân vô kinh do rối loạn chức năng rụng trứng | Ví dụ điển hình                                                                                                                                                                                                                                                           |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Rối loạn vùng dưới đồi**                           | - Giảm sản sinh GnRH: Do thiếu hụt năng lượng (ăn kiêng quá mức, tập luyện nặng), stress, bệnh mạn tính.<br > - Rối loạn di truyền: Thiếu hụt GnRH bẩm sinh, hội chứng Prader-Willi.<br > - Xâm lấn hoặc tổn thương (u, nhiễm lao, lymphoma, chấn thương sọ não, xạ trị). |
+| **Rối loạn tuyến yên**                               | - U tuyến yên hoặc mô ngoại lai (adenoma, meningioma, tăng prolactin...).<br > - Hoại tử sau sinh (Sheehan), chấn thương, sarcoidosis, lao.<br > - Thiếu hụt gonadotropin đơn độc, hội chứng Kallmann.                                                                    |
+| **Suy buồng trứng nguyên phát**                      | - Tự miễn (viêm buồng trứng tự miễn).<br > - Di truyền (Hội chứng Turner, bất sản nang noãn).<br > - Hóa trị, xạ trị vùng chậu.<br > - U buồng trứng (theca, Brenner, u quái...).                                                                                         |
+| **Rối loạn nội tiết khác**                           | - Hội chứng buồng trứng đa nang (PCOS).<br > - Cushing, suy giáp, cường giáp.<br > - Thiếu nhạy cảm androgen/estrogen.<br > - Nam hóa (androgen, progestin liều cao, steroid đồng hóa).<br > - Béo phì, khối u sản sinh androgen/estrogen.                                |
 
 ### Bất thường giải phẫu đường sinh dục
 
@@ -60,10 +60,10 @@ _Bảng "Nguyên nhân vô kinh do bất thường sinh dục"_.
 
 ## Chẩn đoán
 
-_Hình ảnh "Đánh giá vô kinh nguyên phát"_.
+_Hình "Đánh giá vô kinh nguyên phát"_.
 ![Đánh giá vô kinh nguyên phát](./_images/vo-kinh/danh-gia-vo-kinh-nguyen-phat.png)
 
-_Hình ảnh "Đánh giá vô kinh thứ phát"_.
+_Hình "Đánh giá vô kinh thứ phát"_.
 ![Đánh giá vô kinh thứ phát](./_images/vo-kinh/danh-gia-vo-kinh-thu-phat.png)
 
 ### Lâm sàng
@@ -118,7 +118,7 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 
 #### Thử nghiệm nội tiết động
 
-- **Thử thách progestin** (medroxyprogesterone 5-10 mg x 7-10 ngày).
+- **Thử thách progestin** (medroxyprogesterone 5 - 10 mg x 7 - 10 ngày).
 - **Thử thách estrogen/progestin** (estrogen 21 ngày + progestin 7-10 ngày).
 - **Thử nghiệm clomiphene hoặc gonadotropin stimulation.**
 
@@ -135,4 +135,4 @@ _Hình ảnh "Đánh giá vô kinh thứ phát"_.
 
 - Dieutri - [_Bài giảng vô kinh không hành kinh_](https://www.dieutri.vn/bgsanphukhoa/bai-giang-vo-kinh-khong-hanh-kinh)
 - MSD Manual - [_Amenorrhea_](https://www.msdmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea)
-- ASRM 2024 - _Đánh giá vô kinh_
+- ASRM 2024 - _Đánh giá vô kinh_.

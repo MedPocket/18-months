@@ -24,7 +24,7 @@ Tất cả thai phụ được khuyến cáo tầm soát nhiễm virus viêm gan
 
 **Lây truyền từ mẹ sang con (Mother-To-Child Transmission - MTCT):**
 
-- 70-90% trẻ sinh từ mẹ HBsAg (+) và HBeAg (+) sẽ bị nhiễm HBV nếu không dự phòng.
+- 70 - 90% trẻ sinh từ mẹ HBsAg (+) và HBeAg (+) sẽ bị nhiễm HBV nếu không dự phòng.
 - 90% trẻ nhiễm từ mẹ có nguy cơ thành mạn tính nếu không được phòng ngừa.
 
 ## Điều trị
@@ -53,7 +53,7 @@ Tất cả thai phụ được khuyến cáo tầm soát nhiễm virus viêm gan
 
 **Sau sinh thực hiện:**
 
-- Tiêm HBIG cho trẻ trong 11-12 giờ đầu (trước 24 giờ).
+- Tiêm HBIG cho trẻ trong 11 - 12 giờ đầu (trước 24 giờ).
 - Tiêm vaccine HBV mũi 1 cùng thời điểm (vị trí khác nhau).
 - Hoàn thiện 3 mũi vaccine theo chương trình: Tháng 2, 3 và 4.
 
@@ -63,13 +63,13 @@ Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng để đánh giá hiệu 
 
 ### Ủ bệnh
 
-**Thời gian ủ bệnh:** 45-180 ngày (trung bình 60-90 ngày).
+**Thời gian ủ bệnh:** 45 - 180 ngày (trung bình 60 - 90 ngày).
 
 **Đường lây:** Máu, dịch sinh dục, quan hệ tình dục không an toàn, dùng chung kim tiêm, từ mẹ sang con (trong thai kỳ, chuyển dạ, cho con bú).
 
 **Xét nghiệm phát hiện:**
 
-- Sớm nhất 4-6 tuần sau phơi nhiễm.
+- Sớm nhất 4 - 6 tuần sau phơi nhiễm.
 - Độ chính xác cao sau 3 tháng.
 
 ### Điều trị
@@ -79,5 +79,5 @@ Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng để đánh giá hiệu 
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
-- Bộ Y tế (2019) 3310/QĐ-BYT - _Hướng dẫn chẩn đoán, điều trị bệnh viêm gan virus B_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+- Bộ Y tế (2019) 3310/QĐ-BYT - _Hướng dẫn chẩn đoán, điều trị bệnh viêm gan virus B_.

@@ -19,7 +19,7 @@ Các phác đồ chuẩn bị niêm mạc tử cung bao gồm:
 
 ## Phác đồ
 
-**Ngày 2-5 chu kỳ kinh** siêu âm niêm mạc và đánh giá 2 buồng trứng.
+**Ngày 2 - 5 chu kỳ kinh** siêu âm niêm mạc và đánh giá 2 buồng trứng.
 
 - Nếu niêm mạc > 6 mm, chờ thêm 2 ngày nhưng không quá ngày thứ 5 của vòng kinh.
 - Nếu có nang noãn > 10 mm, sử dụng phác đồ chu kỳ tự nhiên.

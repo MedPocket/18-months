@@ -21,7 +21,7 @@ Phác đồ GnRH agonist (GnRH đồng vận) được sử dụng rộng rãi v
 ### Phác đồ rất dài (Ultra-long protocol)
 
 - **Ưu tiên chỉ định** lạc tuyến trong cơ tử cung (Adenomyosis), chẩn đoán qua siêu âm, MRI, hoặc CA-125.
-- **Sử dụng** tiêm triptorelin dạng depot (tác dụng kéo dài) liên tục trong 3-6 tháng.
+- **Sử dụng** tiêm triptorelin dạng depot (tác dụng kéo dài) liên tục trong 3 - 6 tháng.
 - **Kích thích buồng trứng** tiến hành sau tối thiểu 3 tháng điều trị bằng GnRH agonist depot, sử dụng FSH ngoại sinh.
 
 ### Phác đồ ngắn (Short protocol)

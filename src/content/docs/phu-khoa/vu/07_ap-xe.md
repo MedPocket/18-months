@@ -3,7 +3,7 @@ title: Áp xe vú
 description: Chẩn đoán, xử trí, phân loại áp xe vú.
 ---
 
-**Áp xe vú** là tình trạng tụ mủ khu trú trong mô vú. Trong giai đoạn tiết sữa, tỷ lệ viêm vú chiếm khoảng 1-10%. Áp xe vú chiếm 3-11% trong số các trường hợp viêm vú và gặp ở khoảng 0.1-0.3% phụ nữ đang nuôi con bằng sữa mẹ.
+**Áp xe vú** là tình trạng tụ mủ khu trú trong mô vú. Trong giai đoạn tiết sữa, tỷ lệ viêm vú chiếm khoảng 1 - 10%. Áp xe vú chiếm 3 - 11% trong số các trường hợp viêm vú và gặp ở khoảng 0.1 - 0.3% phụ nữ đang nuôi con bằng sữa mẹ.
 
 ## Phân loại
 
@@ -67,7 +67,7 @@ description: Chẩn đoán, xử trí, phân loại áp xe vú.
 
 - Bắt đầu điều trị kháng sinh ngay khi chẩn đoán xác định.
 - Điều chỉnh theo kháng sinh đồ.
-- Duy trì kháng sinh 10-14 ngày sau khi dẫn lưu ổ mủ.
+- Duy trì kháng sinh 10 - 14 ngày sau khi dẫn lưu ổ mủ.
 
 **Nhiễm trùng nhẹ:**
 
@@ -92,8 +92,8 @@ description: Chẩn đoán, xử trí, phân loại áp xe vú.
 
 ### Ngoại khoa
 
-- **Ổ áp xe < 3 cm:** Chọc hút bằng kim 18-19G + bơm rửa NaCl 0.9% dưới hướng dẫn siêu âm. Lặp lại tối đa 3 lần. Nếu không đáp ứng → rạch dẫn lưu.
-- **Ổ áp xe 3-5 cm:** Chọc hút + dẫn lưu bằng catheter dưới hướng dẫn siêu âm.
+- **Ổ áp xe < 3 cm:** Chọc hút bằng kim 18 - 19G + bơm rửa NaCl 0.9% dưới hướng dẫn siêu âm. Lặp lại tối đa 3 lần. Nếu không đáp ứng → rạch dẫn lưu.
+- **Ổ áp xe 3 - 5 cm:** Chọc hút + dẫn lưu bằng catheter dưới hướng dẫn siêu âm.
 - **Ổ áp xe > 5 cm:** Rạch dẫn lưu.
 
 ### Theo dõi sau điều trị
@@ -104,4 +104,4 @@ description: Chẩn đoán, xử trí, phân loại áp xe vú.
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.

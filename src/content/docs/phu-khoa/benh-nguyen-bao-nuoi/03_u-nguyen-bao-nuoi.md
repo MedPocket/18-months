@@ -43,32 +43,32 @@ _Bảng "Tiên lượng u nguyên bào nuôi" - WHO (2018)_.
 | ---------------------------------------- | ---------- | --------- | ----------- | ---------- |
 | **Tuổi**                                 | < 40       | ≥ 40      | —           | —          |
 | **Tiền cân thai**                        | Thai trứng | Bố thai   | Đủ tháng    | —          |
-| **Số tháng (từ thai lần)**               | < 4        | 4-6       | 7-12        | > 12       |
+| **Số tháng (từ thai lần)**               | < 4        | 4 - 6     | 7 - 12      | > 12       |
 | **hCG trước điều trị IU/ml**             | < 10³      | 10³ - 10⁴ | 10⁴ - 10⁵   | > 10⁵      |
-| **Kích thước bướu lớn nhất gồm TC (cm)** | < 3 cm     | 3-4 cm    | ≥ 5 cm      | —          |
+| **Kích thước bướu lớn nhất gồm TC (cm)** | < 3 cm     | 3 - 4 cm  | ≥ 5 cm      | —          |
 | **Vị trí di căn**                        | Không      | Phổi      | Lách, Thận  | Não, Gan   |
-| **Số điểm di căn**                       | —          | 1-4       | 5-8         | > 8        |
+| **Số điểm di căn**                       | —          | 1 - 4     | 5 - 8       | > 8        |
 | **Hóa trị thất bại trước đó**            | Không      | —         | Đơn hóa trị | Đa hóa trị |
 
-_Nguy cơ thấp: 0-6 điểm (FIGO < 7 điểm, NIH không di căn). Nguy cơ cao: ≥ 7 điểm (FIGO ≥ 7 điểm, NIH di căn). Nguy cơ rất cao: ≥ 12 điểm (FIGO ≥ 12 điểm hoặc di căn gan, não, kháng hóa trị)_.
+_Nguy cơ thấp: 0 - 6 điểm (FIGO < 7 điểm, NIH không di căn). Nguy cơ cao: ≥ 7 điểm (FIGO ≥ 7 điểm, NIH di căn). Nguy cơ rất cao: ≥ 12 điểm (FIGO ≥ 12 điểm hoặc di căn gan, não, kháng hóa trị)_.
 
 _Bảng "Phân loại nguy cơ u nguyên bào nuôi" - NIH_.
 
-| Phân loại NIH (Mỹ)          | Tiêu chuẩn chẩn đoán                                                                                                                                                                                                                                                                |
-| --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Không di căn**            | Không có bất cứ bằng chứng nào của di căn.                                                                                                                                                                                                                                          |
-| **Di căn - Tiên lượng tốt** | Không có bất kỳ yếu tố nguy cơ nào sau:<br>- Thời gian từ có thai trước đến phát hiện bệnh < 4 tháng.<br>- Beta hCG trước điều trị < 40000 UI/ml.<br>- Thai kỳ trước không phải thai đủ tháng.<br>- Chưa từng hóa trị trước.<br>- Không có di căn não hay gan (có thể di căn phổi). |
-| **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên.                                                                                                                                                                                                                                              |
+| Phân loại NIH (Mỹ)          | Tiêu chuẩn chẩn đoán                                                                                                                                                                                                                                                                          |
+| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Không di căn**            | Không có bất cứ bằng chứng nào của di căn.                                                                                                                                                                                                                                                    |
+| **Di căn - Tiên lượng tốt** | Không có bất kỳ yếu tố nguy cơ nào sau:<br > - Thời gian từ có thai trước đến phát hiện bệnh < 4 tháng.<br > - Beta hCG trước điều trị < 40000 UI/ml.<br > - Thai kỳ trước không phải thai đủ tháng.<br > - Chưa từng hóa trị trước.<br > - Không có di căn não hay gan (có thể di căn phổi). |
+| **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên.                                                                                                                                                                                                                                                        |
 
 ## Điều trị
 
-_Hình ảnh "Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ"_.
+_Hình "Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ"_.
 ![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
 
-_Hình ảnh "Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi - Bệnh viện Từ Dũ"_.
+_Hình "Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi - Bệnh viện Từ Dũ"_.
 ![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
 
-_Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ"_.
+_Hình "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ"_.
 ![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
 
 ### Nguyên tắc
@@ -99,7 +99,7 @@ _Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi t
 - **MTX/FA 8 ngày:** MTX 1 mg/kg (hoặc 50 mg) ngày 1, 3, 5, 7 + Folinic acid 0.1 mg/kg (hoặc 15 mg) ngày 2, 4, 6, 8, lặp lại mỗi 14 ngày.
 - **MTX liều cao tuần:** 30-50 mg/m² tĩnh mạch/tuần.
 - **Dactinomycin (Act-D):** 1.25 mg/m² tĩnh mạch mỗi 2 tuần, hoặc 12 µg/kg/ngày x 5 ngày, lặp lại mỗi 14 ngày.
-- Tiếp tục 2-3 chu kỳ sau khi β-hCG âm tính.
+- Tiếp tục 2 - 3 chu kỳ sau khi β-hCG âm tính.
 
 ### Nhóm nguy cơ cao
 
@@ -109,17 +109,17 @@ _Hình ảnh "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi t
 
 **EMA-CO** (Etoposide, MTX, Act-D/Cyclophosphamide, Vincristine) theo phác đồ 2 tuần:
 
-- **Ngày 1:** Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5mg tĩnh mạch. MTX 100 mg/m² da tĩnh mạch. MTX 200 mg/m² da tĩnh mạch trong 12 giờ.
-- **Ngày 2:** Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5mg tĩnh mạch. Folinic acid 15mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24 giờ.
-- **Ngày 8:** Oncovin (Vincristin) 1 mg/m² da tĩnh mạch, tối đa 2mg. Cyclophosphamid 600 mg/m² da truyền TM trong 30 phút.
+- **Ngày 1:** Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5 mg tĩnh mạch. MTX 100 mg/m² da tĩnh mạch. MTX 200 mg/m² da tĩnh mạch trong 12 giờ.
+- **Ngày 2:** Etoposide 100 mg/m² da tĩnh mạch trong 30 phút. Dacticin 0.5 mg tĩnh mạch. Folinic acid 15 mg tiêm bắp 2 lần/ngày x 2 ngày sau MTX 24 giờ.
+- **Ngày 8:** Oncovin (Vincristin) 1 mg/m² da tĩnh mạch, tối đa 2 mg. Cyclophosphamid 600 mg/m² da truyền TM trong 30 phút.
 - **Tiêu chuẩn để hóa trị:** Ngày 1 và 2: Bạch cầu ≥ 3000/mm³, bạch cầu đa nhân trung tính ≥ 1500/mm³; Ngày 8: Bạch cầu ≥ 2000/mm³, bạch cầu đa nhân trung tính ≥ 1000/mm³.
-- Lặp lại thêm 3-4 chu kỳ sau khi β-hCG âm tính.
+- Lặp lại thêm 3 - 4 chu kỳ sau khi β-hCG âm tính.
 
 **Nếu kháng EMA-CO** chuyển sang EP-EMA, BEP hoặc TP/TE:
 
-- Sử dụng phác đồ EMA-EP hoặc EP-EMA. Ngày điều trị CO được thay bằng EP: Cisplatin 70-80 mg pha 1L truyền TM hơn 12 giờ. Etoposide 100 mg/m² da (150 mg/m² da) được truyền TM hơn 1h.
+- Sử dụng phác đồ EMA-EP hoặc EP-EMA. Ngày điều trị CO được thay bằng EP: Cisplatin 70-80 mg pha 1L truyền TM hơn 12 giờ. Etoposide 100 mg/m² da (150 mg/m² da) được truyền TM hơn 1 h.
 - **Phác đồ BEP:** Cisplatin 20 mg/m² da truyền TM. Etoposide 100 mg/m² da truyền TM vào ngày 1-4. Bleomycin 30 đơn vị tiêm TM hằng tuần.
-- **Phác đồ TP/TE:** Ngày 1: Dexamethasone 20 mg uống trước liều Paclitaxel 12 giờ. Dexamethasone 20 mg uống trước liều Paclitaxel 6h. Cimetidine 300 mg + 100 mL NaCl 0.9% truyền trong 30 phút. Chlorpheniramine 10 mg tĩnh mạch. Paclitaxel 135 mg/m² da + 250mL NaCl 0.9% truyền trong 3h. Mannitol 10% truyền trong 1h. Cisplatin 60 mg/m² da pha 1000mL NaCl 0.9% truyền trong 3h. Sau khi truyền thuốc, truyền TM 1000mL NaCl 0.9% + KCl 20 mmol + 1 g MgSO₄ truyền trong 2 giờ. Ngày 15: Dexamethasone 20 mg uống trước liều Paclitaxel 12 giờ. Dexamethasone 20 mg uống trước liều Paclitaxel 6 giờ. Cimetidine 300 mg + 100 mL NaCl 0.9% truyền trong 30 phút. Chlorpheniramine 10 mg tĩnh mạch. Paclitaxel 135 mg/m² da + 250 mL NaCl 0.9% truyền trong 3 giờ. Etoposide 150 mg/m² da pha 1000 mL NaCl 0.9% truyền trong 1 giờ.
+- **Phác đồ TP/TE:** Ngày 1: Dexamethasone 20 mg uống trước liều Paclitaxel 12 giờ. Dexamethasone 20 mg uống trước liều Paclitaxel 6 h. Cimetidine 300 mg + 100 mL NaCl 0.9% truyền trong 30 phút. Chlorpheniramine 10 mg tĩnh mạch. Paclitaxel 135 mg/m² da + 250 mL NaCl 0.9% truyền trong 3 h. Mannitol 10% truyền trong 1 h. Cisplatin 60 mg/m² da pha 1000 mL NaCl 0.9% truyền trong 3 h. Sau khi truyền thuốc, truyền TM 1000 mL NaCl 0.9% + KCl 20 mmol + 1 g MgSO₄ truyền trong 2 giờ. Ngày 15: Dexamethasone 20 mg uống trước liều Paclitaxel 12 giờ. Dexamethasone 20 mg uống trước liều Paclitaxel 6 giờ. Cimetidine 300 mg + 100 mL NaCl 0.9% truyền trong 30 phút. Chlorpheniramine 10 mg tĩnh mạch. Paclitaxel 135 mg/m² da + 250 mL NaCl 0.9% truyền trong 3 giờ. Etoposide 150 mg/m² da pha 1000 mL NaCl 0.9% truyền trong 1 giờ.
 
 **Phẫu thuật:** Cắt tử cung toàn phần ở người đã đủ con, băng huyết nặng hoặc khối kháng thuốc. Bảo tồn khối u/khối chorio ở người trẻ mong con.
 
@@ -166,16 +166,16 @@ Etoposide 100 mg/m² truyền TM trong 1 giờ + Cisplatin 20 mg/m² truyền TM
 
 ### Theo dõi sau điều trị
 
-**β-hCG** hàng tuần đến âm tính 3 lần liên tiếp, sau đó hàng tháng 6-12 tháng tùy nhóm. **Thời gian theo dõi tối thiểu** 5 năm.
+**β-hCG** hàng tuần đến âm tính 3 lần liên tiếp, sau đó hàng tháng 6 - 12 tháng tùy nhóm. **Thời gian theo dõi tối thiểu** 5 năm.
 
 **Khám lâm sàng, siêu âm, X-quang ngực, cận lâm sàng** khi β-hCG bất thường hoặc có triệu chứng lâm sàng. Xét nghiệm huyết đồ, chức năng gan, thận, điện giải... phát hiện nhiễm độc hóa chất.
 
-_Hình ảnh "Di căn phổi bóng bay trên X-quang"_.
+_Hình "Di căn phổi bóng bay trên X-quang"_.
 ![Di căn phổi](./_images/choriocarcinoma-di-can-phoi-hinh-anh-tha-bong.png)
 
 Sau thời gian theo dõi, người bệnh được có thai trở lại, tùy trường hợp. **Yêu cầu ít nhất 2 năm sau điều trị khỏi mới có thai lại.** Khi có dấu hiệu mang thai cần đi khám thai ngày, chú ý siêu âm và β-hCG để phòng bệnh tái phát.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.

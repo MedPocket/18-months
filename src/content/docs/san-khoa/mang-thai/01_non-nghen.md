@@ -68,14 +68,14 @@ Có thể gây buồn ngủ.
 
 **Meclizine:**
 
-- Liều dùng: 25-50 mg uống mỗi 6-8 giờ.
+- Liều dùng: 25 - 50 mg uống mỗi 6 - 8 giờ.
 - Có thể gây chóng mặt, buồn ngủ.
 
 #### Metoclopramide (Primperan)
 
 Chống nôn loại kháng Dopamine.
 
-Liều dùng: 5-10 mg uống hoặc tiêm bắp mỗi 8 giờ.
+Liều dùng: 5 - 10 mg uống hoặc tiêm bắp mỗi 8 giờ.
 
 Tác dụng phụ gây mệt, tăng nhu động ruột, hiếm gặp phản ứng ngoại tháp (cử động không kiểm soát).
 
@@ -115,7 +115,7 @@ Nôn nghén thể nặng cần nhập viện:
 
 ## Tài liệu tham khảo
 
-- American College of Obstetricians and Gynecologists (2018) - _Practice Bulletin No. 189: Nausea and Vomiting of Pregnancy_
-- Niebyl, J. R. (2010). Nausea and vomiting in pregnancy - _New England Journal of Medicine_, 363(16), 1544-1550
-- WHO - _Hyperemesis gravidarum: Clinical management_
-- Philip Wiffen, Marc Mitchell, Melanie Snelling, Nicola Stoner (2017) - _Oxford Handbook of Clinical Pharmacy_, 513-514-515
+- American College of Obstetricians and Gynecologists (2018) - _Practice Bulletin No. 189: Nausea and Vomiting of Pregnancy_.
+- Niebyl, J. R. (2010). Nausea and vomiting in pregnancy - _New England Journal of Medicine_, 363(16), 1544 - 1550.
+- WHO - _Hyperemesis gravidarum: Clinical management_.
+- Philip Wiffen, Marc Mitchell, Melanie Snelling, Nicola Stoner (2017) - _Oxford Handbook of Clinical Pharmacy_, 513 - 514-515.

@@ -7,17 +7,17 @@ Vàng da sơ sinh là tình trạng da và niêm mạc của trẻ sơ sinh có 
 
 _Bảng "Đặc điểm vàng da sơ sinh"_.
 
-| Đặc điểm phân biệt           | Vàng da sinh lý                                                      | Vàng da bệnh lý                                                                                                |
-| ---------------------------- | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **Thời điểm xuất hiện**      | Sau **24 giờ** sau sinh (thường ngày 2-3)                            | Trong **24 giờ đầu** sau sinh                                                                                  |
-| **Mức độ vàng da**           | Nhẹ đến vừa, bilirubin tăng chậm                                     | Nặng, bilirubin tăng nhanh                                                                                     |
-| **Tốc độ tăng bilirubin**    | < **5 mg/dL/ngày**                                                   | ≥ **5 mg/dL/ngày**                                                                                             |
-| **Giá trị bilirubin tối đa** | < **12 mg/dL** (trẻ đủ tháng) <br> < **14-15 mg/dL** (trẻ non tháng) | > **12-15 mg/dL** (đủ tháng) <br> > **10 mg/dL** (non tháng)                                                   |
-| **Thời gian kéo dài**        | < **7 ngày** (trẻ đủ tháng) <br> < **10-14 ngày** (trẻ non tháng)    | > **7 ngày** (đủ tháng) <br> > **14 ngày** (non tháng)                                                         |
-| **Bilirubin trực tiếp**      | Bình thường (< 2 mg/dL, < 20% tổng bilirubin)                        | > 2 mg/dL hoặc > 20% tổng bilirubin                                                                            |
-| **Triệu chứng đi kèm**       | Trẻ bú tốt, tỉnh táo, tăng cân                                       | Trẻ bú kém, lừ đừ, sốt, thiếu máu, gan lách to, dấu hiệu thần kinh                                             |
-| **Nguyên nhân**              | Sinh lý: Gan chưa hoàn thiện, tăng hồng cầu, chu trình ruột-gan      | Trẻ non tháng, bất đồng nhóm máu mẹ-con (ABO, Rh), tan huyết, nhiễm trùng, teo đường mật, mẹ đái tháo đường... |
-| **Tiên lượng**               | Tự hết, không di chứng                                               | Nguy cơ **vàng da nhân não**, di chứng thần kinh nếu không điều trị kịp                                        |
+| Đặc điểm phân biệt           | Vàng da sinh lý                                                       | Vàng da bệnh lý                                                                                                |
+| ---------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **Thời điểm xuất hiện**      | Sau **24 giờ** sau sinh (thường ngày 2 - 3)                           | Trong **24 giờ đầu** sau sinh                                                                                  |
+| **Mức độ vàng da**           | Nhẹ đến vừa, bilirubin tăng chậm                                      | Nặng, bilirubin tăng nhanh                                                                                     |
+| **Tốc độ tăng bilirubin**    | < **5 mg/dL/ngày**                                                    | ≥ **5 mg/dL/ngày**                                                                                             |
+| **Giá trị bilirubin tối đa** | < **12 mg/dL** (trẻ đủ tháng) <br > < **14-15 mg/dL** (trẻ non tháng) | > **12-15 mg/dL** (đủ tháng) <br > > **10 mg/dL** (non tháng)                                                  |
+| **Thời gian kéo dài**        | < **7 ngày** (trẻ đủ tháng) <br > < **10 - 14 ngày** (trẻ non tháng)  | > **7 ngày** (đủ tháng) <br > > **14 ngày** (non tháng)                                                        |
+| **Bilirubin trực tiếp**      | Bình thường (< 2 mg/dL, < 20% tổng bilirubin)                         | > 2 mg/dL hoặc > 20% tổng bilirubin                                                                            |
+| **Triệu chứng đi kèm**       | Trẻ bú tốt, tỉnh táo, tăng cân                                        | Trẻ bú kém, lừ đừ, sốt, thiếu máu, gan lách to, dấu hiệu thần kinh                                             |
+| **Nguyên nhân**              | Sinh lý: Gan chưa hoàn thiện, tăng hồng cầu, chu trình ruột-gan       | Trẻ non tháng, bất đồng nhóm máu mẹ-con (ABO, Rh), tan huyết, nhiễm trùng, teo đường mật, mẹ đái tháo đường... |
+| **Tiên lượng**               | Tự hết, không di chứng                                                | Nguy cơ **vàng da nhân não**, di chứng thần kinh nếu không điều trị kịp                                        |
 
 ## Chẩn đoán
 
@@ -100,7 +100,7 @@ Trải qua **4 giai đoạn:**
 
 ![Toán đồ chiếu đèn sơ sinh](./_images/toan-do-chieu-den-so-sinh.jpeg)
 
-**Ánh sáng xanh với bước sóng 420-490 nm**, có thể là đèn huỳnh quang hoặc LED, khoảng cách đến bệnh nhi không quá 50 cm, nhưng không gần hơn 10 cm. Bệnh nhi được **cởi trần và phải che mắt**, nhiều nơi khuyến cáo vẫn thực hiện mặc tã khi chiếu đèn. Trường hợp vàng da không nặng, chiếu liên tục hay cách quãng (12 giờ chiếu-12 giờ nghỉ) không khác biệt về hiệu quả. Khi chiếu đèn, cần đảm bảo chiếu trên diện rộng, vì thế cần **thay đổi tư thế mỗi 2 giờ.**
+**Ánh sáng xanh với bước sóng 420 - 490 nm**, có thể là đèn huỳnh quang hoặc LED, khoảng cách đến bệnh nhi không quá 50 cm, nhưng không gần hơn 10 cm. Bệnh nhi được **cởi trần và phải che mắt**, nhiều nơi khuyến cáo vẫn thực hiện mặc tã khi chiếu đèn. Trường hợp vàng da không nặng, chiếu liên tục hay cách quãng (12 giờ chiếu-12 giờ nghỉ) không khác biệt về hiệu quả. Khi chiếu đèn, cần đảm bảo chiếu trên diện rộng, vì thế cần **thay đổi tư thế mỗi 2 giờ.**
 
 **Ngưng chiếu** khi nồng độ bilirubin đã ở dưới ngưỡng chỉ định chiếu 25-50 µmol/L (1.5-3 mg/dL). Không ngưng chiếu đột ngột vì nguy cơ dội lại.
 
@@ -139,6 +139,6 @@ Thay máu là **điều trị hàng thứ hai.**
 
 ## Tài liệu tham khảo
 
-- Trần Thị Lợi - _Nhi khoa - Bài giảng vàng da sơ sinh_
-- Cloherty JP, Eichenwald EC, Hansen AR, Stark AR - _Manual of Neonatal Care_. Wolters Kluwer
-- American Academy of Pediatrics (AAP) - _Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation_
+- Trần Thị Lợi - _Nhi khoa - Bài giảng vàng da sơ sinh_.
+- Cloherty JP, Eichenwald EC, Hansen AR, Stark AR - _Manual of Neonatal Care_. Wolters Kluwer.
+- American Academy of Pediatrics (AAP) - _Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation_.
