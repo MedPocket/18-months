@@ -10,7 +10,3 @@ cd 18-months
 pnpm install
 pnpm dev
 ```
-
-## Quy tắc viết tài liệu
-
-Vui lòng tuân theo [quy tắc viết tài liệu](./STYLEGUIDE.md) để đảm bảo nội dung y khoa được trình bày nhất quán, chính xác và dễ đọc.
