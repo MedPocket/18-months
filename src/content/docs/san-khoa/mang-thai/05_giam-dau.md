@@ -117,6 +117,6 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế Việt Nam (2021) - _Hướng dẫn sử dụng thuốc hợp lý cho phụ nữ có thai và cho con bú_
-- WHO - _Pregnancy and Pain Management Guidelines_
-- CDC - _Treating Pain During Pregnancy: Safety Information_
+- Bộ Y tế Việt Nam (2021) - _Hướng dẫn sử dụng thuốc hợp lý cho phụ nữ có thai và cho con bú_.
+- WHO - _Pregnancy and Pain Management Guidelines_.
+- CDC - _Treating Pain During Pregnancy: Safety Information_.

@@ -9,7 +9,7 @@ Vú được cấu tạo chính bởi hai thành phần: Mô tuyến (epithelial
 
 ## Giải phẫu
 
-_Hình ảnh "Giải phẫu mặt cắt ngang tuyến vú và mối tương quan với cơ ngực"_.
+_Hình "Giải phẫu mặt cắt ngang tuyến vú và mối tương quan với cơ ngực"_.
 ![Giải phẫu tuyến vú](./_images/giai-phau-va-mo-hoc-tuyen-vu/giai-phau-tuyen-vu.jpeg)
 
 **Vị trí:** Tuyến vú nằm trên thành ngực, phủ lên các cơ ngực lớn (pectoralis major) và cơ ngực bé (pectoralis minor). Vú được cố định vào thành ngực bởi hệ thống cân mạc sâu (Cooper’s ligaments) và các dây chằng lỏng lẻo (suspensory ligaments) nối từ da xuống cân cơ ngực.
@@ -18,8 +18,8 @@ _Hình ảnh "Giải phẫu mặt cắt ngang tuyến vú và mối tương quan
 
 - Hình dạng: Hình bán cầu với đáy rộng tiếp xúc thành ngực, chóp bán cầu là núm vú (nipple) và quầng vú (areola). Núm vú là nơi đổ ra của hệ thống ống dẫn sữa, còn quầng vú là vùng da thâm xung quanh, chứa các tuyến Montgomery (tuyến bã nhờn) giúp bôi trơn khi cho con bú.
 - **Núm vú (Nipple):** Vùng nhô cao, màu hồng nâu - đậm hơn so với da xung quanh, có nhiều lỗ nhỏ (lỗ ống dẫn sữa).
-- **Quầng vú (Areola):** Đường kính khoảng 2-4 cm, chứa các hạch Montgomery sản xuất bã và chất nhầy giữ ẩm, ngăn vi khuẩn.
-- **Bầu vú (Breast mound):** Gồm mô tuyến trải rộng từ bờ ngoài xương ức (sternum) đến đường giữa nách (axilla), và từ sụn sườn 2 đến sụn sườn 6-7 về phía dưới.
+- **Quầng vú (Areola):** Đường kính khoảng 2 - 4 cm, chứa các hạch Montgomery sản xuất bã và chất nhầy giữ ẩm, ngăn vi khuẩn.
+- **Bầu vú (Breast mound):** Gồm mô tuyến trải rộng từ bờ ngoài xương ức (sternum) đến đường giữa nách (axilla), và từ sụn sườn 2 đến sụn sườn 6 - 7 về phía dưới.
 
 **Mạch máu và bạch huyết:**
 
@@ -29,14 +29,14 @@ _Hình ảnh "Giải phẫu mặt cắt ngang tuyến vú và mối tương quan
 
 **Mô liên kết:**
 
-- Chiếm khoảng 50-80% thể tích vú ở phụ nữ trưởng thành, đặc biệt ở người không cho con bú.
+- Chiếm khoảng 50 - 80% thể tích vú ở phụ nữ trưởng thành, đặc biệt ở người không cho con bú.
 - Mô mỡ nằm xen kẽ giữa các tiểu thùy và bọc quanh hệ thống ống tuyến, đóng vai trò bảo vệ, tạo hình và cung cấp năng lượng.
 
 ## Mô học
 
 **Tiểu thùy (Lobe) và tiểu tiểu thùy (Lobule):**
 
-- Mỗi bên vú gồm 10-20 tiểu thùy (lobe), tách biệt nhau bởi mô liên kết và mô mỡ.
+- Mỗi bên vú gồm 10 - 20 tiểu thùy (lobe), tách biệt nhau bởi mô liên kết và mô mỡ.
 - Một tiểu thùy chia thành nhiều tiểu tiểu thùy (lobule) - tức là các đơn vị tận cùng chức năng (terminal duct lobular unit, TDLU). TDLU gồm: **Ống tuyến tận (Terminal duct):** Ống nhỏ nhất, nối tiếp vào nang sữa (acinus). **Nang sữa (Acinus):** Đơn vị sản xuất sữa, có cấu tạo tổ chức biểu mô đơn lớp (cuboidal/trụ) lót bên trong, bên ngoài là lớp tế bào cơ biểu mô (myoepithelial cells).
 
 **Hệ thống ống dẫn sữa (Latiferous duct):**
@@ -74,11 +74,11 @@ _Bảng "Phân biệt thụ thể estrogen và progesterone"_.
 | - Thúc đẩy tăng sinh tế bào mỡ xen kẽ mô tuyến.   | - Kích thích phân chia và biệt hóa tế bào nang sữa (acinus).  |
 | - Quyết định tính nhạy cảm với liệu pháp hormone. | - Tham gia quá trình bài xuất sữa trong giai đoạn cho con bú. |
 
-_Hình ảnh "(Trái) Nang sữa (acinus) gồm lớp tế bào cơ biểu mô (myoepithelial) bên ngoài và tế bào biểu mô trụ thấp/trụ lót bên trong, dựa trên màng đáy. (Phải) Mô hình hóa mô miễn dịch (immunohistochemistry) cho thấy sự biểu hiện của thụ thể estrogen (màu nâu) trên tế bào biểu mô ống tuyến"_.
+_Hình "(Trái) Nang sữa (acinus) gồm lớp tế bào cơ biểu mô (myoepithelial) bên ngoài và tế bào biểu mô trụ thấp/trụ lót bên trong, dựa trên màng đáy. (Phải) Mô hình hóa mô miễn dịch (immunohistochemistry) cho thấy sự biểu hiện của thụ thể estrogen (màu nâu) trên tế bào biểu mô ống tuyến"_.
 ![Nang sữa](./_images/giai-phau-va-mo-hoc-tuyen-vu/nang-sua.png)
 
 ## Tài liệu tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning: Giải phẫu và mô học tuyến vú_
-- Gray H (2019) - _Gray’s Anatomy for Students: Breast Anatomy_
-- Kurman RJ, Ellenson LH, Ronnett BM (2019) - _Blaustein’s Pathology of the Female Genital Tract_
+- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning: Giải phẫu và mô học tuyến vú_.
+- Gray H (2019) - _Gray’s Anatomy for Students: Breast Anatomy_.
+- Kurman RJ, Ellenson LH, Ronnett BM (2019) - _Blaustein’s Pathology of the Female Genital Tract_.

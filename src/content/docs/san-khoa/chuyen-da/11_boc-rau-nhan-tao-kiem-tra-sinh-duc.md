@@ -29,7 +29,7 @@ Sau sổ thai, cần theo dõi sinh hiệu và lượng máu mất, **không** x
 ### Thực hiện
 
 ![Kỹ thuật bóc rau nhân tạo](./_images/boc-rau-nhan-tao-kiem-tra-sinh-duc/ky-thuat-boc-rau-nhan-tao.png)
-_Hình ảnh "Kỹ thuật bóc rau nhân tạo"_.
+_Hình "Kỹ thuật bóc rau nhân tạo"_.
 
 - Ấn giữ đáy tử cung qua thành bụng bằng 1 tay.
 - Tay kia (đeo găng) lần theo dây rốn vào buồng tử cung, tìm mép bánh rau.
@@ -122,4 +122,4 @@ _Hình ảnh "Kỹ thuật bóc rau nhân tạo"_.
 
 ## Tài liệu tham khảo
 
-- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản Phụ khoa_
+- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản Phụ khoa_.

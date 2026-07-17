@@ -83,7 +83,7 @@ Dịch ối hôi, có phân su là dấu hiệu nghi ngờ. Khi có biểu hiệ
 Biểu đồ chuyển dạ (Sản đồ) WHO model 1993 là công cụ mạnh trong theo dõi và phát hiện sớm chuyển dạ kéo dài, hỗ trợ can thiệp kịp thời.
 
 ![Sản đồ WHO 1993](./_images/bieu-do-chuyen-da/bieu-do-chuyen-da-who-1993.png)
-_Hình ảnh "Sản đồ WHO 1993"_.
+_Hình "Sản đồ WHO 1993"_.
 
 ### Đặc điểm
 
@@ -107,4 +107,4 @@ WHO 2002 cải tiến:
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.

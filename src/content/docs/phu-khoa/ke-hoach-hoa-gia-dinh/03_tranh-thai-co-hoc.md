@@ -49,11 +49,11 @@ Các phương pháp phổ biến gồm: bao cao su, màng chắn âm đạo, mũ
 
 ### Đặc điểm
 
-**Tính hiệu quả (Pearl Index):** Perfect 6; Typical 12-20.
+**Tính hiệu quả (Pearl Index):** Perfect 6; Typical 12 - 20.
 
 **Tính an toàn:** Tương đối an toàn, nhưng không bảo vệ khỏi các bệnh lây truyền qua đường tình dục.
 
-**Tính kinh tế:** Tái sử dụng nhiều lần (3-12 tháng), chi phí ban đầu cao hơn bao cao su.
+**Tính kinh tế:** Tái sử dụng nhiều lần (3 - 12 tháng), chi phí ban đầu cao hơn bao cao su.
 
 **Cơ chế tác dụng:** Che phủ cổ tử cung, ngăn tinh trùng đi vào tử cung. Thường dùng kèm thuốc diệt tinh trùng để tăng hiệu quả.
 
@@ -88,7 +88,7 @@ Các phương pháp phổ biến gồm: bao cao su, màng chắn âm đạo, mũ
 
 ### Đặc điểm
 
-**Tính hiệu quả (Pearl Index):** Perfect 9; Typical 16-28.
+**Tính hiệu quả (Pearl Index):** Perfect 9; Typical 16 - 28.
 
 **Tính an toàn:** Có thể gây kích ứng âm đạo, tăng nguy cơ viêm nhiễm đường tiểu. Không bảo vệ các bệnh lây truyền qua đường tình dục.
 
@@ -127,12 +127,12 @@ Các phương pháp phổ biến gồm: bao cao su, màng chắn âm đạo, mũ
 
 :::caution
 
-- Cần đặt trước giao hợp ít nhất 10-15 phút để thuốc phát huy tác dụng.
+- Cần đặt trước giao hợp ít nhất 10 - 15 phút để thuốc phát huy tác dụng.
 - Không rửa âm đạo ngay sau quan hệ, chờ tối thiểu 6 giờ.
 
 :::
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
-- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.

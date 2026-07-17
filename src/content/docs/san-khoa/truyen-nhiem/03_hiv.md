@@ -9,7 +9,7 @@ description: Quản lý HIV trong thai kỳ.
 
 ### Xét nghiệm
 
-- Xét nghiệm HIV nên thực hiện ngay từ lần khám thai đầu tiên. Nếu âm tính ban đầu và có yếu tố nguy cơ (quan hệ tình dục không an toàn, tiêm chích ma túy, bạn tình nhiễm HIV), lặp lại xét nghiệm vào tuần 24-28.
+- Xét nghiệm HIV nên thực hiện ngay từ lần khám thai đầu tiên. Nếu âm tính ban đầu và có yếu tố nguy cơ (quan hệ tình dục không an toàn, tiêm chích ma túy, bạn tình nhiễm HIV), lặp lại xét nghiệm vào tuần 24 - 28.
 - **Xét nghiệm sàng lọc:** ELISA hoặc test nhanh HIV.
 - **Xác nhận:** Western blot hoặc PCR để phát hiện HIV RNA.
 - **Đo tải lượng virus** (HIV RNA) để đánh giá mức độ hoạt động của virus.
@@ -20,11 +20,11 @@ description: Quản lý HIV trong thai kỳ.
 
 _Bảng "Phân loại HIV lâm sàng"_.
 
-| Phân loại HIV lâm sàng theo CDC | Triệu chứng chính                                                                                                     | CD4 > 500 | CD4 200-499 | CD4 < 200 |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------- | ----------- | --------- |
-| **A**                           | Không triệu chứng hoặc chỉ hạch to toàn thân kéo dài                                                                  | A1        | A2          | A3        |
-| **B**                           | Biểu hiện liên quan HIV nhưng không AIDS định nghĩa (zona tái phát, viêm âm đạo dai dẳng, tăng sản bạch cầu miệng...) | B1        | B2          | B3        |
-| **C**                           | Bệnh xác định AIDS (Pneumocystis jirovecii, lao, toxoplasma não, Kaposi...)                                           | C1        | C2          | C3        |
+| Phân loại HIV lâm sàng theo CDC | Triệu chứng chính                                                                                                     | CD4 > 500 | CD4 200 - 499 | CD4 < 200 |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------- | ------------- | --------- |
+| **A**                           | Không triệu chứng hoặc chỉ hạch to toàn thân kéo dài                                                                  | A1        | A2            | A3        |
+| **B**                           | Biểu hiện liên quan HIV nhưng không AIDS định nghĩa (zona tái phát, viêm âm đạo dai dẳng, tăng sản bạch cầu miệng...) | B1        | B2            | B3        |
+| **C**                           | Bệnh xác định AIDS (Pneumocystis jirovecii, lao, toxoplasma não, Kaposi...)                                           | C1        | C2            | C3        |
 
 ## Điều trị
 
@@ -76,7 +76,7 @@ _Bảng "Phân loại HIV lâm sàng"_.
 
 ### Theo dõi sau điều trị
 
-- **Tải lượng HIV RNA và CD4:** Mỗi 4-8 tuần trong quý I, mỗi 12 tuần sau đó.
+- **Tải lượng HIV RNA và CD4:** Mỗi 4 - 8 tuần trong quý I, mỗi 12 tuần sau đó.
 - **Chức năng thận, gan, lipid máu:** Theo dõi định kỳ do tác dụng phụ ARV.
 - **Tuân thủ điều trị:** Tư vấn, hỗ trợ tâm lý, đánh giá tác dụng phụ để đảm bảo mẹ dùng thuốc đều đặn.
 
@@ -88,9 +88,9 @@ _Bảng "Xét nghiệm HIV"_.
 
 | Loại xét nghiệm                          | Phát hiện HIV sớm nhất sau phơi nhiễm | Thời gian khuyến nghị làm xét nghiệm   |
 | ---------------------------------------- | ------------------------------------- | -------------------------------------- |
-| **Xét nghiệm NAT (HIV RNA)**             | 10-14 ngày                            | Sau 2-4 tuần                           |
+| **Xét nghiệm NAT (HIV RNA)**             | 10 - 14 ngày                          | Sau 2 - 4 tuần                         |
 | **Kháng nguyên/kháng thể combo (Ag/Ab)** | 18-45 ngày                            | Sau 4-6 tuần, kiểm tra lại sau 3 tháng |
-| **Kháng thể HIV (ELISA, test nhanh)**    | 3-12 tuần                             | Sau 6 tuần và nhắc lại sau 3 tháng     |
+| **Kháng thể HIV (ELISA, test nhanh)**    | 3 - 12 tuần                           | Sau 6 tuần và nhắc lại sau 3 tháng     |
 
 **Triệu chứng sớm (nếu có):** **từ 2 đến 4 tuần** sau phơi nhiễm, có thể xuất hiện các dấu hiệu giống cúm (sốt, mệt mỏi, phát ban, đau họng...).
 
@@ -106,6 +106,6 @@ _Bảng "Xét nghiệm HIV"_.
 
 ## Tài liệu tham khảo
 
-- World Health Organization (WHO) (2021) - _Consolidated Guidelines on HIV Prevention, Testing, Treatment, Service Delivery and Monitoring_
-- Centers for Disease Control and Prevention (CDC) (2022) - _HIV and Pregnancy_
-- American College of Obstetricians and Gynecologists (ACOG) (2020) - _Committee Opinion No. 762: Human Immunodeficiency Virus (HIV) and Pregnancy_
+- World Health Organization (WHO) (2021) - _Consolidated Guidelines on HIV Prevention, Testing, Treatment, Service Delivery and Monitoring_.
+- Centers for Disease Control and Prevention (CDC) (2022) - _HIV and Pregnancy_.
+- American College of Obstetricians and Gynecologists (ACOG) (2020) - _Committee Opinion No. 762: Human Immunodeficiency Virus (HIV) and Pregnancy_.

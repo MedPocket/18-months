@@ -115,5 +115,5 @@ _Bảng "Các thụ thể steroids"_.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
-- Goodman & Gilman - _The Pharmacological Basis of Therapeutics, 13th ed_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+- Goodman & Gilman - _The Pharmacological Basis of Therapeutics, 13th ed_.

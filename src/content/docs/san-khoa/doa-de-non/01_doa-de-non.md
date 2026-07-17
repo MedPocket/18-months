@@ -61,21 +61,21 @@ Các cơ chế bệnh sinh liên quan:
 ### Chiều dài cổ tử cung
 
 ![Chiều dài cổ tử cung](./_images/chieu-dai-co-tu-cung.png)
-_Hình ảnh "Chiều dài cổ tử cung"_.
+_Hình "Chiều dài cổ tử cung"_.
 
 Đo siêu âm ngả âm đạo, từ lỗ ngoài đến lỗ trong cổ tử cung:
 
-- Tuần 19-23 tuần 6 ngày: Nên khảo sát định kỳ.
+- Tuần 19 - 23 tuần 6 ngày: Nên khảo sát định kỳ.
 - Tuần 24, nếu không triệu chứng mà cổ tử cung < 25 mm → nguy cơ sinh non tăng.
 - Cơn gò xuất hiện mà cổ còn dài > 30 mm → nguy cơ sinh non trong 7 ngày chỉ 1%.
 
 ### Hình dạng lỗ tử cung
 
 ![Hình dạng lỗ tử cung](./_images/hinh-dang-lo-tu-cung.png)
-_Hình ảnh "Hình dạng lỗ tử cung"_.
+_Hình "Hình dạng lỗ tử cung"_.
 
 - Cổ tử cung dạng U, Y: Nguy cơ cao.
-- Dạng I (hình phễu nhẹ): Tiên lượng tốt hơn.<br>
+- Dạng I (hình phễu nhẹ): Tiên lượng tốt hơn.<br >
 
 ### Xét nghiệm sinh hóa
 
@@ -117,11 +117,11 @@ Biểu hiện kèm: Ra dịch hồng, nhầy cổ tử cung, đau lưng, nặng 
 
 _Bảng "Thuốc cắt cơn gò"_.
 
-| Thuốc cắt cơn gò                 | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                      | Lưu ý                                                                                                                            |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| **Đối vận với thụ thể oxytocin** | Đối vận với thụ thể của oxytocin trên cơ tử cung, ngăn cản tác dụng co cơ tử cung của oxytocin nội sinh | Hiện không có tác dụng phụ quan trọng được ghi nhận                                                                                                                               | Là thuốc duy nhất được dán nhãn (_labelled_) cho điều trị sinh non                                                               |
-| **Ức chế kênh calcium**          | Ngăn chặn Ca²⁺ đi vào tế bào                                                                            | Hạ huyết áp và nhức đầu; Có thể làm giảm lưu lượng máu nhau-tử cung, giảm oxygen và tăng CO₂ ở thai nhi                                                                           | - Có thể làm nặng thêm tác dụng phụ của MgSO₄<br>- Không được dán nhãn cho điều trị sinh non<br>- Thường ít dùng do tác dụng phụ |
-| **Đồng vận β-adrenergic**        | Tăng nồng độ cAMP (_cyclic adenosine MonoPhosphate_) trong tế bào, làm giảm nồng độ calcium             | - Hạ huyết áp, nhịp tim nhanh, nặng ngực/đau ngực, thay đổi ECG<br>- Có thể gây phù phổi (đặc biệt khi quá tải tuần hoàn)<br>- Chống chỉ định tương đối: Bệnh mạch vành, suy thận | - Salbutamol không được dán nhãn cho điều trị sinh non<br>- Dùng kéo dài không được xem là an toàn cho thai nhi                  |
+| Thuốc cắt cơn gò                 | Tác động                                                                                                | Tác dụng phụ                                                                                                                                                                          | Lưu ý                                                                                                                                |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Đối vận với thụ thể oxytocin** | Đối vận với thụ thể của oxytocin trên cơ tử cung, ngăn cản tác dụng co cơ tử cung của oxytocin nội sinh | Hiện không có tác dụng phụ quan trọng được ghi nhận                                                                                                                                   | Là thuốc duy nhất được dán nhãn (_labelled_) cho điều trị sinh non                                                                   |
+| **Ức chế kênh calcium**          | Ngăn chặn Ca²⁺ đi vào tế bào                                                                            | Hạ huyết áp và nhức đầu; Có thể làm giảm lưu lượng máu nhau-tử cung, giảm oxygen và tăng CO₂ ở thai nhi                                                                               | - Có thể làm nặng thêm tác dụng phụ của MgSO₄<br > - Không được dán nhãn cho điều trị sinh non<br > - Thường ít dùng do tác dụng phụ |
+| **Đồng vận β-adrenergic**        | Tăng nồng độ cAMP (_cyclic adenosine MonoPhosphate_) trong tế bào, làm giảm nồng độ calcium             | - Hạ huyết áp, nhịp tim nhanh, nặng ngực/đau ngực, thay đổi ECG<br > - Có thể gây phù phổi (đặc biệt khi quá tải tuần hoàn)<br > - Chống chỉ định tương đối: Bệnh mạch vành, suy thận | - Salbutamol không được dán nhãn cho điều trị sinh non<br > - Dùng kéo dài không được xem là an toàn cho thai nhi                    |
 
 :::caution
 Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều loại, hoặc sau 34 tuần.  
@@ -175,7 +175,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 **Liều dùng:**
 
-- Liều tấn công 20-30 mg viên tác dụng nhanh, hiệu quả sau 20-30 phút.
+- Liều tấn công 20 - 30 mg viên tác dụng nhanh, hiệu quả sau 20 - 30 phút.
 - Tiếp tục 10-20 mg mỗi 3-8 giờ, tối đa 48 giờ, liều tối đa 180 mg/ngày.
 
 **Tác dụng phụ:**
@@ -213,7 +213,7 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 - Hạn chế dịch truyền nhất ở song thai hoặc đang dùng corticosteroids.
 - Pha 5 mg Salbutamol/5 mL trong 95 mL NaCl 0.9%; Truyền 12 mL/h (10 µg/phút), tăng 4 mL/h mỗi 30 phút đến khi cắt cơn hoặc mẹ đạt nhịp tim ≥ 120 lần/phút hoặc tối đa 36 mL/h.
 - Có thể truyền TM pha 5 mg Salbutamol/5 mL trong dung dịch glucose 5% (10 µg/mL), tốc độ 60 mL/h (10 µg/phút), tăng 20 mL/h mỗi 30 phút đến khi cắt cơn hoặc nhịp tim mẹ ≥ 120 lần/phút hoặc tối đa 180 mL/h.
-- Thời gian điều trị đường TM 24-48 giờ.
+- Thời gian điều trị đường TM 24 - 48 giờ.
 - Duy trì uống/đặt: Ventolin 2 viên x 4-6 viên/ngày hoặc Salbutamol 1 viên x 1-3 viên/ngày (đặt hậu môn).
 
 **Theo dõi:**
@@ -225,20 +225,20 @@ Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều l
 
 ### Liệu pháp corticosteroids
 
-**Chỉ định:** Sinh non dự kiến 24-34 tuần, có nguy cơ trong 7 ngày.
+**Chỉ định:** Sinh non dự kiến 24 - 34 tuần, có nguy cơ trong 7 ngày.
 
 **Liều dùng:**
 
 - Betamethasone 12 mg bắp x 2 liều cách 24 giờ.
 - Hoặc dexamethasone 6 mg bắp x 4 liều cách 12 giờ.
 
-Xem xét lặp lại sau 7-14 ngày nếu còn nguy cơ và < 34 tuần.
+Xem xét lặp lại sau 7 - 14 ngày nếu còn nguy cơ và < 34 tuần.
 
 ### Bảo vệ thần kinh thai bằng MgSO₄
 
 MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ định:**
 
-- Thai 24-31 tuần 6 ngày có nguy cơ sinh non trong 24 giờ.
+- Thai 24 - 31 tuần 6 ngày có nguy cơ sinh non trong 24 giờ.
 - Dùng lý tưởng 4 giờ trước sinh khi có chỉ định chấm dứt thai kỳ.
 
 **Chống chỉ định:** Mẹ bị nhược cơ.
@@ -247,7 +247,7 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 
 **Liều dùng:**
 
-- MgSO₄ 4.5 g truyền TM chậm 20-30 phút.
+- MgSO₄ 4.5 g truyền TM chậm 20 - 30 phút.
 - Giảm liều nếu thiểu niệu hoặc suy thận.
 - Không phối hợp với thuốc cắt cơn.
 
@@ -272,24 +272,24 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
 ### Khâu vòng cổ tử cung
 
 - Cho trường hợp hở eo tử cung, kênh cổ ngắn < 25 mm.
-- Không lợi ở cổ ngắn không có tiền sử sinh non, có nguy cơ ở song thai.<br>
+- Không lợi ở cổ ngắn không có tiền sử sinh non, có nguy cơ ở song thai.<br >
   ![Khâu vòng cổ tử cung](./_images/khau-vong-co-tu-cung.png)
-  _Hình ảnh "Khâu vòng cổ tử cung"_.
+  _Hình "Khâu vòng cổ tử cung"_.
 
 ### Pessary
 
 - Giảm tỷ lệ sinh non < 34 và < 37 tuần.
 - Gây tiết dịch âm đạo, cần theo dõi viêm.
-- Đặt 14-32 tuần hoặc 2 tuần trước mốc sinh non trước đó.
-- Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.<br>
+- Đặt 14 - 32 tuần hoặc 2 tuần trước mốc sinh non trước đó.
+- Theo dõi định kỳ, lấy ra sau 37 tuần hoặc khi chuyển dạ.<br >
   ![Vòng nâng cổ tử cung](./_images/vong-nang-co-tu-cung.png)
-  _Hình ảnh "Vòng nâng cổ tử cung"_.
+  _Hình "Vòng nâng cổ tử cung"_.
 
 ![Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ](./_images/luu-do-du-phong-sinh-non.png)
-_Hình ảnh "Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ"_.
+_Hình "Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ"_.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based Learning_
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
-- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản phụ khoa_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based Learning_.
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản phụ khoa_.

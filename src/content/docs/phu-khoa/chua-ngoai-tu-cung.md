@@ -5,7 +5,7 @@ description: Tổng quan, chẩn đoán và điều trị chửa ngoài tử cun
 
 **Chửa ngoài tử cung (CNTC)** là hiện tượng trứng đã thụ tinh không làm tổ trong buồng tử cung mà phát triển ở vị trí bất thường, phổ biến nhất là ở ống dẫn trứng. Đây là một cấp cứu sản khoa cần được phát hiện sớm để tránh nguy cơ vỡ khối thai, xuất huyết trong ổ bụng và ảnh hưởng đến khả năng sinh sản.
 
-_Hình ảnh "Các vị trí chửa ngoài tử cung"_.
+_Hình "Các vị trí chửa ngoài tử cung"_.
 ![Các vị trí chửa ngoài tử cung](./_images/chua-ngoai-tu-cung/vi-tri-chua-ngoai-tu-cung.png)
 
 ## Yếu tố nguy cơ
@@ -41,7 +41,7 @@ _Hình ảnh "Các vị trí chửa ngoài tử cung"_.
 **β-hCG huyết thanh:**
 
 - Định lượng cách nhau 48 giờ.
-- Nếu β-hCG tăng ≥ 60% sau 48h → theo dõi thai trong tử cung.
+- Nếu β-hCG tăng ≥ 60% sau 48 h → theo dõi thai trong tử cung.
 - Nếu tăng không đạt chuẩn hoặc giảm → nghi CNTC.
 
 **Siêu âm:**
@@ -152,7 +152,7 @@ Tiêm Methotrexate (MTX) để điều trị chửa ngoài tử cung là một p
 
 #### Phác đồ cụ thể
 
-Tỷ lệ thành công đường toàn thân 70-95%.
+Tỷ lệ thành công đường toàn thân 70 - 95%.
 
 **MTX đơn liều:**
 
@@ -162,7 +162,7 @@ Tỷ lệ thành công đường toàn thân 70-95%.
 **MTX liều đôi:**
 
 - MTX ngày 1 và 4.
-- Theo dõi tương tự đơn liều, nhưng thêm liều 3-4 nếu cần.
+- Theo dõi tương tự đơn liều, nhưng thêm liều 3 - 4 nếu cần.
 
 **MTX đa liều:**
 
@@ -174,7 +174,7 @@ Tỷ lệ thành công đường toàn thân 70-95%.
 
 - Buồn nôn, nôn, viêm miệng.
 - Xuất huyết âm đạo nhẹ.
-- Đau bụng 2-3 ngày sau tiêm (cần phân biệt với vỡ).
+- Đau bụng 2 - 3 ngày sau tiêm (cần phân biệt với vỡ).
 - Tăng men gan tạm thời.
 - Rụng tóc (hiếm).
 - Viêm phổi (rất hiếm).
@@ -228,11 +228,11 @@ Chỉ định bệnh nhân sốc, mất máu nặng, không thể nội soi.
 
 **Mong có thai lại:**
 
-- **Tỷ lệ có thai lại:** Khoảng 60-70% phụ nữ có thể mang thai lại bình thường.
-- **Thời gian trung bình có thai lại:** Thường sau 6-12 tháng (nên chờ tối thiểu 3 tháng nếu điều trị MTX để tránh ảnh hưởng đến phôi thai).
-- **Tỷ lệ chửa ngoài tử cung tái phát:** 10-20% (cao hơn nếu đã có tiền sử chửa ngoài tử cung nhiều lần, hoặc còn tổn thương ống dẫn trứng đối bên).
-- **Tỷ lệ vô sinh sau mổ:** 15-30% tùy mức độ tổn thương vòi trứng và bệnh lý kèm theo (viêm dính, lạc nội mạc tử cung...).
+- **Tỷ lệ có thai lại:** Khoảng 60 - 70% phụ nữ có thể mang thai lại bình thường.
+- **Thời gian trung bình có thai lại:** Thường sau 6 - 12 tháng (nên chờ tối thiểu 3 tháng nếu điều trị MTX để tránh ảnh hưởng đến phôi thai).
+- **Tỷ lệ chửa ngoài tử cung tái phát:** 10 - 20% (cao hơn nếu đã có tiền sử chửa ngoài tử cung nhiều lần, hoặc còn tổn thương ống dẫn trứng đối bên).
+- **Tỷ lệ vô sinh sau mổ:** 15 - 30% tùy mức độ tổn thương vòi trứng và bệnh lý kèm theo (viêm dính, lạc nội mạc tử cung...).
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.

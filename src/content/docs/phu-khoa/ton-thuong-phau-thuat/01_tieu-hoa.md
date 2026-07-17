@@ -7,7 +7,7 @@ Tổn thương hệ tiêu hóa có thể xảy ra trong các phẫu thuật sả
 
 ## Yếu tố nguy cơ
 
-- Tiền căn mổ hở bụng (đặc biệt đường giữa >Pfannenstiel).
+- Tiền căn mổ hở bụng (đặc biệt đường giữa > Pfannenstiel).
 - Tiền sử viêm phúc mạc toàn thể, viêm ruột thừa vỡ, tắc ruột.
 - Phẫu thuật ung thư ổ bụng, xạ trị hoặc hóa trị trước đó.
 - Bệnh lý viêm ruột, viêm vùng chậu.
@@ -64,7 +64,7 @@ Triệu chứng viêm phúc mạc trong 48 giờ đầu:
 **X-quang bụng đứng:**
 
 - Tìm liềm hơi dưới cơ hoành, liệt ruột.
-- Liệt ruột sau mổ thường chỉ kéo dài 1-2 ngày. Nếu kéo dài hơn, cần nghi ngờ biến chứng.
+- Liệt ruột sau mổ thường chỉ kéo dài 1 - 2 ngày. Nếu kéo dài hơn, cần nghi ngờ biến chứng.
 
 **X-quang lưu thông ruột non với chất cản quang tan trong nước:** Xác định rò rỉ thuốc ra ổ bụng.
 
@@ -92,7 +92,7 @@ Triệu chứng viêm phúc mạc trong 48 giờ đầu:
 
 **Giảm nguy cơ tổn thương trong phẫu thuật nội soi:**
 
-- Vị trí vào trocar: Điểm Palmer (2-3 cm dưới bờ sườn trái) hoặc điểm Lee Huang.
+- Vị trí vào trocar: Điểm Palmer (2 - 3 cm dưới bờ sườn trái) hoặc điểm Lee Huang.
 - Kỹ thuật vào: Hasson hoặc dưới hướng dẫn nội soi.
 - Luôn kiểm tra ruột quanh vị trí trocar.
 - Giảm lực thao tác, dùng lam ruột khi kẹp.

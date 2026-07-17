@@ -48,10 +48,10 @@ _Bảng "Phân loại COEIN"_.
 
 ## Chẩn đoán
 
-_Hình ảnh "Sơ đồ tiếp cận AUB mạn tính - Bệnh viện Từ Dũ"_.
+_Hình "Sơ đồ tiếp cận AUB mạn tính - Bệnh viện Từ Dũ"_.
 ![Sơ đồ tiếp cận AUB mạn tính - Bệnh viện Từ Dũ.](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
 
-_Hình ảnh "Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp AUB"_.
+_Hình "Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp AUB"_.
 ![Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/tom-luoc-khao-sat-va-chan-doan-1-so-truong-hop.jpeg)
 
 ### Lâm sàng
@@ -96,7 +96,7 @@ _Bảng "Xét nghiệm cơ bản"_.
 
 **Siêu âm đầu dò âm đạo (TVUS)** là khảo sát hình ảnh đầu tay:
 
-- Đo độ dày nội mạc: < 4-5 mm (đã qua giai đoạn hành kinh, không dùng tamoxifen) được coi là bình thường. ≥ 5 mm cần đánh giá thêm (đặc biệt ≥ 8 mm hoặc có dày không đều nên nghi tăng sinh).
+- Đo độ dày nội mạc: < 4 - 5 mm (đã qua giai đoạn hành kinh, không dùng tamoxifen) được coi là bình thường. ≥ 5 mm cần đánh giá thêm (đặc biệt ≥ 8 mm hoặc có dày không đều nên nghi tăng sinh).
 - Hình thái nội mạc: Đồng nhất hay không, có polyp, u xơ dưới niêm mạc, hình ảnh _chuỗi hạt_ PCOS (ở tuổi trẻ).
 - Buồng trứng: U nang, u lạc nội mạc, PCOS.
 
@@ -190,7 +190,7 @@ Estrogen cần được cho đủ liều để nội mạc phát triển nhanh n
 
 - Dùng các phương pháp: Sóng vi sóng, laser, năng lượng radio, thòng lọng điện (resectoscope) để tiêu hủy lớp nội mạc tận gốc.
 - Chỉ định cho phụ nữ đã đủ con và muốn điều trị triệt để AUB cơ năng hoặc tăng sinh nội mạc nhẹ.
-- Hạn chế: Không áp dụng khi nghi ngờ hoặc đã chẩn đoán tăng sinh nội mạc nặng, loạn sản hoặc ung thư; Không dành cho người có u xơ lớn > 3-4 cm (ngoại trừ u xơ dưới niêm mạc nhỏ đã cắt hết).
+- Hạn chế: Không áp dụng khi nghi ngờ hoặc đã chẩn đoán tăng sinh nội mạc nặng, loạn sản hoặc ung thư; Không dành cho người có u xơ lớn > 3 - 4 cm (ngoại trừ u xơ dưới niêm mạc nhỏ đã cắt hết).
 
 **Thuyên tắc động mạch tử cung (Uterine artery embolization - UAE):**
 
@@ -208,8 +208,8 @@ Thuyên tắc động mạch tử cung có thể coi là biện pháp tương đ
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
-- FIGO (2018) - _PALM-COEIN Classification of Causes of Abnormal Uterine Bleeding_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+- FIGO (2018) - _PALM-COEIN Classification of Causes of Abnormal Uterine Bleeding_.
 - UpToDate (2024) - _Abnormal uterine bleeding in reproductive-aged women (truy cập tháng 5/2025)_
-- ACOG Practice Bulletin No. 128 (2021) - _Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women_
+- ACOG Practice Bulletin No. 128 (2021) - _Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women_.

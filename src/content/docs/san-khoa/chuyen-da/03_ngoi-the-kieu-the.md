@@ -14,7 +14,7 @@ description: Đại cương về ngôi, thế và kiểu thế.
 
 **Phân loại ngôi đầu:**
 
-_Hình ảnh "Phân loại ngôi đầu"_.
+_Hình "Phân loại ngôi đầu"_.
 ![Phân loại ngôi đầu](./_images/ngoi-the-kieu-the/ngoi-dau.png)
 
 - **Ngôi chỏm:** Đầu cúi tối đa, cằm áp sát ngực.
@@ -79,7 +79,7 @@ Trong ngôi chỏm, **ụ đầu** cùng bên với chi; Trong ngôi mặt, ụ 
 
 ### Khám âm đạo
 
-_Hình ảnh "Các kiểu thế trong ngôi chỏm"_.
+_Hình "Các kiểu thế trong ngôi chỏm"_.
 ![Các kiểu thế trong ngôi chỏm](./_images/ngoi-the-kieu-the/cac-kieu-the-ngoi-chom.png)
 
 Khám âm đạo lúc cổ tử cung đã mở là **phương pháp chính xác nhất** để xác định ngôi - thế - kiểu thế:
@@ -106,4 +106,4 @@ Siêu âm có giá trị khi:
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.

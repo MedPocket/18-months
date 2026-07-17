@@ -25,7 +25,7 @@ Các phương pháp hình ảnh chính:
 
 #### Phân loại u buồng trứng theo hình thái siêu âm Tokyo
 
-_Hình ảnh "Phân loại u buồng trứng theo hình thái siêu âm Tokyo"_.
+_Hình "Phân loại u buồng trứng theo hình thái siêu âm Tokyo"_.
 ![Phân loại u buồng trứng theo hình thái siêu âm Tokyo](./_images/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-theo-Tokyo.jpeg)
 
 - **Kiểu I:** Đa số u nang thanh dịch hoặc nang cơ năng.
@@ -40,27 +40,27 @@ _Hình ảnh "Phân loại u buồng trứng theo hình thái siêu âm Tokyo"_.
 Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 
 - **O-RADS 0:** Khó đánh giá (hơi ruột, sang thương lớn, vị trí khó...).
-- **O-RADS 1:** Sang thương sinh lý (nang noãn, nang hoàng thể).<br>
-  _Hình ảnh "O-RADS 1"_.
+- **O-RADS 1:** Sang thương sinh lý (nang noãn, nang hoàng thể).<br >
+  _Hình "O-RADS 1"_.
   ![O-RADS 1](./_images/phuong-tien-tiep-can-u-buong-trung/orads-1.png)
-- **O-RADS 2** (< 1% ác): Nang đơn thùy < 10 cm (đơn giản hoặc "lành kinh điển" như nang xuất huyết điển hình, nang bì, endometrioma, nang cạnh buồng trứng, nang vùi phúc mạc, ứ dịch tai vòi).<br>
-  _Hình ảnh "O-RADS 2A"_.
+- **O-RADS 2** (< 1% ác): Nang đơn thùy < 10 cm (đơn giản hoặc "lành kinh điển" như nang xuất huyết điển hình, nang bì, endometrioma, nang cạnh buồng trứng, nang vùi phúc mạc, ứ dịch tai vòi).<br >
+  _Hình "O-RADS 2A"_.
   ![O-RADS 2A](./_images/phuong-tien-tiep-can-u-buong-trung/orads-2a.png)
-  _Hình ảnh "O-RADS 2B"_.
+  _Hình "O-RADS 2B"_.
   ![O-RADS 2B](./_images/phuong-tien-tiep-can-u-buong-trung/orads-2b.png)
-- **O-RADS 3** (1-< 10% ác): Nang đơn giản/đơn thùy trơn láng ≥ 10 cm. Nang đơn thùy với thành không đều. Nang đa thùy < 10 cm không thành phần đặc, điểm < 4. Sang thương đặc không tăng sinh mạch, bờ trơn láng. Có thể cần Doppler để xác định thành phần đặc.<br>
-  _Hình ảnh "O-RADS 3"_.
+- **O-RADS 3** (1-< 10% ác): Nang đơn giản/đơn thùy trơn láng ≥ 10 cm. Nang đơn thùy với thành không đều. Nang đa thùy < 10 cm không thành phần đặc, điểm < 4. Sang thương đặc không tăng sinh mạch, bờ trơn láng. Có thể cần Doppler để xác định thành phần đặc.<br >
+  _Hình "O-RADS 3"_.
   ![O-RADS 3](./_images/phuong-tien-tiep-can-u-buong-trung/orads-3.png)
-- **O-RADS 4** (10-< 50% ác): Nang đa thùy ≥ 10 cm hoặc có vách/thành không đều (< 3 mm). Nang đơn/đa thùy có thành phần đặc hoặc CS 4. Sang thương đặc bờ trơn láng (> 80% đặc) với CS 2-3. "Nhú" là thành phần đặc ≥ 3 mm.<br>
-  _Hình ảnh "O-RADS 4A"_.
+- **O-RADS 4** (10-< 50% ác): Nang đa thùy ≥ 10 cm hoặc có vách/thành không đều (< 3 mm). Nang đơn/đa thùy có thành phần đặc hoặc CS 4. Sang thương đặc bờ trơn láng (> 80% đặc) với CS 2-3. "Nhú" là thành phần đặc ≥ 3 mm.<br >
+  _Hình "O-RADS 4A"_.
   ![O-RADS 4A](./_images/phuong-tien-tiep-can-u-buong-trung/orads-4a.png)
-  _Hình ảnh "O-RADS 4B"_.
+  _Hình "O-RADS 4B"_.
   ![O-RADS 4B](./_images/phuong-tien-tiep-can-u-buong-trung/orads-4b.png)
-- **O-RADS 5** (≥ 50% ác): Sang thương đặc bờ không đều, nang đa thùy có thành phần đặc với CS cao; Hoặc kèm báng bụng/nốt phúc mạc (ngoại trừ báng do nang chức năng hoặc nang chắc chắn lành).<br>
-  _Hình ảnh "O-RADS 5"_.
+- **O-RADS 5** (≥ 50% ác): Sang thương đặc bờ không đều, nang đa thùy có thành phần đặc với CS cao; Hoặc kèm báng bụng/nốt phúc mạc (ngoại trừ báng do nang chức năng hoặc nang chắc chắn lành).<br >
+  _Hình "O-RADS 5"_.
   ![O-RADS 5](./_images/phuong-tien-tiep-can-u-buong-trung/orads-5.png)
 
-_Hình ảnh "Phác đồ xử trí và phân loại O-RADS"_.
+_Hình "Phác đồ xử trí và phân loại O-RADS"_.
 ![Phác đồ xử trí và phân loại O-RADS](./_images/phuong-tien-tiep-can-u-buong-trung/orads-xu-tri-va-phan-loai.png)
 
 #### Phân loại u buồng trứng theo IOTA
@@ -83,7 +83,7 @@ _Hình ảnh "Phác đồ xử trí và phân loại O-RADS"_.
 - M4: U đặc đa thùy không đồng nhất > 100 mm.
 - M5: Dòng chảy rất mạnh (điểm màu 4).
 
-_Hình ảnh "Phân loại u buồng trứng theo IOTA"_.
+_Hình "Phân loại u buồng trứng theo IOTA"_.
 ![Phân loại u buồng trứng theo IOTA](./_images/phuong-tien-tiep-can-u-buong-trung/phan-loai-u-buong-trung-IOTA.jpeg)
 
 ### CT-scan
@@ -114,7 +114,7 @@ Hiệu quả để: Mô tả u rất nhỏ vùng bụng. Xác định vị trí 
 - Tăng trong: Ung thư buồng trứng, vú, phổi, tụy, đại tràng... và nhiều tình trạng lành: thai kỳ, lạc nội mạc tử cung, hành kinh, tràn dịch màng bụng/ phổi (lao, suy tim...).
 - Giá trị ngưỡng chung: 35 IU/mL; Sau mãn kinh hoặc đã cắt TC + 2 buồng trứng nên dùng ngưỡng 20-26 IU/mL.
 - Trong u biểu mô buồng trứng: CA125 tăng chủ yếu ở u thanh dịch, ít ở u nhầy, tế bào sáng hoặc giáp biên.
-- **Không dùng để sàng lọc u sớm** (độ nhạy 10-50%, độ đặc hiệu 30%).
+- **Không dùng để sàng lọc u sớm** (độ nhạy 10 - 50%, độ đặc hiệu 30%).
 - **Độ nhạy CA125** cho ung thư tiến triển xa 85%.
 - **Theo dõi tái phát:** Độ nhạy 60%, độ đặc hiệu 20%.
 
@@ -167,4 +167,4 @@ ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.

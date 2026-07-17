@@ -13,14 +13,14 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 
 **Giang mai sớm (≤ 2 năm kể từ khi nhiễm):**
 
-- **Giang mai thời kỳ I (Primary syphilis):** Xuất hiện săng đơn độc tại vị trí xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn hoặc vị trí ngoài sinh dục hiếm gặp). Săng thường có rìa nâng cao, không đau hoặc ít đau, xuất hiện sau 9-90 ngày (trung bình 21 ngày), tự lui trong 3-10 tuần dù không điều trị.
-- **Giang mai thời kỳ II (Secondary syphilis):** Xuất hiện 4-8 tuần sau săng, biểu hiện tổn thương da, niêm mạc lan tỏa, kèm hạch ngoại biên và triệu chứng nhiễm khuẩn hệ thống.
+- **Giang mai thời kỳ I (Primary syphilis):** Xuất hiện săng đơn độc tại vị trí xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn hoặc vị trí ngoài sinh dục hiếm gặp). Săng thường có rìa nâng cao, không đau hoặc ít đau, xuất hiện sau 9 - 90 ngày (trung bình 21 ngày), tự lui trong 3 - 10 tuần dù không điều trị.
+- **Giang mai thời kỳ II (Secondary syphilis):** Xuất hiện 4 - 8 tuần sau săng, biểu hiện tổn thương da, niêm mạc lan tỏa, kèm hạch ngoại biên và triệu chứng nhiễm khuẩn hệ thống.
 - **Giang mai kín sớm (Early latent syphilis):** Không có triệu chứng lâm sàng, giai đoạn tiềm ẩn ≤ 2 năm kể từ khi nhiễm; Chỉ phát hiện qua xét nghiệm huyết thanh.
 
 **Giang mai muộn (> 2 năm kể từ khi nhiễm hoặc không xác định được thời gian):**
 
 - **Giang mai kín muộn (Late latent syphilis):** Tiềm ẩn > 2 năm, không triệu chứng và chỉ phát hiện qua xét nghiệm huyết thanh.
-- **Giang mai thời kỳ III (Tertiary syphilis):** Xuất hiện sau nhiều năm (có thể 10-30 năm), gây tổn thương ăn sâu vào da, niêm mạc, xương - khớp, tim mạch (với biến chứng viêm động mạch chủ, phình động mạch chủ, hở van động mạch chủ) và thần kinh (giang mai thần kinh muộn), kèm gôm giang mai.
+- **Giang mai thời kỳ III (Tertiary syphilis):** Xuất hiện sau nhiều năm (có thể 10 - 30 năm), gây tổn thương ăn sâu vào da, niêm mạc, xương - khớp, tim mạch (với biến chứng viêm động mạch chủ, phình động mạch chủ, hở van động mạch chủ) và thần kinh (giang mai thần kinh muộn), kèm gôm giang mai.
 
 #### Giang mai thời kỳ I (Primary syphilis)
 
@@ -28,12 +28,12 @@ Thời gian ủ bệnh kéo dài từ 10 đến 90 ngày (thường 21 ngày). N
 
 - Xuất hiện tại nơi xoắn khuẩn xâm nhập (âm đạo, dương vật, hậu môn; Có thể ở miệng khi quan hệ đường miệng).
 - Hình thức: Vết loét đơn hoặc ít, rìa gồ, nền cứng, không đau hoặc ít đau.
-- Xuất hiện sau 9-90 ngày (trung bình 21 ngày).
-- Tự lui sau 3-10 tuần mà không cần điều trị; Nhiều người không để ý hoặc nhầm với vết loét lành tính.
+- Xuất hiện sau 9 - 90 ngày (trung bình 21 ngày).
+- Tự lui sau 3 - 10 tuần mà không cần điều trị; Nhiều người không để ý hoặc nhầm với vết loét lành tính.
 
 **Hạch ngoại biên:** Hạch bẹn (với săng sinh dục) sưng một hoặc hai bên, mềm, không đau.
 
-Nếu không điều trị, sau 4-8 tuần săng lui, chuyển sang giai đoạn II hoặc tiềm ẩn sớm.
+Nếu không điều trị, sau 4 - 8 tuần săng lui, chuyển sang giai đoạn II hoặc tiềm ẩn sớm.
 
 #### Giang mai thời kỳ II (Secondary syphilis)
 
@@ -84,7 +84,7 @@ Khoảng 25% bệnh nhân trong giai đoạn kín tiến triển thành giang ma
 
 **Xác định giang mai bẩm sinh** khi:
 
-- Thai lưu, thai chết lưu hoặc trẻ sinh ≥ 20 tuần/≥ 500 g, mẹ có huyết thanh giang mai dương tính và không điều trị đúng, đủ trước sinh.
+- Thai lưu, thai chết lưu hoặc trẻ sinh ≥ 20 tuần/ ≥ 500 g, mẹ có huyết thanh giang mai dương tính và không điều trị đúng, đủ trước sinh.
 - Trẻ < 2 tuổi có triệu chứng lâm sàng (viêm da, hạch, gan lách to, nhịp thở có tiếng ran) hoặc xét nghiệm huyết thanh dương tính.
 
 **Biểu hiện giang mai bẩm sinh sớm (< 2 tuổi):**
@@ -162,7 +162,7 @@ Quy trình chẩn đoán thường là:
 
 **Chẩn đoán xác định** khi:
 
-- Xét nghiệm không đặc hiệu (+) (RPR/VDRL) và
+- Xét nghiệm không đặc hiệu (+) (RPR/VDRL) và.
 - Xét nghiệm đặc hiệu (+) (TPHA/TPPA/FTA-ABS)
 - Hoặc Xét nghiệm nhanh đặc hiệu (+) kết hợp NAATs/PCR (+) hoặc soi kính hiển vi nền đen (+) với lâm sàng phù hợp.
 
@@ -271,4 +271,4 @@ Quy trình chẩn đoán thường là:
 
 ## Tài liệu tham khảo
 
-- BỘ Y TẾ (2021) - _Hướng dẫn chẩn đoán và điều trị bệnh giang mai_
+- BỘ Y TẾ (2021) - _Hướng dẫn chẩn đoán và điều trị bệnh giang mai_.

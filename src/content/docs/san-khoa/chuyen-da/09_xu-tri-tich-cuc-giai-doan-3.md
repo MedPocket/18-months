@@ -16,7 +16,7 @@ description: Xử trí tích cực giai đoạn 3 chuyển dạ.
 Sau sổ thai, tử cung co khít, tạo áp lực bóp khối rau bám không đàn hồi, làm nó tách dần khỏi thành tử cung. Máu rò rỉ vào khoảng trống sau bong, hình thành khối máu tụ, lan dần để tách phần rau còn bám.
 
 ![Thì bong rau](./_images/xu-tri-tich-cuc-giai-doan-3/bong-rau.png)
-_Hình ảnh "Thì bong rau"_.
+_Hình "Thì bong rau"_.
 
 Giữa bong và sổ rau, tử cung có giai đoạn **nghỉ sinh lý**, không co bóp.
 
@@ -25,17 +25,17 @@ Giữa bong và sổ rau, tử cung có giai đoạn **nghỉ sinh lý**, không
 Tử cung tái co bóp tống khối rau đã bong ra âm đạo. Gồm 2 kiểu:
 
 - **Kiểu Beaudelocque** (phổ biến): Máu tụ trung tâm, rau phồng lên rồi tróc dần, mặt thai (fetal side) xuất trước.
-- **Kiểu Duncan** (ít gặp): Máu tụ ở mép, rau bong kém, mặt mẹ (maternal side) xuất trước, mất máu nhiều.<br>
+- **Kiểu Duncan** (ít gặp): Máu tụ ở mép, rau bong kém, mặt mẹ (maternal side) xuất trước, mất máu nhiều.<br >
 
 ![Thì sổ rau](./_images/xu-tri-tich-cuc-giai-doan-3/so-rau.png)
-_Hình ảnh "Thì sổ rau"_.
+_Hình "Thì sổ rau"_.
 
 ### Cầm máu
 
 Sau khi rau sổ, tử cung co thành **khối cầu an toàn**, siết chặt mạch máu diện bám rau (cơ chế cơ học). Cục máu đông hình thành bịt kín đầu mạch (cơ chế đông máu).
 
 ![Thì cầm máu](./_images/xu-tri-tich-cuc-giai-doan-3/cam-mau.png)
-_Hình ảnh "Thì cầm máu"_.
+_Hình "Thì cầm máu"_.
 
 :::caution
 Đoạn dưới tử cung không có bó cơ đan chéo, nên băng huyết do rau tiền đạo luôn phải xử trí khẩn cấp.
@@ -58,4 +58,4 @@ Can thiệp tích cực gồm ba bước chính, thực hiện ngay sau sổ vai
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.

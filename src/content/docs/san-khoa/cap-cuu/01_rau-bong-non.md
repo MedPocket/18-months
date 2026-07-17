@@ -11,7 +11,7 @@ description: Tổng quan chẩn đoán và xử trí rau bong non.
 
 Máu chảy ra giữa lớp cơ tử cung và các màng thai bị giam cầm trong **khối máu tụ.** Khi khối máu tụ lớn hơn, cùng áp lực tăng lên sẽ gây rò rỉ máu ra ngoài qua cổ tử cung, dẫn đến xuất huyết âm đạo.
 
-_Hình ảnh "Khối máu tụ"_.
+_Hình "Khối máu tụ"_.
 ![Khối máu tụ](./_images/rau-bong-non/khoi-mau-tu.png)
 
 **Nguồn chảy máu:**
@@ -48,7 +48,7 @@ Triệu chứng để nghĩ tới rau bong non:
 - **Dấu hiệu suy thai:** Tim thai thay đổi, giảm vận động thai.
 - **Thai lưu** có thể xảy ra trong trường hợp nặng.
 
-_Hình ảnh "EFM rau bong non"_.
+_Hình "EFM rau bong non"_.
 ![EFM rau bong non](./_images/rau-bong-non/EFM-rau-bong-non.png)
 
 ### Cận lâm sàng
@@ -81,12 +81,12 @@ Tử cung Couvelaire:
 - Nặng có thể lan tới vòi trứng, dây chằng rộng, buồng trứng.
 - Không phải chỉ định cắt tử cung.
 
-_Hình ảnh "Tử cung Couvelaire"_.
+_Hình "Tử cung Couvelaire"_.
 ![Tử cung Couvelaire](./_images/rau-bong-non/tu-cung-couvelaire.png)
 
 ### Tử vong sơ sinh
 
-Bong rau làm gián đoạn trao đổi khí mẹ-thai. Nguy cơ tử vong trong chuyển dạ lên đến 25%. 15-20% trẻ sống sót có di chứng thần kinh dài hạn.
+Bong rau làm gián đoạn trao đổi khí mẹ-thai. Nguy cơ tử vong trong chuyển dạ lên đến 25%. 15 - 20% trẻ sống sót có di chứng thần kinh dài hạn.
 
 ## Điều trị
 
@@ -108,4 +108,4 @@ Bong rau làm gián đoạn trao đổi khí mẹ-thai. Nguy cơ tử vong trong
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.

@@ -17,7 +17,7 @@ _Bảng "Các chỉ số tuyến giáp"_.
 | **Free T₄ (ng/dL)**     | 1-2.3           | 2.5-3.5   | 1.5-3         |
 | **T₃ (ng/dL)**          | 110-230         | 150-250   | 40-60         |
 | **Reverse T₃ (ng/dL)**  | 15-30           | 35-65     | 80-360        |
-| **Resin T₃ uptake (%)** | 20-30           | 10        | 10-15         |
+| **Resin T₃ uptake (%)** | 20 - 30         | 10        | 10 - 15       |
 | **TBG (g/dL)**          | 12-28           | 40-50     | 10-16         |
 | **TSH (U/mL)**          | 1.94            | 0-6       | 0-20          |
 
@@ -28,7 +28,7 @@ _Chức năng tuyến giáp ở phụ nữ, phụ nữ mang thai và máu cuốn
 Về **chức năng tuyến giáp** của thai:
 
 - Trước tuần thứ 10: Không có iod hữu cơ trong tuyến giáp thai nhi.
-- Từ tuần 11-12: Tuyến giáp thai nhi bắt đầu sản xuất iodothyronine và T₄.
+- Từ tuần 11 - 12: Tuyến giáp thai nhi bắt đầu sản xuất iodothyronine và T₄.
 - TSH, T₄ và FT₄ trong thai thể hiện sự trưởng thành của trục tuyến giáp - tuyến yên.
 
 **Iod tự do có thể đi qua bánh rau**, nhưng TSH không. Do đó, một lượng T₄ giới hạn từ mẹ có thể qua bánh rau và đóng vai trò quan trọng cho sự phát triển hệ thần kinh của thai nhi, đặc biệt trong **tam cá nguyệt đầu tiên** trước khi tuyến giáp thai hoạt động hiệu quả.
@@ -37,4 +37,4 @@ Một số chất như **propylthiouracil (PTU)** và **methimazole** (thuốc k
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.

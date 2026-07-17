@@ -7,7 +7,7 @@ description: Xử trí sảy thai.
 
 Sảy thai là biến cố phổ biến trong sản khoa:
 
-- Chiếm 10-20% thai kỳ.
+- Chiếm 10 - 20% thai kỳ.
 - Hơn 80% xảy ra trong 12 tuần đầu thai kỳ.
 - Gây nên gánh nặng tâm lý và thể chất.
 - Xử trí không phù hợp có thể đe doạ tính mạng hay ảnh hưởng đến tương lai sinh sản.
@@ -17,7 +17,7 @@ Giới hạn tuổi thai không hoàn toàn thống nhất trên thế giới:
 - WHO < 22 tuần hay cân nặng thai dưới 500 g.
 - ACOG < 20 tuần.
 - RCOG < 24 tuần.
-- FIGO < 20-22 tuần.
+- FIGO < 20 - 22 tuần.
 - Việt Nam < 22 tuần hoặc cân nặng thai dưới 500 g.
 
 ## Phân loại
@@ -166,20 +166,20 @@ Không khuyến cáo kháng sinh dự phòng:
 
 **Vô cảm:**
 
-- Gây tê cổ tử cung với lidocain 1% không epinephrine tại 2-4 điểm quanh cổ tử cung.
+- Gây tê cổ tử cung với lidocain 1% không epinephrine tại 2 - 4 điểm quanh cổ tử cung.
 - Gây tê quanh cổ tử cung kết hợp paracetamol hay NSAIDs.
 - Mê toàn thân chỉ sử dụng trong trường hợp đặc biệt.
 
 **Tai biến trong và ngay sau thủ thuật:**
 
-- Choáng do đau, chảy máu; Băng huyết (0.1-0.5%).
+- Choáng do đau, chảy máu; Băng huyết (0.1 - 0.5%).
 - Thủng tử cung (0.01 – 0.1%).
 - Rách cổ tử cung.
 
 **Biến chứng xảy ra sau 24 giờ làm thủ thuật:**
 
-- Sót thai, sót rau (1-3%).
-- Nhiễm trùng (0.1-1%).
+- Sót thai, sót rau (1 - 3%).
+- Nhiễm trùng (0.1 - 1%).
 - Viêm dính buồng tử cung (< 0.5%).
 
 **Kháng sinh:**

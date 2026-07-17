@@ -5,10 +5,10 @@ description: Xuất huyết 3 tháng đầu thai kỳ.
 
 Nguyên nhân chính của xuất huyết tử cung bất thường trong 3 tháng đầu thai kỳ (không liên quan đến chấn thương) gồm:
 
-1. **Sảy thai:** Chiếm khoảng 15-20% trường hợp chảy máu 3 tháng đầu, bao gồm dọa sảy, sảy khó tránh, không trọn, trọn và lưu.
+1. **Sảy thai:** Chiếm khoảng 15 - 20% trường hợp chảy máu 3 tháng đầu, bao gồm dọa sảy, sảy khó tránh, không trọn, trọn và lưu.
 2. **Thai ngoài tử cung:** Chiếm khoảng 2% các trường hợp, thường ở vòi tử cung; Vỡ có thể gây chảy máu ổ bụng nguy hiểm.
 3. **Bệnh nguyên bào nuôi:** Gồm trứng trống (hydatidiform mole) và choriocarcinoma, thường có nồng độ β-hCG cao.
-4. **Thai làm tổ của phôi:** Thường xuất hiện 6-12 ngày sau thụ tinh, lượng máu ít, màu hồng nhạt.
+4. **Thai làm tổ của phôi:** Thường xuất hiện 6 - 12 ngày sau thụ tinh, lượng máu ít, màu hồng nhạt.
 5. **Các nguyên nhân không do thai kỳ:** Polyp tử cung, u xơ, viêm cổ tử cung, nhiễm trùng âm đạo.
 
 ## Chẩn đoán
@@ -47,7 +47,7 @@ Siêu âm qua đường âm đạo (TVS) là phương pháp sơ cấp, ưu thế
 - **Túi thai trong tử cung:** Sự có mặt hướng tới thai trong tử cung, ngoại trừ trường hợp túi giả hoặc song thai hỗn hợp.
 - **Hoạt động của phôi và túi noãn hoàng:** Phôi có tim thai thường thấy từ tuần 6; Túi noãn hoàng xuất hiện từ 5.5 tuần.
 
-Nếu TVS **không thấy túi thai ở tuổi siêu âm 5.5-6 tuần**, cần xem xét thêm thai ngoài tử cung hoặc khảo sát bổ sung. TVS còn giúp chẩn đoán thai trứng với hình ảnh "tổ ong" và đánh giá các dạng bệnh nguyên bào nuôi.
+Nếu TVS **không thấy túi thai ở tuổi siêu âm 5.5 - 6 tuần**, cần xem xét thêm thai ngoài tử cung hoặc khảo sát bổ sung. TVS còn giúp chẩn đoán thai trứng với hình ảnh "tổ ong" và đánh giá các dạng bệnh nguyên bào nuôi.
 
 #### β-hCG
 
@@ -59,8 +59,8 @@ Là biện pháp tiếp cận thứ cấp, giúp đánh giá:
 Sau khi xác định túi thai có phôi và tim thai, vai trò β-hCG giảm.
 
 ![Lược đồ tiếp cận xuất huyết 3 tháng đầu theo siêu âm](./_images/luoc-do-xuat-huyet-3-thang-dau-theo-sieu-am.png)
-_Hình ảnh "Lược đồ tiếp cận xuất huyết 3 tháng đầu theo siêu âm"_.
+_Hình "Lược đồ tiếp cận xuất huyết 3 tháng đầu theo siêu âm"_.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.

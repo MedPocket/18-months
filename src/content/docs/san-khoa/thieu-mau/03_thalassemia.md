@@ -23,7 +23,7 @@ description: Thalassemia trong thai kỳ.
 
 - **Thể nặng (β⁰/β⁰ hoặc β⁰/β⁰ kép):** Biểu hiện sớm ngay sau sinh hoặc vài tháng tuổi. Thiếu máu nặng, vàng da, gan lách to. Cần truyền máu định kỳ và thải sắt để duy trì sự sống. Huyết học: Hb < 70 g/L; MCV, MCH giảm; Ferritin bình thường hoặc tăng; Điện di Hb: ↑ HbF, ↑ HbA2.
 - **Thể trung gian (β⁺/β⁺ hoặc β⁺/β⁰):** Thiếu máu nhẹ-vừa, biểu hiện muộn hơn thể nặng. Có thể cần truyền máu từng đợt, ít phụ thuộc hơn.
-- **Thể ẩn (dị hợp tử 1 đột biến):** Thường không triệu chứng; Chỉ phát hiện tình cờ khi xét nghiệm. Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3.5-7%); HbF 1-3% tùy loại đột biến.
+- **Thể ẩn (dị hợp tử 1 đột biến):** Thường không triệu chứng; Chỉ phát hiện tình cờ khi xét nghiệm. Hb giảm nhẹ; MCV, MCH giảm; HbA2 tăng (3.5 - 7%); HbF 1 - 3% tùy loại đột biến.
 
 ## Đặc điểm
 
@@ -41,13 +41,13 @@ description: Thalassemia trong thai kỳ.
 _Hình: Thai phù trong hội chứng Hb Bart’s_.
 
 - Thể nặng có thể không sống sót sau sinh.
-- Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.<br>
+- Cân nhắc tư vấn chấm dứt thai kỳ nếu phát hiện Hb Bart’s.<br >
 
 ## Chẩn đoán
 
 - Huyết đồ: Hb < 11 g/dL; MCV < 80 fL; MCH < 27 pg.
 - Định lượng ferritin: Bình thường hoặc tăng → chuyển sang điện di Hb.
-- Điện di Hb: Xác định tỉ lệ HbA2, HbF để phân loại.<br>
+- Điện di Hb: Xác định tỉ lệ HbA2, HbF để phân loại.<br >
 - Khảo sát di truyền ở vợ và chồng → đánh giá nguy cơ thai mắc thể nặng.
 - Chẩn đoán trên thai: Sinh thiết gai rau, chọc ối hoặc lấy máu cuống rốn nếu có nguy cơ cao.
 
@@ -59,8 +59,8 @@ _Hình "Kết quả điện di Hb ở người trưởng thành"_.
 - Điều trị đa chuyên khoa: Sản khoa, huyết học, gây mê, nữ hộ sinh.
 - Duy trì Hb 10 g/dL bằng truyền máu định kỳ; Kiểm soát ferritin < 1000 ng/mL.
 - Siêu âm tim, gan, tuyến giáp mỗi tam cá nguyệt.
-- Sàng lọc tiểu đường: Lần đầu 16 tuần, lặp lại 24-28 tuần.
-- Siêu âm đánh giá tăng trưởng thai: 24-26 tuần rồi mỗi 4 tuần.
+- Sàng lọc tiểu đường: Lần đầu 16 tuần, lặp lại 24 - 28 tuần.
+- Siêu âm đánh giá tăng trưởng thai: 24 - 26 tuần rồi mỗi 4 tuần.
 - Acid folic 5 mg/ngày để phòng thiếu máu hồng cầu to.
 - Tránh uống thêm sắt; Nếu cần thải sắt sử dụng DFO (cân nhắc nguy cơ teratogen).
 - Chuyển dạ: Ưu tiên sinh thường có gây tê ngoài màng cứng; Tránh mê nội khí quản nếu có bất thường hàm mặt.
@@ -74,5 +74,5 @@ _Hình "Kết quả điện di Hb ở người trưởng thành"_.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
-- WHO 2021 - _Guidelines for screening and management of haemoglobinopathies_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+- WHO 2021 - _Guidelines for screening and management of haemoglobinopathies_.

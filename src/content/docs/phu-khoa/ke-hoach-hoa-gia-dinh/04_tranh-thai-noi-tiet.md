@@ -12,10 +12,10 @@ Các phương pháp phổ biến gồm: thuốc tránh thai hằng ngày (kết 
 **Thành phần:**
 
 - Ethinyl estradiol (20-35 µg/viên).
-- Progestin tùy loại: Levonorgestrel 100-150 µg, Desogestrel 150 µg, Drospirenone 3 mg, Norgestimate 250 µg.
+- Progestin tùy loại: Levonorgestrel 100 - 150 µg, Desogestrel 150 µg, Drospirenone 3 mg, Norgestimate 250 µg.
 - Ví dụ: Marvelon (EE 30 µg + desogestrel 150 µg), Rigevidon (EE 30 µg + levonorgestrel 150 µg).
 
-**Tính hiệu quả (Pearl Index):** Perfect 0.1-0.3; Typical 7.
+**Tính hiệu quả (Pearl Index):** Perfect 0.1 - 0.3; Typical 7.
 
 **Tính an toàn:**
 
@@ -137,7 +137,7 @@ Cần uống **cùng giờ tuyệt đối** mỗi ngày (chênh lệch > 3 giờ
 
 **Tính an toàn:** Rất an toàn, ít tác dụng phụ toàn thân.
 
-**Tính kinh tế:** Chi phí cao, dùng 3-5 năm.
+**Tính kinh tế:** Chi phí cao, dùng 3 - 5 năm.
 
 **Cơ chế tác dụng:** Giải phóng progestin ổn định, ức chế rụng trứng, làm đặc chất nhầy cổ tử cung.
 
@@ -157,7 +157,7 @@ Cần uống **cùng giờ tuyệt đối** mỗi ngày (chênh lệch > 3 giờ
 
 **Ưu điểm:**
 
-- Hiệu quả rất cao, kéo dài 3-5 năm.
+- Hiệu quả rất cao, kéo dài 3 - 5 năm.
 - Thuận tiện, không cần nhớ hằng ngày.
 
 **Nhược điểm:**
@@ -184,7 +184,7 @@ Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. K
 
 **Thành phần:** 150 mg medroxyprogesterone acetate/1 ml tiêm bắp.
 
-**Tính hiệu quả (Pearl Index):** Perfect 0.3; Typical 3-4.
+**Tính hiệu quả (Pearl Index):** Perfect 0.3; Typical 3 - 4.
 
 **Tính an toàn:**
 
@@ -219,7 +219,7 @@ Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. K
 
 - Rối loạn kinh, vô kinh.
 - Giảm mật độ xương khi dùng lâu dài.
-- Chậm hồi phục khả năng sinh sản (6-12 tháng).
+- Chậm hồi phục khả năng sinh sản (6 - 12 tháng).
 
 ### Áp dụng
 
@@ -314,5 +314,5 @@ Nếu đặt ngoài khoảng thời gian này, cần hỗ trợ thêm 7 ngày.
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
-- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.

@@ -10,7 +10,7 @@ description: Sử dụng kháng histamin trong thai kỳ.
 **Loratadine (Claritin):**
 
 - Liều khuyến cáo: 10 mg mỗi ngày, uống 1 lần.
-- Đặc điểm: Ít gây buồn ngủ, được xem là an toàn hơn trong thai kỳ, đặc biệt ở quý 2-3.
+- Đặc điểm: Ít gây buồn ngủ, được xem là an toàn hơn trong thai kỳ, đặc biệt ở quý 2 - 3.
 
 **Cetirizine (Zyrtec):**
 
@@ -31,11 +31,11 @@ description: Sử dụng kháng histamin trong thai kỳ.
 
 ## Tài liệu tham khảo
 
-- Journal of Clinical Medicine (2020) - _Use of Antihistamines in Pregnancy: A Review_
-- American Family Physician (2017) - _The Safety of Antihistamines During Pregnancy_
-- Drug Safety (2018) - _Safety of second-generation antihistamines in pregnancy: A review of the evidence_
-- International Journal of Women’s Health (2016) - _Loratadine use in pregnancy: Safety and efficacy_
-- American Journal of Obstetrics and Gynecology (2000) - _Loratadine in pregnancy: Safety and pharmacokinetics_
-- Pharmacotherapy (2016) - _Safety of cetirizine in pregnancy: A review of the literature_
-- Pharmacology & Therapeutics (2018) - _Use of antihistamines during pregnancy_
-- American Family Physician (2009) - _Chlorpheniramine and other antihistamines in pregnancy_
+- Journal of Clinical Medicine (2020) - _Use of Antihistamines in Pregnancy: A Review_.
+- American Family Physician (2017) - _The Safety of Antihistamines During Pregnancy_.
+- Drug Safety (2018) - _Safety of second-generation antihistamines in pregnancy: A review of the evidence_.
+- International Journal of Women’s Health (2016) - _Loratadine use in pregnancy: Safety and efficacy_.
+- American Journal of Obstetrics and Gynecology (2000) - _Loratadine in pregnancy: Safety and pharmacokinetics_.
+- Pharmacotherapy (2016) - _Safety of cetirizine in pregnancy: A review of the literature_.
+- Pharmacology & Therapeutics (2018) - _Use of antihistamines during pregnancy_.
+- American Family Physician (2009) - _Chlorpheniramine and other antihistamines in pregnancy_.

@@ -15,10 +15,10 @@ Xuất huyết tử cung cơ năng thường xảy ra khi nội mạc tử cung 
 ## Nguyên nhân
 
 - **Tuổi dậy thì:** Chiếm 20% nguyên nhân. Trong vòng 18 tháng đầu sau khi hành kinh, trục hạ đồi - tuyến yên - buồng trứng chưa trưởng thành hoàn toàn nên có thể không đáp ứng đầy đủ với estrogen và progesterone, dẫn đến tình trạng không phóng noãn và xuất huyết tử cung chức năng.
-- **Tuổi tiền mãn kinh:** Chiếm 50% nguyên nhân. Ở phụ nữ tuổi 40-50, số lượng và chất lượng nang noãn đều giảm. Các nang noãn phát triển nhưng không tạo đỉnh LH để gây phóng noãn, do nồng độ gonadotropin cơ bản tăng cao (giảm Inhibin B). Nang noãn tiếp tục sản xuất lượng nhỏ estrogen kéo dài, không có progesterone đối kháng, gây tăng sinh nội mạc tử cung và xuất huyết tử cung chức năng.
+- **Tuổi tiền mãn kinh:** Chiếm 50% nguyên nhân. Ở phụ nữ tuổi 40 - 50, số lượng và chất lượng nang noãn đều giảm. Các nang noãn phát triển nhưng không tạo đỉnh LH để gây phóng noãn, do nồng độ gonadotropin cơ bản tăng cao (giảm Inhibin B). Nang noãn tiếp tục sản xuất lượng nhỏ estrogen kéo dài, không có progesterone đối kháng, gây tăng sinh nội mạc tử cung và xuất huyết tử cung chức năng.
 - **Phụ nữ béo phì:** Ở phụ nữ béo phì, estrone (một dạng estrogen) có thể được tổng hợp từ androgen tại mô mỡ ngoại vi thông qua enzym aromatase. Lượng estrone này không có đối kháng của progesterone, dẫn đến nội mạc tử cung bị kích thích kéo dài, gây xuất huyết tử cung chức năng.
 - **Thiếu hụt hormone hoàng thể:** Tình trạng này xảy ra khi buồng trứng có phóng noãn nhưng hoàng thể không sản xuất đủ progesterone, hoặc đáp ứng nội mạc tử cung với progesterone không đầy đủ. Điều này làm rối loạn chu kỳ nội mạc tương tự như không phóng noãn.
-- **Tăng prolactin máu:** Ức chế hoạt động trục hạ đồi - tuyến yên - buồng trứng, gây rối loạn phóng noãn. Nguyên nhân có thể do u tuyến yên (microadenoma), thuốc hướng thần kinh, thuốc kháng histamin, thuốc kháng bơm proton, thuốc chống nôn, thuốc điều trị trầm cảm
+- **Tăng prolactin máu:** Ức chế hoạt động trục hạ đồi - tuyến yên - buồng trứng, gây rối loạn phóng noãn. Nguyên nhân có thể do u tuyến yên (microadenoma), thuốc hướng thần kinh, thuốc kháng histamin, thuốc kháng bơm proton, thuốc chống nôn, thuốc điều trị trầm cảm.
 - **Hội chứng buồng trứng đa nang (PCOS):** Do rối loạn phát triển nang noãn, không hình thành nang trội, dẫn đến không phóng noãn. Đây là nguyên nhân phổ biến gây xuất huyết tử cung chức năng.
 - **Thuốc tránh thai kết hợp (estrogen-progestogen):** Loại liều thấp (ethinyl estradiol dưới 20 µg) có thể gây xuất huyết nhẹ, kéo dài.
 - **Thuốc tránh thai khẩn cấp:** Dùng progestin liều cao hoặc SPRM (selective progesterone receptor modulator) gây mất cân bằng estrogen-progesterone, dẫn đến bong nội mạc tử cung sớm.
@@ -46,7 +46,7 @@ Xuất huyết tử cung cơ năng thường xảy ra khi nội mạc tử cung 
 - Dấu hiệu cường androgen (mụn trứng cá nặng, rậm lông, béo phì kiểu nam).
 - Khám phụ khoa để loại trừ các bất thường cấu trúc của tử cung và buồng trứng.
 
-_Hình ảnh "Acanthosis nigricans, rậm lông và mụn trứng cá nặng, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường"_.
+_Hình "Acanthosis nigricans, rậm lông và mụn trứng cá nặng, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường"_.
 ![Acanthosis nigricans, rậm lông và mụn trứng cá nặng](./_images/xuat-huyet-tu-cung-co-nang/acantosis-nigricans-ram-long-mun-trung-ca.png)
 
 ### Cận lâm sàng
@@ -70,10 +70,10 @@ _Bảng "Các xét nghiệm cơ bản"_.
 
 Có thể thực hiện **siêu âm quy ước** để khảo sát độ dày nội mạc tử cung, phản âm, bất thường trong buồng tử cung.
 
-_Hình ảnh "Chuỗi hạt kinh điển của buồng trứng đa nang. Các nang noãn nhỏ xếp thành chuỗi, phân bố ở ngoại vi buồng trứng"_.
+_Hình "Chuỗi hạt kinh điển của buồng trứng đa nang. Các nang noãn nhỏ xếp thành chuỗi, phân bố ở ngoại vi buồng trứng"_.
 ![Hình ảnh siêu âm của hội chứng buồng trứng đa nang](./_images/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-buong-trung-da-nang.png)
 
-_Hình ảnh "Siêu âm bơm nước của polyps buồng tử cung (SIS)"_.
+_Hình "Siêu âm bơm nước của polyps buồng tử cung (SIS)"_.
 ![Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)](./_images/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-polyp-tu-cung.png)
 
 :::caution
@@ -141,4 +141,4 @@ Thường uống vào buổi tối, giờ cố định để giảm tác dụng 
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.

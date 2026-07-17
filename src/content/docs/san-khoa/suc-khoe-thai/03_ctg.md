@@ -36,7 +36,7 @@ Thể hiện sự thay đổi của nhịp tim thai quanh đường cơ bản:
 
 - Mất dao động: 0 bpm.
 - Dao động tối thiểu: < 5 bpm.
-- Dao động trung bình (bình thường): 5-25 bpm.
+- Dao động trung bình (bình thường): 5 - 25 bpm.
 - Dao động tăng: > 25 bpm.
 
 Dao động trung bình cho thấy hệ thần kinh trung ương thai nhi hoạt động tốt.
@@ -65,7 +65,7 @@ Phân loại theo FIGO chia thành 3 nhóm chính: CTG bình thường, CTG nghi
 
 ### CTG bình thường
 
-- Baseline 110-160 bpm.
+- Baseline 110 - 160 bpm.
 - Dao động trung bình.
 - Có hoặc không có nhịp tăng.
 - Không có nhịp giảm bất thường.
@@ -77,7 +77,7 @@ Phân loại theo FIGO chia thành 3 nhóm chính: CTG bình thường, CTG nghi
 
 ### CTG bệnh lý
 
-- Baseline <110 hoặc >160 bpm kéo dài.
+- Baseline < 110 hoặc > 160 bpm kéo dài.
 - Mất hoặc giảm dao động kéo dài.
 - Nhịp giảm muộn hoặc nhịp giảm biến đổi lặp lại.
 - Cần xử trí ngay.

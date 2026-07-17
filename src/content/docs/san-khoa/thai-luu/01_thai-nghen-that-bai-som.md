@@ -3,7 +3,7 @@ title: Thai nghén thất bại sớm
 description: Chẩn đoán thai nghén thất bại sớm (EPL).
 ---
 
-Thai nghén thất bại sớm (Early Pregnancy Failure) thường được biết dưới dạng trứng trống (blighted ovum) hoặc thai ngưng phát triển (embryonic demise). Tình trạng này xảy ra trước 12 tuần tuổi thai và ảnh hưởng tới khoảng 10-15% các thai lâm sàng, với nguyên nhân chủ yếu do bất thường nhiễm sắc thể, rối loạn nội mạc tử cung hoặc bệnh lý toàn thân của người mẹ.
+Thai nghén thất bại sớm (Early Pregnancy Failure) thường được biết dưới dạng trứng trống (blighted ovum) hoặc thai ngưng phát triển (embryonic demise). Tình trạng này xảy ra trước 12 tuần tuổi thai và ảnh hưởng tới khoảng 10 - 15% các thai lâm sàng, với nguyên nhân chủ yếu do bất thường nhiễm sắc thể, rối loạn nội mạc tử cung hoặc bệnh lý toàn thân của người mẹ.
 
 Có một số định nghĩa cơ bản:
 
@@ -32,18 +32,18 @@ The Society of Radiologists in Ultrasound Multispecialty Panel, chẩn đoán th
 :::
 
 ![Thai ngưng phát triển](./_images/thai-nghen-that-bai-som/thai-ngung-phat-trien.png)
-_Hình ảnh "Thai ngưng phát triển: Phôi với CRL ≥ 7 mm không có tim phôi (xác nhận bằng phổ Doppler)"_.
+_Hình "Thai ngưng phát triển: Phôi với CRL ≥ 7 mm không có tim phôi (xác nhận bằng phổ Doppler)"_.
 
 Để **chẩn đoán trứng trống**, không đủ khi chỉ không thấy phôi hoặc túi noãn hoàng với MSD < 25 mm. **Phải có MSD ≥ 25 mm không thấy phôi hoặc túi noãn hoàng.**
 
 ![Trứng trống](./_images/thai-nghen-that-bai-som/trung-trong.png)
-_Hình ảnh "Trứng trống: MSD ≥ 25 mm không thấy túi noãn hoàng hay phôi"_.
+_Hình "Trứng trống: MSD ≥ 25 mm không thấy túi noãn hoàng hay phôi"_.
 
 **Các tình huống nghi ngờ khác (chưa đủ tiêu chuẩn)** gồm:
 
 - Phôi CRL < 7 mm không hoạt động tim phôi.
-- MSD 16-24 mm không có phôi.
-- Không thấy phôi có tim sau 7-10 ngày từ khi phát hiện túi thai và túi noãn hoàng.
+- MSD 16 - 24 mm không có phôi.
+- Không thấy phôi có tim sau 7 - 10 ngày từ khi phát hiện túi thai và túi noãn hoàng.
 - Không có màng ối rõ sau 6 tuần vô kinh.
 - Yolk-sac giãn > 7 mm.
 - Hiệu (MSD - CRL) < 5 mm.
@@ -69,7 +69,7 @@ Các trường hợp trên lâm sàng:
 1. CRL ≥ 7 mm không thấy tim thai.
 2. MSD ≥ 25 mm không thấy phôi thai.
 3. Phôi không xuất hiện sau 14 ngày kể từ siêu âm xác nhận túi thai không có yolk-sac.
-4. Không thấy tim thai qua ≥ 2 lần siêu âm cách nhau 7-10 ngày.
+4. Không thấy tim thai qua ≥ 2 lần siêu âm cách nhau 7 - 10 ngày.
 
 **Không dùng β-hCG để chẩn đoán thai lưu** vì không phản ánh tính sinh tồn của phôi.
 
@@ -87,31 +87,31 @@ Triệu chứng **ra máu, đau bụng, cổ tử cung đóng.** **Dấu hiệu 
 - Xoang ối giãn rộng (expanded amnion sign).
 
 ![Túi ối nhỏ](./_images/thai-nghen-that-bai-som/doa-say-thai-luu-tui-oi-nho.png)
-_Hình ảnh "Doạ sảy thai lưu: Túi thai rất nhỏ, (MSD-CRL) < 5 mm, có tụ máu dưới màng đệm"_.
+_Hình "Doạ sảy thai lưu: Túi thai rất nhỏ, (MSD-CRL) < 5 mm, có tụ máu dưới màng đệm"_.
 
 ![Túi ối giãn](./_images/thai-nghen-that-bai-som/doa-say-thai-luu-tui-oi-gian.png)
-_Hình ảnh "Doạ sảy thai lưu: Xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm"_.
+_Hình "Doạ sảy thai lưu: Xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm"_.
 
 ### Sảy thai khó tránh
 
 **Ra máu kèm mở cổ tử cung** khi thai vẫn còn trong buồng tử cung. Cần phân biệt với thai ngoài tử cung ở cổ tử cung bằng β-hCG và siêu âm.
 
 ![Sảy thai khó tránh](./_images/thai-nghen-that-bai-som/say-thai-kho-tranh.png)
-_Hình ảnh "Sảy thai khó tránh: Thai vẫn nằm trong cổ tử cung, cổ tử cung mở"_.
+_Hình "Sảy thai khó tránh: Thai vẫn nằm trong cổ tử cung, cổ tử cung mở"_.
 
 ### Sảy thai không trọn
 
 Ra huyết rỉ rả, đau quặn bụng, cổ tử cung hé mở, siêu âm thấy khối echo hỗn hợp trong lòng tử cung.
 
 ![Sảy thai không trọn](./_images/thai-nghen-that-bai-som/say-thai-khong-tron.png)
-_Hình ảnh "Sảy thai không trọn: Cấu trúc echo hỗn hợp trong buồng tử cung"_.
+_Hình "Sảy thai không trọn: Cấu trúc echo hỗn hợp trong buồng tử cung"_.
 
 ### Sảy thai trọn
 
 Hoàn toàn tống xuất mô thai, cổ tử cung đóng, siêu âm buồng tử cung rỗng hoặc chỉ có ít dịch.
 
 ![Sảy thai trọn](./_images/thai-nghen-that-bai-som/say-thai-tron.jpeg)
-_Hình ảnh "Sảy thai trọn: Lòng tử cung trống sau sảy thai trọn"_.
+_Hình "Sảy thai trọn: Lòng tử cung trống sau sảy thai trọn"_.
 
 ## Điều trị
 
@@ -125,5 +125,5 @@ Khi chọn theo dõi, cần tái siêu âm và có thể đo β-hCG để đánh
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_
+- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
 - Perinatology - [_Beta hCG Doubling Time Calculator_](https://perinatology.com/calculators/betahCG.htm)

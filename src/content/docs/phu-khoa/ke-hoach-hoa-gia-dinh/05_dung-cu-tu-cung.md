@@ -14,12 +14,12 @@ Các phương pháp phổ biến gồm vòng tránh thai chứa đồng (Copper 
 **Tính an toàn:**
 
 - An toàn với hầu hết phụ nữ.
-- Nguy cơ viêm nhiễm tăng nhẹ trong 1-3 tháng đầu.
+- Nguy cơ viêm nhiễm tăng nhẹ trong 1 - 3 tháng đầu.
 
 **Tính kinh tế:**
 
 - Chi phí ban đầu trung bình.
-- Sử dụng lâu dài (5-10 năm) → rất kinh tế.
+- Sử dụng lâu dài (5 - 10 năm) → rất kinh tế.
 
 **Cơ chế tác dụng:** Ion đồng gây độc với tinh trùng, ngăn thụ tinh.
 
@@ -60,22 +60,22 @@ Các phương pháp phổ biến gồm vòng tránh thai chứa đồng (Copper 
 
 ### Áp dụng
 
-Đặt vòng trong điều kiện vô trùng, thường sau sạch kinh 3-5 ngày.
+Đặt vòng trong điều kiện vô trùng, thường sau sạch kinh 3 - 5 ngày.
 
 Sau đặt:
 
 - Kiêng quan hệ và không thụt rửa âm đạo ít nhất 7 ngày.
-- Không ngâm bồn tắm hoặc bơi chung hồ trong 3-5 ngày đầu.
+- Không ngâm bồn tắm hoặc bơi chung hồ trong 3 - 5 ngày đầu.
 - Có thể sử dụng kháng sinh chống viêm, giảm co thắt alverin citrat 40 mg x 2 viên x 2 lần/ngày x 3 ngày.
 - Nếu có đau bụng dữ dội, ra máu nhiều, sốt, hoặc không sờ thấy dây vòng → cần đi khám ngay.
-- Tái khám sau 4-6 tuần để kiểm tra vị trí vòng.
+- Tái khám sau 4 - 6 tuần để kiểm tra vị trí vòng.
 - Kiểm tra dây vòng định kỳ, đặc biệt sau kỳ kinh nguyệt.
 
 ## Vòng tránh thai nội tiết (LNG-IUS)
 
 ### Đặc điểm
 
-**Tính hiệu quả (Pearl Index):** Perfect 0.1-0.3; Typical 7.
+**Tính hiệu quả (Pearl Index):** Perfect 0.1 - 0.3; Typical 7.
 
 **Tính an toàn:**
 
@@ -129,13 +129,13 @@ Sau đặt:
 
 Đặt vòng trong thời gian an toàn (sau sạch kinh hoặc ngay sau phá thai).
 
-Theo dõi 1-2 ngày đầu, có thể ra máu ít, đau nhẹ.
+Theo dõi 1 - 2 ngày đầu, có thể ra máu ít, đau nhẹ.
 
-Tái khám sau 4-6 tuần để kiểm tra.
+Tái khám sau 4 - 6 tuần để kiểm tra.
 
 Nếu xuất hiện đau bụng nhiều, ra máu bất thường, hoặc có dấu hiệu viêm nhiễm → cần khám ngay.
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
-- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.

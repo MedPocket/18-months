@@ -3,7 +3,7 @@ title: Tổn thương ống dẫn trứng
 description: Nguyên nhân, chẩn đoán và điều trị tắc vòi trứng.
 ---
 
-Tổn thương ống dẫn trứng là một trong những nguyên nhân phổ biến nhất của vô sinh ở nữ giới, chiếm khoảng 25-35% các trường hợp. Vòi tử cung đóng vai trò quan trọng trong việc tiếp nhận noãn, là nơi thụ tinh và vận chuyển phôi vào buồng tử cung. Khi vòi bị tắc, quá trình thụ tinh và làm tổ bị cản trở, đồng thời làm tăng nguy cơ chửa ngoài tử cung.
+Tổn thương ống dẫn trứng là một trong những nguyên nhân phổ biến nhất của vô sinh ở nữ giới, chiếm khoảng 25 - 35% các trường hợp. Vòi tử cung đóng vai trò quan trọng trong việc tiếp nhận noãn, là nơi thụ tinh và vận chuyển phôi vào buồng tử cung. Khi vòi bị tắc, quá trình thụ tinh và làm tổ bị cản trở, đồng thời làm tăng nguy cơ chửa ngoài tử cung.
 
 ## Nguyên nhân
 
@@ -68,13 +68,13 @@ Tắc vòi trứng đoạn gần:
 
 Tắc vòi dẫn trứng đoạn xa:
 
-- Tiên lượng tốt nếu dải dính 2 phần phụ ít. Vòi dãn nhẹ < 3 cm, thành mềm mại và mỏng. Nếp niêm mạc còn tốt. Tỷ lệ có thai sau 12 tháng nội soi gỡ dính là 40%. Nội soi tái tạo loa vòi trường hợp ứ dịch nhẹ tỷ lệ có thai là 58-77%.
+- Tiên lượng tốt nếu dải dính 2 phần phụ ít. Vòi dãn nhẹ < 3 cm, thành mềm mại và mỏng. Nếp niêm mạc còn tốt. Tỷ lệ có thai sau 12 tháng nội soi gỡ dính là 40%. Nội soi tái tạo loa vòi trường hợp ứ dịch nhẹ tỷ lệ có thai là 58 - 77%.
 - Tiên lượng xấu nếu vòi dính dày đặc, vòi dãn rộng thành xơ hóa và/hoặc giảm hay mất nếp niêm mạc.
 
 ## Tài liệu tham khảo
 
 - Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
-- Bộ Y tế Việt Nam - _Hướng dẫn chẩn đoán và điều trị vô sinh_
-- WHO - _Infertility: a tabulation of available data on prevalence_
-- Practice Committee of the American Society for Reproductive Medicine - _Role of tubal surgery in the era of assisted reproductive technology_
-- RCOG - _Fertility: Assessment and treatment for people with fertility problems_
+- Bộ Y tế Việt Nam - _Hướng dẫn chẩn đoán và điều trị vô sinh_.
+- WHO - _Infertility: a tabulation of available data on prevalence_.
+- Practice Committee of the American Society for Reproductive Medicine - _Role of tubal surgery in the era of assisted reproductive technology_.
+- RCOG - _Fertility: Assessment and treatment for people with fertility problems_.

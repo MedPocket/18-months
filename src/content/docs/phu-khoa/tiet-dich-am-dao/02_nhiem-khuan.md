@@ -11,7 +11,7 @@ BV xảy ra khi có sự thay đổi về tỷ lệ vi khuẩn trong hệ vi sin
 
 **Giảm _Lactobacilli:_**
 
-- _Lactobacilli_ (chủ yếu là _Lactobacillus crispatus_, _L. jensenii_) tạo ra acid lactic, giữ pH âm đạo 3.8-4.5 và tiết ra hydrogen peroxide diệt khuẩn.
+- _Lactobacilli_ (chủ yếu là _Lactobacillus crispatus_, _L. jensenii_) tạo ra acid lactic, giữ pH âm đạo 3.8 - 4.5 và tiết ra hydrogen peroxide diệt khuẩn.
 - Khi _Lactobacilli_ suy giảm (do stress, kháng sinh, thay đổi nội tiết), pH âm đạo tăng, tạo điều kiện cho vi khuẩn yếm khí phát triển.
 
 **Tăng vi khuẩn yếm khí:**
@@ -38,13 +38,13 @@ Các yếu tố làm mất cân bằng hệ vi sinh âm đạo:
 
 ## Chẩn đoán
 
-Loạn khuẩn âm đạo (bacterial vaginosis - BV) là tình trạng rối loạn vi khuẩn rất thường gặp ở phụ nữ trong độ tuổi sinh sản, chiếm khoảng 20-30% phụ nữ có triệu chứng tiết dịch âm đạo và 10-15% phụ nữ không có triệu chứng. BV không được xếp vào nhiễm trùng tình dục (STI) nhưng có thể liên quan đến hoạt động tình dục và một số hành vi chăm sóc vùng kín. **Biểu hiện lâm sàng chính:**
+Loạn khuẩn âm đạo (bacterial vaginosis - BV) là tình trạng rối loạn vi khuẩn rất thường gặp ở phụ nữ trong độ tuổi sinh sản, chiếm khoảng 20 - 30% phụ nữ có triệu chứng tiết dịch âm đạo và 10 - 15% phụ nữ không có triệu chứng. BV không được xếp vào nhiễm trùng tình dục (STI) nhưng có thể liên quan đến hoạt động tình dục và một số hành vi chăm sóc vùng kín. **Biểu hiện lâm sàng chính:**
 
 - **Tiết dịch âm đạo nhiều**, thường màu trắng xám hoặc vàng nhạt, có độ nhớt nhẹ.
 - Dịch thường **không gây ngứa, không kèm đỏ hoặc phù nề âm hộ**—điểm khác biệt so với viêm âm đạo do nấm hoặc trùng roi.
 - Mùi hôi đặc trưng **cá thối** (odour), thường rõ hơn sau giao hợp hoặc sau khi tinh dịch phá vỡ cân bằng pH âm đạo.
 
-_Hình ảnh "Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "cá thối". Khoảng 25% trường hợp có kích ứng nhẹ ở âm hộ, biểu hiện bằng ngứa hoặc rát nhẹ"_.
+_Hình "Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "cá thối". Khoảng 25% trường hợp có kích ứng nhẹ ở âm hộ, biểu hiện bằng ngứa hoặc rát nhẹ"_.
 ![Dịch âm đạo bất thường](./_images/viem-am-dao-nhiem-khuan/dich-am-dao-bat-thuong.png)
 
 ### Tiêu chuẩn Amsel
@@ -65,9 +65,9 @@ _Hình ảnh "Dịch âm đạo màu trắng xám, loãng, có mùi hôi như "c
 
 Điểm Nugent là phương pháp xét nghiệm Gram đồ đánh giá tỷ lệ các loại vi khuẩn để chẩn đoán BV. Căn cứ vào mật độ ba nhóm vi khuẩn trên phiến Gram đồ:
 
-1. **Nhóm I - _Lactobacillus_ (vi khuẩn Gram dương, hình que lớn):** Càng nhiều _Lactobacilli_, điểm càng thấp (0-4).
-2. **Nhóm II - _Gardnerella_ & _Bacteroides_ (vi khuẩn Gram âm, hình que ngắn hoặc _coccobacilli_):** Càng nhiều vi khuẩn nhóm này, điểm càng cao (0-4).
-3. **Nhóm III - _Mobiluncus spp_. (vi khuẩn Gram đổi màu, trực khuẩn cong):** Càng nhiều, điểm càng cao (0-2).
+1. **Nhóm I - _Lactobacillus_ (vi khuẩn Gram dương, hình que lớn):** Càng nhiều _Lactobacilli_, điểm càng thấp (0 - 4).
+2. **Nhóm II - _Gardnerella_ & _Bacteroides_ (vi khuẩn Gram âm, hình que ngắn hoặc _coccobacilli_):** Càng nhiều vi khuẩn nhóm này, điểm càng cao (0 - 4).
+3. **Nhóm III - _Mobiluncus spp_. (vi khuẩn Gram đổi màu, trực khuẩn cong):** Càng nhiều, điểm càng cao (0 - 2).
 
 _Bảng "Điểm Nugent"_.
 
@@ -77,16 +77,16 @@ _Bảng "Điểm Nugent"_.
 | Quang trường lớn x1000                                 | Quang trường lớn x1000                                 | Quang trường lớn x1000                                 |
 | **Số lượng tế bào/vi khuẩn trên 10 trường trung bình** | **Số lượng tế bào/vi khuẩn trên 10 trường trung bình** | **Số lượng tế bào/vi khuẩn trên 10 trường trung bình** |
 | 0: > 30                                                | 0: < 1                                                 | 0: < 5                                                 |
-| 1: 5-30                                                | 1: 1-4                                                 | 1: 5-30                                                |
-| 2: 1-4                                                 | 2: 5-30                                                | 2: 5-30                                                |
+| 1: 5 - 30                                              | 1: 1 - 4                                               | 1: 5 - 30                                              |
+| 2: 1 - 4                                               | 2: 5 - 30                                              | 2: 5 - 30                                              |
 | 3: < 1                                                 | 3: > 30                                                | 3: > 30                                                |
 | 4: 0                                                   | 4: Phủ kín toàn bộ trường                              | 4: Phủ kín toàn bộ trường                              |
 
-**Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0-10):**
+**Tổng điểm Nugent = Điểm I + Điểm II + Điểm III (0 - 10):**
 
-- **0-3:** Kết quả âm tính với BV (hệ vi khuẩn cân bằng).
-- **4-6:** Khu vực trung gian (nghi ngờ, cần theo dõi hoặc xét nghiệm lại).
-- **≥ 7:** Dương tính với BV (mật độ vi khuẩn yếm khí cao, _Lactobacilli_ giảm).
+- **0 - 3:** Kết quả âm tính với BV (hệ vi khuẩn cân bằng).
+- **4 - 6:** Khu vực trung gian (nghi ngờ, cần theo dõi hoặc xét nghiệm lại).
+- ** ≥ 7:** Dương tính với BV (mật độ vi khuẩn yếm khí cao, _Lactobacilli_ giảm).
 
 **Độ nhạy 89%, độ đặc hiệu 83%** so với tiêu chuẩn Amsel.
 
@@ -159,7 +159,7 @@ Metronidazole uống có thể gây khô miệng, vị kim loại, và nên trá
 
 Tỷ lệ tái phát sau điều trị cao:
 
-- Ngắn hạn (3 tháng): 15-30%.
+- Ngắn hạn (3 tháng): 15 - 30%.
 - Trung hạn (1 năm): Có thể lên đến 70%.
 
 Việc bổ sung **probiotic chứa _Lactobacillus_** sau điều trị có thể giúp giảm tỉ lệ tái phát.
@@ -191,7 +191,7 @@ Tùy chọn điều trị BV tại Bệnh viện Từ Dũ (áp dụng cho cả B
 
 ## Tài liệu tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning: Viêm âm đạo nhiễm khuẩn_
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_
-- Centers for Disease Control and Prevention (CDC) (2010) - _Sexually Transmitted Diseases Treatment Guidelines_
-- Workowski KA, Bolan GA (2010) - _Sexually transmitted diseases treatment guidelines_
+- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning: Viêm âm đạo nhiễm khuẩn_.
+- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+- Centers for Disease Control and Prevention (CDC) (2010) - _Sexually Transmitted Diseases Treatment Guidelines_.
+- Workowski KA, Bolan GA (2010) - _Sexually transmitted diseases treatment guidelines_.
