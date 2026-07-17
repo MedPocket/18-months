@@ -25,8 +25,8 @@ description: Tổng quan u xơ cơ tử cung.
 
 ## Phân loại
 
-_Hình "Phân loại FIGO 2011"_.
 ![Phân loại FIGO 2011](./_images/phan-loai-u-xo-tu-cung-figo-2011.jpg)
+_Hình "Phân loại FIGO 2011"_.
 
 _Bảng "Phân loại u xơ tử cung" - FIGO 2011_.
 
@@ -48,43 +48,43 @@ _Bảng "Phân loại u xơ tử cung" - FIGO 2011_.
 
 **Siêu âm thang xám:** Khối giảm âm, giới hạn rõ, bóng giảm âm sau.
 
-_Hình "U xơ tử cung trên siêu âm"_.
 ![U xơ tử cung trên siêu âm](./_images/u-xo-tu-cung-tren-sieu-am.png)
+_Hình "U xơ tử cung trên siêu âm"_.
 
-_Hình "Adenomyosis trên siêu âm"_.
 ![Adenomyosis trên siêu âm](./_images/adenomyosis-tren-sieu-am.png)
+_Hình "Adenomyosis trên siêu âm"_.
 
-_Hình "Leiomyosarcoma trên siêu âm"_.
 ![Leiomyosarcoma trên siêu âm](./_images/leiomyosarcoma-tren-sieu-am.png)
+_Hình "Leiomyosarcoma trên siêu âm"_.
 
 **Doppler:** Mạch ngoại vi u xơ; Phân biệt với polyp (mạch trung tâm) và adenomyosis (mạch nội vi).
 
-_Hình "U xơ tử cung trên siêu âm Doppler"_.
 ![U xơ tử cung trên siêu âm Doppler](./_images/u-xo-tu-cung-tren-sieu-am-doppler.png)
+_Hình "U xơ tử cung trên siêu âm Doppler"_.
 
-_Hình "Adenomyosis trên siêu âm Doppler"_.
 ![Adenomyosis trên siêu âm Doppler](./_images/adenomyosis-tren-sieu-am-doppler.png)
+_Hình "Adenomyosis trên siêu âm Doppler"_.
 
 **Siêu âm 4D/đàn hồi:** Đánh giá JZ, độ cứng.
 
-_Hình "Adenomyosis trên siêu âm đàn hồi"_.
 ![Adenomyosis trên siêu âm đàn hồi](./_images/adenomyosis-tren-sieu-am-dan-hoi.png)
+_Hình "Adenomyosis trên siêu âm đàn hồi"_.
 
 **Siêu âm bơm nước:** Với u xơ dưới niêm mạc.
 
-_Hình "U xơ tử cung FIGO 0 trên SIS"_.
 ![U xơ tử cung FIGO 0 trên SIS](./_images/u-xo-tu-cung-figo-0-qua-sis.png)
+_Hình "U xơ tử cung FIGO 0 trên SIS"_.
 
-_Hình "Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler"_.
 ![Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler](./_images/phan-biet-polyp-va-u-xo-tu-cung-figo-1-bang-doppler.png)
+_Hình "Phân biệt polyp và u xơ tử cung FIGO 1 bằng Doppler"_.
 
 **MRI:** Phân biệt adenomyosis (JZ dày > 40%, tín hiệu hỗn hợp) với u xơ (tín hiệu đồng nhất giảm trên T2W).
 
-_Hình "MRI của adenomyosis và u xơ tử cung"_.
 ![MRI của adenomyosis và u xơ tử cung](./_images/adenomyosis-u-xo-tu-cung-tren-mri.png)
+_Hình "MRI của adenomyosis và u xơ tử cung"_.
 
-_Hình "Leiomyosarcoma trên MRI"_.
 ![Leiomyosarcoma trên MRI](./_images/leiomyosarcoma-tren-mri.png)
+_Hình "Leiomyosarcoma trên MRI"_.
 
 ### Chẩn đoán phân biệt
 

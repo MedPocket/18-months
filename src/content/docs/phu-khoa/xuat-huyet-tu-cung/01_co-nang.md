@@ -46,8 +46,8 @@ Xuất huyết tử cung cơ năng thường xảy ra khi nội mạc tử cung 
 - Dấu hiệu cường androgen (mụn trứng cá nặng, rậm lông, béo phì kiểu nam).
 - Khám phụ khoa để loại trừ các bất thường cấu trúc của tử cung và buồng trứng.
 
-_Hình "Acanthosis nigricans, rậm lông và mụn trứng cá nặng, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường"_.
 ![Acanthosis nigricans, rậm lông và mụn trứng cá nặng](./_images/xuat-huyet-tu-cung-co-nang/acantosis-nigricans-ram-long-mun-trung-ca.png)
+_Hình "Acanthosis nigricans, rậm lông và mụn trứng cá nặng, quan sát thấy ở hội chứng buồng trứng đa nang, là các dấu hiệu chỉ báo nguyên nhân của xuất huyết tử cung bất thường"_.
 
 ### Cận lâm sàng
 
@@ -70,11 +70,11 @@ _Bảng "Các xét nghiệm cơ bản"_.
 
 Có thể thực hiện **siêu âm quy ước** để khảo sát độ dày nội mạc tử cung, phản âm, bất thường trong buồng tử cung.
 
-_Hình "Chuỗi hạt kinh điển của buồng trứng đa nang. Các nang noãn nhỏ xếp thành chuỗi, phân bố ở ngoại vi buồng trứng"_.
 ![Hình ảnh siêu âm của hội chứng buồng trứng đa nang](./_images/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-buong-trung-da-nang.png)
+_Hình "Chuỗi hạt kinh điển của buồng trứng đa nang. Các nang noãn nhỏ xếp thành chuỗi, phân bố ở ngoại vi buồng trứng"_.
 
-_Hình "Siêu âm bơm nước của polyps buồng tử cung (SIS)"_.
 ![Hình ảnh siêu âm bơm nước của polyps buồng tử cung (SIS)](./_images/xuat-huyet-tu-cung-co-nang/hinh-anh-sieu-am-polyp-tu-cung.png)
+_Hình "Siêu âm bơm nước của polyps buồng tử cung (SIS)"_.
 
 :::caution
 

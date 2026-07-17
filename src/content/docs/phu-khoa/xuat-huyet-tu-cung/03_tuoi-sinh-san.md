@@ -48,11 +48,11 @@ _Bảng "Phân loại COEIN"_.
 
 ## Chẩn đoán
 
-_Hình "Sơ đồ tiếp cận AUB mạn tính - Bệnh viện Từ Dũ"_.
 ![Sơ đồ tiếp cận AUB mạn tính - Bệnh viện Từ Dũ.](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/so-do-tiep-can-aub-man-tinh.png)
+_Hình "Sơ đồ tiếp cận AUB mạn tính - Bệnh viện Từ Dũ"_.
 
-_Hình "Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp AUB"_.
 ![Tóm lược các khảo sát và chẩn đoán phân biệt của 1 trường hợp xuất huyết tử cung bất thường](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/tom-luoc-khao-sat-va-chan-doan-1-so-truong-hop.jpeg)
+_Hình "Tóm lược các khảo sát và chẩn đoán phân biệt của một trường hợp AUB"_.
 
 ### Lâm sàng
 

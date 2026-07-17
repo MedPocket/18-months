@@ -5,8 +5,8 @@ description: Tổng quan, chẩn đoán và điều trị bệnh lậu.
 
 Bệnh lậu là bệnh lây truyền qua đường tình dục do song cầu khuẩn Gram âm _Neisseria gonorrhoeae_ gây ra. Vi khuẩn này chủ yếu lây qua quan hệ tình dục đường âm đạo, đường miệng hoặc đường hậu môn. Mức độ kháng thuốc của _N. gonorrhoeae_ đang ngày càng gia tăng, khiến việc chẩn đoán, điều trị và phòng ngừa trở nên thách thức hơn.
 
-_Hình "N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm trong và ngoài bạch cầu trung tính"_.
 ![N. gonorrhoeae](./_images/lau/song-cau-khuan.png)
+_Hình "N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường nằm trong và ngoài bạch cầu trung tính"_.
 
 ## Chẩn đoán
 
@@ -40,11 +40,11 @@ _Hình "N. gonorrhoeae là song cầu Gram âm, hình hạt cà phê, thường 
 
 #### Có biến chứng
 
-_Hình "Tiết dịch cơ quan sinh dục"_.
 ![Tiết dịch cơ quan sinh dục](./_images/lau/tiet-dich-co-quan-sinh-duc.png)
+_Hình "Tiết dịch cơ quan sinh dục"_.
 
-_Hình "Lậu hầu họng"_.
 ![Lậu hầu họng](./_images/lau/lau-hau-hong.png)
+_Hình "Lậu hầu họng"_.
 
 **Nam giới:**
 

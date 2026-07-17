@@ -285,8 +285,8 @@ MgSO₄ bảo vệ thần kinh cho trẻ rất non (< 32 tuần). **Chỉ địn
   ![Vòng nâng cổ tử cung](./_images/vong-nang-co-tu-cung.png)
   _Hình "Vòng nâng cổ tử cung"_.
 
-![Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ](./_images/luu-do-du-phong-sinh-non.png)
-_Hình "Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ"_.
+  ![Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ](./_images/luu-do-du-phong-sinh-non.png)
+  _Hình "Lưu đồ dự phòng sinh non đơn thai - Bệnh viện Từ Dũ"_.
 
 ## Tài liệu tham khảo
 

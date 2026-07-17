@@ -60,11 +60,11 @@ _Bảng "Nguyên nhân vô kinh do bất thường sinh dục"_.
 
 ## Chẩn đoán
 
-_Hình "Đánh giá vô kinh nguyên phát"_.
 ![Đánh giá vô kinh nguyên phát](./_images/vo-kinh/danh-gia-vo-kinh-nguyen-phat.png)
+_Hình "Đánh giá vô kinh nguyên phát"_.
 
-_Hình "Đánh giá vô kinh thứ phát"_.
 ![Đánh giá vô kinh thứ phát](./_images/vo-kinh/danh-gia-vo-kinh-thu-phat.png)
+_Hình "Đánh giá vô kinh thứ phát"_.
 
 ### Lâm sàng
 

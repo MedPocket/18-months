@@ -18,8 +18,8 @@ description: Tổng quan giải phẫu và mô học buồng trứng.
 
 **Hình thái và liên quan:**
 
-_Hình "Giải phẫu tử cung - buồng trứng"_.
 ![Giải phẫu tử cung - buồng trứng](./_images/giai-phau-mo-hoc/giai-phau-tu-cung-buong-trung.png)
+_Hình "Giải phẫu tử cung - buồng trứng"_.
 
 - **Mặt trong** (mặt tự do): Lồi, hướng về phễu vòi tử cung và quai ruột.
 - **Mặt ngoài** (áp phúc mạc thành bên chậu) nằm trong hố buồng trứng, giới hạn bởi: Trước - dưới là dây chằng rộng; Trên là động mạch chậu ngoài; Sau là động mạch chậu trong và niệu quản.
@@ -30,8 +30,8 @@ _Hình "Giải phẫu tử cung - buồng trứng"_.
 
 **Mạch máu và bạch huyết:**
 
-_Hình "Giải phẫu mạch máu tử cung buồng trứng"_.
 ![Giải phẫu mạch máu tử cung buồng trứng](./_images/giai-phau-mo-hoc/giai-phau-mach-mau-tu-cung-buong-trung.png)
+_Hình "Giải phẫu mạch máu tử cung buồng trứng"_.
 
 - **Động mạch buồng trứng:** Tách từ động mạch chủ bụng ngang mức L2. Chạy trong dây chằng treo, vào buồng trứng tại đầu vòi.
 - **Nhánh nối từ động mạch tử cung:** Chảy dọc dây chằng buồng trứng riêng, góp phần cấp máu cho cực dưới.
