@@ -87,10 +87,19 @@ Thao tác này thường được thực hiện ngay tại phòng thủ thuật 
 
 **3. Hình ảnh trực quan về kỹ thuật rạch và đặt ống Word**
 
-Kỹ thuật đặt ống Word (_Word Catheter_) hiện là tiêu chuẩn vàng trong chích dẫn lưu vì nó giúp tạo ra một biểu mô hóa đường rò mới, ngăn ngừa tái phát rất hiệu quả mà không cần phải phẫu thuật cắt bỏ tuyến.
+Kỹ thuật đặt ống Word (_Word Catheter_) hiện là tiêu chuẩn vàng trong chích dẫn lưu vì nó giúp tạo ra một biểu mô hóa đường rò mới, ngăn ngừa tái phát rất hiệu quả mà không cần phải phẫu thuật cắt bỏ tuyến. Dưới đây là các bước thao tác chi tiết:
 
-_Hình "Kỹ thuật đặt ống Word (Word Catheter)" (Nguồn: emDocs)_.
-![Kỹ thuật đặt ống Word](./_images/nang-tuyen-bartholin/dat-ong-word.png)
+_Hình "Xác định điểm rạch trên thành nang căng phồng" (Nguồn: emDocs)_.
+![Xác định điểm rạch](./_images/nang-tuyen-bartholin/dat-ong-word.png)
+
+_Hình "Thực hiện đường rạch nhỏ khoảng 0.5-1 cm và lấy dịch mủ" (Nguồn: emDocs)_.
+![Đường rạch thoát dịch mủ](./_images/nang-tuyen-bartholin/rach-thoat-dich.png)
+
+_Hình "Đút ống thông Word Catheter vào khoang nang và bơm phồng bong bóng cao su" (Nguồn: emDocs)_.
+![Bơm phồng bong bóng catheter](./_images/nang-tuyen-bartholin/bom-bong-catheter.png)
+
+_Hình "Giấu đầu ngoài của ống thông cao su vào trong âm đạo của bệnh nhân" (Nguồn: emDocs)_.
+![Giấu đầu ngoài catheter](./_images/nang-tuyen-bartholin/giau-duoi-catheter.png)
 
 **4. Chăm sóc sau khi chích rạch**
 
@@ -134,8 +143,14 @@ Phương pháp này thường không phải là lựa chọn đầu tay cho các
 
 Khi thực hiện bóc tách, phẫu thuật viên phải giữ cho khối nang căng tròn để dễ xác định ranh giới giữa vỏ nang và các mô cơ, mạch máu xung quanh:
 
-_Hình "Kỹ thuật bóc tách nang tuyến Bartholin" (Nguồn: Atlas of Pelvic Surgery)_.
+_Hình "Đường rạch dọc niêm mạc âm hộ để bộc lộ rõ vùng tuyến Bartholin" (Nguồn: Atlas of Pelvic Surgery)_.
+![Bộc lộ đường rạch dọc](./_images/nang-tuyen-bartholin/boc-lo-duong-rach.jpg)
+
+_Hình "Sử dụng kéo tù phẫu thuật bóc tách tỉ mỉ vỏ nang ra khỏi các mô cơ liên kết" (Nguồn: Atlas of Pelvic Surgery)_.
 ![Kỹ thuật bóc tách nang tuyến Bartholin](./_images/nang-tuyen-bartholin/boc-tach-nang.jpg)
+
+_Hình "Tiến hành khâu đóng các lớp cơ đáy vết mổ để xóa bỏ khoảng chết" (Nguồn: Atlas of Pelvic Surgery)_.
+![Khâu phục hồi khoảng trống](./_images/nang-tuyen-bartholin/khau-phuc-hoi-khoang-trong.jpg)
 
 **4. Chăm sóc và theo dõi sau phẫu thuật**
 Vùng âm hộ có nguồn cung cấp máu rất lớn, do đó nguy cơ **tụ máu** hoặc **nhiễm trùng** sau mổ là điều cần được lưu ý sát sao:
@@ -162,8 +177,5 @@ Các biện pháp phòng tránh tắc nghẽn và viêm nhiễm tuyến Bartholi
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- ACOG Practice Bulletin No. 143 (2014) - _Bartholin's Gland Cysts and Abscesses_.
-- Williams Gynecology 4th Edition - _Chapter 3: Benign Disorders of the Lower Female Genital Tract_.
 - emDocs (2022) - _EM@3AM: Bartholin's Abscess_.
 - Clifford R. Wheeless, Jr., Marcella L. Roenneburg (2020) - _Atlas of Pelvic Surgery: Bartholin's Gland Excision_.
