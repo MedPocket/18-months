@@ -123,7 +123,7 @@ Bình thường, phụ nữ tuổi sinh sản tiết khoảng 1.5 g dịch mỗi
 ## Điều trị
 
 ![Sơ đồ xử trí tiết dịch âm đạo bất thường - Bệnh viện Từ Dũ](./_images/tiet-dich-am-dao-bat-thuong/so-do-xu-tri-tiet-dich-am-dao-bat-thuong.jpg)
-_Hình "Sơ đồ xử trí tiết dịch âm đạo bất thường - Bệnh viện Từ Dũ"_.
+_Hình "Sơ đồ xử trí tiết dịch âm đạo bất thường". Nguồn: Bệnh viện Từ Dũ_.
 
 **Clomaz Forte (Clotrimazole 500 mg):**
 

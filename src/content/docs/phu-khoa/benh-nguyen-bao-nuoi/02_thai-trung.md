@@ -90,7 +90,7 @@ Chỉ định ở **người ≥ 40 tuổi đã đủ con hoặc khi có băng h
 ### Hóa trị dự phòng
 
 ![Phác đồ 1 nguyên tắc xử trí thai trứng - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-1-nguyen-tac-xu-tri-thai-trung.png)
-_Hình "Phác đồ 1 nguyên tắc xử trí thai trứng - Bệnh viện Từ Dũ"_.
+_Hình "Phác đồ 1 nguyên tắc xử trí thai trứng". Nguồn: Bệnh viện Từ Dũ_.
 
 **Chỉ cân nhắc cho nhóm nguy cơ cao:** Thai trứng toàn phần lớn, β-hCG > 100,000, siêu âm nghi ngờ xâm lấn.
 

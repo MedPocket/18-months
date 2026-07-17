@@ -16,7 +16,7 @@ Sinh lý phát triển nang noãn từ bào thai đến mãn kinh, cơ chế chi
 **Chiêu mộ nguyên khởi (Primordial Recruitment):** Mỗi đợt 400 nang nguyên thủy được đánh thức, độc lập với FSH/LH. **Cơ chế cận tiết:**
 
 - **PTEN-PI3K-Akt:** Cân bằng PTEN (ức chế) và PI3K (kích hoạt) quyết định nang nào "thức giấc".
-- **AMH** (từ tế bào hạt nang tiền hốc → nang hốc nhỏ) ức chế quá mức chiêu mộ, như "người gác cổng".<br >
+- **AMH** (từ tế bào hạt nang tiền hốc → nang hốc nhỏ) ức chế quá mức chiêu mộ, như "người gác cổng".<br>
 
 ![Con đường PTEN/PI3K/AKT](./_images/sinh-ly/con-duong-pten-pi3k-akt.png)
 _Hình "Con đường PTEN/PI3K/AKT"_.

@@ -37,7 +37,7 @@ Theo FIGO (2018):
 
 ### Phân loại nguy cơ
 
-_Bảng "Tiên lượng u nguyên bào nuôi" - WHO (2018)_.
+_Bảng "Tiên lượng u nguyên bào nuôi". Nguồn: WHO (2018)_.
 
 | Điểm tiên lượng FIGO/WHO (2018)          | 0          | 1         | 2           | 4          |
 | ---------------------------------------- | ---------- | --------- | ----------- | ---------- |
@@ -52,24 +52,24 @@ _Bảng "Tiên lượng u nguyên bào nuôi" - WHO (2018)_.
 
 _Nguy cơ thấp: 0 - 6 điểm (FIGO < 7 điểm, NIH không di căn). Nguy cơ cao: ≥ 7 điểm (FIGO ≥ 7 điểm, NIH di căn). Nguy cơ rất cao: ≥ 12 điểm (FIGO ≥ 12 điểm hoặc di căn gan, não, kháng hóa trị)_.
 
-_Bảng "Phân loại nguy cơ u nguyên bào nuôi" - NIH_.
+_Bảng "Phân loại nguy cơ u nguyên bào nuôi". Nguồn: NIH_.
 
-| Phân loại NIH (Mỹ)          | Tiêu chuẩn chẩn đoán                                                                                                                                                                                                                                                                          |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Không di căn**            | Không có bất cứ bằng chứng nào của di căn.                                                                                                                                                                                                                                                    |
-| **Di căn - Tiên lượng tốt** | Không có bất kỳ yếu tố nguy cơ nào sau:<br > - Thời gian từ có thai trước đến phát hiện bệnh < 4 tháng.<br > - Beta hCG trước điều trị < 40000 UI/ml.<br > - Thai kỳ trước không phải thai đủ tháng.<br > - Chưa từng hóa trị trước.<br > - Không có di căn não hay gan (có thể di căn phổi). |
-| **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên.                                                                                                                                                                                                                                                        |
+| Phân loại NIH (Mỹ)          | Tiêu chuẩn chẩn đoán                                                                                                                                                                                                                                                                     |
+| --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Không di căn**            | Không có bất cứ bằng chứng nào của di căn.                                                                                                                                                                                                                                               |
+| **Di căn - Tiên lượng tốt** | Không có bất kỳ yếu tố nguy cơ nào sau:<br> - Thời gian từ có thai trước đến phát hiện bệnh < 4 tháng.<br> - Beta hCG trước điều trị < 40000 UI/ml.<br> - Thai kỳ trước không phải thai đủ tháng.<br> - Chưa từng hóa trị trước.<br> - Không có di căn não hay gan (có thể di căn phổi). |
+| **Di căn - Tiên lượng xấu** | Có ít nhất một yếu tố nguy cơ kể trên.                                                                                                                                                                                                                                                   |
 
 ## Điều trị
 
 ![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
-_Hình "Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ"_.
+_Hình "Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi". Nguồn: Bệnh viện Từ Dũ_.
 
 ![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
-_Hình "Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi - Bệnh viện Từ Dũ"_.
+_Hình "Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi". Nguồn: Bệnh viện Từ Dũ_.
 
 ![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
-_Hình "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ"_.
+_Hình "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám". Nguồn: Bệnh viện Từ Dũ_.
 
 ### Nguyên tắc
 

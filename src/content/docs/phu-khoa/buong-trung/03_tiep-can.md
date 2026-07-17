@@ -40,23 +40,23 @@ _Hình "Phân loại u buồng trứng theo hình thái siêu âm Tokyo"_.
 Phân tầng nguy cơ dựa trên siêu âm, gồm 6 nhóm:
 
 - **O-RADS 0:** Khó đánh giá (hơi ruột, sang thương lớn, vị trí khó...).
-- **O-RADS 1:** Sang thương sinh lý (nang noãn, nang hoàng thể).<br >
+- **O-RADS 1:** Sang thương sinh lý (nang noãn, nang hoàng thể).<br>
   ![O-RADS 1](./_images/phuong-tien-tiep-can-u-buong-trung/orads-1.png)
   _Hình "O-RADS 1"_.
-- **O-RADS 2** (< 1% ác): Nang đơn thùy < 10 cm (đơn giản hoặc "lành kinh điển" như nang xuất huyết điển hình, nang bì, endometrioma, nang cạnh buồng trứng, nang vùi phúc mạc, ứ dịch tai vòi).<br >
+- **O-RADS 2** (< 1% ác): Nang đơn thùy < 10 cm (đơn giản hoặc "lành kinh điển" như nang xuất huyết điển hình, nang bì, endometrioma, nang cạnh buồng trứng, nang vùi phúc mạc, ứ dịch tai vòi).<br>
   ![O-RADS 2A](./_images/phuong-tien-tiep-can-u-buong-trung/orads-2a.png)
   _Hình "O-RADS 2A"_.
   ![O-RADS 2B](./_images/phuong-tien-tiep-can-u-buong-trung/orads-2b.png)
   _Hình "O-RADS 2B"_.
-- **O-RADS 3** (1-< 10% ác): Nang đơn giản/đơn thùy trơn láng ≥ 10 cm. Nang đơn thùy với thành không đều. Nang đa thùy < 10 cm không thành phần đặc, điểm < 4. Sang thương đặc không tăng sinh mạch, bờ trơn láng. Có thể cần Doppler để xác định thành phần đặc.<br >
+- **O-RADS 3** (1-< 10% ác): Nang đơn giản/đơn thùy trơn láng ≥ 10 cm. Nang đơn thùy với thành không đều. Nang đa thùy < 10 cm không thành phần đặc, điểm < 4. Sang thương đặc không tăng sinh mạch, bờ trơn láng. Có thể cần Doppler để xác định thành phần đặc.<br>
   ![O-RADS 3](./_images/phuong-tien-tiep-can-u-buong-trung/orads-3.png)
   _Hình "O-RADS 3"_.
-- **O-RADS 4** (10-< 50% ác): Nang đa thùy ≥ 10 cm hoặc có vách/thành không đều (< 3 mm). Nang đơn/đa thùy có thành phần đặc hoặc CS 4. Sang thương đặc bờ trơn láng (> 80% đặc) với CS 2-3. "Nhú" là thành phần đặc ≥ 3 mm.<br >
+- **O-RADS 4** (10-< 50% ác): Nang đa thùy ≥ 10 cm hoặc có vách/thành không đều (< 3 mm). Nang đơn/đa thùy có thành phần đặc hoặc CS 4. Sang thương đặc bờ trơn láng (> 80% đặc) với CS 2-3. "Nhú" là thành phần đặc ≥ 3 mm.<br>
   ![O-RADS 4A](./_images/phuong-tien-tiep-can-u-buong-trung/orads-4a.png)
   _Hình "O-RADS 4A"_.
   ![O-RADS 4B](./_images/phuong-tien-tiep-can-u-buong-trung/orads-4b.png)
   _Hình "O-RADS 4B"_.
-- **O-RADS 5** (≥ 50% ác): Sang thương đặc bờ không đều, nang đa thùy có thành phần đặc với CS cao; Hoặc kèm báng bụng/nốt phúc mạc (ngoại trừ báng do nang chức năng hoặc nang chắc chắn lành).<br >
+- **O-RADS 5** (≥ 50% ác): Sang thương đặc bờ không đều, nang đa thùy có thành phần đặc với CS cao; Hoặc kèm báng bụng/nốt phúc mạc (ngoại trừ báng do nang chức năng hoặc nang chắc chắn lành).<br>
   ![O-RADS 5](./_images/phuong-tien-tiep-can-u-buong-trung/orads-5.png)
   _Hình "O-RADS 5"_.
 

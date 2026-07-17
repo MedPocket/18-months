@@ -56,7 +56,7 @@ _Hình "Lậu hầu họng"_.
 - Viêm tiểu khung (PID): Lan ngược lên vòi trứng, buồng trứng, gây đau bụng dưới, sốt, đôi khi áp xe buồng trứng.
 - Viêm vòi trứng và áp xe vòi trứng: Có thể gây tắc vòi, dẫn đến vô sinh hoặc chửa ngoài tử cung.
 - Viêm nội mạc tử cung: Nhẹ triệu chứng nhưng ảnh hưởng niêm mạc tử cung.
-- Mang thai: Tăng nguy cơ sinh non, vỡ ối non, thai nhi nhẹ cân.<br >
+- Mang thai: Tăng nguy cơ sinh non, vỡ ối non, thai nhi nhẹ cân.<br>
 
 **Trẻ sơ sinh** (lây nhiễm qua đường sinh dục khi mẹ nhiễm lậu): Viêm kết mạc mắt khởi phát 2 - 5 ngày sau sinh, chảy mủ mắt, sưng mí, nếu không điều trị có thể dẫn đến loét giác mạc, sẹo và mù loà.
 

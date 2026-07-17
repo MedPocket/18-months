@@ -147,7 +147,7 @@ Việc điều trị đau vú chỉ được khuyến nghị khi triệu chứng
 _Hình "Điều trị đau vú - Phác đồ Cardiff, 2009"_.
 
 ![Đánh giá và xử trí đau vú - Bệnh viện Từ Dũ](./_images/dau-vu/danh-gia-va-xu-tri-dau-vu.png)
-_Hình "Đánh giá và xử trí đau vú - Bệnh viện Từ Dũ"_.
+_Hình "Đánh giá và xử trí đau vú". Nguồn: Bệnh viện Từ Dũ_.
 
 ### Không dùng thuốc
 
