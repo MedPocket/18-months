@@ -89,7 +89,7 @@ Thao tác này thường được thực hiện ngay tại phòng thủ thuật 
 
 Kỹ thuật đặt ống Word (_Word Catheter_) hiện là tiêu chuẩn vàng trong chích dẫn lưu vì nó giúp tạo ra một biểu mô hóa đường rò mới, ngăn ngừa tái phát rất hiệu quả mà không cần phải phẫu thuật cắt bỏ tuyến.
 
-_Hình "Kỹ thuật đặt ống Word (Word Catheter)"_.
+_Hình "Kỹ thuật đặt ống Word (Word Catheter)" (Nguồn: emDocs)_.
 ![Kỹ thuật đặt ống Word](./_images/nang-tuyen-bartholin/dat-ong-word.png)
 
 **4. Chăm sóc sau khi chích rạch**
@@ -134,7 +134,7 @@ Phương pháp này thường không phải là lựa chọn đầu tay cho các
 
 Khi thực hiện bóc tách, phẫu thuật viên phải giữ cho khối nang căng tròn để dễ xác định ranh giới giữa vỏ nang và các mô cơ, mạch máu xung quanh:
 
-_Hình "Kỹ thuật bóc tách nang tuyến Bartholin"_.
+_Hình "Kỹ thuật bóc tách nang tuyến Bartholin" (Nguồn: Atlas of Pelvic Surgery)_.
 ![Kỹ thuật bóc tách nang tuyến Bartholin](./_images/nang-tuyen-bartholin/boc-tach-nang.jpg)
 
 **4. Chăm sóc và theo dõi sau phẫu thuật**
@@ -165,3 +165,5 @@ Các biện pháp phòng tránh tắc nghẽn và viêm nhiễm tuyến Bartholi
 - Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
 - ACOG Practice Bulletin No. 143 (2014) - _Bartholin's Gland Cysts and Abscesses_.
 - Williams Gynecology 4th Edition - _Chapter 3: Benign Disorders of the Lower Female Genital Tract_.
+- emDocs (2022) - _EM@3AM: Bartholin's Abscess_.
+- Clifford R. Wheeless, Jr., Marcella L. Roenneburg (2020) - _Atlas of Pelvic Surgery: Bartholin's Gland Excision_.
