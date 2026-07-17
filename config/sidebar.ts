@@ -273,6 +273,7 @@ export const sidebar = [
       },
       "phu-khoa/chua-ngoai-tu-cung",
       "phu-khoa/chua-vet-mo-lay-thai",
+      "phu-khoa/nang-tuyen-bartholin",
       {
         label: "Tiết dịch âm đạo bất thường",
         items: [
