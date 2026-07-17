@@ -175,7 +175,7 @@ _Bảng "Mục tiêu đường máu"_.
 
 **Chỉ định:**
 
-- \ > 50% mẫu đo không đạt mục tiêu sau 1 - 2 tuần MNT.
+- Hơn 50% mẫu đo không đạt mục tiêu sau 1 - 2 tuần MNT.
 - Glucose đói > 126 mg/dL hoặc bất kỳ > 200 mg/dL cần điều trị ngay.
 - Dấu hiệu thai to (chu vi bụng > 75th percentile).
 
