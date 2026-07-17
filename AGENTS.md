@@ -1,182 +1,130 @@
 # AGENTS.md
 
-Tài liệu này cung cấp hướng dẫn toàn diện, cấu trúc dự án và quy tắc lập trình chuyên biệt để các AI trợ lý (AI Agents / Assistants) có thể nhanh chóng nắm bắt ngữ cảnh, cấu trúc và hỗ trợ phát triển dự án **18 Months** một cách tối ưu, chính xác và nhất quán.
+This file provides a comprehensive guide, project structure, and technical guidelines to help AI Agents or Assistants quickly grasp the project context and efficiently assist with the development of **18 Months**.
 
 ---
 
-## 1. Tổng quan dự án (Project Overview)
+## 1. Project Overview
 
-- **Tên dự án:** 18 Months (MedPocket)
-- **Mục tiêu:** Cung cấp kho tri thức y khoa chuyên sâu và chính xác về Sản khoa (Obstetrics), Phụ khoa (Gynecology) và Hỗ trợ sinh sản (Reproductive Medicine).
-- **Tech Stack cốt lõi:**
-  - **Framework:** Astro v7 (SSG) với Starlight v0.41 làm theme tài liệu chính.
-  - **Bộ xử lý Markdown:** Sätteri (thông qua `@astrojs/markdown-satteri`) được cấu hình làm Markdown processor chính trong `astro.config.ts`, thay thế toàn bộ pipeline mặc định của Remark/Rehype.
-  - **Package Manager:** `pnpm` (quản lý workspace và dependencies).
-  - **Linter & Formatter:** `oxlint` và `oxfmt` (tốc độ cực nhanh, cấu hình qua `.oxlintrc.jsonc` và `.oxfmtrc.jsonc`).
-  - **Các thư viện bổ sung:** `satori` & `@resvg/resvg-js` (tạo ảnh OpenGraph động), `starlight-image-zoom`, `starlight-links-validator`.
+- **Name:** 18 Months (MedPocket)
+- **Objective:** Provides a highly professional, accurate, and structured medical knowledge base on Obstetrics (Sản khoa), Gynecology (Phụ khoa), and Reproductive Medicine (Hỗ trợ sinh sản).
+- **Core Tech Stack:**
+  - **Framework:** Astro v7 (SSG) with Starlight v0.41 as the main documentation theme.
+  - **Markdown Processor:** Sätteri (via `@astrojs/markdown-satteri`) is configured as the primary Markdown processor in `astro.config.ts`, replacing the default Remark/Rehype pipeline.
+  - **Package Manager:** `pnpm` (workspace and dependencies).
+  - **Linter & Formatter:** `oxlint` and `oxfmt` (configured via `.oxlintrc.jsonc` and `.oxfmtrc.jsonc`).
+  - **Additional Integrations:** `satori` & `@resvg/resvg-js` (dynamic OpenGraph image generation), `starlight-image-zoom`, `starlight-links-validator`.
 
 ---
 
-## 2. Bản đồ cấu trúc thư mục (Directory Structure)
+## 2. Directory Structure Map
 
-AI cần nắm vững cấu trúc thư mục sau để định vị file chính xác:
+AI should use this directory structure map to locate files precisely:
 
 ```text
-├── .github/                   # Cấu hình GitHub Actions / Workflows
+├── .github/                   # GitHub Actions / Workflows configurations
 ├── config/
-│   └── sidebar.ts             # Định nghĩa cấu hình Sidebar cho Starlight
-├── public/                    # Tài nguyên tĩnh công cộng (Logo, Favicon, v.v.)
+│   └── sidebar.ts             # Sidebar configuration for Starlight
+├── public/                    # Static public assets (Logo, Favicon, etc.)
 ├── src/
-│   ├── assets/                # Ảnh, logo, fonts hệ thống (DejaVuSans.ttf cho Satori)
-│   ├── components/            # Các custom component Astro
-│   │   ├── tabs/              # Bộ tabs cho Sidebar (TabbedContent, TabListItem, TabPanel)
-│   │   ├── PageTitle.astro    # Custom tiêu đề trang của Starlight
-│   │   └── Sidebar.astro      # Custom Sidebar component override của Starlight
+│   ├── assets/                # App assets, logos, fonts (e.g., DejaVuSans.ttf for Satori)
+│   ├── components/            # Custom Astro Components
+│   │   ├── tabs/              # Sidebar tab components (TabbedContent, TabListItem, TabPanel)
+│   │   ├── PageTitle.astro    # Custom page title override for Starlight
+│   │   └── Sidebar.astro      # Custom sidebar component override
 │   ├── content/
-│   │   ├── docs/              # Thư mục chứa toàn bộ tài liệu y khoa (.md, .mdx)
-│   │   │   ├── san-khoa/      # Tài liệu Sản khoa (mã nhóm: 'san-khoa')
-│   │   │   ├── phu-khoa/      # Tài liệu Phụ khoa (mã nhóm: 'phu-khoa')
-│   │   │   ├── ho-tro-sinh-san/# Tài liệu Hỗ trợ sinh sản (mã nhóm: 'ho-tro-sinh-san')
+│   │   ├── docs/              # Medical documentation files (.md, .mdx)
+│   │   │   ├── san-khoa/      # Obstetrics documentation
+│   │   │   ├── phu-khoa/      # Gynecology documentation
+│   │   │   ├── ho-tro-sinh-san/# Reproductive Medicine documentation
 │   │   │   ├── 404.mdx
-│   │   │   └── index.mdx      # Trang chủ chính của docs
-│   │   └── content.config.ts  # Cấu hình schema cho Starlight docs
+│   │   │   └── index.mdx      # Homepage of docs
+│   │   └── content.config.ts  # Schema definition for Starlight docs
 │   ├── pages/
 │   │   └── og/
-│   │       └── [...route].ts  # API sinh ảnh OpenGraph động (.png) sử dụng Satori
-│   ├── plugins/               # Custom plugins cho bộ xử lý Sätteri
-│   │   ├── satteri-external-links.ts # Tự động thêm icon & target="_blank" cho link ngoài
-│   │   └── satteri-reading-time.ts   # Tính toán thời gian đọc (reading-time) vào frontmatter
+│   │       └── [...route].ts  # Dynamic OG Image generator API using Satori (.png)
+│   ├── plugins/               # Custom Sätteri AST plugins
+│   │   ├── satteri-external-links.ts # Appends external link icon and target="_blank"
+│   │   └── satteri-reading-time.ts   # Computes reading time into frontmatter
 │   ├── styles/
-│   │   └── globals.css        # Custom CSS toàn cục, tích hợp với biến màu Starlight
-│   └── routeData.ts           # Middleware cấu hình OpenGraph images & route metadata
-├── astro.config.ts            # Cấu hình chính của Astro & Starlight
-├── package.json               # Khai báo dependencies & scripts
-├── STYLEGUIDE.md              # Quy tắc viết tài liệu y khoa chi tiết (Bắt buộc tuân thủ!)
-└── README.md                  # Hướng dẫn setup và khởi chạy dự án nhanh
+│   │   └── globals.css        # Global CSS styles, integrated with Starlight variables
+│   └── routeData.ts           # Middleware config for metadata and OG images route resolver
+├── astro.config.ts            # Astro & Starlight configuration
+├── package.json               # Package dependencies & scripts
+├── STYLEGUIDE.md              # Medical Document Style Guide (CRITICAL - ALWAYS FOLLOW!)
+└── README.md                  # Quick setup and local development guide
 ```
 
 ---
 
-## 3. Kiến trúc kỹ thuật & Quy tắc thiết kế (Technical Architecture & Design Rules)
+## 3. Technical Architecture & Guidelines
 
-Khi chỉnh sửa mã nguồn hoặc cấu trúc dự án, AI cần ghi nhớ các nguyên tắc kỹ thuật sau:
+When modifying source files or adding new features, keep the following architectural guidelines in mind:
 
-### 3.1. Bộ xử lý Sätteri Markdown & Tránh cài đặt Unified bừa bãi
+### 3.1. Sätteri Markdown Processor & Avoiding Unified Dependencies
 
-- Dự án sử dụng **Sätteri** làm Markdown processor chính. Các custom plugin xử lý AST (Abstract Syntax Tree) của Markdown/HTML nằm tại `src/plugins/` dưới dạng các plugin mdast (`defineMdastPlugin`) và hast (`defineHastPlugin`).
-- **Lưu ý cực kỳ quan trọng:** Không cài đặt thêm các package ngoài thuộc hệ sinh thái `unified` (như `unist-util-visit`, `mdast-util-to-string`, `@types/hast`, `@types/mdast`...) lên root dependencies vì Sätteri đã tích hợp sẵn và tự cung cấp các helper và types tương đương. Tránh xung đột dependencies!
+- The project uses **Sätteri** for Markdown processing. Custom AST plugins are defined under `src/plugins/` using `defineMdastPlugin` and `defineHastPlugin`.
+- **CRITICAL:** Do NOT install top-level Unified ecosystem packages (e.g., `unified`, `unist-util-visit`, `mdast-util-to-string`, `@types/hast`, `@types/mdast`) directly as root dependencies. Sätteri provides internal AST utilities and types. Keep the root dependencies clean to avoid versioning conflicts.
 
-### 3.2. Cấu hình Starlight & Tương thích Sidebar
+### 3.2. Custom Sidebar & Starlight v0.39+ Configurations
 
-- Dự án sử dụng **Starlight v0.41**.
-- Kể từ Starlight v0.39.0 trở đi:
-  - Các sidebar groups sử dụng tính năng `autogenerate` phải nằm bên trong mảng `items` của group đó.
-  - Các tự động tạo nhóm con (autogenerated subgroups) **không** tự động kế thừa thuộc tính `collapsed` từ group cha. Thuộc tính `collapsed: true` cần phải được khai báo rõ ràng bên trong object `autogenerate`.
-- **Custom Tabbed Sidebar:** Sidebar của dự án đã được tùy biến thành giao diện Tab đại diện cho 3 danh mục chính: "Sản Khoa", "Phụ Khoa", và "Hỗ Trợ Sinh Sản".
-  - Sử dụng các custom component tại `src/components/tabs/` và override của Starlight đặt tại `src/components/Sidebar.astro`.
-  - Toàn bộ Sidebar tùy biến này phải được bọc trong `<SidebarPersister>` (import từ `@astrojs/starlight/components/SidebarPersister.astro`) để duy trì trạng thái UI và vị trí cuộn khi chuyển trang.
-  - Phải hiển thị `<MobileMenuFooter />` (import từ `@astrojs/starlight/components/MobileMenuFooter.astro`) ở cuối sidebar, được bọc trong `<div class="md:sl-hidden">` để các biểu tượng mạng xã hội (như GitHub) hiển thị chính xác trên thiết bị di động.
+- The project runs on **Starlight v0.41**.
+- Keep in mind that since Starlight v0.39.0:
+  - Sidebar groups using the `autogenerate` configuration **must** wrap that configuration inside an `items` array.
+  - Autogenerated subgroups **do not** automatically inherit the collapsed state from their parent; `collapsed: true` must be explicitly defined within the `autogenerate` object.
+- **Custom Tabbed Sidebar:** Top-level navigation groups ("Sản Khoa", "Phụ Khoa", "Hỗ Trợ Sinh Sản") are split into tabs using components in `src/components/tabs/` and customized via `src/components/Sidebar.astro`.
+  - Wrap custom sidebar contents inside `<SidebarPersister>` (from `@astrojs/starlight/components/SidebarPersister.astro`) to maintain UI scroll state across navigations.
+  - Always render `<MobileMenuFooter />` (from `@astrojs/starlight/components/MobileMenuFooter.astro`) inside `<div class="md:sl-hidden">` at the bottom of the sidebar to make sure social icons (like GitHub) appear in the mobile navigation overlay.
 
-### 3.3. Hỗ trợ Subdirectory Base Path & Định dạng Link trong Frontmatter
+### 3.3. Multi-path / Subdirectory Base URL Support
 
-- Dự án hỗ trợ deploy cả trên root domains lẫn các subdirectory (base paths) nhờ cấu hình biến `base` động trong `astro.config.ts` thông qua biến môi trường `BASE`.
-- Để duy trì khả năng di động giữa các base path khác nhau:
-  - **Tuyệt đối không sử dụng absolute path (ví dụ: `/san-khoa/`)** cho các link nội bộ trong phần frontmatter (như các nút kêu gọi hành động `hero.actions` trong file `index.mdx`).
-  - **Bắt buộc sử dụng relative path (ví dụ: `./san-khoa/`)** cho các liên kết này.
-  - Plugin kiểm tra liên kết `starlight-links-validator` được cấu hình `errorOnRelativeLinks: false` trong `astro.config.ts` để hỗ trợ cơ chế link relative này mà không báo lỗi build.
+- The project supports deployments to both root domains and subdirectories (base paths) dynamically. The `base` config in `astro.config.ts` reads from the `BASE` environment variable.
+- To maintain portability across different base paths:
+  - **NEVER use absolute paths (e.g., `/san-khoa/`)** for internal page links in MD/MDX frontmatter (such as `hero.actions` links in `index.mdx`).
+  - **Always use relative paths (e.g., `./san-khoa/`)** instead.
+  - The `starlight-links-validator` integration is configured with `errorOnRelativeLinks: false` to allow this relative link structure without breaking the build.
 
-### 3.4. Dynamic OpenGraph (OG) Images Generation
+### 3.4. Dynamic OpenGraph (OG) Image Resolver
 
-- Ảnh OG cho các trang được sinh động thông qua API tại `src/pages/og/[...route].ts` bằng `satori` và thư viện dựng ảnh siêu tốc `@resvg/resvg-js`.
-- URL của ảnh OG được tự động chèn vào thẻ metadata của từng trang thông qua middleware định nghĩa trong `src/routeData.ts`.
-- Để tránh lỗi phân giải đường dẫn ảnh khi deploy trên subdirectory, URL ảnh được sinh ra bằng cách ghép tiền tố `import.meta.env.BASE_URL` động (ví dụ: `${import.meta.env.BASE_URL}og/${route}.png`).
+- OG images are dynamically rendered using Satori in `src/pages/og/[...route].ts`.
+- In `src/routeData.ts`, image URLs are generated by prepending `import.meta.env.BASE_URL` (e.g., `${import.meta.env.BASE_URL}og/${route}.png`) to ensure they resolve properly on subdirectory deployment.
 
-### 3.5. Styling & CSS Toàn cục
+### 3.5. CSS & Styling
 
-- CSS chính của toàn bộ trang nằm tại `src/styles/globals.css`.
-- Khi phát triển custom component mới, AI cần sử dụng nhất quán các biến CSS Utility của Starlight (như `--sl-color-gray-3`, `--sl-color-white`, `--sl-color-hairline`, v.v.) và các class layout tiện ích của Starlight (`sl-flex`, v.v.) để đảm bảo giao diện đồng bộ với theme sáng/tối.
+- Global styling is defined in `src/styles/globals.css`.
+- When styling custom Astro or HTML elements, always leverage Starlight CSS variables (like `--sl-color-gray-3`, `--sl-color-white`, `--sl-color-hairline`) and built-in utility classes (like `sl-flex`) to maintain theme consistency (light/dark mode support).
 
 ---
 
-## 4. Quy tắc viết tài liệu y khoa (Medical Content Style Guide)
+## 4. Medical Content Style Guide (Crucial Vietnamese Writing Rules)
 
-Mọi nội dung y khoa khi được AI khởi tạo hoặc cập nhật trong thư mục `src/content/docs/` đều **bắt buộc tuân thủ 100%** các quy tắc định dạng và phong cách trong `STYLEGUIDE.md`:
+All y khoa (medical) documentation files created or modified under `src/content/docs/` **must strictly adhere to 100% of the style rules defined in the official Style Guide**.
 
-### 4.1. Quy tắc In đậm và In nghiêng (Bắt buộc!)
+Please read and follow the detailed rules in [**STYLEGUIDE.md**](./STYLEGUIDE.md):
 
-- **In đậm (`**văn bản**`):** Chỉ dùng để nhấn mạnh **từ khóa quan trọng**, **con số ý nghĩa lâm sàng** hoặc **điểm mấu chốt**.
-  - _Đúng:_ Tỷ lệ tử vong là **5%**. / Thời gian vàng cấp cứu là **6 giờ**.
-  - _Sai:_ **Tỷ lệ tử vong là 5%.** (Tuyệt đối không in đậm toàn bộ câu hoặc cả dòng, ngoại trừ tiêu đề).
-- **In nghiêng (`_văn bản_`):**
-  - Tên khoa học của vi khuẩn/virus: _Clostridium tetani_, _Helicobacter pylori_.
-  - Thuật ngữ tiếng Anh đi kèm lần đầu xuất hiện: Tiền sản giật (_Preeclampsia_).
-  - Tên thuốc hoạt chất (Generic names): Viết thường, không viết hoa chữ cái đầu (trừ khi đứng đầu câu): _lidocain_, _paracetamol_, _oxytocin_.
-  - Tên sách, tài liệu tham khảo: _Williams Obstetrics_.
-
-### 4.2. Ký hiệu toán học và Đơn vị đo lường
-
-- **Khoảng trắng quanh toán tử so sánh:** Bắt buộc có một khoảng trắng giữa dấu so sánh và số.
-  - _Đúng:_ `> 5 cm`, `≤ 20 tuần`.
-  - _Sai:_ `>5 cm`, `≤20 tuần`.
-- **Đơn vị đo lường:** Bắt buộc có một khoảng trắng giữa số lượng và đơn vị.
-  - _Đúng:_ `10 mg`, `50 ml`, `37 °C`.
-  - _Sai:_ `10mg`, `50ml`, `37°C`.
-- **Phần trăm (%):** Viết liền số lượng và dấu phần trăm, không có khoảng trắng.
-  - _Đúng:_ `50%`, `95% CI`.
-  - _Sai:_ `50 %`.
-- **Khoảng giá trị:** Sử dụng dấu gạch nối `-` (hyphen) không có khoảng trắng hoặc dùng từ "đến".
-  - _Đúng:_ `10-20 mg`, `5-7 ngày`.
-  - _Sai:_ `10 - 20 mg`.
-
-### 4.3. Cấu trúc List (Danh sách liệt kê)
-
-- **Cấu trúc song song:** Các mục trong danh sách phải đồng nhất về ngữ pháp (ví dụ: đều bắt đầu bằng danh từ, động từ hoặc đều là câu hoàn chỉnh).
-- **Chữ cái đầu:** Luôn viết hoa chữ cái đầu tiên của mỗi dòng.
-- **Dấu kết thúc:** Bắt buộc kết thúc bằng dấu chấm `.` cho tất cả các mục liệt kê (kể cả cụm từ ngắn hay câu hoàn chỉnh) để đảm bảo tính nhất quán.
-- **Danh sách lồng nhau:** Thụt đầu dòng đúng 2 khoảng trắng (spaces) so với cấp cha. Hạn chế lồng sâu quá 2 cấp.
-
-### 4.4. Callouts & Alerts trong Starlight
-
-- Sử dụng đúng ngữ cảnh của hộp lưu ý đặc biệt:
-  - **Thông tin quan trọng/Cảnh báo lâm sàng:** Dùng `:::caution` hoặc `:::warning`.
-  - **Ghi chú bổ sung/Mẹo lâm sàng:** Dùng `:::note` hoặc `:::tip`.
-- _Ví dụ:_
-  ```markdown
-  :::caution
-  Tuyệt đối không thăm khám âm đạo bằng tay khi nghi ngờ rau tiền đạo vì có thể gây xuất huyết ồ ạt.
-  :::
-  ```
-
-### 4.5. Định dạng Tài liệu Tham khảo (References)
-
-- Trình bày nhất quán ở cuối bài viết (`## Tài liệu tham khảo`) theo định dạng chuẩn: `Tên tổ chức/Tác giả (Năm) - Tên bài viết/Sách`.
-- _Ví dụ:_
-  ```markdown
-  - Bộ Y tế (2016) - _Hướng dẫn Quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản_.
-  - ACOG Practice Bulletin No. 202 (2018) - _Gestational Hypertension and Preeclampsia_.
-  ```
-
-### 4.6. Hình ảnh & Bảng biểu tài liệu
-
-- Hình ảnh minh họa y khoa phải được lưu trữ trong thư mục con tương ứng, đặt tên theo quy tắc cục bộ (ví dụ: `src/content/docs/[category]/_images/[topic]/`).
-- Bảng biểu phải được chú thích rõ ràng bằng chữ nghiêng ngay phía trên/dưới bảng.
+- **Bold/Italic Rules:** Learn when to bold key terms/figures vs. italicizing active ingredients/Latin names. See [STYLEGUIDE.md - Section 2 (In đậm và In nghiêng)](./STYLEGUIDE.md#in-đậm-và-in-nghiêng).
+- **Lists:** Bulleted list parallel structures and period end-marks. See [STYLEGUIDE.md - Section 2 (Quy tắc List)](./STYLEGUIDE.md#quy-tắc-list-liệt-kê).
+- **Mathematical Operators & Units:** Space spacing rules around `<`, `>`, `≥`, `≤` and medical units (e.g., `> 5 cm`, `10 mg`). See [STYLEGUIDE.md - Section 3 (Kí hiệu toán học và Đơn vị đo lường)](./STYLEGUIDE.md#kí-hiệu-toán-học-và-đơn-vị-đo-lường).
+- **Medical Terminology & Formatting:** Translating/explaining English medical terms, writing active drug names lowercase (e.g., _paracetamol_), and disease-specific document structures (H2 headers: Tổng quan, Nguyên nhân, Yếu tố nguy cơ, Chẩn đoán, Điều trị, Dự phòng, Tài liệu tham khảo). See [STYLEGUIDE.md - Section 4 & 5](./STYLEGUIDE.md#4-thuật-ngữ-y-khoa).
+- **Callouts/Alert Boxes:** Syntax and appropriate semantic variants (`:::caution`, `:::note`). See [STYLEGUIDE.md - Section 6 (Callouts)](./STYLEGUIDE.md#callouts-lưu-ý-đặc-biệt).
+- **Bibliography Formatting:** How to list reference documents (`Tên tổ chức/Tác giả (Năm) - Tên bài viết/Sách`). See [STYLEGUIDE.md - Section 7](./STYLEGUIDE.md#7-tài-liệu-tham-khảo-references).
 
 ---
 
-## 5. Quy trình phát triển & Kiểm tra (Development & Validation Workflow)
+## 5. Development & Validation Workflow
 
-Để đảm bảo code sạch, không lỗi biên dịch và tài liệu tuân thủ chuẩn SEO/Linter, AI cần tự chạy các lệnh kiểm tra sau trước khi đề xuất thay đổi:
+Always validate your changes with CLI checks before submitting code:
 
-### 5.1. Các lệnh CLI hữu ích
+### 5.1. Handy CLI Commands
 
-- **Cài đặt dependencies:** `pnpm install`
-- **Khởi chạy local dev server:** `pnpm dev` (hoặc `pnpm start`, mặc định chạy tại `http://localhost:4321`)
-- **Kiểm tra Linting & Format:** `pnpm check` (chạy song song `oxlint` và `oxfmt`)
-- **Build thử dự án:** `pnpm build` (quan trọng để xác thực `starlight-links-validator` không phát hiện link chết)
-- **Preview bản build:** `pnpm preview`
+- `pnpm install` - Installs workspace dependencies.
+- `pnpm dev` (or `pnpm start`) - Starts the local development server at `http://localhost:4321`.
+- `pnpm check` - Runs `oxlint` (linter) and `oxfmt` (formatter) simultaneously.
+- `pnpm build` - Performs a full production build and triggers `starlight-links-validator` link verification checks.
+- `pnpm preview` - Local preview of the production build.
 
-### 5.2. Quy tắc tự động hóa của AI Agent
+### 5.2. AI Assistant Self-Validation Workflow
 
-1. **Chẩn đoán trước khi thay đổi môi trường:** Nếu gặp lỗi build, compile hoặc lỗi dependency, tuyệt đối không vội vàng cài đặt hoặc gỡ bỏ package. Hãy đọc kỹ log lỗi, phân tích file `package.json`, các file lock hoặc file config để xác định nguyên nhân gốc rễ trước.
-2. **Không sửa Build Artifacts:** Tuyệt đối không chỉnh sửa trực tiếp các file nằm trong thư mục build/dist hoặc các file tự động sinh. Luôn tìm về file nguồn (source files) để chỉnh sửa và chạy lệnh build lại để tạo ra artifact mới.
-3. **Luôn chạy lệnh kiểm tra chất lượng:** Trước khi hoàn thành tác vụ (gọi công cụ submit/done), AI **bắt buộc** phải chạy lệnh `pnpm check` để đảm bảo code sạch lỗi và được định dạng chuẩn bằng oxfmt. Sau đó, chạy `pnpm build` để xác minh dự án biên dịch hoàn hảo không có cảnh báo hay lỗi liên kết nào.
+1. **Diagnose Before Changing Environment:** If you encounter build/dependency issues, do not run install/uninstall commands blindly. Inspect config/lock files first and read the error log.
+2. **Edit Source, Not Artifacts:** Do not edit generated build artifacts (under `dist/` or `build/`). Always trace back changes to original source files.
+3. **Pre-submit Quality Checks:** Before declaring a task complete or submitting, the AI **must** run `pnpm check` to ensure there are no lint/format issues, and `pnpm build` to verify that the build compiles perfectly and all internal links are valid.
