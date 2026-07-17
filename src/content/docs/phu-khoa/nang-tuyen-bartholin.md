@@ -3,10 +3,6 @@ title: Nang tuyến Bartholin
 description: Định nghĩa, nguyên nhân, chẩn đoán, thủ thuật chích rạch dẫn lưu (Word Catheter) và bóc tách nang tuyến Bartholin.
 ---
 
-**Nang tuyến Bartholin** (_Bartholin's gland cyst_) là hiện tượng dịch tích tụ làm sưng phồng tuyến Bartholin – một tuyến nhỏ nằm ở phần dưới của hai bên cửa âm đạo, có nhiệm vụ tiết ra dịch nhầy để bôi trơn âm hộ và âm đạo khi có kích thích tình dục. Khi nang bị nhiễm trùng sẽ tiến triển thành **áp-xe tuyến Bartholin** (_Bartholin's gland abscess_), tích tụ mủ gây sưng đau dữ dội, cản trở sinh hoạt của người bệnh.
-
-## Tổng quan
-
 Tuyến Bartholin là cấu trúc dạng đôi nằm ở vị trí góc **4 giờ** và **8 giờ** của âm hộ, ngay dưới môi lớn và mặt trong môi nhỏ. Đường kính của tuyến bình thường khoảng **0.5 cm**, đổ dịch vào âm đạo qua một ống tuyến dài khoảng **2 cm**. Khi ống tuyến này bị tắc nghẽn, dịch tiết không thể thoát ra ngoài, ứ đọng lại và tạo thành nang. Nang có thể có kích thước từ một hạt đậu cho đến một quả bóng bàn. Khi nang bị vi khuẩn xâm nhập sẽ gây phản ứng viêm cấp tính, tụ mủ và hình thành ổ áp-xe.
 
 ## Nguyên nhân
@@ -18,7 +14,7 @@ Sự hình thành nang và áp-xe tuyến Bartholin xuất phát từ hai cơ ch
   - _Escherichia coli_.
   - _Peptostreptococcus_.
   - _Bacteroides_.
-  - _Neisseria gonorrhoeae_ (lậu cầu).
+  - _Neisseria gonorrhoeae (lậu cầu)_.
   - _Chlamydia trachomatis_.
 
 ## Yếu tố nguy cơ
@@ -66,12 +62,12 @@ Khác với bóc nang (cắt bỏ hoàn toàn cả phần vỏ tuyến), **chíc
 
 Mục tiêu chính của thủ thuật này là giải phóng ngay lập tức lượng mủ/dịch ứ đọng bên trong để giảm áp lực và giảm đau cho bệnh nhân.
 
-**1. Chỉ định thực hiện**
+#### Chỉ định thực hiện
 
 - Áp-xe tuyến Bartholin (nang bị nhiễm trùng, hóa mủ).
 - Nang tuyến Bartholin kích thước lớn gây đau nhiều, nhưng chưa có chỉ định bóc toàn bộ hoặc bệnh nhân chưa muốn phẫu thuật triệt để.
 
-**2. Quy trình kỹ thuật chích rạch dẫn lưu**
+#### Quy trình kỹ thuật chích rạch dẫn lưu
 Thao tác này thường được thực hiện ngay tại phòng thủ thuật sản phụ khoa dưới điều kiện vô trùng.
 
 1. **Vô cảm tại chỗ:**
@@ -85,7 +81,7 @@ Thao tác này thường được thực hiện ngay tại phòng thủ thuật 
    - **Đặt ống thông Word (_Word Catheter_):** Đút một ống cao su nhỏ có bong bóng vào khoang nang, bơm nước cất làm phồng bong bóng để giữ ống cố định. Ống này được giữ từ **4-6 tuần** để tạo ra một biểu mô hóa đường rò mới, ngăn ngừa tái phát rất hiệu quả.
    - **Đặt mét (gạc nhỏ)/ống dẫn lưu cao su:** Nếu không có ống Word, bác sĩ sẽ chèn một dải gạc nhỏ hờ vào trong vết rạch để giữ vết mổ luôn mở, gạc này sẽ được rút ra sau **24-48 giờ**.
 
-**3. Hình ảnh trực quan về kỹ thuật rạch và đặt ống Word**
+#### Hình ảnh trực quan về kỹ thuật rạch và đặt ống Word
 
 Kỹ thuật đặt ống Word (_Word Catheter_) hiện là tiêu chuẩn vàng trong chích dẫn lưu vì nó giúp tạo ra một biểu mô hóa đường rò mới, ngăn ngừa tái phát rất hiệu quả mà không cần phải phẫu thuật cắt bỏ tuyến. Dưới đây là các bước thao tác chi tiết:
 
@@ -95,13 +91,10 @@ _Hình "Xác định điểm rạch trên thành nang căng phồng" (Nguồn: e
 _Hình "Thực hiện đường rạch nhỏ khoảng 0.5-1 cm và lấy dịch mủ" (Nguồn: emDocs)_.
 ![Đường rạch thoát dịch mủ](./_images/nang-tuyen-bartholin/rach-thoat-dich.png)
 
-_Hình "Đút ống thông Word Catheter vào khoang nang và bơm phồng bong bóng cao su" (Nguồn: emDocs)_.
-![Bơm phồng bong bóng catheter](./_images/nang-tuyen-bartholin/bom-bong-catheter.png)
-
 _Hình "Giấu đầu ngoài của ống thông cao su vào trong âm đạo của bệnh nhân" (Nguồn: emDocs)_.
 ![Giấu đầu ngoài catheter](./_images/nang-tuyen-bartholin/giau-duoi-catheter.png)
 
-**4. Chăm sóc sau khi chích rạch**
+#### Chăm sóc sau khi chích rạch
 
 - **Sử dụng thuốc:** Uống đầy đủ kháng sinh, kháng viêm và giảm đau theo chỉ định của bác sĩ (thường kéo dài **5-7 ngày** sau chích áp-xe).
 - **Vệ sinh đúng cách:** Rửa nhẹ nhàng vùng kín bằng nước ấm sạch sau mỗi lần đi tiêu tiểu.
@@ -120,14 +113,14 @@ Khác với phương pháp rạch dẫn lưu thông thường hoặc mở thông
 
 Để giúp bạn hình dung rõ hơn, dưới đây là vị trí giải phẫu của tuyến Bartholin cùng quy trình kỹ thuật chuẩn y khoa.
 
-**1. Chỉ định thực hiện**
+#### Chỉ định thực hiện
 Phương pháp này thường không phải là lựa chọn đầu tay cho các ca nang tuyến mới xuất hiện lần đầu. Bác sĩ thường chỉ định bóc nang trong các trường hợp:
 
 - Nang tuyến Bartholin bị tái phát nhiều lần sau khi đã áp dụng các phương pháp khác (như đặt ống catheter Word hoặc mở thông nang).
 - Nang có kích thước lớn, gây đau đớn, cản trở việc đi lại hoặc sinh hoạt tình dục.
 - Nghi ngờ có tổn thương ác tính (đặc biệt ở phụ nữ **> 40 tuổi**).
 
-**2. Quy trình kỹ thuật bóc nang tuyến Bartholin**
+#### Quy trình kỹ thuật bóc nang tuyến Bartholin
 Đây là một phẫu thuật đòi hỏi sự khéo léo để tránh làm vỡ nang trong quá trình bóc tách và hạn chế chảy máu (do vùng này có hệ thống mạch máu rất phong phú).
 
 1. **Chuẩn bị và vô cảm:**
@@ -139,7 +132,7 @@ Phương pháp này thường không phải là lựa chọn đầu tay cho các
 4. **Cầm máu và khâu phục hồi:**
    Sau khi lấy trọn vẹn nang, bác sĩ sẽ kiểm tra kỹ đáy vết mổ và tiến hành khâu thắt các mạch máu để tránh chảy máu trong. Tiếp theo, khoang trống sinh ra sau khi mất nang (khoảng chết) sẽ được khâu khép lại bằng các mũi khâu tiêu dạng chữ X hoặc cuốn. Cuối cùng là khâu đóng niêm mạc da bằng chỉ tự tiêu.
 
-**3. Hình ảnh mô phỏng thao tác bóc nang**
+#### Hình ảnh mô phỏng thao tác bóc nang
 
 Khi thực hiện bóc tách, phẫu thuật viên phải giữ cho khối nang căng tròn để dễ xác định ranh giới giữa vỏ nang và các mô cơ, mạch máu xung quanh:
 
@@ -152,7 +145,7 @@ _Hình "Sử dụng kéo tù phẫu thuật bóc tách tỉ mỉ vỏ nang ra kh
 _Hình "Tiến hành khâu đóng các lớp cơ đáy vết mổ để xóa bỏ khoảng chết" (Nguồn: Atlas of Pelvic Surgery)_.
 ![Khâu phục hồi khoảng trống](./_images/nang-tuyen-bartholin/khau-phuc-hoi-khoang-trong.jpg)
 
-**4. Chăm sóc và theo dõi sau phẫu thuật**
+#### Chăm sóc và theo dõi sau phẫu thuật
 Vùng âm hộ có nguồn cung cấp máu rất lớn, do đó nguy cơ **tụ máu** hoặc **nhiễm trùng** sau mổ là điều cần được lưu ý sát sao:
 
 - **Giảm đau và kháng sinh:** Sử dụng thuốc theo đúng đơn của bác sĩ để chống nhiễm khuẩn và giảm sưng nề.
