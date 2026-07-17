@@ -12,8 +12,8 @@ description: Tổng quan, chẩn đoán và điều trị Herpes sinh dục.
 
 ### Lâm sàng
 
-_Hình "Herpes sinh dục: Mụn nước, vết loét ở vùng môi bé và âm đạo"_.
 ![Herpes sinh dục](./_images/herpes/herpes.jpg)
+_Hình "Herpes sinh dục: Mụn nước, vết loét ở vùng môi bé và âm đạo"_.
 
 **Triệu chứng toàn thân (thường gặp ở lần nhiễm đầu tiên):**
 

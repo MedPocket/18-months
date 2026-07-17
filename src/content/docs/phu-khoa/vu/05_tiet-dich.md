@@ -180,8 +180,8 @@ Tiết dịch bệnh lý (pathologic nipple discharge) là hiện tượng dịc
 
 ### Điều trị
 
-_Hình "Xử trí tiết dịch núm vú bệnh lý - Bệnh viện Từ Dũ"_.
 ![Xử trí tiết dịch núm vú bệnh lý - Bệnh viện Từ Dũ](./_images/tiet-dich-num-vu/xu-tri-tiet-dich-num-vu-benh-ly.jpeg)
+_Hình "Xử trí tiết dịch núm vú bệnh lý - Bệnh viện Từ Dũ"_.
 
 **Bước 1 Phân loại dịch:**
 

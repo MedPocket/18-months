@@ -138,8 +138,8 @@ Laser/ánh sáng: Giảm rậm lông, cải thiện chất lượng sống.
 
 **Mục tiêu:** Gây phóng noãn đơn nang, giảm đa thai, giảm quá kích buồng trứng.
 
-_Hình "Lược đồ điều trị hiếm muộn cho phụ nữ buồng trứng đa nang" - HOREM_.
 ![Lược đồ điều trị hiếm muộn cho phụ nữ PCOS](./_images/pcos/horem-dieu-tri-hiem-muon-cho-phu-nu-pcos.png)
+_Hình "Lược đồ điều trị hiếm muộn cho phụ nữ buồng trứng đa nang" - HOREM_.
 
 #### Thay đổi lối sống
 

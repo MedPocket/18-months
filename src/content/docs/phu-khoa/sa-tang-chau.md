@@ -51,8 +51,8 @@ _Bảng "Phân loại sa tạng chậu"_.
 - Độ III: Ba hoặc Bp sa > 1 cm dưới màng trinh nhưng < (tvl-2) cm.
 - Độ IV: Sa toàn bộ, Ba hoặc Bp ≥ (tvl-2) cm.
 
-_Hình "Sơ đồ chẩn đoán sa tạng chậu"_.
 ![Sơ đồ chẩn đoán sa tạng chậu](./_images/sa-tang-chau/so-do-chan-doan-sa-tang-chau.jpg)
+_Hình "Sơ đồ chẩn đoán sa tạng chậu"_.
 
 Dựa vào lâm sàng (POP-Q) và kết quả cận lâm sàng, ghi rõ:
 
@@ -98,14 +98,14 @@ Phương pháp:
 
 ### Ngoại khoa
 
-_Hình "Phác đồ chẩn đoán và xử trí sa tạng chậu - Bệnh viện Từ Dũ"_.
 ![Phác đồ chẩn đoán và xử trí sa tạng chậu - Bệnh viện Từ Dũ](./_images/sa-tang-chau/phac-do-chan-doan-va-xu-tri-sa-tang-chau.jpeg)
+_Hình "Phác đồ chẩn đoán và xử trí sa tạng chậu - Bệnh viện Từ Dũ"_.
 
-_Hình "Phẫu thuật ngả bụng - Bệnh viện Từ Dũ"_.
 ![Phẫu thuật ngả bụng - Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-bung.jpeg)
+_Hình "Phẫu thuật ngả bụng - Bệnh viện Từ Dũ"_.
 
-_Hình "Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ"_.
 ![Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ](./_images/sa-tang-chau/phau-thuat-nga-am-dao.png)
+_Hình "Phẫu thuật đường âm đạo - Bệnh viện Từ Dũ"_.
 
 **Nguyên tắc:**
 

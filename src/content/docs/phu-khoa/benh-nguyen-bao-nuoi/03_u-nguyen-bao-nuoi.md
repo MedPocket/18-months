@@ -62,14 +62,14 @@ _Bảng "Phân loại nguy cơ u nguyên bào nuôi" - NIH_.
 
 ## Điều trị
 
-_Hình "Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ"_.
 ![Phác đồ 2 nguyên xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-2-nguyen-tac-xu-tri-khoi-u-nguyen-bao-nuoi.png)
+_Hình "Phác đồ 2 nguyên tắc xử trí của khối u nguyên bào nuôi - Bệnh viện Từ Dũ"_.
 
-_Hình "Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi - Bệnh viện Từ Dũ"_.
 ![Phác đồ 3 nguyên tắc xử trí của u nguyên bào nuôi - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-3-nguyen-tac-xu-tri-u-nguyen-bao-nuoi.png)
+_Hình "Phác đồ 3 nguyên tắc xử trí u nguyên bào nuôi - Bệnh viện Từ Dũ"_.
 
-_Hình "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ"_.
 ![Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-4-nguyen-tac-xu-tri-u-nguyen-bao-nuoi-vi-tri-rau-bam.jpeg)
+_Hình "Phác đồ 4 nguyên tắc xử trí của u nguyên bào nuôi tại vị trí rau bám - Bệnh viện Từ Dũ"_.
 
 ### Nguyên tắc
 
@@ -170,8 +170,8 @@ Etoposide 100 mg/m² truyền TM trong 1 giờ + Cisplatin 20 mg/m² truyền TM
 
 **Khám lâm sàng, siêu âm, X-quang ngực, cận lâm sàng** khi β-hCG bất thường hoặc có triệu chứng lâm sàng. Xét nghiệm huyết đồ, chức năng gan, thận, điện giải... phát hiện nhiễm độc hóa chất.
 
-_Hình "Di căn phổi bóng bay trên X-quang"_.
 ![Di căn phổi](./_images/choriocarcinoma-di-can-phoi-hinh-anh-tha-bong.png)
+_Hình "Di căn phổi bóng bay trên X-quang"_.
 
 Sau thời gian theo dõi, người bệnh được có thai trở lại, tùy trường hợp. **Yêu cầu ít nhất 2 năm sau điều trị khỏi mới có thai lại.** Khi có dấu hiệu mang thai cần đi khám thai ngày, chú ý siêu âm và β-hCG để phòng bệnh tái phát.
 

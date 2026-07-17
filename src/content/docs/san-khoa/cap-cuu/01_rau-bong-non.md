@@ -11,8 +11,8 @@ description: Tổng quan chẩn đoán và xử trí rau bong non.
 
 Máu chảy ra giữa lớp cơ tử cung và các màng thai bị giam cầm trong **khối máu tụ.** Khi khối máu tụ lớn hơn, cùng áp lực tăng lên sẽ gây rò rỉ máu ra ngoài qua cổ tử cung, dẫn đến xuất huyết âm đạo.
 
-_Hình "Khối máu tụ"_.
 ![Khối máu tụ](./_images/rau-bong-non/khoi-mau-tu.png)
+_Hình "Khối máu tụ"_.
 
 **Nguồn chảy máu:**
 
@@ -48,8 +48,8 @@ Triệu chứng để nghĩ tới rau bong non:
 - **Dấu hiệu suy thai:** Tim thai thay đổi, giảm vận động thai.
 - **Thai lưu** có thể xảy ra trong trường hợp nặng.
 
-_Hình "EFM rau bong non"_.
 ![EFM rau bong non](./_images/rau-bong-non/EFM-rau-bong-non.png)
+_Hình "EFM rau bong non"_.
 
 ### Cận lâm sàng
 
@@ -81,8 +81,8 @@ Tử cung Couvelaire:
 - Nặng có thể lan tới vòi trứng, dây chằng rộng, buồng trứng.
 - Không phải chỉ định cắt tử cung.
 
-_Hình "Tử cung Couvelaire"_.
 ![Tử cung Couvelaire](./_images/rau-bong-non/tu-cung-couvelaire.png)
+_Hình "Tử cung Couvelaire"_.
 
 ### Tử vong sơ sinh
 

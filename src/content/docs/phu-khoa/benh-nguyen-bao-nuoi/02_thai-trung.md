@@ -52,11 +52,11 @@ Dựa vào lâm sàng, siêu âm, định lượng β-hCG và giải phẫu bệ
 
 **Siêu âm:**
 
-_Hình "Siêu âm thai trứng toàn phần"_.
 ![Siêu âm thai trứng toàn phần](./_images/hinh-anh-sieu-am-thai-trung-toan-phan.png)
+_Hình "Siêu âm thai trứng toàn phần"_.
 
-_Hình "Siêu âm thai trứng bán phần"_.
 ![Hình ảnh siêu âm thai trứng bán phần](./_images/hinh-anh-sieu-am-thai-trung-ban-phan.png)
+_Hình "Siêu âm thai trứng bán phần"_.
 
 - **Thai trứng toàn phần:** "tổ ong"/"bão tuyết" không thấy phôi, hình ảnh nhiều nang nước.
 - **Thai trứng bán phần:** Hình ảnh nang nước không đồng nhất, có thể kèm túi thai hoặc phôi thoái hóa.
@@ -89,8 +89,8 @@ Chỉ định ở **người ≥ 40 tuổi đã đủ con hoặc khi có băng h
 
 ### Hóa trị dự phòng
 
-_Hình "Phác đồ 1 nguyên tắc xử trí thai trứng - Bệnh viện Từ Dũ"_.
 ![Phác đồ 1 nguyên tắc xử trí thai trứng - Bệnh viện Từ Dũ](./_images/tu-du-phac-do-1-nguyen-tac-xu-tri-thai-trung.png)
+_Hình "Phác đồ 1 nguyên tắc xử trí thai trứng - Bệnh viện Từ Dũ"_.
 
 **Chỉ cân nhắc cho nhóm nguy cơ cao:** Thai trứng toàn phần lớn, β-hCG > 100,000, siêu âm nghi ngờ xâm lấn.
 
