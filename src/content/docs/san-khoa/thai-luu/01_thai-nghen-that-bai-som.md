@@ -87,8 +87,9 @@ Triệu chứng **ra máu, đau bụng, cổ tử cung đóng.** **Dấu hiệu 
 - Xoang ối giãn rộng (expanded amnion sign).
 
 ![Túi ối nhỏ](./_images/thai-nghen-that-bai-som/doa-say-thai-luu-tui-oi-nho.png)
+_Hình "Doạ sảy thai lưu: Túi thai rất nhỏ, (MSD - CRL) < 5 mm, có tụ máu dưới màng đệm"_.
+
 ![Túi ối giãn](./_images/thai-nghen-that-bai-som/doa-say-thai-luu-tui-oi-gian.png)
-_Hình "Doạ sảy thai lưu: Túi thai rất nhỏ, (MSD-CRL) < 5 mm, có tụ máu dưới màng đệm"_.
 _Hình "Doạ sảy thai lưu: Xoang ối giãn rộng, không tương xứng với phôi rất nhỏ bên trong. Tiên lượng xấu nhưng không cho phép kết luận thai nghén thất bại sớm"_.
 
 ### Sảy thai khó tránh

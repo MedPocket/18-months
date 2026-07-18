@@ -99,6 +99,7 @@ Trải qua **4 giai đoạn:**
 **Chỉ định** được căn cứ vào toán đồ:
 
 ![Toán đồ chiếu đèn sơ sinh](./_images/toan-do-chieu-den-so-sinh.jpeg)
+_Hình "Toán đồ chỉ định chiếu đèn sơ sinh"_.
 
 **Ánh sáng xanh với bước sóng 420 - 490 nm**, có thể là đèn huỳnh quang hoặc LED, khoảng cách đến bệnh nhi không quá 50 cm, nhưng không gần hơn 10 cm. Bệnh nhi được **cởi trần và phải che mắt**, nhiều nơi khuyến cáo vẫn thực hiện mặc tã khi chiếu đèn. Trường hợp vàng da không nặng, chiếu liên tục hay cách quãng (12 giờ chiếu-12 giờ nghỉ) không khác biệt về hiệu quả. Khi chiếu đèn, cần đảm bảo chiếu trên diện rộng, vì thế cần **thay đổi tư thế mỗi 2 giờ.**
 

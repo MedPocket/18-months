@@ -28,6 +28,7 @@ _Bảng "Phân loại sa tạng chậu"_.
 ### Lâm sàng
 
 ![Phân loại - Phân độ sa tạng chậu](./_images/sa-tang-chau/phan-loai-phan-do-sa-tang-chau.jpg)
+_Hình "Phân loại và phân độ sa tạng chậu"_.
 
 Đơn vị đo cm, người bệnh tư thế sản phụ khoa, đầu cao 45°, rặn trong quá trình đánh giá. Dụng cụ van âm đạo, thước đo, kẹp tim, pozzi.
 
