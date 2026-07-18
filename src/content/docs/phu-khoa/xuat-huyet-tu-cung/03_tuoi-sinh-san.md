@@ -15,6 +15,7 @@ Theo khuyến cáo của FIGO 2018, AUB được phân thành hai hệ thống:
 ### Theo định nghĩa
 
 ![Các thuật ngữ về xuất huyết tử cung bất thường](./_images/xuat-huyet-tu-cung-bat-thuong-tuoi-sinh-san/cac-thuat-ngu-ve-xuat-huyet-tu-cung-bat-thuong.jpeg)
+_Hình "Các thuật ngữ về xuất huyết tử cung bất thường"_.
 
 **AUB mạn tính:** Chảy máu tử cung bất thường kéo dài ít nhất **6 tháng** gần nhất, với bất thường ở một hoặc nhiều khía cạnh sau:
 

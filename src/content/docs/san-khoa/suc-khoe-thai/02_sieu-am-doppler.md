@@ -51,10 +51,10 @@ Khảo sát dòng chảy động mạch rốn bằng Doppler nên được dùng
 Trở kháng động mạch rốn tăng cao có thể dẫn đến mất dòng chảy cuối tâm trương hoặc đảo ngược dòng chảy cuối tâm trương. Khi xuất hiện giảm, mất hoặc đảo ngược dòng chảy cuối tâm trương trên Doppler động mạch rốn, cần đánh giá kỹ lâm sàng để quyết định chấm dứt thai kỳ hoặc theo dõi chặt chẽ.
 
 ![Vắng mặt dòng chảy trong tâm trương động mạch rốn](./_images/sieu-am-doppler/vang-mat-dong-chay-trong-tam-truong-dong-mach-ron.png)
-_Hỉnh ảnh "Vắng mặt dòng chảy trong tâm trương động mạch rốn"_.
+_Hình "Vắng mặt dòng chảy trong tâm trương động mạch rốn"_.
 
 ![Đảo ngược dòng chảy trong tâm trương động mạch rốn](./_images/sieu-am-doppler/dao-nguoc-dong-chay-trong-tam-truong-dong-mach-ron.png)
-_Hỉnh ảnh "Đảo ngược dòng chảy trong tâm trương động mạch rốn"_.
+_Hình "Đảo ngược dòng chảy trong tâm trương động mạch rốn"_.
 
 ## Doppler động mạch não giữa (MCA)
 
