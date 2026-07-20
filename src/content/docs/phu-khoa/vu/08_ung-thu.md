@@ -31,7 +31,7 @@ Do vậy, tầm soát định kỳ giúp phát hiện ung thư vú giai đoạn 
 **Tự khám vú (Breast Self-Exam, BSE):**
 
 - Không được ACS xem là phương pháp tầm soát chính thức, nhưng khuyến cáo mọi phụ nữ ≥ 20 tuổi nên tự khám vú hàng tháng để làm quen với cấu trúc bình thường của vú và phát hiện sớm các thay đổi bất thường. Khoảng 50% số trường hợp ung thư vú được phát hiện khi phụ nữ tự khám vú (khi khối u đã lớn hoặc đã lan ra ngoài bề mặt).
-- Thời điểm lý tưởng để tự khám vú là ngày thứ 8 - 10 sau khi bắt đầu chu kỳ kinh, khi vú có kích thước nhỏ nhất, ít chịu ảnh hưởng của estrogen, và mô vú mềm.
+- Thời điểm lý tưởng để tự khám vú là ngày thứ tám đến thứ mười sau khi bắt đầu chu kỳ kinh, khi vú có kích thước nhỏ nhất, ít chịu ảnh hưởng của estrogen, và mô vú mềm.
 
 **Siêu âm vú:**
 
@@ -248,7 +248,7 @@ Theo ACS (2015), với các nhóm nguy cơ đặc biệt tăng cao như LCIS, AD
 
 - Người thân bậc 1 (FDR) có mắc ung thư vú hoặc buồng trứng (chiếm 20 - 30% ca ung thư vú).
 - Đột biến gene BRCA1/BRCA2: Làm tăng nguy cơ ung thư vú lên 35-85% trong suốt đời, và nguy cơ ung thư vú đối bên lên đến 65%. BRCA1 còn liên quan đến ung thư buồng trứng, BRCA2 liên quan đến ung thư vú ở nam.
-- Nên làm xét nghiệm BRCA khi có ≥ 3 người thân (bao gồm một người < 50 tuổi) mắc ung thư vú/buồng trứng; Hoặc ≥ 2 FDR mắc ung thư vú/buồng trứng; Hoặc người thân mắc ung thư vú nam; Hoặc bệnh nhân ung thư vú được chẩn đoán trước 50 tuổi.
+- Nên làm xét nghiệm BRCA khi có ≥ ba người thân (bao gồm một người < 50 tuổi) mắc ung thư vú/buồng trứng; Hoặc ≥ hai FDR mắc ung thư vú/buồng trứng; Hoặc người thân mắc ung thư vú nam; Hoặc bệnh nhân ung thư vú được chẩn đoán trước 50 tuổi.
 
 **Bệnh lý vú tiền căn:**
 
@@ -466,17 +466,17 @@ Ung thư vú liên quan đến thai kỳ (Pregnancy-Associated Breast Cancer, PA
 
 ### Quản lý
 
-**Tam cá nguyệt I-II:**
+**Tam cá nguyệt thứ nhất và thứ hai:**
 
-- Nếu ung thư được chẩn đoán trong tam cá nguyệt I-II, có thể chỉ định phẫu thuật bảo tồn vú hoặc đoạn nhũ, tùy kích thước và giai đoạn.
-- Hóa trị có thể bắt đầu từ tam cá nguyệt II (sau tuần 12 - 14) nếu cần, ưu tiên sử dụng các phác đồ an toàn (ví dụ: AC). Tránh dùng anthracycline trong tam cá nguyệt I do nguy cơ quái thai.
-- Xạ trị bị chống chỉ định trong thai kỳ, đặc biệt trong tam cá nguyệt I-II.
+- Nếu ung thư được chẩn đoán trong tam cá nguyệt thứ nhất và thứ hai, có thể chỉ định phẫu thuật bảo tồn vú hoặc đoạn nhũ, tùy kích thước và giai đoạn.
+- Hóa trị có thể bắt đầu từ tam cá nguyệt thứ hai (sau tuần 12 - 14) nếu cần, ưu tiên sử dụng các phác đồ an toàn (ví dụ: AC). Tránh dùng anthracycline trong tam cá nguyệt thứ nhất do nguy cơ quái thai.
+- Xạ trị bị chống chỉ định trong thai kỳ, đặc biệt trong tam cá nguyệt thứ nhất và thứ hai.
 
-**Tam cá nguyệt III:**
+**Tam cá nguyệt thứ ba:**
 
 - Có thể phẫu thuật ngay nếu có chỉ định (u nhỏ, không di căn xa).
 - Nếu u lớn hoặc cần hóa trị tiền phẫu, có thể trì hoãn phẫu thuật đến sau sinh (sau sinh nếu > 34 - 35 tuần).
-- Hóa trị có thể thực hiện trong tam cá nguyệt III nếu cần, theo dõi chặt chẽ cho mẹ và thai nhi.
+- Hóa trị có thể thực hiện trong tam cá nguyệt thứ ba nếu cần, theo dõi chặt chẽ cho mẹ và thai nhi.
 
 **Chấm dứt thai kỳ:**
 

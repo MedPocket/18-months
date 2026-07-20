@@ -207,7 +207,7 @@ BRCA1 và BRCA2 (Breast Cancer genes 1 & 2) là các gene ức chế u (tumor su
 
 **Chỉ định:**
 
-- Gia đình có ≥ 3 người ung thư vú hoặc buồng trứng (ít nhất một người < 50 tuổi).
+- Gia đình có ≥ ba người ung thư vú hoặc buồng trứng (ít nhất một người < 50 tuổi).
 - Hai người thân thế hệ thứ nhất hoặc hai thế hệ thứ hai có ung thư vú/buồng trứng.
 - Có người thân nam bị ung thư vú.
 - Bản thân ung thư vú trước 50 tuổi.

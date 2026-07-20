@@ -7,7 +7,7 @@ Các rối loạn tự miễn gặp ở phụ nữ **cao gấp khoảng 5 lần 
 
 ## Lupus ban đỏ hệ thống
 
-Lupus ban đỏ hệ thống (Systemic Lupus Erythematosus - SLE) có thể **khởi phát lần đầu trong thai kỳ**. Những phụ nữ có **tiền sử thai chết lưu không rõ nguyên nhân trong tam cá nguyệt thứ 2, thai chậm phát triển trong tử cung, sinh non hoặc sảy thai tự nhiên tái diễn** cần được nghĩ đến khả năng mắc SLE.
+Lupus ban đỏ hệ thống (Systemic Lupus Erythematosus - SLE) có thể **khởi phát lần đầu trong thai kỳ**. Những phụ nữ có **tiền sử thai chết lưu không rõ nguyên nhân trong tam cá nguyệt thứ hai, thai chậm phát triển trong tử cung, sinh non hoặc sảy thai tự nhiên tái diễn** cần được nghĩ đến khả năng mắc SLE.
 
 Diễn tiến của lupus trong thai kỳ **khó dự đoán**, có xu hướng **nặng lên trong giai đoạn sau sinh**. Kết cục thai kỳ thường thuận lợi hơn nếu việc thụ thai được trì hoãn cho đến khi bệnh **ổn định ít nhất 6 tháng**, phác đồ điều trị đã được điều chỉnh phù hợp, huyết áp và chức năng thận bình thường.
 
@@ -51,7 +51,7 @@ Các tiêu chuẩn liên quan đến thai kỳ bao gồm:
 
 Giảm tiểu cầu miễn dịch (Immune Thrombocytopenia - ITP) là rối loạn do IgG kháng tiểu cầu của mẹ, có xu hướng **nặng lên trong thai kỳ** và làm tăng nguy cơ bệnh suất của mẹ. ITP được đặc trưng bởi **giảm tiểu cầu đơn độc**, không tìm thấy nguyên nhân khác, là **chẩn đoán loại trừ**.
 
-Corticosteroid là điều trị hàng đầu, giúp giảm IgG và đạt lui bệnh ở đa số bệnh nhân, tuy nhiên hiệu quả duy trì chỉ khoảng 50%. Các biện pháp ức chế miễn dịch hoặc thay huyết tương có thể làm giảm thêm nồng độ IgG và cải thiện số lượng tiểu cầu. Trong các trường hợp dai dẳng, cắt lách có thể được chỉ định, tốt nhất trong tam cá nguyệt thứ 2, với tỷ lệ lui bệnh kéo dài khoảng 80%.
+Corticosteroid là điều trị hàng đầu, giúp giảm IgG và đạt lui bệnh ở đa số bệnh nhân, tuy nhiên hiệu quả duy trì chỉ khoảng 50%. Các biện pháp ức chế miễn dịch hoặc thay huyết tương có thể làm giảm thêm nồng độ IgG và cải thiện số lượng tiểu cầu. Trong các trường hợp dai dẳng, cắt lách có thể được chỉ định, tốt nhất trong tam cá nguyệt thứ hai, với tỷ lệ lui bệnh kéo dài khoảng 80%.
 
 Globulin miễn dịch truyền tĩnh mạch có thể làm tăng nhanh số lượng tiểu cầu nhưng hiệu quả ngắn hạn, thường được dùng khi cần chuẩn bị sinh. Truyền tiểu cầu chỉ được khuyến cáo khi:
 

@@ -43,7 +43,7 @@ Nguyên nhân chính của đau vú theo chu kỳ liên quan đến thay đổi 
 - Stress cũng làm tăng prolactin và gây co giãn các ống dẫn sữa, dẫn đến đau.
   Ngoài ra, một số yếu tố khác có thể góp phần:
 
-**Giữ nước chu kỳ:** Giữ nước có thể khiến mô vú phù nề, nhưng các nghiên cứu so sánh tổng lượng nước cơ thể ở ngày thứ 5 và thứ 25 của chu kỳ không thấy khác biệt rõ rệt giữa nhóm đau vú và nhóm không đau.
+**Giữ nước chu kỳ:** Giữ nước có thể khiến mô vú phù nề, nhưng các nghiên cứu so sánh tổng lượng nước cơ thể ở ngày thứ năm và thứ hai mươi lăm của chu kỳ không thấy khác biệt rõ rệt giữa nhóm đau vú và nhóm không đau.
 
 **Chế độ ăn chứa methylxanthine** (caffeine, theobromine): Mặc dù lý thuyết cho rằng methylxanthine có thể kích thích quá mức mô vú, nhưng các thử nghiệm ngẫu nhiên về chế độ không chứa caffeine chưa chứng minh được hiệu quả giảm đau.
 
