@@ -30,6 +30,16 @@ export default defineConfig({
     starlight({
       routeMiddleware: "./src/routeData.ts",
       title: "18 Months",
+      head: [
+        {
+          tag: "script",
+          attrs: {
+            async: true,
+            src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2837724975096238",
+            crossorigin: "anonymous",
+          },
+        },
+      ],
       logo: {
         src: "/src/assets/logo.png",
         alt: "18 Months Logo",
