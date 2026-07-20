@@ -21,13 +21,13 @@ Các phác đồ chuẩn bị niêm mạc tử cung bao gồm:
 
 **Ngày 2 - 5 chu kỳ kinh** siêu âm niêm mạc và đánh giá 2 buồng trứng.
 
-- Nếu niêm mạc > 6 mm, chờ thêm 2 ngày nhưng không quá ngày thứ 5 của vòng kinh.
+- Nếu niêm mạc > 6 mm, chờ thêm 2 ngày nhưng không quá ngày thứ năm của vòng kinh.
 - Nếu có nang noãn > 10 mm, sử dụng phác đồ chu kỳ tự nhiên.
 - Nếu niêm mạc ≤ 6 mm và không có nang > 10 mm sử dụng 1 trong các phác đồ kích thích niêm mạc.
 
 Cụ thể:
 
-- Phác đồ estradiol và progesterone (E+P): Bắt đầu estradiol 2 mg (1 viên) x 2 lần/ngày x 5 ngày. **Sau 5 ngày, đánh giá niêm mạc tử cung:** Nếu niêm mạc ≥ 7 mm → duy trì liều; nếu niêm mạc < 7 mm → tăng liều (1 viên x 3 lần/ngày hoặc 2 viên x 2 lần/ngày). Bổ trợ khi niêm mạc mỏng/kém đáp ứng với vitamin E tối đa 800 IU/ngày cho đến khi đạt độ dày phù hợp; hCG 150 IU/ngày từ sau ngày thứ 5 đến khi niêm mạc đạt chuẩn.
+- Phác đồ estradiol và progesterone (E+P): Bắt đầu estradiol 2 mg (1 viên) x 2 lần/ngày x 5 ngày. **Sau 5 ngày, đánh giá niêm mạc tử cung:** Nếu niêm mạc ≥ 7 mm → duy trì liều; nếu niêm mạc < 7 mm → tăng liều (1 viên x 3 lần/ngày hoặc 2 viên x 2 lần/ngày). Bổ trợ khi niêm mạc mỏng/kém đáp ứng với vitamin E tối đa 800 IU/ngày cho đến khi đạt độ dày phù hợp; hCG 150 IU/ngày từ sau ngày thứ năm đến khi niêm mạc đạt chuẩn.
 - Phác đồ aromatase inhibitor và N-acetyl cysteine: Aromatase inhibitor 2.5 mg x 2 lần/ngày x 5 ngày + acetyl cysteine 200 mg x 3 lần/ngày x 10 ngày.
 - Phác đồ FSH/HMG: FSH 50-75 IU/ngày x 5 ngày.
 

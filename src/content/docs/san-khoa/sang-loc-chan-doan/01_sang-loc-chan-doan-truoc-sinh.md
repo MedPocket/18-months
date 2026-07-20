@@ -17,7 +17,7 @@ description: Xu thế và ứng dụng chẩn đoán trước sinh.
 
 ### Double test
 
-Xét nghiệm sàng lọc trước sinh không xâm lấn, thực hiện trong tam cá nguyệt 1 **(tuần 11–13+6)**.
+Xét nghiệm sàng lọc trước sinh không xâm lấn, thực hiện trong tam cá nguyệt thứ nhất **(tuần 11–13+6)**.
 
 Đo **β-hCG tự do** và **PAPP-A** trong máu mẹ, kết hợp kết quả siêu âm độ mờ da gáy (NT) để ước tính nguy cơ dị tật nhiễm sắc thể: Hội chứng Down (Trisomy 21); Trisomy 18 (Edwards); Trisomy 13 (Patau).
 
@@ -31,7 +31,7 @@ Double test chính xác hơn Triple test, đặc biệt khi kết hợp với si
 
 ### Triple test
 
-Xét nghiệm máu mẹ thực hiện trong tam cá nguyệt 2 **(tuần 15–20, tối ưu 16–18)**.
+Xét nghiệm máu mẹ thực hiện trong tam cá nguyệt thứ hai **(tuần 15–20, tối ưu 16–18)**.
 
 Đo **AFP, hCG toàn phần, uE3** để đánh giá nguy cơ dị tật nhiễm sắc thể: Hội chứng Down (Trisomy 21); Trisomy 18 (Edwards); Trisomy 13 (Patau); Dị tật ống thần kinh (NTD).
 

@@ -48,7 +48,7 @@ Bệnh nhân có **lạc nội mạc tử cung vùng chậu** hoặc **lạc tuy
 
 **Phác đồ đối vận cố định (Fixed protocol):**
 
-- Bắt đầu tiêm GnRH antagonist từ **ngày thứ 5 hoặc 6 của chu kỳ kích thích buồng trứng.**
+- Bắt đầu tiêm GnRH antagonist từ **ngày thứ năm hoặc thứ sáu của chu kỳ kích thích buồng trứng.**
 - Đơn giản, dễ áp dụng, ít tốn kém.
 
 **Phác đồ đối vận linh hoạt (Flexible protocol):**

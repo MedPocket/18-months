@@ -34,7 +34,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 **Liều dùng** (ví dụ với Ibuprofen): 200-400 mg/lần, 2-3 lần/ngày; tối đa 1200 mg/ngày (không kê đơn) hoặc theo chỉ định bác sĩ.
 
-**Chống chỉ định trong tam cá nguyệt III** do:
+**Chống chỉ định trong tam cá nguyệt thứ ba** do:
 
 - Nguy cơ **đóng sớm ống động mạch** ở thai nhi.
 - Nguy cơ **thiểu ối, suy thận thai nhi**, kéo dài chuyển dạ.
@@ -47,7 +47,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 :::caution
 
-- Có thể xem xét dùng ngắn hạn trong tam cá nguyệt I-II với chỉ định rõ ràng.
+- Có thể xem xét dùng ngắn hạn trong tam cá nguyệt thứ nhất và thứ hai với chỉ định rõ ràng.
 - Tránh dùng kéo dài hoặc liều cao.
 - Không phối hợp với aspirin hoặc corticosteroid nếu không có chỉ định chuyên khoa.
   :::

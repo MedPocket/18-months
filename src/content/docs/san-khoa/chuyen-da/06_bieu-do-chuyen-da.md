@@ -87,7 +87,7 @@ _Hình "Sản đồ WHO 1993"_.
 
 ### Đặc điểm
 
-- **Đường báo động:** Bắt đầu từ độ mở cổ tử cung 3 cm đến giờ thứ 8, tốc độ mở 1 cm/giờ. Nếu biểu đồ nằm bên phải đường này, nghĩa là cổ tử cung mở chậm, cần theo dõi sát.
+- **Đường báo động:** Bắt đầu từ độ mở cổ tử cung 3 cm đến giờ thứ tám, tốc độ mở 1 cm/giờ. Nếu biểu đồ nằm bên phải đường này, nghĩa là cổ tử cung mở chậm, cần theo dõi sát.
 - **Đường hành động:** Song song với đường báo động, cách 4 giờ về bên phải. Khi chạm đường này, cần can thiệp quyết đoán (không nhất thiết là mổ).
 - Pha tiềm thời không được ghi trong sản đồ do khó xác định thời điểm bắt đầu. Việc ghi nhận diễn tiến được bắt đầu từ khi cổ tử cung mở ≥ 3 cm (model 1993).
 

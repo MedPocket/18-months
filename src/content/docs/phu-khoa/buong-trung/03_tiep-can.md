@@ -156,7 +156,7 @@ ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
 ### Đột biến BRCA1/BRCA2
 
 - Khiếm khuyết sửa DNA, tăng nguy cơ ung thư vú và buồng trứng.
-- Xét nghiệm khi có **tiền căn gia đình:** ≥ 3 người cùng huyết thống 1 hoặc 2 bị ung thư vú/buồng trứng (ít nhất một dưới 50 tuổi); 2 người trong cùng thế hệ (1 hoặc 2) bị ung thư vú/buồng trứng; Ung thư vú ở nam giới; Bệnh nhân < 50 tuổi; Người thân cùng lúc mắc ung thư vú và buồng trứng.
+- Xét nghiệm khi có **tiền căn gia đình:** ≥ ba người cùng huyết thống thế hệ thứ nhất hoặc thế hệ thứ hai bị ung thư vú/buồng trứng (ít nhất một dưới 50 tuổi); hai người trong cùng thế hệ (thế hệ thứ nhất hoặc thế hệ thứ hai) bị ung thư vú/buồng trứng; Ung thư vú ở nam giới; Bệnh nhân < 50 tuổi; Người thân cùng lúc mắc ung thư vú và buồng trứng.
 
 ### Các đột biến khác
 

@@ -7,7 +7,7 @@ description: Quản lý thủy đậu trong thai kỳ.
 
 ## Dịch tễ
 
-Bệnh xảy ra quanh năm, tăng cao vào **mùa xuân - đầu hè (tháng 2 - 6)**. Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; Dễ thành dịch nhỏ nếu không cách ly kịp thời.
+Bệnh xảy ra quanh năm, tăng cao vào **mùa xuân - đầu hè (tháng hai đến tháng sáu)**. Ở Việt Nam thường bùng phát hàng năm trong trường học, nhà trẻ; Dễ thành dịch nhỏ nếu không cách ly kịp thời.
 
 Nguồn lây duy nhất là người mắc thủy đậu và người bị zona. **Đường truyền:**
 

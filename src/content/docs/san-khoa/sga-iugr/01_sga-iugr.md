@@ -20,12 +20,12 @@ description: Chẩn đoán và quản lý thai chậm tăng trưởng.
 
 ## Chẩn đoán
 
-- **SGA:** Trọng lượng thai ước tính (EFW) hoặc chu vi bụng (AC) < bách phân vị thứ 10 cho tuổi thai.
-- **Severe SGA:** EFW hoặc AC < bách phân vị thứ 3.
+- **SGA:** Trọng lượng thai ước tính (EFW) hoặc chu vi bụng (AC) < bách phân vị thứ mười cho tuổi thai.
+- **Severe SGA:** EFW hoặc AC < bách phân vị thứ ba.
 - **IUGR:** SGA kèm bằng chứng tăng trưởng chậm (bất thường Doppler động học hoặc sinh đồ sinh vật lý).
 
 :::caution
-Khi EFW hoặc AC đạt ngưỡng bách phân vị thứ 10, cần theo dõi tích cực; Dưới bách phân vị thứ 3, cân nhắc chỉ định can thiệp sớm.
+Khi EFW hoặc AC đạt ngưỡng bách phân vị thứ mười, cần theo dõi tích cực; Dưới bách phân vị thứ ba, cân nhắc chỉ định can thiệp sớm.
 :::
 
 _Bảng "Cân nặng theo tuần thai"_.
