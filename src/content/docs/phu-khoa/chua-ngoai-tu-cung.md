@@ -41,7 +41,7 @@ _Hình "Các vị trí chửa ngoài tử cung"_.
 **β-hCG huyết thanh:**
 
 - Định lượng cách nhau 48 giờ.
-- Nếu β-hCG tăng ≥ 60% sau 48 h → theo dõi thai trong tử cung.
+- Nếu β-hCG tăng ≥ 60% sau 48 giờ → theo dõi thai trong tử cung.
 - Nếu tăng không đạt chuẩn hoặc giảm → nghi CNTC.
 
 **Siêu âm:**

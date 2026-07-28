@@ -7,7 +7,7 @@ description: Tổng quan chẩn đoán và điều trị đái tháo đường t
 
 1. **Đái tháo đường type 1:** Phá hủy tế bào β đảo tụy → thiếu insulin tuyệt đối. Theo Bộ Y tế (2021) được xem là bệnh tự miễn.
 2. **Đái tháo đường type 2:** Thiếu insulin tương đối và đề kháng insulin ngoại biên. Thường liên quan đến thừa cân, béo phì, lối sống ít vận động.
-3. **Tiền đái tháo đường:** Rối loạn glucose đói (Impaired Fasting Glucose - IFG) 100-125 mg/dL (5.6-6.9 mmol/L). Rối loạn dung nạp glucose (Impaired Glucose Tolerance - IGT) 2 h nghiệm pháp dung nạp glucose 75 g (Oral Glucose Tolerance Test - OGTT) 75 g 140-199 mg/dL (7.8-11.0 mmol/L). HbA1c 5.7-6.4%.
+3. **Tiền đái tháo đường:** Rối loạn glucose đói (Impaired Fasting Glucose - IFG) 100-125 mg/dL (5.6-6.9 mmol/L). Rối loạn dung nạp glucose (Impaired Glucose Tolerance - IGT) 2 giờ nghiệm pháp dung nạp glucose 75 g (Oral Glucose Tolerance Test - OGTT) 75 g 140-199 mg/dL (7.8-11.0 mmol/L). HbA1c 5.7-6.4%.
 4. **Đái tháo đường "rõ" (Overt diabetes in pregnancy - DIP):** Mức glucose huyết tương đạt tiêu chuẩn chẩn đoán đái tháo đường ở người không mang thai (WHO 2006). Phát hiện lần đầu trong thai kỳ, có thể ngay 3 tháng đầu.
 5. **Đái tháo đường thai kỳ (Gestational Diabetes Mellitus - GDM):** Tăng glucose huyết mức độ nhẹ hơn tiêu chuẩn đái tháo đường rõ. Phát hiện lần đầu trong thai kỳ, không có bằng chứng ĐTĐ trước đó. Thường chẩn đoán sau 24 - 28 tuần.
 
@@ -86,8 +86,8 @@ _Bảng "Chẩn đoán GDM"_.
 | Thời điểm | Glucose (mg/dL) | Glucose (mmol/L) |
 | --------- | --------------- | ---------------- |
 | **Đói**   | ≥ 92            | ≥ 5.1            |
-| **1 h**   | ≥ 180           | ≥ 10.0           |
-| **2 h**   | ≥ 153           | ≥ 8.5            |
+| **1 giờ** | ≥ 180           | ≥ 10.0           |
+| **2 giờ** | ≥ 153           | ≥ 8.5            |
 
 :::
 
@@ -147,11 +147,11 @@ _Bảng "BMI trước khi mang thai"_.
 
 _Bảng "Mục tiêu đường máu"_.
 
-| Thời điểm      | Glucose mao mạch mục tiêu (mg/dL) | Glucose mao mạch mục tiêu (mmol/L) |
-| -------------- | --------------------------------- | ---------------------------------- |
-| **Lúc đói**    | < 95                              | < 5.3                              |
-| **Sau ăn 1 h** | < 140                             | < 7.8                              |
-| **Sau ăn 2 h** | < 120                             | < 6.7                              |
+| Thời điểm        | Glucose mao mạch mục tiêu (mg/dL) | Glucose mao mạch mục tiêu (mmol/L) |
+| ---------------- | --------------------------------- | ---------------------------------- |
+| **Lúc đói**      | < 95                              | < 5.3                              |
+| **Sau ăn 1 giờ** | < 140                             | < 7.8                              |
+| **Sau ăn 2 giờ** | < 120                             | < 6.7                              |
 
 :::caution
 

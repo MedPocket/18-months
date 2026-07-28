@@ -33,7 +33,7 @@ Gồm hai loại **không có dấu hiệu nặng** và **có dấu hiệu nặn
 
 Tiền sản giật **có dấu hiệu nặng** (chỉ cần một trong các dấu hiệu dưới đây):
 
-1. Huyết áp tâm thu ≥ 160 mmHg hoặc tâm trương ≥ 110 mmHg (đo 2 lần cách nhau ≥ 4 h).
+1. Huyết áp tâm thu ≥ 160 mmHg hoặc tâm trương ≥ 110 mmHg (đo 2 lần cách nhau ≥ 4 giờ).
 2. Tiểu cầu < 100,000 /µL.
 3. Men gan tăng > 2 lần bình thường, đau hạ sườn phải/thượng vị không đáp ứng thuốc.
 4. Creatinine > 1.1 mg/dL hoặc tăng gấp đôi không do bệnh lý thận khác.
@@ -136,7 +136,7 @@ _Hình "Lưu đồ xử trí tiền sản giật có dấu hiệu nặng". Ngu�
 
 **Theo dõi:**
 
-- Theo dõi phản xạ gân xương (mất dấu hiệu sớm nhất), nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4 h).
+- Theo dõi phản xạ gân xương (mất dấu hiệu sớm nhất), nhịp thở (> 16 lần/phút), nước tiểu (> 100 mL/4 giờ).
 - Định lượng Mg²⁺ huyết thanh khi cần, giữ 4-7 mEq/L (5-9 mg/dL; 2-3.5 mmol/L).
 
 _Bảng "Lâm sàng nồng độ Mg²⁺ trong máu"_.
@@ -218,7 +218,7 @@ _Bảng "Phân loại thuốc chống tăng huyết áp trong thai kỳ"_.
 **Liều dùng:**
 
 - Bolus TM 10 - 20 mg; Nếu cần, 20 - 80 mg mỗi 10 - 30 phút (tối đa 300 mg).
-- **Duy trì uống:** 200 mg x 3 lần/ngày (tối đa 800 mg/8 h), điều chỉnh 200-400 mg/ngày.
+- **Duy trì uống:** 200 mg x 3 lần/ngày (tối đa 800 mg/8 giờ), điều chỉnh 200-400 mg/ngày.
 
 **Tác dụng phụ:** Ít nhịp nhanh phản xạ.
 
@@ -231,7 +231,7 @@ _Bảng "Phân loại thuốc chống tăng huyết áp trong thai kỳ"_.
 **Liều dùng:**
 
 - Uống tác dụng nhanh 10 - 20 mg cách 20 - 30 phút (tối đa 50 mg).
-- **Duy trì:** 10-20 mg mỗi 2-6 h (tối đa 180 mg/ngày) hoặc viên tác dụng kéo dài 30-120 mg/ngày.
+- **Duy trì:** 10-20 mg mỗi 2-6 giờ (tối đa 180 mg/ngày) hoặc viên tác dụng kéo dài 30-120 mg/ngày.
 
 **Tác dụng phụ:**
 
@@ -258,7 +258,7 @@ _Bảng "Phân loại thuốc chống tăng huyết áp trong thai kỳ"_.
 - Chỉ dùng khi thiểu/vô niệu, phù phổi cấp.
 - Liều 20 mg TM chậm.
 
-**Không dùng lợi tiểu** thông thường do giảm tưới máu tử cung. **Chỉ dùng khi thiểu niệu** (< 800 mL/24 h, đặc biệt < 400 mL) liều 20 mg TM chậm, có thể lặp lại theo đáp ứng.
+**Không dùng lợi tiểu** thông thường do giảm tưới máu tử cung. **Chỉ dùng khi thiểu niệu** (< 800 mL/24 giờ, đặc biệt < 400 mL) liều 20 mg TM chậm, có thể lặp lại theo đáp ứng.
 
 #### Ức chế men chuyển
 
