@@ -46,7 +46,7 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 - Tỷ lệ bạch cầu non/trưởng thành > 0.2.
 - Tiểu cầu < 100 000/mm³.
 
-**C-reactive protein (CRP):** > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12-24 h).
+**C-reactive protein (CRP):** > 10 mg/L gợi ý nhiễm trùng (theo dõi tăng sau 12-24 giờ).
 
 **Procalcitonin (PCT):** > 2 ng/mL gợi ý nhiễm khuẩn nặng.
 

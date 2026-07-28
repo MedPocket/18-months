@@ -44,7 +44,7 @@ Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc 
 ### Giảm đau và kháng viêm
 
 - **Ibuprofen:** 400 - 600 mg mỗi 6 - 8 giờ, giúp giảm đau và viêm khi vú căng tức.
-- **Paracetamol:** 500-1000 mg mỗi 4-6 h (tối đa 4 g/ngày).
+- **Paracetamol:** 500-1000 mg mỗi 4-6 giờ (tối đa 4 g/ngày).
 
 ## Tài liệu tham khảo
 
