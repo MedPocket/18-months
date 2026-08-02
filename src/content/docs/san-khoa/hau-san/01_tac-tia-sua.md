@@ -1,14 +1,7 @@
 ---
-title: Chẩn đoán và điều trị tắc tia sữa
-description: Bài giảng y khoa cập nhật về chẩn đoán và điều trị tắc tia sữa theo Phác đồ ABM Protocol #36 năm 2022.
+title: Tắc tia sữa
+description: Chẩn đoán và điều trị tắc tia sữa.
 ---
-
-_Bài giảng đã qua thẩm định và cập nhật theo Phác đồ ABM Protocol #36 năm 2022._
-
-- **Giảng viên:** Giáo sư - Bác sĩ Chuyên khoa Sản Phụ khoa.
-- **Đối tượng:** Bác sĩ Lâm sàng, Học viên Sau đại học, Nữ hộ sinh.
-
-## Tổng quan
 
 **Tắc tia sữa** (_Plugged Milk Ducts_ hoặc _Ductal Engorgement_) nằm trong phổ bệnh lý viêm tuyến vú khi cho con bú. Đây là tình trạng lòng ống dẫn sữa bị hẹp hoặc tắc nghẽn, làm cản trở dòng lưu thông của sữa mẹ từ thùy tuyến ra núm vú, gây căng tức, sưng đau cục bộ tại mô tuyến vú.
 
@@ -16,11 +9,11 @@ Nếu không được nhận biết và xử trí đúng phác đồ, tắc tia 
 
 ## Nguyên nhân và Cơ chế bệnh sinh
 
-### 1. Cơ sở giải phẫu
+### Cơ sở giải phẫu
 
 Tuyến vú gồm 15 - 20 thùy tuyến sắp xếp theo hình nan hoa. Các nang sữa (_alveoli_) tiết sữa đổ vào hệ thống ống dẫn sữa. Hệ thống ống này **không có các xoang chứa sữa lớn** như quan niệm cũ, mà là một mạng lưới ống mềm đàn hồi, dễ bị chèn ép bởi mô xung quanh.
 
-### 2. Cơ chế bệnh sinh
+### Cơ chế bệnh sinh
 
 Khác với quan niệm cũ cho rằng tắc tia sữa là do "nút đông kết chất béo/protein", **Y học bằng chứng** (_Evidence-Based Medicine_ - EBM) xác định bản chất của tắc tia sữa gồm hai giai đoạn:
 
@@ -106,10 +99,10 @@ Các hành vi có thể gây hại nghiêm trọng cho mô tuyến vú:
 
 ## Dự phòng và Theo dõi
 
-1. Hướng dẫn kỹ thuật ngậm bắt vú đúng khớp: Cằm cắm sâu vào vú, quầng vú dưới bị ngậm nhiều hơn quầng vú trên.
-2. Cho trẻ bú theo nhu cầu sinh lý, không kéo dài khoảng cách giữa các cữ bú > 3 - 4 giờ.
-3. Tránh sử dụng máy hút sữa tạo áp lực quá cao nhằm "vắt kiệt".
-4. Mặc áo ngực co giãn, không có gọng kim loại chèn ép gây cản trở lưu thông.
+- Hướng dẫn kỹ thuật ngậm bắt vú đúng khớp: Cằm cắm sâu vào vú, quầng vú dưới bị ngậm nhiều hơn quầng vú trên.
+- Cho trẻ bú theo nhu cầu sinh lý, không kéo dài khoảng cách giữa các cữ bú > 3 - 4 giờ.
+- Tránh sử dụng máy hút sữa tạo áp lực quá cao nhằm "vắt kiệt".
+- Mặc áo ngực co giãn, không có gọng kim loại chèn ép gây cản trở lưu thông.
 
 ## Tài liệu tham khảo
 
