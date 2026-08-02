@@ -34,7 +34,7 @@ Các yếu tố làm tăng nguy cơ tắc nghẽn và nhiễm trùng tuyến Bar
 - **Nang tuyến Bartholin chưa nhiễm trùng:**
   - Thường không đau, chỉ phát hiện tình cờ khi sờ thấy một khối phồng ở mặt trong của môi nhỏ (thường lệch về một bên).
   - Khối mềm, không sưng đỏ, dao động nhẹ.
-  - Nếu kích thước ** > 2 cm**, nang có thể gây cảm giác vướng víu khi đi lại, ngồi, hoặc đau nhẹ khi giao hợp.
+  - Nếu kích thước **> 2 cm**, nang có thể gây cảm giác vướng víu khi đi lại, ngồi, hoặc đau nhẹ khi giao hợp.
 - **Áp-xe tuyến Bartholin (nang bị nhiễm trùng):**
   - Triệu chứng xuất hiện nhanh chóng, rầm rộ trong vòng **2 - 3 ngày**.
   - Đau nhức dữ dội, liên tục ở vùng âm hộ khiến người bệnh không thể đi lại hoặc ngồi.
@@ -46,7 +46,7 @@ Các yếu tố làm tăng nguy cơ tắc nghẽn và nhiễm trùng tuyến Bar
 - **Siêu âm vùng âm hộ:** Xác định chính xác kích thước nang, cấu trúc bên trong (dịch thuần nhất hay có vách, cặn mủ), phân biệt với các loại u lành tính hoặc ác tính khác vùng âm hộ.
 - **Nuôi cấy dịch/mủ:** Lấy dịch mủ khi thực hiện thủ thuật rạch để cấy vi khuẩn và làm kháng sinh đồ nhằm chọn loại kháng sinh phù hợp.
 - **Xét nghiệm STIs:** Thực hiện xét nghiệm PCR hoặc test nhanh tìm _Chlamydia trachomatis_ và _Neisseria gonorrhoeae_.
-- **Sinh thiết vỏ nang:** Thực hiện ở phụ nữ ** > 40 tuổi** khi bóc nang để loại trừ ung thư tuyến Bartholin (bệnh lý hiếm gặp nhưng tiên lượng nặng).
+- **Sinh thiết vỏ nang:** Thực hiện ở phụ nữ **> 40 tuổi** khi bóc nang để loại trừ ung thư tuyến Bartholin (bệnh lý hiếm gặp nhưng tiên lượng nặng).
 
 ## Điều trị
 
@@ -120,7 +120,7 @@ Phương pháp này thường không phải là lựa chọn đầu tay cho các
 
 - Nang tuyến Bartholin bị tái phát nhiều lần sau khi đã áp dụng các phương pháp khác (như đặt ống catheter Word hoặc mở thông nang).
 - Nang có kích thước lớn, gây đau đớn, cản trở việc đi lại hoặc sinh hoạt tình dục.
-- Nghi ngờ có tổn thương ác tính (đặc biệt ở phụ nữ ** > 40 tuổi**).
+- Nghi ngờ có tổn thương ác tính (đặc biệt ở phụ nữ **> 40 tuổi**).
 
 #### Quy trình kỹ thuật bóc nang tuyến Bartholin
 
