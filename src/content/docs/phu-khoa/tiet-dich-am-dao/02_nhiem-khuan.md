@@ -86,7 +86,7 @@ _Bảng "Điểm Nugent"_.
 
 - **0 - 3:** Kết quả âm tính với BV (hệ vi khuẩn cân bằng).
 - **4 - 6:** Khu vực trung gian (nghi ngờ, cần theo dõi hoặc xét nghiệm lại).
-- ** ≥ 7:** Dương tính với BV (mật độ vi khuẩn yếm khí cao, _Lactobacilli_ giảm).
+- **≥ 7:** Dương tính với BV (mật độ vi khuẩn yếm khí cao, _Lactobacilli_ giảm).
 
 **Độ nhạy 89%, độ đặc hiệu 83%** so với tiêu chuẩn Amsel.
 

@@ -149,7 +149,7 @@ _Bảng "Lâm sàng nồng độ Mg²⁺ trong máu"_.
 | **8 - 12**                      | Mất phản xạ gân xương (phản xạ xương bánh chè)                     |
 | **10 - 12**                     | Rối loạn ý thức: Lơ mơ, nói lảm nhảm                               |
 | **15 - 17**                     | Liệt cơ hô hấp, suy hô hấp                                         |
-| ** ≥ 30**                       | Ngừng tim, tử vong                                                 |
+| **≥ 30**                        | Ngừng tim, tử vong                                                 |
 
 **Ngộ độc (Mg > 8 mEq/L):**
 

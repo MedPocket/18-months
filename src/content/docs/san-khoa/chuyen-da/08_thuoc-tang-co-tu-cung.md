@@ -23,7 +23,7 @@ _Bảng "Điểm Bishop"_.
 - **Tổng ≥ 10:** Sinh trong 2 - 3 giờ.
 - **7 - 9:** Sinh trong 8 giờ.
 - **5 - 6:** Tiên lượng dè dặt.
-- ** < 5:** Nguy cơ thất bại khi khởi phát chuyển dạ.
+- **< 5:** Nguy cơ thất bại khi khởi phát chuyển dạ.
 
 ## Chỉ định
 
