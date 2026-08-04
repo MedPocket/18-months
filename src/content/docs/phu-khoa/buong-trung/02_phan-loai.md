@@ -92,7 +92,7 @@ Tân sinh của tế bào biểu mô cổ ống Muller tại buồng trứng, ch
 - Có thể lành tính, giáp biên, ác tính.
 - Thường ở độ tuổi sinh đẻ, chiếm 30% u buồng trứng, trong đó 70% là lành tính.
 - Đặc điểm: Bề mặt trơn láng, vỏ mỏng, đơn hoặc đa thùy, chứa dịch trong, 15% thấy ở hai bên.
-- U giáp biên: Không xâm lấn, không di căn nhưng có khả năng tái phát, chiếm 10% u tuyến thanh dịch giáp biên ác, tuổi trung bình 40, 30% hai bên, kích thước có thể đến 25 cm. Vi thể: cấu trúc u nhú, tế bào xếp tầng, tăng phân bào nhưng không xâm lấn.
+- U giáp biên: Không xâm lấn, không di căn nhưng có khả năng tái phát, chiếm 10% u tuyến thanh dịch giáp biên ác, tuổi trung bình 40, 30% hai bên, kích thước có thể đến 25 cm. Vi thể: Cấu trúc u nhú, tế bào xếp tầng, tăng phân bào nhưng không xâm lấn.
 - U tuyến thanh dịch ác tính chiếm 20% u tuyến thanh dịch.
 
 **U tuyến dịch nhầy (mucinous cystadenoma):**
@@ -135,8 +135,8 @@ Khối u từ tế bào nguồn dòng sinh dục đã trải qua một phần gi
 
 - Từ tế bào đã qua giảm phân I, thoái giáng trực tiếp từ n kép → 2n, không qua giảm phân II.
 - U chứa thành phần của 3 lá phôi, tiềm năng ác tính thấp.
-- **U quái trưởng thành (teratoma):** Lành tính 95%, đơn mô hoặc đa mô, thường gặp 10 - 30 tuổi, khối u trơn láng, chứa mô ngoại bì, trung bì, nội bì (răng, da, tóc, nang, tuyến mồ hôi, tuyến bã). Vi thể: mô trưởng thành.
-- **U quái không trưởng thành:** Luôn ác tính, chiếm 15% u tế bào mầm, tuổi trung bình 19, trung bình 18 cm, bề mặt trơn láng, cấu trúc hỗn hợp nang-đặc, vi thể: mô phôi chưa biệt hóa.
+- **U quái trưởng thành (teratoma):** Lành tính 95%, đơn mô hoặc đa mô, thường gặp 10 - 30 tuổi, khối u trơn láng, chứa mô ngoại bì, trung bì, nội bì (răng, da, tóc, nang, tuyến mồ hôi, tuyến bã). Vi thể: Mô trưởng thành.
+- **U quái không trưởng thành:** Luôn ác tính, chiếm 15% u tế bào mầm, tuổi trung bình 19, trung bình 18 cm, bề mặt trơn láng, cấu trúc hỗn hợp nang-đặc, vi thể: Mô phôi chưa biệt hóa.
 - **U quái giáp đơn mô:** ác tính cao, có thể gây cường giáp "không bướu giáp," chụp xạ hình giáp bình thường nhưng tập trung iod ở vùng chậu.
 
 **U nghịch phôi theo hướng cấu trúc ngoài phôi:**

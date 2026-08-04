@@ -96,7 +96,7 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 ### Hạ đồi - Tuyến yên
 
 - **Estrogen** (đỉnh giữa chu kỳ): Kích thích LH surge qua KNDy neuron/kisspeptin.
-- **Progesterone** (pha hoàng thể): ức chế GnRH, ổn định trục HPT.
+- **Progesterone** (pha hoàng thể): Ức chế GnRH, ổn định trục HPT.
 
 ### Các cơ quan khác
 

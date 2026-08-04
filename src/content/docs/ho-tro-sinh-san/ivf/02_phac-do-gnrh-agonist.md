@@ -8,7 +8,7 @@ Phác đồ GnRH agonist (GnRH đồng vận) được sử dụng rộng rãi v
 ## Chỉ định
 
 - Tất cả bệnh nhân nữ thực hiện thụ tinh trong ống nghiệm.
-- Các trường hợp đặc biệt như: lạc nội mạc tử cung (endometriosis), u tuyến yên (adenoma), lạc tuyến trong cơ tử cung (adenomyosis).
+- Các trường hợp đặc biệt như: Lạc nội mạc tử cung (endometriosis), u tuyến yên (adenoma), lạc tuyến trong cơ tử cung (adenomyosis).
 
 ## Phác đồ
 

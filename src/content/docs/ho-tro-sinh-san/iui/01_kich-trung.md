@@ -29,7 +29,7 @@ _Hình "Lược đồ tiếp cận bệnh nhân kích thích đơn noãn". Ngu�
 
 CC là thuốc kháng estrogen. Hiệu quả với bệnh nhân rối loạn phóng noãn WHO nhóm 2; không hiệu quả với nhóm 1 và 3.
 
-_Theo WHO, vô phóng noãn được chia 3 nhóm:<br> - Nhóm 1 (10%): Suy hạ đồi - tuyến yên → gonadotropin thấp, estrogen thấp.<br> - Nhóm 2 (80 - 90%): FSH và estrogen bình thường, thường gặp trong PCOS.<br> - Nhóm 3 (5%): suy buồng trứng → estrogen thấp, gonadotropin tăng cao_.
+_Theo WHO, vô phóng noãn được chia 3 nhóm:<br> - Nhóm 1 (10%): Suy hạ đồi - tuyến yên → gonadotropin thấp, estrogen thấp.<br> - Nhóm 2 (80 - 90%): FSH và estrogen bình thường, thường gặp trong PCOS.<br> - Nhóm 3 (5%): Suy buồng trứng → estrogen thấp, gonadotropin tăng cao_.
 
 #### Thực hiện
 
@@ -43,8 +43,8 @@ Siêu âm ngày 10:
 
 Đỉnh LH xuất hiện 5 - 12 ngày sau viên CC cuối cùng.
 
-- Không tiêm hCG: khuyến khích giao hợp cách ngày trong 1 tuần sau liều cuối.
-- Có nang 18 - 20 mm: có thể tiêm hCG 5000 IU, tránh dùng nếu đã có đỉnh LH nội sinh.
+- Không tiêm hCG: Khuyến khích giao hợp cách ngày trong 1 tuần sau liều cuối.
+- Có nang 18 - 20 mm: Có thể tiêm hCG 5000 IU, tránh dùng nếu đã có đỉnh LH nội sinh.
 
 Tác dụng phụ:
 

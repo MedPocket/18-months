@@ -40,7 +40,7 @@ Giới hạn tuổi thai không hoàn toàn thống nhất trên thế giới:
 - Loại trừ thai ngoài tử cung.
 - Lựa chọn xử trí phù hợp (bảo tồn, nội khoa, phẫu thuật).
 - Tôn trọng lựa chọn người bệnh.
-- Chăm sóc toàn diện, quan tâm: tâm lý – tinh thần.
+- Chăm sóc toàn diện, quan tâm: Tâm lý – tinh thần.
 
 ### Dọa sảy
 

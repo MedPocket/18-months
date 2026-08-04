@@ -19,7 +19,7 @@ U xơ cơ tử cung có thể tồn tại và thay đổi kích thước khi man
 
 ### Ngoại khoa
 
-**Bóc u xơ trong mổ lấy thai:** Không bóc u xơ "đại trà" trong mổ lấy thai nếu không có chỉ định; Cân nhắc kỹ: kinh nghiệm phẫu thuật viên. Lượng máu dự trữ. Vị trí, số lượng, kích thước nhân xơ.
+**Bóc u xơ trong mổ lấy thai:** Không bóc u xơ "đại trà" trong mổ lấy thai nếu không có chỉ định; Cân nhắc kỹ: Kinh nghiệm phẫu thuật viên. Lượng máu dự trữ. Vị trí, số lượng, kích thước nhân xơ.
 
 **Chỉ định:**
 

@@ -60,7 +60,7 @@ Khi đánh giá cần chuẩn hóa: Chu kỳ, tần số đầu dò, kỹ thuậ
 
 ### Rối loạn chuyển hóa đường
 
-PCOS tăng nguy cơ: rối loạn đường huyết đói, rối loạn dung nạp glucose, đái tháo đường type 2.
+PCOS tăng nguy cơ: Rối loạn đường huyết đói, rối loạn dung nạp glucose, đái tháo đường type 2.
 
 Chẩn đoán hội chứng chuyển hóa khi có ≥ 3/5 tiêu chuẩn:
 
@@ -76,7 +76,7 @@ _Bảng "Hội chứng chuyển hóa"_.
 
 Khuyến cáo OGTT 75 g đường để sàng lọc; HbA1c/đường đói chỉ mang tính tham khảo.
 
-Ở phụ nữ mang thai: nên làm OGTT lần đầu, và lặp lại 24 - 28 tuần.
+Ở phụ nữ mang thai: Nên làm OGTT lần đầu, và lặp lại 24 - 28 tuần.
 
 ### Nguy cơ tim mạch
 
@@ -104,7 +104,7 @@ Mục tiêu: Kiểm soát kinh nguyệt, điều trị cường androgen, hội 
 
 **Progestogen đơn thuần:** Dùng ≥ 12 ngày/tháng để bảo vệ nội mạc tử cung.
 
-**Viên kết hợp (EE + progestogen kháng androgen: cyproterone, drospirenone):**
+**Viên kết hợp (EE + progestogen kháng androgen: Cyproterone, drospirenone):**
 
 - Điều hòa kinh nguyệt, giảm nguy cơ tăng sản nội mạc tử cung.
 - Liều EE thấp (20 - 30 µg) được ưu tiên.

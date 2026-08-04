@@ -82,7 +82,7 @@ _Hình "Lậu hầu họng"_.
 
 #### Xét nghiệm khuếch đại acid nucleic (NAATs)
 
-**Cơ chế:** Phát hiện DNA hoặc RNA của _N. gonorrhoeae_ trên nhiều loại bệnh phẩm: nước tiểu, dịch niệu đạo, dịch cổ tử cung, mẫu hầu họng, mẫu trực tràng.
+**Cơ chế:** Phát hiện DNA hoặc RNA của _N. gonorrhoeae_ trên nhiều loại bệnh phẩm: Nước tiểu, dịch niệu đạo, dịch cổ tử cung, mẫu hầu họng, mẫu trực tràng.
 
 **Độ nhạy/độ đặc hiệu:** > 90-95%. Cao hơn nuôi cấy, đặc biệt ở mẫu không phải niệu đạo.
 

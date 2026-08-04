@@ -63,8 +63,8 @@ Kết hợp triệu chứng lâm sàng và xét nghiệm nội tiết để xác
 
 - Vô kinh, kinh thưa hoặc rong huyết không đều.
 - Giảm khả năng sinh sản, vô sinh không rõ nguyên nhân.
-- Triệu chứng thiếu estrogen: khô âm đạo, giảm libido, bốc hỏa, loãng xương.
-- Thay đổi cảm xúc: dễ buồn bực, trầm cảm.
+- Triệu chứng thiếu estrogen: Khô âm đạo, giảm libido, bốc hỏa, loãng xương.
+- Thay đổi cảm xúc: Dễ buồn bực, trầm cảm.
 - Buồng trứng nhỏ, khó sờ.
 - Có thể xuất hiện biểu hiện của nguyên nhân đi kèm như: Turner (bất thường hình thái, vóc dáng); Fragile X (tự kỷ, chậm phát triển); Addison (tụt huyết áp tư thế, tăng sắc tố, giảm lông nách - mu).
 

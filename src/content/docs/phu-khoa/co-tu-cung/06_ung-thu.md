@@ -24,10 +24,10 @@ Ung thư cổ tử cung là tình trạng tăng sản ác tính của niêm mạ
 
 ### Lâm sàng
 
-- Ra máu âm đạo bất thường: sau giao hợp, giữa chu kỳ, hoặc sau mãn kinh.
+- Ra máu âm đạo bất thường: Sau giao hợp, giữa chu kỳ, hoặc sau mãn kinh.
 - Khí hư có mùi hôi, màu sắc bất thường.
 - Đau vùng chậu, đau khi giao hợp.
-- Trong giai đoạn muộn: tiểu khó, tiểu máu, tiêu máu, phù chân do chèn ép mạch bạch huyết.
+- Trong giai đoạn muộn: Tiểu khó, tiểu máu, tiêu máu, phù chân do chèn ép mạch bạch huyết.
 
 ### Cận lâm sàng
 

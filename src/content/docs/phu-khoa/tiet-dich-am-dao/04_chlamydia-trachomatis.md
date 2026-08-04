@@ -94,7 +94,7 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 
 **Xét nghiệm NAATs (Nucleic Acid Amplification Tests):**
 
-- **Ưu điểm:** Độ nhạy và độ đặc hiệu > 95%, có thể sử dụng trên đa dạng mẫu: dịch niệu đạo, dịch cổ tử cung, dịch trực tràng, nước tiểu.
+- **Ưu điểm:** Độ nhạy và độ đặc hiệu > 95%, có thể sử dụng trên đa dạng mẫu: Dịch niệu đạo, dịch cổ tử cung, dịch trực tràng, nước tiểu.
 - **Thời gian trả kết quả:** 1 - 4 giờ (tại phòng xét nghiệm chẩn đoán nhanh) hoặc 1 - 2 ngày.
 - **Ứng dụng:** Chẩn đoán xác định cho mọi trường hợp nghi ngờ, Sàng lọc phụ nữ < 25 tuổi hoặc người có nhiều bạn tình.
 

@@ -3,7 +3,7 @@ title: Tránh thai nội tiết
 description: Đặc điểm, thành phần, hướng dẫn sử dụng các phương pháp tránh thai nội tiết.
 ---
 
-Các phương pháp phổ biến gồm: thuốc tránh thai hằng ngày (kết hợp hoặc chỉ progestin), que cấy, thuốc tiêm, miếng dán, vòng âm đạo.
+Các phương pháp phổ biến gồm: Thuốc tránh thai hằng ngày (kết hợp hoặc chỉ progestin), que cấy, thuốc tiêm, miếng dán, vòng âm đạo.
 
 ## Thuốc tránh thai hằng ngày kết hợp (COCs)
 
@@ -20,7 +20,7 @@ Các phương pháp phổ biến gồm: thuốc tránh thai hằng ngày (kết 
 **Tính an toàn:**
 
 - Rất an toàn với phụ nữ không có chống chỉ định nội tiết.
-- Rủi ro: tăng nhẹ nguy cơ huyết khối tĩnh mạch.
+- Rủi ro: Tăng nhẹ nguy cơ huyết khối tĩnh mạch.
 
 **Tính kinh tế:** Trung bình, dễ tiếp cận.
 
@@ -225,7 +225,7 @@ Sau cấy que, giữ sạch vùng cấy, không ngâm nước 24 giờ đầu. K
 
 - Tiêm trong vòng 5 ngày đầu chu kỳ kinh.
 - Bất cứ lúc nào nếu chắc chắn không có thai (cần tránh giao hợp/biện pháp hỗ trợ 7 ngày).
-- Sau sinh: Nếu không cho bú, tiêm ngay sau sinh. Nếu cho bú: tiêm sau 6 tuần.
+- Sau sinh: Nếu không cho bú, tiêm ngay sau sinh. Nếu cho bú: Tiêm sau 6 tuần.
 
 :::caution
 

@@ -31,7 +31,7 @@ description: Tổng quan về hormone hCG.
 
 ## Chức năng
 
-**Dấu ấn sinh hóa:** Ngày 10 sau thụ tinh: hCG xuất hiện trong máu mẹ → xác nhận làm tổ.
+**Dấu ấn sinh hóa:** Ngày 10 sau thụ tinh: HCG xuất hiện trong máu mẹ → xác nhận làm tổ.
 
 **Duy trì hoàng thể:** Thay thế LH sau phóng noãn → duy trì hoàng thể chu kỳ thành hoàng thể thai kỳ → tiếp tục tiết estrogen & progesterone.
 

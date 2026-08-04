@@ -82,7 +82,7 @@ Trải qua **4 giai đoạn:**
 - Giai đoạn 1: Phản xạ nguyên thủy giảm hoặc mất, bỏ bú, li bì, nôn, giảm trương lực cơ, khóc thét.
 - Giai đoạn 2: Kích thích thần kinh, cổ ngửa, co cứng người, đi dần đến hôn mê và tử vong trong cơn ngừng thở.
 - Giai đoạn 3: Co cứng giảm dần trong khoảng 1 tuần.
-- Giai đoạn 4: Để lại di chứng tinh thần và vận động: co cứng, điếc, liệt, chậm phát triển tinh thần, nói khó...
+- Giai đoạn 4: Để lại di chứng tinh thần và vận động: Co cứng, điếc, liệt, chậm phát triển tinh thần, nói khó...
 
 ## Điều trị
 
