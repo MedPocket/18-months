@@ -111,7 +111,7 @@ Hiệu quả để: Mô tả u rất nhỏ vùng bụng. Xác định vị trí 
 ### CA125
 
 - Là glycoprotein (MUC16) do thượng mô phúc mạc và mô Müllerian tiết.
-- Tăng trong: Ung thư buồng trứng, vú, phổi, tụy, đại tràng... và nhiều tình trạng lành: thai kỳ, lạc nội mạc tử cung, hành kinh, tràn dịch màng bụng/ phổi (lao, suy tim...).
+- Tăng trong: Ung thư buồng trứng, vú, phổi, tụy, đại tràng... và nhiều tình trạng lành: Thai kỳ, lạc nội mạc tử cung, hành kinh, tràn dịch màng bụng/ phổi (lao, suy tim...).
 - Giá trị ngưỡng chung: 35 IU/mL; Sau mãn kinh hoặc đã cắt TC + 2 buồng trứng nên dùng ngưỡng 20-26 IU/mL.
 - Trong u biểu mô buồng trứng: CA125 tăng chủ yếu ở u thanh dịch, ít ở u nhầy, tế bào sáng hoặc giáp biên.
 - **Không dùng để sàng lọc u sớm** (độ nhạy 10 - 50%, độ đặc hiệu 30%).

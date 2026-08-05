@@ -129,21 +129,21 @@ _Bảng "Phân loại tổn thương chức năng tinh hoàn theo vùng tổn th
 
 - Khoảng thời gian giao hợp có và không có áp dụng tránh thai.
 - Các phương pháp tránh thai đã dùng.
-- Các phương pháp hỗ trợ trong giao hợp: chất bôi trơn (một số có tác dụng diệt tinh trùng).
+- Các phương pháp hỗ trợ trong giao hợp: Chất bôi trơn (một số có tác dụng diệt tinh trùng).
 - Thời điểm và mức độ thường xuyên trong giao hợp.
 
 **Bệnh sử sinh sản của vợ:**
 
 - Tiền sử từng có thai hay có con với người khác.
-- Chức năng sinh sản của vợ: tuổi, dự trữ buồng trứng, chu kỳ kinh nguyệt.
+- Chức năng sinh sản của vợ: Tuổi, dự trữ buồng trứng, chu kỳ kinh nguyệt.
 
 #### Thực thể
 
 **Khám tổng quát:**
 
 - Thể trạng.
-- Các cơ quan: tim mạch, hô hấp, tiêu hóa...
-- Đặc điểm nam tính thứ phát: hệ lông tóc, kiểu hình hoạn quan, tuyến vú...
+- Các cơ quan: Tim mạch, hô hấp, tiêu hóa...
+- Đặc điểm nam tính thứ phát: Hệ lông tóc, kiểu hình hoạn quan, tuyến vú...
 - Khám tâm thần (nếu có).
 
 **Khám sinh dục:**
@@ -223,7 +223,7 @@ Chỉ định **bơm tinh trùng vào buồng tử cung (IUI)** hoặc **thụ t
 ![Lưu đồ xử trí vô tinh](./_images/vo-sinh-nam/hung-vuong-luu-do-xu-tri-vo-tinh.png)
 _Hình "Lưu đồ xử trí vô tinh"_.
 
-**Tinh dịch đồ** thực hiện ít nhất 2 lần, cách nhau 3 - 4 tuần: xác định vô tinh.
+**Tinh dịch đồ** thực hiện ít nhất 2 lần, cách nhau 3 - 4 tuần: Xác định vô tinh.
 
 **Phân loại vô tinh do tắc và vô tinh không do tắc:**
 

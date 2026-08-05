@@ -15,7 +15,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 **Tác dụng phụ** (hiếm gặp khi dùng đúng liều):
 
-- Rối loạn tiêu hóa: buồn nôn, đau dạ dày nhẹ.
+- Rối loạn tiêu hóa: Buồn nôn, đau dạ dày nhẹ.
 - Tăng men gan nếu dùng liều cao kéo dài.
 - Nguy cơ độc gan nếu quá liều hoặc phối hợp rượu.
 
@@ -70,7 +70,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 :::caution
 
 - Chỉ dùng khi thật cần thiết và có chỉ định chuyên khoa.
-- Codein: nguy cơ chuyển hóa nhanh → tăng nồng độ morphin → độc tính cao ở mẹ và thai.
+- Codein: Nguy cơ chuyển hóa nhanh → tăng nồng độ morphin → độc tính cao ở mẹ và thai.
   :::
 
 ## Thuốc chống co thắt
@@ -99,7 +99,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 **Chỉ định:** Đau thần kinh mạn tính (đau dây thần kinh tọa, zona...)
 
-**Liều dùng** (ví dụ với Pregabalin): bắt đầu 75 mg/ngày, tăng dần theo đáp ứng. **Chỉ dùng khi có chỉ định chuyên khoa.**
+**Liều dùng** (ví dụ với Pregabalin): Bắt đầu 75 mg/ngày, tăng dần theo đáp ứng. **Chỉ dùng khi có chỉ định chuyên khoa.**
 
 **Tác dụng phụ:**
 

@@ -19,7 +19,7 @@ _Bảng "Tầm soát ung thư cổ tử cung"_.
 | **Đã tiêm ngừa HPV**         | Tầm soát như người không tiêm ngừa (C)                                 |                                                                                                                                                  |
 
 _Phụ nữ có tiền căn ung thư cổ tử cung, nhiễm HIV hoặc suy giảm miễn dịch không áp dụng hướng dẫn tầm soát thông thường (A)_.
-_\* Các khuyến cáo dựa theo: American Cancer Society (ACS), ASCCP, và ASCP. A: khuyến cáo mạnh, chứng cứ rõ ràng. B: khuyến cáo trung bình. C: theo kinh nghiệm_.  
+_\* Các khuyến cáo dựa theo: American Cancer Society (ACS), ASCCP, và ASCP. A: Khuyến cáo mạnh, chứng cứ rõ ràng. B: Khuyến cáo trung bình. C: Theo kinh nghiệm_.
 _\*\* Ưu tiên_.  
 _\*\*\* Chấp nhận được nhưng không phải lựa chọn tối ưu_.  
 _\*\*\*\* Kết quả tầm soát âm tính đầy đủ: 3 lần tế bào học âm tính hoặc 2 lần co-testing âm tính trong 10 năm gần nhất, với lần gần nhất trong 5 năm qua_.

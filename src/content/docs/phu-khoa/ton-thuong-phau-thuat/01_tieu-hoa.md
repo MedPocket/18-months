@@ -54,7 +54,7 @@ Triệu chứng viêm phúc mạc trong 48 giờ đầu:
 - Bạch cầu tăng (hoặc giảm nếu nhiễm độc nặng).
 - Công thức bạch cầu chuyển trái.
 - Hematocrit tăng (do mất nước).
-- Rối loạn điện giải: giảm K⁺, Cl⁻.
+- Rối loạn điện giải: Giảm K⁺, Cl⁻.
 - Urê máu tăng nếu có suy thận.
 
 #### Chẩn đoán hình ảnh
@@ -80,7 +80,7 @@ Triệu chứng viêm phúc mạc trong 48 giờ đầu:
 ### Trước phẫu thuật
 
 - Đánh giá kỹ **tiền sử ngoại khoa** và **mức độ phức tạp dự kiến**.
-- Nhận diện các yếu tố nguy cơ: béo phì, mổ bụng trước đó (đặc biệt đường giữa), lạc nội mạc tử cung nặng, bệnh lý vùng chậu.
+- Nhận diện các yếu tố nguy cơ: Béo phì, mổ bụng trước đó (đặc biệt đường giữa), lạc nội mạc tử cung nặng, bệnh lý vùng chậu.
 - **Chuẩn bị ruột trước mổ** có thể giúp giảm nhiễm trùng và rò dịch sau nối ruột.
 - Mời **bác sĩ tiêu hóa** phối hợp đánh giá và lập kế hoạch xử trí khi có tai biến.
 

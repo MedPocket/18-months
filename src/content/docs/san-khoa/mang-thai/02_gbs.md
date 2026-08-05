@@ -39,7 +39,7 @@ GBS tiết enzyme phospholipase A₂, kích thích tổng hợp prostaglandin c�
 **Khởi phát muộn:**
 
 - Từ **7 ngày đến 2 - 3 tháng tuổi**.
-- Nguồn lây: mẹ, môi trường bệnh viện hoặc cộng đồng.
+- Nguồn lây: Mẹ, môi trường bệnh viện hoặc cộng đồng.
 
 * **Biểu hiện:** Nhiễm trùng huyết. Viêm màng não. Nhiễm trùng các tạng hoặc mô mềm (ít gặp).
 
@@ -57,7 +57,7 @@ GBS tiết enzyme phospholipase A₂, kích thích tổng hợp prostaglandin c�
 - Dùng que gòn sạch: Đưa vào âm đạo khoảng **2 cm**, xoay 1 - 2 vòng. Sau đó đưa vào trực tràng khoảng **1 cm** (qua cơ vòng hậu môn), xoay 1 - 2 vòng.
 
 * Đặt que vào ống xét nghiệm, ghi đầy đủ thông tin và gửi ngay (≤ 15 phút).
-* Nếu chưa gửi ngay: bảo quản **ngăn mát tủ lạnh**.
+* Nếu chưa gửi ngay: Bảo quản **ngăn mát tủ lạnh**.
 
 ## Điều trị và dự phòng
 

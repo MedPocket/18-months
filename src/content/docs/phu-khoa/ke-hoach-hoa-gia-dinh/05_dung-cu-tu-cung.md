@@ -122,7 +122,7 @@ Sau đặt:
 **Nhược điểm:**
 
 - Đặt/tháo phải do bác sĩ thực hiện.
-- Một số tác dụng phụ: buồn nôn, đau đầu, tăng cân, thay đổi tâm trạng.
+- Một số tác dụng phụ: Buồn nôn, đau đầu, tăng cân, thay đổi tâm trạng.
 - Hiệu quả giảm nếu dùng không đúng chỉ định.
 
 ### Áp dụng

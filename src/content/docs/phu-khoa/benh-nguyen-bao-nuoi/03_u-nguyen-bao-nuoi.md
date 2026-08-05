@@ -33,7 +33,7 @@ Theo FIGO (2018):
 - I: Khu trú tử cung.
 - II: Lan tới đường sinh dục nhưng chưa ra ngoài (phần phụ, âm đạo, dây chằng rộng).
 - III: Di căn phổi (dù có hay không tổn thương ở tử cung hoặc cơ quan sinh dục khác).
-- IV: Di căn xa đến các cơ quan ngoài phổi: gan, não, ruột, thận...
+- IV: Di căn xa đến các cơ quan ngoài phổi: Gan, não, ruột, thận...
 
 ### Phân loại nguy cơ
 

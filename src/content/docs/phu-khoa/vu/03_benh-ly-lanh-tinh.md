@@ -45,7 +45,7 @@ _Bảng "Phân loại bệnh lý tuyến vú theo đặc điểm lâm sàng"_.
 #### Cận lâm sàng
 
 ![Bướu sợi tuyến](./_images/benh-ly-tuyen-vu-lanh-tinh/buou-soi-tuyen.png)
-_Hình "(Trái, trên) Siêu âm bướu sợi-tuyến: Khối giảm âm, bờ đa cung, đồng nhất. (Trái, dưới) MRI bướu sợi-tuyến: giới hạn rõ, đồng nhất, có vùng thoái hóa. (Giữa) Nhũ ảnh MLO: khối có lớp mỡ mỏng bao quanh. (Phải) Hình ảnh đại thể bướu sợi-tuyến: vỏ bao rõ, mặt cắt phồng đồng nhất"_.
+_Hình "(Trái, trên) Siêu âm bướu sợi-tuyến: Khối giảm âm, bờ đa cung, đồng nhất. (Trái, dưới) MRI bướu sợi-tuyến: Giới hạn rõ, đồng nhất, có vùng thoái hóa. (Giữa) Nhũ ảnh MLO: Khối có lớp mỡ mỏng bao quanh. (Phải) Hình ảnh đại thể bướu sợi-tuyến: Vỏ bao rõ, mặt cắt phồng đồng nhất"_.
 
 **Siêu âm:**
 
@@ -63,7 +63,7 @@ _Hình "(Trái, trên) Siêu âm bướu sợi-tuyến: Khối giảm âm, bờ 
 - **Ung thư vú:** Ung thư thường có đóng vôi vi thể (microcalcifications) tập trung ở trung tâm khối, bờ không đều, xâm lấn mô xung quanh.
 - **Nang vú:** Nang thường có phản âm trống (anechoic) trên siêu âm, bờ mỏng, bóng lưng rõ.
 - **FNA:** Chọc hút tế bào bằng kim nhỏ có thể giúp phân biệt khối đặc (bướu sợi-tuyến) và nang, nhưng không đáp ứng mô học.
-- **Core biopsy:** Cần thiết khi khối > 2 cm, có hình ảnh không điển hình hoặc nghi ngờ: giúp xác định chắc chắn mô học.
+- **Core biopsy:** Cần thiết khi khối > 2 cm, có hình ảnh không điển hình hoặc nghi ngờ: Giúp xác định chắc chắn mô học.
 
 ### Điều trị
 
@@ -161,7 +161,7 @@ Nang vú (Simple/Macrocystic cyst) là hình ảnh giãn dãn và thoái triển
 #### Cận lâm sàng
 
 ![Nang vú](./_images/benh-ly-tuyen-vu-lanh-tinh/nang-vu.png)
-_Hình "Nang vú trên siêu âm: (Trái) nang điển hình: phản âm trống, bóng lưng rõ; (Phải) nang không điển hình: vách dày, cặn lắng"_.
+_Hình "Nang vú trên siêu âm: (Trái) nang điển hình: Phản âm trống, bóng lưng rõ; (Phải) nang không điển hình: Vách dày, cặn lắng"_.
 
 **Siêu âm:**
 
@@ -299,7 +299,7 @@ Bệnh vú thay đổi sợi bọc (Fibrocystic changes) là nhóm tổn thươn
 
 ### Chẩn đoán
 
-Thường gặp ở phụ nữ 20 - 50 tuổi, đặc biệt tuổi sinh đẻ. Phân loại theo mô bệnh học: xơ hóa tuyến, sẹo hình sao, fibrocystic changes tổng quát.
+Thường gặp ở phụ nữ 20 - 50 tuổi, đặc biệt tuổi sinh đẻ. Phân loại theo mô bệnh học: Xơ hóa tuyến, sẹo hình sao, fibrocystic changes tổng quát.
 
 Khoảng 50 - 60% phụ nữ có thay đổi mô học, khoảng 30 - 50% có triệu chứng lâm sàng:
 

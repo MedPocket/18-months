@@ -39,7 +39,7 @@ _Trichomonas vaginalis_ là ký sinh trùng hình chiếc lá, có 4 roi ở vù
 ### Lâm sàng
 
 - **Huyết trắng:** Lượng nhiều, màu vàng hoặc xanh (lục), loãng, có bọt (bọt khí do sự di động của trùng roi), mùi tanh.
-- **Triệu chứng kèm:** Có thể ngứa âm hộ - âm đạo. Tiểu rát, tiểu buốt (nếu niệu đạo có liên quan). Trường hợp nặng có thể có "dấu hiệu trái dâu tây" (strawberry cervix): âm đạo và cổ tử cung có những điểm xuất huyết nhỏ, lấm tấm do mao mạch vỡ.
+- **Triệu chứng kèm:** Có thể ngứa âm hộ - âm đạo. Tiểu rát, tiểu buốt (nếu niệu đạo có liên quan). Trường hợp nặng có thể có "dấu hiệu trái dâu tây" (strawberry cervix): Âm đạo và cổ tử cung có những điểm xuất huyết nhỏ, lấm tấm do mao mạch vỡ.
 
 ### Cận lâm sàng
 

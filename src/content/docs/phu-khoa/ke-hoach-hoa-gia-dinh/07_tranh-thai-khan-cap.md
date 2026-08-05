@@ -54,7 +54,7 @@ Các phương pháp phổ biến gồm thuốc tránh thai khẩn cấp (levonor
 
 - Hiệu quả thấp hơn các biện pháp tránh thai thường quy.
 - Không dùng thay thế cho biện pháp tránh thai thường xuyên.
-- Tác dụng phụ: buồn nôn, đau đầu, rối loạn kinh nguyệt.
+- Tác dụng phụ: Buồn nôn, đau đầu, rối loạn kinh nguyệt.
 - Không bảo vệ khỏi bệnh lây truyền qua đường tình dục.
 
 ### Áp dụng

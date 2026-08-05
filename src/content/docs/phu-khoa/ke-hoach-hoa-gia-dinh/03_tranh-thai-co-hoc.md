@@ -3,7 +3,7 @@ title: Tránh thai cơ học
 description: Đặc điểm và hướng dẫn sử dụng tránh thai cơ học.
 ---
 
-Các phương pháp phổ biến gồm: bao cao su, màng chắn âm đạo, mũ cổ tử cung, miếng xốp và thuốc diệt tinh trùng.
+Các phương pháp phổ biến gồm: Bao cao su, màng chắn âm đạo, mũ cổ tử cung, miếng xốp và thuốc diệt tinh trùng.
 
 ## Bao cao su
 

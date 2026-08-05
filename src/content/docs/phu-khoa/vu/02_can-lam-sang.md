@@ -81,7 +81,7 @@ Siêu âm tuyến vú sử dụng sóng âm tần số cao (7 - 12 MHz) để kh
 
 - **Hình thái:** Tròn, bầu dục, tam giác, không đều.
 - **Bờ:** Trơn nhẵn (lành tính), hoặc không đều, xù xì (nghi ngờ ác tính).
-- **Phản âm:** Tam bống (cystic): áp âm, bóng lưng (posterior enhancement). Đậm đặc (solid): Giảm âm, thu hồi đáy. Hỗn hợp (mixed).
+- **Phản âm:** Tam bống (cystic): Áp âm, bóng lưng (posterior enhancement). Đậm đặc (solid): Giảm âm, thu hồi đáy. Hỗn hợp (mixed).
 - **Doppler:** Tăng sinh mạch máu bất thường gợi ý ác tính.
 
 ## MRI
@@ -135,7 +135,7 @@ FNA (Fine Needle Aspiration) là kỹ thuật dùng kim mảnh (22 - 25G) để 
 
 **Chỉ định:**
 
-- BIRADS ≥ nhóm III (BIRADS 3: Nghi ngờ thấp, có thể theo dõi; BIRADS ≥ 4: nghi ngờ ác tính).
+- BIRADS ≥ nhóm III (BIRADS 3: Nghi ngờ thấp, có thể theo dõi; BIRADS ≥ 4: Nghi ngờ ác tính).
 - Nang vú không điển hình (kích thước lớn, thành dày, có chồi nội dịch).
 - Tình huống cần chẩn đoán tế bào học để phân biệt lành - ác tính hoặc giảm áp nang (giảm đau).
 - Hạch nách to, nghi di căn trên siêu âm hoặc nhũ ảnh.
