@@ -9,12 +9,12 @@ Xét nghiệm tinh dịch đồ (_Semen Analysis_) là công cụ sàng lọc c�
 
 ## Quy trình thu thập mẫu
 
-### 1. Chuẩn bị trước khi thu thập
+### Chuẩn bị trước khi thu thập
 
 - **Thời gian kiêng xuất tinh (2 - 7 ngày)**: Khoảng thời gian này giúp tối ưu hóa số lượng và chất lượng mẫu. Kiêng xuất tinh (< 2 ngày) làm giảm thể tích dịch xuất và mật độ tinh trùng. Kiêng xuất tinh (> 7 ngày) làm tăng hiện tượng tích tụ tinh trùng già, gia tăng tổn thương do áp lực oxy hóa (_Oxidative Stress_), làm giảm độ di động và tăng đứt gãy DNA tinh trùng.
 - **Tác nhân ảnh hưởng**: Tránh rượu, bia, chất kích thích, thuốc lá và không thực hiện xét nghiệm trong vòng ba tháng sau các đợt sốt cao hoặc nhiễm trùng cấp tính.
 
-### 2. Kỹ thuật lấy mẫu
+### Kỹ thuật lấy mẫu
 
 - **Phương pháp chuẩn**: Thủ dâm trực tiếp tại phòng lấy mẫu của cơ sở y tế. Không sử dụng bao cao su thông thường (chứa chất diệt tinh trùng/bôi trơn) hoặc quan hệ gián đoạn (dễ làm mất giọt đầu và lẫn dịch âm đạo có pH axit).
 - **Vệ sinh và dụng cụ**: Rửa sạch tay và bộ phận sinh dục bằng nước sạch (không dùng xà phòng/chất tẩy rửa để tránh thay đổi pH). Mẫu được hứng trực tiếp vào lọ nhựa vô trùng, miệng rộng, làm bằng chất liệu không độc với tinh trùng.
@@ -65,7 +65,7 @@ Dựa vào kết quả đối chiếu với bảng tham chiếu, các thuật ng
 
 Khi ghi nhận kết quả bất thường trên tinh dịch đồ, quy trình quản lý lâm sàng được triển khai theo các bước:
 
-### 1. Xác nhận kết quả bất thường
+### Xác nhận kết quả bất thường
 
 Do sự dao động sinh học tự nhiên của quá trình sinh tinh (chu kỳ sinh tinh khoảng 64 - 74 ngày), không đưa ra kết luận chẩn đoán chỉ dựa trên một mẫu duy nhất. Cần thực hiện mẫu xét nghiệm thứ hai sau đó 2 - 4 tuần (đảm bảo tuân thủ đúng quy trình kiêng xuất tinh và lấy mẫu).
 
@@ -73,7 +73,7 @@ Do sự dao động sinh học tự nhiên của quá trình sinh tinh (chu kỳ
 Do sự dao động sinh học tự nhiên của quá trình sinh tinh, kết quả tinh dịch đồ bất thường luôn cần được xác nhận bằng mẫu xét nghiệm thứ hai sau 2 - 4 tuần trước khi đưa ra chẩn đoán chính thức.
 :::
 
-### 2. Thăm khám chuyên khoa Nam học / Y học Giới tính
+### Thăm khám chuyên khoa Nam học / Y học Giới tính
 
 - **Khai thác tiền sử và khám lâm sàng**: Tìm hiểu tiền sử bệnh lý (quai bị, ẩn tinh hoàn, chấn thương), môi trường làm việc (tiếp xúc hóa chất, bức xạ, nhiệt độ cao), khám bìu để phát hiện giãn tĩnh mạch thừng tinh (_Varicocele_), bất thường ống dẫn tinh hoặc tinh hoàn ẩn.
 - **Xét nghiệm cận lâm sàng bổ sung**:
@@ -82,7 +82,7 @@ Do sự dao động sinh học tự nhiên của quá trình sinh tinh, kết qu
   - **Xét nghiệm đứt gãy DNA tinh trùng (DFI)**: Đánh giá chất lượng di truyền của tinh trùng (đặc biệt khi có tiền sử sảy thai liên tiếp hoặc thất bại IVF).
   - **Xét nghiệm di truyền (Karyotype, vi mất đoạn trục Y - AZF)**: Chỉ định bắt buộc đối với các trường hợp _Azoospermia_ hoặc _Oligozoospermia_ nặng (**< 5 triệu/mL**).
 
-### 3. Chiến lược điều trị và can thiệp
+### Chiến lược điều trị và can thiệp
 
 - **Thay đổi lối sống**: Ngưng hút thuốc, rượu bia; Tránh tắm nước quá nóng, xông hơi hoặc mặc quần bó sát; Tập thể dục đều đặn và bổ sung các chất chống oxy hóa (Vitamin C, E, Kẽm, Coenzyme Q10, L-Carnitine).
 - **Điều trị nội khoa**: Dùng kháng sinh khi có _Leukocytospermia_; Liệu pháp nội tiết (_clomiphene citrate_, _hCG_/_hMG_) đối với suy tuyến sinh dục do thiếu hụt gonadotropin.
