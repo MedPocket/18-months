@@ -135,7 +135,7 @@ Tái khám sau 4 - 6 tuần để kiểm tra.
 
 Nếu xuất hiện đau bụng nhiều, ra máu bất thường, hoặc có dấu hiệu viêm nhiễm → cần khám ngay.
 
-## Biến chứng và Xử trí
+## Biến chứng và xử trí
 
 ### Biến chứng cấp tính
 
@@ -149,7 +149,7 @@ _Bảng "Tổng hợp biến chứng cấp tính khi đặt dụng cụ tử cun
 | **Thủng tử cung** (_Uterine Perforation_)     | - Đau nhói dữ dội đột ngột.<br>- Mất cảm giác chặn ở đáy tử cung.<br>- Chảy máu đỏ tươi ồ ạt.<br>- Siêu âm không thấy vòng trong buồng tử cung. | Thao tác thô bạo; tử cung ngả trước hoặc ngả sau quá mức, sẹo mổ cũ hoặc tử cung dị dạng.                                         | - Tạm dừng thủ thuật.<br>- Siêu âm hoặc X-quang định vị vòng (trong cơ tử cung hoặc ổ bụng).<br>- Phẫu thuật nội soi (hoặc mổ mở) gắp vòng và khâu phục hồi tử cung. Dùng kháng sinh toàn thân. |
 | **Rách cổ tử cung**                           | Máu tươi chảy liên tục từ điểm kẹp cổ tử cung sau khi tháo kẹp Pozzi.                                                                           | Cổ tử cung xơ cứng, mô giòn xốp hoặc lực kẹp quá mạnh.                                                                            | - Ép gạc cầm máu tại chỗ 3 - 5 phút.<br>- Khâu 1 - 2 mũi chỉ tự tiêu (Vicryl 3-0) nếu không ngừng chảy.                                                                                         |
 
-### Biến chứng mạn tính và Muộn
+### Biến chứng mạn tính và muộn
 
 Các biến chứng mạn tính và muộn diễn ra trong quá trình sử dụng dụng cụ tử cung.
 
