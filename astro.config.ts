@@ -44,6 +44,46 @@ export default defineConfig({
             crossorigin: "anonymous",
           },
         },
+        {
+          tag: "script",
+          attrs: {
+            type: "module",
+          },
+          content: `
+            import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+
+            function renderMermaid() {
+              const elements = document.querySelectorAll('.mermaid');
+              if (elements.length === 0) return;
+
+              const isDark = document.documentElement.dataset.theme === 'dark' ||
+                (!('theme' in document.documentElement.dataset) && window.matchMedia('(prefers-color-scheme: dark)').matches);
+
+              mermaid.initialize({
+                startOnLoad: false,
+                theme: isDark ? 'dark' : 'default',
+                securityLevel: 'loose',
+              });
+
+              mermaid.run({
+                nodes: Array.from(elements),
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', renderMermaid);
+            document.addEventListener('astro:page-load', renderMermaid);
+
+            // Re-render when theme changes
+            const observer = new MutationObserver((mutations) => {
+              mutations.forEach((mutation) => {
+                if (mutation.attributeName === 'data-theme') {
+                  renderMermaid();
+                }
+              });
+            });
+            observer.observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+          `,
+        },
       ],
       logo: {
         src: "/src/assets/logo.png",
