@@ -1,11 +1,9 @@
 ---
-title: Tăng đông di truyền trong thai kỳ
+title: Tăng đông di truyền
 description: Tổng quan, cơ chế di truyền, tiêu chuẩn chẩn đoán và chỉ định điều trị dự phòng thuyên tắc tĩnh mạch ở phụ nữ mang thai có tăng đông di truyền.
 ---
 
 Tăng đông di truyền (_Inherited Thrombophilia_) bao gồm một nhóm các rối loạn di truyền gen dẫn đến tình trạng tăng tính đông máu sinh lý. Ở phụ nữ mang thai, sự kết hợp giữa tình trạng tăng đông sinh lý của thai kỳ và yếu tố tăng đông di truyền làm gia tăng đáng kể nguy cơ thuyên tắc huyết khối tĩnh mạch (_Venous Thromboembolism_ - VTE) cũng như một số biến chứng sản khoa nghiêm trọng.
-
-## Tổng quan
 
 Thai kỳ là một trạng thái tăng đông sinh lý tự nhiên do sự gia tăng tổng hợp các yếu tố đông máu (I, VII, VIII, X, fibrinogen) và sự giảm phân hủy fibrin, kết hợp với tình trạng ứ trệ tĩnh mạch chi dưới do tử cung mang thai chèn ép. Tỷ lệ VTE ở phụ nữ mang thai cao gấp **4 - 5 lần** so with phụ nữ không mang thai cùng độ tuổi.
 
@@ -22,7 +20,7 @@ Các đột biến gen tăng đông di truyền thường gặp bao gồm:
 - **Thiếu hụt Antithrombin III (AT III):** Rối loạn ức chế đông máu di truyền nặng nhất.
 - **Thiếu hụt Protein C và Protein S:** Suy giảm các chất chống đông máu tự nhiên.
 
-## Nguyên nhân và Cơ chế bệnh sinh
+## Bệnh sinh
 
 Tăng đông di truyền xuất phát từ các đột biến gen mã hóa cho các yếu tố đông máu hoặc các protein điều hòa chống đông tự nhiên trong chuỗi cascade đông máu.
 
