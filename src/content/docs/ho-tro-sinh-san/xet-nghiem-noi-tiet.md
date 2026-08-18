@@ -1,11 +1,9 @@
 ---
-title: Xét nghiệm nội tiết tố sinh dục nữ
+title: Nội tiết tố sinh dục nữ
 description: Tổng quan ý nghĩa, thời điểm và đánh giá các chỉ số xét nghiệm nội tiết tố qua các giai đoạn vòng đời của phụ nữ.
 ---
 
 Xét nghiệm nội tiết tố sinh dục nữ là công cụ cận lâm sàng quan trọng trong đánh giá chức năng của trục **Hạ đồi - Tuyến yên - Buồng trứng** (_Hypothalamic-Pituitary-Ovarian axis_ - HPO). Việc khảo sát nồng độ hormone giúp bác sĩ đánh giá dự trữ buồng trứng, khả năng phóng noãn, phát hiện các rối loạn nội tiết và định hướng điều trị vô sinh - hiếm muộn cũng như quản lý các rối loạn kinh nguyệt.
-
-## Tổng quan về xét nghiệm nội tiết sinh dục nữ
 
 Trục HPO hoạt động theo cơ chế phản hồi âm và dương phức tạp:
 
@@ -15,7 +13,7 @@ Trục HPO hoạt động theo cơ chế phản hồi âm và dương phức t�
 
 Do nồng độ các hormone này biến đổi sinh lý theo từng giai đoạn của chu kỳ kinh nguyệt và từng mốc tuổi trong đời người phụ nữ, việc nắm vững chỉ định, thời điểm lấy mẫu và cách biện giải kết quả là yêu cầu bắt buộc đối với bác sĩ lâm sàng.
 
-## Các chỉ số nội tiết tố chính và ý nghĩa sinh học
+## Các chỉ số nội tiết tố chính
 
 ### AMH (Anti-Müllerian Hormone)
 
@@ -52,7 +50,7 @@ Do nồng độ các hormone này biến đổi sinh lý theo từng giai đoạ
 - **DHEAS (Dehydroepiandrosterone Sulfate)**: Tiết chủ yếu từ vỏ thượng thận.
 - **Ý nghĩa**: Gia tăng nồng độ androgen gợi ý hội chứng buồng trứng đa nang (_Polycystic Ovary Syndrome_ - PCOS) hoặc u tiết androgen.
 
-## Đánh giá xét nghiệm theo các giai đoạn vòng đời
+## Đánh giá xét nghiệm
 
 Nồng độ hormone sinh dục nữ có sự biến đổi đặc trưng qua từng giai đoạn phát triển từ sơ sinh đến sau mãn kinh.
 
@@ -67,14 +65,14 @@ _Bảng "Tổng hợp ý nghĩa xét nghiệm nội tiết theo giai đoạn vò
 | **Prolactin & TSH** (Tuyến yên & Tuyến giáp) | Chỉ xét nghiệm khi có bất thường bẩm sinh.                                | Tầm soát khi chậm dậy thì hoặc mất kinh nguyên phát.                | Prolactin **> 25 ng/mL**: Gây vô kinh/vô sinh.<br>TSH chuẩn bị thai kỳ: **< 2.5 mIU/L**.                                          | TSH bắt buộc làm để phân biệt bệnh lý tuyến giáp với cơn bốc hỏa mãn kinh.                                      |
 | **Androgen** (Testosterone, DHEAS)           | Chỉ xét nghiệm khi nghi ngờ tăng sinh thượng thận bẩm sinh (CAH).         | Tầm soát khi trẻ rậm lông, mụn nặng, dậy thì sớm.                   | Tăng cao gợi ý PCOS hoặc u tiết androgen buồng trứng/thượng thận.                                                                 | Giảm dần theo tuổi tác, một số trường hợp ưu thế tương đối gây rậm lông nhẹ.                                    |
 
-### Giai đoạn sơ sinh (Mini-puberty)
+### Giai đoạn sơ sinh
 
 Trong vài tuần đầu sau sinh, việc ngắt đột ngột nguồn hormone từ nhau thai làm kích hoạt tạm thời trục HPO ở trẻ sơ sinh:
 
 - **Diễn tiến**: Gonadotropin (FSH, LH) tăng cao trong khoảng **2 - 6 tuần** đầu sau sinh, kéo theo sự tăng nhẹ của estradiol.
 - **Biểu hiện lâm sàng**: Có thể gặp hiện tượng sưng nhẹ tuyến vú hoặc ra máu âm đạo sinh lý ở trẻ gái sơ sinh. Trục HPO sau đó nhanh chóng đi vào trạng thái "ngủ đông" cho đến tuổi dậy thì.
 
-### Giai đoạn tuổi dậy thì
+### Giai đoạn dậy thì
 
 Sự tái kích hoạt nhịp xung GnRH từ vùng dưới đồi đánh dấu sự bắt đầu của tuổi dậy thì:
 
@@ -82,7 +80,7 @@ Sự tái kích hoạt nhịp xung GnRH từ vùng dưới đồi đánh dấu s
 - **Tác động**: Estradiol phát triển các đặc tính sinh dục phụ (phát triển tuyến vú, tử cung, phân bố mỡ).
 - **Đặc điểm chu kỳ**: Trong **1 - 2 năm** đầu sau khi có kinh lần đầu (_Menarche_), đa số các chu kỳ là chu kỳ không phóng noãn, do đó nồng độ progesterone duy trì ở mức thấp.
 
-### Giai đoạn độ tuổi sinh sản
+### Giai đoạn sinh sản
 
 Đây là giai đoạn trục HPO hoạt động có chu kỳ hoàn chỉnh:
 
@@ -99,9 +97,9 @@ Do sự cạn kiệt nang noãn buồng trứng:
 - **Hiện tượng giải ức chế**: Thiếu hụt estradiol và inhibin B dẫn đến mất cơ chế phản hồi âm, làm FSH tăng rất cao (**> 30 - 40 IU/L**).
 - **Giai đoạn tiền mãn kinh**: FSH và estradiol có thể dao động rất mạnh từng tháng, do đó không dùng FSH đơn lẻ để chẩn đoán mãn kinh ở người **> 45 tuổi**.
 
-## Nguyên tắc vàng trong thực hành lâm sàng
+## Lâm sàng
 
-### Thời điểm lấy mẫu là yếu tố quyết định
+### Thời điểm lấy mẫu
 
 Chỉ định xét nghiệm nội tiết bắt buộc phải tuân thủ đúng thời điểm của chu kỳ kinh nguyệt để đảm bảo giá trị chẩn đoán:
 
@@ -109,14 +107,14 @@ Chỉ định xét nghiệm nội tiết bắt buộc phải tuân thủ đúng 
 - **Ngày 21 của chu kỳ (hoặc 7 ngày trước kỳ kinh dự kiến)**: Dành riêng cho **Progesterone (P₄)** để kiểm tra sự phóng noãn.
 - **Không phụ thuộc chu kỳ kinh**: **AMH, TSH, Prolactin, Androgen** (Testosterone, DHEAS) có thể thu thập mẫu vào bất kỳ ngày nào trong chu kỳ.
 
-### Nguyên tắc chẩn đoán phối hợp
+### Nguyên tắc chẩn đoán
 
 Không đưa ra kết luận chẩn đoán lâm sàng chỉ dựa vào một chỉ số đơn lẻ:
 
 - **Đánh giá dự trữ buồng trứng**: Bắt buộc phối hợp bộ ba **[AMH + FSH nền + Siêu âm đếm nang thứ cấp (AFC)]**.
 - **Chẩn đoán mãn kinh**: Ở phụ nữ **> 45 tuổi** có triệu chứng lâm sàng rõ rệt (rối loạn kinh nguyệt, bốc hỏa, khô âm đạo), chẩn đoán dựa vào lâm sàng. Không lạm dụng xét nghiệm FSH đơn lẻ do nồng độ hormone dao động thất thường trong giai đoạn chuyển tiếp.
 
-### Định hướng chiến lược xử trí tiếp theo
+### Định hướng xử trí
 
 - **Khám hiếm muộn**: Bắt buộc xét nghiệm nội tiết và siêu âm phụ khoa đồng thời cho người vợ, kết hợp xét nghiệm **Tinh dịch đồ** cho người chồng.
 - **Dự trữ buồng trứng giảm (AMH thấp)**: Cần tư vấn người bệnh can thiệp Hỗ trợ sinh sản (IVF) sớm, tránh kéo dài thời gian chờ đợi làm mất cơ hội mang thai bằng noãn tự thân.
