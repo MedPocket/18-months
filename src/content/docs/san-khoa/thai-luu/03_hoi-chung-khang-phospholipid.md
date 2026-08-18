@@ -1,11 +1,9 @@
 ---
-title: Hội chứng kháng phospholipid trong thai kỳ
+title: Hội chứng kháng phospholipid
 description: Tổng quan, cơ chế bệnh sinh, tiêu chuẩn chẩn đoán 2023 ACR/EULAR và phác đồ điều trị hội chứng kháng phospholipid sản khoa.
 ---
 
 Hội chứng kháng phospholipid (_Antiphospholipid Syndrome_ - APS) là một rối loạn tự miễn hệ thống đặc trưng bởi sự hiện diện dai dẳng của các tự kháng thể kháng phospholipid (aPL) hướng vào các phức hợp protein-phospholipid trên bề mặt tế bào. Trong sản khoa, hội chứng kháng phospholipid sản khoa (_Obstetric Antiphospholipid Syndrome_ - OAPS) là nguyên nhân hàng đầu gây ra sảy thai liên tiếp, thai chết lưu, tiền sản giật nặng và thai chậm phát triển trong tử cung.
-
-## Tổng quan
 
 APS ảnh hưởng đến khoảng **0.5% dân số**, xuất hiện chủ yếu ở phụ nữ trong độ tuổi sinh sản (tỷ lệ nữ/nam là **5:1**).
 
@@ -23,7 +21,7 @@ Trong thai kỳ, APS làm tăng đáng kể tỷ lệ biến chứng sản khoa:
 
 Một biến thể hiếm gặp nhưng vô cùng nguy hiểm là hội chứng kháng phospholipid thảm họa (_Catastrophic Antiphospholipid Syndrome_ - CAPS), xuất hiện ở **< 1%** bệnh nhân APS với tỷ lệ tử vong lên tới **36%**. Khoảng **8%** các đợt bùng phát CAPS bị kích hoạt bởi chính quá trình mang thai hoặc giai đoạn sau sinh.
 
-## Nguyên nhân và Cơ chế bệnh sinh
+## Bệnh sinh
 
 Cơ chế bệnh sinh của APS trong thai kỳ được giải thích thông qua **mô hình hai đòn đánh** (_Two-hit model_):
 
@@ -152,7 +150,7 @@ Nơi thăm khám cần phân biệt OAPS với các tình trạng sau:
 - Phối hợp đa chuyên khoa: Sản khoa, Thấp khớp học và Huyết học.
 - Cá thể hóa phác đồ dựa trên tiền sử sản khoa, hồ sơ kháng thể và tiền sử huyết khối.
 
-### Phác đồ điều trị nội khoa tiêu chuẩn
+### Nội khoa
 
 _Bảng "Phân tầng nguy cơ và phác đồ điều trị APS trong thai kỳ"_.
 
@@ -162,7 +160,7 @@ _Bảng "Phân tầng nguy cơ và phác đồ điều trị APS trong thai kỳ
 | **APS sản khoa tiêu chuẩn**          | Có tiền sử sảy thai liên tiếp < 10 tuần, thai lưu ≥ 10 tuần, hoặc sinh non do tiền sản giật             | - **_Aspirin_ liều thấp (LDA):** 75 - 100 mg/ngày.<br>- **LMWH liều dự phòng:** _Enoxaparin_ 40 mg/ngày hoặc _Dalteparin_ 5000 IU/ngày ngắm tiêm dưới da từ khi có tim thai đến 6 tuần sau sinh. |
 | **APS huyết khối / Nguy cơ rất cao** | Tiền sử huyết khối động/tĩnh mạch, hoặc dương tính ba (LA + aCL + anti-β₂GPI)                           | - **_Aspirin_ liều thấp (LDA):** 75 - 100 mg/ngày.<br>- **LMWH liều điều trị:** _Enoxaparin_ 1 mg/kg mỗi 12 giờ tiêm dưới da.<br>- Tiếp tục điều trị kháng đông duy trì sau sinh.                |
 
-### Các liệu pháp bổ trợ cho trường hợp kháng trị
+### Các liệu pháp bổ trợ khi kháng trị
 
 Trường hợp thất bại với phác đồ chuẩn (vẫn bị sảy thai, thai lưu hoặc tiền sản giật nặng xuất hiện dù đã dùng LDA + LMWH):
 
