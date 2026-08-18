@@ -5,8 +5,6 @@ description: Phân tích đối chiếu toàn diện về bản chất, cơ ch�
 
 Hội chứng kháng Phospholipid (_Antiphospholipid Syndrome_ - APS) và Tăng đông di truyền (_Inherited Thrombophilia_) là hai nhóm rối loạn đông máu quan trọng nhất trong sản khoa. Mặc dù cả hai đều dẫn đến tình trạng tăng nguy cơ thuyên tắc mạch và các biến chứng thai kỳ nghiêm trọng, chúng sở hữu bản chất bệnh sinh, cơ chế tổn thương bánh rau, chiến lược xét nghiệm và phác đồ quản lý lâm sàng hoàn toàn khác biệt.
 
-## Tổng quan so sánh
-
 - **Hội chứng kháng Phospholipid (APS):** Là một bệnh lý **tự miễn mắc phải**, đặc trưng bởi sự xuất hiện của các tự kháng thể kháng phospholipid (aPL) hướng vào các phức hợp protein-phospholipid cơ thể. Biểu hiện lâm sàng nổi bật bởi cả **huyết khối (động mạch và tĩnh mạch)** lẫn **biến chứng sản khoa trực tiếp** (sảy thai liên tiếp, thai chết lưu, tiền sản giật nặng).
 - **Tăng đông di truyền (Inherited Thrombophilia):** Là các **bất thường gen bẩm sinh** di truyền từ cha mẹ, làm gia tăng tính đông máu sinh lý. Biểu hiện lâm sàng chủ yếu là **thuyên tắc thuyên tắc tĩnh mạch (_VTE_)**, trong khi mối liên hệ trực tiếp với biến chứng sản khoa ít rõ ràng hơn và phụ thuộc vào từng kiểu gen cụ thể.
 
