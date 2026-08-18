@@ -4,10 +4,13 @@ Tài liệu này quy định các nguyên tắc, chuẩn mực về nội dung, 
 
 ## 1. Nguyên tắc chung (General Principles)
 
-- **Độ chính xác Y khoa:** Mọi thông tin, khuyến cáo lâm sàng phải dựa trên các nguồn bằng chứng khoa học uy tín (Bộ Y tế Việt Nam, WHO, ACOG, RCOG, Medline). Ưu tiên số liệu định lượng cụ thể, có nguồn gốc rõ ràng hơn các mô tả định tính mơ hồ.
+- **Độ chính xác Y khoa:** Mọi thông tin, khuyến cáo lâm sàng phải dựa trên các nguồn bằng chứng khoa học uy tín (Bộ Y tế Việt Nam, WHO, ACOG, RCOG, Medline/PubMed). Ưu tiên số liệu định lượng cụ thể, có nguồn gốc rõ ràng hơn các mô tả định tính mơ hồ.
 - **Tính khách quan và Chuyên nghiệp:** Sử dụng giọng văn trung tính, khoa học, nghiêm túc. Tránh biểu đạt cảm xúc cá nhân hoặc sử dụng các từ mang tính chủ quan cảm tính (ví dụ: "rất nguy hiểm", "vô cùng tồi tệ", "khủng khiếp").
 - **Tính súc tích và Rõ ràng:** Viết ngắn gọn, đi thẳng vào vấn đề lâm sàng. Sử dụng các câu chủ động, ngắn gọn, tránh lặp từ và các cách diễn đạt dài dòng không cần thiết.
 - **Độc giả mục tiêu:** Tài liệu được thiết kế cho bác sĩ nội trú, sinh viên y khoa, bác sĩ sản phụ khoa và những người có kiến thức y khoa nền tảng. Khi sử dụng các thuật ngữ chuyên sâu, cần đảm bảo tính chính xác và rõ ràng.
+- **Đạo đức Y học và Trách nhiệm Tác giả (ICMJE):** Tác giả/người biên soạn chịu trách nhiệm hoàn toàn về tính chính xác, trung thực và tính toàn vẹn của nội dung y khoa. Khai báo minh bạch mọi xung đột lợi ích (Conflict of Interest) nếu có.
+- **Minh bạch trong Sử dụng Trí tuệ Nhân tạo (AI Disclosure):** Các công cụ AI không được đứng tên tác giả. Khi sử dụng AI hỗ trợ soạn thảo, tổng hợp hoặc kiểm tra tài liệu, tác giả bắt buộc phải rà soát, đối chiếu độc lập dữ liệu y khoa và chịu trách nhiệm toàn bộ về nội dung công bố.
+- **Bảo vệ Quyền riêng tư Bệnh nhân (Patient Privacy):** Tuyệt đối không xuất hiện thông tin định danh bệnh nhân (họ tên, ngày sinh, số bệnh án, địa chỉ) trong nội dung hoặc hình ảnh lâm sàng. Mọi hình ảnh bệnh nhân phải được ẩn danh hóa (che mắt, xóa thông tin cá nhân trên phim/siêu âm) theo chuẩn ICMJE.
 
 ## 2. Định dạng văn bản (Formatting & Typography)
 
@@ -200,19 +203,24 @@ Mỗi bài viết về bệnh học sản phụ khoa cần tuân theo cấu trú
 ### Hình ảnh (Pictures/Images)
 
 - Cú pháp chèn ảnh sử dụng đường dẫn tương đối: `![Mô tả ngắn gọn alt-text](./_images/tên-thư-mục/tên-ảnh.png)`
-- **Chú thích ảnh bắt buộc:** Phải đặt ngay bên dưới hoặc bên trên ảnh, viết nghiêng và đặt trong ngoặc kép:
-  - _Ví dụ:_ `_Hình "Các vị trí chửa ngoài tử cung"__.`
+- **Vị trí chú thích ảnh:** Phải đặt ngay bên dưới hình ảnh.
+- **Định dạng chú thích ảnh:** Viết nghiêng, tiêu đề đặt trong ngoặc kép.
+  - _Có nguồn:_ `_Hình "Các vị trí chửa ngoài tử cung". Nguồn: Williams Obstetrics 25th Edition_.`
+  - _Không có nguồn:_ `_Hình "Các vị trí chửa ngoài tử cung"_.`
+- **Bảo mật hình ảnh lâm sàng (ICMJE):** Hình ảnh bệnh nhân hoặc siêu âm, X-quang, MRI phải che mờ diện mạo và xóa toàn bộ thông tin cá nhân (họ tên, ID bệnh án) để đảm bảo quyền riêng tư.
 
 ### Bảng biểu (Tables)
 
 - Sử dụng bảng Markdown để so sánh hoặc hệ thống hóa dữ liệu số lượng phức tạp.
-- **Chú thích bảng bắt buộc:** Đặt ngay phía trên bảng biểu, viết nghiêng và đặt trong ngoặc kép:
-  - _Ví dụ:_ `_Bảng "Phân loại mức độ thiếu máu theo WHO"__.`
+- **Vị trí chú thích bảng:** Phải đặt ngay bên trên bảng biểu.
+- **Định dạng chú thích bảng:** Viết nghiêng, tiêu đề đặt trong ngoặc kép.
+  - _Có nguồn:_ `_Bảng "Phân loại mức độ thiếu máu theo WHO". Nguồn: WHO (2011)_.`
+  - _Không có nguồn:_ `_Bảng "Tiêu chuẩn chẩn đoán đái tháo đường thai kỳ"_.`
 
 **Ví dụ trình bày:**
 
 ```md
-\_Bảng "Tiêu chuẩn chẩn đoán đái tháo đường thai kỳ"\_\_.
+_Bảng "Tiêu chuẩn chẩn đoán đái tháo đường thai kỳ". Nguồn: ACOG Practice Bulletin No. 190_.
 
 | Chỉ số huyết thanh | Ngưỡng chẩn đoán (mmol/L) | Ngưỡng chẩn đoán (mg/dL) |
 | ------------------ | ------------------------- | ------------------------ |
@@ -238,22 +246,38 @@ Cấm thăm khám âm đạo bằng tay khi nghi ngờ rau tiền đạo chưa l
 :::
 ```
 
-## 7. Tài liệu tham khảo (References)
+## 7. Tài liệu tham khảo (References - ICMJE / Vancouver Style)
 
-Danh sách tài liệu tham khảo phải được chuẩn hóa theo cấu trúc định dạng nhất quán:
-`Tên tổ chức/Tác giả (Năm) - Tên bài viết/Tên sách in nghiêng`.
+Toàn bộ tài liệu tham khảo phải tuân thủ chuẩn trích dẫn y khoa quốc tế **Vancouver/ICMJE** (International Committee of Medical Journal Editors).
 
-- **Quy tắc:**
-  - Sắp xếp theo thứ tự ưu tiên: Tài liệu trong nước (Bộ Y tế) trước, tài liệu quốc tế (ACOG, RCOG, WHO...) sau.
-  - Các chữ cái đầu tiên viết hoa, tên sách/văn bản pháp quy được in nghiêng.
+### Quy tắc chung về Trích dẫn
 
-**Ví dụ:**
+- **Đánh số trích dẫn trong văn bản:** Trích dẫn được đánh số bằng chữ số Ả Rập theo thứ tự xuất hiện lần đầu tiên trong bài viết.
+- **Sắp xếp danh mục:** Danh sách tài liệu tham khảo cuối bài được đánh số thứ tự (`1.`, `2.`, `3.`) khớp chính xác với số trích dẫn trong văn bản (không xếp theo thứ tự bảng chữ cái).
+- **Định dạng tên tác giả:**
+  - Tên tác giả viết theo cấu trúc: `Họ` + `Chữ cái đầu tên gọi và tên đệm` (không có dấu chấm hoặc khoảng trắng giữa các chữ cái đầu).
+  - _Ví dụ:_ Cunningham FG, Leveno KJ, Bloom SL.
+  - **Quy tắc số lượng tác giả:** Liệt kê tối đa 6 tác giả, phân cách bằng dấu phẩy. Nếu có từ 7 tác giả trở lên, liệt kê 6 tác giả đầu tiên kèm theo `, et al.` (hoặc `, và cs.` đối với tài liệu tiếng Việt).
+- **Tên tạp chí:** Viết tắt tên tạp chí theo chuẩn NLM (National Library of Medicine / PubMed).
+- **Định dạng tiêu đề bài báo/sách:** Viết dạng sentence case (chỉ viết hoa chữ cái đầu tiên của tiêu đề, danh từ riêng và từ viết tắt).
 
-```md
-## Tài liệu tham khảo
+### Mẫu trích dẫn chuẩn cho các nguồn tài liệu
 
-- Bộ Y tế Việt Nam (2016) - _Hướng dẫn Quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- ACOG Practice Bulletin No. 202 (2018) - _Gestational Hypertension and Preeclampsia_.
-- F. Gary Cunningham et al. (2018) - _Williams Obstetrics 25th Edition_.
-```
+1. **Bài báo trên tạp chí y học (Journal Article):**
+   - `Tác giả. Tên bài báo. Tên tạp chí viết tắt. Năm;Tập(Số):Trang.`
+   - _Ví dụ:_
+     - ACOG Practice Bulletin No. 202: Gestational Hypertension and Preeclampsia. _Obstet Gynecol_. 2019;133(1):e1-e25.
+     - Redman CW, Sargent IL. Latest advances in understanding preeclampsia. _Science_. 2005;308(5728):1592-1594.
+2. **Sách chuyên khảo và Chương sách (Book & Book Chapter):**
+   - **Toàn bộ cuốn sách:** `Tác giả/Chủ biên. Tên sách. Lần xuất bản (nếu có). Nơi xuất bản: Nhà xuất bản; Năm.`
+     - _Ví dụ:_ Cunningham FG, Leveno KJ, Bloom SL, Dashe JS, Hoffman BL, Casey BM, et al. _Williams Obstetrics_. 25th ed. New York: McGraw-Hill Education; 2018.
+   - **Một chương trong sách:** `Tác giả chương. Tên chương. Trong: Tác giả/Chủ biên sách. Tên sách. Lần xuất bản. Nơi xuất bản: Nhà xuất bản; Năm. p. Trang.`
+     - _Ví dụ:_ Baha M. Hypertension in pregnancy. In: Gabbe SG, Niebyl JR, Simpson JL, et al., editors. _Obstetrics: Normal and Problem Pregnancies_. 7th ed. Philadelphia: Elsevier; 2017. p. 861-887.
+3. **Hướng dẫn điều trị & Văn bản pháp quy (Clinical Guidelines & Official Publications):**
+   - `Tổ chức ban hành. Tên hướng dẫn/văn bản. Nơi xuất bản: Nhà xuất bản; Năm.`
+   - _Ví dụ:_
+     - Bộ Y tế Việt Nam. _Hướng dẫn Quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản_. Hà Nội: NXB Y học; 2016.
+     - World Health Organization. _WHO recommendations on antenatal care for a positive pregnancy experience_. Geneva: World Health Organization; 2016.
+4. **Tài liệu trực tuyến & Cơ sở dữ liệu y khoa (Online Resources & Websites):**
+   - `Tác giả/Tổ chức. Tên bài viết [Internet]. Ngày đăng/Cập nhật [trích dẫn Ngày tháng Năm]. Khả dụng từ: URL.`
+   - _Ví dụ:_ American College of Obstetricians and Gynergists. Clinical guidance for the integration of cell-free DNA testing [Internet]. 2023 [cited 2024 Jan 15]. Available from: https://www.acog.org/clinical/clinical-guidance/
