@@ -24,22 +24,13 @@ Các đột biến gen tăng đông di truyền thường gặp bao gồm:
 
 Tăng đông di truyền xuất phát từ các đột biến gen mã hóa cho các yếu tố đông máu hoặc các protein điều hòa chống đông tự nhiên trong chuỗi cascade đông máu.
 
-```
-                  ┌─────────────────────────────────────────┐
-                  │ Yếu tố V Leiden (Đề kháng APC)          │
-                  │ Đột biến Prothrombin G20210A            │
-                  └────────────────────┬────────────────────┘
-                                       │
-                                       ▼
-                       [Tăng tạo Thrombin & Fibrin]
-                                       │
-[Tăng đông sinh lý thai kỳ] ───────────┼─────────── [Ứ trệ tĩnh mạch do tử cung]
-                                       │
-                                       ▼
-                     [Hình thành Huyết khối Tĩnh mạch]
-                                       │
-                                       ▼
-                          [Thuyên tắc DVT / PE]
+```mermaid
+graph TD
+    A["Yếu tố V Leiden (Đề kháng APC)<br>Đột biến Prothrombin G20210A"] --> B["Tăng tạo Thrombin & Fibrin"]
+    B --> E["Hình thành Huyết khối Tĩnh mạch"]
+    C["Tăng đông sinh lý thai kỳ"] --> E
+    D["Ứ trệ tĩnh mạch do tử cung"] --> E
+    E --> F["Thuyên tắc DVT / PE"]
 ```
 
 _Hình "Cơ chế hình thành huyết khối tĩnh mạch do sự phối hợp giữa tăng đông di truyền và thai kỳ"_.
@@ -175,17 +166,11 @@ _Bảng "Phác đồ dự phòng VTE trong thai kỳ và hậu sản theo ACOG P
   - Không rút catheter ngoài màng cứng cho đến khi đã ngừng LMWH ít nhất 12 giờ.
 - **Thời kỳ hậu sản:** Tái khởi động LMWH sau sinh **6 - 12 giờ** đối với sinh thường và **12 - 24 giờ** đối với mổ lấy thai (khi tình trạng chảy máu đã kiểm soát tốt). Maintain điều trị tối thiểu **6 tuần hậu sản**.
 
-```
-[Thời điểm chuyển dạ / Mổ chủ động]
-                 │
-                 ▼
-[Tạm ngưng LMWH dự phòng 12h / điều trị 24h]
-                 │
-                 ▼
-[Thực hiện Gây tê Tủy sống / Mổ lấy thai]
-                 │
-                 ▼
-[Sau sinh 6-12h: Tái khởi động LMWH duy trì 6 tuần]
+```mermaid
+graph TD
+    A["Thời điểm chuyển dạ / Mổ chủ động"] --> B["Tạm ngưng LMWH dự phòng 12h / điều trị 24h"]
+    B --> C["Thực hiện Gây tê Tủy sống / Mổ lấy thai"]
+    C --> D["Sau sinh 6-12h: Tái khởi động LMWH duy trì 6 tuần"]
 ```
 
 _Hình "Quy trình quản lý LMWH quanh thời điểm sinh ở bệnh nhân có tăng đông di truyền"_.

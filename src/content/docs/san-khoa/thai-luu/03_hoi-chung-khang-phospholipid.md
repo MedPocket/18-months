@@ -28,25 +28,14 @@ Cơ chế bệnh sinh của APS trong thai kỳ được giải thích thông qu
 1. **Đòn đánh thứ nhất (First hit):** Các tự kháng thể aPL (chủ yếu là _anti-β₂GPI_, _anticardiolipin_, và _lupus anticoagulant_) gắn vào mô lá nuôi (_trophoblast_) và tế bào nội mạc mạch máu bánh rau.
 2. **Đòn đánh thứ hai (Second hit):** Một yếu tố kích hoạt từ môi trường (như nhiễm trùng, phẫu thuật, căng thẳng mạch máu hoặc sự thay đổi nội tiết thai kỳ) khởi phát chuỗi phản ứng viêm và đông máu cấp tính.
 
-```
-[Kháng thể aPL gắn Trophoblast & Nội mạc] (Hit 1)
-                     │
-                     ▼
-[Yếu tố kích hoạt: Nhiễm trùng / Mang thai] (Hit 2)
-                     │
-                     ▼
-┌────────────────────┴────────────────────┐
-│                                         │
-▼                                         ▼
-[Hoạt hóa Bổ thể & Viêm vi mạch]    [Khung bẫy Bạch cầu trung tính (NETs)]
-│                                         │
-└────────────────────┬────────────────────┘
-                     │
-                     ▼
-[Tổn thương Lá nuôi & Tắc mạch Rau thai]
-                     │
-                     ▼
-[Mất thai / Tiền sản giật / FGR]
+```mermaid
+graph TD
+    A["Kháng thể aPL gắn Trophoblast & Nội mạc (Hit 1)"] --> B["Yếu tố kích hoạt: Nhiễm trùng / Mang thai (Hit 2)"]
+    B --> C["Hoạt hóa Bổ thể & Viêm vi mạch"]
+    B --> D["Khung bẫy Bạch cầu trung tính (NETs)"]
+    C --> E["Tổn thương Lá nuôi & Tắc mạch Rau thai"]
+    D --> E
+    E --> F["Mất thai / Tiền sản giật / FGR"]
 ```
 
 _Hình "Mô hình hai đòn đánh trong cơ chế bệnh sinh APS sản khoa"_.
@@ -199,14 +188,12 @@ Xử trí CAPS yêu cầu liệu pháp ba củng cố cấp cứu tại khoa H�
 - **Đánh giá sức khỏe thai nhi:** Thực hiện Non-stress test (NST) và chỉ số sinh học phôi thai (BPP) hàng tuần từ tuần thứ **32** (hoặc sớm hơn nếu có biến chứng).
 - **Xét nghiệm định kỳ mẹ:** Định lượng công thức máu (tiểu cầu), chức năng gan, thận, protein niệu và nồng độ bổ thể C3/C4 mỗi tháng. Xét nghiệm nồng độ _Anti-Xa_ khi sử dụng LMWH liều điều trị ở bệnh nhân béo phì hoặc suy thận (mục tiêu anti-Xa **0.6 - 1.0 IU/mL**).
 
-```
-Thụ thai ──► [Tuần 11-14] Doppler ĐM tử cung
-                 │
-                 ├──► [Tuần 20-24] Doppler ĐM tử cung & Siêu âm hình thái
-                 │
-                 ├──► [Tuần 24-Sinh] Siêu âm đo tăng trưởng thai mỗi 3-4 tuần
-                 │
-                 └──► [Tuần 32-Sinh] NST & BPP hàng tuần
+```mermaid
+graph TD
+    A["Thụ thai"] --> B["[Tuần 11-14] Doppler ĐM tử cung"]
+    B --> C["[Tuần 20-24] Doppler ĐM tử cung & Siêu âm hình thái"]
+    C --> D["[Tuần 24-Sinh] Siêu âm đo tăng trưởng thai mỗi 3-4 tuần"]
+    D --> E["[Tuần 32-Sinh] NST & BPP hàng tuần"]
 ```
 
 _Hình "Lịch trình theo dõi sản khoa đối với thai kỳ có hội chứng kháng phospholipid"_.
