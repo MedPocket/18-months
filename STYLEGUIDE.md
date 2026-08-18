@@ -8,12 +8,12 @@ Tài liệu này quy định các nguyên tắc, chuẩn mực về nội dung, 
 - **Tính khách quan và Chuyên nghiệp:** Sử dụng giọng văn trung tính, khoa học, nghiêm túc. Tránh biểu đạt cảm xúc cá nhân hoặc sử dụng các từ mang tính chủ quan cảm tính (ví dụ: "rất nguy hiểm", "vô cùng tồi tệ", "khủng khiếp").
 - **Tính súc tích và Rõ ràng:** Viết ngắn gọn, đi thẳng vào vấn đề lâm sàng. Sử dụng các câu chủ động, ngắn gọn, tránh lặp từ và các cách diễn đạt dài dòng không cần thiết.
 - **Độc giả mục tiêu:** Tài liệu được thiết kế cho bác sĩ nội trú, sinh viên y khoa, bác sĩ sản phụ khoa và những người có kiến thức y khoa nền tảng. Khi sử dụng các thuật ngữ chuyên sâu, cần đảm bảo tính chính xác và rõ ràng.
-- **Ngôn ngữ Tôn trọng & Hướng về Bệnh nhân (AMA Patient-First & Inclusive Language):** Sử dụng ngôn ngữ tôn trọng, khách quan, tôn trọng sự đa dạng. Ưu tiên diễn đạt hướng về con người/bệnh nhân thay vì định danh bằng bệnh lý.
+- **Ngôn ngữ Tôn trọng & Hướng về Bệnh nhân:** Sử dụng ngôn ngữ tôn trọng, khách quan, tôn trọng sự đa dạng. Ưu tiên diễn đạt hướng về con người/bệnh nhân thay vì định danh bằng bệnh lý.
   - _Nên dùng:_ "bệnh nhân mắc đái tháo đường", "bệnh nhân có béo phì", "thai phụ nhiễm HIV".
   - _Tránh dùng:_ "bệnh nhân đái tháo đường", "người đái tháo đường", "người béo phì", "nạn nhân", "kẻ bị bệnh".
-- **Đạo đức Y học và Trách nhiệm Tác giả (ICMJE/AMA):** Tác giả/người biên soạn chịu trách nhiệm hoàn toàn về tính chính xác, trung thực và tính toàn vẹn của nội dung y khoa. Khai báo minh bạch mọi xung đột lợi ích (Conflict of Interest) nếu có.
+- **Đạo đức Y học và Trách nhiệm Tác giả:** Tác giả/người biên soạn chịu trách nhiệm hoàn toàn về tính chính xác, trung thực và tính toàn vẹn của nội dung y khoa. Khai báo minh bạch mọi xung đột lợi ích (Conflict of Interest) nếu có.
 - **Minh bạch trong Sử dụng Trí tuệ Nhân tạo (AI Disclosure):** Các công cụ AI không được đứng tên tác giả. Khi sử dụng AI hỗ trợ soạn thảo, tổng hợp hoặc kiểm tra tài liệu, tác giả bắt buộc phải rà soát, đối chiếu độc lập dữ liệu y khoa và chịu trách nhiệm toàn bộ về nội dung công bố.
-- **Bảo vệ Quyền riêng tư Bệnh nhân (Patient Privacy):** Tuyệt đối không xuất hiện thông tin định danh bệnh nhân (họ tên, ngày sinh, số bệnh án, địa chỉ) trong nội dung hoặc hình ảnh lâm sàng. Mọi hình ảnh bệnh nhân phải được ẩn danh hóa (che mắt, xóa thông tin cá nhân trên phim/siêu âm) theo chuẩn ICMJE/AMA.
+- **Bảo vệ Quyền riêng tư Bệnh nhân (Patient Privacy):** Tuyệt đối không xuất hiện thông tin định danh bệnh nhân (họ tên, ngày sinh, số bệnh án, địa chỉ) trong nội dung hoặc hình ảnh lâm sàng. Mọi hình ảnh bệnh nhân phải được ẩn danh hóa (che mắt, xóa thông tin cá nhân trên phim/siêu âm).
 
 ## 2. Định dạng văn bản (Formatting & Typography)
 
@@ -96,9 +96,9 @@ Sử dụng `1.`, `2.`, `3.` khi trình bày quy trình, các bước thực hi�
   - _Đúng:_ 10 - 20 mg, 5 - 7 ngày, 10 đến 20 mg.
   - _Sai:_ 10-20 mg, 5-7 ngày.
 
-### Quy tắc viết chữ số và chữ (AMA Manual of Style)
+### Quy tắc viết chữ số và chữ
 
-Theo chuẩn **AMA Manual of Style (11th Edition)**, quy tắc trình bày chữ số và chữ được quy định như sau:
+Quy tắc trình bày chữ số và chữ được quy định như sau:
 
 **Các trường hợp sử dụng dạng chữ số (Numerals):**
 
@@ -131,7 +131,7 @@ Theo chuẩn **AMA Manual of Style (11th Edition)**, quy tắc trình bày chữ
 - **Chỉ số trên/dưới (Subscript/Superscript):** Để đảm bảo AST của Markdown/Starlight xử lý chính xác và không bị lỗi biên dịch, **phải sử dụng trực tiếp kí tự Unicode cho chỉ số trên và dưới**. Tránh sử dụng thẻ HTML (`<sup>`, `<sub>`) hoặc kí tự caret (`^`).
   - _Chỉ số trên (Superscript):_ `⁰` `¹` `²` `³` `⁴` `⁵` `⁶` `⁷` `⁸` `⁹` `⁺` `⁻`. (Ví dụ: m², cm³).
   - _Chỉ số dưới (Subscript):_ `₀` `₁` `₂` `₃` `₄` `₅` `₆` `₇` `₈` `₉`. (Ví dụ: HbA₁c, CO₂).
-- **Vị trí ký hiệu trích dẫn chỉ số trên (AMA Superscript Citations):** Khi sử dụng số chỉ số trên để trích dẫn tài liệu trong văn bản theo chuẩn AMA, số trích dẫn phải đặt **sau** dấu chấm, dấu phẩy hoặc dấu ngoặc kép mà **không có khoảng trắng**.
+- **Vị trí ký hiệu trích dẫn chỉ số trên:** Khi sử dụng số chỉ số trên để trích dẫn tài liệu trong văn bản, số trích dẫn phải đặt **sau** dấu chấm, dấu phẩy hoặc dấu ngoặc kép mà **không có khoảng trắng**.
   - _Đúng:_ Tỉ lệ thành công của phác đồ là 90%.¹
   - _Đúng:_ Theo các nghiên cứu gần đây,¹⁻³ điều trị nội khoa mang lại hiệu quả cao.
   - _Sai:_ Tỉ lệ thành công của phác đồ là 90%¹.
@@ -216,16 +216,16 @@ Mỗi bài viết về bệnh học sản phụ khoa cần tuân theo cấu trú
 ### Hình ảnh (Pictures/Images)
 
 - Cú pháp chèn ảnh sử dụng đường dẫn tương đối: `![Mô tả ngắn gọn alt-text](./_images/tên-thư-mục/tên-ảnh.png)`
-- **Vị trí chú thích ảnh (AMA Style):** Phải đặt **ngay bên dưới** hình ảnh.
+- **Vị trí chú thích ảnh:** Phải đặt **ngay bên dưới** hình ảnh.
 - **Định dạng chú thích ảnh:** Viết nghiêng, tiêu đề đặt trong ngoặc kép.
   - _Có nguồn:_ `_Hình "Các vị trí chửa ngoài tử cung". Nguồn: Williams Obstetrics 25th Edition_.`
   - _Không có nguồn:_ `_Hình "Các vị trí chửa ngoài tử cung"_.`
-- **Bảo mật hình ảnh lâm sàng (ICMJE/AMA):** Hình ảnh bệnh nhân hoặc siêu âm, X-quang, MRI phải che mờ diện mạo và xóa toàn bộ thông tin cá nhân (họ tên, ID bệnh án) để đảm bảo quyền riêng tư.
+- **Bảo mật hình ảnh lâm sàng:** Hình ảnh bệnh nhân hoặc siêu âm, X-quang, MRI phải che mờ diện mạo và xóa toàn bộ thông tin cá nhân (họ tên, ID bệnh án) để đảm bảo quyền riêng tư.
 
 ### Bảng biểu (Tables)
 
 - Sử dụng bảng Markdown để so sánh hoặc hệ thống hóa dữ liệu số lượng phức tạp.
-- **Vị trí chú thích bảng (AMA Style):** Phải đặt **ngay bên trên** bảng biểu.
+- **Vị trí chú thích bảng:** Phải đặt **ngay bên trên** bảng biểu.
 - **Định dạng chú thích bảng:** Viết nghiêng, tiêu đề đặt trong ngoặc kép.
   - _Có nguồn:_ `_Bảng "Phân loại mức độ thiếu máu theo WHO". Nguồn: WHO (2011)_.`
   - _Không có nguồn:_ `_Bảng "Tiêu chuẩn chẩn đoán đái tháo đường thai kỳ"_.`
@@ -259,23 +259,23 @@ Cấm thăm khám âm đạo bằng tay khi nghi ngờ rau tiền đạo chưa l
 :::
 ```
 
-## 7. Tài liệu tham khảo (References - AMA Manual of Style 11th Edition)
+## 7. Tài liệu tham khảo (References)
 
-Toàn bộ tài liệu tham khảo phải tuân thủ chuẩn trích dẫn y khoa **AMA Manual of Style (11th Edition)**.
+Toàn bộ tài liệu tham khảo phải tuân thủ chuẩn trích dẫn y khoa quốc tế.
 
 ### Quy tắc chung về Trích dẫn
 
 - **Đánh số trích dẫn trong văn bản:** Trích dẫn được đánh số bằng chữ số Ả Rập dưới dạng chỉ số trên (superscript) theo thứ tự xuất hiện lần đầu tiên trong bài viết (ví dụ: `...đã được chứng minh.¹`). Đặt ngay **sau** dấu chấm hoặc dấu phẩy, không có khoảng trắng.
 - **Sắp xếp danh mục:** Danh sách tài liệu tham khảo cuối bài được đánh số thứ tự (`1.`, `2.`, `3.`) khớp chính xác với số trích dẫn trong văn bản (không xếp theo thứ tự bảng chữ cái).
-- **Định dạng tên tác giả (AMA Style):**
+- **Định dạng tên tác giả:**
   - Tên tác giả viết theo cấu trúc: `Họ` + `Chữ cái đầu tên gọi và tên đệm` (không có dấu chấm hoặc khoảng trắng giữa các chữ cái đầu).
   - _Ví dụ:_ Cunningham FG, Leveno KJ, Bloom SL.
-  - **Quy tắc số lượng tác giả (AMA 11th Ed):**
+  - **Quy tắc số lượng tác giả:**
     - **1 đến 6 tác giả:** Liệt kê **toàn bộ** tên các tác giả, phân cách bằng dấu phẩy.
     - **Từ 7 tác giả trở lên:** Liệt kê **3 tác giả đầu tiên**, sau đó thêm `, et al.` (hoặc `, và cs.` đối với tài liệu tiếng Việt).
 - **Tên tạp chí:** In nghiêng và viết tắt theo chuẩn NLM (National Library of Medicine / PubMed).
 - **Định dạng tiêu đề bài báo/sách:** Viết dạng sentence case (chỉ viết hoa chữ cái đầu tiên của tiêu đề, danh từ riêng và từ viết tắt).
-- **Định dạng DOI & URL:** Không đặt dấu chấm ở cuối mã DOI hoặc URL. Theo AMA 11th Ed, DOI được viết dưới dạng `doi:10.xxxx/xxxx`.
+- **Định dạng DOI & URL:** Không đặt dấu chấm ở cuối mã DOI hoặc URL. Mã DOI được viết dưới dạng `doi:10.xxxx/xxxx`.
 
 ### Mẫu trích dẫn chuẩn cho các nguồn tài liệu
 
@@ -285,7 +285,7 @@ Toàn bộ tài liệu tham khảo phải tuân thủ chuẩn trích dẫn y kho
      - Johnston SC, Amarenco P, Denison H, et al. Ticagrelor and aspirin or aspirin alone in acute ischemic stroke or TIA. _N Engl J Med_. 2020;383(3):207-217. doi:10.1056/NEJMoa1916870
      - ACOG Practice Bulletin No. 202: Gestational hypertension and preeclampsia. _Obstet Gynecol_. 2019;133(1):e1-e25. doi:10.1097/AOG.0000000000003018
 2. **Sách chuyên khảo và Chương sách (Book & Book Chapter):**
-   - **Toàn bộ cuốn sách (AMA 11th Ed - Loại bỏ địa danh nhà xuất bản):** `Tác giả/Chủ biên. Tên sách in nghiêng. Lần xuất bản (nếu có). Nhà xuất bản; Năm.`
+   - **Toàn bộ cuốn sách:** `Tác giả/Chủ biên. Tên sách in nghiêng. Lần xuất bản (nếu có). Nhà xuất bản; Năm.`
      - _Ví dụ:_ Cunningham FG, Leveno KJ, Bloom SL, et al. _Williams Obstetrics_. 25th ed. McGraw-Hill Education; 2018.
    - **Một chương trong sách:** `Tác giả chương. Tên chương. In: Tác giả/Chủ biên sách, eds. Tên sách in nghiêng. Lần xuất bản. Nhà xuất bản; Năm:Trang.`
      - _Ví dụ:_ Friedman S, Blumberg RS. Inflammatory bowel disease. In: Longo DL, Fauci AS, Kasper DL, et al, eds. _Harrison's Principles of Internal Medicine_. 18th ed. McGraw-Hill; 2012:2477-2495.
