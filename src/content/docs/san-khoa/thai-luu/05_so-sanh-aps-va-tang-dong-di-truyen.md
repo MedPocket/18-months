@@ -23,26 +23,18 @@ _Bảng "Tóm tắt so sánh đặc điểm cốt lõi giữa APS và Tăng đô
 
 Sự khác biệt về cơ chế bệnh sinh giải thích tại sao APS gây biến chứng sản khoa sớm và nặng nề hơn đáng kể so với Tăng đông di truyền.
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│                           BẢN CHẤT BỆNH LÝ                              │
-└────────────────────┬───────────────────────────────┬────────────────────┘
-                     │                               │
-                     ▼                               ▼
-       [APS: Tự miễn mắc phải]             [Tăng đông di truyền: Gen bẩm sinh]
-                     │                               │
-                     ▼                               ▼
-     [Gắn Trophoblast & Nội mạc]             [Tăng tạo Thrombin hệ thống]
-                     │                               │
-                     ▼                               ▼
-     [Viêm vi mạch & Bổ thể & NETs]          [Huyết khối tĩnh mạch (VTE)]
-                     │                               │
-                     ▼                               ▼
-┌────────────────────┴────────────────────┐ ┌────────┴───────────────────────────┐
-│ • Sảy thai liên tiếp < 10 tuần          │ │ • Thuyên tắc tĩnh mạch sâu (DVT)   │
-│ • Thai chết lưu ≥ 10 tuần               │ │ • Thuyên tắc phổi (PE)             │
-│ • Tiền sản giật nặng & FGR rất sớm      │ │ • Biến chứng sản khoa (ở thể nặng)│
-└─────────────────────────────────────────┘ └───────────────────────────────────┘
+```mermaid
+graph TD
+    A["BẢN CHẤT BỆNH LÝ"] --> B["APS: Tự miễn mắc phải"]
+    A --> C["Tăng đông di truyền: Gen bẩm sinh"]
+
+    B --> D["Gắn Trophoblast & Nội mạc"]
+    D --> F["Viêm vi mạch & Bổ thể & NETs"]
+    F --> H["• Sảy thai liên tiếp < 10 tuần<br>• Thai chết lưu ≥ 10 tuần<br>• Tiền sản giật nặng & FGR rất sớm"]
+
+    C --> E["Tăng tạo Thrombin hệ thống"]
+    E --> G["Huyết khối tĩnh mạch (VTE)"]
+    G --> I["• Thuyên tắc tĩnh mạch sâu (DVT)<br>• Thuyên tắc phổi (PE)<br>• Biến chứng sản khoa (ở thể nặng)"]
 ```
 
 _Hình "Sơ đồ so sánh con đường bệnh sinh và biểu hiện lâm sàng ưu thế giữa APS và Tăng đông di truyền"_.
@@ -99,28 +91,16 @@ _Bảng "So sánh phác đồ điều trị thai kỳ giữa APS và Tăng đôn
 | **Tiền sử VTE / Nguy cơ rất cao**                    | **LDA + LMWH liều điều trị** (_Enoxaparin_ 1 mg/kg x 2 lần/ngày) duy trì lâu dài              | **LMWH liều điều trị** (_Enoxaparin_ 1 mg/kg x 2 lần/ngày) duy trì đến 6 tuần sau sinh |
 | **Xử trí trường hợp kháng trị**                      | Bổ sung _Hydroxychloroquine_ (HCQ), Corticosteroid liều thấp hoặc IVIG                        | Tăng liều LMWH hoặc chuyển sang Heparin không phân đoạn (UFH)                          |
 
-```
-                       ┌───────────────────────────────┐
-                       │ BỆNH NHÂN CÓ TĂNG ĐÔNG MÁU    │
-                       └───────────────┬───────────────┘
-                                       │
-                      Xét nghiệm Tự kháng thể vs Gen
-                                       │
-            ┌──────────────────────────┴──────────────────────────┐
-            ▼                                                     ▼
- [Bản chất Tự miễn: APS]                               [Bản chất Gen: Tăng đông di truyền]
-            │                                                     │
-            ▼                                                     ▼
- Phác đồ: LDA + LMWH                                   Phác đồ: LMWH đơn thuần
- (+ HCQ nếu kháng trị)                                 (Liều dự phòng / điều trị)
-            │                                                     │
-            └──────────────────────────┬──────────────────────────┘
-                                       │
-                                       ▼
-                       [Quản lý Peri-partum & Postpartum]
-                       • Tạm ngưng LMWH 12-24h trước mổ/gây tê
-                       • Tái khởi động sau sinh 6-12h
-                       • Kháng đông hậu sản kéo dài 6 tuần
+```mermaid
+graph TD
+    A["BỆNH NHÂN CÓ TĂNG ĐÔNG MÁU"] -- "Xét nghiệm Tự kháng thể vs Gen" --> B["Bản chất Tự miễn: APS"]
+    A -- "Xét nghiệm Tự kháng thể vs Gen" --> C["Bản chất Gen: Tăng đông di truyền"]
+
+    B --> D["Phác đồ: LDA + LMWH<br>(+ HCQ nếu kháng trị)"]
+    C --> E["Phác đồ: LMWH đơn thuần<br>(Liều dự phòng / điều trị)"]
+
+    D --> F["Quản lý Peri-partum & Postpartum<br>• Tạm ngưng LMWH 12-24h trước mổ/gây tê<br>• Tái khởi động sau sinh 6-12h<br>• Kháng đông hậu sản kéo dài 6 tuần"]
+    E --> F
 ```
 
 _Hình "Sơ đồ thuật toán tiếp cận và lựa chọn phác đồ điều trị giữa APS và Tăng đông di truyền"_.

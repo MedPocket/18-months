@@ -6,6 +6,7 @@ import starlightLinksValidator from "starlight-links-validator";
 
 import { sidebar } from "./config/sidebar";
 import { satteriExternalLinks } from "./src/plugins/satteri-external-links";
+import { satteriMermaid } from "./src/plugins/satteri-mermaid";
 import { satteriReadingTime } from "./src/plugins/satteri-reading-time";
 
 const site =
@@ -21,9 +22,13 @@ export default defineConfig({
   site,
   base,
   markdown: {
+    syntaxHighlight: {
+      type: "shiki",
+      excludeLangs: ["mermaid"],
+    },
     processor: satteri({
       mdastPlugins: [satteriReadingTime],
-      hastPlugins: [satteriExternalLinks],
+      hastPlugins: [satteriExternalLinks, satteriMermaid],
     }),
   },
   integrations: [
@@ -56,7 +61,7 @@ export default defineConfig({
         Sidebar: "./src/components/Sidebar.astro",
         PageTitle: "./src/components/PageTitle.astro",
       },
-      customCss: ["./src/styles/globals.css"],
+      customCss: ["./src/styles/globals.css", "./src/styles/mermaid.css"],
       social: [
         {
           icon: "github",
