@@ -198,8 +198,10 @@ Mỗi bài viết về bệnh học sản phụ khoa cần tuân theo cấu trú
 3. **Bệnh sinh** (`## Bệnh sinh`)
    - Đặc điểm giải phẫu, sinh lý.
    - Cơ chế sinh lý bệnh.
-5.  **Yếu tố nguy cơ** (`## Yếu tố nguy cơ`)
-   - Các yếu tố làm tăng khả năng mắc bệnh (đối tượng nguy cơ cao).
+4. **Yếu tố nguy cơ** (`## Yếu tố nguy cơ`)
+
+- Các yếu tố làm tăng khả năng mắc bệnh (đối tượng nguy cơ cao).
+
 5. **Chẩn đoán** (`## Chẩn đoán`)
    - `### Lâm sàng`: Triệu chứng cơ năng (bệnh nhân khai), triệu chứng thực thể (bác sĩ khám).
    - `### Cận lâm sàng`: Xét nghiệm, chẩn đoán hình ảnh (Siêu âm, MRI...), thăm dò chức năng.
