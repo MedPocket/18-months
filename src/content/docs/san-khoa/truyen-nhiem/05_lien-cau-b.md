@@ -17,8 +17,8 @@ Nhờ triển khai chiến lược tầm soát diện rộng và áp dụng IAP,
 
 **Cơ chế lây truyền:**
 
-  - **Lây truyền dọc:** Vi khuẩn GBS từ âm đạo/trực tràng di chuyển ngược dòng vào buồng tử cung (sau khi vỡ màng ối hoặc ngay cả khi màng ối còn nguyên) hoặc trẻ hít/nuốt phải dịch âm đạo chứa GBS khi đi qua đường sinh tự nhiên.
-  - **Cơ chế gây bệnh ở trẻ sơ sinh:** Sau khi xâm nhập vào đường hô hấp hoặc tiêu hóa của thai nhi, vi khuẩn đi qua màng phế nang - mao mạch vào máu, gây nhiễm trùng huyết, viêm phổi, và có thể vượt qua hàng rào máu - não gây viêm màng não.
+- **Lây truyền dọc:** Vi khuẩn GBS từ âm đạo/trực tràng di chuyển ngược dòng vào buồng tử cung (sau khi vỡ màng ối hoặc ngay cả khi màng ối còn nguyên) hoặc trẻ hít/nuốt phải dịch âm đạo chứa GBS khi đi qua đường sinh tự nhiên.
+- **Cơ chế gây bệnh ở trẻ sơ sinh:** Sau khi xâm nhập vào đường hô hấp hoặc tiêu hóa của thai nhi, vi khuẩn đi qua màng phế nang - mao mạch vào máu, gây nhiễm trùng huyết, viêm phổi, và có thể vượt qua hàng rào máu - não gây viêm màng não.
 
 ## Yếu tố nguy cơ
 
@@ -92,7 +92,7 @@ Thai phụ được xác định có chỉ định dự phòng kháng sinh trong
 _Bảng "Chỉ định và Không chỉ định dự phòng kháng sinh trong sinh (IAP)". Nguồn: ACOG Committee Opinion No. 797 (2020)_.
 
 | Chỉ định IAP                                                 | Không chỉ định IAP                                                                 |
-| ----------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ------------------------------------------------------------ | ---------------------------------------------------------------------------------- |
 | Cấy GBS âm đạo - trực tràng (+), thai **36⁰/⁷ – 37⁶/⁷ tuần** | Cấy GBS âm đạo - trực tràng (-), thai kỳ hiện tại                                  |
 | Tiền sử sinh con nhiễm GBS xâm lấn                           | Mổ lấy thai chủ động khi chưa chuyển dạ và màng ối còn nguyên (dù GBS dương tính)  |
 | Tiền sử nhiễm vi khuẩn niệu GBS trong thai kỳ hiện tại       | Không rõ GBS nhưng sinh đủ tháng (**≥ 37⁰/⁷ tuần**), ối vỡ **< 18 giờ**, không sốt |
@@ -100,7 +100,6 @@ _Bảng "Chỉ định và Không chỉ định dự phòng kháng sinh trong si
 | Chưa có kết quả GBS + Ối vỡ **≥ 18 giờ**                     |                                                                                    |
 | Chưa có kết quả GBS + Sốt trong chuyển dạ (**≥ 38.0 °C**)    |                                                                                    |
 | Chưa có kết quả GBS + NAAT/PCR trong chuyển dạ (+)           |                                                                                    |
-
 
 ### Nội khoa
 
