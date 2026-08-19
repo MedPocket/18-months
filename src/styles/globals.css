@@ -1,7 +1,7 @@
 /* Dark mode colors. */
 :root {
   --sl-color-accent-low: #0a2c14;
-  --sl-color-accent: #008038;
+  --sl-color-accent: oklch(0.52 0.16 150);
   --sl-color-accent-high: #aed4b4;
   --sl-color-white: #ffffff;
   --sl-color-gray-1: #eceef2;
@@ -16,7 +16,7 @@
 /* Light mode colors. */
 :root[data-theme="light"] {
   --sl-color-accent-low: #c3e0c8;
-  --sl-color-accent: #008239;
+  --sl-color-accent: oklch(0.52 0.16 150);
   --sl-color-accent-high: #003e18;
   --sl-color-white: #17181c;
   --sl-color-gray-1: #24272f;
@@ -68,7 +68,7 @@ a[data-footnote-backref],
   margin-left: 0.35em;
   padding: 0.1em 0.35em;
   border-radius: 0.25rem;
-  color: var(--sl-color-text-accent, var(--sl-color-accent));
+  color: oklch(0.52 0.16 150);
   text-decoration: none;
   font-size: 0.85em;
   line-height: 1;
@@ -82,13 +82,13 @@ a[data-footnote-backref],
 a[data-footnote-backref]:hover,
 .data-footnote-backref:hover {
   background-color: var(--sl-color-accent-low);
-  color: var(--sl-color-text-accent, var(--sl-color-accent-high));
+  color: oklch(0.48 0.17 150);
   text-decoration: none;
   transform: translateY(-1px);
 }
 
 a[data-footnote-backref]:focus-visible,
 .data-footnote-backref:focus-visible {
-  outline: 2px solid var(--sl-color-text-accent, var(--sl-color-accent));
+  outline: 2px solid oklch(0.52 0.16 150);
   outline-offset: 1px;
 }
