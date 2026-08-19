@@ -130,11 +130,14 @@ _Hình "Phác đồ 1 nguyên tắc xử trí thai trứng". Nguồn: Bệnh vi�
 
 ## Trong thai kỳ
 
-Hiếm, chẩn đoán khi siêu âm thấy nang nước kèm túi thai bình thường. Nếu không có di căn và NST thai bình thường, có thể tiếp tục theo dõi đến khi sinh. Cần siêu âm thường xuyên và định lượng β-hCG để phát hiện biến chứng sớm.
+Hiếm, chẩn đoán khi siêu âm thấy nang nước kèm túi thai bình thường. Nếu không có di căn và NST thai bình thường, có thể tiếp tục theo dõi đến khi sinh. Cần siêu âm thường xuyên và định lượng β-hCG để phát hiện biến chứng sớm.[^1][^2][^3][^4]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning: Bệnh nguyên bào nuôi_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa: Thai trứng_.
-- FIGO Oncology Committee (2002) - _FIGO staging for gestational trophoblastic tumors_.
-- Lurain JR (2010) - _Gestational trophoblastic disease II: Classification and management_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^3]: FIGO Oncology Committee (2002) - _FIGO staging for gestational trophoblastic tumors_.
+
+[^4]: Lurain JR (2010) - _Gestational trophoblastic disease II: Classification and management_.

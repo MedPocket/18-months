@@ -88,8 +88,8 @@ Nhận định kết quả HyCoSy:
 
 ### Biến chứng
 
-Nhẹ, hiếm đau quặn, choáng váng, ra huyết nhẹ, nhiễm trùng rất hiếm.
+Nhẹ, hiếm đau quặn, choáng váng, ra huyết nhẹ, nhiễm trùng rất hiếm.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+[^1]: Bệnh viện Hùng Vương. _Phác đồ Hiếm muộn cập nhật 2020_. Accessed 2024. https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020

@@ -143,9 +143,10 @@ _Hình "Sơ đồ xử trí tiết dịch âm đạo bất thường". Nguồn: 
 **Timbov (Clotrimazole 500 mg):**
 
 - Điều trị: Nhiễm nấm âm hộ âm đạo, đặc biệt _Candida_, hoặc viêm hỗn hợp kèm vi khuẩn, _Trichomonas_.
-- Liều: Đặt 1 viên vào âm đạo trước khi ngủ x 7 - 14 ngày tùy mức độ.
+- Liều: Đặt 1 viên vào âm đạo trước khi ngủ x 7 - 14 ngày tùy mức độ.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

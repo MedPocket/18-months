@@ -99,10 +99,12 @@ Triệu chứng thường không đặc hiệu, bao gồm:
 ### Ngoại khoa
 
 - Dẫn lưu ổ mủ, áp-xe, viêm phúc mạc, viêm xương khớp mủ khi có chỉ định.
-- Lấy bỏ dụng cụ y tế (catheter, ống thông) nếu là nguồn nhiễm khuẩn.
+- Lấy bỏ dụng cụ y tế (catheter, ống thông) nếu là nguồn nhiễm khuẩn.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- Nelson Textbook of Pediatrics, 21st Edition.
-- WHO - _Hướng dẫn chẩn đoán và điều trị nhiễm khuẩn sơ sinh_.
-- Bộ Y tế - _Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ sơ sinh_.
+[^1]: Nelson Textbook of Pediatrics, 21st Edition.
+
+[^2]: WHO - _Hướng dẫn chẩn đoán và điều trị nhiễm khuẩn sơ sinh_.
+
+[^3]: Bộ Y tế Việt Nam. _Hướng dẫn chẩn đoán và điều trị một số bệnh thường gặp ở trẻ sơ sinh_. NXB Y học.

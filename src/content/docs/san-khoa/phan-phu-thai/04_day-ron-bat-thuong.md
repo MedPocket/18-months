@@ -90,8 +90,8 @@ Khi màng ối vỡ, các mạch máu có thể bị vỡ, làm tăng nguy cơ t
 - Khi thai đã có khả năng nuôi được mà xảy ra vỡ ối non hoặc chuyển dạ, chấm dứt thai kỳ bằng **mổ lấy thai**.
 - **Mổ lấy thai cấp cứu** khi có xuất huyết âm đạo kèm nhịp tim thai nhanh, biểu đồ tim thai hình sin hoặc có bằng chứng thiếu máu thai nhi.
 - Trong trường hợp xuất huyết âm đạo kèm biểu đồ tim thai hình sin, cần nghĩ đến mạch máu tiền đạo và tiến hành mổ lấy thai cấp cứu, đồng thời hồi sức sơ sinh, bao gồm truyền máu nếu cần.
-- Đối với **thai chết lưu hoặc tổn thương thai nhi cấp tính**, sau sinh cần kiểm tra bánh rau để phát hiện bất thường. Trong trường hợp **thai chết lưu**, cân nhắc khởi phát chuyển dạ nếu không có chống chỉ định.
+- Đối với **thai chết lưu hoặc tổn thương thai nhi cấp tính**, sau sinh cần kiểm tra bánh rau để phát hiện bất thường. Trong trường hợp **thai chết lưu**, cân nhắc khởi phát chuyển dạ nếu không có chống chỉ định.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

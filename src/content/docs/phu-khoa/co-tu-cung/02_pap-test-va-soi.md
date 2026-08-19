@@ -197,8 +197,8 @@ _Hình "Cổ tử cung tái tạo với lưỡi biểu mô chuyển sản lát n
 - Loét cổ tử cung.
 - Teo biểu mô.
 - Condyloma và papilloma.
-- Polyp kênh cổ tử cung, u nhú, nang Naboth...
+- Polyp kênh cổ tử cung, u nhú, nang Naboth.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

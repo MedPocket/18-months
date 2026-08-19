@@ -121,9 +121,10 @@ Có 3 lựa chọn chính:
 2. **Điều trị nội khoa bằng misoprostol:** Khuyến cáo 800 µg đặt âm đạo khởi đầu, có thể lặp lại nếu cần.
 3. **Hút lòng tử cung:** Thực hiện nhanh, ít mất máu, nhưng có nguy cơ thủng tử cung và nhiễm trùng.
 
-Khi chọn theo dõi, cần tái siêu âm và có thể đo β-hCG để đánh giá giảm nồng độ (> 80% sau 1 tuần).
+Khi chọn theo dõi, cần tái siêu âm và có thể đo β-hCG để đánh giá giảm nồng độ (> 80% sau 1 tuần).[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Perinatology - [_Beta hCG Doubling Time Calculator_](https://perinatology.com/calculators/betahCG.htm)
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Perinatology - [_Beta hCG Doubling Time Calculator_](https://perinatology.com/calculators/betahCG.htm)

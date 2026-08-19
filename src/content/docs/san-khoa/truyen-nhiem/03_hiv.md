@@ -102,10 +102,12 @@ _Bảng "Xét nghiệm HIV"_.
 ### Điều trị
 
 - Nếu mới tiếp xúc < 72 giờ → **đi khám ngay để cân nhắc dùng PEP (thuốc phơi nhiễm)** nhằm giảm nguy cơ nhiễm.
-- Tránh quan hệ tình dục, hiến máu trong thời gian chờ xét nghiệm.
+- Tránh quan hệ tình dục, hiến máu trong thời gian chờ xét nghiệm.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- World Health Organization (WHO) (2021) - _Consolidated Guidelines on HIV Prevention, Testing, Treatment, Service Delivery and Monitoring_.
-- Centers for Disease Control and Prevention (CDC) (2022) - _HIV and Pregnancy_.
-- American College of Obstetricians and Gynecologists (ACOG) (2020) - _Committee Opinion No. 762: Human Immunodeficiency Virus (HIV) and Pregnancy_.
+[^1]: World Health Organization (WHO) (2021) - _Consolidated Guidelines on HIV Prevention, Testing, Treatment, Service Delivery and Monitoring_.
+
+[^2]: Centers for Disease Control and Prevention (CDC) (2022) - _HIV and Pregnancy_.
+
+[^3]: American College of Obstetricians and Gynecologists (ACOG) (2020) - _Committee Opinion No. 762: Human Immunodeficiency Virus (HIV) and Pregnancy_.

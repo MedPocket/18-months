@@ -60,8 +60,8 @@ _Hình "Đảo ngược dòng chảy trong tâm trương động mạch rốn"_.
 
 Ở thai kỳ bình thường, trở kháng của động mạch não giữa (Middle Cerebral Artery - MCA) cao hơn động mạch rốn. Trong trường hợp thiếu O₂ trường diễn, hiện tượng giãn mạch não xảy ra, làm chỉ số trở kháng này đảo ngược.
 
-Đỉnh tâm thu của động mạch não giữa liên quan chặt chẽ đến tình trạng thiếu máu nặng của bào thai (độ nhạy gần 100%). Khi thiếu máu mức độ trung bình hoặc nhẹ, độ dương giả sẽ tăng dần.
+Đỉnh tâm thu của động mạch não giữa liên quan chặt chẽ đến tình trạng thiếu máu nặng của bào thai (độ nhạy gần 100%). Khi thiếu máu mức độ trung bình hoặc nhẹ, độ dương giả sẽ tăng dần.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

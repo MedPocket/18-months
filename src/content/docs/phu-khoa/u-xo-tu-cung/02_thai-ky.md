@@ -46,9 +46,10 @@ Trước can thiệp, bệnh nhân phải được tư vấn về nguy cơ dính
 
 Đánh giá **tổng trạng, dự trữ buồng trứng** (AMH, FSH). Ưu tiên chu kỳ ICSI nếu vòi Fallop tổn thương nặng.
 
-Đối với nhân xơ kích thước nhỏ, không biến dạng lòng tử cung, có thể bắt đầu ART, theo dõi sát.
+Đối với nhân xơ kích thước nhỏ, không biến dạng lòng tử cung, có thể bắt đầu ART, theo dõi sát.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

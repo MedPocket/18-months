@@ -60,12 +60,16 @@ _Bảng "OGTT 75 g thực hiện sau sinh"_.
 - **Tiền đái tháo đường/ĐTĐ:** Chuyển khám Nội tiết, cân nhắc điều trị nội tiết và chương trình thay đổi lối sống tích cực.
 
 ![Theo dõi và quản lý ĐTĐ sau sinh](./_images/theo-doi-va-quan-ly-dai-thao-duong-sau-sinh.jpg)
-_Hình "Quy trình theo dõi và quản lý ĐTĐ sau sinh"_.
+_Hình "Quy trình theo dõi và quản lý ĐTĐ sau sinh"_.[^1][^2][^3][^4][^5]
 
 ## Tài liệu tham khảo
 
-- Bộ Y Tế (2023) - _Hướng dẫn quốc gia về sàng lọc và quản lý đái tháo đường thai kỳ_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- TS. Lê Quang Toàn - [_Bài giảng đái tháo đường thai kỳ_](https://www.youtube.com/watch?v=WV4g4cJdMCo)
-- ADA (2024) - _Standards of Medical Care in Diabetes - Pregnancy Section_.
-- WHO (2013) - _Diagnostic criteria and classification of hyperglycaemia first detected in pregnancy_.
+[^1]: Bộ Y tế Việt Nam. _Hướng dẫn quốc gia về sàng lọc và quản lý đái tháo đường thai kỳ_. NXB Y học; 2023.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^3]: TS. Lê Quang Toàn - [_Bài giảng đái tháo đường thai kỳ_](https://www.youtube.com/watch?v=WV4g4cJdMCo)
+
+[^4]: ADA (2024) - _Standards of Medical Care in Diabetes - Pregnancy Section_.
+
+[^5]: WHO (2013) - _Diagnostic criteria and classification of hyperglycaemia first detected in pregnancy_.

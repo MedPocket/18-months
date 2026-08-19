@@ -104,8 +104,8 @@ Bong rau làm gián đoạn trao đổi khí mẹ-thai. Nguy cơ tử vong trong
 - **Tia ối sớm:** Giảm áp lực khối máu tụ, giảm phóng thích thromboplastin, thúc đẩy chuyển dạ.
 - Nếu thai đủ khả năng sống và không thể sinh ngả nhanh, mổ lấy thai là ưu tiên.
 - Nếu thai đã mất hoặc không khả năng sống, có thể sinh ngả.
-- **Rau bong non càng để lâu càng mất máu và DIC càng nặng.**
+- **Rau bong non càng để lâu càng mất máu và DIC càng nặng.**.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

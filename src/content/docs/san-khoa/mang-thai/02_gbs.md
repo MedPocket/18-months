@@ -122,8 +122,8 @@ GBS tiết enzyme phospholipase A₂, kích thích tổng hợp prostaglandin c�
 - Bỏ bú.
 - Nhiệt độ < 36 °C hoặc > 38 °C.
 - Thở nhanh.
-- Da đổi màu bất thường.
+- Da đổi màu bất thường.[^1]
 
-### Tài liệu tham khảo
+## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

@@ -129,10 +129,12 @@ _Hình "Đánh giá vô kinh thứ phát"_.
 - **Gây rụng trứng:** Clomiphene citrate, letrozole, gonadotropin.
 - **Thay thế hormon:** Vòng kinh nhân tạo (estriol 1 mg x 14 ngày → kết hợp estrogen/progestin 12 ngày; Dừng 2 ngày để xuất huyết); Điều trị kéo dài để phòng loãng xương, khô âm đạo.
 - **Giảm thừa androgen:** Spironolactone, thuốc ức chế androgen, biện pháp tẩy lông.
-- **Phẫu thuật hoặc can thiệp giải phẫu:** Nong/khâu mở cổ tử cung, tách dính trong Asherman; Điều trị u vùng hạ đồi/tuyến yên.
+- **Phẫu thuật hoặc can thiệp giải phẫu:** Nong/khâu mở cổ tử cung, tách dính trong Asherman; Điều trị u vùng hạ đồi/tuyến yên.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- Dieutri - [_Bài giảng vô kinh không hành kinh_](https://www.dieutri.vn/bgsanphukhoa/bai-giang-vo-kinh-khong-hanh-kinh)
-- MSD Manual - [_Amenorrhea_](https://www.msdmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea)
-- ASRM 2024 - _Đánh giá vô kinh_.
+[^1]: Dieutri - [_Bài giảng vô kinh không hành kinh_](https://www.dieutri.vn/bgsanphukhoa/bai-giang-vo-kinh-khong-hanh-kinh)
+
+[^2]: MSD Manuals. _Amenorrhea_. Cẩm nang MSD. Accessed 2024. https://www.msdmanuals.com/professional/gynecology-and-obstetrics/menstrual-abnormalities/amenorrhea
+
+[^3]: ASRM 2024 - _Đánh giá vô kinh_.

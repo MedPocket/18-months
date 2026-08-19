@@ -60,10 +60,10 @@ Bệnh nhân có **lạc nội mạc tử cung vùng chậu** hoặc **lạc tuy
 
 - Lựa chọn chế phẩm chứa rec-LH/hCG nếu BN có đáp ứng kém hay > 35 tuổi.
 - Nếu có nguy cơ OHSS chuyển sang IVM hoặc dừng trưởng thành cuối cùng của noãn bằng bolus GnRH đồng vận để giảm tối đa quá kích buồng trứng. Nếu còn nguy cơ sử dụng thêm các biện pháp khác: Trữ phôi toàn bộ, sử dụng dopamin agonist (bromocriptine hoặc cabergoline) sau chọc hút noãn, truyền hydroxyethyl starch hay human albumin sau chọc hút noãn.
-- Nếu đáp ứng không lý tưởng cần bổ sung LH, đơn giản nhất là HMG.
+- Nếu đáp ứng không lý tưởng cần bổ sung LH, đơn giản nhất là HMG.[^1]
 
 :::
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+[^1]: Bệnh viện Hùng Vương. _Phác đồ Hiếm muộn cập nhật 2020_. Accessed 2024. https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020

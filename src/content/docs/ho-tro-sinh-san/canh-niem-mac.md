@@ -36,8 +36,8 @@ Cụ thể:
 Có thể bổ sung progesterone sau gây phóng noãn 2 ngày:
 
 - Progesterone micronized (utrogestan, progendo, cyclogest, crinone 8%) liều 200 mg x 3 lần/ngày, dùng 3-5 ngày.
-- Chuyển phôi ngày 3 sau 5 ngày kể từ khi gây phóng noãn. Chuyển phôi ngày 5 sau 7 ngày kể từ khi gây phóng noãn.
+- Chuyển phôi ngày 3 sau 5 ngày kể từ khi gây phóng noãn. Chuyển phôi ngày 5 sau 7 ngày kể từ khi gây phóng noãn.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Hùng Vương - [_Phác đồ hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+[^1]: Bệnh viện Hùng Vương. _Phác đồ hiếm muộn cập nhật 2020_. Accessed 2024. https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020

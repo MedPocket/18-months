@@ -89,11 +89,14 @@ Do sự dao động sinh học tự nhiên của quá trình sinh tinh, kết qu
 - **Điều trị ngoại khoa**: Phẫu thuật thắt tĩnh mạch thừng tinh giãn; Phẫu thuật vi phẫu nối ống dẫn tinh hoặc nối tinh hoàn - ống dẫn tinh trong tắc nghẽn.
 - **Hỗ trợ sinh sản (ART)**:
   - **IUI (Bơm tinh trùng vào tử cung)**: Áp dụng khi yếu nhẹ/trung bình (cần tổng số tinh trùng di động sau rửa **≥ 5 triệu**).
-  - **IVF/ICSI (Thụ tinh trong ống nghiệm / Tiêm tinh trùng vào cơ tương trứng)**: Áp dụng cho hội chứng OAT nặng, tuổi mẹ lớn, hoặc _Azoospermia_ sau khi thực hiện thủ thuật thu gom tinh trùng từ tinh hoàn/mào tinh (TESE/PESA/Micro-TESE).
+  - **IVF/ICSI (Thụ tinh trong ống nghiệm / Tiêm tinh trùng vào cơ tương trứng)**: Áp dụng cho hội chứng OAT nặng, tuổi mẹ lớn, hoặc _Azoospermia_ sau khi thực hiện thủ thuật thu gom tinh trùng từ tinh hoàn/mào tinh (TESE/PESA/Micro-TESE).[^1][^2][^3][^4]
 
 ## Tài liệu tham khảo
 
-- World Health Organization (2021) - _WHO laboratory manual for the examination and processing of human semen (6th ed.)_. World Health Organization, Geneva.
-- European Association of Urology (EAU) (2024) - _EAU Guidelines on Male Sexual and Reproductive Health_. EAU Guidelines Office, Arnhem, The Netherlands.
-- American Urological Association / American Society for Reproductive Medicine (2021) - _Diagnosis and Treatment of Infertility In Men: AUA/ASRM Guideline_. Journal of Urology.
-- Agarwal A., et al. (2022) - _A comprehensive guide to relevant etiologies, diagnostics, and management strategies for male infertility_. World Journal of Men's Health, 40(2), 200-228.
+[^1]: World Health Organization (2021) - _WHO laboratory manual for the examination and processing of human semen (6th ed.)_. World Health Organization, Geneva.
+
+[^2]: European Association of Urology (EAU) (2024) - _EAU Guidelines on Male Sexual and Reproductive Health_. EAU Guidelines Office, Arnhem, The Netherlands.
+
+[^3]: American Urological Association / American Society for Reproductive Medicine (2021) - _Diagnosis and Treatment of Infertility In Men: AUA/ASRM Guideline_. Journal of Urology.
+
+[^4]: Agarwal A., et al. (2022) - _A comprehensive guide to relevant etiologies, diagnostics, and management strategies for male infertility_. World Journal of Men's Health, 40(2), 200-228.

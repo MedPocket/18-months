@@ -43,8 +43,8 @@ Có hai tình huống vỡ tử cung:
 ## Điều trị
 
 - **Phẫu thuật khẩn cấp** ngay khi nghi ngờ vỡ tử cung.
-- Nếu hội chứng vượt trở ngại mà **tử cung chưa vỡ:** Ngậm nitroglycerine dưới lưỡi để giảm co, tránh vỡ và cải thiện tưới máu thai khi chuyển phòng mổ.
+- Nếu hội chứng vượt trở ngại mà **tử cung chưa vỡ:** Ngậm nitroglycerine dưới lưỡi để giảm co, tránh vỡ và cải thiện tưới máu thai khi chuyển phòng mổ.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

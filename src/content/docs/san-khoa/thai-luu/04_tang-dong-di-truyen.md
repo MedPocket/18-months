@@ -178,11 +178,14 @@ _Hình "Quy trình quản lý LMWH quanh thời điểm sinh ở bệnh nhân c�
 ### Theo dõi và Tư vấn dài hạn
 
 - Phụ nữ có tăng đông di truyền cần được tư vấn **tránh sử dụng các biện pháp tránh thai chứa Estrogen** (như viên thuốc tránh thai kết hợp, vòng âm đạo, miếng dán) sau sinh do Estrogen làm tăng nguy cơ VTE. Nên lựa chọn viên thuốc tránh thai chỉ chứa Progestin, Dụng cụ tử cung (IUD) hoặc bao cao su.
-- Tư vấn di truyền cho các thế hệ trong gia đình (con cái, anh chị em ruột) khi phát hiện các đột biến nguy cơ cao.
+- Tư vấn di truyền cho các thế hệ trong gia đình (con cái, anh chị em ruột) khi phát hiện các đột biến nguy cơ cao.[^1][^2][^3][^4]
 
 ## Tài liệu tham khảo
 
-- ACOG Practice Bulletin No. 197 (2018, Reaffirmed 2023) - _Inherited Thrombophilias in Pregnancy_. Obstetrics & Gynecology, 132(1):e18-e34.
-- RCOG Green-top Guideline No. 37a (2015) - _Reducing the Risk of Venous Thromboembolism during Pregnancy and the Puerperium_.
-- Bates SM, Rajasekhar A, Middeldorp S, et al. (2018) - _American Society of Hematology 2018 guidelines for management of venous thromboembolism: venous thromboembolism in the context of pregnancy_. Blood Advances, 2(22):3317-3359.
-- Bộ Y tế Việt Nam (2021) - _Hướng dẫn chẩn đoán và điều trị tăng đông di truyền trong thai kỳ_.
+[^1]: ACOG Practice Bulletin No. 197 (2018, Reaffirmed 2023) - _Inherited Thrombophilias in Pregnancy_. Obstetrics & Gynecology, 132(1):e18-e34.
+
+[^2]: RCOG Green-top Guideline No. 37a (2015) - _Reducing the Risk of Venous Thromboembolism during Pregnancy and the Puerperium_.
+
+[^3]: Bates SM, Rajasekhar A, Middeldorp S, et al. (2018) - _American Society of Hematology 2018 guidelines for management of venous thromboembolism: venous thromboembolism in the context of pregnancy_. Blood Advances, 2(22):3317-3359.
+
+[^4]: Bộ Y tế Việt Nam. _Hướng dẫn chẩn đoán và điều trị tăng đông di truyền trong thai kỳ_. NXB Y học; 2021.

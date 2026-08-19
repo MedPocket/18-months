@@ -72,8 +72,8 @@ _Hình "Vòi Fallope ứ dịch trên siêu âm"_.
 
 **Bệnh học:** Viêm mạn tính khiến vòi xơ hóa, bít tắc, dễ tạo ổ viêm thứ phát đa vi khuẩn (kể cả kỵ khí). Nội độc tố, cytokine, gốc tự do từ ổ viêm lan vào buồng tử cung. Môi trường dịch vòi nghèo dinh dưỡng, đặc biệt ít glucose. Ứ dịch vòi sau _Chlamydia_ có thể giảm hiệu quả làm tổ trong IVF. **Cắt bỏ vòi ứ dịch** trước IVF cải thiện tỉ lệ làm tổ. Dịch vòi tổn thương chứa độc tố, ảnh hưởng sản xuất cytokine (IL-1, LIF, CSF-1, integrin αvβ3) làm tổ.
 
-Nếu không thể cắt toàn bộ vòi do dính chặt, có thể **đứt vòi** gần buồng tử cung (salpingostomy), hiệu quả tương tự cắt vòi, nhưng ổ dịch tái ứ còn tồn tại, nguy cơ viêm lâu dài.
+Nếu không thể cắt toàn bộ vòi do dính chặt, có thể **đứt vòi** gần buồng tử cung (salpingostomy), hiệu quả tương tự cắt vòi, nhưng ổ dịch tái ứ còn tồn tại, nguy cơ viêm lâu dài.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

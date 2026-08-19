@@ -217,8 +217,8 @@ Triệu chứng đa dạng, ít liên quan chức năng buồng trứng, không 
 - Triệu chứng: Đau đột ngột, dữ dội vùng bụng, có thể sốc, thăm khám thấy khối cạnh tử cung rất đau, phúc mạc kích thích gây nôn. Bụng vẫn mềm nếu u không vỡ.
 - Điều trị ngoại khoa khẩn: Bảo tồn buồng trứng nếu tưới máu hồi phục, qua nội soi hoặc mở bụng. Nếu không chắc lành, cắt bỏ trọn phần phụ bị xoắn.
 
-**Khác:** Xuất huyết trong nang, vỡ u, chèn ép, nhiễm trùng hiếm gặp.
+**Khác:** Xuất huyết trong nang, vỡ u, chèn ép, nhiễm trùng hiếm gặp.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

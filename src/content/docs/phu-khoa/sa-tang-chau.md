@@ -129,8 +129,8 @@ _Hình "Phẫu thuật đường âm đạo". Nguồn: Bệnh viện Từ Dũ_.
 
 - **Ngả âm đạo:** BN cao tuổi (> 70), gây mê ngắn, vết mổ nhiều lần, béo phì.
 - **Ngả bụng/nội soi:** BN trẻ, mong muốn bảo tồn tử cung, sa độ III-IV, thất bại phẫu thuật ngả âm đạo.
-- **Kết hợp:** Khi cần đặt mảnh ghép qua cả hai đường để tăng hiệu quả.
+- **Kết hợp:** Khi cần đặt mảnh ghép qua cả hai đường để tăng hiệu quả.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

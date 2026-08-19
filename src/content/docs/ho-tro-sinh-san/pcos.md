@@ -196,10 +196,12 @@ Có thể sử dụng metformin 1000-2500 mg/ngày trước 8 tuần và/hoặc 
 
 #### In-Vitro Maturation (IVM)
 
-Lấy noãn non, nuôi trưởng thành ngoài cơ thể → tránh kích thích buồng trứng mạnh. Giúp giảm nguy cơ quá kích nhưng tỷ lệ sống thấp hơn IVF, được ưu tiên khi nguy cơ quá kích cao.
+Lấy noãn non, nuôi trưởng thành ngoài cơ thể → tránh kích thích buồng trứng mạnh. Giúp giảm nguy cơ quá kích nhưng tỷ lệ sống thấp hơn IVF, được ưu tiên khi nguy cơ quá kích cao.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- HOSREM - [_Cẩm nang Hội chứng buồng trứng đa nang_](https://hosrem.org.vn/detailNews/hoatdong/te-bao-la-nuoi-phoi-trophectoderm-te-o-phoi-kham-cho-thay-muc-do-chet-theo-chuong-trinh-te-bao-tang-va-khiem-khuyet-kha-nang-biet-hoa-bang-chung-sinh-hoc-phan-tu-ve-tiem-nang-sinh-san-cua-phoi-kham-8303)
-- HOSREM - [_Kéo dài thời gian điều trị letrozole ở PCOS kháng letrozole_](https://hosrem.org.vn/detailNews/thongtin/keo-dai-thoi-gian-dieu-tri-letrozole-co-hieu-qua-trong-viec-gay-rung-trung-o-phu-nu-mac-hoi-chung-buong-trung-da-nang-va-khang-letrozole-6668)
-- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+[^1]: Hội Nội tiết sinh sản và Vô sinh TP.HCM (HOSREM). _Cẩm nang Hội chứng buồng trứng đa nang_. Accessed 2024. https://hosrem.org.vn/detailNews/hoatdong/te-bao-la-nuoi-phoi-trophectoderm-te-o-phoi-kham-cho-thay-muc-do-chet-theo-chuong-trinh-te-bao-tang-va-khiem-khuyet-kha-nang-biet-hoa-bang-chung-sinh-hoc-phan-tu-ve-tiem-nang-sinh-san-cua-phoi-kham-8303
+
+[^2]: Hội Nội tiết sinh sản và Vô sinh TP.HCM (HOSREM). _Kéo dài thời gian điều trị letrozole ở PCOS kháng letrozole_. Accessed 2024. https://hosrem.org.vn/detailNews/thongtin/keo-dai-thoi-gian-dieu-tri-letrozole-co-hieu-qua-trong-viec-gay-rung-trung-o-phu-nu-mac-hoi-chung-buong-trung-da-nang-va-khang-letrozole-6668
+
+[^3]: Bệnh viện Hùng Vương. _Phác đồ Hiếm muộn cập nhật 2020_. Accessed 2024. https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020

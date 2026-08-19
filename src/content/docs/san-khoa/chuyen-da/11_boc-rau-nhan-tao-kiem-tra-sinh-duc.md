@@ -118,8 +118,8 @@ _Hình "Kỹ thuật bóc rau nhân tạo"_.
 
 - Rạch sâu hoặc chảy máu nhiều: Khâu tại phòng mổ + gây tê/ mê.
 - Rách nhẹ: Khâu tại giường sinh, tê tại chỗ.
-- Đảm bảo khâu đúng tầng, không để khoang ảo, thăm trực tràng sau khâu.
+- Đảm bảo khâu đúng tầng, không để khoang ảo, thăm trực tràng sau khâu.[^1]
 
 ## Tài liệu tham khảo
 
-- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản Phụ khoa_.
+[^1]: PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản Phụ khoa_.

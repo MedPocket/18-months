@@ -107,8 +107,8 @@ Các yếu tố này có ảnh hưởng qua lại lẫn nhau và được theo d
 7. Sinh hiệu của mẹ (mạch, huyết áp, nhiệt độ...).
 
 ![Biểu đồ chuyển dạ](./_images/sinh-ly-chuyen-da/bieu-do-chuyen-da.jpeg)
-_Hình "Biểu đồ chuyển dạ giúp theo dõi tiến trình chuyển dạ một cách trực quan"_.
+_Hình "Biểu đồ chuyển dạ giúp theo dõi tiến trình chuyển dạ một cách trực quan"_.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

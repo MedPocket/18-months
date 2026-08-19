@@ -214,11 +214,14 @@ Không sử dung **Doxycycline, Tetracycline, Ofloxacin, Levofloxacin** (gây �
 - **Tái khám sau 3 tháng:** Tất cả các trường hợp nhiễm Chlamydia nên được sàng lọc lại NAAT sau 3 tháng kể từ ngày điều trị dù đã hết triệu chứng để phát hiện tái nhiễm.
 - **Nếu không thể tái khám sau 3 tháng**, có thể xét nghiệm bất kỳ lúc nào trong khoảng 3 - 12 tháng sau điều trị đầu tiên.
 - **Đánh giá biến chứng:** Với phụ nữ có dấu hiệu PID, cần siêu âm đầu dò âm đạo; Với nam giới viêm mào tinh hoàn, cần siêu âm tinh hoàn.
-- **Sàng lọc đồng nhiễm STI:** Luôn thực hiện xét nghiệm HIV, giang mai, lậu khi chẩn đoán Chlamydia vì tỷ lệ đồng nhiễm cao.
+- **Sàng lọc đồng nhiễm STI:** Luôn thực hiện xét nghiệm HIV, giang mai, lậu khi chẩn đoán Chlamydia vì tỷ lệ đồng nhiễm cao.[^1][^2][^3][^4]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- Centers for Disease Control and Prevention (CDC) (2015) - _Sexually Transmitted Diseases Treatment Guidelines: Trichomoniasis_.
-- World Health Organization (WHO) (2020) - _Global Health Sector Strategy on Sexually Transmitted Infections, 2016 - 2021_.
-- Schwebke, J. R., Burgess, D. (2004) - _Trichomoniasis: Reevaluation of clinical and public health significance_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^2]: Centers for Disease Control and Prevention (CDC) (2015) - _Sexually Transmitted Diseases Treatment Guidelines: Trichomoniasis_.
+
+[^3]: World Health Organization (WHO) (2020) - _Global Health Sector Strategy on Sexually Transmitted Infections, 2016 - 2021_.
+
+[^4]: Schwebke, J. R., Burgess, D. (2004) - _Trichomoniasis: Reevaluation of clinical and public health significance_.

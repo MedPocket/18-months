@@ -135,8 +135,8 @@ Thường thực hiện cùng Pap smear (co-testing). **Âm tính HPV → độ 
 
 - HPV (−): Xét nghiệm lại sau 3 năm.
 - HPV (+) type 16/18: Soi cổ tử cung.
-- HPV (+) type cao khác: Làm tế bào học; Nếu bình thường → theo dõi 1 năm; Nếu bất thường → soi cổ tử cung.
+- HPV (+) type cao khác: Làm tế bào học; Nếu bình thường → theo dõi 1 năm; Nếu bất thường → soi cổ tử cung.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

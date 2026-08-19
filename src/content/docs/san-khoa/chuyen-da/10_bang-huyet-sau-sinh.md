@@ -96,8 +96,8 @@ _Hình "Lộn tử cung và kỹ thuật đưa tử cung về bình thường"_.
 - Nhận diện yếu tố nguy cơ trước sinh.
 - Xử trí tích cực giai đoạn 3 chuyển dạ (oxytocin, kéo dây rốn có kiểm soát, xoa đáy tử cung).
 - Cho bú sớm để tăng co hồi tử cung.
-- Kiểm tra bánh rau và đường sinh dưới sau sổ rau.
+- Kiểm tra bánh rau và đường sinh dưới sau sổ rau.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

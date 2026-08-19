@@ -136,10 +136,12 @@ Thay máu là **điều trị hàng thứ hai.**
 **Điều trị nguyên nhân:**
 
 - Điều trị đặc hiệu bằng thuốc (như Globulin miễn dịch tiêm tĩnh mạch - IVIG, kháng sinh trong vàng da nhiễm khuẩn...)
-- Phẫu thuật (tắc mật bẩm sinh).
+- Phẫu thuật (tắc mật bẩm sinh).[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- Trần Thị Lợi - _Nhi khoa - Bài giảng vàng da sơ sinh_.
-- Cloherty JP, Eichenwald EC, Hansen AR, Stark AR - _Manual of Neonatal Care_. Wolters Kluwer.
-- American Academy of Pediatrics (AAP) - _Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation_.
+[^1]: Trần Thị Lợi - _Nhi khoa - Bài giảng vàng da sơ sinh_.
+
+[^2]: Cloherty JP, Eichenwald EC, Hansen AR, Stark AR - _Manual of Neonatal Care_. Wolters Kluwer.
+
+[^3]: American Academy of Pediatrics (AAP) - _Management of Hyperbilirubinemia in the Newborn Infant 35 or More Weeks of Gestation_.

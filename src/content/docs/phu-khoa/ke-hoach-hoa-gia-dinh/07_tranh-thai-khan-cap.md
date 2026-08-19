@@ -133,9 +133,10 @@ Sau đặt:
 - Không thụt rửa âm đạo.
 - Tái khám sau 4 - 6 tuần.
 
-Có thể giữ vòng để tránh thai lâu dài hoặc tháo khi không còn nhu cầu. Nếu chỉ muốn tránh thai khẩn cấp tạm thời, có thể tháo vòng khi đến kỳ kinh tiếp theo.
+Có thể giữ vòng để tránh thai lâu dài hoặc tháo khi không còn nhu cầu. Nếu chỉ muốn tránh thai khẩn cấp tạm thời, có thể tháo vòng khi đến kỳ kinh tiếp theo.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^2]: World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.

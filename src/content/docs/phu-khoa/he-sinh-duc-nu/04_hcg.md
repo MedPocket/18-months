@@ -70,10 +70,11 @@ _Bảng "Ngưỡng β-hCG"_.
 | **4 - 6 tuần sau sinh** | < 5                |
 
 :::caution
-Nếu β-hCG > 1500 mIU/mL (siêu âm đầu dò âm đạo) hoặc > 3000 mIU/mL (siêu âm qua thành bụng) mà không thấy túi thai → cân nhắc thai ngoài tử cung hoặc thai bất thường.
+Nếu β-hCG > 1500 mIU/mL (siêu âm đầu dò âm đạo) hoặc > 3000 mIU/mL (siêu âm qua thành bụng) mà không thấy túi thai → cân nhắc thai ngoài tử cung hoặc thai bất thường.[^1][^2]
 :::
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- American Pregnancy Association - _Early Fetal Development_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: American Pregnancy Association - _Early Fetal Development_.

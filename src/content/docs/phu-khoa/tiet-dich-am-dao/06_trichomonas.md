@@ -134,13 +134,16 @@ Hướng điều trị cần đa dạng để bao phủ cả chủng đề khán
 - Luôn điều trị đồng thời cho bạn tình để ngăn tái nhiễm.
 - Tránh uống rượu bia trong và 48 giờ sau khi dùng Metronidazole/Tinidazole để tránh hội chứng Disulfiram-like (buồn nôn, nôn, đỏ bừng mặt).
 - **Metronidazole không dùng trong 3 tháng đầu thai kỳ** (đặc biệt liều kéo dài).
-- Nếu bệnh nhân dị ứng Metronidazole/Tinidazole, chuyển sang Secnidazole 2 g liều đơn (nếu có sẵn).
+- Nếu bệnh nhân dị ứng Metronidazole/Tinidazole, chuyển sang Secnidazole 2 g liều đơn (nếu có sẵn).[^1][^2][^3][^4]
 
 :::
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- Centers for Disease Control and Prevention (CDC) (2015) - _Sexually Transmitted Diseases Treatment Guidelines: Trichomoniasis_.
-- World Health Organization (WHO) (2020) - _Global Health Sector Strategy on Sexually Transmitted Infections, 2016 - 2021_.
-- Schwebke, J. R., Burgess, D. (2004) - _Trichomoniasis: Reevaluation of clinical and public health significance_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^2]: Centers for Disease Control and Prevention (CDC) (2015) - _Sexually Transmitted Diseases Treatment Guidelines: Trichomoniasis_.
+
+[^3]: World Health Organization (WHO) (2020) - _Global Health Sector Strategy on Sexually Transmitted Infections, 2016 - 2021_.
+
+[^4]: Schwebke, J. R., Burgess, D. (2004) - _Trichomoniasis: Reevaluation of clinical and public health significance_.

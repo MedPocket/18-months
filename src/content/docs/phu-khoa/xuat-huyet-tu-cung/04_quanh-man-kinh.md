@@ -209,11 +209,14 @@ Phương pháp: Mổ mở, mổ nội soi hoặc mổ robotic tùy tình trạng
 
 - Sau điều trị, kiểm tra độ dày nội mạc 6-12 tháng/lần nếu còn dùng progestogen/chưa phẫu thuật.
 - Ngưng hẳn liệu pháp nội tiết khi chuyển sang giai đoạn mãn kinh hoàn toàn (> 12 tháng vô kinh) và nội mạc mỏng (< 4 mm).
-- Tiếp tục tầm soát ung thư cổ tử cung theo hướng dẫn chuẩn (Pap smear/HPV test).
+- Tiếp tục tầm soát ung thư cổ tử cung theo hướng dẫn chuẩn (Pap smear/HPV test).[^1][^2][^3][^4]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- UpToDate (2024) - _Abnormal uterine bleeding in perimenopausal women (truy cập tháng 5/2025)_
-- ACOG Practice Bulletin No. 128 (2021) - _Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women_.
-- WHO (2018) - _Abnormal uterine bleeding: Malta consensus on short-term medical management_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: UpToDate (2024) - _Abnormal uterine bleeding in perimenopausal women (truy cập tháng 5/2025)_
+
+[^3]: ACOG Practice Bulletin No. 128 (2021) - _Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women_.
+
+[^4]: WHO (2018) - _Abnormal uterine bleeding: Malta consensus on short-term medical management_.

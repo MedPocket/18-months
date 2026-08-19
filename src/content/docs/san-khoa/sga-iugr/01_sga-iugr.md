@@ -92,10 +92,12 @@ Cần loại trừ nguyên nhân cấu trúc - di truyền - nhiễm trùng:
 
 - **SGA trong song thai không đồng nghĩa IUGR**; Nhiều trường hợp chỉ là thai nhỏ theo constitution.
 - **IUGR thực sự:** Hội chứng truyền máu (TTTS) hoặc bất thường tử cung-rau không đủ cho hai thai.
-- Đánh giá riêng biệt từng thai bằng Doppler mạch rốn, NST và sinh đồ sinh vật lý.
+- Đánh giá riêng biệt từng thai bằng Doppler mạch rốn, NST và sinh đồ sinh vật lý.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- ACOG Practice Bulletin No. 134 (2013) - _Intrauterine Growth Restriction_.
-- WHO (2014) - _WHO Recommendations for Prevention and Treatment of Pre-eclampsia and Eclampsia_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: ACOG Practice Bulletin No. 134 (2013) - _Intrauterine Growth Restriction_.
+
+[^3]: WHO (2014) - _WHO Recommendations for Prevention and Treatment of Pre-eclampsia and Eclampsia_.

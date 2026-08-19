@@ -97,8 +97,8 @@ Siêu âm hình thái, đo chiều dài cổ tử cung; Nghiệm pháp dung nạ
 - Thai 34 - 37 tuần có quá tải dịch nặng và đã dùng corticosteroids.
 
 ![Phác đồ xử trí đa ối đơn thuần - Bệnh viện Từ Dũ](./_images/da-oi/phac-do-xu-tri-da-oi-don-thuan.jpg)
-_Hình "Phác đồ xử trí đa ối đơn thuần (đơn thai)". Nguồn: Bệnh viện Từ Dũ_.
+_Hình "Phác đồ xử trí đa ối đơn thuần (đơn thai)". Nguồn: Bệnh viện Từ Dũ_.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

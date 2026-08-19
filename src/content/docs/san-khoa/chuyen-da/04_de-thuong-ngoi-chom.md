@@ -108,9 +108,10 @@ Dựa trên chu kỳ co tử cung:
 
 **Khi có cơn co:** Hít sâu. Nín thở, ngậm miệng, nắm hai bên bàn sinh, chân đạp ống treo. Dồn hơi rặn mạnh xuống bụng dưới. Rặn thêm nếu còn đau và còn hơi. Lưng giữ thẳng, sát bàn sinh; Mông cong lên; **không phát âm** khi rặn.
 
-**Khi hết đau:** Thở sâu, nghỉ và dưỡng sức cho đợt tiếp theo.
+**Khi hết đau:** Thở sâu, nghỉ và dưỡng sức cho đợt tiếp theo.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ - [_Cách thở và rặn sinh trong cuộc chuyển dạ_](https://tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/cach-tho-va-ran-sinh-trong-cuoc-chuyen-da/)
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Cách thở và rặn sinh trong cuộc chuyển dạ_. Accessed 2024. https://tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/cach-tho-va-ran-sinh-trong-cuoc-chuyen-da/

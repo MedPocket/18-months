@@ -222,9 +222,10 @@ Tránh chạm mắt khi tra thuốc. Không dùng povidon iod dung môi cồn do
 - **Thực hành tình dục an toàn:** Sử dụng bao cao su đúng cách mọi lúc khi quan hệ âm đạo, hậu môn hoặc miệng. Hạn chế số bạn tình, sàng lọc STI định kỳ nếu có nguy cơ cao.
 - **Khám sàng lọc định kỳ:** Đối với nhóm nguy cơ cao (trẻ vị thành niên, phụ nữ < 25 tuổi, nam quan hệ tình dục đồng giới, người chuyển giới, mại dâm).
 - **Đào tạo chuyên môn:** Cập nhật kiến thức về kháng thuốc lậu cầu cho các bác sĩ đa khoa, chuyên khoa da liễu và sản phụ khoa.
-- **Theo dõi kháng thuốc:** Đẩy mạnh nuôi cấy và làm kháng sinh đồ để giám sát mức độ kháng thuốc của _N. gonorrhoeae_ tại địa phương.
+- **Theo dõi kháng thuốc:** Đẩy mạnh nuôi cấy và làm kháng sinh đồ để giám sát mức độ kháng thuốc của _N. gonorrhoeae_ tại địa phương.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- BỘ Y TẾ (2021) - _Hướng dẫn chẩn đoán và điều trị bệnh lậu_.
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: BỘ Y TẾ (2021) - _Hướng dẫn chẩn đoán và điều trị bệnh lậu_.
+
+[^2]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

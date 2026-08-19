@@ -45,8 +45,8 @@ Phác đồ GnRH agonist (GnRH đồng vận) được sử dụng rộng rãi v
 
 - Cần liều FSH ngoại sinh cao hơn, kéo dài thời gian tiêm → gây khó chịu cho bệnh nhân.
 - Nguy cơ hình thành nang cơ năng trước kích thích → ảnh hưởng chất lượng trứng.
-- Tăng nguy cơ hội chứng quá kích buồng trứng (OHSS) so với phác đồ antagonist.
+- Tăng nguy cơ hội chứng quá kích buồng trứng (OHSS) so với phác đồ antagonist.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+[^1]: Bệnh viện Hùng Vương. _Phác đồ Hiếm muộn cập nhật 2020_. Accessed 2024. https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020

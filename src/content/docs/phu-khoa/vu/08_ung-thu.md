@@ -524,13 +524,18 @@ _Hình "Bệnh Paget núm vú thường bị chẩn đoán trễ do biểu hiệ
 **Không có ung thư mô vú bên dưới (chỉ Paget tại chỗ):**
 
 - Phẫu thuật cắt u bảo tồn: Cắt bỏ vùng Paget (núm vú và quầng) với biên an toàn ≥ 1 - 2 cm, kết hợp xạ trị toàn vú sau phẫu thuật.
-- Nếu không thể bảo tồn vú vì vị trí hoặc diện tích tổn thương, có thể phẫu thuật mastectomy.
+- Nếu không thể bảo tồn vú vì vị trí hoặc diện tích tổn thương, có thể phẫu thuật mastectomy.[^1][^2][^3][^4][^5][^6]
 
 ## Tài liệu tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) - _Team-Based Learning_.
-- American Cancer Society (ACS) (2016) - _Breast Cancer Screening Guidelines_.
-- U.S. Preventive Services Task Force (USPSTF) (2018) - _Recommendation Statement: Breast Cancer Screening_.
-- American College of Obstetricians and Gynecologists (ACOG) (2017) - _Practice Bulletin: Breast Cancer Risk Assessment and Screening in Average and High-Risk Women_.
-- National Comprehensive Cancer Network (NCCN) (2015) - _Breast Cancer Screening and Diagnosis Guidelines_.
-- Hiệp hội Quang tuyến Hoa Kỳ (ACR) (2015) - _Breast Imaging Reporting and Data System (BIRADS) Atlas_.
+[^1]: Trường Đại học Y Dược TP. HCM (2020) - _Team-Based Learning_.
+
+[^2]: American Cancer Society (ACS) (2016) - _Breast Cancer Screening Guidelines_.
+
+[^3]: U.S. Preventive Services Task Force (USPSTF) (2018) - _Recommendation Statement: Breast Cancer Screening_.
+
+[^4]: American College of Obstetricians and Gynecologists (ACOG) (2017) - _Practice Bulletin: Breast Cancer Risk Assessment and Screening in Average and High-Risk Women_.
+
+[^5]: National Comprehensive Cancer Network (NCCN) (2015) - _Breast Cancer Screening and Diagnosis Guidelines_.
+
+[^6]: Hiệp hội Quang tuyến Hoa Kỳ (ACR) (2015) - _Breast Imaging Reporting and Data System (BIRADS) Atlas_.

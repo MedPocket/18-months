@@ -57,8 +57,8 @@ _Hình "Giải phẫu mạch máu tử cung buồng trứng"_.
 
 - **Thoát vị buồng trứng:** Hiếm do cấu trúc dây chằng.
 - **Tính mỏng vỏ:** Dễ vỡ nang trong hội chứng buồng trứng đa nang.
-- **Mạch máu dài:** Can thiệp mạch (embolization) cần lưu ý vị trí động mạch buồng trứng.
+- **Mạch máu dài:** Can thiệp mạch (embolization) cần lưu ý vị trí động mạch buồng trứng.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

@@ -42,11 +42,14 @@ Tiêu chuẩn chẩn đoán bao gồm siêu âm, định lượng β-hCG và gi�
 **U nguyên bào nuôi dạng biểu mô (Epithelioid Trophoblastic Tumor - ETT):**
 
 - Hiếm, trung mô hóa, tế bào giống biểu mô nhau thai.
-- Diễn biến chậm, thường kháng hóa trị, ưu tiên phẫu thuật triệt để.
+- Diễn biến chậm, thường kháng hóa trị, ưu tiên phẫu thuật triệt để.[^1][^2][^3][^4]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning: Bệnh nguyên bào nuôi_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa: Bệnh nguyên bào nuôi_.
-- FIGO Oncology Committee (2002) - _FIGO staging for gestational trophoblastic tumors_.
-- Lurain JR (2010) - _Gestational trophoblastic disease II: Classification and management of gestational trophoblastic neoplasia_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^3]: FIGO Oncology Committee (2002) - _FIGO staging for gestational trophoblastic tumors_.
+
+[^4]: Lurain JR (2010) - _Gestational trophoblastic disease II: Classification and management of gestational trophoblastic neoplasia_.

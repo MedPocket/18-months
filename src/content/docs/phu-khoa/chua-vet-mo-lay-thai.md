@@ -161,8 +161,8 @@ _Hình "Phác đồ điều trị thai ở sẹo mổ lấy thai". Nguồn: Bệ
 
 - Tránh thai ít nhất 12 - 24 tháng.
 - Không sử dụng dụng cụ tử cung.
-- Thai kỳ sau: Chủ động mổ lấy thai khi đủ tháng.
+- Thai kỳ sau: Chủ động mổ lấy thai khi đủ tháng.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

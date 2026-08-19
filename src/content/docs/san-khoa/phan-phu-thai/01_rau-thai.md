@@ -77,8 +77,8 @@ Các rối loạn thường gặp trong lâm sàng:
 - **Rau tiền đạo:** Rau bám gần hoặc che lỗ trong cổ tử cung.
 - **Rau bong non:** Rau bong ra sớm trước khi thai ra đời → gây chảy máu và suy thai.
 - **Rau cài răng lược:** Gai rau xâm lấn quá sâu vào cơ tử cung, gây khó bong rau sau sinh.
-- **Rau không trọn (sót rau):** Phần rau còn sót lại trong tử cung sau sổ rau → nguy cơ băng huyết.
+- **Rau không trọn (sót rau):** Phần rau còn sót lại trong tử cung sau sổ rau → nguy cơ băng huyết.[^1]
 
 ## Tài liệu tham khảo
 
-- Vinmec - [_Quá trình hình thành rau thai?_](https://www.vinmec.com/vi/bai-viet/qua-trinh-hinh-thanh-rau-thai)
+[^1]: Vinmec. _Quá trình hình thành rau thai?_. Accessed 2024. https://www.vinmec.com/vi/bai-viet/qua-trinh-hinh-thanh-rau-thai

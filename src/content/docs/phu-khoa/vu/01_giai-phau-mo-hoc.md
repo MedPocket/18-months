@@ -75,10 +75,12 @@ _Bảng "Phân biệt thụ thể estrogen và progesterone"_.
 | - Quyết định tính nhạy cảm với liệu pháp hormone. | - Tham gia quá trình bài xuất sữa trong giai đoạn cho con bú. |
 
 ![Nang sữa](./_images/giai-phau-va-mo-hoc-tuyen-vu/nang-sua.png)
-_Hình "(Trái) Nang sữa (acinus) gồm lớp tế bào cơ biểu mô (myoepithelial) bên ngoài và tế bào biểu mô trụ thấp/trụ lót bên trong, dựa trên màng đáy. (Phải) Mô hình hóa mô miễn dịch (immunohistochemistry) cho thấy sự biểu hiện của thụ thể estrogen (màu nâu) trên tế bào biểu mô ống tuyến"_.
+_Hình "(Trái) Nang sữa (acinus) gồm lớp tế bào cơ biểu mô (myoepithelial) bên ngoài và tế bào biểu mô trụ thấp/trụ lót bên trong, dựa trên màng đáy. (Phải) Mô hình hóa mô miễn dịch (immunohistochemistry) cho thấy sự biểu hiện của thụ thể estrogen (màu nâu) trên tế bào biểu mô ống tuyến"_.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning: Giải phẫu và mô học tuyến vú_.
-- Gray H (2019) - _Gray’s Anatomy for Students: Breast Anatomy_.
-- Kurman RJ, Ellenson LH, Ronnett BM (2019) - _Blaustein’s Pathology of the Female Genital Tract_.
+[^1]: Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning: Giải phẫu và mô học tuyến vú_.
+
+[^2]: Gray H (2019) - _Gray’s Anatomy for Students: Breast Anatomy_.
+
+[^3]: Kurman RJ, Ellenson LH, Ronnett BM (2019) - _Blaustein’s Pathology of the Female Genital Tract_.

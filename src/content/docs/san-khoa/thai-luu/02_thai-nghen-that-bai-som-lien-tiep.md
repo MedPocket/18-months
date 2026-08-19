@@ -85,9 +85,10 @@ _Bảng "Bất thường giải phẫu tử cung"_.
 
 **Liều dùng:**
 
-- Đặt âm đạo 400-800 mg/ngày đến 16 tuần khi có ra huyết sớm ở thai kỳ nguy cơ/RPL.
+- Đặt âm đạo 400-800 mg/ngày đến 16 tuần khi có ra huyết sớm ở thai kỳ nguy cơ/RPL.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- GS.TS.BS. Cao Ngọc Thành - [_Sẩy thai tái phát: Cập nhật chẩn đoán và điều trị 2025_](https://drive.google.com/file/d/1Km3EM_KxV_NAYusCTUyfEXqNXwFOxVwU)
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: GS.TS.BS. Cao Ngọc Thành - [_Sẩy thai tái phát: Cập nhật chẩn đoán và điều trị 2025_](https://drive.google.com/file/d/1Km3EM_KxV_NAYusCTUyfEXqNXwFOxVwU)

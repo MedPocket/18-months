@@ -41,10 +41,12 @@ Sau 13 tuần 6 ngày, các nguyên nhân chính gồm:
 ## Điều trị
 
 - **Theo nguyên nhân:** Nghỉ ngơi, kháng viêm, chống co bóp, khâu eo tử cung, can thiệp ngoại khoa (nạo, mổ)...
-- **Cấp cứu khi cần thiết:** Truyền máu, hồi sức tích cực, mổ lấy thai khẩn cấp.
+- **Cấp cứu khi cần thiết:** Truyền máu, hồi sức tích cực, mổ lấy thai khẩn cấp.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Cunningham, F. G. et al. (2018) - _Williams Obstetrics_.
-- ACOG Practice Bulletin (2018) No. 200 - _Early Pregnancy Loss_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Cunningham, F. G. et al. (2018) - _Williams Obstetrics_.
+
+[^3]: ACOG Practice Bulletin (2018) No. 200 - _Early Pregnancy Loss_.

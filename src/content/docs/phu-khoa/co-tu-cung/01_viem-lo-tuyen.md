@@ -146,11 +146,14 @@ _Hình "Sau đốt hoặc áp lạnh, vùng chuyển sản dần hồi phục bi
 - Khuyến khích khám phụ khoa định kỳ (6-12 tháng/lần) để phát hiện sớm bất thường.
 
 ![Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV](./_images/viem-lo-tuyen-co-tu-cung/qua-trinh-chuyen-san.png)
-_Hình "Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV"_.
+_Hình "Quá trình chuyển sản và sự lành của lộ tuyến cổ tử cung và nguy cơ bị tấn công bởi HPV"_.[^1][^2][^3][^4]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Hội Y học TP. HCM (2019) - _Hướng dẫn chẩn đoán và điều trị các bệnh phụ khoa thường gặp_.
-- World Health Organization (2021) - _Cervical Intraepithelial Neoplasia and HPV: Guidelines for Screening and Treatment_.
-- Muñoz N., Kjaer S.K., Sigurdsson K. et al. (2016) - _The Lancet Oncology_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Hội Y học TP. HCM (2019) - _Hướng dẫn chẩn đoán và điều trị các bệnh phụ khoa thường gặp_.
+
+[^3]: World Health Organization (2021) - _Cervical Intraepithelial Neoplasia and HPV: Guidelines for Screening and Treatment_.
+
+[^4]: Muñoz N., Kjaer S.K., Sigurdsson K. et al. (2016) - _The Lancet Oncology_.

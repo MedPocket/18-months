@@ -118,12 +118,16 @@ Không đưa ra kết luận chẩn đoán lâm sàng chỉ dựa vào một ch�
 
 - **Khám hiếm muộn**: Bắt buộc xét nghiệm nội tiết và siêu âm phụ khoa đồng thời cho người vợ, kết hợp xét nghiệm **Tinh dịch đồ** cho người chồng.
 - **Dự trữ buồng trứng giảm (AMH thấp)**: Cần tư vấn người bệnh can thiệp Hỗ trợ sinh sản (IVF) sớm, tránh kéo dài thời gian chờ đợi làm mất cơ hội mang thai bằng noãn tự thân.
-- **Suy buồng trứng sớm / Mãn kinh sớm (< 40 tuổi)**: Chỉ định điều trị **Liệu pháp Hormone Thay thế** (_Hormone Replacement Therapy_ - HRT) ngay lập tức nếu không có chống chỉ định, nhằm bảo vệ hệ tim mạch và mật độ xương cho đến độ tuổi mãn kinh tự nhiên.
+- **Suy buồng trứng sớm / Mãn kinh sớm (< 40 tuổi)**: Chỉ định điều trị **Liệu pháp Hormone Thay thế** (_Hormone Replacement Therapy_ - HRT) ngay lập tức nếu không có chống chỉ định, nhằm bảo vệ hệ tim mạch và mật độ xương cho đến độ tuổi mãn kinh tự nhiên.[^1][^2][^3][^4][^5]
 
 ## Tài liệu tham khảo
 
-- ACOG Practice Bulletin No. 126 (2012, Reaffirmed 2021) - _Management of Infertility from Diminished Ovarian Reserve_. American College of Obstetricians and Gynecologists.
-- ASRM Ethics Committee Opinion (2020) - _Testing and conditioning on ovarian reserve check status_. Fertility and Sterility.
-- NAMS Position Statement (2022) - _The 2022 Hormone Therapy Position Statement of The North American Menopause Society_. Menopause.
-- ESPE Clinical Practice Guideline (2016) - _Diagnosis and Management of Central Precocious Puberty_. European Society for Paediatric Endocrinology.
-- Bộ Y tế Việt Nam (2021) - _Hướng dẫn chẩn đoán và điều trị các bệnh sản phụ khoa_.
+[^1]: ACOG Practice Bulletin No. 126 (2012, Reaffirmed 2021) - _Management of Infertility from Diminished Ovarian Reserve_. American College of Obstetricians and Gynecologists.
+
+[^2]: ASRM Ethics Committee Opinion (2020) - _Testing and conditioning on ovarian reserve check status_. Fertility and Sterility.
+
+[^3]: NAMS Position Statement (2022) - _The 2022 Hormone Therapy Position Statement of The North American Menopause Society_. Menopause.
+
+[^4]: ESPE Clinical Practice Guideline (2016) - _Diagnosis and Management of Central Precocious Puberty_. European Society for Paediatric Endocrinology.
+
+[^5]: Bộ Y tế Việt Nam. _Hướng dẫn chẩn đoán và điều trị các bệnh sản phụ khoa_. NXB Y học; 2021.

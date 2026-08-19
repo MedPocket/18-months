@@ -102,8 +102,8 @@ Siêu âm có giá trị khi:
 - Nước ối quá nhiều.
 - Không xác định được rõ ngôi qua sờ nắn hoặc khám âm đạo.
 
-Đây là phương tiện **an toàn, chính xác** trong xác định ngôi, thế và kiểu thế.
+Đây là phương tiện **an toàn, chính xác** trong xác định ngôi, thế và kiểu thế.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

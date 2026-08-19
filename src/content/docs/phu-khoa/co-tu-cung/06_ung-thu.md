@@ -113,13 +113,18 @@ Tiên lượng phụ thuộc giai đoạn tại chẩn đoán:
 - Giai đoạn I: Tỷ lệ sống 5 năm > 90%.
 - Giai đoạn II: 60 - 75%.
 - Giai đoạn III: 30 - 50%.
-- Giai đoạn IV: < 20%.
+- Giai đoạn IV: < 20%.[^1][^2][^3][^4][^5][^6]
 
 ## Tài liệu tham khảo
 
-- FIGO (2018) - _FIGO staging classification for carcinoma of the cervix_.
-- WHO (2025) - _Cervical cancer: Key facts_.
-- American Cancer Society (2025) - _Cervical Cancer Early Detection, Diagnosis, and Staging_.
-- Berek JS, Novak E. (2019) - _Berek & Novak’s Gynecology_, 16th Edition.
-- Landoni F., Maneo A., Colombo A., et al. (1997) - _Randomized study of radical surgery versus radiotherapy for stage Ib-IIa cervical cancer_ (The Lancet)
-- NCCN (2025) - _NCCN Clinical Practice Guidelines in Oncology: Cervical Cancer_, Version 1.2025.
+[^1]: FIGO (2018) - _FIGO staging classification for carcinoma of the cervix_.
+
+[^2]: WHO (2025) - _Cervical cancer: Key facts_.
+
+[^3]: American Cancer Society (2025) - _Cervical Cancer Early Detection, Diagnosis, and Staging_.
+
+[^4]: Berek JS, Novak E. (2019) - _Berek & Novak’s Gynecology_, 16th Edition.
+
+[^5]: Landoni F., Maneo A., Colombo A., et al. (1997) - _Randomized study of radical surgery versus radiotherapy for stage Ib-IIa cervical cancer_ (The Lancet)
+
+[^6]: NCCN (2025) - _NCCN Clinical Practice Guidelines in Oncology: Cervical Cancer_, Version 1.2025.

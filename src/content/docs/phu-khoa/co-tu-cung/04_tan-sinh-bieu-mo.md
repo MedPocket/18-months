@@ -274,9 +274,10 @@ _Hình "Khoét chóp cổ tử cung bằng dao lạnh"_.
 - Dần thay thế đốt laser do chi phí và tính đơn giản.
 
 ![LEEP và các loại vòng cắt phổ biến](./_images/tan-sinh-bieu-mo-co-tu-cung/leep.png)
-_Hình "LEEP và các loại vòng cắt phổ biến"_.
+_Hình "LEEP và các loại vòng cắt phổ biến"_.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

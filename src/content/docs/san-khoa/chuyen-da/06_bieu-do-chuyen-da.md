@@ -103,8 +103,8 @@ WHO 2002 cải tiến:
 - Nâng cao hiệu quả theo dõi chuyển dạ.
 - Giúp nhân viên y tế ít kinh nghiệm quản lý chuyển dạ tốt hơn.
 - Cải thiện kết cục thai kỳ ở mọi tuyến y tế, đặc biệt ở tuyến cơ sở.
-- Hỗ trợ giảng dạy và thực hành lâm sàng.
+- Hỗ trợ giảng dạy và thực hành lâm sàng.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

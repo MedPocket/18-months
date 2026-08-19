@@ -84,8 +84,8 @@ _Hình "Biến động hormone"_.
 _Hình "Chu kỳ nối tiếp"_.
 
 - Mỗi chu kỳ kéo dài 90 - 120 ngày từ chiêu mộ nguyên thủy đến thoái triển bạch thể.
-- Chỉ 4 tuần cuối chịu ảnh hưởng trực tiếp của trục HĐ-Y-BT, phần còn lại phát triển độc lập.
+- Chỉ 4 tuần cuối chịu ảnh hưởng trực tiếp của trục HĐ-Y-BT, phần còn lại phát triển độc lập.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

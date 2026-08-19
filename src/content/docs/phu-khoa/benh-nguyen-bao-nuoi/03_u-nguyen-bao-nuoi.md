@@ -173,9 +173,10 @@ Etoposide 100 mg/m² truyền TM trong 1 giờ + Cisplatin 20 mg/m² truyền TM
 ![Di căn phổi](./_images/choriocarcinoma-di-can-phoi-hinh-anh-tha-bong.png)
 _Hình "Di căn phổi bóng bay trên X-quang"_.
 
-Sau thời gian theo dõi, người bệnh được có thai trở lại, tùy trường hợp. **Yêu cầu ít nhất 2 năm sau điều trị khỏi mới có thai lại.** Khi có dấu hiệu mang thai cần đi khám thai ngày, chú ý siêu âm và β-hCG để phòng bệnh tái phát.
+Sau thời gian theo dõi, người bệnh được có thai trở lại, tùy trường hợp. **Yêu cầu ít nhất 2 năm sau điều trị khỏi mới có thai lại.** Khi có dấu hiệu mang thai cần đi khám thai ngày, chú ý siêu âm và β-hCG để phòng bệnh tái phát.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

@@ -102,12 +102,16 @@ Các hành vi có thể gây hại nghiêm trọng cho mô tuyến vú:
 - Hướng dẫn kỹ thuật ngậm bắt vú đúng khớp: Cằm cắm sâu vào vú, quầng vú dưới bị ngậm nhiều hơn quầng vú trên.
 - Cho trẻ bú theo nhu cầu sinh lý, không kéo dài khoảng cách giữa các cữ bú > 3 - 4 giờ.
 - Tránh sử dụng máy hút sữa tạo áp lực quá cao nhằm "vắt kiệt".
-- Mặc áo ngực co giãn, không có gọng kim loại chèn ép gây cản trở lưu thông.
+- Mặc áo ngực co giãn, không có gọng kim loại chèn ép gây cản trở lưu thông.[^1][^2][^3][^4][^5]
 
 ## Tài liệu tham khảo
 
-- Academy of Breastfeeding Medicine (2022) - _ABM Clinical Protocol #36: The Mastitis Spectrum, Revised 2022_.
-- American Family Physician (2015) - _Management of Lactational Mastitis and Blocked Milk Ducts_.
-- Journal of Human Lactation (2018) - _Strategies for Resolving Blocked Milk Ducts_.
-- Clinical Pediatrics (2012) - _Treatment of Mastitis and Breast Abscess_.
-- World Health Organization (2003) - _Breastfeeding Counselling: A Training Course_.
+[^1]: Academy of Breastfeeding Medicine (2022) - _ABM Clinical Protocol #36: The Mastitis Spectrum, Revised 2022_.
+
+[^2]: American Family Physician (2015) - _Management of Lactational Mastitis and Blocked Milk Ducts_.
+
+[^3]: Journal of Human Lactation (2018) - _Strategies for Resolving Blocked Milk Ducts_.
+
+[^4]: Clinical Pediatrics (2012) - _Treatment of Mastitis and Breast Abscess_.
+
+[^5]: World Health Organization (2003) - _Breastfeeding Counselling: A Training Course_.

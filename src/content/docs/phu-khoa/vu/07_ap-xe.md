@@ -100,8 +100,8 @@ description: Chẩn đoán, xử trí, phân loại áp xe vú.
 
 - Chăm sóc vết thương hằng ngày bằng bơm rửa ổ áp xe, dẫn lưu bằng penrose hoặc mèche.
 - Nặn hút sữa, tiếp tục nuôi con bằng sữa mẹ nếu có thể.
-- Theo dõi ít nhất 3 tháng.
+- Theo dõi ít nhất 3 tháng.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

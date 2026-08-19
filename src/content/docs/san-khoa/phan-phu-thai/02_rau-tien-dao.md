@@ -92,9 +92,10 @@ Quyết định dựa trên tuổi thai, tình trạng mẹ và mức độ ch�
 - Giữ sonde tiểu để theo dõi lượng nước tiểu ≥ 30 mL/h.
 - Giảm đau, ổn định huyết động.
 - Mổ lấy thai cấp cứu và cầm máu: Thuốc co hồi tử cung (oxytocin, carbetocin, ergotamine...). Thắt động mạch tử cung hoặc bóng chẹn nội mạch. Cắt tử cung toàn phần nếu băng huyết không kiểm soát.
-- Gây tê vùng nếu dự kiến mổ nhanh, gây mê nội khí quản nếu phẫu thuật phức tạp (rau cài răng lược).
+- Gây tê vùng nếu dự kiến mổ nhanh, gây mê nội khí quản nếu phẫu thuật phức tạp (rau cài răng lược).[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

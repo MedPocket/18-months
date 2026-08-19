@@ -213,11 +213,14 @@ _Hình "Lưu đồ chẩn đoán và xử trí lạc nội mạc tử cung và h
 - **Nội khoa:** Không dùng liệu pháp ức chế buồng trứng trước IVF.
 - **Phẫu thuật:** Bóc nang lạc nội mạc độ I-II nếu ảnh hưởng đến chức năng buồng trứng.
 - **ART:** IVF/ICSI khi vòi trứng tổn thương hoặc các biện pháp khác thất bại.
-- **Chuẩn bị:** GnRHa 3 - 6 tháng trước chuyển phôi có thể cải thiện tỉ lệ thành công.
+- **Chuẩn bị:** GnRHa 3 - 6 tháng trước chuyển phôi có thể cải thiện tỉ lệ thành công.[^1][^2][^3][^4]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- Bộ Y Tế (2019) 5306/QĐ-BYT - _Hướng dẫn chẩn đoán và điều trị lạc nội mạc tử cung_.
-- Hội Nội tiết sinh sản và Vô sinh TPHCM (HOSREM) - _Hướng dẫn lâm sàng về lạc nội mạc tử cung_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^3]: Bộ Y tế Việt Nam. _Hướng dẫn chẩn đoán và điều trị lạc nội mạc tử cung_. NXB Y học; 2019.
+
+[^4]: Hội Nội tiết sinh sản và Vô sinh TP.HCM (HOSREM). _Hướng dẫn lâm sàng về lạc nội mạc tử cung_.

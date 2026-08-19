@@ -193,10 +193,10 @@ Không khuyến cáo kháng sinh dự phòng:
 
 - Cần loại trừ chửa ngoài tử cung nhất là các trường hợp trứng trống hay ứ dịch lòng tử cung.
 - β-hCG cao cần loại trừ bệnh lý nguyên bào nuôi.
-- BN có thai lần đầu với Rh âm sảy thai < 12 tuần hoặc ra máu nhiều hoặc hút thai > 12 tuần cần tiêm antiD trong 72 giờ sau can thiệp (50/300 µg - 1500 IU).
+- BN có thai lần đầu với Rh âm sảy thai < 12 tuần hoặc ra máu nhiều hoặc hút thai > 12 tuần cần tiêm antiD trong 72 giờ sau can thiệp (50/300 µg - 1500 IU).[^1]
 
 :::
 
 ## Tài liệu tham khảo
 
-- PGS.TS Hoàng Thị Diễm Tuyết - [_Can thiệp tối thiểu – Hiệu quả tối đa: Cập nhật xử trí sảy trong thực hành lâm sàng hiện đại_](https://drive.google.com/file/d/1hGH6tMkjI--4W7b7PI_a6xmu0D1CmPDE)
+[^1]: PGS.TS Hoàng Thị Diễm Tuyết - [_Can thiệp tối thiểu – Hiệu quả tối đa: Cập nhật xử trí sảy trong thực hành lâm sàng hiện đại_](https://drive.google.com/file/d/1hGH6tMkjI--4W7b7PI_a6xmu0D1CmPDE)

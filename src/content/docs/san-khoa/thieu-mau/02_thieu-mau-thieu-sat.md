@@ -61,8 +61,8 @@ _Bảng "Bổ sung sắt trong thai kỳ"_.
 |                  | ≥ 11              | Bất kỳ          | 30 mg sắt/ngày         |
 |                  | 9-10.9            | Bất kỳ          | 60-120 mg sắt/ngày     |
 
-**WHO** khuyến nghị bổ sung 60 mg sắt nguyên tố và 200 µg acid folic hàng ngày từ khi mang thai đến khi sinh để phòng ngừa thiếu máu thiếu sắt.
+**WHO** khuyến nghị bổ sung 60 mg sắt nguyên tố và 200 µg acid folic hàng ngày từ khi mang thai đến khi sinh để phòng ngừa thiếu máu thiếu sắt.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

@@ -54,8 +54,8 @@ Can thiệp tích cực gồm ba bước chính, thực hiện ngay sau sổ vai
 - Quan sát tính trạng co hồi của tử cung (độ rắn, vị trí).
 - Đếm số lần thay băng đẫm máu.
 - Theo dõi sinh hiệu mẹ (mạch, HA) để phát hiện mất máu nhiều.
-- Kiểm tra dấu hiệu nhiễm trùng nếu sổ rau kéo dài.
+- Kiểm tra dấu hiệu nhiễm trùng nếu sổ rau kéo dài.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

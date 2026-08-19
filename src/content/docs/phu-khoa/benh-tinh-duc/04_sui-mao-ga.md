@@ -144,10 +144,12 @@ _Bảng "Điều trị sùi mào gà"_.
 
 **Tầm soát định kỳ** ở người có nguy cơ cao, đặc biệt MSM, người sống chung với HIV.
 
-**Giáo dục sức khỏe tình dục**, tư vấn bạn tình và điều trị kịp thời tổn thương.
+**Giáo dục sức khỏe tình dục**, tư vấn bạn tình và điều trị kịp thời tổn thương.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế (2021) - _Hướng dẫn chẩn đoán và điều trị sùi mào gà_.
-- CDC (2021) - _Sexually Transmitted Infections Treatment Guidelines_.
-- WHO - _Human papillomavirus (HPV) and cervical cancer fact sheet_.
+[^1]: Bộ Y tế Việt Nam. _Hướng dẫn chẩn đoán và điều trị sùi mào gà_. NXB Y học; 2021.
+
+[^2]: CDC (2021) - _Sexually Transmitted Infections Treatment Guidelines_.
+
+[^3]: WHO - _Human papillomavirus (HPV) and cervical cancer fact sheet_.

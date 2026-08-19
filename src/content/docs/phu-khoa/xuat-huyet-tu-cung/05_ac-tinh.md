@@ -161,9 +161,10 @@ Nhiều loại tăng sinh có thể cùng tồn tại với ung thư nội mạc
 - Cắt tử cung (phẫu thuật triệt để).
 - Người đã mãn kinh hoặc không còn nhu cầu sinh con.
 - Không thể theo dõi bằng nội khoa và sinh thiết định kỳ.
-- Xuất huyết trầm trọng, ảnh hưởng nặng.
+- Xuất huyết trầm trọng, ảnh hưởng nặng.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

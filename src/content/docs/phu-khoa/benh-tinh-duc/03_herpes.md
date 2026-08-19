@@ -164,10 +164,12 @@ Liều dùng và thời gian có thể điều chỉnh tùy theo mức độ n�
 - Đánh giá tình trạng nhiễm khuẩn phối hợp, HPV, tầm soát ung thư cổ tử cung theo khuyến cáo (Pap smear, HPV-DNA test).
 - Tư vấn sức khỏe sinh sản, tránh quan hệ khi đang có tổn thương.
 
-**Theo dõi chức năng thận (với thuốc ức chế dài ngày):** Định kỳ 3-6 tháng xét nghiệm creatinin huyết thanh, ước tính độ lọc cầu thận (eGFR) để điều chỉnh liều Acyclovir/Valacyclovir nếu cần.
+**Theo dõi chức năng thận (với thuốc ức chế dài ngày):** Định kỳ 3-6 tháng xét nghiệm creatinin huyết thanh, ước tính độ lọc cầu thận (eGFR) để điều chỉnh liều Acyclovir/Valacyclovir nếu cần.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- Bộ Y tế (2021) - _Hướng dẫn chẩn đoán và điều trị một số bệnh nhiễm khuẩn lây truyền qua đường tình dục_.
-- Workowski KA, Bolan GA (2020) - _Sexually Transmitted Diseases Treatment Guidelines, Centers for Disease Control and Prevention (CDC)_
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^2]: Bộ Y tế Việt Nam. _Hướng dẫn chẩn đoán và điều trị một số bệnh nhiễm khuẩn lây truyền qua đường tình dục_. NXB Y học; 2021.
+
+[^3]: Workowski KA, Bolan GA (2020) - _Sexually Transmitted Diseases Treatment Guidelines, Centers for Disease Control and Prevention (CDC)_
