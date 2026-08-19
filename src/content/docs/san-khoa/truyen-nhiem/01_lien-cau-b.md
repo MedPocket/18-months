@@ -3,11 +3,11 @@ title: Liên cầu B
 description: Hướng dẫn cập nhật về tầm soát, chẩn đoán và dự phòng kháng sinh trong sinh nhiễm liên cầu khuẩn nhóm B (GBS) theo ACOG.
 ---
 
-**Liên cầu khuẩn nhóm B** (_Group B Streptococcus_ - GBS, tên khoa học _Streptococcus agalactiae_) là vi khuẩn thường trú ở đường tiêu hóa dưới và đường sinh dục của phụ nữ. Mặc dù GBS thường không gây triệu chứng ở người trưởng thành khỏe mạnh, việc vi khuẩn này truyền từ mẹ sang con trong quá trình chuyển dạ có thể dẫn đến nhiễm trùng sơ sinh sớm nghiêm trọng như nhiễm trùng huyết, viêm phổi và viêm màng nổi.¹
+**Liên cầu khuẩn nhóm B** (_Group B Streptococcus_ - GBS, tên khoa học _Streptococcus agalactiae_) là vi khuẩn thường trú ở đường tiêu hóa dưới và đường sinh dục của phụ nữ. Mặc dù GBS thường không gây triệu chứng ở người trưởng thành khỏe mạnh, việc vi khuẩn này truyền từ mẹ sang con trong quá trình chuyển dạ có thể dẫn đến nhiễm trùng sơ sinh sớm nghiêm trọng như nhiễm trùng huyết, viêm phổi và viêm màng nổi.[^1]
 
-GBS là nguyên nhân hàng đầu gây nhiễm trùng sơ sinh sớm (_Early-Onset Disease_ - EOD, xảy ra trong 6 ngày đầu sau sinh, thường gặp nhất trong 24 giờ đầu). Tỉ lệ lưu hành GBS ở đường sinh dục-tiêu hóa thai phụ dao động từ **10 - 30%**. Khi không được dự phòng bằng kháng sinh trong chuyển dạ (_Intrapartum Antibiotic Prophylaxis_ - IAP), khoảng **50%** trẻ sinh ra từ mẹ mang vi khuẩn GBS sẽ bị xâm nhiễm, và **1 - 2%** trong số trẻ bị xâm nhiễm đó sẽ phát triển thành bệnh GBS sơ sinh sớm.²
+GBS là nguyên nhân hàng đầu gây nhiễm trùng sơ sinh sớm (_Early-Onset Disease_ - EOD, xảy ra trong 6 ngày đầu sau sinh, thường gặp nhất trong 24 giờ đầu). Tỉ lệ lưu hành GBS ở đường sinh dục-tiêu hóa thai phụ dao động từ **10 - 30%**. Khi không được dự phòng bằng kháng sinh trong chuyển dạ (_Intrapartum Antibiotic Prophylaxis_ - IAP), khoảng **50%** trẻ sinh ra từ mẹ mang vi khuẩn GBS sẽ bị xâm nhiễm, và **1 - 2%** trong số trẻ bị xâm nhiễm đó sẽ phát triển thành bệnh GBS sơ sinh sớm.[^2]
 
-Nhờ triển khai chiến lược tầm soát diện rộng và áp dụng IAP, tỉ lệ mắc GBS sơ sinh sớm đã giảm đáng kể từ **1.7/1000** trẻ sinh sống (thập niên 1990) xuống còn khoảng **0.23/1000** trẻ sinh sống hiện nay.³
+Nhờ triển khai chiến lược tầm soát diện rộng và áp dụng IAP, tỉ lệ mắc GBS sơ sinh sớm đã giảm đáng kể từ **1.7/1000** trẻ sinh sống (thập niên 1990) xuống còn khoảng **0.23/1000** trẻ sinh sống hiện nay.[^3]
 
 ## Nguyên nhân
 
@@ -41,7 +41,7 @@ Các yếu tố làm tăng nguy cơ trẻ sơ sinh mắc GBS sớm bao gồm:
 
 #### Thời điểm tầm soát
 
-- **Khuyến cáo của ACOG (2020):** Tất cả thai phụ nên được tầm soát GBS bằng cấy phết âm đạo - trực tràng ở thời điểm **36⁰/⁷ – 37⁶/⁷ tuần** thai kỳ (thay vì 35 – 37 tuần như hướng dẫn cũ).⁴
+- **Khuyến cáo của ACOG (2020):** Tất cả thai phụ nên được tầm soát GBS bằng cấy phết âm đạo - trực tràng ở thời điểm **36⁰/⁷ – 37⁶/⁷ tuần** thai kỳ (thay vì 35 – 37 tuần như hướng dẫn cũ).[^4]
 - **Lý do thay đổi:** Kết quả cấy GBS có giá trị dự đoán âm tính tối đa trong **5 tuần**. Việc tầm soát từ **36⁰/⁷ tuần** giúp kết quả có hiệu lực kéo dài đến **41⁶/⁷ tuần**, bao phủ hầu hết các trường hợp sinh đủ tháng và sinh muộn.
 
 #### Kỹ thuật lấy mẫu phết âm đạo - trực tràng
@@ -170,7 +170,10 @@ Nếu thai phụ có dấu hiệu nhiễm trùng ối (sốt **≥ 38.0 °C**, d
 
 ## Tài liệu tham khảo
 
-1. American College of Obstetricians and Gynecologists. Prevention of group B streptococcal early-onset disease in newborns: ACOG Committee Opinion No. 797. _Obstet Gynecol_. 2020;135(2):e51-e72. doi:10.1097/AOG.0000000000003824
-2. Centers for Disease Control and Prevention. Prevention of perinatal group B streptococcal disease: revised guidelines from CDC, 2010. _MMWR Recomm Rep_. 2010;59(RR-10):1-32.
-3. Puopolo KM, Lynfield R, Cummings JJ, et al. Management of infants at risk for group B streptococcal disease. _Pediatrics_. 2019;144(2):e20191881. doi:10.1542/peds.2019-1881
-4. Verani JR, McGee L, Schrag SJ. Prevention of perinatal group B streptococcal disease--revised guidelines from CDC, 2010. _MMWR Recomm Rep_. 2010;59(RR-10):1-36.
+[^1]: American College of Obstetricians and Gynecologists. Prevention of group B streptococcal early-onset disease in newborns: ACOG Committee Opinion No. 797. _Obstet Gynecol_. 2020;135(2):e51-e72. doi:10.1097/AOG.0000000000003824
+
+[^2]: Centers for Disease Control and Prevention. Prevention of perinatal group B streptococcal disease: revised guidelines from CDC, 2010. _MMWR Recomm Rep_. 2010;59(RR-10):1-32.
+
+[^3]: Puopolo KM, Lynfield R, Cummings JJ, et al. Management of infants at risk for group B streptococcal disease. _Pediatrics_. 2019;144(2):e20191881. doi:10.1542/peds.2019-1881
+
+[^4]: Verani JR, McGee L, Schrag SJ. Prevention of perinatal group B streptococcal disease--revised guidelines from CDC, 2010. _MMWR Recomm Rep_. 2010;59(RR-10):1-36.

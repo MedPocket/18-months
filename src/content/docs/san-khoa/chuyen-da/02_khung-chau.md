@@ -83,7 +83,7 @@ Thực hiện khi sản phụ chuyển dạ hoặc thai đủ trưởng thành. 
 
 **Đánh giá cảm nhận:**
 
-- Đường kính ngang eo trên: Đánh giá qua chiều dài phần gờ vô danh sờ được (thường chỉ sờ được khoảng ½ nếu bình thường).
+- Đường kính ngang eo trên: Đánh giá qua chiều dài phần gờ vô danh sờ được (thường chỉ sờ được khoảng 1/2 nếu bình thường).
 - Độ cong xương cùng: Chỉ ước lượng tương đối.
 - Độ rộng của góc tạo bởi 2 ngành ngồi-mu.
 
