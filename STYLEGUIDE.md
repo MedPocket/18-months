@@ -191,24 +191,30 @@ description: Tóm tắt 1 câu định hướng nội dung bài viết phục v�
 
 Mỗi bài viết về bệnh học sản phụ khoa cần tuân theo cấu trúc tiêu đề chuẩn mực dưới đây để tạo tính nhất quán cho toàn bộ trang web:
 
-1. **Tổng quan/Định nghĩa** (`## Tổng quan` hoặc `## Định nghĩa`)
+1. **Tổng quan/Định nghĩa**
    - Định nghĩa bệnh lý, dịch tễ học, tần suất xuất hiện và tầm quan trọng lâm sàng.
-2. **Nguyên nhân và Cơ chế bệnh sinh** (`## Nguyên nhân và Cơ chế bệnh sinh`)
-   - Căn nguyên gây bệnh và cơ chế sinh lý bệnh.
-3. **Yếu tố nguy cơ** (`## Yếu tố nguy cơ`)
+2. **Nguyên nhân** (`## Nguyên nhân`)
+   - Đặc điểm căn nguyên gây bệnh.
+3. **Bệnh sinh** (`## Bệnh sinh`)
+   - Đặc điểm giải phẫu, sinh lý.
+   - Cơ chế sinh lý bệnh.
+5.  **Yếu tố nguy cơ** (`## Yếu tố nguy cơ`)
    - Các yếu tố làm tăng khả năng mắc bệnh (đối tượng nguy cơ cao).
-4. **Chẩn đoán** (`## Chẩn đoán`)
+5. **Chẩn đoán** (`## Chẩn đoán`)
    - `### Lâm sàng`: Triệu chứng cơ năng (bệnh nhân khai), triệu chứng thực thể (bác sĩ khám).
    - `### Cận lâm sàng`: Xét nghiệm, chẩn đoán hình ảnh (Siêu âm, MRI...), thăm dò chức năng.
    - `### Chẩn đoán xác định/Tiêu chuẩn chẩn đoán` (nếu có).
    - `### Chẩn đoán phân biệt`: Các bệnh lý có triệu chứng tương đồng cần loại trừ.
-5. **Điều trị** (`## Điều trị`)
+6. **Điều trị** (`## Điều trị`)
    - `### Nguyên tắc điều trị`: Mục tiêu điều trị, hướng xử trí ban đầu.
-   - `### Điều trị nội khoa`: Các phác đồ thuốc, liều lượng, cách dùng, lưu ý đặc biệt.
-   - `### Điều trị ngoại khoa`: Chỉ định can thiệp thủ thuật/phẫu thuật, phương pháp cụ thể.
-6. **Dự phòng và Theo dõi** (`## Dự phòng và Theo dõi`)
-   - Các biện pháp phòng ngừa cấp 1, cấp 2, lịch trình tái khám và theo dõi sau điều trị.
-7. **Tài liệu tham khảo** (`## Tài liệu tham khảo`)
+   - `### Nội khoa`: Các phác đồ thuốc, liều lượng, cách dùng, lưu ý đặc biệt.
+   - `### Ngoại khoa`: Chỉ định can thiệp thủ thuật/phẫu thuật, phương pháp cụ thể.
+7. **Theo dõi** (`## Theo dõi`)
+   - Theo dõi trong và sau điều trị.
+8. **Dự phòng** (`## Dự phòng`)
+   - Các biện pháp phòng ngừa cấp 1, cấp 2.
+   - Dự phòng tái phát.
+9. **Tài liệu tham khảo** (`## Tài liệu tham khảo`)
    - Danh sách nguồn trích dẫn.
 
 ## 6. Hình ảnh, Bảng biểu và Callouts (Asides)
