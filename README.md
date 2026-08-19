@@ -1,6 +1,6 @@
 # 18 months
 
-[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://starlight.astro.build)
+[![Built with Starlight](https://astro.badg.es/v2/built-with-starlight/tiny.svg)](https://medpocket.github.io/18-months)
 
 ## Bắt đầu
 
