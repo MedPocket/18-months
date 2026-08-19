@@ -90,10 +90,12 @@ Nhiễm thủy đậu có thể gây **hội chứng thủy đậu bẩm sinh** 
 - Vệ sinh cá nhân và môi trường (khử khuẩn bề mặt, giặt giũ đồ dùng).
 - Tiêm vaccine thủy đậu sống giảm độc lực (hiệu quả 85 - 95%) **trước khi mang thai ít nhất 1 tháng.**
 - Phụ nữ mang thai không tiêm vaccine sống.
-- Nếu mẹ tiếp xúc VZV và chưa có miễn dịch, có thể tiêm immunoglobulin đặc hiệu (_Varicella-Zoster_ IG) 125-250 đơn vị tiêm bắp/liều, tùy nguy cơ.
+- Nếu mẹ tiếp xúc VZV và chưa có miễn dịch, có thể tiêm immunoglobulin đặc hiệu (_Varicella-Zoster_ IG) 125-250 đơn vị tiêm bắp/liều, tùy nguy cơ.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ - [_Bệnh thủy đậu ảnh hưởng trên thai kỳ như thế nào?_](https://www.tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/benh-thuy-dau-anh-huong-tren-thai-ky-nhu-the-nao/)
-- WHO position paper (2014) - [_Varicella and herpes zoster vaccines_](https://www.who.int/publications/i/item/who-wer8925)
-- CDC - [_Chickenpox (Varicella) and Pregnancy_](https://www.cdc.gov/pregnancy/infections-chickenpox.html)
+[^1]: Bệnh viện Từ Dũ. _Bệnh thủy đậu ảnh hưởng trên thai kỳ như thế nào?_. Accessed 2024. https://www.tudu.com.vn/vn/y-hoc-thuong-thuc/suc-khoe-phu-nu/lam-me-an-toan/cham-soc-ba-me-mang-thai/benh-thuy-dau-anh-huong-tren-thai-ky-nhu-the-nao/
+
+[^2]: WHO position paper (2014) - [_Varicella and herpes zoster vaccines_](https://www.who.int/publications/i/item/who-wer8925)
+
+[^3]: CDC - [_Chickenpox (Varicella) and Pregnancy_](https://www.cdc.gov/pregnancy/infections-chickenpox.html)

@@ -70,9 +70,10 @@ _Hình "Kết quả điện di Hb ở người trưởng thành"_.
 
 - Sàng lọc mang gen trước hôn nhân hoặc mang thai.
 - Chẩn đoán di truyền tiền làm tổ (PGD) trên phôi IVF để chọn phôi không mang gen bệnh.
-- Lưu trữ tế bào gốc cuống rốn cho điều trị ghép tế bào gốc sau này.
+- Lưu trữ tế bào gốc cuống rốn cho điều trị ghép tế bào gốc sau này.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- WHO 2021 - _Guidelines for screening and management of haemoglobinopathies_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: WHO 2021 - _Guidelines for screening and management of haemoglobinopathies_.

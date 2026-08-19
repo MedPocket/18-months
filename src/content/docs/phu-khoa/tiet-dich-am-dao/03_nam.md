@@ -145,14 +145,18 @@ _Bảng "Thuốc kháng nấm tại chỗ điều trị VVC không biến chứn
 - Nấm có trong nước tiểu.
 - Bạn nữ tái phát nhiều lần mà không có yếu tố nguy cơ rõ ràng.
 
-**Metronidazole không dùng trong 3 tháng đầu thai kỳ** (dẫn xuất 5-nitroimidazole).
+**Metronidazole không dùng trong 3 tháng đầu thai kỳ** (dẫn xuất 5-nitroimidazole).[^1][^2][^3][^4][^5]
 
 :::
 
 ## Tài liệu tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning: Viêm âm đạo do nấm_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- Ghebre, M., & Wang, X. (2018) - _Diagnosis and Treatment of Vulvovaginal Candidiasis_.
-- Centers for Disease Control and Prevention (CDC) (2010) - _Sexually Transmitted Diseases Treatment Guidelines_.
-- Sobel, J. D. (2016). _Vulvovaginal candidosis_.
+[^1]: Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning: Viêm âm đạo do nấm_.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^3]: Ghebre, M., & Wang, X. (2018) - _Diagnosis and Treatment of Vulvovaginal Candidiasis_.
+
+[^4]: Centers for Disease Control and Prevention (CDC) (2010) - _Sexually Transmitted Diseases Treatment Guidelines_.
+
+[^5]: Sobel, J. D. (2016). _Vulvovaginal candidosis_.

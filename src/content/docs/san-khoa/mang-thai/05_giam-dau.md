@@ -111,12 +111,14 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 - Không khuyến cáo dùng thường quy trong thai kỳ.
 - Cần hội chẩn chuyên khoa trước khi sử dụng.
-- Tư vấn nguy cơ - lợi ích rõ ràng với bệnh nhân.
+- Tư vấn nguy cơ - lợi ích rõ ràng với bệnh nhân.[^1][^2][^3]
 
 :::
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế Việt Nam (2021) - _Hướng dẫn sử dụng thuốc hợp lý cho phụ nữ có thai và cho con bú_.
-- WHO - _Pregnancy and Pain Management Guidelines_.
-- CDC - _Treating Pain During Pregnancy: Safety Information_.
+[^1]: Bộ Y tế Việt Nam. _Hướng dẫn sử dụng thuốc hợp lý cho phụ nữ có thai và cho con bú_. NXB Y học; 2021.
+
+[^2]: WHO - _Pregnancy and Pain Management Guidelines_.
+
+[^3]: CDC - _Treating Pain During Pregnancy: Safety Information_.

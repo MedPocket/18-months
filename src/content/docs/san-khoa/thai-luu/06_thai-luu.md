@@ -92,11 +92,14 @@ Theo dõi huyết động, xét nghiệm đông máu.
 
 **Băng huyết sau sổ thai:** Uterotonics (oxytocin, misoprostol), nạo kiểm soát buồng tử cung, thắt động mạch tử cung, cắt tử cung khi cần.
 
-**Nhiễm trùng:** Kháng sinh phổ rộng, dẫn lưu ổ nhiễm, nạo buồng tử cung nếu cần.
+**Nhiễm trùng:** Kháng sinh phổ rộng, dẫn lưu ổ nhiễm, nạo buồng tử cung nếu cần.[^1][^2][^3][^4]
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế Việt Nam - _Hướng dẫn chẩn đoán và xử trí thai lưu_.
-- Cunningham F.G. et al - _Williams Obstetrics_.
-- WHO - _Stillbirth: Definition and Epidemiology_.
-- Royal College of Obstetricians and Gynaecologists (RCOG) - _Green-top Guidelines_.
+[^1]: Bộ Y tế Việt Nam. _Hướng dẫn chẩn đoán và xử trí thai lưu_. NXB Y học.
+
+[^2]: Cunningham F.G. et al - _Williams Obstetrics_.
+
+[^3]: WHO - _Stillbirth: Definition and Epidemiology_.
+
+[^4]: Royal College of Obstetricians and Gynaecologists (RCOG) - _Green-top Guidelines_.

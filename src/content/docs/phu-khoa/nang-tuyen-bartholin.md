@@ -170,9 +170,10 @@ Các biện pháp phòng tránh tắc nghẽn và viêm nhiễm tuyến Bartholi
 - Duy trì vệ sinh vùng kín sạch sẽ, đúng cách hằng ngày, đặc biệt là trong chu kỳ kinh nguyệt và sau khi quan hệ tình dục.
 - Sử dụng bao cao su khi quan hệ tình dục để phòng tránh các bệnh lây nhiễm qua đường tình dục (STIs).
 - Tránh mặc quần lót quá chật hoặc ẩm ướt để giảm kích ứng và viêm nhiễm vùng âm hộ.
-- Khám phụ khoa định kỳ ít nhất **1 lần/năm** để phát hiện sớm các bất thường vùng sinh dục.
+- Khám phụ khoa định kỳ ít nhất **1 lần/năm** để phát hiện sớm các bất thường vùng sinh dục.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- emDocs (2022) - _EM@3AM: Bartholin's Abscess_.
-- Clifford R. Wheeless, Jr., Marcella L. Roenneburg (2020) - _Atlas of Pelvic Surgery: Bartholin's Gland Excision_.
+[^1]: emDocs (2022) - _EM@3AM: Bartholin's Abscess_.
+
+[^2]: Clifford R. Wheeless, Jr., Marcella L. Roenneburg (2020) - _Atlas of Pelvic Surgery: Bartholin's Gland Excision_.

@@ -109,13 +109,16 @@ Nôn nghén thể nặng cần nhập viện:
 
 - Uống thuốc 30 phút trước khi ăn hoặc khi cảm thấy buồn nôn sẽ hiệu quả hơn.
 - Hầu hết các thuốc liệt trên thuộc FDA pregnancy category A hoặc B an toàn cho thai nhi.
-- Khi triệu chứng cải thiện, nên giảm liều dần chứ không ngừng đột ngột.
+- Khi triệu chứng cải thiện, nên giảm liều dần chứ không ngừng đột ngột.[^1][^2][^3][^4]
 
 :::
 
 ## Tài liệu tham khảo
 
-- American College of Obstetricians and Gynecologists (2018) - _Practice Bulletin No. 189: Nausea and Vomiting of Pregnancy_.
-- Niebyl, J. R. (2010). Nausea and vomiting in pregnancy - _New England Journal of Medicine_, 363(16), 1544 - 1550.
-- WHO - _Hyperemesis gravidarum: Clinical management_.
-- Philip Wiffen, Marc Mitchell, Melanie Snelling, Nicola Stoner (2017) - _Oxford Handbook of Clinical Pharmacy_, 513 - 514-515.
+[^1]: American College of Obstetricians and Gynecologists (2018) - _Practice Bulletin No. 189: Nausea and Vomiting of Pregnancy_.
+
+[^2]: Niebyl, J. R. (2010). Nausea and vomiting in pregnancy - _New England Journal of Medicine_, 363(16), 1544 - 1550.
+
+[^3]: WHO - _Hyperemesis gravidarum: Clinical management_.
+
+[^4]: Philip Wiffen, Marc Mitchell, Melanie Snelling, Nicola Stoner (2017) - _Oxford Handbook of Clinical Pharmacy_, 513 - 514-515.

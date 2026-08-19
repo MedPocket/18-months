@@ -72,7 +72,7 @@ Một số chống chỉ định tương đối:
 
 ### Ứng dụng
 
-_Bảng "So sánh tê tủy sống và tê ngoài màng cứng"_.
+_Bảng "So sánh tê tủy sống và tê ngoài màng cứng"_.[^1]
 
 | So sánh tê tủy sống và tê ngoài màng cứng | Cơ chế                                                                       | Ứng dụng                                                          |
 | ----------------------------------------- | ---------------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -81,4 +81,4 @@ _Bảng "So sánh tê tủy sống và tê ngoài màng cứng"_.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

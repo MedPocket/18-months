@@ -37,8 +37,8 @@ Hỏi bệnh sử và khám lâm sàng nhằm tìm các yếu tố định hư�
 - **Chiều dài và hình thái kênh cổ tử cung** (đánh giá hở eo tử cung).
 - **Tình trạng thai** (số lượng, ngôi, tim thai) và các bất thường kèm theo.
 
-**Hemoglobin/hematocrit** và **xét nghiệm đông máu** nếu có dấu hiệu mất máu nhiều hoặc bất ổn huyết động học.
+**Hemoglobin/hematocrit** và **xét nghiệm đông máu** nếu có dấu hiệu mất máu nhiều hoặc bất ổn huyết động học.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

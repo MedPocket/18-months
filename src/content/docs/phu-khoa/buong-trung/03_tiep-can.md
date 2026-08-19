@@ -163,8 +163,8 @@ ROMA test không dùng sàng lọc ung thư giai đoạn sớm.
 - **TP53:** Liên quan ung thư biểu mô buồng trứng thanh dịch grade cao; Cũng gặp nhiều ung thư khác, là chỉ báo tiên lượng xấu.
 - **PIK3CA:** Liên quan u tế bào sáng, u nhầy, u dạng nội mạc.
 - **CTNNB1 exon 3:** Gặp u dạng nội mạc ác tính grade thấp, giai đoạn sớm.
-- **KRAS**, **BRAF:** Thường gặp ở ung thư grade thấp.
+- **KRAS**, **BRAF:** Thường gặp ở ung thư grade thấp.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

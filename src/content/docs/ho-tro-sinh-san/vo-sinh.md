@@ -17,8 +17,8 @@ Khả năng sinh sản cao nhất của nam và nữ là ở 24 tuổi, sau tu�
 - Chỉ từ vợ chiếm 30 - 40% các trường hợp.
 - Chỉ từ chồng chiếm 30 - 40% các trường hợp.
 - Cả vợ và chồng chiếm 20% các trường hợp.
-- Không rõ nguyên nhân chiếm 10 - 15% các trường hợp.
+- Không rõ nguyên nhân chiếm 10 - 15% các trường hợp.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+[^1]: Bệnh viện Hùng Vương. _Phác đồ Hiếm muộn cập nhật 2020_. Accessed 2024. https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020

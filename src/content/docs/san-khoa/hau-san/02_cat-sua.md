@@ -44,12 +44,16 @@ Estrogen chỉ dùng khi không thể dùng thuốc ức chế prolactin hoặc 
 ### Giảm đau và kháng viêm
 
 - **Ibuprofen:** 400 - 600 mg mỗi 6 - 8 giờ, giúp giảm đau và viêm khi vú căng tức.
-- **Paracetamol:** 500-1000 mg mỗi 4-6 giờ (tối đa 4 g/ngày).
+- **Paracetamol:** 500-1000 mg mỗi 4-6 giờ (tối đa 4 g/ngày).[^1][^2][^3][^4][^5]
 
 ## Tài liệu tham khảo
 
-- American College of Obstetricians and Gynecologists (2017) - _Inhibition of Lactation_.
-- Journal of Human Lactation (2016) - _Non-pharmacologic Strategies for Lactation Suppression_.
-- McKinney et al. (2018) - _Use of Dopamine Agonists for Lactation Inhibition_.
-- British Journal of Obstetrics and Gynaecology (2003) - _Pharmacological Suppression of Lactation with Bromocriptine_.
-- BMJ (1993) - _Efficacy and Safety of Cabergoline for Lactation Inhibition_.
+[^1]: American College of Obstetricians and Gynecologists (2017) - _Inhibition of Lactation_.
+
+[^2]: Journal of Human Lactation (2016) - _Non-pharmacologic Strategies for Lactation Suppression_.
+
+[^3]: McKinney et al. (2018) - _Use of Dopamine Agonists for Lactation Inhibition_.
+
+[^4]: British Journal of Obstetrics and Gynaecology (2003) - _Pharmacological Suppression of Lactation with Bromocriptine_.
+
+[^5]: BMJ (1993) - _Efficacy and Safety of Cabergoline for Lactation Inhibition_.

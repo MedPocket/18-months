@@ -70,10 +70,12 @@ _Bảng "So sánh u xơ tử cung, STUMP và sarcoma thân tử cung"_.
 
 - **Chẩn đoán gợi ý:** U xơ-cơ tăng nhanh hoặc xuất huyết bất thường → cân nhắc ác tính.
 - **Theo dõi:** Siêu âm/MRI không dùng thuốc cản quang nếu cần.
-- **Chấm dứt thai kỳ:** Ưu tiên sinh non có kiểm soát (≥ 34 tuần).
+- **Chấm dứt thai kỳ:** Ưu tiên sinh non có kiểm soát (≥ 34 tuần).[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- WHO - _Classification of Tumours, Female Genital Tumours (5th ed.)_
-- ACOG - _Practice Bulletin on Uterine Sarcoma và STUMP_.
-- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: WHO - _Classification of Tumours, Female Genital Tumours (5th ed.)_
+
+[^2]: ACOG - _Practice Bulletin on Uterine Sarcoma và STUMP_.
+
+[^3]: Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning_.

@@ -95,10 +95,10 @@ Cần phân biệt với các loại viêm âm đạo khác (BV, VVC, _Trichomon
 
 - Các liệu pháp estrogen tại chỗ hiếm khi có tác dụng toàn thân nhưng cần thận trọng ở phụ nữ có tiền sử ung thư vú phụ thuộc estrogen, bệnh tim mạch hoặc huyết khối.
 - Nếu điều trị tại chỗ không hiệu quả sau 3 tháng, cần đánh giá lại chẩn đoán, cân nhắc HRT toàn thân hoặc chuyển khoa tiết niệu, nội tiết.
-- Trong trường hợp có viêm nhiễm phối hợp, điều trị kháng sinh/kháng nấm theo đúng phác đồ và cân nhắc theo dõi cấy để tránh kháng thuốc.
+- Trong trường hợp có viêm nhiễm phối hợp, điều trị kháng sinh/kháng nấm theo đúng phác đồ và cân nhắc theo dõi cấy để tránh kháng thuốc.[^1]
 
 :::
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

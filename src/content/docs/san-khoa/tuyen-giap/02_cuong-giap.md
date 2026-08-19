@@ -77,10 +77,10 @@ Các triệu chứng lâm sàng định hướng chẩn đoán:
 Kháng thể kích thích tuyến giáp từ mẹ (TRAb) có thể qua rau, tồn tại 2 - 3 tháng → khoảng **1% trẻ sơ sinh của mẹ Graves có nhiễm độc giáp**, nguy cơ tử vong lên đến 16%. Nghi ngờ khi:
 
 - Tim thai > 160 lần/phút kéo dài.
-- Siêu âm: Phát hiện bướu giáp thai.
+- Siêu âm: Phát hiện bướu giáp thai.[^1]
 
 :::
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

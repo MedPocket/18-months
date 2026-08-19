@@ -164,11 +164,8 @@ Thường xảy ra sau sinh mổ do cầm máu không đầy đủ, tụ máu n�
 
 - Khuyết cơ tử cung nhưng thanh mạc còn nguyên.
 - Dễ nhầm với hình ảnh hậu phẫu bình thường.
-- Tụ máu vạt bàng quang lớn (> 5 cm) gợi ý rách/vỡ.
+- Tụ máu vạt bàng quang lớn (> 5 cm) gợi ý rách/vỡ.[^1]
 
 ## Tài liệu tham khảo
 
-- Ultrasonography - [Pelvic ultrasonography of the postpartum.
-  uterus in patients presenting to the
-  emergency room with vaginal bleeding
-  and pelvic pain](https://www.e-ultrasonography.org/journal/view.php?doi=10.14366/usg.22004)
+[^1]: Ultrasonography. _Pelvic ultrasonography of the postpartum uterus in patients presenting to the emergency room with vaginal bleeding and pelvic pain_. Accessed 2024. https://www.e-ultrasonography.org/journal/view.php?doi=10.14366/usg.22004

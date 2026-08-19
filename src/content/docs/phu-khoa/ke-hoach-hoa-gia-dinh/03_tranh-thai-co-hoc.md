@@ -128,11 +128,12 @@ Các phương pháp phổ biến gồm: Bao cao su, màng chắn âm đạo, mũ
 :::caution
 
 - Cần đặt trước giao hợp ít nhất 10 - 15 phút để thuốc phát huy tác dụng.
-- Không rửa âm đạo ngay sau quan hệ, chờ tối thiểu 6 giờ.
+- Không rửa âm đạo ngay sau quan hệ, chờ tối thiểu 6 giờ.[^1][^2]
 
 :::
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^2]: World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.

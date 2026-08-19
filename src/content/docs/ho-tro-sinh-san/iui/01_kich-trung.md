@@ -112,8 +112,8 @@ _Hình "Phác đồ kích trứng FSH tái tổ hợp". Nguồn: Bệnh viện H
 ### Phối hợp CC/AI + HMG hoặc FSH tái tổ hợp
 
 - CC 25 mg x 2 lần/ngày x 5 ngày (ngày 2-5) và/hoặc AI 2.5 mg x 2 lần/ngày x 5 ngày (ngày 2-5).
-- Siêu âm ngày 8, nếu chưa có nang trội → bổ sung HMG hoặc rFSH và siêu âm sau 2 - 3 ngày. Nếu sau 2 - 3 ngày chưa có nang → duy trì thêm tối đa 14 ngày. Không có nang sau 14 ngày → hủy chu kỳ, bắt đầu chu kỳ mới.
+- Siêu âm ngày 8, nếu chưa có nang trội → bổ sung HMG hoặc rFSH và siêu âm sau 2 - 3 ngày. Nếu sau 2 - 3 ngày chưa có nang → duy trì thêm tối đa 14 ngày. Không có nang sau 14 ngày → hủy chu kỳ, bắt đầu chu kỳ mới.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+[^1]: Bệnh viện Hùng Vương. _Phác đồ Hiếm muộn cập nhật 2020_. Accessed 2024. https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020

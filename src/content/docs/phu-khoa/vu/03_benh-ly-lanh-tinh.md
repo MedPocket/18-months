@@ -338,10 +338,12 @@ Khoảng 50 - 60% phụ nữ có thay đổi mô học, khoảng 30 - 50% có tr
 
 - Khi nghi ngờ hình ảnh bất thường (hình xơ spiculated, microcalcifications đáng ngờ), cần **core biopsy** để loại trừ carcinoma in situ hoặc invasive.
 - Điều trị triệu chứng: NSAIDs, thuốc giảm đau, vú đeo áo mút mềm hỗ trợ. Thay đổi chế độ ăn (giảm caffein, muối), bổ sung vitamin E, dầu cá (có thể cải thiện đau căng vú).
-- Theo dõi định kỳ: Siêu âm/nhũ ảnh 6-12 tháng nếu có rối loạn mô học không điển hình nhưng không ung thư.
+- Theo dõi định kỳ: Siêu âm/nhũ ảnh 6-12 tháng nếu có rối loạn mô học không điển hình nhưng không ung thư.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Gray H (2019) - _Gray’s Anatomy for Students: Breast Anatomy_.
-- Kurman RJ, Ellenson LH, Ronnett BM (2019) - _Blaustein’s Pathology of the Female Genital Tract_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Gray H (2019) - _Gray’s Anatomy for Students: Breast Anatomy_.
+
+[^3]: Kurman RJ, Ellenson LH, Ronnett BM (2019) - _Blaustein’s Pathology of the Female Genital Tract_.

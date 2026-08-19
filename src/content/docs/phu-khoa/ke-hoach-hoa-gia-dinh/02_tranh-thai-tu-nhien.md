@@ -154,9 +154,10 @@ Phương pháp chỉ hiệu quả khi hội đủ **3 điều kiện:**
 - Cho bú hoàn toàn.
 - Chưa có kinh trở lại.
 
-Sau 6 tháng hoặc khi kinh nguyệt xuất hiện, **cần chuyển sang biện pháp tránh thai khác.**
+Sau 6 tháng hoặc khi kinh nguyệt xuất hiện, **cần chuyển sang biện pháp tránh thai khác.**.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^2]: World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.

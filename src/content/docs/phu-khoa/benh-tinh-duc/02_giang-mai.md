@@ -267,8 +267,8 @@ Quy trình chẩn đoán thường là:
 - **Thực hành tình dục an toàn:** Sử dụng bao cao su đúng cách khi quan hệ âm đạo, hậu môn, miệng; Hạn chế số bạn tình.
 - **Khám sàng lọc định kỳ STI** cho nhóm nguy cơ cao.
 - **Tập huấn chuyên môn** cho nhân viên y tế tuyến xã, huyện, tỉnh về chẩn đoán sớm, điều trị đúng, chống kháng thuốc.
-- **Giám sát kháng thuốc:** Đẩy mạnh nuôi cấy _N. gonorrhoeae_ và làm kháng sinh đồ để theo dõi tình hình kháng thuốc, điều chỉnh phác đồ thuốc kịp thời.
+- **Giám sát kháng thuốc:** Đẩy mạnh nuôi cấy _N. gonorrhoeae_ và làm kháng sinh đồ để theo dõi tình hình kháng thuốc, điều chỉnh phác đồ thuốc kịp thời.[^1]
 
 ## Tài liệu tham khảo
 
-- BỘ Y TẾ (2021) - _Hướng dẫn chẩn đoán và điều trị bệnh giang mai_.
+[^1]: BỘ Y TẾ (2021) - _Hướng dẫn chẩn đoán và điều trị bệnh giang mai_.

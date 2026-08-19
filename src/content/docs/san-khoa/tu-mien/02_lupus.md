@@ -140,10 +140,12 @@ Các yếu tố tiên lượng xấu bao gồm:
 
 - Viêm thận lupus hoạt động.
 - Hội chứng kháng phospholipid.
-- Bệnh không được kiểm soát tốt trước khi mang thai.
+- Bệnh không được kiểm soát tốt trước khi mang thai.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- MSD Manual - [Lupus ban đỏ hệ thống (SLE)](https://www.msdmanuals.com/vi/professional/rối-loạn-mô-cơ-xương-và-mô-liên-kết/bệnh-thấp-khớp-hệ-thống/lupus-ban-đỏ-hệ-thống-sle)
-- EULAR - EULAR recommendations for the management of systemic lupus erythematosus in pregnancy.
-- UpToDate - Pregnancy in women with systemic lupus erythematosus.
+[^1]: MSD Manuals. _Lupus ban đỏ hệ thống (SLE)_. Cẩm nang MSD. Accessed 2024. https://www.msdmanuals.com/vi/professional/rối-loạn-mô-cơ-xương-và-mô-liên-kết/bệnh-thấp-khớp-hệ-thống/lupus-ban-đỏ-hệ-thống-sle
+
+[^2]: EULAR - EULAR recommendations for the management of systemic lupus erythematosus in pregnancy.
+
+[^3]: UpToDate - Pregnancy in women with systemic lupus erythematosus.

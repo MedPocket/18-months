@@ -103,9 +103,10 @@ Các phương pháp phổ biến gồm triệt sản nam và triệt sản nữ.
 
 - Cần phẫu thuật, nguy cơ tai biến ngoại khoa.
 - Gần như không thể phục hồi sinh sản.
-- Không bảo vệ khỏi bệnh lây truyền qua đường tình dục.
+- Không bảo vệ khỏi bệnh lây truyền qua đường tình dục.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^2]: World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.

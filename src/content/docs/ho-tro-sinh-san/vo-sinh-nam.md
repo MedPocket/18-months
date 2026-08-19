@@ -240,8 +240,8 @@ _Hình "Lưu đồ xử trí vô tinh"_.
 - Nếu đạt mục tiêu nội tiết, vẫn không có tinh trùng trong tinh dịch → **MicroTESE**.
 - Nếu đạt mục tiêu có tinh trùng, duy trì điều trị 6 - 12 tháng tiếp theo.
 
-Chỉ định **IUI** hoặc **IVF** tùy thuộc mức độ cải thiện tinh trùng sau điều trị.
+Chỉ định **IUI** hoặc **IVF** tùy thuộc mức độ cải thiện tinh trùng sau điều trị.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+[^1]: Bệnh viện Hùng Vương. _Phác đồ Hiếm muộn cập nhật 2020_. Accessed 2024. https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020

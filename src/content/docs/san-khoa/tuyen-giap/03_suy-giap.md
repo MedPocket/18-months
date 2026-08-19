@@ -35,8 +35,8 @@ Thiếu hormone tuyến giáp trong thai kỳ và giai đoạn sơ sinh sớm g�
 ## Điều trị
 
 - **Levothyroxine**, chỉnh liều dựa trên TSH (mỗi 4 tuần).
-- Mục tiêu giữ TSH trong ngưỡng thấp bình thường theo từng tam cá nguyệt.
+- Mục tiêu giữ TSH trong ngưỡng thấp bình thường theo từng tam cá nguyệt.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

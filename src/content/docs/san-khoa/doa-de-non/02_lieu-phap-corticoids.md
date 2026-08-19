@@ -48,12 +48,16 @@ Trong một số tình huống, có thể cân nhắc liều nhắc lại (rescu
 
 ## Theo dõi
 
-- Theo dõi huyết áp, đường huyết và dấu hiệu nhiễm trùng sau tiêm corticoids.
+- Theo dõi huyết áp, đường huyết và dấu hiệu nhiễm trùng sau tiêm corticoids.[^1][^2][^3][^4][^5]
 
 ## Tài liệu tham khảo
 
-- American Journal of Obstetrics and Gynecology (1995) - _Antenatal corticosteroids: A meta-analysis of clinical trials_.
-- Cochrane Database of Systematic Reviews (2006) - _Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth_.
-- BJOG (2002) - _Betamethasone versus dexamethasone for fetal lung maturation_.
-- Neonatology (2014) - _Long-term outcomes after antenatal corticosteroids_.
-- Obstetrics & Gynecology (2017) - _Single versus multiple courses of antenatal corticosteroids: Maternal and neonatal outcomes_.
+[^1]: American Journal of Obstetrics and Gynecology (1995) - _Antenatal corticosteroids: A meta-analysis of clinical trials_.
+
+[^2]: Cochrane Database of Systematic Reviews (2006) - _Antenatal corticosteroids for accelerating fetal lung maturation for women at risk of preterm birth_.
+
+[^3]: BJOG (2002) - _Betamethasone versus dexamethasone for fetal lung maturation_.
+
+[^4]: Neonatology (2014) - _Long-term outcomes after antenatal corticosteroids_.
+
+[^5]: Obstetrics & Gynecology (2017) - _Single versus multiple courses of antenatal corticosteroids: Maternal and neonatal outcomes_.

@@ -205,12 +205,16 @@ Thuyên tắc động mạch tử cung có thể coi là biện pháp tương đ
 **Cắt tử cung (Hysterectomy):**
 
 - Phương pháp triệt để cho AUB cơ năng hoặc thực thể khi: Thất bại với mọi phương pháp điều trị bảo tồn; Có kèm các bệnh lý thực thể nặng (u xơ lớn, loạn sản/ung thư nội mạc); Bệnh nhân không còn nhu cầu sinh thêm con.
-- Các đường mổ: Mổ mở, nội soi, nội soi hỗ trợ qua âm đạo (TLH, LAVH, VH) tùy điều kiện.
+- Các đường mổ: Mổ mở, nội soi, nội soi hỗ trợ qua âm đạo (TLH, LAVH, VH) tùy điều kiện.[^1][^2][^3][^4][^5]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- FIGO (2018) - _PALM-COEIN Classification of Causes of Abnormal Uterine Bleeding_.
-- UpToDate (2024) - _Abnormal uterine bleeding in reproductive-aged women (truy cập tháng 5/2025)_
-- ACOG Practice Bulletin No. 128 (2021) - _Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^3]: FIGO (2018) - _PALM-COEIN Classification of Causes of Abnormal Uterine Bleeding_.
+
+[^4]: UpToDate (2024) - _Abnormal uterine bleeding in reproductive-aged women (truy cập tháng 5/2025)_
+
+[^5]: ACOG Practice Bulletin No. 128 (2021) - _Diagnosis of Abnormal Uterine Bleeding in Reproductive-Aged Women_.

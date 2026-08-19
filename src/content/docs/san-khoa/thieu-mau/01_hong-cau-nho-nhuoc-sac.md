@@ -24,8 +24,8 @@ Thiếu máu trong thai kỳ gây ra:
 Theo khuyến cáo của CDC:
 
 - **3 tháng đầu & 3 tháng cuối:** Hb < 11 g/dL.
-- **3 tháng giữa:** Hb < 10.5 g/dL.
+- **3 tháng giữa:** Hb < 10.5 g/dL.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

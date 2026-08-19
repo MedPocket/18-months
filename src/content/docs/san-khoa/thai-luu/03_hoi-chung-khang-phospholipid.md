@@ -203,12 +203,16 @@ _Hình "Lịch trình theo dõi sản khoa đối với thai kỳ có hội ch�
 - **Thời điểm chuyển dạ:** Cân nhắc chủ động cho sinh ở tuần **38 - 39** nếu thai kỳ ổn định.
 - **Quản lý kháng đông peri-partum:** Ngừng _Aspirin_ trước sinh **7 ngày**. Ngừng LMWH liều dự phòng **12 - 24 giờ** trước khi khởi động chuyển dạ hoặc mổ lấy thai chủ động để đảm bảo an toàn gây tê tủy sống/ngoài màng cứng.
 - **Thời kỳ hậu sản:** Tái khởi động LMWH sau sinh **6 - 12 giờ** (nếu không có chảy máu cấp) và duy trì trong **6 tuần hậu sản** để dự phòng thuyên tắc tĩnh mạch.
-- **Thụ tinh trong ống nghiệm (IVF/ART):** Với bệnh nhân aPL dương tính thực hiện ART, cần dùng LDA trong suốt quá trình kích thích buồng trứng, tạm dừng LDA **3 ngày** trước khi chọc hút noãn và dùng lại kết hợp LMWH từ ngày chuyển phôi.
+- **Thụ tinh trong ống nghiệm (IVF/ART):** Với bệnh nhân aPL dương tính thực hiện ART, cần dùng LDA trong suốt quá trình kích thích buồng trứng, tạm dừng LDA **3 ngày** trước khi chọc hút noãn và dùng lại kết hợp LMWH từ ngày chuyển phôi.[^1][^2][^3][^4][^5]
 
 ## Tài liệu tham khảo
 
-- Murvai VR, Galiș R, Panaitescu A, et al. (2025) - _Antiphospholipid syndrome in pregnancy: a comprehensive literature review_. BMC Pregnancy and Childbirth, 25:337.
-- Barbhaiya M, Zuily S, Naden R, et al. (2023) - _2023 ACR/EULAR antiphospholipid syndrome classification criteria_. Annals of the Rheumatic Diseases, 82(10):1258-1270.
-- Tektonidou MG, Andreoli L, Limper M, et al. (2019) - _EULAR recommendations for the management of antiphospholipid syndrome in adults_. Annals of the Rheumatic Diseases, 78(10):1296-1304.
-- Sammaritano LR, Bermas BL, Chakravarty EE, et al. (2020) - _2020 American College of Rheumatology Guideline for the Management of Reproductive Health in Rheumatic and Musculoskeletal Diseases_. Arthritis & Rheumatology, 72(4):529-556.
-- Bộ Y tế Việt Nam (2021) - _Hướng dẫn chẩn đoán và điều trị hội chứng kháng phospholipid_.
+[^1]: Murvai VR, Galiș R, Panaitescu A, et al. (2025) - _Antiphospholipid syndrome in pregnancy: a comprehensive literature review_. BMC Pregnancy and Childbirth, 25:337.
+
+[^2]: Barbhaiya M, Zuily S, Naden R, et al. (2023) - _2023 ACR/EULAR antiphospholipid syndrome classification criteria_. Annals of the Rheumatic Diseases, 82(10):1258-1270.
+
+[^3]: Tektonidou MG, Andreoli L, Limper M, et al. (2019) - _EULAR recommendations for the management of antiphospholipid syndrome in adults_. Annals of the Rheumatic Diseases, 78(10):1296-1304.
+
+[^4]: Sammaritano LR, Bermas BL, Chakravarty EE, et al. (2020) - _2020 American College of Rheumatology Guideline for the Management of Reproductive Health in Rheumatic and Musculoskeletal Diseases_. Arthritis & Rheumatology, 72(4):529-556.
+
+[^5]: Bộ Y tế Việt Nam. _Hướng dẫn chẩn đoán và điều trị hội chứng kháng phospholipid_. NXB Y học; 2021.

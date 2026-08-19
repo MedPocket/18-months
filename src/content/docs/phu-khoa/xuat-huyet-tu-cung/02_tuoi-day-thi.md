@@ -231,11 +231,13 @@ _Bảng "Các loại progestin"_.
 - **Nếu sau 2 - 3 năm** kinh nguyệt vẫn không đều, xuất huyết tái phát nhiều lần: Cần đánh giá lại toàn diện, tìm nguyên nhân rối loạn phóng noãn vĩnh viễn (PCOS, rối loạn tuyến giáp, rối loạn cushing, nguyên nhân di truyền...). Có thể cần hội chẩn nội tiết, sản khoa - nhi khoa để tiếp tục điều trị chuyên sâu.
 
 :::caution
-COC giúp cầm máu khá hiệu quả, nhưng có thể ức chế hạ đồi mạnh, nên chỉ sử dụng ngắn hạn. Dùng dài hạn có thể ảnh hưởng lâu dài đến hoạt động trục HPG.  
+COC giúp cầm máu khá hiệu quả, nhưng có thể ức chế hạ đồi mạnh, nên chỉ sử dụng ngắn hạn. Dùng dài hạn có thể ảnh hưởng lâu dài đến hoạt động trục HPG.[^1][^2][^3]
 :::
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- UpToDate (2024) - _Abnormal uterine bleeding in adolescents (truy cập tháng 5/2025)_
-- WHO (2018) - _Adolescent health: Abnormal uterine bleeding_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: UpToDate (2024) - _Abnormal uterine bleeding in adolescents (truy cập tháng 5/2025)_
+
+[^3]: WHO (2018) - _Adolescent health: Abnormal uterine bleeding_.

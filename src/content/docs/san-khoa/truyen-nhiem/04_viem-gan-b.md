@@ -75,9 +75,10 @@ Xét nghiệm HBsAg và anti-HBs cho trẻ > 12 tháng để đánh giá hiệu 
 ### Điều trị
 
 - **Tiêm HBIG (Globulin miễn dịch đặc hiệu):** Nếu chưa tiêm vắc-xin hoặc chưa có kháng thể.
-- **Tiêm vắc-xin viêm gan B:** Đồng thời hoặc sau tiêm HBIG tùy từng trường hợp.
+- **Tiêm vắc-xin viêm gan B:** Đồng thời hoặc sau tiêm HBIG tùy từng trường hợp.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bộ Y tế (2019) 3310/QĐ-BYT - _Hướng dẫn chẩn đoán, điều trị bệnh viêm gan virus B_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bộ Y tế Việt Nam. _Hướng dẫn chẩn đoán, điều trị bệnh viêm gan virus B_. NXB Y học; 2019.

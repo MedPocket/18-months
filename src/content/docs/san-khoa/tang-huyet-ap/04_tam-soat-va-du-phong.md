@@ -31,9 +31,10 @@ _Bảng "Đánh giá lâm sàng nguy cơ tiền sản giật"_.
 - Dừng vào tuần 36.
 
 ![Lưu đồ tầm soát tiền sản giật 3 tháng đầu - Bệnh viện Từ Dũ](./_images/luu-do-tam-soat-tien-san-giat-3-thang-dau.png)
-_Hình "Lưu đồ tầm soát tiền sản giật 3 tháng đầu". Nguồn: Bệnh viện Từ Dũ_.
+_Hình "Lưu đồ tầm soát tiền sản giật 3 tháng đầu". Nguồn: Bệnh viện Từ Dũ_.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

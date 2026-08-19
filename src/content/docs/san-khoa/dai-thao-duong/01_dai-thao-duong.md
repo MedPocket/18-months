@@ -223,12 +223,16 @@ _Hình "Tóm tắt thời điểm và chỉ định cách sinh"_.
 - **ĐTĐ type 1:** Duy trì basal-bolus, điều chỉnh liều trước và trong thai kỳ.
 - **ĐTĐ type 2:** Chuyển sang insulin 0.4-0.5 IU/kg/ngày, tăng dần từ tuần 13 (0.8-1.0 IU/kg/ngày cuối thai kỳ).
 - **Thuốc dự phòng tiền sản giật:** Aspirin 60-150 mg/ngày trong 3 tháng đầu.
-- **Tư vấn dinh dưỡng - luyện tập** sớm, đánh giá các biến chứng mạch máu, thận trước khi mang thai.
+- **Tư vấn dinh dưỡng - luyện tập** sớm, đánh giá các biến chứng mạch máu, thận trước khi mang thai.[^1][^2][^3][^4][^5]
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế (2023) - _Hướng dẫn quốc gia về sàng lọc và quản lý ĐTĐ thai kỳ_.
-- FIGO (2015) - _Management of Pre-existing Diabetes and GDM in Pregnancy_.
-- Hiệp hội Đái tháo đường Hoa Kỳ (ADA, 2024) - _Standards of Medical Care in Diabetes - Pregnancy Section_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- TS. Lê Quang Toàn - [_Bài giảng đái tháo đường thai kỳ_](https://www.youtube.com/watch?v=WV4g4cJdMCo)
+[^1]: Bộ Y tế Việt Nam. _Hướng dẫn quốc gia về sàng lọc và quản lý ĐTĐ thai kỳ_. NXB Y học; 2023.
+
+[^2]: FIGO (2015) - _Management of Pre-existing Diabetes and GDM in Pregnancy_.
+
+[^3]: Hiệp hội Đái tháo đường Hoa Kỳ (ADA, 2024) - _Standards of Medical Care in Diabetes - Pregnancy Section_.
+
+[^4]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^5]: TS. Lê Quang Toàn - [_Bài giảng đái tháo đường thai kỳ_](https://www.youtube.com/watch?v=WV4g4cJdMCo)

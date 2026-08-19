@@ -113,8 +113,8 @@ Phẫu thuật sản phụ khoa chiếm **65% các trường hợp tổn thươn
 
 - Luôn **xác định rõ bàng quang và niệu quản** trước khi cắt hoặc đốt điện.
 - Tránh kẹp hoặc cột mù khi cầm máu.
-- Thận trọng khi sử dụng năng lượng (đốt điện, dao siêu âm).
+- Thận trọng khi sử dụng năng lượng (đốt điện, dao siêu âm).[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+[^1]: Bệnh viện Hùng Vương. _Phác đồ Hiếm muộn cập nhật 2020_. Accessed 2024. https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020

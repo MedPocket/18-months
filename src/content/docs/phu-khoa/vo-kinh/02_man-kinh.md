@@ -191,8 +191,8 @@ Các thuốc này **kém hiệu quả hơn HRT** nhưng hữu ích khi HRT chố
 - Loãng xương.
 - Bệnh tim mạch.
 - Sa sút trí tuệ.
-- Rối loạn chuyển hóa.
+- Rối loạn chuyển hóa.[^1]
 
 ## Tài liệu tham khảo
 
-- MSD Manual - [Mãn kinh](https://www.msdmanuals.com/vi/professional/phụ-khoa-và-sản-khoa/mãn-kinh/mãn-kinh)
+[^1]: MSD Manuals. _Mãn kinh_. Cẩm nang MSD. Accessed 2024. https://www.msdmanuals.com/vi/professional/phụ-khoa-và-sản-khoa/mãn-kinh/mãn-kinh

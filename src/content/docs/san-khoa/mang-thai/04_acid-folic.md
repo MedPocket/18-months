@@ -75,8 +75,8 @@ _Hình "Chu trình folate và chu trình methionine"_.
 ### Theo dõi
 
 - Xét nghiệm homocysteine lại sau 6 - 8 tuần dùng 5-MTHF.
-- Trong thai kỳ theo dõi folate, B12 và chỉ số đông máu.
+- Trong thai kỳ theo dõi folate, B12 và chỉ số đông máu.[^1]
 
 ## Tài liệu tham khảo
 
-- PGS.TS Vũ Thị Nhung - [_Sảy thai và vai trò của MTHFR_](https://drive.google.com/file/d/173C1XnVbzQqV7jPuuh5mDn3kgv2N4Gzl)
+[^1]: PGS.TS Vũ Thị Nhung - [_Sảy thai và vai trò của MTHFR_](https://drive.google.com/file/d/173C1XnVbzQqV7jPuuh5mDn3kgv2N4Gzl)

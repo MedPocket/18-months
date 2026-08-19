@@ -100,8 +100,8 @@ _Bảng "Phân loại quá kích buồng trứng". Nguồn: Bệnh viện Từ D
 
 - **Giảm liều hCG** kích phóng noãn.
 - **Không tiêm hCG**, thay bằng **GnRH đồng vận** (Triptorelin 0,1 mg x 2 ống tiêm dưới da).
-- **Hủy chu kỳ** hoặc **trữ toàn bộ phôi**, không chuyển phôi tươi.
+- **Hủy chu kỳ** hoặc **trữ toàn bộ phôi**, không chuyển phôi tươi.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

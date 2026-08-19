@@ -80,8 +80,8 @@ Thường áp dụng cho BN có dự trữ buồng trứng kém, ít hơn 3 noã
 
 ### Nuôi trưởng thành noãn non (In vitro maturation - IVM)
 
-Áp dụng cho phụ nữ đa nang buồng trứng. Nang noãn thứ cấp được hút và nuôi cấy trong môi trường chuẩn IVF sau đó được tiêm tinh trùng tạo phôi và chuyển phôi.
+Áp dụng cho phụ nữ đa nang buồng trứng. Nang noãn thứ cấp được hút và nuôi cấy trong môi trường chuẩn IVF sau đó được tiêm tinh trùng tạo phôi và chuyển phôi.[^1]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+[^1]: Bệnh viện Hùng Vương. _Phác đồ Hiếm muộn cập nhật 2020_. Accessed 2024. https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020

@@ -203,9 +203,10 @@ _Hình "Xử trí tiết dịch núm vú bệnh lý". Nguồn: Bệnh viện T�
 
 - **Hoàn toàn lành tính (ví dụ Intraductal papilloma lành, duct ectasia không viêm):** Nếu không triệu chứng (ít dịch, không đau), có thể theo dõi lâm sàng, không cần phẫu thuật. Nếu còn tiếp tục chảy dịch hoặc cảm giác khó chịu, có thể cân nhắc phẫu thuật cắt ống chảy dịch (microdochectomy).
 - **Tổn thương có nguy cơ (bướu nhú có tế bào atypia, sclerosing lesion phức tạp):** Phẫu thuật cắt rộng hơn hoặc theo dõi chặt chẽ (nhũ ảnh + siêu âm 6 tháng/lần).
-- **Ung thư ống tại chỗ (DCIS) hoặc carcinoma xâm lấn:** - Chuyển sang phác đồ điều trị ung thư vú (phẫu thuật, xạ trị, hóa - nội tiết tùy giai đoạn và phân nhóm mô học).
+- **Ung thư ống tại chỗ (DCIS) hoặc carcinoma xâm lấn:** - Chuyển sang phác đồ điều trị ung thư vú (phẫu thuật, xạ trị, hóa - nội tiết tùy giai đoạn và phân nhóm mô học).[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

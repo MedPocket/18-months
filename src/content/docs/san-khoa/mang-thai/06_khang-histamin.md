@@ -27,15 +27,22 @@ description: Sử dụng kháng histamin trong thai kỳ.
 **Chlorpheniramine (Chlor-Trimeton):**
 
 - Liều khuyến cáo: 4 mg mỗi 4-6 giờ, không vượt quá 24 mg/ngày.
-- Đặc điểm: Ít buồn ngủ hơn diphenhydramine nhưng vẫn thuộc thế hệ 1, chỉ dùng khi cần thiết trong quý đầu.
+- Đặc điểm: Ít buồn ngủ hơn diphenhydramine nhưng vẫn thuộc thế hệ 1, chỉ dùng khi cần thiết trong quý đầu.[^1][^2][^3][^4][^5][^6][^7][^8]
 
 ## Tài liệu tham khảo
 
-- Journal of Clinical Medicine (2020) - _Use of Antihistamines in Pregnancy: A Review_.
-- American Family Physician (2017) - _The Safety of Antihistamines During Pregnancy_.
-- Drug Safety (2018) - _Safety of second-generation antihistamines in pregnancy: A review of the evidence_.
-- International Journal of Women’s Health (2016) - _Loratadine use in pregnancy: Safety and efficacy_.
-- American Journal of Obstetrics and Gynecology (2000) - _Loratadine in pregnancy: Safety and pharmacokinetics_.
-- Pharmacotherapy (2016) - _Safety of cetirizine in pregnancy: A review of the literature_.
-- Pharmacology & Therapeutics (2018) - _Use of antihistamines during pregnancy_.
-- American Family Physician (2009) - _Chlorpheniramine and other antihistamines in pregnancy_.
+[^1]: Journal of Clinical Medicine (2020) - _Use of Antihistamines in Pregnancy: A Review_.
+
+[^2]: American Family Physician (2017) - _The Safety of Antihistamines During Pregnancy_.
+
+[^3]: Drug Safety (2018) - _Safety of second-generation antihistamines in pregnancy: A review of the evidence_.
+
+[^4]: International Journal of Women’s Health (2016) - _Loratadine use in pregnancy: Safety and efficacy_.
+
+[^5]: American Journal of Obstetrics and Gynecology (2000) - _Loratadine in pregnancy: Safety and pharmacokinetics_.
+
+[^6]: Pharmacotherapy (2016) - _Safety of cetirizine in pregnancy: A review of the literature_.
+
+[^7]: Pharmacology & Therapeutics (2018) - _Use of antihistamines during pregnancy_.
+
+[^8]: American Family Physician (2009) - _Chlorpheniramine and other antihistamines in pregnancy_.

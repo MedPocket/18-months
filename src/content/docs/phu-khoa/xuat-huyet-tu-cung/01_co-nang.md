@@ -137,8 +137,8 @@ Thường uống vào buổi tối, giờ cố định để giảm tác dụng 
 
 - **Nạo buồng tử cung:** Giúp cầm máu tức thì.
 - **Đốt nội mạc tử cung:** Giải pháp lâu dài nhưng làm mất khả năng sinh sản.
-- **Cắt tử cung:** Chỉ định sau cùng khi thất bại với mọi phương pháp điều trị khác.
+- **Cắt tử cung:** Chỉ định sau cùng khi thất bại với mọi phương pháp điều trị khác.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

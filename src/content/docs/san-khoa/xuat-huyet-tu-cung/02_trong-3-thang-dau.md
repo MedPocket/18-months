@@ -59,8 +59,8 @@ Là biện pháp tiếp cận thứ cấp, giúp đánh giá:
 Sau khi xác định túi thai có phôi và tim thai, vai trò β-hCG giảm.
 
 ![Lược đồ tiếp cận xuất huyết 3 tháng đầu theo siêu âm](./_images/luoc-do-xuat-huyet-3-thang-dau-theo-sieu-am.png)
-_Hình "Lược đồ tiếp cận xuất huyết 3 tháng đầu theo siêu âm"_.
+_Hình "Lược đồ tiếp cận xuất huyết 3 tháng đầu theo siêu âm"_.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

@@ -153,7 +153,7 @@ _Bảng "Tổng hợp biến chứng cấp tính khi đặt dụng cụ tử cun
 
 Các biến chứng mạn tính và muộn diễn ra trong quá trình sử dụng dụng cụ tử cung.
 
-_Bảng "Tổng hợp biến chứng mạn tính và muộn khi đặt dụng cụ tử cung"_.
+_Bảng "Tổng hợp biến chứng mạn tính và muộn khi đặt dụng cụ tử cung"_.[^1][^2][^3][^4][^5][^6][^7][^8]
 
 | Biến chứng                                          | Phân loại và Nguyên nhân                                                                                                                                                                                                    | Hướng xử trí chuẩn y khoa                                                                                                                                                                                                                                                               |
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -166,11 +166,18 @@ _Bảng "Tổng hợp biến chứng mạn tính và muộn khi đặt dụng c�
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế Việt Nam (2016) - _Hướng dẫn Quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản_ (Quyết định số 4128/QĐ-BYT).
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- American College of Obstetricians and Gynecologists (ACOG) (2017) - _Practice Bulletin No. 186: Long-Acting Reversible Contraception: Implants and Intrauterine Devices_.
-- American College of Obstetricians and Gynecologists (ACOG) (2021) - _Clinical Consensus No. 1: Counseling About Long-Acting Reversible Contraception_.
-- Centers for Disease Control and Prevention (CDC) (2016) - _U.S. Selected Practice Recommendations for Contraceptive Use (U.S. SPR)_.
-- Faculty of Sexual and Reproductive Healthcare (FSRH) / RCOG (2015, updated 2019) - _Clinical Guideline: Intrauterine Contraception_.
-- Cochrane Database of Systematic Reviews - _Non-steroidal anti-inflammatory drugs for heavy bleeding or pain associated with intrauterine-device use_.
-- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.
+[^1]: Bộ Y tế Việt Nam. _Hướng dẫn Quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản_. NXB Y học; 2016.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^3]: American College of Obstetricians and Gynecologists (ACOG) (2017) - _Practice Bulletin No. 186: Long-Acting Reversible Contraception: Implants and Intrauterine Devices_.
+
+[^4]: American College of Obstetricians and Gynecologists (ACOG) (2021) - _Clinical Consensus No. 1: Counseling About Long-Acting Reversible Contraception_.
+
+[^5]: Centers for Disease Control and Prevention (CDC) (2016) - _U.S. Selected Practice Recommendations for Contraceptive Use (U.S. SPR)_.
+
+[^6]: Faculty of Sexual and Reproductive Healthcare (FSRH) / RCOG (2015, updated 2019) - _Clinical Guideline: Intrauterine Contraception_.
+
+[^7]: Cochrane Database of Systematic Reviews - _Non-steroidal anti-inflammatory drugs for heavy bleeding or pain associated with intrauterine-device use_.
+
+[^8]: World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.

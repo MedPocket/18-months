@@ -98,8 +98,8 @@ Triệu chứng viêm phúc mạc trong 48 giờ đầu:
 - Giảm lực thao tác, dùng lam ruột khi kẹp.
 - Quan sát trực tiếp khi thao tác và gỡ dính.
 - Hạn chế dùng nhiệt gần ruột.
-- Kiểm tra định kỳ **cách điện dụng cụ** để tránh tổn thương do rò điện.
+- Kiểm tra định kỳ **cách điện dụng cụ** để tránh tổn thương do rò điện.[^1]
 
-### Tài liệu tham khảo
+## Tài liệu tham khảo
 
-- **Bệnh viện Hùng Vương** - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
+[^1]: Bệnh viện Hùng Vương. _Phác đồ Hiếm muộn cập nhật 2020_. Accessed 2024. https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020

@@ -223,12 +223,16 @@ BRCA1 và BRCA2 (Breast Cancer genes 1 & 2) là các gene ức chế u (tumor su
 
 - Tư vấn di truyền (genetic counseling) đánh giá lịch sử gia đình, nguy cơ cá nhân.
 - Lấy mẫu máu/ni-tơ bạch cầu để phân tích đột biến BRCA1/BRCA2 (sequencing + MLPA).
-- Nếu dương tính: Lập kế hoạch tầm soát, dự phòng và điều trị dài hạn.
+- Nếu dương tính: Lập kế hoạch tầm soát, dự phòng và điều trị dài hạn.[^1][^2][^3][^4][^5]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning: Cận lâm sàng tuyến vú_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- Sardanelli F, Piana R (2021) - _Breast MRI: State of the Art, Challenges and Future Directions_.
-- ACR (2018) - _ACR Practice Parameter for the Performance of Screening and Diagnostic Mammography_.
-- NCCN (2023) - _Genetic/Familial High-Risk Assessment: Breast, Ovarian, and Pancreatic_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^3]: Sardanelli F, Piana R (2021) - _Breast MRI: State of the Art, Challenges and Future Directions_.
+
+[^4]: ACR (2018) - _ACR Practice Parameter for the Performance of Screening and Diagnostic Mammography_.
+
+[^5]: NCCN (2023) - _Genetic/Familial High-Risk Assessment: Breast, Ovarian, and Pancreatic_.

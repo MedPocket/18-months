@@ -74,8 +74,8 @@ Diễn tiến bệnh nhược cơ trong thai kỳ **không đồng nhất**, có
 
 Các đợt nhược cơ cấp có thể cần tăng liều thuốc kháng cholinesterase (như neostigmine), tuy nhiên có nguy cơ gây triệu chứng thừa cholinergic (đau bụng, tiêu chảy, nôn, yếu cơ tăng lên), khi đó atropine có thể cần thiết. Có trường hợp kháng trị đòi hỏi dùng corticosteroid hoặc thuốc ức chế miễn dịch.
 
-Trong chuyển dạ, bệnh nhân nhược cơ có thể cần hỗ trợ hô hấp và rất nhạy cảm với các thuốc ức chế hô hấp như thuốc an thần, opioid và magiê sulfat. Do đó, **gây tê vùng được ưu tiên** để giảm đau khi sinh. IgG gây bệnh có thể qua nhau thai, dẫn đến nhược cơ thoáng qua ở khoảng 20% trẻ sơ sinh, đặc biệt nếu mẹ chưa cắt tuyến ức. Sinh thường được khuyến nghị, tuy nhiên có thể cần hỗ trợ sinh do yếu cơ.
+Trong chuyển dạ, bệnh nhân nhược cơ có thể cần hỗ trợ hô hấp và rất nhạy cảm với các thuốc ức chế hô hấp như thuốc an thần, opioid và magiê sulfat. Do đó, **gây tê vùng được ưu tiên** để giảm đau khi sinh. IgG gây bệnh có thể qua nhau thai, dẫn đến nhược cơ thoáng qua ở khoảng 20% trẻ sơ sinh, đặc biệt nếu mẹ chưa cắt tuyến ức. Sinh thường được khuyến nghị, tuy nhiên có thể cần hỗ trợ sinh do yếu cơ.[^1]
 
 ## Tài liệu tham khảo
 
-- MSD Manual - [Rối loạn tự miễn dịch trong thai kỳ](https://www.msdmanuals.com/vi/professional/phụ-khoa-và-sản-khoa/biến-chứng-thai-nghén-do-bệnh-tật/rối-loạn-tự-miễn-dịch-trong-thai-kỳ)
+[^1]: MSD Manuals. _Rối loạn tự miễn dịch trong thai kỳ_. Cẩm nang MSD. Accessed 2024. https://www.msdmanuals.com/vi/professional/phụ-khoa-và-sản-khoa/biến-chứng-thai-nghén-do-bệnh-tật/rối-loạn-tự-miễn-dịch-trong-thai-kỳ

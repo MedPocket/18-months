@@ -82,11 +82,12 @@ HELLP không điển hình khi chỉ có 1 - 2 tiêu chí trên.
 - LDH > 600 IU/L.
 - Bilirubin toàn phần > 1.2 mg/dL.
 - AST > 70 IU/L.
-- Giảm Haptoglobin.
+- Giảm Haptoglobin.[^1][^2]
 
 :::
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

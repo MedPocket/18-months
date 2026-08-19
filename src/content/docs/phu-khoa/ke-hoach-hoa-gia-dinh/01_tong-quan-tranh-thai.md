@@ -101,7 +101,7 @@ Phụ thuộc vào:
 
 ### Tình huống cụ thể
 
-_Bảng "Các tình huống tránh thai cụ thể"_.
+_Bảng "Các tình huống tránh thai cụ thể"_.[^1][^2][^3]
 
 | Tình huống                                         | Gợi ý phương pháp               | Lý do                          |
 | -------------------------------------------------- | ------------------------------- | ------------------------------ |
@@ -113,6 +113,8 @@ _Bảng "Các tình huống tránh thai cụ thể"_.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based Learning_.
-- WHO - _Medical Eligibility Criteria for Contraceptive Use_.
-- CDC U.S - _Selected Practice Recommendations for Contraceptive Use_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: WHO - _Medical Eligibility Criteria for Contraceptive Use_.
+
+[^3]: CDC U.S - _Selected Practice Recommendations for Contraceptive Use_.

@@ -113,12 +113,16 @@ Dù là APS hay Tăng đông di truyền, nguyên tắc quản lý an toàn quan
    - Ngừng LMWH liều dự phòng trước **12 giờ** hoặc LMWH liều điều trị trước **24 giờ** trước khi thực hiện gây tê tủy sống / ngoài màng cứng hoặc mổ lấy thai chủ động.
    - Ngừng _Aspirin_ liều thấp ở tuần thứ **36** (trong trường hợp APS).
 2. **Dự phòng hậu sản:** Tái khởi động LMWH sau sinh **6 - 12 giờ** (khi đã kiểm soát tốt chảy máu) và duy trì bắt buộc trong **6 tuần hậu sản** - thời điểm nguy cơ bùng phát VTE ở mẹ cao nhất.
-3. **Tránh Estrogen sau sinh:** Chống chỉ định sử dụng các thuốc tránh thai chứa Estrogen sau sinh ở cả hai nhóm bệnh nhân. Lựa chọn ưu tiên là thuốc tránh thai chỉ chứa Progestin hoặc Dụng cụ tử cung (IUD).
+3. **Tránh Estrogen sau sinh:** Chống chỉ định sử dụng các thuốc tránh thai chứa Estrogen sau sinh ở cả hai nhóm bệnh nhân. Lựa chọn ưu tiên là thuốc tránh thai chỉ chứa Progestin hoặc Dụng cụ tử cung (IUD).[^1][^2][^3][^4][^5]
 
 ## Tài liệu tham khảo
 
-- ACOG Practice Bulletin No. 197 (2018, Reaffirmed 2023) - _Inherited Thrombophilias in Pregnancy_. Obstetrics & Gynecology, 132(1):e18-e34.
-- Murvai VR, Galiș R, Panaitescu A, et al. (2025) - _Antiphospholipid syndrome in pregnancy: a comprehensive literature review_. BMC Pregnancy and Childbirth, 25:337.
-- Barbhaiya M, Zuily S, Naden R, et al. (2023) - _2023 ACR/EULAR antiphospholipid syndrome classification criteria_. Annals of the Rheumatic Diseases, 82(10):1258-1270.
-- Tektonidou MG, Andreoli L, Limper M, et al. (2019) - _EULAR recommendations for the management of antiphospholipid syndrome in adults_. Annals of the Rheumatic Diseases, 78(10):1296-1304.
-- Bộ Y tế Việt Nam (2021) - _Hướng dẫn chẩn đoán và điều trị hội chứng kháng phospholipid và tăng đông di truyền trong thai kỳ_.
+[^1]: ACOG Practice Bulletin No. 197 (2018, Reaffirmed 2023) - _Inherited Thrombophilias in Pregnancy_. Obstetrics & Gynecology, 132(1):e18-e34.
+
+[^2]: Murvai VR, Galiș R, Panaitescu A, et al. (2025) - _Antiphospholipid syndrome in pregnancy: a comprehensive literature review_. BMC Pregnancy and Childbirth, 25:337.
+
+[^3]: Barbhaiya M, Zuily S, Naden R, et al. (2023) - _2023 ACR/EULAR antiphospholipid syndrome classification criteria_. Annals of the Rheumatic Diseases, 82(10):1258-1270.
+
+[^4]: Tektonidou MG, Andreoli L, Limper M, et al. (2019) - _EULAR recommendations for the management of antiphospholipid syndrome in adults_. Annals of the Rheumatic Diseases, 78(10):1296-1304.
+
+[^5]: Bộ Y tế Việt Nam. _Hướng dẫn chẩn đoán và điều trị hội chứng kháng phospholipid và tăng đông di truyền trong thai kỳ_. NXB Y học; 2021.

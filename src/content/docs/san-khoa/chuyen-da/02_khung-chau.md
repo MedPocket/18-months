@@ -101,8 +101,8 @@ _Hình "4 dạng khung chậu theo Caldwell-Moloy"_.
 1. **Gynecoid (dạng phụ nữ)** - 50.6%: Thường gặp nhất ở phụ nữ. Thuận lợi cho sinh ngả âm đạo.
 2. **Anthropoid (dạng hầu)** - 22.7%: Giống khung chậu loài khỉ. Tỷ lệ sinh bằng dụng cụ cao.
 3. **Android (dạng nam)** - 22.4%: Giống khung chậu đàn ông. Gây nhiều khó khăn khi sinh.
-4. **Platypelloid (dạng dẹt)** - 4.4%: Hiếm gặp. Gây trở ngại lớn cho **thì lọt** của ngôi.
+4. **Platypelloid (dạng dẹt)** - 4.4%: Hiếm gặp. Gây trở ngại lớn cho **thì lọt** của ngôi.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

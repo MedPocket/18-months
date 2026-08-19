@@ -128,14 +128,18 @@ _Bảng "Sử dụng sắt, canxi, DHA trong ngày"_.
 - DHA nên chọn loại tinh khiết, không mùi tanh; Uống sau ăn để hấp thu tốt hơn.
 - Magie nên uống sau bữa ăn nhẹ để giảm nguy cơ tiêu chảy.
 - Tránh uống canxi với cà phê, trà, nước ngọt có ga vì làm giảm hấp thu.
-- Uống đủ nước mỗi ngày (1.5 - 2 L) để hỗ trợ tiêu hóa và phòng táo bón.
+- Uống đủ nước mỗi ngày (1.5 - 2 L) để hỗ trợ tiêu hóa và phòng táo bón.[^1][^2][^3][^4][^5]
 
 :::
 
 ## Tài liệu tham khảo
 
-- WHO - [_Iron and folic acid supplementation_](https://www.who.int/nutrition/publications/micronutrients/guidelines/iron_folic_acid_supplementation/en/)
-- CDC - [_Nutrition During Pregnancy_](https://www.cdc.gov/nutrition/pregnancy-and-breastfeeding.html)
-- NCBI - [_Nutrition During Pregnancy_](https://www.ncbi.nlm.nih.gov/books/NBK217107/)
-- ACOG - [_Nutrition During Pregnancy_](https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy)
-- UNICEF - [_Maternal Nutrition_](https://www.unicef.org/documents/maternal-nutrition)
+[^1]: WHO - [_Iron and folic acid supplementation_](https://www.who.int/nutrition/publications/micronutrients/guidelines/iron_folic_acid_supplementation/en/)
+
+[^2]: CDC - [_Nutrition During Pregnancy_](https://www.cdc.gov/nutrition/pregnancy-and-breastfeeding.html)
+
+[^3]: NCBI - [_Nutrition During Pregnancy_](https://www.ncbi.nlm.nih.gov/books/NBK217107/)
+
+[^4]: ACOG - [_Nutrition During Pregnancy_](https://www.acog.org/womens-health/faqs/nutrition-during-pregnancy)
+
+[^5]: UNICEF - [_Maternal Nutrition_](https://www.unicef.org/documents/maternal-nutrition)

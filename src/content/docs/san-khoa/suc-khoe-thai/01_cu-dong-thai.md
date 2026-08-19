@@ -57,8 +57,8 @@ Non-stress test (NST) và siêu âm là 2 test đầu tay khi ghi nhận có gi�
 
 - Nếu NST bình thường và thai kỳ không có yếu tố nguy cơ, thai phụ sẽ được hướng dẫn tiếp tục đếm cử động thai mỗi ngày.
 - Nếu NST bình thường nhưng thai kỳ có nguy cơ, nên thực hiện thêm test hỗ trợ khác trong vòng 24 giờ.
-- Nếu NST không điển hình hay bất thường thì test hỗ trợ được khuyên thực hiện sớm nhất có thể.
+- Nếu NST không điển hình hay bất thường thì test hỗ trợ được khuyên thực hiện sớm nhất có thể.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

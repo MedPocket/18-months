@@ -63,8 +63,8 @@ Hoàng thể hình thành sau phóng noãn, từ tế bào vỏ-hạt dưới t�
 
 ## Nang hoàng tuyến
 
-Hình thành khi tất cả noãn nang (kể cả nang chưa phóng noãn) bị kích thích bởi β-hCG rất cao. Thường gặp trong thai trứng hoặc đa thai; β-hCG ngoại sinh (hỗ trợ sinh sản) có thể gây hội chứng quá kích buồng trứng (hyperreactio luteinalis). Do kích thích mọi nang, thường xảy ra hai bên, tạo khối hỗn hợp lớn. Nang hoàng tuyến tự thoái triển khi β-hCG giảm (kết thúc thai kỳ hoặc hết liệu pháp β-hCG).
+Hình thành khi tất cả noãn nang (kể cả nang chưa phóng noãn) bị kích thích bởi β-hCG rất cao. Thường gặp trong thai trứng hoặc đa thai; β-hCG ngoại sinh (hỗ trợ sinh sản) có thể gây hội chứng quá kích buồng trứng (hyperreactio luteinalis). Do kích thích mọi nang, thường xảy ra hai bên, tạo khối hỗn hợp lớn. Nang hoàng tuyến tự thoái triển khi β-hCG giảm (kết thúc thai kỳ hoặc hết liệu pháp β-hCG).[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

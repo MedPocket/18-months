@@ -262,9 +262,10 @@ _Bảng "Phân loại thuốc chống tăng huyết áp trong thai kỳ"_.
 
 #### Ức chế men chuyển
 
-**Không dùng ức chế men chuyển** do nguy cơ dị tật.
+**Không dùng ức chế men chuyển** do nguy cơ dị tật.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

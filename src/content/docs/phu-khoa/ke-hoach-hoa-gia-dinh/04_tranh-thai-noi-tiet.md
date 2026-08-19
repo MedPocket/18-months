@@ -310,9 +310,10 @@ Thay mỗi tuần, liên tục 3 tuần, nghỉ 1 tuần.
 
 Giữ tại chỗ 3 tuần, tháo ra 1 tuần.
 
-Nếu đặt ngoài khoảng thời gian này, cần hỗ trợ thêm 7 ngày.
+Nếu đặt ngoài khoảng thời gian này, cần hỗ trợ thêm 7 ngày.[^1][^2]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.
+[^1]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^2]: World Health Organization (2018) - _Family Planning: A Global Handbook for Providers_.

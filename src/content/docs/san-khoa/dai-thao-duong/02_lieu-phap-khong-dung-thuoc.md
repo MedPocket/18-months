@@ -92,10 +92,12 @@ _Bảng "Phân bố bữa ăn"_.
 **Đánh giá sau 1 - 2 tuần** MNT:
 
 - ≥ 50% giá trị đạt mục tiêu → tiếp tục MNT và vận động.
-- < 50% → cân nhắc bắt đầu insulin.
+- < 50% → cân nhắc bắt đầu insulin.[^1][^2][^3]
 
 ## Tài liệu tham khảo
 
-- Bộ Y tế (2023) - _Hướng dẫn quốc gia về sàng lọc và quản lý Đái tháo đường thai kỳ_.
-- ADA (2024) - _Standards of Medical Care in Diabetes - Pregnancy Section_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
+[^1]: Bộ Y tế Việt Nam. _Hướng dẫn quốc gia về sàng lọc và quản lý Đái tháo đường thai kỳ_. NXB Y học; 2023.
+
+[^2]: ADA (2024) - _Standards of Medical Care in Diabetes - Pregnancy Section_.
+
+[^3]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.

@@ -69,12 +69,16 @@ Tắc vòi trứng đoạn gần:
 Tắc vòi dẫn trứng đoạn xa:
 
 - Tiên lượng tốt nếu dải dính 2 phần phụ ít. Vòi dãn nhẹ < 3 cm, thành mềm mại và mỏng. Nếp niêm mạc còn tốt. Tỷ lệ có thai sau 12 tháng nội soi gỡ dính là 40%. Nội soi tái tạo loa vòi trường hợp ứ dịch nhẹ tỷ lệ có thai là 58 - 77%.
-- Tiên lượng xấu nếu vòi dính dày đặc, vòi dãn rộng thành xơ hóa và/hoặc giảm hay mất nếp niêm mạc.
+- Tiên lượng xấu nếu vòi dính dày đặc, vòi dãn rộng thành xơ hóa và/hoặc giảm hay mất nếp niêm mạc.[^1][^2][^3][^4][^5]
 
 ## Tài liệu tham khảo
 
-- Bệnh viện Hùng Vương - [_Phác đồ Hiếm muộn cập nhật 2020_](https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020)
-- Bộ Y tế Việt Nam - _Hướng dẫn chẩn đoán và điều trị vô sinh_.
-- WHO - _Infertility: A tabulation of available data on prevalence_.
-- Practice Committee of the American Society for Reproductive Medicine - _Role of tubal surgery in the era of assisted reproductive technology_.
-- RCOG - _Fertility: Assessment and treatment for people with fertility problems_.
+[^1]: Bệnh viện Hùng Vương. _Phác đồ Hiếm muộn cập nhật 2020_. Accessed 2024. https://bvhungvuong.vn/danh-cho-nhan-vien/phac-do-hiem-muon-cap-nhat-2020
+
+[^2]: Bộ Y tế Việt Nam. _Hướng dẫn chẩn đoán và điều trị vô sinh_. NXB Y học.
+
+[^3]: WHO - _Infertility: A tabulation of available data on prevalence_.
+
+[^4]: Practice Committee of the American Society for Reproductive Medicine - _Role of tubal surgery in the era of assisted reproductive technology_.
+
+[^5]: RCOG - _Fertility: Assessment and treatment for people with fertility problems_.

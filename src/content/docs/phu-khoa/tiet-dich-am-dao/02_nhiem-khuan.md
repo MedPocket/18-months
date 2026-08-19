@@ -185,13 +185,16 @@ Tùy chọn điều trị BV tại Bệnh viện Từ Dũ (áp dụng cho cả B
 
 - **Metronidazole không dùng trong 3 tháng đầu thai kỳ** do tiềm ẩn nguy cơ quái thai.
 - Phụ nữ mang thai chỉ điều trị khi có triệu chứng rõ và cân nhắc lợi ích - nguy cơ.
-- Cần khai thác tiền sử dị ứng penicillin, clindamycin để lựa chọn kháng sinh phù hợp.
+- Cần khai thác tiền sử dị ứng penicillin, clindamycin để lựa chọn kháng sinh phù hợp.[^1][^2][^3][^4]
 
 :::
 
 ## Tài liệu tham khảo
 
-- Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning: Viêm âm đạo nhiễm khuẩn_.
-- Bệnh viện Từ Dũ (2022) - _Phác đồ điều trị Sản Phụ khoa_.
-- Centers for Disease Control and Prevention (CDC) (2010) - _Sexually Transmitted Diseases Treatment Guidelines_.
-- Workowski KA, Bolan GA (2010) - _Sexually transmitted diseases treatment guidelines_.
+[^1]: Trường Đại học Y Dược TP. HCM (2020) - _Team-based learning: Viêm âm đạo nhiễm khuẩn_.
+
+[^2]: Bệnh viện Từ Dũ. _Phác đồ điều trị Sản Phụ khoa_. NXB Y học; 2022.
+
+[^3]: Centers for Disease Control and Prevention (CDC) (2010) - _Sexually Transmitted Diseases Treatment Guidelines_.
+
+[^4]: Workowski KA, Bolan GA (2010) - _Sexually transmitted diseases treatment guidelines_.

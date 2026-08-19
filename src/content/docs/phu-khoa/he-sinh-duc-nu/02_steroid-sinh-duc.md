@@ -105,7 +105,7 @@ Các tác động non-genomic dù không gắn trực tiếp lên DNA vẫn có 
 
 ## Thụ thể
 
-_Bảng "Các thụ thể steroids"_.
+_Bảng "Các thụ thể steroids"_.[^1][^2]
 
 | Thụ thể của các steroids | Gene       | Isoform             | Chức năng                                                         |
 | ------------------------ | ---------- | ------------------- | ----------------------------------------------------------------- |
@@ -115,5 +115,6 @@ _Bảng "Các thụ thể steroids"_.
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
-- Goodman & Gilman - _The Pharmacological Basis of Therapeutics, 13th ed_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.
+
+[^2]: Goodman & Gilman - _The Pharmacological Basis of Therapeutics, 13th ed_.

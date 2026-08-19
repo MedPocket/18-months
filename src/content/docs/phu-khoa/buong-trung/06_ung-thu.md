@@ -56,8 +56,8 @@ _Hình "Các giai đoạn ung thư buồng trứng theo FIGO"_.
 - IIIb: Di căn phúc mạc đại thể > 2 cm, không hạch.
 - IIIc: IIIb và/hoặc di căn hạch sau phúc mạc hoặc hạch bẹn.
 
-**Giai đoạn IV** (di căn xa): Tràn dịch màng phổi hoặc di căn nhu mô gan.
+**Giai đoạn IV** (di căn xa): Tràn dịch màng phổi hoặc di căn nhu mô gan.[^1]
 
 ## Tài liệu tham khảo
 
-- Trường ĐH Y Dược TP. HCM (2020) - _Team-based learning_.
+[^1]: Bộ môn Sản Phụ khoa, Trường Đại học Y Dược TP. Hồ Chí Minh. _Thực hành Sản Phụ khoa_. NXB Y học; 2020.

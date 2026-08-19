@@ -125,8 +125,8 @@ _Bảng "Thuốc tăng co tử cung"_.
 
 **Liều dùng:** 400-800 µg đường uống/ngậm/trực tràng.
 
-**Tác dụng phụ:** Sốt, tiêu chảy, buồn nôn.
+**Tác dụng phụ:** Sốt, tiêu chảy, buồn nôn.[^1]
 
 ## Tài liệu tham khảo
 
-- PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản Phụ khoa_.
+[^1]: PGS.TS. Trần Thị Lợi & GS.TS. Nguyễn Duy Tài - _Thực hành Sản Phụ khoa_.
