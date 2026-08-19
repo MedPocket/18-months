@@ -1,37 +1,5 @@
 import { defineHastPlugin } from "satteri";
 
-function isFootnoteLink(node: any, ctx: any): boolean {
-  let current: any = node;
-  let depth = 0;
-  while (current && depth < 20) {
-    const parentNode: any = ctx.parent ? ctx.parent(current) : null;
-    if (!parentNode) break;
-    if (parentNode.type === "element") {
-      const props = parentNode.properties || {};
-      const tagName = parentNode.tagName;
-      const classList = Array.isArray(props.className)
-        ? props.className
-        : typeof props.className === "string"
-          ? props.className.split(" ")
-          : [];
-      const id = typeof props.id === "string" ? props.id : "";
-
-      if (
-        props.dataFootnotes !== undefined ||
-        props["data-footnotes"] !== undefined ||
-        classList.includes("footnotes") ||
-        id.startsWith("user-content-fn") ||
-        (tagName === "section" && classList.includes("footnotes"))
-      ) {
-        return true;
-      }
-    }
-    current = parentNode;
-    depth++;
-  }
-  return false;
-}
-
 function hasSvgChild(node: any): boolean {
   return (
     Array.isArray(node.children) &&
@@ -109,7 +77,7 @@ export const satteriExternalLinks = defineHastPlugin({
       ctx.setProperty(node, "target", "_blank");
       ctx.setProperty(node, "rel", "nofollow noopener noreferrer");
 
-      if (isFootnoteLink(node, ctx) || hasSvgChild(node)) return;
+      if (hasSvgChild(node)) return;
 
       ctx.appendChild(node, createExternalIconSvg() as any);
     },

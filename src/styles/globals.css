@@ -52,15 +52,6 @@ a[href^="http"] .external-link-icon {
   fill: currentColor;
 }
 
-/* Hide external link icons in footnotes */
-[data-footnotes] .external-link-icon,
-.footnotes .external-link-icon,
-section.footnotes .external-link-icon,
-li[id^="user-content-fn"] .external-link-icon,
-[id^="user-content-fn"] .external-link-icon {
-  display: none !important;
-}
-
 /* Hide anchor link icons inside footnote section */
 [data-footnotes] .sl-anchor-link,
 .footnotes .sl-anchor-link,
