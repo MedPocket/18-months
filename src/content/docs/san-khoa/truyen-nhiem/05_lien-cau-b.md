@@ -1,11 +1,9 @@
 ---
-title: Dự phòng bệnh do liên cầu khuẩn nhóm B ở trẻ sơ sinh
+title: Liên cầu B
 description: Hướng dẫn cập nhật về tầm soát, chẩn đoán và dự phòng kháng sinh trong sinh nhiễm liên cầu khuẩn nhóm B (GBS) theo ACOG.
 ---
 
-**Liên cầu khuẩn nhóm B** (_Group B Streptococcus_ - GBS, tên khoa học _Streptococcus agalactiae_) là vi khuẩn thường trú ở đường tiêu hóa dưới và đường sinh dục của phụ nữ. Mặc dù GBS thường không gây triệu chứng ở người trưởng thành khỏe mạnh, việc vi khuẩn này truyền từ mẹ sang con trong quá trình chuyển dạ có thể dẫn đến nhiễm trùng sơ sinh sớm nghiêm trọng như nhiễm trùng huyết, viêm phổi và viêm màng não.¹
-
-## Tổng quan
+**Liên cầu khuẩn nhóm B** (_Group B Streptococcus_ - GBS, tên khoa học _Streptococcus agalactiae_) là vi khuẩn thường trú ở đường tiêu hóa dưới và đường sinh dục của phụ nữ. Mặc dù GBS thường không gây triệu chứng ở người trưởng thành khỏe mạnh, việc vi khuẩn này truyền từ mẹ sang con trong quá trình chuyển dạ có thể dẫn đến nhiễm trùng sơ sinh sớm nghiêm trọng như nhiễm trùng huyết, viêm phổi và viêm màng nổi.¹
 
 GBS là nguyên nhân hàng đầu gây nhiễm trùng sơ sinh sớm (_Early-Onset Disease_ - EOD, xảy ra trong 6 ngày đầu sau sinh, thường gặp nhất trong 24 giờ đầu). Tỉ lệ lưu hành GBS ở đường sinh dục-tiêu hóa thai phụ dao động từ **10 - 30%**. Khi không được dự phòng bằng kháng sinh trong chuyển dạ (_Intrapartum Antibiotic Prophylaxis_ - IAP), khoảng **50%** trẻ sinh ra từ mẹ mang vi khuẩn GBS sẽ bị xâm nhiễm, và **1 - 2%** trong số trẻ bị xâm nhiễm đó sẽ phát triển thành bệnh GBS sơ sinh sớm.²
 
@@ -39,25 +37,25 @@ Các yếu tố làm tăng nguy cơ trẻ sơ sinh mắc GBS sớm bao gồm:
 
 ### Cận lâm sàng
 
-#### 1. Thời điểm tầm soát GBS thai kỳ
+#### Thời điểm tầm soát GBS thai kỳ
 
 - **Khuyến cáo của ACOG (2020):** Tất cả thai phụ nên được tầm soát GBS bằng cấy phết âm đạo - trực tràng ở thời điểm **36⁰/⁷ – 37⁶/⁷ tuần** thai kỳ (thay vì 35 – 37 tuần như hướng dẫn cũ).⁴
 - **Lý do thay đổi:** Kết quả cấy GBS có giá trị dự đoán âm tính tối đa trong **5 tuần**. Việc tầm soát từ **36⁰/⁷ tuần** giúp kết quả có hiệu lực kéo dài đến **41⁶/⁷ tuần**, bao phủ hầu hết các trường hợp sinh đủ tháng và sinh muộn.
 
-#### 2. Kỹ thuật lấy mẫu phết âm đạo - trực tràng
+#### Kỹ thuật lấy mẫu phết âm đạo - trực tràng
 
 - **Vị trí lấy mẫu:**
   1. Dùng tăm bông miết nhẹ vùng **1/3 dưới âm đạo** (không dùng mỏ vịt, không lau sạch dịch âm đạo trước khi lấy).
   2. Dùng chính tăm bông đó (hoặc tăm bông thứ hai) đưa qua cơ vòng hậu môn vào **trực tràng** (độ sâu khoảng 1 - 2 cm).
 - **Môi trường vận chuyển:** Đặt tăm bông vào môi trường vận chuyển (như Amies hoặc Stuart) và gửi đến phòng xét nghiệm. Vi khuẩn được nuôi cấy trong môi trường tăng sinh chọn lọc (như canh thang Todd-Hewitt bổ sung kháng sinh) trước khi cấy trên thạch máu.
 
-#### 3. Xét nghiệm nước tiểu thai kỳ
+#### Xét nghiệm nước tiểu thai kỳ
 
 - Mọi thai phụ cần được xét nghiệm nước tiểu ở đầu thai kỳ để phát hiện vi khuẩn niệu không triệu chứng.
 - Nếu phát hiện GBS trong nước tiểu với số lượng **≥ 10⁵ CFU/mL**, thai phụ cần được điều trị nội khoa đợt cấp ngay tại thời điểm phát hiện, đồng thời **mặc định có chỉ định IAP** khi chuyển dạ mà không cần cấy phết âm đạo - trực tràng ở tuần thứ 36.
 - Nếu GBS trong nước tiểu **< 10⁵ CFU/mL**, không cần điều trị kháng sinh ở giai đoạn mang thai nhưng **vẫn có chỉ định IAP** khi chuyển dạ.
 
-#### 4. Thử nghiệm độ nhạy kháng sinh (Kháng sinh đồ)
+#### Thử nghiệm độ nhạy kháng sinh (Kháng sinh đồ)
 
 - Khi gửi mẫu cấy GBS của thai phụ có **tiền sử dị ứng _penicillin_**, bác sĩ phải ghi rõ trên phiếu xét nghiệm thông báo dị ứng _penicillin_ để phòng xét nghiệm thực hiện **thử nghiệm độ nhạy với _clindamycin_**.
 
@@ -103,7 +101,7 @@ _Bảng "Chỉ định và Không chỉ định dự phòng kháng sinh trong si
 
 ### Điều trị nội khoa (Phác đồ kháng sinh IAP)
 
-#### 1. Thai phụ KHÔNG dị ứng _penicillin_ (Phác đồ ưu tiên)
+#### Thai phụ KHÔNG dị ứng _penicillin_ (Phác đồ ưu tiên)
 
 - **Lựa chọn thứ nhất (_penicillin G_):**
   - Liều đầu: **5 triệu đơn vị** IV.
@@ -112,7 +110,7 @@ _Bảng "Chỉ định và Không chỉ định dự phòng kháng sinh trong si
   - Liều đầu: **2 g** IV.
   - Liều duy trì: **1 g** IV mỗi **4 giờ** cho đến khi sinh.
 
-#### 2. Thai phụ DỊ ỨNG _penicillin_
+#### Thai phụ DỊ ỨNG _penicillin_
 
 Việc lựa chọn kháng sinh dựa trên mức độ nguy cơ phản vệ với _penicillin_ và kết quả kháng sinh đồ:
 
