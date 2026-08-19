@@ -55,6 +55,8 @@ a[href^="http"] .external-link-icon {
 /* Hide external link icons in footnotes */
 [data-footnotes] .external-link-icon,
 .footnotes .external-link-icon,
-li[id^="user-content-fn"] .external-link-icon {
+section.footnotes .external-link-icon,
+li[id^="user-content-fn"] .external-link-icon,
+[id^="user-content-fn"] .external-link-icon {
   display: none !important;
 }
