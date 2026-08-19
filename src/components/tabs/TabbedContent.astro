@@ -81,9 +81,9 @@ const { tabs, styled } = Astro.props as Props;
         if ('initial' in tab.dataset && tab.dataset.initial !== 'false') initialTab = i;
 
         const onClick = (e: MouseEvent) => {
-          e.preventDefault();
           const currentTab = tablist.querySelector('[aria-selected]');
           if (e.currentTarget !== currentTab) {
+            e.preventDefault();
             this.switchTab(e.currentTarget as HTMLElement, i);
           }
         };

@@ -2,12 +2,14 @@
 import type { HTMLAttributes } from 'astro/types';
 export interface Props {
   id: string;
+  href?: string;
   initial?: boolean;
   class?: string;
 }
-const { id, initial } = Astro.props;
+const { id, href, initial } = Astro.props;
+const linkHref = href || ('#' + id);
 const linkAttributes: HTMLAttributes<'a'> = initial ? { 'data-initial': 'true' } : {};
 ---
 <li class:list={Astro.props.class}>
-  <a href={'#' + id} {...linkAttributes}><slot /></a>
+  <a href={linkHref} data-tab-id={id} {...linkAttributes}><slot /></a>
 </li>

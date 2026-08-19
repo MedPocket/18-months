@@ -10,6 +10,19 @@ export const satteriExternalLinks = defineHastPlugin({
       if (href.startsWith("http") && !href.startsWith(ctx.fileURL?.origin ?? "")) {
         ctx.setProperty(node, "target", "_blank");
         ctx.setProperty(node, "rel", "nofollow noopener noreferrer");
+
+        const hasSvg =
+          Array.isArray(node.children) &&
+          node.children.some(
+            (child: any) =>
+              child &&
+              child.type === "element" &&
+              (child.tagName === "svg" ||
+                (Array.isArray(child.properties?.className) &&
+                  child.properties.className.includes("external-link-icon"))),
+          );
+        if (hasSvg) return;
+
         ctx.appendChild(node, {
           type: "element",
           tagName: "svg",
