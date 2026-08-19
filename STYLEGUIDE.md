@@ -131,11 +131,14 @@ Quy tắc trình bày chữ số và chữ được quy định như sau:
 - **Chỉ số trên/dưới (Subscript/Superscript):** Để đảm bảo AST của Markdown/Starlight xử lý chính xác và không bị lỗi biên dịch, **phải sử dụng trực tiếp kí tự Unicode cho chỉ số trên và dưới**. Tránh sử dụng thẻ HTML (`<sup>`, `<sub>`) hoặc kí tự caret (`^`).
   - _Chỉ số trên (Superscript):_ `⁰` `¹` `²` `³` `⁴` `⁵` `⁶` `⁷` `⁸` `⁹` `⁺` `⁻`. (Ví dụ: m², cm³).
   - _Chỉ số dưới (Subscript):_ `₀` `₁` `₂` `₃` `₄` `₅` `₆` `₇` `₈` `₉`. (Ví dụ: HbA₁c, CO₂).
-- **Vị trí ký hiệu trích dẫn chỉ số trên:** Khi sử dụng số chỉ số trên để trích dẫn tài liệu trong văn bản, số trích dẫn phải đặt **sau** dấu chấm, dấu phẩy hoặc dấu ngoặc kép mà **không có khoảng trắng**.
-  - _Đúng:_ Tỉ lệ thành công của phác đồ là 90%.¹
-  - _Đúng:_ Theo các nghiên cứu gần đây,¹⁻³ điều trị nội khoa mang lại hiệu quả cao.
-  - _Sai:_ Tỉ lệ thành công của phác đồ là 90%¹.
-  - _Sai:_ Tỉ lệ thành công của phác đồ là 90% .¹
+- **Phân số (Fractions):** Sử dụng dạng ASCII chuẩn (`1/2`, `2/3`, `1/3`, `3/4`...) thay vì dùng các kí tự phân số đặc biệt (như `½`, `⅔`, `⅓`, `¾`).
+  - _Đúng:_ `1/2 viên`, `2/3 độ dày`, `1/3 dưới`.
+  - _Sai:_ `½ viên`, `⅔ độ dày`.
+- **Trích dẫn và Chú thích (Footnotes):** Sử dụng cú pháp chú thích Markdown chuẩn (`[^1]`, `[^2]`). Ký hiệu trích dẫn phải đặt ngay **sau** dấu chấm, dấu phẩy hoặc dấu ngoặc kép mà **không có khoảng trắng**.
+  - _Đúng:_ Tỉ lệ thành công của phác đồ là 90%.[^1]
+  - _Đúng:_ Theo các nghiên cứu gần đây,[^1][^2] điều trị nội khoa mang lại hiệu quả cao.
+  - _Sai:_ Tỉ lệ thành công của phác đồ là 90%[^1].
+  - _Sai:_ Tỉ lệ thành công của phác đồ là 90% .[^1]
 
 ## 4. Thuật ngữ Y khoa & Viết tắt
 
@@ -273,7 +276,7 @@ Toàn bộ tài liệu tham khảo phải tuân thủ chuẩn trích dẫn y kho
 
 ### Quy tắc chung về Trích dẫn
 
-- **Đánh số trích dẫn trong văn bản:** Trích dẫn được đánh số bằng chữ số Ả Rập dưới dạng chỉ số trên (superscript) theo thứ tự xuất hiện lần đầu tiên trong bài viết (ví dụ: `...đã được chứng minh.¹`). Đặt ngay **sau** dấu chấm hoặc dấu phẩy, không có khoảng trắng.
+- **Đánh số trích dẫn trong văn bản:** Trích dẫn được đánh số bằng chữ số Ả Rập dưới dạng cú pháp chú thích Markdown (`[^1]`, `[^2]`) theo thứ tự xuất hiện lần đầu tiên trong bài viết (ví dụ: `...đã được chứng minh.[^1]`). Đặt ngay **sau** dấu chấm hoặc dấu phẩy, không có khoảng trắng.
 - **Sắp xếp danh mục:** Danh sách tài liệu tham khảo cuối bài được đánh số thứ tự (`1.`, `2.`, `3.`) khớp chính xác với số trích dẫn trong văn bản (không xếp theo thứ tự bảng chữ cái).
 - **Định dạng tên tác giả:**
   - Tên tác giả viết theo cấu trúc: `Họ` + `Chữ cái đầu tên gọi và tên đệm` (không có dấu chấm hoặc khoảng trắng giữa các chữ cái đầu).
