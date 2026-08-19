@@ -11,6 +11,28 @@ export const satteriExternalLinks = defineHastPlugin({
         ctx.setProperty(node, "target", "_blank");
         ctx.setProperty(node, "rel", "nofollow noopener noreferrer");
 
+        // Do not add external link icons to footnotes / reference links
+        let current: any = node;
+        while (current && ctx.parent(current)) {
+          const parentNode: any = ctx.parent(current);
+          if (parentNode && parentNode.type === "element") {
+            const props = parentNode.properties || {};
+            const classList = Array.isArray(props.className)
+              ? props.className
+              : typeof props.className === "string"
+                ? props.className.split(" ")
+                : [];
+            if (
+              props.dataFootnotes !== undefined ||
+              classList.includes("footnotes") ||
+              (typeof props.id === "string" && props.id.startsWith("user-content-fn"))
+            ) {
+              return;
+            }
+          }
+          current = parentNode;
+        }
+
         const hasSvg =
           Array.isArray(node.children) &&
           node.children.some(
