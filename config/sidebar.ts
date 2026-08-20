@@ -2,6 +2,7 @@ export const sidebar = [
   {
     label: "Sản Khoa",
     items: [
+      "san-khoa",
       {
         label: "Sàng lọc và chẩn đoán trước sinh",
         items: [
@@ -235,6 +236,7 @@ export const sidebar = [
   {
     label: "Phụ Khoa",
     items: [
+      "phu-khoa",
       {
         label: "Hệ sinh dục nữ",
         items: [
@@ -390,6 +392,7 @@ export const sidebar = [
   {
     label: "Hỗ trợ sinh sản",
     items: [
+      "ho-tro-sinh-san",
       "ho-tro-sinh-san/vo-sinh",
       "ho-tro-sinh-san/khong-rung-trung",
       "ho-tro-sinh-san/vo-sinh-nam",
