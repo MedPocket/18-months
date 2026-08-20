@@ -11,7 +11,7 @@ import { satteriReadingTime } from "./src/plugins/satteri-reading-time";
 
 const site =
   process.env.NODE_ENV === "production"
-    ? (process.env.SITE ?? "https://18-months.pages.dev")
+    ? (process.env.SITE ?? "https://medpocket.github.io/18-months")
     : "http://localhost:4321";
 
 let base = process.env.BASE || "/";
