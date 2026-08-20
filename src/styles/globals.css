@@ -68,7 +68,7 @@ a[data-footnote-backref],
   margin-left: 0.35em;
   padding: 0.1em 0.35em;
   border-radius: 0.25rem;
-  color: oklch(0.52 0.16 150);
+  color: var(--sl-color-accent);
   text-decoration: none;
   font-size: 0.85em;
   line-height: 1;
@@ -82,13 +82,13 @@ a[data-footnote-backref],
 a[data-footnote-backref]:hover,
 .data-footnote-backref:hover {
   background-color: var(--sl-color-accent-low);
-  color: oklch(0.48 0.17 150);
+  color: var(--sl-color-text-accent, var(--sl-color-accent-high));
   text-decoration: none;
   transform: translateY(-1px);
 }
 
 a[data-footnote-backref]:focus-visible,
 .data-footnote-backref:focus-visible {
-  outline: 2px solid oklch(0.52 0.16 150);
+  outline: 2px solid var(--sl-color-text-accent, var(--sl-color-accent));
   outline-offset: 1px;
 }
