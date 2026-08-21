@@ -94,6 +94,10 @@ _Bảng "Các số liệu giải phẫu trọng yếu và kỹ thuật đo"_.
   - Đỉnh dưới: Đầu trên rãnh liên mông.
   - Hai đỉnh bên: Hai gai chậu sau trên.
   - Đánh giá hình trám: Hình trám cân đối có đường chéo dọc 11 cm và đường chéo ngang 10 cm. Bất thường (trám lệch, đường chéo ngang/ngang bất đối xứng) gợi ý khung chậu vẹo hoặc méo.
+
+![Hình trám Michaelis](./_images/khung-chau-trong-san-khoa/hinh-tram-michaelis.jpg)
+_Hình "Hình trám Michaelis trong thăm khám khung chậu ngoài"_.
+
 - **Đo khung chậu ngoài bằng thước _Baudelocque_:** Đặt hai đầu thước vào các mốc giải phẫu tương ứng để lấy chỉ số:
   - Đường kính Lưỡng gai: 25 cm.
   - Đường kính Lưỡng mào: 27 cm.
@@ -108,6 +112,10 @@ Thăm khám trong qua âm đạo là thao tác cốt lõi trong đánh giá ti�
 - **Đánh giá Eo trên (Xác định mỏm nhô):**
   - Ngón trỏ và ngón giữa tay thuận đưa vào âm đạo, đi ngược lên trên và ra sau dọc theo mặt trước xương cùng.
   - Đánh giá: Bình thường tay không sờ thấy mỏm nhô. Nếu sờ thấy gồ xương nhô ra, áp sát bờ bàn tay vào bờ dưới khớp vệ để đo đường kính Nhô - Hạ vệ, sau đó trừ đi 1,5 cm để ước tính đường kính Nhô - Hậu vệ.
+
+![Đo đường kính Nhô - Hạ vệ](./_images/khung-chau-trong-san-khoa/do-duong-kinh-nho-ha-ve.jpg)
+_Hình "Thao tác đo đường kính Nhô - Hạ vệ qua thăm khám âm đạo"_.
+
 - **Đánh giá Eo giữa (Mặt phẳng độ lọt):**
   - Rà ngón tay dọc theo hai bên thành chậu để xác định gai hông.
   - Đánh giá: Gai hông tù hoặc phẳng là bình thường. Nếu gai hông nhọn chĩa vào trong âm đạo → Eo giữa hẹp ngang. Tiếp tục đưa ngón tay ra sau kiểm tra khuyết hông (nếu hẹp, không đút vừa 2 ngón tay → Độ cong xương cùng giảm).
