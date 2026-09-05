@@ -13,21 +13,21 @@
     "check": "oxlint && oxfmt"
   },
   "dependencies": {
-    "@astrojs/markdown-satteri": "^0.3.8",
-    "@astrojs/starlight": "^0.41.10",
+    "@astrojs/markdown-satteri": "^0.4.0",
+    "@astrojs/starlight": "^0.42.0",
     "@resvg/resvg-js": "^2.6.2",
-    "astro": "^7.2.9",
+    "astro": "^7.3.1",
     "mermaid": "^11.17.2",
     "reading-time": "^1.5.0",
     "satori": "^0.33.4",
     "satteri": "^0.10.5",
     "sharp": "^0.35.4",
-    "starlight-image-zoom": "^0.14.2",
-    "starlight-links-validator": "^0.25.3"
+    "starlight-image-zoom": "^0.16.0",
+    "starlight-links-validator": "^0.26.0"
   },
   "devDependencies": {
-    "oxfmt": "^0.65.0",
-    "oxlint": "^1.80.0",
+    "oxfmt": "^0.66.0",
+    "oxlint": "^1.81.0",
     "typescript": "^7.0.2"
   }
 }
