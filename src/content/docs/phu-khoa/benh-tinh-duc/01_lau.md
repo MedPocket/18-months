@@ -91,7 +91,7 @@ _Hình "Lậu hầu họng"_.
 **Hạn chế:** Không cung cấp kháng sinh đồ. Chi phí cao hơn so với nhuộm Gram hoặc nuôi cấy.
 
 :::caution
-Tại cơ sở không đủ điều kiện xét nghiệm, có thể chẩn đoán lâm sàng và điều trị theo hướng dẫn. Tại cơ sở có điều kiện, nên kết hợp lâm sàng và cận lâm sàng để chẩn đoán chính xác.  
+Tại cơ sở không đủ điều kiện xét nghiệm, có thể chẩn đoán lâm sàng và điều trị theo hướng dẫn. Tại cơ sở có điều kiện, nên kết hợp lâm sàng và cận lâm sàng để chẩn đoán chính xác.
 :::
 
 ### Chẩn đoán phân biệt
@@ -111,7 +111,7 @@ Tại cơ sở không đủ điều kiện xét nghiệm, có thể chẩn đoá
 **Viêm kết mạc mắt do lậu ở trẻ sơ sinh:** _Staphylococcus aureus_, _Streptococcus pneumoniae_, _Haemophilus influenzae_, _Chlamydia trachomatis_; Cần nuôi cấy mẫu mủ mắt, NAATs nếu có.
 
 :::caution
-_N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi nghi ngờ lậu, luôn làm thêm xét nghiệm Chlamydia (NAATs) để điều trị đồng thời.  
+_N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm. Do đó, khi nghi ngờ lậu, luôn làm thêm xét nghiệm Chlamydia (NAATs) để điều trị đồng thời.
 :::
 
 ## Điều trị

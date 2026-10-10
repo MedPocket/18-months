@@ -172,7 +172,7 @@ _Bảng "Các xét nghiệm cơ bản"_.
 - Sau khi hết chảy máu, tiếp tục theo dõi lịch kinh để đánh giá sự xuất hiện của chu kỳ phóng noãn đầu tiên.
 
 :::caution
-Chọn progestogen có **tính kháng estrogen** vừa đủ và **ít ức chế hạ đồi** để không trì hoãn quá trình hoàn thiện trục HPG.  
+Chọn progestogen có **tính kháng estrogen** vừa đủ và **ít ức chế hạ đồi** để không trì hoãn quá trình hoàn thiện trục HPG.
 :::
 
 ### Liệu pháp phối hợp estrogen và progestogen

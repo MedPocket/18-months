@@ -50,7 +50,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 - Có thể xem xét dùng ngắn hạn trong tam cá nguyệt thứ nhất và thứ hai với chỉ định rõ ràng.
 - Tránh dùng kéo dài hoặc liều cao.
 - Không phối hợp với aspirin hoặc corticosteroid nếu không có chỉ định chuyên khoa.
-  :::
+:::
 
 ## Opioid
 
@@ -71,7 +71,7 @@ Việc sử dụng thuốc giảm đau trong thai kỳ cần **cân nhắc giữ
 
 - Chỉ dùng khi thật cần thiết và có chỉ định chuyên khoa.
 - Codein: Nguy cơ chuyển hóa nhanh → tăng nồng độ morphin → độc tính cao ở mẹ và thai.
-  :::
+:::
 
 ## Thuốc chống co thắt
 

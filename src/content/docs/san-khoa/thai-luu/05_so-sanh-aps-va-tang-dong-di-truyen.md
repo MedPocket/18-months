@@ -71,7 +71,7 @@ _Bảng "Đối chiếu tiêu chuẩn chẩn đoán và xét nghiệm giữa APS
 
 - Với **APS**, một xét nghiệm aPL dương tính đơn lẻ **chưa đủ để chẩn đoán** (cần xét nghiệm lại sau ít nhất 12 tuần) do nồng độ aPL có thể tăng thoáng qua sau nhiễm trùng.
 - Với **Tăng đông di truyền**, xét nghiệm gen DNA (PCR) mang giá trị khẳng định vĩnh viễn và không bị ảnh hưởng bởi thai kỳ hay thuốc kháng đông.
-  :::
+:::
 
 ## Phác đồ Điều trị và Quản lý Lâm sàng
 
