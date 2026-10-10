@@ -47,6 +47,7 @@ _Bảng "Chẩn đoán nhiễm trùng ối"_.
 | **Xác định nhiễm trùng ối** | Có dấu hiệu nghi ngờ + ít nhất một trong các xét nghiệm dịch ối sau:<br> 1. Nhuộm Gram thấy vi khuẩn<br> 2. Nồng độ glucose ≤ 14 mg/dL<br> 3. Bạch cầu dịch ối > 30 tế bào/mm³ (không lẫn máu)                                                                                       |
 
 :::
+
 :::caution
 Chẩn đoán chủ yếu dựa vào lâm sàng. Chọc ối hay giải phẫu bệnh có vai trò nghiên cứu, không giúp cải thiện kết cục sản khoa nếu dùng làm tiêu chuẩn xử trí.
 :::

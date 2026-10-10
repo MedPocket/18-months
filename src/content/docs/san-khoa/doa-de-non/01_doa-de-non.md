@@ -124,7 +124,7 @@ _Bảng "Thuốc cắt cơn gò"_.
 | **Đồng vận β-adrenergic**        | Tăng nồng độ cAMP (_cyclic adenosine MonoPhosphate_) trong tế bào, làm giảm nồng độ calcium             | - Hạ huyết áp, nhịp tim nhanh, nặng ngực/đau ngực, thay đổi ECG<br> - Có thể gây phù phổi (đặc biệt khi quá tải tuần hoàn)<br> - Chống chỉ định tương đối: Bệnh mạch vành, suy thận | - Salbutamol không được dán nhãn cho điều trị sinh non<br> - Dùng kéo dài không được xem là an toàn cho thai nhi                   |
 
 :::caution
-Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều loại, hoặc sau 34 tuần.  
+Không dùng thuốc cắt cơn kéo dài, phối hợp đồng thời nhiều loại, hoặc sau 34 tuần.
 :::
 
 #### Chống chỉ định tuyệt đối

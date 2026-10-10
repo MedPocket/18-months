@@ -326,7 +326,7 @@ _Bảng "Phân loại ung thư vú theo hệ TNM"_.
 - Nếu nghi ngờ di căn xa hoặc có triệu chứng gợi ý, thực hiện: X-quang phổi (Chest X-ray); CT scan ngực-bụng-chậu; Xạ hình xương (Bone scan); PET-CT nếu nghi ngờ giai đoạn III-IV.
 
 :::caution
-CT scan, MRI toàn thân hoặc xạ hình xương chỉ cần thiết khi có triệu chứng lâm sàng hoặc xét nghiệm bất thường gợi ý di căn.  
+CT scan, MRI toàn thân hoặc xạ hình xương chỉ cần thiết khi có triệu chứng lâm sàng hoặc xét nghiệm bất thường gợi ý di căn.
 :::
 
 **Sinh thiết lõi (Core Needle Biopsy):**
