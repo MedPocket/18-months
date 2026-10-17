@@ -25,7 +25,7 @@ _Bảng "Chẩn đoán tiền sản giật". Nguồn: ACOG_.
 - **Suy tế bào gan:** Men gan tăng gấp 2 lần bình thường.
 - **Phù phổi.**
 - **Triệu chứng não/thị giác:** Đau đầu dữ dội, rối loạn thị giác, co giật.
-  :::
+:::
 
 ## Phân loại
 

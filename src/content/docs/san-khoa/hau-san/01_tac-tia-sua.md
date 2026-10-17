@@ -90,7 +90,7 @@ Các hành vi có thể gây hại nghiêm trọng cho mô tuyến vú:
 - **Không** day ấn, xoa bóp, bẻ khối cứng với lực mạnh: Hành động này gây vỡ nang sữa, dập nát vi mạch, chảy máu nội mô và dẫn đến áp-xe hóa xơ cứng.
 - **Không** dùng máy hút sữa ở mức lực tối đa.
 - **Không** đắp các loại lá cây, thuốc nam không rõ nguồn gốc lên núm vú hoặc da vú.
-  :::
+:::
 
 ### Điều trị ngoại khoa
 
