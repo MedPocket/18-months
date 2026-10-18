@@ -143,7 +143,7 @@ _Chlamydia trachomatis_ là vi khuẩn nội bào bắt buộc, có chu kỳ nh�
 - Loét, mụn nước, ngứa dữ dội, scleroatrophic papulosis, có thể kèm u hạch.
 
 :::caution
-_N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; Do đó, khi nghi ngờ _Chlamydia_, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).  
+_N. gonorrhoeae_ và _C. trachomatis_ thường đồng nhiễm; Do đó, khi nghi ngờ _Chlamydia_, cần làm thêm xét nghiệm lậu (NAAT hoặc cấy).
 :::
 
 ## Điều trị

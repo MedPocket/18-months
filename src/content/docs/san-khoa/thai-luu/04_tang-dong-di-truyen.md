@@ -90,7 +90,7 @@ Chỉ nên xét nghiệm tầm soát Tăng đông di truyền ở phụ nữ man
 
 1. Tiền sử bản thân từng bị VTE (có hoặc không có yếu tố kích hoạt).
 2. Tiền sử có người thân thế hệ thứ nhất bị VTE trước 50 tuổi hoặc có đột biến gen tăng đông nguy cơ cao đã xác định.
-   :::
+:::
 
 Các xét nghiệm chẩn đoán di truyền bao gồm:
 
