@@ -19,8 +19,6 @@ jobs:
 
       - name: Run build
         uses: area44/workflows/astro@a7042d4efd197dd0a9587cdb1de9379c50414380 # v8.0.1
-        env:
-          BASE: /18-months/
 
   deploy:
     needs: build
