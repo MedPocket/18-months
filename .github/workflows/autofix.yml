@@ -1,4 +1,4 @@
-name: autofix.ci
+name: autofix.ci # needed to securely identify the workflow
 
 on:
   push:
@@ -16,4 +16,4 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
 
       - name: Run autofix
-        uses: area44/workflows/autofix@a7042d4efd197dd0a9587cdb1de9379c50414380 # v8.0.1
+        uses: area44/workflows/autofix@30b675e17ab2f76ad01d61ae48c2e52945947468 # v9.0.0
